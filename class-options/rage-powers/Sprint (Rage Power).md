@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Sprint
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 The barbarian adds 1/2 her speed to the distance she can move when she runs or charges. A barbarian must have the [[rangoric-srd/class-options/rage-powers/Swift Foot (Rage Power)|swift foot]] rage power and be at least 4th level to select this rage power.

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Transfer
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “transfer”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “transfer”, on the Special Attacks line.
 
 A bodythief can transfer a creature grappled with a tentacle to its mouth with a move action and a successful grapple combat maneuver check. The [[rangoric-srd/monsters/Bodythief|bodythief]] has it.

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Dual Wielder
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “dual wielder”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “dual wielder”, on the Special Attacks line.
 
 An aghasura does not take a penalty on attack or damage rolls when attacking with two weapons. The [[rangoric-srd/monsters/asuras/Aghasura|aghasura]] has it.

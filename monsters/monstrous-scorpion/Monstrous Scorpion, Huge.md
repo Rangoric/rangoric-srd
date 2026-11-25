@@ -37,24 +37,24 @@ tags: [rangoric, rangoric/monster]
 
 # Monstrous Scorpion, Huge
 
-  - Huge Vermin
-  - **Hit Dice**: 10d8+30 (75 hp)
-  - **Initiative**: +0
-  - **Speed**: 50 ft. (10 squares)
-  - **Armor Class**: 20 (–2 size, +12 natural), touch 8, flat-footed 20
-  - **Base Attack**: +7; **CMB**: +15 (+19 grapple); **CMD**: 25 (37 vs. trip)
-  - **Attack**: Claw +11 melee (1d8+6)
-  - **Full Attack**: 2 claws +11 melee (1d8+6) and sting +6 melee (2d4+3 plus poison)
-  - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: Constrict 1d8+6, improved grab, poison
-  - **Special Qualities**: Darkvision 60 ft., tremorsense 60 ft., vermin traits
-  - **Saves**: Fort +10, Ref +3, Will +3
-  - **Abilities**: Str 23, Dex 10, Con 16, Int —, Wis 10, Cha 2
-  - **Skills**: Athletics +23, Perception +4, Stealth –4
-  - **Feats**: —
-  - **Environment**: Warm deserts
-  - **Organization**: Solitary or colony (2–5)
-  - **Challenge Rating**: 7
-  - **Treasure**: 1/10 coins; 50% goods; 50% items
-  - **Advancement**: 11–19 HD (Huge)
-  - **Level Adjustment**: —
+- Huge Vermin
+- **Hit Dice**: 10d8+30 (75 hp)
+- **Initiative**: +0
+- **Speed**: 50 ft. (10 squares)
+- **Armor Class**: 20 (–2 size, +12 natural), touch 8, flat-footed 20
+- **Base Attack**: +7; **CMB**: +15 (+19 grapple); **CMD**: 25 (37 vs. trip)
+- **Attack**: Claw +11 melee (1d8+6)
+- **Full Attack**: 2 claws +11 melee (1d8+6) and sting +6 melee (2d4+3 plus poison)
+- **Space/Reach**: 15 ft./10 ft.
+- **Special Attacks**: Constrict 1d8+6, improved grab, poison
+- **Special Qualities**: Darkvision 60 ft., tremorsense 60 ft., vermin traits
+- **Saves**: Fort +10, Ref +3, Will +3
+- **Abilities**: Str 23, Dex 10, Con 16, Int —, Wis 10, Cha 2
+- **Skills**: Athletics +23, Perception +4, Stealth –4
+- **Feats**: —
+- **Environment**: Warm deserts
+- **Organization**: Solitary or colony (2–5)
+- **Challenge Rating**: 7
+- **Treasure**: 1/10 coins; 50% goods; 50% items
+- **Advancement**: 11–19 HD (Huge)
+- **Level Adjustment**: —

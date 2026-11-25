@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/armor]
 
 # Breakaway Carapace
 
-*Armor extra.* Cost 150 gp; Armor Bonus +4; Armor Check Penalty –9; Arcane Spell Failure 85%; Speed 15 ft. (30 ft.), 10 ft. (20 ft.); Weight 25 lb. ^stats
+_Armor extra._ Cost 150 gp; Armor Bonus +4; Armor Check Penalty –9; Arcane Spell Failure 85%; Speed 15 ft. (30 ft.), 10 ft. (20 ft.); Weight 25 lb. ^stats
 
 A strange invention of elven snipers, a breakaway carapace consists of thick plates of specially prepared bark. Elves who favor breakaway carapaces typically climb into hidden vantages in the tops of trees, waiting for their foes to come within sight. The carapace helps protect wearers from tree-dwelling predators that might find and surprise them.
 

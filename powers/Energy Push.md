@@ -33,7 +33,7 @@ Psychokinetic \[see text\]
 **Duration:** Instantaneous  
 **Saving Throw:** Reflex half or Fortitude half; see text  
 **Power Resistance:** Yes  
-**Power Points:** 3  
+**Power Points:** 3
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You project a solid blast of energy of the chosen type at a target, dealing it 2d6 points of damage. In addition, if a subject of up to one size category larger than you fails a Strength check (DC equal to the save DC of this power), the driving force of the energy blast pushes it back 5 feet plus another 5 feet for every 5 points of damage it takes. If a wall or other solid object prevents the subject from being pushed back, the subject instead slams into the object and takes an extra 2d6 points of damage from the impact (no save). The movement caused by energy push does not provoke attacks of opportunity.
 

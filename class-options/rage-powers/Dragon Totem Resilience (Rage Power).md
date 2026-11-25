@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Dragon Totem Resilience
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su)._
 
 While raging, the barbarian gains resistance to the energy type that is associated with her dragon totem—acid (black, copper, green), cold (silver, white), electricity (blue, bronze), or fire (brass, gold, red). This resistance equals double her current DR/— from her barbarian damage reduction class feature; this DR increases by 2 for each dragon totem rage power she possesses, including this one.
 

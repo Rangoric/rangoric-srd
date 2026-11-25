@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Hangman Tree
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 8d8+48 (84 hp)
-  - **Initiative**: +3
-  - **Speed**: 10 ft. (2 squares)
-  - **Armor Class**: 20 (–1 Dex, +13 natural, –2 size), touch 7, flat-footed 20
-  - **Base Attack**: +6; **CMB**: +15 (+19 grapple); **CMD**: 24
-  - **Attack**: Vines +11 melee (1d6+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Pull|pull]])
-  - **Full Attack**: 3 vines +11 melee (1d6+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Pull|pull]])
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d6+7), [[rangoric-srd/monsters/abilities/Hallucinatory Spores|hallucinatory spores]], [[rangoric-srd/monsters/abilities/Pull|pull]] (vine, 5 feet), [[rangoric-srd/monsters/abilities/Strangle|strangle]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d6+7 bludgeoning damage, AC 16, 8 hp), [[rangoric-srd/monsters/abilities/Vines|vines]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 18, vulnerable to electricity
-  - **Saves**: Fort +12, Ref +3, Will +5
-  - **Abilities**: Str 25, Dex 8, Con 23, Int 7, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] –2
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary or pair
-  - **Challenge Rating**: 7
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 8d8+48 (84 hp)
+- **Initiative**: +3
+- **Speed**: 10 ft. (2 squares)
+- **Armor Class**: 20 (–1 Dex, +13 natural, –2 size), touch 7, flat-footed 20
+- **Base Attack**: +6; **CMB**: +15 (+19 grapple); **CMD**: 24
+- **Attack**: Vines +11 melee (1d6+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Pull|pull]])
+- **Full Attack**: 3 vines +11 melee (1d6+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Pull|pull]])
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d6+7), [[rangoric-srd/monsters/abilities/Hallucinatory Spores|hallucinatory spores]], [[rangoric-srd/monsters/abilities/Pull|pull]] (vine, 5 feet), [[rangoric-srd/monsters/abilities/Strangle|strangle]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d6+7 bludgeoning damage, AC 16, 8 hp), [[rangoric-srd/monsters/abilities/Vines|vines]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 18, vulnerable to electricity
+- **Saves**: Fort +12, Ref +3, Will +5
+- **Abilities**: Str 25, Dex 8, Con 23, Int 7, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] –2
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Temperate forests
+- **Organization**: Solitary or pair
+- **Challenge Rating**: 7
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The hangman tree prefers to lie in wait near remote forest tracks and game trails, waiting for victims to wander by. These carnivorous plants are incredibly patient, and can wait for months in a single location for food to approach. When prey does draw near, the tree's vines lash like striking snakes. The tree often uses its pull ability to hoist grappled foes 10 to 15 feet in the air so that they are out of reach of allies while they slowly strangle. The tree generally only swallows one foe whole at a time, letting its other captured victims dangle and ripen until it is ready to feed on them.
 

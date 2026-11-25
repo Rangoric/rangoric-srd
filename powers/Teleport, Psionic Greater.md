@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/power]
 
 Psychoportation (Teleportation)  
 **Level:** Psion/wilder 8  
-**Power Points:** 15  
+**Power Points:** 15
 
 As the [[rangoric-srd/spells/Teleport, Greater|greater teleport]] spell, except as noted here.

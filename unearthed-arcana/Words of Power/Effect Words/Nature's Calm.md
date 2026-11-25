@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/word-of-power]
 
 # Nature's Calm
 
-*One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Animal Words|Animal group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]].*
+_One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Animal Words|Animal group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]]._
 
 **School** enchantment (charm) \[mind-affecting\]
 

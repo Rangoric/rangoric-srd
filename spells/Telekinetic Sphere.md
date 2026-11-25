@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Telekinetic Sphere
 
-*Evocation \[Force\]*
+_Evocation \[Force\]_
 
-  - **Level**: Psy 7, Sor/Wiz 8
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: 1-ft.-diameter/level sphere, centered around creatures or objects
-  - **Duration**: 1 min./level (D)
-  - **Saving Throw**: Reflex negates (object)
-  - **Spell Resistance**: Yes (object)
+- **Level**: Psy 7, Sor/Wiz 8
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: 1-ft.-diameter/level sphere, centered around creatures or objects
+- **Duration**: 1 min./level (D)
+- **Saving Throw**: Reflex negates (object)
+- **Spell Resistance**: Yes (object)
 
 This spell functions like [[rangoric-srd/spells/Resilient Sphere|resilient sphere]],with the addition that the creatures or objects inside the globe are nearly weightless. Anything contained within an telekinetic sphere weighs only one-sixteenth of its normal weight. You can telekinetically lift anything in the sphere that normally weighs 5,000 pounds or less. The telekinetic control extends from you out to medium range (100 feet + 10 feet per caster level) after the sphere has succeeded in encapsulating its contents.
 
@@ -46,4 +46,4 @@ The sphere falls at a rate of only 60 feet per round, which is not fast enough t
 
 You can move the sphere telekinetically even if you are in it.
 
-*Material Component*: A hemispherical piece of clear crystal, a matching hemispherical piece of gum arabic, and a pair of small bar magnets.
+_Material Component_: A hemispherical piece of clear crystal, a matching hemispherical piece of gum arabic, and a pair of small bar magnets.

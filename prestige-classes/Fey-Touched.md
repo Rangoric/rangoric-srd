@@ -51,18 +51,18 @@ The fey-touched’s class skills (and the key ability for each skill) are [[rang
 
 **Table: The Fey-Touched** ^table-the-fey-touched
 
-| Level | Special |
-| --- | --- |
-| 1st | Fey Sense, Low-light Vision |
-| 2nd | Prestidigitator |
-| 3rd | Luck of the Fey |
-| 4th | Fey Friend |
-| 5th | — |
-| 6th | Luck of the True Fey |
-| 7th | Slippery Mind |
-| 8th | Timeless Body |
-| 9th | Destined |
-| 10th | Soul of Ages |
+| Level | Special                     |
+| ----- | --------------------------- |
+| 1st   | Fey Sense, Low-light Vision |
+| 2nd   | Prestidigitator             |
+| 3rd   | Luck of the Fey             |
+| 4th   | Fey Friend                  |
+| 5th   | —                           |
+| 6th   | Luck of the True Fey        |
+| 7th   | Slippery Mind               |
+| 8th   | Timeless Body               |
+| 9th   | Destined                    |
+| 10th  | Soul of Ages                |
 
 ###### Class Features
 

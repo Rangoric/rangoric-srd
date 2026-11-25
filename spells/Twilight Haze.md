@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Twilight Haze
 
-*Illusion (Shadow) \[Darkness\]*
+_Illusion (Shadow) \[Darkness\]_
 
-  - **Level**: Mes 2, Psy 2, Sor/Wiz 2, Spi 2, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: Fog spreads in 20-ft. radius
-  - **Duration**: 1 round/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Mes 2, Psy 2, Sor/Wiz 2, Spi 2, Wit 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: Fog spreads in 20-ft. radius
+- **Duration**: 1 round/level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-You create a gray haze that obscures sight (as *[[rangoric-srd/spells/Fog Cloud|fog cloud]]*) and causes the illumination level within it to drop one step (as *[[rangoric-srd/spells/Darkness|darkness]]*). Since this spell produces an illusion rather than a true physical fog, it is unaffected by wind and can be cast underwater.
+You create a gray haze that obscures sight (as _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_) and causes the illumination level within it to drop one step (as _[[rangoric-srd/spells/Darkness|darkness]]_). Since this spell produces an illusion rather than a true physical fog, it is unaffected by wind and can be cast underwater.

@@ -30,17 +30,17 @@ tags: [rangoric, rangoric/spell]
 
 # Snooze
 
-*Enchantment (Compulsion)*
+_Enchantment (Compulsion)_
 
-  - **Level**: Brd 0, Hun 1, Rgr 1, Skd 0, Sor/Wiz 0
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Target**: One creature
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 0, Hun 1, Rgr 1, Skd 0, Sor/Wiz 0
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Target**: One creature
+- **Duration**: 1 minute/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
-As per the *[[rangoric-srd/spells/Sleep|sleep]]* spell, except this spell affects only one creature of up to 4 HD (roll 1d4). If the creature has more HD than the roll, the creature is unaffected.
+As per the _[[rangoric-srd/spells/Sleep|sleep]]_ spell, except this spell affects only one creature of up to 4 HD (roll 1d4). If the creature has more HD than the roll, the creature is unaffected.
 
-*Material Component*: A pinch of sand.
+_Material Component_: A pinch of sand.

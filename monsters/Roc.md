@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Roc
 
-  - Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 16d8+48 (120 hp)
-  - **Initiative**: +6
-  - **Speed**: 20 ft. (4 squares), fly 80 ft. (average)
-  - **Armor Class**: 22 (+2 Dex, +14 natural, –4 size), touch 8, flat-footed 20
-  - **Base Attack**: +12; **CMB**: +25 (+29 grapple); **CMD**: 37
-  - **Attack**: Talon +18 melee (2d6+9/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or bite +17 melee (2d8+9)
-  - **Full Attack**: 2 talons +18 melee (2d6+9/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and bite +17 melee (2d8+9)
-  - **Space/Reach**: 20 ft./15 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-  - **Saves**: Fort +13, Ref +14, Will +8
-  - **Abilities**: Str 28, Dex 15, Con 17, Int 2, Wis 12, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Perception|Perception]] +15
-  - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (talons), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (talons)
-  - **Environment**: Warm mountains
-  - **Organization**: Solitary, mated pair, or pair
-  - **Challenge Rating**: 9
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 19–32 HD (Gargantuan); 33–54 (Colossal)
-  - **Level Adjustment**: —
+- Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 16d8+48 (120 hp)
+- **Initiative**: +6
+- **Speed**: 20 ft. (4 squares), fly 80 ft. (average)
+- **Armor Class**: 22 (+2 Dex, +14 natural, –4 size), touch 8, flat-footed 20
+- **Base Attack**: +12; **CMB**: +25 (+29 grapple); **CMD**: 37
+- **Attack**: Talon +18 melee (2d6+9/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or bite +17 melee (2d8+9)
+- **Full Attack**: 2 talons +18 melee (2d6+9/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and bite +17 melee (2d8+9)
+- **Space/Reach**: 20 ft./15 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
+- **Saves**: Fort +13, Ref +14, Will +8
+- **Abilities**: Str 28, Dex 15, Con 17, Int 2, Wis 12, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Perception|Perception]] +15
+- **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (talons), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (talons)
+- **Environment**: Warm mountains
+- **Organization**: Solitary, mated pair, or pair
+- **Challenge Rating**: 9
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 19–32 HD (Gargantuan); 33–54 (Colossal)
+- **Level Adjustment**: —
 
 Rocs are terrifying, legendary birds renowned for their ability to carry off elephants and other big animals. A typical roc is 30 feet long from beak to tail, with an 80-foot wingspan and weight of up to 8,000 pounds. While their beaks are hooked like an eagle's and designed for slashing and tearing, most rocs prefer to seize prey in their massive, clawed talons and drop them from great heights before feasting on the shattered remains. For this reason, they are often followed by flocks of scavengers like rooks, buzzards, and eagles hoping to steal portions of the roc's messy meals. The roc generally ignores such opportunists, but if the scavengers don't take care, they nevertheless may find themselves accidentally consumed by the feeding roc.
 

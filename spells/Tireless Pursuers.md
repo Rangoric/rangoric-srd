@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Tireless Pursuers
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Hun 3, Inq 4, Rgr 3
-  - **Components**: V, S, M (a hard biscuit broken into pieces)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: You plus one touched creature/3 levels
-  - **Duration**: 1 hour/level (D)
-  - **Saving Throw**: Fortitude negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Hun 3, Inq 4, Rgr 3
+- **Components**: V, S, M (a hard biscuit broken into pieces)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: You plus one touched creature/3 levels
+- **Duration**: 1 hour/level (D)
+- **Saving Throw**: Fortitude negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-This spell functions as *[[rangoric-srd/spells/Tireless Pursuit|tireless pursuit]]*, except as noted above.
+This spell functions as _[[rangoric-srd/spells/Tireless Pursuit|tireless pursuit]]_, except as noted above.

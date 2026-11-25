@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Kyrana
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Fire)
-  - **Hit Dice**: 4d12+4 (30 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 14 (+2 Dex, +2 natural), touch 12, flat-footed 12
-  - **Base Attack**: +4; **CMB**: +7; **CMD**: 19 (23 vs. trip)
-  - **Attack**: Bite +8 melee (1d4+3) or claw +7 melee (1d3+3)
-  - **Full Attack**: Bite +8 melee (1d4+3) and 2 claws +7 melee (1d3+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (20-ft. line, 3d6 fire damage, Reflex DC 13 half, usable every 1d4 rounds)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fiery Regeneration|fiery regeneration]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, paralysis, and sleep, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|dragon traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
-  - **Saves**: Fort +5, Ref +6, Will +3
-  - **Abilities**: Str 16, Dex 15, Con 12, Int 3, Wis 9, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +9
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
-  - **Environment**: Any underground or warm deserts
-  - **Organization**: Solitary, pair
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Fire)
+- **Hit Dice**: 4d12+4 (30 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 14 (+2 Dex, +2 natural), touch 12, flat-footed 12
+- **Base Attack**: +4; **CMB**: +7; **CMD**: 19 (23 vs. trip)
+- **Attack**: Bite +8 melee (1d4+3) or claw +7 melee (1d3+3)
+- **Full Attack**: Bite +8 melee (1d4+3) and 2 claws +7 melee (1d3+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (20-ft. line, 3d6 fire damage, Reflex DC 13 half, usable every 1d4 rounds)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fiery Regeneration|fiery regeneration]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, paralysis, and sleep, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|dragon traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
+- **Saves**: Fort +5, Ref +6, Will +3
+- **Abilities**: Str 16, Dex 15, Con 12, Int 3, Wis 9, Cha 6
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +9
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
+- **Environment**: Any underground or warm deserts
+- **Organization**: Solitary, pair
+- **Challenge Rating**: 3
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Kyranas are large, iguana-like relatives of true dragons, with low intelligence and an affinity for fire. Though quite weak as dragons go, kyranas are still dangerous enough to command the fear and respect of kobolds, who often encounter the fire-breathing dragons while digging deep tunnels.
 

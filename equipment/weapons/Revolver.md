@@ -25,6 +25,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/firearms]
 
 # Revolver
 
-*Exotic one-handed advanced firearm.* Cost 4,000 gp; Dmg 1d6 (S), 1d8 (M); Critical x4; Range Increment 20 ft.; Misfire 1; Capacity 6; Weight 4 lb.; Type Bludgeoning and piercing. ^stats
+_Exotic one-handed advanced firearm._ Cost 4,000 gp; Dmg 1d6 (S), 1d8 (M); Critical x4; Range Increment 20 ft.; Misfire 1; Capacity 6; Weight 4 lb.; Type Bludgeoning and piercing. ^stats
 
 A revolver is a pistol with a revolving cylinder containing six chambers. Each chamber can hold a metal cartridge, and when one cartridge is shot, the cylinder automatically rotates (no extra hand or action required), readying the next chamber for firing. A revolver uses metal cartridges as ammunition.

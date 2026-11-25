@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 These supple gray leather slippers enable the wearer to keep his balance in precarious positions. The wearer retains his Dexterity bonus to AC when climbing, running, or using the [[rangoric-srd/skills/Acrobatics|Acrobatics]] skill to move on narrow surfaces or uneven ground without falling. In addition, the wearer gains a +2 competence bonus to [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] against [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] maneuvers and on Reflex saves to avoid falling (including falling [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]]).
 
-Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*; Price 3,000 gp; Cost 1,500 gp; Weight 2 lbs.
+Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_; Price 3,000 gp; Cost 1,500 gp; Weight 2 lbs.

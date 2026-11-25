@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/word-of-power]
 
 # Permanent Paralysis
 
-*One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Binding Words|Binding group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]].*
+_One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Binding Words|Binding group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]]._
 
 **School** enchantment (compulsion) \[mind-affecting\]
 
@@ -29,4 +29,4 @@ tags: [rangoric, rangoric/word-of-power]
 
 **Target Restrictions** selected
 
-This effect word functions as the *[[rangoric-srd/unearthed-arcana/Words of Power/Effect Words/Paralyze Humanoid|paralyze humanoid]]* word except that it can affect creatures of any type and the duration is permanent. A creature affected by a wordspell with this effect word receives one additional Will saving throw at the end of its first turn after initially failing the save. This saving throw is made to relieve this word's effects, not any others included in the original wordspell. If this save fails as well, the effect of this word can only be undone with *greater dispel magic*, *[[rangoric-srd/spells/Miracle|miracle]]*, or *[[rangoric-srd/spells/Wish|wish]]*.
+This effect word functions as the _[[rangoric-srd/unearthed-arcana/Words of Power/Effect Words/Paralyze Humanoid|paralyze humanoid]]_ word except that it can affect creatures of any type and the duration is permanent. A creature affected by a wordspell with this effect word receives one additional Will saving throw at the end of its first turn after initially failing the save. This saving throw is made to relieve this word's effects, not any others included in the original wordspell. If this save fails as well, the effect of this word can only be undone with _greater dispel magic_, _[[rangoric-srd/spells/Miracle|miracle]]_, or _[[rangoric-srd/spells/Wish|wish]]_.

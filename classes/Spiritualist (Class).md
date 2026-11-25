@@ -47,53 +47,53 @@ The spiritualist’s class skills (and the key ability for each skill) are [[ran
 
 **Table: The Spiritualist** ^table-the-spiritualist
 
-| Level | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | Etheric tether, knacks, phantom, shared consciousness | 1 | — | — | — | — | — |
-| 2nd | Bonded senses | 2 | — | — | — | — | — |
-| 3rd | Bonded manifestation | 3 | — | — | — | — | — |
-| 4th | Spiritual interference | 3 | 1 | — | — | — | — |
-| 5th | Detect undead | 4 | 2 | — | — | — | — |
-| 6th | Phantom recall 1/day | 4 | 3 | — | — | — | — |
-| 7th | Calm spirit 1/day | 4 | 3 | 1 | — | — | — |
-| 8th | Bonded manifestation increase | 4 | 4 | 2 | — | — | — |
-| 9th | See invisibility | 5 | 4 | 3 | — | — | — |
-| 10th | Fused consciousness, phantom recall 2/day | 5 | 4 | 3 | 1 | — | — |
-| 11th | Calm spirit 2/day | 5 | 4 | 4 | 2 | — | — |
-| 12th | Greater spiritual interference | 5 | 5 | 4 | 3 | — | — |
-| 13th | Bonded manifestation increase | 5 | 5 | 4 | 3 | 1 | — |
-| 14th | Phantom recall 3/day, spiritual bond | 5 | 5 | 4 | 4 | 2 | — |
-| 15th | Calm spirit 3/day | 5 | 5 | 5 | 4 | 3 | — |
-| 16th | Call spirit | 5 | 5 | 5 | 4 | 3 | 1 |
-| 17th | Dual bond | 5 | 5 | 5 | 4 | 4 | 2 |
-| 18th | Bonded manifestation increase, phantom recall 4/day | 5 | 5 | 5 | 5 | 4 | 3 |
-| 19th | Calm spirit 4/day | 5 | 5 | 5 | 5 | 5 | 4 |
-| 20th | Empowered consciousness | 5 | 5 | 5 | 5 | 5 | 5 |
+| Level | Special                                               | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
+| ----- | ----------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| 1st   | Etheric tether, knacks, phantom, shared consciousness | 1                   | —                   | —                   | —                   | —                   | —                   |
+| 2nd   | Bonded senses                                         | 2                   | —                   | —                   | —                   | —                   | —                   |
+| 3rd   | Bonded manifestation                                  | 3                   | —                   | —                   | —                   | —                   | —                   |
+| 4th   | Spiritual interference                                | 3                   | 1                   | —                   | —                   | —                   | —                   |
+| 5th   | Detect undead                                         | 4                   | 2                   | —                   | —                   | —                   | —                   |
+| 6th   | Phantom recall 1/day                                  | 4                   | 3                   | —                   | —                   | —                   | —                   |
+| 7th   | Calm spirit 1/day                                     | 4                   | 3                   | 1                   | —                   | —                   | —                   |
+| 8th   | Bonded manifestation increase                         | 4                   | 4                   | 2                   | —                   | —                   | —                   |
+| 9th   | See invisibility                                      | 5                   | 4                   | 3                   | —                   | —                   | —                   |
+| 10th  | Fused consciousness, phantom recall 2/day             | 5                   | 4                   | 3                   | 1                   | —                   | —                   |
+| 11th  | Calm spirit 2/day                                     | 5                   | 4                   | 4                   | 2                   | —                   | —                   |
+| 12th  | Greater spiritual interference                        | 5                   | 5                   | 4                   | 3                   | —                   | —                   |
+| 13th  | Bonded manifestation increase                         | 5                   | 5                   | 4                   | 3                   | 1                   | —                   |
+| 14th  | Phantom recall 3/day, spiritual bond                  | 5                   | 5                   | 4                   | 4                   | 2                   | —                   |
+| 15th  | Calm spirit 3/day                                     | 5                   | 5                   | 5                   | 4                   | 3                   | —                   |
+| 16th  | Call spirit                                           | 5                   | 5                   | 5                   | 4                   | 3                   | 1                   |
+| 17th  | Dual bond                                             | 5                   | 5                   | 5                   | 4                   | 4                   | 2                   |
+| 18th  | Bonded manifestation increase, phantom recall 4/day   | 5                   | 5                   | 5                   | 5                   | 4                   | 3                   |
+| 19th  | Calm spirit 4/day                                     | 5                   | 5                   | 5                   | 5                   | 5                   | 4                   |
+| 20th  | Empowered consciousness                               | 5                   | 5                   | 5                   | 5                   | 5                   | 5                   |
 
 **Table: Spiritualist Spells Known** ^table-spiritualist-spells-known
 
 | Level | Spells Known: 0 | Spells Known: 1st | Spells Known: 2nd | Spells Known: 3rd | Spells Known: 4th | Spells Known: 5th | Spells Known: 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | 4 | 2 | — | — | — | — | — |
-| 2nd | 5 | 3 | — | — | — | — | — |
-| 3rd | 6 | 4 | — | — | — | — | — |
-| 4th | 6 | 4 | 2 | — | — | — | — |
-| 5th | 6 | 4 | 3 | — | — | — | — |
-| 6th | 6 | 4 | 4 | — | — | — | — |
-| 7th | 6 | 5 | 4 | 2 | — | — | — |
-| 8th | 6 | 5 | 4 | 3 | — | — | — |
-| 9th | 6 | 5 | 4 | 4 | — | — | — |
-| 10th | 6 | 5 | 5 | 4 | 2 | — | — |
-| 11th | 6 | 6 | 5 | 4 | 3 | — | — |
-| 12th | 6 | 6 | 5 | 4 | 4 | — | — |
-| 13th | 6 | 6 | 5 | 5 | 4 | 2 | — |
-| 14th | 6 | 6 | 6 | 5 | 4 | 3 | — |
-| 15th | 6 | 6 | 6 | 5 | 4 | 4 | — |
-| 16th | 6 | 6 | 6 | 5 | 5 | 4 | 2 |
-| 17th | 6 | 6 | 6 | 6 | 5 | 4 | 3 |
-| 18th | 6 | 6 | 6 | 6 | 5 | 4 | 4 |
-| 19th | 6 | 6 | 6 | 6 | 5 | 5 | 4 |
-| 20th | 6 | 6 | 6 | 6 | 6 | 5 | 5 |
+| ----- | --------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
+| 1st   | 4               | 2                 | —                 | —                 | —                 | —                 | —                 |
+| 2nd   | 5               | 3                 | —                 | —                 | —                 | —                 | —                 |
+| 3rd   | 6               | 4                 | —                 | —                 | —                 | —                 | —                 |
+| 4th   | 6               | 4                 | 2                 | —                 | —                 | —                 | —                 |
+| 5th   | 6               | 4                 | 3                 | —                 | —                 | —                 | —                 |
+| 6th   | 6               | 4                 | 4                 | —                 | —                 | —                 | —                 |
+| 7th   | 6               | 5                 | 4                 | 2                 | —                 | —                 | —                 |
+| 8th   | 6               | 5                 | 4                 | 3                 | —                 | —                 | —                 |
+| 9th   | 6               | 5                 | 4                 | 4                 | —                 | —                 | —                 |
+| 10th  | 6               | 5                 | 5                 | 4                 | 2                 | —                 | —                 |
+| 11th  | 6               | 6                 | 5                 | 4                 | 3                 | —                 | —                 |
+| 12th  | 6               | 6                 | 5                 | 4                 | 4                 | —                 | —                 |
+| 13th  | 6               | 6                 | 5                 | 5                 | 4                 | 2                 | —                 |
+| 14th  | 6               | 6                 | 6                 | 5                 | 4                 | 3                 | —                 |
+| 15th  | 6               | 6                 | 6                 | 5                 | 4                 | 4                 | —                 |
+| 16th  | 6               | 6                 | 6                 | 5                 | 5                 | 4                 | 2                 |
+| 17th  | 6               | 6                 | 6                 | 6                 | 5                 | 4                 | 3                 |
+| 18th  | 6               | 6                 | 6                 | 6                 | 5                 | 4                 | 4                 |
+| 19th  | 6               | 6                 | 6                 | 6                 | 5                 | 5                 | 4                 |
+| 20th  | 6               | 6                 | 6                 | 6                 | 6                 | 5                 | 5                 |
 
 ###### Class Features
 
@@ -115,7 +115,7 @@ Upon reaching 5th level, and at every third spiritualist level thereafter (8th, 
 
 A spiritualist can fully manifest her phantom through a ritual that takes 1 minute to perform. When the phantom is fully manifested, the spiritualist can change the form of the phantom’s manifestation (either from ectoplasmic to incorporeal or vice versa) as a full-round action that provokes attacks of opportunity. When the phantom manifests, its hit points are unchanged from the last time it manifested, unless the phantom was slain and returned to the Ethereal Plane; in this case, the phantom manifests with half its maximum number of hit points. The phantom does not heal naturally, and can be healed only with magic or by being tended to with the [[rangoric-srd/skills/Medicine#Restoring Hit Points|Medicine]] skill while fully manifested in ectoplasmic form. The phantom stays fully manifested until it is either returned to the spiritualist’s consciousness (a standard action) or banished to the Ethereal Plane. If the phantom is banished to the Ethereal Plane, it can’t return to the spiritualist’s consciousness or manifest again for 24 hours.
 
-While fully manifested, a phantom can’t be returned to the Ethereal Plane by means of *[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, but spells such as *[[rangoric-srd/spells/Dismissal|dismissal]]* and *[[rangoric-srd/spells/Banishment|banishment]]* work normally. Whenever the spiritualist is unconscious or asleep, the phantom immediately returns to the spiritualist’s consciousness. If the spiritualist dies, the phantom is returned to the Ethereal Plane, and can’t return to the spiritualist’s consciousness until 24 hours after the spiritualist is brought back to life. A phantom can’t be dismissed or banished (by a spell or any other similar effect) while it resides in the spiritualist’s consciousness, as the phantom is protected from such effects by the power of the spiritualist’s psyche.
+While fully manifested, a phantom can’t be returned to the Ethereal Plane by means of _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, but spells such as _[[rangoric-srd/spells/Dismissal|dismissal]]_ and _[[rangoric-srd/spells/Banishment|banishment]]_ work normally. Whenever the spiritualist is unconscious or asleep, the phantom immediately returns to the spiritualist’s consciousness. If the spiritualist dies, the phantom is returned to the Ethereal Plane, and can’t return to the spiritualist’s consciousness until 24 hours after the spiritualist is brought back to life. A phantom can’t be dismissed or banished (by a spell or any other similar effect) while it resides in the spiritualist’s consciousness, as the phantom is protected from such effects by the power of the spiritualist’s psyche.
 
 Fully manifested phantoms can wear armor and use items (though not wield weapons) appropriate to their forms. Any items worn, carried, or held by a phantom are dropped when the phantom returns to the spiritualist’s consciousness, and must be retrieved and donned anew if the phantom wishes to use them when it fully manifests in the future.
 
@@ -125,7 +125,7 @@ A fully manifested phantom’s abilities, feats, Hit Dice, saving throws, and sk
 
 **Shared Consciousness (Su)**: At 1st level, while a phantom is confined in a spiritualist’s consciousness (but not while it’s fully manifested or banished to the Ethereal Plane), it grants the spiritualist the [[rangoric-srd/feats/Skill Focus|Skill Focus]] feat in two skills determined by the phantom’s emotional focus, unless the spiritualist already has Skill Focus in those skills. It also grants a +4 bonus on saving throws against all mind-affecting effects; at 12th level, this bonus increases to +8. ^spiritualist-shared-consciousness
 
-Lastly, once per day, when the spiritualist fails a saving throw against a mind-affecting effect, as an immediate action she can shunt that effect into the phantom’s section of her consciousness instead. When she does so, she is not affected by the mind-affecting effect, but for the normal duration of that effect, the spiritualist loses the bonuses on saving throws against mind-affecting effects and the Skill Focus effects granted by her phantom, and can’t use this ability to shunt a mind-affecting effect into the phantom’s consciousness or manifest her phantom in any way. When a mind-affecting effect is shunted into the phantom’s consciousness, spells such as *[[rangoric-srd/spells/Dispel Magic|dispel magic]]* and *[[rangoric-srd/spells/Break Enchantment|break enchantment]]* can be cast on the spiritualist to end the effect’s duration as if the spiritualist were affected by the mind-affecting effect.
+Lastly, once per day, when the spiritualist fails a saving throw against a mind-affecting effect, as an immediate action she can shunt that effect into the phantom’s section of her consciousness instead. When she does so, she is not affected by the mind-affecting effect, but for the normal duration of that effect, the spiritualist loses the bonuses on saving throws against mind-affecting effects and the Skill Focus effects granted by her phantom, and can’t use this ability to shunt a mind-affecting effect into the phantom’s consciousness or manifest her phantom in any way. When a mind-affecting effect is shunted into the phantom’s consciousness, spells such as _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_ and _[[rangoric-srd/spells/Break Enchantment|break enchantment]]_ can be cast on the spiritualist to end the effect’s duration as if the spiritualist were affected by the mind-affecting effect.
 
 **Etheric Tether (Su)**: At 1st level, a spiritualist can force the phantom to manifest in an area around her by pushing the phantom’s consciousness though the veil of ethereal essence, allowing it to fully manifest in either ectoplasmic or incorporeal form. Whenever her manifested phantom takes enough damage to send it back to the Ethereal Plane, as a reaction to the damage, the spiritualist can sacrifice any number of her hit points without using an action. Each hit point sacrificed in this way prevents 1 point of damage dealt to the phantom. This can prevent the phantom from being sent back to the Ethereal Plane. ^spiritualist-etheric-tether
 
@@ -142,21 +142,21 @@ During a bonded manifestation, the phantom can’t be damaged, dismissed, or ban
 When a spiritualist uses this ability, she must choose either ectoplasmic or incorporeal form. When she makes this choice, she gains all of the abilities based on the form she chooses and her spiritualist level.
 
 - **Ectoplasmic Bonded Manifestation**: When a spiritualist uses this ability and chooses ectoplasmic form, she gains an ectoplasmic shield that protects her without restricting her movement or actions. She gains a +4 shield bonus to Armor Class; this bonus applies to incorporeal touch attacks. The ectoplasmic shield has no armor check penalty or arcane spell failure chance. At 8th level, the spiritualist also sprouts a pair of ectoplasmic tendrils from her body. Once per round as either a swift or a standard action (spiritualist’s choice), the spiritualist can use one or both tendrils to attack creatures within her melee reach (using the attack bonus and damage dice of her ectoplasmic manifested phantom) or to manipulate objects. She can even use that action to have one tendril make an attack and the other manipulate an object, as long as that object can be manipulated with one hand. At 13th level, the phantom’s ectoplasm clings to the spiritualist like a suit of armor. This grants the spiritualist a +6 armor bonus to AC without imposing an armor check penalty, an arcane spell failure chance, or any reduction in speed. At 18th level, the spiritualist can take a full-round action to attack all creatures within her melee reach with her tendrils (using the attack bonus and damage dice of her ectoplasmic manifested phantom). When she does, she rolls the attack roll twice, takes the better of the two results, and uses that as her attack roll result against all creatures within her melee reach. If the better attack roll threatens a critical hit, the spiritualist chooses one target that she hit to confirm the critical hit against. The other attacks that hit are considered normal hits rather than critical threats.
-- **Incorporeal Bonded Manifestation**: When a spiritualist uses this ability and chooses incorporeal form, she becomes shrouded in a haze of insubstantial mist, granting her [[rangoric-srd/combat/Combat Modifiers#Concealment|concealment]] against ranged attacks. At 8th level, the spiritualist can better affect incorporeal creatures with melee attacks; her unarmed strikes and melee weapon attacks are treated as if they had the [[rangoric-srd/magic-items/weapon-abilities/Ghost Touch (Weapon Special Ability)|ghost touch]] magic weapon special ability. At 13th level, the spiritualist can take a standard action to become [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] (as the *[[rangoric-srd/spells/Invisibility|invisibility]]* spell) until the start of her next turn. At 18th level, the spiritualist gains the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^incorporeal|incorporeal subtype]] and a fly speed of 30 feet (good) while using this form of bonded manifestation.
+- **Incorporeal Bonded Manifestation**: When a spiritualist uses this ability and chooses incorporeal form, she becomes shrouded in a haze of insubstantial mist, granting her [[rangoric-srd/combat/Combat Modifiers#Concealment|concealment]] against ranged attacks. At 8th level, the spiritualist can better affect incorporeal creatures with melee attacks; her unarmed strikes and melee weapon attacks are treated as if they had the [[rangoric-srd/magic-items/weapon-abilities/Ghost Touch (Weapon Special Ability)|ghost touch]] magic weapon special ability. At 13th level, the spiritualist can take a standard action to become [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] (as the _[[rangoric-srd/spells/Invisibility|invisibility]]_ spell) until the start of her next turn. At 18th level, the spiritualist gains the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^incorporeal|incorporeal subtype]] and a fly speed of 30 feet (good) while using this form of bonded manifestation.
 
 **Spiritual Interference (Ex or Su)**: At 4th level, whenever a spiritualist is within the reach of her ectoplasmic manifested phantom, she gains a +2 shield bonus to her Armor Class and a +2 circumstance bonus on her saving throws. She doesn’t gain these bonuses when the ectoplasmic manifested phantom is [[rangoric-srd/rules/conditions/Grappled (Condition)|grappled]], [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]], or [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]]. A spiritualist within 30 feet of her incorporeally manifested phantom receives a +2 circumstance bonus on saving throws against mind-affecting effects. This bonus is a supernatural ability and does not apply if the phantom is unconscious. ^spiritualist-spiritual-interference
 
-**Detect Undead (Sp)**: At 5th level, a spiritualist’s connection with the Ethereal Plane becomes so strong that she can use *[[rangoric-srd/spells/Detect Undead|detect undead]]* at will as a spell-like ability with a caster level equal to her spiritualist level. ^spiritualist-detect-undead
+**Detect Undead (Sp)**: At 5th level, a spiritualist’s connection with the Ethereal Plane becomes so strong that she can use _[[rangoric-srd/spells/Detect Undead|detect undead]]_ at will as a spell-like ability with a caster level equal to her spiritualist level. ^spiritualist-detect-undead
 
-**Phantom Recall (Su)**: At 6th level, as either a swift or an immediate action, a spiritualist can call her manifested phantom to her side or back into her consciousness. This ability functions as *[[rangoric-srd/spells/Dimension Door|dimension door]]*, using the spiritualist’s class level as the caster level. When the spiritualist calls the phantom in this way, the phantom appears adjacent to the spiritualist (or as close as possible, if all adjacent spaces are occupied). ^spiritualist-phantom-recall
+**Phantom Recall (Su)**: At 6th level, as either a swift or an immediate action, a spiritualist can call her manifested phantom to her side or back into her consciousness. This ability functions as _[[rangoric-srd/spells/Dimension Door|dimension door]]_, using the spiritualist’s class level as the caster level. When the spiritualist calls the phantom in this way, the phantom appears adjacent to the spiritualist (or as close as possible, if all adjacent spaces are occupied). ^spiritualist-phantom-recall
 
 When the spiritualist uses this ability to call the phantom back to her consciousness, she can activate bonded manifestation as part of that action, but doing so costs 1 extra round of bonded manifestation.
 
 The spiritualist can use this ability once per day at 6th level, plus one additional time per day for every 4 spiritualist levels she possesses beyond 6th.
 
-**Calm Spirit (Sp)**: At 7th level, a spiritualist gains the ability to use *[[rangoric-srd/spells/Calm Spirit|calm spirit]]* as a spell-like ability once per day. At 11th level and every 4 levels thereafter, the spiritualist can use this ability an additional time per day (to a maximum of 4 times per day at 19th level). ^spiritualist-calm-spirit
+**Calm Spirit (Sp)**: At 7th level, a spiritualist gains the ability to use _[[rangoric-srd/spells/Calm Spirit|calm spirit]]_ as a spell-like ability once per day. At 11th level and every 4 levels thereafter, the spiritualist can use this ability an additional time per day (to a maximum of 4 times per day at 19th level). ^spiritualist-calm-spirit
 
-**See Invisibility (Sp)**: At 9th level, a spiritualist gains the ability to see many things normally hidden from sight. She gains the ability to use *[[rangoric-srd/spells/See Invisibility|see invisibility]]* as a spell-like ability once per day, with a duration of 10 minutes. ^spiritualist-see-invisibility
+**See Invisibility (Sp)**: At 9th level, a spiritualist gains the ability to see many things normally hidden from sight. She gains the ability to use _[[rangoric-srd/spells/See Invisibility|see invisibility]]_ as a spell-like ability once per day, with a duration of 10 minutes. ^spiritualist-see-invisibility
 
 **Fused Consciousness (Su)**: At 10th level, a spiritualist always gains the benefits of bonded senses when her phantom is manifested. She also gains the Skill Focus feats and the bonus on saving throws against mind-affecting effects that her phantom grants through [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-shared-consciousness|shared consciousness]], even when her phantom is manifested. Lastly, she can shunt the effect of a mind-affecting effect into the consciousness of her phantom as the shared consciousness ability even when the phantom is manifested, but doing so causes the phantom to immediately retreat back into the spiritualist’s consciousness. ^spiritualist-fused-consciousness
 
@@ -164,11 +164,11 @@ The spiritualist can use this ability once per day at 6th level, plus one additi
 
 **Spiritual Bond (Su)**: At 14th level, a spiritualist’s life force becomes intrinsically linked with the phantom’s spiritual essence. As long as the phantom has 1 or more hit points, when the spiritualist takes damage that would reduce her to fewer than 0 hit points, those points of damage are transferred to the phantom instead. This transfer stops after the phantom takes all the points of damage or the phantom is reduced to a negative amount of hit points equal to its Constitution score. In the latter case, points of damage dealt in excess of this limit are dealt to the spiritualist. This ability affects only effects that deal hit point damage. ^spiritualist-spiritual-bond
 
-**Call Spirit (Sp)**: At 16th level, a spiritualist gains the ability to use *[[rangoric-srd/spells/Call Spirit|call spirit]]* as a spell-like ability once per day. ^spiritualist-call-spirit
+**Call Spirit (Sp)**: At 16th level, a spiritualist gains the ability to use _[[rangoric-srd/spells/Call Spirit|call spirit]]_ as a spell-like ability once per day. ^spiritualist-call-spirit
 
 **Dual Bond (Su)**: At 17th level, the spiritualist can use her bonded manifestation ability a number of rounds per day equal to 3 + twice her spiritualist level. ^spiritualist-dual-bond
 
-**Empowered Consciousness (Su)**: At 20th level, while a spiritualist’s phantom is confined in her consciousness, she is immune to mind-affecting effects and spells and effects that involve [[rangoric-srd/rules/Possession (Rules)|possession]], such as *[[rangoric-srd/spells/Magic Jar|magic jar]]* and *[[rangoric-srd/spells/Possession|possession]]*. ^spiritualist-empowered-consciousness
+**Empowered Consciousness (Su)**: At 20th level, while a spiritualist’s phantom is confined in her consciousness, she is immune to mind-affecting effects and spells and effects that involve [[rangoric-srd/rules/Possession (Rules)|possession]], such as _[[rangoric-srd/spells/Magic Jar|magic jar]]_ and _[[rangoric-srd/spells/Possession|possession]]_. ^spiritualist-empowered-consciousness
 
 **Archetypes**: A spiritualist can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The spiritualist’s archetypes, with what each replaces: ^spiritualist-archetypes
 
@@ -222,40 +222,40 @@ A phantom’s abilities are determined by the spiritualist’s level and the cho
 
 **Table: Manifested Phantom’s Base Statistics** ^table-manifested-phantom-base-statistics
 
-| Class Level | HD | BAB | Good Saves | Poor Save | Skills | Feats | Armor Bonus | Dex/Cha Bonus | Slam Damage | Special |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | 1 | +1 | +2 | +0 | 2 | 1 | +0 | +0 | 1d6 | Darkvision, link, share spells |
-| 2nd | 2 | +2 | +3 | +0 | 4 | 1 | +2 | +1 | 1d6 | — |
-| 3rd | 3 | +3 | +3 | +1 | 6 | 2 | +2 | +1 | 1d6 | Deliver touch spells (30 ft.) |
-| 4th | 3 | +3 | +3 | +1 | 6 | 2 | +2 | +1 | 1d6 | Magic attacks |
-| 5th | 4 | +4 | +4 | +1 | 8 | 2 | +4 | +2 | 1d8 | Ability score increase |
-| 6th | 5 | +5 | +4 | +1 | 10 | 3 | +4 | +2 | 1d8 | Devotion |
-| 7th | 6 | +6 | +5 | +2 | 12 | 3 | +6 | +2 | 1d8 | — |
-| 8th | 6 | +6 | +5 | +2 | 12 | 3 | +6 | +3 | 1d8 | — |
-| 9th | 7 | +7 | +5 | +2 | 14 | 4 | +6 | +3 | 1d10 | Incorporeal flight |
-| 10th | 8 | +8 | +6 | +2 | 16 | 4 | +8 | +4 | 1d10 | Ability score increase |
-| 11th | 9 | +9 | +6 | +3 | 18 | 5 | +8 | +4 | 1d10 | — |
-| 12th | 9 | +9 | +6 | +3 | 18 | 5 | +10 | +5 | 1d10 | Deliver touch spells (50 ft.) |
-| 13th | 10 | +10 | +7 | +3 | 20 | 5 | +10 | +5 | 2d6 | — |
-| 14th | 11 | +11 | +7 | +3 | 22 | 6 | +10 | +5 | 2d6 | — |
-| 15th | 12 | +12 | +8 | +4 | 24 | 6 | +12 | +6 | 2d6 | Ability score increase |
-| 16th | 12 | +12 | +8 | +4 | 24 | 6 | +12 | +6 | 2d6 | — |
-| 17th | 13 | +13 | +8 | +4 | 26 | 7 | +14 | +7 | 2d8 | — |
-| 18th | 14 | +14 | +9 | +4 | 28 | 7 | +14 | +7 | 2d8 | — |
-| 19th | 15 | +15 | +9 | +5 | 30 | 8 | +14 | +7 | 2d8 | — |
-| 20th | 15 | +15 | +9 | +5 | 30 | 8 | +16 | +8 | 2d8 | — |
+| Class Level | HD  | BAB | Good Saves | Poor Save | Skills | Feats | Armor Bonus | Dex/Cha Bonus | Slam Damage | Special                        |
+| ----------- | --- | --- | ---------- | --------- | ------ | ----- | ----------- | ------------- | ----------- | ------------------------------ |
+| 1st         | 1   | +1  | +2         | +0        | 2      | 1     | +0          | +0            | 1d6         | Darkvision, link, share spells |
+| 2nd         | 2   | +2  | +3         | +0        | 4      | 1     | +2          | +1            | 1d6         | —                              |
+| 3rd         | 3   | +3  | +3         | +1        | 6      | 2     | +2          | +1            | 1d6         | Deliver touch spells (30 ft.)  |
+| 4th         | 3   | +3  | +3         | +1        | 6      | 2     | +2          | +1            | 1d6         | Magic attacks                  |
+| 5th         | 4   | +4  | +4         | +1        | 8      | 2     | +4          | +2            | 1d8         | Ability score increase         |
+| 6th         | 5   | +5  | +4         | +1        | 10     | 3     | +4          | +2            | 1d8         | Devotion                       |
+| 7th         | 6   | +6  | +5         | +2        | 12     | 3     | +6          | +2            | 1d8         | —                              |
+| 8th         | 6   | +6  | +5         | +2        | 12     | 3     | +6          | +3            | 1d8         | —                              |
+| 9th         | 7   | +7  | +5         | +2        | 14     | 4     | +6          | +3            | 1d10        | Incorporeal flight             |
+| 10th        | 8   | +8  | +6         | +2        | 16     | 4     | +8          | +4            | 1d10        | Ability score increase         |
+| 11th        | 9   | +9  | +6         | +3        | 18     | 5     | +8          | +4            | 1d10        | —                              |
+| 12th        | 9   | +9  | +6         | +3        | 18     | 5     | +10         | +5            | 1d10        | Deliver touch spells (50 ft.)  |
+| 13th        | 10  | +10 | +7         | +3        | 20     | 5     | +10         | +5            | 2d6         | —                              |
+| 14th        | 11  | +11 | +7         | +3        | 22     | 6     | +10         | +5            | 2d6         | —                              |
+| 15th        | 12  | +12 | +8         | +4        | 24     | 6     | +12         | +6            | 2d6         | Ability score increase         |
+| 16th        | 12  | +12 | +8         | +4        | 24     | 6     | +12         | +6            | 2d6         | —                              |
+| 17th        | 13  | +13 | +8         | +4        | 26     | 7     | +14         | +7            | 2d8         | —                              |
+| 18th        | 14  | +14 | +9         | +4        | 28     | 7     | +14         | +7            | 2d8         | —                              |
+| 19th        | 15  | +15 | +9         | +5        | 30     | 8     | +14         | +7            | 2d8         | —                              |
+| 20th        | 15  | +15 | +9         | +5        | 30     | 8     | +16         | +8            | 2d8         | —                              |
 
 The slam damage shown is for Medium phantoms.
 
 **Table: Small or Large Phantom Slam Damage** ^table-small-or-large-phantom-slam-damage
 
-| Level | Damage (Small Phantom) | Damage (Large Phantom) |
-| --- | --- | --- |
-| 1st–4th | 1d4 | 1d8 |
-| 5th–8th | 1d6 | 2d6 |
-| 9th–12th | 1d8 | 2d8 |
-| 13th–16th | 1d10 | 3d6 |
-| 17th–20th | 2d6 | 3d8 |
+| Level     | Damage (Small Phantom) | Damage (Large Phantom) |
+| --------- | ---------------------- | ---------------------- |
+| 1st–4th   | 1d4                    | 1d8                    |
+| 5th–8th   | 1d6                    | 2d6                    |
+| 9th–12th  | 1d8                    | 2d8                    |
+| 13th–16th | 1d10                   | 3d6                    |
+| 17th–20th | 2d6                    | 3d8                    |
 
 **Phantom Statistics**: A spiritualist’s phantom is typically the same size as the spiritualist. A spiritualist can have a phantom that is one size category smaller than her, and if she is Small or smaller, she can have a phantom one size category larger than her. A phantom is always a humanoid-shaped creature, and looks somewhat like it did in its past life while manifested, though the emotional turmoil of its existence usually warps its appearance in some way. Every phantom has the following base statistics, which are then modified by its size and emotional focus. ^spiritualist-phantom-statistics
 
@@ -266,8 +266,8 @@ The slam damage shown is for Medium phantoms.
 **Full Manifestation Forms**: Each time she fully manifests her phantom, the spiritualist must choose whether to manifest the phantom in either ectoplasmic or incorporeal form. The phantom gains the statistics presented on Table: Manifested Phantom’s Base Statistics, modified by the phantom’s emotional focus and by the type of manifestation the spiritualist chooses. ^spiritualist-manifestation-forms
 
 - **Ectoplasmic**: When the spiritualist manifests her phantom in ectoplasmic form, the phantom gains the following abilities.
-  - *Damage Reduction*: A phantom manifested in ectoplasmic form has DR 5/slashing. When the spiritualist reaches 5th level, the phantom gains DR 5/magic. At 10th level, the damage reduction increases to 10/magic. At 15th level, it increases to 15/magic, and at 20th level, the damage reduction becomes DR 15/—.
-  - *Phase Lurch (Su)*: A phantom in ectoplasmic form has the ability to pass through walls or material obstacles. In order to use this ability, it must begin and end its turn outside whatever wall or obstacle it’s moving through. An ectoplasmic phantom can’t move through corporeal creatures with this ability, and its movement speed is halved while moving through a wall or obstacle. Any surface it moves through is coated with a thin, silvery mucus that lingers for 1 minute.
+  - _Damage Reduction_: A phantom manifested in ectoplasmic form has DR 5/slashing. When the spiritualist reaches 5th level, the phantom gains DR 5/magic. At 10th level, the damage reduction increases to 10/magic. At 15th level, it increases to 15/magic, and at 20th level, the damage reduction becomes DR 15/—.
+  - _Phase Lurch (Su)_: A phantom in ectoplasmic form has the ability to pass through walls or material obstacles. In order to use this ability, it must begin and end its turn outside whatever wall or obstacle it’s moving through. An ectoplasmic phantom can’t move through corporeal creatures with this ability, and its movement speed is halved while moving through a wall or obstacle. Any surface it moves through is coated with a thin, silvery mucus that lingers for 1 minute.
 - **Incorporeal**: When the spiritualist chooses to manifest the phantom in incorporeal form, the phantom appears within 30 feet of the spiritualist as a ghostly apparition. It gains the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^incorporeal|incorporeal subtype]], including a deflection bonus to AC equal to its Charisma modifier. Since it isn’t an undead creature, it takes no damage from holy water or positive energy. Unlike other incorporeal creatures, an incorporeal phantom can’t attack corporeal creatures, except to deliver touch-attack spells using the deliver touch spells ability. An incorporeal manifested phantom can make slam attacks against other incorporeal creatures as if it were in ectoplasmic form.
 
 **Emotional Focus**: Each phantom has an emotional focus—a powerful emotion based on some experience in life that keeps it tethered to the Material and Ethereal planes. This emotional focus also grants the phantom abilities that it can use while manifested. The type of each ability and its power are determined by the spiritualist’s level. ^spiritualist-emotional-focus

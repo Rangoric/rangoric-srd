@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Gaki
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 9d8+32 (74 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares), fly 30 ft. (average)
-  - **Armor Class**: 20 (+2 Dex, +1 dodge, +7 natural), touch 13, flat-footed 17
-  - **Base Attack**: +6; **CMB**: +9 (+13 grapple); **CMD**: 22
-  - **Attack**: Claw +9 melee (2d6+3) or bite +9 melee (2d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: 2 claws +9 melee (2d6+3) and bite +9 melee (2d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 5 ft./5 ft. (10 ft. with bite)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d2 Constitution), [[rangoric-srd/monsters/abilities/Fear|fear]] cone (30 ft., DC 16), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect evil, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Aversion to Sun and Moon|aversion to sun and moon]], [[rangoric-srd/monsters/abilities/Compulsive Hunger|compulsive hunger]], vulnerable to cold and fire
-  - **Saves**: Fort +5, Ref +7, Will +9
-  - **Abilities**: Str 16, Dex 15, Con —, Int 9, Wis 12, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +14
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
-  - **Environment**: Any land
-  - **Organization**: Solitary or gang (2–4)
-  - **Challenge Rating**: 7
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 9d8+32 (74 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares), fly 30 ft. (average)
+- **Armor Class**: 20 (+2 Dex, +1 dodge, +7 natural), touch 13, flat-footed 17
+- **Base Attack**: +6; **CMB**: +9 (+13 grapple); **CMD**: 22
+- **Attack**: Claw +9 melee (2d6+3) or bite +9 melee (2d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: 2 claws +9 melee (2d6+3) and bite +9 melee (2d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 5 ft./5 ft. (10 ft. with bite)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d2 Constitution), [[rangoric-srd/monsters/abilities/Fear|fear]] cone (30 ft., DC 16), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect evil, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Aversion to Sun and Moon|aversion to sun and moon]], [[rangoric-srd/monsters/abilities/Compulsive Hunger|compulsive hunger]], vulnerable to cold and fire
+- **Saves**: Fort +5, Ref +7, Will +9
+- **Abilities**: Str 16, Dex 15, Con —, Int 9, Wis 12, Cha 18
+- **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +14
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
+- **Environment**: Any land
+- **Organization**: Solitary or gang (2–4)
+- **Challenge Rating**: 7
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 When an especially jealous or greedy evil person dies, it sometimes returns as a gaki—a misshapen creature with a supernatural hunger for things of the material world. Mistakenly called "hungry ghosts" because of their ability to fly and turn invisible, gakis believe that if they consume the right material—typically meat, wine, blood, flowers, and souls—they can form a new body resembling their former mortal shapes. Its long, thin neck restricts how much it can eat, and the creature is perpetually starving. It prefers to consume evil creatures, believing it gains more sustenance from a sinful being than a righteous one, but it won't pass up any mortal flesh. Some gakis believe they must consume flesh from demons or undead, and fixate on these creatures to the aversion of all others.
 
@@ -73,7 +73,7 @@ Gakis speak Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +9): Constant—*[[rangoric-srd/spells/Detect Evil|detect evil]]*; At will—*[[rangoric-srd/spells/Invisibility|invisibility]]*; 1/day—*[[rangoric-srd/spells/Disguise Self|disguise self]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +9): Constant—_[[rangoric-srd/spells/Detect Evil|detect evil]]_; At will—_[[rangoric-srd/spells/Invisibility|invisibility]]_; 1/day—_[[rangoric-srd/spells/Disguise Self|disguise self]]_.
 
 **[[rangoric-srd/monsters/abilities/Aversion to Sun and Moon|Aversion to Sun and Moon]] (Ex)**: A gaki takes 1d4 points of fire damage every round it's exposed to the light of a full moon. It takes 1d4 points of cold damage every round it is exposed to direct sunlight.
 

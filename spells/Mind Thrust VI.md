@@ -23,15 +23,15 @@ tags: [rangoric, rangoric/spell]
 
 # Mind Thrust VI
 
-*Divination*
+_Divination_
 
-  - **Level**: Psy 6
-  - **Components**: S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will half
-  - **Spell Resistance**: Yes
+- **Level**: Psy 6
+- **Components**: S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: Instantaneous
+- **Saving Throw**: Will half
+- **Spell Resistance**: Yes
 
-This functions as *[[rangoric-srd/spells/Mind Thrust IV|mind thrust IV]]*, but the target takes 1d8 points of damage per caster level (maximum 20d8) and is exhausted and stunned for 1 round if it fails its save. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].
+This functions as _[[rangoric-srd/spells/Mind Thrust IV|mind thrust IV]]_, but the target takes 1d8 points of damage per caster level (maximum 20d8) and is exhausted and stunned for 1 round if it fails its save. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].

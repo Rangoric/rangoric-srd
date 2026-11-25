@@ -61,7 +61,7 @@ Organization: Solitary or with grove of treants    
 Challenge Rating: 25      
 Treasure: Standard      
 Alignment: Always neutral good      
-Advancement: 51-150 HD (Colossal)      
+Advancement: 51-150 HD (Colossal)    
 
 Elder treants speak the language of treants, plus Common and Sylvan.
 
@@ -77,10 +77,10 @@ Plant Traits: Immune to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep,
 
 Skills: Elder treants receive skills as though they were [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|fey]]. \*They have a +24 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks made in forested areas.
 
-Spell-Like Abilities: Caster level 23rd; save DC 22 + spell level. The save DCs are Charisma-based.  
+Spell-Like Abilities: Caster level 23rd; save DC 22 + spell level. The save DCs are Charisma-based.
 
-At will - [[rangoric-srd/spells/Animal Messenger|animal messenger]], [[rangoric-srd/spells/Command Plants|command plants]], [[rangoric-srd/spells/Speak with Plants|speak with plants]], [[rangoric-srd/spells/Stone Tell|stone tell]];  
+At will - [[rangoric-srd/spells/Animal Messenger|animal messenger]], [[rangoric-srd/spells/Command Plants|command plants]], [[rangoric-srd/spells/Speak with Plants|speak with plants]], [[rangoric-srd/spells/Stone Tell|stone tell]];
 
-3/day - [[rangoric-srd/spells/Cure Light Wounds, Mass|mass cure light wounds]] (plants only), [[rangoric-srd/spells/Plant Growth|plant growth]], [[rangoric-srd/spells/Sunburst|sunburst]], [[rangoric-srd/spells/Wall of Thorns|wall of thorns]];  
+3/day - [[rangoric-srd/spells/Cure Light Wounds, Mass|mass cure light wounds]] (plants only), [[rangoric-srd/spells/Plant Growth|plant growth]], [[rangoric-srd/spells/Sunburst|sunburst]], [[rangoric-srd/spells/Wall of Thorns|wall of thorns]];
 
 1/day - [[rangoric-srd/spells/Shambler|shambler]].

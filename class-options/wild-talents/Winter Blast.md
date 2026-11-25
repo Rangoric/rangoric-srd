@@ -18,14 +18,14 @@ tags: [rangoric, rangoric/class-option]
 
 # Winter Blast
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Elements**: [[rangoric-srd/class-options/elements/Water Element|water]] and [[rangoric-srd/class-options/elements/Wood Element|wood]]
-  - **Type**: composite blast (Sp)
-  - **Level**: —
-  - **Burn**: 2
-  - **Prerequisites**: [[rangoric-srd/class-options/wild-talents/Cold Blast|cold blast]], [[rangoric-srd/class-options/wild-talents/Wood Blast|wood blast]]
-  - **Blast Type**: physical
-  - **Damage**: half cold and half bludgeoning, piercing, or slashing
+- **Elements**: [[rangoric-srd/class-options/elements/Water Element|water]] and [[rangoric-srd/class-options/elements/Wood Element|wood]]
+- **Type**: composite blast (Sp)
+- **Level**: —
+- **Burn**: 2
+- **Prerequisites**: [[rangoric-srd/class-options/wild-talents/Cold Blast|cold blast]], [[rangoric-srd/class-options/wild-talents/Wood Blast|wood blast]]
+- **Blast Type**: physical
+- **Damage**: half cold and half bludgeoning, piercing, or slashing
 
 You unleash a blast of frigid frost and jagged, bare branches at your target.

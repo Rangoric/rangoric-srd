@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Languid Whips
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “languid whips”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “languid whips”, on the Special Qualities line.
 
 A weedwhip's tentacles don't threaten any squares, and doesn't make attacks of opportunity. The [[rangoric-srd/monsters/Weedwhip|weedwhip]] has it.

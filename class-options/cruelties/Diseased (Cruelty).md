@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Diseased
 
-*A [[rangoric-srd/classes/Antipaladin#^antipaladin-cruelty|cruelty]], available from 6th level.*
+_A [[rangoric-srd/classes/Antipaladin#^antipaladin-cruelty|cruelty]], available from 6th level._
 
-The target contracts a disease, as if the antipaladin had cast *[[rangoric-srd/spells/Contagion|contagion]]*, using his antipaladin level as his caster level.
+The target contracts a disease, as if the antipaladin had cast _[[rangoric-srd/spells/Contagion|contagion]]_, using his antipaladin level as his caster level.

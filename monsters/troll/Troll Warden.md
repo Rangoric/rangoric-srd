@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Troll Warden
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
-  - **Hit Dice**: 6d8+2d10+64 (102 hp)
-  - **Initiative**: +4
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 24 (+5 armor, +1 deflection, +4 Dex, +5 natural, –1 size), touch 14, flat-footed 20
-  - **Base Attack**: +6; **CMB**: +13; **CMD**: 28
-  - **Attack**: Bite +12 melee (1d8+6) or claw +12 melee (1d6+6)
-  - **Full Attack**: Bite +12 melee (1d8+6) and 2 claws +12 melee (1d6+6)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (natural weapon), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (humans +2), [[rangoric-srd/monsters/abilities/Rend|rend]] (2 claws, 1d6+9)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or fire), [[rangoric-srd/classes/Ranger|track]] +1, [[rangoric-srd/classes/Ranger|wild empathy]] -1
-  - **Saves**: Fort +17, Ref +10, Will +3
-  - **Abilities**: Str 23, Dex 18, Con 27, Int 6, Wis 11, Cha 4
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +15
-  - **Feats**: [[rangoric-srd/feats/Rending Claws|Rending Claws]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Sprinting Troll|Sprinting Troll]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
-  - **Environment**: Cold mountains
-  - **Organization**: Solitary, or with other trolls (see [[rangoric-srd/monsters/troll/Troll|Troll]])
-  - **Challenge Rating**: 6
-  - **Treasure**: NPC gear (combat gear: potion of invisibility; other gear: +1 chain shirt, cloak of resistance +1, ring of protection +1, 100 gp)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
+- **Hit Dice**: 6d8+2d10+64 (102 hp)
+- **Initiative**: +4
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 24 (+5 armor, +1 deflection, +4 Dex, +5 natural, –1 size), touch 14, flat-footed 20
+- **Base Attack**: +6; **CMB**: +13; **CMD**: 28
+- **Attack**: Bite +12 melee (1d8+6) or claw +12 melee (1d6+6)
+- **Full Attack**: Bite +12 melee (1d8+6) and 2 claws +12 melee (1d6+6)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (natural weapon), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (humans +2), [[rangoric-srd/monsters/abilities/Rend|rend]] (2 claws, 1d6+9)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or fire), [[rangoric-srd/classes/Ranger|track]] +1, [[rangoric-srd/classes/Ranger|wild empathy]] -1
+- **Saves**: Fort +17, Ref +10, Will +3
+- **Abilities**: Str 23, Dex 18, Con 27, Int 6, Wis 11, Cha 4
+- **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +15
+- **Feats**: [[rangoric-srd/feats/Rending Claws|Rending Claws]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Sprinting Troll|Sprinting Troll]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
+- **Environment**: Cold mountains
+- **Organization**: Solitary, or with other trolls (see [[rangoric-srd/monsters/troll/Troll|Troll]])
+- **Challenge Rating**: 6
+- **Treasure**: NPC gear (combat gear: potion of invisibility; other gear: +1 chain shirt, cloak of resistance +1, ring of protection +1, 100 gp)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A troll warden is a [[rangoric-srd/monsters/troll/Troll|troll]] with 2 levels of [[rangoric-srd/classes/Ranger|ranger]], one of the troll defenders. In small troll groups, one member is singled out to safeguard the tribe members and the wilderness they call home. Such a troll might have magical power or simply knowledge of the natural world.
 

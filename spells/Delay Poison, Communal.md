@@ -35,15 +35,15 @@ tags: [rangoric, rangoric/spell]
 
 # Delay Poison, Communal
 
-*Conjuration (Healing)*
+_Conjuration (Healing)_
 
-  - **Level**: Alc 3, Brd 3, Clr 3, Drd 3, Hun 3, Inq 3, Pal 3, Rgr 3, Skd 3, Wit 3
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creatures touched
-  - **Duration**: 1 hour/level
-  - **Saving Throw**: Fortitude negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Alc 3, Brd 3, Clr 3, Drd 3, Hun 3, Inq 3, Pal 3, Rgr 3, Skd 3, Wit 3
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creatures touched
+- **Duration**: 1 hour/level
+- **Saving Throw**: Fortitude negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-This spell functions like *[[rangoric-srd/spells/Delay Poison|delay poison]]*, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-hour intervals among the creatures touched.
+This spell functions like _[[rangoric-srd/spells/Delay Poison|delay poison]]_, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-hour intervals among the creatures touched.

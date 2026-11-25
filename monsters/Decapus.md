@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Decapus
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 6d8+18 (45 hp)
-  - **Initiative**: +1
-  - **Speed**: 10 ft. (2 squares), climb 30 ft.
-  - **Armor Class**: 16 (+1 Dex, +5 natural), touch 11, flat-footed 15
-  - **Base Attack**: +4; **CMB**: +7 (+11 grapple); **CMD**: 18 (can't be tripped)
-  - **Attack**: Bite +7 melee (1d6+3) or tentacle +13 melee (2d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +7 melee (1d6+3) and tentacles +8 melee (2d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d4+4), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Sound Mimicry|sound mimicry]] (voices), [[rangoric-srd/monsters/abilities/Tentacles (Decapus)|tentacles]]
-  - **Saves**: Fort +4, Ref +3, Will +5
-  - **Abilities**: Str 16, Dex 13, Con 15, Int 10, Wis 11, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7 (-1 jump), [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +9
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception), [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacles)
-  - **Environment**: Temperate forests or underground
-  - **Organization**: Solitary or mated pair
-  - **Challenge Rating**: 4
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 6d8+18 (45 hp)
+- **Initiative**: +1
+- **Speed**: 10 ft. (2 squares), climb 30 ft.
+- **Armor Class**: 16 (+1 Dex, +5 natural), touch 11, flat-footed 15
+- **Base Attack**: +4; **CMB**: +7 (+11 grapple); **CMD**: 18 (can't be tripped)
+- **Attack**: Bite +7 melee (1d6+3) or tentacle +13 melee (2d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +7 melee (1d6+3) and tentacles +8 melee (2d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d4+4), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Sound Mimicry|sound mimicry]] (voices), [[rangoric-srd/monsters/abilities/Tentacles (Decapus)|tentacles]]
+- **Saves**: Fort +4, Ref +3, Will +5
+- **Abilities**: Str 16, Dex 13, Con 15, Int 10, Wis 11, Cha 12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7 (-1 jump), [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception), [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacles)
+- **Environment**: Temperate forests or underground
+- **Organization**: Solitary or mated pair
+- **Challenge Rating**: 4
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Named for its resemblance to a 10-armed octopus, the strange decapus is one of many bizarre creatures that hail from the deepest caverns of the world. When they are encountered aboveground, their affinity for forests (they particularly enjoy clambering around in tangled canopies) suggests that their original source might be some strange, deep underground cavern wherein magical jungles grow.
 
@@ -73,6 +73,6 @@ A typical decapus has a legspan of 8 feet and weighs 200 pounds.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +7): At will—*[[rangoric-srd/spells/Minor Image|minor image]]* (DC 13).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +7): At will—_[[rangoric-srd/spells/Minor Image|minor image]]_ (DC 13).
 
 **[[rangoric-srd/monsters/abilities/Tentacles (Decapus)|Tentacles]] (Ex)**: A decapus's tentacles must all strike at a single target, but they do so as a primary attack.

@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Ventriloquism
 
-*A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Su).*
+_A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Su)._
 
-As a swift action, the ninja can throw her voice as if using the spell *[[rangoric-srd/spells/Ventriloquism|ventriloquism]]*. She can use this ability for 1 minute per ninja level. Each use of this ability uses up 1 ki point.
+As a swift action, the ninja can throw her voice as if using the spell _[[rangoric-srd/spells/Ventriloquism|ventriloquism]]_. She can use this ability for 1 minute per ninja level. Each use of this ability uses up 1 ki point.

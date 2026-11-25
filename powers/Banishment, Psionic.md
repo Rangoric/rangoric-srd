@@ -31,7 +31,7 @@ Targets: One or more extraplanar creatures, no two of which can be more than 30 
 Duration: Instantaneous  
 Saving Throw: Will negates  
 Power Resistance: Yes  
-Power Points: 11  
+Power Points: 11
 
 As the [[rangoric-srd/spells/Banishment|banishment]] spell, except as noted here.
 

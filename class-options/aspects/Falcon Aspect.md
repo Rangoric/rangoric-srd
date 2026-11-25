@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Falcon Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The falcon senses all and has the speed to hunt down even the most elusive prey. Those who take this aspect gain enhanced abilities to perceive and reconnoiter the wilderness—little escapes this shifter’s attention.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The falcon senses all and has the speed to hunt down even the most elusive prey. Those who take this aspect gain enhanced abilities to perceive and reconnoiter the wilderness—little escapes this shifter’s attention._
 
 **Minor Form**: You gain a +4 competence bonus on Perception checks.
 

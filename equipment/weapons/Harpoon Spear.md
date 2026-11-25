@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/weapon]
 
 # Harpoon Spear
 
-*Ammunition.* Cost 5 gp; Weight 5 lb. ^stats
+_Ammunition._ Cost 5 gp; Weight 5 lb. ^stats

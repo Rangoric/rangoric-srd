@@ -20,14 +20,14 @@ tags: [rangoric, rangoric/spell]
 
 # Symbol of Pain
 
-*Necromancy \[Evil\]*
+_Necromancy \[Evil\]_
 
-  - **Level**: Clr 5, Mes 5, Occ 4, Sor/Wiz 5, Wit 5
+- **Level**: Clr 5, Mes 5, Occ 4, Sor/Wiz 5, Wit 5
 
 This spell functions like [[rangoric-srd/spells/Symbol of Death|symbol of death]], except that each creature within the radius of a symbol of pain instead suffers wracking pains that impose a –4 penalty on attack rolls, skill checks, and ability checks. These effects last for 1 hour after the creature moves farther than 60 feet from the symbol.
 
 Unlike symbol of death, symbol of pain has no hit point limit; once triggered, a symbol of pain simply remains active for 10 minutes per caster level.
 
-*Note*: Magic traps such as symbol of pain are hard to detect and disable. A rogue (only) can use the [[rangoric-srd/skills/Investigation|Investigation]] skill to find a symbol of pain and [[rangoric-srd/skills/Engineering|Engineering]] to thwart it. The DC in each case is 25 + spell level, or 30 for symbol of pain.
+_Note_: Magic traps such as symbol of pain are hard to detect and disable. A rogue (only) can use the [[rangoric-srd/skills/Investigation|Investigation]] skill to find a symbol of pain and [[rangoric-srd/skills/Engineering|Engineering]] to thwart it. The DC in each case is 25 + spell level, or 30 for symbol of pain.
 
-*Material Component*: Mercury and phosphorus, plus powdered diamond and opal with a total value of at least 1,000 gp.
+_Material Component_: Mercury and phosphorus, plus powdered diamond and opal with a total value of at least 1,000 gp.

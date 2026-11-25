@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/overview]
 
 One of the more radical concepts recently introduced to the D\&D game is the metamagic feat. These feats allow spellcasters to tinker with their spells' range, area, damage, components required, and even casting time. While such options existed in previous editions of the game, they usually required the caster to use other spells to affect his magic, tather than relying on pure talent.
 
-However, this new option comes with a significant cost, particularly for those casters who prepare spells (such as clerics, druids, and wizards). Such characters must plan in advance which spells they wish to use their metamagic feats on, and prepare those spells in the appropriate higher-level spells slot. This requirement forces the character to guess which spells will be needed in which situations. If a caster anticipates being grappled, a [[rangoric-srd/feats/Still Spell|stilled spell]] would be extraordinarily valuable - but which one? If a character expects to be sneaking around, she should consider using [[rangoric-srd/feats/Silent Spell|Silent Spell]] on one or more of her spells - but how many? In many cases, these choices are for naught, since the caster ends up using her silent [[rangoric-srd/spells/Magic Missile|magic missile]] in ordinary combat or her enlarged *[[rangoric-srd/spells/Fireball|fireball]]* in a space to small to take advantage of the expanded range.
+However, this new option comes with a significant cost, particularly for those casters who prepare spells (such as clerics, druids, and wizards). Such characters must plan in advance which spells they wish to use their metamagic feats on, and prepare those spells in the appropriate higher-level spells slot. This requirement forces the character to guess which spells will be needed in which situations. If a caster anticipates being grappled, a [[rangoric-srd/feats/Still Spell|stilled spell]] would be extraordinarily valuable - but which one? If a character expects to be sneaking around, she should consider using [[rangoric-srd/feats/Silent Spell|Silent Spell]] on one or more of her spells - but how many? In many cases, these choices are for naught, since the caster ends up using her silent [[rangoric-srd/spells/Magic Missile|magic missile]] in ordinary combat or her enlarged _[[rangoric-srd/spells/Fireball|fireball]]_ in a space to small to take advantage of the expanded range.
 
 Characters who son't prepare spells in advance (such as bards and sorcerers) have a distict advantage in that they can choose to use their metamagic feats "on the fly"; that is, at the time of casting. The cost is an extended casting time (making [[rangoric-srd/feats/Quicken Spell|Quicken Spell]] a useless option for such characters), but this cost is rarely balanced with that paid by other spellcasters.
 
@@ -69,12 +69,11 @@ The second variant is both more and less restrictive than either the standard ve
 
 On the other hand, this variant allows a spellcaster to apply a metamagic feat to her most powerful spells right away. A 9th-level caster whi picks up [[rangoric-srd/feats/Quicken Spell|Quicken Spell]] can quicken even her 5th-level spells - but at a cost of four additional 5th-level spell slots, which few 9th-level spellcasters have. This means that metamagic feats have a more dramatic effect on combat, as characters "juice up" their most powerful spells from the moment they select the feat.
 
-
 ##### House Rule: Metamagic and Sorcerers I
 
 A sorcerer who wants to make better use of his metamagic feats, including the possibility of using [[rangoric-srd/feats/Quicken Spell|Quicken Spell]] can treat a metamagic version of a spell as a unique spell known. He must know any metamagic feats he applies to the spell, and he must know the unmodified version of the spell. For example, a 10the-level sorcerer who knows [[rangoric-srd/spells/Magic Missile|magic missile]] and the Quicken Spell feat can add "quickened magic missile" to his list of spells known, counting as his one 5th-level spell.
 
-*-James Wyatt*
+_-James Wyatt_
 
 ##### House Rule: Metamagic and Sorcerers II
 
@@ -84,4 +83,4 @@ I allow sorcerers who know metamagic feats to "reserve" (essentially, prepare) s
 
 The sorcerer, when he reserves the slots, does not have to specify the exact spells that occupy them. He has, of course, designated the level of the spell: Only a 0- or 1st-level spells can fill up the [[rangoric-srd/feats/Quicken Spell|Quicken Spell]] slot - it could be [[rangoric-srd/spells/Magic Missile|magic missile]], [[rangoric-srd/spells/Mage Armor|mage armor]], or any other 1st-level spell he knows. [[rangoric-srd/feats/Empower Spell|Empower Spell]] adds two levels to a spells effective level, so empowered versions of 2nd-level spells occupy the 4th-level slots. If the sorcerer changes his mind later in the day, he can "unreserve" the slots by taking 15 minutes of time per slot to do so. Otherwise, the slots remain reserved until the sorcerer either casts spells using those slots or sleeps for a night, resetting all his spell slots to normal.
 
-*-Ed Stark*
+_-Ed Stark_

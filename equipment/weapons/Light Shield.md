@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/close]
 
 # Light Shield
 
-*Martial light melee weapon.* Cost special; Dmg 1d2 (S), 1d3 (M); Critical x2; Weight special; Type Bludgeoning. ^stats
+_Martial light melee weapon._ Cost special; Dmg 1d2 (S), 1d3 (M); Critical x2; Weight special; Type Bludgeoning. ^stats
 
 You can bash with a shield instead of using it for defense. See Armor for details.

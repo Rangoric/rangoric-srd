@@ -28,10 +28,10 @@ Followers of the Aspect of the Plant nourish and promote the growth of flowers, 
 
 How these effects work is in [[rangoric-srd/races/aspects-of-nature/Aspects of Nature#Aspect of Nature Effects|Aspect of Nature Effects]].
 
-| Facet | Bonus | Penalty |
-| --- | --- | --- |
-| The Ferns | +1 to Will saving throws | -1 to Reflex saving throws |
-| The Flowers | capable spellcasting (fire) | crude spellcasting (cold) |
-| The Grasses | +1 to Damage rolls 3x/day | -1 to Attack rolls 3x/day |
-| The Mosses | +1 to Fortitude saving throws | -1 to AC 3x/day |
-| The Trees | +1 to AC 3x/day | -1 to Damage rolls 3x/day |
+| Facet       | Bonus                         | Penalty                    |
+| ----------- | ----------------------------- | -------------------------- |
+| The Ferns   | +1 to Will saving throws      | -1 to Reflex saving throws |
+| The Flowers | capable spellcasting (fire)   | crude spellcasting (cold)  |
+| The Grasses | +1 to Damage rolls 3x/day     | -1 to Attack rolls 3x/day  |
+| The Mosses  | +1 to Fortitude saving throws | -1 to AC 3x/day            |
+| The Trees   | +1 to AC 3x/day               | -1 to Damage rolls 3x/day  |

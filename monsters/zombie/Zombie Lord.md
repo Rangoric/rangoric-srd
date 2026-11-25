@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Zombie Lord
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 5d8+8 (30 hp)
-  - **Initiative**: +3
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 18 (+3 Dex, +1 dodge, +2 Wis, +2 natural), touch 16, flat-footed 14
-  - **Base Attack**: +3; **CMB**: +7; **CMD**: 22
-  - **Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +6 melee (1d6+3) or flurry of blows +5 melee (1d6+3)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +6 melee (1d6+3); or flurry of blows +5/+5 melee (1d6+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (3/day, DC 13)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Monk#^monk-evasion|evasion]], [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/classes/Monk#^monk-fast-movement|fast movement]], [[rangoric-srd/classes/Monk#^monk-maneuver-training|maneuver training]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-  - **Saves**: Fort +3, Ref +6, Will +8
-  - **Abilities**: Str 17, Dex 16, Con —, Int 12, Wis 15, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +11, [[rangoric-srd/skills/Theology|Theology]] +6
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Deflect Arrows|Deflect Arrows]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]], [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, or cult (3–6)
-  - **Challenge Rating**: 3
-  - **Treasure**: NPC gear
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 5d8+8 (30 hp)
+- **Initiative**: +3
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 18 (+3 Dex, +1 dodge, +2 Wis, +2 natural), touch 16, flat-footed 14
+- **Base Attack**: +3; **CMB**: +7; **CMD**: 22
+- **Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +6 melee (1d6+3) or flurry of blows +5 melee (1d6+3)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +6 melee (1d6+3); or flurry of blows +5/+5 melee (1d6+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (3/day, DC 13)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Monk#^monk-evasion|evasion]], [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/classes/Monk#^monk-fast-movement|fast movement]], [[rangoric-srd/classes/Monk#^monk-maneuver-training|maneuver training]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
+- **Saves**: Fort +3, Ref +6, Will +8
+- **Abilities**: Str 17, Dex 16, Con —, Int 12, Wis 15, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +11, [[rangoric-srd/skills/Theology|Theology]] +6
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Deflect Arrows|Deflect Arrows]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]], [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Any
+- **Organization**: Solitary, pair, or cult (3–6)
+- **Challenge Rating**: 3
+- **Treasure**: NPC gear
+- **Alignment**: Usually lawful evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The zombie lord above is a human zombie lord with 3 levels of [[rangoric-srd/classes/Monk|monk]].
 

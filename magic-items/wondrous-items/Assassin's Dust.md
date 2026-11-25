@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Assassin's Dust
 
-This fine dust causes bare skin that it comes in contact with to burn and tingle. When sprinkled on a corpse or an inanimate skeleton, it causes the dead flesh and bones to disintegrate into a fine brown powder similar to that left by a *[[rangoric-srd/spells/Disintegrate|disintegrate]]* spell. *Assassin's dust* comes in a small vial suitable for treating eight Small corpses, four Medium corpses, or one Large corpse. A skeletal corpse counts as half a corpse of its size. This dust has no effect on living or undead creatures.
+This fine dust causes bare skin that it comes in contact with to burn and tingle. When sprinkled on a corpse or an inanimate skeleton, it causes the dead flesh and bones to disintegrate into a fine brown powder similar to that left by a _[[rangoric-srd/spells/Disintegrate|disintegrate]]_ spell. _Assassin's dust_ comes in a small vial suitable for treating eight Small corpses, four Medium corpses, or one Large corpse. A skeletal corpse counts as half a corpse of its size. This dust has no effect on living or undead creatures.
 
-Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Disintegrate|disintegrate]]*; Price 750 gp; Cost 375 gp.
+Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Disintegrate|disintegrate]]_; Price 750 gp; Cost 375 gp.

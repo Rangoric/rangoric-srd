@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Bhole
 
-  - Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 20d10+180 (290 hp)
-  - **Initiative**: +3
-  - **Speed**: 50 ft. (10 squares), burrow 50 ft.
-  - **Armor Class**: 33 (–1 Dex, +32 natural, –8 size), touch 1, flat-footed 33
-  - **Base Attack**: +20; **CMB**: —; **CMD**: 54 (56 vs. bull rush, can't be tripped)
-  - **Attack**: Bite +29 melee (6d6+25/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or slam +29 melee (3d8+25/19–20)
-  - **Full Attack**: Bite +29 melee (6d6+25/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and slam +29 melee (3d8+25/19–20)
-  - **Space/Reach**: 30 ft./60 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], [[rangoric-srd/monsters/abilities/Overwhelming Strength|overwhelming strength]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (20d6 acid damage, AC 26, 29 hp), [[rangoric-srd/monsters/abilities/Trample|trample]] (DC 37)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, immunity to acid, fire, disease, magical control, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], poison, sleep and stun, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 28
-  - **Saves**: Fort +21, Ref +13, Will +11
-  - **Abilities**: Str 44, Dex 8, Con 28, Int 3, Wis 21, Cha 23
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +28
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (slam), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-  - **Environment**: Any underground
-  - **Organization**: Solitary
-  - **Challenge Rating**: 17
-  - **Treasure**: None
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 20d10+180 (290 hp)
+- **Initiative**: +3
+- **Speed**: 50 ft. (10 squares), burrow 50 ft.
+- **Armor Class**: 33 (–1 Dex, +32 natural, –8 size), touch 1, flat-footed 33
+- **Base Attack**: +20; **CMB**: —; **CMD**: 54 (56 vs. bull rush, can't be tripped)
+- **Attack**: Bite +29 melee (6d6+25/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or slam +29 melee (3d8+25/19–20)
+- **Full Attack**: Bite +29 melee (6d6+25/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and slam +29 melee (3d8+25/19–20)
+- **Space/Reach**: 30 ft./60 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], [[rangoric-srd/monsters/abilities/Overwhelming Strength|overwhelming strength]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (20d6 acid damage, AC 26, 29 hp), [[rangoric-srd/monsters/abilities/Trample|trample]] (DC 37)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, immunity to acid, fire, disease, magical control, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], poison, sleep and stun, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 28
+- **Saves**: Fort +21, Ref +13, Will +11
+- **Abilities**: Str 44, Dex 8, Con 28, Int 3, Wis 21, Cha 23
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +28
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (slam), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+- **Environment**: Any underground
+- **Organization**: Solitary
+- **Challenge Rating**: 17
+- **Treasure**: None
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Known on some worlds as dholes, bholes are among the largest of living creatures, wormlike leviathans of such size that few can claim to have seen one wholly from head to tail, and those who do suffer from madness or other afflictions that cause others to doubt these tales. The coloration of these creature ranges widely, from dark blues and purples to pale grays, yellows, or white. A bhole's cavernous mouth consists of long, bony jaws that extend and unfold from the creature's head when it feeds.
 

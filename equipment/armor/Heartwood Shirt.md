@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/armor]
 
 # Heartwood Shirt
 
-*Light armor.* Cost 4,500 gp; Armor Bonus +4; Maximum Dex Bonus +4; Armor Check Penalty –3; Arcane Spell Failure 25%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 25 lb. ^stats
+_Light armor._ Cost 4,500 gp; Armor Bonus +4; Maximum Dex Bonus +4; Armor Check Penalty –3; Arcane Spell Failure 25%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 25 lb. ^stats
 
 Made of specially treated wood grown in secret groves, this is one of the finest and most expensive forms of armor available.
 

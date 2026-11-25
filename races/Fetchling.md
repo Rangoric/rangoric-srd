@@ -26,7 +26,7 @@ Perks:
 - Skilled: +2 racial bonus on [[rangoric-srd/skills/Theology|Theology]] and [[rangoric-srd/skills/Stealth|Stealth]] checks.
 - Shadow Blending: Attacks against a fetchling in shadowy illumination have a 50% [[rangoric-srd/combat/Combat Modifiers#Concealment|miss chance]] instead of the normal 20% miss chance. This ability does not grant total concealment; it just increases the miss chance. This is a supernatural ability.
 - Shadowy Resistance: Fetchlings have cold resistance 5 and electricity resistance 5 (see [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy|resistance to energy]]).
-- Spell-Like Abilities: Fetchlings can use *[[rangoric-srd/spells/Disguise Self|disguise self]]* once per day as a spell-like ability, assuming the form of any humanoid creature. At 9th level (in any combination of classes), a fetchling gains *[[rangoric-srd/spells/Shadow Walk|shadow walk]]* (self only) as a spell-like ability usable once per day, and at 13th level *[[rangoric-srd/spells/Plane Shift|plane shift]]* (self only, to the [[rangoric-srd/rules/Planes#Plane of Shadow|Plane of Shadow]] or the Material Plane only) usable once per day (caster level equal to the fetchling's character level).
+- Spell-Like Abilities: Fetchlings can use _[[rangoric-srd/spells/Disguise Self|disguise self]]_ once per day as a spell-like ability, assuming the form of any humanoid creature. At 9th level (in any combination of classes), a fetchling gains _[[rangoric-srd/spells/Shadow Walk|shadow walk]]_ (self only) as a spell-like ability usable once per day, and at 13th level _[[rangoric-srd/spells/Plane Shift|plane shift]]_ (self only, to the [[rangoric-srd/rules/Planes#Plane of Shadow|Plane of Shadow]] or the Material Plane only) usable once per day (caster level equal to the fetchling's character level).
 
 Languages:
 
@@ -46,17 +46,17 @@ Bonus Languages:
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 20 years | +1d6 | +2d6 | +3d6 |
+| --------- | --------- | ----------- | ------- |
+| 20 years  | +1d6      | +2d6        | +3d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 62 years | 93 years | 125 years | +3d20 years |
+| Middle Age | Old      | Venerable | Maximum Age |
+| ---------- | -------- | --------- | ----------- |
+| 62 years   | 93 years | 125 years | +3d20 years |
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 5 ft. 4 in. | +2d6 | 90 lb. | × 3 lb. |
-| Female | 5 ft. 2 in. | +2d6 | 80 lb. | × 3 lb. |
+| ------ | ----------- | --------------- | ----------- | --------------- |
+| Male   | 5 ft. 4 in. | +2d6            | 90 lb.      | × 3 lb.         |
+| Female | 5 ft. 2 in. | +2d6            | 80 lb.      | × 3 lb.         |
 
 ### Description
 
@@ -78,13 +78,13 @@ Infused with the essence of the Plane of Shadow and possessing human blood commi
 
 A fetchling can take any of these in place of the traits they replace or modify (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Emissary\|Emissary]] | Shadow blending |
-| [[rangoric-srd/races/racial-traits/Gloom Shimmer\|Gloom Shimmer]] | Modifies: spell-like abilities |
-| [[rangoric-srd/races/racial-traits/Shadow Magic\|Shadow Magic]] | Skilled |
+| Trait                                                                       | Replaces                       |
+| --------------------------------------------------------------------------- | ------------------------------ |
+| [[rangoric-srd/races/racial-traits/Emissary\|Emissary]]                     | Shadow blending                |
+| [[rangoric-srd/races/racial-traits/Gloom Shimmer\|Gloom Shimmer]]           | Modifies: spell-like abilities |
+| [[rangoric-srd/races/racial-traits/Shadow Magic\|Shadow Magic]]             | Skilled                        |
 | [[rangoric-srd/races/racial-traits/Subtle Manipulator\|Subtle Manipulator]] | Modifies: spell-like abilities |
-| [[rangoric-srd/races/racial-traits/World Walker\|World Walker]] | Modifies: skilled |
+| [[rangoric-srd/races/racial-traits/World Walker\|World Walker]]             | Modifies: skilled              |
 
 ### Class Bonuses
 
@@ -96,7 +96,7 @@ A fetchling gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonus
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
+| Archetype                                                                                   | Class                                       |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------- |
 | [[rangoric-srd/class-options/archetypes/summoner/Shadow Caller (Archetype)\|Shadow Caller]] | [[rangoric-srd/classes/Summoner\|Summoner]] |
-| [[rangoric-srd/class-options/archetypes/ranger/Dusk Stalker (Archetype)\|Dusk Stalker]] | [[rangoric-srd/classes/Ranger\|Ranger]] |
+| [[rangoric-srd/class-options/archetypes/ranger/Dusk Stalker (Archetype)\|Dusk Stalker]]     | [[rangoric-srd/classes/Ranger\|Ranger]]     |

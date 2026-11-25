@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Improved Alignment-Based Casting
 
-Prerequisites: Access to domain of Chaos, Evil, Good, or Law, alignment must match domain chosen, ability to cast 9th-level divine spells.  
+Prerequisites: Access to domain of Chaos, Evil, Good, or Law, alignment must match domain chosen, ability to cast 9th-level divine spells.
 
 Benefit: Select an alignment-based domain (Chaos, Evil, Good, or Law) to which the character has access. The character casts spells with that alignment descriptor at +3 caster level.
 

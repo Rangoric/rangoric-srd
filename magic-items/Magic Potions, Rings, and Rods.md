@@ -41,8 +41,8 @@ The caster level for a standard potion is the minimum caster level needed to cas
 
 **Table: POTIONS AND OILS**
 
-| Minor | Medium | Major | Potion or Oil                                                                                  | Market Price |
-| ----- | ------ | ----- | ---------------------------------------------------------------------------------------------- | ------------ |
+| Minor | Medium | Major | Potion or Oil                                                                                | Market Price |
+| ----- | ------ | ----- | -------------------------------------------------------------------------------------------- | ------------ |
 | 01–10 | —      | —     | [[rangoric-srd/spells/Cure Light Wounds\|Cure light wounds (potion)]]                        | 50 gp        |
 | 11–13 | —      | —     | [[rangoric-srd/spells/Endure Elements\|Endure elements (potion)]]                            | 50 gp        |
 | 14–15 | —      | —     | [[rangoric-srd/spells/Hide from Animals\|Hide from animals (potion)]]                        | 50 gp        |
@@ -58,7 +58,7 @@ The caster level for a standard potion is the minimum caster level needed to cas
 | 35    | —      | —     | [[rangoric-srd/spells/Sanctuary\|Sanctuary (potion)]]                                        | 50 gp        |
 | 36–38 | —      | —     | [[rangoric-srd/spells/Shield of Faith\|Shield of faith +2 (potion)]]                         | 50 gp        |
 | 39    | —      | —     | [[rangoric-srd/spells/Shillelagh\|Shillelagh (oil)]]                                         | 50 gp        |
-| 40–41 | 01–02  | —     | [[rangoric-srd/spells/Bless Weapon\|Bless weapon (oil)]]                                      | 100 gp       |
+| 40–41 | 01–02  | —     | [[rangoric-srd/spells/Bless Weapon\|Bless weapon (oil)]]                                     | 100 gp       |
 | 42–44 | 03–04  | —     | [[rangoric-srd/spells/Enlarge Person\|Enlarge person (potion)]]                              | 250 gp       |
 | 45    | 05     | —     | [[rangoric-srd/spells/Reduce Person\|Reduce person (potion)]]                                | 250 gp       |
 | 46–47 | 06     | —     | [[rangoric-srd/spells/Aid\|Aid (potion)]]                                                    | 300 gp       |
@@ -143,8 +143,8 @@ A character can only effectively wear two magic rings. A third magic ring doesn�
 
 **Table: RINGS**
 
-| Minor  | Medium | Major | Ring                                                                                      | Market Price |
-| ------ | ------ | ----- | ----------------------------------------------------------------------------------------- | ------------ |
+| Minor  | Medium | Major | Ring                                                                                    | Market Price |
+| ------ | ------ | ----- | --------------------------------------------------------------------------------------- | ------------ |
 | 01–18  | —      | —     | [[rangoric-srd/magic-items/Magic Potions, Rings, and Rods\|Protection +1]]              | 2,000 gp     |
 | 19–28  | —      | —     | [[rangoric-srd/magic-items/Magic Potions, Rings, and Rods\|Feather falling]]            | 2,200 gp     |
 | 29–36  | —      | —     | [[rangoric-srd/magic-items/Magic Potions, Rings, and Rods\|Sustenance]]                 | 2,500 gp     |
@@ -196,40 +196,40 @@ A character can only effectively wear two magic rings. A third magic ring doesn�
 
 Standard rings are described below.
 
-  - [[rangoric-srd/magic-items/rings/Ring of Animal Friendship|Ring of Animal Friendship]]
-  - [[rangoric-srd/magic-items/rings/Ring of Blinking|Ring of Blinking]]
-  - [[rangoric-srd/magic-items/rings/Ring of Chameleon Power|Ring of Chameleon Power]]
-  - [[rangoric-srd/magic-items/rings/Ring of Climbing|Ring of Climbing]]
-  - [[rangoric-srd/magic-items/rings/Ring of Improved Climbing|Ring of Improved Climbing]]
-  - [[rangoric-srd/magic-items/rings/Ring of Counterspells|Ring of Counterspells]]
-  - [[rangoric-srd/magic-items/rings/Ring of Djinni Calling|Ring of Djinni Calling]]
-  - [[rangoric-srd/magic-items/rings/Ring of Elemental Command|Ring of Elemental Command]]
-  - [[rangoric-srd/magic-items/rings/Ring of Energy Resistance, Minor|Ring of Energy Resistance]]
-  - [[rangoric-srd/magic-items/rings/Ring of Evasion|Ring of Evasion]]
-  - [[rangoric-srd/magic-items/rings/Ring of Feather Falling|Ring of Feather Falling]]
-  - [[rangoric-srd/magic-items/rings/Ring of Force Shield|Ring of Force Shield]]
-  - [[rangoric-srd/magic-items/rings/Ring of Freedom of Movement|Ring of Freedom of Movement]]
-  - [[rangoric-srd/magic-items/rings/Ring of Friend Shield|Ring of Friend Shield]]
-  - [[rangoric-srd/magic-items/rings/Ring of Invisibility|Ring of Invisibility]]
-  - [[rangoric-srd/magic-items/rings/Ring of Jumping|Ring of Jumping]]
-  - [[rangoric-srd/magic-items/rings/Ring of Improved Jumping|Ring of Improved Jumping]]
-  - [[rangoric-srd/magic-items/rings/Ring of Mind Shielding|Ring of Mind Shielding]]
-  - [[rangoric-srd/magic-items/rings/Ring of Protection +1|Ring of Protection]]
-  - [[rangoric-srd/magic-items/rings/Ring of Ram|Ring of Ram]]
-  - [[rangoric-srd/magic-items/rings/Ring of Regeneration|Ring of Regeneration]]
-  - [[rangoric-srd/magic-items/rings/Ring of Shooting Stars|Ring of Shooting Stars]]
-  - [[rangoric-srd/magic-items/rings/Ring of Minor Spell Storing|Ring of Minor Spell Storing]]
-  - [[rangoric-srd/magic-items/rings/Ring of Spell Storing|Ring of Spell Storing]]
-  - [[rangoric-srd/magic-items/rings/Ring of Major Spell Storing|Ring of Major Spell Storing]]
-  - [[rangoric-srd/magic-items/rings/Ring of Spell Turning|Ring of Spell Turning]]
-  - [[rangoric-srd/magic-items/rings/Ring of Sustenance|Ring of Sustenance]]
-  - [[rangoric-srd/magic-items/rings/Ring of Swimming|Ring of Swimming]]
-  - [[rangoric-srd/magic-items/rings/Ring of Improved Swimming|Ring of Improved Swimming]]
-  - [[rangoric-srd/magic-items/rings/Ring of Telekinesis|Ring of Telekinesis]]
-  - [[rangoric-srd/magic-items/rings/Ring of Three Wishes|Ring of Three Wishes]]
-  - [[rangoric-srd/magic-items/rings/Ring of Water Walking|Ring of Water Walking]]
-  - [[rangoric-srd/magic-items/rings/Ring of Wizardry I|Ring of Wizardry]]
-  - [[rangoric-srd/magic-items/rings/Ring of X-Ray Vision|Ring of X-Ray Vision]]
+- [[rangoric-srd/magic-items/rings/Ring of Animal Friendship|Ring of Animal Friendship]]
+- [[rangoric-srd/magic-items/rings/Ring of Blinking|Ring of Blinking]]
+- [[rangoric-srd/magic-items/rings/Ring of Chameleon Power|Ring of Chameleon Power]]
+- [[rangoric-srd/magic-items/rings/Ring of Climbing|Ring of Climbing]]
+- [[rangoric-srd/magic-items/rings/Ring of Improved Climbing|Ring of Improved Climbing]]
+- [[rangoric-srd/magic-items/rings/Ring of Counterspells|Ring of Counterspells]]
+- [[rangoric-srd/magic-items/rings/Ring of Djinni Calling|Ring of Djinni Calling]]
+- [[rangoric-srd/magic-items/rings/Ring of Elemental Command|Ring of Elemental Command]]
+- [[rangoric-srd/magic-items/rings/Ring of Energy Resistance, Minor|Ring of Energy Resistance]]
+- [[rangoric-srd/magic-items/rings/Ring of Evasion|Ring of Evasion]]
+- [[rangoric-srd/magic-items/rings/Ring of Feather Falling|Ring of Feather Falling]]
+- [[rangoric-srd/magic-items/rings/Ring of Force Shield|Ring of Force Shield]]
+- [[rangoric-srd/magic-items/rings/Ring of Freedom of Movement|Ring of Freedom of Movement]]
+- [[rangoric-srd/magic-items/rings/Ring of Friend Shield|Ring of Friend Shield]]
+- [[rangoric-srd/magic-items/rings/Ring of Invisibility|Ring of Invisibility]]
+- [[rangoric-srd/magic-items/rings/Ring of Jumping|Ring of Jumping]]
+- [[rangoric-srd/magic-items/rings/Ring of Improved Jumping|Ring of Improved Jumping]]
+- [[rangoric-srd/magic-items/rings/Ring of Mind Shielding|Ring of Mind Shielding]]
+- [[rangoric-srd/magic-items/rings/Ring of Protection +1|Ring of Protection]]
+- [[rangoric-srd/magic-items/rings/Ring of Ram|Ring of Ram]]
+- [[rangoric-srd/magic-items/rings/Ring of Regeneration|Ring of Regeneration]]
+- [[rangoric-srd/magic-items/rings/Ring of Shooting Stars|Ring of Shooting Stars]]
+- [[rangoric-srd/magic-items/rings/Ring of Minor Spell Storing|Ring of Minor Spell Storing]]
+- [[rangoric-srd/magic-items/rings/Ring of Spell Storing|Ring of Spell Storing]]
+- [[rangoric-srd/magic-items/rings/Ring of Major Spell Storing|Ring of Major Spell Storing]]
+- [[rangoric-srd/magic-items/rings/Ring of Spell Turning|Ring of Spell Turning]]
+- [[rangoric-srd/magic-items/rings/Ring of Sustenance|Ring of Sustenance]]
+- [[rangoric-srd/magic-items/rings/Ring of Swimming|Ring of Swimming]]
+- [[rangoric-srd/magic-items/rings/Ring of Improved Swimming|Ring of Improved Swimming]]
+- [[rangoric-srd/magic-items/rings/Ring of Telekinesis|Ring of Telekinesis]]
+- [[rangoric-srd/magic-items/rings/Ring of Three Wishes|Ring of Three Wishes]]
+- [[rangoric-srd/magic-items/rings/Ring of Water Walking|Ring of Water Walking]]
+- [[rangoric-srd/magic-items/rings/Ring of Wizardry I|Ring of Wizardry]]
+- [[rangoric-srd/magic-items/rings/Ring of X-Ray Vision|Ring of X-Ray Vision]]
 
 ###### More Rings
 
@@ -237,64 +237,64 @@ More rings, grouped by who can use them: rings any wearer can use, by price, the
 
 **Any wearer**
 
-| Ring | Price |
-| --- | --- |
-| [[rangoric-srd/magic-items/rings/Ring of Arcane Signets\|Ring of Arcane Signets]] | 1,000 gp |
-| [[rangoric-srd/magic-items/rings/Bloodletting Thimble\|Bloodletting Thimble]] | 2,000 gp |
-| [[rangoric-srd/magic-items/rings/Ring of the Grasping Grave\|Ring of the Grasping Grave]] | 2,000 gp |
-| [[rangoric-srd/magic-items/rings/Ring of the Shuriken\|Ring of the Shuriken]] | 2,000 gp |
-| [[rangoric-srd/magic-items/rings/Ring of Ferocious Action\|Ring of Ferocious Action]] | 3,000 gp |
-| [[rangoric-srd/magic-items/rings/Ring of Eloquence\|Ring of Eloquence]] | 3,500 gp |
-| [[rangoric-srd/magic-items/rings/Ring of Stars\|Ring of Stars]] | 4,000 gp |
-| [[rangoric-srd/magic-items/rings/Ring of Maniacal Devices\|Ring of Maniacal Devices]] | 5,000 gp |
-| [[rangoric-srd/magic-items/rings/Ring of Rat Fangs\|Ring of Rat Fangs]] | 5,000 gp |
-| [[rangoric-srd/magic-items/rings/Ring of Discovery\|Ring of Discovery]] | 5,500 gp |
-| [[rangoric-srd/magic-items/rings/Ring of Sacred Mistletoe\|Ring of Sacred Mistletoe]] | 6,000 gp |
-| [[rangoric-srd/magic-items/rings/Ring of Swarming Stabs\|Ring of Swarming Stabs]] | 6,000 gp |
-| [[rangoric-srd/magic-items/rings/Ring of Forcefangs\|Ring of Forcefangs]] | 8,000 gp |
-| [[rangoric-srd/magic-items/rings/Ring of Strength Sapping\|Ring of Strength Sapping]] | 8,000 gp |
-| [[rangoric-srd/magic-items/rings/Scholar's Ring\|Scholar's Ring]] | 8,700 gp |
-| [[rangoric-srd/magic-items/rings/Ring of Curing\|Ring of Curing]] | 10,000 gp |
-| [[rangoric-srd/magic-items/rings/Ring of Foe Focus\|Ring of Foe Focus]] | 10,000 gp |
-| [[rangoric-srd/magic-items/rings/Ring of Transposition\|Ring of Transposition]] | 10,800 gp |
-| [[rangoric-srd/magic-items/rings/Ring of Tactical Precision\|Ring of Tactical Precision]] | 11,000 gp |
-| [[rangoric-srd/magic-items/rings/Ring of the Sophisticate\|Ring of the Sophisticate]] | 11,000 gp |
-| [[rangoric-srd/magic-items/rings/Decoy Ring\|Decoy Ring]] | 12,000 gp |
-| [[rangoric-srd/magic-items/rings/Ring of Craft Magic\|Ring of Craft Magic]] | 12,000 gp |
-| [[rangoric-srd/magic-items/rings/Ring of the Troglodyte\|Ring of the Troglodyte]] | 12,000 gp |
-| [[rangoric-srd/magic-items/rings/Steelhand Circle\|Steelhand Circle]] | 12,000 gp |
-| [[rangoric-srd/magic-items/rings/Ring of the Sea Strider\|Ring of the Sea Strider]] | 14,000 gp |
-| [[rangoric-srd/magic-items/rings/Ring of Retribution\|Ring of Retribution]] | 15,000 gp |
-| [[rangoric-srd/magic-items/rings/Dungeon Ring, Jailer's\|Dungeon Ring]] | 16,000 gp (jailer's ring), 250 gp (prisoner's ring) |
+| Ring                                                                                       | Price                                                     |
+| ------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
+| [[rangoric-srd/magic-items/rings/Ring of Arcane Signets\|Ring of Arcane Signets]]          | 1,000 gp                                                  |
+| [[rangoric-srd/magic-items/rings/Bloodletting Thimble\|Bloodletting Thimble]]              | 2,000 gp                                                  |
+| [[rangoric-srd/magic-items/rings/Ring of the Grasping Grave\|Ring of the Grasping Grave]]  | 2,000 gp                                                  |
+| [[rangoric-srd/magic-items/rings/Ring of the Shuriken\|Ring of the Shuriken]]              | 2,000 gp                                                  |
+| [[rangoric-srd/magic-items/rings/Ring of Ferocious Action\|Ring of Ferocious Action]]      | 3,000 gp                                                  |
+| [[rangoric-srd/magic-items/rings/Ring of Eloquence\|Ring of Eloquence]]                    | 3,500 gp                                                  |
+| [[rangoric-srd/magic-items/rings/Ring of Stars\|Ring of Stars]]                            | 4,000 gp                                                  |
+| [[rangoric-srd/magic-items/rings/Ring of Maniacal Devices\|Ring of Maniacal Devices]]      | 5,000 gp                                                  |
+| [[rangoric-srd/magic-items/rings/Ring of Rat Fangs\|Ring of Rat Fangs]]                    | 5,000 gp                                                  |
+| [[rangoric-srd/magic-items/rings/Ring of Discovery\|Ring of Discovery]]                    | 5,500 gp                                                  |
+| [[rangoric-srd/magic-items/rings/Ring of Sacred Mistletoe\|Ring of Sacred Mistletoe]]      | 6,000 gp                                                  |
+| [[rangoric-srd/magic-items/rings/Ring of Swarming Stabs\|Ring of Swarming Stabs]]          | 6,000 gp                                                  |
+| [[rangoric-srd/magic-items/rings/Ring of Forcefangs\|Ring of Forcefangs]]                  | 8,000 gp                                                  |
+| [[rangoric-srd/magic-items/rings/Ring of Strength Sapping\|Ring of Strength Sapping]]      | 8,000 gp                                                  |
+| [[rangoric-srd/magic-items/rings/Scholar's Ring\|Scholar's Ring]]                          | 8,700 gp                                                  |
+| [[rangoric-srd/magic-items/rings/Ring of Curing\|Ring of Curing]]                          | 10,000 gp                                                 |
+| [[rangoric-srd/magic-items/rings/Ring of Foe Focus\|Ring of Foe Focus]]                    | 10,000 gp                                                 |
+| [[rangoric-srd/magic-items/rings/Ring of Transposition\|Ring of Transposition]]            | 10,800 gp                                                 |
+| [[rangoric-srd/magic-items/rings/Ring of Tactical Precision\|Ring of Tactical Precision]]  | 11,000 gp                                                 |
+| [[rangoric-srd/magic-items/rings/Ring of the Sophisticate\|Ring of the Sophisticate]]      | 11,000 gp                                                 |
+| [[rangoric-srd/magic-items/rings/Decoy Ring\|Decoy Ring]]                                  | 12,000 gp                                                 |
+| [[rangoric-srd/magic-items/rings/Ring of Craft Magic\|Ring of Craft Magic]]                | 12,000 gp                                                 |
+| [[rangoric-srd/magic-items/rings/Ring of the Troglodyte\|Ring of the Troglodyte]]          | 12,000 gp                                                 |
+| [[rangoric-srd/magic-items/rings/Steelhand Circle\|Steelhand Circle]]                      | 12,000 gp                                                 |
+| [[rangoric-srd/magic-items/rings/Ring of the Sea Strider\|Ring of the Sea Strider]]        | 14,000 gp                                                 |
+| [[rangoric-srd/magic-items/rings/Ring of Retribution\|Ring of Retribution]]                | 15,000 gp                                                 |
+| [[rangoric-srd/magic-items/rings/Dungeon Ring, Jailer's\|Dungeon Ring]]                    | 16,000 gp (jailer's ring), 250 gp (prisoner's ring)       |
 | [[rangoric-srd/magic-items/rings/Ring of Inner Fortitude, Minor\|Ring of Inner Fortitude]] | 18,000 gp (minor), 42,000 gp (major), 66,000 gp (greater) |
-| [[rangoric-srd/magic-items/rings/Ring of Energy Shroud\|Ring of Energy Shroud]] | 19,500 gp |
-| [[rangoric-srd/magic-items/rings/Ring of Fire Drinking\|Ring of Fire Drinking]] | 20,000 gp |
-| [[rangoric-srd/magic-items/rings/Ring of Fey Luck\|Ring of Fey Luck]] | 27,000 gp |
-| [[rangoric-srd/magic-items/rings/Ring of the Ecclesiarch\|Ring of the Ecclesiarch]] | 28,500 gp |
-| [[rangoric-srd/magic-items/rings/Ring of Return\|Ring of Return]] | 33,600 gp |
-| [[rangoric-srd/magic-items/rings/Ring of Battle Prowess\|Ring of Battle Prowess]] | 42,000 gp |
-| [[rangoric-srd/magic-items/rings/Ring of Delayed Doom\|Ring of Delayed Doom]] | 45,000 gp |
-| [[rangoric-srd/magic-items/rings/Ring of Continuation\|Ring of Continuation]] | 56,000 gp |
-| [[rangoric-srd/magic-items/rings/Ring of Recall\|Ring of Recall]] | 170,000 gp |
+| [[rangoric-srd/magic-items/rings/Ring of Energy Shroud\|Ring of Energy Shroud]]            | 19,500 gp                                                 |
+| [[rangoric-srd/magic-items/rings/Ring of Fire Drinking\|Ring of Fire Drinking]]            | 20,000 gp                                                 |
+| [[rangoric-srd/magic-items/rings/Ring of Fey Luck\|Ring of Fey Luck]]                      | 27,000 gp                                                 |
+| [[rangoric-srd/magic-items/rings/Ring of the Ecclesiarch\|Ring of the Ecclesiarch]]        | 28,500 gp                                                 |
+| [[rangoric-srd/magic-items/rings/Ring of Return\|Ring of Return]]                          | 33,600 gp                                                 |
+| [[rangoric-srd/magic-items/rings/Ring of Battle Prowess\|Ring of Battle Prowess]]          | 42,000 gp                                                 |
+| [[rangoric-srd/magic-items/rings/Ring of Delayed Doom\|Ring of Delayed Doom]]              | 45,000 gp                                                 |
+| [[rangoric-srd/magic-items/rings/Ring of Continuation\|Ring of Continuation]]              | 56,000 gp                                                 |
+| [[rangoric-srd/magic-items/rings/Ring of Recall\|Ring of Recall]]                          | 170,000 gp                                                |
 
 **With a class feature**
 
-| Class | Ring | Price |
-| --- | --- | --- |
-| Arcane casters (bard, sorcerer, wizard…) | [[rangoric-srd/magic-items/rings/Ring of Sorcery I\|Ring of Sorcery]] | 15,000 gp (Sorcery I), 30,000 gp (Sorcery II), 65,000 gp (Sorcery III) |
-| Bloodrager | [[rangoric-srd/magic-items/rings/Ring of Lingering Blood Magic\|Ring of Lingering Blood Magic]] | 2,000 gp |
-| Bloodrager | [[rangoric-srd/magic-items/rings/Ring of Powerful Blood Magic\|Ring of Powerful Blood Magic]] | 3,000 gp |
-| Bloodrager | [[rangoric-srd/magic-items/rings/Ring of Ancestral Blood Magic\|Ring of Ancestral Blood Magic]] | 4,000 gp |
-| Bloodrager | [[rangoric-srd/magic-items/rings/Ring of Vengeful Blood Magic\|Ring of Vengeful Blood Magic]] | 5,400 gp |
-| Gunslinger | [[rangoric-srd/magic-items/rings/Ring of Grit Mastery\|Ring of Grit Mastery]] | 6,840 gp |
-| Gunslinger, Swashbuckler | [[rangoric-srd/magic-items/rings/Ring of Resilience\|Ring of Resilience]] | 15,000 gp |
-| Magus | [[rangoric-srd/magic-items/rings/Ring of Arcane Mastery\|Ring of Arcane Mastery]] | 20,000 gp |
-| Monk, Ninja | [[rangoric-srd/magic-items/rings/Ring of Ki Mastery\|Ring of Ki Mastery]] | 10,000 gp |
-| Oracle | [[rangoric-srd/magic-items/rings/Ring of Revelation, Lesser\|Ring of Revelation]] | 10,000 gp (lesser), 16,000 gp (greater), 24,000 gp (superior) |
-| Psychic casters (medium, mesmerist, occultist, psychic, spiritualist) | [[rangoric-srd/magic-items/rings/Ring of Psychic Mastery\|Ring of Psychic Mastery]] | 50,000 gp |
-| Psychic casters (medium, mesmerist, occultist, psychic, spiritualist) | [[rangoric-srd/magic-items/rings/Ring of the Hidden Psyche\|Ring of the Hidden Psyche]] | 160,000 gp |
-| Spontaneous arcane casters (bard, sorcerer…) | [[rangoric-srd/magic-items/rings/Ring of Spell Knowledge I\|Ring of Spell Knowledge]] | 1,500 gp (I), 6,000 gp (II), 13,500 gp (III), 24,000 gp (IV) |
-| Summoner | [[rangoric-srd/magic-items/rings/Ring of Ectoplasmic Invigoration\|Ring of Ectoplasmic Invigoration]] | 12,000 gp |
+| Class                                                                 | Ring                                                                                                  | Price                                                                  |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Arcane casters (bard, sorcerer, wizard…)                              | [[rangoric-srd/magic-items/rings/Ring of Sorcery I\|Ring of Sorcery]]                                 | 15,000 gp (Sorcery I), 30,000 gp (Sorcery II), 65,000 gp (Sorcery III) |
+| Bloodrager                                                            | [[rangoric-srd/magic-items/rings/Ring of Lingering Blood Magic\|Ring of Lingering Blood Magic]]       | 2,000 gp                                                               |
+| Bloodrager                                                            | [[rangoric-srd/magic-items/rings/Ring of Powerful Blood Magic\|Ring of Powerful Blood Magic]]         | 3,000 gp                                                               |
+| Bloodrager                                                            | [[rangoric-srd/magic-items/rings/Ring of Ancestral Blood Magic\|Ring of Ancestral Blood Magic]]       | 4,000 gp                                                               |
+| Bloodrager                                                            | [[rangoric-srd/magic-items/rings/Ring of Vengeful Blood Magic\|Ring of Vengeful Blood Magic]]         | 5,400 gp                                                               |
+| Gunslinger                                                            | [[rangoric-srd/magic-items/rings/Ring of Grit Mastery\|Ring of Grit Mastery]]                         | 6,840 gp                                                               |
+| Gunslinger, Swashbuckler                                              | [[rangoric-srd/magic-items/rings/Ring of Resilience\|Ring of Resilience]]                             | 15,000 gp                                                              |
+| Magus                                                                 | [[rangoric-srd/magic-items/rings/Ring of Arcane Mastery\|Ring of Arcane Mastery]]                     | 20,000 gp                                                              |
+| Monk, Ninja                                                           | [[rangoric-srd/magic-items/rings/Ring of Ki Mastery\|Ring of Ki Mastery]]                             | 10,000 gp                                                              |
+| Oracle                                                                | [[rangoric-srd/magic-items/rings/Ring of Revelation, Lesser\|Ring of Revelation]]                     | 10,000 gp (lesser), 16,000 gp (greater), 24,000 gp (superior)          |
+| Psychic casters (medium, mesmerist, occultist, psychic, spiritualist) | [[rangoric-srd/magic-items/rings/Ring of Psychic Mastery\|Ring of Psychic Mastery]]                   | 50,000 gp                                                              |
+| Psychic casters (medium, mesmerist, occultist, psychic, spiritualist) | [[rangoric-srd/magic-items/rings/Ring of the Hidden Psyche\|Ring of the Hidden Psyche]]               | 160,000 gp                                                             |
+| Spontaneous arcane casters (bard, sorcerer…)                          | [[rangoric-srd/magic-items/rings/Ring of Spell Knowledge I\|Ring of Spell Knowledge]]                 | 1,500 gp (I), 6,000 gp (II), 13,500 gp (III), 24,000 gp (IV)           |
+| Summoner                                                              | [[rangoric-srd/magic-items/rings/Ring of Ectoplasmic Invigoration\|Ring of Ectoplasmic Invigoration]] | 12,000 gp                                                              |
 
 ##### Rods
 
@@ -310,14 +310,14 @@ Rods with charges can never be intelligent.
 
 **Table: RODS**
 
-| Medium | Major | Rod                                                                                         | Market Price |
-| ------ | ----- | ------------------------------------------------------------------------------------------- | ------------ |
+| Medium | Major | Rod                                                                                       | Market Price |
+| ------ | ----- | ----------------------------------------------------------------------------------------- | ------------ |
 | 01–07  | —     | [[rangoric-srd/magic-items/Magic Potions, Rings, and Rods\|Metamagic, Enlarge, lesser]]   | 3,000 gp     |
 | 08–14  | —     | [[rangoric-srd/magic-items/Magic Potions, Rings, and Rods\|Metamagic, Extend, lesser]]    | 3,000 gp     |
 | 15–21  | —     | [[rangoric-srd/magic-items/Magic Potions, Rings, and Rods\|Metamagic, Silent, lesser]]    | 3,000 gp     |
 | 22–28  | —     | [[rangoric-srd/magic-items/Magic Potions, Rings, and Rods\|Immovable]]                    | 5,000 gp     |
 | 29–35  | —     | [[rangoric-srd/magic-items/Magic Potions, Rings, and Rods\|Metamagic, Empower, lesser]]   | 9,000 gp     |
-| 36–42  | —     | [[#^rod-of-metal-and-mineral-detection\|Metal and mineral detection]]                       | 10,500 gp    |
+| 36–42  | —     | [[#^rod-of-metal-and-mineral-detection\|Metal and mineral detection]]                     | 10,500 gp    |
 | 43–53  | 01–04 | [[rangoric-srd/magic-items/Magic Potions, Rings, and Rods\|Cancellation]]                 | 11,000 gp    |
 | 54–57  | 05–06 | [[rangoric-srd/magic-items/Magic Potions, Rings, and Rods\|Metamagic, Enlarge]]           | 11,000 gp    |
 | 58–61  | 07–08 | [[rangoric-srd/magic-items/Magic Potions, Rings, and Rods\|Metamagic, Extend]]            | 11,000 gp    |
@@ -345,7 +345,7 @@ Rods with charges can never be intelligent.
 | —      | 91–92 | [[rangoric-srd/magic-items/Magic Potions, Rings, and Rods\|Lordly might]]                 | 70,000 gp    |
 | —      | 93–94 | [[rangoric-srd/magic-items/Magic Potions, Rings, and Rods\|Metamagic, Empower, greater]]  | 73,000 gp    |
 | —      | 95–96 | [[rangoric-srd/magic-items/Magic Potions, Rings, and Rods\|Metamagic, Quicken]]           | 75,500 gp    |
-| —      | 97–98 | [[rangoric-srd/magic-items/rods/Rod of Alertness\|Alertness]]                    | 85,000 gp    |
+| —      | 97–98 | [[rangoric-srd/magic-items/rods/Rod of Alertness\|Alertness]]                             | 85,000 gp    |
 | —      | 99    | [[rangoric-srd/magic-items/Magic Potions, Rings, and Rods\|Metamagic, Maximize, greater]] | 121,500 gp   |
 | —      | 100   | [[rangoric-srd/magic-items/Magic Potions, Rings, and Rods\|Metamagic, Quicken, greater]]  | 170,000 gp   |
 
@@ -353,74 +353,74 @@ Rods with charges can never be intelligent.
 
 Although all rods are generally scepterlike, their configurations and abilities run the magical gamut. Standard rods are described below.
 
-  - [[rangoric-srd/magic-items/rods/Rod of Absorption|Rod of Absorption]]
-  - [[rangoric-srd/magic-items/rods/Rod of Alertness|Rod of Alertness]]
-  - [[rangoric-srd/magic-items/rods/Rod of Cancellation|Rod of Cancellation]]
-  - [[rangoric-srd/magic-items/rods/Rod of Enemy Detection|Rod of Enemy Detection]]
-  - [[rangoric-srd/magic-items/rods/Rod of Flailing|Rod of Flailing]]
-  - [[rangoric-srd/magic-items/rods/Rod of Flame Extinguishing|Rod of Flame Extinguishing]]
-  - [[rangoric-srd/magic-items/rods/Hollow Rod|Hollow Rod]]
-  - [[rangoric-srd/magic-items/rods/Immovable Rod|Immovable Rod]]
-  - [[rangoric-srd/magic-items/rods/Rod of Lordly Might|Rod of Lordly Might]]
-  - [[rangoric-srd/magic-items/rods/Rod of Metal and Mineral Detection|Rod of Metal and Mineral Detection]]
+- [[rangoric-srd/magic-items/rods/Rod of Absorption|Rod of Absorption]]
+- [[rangoric-srd/magic-items/rods/Rod of Alertness|Rod of Alertness]]
+- [[rangoric-srd/magic-items/rods/Rod of Cancellation|Rod of Cancellation]]
+- [[rangoric-srd/magic-items/rods/Rod of Enemy Detection|Rod of Enemy Detection]]
+- [[rangoric-srd/magic-items/rods/Rod of Flailing|Rod of Flailing]]
+- [[rangoric-srd/magic-items/rods/Rod of Flame Extinguishing|Rod of Flame Extinguishing]]
+- [[rangoric-srd/magic-items/rods/Hollow Rod|Hollow Rod]]
+- [[rangoric-srd/magic-items/rods/Immovable Rod|Immovable Rod]]
+- [[rangoric-srd/magic-items/rods/Rod of Lordly Might|Rod of Lordly Might]]
+- [[rangoric-srd/magic-items/rods/Rod of Metal and Mineral Detection|Rod of Metal and Mineral Detection]]
 
 **Metamagic Rods**: Metamagic rods hold the essence of a metamagic feat but do not change the spell slot of the altered spell. All the rods described here are use-activated (but casting spells in a threatened area still draws an attack of opportunity). A caster may only use one metamagic rod on any given spell, but it is permissible to combine a rod with metamagic feats possessed by the rod’s wielder. In this case, only the feats possessed by the wielder adjust the spell slot of the spell being cast.
 
 Possession of a metamagic rod does not confer the associated feat on the owner, only the ability to use the given feat a specified number of times per day. A sorcerer still must take a full-round action when using a metamagic rod, just as if using a metamagic feat he possesses.
 
-*Lesser and Greater Metamagic Rods*: Normal metamagic rods can be used with spells of 6th level or lower. Lesser rods can be used with spells of 3rd level or lower, while greater rods can be used with spells of 9th level or lower.
+_Lesser and Greater Metamagic Rods_: Normal metamagic rods can be used with spells of 6th level or lower. Lesser rods can be used with spells of 3rd level or lower, while greater rods can be used with spells of 9th level or lower.
 
-  - [[rangoric-srd/magic-items/rods/Metamagic Rod, Empower|Metamagic Rod, Empower]]
-  - [[rangoric-srd/magic-items/rods/Metamagic Rod, Enlarge|Metamagic Rod, Enlarge]]
-  - [[rangoric-srd/magic-items/rods/Metamagic Rod, Extend|Metamagic Rod, Extend]]
-  - [[rangoric-srd/magic-items/rods/Metamagic Rod, Maximize|Metamagic Rod, Maximize]]
-  - [[rangoric-srd/magic-items/rods/Metamagic Rod, Quicken|Metamagic Rod, Quicken]]
-  - [[rangoric-srd/magic-items/rods/Metamagic Rod, Silent|Metamagic Rod, Silent]]
-  - [[rangoric-srd/magic-items/rods/Rod of Negation|Rod of Negation]]
-  - [[rangoric-srd/magic-items/rods/Overflowing Rod|Overflowing Rod]]
-  - [[rangoric-srd/magic-items/rods/Rod of Python|Rod of Python]]
-  - [[rangoric-srd/magic-items/rods/Rod of Rulership|Rod of Rulership]]
-  - [[rangoric-srd/magic-items/rods/Rod of Security|Rod of Security]]
-  - [[rangoric-srd/magic-items/rods/Rod of Splendor|Rod of Splendor]]
-  - [[rangoric-srd/magic-items/rods/Rod of Thunder and Lightning|Rod of Thunder and Lightning]]
-  - [[rangoric-srd/magic-items/rods/Rod of Viper|Rod of Viper]]
-  - [[rangoric-srd/magic-items/rods/Rod of Withering|Rod of Withering]]
-  - [[rangoric-srd/magic-items/rods/Rod of Wonder|Rod of Wonder]]
+- [[rangoric-srd/magic-items/rods/Metamagic Rod, Empower|Metamagic Rod, Empower]]
+- [[rangoric-srd/magic-items/rods/Metamagic Rod, Enlarge|Metamagic Rod, Enlarge]]
+- [[rangoric-srd/magic-items/rods/Metamagic Rod, Extend|Metamagic Rod, Extend]]
+- [[rangoric-srd/magic-items/rods/Metamagic Rod, Maximize|Metamagic Rod, Maximize]]
+- [[rangoric-srd/magic-items/rods/Metamagic Rod, Quicken|Metamagic Rod, Quicken]]
+- [[rangoric-srd/magic-items/rods/Metamagic Rod, Silent|Metamagic Rod, Silent]]
+- [[rangoric-srd/magic-items/rods/Rod of Negation|Rod of Negation]]
+- [[rangoric-srd/magic-items/rods/Overflowing Rod|Overflowing Rod]]
+- [[rangoric-srd/magic-items/rods/Rod of Python|Rod of Python]]
+- [[rangoric-srd/magic-items/rods/Rod of Rulership|Rod of Rulership]]
+- [[rangoric-srd/magic-items/rods/Rod of Security|Rod of Security]]
+- [[rangoric-srd/magic-items/rods/Rod of Splendor|Rod of Splendor]]
+- [[rangoric-srd/magic-items/rods/Rod of Thunder and Lightning|Rod of Thunder and Lightning]]
+- [[rangoric-srd/magic-items/rods/Rod of Viper|Rod of Viper]]
+- [[rangoric-srd/magic-items/rods/Rod of Withering|Rod of Withering]]
+- [[rangoric-srd/magic-items/rods/Rod of Wonder|Rod of Wonder]]
 
 ###### More Metamagic Rods
 
 More metamagic rods, each working as the metamagic rods above (lesser, normal, and greater), grouped by price: the price follows how many spell levels the feat adds.
 
-| Rod | Feat | Lesser | Normal | Greater |
-| --- | --- | --- | --- | --- |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Merciful\|Merciful]] | [[rangoric-srd/feats/Merciful Spell\|Merciful Spell]] | 1,500 gp | 5,500 gp | 12,250 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Bouncing\|Bouncing]] | [[rangoric-srd/feats/Bouncing Spell\|Bouncing Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Disruptive\|Disruptive]] | [[rangoric-srd/feats/Disruptive Spell\|Disruptive Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Ectoplasmic\|Ectoplasmic]] | [[rangoric-srd/feats/Ectoplasmic Spell\|Ectoplasmic Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Elemental\|Elemental]] | [[rangoric-srd/feats/Elemental Spell\|Elemental Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Flaring\|Flaring]] | [[rangoric-srd/feats/Flaring Spell\|Flaring Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Focused\|Focused]] | [[rangoric-srd/feats/Focused Spell\|Focused Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Furious\|Furious]] | [[rangoric-srd/feats/Furious Spell\|Furious Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Intensified\|Intensified]] | [[rangoric-srd/feats/Intensified Spell\|Intensified Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Lingering\|Lingering]] | [[rangoric-srd/feats/Lingering Spell\|Lingering Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Logical\|Logical]] | [[rangoric-srd/feats/Logical Spell\|Logical Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Piercing\|Piercing]] | [[rangoric-srd/feats/Piercing Spell\|Piercing Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Reach\|Reach]] | [[rangoric-srd/feats/Reach Spell\|Reach Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Rime\|Rime]] | [[rangoric-srd/feats/Rime Spell\|Rime Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Scarring\|Scarring]] | [[rangoric-srd/feats/Scarring Spell\|Scarring Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Selective\|Selective]] | [[rangoric-srd/feats/Selective Spell\|Selective Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Toppling\|Toppling]] | [[rangoric-srd/feats/Toppling Spell\|Toppling Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Burning\|Burning]] | [[rangoric-srd/feats/Burning Spell\|Burning Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Concussive\|Concussive]] | [[rangoric-srd/feats/Concussive Spell\|Concussive Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Fearsome\|Fearsome]] | [[rangoric-srd/feats/Fearsome Spell\|Fearsome Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Persistent\|Persistent]] | [[rangoric-srd/feats/Persistent Spell\|Persistent Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Sickening\|Sickening]] | [[rangoric-srd/feats/Sickening Spell\|Sickening Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Thanatopic\|Thanatopic]] | [[rangoric-srd/feats/Thanatopic Spell\|Thanatopic Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Threnodic\|Threnodic]] | [[rangoric-srd/feats/Threnodic Spell\|Threnodic Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Thundering\|Thundering]] | [[rangoric-srd/feats/Thundering Spell\|Thundering Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Traumatic\|Traumatic]] | [[rangoric-srd/feats/Traumatic Spell\|Traumatic Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Dazing\|Dazing]] | [[rangoric-srd/feats/Dazing Spell\|Dazing Spell]] | 14,000 gp | 54,000 gp | 121,500 gp |
-| [[rangoric-srd/magic-items/rods/Metamagic Rod, Echoing\|Echoing]] | [[rangoric-srd/feats/Echoing Spell\|Echoing Spell]] | 14,000 gp | 54,000 gp | 121,500 gp |
+| Rod                                                                       | Feat                                                        | Lesser    | Normal    | Greater    |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------- | --------- | --------- | ---------- |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Merciful\|Merciful]]       | [[rangoric-srd/feats/Merciful Spell\|Merciful Spell]]       | 1,500 gp  | 5,500 gp  | 12,250 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Bouncing\|Bouncing]]       | [[rangoric-srd/feats/Bouncing Spell\|Bouncing Spell]]       | 3,000 gp  | 11,000 gp | 24,500 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Disruptive\|Disruptive]]   | [[rangoric-srd/feats/Disruptive Spell\|Disruptive Spell]]   | 3,000 gp  | 11,000 gp | 24,500 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Ectoplasmic\|Ectoplasmic]] | [[rangoric-srd/feats/Ectoplasmic Spell\|Ectoplasmic Spell]] | 3,000 gp  | 11,000 gp | 24,500 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Elemental\|Elemental]]     | [[rangoric-srd/feats/Elemental Spell\|Elemental Spell]]     | 3,000 gp  | 11,000 gp | 24,500 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Flaring\|Flaring]]         | [[rangoric-srd/feats/Flaring Spell\|Flaring Spell]]         | 3,000 gp  | 11,000 gp | 24,500 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Focused\|Focused]]         | [[rangoric-srd/feats/Focused Spell\|Focused Spell]]         | 3,000 gp  | 11,000 gp | 24,500 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Furious\|Furious]]         | [[rangoric-srd/feats/Furious Spell\|Furious Spell]]         | 3,000 gp  | 11,000 gp | 24,500 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Intensified\|Intensified]] | [[rangoric-srd/feats/Intensified Spell\|Intensified Spell]] | 3,000 gp  | 11,000 gp | 24,500 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Lingering\|Lingering]]     | [[rangoric-srd/feats/Lingering Spell\|Lingering Spell]]     | 3,000 gp  | 11,000 gp | 24,500 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Logical\|Logical]]         | [[rangoric-srd/feats/Logical Spell\|Logical Spell]]         | 3,000 gp  | 11,000 gp | 24,500 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Piercing\|Piercing]]       | [[rangoric-srd/feats/Piercing Spell\|Piercing Spell]]       | 3,000 gp  | 11,000 gp | 24,500 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Reach\|Reach]]             | [[rangoric-srd/feats/Reach Spell\|Reach Spell]]             | 3,000 gp  | 11,000 gp | 24,500 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Rime\|Rime]]               | [[rangoric-srd/feats/Rime Spell\|Rime Spell]]               | 3,000 gp  | 11,000 gp | 24,500 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Scarring\|Scarring]]       | [[rangoric-srd/feats/Scarring Spell\|Scarring Spell]]       | 3,000 gp  | 11,000 gp | 24,500 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Selective\|Selective]]     | [[rangoric-srd/feats/Selective Spell\|Selective Spell]]     | 3,000 gp  | 11,000 gp | 24,500 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Toppling\|Toppling]]       | [[rangoric-srd/feats/Toppling Spell\|Toppling Spell]]       | 3,000 gp  | 11,000 gp | 24,500 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Burning\|Burning]]         | [[rangoric-srd/feats/Burning Spell\|Burning Spell]]         | 9,000 gp  | 32,500 gp | 73,000 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Concussive\|Concussive]]   | [[rangoric-srd/feats/Concussive Spell\|Concussive Spell]]   | 9,000 gp  | 32,500 gp | 73,000 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Fearsome\|Fearsome]]       | [[rangoric-srd/feats/Fearsome Spell\|Fearsome Spell]]       | 9,000 gp  | 32,500 gp | 73,000 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Persistent\|Persistent]]   | [[rangoric-srd/feats/Persistent Spell\|Persistent Spell]]   | 9,000 gp  | 32,500 gp | 73,000 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Sickening\|Sickening]]     | [[rangoric-srd/feats/Sickening Spell\|Sickening Spell]]     | 9,000 gp  | 32,500 gp | 73,000 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Thanatopic\|Thanatopic]]   | [[rangoric-srd/feats/Thanatopic Spell\|Thanatopic Spell]]   | 9,000 gp  | 32,500 gp | 73,000 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Threnodic\|Threnodic]]     | [[rangoric-srd/feats/Threnodic Spell\|Threnodic Spell]]     | 9,000 gp  | 32,500 gp | 73,000 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Thundering\|Thundering]]   | [[rangoric-srd/feats/Thundering Spell\|Thundering Spell]]   | 9,000 gp  | 32,500 gp | 73,000 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Traumatic\|Traumatic]]     | [[rangoric-srd/feats/Traumatic Spell\|Traumatic Spell]]     | 9,000 gp  | 32,500 gp | 73,000 gp  |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Dazing\|Dazing]]           | [[rangoric-srd/feats/Dazing Spell\|Dazing Spell]]           | 14,000 gp | 54,000 gp | 121,500 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Echoing\|Echoing]]         | [[rangoric-srd/feats/Echoing Spell\|Echoing Spell]]         | 14,000 gp | 54,000 gp | 121,500 gp |
 
 ###### More Rods
 
@@ -428,45 +428,45 @@ More rods, grouped by who can use them: rods any wielder can use, by price, then
 
 **Any wielder**
 
-| Rod | Price |
-| --- | --- |
-| [[rangoric-srd/magic-items/rods/Rod of Thunderous Force\|Rod of Thunderous Force]] | 5,400 gp |
-| [[rangoric-srd/magic-items/rods/Rod of Ice\|Rod of Ice]] | 8,500 gp |
-| [[rangoric-srd/magic-items/rods/Conduit Rod\|Conduit Rod]] | 12,000 gp |
-| [[rangoric-srd/magic-items/rods/Grounding Rod\|Grounding Rod]] | 12,000 gp |
-| [[rangoric-srd/magic-items/rods/Trap-Stealer's Rod\|Trap-Stealer's Rod]] | 13,500 gp |
-| [[rangoric-srd/magic-items/rods/Rod of Balance\|Rod of Balance]] | 15,000 gp |
-| [[rangoric-srd/magic-items/rods/Rod of Escape\|Rod of Escape]] | 15,000 gp |
-| [[rangoric-srd/magic-items/rods/Rod of the Setting Sun\|Rod of the Setting Sun]] | 15,000 gp |
-| [[rangoric-srd/magic-items/rods/Rod of Expertise\|Rod of Expertise]] | 16,000 gp |
-| [[rangoric-srd/magic-items/rods/Rod of Ruin\|Rod of Ruin]] | 16,000 gp |
-| [[rangoric-srd/magic-items/rods/Sapling Rod\|Sapling Rod]] | 16,650 gp |
-| [[rangoric-srd/magic-items/rods/Rod of Beguiling\|Rod of Beguiling]] | 18,000 gp |
-| [[rangoric-srd/magic-items/rods/Rod of Nettles\|Rod of Nettles]] | 18,000 gp |
-| [[rangoric-srd/magic-items/rods/Suzerain Scepter\|Suzerain Scepter]] | 20,000 gp |
-| [[rangoric-srd/magic-items/rods/Fiery Nimbus Rod\|Fiery Nimbus Rod]] | 22,305 gp |
-| [[rangoric-srd/magic-items/rods/Earthbind Rod\|Earthbind Rod]] | 26,500 gp |
-| [[rangoric-srd/magic-items/rods/Rod of the Aboleth\|Rod of the Aboleth]] | 29,000 gp |
-| [[rangoric-srd/magic-items/rods/Liberator's Rod\|Liberator's Rod]] | 30,000 gp |
-| [[rangoric-srd/magic-items/rods/Witching Rod\|Witching Rod]] | 31,000 gp |
-| [[rangoric-srd/magic-items/rods/Rod of Steadfast Resolve\|Rod of Steadfast Resolve]] | 38,305 gp |
-| [[rangoric-srd/magic-items/rods/Rod of Nonresistance\|Rod of Nonresistance]] | 40,000 gp |
-| [[rangoric-srd/magic-items/rods/Rod of Destruction\|Rod of Destruction]] | 57,100 gp |
-| [[rangoric-srd/magic-items/rods/Rod of Shadows\|Rod of Shadows]] | 64,305 gp |
-| [[rangoric-srd/magic-items/rods/Rod of Mind Mastery\|Rod of Mind Mastery]] | 67,000 gp |
-| [[rangoric-srd/magic-items/rods/Scepter of Heaven\|Scepter of Heaven]] | 74,000 gp |
-| [[rangoric-srd/magic-items/rods/Caduceus Rod\|Caduceus Rod]] | 142,000 gp |
+| Rod                                                                                  | Price      |
+| ------------------------------------------------------------------------------------ | ---------- |
+| [[rangoric-srd/magic-items/rods/Rod of Thunderous Force\|Rod of Thunderous Force]]   | 5,400 gp   |
+| [[rangoric-srd/magic-items/rods/Rod of Ice\|Rod of Ice]]                             | 8,500 gp   |
+| [[rangoric-srd/magic-items/rods/Conduit Rod\|Conduit Rod]]                           | 12,000 gp  |
+| [[rangoric-srd/magic-items/rods/Grounding Rod\|Grounding Rod]]                       | 12,000 gp  |
+| [[rangoric-srd/magic-items/rods/Trap-Stealer's Rod\|Trap-Stealer's Rod]]             | 13,500 gp  |
+| [[rangoric-srd/magic-items/rods/Rod of Balance\|Rod of Balance]]                     | 15,000 gp  |
+| [[rangoric-srd/magic-items/rods/Rod of Escape\|Rod of Escape]]                       | 15,000 gp  |
+| [[rangoric-srd/magic-items/rods/Rod of the Setting Sun\|Rod of the Setting Sun]]     | 15,000 gp  |
+| [[rangoric-srd/magic-items/rods/Rod of Expertise\|Rod of Expertise]]                 | 16,000 gp  |
+| [[rangoric-srd/magic-items/rods/Rod of Ruin\|Rod of Ruin]]                           | 16,000 gp  |
+| [[rangoric-srd/magic-items/rods/Sapling Rod\|Sapling Rod]]                           | 16,650 gp  |
+| [[rangoric-srd/magic-items/rods/Rod of Beguiling\|Rod of Beguiling]]                 | 18,000 gp  |
+| [[rangoric-srd/magic-items/rods/Rod of Nettles\|Rod of Nettles]]                     | 18,000 gp  |
+| [[rangoric-srd/magic-items/rods/Suzerain Scepter\|Suzerain Scepter]]                 | 20,000 gp  |
+| [[rangoric-srd/magic-items/rods/Fiery Nimbus Rod\|Fiery Nimbus Rod]]                 | 22,305 gp  |
+| [[rangoric-srd/magic-items/rods/Earthbind Rod\|Earthbind Rod]]                       | 26,500 gp  |
+| [[rangoric-srd/magic-items/rods/Rod of the Aboleth\|Rod of the Aboleth]]             | 29,000 gp  |
+| [[rangoric-srd/magic-items/rods/Liberator's Rod\|Liberator's Rod]]                   | 30,000 gp  |
+| [[rangoric-srd/magic-items/rods/Witching Rod\|Witching Rod]]                         | 31,000 gp  |
+| [[rangoric-srd/magic-items/rods/Rod of Steadfast Resolve\|Rod of Steadfast Resolve]] | 38,305 gp  |
+| [[rangoric-srd/magic-items/rods/Rod of Nonresistance\|Rod of Nonresistance]]         | 40,000 gp  |
+| [[rangoric-srd/magic-items/rods/Rod of Destruction\|Rod of Destruction]]             | 57,100 gp  |
+| [[rangoric-srd/magic-items/rods/Rod of Shadows\|Rod of Shadows]]                     | 64,305 gp  |
+| [[rangoric-srd/magic-items/rods/Rod of Mind Mastery\|Rod of Mind Mastery]]           | 67,000 gp  |
+| [[rangoric-srd/magic-items/rods/Scepter of Heaven\|Scepter of Heaven]]               | 74,000 gp  |
+| [[rangoric-srd/magic-items/rods/Caduceus Rod\|Caduceus Rod]]                         | 142,000 gp |
 
 **With a class feature or a race**
 
-| For | Rod | Price |
-| --- | --- | --- |
-| Dwarves | [[rangoric-srd/magic-items/rods/Rod of Dwarven Might\|Rod of Dwarven Might]] | 80,000 gp |
-| Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Grasping Hexes\|Rod of Grasping Hexes]] | 11,000 gp |
-| Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Interminable Hexes\|Rod of Interminable Hexes]] | 11,000 gp |
-| Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Voracious Hexes\|Rod of Voracious Hexes]] | 32,500 gp |
-| Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Potent Hexes\|Rod of Potent Hexes]] | 54,000 gp |
-| Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Abrupt Hexes\|Rod of Abrupt Hexes]] | 75,500 gp |
-| Kineticist | [[rangoric-srd/magic-items/rods/Overflowing Rod\|Overflowing Rod]] | 25,000 gp |
-| Kineticist | [[rangoric-srd/magic-items/rods/Hollow Rod\|Hollow Rod]] | 121,500 gp |
-| Occultist | [[rangoric-srd/magic-items/rods/Refocusing Rod\|Refocusing Rod]] | 5,000 gp |
+| For                   | Rod                                                                                    | Price      |
+| --------------------- | -------------------------------------------------------------------------------------- | ---------- |
+| Dwarves               | [[rangoric-srd/magic-items/rods/Rod of Dwarven Might\|Rod of Dwarven Might]]           | 80,000 gp  |
+| Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Grasping Hexes\|Rod of Grasping Hexes]]         | 11,000 gp  |
+| Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Interminable Hexes\|Rod of Interminable Hexes]] | 11,000 gp  |
+| Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Voracious Hexes\|Rod of Voracious Hexes]]       | 32,500 gp  |
+| Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Potent Hexes\|Rod of Potent Hexes]]             | 54,000 gp  |
+| Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Abrupt Hexes\|Rod of Abrupt Hexes]]             | 75,500 gp  |
+| Kineticist            | [[rangoric-srd/magic-items/rods/Overflowing Rod\|Overflowing Rod]]                     | 25,000 gp  |
+| Kineticist            | [[rangoric-srd/magic-items/rods/Hollow Rod\|Hollow Rod]]                               | 121,500 gp |
+| Occultist             | [[rangoric-srd/magic-items/rods/Refocusing Rod\|Refocusing Rod]]                       | 5,000 gp   |

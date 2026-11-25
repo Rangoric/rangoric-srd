@@ -31,14 +31,14 @@ tags: [rangoric, rangoric/spell]
 
 # Winter Grasp
 
-*Conjuration (Creation) \[Cold, Water\]*
+_Conjuration (Creation) \[Cold, Water\]_
 
-  - **Level**: Drd 2, Hun 2, Wit 2
-  - **Components**: V, S, M, M/DF (ground glass)
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Area**: 20-ft.-radius spread
-  - **Duration**: Caster level round(s)
-  - **Spell Resistance**: No
+- **Level**: Drd 2, Hun 2, Wit 2
+- **Components**: V, S, M, M/DF (ground glass)
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Area**: 20-ft.-radius spread
+- **Duration**: Caster level round(s)
+- **Spell Resistance**: No
 
 Ice encrusts the ground, radiating supernatural cold and making it hard for creatures to maintain their balance. This icy ground is treated as normal ice, forcing creatures to spend 2 squares of movement to enter an icy square and increasing the DC of Acrobatics checks in the area by 5. A creature that begins its turn in the affected area takes 1d6 points of cold damage and takes a -2 penalty on saving throws against spells with the cold descriptor for 1 round.

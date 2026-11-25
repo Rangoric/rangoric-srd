@@ -38,32 +38,32 @@ tags: [rangoric, rangoric/monster]
 
 # Pale Stranger
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 15d8+60 (127 hp)
-  - **Initiative**: +9
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 25 (+2 armor, +5 Dex, +1 dodge, +3 luck, +4 natural), touch 19, flat-footed 19
-  - **Base Attack**: +11; **CMB**: +14; **CMD**: 33
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Pistol|pistols]] +15 ranged (1d8+1/19–20/×4)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Pistol|pistols]] +15/+15/+10/+10/+5 ranged (1d8+1/19–20/×4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pistols|Pistols]], [[rangoric-srd/monsters/abilities/Stranger's Shot|stranger's shot]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fear|fear]] (10 ft., DC 21), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Stranger's Luck|stranger's luck]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/bludgeoning and magic, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
-  - **Saves**: Fort +9, Ref +10, Will +13
-  - **Abilities**: Str 17, Dex 21, Con —, Int 11, Wis 18, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +22, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +13
-  - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (pistol), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]]
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 10
-  - **Treasure**: Standard (leather armor, 2 pistols, other treasure)
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 15d8+60 (127 hp)
+- **Initiative**: +9
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 25 (+2 armor, +5 Dex, +1 dodge, +3 luck, +4 natural), touch 19, flat-footed 19
+- **Base Attack**: +11; **CMB**: +14; **CMD**: 33
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Pistol|pistols]] +15 ranged (1d8+1/19–20/×4)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Pistol|pistols]] +15/+15/+10/+10/+5 ranged (1d8+1/19–20/×4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Pistols|Pistols]], [[rangoric-srd/monsters/abilities/Stranger's Shot|stranger's shot]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fear|fear]] (10 ft., DC 21), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Stranger's Luck|stranger's luck]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/bludgeoning and magic, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
+- **Saves**: Fort +9, Ref +10, Will +13
+- **Abilities**: Str 17, Dex 21, Con —, Int 11, Wis 18, Cha 18
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +22, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +13
+- **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (pistol), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]]
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 10
+- **Treasure**: Standard (leather armor, 2 pistols, other treasure)
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Sometimes death itself cannot come between a [[rangoric-srd/classes/Gunslinger|gunslinger]] and its final revenge. When a gunslinger is slain by a hated enemy, or murdered before it can achieve vengeance against a hated foe, the anger and wrath can animate its remains as a vengeful undead monstrosity. When a pale stranger first rises, it seeks out the source of its anger to finish the job—thereafter, it wanders the desolate parts of the world looking for new victims to vent its unending rage upon.
 
-A pale stranger appears much as it did in life, though desiccated and obviously undead. Rare pale strangers have the ability to hide their undead nature and appear as they did in life using *[[rangoric-srd/spells/Veil|veil]]* as a constant spell-like ability (CL equals their CR). These pale strangers are often more powerful and have class levels in [[rangoric-srd/classes/Gunslinger|gunslinger]] or [[rangoric-srd/classes/Ranger|ranger]], and often attract large groups of adoring bandits and followers who may or may not realize that their murderous idol is in fact an unliving horror.
+A pale stranger appears much as it did in life, though desiccated and obviously undead. Rare pale strangers have the ability to hide their undead nature and appear as they did in life using _[[rangoric-srd/spells/Veil|veil]]_ as a constant spell-like ability (CL equals their CR). These pale strangers are often more powerful and have class levels in [[rangoric-srd/classes/Gunslinger|gunslinger]] or [[rangoric-srd/classes/Ranger|ranger]], and often attract large groups of adoring bandits and followers who may or may not realize that their murderous idol is in fact an unliving horror.
 
 A pale stranger stands 6-1/2 feet tall and weighs 130 pounds.
 

@@ -24,12 +24,12 @@ The Faerie Woods is one of the most commonly visited regions by mortal outsiders
 
 **Seasons:** Temperate yet mild at all times. The seasons are always represented in the most pleasant manner in the Faerie Woods. Spring is always sweet smelling, and the only rains are gentle and soothing. Winter is crisp and fresh and near-magical snow only blankets the ground to help it sleep.
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* The Faerie Woods is home to an enormous population of [[rangoric-srd/monsters/nymph/Dryad|dryads]].
+_Common:_ The Faerie Woods is home to an enormous population of [[rangoric-srd/monsters/nymph/Dryad|dryads]].
 
-*Uncommon:* Dryad oaks have a dual presence with their mortal world and the forest here in FaerieLand. Here in the Faerie Woods, dryads are able to leave their host tree for a number of days equal to their HD.
+_Uncommon:_ Dryad oaks have a dual presence with their mortal world and the forest here in FaerieLand. Here in the Faerie Woods, dryads are able to leave their host tree for a number of days equal to their HD.
 
-*Rare:* The largest concentration of [[rangoric-srd/monsters/High Fey Creature|high fey]], [[rangoric-srd/monsters/Fey-born Creature|fey-born]], and [[rangoric-srd/races/Half-Fey|half-fey]] creatures can be found in the Faerie Forest.
+_Rare:_ The largest concentration of [[rangoric-srd/monsters/High Fey Creature|high fey]], [[rangoric-srd/monsters/Fey-born Creature|fey-born]], and [[rangoric-srd/races/Half-Fey|half-fey]] creatures can be found in the Faerie Forest.
 
-*Obscure:* The Tylwyth Teg protect the Settling Grove, a secret collective grave of many sentient plants deep in the Faerie Woods; the Settling is really a kind of compost pile filled as much with decaying plants as with memories, emotions, and powers undreamt of by mere animal lifeforms.
+_Obscure:_ The Tylwyth Teg protect the Settling Grove, a secret collective grave of many sentient plants deep in the Faerie Woods; the Settling is really a kind of compost pile filled as much with decaying plants as with memories, emotions, and powers undreamt of by mere animal lifeforms.

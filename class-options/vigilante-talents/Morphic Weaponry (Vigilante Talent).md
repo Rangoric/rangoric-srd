@@ -14,8 +14,8 @@ tags: [rangoric, rangoric/class-option]
 
 # Morphic Weaponry
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
-The vigilante can shape his body into weaponry. This acts as the oozemorph shifter’s *morphic weaponry* ability, treating the vigilante’s level as his shifter level.
+The vigilante can shape his body into weaponry. This acts as the oozemorph shifter’s _morphic weaponry_ ability, treating the vigilante’s level as his shifter level.
 
 The vigilante must have the shapechanger subtype to select this talent.

@@ -21,7 +21,7 @@ When advancing a monster by adding racial HD, you should start by deciding what 
 **Table: Monster Advancement**
 
 | Higher CR | Lower CR    | Hit Point Change | AC Change | Attack Bonus Change | Damage Change |
-|-----------|-------------|------------------|-----------|---------------------|---------------|
+| --------- | ----------- | ---------------- | --------- | ------------------- | ------------- |
 | 1         | Less than 1 | 5                | 1         | 1                   | 2–3           |
 | 2         | 1           | 5                | 2         | 2                   | 2–3           |
 | 3         | 2           | 10               | 1         | 1–2                 | 2–3           |
@@ -55,16 +55,16 @@ These values are not absolute. Some monsters have fewer hit points than normal f
 **Table: Size Bonuses and Penalties**
 
 | Size       | AC/Attack | CMB/CMD | Fly (Acrobatics) | Stealth |
-|------------|-----------|---------|-----------|---------------|
-| Fine       | +8        | –8      | +8        | +16           |
-| Diminutive | +4        | –4      | +6        | +12           |
-| Tiny       | +2        | –2      | +4        | +8            |
-| Small      | +1        | –1      | +2        | +4            |
-| Medium     | +0        | +0      | +0        | +0            |
-| Large      | –1        | +1      | –2        | –4            |
-| Huge       | –2        | +2      | –4        | –8            |
-| Gargantuan | –4        | +4      | –6        | –12           |
-| Colossal   | –8        | +8      | –8        | –16           |
+| ---------- | --------- | ------- | ---------------- | ------- |
+| Fine       | +8        | –8      | +8               | +16     |
+| Diminutive | +4        | –4      | +6               | +12     |
+| Tiny       | +2        | –2      | +4               | +8      |
+| Small      | +1        | –1      | +2               | +4      |
+| Medium     | +0        | +0      | +0               | +0      |
+| Large      | –1        | +1      | –2               | –4      |
+| Huge       | –2        | +2      | –4               | –8      |
+| Gargantuan | –4        | +4      | –6               | –12     |
+| Colossal   | –8        | +8      | –8               | –16     |
 
 ^size-bonuses-and-penalties
 

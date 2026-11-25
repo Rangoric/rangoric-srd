@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Blinded
 
-*A [[rangoric-srd/classes/Paladin#^paladin-mercy|mercy]], available from 12th level.*
+_A [[rangoric-srd/classes/Paladin#^paladin-mercy|mercy]], available from 12th level._
 
 The target is no longer [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]].

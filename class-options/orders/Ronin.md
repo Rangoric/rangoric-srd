@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Ronin
 
-*A [[rangoric-srd/classes/Samurai#^samurai-order|samurai]] and [[rangoric-srd/classes/Cavalier#^cavalier-order|cavalier]] order.*
+_A [[rangoric-srd/classes/Samurai#^samurai-order|samurai]] and [[rangoric-srd/classes/Cavalier#^cavalier-order|cavalier]] order._
 
 While most samurai belong to the order of the warrior, dedicating their considerable skills to the service of a lord, land, and people, some find themselves without a master, either as a result of disgrace or death, or occasionally by choice. Known as ronin, these samurai wander the lands, serving their own code of ideals. While ronin are significantly freer to do as they please, they do not receive the same respect and support that a more dedicated samurai can count on. Note that cavaliers can select this order, but they are typically called knights errant instead of ronin.
 

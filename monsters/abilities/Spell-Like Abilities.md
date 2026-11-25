@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Spell-Like Abilities
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Spell-like]] (Sp). In a stat block*: “At will—burning hands (DC 13)”, on the Spell-Like Abilities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Spell-like]] (Sp). In a stat block_: “At will—burning hands (DC 13)”, on the Spell-Like Abilities line.
 
 Spell-like abilities are magical and work just like spells (though they are not spells and so have no verbal, somatic, material, focus, or XP components). They go away in an antimagic field and are subject to spell resistance if the spell the ability resembles or duplicates would be subject to spell resistance.
 

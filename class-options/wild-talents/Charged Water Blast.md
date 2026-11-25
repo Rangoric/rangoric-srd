@@ -18,14 +18,14 @@ tags: [rangoric, rangoric/class-option]
 
 # Charged Water Blast
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Elements**: [[rangoric-srd/class-options/elements/Air Element|air]] and [[rangoric-srd/class-options/elements/Water Element|water]]
-  - **Type**: composite blast (Sp)
-  - **Level**: —
-  - **Burn**: 2
-  - **Prerequisites**: [[rangoric-srd/class-options/wild-talents/Electric Blast|electric blast]], [[rangoric-srd/class-options/wild-talents/Water Blast|water blast]]
-  - **Blast Type**: physical
-  - **Damage**: half bludgeoning, half electricity
+- **Elements**: [[rangoric-srd/class-options/elements/Air Element|air]] and [[rangoric-srd/class-options/elements/Water Element|water]]
+- **Type**: composite blast (Sp)
+- **Level**: —
+- **Burn**: 2
+- **Prerequisites**: [[rangoric-srd/class-options/wild-talents/Electric Blast|electric blast]], [[rangoric-srd/class-options/wild-talents/Water Blast|water blast]]
+- **Blast Type**: physical
+- **Damage**: half bludgeoning, half electricity
 
 You slam a single foe with a stream of electrically charged water.

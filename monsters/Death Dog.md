@@ -38,32 +38,32 @@ tags: [rangoric, rangoric/monster]
 
 # Death Dog
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 3d10+6 (22 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 13 (+2 Dex, +2 natural, –1 size), touch 11, flat-footed 11
-  - **Base Attack**: +3; **CMB**: +5; **CMD**: 17 (21 vs. trip)
-  - **Attack**: Bite +4 melee (1d8+1 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Trip|trip]])
-  - **Full Attack**: 2 bites +4 melee (1d8+1 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Trip|trip]])
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +4, Ref +5, Will +2
-  - **Abilities**: Str 13, Dex 15, Con 13, Int 4, Wis 12, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +4
-  - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Warm deserts
-  - **Organization**: Solitary, pair, or pack (3–12)
-  - **Challenge Rating**: 2
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 3d10+6 (22 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 13 (+2 Dex, +2 natural, –1 size), touch 11, flat-footed 11
+- **Base Attack**: +3; **CMB**: +5; **CMD**: 17 (21 vs. trip)
+- **Attack**: Bite +4 melee (1d8+1 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Trip|trip]])
+- **Full Attack**: 2 bites +4 melee (1d8+1 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Trip|trip]])
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +4, Ref +5, Will +2
+- **Abilities**: Str 13, Dex 15, Con 13, Int 4, Wis 12, Cha 6
+- **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +4
+- **Feats**: [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Warm deserts
+- **Organization**: Solitary, pair, or pack (3–12)
+- **Challenge Rating**: 2
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Death dogs are disease-ridden nocturnal pack hunters. Said to be the risen corpses of dogs or hyenas animated by monster-worshiping cultists, they are actually living creatures infested with symbiotic worms. Capable of tracking their prey for miles across barren terrain, death dogs surround stronger creatures, attacking and retreating, allowing their infected bites to wear down an opponent until it is too weak to fight. A pack's territory may overlap with others of its kind without competition, though in lean times packs may skirmish over live prey or carrion.
 
-A death dog's saliva contains hundreds of tiny eggs that grow into flesh-devouring worms. The worms don't harm the death dog, but consume any creatures they come into contact with. A death dog's corpse is contagious for several days after its demise and may infect creatures that touch or eat it. *[[rangoric-srd/spells/Remove Disease|Remove disease]]* can kill a death dog's worms and remove its disease ability, but if allowed to associate with others of its kind, it quickly becomes reinfected.
+A death dog's saliva contains hundreds of tiny eggs that grow into flesh-devouring worms. The worms don't harm the death dog, but consume any creatures they come into contact with. A death dog's corpse is contagious for several days after its demise and may infect creatures that touch or eat it. _[[rangoric-srd/spells/Remove Disease|Remove disease]]_ can kill a death dog's worms and remove its disease ability, but if allowed to associate with others of its kind, it quickly becomes reinfected.
 
 A typical death dog is 7 feet long, stands 4 feet tall at the shoulder, and weighs about 500 pounds. Death dogs may ally with hobgoblins and bugbears, though the goblinoids are not immune to the dogs' disease. Thus these alliances are often temporary.
 
@@ -75,4 +75,4 @@ Death dogs understand Goblin but can't speak.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Su)**: [[rangoric-srd/rules/afflictions/Wormpox|Wormpox]]: Bite—injury; *save* Fort DC 12; *onset* 1 day; *frequency* 1 day; *effect* 1 Con damage; *cure* 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Su)**: [[rangoric-srd/rules/afflictions/Wormpox|Wormpox]]: Bite—injury; _save_ Fort DC 12; _onset_ 1 day; _frequency_ 1 day; _effect_ 1 Con damage; _cure_ 2 consecutive saves.

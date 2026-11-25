@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Seaborne
 
-This special ability can only be placed on melee weapons. A *seaborne* weapon functions easily in watery environments. With the weapon in hand, the wielder gains a bonus on [[rangoric-srd/skills/Athletics#Swimming|Athletics]] checks to swim equal to twice the weapon's enhancement bonus. In addition, the wielder does not take the normal penalties to attack and damage rolls imposed by being underwater, as if he were subject to the spell *[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]*.
+This special ability can only be placed on melee weapons. A _seaborne_ weapon functions easily in watery environments. With the weapon in hand, the wielder gains a bonus on [[rangoric-srd/skills/Athletics#Swimming|Athletics]] checks to swim equal to twice the weapon's enhancement bonus. In addition, the wielder does not take the normal penalties to attack and damage rolls imposed by being underwater, as if he were subject to the spell _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_.
 
-Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]*, *[[rangoric-srd/spells/Touch of the Sea|touch of the sea]]*; Price +1 bonus.
+Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_, _[[rangoric-srd/spells/Touch of the Sea|touch of the sea]]_; Price +1 bonus.

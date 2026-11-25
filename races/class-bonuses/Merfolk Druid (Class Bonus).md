@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Merfolk Druid
 
-*A [[rangoric-srd/races/Merfolk|merfolk]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Druid#^druid-class-bonuses|druid]] level.*
+_A [[rangoric-srd/races/Merfolk|merfolk]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Druid#^druid-class-bonuses|druid]] level._
 
 Add +1 hit point to the druid's [[rangoric-srd/classes/Druid#^druid-animal-companion|animal companion]]. If the merfolk ever replaces her animal companion, the new animal companion gains these bonus hit points.

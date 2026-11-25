@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Swooping Pounce
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “swooping pounce”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “swooping pounce”, on the Special Attacks line.
 
 When a garuda makes a diving aerial charge, it can make a full attack with its natural weapons. The [[rangoric-srd/monsters/Garuda|garuda]] has it.

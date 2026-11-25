@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Carnivorous Blob
 
-  - Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]]
-  - **Hit Dice**: 16d8+112 (184 hp)
-  - **Initiative**: +0
-  - **Speed**: 20 ft. (4 squares), climb 20 ft., swim 20 ft.
-  - **Armor Class**: 2 (–8 size), touch 2, flat-footed 2
-  - **Base Attack**: +12; **CMB**: +33 (+37 grapple); **CMD**: 37 (can't be tripped)
-  - **Attack**: Slam +17 melee (8d6+19 plus 1d4 Con drain and [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Slam +17 melee (8d6+19 plus 1d4 Con drain and [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 30 ft./30 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Absorb Flesh|Absorb flesh]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] (8d6+19 plus 1d4 Con drain)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 120 ft., [[rangoric-srd/monsters/abilities/Reactive Strike|reactive strike]], [[rangoric-srd/monsters/abilities/Split|split]] (sonic or slashing, 32 hp), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-; Immune acid, ooze traits, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 30 and fire 30, vulnerable to cold
-  - **Saves**: Fort +12, Ref +5, Will +0
-  - **Abilities**: Str 36, Dex 11, Con 24, Int —, Wis 1, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +21
-  - **Feats**: —
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 13
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]]
+- **Hit Dice**: 16d8+112 (184 hp)
+- **Initiative**: +0
+- **Speed**: 20 ft. (4 squares), climb 20 ft., swim 20 ft.
+- **Armor Class**: 2 (–8 size), touch 2, flat-footed 2
+- **Base Attack**: +12; **CMB**: +33 (+37 grapple); **CMD**: 37 (can't be tripped)
+- **Attack**: Slam +17 melee (8d6+19 plus 1d4 Con drain and [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Slam +17 melee (8d6+19 plus 1d4 Con drain and [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 30 ft./30 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Absorb Flesh|Absorb flesh]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] (8d6+19 plus 1d4 Con drain)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 120 ft., [[rangoric-srd/monsters/abilities/Reactive Strike|reactive strike]], [[rangoric-srd/monsters/abilities/Split|split]] (sonic or slashing, 32 hp), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-; Immune acid, ooze traits, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 30 and fire 30, vulnerable to cold
+- **Saves**: Fort +12, Ref +5, Will +0
+- **Abilities**: Str 36, Dex 11, Con 24, Int —, Wis 1, Cha 1
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +21
+- **Feats**: —
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 13
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 While sages debate whether the first carnivorous blobs were created by a mad [[rangoric-srd/classes/Wizard|wizard]], formed in foul fleshwarping vats in some sinister city, or traveled to this world trapped in the core of a meteor, there is one thing they all agree on—none wish to get close enough to study the monstrosity.
 

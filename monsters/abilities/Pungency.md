@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Pungency
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “pungency”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “pungency”, on the Special Qualities line.
 
 A sasquatch's odor is quite powerful, and can be detected at twice the normal distance by scent. The [[rangoric-srd/monsters/Sasquatch|sasquatch]] has it.

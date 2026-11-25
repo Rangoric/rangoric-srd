@@ -13,12 +13,12 @@ tags: [rangoric, rangoric/monster]
 
 ### Building Abominations
 
-Abominations are a grouping of the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|outsider]] type in the same way that demons are a grouping of the outsider type. The accompanying table indicates the average values an abomination of a given size might have for its basic physical scores. Abominations also share several other characteristics.  
+Abominations are a grouping of the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|outsider]] type in the same way that demons are a grouping of the outsider type. The accompanying table indicates the average values an abomination of a given size might have for its basic physical scores. Abominations also share several other characteristics.
 
 |             |       |       |       |            |      |      |      |      |
 | ----------- | ----- | ----- | ----- | ---------- | ---- | ---- | ---- | ---- |
 | Size        | Str   | Dex   | Con   | \# of HD   | Slam | Bite | Claw | Gore |
-| Fine        | 12-13 | 26-27 | 12-13 | 4d8-9d8    | -   | 1d6  | 1d4  | 1d4  |
+| Fine        | 12-13 | 26-27 | 12-13 | 4d8-9d8    | -    | 1d6  | 1d4  | 1d4  |
 | Diminuitive | 14-15 | 24-25 | 14-15 | 7d8-13d8   | 1d4  | 1d8  | 1d6  | 1d6  |
 | Tiny        | 18-19 | 22-23 | 16-17 | 10d8-21d8  | 1d6  | 2d6  | 1d8  | 1d8  |
 | Small       | 26-27 | 20-21 | 20-21 | 19d8-33d8  | 1d8  | 2d8  | 2d6  | 2d6  |
@@ -50,6 +50,6 @@ Spell-Like Abilities: All abominations have access to a variety of spells in the
 
 Unique Abilities: All abominations have at least one or more unique abilities tied to their godly parent’s portfolio, or to the manner of their incarceration.
 
-Spell Resistance: As a general rule of thumb, abominations have [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] equal to their CR +12.  
+Spell Resistance: As a general rule of thumb, abominations have [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] equal to their CR +12.
 
 Abominations speak Abyssal, Celestial, Infernal, and often a language associated with their imprisonment.

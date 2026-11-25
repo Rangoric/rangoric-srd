@@ -28,11 +28,11 @@ tags: [rangoric, rangoric/magic-item]
 
 Although usable by others, these finely crafted staves bolster specialist wizards in magic of their chosen schools.
 
-Each staff, when held, provides its user with a +2 enhancement bonus to his DC for spells cast within the staff’s school, as well as bestowing a +2 enhancement bonus to saving throws vs. spells and effects of the same school as the staff. A school staff also functions as a *+2 quarterstaff* if wielded in battle.
+Each staff, when held, provides its user with a +2 enhancement bonus to his DC for spells cast within the staff’s school, as well as bestowing a +2 enhancement bonus to saving throws vs. spells and effects of the same school as the staff. A school staff also functions as a _+2 quarterstaff_ if wielded in battle.
 
 Additionally, each staff has 50 charges that may be spent to cast any spell from the staff’s associated school. Each spell cast from a school staff uses up one charge per spell level. The staff cannot be recharged. Once fully discharged, the staff’s other functions still operate normally.
 
-Strong of appropriate school; CL 17th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Wish|wish]]*; Price 87,975 gp; Cost 43,988 gp + 3,519 XP.
+Strong of appropriate school; CL 17th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Wish|wish]]_; Price 87,975 gp; Cost 43,988 gp + 3,519 XP.
 
 ## Staff of the Abjurer
 

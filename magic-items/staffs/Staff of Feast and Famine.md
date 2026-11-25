@@ -23,10 +23,10 @@ tags: [rangoric, rangoric/magic-item]
 
 Leaves sprout from this wooden staff, some green and some black. When the wielder uses the staff, he plucks one of the leaves: a green leaf to provide sustenance or a black leaf to cause hunger or thirst. The staff allows the use of the following spells:
 
-- *[[rangoric-srd/spells/Create Water|Create water]]* (1 charge)
-- *[[rangoric-srd/spells/Goodberry|Goodberry]]* (1 charge)
-- *[[rangoric-srd/spells/Purify Food and Drink|Purify food and drink]]* (1 charge)
-- *[[rangoric-srd/spells/Cup of Dust|Cup of dust]]* (2 charges)
-- *[[rangoric-srd/spells/Feast of Ashes|Feast of ashes]]* (2 charges)
+- _[[rangoric-srd/spells/Create Water|Create water]]_ (1 charge)
+- _[[rangoric-srd/spells/Goodberry|Goodberry]]_ (1 charge)
+- _[[rangoric-srd/spells/Purify Food and Drink|Purify food and drink]]_ (1 charge)
+- _[[rangoric-srd/spells/Cup of Dust|Cup of dust]]_ (2 charges)
+- _[[rangoric-srd/spells/Feast of Ashes|Feast of ashes]]_ (2 charges)
 
-Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Create Water|create water]]*, *[[rangoric-srd/spells/Cup of Dust|cup of dust]]*, *[[rangoric-srd/spells/Feast of Ashes|feast of ashes]]*, *[[rangoric-srd/spells/Goodberry|goodberry]]*, *[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]*; Price 20,800 gp; Cost 10,400 gp; Weight 5 lbs.
+Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Create Water|create water]]_, _[[rangoric-srd/spells/Cup of Dust|cup of dust]]_, _[[rangoric-srd/spells/Feast of Ashes|feast of ashes]]_, _[[rangoric-srd/spells/Goodberry|goodberry]]_, _[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]_; Price 20,800 gp; Cost 10,400 gp; Weight 5 lbs.

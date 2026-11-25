@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/spears, weapon-group/thrown]
 
 # Pilum
 
-*Martial ranged weapon.* Cost 5 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Range Increment 20 ft.; Weight 4 lb.; Type Piercing. ^stats
+_Martial ranged weapon._ Cost 5 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Range Increment 20 ft.; Weight 4 lb.; Type Piercing. ^stats
 
 The tip of this heavy [[rangoric-srd/equipment/weapons/Javelin|javelin]] is designed to break off and embed itself into a shield once it hits. Like ammunition, a thrown pilum that hits its target is destroyed. If you hit a shield-using opponent with a pilum, he loses the AC bonuses from that shield until he takes a standard action to pry the remnants of the pilum from his shield.
 

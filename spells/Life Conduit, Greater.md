@@ -24,13 +24,13 @@ tags: [rangoric, rangoric/spell]
 
 # Life Conduit, Greater
 
-*Conjuration (Healing)*
+_Conjuration (Healing)_
 
-  - **Level**: Sum 5, SumU 5
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level
+- **Level**: Sum 5, SumU 5
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level
 
-This spell functions like *[[rangoric-srd/spells/Life Conduit|life conduit]]*, except you can transfer 3d6 hit points as a swift action.
+This spell functions like _[[rangoric-srd/spells/Life Conduit|life conduit]]_, except you can transfer 3d6 hit points as a swift action.

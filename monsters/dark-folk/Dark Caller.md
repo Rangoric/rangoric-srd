@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Dark Caller
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Dark Folk)
-  - **Hit Dice**: 8d8+16 (52 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 17 (+3 Dex, +1 dodge, +3 natural), touch 14, flat-footed 13
-  - **Base Attack**: +6; **CMB**: +8; **CMD**: 22
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +10 melee (1d4+2/19–20 plus black smear poison)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +10/+5 melee (1d4+2/19–20 plus black smear poison)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Death throes, sneak attack +2d6, [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: Detect magic, [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Poison|poison]] use, [[rangoric-srd/monsters/abilities/Shadow Ritual|shadow ritual]], [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
-  - **Saves**: Fort +4, Ref +9, Will +3
-  - **Abilities**: Str 14, Dex 17, Con 14, Int 13, Wis 13, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Emulation|Emulation]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +10, [[rangoric-srd/skills/Theology|Theology]] +9
-  - **Feats**: [[rangoric-srd/feats/Augment Summoning|Augment Summoning]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any underground
-  - **Organization**: Solitary, pair, or gang (1 plus 2–5 dark stalkers), or clan (20–80 dark creepers plus 1 dark stalker and dark caller per 20 dark creepers)
-  - **Challenge Rating**: 5
-  - **Treasure**: Standard (mwk dagger, black smear [2 doses], other gear)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Dark Folk)
+- **Hit Dice**: 8d8+16 (52 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 17 (+3 Dex, +1 dodge, +3 natural), touch 14, flat-footed 13
+- **Base Attack**: +6; **CMB**: +8; **CMD**: 22
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +10 melee (1d4+2/19–20 plus black smear poison)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +10/+5 melee (1d4+2/19–20 plus black smear poison)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Death throes, sneak attack +2d6, [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: Detect magic, [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Poison|poison]] use, [[rangoric-srd/monsters/abilities/Shadow Ritual|shadow ritual]], [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
+- **Saves**: Fort +4, Ref +9, Will +3
+- **Abilities**: Str 14, Dex 17, Con 14, Int 13, Wis 13, Cha 18
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Emulation|Emulation]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +10, [[rangoric-srd/skills/Theology|Theology]] +9
+- **Feats**: [[rangoric-srd/feats/Augment Summoning|Augment Summoning]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any underground
+- **Organization**: Solitary, pair, or gang (1 plus 2–5 dark stalkers), or clan (20–80 dark creepers plus 1 dark stalker and dark caller per 20 dark creepers)
+- **Challenge Rating**: 5
+- **Treasure**: Standard (mwk dagger, black smear [2 doses], other gear)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Dark callers hold a position in dark folk society similar to that of lay priests. Dark callers are named for their role in summoning otherworldly creatures called owbs to oversee important rites in their shadowed communities deep underground. Dark callers perform rituals that bring these creatures forth to preside over all manner of ceremonies the dark folk perform, but the most important is the blanching. When dark folk are born, they are exposed to the sinister touch of the owb's curse of darkness ability, which saps all color and light from the infant dark folk. It's during this ritual that the infant's potential is judged. From that moment on, the youngling grows into one of the various types of dark folk.
 
@@ -75,7 +75,7 @@ Dark callers speak Dark Folk and Undercommon.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +12): Constant—*[[rangoric-srd/spells/Detect Magic|detect magic]]*; At will—*[[rangoric-srd/spells/Bleed|bleed]]* (DC 14); 3/day—*[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]*, *[[rangoric-srd/spells/Shadow Step|shadow step]]*; 1/day—*[[rangoric-srd/spells/Shadow Conjuration|shadow conjuration]]* (DC 18).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +12): Constant—_[[rangoric-srd/spells/Detect Magic|detect magic]]_; At will—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 14); 3/day—_[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_, _[[rangoric-srd/spells/Shadow Step|shadow step]]_; 1/day—_[[rangoric-srd/spells/Shadow Conjuration|shadow conjuration]]_ (DC 18).
 
 **Death Throes (Su)**: When a dark caller is slain, its body bursts into shreds of blisteringly cold shadows, leaving its gear in a heap on the ground. All creatures within a 10-foot burst take 1d4 points of Strength damage and are [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1 round. A successful DC 16 Fortitude save halves the Strength damage and negates the staggered effect. This ability damage is temporary and an affected creature's Strength returns to normal after 3d10 minutes. The save DC is Constitution-based.
 

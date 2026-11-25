@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, fighter-bonus, epic]
 
 # Epic Weapon Specialization
 
-Prerequisites: [[rangoric-srd/feats/Epic Weapon Focus|Epic Weapon Focus]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]], [[rangoric-srd/feats/Feats All|Weapon Specialization]] (all in the chosen weapon).  
+Prerequisites: [[rangoric-srd/feats/Epic Weapon Focus|Epic Weapon Focus]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]], [[rangoric-srd/feats/Feats All|Weapon Specialization]] (all in the chosen weapon).
 
 Benefit: Add +4 to all damage the character deals using the selected weapon. If the weapon is a ranged weapon, the damage bonus only applies if the target is within 30 feet.
 

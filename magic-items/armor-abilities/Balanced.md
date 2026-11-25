@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Balanced
 
-This armor pushes back against anything that threatens to knock its wearer to the ground. The wearer gains a +4 bonus to his Combat Maneuver Defense against [[rangoric-srd/combat/Combat Maneuvers|combat maneuvers]] made to overrun or trip and on [[rangoric-srd/skills/Acrobatics#Balancing|Acrobatics]] checks made to maintain balance. Dropping [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]] while wearing *balanced* armor is a move action instead of a free action. The *balanced* ability can be applied to light or medium armors, but not heavy armors or shields.
+This armor pushes back against anything that threatens to knock its wearer to the ground. The wearer gains a +4 bonus to his Combat Maneuver Defense against [[rangoric-srd/combat/Combat Maneuvers|combat maneuvers]] made to overrun or trip and on [[rangoric-srd/skills/Acrobatics#Balancing|Acrobatics]] checks made to maintain balance. Dropping [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]] while wearing _balanced_ armor is a move action instead of a free action. The _balanced_ ability can be applied to light or medium armors, but not heavy armors or shields.
 
-Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*; Price +1 bonus.
+Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_; Price +1 bonus.

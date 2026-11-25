@@ -19,13 +19,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Spirit Warden
 
-*A [[rangoric-srd/classes/Shaman#^shaman-archetypes|shaman]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Shaman#^shaman-archetypes|shaman]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Not all spirits deserve reverence and respect. Some are twisted and despicable. It's a spirit warden's duty to end these spirits' existence.
 
 **Unnatural Mien (Ex)**: At 1st level, the spirit warden's dealings with the spirit world give her an unsettling demeanor. A spirit warden removes [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha) from her list of [[rangoric-srd/classes/Shaman#Class Skills|class skills]] and adds [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), and she gains a +2 bonus on Intimidation checks to demoralize a foe.
 
-**Restless Magic (Su)**: The spirit warden adds the following spells to the list of spells she can cast using [[rangoric-srd/classes/Shaman#^shaman-spirit-magic|spirit magic]]: *[[rangoric-srd/spells/Detect Undead|detect undead]]* (1st), *[[rangoric-srd/spells/Command Undead|command undead]]* (2nd), *[[rangoric-srd/spells/Halt Undead|halt undead]]* (3rd), *[[rangoric-srd/spells/Death Ward|death ward]]* (4th), *[[rangoric-srd/spells/Possess Object|possess object]]* (5th), *[[rangoric-srd/spells/Undeath to Death|undeath to death]]* (6th), *[[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]]* (7th), *[[rangoric-srd/spells/Control Undead|control undead]]* (8th), *[[rangoric-srd/spells/Foresight|foresight]]* (9th). This ability replaces the spirit magic spells gained from the shaman's [[rangoric-srd/classes/Shaman#^shaman-spirit|spirit]].
+**Restless Magic (Su)**: The spirit warden adds the following spells to the list of spells she can cast using [[rangoric-srd/classes/Shaman#^shaman-spirit-magic|spirit magic]]: _[[rangoric-srd/spells/Detect Undead|detect undead]]_ (1st), _[[rangoric-srd/spells/Command Undead|command undead]]_ (2nd), _[[rangoric-srd/spells/Halt Undead|halt undead]]_ (3rd), _[[rangoric-srd/spells/Death Ward|death ward]]_ (4th), _[[rangoric-srd/spells/Possess Object|possess object]]_ (5th), _[[rangoric-srd/spells/Undeath to Death|undeath to death]]_ (6th), _[[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]]_ (7th), _[[rangoric-srd/spells/Control Undead|control undead]]_ (8th), _[[rangoric-srd/spells/Foresight|foresight]]_ (9th). This ability replaces the spirit magic spells gained from the shaman's [[rangoric-srd/classes/Shaman#^shaman-spirit|spirit]].
 
 **Rebuke Spirits (Su)**: At 2nd level, the spirit warden gains the ability to [[rangoric-srd/classes/Cleric#^cleric-channel-energy|channel positive energy]] as a cleric of her level. Regardless of her alignment, she can only use this ability to harm undead creatures. The spirit warden can use this ability a number of times per day equal to 3 + her Charisma modifier. This ability replaces the [[rangoric-srd/classes/Shaman#^shaman-hex|hex]] gained at 2nd level.
 

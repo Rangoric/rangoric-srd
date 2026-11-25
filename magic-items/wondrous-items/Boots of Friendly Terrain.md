@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 Boots of friendly terrain turn inhospitable territory into a perfect hunting grounds for any ranger who wears them, so much so that his footprints vanish behind him with each step he takes. Each pair of these supple leather boots corresponds to a specific sort of environment as defined by the ranger's [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] class feature (jungles, plains, and so on). A ranger wearing the boots can treat the corresponding environment of the boots as one of his favored terrains, granting him a +2 bonus. If he already has that particular environment as one of his favored terrains, that terrain's bonus increases by 2.
 
-Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Pass without Trace|pass without trace]]*, creator must be a ranger; Price 2,400 gp; Cost 1,200 gp; Weight 1 lb.
+Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Pass without Trace|pass without trace]]_, creator must be a ranger; Price 2,400 gp; Cost 1,200 gp; Weight 1 lb.

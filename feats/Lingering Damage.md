@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Lingering Damage
 
-Prerequisite: Sneak attack +8d6, crippling strike class feature.  
+Prerequisite: Sneak attack +8d6, crippling strike class feature.
 
 Benefit: Any time the character deals damage with a sneak attack, that target takes damage equal to the character’s sneak attack bonus damage on the character’s next turn as well.

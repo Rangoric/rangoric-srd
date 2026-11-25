@@ -33,7 +33,7 @@ Area: One nonmagical fire source; see text
 Duration: Concentration, up to 1 min./level  
 Saving Throw: See text  
 Power Resistance: No  
-Power Points: 1  
+Power Points: 1
 
 You pyrokinetically control the intensity or movements of one fire source. A nonmagical fire source can be controlled if it is equal to or smaller than the maximum size of fire you can control according to your manifester level, as noted on the accompanying table. You can freely switch control between fire sources, or change the nature of your control, while you maintain concentration, but only one specified change (keeping a fire burning, animating it, or altering its size) can be made to one fire source in a round. When your control over a fire source lapses, that fire immediately returns to its original state (or goes out if it has no fuel or has been moved away from its original location). With this power, you can artificially keep a fire burning that would normally expire for lack of fuel; even dousing a controlled flame with water does not put it out (though completely submerging the flame would). Normally, a creature at risk of catching on fire can avoid this fate by making a DC 15 Reflex saving throw, with success indicating that the fire has gone out. If the fire is one that has been kept burning by the use of control flames, then the DC of the Reflex save needed to put out the flames increases to 25.
 

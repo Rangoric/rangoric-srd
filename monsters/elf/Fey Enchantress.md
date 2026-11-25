@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Fey Enchantress
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf)
-  - **Hit Dice**: 12d6+12 (56 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 21 (+4 armor, +2 deflection, +3 Dex, +1 dodge, +1 natural), touch 16, flat-footed 17
-  - **Base Attack**: +6; **CMB**: +5; **CMD**: 21
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Rapier|rapier]] +10 melee (1d6–1/18–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +10 ranged (1d6/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Rapier|rapier]] +10/+5 melee (1d6–1/18–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +10/+5 ranged (1d6/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/class-options/bloodlines/Fey Bloodline|bloodline arcana]] (+2 DC for compulsion spells), [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/class-options/bloodlines/Fey Bloodline|woodland stride]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
-  - **Saves**: Fort +5, Ref +10, Will +12 (+2 vs. enchantments)
-  - **Abilities**: Str 8, Dex 16, Con 10, Int 12, Wis 13, Cha 20
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Arcana|Arcana]] +9 (+11 to identify magic item properties), [[rangoric-srd/skills/Deception|Deception]] +18, [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +15
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (enchantment), [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Temperate forest
-  - **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
-  - **Challenge Rating**: 11
-  - **Treasure**: NPC gear (combat gear: elixir of love (2), scroll of wall of force; other gear: masterwork rapier, masterwork shortbow with 20 arrows, cloak of resistance +1, hat of disguise, headband of alluring charisma +2, ring of protection +2, jewelry (worth 300 gp), 1,825 gp)
-  - **Alignment**: Chaotic neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf)
+- **Hit Dice**: 12d6+12 (56 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 21 (+4 armor, +2 deflection, +3 Dex, +1 dodge, +1 natural), touch 16, flat-footed 17
+- **Base Attack**: +6; **CMB**: +5; **CMD**: 21
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Rapier|rapier]] +10 melee (1d6–1/18–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +10 ranged (1d6/×3)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Rapier|rapier]] +10/+5 melee (1d6–1/18–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +10/+5 ranged (1d6/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/class-options/bloodlines/Fey Bloodline|bloodline arcana]] (+2 DC for compulsion spells), [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/class-options/bloodlines/Fey Bloodline|woodland stride]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
+- **Saves**: Fort +5, Ref +10, Will +12 (+2 vs. enchantments)
+- **Abilities**: Str 8, Dex 16, Con 10, Int 12, Wis 13, Cha 20
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Arcana|Arcana]] +9 (+11 to identify magic item properties), [[rangoric-srd/skills/Deception|Deception]] +18, [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +15
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (enchantment), [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Temperate forest
+- **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
+- **Challenge Rating**: 11
+- **Treasure**: NPC gear (combat gear: elixir of love (2), scroll of wall of force; other gear: masterwork rapier, masterwork shortbow with 20 arrows, cloak of resistance +1, hat of disguise, headband of alluring charisma +2, ring of protection +2, jewelry (worth 300 gp), 1,825 gp)
+- **Alignment**: Chaotic neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A fey enchantress is an [[rangoric-srd/monsters/elf/Elf|elf]] with 12 levels of [[rangoric-srd/classes/Sorcerer|sorcerer]]. The fey enchantress uses her powers to manipulate others, acquire power, and gain wealth.
 
@@ -77,4 +77,4 @@ A fey enchantress speaks Common, Elven, and Sylvan.
 
 **Bloodline Spell-Like Abilities** (CL 12th; concentration +17): 8/day—[[rangoric-srd/class-options/bloodlines/Fey Bloodline|laughing touch]]; 12 rounds/day—[[rangoric-srd/class-options/bloodlines/Fey Bloodline|fleeting glance]].
 
-**Sorcerer spells known** (CL 12th; concentration +17): 6th (3/day)—*[[rangoric-srd/spells/Suggestion, Mass|mass suggestion]]* (DC 25); 5th (6/day)—*[[rangoric-srd/spells/Dominate Person|dominate person]]* (DC 24), *[[rangoric-srd/spells/Mind Fog|mind fog]]* (DC 24), *[[rangoric-srd/spells/Tree Stride|tree stride]]*; 4th (7/day)—*[[rangoric-srd/spells/Bestow Curse|bestow curse]]* (DC 19), *[[rangoric-srd/spells/Charm Monster|charm monster]]* (DC 21), *[[rangoric-srd/spells/Crushing Despair|crushing despair]]* (DC 23), *[[rangoric-srd/spells/Poison|poison]]* (DC 19); 3rd (7/day)—*[[rangoric-srd/spells/Deep Slumber|deep slumber]]* (DC 22), *[[rangoric-srd/spells/Fly|fly]]*, *[[rangoric-srd/spells/Hold Person|hold person]]* (DC 22), *[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]* (DC 18), *[[rangoric-srd/spells/Suggestion|suggestion]]* (DC 22); 2nd (7/day)—*[[rangoric-srd/spells/False Life|false life]]*, *[[rangoric-srd/spells/Glitterdust|glitterdust]]* (DC 17), *[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]* (DC 21), *[[rangoric-srd/spells/Scorching Ray|scorching ray]]*, *[[rangoric-srd/spells/Spectral Hand|spectral hand]]*, *[[rangoric-srd/spells/Touch of Idiocy|touch of idiocy]]*; 1st (8/day)—*[[rangoric-srd/spells/Charm Person|charm person]]* (DC 18), *[[rangoric-srd/spells/Entangle|entangle]]* (DC 16), *[[rangoric-srd/spells/Mage Armor|mage armor]]*, *[[rangoric-srd/spells/Magic Missile|magic missile]]*, *[[rangoric-srd/spells/Shield|shield]]*, *[[rangoric-srd/spells/Ventriloquism|ventriloquism]]* (DC 16); 0 (at will)—*[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Daze|daze]]* (DC 19), *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Ghost Sound|ghost sound]]* (DC 15), *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Message|message]]*, *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]*, *[[rangoric-srd/spells/Ray of Frost|ray of frost]]*, *[[rangoric-srd/spells/Read Magic|read magic]]*; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Fey Bloodline|fey]].
+**Sorcerer spells known** (CL 12th; concentration +17): 6th (3/day)—_[[rangoric-srd/spells/Suggestion, Mass|mass suggestion]]_ (DC 25); 5th (6/day)—_[[rangoric-srd/spells/Dominate Person|dominate person]]_ (DC 24), _[[rangoric-srd/spells/Mind Fog|mind fog]]_ (DC 24), _[[rangoric-srd/spells/Tree Stride|tree stride]]_; 4th (7/day)—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (DC 19), _[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 21), _[[rangoric-srd/spells/Crushing Despair|crushing despair]]_ (DC 23), _[[rangoric-srd/spells/Poison|poison]]_ (DC 19); 3rd (7/day)—_[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (DC 22), _[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Hold Person|hold person]]_ (DC 22), _[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_ (DC 18), _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 22); 2nd (7/day)—_[[rangoric-srd/spells/False Life|false life]]_, _[[rangoric-srd/spells/Glitterdust|glitterdust]]_ (DC 17), _[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]_ (DC 21), _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_, _[[rangoric-srd/spells/Spectral Hand|spectral hand]]_, _[[rangoric-srd/spells/Touch of Idiocy|touch of idiocy]]_; 1st (8/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 18), _[[rangoric-srd/spells/Entangle|entangle]]_ (DC 16), _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Shield|shield]]_, _[[rangoric-srd/spells/Ventriloquism|ventriloquism]]_ (DC 16); 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Daze|daze]]_ (DC 19), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 15), _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Message|message]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_, _[[rangoric-srd/spells/Ray of Frost|ray of frost]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Fey Bloodline|fey]].

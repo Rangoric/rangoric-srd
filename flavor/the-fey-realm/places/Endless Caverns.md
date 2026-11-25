@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/flavor, flavor]
 
 # Endless Caverns
 
-The Endless Caverns riddle the mountains of FaerieLand and all the ground beneath it. They are the passageways to the underground world inhabited by the [[rangoric-srd/races/Deep Fey|deep fey]]. Its tunnels and grottoes house *doorways* from FaerieLand to the subterranean *doorways* of the mortal realms. As the surface world of FaerieLand above, this underground world has *doorways* to all terrains known in the mortal world.
+The Endless Caverns riddle the mountains of FaerieLand and all the ground beneath it. They are the passageways to the underground world inhabited by the [[rangoric-srd/races/Deep Fey|deep fey]]. Its tunnels and grottoes house _doorways_ from FaerieLand to the subterranean _doorways_ of the mortal realms. As the surface world of FaerieLand above, this underground world has _doorways_ to all terrains known in the mortal world.
 
 **Distance:** Distant (DC 20) / Nearby (DC 15)
 
@@ -21,12 +21,12 @@ The Endless Caverns riddle the mountains of FaerieLand and all the ground beneat
 
 **Personalities:** The king called Goldentouch
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* The Endless Caverns are actually mine shafts that connect with natural caverns and crevasses that lie under FaerieLand.
+_Common:_ The Endless Caverns are actually mine shafts that connect with natural caverns and crevasses that lie under FaerieLand.
 
-*Uncommon:* As the surface world of FaerieLand above, this underground world has *doorways* to all terrains known in the mortal world.
+_Uncommon:_ As the surface world of FaerieLand above, this underground world has _doorways_ to all terrains known in the mortal world.
 
-*Rare:* There are many routes through the Endless Caverns to the Fungal Forest.
+_Rare:_ There are many routes through the Endless Caverns to the Fungal Forest.
 
-*Obscure:* -
+_Obscure:_ -

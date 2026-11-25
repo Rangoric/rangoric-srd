@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Half-Elf Slayer
 
-*A [[rangoric-srd/races/Half-Elf|half-elf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Slayer#^slayer-class-bonuses|slayer]] level.*
+_A [[rangoric-srd/races/Half-Elf|half-elf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Slayer#^slayer-class-bonuses|slayer]] level._
 
 Gain a +1/2 bonus on [[rangoric-srd/skills/Deception|Deception]] checks to [[rangoric-srd/combat/Combat Special Attacks#Feint|feint]] and [[rangoric-srd/skills/Persuasion|Persuasion]] checks to [[rangoric-srd/skills/Persuasion#Gathering Information|gain information]].

@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Bramble Sorcerer
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf, Human)
-  - **Hit Dice**: 5d6+10 (30 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 18 (+4 armor, +2 Dex, +1 dodge, +1 natural), touch 13, flat-footed 15
-  - **Base Attack**: +2; **CMB**: +2; **CMD**: 15
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Light Mace|light mace]] +3 melee (1d6) or claw +2 melee (1d4) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +5 ranged (1d8/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Light Mace|light mace]] +3 melee (1d6); or 2 claws +2 melee (1d4); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +5 ranged (1d8/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|Claws]] (2, 1d4, treated as magic, 7 rounds/day)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|bloodline arcana]] (acid spells deal +1 damage per die), [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5 and fire 10
-  - **Saves**: Fort +3, Ref +6, Will +4 (+2 vs. enchantments)
-  - **Abilities**: Str 10, Dex 14, Con 12, Int 13, Wis 8, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Emulation|Emulation]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +7
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Emulation)
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary, or with other half-elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
-  - **Challenge Rating**: 4
-  - **Treasure**: NPC gear (combat gear: potion of cure moderate wounds, potion of invisibility, scrolls of levitate (2), scroll of ray of exhaustion, scroll of silent image, wand of entangle (20 charges), smokestick; other gear: masterwork light crossbow with 10 bolts, masterwork light mace, cloak of resistance +1, 190 gp)
-  - **Alignment**: Lawful evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf, Human)
+- **Hit Dice**: 5d6+10 (30 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 18 (+4 armor, +2 Dex, +1 dodge, +1 natural), touch 13, flat-footed 15
+- **Base Attack**: +2; **CMB**: +2; **CMD**: 15
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Light Mace|light mace]] +3 melee (1d6) or claw +2 melee (1d4) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +5 ranged (1d8/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Light Mace|light mace]] +3 melee (1d6); or 2 claws +2 melee (1d4); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +5 ranged (1d8/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|Claws]] (2, 1d4, treated as magic, 7 rounds/day)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|bloodline arcana]] (acid spells deal +1 damage per die), [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5 and fire 10
+- **Saves**: Fort +3, Ref +6, Will +4 (+2 vs. enchantments)
+- **Abilities**: Str 10, Dex 14, Con 12, Int 13, Wis 8, Cha 18
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Emulation|Emulation]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +7
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Emulation)
+- **Environment**: Temperate forests
+- **Organization**: Solitary, or with other half-elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
+- **Challenge Rating**: 4
+- **Treasure**: NPC gear (combat gear: potion of cure moderate wounds, potion of invisibility, scrolls of levitate (2), scroll of ray of exhaustion, scroll of silent image, wand of entangle (20 charges), smokestick; other gear: masterwork light crossbow with 10 bolts, masterwork light mace, cloak of resistance +1, 190 gp)
+- **Alignment**: Lawful evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A bramble sorcerer is a [[rangoric-srd/monsters/elf/Elf#Half-Elf|half-elf]] with 5 levels of [[rangoric-srd/classes/Sorcerer|sorcerer]]. The bramble sorcerer serves the interests of green dragons, walking where his masters cannot and speaking on their behalf to other forest dwellers.
 
@@ -75,4 +75,4 @@ A bramble sorcerer speaks Common, Draconic, and Elven.
 
 **Base Statistics**: Without mage armor and resist energy, the sorcerer's statistics are **AC** 14, touch 13, flat-footed 11; **Resist** acid 5.
 
-**Sorcerer spells known** (CL 5th; concentration +9): 2nd (5/day)—*[[rangoric-srd/spells/Acid Arrow|acid arrow]]*, *[[rangoric-srd/spells/Mirror Image|mirror image]]*, *[[rangoric-srd/spells/Resist Energy|resist energy]]*; 1st (7/day)—*[[rangoric-srd/spells/Cause Fear|cause fear]]* (DC 15), *[[rangoric-srd/spells/Charm Person|charm person]]* (DC 15), *[[rangoric-srd/spells/Mage Armor|mage armor]]*, *[[rangoric-srd/spells/Magic Missile|magic missile]]*, *[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]* (DC 15); 0 (at will)—*[[rangoric-srd/spells/Acid Splash|acid splash]]*, *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Ghost Sound|ghost sound]]* (DC 14), *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Message|message]]*, *[[rangoric-srd/spells/Read Magic|read magic]]*; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|draconic (green)]].
+**Sorcerer spells known** (CL 5th; concentration +9): 2nd (5/day)—_[[rangoric-srd/spells/Acid Arrow|acid arrow]]_, _[[rangoric-srd/spells/Mirror Image|mirror image]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_; 1st (7/day)—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (DC 15), _[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 15), _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_ (DC 15); 0 (at will)—_[[rangoric-srd/spells/Acid Splash|acid splash]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 14), _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Message|message]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|draconic (green)]].

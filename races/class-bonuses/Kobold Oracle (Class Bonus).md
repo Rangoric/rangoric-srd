@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Kobold Oracle
 
-*A [[rangoric-srd/races/Kobold|kobold]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Oracle#^oracle-class-bonuses|oracle]] level.*
+_A [[rangoric-srd/races/Kobold|kobold]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Oracle#^oracle-class-bonuses|oracle]] level._
 
 Add +1/4 to the armor or natural armor bonus granted by oracle spells she casts on herself.

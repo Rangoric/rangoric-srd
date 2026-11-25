@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Elemental Weapon
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Drd 1, Hun 1, Sor/Wiz 1
-  - **Components**: V, S, F
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: 1 weapon
-  - **Duration**: 1 round/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Drd 1, Hun 1, Sor/Wiz 1
+- **Components**: V, S, F
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: 1 weapon
+- **Duration**: 1 round/level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 Casting this spell sheaths one weapon in an elemental energy of the caster’s choice. For the duration of the spell, the enchanted weapon deals an additional 1d6 damage of the elemental type chosen on a successful hit. The elemental energy imbued does not harm the caster, but it may affect surrounding objects (for example, a flaming sword could be used to ignite a pool of oil).

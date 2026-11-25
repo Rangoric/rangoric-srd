@@ -27,17 +27,17 @@ tags: [rangoric, rangoric/constellation]
 
 # The Drum
 
-*[[rangoric-srd/rules/star magic/Star Magic|Constellation]]*
+_[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 
-  - **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Decay|Decay]], [[rangoric-srd/rules/star magic/stars/Star of Life|Life]], [[rangoric-srd/rules/star magic/stars/Star of Silence|Silence]], [[rangoric-srd/rules/star magic/stars/Star of Thunder|Thunder]]
-  - **Call Level**: 7th ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Area**: 40-ft.-radius burst
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude half (see text)
-  - **Spell Resistance**: Yes
+- **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Decay|Decay]], [[rangoric-srd/rules/star magic/stars/Star of Life|Life]], [[rangoric-srd/rules/star magic/stars/Star of Silence|Silence]], [[rangoric-srd/rules/star magic/stars/Star of Thunder|Thunder]]
+- **Call Level**: 7th ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Area**: 40-ft.-radius burst
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude half (see text)
+- **Spell Resistance**: Yes
 
 A pulse of sound shakes the area. Corporeal creatures feel it in their bones but take no harm. Each [[rangoric-srd/rules/Special Abilities and Conditions#^incorporeal|incorporeal]] creature in the area takes 1d8 points of damage per caster level (maximum 20d8) and is [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d4 rounds; a successful Fortitude save halves the damage and shortens the stun to 1 round.
 

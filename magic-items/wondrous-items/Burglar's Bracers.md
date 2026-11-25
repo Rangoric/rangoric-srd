@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/magic-item]
 
 On command, these plain leather bracers can transform into a set of masterwork thieves' tools. They can transform back to their bracer form with another such command. Once per day, while using these thieves' tools or wearing these bracers, the user can take 10 on a single [[rangoric-srd/skills/Engineering|Engineering]] check, even when in immediate danger or distracted.
 
-Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Shrink Item|shrink item]]*; Price 1,050 gp; Cost 550 gp; Weight 1 lb.
+Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Shrink Item|shrink item]]_; Price 1,050 gp; Cost 550 gp; Weight 1 lb.

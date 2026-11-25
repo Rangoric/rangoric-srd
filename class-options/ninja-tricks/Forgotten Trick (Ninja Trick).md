@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Forgotten Trick
 
-*A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Ex).*
+_A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Ex)._
 
 A ninja with this ability can recall one trick taught to her by her ancient masters. When she uses this ability, she selects one ninja trick (not a master trick or rogue talent) that she does not know and can use that ninja trick for a number of rounds equal to her level. She must pay any ki costs associated with the trick as normal. Using this ability expends 2 ki points from her ki pool, plus the ki cost of the trick she chooses.

@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Contingent Action
 
-*Evocation*
+_Evocation_
 
-  - **Level**: Brd 2, Psy 3, Skd 2, Sor/Wiz 2
-  - **Components**: V, S
-  - **Casting Time**: 1 minute
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One willing creature
-  - **Duration**: 1 minute/level (D) or until discharged
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Brd 2, Psy 3, Skd 2, Sor/Wiz 2
+- **Components**: V, S
+- **Casting Time**: 1 minute
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One willing creature
+- **Duration**: 1 minute/level (D) or until discharged
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 The target gains an extra action that becomes available when a condition which you dictate is met. At the time of casting, you dictate the condition, and the target specifies a readied action that occurs when triggered by this condition.
 
@@ -44,4 +44,4 @@ The condition needed to trigger the readied action must be clear, although it ca
 
 The readied action must be a standard, move, or swift action—it cannot be used to cast a spell or use a supernatural ability. This action counts as a readied action and doesn't count toward the number of actions the creature can take in a round. When the condition occurs, the target can decide not to use the readied action. Once the condition is triggered, the spell is discharged—whether or not the target uses the readied action or the action is successful.
 
-This spell counts as a *[[rangoric-srd/spells/Contingency|contingency]]* spell for the purpose of having multiple contingent effects on a creature at the same time.
+This spell counts as a _[[rangoric-srd/spells/Contingency|contingency]]_ spell for the purpose of having multiple contingent effects on a creature at the same time.

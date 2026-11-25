@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Twigjack
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
-  - **Hit Dice**: 5d6+10 (27 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 17 (+3 Dex, +2 natural, +2 size), touch 15, flat-footed 14
-  - **Base Attack**: +2; **CMB**: +3; **CMD**: 12
-  - **Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +3 melee (1d4–1/×3) or claw +7 melee (1d4–1)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +3 melee (1d4–1/×3); or 2 claws +7 melee (1d4–1)
-  - **Space/Reach**: 2-1/2 ft./0 ft. (5 ft. with spear)
-  - **Special Attacks**: Sneak attack +2d6, [[rangoric-srd/monsters/abilities/Splinterspray|splinterspray]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Bramble Jump|bramble jump]], woodland stride, vulnerable to fire
-  - **Saves**: Fort +3, Ref +7, Will +6
-  - **Abilities**: Str 8, Dex 16, Con 15, Int 11, Wis 14, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Engineering|Engineering]] +8, [[rangoric-srd/skills/Nature|Nature]] +8, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +22
-  - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary, pair, or gang (3–8)
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
+- **Hit Dice**: 5d6+10 (27 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 17 (+3 Dex, +2 natural, +2 size), touch 15, flat-footed 14
+- **Base Attack**: +2; **CMB**: +3; **CMD**: 12
+- **Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +3 melee (1d4–1/×3) or claw +7 melee (1d4–1)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +3 melee (1d4–1/×3); or 2 claws +7 melee (1d4–1)
+- **Space/Reach**: 2-1/2 ft./0 ft. (5 ft. with spear)
+- **Special Attacks**: Sneak attack +2d6, [[rangoric-srd/monsters/abilities/Splinterspray|splinterspray]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Bramble Jump|bramble jump]], woodland stride, vulnerable to fire
+- **Saves**: Fort +3, Ref +7, Will +6
+- **Abilities**: Str 8, Dex 16, Con 15, Int 11, Wis 14, Cha 13
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Engineering|Engineering]] +8, [[rangoric-srd/skills/Nature|Nature]] +8, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +22
+- **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Temperate forests
+- **Organization**: Solitary, pair, or gang (3–8)
+- **Challenge Rating**: 3
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Deep in old-growth forests, twigjacks spend their time tormenting intruders and wreaking havoc on settlers. Maladjusted protectors of the wood, these malicious fey constantly threaten any attempts to civilize the wild. Twigjacks delight in breaking wagon wheels from expansionists' caravans, snapping hunters' bows, and sabotaging isolated cabins and villages. Although they possess a keen intellect, few creatures, even other fey, can tolerate these twig-born creatures for long. Treants especially find twigjacks bothersome, and resent any suggestion that they are related. Equally, twigjacks resent being considered plants, and are proud of their fey heritage. Twigjacks sometimes go out of their way to impress dryads, an effort that is rebuffed almost every time. But some spriggans, quicklings, and other evil fey associate with twigjacks, and while goblins fear and distrust the creatures, bugbears often bully them into service.
 

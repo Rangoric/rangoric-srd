@@ -34,15 +34,15 @@ tags: [rangoric, rangoric/spell]
 
 # Touch of Slime
 
-*Conjuration (Creation) \[Disease\]*
+_Conjuration (Creation) \[Disease\]_
 
-  - **Level**: Alc 4, Blr 4, Drd 4, Hun 4, Psy 4, Sor/Wiz 4, Wit 4
-  - **Components**: V, S, M (a drop of acid and a black glass sphere)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Living creature touched
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Alc 4, Blr 4, Drd 4, Hun 4, Psy 4, Sor/Wiz 4, Wit 4
+- **Components**: V, S, M (a drop of acid and a black glass sphere)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Living creature touched
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
-You create a coating of slime on your hand. When you make a successful melee touch attack with the slime, it pulls free of you and sticks to the target, at which point it acts like green slime, dealing 1d3 points of Constitution damage per round. Anything that destroys green slime (scraping, freezing, burning, cutting, sunlight, or *[[rangoric-srd/spells/Remove Disease|remove disease]]*) destroys this slime. If the slime kills a creature, it consumes the body and then dies. It cannot transfer to a creature other than the original target, and dies if separated from the original target.
+You create a coating of slime on your hand. When you make a successful melee touch attack with the slime, it pulls free of you and sticks to the target, at which point it acts like green slime, dealing 1d3 points of Constitution damage per round. Anything that destroys green slime (scraping, freezing, burning, cutting, sunlight, or _[[rangoric-srd/spells/Remove Disease|remove disease]]_) destroys this slime. If the slime kills a creature, it consumes the body and then dies. It cannot transfer to a creature other than the original target, and dies if separated from the original target.

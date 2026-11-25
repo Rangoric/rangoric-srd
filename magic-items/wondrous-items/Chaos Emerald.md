@@ -23,13 +23,13 @@ tags: [rangoric, rangoric/magic-item]
 
 This lustrous green gemstone is uncut and about the size of a human fist. The gem grants its bearer the use of the following abilities.
 
-- *[[rangoric-srd/spells/Entropic Shield|entropic shield]]* (1 charge)
-- *[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]* (1 charge)
-- *[[rangoric-srd/spells/Magic Circle against Law|magic circle against law]]* (1 charge)
-- *[[rangoric-srd/spells/Chaos Hammer|chaos hammer]]* (2 charges)
+- _[[rangoric-srd/spells/Entropic Shield|entropic shield]]_ (1 charge)
+- _[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]_ (1 charge)
+- _[[rangoric-srd/spells/Magic Circle against Law|magic circle against law]]_ (1 charge)
+- _[[rangoric-srd/spells/Chaos Hammer|chaos hammer]]_ (2 charges)
 
-A newly created *chaos emerald* has 1d6+2 charges. It can hold a maximum of 10 charges and automatically regains 1d3–1 charges each day.
+A newly created _chaos emerald_ has 1d6+2 charges. It can hold a maximum of 10 charges and automatically regains 1d3–1 charges each day.
 
-A non-chaotic creature who holds or carries a *chaos emerald* gains one [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative level]]. This negative level persists as long as the creature holds or carries the gem and disappears when the gem is dropped. This negative level cannot be overcome in any way (including *[[rangoric-srd/spells/Restoration|restoration]]* spells) while held or carried.
+A non-chaotic creature who holds or carries a _chaos emerald_ gains one [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative level]]. This negative level persists as long as the creature holds or carries the gem and disappears when the gem is dropped. This negative level cannot be overcome in any way (including _[[rangoric-srd/spells/Restoration|restoration]]_ spells) while held or carried.
 
-Strong abjuration; CL 19th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Chaos Hammer|chaos hammer]]*, *[[rangoric-srd/spells/Entropic Shield|entropic shield]]*, *[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]*, *[[rangoric-srd/spells/Magic Circle against Law|magic circle against law]]*, creator must be chaotic; Price 25,000 gp; Cost 12,500 gp; Weight 1 lb.
+Strong abjuration; CL 19th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Chaos Hammer|chaos hammer]]_, _[[rangoric-srd/spells/Entropic Shield|entropic shield]]_, _[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]_, _[[rangoric-srd/spells/Magic Circle against Law|magic circle against law]]_, creator must be chaotic; Price 25,000 gp; Cost 12,500 gp; Weight 1 lb.

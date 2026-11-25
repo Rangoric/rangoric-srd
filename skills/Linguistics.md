@@ -36,7 +36,7 @@ Both the Linguistics check and (if necessary) the Wisdom check are made secretly
 
 ### Advanced Uses
 
-The character can decipher magic scrolls.  
+The character can decipher magic scrolls.
 
 | Task                                                                                   | DC                       |
 | -------------------------------------------------------------------------------------- | ------------------------ |
@@ -46,47 +46,47 @@ The character can decipher magic scrolls.
 
 Languages work as follows.
 
-  - You start at 1st level knowing one or two languages (based on your race), plus an additional number of languages equal to your starting Intelligence bonus.
-  - Every second rank you have in Linguistics (2nd, 4th, 6th, and so on) also gives you a new language that you can speak.
-  - There are no checks to speak a language. You either know it or you don’t.
-  - A literate character (anyone but a barbarian who has not spent skill points to become literate) can read and write any language she speaks. Each language has an alphabet, though sometimes several spoken languages share a single alphabet.
+- You start at 1st level knowing one or two languages (based on your race), plus an additional number of languages equal to your starting Intelligence bonus.
+- Every second rank you have in Linguistics (2nd, 4th, 6th, and so on) also gives you a new language that you can speak.
+- There are no checks to speak a language. You either know it or you don’t.
+- A literate character (anyone but a barbarian who has not spent skill points to become literate) can read and write any language she speaks. Each language has an alphabet, though sometimes several spoken languages share a single alphabet.
 
 **Table: Common Languages and Their Alphabets**
 
-| Language           | Typical Speakers                                   | Alphabet      |
-| ------------------ | -------------------------------------------------- | ------------- |
-| Aboleth            | Aboleths                                           | —             |
-| Abyssal            | Demons, chaotic evil outsiders                     | Infernal      |
-| Aklo               | Derros, inhuman or otherworldly monsters, evil fey | —             |
-| Aquan              | Water-based creatures                              | Elven         |
-| Auran              | Air-based creatures                                | Draconic      |
-| Boggard            | Boggards                                           | —             |
-| Catfolk            | Catfolk                                            | —             |
-| Celestial          | Good outsiders                                     | Celestial     |
-| Common             | Humans, halflings, half-elves, half-orcs           | Common        |
-| Draconic           | Kobolds, troglodytes, lizardfolk, dragons          | Draconic      |
-| Drow Sign Language | Drow                                               | None (signed) |
-| Druidic            | Druids (only)                                      | Druidic       |
-| Dwarven            | Dwarves                                            | Dwarven       |
-| Elven              | Elves                                              | Elven         |
-| Fae                | Fey (their own dialect of Sylvan)                  | Elven         |
-| Giant              | Ogres, giants                                      | Dwarven       |
-| Gnome              | Gnomes                                             | Dwarven       |
-| Goblin             | Goblins, hobgoblins, bugbears                      | Dwarven       |
-| Gnoll              | Gnolls                                             | Common        |
-| Grippli            | Gripplis                                           | —             |
-| Halfling           | Halflings                                          | Common        |
-| Ignan              | Fire-based creatures                               | Draconic      |
-| Infernal           | Devils, lawful evil outsiders                      | Infernal      |
-| Orc                | Orcs                                               | Dwarven       |
-| Shadow             | Bogies                                             | —             |
-| Strix              | Strix                                              | —             |
-| Sylvan             | [[rangoric-srd/monsters/nymph/Dryad\|Dryads]], [[rangoric-srd/monsters/Brownie\|brownies]], [[rangoric-srd/monsters/Leprechaun\|leprechauns]]                      | Elven         |
-| Tengu              | Tengus                                             | —             |
-| Terran             | Xorns and other earth-based creatures              | Dwarven       |
-| Undercommon        | Drow                                               | Elven         |
-| Vanaran            | Vanaras                                            | —             |
-| Vishkanya          | Vishkanyas                                         | —             |
+| Language           | Typical Speakers                                                                                                                              | Alphabet      |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| Aboleth            | Aboleths                                                                                                                                      | —             |
+| Abyssal            | Demons, chaotic evil outsiders                                                                                                                | Infernal      |
+| Aklo               | Derros, inhuman or otherworldly monsters, evil fey                                                                                            | —             |
+| Aquan              | Water-based creatures                                                                                                                         | Elven         |
+| Auran              | Air-based creatures                                                                                                                           | Draconic      |
+| Boggard            | Boggards                                                                                                                                      | —             |
+| Catfolk            | Catfolk                                                                                                                                       | —             |
+| Celestial          | Good outsiders                                                                                                                                | Celestial     |
+| Common             | Humans, halflings, half-elves, half-orcs                                                                                                      | Common        |
+| Draconic           | Kobolds, troglodytes, lizardfolk, dragons                                                                                                     | Draconic      |
+| Drow Sign Language | Drow                                                                                                                                          | None (signed) |
+| Druidic            | Druids (only)                                                                                                                                 | Druidic       |
+| Dwarven            | Dwarves                                                                                                                                       | Dwarven       |
+| Elven              | Elves                                                                                                                                         | Elven         |
+| Fae                | Fey (their own dialect of Sylvan)                                                                                                             | Elven         |
+| Giant              | Ogres, giants                                                                                                                                 | Dwarven       |
+| Gnome              | Gnomes                                                                                                                                        | Dwarven       |
+| Goblin             | Goblins, hobgoblins, bugbears                                                                                                                 | Dwarven       |
+| Gnoll              | Gnolls                                                                                                                                        | Common        |
+| Grippli            | Gripplis                                                                                                                                      | —             |
+| Halfling           | Halflings                                                                                                                                     | Common        |
+| Ignan              | Fire-based creatures                                                                                                                          | Draconic      |
+| Infernal           | Devils, lawful evil outsiders                                                                                                                 | Infernal      |
+| Orc                | Orcs                                                                                                                                          | Dwarven       |
+| Shadow             | Bogies                                                                                                                                        | —             |
+| Strix              | Strix                                                                                                                                         | —             |
+| Sylvan             | [[rangoric-srd/monsters/nymph/Dryad\|Dryads]], [[rangoric-srd/monsters/Brownie\|brownies]], [[rangoric-srd/monsters/Leprechaun\|leprechauns]] | Elven         |
+| Tengu              | Tengus                                                                                                                                        | —             |
+| Terran             | Xorns and other earth-based creatures                                                                                                         | Dwarven       |
+| Undercommon        | Drow                                                                                                                                          | Elven         |
+| Vanaran            | Vanaras                                                                                                                                       | —             |
+| Vishkanya          | Vishkanyas                                                                                                                                    | —             |
 
 **Fae** is the fey’s own dialect of Sylvan. A character who knows Sylvan but not Fae can make out the nuances of Fae with a DC 18 Linguistics check. ^fae
 
@@ -112,12 +112,12 @@ You can produce mysterious writing about the immediate future, under the influen
 
 **Items that help**: an [[rangoric-srd/equipment/gear/Automatic Writing Planchette|automatic writing planchette]], a [[rangoric-srd/equipment/gear/Talking Board|talking board]], [[rangoric-srd/equipment/alchemical-items/Magnetized Paper|magnetized paper]], a [[rangoric-srd/magic-items/wondrous-items/Magic Talking Board|magic talking board]], a [[rangoric-srd/magic-items/wondrous-items/Sensory Deprivation Hood|sensory deprivation hood]].
 
-**Check**: Once per week, you can spend 1 hour posing questions while your hand unconsciously scribbles messages of varying legibility and accuracy. At the end of the hour, you attempt a Linguistics check to decipher their meanings. If you succeed, you gain information as though you had cast *[[rangoric-srd/spells/Augury|augury]]*. If you have 10 or more ranks in Linguistics, you can attempt a higher DC check to gain information as though you had cast *[[rangoric-srd/spells/Divination|divination]]* instead. The chance of producing coherent or meaningful writing equals 60% plus 5% for every 1 by which your check result exceeds the DC (to a maximum of 90%). You choose which DC you’re trying to meet before you attempt the check. The GM rolls the check and the d% roll secretly, so you can’t tell whether the messages are accurate.
+**Check**: Once per week, you can spend 1 hour posing questions while your hand unconsciously scribbles messages of varying legibility and accuracy. At the end of the hour, you attempt a Linguistics check to decipher their meanings. If you succeed, you gain information as though you had cast _[[rangoric-srd/spells/Augury|augury]]_. If you have 10 or more ranks in Linguistics, you can attempt a higher DC check to gain information as though you had cast _[[rangoric-srd/spells/Divination|divination]]_ instead. The chance of producing coherent or meaningful writing equals 60% plus 5% for every 1 by which your check result exceeds the DC (to a maximum of 90%). You choose which DC you’re trying to meet before you attempt the check. The GM rolls the check and the d% roll secretly, so you can’t tell whether the messages are accurate.
 
-| Writing Results | Ranks Required | DC |
-| --- | --- | --- |
-| As *augury* | 1 | 20 |
-| As *divination* | 10 | 30 |
+| Writing Results | Ranks Required | DC  |
+| --------------- | -------------- | --- |
+| As _augury_     | 1              | 20  |
+| As _divination_ | 10             | 30  |
 
 **Action**: Automatic writing takes 1 hour.
 

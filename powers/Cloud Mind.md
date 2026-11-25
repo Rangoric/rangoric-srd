@@ -33,7 +33,7 @@ Target: One creature
 Duration: 1 min./level  
 Saving Throw: Will negates  
 Power Resistance: Yes  
-Power Points: 3  
+Power Points: 3
 
 You make yourself completely undetectable to the subject by erasing all awareness of your presence from its mind. This power has the following effects.
 

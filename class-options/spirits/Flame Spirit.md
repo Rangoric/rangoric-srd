@@ -14,11 +14,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Flame Spirit
 
-*A [[rangoric-srd/classes/Shaman#^shaman-spirit|shaman spirit]].*
+_A [[rangoric-srd/classes/Shaman#^shaman-spirit|shaman spirit]]._
 
 A shaman who selects the flame spirit has a radiant light behind her eyes and the faint smell of smoke about her. When she calls upon one of this spirit's abilities, a hungry spectral flame dances around her body.
 
-**Spirit Magic Spells**: *[[rangoric-srd/spells/Burning Hands|burning hands]]* (1st), *[[rangoric-srd/spells/Resist Energy|resist energy]]* (2nd), *[[rangoric-srd/spells/Fireball|fireball]]* (3rd), *[[rangoric-srd/spells/Wall of Fire|wall of fire]]* (4th), *[[rangoric-srd/spells/Summon Monster V|summon monster V]]* (fire elementals only, 5th), *[[rangoric-srd/spells/Fire Seeds|fire seeds]]* (6th), *[[rangoric-srd/spells/Fire Storm|fire storm]]* (7th), *[[rangoric-srd/spells/Incendiary Cloud|incendiary cloud]]* (8th), *[[rangoric-srd/spells/Fiery Body|fiery body]]* (9th).
+**Spirit Magic Spells**: _[[rangoric-srd/spells/Burning Hands|burning hands]]_ (1st), _[[rangoric-srd/spells/Resist Energy|resist energy]]_ (2nd), _[[rangoric-srd/spells/Fireball|fireball]]_ (3rd), _[[rangoric-srd/spells/Wall of Fire|wall of fire]]_ (4th), _[[rangoric-srd/spells/Summon Monster V|summon monster V]]_ (fire elementals only, 5th), _[[rangoric-srd/spells/Fire Seeds|fire seeds]]_ (6th), _[[rangoric-srd/spells/Fire Storm|fire storm]]_ (7th), _[[rangoric-srd/spells/Incendiary Cloud|incendiary cloud]]_ (8th), _[[rangoric-srd/spells/Fiery Body|fiery body]]_ (9th).
 
 **Hexes**: [[rangoric-srd/class-options/hexes/Cinder Dance (Hex)|cinder dance]], [[rangoric-srd/class-options/hexes/Fire Nimbus (Hex)|fire nimbus]], [[rangoric-srd/class-options/hexes/Flame Curse (Hex)|flame curse]], [[rangoric-srd/class-options/hexes/Gaze of Flames (Hex)|gaze of flames]], [[rangoric-srd/class-options/hexes/Ward of Flames (Hex)|ward of flames]].
 
@@ -28,7 +28,7 @@ A shaman who selects the flame spirit has a radiant light behind her eyes and th
 
 A shaman who chooses the flame spirit as her [[rangoric-srd/classes/Shaman#^shaman-spirit|spirit]] or [[rangoric-srd/classes/Shaman#^shaman-wandering-spirit|wandering spirit]] gains the following ability.
 
-**Touch of Flame (Su)**: As a standard action, the shaman can make a melee touch attack that deals 1d6 points of fire damage + 1 point for every 2 shaman levels she possesses. A shaman can use this ability a number of times per day equal to 3 + her Charisma modifier. At 11th level, any weapon she wields is treated as a *[[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]* weapon.
+**Touch of Flame (Su)**: As a standard action, the shaman can make a melee touch attack that deals 1d6 points of fire damage + 1 point for every 2 shaman levels she possesses. A shaman can use this ability a number of times per day equal to 3 + her Charisma modifier. At 11th level, any weapon she wields is treated as a _[[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]_ weapon.
 
 ## Greater Spirit Ability
 
@@ -40,7 +40,7 @@ A shaman who chooses the flame spirit as her spirit or wandering spirit gains th
 
 A shaman who chooses the flame spirit as her spirit or wandering spirit gains the following ability upon having access to the true version of that spirit.
 
-**Elemental Form (Su)**: As a standard action, the shaman assumes the form of a Huge (or smaller) fire elemental, as if using *[[rangoric-srd/spells/Elemental Body IV|elemental body IV]]* with a duration of 1 hour per level. The shaman can use this ability once per day.
+**Elemental Form (Su)**: As a standard action, the shaman assumes the form of a Huge (or smaller) fire elemental, as if using _[[rangoric-srd/spells/Elemental Body IV|elemental body IV]]_ with a duration of 1 hour per level. The shaman can use this ability once per day.
 
 ## Manifestation
 

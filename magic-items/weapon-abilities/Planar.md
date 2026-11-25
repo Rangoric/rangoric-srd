@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Planar
 
-A *planar* weapon is effective against all types of extradimensional beings, able to pierce their resistance to physical harm. When used to attack outsiders, a *planar* weapon ignores 5 points of their damage reduction.
+A _planar_ weapon is effective against all types of extradimensional beings, able to pierce their resistance to physical harm. When used to attack outsiders, a _planar_ weapon ignores 5 points of their damage reduction.
 
-Moderate conjuration; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Plane Shift|plane shift]]*; Price +1 bonus.
+Moderate conjuration; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Plane Shift|plane shift]]_; Price +1 bonus.

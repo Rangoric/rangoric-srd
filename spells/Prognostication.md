@@ -29,14 +29,14 @@ tags: [rangoric, rangoric/spell]
 
 # Prognostication
 
-*Divination*
+_Divination_
 
-  - **Level**: Clr 6, Inq 6, Med 4, Psy 6, Spi 6, Wit 6
-  - **Components**: V, S, M (rare incense and tonics worth 250 gp)
-  - **Casting Time**: 8 hours
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: Instantaneous
-  - **Spell Resistance**: No
+- **Level**: Clr 6, Inq 6, Med 4, Psy 6, Spi 6, Wit 6
+- **Components**: V, S, M (rare incense and tonics worth 250 gp)
+- **Casting Time**: 8 hours
+- **Range**: Personal
+- **Target**: You
+- **Duration**: Instantaneous
+- **Spell Resistance**: No
 
-You glimpse the future. *Prognostication* functions as [[rangoric-srd/spells/Divination|divination]] except that the spell can see up to a year and a day into the future. Because of the increased unpredictability of the distant future, *prognostication* is significantly more cryptic than the already-cryptic *[[rangoric-srd/spells/Divination|divination]]* spell.
+You glimpse the future. _Prognostication_ functions as [[rangoric-srd/spells/Divination|divination]] except that the spell can see up to a year and a day into the future. Because of the increased unpredictability of the distant future, _prognostication_ is significantly more cryptic than the already-cryptic _[[rangoric-srd/spells/Divination|divination]]_ spell.

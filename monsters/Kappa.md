@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Kappa
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Aquatic)
-  - **Hit Dice**: 3d10+3 (19 hp)
-  - **Initiative**: +3
-  - **Speed**: 20 ft. (4 squares), swim 40 ft.
-  - **Armor Class**: 15 (+3 Dex, +1 natural, +1 size), touch 14, flat-footed 12
-  - **Base Attack**: +3; **CMB**: +3 (+7 grapple); **CMD**: 16
-  - **Attack**: Claw +5 melee (1d3+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: 2 claws +5 melee (1d3+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Grab]] (Medium), [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +5, 1d3+1)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5 and cold 5, [[rangoric-srd/monsters/abilities/Head Bowl|head bowl]]
-  - **Saves**: Fort +4, Ref +6, Will +5
-  - **Abilities**: Str 12, Dex 17, Con 13, Int 8, Wis 15, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Medicine|Medicine]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5
-  - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]]
-  - **Environment**: Any lake or river
-  - **Organization**: Solitary, pair, or bale (3–6)
-  - **Challenge Rating**: 2
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Aquatic)
+- **Hit Dice**: 3d10+3 (19 hp)
+- **Initiative**: +3
+- **Speed**: 20 ft. (4 squares), swim 40 ft.
+- **Armor Class**: 15 (+3 Dex, +1 natural, +1 size), touch 14, flat-footed 12
+- **Base Attack**: +3; **CMB**: +3 (+7 grapple); **CMD**: 16
+- **Attack**: Claw +5 melee (1d3+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: 2 claws +5 melee (1d3+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Grab]] (Medium), [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +5, 1d3+1)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5 and cold 5, [[rangoric-srd/monsters/abilities/Head Bowl|head bowl]]
+- **Saves**: Fort +4, Ref +6, Will +5
+- **Abilities**: Str 12, Dex 17, Con 13, Int 8, Wis 15, Cha 10
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Medicine|Medicine]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5
+- **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]]
+- **Environment**: Any lake or river
+- **Organization**: Solitary, pair, or bale (3–6)
+- **Challenge Rating**: 2
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A kappa is a strange amphibian resembling a humanoid turtle. It dwells in fresh water, preferring a stream or river to a lake or pond. It has a small shell on its back, a blunt face, and webbed hands and feet that end in short claws. A typical kappa is green in color, but kappa skin tones can vary toward blue or yellow hues. The creature has a shallow basin in the top of its head, in which the creature carries water from its home at all times.
 

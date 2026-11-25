@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Water Strider Nymph
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
-  - **Hit Dice**: 1d8 (4 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares), fly 20 ft. (poor)
-  - **Armor Class**: 13 (+2 Dex, +1 size), touch 13, flat-footed 11
-  - **Base Attack**: +0; **CMB**: –3; **CMD**: 9 (17 vs. trip)
-  - **Attack**: Claw –1 melee (1d3–2) or bite –1 melee (1d2–2)
-  - **Full Attack**: 2 claw –1 melee (1d3–2) and bite –1 melee (1d2–2)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft. (see [[rangoric-srd/monsters/Giant Water Strider|giant water strider]]), [[rangoric-srd/monsters/abilities/Water Skating|water skating]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-  - **Saves**: Fort +2, Ref +2, Will +0
-  - **Abilities**: Str 7, Dex 15, Con 10, Int —, Wis 10, Cha 2
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +0, [[rangoric-srd/skills/Athletics|Athletics]] +2, [[rangoric-srd/skills/Perception|Perception]] +4
-  - **Feats**: —
-  - **Environment**: Any water
-  - **Organization**: Solitary or colony (2–9)
-  - **Challenge Rating**: 1/4
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
+- **Hit Dice**: 1d8 (4 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares), fly 20 ft. (poor)
+- **Armor Class**: 13 (+2 Dex, +1 size), touch 13, flat-footed 11
+- **Base Attack**: +0; **CMB**: –3; **CMD**: 9 (17 vs. trip)
+- **Attack**: Claw –1 melee (1d3–2) or bite –1 melee (1d2–2)
+- **Full Attack**: 2 claw –1 melee (1d3–2) and bite –1 melee (1d2–2)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft. (see [[rangoric-srd/monsters/Giant Water Strider|giant water strider]]), [[rangoric-srd/monsters/abilities/Water Skating|water skating]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
+- **Saves**: Fort +2, Ref +2, Will +0
+- **Abilities**: Str 7, Dex 15, Con 10, Int —, Wis 10, Cha 2
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +0, [[rangoric-srd/skills/Athletics|Athletics]] +2, [[rangoric-srd/skills/Perception|Perception]] +4
+- **Feats**: —
+- **Environment**: Any water
+- **Organization**: Solitary or colony (2–9)
+- **Challenge Rating**: 1/4
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A nymph water strider is an immature specimen of the giant water strider—more mature than a caterpillar but not yet an adult. Over the next several months it eats and molts, increasing in size with each molt until it becomes Large and is fully adult. These creatures are shy and more skittish than adults.
 

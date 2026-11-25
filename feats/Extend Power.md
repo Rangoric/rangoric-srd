@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, metapsionic]
 
 # Extend Power
 
-You can manifest powers that last longer than normal.  
+You can manifest powers that last longer than normal.
 
 Benefit: To use this feat, you must expend your psionic focus.
 

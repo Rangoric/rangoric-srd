@@ -24,7 +24,7 @@ If you build a replacement for the abandoned building, on the next Upkeep phase 
 
 Instead of Cathedrals, Shrines, and Temples providing the same bonuses to Economy, Loyalty, and Stability regardless of that building's religious affiliation, they can instead provide a bonus to an attribute related to the alignment of the god worshiped.
 
-A Temple increases attributes as follows: *Chaotic*Loyalty +2; *Evil*: Economy +2; *Good*: Loyalty +2; *Lawful*: Economy +2; *Neutral*: Stability +2 (apply this twice if the god's alignment is simply Neutral, not Chaotic Neutral or Lawful Neutral). A Cathedral increases these attributes by 4 instead of 2. A Shrine increases one attribute, and only by 1; for example, a lawful good Shrine increases Economy by 1 or Loyalty by 1).
+A Temple increases attributes as follows: *Chaotic*Loyalty +2; _Evil_: Economy +2; _Good_: Loyalty +2; _Lawful_: Economy +2; _Neutral_: Stability +2 (apply this twice if the god's alignment is simply Neutral, not Chaotic Neutral or Lawful Neutral). A Cathedral increases these attributes by 4 instead of 2. A Shrine increases one attribute, and only by 1; for example, a lawful good Shrine increases Economy by 1 or Loyalty by 1).
 
 Instead of granting alignment-based bonuses, a religious building may grant bonuses based on the portfolio of its chosen god. For example, a Temple of the goddess of wine may increase Economy and Loyalty (the same attributes as a Tavern) each by 2, and a Temple of the god of greed may increase Economy and Stability (the same attributes as a Black Market) each by 2. These values replace the building's normal modifiers to Economy, Loyalty, and Stability, and should never provide bonuses greater than the building's normal bonuses (+1 for a Shrine, +4 for a Temple, +8 for a Cathedral).
 
@@ -47,11 +47,11 @@ This is based on how close your kingdom's alignment is to the target kingdom's a
 **Table: Diplomatic Alignment Difference Modifier**
 
 | Alignment Difference\* | DC Modifier |
-| --- | --- |
-| Same | +0 |
-| 1 step | +5 |
-| 2 steps | +15 |
-| \* Per alignment axis. |  |
+| ---------------------- | ----------- |
+| Same                   | +0          |
+| 1 step                 | +5          |
+| 2 steps                | +15         |
+| \* Per alignment axis. |             |
 
 ### Relationship Modifier
 
@@ -59,20 +59,20 @@ This takes into account your treaties, alliances, and conflicts with the target 
 
 **Table: Diplomatic Relationship Modifier**
 
-| Relationship | DC Modifier |
-| --- | --- |
-| You and the target kingdom both have an | –8alliance with a third party |
-| You have a treaty with the target kingdom's ally | –4 |
-| You and the target kingdom both have a treaty | –2with a third party |
-| You have an embassy with the target kingdom's enemy | +2 |
-| You have a treaty with the target kingdom's enemy | +5 |
-| You have an alliance with the target kingdom's enemy | +10 |
+| Relationship                                         | DC Modifier                   |
+| ---------------------------------------------------- | ----------------------------- |
+| You and the target kingdom both have an              | –8alliance with a third party |
+| You have a treaty with the target kingdom's ally     | –4                            |
+| You and the target kingdom both have a treaty        | –2with a third party          |
+| You have an embassy with the target kingdom's enemy  | +2                            |
+| You have a treaty with the target kingdom's enemy    | +5                            |
+| You have an alliance with the target kingdom's enemy | +10                           |
 
 ### Attitude
 
 Much like the starting attitude of an NPC, the target kingdom's initial attitude toward you is indifferent, though the GM may modify this based on alignment differences, your shared history, culture, warfare, espionage, racial tensions, and other factors in the campaign world. These factors may also influence the [[rangoric-srd/skills/Persuasion|Persuasion]] DC for using this edict (generally increasing the DC by 5 for every attitude step worse than helpful).
 
-The act of making this [[rangoric-srd/skills/Persuasion|Persuasion]] check takes place over several days, with the emissary socializing with representatives of the target kingdom, discussing common interests and the benefits and goals of entering a diplomatic agreement with your kingdom. Because this check is not a singular event, abilities and spells that modify a single roll have no effect on this check unless they last at least 24 hours (for example, *[[rangoric-srd/spells/Glibness|glibness]]* does not affect this check).
+The act of making this [[rangoric-srd/skills/Persuasion|Persuasion]] check takes place over several days, with the emissary socializing with representatives of the target kingdom, discussing common interests and the benefits and goals of entering a diplomatic agreement with your kingdom. Because this check is not a singular event, abilities and spells that modify a single roll have no effect on this check unless they last at least 24 hours (for example, _[[rangoric-srd/spells/Glibness|glibness]]_ does not affect this check).
 
 ### Type of Diplomatic Relationships
 
@@ -124,7 +124,7 @@ If you attack a kingdom with which you have an alliance, attempt a Loyalty check
 
 **Relationships with Multiple Kingdoms**: A kingdom may have embassies with any number of kingdoms. For each treaty or alliance after the first, the bonus to Economy or Stability is reduced by 1 (minimum +0).
 
-**Expanding Settlement Modifiers**: As explained in the Buildings section, the Settlement entry for a building lists modifiers that affect skill checks in the settlement (*GameMastery Guide* 204). If the GM wants these modifiers to influence the kingdom as a whole, add up the Settlement modifiers for all settlements in your kingdom, divide them by 10, and apply the following adjustments according to your kingdom's alignment: *Chaotic*+1 Crime; *Evil*: +1 Corruption; *Good*: +1 Society; *Lawful* +1 Law; *Neutral*: +1 Lore (apply this twice if the kingdom's alignment is simply Neutral, not Chaotic Neutral or Lawful Neutral). Use these total modifiers everywhere in your kingdom. If a settlement has its own settlement modifier, use the higher of the two modifiers for rolls relating to that settlement.
+**Expanding Settlement Modifiers**: As explained in the Buildings section, the Settlement entry for a building lists modifiers that affect skill checks in the settlement (_GameMastery Guide_ 204). If the GM wants these modifiers to influence the kingdom as a whole, add up the Settlement modifiers for all settlements in your kingdom, divide them by 10, and apply the following adjustments according to your kingdom's alignment: _Chaotic_+1 Crime; _Evil_: +1 Corruption; _Good_: +1 Society; _Lawful_ +1 Law; _Neutral_: +1 Lore (apply this twice if the kingdom's alignment is simply Neutral, not Chaotic Neutral or Lawful Neutral). Use these total modifiers everywhere in your kingdom. If a settlement has its own settlement modifier, use the higher of the two modifiers for rolls relating to that settlement.
 
 ## Exploration Edicts
 
@@ -154,19 +154,19 @@ As a kingdom grows, it can gain and lose both Fame and Infamy, but these are not
 
 The kingdom-building rules presume your government is a feudal monarchy; the leaders are appointed for life (either by themselves or an outside agency such as a nearby monarch), and pass their titles to their heirs. The form of government you choose can help establish the flavor and feel of the kingdom and also adjust its settlements' modifiers. You may choose one of the following as the kingdom's government.
 
-**Autocracy**: A single person rules the kingdom by popular acclaim. This person may be elected by the people, a popular hero asked to lead, or even a hereditary monarch who rules with a light hand. *Modifiers*: None.
+**Autocracy**: A single person rules the kingdom by popular acclaim. This person may be elected by the people, a popular hero asked to lead, or even a hereditary monarch who rules with a light hand. _Modifiers_: None.
 
-**Magocracy**: An individual or group with potent magical power leads the kingdom and promotes the spread of magical and mundane knowledge and education. Those with magical abilities often enjoy favored status in the kingdom. *Modifiers*: Lore +2, Productivity –1, Society –1.
+**Magocracy**: An individual or group with potent magical power leads the kingdom and promotes the spread of magical and mundane knowledge and education. Those with magical abilities often enjoy favored status in the kingdom. _Modifiers_: Lore +2, Productivity –1, Society –1.
 
-**Oligarchy**: A group of councilors, guild masters, aristocrats, and other wealthy and powerful individuals meet in council to lead the kingdom and direct its policies. *Modifiers*: Corruption +1, Law –1, Lore –1, Society +1.
+**Oligarchy**: A group of councilors, guild masters, aristocrats, and other wealthy and powerful individuals meet in council to lead the kingdom and direct its policies. _Modifiers_: Corruption +1, Law –1, Lore –1, Society +1.
 
-**Overlord**: The kingdom's ruler is a single individual who either seized control or inherited command of the settlement and maintains a tight grasp on power. *Modifiers*: Corruption +1, Crime –1, Law +1, Society –1.
+**Overlord**: The kingdom's ruler is a single individual who either seized control or inherited command of the settlement and maintains a tight grasp on power. _Modifiers_: Corruption +1, Crime –1, Law +1, Society –1.
 
-**Republic**: The kingdom is ruled by a parliament of elected or appointed officials who represent the various geographic areas and cultural constituents of the kingdom, making decisions for the whole through voting, bureaucratic procedures, and coalition-building. *Modifiers*: Crime –1, Law –1, Productivity +1, Society +1.
+**Republic**: The kingdom is ruled by a parliament of elected or appointed officials who represent the various geographic areas and cultural constituents of the kingdom, making decisions for the whole through voting, bureaucratic procedures, and coalition-building. _Modifiers_: Crime –1, Law –1, Productivity +1, Society +1.
 
-**Secret Syndicate**: An unofficial or illegal group like a thieves' guild rules the kingdom—the group may use a puppet leader to maintain secrecy, but the group pulls the strings. *Modifiers*: Corruption +1, Crime +1, Law –3, Productivity +1.
+**Secret Syndicate**: An unofficial or illegal group like a thieves' guild rules the kingdom—the group may use a puppet leader to maintain secrecy, but the group pulls the strings. _Modifiers_: Corruption +1, Crime +1, Law –3, Productivity +1.
 
-**Theocracy**: The kingdom is ruled by the leader of its most popular religion, and the ideas and members of that religion often enjoy favored status in government and the kingdom. *Modifiers*: Corruption –1, Law +1, Lore +1, Society –1.
+**Theocracy**: The kingdom is ruled by the leader of its most popular religion, and the ideas and members of that religion often enjoy favored status in government and the kingdom. _Modifiers_: Corruption –1, Law +1, Lore +1, Society –1.
 
 ## Independence and Unification
 
@@ -250,15 +250,15 @@ The GM may want to adjust settlement modifiers based on the kingdom's Size and h
 
 **Table: Settlement Sizes and Modifiers**
 
-| Lots | Category | Modifiers | Danger |
-| --- | --- | --- | --- |
-| 1 | Village | –4 | –10 |
-| 2–8 | Small Town | –2 | –5 |
-| 9–20 | Large Town | 0 | 0 |
-| 21–40 | Small City | +1 | +5 |
-| 41–100 | Large City | +1\* | +5\* |
-| 101+ | Metropolis | +1\* | +5\* |
-| \* Per district. |  |  |  |
+| Lots             | Category   | Modifiers | Danger |
+| ---------------- | ---------- | --------- | ------ |
+| 1                | Village    | –4        | –10    |
+| 2–8              | Small Town | –2        | –5     |
+| 9–20             | Large Town | 0         | 0      |
+| 21–40            | Small City | +1        | +5     |
+| 41–100           | Large City | +1\*      | +5\*   |
+| 101+             | Metropolis | +1\*      | +5\*   |
+| \* Per district. |            |           |        |
 
 **Modifiers**: Add the listed number to the settlement's Corruption, Crime, Law, Lore, Productivity, and Society.
 

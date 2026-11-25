@@ -37,15 +37,15 @@ tags: [rangoric, rangoric/spell]
 
 # Heroism
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Alc 3, Blr 3, Brd 2, Inq 3, Med 2, Psy 3, Skd 2, Sor/Wiz 3, Spi 3, Sum 3, SumU 3, Wit 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 10 min./level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Alc 3, Blr 3, Brd 2, Inq 3, Med 2, Psy 3, Skd 2, Sor/Wiz 3, Spi 3, Sum 3, SumU 3, Wit 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 10 min./level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 This spell imbues a single creature with great bravery and morale in battle. The target gains a +2 morale bonus on attack rolls, saves, and skill checks.

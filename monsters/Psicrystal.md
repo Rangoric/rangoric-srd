@@ -57,7 +57,7 @@ Full **Attack:** -   
 Treasure: None     
 **Alignment:** As master     
 **Advancement:** -     
-**Level Adjustment:** -     
+**Level Adjustment:** -   
 
 \*With self-propulsion ability activated.   
 

@@ -34,16 +34,16 @@ tags: [rangoric, rangoric/spell]
 
 # Dancing Lights
 
-*Evocation \[Light\]*
+_Evocation \[Light\]_
 
-  - **Level**: Brd 0, Mag 0, Med 0, Mes 0, Occ 0, Psy 0, Sha 0, Skd 0, Sor/Wiz 0, Wit 0
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: Up to four lights, all within a 10- ft.-radius area
-  - **Duration**: 1 minute (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Brd 0, Mag 0, Med 0, Mes 0, Occ 0, Psy 0, Sha 0, Skd 0, Sor/Wiz 0, Wit 0
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: Up to four lights, all within a 10- ft.-radius area
+- **Duration**: 1 minute (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 Depending on the version selected, you create up to four lights that resemble lanterns or torches (and cast that amount of light), or up to four glowing spheres of light (which look like will-o’-wisps), or one faintly glowing, vaguely humanoid shape. The dancing lights must stay within a 10-foot-radius area in relation to each other but otherwise move as you desire (no concentration required): forward or back, up or down, straight or turning corners, or the like. The lights can move up to 100 feet per round. A light winks out if the distance between you and it exceeds the spell’s range.
 

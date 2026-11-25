@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Megaraptor
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 8d8+43 (79 hp)
-  - **Initiative**: +2
-  - **Speed**: 60 ft. (12 squares)
-  - **Armor Class**: 17 (–1 size, +2 Dex, +6 natural), touch 11, flat-footed 15
-  - **Base Attack**: +6; **CMB**: +12; **CMD**: 24
-  - **Attack**: Talons +10 melee (2d6+5)
-  - **Full Attack**: Talons +10 melee (2d6+5) and 2 foreclaws +5 melee (1d4+2) and bite +5 melee (1d8+2)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]]
-  - **Special Qualities**: Low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +10, Ref +8, Will +4
-  - **Abilities**: Str 21, Dex 15, Con 21, Int 2, Wis 15, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18 (+30 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +15, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +11
-  - **Feats**: [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Track|Track]]
-  - **Environment**: Warm forests
-  - **Organization**: Solitary, pair, or pack (3–6)
-  - **Challenge Rating**: 6
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 9–16 HD (Large); 17–24 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 8d8+43 (79 hp)
+- **Initiative**: +2
+- **Speed**: 60 ft. (12 squares)
+- **Armor Class**: 17 (–1 size, +2 Dex, +6 natural), touch 11, flat-footed 15
+- **Base Attack**: +6; **CMB**: +12; **CMD**: 24
+- **Attack**: Talons +10 melee (2d6+5)
+- **Full Attack**: Talons +10 melee (2d6+5) and 2 foreclaws +5 melee (1d4+2) and bite +5 melee (1d8+2)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]]
+- **Special Qualities**: Low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +10, Ref +8, Will +4
+- **Abilities**: Str 21, Dex 15, Con 21, Int 2, Wis 15, Cha 10
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18 (+30 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +15, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +11
+- **Feats**: [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Track|Track]]
+- **Environment**: Warm forests
+- **Organization**: Solitary, pair, or pack (3–6)
+- **Challenge Rating**: 6
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 9–16 HD (Large); 17–24 HD (Huge)
+- **Level Adjustment**: —
 
 This creature is a larger version of the deinonychus, standing about 12 feet tall with a total length of 24 feet. It has the same appearance, habits, and abilities of the smaller version.
 

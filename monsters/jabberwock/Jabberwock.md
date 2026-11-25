@@ -14,5 +14,5 @@ tags: [rangoric, rangoric/monster]
 
 The jabberwock is a dragonlike creature native to the darker and more primitive wilds of the fey realm. Young of either species are seldom seen, venturing forth from their hidden lairs in the shadowed reaches of the fey realm after reaching maturity and succumbing to the Wild Calling that eventually visits all fey creatures.
 
-  - [[rangoric-srd/monsters/jabberwock/Greater Jabberwock|Greater Jabberwock]]
-  - [[rangoric-srd/monsters/jabberwock/Lesser Jabberwock|Lesser Jabberwock]]
+- [[rangoric-srd/monsters/jabberwock/Greater Jabberwock|Greater Jabberwock]]
+- [[rangoric-srd/monsters/jabberwock/Lesser Jabberwock|Lesser Jabberwock]]

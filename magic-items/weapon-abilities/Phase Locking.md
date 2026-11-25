@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Phase Locking
 
-A *phase locking* weapon interferes with dimensional travel. A creature damaged by a *phase locking* weapon is affected as though by the *[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]* spell for 1 round.
+A _phase locking_ weapon interferes with dimensional travel. A creature damaged by a _phase locking_ weapon is affected as though by the _[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]_ spell for 1 round.
 
-Moderate abjuration; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]*; Price +2 bonus.
+Moderate abjuration; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]_; Price +2 bonus.

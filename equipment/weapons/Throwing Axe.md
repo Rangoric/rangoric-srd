@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes, weapon-group/thrown]
 
 # Throwing Axe
 
-*Martial light melee weapon.* Cost 8 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Range Increment 10 ft.; Weight 2 lb.; Type Slashing. ^stats
+_Martial light melee weapon._ Cost 8 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Range Increment 10 ft.; Weight 2 lb.; Type Slashing. ^stats

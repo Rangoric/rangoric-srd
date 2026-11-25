@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/kobold-tail-attachments]
 
 # Kobold Tail Attachment, Long Lash
 
-*Exotic light melee weapon (reach).* Cost 15 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 1 lb.; Type Slashing. ^stats
+_Exotic light melee weapon (reach)._ Cost 15 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 1 lb.; Type Slashing. ^stats
 
 A [[rangoric-srd/races/Kobold|kobold]] with the [[rangoric-srd/feats/Tail Terror|Tail Terror]] feat can slip this device over the tip of his tail to augment his natural attack. Each tail attachment provides just enough weight, balance, and striking power to increase the damage of his tail slap. It takes a full-round action to slip on a kobold tail attachment, and the kobold gains a +4 bonus against [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] attempts made to remove his tail attachment.
 

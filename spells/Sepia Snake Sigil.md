@@ -31,16 +31,16 @@ tags: [rangoric, rangoric/spell]
 
 # Sepia Snake Sigil
 
-*Conjuration (Creation) \[Force\]*
+_Conjuration (Creation) \[Force\]_
 
-  - **Level**: Brd 3, Occ 3, Skd 3, Sor/Wiz 3, Wit 3
-  - **Components**: V, S, M
-  - **Casting Time**: 10 minutes
-  - **Range**: Touch
-  - **Target**: One touched book or written work
-  - **Duration**: Permanent or until discharged; until released or 1d4 days + one day/level; see text
-  - **Saving Throw**: Reflex negates
-  - **Spell Resistance**: No
+- **Level**: Brd 3, Occ 3, Skd 3, Sor/Wiz 3, Wit 3
+- **Components**: V, S, M
+- **Casting Time**: 10 minutes
+- **Range**: Touch
+- **Target**: One touched book or written work
+- **Duration**: Permanent or until discharged; until released or 1d4 days + one day/level; see text
+- **Saving Throw**: Reflex negates
+- **Spell Resistance**: No
 
 When you cast sepia snake sigil, a small symbol appears in the text of one written work such as a book, scroll, or map. The text containing the symbol must be at least twenty-five words long. When anyone reads the text containing the symbol, the sepia snake springs into being and strikes the reader, provided there is line of effect between the symbol and the reader.
 
@@ -54,4 +54,4 @@ A dispel magic can remove the sigil. An erase spell destroys the entire page of 
 
 Sepia snake sigil can be cast in combination with other spells that hide or garble text, such as secret page.
 
-*Material Component*: 500 gp worth of powdered amber, a scale from any snake, and a pinch of mushroom spores.
+_Material Component_: 500 gp worth of powdered amber, a scale from any snake, and a pinch of mushroom spores.

@@ -60,7 +60,7 @@ Organization: Solitary or pair    
 Challenge Rating: 24      
 Treasure: None      
 Alignment: Always neutral      
-Advancement: 35-68 HD (Gargantuan); 69-102 HD (Colossal)      
+Advancement: 35-68 HD (Gargantuan); 69-102 HD (Colossal)    
 
 A tayellah’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 

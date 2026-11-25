@@ -16,11 +16,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Nature Mystery
 
-*An [[rangoric-srd/classes/Oracle#^oracle-mystery|oracle mystery]].* The shaman’s [[rangoric-srd/class-options/spirits/Nature Spirit|nature spirit]] shares its name; a character with both must choose matching ones (see the shaman’s [[rangoric-srd/classes/Shaman#^shaman-spirit|spirit]]).
+_An [[rangoric-srd/classes/Oracle#^oracle-mystery|oracle mystery]]._ The shaman’s [[rangoric-srd/class-options/spirits/Nature Spirit|nature spirit]] shares its name; a character with both must choose matching ones (see the shaman’s [[rangoric-srd/classes/Shaman#^shaman-spirit|spirit]]).
 
 **Class Skills**: An oracle with the nature mystery adds [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Animal Handling|Animal Handling]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], and [[rangoric-srd/skills/Nature|Nature]] to her list of class skills.
 
-**Bonus Spells**: *[[rangoric-srd/spells/Charm Animal|charm animal]]* (2nd), *[[rangoric-srd/spells/Barkskin|barkskin]]* (4th), *[[rangoric-srd/spells/Speak with Plants|speak with plants]]* (6th), *[[rangoric-srd/spells/Grove of Respite|grove of respite]]* (8th), *[[rangoric-srd/spells/Awaken|awaken]]* (10th), *[[rangoric-srd/spells/Stone Tell|stone tell]]* (12th), *[[rangoric-srd/spells/Creeping Doom|creeping doom]]* (14th), *[[rangoric-srd/spells/Animal Shapes|animal shapes]]* (16th), *[[rangoric-srd/spells/World Wave|world wave]]* (18th).
+**Bonus Spells**: _[[rangoric-srd/spells/Charm Animal|charm animal]]_ (2nd), _[[rangoric-srd/spells/Barkskin|barkskin]]_ (4th), _[[rangoric-srd/spells/Speak with Plants|speak with plants]]_ (6th), _[[rangoric-srd/spells/Grove of Respite|grove of respite]]_ (8th), _[[rangoric-srd/spells/Awaken|awaken]]_ (10th), _[[rangoric-srd/spells/Stone Tell|stone tell]]_ (12th), _[[rangoric-srd/spells/Creeping Doom|creeping doom]]_ (14th), _[[rangoric-srd/spells/Animal Shapes|animal shapes]]_ (16th), _[[rangoric-srd/spells/World Wave|world wave]]_ (18th).
 
 ## Revelations
 

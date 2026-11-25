@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Saltwater Merrow
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Aquatic, Giant)
-  - **Hit Dice**: 7d8+49 (80 hp)
-  - **Initiative**: +3
-  - **Speed**: 40 ft. (8 squares), swim 40 ft.
-  - **Armor Class**: 19 (+3 Dex, +8 natural, –2 size), touch 11, flat-footed 16
-  - **Base Attack**: +5; **CMB**: +14 (+18 grapple); **CMD**: 27
-  - **Attack**: Claw +11 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +6 ranged (2d6+7)
-  - **Full Attack**: 2 claws +11 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]]); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +6 ranged (2d6+7)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
-  - **Saves**: Fort +11, Ref +5, Will +4
-  - **Abilities**: Str 25, Dex 16, Con 23, Int 6, Wis 10, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] –2 (+2 in water)
-  - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
-  - **Environment**: Temperate oceans
-  - **Organization**: Solitary, pair, gang (3–4), or family (5–16)
-  - **Challenge Rating**: 6
-  - **Treasure**: Standard (2 javelins, other treasure)
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Aquatic, Giant)
+- **Hit Dice**: 7d8+49 (80 hp)
+- **Initiative**: +3
+- **Speed**: 40 ft. (8 squares), swim 40 ft.
+- **Armor Class**: 19 (+3 Dex, +8 natural, –2 size), touch 11, flat-footed 16
+- **Base Attack**: +5; **CMB**: +14 (+18 grapple); **CMD**: 27
+- **Attack**: Claw +11 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +6 ranged (2d6+7)
+- **Full Attack**: 2 claws +11 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]]); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +6 ranged (2d6+7)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
+- **Saves**: Fort +11, Ref +5, Will +4
+- **Abilities**: Str 25, Dex 16, Con 23, Int 6, Wis 10, Cha 7
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] –2 (+2 in water)
+- **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
+- **Environment**: Temperate oceans
+- **Organization**: Solitary, pair, gang (3–4), or family (5–16)
+- **Challenge Rating**: 6
+- **Treasure**: Standard (2 javelins, other treasure)
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Merrows are best described as the aquatic cousins of ogres. Although their green, scaled skin and webbed hands and feet make them appear different, merrows are just as cruel, savage, and wicked as their ogre relatives. The saltwater variety grows much larger than the freshwater variety, but the behavior and society of the two types are otherwise similar.
 

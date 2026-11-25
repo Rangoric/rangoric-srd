@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Mouse Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the mouse offers the ability to gain access to hard-to-reach places while avoiding many attacks and effects.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the mouse offers the ability to gain access to hard-to-reach places while avoiding many attacks and effects._
 
 **Minor Form**: You gain [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], as per the rogue class feature.
 

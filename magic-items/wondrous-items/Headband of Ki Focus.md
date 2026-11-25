@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Headband of Ki Focus
 
-This tied headband helps the wearer focus his *ki* more effectively. Whenever the wearer spends *ki* points to make an additional attack, that attack roll gains a +1 insight bonus (+2 if the wearer is using a *[[rangoric-srd/magic-items/weapon-abilities/Ki Focus|ki focus]]* weapon with that attack). Furthermore, the wearer of a *headband of ki focus* is immune to the [[rangoric-srd/classes/Ninja|ninja]]'s [[rangoric-srd/class-options/ninja-tricks/Ki Block (Ninja Trick)|*ki* block]] trick or similar effects that block the wearer from using *ki* points.
+This tied headband helps the wearer focus his _ki_ more effectively. Whenever the wearer spends _ki_ points to make an additional attack, that attack roll gains a +1 insight bonus (+2 if the wearer is using a _[[rangoric-srd/magic-items/weapon-abilities/Ki Focus|ki focus]]_ weapon with that attack). Furthermore, the wearer of a _headband of ki focus_ is immune to the [[rangoric-srd/classes/Ninja|ninja]]'s [[rangoric-srd/class-options/ninja-tricks/Ki Block (Ninja Trick)|*ki* block]] trick or similar effects that block the wearer from using _ki_ points.
 
 Faint abjuration; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], creator must have a ki pool; Price 5,400 gp; Cost 2,700 gp; Weight 1 lb.

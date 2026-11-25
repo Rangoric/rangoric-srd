@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Sniper Goggles, Greater
 
-These goggles feature stubby periscopelike lenses that expand and retract depending on the needs of the wearer. These goggles function as *[[rangoric-srd/magic-items/wondrous-items/Sniper Goggles|sniper goggles]]*, but the wearer gains the +2 circumstance bonus on each [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] when making a sneak attack at any range.
+These goggles feature stubby periscopelike lenses that expand and retract depending on the needs of the wearer. These goggles function as _[[rangoric-srd/magic-items/wondrous-items/Sniper Goggles|sniper goggles]]_, but the wearer gains the +2 circumstance bonus on each [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] when making a sneak attack at any range.
 
-Moderate divination; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/True Strike|true strike]]*; Price 50,000 gp; Cost 25,000 gp.
+Moderate divination; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/True Strike|true strike]]_; Price 50,000 gp; Cost 25,000 gp.

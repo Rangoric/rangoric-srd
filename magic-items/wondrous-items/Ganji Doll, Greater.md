@@ -22,10 +22,10 @@ tags: [rangoric, rangoric/magic-item]
 
 A greater ganji doll looks like and works as a [[rangoric-srd/magic-items/wondrous-items/Ganji Doll|ganji doll]], except that it can be used five times per day, imposes a –4 penalty on the target's saving throws against its effects, and has the following changed or added abilities besides all of a ganji doll's.
 
-*Damage*: Damaging the doll deals 6d6 points of damage to the target (Fortitude DC 16 half). This damage ignores all resistances and immunities.
+_Damage_: Damaging the doll deals 6d6 points of damage to the target (Fortitude DC 16 half). This damage ignores all resistances and immunities.
 
-*Locate Creature*: The bearer can use the doll to find its bound target, as *[[rangoric-srd/spells/Locate Creature|locate creature]]*.
+_Locate Creature_: The bearer can use the doll to find its bound target, as _[[rangoric-srd/spells/Locate Creature|locate creature]]_.
 
-*Suggestion*: The user whispers in the doll's ear, creating the effect of *[[rangoric-srd/spells/Suggestion|suggestion]]* (Will DC 16 resists). Unlike with the spell, the target needn't understand the user's language.
+_Suggestion_: The user whispers in the doll's ear, creating the effect of _[[rangoric-srd/spells/Suggestion|suggestion]]_ (Will DC 16 resists). Unlike with the spell, the target needn't understand the user's language.
 
-Moderate necromancy; CL 12th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Bestow Curse|bestow curse]]*, *[[rangoric-srd/spells/Locate Creature|locate creature]]*, *[[rangoric-srd/spells/Suggestion|suggestion]]*, a piece of the body of the humanoid to be affected; Price 36,000 gp; Cost 18,000 gp; Weight 1/2 lb.
+Moderate necromancy; CL 12th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_, _[[rangoric-srd/spells/Locate Creature|locate creature]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_, a piece of the body of the humanoid to be affected; Price 36,000 gp; Cost 18,000 gp; Weight 1/2 lb.

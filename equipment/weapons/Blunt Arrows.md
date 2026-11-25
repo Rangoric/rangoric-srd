@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/weapon]
 
 # Blunt Arrows
 
-*Ammunition (20) for bows.* Cost 2 gp; Weight 3 lb. ^stats
+_Ammunition (20) for bows._ Cost 2 gp; Weight 3 lb. ^stats
 
 These arrows have rounded wooden tips that deal bludgeoning damage rather than piercing. An archer can use a blunt arrow to deal nonlethal damage (at the normal –4 attack penalty for using a lethal weapon to deal nonlethal damage).

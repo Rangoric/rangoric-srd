@@ -30,11 +30,11 @@ The builder makes races with **no racial Hit Dice**: a member of the race gets i
 
 Before buying anything, decide how strong the race should be. The power level sets how many RP the race has to spend, how many traits it can take from each category, and which traits it can take at all.
 
-| Power Level | RP | Traits per Category | Traits Available |
-| --- | --- | --- | --- |
-| Standard | 1–10 | 3 | Standard |
-| Advanced | 11–20 | 4 | Standard and advanced |
-| Monstrous | 21 and up | 5 | Standard, advanced and monstrous |
+| Power Level | RP        | Traits per Category | Traits Available                 |
+| ----------- | --------- | ------------------- | -------------------------------- |
+| Standard    | 1–10      | 3                   | Standard                         |
+| Advanced    | 11–20     | 4                   | Standard and advanced            |
+| Monstrous   | 21 and up | 5                   | Standard, advanced and monstrous |
 
 The races in PC Races are standard races, about 8 to 12 RP. Most planar-touched and unusual races sit around 10 to 17. Races with flight, Large size or many natural attacks are advanced or monstrous.
 
@@ -62,57 +62,57 @@ The race's creature type works like the type in [[rangoric-srd/monsters/Monster 
 
 Some types come with traits, such as darkvision. Those are already paid for, don't count toward the category limit, and still meet prerequisites.
 
-| Type | RP | Comes With |
-| --- | --- | --- |
-| Humanoid | 0 | Breathes, eats, sleeps. Must take at least one subtype naming its race (such as goblinoid or reptilian, or a new one named for the race); a half-breed takes both parents' subtypes. A humanoid with a race's subtype counts as that race for prerequisites. |
-| Fey | 2 | [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision\|Low-light vision]]. |
-| Aberration | 3 | [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision\|Darkvision]] 60 ft. |
-| Monstrous humanoid | 3 | Darkvision 60 ft. |
-| Outsider (native) | 3 | Darkvision 60 ft. May have ties to one other plane, which some traits require. |
-| Dragon | 10 | Darkvision 60 ft., low-light vision, immune to magic sleep and paralysis. |
-| Plant | 10 | Low-light vision; immune to mind-affecting effects, paralysis, poison, polymorph, sleep and stunning; doesn't need to sleep. |
-| Undead | 16 | No Constitution (uses Charisma for hit points, Fortitude saves and Con-based abilities); darkvision 60 ft.; the undead immunities; harmed by positive and healed by negative energy; destroyed at 0 hit points; no massive damage; doesn't breathe, eat or sleep. |
-| Construct | 20 | No Constitution (counts as 10); low-light vision and darkvision 60 ft.; the construct immunities (mind-affecting, Fortitude effects, ability damage, fatigue…); can't heal on its own; destroyed at 0 hit points; bonus hit points by size (Small 10, Medium 20, Large 30); can't be raised. |
+| Type               | RP  | Comes With                                                                                                                                                                                                                                                                                   |
+| ------------------ | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Humanoid           | 0   | Breathes, eats, sleeps. Must take at least one subtype naming its race (such as goblinoid or reptilian, or a new one named for the race); a half-breed takes both parents' subtypes. A humanoid with a race's subtype counts as that race for prerequisites.                                 |
+| Fey                | 2   | [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision\|Low-light vision]].                                                                                                                                                                                                  |
+| Aberration         | 3   | [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision\|Darkvision]] 60 ft.                                                                                                                                                                                                        |
+| Monstrous humanoid | 3   | Darkvision 60 ft.                                                                                                                                                                                                                                                                            |
+| Outsider (native)  | 3   | Darkvision 60 ft. May have ties to one other plane, which some traits require.                                                                                                                                                                                                               |
+| Dragon             | 10  | Darkvision 60 ft., low-light vision, immune to magic sleep and paralysis.                                                                                                                                                                                                                    |
+| Plant              | 10  | Low-light vision; immune to mind-affecting effects, paralysis, poison, polymorph, sleep and stunning; doesn't need to sleep.                                                                                                                                                                 |
+| Undead             | 16  | No Constitution (uses Charisma for hit points, Fortitude saves and Con-based abilities); darkvision 60 ft.; the undead immunities; harmed by positive and healed by negative energy; destroyed at 0 hit points; no massive damage; doesn't breathe, eat or sleep.                            |
+| Construct          | 20  | No Constitution (counts as 10); low-light vision and darkvision 60 ft.; the construct immunities (mind-affecting, Fortitude effects, ability damage, fatigue…); can't heal on its own; destroyed at 0 hit points; bonus hit points by size (Small 10, Medium 20, Large 30); can't be raised. |
 
 **Special subtypes.** For a standard race with some of the flavor of a construct or undead, add one of these to any type but construct or undead:
 
-| Subtype | RP | Comes With |
-| --- | --- | --- |
-| Half-construct | 7 | +2 racial bonus on saves against disease, mind-affecting effects, poison, and fatigue or exhaustion; can't be raised; doesn't need to breathe, eat or sleep. |
-| Half-undead | 5 | Darkvision 60 ft.; +2 racial bonus on saves against disease and mind-affecting effects; no penalties from [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels\|negative levels]], which go away after 24 hours; harmed by positive and healed by negative energy. |
+| Subtype        | RP  | Comes With                                                                                                                                                                                                                                                                                           |
+| -------------- | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Half-construct | 7   | +2 racial bonus on saves against disease, mind-affecting effects, poison, and fatigue or exhaustion; can't be raised; doesn't need to breathe, eat or sleep.                                                                                                                                         |
+| Half-undead    | 5   | Darkvision 60 ft.; +2 racial bonus on saves against disease and mind-affecting effects; no penalties from [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels\|negative levels]], which go away after 24 hours; harmed by positive and healed by negative energy. |
 
 #### Size
 
-| Size | RP | Prerequisite | Effect |
-| --- | --- | --- | --- |
-| Medium | 0 | — | No modifiers. Space 5 ft., reach 5 ft. |
-| Small | 0 | — | As [[rangoric-srd/races/PC Races#Small Characters\|Small Characters]]: +1 size bonus to AC and on attack rolls, +4 on [[rangoric-srd/skills/Stealth\|Stealth]]; −1 on combat maneuver checks and to CMD. Space 5 ft., reach 5 ft. |
-| Tiny | 4 | Aberration, construct, dragon, fey, outsider (native) or plant | +2 size bonus to Dex, −2 to Str; +2 size bonus to AC and on attacks, +8 on Stealth; −2 on combat maneuver checks and CMD. Space 2½ ft., reach 0 ft.: must enter a foe's square to attack it (provoking), threatens nothing, usually can't flank. |
-| Large | 7 | Humanoids need the giant subtype | As [[rangoric-srd/races/PC Races#Large Characters\|Large Characters]], without a +2 size bonus to Str and −2 to Dex (Small has no Strength penalty): −1 size penalty to AC and on attacks, −4 on Stealth; +1 on combat maneuver checks and CMD. Space 10 ft., reach 5 ft. |
+| Size   | RP  | Prerequisite                                                   | Effect                                                                                                                                                                                                                                                                    |
+| ------ | --- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Medium | 0   | —                                                              | No modifiers. Space 5 ft., reach 5 ft.                                                                                                                                                                                                                                    |
+| Small  | 0   | —                                                              | As [[rangoric-srd/races/PC Races#Small Characters\|Small Characters]]: +1 size bonus to AC and on attack rolls, +4 on [[rangoric-srd/skills/Stealth\|Stealth]]; −1 on combat maneuver checks and to CMD. Space 5 ft., reach 5 ft.                                         |
+| Tiny   | 4   | Aberration, construct, dragon, fey, outsider (native) or plant | +2 size bonus to Dex, −2 to Str; +2 size bonus to AC and on attacks, +8 on Stealth; −2 on combat maneuver checks and CMD. Space 2½ ft., reach 0 ft.: must enter a foe's square to attack it (provoking), threatens nothing, usually can't flank.                          |
+| Large  | 7   | Humanoids need the giant subtype                               | As [[rangoric-srd/races/PC Races#Large Characters\|Large Characters]], without a +2 size bonus to Str and −2 to Dex (Small has no Strength penalty): −1 size penalty to AC and on attacks, −4 on Stealth; +1 on combat maneuver checks and CMD. Space 10 ft., reach 5 ft. |
 
 #### Base Speed
 
-| Speed | RP | Effect |
-| --- | --- | --- |
-| Normal | 0 | Base speed 30 ft. Many movement traits require it. |
-| Slow | −1 | Base speed 20 ft. A Medium race with slow speed is never slowed by armor or encumbrance (the dwarf's Slow and Steady). |
+| Speed  | RP  | Effect                                                                                                                 |
+| ------ | --- | ---------------------------------------------------------------------------------------------------------------------- |
+| Normal | 0   | Base speed 30 ft. Many movement traits require it.                                                                     |
+| Slow   | −1  | Base speed 20 ft. A Medium race with slow speed is never slowed by armor or encumbrance (the dwarf's Slow and Steady). |
 
 #### Ability Score Modifiers
 
 Most arrays split the abilities into **physical** (Strength, Dexterity, Constitution) and **mental** (Intelligence, Wisdom, Charisma). Except for human heritage, the modifiers are fixed for every member of the race, and the bonuses count as racial bonuses for trait prerequisites (Hardy needs a +2 racial bonus to Constitution, for instance).
 
-| Array | RP | Prerequisite | Modifiers |
-| --- | --- | --- | --- |
-| Human heritage | 0 | Human subtype | +2 to any one ability, chosen by each character at creation. |
-| Standard | 0 | — | +2 to one physical and +2 to one mental ability, −2 to one other ability. |
-| Weakness | −1 | — | +2 to one physical and +2 to one mental ability, −4 to one other ability. |
-| Mixed weakness | −2 | — | In one group, +2 to one ability and −2 to another; in the other, +2 to one and −4 to another. |
-| Greater weakness | −3 | — | In one group, −4 to one ability, −2 to another, +2 to the third. |
-| Specialized | 1 | — | +2 to two abilities in one group, −2 to one in the other. |
-| Paragon | 1 | — | +4 to one ability, −2 to all three abilities of the other group. |
-| Flexible | 2 | — | +2 to any two abilities. |
-| Greater paragon | 2 | — | +4 to one ability, −2 to one physical and −2 to one mental ability. |
-| Advanced | 4 | Advanced or monstrous | +2 to all three abilities of one group, +4 to one of the other group, −2 to another of the other group. |
+| Array            | RP  | Prerequisite          | Modifiers                                                                                               |
+| ---------------- | --- | --------------------- | ------------------------------------------------------------------------------------------------------- |
+| Human heritage   | 0   | Human subtype         | +2 to any one ability, chosen by each character at creation.                                            |
+| Standard         | 0   | —                     | +2 to one physical and +2 to one mental ability, −2 to one other ability.                               |
+| Weakness         | −1  | —                     | +2 to one physical and +2 to one mental ability, −4 to one other ability.                               |
+| Mixed weakness   | −2  | —                     | In one group, +2 to one ability and −2 to another; in the other, +2 to one and −4 to another.           |
+| Greater weakness | −3  | —                     | In one group, −4 to one ability, −2 to another, +2 to the third.                                        |
+| Specialized      | 1   | —                     | +2 to two abilities in one group, −2 to one in the other.                                               |
+| Paragon          | 1   | —                     | +4 to one ability, −2 to all three abilities of the other group.                                        |
+| Flexible         | 2   | —                     | +2 to any two abilities.                                                                                |
+| Greater paragon  | 2   | —                     | +4 to one ability, −2 to one physical and −2 to one mental ability.                                     |
+| Advanced         | 4   | Advanced or monstrous | +2 to all three abilities of one group, +4 to one of the other group, −2 to another of the other group. |
 
 More can be added with the advanced ability traits in [[rangoric-srd/races/race builder/Race Builder Traits#Ability Score Traits|Race Builder Traits]].
 
@@ -120,11 +120,11 @@ More can be added with the advanced ability traits in [[rangoric-srd/races/race 
 
 The race's **racial language** is its own tongue (make one up if needed), Draconic for a reptilian humanoid, or the planar language of an outsider's plane (Abyssal, Aquan, Auran, Celestial, Ignan, Infernal or Terran). A race native to the deep underground can replace Common with Undercommon. Constructs and undead usually speak their makers' language.
 
-| Option | RP | Languages |
-| --- | --- | --- |
-| Standard | 0 | Common and the racial language; choose up to seven bonus languages (no secret languages such as Druidic). |
-| Xenophobic | 0 | The racial language only; choose up to four bonus languages, one of which must be Common (or Undercommon). |
-| Linguist | 1 | Common and the racial language; bonus languages can be any (no secret languages). |
+| Option     | RP  | Languages                                                                                                  |
+| ---------- | --- | ---------------------------------------------------------------------------------------------------------- |
+| Standard   | 0   | Common and the racial language; choose up to seven bonus languages (no secret languages such as Druidic).  |
+| Xenophobic | 0   | The racial language only; choose up to four bonus languages, one of which must be Common (or Undercommon). |
+| Linguist   | 1   | Common and the racial language; bonus languages can be any (no secret languages).                          |
 
 Bonus languages are learned with a high Intelligence, as [[rangoric-srd/races/PC Races#Race and Languages|Race and Languages]] describes; Rangoric's race notes list them under **Bonus Languages**. A xenophobic race doesn't know Common unless it takes it as a bonus language. New tongues go into [[rangoric-srd/skills/Linguistics|Linguistics]]' table.
 
@@ -142,7 +142,7 @@ Each trait gives its cost in RP, any prerequisites (a type, subtype, size, abili
 
 ### Step 4: Writing the Race Up
 
-*(Rangoric's step; the builder stops at traits.)* Write the race as a note in `rangoric-srd/races`, laid out like the others: Size, Base Speed, Perks, Languages, Bonus Languages, then Age, Height and Weight. Each trait is a bullet labelled with its trait name (Pathfinder's names), a quality that needs no words (Medium, normal speed) is just the Size or Base Speed line, and a trait that already has a home elsewhere points there rather than being written out again: darkvision and low-light vision to [[rangoric-srd/rules/Special Abilities and Conditions|Special Abilities and Conditions]], defensive training to [[rangoric-srd/races/PC Races#Defensive Training|PC Races]], Small to Small Characters. The race’s total goes in the note’s `race-points` property, beside its level adjustment if it has one.
+_(Rangoric's step; the builder stops at traits.)_ Write the race as a note in `rangoric-srd/races`, laid out like the others: Size, Base Speed, Perks, Languages, Bonus Languages, then Age, Height and Weight. Each trait is a bullet labelled with its trait name (Pathfinder's names), a quality that needs no words (Medium, normal speed) is just the Size or Base Speed line, and a trait that already has a home elsewhere points there rather than being written out again: darkvision and low-light vision to [[rangoric-srd/rules/Special Abilities and Conditions|Special Abilities and Conditions]], defensive training to [[rangoric-srd/races/PC Races#Defensive Training|PC Races]], Small to Small Characters. The race’s total goes in the note’s `race-points` property, beside its level adjustment if it has one.
 
 ### Races Without Constitution
 
@@ -153,47 +153,47 @@ Construct and undead races have no Constitution score, so the ability score meth
 Advanced and monstrous races are built to face harder fights, especially at low level. When the party uses them, the GM builds encounters for a higher average party level (APL) than the characters' real one, by the party's average RP (rounded to the nearest 10):
 
 | Average RP | APL 1–5 | APL 6–10 | APL 11–15 | APL 16–20 |
-| --- | --- | --- | --- | --- |
-| 20 | +1 | +0 | +0 | +0 |
-| 30 | +2 | +1 | +0 | +0 |
-| 40 | +3 | +2 | +1 | +0 |
+| ---------- | ------- | -------- | --------- | --------- |
+| 20         | +1      | +0       | +0        | +0        |
+| 30         | +2      | +1       | +0        | +0        |
+| 40         | +3      | +2       | +1        | +0        |
 
 ## Rangoric Races in Race Points
 
 Each Rangoric race priced with the trait costs above. A race note carries its total in its `race-points` property. The original example races sometimes charge a trait less or more than its heading; here the heading’s cost is used.
 
-| Race | Race Points | Level Adjustment | Power Level |
-| --- | --- | --- | --- |
-| [[rangoric-srd/races/Dwarf\|Dwarf]] | 12 | — | Advanced |
-| [[rangoric-srd/races/Elf\|Elf]] | 12 | — | Advanced |
-| [[rangoric-srd/races/Gnome\|Gnome]] | 10 | — | Standard |
-| [[rangoric-srd/races/Halfling\|Halfling]] | 12 | — | Advanced |
-| [[rangoric-srd/races/Half-Elf\|Half-Elf]] | 10 | — | Standard |
-| [[rangoric-srd/races/Half-Orc\|Half-Orc]] | 8 | — | Standard |
-| [[rangoric-srd/races/Human\|Human]] | 9 | — | Standard |
-| [[rangoric-srd/races/Kobold\|Kobold]] | 5 | — | Standard |
-| [[rangoric-srd/races/Orc\|Orc]] | 8 | — | Standard |
-| [[rangoric-srd/races/Goblin\|Goblin]] | 10 | — | Standard |
-| [[rangoric-srd/races/Duergar\|Duergar]] | 8 | +1 | Standard |
-| [[rangoric-srd/races/Hobgoblin\|Hobgoblin]] | 9 | +1 | Standard |
-| [[rangoric-srd/races/Tiefling\|Tiefling]] | 13 | +1 | Advanced |
-| [[rangoric-srd/races/Drow\|Drow]] | 14 | +1 | Advanced |
-| [[rangoric-srd/races/Aasimar\|Aasimar]] | 15 | +1 | Advanced |
-| [[rangoric-srd/races/Svirfneblin\|Svirfneblin]] | 26 | +1 | Monstrous |
+| Race                                            | Race Points | Level Adjustment | Power Level |
+| ----------------------------------------------- | ----------- | ---------------- | ----------- |
+| [[rangoric-srd/races/Dwarf\|Dwarf]]             | 12          | —                | Advanced    |
+| [[rangoric-srd/races/Elf\|Elf]]                 | 12          | —                | Advanced    |
+| [[rangoric-srd/races/Gnome\|Gnome]]             | 10          | —                | Standard    |
+| [[rangoric-srd/races/Halfling\|Halfling]]       | 12          | —                | Advanced    |
+| [[rangoric-srd/races/Half-Elf\|Half-Elf]]       | 10          | —                | Standard    |
+| [[rangoric-srd/races/Half-Orc\|Half-Orc]]       | 8           | —                | Standard    |
+| [[rangoric-srd/races/Human\|Human]]             | 9           | —                | Standard    |
+| [[rangoric-srd/races/Kobold\|Kobold]]           | 5           | —                | Standard    |
+| [[rangoric-srd/races/Orc\|Orc]]                 | 8           | —                | Standard    |
+| [[rangoric-srd/races/Goblin\|Goblin]]           | 10          | —                | Standard    |
+| [[rangoric-srd/races/Duergar\|Duergar]]         | 8           | +1               | Standard    |
+| [[rangoric-srd/races/Hobgoblin\|Hobgoblin]]     | 9           | +1               | Standard    |
+| [[rangoric-srd/races/Tiefling\|Tiefling]]       | 13          | +1               | Advanced    |
+| [[rangoric-srd/races/Drow\|Drow]]               | 14          | +1               | Advanced    |
+| [[rangoric-srd/races/Aasimar\|Aasimar]]         | 15          | +1               | Advanced    |
+| [[rangoric-srd/races/Svirfneblin\|Svirfneblin]] | 26          | +1               | Monstrous   |
 
 ### Breakdowns
 
-**Dwarf (12 RP).** Humanoid (dwarf) 0; Medium 0; slow speed −1 (Slow and Steady); standard array (+2 Con, +2 Wis, −2 Cha) 0; standard languages 0. *Defense*: Defensive Training (lesser, against giants) 1, Hardy 3, Stability 1. *Feat and skill*: Craftsman 1, Greed 1, Stonecunning 1. *Offense*: Hatred 1, Weapon Familiarity 2. *Senses*: darkvision 60 ft. 2.
+**Dwarf (12 RP).** Humanoid (dwarf) 0; Medium 0; slow speed −1 (Slow and Steady); standard array (+2 Con, +2 Wis, −2 Cha) 0; standard languages 0. _Defense_: Defensive Training (lesser, against giants) 1, Hardy 3, Stability 1. _Feat and skill_: Craftsman 1, Greed 1, Stonecunning 1. _Offense_: Hatred 1, Weapon Familiarity 2. _Senses_: darkvision 60 ft. 2.
 
-**Elf (12 RP).** Humanoid (elf) 0; Medium 0; normal speed 0; standard array (+2 Dex, +2 Int, −2 Con) 0; standard languages 0. *Defense*: Elven Immunities 2. *Feat and skill*: Keen Senses as two Skill Bonuses ([[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Investigation|Investigation]]) 4. *Magical*: Elven Magic 3. *Offense*: Weapon Familiarity 2. *Senses*: low-light vision 1.
+**Elf (12 RP).** Humanoid (elf) 0; Medium 0; normal speed 0; standard array (+2 Dex, +2 Int, −2 Con) 0; standard languages 0. _Defense_: Elven Immunities 2. _Feat and skill_: Keen Senses as two Skill Bonuses ([[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Investigation|Investigation]]) 4. _Magical_: Elven Magic 3. _Offense_: Weapon Familiarity 2. _Senses_: low-light vision 1.
 
-**Human (9 RP).** Humanoid (human) 0; Medium 0; normal speed 0; human heritage 0; linguist 1. *Feat and skill*: flexible bonus feat 4, Skilled 4.
+**Human (9 RP).** Humanoid (human) 0; Medium 0; normal speed 0; human heritage 0; linguist 1. _Feat and skill_: flexible bonus feat 4, Skilled 4.
 
-**Hobgoblin (9 RP, level adjustment +1).** Humanoid (goblinoid) 0; Medium 0; normal speed 0; flexible (+2 Dex, +2 Con) 2; standard languages 0. *Feat and skill*: Sneaky (+4 [[rangoric-srd/skills/Stealth|Stealth]]) 5. *Senses*: darkvision 60 ft. 2.
+**Hobgoblin (9 RP, level adjustment +1).** Humanoid (goblinoid) 0; Medium 0; normal speed 0; flexible (+2 Dex, +2 Con) 2; standard languages 0. _Feat and skill_: Sneaky (+4 [[rangoric-srd/skills/Stealth|Stealth]]) 5. _Senses_: darkvision 60 ft. 2.
 
-**Aasimar (15 RP, level adjustment +1).** Outsider (native, tied to a good-aligned plane) 3, darkvision included; Medium 0; normal speed 0; flexible (+2 Wis, +2 Cha) 2; standard languages 0. *Defense*: Celestial Resistance 3. *Feat and skill*: Skill Bonus ([[rangoric-srd/skills/Persuasion|Persuasion]]) 2, Skill Bonus (Perception) 2. *Magical*: greater spell-like ability (*daylight*, 3rd level) 3.
+**Aasimar (15 RP, level adjustment +1).** Outsider (native, tied to a good-aligned plane) 3, darkvision included; Medium 0; normal speed 0; flexible (+2 Wis, +2 Cha) 2; standard languages 0. _Defense_: Celestial Resistance 3. _Feat and skill_: Skill Bonus ([[rangoric-srd/skills/Persuasion|Persuasion]]) 2, Skill Bonus (Perception) 2. _Magical_: greater spell-like ability (_daylight_, 3rd level) 3.
 
-**Svirfneblin (26 RP, level adjustment +1).** Humanoid (gnome) 0; Small 0; slow speed −1; mixed weakness (−2 Str, +2 Dex, +2 Wis, −4 Cha) −2; standard languages 0. *Defense*: greater Defensive Training 4, greater Lucky (Fortunate) 4, greater spell resistance 3. *Feat and skill*: Skill Bonus (Craft (alchemy)) 2, Skill Bonus (Perception) 2, Stonecunning 1, Underground Sneak 5. *Magical*: Svirfneblin Magic 2. *Offense*: Hatred 1, Weapon Familiarity 1. *Senses*: darkvision 120 ft. 3, low-light vision 1.
+**Svirfneblin (26 RP, level adjustment +1).** Humanoid (gnome) 0; Small 0; slow speed −1; mixed weakness (−2 Str, +2 Dex, +2 Wis, −4 Cha) −2; standard languages 0. _Defense_: greater Defensive Training 4, greater Lucky (Fortunate) 4, greater spell resistance 3. _Feat and skill_: Skill Bonus (Craft (alchemy)) 2, Skill Bonus (Perception) 2, Stonecunning 1, Underground Sneak 5. _Magical_: Svirfneblin Magic 2. _Offense_: Hatred 1, Weapon Familiarity 1. _Senses_: darkvision 120 ft. 3, low-light vision 1.
 
 ## Building a Faerie
 

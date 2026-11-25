@@ -33,7 +33,7 @@ Target: Creature or object touched
 Duration: Instantaneous  
 Saving Throw: None  
 Power Resistance: Yes (object)  
-Power Points: 1  
+Power Points: 1
 
 Your mere touch can disperse the surface material of a foe or object, sending a tiny portion of it far away. This effect is disruptive; thus, your successful melee touch attack deals 1d6 points of damage.
 

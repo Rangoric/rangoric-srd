@@ -40,32 +40,32 @@ tags: [rangoric, rangoric/monster]
 
 # Shadow
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Incorporeal)
-  - **Hit Dice**: 3d8+6 (19 hp)
-  - **Initiative**: +2
-  - **Speed**: fly 40 ft. (good)
-  - **Armor Class**: 15 (+2 deflection, +2 Dex, +1 dodge), touch 15, flat-footed 12
-  - **Base Attack**: +2; **CMB**: +4; **CMD**: 17
-  - **Attack**: Incorporeal touch +4 melee (1d6 Strength damage)
-  - **Full Attack**: Incorporeal touch +4 melee (1d6 Strength damage)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Create spawn
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-  - **Saves**: Fort +3, Ref +3, Will +4
-  - **Abilities**: Str —, Dex 14, Con —, Int 6, Wis 12, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+12 in dim light, +4 in bright light)
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, gang (3–6), or swarm (7–12)
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard
-  - **Alignment**: Always chaotic evil
-  - **Advancement**: 4-9 HD (Medium)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Incorporeal)
+- **Hit Dice**: 3d8+6 (19 hp)
+- **Initiative**: +2
+- **Speed**: fly 40 ft. (good)
+- **Armor Class**: 15 (+2 deflection, +2 Dex, +1 dodge), touch 15, flat-footed 12
+- **Base Attack**: +2; **CMB**: +4; **CMD**: 17
+- **Attack**: Incorporeal touch +4 melee (1d6 Strength damage)
+- **Full Attack**: Incorporeal touch +4 melee (1d6 Strength damage)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Create spawn
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
+- **Saves**: Fort +3, Ref +3, Will +4
+- **Abilities**: Str —, Dex 14, Con —, Int 6, Wis 12, Cha 15
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+12 in dim light, +4 in bright light)
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any
+- **Organization**: Solitary, pair, gang (3–6), or swarm (7–12)
+- **Challenge Rating**: 3
+- **Treasure**: Standard
+- **Alignment**: Always chaotic evil
+- **Advancement**: 4-9 HD (Medium)
+- **Level Adjustment**: —
 
 **Also in this entry:**
 
-  - [[rangoric-srd/monsters/shadow/Greater Shadow|Greater Shadow]]
+- [[rangoric-srd/monsters/shadow/Greater Shadow|Greater Shadow]]
 
 The sinister shadow skirts the border between the gloom of darkness and the harsh truth of light. The shadow prefers to haunt ruins where civilization has moved on, where it hunts living creatures foolish enough to stumble into its territory. The shadow is an undead horror, and as such has no goals or outwardly visible motivations other than to sap life and vitality from living beings.
 

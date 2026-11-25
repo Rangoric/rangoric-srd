@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Stunning Barrier, Greater
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 3, Inq 3, Pal 3, Psy 3, Sor/Wiz 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level or until discharged
-  - **Saving Throw**: None and Will negates (see text)
-  - **Spell Resistance**: No and yes (see text)
+- **Level**: Clr 3, Inq 3, Pal 3, Psy 3, Sor/Wiz 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level or until discharged
+- **Saving Throw**: None and Will negates (see text)
+- **Spell Resistance**: No and yes (see text)
 
-This spell functions as *[[rangoric-srd/spells/Stunning Barrier|stunning barrier]]*, except as noted above, and it provides a +2 bonus to AC and on saving throws. It is not discharged until it has stunned a number of creatures equal to your caster level.
+This spell functions as _[[rangoric-srd/spells/Stunning Barrier|stunning barrier]]_, except as noted above, and it provides a +2 bonus to AC and on saving throws. It is not discharged until it has stunned a number of creatures equal to your caster level.

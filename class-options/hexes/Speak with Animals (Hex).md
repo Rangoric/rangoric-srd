@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Speak with Animals
 
-*A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Ex) of the [[rangoric-srd/class-options/spirits/Nature Spirit|nature spirit]].*
+_A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Ex) of the [[rangoric-srd/class-options/spirits/Nature Spirit|nature spirit]]._
 
-Choose a specific kind of animal: eagle, fox, dog, and so on. The shaman gains the ability to converse with that type of animal as if she were under the effects of *[[rangoric-srd/spells/Speak with Animals|speak with animals]]*. The shaman gains the ability to communicate with an additional kind of animal for every 3 shaman levels she possesses (two animals at 3rd level, three at 6th, up to a maximum of seven at 18th level).
+Choose a specific kind of animal: eagle, fox, dog, and so on. The shaman gains the ability to converse with that type of animal as if she were under the effects of _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_. The shaman gains the ability to communicate with an additional kind of animal for every 3 shaman levels she possesses (two animals at 3rd level, three at 6th, up to a maximum of seven at 18th level).

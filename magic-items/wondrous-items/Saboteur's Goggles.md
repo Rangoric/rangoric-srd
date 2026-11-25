@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Saboteur's Goggles
 
-These goggles are fitted with crimson lenses surrounded by thick, round brass frames and secured with a leather strap. Three times per day, the wearer can use *[[rangoric-srd/spells/Murderous Command|murderous command]]* as a [[rangoric-srd/rules/Special Abilities and Conditions#Gaze Attacks|gaze attack]] (Will DC 16 negates).
+These goggles are fitted with crimson lenses surrounded by thick, round brass frames and secured with a leather strap. Three times per day, the wearer can use _[[rangoric-srd/spells/Murderous Command|murderous command]]_ as a [[rangoric-srd/rules/Special Abilities and Conditions#Gaze Attacks|gaze attack]] (Will DC 16 negates).
 
-Moderate enchantment; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Heighten Spell|Heighten Spell]], *[[rangoric-srd/spells/Murderous Command|murderous command]]*; Price 16,000 gp; Cost 8,000 gp.
+Moderate enchantment; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Heighten Spell|Heighten Spell]], _[[rangoric-srd/spells/Murderous Command|murderous command]]_; Price 16,000 gp; Cost 8,000 gp.

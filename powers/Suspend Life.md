@@ -28,7 +28,7 @@ Psychometabolism
 **Range:** Personal  
 **Target:** You  
 **Duration:** Permanent unless ended or dismissed; see text  
-**Power Points:** 11  
+**Power Points:** 11
 
 You can place yourself into a trance so deep that you are almost in suspended animation. Even powers that detect life or thought are incapable of determining that you are alive.
 

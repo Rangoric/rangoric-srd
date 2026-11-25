@@ -25,15 +25,15 @@ tags: [rangoric, rangoric/spell]
 
 # Instant Enemy
 
-*Enchantment*
+_Enchantment_
 
-  - **Level**: Hun 3, Rgr 3
-  - **Components**: V, S
-  - **Casting Time**: 1 swift action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature that is not your favored enemy.
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Hun 3, Rgr 3
+- **Components**: V, S
+- **Casting Time**: 1 swift action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature that is not your favored enemy.
+- **Duration**: 1 minute/level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 With this spell you designate the target as your favored enemy for the remainder of its duration. Select one of your favored enemy types. For the duration of the spell, you treat the target as if it were that type of favored enemy for all purposes.

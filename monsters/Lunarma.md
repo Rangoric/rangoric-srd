@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Lunarma
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 9d8+36 (76 hp)
-  - **Initiative**: +5
-  - **Speed**: 0 ft. (0 squares), fly 60 ft. (good)
-  - **Armor Class**: 17 (+1 Dex, +6 natural), touch 11, flat-footed 16
-  - **Base Attack**: +6; **CMB**: +9 (+13 grapple); **CMD**: 20
-  - **Attack**: Claw +9 melee (1d8+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or bite +10 melee (1d6+3)
-  - **Full Attack**: 3 claws +9 melee (1d8+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and bite +10 melee (1d6+3)
-  - **Space/Reach**: 5 ft./5 ft. (10 ft. with claws)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (30-ft. line, 2d6 acid damage plus recurring damage, Reflex DC 18 half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Constrict|constrict]] (1d8+3), [[rangoric-srd/monsters/abilities/Implant Eggs|implant eggs]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 120 ft. other lunarma only, [[rangoric-srd/monsters/abilities/Barbed Carapace|barbed carapace]], [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 5 and fire 5
-  - **Saves**: Fort +9, Ref +4, Will +9
-  - **Abilities**: Str 16, Dex 12, Con 19, Int 5, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Investigation|Investigation]] +1, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +7
-  - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
-  - **Environment**: Any underground
-  - **Organization**: Solitary, pair, or hive (3–16)
-  - **Challenge Rating**: 6
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 9d8+36 (76 hp)
+- **Initiative**: +5
+- **Speed**: 0 ft. (0 squares), fly 60 ft. (good)
+- **Armor Class**: 17 (+1 Dex, +6 natural), touch 11, flat-footed 16
+- **Base Attack**: +6; **CMB**: +9 (+13 grapple); **CMD**: 20
+- **Attack**: Claw +9 melee (1d8+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or bite +10 melee (1d6+3)
+- **Full Attack**: 3 claws +9 melee (1d8+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and bite +10 melee (1d6+3)
+- **Space/Reach**: 5 ft./5 ft. (10 ft. with claws)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (30-ft. line, 2d6 acid damage plus recurring damage, Reflex DC 18 half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Constrict|constrict]] (1d8+3), [[rangoric-srd/monsters/abilities/Implant Eggs|implant eggs]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 120 ft. other lunarma only, [[rangoric-srd/monsters/abilities/Barbed Carapace|barbed carapace]], [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 5 and fire 5
+- **Saves**: Fort +9, Ref +4, Will +9
+- **Abilities**: Str 16, Dex 12, Con 19, Int 5, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Investigation|Investigation]] +1, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +7
+- **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
+- **Environment**: Any underground
+- **Organization**: Solitary, pair, or hive (3–16)
+- **Challenge Rating**: 6
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Lunarmas are mysterious crablike creatures that come from space. They move by floating through the air and can eat flesh, wood, bone, and certain kinds of sand and dust. Highly aggressive, they attack by dropping on prey from above and grabbing it with their limbs, using their breath weapon to injure multiple creatures for easier capture, feeding, and implantation.
 

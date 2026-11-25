@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Reincarnated Druid
 
-*A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Spun off into the endless circle of life, an incarnate druid is an embodiment of nature's eternal renewal. She lives many lives and wanders the world devoid of attachments, a stranger to all yet one with all life.
 
@@ -28,7 +28,7 @@ Spun off into the endless circle of life, an incarnate druid is an embodiment of
 
 **Resist Death's Touch (Ex)**: At 4th level, a reincarnated druid gains a +4 bonus on saving throws against [[rangoric-srd/rules/Special Abilities and Conditions#Death Attacks|death effects]], [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|energy drain]], and necromancy effects, and on [[rangoric-srd/rules/Special Abilities and Conditions#^stabilizing|stabilization checks]] when [[rangoric-srd/rules/Special Abilities and Conditions#^dying|dying]]. This ability replaces [[rangoric-srd/classes/Druid#^druid-resist-natures-lure|resist nature's lure]].
 
-**Many Lives (Ex)**: At 5th level, if a reincarnated druid is killed, she may automatically *[[rangoric-srd/spells/Reincarnate|reincarnate]]* (as the spell) 1 day later. The reincarnated druid appears in a safe location within 1 mile of her previous body. At will for the next 7 days, she can sense the presence of her remains as if using *[[rangoric-srd/spells/Locate Object|locate object]]* as a spell-like ability. If she is killed during these 7 days, she remains dead and does not reincarnate. The many lives ability does not function if the reincarnated druid is slain by a death effect. A reincarnated druid cannot be raised from the dead or resurrected, though she can be reincarnated.
+**Many Lives (Ex)**: At 5th level, if a reincarnated druid is killed, she may automatically _[[rangoric-srd/spells/Reincarnate|reincarnate]]_ (as the spell) 1 day later. The reincarnated druid appears in a safe location within 1 mile of her previous body. At will for the next 7 days, she can sense the presence of her remains as if using _[[rangoric-srd/spells/Locate Object|locate object]]_ as a spell-like ability. If she is killed during these 7 days, she remains dead and does not reincarnate. The many lives ability does not function if the reincarnated druid is slain by a death effect. A reincarnated druid cannot be raised from the dead or resurrected, though she can be reincarnated.
 
 **Wild Shape (Su)**: A reincarnated druid gains [[rangoric-srd/classes/Druid#^druid-wild-shape|this ability]] at 6th level, and it functions at her druid level – 2.
 

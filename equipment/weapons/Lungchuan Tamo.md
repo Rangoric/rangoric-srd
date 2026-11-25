@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/monk, weapon-group/thrown, easter
 
 # Lungchuan Tamo
 
-*Martial light melee weapon (monk).* Cost 5 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Range Increment 10 ft.; Weight 1 lb.; Type Piercing or slashing. ^stats
+_Martial light melee weapon (monk)._ Cost 5 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Range Increment 10 ft.; Weight 1 lb.; Type Piercing or slashing. ^stats
 
 What appears to be an ordinary baton sheaths a pair of matching slender-bladed daggers, perfectly balanced throwing blades.
 

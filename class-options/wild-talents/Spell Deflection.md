@@ -18,11 +18,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Spell Deflection
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Aether Element|aether]]
-  - **Type**: utility (Sp)
-  - **Level**: 7
-  - **Burn**: 0
+- **Element**: [[rangoric-srd/class-options/elements/Aether Element|aether]]
+- **Type**: utility (Sp)
+- **Level**: 7
+- **Burn**: 0
 
-You weave strands of aether around yourself in order to deflect targeted magic back at the caster. Until the beginning of your next turn, every time you are targeted by a spell that could be affected by *[[rangoric-srd/spells/Spell Turning|spell turning]]*, roll 1d10–1 and determine the effects of the spell as if you had spell turning with that many spell levels remaining. You can accept 1 point of [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]] to increase the duration to 10 minutes per kineticist level you possess, but in that case, it deflects only 10 spell levels in total (still rolled 1d10–1 at a time) before ending early.
+You weave strands of aether around yourself in order to deflect targeted magic back at the caster. Until the beginning of your next turn, every time you are targeted by a spell that could be affected by _[[rangoric-srd/spells/Spell Turning|spell turning]]_, roll 1d10–1 and determine the effects of the spell as if you had spell turning with that many spell levels remaining. You can accept 1 point of [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]] to increase the duration to 10 minutes per kineticist level you possess, but in that case, it deflects only 10 spell levels in total (still rolled 1d10–1 at a time) before ending early.

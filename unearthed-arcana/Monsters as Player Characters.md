@@ -12,7 +12,7 @@ tags: [rangoric, rangoric/rules]
 
 # Monsters as Player Characters
 
-*[[rangoric-srd/monsters/Monsters as Races|Monsters as Races]] is the standard rule for playing a monster as a character. This is an optional alternative.*
+_[[rangoric-srd/monsters/Monsters as Races|Monsters as Races]] is the standard rule for playing a monster as a character. This is an optional alternative._
 
 Using one of the monsters as a character can be very rewarding, but weighing such a character against others is challenging. Monsters are not designed with the rules for players in mind, and as such can be very unbalancing if not handled carefully.
 

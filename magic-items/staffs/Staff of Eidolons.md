@@ -23,8 +23,8 @@ tags: [rangoric, rangoric/magic-item]
 
 This crooked staff is made of mahogany and decorated with the bones of eidolons that jut out of the wood. It allows the use of the following spells:
 
-- *[[rangoric-srd/spells/Rejuvenate Eidolon, Lesser|Lesser rejuvenate eidolon]]* (1 charge)
-- *[[rangoric-srd/spells/Unfetter|Unfetter]]* (1 charge)
-- *[[rangoric-srd/spells/Evolution Surge, Lesser|Lesser evolution surge]]* (2 charges)
+- _[[rangoric-srd/spells/Rejuvenate Eidolon, Lesser|Lesser rejuvenate eidolon]]_ (1 charge)
+- _[[rangoric-srd/spells/Unfetter|Unfetter]]_ (1 charge)
+- _[[rangoric-srd/spells/Evolution Surge, Lesser|Lesser evolution surge]]_ (2 charges)
 
-Moderate conjuration and transmutation; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Evolution Surge, Lesser|lesser evolution surge]]*, *[[rangoric-srd/spells/Rejuvenate Eidolon, Lesser|lesser rejuvenate eidolon]]*, *[[rangoric-srd/spells/Unfetter|unfetter]]*; Price 14,400 gp; Cost 7,200 gp; Weight 5 lbs.
+Moderate conjuration and transmutation; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Evolution Surge, Lesser|lesser evolution surge]]_, _[[rangoric-srd/spells/Rejuvenate Eidolon, Lesser|lesser rejuvenate eidolon]]_, _[[rangoric-srd/spells/Unfetter|unfetter]]_; Price 14,400 gp; Cost 7,200 gp; Weight 5 lbs.

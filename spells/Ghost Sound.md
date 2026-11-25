@@ -32,16 +32,16 @@ tags: [rangoric, rangoric/spell]
 
 # Ghost Sound
 
-*Illusion (Figment)*
+_Illusion (Figment)_
 
-  - **Level**: Brd 0, Mag 0, Med 0, Mes 0, Occ 0, Psy 0, Skd 0, Sor/Wiz 0
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: Illusory sounds
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: Will disbelief (if interacted with)
-  - **Spell Resistance**: No
+- **Level**: Brd 0, Mag 0, Med 0, Mes 0, Occ 0, Psy 0, Skd 0, Sor/Wiz 0
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: Illusory sounds
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: Will disbelief (if interacted with)
+- **Spell Resistance**: No
 
 Ghost sound allows you to create a volume of sound that rises, recedes, approaches, or remains at a fixed place. You choose what type of sound ghost sound creates when casting it and cannot thereafter change the sound’s basic character.
 
@@ -51,4 +51,4 @@ Ghost sound can enhance the effectiveness of a silent image spell.
 
 Ghost sound can be made permanent with a permanency spell.
 
-*Material Component*: A bit of wool or a small lump of wax.
+_Material Component_: A bit of wool or a small lump of wax.

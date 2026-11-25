@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Blood Golem
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
-  - **Hit Dice**: 8d10+20 (64 hp)
-  - **Initiative**: +4
-  - **Speed**: 10 ft. (2 squares)
-  - **Armor Class**: 20 (+4 Dex, +6 natural), touch 14, flat-footed 16
-  - **Base Attack**: +8; **CMB**: +10 (+14 grapple); **CMD**: 24
-  - **Attack**: Slam +10 melee (2d6+2 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]] and [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: 2 slams +10 melee (2d6+2 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]] and [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6), [[rangoric-srd/monsters/abilities/Blood Drain|blood drain]] (1d2 Con), [[rangoric-srd/monsters/abilities/Constrict|constrict]] (2d6+2 plus bleed)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Clotted Skin|clotted skin]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Vulnerable to Bleed|vulnerable to bleed]]
-  - **Saves**: Fort +2, Ref +6, Will +4
-  - **Abilities**: Str 14, Dex 19, Con —, Int —, Wis 14, Cha 1
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Any
-  - **Organization**: Solitary or gang (2–4)
-  - **Challenge Rating**: 6
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
+- **Hit Dice**: 8d10+20 (64 hp)
+- **Initiative**: +4
+- **Speed**: 10 ft. (2 squares)
+- **Armor Class**: 20 (+4 Dex, +6 natural), touch 14, flat-footed 16
+- **Base Attack**: +8; **CMB**: +10 (+14 grapple); **CMD**: 24
+- **Attack**: Slam +10 melee (2d6+2 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]] and [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: 2 slams +10 melee (2d6+2 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]] and [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6), [[rangoric-srd/monsters/abilities/Blood Drain|blood drain]] (1d2 Con), [[rangoric-srd/monsters/abilities/Constrict|constrict]] (2d6+2 plus bleed)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Clotted Skin|clotted skin]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Vulnerable to Bleed|vulnerable to bleed]]
+- **Saves**: Fort +2, Ref +6, Will +4
+- **Abilities**: Str 14, Dex 19, Con —, Int —, Wis 14, Cha 1
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Any
+- **Organization**: Solitary or gang (2–4)
+- **Challenge Rating**: 6
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A blood golem is an animate mass of living blood. It can creep about in liquid form like an ooze, or create a thick skin made up of coagulated blood that allows it to walk upright like a person.
 
@@ -73,7 +73,7 @@ A blood golem is an animate mass of living blood. It can creep about in liquid f
 **Immunity to Magic (Ex)**: A blood golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature.
 
 - Cure spells affect it as if it were a living creature, but only cure the minimum amount of damage.
-- Spells and effects that specifically affect blood (such as *[[rangoric-srd/spells/Boiling Blood|boiling blood]]*) affect it normally.
+- Spells and effects that specifically affect blood (such as _[[rangoric-srd/spells/Boiling Blood|boiling blood]]_) affect it normally.
 
 **[[rangoric-srd/monsters/abilities/Vulnerable to Bleed|Vulnerable to Bleed]] (Ex)**: Bleed effects, blood drain, and attacks that target a creature's blood affect a blood golem normally. The golem can spend a full-round action to harden its clotted outer shell to end a bleed effect.
 
@@ -81,4 +81,4 @@ A blood golem is an animate mass of living blood. It can creep about in liquid f
 
 A blood golem's body must be constructed from the fresh blood of approximately 20 Medium creatures and alchemical fluids worth at least 500 gp.
 
-CL 7th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Animate Dead|animate dead]]*, *[[rangoric-srd/spells/Bleed|bleed]]*, *[[rangoric-srd/spells/Cure Critical Wounds|cure critical wounds]]*, *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, creator must be caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 17; Price 22,500 gp; Cost 11,500 gp.
+CL 7th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Dead|animate dead]]_, _[[rangoric-srd/spells/Bleed|bleed]]_, _[[rangoric-srd/spells/Cure Critical Wounds|cure critical wounds]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, creator must be caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 17; Price 22,500 gp; Cost 11,500 gp.

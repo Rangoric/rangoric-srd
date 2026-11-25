@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Picaroon
 
-*A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-archetypes|swashbuckler]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-archetypes|swashbuckler]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 While some swashbucklers take pride in their ability to wear down an opponent with great skill at arms and clever positioning, there are those who use firearms to get in close and hit hard.
 

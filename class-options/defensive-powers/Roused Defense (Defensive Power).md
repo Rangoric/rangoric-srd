@@ -13,6 +13,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Roused Defense
 
-*A [[rangoric-srd/prestige-classes/Stalwart Defender#Defensive Powers|defensive power]] (Ex).*
+_A [[rangoric-srd/prestige-classes/Stalwart Defender#Defensive Powers|defensive power]] (Ex)._
 
 The defender may enter a defensive stance even if fatigued. While maintaining a defensive stance after using this ability, he is immune to the fatigued condition. Once this stance ends, he is exhausted for 10 minutes per round spent in a defensive stance.

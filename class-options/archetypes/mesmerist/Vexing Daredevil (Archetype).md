@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Vexing Daredevil
 
-*A [[rangoric-srd/classes/Mesmerist#^mesmerist-archetypes|mesmerist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Mesmerist#^mesmerist-archetypes|mesmerist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A vexing daredevil trains her psychic powers for combat, blinding and confusing foes with sudden feints and tricks.
 
@@ -31,20 +31,20 @@ A vexing daredevil trains her psychic powers for combat, blinding and confusing 
 
 **Dazzling Feint (Su)**: At 3rd level, each time a vexing daredevil successfully feints against a creature under the effect of her [[rangoric-srd/classes/Mesmerist#^mesmerist-hypnotic-stare|hypnotic stare]], she also chooses one of her dazzling feint benefits to activate. Unless otherwise stated, a dazzling feint's benefit applies only on the vexing daredevil's next attack this round. She selects one dazzling feint at 3rd level and another every 4 levels thereafter. The DC for any saving throw against a dazzling feint's effect is equal to 10 + 1/2 the vexing daredevil's class level + her Charisma modifier. The vexing daredevil can't choose the same dazzling feint more than once.
 
-*Blinding Strike*: The vexing daredevil's weapon emits a bright flash of light into the opponent's eyes. If the vexing daredevil's next attack hits, the target must succeed at a Fortitude saving throw or be [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1 round.
+_Blinding Strike_: The vexing daredevil's weapon emits a bright flash of light into the opponent's eyes. If the vexing daredevil's next attack hits, the target must succeed at a Fortitude saving throw or be [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1 round.
 
-*Combat Maneuver*: The vexing daredevil's attack patterns become more difficult to discern. The vexing daredevil chooses one [[rangoric-srd/combat/Combat Maneuvers|combat maneuver]] when making this dazzling feint. For the rest of the round, she doesn't provoke an attack of opportunity when performing that combat maneuver against the target of her dazzling feint. This dazzling feint benefit applies on combat maneuvers instead of on the vexing daredevil's next attack.
+_Combat Maneuver_: The vexing daredevil's attack patterns become more difficult to discern. The vexing daredevil chooses one [[rangoric-srd/combat/Combat Maneuvers|combat maneuver]] when making this dazzling feint. For the rest of the round, she doesn't provoke an attack of opportunity when performing that combat maneuver against the target of her dazzling feint. This dazzling feint benefit applies on combat maneuvers instead of on the vexing daredevil's next attack.
 
-*Critical Strike*: Ever alert, the vexing daredevil hones in on the target's weak points. If her next attack is a critical threat against the target of this dazzling feint, the vexing daredevil gains a circumstance bonus on the roll to confirm that critical hit equal to +1 for every 3 mesmerist levels she possesses.
+_Critical Strike_: Ever alert, the vexing daredevil hones in on the target's weak points. If her next attack is a critical threat against the target of this dazzling feint, the vexing daredevil gains a circumstance bonus on the roll to confirm that critical hit equal to +1 for every 3 mesmerist levels she possesses.
 
-*Outmaneuver*: The vexing daredevil's darting movements foil the target's attempts to box her in. If her next attack hits, the vexing daredevil gains a +4 circumstance bonus on [[rangoric-srd/skills/Acrobatics|Acrobatics]] checks to move through the target's space or threatened area for 1 round. She can also move up to half her speed after the attack hits as a free action. If she wants to use Acrobatics to move through the target's threatened area or an enemy's space during this movement, she must reduce her speed or the DC of the Acrobatics check increases by 10, as normal.
+_Outmaneuver_: The vexing daredevil's darting movements foil the target's attempts to box her in. If her next attack hits, the vexing daredevil gains a +4 circumstance bonus on [[rangoric-srd/skills/Acrobatics|Acrobatics]] checks to move through the target's space or threatened area for 1 round. She can also move up to half her speed after the attack hits as a free action. If she wants to use Acrobatics to move through the target's threatened area or an enemy's space during this movement, she must reduce her speed or the DC of the Acrobatics check increases by 10, as normal.
 
-*Piercing Strike*: By psychically amplifying the target's pain, the vexing daredevil causes more damage. If she hits with her next attack and deals damage with her [[rangoric-srd/classes/Mesmerist#^mesmerist-painful-stare|painful stare]], she increases the damage dice from d6s to d8s.
+_Piercing Strike_: By psychically amplifying the target's pain, the vexing daredevil causes more damage. If she hits with her next attack and deals damage with her [[rangoric-srd/classes/Mesmerist#^mesmerist-painful-stare|painful stare]], she increases the damage dice from d6s to d8s.
 
-*Sloppy Defense*: The vexing daredevil's attacks effortlessly penetrate the target's defenses; she gains a +1 circumstance bonus on her next attack roll for every 5 mesmerist levels she possesses.
+_Sloppy Defense_: The vexing daredevil's attacks effortlessly penetrate the target's defenses; she gains a +1 circumstance bonus on her next attack roll for every 5 mesmerist levels she possesses.
 
-*Surprise Strike*: The vexing daredevil creates an opening so she can squeeze in another strike. If her next attack hits, she can make another attack at her highest attack bonus – 5 as a free action. The vexing daredevil must be at least 7th level to select this dazzling feint.
+_Surprise Strike_: The vexing daredevil creates an opening so she can squeeze in another strike. If her next attack hits, she can make another attack at her highest attack bonus – 5 as a free action. The vexing daredevil must be at least 7th level to select this dazzling feint.
 
 This ability replaces [[rangoric-srd/classes/Mesmerist#^mesmerist-bold-stare|bold stare]].
 
-**Shimmering Body (Sp)**: At 11th level, when a vexing daredevil moves in a round, until the beginning of her next turn, any target of her hypnotic stare sees her as a constantly shimmering form of light and treats her as if she were under a *[[rangoric-srd/spells/Blur|blur]]* spell. This ability replaces [[rangoric-srd/classes/Mesmerist#^mesmerist-glib-lie|glib lie]].
+**Shimmering Body (Sp)**: At 11th level, when a vexing daredevil moves in a round, until the beginning of her next turn, any target of her hypnotic stare sees her as a constantly shimmering form of light and treats her as if she were under a _[[rangoric-srd/spells/Blur|blur]]_ spell. This ability replaces [[rangoric-srd/classes/Mesmerist#^mesmerist-glib-lie|glib lie]].

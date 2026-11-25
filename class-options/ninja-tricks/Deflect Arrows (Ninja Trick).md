@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Deflect Arrows
 
-*A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]].*
+_A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]]._
 
 A ninja who selects this ninja trick gains the [[rangoric-srd/feats/Deflect Arrows|Deflect Arrows]] feat as a bonus feat. The ninja must have the [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]] combat feat before taking this trick.

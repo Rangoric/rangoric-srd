@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Fetchling Oracle
 
-*A [[rangoric-srd/races/Fetchling|fetchling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Oracle#^oracle-class-bonuses|oracle]] level.*
+_A [[rangoric-srd/races/Fetchling|fetchling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Oracle#^oracle-class-bonuses|oracle]] level._
 
 Treat the oracle's level as +1/3 higher for the purposes of determining which of its [[rangoric-srd/races/Fetchling|racial spell-like abilities]] it can use.

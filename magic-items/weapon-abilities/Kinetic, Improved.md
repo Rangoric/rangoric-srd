@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Kinetic, Improved
 
-As *kinetic*, but the maximum bonus is +5d6 damage and +5 to attack.
+As _kinetic_, but the maximum bonus is +5d6 damage and +5 to attack.
 
-Moderate transmutation; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Empower Spell|Empower Spell]], *[[rangoric-srd/spells/Bull’s Strength|bull’s strength]]*; Price +2 bonus.
+Moderate transmutation; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Empower Spell|Empower Spell]], _[[rangoric-srd/spells/Bull’s Strength|bull’s strength]]_; Price +2 bonus.

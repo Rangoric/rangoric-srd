@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Novice Scout
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf, Human)
-  - **Hit Dice**: 1d10+2 (12 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 16 (+3 armor, +3 Dex), touch 13, flat-footed 13
-  - **Base Attack**: +1; **CMB**: +3; **CMD**: 16
-  - **Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +3 melee (1d8+3/19–20) or [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +3 melee (1d6+2) or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +4 ranged (1d8/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +3 melee (1d8+3/19–20); or [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +3 melee (1d6+2); or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +4 ranged (1d8/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (orcs +2)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/classes/Ranger#^ranger-track|track]] +1, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +0, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
-  - **Saves**: Fort +3, Ref +5, Will +1 (+2 vs. enchantments)
-  - **Abilities**: Str 14, Dex 17, Con 12, Int 10, Wis 13, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Nature|Nature]] +4, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Society|Society]] +1, [[rangoric-srd/skills/Stealth|Stealth]] +7
-  - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Track|Track]]
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary, or with other half-elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
-  - **Challenge Rating**: 1/2
-  - **Treasure**: NPC gear (combat gear: potion of cure light wounds, alchemist's fire, masterwork arrows (3), smokestick; other gear: masterwork studded leather, longbow with 20 arrows, longsword, shortspear, 15 gp)
-  - **Alignment**: Lawful neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf, Human)
+- **Hit Dice**: 1d10+2 (12 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 16 (+3 armor, +3 Dex), touch 13, flat-footed 13
+- **Base Attack**: +1; **CMB**: +3; **CMD**: 16
+- **Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +3 melee (1d8+3/19–20) or [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +3 melee (1d6+2) or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +4 ranged (1d8/×3)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +3 melee (1d8+3/19–20); or [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +3 melee (1d6+2); or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +4 ranged (1d8/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (orcs +2)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/classes/Ranger#^ranger-track|track]] +1, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +0, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
+- **Saves**: Fort +3, Ref +5, Will +1 (+2 vs. enchantments)
+- **Abilities**: Str 14, Dex 17, Con 12, Int 10, Wis 13, Cha 8
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Nature|Nature]] +4, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Society|Society]] +1, [[rangoric-srd/skills/Stealth|Stealth]] +7
+- **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Track|Track]]
+- **Environment**: Temperate forests
+- **Organization**: Solitary, or with other half-elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
+- **Challenge Rating**: 1/2
+- **Treasure**: NPC gear (combat gear: potion of cure light wounds, alchemist's fire, masterwork arrows (3), smokestick; other gear: masterwork studded leather, longbow with 20 arrows, longsword, shortspear, 15 gp)
+- **Alignment**: Lawful neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A novice scout is a [[rangoric-srd/monsters/elf/Elf#Half-Elf|half-elf]] with 1 level of [[rangoric-srd/classes/Ranger|ranger]]. The novice scout is alert and eager to prove her worth.
 

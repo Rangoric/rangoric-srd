@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Chill Metal
 
-*Transmutation \[Cold\]*
+_Transmutation \[Cold\]_
 
-  - **Level**: Drd 2, Hun 2, Occ 2, Psy 2
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: Metal equipment of one creature per two levels, no two of which can be more than 30 ft. apart; or 25 lb. of metal/level, none of which can be more than 30 ft. away from any of the rest
-  - **Duration**: 7 rounds
-  - **Saving Throw**: Will negates (object)
-  - **Spell Resistance**: Yes (object)
+- **Level**: Drd 2, Hun 2, Occ 2, Psy 2
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: Metal equipment of one creature per two levels, no two of which can be more than 30 ft. apart; or 25 lb. of metal/level, none of which can be more than 30 ft. away from any of the rest
+- **Duration**: 7 rounds
+- **Saving Throw**: Will negates (object)
+- **Spell Resistance**: Yes (object)
 
 Chill metal makes metal extremely cold. Unattended, nonmagical metal gets no saving throw. Magical metal is allowed a saving throw against the spell. An item in a creature’s possession uses the creature’s saving throw bonus unless its own is higher.
 

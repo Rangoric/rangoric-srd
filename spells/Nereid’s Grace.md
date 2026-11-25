@@ -27,13 +27,13 @@ tags: [rangoric, rangoric/spell]
 
 # Nereid’s Grace
 
-*Enchantment (Charm) \[Mind-affecting\]*
+_Enchantment (Charm) \[Mind-affecting\]_
 
-  - **Level**: Drd 1, Hun 1, Wit 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: You
-  - **Duration**: 1 round/level
+- **Level**: Drd 1, Hun 1, Wit 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: You
+- **Duration**: 1 round/level
 
-You radiate the unearthly grace of a nereid. If you are not wearing armor (or your armor is not visible, such as when using *glamered* armor), you gain a deflection bonus to your Armor Class and CMD equal to your Charisma bonus.
+You radiate the unearthly grace of a nereid. If you are not wearing armor (or your armor is not visible, such as when using _glamered_ armor), you gain a deflection bonus to your Armor Class and CMD equal to your Charisma bonus.

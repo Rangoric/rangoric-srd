@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This cloth hat is floppy and shapeless. It offers its wearer an unusual amount of protection against particularly devastating blows. Once per day when struck by a critical hit, the wearer can spend an immediate action to convert the bonus damage of the critical hit into nonlethal damage. The cap has no effect if the wearer is immune to nonlethal damage.
 
-Faint conjuration; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Shield|shield]]*; Price 2,000 gp; Cost 1,000 gp; Weight 1 lb.
+Faint conjuration; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Shield|shield]]_; Price 2,000 gp; Cost 1,000 gp; Weight 1 lb.

@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Chill Touch
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Blr 1, Mag 1, Sha 1, Sor/Wiz 1, Spi 1, Wit 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Targets**: Creature or creatures touched (up to one/level)
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude partial or Will negates; see text
-  - **Spell Resistance**: Yes
+- **Level**: Blr 1, Mag 1, Sha 1, Sor/Wiz 1, Spi 1, Wit 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Targets**: Creature or creatures touched (up to one/level)
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude partial or Will negates; see text
+- **Spell Resistance**: Yes
 
 A touch from your hand, which glows with blue energy, disrupts the life force of living creatures. Each touch channels negative energy that deals 1d6 points of damage. The touched creature also takes 1 point of Strength damage unless it makes a successful Fortitude saving throw. You can use this melee touch attack up to one time per level.
 

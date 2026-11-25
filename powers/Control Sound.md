@@ -33,7 +33,7 @@ Target: One sound or mixture of related sounds
 Duration: Concentration, up to 1 min./level; see text  
 Saving Throw: None  
 Power Resistance: No  
-Power Points: 3  
+Power Points: 3
 
 You shape and alter existing sounds. You can target one sound, such as a person speaking or singing, or a group of related sounds, such as the patter of many raindrops or the tramp of soldiers passing by. A sound as quiet as a snapping finger can be controlled. You can substitute any sound you have heard for the target sound. If you attempt to exactly duplicate the voice of a specific individual, or an inherently terrifying sound (such as a dragon’s roar), you must succeed on a [[rangoric-srd/skills/Deception|Deception]] check with a +5 circumstance bonus opposed by the intended listener’s [[rangoric-srd/skills/Sense Motive|Sense Motive]] check to avoid arousing suspicion.
 

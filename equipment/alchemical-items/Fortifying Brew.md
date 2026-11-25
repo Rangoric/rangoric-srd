@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Fortifying Brew
 
-*Remedy*
+_Remedy_
 
 This liquid causes a pleasant warming sensation when consumed. For the next hour, you gain a +2 morale bonus on saving throws against fear. Using more than 1 dose within 24 hours causes you to become [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 hour.
 

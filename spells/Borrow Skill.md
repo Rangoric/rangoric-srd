@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Borrow Skill
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Brd 1, Med 1, Psy 1, Skd 1
-  - **Components**: S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: Up to 1 round/level (see description)
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Brd 1, Med 1, Psy 1, Skd 1
+- **Components**: S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: Up to 1 round/level (see description)
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 You borrow one of the target's known skills. After touching the subject, you can make a single check with the chosen skill using the subject's skill ranks, but modified by your own key ability. If you take longer than the spell's duration to make the check or the check requires more time, then it fails and you must use your own skill ranks (if any). If the borrowed skill is a class skill for you, you gain the +3 bonus on checks using that skill.

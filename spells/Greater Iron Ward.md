@@ -26,21 +26,21 @@ tags: [rangoric, rangoric/spell]
 
 # Greater Iron Ward
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Sor/Wiz 7
-  - **Components**: V, S, M, F
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Sor/Wiz 7
+- **Components**: V, S, M, F
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-Like *[[rangoric-srd/spells/Lesser Iron Ward|lesser iron ward]]*, except the spell protects the creature against non-magical metal and metal enchanted up to bonuses of +3.
+Like _[[rangoric-srd/spells/Lesser Iron Ward|lesser iron ward]]_, except the spell protects the creature against non-magical metal and metal enchanted up to bonuses of +3.
 
 Rumor has it that the upper echelons of the fey courts all wear rings with this spell permanently enspelled on them to prevent any difficulties with cold iron. Items providing these protections are among the most expensive magic items in the fey realm.
 
-*Material Component*: A tiny wooden shield.
+_Material Component_: A tiny wooden shield.
 
-*Focus:* A gem worth 100 gp carved into the shape of a shield.
+_Focus:_ A gem worth 100 gp carved into the shape of a shield.

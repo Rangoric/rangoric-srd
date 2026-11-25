@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/hammers, weapon-group/thrown]
 
 # Aklys
 
-*Exotic light melee weapon (performance, trip).* Cost 5 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Range Increment 20 ft.; Weight 2 lb.; Type Bludgeoning. ^stats
+_Exotic light melee weapon (performance, trip)._ Cost 5 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Range Increment 20 ft.; Weight 2 lb.; Type Bludgeoning. ^stats
 
 The aklys is a hooked throwing club with a 20-foot cord; you can retrieve the aklys after throwing it as a move action. The hook allows you to make trip attacks at range. Some aklyses have holes drilled through them and whistle when flung.
 

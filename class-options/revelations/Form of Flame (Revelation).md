@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Form of Flame
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Flame Mystery|flame]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Flame Mystery|flame]] mystery._
 
-As a standard action, you can assume the form of a Small fire elemental, as *[[rangoric-srd/spells/Elemental Body I|elemental body I]]*. At 9th level, you can assume the form of a Medium fire elemental, as *[[rangoric-srd/spells/Elemental Body II|elemental body II]]*. At 11th level, you can assume the form of a Large fire elemental, as *[[rangoric-srd/spells/Elemental Body III|elemental body III]]*. At 13th level, you can assume the form of a Huge fire elemental, as *[[rangoric-srd/spells/Elemental Body IV|elemental body IV]]*. You can use this ability once per day, but the duration is 1 hour/level. You must be at least 7th level to select this revelation.
+As a standard action, you can assume the form of a Small fire elemental, as _[[rangoric-srd/spells/Elemental Body I|elemental body I]]_. At 9th level, you can assume the form of a Medium fire elemental, as _[[rangoric-srd/spells/Elemental Body II|elemental body II]]_. At 11th level, you can assume the form of a Large fire elemental, as _[[rangoric-srd/spells/Elemental Body III|elemental body III]]_. At 13th level, you can assume the form of a Huge fire elemental, as _[[rangoric-srd/spells/Elemental Body IV|elemental body IV]]_. You can use this ability once per day, but the duration is 1 hour/level. You must be at least 7th level to select this revelation.

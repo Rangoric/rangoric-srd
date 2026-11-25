@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Legion Archon
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Archon, Extraplanar, Good, Lawful)
-  - **Hit Dice**: 8d10+32 (76 hp)
-  - **Initiative**: +1
-  - **Speed**: 40 ft. (8 squares), fly 90 ft. (average)
-  - **Armor Class**: 23 (+9 armor, +1 Dex, +3 natural; +2 deflection vs. evil), touch 11, flat-footed 22
-  - **Base Attack**: +8; **CMB**: +11; **CMD**: 22
-  - **Attack**: +1 flaming burst greatsword +13 melee (2d6+5/17–20 plus 1d6 fire) or +1 flaming javelin +10 ranged (1d6+4 plus 1d6 fire)
-  - **Full Attack**: +1 flaming burst greatsword +13/+8 melee (2d6+5/17–20 plus 1d6 fire); or +1 flaming javelin +10 ranged (1d6+4 plus 1d6 fire)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Flames of Faith|Flames of faith]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft. detect evil, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], aura of menace (DC 17), [[rangoric-srd/monsters/abilities/Second Skin|second skin]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 18
-  - **Saves**: Fort +10, Ref +3, Will +8
-  - **Abilities**: Str 16, Dex 12, Con 19, Int 10, Wis 15, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Theology|Theology]] +11
-  - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (greatsword), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatsword), [[rangoric-srd/feats/Whirlwind Attack|Whirlwind Attack]]
-  - **Environment**: Any (a lawful good-aligned plane: [[rangoric-srd/rules/planes/Heaven|Heaven]])
-  - **Organization**: Solitary, pair, or squad (3–12)
-  - **Challenge Rating**: 7
-  - **Treasure**: Standard (masterwork full plate, other treasure)
-  - **Alignment**: Usually lawful good
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Archon, Extraplanar, Good, Lawful)
+- **Hit Dice**: 8d10+32 (76 hp)
+- **Initiative**: +1
+- **Speed**: 40 ft. (8 squares), fly 90 ft. (average)
+- **Armor Class**: 23 (+9 armor, +1 Dex, +3 natural; +2 deflection vs. evil), touch 11, flat-footed 22
+- **Base Attack**: +8; **CMB**: +11; **CMD**: 22
+- **Attack**: +1 flaming burst greatsword +13 melee (2d6+5/17–20 plus 1d6 fire) or +1 flaming javelin +10 ranged (1d6+4 plus 1d6 fire)
+- **Full Attack**: +1 flaming burst greatsword +13/+8 melee (2d6+5/17–20 plus 1d6 fire); or +1 flaming javelin +10 ranged (1d6+4 plus 1d6 fire)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Flames of Faith|Flames of faith]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft. detect evil, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], aura of menace (DC 17), [[rangoric-srd/monsters/abilities/Second Skin|second skin]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 18
+- **Saves**: Fort +10, Ref +3, Will +8
+- **Abilities**: Str 16, Dex 12, Con 19, Int 10, Wis 15, Cha 17
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Theology|Theology]] +11
+- **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (greatsword), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatsword), [[rangoric-srd/feats/Whirlwind Attack|Whirlwind Attack]]
+- **Environment**: Any (a lawful good-aligned plane: [[rangoric-srd/rules/planes/Heaven|Heaven]])
+- **Organization**: Solitary, pair, or squad (3–12)
+- **Challenge Rating**: 7
+- **Treasure**: Standard (masterwork full plate, other treasure)
+- **Alignment**: Usually lawful good
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Where shield archons are the bulwarks of the armies of [[rangoric-srd/rules/planes/Heaven|Heaven]], legion archons are the swords, sent in file after file to match evil's boundless hordes.
 
@@ -72,7 +72,7 @@ Legion archons speak Celestial, Draconic and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +11): Constant—*[[rangoric-srd/spells/Detect Evil|detect evil]]*, *[[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]]*; At will—*[[rangoric-srd/spells/Aid|aid]]*, *[[rangoric-srd/spells/Continual Flame|continual flame]]*, *[[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (self plus 50 lbs. of objects only), *[[rangoric-srd/spells/Message|message]]*; 3/day—*[[rangoric-srd/spells/Align Weapon|align weapon]]*, *[[rangoric-srd/spells/Mirror Image|mirror image]]*, *[[rangoric-srd/spells/Versatile Weapon|versatile weapon]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +11): Constant—_[[rangoric-srd/spells/Detect Evil|detect evil]]_, _[[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]]_; At will—_[[rangoric-srd/spells/Aid|aid]]_, _[[rangoric-srd/spells/Continual Flame|continual flame]]_, _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Message|message]]_; 3/day—_[[rangoric-srd/spells/Align Weapon|align weapon]]_, _[[rangoric-srd/spells/Mirror Image|mirror image]]_, _[[rangoric-srd/spells/Versatile Weapon|versatile weapon]]_.
 
 **[[rangoric-srd/monsters/abilities/Flames of Faith|Flames of Faith]] (Ex)**: A legion archon can manifest a +1 flaming burst greatsword or +1 flaming javelin as a move-equivalent action. The legion archon's sword vanishes if it leaves its hand, and its javelin vanishes after striking or missing its target.
 

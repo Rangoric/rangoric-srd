@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Feral Mutagen
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]].*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]]._
 
 Whenever the alchemist imbibes a mutagen, he gains two claw attacks and a bite attack. These are primary attacks and are made using the alchemist’s full base attack bonus. The claw attacks deal 1d6 points of damage (1d4 if the alchemist is Small) and the bite attack deals 1d8 points of damage (1d6 if the alchemist is Small). While the mutagen is in effect, the alchemist gains a +2 competence bonus on Intimidation skill checks.

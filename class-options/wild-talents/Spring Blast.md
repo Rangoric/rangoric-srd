@@ -18,14 +18,14 @@ tags: [rangoric, rangoric/class-option]
 
 # Spring Blast
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Elements**: [[rangoric-srd/class-options/elements/Air Element|air]] and [[rangoric-srd/class-options/elements/Wood Element|wood]]
-  - **Type**: composite blast (Sp)
-  - **Level**: —
-  - **Burn**: 2
-  - **Prerequisites**: [[rangoric-srd/class-options/wild-talents/Air Blast|air blast]], [[rangoric-srd/class-options/wild-talents/Wood Blast|wood blast]]
-  - **Blast Type**: physical
-  - **Damage**: half bludgeoning and half slashing or piercing
+- **Elements**: [[rangoric-srd/class-options/elements/Air Element|air]] and [[rangoric-srd/class-options/elements/Wood Element|wood]]
+- **Type**: composite blast (Sp)
+- **Level**: —
+- **Burn**: 2
+- **Prerequisites**: [[rangoric-srd/class-options/wild-talents/Air Blast|air blast]], [[rangoric-srd/class-options/wild-talents/Wood Blast|wood blast]]
+- **Blast Type**: physical
+- **Damage**: half bludgeoning and half slashing or piercing
 
 Sharp blossoms and pummeling seeds buffet your foe.

@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/magic-item]
 
 This length of hemlock-shrouded oak gives off the faintest whiff of rot and corruption. It allows use of the following spells:
 
-- *[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]* (1 charge)
-- *[[rangoric-srd/spells/Cloudkill|cloudkill]]* (2 charges)
+- _[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_ (1 charge)
+- _[[rangoric-srd/spells/Cloudkill|cloudkill]]_ (2 charges)
 
-Moderate varied; CL 9th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Cloudkill|cloudkill]]*, *[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]*; Price 34,200 gp; Cost 17,100 gp; Weight 5 lbs.
+Moderate varied; CL 9th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Cloudkill|cloudkill]]_, _[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_; Price 34,200 gp; Cost 17,100 gp; Weight 5 lbs.

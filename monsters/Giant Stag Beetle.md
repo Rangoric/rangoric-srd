@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Giant Stag Beetle
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
-  - **Hit Dice**: 7d8+14 (45 hp)
-  - **Initiative**: +0
-  - **Speed**: 20 ft. (4 squares), fly 20 ft. (poor)
-  - **Armor Class**: 17 (+8 natural, –1 size), touch 9, flat-footed 17
-  - **Base Attack**: +5; **CMB**: +10; **CMD**: 20 (28 vs. trip)
-  - **Attack**: Bite +8 melee (2d8+6)
-  - **Full Attack**: Bite +8 melee (2d8+6)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (1d6+6, DC 17)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-  - **Saves**: Fort +7, Ref +2, Will +2
-  - **Abilities**: Str 19, Dex 10, Con 15, Int —, Wis 10, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –6
-  - **Feats**: —
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary, pair, cluster (3–6), or mass (6–11)
-  - **Challenge Rating**: 4
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 8–10 HD (Large); 11–21 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
+- **Hit Dice**: 7d8+14 (45 hp)
+- **Initiative**: +0
+- **Speed**: 20 ft. (4 squares), fly 20 ft. (poor)
+- **Armor Class**: 17 (+8 natural, –1 size), touch 9, flat-footed 17
+- **Base Attack**: +5; **CMB**: +10; **CMD**: 20 (28 vs. trip)
+- **Attack**: Bite +8 melee (2d8+6)
+- **Full Attack**: Bite +8 melee (2d8+6)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (1d6+6, DC 17)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
+- **Saves**: Fort +7, Ref +2, Will +2
+- **Abilities**: Str 19, Dex 10, Con 15, Int —, Wis 10, Cha 9
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –6
+- **Feats**: —
+- **Environment**: Temperate forests
+- **Organization**: Solitary, pair, cluster (3–6), or mass (6–11)
+- **Challenge Rating**: 4
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 8–10 HD (Large); 11–21 HD (Huge)
+- **Level Adjustment**: —
 
 Nearly 10 feet long, giant stag beetles become serious dangers when they wander into logging camps due to their appetite for decaying wood. Called stag beetles because of their large, antler-like mandibles, they use these appendages to wrestle competing suitors and quickly put down enemy threats.
 

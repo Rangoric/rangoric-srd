@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Thoughtsense (Caulborn)
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “thoughtsense”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “thoughtsense”, on the Special Qualities line.
 
 A caulborn notices and locates living, conscious creatures within 60 feet, just as if it possessed the blindsight ability. Spells such as nondetection or mind blank make an affected creature undetectable by this sense. The [[rangoric-srd/monsters/Caulborn|caulborn]] has it.

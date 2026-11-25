@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Hollow Heroism, Greater
 
-*Enchantment (Compulsion) \[MindAffecting, Ruse\]*
+_Enchantment (Compulsion) \[MindAffecting, Ruse\]_
 
-  - **Level**: Brd 6, Psy 7, Skd 6, Sor/Wiz 7, Wit 7
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: Caster level minute(s)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 6, Psy 7, Skd 6, Sor/Wiz 7, Wit 7
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: Caster level minute(s)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
-This spell functions as [[rangoric-srd/spells/Heroism, Greater|Greater Heroism]], except that you can reverse the spell by issuing a special command as a standard action if you are within medium range (100 feet + 10 feet per caster level) of the target. The target loses the bonuses and instead takes a -4 penalty on attack rolls, saving throws, and skill checks until the spell's duration ends (no save), increasing to a -8 penalty against fear effects. Additionally, she takes damage equal to your caster level when you reverse the spell. Attempts to identify *greater hollow heroism* with a skill check incorrectly identify it as *[[rangoric-srd/spells/Heroism, Greater|greater heroism]]*.
+This spell functions as [[rangoric-srd/spells/Heroism, Greater|Greater Heroism]], except that you can reverse the spell by issuing a special command as a standard action if you are within medium range (100 feet + 10 feet per caster level) of the target. The target loses the bonuses and instead takes a -4 penalty on attack rolls, saving throws, and skill checks until the spell's duration ends (no save), increasing to a -8 penalty against fear effects. Additionally, she takes damage equal to your caster level when you reverse the spell. Attempts to identify _greater hollow heroism_ with a skill check incorrectly identify it as _[[rangoric-srd/spells/Heroism, Greater|greater heroism]]_.

@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Hidden Magic
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Intrigue Mystery|intrigue]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Intrigue Mystery|intrigue]] mystery._
 
 You gain the [[rangoric-srd/feats/Conceal Spell|Conceal Spell]] feat as a bonus feat without needing to meet the prerequisites.
 

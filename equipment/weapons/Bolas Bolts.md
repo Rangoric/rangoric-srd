@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/weapon]
 
 # Bolas Bolts
 
-*Ammunition for slaver's crossbows.* Cost 20 gp; Weight 4 lb. ^stats
+_Ammunition for slaver's crossbows._ Cost 20 gp; Weight 4 lb. ^stats
 
 Bolas bolts are bolas-like projectiles used as ammunition for slaver's crossbows. If you hit a target with a bolas bolt fired from a slaver's crossbow, attempt a [[rangoric-srd/combat/Combat Maneuvers#Trip|trip combat maneuver]] against your target (don't add your Strength bonus when attempting the combat maneuver check). You can't be tripped during your own trip attempt when using a bolas bolt.
 

@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This small iron locket contains some token—a scale, a shaving of a horn or claw, or lock of burning hair—from a fiend. When worn by a [[rangoric-srd/races/Tiefling|tiefling]], if he has cold, electricity, or fire [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy|resistance]], this amulet increases that resistance by 5. Furthermore, it provides a +4 insight bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] skill checks made to influence evil outsiders.
 
-Faint abjuration; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Resist Energy|resist energy]]*, creator must be a tiefling, half-fiend, or true fiend; Price 9,000 gp; Cost 4,500 gp; Weight 1 lb.
+Faint abjuration; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Resist Energy|resist energy]]_, creator must be a tiefling, half-fiend, or true fiend; Price 9,000 gp; Cost 4,500 gp; Weight 1 lb.

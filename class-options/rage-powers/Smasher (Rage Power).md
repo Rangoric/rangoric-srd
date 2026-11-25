@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Smasher
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 Whenever the barbarian attempts a [[rangoric-srd/combat/Combat Maneuvers|sunder]] combat maneuver or makes an attack against an unattended object, she ignores 1 point of the object's hardness per barbarian level she has.

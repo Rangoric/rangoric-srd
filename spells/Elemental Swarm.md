@@ -32,16 +32,16 @@ tags: [rangoric, rangoric/spell]
 
 # Elemental Swarm
 
-*Conjuration (Summoning) \[see text\]*
+_Conjuration (Summoning) \[see text\]_
 
-  - **Level**: Air 9, Drd 9, Earth 9, Fire 9, Sha 9, Water 9, Wit 9
-  - **Components**: V, S
-  - **Casting Time**: 10 minutes
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: Two or more summoned creatures, no two of which can be more than 30 ft. apart
-  - **Duration**: 10 min./level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Air 9, Drd 9, Earth 9, Fire 9, Sha 9, Water 9, Wit 9
+- **Components**: V, S
+- **Casting Time**: 10 minutes
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: Two or more summoned creatures, no two of which can be more than 30 ft. apart
+- **Duration**: 10 min./level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 This spell opens a portal to an Elemental Plane and summons elementals from it. A druid can choose the plane (Air, Earth, Fire, or Water); a cleric opens a portal to the plane matching his domain.
 

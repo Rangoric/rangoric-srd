@@ -22,30 +22,31 @@ The table can also be used to budget gear for characters starting above 1st leve
 
 **Table: CHARACTER WEALTH BY LEVEL**
 
-| Character Level | Wealth |
-| --- | --- |
-| 2 | 1,000 gp |
-| 3 | 3,000 gp |
-| 4 | 6,000 gp |
-| 5 | 10,500 gp |
-| 6 | 16,000 gp |
-| 7 | 23,500 gp |
-| 8 | 33,000 gp |
-| 9 | 46,000 gp |
-| 10 | 62,000 gp |
-| 11 | 82,000 gp |
-| 12 | 108,000 gp |
-| 13 | 140,000 gp |
-| 14 | 185,000 gp |
-| 15 | 240,000 gp |
-| 16 | 315,000 gp |
-| 17 | 410,000 gp |
-| 18 | 530,000 gp |
-| 19 | 685,000 gp |
-| 20 | 880,000 gp |
+| Character Level | Wealth     |
+| --------------- | ---------- |
+| 2               | 1,000 gp   |
+| 3               | 3,000 gp   |
+| 4               | 6,000 gp   |
+| 5               | 10,500 gp  |
+| 6               | 16,000 gp  |
+| 7               | 23,500 gp  |
+| 8               | 33,000 gp  |
+| 9               | 46,000 gp  |
+| 10              | 62,000 gp  |
+| 11              | 82,000 gp  |
+| 12              | 108,000 gp |
+| 13              | 140,000 gp |
+| 14              | 185,000 gp |
+| 15              | 240,000 gp |
+| 16              | 315,000 gp |
+| 17              | 410,000 gp |
+| 18              | 530,000 gp |
+| 19              | 685,000 gp |
+| 20              | 880,000 gp |
+
 ^character-wealth-by-level
 
-*A 1st-level character has only the gear and gold it starts with.*
+_A 1st-level character has only the gear and gold it starts with._
 
 ##### Monsters with Treasure
 
@@ -198,10 +199,10 @@ For treasures above 20th level, use the 20th-level row and then add a number of 
 
 | Level | Magic Items | Level | Magic Items | Level | Magic Items |
 | ----- | ----------- | ----- | ----------- | ----- | ----------- |
-| 21st  | +1         | 25th  | +9         | 28th  | +23        |
-| 22nd  | +2         | 26th  | +12        | 29th  | +31        |
-| 23rd  | +4         | 27th  | +17        | 30th  | +42        |
-| 24th  | +6         |       |             |       |             |
+| 21st  | +1          | 25th  | +9          | 28th  | +23         |
+| 22nd  | +2          | 26th  | +12         | 29th  | +31         |
+| 23rd  | +4          | 27th  | +17         | 30th  | +42         |
+| 24th  | +6          |       |             |       |             |
 
 **Table: GEMS**
 

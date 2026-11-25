@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Gnome Monk
 
-*A [[rangoric-srd/races/Gnome|gnome]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Monk#^monk-class-bonuses|monk]] or [[rangoric-srd/classes/Unchained Monk#^unchained-monk-class-bonuses|unchained monk]] level.*
+_A [[rangoric-srd/races/Gnome|gnome]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Monk#^monk-class-bonuses|monk]] or [[rangoric-srd/classes/Unchained Monk#^unchained-monk-class-bonuses|unchained monk]] level._
 
-Add +1 to the monk's [[rangoric-srd/skills/Athletics|Athletics]] check bonus gained by spending a point from his *ki* pool to [[rangoric-srd/classes/Monk#^monk-high-jump|jump]]. Only monk levels from 5th on add to this bonus.
+Add +1 to the monk's [[rangoric-srd/skills/Athletics|Athletics]] check bonus gained by spending a point from his _ki_ pool to [[rangoric-srd/classes/Monk#^monk-high-jump|jump]]. Only monk levels from 5th on add to this bonus.

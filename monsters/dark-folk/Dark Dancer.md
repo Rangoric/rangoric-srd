@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Dark Dancer
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Dark Folk)
-  - **Hit Dice**: 2d8+4 (13 hp)
-  - **Initiative**: +4
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 15 (+4 Dex, +1 size), touch 15, flat-footed 11
-  - **Base Attack**: +1; **CMB**: +0; **CMD**: 14
-  - **Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +2 melee (1d4) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +6 melee (1d3/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +2 melee (1d4); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +6 melee (1d3/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bardic Performance|Bardic performance]] (7 rounds), [[rangoric-srd/monsters/abilities/Dark Curse|dark curse]], death throes, sneak attack +1d6, [[rangoric-srd/monsters/abilities/Poison|poison]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/See in Darkness|See in darkness]], [[rangoric-srd/monsters/abilities/Poison|poison]] use, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
-  - **Saves**: Fort +2, Ref +7, Will +0
-  - **Abilities**: Str 11, Dex 19, Con 14, Int 8, Wis 10, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +4, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Performance|Performance]] (dance) +2, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +12
-  - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any underground
-  - **Organization**: Solitary, pair, troupe (3–5), or delegation (1 plus 1 dark stalker and 4–10 dark creepers)
-  - **Challenge Rating**: 1
-  - **Treasure**: Standard (club, dagger, black smear poison [3 doses], other gear)
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Dark Folk)
+- **Hit Dice**: 2d8+4 (13 hp)
+- **Initiative**: +4
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 15 (+4 Dex, +1 size), touch 15, flat-footed 11
+- **Base Attack**: +1; **CMB**: +0; **CMD**: 14
+- **Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +2 melee (1d4) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +6 melee (1d3/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +2 melee (1d4); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +6 melee (1d3/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bardic Performance|Bardic performance]] (7 rounds), [[rangoric-srd/monsters/abilities/Dark Curse|dark curse]], death throes, sneak attack +1d6, [[rangoric-srd/monsters/abilities/Poison|poison]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/See in Darkness|See in darkness]], [[rangoric-srd/monsters/abilities/Poison|poison]] use, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
+- **Saves**: Fort +2, Ref +7, Will +0
+- **Abilities**: Str 11, Dex 19, Con 14, Int 8, Wis 10, Cha 13
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +4, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Performance|Performance]] (dance) +2, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +12
+- **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any underground
+- **Organization**: Solitary, pair, troupe (3–5), or delegation (1 plus 1 dark stalker and 4–10 dark creepers)
+- **Challenge Rating**: 1
+- **Treasure**: Standard (club, dagger, black smear poison [3 doses], other gear)
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Though still clad in the tattered dark clothing worn by other dark folk, dark dancers appear to be the most decorated and festive of these strange humanoids. They are intermediaries between clans and factions, and thus clans can't restrict the actions of dark dancers in their realms. Dark dancers answer only to dark stalkers and dark callers.
 

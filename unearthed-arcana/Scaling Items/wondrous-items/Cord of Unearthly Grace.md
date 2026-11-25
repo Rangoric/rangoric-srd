@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/scaling-item]
 
 # Cord of Unearthly Grace
 
-*A scaling item ([[rangoric-srd/unearthed-arcana/Scaling Items/Scaling Items#^value-of-scaling-items|prize]]): its powers unlock as its wielder gains levels.*
+_A scaling item ([[rangoric-srd/unearthed-arcana/Scaling Items/Scaling Items#^value-of-scaling-items|prize]]): its powers unlock as its wielder gains levels._
 
 When tied around the waist, this humble, coarse rope grants its wearer a +10 competence bonus on [[rangoric-srd/skills/Acrobatics|Acrobatics]] checks relating to balance.
 
@@ -32,4 +32,4 @@ When tied around the waist, this humble, coarse rope grants its wearer a +10 com
 
 **12th Level**: The wearer can use the belt's ability to increase his speed and ignore difficult terrain three times per day.
 
-Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*, *[[rangoric-srd/spells/Grace|grace]]*, creator must have 10 ranks in the [[rangoric-srd/skills/Acrobatics|Acrobatics]] skill; Price 5,000 gp; Cost 8,100 gp; Weight 1 lb.
+Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/Grace|grace]]_, creator must have 10 ranks in the [[rangoric-srd/skills/Acrobatics|Acrobatics]] skill; Price 5,000 gp; Cost 8,100 gp; Weight 1 lb.

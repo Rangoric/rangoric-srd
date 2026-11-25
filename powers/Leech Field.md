@@ -27,7 +27,7 @@ Psychometabolism
 **Range:** Personal; see text  
 **Target:** You  
 **Duration:** 1 min.  
-**Power Points:** 9  
+**Power Points:** 9
 
 You raise a field of potentiality that drains the vitality from powers that you successfully save against. When you succeed on a saving throw to negate the effect of a foe’s power on you, and the power is one that leech field is effective against (see below), your body erupts in a brief flash of crackling dark energy. You gain 1 power point for every 2 power points your foe spent to manifest the power you just saved against (to a maximum number of points equal to your manifester level). You cannot gain power points that would cause you to exceed your normal daily maximum.
 

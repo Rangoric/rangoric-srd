@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Magician
 
-*A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A magician dabbles in performance, but sees it as a means to tap into universal energies and channel them.
 
@@ -32,7 +32,7 @@ A magician dabbles in performance, but sees it as a means to tap into universal 
 
 **Dweomercraft (Su)**: A magician can use performance to manipulate magical energies. Allies of the magician gain a +1 bonus on caster level checks, [[rangoric-srd/rules/Concentration (Check)|concentration checks]], and attack rolls with spells and spell-like abilities. This bonus increases by +1 at 5th level and every six levels thereafter. This ability relies on visual and audible components. It replaces [[rangoric-srd/classes/Bard#^inspire-courage|inspire courage]].
 
-**Spell Suppression (Su)**: At 8th level, a magician can use performance to counter the spells of his foes. Once the bard begins using this performance, he tracks the number of rounds it has been in use. While performing, as an immediate action, he can attempt to counter any spell that he can identify using [[rangoric-srd/skills/Arcana|Arcana]], so long as that spell's level is equal or less than the total number of rounds he has been performing spell suppression. The attempt to counter the spell is made as if using *[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, using the bard's level as the caster level. If successful, the bardic performance immediately ends. This ability requires audible components. This performance replaces [[rangoric-srd/classes/Bard#^bard-dirge-of-doom|dirge of doom]].
+**Spell Suppression (Su)**: At 8th level, a magician can use performance to counter the spells of his foes. Once the bard begins using this performance, he tracks the number of rounds it has been in use. While performing, as an immediate action, he can attempt to counter any spell that he can identify using [[rangoric-srd/skills/Arcana|Arcana]], so long as that spell's level is equal or less than the total number of rounds he has been performing spell suppression. The attempt to counter the spell is made as if using _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, using the bard's level as the caster level. If successful, the bardic performance immediately ends. This ability requires audible components. This performance replaces [[rangoric-srd/classes/Bard#^bard-dirge-of-doom|dirge of doom]].
 
 **Metamagic Mastery (Ex)**: At 14th level, a magician can use performance to apply a metamagic feat to a spell he is about to cast without increasing the casting time. The bard must still expend a higher-level slot to cast this spell. This causes the performance to immediately end. This ability requires audible components. This performance replaces [[rangoric-srd/classes/Bard#^bard-frightening-tune|frightening tune]].
 

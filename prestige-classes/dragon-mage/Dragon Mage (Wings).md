@@ -37,18 +37,18 @@ Dragon mages who attune their troves to this aspect discover an increased awaren
 
 **Table: The Dragon Mage (Wings)** ^table-the-dragon-mage-wings
 
-| Level | Special | Spells per Day | Required Trove Value |
-| --- | --- | --- | --- |
-| 1st | Trove awareness | +1 level of existing spellcasting class | 6,750 gp |
-| 2nd | Siphon magic | +1 level of existing spellcasting class | 9,750 gp |
-| 3rd | — | +1 level of existing spellcasting class | 14,250 gp |
-| 4th | — | +1 level of existing spellcasting class | 20,250 gp |
-| 5th | Distant potions | +1 level of existing spellcasting class | 27,500 gp |
-| 6th | — | +1 level of existing spellcasting class | 46,750 gp |
-| 7th | Attuned rings | +1 level of existing spellcasting class | 82,500 gp |
-| 8th | — | +1 level of existing spellcasting class | 112,500 gp |
-| 9th | Healing sacrifice | +1 level of existing spellcasting class | 150,000 gp |
-| 10th | — | +1 level of existing spellcasting class | 195,000 gp |
+| Level | Special           | Spells per Day                          | Required Trove Value |
+| ----- | ----------------- | --------------------------------------- | -------------------- |
+| 1st   | Trove awareness   | +1 level of existing spellcasting class | 6,750 gp             |
+| 2nd   | Siphon magic      | +1 level of existing spellcasting class | 9,750 gp             |
+| 3rd   | —                 | +1 level of existing spellcasting class | 14,250 gp            |
+| 4th   | —                 | +1 level of existing spellcasting class | 20,250 gp            |
+| 5th   | Distant potions   | +1 level of existing spellcasting class | 27,500 gp            |
+| 6th   | —                 | +1 level of existing spellcasting class | 46,750 gp            |
+| 7th   | Attuned rings     | +1 level of existing spellcasting class | 82,500 gp            |
+| 8th   | —                 | +1 level of existing spellcasting class | 112,500 gp           |
+| 9th   | Healing sacrifice | +1 level of existing spellcasting class | 150,000 gp           |
+| 10th  | —                 | +1 level of existing spellcasting class | 195,000 gp           |
 
 ###### Class Features
 

@@ -26,4 +26,4 @@ This crude wax figure looks like an unfinished sculpture of a humanoid. It can b
 
 A waxen image can be blinded, damaged or targeted with a touch spell as a ganji doll can, except that the bound creature is unaffected if it's more than 100 feet from the image. A waxen image can be used only once, and melts as soon as it's used.
 
-Moderate necromancy; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Bestow Curse|bestow curse]]*; Price 500 gp; Cost 250 gp; Weight 1/2 lb.
+Moderate necromancy; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_; Price 500 gp; Cost 250 gp; Weight 1/2 lb.

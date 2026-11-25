@@ -28,10 +28,10 @@ Adherents to the Aspect of the Air promote the cleansing manifestation of air, w
 
 How these effects work is in [[rangoric-srd/races/aspects-of-nature/Aspects of Nature#Aspect of Nature Effects|Aspect of Nature Effects]].
 
-| Facet | Bonus | Penalty |
-| --- | --- | --- |
-| Clear Skies | capable spellcasting (electricity) | crude spellcasting (acid) |
-| The Cyclone | +1 to Attack rolls 3x/day | -1 to Attack rolls 3x/day |
-| The Hurricane | +1 to Damage rolls 3x/day | -1 to Damage rolls 3x/day |
-| The Typhoon | +1 to AC 3x/day | -1 to AC 3x/day |
-| The Winds | +1 to Reflex saving throws | -1 to Fortitude saving throws |
+| Facet         | Bonus                              | Penalty                       |
+| ------------- | ---------------------------------- | ----------------------------- |
+| Clear Skies   | capable spellcasting (electricity) | crude spellcasting (acid)     |
+| The Cyclone   | +1 to Attack rolls 3x/day          | -1 to Attack rolls 3x/day     |
+| The Hurricane | +1 to Damage rolls 3x/day          | -1 to Damage rolls 3x/day     |
+| The Typhoon   | +1 to AC 3x/day                    | -1 to AC 3x/day               |
+| The Winds     | +1 to Reflex saving throws         | -1 to Fortitude saving throws |

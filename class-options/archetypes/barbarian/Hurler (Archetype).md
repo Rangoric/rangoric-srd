@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Hurler
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-archetypes|barbarian]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-archetypes|barbarian]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A raging barbarian is frightening enough in melee, but some become skilled at throwing objects at their foes before closing in for the kill. A hurler has the following class feature.
 

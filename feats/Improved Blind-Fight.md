@@ -21,4 +21,4 @@ Your keen senses guide your hand against hidden foes.
 
 If you pinpoint an invisible or hidden attacker within 30 feet, it gains no advantage on ranged attacks against you: you keep your Dexterity bonus to AC, and it doesn’t get the usual +2 bonus for being invisible.
 
-**Special**: Improved Blind-Fight is no use against a creature under a *[[rangoric-srd/spells/Blink|blink]]* spell.
+**Special**: Improved Blind-Fight is no use against a creature under a _[[rangoric-srd/spells/Blink|blink]]_ spell.

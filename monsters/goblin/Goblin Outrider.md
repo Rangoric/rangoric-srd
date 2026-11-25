@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Goblin Outrider
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Goblinoid)
-  - **Hit Dice**: 2d10+4 (19 hp)
-  - **Initiative**: +4
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 20 (+3 armor, +4 Dex, +2 shield, +1 size), touch 15, flat-footed 16
-  - **Base Attack**: +2; **CMB**: +2; **CMD**: 16
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dogslicer|dogslicer]] +5 melee (1d4+1/19–20) or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +7 ranged (1d4/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dogslicer|dogslicer]] +5 melee (1d4+1/19–20); or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +7 ranged (1d4/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (mounted combat), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (humans +2)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Ranger|track]] +1, [[rangoric-srd/classes/Ranger|wild empathy]] +0
-  - **Saves**: Fort +4, Ref +7, Will +1
-  - **Abilities**: Str 13, Dex 18, Con 13, Int 10, Wis 12, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +14
-  - **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Track|Track]]
-  - **Environment**: Temperate forest and plains (usually coastal regions)
-  - **Organization**: Solitary, or with other goblins (see [[rangoric-srd/monsters/goblin/Goblin|Goblin]])
-  - **Challenge Rating**: 1
-  - **Treasure**: NPC gear (combat gear: potion of bull's strength, potions of cure light wounds (2), alchemist's fire (4), tanglefoot bags (2); other gear: studded leather, heavy wooden shield, masterwork dogslicer, shortbow with 20 masterwork arrows, tindertwigs (7), [[rangoric-srd/monsters/Giant Gecko|giant gecko]] mount, 2 gp)
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Goblinoid)
+- **Hit Dice**: 2d10+4 (19 hp)
+- **Initiative**: +4
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 20 (+3 armor, +4 Dex, +2 shield, +1 size), touch 15, flat-footed 16
+- **Base Attack**: +2; **CMB**: +2; **CMD**: 16
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dogslicer|dogslicer]] +5 melee (1d4+1/19–20) or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +7 ranged (1d4/×3)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dogslicer|dogslicer]] +5 melee (1d4+1/19–20); or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +7 ranged (1d4/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (mounted combat), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (humans +2)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Ranger|track]] +1, [[rangoric-srd/classes/Ranger|wild empathy]] +0
+- **Saves**: Fort +4, Ref +7, Will +1
+- **Abilities**: Str 13, Dex 18, Con 13, Int 10, Wis 12, Cha 6
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +14
+- **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Track|Track]]
+- **Environment**: Temperate forest and plains (usually coastal regions)
+- **Organization**: Solitary, or with other goblins (see [[rangoric-srd/monsters/goblin/Goblin|Goblin]])
+- **Challenge Rating**: 1
+- **Treasure**: NPC gear (combat gear: potion of bull's strength, potions of cure light wounds (2), alchemist's fire (4), tanglefoot bags (2); other gear: studded leather, heavy wooden shield, masterwork dogslicer, shortbow with 20 masterwork arrows, tindertwigs (7), [[rangoric-srd/monsters/Giant Gecko|giant gecko]] mount, 2 gp)
+- **Alignment**: Usually neutral evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A goblin outrider is a [[rangoric-srd/monsters/goblin/Goblin|goblin]] with 2 levels of [[rangoric-srd/classes/Ranger|ranger]], one of the goblin riders. It has the [[rangoric-srd/races/class-bonuses/Goblin Ranger (Class Bonus)|goblin ranger class bonus]]: +1 on damage dealt to dogs and horses (and doglike and horselike creatures). Goblins love riding ferocious mounts into battle.
 

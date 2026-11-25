@@ -51,18 +51,18 @@ The defender’s class skills (and the key ability for each skill) are [[rangori
 
 **Table: The Stalwart Defender**
 
-| Level | AC Bonus | Special                                      |
-| ----- | -------- | -------------------------------------------- |
-| 1st   | +1      | Defensive stance 1/day                       |
-| 2nd   | +1      | Uncanny dodge, defensive power |
-| 3rd   | +1      | Defensive stance 2/day                       |
-| 4th   | +2      | Trap sense +1, defensive power |
-| 5th   | +2      | Defensive stance 3/day                       |
-| 6th   | +2      | Damage reduction 3/–, defensive power, improved uncanny dodge |
-| 7th   | +3      | Defensive stance 4/day                       |
-| 8th   | +3      | Defensive power, mobile defense, trap sense +2 |
-| 9th   | +3      | Defensive stance 5/day                       |
-| 10th  | +4      | Damage reduction 6/–, defensive power, last word |
+| Level | AC Bonus | Special                                                       |
+| ----- | -------- | ------------------------------------------------------------- |
+| 1st   | +1       | Defensive stance 1/day                                        |
+| 2nd   | +1       | Uncanny dodge, defensive power                                |
+| 3rd   | +1       | Defensive stance 2/day                                        |
+| 4th   | +2       | Trap sense +1, defensive power                                |
+| 5th   | +2       | Defensive stance 3/day                                        |
+| 6th   | +2       | Damage reduction 3/–, defensive power, improved uncanny dodge |
+| 7th   | +3       | Defensive stance 4/day                                        |
+| 8th   | +3       | Defensive power, mobile defense, trap sense +2                |
+| 9th   | +3       | Defensive stance 5/day                                        |
+| 10th  | +4       | Damage reduction 6/–, defensive power, last word              |
 
 ###### Class Features
 

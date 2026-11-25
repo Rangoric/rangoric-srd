@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Pounce
 
-*A 1-point evolution (Ex) for a [[rangoric-srd/classes/Summoner|summoner]]’s eidolon.*
+_A 1-point evolution (Ex) for a [[rangoric-srd/classes/Summoner|summoner]]’s eidolon._
 
 An eidolon gains quick reflexes, allowing it to make a full attack after a charge. This evolution is only available to eidolons of the quadruped base form.

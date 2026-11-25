@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Spider
 
-*A [[rangoric-srd/class-options/archetypes/hunter/Verminous Hunter (Archetype)|vermin focus]] (Su), which a verminous hunter takes in place of the [[rangoric-srd/classes/Hunter#^hunter-animal-focus|animal focus]].*
+_A [[rangoric-srd/class-options/archetypes/hunter/Verminous Hunter (Archetype)|vermin focus]] (Su), which a verminous hunter takes in place of the [[rangoric-srd/classes/Hunter#^hunter-animal-focus|animal focus]]._
 
 The creature gains a +2 competence bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks, saving throws against web effects (magical or otherwise), and checks to break free of webs. This bonus increases to +4 at 8th level and +6 at 15th level.

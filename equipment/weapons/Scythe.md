@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades]
 
 # Scythe
 
-*Martial two-handed melee weapon (trip).* Cost 18 gp; Dmg 1d6 (S), 2d4 (M); Critical x4; Weight 10 lb.; Type Piercing or slashing. ^stats
+_Martial two-handed melee weapon (trip)._ Cost 18 gp; Dmg 1d6 (S), 2d4 (M); Critical x4; Weight 10 lb.; Type Piercing or slashing. ^stats
 
 A scythe can be used to make trip attacks. If you are tripped during your own trip attempt, you can drop the scythe to avoid being tripped.

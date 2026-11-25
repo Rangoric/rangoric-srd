@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Avian Escape
 
-*A mesmerist’s [[rangoric-srd/classes/Mesmerist#^mesmerist-masterful-tricks|masterful trick]] (Su).*
+_A mesmerist’s [[rangoric-srd/classes/Mesmerist#^mesmerist-masterful-tricks|masterful trick]] (Su)._
 
-The subject changes shape to elude an attacking enemy. The mesmerist can trigger this trick when the subject takes damage from an enemy’s attack. The subject transforms into a bird (as *[[rangoric-srd/spells/Beast Shape III|beast shape III]]*). Though the subject can appear as any Tiny bird, it uses the statistics for a [[rangoric-srd/monsters/Raven|raven]]. This is a polymorph effect.
+The subject changes shape to elude an attacking enemy. The mesmerist can trigger this trick when the subject takes damage from an enemy’s attack. The subject transforms into a bird (as _[[rangoric-srd/spells/Beast Shape III|beast shape III]]_). Though the subject can appear as any Tiny bird, it uses the statistics for a [[rangoric-srd/monsters/Raven|raven]]. This is a polymorph effect.

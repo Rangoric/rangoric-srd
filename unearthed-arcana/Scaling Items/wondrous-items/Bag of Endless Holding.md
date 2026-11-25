@@ -21,14 +21,14 @@ tags: [rangoric, rangoric/scaling-item]
 
 # Bag of Endless Holding
 
-*A scaling item ([[rangoric-srd/unearthed-arcana/Scaling Items/Scaling Items#^value-of-scaling-items|bauble]]): its powers unlock as its wielder gains levels.*
+_A scaling item ([[rangoric-srd/unearthed-arcana/Scaling Items/Scaling Items#^value-of-scaling-items|bauble]]): its powers unlock as its wielder gains levels._
 
-This appears to be a common cloth sack about 2 feet by 4 feet in size. However, it opens into a nondimensional space far larger than its outside dimensions. It acts as a *bag of holding* (type I), but retrieving an item from the bag does not provoke an attack of opportunity.
+This appears to be a common cloth sack about 2 feet by 4 feet in size. However, it opens into a nondimensional space far larger than its outside dimensions. It acts as a _bag of holding_ (type I), but retrieving an item from the bag does not provoke an attack of opportunity.
 
-**12th Level**: The bag's capacity and weight increase as a *bag of holding* (type II).
+**12th Level**: The bag's capacity and weight increase as a _bag of holding_ (type II).
 
-**14th Level***:* The bag's capacity and weight increase as a *bag of holding* (type III).
+**14th Level\***:* The bag's capacity and weight increase as a *bag of holding\* (type III).
 
-**15th Level**: The bag's capacity and weight increase as a *bag of holding* (type IV).
+**15th Level**: The bag's capacity and weight increase as a _bag of holding_ (type IV).
 
-Moderate transmutation; CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Secret Chest|secret chest]]*; Price 3,100 gp; Cost 6,000 gp; Weight 15 lbs.
+Moderate transmutation; CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Secret Chest|secret chest]]_; Price 3,100 gp; Cost 6,000 gp; Weight 15 lbs.

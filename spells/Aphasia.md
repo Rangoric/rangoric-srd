@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Aphasia
 
-*Enchantment (Compulsion) \[MindAffecting\]*
+_Enchantment (Compulsion) \[MindAffecting\]_
 
-  - **Level**: Brd 1, Mes 1, Psy 1, Skd 1, Sor/Wiz 1, Wit 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: Caster level round(s)
-  - **Saving Throw**: Will negates (see text)
-  - **Spell Resistance**: Yes
+- **Level**: Brd 1, Mes 1, Psy 1, Skd 1, Sor/Wiz 1, Wit 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: Caster level round(s)
+- **Saving Throw**: Will negates (see text)
+- **Spell Resistance**: Yes
 
-You render the target unable to understand any language, including spoken language, written language, sign language, gestures attempting to mimic a crude language, or even truespeech and telepathy. The affected creature is unable to communicate, use command words, cast spells with verbal components, or use any other abilities that requires language. At the end of each of its turns, the subject can attempt a new saving throw to end the effect. *[[rangoric-srd/spells/Tongues|Tongues]]* counters and dispels *aphasia*, and a creature with the *[[rangoric-srd/spells/Tongues|tongues]]* spell active is immune to *aphasia*. [[rangoric-srd/classes/Oracle|Oracles]] with the [[rangoric-srd/class-options/curses/Tongues Curse|tongues curse]] ignore *aphasia* in combat.
+You render the target unable to understand any language, including spoken language, written language, sign language, gestures attempting to mimic a crude language, or even truespeech and telepathy. The affected creature is unable to communicate, use command words, cast spells with verbal components, or use any other abilities that requires language. At the end of each of its turns, the subject can attempt a new saving throw to end the effect. _[[rangoric-srd/spells/Tongues|Tongues]]_ counters and dispels _aphasia_, and a creature with the _[[rangoric-srd/spells/Tongues|tongues]]_ spell active is immune to _aphasia_. [[rangoric-srd/classes/Oracle|Oracles]] with the [[rangoric-srd/class-options/curses/Tongues Curse|tongues curse]] ignore _aphasia_ in combat.

@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Hospitaler
 
-*A [[rangoric-srd/classes/Paladin#^paladin-archetypes|paladin]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Paladin#^paladin-archetypes|paladin]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Paladins are known for their charity and for tending to the sick. The hospitaler takes to this calling above all others, spending much of her time healing the poor, and giving aid and succor to those in need. The hospitaler has the following class features.
 

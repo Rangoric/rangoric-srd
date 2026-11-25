@@ -17,4 +17,4 @@ Your blood courses with power, granting you greater spell-like abilities.
 
 **Prerequisites**: Able to use [[rangoric-srd/races/Drow|drow]] spell-like abilities, [[rangoric-srd/races/Drow|drow]].
 
-**Benefit**: You may use *[[rangoric-srd/spells/Detect Magic|detect magic]]* as a spell-like ability at will, and add *[[rangoric-srd/spells/Feather Fall|feather fall]]* and *[[rangoric-srd/spells/Levitate|levitate]]* to the spell-like abilities that you may use once each per day. Your caster level is equal to your character level.
+**Benefit**: You may use _[[rangoric-srd/spells/Detect Magic|detect magic]]_ as a spell-like ability at will, and add _[[rangoric-srd/spells/Feather Fall|feather fall]]_ and _[[rangoric-srd/spells/Levitate|levitate]]_ to the spell-like abilities that you may use once each per day. Your caster level is equal to your character level.

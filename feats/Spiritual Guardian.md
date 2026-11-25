@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/feat]
 
 Your spiritual guardians are more powerful than those of most others.
 
-**Prerequisites**: Ability to cast *[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]* or *[[rangoric-srd/spells/Spiritual Ally|spiritual ally]]*, [[rangoric-srd/classes/Shaman#^shaman-spirit-magic|spirit magic]] class feature.
+**Prerequisites**: Ability to cast _[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]_ or _[[rangoric-srd/spells/Spiritual Ally|spiritual ally]]_, [[rangoric-srd/classes/Shaman#^shaman-spirit-magic|spirit magic]] class feature.
 
-**Benefit**: Whenever you cast *[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]*, *[[rangoric-srd/spells/Spiritual Ally|spiritual ally]]* or a similar spell that grants you a spiritual guardian, that guardian uses your [[rangoric-srd/classes/Shaman|shaman]] level instead of your base attack bonus to determine its base attack bonus, potentially granting it multiple attacks. Additionally, it gains a +2 bonus on caster level checks to overcome spell resistance as well as on damage rolls.
+**Benefit**: Whenever you cast _[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]_, _[[rangoric-srd/spells/Spiritual Ally|spiritual ally]]_ or a similar spell that grants you a spiritual guardian, that guardian uses your [[rangoric-srd/classes/Shaman|shaman]] level instead of your base attack bonus to determine its base attack bonus, potentially granting it multiple attacks. Additionally, it gains a +2 bonus on caster level checks to overcome spell resistance as well as on damage rolls.

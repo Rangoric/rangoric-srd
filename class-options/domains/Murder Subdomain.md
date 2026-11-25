@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Murder Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Death Domain|Death]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Death Domain|Death]] domain._
 
 ## Replacement Power
 
@@ -27,8 +27,8 @@ This power replaces the [[rangoric-srd/class-options/domains/Death Domain#Grante
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 3rd | [[rangoric-srd/spells/Keen Edge\|Keen Edge]] | Doubles normal weapon’s threat range. |
-| 5th | [[rangoric-srd/spells/Suffocation\|Suffocation]] (M) | Target quickly suffocates to death. |
-| 9th | [[rangoric-srd/spells/Suffocation, Mass\|Mass Suffocation]] (M) | One creature/level suffocates to death. |
+| Level | Spell                                                           | Brief Description                       |
+| ----- | --------------------------------------------------------------- | --------------------------------------- |
+| 3rd   | [[rangoric-srd/spells/Keen Edge\|Keen Edge]]                    | Doubles normal weapon’s threat range.   |
+| 5th   | [[rangoric-srd/spells/Suffocation\|Suffocation]] (M)            | Target quickly suffocates to death.     |
+| 9th   | [[rangoric-srd/spells/Suffocation, Mass\|Mass Suffocation]] (M) | One creature/level suffocates to death. |

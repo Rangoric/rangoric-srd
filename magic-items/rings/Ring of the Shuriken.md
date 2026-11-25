@@ -20,4 +20,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This steel band creates three shuriken upon command in the wearer’s hand. As this is a free action, the weapons can be thrown immediately. These shuriken vanish at the end of the following round and are identical to normal ones in all respects.
 
-CL 3rd; [[rangoric-srd/feats/Forge Ring|Forge Ring]], *[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]*; Price 2,000 gp.
+CL 3rd; [[rangoric-srd/feats/Forge Ring|Forge Ring]], _[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]_; Price 2,000 gp.

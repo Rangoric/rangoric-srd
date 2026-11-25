@@ -25,6 +25,6 @@ tags: [rangoric, rangoric/armor]
 
 # Wooden Armor
 
-*Light armor.* Cost 20 gp; Armor Bonus +3; Maximum Dex Bonus +3; Armor Check Penalty –1; Arcane Spell Failure 15%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 25 lb. ^stats
+_Light armor._ Cost 20 gp; Armor Bonus +3; Maximum Dex Bonus +3; Armor Check Penalty –1; Arcane Spell Failure 15%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 25 lb. ^stats
 
 This suit of leather armor has plates of fire-treated wood sewn over vital areas. Though not as effective as metal armor, it offers better protection than leather alone. Unlike metal armor, the wood is slightly buoyant, and the armor check penalty for [[rangoric-srd/skills/Athletics|Athletics]] checks made to swim is 0.

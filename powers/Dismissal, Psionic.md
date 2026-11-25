@@ -31,6 +31,6 @@ Target: One extraplanar creature
 Duration: Instantaneous  
 Saving Throw: Will negates  
 Power Resistance: Yes  
-Power Points: 7  
+Power Points: 7
 
 As the [[rangoric-srd/spells/Dismissal|dismissal]] spell, except as noted here.

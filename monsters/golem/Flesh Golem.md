@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Flesh Golem
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
-  - **Hit Dice**: 9d10+30 (79 hp)
-  - **Initiative**: –1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 20 (–1 Dex, +12 natural, –1 size), touch 8, flat-footed 20
-  - **Base Attack**: +9; **CMB**: +15; **CMD**: 24
-  - **Attack**: Slam +13 melee (2d8+5)
-  - **Full Attack**: 2 slams +13 melee (2d8+5)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: Berserk
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]]
-  - **Saves**: Fort +3, Ref +2, Will +3
-  - **Abilities**: Str 20, Dex 9, Con —, Int —, Wis 11, Cha 1
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Any
-  - **Organization**: Solitary or gang (2–4)
-  - **Challenge Rating**: 7
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 10–18 HD (Large); 19–27 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
+- **Hit Dice**: 9d10+30 (79 hp)
+- **Initiative**: –1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 20 (–1 Dex, +12 natural, –1 size), touch 8, flat-footed 20
+- **Base Attack**: +9; **CMB**: +15; **CMD**: 24
+- **Attack**: Slam +13 melee (2d8+5)
+- **Full Attack**: 2 slams +13 melee (2d8+5)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: Berserk
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]]
+- **Saves**: Fort +3, Ref +2, Will +3
+- **Abilities**: Str 20, Dex 9, Con —, Int —, Wis 11, Cha 1
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Any
+- **Organization**: Solitary or gang (2–4)
+- **Challenge Rating**: 7
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 10–18 HD (Large); 19–27 HD (Huge)
+- **Level Adjustment**: —
 
 A flesh golem is a ghoulish collection of stolen humanoid body parts, stitched together into a single composite form. Its cadaverous flesh has a sickly green or yellowish tint. A flesh golem wears whatever clothing its creator desires, usually just a ragged pair of trousers. It has no possessions and no weapons. A flesh golem stands 8 feet tall and weighs 500 pounds.
 
@@ -81,5 +81,5 @@ CL 8th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/s
 
 **Immunity to Magic (Ex)**: A flesh golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
 
-- A magical attack that deals cold or fire damage slows a flesh golem (as the *[[rangoric-srd/spells/Slow|slow]]* spell) for 2d6 rounds (no save).
-- A magical attack that deals electricity damage breaks any *[[rangoric-srd/spells/Slow|slow]]* effect on the golem and heals 1 point of damage for every 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A flesh golem gets no saving throw against attacks that deal electricity damage.
+- A magical attack that deals cold or fire damage slows a flesh golem (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 2d6 rounds (no save).
+- A magical attack that deals electricity damage breaks any _[[rangoric-srd/spells/Slow|slow]]_ effect on the golem and heals 1 point of damage for every 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A flesh golem gets no saving throw against attacks that deal electricity damage.

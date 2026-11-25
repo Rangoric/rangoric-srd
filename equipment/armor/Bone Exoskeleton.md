@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Bone Exoskeleton
 
-*Light armor.* Cost 1,300 gp; Armor Bonus +3; Maximum Dex Bonus +6; Armor Check Penalty –2; Arcane Spell Failure 15%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 15 lb. ^stats
+_Light armor._ Cost 1,300 gp; Armor Bonus +3; Maximum Dex Bonus +6; Armor Check Penalty –2; Arcane Spell Failure 15%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 15 lb. ^stats
 
 Thin strips of bone line the outside of a hide shirt, making this armor both light and durable. Although it offers excellent protection compared to most light armor, it does not have the durability of comparable metal armor. This armor may be worn by druids without penalty.

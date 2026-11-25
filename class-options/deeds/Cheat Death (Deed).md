@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Cheat Death
 
-*A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-deeds|swashbuckler deed]] (Ex), 19th level.*
+_A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-deeds|swashbuckler deed]] (Ex), 19th level._
 
 At 19th level, whenever the swashbuckler is reduced to 0 hit points or fewer, she can spend all of her remaining panache to instead be reduced to 1 hit point. She must have at least 1 panache point to spend. Effects that kill the swashbuckler outright without dealing hit point damage are not affected by this ability.

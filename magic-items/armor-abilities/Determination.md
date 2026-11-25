@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Determination
 
-A shield or armor with the *determination* special ability provides the ability to fight on even in the face of seemingly impossible odds. Once per day, when the owner reaches 0 or fewer hit points, the item automatically provides a *[[rangoric-srd/spells/Breath of Life|breath of life]]* spell.
+A shield or armor with the _determination_ special ability provides the ability to fight on even in the face of seemingly impossible odds. Once per day, when the owner reaches 0 or fewer hit points, the item automatically provides a _[[rangoric-srd/spells/Breath of Life|breath of life]]_ spell.
 
-Moderate conjuration; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Breath of Life|breath of life]]*; Price +30,000 gp.
+Moderate conjuration; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Breath of Life|breath of life]]_; Price +30,000 gp.

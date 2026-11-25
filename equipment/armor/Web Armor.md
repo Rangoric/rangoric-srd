@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Web Armor
 
-*Light armor.* Cost 100 gp; Armor Bonus +2; Maximum Dex Bonus +8; Armor Check Penalty 0; Arcane Spell Failure 7%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 5 lb. ^stats
+_Light armor._ Cost 100 gp; Armor Bonus +2; Maximum Dex Bonus +8; Armor Check Penalty 0; Arcane Spell Failure 7%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 5 lb. ^stats
 
 Web armor is made from light but resilient silk harvested from domesticated monstrous spider. The armor provides as much protection as leather, but its lighter weight is less inhibiting. Even some arcane spellcasters are willing to wear web armor because of its low chance to inhibit spellcasting.

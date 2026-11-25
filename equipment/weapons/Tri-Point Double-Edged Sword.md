@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/monk, eastern]
 
 # Tri-Point Double-Edged Sword
 
-*Martial two-handed melee weapon (monk, reach).* Cost 12 gp; Dmg 1d8 (S), 1d10 (M); Critical x3; Weight 14 lb.; Type Piercing. ^stats
+_Martial two-handed melee weapon (monk, reach)._ Cost 12 gp; Dmg 1d8 (S), 1d10 (M); Critical x3; Weight 14 lb.; Type Piercing. ^stats
 
 Topping the head of this 5-foot-long shaft are three long, backward-curved blades fashioned in the appearance of a blossoming lotus. The unusually large head is designed to land heavy blows and multiple wounds that open away from each other.
 

@@ -27,7 +27,7 @@ Manifesting Time: 10 minutes or longer; see text
 Range: Personal  
 Target: You  
 Duration: One day/level (D) or until discharged  
-Power Points: 11, XP  
+Power Points: 11, XP
 
 You can place another power upon your person so that it comes into effect under some condition you dictate when manifesting psionic contingency. The psionic contingency power and the companion power are manifest at the same time. The 10-minute manifesting time is the minimum total for both manifestations; if the companion power has a manifesting time longer than 10 minutes, use that instead. The power to be brought into effect by the psionic contingency must be one that affects your person and be of a power level no higher than one-third your manifester level (rounded down, maximum 6th level).
 

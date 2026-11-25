@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Light Blindness
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “light blindness”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “light blindness”, on the Special Qualities line.
 
 Abrupt exposure to bright light blinds the creature for 1 round, and it is dazzled while it stays in bright light: see [[rangoric-srd/rules/Special Abilities and Conditions#Light Blindness|light blindness]].

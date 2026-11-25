@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Deinonychus
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 4d8+16 (34 hp)
-  - **Initiative**: +6
-  - **Speed**: 60 ft. (12 squares)
-  - **Armor Class**: 15 (+2 Dex, +3 natural), touch 12, flat-footed 13
-  - **Base Attack**: +3; **CMB**: +5; **CMD**: 17
-  - **Attack**: Talon +5 melee (1d8+2) or bite +5 melee (1d6+2) or foreclaw +0 melee (1d4+1)
-  - **Full Attack**: 2 talons +5 melee (1d8+2) and bite +5 melee (1d6+2) and foreclaws +0 melee (1d4+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +8, Ref +6, Will +2
-  - **Abilities**: Str 15, Dex 15, Con 19, Int 2, Wis 12, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +2 (+14 jumping), [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +15
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Run|Run]]
-  - **Environment**: Warm forests
-  - **Organization**: Solitary, pair, or pack (3–12)
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 5–8 HD (Medium)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 4d8+16 (34 hp)
+- **Initiative**: +6
+- **Speed**: 60 ft. (12 squares)
+- **Armor Class**: 15 (+2 Dex, +3 natural), touch 12, flat-footed 13
+- **Base Attack**: +3; **CMB**: +5; **CMD**: 17
+- **Attack**: Talon +5 melee (1d8+2) or bite +5 melee (1d6+2) or foreclaw +0 melee (1d4+1)
+- **Full Attack**: 2 talons +5 melee (1d8+2) and bite +5 melee (1d6+2) and foreclaws +0 melee (1d4+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +8, Ref +6, Will +2
+- **Abilities**: Str 15, Dex 15, Con 19, Int 2, Wis 12, Cha 14
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +2 (+14 jumping), [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +15
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Run|Run]]
+- **Environment**: Warm forests
+- **Organization**: Solitary, pair, or pack (3–12)
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 5–8 HD (Medium)
+- **Level Adjustment**: —
 
 As swift and agile as it is deadly, the deinonychus is a pack hunter, running with several of its kind to take down prey and rip it apart with their gutting talons.
 

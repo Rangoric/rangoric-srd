@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option, rangoric/trap]
 
 # Swarm Trap
 
-*A [[rangoric-srd/class-options/ranger-traps/Ranger Traps|ranger trap]] (Ex or Su).*
+_A [[rangoric-srd/class-options/ranger-traps/Ranger Traps|ranger trap]] (Ex or Su)._
 
 - **Type**: mechanical or magic
 - **Trigger**: location; **Reset**: none; [[rangoric-srd/class-options/ranger-traps/Ranger Traps#^ranger-traps-dc|DCs]] and [[rangoric-srd/class-options/ranger-traps/Ranger Traps#^ranger-traps-duration|duration]] as for every ranger trap

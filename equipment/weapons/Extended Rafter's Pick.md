@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes, weapon-group/pole-arms]
 
 # Extended Rafter's Pick
 
-*Martial two-handed melee weapon (reach).* Cost 250 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 8 lb.; Type Piercing. ^stats
+_Martial two-handed melee weapon (reach)._ Cost 250 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 8 lb.; Type Piercing. ^stats
 
 This weapon’s primary function is as a tool useful for climbing and exploring. In its normal form, it resembles a small pick or ice axe and can be used either for climbing or for digging through soft earth and rockfalls.
 

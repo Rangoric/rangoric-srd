@@ -17,7 +17,7 @@ The taint of the grave runs through your family. Perhaps one of your ancestors b
 
 **Class Skill**: [[rangoric-srd/skills/Theology|Theology]].
 
-**Bonus Spells**: *[[rangoric-srd/spells/Chill Touch|chill touch]]* (3rd), *[[rangoric-srd/spells/False Life|false life]]* (5th), *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]* (7th), *[[rangoric-srd/spells/Animate Dead|animate dead]]* (9th), *[[rangoric-srd/spells/Waves of Fatigue|waves of fatigue]]* (11th), *[[rangoric-srd/spells/Undeath to Death|undeath to death]]* (13th), *[[rangoric-srd/spells/Finger of Death|finger of death]]* (15th), *[[rangoric-srd/spells/Horrid Wilting|horrid wilting]]* (17th), *[[rangoric-srd/spells/Energy Drain|energy drain]]* (19th).
+**Bonus Spells**: _[[rangoric-srd/spells/Chill Touch|chill touch]]_ (3rd), _[[rangoric-srd/spells/False Life|false life]]_ (5th), _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_ (7th), _[[rangoric-srd/spells/Animate Dead|animate dead]]_ (9th), _[[rangoric-srd/spells/Waves of Fatigue|waves of fatigue]]_ (11th), _[[rangoric-srd/spells/Undeath to Death|undeath to death]]_ (13th), _[[rangoric-srd/spells/Finger of Death|finger of death]]_ (15th), _[[rangoric-srd/spells/Horrid Wilting|horrid wilting]]_ (17th), _[[rangoric-srd/spells/Energy Drain|energy drain]]_ (19th).
 
 **Bonus Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Theology), [[rangoric-srd/feats/Spell Focus|Spell Focus]], [[rangoric-srd/feats/Still Spell|Still Spell]], [[rangoric-srd/feats/Toughness|Toughness]].
 

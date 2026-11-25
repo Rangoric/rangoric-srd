@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Trackless
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “trackless”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “trackless”, on the Special Qualities line.
 
 The creature sweeps its tail behind itself in a way that obscures its tracks. Attempts to track the creature have their normal DC increased by +10. The [[rangoric-srd/monsters/Hodag|hodag]] has it.

@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/spell]
 
 # Mass Frog
 
-Transmutation   
+Transmutation  
 Casting DC: 55  
 Components: V, S  
 Casting Time: 1 standard action  
@@ -32,6 +32,6 @@ Area: 40-ft.-radius hemisphere
 Duration: Permanent  
 Saving Throw: Fortitude negates  
 Spell Resistance: Yes  
-To Develop: 495,000 gp; 10 days; 19,800 XP. Seed: transform (DC 21). Factors: change target to area of 20-ft. hemisphere (+10 DC), increase area by 100% (+4 DC), 1 action casting time (+20 DC).  
+To Develop: 495,000 gp; 10 days; 19,800 XP. Seed: transform (DC 21). Factors: change target to area of 20-ft. hemisphere (+10 DC), increase area by 100% (+4 DC), 1 action casting time (+20 DC).
 
 This epic spell turns all Medium or smaller creatures in the area into frogs. The transformed creatures retain their mental faculties, including personality, Intelligence, Wisdom, and Charisma scores, level and class, hit points (despite any change in Consitution score), alignment, base attack bonus, base save bonuses, extraordinary abilities, spells, and spell-like abilities, but not supernatural abilities. They assume the physical characteristics of frogs, including natural size and Strength, Dexterity, and Constitution scores. (Use the statistics for the toad.) All the creatures’ equipment drops to the ground upon transformation.

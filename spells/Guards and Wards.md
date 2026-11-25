@@ -26,28 +26,28 @@ tags: [rangoric, rangoric/spell]
 
 # Guards and Wards
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Sor/Wiz 6, Wit 6
-  - **Components**: V, S, M, F
-  - **Casting Time**: 30 minutes
-  - **Range**: Anywhere within the area to be warded
-  - **Area**: Up to 200 sq. ft./level (S)
-  - **Duration**: 2 hours/level (D)
-  - **Saving Throw**: See text
-  - **Spell Resistance**: See text
+- **Level**: Sor/Wiz 6, Wit 6
+- **Components**: V, S, M, F
+- **Casting Time**: 30 minutes
+- **Range**: Anywhere within the area to be warded
+- **Area**: Up to 200 sq. ft./level (S)
+- **Duration**: 2 hours/level (D)
+- **Saving Throw**: See text
+- **Spell Resistance**: See text
 
 This powerful spell is primarily used to defend your stronghold. The ward protects 200 square feet per caster level. The warded area can be as much as 20 feet high, and shaped as you desire. You can ward several stories of a stronghold by dividing the area among them; you must be somewhere within the area to be warded to cast the spell. The spell creates the following magical effects within the warded area.
 
-*Fog*: Fog fills all corridors, obscuring all sight, including darkvision, beyond 5 feet. A creature within 5 feet has concealment (attacks have a 20% miss chance). Creatures farther away have total concealment (50% miss chance, and the attacker cannot use sight to locate the target). Saving Throw: None. Spell Resistance: No.
+_Fog_: Fog fills all corridors, obscuring all sight, including darkvision, beyond 5 feet. A creature within 5 feet has concealment (attacks have a 20% miss chance). Creatures farther away have total concealment (50% miss chance, and the attacker cannot use sight to locate the target). Saving Throw: None. Spell Resistance: No.
 
-*Arcane Locks*: All doors in the warded area are arcane locked. Saving Throw: None. Spell Resistance: No.
+_Arcane Locks_: All doors in the warded area are arcane locked. Saving Throw: None. Spell Resistance: No.
 
-*Webs*: Webs fill all stairs from top to bottom. These strands are identical with those created by the web spell, except that they regrow in 10 minutes if they are burned or torn away while the guards and wards spell lasts. Saving Throw: Reflex negates; see text for web. Spell Resistance: No.
+_Webs_: Webs fill all stairs from top to bottom. These strands are identical with those created by the web spell, except that they regrow in 10 minutes if they are burned or torn away while the guards and wards spell lasts. Saving Throw: Reflex negates; see text for web. Spell Resistance: No.
 
-*Confusion*: Where there are choices in direction—such as a corridor intersection or side passage—a minor confusion-type effect functions so as to make it 50% probable that intruders believe they are going in the opposite direction from the one they actually chose. This is an enchantment, mind-affecting effect. Saving Throw: None. Spell Resistance: Yes.
+_Confusion_: Where there are choices in direction—such as a corridor intersection or side passage—a minor confusion-type effect functions so as to make it 50% probable that intruders believe they are going in the opposite direction from the one they actually chose. This is an enchantment, mind-affecting effect. Saving Throw: None. Spell Resistance: Yes.
 
-*Lost Doors*: One door per caster level is covered by a silent image to appear as if it were a plain wall. Saving Throw: Will disbelief (if interacted with). Spell Resistance: No.
+_Lost Doors_: One door per caster level is covered by a silent image to appear as if it were a plain wall. Saving Throw: Will disbelief (if interacted with). Spell Resistance: No.
 
 In addition, you can place your choice of one of the following five magical effects.
 
@@ -63,6 +63,6 @@ In addition, you can place your choice of one of the following five magical effe
 
 The whole warded area radiates strong magic of the abjuration school. A dispel magic cast on a specific effect, if successful, removes only that effect. A successful Mage’s disjunction destroys the entire guards and wards effect.
 
-*Material Component*: Burning incense, a small measure of brimstone and oil, a knotted string, and a small amount of blood.
+_Material Component_: Burning incense, a small measure of brimstone and oil, a knotted string, and a small amount of blood.
 
-*Focus*: A small silver rod.
+_Focus_: A small silver rod.

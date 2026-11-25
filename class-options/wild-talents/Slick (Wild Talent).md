@@ -18,13 +18,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Slick
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Water Element|water]]
-  - **Type**: utility (Sp)
-  - **Level**: 1
-  - **Burn**: 0
-  - **Saving Throw**: Reflex negates
-  - **Spell Resistance**: no
+- **Element**: [[rangoric-srd/class-options/elements/Water Element|water]]
+- **Type**: utility (Sp)
+- **Level**: 1
+- **Burn**: 0
+- **Saving Throw**: Reflex negates
+- **Spell Resistance**: no
 
-As a standard action, you call forth slippery water or ice, creating any of the effects of the *[[rangoric-srd/spells/Grease|grease]]* spell for 1 round. You can accept 1 point of [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]] at the start of your next turn to extend the duration to 1 minute per kineticist level you possess.
+As a standard action, you call forth slippery water or ice, creating any of the effects of the _[[rangoric-srd/spells/Grease|grease]]_ spell for 1 round. You can accept 1 point of [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]] at the start of your next turn to extend the duration to 1 minute per kineticist level you possess.

@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Fell Rider
 
-*A [[rangoric-srd/classes/Cavalier#^cavalier-archetypes|cavalier]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Hobgoblin|hobgoblins]].*
+_A [[rangoric-srd/classes/Cavalier#^cavalier-archetypes|cavalier]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Hobgoblin|hobgoblins]]._
 
 The fell rider rides a bestial steed, a mount mastered by him alone. He tramples his enemies down, leaving twisted bodies in his wake, and fear rides with him.
 

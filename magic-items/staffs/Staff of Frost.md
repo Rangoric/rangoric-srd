@@ -20,8 +20,8 @@ tags: [rangoric, rangoric/magic-item]
 
 Tipped on either end with a glistening diamond, this rune-covered staff allows use of the following spells:
 
-  - [[rangoric-srd/spells/Ice Storm|Ice storm]] (1 charge)
-  - [[rangoric-srd/spells/Wall of Ice|Wall of ice]] (1 charge)
-  - [[rangoric-srd/spells/Cone of Cold|Cone of cold]] (2 charge)
+- [[rangoric-srd/spells/Ice Storm|Ice storm]] (1 charge)
+- [[rangoric-srd/spells/Wall of Ice|Wall of ice]] (1 charge)
+- [[rangoric-srd/spells/Cone of Cold|Cone of cold]] (2 charge)
 
 Moderate evocation; CL 10th; Craft Staff, cone of cold, ice storm, wall of ice; Price 56,250 gp.

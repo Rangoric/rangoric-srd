@@ -21,32 +21,32 @@ Travel between the mortal worlds and the fey realm happens, like that of any pla
 
 **Table: Fey Doorways** ^table-fey-doorways
 
-| Doorway Shape | Color | Endpoints |
-| --- | --- | --- |
-| Arched | Blue | Both in the fey realm |
-| Rectangular | Greenish-blue | One in the fey realm, one in a mortal world |
+| Doorway Shape    | Color         | Endpoints                                                           |
+| ---------------- | ------------- | ------------------------------------------------------------------- |
+| Arched           | Blue          | Both in the fey realm                                               |
+| Rectangular      | Greenish-blue | One in the fey realm, one in a mortal world                         |
 | Skewed rectangle | Purplish-blue | One in the shadowed reaches of the fey realm, one in a mortal world |
-| X-shaped | Blue | Both in a mortal world |
+| X-shaped         | Blue          | Both in a mortal world                                              |
 
-When traveling from the mortal worlds to the fey realm, it is important to understand the different modes of fey travel available to the adventurer. *Fey roads* begin or end with *doorways* in the fey realm. *Doorways* also open to *sideroads* that pierce the boundary between the fey world and that of the mortals and terminate in a similar *doorway* on the opposite side. *Doorways* also open to roads that only span a distance within a mortal world.
+When traveling from the mortal worlds to the fey realm, it is important to understand the different modes of fey travel available to the adventurer. _Fey roads_ begin or end with _doorways_ in the fey realm. _Doorways_ also open to _sideroads_ that pierce the boundary between the fey world and that of the mortals and terminate in a similar _doorway_ on the opposite side. _Doorways_ also open to roads that only span a distance within a mortal world.
 
 ## Doorways
 
-Like gates and portals, *doorways* are magical openings in the fabric of space that allow instant passage between two or more locations. *Doorways* are not always obviously marked, yet they can be easily discovered through a number of magical and mundane means. *Doorways* to *sideroads* from the mortal world are seen as greenish-blue outlined rectangular *doorways* normally positioned within some sort of vertical boundaries. Those *doorways* without a physical boundary are often of immense size. *Doorways* to *fey roads* within the fey realm appear (when visible) as bluish outlined archways, whereas those leading to its shadowed reaches seem slightly distorted and out of square, their bluish outline tinged with a hint of purple.
+Like gates and portals, _doorways_ are magical openings in the fabric of space that allow instant passage between two or more locations. _Doorways_ are not always obviously marked, yet they can be easily discovered through a number of magical and mundane means. _Doorways_ to _sideroads_ from the mortal world are seen as greenish-blue outlined rectangular _doorways_ normally positioned within some sort of vertical boundaries. Those _doorways_ without a physical boundary are often of immense size. _Doorways_ to _fey roads_ within the fey realm appear (when visible) as bluish outlined archways, whereas those leading to its shadowed reaches seem slightly distorted and out of square, their bluish outline tinged with a hint of purple.
 
-When creating *doorways*, fey prefer locations that already have some sort of physical opening so that they are not easily detected. A flowered arbor, a gate in farmer’s fence, a stone arch, and even certain steppingstones across a stream have all been used in *[[rangoric-srd/spells/Create Doorway and Backroad|create doorway]]* spells. A [[rangoric-srd/skills/Lore|Lore (fey)]] check can tell whether a particular location is apt to be used as a *doorway*.
+When creating _doorways_, fey prefer locations that already have some sort of physical opening so that they are not easily detected. A flowered arbor, a gate in farmer’s fence, a stone arch, and even certain steppingstones across a stream have all been used in _[[rangoric-srd/spells/Create Doorway and Backroad|create doorway]]_ spells. A [[rangoric-srd/skills/Lore|Lore (fey)]] check can tell whether a particular location is apt to be used as a _doorway_.
 
-Even though *doorways* cannot normally be constructed separate from a *fey road*, detached *doorways* can result from interrupted or improper spellcasting; these must either be dispelled or attached to a *fey road* through the second casting of the appropriate creation spell. If the *doorway* is not attached to a *fey road*, there is a 5% chance that it will be noticed by an outsider and used for other more sinister purposes of invading either the fey realm or a mortal world.
+Even though _doorways_ cannot normally be constructed separate from a _fey road_, detached _doorways_ can result from interrupted or improper spellcasting; these must either be dispelled or attached to a _fey road_ through the second casting of the appropriate creation spell. If the _doorway_ is not attached to a _fey road_, there is a 5% chance that it will be noticed by an outsider and used for other more sinister purposes of invading either the fey realm or a mortal world.
 
-When fey creatures create *doorways*, they often charge fey guardians (and sometimes other fey creatures) with keeping people away from them. Whether it is through magical manipulation or some form of haunting or persuasion, mortals are sent away from fey *doorways* by these charges. Over time, this activity influences where dwellings and structures are built, and eventually where towns and cities grow. Thus, it is exceedingly rare that a *doorway* exists within any settlement larger than the tiniest of hamlets.
+When fey creatures create _doorways_, they often charge fey guardians (and sometimes other fey creatures) with keeping people away from them. Whether it is through magical manipulation or some form of haunting or persuasion, mortals are sent away from fey _doorways_ by these charges. Over time, this activity influences where dwellings and structures are built, and eventually where towns and cities grow. Thus, it is exceedingly rare that a _doorway_ exists within any settlement larger than the tiniest of hamlets.
 
-The process of creating a *fey road* with adjoining *doorways* also enlists the service of a [[rangoric-srd/monsters/Doorway Guardian|doorway guardian]] to protect the route from accidental, unwanted, or unauthorized travelers. As a secondary layer of protection, many creators also add a method of activation. (See [[rangoric-srd/rules/Fey Roads and Doorways#Methods of Opening Doorways|Methods of Opening Doorways]] below.)
+The process of creating a _fey road_ with adjoining _doorways_ also enlists the service of a [[rangoric-srd/monsters/Doorway Guardian|doorway guardian]] to protect the route from accidental, unwanted, or unauthorized travelers. As a secondary layer of protection, many creators also add a method of activation. (See [[rangoric-srd/rules/Fey Roads and Doorways#Methods of Opening Doorways|Methods of Opening Doorways]] below.)
 
-**Crossroads:** “*Crossroads*” is a misnomer applied to *doorways* that open onto roads with both endpoints on the same mortal world. These *doorways* get their name from the x-shaped bluish-glowing shadows seen on the ground by eyes gifted with the [[rangoric-srd/feats/Second Sight (Feat)|Second Sight]] feat or those casting the 0-level spell *[[rangoric-srd/spells/Detect Doorway|detect doorway]]*.
+**Crossroads:** “_Crossroads_” is a misnomer applied to _doorways_ that open onto roads with both endpoints on the same mortal world. These _doorways_ get their name from the x-shaped bluish-glowing shadows seen on the ground by eyes gifted with the [[rangoric-srd/feats/Second Sight (Feat)|Second Sight]] feat or those casting the 0-level spell _[[rangoric-srd/spells/Detect Doorway|detect doorway]]_.
 
 ### Locations for Fey Doorways
 
-Before a *fey road* is created, the spellcaster must first find a location to place the *doorways* that open onto it. *Doorways* should never be seen or located easily, so normally the spellcaster chooses a location for the *doorway* that already has some kind of physical opening so the occasional passage of people and creatures does not arouse suspicion. Some innocuous fey *doorway* locations include:
+Before a _fey road_ is created, the spellcaster must first find a location to place the _doorways_ that open onto it. _Doorways_ should never be seen or located easily, so normally the spellcaster chooses a location for the _doorway_ that already has some kind of physical opening so the occasional passage of people and creatures does not arouse suspicion. Some innocuous fey _doorway_ locations include:
 
 - Stone rings, whether naturally or artificially arranged
 
@@ -56,9 +56,9 @@ Before a *fey road* is created, the spellcaster must first find a location to pl
 
 - Cave openings
 
-- Ponds and lakes, with the surface serving as the *doorway*
+- Ponds and lakes, with the surface serving as the _doorway_
 
-For just as many reasons as there are *doorways*, sometimes the opening selected is even more subtle or fantastic, such as:
+For just as many reasons as there are _doorways_, sometimes the opening selected is even more subtle or fantastic, such as:
 
 - A ring of mushrooms
 
@@ -70,15 +70,15 @@ For just as many reasons as there are *doorways*, sometimes the opening selected
 
 ### Methods of Opening Doorways
 
-Once the locations of the *doorways* are established, the means of activation must be determined. Numerous conditions and procedures have been used over the eons to supplement the protection of *doorway* guardians, and are only limited by the caster’s skill and imagination. What follows is a list of sample methods for opening fey *doorways*:
+Once the locations of the _doorways_ are established, the means of activation must be determined. Numerous conditions and procedures have been used over the eons to supplement the protection of _doorway_ guardians, and are only limited by the caster’s skill and imagination. What follows is a list of sample methods for opening fey _doorways_:
 
-- Circling around the *doorway* several times
+- Circling around the _doorway_ several times
 
 - Turning around three times in place
 
 - Lighting and dancing around a bonfire
 
-- Stepping backwards through the *doorway*
+- Stepping backwards through the _doorway_
 
 - Certain stepping stones in a garden or stream
 
@@ -86,17 +86,17 @@ Once the locations of the *doorways* are established, the means of activation mu
 
 - Saying a password or pass-phrase
 
-- Allowing the door to open only on certain days or at certain times (like only for the hour when the morning dawn fills the area of the *doorway*)
+- Allowing the door to open only on certain days or at certain times (like only for the hour when the morning dawn fills the area of the _doorway_)
 
 - Carrying a key (mundane or magical)
 
-- Sleeping in or near the *doorway*
+- Sleeping in or near the _doorway_
 
 - Solve the puzzle, riddle, or situation
 
 - Cast a spell
 
-Another way to get through a fey *doorway* is to be taken through by someone who knows the secret to activating it. Fey frequently bring mortals—through invitation or abduction—into the fey realm for celebrations and companionship (however fleeting). Events known to have attracted fey include:
+Another way to get through a fey _doorway_ is to be taken through by someone who knows the secret to activating it. Fey frequently bring mortals—through invitation or abduction—into the fey realm for celebrations and companionship (however fleeting). Events known to have attracted fey include:
 
 - Drunken revels
 
@@ -106,19 +106,19 @@ Another way to get through a fey *doorway* is to be taken through by someone who
 
 - Consuming faerie food or drink
 
-Once a door is activated and opened, it remains open for the duration set by the creator. This time is usually one or two rounds after a person has stepped through, though *doorways* have been reported staying open all night. Ingenious mortals discovered that cold iron laid across the open *doorway* will delay its closing by five rounds for each inch of the object’s thickness (though the magic of the *doorway* eventually cuts the object in two when it closes). Fires set upon the threshold of a *doorway* will hold it open for as long as the fire burns. Once the fire that has burned for an extended period goes out, there is often so much damage done to the *doorway* (or at least the physical objects to which it was set) that it is rendered useless.
+Once a door is activated and opened, it remains open for the duration set by the creator. This time is usually one or two rounds after a person has stepped through, though _doorways_ have been reported staying open all night. Ingenious mortals discovered that cold iron laid across the open _doorway_ will delay its closing by five rounds for each inch of the object’s thickness (though the magic of the _doorway_ eventually cuts the object in two when it closes). Fires set upon the threshold of a _doorway_ will hold it open for as long as the fire burns. Once the fire that has burned for an extended period goes out, there is often so much damage done to the _doorway_ (or at least the physical objects to which it was set) that it is rendered useless.
 
 ## Fey Roads
 
-*Doorways* connect to *fey roads*, the permanent magical thoroughfares built by the fey and their allies to enable easy travel between frequently visited destinations. There are a few kinds of *fey roads*: *Fey Roads*, *Sideroads*, and *Backroads*.
+_Doorways_ connect to _fey roads_, the permanent magical thoroughfares built by the fey and their allies to enable easy travel between frequently visited destinations. There are a few kinds of _fey roads_: _Fey Roads_, _Sideroads_, and _Backroads_.
 
-**Backroads:** *Backroads* are *fey roads* that connect two points within a mortal world. They end in *doorways* that are often called *crossroads* for their ‘x’ shape.
+**Backroads:** _Backroads_ are _fey roads_ that connect two points within a mortal world. They end in _doorways_ that are often called _crossroads_ for their ‘x’ shape.
 
-***Fey Roads*:** *Fey roads*, by definition, are the roads that connect points within the fey realm. Normally, this also means that *fey roads* only connect points within the fey realm proper or within its shadowed reaches, but not from one to the other. *Fey roads* are entered through *doorways* that resemble blue-glowing archways. The inhabitants of the shadowed reaches do not want to be easily found by the rest of the fey, so *fey roads* built by them do not always connect with the rest of the roads in the fey realm.
+**_Fey Roads_:** _Fey roads_, by definition, are the roads that connect points within the fey realm. Normally, this also means that _fey roads_ only connect points within the fey realm proper or within its shadowed reaches, but not from one to the other. _Fey roads_ are entered through _doorways_ that resemble blue-glowing archways. The inhabitants of the shadowed reaches do not want to be easily found by the rest of the fey, so _fey roads_ built by them do not always connect with the rest of the roads in the fey realm.
 
-**Ley Lines:** Since the dawn of time, the fey have traveled across the surface of mortal worlds and to the fey realm via *fey roads*. In mortal lands, the use of these roads by all creatures has created a residual magical effect some mortals have researched and tried to use. Some fey-aware mortals suggest *ley lines* could be deteriorated *backroads* or even destroyed remnants of *fey roads*. The most anyone has been able to do is trace the routes of these lines to locate their endpoints at fey *doorways*. This is best achieved by casting *[[rangoric-srd/spells/Detect Magic|detect magic]]* and searching for a dim aura.
+**Ley Lines:** Since the dawn of time, the fey have traveled across the surface of mortal worlds and to the fey realm via _fey roads_. In mortal lands, the use of these roads by all creatures has created a residual magical effect some mortals have researched and tried to use. Some fey-aware mortals suggest _ley lines_ could be deteriorated _backroads_ or even destroyed remnants of _fey roads_. The most anyone has been able to do is trace the routes of these lines to locate their endpoints at fey _doorways_. This is best achieved by casting _[[rangoric-srd/spells/Detect Magic|detect magic]]_ and searching for a dim aura.
 
-**Sideroads:** Fey use the term *sideroads* to refer to the roads that link the fey realm and a mortal world. Greenish-blue glowing rectangular *doorways* mark the entrance to these roads to the fey realm, while those to its shadowed reaches are purplish-blue glowing distorted rectangles.
+**Sideroads:** Fey use the term _sideroads_ to refer to the roads that link the fey realm and a mortal world. Greenish-blue glowing rectangular _doorways_ mark the entrance to these roads to the fey realm, while those to its shadowed reaches are purplish-blue glowing distorted rectangles.
 
 ## Paths
 
@@ -130,13 +130,13 @@ The options are too numerous to explore here, but some paths lead directly to th
 
 The fey realm is endlessly fascinating to mortal visitors, and it all seems wonderful, but enough learn the true dangers of distraction by the fey. If a visitor strays from the path for any reason, the fey realm’s magic interprets this as the person abandoning what they most need or desire. Whether in spite or whimsy, the fey realm reflexively gives them what they think they want or what they immediately seek for a time (usually by illusions or by moving someone toward them), and then obliterates the path behind them. Once a person is off her path, only the intervention of powerful mortals or fey can guide them back to their true destination. Most often, folk become lost in major ways and physically separated from any fellow travelers by moving them to another Distant physical location.
 
-**Game effect:** A *fey path* is laid before the visitor in such a way as to coax that visitor to follow it. Sometimes the path will manifest as a well-worn trail through the wilderness, or a path paved with gold bricks. Other times, it may be a faint trace of someone’s passing requiring tracking skills to decipher the broken twigs and disturbed plant growth before revealing the destination. The form of the path is up to the GM, but it should never be so subtle as to interfere with game-play when the player characters can’t find their path or paths.
+**Game effect:** A _fey path_ is laid before the visitor in such a way as to coax that visitor to follow it. Sometimes the path will manifest as a well-worn trail through the wilderness, or a path paved with gold bricks. Other times, it may be a faint trace of someone’s passing requiring tracking skills to decipher the broken twigs and disturbed plant growth before revealing the destination. The form of the path is up to the GM, but it should never be so subtle as to interfere with game-play when the player characters can’t find their path or paths.
 
 If characters stray from the path, each makes a Will save against the DC of the region (for a site, its second DC; see the fey realm’s [[rangoric-srd/flavor/the-fey-realm/The Fey Realm#Places of Faerie|places]]). On a failed save, that character’s path disappears and he is forcibly moved across the fey realm to a [[rangoric-srd/rules/Fey Roads and Doorways#^fey-distances|Distant]] location in a randomly determined direction. On a successful save, he remains in the region unmoved, but his path still disappears.
 
 ## Travel Within the Fey Realm
 
-Moving from one point to another within the fey realm can be done magically on the *fey roads* that spread across the land or physically by means such as horseback, wagon, or foot. While many choose the latter, emissaries of the fey courts, [[rangoric-srd/races/Feeorin|feeorin]], and anyone in a hurry prefer the *fey roads* when they can.
+Moving from one point to another within the fey realm can be done magically on the _fey roads_ that spread across the land or physically by means such as horseback, wagon, or foot. While many choose the latter, emissaries of the fey courts, [[rangoric-srd/races/Feeorin|feeorin]], and anyone in a hurry prefer the _fey roads_ when they can.
 
 Travel between locales by land is not entirely controlled by the traveler, as they may find themselves consistently no closer than a few miles away from the forest, or a bend or two of the stream away from the lake. This distortion of the land exhibits the inherent magic of the fey realm then further augmented by the whim of the region’s inhabitants through the use of the [[rangoric-srd/feats/Crossing Over|Crossing Over]] feat.
 
@@ -150,17 +150,17 @@ The fey realm measures space and distance in a far more subjective manner than m
 
 **Nearby:** As with many other things Faerie, this is an abstract definition of a location. Nearby refers to not only the physical distance of a place but also the general perception of that place. This perception is influenced by the will of powerful faeries and other beings. A locale once Nearby can become Remote due to the will of those who do not wish to be found. Typically, the travel time to something Nearby is two to five days (1d4+1 days), though influential beings of the fey realm can reach them in mere moments when they so choose. This time may be adjusted to suit the situation or the storyline.
 
-**Distant:** If a land is not Nearby or Remote, it is Distant. Distant locales in the fey realm require some effort to reach. Locales that are not under the sway of an intervening entity, or those indifferent about visitors, usually are classified as Distant. Like Nearby, Distant is a measurement of an abstract distance imposed by the fey realm and its residents. (Use an Intelligence check to remember a particular location, much like the checks for a *[[rangoric-srd/spells/Teleport|teleport]]* spell.) Typically, the travel time to something Distant is one to four weeks (1d4 weeks). This can—and should—be adjusted to suit the whim of the GM and the moment.
+**Distant:** If a land is not Nearby or Remote, it is Distant. Distant locales in the fey realm require some effort to reach. Locales that are not under the sway of an intervening entity, or those indifferent about visitors, usually are classified as Distant. Like Nearby, Distant is a measurement of an abstract distance imposed by the fey realm and its residents. (Use an Intelligence check to remember a particular location, much like the checks for a _[[rangoric-srd/spells/Teleport|teleport]]_ spell.) Typically, the travel time to something Distant is one to four weeks (1d4 weeks). This can—and should—be adjusted to suit the whim of the GM and the moment.
 
-**Remote:** Juxtaposed against Nearby is Remote. Remote locales in the fey realm are not easily reached, whether due to the length of travel, the harshness of the terrain between traveler and destination, or the will of an intervening entity. Like Nearby, Remote measures an abstract distance imposed by and upon the fey realm and its residents. (Use an Intelligence check to remember a particular location, much like the checks for a *[[rangoric-srd/spells/Teleport|teleport]]* spell.) Typically, the travel time to something Remote is two to five months (1d4+1 months). This can—and should—be adjusted to suit the whim of the GM and the moment.
+**Remote:** Juxtaposed against Nearby is Remote. Remote locales in the fey realm are not easily reached, whether due to the length of travel, the harshness of the terrain between traveler and destination, or the will of an intervening entity. Like Nearby, Remote measures an abstract distance imposed by and upon the fey realm and its residents. (Use an Intelligence check to remember a particular location, much like the checks for a _[[rangoric-srd/spells/Teleport|teleport]]_ spell.) Typically, the travel time to something Remote is two to five months (1d4+1 months). This can—and should—be adjusted to suit the whim of the GM and the moment.
 
 **Table: Distances** ^table-fey-distances
 
-| Distance | Travel Time | DC (Wis) | Time Modifiers\* |
-| --- | --- | --- | --- |
-| Nearby | 1d4+1 days | 15 | -4 hours for each number beyond DC |
-| Distant | 1d4 weeks | 20-25 | -1 day for each number beyond DC |
-| Remote | 1d4+1 months | 30 and up | -4 days for each number beyond DC |
+| Distance | Travel Time  | DC (Wis)  | Time Modifiers\*                   |
+| -------- | ------------ | --------- | ---------------------------------- |
+| Nearby   | 1d4+1 days   | 15        | -4 hours for each number beyond DC |
+| Distant  | 1d4 weeks    | 20-25     | -1 day for each number beyond DC   |
+| Remote   | 1d4+1 months | 30 and up | -4 days for each number beyond DC  |
 
 \* Each number over DC on a successful travel attempt shortens the travel time as noted above. Conversely, a failure adds the same amount to the time in transit.
 

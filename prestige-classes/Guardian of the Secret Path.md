@@ -53,18 +53,18 @@ The guardian of the secret path’s class skills (and the key ability for each s
 
 **Table: The Guardian of the Secret Path** ^table-the-guardian-of-the-secret-path
 
-| Level | Special | Spells per Day |
-| --- | --- | --- |
-| 1st | Detect outsider | — |
-| 2nd | Flare | +1 level of existing arcane spellcasting class |
-| 3rd | Infuse with starlight | — |
-| 4th | — | +1 level of existing arcane spellcasting class |
-| 5th | Detect teleport | — |
-| 6th | — | +1 level of existing arcane spellcasting class |
-| 7th | Detect gate | — |
-| 8th | — | +1 level of existing arcane spellcasting class |
-| 9th | Shield of light | — |
-| 10th | Ward of the stars | +1 level of existing arcane spellcasting class |
+| Level | Special               | Spells per Day                                 |
+| ----- | --------------------- | ---------------------------------------------- |
+| 1st   | Detect outsider       | —                                              |
+| 2nd   | Flare                 | +1 level of existing arcane spellcasting class |
+| 3rd   | Infuse with starlight | —                                              |
+| 4th   | —                     | +1 level of existing arcane spellcasting class |
+| 5th   | Detect teleport       | —                                              |
+| 6th   | —                     | +1 level of existing arcane spellcasting class |
+| 7th   | Detect gate           | —                                              |
+| 8th   | —                     | +1 level of existing arcane spellcasting class |
+| 9th   | Shield of light       | —                                              |
+| 10th  | Ward of the stars     | +1 level of existing arcane spellcasting class |
 
 ###### Class Features
 
@@ -74,16 +74,16 @@ All of the following are class features of the guardian of the secret path prest
 
 **Spells per Day/Spells Known**: When every even-numbered guardian level is gained, the character gains new spells per day (and spells known, if applicable) as if she had also gained a level in an arcane spellcasting class she belonged to before she added the prestige class. She does not, however, gain any other benefit a character of that class would have gained. This means she adds half her guardian levels (rounded down) to the level of one arcane spellcasting class she has, then works out spells per day, spells known and caster level, which also count for [[rangoric-srd/rules/star magic/Star Magic#^other-arcane-casters|star magic]]. If she had more than one arcane spellcasting class before, she decides to which class each new level is added.
 
-**Detect Outsider (Sp)**: A guardian can detect outsiders at will. This works like the *detect* spells, such as *[[rangoric-srd/spells/Detect Evil|detect evil]]*, but finds outsiders. ^guardian-detect-outsider
+**Detect Outsider (Sp)**: A guardian can detect outsiders at will. This works like the _detect_ spells, such as _[[rangoric-srd/spells/Detect Evil|detect evil]]_, but finds outsiders. ^guardian-detect-outsider
 
 **Flare (Sp)**: At 2nd level, four times per day, a guardian can take a free action (no more than once per round) to strike one outsider within 30 feet with starlight for 1d6 points of damage. There is no save, but spell resistance applies, with only her guardian level as her caster level. ^guardian-flare
 
 **Infuse with Starlight (Sp)**: At 3rd level, once per round as a free action, a guardian can give up a prepared spell or unused spell slot to fill a weapon in her hands with starlight. The weapon gains a bonus on attack and damage rolls equal to the spell's level (maximum +5) for a number of minutes equal to her guardian level. It works on melee and ranged weapons, but not on a weapon that is already magical. ^guardian-infuse-with-starlight
 
-**Detect Teleport (Su)**: At 5th level, a guardian automatically knows when anyone uses instant travel (any *[[rangoric-srd/spells/Teleport|teleport]]* spell, *[[rangoric-srd/spells/Word of Recall|word of recall]]* and the like) within 1 mile of her. With an [[rangoric-srd/skills/Arcana|Arcana]] check (DC 10 + the traveler's caster level), she learns where the traveler went. ^guardian-detect-teleport
+**Detect Teleport (Su)**: At 5th level, a guardian automatically knows when anyone uses instant travel (any _[[rangoric-srd/spells/Teleport|teleport]]_ spell, _[[rangoric-srd/spells/Word of Recall|word of recall]]_ and the like) within 1 mile of her. With an [[rangoric-srd/skills/Arcana|Arcana]] check (DC 10 + the traveler's caster level), she learns where the traveler went. ^guardian-detect-teleport
 
 **Detect Gate (Su)**: At 7th level, a guardian automatically knows of any travel to or from the plane within 1 mile of her, and of any planar gateway there. With an [[rangoric-srd/skills/Arcana|Arcana]] check (DC 10 + the traveler's caster level), she learns where a departing traveler went or where an arriving one came from. ^guardian-detect-gate
 
 **Shield of Light (Sp)**: At 9th level, as a free action, a guardian can give up a prepared spell or unused spell slot to wrap herself in starlight. For each level of the spell, she gains spell resistance 4, a +2 bonus to AC and 4 temporary hit points (spell resistance 12, +6 AC and 12 temporary hit points for a 3rd-level spell), for a number of rounds equal to her guardian level. ^guardian-shield-of-light
 
-**Ward of the Stars (Sp)**: At 10th level, as a free action, a guardian can give up a prepared spell or unused spell slot of 3rd level or higher to dispel or counter a *[[rangoric-srd/spells/Gate|gate]]* or a teleportation. She makes a dispel check, as *[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, with a +2 bonus for each level of the spell above 3rd. ^guardian-ward-of-the-stars
+**Ward of the Stars (Sp)**: At 10th level, as a free action, a guardian can give up a prepared spell or unused spell slot of 3rd level or higher to dispel or counter a _[[rangoric-srd/spells/Gate|gate]]_ or a teleportation. She makes a dispel check, as _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, with a +2 bonus for each level of the spell above 3rd. ^guardian-ward-of-the-stars

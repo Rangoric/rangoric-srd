@@ -17,10 +17,10 @@ tags: [rangoric, rangoric/magic-item, epic]
 
 # Staff of Cosmos
 
-This staff allows use of the following spells.  
+This staff allows use of the following spells.
 
-  - Chain lightning (intensified, 1 charge, DC 29)
-  - Meteor swarm (intensified, 1 charge, DC 34)
-  - Sunburst (intensified, 1 charge, DC 32)  
+- Chain lightning (intensified, 1 charge, DC 29)
+- Meteor swarm (intensified, 1 charge, DC 34)
+- Sunburst (intensified, 1 charge, DC 32)
 
 Caster Level: 27th; Prerequisites: Craft Staff, Craft Epic Staff, Intensify Spell, chain lightning, meteor swarm, sunburst; Market Price: 683,437 gp.

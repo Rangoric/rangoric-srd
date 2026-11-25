@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Menacing Swordplay
 
-*A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-deeds|swashbuckler deed]] (Ex), 3rd level.*
+_A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-deeds|swashbuckler deed]] (Ex), 3rd level._
 
 At 3rd level, while she has at least 1 panache point, when a swashbuckler hits an opponent with a light or one-handed piercing melee weapon, she can choose to use [[rangoric-srd/skills/Intimidation|Intimidation]] to demoralize that opponent as a swift action instead of a standard action.

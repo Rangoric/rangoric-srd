@@ -33,7 +33,7 @@ Psychokinesis \[see text\]
 **Duration:** Instantaneous  
 **Saving Throw:** Reflex half or Fortitude half; see text  
 **Power Resistance:** Yes  
-**Power Points:** 5  
+**Power Points:** 5
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You create an explosion of unstable ectoplasmic energy of the chosen type that deals 5d6 points of damage to every creature or object within the area. The explosion creates almost no pressure. Since this power extends outward from you, you are not affected by the damage.
 

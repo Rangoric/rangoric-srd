@@ -22,11 +22,11 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Warding Swathe
 
-*Erlcana, Greater; Special*
+_Erlcana, Greater; Special_
 
-Unlike the other defenswathes which bond to armor or shields, a Wardingswathe fuses directly with a living being. The merging is quite painful and inflicts 1d4 hit points of true damage and 2d4 points of nonlethal damage to any persons accepting the swathe. After the pain subsides, plant fibers and tiny vines now live both atop and beneath the skin, affording a natural armor bonus of +5 at all times. In addition, the person can now duplicate the effects of a *barkskin* spell on their companions twice a day as a 10th level druid. Neither of these bonuses or effects incur any arcane armor penalties or movement penalties.
+Unlike the other defenswathes which bond to armor or shields, a Wardingswathe fuses directly with a living being. The merging is quite painful and inflicts 1d4 hit points of true damage and 2d4 points of nonlethal damage to any persons accepting the swathe. After the pain subsides, plant fibers and tiny vines now live both atop and beneath the skin, affording a natural armor bonus of +5 at all times. In addition, the person can now duplicate the effects of a _barkskin_ spell on their companions twice a day as a 10th level druid. Neither of these bonuses or effects incur any arcane armor penalties or movement penalties.
 
-The wardingswathe has a final power—it can separate from its bondperson and create a *wall of thorns* as the 5th level druid spell, though separating inflicts the same pain and damage as bonding. Also, once the *wall of thorns* expires, so does the Wardingswathe.
+The wardingswathe has a final power—it can separate from its bondperson and create a _wall of thorns_ as the 5th level druid spell, though separating inflicts the same pain and damage as bonding. Also, once the _wall of thorns_ expires, so does the Wardingswathe.
 
 Remember that any person bonded to a greater swathe requires 50% more water than normal (to maintain both herself and her swathelm) in order to avoid the effects of dehydration ([[rangoric-srd/rules/Wilderness, Weather, and Environment#Starvation and Thirst|Starvation and Thirst]]).
 

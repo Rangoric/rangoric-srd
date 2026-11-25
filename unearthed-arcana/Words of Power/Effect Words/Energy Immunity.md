@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/word-of-power]
 
 # Energy Immunity
 
-*One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Body Words|Body group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]].*
+_One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Body Words|Body group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]]._
 
 **School** abjuration
 

@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Leopard
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 3d8+6 (19 hp)
-  - **Initiative**: +4
-  - **Speed**: 30 ft. (6 squares), climb 20 ft.
-  - **Armor Class**: 15 (+4 Dex, +1 natural), touch 14, flat-footed 11
-  - **Base Attack**: +2; **CMB**: +5 (+9 grapple); **CMD**: 19 (23 vs. trip)
-  - **Attack**: Bite +6 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +6 melee (1d3+3)
-  - **Full Attack**: Bite +6 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +6 melee (1d3+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +6, 1d3+3)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +5, Ref +7, Will +2
-  - **Abilities**: Str 16, Dex 19, Con 15, Int 2, Wis 13, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +11 (+15 in undergrowth)
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any forest
-  - **Organization**: Solitary or pair
-  - **Challenge Rating**: 2
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 4–5 HD (Medium)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 3d8+6 (19 hp)
+- **Initiative**: +4
+- **Speed**: 30 ft. (6 squares), climb 20 ft.
+- **Armor Class**: 15 (+4 Dex, +1 natural), touch 14, flat-footed 11
+- **Base Attack**: +2; **CMB**: +5 (+9 grapple); **CMD**: 19 (23 vs. trip)
+- **Attack**: Bite +6 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +6 melee (1d3+3)
+- **Full Attack**: Bite +6 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +6 melee (1d3+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +6, 1d3+3)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +5, Ref +7, Will +2
+- **Abilities**: Str 16, Dex 19, Con 15, Int 2, Wis 13, Cha 6
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +11 (+15 in undergrowth)
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any forest
+- **Organization**: Solitary or pair
+- **Challenge Rating**: 2
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 4–5 HD (Medium)
+- **Level Adjustment**: —
 
 Leopards are 4 feet long and weigh 120 pounds. The statistics presented here can describe any feline of similar size, such as jaguars, panthers, and mountain lions—what differentiates these big cats from the similarly sized cheetah is primarily their habitats—leopards and their kin prefer to hunt at night and ambush their prey from above, pouncing down from trees or high rocks.
 

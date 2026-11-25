@@ -25,6 +25,6 @@ A golem manual contains information, incantations and magical power that help a 
 
 The spells included in a golem manual require a spell trigger activation and can be activated only to assist in the construction of a golem. The cost of the book does not include the cost of constructing the golem’s body. Once the golem is finished, the writing in the manual fades and the book is consumed in flames. When the book’s ashes are sprinkled upon the golem, it becomes fully animated.
 
-*Clay Golem Manual*: The book contains animate objects, bless, commune, and resurrection. The reader may treat her caster level as two levels higher than normal for the purpose of crafting a clay golem. The book supplies 1,540 XP for the creation of a clay golem.
+_Clay Golem Manual_: The book contains animate objects, bless, commune, and resurrection. The reader may treat her caster level as two levels higher than normal for the purpose of crafting a clay golem. The book supplies 1,540 XP for the creation of a clay golem.
 
 Moderate conjuration, divination, enchantment, and transmutation; CL 11th; Craft Construct, creator must be caster level 11th, animate objects, commune, resurrection; Price 12,000 gp; Cost 2,150 gp + 1,712 XP; Weight 5 lb.

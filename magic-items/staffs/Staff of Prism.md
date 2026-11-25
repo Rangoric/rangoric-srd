@@ -17,10 +17,10 @@ tags: [rangoric, rangoric/magic-item, epic]
 
 # Staff of Prism
 
-This staff allows use of the following spells.  
+This staff allows use of the following spells.
 
-  - Prismatic sphere (extended, 1 charge, DC 25)
-  - Prismatic spray (extended, 1 charge, DC 22)
-  - Prismatic wall (extended, 1 charge, DC 23)  
+- Prismatic sphere (extended, 1 charge, DC 25)
+- Prismatic spray (extended, 1 charge, DC 22)
+- Prismatic wall (extended, 1 charge, DC 23)
 
 Caster Level: 21st; Prerequisites: Craft Staff, Craft Epic Staff, Extend Spell, prismatic sphere, prismatic spray, prismatic wall; Market Price: 326,812 gp.

@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Divine Hunter
 
-*A [[rangoric-srd/classes/Paladin#^paladin-archetypes|paladin]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Paladin#^paladin-archetypes|paladin]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Most paladins rush into battle, meeting evil toe-to-toe. The divine hunter prefers to engage evil from afar, striking down her foes before they can threaten her allies.
 
@@ -30,7 +30,7 @@ Most paladins rush into battle, meeting evil toe-to-toe. The divine hunter prefe
 
 **Shared Precision (Su)**: At 3rd level, when a divine hunter hits a creature with a ranged attack, she grants her allies within 10 feet of her the benefit of the Precise Shot feat against that target until the start of her next turn. Her allies must remain within 10 feet of her, and must be able both to see and hear the divine hunter to gain this benefit. This ability replaces [[rangoric-srd/classes/Paladin#^paladin-aura-of-courage|aura of courage]].
 
-**Divine Bond (Su)**: At 5th level, a divine hunter forms a bond with her deity. This functions as the paladin's [[rangoric-srd/classes/Paladin#^paladin-divine-bond|divine bond]] ability, except the bond must always take the form of a ranged or throwing weapon (excluding ammunition). In addition to the listed abilities, a divine hunter can add the *[[rangoric-srd/magic-items/weapon-abilities/Distance|distance]]*, *[[rangoric-srd/magic-items/weapon-abilities/Returning|returning]]*, or *[[rangoric-srd/magic-items/weapon-abilities/Seeking|seeking]]* special abilities to her weapon, but she cannot add the *[[rangoric-srd/magic-items/weapon-abilities/Defending|defending]]* or *[[rangoric-srd/magic-items/weapon-abilities/Disruption|disruption]]* special abilities. Special abilities added to throwing weapons function normally when the weapon is used in melee. This ability replaces the standard paladin's [[rangoric-srd/classes/Paladin#^paladin-divine-bond|divine bond]].
+**Divine Bond (Su)**: At 5th level, a divine hunter forms a bond with her deity. This functions as the paladin's [[rangoric-srd/classes/Paladin#^paladin-divine-bond|divine bond]] ability, except the bond must always take the form of a ranged or throwing weapon (excluding ammunition). In addition to the listed abilities, a divine hunter can add the _[[rangoric-srd/magic-items/weapon-abilities/Distance|distance]]_, _[[rangoric-srd/magic-items/weapon-abilities/Returning|returning]]_, or _[[rangoric-srd/magic-items/weapon-abilities/Seeking|seeking]]_ special abilities to her weapon, but she cannot add the _[[rangoric-srd/magic-items/weapon-abilities/Defending|defending]]_ or _[[rangoric-srd/magic-items/weapon-abilities/Disruption|disruption]]_ special abilities. Special abilities added to throwing weapons function normally when the weapon is used in melee. This ability replaces the standard paladin's [[rangoric-srd/classes/Paladin#^paladin-divine-bond|divine bond]].
 
 **Distant Mercy (Sp)**: At 6th level, a divine hunter can expend two uses of her lay on hand abilities to use her [[rangoric-srd/classes/Paladin#^paladin-lay-on-hands|lay on hands]] ability on a target within 5 feet per paladin level. Distant mercy has no effect on creatures harmed by positive energy, such as undead. This ability replaces the paladin's 6th-level [[rangoric-srd/classes/Paladin#^paladin-mercy|mercy]].
 

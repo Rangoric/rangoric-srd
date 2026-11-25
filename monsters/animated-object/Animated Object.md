@@ -12,13 +12,13 @@ tags: [rangoric, rangoric/monster]
 
 # Animated Object
 
-  - [[rangoric-srd/monsters/animated-object/Animated Object, Tiny|Animated Object, Tiny]]
-  - [[rangoric-srd/monsters/animated-object/Animated Object, Small|Animated Object, Small]]
-  - [[rangoric-srd/monsters/animated-object/Animated Object, Medium|Animated Object, Medium]]
-  - [[rangoric-srd/monsters/animated-object/Animated Object, Large|Animated Object, Large]]
-  - [[rangoric-srd/monsters/animated-object/Animated Object, Huge|Animated Object, Huge]]
-  - [[rangoric-srd/monsters/animated-object/Animated Object, Gargantuan|Animated Object, Gargantuan]]
-  - [[rangoric-srd/monsters/animated-object/Animated Object, Colossal|Animated Object, Colossal]]
+- [[rangoric-srd/monsters/animated-object/Animated Object, Tiny|Animated Object, Tiny]]
+- [[rangoric-srd/monsters/animated-object/Animated Object, Small|Animated Object, Small]]
+- [[rangoric-srd/monsters/animated-object/Animated Object, Medium|Animated Object, Medium]]
+- [[rangoric-srd/monsters/animated-object/Animated Object, Large|Animated Object, Large]]
+- [[rangoric-srd/monsters/animated-object/Animated Object, Huge|Animated Object, Huge]]
+- [[rangoric-srd/monsters/animated-object/Animated Object, Gargantuan|Animated Object, Gargantuan]]
+- [[rangoric-srd/monsters/animated-object/Animated Object, Colossal|Animated Object, Colossal]]
 
 Animated objects come in all sizes, shapes, and colors. They owe their existence as creatures to spells such as [[rangoric-srd/spells/Animate Objects|animate objects]] or similar supernatural abilities.
 
@@ -48,14 +48,14 @@ Objects might have additional modes of movement. A wooden object can float and h
 
 An animated object can be made permanent with the [[rangoric-srd/feats/Craft Construct|Craft Construct]] feat; its price follows its size.
 
-| Size | CR | Price | Cost |
-| --- | --- | --- | --- |
-| [[rangoric-srd/monsters/animated-object/Animated Object, Tiny\|Tiny]] | 1/2 | 250 gp | 125 gp |
-| [[rangoric-srd/monsters/animated-object/Animated Object, Small\|Small]] | 2 | 2,000 gp | 1,000 gp |
-| [[rangoric-srd/monsters/animated-object/Animated Object, Medium\|Medium]] | 3 | 4,500 gp | 2,250 gp |
-| [[rangoric-srd/monsters/animated-object/Animated Object, Large\|Large]] | 5 | 12,500 gp | 6,250 gp |
-| [[rangoric-srd/monsters/animated-object/Animated Object, Huge\|Huge]] | 7 | 25,000 gp | 12,500 gp |
-| [[rangoric-srd/monsters/animated-object/Animated Object, Gargantuan\|Gargantuan]] | 9 | 40,000 gp | 20,000 gp |
-| [[rangoric-srd/monsters/animated-object/Animated Object, Colossal\|Colossal]] | 11 | 60,000 gp | 30,000 gp |
+| Size                                                                              | CR  | Price     | Cost      |
+| --------------------------------------------------------------------------------- | --- | --------- | --------- |
+| [[rangoric-srd/monsters/animated-object/Animated Object, Tiny\|Tiny]]             | 1/2 | 250 gp    | 125 gp    |
+| [[rangoric-srd/monsters/animated-object/Animated Object, Small\|Small]]           | 2   | 2,000 gp  | 1,000 gp  |
+| [[rangoric-srd/monsters/animated-object/Animated Object, Medium\|Medium]]         | 3   | 4,500 gp  | 2,250 gp  |
+| [[rangoric-srd/monsters/animated-object/Animated Object, Large\|Large]]           | 5   | 12,500 gp | 6,250 gp  |
+| [[rangoric-srd/monsters/animated-object/Animated Object, Huge\|Huge]]             | 7   | 25,000 gp | 12,500 gp |
+| [[rangoric-srd/monsters/animated-object/Animated Object, Gargantuan\|Gargantuan]] | 9   | 40,000 gp | 20,000 gp |
+| [[rangoric-srd/monsters/animated-object/Animated Object, Colossal\|Colossal]]     | 11  | 60,000 gp | 30,000 gp |
 
-CL 11th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Animate Objects|animate objects]]*, *[[rangoric-srd/spells/Permanency|permanency]]*; Skill [[rangoric-srd/skills/Mysticism|Mysticism]] or appropriate [[rangoric-srd/skills/Craft|Craft]] skill; Price by size (above); Cost half the price.
+CL 11th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Objects|animate objects]]_, _[[rangoric-srd/spells/Permanency|permanency]]_; Skill [[rangoric-srd/skills/Mysticism|Mysticism]] or appropriate [[rangoric-srd/skills/Craft|Craft]] skill; Price by size (above); Cost half the price.

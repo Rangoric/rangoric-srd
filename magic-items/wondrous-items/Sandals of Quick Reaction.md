@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 These supple leather sandals grant a burst of speed during times of duress. When the wearer acts during a surprise round, he can take a standard and a move action during the surprise round. If the wearer already has the ability to take a standard and a move action during the surprise round, he instead gains a +10 circumstance bonus to speed when acting during a surprise round.
 
-Faint transmutation; CL 4th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Anticipate Peril|anticipate peril]]*, *[[rangoric-srd/spells/Haste|haste]]*; Price 4,000 gp; Cost 2,000 gp; Weight 1 lb.
+Faint transmutation; CL 4th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Anticipate Peril|anticipate peril]]_, _[[rangoric-srd/spells/Haste|haste]]_; Price 4,000 gp; Cost 2,000 gp; Weight 1 lb.

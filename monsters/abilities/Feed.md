@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Feed
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “feed”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “feed”, on the Special Attacks line.
 
 An alraune's roots can feed on a [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] or willing target. At the end of an hour of feeding, the victim takes 1d6 points of both Constitution and Intelligence drain, and the alraune heals 3d6 points of damage. The [[rangoric-srd/monsters/Alraune|alraune]] has it.

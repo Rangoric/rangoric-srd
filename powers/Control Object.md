@@ -31,7 +31,7 @@ Target: One unattended object weighing up to 100 lb.
 Duration: Concentration, up to 1 round/level  
 Saving Throw: None  
 Power Resistance: No  
-Power Points: 1  
+Power Points: 1
 
 You telekinetically “bring to life” an inanimate object. Though it is not actually alive, the object moves under your control. Live vegetation cannot be controlled in this fashion, nor can already animated objects or undead. The controlled object moves like a puppet, with jerky and clumsy movements, at a speed of up to 20 feet. If its form is rigid, it makes creaking, groaning, or grating sounds as you control it.
 

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Spring-Heeled Jack
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
-  - **Hit Dice**: 4d6+12 (26 hp)
-  - **Initiative**: +5
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 16 (+5 Dex, +1 size), touch 16, flat-footed 11
-  - **Base Attack**: +2; **CMB**: +3; **CMD**: 18
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +9 melee (1d3+2/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +9 melee (1d3+2/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (15-ft. cone, 2d6 fire damage, Reflex DC 14 half, usable every 2d4 rounds), [[rangoric-srd/monsters/abilities/Frightening Gaze|frightening gaze]], [[rangoric-srd/monsters/abilities/Vault|vault]], sneak attack +1d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-  - **Saves**: Fort +3, Ref +9, Will +4
-  - **Abilities**: Str 15, Dex 21, Con 14, Int 10, Wis 10, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +9 (+13 jumping), [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +12, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +16
-  - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any land
-  - **Organization**: Solitary
-  - **Challenge Rating**: 3
-  - **Treasure**: Double (mwk dagger, other treasure)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
+- **Hit Dice**: 4d6+12 (26 hp)
+- **Initiative**: +5
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 16 (+5 Dex, +1 size), touch 16, flat-footed 11
+- **Base Attack**: +2; **CMB**: +3; **CMD**: 18
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +9 melee (1d3+2/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +9 melee (1d3+2/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (15-ft. cone, 2d6 fire damage, Reflex DC 14 half, usable every 2d4 rounds), [[rangoric-srd/monsters/abilities/Frightening Gaze|frightening gaze]], [[rangoric-srd/monsters/abilities/Vault|vault]], sneak attack +1d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
+- **Saves**: Fort +3, Ref +9, Will +4
+- **Abilities**: Str 15, Dex 21, Con 14, Int 10, Wis 10, Cha 13
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +9 (+13 jumping), [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +12, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +16
+- **Feats**: [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any land
+- **Organization**: Solitary
+- **Challenge Rating**: 3
+- **Treasure**: Double (mwk dagger, other treasure)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 This cruel-eyed night terror is infamous for his love of trickery and spontaneous bursts of violence. Spring-Heeled Jack stands about 4 feet tall and weighs about 80 pounds.
 
@@ -73,7 +73,7 @@ Spring-heeled jacks speak Common and Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +5): Constant—*[[rangoric-srd/spells/Feather Fall|feather fall]], [[rangoric-srd/spells/Pass without Trace|pass without trace]]*; 1/day—*[[rangoric-srd/spells/Passwall|passwall]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +5): Constant—_[[rangoric-srd/spells/Feather Fall|feather fall]], [[rangoric-srd/spells/Pass without Trace|pass without trace]]_; 1/day—_[[rangoric-srd/spells/Passwall|passwall]]_.
 
 **[[rangoric-srd/monsters/abilities/Frightening Gaze|Frightening Gaze]] (Su)**: Any creature within a 10-ft. radius upon whom Spring-Heeled Jack's gaze falls is [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 1d6 rounds. A successful DC 13 Will save negates. The save DC is Charisma-based.
 

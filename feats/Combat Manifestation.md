@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Combat Manifestation
 
-You are adept at manifesting powers in combat.  
+You are adept at manifesting powers in combat.
 
 Benefit: You get a +4 bonus on [[rangoric-srd/spells/Magic Overview#Concentration|Concentration]] checks made to manifest a power or use a psi-like ability while on the defensive or while you are [[rangoric-srd/rules/conditions/Grappled (Condition)|grappling]] or [[rangoric-srd/rules/conditions/Pinned (Condition)|pinned]].

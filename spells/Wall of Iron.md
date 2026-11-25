@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Wall of Iron
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Mag 6, Occ 6, Sor/Wiz 6, Sum 5, SumU 6
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: Iron wall whose area is up to one 5-ft. square/level; see text
-  - **Duration**: Instantaneous
-  - **Saving Throw**: See text
-  - **Spell Resistance**: No
+- **Level**: Mag 6, Occ 6, Sor/Wiz 6, Sum 5, SumU 6
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: Iron wall whose area is up to one 5-ft. square/level; see text
+- **Duration**: Instantaneous
+- **Saving Throw**: See text
+- **Spell Resistance**: No
 
 You cause a flat, vertical iron wall to spring into being. The wall inserts itself into any surrounding nonliving material if its area is sufficient to do so. The wall cannot be conjured so that it occupies the same space as a creature or another object. It must always be a flat plane, though you can shape its edges to fit the available space.
 
@@ -48,4 +48,4 @@ If you desire, the wall can be created vertically resting on a flat surface but 
 
 Like any iron wall, this wall is subject to rust, perforation, and other natural phenomena.
 
-*Material Component*: A small piece of sheet iron plus gold dust worth 50 gp (1 pound of gold dust).
+_Material Component_: A small piece of sheet iron plus gold dust worth 50 gp (1 pound of gold dust).

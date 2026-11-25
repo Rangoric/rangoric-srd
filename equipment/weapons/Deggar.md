@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 
 # Deggar
 
-*Exotic light melee weapon (disarm).* Cost 4 gp; Dmg 1d4 (S), 1d6 (M); Critical 19-20/x2; Weight 2 lb.; Type Piercing. ^stats
+_Exotic light melee weapon (disarm)._ Cost 4 gp; Dmg 1d4 (S), 1d6 (M); Critical 19-20/x2; Weight 2 lb.; Type Piercing. ^stats
 
 The deggar is a two-bladed knife that is useful for quickly cutting ropes, skinning fish, and disarming opponents. The two blades are slightly angled in the pommel and offset to create a small opening in which blades can be trapped momentarily. A proficient user that attempts to disarm an opponent with a deggar gains a +2 circumstance bonus to the attempt. In addition, because of its strange construction, a deggar’s wielder gains a +2 circumstance bonus on any attempts to avoid being disarmed.
 

@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Monstrous Scorpion, Large
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
-  - **Hit Dice**: 5d8+15 (37 hp)
-  - **Initiative**: +0
-  - **Speed**: 50 ft. (10 squares)
-  - **Armor Class**: 16 (+7 armor, –1 size), touch 9, flat-footed 16
-  - **Base Attack**: +3; **CMB**: +8 (+12 grapple); **CMD**: 18 (30 vs. trip)
-  - **Attack**: Claw +6 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or sting +6 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: 2 claws +6 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and sting +6 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d6+4), [[rangoric-srd/monsters/abilities/Poison|poison]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-  - **Saves**: Fort +7, Ref +1, Will +1
-  - **Abilities**: Str 19, Dex 10, Con 16, Int —, Wis 10, Cha 2
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +0
-  - **Feats**: —
-  - **Environment**: Warm or temperate deserts, forests, plains, or underground
-  - **Organization**: Solitary or colony (2–5)
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 6–9 HD (Large)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
+- **Hit Dice**: 5d8+15 (37 hp)
+- **Initiative**: +0
+- **Speed**: 50 ft. (10 squares)
+- **Armor Class**: 16 (+7 armor, –1 size), touch 9, flat-footed 16
+- **Base Attack**: +3; **CMB**: +8 (+12 grapple); **CMD**: 18 (30 vs. trip)
+- **Attack**: Claw +6 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or sting +6 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: 2 claws +6 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and sting +6 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d6+4), [[rangoric-srd/monsters/abilities/Poison|poison]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
+- **Saves**: Fort +7, Ref +1, Will +1
+- **Abilities**: Str 19, Dex 10, Con 16, Int —, Wis 10, Cha 2
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +0
+- **Feats**: —
+- **Environment**: Warm or temperate deserts, forests, plains, or underground
+- **Organization**: Solitary or colony (2–5)
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 6–9 HD (Large)
+- **Level Adjustment**: —
 
 Giant scorpions are monstrous versions of the more common desert scorpion. They are likely to attack any creature that approaches. Giant scorpions usually charge when attacking, grabbing prey in their pincers, then lashing their segmented tails forward to kill their victim with injected venom.
 
@@ -80,4 +80,4 @@ Other species of giant scorpion are listed under [[rangoric-srd/monsters/scorpio
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Large Scorpion Venom|Giant Scorpion Venom]]: Sting—injury; *save* Fort DC 17; *frequency* 1/round for 6 rounds; *effect* 1d2 Str damage; *cure* 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Large Scorpion Venom|Giant Scorpion Venom]]: Sting—injury; _save_ Fort DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Str damage; _cure_ 1 save. The save DC is Constitution-based and includes a +2 racial bonus.

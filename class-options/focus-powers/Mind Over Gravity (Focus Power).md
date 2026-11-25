@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Mind Over Gravity
 
-*A focus power of [[rangoric-srd/class-options/implement-schools/Transmutation Implements|transmutation implements]], for the [[rangoric-srd/classes/Occultist|occultist]] (Sp).*
+_A focus power of [[rangoric-srd/class-options/implement-schools/Transmutation Implements|transmutation implements]], for the [[rangoric-srd/classes/Occultist|occultist]] (Sp)._
 
 As a standard action, you can expend 1 point of mental focus to give yourself a fly speed of 60 feet with perfect maneuverability. This effect lasts for 1 minute per occultist level you possess. You must be at least 7th level to select this focus power.

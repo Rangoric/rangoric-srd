@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Elixir of Luck
 
-This golden elixir grants good luck to the imbiber. After drinking the elixir, the character gains 3 [[rangoric-srd/unearthed-arcana/Hero Points|hero points]] that must be used within 1 hour. These hero points do not count against the imbiber’s limit. They can only be used to aid the imbiber. They cannot be used to aid the rolls of others. A character cannot benefit from more than one *elixir of luck* in a 1-month period.
+This golden elixir grants good luck to the imbiber. After drinking the elixir, the character gains 3 [[rangoric-srd/unearthed-arcana/Hero Points|hero points]] that must be used within 1 hour. These hero points do not count against the imbiber’s limit. They can only be used to aid the imbiber. They cannot be used to aid the rolls of others. A character cannot benefit from more than one _elixir of luck_ in a 1-month period.
 
-Moderate evocation; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Heroic Fortune|heroic fortune]]*; Price 3,600 gp; Cost 1,800 gp.
+Moderate evocation; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Heroic Fortune|heroic fortune]]_; Price 3,600 gp; Cost 1,800 gp.

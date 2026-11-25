@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Fluidsteel Vial
 
-*Alchana; Special*
+_Alchana; Special_
 
 Fluidsteel is a mercury-like substance that remains liquid while in its treated vial, but dries rapidly and hardens into lesser-worked steel when poured out. If uncontained, fluidsteel flows and spreads rapidly, creating a quickly hardening sheet of paper-thin foil of little use aside from melting and reforging. If poured into a mold, fluidsteel will harden over one hour and be ready for final working and tempering at that time. Finally, fluidsteel can be poured over already-worked steel items to fill in any breaks or holes, but only if held in a way to keep the fluid metal in contact with the items (after an hour, the weapon is considered repaired).
 

@@ -25,15 +25,15 @@ tags: [rangoric, rangoric/spell]
 
 # Summon Froghemoth
 
-*Conjuration (Summoning)*
+_Conjuration (Summoning)_
 
-  - **Level**: Drd 9
-  - **Components**: V, S
-  - **Casting Time**: 1 round
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: One summoned creature
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Drd 9
+- **Components**: V, S
+- **Casting Time**: 1 round
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: One summoned creature
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-This spell functions as *[[rangoric-srd/spells/Summon Nature’s Ally IX|summon nature's ally IX]]*, except you summon a froghemoth.
+This spell functions as _[[rangoric-srd/spells/Summon Nature’s Ally IX|summon nature's ally IX]]_, except you summon a froghemoth.

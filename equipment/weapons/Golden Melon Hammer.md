@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/hammers]
 
 # Golden Melon Hammer
 
-*Simple two-handed melee weapon.* Cost 15 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 14 lb.; Type Bludgeoning. ^stats
+_Simple two-handed melee weapon._ Cost 15 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 14 lb.; Type Bludgeoning. ^stats
 
 This short rod bears a large faceted iron head. It is slightly heavier than a mace and deals tremendous, crushing blows to its targets.

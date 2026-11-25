@@ -18,13 +18,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Fan of Flames
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|form infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|form infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Fire Element|fire]]
-  - **Type**: form infusion
-  - **Level**: 1
-  - **Burn**: 1
-  - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Blue Flame Blast|blue flame]], [[rangoric-srd/class-options/wild-talents/Fire Blast|fire]]
-  - **Saving Throw**: Reflex half
+- **Element**: [[rangoric-srd/class-options/elements/Fire Element|fire]]
+- **Type**: form infusion
+- **Level**: 1
+- **Burn**: 1
+- **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Blue Flame Blast|blue flame]], [[rangoric-srd/class-options/wild-talents/Fire Blast|fire]]
+- **Saving Throw**: Reflex half
 
 Your kinetic blast extends in a fan of flames, damaging all creatures and objects in a 15-foot cone. The saving throw DC is Dexterity-based.

@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Shipwrecker Crab
 
-  - Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]] (Aquatic)
-  - **Hit Dice**: 14d8+126 (189 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares), swim 40 ft.
-  - **Armor Class**: 27 (+3 Dex, +22 natural, –8 size), touch 5, flat-footed 24
-  - **Base Attack**: +10; **CMB**: +32 (+36 grapple); **CMD**: 45 (61 vs. trip)
-  - **Attack**: Claw +16 melee (2d8+21 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: 2 claws +16 melee (2d8+21 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 30 ft./30 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d8+21)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Powerful Claws|powerful claws]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-  - **Saves**: Fort +18, Ref +7, Will +6
-  - **Abilities**: Str 38, Dex 16, Con 28, Int —, Wis 14, Cha 5
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Perception|Perception]] +10
-  - **Feats**: —
-  - **Environment**: Any water
-  - **Organization**: Solitary or cast (2–12)
-  - **Challenge Rating**: 13
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]] (Aquatic)
+- **Hit Dice**: 14d8+126 (189 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares), swim 40 ft.
+- **Armor Class**: 27 (+3 Dex, +22 natural, –8 size), touch 5, flat-footed 24
+- **Base Attack**: +10; **CMB**: +32 (+36 grapple); **CMD**: 45 (61 vs. trip)
+- **Attack**: Claw +16 melee (2d8+21 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: 2 claws +16 melee (2d8+21 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 30 ft./30 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d8+21)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Powerful Claws|powerful claws]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
+- **Saves**: Fort +18, Ref +7, Will +6
+- **Abilities**: Str 38, Dex 16, Con 28, Int —, Wis 14, Cha 5
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Perception|Perception]] +10
+- **Feats**: —
+- **Environment**: Any water
+- **Organization**: Solitary or cast (2–12)
+- **Challenge Rating**: 13
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A bane to all vessels traveling the seas, shipwrecker crabs can ruin the career of a merchant captain in minutes, destroying her ship, dumping its cargo into the waters below, and plucking her drowning crew from the wreckage for food.
 

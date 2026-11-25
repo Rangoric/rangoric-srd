@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Expert Climber
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “expert climber”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “expert climber”, on the Special Qualities line.
 
-The creature's feet allow it to climb virtually any surface, no matter how slick or sheer. In effect, it is treated as constantly being under a natural version of the spell *[[rangoric-srd/spells/Spider Climb|spider climb]]*. The [[rangoric-srd/monsters/Giant Gecko|giant gecko]] has it.
+The creature's feet allow it to climb virtually any surface, no matter how slick or sheer. In effect, it is treated as constantly being under a natural version of the spell _[[rangoric-srd/spells/Spider Climb|spider climb]]_. The [[rangoric-srd/monsters/Giant Gecko|giant gecko]] has it.

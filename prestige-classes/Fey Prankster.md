@@ -53,18 +53,18 @@ The fey prankster’s class skills (and the key ability for each skill) are [[ra
 
 **Table: The Fey Prankster** ^table-the-fey-prankster
 
-| Level | Special | Spells per Day: 1st | 2nd | 3rd | 4th |
-| --- | --- | --- | --- | --- | --- |
-| 1st | Prestidigitator | 1 | — | — | — |
-| 2nd | Mask of Fey | 2 | 0 | — | — |
-| 3rd | Luck of the Fey | 2 | 1 | — | — |
-| 4th | — | 3 | 2 | 0 | — |
-| 5th | Mask of Fey | 3 | 2 | 1 | — |
-| 6th | Luck of the True Fey | 3 | 3 | 2 | 0 |
-| 7th | Slippery Mind | 4 | 3 | 2 | 1 |
-| 8th | Mask of Fey | 4 | 3 | 3 | 2 |
-| 9th | — | 4 | 4 | 3 | 2 |
-| 10th | Destined | 4 | 4 | 3 | 3 |
+| Level | Special              | Spells per Day: 1st | 2nd | 3rd | 4th |
+| ----- | -------------------- | ------------------- | --- | --- | --- |
+| 1st   | Prestidigitator      | 1                   | —   | —   | —   |
+| 2nd   | Mask of Fey          | 2                   | 0   | —   | —   |
+| 3rd   | Luck of the Fey      | 2                   | 1   | —   | —   |
+| 4th   | —                    | 3                   | 2   | 0   | —   |
+| 5th   | Mask of Fey          | 3                   | 2   | 1   | —   |
+| 6th   | Luck of the True Fey | 3                   | 3   | 2   | 0   |
+| 7th   | Slippery Mind        | 4                   | 3   | 2   | 1   |
+| 8th   | Mask of Fey          | 4                   | 3   | 3   | 2   |
+| 9th   | —                    | 4                   | 4   | 3   | 2   |
+| 10th  | Destined             | 4                   | 4   | 3   | 3   |
 
 ###### Class Features
 
@@ -74,7 +74,7 @@ All of the following are class features of the fey prankster prestige class.
 
 **Prestidigitator (Sp)**: At 1st level, the fey prankster gains [[rangoric-srd/prestige-classes/Fey Class Features#^prestidigitator|prestidigitator]]. ^fey-prankster-prestidigitator
 
-**Mask of Fey (Sp)**: At 2nd level, the fey prankster can use *[[rangoric-srd/spells/Fey Mask|fey mask]]* once per day. This ability functions as the spell of the same name. At 5th level, this ability is usable two times per day, and at 8th level, three times per day. ^fey-prankster-mask-of-fey
+**Mask of Fey (Sp)**: At 2nd level, the fey prankster can use _[[rangoric-srd/spells/Fey Mask|fey mask]]_ once per day. This ability functions as the spell of the same name. At 5th level, this ability is usable two times per day, and at 8th level, three times per day. ^fey-prankster-mask-of-fey
 
 **Luck of the Fey (Ex)**: At 3rd level, the fey prankster gains [[rangoric-srd/prestige-classes/Fey Class Features#^luck-of-the-fey|luck of the fey]]. ^fey-prankster-luck-of-the-fey
 
@@ -90,10 +90,10 @@ All of the following are class features of the fey prankster prestige class.
 
 These spells carry “Fpk” levels.
 
-**1st Level**: *[[rangoric-srd/spells/Bad Luck|bad luck]]*, *[[rangoric-srd/spells/Disguise Self|disguise self]]*, *[[rangoric-srd/spells/Charm Person|charm person]]*, *[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]*, *[[rangoric-srd/spells/Faerie’s Gold|faerie’s gold]]*, *[[rangoric-srd/spells/Good Luck|good luck]]*, *[[rangoric-srd/spells/Trinket|trinket]]*.
+**1st Level**: _[[rangoric-srd/spells/Bad Luck|bad luck]]_, _[[rangoric-srd/spells/Disguise Self|disguise self]]_, _[[rangoric-srd/spells/Charm Person|charm person]]_, _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Faerie’s Gold|faerie’s gold]]_, _[[rangoric-srd/spells/Good Luck|good luck]]_, _[[rangoric-srd/spells/Trinket|trinket]]_.
 
-**2nd Level**: *[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]*, *[[rangoric-srd/spells/Disrobe|disrobe]]*, *[[rangoric-srd/spells/Fool’s Gold (Faeries)|fool’s gold]]*, *[[rangoric-srd/spells/Glob of Sap|glob of sap]]*, *[[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Misdirection|misdirection]]*, *[[rangoric-srd/spells/See Invisibility|see invisibility]]*.
+**2nd Level**: _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_, _[[rangoric-srd/spells/Disrobe|disrobe]]_, _[[rangoric-srd/spells/Fool’s Gold (Faeries)|fool’s gold]]_, _[[rangoric-srd/spells/Glob of Sap|glob of sap]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Misdirection|misdirection]]_, _[[rangoric-srd/spells/See Invisibility|see invisibility]]_.
 
-**3rd Level**: *[[rangoric-srd/spells/Bestow Curse|bestow curse]]*, *[[rangoric-srd/spells/Blink|blink]]*, *[[rangoric-srd/spells/Charm Monster|charm monster]]*, *[[rangoric-srd/spells/Displacement|displacement]]*, *[[rangoric-srd/spells/Fey Mask|fey mask]]*, *[[rangoric-srd/spells/Luck of the Fey|luck of the fey]]*, *[[rangoric-srd/spells/Suggestion|suggestion]]*.
+**3rd Level**: _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_, _[[rangoric-srd/spells/Blink|blink]]_, _[[rangoric-srd/spells/Charm Monster|charm monster]]_, _[[rangoric-srd/spells/Displacement|displacement]]_, _[[rangoric-srd/spells/Fey Mask|fey mask]]_, _[[rangoric-srd/spells/Luck of the Fey|luck of the fey]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_.
 
-**4th Level**: *[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]*, *[[rangoric-srd/spells/Discern Route|discern route]]*, *[[rangoric-srd/spells/Dismiss Fey|dismiss fey]]*, *[[rangoric-srd/spells/Fitful Sleep|fitful sleep]]*, *[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]*, *[[rangoric-srd/spells/Laughing Gas|laughing gas]]*, *[[rangoric-srd/spells/Nondetection|nondetection]]*.
+**4th Level**: _[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]_, _[[rangoric-srd/spells/Discern Route|discern route]]_, _[[rangoric-srd/spells/Dismiss Fey|dismiss fey]]_, _[[rangoric-srd/spells/Fitful Sleep|fitful sleep]]_, _[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]_, _[[rangoric-srd/spells/Laughing Gas|laughing gas]]_, _[[rangoric-srd/spells/Nondetection|nondetection]]_.

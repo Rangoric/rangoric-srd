@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Basilisk
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 7d10+14 (52 hp)
-  - **Initiative**: –1
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 17 (–1 Dex, +8 natural), touch 9, flat-footed 17
-  - **Base Attack**: +7; **CMB**: +10; **CMD**: 19 (31 vs. trip)
-  - **Attack**: Bite +10 melee (1d8+4)
-  - **Full Attack**: Bite +10 melee (1d8+4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Gaze|Gaze]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-  - **Saves**: Fort +9, Ref +4, Will +5
-  - **Abilities**: Str 16, Dex 8, Con 15, Int 2, Wis 13, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, or colony (3–6)
-  - **Challenge Rating**: 5
-  - **Treasure**: Incidental
-  - **Alignment**: Always neutral
-  - **Advancement**: 7–10 HD (Medium); 11–18 HD (Large)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 7d10+14 (52 hp)
+- **Initiative**: –1
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 17 (–1 Dex, +8 natural), touch 9, flat-footed 17
+- **Base Attack**: +7; **CMB**: +10; **CMD**: 19 (31 vs. trip)
+- **Attack**: Bite +10 melee (1d8+4)
+- **Full Attack**: Bite +10 melee (1d8+4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Gaze|Gaze]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
+- **Saves**: Fort +9, Ref +4, Will +5
+- **Abilities**: Str 16, Dex 8, Con 15, Int 2, Wis 13, Cha 11
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any
+- **Organization**: Solitary, pair, or colony (3–6)
+- **Challenge Rating**: 5
+- **Treasure**: Incidental
+- **Alignment**: Always neutral
+- **Advancement**: 7–10 HD (Medium); 11–18 HD (Large)
+- **Level Adjustment**: —
 
 The basilisk, often called the “King of Serpents,” is in fact not a serpent at all, but rather an eight-legged reptile with a nasty disposition and the ability to turn creatures to stone with its gaze. Folklore holds that, much like the cockatrice, the first basilisks hatched from eggs laid by snakes and incubated by roosters, but little in the basilisk's physiology lends any credence to this claim.
 

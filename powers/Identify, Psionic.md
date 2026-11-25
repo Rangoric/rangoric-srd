@@ -31,7 +31,7 @@ Clairsentience
 **Duration:** Instantaneous  
 **Saving Throw:** None  
 **Power Resistance:** No  
-**Power Points:** 3  
+**Power Points:** 3
 
 As the [[rangoric-srd/spells/Identify|identify]] spell, except as noted here.
 

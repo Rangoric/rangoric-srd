@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Greater Antidote
 
-*Ingestible; Special*
+_Ingestible; Special_
 
 An advanced version of [[rangoric-srd/equipment/alchemical-items/Universal Antivenom|universal antivenom]], this potion is a universal antidote against all kinds of poisons, regardless of how they are administered or created.
 

@@ -43,17 +43,17 @@ Paragon Class: [[rangoric-srd/classes/Human Paragon|Human Paragon]]
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 15 years | +1d4 | +1d6 | +2d6 |
+| --------- | --------- | ----------- | ------- |
+| 15 years  | +1d4      | +1d6        | +2d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 35 years | 53 years | 70 years | +2d20 years |
+| Middle Age | Old      | Venerable | Maximum Age |
+| ---------- | -------- | --------- | ----------- |
+| 35 years   | 53 years | 70 years  | +2d20 years |
 
-| Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 4 ft. 10 in. | +2d10 | 120 lb. | × (2d4) lb. |
-| Female | 4 ft. 5 in. | +2d10 | 85 lb. | × (2d4) lb. |
+| Gender | Base Height  | Height Modifier | Base Weight | Weight Modifier |
+| ------ | ------------ | --------------- | ----------- | --------------- |
+| Male   | 4 ft. 10 in. | +2d10           | 120 lb.     | × (2d4) lb.     |
+| Female | 4 ft. 5 in.  | +2d10           | 85 lb.      | × (2d4) lb.     |
 
 ### Description
 
@@ -101,23 +101,23 @@ Of course, well-meaning, blundering ignorance and numerical superiority are not 
 
 A human can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Adoptive Parentage\|Adoptive Parentage]] | Bonus feat |
-| [[rangoric-srd/races/racial-traits/Dual Talent\|Dual Talent]] | +2 to one ability score, bonus feat, and skilled |
-| [[rangoric-srd/races/racial-traits/Eye for Talent\|Eye for Talent]] | Bonus feat |
-| [[rangoric-srd/races/racial-traits/Focused Study\|Focused Study]] | Bonus feat |
-| [[rangoric-srd/races/racial-traits/Heart of the Fields\|Heart of the Fields]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Heart of the Mountains\|Heart of the Mountains]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Heart of the Sea\|Heart of the Sea]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Heart of the Slums\|Heart of the Slums]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Heart of the Snows\|Heart of the Snows]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Heart of the Streets\|Heart of the Streets]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Heart of the Sun\|Heart of the Sun]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Heart of the Wilderness\|Heart of the Wilderness]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Heroic\|Heroic]] | Bonus feat |
-| [[rangoric-srd/races/racial-traits/Mixed Heritage\|Mixed Heritage]] | Bonus feat |
-| [[rangoric-srd/races/racial-traits/Silver Tongued\|Silver Tongued]] | Skilled |
+| Trait                                                                                 | Replaces                                         |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| [[rangoric-srd/races/racial-traits/Adoptive Parentage\|Adoptive Parentage]]           | Bonus feat                                       |
+| [[rangoric-srd/races/racial-traits/Dual Talent\|Dual Talent]]                         | +2 to one ability score, bonus feat, and skilled |
+| [[rangoric-srd/races/racial-traits/Eye for Talent\|Eye for Talent]]                   | Bonus feat                                       |
+| [[rangoric-srd/races/racial-traits/Focused Study\|Focused Study]]                     | Bonus feat                                       |
+| [[rangoric-srd/races/racial-traits/Heart of the Fields\|Heart of the Fields]]         | Skilled                                          |
+| [[rangoric-srd/races/racial-traits/Heart of the Mountains\|Heart of the Mountains]]   | Skilled                                          |
+| [[rangoric-srd/races/racial-traits/Heart of the Sea\|Heart of the Sea]]               | Skilled                                          |
+| [[rangoric-srd/races/racial-traits/Heart of the Slums\|Heart of the Slums]]           | Skilled                                          |
+| [[rangoric-srd/races/racial-traits/Heart of the Snows\|Heart of the Snows]]           | Skilled                                          |
+| [[rangoric-srd/races/racial-traits/Heart of the Streets\|Heart of the Streets]]       | Skilled                                          |
+| [[rangoric-srd/races/racial-traits/Heart of the Sun\|Heart of the Sun]]               | Skilled                                          |
+| [[rangoric-srd/races/racial-traits/Heart of the Wilderness\|Heart of the Wilderness]] | Skilled                                          |
+| [[rangoric-srd/races/racial-traits/Heroic\|Heroic]]                                   | Bonus feat                                       |
+| [[rangoric-srd/races/racial-traits/Mixed Heritage\|Mixed Heritage]]                   | Bonus feat                                       |
+| [[rangoric-srd/races/racial-traits/Silver Tongued\|Silver Tongued]]                   | Skilled                                          |
 
 ### Race Traits
 
@@ -148,8 +148,8 @@ A human gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]]
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
+| Archetype                                                                             | Class                                           |
+| ------------------------------------------------------------------------------------- | ----------------------------------------------- |
 | [[rangoric-srd/class-options/archetypes/gunslinger/Buccaneer (Archetype)\|Buccaneer]] | [[rangoric-srd/classes/Gunslinger\|Gunslinger]] |
-| [[rangoric-srd/class-options/archetypes/monk/Wanderer (Archetype)\|Wanderer]] | [[rangoric-srd/classes/Monk\|Monk]] |
-| [[rangoric-srd/class-options/archetypes/druid/Feral Child (Archetype)\|Feral Child]] | [[rangoric-srd/classes/Druid\|Druid]] |
+| [[rangoric-srd/class-options/archetypes/monk/Wanderer (Archetype)\|Wanderer]]         | [[rangoric-srd/classes/Monk\|Monk]]             |
+| [[rangoric-srd/class-options/archetypes/druid/Feral Child (Archetype)\|Feral Child]]  | [[rangoric-srd/classes/Druid\|Druid]]           |

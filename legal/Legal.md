@@ -7,12 +7,13 @@ tags: [rangoric, rangoric/legal]
 The Open Game License for the [[Rangoric SRD]]. Section 15 combines the copyright notices of every source processed into the vault so far, as OGL Section 6 requires for any Open Game Content copied or modified. Include this note, in full, with anything published.
 
 > [!todo] Still to add
+>
 > - **Unrecorded** entries (872 Pathfinder, 1,345 Starfinder, including all 223 starships) name no book. They come from the Foundry downloads, whose lists are included, and the Archives of Nethys lists add the adventure paths; check the source of any you actually use.
 > - When a new source is processed, add its Section 15 lines here and to the table at the bottom.
 
 ## Open Game Content and Product Identity (draft)
 
-*To be decided before publishing. Suggested wording, modelled on the source books:*
+_To be decided before publishing. Suggested wording, modelled on the source books:_
 
 **Product Identity:** The following are Product Identity as defined in the Open Game License 1.0a, Section 1(e), and are not Open Content: the name Rangoric, all game titles in the series, logos, artwork, trade dress, and all proper names, characters, places, dialogue and storylines.
 
@@ -2902,18 +2903,18 @@ END OF LICENSE
 
 Sources were processed in this order, and a line already listed by an earlier source isn't repeated (matched by exact text). Section 15 itself is grouped by family and sorted A–Z within each group; notices that may be the same line with different punctuation sit together under a hidden `%% possible duplicates (n) %%` marker, for review.
 
-| Source | From | Lines | New |
-| --- | --- | --- | --- |
-| 3.5 SRD | `fantasy srd 3.5` (raw `legal.html`) | 4 | 4 |
-| Modern SRD | `modern srd 3.5` (raw `msrdlegal.rtf`) | 2 | 1 |
-| Spells & Magic v3.0 | raw `15 Index.md`, p. 99 | 3 | 3 |
-| Alchemy & Herbalists v3.5 | raw `09 The Feats Table.md`, p. 107 | 3 | 1 |
-| Arms & Armor v3.5 | raw `12 Index.md`, pp. 175–176 (printed as one paragraph; kept whole) | 1 | 1 |
-| Pathfinder Reference Document | raw `legacy prd unchained/OGL.html` (legacy.aonprd.com) | 144 | 143 |
-| Pathfinder (Foundry) | raw `pf1-content-main.zip` → `OGL.txt` (covers `foundryvtt-pathfinder1-master.zip` too) | 462 | 442 |
-| Pathfinder (Archives of Nethys) | raw `Licenses - Archives of Nethys_ Pathfinder RPG Database.html` (saved as `aonprd-15.txt`) | 870 | 523 |
-| Bestiary 6 | raw `bestiary6-15.txt` (from d20pfsrd.com, Bestiary 6 source page) | 1 | 1 |
-| Starfinder (Foundry) | raw `foundry-starfinder.zip` → `OGL` | 19 | 17 |
-| Starfinder (Archives of Nethys) | raw `Archives of Nethys_ Starfinder RPG Database - Licenses.html` (saved as `aonsrd-15.txt`) | 108 | 93 |
-| Encyclopaedia Arcane: Star Magic | raw `11 Rules Summary.md`, p. 64 (OGL v 1.0, D20 System Rules & Content, the book) | 3 | 2 |
-| Open Cthulhu Mythos SRD v1.0 | the PDF's last page (p. 129) | 10 | 8 |
+| Source                           | From                                                                                         | Lines | New |
+| -------------------------------- | -------------------------------------------------------------------------------------------- | ----- | --- |
+| 3.5 SRD                          | `fantasy srd 3.5` (raw `legal.html`)                                                         | 4     | 4   |
+| Modern SRD                       | `modern srd 3.5` (raw `msrdlegal.rtf`)                                                       | 2     | 1   |
+| Spells & Magic v3.0              | raw `15 Index.md`, p. 99                                                                     | 3     | 3   |
+| Alchemy & Herbalists v3.5        | raw `09 The Feats Table.md`, p. 107                                                          | 3     | 1   |
+| Arms & Armor v3.5                | raw `12 Index.md`, pp. 175–176 (printed as one paragraph; kept whole)                        | 1     | 1   |
+| Pathfinder Reference Document    | raw `legacy prd unchained/OGL.html` (legacy.aonprd.com)                                      | 144   | 143 |
+| Pathfinder (Foundry)             | raw `pf1-content-main.zip` → `OGL.txt` (covers `foundryvtt-pathfinder1-master.zip` too)      | 462   | 442 |
+| Pathfinder (Archives of Nethys)  | raw `Licenses - Archives of Nethys_ Pathfinder RPG Database.html` (saved as `aonprd-15.txt`) | 870   | 523 |
+| Bestiary 6                       | raw `bestiary6-15.txt` (from d20pfsrd.com, Bestiary 6 source page)                           | 1     | 1   |
+| Starfinder (Foundry)             | raw `foundry-starfinder.zip` → `OGL`                                                         | 19    | 17  |
+| Starfinder (Archives of Nethys)  | raw `Archives of Nethys_ Starfinder RPG Database - Licenses.html` (saved as `aonsrd-15.txt`) | 108   | 93  |
+| Encyclopaedia Arcane: Star Magic | raw `11 Rules Summary.md`, p. 64 (OGL v 1.0, D20 System Rules & Content, the book)           | 3     | 2   |
+| Open Cthulhu Mythos SRD v1.0     | the PDF's last page (p. 129)                                                                 | 10    | 8   |

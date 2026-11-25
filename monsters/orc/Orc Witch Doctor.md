@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Orc Witch Doctor
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Orc)
-  - **Hit Dice**: 9d6+60 (94 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 17 (+4 armor, +1 deflection, +2 Dex), touch 13, flat-footed 15
-  - **Base Attack**: +4; **CMB**: +5; **CMD**: 18
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +6 melee (1d4+1/19–20) or [[rangoric-srd/equipment/weapons/Sling|sling]] +6 ranged (1d4+1)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +6 melee (1d4+1/19–20); or [[rangoric-srd/equipment/weapons/Sling|sling]] +6 ranged (1d4+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Witch#^witch-hex|Hexes]] ([[rangoric-srd/class-options/hexes/Blight (Hex)|blight]] \[90 feet\], [[rangoric-srd/class-options/hexes/Cackle (Hex)|cackle]], [[rangoric-srd/class-options/hexes/Evil Eye (Hex)|evil eye]] \[-4, 4 rounds\], [[rangoric-srd/class-options/hexes/Misfortune (Hex)|misfortune]] \[2 rounds\], [[rangoric-srd/class-options/hexes/Slumber (Hex)|slumber]] \[9 rounds\])
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/class-options/archetypes/witch/Scarred Witch Doctor (Archetype)|constitution dependent]], [[rangoric-srd/class-options/archetypes/witch/Scarred Witch Doctor (Archetype)|fetish mask]], [[rangoric-srd/class-options/archetypes/witch/Scarred Witch Doctor (Archetype)|hex scar]], [[rangoric-srd/class-options/archetypes/witch/Scarred Witch Doctor (Archetype)|scarshield]] (+4, 9 min./day), [[rangoric-srd/races/Orc|weapon familiarity]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-  - **Saves**: Fort +7, Ref +6, Will +10 (+2 vs. pain)
-  - **Abilities**: Str 12, Dex 14, Con 16, Int 12, Wis 12, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Medicine|Medicine]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Perception|Perception]] +10
-  - **Feats**: [[rangoric-srd/feats/Accursed Hex|Accursed Hex]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Extra Hex|Extra Hex]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Temperate hills, mountains, or underground
-  - **Organization**: Solitary, or with other orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])
-  - **Challenge Rating**: 8
-  - **Treasure**: NPC gear (combat gear: potion of cure serious wounds, wand of ray of exhaustion (4 charges); other gear: masterwork dagger, sling with 20 stones, belt of incredible dexterity +2, bracers of armor +1, cloak of resistance +1, ring of protection +1, 98 gp)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Orc)
+- **Hit Dice**: 9d6+60 (94 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 17 (+4 armor, +1 deflection, +2 Dex), touch 13, flat-footed 15
+- **Base Attack**: +4; **CMB**: +5; **CMD**: 18
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +6 melee (1d4+1/19–20) or [[rangoric-srd/equipment/weapons/Sling|sling]] +6 ranged (1d4+1)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +6 melee (1d4+1/19–20); or [[rangoric-srd/equipment/weapons/Sling|sling]] +6 ranged (1d4+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Witch#^witch-hex|Hexes]] ([[rangoric-srd/class-options/hexes/Blight (Hex)|blight]] \[90 feet\], [[rangoric-srd/class-options/hexes/Cackle (Hex)|cackle]], [[rangoric-srd/class-options/hexes/Evil Eye (Hex)|evil eye]] \[-4, 4 rounds\], [[rangoric-srd/class-options/hexes/Misfortune (Hex)|misfortune]] \[2 rounds\], [[rangoric-srd/class-options/hexes/Slumber (Hex)|slumber]] \[9 rounds\])
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/class-options/archetypes/witch/Scarred Witch Doctor (Archetype)|constitution dependent]], [[rangoric-srd/class-options/archetypes/witch/Scarred Witch Doctor (Archetype)|fetish mask]], [[rangoric-srd/class-options/archetypes/witch/Scarred Witch Doctor (Archetype)|hex scar]], [[rangoric-srd/class-options/archetypes/witch/Scarred Witch Doctor (Archetype)|scarshield]] (+4, 9 min./day), [[rangoric-srd/races/Orc|weapon familiarity]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
+- **Saves**: Fort +7, Ref +6, Will +10 (+2 vs. pain)
+- **Abilities**: Str 12, Dex 14, Con 16, Int 12, Wis 12, Cha 8
+- **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Medicine|Medicine]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Perception|Perception]] +10
+- **Feats**: [[rangoric-srd/feats/Accursed Hex|Accursed Hex]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Extra Hex|Extra Hex]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Temperate hills, mountains, or underground
+- **Organization**: Solitary, or with other orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])
+- **Challenge Rating**: 8
+- **Treasure**: NPC gear (combat gear: potion of cure serious wounds, wand of ray of exhaustion (4 charges); other gear: masterwork dagger, sling with 20 stones, belt of incredible dexterity +2, bracers of armor +1, cloak of resistance +1, ring of protection +1, 98 gp)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 An orc witch doctor is an [[rangoric-srd/monsters/orc/Orc|orc]] with 9 levels of [[rangoric-srd/classes/Witch|witch]] (the [[rangoric-srd/class-options/archetypes/witch/Scarred Witch Doctor (Archetype)|scarred witch doctor]] archetype). It has the [[rangoric-srd/races/class-bonuses/Orc Witch (Class Bonus)|orc witch class bonus]]: its fetish mask, which functions as its familiar, stores nine more witch spells, of 1st to 4th level. Arcane spellcasters among orc tribes are frequently called witch doctors. Though many witch doctors are witches, some are sorcerers or magi.
 
@@ -81,4 +81,4 @@ An orc witch doctor speaks Common and Orc.
 
 **Base Statistics**: Without false life and mage armor, the witch doctor's statistics are **AC** 13, touch 13, flat-footed 11; **hp** 79.
 
-**Witch spells prepared** (CL 9th; concentration +10): 5th—*[[rangoric-srd/spells/Cloudkill|cloudkill]]* (DC 16); 4th—*[[rangoric-srd/spells/Enervation|enervation]]*, *[[rangoric-srd/spells/Shout|shout]]* (DC 15); 3rd—*[[rangoric-srd/spells/Fly|fly]]*, *[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]* (DC 14), *[[rangoric-srd/spells/Pain Strike|pain strike]]* (DC 14), *[[rangoric-srd/spells/Screech|screech]]* (DC 14); 2nd—*[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]* (DC 13), *[[rangoric-srd/spells/Blood Blaze|blood blaze]]*, *[[rangoric-srd/spells/False Life|false life]]*, *[[rangoric-srd/spells/Sentry Skull|sentry skull]]*, *[[rangoric-srd/spells/Touch of Idiocy|touch of idiocy]]*; 1st—*[[rangoric-srd/spells/Burning Hands|burning hands]]* (DC 12), *[[rangoric-srd/spells/Chill Touch|chill touch]]* (DC 12), *[[rangoric-srd/spells/Enlarge Person|enlarge person]]* (DC 12), *[[rangoric-srd/spells/Mage Armor|mage armor]]*, *[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]* (DC 12); 0 (at will)—*[[rangoric-srd/spells/Arcane Mark|arcane mark]]*, *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Read Magic|read magic]]*, *[[rangoric-srd/spells/Spark|spark]]*; **Patron**: [[rangoric-srd/class-options/patrons/Vengeance Patron|vengeance]].
+**Witch spells prepared** (CL 9th; concentration +10): 5th—_[[rangoric-srd/spells/Cloudkill|cloudkill]]_ (DC 16); 4th—_[[rangoric-srd/spells/Enervation|enervation]]_, _[[rangoric-srd/spells/Shout|shout]]_ (DC 15); 3rd—_[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_ (DC 14), _[[rangoric-srd/spells/Pain Strike|pain strike]]_ (DC 14), _[[rangoric-srd/spells/Screech|screech]]_ (DC 14); 2nd—_[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_ (DC 13), _[[rangoric-srd/spells/Blood Blaze|blood blaze]]_, _[[rangoric-srd/spells/False Life|false life]]_, _[[rangoric-srd/spells/Sentry Skull|sentry skull]]_, _[[rangoric-srd/spells/Touch of Idiocy|touch of idiocy]]_; 1st—_[[rangoric-srd/spells/Burning Hands|burning hands]]_ (DC 12), _[[rangoric-srd/spells/Chill Touch|chill touch]]_ (DC 12), _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ (DC 12), _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_ (DC 12); 0 (at will)—_[[rangoric-srd/spells/Arcane Mark|arcane mark]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_, _[[rangoric-srd/spells/Spark|spark]]_; **Patron**: [[rangoric-srd/class-options/patrons/Vengeance Patron|vengeance]].

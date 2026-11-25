@@ -28,6 +28,6 @@ Clairsentience
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 hour/level  
-**Power Points:** 5  
+**Power Points:** 5
 
 You (plus all your gear and any objects you carry) become difficult to detect by clairsentience powers such as [[rangoric-srd/powers/Clairvoyant Sense|clairvoyant sense]], [[rangoric-srd/powers/Remote Viewing (Power)|remote viewing]], and [[rangoric-srd/powers/True Seeing, Psionic|psionic true seeing]]. If a clairsentience power or similar effect is attempted against you, the manifester of the power must succeed on a manifester level check (1d20 + manifester level, or caster level if the opponent is not a manifester) against a DC of 13 + your manifester level (maximum +10).

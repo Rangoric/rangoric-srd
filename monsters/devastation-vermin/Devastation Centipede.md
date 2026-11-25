@@ -36,26 +36,26 @@ tags: [rangoric, rangoric/monster]
 
 # Devastation Centipede
 
-  - Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
-  - **Hit Dice**: 128d8+1,152 (1,728 hp)
-  - **Initiative**: +13 (Dex)
-  - **Speed**: 80 ft.
-  - **Armor Class**: 55 (-8 size, +13 Dex, +40 natural)
-  - **Base Attack**: +96; **CMB**: +115 (+120 grapple); **CMD**: 138 (can't be tripped)
-  - **Attack**: Bite +99 (20d10+16 plus poison) melee
-  - **Full Attack**: Bite +99 (20d10+16 plus poison) melee
-  - **Space/Reach**: 50 ft./40 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
-  - **Special Qualities**: Darkvision 300 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 50, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/-
-  - **Saves**: Fort +75, Ref +55, Will +42
-  - **Abilities**: Str 33, Dex 37, Con 29, Int -, Wis 10, Cha 2
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19 (+39 jumping), [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +132
-  - **Climate/Terrain**: Any land
-  - **Organization**: Solitary or cluster (2-5)
-  - **Challenge Rating**: 39
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: None
+- Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
+- **Hit Dice**: 128d8+1,152 (1,728 hp)
+- **Initiative**: +13 (Dex)
+- **Speed**: 80 ft.
+- **Armor Class**: 55 (-8 size, +13 Dex, +40 natural)
+- **Base Attack**: +96; **CMB**: +115 (+120 grapple); **CMD**: 138 (can't be tripped)
+- **Attack**: Bite +99 (20d10+16 plus poison) melee
+- **Full Attack**: Bite +99 (20d10+16 plus poison) melee
+- **Space/Reach**: 50 ft./40 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
+- **Special Qualities**: Darkvision 300 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 50, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/-
+- **Saves**: Fort +75, Ref +55, Will +42
+- **Abilities**: Str 33, Dex 37, Con 29, Int -, Wis 10, Cha 2
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19 (+39 jumping), [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +132
+- **Climate/Terrain**: Any land
+- **Organization**: Solitary or cluster (2-5)
+- **Challenge Rating**: 39
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: None
 
 Poison (Ex): Bite, Fort save (DC 93); initial and secondary damage 2d12 temporary Dex.
 

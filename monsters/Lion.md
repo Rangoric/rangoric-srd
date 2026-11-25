@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Lion
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 5d8+10 (32 hp)
-  - **Initiative**: +7
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 15 (+3 Dex, +3 natural, –1 size), touch 12, flat-footed 12
-  - **Base Attack**: +3; **CMB**: +9 (+13 grapple); **CMD**: 22 (26 vs. trip)
-  - **Attack**: Bite +7 melee (1d8+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +7 melee (1d4+5)
-  - **Full Attack**: Bite +7 melee (1d8+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +7 melee (1d4+5)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +7, 1d4+5)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +6, Ref +7, Will +2
-  - **Abilities**: Str 21, Dex 17, Con 15, Int 2, Wis 12, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+12 in undergrowth)
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Warm plains
-  - **Organization**: Solitary, pair, or pride (3–10)
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 6–8 HD (Large)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 5d8+10 (32 hp)
+- **Initiative**: +7
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 15 (+3 Dex, +3 natural, –1 size), touch 12, flat-footed 12
+- **Base Attack**: +3; **CMB**: +9 (+13 grapple); **CMD**: 22 (26 vs. trip)
+- **Attack**: Bite +7 melee (1d8+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +7 melee (1d4+5)
+- **Full Attack**: Bite +7 melee (1d8+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +7 melee (1d4+5)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +7, 1d4+5)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +6, Ref +7, Will +2
+- **Abilities**: Str 21, Dex 17, Con 15, Int 2, Wis 12, Cha 6
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+12 in undergrowth)
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Warm plains
+- **Organization**: Solitary, pair, or pride (3–10)
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 6–8 HD (Large)
+- **Level Adjustment**: —
 
 Male lions are 5 to 8 feet long and weigh 330 to 550 pounds. Females are slightly smaller but use the same statistics.
 

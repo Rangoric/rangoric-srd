@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Human Shaman
 
-*A [[rangoric-srd/races/Human|human]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Shaman#^shaman-class-bonuses|shaman]] level.*
+_A [[rangoric-srd/races/Human|human]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Shaman#^shaman-class-bonuses|shaman]] level._
 
 Add one spell from the [[rangoric-srd/spells/Cleric Spell List|cleric spell list]] that isn't on the [[rangoric-srd/spells/Shaman Spell List|shaman spell list]] to the list of spells the shaman knows. This spell must be at least 1 level below the highest spell level the shaman can cast.

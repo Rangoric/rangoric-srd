@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Trumpet Archon
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Archon, Extraplanar, Good, Lawful)
-  - **Hit Dice**: 14d10+98 (175 hp)
-  - **Initiative**: +7
-  - **Speed**: 40 ft. (8 squares), fly 90 ft. (good)
-  - **Armor Class**: 27 (+3 Dex, +14 natural; +2 deflection vs. evil), touch 13, flat-footed 24
-  - **Base Attack**: +14; **CMB**: +19; **CMD**: 32
-  - **Attack**: +4 [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +23 melee (2d6+11/19–20)
-  - **Full Attack**: +4 [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +23/+18/+13 melee (2d6+11/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Trumpet, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], aura of menace (DC 22), [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25
-  - **Saves**: Fort +16, Ref +9, Will +14
-  - **Abilities**: Str 20, Dex 17, Con 25, Int 16, Wis 20, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +24, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +20, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +17, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Performance|Performance]] (wind instruments) +20, [[rangoric-srd/skills/Persuasion|Persuasion]] +26, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +24, [[rangoric-srd/skills/Stealth|Stealth]] +20, [[rangoric-srd/skills/Theology|Theology]] +20
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion)
-  - **Environment**: A lawful good-aligned plane
-  - **Organization**: Solitary, pair, or squad (3–5)
-  - **Challenge Rating**: 14
-  - **Treasure**: Standard
-  - **Alignment**: Always lawful good
-  - **Advancement**: 13–18 HD (Medium); 19–36 HD (Large)
-  - **Level Adjustment**: +8
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Archon, Extraplanar, Good, Lawful)
+- **Hit Dice**: 14d10+98 (175 hp)
+- **Initiative**: +7
+- **Speed**: 40 ft. (8 squares), fly 90 ft. (good)
+- **Armor Class**: 27 (+3 Dex, +14 natural; +2 deflection vs. evil), touch 13, flat-footed 24
+- **Base Attack**: +14; **CMB**: +19; **CMD**: 32
+- **Attack**: +4 [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +23 melee (2d6+11/19–20)
+- **Full Attack**: +4 [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +23/+18/+13 melee (2d6+11/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Trumpet, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], aura of menace (DC 22), [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25
+- **Saves**: Fort +16, Ref +9, Will +14
+- **Abilities**: Str 20, Dex 17, Con 25, Int 16, Wis 20, Cha 17
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +24, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +20, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +17, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Performance|Performance]] (wind instruments) +20, [[rangoric-srd/skills/Persuasion|Persuasion]] +26, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +24, [[rangoric-srd/skills/Stealth|Stealth]] +20, [[rangoric-srd/skills/Theology|Theology]] +20
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion)
+- **Environment**: A lawful good-aligned plane
+- **Organization**: Solitary, pair, or squad (3–5)
+- **Challenge Rating**: 14
+- **Treasure**: Standard
+- **Alignment**: Always lawful good
+- **Advancement**: 13–18 HD (Medium); 19–36 HD (Large)
+- **Level Adjustment**: +8
 
 Messengers of good deities and mighty celestials, trumpet archons serve as the vanguard of divine armies and rally the celestial legions to war. When lawful good deities have the need to communicate directly with a group of mortals, they often send trumpet archons to act as their intermediaries. Trumpet archons speak with clear, musical voices. Their otherworldly eyes are white and pupilless.
 
@@ -74,9 +74,9 @@ Each trumpet archon carries a gleaming silver trumpet about 6 feet long.
 
 A trumpet archon usually disdains physical combat, preferring to obliterate foes with spells quickly and return to its duties. If forced into an extended battle, it sounds its trumpet and attacks with a vengeance.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 14th): Constant—*[[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]]*; At will—*[[rangoric-srd/spells/Aid|aid]]*, *[[rangoric-srd/spells/Continual Flame|continual flame]]*, *[[rangoric-srd/spells/Detect Evil|detect evil]]*, *[[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (self plus 50 lbs. of objects only), *[[rangoric-srd/spells/Message|message]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 14th): Constant—_[[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]]_; At will—_[[rangoric-srd/spells/Aid|aid]]_, _[[rangoric-srd/spells/Continual Flame|continual flame]]_, _[[rangoric-srd/spells/Detect Evil|detect evil]]_, _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Message|message]]_.
 
-**Spells prepared** (CL 14th): 7th—*[[rangoric-srd/spells/Cure Serious Wounds, Mass|mass cure serious wounds]]* (2); 6th—*[[rangoric-srd/spells/Banishment|banishment]]* (DC 21), *[[rangoric-srd/spells/Heal (Spell)|heal]]* (2); 5th—*[[rangoric-srd/spells/Dispel Evil|dispel evil]]* (DC 20), *[[rangoric-srd/spells/Cure Light Wounds, Mass|mass cure light wounds]]*, *[[rangoric-srd/spells/Plane Shift|plane shift]]* (DC 20), *[[rangoric-srd/spells/Raise Dead|raise dead]]*; 4th—*[[rangoric-srd/spells/Dismissal|dismissal]]* (DC 19), *[[rangoric-srd/spells/Divine Power|divine power]]*, *[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]* (DC 19), *[[rangoric-srd/spells/Spell Immunity|spell immunity]]*; 3rd—*[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]*, *[[rangoric-srd/spells/Daylight|daylight]]*, *[[rangoric-srd/spells/Invisibility Purge|invisibility purge]]*, *[[rangoric-srd/spells/Magic Vestment|magic vestment]]*, *[[rangoric-srd/spells/Protection from Energy|protection from energy]]*; 2nd—*[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*, *[[rangoric-srd/spells/Consecrate|consecrate]]*, *[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]* (2), *[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]* (2), *[[rangoric-srd/spells/Owl’s Wisdom|owl's wisdom]]*; 1st—*[[rangoric-srd/spells/Bless|bless]]*, *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]* (3), *[[rangoric-srd/spells/Divine Favor|divine favor]]*, *[[rangoric-srd/spells/Sanctuary|sanctuary]]* (DC 16), *[[rangoric-srd/spells/Shield of Faith|shield of faith]]*; 0 (at will)—*[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]*, *[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]*, *[[rangoric-srd/spells/Virtue|virtue]]*.
+**Spells prepared** (CL 14th): 7th—_[[rangoric-srd/spells/Cure Serious Wounds, Mass|mass cure serious wounds]]_ (2); 6th—_[[rangoric-srd/spells/Banishment|banishment]]_ (DC 21), _[[rangoric-srd/spells/Heal (Spell)|heal]]_ (2); 5th—_[[rangoric-srd/spells/Dispel Evil|dispel evil]]_ (DC 20), _[[rangoric-srd/spells/Cure Light Wounds, Mass|mass cure light wounds]]_, _[[rangoric-srd/spells/Plane Shift|plane shift]]_ (DC 20), _[[rangoric-srd/spells/Raise Dead|raise dead]]_; 4th—_[[rangoric-srd/spells/Dismissal|dismissal]]_ (DC 19), _[[rangoric-srd/spells/Divine Power|divine power]]_, _[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]_ (DC 19), _[[rangoric-srd/spells/Spell Immunity|spell immunity]]_; 3rd—_[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]_, _[[rangoric-srd/spells/Daylight|daylight]]_, _[[rangoric-srd/spells/Invisibility Purge|invisibility purge]]_, _[[rangoric-srd/spells/Magic Vestment|magic vestment]]_, _[[rangoric-srd/spells/Protection from Energy|protection from energy]]_; 2nd—_[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Consecrate|consecrate]]_, _[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]_ (2), _[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]_ (2), _[[rangoric-srd/spells/Owl’s Wisdom|owl's wisdom]]_; 1st—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_ (3), _[[rangoric-srd/spells/Divine Favor|divine favor]]_, _[[rangoric-srd/spells/Sanctuary|sanctuary]]_ (DC 16), _[[rangoric-srd/spells/Shield of Faith|shield of faith]]_; 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_, _[[rangoric-srd/spells/Virtue|virtue]]_.
 
 **Spells**: Trumpet archons can cast divine spells as 14th-level clerics. They do not gain access to domains or other cleric abilities.
 

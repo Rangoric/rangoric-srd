@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Burning Hands
 
-*Evocation \[Fire\]*
+_Evocation \[Fire\]_
 
-  - **Level**: Blr 1, Fire 1, Mag 1, Occ 1, Sha 1, Sor/Wiz 1, Wit 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: 15 ft.
-  - **Area**: Cone-shaped burst
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Reflex half
-  - **Spell Resistance**: Yes
+- **Level**: Blr 1, Fire 1, Mag 1, Occ 1, Sha 1, Sor/Wiz 1, Wit 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: 15 ft.
+- **Area**: Cone-shaped burst
+- **Duration**: Instantaneous
+- **Saving Throw**: Reflex half
+- **Spell Resistance**: Yes
 
 A cone of searing flame shoots from your fingertips. Any creature in the area of the flames takes 1d4 points of fire damage per caster level (maximum 5d4). Flammable materials burn if the flames touch them. A character can extinguish burning items as a full-round action.

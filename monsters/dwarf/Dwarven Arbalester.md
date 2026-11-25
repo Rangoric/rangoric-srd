@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Dwarven Arbalester
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Dwarf)
-  - **Hit Dice**: 16d10+80 (172 hp)
-  - **Initiative**: +5
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 29 (+9 armor, +1 deflection, +5 Dex, +4 natural), touch 16, flat-footed 24
-  - **Base Attack**: +16; **CMB**: +20; **CMD**: 34 (38 vs. bull rush or trip)
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dwarven Waraxe|dwarven waraxe]] +23 melee (1d10+5/×3) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Warhammer|warhammer]] +22 melee (1d8+3/×3) or +3 unholy heavy crossbow +31 ranged (1d10+11/17–20)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dwarven Waraxe|dwarven waraxe]] +23/+18/+13/+8 melee (1d10+5/×3); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Warhammer|warhammer]] +22/+17/+12/+7 melee (1d8+3/×3); or +3 unholy heavy crossbow +31 ranged (1d10+11/17–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/races/Dwarf|+1 on attack rolls against goblinoid and orc humanoids]], [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (crossbows +3, axes +2, hammers +1)
-  - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +4, [[rangoric-srd/races/Dwarf#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 4
-  - **Saves**: Fort +19, Ref +15, Will +12 (+2 vs. poison, spells, and spell-like abilities; +4 vs. fear)
-  - **Abilities**: Str 14, Dex 20, Con 18, Int 10, Wis 14, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +25, [[rangoric-srd/skills/Investigation|Investigation]] +2 (+4 to notice unusual stonework), [[rangoric-srd/skills/Perception|Perception]] +20
-  - **Feats**: [[rangoric-srd/feats/Blinding Critical|Blinding Critical]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Greater Vital Strike|Greater Vital Strike]], [[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]] (heavy crossbow), [[rangoric-srd/feats/Greater Weapon Specialization|Greater Weapon Specialization]] (heavy crossbow), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (heavy crossbow), [[rangoric-srd/feats/Improved Precise Shot|Improved Precise Shot]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Pinpoint Targeting|Pinpoint Targeting]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Reload|Rapid Reload]] (heavy crossbow), [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (heavy crossbow), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (heavy crossbow)
-  - **Environment**: Temperate mountains
-  - **Organization**: Solitary, or with other dwarves (see [[rangoric-srd/monsters/dwarf/Dwarf|Dwarf]])
-  - **Challenge Rating**: 15
-  - **Treasure**: NPC gear (combat gear: +1 axiomatic bolts (5), +1 human-bane bolts (5), +1 merciful bolts (5), oil of greater magic weapon (CL 12th), potion of barkskin (CL 9th), potion of cure serious wounds, potion of heroism, adamantine bolts (15), cold iron bolts (10), silver bolts (10); other gear: +2 banded mail, +1 unholy heavy crossbow with 50 bolts, masterwork dwarven waraxe, masterwork warhammer, belt of physical might +2 (Dex, Con), cloak of resistance +3, efficient quiver, eyes of the eagle, ring of protection +1, manacles (4), silk rope (100 ft.), bit and bridle, heavy horse (combat trained), manacles (4), masterwork chain shirt barding, military saddle, saddlebags, 118 gp)
-  - **Alignment**: Neutral evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Dwarf)
+- **Hit Dice**: 16d10+80 (172 hp)
+- **Initiative**: +5
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 29 (+9 armor, +1 deflection, +5 Dex, +4 natural), touch 16, flat-footed 24
+- **Base Attack**: +16; **CMB**: +20; **CMD**: 34 (38 vs. bull rush or trip)
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dwarven Waraxe|dwarven waraxe]] +23 melee (1d10+5/×3) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Warhammer|warhammer]] +22 melee (1d8+3/×3) or +3 unholy heavy crossbow +31 ranged (1d10+11/17–20)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dwarven Waraxe|dwarven waraxe]] +23/+18/+13/+8 melee (1d10+5/×3); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Warhammer|warhammer]] +22/+17/+12/+7 melee (1d8+3/×3); or +3 unholy heavy crossbow +31 ranged (1d10+11/17–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/races/Dwarf|+1 on attack rolls against goblinoid and orc humanoids]], [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (crossbows +3, axes +2, hammers +1)
+- **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +4, [[rangoric-srd/races/Dwarf#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 4
+- **Saves**: Fort +19, Ref +15, Will +12 (+2 vs. poison, spells, and spell-like abilities; +4 vs. fear)
+- **Abilities**: Str 14, Dex 20, Con 18, Int 10, Wis 14, Cha 6
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +25, [[rangoric-srd/skills/Investigation|Investigation]] +2 (+4 to notice unusual stonework), [[rangoric-srd/skills/Perception|Perception]] +20
+- **Feats**: [[rangoric-srd/feats/Blinding Critical|Blinding Critical]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Greater Vital Strike|Greater Vital Strike]], [[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]] (heavy crossbow), [[rangoric-srd/feats/Greater Weapon Specialization|Greater Weapon Specialization]] (heavy crossbow), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (heavy crossbow), [[rangoric-srd/feats/Improved Precise Shot|Improved Precise Shot]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Pinpoint Targeting|Pinpoint Targeting]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Reload|Rapid Reload]] (heavy crossbow), [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (heavy crossbow), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (heavy crossbow)
+- **Environment**: Temperate mountains
+- **Organization**: Solitary, or with other dwarves (see [[rangoric-srd/monsters/dwarf/Dwarf|Dwarf]])
+- **Challenge Rating**: 15
+- **Treasure**: NPC gear (combat gear: +1 axiomatic bolts (5), +1 human-bane bolts (5), +1 merciful bolts (5), oil of greater magic weapon (CL 12th), potion of barkskin (CL 9th), potion of cure serious wounds, potion of heroism, adamantine bolts (15), cold iron bolts (10), silver bolts (10); other gear: +2 banded mail, +1 unholy heavy crossbow with 50 bolts, masterwork dwarven waraxe, masterwork warhammer, belt of physical might +2 (Dex, Con), cloak of resistance +3, efficient quiver, eyes of the eagle, ring of protection +1, manacles (4), silk rope (100 ft.), bit and bridle, heavy horse (combat trained), manacles (4), masterwork chain shirt barding, military saddle, saddlebags, 118 gp)
+- **Alignment**: Neutral evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A dwarven arbalester is a [[rangoric-srd/monsters/dwarf/Dwarf|dwarf]] with 16 levels of [[rangoric-srd/classes/Fighter|fighter]]. Dwarven arbalesters are usually employed by slavers and warlords to either incapacitate or kill at a distance.
 

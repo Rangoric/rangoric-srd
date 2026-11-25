@@ -37,30 +37,31 @@ change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
+
 # Azer
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar, Fire)
-  - **Hit Dice**: 2d10+4 (15 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares) (20 ft. in armor)
-  - **Armor Class**: 18 (+5 armor, +1 Dex, +2 natural), touch 11, flat-footed 17
-  - **Base Attack**: +2; **CMB**: +3; **CMD**: 14
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Warhammer|warhammer]] +4 melee (1d8+1/×3 plus 1d6 fire) or [[rangoric-srd/equipment/weapons/Light Hammer|light hammer]] +3 ranged (1d4+1 plus 1d6 fire)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Warhammer|warhammer]] +4 melee (1d8+1/×3 plus 1d6 fire); or [[rangoric-srd/equipment/weapons/Light Hammer|light hammer]] +3 ranged (1d4+1 plus 1d6 fire)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Heat|Heat]] (1d6 fire)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 13, vulnerability to cold
-  - **Saves**: Fort +5, Ref +1, Will +4
-  - **Abilities**: Str 13, Dex 12, Con 15, Int 12, Wis 12, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +0, [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Craft|Craft]] (any two) +6, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Society|Society]] +6
-  - **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Any land (Elemental Plane of Fire)
-  - **Organization**: Solitary, pair, team (3–6), squad (11–20 plus 2 sergeants of 3rd level and 1 leader of 3rd–6th level), or clan (30–100 plus 50% noncombatants plus 1 sergeant of 3rd level per 20 adults, 5 lieutenants of 5th level, and 3 captains of 7th level)
-  - **Challenge Rating**: 2
-  - **Treasure**: Standard (masterwork scale mail, masterwork warhammer, light hammer, other treasure)
-  - **Alignment**: Always lawful neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: +4
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar, Fire)
+- **Hit Dice**: 2d10+4 (15 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares) (20 ft. in armor)
+- **Armor Class**: 18 (+5 armor, +1 Dex, +2 natural), touch 11, flat-footed 17
+- **Base Attack**: +2; **CMB**: +3; **CMD**: 14
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Warhammer|warhammer]] +4 melee (1d8+1/×3 plus 1d6 fire) or [[rangoric-srd/equipment/weapons/Light Hammer|light hammer]] +3 ranged (1d4+1 plus 1d6 fire)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Warhammer|warhammer]] +4 melee (1d8+1/×3 plus 1d6 fire); or [[rangoric-srd/equipment/weapons/Light Hammer|light hammer]] +3 ranged (1d4+1 plus 1d6 fire)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Heat|Heat]] (1d6 fire)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 13, vulnerability to cold
+- **Saves**: Fort +5, Ref +1, Will +4
+- **Abilities**: Str 13, Dex 12, Con 15, Int 12, Wis 12, Cha 9
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +0, [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Craft|Craft]] (any two) +6, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Society|Society]] +6
+- **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Any land (Elemental Plane of Fire)
+- **Organization**: Solitary, pair, team (3–6), squad (11–20 plus 2 sergeants of 3rd level and 1 leader of 3rd–6th level), or clan (30–100 plus 50% noncombatants plus 1 sergeant of 3rd level per 20 adults, 5 lieutenants of 5th level, and 3 captains of 7th level)
+- **Challenge Rating**: 2
+- **Treasure**: Standard (masterwork scale mail, masterwork warhammer, light hammer, other treasure)
+- **Alignment**: Always lawful neutral
+- **Advancement**: By character class
+- **Level Adjustment**: +4
 
 A proud and hardworking race from the Elemental Plane of Fire, azers toil in their bronze and brass fortresses, always ready for their long, simmering war against the efreet. Azers live in a society where every member knows his place. Born into a particular duty, usually the trade of his father or mother, an azer continues this task his entire life. A caste system further keeps azer society in line. Nobles, ruling without question, wear decorated brass kilts as their symbol of caste, while merchants and business proprietors wear stout bronze. Copper kilts designate the working class, made up of servants, artisans, and laborers.
 

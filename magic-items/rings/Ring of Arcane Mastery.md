@@ -25,4 +25,4 @@ This ring is a thin but sturdy piece of forged steel crafted to resemble a serpe
 - As a standard action, the wearer can expend 1 arcane pool point stored in the ring to use the [[rangoric-srd/class-options/magus-arcana/Pool Strike (Magus Arcana)|pool strike]] magus arcana using his own magus level to determine the effect.
 - As an immediate action, the wearer can expend up to 4 arcane pool points stored in the ring to use the [[rangoric-srd/class-options/magus-arcana/Reflection (Magus Arcana)|reflection]] magus arcana.
 
-Strong abjuration and evocation; CL 11th; [[rangoric-srd/feats/Forge Ring|Forge Ring]], *[[rangoric-srd/spells/Imbue with Spell Ability|imbue with spell ability]]*, *[[rangoric-srd/spells/Spell Turning|spell turning]]*; Price 20,000 gp; Cost 10,000 gp.
+Strong abjuration and evocation; CL 11th; [[rangoric-srd/feats/Forge Ring|Forge Ring]], _[[rangoric-srd/spells/Imbue with Spell Ability|imbue with spell ability]]_, _[[rangoric-srd/spells/Spell Turning|spell turning]]_; Price 20,000 gp; Cost 10,000 gp.

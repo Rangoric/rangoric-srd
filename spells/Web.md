@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Web
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Mag 2, Sor/Wiz 2, Wit 2
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: Webs in a 20-ft.-radius spread
-  - **Duration**: 10 min./level (D)
-  - **Saving Throw**: Reflex negates; see text
-  - **Spell Resistance**: No
+- **Level**: Mag 2, Sor/Wiz 2, Wit 2
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: Webs in a 20-ft.-radius spread
+- **Duration**: 10 min./level (D)
+- **Saving Throw**: Reflex negates; see text
+- **Spell Resistance**: No
 
 Web creates a many-layered mass of strong, sticky strands. These strands trap those caught in them. The strands are similar to spider webs but far larger and tougher. These masses must be anchored to two or more solid and diametrically opposed points or else the web collapses upon itself and disappears. Creatures caught within a web become [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] among the gluey fibers. Attacking a creature in a web won’t cause you to become entangled.
 
@@ -48,4 +48,4 @@ The strands of a web spell are flammable. A magic flaming sword can slash them a
 
 Web can be made permanent with a permanency spell. A permanent web that is damaged (but not destroyed) regrows in 10 minutes.
 
-*Material Component*: A bit of spider web.
+_Material Component_: A bit of spider web.

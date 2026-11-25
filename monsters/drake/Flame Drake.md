@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Flame Drake
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Fire)
-  - **Hit Dice**: 6d12+18 (57 hp)
-  - **Initiative**: +5
-  - **Speed**: 20 ft. (4 squares), fly 60 ft. (average)
-  - **Armor Class**: 18 (+1 Dex, +8 natural, –1 size), touch 10, flat-footed 17
-  - **Base Attack**: +6; **CMB**: +12; **CMD**: 23
-  - **Attack**: Bite +10 melee (2d6+5 plus 1d6 fire) or tail slap +10 melee (1d6+2)
-  - **Full Attack**: Bite +10 melee (2d6+5 plus 1d6 fire) and tail slap +5 melee (1d6+2)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Fireball Breath|Fireball breath]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], immunity to fire, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, vulnerability to cold
-  - **Saves**: Fort +8, Ref +6, Will +6
-  - **Abilities**: Str 21, Dex 13, Con 16, Int 9, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +6
-  - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Temperate mountains or hills
-  - **Organization**: Solitary, pair, or rampage (3–12)
-  - **Challenge Rating**: 5
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Fire)
+- **Hit Dice**: 6d12+18 (57 hp)
+- **Initiative**: +5
+- **Speed**: 20 ft. (4 squares), fly 60 ft. (average)
+- **Armor Class**: 18 (+1 Dex, +8 natural, –1 size), touch 10, flat-footed 17
+- **Base Attack**: +6; **CMB**: +12; **CMD**: 23
+- **Attack**: Bite +10 melee (2d6+5 plus 1d6 fire) or tail slap +10 melee (1d6+2)
+- **Full Attack**: Bite +10 melee (2d6+5 plus 1d6 fire) and tail slap +5 melee (1d6+2)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Fireball Breath|Fireball breath]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], immunity to fire, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, vulnerability to cold
+- **Saves**: Fort +8, Ref +6, Will +6
+- **Abilities**: Str 21, Dex 13, Con 16, Int 9, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +6
+- **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Temperate mountains or hills
+- **Organization**: Solitary, pair, or rampage (3–12)
+- **Challenge Rating**: 5
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Flame drakes are the degenerate cousins of red dragons, with all of the rage and temper of true red dragons but little of the reason and intelligence. Flame drakes are brutal bullies who terrorize the lands they inhabit. From those they can frighten, flame drakes exact harsh tribute, and they viciously attack any not so easily cowed.
 

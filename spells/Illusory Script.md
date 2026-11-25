@@ -32,16 +32,16 @@ tags: [rangoric, rangoric/spell]
 
 # Illusory Script
 
-*Illusion (Phantasm) \[Mind-Affecting\]*
+_Illusion (Phantasm) \[Mind-Affecting\]_
 
-  - **Level**: Brd 3, Mes 3, Occ 3, Psy 3, Skd 3, Sor/Wiz 3
-  - **Components**: V, S, M
-  - **Casting Time**: 1 minute or longer; see text
-  - **Range**: Touch
-  - **Target**: One touched object weighing no more than 10 lb.
-  - **Duration**: One day/level (D)
-  - **Saving Throw**: Will negates; see text
-  - **Spell Resistance**: Yes
+- **Level**: Brd 3, Mes 3, Occ 3, Psy 3, Skd 3, Sor/Wiz 3
+- **Components**: V, S, M
+- **Casting Time**: 1 minute or longer; see text
+- **Range**: Touch
+- **Target**: One touched object weighing no more than 10 lb.
+- **Duration**: One day/level (D)
+- **Saving Throw**: Will negates; see text
+- **Spell Resistance**: Yes
 
 You write instructions or other information on parchment, paper, or any suitable writing material. The illusory script appears to be some form of foreign or magical writing. Only the person (or people) designated by you at the time of the casting are able to read the writing; it’s unintelligible to any other character, although an illusionist recognizes it as illusory script.
 
@@ -49,4 +49,4 @@ Any unauthorized creature attempting to read the script triggers a potent illuso
 
 The casting time depends on how long a message you wish to write, but it is always at least 1 minute.
 
-*Material Component*: A lead-based ink (cost of not less than 50 gp).
+_Material Component_: A lead-based ink (cost of not less than 50 gp).

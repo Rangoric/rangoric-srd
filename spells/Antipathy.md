@@ -32,16 +32,16 @@ tags: [rangoric, rangoric/spell]
 
 # Antipathy
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Drd 9, Occ 6, Psy 8, Sor/Wiz 8, Sum 6, Wit 8
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 hour
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One location (up to a 10-ft. cube/level) or one object
-  - **Duration**: 2 hours/level (D)
-  - **Saving Throw**: Will partial
-  - **Spell Resistance**: Yes
+- **Level**: Drd 9, Occ 6, Psy 8, Sor/Wiz 8, Sum 6, Wit 8
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 hour
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One location (up to a 10-ft. cube/level) or one object
+- **Duration**: 2 hours/level (D)
+- **Saving Throw**: Will partial
+- **Spell Resistance**: Yes
 
 You cause an object or location to emanate magical vibrations that repel either a specific kind of intelligent creature or creatures of a particular alignment, as defined by you. The kind of creature to be affected must be named specifically. A creature subtype is not specific enough. Likewise, the specific alignment to be repelled must be named.
 
@@ -51,4 +51,4 @@ A compulsion forces them to abandon the area or item, shunning it and never will
 
 Antipathy counters and dispels sympathy.
 
-*Arcane Material Component*: A lump of alum soaked in vinegar.
+_Arcane Material Component_: A lump of alum soaked in vinegar.

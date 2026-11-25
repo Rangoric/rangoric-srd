@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Archmage Spirit
 
-*A legend of [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirits]] for the [[rangoric-srd/classes/Medium (Class)|medium]].* An archmage spirit is a font of knowledge and arcane power.
+_A legend of [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirits]] for the [[rangoric-srd/classes/Medium (Class)|medium]]._ An archmage spirit is a font of knowledge and arcane power.
 
 **Spirit Bonus**: When you channel an archmage, your spirit bonus applies on [[rangoric-srd/rules/Concentration (Check)|concentration checks]], Intelligence checks, and Intelligence-based skill checks. ^archmage-spirit-bonus
 

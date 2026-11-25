@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Stormcaller
 
-Forged by elder druids, *stormcallers* aid nature’s warriors in the protection of the land. In the hands of any character other than a druid, a *stormcaller* functions only as a +2 scimitar. When in the hands of a druid, it can also be used to cast *[[rangoric-srd/spells/Call Lightning|call lightning]]* three times per day.
+Forged by elder druids, _stormcallers_ aid nature’s warriors in the protection of the land. In the hands of any character other than a druid, a _stormcaller_ functions only as a +2 scimitar. When in the hands of a druid, it can also be used to cast _[[rangoric-srd/spells/Call Lightning|call lightning]]_ three times per day.
 
-Moderate evocation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Call Lightning|call lightning]]*; Price 40,715 gp; Cost 20,358 gp + 1,629 XP.
+Moderate evocation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Call Lightning|call lightning]]_; Price 40,715 gp; Cost 20,358 gp + 1,629 XP.

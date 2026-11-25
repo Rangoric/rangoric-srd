@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Potion Condensor
 
-*Chymical; Special*
+_Chymical; Special_
 
 The potion condensor is a chymical which can be mixed with any magical potion to condense that potion to a tincture (1 oz. potion to 0.25 ounce tincture). As a tincture, the potion delivers the same effects with a dosage of 2 drops, but only for 20% of its normal duration (minimum of 1 round or instantaneous, depending on the spell). The benefit is that the potion can now be used in tincture form in 2d3 doses of 2 drops each.
 

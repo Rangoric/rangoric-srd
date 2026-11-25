@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Pteranodon
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 5d8+10 (32 hp)
-  - **Initiative**: +8
-  - **Speed**: 10 ft. (2 squares), fly 50 ft. (clumsy)
-  - **Armor Class**: 16 (+4 Dex, +1 dodge, +2 natural, –1 size), touch 14, flat-footed 11
-  - **Base Attack**: +3; **CMB**: +7; **CMD**: 21
-  - **Attack**: Bite +5 melee (2d6+4)
-  - **Full Attack**: Bite +5 melee (2d6+4)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +6, Ref +8, Will +3
-  - **Abilities**: Str 16, Dex 19, Con 15, Int 2, Wis 15, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –1, [[rangoric-srd/skills/Perception|Perception]] +11
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Warm coastline
-  - **Organization**: Solitary, pair, or flock (3–12)
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 5d8+10 (32 hp)
+- **Initiative**: +8
+- **Speed**: 10 ft. (2 squares), fly 50 ft. (clumsy)
+- **Armor Class**: 16 (+4 Dex, +1 dodge, +2 natural, –1 size), touch 14, flat-footed 11
+- **Base Attack**: +3; **CMB**: +7; **CMD**: 21
+- **Attack**: Bite +5 melee (2d6+4)
+- **Full Attack**: Bite +5 melee (2d6+4)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +6, Ref +8, Will +3
+- **Abilities**: Str 16, Dex 19, Con 15, Int 2, Wis 15, Cha 12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –1, [[rangoric-srd/skills/Perception|Perception]] +11
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Warm coastline
+- **Organization**: Solitary, pair, or flock (3–12)
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The pteranodon is not itself a dinosaur but rather a large flying reptile that is often found in areas dinosaurs are common. Its flight lacks grace, so it lands on the ground to fight foes it can't carry away.
 

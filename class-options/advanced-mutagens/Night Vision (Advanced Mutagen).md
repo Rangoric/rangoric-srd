@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Night Vision
 
-*A [[rangoric-srd/prestige-classes/Master Chymist#^master-chymist-advanced-mutagen|master chymist’s advanced mutagen]] (Ex).*
+_A [[rangoric-srd/prestige-classes/Master Chymist#^master-chymist-advanced-mutagen|master chymist’s advanced mutagen]] (Ex)._
 
 The chymist gains [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 feet and [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]] in her mutagenic form.

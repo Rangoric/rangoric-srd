@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Plant Fiber Plate
 
-*Heavy armor.* Cost 500 gp; Armor Bonus +7; Maximum Dex Bonus +1; Armor Check Penalty –7; Arcane Spell Failure 40%; Speed 20 ft. (2) (30 ft.), 15 ft. (2) (20 ft.); Weight 40 lb. ^stats
+_Heavy armor._ Cost 500 gp; Armor Bonus +7; Maximum Dex Bonus +1; Armor Check Penalty –7; Arcane Spell Failure 40%; Speed 20 ft. (2) (30 ft.), 15 ft. (2) (20 ft.); Weight 40 lb. ^stats
 
 This heavy armor is made from densely compressed plates of extremely tough and resistant plant fibers. This armor can be enchanted through standard means.

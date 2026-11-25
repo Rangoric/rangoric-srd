@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/weapon]
 
 # 5-Bolt Clip
 
-*Ammunition (5).* Cost 1 gp; Weight 1 lb. ^stats
+_Ammunition (5)._ Cost 1 gp; Weight 1 lb. ^stats

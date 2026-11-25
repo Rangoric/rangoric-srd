@@ -26,16 +26,16 @@ tags: [rangoric, rangoric/spell]
 
 # Strangling Hair
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Psy 3, Sor/Wiz 3, Wit 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: Concentration, up to 1 round/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Psy 3, Sor/Wiz 3, Wit 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: Concentration, up to 1 round/level
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 Your hair animates and extends to grapple and constrict an opponent. Make a grapple check against the target using your caster level as the base attack bonus plus a bonus equal to your Intelligence bonus (if a witch or wizard) or Charisma bonus (if a sorcerer). This grapple check does not provoke attacks of opportunity. If your hair succeeds in grappling a foe, that creature takes 1d6 points of damage or your unarmed strike damage, whichever is greater, and gains the grappled condition. Your hair receives a +5 bonus on grapple checks made against opponents it is already grappling, but cannot move foes or pin foes. Each round that your hair succeeds on a grapple check, it deals an additional 1d6 points of damage. The CMD of your hair, for the purposes of escaping the grapple, is equal to 10 + its CMB.
 

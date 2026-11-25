@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Merciful Healer
 
-*A [[rangoric-srd/classes/Cleric#^cleric-archetypes|cleric]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Cleric#^cleric-archetypes|cleric]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 The merciful healer is a master of battlefield revivification, sustaining and restoring allies to keep them in the fight.
 

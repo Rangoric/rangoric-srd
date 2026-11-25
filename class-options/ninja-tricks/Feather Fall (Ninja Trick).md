@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Feather Fall
 
-*A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Su).*
+_A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Su)._
 
-As an immediate action, the ninja can slow her descent as if using *[[rangoric-srd/spells/Feather Fall|feather fall]]*. This ability uses her ninja level as the caster level. Each use of this ability uses up 1 ki point.
+As an immediate action, the ninja can slow her descent as if using _[[rangoric-srd/spells/Feather Fall|feather fall]]_. This ability uses her ninja level as the caster level. Each use of this ability uses up 1 ki point.

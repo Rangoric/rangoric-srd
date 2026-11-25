@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Rigid Breastplate
 
-*Medium armor.* Cost 350 gp; Armor Bonus +6; Maximum Dex Bonus +3; Armor Check Penalty –5; Arcane Spell Failure 25%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 35 lb. ^stats
+_Medium armor._ Cost 350 gp; Armor Bonus +6; Maximum Dex Bonus +3; Armor Check Penalty –5; Arcane Spell Failure 25%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 35 lb. ^stats
 
 This specially constructed breastplate offers more protection than a normal breastplate, but unless its wearer undergoes specific training, it is a great deal more confining. Even with the proper training, the armor is slightly more restrictive than a normal breastplate.

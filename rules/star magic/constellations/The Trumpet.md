@@ -30,18 +30,18 @@ tags: [rangoric, rangoric/constellation]
 
 # The Trumpet
 
-*[[rangoric-srd/rules/star magic/Star Magic|Constellation]]*
+_[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 
-  - **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Destruction|Destruction]], [[rangoric-srd/rules/star magic/stars/Star of Fire|Fire]], [[rangoric-srd/rules/star magic/stars/Star of Hate|Hate]], [[rangoric-srd/rules/star magic/stars/Star of Oaths|Oaths]], [[rangoric-srd/rules/star magic/stars/Star of Peril|Peril]], [[rangoric-srd/rules/star magic/stars/Star of Thunder|Thunder]]
-  - **Call Level**: 9th ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Area**: 25-ft.-radius
-  - **Effect**: 1d6 hezrou
-  - **Duration**: Until the battle ends (see text)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Destruction|Destruction]], [[rangoric-srd/rules/star magic/stars/Star of Fire|Fire]], [[rangoric-srd/rules/star magic/stars/Star of Hate|Hate]], [[rangoric-srd/rules/star magic/stars/Star of Oaths|Oaths]], [[rangoric-srd/rules/star magic/stars/Star of Peril|Peril]], [[rangoric-srd/rules/star magic/stars/Star of Thunder|Thunder]]
+- **Call Level**: 9th ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Area**: 25-ft.-radius
+- **Effect**: 1d6 hezrou
+- **Duration**: Until the battle ends (see text)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 A note rings out across the planes, and within 1 round 1d6 [[rangoric-srd/monsters/demon/Hezrou|hezrou]] appear in the area, eager for battle. They attack the creatures you point them at and kill as many as they can. If you call them when no battle is under way, they attack you, your companions and everyone else nearby until they are slain.
 

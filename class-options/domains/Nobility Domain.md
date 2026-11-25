@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Nobility Domain
 
-*A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
+_A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]]._
 
 **Subdomains**: [[rangoric-srd/class-options/domains/Leadership Subdomain|Leadership]], [[rangoric-srd/class-options/domains/Martyr Subdomain|Martyr]].
 
@@ -31,14 +31,14 @@ You are a great leader, an inspiration to all who follow the teachings of your f
 
 ## Domain Spells
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Divine Favor\|Divine Favor]] | You gain +1 per three levels on attack and damage rolls. |
-| 2nd | [[rangoric-srd/spells/Enthrall\|Enthrall]] | Captivates all within 100 ft. + 10 ft./level. |
-| 3rd | [[rangoric-srd/spells/Magic Vestment\|Magic Vestment]] | Armor or shield gains +1 enhancement per four levels. |
-| 4th | [[rangoric-srd/spells/Discern Lies\|Discern Lies]] | Reveals deliberate falsehoods. |
-| 5th | [[rangoric-srd/spells/Command, Greater\|Greater Command]] | As command, but affects one subject/level. |
-| 6th | [[rangoric-srd/spells/Geas-Quest\|Geas/Quest]] | As lesser geas, plus it affects any creature. |
-| 7th | [[rangoric-srd/spells/Repulsion\|Repulsion]] | Creatures can’t approach you. |
-| 8th | [[rangoric-srd/spells/Demand\|Demand]] | As sending, plus you can send suggestion. |
-| 9th | [[rangoric-srd/spells/Storm of Vengeance\|Storm of Vengeance]] | Storm rains acid, lightning, and hail. |
+| Level | Spell                                                          | Brief Description                                        |
+| ----- | -------------------------------------------------------------- | -------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Divine Favor\|Divine Favor]]             | You gain +1 per three levels on attack and damage rolls. |
+| 2nd   | [[rangoric-srd/spells/Enthrall\|Enthrall]]                     | Captivates all within 100 ft. + 10 ft./level.            |
+| 3rd   | [[rangoric-srd/spells/Magic Vestment\|Magic Vestment]]         | Armor or shield gains +1 enhancement per four levels.    |
+| 4th   | [[rangoric-srd/spells/Discern Lies\|Discern Lies]]             | Reveals deliberate falsehoods.                           |
+| 5th   | [[rangoric-srd/spells/Command, Greater\|Greater Command]]      | As command, but affects one subject/level.               |
+| 6th   | [[rangoric-srd/spells/Geas-Quest\|Geas/Quest]]                 | As lesser geas, plus it affects any creature.            |
+| 7th   | [[rangoric-srd/spells/Repulsion\|Repulsion]]                   | Creatures can’t approach you.                            |
+| 8th   | [[rangoric-srd/spells/Demand\|Demand]]                         | As sending, plus you can send suggestion.                |
+| 9th   | [[rangoric-srd/spells/Storm of Vengeance\|Storm of Vengeance]] | Storm rains acid, lightning, and hail.                   |

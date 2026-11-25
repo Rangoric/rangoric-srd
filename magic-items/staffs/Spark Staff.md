@@ -23,8 +23,8 @@ tags: [rangoric, rangoric/magic-item]
 
 Thin golden strands snake through this transparent shaft, seeming to flow from one brass end-cap to the other. Once per day when the wielder is damaged by an effect that deals at least 10 points of electricity damage, the staff regains 1 charge. This does not reduce the amount of damage the wielder takes from the effect.
 
-- *[[rangoric-srd/spells/Shocking Grasp|Shocking grasp]]* (1 charge)
-- [[rangoric-srd/feats/Intensified Spell|Intensified]] *[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]* (2 charges)
-- *[[rangoric-srd/spells/Lightning Bolt|Lightning bolt]]* (5 charges)
+- _[[rangoric-srd/spells/Shocking Grasp|Shocking grasp]]_ (1 charge)
+- [[rangoric-srd/feats/Intensified Spell|Intensified]] _[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]_ (2 charges)
+- _[[rangoric-srd/spells/Lightning Bolt|Lightning bolt]]_ (5 charges)
 
-Moderate evocation; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], [[rangoric-srd/feats/Intensified Spell|Intensified Spell]], *[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]*, *[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]*; Price 12,650 gp; Cost 6,475 gp; Weight 2 lbs.
+Moderate evocation; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], [[rangoric-srd/feats/Intensified Spell|Intensified Spell]], _[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_, _[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]_; Price 12,650 gp; Cost 6,475 gp; Weight 2 lbs.

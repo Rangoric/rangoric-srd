@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Holy Zeal
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “holy zeal”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “holy zeal”, on the Special Qualities line.
 
 A valkyrie adds her Charisma modifier as a deflection bonus to her Armor Class. The [[rangoric-srd/monsters/Valkyrie|valkyrie]] has it.

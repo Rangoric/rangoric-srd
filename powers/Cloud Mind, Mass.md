@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/power]
 Telepathy \[Mind-Affecting\]  
 Level: Psion/wilder 6  
 Target: One creature/level  
-Power Points: 11  
+Power Points: 11
 
 As [[rangoric-srd/powers/Cloud Mind|cloud mind]], except as noted above. Each creature is affected individually.

@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Halfling Fighter
 
-*A [[rangoric-srd/races/Halfling|halfling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Fighter#^fighter-class-bonuses|fighter]] level.*
+_A [[rangoric-srd/races/Halfling|halfling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Fighter#^fighter-class-bonuses|fighter]] level._
 
 Add +1 to the fighter's [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] when resisting a [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] or [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] attempt.

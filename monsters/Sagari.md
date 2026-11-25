@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Sagari
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 1d8+3 (7 hp)
-  - **Initiative**: +2
-  - **Speed**: 10 ft. (2 squares), fly 30 ft. (perfect)
-  - **Armor Class**: 14 (+2 Dex, +2 size), touch 14, flat-footed 12
-  - **Base Attack**: +0; **CMB**: +0; **CMD**: 9 (can't be tripped)
-  - **Attack**: Bite +1 melee (1d4–1) or tentacle +6 melee (1d4–1)
-  - **Full Attack**: Bite +1 melee (1d4–1) and tentacle +1 melee (1d4–1)
-  - **Space/Reach**: 2-1/2 ft./2-1/2 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Baleful Whinny|Baleful whinny]], [[rangoric-srd/monsters/abilities/Lashing Strike|lashing strike]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Flight|flight]]
-  - **Saves**: Fort +3, Ref +4, Will +2
-  - **Abilities**: Str 8, Dex 15, Con 17, Int 6, Wis 11, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +14
-  - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
-  - **Environment**: Any forests
-  - **Organization**: Solitary, pair, herd (3–8), or harras (9–16)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: None
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 1d8+3 (7 hp)
+- **Initiative**: +2
+- **Speed**: 10 ft. (2 squares), fly 30 ft. (perfect)
+- **Armor Class**: 14 (+2 Dex, +2 size), touch 14, flat-footed 12
+- **Base Attack**: +0; **CMB**: +0; **CMD**: 9 (can't be tripped)
+- **Attack**: Bite +1 melee (1d4–1) or tentacle +6 melee (1d4–1)
+- **Full Attack**: Bite +1 melee (1d4–1) and tentacle +1 melee (1d4–1)
+- **Space/Reach**: 2-1/2 ft./2-1/2 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Baleful Whinny|Baleful whinny]], [[rangoric-srd/monsters/abilities/Lashing Strike|lashing strike]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Flight|flight]]
+- **Saves**: Fort +3, Ref +4, Will +2
+- **Abilities**: Str 8, Dex 15, Con 17, Int 6, Wis 11, Cha 14
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +14
+- **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
+- **Environment**: Any forests
+- **Organization**: Solitary, pair, herd (3–8), or harras (9–16)
+- **Challenge Rating**: 1/2
+- **Treasure**: None
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Sagaris haunt forest trails, hanging upside-down from tree branches by the grotesque tentacles that make up their necks. Unexpectedly intelligent, these cruel aberrations swoop down from their perches to attack unsuspecting travelers wandering through the forests. Their piercing whinny causes sickness within those who hear it, the sound waves reverberating within the victims' chests and causing them to feel unwell. Groups of sagaris are particularly dangerous, filling the air with their terrifying neighs and diving upon utterly [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]], [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] victims in a rush.
 

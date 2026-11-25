@@ -24,14 +24,14 @@ tags: [rangoric, rangoric/spell]
 
 # Invisibility Purge
 
-*Evocation*
+_Evocation_
 
-  - **Level**: Clr 3, Inq 3, Occ 3, Spi 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 min./level (D)
+- **Level**: Clr 3, Inq 3, Occ 3, Spi 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 min./level (D)
 
 You surround yourself with a sphere of power with a radius of 5 feet per caster level that negates all forms of invisibility.
 

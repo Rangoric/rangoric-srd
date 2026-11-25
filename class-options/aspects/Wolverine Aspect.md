@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Wolverine Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). This aspect unlocks the brutal ferocity and tenacious fury of the wolverine. The wolverine’s lust for battle invigorates its will to live, and it can press on in battle longer than its enemies expect.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). This aspect unlocks the brutal ferocity and tenacious fury of the wolverine. The wolverine’s lust for battle invigorates its will to live, and it can press on in battle longer than its enemies expect._
 
 **Minor Form**: You gain 1 additional hit point per Hit Die you have, and treat your Constitution score as 4 points higher than it is for the purpose of determining [[rangoric-srd/combat/Injury and Death#^death|when you die at negative hit points]].
 

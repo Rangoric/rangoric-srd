@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Elephant
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 11d8+44 (93 hp)
-  - **Initiative**: +0
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 17 (+9 natural, –2 size), touch 8, flat-footed 17
-  - **Base Attack**: +8; **CMB**: +20; **CMD**: 30 (34 vs. trip)
-  - **Attack**: Gore +16 melee (2d8+10) or slam +16 melee (2d6+10)
-  - **Full Attack**: Gore +16 melee (2d8+10) and slam +16 melee (2d6+10)
-  - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (2d8+15; DC 25)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +13, Ref +7, Will +6
-  - **Abilities**: Str 30, Dex 10, Con 19, Int 2, Wis 13, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +21
-  - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Warm plains
-  - **Organization**: Solitary or herd (6–30)
-  - **Challenge Rating**: 7
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 12–22 HD (Huge)
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 11d8+44 (93 hp)
+- **Initiative**: +0
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 17 (+9 natural, –2 size), touch 8, flat-footed 17
+- **Base Attack**: +8; **CMB**: +20; **CMD**: 30 (34 vs. trip)
+- **Attack**: Gore +16 melee (2d8+10) or slam +16 melee (2d6+10)
+- **Full Attack**: Gore +16 melee (2d8+10) and slam +16 melee (2d6+10)
+- **Space/Reach**: 15 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (2d8+15; DC 25)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +13, Ref +7, Will +6
+- **Abilities**: Str 30, Dex 10, Con 19, Int 2, Wis 13, Cha 7
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +21
+- **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Warm plains
+- **Organization**: Solitary or herd (6–30)
+- **Challenge Rating**: 7
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 12–22 HD (Huge)
+- **Level Adjustment**: —
 
 These large land animals, majestically wandering the plains in tightly knit family herds, are symbols of wisdom and strength. Having few natural predators, elephants are sometimes hunted for their ivory tusks. These tusks often become jewelry, statuettes, and trinkets for the wealthy.
 

@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/pole-arms]
 
 # Ranseur
 
-*Martial two-handed melee weapon (reach, disarm).* Cost 10 gp; Dmg 1d6 (S), 2d4 (M); Critical x3; Weight 12 lb.; Type Piercing. ^stats
+_Martial two-handed melee weapon (reach, disarm)._ Cost 10 gp; Dmg 1d6 (S), 2d4 (M); Critical x3; Weight 12 lb.; Type Piercing. ^stats
 
 A ranseur has reach. You can strike opponents 10 feet away with it, but you can’t use it against an adjacent foe.
 

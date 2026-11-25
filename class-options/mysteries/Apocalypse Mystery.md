@@ -15,11 +15,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Apocalypse Mystery
 
-*An [[rangoric-srd/classes/Oracle#^oracle-mystery|oracle mystery]].*
+_An [[rangoric-srd/classes/Oracle#^oracle-mystery|oracle mystery]]._
 
 **Class Skills**: An oracle with the apocalypse mystery adds [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Imitation|Imitation]], and [[rangoric-srd/skills/Stealth|Stealth]] to her list of class skills.
 
-**Bonus Spells**: *[[rangoric-srd/spells/Deathwatch|deathwatch]]* (2nd), *[[rangoric-srd/spells/Summon Swarm|summon swarm]]* (4th), *[[rangoric-srd/spells/Explosive Runes|explosive runes]]* (6th), *[[rangoric-srd/spells/Ice Storm|ice storm]]* (8th), *[[rangoric-srd/spells/Insect Plague|insect plague]]* (10th), *[[rangoric-srd/spells/Circle of Death|circle of death]]* (12th), *[[rangoric-srd/spells/Vision|vision]]* (14th), *[[rangoric-srd/spells/Incendiary Cloud|incendiary cloud]]* (16th), *[[rangoric-srd/spells/Meteor Swarm|meteor swarm]]* (18th).
+**Bonus Spells**: _[[rangoric-srd/spells/Deathwatch|deathwatch]]_ (2nd), _[[rangoric-srd/spells/Summon Swarm|summon swarm]]_ (4th), _[[rangoric-srd/spells/Explosive Runes|explosive runes]]_ (6th), _[[rangoric-srd/spells/Ice Storm|ice storm]]_ (8th), _[[rangoric-srd/spells/Insect Plague|insect plague]]_ (10th), _[[rangoric-srd/spells/Circle of Death|circle of death]]_ (12th), _[[rangoric-srd/spells/Vision|vision]]_ (14th), _[[rangoric-srd/spells/Incendiary Cloud|incendiary cloud]]_ (16th), _[[rangoric-srd/spells/Meteor Swarm|meteor swarm]]_ (18th).
 
 ## Revelations
 

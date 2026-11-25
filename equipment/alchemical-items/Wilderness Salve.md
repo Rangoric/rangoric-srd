@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Wilderness Salve
 
-*Unguent; Special*
+_Unguent; Special_
 
 Wilderness salve acts as a visual and olfactory camouflage for those within the wild. It duplicates the effects of the [[rangoric-srd/equipment/alchemical-items/Philter of Wildscent|Philter of Wildscent]] for its duration of 1d8 hours, but it also provides a +4 circumstance bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks in wild areas. Each dose is enough to coat the skin of a medium-sized being or two small beings, and it must be applied to living skin, not items, clothes, or armor.
 

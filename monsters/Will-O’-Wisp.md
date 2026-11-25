@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Will-O’-Wisp
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Air)
-  - **Hit Dice**: 9d8 (40 hp)
-  - **Initiative**: +13
-  - **Speed**: fly 50 ft. (perfect)
-  - **Armor Class**: 26 (+5 deflection, +9 Dex, +1 dodge, +1 size), touch 26, flat-footed 16
-  - **Base Attack**: +6; **CMB**: +0; **CMD**: 24
-  - **Attack**: Shock +16 melee touch (2d8 electricity)
-  - **Full Attack**: Shock +16 melee touch (2d8 electricity)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Natural Invisibility|natural invisibility]], feed on fear, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to magic
-  - **Saves**: Fort +3, Ref +12, Will +9
-  - **Abilities**: Str 1, Dex 29, Con 10, Int 15, Wis 16, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +31, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +21, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +25
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any swamp; temperate marshes
-  - **Organization**: Solitary, pair, or string (3–4)
-  - **Challenge Rating**: 6
-  - **Treasure**: Incidental
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: 10–18 HD (Small)
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Air)
+- **Hit Dice**: 9d8 (40 hp)
+- **Initiative**: +13
+- **Speed**: fly 50 ft. (perfect)
+- **Armor Class**: 26 (+5 deflection, +9 Dex, +1 dodge, +1 size), touch 26, flat-footed 16
+- **Base Attack**: +6; **CMB**: +0; **CMD**: 24
+- **Attack**: Shock +16 melee touch (2d8 electricity)
+- **Full Attack**: Shock +16 melee touch (2d8 electricity)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Natural Invisibility|natural invisibility]], feed on fear, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to magic
+- **Saves**: Fort +3, Ref +12, Will +9
+- **Abilities**: Str 1, Dex 29, Con 10, Int 15, Wis 16, Cha 14
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +31, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +21, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +25
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any swamp; temperate marshes
+- **Organization**: Solitary, pair, or string (3–4)
+- **Challenge Rating**: 6
+- **Treasure**: Incidental
+- **Alignment**: Usually chaotic evil
+- **Advancement**: 10–18 HD (Small)
+- **Level Adjustment**: —
 
 Every trapper and bog farmer living near marshes or swamps has his own name for these faintly glowing balls of light—jack o' the lanterns, corpse candles, walking fires, pine lights, spooklights, rushlights—but all recognize them as dangerous predators and false guides in the darkness.
 

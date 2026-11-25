@@ -46,28 +46,28 @@ tags: [rangoric, rangoric/monster]
 
 # Divine Guardian
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Air, Water)
-  - **Hit Dice**: 5d10+20 (47 hp)
-  - **Initiative**: +5
-  - **Speed**: 40 ft. (8 squares), fly 40 ft. (perfect), swim 40 ft.
-  - **Armor Class**: 15 (+1 Dex, +6 natural, –2 size), touch 9, flat-footed 14
-  - **Base Attack**: +5; **CMB**: +10; **CMD**: 21 (can't be tripped)
-  - **Attack**: Bite +7 melee (1d8+3)
-  - **Full Attack**: 5 bites +7 melee (1d8+3)
-  - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/Divine Guardian#^ability-healing|ability healing]], [[rangoric-srd/monsters/Divine Guardian#^blessed-life|blessed life]], [[rangoric-srd/monsters/Divine Guardian#^divine-swiftness|divine swiftness]], [[rangoric-srd/monsters/abilities/Hydra Traits|hydra traits]], [[rangoric-srd/monsters/abilities/Regenerate Head|regenerate head]], [[rangoric-srd/monsters/Divine Guardian#^sacred-site|sacred site]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease, mind-affecting effects and poison
-  - **Saves**: Fort +8, Ref +5, Will +5
-  - **Abilities**: Str 17, Dex 12, Con 18, Int 6, Wis 15, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
-  - **Environment**: Temperate ruins
-  - **Organization**: Solitary
-  - **Challenge Rating**: 5
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Air, Water)
+- **Hit Dice**: 5d10+20 (47 hp)
+- **Initiative**: +5
+- **Speed**: 40 ft. (8 squares), fly 40 ft. (perfect), swim 40 ft.
+- **Armor Class**: 15 (+1 Dex, +6 natural, –2 size), touch 9, flat-footed 14
+- **Base Attack**: +5; **CMB**: +10; **CMD**: 21 (can't be tripped)
+- **Attack**: Bite +7 melee (1d8+3)
+- **Full Attack**: 5 bites +7 melee (1d8+3)
+- **Space/Reach**: 15 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/Divine Guardian#^ability-healing|ability healing]], [[rangoric-srd/monsters/Divine Guardian#^blessed-life|blessed life]], [[rangoric-srd/monsters/Divine Guardian#^divine-swiftness|divine swiftness]], [[rangoric-srd/monsters/abilities/Hydra Traits|hydra traits]], [[rangoric-srd/monsters/abilities/Regenerate Head|regenerate head]], [[rangoric-srd/monsters/Divine Guardian#^sacred-site|sacred site]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease, mind-affecting effects and poison
+- **Saves**: Fort +8, Ref +5, Will +5
+- **Abilities**: Str 17, Dex 12, Con 18, Int 6, Wis 15, Cha 13
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
+- **Environment**: Temperate ruins
+- **Organization**: Solitary
+- **Challenge Rating**: 5
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The divine guardian above is a divine guardian [[rangoric-srd/monsters/hydra/Hydra|hydra]].
 
@@ -104,20 +104,20 @@ Divine guardians speak Draconic.
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]**: A divine guardian has a cumulative number of spell-like abilities depending on its Hit Dice. Unless otherwise noted, these abilities are usable 1/day. CL is equal to the divine guardian's HD or the CL of the base creature's spell-like abilities, whichever is higher.
 
 | HD    | Abilities                                                                                                                                                                                    |
-|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1-2   | *[[rangoric-srd/spells/Alarm\|Alarm]]* 3/day, *[[rangoric-srd/spells/Dimension Door\|dimension door]]* at will (within sacred site only), *[[rangoric-srd/spells/Hold Portal\|hold portal]]* |
-| 3-4   | *[[rangoric-srd/spells/Arcane Lock\|Arcane lock]]*, *[[rangoric-srd/spells/Knock\|knock]]* 3/day                                                                                             |
-| 5-6   | *[[rangoric-srd/spells/Augury\|Augury]]*, *[[rangoric-srd/spells/Clairaudience-Clairvoyance\|clairaudience/clairvoyance]]*                                                                   |
-| 7-8   | *[[rangoric-srd/spells/Dismissal\|Dismissal]]*                                                                                                                                               |
-| 9-10  | *[[rangoric-srd/spells/Commune\|Commune]]*                                                                                                                                                   |
-| 11-12 | *[[rangoric-srd/spells/Guards and Wards\|Guards and wards]]*                                                                                                                                 |
-| 13-14 | *[[rangoric-srd/spells/Forbiddance\|Forbiddance]]*                                                                                                                                           |
-| 15-16 | *[[rangoric-srd/spells/Banishment\|Banishment]]*                                                                                                                                             |
-| 17-18 | *[[rangoric-srd/spells/Repulsion\|Repulsion]]*                                                                                                                                               |
-| 19-20 | *[[rangoric-srd/spells/Screen\|Screen]]*                                                                                                                                                     |
-| 21+   | *[[rangoric-srd/spells/Antipathy\|Antipathy]]*                                                                                                                                               |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1-2   | _[[rangoric-srd/spells/Alarm\|Alarm]]_ 3/day, _[[rangoric-srd/spells/Dimension Door\|dimension door]]_ at will (within sacred site only), _[[rangoric-srd/spells/Hold Portal\|hold portal]]_ |
+| 3-4   | _[[rangoric-srd/spells/Arcane Lock\|Arcane lock]]_, _[[rangoric-srd/spells/Knock\|knock]]_ 3/day                                                                                             |
+| 5-6   | _[[rangoric-srd/spells/Augury\|Augury]]_, _[[rangoric-srd/spells/Clairaudience-Clairvoyance\|clairaudience/clairvoyance]]_                                                                   |
+| 7-8   | _[[rangoric-srd/spells/Dismissal\|Dismissal]]_                                                                                                                                               |
+| 9-10  | _[[rangoric-srd/spells/Commune\|Commune]]_                                                                                                                                                   |
+| 11-12 | _[[rangoric-srd/spells/Guards and Wards\|Guards and wards]]_                                                                                                                                 |
+| 13-14 | _[[rangoric-srd/spells/Forbiddance\|Forbiddance]]_                                                                                                                                           |
+| 15-16 | _[[rangoric-srd/spells/Banishment\|Banishment]]_                                                                                                                                             |
+| 17-18 | _[[rangoric-srd/spells/Repulsion\|Repulsion]]_                                                                                                                                               |
+| 19-20 | _[[rangoric-srd/spells/Screen\|Screen]]_                                                                                                                                                     |
+| 21+   | _[[rangoric-srd/spells/Antipathy\|Antipathy]]_                                                                                                                                               |
 
-**Special Qualities (Ex)**: *Aura* A divine guardian with the chaotic, evil, good, or lawful subtypes has an aura as if it were an aligned outsider of equivalent Hit Dice (see the *[[rangoric-srd/spells/Detect Evil|detect evil]]* spell for details).
+**Special Qualities (Ex)**: _Aura_ A divine guardian with the chaotic, evil, good, or lawful subtypes has an aura as if it were an aligned outsider of equivalent Hit Dice (see the _[[rangoric-srd/spells/Detect Evil|detect evil]]_ spell for details).
 
 **Blessed Life (Ex)**: A divine guardian does not age or breathe. It does not require food, drink, or sleep. ^blessed-life
 
@@ -125,7 +125,7 @@ Divine guardians speak Draconic.
 
 **Sacred Site (Ex)**: Each divine guardian is assigned to guard a specific site sacred to the deity that invested it with power. This area may be a structure, a series of structures, or a natural site with clearly defined borders. It can be as large as a city, but in most cases it's a single temple or a sacred grove. Gods don't waste their powers on places that their worshipers can protect, so most divine guardians keep watch over abandoned burial grounds or lost temples. The divine guardian of such a site is charged with protecting it from harm and preventing incursions by those not of the faith. It must keep its vigil until the god deems the guardian's task done. ^sacred-site
 
-If the divine guardian ever moves out of the area defined as the sacred site, it immediately loses the divine guardian template and any spellcasting ability the deity might have granted from class levels. It cannot regain the template unless it atones for its failure (usually by completing some quest or via an *[[rangoric-srd/spells/Atonement|atonement]]* spell) and reenters the site within 1 week. Otherwise, it loses the template permanently, taking 6d6 points of Constitution drain as the years of lost food, drink, and sleep return to it tenfold. A creature that lacks a Constitution score takes 2d6 points of damage per Hit Die from this process. Even if it survives the Constitution drain, the creature can never regain the template.
+If the divine guardian ever moves out of the area defined as the sacred site, it immediately loses the divine guardian template and any spellcasting ability the deity might have granted from class levels. It cannot regain the template unless it atones for its failure (usually by completing some quest or via an _[[rangoric-srd/spells/Atonement|atonement]]_ spell) and reenters the site within 1 week. Otherwise, it loses the template permanently, taking 6d6 points of Constitution drain as the years of lost food, drink, and sleep return to it tenfold. A creature that lacks a Constitution score takes 2d6 points of damage per Hit Die from this process. Even if it survives the Constitution drain, the creature can never regain the template.
 
 **Abilities**: Wis +4, Cha +4. If the base creature has an Intelligence score of 2 or lower, it also gains Int +4.
 
@@ -135,4 +135,4 @@ If the divine guardian ever moves out of the area defined as the sacred site, it
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 5th; concentration +6): At will—*[[rangoric-srd/spells/Dimension Door|dimension door]]* (within sacred site only); 3/day—*[[rangoric-srd/spells/Alarm|alarm]]*, *[[rangoric-srd/spells/Knock|knock]]*; 1/day—*[[rangoric-srd/spells/Arcane Lock|arcane lock]]*, *[[rangoric-srd/spells/Augury|augury]]*, *[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairvoyance/clairaudience]]*, *[[rangoric-srd/spells/Hold Portal|hold portal]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 5th; concentration +6): At will—_[[rangoric-srd/spells/Dimension Door|dimension door]]_ (within sacred site only); 3/day—_[[rangoric-srd/spells/Alarm|alarm]]_, _[[rangoric-srd/spells/Knock|knock]]_; 1/day—_[[rangoric-srd/spells/Arcane Lock|arcane lock]]_, _[[rangoric-srd/spells/Augury|augury]]_, _[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairvoyance/clairaudience]]_, _[[rangoric-srd/spells/Hold Portal|hold portal]]_.

@@ -18,14 +18,14 @@ tags: [rangoric, rangoric/class-option]
 
 # Extreme Range
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|form infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|form infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Elements#Universal|universal]]
-  - **Type**: form infusion
-  - **Level**: 3
-  - **Burn**: 2
-  - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Extended Range|extended range]]
-  - **Associated Blasts**: any
-  - **Saving Throw**: none
+- **Element**: [[rangoric-srd/class-options/elements/Elements#Universal|universal]]
+- **Type**: form infusion
+- **Level**: 3
+- **Burn**: 2
+- **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Extended Range|extended range]]
+- **Associated Blasts**: any
+- **Saving Throw**: none
 
 Your kinetic blast can strike any target within 480 feet.

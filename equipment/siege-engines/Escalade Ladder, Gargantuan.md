@@ -21,17 +21,15 @@ tags: [rangoric, rangoric/siege-engine]
 
 # Escalade Ladder, Gargantuan
 
-*Gargantuan [[rangoric-srd/rules/Siege Engines#Close Assault Siege Engines|close assault siege engine]].* Price 50 gp; Crew 6; Speed as crew speed; Hardness 5; Hit Points 80. ^stats
+_Gargantuan [[rangoric-srd/rules/Siege Engines#Close Assault Siege Engines|close assault siege engine]]._ Price 50 gp; Crew 6; Speed as crew speed; Hardness 5; Hit Points 80. ^stats
 
 Escalade ladders have spiked bases for stability, and the upper 5 feet are metal-shod, with hardness 10 and 20 hit points. The remainder of the ladder is wooden and has hardness 5 and hit points based on its size. Large escalade ladders have 20 hit points, Huge ones have 30 hit points, Gargantuan ones have 80 hit points, and Colossal ones have 120 hit points. Escalade ladders cannot be armored.
 
-
-| Size    | Width | Length/Height |
-|------------|--------|---------------|
-| Large   | 5 ft. | 20 ft.    |
-| Huge    | 5 ft. | 30 ft.    |
-| Gargantuan | 10 ft. | 40 ft.    |
-| Colossal  | 10 ft. | 60 ft.    |
+| Size       | Width  | Length/Height |
+| ---------- | ------ | ------------- |
+| Large      | 5 ft.  | 20 ft.        |
+| Huge       | 5 ft.  | 30 ft.        |
+| Gargantuan | 10 ft. | 40 ft.        |
+| Colossal   | 10 ft. | 60 ft.        |
 
 Table: Bridges and Escalade Ladders
-

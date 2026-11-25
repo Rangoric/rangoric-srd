@@ -31,16 +31,16 @@ tags: [rangoric, rangoric/spell]
 
 # Reincarnate
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Drd 4, Hun 4, Med 4, Sha 4, Tot 4, Wit 5
-  - **Components**: V, S, M, DF
-  - **Casting Time**: 10 minutes
-  - **Range**: Touch
-  - **Target**: Dead creature touched
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None; see text
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Drd 4, Hun 4, Med 4, Sha 4, Tot 4, Wit 5
+- **Components**: V, S, M, DF
+- **Casting Time**: 10 minutes
+- **Range**: Touch
+- **Target**: Dead creature touched
+- **Duration**: Instantaneous
+- **Saving Throw**: None; see text
+- **Spell Resistance**: Yes (harmless)
 
 With this spell, you bring back a [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] creature in another body, provided that its death occurred no more than one week before the casting of the spell and the subject’s soul is free and willing to return. If the subject’s soul is not willing to return, the spell does not work; therefore, a subject that wants to return receives no saving throw.
 
@@ -56,24 +56,24 @@ A creature that has been turned into an undead creature or killed by a death eff
 
 | d%    | Incarnation | Str | Dex | Con |
 | ----- | ----------- | --- | --- | --- |
-| 1     | Bugbear     | +4 | +2 | 2   |
-| 02–13 | Dwarf       | +0 | +0 | 2   |
-| 14–25 | Elf         | +0 | +2 | –2  |
-| 26    | Gnoll       | +4 | +0 | 2   |
-| 27–38 | Gnome       | –2  | +0 | 2   |
-| 39–42 | Goblin      | –2  | +2 | 0   |
-| 43–52 | Half-elf    | +0 | +0 | 0   |
-| 53–62 | Half-orc    | +2 | +0 | 0   |
-| 63–74 | Halfling    | –2  | +2 | 0   |
-| 75–89 | Human       | +0 | +0 | 0   |
-| 90–93 | Kobold      | –4  | +2 | –2  |
-| 94    | Lizardfolk  | +2 | +0 | 2   |
-| 95–98 | Orc         | +4 | +0 | 0   |
-| 99    | Troglodyte  | +0 | –2  | 4   |
+| 1     | Bugbear     | +4  | +2  | 2   |
+| 02–13 | Dwarf       | +0  | +0  | 2   |
+| 14–25 | Elf         | +0  | +2  | –2  |
+| 26    | Gnoll       | +4  | +0  | 2   |
+| 27–38 | Gnome       | –2  | +0  | 2   |
+| 39–42 | Goblin      | –2  | +2  | 0   |
+| 43–52 | Half-elf    | +0  | +0  | 0   |
+| 53–62 | Half-orc    | +2  | +0  | 0   |
+| 63–74 | Halfling    | –2  | +2  | 0   |
+| 75–89 | Human       | +0  | +0  | 0   |
+| 90–93 | Kobold      | –4  | +2  | –2  |
+| 94    | Lizardfolk  | +2  | +0  | 2   |
+| 95–98 | Orc         | +4  | +0  | 0   |
+| 99    | Troglodyte  | +0  | –2  | 4   |
 | 100   | Other       | ?   | ?   | ?   |
 
 The reincarnated creature gains all abilities associated with its new form, including forms of movement and speeds, natural armor, natural attacks, extraordinary abilities, and the like, but it doesn’t automatically speak the language of the new form.
 
 A wish or a miracle spell can restore a reincarnated character to his or her original form.
 
-*Material Component*: Rare oils and unguents worth a total of least 1,000 gp, spread over the remains.
+_Material Component_: Rare oils and unguents worth a total of least 1,000 gp, spread over the remains.

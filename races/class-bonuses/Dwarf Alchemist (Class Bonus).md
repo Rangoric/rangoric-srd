@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Dwarf Alchemist
 
-*A [[rangoric-srd/races/Dwarf|dwarf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Alchemist#^alchemist-class-bonuses|alchemist]] level.*
+_A [[rangoric-srd/races/Dwarf|dwarf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Alchemist#^alchemist-class-bonuses|alchemist]] level._
 
 Add +1/4 to the alchemist's natural armor bonus when using his [[rangoric-srd/classes/Alchemist#^alchemist-mutagen|mutagen]].

@@ -44,53 +44,53 @@ The hunter’s class skills (and the key ability for each skill) are [[rangoric-
 
 **Table: The Hunter** ^table-the-hunter
 
-| Level | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | Animal companion, animal focus, nature training, orisons, wild empathy | 1 | — | — | — | — | — |
-| 2nd | Precise companion, track | 2 | — | — | — | — | — |
-| 3rd | Hunter tactics, teamwork feat | 3 | — | — | — | — | — |
-| 4th | Improved empathic link | 3 | 1 | — | — | — | — |
-| 5th | Woodland stride | 4 | 2 | — | — | — | — |
-| 6th | Teamwork feat | 4 | 3 | — | — | — | — |
-| 7th | Bonus trick | 4 | 3 | 1 | — | — | — |
-| 8th | Second animal focus, swift tracker | 4 | 4 | 2 | — | — | — |
-| 9th | Teamwork feat | 5 | 4 | 3 | — | — | — |
-| 10th | Raise animal companion | 5 | 4 | 3 | 1 | — | — |
-| 11th | Speak with master | 5 | 4 | 4 | 2 | — | — |
-| 12th | Teamwork feat | 5 | 5 | 4 | 3 | — | — |
-| 13th | Bonus trick | 5 | 5 | 4 | 3 | 1 | — |
-| 14th | Greater empathic link | 5 | 5 | 4 | 4 | 2 | — |
-| 15th | Teamwork feat | 5 | 5 | 5 | 4 | 3 | — |
-| 16th | — | 5 | 5 | 5 | 4 | 3 | 1 |
-| 17th | One with the wild | 5 | 5 | 5 | 4 | 4 | 2 |
-| 18th | Teamwork feat | 5 | 5 | 5 | 5 | 4 | 3 |
-| 19th | Bonus trick | 5 | 5 | 5 | 5 | 5 | 4 |
-| 20th | Master hunter | 5 | 5 | 5 | 5 | 5 | 5 |
+| Level | Special                                                                | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
+| ----- | ---------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| 1st   | Animal companion, animal focus, nature training, orisons, wild empathy | 1                   | —                   | —                   | —                   | —                   | —                   |
+| 2nd   | Precise companion, track                                               | 2                   | —                   | —                   | —                   | —                   | —                   |
+| 3rd   | Hunter tactics, teamwork feat                                          | 3                   | —                   | —                   | —                   | —                   | —                   |
+| 4th   | Improved empathic link                                                 | 3                   | 1                   | —                   | —                   | —                   | —                   |
+| 5th   | Woodland stride                                                        | 4                   | 2                   | —                   | —                   | —                   | —                   |
+| 6th   | Teamwork feat                                                          | 4                   | 3                   | —                   | —                   | —                   | —                   |
+| 7th   | Bonus trick                                                            | 4                   | 3                   | 1                   | —                   | —                   | —                   |
+| 8th   | Second animal focus, swift tracker                                     | 4                   | 4                   | 2                   | —                   | —                   | —                   |
+| 9th   | Teamwork feat                                                          | 5                   | 4                   | 3                   | —                   | —                   | —                   |
+| 10th  | Raise animal companion                                                 | 5                   | 4                   | 3                   | 1                   | —                   | —                   |
+| 11th  | Speak with master                                                      | 5                   | 4                   | 4                   | 2                   | —                   | —                   |
+| 12th  | Teamwork feat                                                          | 5                   | 5                   | 4                   | 3                   | —                   | —                   |
+| 13th  | Bonus trick                                                            | 5                   | 5                   | 4                   | 3                   | 1                   | —                   |
+| 14th  | Greater empathic link                                                  | 5                   | 5                   | 4                   | 4                   | 2                   | —                   |
+| 15th  | Teamwork feat                                                          | 5                   | 5                   | 5                   | 4                   | 3                   | —                   |
+| 16th  | —                                                                      | 5                   | 5                   | 5                   | 4                   | 3                   | 1                   |
+| 17th  | One with the wild                                                      | 5                   | 5                   | 5                   | 4                   | 4                   | 2                   |
+| 18th  | Teamwork feat                                                          | 5                   | 5                   | 5                   | 5                   | 4                   | 3                   |
+| 19th  | Bonus trick                                                            | 5                   | 5                   | 5                   | 5                   | 5                   | 4                   |
+| 20th  | Master hunter                                                          | 5                   | 5                   | 5                   | 5                   | 5                   | 5                   |
 
 **Table: Hunter Spells Known** ^table-hunter-spells-known
 
-| Level | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | 4 | 2 | — | — | — | — | — |
-| 2nd | 5 | 3 | — | — | — | — | — |
-| 3rd | 6 | 4 | — | — | — | — | — |
-| 4th | 6 | 4 | 2 | — | — | — | — |
-| 5th | 6 | 4 | 3 | — | — | — | — |
-| 6th | 6 | 4 | 4 | — | — | — | — |
-| 7th | 6 | 5 | 4 | 2 | — | — | — |
-| 8th | 6 | 5 | 4 | 3 | — | — | — |
-| 9th | 6 | 5 | 4 | 4 | — | — | — |
-| 10th | 6 | 5 | 5 | 4 | 2 | — | — |
-| 11th | 6 | 6 | 5 | 4 | 3 | — | — |
-| 12th | 6 | 6 | 5 | 4 | 4 | — | — |
-| 13th | 6 | 6 | 5 | 5 | 4 | 2 | — |
-| 14th | 6 | 6 | 6 | 5 | 4 | 3 | — |
-| 15th | 6 | 6 | 6 | 5 | 4 | 4 | — |
-| 16th | 6 | 6 | 6 | 5 | 5 | 4 | 2 |
-| 17th | 6 | 6 | 6 | 6 | 5 | 4 | 3 |
-| 18th | 6 | 6 | 6 | 6 | 5 | 4 | 4 |
-| 19th | 6 | 6 | 6 | 6 | 5 | 5 | 4 |
-| 20th | 6 | 6 | 6 | 6 | 6 | 5 | 5 |
+| Level | 0   | 1st | 2nd | 3rd | 4th | 5th | 6th |
+| ----- | --- | --- | --- | --- | --- | --- | --- |
+| 1st   | 4   | 2   | —   | —   | —   | —   | —   |
+| 2nd   | 5   | 3   | —   | —   | —   | —   | —   |
+| 3rd   | 6   | 4   | —   | —   | —   | —   | —   |
+| 4th   | 6   | 4   | 2   | —   | —   | —   | —   |
+| 5th   | 6   | 4   | 3   | —   | —   | —   | —   |
+| 6th   | 6   | 4   | 4   | —   | —   | —   | —   |
+| 7th   | 6   | 5   | 4   | 2   | —   | —   | —   |
+| 8th   | 6   | 5   | 4   | 3   | —   | —   | —   |
+| 9th   | 6   | 5   | 4   | 4   | —   | —   | —   |
+| 10th  | 6   | 5   | 5   | 4   | 2   | —   | —   |
+| 11th  | 6   | 6   | 5   | 4   | 3   | —   | —   |
+| 12th  | 6   | 6   | 5   | 4   | 4   | —   | —   |
+| 13th  | 6   | 6   | 5   | 5   | 4   | 2   | —   |
+| 14th  | 6   | 6   | 6   | 5   | 4   | 3   | —   |
+| 15th  | 6   | 6   | 6   | 5   | 4   | 4   | —   |
+| 16th  | 6   | 6   | 6   | 5   | 5   | 4   | 2   |
+| 17th  | 6   | 6   | 6   | 6   | 5   | 4   | 3   |
+| 18th  | 6   | 6   | 6   | 6   | 5   | 4   | 4   |
+| 19th  | 6   | 6   | 6   | 6   | 5   | 5   | 4   |
+| 20th  | 6   | 6   | 6   | 6   | 6   | 5   | 5   |
 
 ###### Class Features
 
@@ -98,7 +98,7 @@ All of the following are class features of the hunter.
 
 **Weapon and Armor Proficiency**: A hunter is proficient with all simple and martial weapons and with light armor, medium armor, and shields (except tower shields).
 
-**Spells**: A hunter casts divine spells drawn from the [[rangoric-srd/spells/Druid Spell List|druid]] and [[rangoric-srd/spells/Ranger Spell List|ranger]] spell lists. Only druid spells of 6th level and lower and ranger spells are considered to be part of the hunter spell list. If a spell appears on both the druid and ranger spell lists, the hunter uses the lower of the two spell levels listed for the spell. For instance, *[[rangoric-srd/spells/Reduce Animal|reduce animal]]* is a 2nd-level druid spell and a 3rd-level ranger spell, making it a 2nd-level hunter spell. Likewise, *[[rangoric-srd/spells/Detect Poison|detect poison]]* is a 0-level druid spell and a 1st-level ranger spell, making it a 0-level hunter spell. The [[rangoric-srd/spells/Hunter Spell List|Hunter Spell List]] collects them. ^hunter-spells
+**Spells**: A hunter casts divine spells drawn from the [[rangoric-srd/spells/Druid Spell List|druid]] and [[rangoric-srd/spells/Ranger Spell List|ranger]] spell lists. Only druid spells of 6th level and lower and ranger spells are considered to be part of the hunter spell list. If a spell appears on both the druid and ranger spell lists, the hunter uses the lower of the two spell levels listed for the spell. For instance, _[[rangoric-srd/spells/Reduce Animal|reduce animal]]_ is a 2nd-level druid spell and a 3rd-level ranger spell, making it a 2nd-level hunter spell. Likewise, _[[rangoric-srd/spells/Detect Poison|detect poison]]_ is a 0-level druid spell and a 1st-level ranger spell, making it a 0-level hunter spell. The [[rangoric-srd/spells/Hunter Spell List|Hunter Spell List]] collects them. ^hunter-spells
 
 The hunter can cast any spell she knows without preparing it ahead of time. To learn or cast a spell, a hunter must have a Wisdom score equal to at least 10 + the spell's level. The Difficulty Class for a saving throw against a hunter's spell is 10 + the spell's level + the hunter's Wisdom modifier.
 
@@ -108,9 +108,9 @@ Like other spellcasters, a hunter can cast only a certain number of spells of ea
 
 Unlike druids and rangers, a hunter's selection of spells is extremely limited. A hunter begins play knowing four 0-level spells and two 1st-level spells of her choice. At each new hunter level, she gains one or more new spells, as indicated on Table: Hunter Spells Known. Unlike spells per day, the number of spells a hunter knows is not affected by her Wisdom score; the numbers on Table: Hunter Spells Known are fixed.
 
-In addition to the spells gained by hunters as they gain levels, each hunter also automatically adds all *[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature’s ally]]* spells to her list of spells known. These spells are added as soon as the hunter is capable of casting them.
+In addition to the spells gained by hunters as they gain levels, each hunter also automatically adds all _[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature’s ally]]_ spells to her list of spells known. These spells are added as soon as the hunter is capable of casting them.
 
-At 5th level and at every 3 levels thereafter, a hunter can choose to learn a new spell in place of one she already knows. In effect, the hunter loses the old spell in exchange for the new one. The new spell's level must be the same as that of the spell being exchanged. A hunter may swap only a single spell at any given level, and must choose whether or not to swap the spell at the same time that she gains new spells known for the level. She cannot swap any *summon nature's ally* spells.
+At 5th level and at every 3 levels thereafter, a hunter can choose to learn a new spell in place of one she already knows. In effect, the hunter loses the old spell in exchange for the new one. The new spell's level must be the same as that of the spell being exchanged. A hunter may swap only a single spell at any given level, and must choose whether or not to swap the spell at the same time that she gains new spells known for the level. She cannot swap any _summon nature's ally_ spells.
 
 Unlike a druid or ranger, a hunter need not prepare her spells in advance. She can cast any spell she knows at any time, assuming she has not yet used up her spells per day for that spell level.
 
@@ -120,7 +120,7 @@ Unlike a druid or ranger, a hunter need not prepare her spells in advance. She c
 
 **Animal Companion (Ex)**: At 1st level, a hunter forms a bond with an animal companion. A hunter may begin play with any of the animals available to a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]]. This animal is a loyal companion that accompanies the hunter on her adventures. This ability functions like the druid [[rangoric-srd/classes/Druid#The Druid’s Animal Companion|animal companion]] ability (which is part of the [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]] class feature). The hunter's effective druid level is equal to her hunter level. If a character receives an animal companion from more than one source, her effective druid levels stack for the purposes of determining the companion's statistics and abilities. A hunter may teach her companion [[rangoric-srd/class-options/hunters-tricks/Hunter's Tricks|hunter’s tricks]] from the [[rangoric-srd/class-options/archetypes/ranger/Skirmisher (Archetype)|skirmisher]] ranger archetype instead of standard tricks. ^hunter-animal-companion
 
-If a hunter releases her companion from service or her animal companion perishes, she may gain a new one by performing a ceremony requiring 24 uninterrupted hours of prayer in the environment where the new companion typically lives. While the hunter's animal companion is dead, any animal she summons with a *[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature’s ally]]* spell remains for 1 minute per level instead of 1 round per level. A hunter cannot have more than one *summon nature's ally* spell active in this way at one time. If this ability is used again, any existing *summon nature's ally* immediately ends.
+If a hunter releases her companion from service or her animal companion perishes, she may gain a new one by performing a ceremony requiring 24 uninterrupted hours of prayer in the environment where the new companion typically lives. While the hunter's animal companion is dead, any animal she summons with a _[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature’s ally]]_ spell remains for 1 minute per level instead of 1 round per level. A hunter cannot have more than one _summon nature's ally_ spell active in this way at one time. If this ability is used again, any existing _summon nature's ally_ immediately ends.
 
 **Animal Focus (Su)**: At 1st level, a hunter can take on the aspect of an animal as a swift action. She must select one type of animal to emulate, gaining a bonus or special ability based on the type of animal emulated and her hunter level. The hunter can use this ability for a number of minutes per day equal to her level. This duration does not need to be consecutive, but must be spent in 1-minute increments. The hunter can emulate only one animal at a time. ^hunter-animal-focus
 
@@ -186,7 +186,7 @@ If the hunter's animal companion is dead and the hunter has applied the companio
 
 **Swift Tracker (Ex)**: At 8th level, a hunter can move at her normal speed while using [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] to follow tracks without taking the normal –5 penalty. She takes only a –10 penalty (instead of the normal –20) when moving at up to twice normal speed while tracking. ^hunter-swift-tracker
 
-**Raise Animal Companion (Sp)**: At 10th level, a hunter gains *[[rangoric-srd/spells/Raise Animal Companion|raise animal companion]]* as a spell-like ability; this is not restricted to raising only her own animal companion. Using this spell-like ability gives the hunter a permanent [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative level]]. This negative level cannot be overcome in any way (including by *[[rangoric-srd/spells/Restoration|restoration]]*), but automatically ends after 24 hours. At 16th level, this functions as *[[rangoric-srd/spells/Resurrection|resurrection]]* instead of *[[rangoric-srd/spells/Raise Dead|raise dead]]*, but otherwise operates as normal. ^hunter-raise-animal-companion
+**Raise Animal Companion (Sp)**: At 10th level, a hunter gains _[[rangoric-srd/spells/Raise Animal Companion|raise animal companion]]_ as a spell-like ability; this is not restricted to raising only her own animal companion. Using this spell-like ability gives the hunter a permanent [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative level]]. This negative level cannot be overcome in any way (including by _[[rangoric-srd/spells/Restoration|restoration]]_), but automatically ends after 24 hours. At 16th level, this functions as _[[rangoric-srd/spells/Resurrection|resurrection]]_ instead of _[[rangoric-srd/spells/Raise Dead|raise dead]]_, but otherwise operates as normal. ^hunter-raise-animal-companion
 
 **Speak with Master (Ex)**: At 11th level, a hunter and her animal companion can communicate verbally, as if they were using a common language. Other creatures cannot understand the communication without magical aid. ^hunter-speak-with-master
 

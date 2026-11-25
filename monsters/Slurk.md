@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Slurk
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 2d10+6 (17 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares), climb 30 ft.
-  - **Armor Class**: 15 (+2 Dex, +3 natural), touch 12, flat-footed 13
-  - **Base Attack**: +2; **CMB**: +4; **CMD**: 16 (20 vs. bull rush, grapple, overrun, and trip)
-  - **Attack**: Bite +4 melee (2d6+3) or slime squirt +4 ranged touch
-  - **Full Attack**: Bite +4 melee (2d6+3); or slime squirt +4 ranged touch
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Belly Grease|Belly grease]], [[rangoric-srd/monsters/abilities/Slime|slime]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Hunker|hunker]]
-  - **Saves**: Fort +6, Ref +5, Will +0
-  - **Abilities**: Str 15, Dex 14, Con 17, Int 3, Wis 10, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +6
-  - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]]
-  - **Environment**: Temperate swamps or underground
-  - **Organization**: Solitary, pair, or pack (3–8)
-  - **Challenge Rating**: 2
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 2d10+6 (17 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares), climb 30 ft.
+- **Armor Class**: 15 (+2 Dex, +3 natural), touch 12, flat-footed 13
+- **Base Attack**: +2; **CMB**: +4; **CMD**: 16 (20 vs. bull rush, grapple, overrun, and trip)
+- **Attack**: Bite +4 melee (2d6+3) or slime squirt +4 ranged touch
+- **Full Attack**: Bite +4 melee (2d6+3); or slime squirt +4 ranged touch
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Belly Grease|Belly grease]], [[rangoric-srd/monsters/abilities/Slime|slime]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Hunker|hunker]]
+- **Saves**: Fort +6, Ref +5, Will +0
+- **Abilities**: Str 15, Dex 14, Con 17, Int 3, Wis 10, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +6
+- **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]]
+- **Environment**: Temperate swamps or underground
+- **Organization**: Solitary, pair, or pack (3–8)
+- **Challenge Rating**: 2
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Slurks are frog-like creatures, the descendants of the failed result of a dwarven attempt to domesticate and breed subterranean frogs as food and labor animals. Though the dwarves failed to create suitable livestock, the sticky frog-beasts are often befriended by other underground races.
 

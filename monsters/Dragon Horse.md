@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Dragon Horse
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Air)
-  - **Hit Dice**: 10d10+50 (105 hp)
-  - **Initiative**: +7
-  - **Speed**: 60 ft. (12 squares), fly 120 ft. (good)
-  - **Armor Class**: 23 (+3 Dex, +1 dodge, +10 natural, –1 size), touch 13, flat-footed 19
-  - **Base Attack**: +10; **CMB**: +18; **CMD**: 32 (36 vs. trip)
-  - **Attack**: Hoof +16 melee (2d6+7 plus 1d6 electricity)
-  - **Full Attack**: 2 hooves +16 melee (2d6+7 plus 1d6 electricity)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapons|Breath weapons]], [[rangoric-srd/monsters/abilities/Flying Charge|flying charge]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Know Alignment|know alignment]], [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Shift Planes|shift planes]]
-  - **Saves**: Fort +12, Ref +10, Will +9
-  - **Abilities**: Str 24, Dex 17, Con 21, Int 16, Wis 18, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Theology|Theology]] +13
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]]
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 9
-  - **Treasure**: None
-  - **Alignment**: Usually neutral good
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Air)
+- **Hit Dice**: 10d10+50 (105 hp)
+- **Initiative**: +7
+- **Speed**: 60 ft. (12 squares), fly 120 ft. (good)
+- **Armor Class**: 23 (+3 Dex, +1 dodge, +10 natural, –1 size), touch 13, flat-footed 19
+- **Base Attack**: +10; **CMB**: +18; **CMD**: 32 (36 vs. trip)
+- **Attack**: Hoof +16 melee (2d6+7 plus 1d6 electricity)
+- **Full Attack**: 2 hooves +16 melee (2d6+7 plus 1d6 electricity)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapons|Breath weapons]], [[rangoric-srd/monsters/abilities/Flying Charge|flying charge]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Know Alignment|know alignment]], [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Shift Planes|shift planes]]
+- **Saves**: Fort +12, Ref +10, Will +9
+- **Abilities**: Str 24, Dex 17, Con 21, Int 16, Wis 18, Cha 21
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Theology|Theology]] +13
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]]
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 9
+- **Treasure**: None
+- **Alignment**: Usually neutral good
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Despite their name, dragon horses are not related to dragons. These noble creatures gain their name from their ability to fly through the air without wings and to create different effects with their misty breath.
 

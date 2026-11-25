@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Heavyload Belt
 
-This wide leather belt is held together with two strands of oxen skin threaded through holes on each end. The belt's wearer is affected as though subject to a permanent *[[rangoric-srd/spells/Ant Haul|ant haul]]* spell.
+This wide leather belt is held together with two strands of oxen skin threaded through holes on each end. The belt's wearer is affected as though subject to a permanent _[[rangoric-srd/spells/Ant Haul|ant haul]]_ spell.
 
-Faint transmutation; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Ant Haul|ant haul]]*; Price 2,000 gp; Cost 1,000 gp; Weight 3 lbs.
+Faint transmutation; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Ant Haul|ant haul]]_; Price 2,000 gp; Cost 1,000 gp; Weight 3 lbs.

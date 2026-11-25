@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Gargoyle
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Earth)
-  - **Hit Dice**: 5d10+15 (42 hp)
-  - **Initiative**: +6
-  - **Speed**: 40 ft. (8 squares), fly 60 ft. (average)
-  - **Armor Class**: 16 (+2 Dex, +4 natural), touch 12, flat-footed 14
-  - **Base Attack**: +5; **CMB**: +7; **CMD**: 19
-  - **Attack**: Claw +7 melee (1d6+2) or bite +7 melee (1d4+2) or gore +7 melee (1d4+2)
-  - **Full Attack**: 2 claws +7 melee (1d6+2) and bite +7 melee (1d4+2) and gore +7 melee (1d4+2)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Freeze|freeze]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic
-  - **Saves**: Fort +4, Ref +6, Will +4
-  - **Abilities**: Str 15, Dex 14, Con 16, Int 6, Wis 11, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +11 (+17 in stony areas)
-  - **Feats**: [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics)
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, or wing (3–12)
-  - **Challenge Rating**: 4
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: 5–6 HD (Medium); 7–12 HD (Large)
-  - **Level Adjustment**: +5
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Earth)
+- **Hit Dice**: 5d10+15 (42 hp)
+- **Initiative**: +6
+- **Speed**: 40 ft. (8 squares), fly 60 ft. (average)
+- **Armor Class**: 16 (+2 Dex, +4 natural), touch 12, flat-footed 14
+- **Base Attack**: +5; **CMB**: +7; **CMD**: 19
+- **Attack**: Claw +7 melee (1d6+2) or bite +7 melee (1d4+2) or gore +7 melee (1d4+2)
+- **Full Attack**: 2 claws +7 melee (1d6+2) and bite +7 melee (1d4+2) and gore +7 melee (1d4+2)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Freeze|freeze]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic
+- **Saves**: Fort +4, Ref +6, Will +4
+- **Abilities**: Str 15, Dex 14, Con 16, Int 6, Wis 11, Cha 7
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +11 (+17 in stony areas)
+- **Feats**: [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics)
+- **Environment**: Any
+- **Organization**: Solitary, pair, or wing (3–12)
+- **Challenge Rating**: 4
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: 5–6 HD (Medium); 7–12 HD (Large)
+- **Level Adjustment**: +5
 
 Gargoyles often appear to be winged stone statues, for they can perch indefinitely without moving, allowing them to surprise their foes. Gargoyles tend toward obsessive-compulsive behaviors that are as varied as their kind is plentiful. Books, stolen trinkets, weapons, and grisly trophies harvested from fallen foes are just a few examples of the types of things a gargoyle might collect to decorate its lair and territory. Gargoyles tend toward a solitary lifestyle, though they sometimes form fearsome groups called “wings” for protection and sport. In certain conditions, a tribe of gargoyles might even ally with other creatures, but even the most stable alliances with a gargoyle tribe can collapse for the smallest of reasons—gargoyles are nothing if not treacherous, petty, and vindictive. Gargoyles have been known to dwell in the heart of the largest of cities, crouching amid the decorations of stone cathedrals and buildings where they hide in plain sight by day and swoop down to feed on vagabonds, beggars, and other unfortunates at night.
 
@@ -85,24 +85,24 @@ A gargoyle’s natural weapons are treated as magic weapons for the purpose of o
 
 Gargoyle characters possess the following racial traits.
 
-  - \+4 Strength, +4 Dexterity, +8 Constitution, –4 Intelligence, –4 Charisma.
+- \+4 Strength, +4 Dexterity, +8 Constitution, –4 Intelligence, –4 Charisma.
 
-  - Medium size.
+- Medium size.
 
-  - A gargoyle’s base land speed is 40 feet. It also has a fly speed of 60 feet (average).
+- A gargoyle’s base land speed is 40 feet. It also has a fly speed of 60 feet (average).
 
-  - Darkvision out to 60 feet.
+- Darkvision out to 60 feet.
 
-  - Racial Hit Dice: A gargoyle begins with four levels of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|monstrous humanoid]], which provide 4d8 Hit Dice, a base attack bonus of +4, and base saving throw bonuses of Fort +1, Ref +4, and Will +4.
+- Racial Hit Dice: A gargoyle begins with four levels of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|monstrous humanoid]], which provide 4d8 Hit Dice, a base attack bonus of +4, and base saving throw bonuses of Fort +1, Ref +4, and Will +4.
 
-  - Racial Skills: A gargoyle’s monstrous humanoid levels give it skill points equal to 4 x (2 + Int modifier). Its class skills are [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Stealth|Stealth]]. A gargoyle has a +2 racial bonus on Stealth and Perception checks, and an additional +8 bonus on Stealth checks when it is concealed against a background of stone.
+- Racial Skills: A gargoyle’s monstrous humanoid levels give it skill points equal to 4 x (2 + Int modifier). Its class skills are [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Stealth|Stealth]]. A gargoyle has a +2 racial bonus on Stealth and Perception checks, and an additional +8 bonus on Stealth checks when it is concealed against a background of stone.
 
-  - Racial Feats: A gargoyle’s monstrous humanoid levels give it two feats.
+- Racial Feats: A gargoyle’s monstrous humanoid levels give it two feats.
 
-  - \+4 natural armor bonus.
+- \+4 natural armor bonus.
 
-  - Special Qualities (see above): [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/magic, freeze.
+- Special Qualities (see above): [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/magic, freeze.
 
-  - Automatic Languages: Common. Bonus Languages: Auran, Dwarven, Elven, Gnome, Halfling, Giant, Terran.
+- Automatic Languages: Common. Bonus Languages: Auran, Dwarven, Elven, Gnome, Halfling, Giant, Terran.
 
-  - Level adjustment +5.
+- Level adjustment +5.

@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/feat, critical]
 
 Your blows attack the physical and arcane forms of your enemies at the same time.
 
-**Prerequisites**: [[rangoric-srd/feats/Arcane Strike|Arcane Strike]], base attack bonus +11, ability to cast *[[rangoric-srd/spells/Dispel Magic|dispel magic]]*.
+**Prerequisites**: [[rangoric-srd/feats/Arcane Strike|Arcane Strike]], base attack bonus +11, ability to cast _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_.
 
-**Benefit**: If you have *[[rangoric-srd/spells/Dispel Magic|dispel magic]]* prepared or can cast it spontaneously, when you score a [[rangoric-srd/combat/Combat Actions#^critical-hits|critical hit]] against an opponent, you may use a swift action to cast dispel magic to make a targeted dispel against that opponent.
+**Benefit**: If you have _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_ prepared or can cast it spontaneously, when you score a [[rangoric-srd/combat/Combat Actions#^critical-hits|critical hit]] against an opponent, you may use a swift action to cast dispel magic to make a targeted dispel against that opponent.

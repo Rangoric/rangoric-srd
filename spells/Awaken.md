@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Awaken
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Drd 5, Hun 5, Sha 6, Tot 5
-  - **Components**: V, S, DF, XP
-  - **Casting Time**: 24 hours
-  - **Range**: Touch
-  - **Target**: Animal or tree touched
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Drd 5, Hun 5, Sha 6, Tot 5
+- **Components**: V, S, DF, XP
+- **Casting Time**: 24 hours
+- **Range**: Touch
+- **Target**: Animal or tree touched
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 You awaken a tree or animal to humanlike sentience. To succeed, you must make a Will save (DC 10 + the animal’s current HD, or the HD the tree will have once awakened).
 
@@ -49,4 +49,4 @@ An awakened animal gets 3d6 Intelligence, +1d3 Charisma, and +2 HD. Its type bec
 
 An awakened tree or animal can speak one language that you know, plus one additional language that you know per point of Intelligence bonus (if any).
 
-*XP Cost*: 250 XP.
+_XP Cost_: 250 XP.

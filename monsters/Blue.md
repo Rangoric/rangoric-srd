@@ -63,7 +63,7 @@ Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^hu
 Treasure: Standard     
 **Alignment:** Usually neutral Evil  
 **Advancement:** By character class (usually psion)     
-**Level Adjustment:** +1    
+**Level Adjustment:** +1  
 
 Blues are a subrace of goblins with an innate knack for psionics. A blue is often smaller than an average goblin, standing just about 3 feet tall and weighing about 40 pounds. Blues have noticeably blue-tinged skin, and their eyes are less dull than those of a common goblin. Otherwise, they resemble their kin. They generally dress in short leather robes, dyed black.
 
@@ -93,18 +93,18 @@ Blues tend to be psions, although blues raised in communities where their kind a
 
 Blue characters possess the following racial traits.
 
-  - \-2 Strength, +2 Intelligence, -2 Charisma.
+- \-2 Strength, +2 Intelligence, -2 Charisma.
 
-  - Small size: +1 bonus to Armor Class, +1 bonus on attack rolls, +4 bonus on Stealth checks, -4 penalty on grapple checks, lifting and carrying limits 3/4 of those of Medium characters.
+- Small size: +1 bonus to Armor Class, +1 bonus on attack rolls, +4 bonus on Stealth checks, -4 penalty on grapple checks, lifting and carrying limits 3/4 of those of Medium characters.
 
-  - Blue base land speed is 30 feet.
+- Blue base land speed is 30 feet.
 
-  - Darkvision out to 60 feet.
+- Darkvision out to 60 feet.
 
-  - Naturally Psionic: Blues gain 1 bonus power point at 1st level.
+- Naturally Psionic: Blues gain 1 bonus power point at 1st level.
 
-  - Racial Skills: A blue character has a +4 racial bonus on Stealth checks and Animal Handling checks.
+- Racial Skills: A blue character has a +4 racial bonus on Stealth checks and Animal Handling checks.
 
-  - Automatic Languages: Common, Goblin. Bonus Languages: Draconic, Elven, Giant, Gnoll, Orc.
+- Automatic Languages: Common, Goblin. Bonus Languages: Draconic, Elven, Giant, Gnoll, Orc.
 
-  - Level Adjustment: +1.
+- Level Adjustment: +1.

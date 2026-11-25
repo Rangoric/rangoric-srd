@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Fast Study
 
-*An [[rangoric-srd/classes/Wizard#^wizard-arcane-discoveries|arcane discovery]].*
+_An [[rangoric-srd/classes/Wizard#^wizard-arcane-discoveries|arcane discovery]]._
 
 Normally, a wizard spends 1 hour preparing all of his spells for the day, or proportionately less if he only prepares some spells, with a minimum of 15 minutes of preparation. Thanks to mental discipline and clever mnemonics, you can prepare all of your spells in only 15 minutes, and your minimum preparation time is only 1 minute. You must be at least a 5th-level wizard to select this discovery.

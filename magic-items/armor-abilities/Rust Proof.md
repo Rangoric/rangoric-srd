@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Rust Proof
 
-Armor and shields protected by this enchantment are immune to all normal and magical forms of rust, including rust monster attacks and the effects of *[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]*.
+Armor and shields protected by this enchantment are immune to all normal and magical forms of rust, including rust monster attacks and the effects of _[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]_.
 
-Faint abjuration; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Protection from Energy|protection from energy]]* or *[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]*; Price +1 bonus.
+Faint abjuration; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Protection from Energy|protection from energy]]_ or _[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]_; Price +1 bonus.

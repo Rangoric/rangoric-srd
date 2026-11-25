@@ -31,16 +31,16 @@ tags: [rangoric, rangoric/spell]
 
 # Glue Seal
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Brd 1, Mag 1, Psy 1, Skd 1, Sor/Wiz 1, Sum 1, SumU 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One object or one 5-ft. square
-  - **Duration**: 1 minute/level (D)
-  - **Saving Throw**: See text
-  - **Spell Resistance**: No
+- **Level**: Brd 1, Mag 1, Psy 1, Skd 1, Sor/Wiz 1, Sum 1, SumU 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One object or one 5-ft. square
+- **Duration**: 1 minute/level (D)
+- **Saving Throw**: See text
+- **Spell Resistance**: No
 
 You cover a solid surface with a layer of sticky glue. Anyone in the area when the spell is cast must attempt a Reflex save. Those who fail become entangled, but can break free by succeeding at a combat maneuver check or an Escape Artist check as a standard action against the DC of this spell. The area of the spell is considered difficult terrain. A creature moving through the glue must succeed at a combat maneuver check or an Escape Artist check as part of its move action (DC = the spell's DC). Creatures that fail lose their movement and become entangled in the first square they enter.
 

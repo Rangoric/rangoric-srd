@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Earth Glide
 
-*Transmutation \[Earth\]*
+_Transmutation \[Earth\]_
 
-  - **Level**: Alc 4, Blr 4, Drd 4, Hun 4, Sha 4, Sor/Wiz 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Alc 4, Blr 4, Drd 4, Hun 4, Sha 4, Sor/Wiz 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-The target can pass through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water, traveling at a speed of 5 feet. If protected against fire damage, it can move through lava. This movement leaves behind no tunnel or hole, nor does it create any ripple or other sign of its presence. It requires as much concentration as walking, so the subject can attack or cast spells normally, but cannot charge or run. Casting *[[rangoric-srd/spells/Move Earth|move earth]]* on an area containing the target flings the target back 30 feet, stunning it for 1 round (DC 15 Fortitude negates). This spell does not give the target the ability to breathe underground, so when passing through solid material, the creature must hold its breath.
+The target can pass through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water, traveling at a speed of 5 feet. If protected against fire damage, it can move through lava. This movement leaves behind no tunnel or hole, nor does it create any ripple or other sign of its presence. It requires as much concentration as walking, so the subject can attack or cast spells normally, but cannot charge or run. Casting _[[rangoric-srd/spells/Move Earth|move earth]]_ on an area containing the target flings the target back 30 feet, stunning it for 1 round (DC 15 Fortitude negates). This spell does not give the target the ability to breathe underground, so when passing through solid material, the creature must hold its breath.

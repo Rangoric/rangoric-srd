@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Sundering Axe
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Dwarf)
-  - **Hit Dice**: 7d12+42 (93 hp)
-  - **Initiative**: +1
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 18 (+9 armor, +1 Dex, –2 rage), touch 9, flat-footed 17
-  - **Base Attack**: +7; **CMB**: +12 (+16 sunder); **CMD**: 21 (25 vs. bull rush or trip, 23 vs. sunder)
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] adamantine greataxe +13 melee (1d12+7/×3) or [[rangoric-srd/equipment/weapons/Light Hammer|light hammer]] +8 ranged (1d4+5) orthrowing a×e +8 (1d6+5)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] adamantine greataxe +13/+8 melee (1d12+7/×3); or [[rangoric-srd/equipment/weapons/Light Hammer|light hammer]] +8 ranged (1d4+5) orthrowing a×e +8 (1d6+5)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/races/Dwarf|+1 on attack rolls against goblinoid and orc humanoids]], [[rangoric-srd/classes/Barbarian#^barbarian-rage|rage]] (19 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Guarded Stance (Rage Power)|guarded stance]] +2, [[rangoric-srd/class-options/rage-powers/Knockback (Rage Power)|knockback]], [[rangoric-srd/class-options/rage-powers/Strength Surge (Rage Power)|strength surge]] +7)
-  - **Special Qualities**: [[rangoric-srd/races/Dwarf#^defensive-training|Defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +2, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/classes/Barbarian#^barbarian-damage-reduction|damage reduction]] 1/—
-  - **Saves**: Fort +11, Ref +4, Will +7 (+2 vs. poison, spells, and spell-like abilities)
-  - **Abilities**: Str 20, Dex 13, Con 20, Int 10, Wis 14, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+6 jumping), [[rangoric-srd/skills/Craft|Craft]] (weapons) +10, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +5, [[rangoric-srd/skills/Investigation|Investigation]] +0 (+2 to notice unusual stonework), [[rangoric-srd/skills/Perception|Perception]] +12
-  - **Feats**: [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]], [[rangoric-srd/feats/Greater Sunder|Greater Sunder]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Temperate mountains
-  - **Organization**: Solitary, or with other dwarves (see [[rangoric-srd/monsters/dwarf/Dwarf|Dwarf]])
-  - **Challenge Rating**: 6
-  - **Treasure**: NPC gear (combat gear: oil of magic weapon, potion of cure light wounds, potion of shield of faith, acid (3); other gear: masterwork full plate, light hammer (2), masterwork adamantine greataxe, throwing axe (2), cloak of resistance +1, climber's kit, masterwork artisan's tools, 2 gp)
-  - **Alignment**: Neutral evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Dwarf)
+- **Hit Dice**: 7d12+42 (93 hp)
+- **Initiative**: +1
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 18 (+9 armor, +1 Dex, –2 rage), touch 9, flat-footed 17
+- **Base Attack**: +7; **CMB**: +12 (+16 sunder); **CMD**: 21 (25 vs. bull rush or trip, 23 vs. sunder)
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] adamantine greataxe +13 melee (1d12+7/×3) or [[rangoric-srd/equipment/weapons/Light Hammer|light hammer]] +8 ranged (1d4+5) orthrowing a×e +8 (1d6+5)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] adamantine greataxe +13/+8 melee (1d12+7/×3); or [[rangoric-srd/equipment/weapons/Light Hammer|light hammer]] +8 ranged (1d4+5) orthrowing a×e +8 (1d6+5)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/races/Dwarf|+1 on attack rolls against goblinoid and orc humanoids]], [[rangoric-srd/classes/Barbarian#^barbarian-rage|rage]] (19 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Guarded Stance (Rage Power)|guarded stance]] +2, [[rangoric-srd/class-options/rage-powers/Knockback (Rage Power)|knockback]], [[rangoric-srd/class-options/rage-powers/Strength Surge (Rage Power)|strength surge]] +7)
+- **Special Qualities**: [[rangoric-srd/races/Dwarf#^defensive-training|Defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +2, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/classes/Barbarian#^barbarian-damage-reduction|damage reduction]] 1/—
+- **Saves**: Fort +11, Ref +4, Will +7 (+2 vs. poison, spells, and spell-like abilities)
+- **Abilities**: Str 20, Dex 13, Con 20, Int 10, Wis 14, Cha 6
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+6 jumping), [[rangoric-srd/skills/Craft|Craft]] (weapons) +10, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +5, [[rangoric-srd/skills/Investigation|Investigation]] +0 (+2 to notice unusual stonework), [[rangoric-srd/skills/Perception|Perception]] +12
+- **Feats**: [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]], [[rangoric-srd/feats/Greater Sunder|Greater Sunder]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Temperate mountains
+- **Organization**: Solitary, or with other dwarves (see [[rangoric-srd/monsters/dwarf/Dwarf|Dwarf]])
+- **Challenge Rating**: 6
+- **Treasure**: NPC gear (combat gear: oil of magic weapon, potion of cure light wounds, potion of shield of faith, acid (3); other gear: masterwork full plate, light hammer (2), masterwork adamantine greataxe, throwing axe (2), cloak of resistance +1, climber's kit, masterwork artisan's tools, 2 gp)
+- **Alignment**: Neutral evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A sundering axe is a [[rangoric-srd/monsters/dwarf/Dwarf|dwarf]] with 7 levels of [[rangoric-srd/classes/Barbarian|barbarian]]. A sundering axe whittles away at her enemies' abilities to attack and defend themselves.
 

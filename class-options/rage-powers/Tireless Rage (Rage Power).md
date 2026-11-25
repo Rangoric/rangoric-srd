@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Tireless Rage
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 Starting at 17th level, a barbarian no longer becomes [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] at the end of her rage.

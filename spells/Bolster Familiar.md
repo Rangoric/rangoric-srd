@@ -25,18 +25,18 @@ tags: [rangoric, rangoric/spell]
 
 # Bolster Familiar
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Sor/Wiz 4
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./level)
-  - **Target**: Your Familiar
-  - **Duration**: 1 hour/level (d)
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes
+- **Level**: Sor/Wiz 4
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./level)
+- **Target**: Your Familiar
+- **Duration**: 1 hour/level (d)
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes
 
-*Bolster familiar* strengthens the life force of a familiar, allowing them to surpass their normal strength and endurance.
+_Bolster familiar_ strengthens the life force of a familiar, allowing them to surpass their normal strength and endurance.
 
 Upon casting, the familiar’s hit points increase to equal the caster’s at full health (unless this would be a decrease, in which case this effect does not occur). It also gains enough strength points to negate any negative modifier it may possess, and all its natural attacks receive a +1 competence bonus to hit and damage per every 3 full caster levels; maximum of +5.
 

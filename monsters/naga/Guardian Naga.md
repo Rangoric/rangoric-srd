@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Guardian Naga
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 12d8+60 (114 hp)
-  - **Initiative**: +6
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 24 (+6 Dex, +9 natural, –1 size), touch 15, flat-footed 18
-  - **Base Attack**: +9; **CMB**: +15; **CMD**: 31 (can't be tripped)
-  - **Attack**: Bite +13 melee (2d6+7 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or spit +14 ranged touch (poison)
-  - **Full Attack**: Bite +13 melee (2d6+7 plus [[rangoric-srd/monsters/abilities/Poison|poison]]); or spit +14 ranged touch (poison)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
-  - **Saves**: Fort +9, Ref +12, Will +12
-  - **Abilities**: Str 21, Dex 23, Con 20, Int 16, Wis 19, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +18, [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Mysticism|Mysticism]] +18, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Persuasion|Persuasion]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +17
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Temperate plains
-  - **Organization**: Solitary, pair, or nest (3–6)
-  - **Challenge Rating**: 10
-  - **Treasure**: Standard
-  - **Alignment**: Usually lawful good
-  - **Advancement**: 12–16 HD (Large); 17–33 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 12d8+60 (114 hp)
+- **Initiative**: +6
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 24 (+6 Dex, +9 natural, –1 size), touch 15, flat-footed 18
+- **Base Attack**: +9; **CMB**: +15; **CMD**: 31 (can't be tripped)
+- **Attack**: Bite +13 melee (2d6+7 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or spit +14 ranged touch (poison)
+- **Full Attack**: Bite +13 melee (2d6+7 plus [[rangoric-srd/monsters/abilities/Poison|poison]]); or spit +14 ranged touch (poison)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
+- **Saves**: Fort +9, Ref +12, Will +12
+- **Abilities**: Str 21, Dex 23, Con 20, Int 16, Wis 19, Cha 18
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +18, [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Mysticism|Mysticism]] +18, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Persuasion|Persuasion]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +17
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Temperate plains
+- **Organization**: Solitary, pair, or nest (3–6)
+- **Challenge Rating**: 10
+- **Treasure**: Standard
+- **Alignment**: Usually lawful good
+- **Advancement**: 12–16 HD (Large); 17–33 HD (Huge)
+- **Level Adjustment**: —
 
 Although ferocious in shape, with radiant scales, cobra-like hoods, and powerful serpentine bodies, guardian nagas serve as dutiful protectors of places of fundamental power and sanctity. Their scales often bear elaborate patterns similar to those of exotic jungle snakes. A typical guardian naga stretches 14 feet long and weighs approximately 350 pounds.
 
@@ -75,8 +75,8 @@ Guardian nagas usually warn off intruders before attacking. If the warning is ig
 
 **Spells**: A guardian naga casts spells as a 9th-level [[rangoric-srd/classes/Sorcerer|sorcerer]], and can cast spells from the [[rangoric-srd/classes/Cleric|cleric]] list as well as those normally available to a sorcerer. It can also cast spells from the [[rangoric-srd/class-options/domains/Good Domain|Good]] and [[rangoric-srd/class-options/domains/Law Domain|Law]] domains. Cleric and domain spells are considered arcane spells for a guardian naga, so it needs no divine focus to cast them.
 
-**Spells known** (CL 9th): 4th (5/day)—*[[rangoric-srd/spells/Divine Power|divine power]], [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]*; 3rd (7/day)—*[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]], [[rangoric-srd/spells/Dispel Magic|dispel magic]], [[rangoric-srd/spells/Lightning Bolt|lightning bolt]]* (DC 17); 2nd (7/day)—*[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]* (DC 16), *[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]], [[rangoric-srd/spells/See Invisibility|see invisibility]], [[rangoric-srd/spells/Scorching Ray|scorching ray]]*; 1st (7/day)—*[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]], [[rangoric-srd/spells/Divine Favor|divine favor]], [[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]], [[rangoric-srd/spells/Mage Armor|mage armor]], [[rangoric-srd/spells/Magic Missile|magic missile]]*; 0 (at will)—*[[rangoric-srd/spells/Daze|daze]]* (DC 14), *[[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Light|light]], [[rangoric-srd/spells/Mage Hand|mage hand]], [[rangoric-srd/spells/Open-Close|open/close]], [[rangoric-srd/spells/Ray of Frost|ray of frost]], [[rangoric-srd/spells/Read Magic|read magic]], [[rangoric-srd/spells/Stabilize (Spell)|stabilize]]*.
+**Spells known** (CL 9th): 4th (5/day)—_[[rangoric-srd/spells/Divine Power|divine power]], [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]_; 3rd (7/day)—_[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]], [[rangoric-srd/spells/Dispel Magic|dispel magic]], [[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_ (DC 17); 2nd (7/day)—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 16), _[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]], [[rangoric-srd/spells/See Invisibility|see invisibility]], [[rangoric-srd/spells/Scorching Ray|scorching ray]]_; 1st (7/day)—_[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]], [[rangoric-srd/spells/Divine Favor|divine favor]], [[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]], [[rangoric-srd/spells/Mage Armor|mage armor]], [[rangoric-srd/spells/Magic Missile|magic missile]]_; 0 (at will)—_[[rangoric-srd/spells/Daze|daze]]_ (DC 14), _[[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Light|light]], [[rangoric-srd/spells/Mage Hand|mage hand]], [[rangoric-srd/spells/Open-Close|open/close]], [[rangoric-srd/spells/Ray of Frost|ray of frost]], [[rangoric-srd/spells/Read Magic|read magic]], [[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Guardian Naga Venom|Guardian Naga Venom]]: Bite—injury or spit—contact; *save* Fort DC 21; *frequency* 1/round for 6 rounds; *effect* 1d4 Con damage; *cure* 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Guardian Naga Venom|Guardian Naga Venom]]: Bite—injury or spit—contact; _save_ Fort DC 21; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Con damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
 
 **Spit (Ex)**: A guardian naga can spit its venom up to 30 feet as a standard action. This is a ranged touch attack with no range increment. Opponents hit by this attack must make successful saves (see above) to avoid the effect.

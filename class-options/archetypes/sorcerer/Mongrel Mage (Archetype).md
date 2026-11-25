@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Mongrel Mage
 
-*A [[rangoric-srd/classes/Sorcerer#^sorcerer-archetypes|sorcerer]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Sorcerer#^sorcerer-archetypes|sorcerer]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A mongrel mage is a sorcerer whose bloodline is so weak, or mixed with so many others, that her power isn't clearly associated with any bloodline source. A mongrel mage's bloodline powers can change on a daily basis, but always fall short of those of a full-blooded sorcerer's powers. A mongrel mage is a dabbler in all bloodlines but a master of none, and she is looked down upon by true sorcerers.
 

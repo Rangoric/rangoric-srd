@@ -35,26 +35,26 @@ tags: [rangoric, rangoric/monster]
 
 # Crocodile, Giant
 
-  - Huge Animal
-  - **Hit Dice**: 7d8+28 (59 hp)
-  - **Initiative**: +1
-  - **Speed**: 20 ft. (4 squares), swim 30 ft.
-  - **Armor Class**: 16 (–2 size, +1 Dex, +7 natural), touch 9, flat-footed 15
-  - **Base Attack**: +5; **CMB**: +15 (+19 grapple); **CMD**: 26 (30 vs. trip)
-  - **Attack**: Bite +11 melee (2d8+12) or tail slap +11 melee (1d12+12)
-  - **Full Attack**: Bite +11 melee (2d8+12) or tail slap +11 melee (1d12+12)
-  - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: Improved grab
-  - **Special Qualities**: Hold breath, low-light vision
-  - **Saves**: Fort +9, Ref +6, Will +3
-  - **Abilities**: Str 27, Dex 12, Con 19, Int 1, Wis 12, Cha 2
-  - **Skills**: Athletics +8 (+16 swimming), Perception +9, Stealth +4\*
-  - **Feats**: Endurance, Skill Focus (Perception), Skill Focus (Stealth)
-  - **Environment**: Warm marshes
-  - **Organization**: Solitary or colony (6–11)
-  - **Challenge Rating**: 4
-  - **Advancement**: 8–14 HD (Huge)
-  - **Level Adjustment**: —
+- Huge Animal
+- **Hit Dice**: 7d8+28 (59 hp)
+- **Initiative**: +1
+- **Speed**: 20 ft. (4 squares), swim 30 ft.
+- **Armor Class**: 16 (–2 size, +1 Dex, +7 natural), touch 9, flat-footed 15
+- **Base Attack**: +5; **CMB**: +15 (+19 grapple); **CMD**: 26 (30 vs. trip)
+- **Attack**: Bite +11 melee (2d8+12) or tail slap +11 melee (1d12+12)
+- **Full Attack**: Bite +11 melee (2d8+12) or tail slap +11 melee (1d12+12)
+- **Space/Reach**: 15 ft./10 ft.
+- **Special Attacks**: Improved grab
+- **Special Qualities**: Hold breath, low-light vision
+- **Saves**: Fort +9, Ref +6, Will +3
+- **Abilities**: Str 27, Dex 12, Con 19, Int 1, Wis 12, Cha 2
+- **Skills**: Athletics +8 (+16 swimming), Perception +9, Stealth +4\*
+- **Feats**: Endurance, Skill Focus (Perception), Skill Focus (Stealth)
+- **Environment**: Warm marshes
+- **Organization**: Solitary or colony (6–11)
+- **Challenge Rating**: 4
+- **Advancement**: 8–14 HD (Huge)
+- **Level Adjustment**: —
 
 These huge creatures usually live in salt water and can be more than 20 feet long.
 

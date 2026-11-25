@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/word-of-power]
 
 # Destructive Vibration
 
-*One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Sonic Words|Sonic group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]].*
+_One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Sonic Words|Sonic group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]]._
 
 **School** evocation \[sonic\]
 

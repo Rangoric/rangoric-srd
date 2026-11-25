@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Shipmate
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 1d8+1d10+2 (11 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 15 (+3 armor, +1 Dex, +1 dodge), touch 12, flat-footed 13
-  - **Base Attack**: +1; **CMB**: +2; **CMD**: 14
-  - **Attack**: [[rangoric-srd/equipment/weapons/Scimitar|Scimitar]] +2 melee (1d6+1/18–20) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +2 melee (1d4+1/19–20) or [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +2 ranged (1d8+1/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Scimitar|Scimitar]] +2 melee (1d6+1/18–20); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +2 melee (1d4+1/19–20); or [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +2 ranged (1d8+1/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: 
-  - **Saves**: Fort +3, Ref +1, Will +2
-  - **Abilities**: Str 13, Dex 13, Con 12, Int 8, Wis 10, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Craft|Craft]] (ships) +3, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Profession|Profession]] (fisherman) +4, [[rangoric-srd/skills/Profession|Profession]] (sailor) +8
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Profession \[sailor\])
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 1/2
-  - **Treasure**: NPC gear
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 1d8+1d10+2 (11 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 15 (+3 armor, +1 Dex, +1 dodge), touch 12, flat-footed 13
+- **Base Attack**: +1; **CMB**: +2; **CMD**: 14
+- **Attack**: [[rangoric-srd/equipment/weapons/Scimitar|Scimitar]] +2 melee (1d6+1/18–20) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +2 melee (1d4+1/19–20) or [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +2 ranged (1d8+1/×3)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Scimitar|Scimitar]] +2 melee (1d6+1/18–20); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +2 melee (1d4+1/19–20); or [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +2 ranged (1d8+1/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**:
+- **Saves**: Fort +3, Ref +1, Will +2
+- **Abilities**: Str 13, Dex 13, Con 12, Int 8, Wis 10, Cha 9
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Craft|Craft]] (ships) +3, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Profession|Profession]] (fisherman) +4, [[rangoric-srd/skills/Profession|Profession]] (sailor) +8
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Profession \[sailor\])
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 1/2
+- **Treasure**: NPC gear
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A shipmate is a [[rangoric-srd/monsters/human/Human|human]] with 1 level of [[rangoric-srd/classes/Expert|expert]] and 1 level of [[rangoric-srd/classes/Warrior|warrior]]. Shipmates are ordinary sailors, the rank-and-file deckhands who keep any vessel, great or small, afloat and moving. They are alert for danger and quick on their feet, weathered by wind and wave and sun, but always with an eye for what waits beyond the horizon.
 

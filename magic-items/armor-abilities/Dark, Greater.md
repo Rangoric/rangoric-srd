@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Dark, Greater
 
-Armors and shields that possess the *greater dark* enchantment, like those with the *dark* enchantment, are generally a dusky gray color, and are often adorned with strange inlays of dark scales, stones, feathers, or fur. Items enchanted with this enchantment allow the wearer (wielder) to cast *[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]* (centered on the armor or shield) three times per day. Further, the wearer (wielder) gains the ability to see in this (but no other) magical *deeper darkness* normally.
+Armors and shields that possess the _greater dark_ enchantment, like those with the _dark_ enchantment, are generally a dusky gray color, and are often adorned with strange inlays of dark scales, stones, feathers, or fur. Items enchanted with this enchantment allow the wearer (wielder) to cast _[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_ (centered on the armor or shield) three times per day. Further, the wearer (wielder) gains the ability to see in this (but no other) magical _deeper darkness_ normally.
 
-Moderate evocation [darkness]; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]*; Price +3 bonus.
+Moderate evocation [darkness]; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_; Price +3 bonus.

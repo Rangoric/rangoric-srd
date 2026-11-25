@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Improved Death Attack
 
-Prerequisites: Death attack class feature, sneak attack +5d6.  
+Prerequisites: Death attack class feature, sneak attack +5d6.
 
 Benefit: Add +2 to the DC of the character’s death attack.
 

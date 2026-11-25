@@ -23,15 +23,15 @@ tags: [rangoric, rangoric/spell]
 
 # Thought Shield IV
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Psy 5
-  - **Components**: V
-  - **Casting Time**: 1 immediate action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Psy 5
+- **Components**: V
+- **Casting Time**: 1 immediate action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-This functions as *[[rangoric-srd/spells/Thought Shield III|thought shield III]]*, but any creature that tries to read your thoughts while this spell lasts must succeed at a Will save or be stunned for 1d4 rounds. Additionally, if you succeed at your save against a *[[rangoric-srd/spells/Psychic Crush I|psychic crush]]* spell, you take no damage. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].
+This functions as _[[rangoric-srd/spells/Thought Shield III|thought shield III]]_, but any creature that tries to read your thoughts while this spell lasts must succeed at a Will save or be stunned for 1d4 rounds. Additionally, if you succeed at your save against a _[[rangoric-srd/spells/Psychic Crush I|psychic crush]]_ spell, you take no damage. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].

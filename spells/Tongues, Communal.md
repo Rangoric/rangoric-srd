@@ -34,15 +34,15 @@ tags: [rangoric, rangoric/spell]
 
 # Tongues, Communal
 
-*Divination*
+_Divination_
 
-  - **Level**: Alc 4, Brd 3, Clr 5, Mes 3, Psy 4, Skd 3, Sor/Wiz 4, Sum 4, SumU 4, Wit 4
-  - **Components**: V, M/DF (a clay model of a ziggurat)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creatures touched
-  - **Duration**: 10 min./level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: No
+- **Level**: Alc 4, Brd 3, Clr 5, Mes 3, Psy 4, Skd 3, Sor/Wiz 4, Sum 4, SumU 4, Wit 4
+- **Components**: V, M/DF (a clay model of a ziggurat)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creatures touched
+- **Duration**: 10 min./level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: No
 
-This spell functions like *[[rangoric-srd/spells/Tongues|tongues]]*, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 10-minute intervals among the creatures touched.
+This spell functions like _[[rangoric-srd/spells/Tongues|tongues]]_, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 10-minute intervals among the creatures touched.

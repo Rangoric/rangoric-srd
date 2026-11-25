@@ -40,16 +40,16 @@ tags: [rangoric, rangoric/spell]
 
 # Compel Hostility
 
-*Enchantment (Compulsion) \[Mind-affecting\]*
+_Enchantment (Compulsion) \[Mind-affecting\]_
 
-  - **Level**: Brd 1, Clr 1, Hun 1, Inq 1, Med 1, Mes 1, Pal 1, Psy 1, Rgr 1, Skd 1, Sum 1, SumU 1, Wit 1
-  - **Components**: V, S, M (a drop of your blood)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level
-  - **Saving Throw**: See text
-  - **Spell Resistance**: See text
+- **Level**: Brd 1, Clr 1, Hun 1, Inq 1, Med 1, Mes 1, Pal 1, Psy 1, Rgr 1, Skd 1, Sum 1, SumU 1, Wit 1
+- **Components**: V, S, M (a drop of your blood)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level
+- **Saving Throw**: See text
+- **Spell Resistance**: See text
 
 Whenever a creature you can see that threatens you makes an attack against one of your allies, as an immediate action, you can compel that creature to attack you instead. When you compel a creature to attack you, you must first overcome that creature's spell resistance, and the creature can attempt a Will saving throw to ignore the compulsion.
 

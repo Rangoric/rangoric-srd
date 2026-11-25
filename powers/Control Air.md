@@ -31,7 +31,7 @@ Area: 50-ft.-radius spread
 Duration: Concentration, up to 1 min./level  
 Saving Throw: None  
 Power Resistance: No  
-Power Points: 3  
+Power Points: 3
 
 You have some control over wind speed and direction. The speed of the wind within the area of this power can be increased or decreased by up to 10 miles per hour.
 

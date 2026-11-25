@@ -27,7 +27,7 @@ Manifesting Time: 1 standard action
 Range: Personal  
 Target: You  
 Duration: 1 round/level  
-Power Points: 5  
+Power Points: 5
 
 If you have a claw attack (either from an actual natural weapon or from an effect such as [[rangoric-srd/powers/Claws of the Beast|claws of the beast]]), you can use this power to change the nature of that weapon. When this power is manifested, your claws take on an ominous glimmer. Each time you make a successful claw attack against a living creature of Small or larger size, you are healed of some amount of damage.
 

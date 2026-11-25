@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Guarded Life, Greater
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 When using the guarded life rage power, 1 additional hit point of lethal damage per barbarian level is converted to nonlethal damage.
 

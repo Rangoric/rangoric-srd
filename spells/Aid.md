@@ -34,15 +34,15 @@ tags: [rangoric, rangoric/spell]
 
 # Aid
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Alc 2, Clr 2, Good 2, Inq 2, Luck 2, Med 2, Sha 2, Spi 2
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Living creature touched
-  - **Duration**: 1 min./level
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Alc 2, Clr 2, Good 2, Inq 2, Luck 2, Med 2, Sha 2, Spi 2
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Living creature touched
+- **Duration**: 1 min./level
+- **Saving Throw**: None
+- **Spell Resistance**: Yes (harmless)
 
 Aid grants the target a +1 morale bonus on attack rolls and saves against fear effects, plus temporary hit points equal to 1d8 + caster level (to a maximum of 1d8+10 temporary hit points at caster level 10th).

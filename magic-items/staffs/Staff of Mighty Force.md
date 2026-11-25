@@ -17,10 +17,10 @@ tags: [rangoric, rangoric/magic-item, epic]
 
 # Staff of Mighty Force
 
-This staff has three powers.  
+This staff has three powers.
 
-  - Shield (quickened, 1 charge, may be activated once per round)
-  - Forcecage (1 charge)
-  - Crushing hand (1 charge)  
+- Shield (quickened, 1 charge, may be activated once per round)
+- Forcecage (1 charge)
+- Crushing hand (1 charge)
 
 Caster Level: 21st; Prerequisites: Craft Staff, Craft Epic Staff, Quicken Spell, crushing hand, forcecage, shield; Market Price: 265,000 gp.

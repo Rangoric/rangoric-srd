@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/weapon]
 
 # 3-Bolt Clip
 
-*Ammunition (3).* Cost 5 sp; Weight 1 lb. ^stats
+_Ammunition (3)._ Cost 5 sp; Weight 1 lb. ^stats

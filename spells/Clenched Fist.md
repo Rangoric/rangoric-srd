@@ -23,10 +23,10 @@ tags: [rangoric, rangoric/spell]
 
 # Clenched Fist
 
-*Evocation \[Force\]*
+_Evocation \[Force\]_
 
-  - **Level**: Psy 8, Sor/Wiz 8, Strength 8
-  - **Components**: V, S, F/DF
+- **Level**: Psy 8, Sor/Wiz 8, Strength 8
+- **Components**: V, S, F/DF
 
 This spell functions like [[rangoric-srd/spells/Interposing Hand|interposing hand]], except that the hand can interpose itself, push, or strike one opponent that you select. The floating hand can move as far as 60 feet and can attack in the same round. Since this hand is directed by you, its ability to notice or attack [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] or concealed creatures is no better than yours.
 
@@ -36,4 +36,4 @@ The clenched fist can also interpose itself as interposing hand does, or it can 
 
 Clerics who cast this spell name it for their deities.
 
-*Arcane Focus*: A leather glove.
+_Arcane Focus_: A leather glove.

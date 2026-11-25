@@ -63,7 +63,7 @@ Organization: Solitary, pair, or madness (3-6)    
 Challenge Rating: 27      
 Treasure: Standard      
 Alignment: Usually neutral evil      
-Advancement: As character class      
+Advancement: As character class    
 
 Uvuudaums can speak telepathically to any creature within 500 feet that has a language.
 
@@ -75,12 +75,12 @@ Confusion Aura (Su): This ability operates continuously, as the [[rangoric-srd/s
 
 Wisdom Drain (Su): This effect permanently reduces a living opponent’s Wisdom score by 2d4 points when the creature hits with its head spike, or twice that amount on a critical hit. The creature regains 5 lost hit points (or 10 on a critical hit ) whenever it [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drains]] Wisdom, gaining any excess hit points as temporary hit points. Thesse temporary hit points last a maximum of 1 hour. An opponent can avoid the Wisdom drain with a Fortitude save (DC 47). The save DC is Charisma-based.
 
-Spell-Like Abilities: Caster level 27th; save DC 28 + spell level. The save DCs are Charisma-based.  
+Spell-Like Abilities: Caster level 27th; save DC 28 + spell level. The save DCs are Charisma-based.
 
-At will - [[rangoric-srd/spells/Confusion|confusion]], [[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Displacement|displacement]], [[rangoric-srd/spells/Haste|haste]], [[rangoric-srd/spells/Invisibility|invisibility]], [[rangoric-srd/spells/Lightning Bolt|lightning bolt]], [[rangoric-srd/spells/Magic Missile|magic missile]], [[rangoric-srd/spells/Mage Armor|mage armor]], [[rangoric-srd/spells/Polymorph|polymorph]], [[rangoric-srd/spells/Shield|shield]], [[rangoric-srd/spells/Stoneskin|stoneskin]], [[rangoric-srd/spells/True Strike|true strike]], [[rangoric-srd/spells/Web|web]];  
+At will - [[rangoric-srd/spells/Confusion|confusion]], [[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Displacement|displacement]], [[rangoric-srd/spells/Haste|haste]], [[rangoric-srd/spells/Invisibility|invisibility]], [[rangoric-srd/spells/Lightning Bolt|lightning bolt]], [[rangoric-srd/spells/Magic Missile|magic missile]], [[rangoric-srd/spells/Mage Armor|mage armor]], [[rangoric-srd/spells/Polymorph|polymorph]], [[rangoric-srd/spells/Shield|shield]], [[rangoric-srd/spells/Stoneskin|stoneskin]], [[rangoric-srd/spells/True Strike|true strike]], [[rangoric-srd/spells/Web|web]];
 
-3/day - [[rangoric-srd/spells/Chain Lightning|chain lightning]], [[rangoric-srd/spells/Cone of Cold|cone of cold]], [[rangoric-srd/spells/Disintegrate|disintegrate]], [[rangoric-srd/spells/Dominate Person|dominate person]], [[rangoric-srd/spells/Plane Shift|plane shift]], [[rangoric-srd/spells/Prismatic Spray|prismatic spray]], [[rangoric-srd/spells/Scrying|scrying]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]], [[rangoric-srd/spells/Wall of Force|wall of force]];  
+3/day - [[rangoric-srd/spells/Chain Lightning|chain lightning]], [[rangoric-srd/spells/Cone of Cold|cone of cold]], [[rangoric-srd/spells/Disintegrate|disintegrate]], [[rangoric-srd/spells/Dominate Person|dominate person]], [[rangoric-srd/spells/Plane Shift|plane shift]], [[rangoric-srd/spells/Prismatic Spray|prismatic spray]], [[rangoric-srd/spells/Scrying|scrying]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]], [[rangoric-srd/spells/Wall of Force|wall of force]];
 
-1/day - [[rangoric-srd/spells/Contingent Resurrection|contingent resurrection]], [[rangoric-srd/spells/Nailed to the Sky|nailed to the sky]], [[rangoric-srd/spells/Time Duplicate|time duplicate]] (epic spells), [[rangoric-srd/spells/Time Stop|time stop]].  
+1/day - [[rangoric-srd/spells/Contingent Resurrection|contingent resurrection]], [[rangoric-srd/spells/Nailed to the Sky|nailed to the sky]], [[rangoric-srd/spells/Time Duplicate|time duplicate]] (epic spells), [[rangoric-srd/spells/Time Stop|time stop]].
 
 Regeneration (Ex): Uvuudaums take normal damage from holy weapons, cold, and fire.

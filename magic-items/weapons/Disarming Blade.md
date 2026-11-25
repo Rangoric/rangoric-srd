@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Disarming Blade
 
-This *+1 dueling rapier* ends duels quickly and decisively by depriving the wielder's opponent of her weapon. Following a successful [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] attempt with the weapon, the wielder can move the disarmed weapon 5 feet in any direction as a swift action.
+This _+1 dueling rapier_ ends duels quickly and decisively by depriving the wielder's opponent of her weapon. Following a successful [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] attempt with the weapon, the wielder can move the disarmed weapon 5 feet in any direction as a swift action.
 
-Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Cat’s Grace|cat’s grace]]*, *[[rangoric-srd/spells/Mage Hand|mage hand]]*; Price 17,820 gp; Cost 9,070 gp.
+Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Cat’s Grace|cat’s grace]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_; Price 17,820 gp; Cost 9,070 gp.

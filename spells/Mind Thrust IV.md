@@ -23,15 +23,15 @@ tags: [rangoric, rangoric/spell]
 
 # Mind Thrust IV
 
-*Divination*
+_Divination_
 
-  - **Level**: Psy 4
-  - **Components**: S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will half
-  - **Spell Resistance**: Yes
+- **Level**: Psy 4
+- **Components**: S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: Instantaneous
+- **Saving Throw**: Will half
+- **Spell Resistance**: Yes
 
-This functions as *[[rangoric-srd/spells/Mind Thrust I|mind thrust I]]*, but the target takes 1d8 points of damage per caster level (maximum 15d8) and is fatigued for 1 round if it fails its save. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].
+This functions as _[[rangoric-srd/spells/Mind Thrust I|mind thrust I]]_, but the target takes 1d8 points of damage per caster level (maximum 15d8) and is fatigued for 1 round if it fails its save. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].

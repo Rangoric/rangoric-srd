@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Shaken
 
-*A [[rangoric-srd/classes/Antipaladin#^antipaladin-cruelty|cruelty]], available from 3rd level.*
+_A [[rangoric-srd/classes/Antipaladin#^antipaladin-cruelty|cruelty]], available from 3rd level._
 
 The target is [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round per level of the antipaladin.

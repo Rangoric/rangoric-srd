@@ -31,6 +31,6 @@ Clairsentience
 **Duration:** 1 min./level  
 **Saving Throw:** Will negates (harmless)  
 **Power Resistance:** Yes (harmless)  
-**Power Points:** 9  
+**Power Points:** 9
 
 The creature gains power resistance equal to 12 + your manifester level.

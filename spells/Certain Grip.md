@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Certain Grip
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 2, Blr 2, Drd 2, Hun 2, Occ 2, Sor/Wiz 2
-  - **Components**: V, S, M/DF (a tiny ball of tar)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 10 minutes/level (D)
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Alc 2, Blr 2, Drd 2, Hun 2, Occ 2, Sor/Wiz 2
+- **Components**: V, S, M/DF (a tiny ball of tar)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 10 minutes/level (D)
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 The subject's grip and footing become sure, granting a +4 competence bonus on Athletics checks, on Acrobatics checks to balance, and to CMD against bull rush, drag, reposition, and trip attempts. While affected by this spell, the target is also immune to the disarm combat maneuver.

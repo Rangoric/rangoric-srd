@@ -34,7 +34,7 @@ Telepathy (Compulsion) \[Mind-Affecting\]
 **Duration:** Concentration, up to 1 round/level; see text  
 **Saving Throw:** Will negates  
 **Power Resistance:** Yes  
-**Power Points:** 7  
+**Power Points:** 7
 
 Your brow erupts with an arc of crackling dark energy that connects with your foe, draining it of 1d6 power points and adding 1 of those points to your reserve (unless that gain would cause you to exceed your maximum).
 

@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Hamadryad
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
-  - **Hit Dice**: 20d6+120 (190 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 29 (+6 Dex, +1 dodge, +12 natural), touch 17, flat-footed 22
-  - **Base Attack**: +10; **CMB**: +11; **CMD**: 28
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +16 melee (1d4+5/19–20) or +2 speed composite longbow +18 ranged (1d8+7/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +16/+11 melee (1d4+5/19–20); or +2 speed composite longbow +18/+18/+13 ranged (1d8+7/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Druid Magic|druid magic]], [[rangoric-srd/monsters/abilities/Tree Meld|tree meld]], wild empathy, [[rangoric-srd/monsters/abilities/Woodcraft|woodcraft]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 30, cold 30 and electricity 30
-  - **Saves**: Fort +12, Ref +18, Will +18
-  - **Abilities**: Str 12, Dex 23, Con 23, Int 18, Wis 19, Cha 22
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +16, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Craft|Craft]] (wood) +12, [[rangoric-srd/skills/Deception|Deception]] +29, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +17, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Medicine|Medicine]] +9, [[rangoric-srd/skills/Mysticism|Mysticism]] +14, [[rangoric-srd/skills/Nature|Nature]] +27, [[rangoric-srd/skills/Perception|Perception]] +33, Perform (any one) +19, [[rangoric-srd/skills/Persuasion|Persuasion]] +29, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Society|Society]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +20
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Stealth)
-  - **Environment**: Temperate forests
-  - **Organization**: Retinue (1 plus 2–5 dryads) or court (1 plus 2–12 centaurs, 2–12 dryads, 2–8 satyrs, and 1–2 treants)
-  - **Challenge Rating**: 15
-  - **Treasure**: Triple (+2 speed composite longbow [+5] with 20 arrows, masterwork dagger, other treasure)
-  - **Alignment**: Usually chaotic good
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
+- **Hit Dice**: 20d6+120 (190 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 29 (+6 Dex, +1 dodge, +12 natural), touch 17, flat-footed 22
+- **Base Attack**: +10; **CMB**: +11; **CMD**: 28
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +16 melee (1d4+5/19–20) or +2 speed composite longbow +18 ranged (1d8+7/×3)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +16/+11 melee (1d4+5/19–20); or +2 speed composite longbow +18/+18/+13 ranged (1d8+7/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Druid Magic|druid magic]], [[rangoric-srd/monsters/abilities/Tree Meld|tree meld]], wild empathy, [[rangoric-srd/monsters/abilities/Woodcraft|woodcraft]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 30, cold 30 and electricity 30
+- **Saves**: Fort +12, Ref +18, Will +18
+- **Abilities**: Str 12, Dex 23, Con 23, Int 18, Wis 19, Cha 22
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +16, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Craft|Craft]] (wood) +12, [[rangoric-srd/skills/Deception|Deception]] +29, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +17, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Medicine|Medicine]] +9, [[rangoric-srd/skills/Mysticism|Mysticism]] +14, [[rangoric-srd/skills/Nature|Nature]] +27, [[rangoric-srd/skills/Perception|Perception]] +33, Perform (any one) +19, [[rangoric-srd/skills/Persuasion|Persuasion]] +29, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Society|Society]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +20
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Stealth)
+- **Environment**: Temperate forests
+- **Organization**: Retinue (1 plus 2–5 dryads) or court (1 plus 2–12 centaurs, 2–12 dryads, 2–8 satyrs, and 1–2 treants)
+- **Challenge Rating**: 15
+- **Treasure**: Triple (+2 speed composite longbow [+5] with 20 arrows, masterwork dagger, other treasure)
+- **Alignment**: Usually chaotic good
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A hamadryad is the queen of her forest and the leader of all the [[rangoric-srd/monsters/nymph/Dryad|dryads]] within it. Much as a dryad is bonded with one tree and is devoted to it, a hamadryad loves her chosen forest; while she does not sicken and die if separated from it, she loathes such separation. All nonevil woodland creatures acknowledge her as the wisest of dryads and respect her gifts of healing and diplomacy. In most forests, a hamadryad is the sister or wife of an erlking, and represents the protective, patient, and nurturing aspect of nature. With her healing magic, she can relieve the suffering of a dryad whose tree has been killed and sustain her long enough for her to bond with another tree.
 
@@ -68,7 +68,7 @@ A hamadryad prefers to avoid direct confrontations, instead using her magic and 
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +26): Constant—*[[rangoric-srd/spells/Speak with Animals|speak with animals]]*, *[[rangoric-srd/spells/Speak with Plants|speak with plants]]*; At will—*[[rangoric-srd/spells/Entangle|entangle]]* (DC 17), *[[rangoric-srd/spells/Hold Animal|hold animal]]* (DC 18), *[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]*, *[[rangoric-srd/spells/Tree Shape|tree shape]]*, *[[rangoric-srd/spells/Wood Shape|wood shape]]* (10 lbs. only); 5/day—*[[rangoric-srd/spells/Charm Monster|charm monster]]* (DC 20), *[[rangoric-srd/spells/Charm Person|charm person]]* (DC 17), *[[rangoric-srd/spells/Confusion|confusion]]* (DC 19), *[[rangoric-srd/spells/Deep Slumber|deep slumber]]*(DC 19), *[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]*, *[[rangoric-srd/spells/Sending|sending]]* (dryads only), *[[rangoric-srd/spells/Suggestion|suggestion]]* (DC 19), *[[rangoric-srd/spells/Tree Stride|tree stride]]*; 1/day—*[[rangoric-srd/spells/Call Lightning Storm|call lightning storm]]* (DC 21), *[[rangoric-srd/spells/Changestaff|changestaff]]*, *[[rangoric-srd/spells/Heroism, Greater|greater heroism]]*, *[[rangoric-srd/spells/Heal (Spell)|heal]]*, *[[rangoric-srd/spells/Liveoak|liveoak]]*, *[[rangoric-srd/spells/Summon Nature’s Ally VIII|summon nature's ally VIII]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +26): Constant—_[[rangoric-srd/spells/Speak with Animals|speak with animals]]_, _[[rangoric-srd/spells/Speak with Plants|speak with plants]]_; At will—_[[rangoric-srd/spells/Entangle|entangle]]_ (DC 17), _[[rangoric-srd/spells/Hold Animal|hold animal]]_ (DC 18), _[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]_, _[[rangoric-srd/spells/Tree Shape|tree shape]]_, _[[rangoric-srd/spells/Wood Shape|wood shape]]_ (10 lbs. only); 5/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 20), _[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 17), _[[rangoric-srd/spells/Confusion|confusion]]_ (DC 19), _[[rangoric-srd/spells/Deep Slumber|deep slumber]]_(DC 19), _[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]_, _[[rangoric-srd/spells/Sending|sending]]_ (dryads only), _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 19), _[[rangoric-srd/spells/Tree Stride|tree stride]]_; 1/day—_[[rangoric-srd/spells/Call Lightning Storm|call lightning storm]]_ (DC 21), _[[rangoric-srd/spells/Changestaff|changestaff]]_, _[[rangoric-srd/spells/Heroism, Greater|greater heroism]]_, _[[rangoric-srd/spells/Heal (Spell)|heal]]_, _[[rangoric-srd/spells/Liveoak|liveoak]]_, _[[rangoric-srd/spells/Summon Nature’s Ally VIII|summon nature's ally VIII]]_.
 
 **[[rangoric-srd/monsters/abilities/Druid Magic|Druid Magic]] (Su)**: A hamadryad can use any magic item as if she were a 20th-level druid.
 

@@ -26,16 +26,16 @@ tags: [rangoric, rangoric/spell]
 
 # Transmogrify
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Sum 4, SumU 4
-  - **Components**: V, S, M (a flask of quicksilver worth 1,000 gp)
-  - **Casting Time**: 1 hour
-  - **Range**: Touch
-  - **Target**: Your eidolon
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: No
+- **Level**: Sum 4, SumU 4
+- **Components**: V, S, M (a flask of quicksilver worth 1,000 gp)
+- **Casting Time**: 1 hour
+- **Range**: Touch
+- **Target**: Your eidolon
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: No
 
 Your eidolon's form shifts and transforms. This spell allows you to change any of the eidolon's evolutions by allocating its evolution pool on new evolutions. If you have the aspect or greater aspect ability, this spell also allows you to change the evolution points spent to modify you, including removing or adding points as allowed by those abilities.
 

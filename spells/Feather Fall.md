@@ -31,20 +31,20 @@ tags: [rangoric, rangoric/spell]
 
 # Feather Fall
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Blr 1, Brd 1, Mag 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1, Spi 1, Sum 1, SumU 1
-  - **Components**: V
-  - **Casting Time**: 1 free action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Targets**: One Medium or smaller freefalling object or creature/level, no two of which may be more than 20 ft. apart
-  - **Duration**: Until landing or 1 round/level
-  - **Saving Throw**: Will negates (harmless) or Will negates (object)
-  - **Spell Resistance**: Yes (object)
+- **Level**: Blr 1, Brd 1, Mag 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1, Spi 1, Sum 1, SumU 1
+- **Components**: V
+- **Casting Time**: 1 free action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Targets**: One Medium or smaller freefalling object or creature/level, no two of which may be more than 20 ft. apart
+- **Duration**: Until landing or 1 round/level
+- **Saving Throw**: Will negates (harmless) or Will negates (object)
+- **Spell Resistance**: Yes (object)
 
 The affected creatures or objects fall slowly. Feather fall instantly changes the rate at which the targets fall to a mere 60 feet per round (equivalent to the end of a fall from a few feet), and the subjects take no damage upon landing while the spell is in effect. However, when the spell duration expires, a normal rate of falling resumes.
 
-*The spell affects one or more Medium or smaller creatures (including gear and carried objects up to each creature’s maximum load) or objects, or the equivalent in larger creatures*: A Large creature or object counts as two Medium creatures or objects, a Huge creature or object counts as two Large creatures or objects, and so forth.
+_The spell affects one or more Medium or smaller creatures (including gear and carried objects up to each creature’s maximum load) or objects, or the equivalent in larger creatures_: A Large creature or object counts as two Medium creatures or objects, a Huge creature or object counts as two Large creatures or objects, and so forth.
 
 You can cast this spell with an instant utterance, quickly enough to save yourself if you unexpectedly fall. Casting the spell is a free action, like casting a quickened spell, and it counts toward the normal limit of one quickened spell per round. You may even cast this spell when it isn’t your turn.
 

@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Lockblight Acid
 
-*Chymical; Special*
+_Chymical; Special_
 
 The acid within this tiny leathern vial interacts violently with oil-coated metals, like the oils within a lock that keep its mechanisms moving. It is squeezed quickly into a metal lock and reacts with said oils by crystallizing the metals and effectively causing the metal lock to crumble to dust.
 

@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Spider, Giant
 
-*An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature ([[rangoric-srd/monsters/monstrous-spider/Monstrous Spider|monstrous spider]]).*
+_An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature ([[rangoric-srd/monsters/monstrous-spider/Monstrous Spider|monstrous spider]])._
 
 - **Size**: Small
 - **Speed**: 30 ft., climb 30 ft.

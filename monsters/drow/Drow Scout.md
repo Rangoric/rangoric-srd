@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Drow Scout
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf)
-  - **Hit Dice**: 2d8+4 (16 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 16 (+3 armor, +3 Dex), touch 13, flat-footed 13
-  - **Base Attack**: +1; **CMB**: +2; **CMD**: 15
-  - **Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +4 melee (1d6+1/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +6 ranged (1d6/×3 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +4 melee (1d6+1/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +6 ranged (1d6/×3 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6, [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/races/racial-traits/Poison Use|poison use]], [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 8, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]], [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]]
-  - **Saves**: Fort +1, Ref +6, Will +1 (+2 vs. enchantment)
-  - **Abilities**: Str 13, Dex 17, Con 12, Int 10, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +5, [[rangoric-srd/skills/Engineering|Engineering]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +8
-  - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (shortbow)
-  - **Environment**: Underground
-  - **Organization**: Solitary, or with other drow (see [[rangoric-srd/monsters/drow/Drow, 1st-Level Warrior|Drow, 1st-Level Warrior]])
-  - **Challenge Rating**: 1
-  - **Treasure**: NPC gear (combat gear: potion of cure light wounds, drow poison (2), tanglefoot bag; other gear: masterwork studded leather, masterwork shortbow and 20 arrows, short sword, 14 gp)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf)
+- **Hit Dice**: 2d8+4 (16 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 16 (+3 armor, +3 Dex), touch 13, flat-footed 13
+- **Base Attack**: +1; **CMB**: +2; **CMD**: 15
+- **Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +4 melee (1d6+1/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +6 ranged (1d6/×3 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +4 melee (1d6+1/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +6 ranged (1d6/×3 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6, [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/races/racial-traits/Poison Use|poison use]], [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 8, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]], [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]]
+- **Saves**: Fort +1, Ref +6, Will +1 (+2 vs. enchantment)
+- **Abilities**: Str 13, Dex 17, Con 12, Int 10, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +5, [[rangoric-srd/skills/Engineering|Engineering]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +8
+- **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (shortbow)
+- **Environment**: Underground
+- **Organization**: Solitary, or with other drow (see [[rangoric-srd/monsters/drow/Drow, 1st-Level Warrior|Drow, 1st-Level Warrior]])
+- **Challenge Rating**: 1
+- **Treasure**: NPC gear (combat gear: potion of cure light wounds, drow poison (2), tanglefoot bag; other gear: masterwork studded leather, masterwork shortbow and 20 arrows, short sword, 14 gp)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A drow scout is a [[rangoric-srd/monsters/drow/Drow, 1st-Level Warrior|drow]] with 2 levels of [[rangoric-srd/classes/Rogue|rogue]], one of the drow scouts. Scouts are cunning and resourceful, but still must prove themselves to higher-ranked drow before being considered anything but expendable.
 
@@ -71,4 +71,4 @@ A drow scout speaks Elven and Undercommon.
 
 A drow scout’s poisoned weapons carry [[rangoric-srd/rules/afflictions/Drow Poison|drow poison]] (Fortitude DC 13).
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 2nd, concentration +2): 1/day—*[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Darkness|darkness]]*, *[[rangoric-srd/spells/Faerie Fire|faerie fire]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 2nd, concentration +2): 1/day—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Darkness|darkness]]_, _[[rangoric-srd/spells/Faerie Fire|faerie fire]]_.

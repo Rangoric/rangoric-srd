@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Living Topiary
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 5d8+20 (42 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 16 (+2 Dex, +4 natural), touch 12, flat-footed 14
-  - **Base Attack**: +3; **CMB**: +6; **CMD**: 18 (22 vs. trip)
-  - **Attack**: Slam +6 melee (1d6+4)
-  - **Full Attack**: 2 slams +6 melee (1d6+4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Assimilate|assimilate]], [[rangoric-srd/monsters/abilities/Move through Hedges|move through hedges]], [[rangoric-srd/monsters/abilities/Sculpt Shape|sculpt shape]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], vulnerable to fire
-  - **Saves**: Fort +10, Ref +3, Will +1
-  - **Abilities**: Str 17, Dex 14, Con 19, Int 6, Wis 10, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +9 (+15 in undergrowth)
-  - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Any land
-  - **Organization**: Solitary, garden (2–4), or boscage (5–7)
-  - **Challenge Rating**: 4
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 5d8+20 (42 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 16 (+2 Dex, +4 natural), touch 12, flat-footed 14
+- **Base Attack**: +3; **CMB**: +6; **CMD**: 18 (22 vs. trip)
+- **Attack**: Slam +6 melee (1d6+4)
+- **Full Attack**: 2 slams +6 melee (1d6+4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Assimilate|assimilate]], [[rangoric-srd/monsters/abilities/Move through Hedges|move through hedges]], [[rangoric-srd/monsters/abilities/Sculpt Shape|sculpt shape]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], vulnerable to fire
+- **Saves**: Fort +10, Ref +3, Will +1
+- **Abilities**: Str 17, Dex 14, Con 19, Int 6, Wis 10, Cha 9
+- **Skills**: [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +9 (+15 in undergrowth)
+- **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Any land
+- **Organization**: Solitary, garden (2–4), or boscage (5–7)
+- **Challenge Rating**: 4
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Part plant and part beast, living topiaries are moving flora that look like decorative lawn ornaments used to adorn gardens and groves, though their bestial nature and aloof demeanor prove they are far from mere decorations.
 

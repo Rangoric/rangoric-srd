@@ -18,11 +18,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Icewalker
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Water Element|water]]
-  - **Type**: utility (Su)
-  - **Level**: 1
-  - **Burn**: —
+- **Element**: [[rangoric-srd/class-options/elements/Water Element|water]]
+- **Type**: utility (Su)
+- **Level**: 1
+- **Burn**: —
 
 You can move across wet and icy surfaces without needing to attempt [[rangoric-srd/skills/Acrobatics|Acrobatics]] checks due to slipperiness, including across areas under the effects of the [[rangoric-srd/class-options/wild-talents/Slick (Wild Talent)|slick]] wild talent. Additionally, you are immune to seasickness.

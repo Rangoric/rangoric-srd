@@ -37,16 +37,16 @@ tags: [rangoric, rangoric/spell]
 
 # Protection from Evil
 
-*Abjuration \[Good\]*
+_Abjuration \[Good\]_
 
-  - **Level**: Blr 1, Clr 1, Good 1, Inq 1, Med 1, Msl 1, Pal 1, Sha 1, Sor/Wiz 1, Spi 1, Sum 1, SumU 1
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 min./level (D)
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: No; see text
+- **Level**: Blr 1, Clr 1, Good 1, Inq 1, Med 1, Msl 1, Pal 1, Sha 1, Sor/Wiz 1, Spi 1, Sum 1, SumU 1
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 min./level (D)
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: No; see text
 
 This spell wards a creature from attacks by evil creatures, from mental control, and from summoned creatures. It creates a magical barrier around the subject at a distance of 1 foot. The barrier moves with the subject and has three major effects.
 
@@ -56,4 +56,4 @@ Second, the barrier blocks any attempt to possess the warded creature (by a magi
 
 Third, the spell prevents bodily contact by summoned creatures. This causes the natural weapon attacks of such creatures to fail and the creatures to recoil if such attacks require touching the warded creature. Good summoned creatures are immune to this effect. The protection against contact by summoned creatures ends if the warded creature makes an attack against or tries to force the barrier against the blocked creature. Spell resistance can allow a creature to overcome this protection and touch the warded creature.
 
-*Arcane Material Component*: A little powdered silver with which you trace a 3-foot -diameter circle on the floor (or ground) around the creature to be warded.
+_Arcane Material Component_: A little powdered silver with which you trace a 3-foot -diameter circle on the floor (or ground) around the creature to be warded.

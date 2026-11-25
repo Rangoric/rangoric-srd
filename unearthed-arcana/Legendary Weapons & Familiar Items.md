@@ -76,18 +76,18 @@ A legendary weapon begins its existence as a +1 weapon with no other special pow
 
 **Table: Legendary Weapon Tiers**
 
-| Tier | Prerequisite | Weapon Bonus | Weapon Quality | Special |
-| --- | --- | --- | --- | --- |
-| I | Base attack bonus +3, [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (the specific weapon) | +1 | +1 | — |
-| II | Base attack bonus +5, [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]] | +2 | +2 | Bonus feat |
-| III | Base attack bonus +7 | +3 | +3 | Weapon gains sentience and becomes [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Items\|intelligent]]; empathic |
-| IV | Base attack bonus +9, [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (the specific weapon) | +4 | +4 | Weapon gains a [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Special Purpose Items\|special purpose]]; capable of speech |
-| V | Base attack bonus +12, [[rangoric-srd/feats/Combat Expertise\|Combat Expertise]] | +5 | +5 | Weapon gains a [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Dedicated Power\|dedicated power]]; capable of telepathic communication and reading languages; bonus feat |
-| VI | Base attack bonus +15, [[rangoric-srd/feats/Power Attack\|Power Attack]] or [[rangoric-srd/feats/Point Blank Shot\|Point Blank Shot]] (weapon appropriate) | +6 | +6 | Weapon gains two [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers\|lesser powers]] for intelligent items and the ability to *read magic* at will |
-| VII | Base attack bonus +18, [[rangoric-srd/feats/Blind-Fight\|Blind-Fight]] or [[rangoric-srd/feats/Improved Disarm\|Improved Disarm]] | +7 | +7 | Weapon gains one [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers\|lesser power]] and one [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers\|greater power]] for intelligent items |
-| VIII | Base attack bonus +21, [[rangoric-srd/feats/Precise Shot\|Precise Shot]], [[rangoric-srd/feats/Rapid Shot\|Rapid Shot]], or [[rangoric-srd/feats/Cleave\|Cleave]] (weapon appropriate) | +8 | +8 | Weapon gains two [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers\|greater powers]] for intelligent items; bonus feat |
-| IX | Base attack bonus +24, [[rangoric-srd/feats/Combat Reflexes\|Combat Reflexes]] | +9 | +9 | Weapon gains one [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers\|lesser power]] and one [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers\|greater power]] for intelligent items |
-| X | Base attack bonus +27, [[rangoric-srd/feats/Improved Precise Shot\|Improved Precise Shot]], [[rangoric-srd/feats/Manyshot\|Manyshot]], or [[rangoric-srd/feats/Great Cleave\|Great Cleave]] (weapon appropriate) | +10 | +10 | Weapon gains two [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers\|greater powers]] |
+| Tier | Prerequisite                                                                                                                                                                                                     | Weapon Bonus | Weapon Quality | Special                                                                                                                                                                                                                                                                   |
+| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| I    | Base attack bonus +3, [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (the specific weapon)                                                                                                                    | +1           | +1             | —                                                                                                                                                                                                                                                                         |
+| II   | Base attack bonus +5, [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]]                                                                                                                            | +2           | +2             | Bonus feat                                                                                                                                                                                                                                                                |
+| III  | Base attack bonus +7                                                                                                                                                                                             | +3           | +3             | Weapon gains sentience and becomes [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Items\|intelligent]]; empathic                                                                                                                        |
+| IV   | Base attack bonus +9, [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (the specific weapon)                                                                                                          | +4           | +4             | Weapon gains a [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Special Purpose Items\|special purpose]]; capable of speech                                                                                                                           |
+| V    | Base attack bonus +12, [[rangoric-srd/feats/Combat Expertise\|Combat Expertise]]                                                                                                                                 | +5           | +5             | Weapon gains a [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Dedicated Power\|dedicated power]]; capable of telepathic communication and reading languages; bonus feat                                                                             |
+| VI   | Base attack bonus +15, [[rangoric-srd/feats/Power Attack\|Power Attack]] or [[rangoric-srd/feats/Point Blank Shot\|Point Blank Shot]] (weapon appropriate)                                                       | +6           | +6             | Weapon gains two [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers\|lesser powers]] for intelligent items and the ability to _read magic_ at will                                                                              |
+| VII  | Base attack bonus +18, [[rangoric-srd/feats/Blind-Fight\|Blind-Fight]] or [[rangoric-srd/feats/Improved Disarm\|Improved Disarm]]                                                                                | +7           | +7             | Weapon gains one [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers\|lesser power]] and one [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers\|greater power]] for intelligent items |
+| VIII | Base attack bonus +21, [[rangoric-srd/feats/Precise Shot\|Precise Shot]], [[rangoric-srd/feats/Rapid Shot\|Rapid Shot]], or [[rangoric-srd/feats/Cleave\|Cleave]] (weapon appropriate)                           | +8           | +8             | Weapon gains two [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers\|greater powers]] for intelligent items; bonus feat                                                                                                         |
+| IX   | Base attack bonus +24, [[rangoric-srd/feats/Combat Reflexes\|Combat Reflexes]]                                                                                                                                   | +9           | +9             | Weapon gains one [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers\|lesser power]] and one [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers\|greater power]] for intelligent items |
+| X    | Base attack bonus +27, [[rangoric-srd/feats/Improved Precise Shot\|Improved Precise Shot]], [[rangoric-srd/feats/Manyshot\|Manyshot]], or [[rangoric-srd/feats/Great Cleave\|Great Cleave]] (weapon appropriate) | +10          | +10            | Weapon gains two [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers\|greater powers]]                                                                                                                                           |
 
 ^table-legendary-weapon-tiers
 
@@ -99,13 +99,13 @@ A legendary weapon begins its existence as a +1 weapon with no other special pow
 
 **Bonus Feat:** At Tiers II, V and VIII, the wielder gains a bonus feat.
 
-*Character Meets All the Prerequisites:* When a character who meets the prerequisites of a higher tier first draws the weapon and realizes its potential, the legendary weapon becomes half as powerful as it should be in her hands (half the tier she qualifies for, rounded down). Each time the character gains a level, or 30 days of wielding the weapon pass, it rises in power by one tier, until it reaches its full potential in her hands. For example, a 16th-level warrior who grasps a legendary battleaxe and qualifies for Tier VI finds that it immediately becomes a Tier III legendary weapon. After a month of wielding it, it becomes Tier IV; when she gains a level shortly afterward, Tier V; and at the end of the second month, Tier VI, the best it can be in her hands until she qualifies for Tier VII.
+_Character Meets All the Prerequisites:_ When a character who meets the prerequisites of a higher tier first draws the weapon and realizes its potential, the legendary weapon becomes half as powerful as it should be in her hands (half the tier she qualifies for, rounded down). Each time the character gains a level, or 30 days of wielding the weapon pass, it rises in power by one tier, until it reaches its full potential in her hands. For example, a 16th-level warrior who grasps a legendary battleaxe and qualifies for Tier VI finds that it immediately becomes a Tier III legendary weapon. After a month of wielding it, it becomes Tier IV; when she gains a level shortly afterward, Tier V; and at the end of the second month, Tier VI, the best it can be in her hands until she qualifies for Tier VII.
 
-*Character Is Missing Prerequisites:* The wielder gains the abilities of the weapon up to the tier she qualifies for (subject to the limits above). As she gains the feats and abilities to qualify for a higher tier, the weapon grows with her.
+_Character Is Missing Prerequisites:_ The wielder gains the abilities of the weapon up to the tier she qualifies for (subject to the limits above). As she gains the feats and abilities to qualify for a higher tier, the weapon grows with her.
 
-*Parting with the Weapon:* If the wielder sells the weapon or willingly parts with it for more than one month, the weapon reverts to its original state and waits for a new person with legendary potential to come along; it no longer recognizes its former wielder, who has been deemed unworthy of greatness. At the GM's discretion, if the wielder is separated from the weapon for longer than 30 days for reasons beyond her control (the weapon is stolen, or she is imprisoned), the weapon accepts her back with no loss of its current abilities.
+_Parting with the Weapon:_ If the wielder sells the weapon or willingly parts with it for more than one month, the weapon reverts to its original state and waits for a new person with legendary potential to come along; it no longer recognizes its former wielder, who has been deemed unworthy of greatness. At the GM's discretion, if the wielder is separated from the weapon for longer than 30 days for reasons beyond her control (the weapon is stolen, or she is imprisoned), the weapon accepts her back with no loss of its current abilities.
 
-*Unbreakable:* A legendary weapon run by tiers can't be sundered, as under [[rangoric-srd/unearthed-arcana/Legendary Weapons & Familiar Items#^destroying-a-legendary-weapon|Destroying a Legendary Weapon]]; its hardness and hit points include its enhancement bonus.
+_Unbreakable:_ A legendary weapon run by tiers can't be sundered, as under [[rangoric-srd/unearthed-arcana/Legendary Weapons & Familiar Items#^destroying-a-legendary-weapon|Destroying a Legendary Weapon]]; its hardness and hit points include its enhancement bonus.
 
 **Using Both Ways Together:** The GM can combine the two. Legendary weapons then grow by tier as above, but to gain access to the weapon's power the wielder must take levels in one of the scion prestige classes: those classes open access to the higher tiers, though the wielder must still meet each tier's prerequisites. Instead of letting a player build her own legendary weapon, the GM creates it, and the wielder gains its abilities as she advances in the prestige class, as the sample legendary weapons show.
 
@@ -139,9 +139,9 @@ An item familiar must be a permanent magic item. Typically, it tends to be a mag
 
 In order to be an item familiar, a magic item must:
 
-  - Have a price of at least 2,000 gp.
-  - Be usable by the character (if it is a weapon, the character must be proficient with the appropriate category of weapon).
-  - Have a permanent magical effect that the character can (and knows how to) use.
+- Have a price of at least 2,000 gp.
+- Be usable by the character (if it is a weapon, the character must be proficient with the appropriate category of weapon).
+- Have a permanent magical effect that the character can (and knows how to) use.
 
 Keep in mind that the item only needs to meet the basics of this criteria. The magic item may have functions the character cannot currently use, and once the item is linked to the character he can separate from it for short periods of time without any harm.
 
@@ -186,13 +186,13 @@ If the character loses the item familiar, is separated from it for one day per l
 
 For example, a character has just achieved 7th character level, and he takes a level of wizard. Because of his high Intelligence score, he gains 7 skill points. He assigns 1 skill point to each of the following skills:
 
-  - Arcana\*
-  - Dungeoneering\*
-  - Society\*
-  - Nature\*
-  - Theology\*
-  - Linguistics\*
-  - Meditation
+- Arcana\*
+- Dungeoneering\*
+- Society\*
+- Nature\*
+- Theology\*
+- Linguistics\*
+- Meditation
 
 He uses an asterisk to note that 1 rank for each of six skills resides in his ring. Since that adds up to a total of 6 skill ranks in the ring, he gains two +1 bonuses he can apply to any skill. He decides to assign both bonuses (a total of +2) to his Meditation skill. He only has 1 rank in the cross-class skill Perception. If he had desired, he could have applied a single +1 bonus to that skill, but not both.
 
@@ -224,17 +224,17 @@ When an item familiar’s master reaches 10th level, and at every four levels th
 
 **Armor, Shield, or Weapon Special Ability:** An item familiar empowered with this special ability gains an ability equivalent to a +1 bonus (as found on [[rangoric-srd/magic-items/Magic Armor and Weapons|Table: Melee Weapon Special Abilities]], or [[rangoric-srd/magic-items/Magic Armor and Weapons|Table: Ranged Weapon Special Abilities]]), such as the light fortification, bashing, or defending special ability. This ability contributes to the overall enhancement bonus of the item and its value but does not cost the master of the familiar any gold pieces or time. This ability may be used in conjunction with the normal rules for improving an existing magic item (see [[#Improving An Item Familiar|Improving an Item Familiar]], and [[rangoric-srd/magic-items/Creating Magic Items#Adding New Abilities|Adding New Abilities]]). A character may select this special ability multiple times, each time enabling his familiar to gain a different ability equivalent to a +1 bonus. ^armor-shield-or-weapon-special-ability
 
-*Prerequisite:* The item familiar must be a type of magic armor, a magic shield, or a magic weapon.
+_Prerequisite:_ The item familiar must be a type of magic armor, a magic shield, or a magic weapon.
 
 **Cantrips/Orisons:** An item familiar empowered with this special ability can cast 0-level spells. The familiar may cast any spell invested in it as a standard action (or longer, as defined by the spell’s casting time) as long as the spell does not have an expensive material component or an XP component. The item familiar need not provide any verbal or somatic components, and it need not provide any material components that cost less than 1 gp. It has access to all the 0-level spells from any single class spell list of the master’s choice (taking into account any alignment restrictions against casting spells of a certain class or alignment subtype). It can cast a number of 0-level spells per day as if it were a sorcerer of the master’s character level (though the master does not have to be a spellcaster). The item familiar uses its own ability scores to determine spell save DCs but can cast its 0-level spells only on its master’s order. The master may use a free action on his turn to issue these orders, or he may give a number of contingency orders (such as "If I fall unconscious, cast [[rangoric-srd/spells/Cure Minor Wounds|cure minor wounds]] on me") equal to one more than his Charisma modifier (minimum one). ^cantrips-orisons
 
 **Greater Power:** An item familiar empowered with this special ability gains any single greater power listed on the [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact|Intelligent Item Greater Powers]] table. The item uses this power as described, at the master’s command. A character may select this special ability multiple times, each time applying it to a different greater power. ^greater-power
 
-*Prerequisite:* An item must have at least one [[#^lesser-power|lesser power]] for every greater power it is given. The master must spend the amount of gold pieces given in the Base Price Modifier column of the Intelligent Item Greater Powers table to purchase the greater power. The process of empowering an item in this way takes 24 hours.
+_Prerequisite:_ An item must have at least one [[#^lesser-power|lesser power]] for every greater power it is given. The master must spend the amount of gold pieces given in the Base Price Modifier column of the Intelligent Item Greater Powers table to purchase the greater power. The process of empowering an item in this way takes 24 hours.
 
 **Greater Senses:** An item familiar empowered with this special ability gains [[rangoric-srd/monsters/abilities/Blindsense|blindsense]] out to 30 feet. ^greater-senses
 
-*Prerequisite:* The item familiar must already have the [[#^improved-senses|improved senses]] special ability.
+_Prerequisite:_ The item familiar must already have the [[#^improved-senses|improved senses]] special ability.
 
 **Improved Senses:** An item familiar empowered with this special ability gains darkvision out to 60 feet. ^improved-senses
 
@@ -250,11 +250,11 @@ An item familiar usually displays more flexibility in how it carries out its spe
 
 No item familiar may have more than one special purpose and one dedicated power.
 
-*Prerequisite:* The master must spend the amount of gold pieces given in the Base Price Modifier column of the Special Purpose Item Dedicated Powers table to purchase the dedicated power. The process of empowering an item in this way takes 24 hours.
+_Prerequisite:_ The master must spend the amount of gold pieces given in the Base Price Modifier column of the Special Purpose Item Dedicated Powers table to purchase the dedicated power. The process of empowering an item in this way takes 24 hours.
 
 **Spell Use:** An item familiar empowered with this ability may cast any spell invested in it as a standard action (or longer, as defined by the spell’s duration) as long as it does not have an expensive material component or an XP component. The item familiar need not provide any verbal or somatic components, and it need not provide any material components that cost less than 1 gp. The item familiar must meet the ability score prerequisites for the spell but casts the spell at the master’s level. The item familiar may cast the spell only on the master’s order (as described in [[#^cantrips-orisons|Cantrips/ Orisons]], above). If an item familiar casts an invested spell, it is as if the master cast it for purposes of spells per day and preparation. ^spell-use
 
-*Prerequisite:* The item must have an [[#Invest Spell Slots|invested spell slot]] of the appropriate spell level, and the master must have the ability to cast 3rd-level spells.
+_Prerequisite:_ The item must have an [[#Invest Spell Slots|invested spell slot]] of the appropriate spell level, and the master must have the ability to cast 3rd-level spells.
 
 ##### Item Familiar Alignment
 
@@ -280,9 +280,9 @@ If the new owner wins the Ego contest, he can wield the item safely for 1 hour b
 
 **The New Owner Can Attempt a Link:** The new owner can attempt to link to the item by selecting the [[#Item Familiar (General)|Item Familiar]] feat (assuming he meets the prerequisite). What occurs next depends on his character level compared to the character level of the highest-level previous owner. ^the-new-owner-can-attempt-a-link
 
-*New Owner Is Same or Higher Level:* The link succeeds. The new owner gains all the benefits of the abilities of the item familiar, and the item familiar’s alignment changes to match that of its new master. If the item familiar had invested skill ranks and/or spell slots, those investments become accessible to the new owner, adding to his totals. If the item familiar has spell slots, the new master can access them only if he could already cast spells of the appropriate levels. ^new-owner-is-same-or-higher-level
+_New Owner Is Same or Higher Level:_ The link succeeds. The new owner gains all the benefits of the abilities of the item familiar, and the item familiar’s alignment changes to match that of its new master. If the item familiar had invested skill ranks and/or spell slots, those investments become accessible to the new owner, adding to his totals. If the item familiar has spell slots, the new master can access them only if he could already cast spells of the appropriate levels. ^new-owner-is-same-or-higher-level
 
-*New Owner Is Lower Level:* The link partially succeeds. The alignment of the item familiar changes to match that of its new master, and the new owner can use all the item familiar’s special abilities and powers. However, the new master cannot benefit from any invested skill ranks or spell slots until his character level equals or exceeds that of the item familiar’s highest-level previous owner. ^new-owener-is-lower-level
+_New Owner Is Lower Level:_ The link partially succeeds. The alignment of the item familiar changes to match that of its new master, and the new owner can use all the item familiar’s special abilities and powers. However, the new master cannot benefit from any invested skill ranks or spell slots until his character level equals or exceeds that of the item familiar’s highest-level previous owner. ^new-owener-is-lower-level
 
 ###### True Inheritance
 

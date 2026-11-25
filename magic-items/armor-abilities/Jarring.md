@@ -20,4 +20,4 @@ tags: [rangoric, rangoric/magic-item]
 
 A shield or set of armor with this ability causes unpleasant resonant vibrations in weapons that strike its wearer. As an immediate action up to three times per day, when the wearer is hit by a melee attack made with a weapon, he can activate the armor or shield to send jarring vibrations back through the weapon. The attacker must succeed at a DC 16 Fortitude saving throw or become [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1 round.
 
-Moderate evocation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Shatter|shatter]]*; Price +2 bonus.
+Moderate evocation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Shatter|shatter]]_; Price +2 bonus.

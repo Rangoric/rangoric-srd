@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/hammers]
 
 # Two-Handed Mace
 
-*Simple two-handed melee weapon.* Cost 20 gp; Dmg 1d8 (S), 1d10 (M); Critical 19-20/x2; Weight 15 lb.; Type Bludgeoning. ^stats
+_Simple two-handed melee weapon._ Cost 20 gp; Dmg 1d8 (S), 1d10 (M); Critical 19-20/x2; Weight 15 lb.; Type Bludgeoning. ^stats
 
 This heavy weapon is designed to do two things well, destroy plate armor and break bones. On a critical hit, it does normal damage to any plate armor (or similar armor like a breastplate) in the area it strikes as well as the usual extra damage to the wearer.

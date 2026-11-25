@@ -26,16 +26,16 @@ tags: [rangoric, rangoric/spell]
 
 # Spike Growth
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Drd 3, Hun 2, Rgr 2
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Area**: One 20-ft. square/level
-  - **Duration**: 1 hour/level (D)
-  - **Saving Throw**: Reflex partial
-  - **Spell Resistance**: Yes
+- **Level**: Drd 3, Hun 2, Rgr 2
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Area**: One 20-ft. square/level
+- **Duration**: 1 hour/level (D)
+- **Saving Throw**: Reflex partial
+- **Spell Resistance**: Yes
 
 Any ground-covering vegetation in the spell’s area becomes very hard and sharply pointed without changing its appearance.
 
@@ -45,4 +45,4 @@ Any creature that takes damage from this spell must also succeed on a Reflex sav
 
 Spike growth can’t be disabled with the [[rangoric-srd/skills/Engineering|Engineering]] skill.
 
-*Note*: Magic traps such as spike growth are hard to detect. A rogue (only) can use the [[rangoric-srd/skills/Investigation|Investigation]] skill to find a spike growth. The DC is 25 + spell level, or DC 28 for spike growth (or DC 27 for spike growth cast by a ranger).
+_Note_: Magic traps such as spike growth are hard to detect. A rogue (only) can use the [[rangoric-srd/skills/Investigation|Investigation]] skill to find a spike growth. The DC is 25 + spell level, or DC 28 for spike growth (or DC 27 for spike growth cast by a ranger).

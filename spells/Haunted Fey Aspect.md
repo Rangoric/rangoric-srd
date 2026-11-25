@@ -27,13 +27,13 @@ tags: [rangoric, rangoric/spell]
 
 # Haunted Fey Aspect
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Brd 0, Med 0, Mes 0, Psy 0, Skd 0, Sor/Wiz 0
-  - **Components**: S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level (D)
+- **Level**: Brd 0, Med 0, Mes 0, Psy 0, Skd 0, Sor/Wiz 0
+- **Components**: S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level (D)
 
 You surround yourself with disturbing illusions, making you look and sound like a bizarre, insane fey creature. You gain DR 1/cold iron against a single opponent until the end of the spell, or until you take damage.

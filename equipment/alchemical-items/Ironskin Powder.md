@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Ironskin Powder
 
-*Powder; Special*
+_Powder; Special_
 
 By blowing ironskin powder onto something, this alchemical powder changes that material to iron. The material now has a Hardness of 10 and 30 material hit points per inch of thickness and the weight of iron. If applied to living matter (skin, hide, living fur, etc.), ironskin powder adds no weight but does provide a temporary armor class bonus of +4 (natural armor). This change also incurs no arcane armor penalties. The effect lasts for 1d4 hours.
 

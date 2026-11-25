@@ -38,27 +38,27 @@ tags: [rangoric, rangoric/monster]
 
 # Thrush
 
-  - Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 1d8–2 (2 hp)
-  - **Initiative**: +2
-  - **Speed**: 10 ft. (2 squares), fly 40 ft. (average)
-  - **Armor Class**: 16 (+2 Dex, +4 size), touch 16, flat-footed 14
-  - **Base Attack**: +0; **CMB**: –2; **CMD**: 3
-  - **Attack**: Bite –1 melee (1d2–5)
-  - **Full Attack**: Bite –1 melee (1d2–5)
-  - **Space/Reach**: 1 ft./0 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-  - **Saves**: Fort +0, Ref +4, Will +2
-  - **Abilities**: Str 1, Dex 15, Con 6, Int 2, Wis 15, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Perception|Perception]] +5
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary, pair, or flock (3–12)
-  - **Challenge Rating**: 1/3
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 1d8–2 (2 hp)
+- **Initiative**: +2
+- **Speed**: 10 ft. (2 squares), fly 40 ft. (average)
+- **Armor Class**: 16 (+2 Dex, +4 size), touch 16, flat-footed 14
+- **Base Attack**: +0; **CMB**: –2; **CMD**: 3
+- **Attack**: Bite –1 melee (1d2–5)
+- **Full Attack**: Bite –1 melee (1d2–5)
+- **Space/Reach**: 1 ft./0 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
+- **Saves**: Fort +0, Ref +4, Will +2
+- **Abilities**: Str 1, Dex 15, Con 6, Int 2, Wis 15, Cha 6
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Perception|Perception]] +5
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Temperate forests
+- **Organization**: Solitary, pair, or flock (3–12)
+- **Challenge Rating**: 1/3
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Thrushes are small, plump birds that eat fruit and insects. All thrushes are known for their beautiful songs, but thrush familiars are also capable of actual speech.

@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Court Bard
 
-*A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Spending years studying all of the finer points of erudition and etiquette, the court bard takes up the role of resplendent proclaimer and artist-in-residence at the hand of nobility, royalty, and the well-moneyed elite who aspire to join their ranks.
 
@@ -34,7 +34,7 @@ Spending years studying all of the finer points of erudition and etiquette, the 
 
 **Glorious Epic (Su)**: A court bard of 8th level or higher can weave captivating tales that engross those who hear them. Enemies within 30 feet become [[rangoric-srd/rules/Special Abilities and Conditions#^flat-footed|flat-footed]] unless they succeed at a Will save (DC 10 + 1/2 the bard's level + the bard's Cha modifier). A save renders them immune to this ability for 24 hours. Glorious epic is a language-dependent, mind-affecting ability that uses audible components. This performance replaces [[rangoric-srd/classes/Bard#^bard-dirge-of-doom|dirge of doom]].
 
-**Scandal (Su)**: A court bard of 14th level or higher can combine salacious gossip and biting calumny to incite a riot. Each enemy within 30 feet is affected as if by a *[[rangoric-srd/spells/Song of Discord|song of discord]]* for as long as it can hear the performance. A successful Will save (DC 10 + 1/2 the bard's level + the bard's Cha modifier) negates the effect, and that creature is immune to this ability for 24 hours. Scandal is a language-dependent, mind-affecting ability that uses audible components. This performance replaces [[rangoric-srd/classes/Bard#^bard-frightening-tune|frightening tune]].
+**Scandal (Su)**: A court bard of 14th level or higher can combine salacious gossip and biting calumny to incite a riot. Each enemy within 30 feet is affected as if by a _[[rangoric-srd/spells/Song of Discord|song of discord]]_ for as long as it can hear the performance. A successful Will save (DC 10 + 1/2 the bard's level + the bard's Cha modifier) negates the effect, and that creature is immune to this ability for 24 hours. Scandal is a language-dependent, mind-affecting ability that uses audible components. This performance replaces [[rangoric-srd/classes/Bard#^bard-frightening-tune|frightening tune]].
 
 **Heraldic Expertise (Ex)**: A court bard gains a bonus equal to half his bard level on [[rangoric-srd/skills/Persuasion|Persuasion]] and [[rangoric-srd/skills/Society|Society]] checks (minimum +1). Once per day, the court bard can also reroll a check against one of these skills, though he must take the result of the second roll even if it is worse. He can reroll one additional time per day at 5th level and every five levels thereafter. This ability replaces [[rangoric-srd/classes/Bard#^bardic-knowledge|bardic knowledge]].
 

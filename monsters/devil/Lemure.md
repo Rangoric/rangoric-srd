@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Lemure
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Devil, Evil, Extraplanar, Lawful)
-  - **Hit Dice**: 2d10+2 (13 hp)
-  - **Initiative**: +0
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 14 (+4 natural), touch 10, flat-footed 14
-  - **Base Attack**: +2; **CMB**: +2; **CMD**: 12
-  - **Attack**: Claw +2 melee (1d4)
-  - **Full Attack**: 2 claws +2 melee (1d4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good or silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, mind-affecting effects and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10
-  - **Saves**: Fort +4, Ref +3, Will +0
-  - **Abilities**: Str 11, Dex 10, Con 12, Int —, Wis 11, Cha 5
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: A lawful evil-aligned plane
-  - **Organization**: Solitary, pair, gang (3–5), swarm (6–17), or mob (10–40 or more)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Always lawful evil
-  - **Advancement**: 3–6 HD (Medium)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Devil, Evil, Extraplanar, Lawful)
+- **Hit Dice**: 2d10+2 (13 hp)
+- **Initiative**: +0
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 14 (+4 natural), touch 10, flat-footed 14
+- **Base Attack**: +2; **CMB**: +2; **CMD**: 12
+- **Attack**: Claw +2 melee (1d4)
+- **Full Attack**: 2 claws +2 melee (1d4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good or silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, mind-affecting effects and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10
+- **Saves**: Fort +4, Ref +3, Will +0
+- **Abilities**: Str 11, Dex 10, Con 12, Int —, Wis 11, Cha 5
+- **Skills**: —
+- **Feats**: —
+- **Environment**: A lawful evil-aligned plane
+- **Organization**: Solitary, pair, gang (3–5), swarm (6–17), or mob (10–40 or more)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Always lawful evil
+- **Advancement**: 3–6 HD (Medium)
+- **Level Adjustment**: —
 
 The least of devilkind, lemures roil forth from the ranks of souls damned to the lawful evil planes, shapeless masses of quivering flesh. What spark of instinct or memory lingers on within a lemure's semi-consciousness regularly shapes its features to mimic those of its tormentors or the tortured souls around it. Grotesque and useless, a lemure's features speak nothing of what it once was. Many exhibit multiple terrible visages or are nothing more than churning pillars of cancerous flesh. Only their knobby, flailing limbs work as they should, and those they merely use to destroy any non-infernal life that draws too near. Moving lemures typically congeal in forms over 4 feet tall and weigh upward of 200 pounds, though when at rest these disgusting fiends often appear to be little more than lumps of melted flesh and malformed features.
 

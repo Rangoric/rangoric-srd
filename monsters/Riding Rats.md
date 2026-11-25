@@ -38,25 +38,25 @@ tags: [rangoric, rangoric/monster]
 
 # Riding Rats
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 2d8+9 (18 hp)
-  - **Initiative**: +2
-  - **Speed**: 40 ft. (8 squares), climb 20 ft., swim 20 ft.
-  - **Armor Class**: 13 (+2 Dex, +1 natural), touch 12, flat-footed 11
-  - **Base Attack**: +1; **CMB**: +3; **CMD**: 15 (19 vs. trip)
-  - **Attack**: Bite +3 melee (1d6+3)
-  - **Full Attack**: Bite +3 melee (1d6+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/class-options/companion-features/Bonus Tricks (Companion Feature)|tricks]] (attack \[all creatures\], defend, fetch, heel, track, work)
-  - **Saves**: Fort +6, Ref +5, Will +1
-  - **Abilities**: Str 14, Dex 15, Con 17, Int 2, Wis 13, Cha 4
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +6
-  - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: —
-  - **Organization**: —
-  - **Challenge Rating**: —
-  - **Treasure**: —
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 2d8+9 (18 hp)
+- **Initiative**: +2
+- **Speed**: 40 ft. (8 squares), climb 20 ft., swim 20 ft.
+- **Armor Class**: 13 (+2 Dex, +1 natural), touch 12, flat-footed 11
+- **Base Attack**: +1; **CMB**: +3; **CMD**: 15 (19 vs. trip)
+- **Attack**: Bite +3 melee (1d6+3)
+- **Full Attack**: Bite +3 melee (1d6+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/class-options/companion-features/Bonus Tricks (Companion Feature)|tricks]] (attack \[all creatures\], defend, fetch, heel, track, work)
+- **Saves**: Fort +6, Ref +5, Will +1
+- **Abilities**: Str 14, Dex 15, Con 17, Int 2, Wis 13, Cha 4
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +6
+- **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: —
+- **Organization**: —
+- **Challenge Rating**: —
+- **Treasure**: —
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —

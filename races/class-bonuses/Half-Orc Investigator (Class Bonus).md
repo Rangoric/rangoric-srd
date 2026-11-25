@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Half-Orc Investigator
 
-*A [[rangoric-srd/races/Half-Orc|half-orc]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Investigator#^investigator-class-bonuses|investigator]] level.*
+_A [[rangoric-srd/races/Half-Orc|half-orc]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Investigator#^investigator-class-bonuses|investigator]] level._
 
 Gain a +1/3 bonus on critical hit confirmation rolls made while using [[rangoric-srd/classes/Investigator#^investigator-studied-combat|studied combat]] (maximum bonus of +5). This bonus does not stack with those gained through [[rangoric-srd/feats/Critical Focus|Critical Focus]] and similar effects.

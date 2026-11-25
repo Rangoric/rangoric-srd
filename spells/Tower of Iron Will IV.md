@@ -23,15 +23,15 @@ tags: [rangoric, rangoric/spell]
 
 # Tower of Iron Will IV
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Psy 8
-  - **Components**: V
-  - **Casting Time**: 1 immediate action
-  - **Range**: 10 ft.
-  - **Area**: 10-ft.-radius emanation centered on you
-  - **Duration**: 4 rounds
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Psy 8
+- **Components**: V
+- **Casting Time**: 1 immediate action
+- **Range**: 10 ft.
+- **Area**: 10-ft.-radius emanation centered on you
+- **Duration**: 4 rounds
+- **Saving Throw**: None
+- **Spell Resistance**: Yes (harmless)
 
-This functions as *[[rangoric-srd/spells/Tower of Iron Will I|tower of iron will I]]*, except as noted above. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].
+This functions as _[[rangoric-srd/spells/Tower of Iron Will I|tower of iron will I]]_, except as noted above. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].

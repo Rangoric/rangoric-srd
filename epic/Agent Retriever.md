@@ -31,11 +31,11 @@ The agent retriever’s class skills (and the key ability for each skill) are [[
 
 Skill Points at Each Level: 6 + Int modifier.
 
-Table: The Agent Retriever  
+Table: The Agent Retriever
 
-|       |                                      |                             |
-| ----- | ------------------------------------ | --------------------------- |
-| Level | Special                              | Spells per Day              |
+|       |                                      |                            |
+| ----- | ------------------------------------ | -------------------------- |
+| Level | Special                              | Spells per Day             |
 | 1st   | Uncanny location, tracking bonus +10 | +1 level of existing class |
 | 2nd   | Plane shift 1/day                    | +1 level of existing class |
 | 3rd   | Force sphere 1/day                   | +1 level of existing class |
@@ -49,7 +49,7 @@ Table: The Agent Retriever
 
 ###### Class Features
 
-The following are class features of the agent retriever prestige class.  
+The following are class features of the agent retriever prestige class.
 
 Weapon and Armor Proficiency: An agent retriever gains no proficiency with any weapons, armor, or shields.
 

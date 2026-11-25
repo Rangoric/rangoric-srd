@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Town Watcher
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Halfling)
-  - **Hit Dice**: 2d10 (15 hp)
-  - **Initiative**: +3
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 17 (+3 armor, +3 Dex, +1 size), touch 14, flat-footed 14
-  - **Base Attack**: +2; **CMB**: +2; **CMD**: 15
-  - **Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +4 melee (1d4+1/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +7 ranged (1d4/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +4 melee (1d4+1/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +7 ranged (1d4/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (fey +2)
-  - **Special Qualities**: [[rangoric-srd/classes/Ranger#^ranger-track|Track]] +1, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +2
-  - **Saves**: Fort +4, Ref +7, Will +2 (+2 vs. fear)
-  - **Abilities**: Str 12, Dex 17, Con 10, Int 13, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +8 (+4 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +1, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +14
-  - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Track|Track]]
-  - **Environment**: Warm plains
-  - **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])
-  - **Challenge Rating**: 1
-  - **Treasure**: NPC gear (combat gear: potion of cure light wounds, tanglefoot bags (2), thunderstone; other gear: masterwork studded leather, masterwork shortbow with 20 arrows, short sword, 84 gp)
-  - **Alignment**: Lawful neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Halfling)
+- **Hit Dice**: 2d10 (15 hp)
+- **Initiative**: +3
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 17 (+3 armor, +3 Dex, +1 size), touch 14, flat-footed 14
+- **Base Attack**: +2; **CMB**: +2; **CMD**: 15
+- **Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +4 melee (1d4+1/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +7 ranged (1d4/×3)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +4 melee (1d4+1/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +7 ranged (1d4/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (fey +2)
+- **Special Qualities**: [[rangoric-srd/classes/Ranger#^ranger-track|Track]] +1, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +2
+- **Saves**: Fort +4, Ref +7, Will +2 (+2 vs. fear)
+- **Abilities**: Str 12, Dex 17, Con 10, Int 13, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +8 (+4 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +1, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +14
+- **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Track|Track]]
+- **Environment**: Warm plains
+- **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])
+- **Challenge Rating**: 1
+- **Treasure**: NPC gear (combat gear: potion of cure light wounds, tanglefoot bags (2), thunderstone; other gear: masterwork studded leather, masterwork shortbow with 20 arrows, short sword, 84 gp)
+- **Alignment**: Lawful neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A town watcher is a [[rangoric-srd/monsters/halfling/Halfling|halfling]] with 2 levels of [[rangoric-srd/classes/Ranger|ranger]]. The town watcher protects a settlement from hostile creatures.
 

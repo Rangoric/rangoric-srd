@@ -20,8 +20,8 @@ tags: [rangoric, rangoric/spell]
 
 # Dispel Good
 
-*Abjuration \[Evil\]*
+_Abjuration \[Evil\]_
 
-  - **Level**: Apl 4, Clr 5, Evil 5, Inq 5, Sha 5
+- **Level**: Apl 4, Clr 5, Evil 5, Inq 5, Sha 5
 
 This spell functions like [[rangoric-srd/spells/Dispel Evil|dispel evil]], except that you are surrounded by dark, wavering, unholy energy, and the spell affects good creatures and spells rather than evil ones.

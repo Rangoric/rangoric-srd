@@ -18,11 +18,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Veil of Mists
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Water Element|water]]
-  - **Type**: utility (Su)
-  - **Level**: 2
-  - **Burn**: 0
+- **Element**: [[rangoric-srd/class-options/elements/Water Element|water]]
+- **Type**: utility (Su)
+- **Level**: 2
+- **Burn**: 0
 
-You create a misty veil over your features, disguising yourself as *[[rangoric-srd/spells/Disguise Self|disguise self]]* for a number of minutes equal to your Constitution modifier. If you accept 1 point of [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]], until the next time your burn is removed, each use of this wild talent lasts until you dismiss it.
+You create a misty veil over your features, disguising yourself as _[[rangoric-srd/spells/Disguise Self|disguise self]]_ for a number of minutes equal to your Constitution modifier. If you accept 1 point of [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]], until the next time your burn is removed, each use of this wild talent lasts until you dismiss it.

@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades]
 
 # Terbutje, Great
 
-*Exotic one-handed melee weapon.* Cost 12 gp; Dmg 1d8 (S), 1d10 (M); Critical 19–20/x2; Weight 4 lb.; Type Slashing. ^stats
+_Exotic one-handed melee weapon._ Cost 12 gp; Dmg 1d8 (S), 1d10 (M); Critical 19–20/x2; Weight 4 lb.; Type Slashing. ^stats
 
 This 4-foot-long version of the [[rangoric-srd/equipment/weapons/Terbutje|terbutje]] is too large to use in one hand without special training; thus it is an exotic weapon. A character can use a great terbutje two-handed as a martial weapon.
 

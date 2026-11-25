@@ -35,26 +35,26 @@ tags: [rangoric, rangoric/monster]
 
 # Bear, Black
 
-  - Medium Animal
-  - **Hit Dice**: 3d8+6 (19 hp)
-  - **Initiative**: +1
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 13 (+1 Dex, +2 natural), touch 11, flat-footed 12
-  - **Base Attack**: +2; **CMB**: +6; **CMD**: 17 (21 vs. trip)
-  - **Attack**: Claw +6 melee (1d4+4)
-  - **Full Attack**: 2 claws +6 melee (1d4+4) and bite +1 melee (1d6+2)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: Low-light vision, scent
-  - **Saves**: Fort +5, Ref +4, Will +2
-  - **Abilities**: Str 19, Dex 13, Con 15, Int 2, Wis 12, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, Perception +7
-  - **Feats**: Endurance, Run
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary or pair
-  - **Challenge Rating**: 2
-  - **Advancement**: 4–5 HD (Medium)
-  - **Level Adjustment**: —
+- Medium Animal
+- **Hit Dice**: 3d8+6 (19 hp)
+- **Initiative**: +1
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 13 (+1 Dex, +2 natural), touch 11, flat-footed 12
+- **Base Attack**: +2; **CMB**: +6; **CMD**: 17 (21 vs. trip)
+- **Attack**: Claw +6 melee (1d4+4)
+- **Full Attack**: 2 claws +6 melee (1d4+4) and bite +1 melee (1d6+2)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: Low-light vision, scent
+- **Saves**: Fort +5, Ref +4, Will +2
+- **Abilities**: Str 19, Dex 13, Con 15, Int 2, Wis 12, Cha 6
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, Perception +7
+- **Feats**: Endurance, Run
+- **Environment**: Temperate forests
+- **Organization**: Solitary or pair
+- **Challenge Rating**: 2
+- **Advancement**: 4–5 HD (Medium)
+- **Level Adjustment**: —
 
 The black bear is a forest-dwelling omnivore that usually is not dangerous unless an interloper threatens its cubs or food supply.
 

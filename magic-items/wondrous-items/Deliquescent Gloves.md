@@ -21,8 +21,8 @@ tags: [rangoric, rangoric/magic-item]
 
 # Deliquescent Gloves
 
-These heavy leather gloves ripple and flow at the wearer's command, reshaping to fit any hand, claw, tentacle, or alien limb. The wearer's melee touch attacks with that hand deal 1d6 points of acid damage. If the wearer uses that hand to wield a weapon or make an attack with an unarmed strike or natural weapon, that attack gains the *[[rangoric-srd/magic-items/weapon-abilities/Corrosive|corrosive]]* weapon special ability.
+These heavy leather gloves ripple and flow at the wearer's command, reshaping to fit any hand, claw, tentacle, or alien limb. The wearer's melee touch attacks with that hand deal 1d6 points of acid damage. If the wearer uses that hand to wield a weapon or make an attack with an unarmed strike or natural weapon, that attack gains the _[[rangoric-srd/magic-items/weapon-abilities/Corrosive|corrosive]]_ weapon special ability.
 
 The wearer's gloved hand is protected from the acid ability of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|oozes]], allowing him to use that hand to attack oozes with unarmed strikes or natural attacks without risk of harm from contact with the ooze. These unarmed strikes and natural attacks never cause an ooze to split.
 
-Moderate conjuration; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Acid Arrow|acid arrow]]*, *[[rangoric-srd/spells/Summon Monster V|summon monster V]]*; Price 8,000 gp; Cost 4,000 gp; Weight 1 lb.
+Moderate conjuration; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Acid Arrow|acid arrow]]_, _[[rangoric-srd/spells/Summon Monster V|summon monster V]]_; Price 8,000 gp; Cost 4,000 gp; Weight 1 lb.

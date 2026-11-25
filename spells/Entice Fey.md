@@ -28,14 +28,14 @@ tags: [rangoric, rangoric/spell]
 
 # Entice Fey
 
-*Conjuration (Calling)*
+_Conjuration (Calling)_
 
-  - **Level**: Brd 6, Drd 7, Skd 6
-  - **Components**: V, S, M, DF (offerings worth 1,250 gp plus payment)
-  - **Casting Time**: 10 minutes
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: One or two called fey, totaling no more than 12 Hit Dice, which can't appear more than 30 ft. apart
-  - **Duration**: Instantaneous
-  - **Spell Resistance**: No
+- **Level**: Brd 6, Drd 7, Skd 6
+- **Components**: V, S, M, DF (offerings worth 1,250 gp plus payment)
+- **Casting Time**: 10 minutes
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: One or two called fey, totaling no more than 12 Hit Dice, which can't appear more than 30 ft. apart
+- **Duration**: Instantaneous
+- **Spell Resistance**: No
 
 This spell functions as [[rangoric-srd/spells/Entice Fey, Lesser|lesser entice fey]], except that the spell's whimsical calling can produce a single fey of 12 Hit Dice or less, or two fey of the same kind whose Hit Dice total no more than 12.

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Dust Digger
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 5d8+20 (42 hp)
-  - **Initiative**: +4
-  - **Speed**: 10 ft. (2 squares), burrow 20 ft.
-  - **Armor Class**: 16 (+7 natural, –1 size), touch 9, flat-footed 16
-  - **Base Attack**: +3; **CMB**: +7; **CMD**: 17
-  - **Attack**: Bite +5 melee (1d8+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tentacle +8 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +5 melee (1d8+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 5 tentacles +3 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Sinkhole|Sinkhole]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d8+4 bludgeoning, AC 13, 4 hp)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft.
-  - **Saves**: Fort +5, Ref +1, Will +4
-  - **Abilities**: Str 17, Dex 11, Con 18, Int 2, Wis 11, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +5 (+13 in ambush)
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Warm deserts
-  - **Organization**: Solitary, pair, or colony (3–10)
-  - **Challenge Rating**: 4
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 5d8+20 (42 hp)
+- **Initiative**: +4
+- **Speed**: 10 ft. (2 squares), burrow 20 ft.
+- **Armor Class**: 16 (+7 natural, –1 size), touch 9, flat-footed 16
+- **Base Attack**: +3; **CMB**: +7; **CMD**: 17
+- **Attack**: Bite +5 melee (1d8+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tentacle +8 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +5 melee (1d8+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 5 tentacles +3 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Sinkhole|Sinkhole]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d8+4 bludgeoning, AC 13, 4 hp)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft.
+- **Saves**: Fort +5, Ref +1, Will +4
+- **Abilities**: Str 17, Dex 11, Con 18, Int 2, Wis 11, Cha 10
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +5 (+13 in ambush)
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Warm deserts
+- **Organization**: Solitary, pair, or colony (3–10)
+- **Challenge Rating**: 4
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Dust diggers most resemble mammoth starfish, with thick sandy-colored exoskeletons covered with rough, burr-like spines. Its five arms are long and thin, and covered with hundreds of barbed, tubular cilia that the creature uses to move as well at grab and grapple prey. At the fleshy center of the creature's body gapes a circular maw lined with large sharp teeth.
 

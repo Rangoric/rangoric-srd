@@ -37,24 +37,24 @@ tags: [rangoric, rangoric/monster]
 
 # Monstrous Scorpion, Small
 
-  - Small Vermin
-  - **Hit Dice**: 1d8+2 (6 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 14 (+1 size, +3 natural), touch 11, flat-footed 14
-  - **Base Attack**: +0; **CMB**: –2 (+2 grapple); **CMD**: 8 (20 vs. trip)
-  - **Attack**: Claw +1 melee (1d3–1)
-  - **Full Attack**: 2 claws +1 melee (1d3–1) and sting –4 melee (1d3–1 plus poison)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Constrict 1d3–1, improved grab, poison
-  - **Special Qualities**: Darkvision 60 ft., tremorsense 60 ft., vermin traits
-  - **Saves**: Fort +4, Ref +0, Will +0
-  - **Abilities**: Str 9, Dex 10, Con 14, Int —, Wis 10, Cha 2
-  - **Skills**: Athletics +7, Perception +4, Stealth +8
-  - **Feats**: Weapon FinesseB
-  - **Environment**: Warm deserts
-  - **Organization**: Colony (2–5) or swarm (6–11)
-  - **Challenge Rating**: 1/2
-  - **Alignment**: Always neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small Vermin
+- **Hit Dice**: 1d8+2 (6 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 14 (+1 size, +3 natural), touch 11, flat-footed 14
+- **Base Attack**: +0; **CMB**: –2 (+2 grapple); **CMD**: 8 (20 vs. trip)
+- **Attack**: Claw +1 melee (1d3–1)
+- **Full Attack**: 2 claws +1 melee (1d3–1) and sting –4 melee (1d3–1 plus poison)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Constrict 1d3–1, improved grab, poison
+- **Special Qualities**: Darkvision 60 ft., tremorsense 60 ft., vermin traits
+- **Saves**: Fort +4, Ref +0, Will +0
+- **Abilities**: Str 9, Dex 10, Con 14, Int —, Wis 10, Cha 2
+- **Skills**: Athletics +7, Perception +4, Stealth +8
+- **Feats**: Weapon FinesseB
+- **Environment**: Warm deserts
+- **Organization**: Colony (2–5) or swarm (6–11)
+- **Challenge Rating**: 1/2
+- **Alignment**: Always neutral
+- **Advancement**: —
+- **Level Adjustment**: —

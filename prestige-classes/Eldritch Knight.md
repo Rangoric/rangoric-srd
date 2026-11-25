@@ -50,18 +50,18 @@ The eldritch knight’s class skills (and the key ability for each skill) are [[
 
 **Table: The Eldritch Knight**
 
-| Level | Special | Spells per Day                                  |
-| ----- | ------- | ----------------------------------------------- |
-| 1st   | Bonus feat, diverse training | —                                               |
-| 2nd   |  | +1 level of existing arcane spellcasting class |
-| 3rd   |  | +1 level of existing arcane spellcasting class |
-| 4th   |  | +1 level of existing arcane spellcasting class |
-| 5th   | Bonus feat | +1 level of existing arcane spellcasting class |
-| 6th   |  | +1 level of existing arcane spellcasting class |
-| 7th   |  | +1 level of existing arcane spellcasting class |
-| 8th   |  | +1 level of existing arcane spellcasting class |
-| 9th   | Bonus feat | +1 level of existing arcane spellcasting class |
-| 10th  | Spell critical | +1 level of existing arcane spellcasting class |
+| Level | Special                      | Spells per Day                                 |
+| ----- | ---------------------------- | ---------------------------------------------- |
+| 1st   | Bonus feat, diverse training | —                                              |
+| 2nd   |                              | +1 level of existing arcane spellcasting class |
+| 3rd   |                              | +1 level of existing arcane spellcasting class |
+| 4th   |                              | +1 level of existing arcane spellcasting class |
+| 5th   | Bonus feat                   | +1 level of existing arcane spellcasting class |
+| 6th   |                              | +1 level of existing arcane spellcasting class |
+| 7th   |                              | +1 level of existing arcane spellcasting class |
+| 8th   |                              | +1 level of existing arcane spellcasting class |
+| 9th   | Bonus feat                   | +1 level of existing arcane spellcasting class |
+| 10th  | Spell critical               | +1 level of existing arcane spellcasting class |
 
 ###### Class Features
 

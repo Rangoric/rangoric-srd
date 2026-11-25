@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Ooze Form I
 
-*Transmutation (Polymorph)*
+_Transmutation (Polymorph)_
 
-  - **Level**: Alc 5, Mag 5, Sor/Wiz 5
-  - **Components**: V, S, M (a bit of the creature whose form you plan to assume)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: Caster level minute(s)
-  - **Spell Resistance**: No
+- **Level**: Alc 5, Mag 5, Sor/Wiz 5
+- **Components**: V, S, M (a bit of the creature whose form you plan to assume)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: Caster level minute(s)
+- **Spell Resistance**: No
 
 You assume the form of a Small or Medium ooze. Regardless of the type of ooze you transform into, you gain base speed 10 feet, climb speed 10 feet, swim speed 20 feet, and blindsense 30 feet. You gain a +4 resistance bonus on saving throws against mind-affecting effects and poison. A wood or metal weapon that strikes you takes acid damage as if from your slam unless the wielder succeeds at a Reflex saving throw.
 

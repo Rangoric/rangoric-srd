@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Swift Poison
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex).*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex)._
 
 A character with this talent can apply poison to a weapon as a move action, instead of a standard action.

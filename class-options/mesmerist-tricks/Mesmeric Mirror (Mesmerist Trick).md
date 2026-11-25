@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Mesmeric Mirror
 
-*A mesmerist’s [[rangoric-srd/classes/Mesmerist#^mesmerist-tricks|mesmerist trick]] (Su).*
+_A mesmerist’s [[rangoric-srd/classes/Mesmerist#^mesmerist-tricks|mesmerist trick]] (Su)._
 
-An illusory image appears near the subject to throw off attackers. The mesmerist can trigger this trick when the subject is attacked or becomes the target of a spell that requires an attack roll. One duplicate of the subject appears, and the attacker must determine randomly which it hits (as *[[rangoric-srd/spells/Mirror Image|mirror image]]*). For every 5 class levels the mesmerist possesses, one additional image appears, to a maximum of five images at 20th level. Each image lasts for 1 minute per mesmerist level or until destroyed. This is an illusion (figment) effect.
+An illusory image appears near the subject to throw off attackers. The mesmerist can trigger this trick when the subject is attacked or becomes the target of a spell that requires an attack roll. One duplicate of the subject appears, and the attacker must determine randomly which it hits (as _[[rangoric-srd/spells/Mirror Image|mirror image]]_). For every 5 class levels the mesmerist possesses, one additional image appears, to a maximum of five images at 20th level. Each image lasts for 1 minute per mesmerist level or until destroyed. This is an illusion (figment) effect.

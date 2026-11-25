@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Disable Construct
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 3, Sor/Wiz 3, Wit 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Construct touched
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: No
+- **Level**: Alc 3, Sor/Wiz 3, Wit 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Construct touched
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: No
 
 You can make a melee touch attack to send a pulse into the target, interfering with the magic that endows it with life. If the construct fails its saving throw, it becomes helpless for the duration of the spell.

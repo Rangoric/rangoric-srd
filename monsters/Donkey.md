@@ -35,26 +35,26 @@ tags: [rangoric, rangoric/monster]
 
 # Donkey
 
-  - Medium Animal
-  - **Hit Dice**: 2d8+2 (11 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 13 (+1 Dex, +2 natural), touch 11, flat-footed 12
-  - **Base Attack**: +1; **CMB**: +1; **CMD**: 12 (16 vs. trip)
-  - **Attack**: Bite +1 melee (1d2)
-  - **Full Attack**: Bite +1 melee (1d2)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: Low-light vision, scent
-  - **Saves**: Fort +4, Ref +4, Will +0
-  - **Abilities**: Str 10, Dex 13, Con 12, Int 2, Wis 11, Cha 4
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, Perception +5
-  - **Feats**: Endurance
-  - **Environment**: Temperate deserts
-  - **Organization**: Solitary
-  - **Challenge Rating**: 1/6
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium Animal
+- **Hit Dice**: 2d8+2 (11 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 13 (+1 Dex, +2 natural), touch 11, flat-footed 12
+- **Base Attack**: +1; **CMB**: +1; **CMD**: 12 (16 vs. trip)
+- **Attack**: Bite +1 melee (1d2)
+- **Full Attack**: Bite +1 melee (1d2)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: Low-light vision, scent
+- **Saves**: Fort +4, Ref +4, Will +0
+- **Abilities**: Str 10, Dex 13, Con 12, Int 2, Wis 11, Cha 4
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, Perception +5
+- **Feats**: Endurance
+- **Environment**: Temperate deserts
+- **Organization**: Solitary
+- **Challenge Rating**: 1/6
+- **Advancement**: —
+- **Level Adjustment**: —
 
 These long-eared, horselike creatures are surefooted and sturdy. The statistics presented here could also describe burros.
 

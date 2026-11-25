@@ -12,7 +12,7 @@ tags: [rangoric, rangoric/spellblight]
 
 # Eldritch Cataracts
 
-*Major [[rangoric-srd/rules/spellblights/Spellblights#^table-major-spellblights|spellblight]]*
+_Major [[rangoric-srd/rules/spellblights/Spellblights#^table-major-spellblights|spellblight]]_
 
 Each time a spellcaster with this spellblight casts a spell, her vision becomes fuzzier and fuzzier until eventually she is blinded. Each time the spellcaster casts a spell, she must succeed at a Fortitude save with a DC equal to 15 + the spell’s level. If she fails, she takes a –1 penalty on vision-based [[rangoric-srd/skills/Perception|Perception]] checks until the spellblight is removed. Further failed saving throws increase the penalty by 1 until the character reaches a –4 penalty, at which point she becomes [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] instead.
 

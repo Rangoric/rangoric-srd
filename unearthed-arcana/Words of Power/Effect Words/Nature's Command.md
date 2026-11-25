@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/word-of-power]
 
 # Nature's Command
 
-*One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Animal Words|Animal group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]].*
+_One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Animal Words|Animal group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]]._
 
 **School** enchantment (compulsion) \[mind-affecting\]
 

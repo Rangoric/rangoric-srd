@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Earth Domain
 
-*A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]], which a druid can also take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]].*
+_A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]], which a druid can also take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]._
 
 **Subdomains**: [[rangoric-srd/class-options/domains/Caves Subdomain|Caves]], [[rangoric-srd/class-options/domains/Metal Subdomain|Metal]].
 
@@ -33,15 +33,15 @@ You have mastery over earth, metal, and stone, can fire darts of acid, and comma
 
 Where a level has two spells, the cleric prepares [[rangoric-srd/class-options/domains/Domains#^domains-two-spells|either one]] in the domain spell slot.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Magic Stone\|Magic Stone]] | Three stones become +1 projectiles, 1d6 +1 damage. |
-| 2nd | [[rangoric-srd/spells/Soften Earth and Stone\|Soften Earth and Stone]] | Turns stone to clay or dirt to sand or mud. |
-| 3rd | [[rangoric-srd/spells/Stone Shape\|Stone Shape]] | Sculpts stone into any shape. |
-| 4th | [[rangoric-srd/spells/Spike Stones\|Spike Stones]] | Creatures in area take 1d8 damage, may be lowed. |
-| 5th | [[rangoric-srd/spells/Wall of Stone\|Wall of Stone]] | Creates a stone wall that can be shaped. |
-| 6th | [[rangoric-srd/spells/Stoneskin\|Stoneskin]] (M) | Ignore 10 points of damage per attack. |
-| 7th | [[rangoric-srd/spells/Earthquake\|Earthquake]] | Intense tremor shakes 5-ft./level radius. |
-| 7th | [[rangoric-srd/spells/Elemental Body IV\|Elemental Body IV]] (M) (earth only) | You become a Small to Huge elemental. |
-| 8th | [[rangoric-srd/spells/Iron Body\|Iron Body]] | Your body becomes living iron. |
-| 9th | [[rangoric-srd/spells/Elemental Swarm\|Elemental Swarm]] (cast as an earth spell only) | Summons multiple elementals. |
+| Level | Spell                                                                                  | Brief Description                                  |
+| ----- | -------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Magic Stone\|Magic Stone]]                                       | Three stones become +1 projectiles, 1d6 +1 damage. |
+| 2nd   | [[rangoric-srd/spells/Soften Earth and Stone\|Soften Earth and Stone]]                 | Turns stone to clay or dirt to sand or mud.        |
+| 3rd   | [[rangoric-srd/spells/Stone Shape\|Stone Shape]]                                       | Sculpts stone into any shape.                      |
+| 4th   | [[rangoric-srd/spells/Spike Stones\|Spike Stones]]                                     | Creatures in area take 1d8 damage, may be lowed.   |
+| 5th   | [[rangoric-srd/spells/Wall of Stone\|Wall of Stone]]                                   | Creates a stone wall that can be shaped.           |
+| 6th   | [[rangoric-srd/spells/Stoneskin\|Stoneskin]] (M)                                       | Ignore 10 points of damage per attack.             |
+| 7th   | [[rangoric-srd/spells/Earthquake\|Earthquake]]                                         | Intense tremor shakes 5-ft./level radius.          |
+| 7th   | [[rangoric-srd/spells/Elemental Body IV\|Elemental Body IV]] (M) (earth only)          | You become a Small to Huge elemental.              |
+| 8th   | [[rangoric-srd/spells/Iron Body\|Iron Body]]                                           | Your body becomes living iron.                     |
+| 9th   | [[rangoric-srd/spells/Elemental Swarm\|Elemental Swarm]] (cast as an earth spell only) | Summons multiple elementals.                       |

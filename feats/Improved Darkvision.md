@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Improved Darkvision
 
-Prerequisite: Darkvision.  
+Prerequisite: Darkvision.
 
 Benefit: The range of the character’s darkvision doubles. This feat does not stack with darkvision granted by magic items or nonpermanent magical effects.
 

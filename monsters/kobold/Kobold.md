@@ -41,37 +41,37 @@ tags: [rangoric, rangoric/monster]
 
 # Kobold
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Reptilian)
-  - **Hit Dice**: 1d10 (5 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 15 (+2 armor, +1 Dex, +1 natural, +1 size), touch 12, flat-footed 14
-  - **Base Attack**: +1; **CMB**: –1; **CMD**: 10
-  - **Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +1 melee (1d6–1) or [[rangoric-srd/equipment/weapons/Sling|sling]] +3 ranged (1d3–1)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +1 melee (1d6–1); or [[rangoric-srd/equipment/weapons/Sling|sling]] +3 ranged (1d3–1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., crafty, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-  - **Saves**: Fort +2, Ref +1, Will –1
-  - **Abilities**: Str 9, Dex 13, Con 10, Int 10, Wis 9, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +6, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +5
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Temperate underground or deep forest
-  - **Organization**: Solitary, gang (2–4), nest (5–30 plus equal number of noncombatants, 1 sergeant of 3rd level per 20 adults, and 1 leader of 4th–6th level), tribe (31–300 plus 35% noncombatants, 1 sergeant of 3rd level per 20 adults, 2 lieutenants of 4th level, 1 leader of 6th–8th level, and 5–16 dire rats), band (10–100 plus 100% noncombatants plus 1 3rd-level sergeant per 20 adults and 1 leader of 4th–6th level), or warband (10–24 plus 2–4 dire weasels)
-  - **Challenge Rating**: 1/4
-  - **Treasure**: NPC gear (leather armor, spear, sling, other treasure)
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: +0
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Reptilian)
+- **Hit Dice**: 1d10 (5 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 15 (+2 armor, +1 Dex, +1 natural, +1 size), touch 12, flat-footed 14
+- **Base Attack**: +1; **CMB**: –1; **CMD**: 10
+- **Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +1 melee (1d6–1) or [[rangoric-srd/equipment/weapons/Sling|sling]] +3 ranged (1d3–1)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +1 melee (1d6–1); or [[rangoric-srd/equipment/weapons/Sling|sling]] +3 ranged (1d3–1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., crafty, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
+- **Saves**: Fort +2, Ref +1, Will –1
+- **Abilities**: Str 9, Dex 13, Con 10, Int 10, Wis 9, Cha 8
+- **Skills**: [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +6, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +5
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Temperate underground or deep forest
+- **Organization**: Solitary, gang (2–4), nest (5–30 plus equal number of noncombatants, 1 sergeant of 3rd level per 20 adults, and 1 leader of 4th–6th level), tribe (31–300 plus 35% noncombatants, 1 sergeant of 3rd level per 20 adults, 2 lieutenants of 4th level, 1 leader of 6th–8th level, and 5–16 dire rats), band (10–100 plus 100% noncombatants plus 1 3rd-level sergeant per 20 adults and 1 leader of 4th–6th level), or warband (10–24 plus 2–4 dire weasels)
+- **Challenge Rating**: 1/4
+- **Treasure**: NPC gear (leather armor, spear, sling, other treasure)
+- **Alignment**: Usually lawful evil
+- **Advancement**: By character class
+- **Level Adjustment**: +0
 
 **Also in this entry:**
 
-  - Kobold Fighters: [[rangoric-srd/monsters/kobold/Kobold Sniper|Kobold Sniper]] (CR 1/2), [[rangoric-srd/monsters/kobold/Kobold Blade|Kobold Blade]] (CR 3)
-  - Kobold Sorcerers: [[rangoric-srd/monsters/kobold/Kobold Scalecaster|Kobold Scalecaster]] (CR 1/2), [[rangoric-srd/monsters/kobold/Kobold Guilecaster|Kobold Guilecaster]] (CR 5)
-  - Kobold Riders: [[rangoric-srd/monsters/kobold/Kobold Monster Wrangler|Kobold Monster Wrangler]] (CR 1), [[rangoric-srd/monsters/kobold/Kobold Battle Master|Kobold Battle Master]] (CR 6)
-  - Kobold Tricksters: [[rangoric-srd/monsters/kobold/Kobold Bomber|Kobold Bomber]] (CR 1), [[rangoric-srd/monsters/kobold/Kobold Master Trapper|Kobold Master Trapper]] (CR 4)
-  - Kobold Devilspeaker: [[rangoric-srd/monsters/kobold/Kobold Devilspeaker|Kobold Devilspeaker]] (CR 7)
-  - Kobold Leaders: [[rangoric-srd/monsters/kobold/Kobold Yapper|Kobold Yapper]] (CR 7), [[rangoric-srd/monsters/kobold/Kobold Chieftain|Kobold Chieftain]] (CR 8)
+- Kobold Fighters: [[rangoric-srd/monsters/kobold/Kobold Sniper|Kobold Sniper]] (CR 1/2), [[rangoric-srd/monsters/kobold/Kobold Blade|Kobold Blade]] (CR 3)
+- Kobold Sorcerers: [[rangoric-srd/monsters/kobold/Kobold Scalecaster|Kobold Scalecaster]] (CR 1/2), [[rangoric-srd/monsters/kobold/Kobold Guilecaster|Kobold Guilecaster]] (CR 5)
+- Kobold Riders: [[rangoric-srd/monsters/kobold/Kobold Monster Wrangler|Kobold Monster Wrangler]] (CR 1), [[rangoric-srd/monsters/kobold/Kobold Battle Master|Kobold Battle Master]] (CR 6)
+- Kobold Tricksters: [[rangoric-srd/monsters/kobold/Kobold Bomber|Kobold Bomber]] (CR 1), [[rangoric-srd/monsters/kobold/Kobold Master Trapper|Kobold Master Trapper]] (CR 4)
+- Kobold Devilspeaker: [[rangoric-srd/monsters/kobold/Kobold Devilspeaker|Kobold Devilspeaker]] (CR 7)
+- Kobold Leaders: [[rangoric-srd/monsters/kobold/Kobold Yapper|Kobold Yapper]] (CR 7), [[rangoric-srd/monsters/kobold/Kobold Chieftain|Kobold Chieftain]] (CR 8)
 
 Kobolds are creatures of the dark, found most commonly in enormous underground warrens or the dark corners of the forest where the sun is unable to reach. Due to their physical similarities, kobolds loudly proclaim themselves the scions of dragonkind, destined to rule the earth beneath the wings of their great god-cousins, but most dragons have little use for the obnoxious pests.
 

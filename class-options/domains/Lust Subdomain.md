@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Lust Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Charm Domain|Charm]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Charm Domain|Charm]] domain._
 
 ## Replacement Power
 
@@ -27,7 +27,7 @@ This power replaces the [[rangoric-srd/class-options/domains/Charm Domain#Grante
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 2nd | [[rangoric-srd/spells/Touch of Idiocy\|Touch of Idiocy]] | Subject takes 1d6 points of Int, Wis, and Cha damage. |
-| 4th | [[rangoric-srd/spells/Confusion\|Confusion]] | Subjects behave oddly for 1 round/level. |
+| Level | Spell                                                    | Brief Description                                     |
+| ----- | -------------------------------------------------------- | ----------------------------------------------------- |
+| 2nd   | [[rangoric-srd/spells/Touch of Idiocy\|Touch of Idiocy]] | Subject takes 1d6 points of Int, Wis, and Cha damage. |
+| 4th   | [[rangoric-srd/spells/Confusion\|Confusion]]             | Subjects behave oddly for 1 round/level.              |

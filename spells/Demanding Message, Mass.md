@@ -35,15 +35,15 @@ tags: [rangoric, rangoric/spell]
 
 # Demanding Message, Mass
 
-*Enchantment (Compulsion) \[LanguageDependent, MindAffecting\]*
+_Enchantment (Compulsion) \[LanguageDependent, MindAffecting\]_
 
-  - **Level**: Brd 6, Mes 6, Occ 6, Psy 6, Skd 6, Sor/Wiz 7, Wit 7
-  - **Components**: V, S, F
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Target**: One creature/level
-  - **Duration**: 10 minutes/level, then 1 hour/level or until completed (D); see text
-  - **Saving Throw**: Will negates (see text)
-  - **Spell Resistance**: Yes
+- **Level**: Brd 6, Mes 6, Occ 6, Psy 6, Skd 6, Sor/Wiz 7, Wit 7
+- **Components**: V, S, F
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Target**: One creature/level
+- **Duration**: 10 minutes/level, then 1 hour/level or until completed (D); see text
+- **Saving Throw**: Will negates (see text)
+- **Spell Resistance**: Yes
 
-This spell functions as [[rangoric-srd/spells/Demanding Message|demanding message]], except that you can issue one *[[rangoric-srd/spells/Suggestion|suggestion]]* to each of the spell's targets instead of just one. Each time you do so, it takes a standard action. You can issue a different *[[rangoric-srd/spells/Suggestion|suggestion]]* to each target.
+This spell functions as [[rangoric-srd/spells/Demanding Message|demanding message]], except that you can issue one _[[rangoric-srd/spells/Suggestion|suggestion]]_ to each of the spell's targets instead of just one. Each time you do so, it takes a standard action. You can issue a different _[[rangoric-srd/spells/Suggestion|suggestion]]_ to each target.

@@ -20,8 +20,8 @@ Setting and flavor text from the open content sources: worlds, places, peoples a
 
 ## Settings
 
-| Setting | Source | Note |
-| --- | --- | --- |
-| The fey realm (FaerieLand) | Bastion Press's *Faeries* | [[rangoric-srd/flavor/the-fey-realm/The Fey Realm\|The Fey Realm]] |
+| Setting                    | Source                    | Note                                                               |
+| -------------------------- | ------------------------- | ------------------------------------------------------------------ |
+| The fey realm (FaerieLand) | Bastion Press's _Faeries_ | [[rangoric-srd/flavor/the-fey-realm/The Fey Realm\|The Fey Realm]] |
 
 ![[rangoric-srd/flavor/Flavor Index.base]]

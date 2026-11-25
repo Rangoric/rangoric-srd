@@ -47,7 +47,7 @@ Its samples are the [[rangoric-srd/monsters/foo-creatures/Foo Dog|foo dog]] and 
 
 **[[rangoric-srd/monsters/abilities/Immunity|Immunity]] (Ex)**: A foo creature gains immunity to poison, disease, paralysis, and sleep. ^immunity
 
-**Paired Protectors (Su)**: When two or more foo creatures are within 30 feet of one another, they both gain the benefit of a *[[rangoric-srd/spells/Protection from Evil|protection from evil]]* spell. The caster level of this protection from evil effect is equal to the highest Hit Dice of the affected foo creatures. This effect can be dispelled, but if it is, a foo creature can reactivate it as a swift action. ^paired-protectors
+**Paired Protectors (Su)**: When two or more foo creatures are within 30 feet of one another, they both gain the benefit of a _[[rangoric-srd/spells/Protection from Evil|protection from evil]]_ spell. The caster level of this protection from evil effect is equal to the highest Hit Dice of the affected foo creatures. This effect can be dispelled, but if it is, a foo creature can reactivate it as a swift action. ^paired-protectors
 
 **Stony Defense (Su)**: A number of times per day equal to its Hit Dice, a foo creature can harden its skin to unyielding stone as an immediate action. It gains hardness 8 until the end of its next turn, but its speed is reduced by 10 feet for the same duration. ^stony-defense
 

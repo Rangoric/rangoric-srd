@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Deadly Range
 
-*A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Ex).*
+_A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Ex)._
 
 A ninja with this ninja trick increases the range at which she can deal sneak attack damage by 10 feet. A ninja can take this trick more than once. Its effects stack.

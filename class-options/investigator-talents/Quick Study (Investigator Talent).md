@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Quick Study
 
-*An [[rangoric-srd/classes/Investigator#^investigator-investigator-talent|investigator talent]] (Ex).*
+_An [[rangoric-srd/classes/Investigator#^investigator-investigator-talent|investigator talent]] (Ex)._
 
 An investigator can use his [[rangoric-srd/classes/Investigator#^investigator-studied-combat|studied combat]] ability as swift action instead of a standard action.

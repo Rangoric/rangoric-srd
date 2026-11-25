@@ -18,11 +18,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Basic Geokinesis
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Earth Element|earth]]
-  - **Type**: utility (Sp)
-  - **Level**: 1
-  - **Burn**: 0
+- **Element**: [[rangoric-srd/class-options/elements/Earth Element|earth]]
+- **Type**: utility (Sp)
+- **Level**: 1
+- **Burn**: 0
 
-You can move up to 5 pounds per kineticist level of rocks, loose earth, sand, clay, and other similar materials up to 15 feet as a move action. You can search earthen and stone areas from a distance as if using the *[[rangoric-srd/spells/Sift|sift]]* cantrip.
+You can move up to 5 pounds per kineticist level of rocks, loose earth, sand, clay, and other similar materials up to 15 feet as a move action. You can search earthen and stone areas from a distance as if using the _[[rangoric-srd/spells/Sift|sift]]_ cantrip.

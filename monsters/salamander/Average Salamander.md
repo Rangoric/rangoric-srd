@@ -38,30 +38,31 @@ change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
+
 # Average Salamander
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar, Fire)
-  - **Hit Dice**: 8d10+32 (76 hp)
-  - **Initiative**: +1
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 18 (+1 Dex, +7 natural), touch 11, flat-footed 17
-  - **Base Attack**: +8; **CMB**: +11 (+15 grapple); **CMD**: 22 (can't be tripped)
-  - **Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +11 melee (1d8+4/×3 plus 1d6 fire) or tail slap +11 melee (2d6+1 plus 1d6 fire and [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +11/+6 melee (1d8+4/×3 plus 1d6 fire) and tail slap +6 melee (2d6+1 plus 1d6 fire and [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 5 ft./5 ft. (10 ft. with tail)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d6+4 plus 1d6 fire), [[rangoric-srd/monsters/abilities/Heat|heat]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, vulnerability to cold
-  - **Saves**: Fort +10, Ref +7, Will +6
-  - **Abilities**: Str 16, Dex 13, Con 18, Int 14, Wis 15, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Craft|Craft]] (weaponsmithing) +17, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +13
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any (Elemental Plane of Fire)
-  - **Organization**: Solitary, pair, or cluster (3–5)
-  - **Challenge Rating**: 6
-  - **Treasure**: Standard (spear, other nonflammable treasure)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: 8–14 HD (Medium)
-  - **Level Adjustment**: +5
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar, Fire)
+- **Hit Dice**: 8d10+32 (76 hp)
+- **Initiative**: +1
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 18 (+1 Dex, +7 natural), touch 11, flat-footed 17
+- **Base Attack**: +8; **CMB**: +11 (+15 grapple); **CMD**: 22 (can't be tripped)
+- **Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +11 melee (1d8+4/×3 plus 1d6 fire) or tail slap +11 melee (2d6+1 plus 1d6 fire and [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +11/+6 melee (1d8+4/×3 plus 1d6 fire) and tail slap +6 melee (2d6+1 plus 1d6 fire and [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 5 ft./5 ft. (10 ft. with tail)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d6+4 plus 1d6 fire), [[rangoric-srd/monsters/abilities/Heat|heat]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, vulnerability to cold
+- **Saves**: Fort +10, Ref +7, Will +6
+- **Abilities**: Str 16, Dex 13, Con 18, Int 14, Wis 15, Cha 13
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Craft|Craft]] (weaponsmithing) +17, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +13
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any (Elemental Plane of Fire)
+- **Organization**: Solitary, pair, or cluster (3–5)
+- **Challenge Rating**: 6
+- **Treasure**: Standard (spear, other nonflammable treasure)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: 8–14 HD (Medium)
+- **Level Adjustment**: +5
 
 Salamanders are native to the Elemental Plane of Fire, where their legions of fierce warriors are much feared by the other inhabitants of the plane. Because some of the stronger elemental fire races enslave salamanders for their metalworking skill and fighting prowess, the salamanders hate the efreet and other inhabitants with a passion.
 

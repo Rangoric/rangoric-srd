@@ -35,16 +35,16 @@ tags: [rangoric, rangoric/spell]
 
 # Daylight
 
-*Evocation \[Light\]*
+_Evocation \[Light\]_
 
-  - **Level**: Brd 3, Clr 3, Drd 3, Hun 3, Inq 3, Mag 3, Occ 3, Pal 3, Sha 3, Skd 3, Sor/Wiz 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Object touched
-  - **Duration**: 10 min./level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Brd 3, Clr 3, Drd 3, Hun 3, Inq 3, Mag 3, Occ 3, Pal 3, Sha 3, Skd 3, Sor/Wiz 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Object touched
+- **Duration**: 10 min./level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 The object touched sheds light as bright as full daylight in a 60-foot radius, and dim light for an additional 60 feet beyond that. Creatures that take penalties in bright light also take them while within the radius of this magical light. Despite its name, this spell is not the equivalent of daylight for the purposes of creatures that are damaged or destroyed by bright light.
 

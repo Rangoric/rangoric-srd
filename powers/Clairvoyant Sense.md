@@ -32,7 +32,7 @@ Effect: Psionic sensor
 Duration: 1 min./level (D)  
 Saving Throw: None  
 Power Resistance: No  
-Power Points: 3  
+Power Points: 3
 
 You can see and hear a distant location almost as if you were there. You don’t need line of sight or line of effect, but the locale must be known-a place familiar to you or an obvious one, such as behind a door, around a corner, or in a grove of trees. Once you have selected the locale, the focus of your clairvoyant sense doesn’t move, but you can rotate it in all directions to view the area as desired. Unlike other scrying powers, this power does not allow psionically or supernaturally enhanced senses to work through it.
 

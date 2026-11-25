@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Shira
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Div, Evil, Extraplanar)
-  - **Hit Dice**: 12d10+84 (150 hp)
-  - **Initiative**: +11
-  - **Speed**: 50 ft. (10 squares)
-  - **Armor Class**: 27 (+7 Dex, +11 natural, –1 size), touch 16, flat-footed 20
-  - **Base Attack**: +12; **CMB**: +22 (+26 grapple); **CMD**: 39
-  - **Attack**: Bite +21 melee (1d8+9/19–20) or claw +21 melee (1d8+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +21 melee (1d8+9/19–20) and 2 claws +21 melee (1d8+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Consume Essence|Consume essence]], [[rangoric-srd/monsters/abilities/Dusty Pelt|dusty pelt]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +21, 1d8+9), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], true seeing, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron and good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and electricity 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23
-  - **Saves**: Fort +11, Ref +15, Will +14
-  - **Abilities**: Str 28, Dex 25, Con 25, Int 13, Wis 22, Cha 20
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +22, [[rangoric-srd/skills/Athletics|Athletics]] +24 (+32 jumping), [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +18
-  - **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
-  - **Environment**: Any (a neutral evil-aligned plane: [[rangoric-srd/rules/planes/Abaddon|Abaddon]])
-  - **Organization**: Solitary
-  - **Challenge Rating**: 12
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Div, Evil, Extraplanar)
+- **Hit Dice**: 12d10+84 (150 hp)
+- **Initiative**: +11
+- **Speed**: 50 ft. (10 squares)
+- **Armor Class**: 27 (+7 Dex, +11 natural, –1 size), touch 16, flat-footed 20
+- **Base Attack**: +12; **CMB**: +22 (+26 grapple); **CMD**: 39
+- **Attack**: Bite +21 melee (1d8+9/19–20) or claw +21 melee (1d8+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +21 melee (1d8+9/19–20) and 2 claws +21 melee (1d8+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Consume Essence|Consume essence]], [[rangoric-srd/monsters/abilities/Dusty Pelt|dusty pelt]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +21, 1d8+9), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], true seeing, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron and good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and electricity 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23
+- **Saves**: Fort +11, Ref +15, Will +14
+- **Abilities**: Str 28, Dex 25, Con 25, Int 13, Wis 22, Cha 20
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +22, [[rangoric-srd/skills/Athletics|Athletics]] +24 (+32 jumping), [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +18
+- **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
+- **Environment**: Any (a neutral evil-aligned plane: [[rangoric-srd/rules/planes/Abaddon|Abaddon]])
+- **Organization**: Solitary
+- **Challenge Rating**: 12
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Bestial stalkers, shiras live to hunt and feed. Resembling anthropomorphic lionesses, these divs use their powerful builds, keen senses, and deadly instincts to track the proudest mortals and slay the most formidable foes. They embody the deadly nature of the wilds and the dispassion with which beast and land might turn against mortals, delighting in proving to civilized beings how small and [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] they are in the face of a savage world.
 
@@ -74,7 +74,7 @@ Shiras speak Abyssal, Celestial and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 13th; concentration +18): Constant—*[[rangoric-srd/spells/True Seeing|true seeing]]*; At will—*[[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (self plus 50 lbs. of objects only); 3/day—*[[rangoric-srd/spells/Magic Circle against Good|magic circle against good]]*, *[[rangoric-srd/spells/Waves of Fatigue|waves of fatigue]]*; 1/day—[[rangoric-srd/monsters/abilities/Summon|summon]] (level 5, 1d2 pairakas or 1 shira 35%).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 13th; concentration +18): Constant—_[[rangoric-srd/spells/True Seeing|true seeing]]_; At will—_[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only); 3/day—_[[rangoric-srd/spells/Magic Circle against Good|magic circle against good]]_, _[[rangoric-srd/spells/Waves of Fatigue|waves of fatigue]]_; 1/day—[[rangoric-srd/monsters/abilities/Summon|summon]] (level 5, 1d2 pairakas or 1 shira 35%).
 
 **[[rangoric-srd/monsters/abilities/Consume Essence|Consume Essence]] (Su)**: A shira's deadliest attacks drain away a portion of its victim's essence. Whenever a shira hits with a coup de grace attack using its bite, or confirms a critical hit with its claws or bite, the target must succeed at a DC 23 Fortitude save or take 1d4 points of Constitution drain. The save is Constitution-based.
 

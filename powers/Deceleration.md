@@ -31,7 +31,7 @@ Target: One Medium or smaller creature
 Duration: 1 min./level  
 Saving Throw: Reflex negates  
 Power Resistance: Yes  
-Power Points: 1  
+Power Points: 1
 
 You warp space around an individual, hindering the subject’s ability to move. The subject’s speed (in any movement mode it possesses) is halved. A subsequent manifestation of deceleration on the subject does not further decrease its speed.
 

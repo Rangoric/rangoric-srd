@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Dopple
 
-The unique properties of *dopple* items make them particularly useful for shapechanging adventurers. Shields with this particular enchantment are always bucklers and *dopple* armors are always strange looking mismatched affairs (and are often mistaken for *patchwork* armors). These enchanted items change shape with their wearers, allowing both the armor bonus and the enhancement bonus of the item to be retained in all forms.
+The unique properties of _dopple_ items make them particularly useful for shapechanging adventurers. Shields with this particular enchantment are always bucklers and _dopple_ armors are always strange looking mismatched affairs (and are often mistaken for _patchwork_ armors). These enchanted items change shape with their wearers, allowing both the armor bonus and the enhancement bonus of the item to be retained in all forms.
 
-Strong transmutation; CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Polymorph Any Object|polymorph any object]]*; Price +2 bonus.
+Strong transmutation; CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Polymorph Any Object|polymorph any object]]_; Price +2 bonus.

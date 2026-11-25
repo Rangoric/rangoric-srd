@@ -34,15 +34,15 @@ tags: [rangoric, rangoric/spell]
 
 # Complex Hallucination
 
-*Illusion (Phantasm) \[MindAffecting\]*
+_Illusion (Phantasm) \[MindAffecting\]_
 
-  - **Level**: Brd 4, Mag 4, Med 3, Mes 4, Occ 4, Psy 4, Skd 4, Sor/Wiz 4, Wit 4
-  - **Components**: S
-  - **Casting Time**: 1 standard action
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Target**: One creature/level, no two of which can be more than 30 ft. apart
-  - **Duration**: Concentration + 3 rounds
-  - **Saving Throw**: Will disbelief
-  - **Spell Resistance**: Yes
+- **Level**: Brd 4, Mag 4, Med 3, Mes 4, Occ 4, Psy 4, Skd 4, Sor/Wiz 4, Wit 4
+- **Components**: S
+- **Casting Time**: 1 standard action
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Target**: One creature/level, no two of which can be more than 30 ft. apart
+- **Duration**: Concentration + 3 rounds
+- **Saving Throw**: Will disbelief
+- **Spell Resistance**: Yes
 
 This spell functions as [[rangoric-srd/spells/Audiovisual Hallucination|audiovisual hallucination]], except that the phantasm you create can also include olfactory, tactile, and thermal effects.

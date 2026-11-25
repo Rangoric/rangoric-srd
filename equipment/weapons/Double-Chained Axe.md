@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes, weapon-group/flails]
 
 # Double-Chained Axe
 
-*Exotic two-handed melee weapon (trip, disarm).* Cost 30 gp; Dmg 1d6/1d6 (S), 1d8/1d8 (M); Critical x3; Weight 20 lb.; Type Slashing. ^stats
+_Exotic two-handed melee weapon (trip, disarm)._ Cost 30 gp; Dmg 1d6/1d6 (S), 1d8/1d8 (M); Critical x3; Weight 20 lb.; Type Slashing. ^stats
 
 The double-chained axe is a long haft with a chain axe attached to either end. It may be used as a double weapon, but the user incurs all the normal attack penalties for fighting with two weapons, as if he were using a one-handed weapon and a light weapon. The double-chained axe may not be used as a double weapon if wielded in one hand.
 

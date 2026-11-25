@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Battle Monk
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 5d8+10 (32 hp)
-  - **Initiative**: +2
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 19 (+1 armor, +2 Dex, +1 dodge, +1 monk, +4 Wis), touch 18, flat-footed 16
-  - **Base Attack**: +3; **CMB**: +6; **CMD**: 22
-  - **Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +5 melee (1d8+1) or unarmed strike flurry of blows +5 melee (1d8+1) or [[rangoric-srd/equipment/weapons/Kama|kama]] +5 melee (1d6+1) or kama flurry of blows +5 melee (1d6+1) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +6 ranged (1d8/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +5 melee (1d8+1); or unarmed strike flurry of blows +5/+5 melee (1d8+1); or [[rangoric-srd/equipment/weapons/Kama|kama]] +5 melee (1d6+1); or kama flurry of blows +5/+5 melee (1d6+1); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +6 ranged (1d8/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (5/day, DC 16, fatigued)
-  - **Special Qualities**: [[rangoric-srd/classes/Monk#^monk-evasion|Evasion]], [[rangoric-srd/classes/Monk#^monk-fast-movement|fast movement]], [[rangoric-srd/classes/Monk#^monk-high-jump|high jump]], [[rangoric-srd/classes/Monk#^monk-ki-pool|ki pool]] (6 points, magic), [[rangoric-srd/classes/Monk#^monk-maneuver-training|maneuver training]], [[rangoric-srd/classes/Monk#^monk-slow-fall|slow fall]] 20 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease
-  - **Saves**: Fort +6, Ref +7, Will +9 (+2 vs. enchantment)
-  - **Abilities**: Str 13, Dex 14, Con 12, Int 10, Wis 18, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +7 (+16 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Deflect Arrows|Deflect Arrows]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Scorpion Style|Scorpion Style]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 4
-  - **Treasure**: NPC gear (combat gear: alchemist's fire, smokesticks (2); other gear: masterwork light crossbow with 10 bolts, kama, bracers of armor +1, cloak of resistance +1)
-  - **Alignment**: Lawful neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 5d8+10 (32 hp)
+- **Initiative**: +2
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 19 (+1 armor, +2 Dex, +1 dodge, +1 monk, +4 Wis), touch 18, flat-footed 16
+- **Base Attack**: +3; **CMB**: +6; **CMD**: 22
+- **Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +5 melee (1d8+1) or unarmed strike flurry of blows +5 melee (1d8+1) or [[rangoric-srd/equipment/weapons/Kama|kama]] +5 melee (1d6+1) or kama flurry of blows +5 melee (1d6+1) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +6 ranged (1d8/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +5 melee (1d8+1); or unarmed strike flurry of blows +5/+5 melee (1d8+1); or [[rangoric-srd/equipment/weapons/Kama|kama]] +5 melee (1d6+1); or kama flurry of blows +5/+5 melee (1d6+1); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +6 ranged (1d8/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (5/day, DC 16, fatigued)
+- **Special Qualities**: [[rangoric-srd/classes/Monk#^monk-evasion|Evasion]], [[rangoric-srd/classes/Monk#^monk-fast-movement|fast movement]], [[rangoric-srd/classes/Monk#^monk-high-jump|high jump]], [[rangoric-srd/classes/Monk#^monk-ki-pool|ki pool]] (6 points, magic), [[rangoric-srd/classes/Monk#^monk-maneuver-training|maneuver training]], [[rangoric-srd/classes/Monk#^monk-slow-fall|slow fall]] 20 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease
+- **Saves**: Fort +6, Ref +7, Will +9 (+2 vs. enchantment)
+- **Abilities**: Str 13, Dex 14, Con 12, Int 10, Wis 18, Cha 8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +7 (+16 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Deflect Arrows|Deflect Arrows]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Scorpion Style|Scorpion Style]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 4
+- **Treasure**: NPC gear (combat gear: alchemist's fire, smokesticks (2); other gear: masterwork light crossbow with 10 bolts, kama, bracers of armor +1, cloak of resistance +1)
+- **Alignment**: Lawful neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A battle monk is a [[rangoric-srd/monsters/human/Human|human]] with 5 levels of [[rangoric-srd/classes/Monk|monk]]. Battle monks are the instructors in fighting schools and monasteries, teaching the arts of agility and swift perfection to their students. They are also the honor guard for their masters, the messengers and emissaries of the school and its methods.
 

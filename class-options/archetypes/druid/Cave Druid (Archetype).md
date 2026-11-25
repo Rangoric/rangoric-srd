@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Cave Druid
 
-*A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Far from the green fields of the world above lies a lightless expanse beneath the surface. This darkling fairyland is not without beauty and natural wonders of its own, and a few druids seek to preserve this hidden realm and purge it of the fell horrors that creep up from below.
 
@@ -38,4 +38,4 @@ Far from the green fields of the world above lies a lightless expanse beneath th
 
 **Resist Subterranean Corruption (Ex)**: At 4th level, a cave druid gains a +2 bonus on saves against exceptional, supernatural, and spell-like abilities of oozes and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|aberrations]]. This ability replaces [[rangoric-srd/classes/Druid#^druid-resist-natures-lure|resist nature’s lure]].
 
-**Wild Shape (Su)**: A cave druid gains this [[rangoric-srd/classes/Druid#^druid-wild-shape|ability]] at 6th level, except that her effective druid level for this ability is equal to her druid level – 2. She cannot use wild shape to adopt a plant form. At 10th level, the cave druid can assume the form of a Small or Medium ooze as if using *[[rangoric-srd/spells/Beast Shape III|beast shape III]]*, and at 12th level that of a Tiny or Large ooze as if using *[[rangoric-srd/spells/Beast Shape IV|beast shape IV]]* (treating the ooze as if it were a magical beast without a natural armor bonus). When in ooze form, the cave druid has no discernible anatomy and is immune to poison, sneak attacks, and critical hits.
+**Wild Shape (Su)**: A cave druid gains this [[rangoric-srd/classes/Druid#^druid-wild-shape|ability]] at 6th level, except that her effective druid level for this ability is equal to her druid level – 2. She cannot use wild shape to adopt a plant form. At 10th level, the cave druid can assume the form of a Small or Medium ooze as if using _[[rangoric-srd/spells/Beast Shape III|beast shape III]]_, and at 12th level that of a Tiny or Large ooze as if using _[[rangoric-srd/spells/Beast Shape IV|beast shape IV]]_ (treating the ooze as if it were a magical beast without a natural armor bonus). When in ooze form, the cave druid has no discernible anatomy and is immune to poison, sneak attacks, and critical hits.

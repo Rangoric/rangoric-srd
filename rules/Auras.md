@@ -17,13 +17,13 @@ Practiced initiates can learn to pierce the veil between the Material Plane and 
 
 The aura permeates a living creature’s body and spirit, influencing its health and vitality while being influenced in turn by its disposition, sense of self and emotional state. A creature’s aura is thus many auras mixed into one whole. The emanations of the creature’s ki form its **health aura**. Thought and belief issuing from its soul suffuse the health aura with patterns that can be read as its **alignment aura**. The flashes of color flowing through the whole reveal its attitude and disposition, and are its **emotion aura**. Last, an aura might hold emanations of magical origin, its **magic aura**, usually the work of outside forces on the creature.
 
-Various spells detect parts of a creature’s or object’s aura. The *[[rangoric-srd/spells/Analyze Aura|analyze aura]]* spell and the [[rangoric-srd/skills/Perception#Read Aura|read aura]] occult skill unlock are the most thorough ways to assess a creature’s whole aura.
+Various spells detect parts of a creature’s or object’s aura. The _[[rangoric-srd/spells/Analyze Aura|analyze aura]]_ spell and the [[rangoric-srd/skills/Perception#Read Aura|read aura]] occult skill unlock are the most thorough ways to assess a creature’s whole aura.
 
 ## Alignment Aura
 
 A creature’s alignment aura reflects the true nature of its beliefs and inner soul. It looks like a churning mist suffusing the health aura, and close study of the currents in this mist can identify the creature’s alignment. Objects or places infused with powerful magic attuned to an alignment (such as the blood-splattered altar where a debased cult holds its rituals, or a gilded cup holding the tears of a long-dead saint) sometimes have alignment auras too.
 
-An alignment aura’s strength depends on the creature’s Hit Dice or the magic item’s caster level, as described in *[[rangoric-srd/spells/Detect Evil|detect evil]]*.
+An alignment aura’s strength depends on the creature’s Hit Dice or the magic item’s caster level, as described in _[[rangoric-srd/spells/Detect Evil|detect evil]]_.
 
 ## Emotion Aura
 
@@ -35,20 +35,20 @@ Since emotion auras are part of the health aura, objects and undead, which aren�
 
 Someone trained in auratic techniques sees an interplay of colors within a creature’s aura, and understanding this emotional spectrum can reveal a great deal about the creature. The colors blend and shift constantly as the creature’s thoughts, emotions and surroundings change, so a reading is a snapshot of its feelings and general character at one moment, and might not be accurate days or even minutes later.
 
-| Emotion | Color | What it shows |
-| --- | --- | --- |
-| Anger | Bright red | Bright red flashes, usually on a field of black. The more selfish the anger, the more the red is tinged with brown. Righteous indignation, anger for what the creature thinks a just cause, shows as lightning-shaped flashes of brilliant vermilion. |
-| Deceit | Oily green | Deceit and cunning, which makes spells like *analyze aura* very useful in interrogations. |
-| Faith | Blue | Religious thought, emotion and feeling. The hue varies with the nature of the sentiment, its basis in tolerance or prejudice, and its degree of self-interest: the lighter the tone, the more altruistic and kindly the feeling. Deep, dark violet shows religious belief twisted toward selfish or malevolent ends. |
-| Fear | Livid gray | The colors of a frightened creature’s aura fade away, leaving a livid gray cloud. Some overwhelmingly evil creatures, particularly undead, exude a fear aura whose tendrils reach several feet toward nearby creatures, bringing an oppressive malaise to their surroundings. |
-| Flexibility | Emerald green | Versatility, adaptability and a willingness to please. Though green usually goes with deception, here it means compromise and low deceit: going along for the greater good despite personal misgivings or other preferences. |
-| Greed | Brown-red | A dull brown-red, nearly the color of rust, suggests avarice and greed, usually in parallel bars across the creature’s body. Greenish brown tinged with red flashes shows jealousy. |
-| Hatred | Black | Thick black clouds show hatred and malice. When a creature is overcome with passionate anger, dark images twist and turn within the cloudy aura like ghostly snakes swimming through smoke. |
-| Intellect | Golden | Intellect. Aimed at lower, personal ambitions, the hue tends toward deep, dull shades; it glows brilliantly as the creature mixes spiritual illumination with intelligence. |
-| Love | Scarlet | Among the loveliest hues, ranging from the rose of selfless love for another to the dull, heavy scarlet tinged with greed’s brown of selfish love concerned with how much it gets back. A brilliant rose tinged with lilac shows spiritual love for all creatures. |
-| Melancholy | Gray lines | A gloomy series of dark gray, parallel vertical lines conveys depression or deep melancholy. Like the brown bars of greed, the gray bars of melancholy suggest an emotional prison. |
-| Passion | Blood red | Animal passions and unconscious instinct. As a creature sleeps, this hue tends to take over its aura as its visceral nature comes forward while its mind wanders the Dimension of Dreams. |
-| Pride | Orange | Pride and ambition, varying in hue as they are flavored by jealous competition (green), fear of falling behind (pale gray) or self-love (dull crimson). |
+| Emotion     | Color         | What it shows                                                                                                                                                                                                                                                                                                        |
+| ----------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Anger       | Bright red    | Bright red flashes, usually on a field of black. The more selfish the anger, the more the red is tinged with brown. Righteous indignation, anger for what the creature thinks a just cause, shows as lightning-shaped flashes of brilliant vermilion.                                                                |
+| Deceit      | Oily green    | Deceit and cunning, which makes spells like _analyze aura_ very useful in interrogations.                                                                                                                                                                                                                            |
+| Faith       | Blue          | Religious thought, emotion and feeling. The hue varies with the nature of the sentiment, its basis in tolerance or prejudice, and its degree of self-interest: the lighter the tone, the more altruistic and kindly the feeling. Deep, dark violet shows religious belief twisted toward selfish or malevolent ends. |
+| Fear        | Livid gray    | The colors of a frightened creature’s aura fade away, leaving a livid gray cloud. Some overwhelmingly evil creatures, particularly undead, exude a fear aura whose tendrils reach several feet toward nearby creatures, bringing an oppressive malaise to their surroundings.                                        |
+| Flexibility | Emerald green | Versatility, adaptability and a willingness to please. Though green usually goes with deception, here it means compromise and low deceit: going along for the greater good despite personal misgivings or other preferences.                                                                                         |
+| Greed       | Brown-red     | A dull brown-red, nearly the color of rust, suggests avarice and greed, usually in parallel bars across the creature’s body. Greenish brown tinged with red flashes shows jealousy.                                                                                                                                  |
+| Hatred      | Black         | Thick black clouds show hatred and malice. When a creature is overcome with passionate anger, dark images twist and turn within the cloudy aura like ghostly snakes swimming through smoke.                                                                                                                          |
+| Intellect   | Golden        | Intellect. Aimed at lower, personal ambitions, the hue tends toward deep, dull shades; it glows brilliantly as the creature mixes spiritual illumination with intelligence.                                                                                                                                          |
+| Love        | Scarlet       | Among the loveliest hues, ranging from the rose of selfless love for another to the dull, heavy scarlet tinged with greed’s brown of selfish love concerned with how much it gets back. A brilliant rose tinged with lilac shows spiritual love for all creatures.                                                   |
+| Melancholy  | Gray lines    | A gloomy series of dark gray, parallel vertical lines conveys depression or deep melancholy. Like the brown bars of greed, the gray bars of melancholy suggest an emotional prison.                                                                                                                                  |
+| Passion     | Blood red     | Animal passions and unconscious instinct. As a creature sleeps, this hue tends to take over its aura as its visceral nature comes forward while its mind wanders the Dimension of Dreams.                                                                                                                            |
+| Pride       | Orange        | Pride and ambition, varying in hue as they are flavored by jealous competition (green), fear of falling behind (pale gray) or self-love (dull crimson).                                                                                                                                                              |
 
 ## Health Aura
 
@@ -58,4 +58,4 @@ A creature’s health aura is a direct picture of the vital force flowing within
 
 Magic auras are usually the result of outside forces working on an object, creature or place. Each magical effect swirls together with the others in the greater aura but stays distinct, so it’s possible to single out one effect within the aura, for example to dispel one magical effect and leave the others intact.
 
-Other magic auras come from a creature’s own supernatural abilities, and can affect those who come too close. Such auras (such as a dragon’s frightful presence) often force creatures to attempt saving throws to resist them. For more on magic auras, see *[[rangoric-srd/spells/Detect Magic|detect magic]]*.
+Other magic auras come from a creature’s own supernatural abilities, and can affect those who come too close. Such auras (such as a dragon’s frightful presence) often force creatures to attempt saving throws to resist them. For more on magic auras, see _[[rangoric-srd/spells/Detect Magic|detect magic]]_.

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Hobgoblin Fighter
 
-*A [[rangoric-srd/races/Hobgoblin|hobgoblin]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Fighter#^fighter-class-bonuses|fighter]] level.*
+_A [[rangoric-srd/races/Hobgoblin|hobgoblin]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Fighter#^fighter-class-bonuses|fighter]] level._
 
 Add a +1/2 circumstance bonus on critical hit confirmation rolls with a weapon of the fighter's choice (maximum bonus +4). This bonus does not stack with [[rangoric-srd/feats/Critical Focus|Critical Focus]].

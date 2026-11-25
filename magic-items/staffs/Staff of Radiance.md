@@ -21,10 +21,10 @@ tags: [rangoric, rangoric/magic-item]
 
 # Staff of Radiance
 
-This silver-tipped willow staff constantly emits light, as if from a *[[rangoric-srd/spells/Light|light]]* spell—the radiance is emitted from the staff's metallic end and flickers as if with flame. The staff's wielder can deactivate or activate this glowing light as a swift action. In addition, a *staff of radiance* allows use of the following spells:
+This silver-tipped willow staff constantly emits light, as if from a _[[rangoric-srd/spells/Light|light]]_ spell—the radiance is emitted from the staff's metallic end and flickers as if with flame. The staff's wielder can deactivate or activate this glowing light as a swift action. In addition, a _staff of radiance_ allows use of the following spells:
 
-- *[[rangoric-srd/spells/Glitterdust|Glitterdust]]* (1 charge)
-- *[[rangoric-srd/spells/Daylight|Daylight]]* (2 charges)
-- *[[rangoric-srd/spells/Searing Light|Searing light]]* (2 charges)
+- _[[rangoric-srd/spells/Glitterdust|Glitterdust]]_ (1 charge)
+- _[[rangoric-srd/spells/Daylight|Daylight]]_ (2 charges)
+- _[[rangoric-srd/spells/Searing Light|Searing light]]_ (2 charges)
 
-Moderate evocation; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Daylight|daylight]]*, *[[rangoric-srd/spells/Glitterdust|glitterdust]]*, *[[rangoric-srd/spells/Light|light]]*, *[[rangoric-srd/spells/Searing Light|searing light]]*; Price 23,200 gp; Cost 11,600 gp; Weight 5 lbs.
+Moderate evocation; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Daylight|daylight]]_, _[[rangoric-srd/spells/Glitterdust|glitterdust]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Searing Light|searing light]]_; Price 23,200 gp; Cost 11,600 gp; Weight 5 lbs.

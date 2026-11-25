@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/thrown]
 
 # Net
 
-*Exotic ranged weapon.* Cost 20 gp; Range Increment 10 ft.; Weight 6 lb. ^stats
+_Exotic ranged weapon._ Cost 20 gp; Range Increment 10 ft.; Weight 6 lb. ^stats
 
 A net is used to entangle enemies. When you throw a net, you make a ranged touch attack against your target. A net’s maximum range is 10 feet. If you hit, the target is entangled. An entangled creature takes a –2 penalty on attack rolls and a –4 penalty on Dexterity, can move at only half speed, and cannot charge or run. If you control the trailing rope by succeeding on an opposed Strength check while holding it, the entangled creature can move only within the limits that the rope allows. If the entangled creature attempts to cast a spell, it must make a DC 15 Concentration check or be unable to cast the spell. ^net
 

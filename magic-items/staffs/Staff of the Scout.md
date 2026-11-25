@@ -23,8 +23,8 @@ tags: [rangoric, rangoric/magic-item]
 
 This staff is carefully crafted from the branches of a tree, still intertwined as they grew and crowned with living leaves. The staff allows use of the following spells:
 
-- *[[rangoric-srd/spells/Know Direction|Know direction]]* (1 charge)
-- *[[rangoric-srd/spells/Pass without Trace|Pass without trace]]* (1 charge)
-- *[[rangoric-srd/spells/Summon Nature’s Ally I|Summon nature's ally I]]* (2 charges)
+- _[[rangoric-srd/spells/Know Direction|Know direction]]_ (1 charge)
+- _[[rangoric-srd/spells/Pass without Trace|Pass without trace]]_ (1 charge)
+- _[[rangoric-srd/spells/Summon Nature’s Ally I|Summon nature's ally I]]_ (2 charges)
 
-Moderate conjuration; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Know Direction|know direction]]*, *[[rangoric-srd/spells/Pass without Trace|pass without trace]]*, *[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature's ally I]]*; Price 9,600 gp; Cost 4,800 gp; Weight 4 lbs.
+Moderate conjuration; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Know Direction|know direction]]_, _[[rangoric-srd/spells/Pass without Trace|pass without trace]]_, _[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature's ally I]]_; Price 9,600 gp; Cost 4,800 gp; Weight 4 lbs.

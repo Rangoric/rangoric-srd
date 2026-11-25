@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Phantom Fungus
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 4d8+12 (30 hp)
-  - **Initiative**: +0
-  - **Speed**: 20 ft. (4 squares), climb 20 ft.
-  - **Armor Class**: 15 (+5 natural), touch 10, flat-footed 15
-  - **Base Attack**: +3; **CMB**: +5; **CMD**: 15 (17 vs. trip)
-  - **Attack**: Bite +5 melee (2d6+3)
-  - **Full Attack**: Bite +5 melee (2d6+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., phantom flesh, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-  - **Saves**: Fort +7, Ref +1, Will +1
-  - **Abilities**: Str 15, Dex 10, Con 16, Int 2, Wis 11, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +7
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Any underground
-  - **Organization**: Solitary or grove (2–5)
-  - **Challenge Rating**: 3
-  - **Treasure**: Incidental
-  - **Alignment**: Always neutral
-  - **Advancement**: 3–4 HD (Medium); 5–6 HD (Large)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 4d8+12 (30 hp)
+- **Initiative**: +0
+- **Speed**: 20 ft. (4 squares), climb 20 ft.
+- **Armor Class**: 15 (+5 natural), touch 10, flat-footed 15
+- **Base Attack**: +3; **CMB**: +5; **CMD**: 15 (17 vs. trip)
+- **Attack**: Bite +5 melee (2d6+3)
+- **Full Attack**: Bite +5 melee (2d6+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., phantom flesh, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
+- **Saves**: Fort +7, Ref +1, Will +1
+- **Abilities**: Str 15, Dex 10, Con 16, Int 2, Wis 11, Cha 9
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +7
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Any underground
+- **Organization**: Solitary or grove (2–5)
+- **Challenge Rating**: 3
+- **Treasure**: Incidental
+- **Alignment**: Always neutral
+- **Advancement**: 3–4 HD (Medium); 5–6 HD (Large)
+- **Level Adjustment**: —
 
 A phantom fungus is a tripedal carnivorous plant that roams the vast and deep underground caverns of the world. It wanders in search of food, using its rootlike feet to detect movement along the cavern floors and the sensitive tendrils surrounding its mouth to pinpoint prey.
 

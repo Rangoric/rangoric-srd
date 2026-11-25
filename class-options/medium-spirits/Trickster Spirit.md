@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Trickster Spirit
 
-*A legend of [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirits]] for the [[rangoric-srd/classes/Medium (Class)|medium]].* A trickster spirit is a savvy and manipulative master of skills.
+_A legend of [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirits]] for the [[rangoric-srd/classes/Medium (Class)|medium]]._ A trickster spirit is a savvy and manipulative master of skills.
 
 **Spirit Bonus**: When you channel a trickster, your spirit bonus applies on Dexterity checks, skill checks, and Reflex saves. ^trickster-spirit-bonus
 
@@ -37,4 +37,4 @@ tags: [rangoric, rangoric/class-option]
 
 **Transfer Magic (Greater, Su)**: You can allow the trickster to gain 1 point of influence over you to make a melee touch attack against another creature as a standard action. If the attack succeeds, you randomly steal one of the harmless spells of the highest spell level active on that creature, ending the effect for the original creature and gaining all remaining duration for yourself. This ability does not work on personal-range or instantaneous- or permanent-duration spells. ^transfer-magic
 
-**Legendary Trickster (Supreme, Su)**: Once per day, instead of rolling for a skill check, you can choose your d20 result. Additionally, you gain the ability to change form at will as if using *[[rangoric-srd/spells/Polymorph, Greater|greater polymorph]]*, except that you can mimic the form of a specific individual. ^legendary-trickster
+**Legendary Trickster (Supreme, Su)**: Once per day, instead of rolling for a skill check, you can choose your d20 result. Additionally, you gain the ability to change form at will as if using _[[rangoric-srd/spells/Polymorph, Greater|greater polymorph]]_, except that you can mimic the form of a specific individual. ^legendary-trickster

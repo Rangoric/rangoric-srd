@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/weapon]
 
 # Atlatl Dart
 
-*Ammunition.* Cost 1 gp; Weight 2 lb. ^stats
+_Ammunition._ Cost 1 gp; Weight 2 lb. ^stats
 
 An atlatl dart is the equivalent of a [[rangoric-srd/equipment/weapons/Javelin|javelin]] except it has fletching. If thrown without an atlatl, treat it as a [[rangoric-srd/equipment/weapons/Javelin|javelin]].

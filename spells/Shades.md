@@ -15,8 +15,8 @@ tags: [rangoric, rangoric/spell]
 
 # Shades
 
-*Illusion (Shadow)*
+_Illusion (Shadow)_
 
-  - **Level**: Sor/Wiz 9
+- **Level**: Sor/Wiz 9
 
 This spell functions like [[rangoric-srd/spells/Shadow Conjuration|shadow conjuration]], except that it mimics sorcerer and wizard conjuration spells of 8th level or lower. The illusory conjurations created deal four-fifths (80%) damage to nonbelievers, and nondamaging effects are 80% likely to work against nonbelievers.

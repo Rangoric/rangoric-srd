@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Skinstitch
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
-  - **Hit Dice**: 4d10+30 (52 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 16 (+7 natural, –1 size), touch 9, flat-footed 16
-  - **Base Attack**: +4; **CMB**: +9; **CMD**: 19
-  - **Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +7 melee (2d6+4/19–20) or slam +7 melee (2d6+4)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +7 melee (2d6+4/19–20) and slam +2 melee (2d6+4)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Nest|nest]], [[rangoric-srd/monsters/abilities/Repair|repair]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10, vulnerable to fire
-  - **Saves**: Fort +1, Ref +1, Will +1
-  - **Abilities**: Str 19, Dex 10, Con —, Int —, Wis 11, Cha 1
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Any land
-  - **Organization**: Solitary, hive (1 plus 1 swarm), or gang (2–4)
-  - **Challenge Rating**: 5
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
+- **Hit Dice**: 4d10+30 (52 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 16 (+7 natural, –1 size), touch 9, flat-footed 16
+- **Base Attack**: +4; **CMB**: +9; **CMD**: 19
+- **Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +7 melee (2d6+4/19–20) or slam +7 melee (2d6+4)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +7 melee (2d6+4/19–20) and slam +2 melee (2d6+4)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Nest|nest]], [[rangoric-srd/monsters/abilities/Repair|repair]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10, vulnerable to fire
+- **Saves**: Fort +1, Ref +1, Will +1
+- **Abilities**: Str 19, Dex 10, Con —, Int —, Wis 11, Cha 1
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Any land
+- **Organization**: Solitary, hive (1 plus 1 swarm), or gang (2–4)
+- **Challenge Rating**: 5
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A skinstitch is a crude construct made of cloth, leather, hides, and skins sewn together into a roughly ogre-like shape and stuffed with hay. Skinstitches are usually created by a spellcaster lacking the power, talent, or gold to craft a flesh golem.
 

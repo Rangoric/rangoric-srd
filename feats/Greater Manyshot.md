@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, fighter-bonus]
 
 # Greater Manyshot
 
-You are skilled at firing many arrows at once, even at different opponents.  
+You are skilled at firing many arrows at once, even at different opponents.
 
 Prerequisites: Dex 17, [[rangoric-srd/feats/Manyshot|Manyshot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], base attack bonus +6.
 

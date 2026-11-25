@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Resiliency
 
-*An [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-judgment|inquisitor’s judgment]].*
+_An [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-judgment|inquisitor’s judgment]]._
 
 This judgment makes the inquisitor resistant to harm, granting [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|DR]] 1/magic. This DR increases by 1 for every five levels she possesses. At 10th level, this DR changes from magic to an alignment (chaotic, evil, good, or lawful) that is opposite the inquisitor’s. If she is neutral, the inquisitor does not receive this increase.

@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 
 # Swordbreaker Dagger
 
-*Exotic light melee weapon (disarm).* Cost 10 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Weight 3 lb.; Type Slashing. ^stats
+_Exotic light melee weapon (disarm)._ Cost 10 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Weight 3 lb.; Type Slashing. ^stats
 
 You can use this dagger to [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] or [[rangoric-srd/combat/Combat Maneuvers#Sunder|sunder]] enemy blades by catching them in the grooves on the back of the blade and using your weapon as a lever. If you are proficient with this weapon, add +4 on your [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] or [[rangoric-srd/combat/Combat Maneuvers#Sunder|sunder]] attempts against bladed weapons.

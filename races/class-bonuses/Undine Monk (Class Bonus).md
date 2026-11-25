@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Undine Monk
 
-*An [[rangoric-srd/races/Undine|undine]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Monk#^monk-class-bonuses|monk]] or [[rangoric-srd/classes/Unchained Monk#^unchained-monk-class-bonuses|unchained monk]] level.*
+_An [[rangoric-srd/races/Undine|undine]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Monk#^monk-class-bonuses|monk]] or [[rangoric-srd/classes/Unchained Monk#^unchained-monk-class-bonuses|unchained monk]] level._
 
 Add +1 to the monk's [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] when resisting a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] and +1/3 to the number of [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning attacks]] he can attempt per day.

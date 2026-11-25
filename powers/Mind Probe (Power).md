@@ -36,7 +36,7 @@ Telepathy (Charm) \[Mind-Affecting\]
 **Duration:** 1 round/level (D)  
 **Saving Throw:** Will partial; see text  
 **Power Resistance:** Yes  
-**Power Points:** 9  
+**Power Points:** 9
 
 All the subject’s memories and knowledge are accessible to you, from memories deep below the surface to those still easily called to mind. You can learn the answer to one question per round, to the best of the subject’s knowledge. If the subject succeeds on a Will save, it is not required to answer the question; however, making a save does not end the power. You can ask the subject a new question (or the same question) in subsequent rounds for as long as the power’s duration persists.
 

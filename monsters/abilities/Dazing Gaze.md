@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Dazing Gaze
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “dazing gaze”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “dazing gaze”, on the Special Attacks line.
 
 A cephalophore can make a gaze attack that affects all seeing creatures within a 60-foot radius. These creatures must succeed at a DC 16 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round. Creatures that successfully save are instead [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1 round. This is a mind-affecting fear effect, and the save DC is Wisdom-based. The [[rangoric-srd/monsters/Cephalophore|cephalophore]] has it.

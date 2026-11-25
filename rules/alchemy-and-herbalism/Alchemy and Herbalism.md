@@ -18,6 +18,7 @@ Alchemy and herbalism make special substances without magic, or alongside it. Al
 ## Who Knows What
 
 One of the confusions among players and GMs alike are the similarities in general use (both in fantasy literature and in games) among herbalists, apothecaries, botanists or naturalists, and healers who use herbs instead of divine energies. Here are the distinctions in a nutshell (along with the core skill for each subset, in parentheses after the role’s name):
+
 - An herbalist ([[rangoric-srd/skills/Profession|Profession]] (herbalist)) has a broad range of knowledge about all plants and how to prepare herbal creations from them for a wide variety of purposes. They can prepare herbal remedies and curatives like apothecaries, but they can also create sleep powders or know which roots will calm an enraged barbarian. Lastly, herbalists don’t often become active adventurers
 - In contrast, a botanist (Nature) or a naturalist (Nature) only knows how to identify plants, what they look like, how and where they grow, and whether or not the plants are edible, poisonous, or decorative. They cannot produce any herbal remedies or potions, though they might know how to dry and preserve plants in a pinch.
 - An apothecary ([[rangoric-srd/skills/Profession|Profession]] (apothecary)) limits her herbalism knowledge to the medicinal properties and uses of all plants (as well as a few limited uses of animal products). Unlike the healer, whose skill use is tied to active healing, an apothecary’s skill is in making medicines and selling them to healers.

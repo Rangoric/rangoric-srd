@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Devastating Maw
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “devastating maw”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “devastating maw”, on the Special Attacks line.
 
 A dossenus' bite attack counts as adamantine for the purposes of overcoming DR and bypassing hardness. The [[rangoric-srd/monsters/Dossenus|dossenus]] has it.

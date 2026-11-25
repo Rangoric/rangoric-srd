@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Cauldron
 
-*A [[rangoric-srd/classes/Witch#^witch-hex|hex]] (Ex).*
+_A [[rangoric-srd/classes/Witch#^witch-hex|hex]] (Ex)._
 
 The witch receives [[rangoric-srd/feats/Brew Potion|Brew Potion]] as a bonus feat and a +4 insight bonus on [[rangoric-srd/skills/Craft|Craft]] (alchemy) checks.

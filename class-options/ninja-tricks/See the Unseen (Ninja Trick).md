@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # See the Unseen
 
-*A [[rangoric-srd/classes/Ninja#^ninja-master-tricks|master trick]] (Su).*
+_A [[rangoric-srd/classes/Ninja#^ninja-master-tricks|master trick]] (Su)._
 
-A ninja with this trick learns how to see that which cannot be seen. As a swift action, the ninja can cast *[[rangoric-srd/spells/See Invisibility|see invisibility]]*, using her level as the caster level. Each use of this ability uses up 1 ki point.
+A ninja with this trick learns how to see that which cannot be seen. As a swift action, the ninja can cast _[[rangoric-srd/spells/See Invisibility|see invisibility]]_, using her level as the caster level. Each use of this ability uses up 1 ki point.

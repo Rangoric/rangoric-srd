@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Clockwork Goliath
 
-  - Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]] (Clockwork)
-  - **Hit Dice**: 28d10+60 (214 hp)
-  - **Initiative**: +9
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 35 (+5 Dex, +2 dodge, +22 natural, –4 size), touch 13, flat-footed 28
-  - **Base Attack**: +28; **CMB**: +49; **CMD**: 66
-  - **Attack**: Slam +41 melee (3d6+17) or cannon +29 ranged (6d6/×4)
-  - **Full Attack**: 4 slams +41 melee (3d6+17); or cannon +29/+24/+19/+14 ranged (6d6/×4)
-  - **Space/Reach**: 20 ft./20 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Self-Destruction (Clockwork Goliath)|Self-destruction]], [[rangoric-srd/monsters/abilities/Trample|trample]] (3d6+25, DC 41)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], swift reactions, winding, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/adamantine, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], vulnerable to electricity
-  - **Saves**: Fort +9, Ref +16, Will +9
-  - **Abilities**: Str 45, Dex 20, Con —, Int —, Wis 11, Cha 1
-  - **Skills**: —
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, or siege (3–6)
-  - **Challenge Rating**: 19
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]] (Clockwork)
+- **Hit Dice**: 28d10+60 (214 hp)
+- **Initiative**: +9
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 35 (+5 Dex, +2 dodge, +22 natural, –4 size), touch 13, flat-footed 28
+- **Base Attack**: +28; **CMB**: +49; **CMD**: 66
+- **Attack**: Slam +41 melee (3d6+17) or cannon +29 ranged (6d6/×4)
+- **Full Attack**: 4 slams +41 melee (3d6+17); or cannon +29/+24/+19/+14 ranged (6d6/×4)
+- **Space/Reach**: 20 ft./20 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Self-Destruction (Clockwork Goliath)|Self-destruction]], [[rangoric-srd/monsters/abilities/Trample|trample]] (3d6+25, DC 41)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], swift reactions, winding, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/adamantine, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], vulnerable to electricity
+- **Saves**: Fort +9, Ref +16, Will +9
+- **Abilities**: Str 45, Dex 20, Con —, Int —, Wis 11, Cha 1
+- **Skills**: —
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
+- **Environment**: Any
+- **Organization**: Solitary, pair, or siege (3–6)
+- **Challenge Rating**: 19
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The thunderous clockwork goliath is easily recognized as the epitome of technology created to destroy. The exact nature of a clockwork goliath's “hands” varies—they all resolve as slam attacks in melee combat, though.
 
@@ -75,4 +75,4 @@ The clockwork goliath towers over most creatures and buildings; standing at a he
 
 ### Construction
 
-CL 18th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/feats/Gunsmithing|Gunsmithing]], *[[rangoric-srd/spells/Animate Objects|animate objects]]*, *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, and *[[rangoric-srd/spells/Limited Wish|limited wish]]*, creator must be at least caster level 18th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 25; Price 300,000 gp; Cost 160,000 gp.
+CL 18th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/feats/Gunsmithing|Gunsmithing]], _[[rangoric-srd/spells/Animate Objects|animate objects]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, and _[[rangoric-srd/spells/Limited Wish|limited wish]]_, creator must be at least caster level 18th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 25; Price 300,000 gp; Cost 160,000 gp.

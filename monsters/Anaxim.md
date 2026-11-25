@@ -63,7 +63,7 @@ Organization: Solitary, binary (pair), or command line (2-5 anaxims and 5-12 iro
 Challenge Rating: 22     
 Treasure: Standard     
 Alignment: Always lawful neutral     
-Advancement: 39-48 HD (Large); 49-55 HD (Huge); 56-70 HD (Gargantuan); 71-140 HD (Colossal)    
+Advancement: 39-48 HD (Large); 49-55 HD (Huge); 56-70 HD (Gargantuan); 71-140 HD (Colossal)  
 
 An anaxim’s natural weapons are treated as epic and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
@@ -74,9 +74,9 @@ The save DC is Constitution-based
 
 Rend (Ex): If the anaxim hits with both spinning blades, it slices particularly well. This attack automatically deals an additional 4d6+18 points of damage.
 
-Spell-Like Abilities: Caster level 22nd. The save DCs are Charisma-based.  
+Spell-Like Abilities: Caster level 22nd. The save DCs are Charisma-based.
 
-At will - [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Displacement|displacement]] (DC 18), [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]] (DC 19), [[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]].  
+At will - [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Displacement|displacement]] (DC 18), [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]] (DC 19), [[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]].
 
 Summon Iron Golem (Sp): An anaxim can summon an [[rangoric-srd/monsters/golem/Iron Golem|iron golem]] up to four times per day.
 

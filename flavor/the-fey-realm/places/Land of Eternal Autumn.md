@@ -24,12 +24,12 @@ Located on the forested slopes of the Stormking Mountains between the Dark Fores
 
 **Seasons:** Like the other Eternal lands, their namesake season dominates their annual cycle. Spring goes nearly unnoticed, while the summers of the region are no warmer than early autumn, and the winters are milder than those experienced elsewhere.
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* Those who live in the Land of Eternal Autumn live a dangerous life, surrounded by harsh terrain and hostile neighbors. War is not merely a way of life—it often spells the difference between life and death.
+_Common:_ Those who live in the Land of Eternal Autumn live a dangerous life, surrounded by harsh terrain and hostile neighbors. War is not merely a way of life—it often spells the difference between life and death.
 
-*Uncommon:* -
+_Uncommon:_ -
 
-*Rare:* The Wild Hunt calls the Land of Eternal Autumn home and is found in this region more than any other.
+_Rare:_ The Wild Hunt calls the Land of Eternal Autumn home and is found in this region more than any other.
 
-*Obscure:* Eons ago, the now exiled fey of Between called the Lands of Eternal Autumn their home.
+_Obscure:_ Eons ago, the now exiled fey of Between called the Lands of Eternal Autumn their home.

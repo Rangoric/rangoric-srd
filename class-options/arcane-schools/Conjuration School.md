@@ -15,11 +15,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Conjuration School
 
-*An [[rangoric-srd/classes/Wizard#^wizard-arcane-school|arcane school]].*
+_An [[rangoric-srd/classes/Wizard#^wizard-arcane-school|arcane school]]._
 
 The conjurer focuses on the study of summoning monsters and magic alike to bend to his will.
 
-**Summoner's Charm (Su)**: Whenever you cast a conjuration (summoning) spell, increase the duration by a number of rounds equal to 1/2 your wizard level (minimum 1). At 20th level, you can change the duration of all *summon monster* spells to permanent. You can have no more than one *summon monster* spell made permanent in this way at one time. If you designate another *summon monster* spell as permanent, the previous spell immediately ends.
+**Summoner's Charm (Su)**: Whenever you cast a conjuration (summoning) spell, increase the duration by a number of rounds equal to 1/2 your wizard level (minimum 1). At 20th level, you can change the duration of all _summon monster_ spells to permanent. You can have no more than one _summon monster_ spell made permanent in this way at one time. If you designate another _summon monster_ spell as permanent, the previous spell immediately ends.
 
 **Acid Dart (Sp)**: As a standard action you can unleash an acid dart targeting any foe within 30 feet as a ranged touch attack. The acid dart deals 1d6 points of acid damage + 1 for every two wizard levels you possess. You can use this ability a number of times per day equal to 3 + your Intelligence modifier. This attack ignores spell resistance.
 

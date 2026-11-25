@@ -40,40 +40,40 @@ tags: [rangoric, rangoric/monster]
 
 # Marid
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar, Water)
-  - **Hit Dice**: 12d10+48 (114 hp)
-  - **Initiative**: +8
-  - **Speed**: 20 ft. (4 squares), swim 60 ft.
-  - **Armor Class**: 23 (+4 Dex, +1 dodge, +9 natural, –1 size), touch 14, flat-footed 18
-  - **Base Attack**: +12; **CMB**: +19; **CMD**: 34
-  - **Attack**: Slam +17 melee (2d6+6) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Trident|trident]] +18 melee (2d6+9)
-  - **Full Attack**: 2 slams +17 melee (2d6+6); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Trident|trident]] +18/+13/+8 melee (2d6+9)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: Vortex (1/10 minutes, 10–50 ft. tall, 1d8+4 damage, DC 22), water mastery, water's fury, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (water elemental, humanoid or giant, alter self, elemental body III, or giant form I)
-  - **Saves**: Fort +10, Ref +12, Will +10
-  - **Abilities**: Str 23, Dex 19, Con 18, Int 14, Wis 15, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +29, [[rangoric-srd/skills/Craft|Craft]] (any one) +17, [[rangoric-srd/skills/Mysticism|Mysticism]] +17, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +17
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Any (Elemental Plane of Water)
-  - **Organization**: Solitary, pair, company (3–6), or band (7–12)
-  - **Challenge Rating**: 9
-  - **Treasure**: Standard (masterwork trident, other gear)
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar, Water)
+- **Hit Dice**: 12d10+48 (114 hp)
+- **Initiative**: +8
+- **Speed**: 20 ft. (4 squares), swim 60 ft.
+- **Armor Class**: 23 (+4 Dex, +1 dodge, +9 natural, –1 size), touch 14, flat-footed 18
+- **Base Attack**: +12; **CMB**: +19; **CMD**: 34
+- **Attack**: Slam +17 melee (2d6+6) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Trident|trident]] +18 melee (2d6+9)
+- **Full Attack**: 2 slams +17 melee (2d6+6); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Trident|trident]] +18/+13/+8 melee (2d6+9)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: Vortex (1/10 minutes, 10–50 ft. tall, 1d8+4 damage, DC 22), water mastery, water's fury, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (water elemental, humanoid or giant, alter self, elemental body III, or giant form I)
+- **Saves**: Fort +10, Ref +12, Will +10
+- **Abilities**: Str 23, Dex 19, Con 18, Int 14, Wis 15, Cha 16
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +29, [[rangoric-srd/skills/Craft|Craft]] (any one) +17, [[rangoric-srd/skills/Mysticism|Mysticism]] +17, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +17
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Any (Elemental Plane of Water)
+- **Organization**: Solitary, pair, company (3–6), or band (7–12)
+- **Challenge Rating**: 9
+- **Treasure**: Standard (masterwork trident, other gear)
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Marids are genies from the Elemental Plane of Water. The most powerful of all the genie races, they are said to possess the strength of the ocean's currents and teeth made of pearl. A marid stands about 16 feet tall and weighs nearly 2,500 pounds.
 
 The marids are perhaps the most unpredictable and capricious of the genies, a quality that the others (particularly shaitans) find to be both aggravating and embarrassing to the entire genie culture. Many marids become dancers, storytellers, performers, or other types of artists, and often travel to the Material Plane in disguise to seek out new audiences.
 
-A small percentage of marids can lay claim to nobility. Noble marids, often called shahzadas, have 14 Hit Dice and gain the following spell-like abilities: 3/day—*[[rangoric-srd/spells/Cone of Cold|cone of cold]]*, *[[rangoric-srd/spells/Ice Storm|ice storm]]*; 1/day—*[[rangoric-srd/spells/Elemental Swarm|elemental swarm]]* (water elementals only), *[[rangoric-srd/spells/Permanent Image|permanent image]]*. A noble marid's caster level for its spell-like abilities is 20th. Noble marids are CR 11.
+A small percentage of marids can lay claim to nobility. Noble marids, often called shahzadas, have 14 Hit Dice and gain the following spell-like abilities: 3/day—_[[rangoric-srd/spells/Cone of Cold|cone of cold]]_, _[[rangoric-srd/spells/Ice Storm|ice storm]]_; 1/day—_[[rangoric-srd/spells/Elemental Swarm|elemental swarm]]_ (water elementals only), _[[rangoric-srd/spells/Permanent Image|permanent image]]_. A noble marid's caster level for its spell-like abilities is 20th. Noble marids are CR 11.
 
 Marids speak Aquan, Auran, Common, Ignan and Terran.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th): Constant—*[[rangoric-srd/spells/Detect Evil|detect evil]], [[rangoric-srd/spells/Detect Good|detect good]], [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Water Walk|water walk]]*; At will—*[[rangoric-srd/spells/Create Water|create water]], [[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Plane Shift|plane shift]]* (willing targets to elemental planes, Astral Plane, or Material Plane only), *[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]* (liquids only), *[[rangoric-srd/spells/Quench|quench]]*; 5/day—*[[rangoric-srd/spells/Control Water|control water]], [[rangoric-srd/spells/Gaseous Form|gaseous form]], [[rangoric-srd/spells/Obscuring Mist|obscuring mist]], [[rangoric-srd/spells/Water Breathing|water breathing]]*; 3/day—*[[rangoric-srd/spells/See Invisibility|see invisibility]]*; 1/day—*[[rangoric-srd/spells/Persistent Image|persistent image]]* (DC 18); 1/year—grant 1 *[[rangoric-srd/spells/Wish|wish]]* (to nongenies only).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th): Constant—_[[rangoric-srd/spells/Detect Evil|detect evil]], [[rangoric-srd/spells/Detect Good|detect good]], [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Water Walk|water walk]]_; At will—_[[rangoric-srd/spells/Create Water|create water]], [[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Plane Shift|plane shift]]_ (willing targets to elemental planes, Astral Plane, or Material Plane only), _[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]_ (liquids only), _[[rangoric-srd/spells/Quench|quench]]_; 5/day—_[[rangoric-srd/spells/Control Water|control water]], [[rangoric-srd/spells/Gaseous Form|gaseous form]], [[rangoric-srd/spells/Obscuring Mist|obscuring mist]], [[rangoric-srd/spells/Water Breathing|water breathing]]_; 3/day—_[[rangoric-srd/spells/See Invisibility|see invisibility]]_; 1/day—_[[rangoric-srd/spells/Persistent Image|persistent image]]_ (DC 18); 1/year—grant 1 _[[rangoric-srd/spells/Wish|wish]]_ (to nongenies only).
 
 **Water Mastery (Ex)**: A marid gains a +1 bonus on attack and damage rolls if both it and its opponent are touching water. If the opponent or the marid is touching the ground, the marid takes a –4 penalty on attack and damage rolls.
 

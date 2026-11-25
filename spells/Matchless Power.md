@@ -25,17 +25,17 @@ tags: [rangoric, rangoric/spell]
 
 # Matchless Power
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Sor/Wiz 6
-  - **Components**: V, S, F
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Sor/Wiz 6
+- **Components**: V, S, F
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 minute/level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 The subject of this spell gains a +6 enhancement bonus to Strength and a +2 enhancement bonus to Dexterity and Constitution. In addition, any creature struck in melee combat by the subject must make a Fortitude Save (DC 14) or be stunned for one round (stunning from multiple attacks does not stack).
 
-*Arcane focus:* a figurine of a stag beetle, made of gold and malachite and worth approximately 50 gp.
+_Arcane focus:_ a figurine of a stag beetle, made of gold and malachite and worth approximately 50 gp.

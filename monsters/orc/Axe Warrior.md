@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Axe Warrior
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human, Orc)
-  - **Hit Dice**: 3d12+15 (40 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 15 (+6 armor, +1 Dex, –2 rage), touch 9, flat-footed 14
-  - **Base Attack**: +3; **CMB**: +8; **CMD**: 17
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greataxe|greataxe]] +9 melee (1d12+7/×3) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Sling|sling]] +5 ranged (1d4+5)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greataxe|greataxe]] +9 melee (1d12+7/×3); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Sling|sling]] +5 ranged (1d4+5)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (10 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] (intimidating [[rangoric-srd/class-options/rage-powers/Intimidating Glare (Rage Power)|glare]])
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +1, [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/races/Half-Orc|weapon familiarity]]
-  - **Saves**: Fort +7, Ref +2, Will +3
-  - **Abilities**: Str 21, Dex 13, Con 18, Int 8, Wis 10, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Perception|Perception]] +6
-  - **Feats**: [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Temperate hills, mountains, or underground
-  - **Organization**: Solitary, or with other half-orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])
-  - **Challenge Rating**: 2
-  - **Treasure**: NPC gear (combat gear: potion of cure light wounds, potion of lesser restoration, potion of protection from good; other gear: masterwork chainmail, masterwork greataxe, masterwork sling with 10 bullets, climber's kit, 250 gp)
-  - **Alignment**: Chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human, Orc)
+- **Hit Dice**: 3d12+15 (40 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 15 (+6 armor, +1 Dex, –2 rage), touch 9, flat-footed 14
+- **Base Attack**: +3; **CMB**: +8; **CMD**: 17
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greataxe|greataxe]] +9 melee (1d12+7/×3) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Sling|sling]] +5 ranged (1d4+5)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greataxe|greataxe]] +9 melee (1d12+7/×3); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Sling|sling]] +5 ranged (1d4+5)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (10 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] (intimidating [[rangoric-srd/class-options/rage-powers/Intimidating Glare (Rage Power)|glare]])
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +1, [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/races/Half-Orc|weapon familiarity]]
+- **Saves**: Fort +7, Ref +2, Will +3
+- **Abilities**: Str 21, Dex 13, Con 18, Int 8, Wis 10, Cha 12
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Perception|Perception]] +6
+- **Feats**: [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Temperate hills, mountains, or underground
+- **Organization**: Solitary, or with other half-orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])
+- **Challenge Rating**: 2
+- **Treasure**: NPC gear (combat gear: potion of cure light wounds, potion of lesser restoration, potion of protection from good; other gear: masterwork chainmail, masterwork greataxe, masterwork sling with 10 bullets, climber's kit, 250 gp)
+- **Alignment**: Chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 An axe warrior is a [[rangoric-srd/monsters/orc/Orc#Half-Orcs|half-orc]] with 3 levels of [[rangoric-srd/classes/Barbarian|barbarian]].
 

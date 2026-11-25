@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Changeling
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Changeling)
-  - **Hit Dice**: 1d6+2 (8 hp)
-  - **Initiative**: –1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 10 (–1 Dex, +1 natural), touch 9, flat-footed 10
-  - **Base Attack**: +0; **CMB**: +0; **CMD**: 9
-  - **Attack**: Claw +0 melee (1d4+1)
-  - **Full Attack**: 2 claws +0 melee (1d4+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Hexes (cauldron)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., hulking changeling, witch's familiar (spider)
-  - **Saves**: Fort +1, Ref –1, Will +4
-  - **Abilities**: Str 10, Dex 8, Con 12, Int 15, Wis 14, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +10, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Mysticism|Mysticism]] +6
-  - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Combat Casting|Combat Casting]]
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 1/2
-  - **Treasure**: Gear (quarterstaff, spell component pouch, other treasure)
-  - **Alignment**: Usually lawful neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Changeling)
+- **Hit Dice**: 1d6+2 (8 hp)
+- **Initiative**: –1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 10 (–1 Dex, +1 natural), touch 9, flat-footed 10
+- **Base Attack**: +0; **CMB**: +0; **CMD**: 9
+- **Attack**: Claw +0 melee (1d4+1)
+- **Full Attack**: 2 claws +0 melee (1d4+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Hexes (cauldron)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., hulking changeling, witch's familiar (spider)
+- **Saves**: Fort +1, Ref –1, Will +4
+- **Abilities**: Str 10, Dex 8, Con 12, Int 15, Wis 14, Cha 15
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +10, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Mysticism|Mysticism]] +6
+- **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Combat Casting|Combat Casting]]
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 1/2
+- **Treasure**: Gear (quarterstaff, spell component pouch, other treasure)
+- **Alignment**: Usually lawful neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Born of mysterious origins and raised by unknowing foster parents, changelings are the children of hags and their tricked lovers. Most don't know of their monstrous origins, but there comes a time in every changeling's life when these roots begin to call out to their host, urging the [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] girl toward some end she can't identify. When a hag of any sort conceives a child with a man, the result is a changeling. The male parent is usually killed and eaten by his partner before he can see the offspring.
 
@@ -70,7 +70,7 @@ Changelings speak Common, Draconic, Elven and Orc.
 
 ### Combat
 
-**Witch spells prepared** (CL 1st; concentration +3): 1st—*[[rangoric-srd/spells/Hypnotism|hypnotism]]* (DC 14), *[[rangoric-srd/spells/Sleep|sleep]]* (DC 14); 0 (at will)—*[[rangoric-srd/spells/Daze|daze]]* (DC 13), *[[rangoric-srd/spells/Light|light]]*, *[[rangoric-srd/spells/Touch of Fatigue|touch of fatigue]]* (DC 13); **Patron**: [[rangoric-srd/class-options/patrons/Transformation Patron|transformation]].
+**Witch spells prepared** (CL 1st; concentration +3): 1st—_[[rangoric-srd/spells/Hypnotism|hypnotism]]_ (DC 14), _[[rangoric-srd/spells/Sleep|sleep]]_ (DC 14); 0 (at will)—_[[rangoric-srd/spells/Daze|daze]]_ (DC 13), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Touch of Fatigue|touch of fatigue]]_ (DC 13); **Patron**: [[rangoric-srd/class-options/patrons/Transformation Patron|transformation]].
 
 ### Changeling as Characters
 

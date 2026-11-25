@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Trox
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
-  - **Hit Dice**: 1d12+5 (17 hp)
-  - **Initiative**: +1
-  - **Speed**: 40 ft. (8 squares), burrow 20 ft.
-  - **Armor Class**: 10 (+2 armor, +1 Dex, –2 rage, –1 size), touch 8, flat-footed 9
-  - **Base Attack**: +1; **CMB**: +9 (+11 grapple); **CMD**: 18 (20 vs. grapple)
-  - **Attack**: [[rangoric-srd/equipment/weapons/Warhammer|Warhammer]] +7 melee (2d6+7/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Warhammer|Warhammer]] +7 melee (2d6+7/×3)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Frenzy|Frenzy]], rage (6 rounds/day)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., fast movement, [[rangoric-srd/monsters/abilities/Grabbing Appendages|grabbing appendages]]
-  - **Saves**: Fort +6, Ref +1, Will +2
-  - **Abilities**: Str 25, Dex 13, Con 18, Int 8, Wis 10, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +2
-  - **Feats**: [[rangoric-srd/feats/Improved Grapple|Improved Grapple]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Tropical deserts
-  - **Organization**: Solitary, band (2–8), or clan (9–20)
-  - **Challenge Rating**: 2
-  - **Treasure**: NPC gear (leather armor, warhammer, other treasure)
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
+- **Hit Dice**: 1d12+5 (17 hp)
+- **Initiative**: +1
+- **Speed**: 40 ft. (8 squares), burrow 20 ft.
+- **Armor Class**: 10 (+2 armor, +1 Dex, –2 rage, –1 size), touch 8, flat-footed 9
+- **Base Attack**: +1; **CMB**: +9 (+11 grapple); **CMD**: 18 (20 vs. grapple)
+- **Attack**: [[rangoric-srd/equipment/weapons/Warhammer|Warhammer]] +7 melee (2d6+7/×3)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Warhammer|Warhammer]] +7 melee (2d6+7/×3)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Frenzy|Frenzy]], rage (6 rounds/day)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., fast movement, [[rangoric-srd/monsters/abilities/Grabbing Appendages|grabbing appendages]]
+- **Saves**: Fort +6, Ref +1, Will +2
+- **Abilities**: Str 25, Dex 13, Con 18, Int 8, Wis 10, Cha 6
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +2
+- **Feats**: [[rangoric-srd/feats/Improved Grapple|Improved Grapple]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Tropical deserts
+- **Organization**: Solitary, band (2–8), or clan (9–20)
+- **Challenge Rating**: 2
+- **Treasure**: NPC gear (leather armor, warhammer, other treasure)
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Trox were once members of a much smaller and more docile race of subterranean burrowers, but were long ago enslaved by the duergar and bred into useful brutes. Eventually, several clans of trox were able to escape their slavers and reach the surface world, though they found the creatures above were just as eager to enslave them. Most trox still live a life of servitude. A free trox tends to be loyal to its true friends and inquisitive, though it can harbor deep grudges and resentments.
 

@@ -30,16 +30,16 @@ tags: [rangoric, rangoric/spell]
 
 # Telepathic Bond
 
-*Divination*
+_Divination_
 
-  - **Level**: Inq 5, Med 4, Mes 4, Psy 4, Sor/Wiz 5, Spi 5, Wit 5
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Targets**: You plus one willing creature per three levels, no two of which can be more than 30 ft. apart
-  - **Duration**: 10 min./level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Inq 5, Med 4, Mes 4, Psy 4, Sor/Wiz 5, Spi 5, Wit 5
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Targets**: You plus one willing creature per three levels, no two of which can be more than 30 ft. apart
+- **Duration**: 10 min./level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You forge a telepathic bond among yourself and a number of willing creatures, each of which must have an Intelligence score of 3 or higher. Each creature included in the link is linked to all the others. The creatures can communicate telepathically through the bond regardless of language. No special power or influence is established as a result of the bond. Once the bond is formed, it works over any distance (although not from one plane to another).
 
@@ -47,4 +47,4 @@ If desired, you may leave yourself out of the telepathic bond forged. This decis
 
 Telepathic bond can be made permanent with a permanency spell, though it only bonds two creatures per casting of permanency.
 
-*Material Component*: Pieces of eggshell from two different kinds of creatures.
+_Material Component_: Pieces of eggshell from two different kinds of creatures.

@@ -22,11 +22,11 @@ tags: [rangoric, rangoric/spell]
 
 # Sickening Entanglement
 
-*Transmutation \[Poison\]*
+_Transmutation \[Poison\]_
 
-  - **Level**: Drd 2, Hun 2, Rgr 2, Sha 2
-  - **Components**: 
-  - **Saving Throw**: Reflex partial and Fortitude negates (see text)
-  - **Spell Resistance**: No
+- **Level**: Drd 2, Hun 2, Rgr 2, Sha 2
+- **Components**:
+- **Saving Throw**: Reflex partial and Fortitude negates (see text)
+- **Spell Resistance**: No
 
-This spell functions as *[[rangoric-srd/spells/Entangle|entangle]]*, except the plants are coated with an irritating sap that creates a painful, itching rash on creatures that touch them. Any creature that enters the area or ends its turn there must succeed at a Fortitude save or be sickened as long as it remains in the area and for 1d4 rounds afterward. This is a poison effect.
+This spell functions as _[[rangoric-srd/spells/Entangle|entangle]]_, except the plants are coated with an irritating sap that creates a painful, itching rash on creatures that touch them. Any creature that enters the area or ends its turn there must succeed at a Fortitude save or be sickened as long as it remains in the area and for 1d4 rounds afterward. This is a poison effect.

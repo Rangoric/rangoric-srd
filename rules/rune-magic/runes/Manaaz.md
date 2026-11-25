@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Manaaz
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
+_A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat._
 
 A favorite of wizards and scholars, Manaaz is the rune of intelligence and awareness. Those attuned to it become obsessed with learning from the world around them, always willing to take on some new mental challenge.
 
@@ -23,15 +23,15 @@ A favorite of wizards and scholars, Manaaz is the rune of intelligence and aware
 
 **Spells Available** (by level; see [[rangoric-srd/rules/rune-magic/Rune Magic#The Runes|the runes]]):
 
-0. *[[rangoric-srd/spells/Detect Magic|detect magic]]*
-1. *[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]*
-2. *[[rangoric-srd/spells/See Invisibility|see invisibility]]*
-3. *[[rangoric-srd/spells/Tongues|tongues]]*
-4. *[[rangoric-srd/spells/Arcane Eye|arcane eye]]*
-5. *[[rangoric-srd/spells/Prying Eyes|prying eyes]]*
-6. *[[rangoric-srd/spells/Analyze Dweomer|analyze dweomer]]*
-7. *[[rangoric-srd/spells/Limited Wish|limited wish]]*
-8. any one of *[[rangoric-srd/spells/Symbol of Death|symbol of death]]*, *[[rangoric-srd/spells/Symbol of Fear|symbol of fear]]*, *[[rangoric-srd/spells/Symbol of Insanity|symbol of insanity]]*, *[[rangoric-srd/spells/Symbol of Pain|symbol of pain]]*, *[[rangoric-srd/spells/Symbol of Persuasion|symbol of persuasion]]*, *[[rangoric-srd/spells/Symbol of Sleep|symbol of sleep]]*, *[[rangoric-srd/spells/Symbol of Stunning|symbol of stunning]]* or *[[rangoric-srd/spells/Symbol of Weakness|symbol of weakness]]*
-9. *[[rangoric-srd/spells/Wish|wish]]*
+0. _[[rangoric-srd/spells/Detect Magic|detect magic]]_
+1. _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_
+2. _[[rangoric-srd/spells/See Invisibility|see invisibility]]_
+3. _[[rangoric-srd/spells/Tongues|tongues]]_
+4. _[[rangoric-srd/spells/Arcane Eye|arcane eye]]_
+5. _[[rangoric-srd/spells/Prying Eyes|prying eyes]]_
+6. _[[rangoric-srd/spells/Analyze Dweomer|analyze dweomer]]_
+7. _[[rangoric-srd/spells/Limited Wish|limited wish]]_
+8. any one of _[[rangoric-srd/spells/Symbol of Death|symbol of death]]_, _[[rangoric-srd/spells/Symbol of Fear|symbol of fear]]_, _[[rangoric-srd/spells/Symbol of Insanity|symbol of insanity]]_, _[[rangoric-srd/spells/Symbol of Pain|symbol of pain]]_, _[[rangoric-srd/spells/Symbol of Persuasion|symbol of persuasion]]_, _[[rangoric-srd/spells/Symbol of Sleep|symbol of sleep]]_, _[[rangoric-srd/spells/Symbol of Stunning|symbol of stunning]]_ or _[[rangoric-srd/spells/Symbol of Weakness|symbol of weakness]]_
+9. _[[rangoric-srd/spells/Wish|wish]]_
 
 **Associated Skill Bonus**: +1 bonus on all [[rangoric-srd/skills/Knowledge|Knowledge]] checks.

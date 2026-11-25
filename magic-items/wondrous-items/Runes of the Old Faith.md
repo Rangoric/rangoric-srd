@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Runes of the Old Faith
 
-This velvet pouch contains a number of stones gathered from the creator's local area that bear runes with a single druidic symbol each. *Runes of the old faith* work as *[[rangoric-srd/magic-items/wondrous-items/Runes of the Crone's Coven|runes of the crone's coven]]*, except they allow casting of [[rangoric-srd/spells/Druid Spell List|druid spells]] as part of [[rangoric-srd/classes/Skald#^skald-spell-kenning|spell kenning]]. The stones can be used once per day.
+This velvet pouch contains a number of stones gathered from the creator's local area that bear runes with a single druidic symbol each. _Runes of the old faith_ work as _[[rangoric-srd/magic-items/wondrous-items/Runes of the Crone's Coven|runes of the crone's coven]]_, except they allow casting of [[rangoric-srd/spells/Druid Spell List|druid spells]] as part of [[rangoric-srd/classes/Skald#^skald-spell-kenning|spell kenning]]. The stones can be used once per day.
 
-Strong universal; CL 12th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Imbue with Spell Ability|imbue with spell ability]]*, creator must be able to cast 6th-level [[rangoric-srd/classes/Druid|druid]] spells; Price 16,000 gp; Cost 8,000 gp; Weight 1 lb.
+Strong universal; CL 12th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Imbue with Spell Ability|imbue with spell ability]]_, creator must be able to cast 6th-level [[rangoric-srd/classes/Druid|druid]] spells; Price 16,000 gp; Cost 8,000 gp; Weight 1 lb.

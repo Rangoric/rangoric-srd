@@ -33,16 +33,16 @@ tags: [rangoric, rangoric/spell]
 
 # Animal Trance
 
-*Enchantment (Compulsion) \[Mind-Affecting, Sonic\]*
+_Enchantment (Compulsion) \[Mind-Affecting, Sonic\]_
 
-  - **Level**: Brd 2, Drd 2, Hun 2, Mes 2, Psy 2, Skd 2, Tot 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Targets**: Animals or magical beasts with Intelligence 1 or 2
-  - **Duration**: Concentration
-  - **Saving Throw**: Will negates; see text
-  - **Spell Resistance**: Yes
+- **Level**: Brd 2, Drd 2, Hun 2, Mes 2, Psy 2, Skd 2, Tot 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Targets**: Animals or magical beasts with Intelligence 1 or 2
+- **Duration**: Concentration
+- **Saving Throw**: Will negates; see text
+- **Spell Resistance**: Yes
 
 Your swaying motions and music (or singing, or chanting) compel animals and magical beasts to do nothing but watch you. Only a creature with an Intelligence score of 1 or 2 can be [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinated]] by this spell. Roll 2d6 to determine the total number of HD worth of creatures that you fascinate. The closest targets are selected first until no more targets within range can be affected.
 

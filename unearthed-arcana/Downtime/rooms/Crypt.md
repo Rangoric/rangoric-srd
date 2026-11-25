@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/downtime-room]
 - **Time**: 16 days
 - **Size**: 8-30 squares
 
-This space is dedicated to the storage of prominent corpses. Above ground this space might take the form of a tomb. The duration of spells that preserve or protect corpses (such as *gentle* *repose*) are doubled when cast on a corpse that remains in this room.
+This space is dedicated to the storage of prominent corpses. Above ground this space might take the form of a tomb. The duration of spells that preserve or protect corpses (such as _gentle_ _repose_) are doubled when cast on a corpse that remains in this room.

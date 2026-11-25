@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/hammers, weapon-group/mo
 
 # Monk's Cudgel
 
-*Martial two-handed melee weapon.* Cost 12 gp; Dmg 2d3 (S), 2d4 (M); Critical x2; Weight 13 lb.; Type Bludgeoning. ^stats
+_Martial two-handed melee weapon._ Cost 12 gp; Dmg 2d3 (S), 2d4 (M); Critical x2; Weight 13 lb.; Type Bludgeoning. ^stats
 
-(*Chan Zhang*): Originating in monasteries, the monk’s cudgel features a long, sturdy shaft, topped with a large cagelike bludgeoning head made of metal bars. All monks are automatically proficient in the use of this weapon.
+(_Chan Zhang_): Originating in monasteries, the monk’s cudgel features a long, sturdy shaft, topped with a large cagelike bludgeoning head made of metal bars. All monks are automatically proficient in the use of this weapon.

@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Comozant Wyrd
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Air, Elemental, Extraplanar, Incorporeal)
-  - **Hit Dice**: 5d10 (27 hp)
-  - **Initiative**: +7
-  - **Speed**: 20 ft. (4 squares), fly 30 ft. (good)
-  - **Armor Class**: 18 (+4 deflection, +3 Dex, +1 size), touch 18, flat-footed 15
-  - **Base Attack**: +5; **CMB**: +7; **CMD**: 21 (can't be tripped)
-  - **Attack**: Lightning lash +8 ranged (2d8 electricity damage)
-  - **Full Attack**: Lightning lash +8 ranged (2d8 electricity damage)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Lightning Lash|Lightning lash]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Plasma Form|plasma form]], [[rangoric-srd/monsters/abilities/Illuminating Flames|illuminating flames]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and electricity, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-  - **Saves**: Fort +1, Ref +9, Will +7
-  - **Abilities**: Str —, Dex 17, Con 10, Int 8, Wis 17, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Nature|Nature]] +3, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Theology|Theology]] +7
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any oceans (during storms)
-  - **Organization**: Solitary
-  - **Challenge Rating**: 4
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Air, Elemental, Extraplanar, Incorporeal)
+- **Hit Dice**: 5d10 (27 hp)
+- **Initiative**: +7
+- **Speed**: 20 ft. (4 squares), fly 30 ft. (good)
+- **Armor Class**: 18 (+4 deflection, +3 Dex, +1 size), touch 18, flat-footed 15
+- **Base Attack**: +5; **CMB**: +7; **CMD**: 21 (can't be tripped)
+- **Attack**: Lightning lash +8 ranged (2d8 electricity damage)
+- **Full Attack**: Lightning lash +8 ranged (2d8 electricity damage)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Lightning Lash|Lightning lash]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Plasma Form|plasma form]], [[rangoric-srd/monsters/abilities/Illuminating Flames|illuminating flames]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and electricity, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
+- **Saves**: Fort +1, Ref +9, Will +7
+- **Abilities**: Str —, Dex 17, Con 10, Int 8, Wis 17, Cha 18
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Nature|Nature]] +3, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Theology|Theology]] +7
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any oceans (during storms)
+- **Organization**: Solitary
+- **Challenge Rating**: 4
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A comozant wyrd appears to be 3 feet of buzzing, heatless blue or green plasma. Creatures near it find their hair standing on end and their bodies crawling with harmless but unnerving sparks. Those who have "conversed" with a comozant using illuminating flames say it uses pure emotion and image as concept and word—a mixture of knowledge and ignorance.
 
@@ -69,7 +69,7 @@ Comozant wyrds speak Auran.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +11): 2/day—*[[rangoric-srd/spells/Control Weather|control weather]]* (standard action; intensify or dispel storm only).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +11): 2/day—_[[rangoric-srd/spells/Control Weather|control weather]]_ (standard action; intensify or dispel storm only).
 
 **[[rangoric-srd/monsters/abilities/Illuminating Flames|Illuminating Flames]] (Su)**: As a standard action, a comozant wyrd can shroud the upper halves of any Small or larger creatures it can see within 30 feet of it in cold, buzzing flames similar to the wyrd's own. Any electricity resistance blocks this effect unless the target willingly submits. Otherwise the flames persist until the wyrd is out of range. Targets of this effect take a -10 penalty on Stealth checks. A comozant wyrd can communicate empathically with creatures subject to this effect, and gains a +4 racial bonus on Sense Motive checks when doing so. Interacting with a wyrd in this way still uses standard social skills and rules. While communicating this way, a comozant can confer unexpected insight or information equivalent to a divination spell.
 

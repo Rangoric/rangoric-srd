@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Mirror Paste
 
-*Unguent; Special*
+_Unguent; Special_
 
 Mirror paste is a relatively new creation, but one that has many portrait painters, spies, and nobility simultaneously up in arms and rejoicing in its use. In short, this viscous unguent (like the far older [[rangoric-srd/equipment/alchemical-items/Sigil Paint|sigil paint]]) records images it is exposed to and holds them in a slightly flexible medium as the paint or paste dries. This translucent paste is smeared or painted onto a mirror in darkness and prepared using darkvision. The treated mirror is then hung in a room—three seconds after being exposed to light, the photosensitive paste dries, holding the image reflected by the mirror perfectly in its slightly flexible resin. Thus, whatever is directly reflected by the mirror is what can be seen in the image recorded by the mirror paste.
 
@@ -31,6 +31,6 @@ That image can be peeled off and rolled up into a scroll, depending on the size 
 
 While it is useful in the short term for portrait painters to have a reference image of a subject, the resins do not age well and crumble to dust within two years unless otherwise treated and preserved. Its most common usage among the nobility is to strategically place treated mirrors in dark bedrooms in order to catch images of intruders when they ignite a light source.
 
-**Construction**: Faint illusion; CL 7th; [[rangoric-srd/feats/Craft Unguents|Craft Unguents]], *mirror image*; DC: 23; Price: 375 gp/2 oz
+**Construction**: Faint illusion; CL 7th; [[rangoric-srd/feats/Craft Unguents|Craft Unguents]], _mirror image_; DC: 23; Price: 375 gp/2 oz
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

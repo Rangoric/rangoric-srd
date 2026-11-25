@@ -13,4 +13,4 @@ tags: [rangoric, rangoric/overview]
 
 ## Strength-Based
 
-  - [[rangoric-srd/skills/Athletics|Athletics]]
+- [[rangoric-srd/skills/Athletics|Athletics]]

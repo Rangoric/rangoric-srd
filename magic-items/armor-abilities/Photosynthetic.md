@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/magic-item]
 
 Non-metallic armor or shields with this ability grants the wearer [[rangoric-srd/rules/Special Abilities and Conditions#Fast Healing|fast healing]] 1. The wearer must be in direct sunlight for the fast healing to function. Metallic shields and armor may not have this ability.
 
-Faint conjuration; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Cure Minor Wounds|cure minor wounds]]*, creator must be a druid; Price +1 bonus.
+Faint conjuration; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Cure Minor Wounds|cure minor wounds]]_, creator must be a druid; Price +1 bonus.

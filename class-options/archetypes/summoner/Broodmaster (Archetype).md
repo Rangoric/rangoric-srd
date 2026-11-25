@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Broodmaster
 
-*A [[rangoric-srd/classes/Summoner#^summoner-archetypes|summoner]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Summoner#^summoner-archetypes|summoner]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Most summoners bond with one eidolon for their entire lives, but the broodmaster forges a link with multiple smaller eidolons that make up his brood. Separately, a broodmaster's eidolons are no match for a summoner's single eidolon, but taken as a whole, an eidolon brood makes up in quantity what it lacks in individual power.
 

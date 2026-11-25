@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/monster]
 
 # Alternate Fiendish Creature
 
-Creatures with the fiendish template live in the Lower Planes, such as the Abyss and Hell, but can be summoned using spells such as *[[rangoric-srd/spells/Summon Monster I|summon monster]]* and *[[rangoric-srd/spells/Planar Ally|planar ally]]*. A fiendish creature's quick and rebuild rules are the same.
+Creatures with the fiendish template live in the Lower Planes, such as the Abyss and Hell, but can be summoned using spells such as _[[rangoric-srd/spells/Summon Monster I|summon monster]]_ and _[[rangoric-srd/spells/Planar Ally|planar ally]]_. A fiendish creature's quick and rebuild rules are the same.
 
 “Fiendish” is a simple template ([[rangoric-srd/monsters/simple-templates/Simple Templates|Simple Templates]]): it can be added to a creature during play.
 
@@ -26,7 +26,7 @@ Creatures with the fiendish template live in the Lower Planes, such as the Abyss
 **Table: Fiendish Creature Defenses**
 
 | Hit Dice | Resist Cold and Fire | DR      |
-| --- | --- | --- |
+| -------- | -------------------- | ------- |
 | 1–4      | 5                    | —       |
 | 5–10     | 10                   | 5/good  |
 | 11+      | 15                   | 10/good |

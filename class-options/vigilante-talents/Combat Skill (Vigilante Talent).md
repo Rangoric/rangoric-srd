@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Combat Skill
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 The vigilante gains any one [[rangoric-srd/feats/Feats Fighter Bonus|combat feat]] as a bonus feat. He must meet the prerequisites for this feat, but he is treated as though he had a number of fighter levels equal to half his vigilante level for the purpose of qualifying for this feat.
 

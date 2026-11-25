@@ -44,28 +44,28 @@ The investigator’s class skills (and the key ability for each skill) are [[ran
 
 **Table: The Investigator** ^table-the-investigator
 
-| Level | Special | Extracts per Day: 1st | Extracts per Day: 2nd | Extracts per Day: 3rd | Extracts per Day: 4th | Extracts per Day: 5th | Extracts per Day: 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | Alchemy, inspiration, trapfinding | 1 | — | — | — | — | — |
-| 2nd | Poison lore, poison resistance +2 | 2 | — | — | — | — | — |
-| 3rd | Investigator talent, keen recollection, trap sense +1 | 3 | — | — | — | — | — |
-| 4th | Studied combat, studied strike +1d6, swift alchemy | 3 | 1 | — | — | — | — |
-| 5th | Investigator talent, poison resistance +4 | 4 | 2 | — | — | — | — |
-| 6th | Studied strike +2d6, trap sense +2 | 4 | 3 | — | — | — | — |
-| 7th | Investigator talent | 4 | 3 | 1 | — | — | — |
-| 8th | Poison resistance +6, studied strike +3d6 | 4 | 4 | 2 | — | — | — |
-| 9th | Investigator talent, trap sense +3 | 5 | 4 | 3 | — | — | — |
-| 10th | Studied strike +4d6 | 5 | 4 | 3 | 1 | — | — |
-| 11th | Investigator talent, poison immunity | 5 | 4 | 4 | 2 | — | — |
-| 12th | Studied strike +5d6, trap sense +4 | 5 | 5 | 4 | 3 | — | — |
-| 13th | Investigator talent | 5 | 5 | 4 | 3 | 1 | — |
-| 14th | Studied strike +6d6 | 5 | 5 | 4 | 4 | 2 | — |
-| 15th | Investigator talent, trap sense +5 | 5 | 5 | 5 | 4 | 3 | — |
-| 16th | Studied strike +7d6 | 5 | 5 | 5 | 4 | 3 | 1 |
-| 17th | Investigator talent | 5 | 5 | 5 | 4 | 4 | 2 |
-| 18th | Studied strike +8d6, trap sense +6 | 5 | 5 | 5 | 5 | 4 | 3 |
-| 19th | Investigator talent | 5 | 5 | 5 | 5 | 5 | 4 |
-| 20th | Studied strike +9d6, true inspiration | 5 | 5 | 5 | 5 | 5 | 5 |
+| Level | Special                                               | Extracts per Day: 1st | Extracts per Day: 2nd | Extracts per Day: 3rd | Extracts per Day: 4th | Extracts per Day: 5th | Extracts per Day: 6th |
+| ----- | ----------------------------------------------------- | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- |
+| 1st   | Alchemy, inspiration, trapfinding                     | 1                     | —                     | —                     | —                     | —                     | —                     |
+| 2nd   | Poison lore, poison resistance +2                     | 2                     | —                     | —                     | —                     | —                     | —                     |
+| 3rd   | Investigator talent, keen recollection, trap sense +1 | 3                     | —                     | —                     | —                     | —                     | —                     |
+| 4th   | Studied combat, studied strike +1d6, swift alchemy    | 3                     | 1                     | —                     | —                     | —                     | —                     |
+| 5th   | Investigator talent, poison resistance +4             | 4                     | 2                     | —                     | —                     | —                     | —                     |
+| 6th   | Studied strike +2d6, trap sense +2                    | 4                     | 3                     | —                     | —                     | —                     | —                     |
+| 7th   | Investigator talent                                   | 4                     | 3                     | 1                     | —                     | —                     | —                     |
+| 8th   | Poison resistance +6, studied strike +3d6             | 4                     | 4                     | 2                     | —                     | —                     | —                     |
+| 9th   | Investigator talent, trap sense +3                    | 5                     | 4                     | 3                     | —                     | —                     | —                     |
+| 10th  | Studied strike +4d6                                   | 5                     | 4                     | 3                     | 1                     | —                     | —                     |
+| 11th  | Investigator talent, poison immunity                  | 5                     | 4                     | 4                     | 2                     | —                     | —                     |
+| 12th  | Studied strike +5d6, trap sense +4                    | 5                     | 5                     | 4                     | 3                     | —                     | —                     |
+| 13th  | Investigator talent                                   | 5                     | 5                     | 4                     | 3                     | 1                     | —                     |
+| 14th  | Studied strike +6d6                                   | 5                     | 5                     | 4                     | 4                     | 2                     | —                     |
+| 15th  | Investigator talent, trap sense +5                    | 5                     | 5                     | 5                     | 4                     | 3                     | —                     |
+| 16th  | Studied strike +7d6                                   | 5                     | 5                     | 5                     | 4                     | 3                     | 1                     |
+| 17th  | Investigator talent                                   | 5                     | 5                     | 5                     | 4                     | 4                     | 2                     |
+| 18th  | Studied strike +8d6, trap sense +6                    | 5                     | 5                     | 5                     | 5                     | 4                     | 3                     |
+| 19th  | Investigator talent                                   | 5                     | 5                     | 5                     | 5                     | 5                     | 4                     |
+| 20th  | Studied strike +9d6, true inspiration                 | 5                     | 5                     | 5                     | 5                     | 5                     | 5                     |
 
 ###### Class Features
 

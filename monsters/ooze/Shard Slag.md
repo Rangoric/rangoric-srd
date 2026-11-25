@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Shard Slag
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]] (Fire)
-  - **Hit Dice**: 12d8+72 (126 hp)
-  - **Initiative**: –2
-  - **Speed**: 30 ft. (6 squares), burrow 20 ft.
-  - **Armor Class**: 20 (–2 Dex, +14 natural, –2 size), touch 6, flat-footed 20
-  - **Base Attack**: +9; **CMB**: +17; **CMD**: 25 (can't be tripped)
-  - **Attack**: 1d4+2 slag blades +13 melee (1d8+6/19–20 plus 2d6 fire)
-  - **Full Attack**: 1d4+2 slag blades +13 melee (1d8+6/19–20 plus 2d6 fire)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Excruciating Burn|Excruciating burn]] (DC 16), [[rangoric-srd/monsters/abilities/Molten Form|molten form]], [[rangoric-srd/monsters/abilities/Slag Blades|slag blades]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Molten Form|molten form]] (5 ft., 1d6 fire damage), [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, electricity and fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], vulnerable to cold and [[rangoric-srd/monsters/abilities/Vulnerable to Water|water]]
-  - **Saves**: Fort +10, Ref +2, Will –1
-  - **Abilities**: Str 22, Dex 6, Con 23, Int —, Wis 1, Cha 1
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Any volcanoes or underground
-  - **Organization**: Solitary
-  - **Challenge Rating**: 8
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]] (Fire)
+- **Hit Dice**: 12d8+72 (126 hp)
+- **Initiative**: –2
+- **Speed**: 30 ft. (6 squares), burrow 20 ft.
+- **Armor Class**: 20 (–2 Dex, +14 natural, –2 size), touch 6, flat-footed 20
+- **Base Attack**: +9; **CMB**: +17; **CMD**: 25 (can't be tripped)
+- **Attack**: 1d4+2 slag blades +13 melee (1d8+6/19–20 plus 2d6 fire)
+- **Full Attack**: 1d4+2 slag blades +13 melee (1d8+6/19–20 plus 2d6 fire)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Excruciating Burn|Excruciating burn]] (DC 16), [[rangoric-srd/monsters/abilities/Molten Form|molten form]], [[rangoric-srd/monsters/abilities/Slag Blades|slag blades]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Molten Form|molten form]] (5 ft., 1d6 fire damage), [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, electricity and fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], vulnerable to cold and [[rangoric-srd/monsters/abilities/Vulnerable to Water|water]]
+- **Saves**: Fort +10, Ref +2, Will –1
+- **Abilities**: Str 22, Dex 6, Con 23, Int —, Wis 1, Cha 1
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Any volcanoes or underground
+- **Organization**: Solitary
+- **Challenge Rating**: 8
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Shard slags are living mounds of magic-infused iron. They dwell within the iron-rich molten cores of worlds, the hearts of active volcanoes, or any location where the borders of the Material Plane and the Plane of Fire are thin. Though they're not sentient, shard slags are skilled hunters and have developed a bizarre method of hunting and defending themselves. When a creature is near, a shard slag spontaneously alters its molten body to produce a number of razor-sharp blades. The shard slag then mindlessly attacks until the other creature is stabbed, burned, and then consumed.
 

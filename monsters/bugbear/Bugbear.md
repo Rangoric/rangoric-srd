@@ -41,39 +41,39 @@ tags: [rangoric, rangoric/monster]
 
 # Bugbear
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Goblinoid)
-  - **Hit Dice**: 3d8+3 (16 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 17 (+2 armor, +1 Dex, +3 natural, +1 shield), touch 11, flat-footed 16
-  - **Base Attack**: +2; **CMB**: +5; **CMD**: 16
-  - **Attack**: [[rangoric-srd/equipment/weapons/Morningstar|Morningstar]] +5 melee (1d8+3) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +3 ranged (1d6+3)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Morningstar|Morningstar]] +5 melee (1d8+3); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +3 ranged (1d6+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], stalker
-  - **Saves**: Fort +2, Ref +4, Will +1
-  - **Abilities**: Str 16, Dex 13, Con 13, Int 10, Wis 10, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Temperate mountains
-  - **Organization**: Solitary, pair, gang (3–6), warband (7–12 plus 2 warriors of 1st level and 1 chieftain of 3rd–5th level), or band (11–20 plus 150% noncombatants plus 2 2nd-level sergeants and 1 leader of 2nd–5th level)
-  - **Challenge Rating**: 2
-  - **Treasure**: NPC Gear (leather armor, light wooden shield, morningstar, 3 javelins, other treasure)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: +1
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Goblinoid)
+- **Hit Dice**: 3d8+3 (16 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 17 (+2 armor, +1 Dex, +3 natural, +1 shield), touch 11, flat-footed 16
+- **Base Attack**: +2; **CMB**: +5; **CMD**: 16
+- **Attack**: [[rangoric-srd/equipment/weapons/Morningstar|Morningstar]] +5 melee (1d8+3) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +3 ranged (1d6+3)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Morningstar|Morningstar]] +5 melee (1d8+3); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +3 ranged (1d6+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], stalker
+- **Saves**: Fort +2, Ref +4, Will +1
+- **Abilities**: Str 16, Dex 13, Con 13, Int 10, Wis 10, Cha 9
+- **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Temperate mountains
+- **Organization**: Solitary, pair, gang (3–6), warband (7–12 plus 2 warriors of 1st level and 1 chieftain of 3rd–5th level), or band (11–20 plus 150% noncombatants plus 2 2nd-level sergeants and 1 leader of 2nd–5th level)
+- **Challenge Rating**: 2
+- **Treasure**: NPC Gear (leather armor, light wooden shield, morningstar, 3 javelins, other treasure)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: +1
 
 **Also in this entry:**
 
-  - Bugbear Cannibals: [[rangoric-srd/monsters/bugbear/Bugbear Gnasher|Bugbear Gnasher]] (CR 4), [[rangoric-srd/monsters/bugbear/Bugbear Flesh Glutton|Bugbear Flesh Glutton]] (CR 8)
-  - Bugbear Hunters: [[rangoric-srd/monsters/bugbear/Bugbear Stalker|Bugbear Stalker]] (CR 5), [[rangoric-srd/monsters/bugbear/Bugbear Ambusher|Bugbear Ambusher]] (CR 10)
-  - Bugbear Cultist: [[rangoric-srd/monsters/bugbear/Bugbear Cultist|Bugbear Cultist]] (CR 7)
-  - Bugbear Sneaks: [[rangoric-srd/monsters/bugbear/Bugbear Lurker|Bugbear Lurker]] (CR 8), [[rangoric-srd/monsters/bugbear/Bugbear Shadow Sneak|Bugbear Shadow Sneak]] (CR 10)
-  - Bugbear Bloodmage: [[rangoric-srd/monsters/bugbear/Bugbear Bloodmage|Bugbear Bloodmage]] (CR 11)
-  - Bugbear Tyrant: [[rangoric-srd/monsters/bugbear/Bugbear Tyrant|Bugbear Tyrant]] (CR 13)
-  - [[rangoric-srd/monsters/bugbear/Frightful Haunter|Frightful Haunter]] (CR 8)
-  - [[rangoric-srd/monsters/bugbear/Wikkawak|Wikkawak]] (CR 4)
+- Bugbear Cannibals: [[rangoric-srd/monsters/bugbear/Bugbear Gnasher|Bugbear Gnasher]] (CR 4), [[rangoric-srd/monsters/bugbear/Bugbear Flesh Glutton|Bugbear Flesh Glutton]] (CR 8)
+- Bugbear Hunters: [[rangoric-srd/monsters/bugbear/Bugbear Stalker|Bugbear Stalker]] (CR 5), [[rangoric-srd/monsters/bugbear/Bugbear Ambusher|Bugbear Ambusher]] (CR 10)
+- Bugbear Cultist: [[rangoric-srd/monsters/bugbear/Bugbear Cultist|Bugbear Cultist]] (CR 7)
+- Bugbear Sneaks: [[rangoric-srd/monsters/bugbear/Bugbear Lurker|Bugbear Lurker]] (CR 8), [[rangoric-srd/monsters/bugbear/Bugbear Shadow Sneak|Bugbear Shadow Sneak]] (CR 10)
+- Bugbear Bloodmage: [[rangoric-srd/monsters/bugbear/Bugbear Bloodmage|Bugbear Bloodmage]] (CR 11)
+- Bugbear Tyrant: [[rangoric-srd/monsters/bugbear/Bugbear Tyrant|Bugbear Tyrant]] (CR 13)
+- [[rangoric-srd/monsters/bugbear/Frightful Haunter|Frightful Haunter]] (CR 8)
+- [[rangoric-srd/monsters/bugbear/Wikkawak|Wikkawak]] (CR 4)
 
 The bugbear is the largest of the goblinoid races, a lumbering brute that stands at least a head taller than most humans. They are loners, preferring to live and kill on their own rather than form tribes of their own kind, yet it isn't uncommon to find small bands of bugbears working together, or dwelling in goblin or hobgoblin tribes where they function as elite guards or executioners. Bugbears do not form large warrens like goblins or nations like hobgoblins; they prefer smaller-scale mayhem that lets them keep their favorite acts (murder and torture) on a more personal level. Humans are a bugbear's favored prey, and most count the flesh of humanity as a dietary staple. Grisly trophies of ears or fingers are common bugbear decorations.
 
@@ -115,24 +115,24 @@ Bugbears prefer to ambush opponents whenever possible. When hunting, they normal
 
 Bugbear characters possess the following racial traits.
 
-  - \+4 Strength, +2 Dexterity, +2 Constitution, –2 Charisma.
+- \+4 Strength, +2 Dexterity, +2 Constitution, –2 Charisma.
 
-  - Medium size.
+- Medium size.
 
-  - A bugbear’s base land speed is 30 feet.
+- A bugbear’s base land speed is 30 feet.
 
-  - Darkvision out to 60 feet.
+- Darkvision out to 60 feet.
 
-  - Racial Hit Dice: A bugbear begins with three levels of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|humanoid]], which provide 3d8 Hit Dice, a base attack bonus of +2, and base saving throw bonuses of Fort +1, Ref +3, and Will +1.
+- Racial Hit Dice: A bugbear begins with three levels of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|humanoid]], which provide 3d8 Hit Dice, a base attack bonus of +2, and base saving throw bonuses of Fort +1, Ref +3, and Will +1.
 
-  - Racial Skills: A bugbear’s humanoid levels give it skill points equal to 3 x (2 + Int modifier). Its class skills are [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Investigation|Investigation]], [[rangoric-srd/skills/Perception|Perception]], and [[rangoric-srd/skills/Stealth|Stealth]].
+- Racial Skills: A bugbear’s humanoid levels give it skill points equal to 3 x (2 + Int modifier). Its class skills are [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Investigation|Investigation]], [[rangoric-srd/skills/Perception|Perception]], and [[rangoric-srd/skills/Stealth|Stealth]].
 
-  - Racial Feats: A bugbear’s humanoid levels give it two feats.
+- Racial Feats: A bugbear’s humanoid levels give it two feats.
 
-  - \+3 natural armor bonus.
+- \+3 natural armor bonus.
 
-  - \+4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks.
+- \+4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks.
 
-  - Automatic Languages: Common, Goblin. Bonus Languages: Draconic, Elven, Giant, Gnoll, Orc.
+- Automatic Languages: Common, Goblin. Bonus Languages: Draconic, Elven, Giant, Gnoll, Orc.
 
-  - Level adjustment +1.
+- Level adjustment +1.

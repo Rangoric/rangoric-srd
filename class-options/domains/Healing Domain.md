@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Healing Domain
 
-*A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
+_A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]]._
 
 **Subdomains**: [[rangoric-srd/class-options/domains/Restoration Subdomain|Restoration]], [[rangoric-srd/class-options/domains/Resurrection Subdomain|Resurrection]].
 
@@ -33,15 +33,15 @@ Your touch staves off pain and death, and your healing magic is particularly vit
 
 Where a level has two spells, the cleric prepares [[rangoric-srd/class-options/domains/Domains#^domains-two-spells|either one]] in the domain spell slot.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Cure Light Wounds\|Cure Light Wounds]] | Cures 1d8 damage +1/level (max +5). |
-| 2nd | [[rangoric-srd/spells/Cure Moderate Wounds\|Cure Moderate Wounds]] | Cures 2d8 damage +1/level (max +10). |
-| 3rd | [[rangoric-srd/spells/Cure Serious Wounds\|Cure Serious Wounds]] | Cures 3d8 damage +1/level (max +15). |
-| 4th | [[rangoric-srd/spells/Cure Critical Wounds\|Cure Critical Wounds]] | Cures 4d8 damage +1/level (max +20). |
-| 5th | [[rangoric-srd/spells/Cure Light Wounds, Mass\|Cure Light Wounds, Mass]] | Cures 1d8 damage +1/level (max +25) for many creatures. |
-| 5th | [[rangoric-srd/spells/Breath of Life\|Breath of Life]] | Cures 5d8 damage + 1/level and restores life to recently slain creatures. |
-| 6th | [[rangoric-srd/spells/Heal (Spell)\|Heal]] | Cures 10 points/level of damage, all diseases and mental conditions. |
-| 7th | [[rangoric-srd/spells/Regenerate\|Regenerate]] | Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35). |
-| 8th | [[rangoric-srd/spells/Cure Critical Wounds, Mass\|Cure Critical Wounds, Mass]] | Cures 4d8 damage +1/level (max +40) for many creatures. |
-| 9th | [[rangoric-srd/spells/Heal, Mass\|Heal, Mass]] | As heal, but with several subjects. |
+| Level | Spell                                                                          | Brief Description                                                         |
+| ----- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Cure Light Wounds\|Cure Light Wounds]]                   | Cures 1d8 damage +1/level (max +5).                                       |
+| 2nd   | [[rangoric-srd/spells/Cure Moderate Wounds\|Cure Moderate Wounds]]             | Cures 2d8 damage +1/level (max +10).                                      |
+| 3rd   | [[rangoric-srd/spells/Cure Serious Wounds\|Cure Serious Wounds]]               | Cures 3d8 damage +1/level (max +15).                                      |
+| 4th   | [[rangoric-srd/spells/Cure Critical Wounds\|Cure Critical Wounds]]             | Cures 4d8 damage +1/level (max +20).                                      |
+| 5th   | [[rangoric-srd/spells/Cure Light Wounds, Mass\|Cure Light Wounds, Mass]]       | Cures 1d8 damage +1/level (max +25) for many creatures.                   |
+| 5th   | [[rangoric-srd/spells/Breath of Life\|Breath of Life]]                         | Cures 5d8 damage + 1/level and restores life to recently slain creatures. |
+| 6th   | [[rangoric-srd/spells/Heal (Spell)\|Heal]]                                     | Cures 10 points/level of damage, all diseases and mental conditions.      |
+| 7th   | [[rangoric-srd/spells/Regenerate\|Regenerate]]                                 | Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35).   |
+| 8th   | [[rangoric-srd/spells/Cure Critical Wounds, Mass\|Cure Critical Wounds, Mass]] | Cures 4d8 damage +1/level (max +40) for many creatures.                   |
+| 9th   | [[rangoric-srd/spells/Heal, Mass\|Heal, Mass]]                                 | As heal, but with several subjects.                                       |

@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Nightmares
 
-*A [[rangoric-srd/classes/Witch#^witch-major-hex|major hex]] (Su).*
+_A [[rangoric-srd/classes/Witch#^witch-major-hex|major hex]] (Su)._
 
-Calling upon fell powers, a witch can place a hex on a creature within 60 feet that causes its sleep to be tormented by terrible nightmares. This functions as the spell *[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]* each time the affected creature attempts to rest. A Will save negates this effect. If the save is failed, the target must make a new save each night or be unable to rest.
+Calling upon fell powers, a witch can place a hex on a creature within 60 feet that causes its sleep to be tormented by terrible nightmares. This functions as the spell _[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]_ each time the affected creature attempts to rest. A Will save negates this effect. If the save is failed, the target must make a new save each night or be unable to rest.

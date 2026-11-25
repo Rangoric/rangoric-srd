@@ -41,11 +41,11 @@ If you fail a check by 4 or less, you make no progress this week.
 
 If you fail by 5 or more, you ruin half the raw materials and have to pay half the original raw material cost again.
 
-*Progress by the Day*: You can make checks by the day instead of by the week. In this case your progress (check result × DC) is in copper pieces instead of silver pieces.
+_Progress by the Day_: You can make checks by the day instead of by the week. In this case your progress (check result × DC) is in copper pieces instead of silver pieces.
 
-*Creating Masterwork Items*: You can make a masterwork item—a weapon, suit of armor, shield, or tool that conveys a bonus on its use through its exceptional craftsmanship, not through being magical. To create a masterwork item, you create the masterwork component as if it were a separate item in addition to the standard item. The masterwork component has its own price (300 gp for a weapon or 150 gp for a suit of armor or a shield) and a Craft DC of 20. Once both the standard component and the masterwork component are completed, the masterwork item is finished. Note: The cost you pay for the masterwork component is one-third of the given amount, just as it is for the cost in raw materials.
+_Creating Masterwork Items_: You can make a masterwork item—a weapon, suit of armor, shield, or tool that conveys a bonus on its use through its exceptional craftsmanship, not through being magical. To create a masterwork item, you create the masterwork component as if it were a separate item in addition to the standard item. The masterwork component has its own price (300 gp for a weapon or 150 gp for a suit of armor or a shield) and a Craft DC of 20. Once both the standard component and the masterwork component are completed, the masterwork item is finished. Note: The cost you pay for the masterwork component is one-third of the given amount, just as it is for the cost in raw materials.
 
-*Repairing Items*: Generally, you can repair an item by making checks against the same DC that it took to make the item in the first place. The cost of repairing an item is one-fifth of the item’s price.
+_Repairing Items_: Generally, you can repair an item by making checks against the same DC that it took to make the item in the first place. The cost of repairing an item is one-fifth of the item’s price.
 
 When you use the Craft skill to make a particular sort of item, the DC for checks involving the creation of that item are typically as given on the following table.
 
@@ -68,9 +68,9 @@ When you use the Craft skill to make a particular sort of item, the DC for check
 | High-quality item (bell)                                          | Varies         | 15                |
 | Complex or superior item (lock)                                   | Varies         | 20                |
 
-1 *You must be a spellcaster to craft any of these items.*
+1 _You must be a spellcaster to craft any of these items._
 
-2 *Traps have their own rules for construction.*
+2 _Traps have their own rules for construction._
 
 **Action**: Does not apply. Craft checks are made by the day or week (see above).
 
@@ -90,21 +90,21 @@ To make an item using Craft (alchemy), you must have alchemical equipment and be
 
 ## Advanced Uses
 
-The character can craft items more quickly than normal.  
+The character can craft items more quickly than normal.
 
-| Task           | DC                 |
-| -------------- | ------------------ |
+| Task           | DC                |
+| -------------- | ----------------- |
 | Quick creation | +10 or more to DC |
 
-*Quick Creation*: A character can voluntarily increase the DC of crafting an item by any multiple of 10. This allows the character to create an item more quickly (since he or she will be multiplying this higher DC by his or her skill check result to determine progress). The character must decide the increase to the DC before making the check.
+_Quick Creation_: A character can voluntarily increase the DC of crafting an item by any multiple of 10. This allows the character to create an item more quickly (since he or she will be multiplying this higher DC by his or her skill check result to determine progress). The character must decide the increase to the DC before making the check.
 
-*Quick Identification*: A character with Craft (alchemy) can identify an alchemical substance or potion in the field as a full-round action, without an alchemical lab or any cost, with a DC 50 check. The character can’t retry this check (or take 20); if he or she fails, the character must identify the substance in an alchemical lab, as normal. (Mysticism identifies potions too.)
+_Quick Identification_: A character with Craft (alchemy) can identify an alchemical substance or potion in the field as a full-round action, without an alchemical lab or any cost, with a DC 50 check. The character can’t retry this check (or take 20); if he or she fails, the character must identify the substance in an alchemical lab, as normal. (Mysticism identifies potions too.)
 
 | Task                       | DC (or DC Modifier) |
 | -------------------------- | ------------------- |
-| Create augmented substance | +20 or more to DC  |
+| Create augmented substance | +20 or more to DC   |
 
-*Create Augmented Alchemical Item or Substance*: This requires the Augmented Alchemy feat, and allows a character to create alchemical items and substances of greater power than normal. To augment an alchemical substance, add +20 to the DC required to create the item and multiply the cost by 5. If the item or substance deals damage, double the damage dealt. If the item or substance doesn’t deal damage, double the duration of its effect. If the item or substance doesn’t deal damage and doesn’t have a specific listed duration (or has an instantaneous duration), double all dimensions of its area. If the item or substance doesn’t fit any of these categories, then it cannot be improved in this manner. A character can create an item with multiple degrees of augmentation. For every additional multiplier applied to damage, duration, or area, add an additional +20 to the DC and add an additional 5 to the cost multiplier.  
+_Create Augmented Alchemical Item or Substance_: This requires the Augmented Alchemy feat, and allows a character to create alchemical items and substances of greater power than normal. To augment an alchemical substance, add +20 to the DC required to create the item and multiply the cost by 5. If the item or substance deals damage, double the damage dealt. If the item or substance doesn’t deal damage, double the duration of its effect. If the item or substance doesn’t deal damage and doesn’t have a specific listed duration (or has an instantaneous duration), double all dimensions of its area. If the item or substance doesn’t fit any of these categories, then it cannot be improved in this manner. A character can create an item with multiple degrees of augmentation. For every additional multiplier applied to damage, duration, or area, add an additional +20 to the DC and add an additional 5 to the cost multiplier.
 
 | Item             | Effect of Augmenting                         |
 | ---------------- | -------------------------------------------- |
@@ -114,7 +114,7 @@ The character can craft items more quickly than normal.
 | Smokestick       | Smoke fills a 20-foot cube                   |
 | Sunrod           | Glows for 12 hours                           |
 | Tanglefoot bag   | Becomes brittle and fragile after 20 minutes |
-| Tindertwig        | No effect                                    |
+| Tindertwig       | No effect                                    |
 
 ## Unlocks
 

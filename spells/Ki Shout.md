@@ -29,15 +29,15 @@ tags: [rangoric, rangoric/spell]
 
 # Ki Shout
 
-*Evocation \[Sonic\]*
+_Evocation \[Sonic\]_
 
-  - **Level**: Brd 5, Psy 7, Skd 5, Sor/Wiz 7
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft + 5 ft./2 levels)
-  - **Target**: One living creature
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude partial
-  - **Spell Resistance**: Yes
+- **Level**: Brd 5, Psy 7, Skd 5, Sor/Wiz 7
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft + 5 ft./2 levels)
+- **Target**: One living creature
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude partial
+- **Spell Resistance**: Yes
 
 With a guttural bark, you unleash a sudden blast of sonic energy that strikes your opponent. The target takes 1d6 points of sonic damage per level (maximum 20d6) and is stunned for 1 round; a successful Fortitude save reduces the damage by half and negates the stun.

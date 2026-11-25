@@ -33,16 +33,16 @@ tags: [rangoric, rangoric/spell]
 
 # Malicious Spite
 
-*Enchantment (Compulsion) \[Emotion, Mind-affecting\]*
+_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
 
-  - **Level**: Brd 3, Mes 3, Psy 4, Skd 3, Sor/Wiz 4
-  - **Components**: V, S, M (powdered turquoise worth 150 gp)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: 1 day/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 3, Mes 3, Psy 4, Skd 3, Sor/Wiz 4
+- **Components**: V, S, M (powdered turquoise worth 150 gp)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: 1 day/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 You invoke feelings of a driving malicious intent. The target's malice is directed at a second individual as designated by you at the time of casting. Thereafter, the target attempts to slander, abuse, and even plot murder against the target of its spite. This loathing is not overt, and the target's actions against the object of its spite remain subtle and indirect. The enchanted target remains within its financial and ethical means when acting against the second individual, though the malice toward this other person pushes the target to the limit of what it would do to a hated individual.
 

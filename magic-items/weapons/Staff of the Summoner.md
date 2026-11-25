@@ -17,12 +17,12 @@ tags: [rangoric, rangoric/magic-item]
 
 # Staff of the Summoner
 
-This *+2 quarterstaff* is made from a long, sturdy, oaken branch. Living vines and leaves sprout from it and twine up and down its length. It allows its wielder to call forth the following effects:
+This _+2 quarterstaff_ is made from a long, sturdy, oaken branch. Living vines and leaves sprout from it and twine up and down its length. It allows its wielder to call forth the following effects:
 
-- *[[rangoric-srd/spells/Summon Nature’s Ally III|summon nature’s ally III]]* (1 charge)
-- *[[rangoric-srd/spells/Call Lightning|call lightning]]* (1 charge, DC 15)
-- *[[rangoric-srd/spells/Insect Plague|insect plague]]* (2 charges, DC 17)
-- *[[rangoric-srd/spells/Summon Nature’s Ally VI|summon nature’s ally VI]]* (2 charges)
-- *[[rangoric-srd/spells/Creeping Doom|creeping doom]]* (3 charges)
+- _[[rangoric-srd/spells/Summon Nature’s Ally III|summon nature’s ally III]]_ (1 charge)
+- _[[rangoric-srd/spells/Call Lightning|call lightning]]_ (1 charge, DC 15)
+- _[[rangoric-srd/spells/Insect Plague|insect plague]]_ (2 charges, DC 17)
+- _[[rangoric-srd/spells/Summon Nature’s Ally VI|summon nature’s ally VI]]_ (2 charges)
+- _[[rangoric-srd/spells/Creeping Doom|creeping doom]]_ (3 charges)
 
-Moderate conjuration; CL 13th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Call Lightning|call lightning]]*, *[[rangoric-srd/spells/Summon Nature’s Ally III|summon nature’s ally III]]* and *[[rangoric-srd/spells/Summon Nature’s Ally VI|VI]]*, *[[rangoric-srd/spells/Insect Plague|insect plague]]*, and *[[rangoric-srd/spells/Creeping Doom|creeping doom]]*; Price 73,600 gp; Cost 36,800 gp + 2,944 XP.
+Moderate conjuration; CL 13th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Call Lightning|call lightning]]_, _[[rangoric-srd/spells/Summon Nature’s Ally III|summon nature’s ally III]]_ and _[[rangoric-srd/spells/Summon Nature’s Ally VI|VI]]_, _[[rangoric-srd/spells/Insect Plague|insect plague]]_, and _[[rangoric-srd/spells/Creeping Doom|creeping doom]]_; Price 73,600 gp; Cost 36,800 gp + 2,944 XP.

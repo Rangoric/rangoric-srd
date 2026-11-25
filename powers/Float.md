@@ -28,6 +28,6 @@ Psychoportation
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 round/level (D)  
-**Power Points:** 1  
+**Power Points:** 1
 
 You mentally support yourself in water or similar liquid. You can swim at a speed of 10 feet using the power alone, or use it to boost your swim speed by 10 feet.

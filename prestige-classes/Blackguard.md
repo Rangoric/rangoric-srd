@@ -103,7 +103,7 @@ Blackguards choose their spells from the following list:
 
 4th Level: cure critical wounds, freedom of movement, inflict critical wounds, poison, summon monster IV\*.
 
-\* *Evil creatures only.*
+\* _Evil creatures only._
 
 ###### Corrupt Weapon
 
@@ -139,20 +139,20 @@ Should the blackguard's servant die, he may call for another one after a year an
 
 | Character Level | Bonus HD | Natural Armor Adj. | Str Adj. | Int | Special                                                            |
 | --------------- | -------- | ------------------ | -------- | --- | ------------------------------------------------------------------ |
-| 12th or lower   | +2      | +1                | +1      | 6   | Empathic link, improved evasion, share saving throws, share spells |
-| 13th–15th       | +4      | +3                | +2      | 7   | Speak with blackguard                                              |
-| 16th–18th       | +6      | +5                | +3      | 8   | Blood bond                                                         |
-| 19th–20th       | +8      | +7                | +4      | 9   | Spell resistance                                                   |
+| 12th or lower   | +2       | +1                 | +1       | 6   | Empathic link, improved evasion, share saving throws, share spells |
+| 13th–15th       | +4       | +3                 | +2       | 7   | Speak with blackguard                                              |
+| 16th–18th       | +6       | +5                 | +3       | 8   | Blood bond                                                         |
+| 19th–20th       | +8       | +7                 | +4       | 9   | Spell resistance                                                   |
 
-*Character Level*: The character level of the blackguard (his blackguard level plus his original class level).
+_Character Level_: The character level of the blackguard (his blackguard level plus his original class level).
 
-*Bonus HD*: Extra eight-sided (d8) Hit Dice, each of which gains a Constitution modifier, as normal. Extra Hit Dice improve the servant’s base attack and base save bonuses, as normal.
+_Bonus HD_: Extra eight-sided (d8) Hit Dice, each of which gains a Constitution modifier, as normal. Extra Hit Dice improve the servant’s base attack and base save bonuses, as normal.
 
-*Natural Armor Adj.*: This is an improvement to the servant’s existing natural armor bonus.
+_Natural Armor Adj._: This is an improvement to the servant’s existing natural armor bonus.
 
-*Str Adj.*: Add this figure to the servant’s Strength score.
+_Str Adj._: Add this figure to the servant’s Strength score.
 
-*Int*: The servant’s Intelligence score. (A fiendish servant is smarter than normal animals of its kind.)
+_Int_: The servant’s Intelligence score. (A fiendish servant is smarter than normal animals of its kind.)
 
 The abilities mentioned in the “Special” column of the accompanying table are described below.
 

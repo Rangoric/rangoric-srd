@@ -41,26 +41,26 @@ tags: [rangoric, rangoric/monster]
 
 # Noble Salamander
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fire|Fire]])
-  - **Hit Dice**: 15d8+45 (112 hp)
-  - **Initiative**: +1
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 18 (–1 size, +1 Dex, +8 natural), touch 10, flat-footed 17
-  - **Base Attack**: +15; **CMB**: +22 (+26 grapple); **CMD**: 33 (can't be tripped)
-  - **Attack**: +3 longspear +23 melee (1d8+9/x3 plus 1d8 fire)
-  - **Full Attack**: +3 longspear +23/+18/+13 melee (1d8+9/x3 plus 1d8 fire) and tail slap +18 melee (2d8+3 plus 1d8 fire)
-  - **Space/Reach**: 10 ft./10 ft. (20 ft. with tail or longspear)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] 2d8+3 plus 1d8 fire, heat, [[rangoric-srd/monsters/abilities/Grab|improved grab]], spell-like abilities
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 15/magic, darkvision 60 ft., immunity to fire, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
-  - **Saves**: Fort +12, Ref +10, Will +11
-  - **Abilities**: Str 22, Dex 13, Con 16, Int 16, Wis 15, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (blacksmithing) +25, [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Persuasion|Persuasion]] +20, [[rangoric-srd/skills/Stealth|Stealth]] +15
-  - **Unspent Skill Points**: 75
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft \[blacksmithing\]), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Elemental Plane of Fire
-  - **Organization**: Solitary, pair, or noble party (9–14)
-  - **Challenge Rating**: 10
-  - **Treasure**: Double standard (nonflammables only) and +3 longspear
-  - **Alignment**: Usually evil (any)
-  - **Advancement**: 16–21 HD (Large); 22–45 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fire|Fire]])
+- **Hit Dice**: 15d8+45 (112 hp)
+- **Initiative**: +1
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 18 (–1 size, +1 Dex, +8 natural), touch 10, flat-footed 17
+- **Base Attack**: +15; **CMB**: +22 (+26 grapple); **CMD**: 33 (can't be tripped)
+- **Attack**: +3 longspear +23 melee (1d8+9/x3 plus 1d8 fire)
+- **Full Attack**: +3 longspear +23/+18/+13 melee (1d8+9/x3 plus 1d8 fire) and tail slap +18 melee (2d8+3 plus 1d8 fire)
+- **Space/Reach**: 10 ft./10 ft. (20 ft. with tail or longspear)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] 2d8+3 plus 1d8 fire, heat, [[rangoric-srd/monsters/abilities/Grab|improved grab]], spell-like abilities
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 15/magic, darkvision 60 ft., immunity to fire, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
+- **Saves**: Fort +12, Ref +10, Will +11
+- **Abilities**: Str 22, Dex 13, Con 16, Int 16, Wis 15, Cha 15
+- **Skills**: [[rangoric-srd/skills/Craft|Craft]] (blacksmithing) +25, [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Persuasion|Persuasion]] +20, [[rangoric-srd/skills/Stealth|Stealth]] +15
+- **Unspent Skill Points**: 75
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft \[blacksmithing\]), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Elemental Plane of Fire
+- **Organization**: Solitary, pair, or noble party (9–14)
+- **Challenge Rating**: 10
+- **Treasure**: Double standard (nonflammables only) and +3 longspear
+- **Alignment**: Usually evil (any)
+- **Advancement**: 16–21 HD (Large); 22–45 HD (Huge)
+- **Level Adjustment**: —

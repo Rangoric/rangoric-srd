@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Minotaur
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
-  - **Hit Dice**: 6d10+12 (45 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 14 (+5 natural, –1 size), touch 9, flat-footed 14
-  - **Base Attack**: +6; **CMB**: +11; **CMD**: 21
-  - **Attack**: [[rangoric-srd/equipment/weapons/Greataxe|Greataxe]] +9 melee (3d6+6/×3) or gore +9 melee (1d6+2)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Greataxe|Greataxe]] +9/+4 melee (3d6+6/×3) and gore +4 melee (1d6+2)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (gore +11, 2d6+6)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], natural cunning
-  - **Saves**: Fort +6, Ref +5, Will +5
-  - **Abilities**: Str 19, Dex 10, Con 15, Int 7, Wis 10, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +2
-  - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Temperate ruins or underground
-  - **Organization**: Solitary, pair, or gang (3–4)
-  - **Challenge Rating**: 4
-  - **Treasure**: Standard (greataxe, other treasure)
-  - **Alignment**: Usually chaotic Evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: +2
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
+- **Hit Dice**: 6d10+12 (45 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 14 (+5 natural, –1 size), touch 9, flat-footed 14
+- **Base Attack**: +6; **CMB**: +11; **CMD**: 21
+- **Attack**: [[rangoric-srd/equipment/weapons/Greataxe|Greataxe]] +9 melee (3d6+6/×3) or gore +9 melee (1d6+2)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Greataxe|Greataxe]] +9/+4 melee (3d6+6/×3) and gore +4 melee (1d6+2)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (gore +11, 2d6+6)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], natural cunning
+- **Saves**: Fort +6, Ref +5, Will +5
+- **Abilities**: Str 19, Dex 10, Con 15, Int 7, Wis 10, Cha 8
+- **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +2
+- **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Temperate ruins or underground
+- **Organization**: Solitary, pair, or gang (3–4)
+- **Challenge Rating**: 4
+- **Treasure**: Standard (greataxe, other treasure)
+- **Alignment**: Usually chaotic Evil
+- **Advancement**: By character class
+- **Level Adjustment**: +2
 
 Nothing holds a grudge like a minotaur. Scorned by the civilized races centuries ago and born from a deific curse, minotaurs have hunted, slain, and devoured lesser humanoids in retribution for real or imagined slights for as long as anyone can remember. Many cultures have legends of how the first minotaurs were created by vengeful or slighted gods who punished humans by twisting their forms, robbing them of their intellects and beauty, and giving them the heads of bulls. Yet most modern minotaurs hold these legends in contempt and believe that they are not divine mockeries but divine paragons created by a potent and cruel demon lord.
 
@@ -78,38 +78,38 @@ Minotaurs speak Giant.
 
 Minotaurs prefer melee combat, where their great strength serves them well.
 
-**Natural Cunning (Ex)**: Although minotaurs are not especially intelligent, they possess innate cunning and logical ability. This gives them immunity to *[[rangoric-srd/spells/Maze|maze]]* spells, prevents them from ever becoming lost, and enables them to track enemies. Further, they are never caught flat-footed.
+**Natural Cunning (Ex)**: Although minotaurs are not especially intelligent, they possess innate cunning and logical ability. This gives them immunity to _[[rangoric-srd/spells/Maze|maze]]_ spells, prevents them from ever becoming lost, and enables them to track enemies. Further, they are never caught flat-footed.
 
 ### Minotaurs as Characters
 
 Minotaur characters possess the following racial traits.
 
-  - \+8 Strength, +4 Constitution, –4 Intelligence (minimum 3), –2 Charisma.
+- \+8 Strength, +4 Constitution, –4 Intelligence (minimum 3), –2 Charisma.
 
-  - Large size. –1 penalty to Armor Class, –1 penalty on attack rolls, –4 penalty on [[rangoric-srd/skills/Stealth|Stealth]] checks, +4 bonus on [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks, lifting and carrying limits double those of Medium characters.
+- Large size. –1 penalty to Armor Class, –1 penalty on attack rolls, –4 penalty on [[rangoric-srd/skills/Stealth|Stealth]] checks, +4 bonus on [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks, lifting and carrying limits double those of Medium characters.
 
-  - Space/Reach: 10 feet/10 feet.
+- Space/Reach: 10 feet/10 feet.
 
-  - A minotaur’s base land speed is 30 feet.
+- A minotaur’s base land speed is 30 feet.
 
-  - Darkvision out to 60 feet.
+- Darkvision out to 60 feet.
 
-  - Racial Hit Dice: A minotaur begins with six levels of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|monstrous humanoid]], which provide 6d8 Hit Dice, a base attack bonus of +6, and base saving throw bonuses of Fort +2, Ref +5, and Will +5.
+- Racial Hit Dice: A minotaur begins with six levels of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|monstrous humanoid]], which provide 6d8 Hit Dice, a base attack bonus of +6, and base saving throw bonuses of Fort +2, Ref +5, and Will +5.
 
-  - Racial Skills: A minotaur’s monstrous humanoid levels give it skill points equal to 6 x (2 + Int modifier, minimum 1). Its class skills are [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Intimidation|Intimidation]], [[rangoric-srd/skills/Investigation|Investigation]], and [[rangoric-srd/skills/Perception|Perception]]. Minotaurs have a +4 racial bonus on Investigation and Perception checks.
+- Racial Skills: A minotaur’s monstrous humanoid levels give it skill points equal to 6 x (2 + Int modifier, minimum 1). Its class skills are [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Intimidation|Intimidation]], [[rangoric-srd/skills/Investigation|Investigation]], and [[rangoric-srd/skills/Perception|Perception]]. Minotaurs have a +4 racial bonus on Investigation and Perception checks.
 
-  - Racial Feats: A minotaur’s monstrous humanoid levels give it three feats.
+- Racial Feats: A minotaur’s monstrous humanoid levels give it three feats.
 
-  - Weapon Proficiency: A minotaur is proficient with the greataxe and all simple weapons.
+- Weapon Proficiency: A minotaur is proficient with the greataxe and all simple weapons.
 
-  - \+5 natural armor bonus.
+- \+5 natural armor bonus.
 
-  - Natural Weapons: Gore (1d8).
+- Natural Weapons: Gore (1d8).
 
-  - Special Attacks (see above): [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]].
+- Special Attacks (see above): [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]].
 
-  - Special Qualities (see above): Natural cunning, [[rangoric-srd/monsters/abilities/Scent|scent]].
+- Special Qualities (see above): Natural cunning, [[rangoric-srd/monsters/abilities/Scent|scent]].
 
-  - Automatic Languages: Common, Giant. Bonus Languages: Orc, Goblin, Terran.
+- Automatic Languages: Common, Giant. Bonus Languages: Orc, Goblin, Terran.
 
-  - Level adjustment +2.
+- Level adjustment +2.

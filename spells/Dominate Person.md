@@ -36,16 +36,16 @@ tags: [rangoric, rangoric/spell]
 
 # Dominate Person
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Brd 4, Enchantment 6, Mes 4, Msl 4, Occ 5, Psy 5, Sha 5, Skd 4, Sor/Wiz 5, Spi 5, Wit 5
-  - **Components**: V, S
-  - **Casting Time**: 1 round
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One humanoid
-  - **Duration**: One day/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 4, Enchantment 6, Mes 4, Msl 4, Occ 5, Psy 5, Sha 5, Skd 4, Sor/Wiz 5, Spi 5, Wit 5
+- **Components**: V, S
+- **Casting Time**: 1 round
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One humanoid
+- **Duration**: One day/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 You can control the actions of any humanoid creature through a telepathic link that you establish with the subject’s mind.
 

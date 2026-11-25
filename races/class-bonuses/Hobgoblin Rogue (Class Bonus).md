@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Hobgoblin Rogue
 
-*A [[rangoric-srd/races/Hobgoblin|hobgoblin]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Rogue#^rogue-class-bonuses|rogue]] level.*
+_A [[rangoric-srd/races/Hobgoblin|hobgoblin]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Rogue#^rogue-class-bonuses|rogue]] level._
 
 Reduce the penalty for not being proficient with one weapon by 1. When the nonproficiency penalty for a weapon becomes 0 because of this ability, the rogue is treated as having the appropriate [[rangoric-srd/feats/Martial Weapon Proficiency|Martial]] or [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] feat for that weapon.

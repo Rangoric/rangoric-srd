@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Burly
 
-*A [[rangoric-srd/prestige-classes/Master Chymist#^master-chymist-advanced-mutagen|master chymist’s advanced mutagen]] (Ex).*
+_A [[rangoric-srd/prestige-classes/Master Chymist#^master-chymist-advanced-mutagen|master chymist’s advanced mutagen]] (Ex)._
 
 In her mutagenic form, the master chymist’s heavy physical frame gives her an alchemical bonus on Strength checks, Constitution checks, and Strength-based skill checks as well as a bonus to [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|CMB]] and [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]]. The bonus is equal to half the master chymist’s class level.

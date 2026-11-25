@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Freedom Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Liberation Domain|Liberation]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Liberation Domain|Liberation]] domain._
 
 ## Replacement Power
 
@@ -27,7 +27,7 @@ This power replaces the [[rangoric-srd/class-options/domains/Liberation Domain#G
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Sanctuary\|Sanctuary]] | Opponents can’t attack you, and you can’t attack. |
-| 5th | [[rangoric-srd/spells/Plane Shift\|Plane Shift]] (F) | As many as eight subjects travel to another plane. |
+| Level | Spell                                                | Brief Description                                  |
+| ----- | ---------------------------------------------------- | -------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Sanctuary\|Sanctuary]]         | Opponents can’t attack you, and you can’t attack.  |
+| 5th   | [[rangoric-srd/spells/Plane Shift\|Plane Shift]] (F) | As many as eight subjects travel to another plane. |

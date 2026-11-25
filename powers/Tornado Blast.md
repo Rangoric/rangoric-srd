@@ -31,7 +31,7 @@ Psychokinesis
 **Duration:** Instantaneous  
 **Saving Throw:** Reflex half; see text  
 **Power Resistance:** No  
-**Power Points:** 17  
+**Power Points:** 17
 
 You induce the formation of a slender vortex of fiercely swirling air. When you manifest it, a vortex of air visibly and audibly snakes out from your outstretched hand.
 

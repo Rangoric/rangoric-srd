@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/close]
 
 # Spiked Gauntlet
 
-*Simple light melee weapon.* Cost 5 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Weight 1 lb.; Type Piercing. ^stats
+_Simple light melee weapon._ Cost 5 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Weight 1 lb.; Type Piercing. ^stats
 
 Your opponent cannot use a disarm action to disarm you of spiked gauntlets. The cost and weight given are for a single gauntlet. An attack with a spiked gauntlet is considered an armed attack.

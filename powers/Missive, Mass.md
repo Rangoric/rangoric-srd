@@ -34,7 +34,7 @@ Telepathy \[Mind-Affecting, Language-Dependent\]
 **Effect:** Mental message delivered to subjects  
 **Saving Throw:** Will negates (harmless)  
 **Power Resistance:** Yes (harmless)  
-**Power Points:** 3  
+**Power Points:** 3
 
 You send a telepathic message of up to twenty-five words to all creatures within range. You can include or exclude from this broadcast any creature you can see, as well as any creature that you know or know of. Mass missive is strictly a one-way exchange from you to the subjects. If you do not share a common language, the subjects “hear” meaningless mental syllables.
 

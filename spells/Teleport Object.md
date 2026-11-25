@@ -21,13 +21,13 @@ tags: [rangoric, rangoric/spell]
 
 # Teleport Object
 
-*Conjuration (Teleportation)*
+_Conjuration (Teleportation)_
 
-  - **Level**: Psy 7, Sor/Wiz 7, Wit 7
-  - **Range**: Touch
-  - **Target**: One touched object of up to 50 lb./level and 3 cu. ft./level
-  - **Saving Throw**: Will negates (object)
-  - **Spell Resistance**: Yes (object)
+- **Level**: Psy 7, Sor/Wiz 7, Wit 7
+- **Range**: Touch
+- **Target**: One touched object of up to 50 lb./level and 3 cu. ft./level
+- **Saving Throw**: Will negates (object)
+- **Spell Resistance**: Yes (object)
 
 This spell functions like [[rangoric-srd/spells/Teleport|teleport]], except that it teleports an object, not you. Creatures and magical forces cannot be teleported.
 

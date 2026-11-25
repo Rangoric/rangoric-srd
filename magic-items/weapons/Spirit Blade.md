@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Spirit Blade
 
-This almost transparently thin weapon is often decorated with strange faces and swirling mist. In addition to being a *+3 ghost touch dagger*, it can cast *[[rangoric-srd/spells/Dispel Magic|dispel magic]]* once per day.
+This almost transparently thin weapon is often decorated with strange faces and swirling mist. In addition to being a _+3 ghost touch dagger_, it can cast _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_ once per day.
 
-Moderate abjuration; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, *[[rangoric-srd/spells/Plane Shift|plane shift]]*, creator must be 9th level; Price 48,502 gp; Cost 24,402 gp; Weight 1 lbs.
+Moderate abjuration; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Plane Shift|plane shift]]_, creator must be 9th level; Price 48,502 gp; Cost 24,402 gp; Weight 1 lbs.

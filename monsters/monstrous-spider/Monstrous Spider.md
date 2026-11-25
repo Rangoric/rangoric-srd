@@ -11,13 +11,13 @@ tags: [rangoric, rangoric/monster]
 
 # Monstrous Spider
 
-  - [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Tiny|Monstrous Spider, Tiny]]
-  - [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Small|Monstrous Spider, Small]]
-  - [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Medium|Monstrous Spider, Medium]]
-  - [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Large|Monstrous Spider, Large]]
-  - [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Huge|Monstrous Spider, Huge]]
-  - [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Gargantuan|Monstrous Spider, Gargantuan]]
-  - [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Colossal|Monstrous Spider, Colossal]]
+- [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Tiny|Monstrous Spider, Tiny]]
+- [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Small|Monstrous Spider, Small]]
+- [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Medium|Monstrous Spider, Medium]]
+- [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Large|Monstrous Spider, Large]]
+- [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Huge|Monstrous Spider, Huge]]
+- [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Gargantuan|Monstrous Spider, Gargantuan]]
+- [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Colossal|Monstrous Spider, Colossal]]
 
 All monstrous spiders are aggressive predators that use their poisonous bites to subdue or kill prey.
 
@@ -27,15 +27,15 @@ Monstrous spiders come in two general types: hunters and web-spinners. Hunters r
 
 and secondary damage.
 
-| Size       | Fort DC | Damage  |
-| ---------- | ------- | ------- |
-| Tiny       | 10      | 1d2 Str |
-| Small      | 10      | 1d3 Str |
-| Medium     | see [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Medium\|Medium]] | — |
-| Large      | 13      | 1d6 Str |
-| Huge       | 16      | 1d8 Str |
-| Gargantuan | 20      | 2d6 Str |
-| Colossal   | 28      | 2d8 Str |
+| Size       | Fort DC                                                                         | Damage  |
+| ---------- | ------------------------------------------------------------------------------- | ------- |
+| Tiny       | 10                                                                              | 1d2 Str |
+| Small      | 10                                                                              | 1d3 Str |
+| Medium     | see [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Medium\|Medium]] | —       |
+| Large      | 13                                                                              | 1d6 Str |
+| Huge       | 16                                                                              | 1d8 Str |
+| Gargantuan | 20                                                                              | 2d6 Str |
+| Colossal   | 28                                                                              | 2d8 Str |
 
 **Web (Ex)**: Both types of monstrous spiders often wait in their webs or in trees, then lower themselves silently on silk strands and leap onto prey passing beneath. A single strand is strong enough to support the spider and one creature of the same size.
 
@@ -47,15 +47,15 @@ Web-spinners often create sheets of sticky webbing from 5 to 60 feet square, dep
 
 A monstrous spider can move across its own web at its climb speed and can pinpoint the location of any creature touching its web.
 
-| Size       | Escape Artist DC | Break DC | Hit Points |
-| ---------- | ---------------- | -------- | ---------- |
-| Tiny       | 10               | 14       | 2          |
-| Small      | 10               | 14       | 4          |
-| Medium     | see [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Medium\|Medium]] | — | — |
-| Large      | 13               | 17       | 12         |
-| Huge       | 16               | 20       | 14         |
-| Gargantuan | 20               | 24       | 16         |
-| Colossal   | 28               | 32       | 18         |
+| Size       | Escape Artist DC                                                                | Break DC | Hit Points |
+| ---------- | ------------------------------------------------------------------------------- | -------- | ---------- |
+| Tiny       | 10                                                                              | 14       | 2          |
+| Small      | 10                                                                              | 14       | 4          |
+| Medium     | see [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Medium\|Medium]] | —        | —          |
+| Large      | 13                                                                              | 17       | 12         |
+| Huge       | 16                                                                              | 20       | 14         |
+| Gargantuan | 20                                                                              | 24       | 16         |
+| Colossal   | 28                                                                              | 32       | 18         |
 
 **Tremorsense (Ex)**: A monstrous spider can detect and pinpoint any creature or object within 60 feet in contact with the ground, or within any range in contact with the spider’s webs.
 

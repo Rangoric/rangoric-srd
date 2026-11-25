@@ -36,15 +36,15 @@ tags: [rangoric, rangoric/spell]
 
 # Vision of Hell
 
-*Illusion (Glamer) \[Evil, Fear\]*
+_Illusion (Glamer) \[Evil, Fear\]_
 
-  - **Level**: Blr 3, Brd 3, Clr 3, Mes 3, Occ 3, Psy 3, Skd 3, Sor/Wiz 3, Wit 3
-  - **Components**: V, M (a pinch of brimstone)
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: 50-ft.-radius emanation
-  - **Duration**: 1 minute/level (D)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: No
+- **Level**: Blr 3, Brd 3, Clr 3, Mes 3, Occ 3, Psy 3, Skd 3, Sor/Wiz 3, Wit 3
+- **Components**: V, M (a pinch of brimstone)
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: 50-ft.-radius emanation
+- **Duration**: 1 minute/level (D)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: No
 
 You overlay a realistic illusion of a terrifying hellscape upon an area. Structures, equipment, and creatures within the area are not hidden, though environmental features take on an infernal appearance. While you are prepared for these images and are not affected by them, any other creature within the area must make a Will save or become shaken and also take a –2 penalty on saves versus fear effects; the fear and penalty persists as long as the creature remains in the area. Devils and any lawful evil creatures suffer no negative effects from this spell.

@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/flails, weapon-group/monk, easter
 
 # Urumi
 
-*Exotic one-handed melee weapon (distracting, monk).* Cost 30 gp; Dmg 1d6 (S), 1d8 (M); Critical 18–20/x2; Weight 6 lb.; Type Slashing. ^stats
+_Exotic one-handed melee weapon (distracting, monk)._ Cost 30 gp; Dmg 1d6 (S), 1d8 (M); Critical 18–20/x2; Weight 6 lb.; Type Slashing. ^stats
 
 Commonly known as a whip sword, this deadly weapon is fashioned from one to four 5-foot-long, razor-sharp blades of flexible steel. The weapon is wielded by whipping the blades at one's opponent. The coiled blade is fine and flexible enough to be worn as a belt.
 

@@ -23,13 +23,13 @@ tags: [rangoric, rangoric/spell]
 
 # Universal Formula
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 4
-  - **Components**: V, S, M (quicksilver and powdered platinum worth 100 gp)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: Instantaneous
+- **Level**: Alc 4
+- **Components**: V, S, M (quicksilver and powdered platinum worth 100 gp)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: Instantaneous
 
 As you ingest this extract, it transforms into the appropriate extract for any formula you know of 3rd level or lower and takes effect immediately. If the chosen formula has an expensive material component, it must be provided along with the component for this formula. You may not create an [[rangoric-srd/class-options/discoveries/Infusion (Discovery)|infused]] extract with this formula.

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Quickwood
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 10d8+50 (95 hp)
-  - **Initiative**: +3
-  - **Speed**: 10 ft. (2 squares)
-  - **Armor Class**: 19 (–1 Dex, +12 natural, –2 size), touch 7, flat-footed 19
-  - **Base Attack**: +7; **CMB**: +18; **CMD**: 27 (can't be tripped)
-  - **Attack**: Bite +19 melee (2d6+9) or roots +12 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Pull|pull]])
-  - **Full Attack**: Bite +14 melee (2d6+9) and 3 roots +12 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Pull|pull]])
-  - **Space/Reach**: 5 ft./15 ft. (60 ft. with root)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pull|Pull]] (root, 10 ft.)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Oaksight|oaksight]], [[rangoric-srd/monsters/abilities/Fear Aura (Quickwood)|fear aura]] (variable distance, DC 20), [[rangoric-srd/monsters/abilities/Spell Absorption|spell absorption]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and fire, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19 (see spell absorption)
-  - **Saves**: Fort +12, Ref +2, Will +5
-  - **Abilities**: Str 29, Dex 8, Con 21, Int 12, Wis 15, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +4 (+8 in forests)
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary
-  - **Challenge Rating**: 8
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 10d8+50 (95 hp)
+- **Initiative**: +3
+- **Speed**: 10 ft. (2 squares)
+- **Armor Class**: 19 (–1 Dex, +12 natural, –2 size), touch 7, flat-footed 19
+- **Base Attack**: +7; **CMB**: +18; **CMD**: 27 (can't be tripped)
+- **Attack**: Bite +19 melee (2d6+9) or roots +12 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Pull|pull]])
+- **Full Attack**: Bite +14 melee (2d6+9) and 3 roots +12 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Pull|pull]])
+- **Space/Reach**: 5 ft./15 ft. (60 ft. with root)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Pull|Pull]] (root, 10 ft.)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Oaksight|oaksight]], [[rangoric-srd/monsters/abilities/Fear Aura (Quickwood)|fear aura]] (variable distance, DC 20), [[rangoric-srd/monsters/abilities/Spell Absorption|spell absorption]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and fire, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19 (see spell absorption)
+- **Saves**: Fort +12, Ref +2, Will +5
+- **Abilities**: Str 29, Dex 8, Con 21, Int 12, Wis 15, Cha 12
+- **Skills**: [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +4 (+8 in forests)
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Temperate forests
+- **Organization**: Solitary
+- **Challenge Rating**: 8
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 These carnivorous plants prize human and elven flesh, but eat anything they manage to catch. Quickwoods typically explore an area, taking note of any oak trees, and then root themselves and wait for prey to wander by. They use their oaksight ability to maintain constant surveillance of their hunting grounds and send their roots out to drag likely prey back to them.
 

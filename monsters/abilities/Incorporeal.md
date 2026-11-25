@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Incorporeal
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “incorporeal”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “incorporeal”, on the Special Qualities line.
 
 An incorporeal creature has no physical body. How it is harmed, moves and attacks is under [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|incorporeality]]; the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^incorporeal|incorporeal subtype]] gives its traits.

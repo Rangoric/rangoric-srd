@@ -28,10 +28,10 @@ Also known as the Aspect of the Night, creatures taking Aspect of the Darkness f
 
 How these effects work is in [[rangoric-srd/races/aspects-of-nature/Aspects of Nature#Aspect of Nature Effects|Aspect of Nature Effects]].
 
-| Facet | Bonus | Penalty |
-| --- | --- | --- |
-| The Moon | practiced spell (chaos) | amateur spell (law) |
-| The Night | effective spellcasting (cold) | ineffective spellcasting (fire) |
-| The Shadows | +1 AC 3x/day | -1 Attack rolls 3x/day |
-| The Stars | capable spellcasting (darkness) | crude spellcasting (light) |
-| The Void | +1 Damage rolls 3x/day | -1 Attack rolls 3x/day |
+| Facet       | Bonus                           | Penalty                         |
+| ----------- | ------------------------------- | ------------------------------- |
+| The Moon    | practiced spell (chaos)         | amateur spell (law)             |
+| The Night   | effective spellcasting (cold)   | ineffective spellcasting (fire) |
+| The Shadows | +1 AC 3x/day                    | -1 Attack rolls 3x/day          |
+| The Stars   | capable spellcasting (darkness) | crude spellcasting (light)      |
+| The Void    | +1 Damage rolls 3x/day          | -1 Attack rolls 3x/day          |

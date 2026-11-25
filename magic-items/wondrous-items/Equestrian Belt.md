@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This belt is worked with images of horses stampeding across a barren, windswept plain. The belt's wearer automatically succeeds at any check to guide with the knees, stay in the saddle, fight with a combat-trained mount, control a mount in battle, or make a fast mount or dismount, as long as the belt's wearer is wearing medium, light, or no armor. Furthermore, the belt grants a +4 competence bonus on all other [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks to ride, including ones made while the wearer is in heavy armor.
 
-Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*; Price 3,200 gp; Cost 1,600 gp; Weight 1 lb.
+Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_; Price 3,200 gp; Cost 1,600 gp; Weight 1 lb.

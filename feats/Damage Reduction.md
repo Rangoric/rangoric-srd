@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, fighter-bonus, epic]
 
 # Damage Reduction
 
-Prerequisite: Con 21.  
+Prerequisite: Con 21.
 
 Benefit: The character gains damage reduction 3/-. This does not stack with damage reduction granted by magic items or nonpermanent magical effects, but it does stack with any damage reduction granted by permanent magical effects, class features, or this feat itself.
 

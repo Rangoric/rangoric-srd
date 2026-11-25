@@ -25,10 +25,10 @@ This ragged collection of scorched and stained notes is tied with cheap twine be
 
 ## Formulae
 
-- **4th**: *[[rangoric-srd/spells/Dragon’s Breath|dragon's breath]]*
-- **3rd**: *[[rangoric-srd/spells/Beast Shape I|beast shape I]]*, *[[rangoric-srd/spells/Rage|rage]]*, *[[rangoric-srd/spells/Tongues|tongues]]*, *[[rangoric-srd/spells/Water Breathing|water breathing]]*
-- **2nd**: *[[rangoric-srd/spells/Barkskin|barkskin]]*, *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*, *[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]*, *[[rangoric-srd/spells/Elemental Touch|elemental touch]]*, *[[rangoric-srd/spells/Resist Energy|resist energy]]*
-- **1st**: *[[rangoric-srd/spells/Bomber’s Eye|bomber's eye]]*, *[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]*, *[[rangoric-srd/spells/Crafter’s Fortune|crafter's fortune]]*, *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*, *[[rangoric-srd/spells/Disguise Self|disguise self]]*, *[[rangoric-srd/spells/Enlarge Person|enlarge person]]*, *[[rangoric-srd/spells/Identify|identify]]*, *[[rangoric-srd/spells/Shield|shield]]*
+- **4th**: _[[rangoric-srd/spells/Dragon’s Breath|dragon's breath]]_
+- **3rd**: _[[rangoric-srd/spells/Beast Shape I|beast shape I]]_, _[[rangoric-srd/spells/Rage|rage]]_, _[[rangoric-srd/spells/Tongues|tongues]]_, _[[rangoric-srd/spells/Water Breathing|water breathing]]_
+- **2nd**: _[[rangoric-srd/spells/Barkskin|barkskin]]_, _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]_, _[[rangoric-srd/spells/Elemental Touch|elemental touch]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_
+- **1st**: _[[rangoric-srd/spells/Bomber’s Eye|bomber's eye]]_, _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Crafter’s Fortune|crafter's fortune]]_, _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Disguise Self|disguise self]]_, _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_, _[[rangoric-srd/spells/Identify|identify]]_, _[[rangoric-srd/spells/Shield|shield]]_
 
 ## Preparation Ritual
 

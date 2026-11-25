@@ -19,16 +19,16 @@ tags: [rangoric, rangoric/magic-item]
 
 # Prismatic Plate
 
-This resplendent suit of *+3 full plate* shimmers and shifts between all the colors of the rainbow. A single color dominates the others at any given time. As a swift action, the wearer can change the dominant color. This color remains dominant until the wearer changes it again. When the wearer of *prismatic plate* is struck by a *[[rangoric-srd/spells/Prismatic Spray|prismatic spray]]*, or when he passes through a *[[rangoric-srd/spells/Prismatic Sphere|prismatic sphere]]* or *[[rangoric-srd/spells/Prismatic Wall|prismatic wall]]*, he ignores the effect that matches the dominant armor color. He receives no special protection against the other colors of those spells. In addition to this benefit, each color provides a unique type of protection.
+This resplendent suit of _+3 full plate_ shimmers and shifts between all the colors of the rainbow. A single color dominates the others at any given time. As a swift action, the wearer can change the dominant color. This color remains dominant until the wearer changes it again. When the wearer of _prismatic plate_ is struck by a _[[rangoric-srd/spells/Prismatic Spray|prismatic spray]]_, or when he passes through a _[[rangoric-srd/spells/Prismatic Sphere|prismatic sphere]]_ or _[[rangoric-srd/spells/Prismatic Wall|prismatic wall]]_, he ignores the effect that matches the dominant armor color. He receives no special protection against the other colors of those spells. In addition to this benefit, each color provides a unique type of protection.
 
 | Color  | Effect                                                                                      |
-|--------|---------------------------------------------------------------------------------------------|
+| ------ | ------------------------------------------------------------------------------------------- |
 | Red    | Resist fire 30                                                                              |
 | Orange | Resist acid 30                                                                              |
 | Yellow | Resist electricity 30                                                                       |
 | Green  | Immunity to poison                                                                          |
 | Blue   | Immunity to petrification                                                                   |
 | Indigo | +8 resistance bonus on saving throws against mind-affecting effects                         |
-| Violet | Protected by *[[rangoric-srd/spells/Dimensional Anchor\|dimensional anchor]]*, as the spell |
+| Violet | Protected by _[[rangoric-srd/spells/Dimensional Anchor\|dimensional anchor]]_, as the spell |
 
-Strong abjuration; CL 13th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]*, *[[rangoric-srd/spells/Mind Blank|mind blank]]*, *[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]*, *[[rangoric-srd/spells/Resist Energy|resist energy]]*, *[[rangoric-srd/spells/Stone to Flesh|stone to flesh]]*, and *[[rangoric-srd/spells/Prismatic Sphere|prismatic sphere]]*, *[[rangoric-srd/spells/Prismatic Spray|prismatic spray]]*, or *[[rangoric-srd/spells/Prismatic Wall|prismatic wall]]*; Price 160,650 gp; Cost 81,150 gp.
+Strong abjuration; CL 13th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]_, _[[rangoric-srd/spells/Mind Blank|mind blank]]_, _[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_, _[[rangoric-srd/spells/Stone to Flesh|stone to flesh]]_, and _[[rangoric-srd/spells/Prismatic Sphere|prismatic sphere]]_, _[[rangoric-srd/spells/Prismatic Spray|prismatic spray]]_, or _[[rangoric-srd/spells/Prismatic Wall|prismatic wall]]_; Price 160,650 gp; Cost 81,150 gp.

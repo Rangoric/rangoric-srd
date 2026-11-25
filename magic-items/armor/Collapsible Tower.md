@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Collapsible Tower
 
-Three times per day, this *+2 heavy steel shield* can be commanded to transform into a *+2 tower shield*. It can stay in tower shield form for 1 minute or until it is commanded to take its normal form again (a swift action). A *collapsible tower*'s weight does not change when it takes tower shield form.
+Three times per day, this _+2 heavy steel shield_ can be commanded to transform into a _+2 tower shield_. It can stay in tower shield form for 1 minute or until it is commanded to take its normal form again (a swift action). A _collapsible tower_'s weight does not change when it takes tower shield form.
 
-Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Shrink Item|shrink item]]*; Price 8,170 gp; Cost 4,170 gp.
+Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Shrink Item|shrink item]]_; Price 8,170 gp; Cost 4,170 gp.

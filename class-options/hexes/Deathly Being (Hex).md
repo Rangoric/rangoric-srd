@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Deathly Being
 
-*A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Su) of the [[rangoric-srd/class-options/spirits/Bones Spirit|bones spirit]].*
+_A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Su) of the [[rangoric-srd/class-options/spirits/Bones Spirit|bones spirit]]._
 
 If the shaman is a living creature, she has [[rangoric-srd/monsters/abilities/Negative Energy Affinity|negative energy affinity]]. If she's an undead creature or a creature with the [[rangoric-srd/monsters/abilities/Negative Energy Affinity|negative energy affinity]] ability, she gains a +1 bonus to her channel resistance. At 8th level, if she's a living creature she gains a +4 bonus on saves against death effects and effects that drain energy, or if she's an undead creature her bonus to channel resistance increases to +2.
 

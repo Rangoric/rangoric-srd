@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Sapping Offensive
 
-*An [[rangoric-srd/classes/Investigator#^investigator-investigator-talent|investigator talent]] (Ex)\*.*
+_An [[rangoric-srd/classes/Investigator#^investigator-investigator-talent|investigator talent]] (Ex)\*._
 
 When the investigator damages a studied target, that creature cannot make attacks of opportunity for 1 round. An investigator must be at least 5th level to select this talent.

@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Rhinoceros
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 5d8+20 (42 hp)
-  - **Initiative**: +0
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 16 (+7 natural, –1 size), touch 9, flat-footed 16
-  - **Base Attack**: +3; **CMB**: +10; **CMD**: 20 (24 vs. trip)
-  - **Attack**: Gore +8 melee (2d6+9)
-  - **Full Attack**: Gore +8 melee (2d6+9)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (gore, 4d6+12)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +10, Ref +4, Will +2
-  - **Abilities**: Str 22, Dex 10, Con 19, Int 2, Wis 13, Cha 5
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +12
-  - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Warm plains
-  - **Organization**: Solitary, pair, or herd (3–12)
-  - **Challenge Rating**: 4
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 9–12 HD (Large); 13–24 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 5d8+20 (42 hp)
+- **Initiative**: +0
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 16 (+7 natural, –1 size), touch 9, flat-footed 16
+- **Base Attack**: +3; **CMB**: +10; **CMD**: 20 (24 vs. trip)
+- **Attack**: Gore +8 melee (2d6+9)
+- **Full Attack**: Gore +8 melee (2d6+9)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (gore, 4d6+12)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +10, Ref +4, Will +2
+- **Abilities**: Str 22, Dex 10, Con 19, Int 2, Wis 13, Cha 5
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +12
+- **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Warm plains
+- **Organization**: Solitary, pair, or herd (3–12)
+- **Challenge Rating**: 4
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 9–12 HD (Large); 13–24 HD (Huge)
+- **Level Adjustment**: —
 
 The rhinoceros feeds on leafy plants, branches, and even thorny shrubs. Its thick hide is a mottled gray color, and it can run surprisingly fast for a beast of its size. The rhinoceros is notoriously short-tempered and [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]] to attacking anything it perceives as approaching too closely (generally within a distance of 80 feet—the distance of a single charge—for most rhinos).
 

@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Shieldsplitter Lance
 
-This *+1 keen lance* has the ability to penetrate and destroy shields. Whenever its wielder uses it to successfully strike an opponent who carries a shield, the opponent's shield takes the same damage as the opponent. If the wielder uses the lance to make a sunder attack against a shield, it bypasses the shield's hardness.
+This _+1 keen lance_ has the ability to penetrate and destroy shields. Whenever its wielder uses it to successfully strike an opponent who carries a shield, the opponent's shield takes the same damage as the opponent. If the wielder uses the lance to make a sunder attack against a shield, it bypasses the shield's hardness.
 
-Moderate evocation; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Keen Edge|keen edge]]*, *[[rangoric-srd/spells/Shatter|shatter]]*; Price 18,310 gp; Cost 9,310 gp; Weight 10 lbs.
+Moderate evocation; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Keen Edge|keen edge]]_, _[[rangoric-srd/spells/Shatter|shatter]]_; Price 18,310 gp; Cost 9,310 gp; Weight 10 lbs.

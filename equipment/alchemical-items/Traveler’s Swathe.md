@@ -22,11 +22,11 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Traveler’s Swathe
 
-*Erlcana; Special*
+_Erlcana; Special_
 
 This greater swathe appears as a living plant wrapped about its owner as a kilt, girdle, skirt, or cloak made out of leaves, vines, brambles, and briars. These plants can extend themselves down the bearer’s legs and project hard wood stilts of a sort, providing an additional 5 feet the bearer’s movement rate while this “league-long stride” is in effect. If allowed to root (i.e. the bearer stays still), these stilts can extend up to 10 feet in height, allowing a nonmagical levitation effect. It can also provide a +2 circumstance bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks to climb when moving among trees and plants, as it’s tendrils help to support the wearer’s weight.
 
-The travelerswathe’s primary ability (and what makes it worth its cost) is its ability to tirelessly keep moving. Its wearer can command it to form a stable platform of living wood on which to sleep, and the living parts of the plant will both hold a person (one medium-size or two small-sized beings) to itself and crawl along the ground at a rate of 12 feet per round in the direction ordered by its owner. Wounded or unconscious characters can be moved safely in this manner, as can sleeping characters, and a travelerswathe wakes its passenger/owner if it encounters difficulties. Think of it as a *flying carpet* that crawls along the ground.
+The travelerswathe’s primary ability (and what makes it worth its cost) is its ability to tirelessly keep moving. Its wearer can command it to form a stable platform of living wood on which to sleep, and the living parts of the plant will both hold a person (one medium-size or two small-sized beings) to itself and crawl along the ground at a rate of 12 feet per round in the direction ordered by its owner. Wounded or unconscious characters can be moved safely in this manner, as can sleeping characters, and a travelerswathe wakes its passenger/owner if it encounters difficulties. Think of it as a _flying carpet_ that crawls along the ground.
 
 A Travelerswathe, like all greater swathes, has an innate animal-level intelligence and has some loyalty to its owner, provided it receives sufficient sunlight, water, and nourishment (either allowing it to root for up to six hours a night or to absorb some decaying animal and plant matter for compost nutrition once a week).
 

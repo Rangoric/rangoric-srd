@@ -23,10 +23,10 @@ tags: [rangoric, rangoric/spell]
 
 # Protection from Good, Communal
 
-*Abjuration \[Evil\]*
+_Abjuration \[Evil\]_
 
-  - **Level**: Apl 2, Clr 2, Inq 2, Sor/Wiz 2, Sum 2, SumU 2
-  - **Components**: 
-  - **Target**: Creatures touched
+- **Level**: Apl 2, Clr 2, Inq 2, Sor/Wiz 2, Sum 2, SumU 2
+- **Components**:
+- **Target**: Creatures touched
 
-This spell functions like *[[rangoric-srd/spells/Protection from Good|protection from good]]*, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-minute intervals among the creatures touched.
+This spell functions like _[[rangoric-srd/spells/Protection from Good|protection from good]]_, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-minute intervals among the creatures touched.

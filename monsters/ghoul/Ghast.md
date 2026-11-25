@@ -38,29 +38,29 @@ tags: [rangoric, rangoric/monster]
 
 # Ghast
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 4d12+3 (29 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 17 (+3 Dex, +4 natural), touch 12, flat-footed 14
-  - **Base Attack**: +2; **CMB**: +5; **CMD**: 18
-  - **Attack**: Bite +5 melee (1d8+3 plus paralysis)
-  - **Full Attack**: Bite +5 melee (1d8+3 plus paralysis) and 2 claws +3 melee (1d4+1 plus paralysis)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Ghoul fever, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyis]], stench
-  - **Special Qualities**: Darkvision 60 ft., undead traits, +2 turn resistance
-  - **Saves**: Fort +1, Ref +4, Will +6
-  - **Abilities**: Str 17, Dex 17, Con —, Int 13, Wis 14, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Unspent Skill Points**: 4
-  - **Feats**: [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Any
-  - **Organization**: Solitary, gang (2–4), or pack (2–4 plus 7–12 ghouls)
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard
-  - **Alignment**: Always chaotic evil
-  - **Advancement**: 5–8 HD (Medium)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 4d12+3 (29 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 17 (+3 Dex, +4 natural), touch 12, flat-footed 14
+- **Base Attack**: +2; **CMB**: +5; **CMD**: 18
+- **Attack**: Bite +5 melee (1d8+3 plus paralysis)
+- **Full Attack**: Bite +5 melee (1d8+3 plus paralysis) and 2 claws +3 melee (1d4+1 plus paralysis)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Ghoul fever, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyis]], stench
+- **Special Qualities**: Darkvision 60 ft., undead traits, +2 turn resistance
+- **Saves**: Fort +1, Ref +4, Will +6
+- **Abilities**: Str 17, Dex 17, Con —, Int 13, Wis 14, Cha 16
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Unspent Skill Points**: 4
+- **Feats**: [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Any
+- **Organization**: Solitary, gang (2–4), or pack (2–4 plus 7–12 ghouls)
+- **Challenge Rating**: 3
+- **Treasure**: Standard
+- **Alignment**: Always chaotic evil
+- **Advancement**: 5–8 HD (Medium)
+- **Level Adjustment**: —
 
 Although these creatures look just like their lesser kin, they are far more deadly and cunning.
 

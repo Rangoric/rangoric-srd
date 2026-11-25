@@ -18,13 +18,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Force Hook
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|form infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|form infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Aether Element|aether]]
-  - **Type**: form infusion
-  - **Level**: 3
-  - **Burn**: 2
-  - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Force Blast|force]]
-  - **Saving Throw**: none
+- **Element**: [[rangoric-srd/class-options/elements/Aether Element|aether]]
+- **Type**: form infusion
+- **Level**: 3
+- **Burn**: 2
+- **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Force Blast|force]]
+- **Saving Throw**: none
 
-Your [[rangoric-srd/class-options/wild-talents/Force Blast|force blast]] hooks onto its target and drags you adjacent to it. This effect functions as *[[rangoric-srd/spells/Force Hook Charge|force hook charge]]*, except with the range and damage of your force blast.
+Your [[rangoric-srd/class-options/wild-talents/Force Blast|force blast]] hooks onto its target and drags you adjacent to it. This effect functions as _[[rangoric-srd/spells/Force Hook Charge|force hook charge]]_, except with the range and damage of your force blast.

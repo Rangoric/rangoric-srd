@@ -25,17 +25,17 @@ tags: [rangoric, rangoric/spell]
 
 # Spellstaff
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Drd 6, Hun 6
-  - **Components**: V, S, F
-  - **Casting Time**: 10 minutes
-  - **Range**: Touch
-  - **Target**: Wooden quarterstaff touched
-  - **Duration**: Permanent until discharged (D)
-  - **Saving Throw**: Will negates (object)
-  - **Spell Resistance**: Yes (object)
+- **Level**: Drd 6, Hun 6
+- **Components**: V, S, F
+- **Casting Time**: 10 minutes
+- **Range**: Touch
+- **Target**: Wooden quarterstaff touched
+- **Duration**: Permanent until discharged (D)
+- **Saving Throw**: Will negates (object)
+- **Spell Resistance**: Yes (object)
 
 You store one spell that you can normally cast in a wooden quarterstaff. Only one such spell can be stored in a staff at a given time, and you cannot have more than one spellstaff at any given time. You can cast a spell stored within a staff just as though it were among those you had prepared, but it does not count against your normal allotment for a given day. You use up any applicable material components required to cast the spell when you store it in the spellstaff.
 
-*Focus*: The staff that stores the spell.
+_Focus_: The staff that stores the spell.

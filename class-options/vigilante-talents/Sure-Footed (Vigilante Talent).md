@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Sure-Footed
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 The vigilante can move at full speed while using the [[rangoric-srd/skills/Stealth|Stealth]] and [[rangoric-srd/skills/Acrobatics|Acrobatics]] skills without penalty.
 

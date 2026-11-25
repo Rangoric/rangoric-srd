@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ostiarius Kyton
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Evil, Extraplanar, Kyton, Lawful)
-  - **Hit Dice**: 7d10+14 (52 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 18 (+2 Dex, +2 natural, +4 shield), touch 12, flat-footed 16
-  - **Base Attack**: +7; **CMB**: +7; **CMD**: 19
-  - **Attack**: Touches +2 melee (1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
-  - **Full Attack**: 2 touches +2 melee (1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6), [[rangoric-srd/monsters/abilities/Compel Courage|compel courage]], [[rangoric-srd/monsters/abilities/Unnerving Gaze (Ostiarius Kyton)|unnerving gaze]] (30 ft., DC 19), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 2 (good weapons and spells), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Shadow Traveler|shadow traveler]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and magic missile
-  - **Saves**: Fort +7, Ref +4, Will +11
-  - **Abilities**: Str 10, Dex 15, Con 14, Int 19, Wis 18, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Medicine|Medicine]] +14, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Performance|Performance]] (oratory) +14, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +14
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any (Plane of Shadow)
-  - **Organization**: Solitary, pair, or synod (5–9)
-  - **Challenge Rating**: 5
-  - **Treasure**: Standard
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Evil, Extraplanar, Kyton, Lawful)
+- **Hit Dice**: 7d10+14 (52 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 18 (+2 Dex, +2 natural, +4 shield), touch 12, flat-footed 16
+- **Base Attack**: +7; **CMB**: +7; **CMD**: 19
+- **Attack**: Touches +2 melee (1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
+- **Full Attack**: 2 touches +2 melee (1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6), [[rangoric-srd/monsters/abilities/Compel Courage|compel courage]], [[rangoric-srd/monsters/abilities/Unnerving Gaze (Ostiarius Kyton)|unnerving gaze]] (30 ft., DC 19), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 2 (good weapons and spells), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Shadow Traveler|shadow traveler]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and magic missile
+- **Saves**: Fort +7, Ref +4, Will +11
+- **Abilities**: Str 10, Dex 15, Con 14, Int 19, Wis 18, Cha 19
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Medicine|Medicine]] +14, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Performance|Performance]] (oratory) +14, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +14
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any (Plane of Shadow)
+- **Organization**: Solitary, pair, or synod (5–9)
+- **Challenge Rating**: 5
+- **Treasure**: Standard
+- **Alignment**: Usually lawful evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Ostiariuses mind the gate between the world of mortals and the delights of the Plane of Shadow. Their role is twofold: admitting their brethren onto the Material Plane and—more insidiously—convincing mortals to willingly journey with them to their shadowed homeland. They are the emissaries of their race, encouraging susceptible mortals to abandon their tired philosophies and embrace the possibilities of a realm of inscrutable darkness. Most proudly stand over 6 feet tall, though their weights range from exceedingly light to grossly heavy.
 
@@ -69,7 +69,7 @@ Ostiarius kytons speak Common and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +11): Constant—*[[rangoric-srd/spells/Shield|shield]]*; At will—*[[rangoric-srd/spells/Calm Emotions|calm emotions]]* (DC 16), *[[rangoric-srd/spells/Darkness|darkness]]*, *[[rangoric-srd/spells/Enthrall|enthrall]]* (DC 16), *[[rangoric-srd/spells/Major Image|major image]]* (DC 17); 3/day—*[[rangoric-srd/spells/Crushing Despair|crushing despair]]* (DC 17), *[[rangoric-srd/spells/Shadow Walk|shadow walk]]*, *[[rangoric-srd/spells/Silence|silence]]* (DC 16); 1/day—*[[rangoric-srd/spells/Plane Shift|plane shift]]* (DC 21; to the Material Plane and the Plane of Shadow only, lawful evil creatures only), *[[rangoric-srd/spells/Shout|shout]]* (DC 18).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +11): Constant—_[[rangoric-srd/spells/Shield|shield]]_; At will—_[[rangoric-srd/spells/Calm Emotions|calm emotions]]_ (DC 16), _[[rangoric-srd/spells/Darkness|darkness]]_, _[[rangoric-srd/spells/Enthrall|enthrall]]_ (DC 16), _[[rangoric-srd/spells/Major Image|major image]]_ (DC 17); 3/day—_[[rangoric-srd/spells/Crushing Despair|crushing despair]]_ (DC 17), _[[rangoric-srd/spells/Shadow Walk|shadow walk]]_, _[[rangoric-srd/spells/Silence|silence]]_ (DC 16); 1/day—_[[rangoric-srd/spells/Plane Shift|plane shift]]_ (DC 21; to the Material Plane and the Plane of Shadow only, lawful evil creatures only), _[[rangoric-srd/spells/Shout|shout]]_ (DC 18).
 
 **[[rangoric-srd/monsters/abilities/Compel Courage|Compel Courage]] (Ex)**: An ostiarius can inspire courage as a 5th-level bard using bardic performance, granting a +2 morale bonus on saving throws against charm and fear effects and a +2 competence bonus on attack and weapon damage rolls. This ability has a range of 50 feet and affects those creatures the ostiarius chooses who also willingly accept the benefits of the effect (no saving throw required). The ostiarius's performance compels creatures to perform at dangerous extremes. Any living non-outsider that benefits from this ability takes 1 point of bleed damage. A creature that accepts these benefits for multiple consecutive rounds gains additional points of bleed damage that stack with one another (to a maximum of 5). This is an audible, mind-affecting effect and can be countered by a bard's countersong class feature.
 

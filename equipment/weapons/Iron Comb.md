@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/close]
 
 # Iron Comb
 
-*Simple light melee weapon.* Cost 2 gp; Dmg 1d3 (S), 1d4 (M); Critical x3; Weight 1 lb.; Type Piercing. ^stats
+_Simple light melee weapon._ Cost 2 gp; Dmg 1d3 (S), 1d4 (M); Critical x3; Weight 1 lb.; Type Piercing. ^stats
 
-(*Tie Su Zi*): This large iron comb features sharp teeth, and although it can be worn in the hair, it is normally gripped and used to punch with, inflicting puncture wounds.
+(_Tie Su Zi_): This large iron comb features sharp teeth, and although it can be worn in the hair, it is normally gripped and used to punch with, inflicting puncture wounds.

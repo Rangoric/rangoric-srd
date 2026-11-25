@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Spectral Strike
 
-Prerequisites: Wis 19, ability to turn or rebuke undead.  
+Prerequisites: Wis 19, ability to turn or rebuke undead.
 
 Benefit: The character’s attacks deal damage normally against incorporeal creatures.
 

@@ -26,16 +26,16 @@ tags: [rangoric, rangoric/spell]
 
 # Holy Smite
 
-*Evocation \[Good\]*
+_Evocation \[Good\]_
 
-  - **Level**: Good 4, Inq 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Area**: 20-ft.-radius burst
-  - **Duration**: Instantaneous (1 round); see text
-  - **Saving Throw**: Will partial; see text
-  - **Spell Resistance**: Yes
+- **Level**: Good 4, Inq 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Area**: 20-ft.-radius burst
+- **Duration**: Instantaneous (1 round); see text
+- **Saving Throw**: Will partial; see text
+- **Spell Resistance**: Yes
 
 You draw down holy power to smite your enemies. Only evil and neutral creatures are harmed by the spell; good creatures are unaffected.
 

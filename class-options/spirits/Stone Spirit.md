@@ -14,11 +14,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Stone Spirit
 
-*A [[rangoric-srd/classes/Shaman#^shaman-spirit|shaman spirit]].*
+_A [[rangoric-srd/classes/Shaman#^shaman-spirit|shaman spirit]]._
 
 The skin of a shaman who selects the stone spirit takes on a rough, stony appearance. When the shaman calls upon one of this spirit's abilities, tiny gemstones underneath her flesh pulse with a bright glow, like phosphorescent geodes glittering in a dark cave.
 
-**Spirit Magic Spells**: *[[rangoric-srd/spells/Magic Stone|magic stone]]* (1st), *[[rangoric-srd/spells/Stone Call|stone call]]* (2nd), *[[rangoric-srd/spells/Meld into Stone|meld into stone]]* (3rd), *[[rangoric-srd/spells/Wall of Stone|wall of stone]]* (4th), *[[rangoric-srd/spells/Stoneskin|stoneskin]]* (5th), *[[rangoric-srd/spells/Stone Tell|stone tell]]* (6th), *[[rangoric-srd/spells/Statue|statue]]* (7th), *[[rangoric-srd/spells/Repel Metal or Stone|repel metal or stone]]* (8th), *[[rangoric-srd/spells/Clashing Rocks|clashing rocks]]* (9th).
+**Spirit Magic Spells**: _[[rangoric-srd/spells/Magic Stone|magic stone]]_ (1st), _[[rangoric-srd/spells/Stone Call|stone call]]_ (2nd), _[[rangoric-srd/spells/Meld into Stone|meld into stone]]_ (3rd), _[[rangoric-srd/spells/Wall of Stone|wall of stone]]_ (4th), _[[rangoric-srd/spells/Stoneskin|stoneskin]]_ (5th), _[[rangoric-srd/spells/Stone Tell|stone tell]]_ (6th), _[[rangoric-srd/spells/Statue|statue]]_ (7th), _[[rangoric-srd/spells/Repel Metal or Stone|repel metal or stone]]_ (8th), _[[rangoric-srd/spells/Clashing Rocks|clashing rocks]]_ (9th).
 
 **Hexes**: [[rangoric-srd/class-options/hexes/Crystal Sight (Hex)|crystal sight]], [[rangoric-srd/class-options/hexes/Lodestone (Hex)|lodestone]], [[rangoric-srd/class-options/hexes/Metal Curse (Hex)|metal curse]], [[rangoric-srd/class-options/hexes/Stone Stability (Hex)|stone stability]], [[rangoric-srd/class-options/hexes/Ward of Stone (Hex)|ward of stone]].
 
@@ -28,7 +28,7 @@ The skin of a shaman who selects the stone spirit takes on a rough, stony appear
 
 A shaman who chooses the stone spirit as her [[rangoric-srd/classes/Shaman#^shaman-spirit|spirit]] or [[rangoric-srd/classes/Shaman#^shaman-wandering-spirit|wandering spirit]] gains the following ability.
 
-**Touch of Acid (Su)**: As a standard action, the shaman can make a melee touch attack that deals 1d6 points of acid damage + 1 point for every 2 shaman levels she possesses. A shaman can use this ability a number of times per day equal to 3 + her Charisma modifier. At 11th level, any weapon she wields is treated as a *[[rangoric-srd/magic-items/weapon-abilities/Corrosive|corrosive]]* weapon.
+**Touch of Acid (Su)**: As a standard action, the shaman can make a melee touch attack that deals 1d6 points of acid damage + 1 point for every 2 shaman levels she possesses. A shaman can use this ability a number of times per day equal to 3 + her Charisma modifier. At 11th level, any weapon she wields is treated as a _[[rangoric-srd/magic-items/weapon-abilities/Corrosive|corrosive]]_ weapon.
 
 ## Greater Spirit Ability
 
@@ -40,7 +40,7 @@ A shaman who chooses the stone spirit as her spirit or wandering spirit gains th
 
 A shaman who chooses the stone spirit as her spirit or wandering spirit gains the following ability upon having access to the true version of that spirit.
 
-**Elemental Form (Su)**: As a standard action, the shaman assumes the form of a Huge (or smaller) earth elemental, as *[[rangoric-srd/spells/Elemental Body IV|elemental body IV]]* with a duration of 1 hour per level. The shaman can use this ability once per day.
+**Elemental Form (Su)**: As a standard action, the shaman assumes the form of a Huge (or smaller) earth elemental, as _[[rangoric-srd/spells/Elemental Body IV|elemental body IV]]_ with a duration of 1 hour per level. The shaman can use this ability once per day.
 
 ## Manifestation
 

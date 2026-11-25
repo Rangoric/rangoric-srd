@@ -15,8 +15,8 @@ tags: [rangoric, rangoric/overview]
 
 ### Special Abilities
 
-|  |
-|  |
+| |
+| |
 
 A special ability is either extraordinary, spell-like, or supernatural in nature.
 
@@ -35,13 +35,13 @@ A special ability is either extraordinary, spell-like, or supernatural in nature
 | Antimagic field       | No            | Yes        | Yes          |
 | Attack of opportunity | No            | Yes        | No           |
 
-*Dispel*: Can dispel magic and similar spells dispel the effects of abilities of that type?
+_Dispel_: Can dispel magic and similar spells dispel the effects of abilities of that type?
 
-*Spell Resistance*: Does spell resistance protect a creature from these abilities?
+_Spell Resistance_: Does spell resistance protect a creature from these abilities?
 
-*Antimagic Field*: Does an antimagic field or similar magic suppress the ability?
+_Antimagic Field_: Does an antimagic field or similar magic suppress the ability?
 
-*Attack of Opportunity*: Does using the ability provoke attacks of opportunity the way that casting a spell does?
+_Attack of Opportunity_: Does using the ability provoke attacks of opportunity the way that casting a spell does?
 
 ##### Ability Score Loss
 
@@ -49,17 +49,17 @@ Various attacks cause ability score loss, either ability damage or ability drain
 
 While any loss is debilitating, losing all points in an ability score can be devastating.
 
-  - Strength 0 means that the character cannot move at all. He lies helpless on the ground.
+- Strength 0 means that the character cannot move at all. He lies helpless on the ground.
 
-  - Dexterity 0 means that the character cannot move at all. He stands motionless, rigid, and helpless.
+- Dexterity 0 means that the character cannot move at all. He stands motionless, rigid, and helpless.
 
-  - Constitution 0 means that the character is dead.
+- Constitution 0 means that the character is dead.
 
-  - Intelligence 0 means that the character cannot think and is unconscious in a coma-like stupor, helpless.
+- Intelligence 0 means that the character cannot think and is unconscious in a coma-like stupor, helpless.
 
-  - Wisdom 0 means that the character is withdrawn into a deep sleep filled with nightmares, helpless.
+- Wisdom 0 means that the character is withdrawn into a deep sleep filled with nightmares, helpless.
 
-  - Charisma 0 means that the character is withdrawn into a catatonic, coma-like stupor, helpless.
+- Charisma 0 means that the character is withdrawn into a catatonic, coma-like stupor, helpless.
 
 Keeping track of negative ability score points is never necessary. A character’s ability score can’t drop below 0.
 
@@ -75,37 +75,37 @@ The ability that some creatures have to drain ability scores is a supernatural o
 
 An [[rangoric-srd/spells/Antimagic Field|antimagic field]] spell or effect cancels magic altogether. An antimagic effect has the following powers and characteristics.
 
-  - No supernatural ability, spell-like ability, or spell works in an area of antimagic (but extraordinary abilities still work).
+- No supernatural ability, spell-like ability, or spell works in an area of antimagic (but extraordinary abilities still work).
 
-  - Antimagic does not dispel magic; it suppresses it. Once a magical effect is no longer affected by the antimagic (the antimagic fades, the center of the effect moves away, and so on), the magic returns. Spells that still have part of their duration left begin functioning again, magic items are once again useful, and so forth.
+- Antimagic does not dispel magic; it suppresses it. Once a magical effect is no longer affected by the antimagic (the antimagic fades, the center of the effect moves away, and so on), the magic returns. Spells that still have part of their duration left begin functioning again, magic items are once again useful, and so forth.
 
-  - Spell areas that include both an antimagic area and a normal area, but are not centered in the antimagic area, still function in the normal area. If the spell’s center is in the antimagic area, then the spell is suppressed.
+- Spell areas that include both an antimagic area and a normal area, but are not centered in the antimagic area, still function in the normal area. If the spell’s center is in the antimagic area, then the spell is suppressed.
 
-  - Golems and other constructs, elementals, outsiders, and corporeal undead, still function in an antimagic area (though the antimagic area suppresses their spellcasting and their supernatural and spell-like abilities normally). If such creatures are summoned or conjured, however, see below.
+- Golems and other constructs, elementals, outsiders, and corporeal undead, still function in an antimagic area (though the antimagic area suppresses their spellcasting and their supernatural and spell-like abilities normally). If such creatures are summoned or conjured, however, see below.
 
-  - Summoned or conjured creatures of any type, as well as incorporeal undead, wink out if they enter the area of an antimagic effect. They reappear in the same spot once the field goes away.
+- Summoned or conjured creatures of any type, as well as incorporeal undead, wink out if they enter the area of an antimagic effect. They reappear in the same spot once the field goes away.
 
-  - Magic items with continuous effects do not function in the area of an antimagic effect, but their effects are not canceled (so the contents of a bag of holding are unavailable, but neither spill out nor disappear forever).
+- Magic items with continuous effects do not function in the area of an antimagic effect, but their effects are not canceled (so the contents of a bag of holding are unavailable, but neither spill out nor disappear forever).
 
-  - Two antimagic areas in the same place do not cancel each other out, nor do they stack.
+- Two antimagic areas in the same place do not cancel each other out, nor do they stack.
 
-  - Wall of force, prismatic wall, and prismatic sphere are not affected by antimagic. Break enchantment, dispel magic, and greater dispel magic spells do not dispel antimagic. Mage’s disjunction has a 1% chance per caster level of destroying an antimagic field. If the antimagic field survives the disjunction, no items within it are disjoined.
+- Wall of force, prismatic wall, and prismatic sphere are not affected by antimagic. Break enchantment, dispel magic, and greater dispel magic spells do not dispel antimagic. Mage’s disjunction has a 1% chance per caster level of destroying an antimagic field. If the antimagic field survives the disjunction, no items within it are disjoined.
 
 ##### Blindsight and Blindsense
 
 Some creatures have blindsight, the extraordinary ability to use a nonvisual sense (or a combination of such senses) to operate effectively without vision. Such sense may include sensitivity to vibrations, acute scent, keen hearing, or echolocation. This ability makes invisibility and concealment (even magical darkness) irrelevant to the creature (though it still can’t see ethereal creatures). This ability operates out to a range specified in the creature description.
 
-  - Blindsight never allows a creature to distinguish color or visual contrast. A creature cannot read with blindsight.
+- Blindsight never allows a creature to distinguish color or visual contrast. A creature cannot read with blindsight.
 
-  - Blindsight does not subject a creature to gaze attacks (even though darkvision does).
+- Blindsight does not subject a creature to gaze attacks (even though darkvision does).
 
-  - Blinding attacks do not penalize creatures using blindsight.
+- Blinding attacks do not penalize creatures using blindsight.
 
-  - Deafening attacks thwart blindsight if it relies on hearing.
+- Deafening attacks thwart blindsight if it relies on hearing.
 
-  - Blindsight works underwater but not in a vacuum.
+- Blindsight works underwater but not in a vacuum.
 
-  - Blindsight negates displacement and blur effects.
+- Blindsight negates displacement and blur effects.
 
 **Blindsense**: Other creatures have blindsense, a lesser ability that lets the creature notice things it cannot see, but without the precision of blindsight. The creature with blindsense usually does not need to make Perception checks to notice and locate creatures within range of its blindsense ability, provided that it has line of effect to that creature. Any opponent the creature cannot see has total concealment (50% miss chance) against the creature with blindsense, and the blindsensing creature still has the normal miss chance when attacking foes that have concealment. Visibility still affects the movement of a creature with blindsense. A creature with blindsense is still denied its Dexterity bonus to Armor Class against attacks from creatures it cannot see. ^blindsense
 
@@ -113,17 +113,17 @@ Some creatures have blindsight, the extraordinary ability to use a nonvisual sen
 
 A creature attacking with a breath weapon is actually expelling something from its mouth (rather than conjuring it by means of a spell or some other magical effect). Most creatures with breath weapons are limited to a number of uses per day or by a minimum length of time that must pass between uses. Such creatures are usually smart enough to save their breath weapon until they really need it.
 
-  - Using a breath weapon is typically a standard action.
+- Using a breath weapon is typically a standard action.
 
-  - No attack roll is necessary. The breath simply fills its stated area.
+- No attack roll is necessary. The breath simply fills its stated area.
 
-  - Any character caught in the area must make the appropriate saving throw or suffer the breath weapon’s full effect. In many cases, a character who succeeds on his saving throw still takes half damage or some other reduced effect.
+- Any character caught in the area must make the appropriate saving throw or suffer the breath weapon’s full effect. In many cases, a character who succeeds on his saving throw still takes half damage or some other reduced effect.
 
-  - Breath weapons are supernatural abilities except where noted.
+- Breath weapons are supernatural abilities except where noted.
 
-  - Creatures are immune to their own breath weapons.
+- Creatures are immune to their own breath weapons.
 
-  - Creatures unable to breathe can still use breath weapons. (The term is something of a misnomer.)
+- Creatures unable to breathe can still use breath weapons. (The term is something of a misnomer.)
 
 ##### Charm and Compulsion
 
@@ -131,19 +131,19 @@ Many abilities and spells can cloud the minds of characters and monsters, leavin
 
 Charming another creature gives the charming character the ability to befriend and suggest courses of actions to his minion, but the servitude is not absolute or mindless. Charms of this type include the various charm spells. Essentially, a charmed character retains free will but makes choices according to a skewed view of the world.
 
-  - A charmed creature doesn’t gain any magical ability to understand his new friend’s language.
+- A charmed creature doesn’t gain any magical ability to understand his new friend’s language.
 
-  - A charmed character retains his original alignment and allegiances, generally with the exception that he now regards the charming creature as a dear friend and will give great weight to his suggestions and directions.
+- A charmed character retains his original alignment and allegiances, generally with the exception that he now regards the charming creature as a dear friend and will give great weight to his suggestions and directions.
 
-  - A charmed character fights his former allies only if they threaten his new friend, and even then he uses the least lethal means at his disposal as long as these tactics show any possibility of success (just as he would in a fight between two actual friends).
+- A charmed character fights his former allies only if they threaten his new friend, and even then he uses the least lethal means at his disposal as long as these tactics show any possibility of success (just as he would in a fight between two actual friends).
 
-  - A charmed character is entitled to an opposed Charisma check against his master in order to resist instructions or commands that would make him do something he wouldn’t normally do even for a close friend. If he succeeds, he decides not to go along with that order but remains charmed.
+- A charmed character is entitled to an opposed Charisma check against his master in order to resist instructions or commands that would make him do something he wouldn’t normally do even for a close friend. If he succeeds, he decides not to go along with that order but remains charmed.
 
-  - A charmed character never obeys a command that is obviously suicidal or grievously harmful to her.
+- A charmed character never obeys a command that is obviously suicidal or grievously harmful to her.
 
-  - If the charming creature commands his minion to do something that the influenced character would be violently opposed to, the subject may attempt a new saving throw to break free of the influence altogether.
+- If the charming creature commands his minion to do something that the influenced character would be violently opposed to, the subject may attempt a new saving throw to break free of the influence altogether.
 
-  - A charmed character who is openly attacked by the creature who charmed him or by that creature’s apparent allies is automatically freed of the spell or effect.
+- A charmed character who is openly attacked by the creature who charmed him or by that creature’s apparent allies is automatically freed of the spell or effect.
 
 Compulsion is a different matter altogether. A compulsion overrides the subject’s free will in some way or simply changes the way the subject’s mind works. A charm makes the subject a friend of the caster; a compulsion makes the subject obey the caster.
 
@@ -183,13 +183,13 @@ Darkvision is the extraordinary ability to see with no light source at all, out 
 
 In most cases, a death attack allows the victim a Fortitude save to avoid the affect, but if the save fails, the character dies instantly.
 
-  - Raise dead doesn’t work on someone killed by a death attack.
+- Raise dead doesn’t work on someone killed by a death attack.
 
-  - Death attacks slay instantly. A victim cannot be made stable and thereby kept alive.
+- Death attacks slay instantly. A victim cannot be made stable and thereby kept alive.
 
-  - In case it matters, a dead character, no matter how she died, has fallen to the negative hit points that [[rangoric-srd/combat/Injury and Death#^death|kill]] her.
+- In case it matters, a dead character, no matter how she died, has fallen to the negative hit points that [[rangoric-srd/combat/Injury and Death#^death|kill]] her.
 
-  - The spell death ward protects a character against these attacks.
+- The spell death ward protects a character against these attacks.
 
 ##### Disease
 
@@ -201,9 +201,9 @@ Some spells and a number of undead creatures have the ability to drain away life
 
 For each negative level a creature has, it takes a cumulative –1 penalty on all ability checks, attack rolls, [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|combat maneuver checks]], [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|Combat Maneuver Defense]], saving throws, and skill checks. In addition, the creature reduces its current and total hit points by 5 for each negative level it possesses. The creature is also treated as one level lower for the purpose of level-dependent variables (such as spellcasting) for each negative level possessed. Spellcasters do not lose any prepared spells or slots as a result of negative levels. If a creature’s negative levels equal or exceed its total Hit Dice, it dies. ^negative-levels
 
-A creature with temporary negative levels receives a new saving throw to remove the negative level each day. The DC of this save is the same as the effect that caused the negative levels. A negative level is temporary unless its source says it is permanent: a failed save against [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] or the *[[rangoric-srd/spells/Energy Drain|energy drain]]* spell makes the negative level permanent, and some effects bestow [[#^permanent-negative-levels|permanent negative levels]] directly. An effect can also say otherwise, such as negative levels that end after a set time or last only while an item is held or worn. ^negative-level-save
+A creature with temporary negative levels receives a new saving throw to remove the negative level each day. The DC of this save is the same as the effect that caused the negative levels. A negative level is temporary unless its source says it is permanent: a failed save against [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] or the _[[rangoric-srd/spells/Energy Drain|energy drain]]_ spell makes the negative level permanent, and some effects bestow [[#^permanent-negative-levels|permanent negative levels]] directly. An effect can also say otherwise, such as negative levels that end after a set time or last only while an item is held or worn. ^negative-level-save
 
-Permanent negative levels are treated just like temporary negative levels, but they do not allow a new save each day to remove them. A permanent negative level never costs the creature a level: the creature keeps its levels, Hit Dice, and experience points. Permanent negative levels are removed with spells such as *[[rangoric-srd/spells/Restoration|restoration]]* and *[[rangoric-srd/spells/Restoration, Greater|greater restoration]]*. Some effects, such as *[[rangoric-srd/spells/Raise Dead|raise dead]]*, bestow permanent negative levels directly. Permanent negative levels remain after a dead creature is restored to life. A creature whose permanent negative levels equal its Hit Dice cannot be brought back to life through spells like *[[rangoric-srd/spells/Raise Dead|raise dead]]* and *[[rangoric-srd/spells/Resurrection|resurrection]]* without also receiving a *[[rangoric-srd/spells/Restoration|restoration]]* spell, cast the round after it is restored to life. ^permanent-negative-levels
+Permanent negative levels are treated just like temporary negative levels, but they do not allow a new save each day to remove them. A permanent negative level never costs the creature a level: the creature keeps its levels, Hit Dice, and experience points. Permanent negative levels are removed with spells such as _[[rangoric-srd/spells/Restoration|restoration]]_ and _[[rangoric-srd/spells/Restoration, Greater|greater restoration]]_. Some effects, such as _[[rangoric-srd/spells/Raise Dead|raise dead]]_, bestow permanent negative levels directly. Permanent negative levels remain after a dead creature is restored to life. A creature whose permanent negative levels equal its Hit Dice cannot be brought back to life through spells like _[[rangoric-srd/spells/Raise Dead|raise dead]]_ and _[[rangoric-srd/spells/Resurrection|resurrection]]_ without also receiving a _[[rangoric-srd/spells/Restoration|restoration]]_ spell, cast the round after it is restored to life. ^permanent-negative-levels
 
 A creature slain by negative levels may rise again, depending on the creature that killed it: if the slayer has a create spawn ability, the slain creature rises as that ability says, as a monster of the slayer’s kind. If not, it rises as a [[rangoric-srd/monsters/Wight|wight]] the next night, with the wight’s statistics. ^energy-drain-spawn
 
@@ -343,7 +343,7 @@ Abrupt exposure to bright light [[rangoric-srd/rules/Special Abilities and Condi
 
 ##### Light Sensitivity
 
-A creature with light sensitivity is [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] in areas of bright light or within the radius of a *[[rangoric-srd/spells/Daylight|daylight]]* spell.
+A creature with light sensitivity is [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] in areas of bright light or within the radius of a _[[rangoric-srd/spells/Daylight|daylight]]_ spell.
 
 ##### Low-Light Vision
 
@@ -495,8 +495,8 @@ When resolving a turn, rebuke, command, or bolster attempt, added the appropriat
 
 ### Conditions
 
-|  |
-|  |
+| |
+| |
 
 If more than one condition affects a character, apply them all. If certain effects can’t combine, apply the most severe effect.
 

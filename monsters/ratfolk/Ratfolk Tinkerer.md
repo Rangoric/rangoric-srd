@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ratfolk Tinkerer
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Ratfolk)
-  - **Hit Dice**: 2d8+4 (16 hp)
-  - **Initiative**: +7
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 16 (+2 armor, +3 Dex, +1 size), touch 14, flat-footed 13
-  - **Base Attack**: +1; **CMB**: +0; **CMD**: 13
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +7 melee (1d3/19–20) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +5 ranged (1d6/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +7 melee (1d3/19–20); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +5 ranged (1d6/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6, [[rangoric-srd/monsters/abilities/Swarming|swarming]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Combat Trick (Rogue Talent)|combat trick]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]]
-  - **Saves**: Fort +1, Ref +6, Will –1
-  - **Abilities**: Str 10, Dex 17, Con 13, Int 16, Wis 8, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Appraise|Appraise]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +5 (+1 jumping), [[rangoric-srd/skills/Craft|Craft]] (alchemy) +5, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +7, [[rangoric-srd/skills/Emulation|Emulation]] +7, [[rangoric-srd/skills/Engineering|Engineering]] +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +8, [[rangoric-srd/skills/Society|Society]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +12
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (dagger)
-  - **Environment**: Warm deserts or urban
-  - **Organization**: Solitary, or with other ratfolk (see [[rangoric-srd/monsters/ratfolk/Ratfolk|Ratfolk]])
-  - **Challenge Rating**: 1
-  - **Treasure**: NPC gear (combat gear: potion of cure light wounds, potion of pass without trace, acid, alchemist's fire, masterwork bolts (5), tanglefoot bag; other gear: leather armor, light crossbow with 10 bolts, masterwork dagger, masterwork thieves' tools, 121 gp)
-  - **Alignment**: Usually neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Ratfolk)
+- **Hit Dice**: 2d8+4 (16 hp)
+- **Initiative**: +7
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 16 (+2 armor, +3 Dex, +1 size), touch 14, flat-footed 13
+- **Base Attack**: +1; **CMB**: +0; **CMD**: 13
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +7 melee (1d3/19–20) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +5 ranged (1d6/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +7 melee (1d3/19–20); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +5 ranged (1d6/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6, [[rangoric-srd/monsters/abilities/Swarming|swarming]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Combat Trick (Rogue Talent)|combat trick]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]]
+- **Saves**: Fort +1, Ref +6, Will –1
+- **Abilities**: Str 10, Dex 17, Con 13, Int 16, Wis 8, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Appraise|Appraise]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +5 (+1 jumping), [[rangoric-srd/skills/Craft|Craft]] (alchemy) +5, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +7, [[rangoric-srd/skills/Emulation|Emulation]] +7, [[rangoric-srd/skills/Engineering|Engineering]] +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +8, [[rangoric-srd/skills/Society|Society]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +12
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (dagger)
+- **Environment**: Warm deserts or urban
+- **Organization**: Solitary, or with other ratfolk (see [[rangoric-srd/monsters/ratfolk/Ratfolk|Ratfolk]])
+- **Challenge Rating**: 1
+- **Treasure**: NPC gear (combat gear: potion of cure light wounds, potion of pass without trace, acid, alchemist's fire, masterwork bolts (5), tanglefoot bag; other gear: leather armor, light crossbow with 10 bolts, masterwork dagger, masterwork thieves' tools, 121 gp)
+- **Alignment**: Usually neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A ratfolk tinkerer is a [[rangoric-srd/monsters/ratfolk/Ratfolk|ratfolk]] with 2 levels of [[rangoric-srd/classes/Rogue|rogue]], one of the ratfolk scroungers. Ratfolk are adept at finding and disarming traps, which they scavenge to add to their warrens' defenses.
 

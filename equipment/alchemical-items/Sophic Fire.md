@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Sophic Fire
 
-*Alchana; Special*
+_Alchana; Special_
 
 Contained in a small hand-sized (5” diameter) clay pot with an airtight lid, sophic fire is a constantly volatile chymical fire that burns without smoke and does not heat the sides of the pot. Still, anything flammable inserted into the pot will burn, so it is useful for lighting torches or igniting wet wood for a campfire or merely to provide a small amount of light. All it needs is the merest spark to ignite and it will burn for up to 1,000 hours.
 

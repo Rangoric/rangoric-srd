@@ -34,19 +34,19 @@ tags: [rangoric, rangoric/spell]
 
 # Glitterdust
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Blr 2, Brd 2, Mag 2, Mes 2, Occ 2, Skd 2, Sor/Wiz 2, Sum 2, SumU 2, Wit 2
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Area**: Creatures and objects within 10-ft.-radius spread
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates (blinding only)
-  - **Spell Resistance**: No
+- **Level**: Blr 2, Brd 2, Mag 2, Mes 2, Occ 2, Skd 2, Sor/Wiz 2, Sum 2, SumU 2, Wit 2
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Area**: Creatures and objects within 10-ft.-radius spread
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates (blinding only)
+- **Spell Resistance**: No
 
 A cloud of golden particles covers everyone and everything in the area, causing creatures to become [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] and visibly outlining [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] things for the duration of the spell. All within the area are covered by the dust, which cannot be removed and continues to sparkle until it fades.
 
 Any creature covered by the dust takes a –40 penalty on [[rangoric-srd/skills/Stealth|Stealth]] checks.
 
-*Material Component*: Ground mica.
+_Material Component_: Ground mica.

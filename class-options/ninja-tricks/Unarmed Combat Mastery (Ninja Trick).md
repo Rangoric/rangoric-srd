@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Unarmed Combat Mastery
 
-*A [[rangoric-srd/classes/Ninja#^ninja-master-tricks|master trick]].*
+_A [[rangoric-srd/classes/Ninja#^ninja-master-tricks|master trick]]._
 
 A ninja who selects this trick deals damage with her unarmed strikes as if she were a [[rangoric-srd/classes/Monk|monk]] of her ninja level –4. If the ninja has levels in monk, this ability stacks with monk levels to determine how much damage she can do with her unarmed strikes. A ninja must have the [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]] feat before taking this trick.

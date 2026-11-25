@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Vanara Rogue
 
-*A [[rangoric-srd/races/Vanara|vanara]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Rogue#^rogue-class-bonuses|rogue]] level.*
+_A [[rangoric-srd/races/Vanara|vanara]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Rogue#^rogue-class-bonuses|rogue]] level._
 
 The rogue gains 1/6 of a new [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]].

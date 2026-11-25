@@ -40,16 +40,16 @@ tags: [rangoric, rangoric/spell]
 
 # Invisibility
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Alc 2, Apl 2, Brd 2, Fpk 2, Inq 2, Mag 2, Med 2, Mes 2, Occ 2, Psy 2, Skd 2, Sor/Wiz 2, Spi 2, Sum 2, SumU 2, Trickery 2
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal or touch
-  - **Target**: You or a creature or object weighing no more than 100 lb./level
-  - **Duration**: 1 min./level (D)
-  - **Saving Throw**: Will negates (harmless) or Will negates (harmless, object)
-  - **Spell Resistance**: Yes (harmless) or Yes (harmless, object)
+- **Level**: Alc 2, Apl 2, Brd 2, Fpk 2, Inq 2, Mag 2, Med 2, Mes 2, Occ 2, Psy 2, Skd 2, Sor/Wiz 2, Spi 2, Sum 2, SumU 2, Trickery 2
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: Personal or touch
+- **Target**: You or a creature or object weighing no more than 100 lb./level
+- **Duration**: 1 min./level (D)
+- **Saving Throw**: Will negates (harmless) or Will negates (harmless, object)
+- **Spell Resistance**: Yes (harmless) or Yes (harmless, object)
 
 The creature or object touched becomes [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]], vanishing from sight, even from darkvision. If the recipient is a creature carrying gear, that vanishes, too. If you cast the spell on someone else, neither you nor your allies can see the subject, unless you can normally see invisible things or you employ magic to do so.
 
@@ -59,4 +59,4 @@ Of course, the subject is not magically silenced, and certain other conditions c
 
 Invisibility can be made permanent (on objects only) with a permanency spell.
 
-*Arcane Material Component*: An eyelash encased in a bit of gum arabic.
+_Arcane Material Component_: An eyelash encased in a bit of gum arabic.

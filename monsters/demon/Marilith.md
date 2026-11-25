@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Marilith
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Demon, Evil, Extraplanar)
-  - **Hit Dice**: 16d10+176 (264 hp)
-  - **Initiative**: +4
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 32 (+4 deflection, +4 Dex, +15 natural, –1 size), touch 17, flat-footed 28
-  - **Base Attack**: +16; **CMB**: +24 (+28 grapple); **CMD**: 42 (can't be tripped)
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +24 melee (2d6+8/17–20) or slam +22 melee (1d8+7) or tail slap +19 melee (2d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +24/+19/+14/+9 melee (2d6+8/17–20) and 5 +1 [[rangoric-srd/equipment/weapons/Longsword|longswords]] +24 melee (2d6+4/17–20) and tail slap +19 melee (2d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]); or 6 slams +22 melee (1d8+7) and tail slap +19 melee (2d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (tail slap, 2d6+10 plus crushing coils), infuse weapon, [[rangoric-srd/monsters/abilities/Multiweapon Mastery|multiweapon mastery]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., *[[rangoric-srd/spells/True Seeing|true seeing]]*, [[rangoric-srd/spells/Unholy Aura|unholy aura]] (DC 25), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron and good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 28
-  - **Saves**: Fort +25, Ref +18, Will +13
-  - **Abilities**: Str 25, Dex 19, Con 32, Int 18, Wis 18, Cha 25
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Deception|Deception]] +26, [[rangoric-srd/skills/Emulation|Emulation]] +26, [[rangoric-srd/skills/Engineering|Engineering]] +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +26, [[rangoric-srd/skills/Mysticism|Mysticism]] +23, [[rangoric-srd/skills/Perception|Perception]] +31, [[rangoric-srd/skills/Persuasion|Persuasion]] +26, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Stealth|Stealth]] +19
-  - **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (longsword), [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
-  - **Environment**: A chaotic evil-aligned plane
-  - **Organization**: Solitary, pair, or platoon (1 marilith, 1–3 glabrezus, and 3–14 babaus)
-  - **Challenge Rating**: 17
-  - **Treasure**: Double (6 mwk longswords, other treasure)
-  - **Alignment**: Always chaotic evil
-  - **Advancement**: 17–20 HD (Large); 21–48 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Demon, Evil, Extraplanar)
+- **Hit Dice**: 16d10+176 (264 hp)
+- **Initiative**: +4
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 32 (+4 deflection, +4 Dex, +15 natural, –1 size), touch 17, flat-footed 28
+- **Base Attack**: +16; **CMB**: +24 (+28 grapple); **CMD**: 42 (can't be tripped)
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +24 melee (2d6+8/17–20) or slam +22 melee (1d8+7) or tail slap +19 melee (2d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +24/+19/+14/+9 melee (2d6+8/17–20) and 5 +1 [[rangoric-srd/equipment/weapons/Longsword|longswords]] +24 melee (2d6+4/17–20) and tail slap +19 melee (2d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]); or 6 slams +22 melee (1d8+7) and tail slap +19 melee (2d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (tail slap, 2d6+10 plus crushing coils), infuse weapon, [[rangoric-srd/monsters/abilities/Multiweapon Mastery|multiweapon mastery]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., _[[rangoric-srd/spells/True Seeing|true seeing]]_, [[rangoric-srd/spells/Unholy Aura|unholy aura]] (DC 25), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron and good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 28
+- **Saves**: Fort +25, Ref +18, Will +13
+- **Abilities**: Str 25, Dex 19, Con 32, Int 18, Wis 18, Cha 25
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Deception|Deception]] +26, [[rangoric-srd/skills/Emulation|Emulation]] +26, [[rangoric-srd/skills/Engineering|Engineering]] +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +26, [[rangoric-srd/skills/Mysticism|Mysticism]] +23, [[rangoric-srd/skills/Perception|Perception]] +31, [[rangoric-srd/skills/Persuasion|Persuasion]] +26, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Stealth|Stealth]] +19
+- **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (longsword), [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
+- **Environment**: A chaotic evil-aligned plane
+- **Organization**: Solitary, pair, or platoon (1 marilith, 1–3 glabrezus, and 3–14 babaus)
+- **Challenge Rating**: 17
+- **Treasure**: Double (6 mwk longswords, other treasure)
+- **Alignment**: Always chaotic evil
+- **Advancement**: 17–20 HD (Large); 21–48 HD (Huge)
+- **Level Adjustment**: —
 
 The leaders of demonic hordes and queens of demonic nations, the dreaded mariliths serve demon lords as governesses, advisors, and even lovers, yet their brilliance as tacticians makes them most sought after as generals and commanders of armies. The most powerful mariliths serve no one, and instead command ravenous fiendish legions.
 
@@ -72,7 +72,7 @@ A marilith is 6 to 9 feet tall and measures 20 feet from head to tail tip. It we
 
 Though mariliths thrive on grand strategy and army-level tactics, they love physical combat and never pass up an opportunity to fight. Each of a marilith’s six arms can wield a weapon, and the creature gets an additional three weapon attacks with its primary arm. Mariliths seldom rush headlong into battle, however, preferring to hang back and size up the situation first. They always seek to gain the best possible advantage from the local terrain, obstacles, and any vulnerability or weakness in their opponents.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 16th): Constant—*[[rangoric-srd/spells/True Seeing|true seeing]]*, *[[rangoric-srd/spells/Unholy Aura|unholy aura]]* (DC 25); At will—*[[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (self plus 50 lbs. of objects only), *[[rangoric-srd/spells/Project Image|project image]]* (DC 24), *[[rangoric-srd/spells/Telekinesis|telekinesis]]* (DC 22); 3/day—*[[rangoric-srd/spells/Blade Barrier|blade barrier]]* (DC 23), *[[rangoric-srd/spells/Fly|fly]]*; 1/day—[[rangoric-srd/monsters/abilities/Summon|summon]] (level 5, 1 [[rangoric-srd/monsters/demon/Marilith|marilith]] 20%, 1 [[rangoric-srd/monsters/demon/Nalfeshnee|nalfeshnee]] at 35%, or 1d4 [[rangoric-srd/monsters/demon/Hezrou|hezrous]] at 60%).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 16th): Constant—_[[rangoric-srd/spells/True Seeing|true seeing]]_, _[[rangoric-srd/spells/Unholy Aura|unholy aura]]_ (DC 25); At will—_[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Project Image|project image]]_ (DC 24), _[[rangoric-srd/spells/Telekinesis|telekinesis]]_ (DC 22); 3/day—_[[rangoric-srd/spells/Blade Barrier|blade barrier]]_ (DC 23), _[[rangoric-srd/spells/Fly|fly]]_; 1/day—[[rangoric-srd/monsters/abilities/Summon|summon]] (level 5, 1 [[rangoric-srd/monsters/demon/Marilith|marilith]] 20%, 1 [[rangoric-srd/monsters/demon/Nalfeshnee|nalfeshnee]] at 35%, or 1d4 [[rangoric-srd/monsters/demon/Hezrou|hezrous]] at 60%).
 
 **Crushing Coils (Ex)**: A creature that takes damage from a marilith's constrict attack must succeed on a DC 25 Fortitude save or lose consciousness for 1d8 rounds. The save DC is Strength-based.
 

@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Ornery Pistol
 
-This pistol acts as a normal *+2 pistol*, but it has a strange aversion to talk of peace. Anytime the wielder or an ally within line of sight that the wielder can hear attempts to improve a creature's initial attitude with the [[rangoric-srd/skills/Persuasion|Persuasion]] skill, without spending an action, the pistol leaps into the wielder's hand and takes a single shot at the creature the wielder or ally is using Persuasion against. If the wielder or ally is attempting to affect multiple creatures, the gun shoots a random member of the group. This occurs even if the pistol is unloaded, as the pistol's curse magically loads itself with a normal bullet and black powder when the action is taken.
+This pistol acts as a normal _+2 pistol_, but it has a strange aversion to talk of peace. Anytime the wielder or an ally within line of sight that the wielder can hear attempts to improve a creature's initial attitude with the [[rangoric-srd/skills/Persuasion|Persuasion]] skill, without spending an action, the pistol leaps into the wielder's hand and takes a single shot at the creature the wielder or ally is using Persuasion against. If the wielder or ally is attempting to affect multiple creatures, the gun shoots a random member of the group. This occurs even if the pistol is unloaded, as the pistol's curse magically loads itself with a normal bullet and black powder when the action is taken.
 
 Strong transmutation; CL 12th; Intended magic item: any [[rangoric-srd/equipment/weapons/Pistol|pistol]].

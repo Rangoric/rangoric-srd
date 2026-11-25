@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Aqua Metallorum
 
-*Chymical; Special*
+_Chymical; Special_
 
 Aqua metallorum is the primary base for high-end alchemical creations such as elixirs, and has a part to play in making both Emerald Tablets and Alchana Stones. Its abilities and uses are not transmittable by ingestion, and drinking aqua metallorum is akin to drinking a low-level poison (DC 13; save or suffer 1d3 points of damage and nausea for 1d6 rounds). Even with a successful save, those foolish enough to drink this liquid suffer a -2 circumstance modifier to all Reflex saves for the following 24 hours. If used as an unguent or metal polish, however (as some blacksmiths or finesmiths do), it removes many visible flaws, enhances the natural color and texture of the metal, and adds a bright sheen (no evident game effects beyond impressing people with mirror-bright armor and weapons). Thus, its most common game use has been as a polish for masterwork metal items.
 

@@ -34,16 +34,16 @@ tags: [rangoric, rangoric/spell]
 
 # Poison
 
-*Necromancy \[Poison\]*
+_Necromancy \[Poison\]_
 
-  - **Level**: Apl 4, Clr 4, Drd 3, Hun 3, Mes 4, Occ 4, Sha 4, Wit 4
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Living creature touched
-  - **Duration**: Instantaneous; see text
-  - **Saving Throw**: Fortitude negates; see text
-  - **Spell Resistance**: Yes
+- **Level**: Apl 4, Clr 4, Drd 3, Hun 3, Mes 4, Occ 4, Sha 4, Wit 4
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Living creature touched
+- **Duration**: Instantaneous; see text
+- **Saving Throw**: Fortitude negates; see text
+- **Spell Resistance**: Yes
 
 Calling upon the venomous powers of natural predators, you infect the subject with a horrible poison by making a successful melee touch attack. This poison deals 1d3 Constitution damage per round for 6 rounds. Poisoned creatures can make a Fortitude save each round to negate the damage and end the affliction.
 

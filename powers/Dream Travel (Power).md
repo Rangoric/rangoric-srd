@@ -33,7 +33,7 @@ Targets: You and touched creature or creatures (up to one/level)
 Duration: 1 hour/level (D)  
 Saving Throw: Will negates  
 Power Resistance: Yes  
-Power Points: 13  
+Power Points: 13
 
 You and any creature you touch are drawn along a crystal arc of reverie to the edge of conscious thought and into the region of dreams. You can take more than one creature along with you (subject to your level limit), but each one must be touching another one. You physically enter the land of dreams, leaving nothing behind.
 

@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Weapon Mastery
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Battle Mystery|battle]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Battle Mystery|battle]] mystery._
 
 Select one weapon with which you are proficient. You gain [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] with that weapon. At 8th level, you gain [[rangoric-srd/feats/Improved Critical|Improved Critical]] with that weapon. At 12th level, you gain [[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]] with that weapon. You do not need to meet the prerequisites to receive these feats.

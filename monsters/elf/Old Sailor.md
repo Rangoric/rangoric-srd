@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Old Sailor
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf)
-  - **Hit Dice**: 2d8+2 (11 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 13 (+2 armor, +1 Dex), touch 11, flat-footed 12
-  - **Base Attack**: +1; **CMB**: +2; **CMD**: 13
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 melee (1d4+1/19–20) or [[rangoric-srd/equipment/weapons/Handaxe|handaxe]] +2 melee (1d6+1/×3) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 ranged (1d4+1/19–20) or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +2 ranged (1d6/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 melee (1d4+1/19–20); or [[rangoric-srd/equipment/weapons/Handaxe|handaxe]] +2 melee (1d6+1/×3); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 ranged (1d4+1/19–20); or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +2 ranged (1d6/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
-  - **Saves**: Fort +0, Ref +1, Will +3 (+2 vs. enchantments)
-  - **Abilities**: Str 12, Dex 13, Con 11, Int 10, Wis 10, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Craft|Craft]] (scrimshaw) +4, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +6, Perform (string) +3, [[rangoric-srd/skills/Profession|Profession]] (sailor) +4, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5, [[rangoric-srd/skills/Theology|Theology]] +4
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Athletics)
-  - **Environment**: Temperate forest
-  - **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
-  - **Challenge Rating**: 1/2
-  - **Treasure**: NPC gear (other gear: leather armor, handaxe, masterwork dagger, shortbow with 20 arrows, artisan's tools, 36 gp)
-  - **Alignment**: Chaotic neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf)
+- **Hit Dice**: 2d8+2 (11 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 13 (+2 armor, +1 Dex), touch 11, flat-footed 12
+- **Base Attack**: +1; **CMB**: +2; **CMD**: 13
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 melee (1d4+1/19–20) or [[rangoric-srd/equipment/weapons/Handaxe|handaxe]] +2 melee (1d6+1/×3) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 ranged (1d4+1/19–20) or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +2 ranged (1d6/×3)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 melee (1d4+1/19–20); or [[rangoric-srd/equipment/weapons/Handaxe|handaxe]] +2 melee (1d6+1/×3); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 ranged (1d4+1/19–20); or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +2 ranged (1d6/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
+- **Saves**: Fort +0, Ref +1, Will +3 (+2 vs. enchantments)
+- **Abilities**: Str 12, Dex 13, Con 11, Int 10, Wis 10, Cha 9
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Craft|Craft]] (scrimshaw) +4, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +6, Perform (string) +3, [[rangoric-srd/skills/Profession|Profession]] (sailor) +4, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5, [[rangoric-srd/skills/Theology|Theology]] +4
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Athletics)
+- **Environment**: Temperate forest
+- **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
+- **Challenge Rating**: 1/2
+- **Treasure**: NPC gear (other gear: leather armor, handaxe, masterwork dagger, shortbow with 20 arrows, artisan's tools, 36 gp)
+- **Alignment**: Chaotic neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 An old sailor is an [[rangoric-srd/monsters/elf/Elf|elf]] with 2 levels of [[rangoric-srd/classes/Expert|expert]]. Quite weathered for an elf, a sailor spends most of his free time playing cards, making music, or whittling away at wood or ivory. Old sailors are superstitious and wary of bad omens before or during a voyage.
 

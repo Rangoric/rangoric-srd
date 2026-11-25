@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Philter of the Predator
 
-*Ingestible; Special*
+_Ingestible; Special_
 
 Like the [[rangoric-srd/equipment/alchemical-items/Philter of the Pack|philter of the pack]], this mix of herbs and chymicals and animal blood produces a scent on the imbiber, but this one induces fear in wild animals. For 1d12 hours after consuming this philter, any animals view the person as having the Frightful Presence special ability. Also, the person’s scent marks him or her as an aggressor, so Charisma is reduced by 2 points for the duration when dealing with humanoids and sentient magical beasts.
 

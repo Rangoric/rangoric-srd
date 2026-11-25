@@ -73,11 +73,11 @@ Some psionic items, particularly weapons, have an intelligence all their own. On
 
 ##### Cursed Items
 
-Some psionic items are cursed - incorrectly made, or corrupted by outside forces. Cursed items might be particularly dangerous to the user, or they might be normal items with a minor flaw, an inconvenient requirement, or an unpredictable nature. Randomly generated items are cursed 5% of the time.  
+Some psionic items are cursed - incorrectly made, or corrupted by outside forces. Cursed items might be particularly dangerous to the user, or they might be normal items with a minor flaw, an inconvenient requirement, or an unpredictable nature. Randomly generated items are cursed 5% of the time.
 
 ##### Charges and Multiple Uses
 
-Some items are limited in power by the number of charges they hold or the number of power points they contain. Normally, charged items (such as dorjes) have 50 charges at most. If such an item is found as a random part of a treasure, roll d% and divide by 2 to determine the number of charges left (round down, minimum 1).  
+Some items are limited in power by the number of charges they hold or the number of power points they contain. Normally, charged items (such as dorjes) have 50 charges at most. If such an item is found as a random part of a treasure, roll d% and divide by 2 to determine the number of charges left (round down, minimum 1).
 
 Similarly, items that contain power points (such as psicrowns) have a number of points equal to 50 x the manifester level of the creator. If such an item is found as a random part of a treasure, roll d% and divide by 2 to determine the number by which the manifester level is multiplied (round down, minimum 1).
 
@@ -87,9 +87,9 @@ Some items are single-use and expendable. Such items can often be found in sets 
 
 ##### Magic Items for Psionic Characters
 
-Many magic items can aid psionic characters. The table below provides some possibilities.  
+Many magic items can aid psionic characters. The table below provides some possibilities.
 
-Table: Magic-Psionics Equivalencies     
+Table: Magic-Psionics Equivalencies   
 
 | Magic Item        |                | Psionic Effect                                                                                                |
 | ----------------- | -------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -103,11 +103,11 @@ Table: Magic-Psionics Equivalencies   
 |                   | Dull gray (2)  | Provides 1 power point to a psionic character, then disintegrates                                             |
 
 1 New item: Treat as a cognizance crystal in ioun stone form, except that it regenerates its stored power points each day; Price 16,000 gp.     
-2 Dull gray stones are useless for magic but still harbor just enough resonance that a psionic character can eke out 1 power point before the stone is gone forever.     
+2 Dull gray stones are useless for magic but still harbor just enough resonance that a psionic character can eke out 1 power point before the stone is gone forever.   
 
 ### Psionic Item Descriptions
 
-In the following sections, each type of psionic item, such as armor or psionic tattoos, has a general description, followed by descriptions of specific items.  
+In the following sections, each type of psionic item, such as armor or psionic tattoos, has a general description, followed by descriptions of specific items.
 
 General descriptions include notes on activation, random generation, and other information. The Armor Class, hardness, hit points, and break DC are given for typical examples of some types of psionic items. The Armor Class assumes that the item is unattended and includes a -5 penalty for the item’s effective Dexterity of 0. If a creature holds the item, use the creature’s Dexterity modifier as an adjustment to Armor Class in place of the -5 penalty.
 
@@ -139,7 +139,7 @@ Cost to Create: The cost in gold pieces and experience points to create the item
 
 Weight: The notational entry for many items ends with a value for the item’s weight. When a weight figure is not given, the item has no weight worth noting (for the purpose of determining how much of a load a character can carry).
 
-RANDOM PSIONIC ITEMS  
+RANDOM PSIONIC ITEMS
 
 | Minor  | Medium | Major  | Item                                         |
 | ------ | ------ | ------ | -------------------------------------------- |
@@ -152,18 +152,18 @@ RANDOM PSIONIC ITEMS
 | 47-81  | 51-68  | 46-67  | Power stone                                  |
 | 82–87  | 69-82  | 68-75  | Psicrown                                     |
 | 88-93  | 83-89  | 76-87  | Psionic tattoo                               |
-| 94-100 | -     | -     | Minor universal item                         |
-| -     | 90-100 | -     | Medium universal item                        |
-| -     | -     | 88-100 | Major universal item                         |
+| 94-100 | -      | -      | Minor universal item                         |
+| -      | 90-100 | -      | Medium universal item                        |
+| -      | -      | 88-100 | Major universal item                         |
 
 ### Creating Psionic Items
 
 To calculate the costs involved in creating a psionic item, refer to [[rangoric-srd/magic-items/Creating Magic Items|Creating Magic Items]]. Although that information deals with magic items, the price formulas presented there are identical to those for psionic items.  
-Creating psionic armor and psionic weapons is almost identical to the requirements for creating magic armor and magic weapons.  
+Creating psionic armor and psionic weapons is almost identical to the requirements for creating magic armor and magic weapons.
 
 ###### Creating Dorjes
 
-To create a dorje, a character needs a small supply of materials, the most obvious being a chunk of crystal or the crystal shards of the dorje to be carved from or assembled. The cost of the materials is subsumed in the cost of creating the dorje:  
+To create a dorje, a character needs a small supply of materials, the most obvious being a chunk of crystal or the crystal shards of the dorje to be carved from or assembled. The cost of the materials is subsumed in the cost of creating the dorje:
 
 375 gp x the level of the power x the level of the manifester.
 
@@ -179,7 +179,7 @@ Item Creation Feat Required: [[rangoric-srd/feats/Craft Dorje|Craft Dorje]].
 
 ###### Creating Power Stones
 
-To create a power stone, a character needs a supply of incense and fine etching tools, the cost of which is subsumed in the cost of encoding the power stone:  
+To create a power stone, a character needs a supply of incense and fine etching tools, the cost of which is subsumed in the cost of encoding the power stone:
 
 12.5 gp x the level of the power x the level of the manifester.
 
@@ -193,7 +193,7 @@ Item Creation Feat Required: [[rangoric-srd/feats/Imprint Stone|Imprint Stone]].
 
 ###### Creating Psicrowns
 
-To create a psicrown, a character needs a supply of materials, the most obvious being a circlet, crown, or the pieces of the crown to be assembled. The cost of the materials is subsumed in the cost of creating the psicrown:  
+To create a psicrown, a character needs a supply of materials, the most obvious being a circlet, crown, or the pieces of the crown to be assembled. The cost of the materials is subsumed in the cost of creating the psicrown:
 
 375 gp x the level of the highest-level power x the level of the manifester,  
 \+ 75% of the value of the next highest-level power (281.25 gp x the level of the power x the level of the manifester),  
@@ -211,7 +211,7 @@ Item Creation Feat Required: [[rangoric-srd/feats/Craft Psicrown|Craft Psicrown]
 
 ###### Creating Psionic Tattoos
 
-The creator of a psionic tattoo must have a patch of uncovered skin free of hair and fur, and at least a few containers in which to mix dyes. In addition, he needs special materials, usually to create dyes. The costs for materials and dyes are subsumed in the cost for scribing the psionic tattoo:  
+The creator of a psionic tattoo must have a patch of uncovered skin free of hair and fur, and at least a few containers in which to mix dyes. In addition, he needs special materials, usually to create dyes. The costs for materials and dyes are subsumed in the cost for scribing the psionic tattoo:
 
 25 gp x the level of the power x the level of the manifester.
 
@@ -237,7 +237,7 @@ Item Creation Feat Required: [[rangoric-srd/feats/Craft Universal Item|Craft Uni
 
 ### Special Materials
 
-In addition to psionic items with imbedded powers, some substances have innate special properties.  
+In addition to psionic items with imbedded powers, some substances have innate special properties.
 
 Crystal, Deep: Deep crystal is crystal of above-average quality found at the hearts of large veins or deposits of mundane crystal (see below). Deep crystal is renowned for its strength and its psionically resonant nature. Mundane crystal is used for many items of psionic manufacture, such as dorjes, power stones, and psicrystals. Deep crystal is a better grade.
 

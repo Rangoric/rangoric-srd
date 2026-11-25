@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Water Merchant
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Gnome)
-  - **Hit Dice**: 10d8+40 (88 hp)
-  - **Initiative**: +7
-  - **Speed**: 15 ft. (3 squares)
-  - **Armor Class**: 28 (+7 armor, +1 deflection, +3 Dex, +3 natural, +3 shield, +1 size), touch 15, flat-footed 25
-  - **Base Attack**: +7; **CMB**: +4; **CMD**: 18
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +7 melee (1d4–1/18–20) or [[rangoric-srd/equipment/weapons/Dart|dart]] +11 ranged (1d3–2)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +7/+2 melee (1d4–1/18–20); or [[rangoric-srd/equipment/weapons/Dart|dart]] +11/+6 ranged (1d3–2)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/races/Gnome|+1 on attack rolls against goblinoid and reptilian humanoids]], [[rangoric-srd/classes/Druid#^druid-wild-shape|wild shape]] 4/day, [[rangoric-srd/class-options/domains/Water Domain|rebuke water creatures, turn fire creatures]] (4/day)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Gnome#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]] ([[rangoric-srd/class-options/domains/Water Domain|Water domain]]), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +11, [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]], [[rangoric-srd/classes/Druid#^druid-venom-immunity|immunity to poison]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10
-  - **Saves**: Fort +10, Ref +9, Will +12 (+2 vs. illusions, +4 vs. fey and plant-targeted effects)
-  - **Abilities**: Str 6, Dex 16, Con 15, Int 15, Wis 18, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +17, [[rangoric-srd/skills/Linguistics|Linguistics]] +4, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Profession|Profession]] (merchant) +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Society|Society]] +9
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Natural Spell|Natural Spell]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception), [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Temperate hills
-  - **Organization**: Solitary, or with other gnomes (see [[rangoric-srd/monsters/gnome/Gnome|Gnome]])
-  - **Challenge Rating**: 9
-  - **Treasure**: NPC gear (combat gear: feather token (whip), scroll of longstrider; other gear: +1 dragonhide breastplate, +1 heavy wooden shield, +1 scimitar, darts (5), cloak of resistance +1, headband of inspired wisdom +2, ring of protection +1, holly and mistletoe, ink vial, inkpens (2), paper (5 sheets), scroll case, spell component pouch, waterskin, 33 gp)
-  - **Alignment**: Neutral evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Gnome)
+- **Hit Dice**: 10d8+40 (88 hp)
+- **Initiative**: +7
+- **Speed**: 15 ft. (3 squares)
+- **Armor Class**: 28 (+7 armor, +1 deflection, +3 Dex, +3 natural, +3 shield, +1 size), touch 15, flat-footed 25
+- **Base Attack**: +7; **CMB**: +4; **CMD**: 18
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +7 melee (1d4–1/18–20) or [[rangoric-srd/equipment/weapons/Dart|dart]] +11 ranged (1d3–2)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +7/+2 melee (1d4–1/18–20); or [[rangoric-srd/equipment/weapons/Dart|dart]] +11/+6 ranged (1d3–2)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/races/Gnome|+1 on attack rolls against goblinoid and reptilian humanoids]], [[rangoric-srd/classes/Druid#^druid-wild-shape|wild shape]] 4/day, [[rangoric-srd/class-options/domains/Water Domain|rebuke water creatures, turn fire creatures]] (4/day)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Gnome#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]] ([[rangoric-srd/class-options/domains/Water Domain|Water domain]]), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +11, [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]], [[rangoric-srd/classes/Druid#^druid-venom-immunity|immunity to poison]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10
+- **Saves**: Fort +10, Ref +9, Will +12 (+2 vs. illusions, +4 vs. fey and plant-targeted effects)
+- **Abilities**: Str 6, Dex 16, Con 15, Int 15, Wis 18, Cha 12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +17, [[rangoric-srd/skills/Linguistics|Linguistics]] +4, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Profession|Profession]] (merchant) +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Society|Society]] +9
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Natural Spell|Natural Spell]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception), [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Temperate hills
+- **Organization**: Solitary, or with other gnomes (see [[rangoric-srd/monsters/gnome/Gnome|Gnome]])
+- **Challenge Rating**: 9
+- **Treasure**: NPC gear (combat gear: feather token (whip), scroll of longstrider; other gear: +1 dragonhide breastplate, +1 heavy wooden shield, +1 scimitar, darts (5), cloak of resistance +1, headband of inspired wisdom +2, ring of protection +1, holly and mistletoe, ink vial, inkpens (2), paper (5 sheets), scroll case, spell component pouch, waterskin, 33 gp)
+- **Alignment**: Neutral evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A water merchant is a [[rangoric-srd/monsters/gnome/Gnome|gnome]] with 10 levels of [[rangoric-srd/classes/Druid|druid]]. Typically found in arid regions, these druids use magic to supply others with water for a price.
 
@@ -75,8 +75,8 @@ A water merchant speaks Abyssal, Common, Draconic, Druidic, Elf, Gnome, and Sylv
 
 **Base Statistics**: Without barkskin and cat's grace, the druid's statistics are **Init** +5; **AC** 23, touch 13, flat-footed 22; **Ref** +7; **Ranged** dart +9/+4 (1d3-2); **Dex** 12; **CMD** 16; **Skills** Acrobatics +5.
 
-**Domain Spell-Like Abilities** (CL 10th; concentration +14): 7/day—*[[rangoric-srd/class-options/domains/Water Domain|icicle]]*.
+**Domain Spell-Like Abilities** (CL 10th; concentration +14): 7/day—_[[rangoric-srd/class-options/domains/Water Domain|icicle]]_.
 
-**Gnome Spell-Like Abilities** (CL 10th; concentration +11): 1/day—*[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Ghost Sound|ghost sound]]*, *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]*, *[[rangoric-srd/spells/Speak with Animals|speak with animals]]*.
+**Gnome Spell-Like Abilities** (CL 10th; concentration +11): 1/day—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_, _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_.
 
-**Druid spells prepared** (CL 10th; concentration +14): 5th—*[[rangoric-srd/spells/Call Lightning Storm|call lightning storm]]* (DC 19), *[[rangoric-srd/spells/Ice Storm|ice storm]]* <sup>D</sup>, *[[rangoric-srd/spells/Wall of Thorns|wall of thorns]]*; 4th—*[[rangoric-srd/spells/Control Water|control water]]* <sup>D</sup>, *[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, *[[rangoric-srd/spells/Flame Strike|flame strike]]* (2, DC 18), *[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]*; 3rd—*[[rangoric-srd/spells/Call Lightning|call lightning]]* (DC 17), *[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]*, *[[rangoric-srd/spells/Magic Fang, Greater|greater magic fang]]* (2), *[[rangoric-srd/spells/Water Breathing|water breathing]]* <sup>D</sup>; 2nd—*[[rangoric-srd/spells/Barkskin|barkskin]]* (2), *[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*, *[[rangoric-srd/spells/Fog Cloud|fog cloud]]* <sup>D</sup>, *[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]*, *[[rangoric-srd/spells/Resist Energy|resist energy]]*; 1st—*[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]* (2), *[[rangoric-srd/spells/Endure Elements|endure elements]]*, *[[rangoric-srd/spells/Faerie Fire|faerie fire]]*, *[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]* <sup>D</sup>, *[[rangoric-srd/spells/Speak with Animals|speak with animals]]*; 0 (at will)—*[[rangoric-srd/spells/Create Water|create water]]*, *[[rangoric-srd/spells/Detect Poison|detect poison]]*, *[[rangoric-srd/spells/Light|light]]*, *[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]*; <sup>D</sup> domain spell; **Domain**: [[rangoric-srd/class-options/domains/Water Domain|Water]].
+**Druid spells prepared** (CL 10th; concentration +14): 5th—_[[rangoric-srd/spells/Call Lightning Storm|call lightning storm]]_ (DC 19), _[[rangoric-srd/spells/Ice Storm|ice storm]]_ <sup>D</sup>, _[[rangoric-srd/spells/Wall of Thorns|wall of thorns]]_; 4th—_[[rangoric-srd/spells/Control Water|control water]]_ <sup>D</sup>, _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Flame Strike|flame strike]]_ (2, DC 18), _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_; 3rd—_[[rangoric-srd/spells/Call Lightning|call lightning]]_ (DC 17), _[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]_, _[[rangoric-srd/spells/Magic Fang, Greater|greater magic fang]]_ (2), _[[rangoric-srd/spells/Water Breathing|water breathing]]_ <sup>D</sup>; 2nd—_[[rangoric-srd/spells/Barkskin|barkskin]]_ (2), _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_ <sup>D</sup>, _[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_; 1st—_[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_ (2), _[[rangoric-srd/spells/Endure Elements|endure elements]]_, _[[rangoric-srd/spells/Faerie Fire|faerie fire]]_, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_ <sup>D</sup>, _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_; 0 (at will)—_[[rangoric-srd/spells/Create Water|create water]]_, _[[rangoric-srd/spells/Detect Poison|detect poison]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]_; <sup>D</sup> domain spell; **Domain**: [[rangoric-srd/class-options/domains/Water Domain|Water]].

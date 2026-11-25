@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Raktavarna Rakshasa Venom
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/rakshasas/Raktavarna|raktavarna]]. Each time a victim takes Wisdom damage from this poison, a *[[rangoric-srd/spells/Modify Memory|modify memory]]* effect causes the victim to forget the previous minute's interactions with the raktavarna, as long as the raktavarna is no longer visible or is in object form. The save DC is Constitution-based.
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/rakshasas/Raktavarna|raktavarna]]. Each time a victim takes Wisdom damage from this poison, a _[[rangoric-srd/spells/Modify Memory|modify memory]]_ effect causes the victim to forget the previous minute's interactions with the raktavarna, as long as the raktavarna is no longer visible or is in object form. The save DC is Constitution-based.
 
 - **Type**: poison, injury
 - **Save**: Fortitude DC 13

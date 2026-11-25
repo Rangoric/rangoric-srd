@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, eastern]
 
 # Bamboo Shaft Arrows
 
-*Ammunition (10) for tube arrow shooters.* Cost 1 gp; Weight 1/2 lb. ^stats
+_Ammunition (10) for tube arrow shooters._ Cost 1 gp; Weight 1/2 lb. ^stats
 
 These foot-long arrows are used as ammunition for [[rangoric-srd/equipment/weapons/Tube Arrow Shooter|arrow tubes]]. As an improvised melee weapon, they deal damage equivalent to a [[rangoric-srd/equipment/weapons/Spiked Gauntlet|spiked gauntlet]]. They come in a bamboo tube that holds 10 shafts.

@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Stargazer
 
-*An [[rangoric-srd/classes/Oracle#^oracle-archetypes|oracle]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Oracle#^oracle-archetypes|oracle]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Some oracles seek meaning in the pattern of the stars across the night sky, the trails of comets, and the eternal orbits of the planets.
 
@@ -26,7 +26,7 @@ Some oracles seek meaning in the pattern of the stars across the night sky, the 
 
 **Class Skills**: A stargazer adds [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis) to her list of [[rangoric-srd/classes/Oracle#Class Skills|class skills]]. These replace the additional class skills from her [[rangoric-srd/classes/Oracle#^oracle-mystery|mystery]].
 
-**Bonus Spells**: *[[rangoric-srd/spells/Faerie Fire|faerie fire]]* (2nd), *[[rangoric-srd/spells/Glitterdust|glitterdust]]* (4th), *[[rangoric-srd/spells/Guiding Star|guiding star]]* (6th), *[[rangoric-srd/spells/Wandering Star Motes|wandering star motes]]* (8th), *[[rangoric-srd/spells/Meteor Swarm|meteor swarm]]* (18th). These bonus spells replace the oracle's [[rangoric-srd/classes/Oracle#^oracle-mystery|mystery]] bonus spells at these levels.
+**Bonus Spells**: _[[rangoric-srd/spells/Faerie Fire|faerie fire]]_ (2nd), _[[rangoric-srd/spells/Glitterdust|glitterdust]]_ (4th), _[[rangoric-srd/spells/Guiding Star|guiding star]]_ (6th), _[[rangoric-srd/spells/Wandering Star Motes|wandering star motes]]_ (8th), _[[rangoric-srd/spells/Meteor Swarm|meteor swarm]]_ (18th). These bonus spells replace the oracle's [[rangoric-srd/classes/Oracle#^oracle-mystery|mystery]] bonus spells at these levels.
 
 **Revelations**: A stargazer must take the following [[rangoric-srd/classes/Oracle#^oracle-revelation|revelations]] at the listed levels.
 

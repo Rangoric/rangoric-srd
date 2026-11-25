@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Tonic of Toxinstop
 
-*Ingestible; Special*
+_Ingestible; Special_
 
 This drinkable antidote provides an immediate Fort save with a +5 bonus vs. any poisons or toxins in the person’s system. It also negates any secondary effects of a poison or toxin without the need for a saving throw.
 

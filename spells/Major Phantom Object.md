@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Major Phantom Object
 
-*Illusion (Figment) \[Mind-affecting\]*
+_Illusion (Figment) \[Mind-affecting\]_
 
-  - **Level**: Mes 5, Psy 5, Sor/Wiz 5
-  - **Components**: 
-  - **Casting Time**: 10 minutes
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: Phantasmal, unattended, nonmagical object, up to 1 cu. ft./level
-  - **Duration**: 10 minutes/level (D)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Mes 5, Psy 5, Sor/Wiz 5
+- **Components**:
+- **Casting Time**: 10 minutes
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: Phantasmal, unattended, nonmagical object, up to 1 cu. ft./level
+- **Duration**: 10 minutes/level (D)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
-This spell functions as the *major creation spell*, except as noted above and the object created is a semi-real phantasm. Any creature that interacts with the object may make a Will save, with success causing the object to cease to exist. A gnome casting this spell may make a Arcana check in place of any Craft check required to make a complex item.
+This spell functions as the _major creation spell_, except as noted above and the object created is a semi-real phantasm. Any creature that interacts with the object may make a Will save, with success causing the object to cease to exist. A gnome casting this spell may make a Arcana check in place of any Craft check required to make a complex item.

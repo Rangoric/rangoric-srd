@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Bouncing
 
-This weapon quality may only be placed on ammunition. A *bouncing* arrow, sling bullet, or crossbow bolt weaves through the air toward its target in an unpredictable fashion. An opponent targeted by a *bouncing* ammunition is denied its Armor bonus to AC (as a ranged touch attack).
+This weapon quality may only be placed on ammunition. A _bouncing_ arrow, sling bullet, or crossbow bolt weaves through the air toward its target in an unpredictable fashion. An opponent targeted by a _bouncing_ ammunition is denied its Armor bonus to AC (as a ranged touch attack).
 
-Moderate divination; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/True Strike|true strike]]*; Price +3 bonus.
+Moderate divination; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/True Strike|true strike]]_; Price +3 bonus.

@@ -18,13 +18,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Planar Oracle
 
-*An [[rangoric-srd/classes/Oracle#^oracle-archetypes|oracle]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Oracle#^oracle-archetypes|oracle]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A planar oracle has an affinity with one of the Outer Planes. She is at home on the multiple [[rangoric-srd/rules/Planes|Outer Planes]], and can eventually become an outsider herself.
 
 **Recommended Mysteries**: [[rangoric-srd/class-options/mysteries/Outer Dark Mystery|outer dark]], [[rangoric-srd/class-options/mysteries/Flame Mystery|flame]], [[rangoric-srd/class-options/mysteries/Heavens Mystery|heavens]], [[rangoric-srd/class-options/mysteries/Stone Mystery|stone]], [[rangoric-srd/class-options/mysteries/Waves Mystery|waves]], [[rangoric-srd/class-options/mysteries/Wind Mystery|wind]].
 
-**Bonus Spells**: *[[rangoric-srd/spells/Endure Elements|endure elements]]* (2nd), *[[rangoric-srd/spells/Elemental Speech|elemental speech]]* (4th), *[[rangoric-srd/spells/Tongues|tongues]]* (6th), *[[rangoric-srd/spells/Planar Adaptation|planar adaptation]]* (8th), *[[rangoric-srd/spells/Plane Shift|plane shift]]* (10th), *[[rangoric-srd/spells/Planar Adaptation, Mass|mass planar adaptation]]* (12th), *[[rangoric-srd/spells/Shadow Walk|shadow walk]]* (14th), *[[rangoric-srd/spells/Etherealness|etherealness]]* (16th), *[[rangoric-srd/spells/Gate|gate]]* (18th). These bonus spells replace the oracle's [[rangoric-srd/classes/Oracle#^oracle-mystery|mystery]] bonus spells at these levels.
+**Bonus Spells**: _[[rangoric-srd/spells/Endure Elements|endure elements]]_ (2nd), _[[rangoric-srd/spells/Elemental Speech|elemental speech]]_ (4th), _[[rangoric-srd/spells/Tongues|tongues]]_ (6th), _[[rangoric-srd/spells/Planar Adaptation|planar adaptation]]_ (8th), _[[rangoric-srd/spells/Plane Shift|plane shift]]_ (10th), _[[rangoric-srd/spells/Planar Adaptation, Mass|mass planar adaptation]]_ (12th), _[[rangoric-srd/spells/Shadow Walk|shadow walk]]_ (14th), _[[rangoric-srd/spells/Etherealness|etherealness]]_ (16th), _[[rangoric-srd/spells/Gate|gate]]_ (18th). These bonus spells replace the oracle's [[rangoric-srd/classes/Oracle#^oracle-mystery|mystery]] bonus spells at these levels.
 
 **Revelations**: At 1st level, you must choose one Outer Plane with which you have an affinity. This choice cannot be changed. A planar oracle must take the following [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] at 3rd level.
 

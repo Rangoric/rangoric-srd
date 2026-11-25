@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Alchemical Trapper
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-archetypes|alchemist]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Kobold|kobolds]].*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-archetypes|alchemist]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Kobold|kobolds]]._
 
 Because kobolds rely on traps to soften up enemies, kobold alchemists learn to turn bombs into traps. When such alchemists are preparing defenses against larger creatures that might enter their tunnels and attempt to exterminate them, their skills mean the difference between life and death.
 

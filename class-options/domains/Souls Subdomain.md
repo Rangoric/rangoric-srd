@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Souls Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Repose Domain|Repose]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Repose Domain|Repose]] domain._
 
 ## Replacement Power
 
@@ -27,8 +27,8 @@ This power replaces the [[rangoric-srd/class-options/domains/Repose Domain#Grant
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 3rd | [[rangoric-srd/spells/Animate Dead\|Animate Dead]] (M) | Creates undead skeletons and zombies. |
-| 6th | [[rangoric-srd/spells/Antilife Shell\|Antilife Shell]] | 10-ft. field hedges out living creatures. |
-| 9th | [[rangoric-srd/spells/Trap the Soul\|Trap the Soul]] (M) | Imprisons subject within gem. |
+| Level | Spell                                                    | Brief Description                         |
+| ----- | -------------------------------------------------------- | ----------------------------------------- |
+| 3rd   | [[rangoric-srd/spells/Animate Dead\|Animate Dead]] (M)   | Creates undead skeletons and zombies.     |
+| 6th   | [[rangoric-srd/spells/Antilife Shell\|Antilife Shell]]   | 10-ft. field hedges out living creatures. |
+| 9th   | [[rangoric-srd/spells/Trap the Soul\|Trap the Soul]] (M) | Imprisons subject within gem.             |

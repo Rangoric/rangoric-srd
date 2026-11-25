@@ -24,12 +24,12 @@ The Perilous Mountains range contains the tallest mountains in all of FaerieLand
 
 **Seasons:** Despite separating two drastically different weather systems, the Perilous Mountains are enveloped in a somewhat cool climate year round.
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* Minestooth Tower was originally the foreman’s shack when the king was still an indentured servant working the mine. Over the years, he has rebuilt it in stone and expanded it greatly.
+_Common:_ Minestooth Tower was originally the foreman’s shack when the king was still an indentured servant working the mine. Over the years, he has rebuilt it in stone and expanded it greatly.
 
-*Uncommon:* The remote valleys of the mountain range are the home of many varieties of giants and stray magical beasts.
+_Uncommon:_ The remote valleys of the mountain range are the home of many varieties of giants and stray magical beasts.
 
-*Rare:* Some forgotten mines in the mountains still contain riches ready for the taking.
+_Rare:_ Some forgotten mines in the mountains still contain riches ready for the taking.
 
-*Obscure:* -
+_Obscure:_ -

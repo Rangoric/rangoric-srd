@@ -33,13 +33,13 @@ tags: [rangoric, rangoric/spell]
 
 # Longshot
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 1, Apl 1, Hun 1, Inq 1, Mag 1, Occ 1, Pal 1, Psy 1, Rgr 1, Sor/Wiz 1
-  - **Components**: V, S, M/DF (a piece of fletching)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 minute/level
+- **Level**: Alc 1, Apl 1, Hun 1, Inq 1, Mag 1, Occ 1, Pal 1, Psy 1, Rgr 1, Sor/Wiz 1
+- **Components**: V, S, M/DF (a piece of fletching)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 minute/level
 
 This spell reduces the effect of range, granting a +10-foot bonus to the range increment of any weapon used by the subject.

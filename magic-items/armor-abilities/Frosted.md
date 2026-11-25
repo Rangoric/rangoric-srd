@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Frosted
 
-*Frosted* armor is coated in frost that doesn't harm the wearer. Anyone else who touches it, with a touch attack or an unarmed strike against the wearer, takes 1d6 points of cold damage.
+_Frosted_ armor is coated in frost that doesn't harm the wearer. Anyone else who touches it, with a touch attack or an unarmed strike against the wearer, takes 1d6 points of cold damage.
 
-CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/rules/star magic/stars/Star of Frost|Star of Frost]]*; Price +1 bonus.
+CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/rules/star magic/stars/Star of Frost|Star of Frost]]_; Price +1 bonus.

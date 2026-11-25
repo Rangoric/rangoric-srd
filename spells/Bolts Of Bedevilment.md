@@ -33,6 +33,6 @@ Range: Medium (100 ft. + 10 ft./level)
 Effect: Ray  
 Duration: 1 round/level  
 Saving Throw: Will negates  
-Spell Resistance: Yes  
+Spell Resistance: Yes
 
 This spell grants the caster the ability to make one ray attack per round. The ray [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazes]] one living creature, clouding its mind so that it takes no action for 1d3 rounds. The creature is not [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] (so attackers get no special advantage against it), but it can’t move, cast spells, use mental abilities, and so on.

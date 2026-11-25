@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/armor]
 
 # Padded Armor
 
-*Light armor.* Cost 5 gp; Armor Bonus +1; Maximum Dex Bonus +8; Armor Check Penalty 0; Arcane Spell Failure 5%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 10 lb. ^stats
+_Light armor._ Cost 5 gp; Armor Bonus +1; Maximum Dex Bonus +8; Armor Check Penalty 0; Arcane Spell Failure 5%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 10 lb. ^stats

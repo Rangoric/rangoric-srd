@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Swordmaster
 
-*A [[rangoric-srd/classes/Rogue#^rogue-archetypes|rogue]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Tengu|tengus]].*
+_A [[rangoric-srd/classes/Rogue#^rogue-archetypes|rogue]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Tengu|tengus]]._
 
 A swordmaster meditates to strengthen her spiritual connection to her blade. She strives to perfect her skills by mastering six deadly trances. A swordmaster has the following class features.
 
@@ -28,17 +28,17 @@ A swordmaster meditates to strengthen her spiritual connection to her blade. She
 
 At 3rd level, the swordmaster chooses one trance from the list below. She chooses another trance at 6th, 9th, 12th, 15th, and 18th level. She can only use one type of trance at a time.
 
-*Crane Trance (Ex)*: The swordmaster's blade rises and falls with the graceful sweeping arcs of the mountain crane. When in this trance, a swordmaster gains the benefits of the [[rangoric-srd/feats/Crane Style|Crane Style]] feat.
+_Crane Trance (Ex)_: The swordmaster's blade rises and falls with the graceful sweeping arcs of the mountain crane. When in this trance, a swordmaster gains the benefits of the [[rangoric-srd/feats/Crane Style|Crane Style]] feat.
 
-*Dragon Trance (Ex)*: Like the dragon, the swordmaster has honed the steadiness of her mind and body. When in this trance, a swordmaster gains the benefits of the [[rangoric-srd/feats/Dragon Style|Dragon Style]] feat.
+_Dragon Trance (Ex)_: Like the dragon, the swordmaster has honed the steadiness of her mind and body. When in this trance, a swordmaster gains the benefits of the [[rangoric-srd/feats/Dragon Style|Dragon Style]] feat.
 
-*Leopard Trance (Ex)*: Using the swiftness of the leopard, a swordmaster's evasive footwork confuses her opponents. When in this trance, a swordmaster gains the benefits of the [[rangoric-srd/feats/Mobility|Mobility]] feat.
+_Leopard Trance (Ex)_: Using the swiftness of the leopard, a swordmaster's evasive footwork confuses her opponents. When in this trance, a swordmaster gains the benefits of the [[rangoric-srd/feats/Mobility|Mobility]] feat.
 
-*Monkey Trance (Ex)*: As the monkey springs, the swordmaster leaps from the reach of her enemies. While in this trance, a swordmaster can make an [[rangoric-srd/skills/Acrobatics|Acrobatics]] check opposed by an opponent's [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]]. If she succeeds, she may move 5 feet as a swift action within the opponent's threatened area; this movement does not provoke attacks of opportunity and does not count as a [[rangoric-srd/combat/Combat Actions#Take 5-Foot Step|5-foot step]].
+_Monkey Trance (Ex)_: As the monkey springs, the swordmaster leaps from the reach of her enemies. While in this trance, a swordmaster can make an [[rangoric-srd/skills/Acrobatics|Acrobatics]] check opposed by an opponent's [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]]. If she succeeds, she may move 5 feet as a swift action within the opponent's threatened area; this movement does not provoke attacks of opportunity and does not count as a [[rangoric-srd/combat/Combat Actions#Take 5-Foot Step|5-foot step]].
 
-*Serpent Trance (Ex)*: Like the serpent, the swordmaster's quick movements allow her to catch her opponent unawares. While in this trance, a swordmaster receives a +4 bonus on [[rangoric-srd/skills/Deception|Deception]] checks made to [[rangoric-srd/combat/Combat Special Attacks#Feint|feint]] during combat.
+_Serpent Trance (Ex)_: Like the serpent, the swordmaster's quick movements allow her to catch her opponent unawares. While in this trance, a swordmaster receives a +4 bonus on [[rangoric-srd/skills/Deception|Deception]] checks made to [[rangoric-srd/combat/Combat Special Attacks#Feint|feint]] during combat.
 
-*Tiger Trance (Ex)*: The swordmaster pounces upon her opponents, striking with the ferocity and brute force of a wild tiger. While in this trance, a swordmaster can make a combat maneuver check against an opponent within charge range. If she succeeds, she may [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]] that opponent and make a full attack against that opponent.
+_Tiger Trance (Ex)_: The swordmaster pounces upon her opponents, striking with the ferocity and brute force of a wild tiger. While in this trance, a swordmaster can make a combat maneuver check against an opponent within charge range. If she succeeds, she may [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]] that opponent and make a full attack against that opponent.
 
 This ability replaces all increments of [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]].
 

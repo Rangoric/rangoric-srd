@@ -41,25 +41,25 @@ tags: [rangoric, rangoric/monster]
 
 # Water Elemental, Greater
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Elemental, Extraplanar, Water)
-  - **Hit Dice**: 13d10+52 (123 hp)
-  - **Initiative**: +5
-  - **Speed**: 20 ft. (4 squares), swim 90 ft.
-  - **Armor Class**: 23 (+5 Dex, +1 dodge, +9 natural, –2 size), touch 14, flat-footed 17
-  - **Base Attack**: +13; **CMB**: +24; **CMD**: 40
-  - **Attack**: Slam +20 melee (2d8+9)
-  - **Full Attack**: 2 slams +20 melee (2d8+9)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/elemental/Water Elemental#^drench|Drench]], [[rangoric-srd/monsters/elemental/Water Elemental#^vortex|vortex]] (DC 25), [[rangoric-srd/monsters/elemental/Water Elemental#^water-mastery|water mastery]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-  - **Saves**: Fort +12, Ref +15, Will +4
-  - **Abilities**: Str 28, Dex 20, Con 19, Int 8, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Athletics|Athletics]] +30, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +20, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +10, [[rangoric-srd/skills/Theology|Theology]] +12
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Any (Elemental Plane of Water)
-  - **Organization**: Solitary, pair, or gang (3–8)
-  - **Challenge Rating**: 9
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 14–23 HD (Huge)
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Elemental, Extraplanar, Water)
+- **Hit Dice**: 13d10+52 (123 hp)
+- **Initiative**: +5
+- **Speed**: 20 ft. (4 squares), swim 90 ft.
+- **Armor Class**: 23 (+5 Dex, +1 dodge, +9 natural, –2 size), touch 14, flat-footed 17
+- **Base Attack**: +13; **CMB**: +24; **CMD**: 40
+- **Attack**: Slam +20 melee (2d8+9)
+- **Full Attack**: 2 slams +20 melee (2d8+9)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/elemental/Water Elemental#^drench|Drench]], [[rangoric-srd/monsters/elemental/Water Elemental#^vortex|vortex]] (DC 25), [[rangoric-srd/monsters/elemental/Water Elemental#^water-mastery|water mastery]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
+- **Saves**: Fort +12, Ref +15, Will +4
+- **Abilities**: Str 28, Dex 20, Con 19, Int 8, Wis 11, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Athletics|Athletics]] +30, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +20, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +10, [[rangoric-srd/skills/Theology|Theology]] +12
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Any (Elemental Plane of Water)
+- **Organization**: Solitary, pair, or gang (3–8)
+- **Challenge Rating**: 9
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 14–23 HD (Huge)
+- **Level Adjustment**: —

@@ -19,11 +19,11 @@ tags: [rangoric, rangoric/magic-item]
 
 # Rod of Dwarven Might
 
-This dwarven version of the more famous *[[rangoric-srd/magic-items/rods/Rod of Lordly Might|rod of lordly might]]* has no spell-like powers; however, when wielded by a dwarf, it increases all AC, attack roll, CMD, CMB, and saving throw bonuses from a [[rangoric-srd/races/Dwarf|dwarf]]'s racial traits by +1. The rod shares the mundane powers of a *[[rangoric-srd/magic-items/rods/Rod of Lordly Might|rod of lordly might]]*, but its magical weapon forms are tailored to dwarven preferences.
+This dwarven version of the more famous _[[rangoric-srd/magic-items/rods/Rod of Lordly Might|rod of lordly might]]_ has no spell-like powers; however, when wielded by a dwarf, it increases all AC, attack roll, CMD, CMB, and saving throw bonuses from a [[rangoric-srd/races/Dwarf|dwarf]]'s racial traits by +1. The rod shares the mundane powers of a _[[rangoric-srd/magic-items/rods/Rod of Lordly Might|rod of lordly might]]_, but its magical weapon forms are tailored to dwarven preferences.
 
-- In its normal form, the rod can be used as a *+1 returning light hammer*.
-- When button 1 is pushed, the rod becomes a *+3 [[rangoric-srd/equipment/weapons/Dwarven Longhammer|dwarven longhammer]]*.
-- When button 2 is pushed, the rod becomes a *+4 dwarven waraxe*.
-- When button 3 is pushed, the rod becomes a *+2 light crossbow* or *+2 heavy crossbow*.
+- In its normal form, the rod can be used as a _+1 returning light hammer_.
+- When button 1 is pushed, the rod becomes a _+3 [[rangoric-srd/equipment/weapons/Dwarven Longhammer|dwarven longhammer]]_.
+- When button 2 is pushed, the rod becomes a _+4 dwarven waraxe_.
+- When button 3 is pushed, the rod becomes a _+2 light crossbow_ or _+2 heavy crossbow_.
 
-Strong transmutation; CL 19th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Craft Rod|Craft Rod]], *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*, *[[rangoric-srd/spells/Telekinesis|telekinesis]]*, creator must be a dwarf; Price 80,000 gp; Cost 40,000 gp.
+Strong transmutation; CL 19th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Craft Rod|Craft Rod]], _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Telekinesis|telekinesis]]_, creator must be a dwarf; Price 80,000 gp; Cost 40,000 gp.

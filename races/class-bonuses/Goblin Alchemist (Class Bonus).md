@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Goblin Alchemist
 
-*A [[rangoric-srd/races/Goblin|goblin]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Alchemist#^alchemist-class-bonuses|alchemist]] level.*
+_A [[rangoric-srd/races/Goblin|goblin]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Alchemist#^alchemist-class-bonuses|alchemist]] level._
 
 The alchemist gains [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy|fire resistance]] 1. For each alchemist level after the first, increase fire resistance by +1. This fire resistance does not stack with fire resistance gained from other sources.

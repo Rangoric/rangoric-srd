@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Improved Psicrystal
 
-You can upgrade your psicrystal.  
+You can upgrade your psicrystal.
 
 Prerequisites: [[rangoric-srd/feats/Psicrystal Affinity|Psicrystal Affinity]].
 

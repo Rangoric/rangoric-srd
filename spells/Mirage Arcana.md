@@ -25,12 +25,12 @@ tags: [rangoric, rangoric/spell]
 
 # Mirage Arcana
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Brd 5, Mes 5, Psy 5, Skd 5, Sor/Wiz 5
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Area**: One 20-ft. cube/level (S)
-  - **Duration**: Concentration +1 hour/ level (D)
+- **Level**: Brd 5, Mes 5, Psy 5, Skd 5, Sor/Wiz 5
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Area**: One 20-ft. cube/level (S)
+- **Duration**: Concentration +1 hour/ level (D)
 
 This spell functions like [[rangoric-srd/spells/Hallucinatory Terrain|hallucinatory terrain]], except that it enables you to make any area appear to be something other than it is. The illusion includes audible, visual, tactile, and olfactory elements. Unlike hallucinatory terrain, the spell can alter the appearance of structures (or add them where none are present). Still, it can’t disguise, conceal, or add creatures (though creatures within the area might hide themselves within the illusion just as they can hide themselves within a real location).

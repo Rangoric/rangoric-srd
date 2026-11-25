@@ -24,6 +24,6 @@ Metacreativity (Creation)
 **Manifesting Time:** 10 minutes  
 **Range:** Close (25 ft. + 5 ft./2 levels)  
 **Duration:** See spell text  
-**Power Points:** 9  
+**Power Points:** 9
 
 As the [[rangoric-srd/spells/Major Creation|major creation]] spell, except as noted here.

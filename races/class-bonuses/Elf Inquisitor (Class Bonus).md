@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Elf Inquisitor
 
-*An [[rangoric-srd/races/Elf|elf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-class-bonuses|inquisitor]] level.*
+_An [[rangoric-srd/races/Elf|elf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-class-bonuses|inquisitor]] level._
 
 Add one [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-spells|spell known]] from the inquisitor's spell list. This spell must be at least one level below the highest-level spell the inquisitor can cast.

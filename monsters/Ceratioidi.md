@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ceratioidi
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Aquatic)
-  - **Hit Dice**: 4d10+8 (30 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares), swim 50 ft.
-  - **Armor Class**: 15 (+5 natural), touch 10, flat-footed 15
-  - **Base Attack**: +4; **CMB**: +7; **CMD**: 17
-  - **Attack**: [[rangoric-srd/equipment/weapons/Shortspear|Shortspears]] +8 melee (1d6+3) or slam +7 melee (1d4+3) or [[rangoric-srd/equipment/weapons/Shortspear|shortspears]] +5 ranged (1d6+3)
-  - **Full Attack**: 2 [[rangoric-srd/equipment/weapons/Shortspear|shortspears]] +8 melee (1d6+3); or 2 slams +7 melee (1d4+3); or 2 [[rangoric-srd/equipment/weapons/Shortspear|shortspears]] +5 ranged (1d6+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Lure|Lure]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Dual Mind|dual mind]], [[rangoric-srd/monsters/abilities/Primitive Amphibian|primitive amphibian]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-  - **Saves**: Fort +3, Ref +4, Will +6
-  - **Abilities**: Str 17, Dex 10, Con 15, Int 15, Wis 14, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +7
-  - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (lure), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (shortspear)
-  - **Environment**: Any saltwater
-  - **Organization**: Solitary, mated individual, or clan (3–20)
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Aquatic)
+- **Hit Dice**: 4d10+8 (30 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares), swim 50 ft.
+- **Armor Class**: 15 (+5 natural), touch 10, flat-footed 15
+- **Base Attack**: +4; **CMB**: +7; **CMD**: 17
+- **Attack**: [[rangoric-srd/equipment/weapons/Shortspear|Shortspears]] +8 melee (1d6+3) or slam +7 melee (1d4+3) or [[rangoric-srd/equipment/weapons/Shortspear|shortspears]] +5 ranged (1d6+3)
+- **Full Attack**: 2 [[rangoric-srd/equipment/weapons/Shortspear|shortspears]] +8 melee (1d6+3); or 2 slams +7 melee (1d4+3); or 2 [[rangoric-srd/equipment/weapons/Shortspear|shortspears]] +5 ranged (1d6+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Lure|Lure]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Dual Mind|dual mind]], [[rangoric-srd/monsters/abilities/Primitive Amphibian|primitive amphibian]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
+- **Saves**: Fort +3, Ref +4, Will +6
+- **Abilities**: Str 17, Dex 10, Con 15, Int 15, Wis 14, Cha 12
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +7
+- **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (lure), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (shortspear)
+- **Environment**: Any saltwater
+- **Organization**: Solitary, mated individual, or clan (3–20)
+- **Challenge Rating**: 3
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Rulers of deep ocean trenches, ceratioidi share several unusual traits with the aquatic predators of the ceratiidae family, also known as angler fish. From their strange, spired cities beneath the waves, ceratioidi cast their nets of influence far and wide.
 

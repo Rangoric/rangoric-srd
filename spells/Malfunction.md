@@ -25,15 +25,15 @@ tags: [rangoric, rangoric/spell]
 
 # Malfunction
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Occ 4, Sor/Wiz 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Area**: One construct
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Occ 4, Sor/Wiz 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Area**: One construct
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
-This functions as *[[rangoric-srd/spells/Confusion|confusion]]*, except it only affects constructs, and instead of babbling incoherently, the construct takes no actions on its turn (but may still make attacks of opportunity).
+This functions as _[[rangoric-srd/spells/Confusion|confusion]]_, except it only affects constructs, and instead of babbling incoherently, the construct takes no actions on its turn (but may still make attacks of opportunity).

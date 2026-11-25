@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Svathurim
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Cold)
-  - **Hit Dice**: 14d10+70 (147 hp)
-  - **Initiative**: +3
-  - **Speed**: 50 ft. (10 squares)
-  - **Armor Class**: 26 (+4 armor, +3 Dex, +10 natural, +1 shield, –2 size), touch 11, flat-footed 23
-  - **Base Attack**: +14; **CMB**: +25 (+27 bull rush, +29 overrun); **CMD**: 38 (40 vs. bull rush, 40 vs. overrun, 50 vs. trip)
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Lance|lance]] +22 melee (3d6+13/×3) or gore +26 melee (2d6+9) or hoof +21 melee (1d8+4) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +16 ranged (3d6+9/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Lance|lance]] +22/+17/+12 melee (3d6+13/×3) and gore +21 melee (2d6+9) and 2 hooves +16 melee (1d8+4); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +16/+11/+6 ranged (3d6+9/×3)
-  - **Space/Reach**: 15 ft./10 ft. (20 ft. with lance)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Natural Jouster|Natural jouster]], [[rangoric-srd/monsters/abilities/Thunderous Trample|thunderous trample]], [[rangoric-srd/monsters/abilities/Trample|trample]] (1d8+13, DC 26)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Skyrunner|skyrunner]], [[rangoric-srd/monsters/abilities/Undersized Weapons|undersized weapons]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, vulnerable to fire
-  - **Saves**: Fort +11, Ref +12, Will +11
-  - **Abilities**: Str 29, Dex 17, Con 20, Int 10, Wis 14, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +20 (+28 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +25, [[rangoric-srd/skills/Perception|Perception]] +19
-  - **Feats**: [[rangoric-srd/feats/Charge Through|Charge Through]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Greater Overrun|Greater Overrun]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Cold hills, mountains, or plains
-  - **Organization**: Solitary, pair, war band (3–6), or clan (1–4 svathurim plus 2–12 frost giants)
-  - **Challenge Rating**: 11
-  - **Treasure**: Standard (mwk chain shirt, mwk light steel shield, mwk composite longbow with 40 arrows, mwk lance, other treasure)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Cold)
+- **Hit Dice**: 14d10+70 (147 hp)
+- **Initiative**: +3
+- **Speed**: 50 ft. (10 squares)
+- **Armor Class**: 26 (+4 armor, +3 Dex, +10 natural, +1 shield, –2 size), touch 11, flat-footed 23
+- **Base Attack**: +14; **CMB**: +25 (+27 bull rush, +29 overrun); **CMD**: 38 (40 vs. bull rush, 40 vs. overrun, 50 vs. trip)
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Lance|lance]] +22 melee (3d6+13/×3) or gore +26 melee (2d6+9) or hoof +21 melee (1d8+4) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +16 ranged (3d6+9/×3)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Lance|lance]] +22/+17/+12 melee (3d6+13/×3) and gore +21 melee (2d6+9) and 2 hooves +16 melee (1d8+4); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +16/+11/+6 ranged (3d6+9/×3)
+- **Space/Reach**: 15 ft./10 ft. (20 ft. with lance)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Natural Jouster|Natural jouster]], [[rangoric-srd/monsters/abilities/Thunderous Trample|thunderous trample]], [[rangoric-srd/monsters/abilities/Trample|trample]] (1d8+13, DC 26)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Skyrunner|skyrunner]], [[rangoric-srd/monsters/abilities/Undersized Weapons|undersized weapons]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, vulnerable to fire
+- **Saves**: Fort +11, Ref +12, Will +11
+- **Abilities**: Str 29, Dex 17, Con 20, Int 10, Wis 14, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +20 (+28 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +25, [[rangoric-srd/skills/Perception|Perception]] +19
+- **Feats**: [[rangoric-srd/feats/Charge Through|Charge Through]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Greater Overrun|Greater Overrun]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Cold hills, mountains, or plains
+- **Organization**: Solitary, pair, war band (3–6), or clan (1–4 svathurim plus 2–12 frost giants)
+- **Challenge Rating**: 11
+- **Treasure**: Standard (mwk chain shirt, mwk light steel shield, mwk composite longbow with 40 arrows, mwk lance, other treasure)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Svathurims and frost giants consider each other allies and distant kin. The hindquarters of an adult svathurim are up to 10 feet tall and 16 feet long, while its giant trunk and head reach up to 18 feet in height. They typically weigh more than 5 tons and may live up to 500 years. Svathurims dwell in arctic regions, galloping along the shores of polar seas or between high mountain peaks, with individuals organized into clans headed by the strongest hunters.
 

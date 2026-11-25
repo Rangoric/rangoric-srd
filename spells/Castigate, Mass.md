@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Castigate, Mass
 
-*Enchantment (Compulsion) \[Emotion, Fear, Language-dependent, Mind-affecting\]*
+_Enchantment (Compulsion) \[Emotion, Fear, Language-dependent, Mind-affecting\]_
 
-  - **Level**: Inq 5, Mes 5
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Targets**: One creature/level, no two of which can be more than 30 ft. apart
-  - **Duration**: 1 round/level or 1 round; see text
-  - **Saving Throw**: Will partial
-  - **Spell Resistance**: Yes
+- **Level**: Inq 5, Mes 5
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Targets**: One creature/level, no two of which can be more than 30 ft. apart
+- **Duration**: 1 round/level or 1 round; see text
+- **Saving Throw**: Will partial
+- **Spell Resistance**: Yes
 
-This spell functions as *[[rangoric-srd/spells/Castigate|castigate]]*, except it affects many creatures.
+This spell functions as _[[rangoric-srd/spells/Castigate|castigate]]_, except it affects many creatures.

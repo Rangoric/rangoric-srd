@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Xtabay
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 1d8+4 (8 hp)
-  - **Initiative**: +1
-  - **Speed**: 5 ft. (1 square)
-  - **Armor Class**: 12 (+1 Dex, +1 size), touch 12, flat-footed 11
-  - **Base Attack**: +0; **CMB**: –2; **CMD**: 9 (can't be tripped)
-  - **Attack**: Sting +0 melee (1d3–1 plus 1d2 acid)
-  - **Full Attack**: 2 stings +0 melee (1d3–1 plus 1d2 acid)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Devour|Devour]], [[rangoric-srd/monsters/abilities/Soporific Pollen|soporific pollen]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-  - **Saves**: Fort +6, Ref +1, Will +1
-  - **Abilities**: Str 8, Dex 13, Con 19, Int —, Wis 12, Cha 11
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Any land
-  - **Organization**: Solitary, pair, copse (3–5), or garden (6–12)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 1d8+4 (8 hp)
+- **Initiative**: +1
+- **Speed**: 5 ft. (1 square)
+- **Armor Class**: 12 (+1 Dex, +1 size), touch 12, flat-footed 11
+- **Base Attack**: +0; **CMB**: –2; **CMD**: 9 (can't be tripped)
+- **Attack**: Sting +0 melee (1d3–1 plus 1d2 acid)
+- **Full Attack**: 2 stings +0 melee (1d3–1 plus 1d2 acid)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Devour|Devour]], [[rangoric-srd/monsters/abilities/Soporific Pollen|soporific pollen]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
+- **Saves**: Fort +6, Ref +1, Will +1
+- **Abilities**: Str 8, Dex 13, Con 19, Int —, Wis 12, Cha 11
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Any land
+- **Organization**: Solitary, pair, copse (3–5), or garden (6–12)
+- **Challenge Rating**: 1/2
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Known for their potent—and ultimately deadly—scent, xtabays are a floral hazard to the unwary. As fast-spreading as ivy, a xtabay's vines are sturdy and adaptive, making the plant a potential threat nearly everywhere—from gardens to wells to forest groves.
 

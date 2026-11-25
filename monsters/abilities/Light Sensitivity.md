@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Light Sensitivity
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “light sensitivity”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “light sensitivity”, on the Special Qualities line.
 
 The creature is dazzled in bright light: see [[rangoric-srd/rules/Special Abilities and Conditions#Light Sensitivity|light sensitivity]].

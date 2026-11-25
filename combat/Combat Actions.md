@@ -50,33 +50,33 @@ Some full-round actions can be taken as standard actions, but only in situations
 
 **Table: Actions in Combat** ^table-actions-in-combat
 
-| Standard Action                                  | Attack of Opportunity (1) |
-| ------------------------------------------------ | ------------------------- |
-| Attack (melee)                                   | No                        |
-| Attack (ranged)                                  | Yes                       |
-| Attack (unarmed)                                 | Yes                       |
-| Activate a magic item other than a potion or oil | No                        |
-| Aid another                                      | Maybe (2)                 |
-| Cast a spell (1 standard action casting time)    | Yes                       |
-| Concentrate to maintain an active spell          | No                        |
-| Dismiss a spell                                  | No                        |
-| Draw a hidden weapon (see Sleight of Hand skill) | No                        |
-| Drink a potion or apply an oil                   | Yes                       |
-| Escape a grapple                                 | No                        |
-| Feint                                            | No                        |
-| Light a torch with a tindertwig                  | Yes                       |
-| Lower spell resistance                           | No                        |
+| Standard Action                                                                         | Attack of Opportunity (1) |
+| --------------------------------------------------------------------------------------- | ------------------------- |
+| Attack (melee)                                                                          | No                        |
+| Attack (ranged)                                                                         | Yes                       |
+| Attack (unarmed)                                                                        | Yes                       |
+| Activate a magic item other than a potion or oil                                        | No                        |
+| Aid another                                                                             | Maybe (2)                 |
+| Cast a spell (1 standard action casting time)                                           | Yes                       |
+| Concentrate to maintain an active spell                                                 | No                        |
+| Dismiss a spell                                                                         | No                        |
+| Draw a hidden weapon (see Sleight of Hand skill)                                        | No                        |
+| Drink a potion or apply an oil                                                          | Yes                       |
+| Escape a grapple                                                                        | No                        |
+| Feint                                                                                   | No                        |
+| Light a torch with a tindertwig                                                         | Yes                       |
+| Lower spell resistance                                                                  | No                        |
 | Make a dying friend stable (see [[rangoric-srd/actions/Stabilize (Action)\|Stabilize]]) | Yes                       |
-| Read a scroll                                    | Yes                       |
-| Ready (triggers a standard action)               | No                        |
-| Sunder an object (attack)                        | Maybe (3)                 |
-| Total defense                                    | No                        |
-| Channel energy                                   | No                        |
-| Turn or rebuke undead                            | No                        |
-| Use extraordinary ability                        | No                        |
-| Use skill that takes 1 action                    | Usually                   |
-| Use spell-like ability                           | Yes                       |
-| Use supernatural ability                         | No                        |
+| Read a scroll                                                                           | Yes                       |
+| Ready (triggers a standard action)                                                      | No                        |
+| Sunder an object (attack)                                                               | Maybe (3)                 |
+| Total defense                                                                           | No                        |
+| Channel energy                                                                          | No                        |
+| Turn or rebuke undead                                                                   | No                        |
+| Use extraordinary ability                                                               | No                        |
+| Use skill that takes 1 action                                                           | Usually                   |
+| Use spell-like ability                                                                  | Yes                       |
+| Use supernatural ability                                                                | No                        |
 
 | Move Action                            | Attack of Opportunity (1) |
 | -------------------------------------- | ------------------------- |
@@ -124,26 +124,26 @@ Some full-round actions can be taken as standard actions, but only in situations
 | Delay       | No                        |
 | 5-foot step | No                        |
 
-| Action Type Varies   | Attack of Opportunity (1) |
-| -------------------- | ------------------------- |
-| Perform a [[rangoric-srd/combat/Combat Maneuvers\|combat maneuver]] (7) | Yes |
-| Use feat (8)         | Varies                    |
+| Action Type Varies                                                      | Attack of Opportunity (1) |
+| ----------------------------------------------------------------------- | ------------------------- |
+| Perform a [[rangoric-srd/combat/Combat Maneuvers\|combat maneuver]] (7) | Yes                       |
+| Use feat (8)                                                            | Varies                    |
 
-1 *Regardless of the action, if you move out of a threatened square, you usually provoke an attack of opportunity. This column indicates whether the action itself, not moving, provokes an attack of opportunity.*
+1 _Regardless of the action, if you move out of a threatened square, you usually provoke an attack of opportunity. This column indicates whether the action itself, not moving, provokes an attack of opportunity._
 
-2 *If you aid someone performing an action that would normally provoke an attack of opportunity, then the act of aiding another provokes an attack of opportunity as well.*
+2 _If you aid someone performing an action that would normally provoke an attack of opportunity, then the act of aiding another provokes an attack of opportunity as well._
 
-3 *If the object is being held, carried, or worn by a creature, yes. If not, no.*
+3 _If the object is being held, carried, or worn by a creature, yes. If not, no._
 
-4 *If you have a base attack bonus of +1 or higher, you can combine one of these actions with a regular move. If you have the Two- Weapon Fighting feat, you can draw two light or one-handed weapons in the time it would normally take you to draw one.*
+4 _If you have a base attack bonus of +1 or higher, you can combine one of these actions with a regular move. If you have the Two- Weapon Fighting feat, you can draw two light or one-handed weapons in the time it would normally take you to draw one._
 
-5 *May be taken as a standard action if you are limited to taking only a single action in a round.*
+5 _May be taken as a standard action if you are limited to taking only a single action in a round._
 
-6 *Unless the component is an extremely large or awkward item.*
+6 _Unless the component is an extremely large or awkward item._
 
-7 *Some combat maneuvers substitute for a melee attack, not an action. As melee attacks, they can be used once in an attack or charge action, one or more times in a full attack action, or even as an attack of opportunity. Others are used as a separate action.*
+7 _Some combat maneuvers substitute for a melee attack, not an action. As melee attacks, they can be used once in an attack or charge action, one or more times in a full attack action, or even as an attack of opportunity. Others are used as a separate action._
 
-8 *The description of a feat defines its effect.*
+8 _The description of a feat defines its effect._
 
 ##### Standard Actions
 
@@ -155,15 +155,15 @@ Making an attack is a standard action.
 
 **Unarmed Attacks**: Striking for damage with punches, kicks, and head butts is much like attacking with a melee weapon, except for the following: ^unarmed-attacks
 
-*Attacks of Opportunity*: Attacking unarmed provokes an attack of opportunity from the character you attack, provided she is armed. The attack of opportunity comes before your attack. An unarmed attack does not provoke attacks of opportunity from other foes nor does it provoke an attack of opportunity from an unarmed foe. ^unarmed-attacks-and-attacks-of-opportunity
+_Attacks of Opportunity_: Attacking unarmed provokes an attack of opportunity from the character you attack, provided she is armed. The attack of opportunity comes before your attack. An unarmed attack does not provoke attacks of opportunity from other foes nor does it provoke an attack of opportunity from an unarmed foe. ^unarmed-attacks-and-attacks-of-opportunity
 
 An unarmed character can’t take attacks of opportunity (but see “Armed” Unarmed Attacks, below).
 
-*“Armed” Unarmed Attacks*: Sometimes a character’s or creature’s unarmed attack counts as an armed attack. A monk, a character with the Improved Unarmed Strike feat, a spellcaster delivering a touch attack spell, and a creature with natural physical weapons all count as being armed. Note that being armed counts for both offense and defense (the character can make attacks of opportunity)
+_“Armed” Unarmed Attacks_: Sometimes a character’s or creature’s unarmed attack counts as an armed attack. A monk, a character with the Improved Unarmed Strike feat, a spellcaster delivering a touch attack spell, and a creature with natural physical weapons all count as being armed. Note that being armed counts for both offense and defense (the character can make attacks of opportunity)
 
-*Unarmed Strike Damage*: An unarmed strike from a Medium character deals 1d3 points of damage (plus your Strength modifier, as normal). A Small character’s unarmed strike deals 1d2 points of damage, while a Large character’s unarmed strike deals 1d4 points of damage. All damage from unarmed strikes is nonlethal damage. Unarmed strikes count as light weapons (for purposes of two-weapon attack penalties and so on). ^unarmed-strike-damage
+_Unarmed Strike Damage_: An unarmed strike from a Medium character deals 1d3 points of damage (plus your Strength modifier, as normal). A Small character’s unarmed strike deals 1d2 points of damage, while a Large character’s unarmed strike deals 1d4 points of damage. All damage from unarmed strikes is nonlethal damage. Unarmed strikes count as light weapons (for purposes of two-weapon attack penalties and so on). ^unarmed-strike-damage
 
-*Dealing Lethal Damage*: You can specify that your unarmed strike will deal lethal damage before you make your attack roll, but you take a –4 penalty on your attack roll. If you have the Improved Unarmed Strike feat, you can deal lethal damage with an unarmed strike without taking a penalty on the attack roll. ^dealing-lethal-damage
+_Dealing Lethal Damage_: You can specify that your unarmed strike will deal lethal damage before you make your attack roll, but you take a –4 penalty on your attack roll. If you have the Improved Unarmed Strike feat, you can deal lethal damage with an unarmed strike without taking a penalty on the attack roll. ^dealing-lethal-damage
 
 **Ranged Attacks**: With a ranged weapon, you can shoot or throw at any target that is within the weapon’s maximum range and in line of sight. The maximum range for a thrown weapon is five range increments. For projectile weapons, it is ten range increments. Some ranged weapons have shorter maximum ranges, as specified in their descriptions. ^ranged-attacks
 
@@ -181,7 +181,7 @@ Your attack roll is 1d20 + your attack bonus with the weapon you’re using. If 
 
 If your target (or the part of your target you’re aiming at, if it’s a big target) is at least 10 feet away from the nearest friendly character, you can avoid the –4 penalty, even if the creature you’re aiming at is engaged in melee with a friendly character.
 
-*Precise Shot*: If you have the Precise Shot feat you don’t take this penalty. ^precise-shot
+_Precise Shot_: If you have the Precise Shot feat you don’t take this penalty. ^precise-shot
 
 **Fighting Defensively as a Standard Action**: You can choose to fight defensively when attacking. If you do so, you take a –4 penalty on all attacks in a round to gain a +2 dodge bonus to AC for the same round. ^fighting-defensively-as-a-standard-action
 
@@ -189,19 +189,19 @@ If your target (or the part of your target you’re aiming at, if it’s a big t
 
 A critical hit means that you roll your damage more than once, with all your usual bonuses, and add the rolls together. Unless otherwise specified, the threat range for a critical hit on an attack roll is 20, and the multiplier is x2.
 
-*Exception*: Extra damage over and above a weapon’s normal damage is not multiplied when you score a critical hit. ^critical-hit-exception
+_Exception_: Extra damage over and above a weapon’s normal damage is not multiplied when you score a critical hit. ^critical-hit-exception
 
-*Increased Threat Range*: Sometimes your threat range is greater than 20. That is, you can score a threat on a lower number. In such cases, a roll of lower than 20 is not an automatic hit. Any attack roll that doesn’t result in a hit is not a threat. ^increased-threat-range
+_Increased Threat Range_: Sometimes your threat range is greater than 20. That is, you can score a threat on a lower number. In such cases, a roll of lower than 20 is not an automatic hit. Any attack roll that doesn’t result in a hit is not a threat. ^increased-threat-range
 
-*Increased Critical Multiplier*: Some weapons deal better than double damage on a critical hit. ^increased-critical-multiplier
+_Increased Critical Multiplier_: Some weapons deal better than double damage on a critical hit. ^increased-critical-multiplier
 
-*Spells and Critical Hits*: A spell that requires an attack roll can score a critical hit. A spell attack that requires no attack roll cannot score a critical hit. ^spells-and-critical-hits
+_Spells and Critical Hits_: A spell that requires an attack roll can score a critical hit. A spell attack that requires no attack roll cannot score a critical hit. ^spells-and-critical-hits
 
 ###### Cast a Spell
 
 Most spells require 1 standard action to cast. You can cast such a spell either before or after you take a move action.
 
-*Note*: You retain your Dexterity bonus to AC while casting.
+_Note_: You retain your Dexterity bonus to AC while casting.
 
 **Spell Components**: To cast a spell with a verbal (V) component, your character must speak in a firm voice. If you’re gagged or in the area of a silence spell, you can’t cast such a spell. A spellcaster who has been deafened has a 20% chance to spoil any spell he tries to cast if that spell has a verbal component. ^spell-components
 
@@ -225,11 +225,11 @@ Some spells have an experience point (XP) component and entail an experience poi
 
 **Touch Spells in Combat**: Many spells have a range of touch. To use these spells, you cast the spell and then touch the subject, either in the same round or any time later. In the same round that you cast the spell, you may also touch (or attempt to touch) the target. You may take your move before casting the spell, after touching the target, or between casting the spell and touching the target. You can automatically touch one friend or use the spell on yourself, but to touch an opponent, you must succeed on an attack roll. ^touch-spells-in-combat
 
-*Touch Attacks*: Touching an opponent with a touch spell is considered to be an armed attack and therefore does not provoke attacks of opportunity. However, the act of casting a spell does provoke an attack of opportunity. Touch attacks come in two types: melee touch attacks and ranged touch attacks. You can score critical hits with either type of attack. Your opponent’s AC against a touch attack does not include any armor bonus, shield bonus, or natural armor bonus. His size modifier, Dexterity modifier, and deflection bonus (if any) all apply normally. ^touch-attacks
+_Touch Attacks_: Touching an opponent with a touch spell is considered to be an armed attack and therefore does not provoke attacks of opportunity. However, the act of casting a spell does provoke an attack of opportunity. Touch attacks come in two types: melee touch attacks and ranged touch attacks. You can score critical hits with either type of attack. Your opponent’s AC against a touch attack does not include any armor bonus, shield bonus, or natural armor bonus. His size modifier, Dexterity modifier, and deflection bonus (if any) all apply normally. ^touch-attacks
 
-*Holding the Charge*: If you don’t discharge the spell in the round when you cast the spell, you can hold the discharge of the spell (hold the charge) indefinitely. You can continue to make touch attacks round after round. You can touch one friend as a standard action or up to six friends as a full-round action. If you touch anything or anyone while holding a charge, even unintentionally, the spell discharges. If you cast another spell, the touch spell dissipates. Alternatively, you may make a normal unarmed attack (or an attack with a natural weapon) while holding a charge. In this case, you aren’t considered armed and you provoke attacks of opportunity as normal for the attack. (If your unarmed attack or natural weapon attack doesn’t provoke attacks of opportunity, neither does this attack.) If the attack hits, you deal normal damage for your unarmed attack or natural weapon and the spell discharges. If the attack misses, you are still holding the charge. ^holding-the-charge
+_Holding the Charge_: If you don’t discharge the spell in the round when you cast the spell, you can hold the discharge of the spell (hold the charge) indefinitely. You can continue to make touch attacks round after round. You can touch one friend as a standard action or up to six friends as a full-round action. If you touch anything or anyone while holding a charge, even unintentionally, the spell discharges. If you cast another spell, the touch spell dissipates. Alternatively, you may make a normal unarmed attack (or an attack with a natural weapon) while holding a charge. In this case, you aren’t considered armed and you provoke attacks of opportunity as normal for the attack. (If your unarmed attack or natural weapon attack doesn’t provoke attacks of opportunity, neither does this attack.) If the attack hits, you deal normal damage for your unarmed attack or natural weapon and the spell discharges. If the attack misses, you are still holding the charge. ^holding-the-charge
 
-*Dismiss a Spell*: Dismissing an active spell is a standard action that doesn’t provoke attacks of opportunity. ^dismiss-a-spell
+_Dismiss a Spell_: Dismissing an active spell is a standard action that doesn’t provoke attacks of opportunity. ^dismiss-a-spell
 
 ###### Activate Magic Item
 
@@ -245,7 +245,7 @@ Using a special ability is usually a standard action, but whether it is a standa
 
 **Spell-Like Abilities**: Using a spell-like ability works like casting a spell in that it requires concentration and provokes attacks of opportunity. Spell-like abilities can be disrupted. If your concentration is broken, the attempt to use the ability fails, but the attempt counts as if you had used the ability. The casting time of a spell-like ability is 1 standard action, unless the ability description notes otherwise. ^using-spell-like-abilities
 
-*Using a Spell-Like Ability on the Defensive*: You may attempt to use a spell-like ability on the defensive, just as with casting a spell. If the [[rangoric-srd/rules/Concentration (Check)|Concentration check]] fails, you can’t use the ability, but the attempt counts as if you had used the ability. ^using-a-spell-like-ability-on-the-defensive
+_Using a Spell-Like Ability on the Defensive_: You may attempt to use a spell-like ability on the defensive, just as with casting a spell. If the [[rangoric-srd/rules/Concentration (Check)|Concentration check]] fails, you can’t use the ability, but the attempt counts as if you had used the ability. ^using-a-spell-like-ability-on-the-defensive
 
 **Supernatural Abilities**: Using a supernatural ability is usually a standard action (unless defined otherwise by the ability’s description). Its use cannot be disrupted, does not require concentration, and does not provoke attacks of opportunity.
 

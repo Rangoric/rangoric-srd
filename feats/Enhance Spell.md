@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, metamagic, epic]
 
 # Enhance Spell
 
-Prerequisite: [[rangoric-srd/feats/Maximize Spell|Maximize Spell]].  
+Prerequisite: [[rangoric-srd/feats/Maximize Spell|Maximize Spell]].
 
 Benefit: The damage cap for the character’s spells increases by 10 dice (for spells that deal a number of dice of damage equal to caster level) or by 5 dice (for spells that deal a number of dice of damage equal to half caster level). An enhanced spell uses up a spell slot four levels higher than the spell’s actual level. This feat has no effect on spells that don’t specifically deal a number of dice of damage equal to the caster’s level or half level, even if the spell’s effect is largely dictated by the caster’s level.
 

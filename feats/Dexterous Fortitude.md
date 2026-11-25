@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Dexterous Fortitude
 
-Prerequisites: Dex 25, slippery mind class feature.  
+Prerequisites: Dex 25, slippery mind class feature.
 
 Benefit: Once per round, when targeted by an effect that requires a Fortitude saving throw, the character may make a Reflex save instead to avoid the effect (evasion is not applicable).

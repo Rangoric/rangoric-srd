@@ -24,13 +24,13 @@ tags: [rangoric, rangoric/spell]
 
 # Divine Favor
 
-*Evocation*
+_Evocation_
 
-  - **Level**: Clr 1, Inq 1, Pal 1
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 minute
+- **Level**: Clr 1, Inq 1, Pal 1
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 minute
 
 Calling upon the strength and wisdom of a deity, you gain a +1 luck bonus on attack and weapon damage rolls for every three caster levels you have (at least +1, maximum +3). The bonus doesn’t apply to spell damage.

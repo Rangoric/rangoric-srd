@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Challenge Evil
 
-*Enchantment (Compulsion) \[Mind-affecting\]*
+_Enchantment (Compulsion) \[Mind-affecting\]_
 
-  - **Level**: Pal 1
-  - **Components**: V, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One evil creature
-  - **Duration**: 1 minute/level (D)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Pal 1
+- **Components**: V, DF
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One evil creature
+- **Duration**: 1 minute/level (D)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 You challenge an evil creature to bring the fight to you, or suffer the consequences. You gain a +2 sacred bonus on all melee attacks against the subject of the spell. At the end of its turn, if the target has not made at least one attack on you, it becomes sickened. If you move away from the target, the spell ends.

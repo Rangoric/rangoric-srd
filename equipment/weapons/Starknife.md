@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades, weapon-group/thrown
 
 # Starknife
 
-*Martial light melee weapon.* Cost 24 gp; Dmg 1d3 (S), 1d4 (M); Critical x3; Range Increment 20 ft.; Weight 3 lb.; Type Piercing. ^stats
+_Martial light melee weapon._ Cost 24 gp; Dmg 1d3 (S), 1d4 (M); Critical x3; Range Increment 20 ft.; Weight 3 lb.; Type Piercing. ^stats
 
 From a central metal ring, four tapering metal blades extend like points on a compass rose. You can stab with a starknife or throw it.

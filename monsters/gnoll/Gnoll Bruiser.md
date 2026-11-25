@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Gnoll Bruiser
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Gnoll)
-  - **Hit Dice**: 3d8+1d10+9 (27 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 14 (+2 Dex, +1 dodge, +1 natural), touch 13, flat-footed 11
-  - **Base Attack**: +2; **CMB**: +6; **CMD**: 19
-  - **Attack**: [[rangoric-srd/equipment/weapons/Greatclub|Greatclub]] +6 melee (1d10+6) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +4 ranged (1d6+4)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Greatclub|Greatclub]] +6 melee (1d10+6); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +4 ranged (1d6+4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]]
-  - **Saves**: Fort +7, Ref +4, Will +1
-  - **Abilities**: Str 19, Dex 14, Con 15, Int 6, Wis 12, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Perception|Perception]] +5
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Warm plains or desert
-  - **Organization**: Solitary, or with other gnolls (see [[rangoric-srd/monsters/gnoll/Gnoll|Gnoll]])
-  - **Challenge Rating**: 3
-  - **Treasure**: NPC gear (combat gear: potions of cure light wounds (2), alchemist's fire (2), tanglefoot bags (2); other gear: greatclub, javelins (5), daredevil boots)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Gnoll)
+- **Hit Dice**: 3d8+1d10+9 (27 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 14 (+2 Dex, +1 dodge, +1 natural), touch 13, flat-footed 11
+- **Base Attack**: +2; **CMB**: +6; **CMD**: 19
+- **Attack**: [[rangoric-srd/equipment/weapons/Greatclub|Greatclub]] +6 melee (1d10+6) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +4 ranged (1d6+4)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Greatclub|Greatclub]] +6 melee (1d10+6); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +4 ranged (1d6+4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]]
+- **Saves**: Fort +7, Ref +4, Will +1
+- **Abilities**: Str 19, Dex 14, Con 15, Int 6, Wis 12, Cha 8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Perception|Perception]] +5
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Warm plains or desert
+- **Organization**: Solitary, or with other gnolls (see [[rangoric-srd/monsters/gnoll/Gnoll|Gnoll]])
+- **Challenge Rating**: 3
+- **Treasure**: NPC gear (combat gear: potions of cure light wounds (2), alchemist's fire (2), tanglefoot bags (2); other gear: greatclub, javelins (5), daredevil boots)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A gnoll bruiser is a [[rangoric-srd/monsters/gnoll/Gnoll|gnoll]] with 1 level of [[rangoric-srd/classes/Fighter|fighter]] and 1 level of [[rangoric-srd/classes/Rogue|rogue]], one of the gnoll skirmishers. Employing a mix of cunning and brute force, skirmishers thrive in a pack hierarchy.
 

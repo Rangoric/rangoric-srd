@@ -28,7 +28,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Throatsprout Mist
 
-*Erlcana/Toxin; Special*
+_Erlcana/Toxin; Special_
 
 One of the few offensive herbal items, throatsprout mist is a powdered mixture of seeds and herbs in a blow-bottle like a powder. It affects a victim like a poison, even though visually it acts differently. It is blown into the face of an enemy and the effects begin at the start of the next round.
 

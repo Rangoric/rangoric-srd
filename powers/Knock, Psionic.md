@@ -31,6 +31,6 @@ Psychoportation
 **Duration:** Instantaneous; see spell text  
 **Saving Throw:** None  
 **Power Resistance:** No  
-**Power Points:** 3  
+**Power Points:** 3
 
 As the [[rangoric-srd/spells/Knock|knock]] spell, except as noted here.

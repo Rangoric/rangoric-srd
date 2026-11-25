@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Honor Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Glory Domain|Glory]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Glory Domain|Glory]] domain._
 
 ## Replacement Power
 
@@ -27,7 +27,7 @@ This power replaces the [[rangoric-srd/class-options/domains/Glory Domain#Grante
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 2nd | [[rangoric-srd/spells/Zone of Truth\|Zone of Truth]] | Subjects within range cannot lie. |
-| 6th | [[rangoric-srd/spells/Geas-Quest\|Geas-Quest]] | As lesser geas, but affects any creature. |
+| Level | Spell                                                | Brief Description                         |
+| ----- | ---------------------------------------------------- | ----------------------------------------- |
+| 2nd   | [[rangoric-srd/spells/Zone of Truth\|Zone of Truth]] | Subjects within range cannot lie.         |
+| 6th   | [[rangoric-srd/spells/Geas-Quest\|Geas-Quest]]       | As lesser geas, but affects any creature. |

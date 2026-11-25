@@ -29,6 +29,6 @@ Psychometabolism
 **Target:** You  
 **Duration:** 1 min./level or until discharged  
 **Saving Throw:** None and Fortitude negates; see text  
-**Power Points:** 7  
+**Power Points:** 7
 
-If you have a claw attack (either from an actual natural weapon or from an effect such as [[rangoric-srd/powers/Claws of the Beast|claws of the beast]]), you can use this power to produce a horrible poison that coats one of your claws. On your next successful melee attack with the claw during the power’s duration, the target is exposed to the [[rangoric-srd/rules/Afflictions#Poison|poison]]: injury; *save* Fort (the power’s save DC); *frequency* 1/minute for 2 minutes; *effect* 1d8 Con [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]].
+If you have a claw attack (either from an actual natural weapon or from an effect such as [[rangoric-srd/powers/Claws of the Beast|claws of the beast]]), you can use this power to produce a horrible poison that coats one of your claws. On your next successful melee attack with the claw during the power’s duration, the target is exposed to the [[rangoric-srd/rules/Afflictions#Poison|poison]]: injury; _save_ Fort (the power’s save DC); _frequency_ 1/minute for 2 minutes; _effect_ 1d8 Con [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]].

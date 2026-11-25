@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Eldritch Scrapper
 
-*A [[rangoric-srd/classes/Sorcerer#^sorcerer-archetypes|sorcerer]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Sorcerer#^sorcerer-archetypes|sorcerer]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 An eldritch scrapper is usually spoiling for a fight, looking to prove that she's just as tough as a martial character. A veteran of many brawls against opponents who were suspicious of her manifesting magic, an eldritch scrapper has a thick skin and a fighting style that blends weapons with spells.
 

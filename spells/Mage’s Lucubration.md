@@ -21,14 +21,14 @@ tags: [rangoric, rangoric/spell]
 
 # Mage’s Lucubration
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Wiz 6
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: Instantaneous
+- **Level**: Wiz 6
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: Instantaneous
 
 You instantly recall any one spell of 5th level or lower that you have used during the past 24 hours. The spell must have been actually cast during that period. The recalled spell is stored in your mind as through prepared in the normal fashion.
 

@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Worg
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 4d10+4 (26 hp)
-  - **Initiative**: +2
-  - **Speed**: 50 ft. (10 squares)
-  - **Armor Class**: 14 (+2 Dex, +2 natural), touch 12, flat-footed 12
-  - **Base Attack**: +4; **CMB**: +7; **CMD**: 19 (23 vs. trip)
-  - **Attack**: Bite +7 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Trip|trip]])
-  - **Full Attack**: Bite +7 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Trip|trip]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +5, Ref +6, Will +3
-  - **Abilities**: Str 17, Dex 15, Con 13, Int 6, Wis 14, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +9
-  - **Feats**: [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Temperate forests and plains
-  - **Organization**: Solitary, pair, or pack (3–11)
-  - **Challenge Rating**: 2
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: 5–6 HD (Medium); 7–12 HD (Large)
-  - **Level Adjustment**: +1 (cohort)
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 4d10+4 (26 hp)
+- **Initiative**: +2
+- **Speed**: 50 ft. (10 squares)
+- **Armor Class**: 14 (+2 Dex, +2 natural), touch 12, flat-footed 12
+- **Base Attack**: +4; **CMB**: +7; **CMD**: 19 (23 vs. trip)
+- **Attack**: Bite +7 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Trip|trip]])
+- **Full Attack**: Bite +7 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Trip|trip]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +5, Ref +6, Will +3
+- **Abilities**: Str 17, Dex 15, Con 13, Int 6, Wis 14, Cha 10
+- **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Feats**: [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Temperate forests and plains
+- **Organization**: Solitary, pair, or pack (3–11)
+- **Challenge Rating**: 2
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral evil
+- **Advancement**: 5–6 HD (Medium); 7–12 HD (Large)
+- **Level Adjustment**: +1 (cohort)
 
 Worgs are oversized, evil, intelligent wolves often found dwelling amid goblins or other savage races. A typical worg has gray or black fur, stands 3 feet tall at the shoulder, and weighs 300 pounds.
 

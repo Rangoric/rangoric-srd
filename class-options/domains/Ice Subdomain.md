@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Ice Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Water Domain|Water]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Water Domain|Water]] domain._
 
 ## Replacement Power
 
@@ -27,7 +27,7 @@ This power replaces the [[rangoric-srd/class-options/domains/Water Domain#Grante
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 7th | [[rangoric-srd/spells/Freezing Sphere\|Freezing Sphere]] (F) | Freezes water or deals cold damage. |
-| 9th | [[rangoric-srd/spells/Polar Ray\|Polar Ray]] (F) | Ranged touch attack deals 1d6/level cold damage. |
+| Level | Spell                                                        | Brief Description                                |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------ |
+| 7th   | [[rangoric-srd/spells/Freezing Sphere\|Freezing Sphere]] (F) | Freezes water or deals cold damage.              |
+| 9th   | [[rangoric-srd/spells/Polar Ray\|Polar Ray]] (F)             | Ranged touch attack deals 1d6/level cold damage. |

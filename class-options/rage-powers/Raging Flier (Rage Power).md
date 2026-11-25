@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Raging Flier
 
-*A [[rangoric-srd/class-options/rage-powers/Rage Powers|rage power]] (Su) of the [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|barbarian]] and the [[rangoric-srd/classes/Skald#^skald-rage-powers|skald]].*
+_A [[rangoric-srd/class-options/rage-powers/Rage Powers|rage power]] (Su) of the [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|barbarian]] and the [[rangoric-srd/classes/Skald#^skald-rage-powers|skald]]._
 
 Once per rage, the character can fly up to her base speed as a move action. If she uses the [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]] action, she can use this flight as part of her movement during the charge.
 

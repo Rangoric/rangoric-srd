@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Clockwork Spy
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]] (Clockwork)
-  - **Hit Dice**: 1d10 (5 hp)
-  - **Initiative**: +5
-  - **Speed**: 30 ft. (6 squares), fly 30 ft. (clumsy)
-  - **Armor Class**: 15 (+1 Dex, +2 dodge, +2 size), touch 15, flat-footed 12
-  - **Base Attack**: +1; **CMB**: +0; **CMD**: 12 (20 trip)
-  - **Attack**: Slam +3 melee (1d2)
-  - **Full Attack**: Slam +3 melee (1d2)
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Record Audio|Record audio]], [[rangoric-srd/monsters/abilities/Self-Destruct|self-destruct]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], swift reactions, winding, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], vulnerable to electricity
-  - **Saves**: Fort +0, Ref +3, Will +0
-  - **Abilities**: Str 10, Dex 13, Con —, Int —, Wis 11, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –3, [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +11
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 1/2
-  - **Treasure**: Incidental (gemstone worth 50 gp)
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]] (Clockwork)
+- **Hit Dice**: 1d10 (5 hp)
+- **Initiative**: +5
+- **Speed**: 30 ft. (6 squares), fly 30 ft. (clumsy)
+- **Armor Class**: 15 (+1 Dex, +2 dodge, +2 size), touch 15, flat-footed 12
+- **Base Attack**: +1; **CMB**: +0; **CMD**: 12 (20 trip)
+- **Attack**: Slam +3 melee (1d2)
+- **Full Attack**: Slam +3 melee (1d2)
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Record Audio|Record audio]], [[rangoric-srd/monsters/abilities/Self-Destruct|self-destruct]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], swift reactions, winding, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], vulnerable to electricity
+- **Saves**: Fort +0, Ref +3, Will +0
+- **Abilities**: Str 10, Dex 13, Con —, Int —, Wis 11, Cha 1
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –3, [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +11
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 1/2
+- **Treasure**: Incidental (gemstone worth 50 gp)
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 These spindly and discreet mechanical arachnids are ideal for surveillance and reconnaissance missions, and can be vital tools in political intrigues or illicit consortium tactics. Their retractable, insectile wings make the swift creatures even craftier foes than most would anticipate. As they are less combat-oriented than many other clockworks, if a clockwork spy is caught in the act of recording its target, escape is usually the most practical course of action for it.
 
@@ -75,4 +75,4 @@ Clockwork spies are about 2 feet wide from leg to leg, and weigh less than 40 po
 
 ### Construction
 
-CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Geas-Quest|geas/quest]]* and *[[rangoric-srd/spells/Ghost Sound|ghost sound]]*, creator must be at least caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 20; Price 1,250 gp; Cost 750 gp.
+CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_ and _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_, creator must be at least caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 20; Price 1,250 gp; Cost 750 gp.

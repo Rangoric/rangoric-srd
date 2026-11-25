@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Mother of Beasts
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 10d8+30 (78 hp)
-  - **Initiative**: +3
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 21 (+11 armor, +1 deflection, –1 Dex), touch 10, flat-footed 21
-  - **Base Attack**: +7; **CMB**: +10; **CMD**: 20
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Falchion|falchion]] +11 melee (2d4+5/18–20)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Falchion|falchion]] +11/+6 melee (2d4+5/18–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/class-options/domains/Madness Domain|Aura of madness]] (DC 19, 10 rounds/day), [[rangoric-srd/classes/Cleric#^cleric-channel-energy|channel negative energy]] 4/day (DC 16, 5d6), [[rangoric-srd/class-options/domains/Strength Domain|might of the gods]] (+10, 10 rounds/day), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Strength Domain|feat of strength]] (+10 Str, 1/day)
-  - **Special Qualities**: [[rangoric-srd/classes/Cleric#^cleric-aura|Aura]], [[rangoric-srd/class-options/domains/Madness Domain|insanity]] 5
-  - **Saves**: Fort +10, Ref +3, Will +9 (+2 vs. good opponents)
-  - **Abilities**: Str 16, Dex 8, Con 14, Int 10, Wis 18, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Medicine|Medicine]] +8, [[rangoric-srd/skills/Nature|Nature]] +1, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Theology|Theology]] +6
-  - **Feats**: [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]], [[rangoric-srd/feats/Augment Summoning|Augment Summoning]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 9
-  - **Treasure**: NPC gear (combat gear: potions of invisibility (2); other gear: +1 full plate, +1 falchion, cloak of resistance +1, headband of inspired wisdom +2, ring of protection +1, silver unholy symbol, 110 gp)
-  - **Alignment**: Chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 10d8+30 (78 hp)
+- **Initiative**: +3
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 21 (+11 armor, +1 deflection, –1 Dex), touch 10, flat-footed 21
+- **Base Attack**: +7; **CMB**: +10; **CMD**: 20
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Falchion|falchion]] +11 melee (2d4+5/18–20)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Falchion|falchion]] +11/+6 melee (2d4+5/18–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/class-options/domains/Madness Domain|Aura of madness]] (DC 19, 10 rounds/day), [[rangoric-srd/classes/Cleric#^cleric-channel-energy|channel negative energy]] 4/day (DC 16, 5d6), [[rangoric-srd/class-options/domains/Strength Domain|might of the gods]] (+10, 10 rounds/day), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Strength Domain|feat of strength]] (+10 Str, 1/day)
+- **Special Qualities**: [[rangoric-srd/classes/Cleric#^cleric-aura|Aura]], [[rangoric-srd/class-options/domains/Madness Domain|insanity]] 5
+- **Saves**: Fort +10, Ref +3, Will +9 (+2 vs. good opponents)
+- **Abilities**: Str 16, Dex 8, Con 14, Int 10, Wis 18, Cha 12
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Medicine|Medicine]] +8, [[rangoric-srd/skills/Nature|Nature]] +1, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Theology|Theology]] +6
+- **Feats**: [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]], [[rangoric-srd/feats/Augment Summoning|Augment Summoning]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 9
+- **Treasure**: NPC gear (combat gear: potions of invisibility (2); other gear: +1 full plate, +1 falchion, cloak of resistance +1, headband of inspired wisdom +2, ring of protection +1, silver unholy symbol, 110 gp)
+- **Alignment**: Chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A mother of beasts is a [[rangoric-srd/monsters/human/Human|human]] with 10 levels of [[rangoric-srd/classes/Cleric|cleric]]. The mother of beasts serves the goddess of madness and monsters. She looks after horrible creatures and summons extraplanar beings to defend herself and her pets.
 
@@ -77,4 +77,4 @@ A mother of beasts speaks Common.
 
 **Domain Spell-Like Abilities** (CL 10th; concentration +16): 7/day—[[rangoric-srd/class-options/domains/Strength Domain|strength surge]] (+5), [[rangoric-srd/class-options/domains/Madness Domain|vision of madness]] (+/–5).
 
-**Cleric spells prepared** (CL 10th; concentration +16): 5th—*[[rangoric-srd/spells/Flame Strike|flame strike]]* (DC 21), *[[rangoric-srd/spells/Righteous Might|righteous might]]* <sup>D</sup>, *[[rangoric-srd/spells/Summon Monster V|summon monster V]]*; 4th—*[[rangoric-srd/spells/Confusion|confusion]]* <sup>D</sup> (DC 20), *[[rangoric-srd/spells/Cure Critical Wounds|cure critical wounds]]*, *[[rangoric-srd/spells/Summon Monster IV|summon monster IV]]* (2), *[[rangoric-srd/spells/Unholy Blight|unholy blight]]* (DC 20); 3rd—*[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]*, *[[rangoric-srd/spells/Magic Circle against Good|magic circle against good]]*, *[[rangoric-srd/spells/Magic Vestment|magic vestment]]* <sup>D</sup>, *[[rangoric-srd/spells/Summon Monster III|summon monster III]]*, *[[rangoric-srd/spells/Water Breathing|water breathing]]*; 2nd—*[[rangoric-srd/spells/Bull’s Strength|bull's strength]]* <sup>D</sup>, *[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]*, *[[rangoric-srd/spells/Darkness|darkness]]*, *[[rangoric-srd/spells/Shield Other|shield other]]*, *[[rangoric-srd/spells/Silence|silence]]* (DC 18), *[[rangoric-srd/spells/Summon Monster II|summon monster II]]*; 1st—*[[rangoric-srd/spells/Bane|bane]]* (DC 17), *[[rangoric-srd/spells/Bless|bless]]*, *[[rangoric-srd/spells/Command|command]]* (DC 17), *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*, *[[rangoric-srd/spells/Divine Favor|divine favor]]*, *[[rangoric-srd/spells/Enlarge Person|enlarge person]]* <sup>D</sup> (DC 17); 0 (at will)—*[[rangoric-srd/spells/Create Water|create water]]*, *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Light|light]]*, *[[rangoric-srd/spells/Mending|mending]]*; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Madness Domain|Madness]], [[rangoric-srd/class-options/domains/Strength Domain|Strength]].
+**Cleric spells prepared** (CL 10th; concentration +16): 5th—_[[rangoric-srd/spells/Flame Strike|flame strike]]_ (DC 21), _[[rangoric-srd/spells/Righteous Might|righteous might]]_ <sup>D</sup>, _[[rangoric-srd/spells/Summon Monster V|summon monster V]]_; 4th—_[[rangoric-srd/spells/Confusion|confusion]]_ <sup>D</sup> (DC 20), _[[rangoric-srd/spells/Cure Critical Wounds|cure critical wounds]]_, _[[rangoric-srd/spells/Summon Monster IV|summon monster IV]]_ (2), _[[rangoric-srd/spells/Unholy Blight|unholy blight]]_ (DC 20); 3rd—_[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_, _[[rangoric-srd/spells/Magic Circle against Good|magic circle against good]]_, _[[rangoric-srd/spells/Magic Vestment|magic vestment]]_ <sup>D</sup>, _[[rangoric-srd/spells/Summon Monster III|summon monster III]]_, _[[rangoric-srd/spells/Water Breathing|water breathing]]_; 2nd—_[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_ <sup>D</sup>, _[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]_, _[[rangoric-srd/spells/Darkness|darkness]]_, _[[rangoric-srd/spells/Shield Other|shield other]]_, _[[rangoric-srd/spells/Silence|silence]]_ (DC 18), _[[rangoric-srd/spells/Summon Monster II|summon monster II]]_; 1st—_[[rangoric-srd/spells/Bane|bane]]_ (DC 17), _[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Command|command]]_ (DC 17), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Divine Favor|divine favor]]_, _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ <sup>D</sup> (DC 17); 0 (at will)—_[[rangoric-srd/spells/Create Water|create water]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Mending|mending]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Madness Domain|Madness]], [[rangoric-srd/class-options/domains/Strength Domain|Strength]].

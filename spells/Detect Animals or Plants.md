@@ -27,34 +27,34 @@ tags: [rangoric, rangoric/spell]
 
 # Detect Animals or Plants
 
-*Divination*
+_Divination_
 
-  - **Level**: Drd 1, Hun 1, Psy 1, Rgr 1, Sha 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Area**: Cone-shaped emanation
-  - **Duration**: Concentration, up to 10 min./level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Drd 1, Hun 1, Psy 1, Rgr 1, Sha 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Area**: Cone-shaped emanation
+- **Duration**: Concentration, up to 10 min./level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You can detect a particular kind of animal or plant in a cone emanating out from you in whatever direction you face. You must think of a kind of animal or plant when using the spell, but you can change the animal or plant kind each round. The amount of information revealed depends on how long you search a particular area or focus on a specific kind of animal or plant.
 
-*1st Round*: Presence or absence of that kind of animal or plant in the area.
+_1st Round_: Presence or absence of that kind of animal or plant in the area.
 
-*2nd Round*: Number of individuals of the specified kind in the area, and the condition of the healthiest specimen.
+_2nd Round_: Number of individuals of the specified kind in the area, and the condition of the healthiest specimen.
 
-*3rd Round*: The condition (see below) and location of each individual present. If an animal or plant is outside your line of sight, then you discern its direction but not its exact location.
+_3rd Round_: The condition (see below) and location of each individual present. If an animal or plant is outside your line of sight, then you discern its direction but not its exact location.
 
-*Conditions*: For purposes of this spell, the categories of condition are as follows:
+_Conditions_: For purposes of this spell, the categories of condition are as follows:
 
-*Normal*: Has at least 90% of full normal hit points, free of disease.
+_Normal_: Has at least 90% of full normal hit points, free of disease.
 
-*Fair*: 30% to 90% of full normal hit points remaining.
+_Fair_: 30% to 90% of full normal hit points remaining.
 
-*Poor*: Less than 30% of full normal hit points remaining, afflicted with a disease, or suffering from a debilitating injury.
+_Poor_: Less than 30% of full normal hit points remaining, afflicted with a disease, or suffering from a debilitating injury.
 
-*Weak*: 0 or fewer hit points remaining, afflicted with a disease in the terminal stage, or crippled.
+_Weak_: 0 or fewer hit points remaining, afflicted with a disease in the terminal stage, or crippled.
 
 If a creature falls into more than one category, the spell indicates the weaker of the two.
 

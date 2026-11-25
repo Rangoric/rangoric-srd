@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Selkie
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Aquatic, Shapechanger)
-  - **Hit Dice**: 6d10+12 (45 hp)
-  - **Initiative**: +7
-  - **Speed**: 20 ft. (4 squares), swim 50 ft.
-  - **Armor Class**: 18 (+3 Dex, +5 natural), touch 13, flat-footed 15
-  - **Base Attack**: +6; **CMB**: +10; **CMD**: 23 (can't be tripped)
-  - **Attack**: Bite +10 melee (1d8+6) or claw +10 melee (1d6+4)
-  - **Full Attack**: Bite +10 melee (1d8+6) and 2 claws +10 melee (1d6+4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Powerful blows (bite), [[rangoric-srd/monsters/abilities/Shake|shake]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (any Small or Medium humanoid; alter self), [[rangoric-srd/monsters/abilities/Echo of Reason|echo of reason]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10
-  - **Saves**: Fort +4, Ref +8, Will +5
-  - **Abilities**: Str 18, Dex 17, Con 14, Int 13, Wis 10, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +21, [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Imitation|Imitation]] +8, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
-  - **Environment**: Cold oceans
-  - **Organization**: Solitary, pair, or pack (3–14)
-  - **Challenge Rating**: 5
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Aquatic, Shapechanger)
+- **Hit Dice**: 6d10+12 (45 hp)
+- **Initiative**: +7
+- **Speed**: 20 ft. (4 squares), swim 50 ft.
+- **Armor Class**: 18 (+3 Dex, +5 natural), touch 13, flat-footed 15
+- **Base Attack**: +6; **CMB**: +10; **CMD**: 23 (can't be tripped)
+- **Attack**: Bite +10 melee (1d8+6) or claw +10 melee (1d6+4)
+- **Full Attack**: Bite +10 melee (1d8+6) and 2 claws +10 melee (1d6+4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Powerful blows (bite), [[rangoric-srd/monsters/abilities/Shake|shake]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (any Small or Medium humanoid; alter self), [[rangoric-srd/monsters/abilities/Echo of Reason|echo of reason]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10
+- **Saves**: Fort +4, Ref +8, Will +5
+- **Abilities**: Str 18, Dex 17, Con 14, Int 13, Wis 10, Cha 19
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +21, [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Imitation|Imitation]] +8, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
+- **Environment**: Cold oceans
+- **Organization**: Solitary, pair, or pack (3–14)
+- **Challenge Rating**: 5
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Selkies are clever and brutal seal-like creatures. Although capable predators, selkies are best known for their shapechanging ability, which allows them to come ashore in the guise of land dwellers and even live among other races before luring their prey beneath the waves to drown. In its natural form, a selkie has webbed, clawed hands and a muscular trunk ending in broad flippers. A selkie's head is a blend of human and seal, with large eyes and a mouth full of curved teeth. Selkies grow to a length of 6-1/2 feet, but can weigh up to 300 pounds. Selkies typically live up to 75 years.
 

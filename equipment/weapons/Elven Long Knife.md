@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades, weapon-group/thrown
 
 # Elven Long Knife
 
-*Exotic light melee weapon.* Cost 40 gp; Dmg 1d3 (S), 1d4 (M); Critical 18-20/x2; Range Increment 10 ft.; Weight 2 lb.; Type Piercing or slashing. ^stats
+_Exotic light melee weapon._ Cost 40 gp; Dmg 1d3 (S), 1d4 (M); Critical 18-20/x2; Range Increment 10 ft.; Weight 2 lb.; Type Piercing or slashing. ^stats
 
 This long, thin knife is balanced for throwing despite the slight curve in its blade. Elven hunters and assassins favor it because of the versatility and small size it offers.

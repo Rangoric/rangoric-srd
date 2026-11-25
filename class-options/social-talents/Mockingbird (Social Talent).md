@@ -14,8 +14,8 @@ tags: [rangoric, rangoric/class-option]
 
 # Mockingbird
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-social-talent|social talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-social-talent|social talent]] (Ex)._
 
-The vigilante can mimic almost any sort of voice, or even animal calls and sound effects, and he can throw his voice at a distance. This functions similarly to a combination of the *[[rangoric-srd/spells/Ghost Sound|ghost sound]]*, *[[rangoric-srd/spells/Ventriloquism|ventriloquism]]*, and *[[rangoric-srd/spells/Vocal Alteration|vocal alteration]]* spells.
+The vigilante can mimic almost any sort of voice, or even animal calls and sound effects, and he can throw his voice at a distance. This functions similarly to a combination of the _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_, _[[rangoric-srd/spells/Ventriloquism|ventriloquism]]_, and _[[rangoric-srd/spells/Vocal Alteration|vocal alteration]]_ spells.
 
 A vigilante must be at least 5th level to choose this talent.

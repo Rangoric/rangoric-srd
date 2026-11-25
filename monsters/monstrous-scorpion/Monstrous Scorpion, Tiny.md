@@ -37,24 +37,24 @@ tags: [rangoric, rangoric/monster]
 
 # Monstrous Scorpion, Tiny
 
-  - Tiny Vermin
-  - **Hit Dice**: 1/2 d8+2 (4 hp)
-  - **Initiative**: +0
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 14 (+2 size, +2 natural), touch 12, flat-footed 14
-  - **Base Attack**: +0; **CMB**: –2 (+2 grapple); **CMD**: 4 (16 vs. trip)
-  - **Attack**: Claw +2 melee (1d2–4)
-  - **Full Attack**: 2 claws +2 melee (1d2–4) and sting –3 melee (1d2–4 plus poison)
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: Constrict 1d2–4, improved grab, poison
-  - **Special Qualities**: Darkvision 60 ft., tremorsense 60 ft., vermin traits
-  - **Saves**: Fort +4, Ref +0, Will +0
-  - **Abilities**: Str 3, Dex 10, Con 14, Int —, Wis 10, Cha 2
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +4, Perception +4, Stealth +12
-  - **Feats**: Weapon FinesseB
-  - **Environment**: Warm deserts
-  - **Organization**: Colony (8–16)
-  - **Challenge Rating**: 1/4
-  - **Alignment**: Always neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny Vermin
+- **Hit Dice**: 1/2 d8+2 (4 hp)
+- **Initiative**: +0
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 14 (+2 size, +2 natural), touch 12, flat-footed 14
+- **Base Attack**: +0; **CMB**: –2 (+2 grapple); **CMD**: 4 (16 vs. trip)
+- **Attack**: Claw +2 melee (1d2–4)
+- **Full Attack**: 2 claws +2 melee (1d2–4) and sting –3 melee (1d2–4 plus poison)
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: Constrict 1d2–4, improved grab, poison
+- **Special Qualities**: Darkvision 60 ft., tremorsense 60 ft., vermin traits
+- **Saves**: Fort +4, Ref +0, Will +0
+- **Abilities**: Str 3, Dex 10, Con 14, Int —, Wis 10, Cha 2
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +4, Perception +4, Stealth +12
+- **Feats**: Weapon FinesseB
+- **Environment**: Warm deserts
+- **Organization**: Colony (8–16)
+- **Challenge Rating**: 1/4
+- **Alignment**: Always neutral
+- **Advancement**: —
+- **Level Adjustment**: —

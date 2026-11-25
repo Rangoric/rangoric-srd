@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Fangward Liniment
 
-*Unguent; Special*
+_Unguent; Special_
 
 Fangward liniment, when rubbed on the skin, reduces or prevents tooth and claw damage from nonmagical beasts. It toughens normal skin and provides a natural armor bonus of +3 but only against natural living weapons (tooth, claw, antler, etc.). It also provides damage reduction 5 against those same natural weapons.
 

@@ -23,4 +23,4 @@ This 6-foot-long silver rod is capped with a copper ball at one end, and a multi
 
 Removing the rod from the ground and deactivating it requires the same type of action as anchoring it.
 
-Faint abjuration; CL 5th; [[rangoric-srd/feats/Craft Rod|Craft Rod]], *[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, *[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]*, *[[rangoric-srd/spells/Resist Energy|resist energy]]*; Price 12,000 gp; Cost 6,000 gp.
+Faint abjuration; CL 5th; [[rangoric-srd/feats/Craft Rod|Craft Rod]], _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_; Price 12,000 gp; Cost 6,000 gp.

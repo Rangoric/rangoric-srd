@@ -32,17 +32,17 @@ tags: [rangoric, rangoric/spell]
 
 # Second Sight
 
-*Divination*
+_Divination_
 
-  - **Level**: Brd 2, Clr 3, Drd 3, Fhn 3, Hun 3, Rgr 4, Skd 2, Sor/Wiz 2
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Area**: Cone
-  - **Duration**: 10 minutes/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Brd 2, Clr 3, Drd 3, Fhn 3, Hun 3, Rgr 4, Skd 2, Sor/Wiz 2
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Area**: Cone
+- **Duration**: 10 minutes/level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-As the *[[rangoric-srd/spells/See Invisibility|see invisibility]]* spell, you can see any creatures or objects that are invisible, the subject of a *[[rangoric-srd/spells/Fey Mask|fey mask]]* spell, or have stepped sideways out of the world nearby (such as with the *[[rangoric-srd/spells/Step Sideways|step sideways]]* spell or the fae-walker’s [[rangoric-srd/prestige-classes/Fae-walker#^fae-walker-step-sideways|step sideways]]).
+As the _[[rangoric-srd/spells/See Invisibility|see invisibility]]_ spell, you can see any creatures or objects that are invisible, the subject of a _[[rangoric-srd/spells/Fey Mask|fey mask]]_ spell, or have stepped sideways out of the world nearby (such as with the _[[rangoric-srd/spells/Step Sideways|step sideways]]_ spell or the fae-walker’s [[rangoric-srd/prestige-classes/Fae-walker#^fae-walker-step-sideways|step sideways]]).
 
-*Material Component*: A silver wire bent into the shape of a monocle (worth 5 sp.).
+_Material Component_: A silver wire bent into the shape of a monocle (worth 5 sp.).

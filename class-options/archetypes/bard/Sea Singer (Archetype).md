@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Sea Singer
 
-*A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 The sea singer calls the blue waters his home, and is much in demand among sea captains wishing good fortune for their crew and hull as they ply the tradewinds far and wide.
 
@@ -32,9 +32,9 @@ The sea singer calls the blue waters his home, and is much in demand among sea c
 
 **Still Water (Su)**: At 3rd level, a sea singer can use performance to calm rough waters within 30 feet, reducing the DC for [[rangoric-srd/skills/Profession|Profession (sailor)]] checks and [[rangoric-srd/skills/Athletics|Athletics]] checks to swim, as well as for [[rangoric-srd/skills/Acrobatics|Acrobatics]] checks and Athletics checks to climb aboard ship, by an amount equal to the bard's level (to a minimum of DC 10) for as long he continues to perform. He can extend this duration to 1 hour by playing for 10 consecutive rounds. This ability requires audible components. This performance replaces [[rangoric-srd/classes/Bard#^inspire-competence|inspire competence]].
 
-**Whistle the Wind (Su)**: A sea singer of 6th level or higher can use performance to create a *[[rangoric-srd/spells/Gust of Wind|gust of wind]]*. This wind lasts for as long as he continues his performance. He can extend this duration to 1 minute by playing for 5 consecutive rounds. This performance replaces [[rangoric-srd/classes/Bard#^bard-suggestion|suggestion]].
+**Whistle the Wind (Su)**: A sea singer of 6th level or higher can use performance to create a _[[rangoric-srd/spells/Gust of Wind|gust of wind]]_. This wind lasts for as long as he continues his performance. He can extend this duration to 1 minute by playing for 5 consecutive rounds. This performance replaces [[rangoric-srd/classes/Bard#^bard-suggestion|suggestion]].
 
-**Call the Storm (Su)**: At 18th level, a sea singer can use performance to duplicate *[[rangoric-srd/spells/Control Water|control water]]*, *[[rangoric-srd/spells/Control Weather|control weather]]*, *[[rangoric-srd/spells/Control Winds|control winds]]*, or *[[rangoric-srd/spells/Storm of Vengeance|storm of vengeance]]*, using his bard level as the caster level. Using this ability requires 1 round of continuous performance per level of the spell (as if he were a druid). These effects continue for as long as the bard continues performing (the effects of *[[rangoric-srd/spells/Control Weather|control weather]]* happen immediately), but not longer than the spell's normal duration. This performance replaces [[rangoric-srd/classes/Bard#^bard-mass-suggestion|mass suggestion]].
+**Call the Storm (Su)**: At 18th level, a sea singer can use performance to duplicate _[[rangoric-srd/spells/Control Water|control water]]_, _[[rangoric-srd/spells/Control Weather|control weather]]_, _[[rangoric-srd/spells/Control Winds|control winds]]_, or _[[rangoric-srd/spells/Storm of Vengeance|storm of vengeance]]_, using his bard level as the caster level. Using this ability requires 1 round of continuous performance per level of the spell (as if he were a druid). These effects continue for as long as the bard continues performing (the effects of _[[rangoric-srd/spells/Control Weather|control weather]]_ happen immediately), but not longer than the spell's normal duration. This performance replaces [[rangoric-srd/classes/Bard#^bard-mass-suggestion|mass suggestion]].
 
 **World Traveler (Ex)**: A sea singer gains a bonus equal to half his bard level on [[rangoric-srd/skills/Society|Society]], [[rangoric-srd/skills/Nature|Nature]], and [[rangoric-srd/skills/Linguistics|Linguistics]] checks. He can reroll a check against one of these skills, but must take the result of the second roll even if it is worse. He can reroll one additional time per day at 5th level and every five levels thereafter. This ability replaces [[rangoric-srd/classes/Bard#^bardic-knowledge|bardic knowledge]].
 

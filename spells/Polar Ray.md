@@ -26,17 +26,17 @@ tags: [rangoric, rangoric/spell]
 
 # Polar Ray
 
-*Evocation \[Cold\]*
+_Evocation \[Cold\]_
 
-  - **Level**: Sor/Wiz 8
-  - **Components**: V, S, F
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: Ray
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Sor/Wiz 8
+- **Components**: V, S, F
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: Ray
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 A blue-white ray of freezing air and ice springs from your hand. You must succeed on a ranged touch attack with the ray to deal damage to a target. The ray deals 1d6 points of cold damage per caster level (maximum 25d6).
 
-*Focus*: A small, white ceramic cone or prism.
+_Focus_: A small, white ceramic cone or prism.

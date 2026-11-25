@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Guard
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “guard”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “guard”, on the Special Qualities line.
 
 If so ordered, an abrakarn viper defends the wearer of the diadem. All attacks against the diadem's wearer take a –2 penalty when the wearer is within the viper's melee reach. The [[rangoric-srd/monsters/Abrakarn Viper|abrakarn viper]] has it.

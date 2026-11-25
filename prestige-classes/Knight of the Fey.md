@@ -51,18 +51,18 @@ The knight of the fey’s class skills (and the key ability for each skill) are 
 
 **Table: The Knight of the Fey** ^table-the-knight-of-the-fey
 
-| Level | Special |
-| --- | --- |
-| 1st | Blind-fight, Shining Beacon |
-| 2nd | Lucky hit 1/day |
-| 3rd | Luck of the Fey |
-| 4th | — |
-| 5th | Call Knight of the Fey |
-| 6th | Lucky hit 2/day |
-| 7th | Luck of the True Fey |
-| 8th | — |
-| 9th | Lucky hit 3/day |
-| 10th | Destined |
+| Level | Special                     |
+| ----- | --------------------------- |
+| 1st   | Blind-fight, Shining Beacon |
+| 2nd   | Lucky hit 1/day             |
+| 3rd   | Luck of the Fey             |
+| 4th   | —                           |
+| 5th   | Call Knight of the Fey      |
+| 6th   | Lucky hit 2/day             |
+| 7th   | Luck of the True Fey        |
+| 8th   | —                           |
+| 9th   | Lucky hit 3/day             |
+| 10th  | Destined                    |
 
 ###### Class Features
 

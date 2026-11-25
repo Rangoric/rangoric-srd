@@ -27,7 +27,7 @@ Psychometabolism
 **Range:** Personal  
 **Target:** You  
 **Duration:** Concentration  
-**Power Points:** 7  
+**Power Points:** 7
 
 You are almost impossible to move. Your weight does not vary; instead, you mentally attach yourself to the underlying fabric of the plane. Thus, you could conceivably anchor yourself in midair. Any creature attempting to physically move you must succeed on an opposed Strength check, and you gain a +20 bonus on the check. Against a [[rangoric-srd/combat/Combat Maneuvers|combat maneuver]] that would move you ([[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]], [[rangoric-srd/combat/Combat Maneuvers#Drag|drag]] or [[rangoric-srd/combat/Combat Maneuvers#Reposition|reposition]]), you gain a +20 bonus to your [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] instead. You can’t voluntarily move to a new location unless you stop concentrating, which ends the power.
 

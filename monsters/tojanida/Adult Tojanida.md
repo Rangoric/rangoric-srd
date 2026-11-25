@@ -41,25 +41,25 @@ tags: [rangoric, rangoric/monster]
 
 # Adult Tojanida
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^water|Water]])
-  - **Hit Dice**: 7d8+14 (45 hp)
-  - **Initiative**: +1
-  - **Speed**: 10 ft. (2 squares), swim 90 ft.
-  - **Armor Class**: 23 (+1 Dex, +12 natural), touch 11, flat-footed 22
-  - **Base Attack**: +7; **CMB**: +10 (+14 grapple); **CMD**: 22 (26 vs. trip)
-  - **Attack**: Bite +10 melee (2d8+3)
-  - **Full Attack**: Bite +10 melee (2d8+3) and 2 claws +5 melee (1d6+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], ink cloud
-  - **Special Qualities**: All-around vision, darkvision 60 ft., immunity to acid and cold, [[rangoric-srd/monsters/abilities/Resistance|resistance to electricity]] 10 and fire 10
-  - **Saves**: Fort +7, Ref +6, Will +6
-  - **Abilities**: Str 16, Dex 13, Con 15, Int 10, Wis 12, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13 (+21 swimming), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11 (+13 other planes and following tracks, +13 with bindings), [[rangoric-srd/skills/Investigation|Investigation]] +14, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] –1, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +11, [[rangoric-srd/skills/Theology|Theology]] +10
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Elemental Plane of Water
-  - **Organization**: Solitary or clutch (2–4)
-  - **Challenge Rating**: 5
-  - **Treasure**: Standard
-  - **Alignment**: Always neutral
-  - **Advancement**: 8–14 HD (Medium)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^water|Water]])
+- **Hit Dice**: 7d8+14 (45 hp)
+- **Initiative**: +1
+- **Speed**: 10 ft. (2 squares), swim 90 ft.
+- **Armor Class**: 23 (+1 Dex, +12 natural), touch 11, flat-footed 22
+- **Base Attack**: +7; **CMB**: +10 (+14 grapple); **CMD**: 22 (26 vs. trip)
+- **Attack**: Bite +10 melee (2d8+3)
+- **Full Attack**: Bite +10 melee (2d8+3) and 2 claws +5 melee (1d6+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], ink cloud
+- **Special Qualities**: All-around vision, darkvision 60 ft., immunity to acid and cold, [[rangoric-srd/monsters/abilities/Resistance|resistance to electricity]] 10 and fire 10
+- **Saves**: Fort +7, Ref +6, Will +6
+- **Abilities**: Str 16, Dex 13, Con 15, Int 10, Wis 12, Cha 9
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13 (+21 swimming), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11 (+13 other planes and following tracks, +13 with bindings), [[rangoric-srd/skills/Investigation|Investigation]] +14, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] –1, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +11, [[rangoric-srd/skills/Theology|Theology]] +10
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Elemental Plane of Water
+- **Organization**: Solitary or clutch (2–4)
+- **Challenge Rating**: 5
+- **Treasure**: Standard
+- **Alignment**: Always neutral
+- **Advancement**: 8–14 HD (Medium)
+- **Level Adjustment**: —

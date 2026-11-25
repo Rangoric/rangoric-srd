@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Halsora
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 10d8+30 (75 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 19 (+2 Dex, +6 natural, +1 size), touch 13, flat-footed 17
-  - **Base Attack**: +7; **CMB**: +10; **CMD**: 22
-  - **Attack**: Claw +13 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Spores (Halsora)|spores]])
-  - **Full Attack**: 2 claws +13 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Spores (Halsora)|spores]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Acidic Tears|Acidic tears]], sneak attack +2d6, [[rangoric-srd/monsters/abilities/Spores (Halsora)|spores]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning or slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and disease
-  - **Saves**: Fort +6, Ref +5, Will +9
-  - **Abilities**: Str 19, Dex 14, Con 17, Int 6, Wis 11, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +25
-  - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
-  - **Environment**: Any underground
-  - **Organization**: Solitary or gang (2–6)
-  - **Challenge Rating**: 7
-  - **Treasure**: None
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 10d8+30 (75 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 19 (+2 Dex, +6 natural, +1 size), touch 13, flat-footed 17
+- **Base Attack**: +7; **CMB**: +10; **CMD**: 22
+- **Attack**: Claw +13 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Spores (Halsora)|spores]])
+- **Full Attack**: 2 claws +13 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Spores (Halsora)|spores]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Acidic Tears|Acidic tears]], sneak attack +2d6, [[rangoric-srd/monsters/abilities/Spores (Halsora)|spores]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning or slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and disease
+- **Saves**: Fort +6, Ref +5, Will +9
+- **Abilities**: Str 19, Dex 14, Con 17, Int 6, Wis 11, Cha 8
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +25
+- **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
+- **Environment**: Any underground
+- **Organization**: Solitary or gang (2–6)
+- **Challenge Rating**: 7
+- **Treasure**: None
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Vegepygmies transformed by the vile fleshwarping process become halsoras, creatures twice cursed. The alchemical torture they undergo seems minor compared to what other fleshwarps suffer—it merely increases the mass and strength of the vegepygmy and deforms its eyes so they secrete acid. The process has a more interesting effect on the residual and previously inert russet mold within the body of the host vegepygmy. Mutating the mold, it creates a deadly spore that courses through the halsora's insides, is slowly excreted through the fingertips, and clumps on the claws of the creature.
 

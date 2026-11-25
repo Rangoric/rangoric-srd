@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Chainmail Corset
 
-*Light armor.* Cost 50 gp; Armor Bonus +1; Maximum Dex Bonus +6; Armor Check Penalty –1; Arcane Spell Failure 10%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 20 lb. ^stats
+_Light armor._ Cost 50 gp; Armor Bonus +1; Maximum Dex Bonus +6; Armor Check Penalty –1; Arcane Spell Failure 10%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 20 lb. ^stats
 
 Often used by bards, this armor is made of closely linked metal rings and covers the chest and abdomen.

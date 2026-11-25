@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Cleric's Vest
 
-*Light armor.* Cost 10 gp; Armor Bonus +1; Maximum Dex Bonus +8; Armor Check Penalty 0; Arcane Spell Failure 10%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 10 lb. ^stats
+_Light armor._ Cost 10 gp; Armor Bonus +1; Maximum Dex Bonus +8; Armor Check Penalty 0; Arcane Spell Failure 10%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 10 lb. ^stats
 
 Cleric’s vests are crafted from bark or leather, and are designed to fit easily under robes. While not the most effective form of protection, their light weight and flexibility provide a decent cover for clerics in the field or wandering the city streets. Many cleric’s vests have a holy symbol tooled into them, identifying the wearer’s religion.

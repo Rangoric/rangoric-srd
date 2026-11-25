@@ -18,12 +18,12 @@ tags: [rangoric, rangoric/class-option]
 
 # Telekinetic Globe
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Aether Element|aether]]
-  - **Type**: utility (Sp)
-  - **Level**: 8
-  - **Burn**: 0
-  - **Prerequisites**: [[rangoric-srd/class-options/wild-talents/Force Barrier|force barrier]], [[rangoric-srd/class-options/wild-talents/Force Ward|force ward]]
+- **Element**: [[rangoric-srd/class-options/elements/Aether Element|aether]]
+- **Type**: utility (Sp)
+- **Level**: 8
+- **Burn**: 0
+- **Prerequisites**: [[rangoric-srd/class-options/wild-talents/Force Barrier|force barrier]], [[rangoric-srd/class-options/wild-talents/Force Ward|force ward]]
 
-You can create a globe of force, as the *[[rangoric-srd/spells/Telekinetic Sphere|telekinetic sphere]]* spell, that lasts as long as you concentrate as a standard action, and you can move the globe as a move action. You can accept 1 point of [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]] to increase the duration to 1 minute per level and eliminate the need to concentrate to maintain the globe.
+You can create a globe of force, as the _[[rangoric-srd/spells/Telekinetic Sphere|telekinetic sphere]]_ spell, that lasts as long as you concentrate as a standard action, and you can move the globe as a move action. You can accept 1 point of [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]] to increase the duration to 1 minute per level and eliminate the need to concentrate to maintain the globe.

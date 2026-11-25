@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Visionary
 
-*A [[rangoric-srd/class-options/bloodlines/Bloodlines#Mutated Bloodlines|mutated bloodline]] of the [[rangoric-srd/class-options/bloodlines/Dreamspun Bloodline|dreamspun bloodline]], for a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] [[rangoric-srd/classes/Sorcerer|sorcerer]].*
+_A [[rangoric-srd/class-options/bloodlines/Bloodlines#Mutated Bloodlines|mutated bloodline]] of the [[rangoric-srd/class-options/bloodlines/Dreamspun Bloodline|dreamspun bloodline]], for a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] [[rangoric-srd/classes/Sorcerer|sorcerer]]._
 
 Your dream-magic strongly influences the waking world.
 
@@ -25,4 +25,4 @@ Your dream-magic strongly influences the waking world.
 
 **Bloodline Powers**: Your dreams hint at the future.
 
-**Visions (Sp)**: At 9th level, when you sleep, you can gain information through prophetic visions. Once per day when sleeping, you may gain information about actions taken in the next week as if you had cast a *[[rangoric-srd/spells/Divination|divination]]* spell. You can gain information about a single question at 9th level. At 17th level, you can have two questions answered while you sleep, and at 20th level, three questions. This bloodline power replaces [[rangoric-srd/class-options/bloodlines/Dreamspun Bloodline|dreamshaper]].
+**Visions (Sp)**: At 9th level, when you sleep, you can gain information through prophetic visions. Once per day when sleeping, you may gain information about actions taken in the next week as if you had cast a _[[rangoric-srd/spells/Divination|divination]]_ spell. You can gain information about a single question at 9th level. At 17th level, you can have two questions answered while you sleep, and at 20th level, three questions. This bloodline power replaces [[rangoric-srd/class-options/bloodlines/Dreamspun Bloodline|dreamshaper]].

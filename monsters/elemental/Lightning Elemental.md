@@ -13,18 +13,18 @@ tags: [rangoric, rangoric/monster]
 
 # Lightning Elemental
 
-  - [[rangoric-srd/monsters/elemental/Lightning Elemental, Small|Lightning Elemental, Small]]
-  - [[rangoric-srd/monsters/elemental/Lightning Elemental, Medium|Lightning Elemental, Medium]]
-  - [[rangoric-srd/monsters/elemental/Lightning Elemental, Large|Lightning Elemental, Large]]
-  - [[rangoric-srd/monsters/elemental/Lightning Elemental, Huge|Lightning Elemental, Huge]]
-  - [[rangoric-srd/monsters/elemental/Lightning Elemental, Greater|Lightning Elemental, Greater]]
-  - [[rangoric-srd/monsters/elemental/Lightning Elemental, Elder|Lightning Elemental, Elder]]
+- [[rangoric-srd/monsters/elemental/Lightning Elemental, Small|Lightning Elemental, Small]]
+- [[rangoric-srd/monsters/elemental/Lightning Elemental, Medium|Lightning Elemental, Medium]]
+- [[rangoric-srd/monsters/elemental/Lightning Elemental, Large|Lightning Elemental, Large]]
+- [[rangoric-srd/monsters/elemental/Lightning Elemental, Huge|Lightning Elemental, Huge]]
+- [[rangoric-srd/monsters/elemental/Lightning Elemental, Greater|Lightning Elemental, Greater]]
+- [[rangoric-srd/monsters/elemental/Lightning Elemental, Elder|Lightning Elemental, Elder]]
 
 Lightning elementals speak Auran.
 
-  - **Environment**: Any (Elemental Plane of Air)
-  - **Organization**: Solitary, pair, or gang (3–8)
-  - **Treasure**: None
+- **Environment**: Any (Elemental Plane of Air)
+- **Organization**: Solitary, pair, or gang (3–8)
+- **Treasure**: None
 
 ### Combat
 

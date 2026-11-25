@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Underwater Demolition
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]] (Ex).*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]] (Ex)._
 
 The alchemist gains the ability to throw bombs underwater (normally, thrown weapons cannot be used underwater), including throwing from the air into the water. If the bomb travels through water, the range increment is reduced to 5 feet.

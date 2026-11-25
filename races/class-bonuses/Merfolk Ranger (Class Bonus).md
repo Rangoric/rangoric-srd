@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Merfolk Ranger
 
-*A [[rangoric-srd/races/Merfolk|merfolk]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Ranger#^ranger-class-bonuses|ranger]] level.*
+_A [[rangoric-srd/races/Merfolk|merfolk]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Ranger#^ranger-class-bonuses|ranger]] level._
 
 Add +1 hit point to the ranger's [[rangoric-srd/classes/Ranger#^ranger-animal-companion|animal companion]]. If the ranger ever replaces his animal companion, the new animal companion gains these bonus hit points.

@@ -55,38 +55,38 @@ The dragon mage’s [[rangoric-srd/prestige-classes/dragon-mage/Dragon Mage (Win
 
 **Table: Healing Sacrifice** ^table-healing-sacrifice
 
-| Spell | Sacrifice |
-| --- | --- |
-| *[[rangoric-srd/spells/Cure Light Wounds\|cure light wounds]]* | 500 gp (½ mundane, ½ magical) |
-| *[[rangoric-srd/spells/Cure Moderate Wounds\|cure moderate wounds]]* | 1,000 gp (½ mundane, ½ magical) |
-| *[[rangoric-srd/spells/Cure Serious Wounds\|cure serious wounds]]* | 2,000 gp (½ mundane, ½ magical) |
-| *[[rangoric-srd/spells/Cure Critical Wounds\|cure critical wounds]]* | 3,000 gp (½ mundane, ½ magical) |
-| *[[rangoric-srd/spells/Cure Light Wounds, Mass\|mass cure light wounds]]* | 3,000 gp (all magical) |
-| *[[rangoric-srd/spells/Heal (Spell)\|heal]]* | 4,000 gp (all magical) |
-| *[[rangoric-srd/spells/Regenerate\|regenerate]]* | 4,500 gp (all magical) |
-| *[[rangoric-srd/spells/Heal, Mass\|mass heal]]* | 5,000 gp (all magical) |
-| *[[rangoric-srd/spells/True Resurrection\|true resurrection]]* | 10,000 gp (all magical) |
+| Spell                                                                     | Sacrifice                       |
+| ------------------------------------------------------------------------- | ------------------------------- |
+| _[[rangoric-srd/spells/Cure Light Wounds\|cure light wounds]]_            | 500 gp (½ mundane, ½ magical)   |
+| _[[rangoric-srd/spells/Cure Moderate Wounds\|cure moderate wounds]]_      | 1,000 gp (½ mundane, ½ magical) |
+| _[[rangoric-srd/spells/Cure Serious Wounds\|cure serious wounds]]_        | 2,000 gp (½ mundane, ½ magical) |
+| _[[rangoric-srd/spells/Cure Critical Wounds\|cure critical wounds]]_      | 3,000 gp (½ mundane, ½ magical) |
+| _[[rangoric-srd/spells/Cure Light Wounds, Mass\|mass cure light wounds]]_ | 3,000 gp (all magical)          |
+| _[[rangoric-srd/spells/Heal (Spell)\|heal]]_                              | 4,000 gp (all magical)          |
+| _[[rangoric-srd/spells/Regenerate\|regenerate]]_                          | 4,500 gp (all magical)          |
+| _[[rangoric-srd/spells/Heal, Mass\|mass heal]]_                           | 5,000 gp (all magical)          |
+| _[[rangoric-srd/spells/True Resurrection\|true resurrection]]_            | 10,000 gp (all magical)         |
 
 **Table: Siphon Magic** ^table-siphon-magic
 
 | Trove Value | Extra Spell Levels/Day | Max. Spell Level |
-| --- | --- | --- |
-| 6,750 gp | 1 | 1 |
-| 9,750 gp | 2 | 1 |
-| 14,250 gp | 3 | 1 |
-| 20,250 gp | 4 | 2 |
-| 27,000 gp | 5 | 2 |
-| 46,750 gp | 6 | 2 |
-| 49,500 gp | 7 | 3 |
-| 66,000 gp | 8 | 3 |
-| 82,500 gp | 9 | 3 |
-| 112,500 gp | 10 | 4 |
-| 150,000 gp | 11 | 4 |
-| 195,000 gp | 12 | 4 |
-| 255,000 gp | 13 | 5 |
-| 330,000 gp | 14 | 5 |
-| 435,000 gp | 15 | 5 |
-| 570,000 gp | 16 | 6 |
+| ----------- | ---------------------- | ---------------- |
+| 6,750 gp    | 1                      | 1                |
+| 9,750 gp    | 2                      | 1                |
+| 14,250 gp   | 3                      | 1                |
+| 20,250 gp   | 4                      | 2                |
+| 27,000 gp   | 5                      | 2                |
+| 46,750 gp   | 6                      | 2                |
+| 49,500 gp   | 7                      | 3                |
+| 66,000 gp   | 8                      | 3                |
+| 82,500 gp   | 9                      | 3                |
+| 112,500 gp  | 10                     | 4                |
+| 150,000 gp  | 11                     | 4                |
+| 195,000 gp  | 12                     | 4                |
+| 255,000 gp  | 13                     | 5                |
+| 330,000 gp  | 14                     | 5                |
+| 435,000 gp  | 15                     | 5                |
+| 570,000 gp  | 16                     | 6                |
 
 ###### Class Features
 
@@ -106,13 +106,13 @@ The second power available through the siphon magic ability is the means to exce
 
 In [[#^table-siphon-magic|Table: Siphon Magic]], the **Extra Spell Levels/Day** column indicates the total number of spell levels gained through this ability each day and the **Max. Spell Level** column indicates the highest level of spell that the extra spell levels can be used to power. For example:
 
-*A dragon mage has a trove worth 49,500 gp and needs to cast a few extra spells to get through a particularly dangerous encounter. He is entitled to seven extra spell levels each day, and the highest level of spell these can be applied to is 3rd. He could cast two 3rd-level spells and one 1st-level spell (3 + 3 + 1 = 7), three 2nd-level spells and one 1st-level spell (2 + 2 + 2 + 1 = 7), or any other combination of spells in which the total number of levels is equal to 7 and the highest spell level does not exceed 3.*
+_A dragon mage has a trove worth 49,500 gp and needs to cast a few extra spells to get through a particularly dangerous encounter. He is entitled to seven extra spell levels each day, and the highest level of spell these can be applied to is 3rd. He could cast two 3rd-level spells and one 1st-level spell (3 + 3 + 1 = 7), three 2nd-level spells and one 1st-level spell (2 + 2 + 2 + 1 = 7), or any other combination of spells in which the total number of levels is equal to 7 and the highest spell level does not exceed 3._
 
 Note that the dragon mage may only use the extra spell levels each day to power spells that he either already memorized (or prayed for) that day or is capable of casting as spontaneous magic. A cleric can use the extra spell levels gained each day to cast healing (or harming magic) as per their spontaneous casting ability, even if they have no spells to convert.
 
 The third power of the siphon magic ability is exercised either when a spell is prepared (if the character must prepare spells ahead of time), or at the moment that the spell is cast (if the character is capable of spontaneous casting). Use of the bond in the first case extends the time required for preparation (or prayer) by 10 minutes per extra spell level used. If this option is exercised at the moment the spell is cast, the casting time for the spell is tripled. These extra spell levels may pay the cost for metamagic feats, as detailed below.
 
-Any metamagic feat that uses up spell slots of a higher level than the spell they affect can be powered by using the extra spell levels gained each day through dragon magic. To offset this increase in spell level, the dragon mage must use a number of extra spell levels equal to the original level of the spell for each one-level increase. For example, a 3rd-level *[[rangoric-srd/spells/Fireball|fireball]]* prepared with the [[rangoric-srd/feats/Empower Spell|Empower Spell]] feat (requiring a spell slot 2 levels higher than spell’s actual level) would be prepared as a 5th-level spell. However, a dragon mage can expend 6 extra spell levels (3 extra levels for each level increase required by the metamagic feat) to prepare the empowered spell at its normal level.
+Any metamagic feat that uses up spell slots of a higher level than the spell they affect can be powered by using the extra spell levels gained each day through dragon magic. To offset this increase in spell level, the dragon mage must use a number of extra spell levels equal to the original level of the spell for each one-level increase. For example, a 3rd-level _[[rangoric-srd/spells/Fireball|fireball]]_ prepared with the [[rangoric-srd/feats/Empower Spell|Empower Spell]] feat (requiring a spell slot 2 levels higher than spell’s actual level) would be prepared as a 5th-level spell. However, a dragon mage can expend 6 extra spell levels (3 extra levels for each level increase required by the metamagic feat) to prepare the empowered spell at its normal level.
 
 Note that the last two uses of the siphon magic ability both draw from the same pool of extra spell levels each day.
 

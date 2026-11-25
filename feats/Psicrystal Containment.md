@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Psicrystal Containment
 
-Your psicrystal has advanced enough that it can hold a psionic focus that you store within it.  
+Your psicrystal has advanced enough that it can hold a psionic focus that you store within it.
 
 Prerequisites: [[rangoric-srd/feats/Psicrystal Affinity|Psicrystal Affinity]], manifester level 3rd.
 

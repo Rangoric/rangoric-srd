@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 These thick leather cords wrap around the wearer's biceps and shoulders. When worn, they make the wearer's muscles appear larger than normal. The wearer treats his Strength score as 8 higher than normal when determining his carrying capacity. This bonus does not apply to combat, breaking items, or any other Strength-related rolls; it only contributes to the amount of equipment or material the wearer can carry.
 
-Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*; Price 1,000 gp; Cost 500 gp; Weight 1/4 lb.
+Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_; Price 1,000 gp; Cost 500 gp; Weight 1/4 lb.

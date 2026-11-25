@@ -15,18 +15,18 @@ tags: [rangoric, rangoric/gear]
 
 The indicated amount is how much it costs to get a spellcaster to cast a spell for you. This cost assumes that you can go to the spellcaster and have the spell cast at his or her convenience (generally at least 24 hours later, so that the spellcaster has time to prepare the spell in question). If you want to bring the spellcaster somewhere to cast a spell you need to negotiate with him or her, and the default answer is no.
 
-| Spell Level | Cost |
-| --- | --- |
-| 0-level | Caster level x 5 gp |
-| 1st-level | Caster level x 10 gp |
-| 2nd-level | Caster level x 20 gp |
-| 3rd-level | Caster level x 30 gp |
-| 4th-level | Caster level x 40 gp |
-| 5th-level | Caster level x 50 gp |
-| 6th-level | Caster level x 60 gp |
-| 7th-level | Caster level x 70 gp |
-| 8th-level | Caster level x 80 gp |
-| 9th-level | Caster level x 90 gp |
+| Spell Level | Cost                 |
+| ----------- | -------------------- |
+| 0-level     | Caster level x 5 gp  |
+| 1st-level   | Caster level x 10 gp |
+| 2nd-level   | Caster level x 20 gp |
+| 3rd-level   | Caster level x 30 gp |
+| 4th-level   | Caster level x 40 gp |
+| 5th-level   | Caster level x 50 gp |
+| 6th-level   | Caster level x 60 gp |
+| 7th-level   | Caster level x 70 gp |
+| 8th-level   | Caster level x 80 gp |
+| 9th-level   | Caster level x 90 gp |
 
 See spell description for additional costs. If the additional costs put the spell’s total cost above 3,000 gp, that spell is not generally available.
 

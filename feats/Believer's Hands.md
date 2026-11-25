@@ -21,4 +21,4 @@ You can heal others with a touch of your hand.
 
 **Special**: This feat counts as having the lay on hands ability for the purpose of qualifying for feats such as [[rangoric-srd/feats/Extra Lay On Hands|Extra Lay On Hands]].
 
-If you grossly violate the code of conduct required by your deity, your alignment shifts so that it is more than one step away from your deity’s, or you no longer worship your deity, you lose access to this feat. You can regain it once you atone for your misdeeds to your deity (see the *[[rangoric-srd/spells/Atonement|atonement]]* spell).
+If you grossly violate the code of conduct required by your deity, your alignment shifts so that it is more than one step away from your deity’s, or you no longer worship your deity, you lose access to this feat. You can regain it once you atone for your misdeeds to your deity (see the _[[rangoric-srd/spells/Atonement|atonement]]_ spell).

@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/magic-item]
 
 When fired, this arrow transforms itself into a celestial eagle which attacks the intended target. The celestial eagle has one additional Hit Die and a +1 competence bonus to attack rolls. The eagle remains until the target is dead, destroyed, dispelled, or five rounds have passed. After each use, the eagle and the arrow disappear.
 
-Faint conjuration; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Summon Monster II|summon monster II]]*; Price 263 gp; Cost 132 gp + 11 XP.
+Faint conjuration; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Summon Monster II|summon monster II]]_; Price 263 gp; Cost 132 gp + 11 XP.

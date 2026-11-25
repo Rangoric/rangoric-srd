@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Fast Bombs
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]].*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]]._
 
 An alchemist with this discovery can quickly create enough bombs to throw more than one in a single round. The alchemist can prepare and throw additional bombs as a full-round action if his base attack bonus is high enough to grant him additional attacks. This functions just like a full-attack with a ranged weapon. An alchemist must be at least 8th level before selecting this discovery.

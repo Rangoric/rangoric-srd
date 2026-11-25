@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Shadow Walk
 
-*Illusion (Shadow)*
+_Illusion (Shadow)_
 
-  - **Level**: Alc 6, Brd 5, Mes 5, Skd 5, Sor/Wiz 6, Spi 6
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Targets**: Up to one touched creature/ level
-  - **Duration**: 1 hour/level (D)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Alc 6, Brd 5, Mes 5, Skd 5, Sor/Wiz 6, Spi 6
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Targets**: Up to one touched creature/ level
+- **Duration**: 1 hour/level (D)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 To use the shadow walk spell, you must be in an area of shadowy illumination. You and any creature you touch are then transported along a coiling path of shadowstuff to the edge of the Material Plane where it borders the Plane of Shadow. The effect is largely illusory, but the path is quasi-real. You can take more than one creature along with you (subject to your level limit), but all must be touching each other.
 

@@ -49,18 +49,18 @@ The fey guardian’s class skills (and the key ability for each skill) are [[ran
 
 **Table: The Fey Guardian** ^table-the-fey-guardian
 
-| Level | Special | Spells per Day |
-| --- | --- | --- |
-| 1st | Luck of the Fey, Will of the Fey | +1 level of existing class |
-| 2nd | Polymorph Other | +1 level of existing class |
-| 3rd | Mote-form | +1 level of existing class |
-| 4th | Transfer | +1 level of existing class |
-| 5th | Permanency | +1 level of existing class |
-| 6th | — | +1 level of existing class |
-| 7th | Limited Wish | +1 level of existing class |
-| 8th | — | +1 level of existing class |
-| 9th | Polymorph Any Object | +1 level of existing class |
-| 10th | Wish | +1 level of existing class |
+| Level | Special                          | Spells per Day             |
+| ----- | -------------------------------- | -------------------------- |
+| 1st   | Luck of the Fey, Will of the Fey | +1 level of existing class |
+| 2nd   | Polymorph Other                  | +1 level of existing class |
+| 3rd   | Mote-form                        | +1 level of existing class |
+| 4th   | Transfer                         | +1 level of existing class |
+| 5th   | Permanency                       | +1 level of existing class |
+| 6th   | —                                | +1 level of existing class |
+| 7th   | Limited Wish                     | +1 level of existing class |
+| 8th   | —                                | +1 level of existing class |
+| 9th   | Polymorph Any Object             | +1 level of existing class |
+| 10th  | Wish                             | +1 level of existing class |
 
 ###### Class Features
 
@@ -72,16 +72,16 @@ All of the following are class features of the fey guardian prestige class.
 
 **Will of the Fey (Ex)**: At 1st level, a fey guardian is gifted with the ability to expend less XP than required to complete a spell. When casting spells that benefit others, the XP cost is 75% of the listed cost, while spells that benefit the fey guardian himself cost 90% of the listed cost. ^fey-guardian-will-of-the-fey
 
-**Polymorph Other (Sp)**: Upon reaching 2nd level, the fey guardian is granted the ability to cast *[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]* three times per day as per the spell of the same name. This extra spell is in addition to the character’s regular spell allotment. ^fey-guardian-polymorph-other
+**Polymorph Other (Sp)**: Upon reaching 2nd level, the fey guardian is granted the ability to cast _[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]_ three times per day as per the spell of the same name. This extra spell is in addition to the character’s regular spell allotment. ^fey-guardian-polymorph-other
 
-**Mote Form (Su)**: Once a fey guardian reaches 3rd level, he gains the ability to change into a cloud of small glowing spheres. This ability can be used three times per day and functions like the *[[rangoric-srd/spells/Gaseous Form|gaseous form]]* spell; since the fey guardian is light rather than a gas, he is not subject to winds and can enter water and liquids. ^fey-guardian-mote-form
+**Mote Form (Su)**: Once a fey guardian reaches 3rd level, he gains the ability to change into a cloud of small glowing spheres. This ability can be used three times per day and functions like the _[[rangoric-srd/spells/Gaseous Form|gaseous form]]_ spell; since the fey guardian is light rather than a gas, he is not subject to winds and can enter water and liquids. ^fey-guardian-mote-form
 
 **Transfer (Sp)**: At 4th level, the fey guardian gains the ability to cast spells with a range of personal on other beings as if they were touch spells, allowing them to use spells normally limited to the caster. ^fey-guardian-transfer
 
-**Permanency (Sp)**: When fey guardians reach 5th level, they gain the ability to cast *[[rangoric-srd/spells/Permanency|permanency]]* once per day. This extra spell is in addition to the character’s regular spell allotment. ^fey-guardian-permanency
+**Permanency (Sp)**: When fey guardians reach 5th level, they gain the ability to cast _[[rangoric-srd/spells/Permanency|permanency]]_ once per day. This extra spell is in addition to the character’s regular spell allotment. ^fey-guardian-permanency
 
-**Limited Wish (Sp)**: At 7th level, the fey guardian gains the ability to cast *[[rangoric-srd/spells/Limited Wish|limited wish]]* once per week. This extra spell is in addition to the character’s regular spell allotment. ^fey-guardian-limited-wish
+**Limited Wish (Sp)**: At 7th level, the fey guardian gains the ability to cast _[[rangoric-srd/spells/Limited Wish|limited wish]]_ once per week. This extra spell is in addition to the character’s regular spell allotment. ^fey-guardian-limited-wish
 
-**Polymorph Any Object (Sp)**: At 9th level, the fey guardian is able to cast *[[rangoric-srd/spells/Polymorph Any Object|polymorph any object]]* three times per day. This extra spell is in addition to the character’s regular spell allotment. ^fey-guardian-polymorph-any-object
+**Polymorph Any Object (Sp)**: At 9th level, the fey guardian is able to cast _[[rangoric-srd/spells/Polymorph Any Object|polymorph any object]]_ three times per day. This extra spell is in addition to the character’s regular spell allotment. ^fey-guardian-polymorph-any-object
 
-**Wish (Sp)**: At 10th level, a fey guardian is able to cast *[[rangoric-srd/spells/Wish|wish]]* once per week. This extra spell is in addition to the character’s regular spell allotment. ^fey-guardian-wish
+**Wish (Sp)**: At 10th level, a fey guardian is able to cast _[[rangoric-srd/spells/Wish|wish]]_ once per week. This extra spell is in addition to the character’s regular spell allotment. ^fey-guardian-wish

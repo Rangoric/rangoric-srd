@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Community Domain
 
-*A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
+_A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]]._
 
 **Subdomains**: [[rangoric-srd/class-options/domains/Family Subdomain|Family]], [[rangoric-srd/class-options/domains/Home Subdomain|Home]].
 
@@ -33,18 +33,18 @@ Your touch can heal wounds, and your presence instills unity and strengthens emo
 
 Where a level has two spells, the cleric prepares [[rangoric-srd/class-options/domains/Domains#^domains-two-spells|either one]] in the domain spell slot.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Bless\|Bless]] | Allies gain +1 on attack rolls and saves against fear. |
-| 2nd | [[rangoric-srd/spells/Status\|Status]] | Monitors condition, position of allies. |
-| 2nd | [[rangoric-srd/spells/Shield Other\|Shield Other]] (F) | You take half of subject’s damage. |
-| 3rd | [[rangoric-srd/spells/Prayer\|Prayer]] | Allies +1 bonus on most rolls, enemies –1 penalty. |
-| 4th | [[rangoric-srd/spells/Status, Greater\|Greater Status]] | Monitors condition, position of allies. |
-| 4th | [[rangoric-srd/spells/Imbue with Spell Ability\|Imbue with Spell Ability]] | Transfer spells to subject. |
-| 5th | [[rangoric-srd/spells/Telepathic Bond\|Telepathic Bond]] | Link lets allies communicate. |
-| 6th | [[rangoric-srd/spells/Heroes’ Feast\|Heroes’ Feast]] | Food for one creature/level cures and grants combat bonuses. |
-| 7th | [[rangoric-srd/spells/Refuge\|Refuge]] | Alters item to transport its possessor to you. |
-| 8th | [[rangoric-srd/spells/Sympathy\|Sympathy]] | Object or location attracts certain creatures. |
-| 8th | [[rangoric-srd/spells/Cure Critical Wounds, Mass\|Mass Cure Critical Wounds]] | Cures 4d8 damage +1/level for many creatures. |
-| 9th | [[rangoric-srd/spells/Heal, Mass\|Mass Heal]] | As heal, but with several subjects. |
-| 9th | [[rangoric-srd/spells/Miracle\|Miracle]] | Requests a deity’s intercession. |
+| Level | Spell                                                                         | Brief Description                                            |
+| ----- | ----------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| 1st   | [[rangoric-srd/spells/Bless\|Bless]]                                          | Allies gain +1 on attack rolls and saves against fear.       |
+| 2nd   | [[rangoric-srd/spells/Status\|Status]]                                        | Monitors condition, position of allies.                      |
+| 2nd   | [[rangoric-srd/spells/Shield Other\|Shield Other]] (F)                        | You take half of subject’s damage.                           |
+| 3rd   | [[rangoric-srd/spells/Prayer\|Prayer]]                                        | Allies +1 bonus on most rolls, enemies –1 penalty.           |
+| 4th   | [[rangoric-srd/spells/Status, Greater\|Greater Status]]                       | Monitors condition, position of allies.                      |
+| 4th   | [[rangoric-srd/spells/Imbue with Spell Ability\|Imbue with Spell Ability]]    | Transfer spells to subject.                                  |
+| 5th   | [[rangoric-srd/spells/Telepathic Bond\|Telepathic Bond]]                      | Link lets allies communicate.                                |
+| 6th   | [[rangoric-srd/spells/Heroes’ Feast\|Heroes’ Feast]]                          | Food for one creature/level cures and grants combat bonuses. |
+| 7th   | [[rangoric-srd/spells/Refuge\|Refuge]]                                        | Alters item to transport its possessor to you.               |
+| 8th   | [[rangoric-srd/spells/Sympathy\|Sympathy]]                                    | Object or location attracts certain creatures.               |
+| 8th   | [[rangoric-srd/spells/Cure Critical Wounds, Mass\|Mass Cure Critical Wounds]] | Cures 4d8 damage +1/level for many creatures.                |
+| 9th   | [[rangoric-srd/spells/Heal, Mass\|Mass Heal]]                                 | As heal, but with several subjects.                          |
+| 9th   | [[rangoric-srd/spells/Miracle\|Miracle]]                                      | Requests a deity’s intercession.                             |

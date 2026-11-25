@@ -25,4 +25,4 @@ tags: [rangoric, rangoric/downtime-team]
 - **Time**: 2 days
 - **Size**: 5 people
 
-Like Guards, this team defends a location but doesn't take on an active role. An Elite Guards team consists of 3rd-level warriors (*NPC* *Codex* 267), each wearing a chain shirt or banded mail and using a heavy steel shield and shortspear, a guisarme, or a halberd.
+Like Guards, this team defends a location but doesn't take on an active role. An Elite Guards team consists of 3rd-level warriors (_NPC_ _Codex_ 267), each wearing a chain shirt or banded mail and using a heavy steel shield and shortspear, a guisarme, or a halberd.

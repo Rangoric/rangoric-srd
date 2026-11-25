@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Rot Grub Swarm
 
-  - Fine [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]] (Swarm)
-  - **Hit Dice**: 10d8+40 (85 hp)
-  - **Initiative**: +2
-  - **Speed**: 10 ft. (2 squares)
-  - **Armor Class**: 20 (+2 Dex, +8 size), touch 20, flat-footed 18
-  - **Base Attack**: +7; **CMB**: —; **CMD**: —
-  - **Attack**: Swarm (2d6 plus [[rangoric-srd/monsters/abilities/Distraction|distraction]] and [[rangoric-srd/monsters/abilities/Infestation|infestation]])
-  - **Full Attack**: Swarm (2d6 plus [[rangoric-srd/monsters/abilities/Distraction|distraction]] and [[rangoric-srd/monsters/abilities/Infestation|infestation]])
-  - **Space/Reach**: 10 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (DC 19), [[rangoric-srd/monsters/abilities/Infestation|infestation]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects and weapon damage
-  - **Saves**: Fort +11, Ref +5, Will +3
-  - **Abilities**: Str 1, Dex 15, Con 18, Int —, Wis 10, Cha 1
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 7
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Fine [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]] (Swarm)
+- **Hit Dice**: 10d8+40 (85 hp)
+- **Initiative**: +2
+- **Speed**: 10 ft. (2 squares)
+- **Armor Class**: 20 (+2 Dex, +8 size), touch 20, flat-footed 18
+- **Base Attack**: +7; **CMB**: —; **CMD**: —
+- **Attack**: Swarm (2d6 plus [[rangoric-srd/monsters/abilities/Distraction|distraction]] and [[rangoric-srd/monsters/abilities/Infestation|infestation]])
+- **Full Attack**: Swarm (2d6 plus [[rangoric-srd/monsters/abilities/Distraction|distraction]] and [[rangoric-srd/monsters/abilities/Infestation|infestation]])
+- **Space/Reach**: 10 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (DC 19), [[rangoric-srd/monsters/abilities/Infestation|infestation]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects and weapon damage
+- **Saves**: Fort +11, Ref +5, Will +3
+- **Abilities**: Str 1, Dex 15, Con 18, Int —, Wis 10, Cha 1
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 7
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 ### Combat
 

@@ -41,37 +41,37 @@ tags: [rangoric, rangoric/monster]
 
 # Gnoll
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Gnoll)
-  - **Hit Dice**: 2d8+2 (11 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 15 (+2 armor, +1 natural, +2 shield), touch 10, flat-footed 15
-  - **Base Attack**: +1; **CMB**: +3; **CMD**: 13
-  - **Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +3 melee (1d8+3/×3) or [[rangoric-srd/equipment/weapons/Spear|spear]] +1 ranged (1d8+2/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +3 melee (1d8+3/×3); or [[rangoric-srd/equipment/weapons/Spear|spear]] +1 ranged (1d8+2/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
-  - **Saves**: Fort +4, Ref +0, Will +0
-  - **Abilities**: Str 15, Dex 10, Con 13, Int 8, Wis 11, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +2
-  - **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Warm plains or desert
-  - **Organization**: Solitary, pair, hunting party (2–5 gnolls and 1–2 hyenas), band (10–100 adults plus 50% noncombatant children, 1 sergeant of 3rd level per 20 adults, 1 leader of 4th–6th level, and 5–8 hyenas), or tribe (20–200 plus 1 sergeant of 3rd level per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 leader of 6th–8th level, 7–12 hyenas, and 4–7 hyaenodons)
-  - **Challenge Rating**: 1
-  - **Treasure**: NPC Gear (leather armor, heavy wooden shield, battleaxe, longbow with 20 arrows, other treasure)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: +1
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Gnoll)
+- **Hit Dice**: 2d8+2 (11 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 15 (+2 armor, +1 natural, +2 shield), touch 10, flat-footed 15
+- **Base Attack**: +1; **CMB**: +3; **CMD**: 13
+- **Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +3 melee (1d8+3/×3) or [[rangoric-srd/equipment/weapons/Spear|spear]] +1 ranged (1d8+2/×3)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +3 melee (1d8+3/×3); or [[rangoric-srd/equipment/weapons/Spear|spear]] +1 ranged (1d8+2/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
+- **Saves**: Fort +4, Ref +0, Will +0
+- **Abilities**: Str 15, Dex 10, Con 13, Int 8, Wis 11, Cha 8
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +2
+- **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Warm plains or desert
+- **Organization**: Solitary, pair, hunting party (2–5 gnolls and 1–2 hyenas), band (10–100 adults plus 50% noncombatant children, 1 sergeant of 3rd level per 20 adults, 1 leader of 4th–6th level, and 5–8 hyenas), or tribe (20–200 plus 1 sergeant of 3rd level per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 leader of 6th–8th level, 7–12 hyenas, and 4–7 hyaenodons)
+- **Challenge Rating**: 1
+- **Treasure**: NPC Gear (leather armor, heavy wooden shield, battleaxe, longbow with 20 arrows, other treasure)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: +1
 
 **Also in this entry:**
 
-  - Gnoll Barbarians: [[rangoric-srd/monsters/gnoll/Gnoll Rageborn|Gnoll Rageborn]] (CR 3), [[rangoric-srd/monsters/gnoll/Gnoll Packlord|Gnoll Packlord]] (CR 9)
-  - Gnoll Skirmishers: [[rangoric-srd/monsters/gnoll/Gnoll Bruiser|Gnoll Bruiser]] (CR 3), [[rangoric-srd/monsters/gnoll/Gnoll Warden|Gnoll Warden]] (CR 10)
-  - Gnoll War Leaders: [[rangoric-srd/monsters/gnoll/Gnoll Sergeant|Gnoll Sergeant]] (CR 4), [[rangoric-srd/monsters/gnoll/Gnoll Lieutenant|Gnoll Lieutenant]] (CR 6)
-  - Gnoll Devotees: [[rangoric-srd/monsters/gnoll/Gnoll Devotee|Gnoll Devotee]] (CR 5), [[rangoric-srd/monsters/gnoll/Gnoll Ravager|Gnoll Ravager]] (CR 11), [[rangoric-srd/monsters/gnoll/Gnoll Cleric|Gnoll Cleric]] (CR 12)
-  - Gnoll Bouda: [[rangoric-srd/monsters/gnoll/Gnoll Bouda|Gnoll Bouda]] (CR 13)
-  - [[rangoric-srd/monsters/gnoll/Flind|Flind]] (CR 3)
+- Gnoll Barbarians: [[rangoric-srd/monsters/gnoll/Gnoll Rageborn|Gnoll Rageborn]] (CR 3), [[rangoric-srd/monsters/gnoll/Gnoll Packlord|Gnoll Packlord]] (CR 9)
+- Gnoll Skirmishers: [[rangoric-srd/monsters/gnoll/Gnoll Bruiser|Gnoll Bruiser]] (CR 3), [[rangoric-srd/monsters/gnoll/Gnoll Warden|Gnoll Warden]] (CR 10)
+- Gnoll War Leaders: [[rangoric-srd/monsters/gnoll/Gnoll Sergeant|Gnoll Sergeant]] (CR 4), [[rangoric-srd/monsters/gnoll/Gnoll Lieutenant|Gnoll Lieutenant]] (CR 6)
+- Gnoll Devotees: [[rangoric-srd/monsters/gnoll/Gnoll Devotee|Gnoll Devotee]] (CR 5), [[rangoric-srd/monsters/gnoll/Gnoll Ravager|Gnoll Ravager]] (CR 11), [[rangoric-srd/monsters/gnoll/Gnoll Cleric|Gnoll Cleric]] (CR 12)
+- Gnoll Bouda: [[rangoric-srd/monsters/gnoll/Gnoll Bouda|Gnoll Bouda]] (CR 13)
+- [[rangoric-srd/monsters/gnoll/Flind|Flind]] (CR 3)
 
 Gnolls are a race of hulking, humanoids that resemble hyenas in more than mere appearance; they show a striking affinity with the scavenging animals, to the point of keeping them as pets, and reflect many of the lesser creatures' behaviors.
 
@@ -99,7 +99,7 @@ Any creature that is not part of the pack is nothing more than moving meat. Even
 
 It was once believed that gnolls were a scourge of savannas and deserts alone, but while most gnolls prefer the regions favored by hyenas, they live and hunt in nearly every climate. Because gnolls' survival and pack cohesion rely on the hunt, if a pack becomes too large, it splinters. The weaker group is pushed beyond the borders of its former pack's hunting territory, often into regions with different ecologies and prey. While gnolls are numerous in arid climates, smaller and more desperate packs roam highlands, lowlands, forests, taigas, and even the lands deep underground.
 
-Gnolls are strictly carnivorous, even to the point of resorting to cannibalism in times of great need, during religious rituals, or to show their dominance after defeating a rival. The majority of their meat, however, comes from the hunt. Nearly any kind of meat can provide sustenance, but they have a strong preference for the flesh of sentient creatures. This preference is both practical (as sentient creatures are a great threat to the pack's stability and survival) and bound up with the common gnoll superstition that consuming a creature allows one to absorb its power. That said, there is a prevalent taboo among most gnolls against eating the flesh of the [[rangoric-srd/monsters/gremlin/Pugwampi|pugwampi]]. Their disdain for these fawning fey is so great that most gnolls believe that eating pugwampi flesh weakens gnolls and can even curse the entire pack. It is better to kill them, weave their flesh into *pugwampi braids* —which at least have some use—and leave their meat to rot.
+Gnolls are strictly carnivorous, even to the point of resorting to cannibalism in times of great need, during religious rituals, or to show their dominance after defeating a rival. The majority of their meat, however, comes from the hunt. Nearly any kind of meat can provide sustenance, but they have a strong preference for the flesh of sentient creatures. This preference is both practical (as sentient creatures are a great threat to the pack's stability and survival) and bound up with the common gnoll superstition that consuming a creature allows one to absorb its power. That said, there is a prevalent taboo among most gnolls against eating the flesh of the [[rangoric-srd/monsters/gremlin/Pugwampi|pugwampi]]. Their disdain for these fawning fey is so great that most gnolls believe that eating pugwampi flesh weakens gnolls and can even curse the entire pack. It is better to kill them, weave their flesh into _pugwampi braids_ —which at least have some use—and leave their meat to rot.
 
 Gnoll packs are matriarchal because female gnolls tend to be larger, more aggressive, and more cunning than males. Size aside, there are few physical differences in the appearances of female and male gnolls. On the average, a gnoll male is around 6 feet in height while the average gnoll female is closer to 6-1/2 feet, though gnolls of both genders appear shorter due to their stooping posture.
 

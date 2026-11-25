@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/close]
 
 # Gauntlet
 
-*Simple unarmed attack.* Cost 2 gp; Dmg 1d2 (S), 1d3 (M); Critical x2; Weight 1 lb.; Type Bludgeoning. ^stats
+_Simple unarmed attack._ Cost 2 gp; Dmg 1d2 (S), 1d3 (M); Critical x2; Weight 1 lb.; Type Bludgeoning. ^stats
 
 This metal glove lets you deal lethal damage rather than nonlethal damage with unarmed strikes. A strike with a gauntlet is otherwise considered an unarmed attack. The cost and weight given are for a single gauntlet. Medium and heavy armors (except breastplate) come with gauntlets.

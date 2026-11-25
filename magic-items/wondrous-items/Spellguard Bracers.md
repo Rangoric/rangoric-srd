@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 Typically made of leather dyed blue and decorated with star-shaped studs, these bracers are used by spellcasters who practice their art in the heat of combat. The bracers grant the wearer a +2 bonus on concentration checks made to cast defensively. Three times per day, the wearer can choose to roll a concentration check to cast defensively twice and take the better result.
 
-Faint abjuration; CL 4th; [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Warding Weapon|warding weapon]]*; Price 5,000 gp; Cost 2,500 gp; Weight 1 lb.
+Faint abjuration; CL 4th; [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Warding Weapon|warding weapon]]_; Price 5,000 gp; Cost 2,500 gp; Weight 1 lb.

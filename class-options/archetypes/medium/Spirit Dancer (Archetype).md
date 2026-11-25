@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Spirit Dancer
 
-*A [[rangoric-srd/classes/Medium (Class)#^medium-archetypes|medium]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Medium (Class)#^medium-archetypes|medium]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A spirit dancer dances with the spirits, taking many roles in the dance and changing partners quickly.
 

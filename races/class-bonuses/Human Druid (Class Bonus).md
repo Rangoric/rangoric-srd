@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Human Druid
 
-*A [[rangoric-srd/races/Human|human]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Druid#^druid-class-bonuses|druid]] level.*
+_A [[rangoric-srd/races/Human|human]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Druid#^druid-class-bonuses|druid]] level._
 
 Add a +1/2 bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] and [[rangoric-srd/skills/Intimidation|Intimidation]] checks to [[rangoric-srd/skills/Persuasion#Influencing Attitudes|change a creature's attitude]].

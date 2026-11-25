@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 These vambraces are constructed of polished steel. When a [[rangoric-srd/classes/Paladin|paladin]] wears these vambraces, engravings of the holy symbol of a paladin's deity and other religious iconography mystically appear upon the metal's surface. Once per day, when the paladin uses her [[rangoric-srd/classes/Paladin#^paladin-lay-on-hands|lay on hands]] ability, she can choose to apply an additional [[rangoric-srd/classes/Paladin#^paladin-mercy|mercy]] to that use of lay on hands that she did not already select. She must be of sufficient level to use that mercy.
 
-Moderate conjuration; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Cleanse|cleanse]]*; Price 8,000 gp; Cost 4,000 gp; Weight 3 lbs.
+Moderate conjuration; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Cleanse|cleanse]]_; Price 8,000 gp; Cost 4,000 gp; Weight 3 lbs.

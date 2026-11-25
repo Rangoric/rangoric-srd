@@ -29,4 +29,4 @@ This book-sized wooden frame holds a thin slab of black slate. Placing a fragmen
 
 The answers always appear in a language the user can read, even if the creature spoke no language. The slate can be used up to three times per day.
 
-Faint divination; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Blood Biography|blood biography]]*; Price 12,000 gp; Cost 6,000 gp; Weight 2 lb.
+Faint divination; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Blood Biography|blood biography]]_; Price 12,000 gp; Cost 6,000 gp; Weight 2 lb.

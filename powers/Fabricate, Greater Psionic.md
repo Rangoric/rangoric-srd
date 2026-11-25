@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/power]
 Metacreativity (Creation)  
 **Level:** Shaper 6  
 **Target:** Up to 100 cu. ft./level  
-**Power Points:** 11  
+**Power Points:** 11
 
 As [[rangoric-srd/powers/Fabricate, Psionic|psionic fabricate]], except ten times as much material is affected by the power.

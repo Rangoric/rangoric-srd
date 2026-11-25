@@ -32,7 +32,7 @@ Psychoportation
 **Duration:** 1 min./level (D)  
 **Saving Throw:** None  
 **Power Resistance:** Yes (harmless, object)  
-**Power Points:** 1  
+**Power Points:** 1
 
 You, another willing creature, or an unattended object can slide along solid ground as if on smooth ice. If you manifest skate on yourself or another creature, the subject of the power retains equilibrium by mental desire alone, allowing her to gracefully skate along the ground, turn, or stop suddenly as desired. The skater’s land speed increases by 15 feet. (This adjustment is treated as an enhancement bonus.) As with any effect that increases speed, this power affects the subject’s maximum jumping distance.
 

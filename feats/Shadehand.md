@@ -23,12 +23,12 @@ You may hold a number of generated charges equal to your Constitution score but 
 The available charge effects are:
 
 - **1 charge**: A touch attack dealing 1d6 points of negative energy damage. The target of this attack is permitted a Will save (DC 10 + your Charisma bonus) to avoid the damage.
-- **1 charge**: A touch attack that creates a *[[rangoric-srd/spells/Cause Fear|cause fear]]* effect, as the spell. The target of this attack is permitted a Will save (DC 10 + your Charisma bonus) to negate the effect.
-- **1 charge**: Deliver either the negative energy or *cause fear* effect as a 30-foot ranged touch attack.
-- **1 charge**: Increase the Will save DC for a negative energy or *cause fear* effect by 5.
+- **1 charge**: A touch attack that creates a _[[rangoric-srd/spells/Cause Fear|cause fear]]_ effect, as the spell. The target of this attack is permitted a Will save (DC 10 + your Charisma bonus) to negate the effect.
+- **1 charge**: Deliver either the negative energy or _cause fear_ effect as a 30-foot ranged touch attack.
+- **1 charge**: Increase the Will save DC for a negative energy or _cause fear_ effect by 5.
 - **2 charges**: A touch attack dealing 1d4 points of temporary Strength [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]].
-- **2 charges**: Project the damage or *cause fear* effect as a 20-foot cone.
-- **3 charges**: Project the damage or *cause fear* effect as a 10-foot-radius burst centered on you.
+- **2 charges**: Project the damage or _cause fear_ effect as a 20-foot cone.
+- **3 charges**: Project the damage or _cause fear_ effect as a 10-foot-radius burst centered on you.
 
 You also gain a +2 competence bonus on Fortitude saves to recover from [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|energy drain]] effects due to your experience with channeling negative energy through your body. Abilities granted by this feat are spell-like abilities.
 

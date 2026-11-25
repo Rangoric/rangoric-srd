@@ -60,7 +60,7 @@ Organization: Solitary, pair, or court (5-9)    
 Challenge Rating: 25      
 Treasure: Standard      
 Alignment: Always lawful evil      
-Advancement: 51-56 HD (Medium-size); 57-60 HD (Large); 61-66 HD (Huge); 67-70 HD (Gargantuan); 71+ HD (Colossal)      
+Advancement: 51-56 HD (Medium-size); 57-60 HD (Large); 61-66 HD (Huge); 67-70 HD (Gargantuan); 71+ HD (Colossal)    
 
 Hunefers speak all spoken languages, though it takes one 1d4 rounds to switch between languages.
 
@@ -70,10 +70,10 @@ Despair (Su): The mere sight of a hunefer requires viewers to succeed at a Will 
 
 Hunefer Rot (Su): Supernatural disease-slam, Fort save (DC 35), incubation period instantaneous; Damage 1d6 temporary Con. Unlike normal diseases, hunefer rot requires a victim to make a successful saving throw every round or take another 1d6 points of temporary Constitution Damage. The rot continues until the victim reaches Constitution 0 (and dies) or receives a [[rangoric-srd/spells/Remove Disease|remove disease]] spell or similar magic. An afflicted creature that dies shrivels away into sand unless both remove disease and [[rangoric-srd/spells/Raise Dead|raise dead]] (or better) are cast on the remains within 2 rounds. If the remains are not so treated, on the third round the dust swirls and forms an 18 HD mummy with the dead foe’s equipment under the hunefer’s command. (The [[rangoric-srd/spells/Mummy Dust|mummy dust]] epic spell has statistics for an 18 HD mummy.)
 
-Spell-Like Abilities: Caster level 27th; save DC 23 + spell level. The DC is Charisma-based.  
+Spell-Like Abilities: Caster level 27th; save DC 23 + spell level. The DC is Charisma-based.
 
-At will - [[rangoric-srd/spells/Chain Lightning|chain lightning]], [[rangoric-srd/spells/Displacement|displacement]], [[rangoric-srd/spells/Haste|haste]], [[rangoric-srd/spells/Knock|knock]], [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Passwall|passwall]], [[rangoric-srd/spells/Scrying|scrying]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]], [[rangoric-srd/spells/True Seeing|true seeing]], [[rangoric-srd/spells/Unholy Aura|unholy aura]], [[rangoric-srd/spells/Weird|weird]];  
+At will - [[rangoric-srd/spells/Chain Lightning|chain lightning]], [[rangoric-srd/spells/Displacement|displacement]], [[rangoric-srd/spells/Haste|haste]], [[rangoric-srd/spells/Knock|knock]], [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Passwall|passwall]], [[rangoric-srd/spells/Scrying|scrying]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]], [[rangoric-srd/spells/True Seeing|true seeing]], [[rangoric-srd/spells/Unholy Aura|unholy aura]], [[rangoric-srd/spells/Weird|weird]];
 
-1/day - [[rangoric-srd/spells/Ruin|ruin]] (epic spell).  
+1/day - [[rangoric-srd/spells/Ruin|ruin]] (epic spell).
 
 Undead Traits: Immune to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death, effects, necromantic effects, mind-affecting effects, and any effect requiring a Fortitude save unless it also works on objects. Not subject to critical hits, subdual damage, ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]]. Negative energy heals. Not at risk of death from massive damage, but destroyed at 0 hit points or less. Darkvision 60 ft. Cannot be raised; resurrection works only if creature is willing.

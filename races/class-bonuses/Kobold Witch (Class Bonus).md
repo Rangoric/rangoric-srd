@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Kobold Witch
 
-*A [[rangoric-srd/races/Kobold|kobold]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Witch#^witch-class-bonuses|witch]] level.*
+_A [[rangoric-srd/races/Kobold|kobold]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Witch#^witch-class-bonuses|witch]] level._
 
 Add +5 feet to the distance at which her [[rangoric-srd/classes/Witch#^witch-familiar|familiar]] grants its [[rangoric-srd/classes/Wizard#^familiar-alertness|keen senses]] (maximum +20 feet).

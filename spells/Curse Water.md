@@ -28,17 +28,17 @@ tags: [rangoric, rangoric/spell]
 
 # Curse Water
 
-*Necromancy \[Evil\]*
+_Necromancy \[Evil\]_
 
-  - **Level**: Apl 1, Clr 1, Inq 1
-  - **Components**: V, S, M
-  - **Casting Time**: 1 minute
-  - **Range**: Touch
-  - **Target**: Flask of water touched
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates (object)
-  - **Spell Resistance**: Yes (object)
+- **Level**: Apl 1, Clr 1, Inq 1
+- **Components**: V, S, M
+- **Casting Time**: 1 minute
+- **Range**: Touch
+- **Target**: Flask of water touched
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates (object)
+- **Spell Resistance**: Yes (object)
 
 This spell imbues a flask (1 pint) of water with negative energy, turning it into unholy water. Unholy water damages good outsiders the way holy water damages undead and evil outsiders.
 
-*Material Component*: 5 pounds of powdered silver (worth 25 gp).
+_Material Component_: 5 pounds of powdered silver (worth 25 gp).

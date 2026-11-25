@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Strangle
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “strangle”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “strangle”, on the Special Attacks line.
 
 An opponent [[rangoric-srd/rules/conditions/Grappled (Condition)|grappled]] by the creature cannot speak or cast spells with verbal components.

@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/racial-trait]
 
 **Race**: [[rangoric-srd/races/Deep Fey|Deep Fey]], [[rangoric-srd/races/Scath|Scath]], as one of their standard traits.
 
-If exposed to a strong source of light (anything brighter than a torch), a creature with this trait takes a –2 circumstance penalty on all attack rolls, saves, and skill checks. If exposed to sunlight (directly or indirectly), or a *[[rangoric-srd/spells/Daylight|daylight]]* spell, it takes 1 point of damage per round and is [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]].
+If exposed to a strong source of light (anything brighter than a torch), a creature with this trait takes a –2 circumstance penalty on all attack rolls, saves, and skill checks. If exposed to sunlight (directly or indirectly), or a _[[rangoric-srd/spells/Daylight|daylight]]_ spell, it takes 1 point of damage per round and is [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]].
 
 This is harsher than the [[rangoric-srd/rules/Special Abilities and Conditions#Light Sensitivity|light sensitivity]] of other races, and separate from it.

@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Eidetic Recollection
 
-*An [[rangoric-srd/classes/Investigator#^investigator-investigator-talent|investigator talent]] (Su).*
+_An [[rangoric-srd/classes/Investigator#^investigator-investigator-talent|investigator talent]] (Su)._
 
 An investigator can always choose to take 10 on any of his [[rangoric-srd/skills/Knowledge|Knowledge skill]] checks, even if he’s in immediate danger or distracted. An investigator may expend one use of inspiration to take 20 on a Knowledge skill check even if he’s in immediate danger or distracted. An investigator must be at least 11th level to select this talent.

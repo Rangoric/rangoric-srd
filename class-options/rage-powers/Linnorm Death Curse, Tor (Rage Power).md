@@ -15,10 +15,10 @@ tags: [rangoric, rangoric/class-option]
 
 # Linnorm Death Curse, Tor
 
-*A [[rangoric-srd/class-options/rage-powers/Rage Powers|rage power]] (Su) of the [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|barbarian]] and the [[rangoric-srd/classes/Skald#^skald-rage-powers|skald]].*
+_A [[rangoric-srd/class-options/rage-powers/Rage Powers|rage power]] (Su) of the [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|barbarian]] and the [[rangoric-srd/classes/Skald#^skald-rage-powers|skald]]._
 
 The character channels the power of a tor linnorm. The character's melee attacks deal an additional 1 point of fire damage. If the character is knocked [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] or killed by an attack or spell, the attacker suffers the curse of boiling blood (Will negates).
 
 A character must be at least 8th level to select this rage power.
 
-*Curse of Boiling Blood*: *save* Will DC 10 + 1/2 character's level + character's Charisma bonus; *effect* target gains [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]] and is permanently [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] from the pain of its boiling blood (this is a pain effect).
+_Curse of Boiling Blood_: _save_ Will DC 10 + 1/2 character's level + character's Charisma bonus; _effect_ target gains [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]] and is permanently [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] from the pain of its boiling blood (this is a pain effect).

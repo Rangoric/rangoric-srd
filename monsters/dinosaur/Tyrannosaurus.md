@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Tyrannosaurus
 
-  - Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 18d8+72 (153 hp)
-  - **Initiative**: +5
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 21 (+1 Dex, +14 natural, –4 size), touch 7, flat-footed 20
-  - **Base Attack**: +13; **CMB**: +28 (+32 grapple); **CMD**: 39
-  - **Attack**: Bite +20 melee (4d6+22/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +20 melee (4d6+22/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 20 ft./20 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Swallow Whole|Swallow whole]] (2d8+11, AC 17, hp 15)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], powerful bite
-  - **Saves**: Fort +15, Ref +12, Will +10
-  - **Abilities**: Str 32, Dex 13, Con 19, Int 2, Wis 15, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +37
-  - **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Warm forest and plains
-  - **Organization**: Solitary, pair, or pack (3–6)
-  - **Challenge Rating**: 9
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 19–36 HD (Huge); 37–54 HD (Gargantuan)
-  - **Level Adjustment**: —
+- Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 18d8+72 (153 hp)
+- **Initiative**: +5
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 21 (+1 Dex, +14 natural, –4 size), touch 7, flat-footed 20
+- **Base Attack**: +13; **CMB**: +28 (+32 grapple); **CMD**: 39
+- **Attack**: Bite +20 melee (4d6+22/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +20 melee (4d6+22/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 20 ft./20 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Swallow Whole|Swallow whole]] (2d8+11, AC 17, hp 15)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], powerful bite
+- **Saves**: Fort +15, Ref +12, Will +10
+- **Abilities**: Str 32, Dex 13, Con 19, Int 2, Wis 15, Cha 10
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +37
+- **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Warm forest and plains
+- **Organization**: Solitary, pair, or pack (3–6)
+- **Challenge Rating**: 9
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 19–36 HD (Huge); 37–54 HD (Gargantuan)
+- **Level Adjustment**: —
 
 The tyrannosaurus is an apex predator that measures 40 feet long and weighs 14,000 pounds.
 

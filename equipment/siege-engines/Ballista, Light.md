@@ -29,7 +29,7 @@ tags: [rangoric, rangoric/siege-engine]
 
 # Ballista, Light
 
-*Large [[rangoric-srd/rules/Siege Engines#Direct-Fire Ranged Siege Engines|direct-fire siege engine]].* Price 500 gp; Dmg 3d8; Critical 19–20/×2; Range 120 ft.; Type Piercing; Crew 1; Aim 0; Load 2; Speed 10 ft.; Hardness 5; Hit Points 50; Ammunition 10 gp, 10 lb. per bolt. ^stats
+_Large [[rangoric-srd/rules/Siege Engines#Direct-Fire Ranged Siege Engines|direct-fire siege engine]]._ Price 500 gp; Dmg 3d8; Critical 19–20/×2; Range 120 ft.; Type Piercing; Crew 1; Aim 0; Load 2; Speed 10 ft.; Hardness 5; Hit Points 50; Ammunition 10 gp, 10 lb. per bolt. ^stats
 
 Resembling a massive crossbow, a ballista's power is provided by twisted skeins of animal sinew used as torsion springs driving a pair of adjustable arms. A cord attached to both arms is winched back and a projectile is loaded into a grooved slider for release. Ballistae are direct-fire weapons.
 

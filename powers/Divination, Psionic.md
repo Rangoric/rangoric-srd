@@ -27,6 +27,6 @@ Manifesting Time: 10 minutes
 Range: Personal  
 Target: You  
 Duration: Instantaneous  
-Power Points: 7  
+Power Points: 7
 
 As the [[rangoric-srd/spells/Divination|divination]] spell, except as noted here.

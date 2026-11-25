@@ -35,26 +35,26 @@ tags: [rangoric, rangoric/monster]
 
 # Mule
 
-  - Large Animal
-  - **Hit Dice**: 3d8+9 (22 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 13 (–1 size, +1 Dex, +3 natural), touch 10, flat-footed 12
-  - **Base Attack**: +2; **CMB**: +6; **CMD**: 17 (21 vs. trip)
-  - **Attack**: Hoof +4 melee (1d4+3)
-  - **Full Attack**: 2 hooves +4 melee (1d4+3)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: Low-light vision, scent
-  - **Saves**: Fort +6, Ref +4, Will +1
-  - **Abilities**: Str 16, Dex 13, Con 17, Int 2, Wis 11, Cha 6
-  - **Skills**: Perception +9
-  - **Feats**: Endurance, Skill Focus (Perception)
-  - **Environment**: Warm plains
-  - **Organization**: Domesticated
-  - **Challenge Rating**: 1
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large Animal
+- **Hit Dice**: 3d8+9 (22 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 13 (–1 size, +1 Dex, +3 natural), touch 10, flat-footed 12
+- **Base Attack**: +2; **CMB**: +6; **CMD**: 17 (21 vs. trip)
+- **Attack**: Hoof +4 melee (1d4+3)
+- **Full Attack**: 2 hooves +4 melee (1d4+3)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: Low-light vision, scent
+- **Saves**: Fort +6, Ref +4, Will +1
+- **Abilities**: Str 16, Dex 13, Con 17, Int 2, Wis 11, Cha 6
+- **Skills**: Perception +9
+- **Feats**: Endurance, Skill Focus (Perception)
+- **Environment**: Warm plains
+- **Organization**: Domesticated
+- **Challenge Rating**: 1
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Mules are sterile crossbreeds of donkeys and horses. A mule is similar to a light horse, but slightly stronger and more agile.
 

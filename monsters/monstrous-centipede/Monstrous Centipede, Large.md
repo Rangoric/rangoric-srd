@@ -36,23 +36,23 @@ tags: [rangoric, rangoric/monster]
 
 # Monstrous Centipede, Large
 
-  - Large Vermin
-  - **Hit Dice**: 3d8 (13 hp)
-  - **Initiative**: +2
-  - **Speed**: 40 ft. (8 squares), climb 40 ft.
-  - **Armor Class**: 14 (–1 size, +2 Dex, +3 natural), touch 11, flat-footed 12
-  - **Base Attack**: +2; **CMB**: +4; **CMD**: 16 (can't be tripped)
-  - **Attack**: Bite +3 melee (1d8+1 plus poison)
-  - **Full Attack**: Bite +3 melee (1d8+1 plus poison)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: Poison
-  - **Special Qualities**: Darkvision 60 ft., vermin traits
-  - **Saves**: Fort +3, Ref +3, Will +1
-  - **Abilities**: Str 13, Dex 15, Con 10, Int —, Wis 10, Cha 2
-  - **Skills**: Athletics +2 (+10 climbing), Perception +4, Stealth +12
-  - **Feats**: Weapon FinesseB
-  - **Environment**: Underground
-  - **Organization**: Solitary or colony (2–5)
-  - **Challenge Rating**: 1
-  - **Advancement**: 4–5 HD (Large)
-  - **Level Adjustment**: —
+- Large Vermin
+- **Hit Dice**: 3d8 (13 hp)
+- **Initiative**: +2
+- **Speed**: 40 ft. (8 squares), climb 40 ft.
+- **Armor Class**: 14 (–1 size, +2 Dex, +3 natural), touch 11, flat-footed 12
+- **Base Attack**: +2; **CMB**: +4; **CMD**: 16 (can't be tripped)
+- **Attack**: Bite +3 melee (1d8+1 plus poison)
+- **Full Attack**: Bite +3 melee (1d8+1 plus poison)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: Poison
+- **Special Qualities**: Darkvision 60 ft., vermin traits
+- **Saves**: Fort +3, Ref +3, Will +1
+- **Abilities**: Str 13, Dex 15, Con 10, Int —, Wis 10, Cha 2
+- **Skills**: Athletics +2 (+10 climbing), Perception +4, Stealth +12
+- **Feats**: Weapon FinesseB
+- **Environment**: Underground
+- **Organization**: Solitary or colony (2–5)
+- **Challenge Rating**: 1
+- **Advancement**: 4–5 HD (Large)
+- **Level Adjustment**: —

@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Grothlut
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 5d8+20 (42 hp)
-  - **Initiative**: +2
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 13 (–2 Dex, +5 natural), touch 8, flat-footed 13
-  - **Base Attack**: +3; **CMB**: +5; **CMD**: 13 (can't be tripped)
-  - **Attack**: Slam +6 melee (1d6+3)
-  - **Full Attack**: 2 slams +6 melee (1d6+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Digestive Spew|Digestive spew]], [[rangoric-srd/monsters/abilities/Disgusting Demise|disgusting demise]], [[rangoric-srd/monsters/abilities/Piteous Moan|piteous moan]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Piteous Moan|piteous moan]] (30 ft.), [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and mind-affecting effects
-  - **Saves**: Fort +7, Ref –1, Will +3
-  - **Abilities**: Str 15, Dex 6, Con 18, Int 1, Wis 8, Cha 5
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10
-  - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
-  - **Environment**: Any underground
-  - **Organization**: Solitary or rout (2–10)
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 5d8+20 (42 hp)
+- **Initiative**: +2
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 13 (–2 Dex, +5 natural), touch 8, flat-footed 13
+- **Base Attack**: +3; **CMB**: +5; **CMD**: 13 (can't be tripped)
+- **Attack**: Slam +6 melee (1d6+3)
+- **Full Attack**: 2 slams +6 melee (1d6+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Digestive Spew|Digestive spew]], [[rangoric-srd/monsters/abilities/Disgusting Demise|disgusting demise]], [[rangoric-srd/monsters/abilities/Piteous Moan|piteous moan]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Piteous Moan|piteous moan]] (30 ft.), [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and mind-affecting effects
+- **Saves**: Fort +7, Ref –1, Will +3
+- **Abilities**: Str 15, Dex 6, Con 18, Int 1, Wis 8, Cha 5
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10
+- **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
+- **Environment**: Any underground
+- **Organization**: Solitary or rout (2–10)
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Grothluts are sluglike abominations with vaguely human heads and torsos, and rubbery arms that move awkwardly at their sides. They shuffle mindlessly until other creatures come into view, then piteously moan before slithering forward to attack and feed. Those moans are the last vestige of their formerly human selves crying for release as slivers of the creatures' intellects are forced to continuously relive their transformation.
 

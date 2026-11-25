@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Constrictor Snake
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 3d8+6 (19 hp)
-  - **Initiative**: +3
-  - **Speed**: 20 ft. (4 squares), climb 20 ft., swim 20 ft.
-  - **Armor Class**: 15 (+3 Dex, +2 natural), touch 13, flat-footed 12
-  - **Base Attack**: +2; **CMB**: +5 (+9 grapple); **CMD**: 18 (can't be tripped)
-  - **Attack**: Bite +5 melee (1d4+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +5 melee (1d4+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d4+4)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Scent|Scent]]
-  - **Saves**: Fort +4, Ref +6, Will +2
-  - **Abilities**: Str 17, Dex 17, Con 12, Int 1, Wis 12, Cha 2
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +11
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Warm forests, swamps, and fresh water
-  - **Organization**: Solitary or nest (2–6)
-  - **Challenge Rating**: 2
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 4–5 HD (Medium); 6–10 HD (Large)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 3d8+6 (19 hp)
+- **Initiative**: +3
+- **Speed**: 20 ft. (4 squares), climb 20 ft., swim 20 ft.
+- **Armor Class**: 15 (+3 Dex, +2 natural), touch 13, flat-footed 12
+- **Base Attack**: +2; **CMB**: +5 (+9 grapple); **CMD**: 18 (can't be tripped)
+- **Attack**: Bite +5 melee (1d4+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +5 melee (1d4+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d4+4)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Scent|Scent]]
+- **Saves**: Fort +4, Ref +6, Will +2
+- **Abilities**: Str 17, Dex 17, Con 12, Int 1, Wis 12, Cha 2
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +11
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Warm forests, swamps, and fresh water
+- **Organization**: Solitary or nest (2–6)
+- **Challenge Rating**: 2
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 4–5 HD (Medium); 6–10 HD (Large)
+- **Level Adjustment**: —
 
 Be they jungle-dwelling pythons or swamp-dwelling boas like the anaconda, constrictor snakes are among the most deadly predatory animals of the tropical wilds. Fortunately, these large snakes are relatively passive, save for when they are preparing to shed their skins or are particularly hungry. Nevertheless, the sinuous creatures are held in fear by many societies who often ascribe fiendish qualities to them.
 

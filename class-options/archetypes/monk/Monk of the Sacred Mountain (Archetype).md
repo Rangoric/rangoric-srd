@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Monk of the Sacred Mountain
 
-*A [[rangoric-srd/classes/Monk#^monk-archetypes|monk]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Monk#^monk-archetypes|monk]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 The monk of the sacred mountain finds strength and power in the earth beneath his feet. Rather than spinning though the battlefield with the fluid motion of the river, he roots himself to the ground, as immovable and unshakable as the stones of the mountain. A monk of the sacred mountain has the following class features.
 
@@ -28,8 +28,8 @@ The monk of the sacred mountain finds strength and power in the earth beneath hi
 
 **Bastion Stance (Ex)**: At 4th level, a monk of the sacred mountain becomes like stone, nearly impossible to move when he stands his ground. If the monk starts and ends his turn in the same space, he cannot be knocked [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]] or forcibly moved until the start of his next turn, except by mind-affecting or teleportation effects. At 16th level, he is immune to any attempts to force him to move, even mind-affecting and teleportation effects. This ability replaces [[rangoric-srd/classes/Monk#^monk-slow-fall|slow fall]].
 
-**Iron Limb Defense (Ex)**: At 5th level, a monk of the sacred mountain can deflect blows with an active defense that complements his bastion stance. If the monk starts and ends his turn in the same space, he gains a +2 shield bonus to AC and CMD until the start of his next turn. As a swift action, he can spend 1 *ki* point to increase this bonus to +4. This ability replaces [[rangoric-srd/classes/Monk#^monk-high-jump|high jump]].
+**Iron Limb Defense (Ex)**: At 5th level, a monk of the sacred mountain can deflect blows with an active defense that complements his bastion stance. If the monk starts and ends his turn in the same space, he gains a +2 shield bonus to AC and CMD until the start of his next turn. As a swift action, he can spend 1 _ki_ point to increase this bonus to +4. This ability replaces [[rangoric-srd/classes/Monk#^monk-high-jump|high jump]].
 
-**Adamantine Monk (Ex)**: At 9th level, a monk of the sacred mountain has muscles so strong and skin so resilient that he gains [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|DR]] 1/—. This DR increases by 1 for every three levels thereafter. As a swift action, the monk can spend 1 *ki* point to double his DR until the beginning of his next turn. This ability replaces [[rangoric-srd/classes/Monk#^monk-improved-evasion|improved evasion]].
+**Adamantine Monk (Ex)**: At 9th level, a monk of the sacred mountain has muscles so strong and skin so resilient that he gains [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|DR]] 1/—. This DR increases by 1 for every three levels thereafter. As a swift action, the monk can spend 1 _ki_ point to double his DR until the beginning of his next turn. This ability replaces [[rangoric-srd/classes/Monk#^monk-improved-evasion|improved evasion]].
 
 **Vow of Silence (Su)**: At 17th level, a monk of the sacred mountain becomes as impassive as stone, making a vow of silence in exchange for greater abilities. The monk gains a +2 insight bonus to AC and CMD and a +4 bonus on [[rangoric-srd/skills/Sense Motive|Sense Motive]], [[rangoric-srd/skills/Stealth|Stealth]], and [[rangoric-srd/skills/Perception|Perception]] checks. The monk does not lose the capacity for speech, but if he ever speaks, he loses this feature for 24 hours. This ability replaces [[rangoric-srd/classes/Monk#^monk-tongue-of-the-sun-and-moon|tongue of the sun and the moon]].

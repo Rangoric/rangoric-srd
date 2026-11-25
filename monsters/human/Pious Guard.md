@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Pious Guard
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 10d10+25 (84 hp)
-  - **Initiative**: –1
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 22 (+11 armor, +1 deflection, –1 Dex, +1 natural), touch 10, flat-footed 22
-  - **Base Attack**: +10; **CMB**: +15 (+19 disarm); **CMD**: 25 (27 vs. disarm)
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Ranseur|ranseur]] +17 melee (2d4+8/×3) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +16 melee (1d8+7/19–20)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Ranseur|ranseur]] +17/+12 melee (2d4+8/×3); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +16/+11 melee (1d8+7/19–20)
-  - **Space/Reach**: 5 ft./5 ft. (10 ft. with ranseur)
-  - **Special Attacks**: [[rangoric-srd/classes/Paladin#^paladin-channel-positive-energy|Channel positive energy]] (DC 17, 5d6), [[rangoric-srd/classes/Paladin#^paladin-smite-evil|smite evil]] 4/day (+2 attack and AC, +10 damage), [[rangoric-srd/classes/Paladin#^paladin-turn-undead|turn undead]]
-  - **Special Qualities**: [[rangoric-srd/classes/Paladin#^paladin-aura-of-courage|Aura of courage]] (10 ft.), [[rangoric-srd/classes/Paladin#^paladin-aura-of-resolve|aura of resolve]] (10 ft.), [[rangoric-srd/classes/Paladin|aura]], [[rangoric-srd/classes/Paladin#^paladin-code-of-conudct|code of conduct]], [[rangoric-srd/classes/Paladin#^paladin-divine-bond|divine bond]] (weapon +2, 2/day), [[rangoric-srd/classes/Paladin#^paladin-lay-on-hands|lay on hands]] (5d6, 7/day), [[rangoric-srd/classes/Paladin#^paladin-mercy|mercies]] ([[rangoric-srd/class-options/mercies/Cursed (Mercy)|cursed]], [[rangoric-srd/class-options/mercies/Nauseated (Mercy)|nauseated]], [[rangoric-srd/class-options/mercies/Shaken (Mercy)|shaken]]), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to charm, disease, fear and poison, [[rangoric-srd/classes/Paladin#^paladin-special-mount|special mount]], [[rangoric-srd/classes/Paladin#^paladin-remove-disease|remove disease]] 2/week
-  - **Saves**: Fort +11, Ref +4, Will +9
-  - **Abilities**: Str 20, Dex 8, Con 14, Int 14, Wis 10, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Theology|Theology]] +10
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Greater Disarm|Greater Disarm]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (ranseur)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 9
-  - **Treasure**: NPC gear (other gear: +2 full plate, +1 ranseur, masterwork longsword, amulet of natural armor +1, ring of protection +1, silver holy symbol, 450 gp)
-  - **Alignment**: Lawful good
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 10d10+25 (84 hp)
+- **Initiative**: –1
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 22 (+11 armor, +1 deflection, –1 Dex, +1 natural), touch 10, flat-footed 22
+- **Base Attack**: +10; **CMB**: +15 (+19 disarm); **CMD**: 25 (27 vs. disarm)
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Ranseur|ranseur]] +17 melee (2d4+8/×3) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +16 melee (1d8+7/19–20)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Ranseur|ranseur]] +17/+12 melee (2d4+8/×3); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +16/+11 melee (1d8+7/19–20)
+- **Space/Reach**: 5 ft./5 ft. (10 ft. with ranseur)
+- **Special Attacks**: [[rangoric-srd/classes/Paladin#^paladin-channel-positive-energy|Channel positive energy]] (DC 17, 5d6), [[rangoric-srd/classes/Paladin#^paladin-smite-evil|smite evil]] 4/day (+2 attack and AC, +10 damage), [[rangoric-srd/classes/Paladin#^paladin-turn-undead|turn undead]]
+- **Special Qualities**: [[rangoric-srd/classes/Paladin#^paladin-aura-of-courage|Aura of courage]] (10 ft.), [[rangoric-srd/classes/Paladin#^paladin-aura-of-resolve|aura of resolve]] (10 ft.), [[rangoric-srd/classes/Paladin|aura]], [[rangoric-srd/classes/Paladin#^paladin-code-of-conudct|code of conduct]], [[rangoric-srd/classes/Paladin#^paladin-divine-bond|divine bond]] (weapon +2, 2/day), [[rangoric-srd/classes/Paladin#^paladin-lay-on-hands|lay on hands]] (5d6, 7/day), [[rangoric-srd/classes/Paladin#^paladin-mercy|mercies]] ([[rangoric-srd/class-options/mercies/Cursed (Mercy)|cursed]], [[rangoric-srd/class-options/mercies/Nauseated (Mercy)|nauseated]], [[rangoric-srd/class-options/mercies/Shaken (Mercy)|shaken]]), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to charm, disease, fear and poison, [[rangoric-srd/classes/Paladin#^paladin-special-mount|special mount]], [[rangoric-srd/classes/Paladin#^paladin-remove-disease|remove disease]] 2/week
+- **Saves**: Fort +11, Ref +4, Will +9
+- **Abilities**: Str 20, Dex 8, Con 14, Int 14, Wis 10, Cha 14
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Theology|Theology]] +10
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Greater Disarm|Greater Disarm]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (ranseur)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 9
+- **Treasure**: NPC gear (other gear: +2 full plate, +1 ranseur, masterwork longsword, amulet of natural armor +1, ring of protection +1, silver holy symbol, 450 gp)
+- **Alignment**: Lawful good
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A pious guard is a [[rangoric-srd/monsters/human/Human|human]] with 10 levels of [[rangoric-srd/classes/Paladin|paladin]]. These paladins often serve as guards, or administer justice for judges and merchants who perform good works for the god of cities. Often, entire units of these paladins are formed to protect holy places in large cities.
 
@@ -75,6 +75,6 @@ A pious guard speaks Common, Dwarven, and Elven.
 
 **Base Statistics**: Without bull's strength, the paladin's statistics are **Immune** charm, disease, fear; **Melee** +1 ranseur +15/+10 (2d4+5/×3) or masterwork longsword +14/+9 (1d8+4/19-20); **Str** 16; **CMB** +13 (+17 disarm); **CMD** 23 (25 vs. disarm).
 
-**Paladin Spell-Like Abilities** (CL 10th; concentration +12): At will—*[[rangoric-srd/spells/Detect Evil|detect evil]]*.
+**Paladin Spell-Like Abilities** (CL 10th; concentration +12): At will—_[[rangoric-srd/spells/Detect Evil|detect evil]]_.
 
-**Paladin spells prepared** (CL 7th; concentration +9): 2nd—*[[rangoric-srd/spells/Bull’s Strength|bull's strength]], [[rangoric-srd/spells/Delay Poison|delay poison]]*; 1st—*[[rangoric-srd/spells/Bless|bless]]*, *[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]*, *[[rangoric-srd/spells/Protection from Evil|protection from evil]]*.
+**Paladin spells prepared** (CL 7th; concentration +9): 2nd—_[[rangoric-srd/spells/Bull’s Strength|bull's strength]], [[rangoric-srd/spells/Delay Poison|delay poison]]_; 1st—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]_, _[[rangoric-srd/spells/Protection from Evil|protection from evil]]_.

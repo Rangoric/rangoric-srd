@@ -24,15 +24,15 @@ tags: [rangoric, rangoric/spell]
 
 # Bastion of Pure Magic
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Sor/Wiz 8
-  - **Components**: V, S, M (see text)
-  - **Casting Time**: 10 minutes (see text)
-  - **Range**: Touch
-  - **Area**: 15 ft. diameter emanation centered on the caster
-  - **Effect**: One charged gem
-  - **Duration**: See text
+- **Level**: Sor/Wiz 8
+- **Components**: V, S, M (see text)
+- **Casting Time**: 10 minutes (see text)
+- **Range**: Touch
+- **Area**: 15 ft. diameter emanation centered on the caster
+- **Effect**: One charged gem
+- **Duration**: See text
 
 The material component of this spell is a spherical opal of not less than 500 gp value. This spell stores magical energy within the gem that can be later released . The gem continues to store this energy until activated or dispelled; there is no time limit. As long as the gem remains prepared, one 8th level spell slot is unavailable to the caster. Dispelling the gem’s charge has no effect on the gem and returns the spell slot (empty) to the caster.
 

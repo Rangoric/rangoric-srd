@@ -22,13 +22,13 @@ tags: [rangoric, rangoric/spell]
 
 # Widen Auras
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Apl 2, Pal 2
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 minute/level (D)
+- **Level**: Apl 2, Pal 2
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 minute/level (D)
 
 The range of your antipaladin or paladin auras doubles. For example, if you're a paladin, your aura of courage affects allies within 20 feet instead of within 10 feet.

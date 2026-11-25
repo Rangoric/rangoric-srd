@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Telekinetic Assembly
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Mag 2, Occ 2, Psy 2, Sor/Wiz 2
-  - **Components**: V, S, F (a miniature of the target [[rangoric-srd/rules/Siege Engines|siege engine]], costing 10 gp)
-  - **Casting Time**: 1 minute
-  - **Range**: Close (25 ft + 5 ft./2 levels)
-  - **Target**: One disassembled siege engine
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Mag 2, Occ 2, Psy 2, Sor/Wiz 2
+- **Components**: V, S, F (a miniature of the target [[rangoric-srd/rules/Siege Engines|siege engine]], costing 10 gp)
+- **Casting Time**: 1 minute
+- **Range**: Close (25 ft + 5 ft./2 levels)
+- **Target**: One disassembled siege engine
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You assemble a siege engine, using up to one fewer worker per two caster levels you possess. You can do without one additional worker if you have any ranks in Engineering, plus one additional worker per 5 ranks you have in that skill. If your caster level combined with Engineering fails to eliminate the need for workers, this spell fails.

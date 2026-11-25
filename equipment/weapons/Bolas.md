@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/thrown]
 
 # Bolas
 
-*Exotic ranged weapon (nonlethal, trip).* Cost 5 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Range Increment 10 ft.; Weight 2 lb.; Type Bludgeoning. ^stats
+_Exotic ranged weapon (nonlethal, trip)._ Cost 5 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Range Increment 10 ft.; Weight 2 lb.; Type Bludgeoning. ^stats
 
 You can use this weapon to make a ranged trip attack against an opponent. You can’t be tripped during your own trip attempt when using a set of bolas.

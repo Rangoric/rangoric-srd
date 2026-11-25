@@ -30,14 +30,14 @@ tags: [rangoric, rangoric/spell]
 
 # Infuse Self
 
-*Transmutation (Polymorph)*
+_Transmutation (Polymorph)_
 
-  - **Level**: Alc 3, Blr 3, Brd 3, Mag 3, Skd 3, Sor/Wiz 3
-  - **Components**: V, S, M (a piece of the creature whose form you plan to assume)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 10 \* caster level minute(s)
-  - **Spell Resistance**: No
+- **Level**: Alc 3, Blr 3, Brd 3, Mag 3, Skd 3, Sor/Wiz 3
+- **Components**: V, S, M (a piece of the creature whose form you plan to assume)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 10 \* caster level minute(s)
+- **Spell Resistance**: No
 
 When you cast this spell, you assume the form of a native outsider from the following list: aasimar, aphorite, duskwalker, fetchling, ganzi, ifrit, oread, shabti, suli, sylph, tiefling, or undine. You gain a +2 size bonus to one physical ability score of your choice. If the race has resistance to one or more energy types, you gain energy resistance 5 to your choice of one of those types. If the race gains a racial bonus on saving throws or skills, you gain those bonuses. If the race has darkvision or low-light vision, you gain those qualities.

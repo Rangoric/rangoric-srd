@@ -13,6 +13,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Increased Damage Reduction
 
-*A [[rangoric-srd/prestige-classes/Stalwart Defender#Defensive Powers|defensive power]] (Ex).*
+_A [[rangoric-srd/prestige-classes/Stalwart Defender#Defensive Powers|defensive power]] (Ex)._
 
 The defender's damage reduction from this class increases by 1/—. This increase is always active while the defender is in a defensive stance. He can select this power up to two times. Its effects stack. The defender must be at least 6th level before selecting this defensive power.

@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat]
 
 # Rapid Metabolism
 
-Your wounds heal rapidly.  
+Your wounds heal rapidly.
 
 Prerequisite: Con 13.
 

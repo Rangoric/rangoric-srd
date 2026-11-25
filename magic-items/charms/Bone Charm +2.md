@@ -18,8 +18,8 @@ tags: [rangoric, rangoric/magic-item]
 
 # Bone Charm +2
 
-*A [[rangoric-srd/magic-items/charms/Charms|charm]], worn on a [[rangoric-srd/magic-items/charms/Charm Bracelet|charm bracelet]].*
+_A [[rangoric-srd/magic-items/charms/Charms|charm]], worn on a [[rangoric-srd/magic-items/charms/Charm Bracelet|charm bracelet]]._
 
-Cut from a small bone, shaped into a small cylinder, and polished to a fine luster, a bone *charm* grants the wearer with a +2, +4, or +6 armor bonus to AC.
+Cut from a small bone, shaped into a small cylinder, and polished to a fine luster, a bone _charm_ grants the wearer with a +2, +4, or +6 armor bonus to AC.
 
-CL 3rd; [[rangoric-srd/feats/Craft Charms and Bracelets|Craft Charms and Bracelets]], *[[rangoric-srd/spells/Mage Armor|mage armor]]*; Price 4,000 gp.
+CL 3rd; [[rangoric-srd/feats/Craft Charms and Bracelets|Craft Charms and Bracelets]], _[[rangoric-srd/spells/Mage Armor|mage armor]]_; Price 4,000 gp.

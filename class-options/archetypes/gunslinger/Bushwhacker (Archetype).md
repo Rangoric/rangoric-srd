@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Bushwhacker
 
-*A [[rangoric-srd/classes/Gunslinger#^gunslinger-archetypes|gunslinger]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Kobold|kobolds]].*
+_A [[rangoric-srd/classes/Gunslinger#^gunslinger-archetypes|gunslinger]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Kobold|kobolds]]._
 
 The bushwhacker specializes in the art of the ambush. For her, gunplay works best when it comes from a concealed position and is directed against a target that falls with the very first volley and is dead before the smoke clears. A bushwhacker has the following class features.
 

@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/thrown]
 
 # Jolting Dart
 
-*Martial ranged weapon.* Cost 100 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Range Increment 20 ft.; Weight 1/2 lb.; Type Piercing. ^stats
+_Martial ranged weapon._ Cost 100 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Range Increment 20 ft.; Weight 1/2 lb.; Type Piercing. ^stats
 
 This alchemically grown crystal dart builds up an electrical charge when thrown. A creature struck by the dart takes normal piercing damage and 1d6 points of electricity damage. Anyone proficient in [[rangoric-srd/equipment/weapons/Dart|darts]] can use a jolting dart. Once thrown, the dart is destroyed.

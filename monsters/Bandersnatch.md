@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Bandersnatch
 
-  - Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 23d10+184 (310 hp)
-  - **Initiative**: +11
-  - **Speed**: 60 ft. (12 squares), climb 20 ft.
-  - **Armor Class**: 33 (+7 Dex, +20 natural, –4 size), touch 13, flat-footed 26
-  - **Base Attack**: +23; **CMB**: +40 (+44 grapple); **CMD**: 57 (65 vs. trip)
-  - **Attack**: Bite +32 melee (2d8+13 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +32 melee (2d6+13/19–20) or tail slap +32 melee (2d8+19/×3 plus pain) or 4 quills +26 (1d10+13/19–20) plus pain
-  - **Full Attack**: Bite +32 melee (2d8+13 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +32 melee (2d6+13/19–20) and tail slap +27 melee (2d8+19/×3 plus pain); or 4 quills +26 (1d10+13/19–20) plus pain
-  - **Space/Reach**: 20 ft./15 ft. (20 ft. with tail slap)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bounding Charge|Bounding charge]], [[rangoric-srd/monsters/abilities/Brutal Tail|brutal tail]], [[rangoric-srd/monsters/abilities/Gaze|gaze]], [[rangoric-srd/monsters/abilities/Lash Out|lash out]], [[rangoric-srd/monsters/abilities/Pounce|pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (4 claws, +32, 2d6+13/19-20), [[rangoric-srd/monsters/abilities/Rend|rend]] (2 claws, 2d6+19)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 120 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, [[rangoric-srd/monsters/abilities/Quick Recovery|quick recovery]], [[rangoric-srd/monsters/abilities/Quill Defense|quill defense]], [[rangoric-srd/monsters/abilities/Planar Acclimation|planar acclimation]], [[rangoric-srd/monsters/abilities/Relentless Tracker|relentless tracker]], immunity to fear, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], poison and sleep
-  - **Saves**: Fort +21, Ref +20, Will +11
-  - **Abilities**: Str 36, Dex 25, Con 27, Int 2, Wis 15, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Athletics|Athletics]] +21 (+33 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3 (+23 tracking), [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Stealth|Stealth]] +18 (+26 forests)
-  - **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Critical Mastery|Critical Mastery]], [[rangoric-srd/feats/Exhausting Critical|Exhausting Critical]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claws), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (quills), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Tiring Critical|Tiring Critical]]
-  - **Environment**: Any forests
-  - **Organization**: Solitary
-  - **Challenge Rating**: 17
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 23d10+184 (310 hp)
+- **Initiative**: +11
+- **Speed**: 60 ft. (12 squares), climb 20 ft.
+- **Armor Class**: 33 (+7 Dex, +20 natural, –4 size), touch 13, flat-footed 26
+- **Base Attack**: +23; **CMB**: +40 (+44 grapple); **CMD**: 57 (65 vs. trip)
+- **Attack**: Bite +32 melee (2d8+13 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +32 melee (2d6+13/19–20) or tail slap +32 melee (2d8+19/×3 plus pain) or 4 quills +26 (1d10+13/19–20) plus pain
+- **Full Attack**: Bite +32 melee (2d8+13 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +32 melee (2d6+13/19–20) and tail slap +27 melee (2d8+19/×3 plus pain); or 4 quills +26 (1d10+13/19–20) plus pain
+- **Space/Reach**: 20 ft./15 ft. (20 ft. with tail slap)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bounding Charge|Bounding charge]], [[rangoric-srd/monsters/abilities/Brutal Tail|brutal tail]], [[rangoric-srd/monsters/abilities/Gaze|gaze]], [[rangoric-srd/monsters/abilities/Lash Out|lash out]], [[rangoric-srd/monsters/abilities/Pounce|pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (4 claws, +32, 2d6+13/19-20), [[rangoric-srd/monsters/abilities/Rend|rend]] (2 claws, 2d6+19)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 120 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, [[rangoric-srd/monsters/abilities/Quick Recovery|quick recovery]], [[rangoric-srd/monsters/abilities/Quill Defense|quill defense]], [[rangoric-srd/monsters/abilities/Planar Acclimation|planar acclimation]], [[rangoric-srd/monsters/abilities/Relentless Tracker|relentless tracker]], immunity to fear, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], poison and sleep
+- **Saves**: Fort +21, Ref +20, Will +11
+- **Abilities**: Str 36, Dex 25, Con 27, Int 2, Wis 15, Cha 18
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Athletics|Athletics]] +21 (+33 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3 (+23 tracking), [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Stealth|Stealth]] +18 (+26 forests)
+- **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Critical Mastery|Critical Mastery]], [[rangoric-srd/feats/Exhausting Critical|Exhausting Critical]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claws), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (quills), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Tiring Critical|Tiring Critical]]
+- **Environment**: Any forests
+- **Organization**: Solitary
+- **Challenge Rating**: 17
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Bandersnatches are consummate hunters, and only the deadliest predators or the most cunning intelligent prey offer them sport. Once a bandersnatch has marked a creature for death, it runs it to ground without fear, rest, or remorse.
 
@@ -73,9 +73,9 @@ Bandersnatches mate only rarely. A female becomes fertile perhaps once or twice 
 
 Though no bandersnatch is ordinary, some are rarer than others. The most famous is the frumious bandersnatch, brimming with rage so fierce it burns. Variant bandersnatches may combine two or more of the abilities below.
 
-**Confounding Bandersnatch (+1 CR)**: Confounding bandersnatches drip infectious madness from their quills and claws. *Confounding Bandersnatch Venom*: Claws and quills—injury; *save* Fort DC 29; *frequency* 1/minute for 6 minutes; *effect* confused for 1 minute; *cure* 2 consecutive saves. The save DC is Constitution-based.
+**Confounding Bandersnatch (+1 CR)**: Confounding bandersnatches drip infectious madness from their quills and claws. _Confounding Bandersnatch Venom_: Claws and quills—injury; _save_ Fort DC 29; _frequency_ 1/minute for 6 minutes; _effect_ confused for 1 minute; _cure_ 2 consecutive saves. The save DC is Constitution-based.
 
-**Frumious Bandersnatch (+2 CR)**: A frumious bandersnatch seethes with barely repressed rage and anger. If it misses with its bite attack or falls below half of its hit points, it succumbs to such uncontrollable fury that it bursts into flame. While engulfed in these flames, a frumious bandersnatch is affected as by a *[[rangoric-srd/spells/Haste|haste]]* spell (this effect cannot be dispelled) and causes an additional 2d6 points of fire damage with each of its melee attacks and its quill defense ability. The fury lasts for 5 rounds, after which the bandersnatch cannot enter a fury again for another 5 rounds. A frumious bandersnatch has fire resistance 30.
+**Frumious Bandersnatch (+2 CR)**: A frumious bandersnatch seethes with barely repressed rage and anger. If it misses with its bite attack or falls below half of its hit points, it succumbs to such uncontrollable fury that it bursts into flame. While engulfed in these flames, a frumious bandersnatch is affected as by a _[[rangoric-srd/spells/Haste|haste]]_ spell (this effect cannot be dispelled) and causes an additional 2d6 points of fire damage with each of its melee attacks and its quill defense ability. The fury lasts for 5 rounds, after which the bandersnatch cannot enter a fury again for another 5 rounds. A frumious bandersnatch has fire resistance 30.
 
 **Lesser Bandersnatch (-4 CR)**: Smaller or younger bandersnatches are still fearsome predators in their own right. A lesser bandersnatch is Huge, with 4 fewer Hit Dice than a typical bandersnatch. Reduce its physical ability scores by 4 each and its Wisdom and Charisma by 2 each. A lesser bandersnatch lacks quick recovery and deals 1d8+4 points of damage with its quill defense and pain abilities. Lesser bandersnatches never have any additional variant powers.
 

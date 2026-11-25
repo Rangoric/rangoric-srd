@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Cursed
 
-*A [[rangoric-srd/classes/Antipaladin#^antipaladin-cruelty|cruelty]], available from 9th level.*
+_A [[rangoric-srd/classes/Antipaladin#^antipaladin-cruelty|cruelty]], available from 9th level._
 
-The target is cursed, as if the antipaladin had cast *[[rangoric-srd/spells/Bestow Curse|bestow curse]]*, using his antipaladin level as his caster level.
+The target is cursed, as if the antipaladin had cast _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_, using his antipaladin level as his caster level.

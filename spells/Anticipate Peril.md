@@ -34,15 +34,15 @@ tags: [rangoric, rangoric/spell]
 
 # Anticipate Peril
 
-*Divination*
+_Divination_
 
-  - **Level**: Alc 1, Brd 1, Hun 1, Med 1, Mes 1, Occ 1, Psy 1, Rgr 1, Skd 1, Sor/Wiz 1, Spi 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 minute/level or until activated
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Alc 1, Brd 1, Hun 1, Med 1, Mes 1, Occ 1, Psy 1, Rgr 1, Skd 1, Sor/Wiz 1, Spi 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 minute/level or until activated
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
-A creature affected by *anticipate peril* gains a preternatural sense of danger. The first time during this spell's duration that the target has to make an initiative check, the creature adds an insight bonus on that initiative check equal to the spell's caster level (maximum +5). Once this bonus applies, the effects of the spell end.
+A creature affected by _anticipate peril_ gains a preternatural sense of danger. The first time during this spell's duration that the target has to make an initiative check, the creature adds an insight bonus on that initiative check equal to the spell's caster level (maximum +5). Once this bonus applies, the effects of the spell end.

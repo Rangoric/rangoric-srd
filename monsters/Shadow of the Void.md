@@ -63,7 +63,7 @@ Organization: Solitary or gang (2-5)    
 Challenge Rating: 26      
 Treasure: None      
 Alignment: Always lawful evil      
-Advancement: 36-42 HD (Large); 43-70 HD (Huge)      
+Advancement: 36-42 HD (Large); 43-70 HD (Huge)    
 
 A shadow of the void’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
@@ -73,9 +73,9 @@ Blightfire (Su): Living creatures taking Damage from a shadow of the void’s in
 
 Create Spawn (Su): Any humanoid slain by a shadow of the void becomes a [[rangoric-srd/monsters/Winterwight (Epic)|winterwight]] in 1d4 rounds. Winterwights are under the command of the shadow of the void that created them and remain enslaved until its death. They do not possess any of the abilities they had in life, though they do possess general knowledge of the slain creature. This knowledge is used for evil purposes, if possible.
 
-Spell-Like Abilities: Caster level 24th; save DC 20 + spell level. The save DC is Charisma-based.  
+Spell-Like Abilities: Caster level 24th; save DC 20 + spell level. The save DC is Charisma-based.
 
-3/day - [[rangoric-srd/spells/Deeper Darkness|deeper darkness]], [[rangoric-srd/spells/Freezing Sphere|freezing sphere]].  
+3/day - [[rangoric-srd/spells/Deeper Darkness|deeper darkness]], [[rangoric-srd/spells/Freezing Sphere|freezing sphere]].
 
 Incorporeal Traits: Can be harmed only by other incorporeal creatures, magic weapons, or magic, with a 50% chance to ignore any Damage from a corporeal source. Can pass through solid objects at will, and own attacks pass through armor. Always moves silently.
 

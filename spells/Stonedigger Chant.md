@@ -25,17 +25,17 @@ tags: [rangoric, rangoric/spell]
 
 # Stonedigger Chant
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Brd 3, Skd 3
-  - **Components**: V, M
-  - **Casting Time**: 1 standard action
-  - **Range**: 20 ft.
-  - **Target**: All willing creatures in range
-  - **Duration**: 10 minutes/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 3, Skd 3
+- **Components**: V, M
+- **Casting Time**: 1 standard action
+- **Range**: 20 ft.
+- **Target**: All willing creatures in range
+- **Duration**: 10 minutes/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 This spell imparts upon the recipient the racial abilities of Dwarves (see the [[rangoric-srd/races/Dwarf|dwarf]] race) for the spell’s duration. They temporarily replace the character’s own racial traits. The spell does not change his appearance or size and does not modify ability scores. If he does not already have it, the character also gains a temporary fluency in the Dwarvish language that lasts for one full day. Dwarves are unaffected by this spell.
 
-*Material Components:* A strand of Dwarf beard and a handful of gravel.
+_Material Components:_ A strand of Dwarf beard and a handful of gravel.

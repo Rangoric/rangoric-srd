@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/weapon, weapon-group/thrown]
 
 # Dart
 
-*Simple ranged weapon.* Cost 5 sp; Dmg 1d3 (S), 1d4 (M); Critical x2; Range Increment 20 ft.; Weight 1/2 lb.; Type Piercing. ^stats
+_Simple ranged weapon._ Cost 5 sp; Dmg 1d3 (S), 1d4 (M); Critical x2; Range Increment 20 ft.; Weight 1/2 lb.; Type Piercing. ^stats

@@ -26,14 +26,14 @@ tags: [rangoric, rangoric/spell]
 
 # Swarm Skin
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Drd 6, Hun 6, Wit 6
-  - **Components**: V, S, M/DF (a crushed insect hive)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: See text
+- **Level**: Drd 6, Hun 6, Wit 6
+- **Components**: V, S, M/DF (a crushed insect hive)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: See text
 
 You convert all of your soft tissue into swarms of insects or other creatures and send them off to do your bidding, leaving nothing but your bones and gear behind. These swarms have all their normal qualities and abilities but also bear a tiny portion of your consciousness that allows you to perceive what they do and to control their actions. While in this form, you cannot use any of your own abilities or take any actions other than controlling the swarms.
 
@@ -42,7 +42,7 @@ Each time you cast this spell you get a total allotment of levels equal to your 
 ## Number of Levels
 
 | Number of Levels | Swarm Type(s)                |
-|------------------|------------------------------|
+| ---------------- | ---------------------------- |
 | 2 caster levels  | Spider swarm                 |
 | 4 caster levels  | Rat swarm                    |
 | 6 caster levels  | Crab swarm, wasp swarm       |

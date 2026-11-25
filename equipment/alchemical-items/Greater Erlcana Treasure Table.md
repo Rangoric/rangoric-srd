@@ -16,26 +16,26 @@ The catalog’s treasure table for this category, by treasure level: roll d% in 
 
 ## Medium
 
-| d% | Item |
-|---|---|
-| 01-25 | [[rangoric-srd/equipment/alchemical-items/Erlixir of Trees’ Voice\|Erlixir of Trees’ Voice]] |
-| 26-50 | [[rangoric-srd/equipment/alchemical-items/Cocoon Swathe, Healing\|Cocoon Swathes (healing)]] |
+| d%    | Item                                                                                           |
+| ----- | ---------------------------------------------------------------------------------------------- |
+| 01-25 | [[rangoric-srd/equipment/alchemical-items/Erlixir of Trees’ Voice\|Erlixir of Trees’ Voice]]   |
+| 26-50 | [[rangoric-srd/equipment/alchemical-items/Cocoon Swathe, Healing\|Cocoon Swathes (healing)]]   |
 | 51-75 | [[rangoric-srd/equipment/alchemical-items/Cocoon Swathe, Protection\|Cocoon Swathes (shield)]] |
-| 76-00 | [[rangoric-srd/equipment/alchemical-items/Traveler’s Swathe\|Traveler’s Swathe]] |
+| 76-00 | [[rangoric-srd/equipment/alchemical-items/Traveler’s Swathe\|Traveler’s Swathe]]               |
 
 ## Major
 
-| d% | Item |
-|---|---|
-| 01-10 | [[rangoric-srd/equipment/alchemical-items/Erlixir of Greengifting\|Erlixir of Greengifting]] |
-| 11-25 | [[rangoric-srd/equipment/alchemical-items/Erlixir of Trees’ Voice\|Erlixir of Trees’ Voice]] |
-| 26-35 | [[rangoric-srd/monsters/Erlmantle\|Erlmantle]], bonded or familiar |
+| d%    | Item                                                                                                   |
+| ----- | ------------------------------------------------------------------------------------------------------ |
+| 01-10 | [[rangoric-srd/equipment/alchemical-items/Erlixir of Greengifting\|Erlixir of Greengifting]]           |
+| 11-25 | [[rangoric-srd/equipment/alchemical-items/Erlixir of Trees’ Voice\|Erlixir of Trees’ Voice]]           |
+| 26-35 | [[rangoric-srd/monsters/Erlmantle\|Erlmantle]], bonded or familiar                                     |
 | 36-45 | [[rangoric-srd/equipment/alchemical-items/Cocoon Swathe, Greengifting\|Cocoon Swathes (greengifting)]] |
-| 46-53 | [[rangoric-srd/equipment/alchemical-items/Cocoon Swathe, Healing\|Cocoon Swathes (healing)]] |
-| 54-65 | [[rangoric-srd/equipment/alchemical-items/Cocoon Swathe, Protection\|Cocoon Swathes (shield)]] |
-| 66-70 | [[rangoric-srd/equipment/alchemical-items/Swathe Helm\|Swathe Helm]] |
-| 71-85 | [[rangoric-srd/equipment/alchemical-items/Traveler’s Swathe\|Traveler’s Swathe]] |
-| 86-95 | [[rangoric-srd/equipment/alchemical-items/Warding Swathe\|Warding Swathe]] |
-| 96-00 | [[rangoric-srd/equipment/alchemical-items/Immersive Bath\|Immersive Bath]] |
+| 46-53 | [[rangoric-srd/equipment/alchemical-items/Cocoon Swathe, Healing\|Cocoon Swathes (healing)]]           |
+| 54-65 | [[rangoric-srd/equipment/alchemical-items/Cocoon Swathe, Protection\|Cocoon Swathes (shield)]]         |
+| 66-70 | [[rangoric-srd/equipment/alchemical-items/Swathe Helm\|Swathe Helm]]                                   |
+| 71-85 | [[rangoric-srd/equipment/alchemical-items/Traveler’s Swathe\|Traveler’s Swathe]]                       |
+| 86-95 | [[rangoric-srd/equipment/alchemical-items/Warding Swathe\|Warding Swathe]]                             |
+| 96-00 | [[rangoric-srd/equipment/alchemical-items/Immersive Bath\|Immersive Bath]]                             |
 
 Also in this category, with no roll in the table: [[rangoric-srd/equipment/alchemical-items/Erlixir of Winter’s Legacy|Erlixir of Winter’s Legacy]].

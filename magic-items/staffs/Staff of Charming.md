@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/magic-item]
 
 Made of twisting wood ornately shaped and carved, this staff allows use of the following spells:
 
-  - [[rangoric-srd/spells/Charm Person|Charm person]] (1 charge)
-  - [[rangoric-srd/spells/Charm Monster|Charm monster]] (2 charges)
+- [[rangoric-srd/spells/Charm Person|Charm person]] (1 charge)
+- [[rangoric-srd/spells/Charm Monster|Charm monster]] (2 charges)
 
 Moderate enchantment; CL 8th; Craft Staff, charm person, charm monster; Price 16,500 gp.

@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Keketar
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Extraplanar, Protean, Shapechanger)
-  - **Hit Dice**: 23d10+161 (287 hp)
-  - **Initiative**: +5
-  - **Speed**: 40 ft. (8 squares), fly 40 ft. (perfect), swim 40 ft.
-  - **Armor Class**: 32 (+5 Dex, +18 natural, –1 size), touch 14, flat-footed 27
-  - **Base Attack**: +23; **CMB**: +33 (+35 bull rush, +37 grapple); **CMD**: 48 (can't be tripped)
-  - **Attack**: Bite +31 melee (4d8+9 plus warpwave) or claw +31 melee (2d6+9 plus warpwave) or tail slap +34 melee (2d8+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +31 melee (4d8+9 plus warpwave) and 2 claws +31 melee (2d6+9 plus warpwave) and tail slap +29 melee (2d8+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] 1d8+9, [[rangoric-srd/monsters/abilities/Reshape Reality|reshape reality]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, [[rangoric-srd/monsters/abilities/Spatial Riptide|spatial riptide]] (30 ft.), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Amorphous|amorphous]] anatomy, freedom of movement, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (greater polymorph), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/lawful, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and polymorph, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10 and sonic 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 28
-  - **Saves**: Fort +22, Ref +14, Will +22
-  - **Abilities**: Str 29, Dex 21, Con 24, Int 20, Wis 25, Cha 24
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +31, [[rangoric-srd/skills/Arcana|Arcana]] +31, [[rangoric-srd/skills/Athletics|Athletics]] +40, [[rangoric-srd/skills/Deception|Deception]] +33, [[rangoric-srd/skills/Intimidation|Intimidation]] +33, [[rangoric-srd/skills/Knowledge|Knowledge]] +28, [[rangoric-srd/skills/Perception|Perception]] +33, [[rangoric-srd/skills/Persuasion|Persuasion]] +33, [[rangoric-srd/skills/Stealth|Stealth]] +27, [[rangoric-srd/skills/Theology|Theology]] +31
-  - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], Empower Spell-like Ability (chaos hammer), [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], Quicken Spell-like Ability (confusion), [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-  - **Environment**: Any (a chaotic neutral-aligned plane: [[rangoric-srd/rules/planes/Limbo|Limbo]])
-  - **Organization**: Solitary or chorus (2–4)
-  - **Challenge Rating**: 17
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Extraplanar, Protean, Shapechanger)
+- **Hit Dice**: 23d10+161 (287 hp)
+- **Initiative**: +5
+- **Speed**: 40 ft. (8 squares), fly 40 ft. (perfect), swim 40 ft.
+- **Armor Class**: 32 (+5 Dex, +18 natural, –1 size), touch 14, flat-footed 27
+- **Base Attack**: +23; **CMB**: +33 (+35 bull rush, +37 grapple); **CMD**: 48 (can't be tripped)
+- **Attack**: Bite +31 melee (4d8+9 plus warpwave) or claw +31 melee (2d6+9 plus warpwave) or tail slap +34 melee (2d8+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +31 melee (4d8+9 plus warpwave) and 2 claws +31 melee (2d6+9 plus warpwave) and tail slap +29 melee (2d8+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] 1d8+9, [[rangoric-srd/monsters/abilities/Reshape Reality|reshape reality]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, [[rangoric-srd/monsters/abilities/Spatial Riptide|spatial riptide]] (30 ft.), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Amorphous|amorphous]] anatomy, freedom of movement, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (greater polymorph), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/lawful, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and polymorph, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10 and sonic 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 28
+- **Saves**: Fort +22, Ref +14, Will +22
+- **Abilities**: Str 29, Dex 21, Con 24, Int 20, Wis 25, Cha 24
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +31, [[rangoric-srd/skills/Arcana|Arcana]] +31, [[rangoric-srd/skills/Athletics|Athletics]] +40, [[rangoric-srd/skills/Deception|Deception]] +33, [[rangoric-srd/skills/Intimidation|Intimidation]] +33, [[rangoric-srd/skills/Knowledge|Knowledge]] +28, [[rangoric-srd/skills/Perception|Perception]] +33, [[rangoric-srd/skills/Persuasion|Persuasion]] +33, [[rangoric-srd/skills/Stealth|Stealth]] +27, [[rangoric-srd/skills/Theology|Theology]] +31
+- **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], Empower Spell-like Ability (chaos hammer), [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], Quicken Spell-like Ability (confusion), [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+- **Environment**: Any (a chaotic neutral-aligned plane: [[rangoric-srd/rules/planes/Limbo|Limbo]])
+- **Organization**: Solitary or chorus (2–4)
+- **Challenge Rating**: 17
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Priests and prophets, keketars are the leaders of their race, guiding proteans in their sacred mission to return all existence to primal chaos.
 
@@ -68,7 +68,7 @@ Keketars speak Abyssal and Protean.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 17th; concentration +24): Constant—*[[rangoric-srd/spells/Detect Law|detect law]]*, *[[rangoric-srd/spells/Tongues|tongues]]*; At will—*[[rangoric-srd/spells/Chaos Hammer|chaos hammer]]* (DC 21), *[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]*, *[[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (self plus 50 lbs. of objects only), *[[rangoric-srd/spells/Major Creation|major creation]]*, *[[rangoric-srd/spells/Move Earth|move earth]]*, *[[rangoric-srd/spells/Shatter|shatter]]* (DC 19); 3/day—quickened *[[rangoric-srd/spells/Confusion|confusion]]* (DC 21), *[[rangoric-srd/spells/Dispel Law|dispel law]]* (DC 22), empowered *[[rangoric-srd/spells/Chaos Hammer|chaos hammer]]* (DC 21), *[[rangoric-srd/spells/Polymorph Any Object|polymorph any object]]* (DC 25); 1/day—*[[rangoric-srd/spells/Disintegrate|disintegrate]]* (DC 23), *[[rangoric-srd/spells/Prismatic Spray|prismatic spray]]* (DC 24), *[[rangoric-srd/spells/Prismatic Sphere|prismatic sphere]]* (DC 26), *reshape reality*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 17th; concentration +24): Constant—_[[rangoric-srd/spells/Detect Law|detect law]]_, _[[rangoric-srd/spells/Tongues|tongues]]_; At will—_[[rangoric-srd/spells/Chaos Hammer|chaos hammer]]_ (DC 21), _[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]_, _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Major Creation|major creation]]_, _[[rangoric-srd/spells/Move Earth|move earth]]_, _[[rangoric-srd/spells/Shatter|shatter]]_ (DC 19); 3/day—quickened _[[rangoric-srd/spells/Confusion|confusion]]_ (DC 21), _[[rangoric-srd/spells/Dispel Law|dispel law]]_ (DC 22), empowered _[[rangoric-srd/spells/Chaos Hammer|chaos hammer]]_ (DC 21), _[[rangoric-srd/spells/Polymorph Any Object|polymorph any object]]_ (DC 25); 1/day—_[[rangoric-srd/spells/Disintegrate|disintegrate]]_ (DC 23), _[[rangoric-srd/spells/Prismatic Spray|prismatic spray]]_ (DC 24), _[[rangoric-srd/spells/Prismatic Sphere|prismatic sphere]]_ (DC 26), _reshape reality_.
 
 **[[rangoric-srd/monsters/abilities/Reshape Reality|Reshape Reality]] (Sp)**: This ability functions as the spell mirage arcana heightened to a 9th-level spell, except the changes created are quasi-real, like those created by shadow conjuration. A creature that interacts with reshaped reality may make a DC 26 Will save to see through the semi-real illusion. Terrain can provide concealment, and against foes who do not make the Will save to see through the facade, reshaped reality can provide cover. For disbelievers, quasi-real objects and terrain have only 20% normal hardness and hit points, and break DCs are 10 lower than normal. Dangerous terrain cannot exceed 5d6 points of damage per round (1d6 per round against disbelievers). This ability cannot damage existing structures, nor does it function in areas where planar travel is prohibited.
 

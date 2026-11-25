@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes]
 
 # Knuckle Axe
 
-*Exotic light melee weapon (monk, performance).* Cost 9 gp; Dmg 1d4 (S), 1d6 (M); Critical x3; Weight 2 lb.; Type Slashing. ^stats
+_Exotic light melee weapon (monk, performance)._ Cost 9 gp; Dmg 1d4 (S), 1d6 (M); Critical x3; Weight 2 lb.; Type Slashing. ^stats
 
 Knuckle axes, usually used in pairs, resemble axe blades mounted on brass knuckles. You may hold, but not wield, a weapon or other object in a hand wearing a knuckle axe. Unlike when wearing brass knuckles, you cannot use a hand wearing a knuckle axe for spellcasting.
 

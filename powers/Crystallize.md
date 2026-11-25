@@ -31,7 +31,7 @@ Target: One living creature
 Duration: Permanent  
 Saving Throw: Fortitude negates  
 Power Resistance: Yes  
-Power Points: 11  
+Power Points: 11
 
 You seed the subject’s flesh with supersaturated crystal. In an eyeblink, the subject’s form seems to freeze over, as its flesh and fluids are instantly crystallized. Following the application of this power, the subject appears lifeless. In fact, it is not dead (though no life can be detected with powers or spells that detect such).
 

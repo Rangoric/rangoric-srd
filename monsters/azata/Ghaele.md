@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ghaele
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Azata, Chaotic, Extraplanar, Good, Shapechanger)
-  - **Hit Dice**: 13d10+65 (136 hp)
-  - **Initiative**: +5
-  - **Speed**: 50 ft. (10 squares), fly 150 ft. (perfect)
-  - **Armor Class**: 28 (+4 deflection, +1 Dex, +1 dodge, +12 natural), touch 16, flat-footed 26
-  - **Base Attack**: +13; **CMB**: +20; **CMD**: 31
-  - **Attack**: +2 holy greatsword +22 melee (2d6+12) or 2 light rays +14 ranged touch (2d12)
-  - **Full Attack**: +2 holy greatsword +22/+17/+12 melee (2d6+12); or 2 light rays +14 ranged touch (2d12)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Gaze|Gaze]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., *[[rangoric-srd/spells/Detect Evil|detect evil]]*, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], *[[rangoric-srd/spells/See Invisibility|see invisibility]]*, [[rangoric-srd/spells/Holy Aura|holy aura]], light form, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron and evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25
-  - **Saves**: Fort +17, Ref +11, Will +16
-  - **Abilities**: Str 25, Dex 12, Con 20, Int 16, Wis 19, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +25, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +19, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +17, [[rangoric-srd/skills/Nature|Nature]] +16, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Persuasion|Persuasion]] +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +19
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
-  - **Environment**: A chaotic good-aligned plane
-  - **Organization**: Solitary, pair, or squad (3–6)
-  - **Challenge Rating**: 13
-  - **Treasure**: Triple (+2 holy greatsword)
-  - **Alignment**: Always chaotic good
-  - **Advancement**: 11–15 HD (Medium); 16–30 HD (Large)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Azata, Chaotic, Extraplanar, Good, Shapechanger)
+- **Hit Dice**: 13d10+65 (136 hp)
+- **Initiative**: +5
+- **Speed**: 50 ft. (10 squares), fly 150 ft. (perfect)
+- **Armor Class**: 28 (+4 deflection, +1 Dex, +1 dodge, +12 natural), touch 16, flat-footed 26
+- **Base Attack**: +13; **CMB**: +20; **CMD**: 31
+- **Attack**: +2 holy greatsword +22 melee (2d6+12) or 2 light rays +14 ranged touch (2d12)
+- **Full Attack**: +2 holy greatsword +22/+17/+12 melee (2d6+12); or 2 light rays +14 ranged touch (2d12)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Gaze|Gaze]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., _[[rangoric-srd/spells/Detect Evil|detect evil]]_, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], _[[rangoric-srd/spells/See Invisibility|see invisibility]]_, [[rangoric-srd/spells/Holy Aura|holy aura]], light form, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron and evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25
+- **Saves**: Fort +17, Ref +11, Will +16
+- **Abilities**: Str 25, Dex 12, Con 20, Int 16, Wis 19, Cha 17
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +25, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +19, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +17, [[rangoric-srd/skills/Nature|Nature]] +16, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Persuasion|Persuasion]] +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +19
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
+- **Environment**: A chaotic good-aligned plane
+- **Organization**: Solitary, pair, or squad (3–6)
+- **Challenge Rating**: 13
+- **Treasure**: Triple (+2 holy greatsword)
+- **Alignment**: Always chaotic good
+- **Advancement**: 11–15 HD (Medium); 16–30 HD (Large)
+- **Level Adjustment**: —
 
 Ghaeles are the most knightly of the azatas, hunting fiends, dragons, and undead with equal vigor. Most appear like idealized humans or elves and are quick to smile—and equally quick to strike against those they perceive as wicked.
 
@@ -74,11 +74,11 @@ Ghaeles speak Celestial, Infernal, and Draconic, but can communicate with almost
 
 Ghaeles who enter combat prefer direct confrontation and damaging attacks to more subtle or insidious methods. They usually fight in their humanoid form, wielding incandescent +2 holy greatswords. If a ghaele desires mobility, it assumes its light form and blasts the enemy with light rays.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 13th): Constant—*[[rangoric-srd/spells/Detect Evil|detect evil]]*, *[[rangoric-srd/spells/Holy Aura|holy aura]]* (DC 21), *[[rangoric-srd/spells/See Invisibility|see invisibility]]*; At will—*[[rangoric-srd/spells/Aid|aid]]*, *[[rangoric-srd/spells/Charm Monster|charm monster]]* (DC 17), *[[rangoric-srd/spells/Continual Flame|continual flame]]*, *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*, *[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]* (DC 15), *[[rangoric-srd/spells/Disguise Self|disguise self]]*, *[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, *[[rangoric-srd/spells/Hold Monster|hold monster]]* (DC 18), *[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]* (self only), *[[rangoric-srd/spells/Major Image|major image]]* (DC 16), *[[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (self plus 50 lbs. of objects only); 3/day—*[[rangoric-srd/spells/Globe of Invulnerability|globe of invulnerability]]*; 1/day—*[[rangoric-srd/spells/Chain Lightning|chain lightning]]* (DC 19), *[[rangoric-srd/spells/Prismatic Spray|prismatic spray]]* (DC 20), *[[rangoric-srd/spells/Wall of Force|wall of force]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 13th): Constant—_[[rangoric-srd/spells/Detect Evil|detect evil]]_, _[[rangoric-srd/spells/Holy Aura|holy aura]]_ (DC 21), _[[rangoric-srd/spells/See Invisibility|see invisibility]]_; At will—_[[rangoric-srd/spells/Aid|aid]]_, _[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 17), _[[rangoric-srd/spells/Continual Flame|continual flame]]_, _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 15), _[[rangoric-srd/spells/Disguise Self|disguise self]]_, _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Hold Monster|hold monster]]_ (DC 18), _[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]_ (self only), _[[rangoric-srd/spells/Major Image|major image]]_ (DC 16), _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only); 3/day—_[[rangoric-srd/spells/Globe of Invulnerability|globe of invulnerability]]_; 1/day—_[[rangoric-srd/spells/Chain Lightning|chain lightning]]_ (DC 19), _[[rangoric-srd/spells/Prismatic Spray|prismatic spray]]_ (DC 20), _[[rangoric-srd/spells/Wall of Force|wall of force]]_.
 
 **Spells**: Ghaeles cast divine spells as 13th-level [[rangoric-srd/classes/Cleric|clerics]]. They do not gain access to domains or other cleric abilities.
 
-**Spells prepared** (CL 13th): 7th—*[[rangoric-srd/spells/Holy Word|holy word]]* (DC 21); 6th—*[[rangoric-srd/spells/Banishment|banishment]]* (DC 20), *[[rangoric-srd/spells/Heal (Spell)|heal]]* (DC 20); 5th—*[[rangoric-srd/spells/Flame Strike|flame strike]]* (DC 19), *[[rangoric-srd/spells/Raise Dead|raise dead]]*, *[[rangoric-srd/spells/True Seeing|true seeing]]*; 4th—*[[rangoric-srd/spells/Death Ward|death ward]]*, *[[rangoric-srd/spells/Dismissal|dismissal]]* (2) (DC 18), *[[rangoric-srd/spells/Divine Power|divine power]]*, *[[rangoric-srd/spells/Restoration|restoration]]*; 3rd—*[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]* (3), *[[rangoric-srd/spells/Searing Light|searing light]]* (2); 2nd—*[[rangoric-srd/spells/Aid|aid]]*, *[[rangoric-srd/spells/Align Weapon|align weapon]]*, *[[rangoric-srd/spells/Bear’s Endurance|bear's endurance]]*, *[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]* (2); 1st—*[[rangoric-srd/spells/Bless|bless]]*, *[[rangoric-srd/spells/Command|command]]* (DC 15), *[[rangoric-srd/spells/Divine Favor|divine favor]]*, *[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]*, *[[rangoric-srd/spells/Shield of Faith|shield of faith]]*; 0 (at will)—*[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]*, *[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]*, *[[rangoric-srd/spells/Virtue|virtue]]*.
+**Spells prepared** (CL 13th): 7th—_[[rangoric-srd/spells/Holy Word|holy word]]_ (DC 21); 6th—_[[rangoric-srd/spells/Banishment|banishment]]_ (DC 20), _[[rangoric-srd/spells/Heal (Spell)|heal]]_ (DC 20); 5th—_[[rangoric-srd/spells/Flame Strike|flame strike]]_ (DC 19), _[[rangoric-srd/spells/Raise Dead|raise dead]]_, _[[rangoric-srd/spells/True Seeing|true seeing]]_; 4th—_[[rangoric-srd/spells/Death Ward|death ward]]_, _[[rangoric-srd/spells/Dismissal|dismissal]]_ (2) (DC 18), _[[rangoric-srd/spells/Divine Power|divine power]]_, _[[rangoric-srd/spells/Restoration|restoration]]_; 3rd—_[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]_ (3), _[[rangoric-srd/spells/Searing Light|searing light]]_ (2); 2nd—_[[rangoric-srd/spells/Aid|aid]]_, _[[rangoric-srd/spells/Align Weapon|align weapon]]_, _[[rangoric-srd/spells/Bear’s Endurance|bear's endurance]]_, _[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]_ (2); 1st—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Command|command]]_ (DC 15), _[[rangoric-srd/spells/Divine Favor|divine favor]]_, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_, _[[rangoric-srd/spells/Shield of Faith|shield of faith]]_; 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_, _[[rangoric-srd/spells/Virtue|virtue]]_.
 
 **Gaze (Su)**: In humanoid form, a ghaele's gaze attack slays evil creatures of 5 HD or less (range 60 feet, Will DC 18 negates, [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 2d10 rounds on a successful save). Nonevil creatures, and evil creatures with more than 5 HD, must succeed on a DC 18 Will save or be shaken for 2d10 rounds. A creature that saves against a ghaele's gaze is immune to that particular ghaele's gaze for 24 hours. This is a mind-affecting fear effect. The save DCs are Charisma-based.
 

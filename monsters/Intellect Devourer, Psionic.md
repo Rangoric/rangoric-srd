@@ -40,7 +40,7 @@ tags: [rangoric, rangoric/monster]
 
 # Intellect Devourer, Psionic
 
-Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^evil|Evil]], Psionic)      
+Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^evil|Evil]], Psionic)     
 **Hit Dice:** 6d8+15 (42 hp)     
 **Initiative:** +5     
 **Speed:** 40 ft. (8 squares)     
@@ -61,7 +61,7 @@ Full **Attack:** 4 claws +6 melee (1d3+1)   
 Treasure: 1/2 coins; double goods; standard items     
 **Alignment:** Always Chaotic Evil     
 **Advancement:** 7-8 HD (Small); 9-15 HD (Medium); 16-18 HD (Large)     
-**Level Adjustment:** +6     
+**Level Adjustment:** +6   
 
 Intellect devourers understand Common but must be in possession of a body to speak. An intellect devourer in possession of a body also knows the languages known by that victim.
 

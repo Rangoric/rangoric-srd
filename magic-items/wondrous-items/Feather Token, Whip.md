@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 Each of these items is a small feather that has a power to suit a special need. The kinds of tokens are described below. Each token is usable once.
 
-*Whip*: A token that forms into a huge leather whip and wields itself against any opponent desired just like a dancing weapon. The weapon has a +10 base attack bonus, does 1d6+1 points of damage, has a +1 enhancement bonus on attack and damage rolls, and a makes a free [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] attack (with a +15 bonus on its combat maneuver checks) if it hits. The whip lasts no longer than 1 hour.
+_Whip_: A token that forms into a huge leather whip and wields itself against any opponent desired just like a dancing weapon. The weapon has a +10 base attack bonus, does 1d6+1 points of damage, has a +1 enhancement bonus on attack and damage rolls, and a makes a free [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] attack (with a +15 bonus on its combat maneuver checks) if it hits. The whip lasts no longer than 1 hour.
 
 Moderate conjuration; CL 12th; Craft Wondrous Item, major creation; Price 500 gp.

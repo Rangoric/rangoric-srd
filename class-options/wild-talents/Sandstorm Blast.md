@@ -18,14 +18,14 @@ tags: [rangoric, rangoric/class-option]
 
 # Sandstorm Blast
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Elements**: [[rangoric-srd/class-options/elements/Air Element|air]] and [[rangoric-srd/class-options/elements/Earth Element|earth]]
-  - **Type**: composite blast (Sp)
-  - **Level**: —
-  - **Burn**: 2
-  - **Prerequisites**: [[rangoric-srd/class-options/wild-talents/Air Blast|air blast]], [[rangoric-srd/class-options/wild-talents/Earth Blast|earth blast]]
-  - **Blast Type**: physical
-  - **Damage**: piercing and slashing
+- **Elements**: [[rangoric-srd/class-options/elements/Air Element|air]] and [[rangoric-srd/class-options/elements/Earth Element|earth]]
+- **Type**: composite blast (Sp)
+- **Level**: —
+- **Burn**: 2
+- **Prerequisites**: [[rangoric-srd/class-options/wild-talents/Air Blast|air blast]], [[rangoric-srd/class-options/wild-talents/Earth Blast|earth blast]]
+- **Blast Type**: physical
+- **Damage**: piercing and slashing
 
 You use your air to churn up sand, firing a flensing gust at a foe.

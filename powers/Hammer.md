@@ -30,7 +30,7 @@ Psychometabolism
 **Duration:** 1 round  
 Saving Throw: None  
 Power Resistance: Yes  
-**Power Points:** 1  
+**Power Points:** 1
 
 This power charges your touch with the force of a sledgehammer. A successful melee touch attack deals 1d8 points of bludgeoning damage. This damage is not increased or decreased by your Strength modifier.
 

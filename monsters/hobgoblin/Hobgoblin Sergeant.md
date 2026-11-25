@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Hobgoblin Sergeant
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Goblinoid)
-  - **Hit Dice**: 3d10+12 (33 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 17 (+4 armor, +2 Dex, +1 shield), touch 12, flat-footed 15
-  - **Base Attack**: +3; **CMB**: +5; **CMD**: 17
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +6 melee (1d8+2/19–20) or [[rangoric-srd/equipment/weapons/Flail|flail]] +5 melee (1d8+2) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Longbow|longbow]] +6 ranged (1d8/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +6 melee (1d8+2/19–20); or [[rangoric-srd/equipment/weapons/Flail|flail]] +5 melee (1d8+2); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Longbow|longbow]] +6 ranged (1d8/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1
-  - **Saves**: Fort +6, Ref +3, Will +3 (+1 vs. fear)
-  - **Abilities**: Str 15, Dex 14, Con 16, Int 13, Wis 10, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +7
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Motivated March|Motivated March]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Temperate hills
-  - **Organization**: Solitary, or with other hobgoblins (see [[rangoric-srd/monsters/hobgoblin/Hobgoblin|Hobgoblin]])
-  - **Challenge Rating**: 2
-  - **Treasure**: NPC gear (combat gear: potion of bull's strength, alchemist's fire (2), caltrops, smokestick; other gear: masterwork chain shirt, masterwork light wooden shield, flail, masterwork longbow with 20 arrows, masterwork longsword, 187 gp)
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Goblinoid)
+- **Hit Dice**: 3d10+12 (33 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 17 (+4 armor, +2 Dex, +1 shield), touch 12, flat-footed 15
+- **Base Attack**: +3; **CMB**: +5; **CMD**: 17
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +6 melee (1d8+2/19–20) or [[rangoric-srd/equipment/weapons/Flail|flail]] +5 melee (1d8+2) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Longbow|longbow]] +6 ranged (1d8/×3)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +6 melee (1d8+2/19–20); or [[rangoric-srd/equipment/weapons/Flail|flail]] +5 melee (1d8+2); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Longbow|longbow]] +6 ranged (1d8/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1
+- **Saves**: Fort +6, Ref +3, Will +3 (+1 vs. fear)
+- **Abilities**: Str 15, Dex 14, Con 16, Int 13, Wis 10, Cha 8
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +7
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Motivated March|Motivated March]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Temperate hills
+- **Organization**: Solitary, or with other hobgoblins (see [[rangoric-srd/monsters/hobgoblin/Hobgoblin|Hobgoblin]])
+- **Challenge Rating**: 2
+- **Treasure**: NPC gear (combat gear: potion of bull's strength, alchemist's fire (2), caltrops, smokestick; other gear: masterwork chain shirt, masterwork light wooden shield, flail, masterwork longbow with 20 arrows, masterwork longsword, 187 gp)
+- **Alignment**: Usually lawful evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A hobgoblin sergeant is a [[rangoric-srd/monsters/hobgoblin/Hobgoblin|hobgoblin]] with 3 levels of [[rangoric-srd/classes/Fighter|fighter]], one of the hobgoblin overseers. It has the [[rangoric-srd/races/class-bonuses/Hobgoblin Fighter (Class Bonus)|hobgoblin fighter class bonus]]: a +1 circumstance bonus on critical hit confirmation rolls with its longsword. Trusted with a small amount of authority, each sergeant or battlefield zealot commands and keeps tabs on fewer than a dozen warriors.
 

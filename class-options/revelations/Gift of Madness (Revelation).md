@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Gift of Madness
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Outer Dark Mystery|outer dark]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Outer Dark Mystery|outer dark]] mystery._
 
 You tap into the unthinkable void between the stars and cause a single living creature within 30 feet to become confused for 1 round. A successful Will save negates the effect. This is a mind-affecting compulsion effect. At 7th level, the confusion lasts for a number of rounds equal to your oracle level. You can use this ability a number of times per day equal to 3 + your Charisma modifier.

@@ -28,7 +28,7 @@ Psychometabolism
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 round/level (D)  
-**Power Points:** 9  
+**Power Points:** 9
 
 You can readjust your body to boost one physical ability score at the expense of one or more other scores. Select one ability score you would like to boost, and increase it by the same amount that you decrease one or more other scores. All score decreases are treated as a special form of [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]], called ability burn, which cannot be magically or psionically healed - it goes away only through natural healing.
 

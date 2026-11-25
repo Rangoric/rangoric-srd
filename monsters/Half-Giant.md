@@ -39,8 +39,8 @@ tags: [rangoric, rangoric/monster]
 
 # Half-Giant
 
-Half-Giant, 1st-Level Warrior      
-Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^giant|Giant]] (Psionic)      
+Half-Giant, 1st-Level Warrior     
+Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^giant|Giant]] (Psionic)     
 **Hit Dice:** 1d10+2 (7 hp)     
 **Initiative:** -1     
 **Speed:** 30 ft. (6 squares)     
@@ -62,7 +62,7 @@ Full **Attack:** Large greatsword +4 melee (3d6+3/19-20) or Large javelin +0 ran
 Treasure: Standard     
 **Alignment:** Usually neutral good     
 **Advancement:** By character class     
-**Level Adjustment:** +1     
+**Level Adjustment:** +1   
 
 Half-giants typically stand from 7 feet to nearly 8 feet tall and weigh from 250 to 400 pounds, with men noticeably taller and heavier than women.
 
@@ -84,22 +84,22 @@ The half-giant warrior presented here had the following ability scores before ra
 
 Half-Giant characters possess the following racial traits.
 
-  - \+2 Constitution, +2 Strength, -2 Dexterity.
+- \+2 Constitution, +2 Strength, -2 Dexterity.
 
-  - Medium size.
+- Medium size.
 
-  - Half-Giant base land speed is 30 feet.
+- Half-Giant base land speed is 30 feet.
 
-  - Low-light vision.
+- Low-light vision.
 
-  - Naturally Psionic: Half-Giants gain 2 bonus power points at 1st level, regardless of whether they choose a psionic class.
+- Naturally Psionic: Half-Giants gain 2 bonus power points at 1st level, regardless of whether they choose a psionic class.
 
-  - Fire Acclimated: Half-Giants have a +2 racial bonus on saving throws against all fire spells and effects.
+- Fire Acclimated: Half-Giants have a +2 racial bonus on saving throws against all fire spells and effects.
 
-  - Powerful build (see above).
+- Powerful build (see above).
 
-  - Special Attacks (see above): Psi-like abilities.
+- Special Attacks (see above): Psi-like abilities.
 
-  - Automatic Language: Common. Bonus Language: Draconic, Giant, Gnoll, Ignan.
+- Automatic Language: Common. Bonus Language: Draconic, Giant, Gnoll, Ignan.
 
-  - Level Adjustment: +1.
+- Level Adjustment: +1.

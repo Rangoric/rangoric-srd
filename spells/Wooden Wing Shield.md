@@ -27,14 +27,14 @@ tags: [rangoric, rangoric/spell]
 
 # Wooden Wing Shield
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Blr 4, Drd 4, Hun 4, Mag 5, Sum 4, SumU 4
-  - **Components**: S
-  - **Casting Time**: 1 immediate action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level or until you move
-  - **Spell Resistance**: No
+- **Level**: Blr 4, Drd 4, Hun 4, Mag 5, Sum 4, SumU 4
+- **Components**: S
+- **Casting Time**: 1 immediate action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level or until you move
+- **Spell Resistance**: No
 
 Your wings transmute into a wooden barrier resembling a tower shield to block attacks, granting you a +4 shield bonus to AC. If you move, the spell ends immediately.

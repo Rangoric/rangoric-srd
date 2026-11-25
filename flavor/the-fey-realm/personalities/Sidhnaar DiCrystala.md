@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/flavor, flavor]
 
 # Sidhnaar DiCrystala
 
-***AKA “Master of Tolls”, “Seneschal of Doors”***
+**_AKA “Master of Tolls”, “Seneschal of Doors”_**
 
 Sidhnaar DiCrystala is a human who found himself the unwilling target of the Crystal-keeper’s affections. Unbeknownst to her then, Sidhnaar’s interests lay only with men, not women. Rather than torture her with his presence and the too-well-known pains of unrequited love, he delicately bid farewell and made his way to Market. Since those first few tumultuous days in FaerieLand, Sidhnaar has carved himself a niche in the world of the fey.
 

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Traveler's Friend
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “traveler's friend”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “traveler's friend”, on the Special Qualities line.
 
 The performances and company of a lyrakien ease the burden of travel. Once per day, a creature may spend a minute listening to a lyrakien's performance—doing so removes the effects of exhaustion and fatigue from the listener. The [[rangoric-srd/monsters/azata/Lyrakien|lyrakien]] has it.

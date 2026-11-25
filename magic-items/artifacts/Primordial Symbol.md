@@ -19,10 +19,10 @@ tags: [rangoric, rangoric/magic-item]
 
 A primordial symbol is a polished stone bearing a mystic sign like a lopsided, two-barred cross. When a bearer who can cast [[rangoric-srd/spells/Magic Overview#^psychic-magic|psychic spells]] or has the [[rangoric-srd/feats/Psychic Sensitivity|Psychic Sensitivity]] feat holds it forth and invokes it, it flares with an invisible flash in a 100-foot-radius burst, with these effects on those in range:
 
-- Creatures of 40 Hit Dice or fewer with the extraplanar subtype are returned to their home planes as though by *[[rangoric-srd/spells/Banishment|banishment]]*, regardless of spell resistance and with no save, extraplanar entities [[rangoric-srd/rules/Possession (Rules)|possessing]] other creatures included.
+- Creatures of 40 Hit Dice or fewer with the extraplanar subtype are returned to their home planes as though by _[[rangoric-srd/spells/Banishment|banishment]]_, regardless of spell resistance and with no save, extraplanar entities [[rangoric-srd/rules/Possession (Rules)|possessing]] other creatures included.
 - Non-extraplanar entities possessing other creatures, and extraplanar entities of more than 40 Hit Dice possessing other creatures, are driven out of their hosts.
 - All [[rangoric-srd/classes/Summoner#^summoner-eidolon|eidolons]], [[rangoric-srd/classes/Medium (Class)#^medium-spirits|medium spirits]] and [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-phantom|phantoms]] are dismissed.
-- All psychic spells in the area are dispelled as though by *[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]*, with no caster level check needed.
+- All psychic spells in the area are dispelled as though by _[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]_, with no caster level check needed.
 - All abjuration effects and magic circles in the area are dispelled the same way.
 - All creatures are [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1 round (Reflex DC 22 negates).
 

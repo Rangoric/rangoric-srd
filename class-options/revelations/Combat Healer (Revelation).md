@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Combat Healer
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Battle Mystery|battle]] and [[rangoric-srd/class-options/mysteries/Life Mystery|life]] mysteries.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Battle Mystery|battle]] and [[rangoric-srd/class-options/mysteries/Life Mystery|life]] mysteries._
 
 Whenever you cast a cure spell (a spell with “cure” in its name), you can cast it as a swift action, as if using the [[rangoric-srd/feats/Quicken Spell|Quicken Spell]] feat, by expending two spell slots. This does not increase the level of the spell. You can use this ability once per day at 7th level and one additional time per day for every four levels beyond 7th. You must be at least 7th level to select this revelation.

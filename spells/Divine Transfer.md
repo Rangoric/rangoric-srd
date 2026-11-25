@@ -24,15 +24,15 @@ tags: [rangoric, rangoric/spell]
 
 # Divine Transfer
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Pal 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Living creature touched
-  - **Duration**: Instantaneous + 1 round/level (see text)
-  - **Saving Throw**: Fortitude negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Pal 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Living creature touched
+- **Duration**: Instantaneous + 1 round/level (see text)
+- **Saving Throw**: Fortitude negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 With a single touch, you transfer some of your life essence to the subject, transferring your hit points and your resolve. When you touch the subject you can transfer up to a number of hit points equal to your Constitution score to the target. These hit points heal the subject, but cannot raise the subject's hit points higher than its normal hit point total. In addition, the subject gains DR/evil equal to your Charisma bonus (if any) for the duration of the spell.

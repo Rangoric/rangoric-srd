@@ -32,16 +32,16 @@ tags: [rangoric, rangoric/spell]
 
 # Dominate Animal
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Animal 3, Drd 3, Hun 3, Mes 3, Psy 4, Sha 3, Tot 3
-  - **Components**: V, S
-  - **Casting Time**: 1 round
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One animal
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Animal 3, Drd 3, Hun 3, Mes 3, Psy 4, Sha 3, Tot 3
+- **Components**: V, S
+- **Casting Time**: 1 round
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One animal
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 You can enchant an animal and direct it with simple commands such as “Attack,” “Run,” and “Fetch.” Suicidal or self-destructive commands (including an order to attack a creature two or more size categories larger than the dominated animal) are simply ignored.
 

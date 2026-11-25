@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Bleeding Wound
 
-*A [[rangoric-srd/classes/Gunslinger#^gunslinger-deeds|gunslinger deed]] (Ex), 11th level.*
+_A [[rangoric-srd/classes/Gunslinger#^gunslinger-deeds|gunslinger deed]] (Ex), 11th level._
 
 At 11th level, when the gunslinger hits a living creature with a firearm attack, she can spend 1 grit point as a free action to have that attack deal extra [[rangoric-srd/rules/conditions/Bleed (Condition)|bleed]] damage. The amount of bleed damage is equal to the gunslinger's Dexterity modifier. Alternatively, the gunslinger can spend 2 grit points to deal 1 point of Strength, Dexterity, or Constitution bleed damage (gunslinger's choice) instead. Creatures that are immune to sneak attacks are also immune to these types of bleed damage.

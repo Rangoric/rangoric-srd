@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Saguaroi
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 7d8+28 (59 hp)
-  - **Initiative**: +8
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 18 (+4 Dex, +4 natural), touch 14, flat-footed 14
-  - **Base Attack**: +5; **CMB**: +10; **CMD**: 24
-  - **Attack**: Slam +10 melee (1d6+5)
-  - **Full Attack**: 2 slams +10 melee (1d6+5)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Needle Cone|Needle cone]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (fire), [[rangoric-srd/monsters/abilities/Needle Hide|needle hide]], [[rangoric-srd/monsters/abilities/Freeze|freeze]], [[rangoric-srd/monsters/abilities/Produce Water|produce water]], [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-  - **Saves**: Fort +9, Ref +8, Will +4
-  - **Abilities**: Str 20, Dex 18, Con 18, Int 7, Wis 15, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +3
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Warm deserts
-  - **Organization**: Solitary, pair, party (3–9), or tribe (10–20)
-  - **Challenge Rating**: 5
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 7d8+28 (59 hp)
+- **Initiative**: +8
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 18 (+4 Dex, +4 natural), touch 14, flat-footed 14
+- **Base Attack**: +5; **CMB**: +10; **CMD**: 24
+- **Attack**: Slam +10 melee (1d6+5)
+- **Full Attack**: 2 slams +10 melee (1d6+5)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Needle Cone|Needle cone]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (fire), [[rangoric-srd/monsters/abilities/Needle Hide|needle hide]], [[rangoric-srd/monsters/abilities/Freeze|freeze]], [[rangoric-srd/monsters/abilities/Produce Water|produce water]], [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
+- **Saves**: Fort +9, Ref +8, Will +4
+- **Abilities**: Str 20, Dex 18, Con 18, Int 7, Wis 15, Cha 11
+- **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +3
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Warm deserts
+- **Organization**: Solitary, pair, party (3–9), or tribe (10–20)
+- **Challenge Rating**: 5
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Saguarois, also called cactusfolk by desert-dwelling humanoids, make their homes in rocky badlands, hot scrublands on the edge of vast deserts, and sandy dunes baked by the sun. They are generous but territorial, offering aid to travelers who brave the blistering deserts—often in the form of their own watery blood—but don't tolerate guests who overstay their welcome. Civilization rarely attempts to push far into the deserts, leaving these creatures relatively isolated from other intelligent races. In cases where belligerent settlements threaten the way of life for tribes of saguarois, however, the cactusfolk respond with terrifying violence.
 

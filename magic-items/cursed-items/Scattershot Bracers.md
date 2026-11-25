@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Scattershot Bracers
 
-These wristbands appear to be *bracers of archery* until they are worn. The wearer takes a –2 penalty on all ranged attack rolls. A successful *[[rangoric-srd/spells/Remove Curse|remove curse]]* spell is required before these bracers can be removed.
+These wristbands appear to be _bracers of archery_ until they are worn. The wearer takes a –2 penalty on all ranged attack rolls. A successful _[[rangoric-srd/spells/Remove Curse|remove curse]]_ spell is required before these bracers can be removed.
 
-Faint transmutation; CL 5th; Intended magic item: *[[rangoric-srd/magic-items/wondrous-items/Bracers of Archery, Greater|bracers of archery, greater]]* or *[[rangoric-srd/magic-items/wondrous-items/Bracers of Archery, Lesser|lesser]]*.
+Faint transmutation; CL 5th; Intended magic item: _[[rangoric-srd/magic-items/wondrous-items/Bracers of Archery, Greater|bracers of archery, greater]]_ or _[[rangoric-srd/magic-items/wondrous-items/Bracers of Archery, Lesser|lesser]]_.

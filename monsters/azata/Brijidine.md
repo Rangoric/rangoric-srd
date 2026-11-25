@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Brijidine
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Azata, Chaotic, Earth, Extraplanar, Fire, Good)
-  - **Hit Dice**: 19d10+152 (256 hp)
-  - **Initiative**: +5
-  - **Speed**: 40 ft. (8 squares), fly 60 ft. (good)
-  - **Armor Class**: 32 (+4 deflection, +5 Dex, +13 natural), touch 19, flat-footed 27
-  - **Base Attack**: +19; **CMB**: +24; **CMD**: 43
-  - **Attack**: +1 flaming burst keen longsword +25 melee (1d8+8/17–20 plus 1d6 fire and [[rangoric-srd/monsters/abilities/Burn|burn]]) or lava blast +24 ranged (16d6 fire plus [[rangoric-srd/monsters/abilities/Burn|burn]] and [[rangoric-srd/monsters/abilities/Entrap|entrap]])
-  - **Full Attack**: +1 flaming burst keen longsword +25/+20/+15/+10 melee (1d8+8/17–20 plus 1d6 fire and [[rangoric-srd/monsters/abilities/Burn|burn]]); or lava blast +24 ranged (16d6 fire plus [[rangoric-srd/monsters/abilities/Burn|burn]] and [[rangoric-srd/monsters/abilities/Entrap|entrap]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Entrap|Entrap]] (DC 26, instantaneous, hardness 8, hp 30), [[rangoric-srd/monsters/abilities/Burn|burn]] (2d6, DC 26), [[rangoric-srd/monsters/abilities/Trample|trample]] (1d8+7, DC 24), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Flaming Body|flaming body]], [[rangoric-srd/spells/Holy Aura|holy aura]], [[rangoric-srd/monsters/abilities/Heat Stone|heat stone]], [[rangoric-srd/monsters/abilities/Obsidian Blade|obsidian blade]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron and evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, fire and petrification, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 28, vulnerable to cold
-  - **Saves**: Fort +22, Ref +15, Will +21
-  - **Abilities**: Str 20, Dex 21, Con 24, Int 15, Wis 18, Cha 23
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Craft|Craft]] (any one) +24, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +27, [[rangoric-srd/skills/Medicine|Medicine]] +26, [[rangoric-srd/skills/Nature|Nature]] +24, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Performance|Performance]] (oratory) +25, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +26, [[rangoric-srd/skills/Theology|Theology]] +24
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Any (a chaotic good-aligned plane: [[rangoric-srd/rules/planes/Elysium|Elysium]])
-  - **Organization**: Solitary or team (2–5)
-  - **Challenge Rating**: 17
-  - **Treasure**: Double (no flammable items)
-  - **Alignment**: Usually chaotic good
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Azata, Chaotic, Earth, Extraplanar, Fire, Good)
+- **Hit Dice**: 19d10+152 (256 hp)
+- **Initiative**: +5
+- **Speed**: 40 ft. (8 squares), fly 60 ft. (good)
+- **Armor Class**: 32 (+4 deflection, +5 Dex, +13 natural), touch 19, flat-footed 27
+- **Base Attack**: +19; **CMB**: +24; **CMD**: 43
+- **Attack**: +1 flaming burst keen longsword +25 melee (1d8+8/17–20 plus 1d6 fire and [[rangoric-srd/monsters/abilities/Burn|burn]]) or lava blast +24 ranged (16d6 fire plus [[rangoric-srd/monsters/abilities/Burn|burn]] and [[rangoric-srd/monsters/abilities/Entrap|entrap]])
+- **Full Attack**: +1 flaming burst keen longsword +25/+20/+15/+10 melee (1d8+8/17–20 plus 1d6 fire and [[rangoric-srd/monsters/abilities/Burn|burn]]); or lava blast +24 ranged (16d6 fire plus [[rangoric-srd/monsters/abilities/Burn|burn]] and [[rangoric-srd/monsters/abilities/Entrap|entrap]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Entrap|Entrap]] (DC 26, instantaneous, hardness 8, hp 30), [[rangoric-srd/monsters/abilities/Burn|burn]] (2d6, DC 26), [[rangoric-srd/monsters/abilities/Trample|trample]] (1d8+7, DC 24), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Flaming Body|flaming body]], [[rangoric-srd/spells/Holy Aura|holy aura]], [[rangoric-srd/monsters/abilities/Heat Stone|heat stone]], [[rangoric-srd/monsters/abilities/Obsidian Blade|obsidian blade]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron and evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, fire and petrification, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 28, vulnerable to cold
+- **Saves**: Fort +22, Ref +15, Will +21
+- **Abilities**: Str 20, Dex 21, Con 24, Int 15, Wis 18, Cha 23
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Craft|Craft]] (any one) +24, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +27, [[rangoric-srd/skills/Medicine|Medicine]] +26, [[rangoric-srd/skills/Nature|Nature]] +24, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Performance|Performance]] (oratory) +25, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +26, [[rangoric-srd/skills/Theology|Theology]] +24
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Any (a chaotic good-aligned plane: [[rangoric-srd/rules/planes/Elysium|Elysium]])
+- **Organization**: Solitary or team (2–5)
+- **Challenge Rating**: 17
+- **Treasure**: Double (no flammable items)
+- **Alignment**: Usually chaotic good
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Brijidines are passionate, powerful azatas attuned to the powers of earth and fire. They love basking in volcanoes, writing poetry, tending to sick creatures, and pursuing spicy recipes. The quickest way to befriend a brijidine is to present her with a fireproof copy of an exotic poem or a bag of rare peppers. Though their power is tied to primal destruction, they are quick-witted and love clever wordplay, whether in a sonnet or a dirty limerick.
 
@@ -70,7 +70,7 @@ Brijidines speak Celestial, Draconic, Ignan, Infernal and Terran.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 19th; concentration +25): Constant—*[[rangoric-srd/spells/Holy Aura|holy aura]]* (DC 24); At will—*[[rangoric-srd/spells/Flaming Sphere|flaming sphere]]* (DC 18), *[[rangoric-srd/spells/Heat Metal|heat metal]]* (DC 18), *[[rangoric-srd/spells/Meld into Stone|meld into stone]]* (self only), *[[rangoric-srd/spells/Soften Earth and Stone|soften earth and stone]]*, *[[rangoric-srd/spells/Stone Shape|stone shape]]*; 5/day—*[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]*, *[[rangoric-srd/spells/Flame Strike|flame strike]]* (DC 21), *[[rangoric-srd/spells/Move Earth|move earth]]*, *[[rangoric-srd/spells/Spike Stones|spike stones]]* (DC 20), *[[rangoric-srd/spells/Stone Tell|stone tell]]*, *[[rangoric-srd/spells/Summon Nature’s Ally V|summon nature's ally V]]* (earth and fire elementals only), *[[rangoric-srd/spells/Wall of Stone|wall of stone]]* (DC 22); 3/day—*[[rangoric-srd/spells/Earthquake|earthquake]]*, *[[rangoric-srd/spells/Fire Storm|fire storm]]* (DC 23), *[[rangoric-srd/spells/Heal (Spell)|heal]]*, *[[rangoric-srd/spells/Stoneskin|stoneskin]]*, *[[rangoric-srd/spells/Wall of Fire|wall of fire]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 19th; concentration +25): Constant—_[[rangoric-srd/spells/Holy Aura|holy aura]]_ (DC 24); At will—_[[rangoric-srd/spells/Flaming Sphere|flaming sphere]]_ (DC 18), _[[rangoric-srd/spells/Heat Metal|heat metal]]_ (DC 18), _[[rangoric-srd/spells/Meld into Stone|meld into stone]]_ (self only), _[[rangoric-srd/spells/Soften Earth and Stone|soften earth and stone]]_, _[[rangoric-srd/spells/Stone Shape|stone shape]]_; 5/day—_[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]_, _[[rangoric-srd/spells/Flame Strike|flame strike]]_ (DC 21), _[[rangoric-srd/spells/Move Earth|move earth]]_, _[[rangoric-srd/spells/Spike Stones|spike stones]]_ (DC 20), _[[rangoric-srd/spells/Stone Tell|stone tell]]_, _[[rangoric-srd/spells/Summon Nature’s Ally V|summon nature's ally V]]_ (earth and fire elementals only), _[[rangoric-srd/spells/Wall of Stone|wall of stone]]_ (DC 22); 3/day—_[[rangoric-srd/spells/Earthquake|earthquake]]_, _[[rangoric-srd/spells/Fire Storm|fire storm]]_ (DC 23), _[[rangoric-srd/spells/Heal (Spell)|heal]]_, _[[rangoric-srd/spells/Stoneskin|stoneskin]]_, _[[rangoric-srd/spells/Wall of Fire|wall of fire]]_.
 
 **[[rangoric-srd/monsters/abilities/Flaming Body|Flaming Body]] (Su)**: A brijidine's body is molten rock covered in dancing flames. Anyone striking a brijidine with a natural weapon or unarmed strike takes 1d6 points of fire damage. A creature that grapples a brijidine or is grappled by one takes 6d6 points of fire damage each round the grapple persists.
 

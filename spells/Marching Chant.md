@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Marching Chant
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Brd 2, Clr 2, Skd 2
-  - **Components**: V, S
-  - **Casting Time**: 1 minute
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Targets**: One creature/level
-  - **Duration**: Concentration
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Brd 2, Clr 2, Skd 2
+- **Components**: V, S
+- **Casting Time**: 1 minute
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Targets**: One creature/level
+- **Duration**: Concentration
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 You invigorate your allies, who can hustle as long as you continue to sing or chant (which requires your concentration). This movement counts as a walk (not a hustle) for the purpose of accruing nonlethal damage and fatigue.

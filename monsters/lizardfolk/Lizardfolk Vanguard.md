@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Lizardfolk Vanguard
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Reptilian)
-  - **Hit Dice**: 2d8+1d12+12 (33 hp)
-  - **Initiative**: +2
-  - **Speed**: 40 ft. (8 squares), swim 15 ft.
-  - **Armor Class**: 17 (+2 armor, +2 Dex, +5 natural, –2 rage), touch 10, flat-footed 15
-  - **Base Attack**: +2; **CMB**: +7; **CMD**: 17
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Morningstar|morningstar]] +8 melee (1d8+5) or claw +7 melee (1d4+5) or bite +5 melee (1d6+2) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +4 ranged (1d6+5)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Morningstar|morningstar]] +8 melee (1d8+5) and bite +5 melee (1d6+2); or 2 claws +7 melee (1d4+5) and bite +5 melee (1d6+2); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +4 ranged (1d6+5)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (6 rounds/day)
-  - **Special Qualities**: [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|Fast movement]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]]
-  - **Saves**: Fort +9, Ref +2, Will +3
-  - **Abilities**: Str 21, Dex 14, Con 19, Int 9, Wis 12, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +18 (+22 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Perception|Perception]] +6
-  - **Feats**: [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Temperate swamps
-  - **Organization**: Solitary, or with other lizardfolk (see [[rangoric-srd/monsters/lizardfolk/Lizardfolk|Lizardfolk]])
-  - **Challenge Rating**: 2
-  - **Treasure**: NPC gear (combat gear: potion of cure moderate wounds; other gear: masterwork leather armor, masterwork morningstar, javelins (4), 8 gp)
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Reptilian)
+- **Hit Dice**: 2d8+1d12+12 (33 hp)
+- **Initiative**: +2
+- **Speed**: 40 ft. (8 squares), swim 15 ft.
+- **Armor Class**: 17 (+2 armor, +2 Dex, +5 natural, –2 rage), touch 10, flat-footed 15
+- **Base Attack**: +2; **CMB**: +7; **CMD**: 17
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Morningstar|morningstar]] +8 melee (1d8+5) or claw +7 melee (1d4+5) or bite +5 melee (1d6+2) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +4 ranged (1d6+5)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Morningstar|morningstar]] +8 melee (1d8+5) and bite +5 melee (1d6+2); or 2 claws +7 melee (1d4+5) and bite +5 melee (1d6+2); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +4 ranged (1d6+5)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (6 rounds/day)
+- **Special Qualities**: [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|Fast movement]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]]
+- **Saves**: Fort +9, Ref +2, Will +3
+- **Abilities**: Str 21, Dex 14, Con 19, Int 9, Wis 12, Cha 8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +18 (+22 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Perception|Perception]] +6
+- **Feats**: [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Temperate swamps
+- **Organization**: Solitary, or with other lizardfolk (see [[rangoric-srd/monsters/lizardfolk/Lizardfolk|Lizardfolk]])
+- **Challenge Rating**: 2
+- **Treasure**: NPC gear (combat gear: potion of cure moderate wounds; other gear: masterwork leather armor, masterwork morningstar, javelins (4), 8 gp)
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A lizardfolk vanguard is a [[rangoric-srd/monsters/lizardfolk/Lizardfolk|lizardfolk]] with 1 level of [[rangoric-srd/classes/Barbarian|barbarian]], one of the lizardfolk barbarians. Some warriors enter war-trances to increase their prowess.
 

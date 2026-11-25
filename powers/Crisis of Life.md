@@ -34,7 +34,7 @@ Target: One creature
 Duration: Instantaneous  
 Saving Throw: Fortitude partial; see text  
 Power Resistance: Yes  
-Power Points: 13  
+Power Points: 13
 
 You interrupt the subject’s autonomic heart rhythm, killing it instantly on a failed saving throw if it has 11 Hit Dice or less. If the target makes its saving throw or has more than 11 Hit Dice, it takes 7d6 points of damage.
 

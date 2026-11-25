@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Hoary Steed
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^cold|Cold]])
-  - **Hit Dice**: 12d10+36 (102 hp)
-  - **Initiative**: +8 (+4 Dex, +4 [[rangoric-srd/feats/Improved Initiative|Improved Initiative]])
-  - **Speed**: 40 ft., fly 90 ft. (good)
-  - **Armor Class**: 23 (-1 size, +4 Dex, +10 natural)
-  - **Base Attack**: +12; **CMB**: +19; **CMD**: 33 (37 vs. trip)
-  - **Attack**: Hoof +17 (3d6+6) melee
-  - **Full Attack**: 2 hooves +17 (3d6+6) melee, bite +15 (5d8+3) melee
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: -
-  - **Special Qualities**: Cold immunity, [[rangoric-srd/monsters/abilities/Vulnerabilities|fire vulnerability]], [[rangoric-srd/spells/Air Walk|air walk]], [[rangoric-srd/spells/Astral Projection|astral projection]] and [[rangoric-srd/spells/Etherealness|etherealness]], [[rangoric-srd/spells/Magic Circle against Good|magic circle against good]], misty breath, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 20, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 5/magic and cold iron, immunities
-  - **Saves**: Fort +11, Ref +12, Will +5
-  - **Abilities**: Str 22, Dex 18, Con 17, Int 6, Wis 13, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11 (+15 jumping), [[rangoric-srd/skills/Perception|Perception]] +20
-  - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Epic Feats**: -
-  - **Climate/Terrain**: Any cold
-  - **Organization**: Solitary (with rider)
-  - **Challenge Rating**: 9
-  - **Treasure**: None
-  - **Alignment**: Always neutral evil
-  - **Advancement**: 13-24 HD (Large); 25-36 HD (Huge)
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^cold|Cold]])
+- **Hit Dice**: 12d10+36 (102 hp)
+- **Initiative**: +8 (+4 Dex, +4 [[rangoric-srd/feats/Improved Initiative|Improved Initiative]])
+- **Speed**: 40 ft., fly 90 ft. (good)
+- **Armor Class**: 23 (-1 size, +4 Dex, +10 natural)
+- **Base Attack**: +12; **CMB**: +19; **CMD**: 33 (37 vs. trip)
+- **Attack**: Hoof +17 (3d6+6) melee
+- **Full Attack**: 2 hooves +17 (3d6+6) melee, bite +15 (5d8+3) melee
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: -
+- **Special Qualities**: Cold immunity, [[rangoric-srd/monsters/abilities/Vulnerabilities|fire vulnerability]], [[rangoric-srd/spells/Air Walk|air walk]], [[rangoric-srd/spells/Astral Projection|astral projection]] and [[rangoric-srd/spells/Etherealness|etherealness]], [[rangoric-srd/spells/Magic Circle against Good|magic circle against good]], misty breath, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 20, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 5/magic and cold iron, immunities
+- **Saves**: Fort +11, Ref +12, Will +5
+- **Abilities**: Str 22, Dex 18, Con 17, Int 6, Wis 13, Cha 14
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11 (+15 jumping), [[rangoric-srd/skills/Perception|Perception]] +20
+- **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Epic Feats**: -
+- **Climate/Terrain**: Any cold
+- **Organization**: Solitary (with rider)
+- **Challenge Rating**: 9
+- **Treasure**: None
+- **Alignment**: Always neutral evil
+- **Advancement**: 13-24 HD (Large); 25-36 HD (Huge)
 
 A hoary steed’s natural weapons are treated as magic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 

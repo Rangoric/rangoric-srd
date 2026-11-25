@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Poison Bomb
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]]\*.*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]]\*._
 
-The effects of the smoke created by an alchemist’s bomb duplicates the effects of *[[rangoric-srd/spells/Cloudkill|cloudkill]]* instead of *[[rangoric-srd/spells/Fog Cloud|fog cloud]]*, filling an area equal to twice the bomb’s splash radius for 1 round per level. An alchemist must be at least 12th level and must possess the [[rangoric-srd/class-options/discoveries/Smoke Bomb (Discovery)|smoke bomb]] discovery before selecting this discovery.
+The effects of the smoke created by an alchemist’s bomb duplicates the effects of _[[rangoric-srd/spells/Cloudkill|cloudkill]]_ instead of _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_, filling an area equal to twice the bomb’s splash radius for 1 round per level. An alchemist must be at least 12th level and must possess the [[rangoric-srd/class-options/discoveries/Smoke Bomb (Discovery)|smoke bomb]] discovery before selecting this discovery.

@@ -28,4 +28,4 @@ A curse; how afflictions work, and what each line means, is in [[rangoric-srd/ru
 - **Onset**: 1 minute
 - **Frequency**: 1/day
 - **Effect**: 1d6 Con damage and 1d6 Cha damage
-- **Cure**: only by casting both *[[rangoric-srd/spells/Remove Curse|remove curse]]* and *[[rangoric-srd/spells/Remove Disease|remove disease]]* within 1 minute of each other
+- **Cure**: only by casting both _[[rangoric-srd/spells/Remove Curse|remove curse]]_ and _[[rangoric-srd/spells/Remove Disease|remove disease]]_ within 1 minute of each other

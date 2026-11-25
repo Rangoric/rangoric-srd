@@ -36,16 +36,16 @@ tags: [rangoric, rangoric/spell]
 
 # Confusion
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Blr 4, Brd 3, Mes 3, Occ 4, Psy 4, Skd 3, Sor/Wiz 4, Spi 4, Trickery 4, Wit 4
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Targets**: All creatures in a 15-ft. radius burst
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Blr 4, Brd 3, Mes 3, Occ 4, Psy 4, Skd 3, Sor/Wiz 4, Spi 4, Trickery 4, Wit 4
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Targets**: All creatures in a 15-ft. radius burst
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 This spell causes the targets to become [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]], making them unable to independently determine what they will do.
 
@@ -61,4 +61,4 @@ Roll on the following table at the beginning of each subject’s turn each round
 
 A confused character who can’t carry out the indicated action does nothing but babble incoherently. Attackers are not at any special advantage when attacking a confused character. Any confused character who is attacked automatically attacks its attackers on its next turn, as long as it is still confused when its turn comes. Note that a confused character will not make attacks of opportunity against any creature that it is not already devoted to attacking (either because of its most recent action or because it has just been attacked).
 
-*Arcane Material Component*: A set of three nut shells.
+_Arcane Material Component_: A set of three nut shells.

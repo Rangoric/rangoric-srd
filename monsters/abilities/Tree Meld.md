@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Tree Meld
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “tree meld”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “tree meld”, on the Special Qualities line.
 
-The creature can meld with any tree, as the *[[rangoric-srd/spells/Meld into Stone|meld into stone]]* spell works, and can remain melded with a tree for as long as it wishes. The [[rangoric-srd/monsters/nymph/Hamadryad|hamadryad]], the [[rangoric-srd/monsters/Kapre|kapre]] and the [[rangoric-srd/monsters/nymph/Dryad|dryad]] have it.
+The creature can meld with any tree, as the _[[rangoric-srd/spells/Meld into Stone|meld into stone]]_ spell works, and can remain melded with a tree for as long as it wishes. The [[rangoric-srd/monsters/nymph/Hamadryad|hamadryad]], the [[rangoric-srd/monsters/Kapre|kapre]] and the [[rangoric-srd/monsters/nymph/Dryad|dryad]] have it.

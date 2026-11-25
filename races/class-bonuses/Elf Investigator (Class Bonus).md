@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Elf Investigator
 
-*An [[rangoric-srd/races/Elf|elf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Investigator#^investigator-class-bonuses|investigator]] level.*
+_An [[rangoric-srd/races/Elf|elf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Investigator#^investigator-class-bonuses|investigator]] level._
 
 Increase the total number of points in the investigator's [[rangoric-srd/classes/Investigator#^investigator-inspiration|inspiration]] pool by 1/3.

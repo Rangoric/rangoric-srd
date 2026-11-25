@@ -24,14 +24,14 @@ tags: [rangoric, rangoric/spell]
 
 # Righteous Might
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Clr 5, Inq 5, Strength 5
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level (D)
+- **Level**: Clr 5, Inq 5, Strength 5
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level (D)
 
 This spell causes you to grow, doubling your height and multiplying your weight by 8. This increase changes your size category to the next larger one, and you gain a +4 size bonus to Strength and a +2 size bonus to Constitution. You gain a +2 enhancement bonus to your natural armor. You gain [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|damage reduction]] 3/evil (if you normally channel positive energy) or damage reduction 3/good (if you normally channel negative energy). At 12th level this damage reduction becomes 6/evil or 6/good, and at 15th level it becomes 9/evil or 9/good (the maximum). Your size modifier for AC and attacks changes as appropriate to your new size category. This spell doesn’t change your speed. Determine space and reach as appropriate to your new size.
 

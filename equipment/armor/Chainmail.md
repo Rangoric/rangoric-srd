@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/armor]
 
 # Chainmail
 
-*Medium armor.* Cost 150 gp; Armor Bonus +5; Maximum Dex Bonus +2; Armor Check Penalty –5; Arcane Spell Failure 30%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 40 lb. ^stats
+_Medium armor._ Cost 150 gp; Armor Bonus +5; Maximum Dex Bonus +2; Armor Check Penalty –5; Arcane Spell Failure 30%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 40 lb. ^stats
 
 The suit includes gauntlets.

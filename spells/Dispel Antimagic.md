@@ -15,8 +15,8 @@ tags: [rangoric, rangoric/spell]
 
 # Dispel Antimagic
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Sor/Wiz 7
+- **Level**: Sor/Wiz 7
 
-As *[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]*, except that this spell may only be used to dispel antimagic effects, such as those created by the *[[rangoric-srd/spells/Antimagic Field|antimagic field]]* spell. One temporary effect can be dispelled, or one permanent effect may be suppressed for 1d4 minutes.
+As _[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]_, except that this spell may only be used to dispel antimagic effects, such as those created by the _[[rangoric-srd/spells/Antimagic Field|antimagic field]]_ spell. One temporary effect can be dispelled, or one permanent effect may be suppressed for 1d4 minutes.

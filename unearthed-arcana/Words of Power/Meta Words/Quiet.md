@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/word-of-power]
 
 # Quiet
 
-*One of the [[rangoric-srd/unearthed-arcana/Words of Power/Meta Words|meta words]] of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]].*
+_One of the [[rangoric-srd/unearthed-arcana/Words of Power/Meta Words|meta words]] of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]]._
 
 **Level** 1
 

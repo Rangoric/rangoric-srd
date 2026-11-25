@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Bloodsteel Alloy, Greater
 
-*Alchana; Special*
+_Alchana; Special_
 
 Greater bloodsteel is [[rangoric-srd/equipment/alchemical-items/Bloodsteel Alloy|bloodsteel]] refined to such an extreme degree that its effects are tied to one particular type of monster or species or race. In all ways but those noted below (including randomly generating items on the [[rangoric-srd/equipment/alchemical-items/Bloodiron Alloy|bloodiron]] table), greater bloodsteel should be viewed the same as bloodiron.
 

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Yzobu
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 2d8+4 (13 hp)
-  - **Initiative**: +1
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 13 (+1 Dex, +3 natural, –1 size), touch 10, flat-footed 12
-  - **Base Attack**: +1; **CMB**: +4; **CMD**: 15
-  - **Attack**: Gore +3 melee (1d8+3)
-  - **Full Attack**: Gore +3 melee (1d8+3)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Stampede|Stampede]], [[rangoric-srd/monsters/abilities/Trample|trample]] (1d6+3, DC 13)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Stench|stench]] (DC 13, 10 rounds)
-  - **Saves**: Fort +5, Ref +4, Will +1
-  - **Abilities**: Str 14, Dex 13, Con 14, Int 1, Wis 12, Cha 5
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +6
-  - **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (gore)
-  - **Environment**: Cold hills and plains
-  - **Organization**: Solitary, pair, or herd (3–30)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 2d8+4 (13 hp)
+- **Initiative**: +1
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 13 (+1 Dex, +3 natural, –1 size), touch 10, flat-footed 12
+- **Base Attack**: +1; **CMB**: +4; **CMD**: 15
+- **Attack**: Gore +3 melee (1d8+3)
+- **Full Attack**: Gore +3 melee (1d8+3)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Stampede|Stampede]], [[rangoric-srd/monsters/abilities/Trample|trample]] (1d6+3, DC 13)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Stench|stench]] (DC 13, 10 rounds)
+- **Saves**: Fort +5, Ref +4, Will +1
+- **Abilities**: Str 14, Dex 13, Con 14, Int 1, Wis 12, Cha 5
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +6
+- **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (gore)
+- **Environment**: Cold hills and plains
+- **Organization**: Solitary, pair, or herd (3–30)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 An yzobu is a herd animal found in cold hills, plains, and mountains. It stands roughly the height of a horse, but has a bulkier frame. Its head is more bovine, with a pair of thick, slightly curved horns protruding from the sides of its flat forehead and four smaller prongs jutting from the top. The fur of an yzobu is long and shaggy, protecting it from the harsh winters of its habitat. This pelt accumulates a pungent secretion from the yzobu's body that gives it a strong odor that those unaccustomed to the creatures find sickening.
 

@@ -24,12 +24,12 @@ Located deep beneath the Faerie Forest, the Fungal Forest is a subterranean coun
 
 **Seasons:** The seasons below ground pass largely unnoticed.
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* The deep fey are under constant attack by the forces of the Queen of Air and Darkness, who seek to win the subterranean lands and expand their dark monarch’s power.
+_Common:_ The deep fey are under constant attack by the forces of the Queen of Air and Darkness, who seek to win the subterranean lands and expand their dark monarch’s power.
 
-*Uncommon:* A river flows from the Big Rock Mountains into the depths of the Fungal Forest, providing a direct route for the forces of the Queen of Air and Darkness into the home of the strong but outnumbered deep fey.
+_Uncommon:_ A river flows from the Big Rock Mountains into the depths of the Fungal Forest, providing a direct route for the forces of the Queen of Air and Darkness into the home of the strong but outnumbered deep fey.
 
-*Rare:* The deep fey have reinforced their positions in the Fungal Forest with a honeycombed network of concealed deadfalls, narrow choke points, and dead-end false passages to help their fight.
+_Rare:_ The deep fey have reinforced their positions in the Fungal Forest with a honeycombed network of concealed deadfalls, narrow choke points, and dead-end false passages to help their fight.
 
-*Obscure:* Exotic plants and fungi grow in the fungal forest known to contain innate magical deadening qualities.
+_Obscure:_ Exotic plants and fungi grow in the fungal forest known to contain innate magical deadening qualities.

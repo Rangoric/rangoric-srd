@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Cautious Hunter
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human, Orc)
-  - **Hit Dice**: 10d8+25 (73 hp)
-  - **Initiative**: +5
-  - **Speed**: 60 ft. (12 squares)
-  - **Armor Class**: 21 (+2 armor, +1 Dex, +1 dodge, +2 monk, +2 natural, +3 Wis), touch 17, flat-footed 19
-  - **Base Attack**: +7; **CMB**: +14 (+17 bull rush); **CMD**: 28 (30 vs. bull rush)
-  - **Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +11 melee (1d10+4) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Falchion|falchion]] +12 melee (2d4+6/18–20) or unarmed strike flurry of blows +12 melee (1d10+4) or [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +8 ranged (1d10/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +11/+6 melee (1d10+4); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Falchion|falchion]] +12/+7 melee (2d4+6/18–20); or unarmed strike flurry of blows +12/+12/+7/+7 melee (1d10+4); or [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +8 ranged (1d10/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (10/day, DC 18)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., *[[rangoric-srd/spells/See Invisibility|see invisibility]]*, [[rangoric-srd/classes/Monk#^monk-improved-evasion|improved evasion]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/classes/Monk#^monk-fast-movement|fast movement]], [[rangoric-srd/classes/Monk#^monk-high-jump|high jump]], [[rangoric-srd/classes/Monk#^monk-ki-pool|ki pool]] (10 points, lawful, magic), [[rangoric-srd/classes/Monk#^monk-maneuver-training|maneuver training]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/classes/Monk#^monk-purity-of-body|purity of body]], [[rangoric-srd/classes/Monk#^monk-slow-fall|slow fall]] 50 ft., [[rangoric-srd/races/Half-Orc|weapon familiarity]], [[rangoric-srd/classes/Monk#^monk-wholeness-of-body|wholeness of body]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease
-  - **Saves**: Fort +9, Ref +8, Will +10 (+2 vs. enchantments)
-  - **Abilities**: Str 18, Dex 12, Con 14, Int 10, Wis 16, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +12 (+34 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +19
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Extra Ki|Extra Ki]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Medusa's Wrath|Medusa's Wrath]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Scorpion Style|Scorpion Style]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-  - **Environment**: Temperate hills, mountains, or underground
-  - **Organization**: Solitary, or with other half-orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])
-  - **Challenge Rating**: 9
-  - **Treasure**: NPC gear (combat gear: potions of barkskin (2), potions of cure moderate wounds (2), potion of see invisibility; other gear: heavy crossbow with 20 bolts, masterwork falchion, belt of giant strength +2, bracers of armor +2, cloak of elvenkind, masterwork manacles, 195 gp)
-  - **Alignment**: Lawful evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human, Orc)
+- **Hit Dice**: 10d8+25 (73 hp)
+- **Initiative**: +5
+- **Speed**: 60 ft. (12 squares)
+- **Armor Class**: 21 (+2 armor, +1 Dex, +1 dodge, +2 monk, +2 natural, +3 Wis), touch 17, flat-footed 19
+- **Base Attack**: +7; **CMB**: +14 (+17 bull rush); **CMD**: 28 (30 vs. bull rush)
+- **Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +11 melee (1d10+4) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Falchion|falchion]] +12 melee (2d4+6/18–20) or unarmed strike flurry of blows +12 melee (1d10+4) or [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +8 ranged (1d10/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +11/+6 melee (1d10+4); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Falchion|falchion]] +12/+7 melee (2d4+6/18–20); or unarmed strike flurry of blows +12/+12/+7/+7 melee (1d10+4); or [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +8 ranged (1d10/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (10/day, DC 18)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., _[[rangoric-srd/spells/See Invisibility|see invisibility]]_, [[rangoric-srd/classes/Monk#^monk-improved-evasion|improved evasion]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/classes/Monk#^monk-fast-movement|fast movement]], [[rangoric-srd/classes/Monk#^monk-high-jump|high jump]], [[rangoric-srd/classes/Monk#^monk-ki-pool|ki pool]] (10 points, lawful, magic), [[rangoric-srd/classes/Monk#^monk-maneuver-training|maneuver training]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/classes/Monk#^monk-purity-of-body|purity of body]], [[rangoric-srd/classes/Monk#^monk-slow-fall|slow fall]] 50 ft., [[rangoric-srd/races/Half-Orc|weapon familiarity]], [[rangoric-srd/classes/Monk#^monk-wholeness-of-body|wholeness of body]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease
+- **Saves**: Fort +9, Ref +8, Will +10 (+2 vs. enchantments)
+- **Abilities**: Str 18, Dex 12, Con 14, Int 10, Wis 16, Cha 8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +12 (+34 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +19
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Extra Ki|Extra Ki]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Medusa's Wrath|Medusa's Wrath]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Scorpion Style|Scorpion Style]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+- **Environment**: Temperate hills, mountains, or underground
+- **Organization**: Solitary, or with other half-orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])
+- **Challenge Rating**: 9
+- **Treasure**: NPC gear (combat gear: potions of barkskin (2), potions of cure moderate wounds (2), potion of see invisibility; other gear: heavy crossbow with 20 bolts, masterwork falchion, belt of giant strength +2, bracers of armor +2, cloak of elvenkind, masterwork manacles, 195 gp)
+- **Alignment**: Lawful evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A cautious hunter is a [[rangoric-srd/monsters/orc/Orc#Half-Orcs|half-orc]] with 10 levels of [[rangoric-srd/classes/Monk|monk]]. These monks often serve as enforcers and bounty hunters for monastic orders or lawful lords, tracking down those in need of punishment.
 

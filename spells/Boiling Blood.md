@@ -30,16 +30,16 @@ tags: [rangoric, rangoric/spell]
 
 # Boiling Blood
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Blr 2, Brd 2, Clr 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Targets**: One creature per three levels, no two of which may be more than 30 ft. apart
-  - **Duration**: Concentration + 1 round/level (D)
-  - **Saving Throw**: Fortitude negates (see text)
-  - **Spell Resistance**: Yes
+- **Level**: Blr 2, Brd 2, Clr 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Targets**: One creature per three levels, no two of which may be more than 30 ft. apart
+- **Duration**: Concentration + 1 round/level (D)
+- **Saving Throw**: Fortitude negates (see text)
+- **Spell Resistance**: Yes
 
 The blood of the targeted creatures begins to boil. If a target fails its save, it takes 1 point of fire damage per round. This spell has no effect on creatures that don't have blood.
 

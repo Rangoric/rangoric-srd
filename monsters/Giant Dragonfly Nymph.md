@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Giant Dragonfly Nymph
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]] (Aquatic)
-  - **Hit Dice**: 5d8+10 (32 hp)
-  - **Initiative**: +1
-  - **Speed**: 10 ft. (2 squares), swim 30 ft.
-  - **Armor Class**: 15 (+1 Dex, +3 natural, +1 size), touch 12, flat-footed 14
-  - **Base Attack**: +3; **CMB**: +4; **CMD**: 15 (23 vs. trip)
-  - **Attack**: Bite +6 melee (2d6+3)
-  - **Full Attack**: Bite +6 melee (2d6+3)
-  - **Space/Reach**: 5 ft./5 ft. (10 ft. with bite)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Extending Jaw|Extending jaw]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-  - **Saves**: Fort +6, Ref +2, Will +2
-  - **Abilities**: Str 15, Dex 13, Con 14, Int —, Wis 12, Cha 5
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +5 (+13 in shallow water)
-  - **Feats**: —
-  - **Environment**: Temperate or warm water
-  - **Organization**: Solitary, pair, or brood (3–8)
-  - **Challenge Rating**: 3
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]] (Aquatic)
+- **Hit Dice**: 5d8+10 (32 hp)
+- **Initiative**: +1
+- **Speed**: 10 ft. (2 squares), swim 30 ft.
+- **Armor Class**: 15 (+1 Dex, +3 natural, +1 size), touch 12, flat-footed 14
+- **Base Attack**: +3; **CMB**: +4; **CMD**: 15 (23 vs. trip)
+- **Attack**: Bite +6 melee (2d6+3)
+- **Full Attack**: Bite +6 melee (2d6+3)
+- **Space/Reach**: 5 ft./5 ft. (10 ft. with bite)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Extending Jaw|Extending jaw]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
+- **Saves**: Fort +6, Ref +2, Will +2
+- **Abilities**: Str 15, Dex 13, Con 14, Int —, Wis 12, Cha 5
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +5 (+13 in shallow water)
+- **Feats**: —
+- **Environment**: Temperate or warm water
+- **Organization**: Solitary, pair, or brood (3–8)
+- **Challenge Rating**: 3
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Giant dragonflies lay clutches of eggs in swampy terrain or areas of standing water. Their young, called nymphs, voraciously eat carrion and small prey, growing and maturing rapidly until they sprout fully functional wings and become adult dragonflies.
 

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Vulnerable to Bleed
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “vulnerable to bleed”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “vulnerable to bleed”, on the Special Qualities line.
 
 Bleed effects, blood drain, and attacks that target a creature's blood affect a blood golem normally. The golem can spend a full-round action to harden its clotted outer shell to end a bleed effect. The [[rangoric-srd/monsters/golem/Blood Golem|blood golem]] has it.

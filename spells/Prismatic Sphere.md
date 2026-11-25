@@ -20,12 +20,12 @@ tags: [rangoric, rangoric/spell]
 
 # Prismatic Sphere
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Protection 9, Sor/Wiz 9, Sun 9
-  - **Components**: V
-  - **Range**: 10 ft.
-  - **Effect**: 10-ft.-radius sphere centered on you
+- **Level**: Protection 9, Sor/Wiz 9, Sun 9
+- **Components**: V
+- **Range**: 10 ft.
+- **Effect**: 10-ft.-radius sphere centered on you
 
 This spell functions like [[rangoric-srd/spells/Prismatic Wall|prismatic wall]], except you conjure up an immobile, opaque globe of shimmering, multicolored light that surrounds you and protects you from all forms of attack. The sphere flashes in all colors of the visible spectrum.
 

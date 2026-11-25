@@ -75,7 +75,7 @@ The first challenge, preparing the vessel, sets some base statistics for the new
 
 **Time**: Challenges may add or subtract the number of remaining days of work required to create the item. When this happens, adjust the timing of challenges accordingly. The total number of days of work can never decrease below 1, nor can it decrease below the number of days the characters have already spent crafting the item. For example, if on day 3 of a 5-day process a successful challenge decreases the time by 1 day, the final challenge will happen on day 4 instead. But if the result says to decrease the time by 3 days, the PC is instead able to attempt the final challenge immediately.
 
-**Perks, Quirks, and Flaws**: A challenge may add a beneficial perk, a somewhat neutral quirk, or a detrimental flaw to the item. These three types of adjustments give an item a distinct flavor that sets it apart from others of its kind. The GM should secretly roll for perks, quirks, and flaws as they occur, rerolling duplicate or contradictory results. *[[rangoric-srd/spells/Detect Magic|detect magic]]* and *[[rangoric-srd/spells/Identify|identify]]* typically don't reveal an item's perks, quirks, and flaws; *[[rangoric-srd/spells/Analyze Dweomer|analyze dweomer]]* does, though only once the item is complete.
+**Perks, Quirks, and Flaws**: A challenge may add a beneficial perk, a somewhat neutral quirk, or a detrimental flaw to the item. These three types of adjustments give an item a distinct flavor that sets it apart from others of its kind. The GM should secretly roll for perks, quirks, and flaws as they occur, rerolling duplicate or contradictory results. _[[rangoric-srd/spells/Detect Magic|detect magic]]_ and _[[rangoric-srd/spells/Identify|identify]]_ typically don't reveal an item's perks, quirks, and flaws; _[[rangoric-srd/spells/Analyze Dweomer|analyze dweomer]]_ does, though only once the item is complete.
 
 **Destruction**: A few challenges can, if critically failed, destroy the in-progress item, which costs the PCs their current investment. Such challenges come with enticing benefits for critically succeeding, making them potentially worth the risk.
 
@@ -127,32 +127,32 @@ You put the finishing touches on the item.
 
 The Game Master should roll on the table below to determine which challenges the player characters face while making the item. Alternatively, the GM can instead choose a particular challenge based on the circumstances of the campaign.
 
-| d%     | Challenge                                                                                                   |
-| ------ | ----------------------------------------------------------------------------------------------------------- |
-| 01–04  | [[#Aberrant Mutation\|Aberrant mutation]]                   |
-| 05–08  | [[#Challenging Construction\|Challenging construction]]            |
-| 09–12  | [[#Contradictory Instructions\|Contradictory instructions]]          |
-| 13–16  | [[#Cryptic Cross-Reference\|Cryptic cross-reference]]             |
-| 17–20  | [[#Distracting Visitor\|Distracting visitor]]                 |
-| 21–24  | [[#Emotion Requirement\|Emotion requirement]]                 |
-| 25–28  | [[#Energy Overload\|Energy overload]]                     |
-| 29–32  | [[#Enticing Offer\|Enticing offer]]                      |
-| 33–36  | [[#Fragile Components\|Fragile components]]                  |
-| 37–40  | [[#Historic Stumbling Block\|Historic stumbling block]]            |
-| 41–44  | [[#Illegal Ingredients\|Illegal ingredients]]                 |
-| 45–48  | [[#Infested Ingredients\|Infested ingredients]]                |
+| d%     | Challenge                                                                     |
+| ------ | ----------------------------------------------------------------------------- |
+| 01–04  | [[#Aberrant Mutation\|Aberrant mutation]]                                     |
+| 05–08  | [[#Challenging Construction\|Challenging construction]]                       |
+| 09–12  | [[#Contradictory Instructions\|Contradictory instructions]]                   |
+| 13–16  | [[#Cryptic Cross-Reference\|Cryptic cross-reference]]                         |
+| 17–20  | [[#Distracting Visitor\|Distracting visitor]]                                 |
+| 21–24  | [[#Emotion Requirement\|Emotion requirement]]                                 |
+| 25–28  | [[#Energy Overload\|Energy overload]]                                         |
+| 29–32  | [[#Enticing Offer\|Enticing offer]]                                           |
+| 33–36  | [[#Fragile Components\|Fragile components]]                                   |
+| 37–40  | [[#Historic Stumbling Block\|Historic stumbling block]]                       |
+| 41–44  | [[#Illegal Ingredients\|Illegal ingredients]]                                 |
+| 45–48  | [[#Infested Ingredients\|Infested ingredients]]                               |
 | 49–52  | [[#Ingredients Develop Quasi-Sentience\|Ingredients develop quasi-sentience]] |
-| 53–56  | [[#Intrusive Spirit\|Intrusive spirit]]                    |
-| 57–60  | [[#Ley Line Convergence\|Ley line convergence]]                |
-| 61–64  | [[#Magical Resonance\|Magical resonance]]                   |
-| 65–68  | [[#Planar Peculiarity\|Planar peculiarity]]                  |
-| 69–72  | [[#Rare Reference\|Rare reference]]                      |
-| 73–76  | [[#Reagent Shortage\|Reagent shortage]]                    |
-| 77–80  | [[#Regal Requisite\|Regal requisite]]                     |
-| 81–84  | [[#Sesquipedalian Elucidation\|Sesquipedalian elucidation]]          |
-| 85–88  | [[#Structural Flaw\|Structural flaw]]                     |
-| 89–92  | [[#Sudden Inspiration\|Sudden inspiration]]                  |
-| 93–100 | Class-specific challenge            |
+| 53–56  | [[#Intrusive Spirit\|Intrusive spirit]]                                       |
+| 57–60  | [[#Ley Line Convergence\|Ley line convergence]]                               |
+| 61–64  | [[#Magical Resonance\|Magical resonance]]                                     |
+| 65–68  | [[#Planar Peculiarity\|Planar peculiarity]]                                   |
+| 69–72  | [[#Rare Reference\|Rare reference]]                                           |
+| 73–76  | [[#Reagent Shortage\|Reagent shortage]]                                       |
+| 77–80  | [[#Regal Requisite\|Regal requisite]]                                         |
+| 81–84  | [[#Sesquipedalian Elucidation\|Sesquipedalian elucidation]]                   |
+| 85–88  | [[#Structural Flaw\|Structural flaw]]                                         |
+| 89–92  | [[#Sudden Inspiration\|Sudden inspiration]]                                   |
+| 93–100 | Class-specific challenge                                                      |
 
 ### Aberrant Mutation
 
@@ -618,16 +618,16 @@ You are struck with a sudden stroke of brilliance and alter the creation process
 
 To generate a class-specific challenge, determine which of the following challenges applies to at least one creator working on the item and pick one randomly from among those options. If none of these applies, choose a fitting challenge from the previous section (such as [[#Illegal Ingredients|illegal ingredients]] for a rogue or [[#Rare Reference|rare reference]] for a wizard).
 
-| Challenge                                                                                         | Appropriate Creators                                                                                                       |
-| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| [[#Crisis of Faith\|Crisis of faith]]           | Divine spellcaster with a patron deity                                                                                     |
-| [[#Instability from Within\|Instability from within]]   | Spellcaster who draws power from within, such as an oracle or a sorcerer                                                   |
-| [[#Natural Disaster\|Natural disaster]]          | Creator with a connection to nature, such as a druid or a ranger                                                           |
-| [[#Natural Wonder\|Natural wonder]]            | Creator with a connection to nature, such as a druid or a ranger                                                           |
-| [[#Otherworldly Aid\|Otherworldly aid]]          | Creator with a connection to outsiders, spirits, a patron, or a curse, such as an infernal sorcerer, an oracle, or a witch |
+| Challenge                                                 | Appropriate Creators                                                                                                       |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| [[#Crisis of Faith\|Crisis of faith]]                     | Divine spellcaster with a patron deity                                                                                     |
+| [[#Instability from Within\|Instability from within]]     | Spellcaster who draws power from within, such as an oracle or a sorcerer                                                   |
+| [[#Natural Disaster\|Natural disaster]]                   | Creator with a connection to nature, such as a druid or a ranger                                                           |
+| [[#Natural Wonder\|Natural wonder]]                       | Creator with a connection to nature, such as a druid or a ranger                                                           |
+| [[#Otherworldly Aid\|Otherworldly aid]]                   | Creator with a connection to outsiders, spirits, a patron, or a curse, such as an infernal sorcerer, an oracle, or a witch |
 | [[#Otherworldly Interference\|Otherworldly interference]] | Creator with a connection to outsiders, spirits, a patron, or a curse, such as an infernal sorcerer, an oracle, or a witch |
-| [[#Personal Surge\|Personal surge]]            | Spellcaster who draws power from within, such as an oracle or a sorcerer                                                   |
-| [[#Sign from the Gods\|Sign from the gods]]        | Divine spellcaster with a patron deity                                                                                     |
+| [[#Personal Surge\|Personal surge]]                       | Spellcaster who draws power from within, such as an oracle or a sorcerer                                                   |
+| [[#Sign from the Gods\|Sign from the gods]]               | Divine spellcaster with a patron deity                                                                                     |
 
 ### Crisis of Faith
 
@@ -793,35 +793,35 @@ During the creation process, you receive signs that indicate your patron's favor
 
 Perks are beneficial adjustments to an item, often gained from critical success at a challenge. The strongest perks tend to have the highest numbers on the table below. Reroll duplicates and perks that don't fit the item. Feel free to invent your own perks or apply an appropriate perk without rolling.
 
-| d% | Perk |
-| --- | --- |
-| 01–04 | Lightweight |
-| 05–08 | Durable |
-| 09–12 | Impervious |
-| 13–16 | Energy-kissed |
-| 17–20 | Sacred<sup>1</sup> |
-| 21–24 | Faithful<sup>1</sup> |
-| 25–28 | Shielding |
-| 29–32 | Tentacled touch<sup>2</sup> |
-| 33–36 | Inscribed |
-| 37–40 | Eager |
-| 41–44 | Enemy glow |
-| 45–48 | Hated Foe<sup>3</sup> |
-| 49–52 | Skillful |
-| 53–56 | Exemplar<sup>4</sup> |
-| 57–60 | Unassuming |
-| 61–64 | Lucky |
-| 65–68 | Draconic |
-| 69–72 | Mindlinked<sup>5</sup> |
-| 73–76 | Messenger |
-| 77–79 | Healthful |
-| 80–82 | Energetic<sup>3</sup> |
-| 83–85 | Lunar |
-| 86–88 | Solar |
-| 89–91 | Potent |
-| 92–94 | Spying |
-| 95–97 | Resizing |
-| 98–100 | Egoistic<sup>3</sup> |
+| d%     | Perk                        |
+| ------ | --------------------------- |
+| 01–04  | Lightweight                 |
+| 05–08  | Durable                     |
+| 09–12  | Impervious                  |
+| 13–16  | Energy-kissed               |
+| 17–20  | Sacred<sup>1</sup>          |
+| 21–24  | Faithful<sup>1</sup>        |
+| 25–28  | Shielding                   |
+| 29–32  | Tentacled touch<sup>2</sup> |
+| 33–36  | Inscribed                   |
+| 37–40  | Eager                       |
+| 41–44  | Enemy glow                  |
+| 45–48  | Hated Foe<sup>3</sup>       |
+| 49–52  | Skillful                    |
+| 53–56  | Exemplar<sup>4</sup>        |
+| 57–60  | Unassuming                  |
+| 61–64  | Lucky                       |
+| 65–68  | Draconic                    |
+| 69–72  | Mindlinked<sup>5</sup>      |
+| 73–76  | Messenger                   |
+| 77–79  | Healthful                   |
+| 80–82  | Energetic<sup>3</sup>       |
+| 83–85  | Lunar                       |
+| 86–88  | Solar                       |
+| 89–91  | Potent                      |
+| 92–94  | Spying                      |
+| 95–97  | Resizing                    |
+| 98–100 | Egoistic<sup>3</sup>        |
 
 <sup>1</sup> Creator must have levels in a divine spellcasting class and have a patron deity.
 
@@ -847,7 +847,7 @@ Perks are beneficial adjustments to an item, often gained from critical success 
 
 **Energy-Kissed**: The item is immune to a random type of energy, but doesn't grant this immunity to its bearer.
 
-**Exemplar**: The item is a perfect example of its kind, granting advantages against similar items. Exemplar weapons grant a +1 AC bonus against other weapons of that type (such as longswords), armors grant a +1 bonus on attack rolls against enemies wearing that type of armor (such as breastplates), and activated items grant a +1 bonus on saving throws against other items of that exact function (so a *[[rangoric-srd/magic-items/staffs/Staff of Fire|staff of fire]]* would grant its benefit against other *staves of fire*, but not against any other staves).
+**Exemplar**: The item is a perfect example of its kind, granting advantages against similar items. Exemplar weapons grant a +1 AC bonus against other weapons of that type (such as longswords), armors grant a +1 bonus on attack rolls against enemies wearing that type of armor (such as breastplates), and activated items grant a +1 bonus on saving throws against other items of that exact function (so a _[[rangoric-srd/magic-items/staffs/Staff of Fire|staff of fire]]_ would grant its benefit against other _staves of fire_, but not against any other staves).
 
 **Faithful**: The item's caster level is treated as 1 higher when its effects benefit the faithful of its creator's patron deity or when used against worshipers of one faith hated by that deity (selected by the creator if the patron hates multiple faiths). The item also gains a +1 bonus on damage rolls against hated worshipers. If more than one creator qualifies, the creators must choose one of their patrons.
 
@@ -863,9 +863,9 @@ Perks are beneficial adjustments to an item, often gained from critical success 
 
 **Lucky**: Each day, there's a 50% chance the item grants its bearer a +1 luck bonus on a random type of saving throw for that day.
 
-**Lunar**: While exposed to moonlight, this item causes any enemy adjacent to the bearer to take a –1 penalty on saving throws against *[[rangoric-srd/spells/Sleep|sleep]]* and similar effects.
+**Lunar**: While exposed to moonlight, this item causes any enemy adjacent to the bearer to take a –1 penalty on saving throws against _[[rangoric-srd/spells/Sleep|sleep]]_ and similar effects.
 
-**Messenger**: Once per week, the item can transform into an animal and deliver a message as the *[[rangoric-srd/spells/Animal Messenger|animal messenger]]* spell.
+**Messenger**: Once per week, the item can transform into an animal and deliver a message as the _[[rangoric-srd/spells/Animal Messenger|animal messenger]]_ spell.
 
 **Mindlinked**: The item is linked to the owner, who can command it mentally. The action cost is the same, but it doesn't make noise and the activation is purely mental.
 
@@ -875,52 +875,52 @@ Perks are beneficial adjustments to an item, often gained from critical success 
 
 **Sacred**: The item glows with the image of its creator's holy or unholy symbol, counting as a holy or unholy symbol for all purposes. If more than one creator qualifies, the creators choose one of their patrons' holy or unholy symbols.
 
-**Shielding**: This item negates the first *[[rangoric-srd/spells/Magic Missile|magic missile]]* directed at it or its bearer each day. If a caster directs multiple missiles at the bearer simultaneously, reduce the number of missiles that strike the bearer by one.
+**Shielding**: This item negates the first _[[rangoric-srd/spells/Magic Missile|magic missile]]_ directed at it or its bearer each day. If a caster directs multiple missiles at the bearer simultaneously, reduce the number of missiles that strike the bearer by one.
 
 **Skillful**: The item grants a +1 competence bonus on checks with a random skill.
 
 **Solar**: While exposed to sunlight, this item causes an enemy adjacent to the bearer to become dazzled for as long as the two remain adjacent.
 
-**Spying**: The item transmits sensory information to its owner, as if it were the sensor for a *clairaudience/clairvoyance* spell. The owner must concentrate on receiving this information instead of her own visual or auditory information as a standard action to gain this benefit, and the effect becomes inert while she isn't concentrating. Determine randomly upon the item's creation whether the item relays visual or auditory information.
+**Spying**: The item transmits sensory information to its owner, as if it were the sensor for a _clairaudience/clairvoyance_ spell. The owner must concentrate on receiving this information instead of her own visual or auditory information as a standard action to gain this benefit, and the effect becomes inert while she isn't concentrating. Determine randomly upon the item's creation whether the item relays visual or auditory information.
 
 **Tentacled Touch**: As the aberrant quirk, but the tentacles can extend, allowing the item to deliver any touch effects with an additional 5 feet of reach. This does not increase the weapon reach of a magic weapon.
 
-**Unassuming**: The item registers as though it were nonmagical, as though affected by a *[[rangoric-srd/spells/Magic Aura|magic aura]]* spell.
+**Unassuming**: The item registers as though it were nonmagical, as though affected by a _[[rangoric-srd/spells/Magic Aura|magic aura]]_ spell.
 
 ## Quirks
 
 Quirks are oddities that make an item unusual in a way that's generally neither positive nor negative, or may be a little of both. The more beneficial or double-edged quirks are higher on the following table. Feel free to invent your own quirks or apply an appropriate quirk without rolling.
 
-| d% | Quirk |
-| --- | --- |
-| 01 | Flaw |
-| 02–04 | Infested |
-| 05–08 | Unusually colored |
-| 09–12 | Color-altering |
-| 13–16 | Mood coloration |
-| 17–20 | Aberrant |
-| 21–24 | Decorous\* |
-| 25–28 | Dirty |
-| 29–32 | Junky |
+| d%    | Quirk                  |
+| ----- | ---------------------- |
+| 01    | Flaw                   |
+| 02–04 | Infested               |
+| 05–08 | Unusually colored      |
+| 09–12 | Color-altering         |
+| 13–16 | Mood coloration        |
+| 17–20 | Aberrant               |
+| 21–24 | Decorous\*             |
+| 25–28 | Dirty                  |
+| 29–32 | Junky                  |
 | 33–36 | Magnificent appearance |
-| 37–40 | Verdant |
-| 41–44 | Noisy |
-| 45–48 | Bloodthirsty |
-| 49–52 | Levitating |
-| 53–56 | Molting |
-| 57–60 | Soprano |
-| 61–64 | Bass |
-| 65–68 | Giant-eared |
-| 69–72 | Nose-enlarging |
-| 73–76 | Spiritbound |
-| 77–80 | Racially attuned |
-| 81–84 | Loyal |
-| 85–87 | Wet |
-| 88–90 | Slimy |
-| 91–93 | Unpredictable\* |
-| 94–96 | Convergent |
-| 97–99 | Glittering |
-| 100 | Perk |
+| 37–40 | Verdant                |
+| 41–44 | Noisy                  |
+| 45–48 | Bloodthirsty           |
+| 49–52 | Levitating             |
+| 53–56 | Molting                |
+| 57–60 | Soprano                |
+| 61–64 | Bass                   |
+| 65–68 | Giant-eared            |
+| 69–72 | Nose-enlarging         |
+| 73–76 | Spiritbound            |
+| 77–80 | Racially attuned       |
+| 81–84 | Loyal                  |
+| 85–87 | Wet                    |
+| 88–90 | Slimy                  |
+| 91–93 | Unpredictable\*        |
+| 94–96 | Convergent             |
+| 97–99 | Glittering             |
+| 100   | Perk                   |
 
 \* Must be an activated item.
 
@@ -966,7 +966,7 @@ Quirks are oddities that make an item unusual in a way that's generally neither 
 
 **Racially Attuned**: The item's bearer counts as the race of one of the item's creators (determined randomly upon creation) as well as her own.
 
-**Slimy**: The item is covered in putrid slime, which seeps out to cover the bearer as well. The bearer gains a +5 circumstance bonus on [[rangoric-srd/skills/Escape Artist|Escape Artist]] checks, on combat maneuver checks to break grapples, and to CMD against grapples (these bonuses do not stack with *[[rangoric-srd/spells/Grease|grease]]* or other similar effects), but takes a –2 penalty on [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Engineering|Engineering]], and [[rangoric-srd/skills/Imitation|Imitation]] checks, as well as on [[rangoric-srd/skills/Persuasion|Persuasion]] and [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks except against creatures that aren't bothered by putrid slime.
+**Slimy**: The item is covered in putrid slime, which seeps out to cover the bearer as well. The bearer gains a +5 circumstance bonus on [[rangoric-srd/skills/Escape Artist|Escape Artist]] checks, on combat maneuver checks to break grapples, and to CMD against grapples (these bonuses do not stack with _[[rangoric-srd/spells/Grease|grease]]_ or other similar effects), but takes a –2 penalty on [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Engineering|Engineering]], and [[rangoric-srd/skills/Imitation|Imitation]] checks, as well as on [[rangoric-srd/skills/Persuasion|Persuasion]] and [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks except against creatures that aren't bothered by putrid slime.
 
 **Soprano**: The bearer's voice rises by an octave.
 
@@ -986,34 +986,34 @@ Flaws are adjustments to an item that are detrimental in nature. Most are simila
 
 **Accumulating Flaws**: The more flaws the item has, the more likely it is to become cursed. For each flaw beyond the first, add a cumulative +5 modifier to the d% roll until the item gains a curse (after which the +5 modifiers no longer apply). When you decide to create a new flaw or choose an appropriate one rather than rolling, you should still roll first to determine whether the item gains a curse instead.
 
-| d% | Flaw |
-| --- | --- |
-| 01–04 | Heavy |
-| 05–08 | Fragile |
-| 09–12 | Vulnerable |
-| 13–16 | Energy weakened |
-| 17–20 | Pungent |
-| 21–24 | Faerie-lit |
-| 25–28 | Singing |
-| 29–32 | Vindictive |
-| 33–36 | Anomalous |
+| d%    | Flaw               |
+| ----- | ------------------ |
+| 01–04 | Heavy              |
+| 05–08 | Fragile            |
+| 09–12 | Vulnerable         |
+| 13–16 | Energy weakened    |
+| 17–20 | Pungent            |
+| 21–24 | Faerie-lit         |
+| 25–28 | Singing            |
+| 29–32 | Vindictive         |
+| 33–36 | Anomalous          |
 | 37–40 | Extremely infested |
-| 41–44 | Addictive |
-| 45–48 | Gluttonous |
-| 49–52 | Slothful |
-| 53–56 | Hallucinogenic |
-| 57–60 | Obedient |
-| 61–64 | Uncivilized |
-| 65–68 | Allergic |
-| 69–72 | Zealous |
-| 73–76 | Impotent |
-| 77–80 | Pacifistic |
-| 81–84 | Backlashing |
-| 85–87 | Wrathful |
-| 88–90 | Proud |
-| 91–93 | Slippery |
-| 94–96 | Enticing |
-| 97–99 | Paranoid |
+| 41–44 | Addictive          |
+| 45–48 | Gluttonous         |
+| 49–52 | Slothful           |
+| 53–56 | Hallucinogenic     |
+| 57–60 | Obedient           |
+| 61–64 | Uncivilized        |
+| 65–68 | Allergic           |
+| 69–72 | Zealous            |
+| 73–76 | Impotent           |
+| 77–80 | Pacifistic         |
+| 81–84 | Backlashing        |
+| 85–87 | Wrathful           |
+| 88–90 | Proud              |
+| 91–93 | Slippery           |
+| 94–96 | Enticing           |
+| 97–99 | Paranoid           |
 
 100+
 
@@ -1041,11 +1041,11 @@ Cursed
 
 **Extremely Infested**: As the infested quirk, but the vermin or other creatures crawl over the bearer, requiring her to succeed at [[rangoric-srd/rules/Concentration (Check)|concentration checks]] (DC = 15 + the spell's level) to cast spells or use other abilities that require concentration.
 
-**Faerie-Lit**: The bearer is constantly surrounded by colorful light, as if affected by a *[[rangoric-srd/spells/Faerie Fire|faerie fire]]* spell.
+**Faerie-Lit**: The bearer is constantly surrounded by colorful light, as if affected by a _[[rangoric-srd/spells/Faerie Fire|faerie fire]]_ spell.
 
 **Fragile**: The item has half as many hit points as normal.
 
-**Gluttonous**: The bearer must gorge upon 10 times as much food as normal or suffer the effects of starvation, ignoring effects that reduce the amount of food required (such as *ring of sustenance*).
+**Gluttonous**: The bearer must gorge upon 10 times as much food as normal or suffer the effects of starvation, ignoring effects that reduce the amount of food required (such as _ring of sustenance_).
 
 **Hallucinogenic**: The bearer sees and hears mild hallucinations. While readily discernible as such, these hallucinations still impose a –2 penalty on [[rangoric-srd/skills/Perception|Perception]] and initiative checks.
 
@@ -1061,13 +1061,13 @@ Cursed
 
 **Proud**: The bearer can't grant or gain any benefit from the aid another action.
 
-**Pungent**: The item emits a foul and obvious odor. No mundane means can remove the stench, which overcomes even magical effects such as *[[rangoric-srd/spells/Negate Aroma|negate aroma]]*.
+**Pungent**: The item emits a foul and obvious odor. No mundane means can remove the stench, which overcomes even magical effects such as _[[rangoric-srd/spells/Negate Aroma|negate aroma]]_.
 
-**Singing**: The item constantly sings in a loud belting soprano or tenor. *Silence* and other such spells can suppress the sound as normal.
+**Singing**: The item constantly sings in a loud belting soprano or tenor. _Silence_ and other such spells can suppress the sound as normal.
 
 **Slippery**: The creature holding the item must succeed at a DC 15 Reflex save each round or drop the item.
 
-**Slothful**: The bearer must rest for 12 hours each day to gain the benefits of a full night's rest, ignoring effects that reduce the amount of sleep needed (such as *ring of sustenance*). This can affect the bearer's ability to prepare spells or regain spell slots.
+**Slothful**: The bearer must rest for 12 hours each day to gain the benefits of a full night's rest, ignoring effects that reduce the amount of sleep needed (such as _ring of sustenance_). This can affect the bearer's ability to prepare spells or regain spell slots.
 
 **Uncivilized**: The item doesn't function in any area that would count as urban terrain.
 

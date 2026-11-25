@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Brownie
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
-  - **Hit Dice**: 1d6+1 (4 hp)
-  - **Initiative**: +8
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 17 (+4 Dex, +1 dodge, +2 size), touch 17, flat-footed 12
-  - **Base Attack**: +0; **CMB**: +2; **CMD**: 11
-  - **Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +6 melee (1d2–2/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +6 melee (1d2–2/19–20)
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 12
-  - **Saves**: Fort +1, Ref +6, Will +4
-  - **Abilities**: Str 7, Dex 18, Con 12, Int 14, Wis 15, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4, [[rangoric-srd/skills/Athletics|Athletics]] –2 (–6 jumping), [[rangoric-srd/skills/Craft|Craft]] (any one) +6, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +16 (+20 in forest)
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Temperate forests or plains
-  - **Organization**: Solitary, gang (2–5), or band (7–12)
-  - **Challenge Rating**: 1
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
+- **Hit Dice**: 1d6+1 (4 hp)
+- **Initiative**: +8
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 17 (+4 Dex, +1 dodge, +2 size), touch 17, flat-footed 12
+- **Base Attack**: +0; **CMB**: +2; **CMD**: 11
+- **Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +6 melee (1d2–2/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +6 melee (1d2–2/19–20)
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 12
+- **Saves**: Fort +1, Ref +6, Will +4
+- **Abilities**: Str 7, Dex 18, Con 12, Int 14, Wis 15, Cha 17
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4, [[rangoric-srd/skills/Athletics|Athletics]] –2 (–6 jumping), [[rangoric-srd/skills/Craft|Craft]] (any one) +6, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +16 (+20 in forest)
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Temperate forests or plains
+- **Organization**: Solitary, gang (2–5), or band (7–12)
+- **Challenge Rating**: 1
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Brownies make their homes in the trunks of hollow trees, small earthy burrows, and even under porches and within the crawlspaces of farmhouses. Often attired in clothes that appear to be made of plants or leaves, brownies wear belts lined with pouches and tools. Whatever language they choose to speak is often is riddled with odd pronunciations and colloquialisms. Brownies stand barely 2 feet tall and weigh 20 pounds.
 
@@ -71,4 +71,4 @@ A 5th-level neutral spellcaster with the Improved Familiar feat can gain a brown
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +10): At will—*[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Mending|mending]]*, *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]*; 1/day—*[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]* (DC 14), *[[rangoric-srd/spells/Dimension Door|dimension door]]* (self only), *[[rangoric-srd/spells/Mirror Image|mirror image]]*, *[[rangoric-srd/spells/Ventriloquism|ventriloquism]]* (DC 14).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +10): At will—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_; 1/day—_[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]_ (DC 14), _[[rangoric-srd/spells/Dimension Door|dimension door]]_ (self only), _[[rangoric-srd/spells/Mirror Image|mirror image]]_, _[[rangoric-srd/spells/Ventriloquism|ventriloquism]]_ (DC 14).

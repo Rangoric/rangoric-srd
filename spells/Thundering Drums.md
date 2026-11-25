@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Thundering Drums
 
-*Evocation \[Sonic\]*
+_Evocation \[Sonic\]_
 
-  - **Level**: Brd 3, Skd 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: 15 ft.
-  - **Area**: Cone-shaped burst
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude partial
-  - **Spell Resistance**: Yes
+- **Level**: Brd 3, Skd 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: 15 ft.
+- **Area**: Cone-shaped burst
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude partial
+- **Spell Resistance**: Yes
 
 You strike the ground in front of you, filling the area in front of you with the thunder of pounding drums. Any creature in the area takes 1d8 points of sonic damage per caster level (maximum 5d8) and is knocked prone. A successful Fortitude save halves the damage and negates being knocked prone.

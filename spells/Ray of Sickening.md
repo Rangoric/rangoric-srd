@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Ray of Sickening
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Blr 1, Clr 1, Drd 1, Hun 1, Mes 1, Sor/Wiz 1, Sum 1, SumU 1, Wit 1
-  - **Components**: V, S, M (a drop of sweat)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: Ray
-  - **Duration**: 1 min./level
-  - **Saving Throw**: Fortitude partial; see text
-  - **Spell Resistance**: Yes
+- **Level**: Blr 1, Clr 1, Drd 1, Hun 1, Mes 1, Sor/Wiz 1, Sum 1, SumU 1, Wit 1
+- **Components**: V, S, M (a drop of sweat)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: Ray
+- **Duration**: 1 min./level
+- **Saving Throw**: Fortitude partial; see text
+- **Spell Resistance**: Yes
 
-This spell functions as *[[rangoric-srd/spells/Ray of Exhaustion|ray of exhaustion]]*, except the target is sickened if it fails its save and unaffected if it makes its save.
+This spell functions as _[[rangoric-srd/spells/Ray of Exhaustion|ray of exhaustion]]_, except the target is sickened if it fails its save and unaffected if it makes its save.

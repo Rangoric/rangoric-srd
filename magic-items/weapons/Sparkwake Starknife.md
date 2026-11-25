@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Sparkwake Starknife
 
-A faint trail of sparks marks the passage of this *+1 shock starknife* whenever it is thrown. Once per day its wielder may throw it so it transforms into an 8d6 *[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]* (Reflex DC 14 half), returning to its physical form at the end of the bolt's path.
+A faint trail of sparks marks the passage of this _+1 shock starknife_ whenever it is thrown. Once per day its wielder may throw it so it transforms into an 8d6 _[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_ (Reflex DC 14 half), returning to its physical form at the end of the bolt's path.
 
-Moderate evocation; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]*; Price 21,324 gp; Cost 10,824 gp; Weight 3 lbs.
+Moderate evocation; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_; Price 21,324 gp; Cost 10,824 gp; Weight 3 lbs.

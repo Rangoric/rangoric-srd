@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Shrieker
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 2d8+2 (11 hp)
-  - **Initiative**: –5
-  - **Speed**: 0 ft.
-  - **Armor Class**: 8 (–5 Dex, +3 natural), touch 5, flat-footed 8
-  - **Base Attack**: +1; **CMB**: —; **CMD**: 11 (can't be tripped)
-  - **Attack**: —
-  - **Full Attack**: —
-  - **Space/Reach**: 5 ft./0 ft.
-  - **Special Attacks**: Shriek
-  - **Special Qualities**: Low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|plant traits]]
-  - **Saves**: Fort +4, Ref —, Will –4
-  - **Abilities**: Str —, Dex —, Con 13, Int —, Wis 2, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +1
-  - **Feats**: —
-  - **Environment**: Underground
-  - **Organization**: Solitary or patch (3–5)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 3 HD (Medium)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 2d8+2 (11 hp)
+- **Initiative**: –5
+- **Speed**: 0 ft.
+- **Armor Class**: 8 (–5 Dex, +3 natural), touch 5, flat-footed 8
+- **Base Attack**: +1; **CMB**: —; **CMD**: 11 (can't be tripped)
+- **Attack**: —
+- **Full Attack**: —
+- **Space/Reach**: 5 ft./0 ft.
+- **Special Attacks**: Shriek
+- **Special Qualities**: Low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|plant traits]]
+- **Saves**: Fort +4, Ref —, Will –4
+- **Abilities**: Str —, Dex —, Con 13, Int —, Wis 2, Cha 1
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +1
+- **Feats**: —
+- **Environment**: Underground
+- **Organization**: Solitary or patch (3–5)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 3 HD (Medium)
+- **Level Adjustment**: —
 
 A shrieker is a stationary fungus that emits a loud noise to attract prey or when disturbed. Shriekers live in dark, subterranean places, often in the company of violet fungi, whose poison they are immune to.
 

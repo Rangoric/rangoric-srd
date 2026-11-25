@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades, weapon-group/thrown
 
 # Hunga Munga
 
-*Martial ranged weapon.* Cost 4 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Range Increment 15 ft.; Weight 3 lb.; Type Piercing. ^stats
+_Martial ranged weapon._ Cost 4 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Range Increment 15 ft.; Weight 3 lb.; Type Piercing. ^stats
 
 Also called a mambele, danisco, goleyo, njiga, or any of many lesser-known names, this three-bladed dagger is intended for throwing but can be used as a melee weapon. Though the basic three-blade design is most common, hunga mungas can take a wide variety of forms.

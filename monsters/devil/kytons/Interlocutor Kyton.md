@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Interlocutor Kyton
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Evil, Extraplanar, Kyton, Lawful)
-  - **Hit Dice**: 14d10+70 (147 hp)
-  - **Initiative**: +7
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 26 (+3 Dex, +1 dodge, +13 natural, –1 size), touch 13, flat-footed 22
-  - **Base Attack**: +14; **CMB**: +22; **CMD**: 36 (38 vs. trip)
-  - **Attack**: Claw +20 melee (1d8+7/19–20 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
-  - **Full Attack**: 4 claws +20 melee (1d8+7/19–20 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Rend|rend]] (2 claws, 1d8+7), [[rangoric-srd/monsters/abilities/Surgical Strikes|surgical strikes]], [[rangoric-srd/monsters/abilities/Unnerving Gaze (Interlocutor Kyton)|unnerving gaze]] (30 ft.; DC 22), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (good weapons and spells, silver weapons), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/silver or good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23
-  - **Saves**: Fort +14, Ref +9, Will +17
-  - **Abilities**: Str 24, Dex 17, Con 21, Int 15, Wis 22, Cha 20
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +22, [[rangoric-srd/skills/Medicine|Medicine]] +23, [[rangoric-srd/skills/Nature|Nature]] +12, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Society|Society]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +16, [[rangoric-srd/skills/Theology|Theology]] +12
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Any (Plane of Shadow)
-  - **Organization**: Solitary, pair, or gang (3–5)
-  - **Challenge Rating**: 12
-  - **Treasure**: Standard
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Evil, Extraplanar, Kyton, Lawful)
+- **Hit Dice**: 14d10+70 (147 hp)
+- **Initiative**: +7
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 26 (+3 Dex, +1 dodge, +13 natural, –1 size), touch 13, flat-footed 22
+- **Base Attack**: +14; **CMB**: +22; **CMD**: 36 (38 vs. trip)
+- **Attack**: Claw +20 melee (1d8+7/19–20 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
+- **Full Attack**: 4 claws +20 melee (1d8+7/19–20 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Rend|rend]] (2 claws, 1d8+7), [[rangoric-srd/monsters/abilities/Surgical Strikes|surgical strikes]], [[rangoric-srd/monsters/abilities/Unnerving Gaze (Interlocutor Kyton)|unnerving gaze]] (30 ft.; DC 22), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (good weapons and spells, silver weapons), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/silver or good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23
+- **Saves**: Fort +14, Ref +9, Will +17
+- **Abilities**: Str 24, Dex 17, Con 21, Int 15, Wis 22, Cha 20
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +22, [[rangoric-srd/skills/Medicine|Medicine]] +23, [[rangoric-srd/skills/Nature|Nature]] +12, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Society|Society]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +16, [[rangoric-srd/skills/Theology|Theology]] +12
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Any (Plane of Shadow)
+- **Organization**: Solitary, pair, or gang (3–5)
+- **Challenge Rating**: 12
+- **Treasure**: Standard
+- **Alignment**: Usually lawful evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Interlocutors are the self-proclaimed surgeon-sculptors among kytons, viewing their practice as more art than medical process. Each victim is a new chance to study the art of pain and sensation through horror-stricken eyes. Their ability to heal the damage they inflict, even to the extent of restoring life to a subject that has only just expired, is perhaps more feared than their eagerness to cut flesh. To an interlocutor's victim, death is a mercy that is rarely offered.
 
@@ -73,7 +73,7 @@ Interlocutor kytons speak Common and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 14th; concentration +19): At will—*[[rangoric-srd/spells/Bleed|bleed]]* (DC 15), *[[rangoric-srd/spells/Plane Shift|plane shift]]* (from the Material Plane to the Plane of Shadow, self only), *[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]*; 3/day—*[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]*, *[[rangoric-srd/spells/Restoration|restoration]]*; 1/day—*[[rangoric-srd/spells/Breath of Life|breath of life]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 14th; concentration +19): At will—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 15), _[[rangoric-srd/spells/Plane Shift|plane shift]]_ (from the Material Plane to the Plane of Shadow, self only), _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_; 3/day—_[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]_, _[[rangoric-srd/spells/Restoration|restoration]]_; 1/day—_[[rangoric-srd/spells/Breath of Life|breath of life]]_.
 
 **[[rangoric-srd/monsters/abilities/Surgical Strikes|Surgical Strikes]] (Ex)**: An interlocutor's claws threaten a critical hit on a roll of 19–20. On a successful critical hit, that claw deals 2d6 bleed damage rather than 1d6.
 

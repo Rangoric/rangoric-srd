@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Jack-o’-Lantern
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 2d8+2 (11 hp)
-  - **Initiative**: –2
-  - **Speed**: 15 ft. (3 squares)
-  - **Armor Class**: 11 (–2 Dex, +3 natural), touch 8, flat-footed 11
-  - **Base Attack**: +1; **CMB**: +3; **CMD**: 11 (can't be tripped)
-  - **Attack**: Bite +3 melee (1d6+2) or slam +3 melee (1d4+2 plus strangling entangle)
-  - **Full Attack**: Bite +3 melee (1d6+2) and slam +3 melee (1d4+2 plus strangling entangle)
-  - **Space/Reach**: 5 ft./5 ft. (10 ft. with slam)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (20-ft. cone, 1d10 fire, Reflex DC 12 half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Explode|explode]], [[rangoric-srd/monsters/abilities/Strangling Ensnare|strangling ensnare]] (DC 14)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Fear Aura (Jack-o’-Lantern)|fear]] (20 ft., DC 13), [[rangoric-srd/monsters/abilities/Pumpkin Form|pumpkin form]], [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 15
-  - **Saves**: Fort +4, Ref –2, Will +2
-  - **Abilities**: Str 15, Dex 7, Con 12, Int 2, Wis 14, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +7
-  - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (strangling ensnare)
-  - **Environment**: Temperate forests, hills, or plains (pumpkin patches)
-  - **Organization**: Solitary or patch (2–12)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 2d8+2 (11 hp)
+- **Initiative**: –2
+- **Speed**: 15 ft. (3 squares)
+- **Armor Class**: 11 (–2 Dex, +3 natural), touch 8, flat-footed 11
+- **Base Attack**: +1; **CMB**: +3; **CMD**: 11 (can't be tripped)
+- **Attack**: Bite +3 melee (1d6+2) or slam +3 melee (1d4+2 plus strangling entangle)
+- **Full Attack**: Bite +3 melee (1d6+2) and slam +3 melee (1d4+2 plus strangling entangle)
+- **Space/Reach**: 5 ft./5 ft. (10 ft. with slam)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (20-ft. cone, 1d10 fire, Reflex DC 12 half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Explode|explode]], [[rangoric-srd/monsters/abilities/Strangling Ensnare|strangling ensnare]] (DC 14)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Fear Aura (Jack-o’-Lantern)|fear]] (20 ft., DC 13), [[rangoric-srd/monsters/abilities/Pumpkin Form|pumpkin form]], [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 15
+- **Saves**: Fort +4, Ref –2, Will +2
+- **Abilities**: Str 15, Dex 7, Con 12, Int 2, Wis 14, Cha 7
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +7
+- **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (strangling ensnare)
+- **Environment**: Temperate forests, hills, or plains (pumpkin patches)
+- **Organization**: Solitary or patch (2–12)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Jack-o'-lanterns are semi-intelligent plant creatures spawned by fell magic and driven to burn and consume living flesh. Though they are mobile, jack-o'-lanterns prefer to remain in one spot until their food supplies run out. They typically lair within pumpkin patches, where they lie in wait and use their pumpkin form ability to ambush unsuspecting prey.
 

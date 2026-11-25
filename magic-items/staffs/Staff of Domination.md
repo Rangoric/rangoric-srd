@@ -17,11 +17,11 @@ tags: [rangoric, rangoric/magic-item, epic]
 
 # Staff of Domination
 
-This staff allows use of the following heightened spells.  
+This staff allows use of the following heightened spells.
 
-  - Dominate monster (1 charge, DC 33)
-  - Demand (1 charge, DC 32)
-  - Mass charm monster (1 charge, DC 32)
-  - Geas (heightened, 1 charge, DC 33)  
+- Dominate monster (1 charge, DC 33)
+- Demand (1 charge, DC 32)
+- Mass charm monster (1 charge, DC 32)
+- Geas (heightened, 1 charge, DC 33)
 
 Caster Level: 21st; Prerequisites: Craft Staff, Craft Epic Staff, Heighten Spell, demand, dominate monster, geas, mass charm monster; Market Price: 464,400 gp.

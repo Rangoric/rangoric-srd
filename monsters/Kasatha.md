@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Kasatha
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Kasatha)
-  - **Hit Dice**: 1d8+2 (10 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 18 (+3 Dex, +2 dodge, +3 Wis), touch 18, flat-footed 13
-  - **Base Attack**: +0; **CMB**: +1; **CMD**: 19
-  - **Attack**: [[rangoric-srd/equipment/weapons/Sai|Sai]] +3 melee (1d4+1) or [[rangoric-srd/equipment/weapons/Unarmed Strike|unarmed strike]] +3 melee (1d6+1) or flurry of blows +2 melee (1d6+1)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Sai|Sai]] +3 melee (1d4+1); or [[rangoric-srd/equipment/weapons/Unarmed Strike|unarmed strike]] +3 melee (1d6+1); or flurry of blows +2/+2 melee (1d6+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Flurry of blows, stunning fist (1/day, DC 13)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Desert Runner|Desert runner]], [[rangoric-srd/monsters/abilities/Desert Stride|desert stride]], [[rangoric-srd/monsters/abilities/Jumper|jumper]], [[rangoric-srd/monsters/abilities/Multi-Armed|multi-armed]], [[rangoric-srd/monsters/abilities/Stalker|stalker]]
-  - **Saves**: Fort +3, Ref +5, Will +5
-  - **Abilities**: Str 13, Dex 17, Con 12, Int 10, Wis 16, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Warm deserts
-  - **Organization**: Solitary, band (2–6), sect (2–20), or tribe (20–60)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: NPC gear (sais [2], other treasure)
-  - **Alignment**: Usually lawful neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Kasatha)
+- **Hit Dice**: 1d8+2 (10 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 18 (+3 Dex, +2 dodge, +3 Wis), touch 18, flat-footed 13
+- **Base Attack**: +0; **CMB**: +1; **CMD**: 19
+- **Attack**: [[rangoric-srd/equipment/weapons/Sai|Sai]] +3 melee (1d4+1) or [[rangoric-srd/equipment/weapons/Unarmed Strike|unarmed strike]] +3 melee (1d6+1) or flurry of blows +2 melee (1d6+1)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Sai|Sai]] +3 melee (1d4+1); or [[rangoric-srd/equipment/weapons/Unarmed Strike|unarmed strike]] +3 melee (1d6+1); or flurry of blows +2/+2 melee (1d6+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Flurry of blows, stunning fist (1/day, DC 13)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Desert Runner|Desert runner]], [[rangoric-srd/monsters/abilities/Desert Stride|desert stride]], [[rangoric-srd/monsters/abilities/Jumper|jumper]], [[rangoric-srd/monsters/abilities/Multi-Armed|multi-armed]], [[rangoric-srd/monsters/abilities/Stalker|stalker]]
+- **Saves**: Fort +3, Ref +5, Will +5
+- **Abilities**: Str 13, Dex 17, Con 12, Int 10, Wis 16, Cha 8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Warm deserts
+- **Organization**: Solitary, band (2–6), sect (2–20), or tribe (20–60)
+- **Challenge Rating**: 1/2
+- **Treasure**: NPC gear (sais [2], other treasure)
+- **Alignment**: Usually lawful neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Exiles from an arid world circling a red star, modern kasathas have no idea how they left their home or how to return, but they keep searching for a way back. A clannish and secretive people, they have a matriarchal society, but other races have difficulty recognizing any physical difference between females and males. Kasathas keep their mouths hidden behind clothing, and don't remove this clothing in the presence of other races. They are omnivores, but prefer meat and salty foods.
 

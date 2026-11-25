@@ -30,15 +30,15 @@ tags: [rangoric, rangoric/spell]
 
 # Windy Escape
 
-*Transmutation \[Air\]*
+_Transmutation \[Air\]_
 
-  - **Level**: Blr 1, Brd 1, Drd 1, Hun 1, Mag 1, Skd 1, Sor/Wiz 1
-  - **Components**: V, S
-  - **Casting Time**: 1 immediate action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: Instantaneous
+- **Level**: Blr 1, Brd 1, Drd 1, Hun 1, Mag 1, Skd 1, Sor/Wiz 1
+- **Components**: V, S
+- **Casting Time**: 1 immediate action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: Instantaneous
 
 You respond to an attack by briefly becoming vaporous and insubstantial, allowing the attack to pass harmlessly through you. You gain DR 10/magic against this attack and are immune to any poison, sneak attacks, or critical hit effect from that attack.
 
-You cannot use *windy escape* against an attack of opportunity you provoked by casting a spell, using a spell-like ability, or using any other magical ability that provokes an attack of opportunity when used.
+You cannot use _windy escape_ against an attack of opportunity you provoked by casting a spell, using a spell-like ability, or using any other magical ability that provokes an attack of opportunity when used.

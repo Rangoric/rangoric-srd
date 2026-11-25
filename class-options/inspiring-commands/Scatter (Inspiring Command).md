@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Scatter
 
-*A [[rangoric-srd/prestige-classes/Battle Herald#^battle-herald-inspiring-command|battle herald inspiring command]] (Ex); it affects only a certain number of allies.*
+_A [[rangoric-srd/prestige-classes/Battle Herald#^battle-herald-inspiring-command|battle herald inspiring command]] (Ex); it affects only a certain number of allies._
 
 A number of allies equal to the battle herald's inspiring command bonus gain the benefits of the [[rangoric-srd/feats/Wind Stance|Wind Stance]] feat.

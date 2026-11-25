@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Wild Child
 
-*A [[rangoric-srd/classes/Brawler#^brawler-archetypes|brawler]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Brawler#^brawler-archetypes|brawler]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 The wild child works with his sworn animal friend to conquer the challenges that lay before them. This kinship could come from being lost in the wilderness and raised by animals or growing up with an exotic pet.
 

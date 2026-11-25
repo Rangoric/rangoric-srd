@@ -24,15 +24,15 @@ tags: [rangoric, rangoric/spell]
 
 # Timely Inspiration
 
-*Divination*
+_Divination_
 
-  - **Level**: Brd 1, Skd 1
-  - **Components**: V
-  - **Casting Time**: 1 immediate action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Brd 1, Skd 1
+- **Components**: V
+- **Casting Time**: 1 immediate action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 A word of arcane-empowered inspiration can snatch victory from seeming defeat. Cast this spell when a creature fails an attack roll or skill check. The target gains a +1 competence bonus per five caster levels (maximum +3 bonus) on the attack roll or skill check retroactively. If the bonus is enough to make the failure a success, the roll succeeds.

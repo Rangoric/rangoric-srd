@@ -26,7 +26,7 @@ Crew members in excess of the ship's minimum crew requirement can be allocated t
 
 A ship can also attempt to ram a target if it has its minimum crew. To ram a target, the ship must move at least 30 feet and end with its bow in a square adjacent to the target. The ship's captain then makes a [[rangoric-srd/skills/Profession|Profession]] (sailor) check—if this check equals or exceeds the target's AC, the ship hits its target, inflicting damage as indicated on the ship statistics table to the target, as well as minimum damage to the ramming ship. A ship outfitted with an actual ram siege engine inflicts an additional 3d6 points of damage to the target (the ramming vessel suffers no additional damage).
 
-**Sinking**: A ship gains the sinking condition if its hit points are reduced to 0 or fewer. A sinking ship cannot move or attack, and it sinks completely 10 rounds after it gains the sinking condition. Each hit on a sinking ship that inflicts damage reduces the remaining time for it to sink by 1 round per 25 points of damage inflicted. Magic (such as *[[rangoric-srd/spells/Make Whole|make whole]]*) can repair a sinking ship if the ship's hit points are raised above 0, at which point the ship loses the sinking condition. Generally, nonmagical repairs take too long to save a ship from sinking once it begins to go down.
+**Sinking**: A ship gains the sinking condition if its hit points are reduced to 0 or fewer. A sinking ship cannot move or attack, and it sinks completely 10 rounds after it gains the sinking condition. Each hit on a sinking ship that inflicts damage reduces the remaining time for it to sink by 1 round per 25 points of damage inflicted. Magic (such as _[[rangoric-srd/spells/Make Whole|make whole]]_) can repair a sinking ship if the ship's hit points are raised above 0, at which point the ship loses the sinking condition. Generally, nonmagical repairs take too long to save a ship from sinking once it begins to go down.
 
 ## Ship Statistics
 
@@ -55,7 +55,7 @@ The first number lists the minimum crew complement the ship needs to function no
 **Table: Ship Statistics**
 
 | Ship Type    | AC  | hp  | Base Save | Maximum Speed          | Arms | Ram    | Squares | Crew        |
-|--------------|-----|-----|-----------|------------------------|------|--------|---------|-------------|
+| ------------ | --- | --- | --------- | ---------------------- | ---- | ------ | ------- | ----------- |
 | Raft         | 9   | 10  | +0        | 15 feet                | 0    | 1d6    | 1       | 1/4         |
 | Rowboat      | 9   | 20  | +2        | 30 feet                | 0    | 2d6+6  | 1       | 1/3         |
 | Keelboat     | 8   | 60  | +4        | 30 feet\*              | 1    | 2d6+6  | 2       | 4/15+100    |

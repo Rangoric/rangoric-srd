@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Bakekujira
 
-  - Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Aquatic)
-  - **Hit Dice**: 25d8+150 (262 hp)
-  - **Initiative**: +4
-  - **Speed**: 15 ft. (3 squares), swim 60 ft.
-  - **Armor Class**: 32 (+30 natural, –8 size), touch 2, flat-footed 32
-  - **Base Attack**: +18; **CMB**: +42 (+46 bull rush); **CMD**: 52 (54 vs. bull rush, can't be tripped)
-  - **Attack**: Bite +27 melee (6d6+16/19–20) or tail slap +26 melee (4d6+8)
-  - **Full Attack**: Bite +27 melee (6d6+16/19–20) and tail slap +21 melee (4d6+8)
-  - **Space/Reach**: 30 ft./30 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Capsize|Capsize]], [[rangoric-srd/monsters/abilities/Leviathan's Call|leviathan's call]], [[rangoric-srd/monsters/abilities/Resonant Song|resonant song]], [[rangoric-srd/monsters/abilities/Smashing Breach|smashing breach]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Undead Parasites|undead parasites]] (30 ft., DC 28), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/bludgeoning, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-  - **Saves**: Fort +14, Ref +10, Will +14
-  - **Abilities**: Str 42, Dex 10, Con —, Int 2, Wis 11, Cha 23
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +28, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +20
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Lightning Reflexes|Improved Lightning Reflexes]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Stunning Critical|Stunning Critical]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
-  - **Environment**: Any oceans
-  - **Organization**: Solitary
-  - **Challenge Rating**: 17
-  - **Treasure**: None
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Aquatic)
+- **Hit Dice**: 25d8+150 (262 hp)
+- **Initiative**: +4
+- **Speed**: 15 ft. (3 squares), swim 60 ft.
+- **Armor Class**: 32 (+30 natural, –8 size), touch 2, flat-footed 32
+- **Base Attack**: +18; **CMB**: +42 (+46 bull rush); **CMD**: 52 (54 vs. bull rush, can't be tripped)
+- **Attack**: Bite +27 melee (6d6+16/19–20) or tail slap +26 melee (4d6+8)
+- **Full Attack**: Bite +27 melee (6d6+16/19–20) and tail slap +21 melee (4d6+8)
+- **Space/Reach**: 30 ft./30 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Capsize|Capsize]], [[rangoric-srd/monsters/abilities/Leviathan's Call|leviathan's call]], [[rangoric-srd/monsters/abilities/Resonant Song|resonant song]], [[rangoric-srd/monsters/abilities/Smashing Breach|smashing breach]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Undead Parasites|undead parasites]] (30 ft., DC 28), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/bludgeoning, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
+- **Saves**: Fort +14, Ref +10, Will +14
+- **Abilities**: Str 42, Dex 10, Con —, Int 2, Wis 11, Cha 23
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +28, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +20
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Lightning Reflexes|Improved Lightning Reflexes]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Stunning Critical|Stunning Critical]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
+- **Environment**: Any oceans
+- **Organization**: Solitary
+- **Challenge Rating**: 17
+- **Treasure**: None
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Sometimes, a whale that dies after days of anger and pain arises as an undead monstrosity known as a bakekujira.
 

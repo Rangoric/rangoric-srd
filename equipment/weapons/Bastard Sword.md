@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades]
 
 # Bastard Sword
 
-*Exotic one-handed melee weapon.* Cost 35 gp; Dmg 1d8 (S), 1d10 (M); Critical 19–20/x2; Weight 6 lb.; Type Slashing. ^stats
+_Exotic one-handed melee weapon._ Cost 35 gp; Dmg 1d8 (S), 1d10 (M); Critical 19–20/x2; Weight 6 lb.; Type Slashing. ^stats
 
 A bastard sword is too large to use in one hand without special training; thus, it is an exotic weapon. A character can use a bastard sword two-handed as a martial weapon.

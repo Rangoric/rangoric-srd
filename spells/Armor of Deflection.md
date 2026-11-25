@@ -25,15 +25,15 @@ tags: [rangoric, rangoric/spell]
 
 # Armor of Deflection
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 4, Pal 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Clr 4, Pal 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 minute/level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 The subject of this spell gains [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|damage reduction]] 2/— and a +2 deflection bonus to AC but must be of the same faith as the caster.

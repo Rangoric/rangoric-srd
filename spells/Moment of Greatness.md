@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Moment of Greatness
 
-*Enchantment (Compulsion) \[Mind-affecting\]*
+_Enchantment (Compulsion) \[Mind-affecting\]_
 
-  - **Level**: Brd 1, Clr 1, Psy 1, Skd 1, Sor/Wiz 1
-  - **Components**: V, S, M/DF (rabbit fur)
-  - **Casting Time**: 1 standard action
-  - **Range**: 50 ft.
-  - **Target**: The caster and allies within a 50-ft. burst centered on the caster
-  - **Duration**: 1 minute/level or until discharged
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Brd 1, Clr 1, Psy 1, Skd 1, Sor/Wiz 1
+- **Components**: V, S, M/DF (rabbit fur)
+- **Casting Time**: 1 standard action
+- **Range**: 50 ft.
+- **Target**: The caster and allies within a 50-ft. burst centered on the caster
+- **Duration**: 1 minute/level or until discharged
+- **Saving Throw**: None
+- **Spell Resistance**: Yes (harmless)
 
 Each creature affected by this spell is given the potential for greater success and glory. If the affected creature is benefiting from a morale bonus of any type, it can double that morale bonus on one roll or check, before making the roll. Once an affected creature uses this spell's effect, the spell is discharged for that subject.

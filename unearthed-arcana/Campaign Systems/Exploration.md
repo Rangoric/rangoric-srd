@@ -20,7 +20,7 @@ The following pages present rules for how you as a GM can include exploring larg
 
 These exploration rules can work well in a sandbox-style game. Essentially, a sandbox campaign provides many different locations on the map where the PCs are offered tasks to resolve, and locations where the tasks can be executed. (Each task might or might not take place in the same locations it was offered.) A task can be as simple as clearing evil monsters from a patch of forest or as complicated as helping a fledgling kingdom acquire resources in its back country.
 
-When designing tasks for sandbox gaming, have them be things the party can *choose to* do, not that they *must* do. By leaving the choice of which tasks to undertake up to them, you allow the PCs to be wandering heroes—masters of their own fate who travel the land setting things right.
+When designing tasks for sandbox gaming, have them be things the party can _choose to_ do, not that they _must_ do. By leaving the choice of which tasks to undertake up to them, you allow the PCs to be wandering heroes—masters of their own fate who travel the land setting things right.
 
 This kind of nonlinear play encourages PCs to move out into the world, search for new tasks, and claim their rewards. You can also use these tasks to introduce new sites in the world by offering the characters jobs delivering goods, escorting travelers, and the like.
 
@@ -35,23 +35,25 @@ A typical wilderness hex is trackless (see Table: Terrain and Overland Movement 
 **Table: Travel Time (1 Hex)**
 
 | Party Speed | Plain    | All Other Terrain |
-|-------------|----------|-------------------|
+| ----------- | -------- | ----------------- |
 | 15 feet     | 11 hours | 16 hours          |
 | 20 feet     | 8 hours  | 12 hours          |
 | 30 feet     | 5 hours  | 8 hours           |
 | 40 feet     | 4 hours  | 6 hours           |
 | 50 feet     | 3 hours  | 5 hours           |
+
 ^travel-time
 
 **Table: Exploration Time (1 Hex)**
 
 | Party Speed | Plain or Hill | Desert, Forest, or Marsh | Mountain |
-|-------------|---------------|--------------------------|----------|
+| ----------- | ------------- | ------------------------ | -------- |
 | 15 feet     | 3 days        | 4 days                   | 5 days   |
 | 20 feet     | 2 days        | 3 days                   | 4 days   |
 | 30 feet     | 1 day         | 2 days                   | 3 days   |
 | 40 feet     | 1 day         | 1 day                    | 2 days   |
 | 50 feet     | 1 day         | 1 day                    | 1 day    |
+
 ^exploration-time
 
 **Tracking Travel**: The simplest method of tracking the PCs' progress as they travel and survey the wilderness is to do so on hex paper. As the PCs explore a hex, the players should note their progress by placing a small "X" in the hex. Tracking which hexes are fully explored is important for determining exploration rewards.
@@ -79,7 +81,7 @@ Natural disasters can occur anywhere. Untamed regions are often home to a wide v
 Roll on the following table once per day (or once per hex, if the PCs enter multiple hexes in a single day). For hazards, see [[#Hazards|Hazards]]. For monster encounters, in most cases the PCs face off against a creature appropriate to the terrain, but a nearby famine, drought, war, or plague may force a monster out of its normal territory and into a strange environment. The [[rangoric-srd/design-notes/Encounter Tables|Encounter Tables]] give ready-made tables of monster encounters for several terrains.
 
 | d%     | Result       |
-|--------|--------------|
+| ------ | ------------ |
 | 01–50  | No encounter |
 | 51–60  | Hazard       |
 | 61–100 | Monster      |
@@ -227,7 +229,7 @@ Not everyone has the time to create a detailed map to use in-game. You and your 
 To generate a new map, begin by selecting a hex on your blank map as the starting point. Then decide the type of terrain for that starting point (such as a settlement in a forest hex). From that point onward, the reins of exploration are in your players' hands. Let them decide which direction they travel, and let each player take a turn generating the next hex by rolling 1d20 twice to determine the terrain type and terrain element for that hex using the tables below.
 
 | d20   | Terrain Type             |
-|-------|--------------------------|
+| ----- | ------------------------ |
 | 1–3   | Forest                   |
 | 4–6   | Hill                     |
 | 7–8   | Marsh                    |
@@ -238,7 +240,7 @@ To generate a new map, begin by selecting a hex on your blank map as the startin
 | 17–20 | As previous terrain type |
 
 | d20   | Terrain Element |
-|-------|-----------------|
+| ----- | --------------- |
 | 1–3   | Difficult       |
 | 4–6   | Feature         |
 | 7–10  | Hunting Ground  |
@@ -266,4 +268,4 @@ In a desert, PCs can attempt a DC 15 [[rangoric-srd/skills/Perception|Perception
 
 **Grass Fire**: Grass fires are often caused by lightning or careless camp fires. A grass fire is similar to a [[rangoric-srd/rules/Wilderness, Weather, and Environment#Forest Fires (CR 6)|forest fire]], except it can be spotted at twice the normal distance, and a PC caught in its area saves against heat damage only every 10 rounds.
 
-**Volcanic Tremor**: Though active volcanoes are rare, even dormant volcanoes can produce tremors. Tremors last anywhere from 1d4 rounds to 2d6 minutes and increase [[rangoric-srd/skills/Athletics|Athletics DCs to climb]] by 2. The tremors might start an avalanche or collapse a cave or cliff (similar to an *[[rangoric-srd/spells/Earthquake|earthquake]]* spell).
+**Volcanic Tremor**: Though active volcanoes are rare, even dormant volcanoes can produce tremors. Tremors last anywhere from 1d4 rounds to 2d6 minutes and increase [[rangoric-srd/skills/Athletics|Athletics DCs to climb]] by 2. The tremors might start an avalanche or collapse a cave or cliff (similar to an _[[rangoric-srd/spells/Earthquake|earthquake]]_ spell).

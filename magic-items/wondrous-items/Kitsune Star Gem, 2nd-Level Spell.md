@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Kitsune Star Gem, 2nd-Level Spell
 
-This magical jewel glows like *[[rangoric-srd/spells/Faerie Fire|faerie fire]]*, shedding light as a candle. It acts as *[[rangoric-srd/magic-items/wondrous-items/Pearl of Power, 2nd-Level Spell|pearl of power]]*, except it only allows a [[rangoric-srd/races/Kitsune|kitsune]] to recover a spent use of a spell-like ability of the appropriate spell level.
+This magical jewel glows like _[[rangoric-srd/spells/Faerie Fire|faerie fire]]_, shedding light as a candle. It acts as _[[rangoric-srd/magic-items/wondrous-items/Pearl of Power, 2nd-Level Spell|pearl of power]]_, except it only allows a [[rangoric-srd/races/Kitsune|kitsune]] to recover a spent use of a spell-like ability of the appropriate spell level.
 
 Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], creator must be a [[rangoric-srd/races/Kitsune|kitsune]]; Price 3,000 gp; Cost 1,500 gp.

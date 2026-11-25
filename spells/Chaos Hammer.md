@@ -26,16 +26,16 @@ tags: [rangoric, rangoric/spell]
 
 # Chaos Hammer
 
-*Evocation \[Chaotic\]*
+_Evocation \[Chaotic\]_
 
-  - **Level**: Chaos 4, Inq 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Area**: 20-ft.-radius burst
-  - **Duration**: Instantaneous (1d6 rounds); see text
-  - **Saving Throw**: Will partial; see text
-  - **Spell Resistance**: Yes
+- **Level**: Chaos 4, Inq 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Area**: 20-ft.-radius burst
+- **Duration**: Instantaneous (1d6 rounds); see text
+- **Saving Throw**: Will partial; see text
+- **Spell Resistance**: Yes
 
 You unleash chaotic power to smite your enemies. The power takes the form of a multicolored explosion of leaping, ricocheting energy. Only lawful and neutral (not chaotic) creatures are harmed by the spell.
 

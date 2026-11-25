@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Brown-Fur Transmuter
 
-*An [[rangoric-srd/classes/Arcanist#^arcanist-archetypes|arcanist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Arcanist#^arcanist-archetypes|arcanist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Frequently called "brown-furs," these transmutation-focused arcanists are known for transforming themselves into animals. What few realize is that these specialized arcanists excel at turning themselves—and others—into all kinds of creatures.
 

@@ -20,13 +20,13 @@ tags: [rangoric, rangoric/spell]
 
 # Superior Magic Missile
 
-*Evocation \[Force\]*
+_Evocation \[Force\]_
 
-  - **Level**: Sor/Wiz 6
-  - **Casting Time**: 1 standard action
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Targets**: Up to ten creatures, no two of which can be more than 30 ft. apart
+- **Level**: Sor/Wiz 6
+- **Casting Time**: 1 standard action
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Targets**: Up to ten creatures, no two of which can be more than 30 ft. apart
 
-As *[[rangoric-srd/spells/Magic Missile|magic missile]]* except as noted above. The caster may loose one missile per caster level, but no single creature can be the target of more than five missiles.
+As _[[rangoric-srd/spells/Magic Missile|magic missile]]_ except as noted above. The caster may loose one missile per caster level, but no single creature can be the target of more than five missiles.
 
 Inanimate objects (locks, etc.) can be damaged in a limited fashion by this spell. Such objects are dealt minimum damage (2 hp per missile), but this damage bypasses the hardness of the material. An immobile, inanimate object can be targeted with any number of missiles.

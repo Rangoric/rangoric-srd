@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Elemental Ascetic
 
-*A [[rangoric-srd/classes/Kineticist#^kineticist-archetypes|kineticist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Kineticist#^kineticist-archetypes|kineticist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 An elemental ascetic channels his powers through his body, as a monk does.
 

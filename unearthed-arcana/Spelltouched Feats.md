@@ -40,7 +40,7 @@ Because these feats are variants, they employ other game mechanics rarely seen i
 | Eyes to the Sky       | Exposure to scrying or greater scrying                              | Automatically spot magical scrying sensor within 40 feet                                                |
 | False Pretenses       | Exposure to charm or dominate spell                                 | Mislead opponent into thinking you are charmed or dominated                                             |
 | Ineluctable Echo      | Exposure to wail of the banshee or any power word spell             | Caster who targets you with power word spell or wail of the banshee is also affected by spell           |
-| Life Leech            | Exposure to death touch granted power or death knell spell          | Each dying or stable creature within 30 feet loses 1 hp, which you gain as temporary hit points    |
+| Life Leech            | Exposure to death touch granted power or death knell spell          | Each dying or stable creature within 30 feet loses 1 hp, which you gain as temporary hit points         |
 | Live My Nightmare     | Exposure to phantasmal killer                                       | Send nightmarish vision against creature that targets you with divination effect                        |
 | Momentary Alteration  | Exposure to alter self                                              | Use alter self as spell-like ability for 1 minute once per day                                          |
 | Naturalized Denizen   | Exposure to dimensional anchor                                      | You are never treated as extraplanar creature                                                           |
@@ -54,20 +54,20 @@ Because these feats are variants, they employ other game mechanics rarely seen i
 
 The spelltouched feats described below follow the normal format for feats.
 
-  - [[rangoric-srd/feats/Accurate Jaunt|Accurate Jaunt]]
-  - [[rangoric-srd/feats/Bladeproof Skin|Bladeproof Skin]]
-  - [[rangoric-srd/feats/Breadth of Knowledge|Breadth of Knowledge]]
-  - [[rangoric-srd/feats/Conductivity|Conductivity]]
-  - [[rangoric-srd/feats/Controlled Immolation|Controlled Immolation]]
-  - [[rangoric-srd/feats/Eyes to the Sky|Eyes to the Sky]]
-  - [[rangoric-srd/feats/False Pretenses|False Pretenses]]
-  - [[rangoric-srd/feats/Ineluctable Echo|Ineluctable Echo]]
-  - [[rangoric-srd/feats/Life Leech|Life Leech]]
-  - [[rangoric-srd/feats/Live My Nightmare|Live My Nightmare]]
-  - [[rangoric-srd/feats/Momentary Alteration|Momentary Alteration]]
-  - [[rangoric-srd/feats/Naturalized Denizen|Naturalized Denizen]]
-  - [[rangoric-srd/feats/Omniscient Whispers|Omniscient Whispers]]
-  - [[rangoric-srd/feats/Photosynthetic Skin|Photosynthetic Skin]]
-  - [[rangoric-srd/feats/Polar Chill|Polar Chill]]
-  - [[rangoric-srd/feats/Residual Rebound|Residual Rebound]]
-  - [[rangoric-srd/feats/Stench of the Dead|Stench of the Dead]]
+- [[rangoric-srd/feats/Accurate Jaunt|Accurate Jaunt]]
+- [[rangoric-srd/feats/Bladeproof Skin|Bladeproof Skin]]
+- [[rangoric-srd/feats/Breadth of Knowledge|Breadth of Knowledge]]
+- [[rangoric-srd/feats/Conductivity|Conductivity]]
+- [[rangoric-srd/feats/Controlled Immolation|Controlled Immolation]]
+- [[rangoric-srd/feats/Eyes to the Sky|Eyes to the Sky]]
+- [[rangoric-srd/feats/False Pretenses|False Pretenses]]
+- [[rangoric-srd/feats/Ineluctable Echo|Ineluctable Echo]]
+- [[rangoric-srd/feats/Life Leech|Life Leech]]
+- [[rangoric-srd/feats/Live My Nightmare|Live My Nightmare]]
+- [[rangoric-srd/feats/Momentary Alteration|Momentary Alteration]]
+- [[rangoric-srd/feats/Naturalized Denizen|Naturalized Denizen]]
+- [[rangoric-srd/feats/Omniscient Whispers|Omniscient Whispers]]
+- [[rangoric-srd/feats/Photosynthetic Skin|Photosynthetic Skin]]
+- [[rangoric-srd/feats/Polar Chill|Polar Chill]]
+- [[rangoric-srd/feats/Residual Rebound|Residual Rebound]]
+- [[rangoric-srd/feats/Stench of the Dead|Stench of the Dead]]

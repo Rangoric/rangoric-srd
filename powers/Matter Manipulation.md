@@ -31,7 +31,7 @@ Metacreativity
 **Duration:** Instantaneous  
 **Saving Throw:** None  
 **Power Resistance:** Yes  
-**Power Points:** 15, XP  
+**Power Points:** 15, XP
 
 You can weaken or strengthen the substance of an object or structure. You can affect both mundane and magical inanimate material. Weakening an object’s substance decreases its hardness and hit points, and strengthening it increases its hardness and hit points. You can increase or decrease an object’s hardness by up to 5 from its original hardness. When hardness increases, the object (or portion of an object) gains 3 hit points per inch of thickness for every point of increased hardness. When hardness decreases, the object (or portion of an object) loses 2 hit points per inch of thickness for every point of decreased hardness (to a minimum of 1 hit point per inch of thickness).
 

@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Halfling Slinger
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Halfling)
-  - **Hit Dice**: 9d10+18 (72 hp)
-  - **Initiative**: +5
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 22 (+6 armor, +5 Dex, +1 size), touch 16, flat-footed 17
-  - **Base Attack**: +9; **CMB**: +13; **CMD**: 26
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Halfling Sling Staff|halfling sling staff]] +18 melee (1d4+9/19–20) or [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +14 melee (1d4+4/19–20) or +1 [[rangoric-srd/equipment/weapons/Halfling Sling Staff|halfling sling staff]] +23 ranged (1d6+8/19–20/×3)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Halfling Sling Staff|halfling sling staff]] +18/+13 melee (1d4+9/19–20); or [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +14/+9 melee (1d4+4/19–20); or +1 [[rangoric-srd/equipment/weapons/Halfling Sling Staff|halfling sling staff]] +23 ranged (1d6+8/19–20/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (thrown +2, light blades +1)
-  - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +2, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 2
-  - **Saves**: Fort +11, Ref +11, Will +9 (+4 vs. fear)
-  - **Abilities**: Str 16, Dex 20, Con 14, Int 8, Wis 12, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +17, [[rangoric-srd/skills/Athletics|Athletics]] +5 (+1 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +15, [[rangoric-srd/skills/Perception|Perception]] +5
-  - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]] (halfling sling staff), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (halfling sling staff), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (halfling sling staff), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (halfling sling staff)
-  - **Environment**: Warm plains
-  - **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])
-  - **Challenge Rating**: 8
-  - **Treasure**: NPC gear (combat gear: +1 elf-bane bullets (5), potion of bull's strength, potion of cure moderate wounds, potion of heroism, potion of invisibility; other gear: breastplate, +1 halfling sling staff with 20 bullets, short sword, belt of incredible dexterity +2, brooch of shielding (35 points of damage remaining), bit and bridle, masterwork studded leather barding, military saddle, riding dog, saddlebags, 161 gp)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Halfling)
+- **Hit Dice**: 9d10+18 (72 hp)
+- **Initiative**: +5
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 22 (+6 armor, +5 Dex, +1 size), touch 16, flat-footed 17
+- **Base Attack**: +9; **CMB**: +13; **CMD**: 26
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Halfling Sling Staff|halfling sling staff]] +18 melee (1d4+9/19–20) or [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +14 melee (1d4+4/19–20) or +1 [[rangoric-srd/equipment/weapons/Halfling Sling Staff|halfling sling staff]] +23 ranged (1d6+8/19–20/×3)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Halfling Sling Staff|halfling sling staff]] +18/+13 melee (1d4+9/19–20); or [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +14/+9 melee (1d4+4/19–20); or +1 [[rangoric-srd/equipment/weapons/Halfling Sling Staff|halfling sling staff]] +23 ranged (1d6+8/19–20/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (thrown +2, light blades +1)
+- **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +2, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 2
+- **Saves**: Fort +11, Ref +11, Will +9 (+4 vs. fear)
+- **Abilities**: Str 16, Dex 20, Con 14, Int 8, Wis 12, Cha 12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +17, [[rangoric-srd/skills/Athletics|Athletics]] +5 (+1 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +15, [[rangoric-srd/skills/Perception|Perception]] +5
+- **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]] (halfling sling staff), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (halfling sling staff), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (halfling sling staff), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (halfling sling staff)
+- **Environment**: Warm plains
+- **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])
+- **Challenge Rating**: 8
+- **Treasure**: NPC gear (combat gear: +1 elf-bane bullets (5), potion of bull's strength, potion of cure moderate wounds, potion of heroism, potion of invisibility; other gear: breastplate, +1 halfling sling staff with 20 bullets, short sword, belt of incredible dexterity +2, brooch of shielding (35 points of damage remaining), bit and bridle, masterwork studded leather barding, military saddle, riding dog, saddlebags, 161 gp)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A halfling slinger is a [[rangoric-srd/monsters/halfling/Halfling|halfling]] with 9 levels of [[rangoric-srd/classes/Fighter|fighter]]. Halfling slingers often patrol the areas surrounding halfling settlements. Sometimes they hire themselves out as scouts and skirmishers.
 

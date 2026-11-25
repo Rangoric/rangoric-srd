@@ -39,7 +39,7 @@ tags: [rangoric, rangoric/monster]
 
 # Puppeteer, Flesh Harrower
 
-Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Psionic)      
+Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Psionic)     
 **Hit Dice:** 3d10+15 (31 hp)     
 **Initiative:** +3     
 **Speed:** 20 ft. (4 squares)     
@@ -60,10 +60,10 @@ Full **Attack:** Bite +6 melee (1d6+2) and 2 tail blades +1 melee (1d4+1)   
 Treasure: None     
 **Alignment:** Always neutral     
 **Advancement:** 4-6 HD (Small); 7-9 HD (Medium)     
-**Level Adjustment:** -     
+**Level Adjustment:** -   
 
 #### Combat
 
-Psi-Like **Abilities:** 3/day - [[rangoric-srd/powers/Concealing Amorpha|concealing amorpha]], [[rangoric-srd/powers/Hustle|hustle]], [[rangoric-srd/powers/Mental Barrier|mental barrier]]; 1/day - [[rangoric-srd/powers/Vigor|vigor]] (+15 hp\*). Manifester level 3rd.  
+Psi-Like **Abilities:** 3/day - [[rangoric-srd/powers/Concealing Amorpha|concealing amorpha]], [[rangoric-srd/powers/Hustle|hustle]], [[rangoric-srd/powers/Mental Barrier|mental barrier]]; 1/day - [[rangoric-srd/powers/Vigor|vigor]] (+15 hp\*). Manifester level 3rd.
 
 \*Includes augmentation for the flesh harrower’s manifester level.

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Contemplative
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
-  - **Hit Dice**: 4d10–4 (18 hp)
-  - **Initiative**: +1
-  - **Speed**: 5 ft. (1 square), fly 30 ft. (perfect)
-  - **Armor Class**: 12 (+1 Dex, +1 dodge), touch 12, flat-footed 10
-  - **Base Attack**: +4; **CMB**: +2; **CMD**: 14
-  - **Attack**: Claw +2 melee (1d4–2)
-  - **Full Attack**: 2 claws +2 melee (1d4–2)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-  - **Saves**: Fort +0, Ref +5, Will +7
-  - **Abilities**: Str 6, Dex 13, Con 8, Int 24, Wis 17, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +9, [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Emulation|Emulation]] +9, [[rangoric-srd/skills/Linguistics|Linguistics]] +11, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Society|Society]] +11, [[rangoric-srd/skills/Theology|Theology]] +11
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]]
-  - **Environment**: Any urban
-  - **Organization**: Solitary, trio, or band (4–7)
-  - **Challenge Rating**: 2
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
+- **Hit Dice**: 4d10–4 (18 hp)
+- **Initiative**: +1
+- **Speed**: 5 ft. (1 square), fly 30 ft. (perfect)
+- **Armor Class**: 12 (+1 Dex, +1 dodge), touch 12, flat-footed 10
+- **Base Attack**: +4; **CMB**: +2; **CMD**: 14
+- **Attack**: Claw +2 melee (1d4–2)
+- **Full Attack**: 2 claws +2 melee (1d4–2)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
+- **Saves**: Fort +0, Ref +5, Will +7
+- **Abilities**: Str 6, Dex 13, Con 8, Int 24, Wis 17, Cha 21
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +9, [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Emulation|Emulation]] +9, [[rangoric-srd/skills/Linguistics|Linguistics]] +11, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Society|Society]] +11, [[rangoric-srd/skills/Theology|Theology]] +11
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]]
+- **Environment**: Any urban
+- **Organization**: Solitary, trio, or band (4–7)
+- **Challenge Rating**: 2
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Once, the entities that would become known as contemplatives were relatively normal humanoids, notable only for their extreme intelligence. At some point in the distant past, however, their race discovered a great secret within itself, unlocking the mind's potential for such sought-after mental powers as telekinesis. Evolution—whether natural or forced by the contemplatives themselves—made their incredible brains the sole focus of their advancement, and as the contemplatives grew to rely more and more on their psychic abilities, their limbs withered and shrank.
 
@@ -69,4 +69,4 @@ A typical contemplative weighs roughly 100 pounds and measures 4 feet in diamete
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +9): Constant—*[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Read Magic|read magic]]*, *[[rangoric-srd/spells/Tongues|tongues]]*; At will—*[[rangoric-srd/spells/Daze|daze]]* (DC 15), *[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]* (DC 17), *[[rangoric-srd/spells/Ghost Sound|ghost sound]]* (DC 15), *[[rangoric-srd/spells/Magic Missile|magic missile]]*; 1/day—*[[rangoric-srd/spells/Telekinesis|telekinesis]]* (DC 20).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +9): Constant—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_, _[[rangoric-srd/spells/Tongues|tongues]]_; At will—_[[rangoric-srd/spells/Daze|daze]]_ (DC 15), _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 17), _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 15), _[[rangoric-srd/spells/Magic Missile|magic missile]]_; 1/day—_[[rangoric-srd/spells/Telekinesis|telekinesis]]_ (DC 20).

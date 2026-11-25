@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/armor]
 
 # Fetish Armor
 
-*Light armor.* Cost 25 gp; Armor Bonus 0; Maximum Dex Bonus +8; Armor Check Penalty 0; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 5 lb. ^stats
+_Light armor._ Cost 25 gp; Armor Bonus 0; Maximum Dex Bonus +8; Armor Check Penalty 0; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 5 lb. ^stats
 
 Fetish armor is made up of tiny pouches holding divine spell components and tied onto a leather harness. Nonmagical fetish armor provides no protection whatsoever, and most suits are therefore magical.
 

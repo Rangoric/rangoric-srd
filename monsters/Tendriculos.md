@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Tendriculos
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 9d8+36 (76 hp)
-  - **Initiative**: +3
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 19 (–1 Dex, +12 natural, –2 size), touch 7, flat-footed 19
-  - **Base Attack**: +6; **CMB**: +15 (+19 grapple); **CMD**: 24 (can't be tripped)
-  - **Attack**: Bite +11 melee (2d6+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tentacle +11 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +11 melee (2d6+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 tentacles +6 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Paralysis|Paralysis]] (3d6 rounds, DC 18), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d6 acid damage plus paralysis, AC 15, 7 hp)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 10 (bludgeoning or fire), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-  - **Saves**: Fort +10, Ref +4, Will +4
-  - **Abilities**: Str 24, Dex 9, Con 18, Int 3, Wis 8, Cha 3
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +1 (+9 in undergrowth)
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Temperate or warm forests
-  - **Organization**: Solitary, pair, or grove (3–6)
-  - **Challenge Rating**: 6
-  - **Treasure**: Standard
-  - **Alignment**: Always neutral
-  - **Advancement**: 10–16 HD (Huge); 17–27 HD (Gargantuan)
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 9d8+36 (76 hp)
+- **Initiative**: +3
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 19 (–1 Dex, +12 natural, –2 size), touch 7, flat-footed 19
+- **Base Attack**: +6; **CMB**: +15 (+19 grapple); **CMD**: 24 (can't be tripped)
+- **Attack**: Bite +11 melee (2d6+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tentacle +11 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +11 melee (2d6+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 tentacles +6 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Paralysis|Paralysis]] (3d6 rounds, DC 18), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d6 acid damage plus paralysis, AC 15, 7 hp)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 10 (bludgeoning or fire), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
+- **Saves**: Fort +10, Ref +4, Will +4
+- **Abilities**: Str 24, Dex 9, Con 18, Int 3, Wis 8, Cha 3
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +1 (+9 in undergrowth)
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Temperate or warm forests
+- **Organization**: Solitary, pair, or grove (3–6)
+- **Challenge Rating**: 6
+- **Treasure**: Standard
+- **Alignment**: Always neutral
+- **Advancement**: 10–16 HD (Huge); 17–27 HD (Gargantuan)
+- **Level Adjustment**: —
 
 A tendriculos is a creature brought into being through a corruption of nature, often where foul magic has seeped into the environs for many years, or where the boundaries between the Material Plane and the mysterious realm of the fey have worn thin. Tales and myths speak of arcane manipulation from other planes, while others speak of a tendriculos as being the manifestation of an angered spirit of nature.
 

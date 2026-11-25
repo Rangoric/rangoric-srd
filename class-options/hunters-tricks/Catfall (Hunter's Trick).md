@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Catfall
 
-*A [[rangoric-srd/class-options/hunters-tricks/Hunter's Tricks|hunter’s trick]] (Ex), which a [[rangoric-srd/class-options/archetypes/ranger/Skirmisher (Archetype)|skirmisher]] ranger learns.*
+_A [[rangoric-srd/class-options/hunters-tricks/Hunter's Tricks|hunter’s trick]] (Ex), which a [[rangoric-srd/class-options/archetypes/ranger/Skirmisher (Archetype)|skirmisher]] ranger learns._
 
 The ranger can use this trick as an immediate action when he falls 20 or more feet, ignoring the first 20 feet of the fall when calculating the [[rangoric-srd/rules/Wilderness, Weather, and Environment#Falling|falling damage]]. If the ranger takes no damage from the fall, he does not fall [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]].

@@ -27,7 +27,7 @@ Psychometabolism
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 min./level  
-**Power Points:** 15  
+**Power Points:** 15
 
 You are difficult to kill while this power persists. You automatically heal damage at the rate of 10 hit points per round.
 

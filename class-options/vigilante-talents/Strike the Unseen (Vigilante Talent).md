@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Strike the Unseen
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 The vigilante gains [[rangoric-srd/feats/Blind-Fight|Blind-Fight]] as a bonus feat. He can also deal [[rangoric-srd/classes/Vigilante#^vigilante-specialization|hidden strike]] damage against targets with total concealment.
 

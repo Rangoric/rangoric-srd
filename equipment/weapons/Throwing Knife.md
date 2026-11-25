@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 
 # Throwing Knife
 
-*Simple ranged weapon.* Cost 1 gp; Dmg 1d2 (S), 1d3 (M); Critical x2; Range Increment 10 ft.; Weight 1/2 lb.; Type Piercing. ^stats
+_Simple ranged weapon._ Cost 1 gp; Dmg 1d2 (S), 1d3 (M); Critical x2; Range Increment 10 ft.; Weight 1/2 lb.; Type Piercing. ^stats
 
 Easily concealed, this needle-like blade is approximately four inches in length. The lightweight, fluid nature of these weapons allows the wielder to throw two at a time from his primary weapon hand.

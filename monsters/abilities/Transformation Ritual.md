@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Transformation Ritual
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “transformation ritual”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “transformation ritual”, on the Special Qualities line.
 
 A swan maiden can transform a willing good female humanoid into a swan maiden via a ritual that takes 24 hours. The humanoid loses her class and racial abilities. The [[rangoric-srd/monsters/Swan Maiden|swan maiden]] has it.

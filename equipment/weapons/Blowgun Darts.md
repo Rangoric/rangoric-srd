@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/weapon]
 
 # Blowgun Darts
 
-*Ammunition (10).* Cost 5 sp; Weight —. ^stats
+_Ammunition (10)._ Cost 5 sp; Weight —. ^stats
 
 The thin, light darts used in a blowgun are usually made of hardwood with a stabilizing fletching of down or fur. A dart is usually loaded from the back end just before firing.

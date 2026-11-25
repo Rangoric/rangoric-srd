@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Protection
 
-*An [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-judgment|inquisitor’s judgment]].*
+_An [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-judgment|inquisitor’s judgment]]._
 
 The inquisitor is surrounded by a protective aura, granting a +1 sacred bonus to Armor Class. This bonus increases by +1 for every five inquisitor levels she possesses. At 10th level, this bonus is doubled against attack rolls made to confirm critical hits against the inquisitor.

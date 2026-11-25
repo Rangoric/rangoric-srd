@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, fighter-bonus, epic]
 
 # Perfect Two-Weapon Fighting
 
-Prerequisites: Dex 25, [[rangoric-srd/feats/Greater Two-Weapon Fighting|Greater Two-Weapon Fighting]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]].  
+Prerequisites: Dex 25, [[rangoric-srd/feats/Greater Two-Weapon Fighting|Greater Two-Weapon Fighting]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]].
 
 Benefit: The character can make as many attacks with his or her off-hand weapon as with his or her primary weapon, using the same base attack bonus. The character still takes the normal penalties for fighting with two weapons.
 

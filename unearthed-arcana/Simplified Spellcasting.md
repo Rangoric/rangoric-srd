@@ -28,7 +28,7 @@ If your class grants bonus spells that are selected from an extremely limited nu
 
 For example, a 13th-level necromancer with an Intelligence score of 26 has a pool of five spells—three for being a 13th-level wizard and two for his high Intelligence (a +8 Intelligence modifier divided by 4)—as well as two additional spells per day that must be from the necromancy school. He could use the pool to cast his 1st- to 4th-level spells, but would still need to prepare his 5th- to 7th-level spells.
 
-**Expending Multiple Spell Slots**: If you have a class ability that requires expending multiple spell slots, such as a battle oracle's combat healer revelation or a wizard's opposition school, you must expend the appropriate number of slots from your spell pool to use the ability. For instance, if the 13th-level necromancer in the example above has conjuration as an opposition school, he could expend two slots from his spell pool to cast *[[rangoric-srd/spells/Summon Monster II|summon monster II]]*.
+**Expending Multiple Spell Slots**: If you have a class ability that requires expending multiple spell slots, such as a battle oracle's combat healer revelation or a wizard's opposition school, you must expend the appropriate number of slots from your spell pool to use the ability. For instance, if the 13th-level necromancer in the example above has conjuration as an opposition school, he could expend two slots from his spell pool to cast _[[rangoric-srd/spells/Summon Monster II|summon monster II]]_.
 
 **Table: Magus or Warpriest (Spells per Day)**
 
@@ -90,7 +90,7 @@ This system doesn't apply to spellcasters such as paladins and rangers, who gain
 
 When using a metamagic feat to modify a spell cast from a spell pool, the caster is treated as if he were a spontaneous caster (increasing the casting time to a full-round action if applicable). The spell must still fall under the level he can cast with his pool. Otherwise, he must still expend one of his spell slots to prepare it.
 
-For instance, our example 13th-level necromancer could cast an enlarged *[[rangoric-srd/spells/Fireball|fireball]]* as a full-round action using his spell pool, but to cast an empowered *[[rangoric-srd/spells/Fireball|fireball]]*, he would have to expend a 5th-level spell slot to prepare it, since 5th-level spells aren't part of his pool.
+For instance, our example 13th-level necromancer could cast an enlarged _[[rangoric-srd/spells/Fireball|fireball]]_ as a full-round action using his spell pool, but to cast an empowered _[[rangoric-srd/spells/Fireball|fireball]]_, he would have to expend a 5th-level spell slot to prepare it, since 5th-level spells aren't part of his pool.
 
 ## Pearls of Power
 

@@ -24,4 +24,4 @@ A talisman works as described under [[rangoric-srd/magic-items/Magic Item Basics
 
 The first time the wearer is reduced to fewer than half his maximum hit points, he automatically heals 4d8+7 hit points.
 
-Moderate conjuration; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Cure Critical Wounds|cure critical wounds]]*; Price 24,000 gp; Cost 12,000 gp; Weight 1 lb.
+Moderate conjuration; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Cure Critical Wounds|cure critical wounds]]_; Price 24,000 gp; Cost 12,000 gp; Weight 1 lb.

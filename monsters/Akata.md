@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Akata
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 2d8+6 (15 hp)
-  - **Initiative**: +6
-  - **Speed**: 40 ft. (8 squares), climb 20 ft.
-  - **Armor Class**: 13 (+2 Dex, +1 natural), touch 12, flat-footed 11
-  - **Base Attack**: +1; **CMB**: +2; **CMD**: 14 (18 vs. trip)
-  - **Attack**: Bite +2 melee (1d6+1 plus void bite) or tentacle +2 melee (1d3)
-  - **Full Attack**: Bite +2 melee (1d6+1 plus void bite) and 2 tentacles –3 melee (1d3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Hibernation|hibernation]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, disease and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 30, [[rangoric-srd/monsters/abilities/Deaf|deaf]], [[rangoric-srd/monsters/abilities/Vulnerable to Salt|vulnerable to salt]] water
-  - **Saves**: Fort +3, Ref +2, Will +4
-  - **Abilities**: Str 12, Dex 15, Con 16, Int 3, Wis 12, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +9 (+13 jumping), [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, or pack (3–30)
-  - **Challenge Rating**: 1
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 2d8+6 (15 hp)
+- **Initiative**: +6
+- **Speed**: 40 ft. (8 squares), climb 20 ft.
+- **Armor Class**: 13 (+2 Dex, +1 natural), touch 12, flat-footed 11
+- **Base Attack**: +1; **CMB**: +2; **CMD**: 14 (18 vs. trip)
+- **Attack**: Bite +2 melee (1d6+1 plus void bite) or tentacle +2 melee (1d3)
+- **Full Attack**: Bite +2 melee (1d6+1 plus void bite) and 2 tentacles –3 melee (1d3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Hibernation|hibernation]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, disease and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 30, [[rangoric-srd/monsters/abilities/Deaf|deaf]], [[rangoric-srd/monsters/abilities/Vulnerable to Salt|vulnerable to salt]] water
+- **Saves**: Fort +3, Ref +2, Will +4
+- **Abilities**: Str 12, Dex 15, Con 16, Int 3, Wis 12, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +9 (+13 jumping), [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
+- **Environment**: Any
+- **Organization**: Solitary, pair, or pack (3–30)
+- **Challenge Rating**: 1
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Akatas hail from a strange, distant planet that long ago succumbed to a cataclysmic end. Countless akatas clung to fragments of the dead planet, entering hibernation and riding these asteroids until they eventually crashed upon a new planet—akatas' cocoons protected them from the impact, and they soon awoke to seek out suitable hosts to spawn their young. Left untended, an akata scourge can quickly grow into a significant threat. A typical akata stands 3-1/2 feet tall and weighs 400 pounds.
 
@@ -73,7 +73,7 @@ Akatas hail from a strange, distant planet that long ago succumbed to a cataclys
 
 **Void Bite (Ex)**: Akatas hold hundreds of invisibly small larval young within their mouths, spreading these parasitic creatures to hosts through their bite. Only humanoids make suitable hosts for akata young—all other creature types are immune to this parasitic infection. The disease itself is known as void death.
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Void Death|Void Death]]: Bite—injury; *save* Fort DC 12; *onset* 1 hour; *frequency* 1/day; *effect* 1d2 Dex damage and 1d2 Con damage; an infected creature who dies rises as a void zombie 2d4 hours later (see below); *cure* 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Void Death|Void Death]]: Bite—injury; _save_ Fort DC 12; _onset_ 1 hour; _frequency_ 1/day; _effect_ 1d2 Dex damage and 1d2 Con damage; an infected creature who dies rises as a void zombie 2d4 hours later (see below); _cure_ 2 consecutive saves.
 
 **Void Zombie (CR +1)**: A humanoid killed by [[rangoric-srd/rules/afflictions/Void Death|void death]] becomes a void zombie. A void zombie is a [[rangoric-srd/monsters/zombie/Alternate Zombie#Fast Zombie|fast zombie]] that gains a secondary “tongue” attack (actually the larval akata's feeding tendril), dealing 1d6 points of damage. A void zombie also gains the following special attack.
 

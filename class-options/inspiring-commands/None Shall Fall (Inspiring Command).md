@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # None Shall Fall
 
-*A [[rangoric-srd/prestige-classes/Battle Herald#^battle-herald-inspiring-command|battle herald inspiring command]] (Ex); it affects only a certain number of allies.*
+_A [[rangoric-srd/prestige-classes/Battle Herald#^battle-herald-inspiring-command|battle herald inspiring command]] (Ex); it affects only a certain number of allies._
 
 A number of allies equal to the battle herald's inspiring command bonus heal 1d6 points of damage. Targeted allies who are poisoned may attempt a new [[rangoric-srd/rules/Afflictions#Poison|poison]] saving throw with a bonus equal to the battle herald's inspiring command bonus; a failed save has no additional effect, but a successful save counts toward curing the poison. This healing is not positive energy and can heal undead creatures.

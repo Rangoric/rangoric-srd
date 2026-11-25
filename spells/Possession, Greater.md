@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Possession, Greater
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Occ 6, Psy 8, Sor/Wiz 8, Wit 8
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Target**: One creature
-  - **Duration**: Caster level hour(s)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Occ 6, Psy 8, Sor/Wiz 8, Wit 8
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Target**: One creature
+- **Duration**: Caster level hour(s)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 This spell functions as [[rangoric-srd/spells/Possession|possession]], but when you possess a host, you enter the host's body and your physical body vanishes. You are ejected to the closest empty square upon expiration of the spell or upon the host's death.

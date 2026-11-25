@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Psionic Dodge
 
-You are proficient at dodging blows.  
+You are proficient at dodging blows.
 
 Prerequisite: Dex 13, [[rangoric-srd/feats/Dodge|Dodge]].
 

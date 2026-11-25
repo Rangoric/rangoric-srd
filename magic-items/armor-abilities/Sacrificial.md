@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Sacrificial
 
-*Sacrificial* armor grants its wearer another chance to live at the armor’s expense. It melts and penetrates harmlessly into the character’s body immediately after her death, and 1d4 rounds later casts a *[[rangoric-srd/spells/Raise Dead|raise dead]]* spell upon the wearer. The suit of armor is completely lost once it has revived its wearer, and the creature suffers full normal effects for a *raise dead* spell.
+_Sacrificial_ armor grants its wearer another chance to live at the armor’s expense. It melts and penetrates harmlessly into the character’s body immediately after her death, and 1d4 rounds later casts a _[[rangoric-srd/spells/Raise Dead|raise dead]]_ spell upon the wearer. The suit of armor is completely lost once it has revived its wearer, and the creature suffers full normal effects for a _raise dead_ spell.
 
-Strong necromancy; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Raise Dead|raise dead]]*; Price +2 bonus.
+Strong necromancy; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Raise Dead|raise dead]]_; Price +2 bonus.

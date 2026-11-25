@@ -20,12 +20,12 @@ tags: [rangoric, rangoric/spell]
 
 # Spellguard
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Sor/Wiz 3
-  - **Components**: V
-  - **Casting Time**: See text
-  - **Range**: Personal
-  - **Duration**: See text
+- **Level**: Sor/Wiz 3
+- **Components**: V
+- **Casting Time**: See text
+- **Range**: Personal
+- **Duration**: See text
 
-Casting this spell is a free action, like casting a *[[rangoric-srd/feats/Quicken Spell|quickened]]* spell, and it counts toward the normal limit of one *[[rangoric-srd/feats/Quicken Spell|quickened]]* spell per round. If you cast another spell in the same round, the caster level of that spell is +10 when resolving attempts to dispel it. The first attempt to counter a spell protected by Spellguard has no effect.
+Casting this spell is a free action, like casting a _[[rangoric-srd/feats/Quicken Spell|quickened]]_ spell, and it counts toward the normal limit of one _[[rangoric-srd/feats/Quicken Spell|quickened]]_ spell per round. If you cast another spell in the same round, the caster level of that spell is +10 when resolving attempts to dispel it. The first attempt to counter a spell protected by Spellguard has no effect.

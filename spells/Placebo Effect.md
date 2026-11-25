@@ -29,15 +29,15 @@ tags: [rangoric, rangoric/spell]
 
 # Placebo Effect
 
-*Illusion (Phantasm) \[Mind-Affecting\]*
+_Illusion (Phantasm) \[Mind-Affecting\]_
 
-  - **Level**: Med 2, Mes 2, Psy 2
-  - **Components**: V, M (a sugar cube)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: Will disbelief (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Med 2, Mes 2, Psy 2
+- **Components**: V, M (a sugar cube)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 minute/level
+- **Saving Throw**: Will disbelief (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-The subject temporarily ceases to feel the ill effects of a single ongoing affliction or condition from the following list: blinded, cursed, dazed, deafened, diseased, fatigued, frightened, nauseated, panicked, paralyzed, poisoned, shaken, sickened, staggered, or stunned. If that affliction or condition has a duration, it is suspended until this spell expires. If the subject has multiple instances of the same type of affliction (such as multiple diseases), a single casting of this spell can suspend only one of them. *Placebo effect* doesn't remove or temporarily negate any damage that the affliction may have already caused, nor does it provide protection against receiving such conditions again.
+The subject temporarily ceases to feel the ill effects of a single ongoing affliction or condition from the following list: blinded, cursed, dazed, deafened, diseased, fatigued, frightened, nauseated, panicked, paralyzed, poisoned, shaken, sickened, staggered, or stunned. If that affliction or condition has a duration, it is suspended until this spell expires. If the subject has multiple instances of the same type of affliction (such as multiple diseases), a single casting of this spell can suspend only one of them. _Placebo effect_ doesn't remove or temporarily negate any damage that the affliction may have already caused, nor does it provide protection against receiving such conditions again.

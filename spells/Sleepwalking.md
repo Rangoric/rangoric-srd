@@ -34,17 +34,17 @@ tags: [rangoric, rangoric/spell]
 
 # Sleepwalking
 
-*Enchantment (Compulsion) \[Mind-affecting, Language-Dependent\]*
+_Enchantment (Compulsion) \[Mind-affecting, Language-Dependent\]_
 
-  - **Level**: Brd 4, Clr 4, Drd 4, Dream 5, Hun 4, Skd 4, Sor/Wiz 4
-  - **Components**: V, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: 1 hour/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 4, Clr 4, Drd 4, Dream 5, Hun 4, Skd 4, Sor/Wiz 4
+- **Components**: V, M
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: 1 hour/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
-As *[[rangoric-srd/spells/Suggestion|suggestion]]*, except this spell is cast upon a sleeping target. *Sleepwalking* creatures react as if under the effects of a *suggestion* spell, and are awakened by a slap or damage, but not by noise.
+As _[[rangoric-srd/spells/Suggestion|suggestion]]_, except this spell is cast upon a sleeping target. _Sleepwalking_ creatures react as if under the effects of a _suggestion_ spell, and are awakened by a slap or damage, but not by noise.
 
-*Material Component*: A drop of honey dissolved in a crock of warm milk.
+_Material Component_: A drop of honey dissolved in a crock of warm milk.

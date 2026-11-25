@@ -20,9 +20,9 @@ tags: [rangoric, rangoric/magic-item]
 
 These crystalline stones always float in the air and must be within 3 feet of their owner to be of any use. When a character first acquires a stone, she must hold it and then release it, whereupon it takes up a circling orbit 1d3 feet from her head. Thereafter, a stone must be grasped or netted to separate it from its owner. The owner may voluntarily seize and stow a stone (to keep it safe while she is sleeping, for example), but she loses the benefits of the stone during that time. Ioun stones have AC 24, 10 hit points, and hardness 5.
 
-| Color              | Shape     | Effect                                                                        | Market Price |
-| ------------------ | --------- | ----------------------------------------------------------------------------- | ------------ |
-| Vibrant purple     | Prism     | Stores three levels of spells, as a ring of spell storing                     | 36,000 gp    |
+| Color          | Shape | Effect                                                    | Market Price |
+| -------------- | ----- | --------------------------------------------------------- | ------------ |
+| Vibrant purple | Prism | Stores three levels of spells, as a ring of spell storing | 36,000 gp    |
 
 Stored spells in the vibrant purple stone must be placed by a spellcaster but can be used by anyone (see ring of minor spell storing).
 

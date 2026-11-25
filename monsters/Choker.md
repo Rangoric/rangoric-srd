@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Choker
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 3d8+3 (16 hp)
-  - **Initiative**: +6
-  - **Speed**: 20 ft. (4 squares), climb 10 ft.
-  - **Armor Class**: 17 (+2 Dex, +4 natural, +1 size), touch 13, flat-footed 15
-  - **Base Attack**: +2; **CMB**: +4 (+8 grappling); **CMD**: 16
-  - **Attack**: Tentacle +6 melee (1d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: 2 tentacles +6 melee (1d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 5 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d4+3), [[rangoric-srd/monsters/abilities/Strangle|strangle]], [[rangoric-srd/monsters/abilities/Grab|grab]] (Large)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., quickness
-  - **Saves**: Fort +2, Ref +3, Will +4
-  - **Abilities**: Str 16, Dex 14, Con 13, Int 4, Wis 13, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +13
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Any underground
-  - **Organization**: Solitary, pair, or clutch (3–8)
-  - **Challenge Rating**: 2
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: 4–6 HD (Small); 7–12 HD (Medium)
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 3d8+3 (16 hp)
+- **Initiative**: +6
+- **Speed**: 20 ft. (4 squares), climb 10 ft.
+- **Armor Class**: 17 (+2 Dex, +4 natural, +1 size), touch 13, flat-footed 15
+- **Base Attack**: +2; **CMB**: +4 (+8 grappling); **CMD**: 16
+- **Attack**: Tentacle +6 melee (1d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: 2 tentacles +6 melee (1d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 5 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d4+3), [[rangoric-srd/monsters/abilities/Strangle|strangle]], [[rangoric-srd/monsters/abilities/Grab|grab]] (Large)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., quickness
+- **Saves**: Fort +2, Ref +3, Will +4
+- **Abilities**: Str 16, Dex 14, Con 13, Int 4, Wis 13, Cha 7
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +13
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Any underground
+- **Organization**: Solitary, pair, or clutch (3–8)
+- **Challenge Rating**: 2
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: 4–6 HD (Small); 7–12 HD (Medium)
+- **Level Adjustment**: —
 
 Underground predators that often dwell on the outskirts of subterranean ruins or in the deep shadows of nameless cavern outposts, chokers lurk in the darkness and lash out with their long, rubbery arms to grasp prey as it passes by. They seldom attack multiple enemies at once, stalking their quarry until they can isolate a weaker victim from its pack.
 

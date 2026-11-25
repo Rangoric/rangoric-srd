@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/weapon]
 
 # Flight Arrows
 
-*Ammunition (20) for bows.* Cost 2 gp; Weight 3 lb. ^stats
+_Ammunition (20) for bows._ Cost 2 gp; Weight 3 lb. ^stats
 
 These arrows have light shafts and special fletching to give them greater range. A flight arrow's range increment is 20 feet greater with longbows and 10 feet greater with shortbows. They deal damage as if one size category smaller.

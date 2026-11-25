@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Cheetah
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 3d8+6 (19 hp)
-  - **Initiative**: +8
-  - **Speed**: 50 ft. (10 squares); sprint
-  - **Armor Class**: 15 (+4 Dex, +1 natural), touch 14, flat-footed 11
-  - **Base Attack**: +2; **CMB**: +5; **CMD**: 19 (23 vs. trip)
-  - **Attack**: Bite +6 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Trip|trip]]) or claw +6 melee (1d3+3)
-  - **Full Attack**: Bite +6 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Trip|trip]]) and 2 claws +6 melee (1d3+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +5, Ref +7, Will +2
-  - **Abilities**: Str 17, Dex 19, Con 15, Int 2, Wis 12, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+12 in tall grass)
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Warm plains
-  - **Organization**: Solitary, pair, or family (3–5)
-  - **Challenge Rating**: 2
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 4–5 HD (Medium)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 3d8+6 (19 hp)
+- **Initiative**: +8
+- **Speed**: 50 ft. (10 squares); sprint
+- **Armor Class**: 15 (+4 Dex, +1 natural), touch 14, flat-footed 11
+- **Base Attack**: +2; **CMB**: +5; **CMD**: 19 (23 vs. trip)
+- **Attack**: Bite +6 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Trip|trip]]) or claw +6 melee (1d3+3)
+- **Full Attack**: Bite +6 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Trip|trip]]) and 2 claws +6 melee (1d3+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +5, Ref +7, Will +2
+- **Abilities**: Str 17, Dex 19, Con 15, Int 2, Wis 12, Cha 6
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+12 in tall grass)
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Warm plains
+- **Organization**: Solitary, pair, or family (3–5)
+- **Challenge Rating**: 2
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 4–5 HD (Medium)
+- **Level Adjustment**: —
 
 The cheetah is a swift and deadly predator capable of moving with incredible speed, allowing it to run down unsuspecting foes hundreds of feet away. The hunting cat avoids areas of dense and tangled undergrowth, but has great skill at lying in wait in tall grass.
 

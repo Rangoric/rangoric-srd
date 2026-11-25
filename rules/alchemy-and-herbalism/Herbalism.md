@@ -239,16 +239,16 @@ Take the base price of an herb and multiply the cost against the tabulated facto
 
 **Table: Herbal Costs Adjustment** ^table-herbal-costs
 
-| Distances | No set Harvest or Harvest Season | Harvest Season +1 | Harvest Season +2 | Harvest Season +3 |
-|---|---|---|---|---|
-| 0-10 miles | Base Cost | 1.2 | 1.4 | 1.6 |
-| 11-30 miles | 1.1 | 1.3 | 1.5 | 1.7 |
-| 31-75 miles | 1.2 | 1.4 | 1.6 | 1.8 |
-| 76-200 miles | 1.25 | 1.45 | 1.65 | 1.85 |
-| 201-400 miles | 1.5 | 1.7 | 1.9 | 2.1 |
-| 401-600 miles | 1.75 | 1.95 | 2.15 | 2.35 |
-| 601-800 miles | 2 | 2.2 | 2.4 | 2.6 |
-| 801-1000 miles | 2.25 | 2.45 | 2.65 | 2.8 |
-| *Beyond 1000 miles (add per 500 miles)* | *+0.5* *Elevation difference over 1000 feet (add per 1000 feet diff. between market and source)* |  | *+ 0.1* |  |
+| Distances                               | No set Harvest or Harvest Season                                                                 | Harvest Season +1 | Harvest Season +2 | Harvest Season +3 |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------- | ----------------- | ----------------- |
+| 0-10 miles                              | Base Cost                                                                                        | 1.2               | 1.4               | 1.6               |
+| 11-30 miles                             | 1.1                                                                                              | 1.3               | 1.5               | 1.7               |
+| 31-75 miles                             | 1.2                                                                                              | 1.4               | 1.6               | 1.8               |
+| 76-200 miles                            | 1.25                                                                                             | 1.45              | 1.65              | 1.85              |
+| 201-400 miles                           | 1.5                                                                                              | 1.7               | 1.9               | 2.1               |
+| 401-600 miles                           | 1.75                                                                                             | 1.95              | 2.15              | 2.35              |
+| 601-800 miles                           | 2                                                                                                | 2.2               | 2.4               | 2.6               |
+| 801-1000 miles                          | 2.25                                                                                             | 2.45              | 2.65              | 2.8               |
+| _Beyond 1000 miles (add per 500 miles)_ | _+0.5_ _Elevation difference over 1000 feet (add per 1000 feet diff. between market and source)_ |                   | _+ 0.1_           |                   |
 
 Don’t let the decimals scare you—they’re simple to deal with in d20 terms. The first digit tends to be gold pieces, the second (first after the decimal) is silver, and the third is copper.

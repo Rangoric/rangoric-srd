@@ -18,14 +18,14 @@ tags: [rangoric, rangoric/class-option]
 
 # Wood Soldiers
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Wood Element|wood]]
-  - **Type**: utility (Su)
-  - **Level**: 8
-  - **Burn**: 1
+- **Element**: [[rangoric-srd/class-options/elements/Wood Element|wood]]
+- **Type**: utility (Su)
+- **Level**: 8
+- **Burn**: 1
 
-Your presence animates surrounding plant life and causes it to fight by your side. Each time you recover [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]], you automatically use this ability once and ignore the burn cost. This functions as *[[rangoric-srd/spells/Wooden Phalanx|wooden phalanx]]*, except you always animate four golems, and the duration lasts until the next time you recover burn.
+Your presence animates surrounding plant life and causes it to fight by your side. Each time you recover [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]], you automatically use this ability once and ignore the burn cost. This functions as _[[rangoric-srd/spells/Wooden Phalanx|wooden phalanx]]_, except you always animate four golems, and the duration lasts until the next time you recover burn.
 
 If you have [[rangoric-srd/class-options/wild-talents/Spring Blast|spring blast]], one of your golems gains a 30-foot fly speed (average maneuverability).
 

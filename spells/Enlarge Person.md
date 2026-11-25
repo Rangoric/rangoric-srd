@@ -34,16 +34,16 @@ tags: [rangoric, rangoric/spell]
 
 # Enlarge Person
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 1, Blr 1, Mag 1, Med 1, Occ 1, Psy 1, Sor/Wiz 1, Strength 1, Sum 1, SumU 1, Wit 1
-  - **Components**: V, S, M
-  - **Casting Time**: 1 round
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One humanoid creature
-  - **Duration**: 1 min./level (D)
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Alc 1, Blr 1, Mag 1, Med 1, Occ 1, Psy 1, Sor/Wiz 1, Strength 1, Sum 1, SumU 1, Wit 1
+- **Components**: V, S, M
+- **Casting Time**: 1 round
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One humanoid creature
+- **Duration**: 1 min./level (D)
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
 This spell causes instant growth of a humanoid creature, doubling its height and multiplying its weight by 8. This increase changes the creature’s size category to the next larger one. The target gains a +2 size bonus to Strength, a –2 size penalty to Dexterity (to a minimum of 1), and a –1 penalty on attack rolls and AC due to its increased size.
 
@@ -59,4 +59,4 @@ Enlarge person counters and dispels reduce person.
 
 Enlarge person can be made permanent with a permanency spell.
 
-*Material Component*: A pinch of powdered iron.
+_Material Component_: A pinch of powdered iron.

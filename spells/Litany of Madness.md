@@ -30,16 +30,16 @@ tags: [rangoric, rangoric/spell]
 
 # Litany of Madness
 
-*Enchantment (Charm) \[Language-dependent, Mind-affecting\]*
+_Enchantment (Charm) \[Language-dependent, Mind-affecting\]_
 
-  - **Level**: Apl 4, Inq 6
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 swift action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: 1 or more rounds (see below)
-  - **Saving Throw**: No, see below
-  - **Spell Resistance**: Yes
+- **Level**: Apl 4, Inq 6
+- **Components**: V, S, DF
+- **Casting Time**: 1 swift action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: 1 or more rounds (see below)
+- **Saving Throw**: No, see below
+- **Spell Resistance**: Yes
 
 This litany is a sermon of madness. The target is confused. At the start of each of its turns, it can make a Will saving throw against the confused effect (DC of the spell). If the target fails the save, it continues to be confused. If it makes the save, the effect ends.
 

@@ -15,8 +15,8 @@ tags: [rangoric, rangoric/overview]
 
 ## In Alphabetical Order
 
-| Spell                                                               | School        | Subschool  | Descriptor     | Level                 | Components  |
-| ------------------------------------------------------------------- | ------------- | ---------- | -------------- | --------------------- | ----------- |
+| Spell                                                             | School        | Subschool  | Descriptor     | Level                 | Components  |
+| ----------------------------------------------------------------- | ------------- | ---------- | -------------- | --------------------- | ----------- |
 | [[rangoric-srd/spells/Armor Of Darkness\|Armor of Darkness]]      | Abjuration    |            | Darkness       | Darkness 4            | V, S, DF    |
 | [[rangoric-srd/spells/Blacklight\|Blacklight]]                    | Evocation     |            | Darkness       | Darkness 3, Sor/Wiz 3 | V, S, M     |
 | [[rangoric-srd/spells/Bolt Of Glory\|Bolt of Glory]]              | Evocation     |            | Good           | Glory 6               | V, S, DF    |
@@ -30,15 +30,15 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Touch Of Madness\|Touch of Madness]]        | Enchantment   |            | Mind-Affecting | Madness 2             | V, S        |
 | [[rangoric-srd/spells/True Creation (Spell)\|True Creation]]      | Conjuration   | Creation   |                | Creation 8            | V, S, M, XP |
 
-  - [[rangoric-srd/spells/Armor Of Darkness|Armor Of Darkness]]
-  - [[rangoric-srd/spells/Blacklight|Blacklight]]
-  - [[rangoric-srd/spells/Bolt Of Glory|Bolt Of Glory]]
-  - [[rangoric-srd/spells/Bolts Of Bedevilment|Bolts Of Bedevilment]]
-  - [[rangoric-srd/spells/Crown Of Glory|Crown Of Glory]]
-  - [[rangoric-srd/spells/Genesis (Spell)|Genesis (Spell)]]
-  - [[rangoric-srd/spells/Hardening|Hardening]]
-  - [[rangoric-srd/spells/Maddening Scream|Maddening Scream]]
-  - [[rangoric-srd/spells/Status, Greater|Status, Greater]]
-  - [[rangoric-srd/spells/Surelife|Surelife]]
-  - [[rangoric-srd/spells/Touch Of Madness|Touch Of Madness]]
-  - [[rangoric-srd/spells/True Creation (Spell)|True Creation (Spell)]]
+- [[rangoric-srd/spells/Armor Of Darkness|Armor Of Darkness]]
+- [[rangoric-srd/spells/Blacklight|Blacklight]]
+- [[rangoric-srd/spells/Bolt Of Glory|Bolt Of Glory]]
+- [[rangoric-srd/spells/Bolts Of Bedevilment|Bolts Of Bedevilment]]
+- [[rangoric-srd/spells/Crown Of Glory|Crown Of Glory]]
+- [[rangoric-srd/spells/Genesis (Spell)|Genesis (Spell)]]
+- [[rangoric-srd/spells/Hardening|Hardening]]
+- [[rangoric-srd/spells/Maddening Scream|Maddening Scream]]
+- [[rangoric-srd/spells/Status, Greater|Status, Greater]]
+- [[rangoric-srd/spells/Surelife|Surelife]]
+- [[rangoric-srd/spells/Touch Of Madness|Touch Of Madness]]
+- [[rangoric-srd/spells/True Creation (Spell)|True Creation (Spell)]]

@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Destruction Domain
 
-*A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
+_A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]]._
 
 **Subdomains**: [[rangoric-srd/class-options/domains/Catastrophe Subdomain|Catastrophe]], [[rangoric-srd/class-options/domains/Rage Subdomain|Rage]].
 
@@ -33,17 +33,17 @@ You revel in ruin and devastation, and can deliver particularly destructive atta
 
 Where a level has two spells, the cleric prepares [[rangoric-srd/class-options/domains/Domains#^domains-two-spells|either one]] in the domain spell slot.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Inflict Light Wounds\|Inflict Light Wounds]] | Touch attack, 1d8 damage +1/level (max +5). |
-| 1st | [[rangoric-srd/spells/True Strike\|True Strike]] (F) | +20 on your next attack roll. |
-| 2nd | [[rangoric-srd/spells/Shatter\|Shatter]] | Sonic vibration damages objects or crystalline creatures. |
-| 3rd | [[rangoric-srd/spells/Contagion\|Contagion]] | Infects subject with chosen disease. |
-| 3rd | [[rangoric-srd/spells/Rage\|Rage]] | Subjects gains +2 to Str and Con, +1 on Will saves, –2 to AC. |
-| 4th | [[rangoric-srd/spells/Inflict Critical Wounds\|Inflict Critical Wounds]] | Touch attack, 4d8 damage +1/level (max +20). |
-| 5th | [[rangoric-srd/spells/Inflict Light Wounds, Mass\|Inflict Light Wounds, Mass]] | Deals 1d8 damage +1/level to any creatures. |
-| 5th | [[rangoric-srd/spells/Shout\|Shout]] | Deafens all within cone and deals 5d6 sonic damage. |
-| 6th | [[rangoric-srd/spells/Harm\|Harm]] | Deals 10 points/level damage to target. |
-| 7th | [[rangoric-srd/spells/Disintegrate\|Disintegrate]] | Makes one creature or object vanish. |
-| 8th | [[rangoric-srd/spells/Earthquake\|Earthquake]] | Intense tremor shakes 5-ft./level radius. |
-| 9th | [[rangoric-srd/spells/Implosion\|Implosion]] | Kills one creature/round. |
+| Level | Spell                                                                          | Brief Description                                             |
+| ----- | ------------------------------------------------------------------------------ | ------------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Inflict Light Wounds\|Inflict Light Wounds]]             | Touch attack, 1d8 damage +1/level (max +5).                   |
+| 1st   | [[rangoric-srd/spells/True Strike\|True Strike]] (F)                           | +20 on your next attack roll.                                 |
+| 2nd   | [[rangoric-srd/spells/Shatter\|Shatter]]                                       | Sonic vibration damages objects or crystalline creatures.     |
+| 3rd   | [[rangoric-srd/spells/Contagion\|Contagion]]                                   | Infects subject with chosen disease.                          |
+| 3rd   | [[rangoric-srd/spells/Rage\|Rage]]                                             | Subjects gains +2 to Str and Con, +1 on Will saves, –2 to AC. |
+| 4th   | [[rangoric-srd/spells/Inflict Critical Wounds\|Inflict Critical Wounds]]       | Touch attack, 4d8 damage +1/level (max +20).                  |
+| 5th   | [[rangoric-srd/spells/Inflict Light Wounds, Mass\|Inflict Light Wounds, Mass]] | Deals 1d8 damage +1/level to any creatures.                   |
+| 5th   | [[rangoric-srd/spells/Shout\|Shout]]                                           | Deafens all within cone and deals 5d6 sonic damage.           |
+| 6th   | [[rangoric-srd/spells/Harm\|Harm]]                                             | Deals 10 points/level damage to target.                       |
+| 7th   | [[rangoric-srd/spells/Disintegrate\|Disintegrate]]                             | Makes one creature or object vanish.                          |
+| 8th   | [[rangoric-srd/spells/Earthquake\|Earthquake]]                                 | Intense tremor shakes 5-ft./level radius.                     |
+| 9th   | [[rangoric-srd/spells/Implosion\|Implosion]]                                   | Kills one creature/round.                                     |

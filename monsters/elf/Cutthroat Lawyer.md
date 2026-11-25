@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Cutthroat Lawyer
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf, Human)
-  - **Hit Dice**: 9d8 (40 hp)
-  - **Initiative**: –1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 9 (–1 Dex), touch 9, flat-footed 9
-  - **Base Attack**: +6; **CMB**: +5; **CMD**: 14
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Rapier|rapier]] +6 melee (1d6–1/18–20)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Rapier|rapier]] +6/+1 melee (1d6–1/18–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]]
-  - **Saves**: Fort +3, Ref +2, Will +9 (+2 vs. enchantments)
-  - **Abilities**: Str 9, Dex 8, Con 10, Int 12, Wis 12, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Deception|Deception]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +22, [[rangoric-srd/skills/Linguistics|Linguistics]] +6, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Persuasion|Persuasion]] +21, [[rangoric-srd/skills/Profession|Profession]] (barrister) +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Society|Society]] +9
-  - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (rapier), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Persuasion, Intimidation, Perception)
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary, or with other half-elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
-  - **Challenge Rating**: 7
-  - **Treasure**: NPC gear (combat gear: potion of cure moderate wounds, potion of heroism; other gear: masterwork rapier, circlet of persuasion, elixir of truth, antitoxin, courtier's outfit, light horses (2), carriage, 1,100 gp)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf, Human)
+- **Hit Dice**: 9d8 (40 hp)
+- **Initiative**: –1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 9 (–1 Dex), touch 9, flat-footed 9
+- **Base Attack**: +6; **CMB**: +5; **CMD**: 14
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Rapier|rapier]] +6 melee (1d6–1/18–20)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Rapier|rapier]] +6/+1 melee (1d6–1/18–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]]
+- **Saves**: Fort +3, Ref +2, Will +9 (+2 vs. enchantments)
+- **Abilities**: Str 9, Dex 8, Con 10, Int 12, Wis 12, Cha 16
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Deception|Deception]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +22, [[rangoric-srd/skills/Linguistics|Linguistics]] +6, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Persuasion|Persuasion]] +21, [[rangoric-srd/skills/Profession|Profession]] (barrister) +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Society|Society]] +9
+- **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (rapier), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Persuasion, Intimidation, Perception)
+- **Environment**: Temperate forests
+- **Organization**: Solitary, or with other half-elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
+- **Challenge Rating**: 7
+- **Treasure**: NPC gear (combat gear: potion of cure moderate wounds, potion of heroism; other gear: masterwork rapier, circlet of persuasion, elixir of truth, antitoxin, courtier's outfit, light horses (2), carriage, 1,100 gp)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A cutthroat lawyer is a [[rangoric-srd/monsters/elf/Elf#Half-Elf|half-elf]] with 9 levels of [[rangoric-srd/classes/Expert|expert]]. A cutthroat lawyer is a master of loopholes, doublespeak, intimidation, and litigation. She prides herself on doing whatever it takes—within the law—to win her case. Though this means she won't use illusions to falsify evidence or enchantments to alter a witness's memories or coerce a judge or juror to change a vote, it leaves her many opportunities to enhance her own ability to persuade and investigate. Given enough gold and access to the right potions, she destroys the opposition's arguments, eradicates the witnesses' credibility, discovers conflicts of interest in judges and jurors, digs up obscure laws that invalidate the charges of which her client is accused, suggests plausible conspiracies or mistaken identities, points fingers at other possible suspects, bogs down trial proceedings, and offers plea bargains to a trivially smaller sentence in order to get trials over with.
 

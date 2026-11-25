@@ -21,6 +21,6 @@ Each of the several kinds of figurines of wondrous power appears to be a miniatu
 
 If a figurine of wondrous power is broken or destroyed in its statuette form, it is forever ruined. All magic is lost, its power departed. If slain in animal form, the figurine simply reverts to a statuette that can be used again at a later time.
 
-*Golden Lions*: These figurines come in pairs. They become normal adult male lions. If slain in combat, the lions cannot be brought back from statuette form for one full week. Otherwise, they can be used once per day for up to 1 hour. They enlarge and shrink upon speaking the command word.
+_Golden Lions_: These figurines come in pairs. They become normal adult male lions. If slain in combat, the lions cannot be brought back from statuette form for one full week. Otherwise, they can be used once per day for up to 1 hour. They enlarge and shrink upon speaking the command word.
 
 Moderate transmutation; CL 11th; Craft Wondrous Item, animate objects; Price 16,500 gp.

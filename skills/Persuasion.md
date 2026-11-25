@@ -37,29 +37,29 @@ In negotiations, participants roll opposed Persuasion checks, and the winner gai
 Use the table below to determine the effectiveness of Persuasion checks (or Charisma checks) made to influence the attitude of a nonplayer character, or wild empathy checks made to influence the attitude of an animal or magical beast.
 
 | Initial Attitude | New Attitude (DC to achieve): Hostile | New Attitude (DC to achieve): Unfriendly | New Attitude (DC to achieve): Indifferent | New Attitude (DC to achieve): Friendly | New Attitude (DC to achieve): Helpful | New Attitude (DC to achieve): Fanatic |
-| ---------------- | ------------------------------------- | ---------------------------------------- | ----------------------------------------- | -------------------------------------- | ------------------------------------- | --- |
-| Hostile          | Less than 20                          | 20                                       | 25                                        | 35                                     | 50 | 150 |
-| Unfriendly       | Less than 5                           | 5                                        | 15                                        | 25                                     | 40 | 120 |
-| Indifferent      | —                                     | Less than 1                              | 1                                         | 15                                     | 30 | 90 |
-| Friendly         | —                                     | —                                        | Less than 1                               | 1                                      | 20 | 60 |
-| Helpful          | —                                     | —                                        | —                                         | Less than 1                            | 1 | 50 |
+| ---------------- | ------------------------------------- | ---------------------------------------- | ----------------------------------------- | -------------------------------------- | ------------------------------------- | ------------------------------------- |
+| Hostile          | Less than 20                          | 20                                       | 25                                        | 35                                     | 50                                    | 150                                   |
+| Unfriendly       | Less than 5                           | 5                                        | 15                                        | 25                                     | 40                                    | 120                                   |
+| Indifferent      | —                                     | Less than 1                              | 1                                         | 15                                     | 30                                    | 90                                    |
+| Friendly         | —                                     | —                                        | Less than 1                               | 1                                      | 20                                    | 60                                    |
+| Helpful          | —                                     | —                                        | —                                         | Less than 1                            | 1                                     | 50                                    |
 
-| Attitude    | Means                       | Possible Actions                                   |
-| ----------- | --------------------------- | -------------------------------------------------- |
-| Hostile     | Will take risks to hurt you | Attack, interfere, berate, flee                    |
-| Unfriendly  | Wishes you ill              | Mislead, gossip, avoid, watch suspiciously, insult |
-| Indifferent | Doesn’t much care           | Socially expected interaction                      |
-| Friendly    | Wishes you well             | Chat, advise, offer limited help, advocate         |
-| Helpful     | Will take risks to help you | Protect, back up, heal, aid                        |
-| Fanatic | Will give life to serve you | Fight to the death against overwhelming odds, throw self in front of onrushing dragon |
+| Attitude    | Means                       | Possible Actions                                                                      |
+| ----------- | --------------------------- | ------------------------------------------------------------------------------------- |
+| Hostile     | Will take risks to hurt you | Attack, interfere, berate, flee                                                       |
+| Unfriendly  | Wishes you ill              | Mislead, gossip, avoid, watch suspiciously, insult                                    |
+| Indifferent | Doesn’t much care           | Socially expected interaction                                                         |
+| Friendly    | Wishes you well             | Chat, advise, offer limited help, advocate                                            |
+| Helpful     | Will take risks to help you | Protect, back up, heal, aid                                                           |
+| Fanatic     | Will give life to serve you | Fight to the death against overwhelming odds, throw self in front of onrushing dragon |
 
 ### Advanced Uses
 
-The character can turn a person into a fanatic follower. The attitude tables above include it.  
+The character can turn a person into a fanatic follower. The attitude tables above include it.
 
-*Fanatic*: The attitude of fanatic is added to the tables above. In addition to the obvious effects, any NPC whose attitude is fanatic gains a +2 morale bonus to Strength and Constitution scores, a +1 morale bonus on Will saves, and a -1 penalty to AC whenever fighting for the character or his or her cause. This attitude will remain for one day plus one day per point of the character’s Charisma bonus, at which point the NPC’s attitude will revert to its original attitude (or indifferent, if no attitude is specified).
+_Fanatic_: The attitude of fanatic is added to the tables above. In addition to the obvious effects, any NPC whose attitude is fanatic gains a +2 morale bonus to Strength and Constitution scores, a +1 morale bonus on Will saves, and a -1 penalty to AC whenever fighting for the character or his or her cause. This attitude will remain for one day plus one day per point of the character’s Charisma bonus, at which point the NPC’s attitude will revert to its original attitude (or indifferent, if no attitude is specified).
 
-Treat the fanatic attitude as a mind-affecting enchantment effect for purposes of immunity, save bonuses, or being detected by the Sense Motive skill. Since it is nonmagical, it can’t be dispelled; however, any effect that suppresses or counters mind-affecting effects will affect it normally. A fanatic NPC’s attitude can’t be further adjusted by the use of skills.  
+Treat the fanatic attitude as a mind-affecting enchantment effect for purposes of immunity, save bonuses, or being detected by the Sense Motive skill. Since it is nonmagical, it can’t be dispelled; however, any effect that suppresses or counters mind-affecting effects will affect it normally. A fanatic NPC’s attitude can’t be further adjusted by the use of skills.
 
 ## Gathering Information
 
@@ -73,13 +73,13 @@ If you want to find out about a specific rumor, or a specific item, or obtain a 
 
 ### Advanced Uses
 
-The character can gather information without eliciting suspicion.  
+The character can gather information without eliciting suspicion.
 
 | Task            | Check Modifier |
 | --------------- | -------------- |
-| Avoid suspicion | -20           |
+| Avoid suspicion | -20            |
 
-*Avoid Suspicion*: By accepting a -20 penalty on his or her Persuasion check, a character can avoid any suspicions that might otherwise be aroused by someone pursuing sensitive information.
+_Avoid Suspicion_: By accepting a -20 penalty on his or her Persuasion check, a character can avoid any suspicions that might otherwise be aroused by someone pursuing sensitive information.
 
 ## Unlocks
 
@@ -105,9 +105,9 @@ You use the power of suggestion and subtle psychic influence to alter a subject�
 
 **Check**: You can use hypnotism once per day. The DC of a Persuasion check to hypnotize is 20 + the subject’s Will save modifier against mind-affecting enchantment (compulsion) effects. Every use of hypnotism is a mind-affecting enchantment (compulsion) effect.
 
-*Implant Suggestion*: You can implant a suggested course of reasonable action in the mind of a willing creature, along with a defined trigger. You spend 1 minute inducing a trance-like state in the subject, then attempt a Persuasion check. If you succeed, you implant the course of action, as *[[rangoric-srd/spells/Suggestion|suggestion]]* with a duration of 10 minutes plus 10 more minutes for every 1 by which your result exceeds the DC. If the subject stops being willing, it can attempt a Will save once each round to shake off the effect (DC 10 + 1/2 your character level + your Charisma modifier). You can try to implant a suggestion subtly in the mind of an unwilling creature whose [[rangoric-srd/skills/Persuasion#Influencing Attitudes|attitude]] is indifferent or better after 1 minute of continuous, calm interaction with it, but the DC is 10 higher.
+_Implant Suggestion_: You can implant a suggested course of reasonable action in the mind of a willing creature, along with a defined trigger. You spend 1 minute inducing a trance-like state in the subject, then attempt a Persuasion check. If you succeed, you implant the course of action, as _[[rangoric-srd/spells/Suggestion|suggestion]]_ with a duration of 10 minutes plus 10 more minutes for every 1 by which your result exceeds the DC. If the subject stops being willing, it can attempt a Will save once each round to shake off the effect (DC 10 + 1/2 your character level + your Charisma modifier). You can try to implant a suggestion subtly in the mind of an unwilling creature whose [[rangoric-srd/skills/Persuasion#Influencing Attitudes|attitude]] is indifferent or better after 1 minute of continuous, calm interaction with it, but the DC is 10 higher.
 
-*Recall Memory*: You can draw out forgotten memories from a willing subject. You spend 1 minute inducing a calming, trance-like state in the subject, then attempt a Persuasion check. If you succeed, the hypnotized creature can reroll any failed Intelligence or [[rangoric-srd/skills/Knowledge|Knowledge]] check to recall the forgotten information, with a +4 bonus. The information must be something the subject once knew or was exposed to.
+_Recall Memory_: You can draw out forgotten memories from a willing subject. You spend 1 minute inducing a calming, trance-like state in the subject, then attempt a Persuasion check. If you succeed, the hypnotized creature can reroll any failed Intelligence or [[rangoric-srd/skills/Knowledge|Knowledge]] check to recall the forgotten information, with a +4 bonus. The information must be something the subject once knew or was exposed to.
 
 **Action**: Hypnotism takes 1 minute of calm interaction.
 

@@ -42,28 +42,28 @@ The wizard’s class skills (and the key ability for each skill) are [[rangoric-
 
 **Table: Wizard** ^table-the-wizard
 
-| Level | Special                        | Spells per Day: 0 | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th | Spells per Day: 7th | Spells per Day: 8th | Spells per Day: 9th |
-| ----- | ------------------------------ | ----------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| 1st   | Arcane bond, arcane school, cantrips, Scribe Scroll | 3 | 1 | — | — | — | — | — | — | — | — |
-| 2nd   | — | 4 | 2 | — | — | — | — | — | — | — | — |
-| 3rd   | — | 4 | 2 | 1 | — | — | — | — | — | — | — |
-| 4th   | — | 4 | 3 | 2 | — | — | — | — | — | — | — |
-| 5th   | Bonus feat | 4 | 3 | 2 | 1 | — | — | — | — | — | — |
-| 6th   | — | 4 | 3 | 3 | 2 | — | — | — | — | — | — |
-| 7th   | — | 4 | 4 | 3 | 2 | 1 | — | — | — | — | — |
-| 8th   | — | 4 | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 9th   | — | 4 | 4 | 4 | 3 | 2 | 1 | — | — | — | — |
-| 10th  | Bonus feat | 4 | 4 | 4 | 3 | 3 | 2 | — | — | — | — |
-| 11th  | — | 4 | 4 | 4 | 4 | 3 | 2 | 1 | — | — | — |
-| 12th  | — | 4 | 4 | 4 | 4 | 3 | 3 | 2 | — | — | — |
-| 13th  | — | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 | — | — |
-| 14th  | — | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 | — | — |
-| 15th  | Bonus feat | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 | — |
-| 16th  | — | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 | — |
-| 17th  | — | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 |
-| 18th  | — | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 |
-| 19th  | — | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 |
-| 20th  | Bonus feat | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
+| Level | Special                                             | Spells per Day: 0 | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th | Spells per Day: 7th | Spells per Day: 8th | Spells per Day: 9th |
+| ----- | --------------------------------------------------- | ----------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| 1st   | Arcane bond, arcane school, cantrips, Scribe Scroll | 3                 | 1                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 2nd   | —                                                   | 4                 | 2                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 3rd   | —                                                   | 4                 | 2                   | 1                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 4th   | —                                                   | 4                 | 3                   | 2                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 5th   | Bonus feat                                          | 4                 | 3                   | 2                   | 1                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 6th   | —                                                   | 4                 | 3                   | 3                   | 2                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 7th   | —                                                   | 4                 | 4                   | 3                   | 2                   | 1                   | —                   | —                   | —                   | —                   | —                   |
+| 8th   | —                                                   | 4                 | 4                   | 3                   | 3                   | 2                   | —                   | —                   | —                   | —                   | —                   |
+| 9th   | —                                                   | 4                 | 4                   | 4                   | 3                   | 2                   | 1                   | —                   | —                   | —                   | —                   |
+| 10th  | Bonus feat                                          | 4                 | 4                   | 4                   | 3                   | 3                   | 2                   | —                   | —                   | —                   | —                   |
+| 11th  | —                                                   | 4                 | 4                   | 4                   | 4                   | 3                   | 2                   | 1                   | —                   | —                   | —                   |
+| 12th  | —                                                   | 4                 | 4                   | 4                   | 4                   | 3                   | 3                   | 2                   | —                   | —                   | —                   |
+| 13th  | —                                                   | 4                 | 4                   | 4                   | 4                   | 4                   | 3                   | 2                   | 1                   | —                   | —                   |
+| 14th  | —                                                   | 4                 | 4                   | 4                   | 4                   | 4                   | 3                   | 3                   | 2                   | —                   | —                   |
+| 15th  | Bonus feat                                          | 4                 | 4                   | 4                   | 4                   | 4                   | 4                   | 3                   | 2                   | 1                   | —                   |
+| 16th  | —                                                   | 4                 | 4                   | 4                   | 4                   | 4                   | 4                   | 3                   | 3                   | 2                   | —                   |
+| 17th  | —                                                   | 4                 | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 3                   | 2                   | 1                   |
+| 18th  | —                                                   | 4                 | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 3                   | 3                   | 2                   |
+| 19th  | —                                                   | 4                 | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 3                   | 3                   |
+| 20th  | Bonus feat                                          | 4                 | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   |
 
 ###### Class Features
 
@@ -105,7 +105,7 @@ These bonus feats are in addition to the feat that a character of any class gets
 
 **Arcane Discoveries**: A wizard can take an arcane discovery in place of a bonus feat (or a regular feat), if she meets its level requirement. The discoveries: [[rangoric-srd/class-options/arcane-discoveries/Arcane Builder (Arcane Discovery)|arcane builder]], [[rangoric-srd/class-options/arcane-discoveries/Fast Study (Arcane Discovery)|fast study]], [[rangoric-srd/class-options/arcane-discoveries/Feral Speech (Arcane Discovery)|feral speech]], [[rangoric-srd/class-options/arcane-discoveries/Golem Constructor (Arcane Discovery)|golem constructor]], [[rangoric-srd/class-options/arcane-discoveries/Immortality (Arcane Discovery)|immortality]], [[rangoric-srd/class-options/arcane-discoveries/Multimorph (Arcane Discovery)|multimorph]], [[rangoric-srd/class-options/arcane-discoveries/Opposition Research (Arcane Discovery)|opposition research]], [[rangoric-srd/class-options/arcane-discoveries/Split Slot (Arcane Discovery)|split slot]], [[rangoric-srd/class-options/arcane-discoveries/True Name (Arcane Discovery)|true name]], [[rangoric-srd/class-options/arcane-discoveries/Staff-Like Wand (Arcane Discovery)|staff-like wand]] (see [[rangoric-srd/class-options/arcane-discoveries/Arcane Discoveries|Arcane Discoveries]]). ^wizard-arcane-discoveries
 
-**Spellbooks**: A wizard must study her spellbook each day to prepare her spells. She cannot prepare any spell not recorded in her spellbook, except for *[[rangoric-srd/spells/Read Magic|read magic]]*, which all wizards can prepare from memory. ^wizard-spellbooks
+**Spellbooks**: A wizard must study her spellbook each day to prepare her spells. She cannot prepare any spell not recorded in her spellbook, except for _[[rangoric-srd/spells/Read Magic|read magic]]_, which all wizards can prepare from memory. ^wizard-spellbooks
 
 A wizard begins play with a spellbook containing all 0-level wizard spells plus three 1st-level spells of your choice. For each point of Intelligence bonus the wizard has, the spellbook holds one additional 1st-level spell of your choice. At each new wizard level, she gains two new spells of any spell level or levels that she can cast (based on her new wizard level) for her spellbook. At any time, a wizard can also add spells found in other wizards’ spellbooks to her own.
 
@@ -121,7 +121,7 @@ A wizard begins play with a spellbook containing all 0-level wizard spells plus 
 
 A wizard can choose to specialize in one school of magic, gaining additional spells and powers based on that school. This choice must be made at 1st level, and once made, it cannot be changed. A wizard that does not select a school receives the universalist school instead. ^wizard-arcane-school
 
-A wizard that chooses to specialize in one school of magic must select two other schools as her opposition schools, representing knowledge sacrificed in one area of arcane lore to gain mastery in another. A wizard who prepares spells from her opposition schools must use two spell slots of that level to prepare the spell. For example, a wizard with evocation as an opposition school must expend two of her available 3rd-level spell slots to prepare a *[[rangoric-srd/spells/Fireball|fireball]]*. In addition, a specialist takes a –4 penalty on any skill checks made when crafting a magic item that has a spell from one of her opposition schools as a prerequisite. A universalist wizard can prepare spells from any school without restriction.
+A wizard that chooses to specialize in one school of magic must select two other schools as her opposition schools, representing knowledge sacrificed in one area of arcane lore to gain mastery in another. A wizard who prepares spells from her opposition schools must use two spell slots of that level to prepare the spell. For example, a wizard with evocation as an opposition school must expend two of her available 3rd-level spell slots to prepare a _[[rangoric-srd/spells/Fireball|fireball]]_. In addition, a specialist takes a –4 penalty on any skill checks made when crafting a magic item that has a spell from one of her opposition schools as a prerequisite. A universalist wizard can prepare spells from any school without restriction.
 
 Each arcane school gives the wizard a number of school powers. In addition, specialist wizards receive an additional spell slot of each spell level she can cast, from 1st on up. Each day, a wizard can prepare a spell from her specialty school in that slot. This spell must be in the wizard's spellbook. A wizard can select a spell modified by a metamagic feat to prepare in her school slot, but it uses up a higher-level spell slot. Wizards with the universalist school do not receive a school slot.
 
@@ -131,7 +131,7 @@ The eight schools of arcane magic are abjuration, conjuration, divination, encha
 
 The schools and their powers, one note each: [[rangoric-srd/class-options/arcane-schools/Abjuration School|abjuration]], [[rangoric-srd/class-options/arcane-schools/Conjuration School|conjuration]], [[rangoric-srd/class-options/arcane-schools/Divination School|divination]], [[rangoric-srd/class-options/arcane-schools/Enchantment School|enchantment]], [[rangoric-srd/class-options/arcane-schools/Evocation School|evocation]], [[rangoric-srd/class-options/arcane-schools/Illusion School|illusion]], [[rangoric-srd/class-options/arcane-schools/Necromancy School|necromancy]], [[rangoric-srd/class-options/arcane-schools/Transmutation School|transmutation]], and the [[rangoric-srd/class-options/arcane-schools/Universalist School|universalist school]] (see [[rangoric-srd/class-options/arcane-schools/Arcane Schools|Arcane Schools]], which also lists the elemental and focused schools).
 
-**Elemental Schools**: Instead of specializing in an arcane school, a wizard can choose to specialize in one of the elemental schools of magic. Like a normal arcane school, an elemental school grants a number of school powers and one bonus spell slot of each level the wizard can cast, from 1st on up. This bonus spell slot must be used to prepare a spell from the elemental school’s spell list. Unlike a normal arcane school, each elemental school requires the wizard to select her opposed element as his opposition school (*air* opposes *earth*, *fire* opposes *water*). She does not need to select a second opposition school. She must expend two spell slots to prepare a spell from her opposed elemental school as normal. ^wizard-elemental-schools
+**Elemental Schools**: Instead of specializing in an arcane school, a wizard can choose to specialize in one of the elemental schools of magic. Like a normal arcane school, an elemental school grants a number of school powers and one bonus spell slot of each level the wizard can cast, from 1st on up. This bonus spell slot must be used to prepare a spell from the elemental school’s spell list. Unlike a normal arcane school, each elemental school requires the wizard to select her opposed element as his opposition school (_air_ opposes _earth_, _fire_ opposes _water_). She does not need to select a second opposition school. She must expend two spell slots to prepare a spell from her opposed elemental school as normal. ^wizard-elemental-schools
 
 **Five Elements**: In some lands, scholars of magic insist that material things consist of five elements, not four: fire, earth, metal, water, and wood. Rather than directly opposing each other, these five elements counter and generate each other in a wheel-like formation: wood overcomes earth, earth overcomes water, water overcomes fire, fire overcomes metal, and metal overcomes wood. Some wizards specialize in the schools based on metal or wood. Like a normal arcane school, an elemental school grants a number of school powers and one bonus spell slot of each level the wizard can cast, from 1st on up. This bonus spell slot must be used to prepare a spell from the elemental school's spell list (see below). Unlike a normal arcane school, each elemental school requires the wizard to select his opposed element as his opposition school—in the case of the five-element system, he must choose the element that overcomes his element as his opposition element (so a metal elementalist must select fire as his opposition school because fire overcomes metal). He does not need to select a second opposition school. He must expend two spell slots to prepare a spell from his opposed elemental school as normal.
 
@@ -145,80 +145,80 @@ A familiar also grants special abilities to its master (a sorcerer, wizard, witc
 
 Levels of different classes that are entitled to familiars stack for the purpose of determining any familiar abilities that depend on the master’s level.
 
-| Familiar  | Special                                                                                  |
-| --------- | ---------------------------------------------------------------------------------------- |
-| Bat       | Master gains a +3 bonus on [[rangoric-srd/skills/Perception\|Perception]] checks               |
-| Cat       | Master gains a +3 bonus on [[rangoric-srd/skills/Stealth\|Stealth]] checks |
-| Centipede | Master gains a +3 bonus on [[rangoric-srd/skills/Stealth\|Stealth]] checks |
-| Crab | Master gains a +2 bonus on combat maneuver checks to grapple |
-| Fox | Master gains a +2 bonus on Reflex saves |
-| Hawk      | Master gains a +3 bonus on [[rangoric-srd/skills/Perception\|Perception]] checks in bright light   |
-| Lizard    | Master gains a +3 bonus on [[rangoric-srd/skills/Athletics\|Athletics]] checks                 |
-| Monkey | Master gains a +3 bonus on [[rangoric-srd/skills/Acrobatics\|Acrobatics]] checks |
-| Octopus | Master gains a +3 bonus on [[rangoric-srd/skills/Athletics\|Athletics]] checks to swim |
-| Owl       | Master gains a +3 bonus on Perception checks in shadows                                        |
-| Rat       | Master gains a +2 bonus on Fortitude saves                                               |
-| Raven (1) | Master gains a +3 bonus on [[rangoric-srd/skills/Appraise\|Appraise]] checks           |
-| Scorpion | Master gains a +2 bonus on initiative checks |
-| Snake (2) | Master gains a +3 bonus on [[rangoric-srd/skills/Deception\|Deception]] checks                 |
-| Spider | Master gains a +3 bonus on [[rangoric-srd/skills/Athletics\|Athletics]] checks to climb |
-| Toad      | Master gains +3 hit points                                                               |
-| Weasel    | Master gains a +2 bonus on Reflex saves                                                  |
+| Familiar  | Special                                                                                          |
+| --------- | ------------------------------------------------------------------------------------------------ |
+| Bat       | Master gains a +3 bonus on [[rangoric-srd/skills/Perception\|Perception]] checks                 |
+| Cat       | Master gains a +3 bonus on [[rangoric-srd/skills/Stealth\|Stealth]] checks                       |
+| Centipede | Master gains a +3 bonus on [[rangoric-srd/skills/Stealth\|Stealth]] checks                       |
+| Crab      | Master gains a +2 bonus on combat maneuver checks to grapple                                     |
+| Fox       | Master gains a +2 bonus on Reflex saves                                                          |
+| Hawk      | Master gains a +3 bonus on [[rangoric-srd/skills/Perception\|Perception]] checks in bright light |
+| Lizard    | Master gains a +3 bonus on [[rangoric-srd/skills/Athletics\|Athletics]] checks                   |
+| Monkey    | Master gains a +3 bonus on [[rangoric-srd/skills/Acrobatics\|Acrobatics]] checks                 |
+| Octopus   | Master gains a +3 bonus on [[rangoric-srd/skills/Athletics\|Athletics]] checks to swim           |
+| Owl       | Master gains a +3 bonus on Perception checks in shadows                                          |
+| Rat       | Master gains a +2 bonus on Fortitude saves                                                       |
+| Raven (1) | Master gains a +3 bonus on [[rangoric-srd/skills/Appraise\|Appraise]] checks                     |
+| Scorpion  | Master gains a +2 bonus on initiative checks                                                     |
+| Snake (2) | Master gains a +3 bonus on [[rangoric-srd/skills/Deception\|Deception]] checks                   |
+| Spider    | Master gains a +3 bonus on [[rangoric-srd/skills/Athletics\|Athletics]] checks to climb          |
+| Toad      | Master gains +3 hit points                                                                       |
+| Weasel    | Master gains a +2 bonus on Reflex saves                                                          |
 
-1 *A raven familiar can speak one language of its master’s choice as a supernatural ability.*
+1 _A raven familiar can speak one language of its master’s choice as a supernatural ability._
 
-2 *Tiny viper.*
+2 _Tiny viper._
 
 **Familiar Basics**: Use the basic statistics for a creature of the familiar’s kind, but make the following changes: ^familiar-basics
 
-*Hit Dice*: For the purpose of effects related to number of Hit Dice, use the master’s character level or the familiar’s normal HD total, whichever is higher.
+_Hit Dice_: For the purpose of effects related to number of Hit Dice, use the master’s character level or the familiar’s normal HD total, whichever is higher.
 
-*Hit Points*: The familiar has one-half the master’s total hit points (not including temporary hit points), rounded down, regardless of its actual Hit Dice.
+_Hit Points_: The familiar has one-half the master’s total hit points (not including temporary hit points), rounded down, regardless of its actual Hit Dice.
 
-*Attacks*: Use the master’s base attack bonus, as calculated from all his classes. Use the familiar’s Dexterity or Strength modifier, whichever is greater, to get the familiar’s melee attack bonus with natural weapons. Damage equals that of a normal creature of the familiar’s kind.
+_Attacks_: Use the master’s base attack bonus, as calculated from all his classes. Use the familiar’s Dexterity or Strength modifier, whichever is greater, to get the familiar’s melee attack bonus with natural weapons. Damage equals that of a normal creature of the familiar’s kind.
 
-*Saving Throws*: For each saving throw, use either the familiar’s base save bonus (Fortitude +2, Reflex +2, Will +0) or the master’s (as calculated from all his classes), whichever is better. The familiar uses its own ability modifiers to saves, and it doesn’t share any of the other bonuses that the master might have on saves.
+_Saving Throws_: For each saving throw, use either the familiar’s base save bonus (Fortitude +2, Reflex +2, Will +0) or the master’s (as calculated from all his classes), whichever is better. The familiar uses its own ability modifiers to saves, and it doesn’t share any of the other bonuses that the master might have on saves.
 
-*Skills*: For each skill in which either the master or the familiar has ranks, use either the normal skill ranks for an animal of that type or the master’s skill ranks, whichever are better. In either case, the familiar uses its own ability modifiers. Regardless of a familiar’s total skill modifiers, some skills may remain beyond the familiar’s ability to use. Familiars treat [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Perception|Perception]], and [[rangoric-srd/skills/Stealth|Stealth]] as class skills.
+_Skills_: For each skill in which either the master or the familiar has ranks, use either the normal skill ranks for an animal of that type or the master’s skill ranks, whichever are better. In either case, the familiar uses its own ability modifiers. Regardless of a familiar’s total skill modifiers, some skills may remain beyond the familiar’s ability to use. Familiars treat [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Perception|Perception]], and [[rangoric-srd/skills/Stealth|Stealth]] as class skills.
 
 **Familiar Ability Descriptions**: All familiars have special abilities (or impart abilities to their masters) depending on the master’s combined level in classes that grant familiars, as shown on the table below. The abilities given on the table are cumulative.
 
-*Natural Armor Adj.*: The number noted here is an improvement to the familiar’s existing natural armor bonus.
+_Natural Armor Adj._: The number noted here is an improvement to the familiar’s existing natural armor bonus.
 
-*Int*: The familiar’s Intelligence score.
+_Int_: The familiar’s Intelligence score.
 
-*Keen Senses (Ex)*: While a familiar is within arm’s reach, the master gains the [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception) feat. ^familiar-alertness
+_Keen Senses (Ex)_: While a familiar is within arm’s reach, the master gains the [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception) feat. ^familiar-alertness
 
-*Improved Evasion (Ex)*: When subjected to an attack that normally allows a Reflex saving throw for half damage, a familiar takes no damage if it makes a successful saving throw and half damage even if the saving throw fails. ^familiar-improved-evasion
+_Improved Evasion (Ex)_: When subjected to an attack that normally allows a Reflex saving throw for half damage, a familiar takes no damage if it makes a successful saving throw and half damage even if the saving throw fails. ^familiar-improved-evasion
 
-*Share Spells*: At the master’s option, he may have any spell (but not any spell-like ability) he casts on himself also affect his familiar. The familiar must be within 5 feet at the time of casting to receive the benefit. If the spell or effect has a duration other than instantaneous, it stops affecting the familiar if it moves farther than 5 feet away and will not affect the familiar again even if it returns to the master before the duration expires. Additionally, the master may cast a spell with a target of “You” on his familiar (as a touch range spell) instead of on himself. A master and his familiar can share spells even if the spells normally do not affect creatures of the familiar’s type (magical beast). ^familiar-share-spells
+_Share Spells_: At the master’s option, he may have any spell (but not any spell-like ability) he casts on himself also affect his familiar. The familiar must be within 5 feet at the time of casting to receive the benefit. If the spell or effect has a duration other than instantaneous, it stops affecting the familiar if it moves farther than 5 feet away and will not affect the familiar again even if it returns to the master before the duration expires. Additionally, the master may cast a spell with a target of “You” on his familiar (as a touch range spell) instead of on himself. A master and his familiar can share spells even if the spells normally do not affect creatures of the familiar’s type (magical beast). ^familiar-share-spells
 
-*Empathic Link (Su)*: The master has an empathic link with his familiar out to a distance of up to 1 mile. The master cannot see through the familiar’s eyes, but they can communicate empathically. Because of the limited nature of the link, only general emotional content can be communicated. ^familiar-empathic-link
+_Empathic Link (Su)_: The master has an empathic link with his familiar out to a distance of up to 1 mile. The master cannot see through the familiar’s eyes, but they can communicate empathically. Because of the limited nature of the link, only general emotional content can be communicated. ^familiar-empathic-link
 
 Because of this empathic link, the master has the same connection to an item or place that his familiar does. ^familiar-empathic-link-connection
 
-*Deliver Touch Spells (Su)*: If the master is 3rd level or higher, a familiar can deliver touch spells for him. If the master and the familiar are in contact at the time the master casts a touch spell, he can designate his familiar as the “toucher.” The familiar can then deliver the touch spell just as the master could. As usual, if the master casts another spell before the touch is delivered, the touch spell dissipates. ^familiar-deliver-touch-spell
+_Deliver Touch Spells (Su)_: If the master is 3rd level or higher, a familiar can deliver touch spells for him. If the master and the familiar are in contact at the time the master casts a touch spell, he can designate his familiar as the “toucher.” The familiar can then deliver the touch spell just as the master could. As usual, if the master casts another spell before the touch is delivered, the touch spell dissipates. ^familiar-deliver-touch-spell
 
-*Speak with Master (Ex)*: If the master is 5th level or higher, a familiar and the master can communicate verbally as if they were using a common language. Other creatures do not understand the communication without magical help. ^familiar-speak-with-master
+_Speak with Master (Ex)_: If the master is 5th level or higher, a familiar and the master can communicate verbally as if they were using a common language. Other creatures do not understand the communication without magical help. ^familiar-speak-with-master
 
-*Speak with Animals of Its Kind (Ex)*: If the master is 7th level or higher, a familiar can communicate with animals of approximately the same kind as itself (including dire varieties): bats with bats, rats with rodents, cats with felines, hawks and owls and ravens with birds, lizards and snakes with reptiles, toads with amphibians, weasels with similar creatures (weasels, minks, polecats, ermines, skunks, wolverines, and badgers). Such communication is limited by the intelligence of the conversing creatures. ^familiar-speak-with-animals-of-its-kind
+_Speak with Animals of Its Kind (Ex)_: If the master is 7th level or higher, a familiar can communicate with animals of approximately the same kind as itself (including dire varieties): bats with bats, rats with rodents, cats with felines, hawks and owls and ravens with birds, lizards and snakes with reptiles, toads with amphibians, weasels with similar creatures (weasels, minks, polecats, ermines, skunks, wolverines, and badgers). Such communication is limited by the intelligence of the conversing creatures. ^familiar-speak-with-animals-of-its-kind
 
-*Spell Resistance (Ex)*: If the master is 11th level or higher, a familiar gains spell resistance equal to the master’s level + 5. To affect the familiar with a spell, another spellcaster must get a result on a caster level check (1d20 + caster level) that equals or exceeds the familiar’s spell resistance. ^familiar-spell-resistance
+_Spell Resistance (Ex)_: If the master is 11th level or higher, a familiar gains spell resistance equal to the master’s level + 5. To affect the familiar with a spell, another spellcaster must get a result on a caster level check (1d20 + caster level) that equals or exceeds the familiar’s spell resistance. ^familiar-spell-resistance
 
-*Scry on Familiar (Sp)*: If the master is 13th level or higher, he may scry on his familiar (as if casting the scrying spell) once per day. ^scry-on-familiar
+_Scry on Familiar (Sp)_: If the master is 13th level or higher, he may scry on his familiar (as if casting the scrying spell) once per day. ^scry-on-familiar
 
-| Master Class Level | Natural Armor Adj. | Int | Special                                                  |
-| ------------------ | ------------------ | --- | -------------------------------------------------------- |
-| 1st–2nd            | +1                | 6   | [[rangoric-srd/class-options/companion-features/Keen Senses (Familiar Feature)\|keen senses]], [[rangoric-srd/class-options/companion-features/Improved Evasion (Familiar Feature)\|improved evasion]], [[rangoric-srd/class-options/companion-features/Share Spells (Familiar Feature)\|share spells]], [[rangoric-srd/class-options/companion-features/Empathic Link (Familiar Feature)\|empathic link]] |
-| 3rd–4th            | +2                | 7   | [[rangoric-srd/class-options/companion-features/Deliver Touch Spells (Familiar Feature)\|Deliver touch spells]]                                     |
-| 5th–6th            | +3                | 8   | [[rangoric-srd/class-options/companion-features/Speak with Master (Familiar Feature)\|Speak with master]]                                        |
-| 7th–8th            | +4                | 9   | [[rangoric-srd/class-options/companion-features/Speak with Animals of Its Kind (Familiar Feature)\|Speak with animals of its kind]]                           |
-| 9th–10th           | +5                | 10  | —                                                        |
-| 11th–12th          | +6                | 11  | [[rangoric-srd/class-options/companion-features/Spell Resistance (Familiar Feature)\|Spell resistance]]                                         |
-| 13th–14th          | +7                | 12  | [[rangoric-srd/class-options/companion-features/Scry on Familiar (Familiar Feature)\|Scry on familiar]]                                         |
-| 15th–16th          | +8                | 13  | —                                                        |
-| 17th–18th          | +9                | 14  | —                                                        |
-| 19th–20th          | +10               | 15  | —                                                        |
+| Master Class Level | Natural Armor Adj. | Int | Special                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ------------------ | ------------------ | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st–2nd            | +1                 | 6   | [[rangoric-srd/class-options/companion-features/Keen Senses (Familiar Feature)\|keen senses]], [[rangoric-srd/class-options/companion-features/Improved Evasion (Familiar Feature)\|improved evasion]], [[rangoric-srd/class-options/companion-features/Share Spells (Familiar Feature)\|share spells]], [[rangoric-srd/class-options/companion-features/Empathic Link (Familiar Feature)\|empathic link]] |
+| 3rd–4th            | +2                 | 7   | [[rangoric-srd/class-options/companion-features/Deliver Touch Spells (Familiar Feature)\|Deliver touch spells]]                                                                                                                                                                                                                                                                                            |
+| 5th–6th            | +3                 | 8   | [[rangoric-srd/class-options/companion-features/Speak with Master (Familiar Feature)\|Speak with master]]                                                                                                                                                                                                                                                                                                  |
+| 7th–8th            | +4                 | 9   | [[rangoric-srd/class-options/companion-features/Speak with Animals of Its Kind (Familiar Feature)\|Speak with animals of its kind]]                                                                                                                                                                                                                                                                        |
+| 9th–10th           | +5                 | 10  | —                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 11th–12th          | +6                 | 11  | [[rangoric-srd/class-options/companion-features/Spell Resistance (Familiar Feature)\|Spell resistance]]                                                                                                                                                                                                                                                                                                    |
+| 13th–14th          | +7                 | 12  | [[rangoric-srd/class-options/companion-features/Scry on Familiar (Familiar Feature)\|Scry on familiar]]                                                                                                                                                                                                                                                                                                    |
+| 15th–16th          | +8                 | 13  | —                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 17th–18th          | +9                 | 14  | —                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 19th–20th          | +10                | 15  | —                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 ##### Arcane Spells and Armor
 

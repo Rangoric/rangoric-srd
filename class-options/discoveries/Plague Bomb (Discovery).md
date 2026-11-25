@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Plague Bomb
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]] (Su)\*.*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]] (Su)\*._
 
-The effects of the smoke created by an alchemist’s bomb duplicates the effects of *[[rangoric-srd/spells/Contagion|contagion]]* instead of *[[rangoric-srd/spells/Fog Cloud|fog cloud]]*, filling an area equal to twice the bomb’s splash area for 1 round per level. An alchemist must be at least 8th level and must have the [[rangoric-srd/class-options/discoveries/Smoke Bomb (Discovery)|smoke bomb]] discovery before selecting this discovery.
+The effects of the smoke created by an alchemist’s bomb duplicates the effects of _[[rangoric-srd/spells/Contagion|contagion]]_ instead of _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_, filling an area equal to twice the bomb’s splash area for 1 round per level. An alchemist must be at least 8th level and must have the [[rangoric-srd/class-options/discoveries/Smoke Bomb (Discovery)|smoke bomb]] discovery before selecting this discovery.

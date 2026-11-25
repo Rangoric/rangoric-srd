@@ -63,7 +63,7 @@ Organization: Solitary or gang (2-5)    
 Challenge Rating: 26      
 Treasure: None      
 Alignment: Always lawful evil      
-Advancement: 36-42 HD (Large); 43-70 HD (Huge)      
+Advancement: 36-42 HD (Large); 43-70 HD (Huge)    
 
 A shape of fire’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
@@ -73,9 +73,9 @@ Blazefire (Su): Living creatures taking Damage from a shape of fire’s incorpor
 
 Create Spawn (Su): Any humanoid slain by a shape of fire becomes a [[rangoric-srd/monsters/Lavawight|lavawight]] in 1d4 rounds. Lavawights are under the command of the shape of fire that created them and remain enslaved until its death. They do not possess any of the abilities they had in life.
 
-Spell-Like Abilities: Caster level 24th; save DC 20 + spell level. The save DC is Charisma-based.  
+Spell-Like Abilities: Caster level 24th; save DC 20 + spell level. The save DC is Charisma-based.
 
-3/day - [[rangoric-srd/spells/Fire Storm|fire storm]], [[rangoric-srd/spells/Incendiary Cloud|incendiary cloud]].  
+3/day - [[rangoric-srd/spells/Fire Storm|fire storm]], [[rangoric-srd/spells/Incendiary Cloud|incendiary cloud]].
 
 Incorporeal Traits: Can be harmed only by other incorporeal creatures, magic weapons, or magic, with a 50% chance to ignore any Damage from a corporeal source. Can pass through solid objects at will, and own attacks pass through armor. Always moves silently.
 

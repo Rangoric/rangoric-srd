@@ -42,37 +42,37 @@ tags: [rangoric, rangoric/monster]
 
 # Fire Giant
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Fire, Giant)
-  - **Hit Dice**: 15d8+75 (142 hp)
-  - **Initiative**: –1
-  - **Speed**: 40 ft. (8 squares) (30 ft. in armor)
-  - **Armor Class**: 24 (+8 armor, –1 Dex, +8 natural, –1 size), touch 8, flat-footed 24
-  - **Base Attack**: +11; **CMB**: +22; **CMD**: 31
-  - **Attack**: [[rangoric-srd/equipment/weapons/Greatsword|Greatsword]] +21 melee (3d6+15) or slam +20 melee (1d8+10) or rock +10 ranged (1d8+15 plus 1d6 fire)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Greatsword|Greatsword]] +21/+16/+11 melee (3d6+15); or 2 slams +20 melee (1d8+10); or rock +10 ranged (1d8+15 plus 1d6 fire)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: Heated rock, [[rangoric-srd/monsters/abilities/Rock Throwing|rock throwing]] (120 ft.)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, vulnerability to cold
-  - **Saves**: Fort +14, Ref +4, Will +9
-  - **Abilities**: Str 31, Dex 9, Con 21, Int 10, Wis 14, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Craft|Craft]] (any one) +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +14
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (greatsword), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatsword)
-  - **Environment**: Warm mountains
-  - **Organization**: Solitary, gang (2–5), band (6–12 plus 35% noncombatants and 1 adept or cleric of 1st–2nd level), raiding party (6–12 plus 1 adept or sorcerer of 3rd–5th level, 2–5 hell hounds, and 2–3 trolls or ettins), tribe (20–30 plus 1 adept, cleric, or sorcerer of 6th–7th level; 1 fighter or ranger of 8th–9th level as king; and 17–38 hell hounds, 12–22 trolls, 7–12 ettins, and 1–2 young red dragons), or hunting/raiding party (6–9 plus 1 adept or sorcerer of 3rd–5th level plus 2–4 hell hounds and 2–3 trolls or ettins)
-  - **Challenge Rating**: 10
-  - **Treasure**: Standard (half-plate, greatsword, other treasure)
-  - **Alignment**: Often lawful evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: +4
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Fire, Giant)
+- **Hit Dice**: 15d8+75 (142 hp)
+- **Initiative**: –1
+- **Speed**: 40 ft. (8 squares) (30 ft. in armor)
+- **Armor Class**: 24 (+8 armor, –1 Dex, +8 natural, –1 size), touch 8, flat-footed 24
+- **Base Attack**: +11; **CMB**: +22; **CMD**: 31
+- **Attack**: [[rangoric-srd/equipment/weapons/Greatsword|Greatsword]] +21 melee (3d6+15) or slam +20 melee (1d8+10) or rock +10 ranged (1d8+15 plus 1d6 fire)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Greatsword|Greatsword]] +21/+16/+11 melee (3d6+15); or 2 slams +20 melee (1d8+10); or rock +10 ranged (1d8+15 plus 1d6 fire)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: Heated rock, [[rangoric-srd/monsters/abilities/Rock Throwing|rock throwing]] (120 ft.)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, vulnerability to cold
+- **Saves**: Fort +14, Ref +4, Will +9
+- **Abilities**: Str 31, Dex 9, Con 21, Int 10, Wis 14, Cha 10
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Craft|Craft]] (any one) +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +14
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (greatsword), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatsword)
+- **Environment**: Warm mountains
+- **Organization**: Solitary, gang (2–5), band (6–12 plus 35% noncombatants and 1 adept or cleric of 1st–2nd level), raiding party (6–12 plus 1 adept or sorcerer of 3rd–5th level, 2–5 hell hounds, and 2–3 trolls or ettins), tribe (20–30 plus 1 adept, cleric, or sorcerer of 6th–7th level; 1 fighter or ranger of 8th–9th level as king; and 17–38 hell hounds, 12–22 trolls, 7–12 ettins, and 1–2 young red dragons), or hunting/raiding party (6–9 plus 1 adept or sorcerer of 3rd–5th level plus 2–4 hell hounds and 2–3 trolls or ettins)
+- **Challenge Rating**: 10
+- **Treasure**: Standard (half-plate, greatsword, other treasure)
+- **Alignment**: Often lawful evil
+- **Advancement**: By character class
+- **Level Adjustment**: +4
 
 **Also in this entry:**
 
-  - Fire Giant Vanguard: [[rangoric-srd/monsters/giant/Fire Giant Glaive|Fire Giant Glaive]] (CR 12), [[rangoric-srd/monsters/giant/Fire Giant Strongarm|Fire Giant Strongarm]] (CR 13)
-  - Fire Giant Lieutenant: [[rangoric-srd/monsters/giant/Fire Giant Lieutenant|Fire Giant Lieutenant]] (CR 16)
-  - Fire Giant Magmablade: [[rangoric-srd/monsters/giant/Fire Giant Magmablade|Fire Giant Magmablade]] (CR 17)
-  - Fire Giant Doombringer: [[rangoric-srd/monsters/giant/Fire Giant Doombringer|Fire Giant Doombringer]] (CR 18)
-  - Fire Giant Queen: [[rangoric-srd/monsters/giant/Fire Giant Queen|Fire Giant Queen]] (CR 19)
-  - Fire Giant King: [[rangoric-srd/monsters/giant/Fire Giant King|Fire Giant King]] (CR 20)
+- Fire Giant Vanguard: [[rangoric-srd/monsters/giant/Fire Giant Glaive|Fire Giant Glaive]] (CR 12), [[rangoric-srd/monsters/giant/Fire Giant Strongarm|Fire Giant Strongarm]] (CR 13)
+- Fire Giant Lieutenant: [[rangoric-srd/monsters/giant/Fire Giant Lieutenant|Fire Giant Lieutenant]] (CR 16)
+- Fire Giant Magmablade: [[rangoric-srd/monsters/giant/Fire Giant Magmablade|Fire Giant Magmablade]] (CR 17)
+- Fire Giant Doombringer: [[rangoric-srd/monsters/giant/Fire Giant Doombringer|Fire Giant Doombringer]] (CR 18)
+- Fire Giant Queen: [[rangoric-srd/monsters/giant/Fire Giant Queen|Fire Giant Queen]] (CR 19)
+- Fire Giant King: [[rangoric-srd/monsters/giant/Fire Giant King|Fire Giant King]] (CR 20)
 
 Fire giants are the most rigid and militaristic of all the giant races. They constantly train for war and practice brutal tactics on anyone and everyone that gets in their way. Their rigid command structure is complete with soldiers, officers, and even generals, and they obey orders from their kings unquestioningly.
 

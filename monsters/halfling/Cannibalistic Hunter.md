@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Cannibalistic Hunter
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Halfling)
-  - **Hit Dice**: 10d12+50 (120 hp)
-  - **Initiative**: +5
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 21 (+5 armor, +5 Dex, –2 rage, +2 shield, +1 size), touch 14, flat-footed 16
-  - **Base Attack**: +10; **CMB**: +12; **CMD**: 25
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +15 melee (1d4+3/18–20) or +1 [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +15 ranged (1d6+4/19–20/×3) or +1 [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +17 ranged (1d6+4/19–20/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +15/+10 melee (1d4+3/18–20); or +1 [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +15/+15/+10 ranged (1d6+4/19–20/×3); or +1 [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +17/+12 ranged (1d6+4/19–20/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (24 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Clear Mind (Rage Power)|clear mind]], [[rangoric-srd/class-options/rage-powers/Internal Fortitude (Rage Power)|internal fortitude]], [[rangoric-srd/class-options/rage-powers/Raging Climber (Rage Power)|raging climber]] +10, [[rangoric-srd/class-options/rage-powers/Rolling Dodge (Rage Power)|rolling dodge]] +2, [[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] +4)
-  - **Special Qualities**: [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|Improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +3, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/classes/Barbarian#^barbarian-damage-reduction|damage reduction]] 2/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to nauseated and sickened
-  - **Saves**: Fort +13, Ref +10, Will +8 (+4 vs. spells and spell-like or supernatural abilities, +2 vs. fear)
-  - **Abilities**: Str 16, Dex 20, Con 18, Int 10, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Athletics|Athletics]] +30, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +21
-  - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (composite longbow), [[rangoric-srd/feats/Manyshot|Manyshot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]]
-  - **Environment**: Warm plains
-  - **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])
-  - **Challenge Rating**: 9
-  - **Treasure**: NPC gear (combat gear: potions of cure light wounds (2), potion of protection from arrows, potion of shield of faith, alchemical silver arrows (10), alchemist's fire (2), cold iron arrows (10), drow poison (3), tanglefoot bag; other gear: +1 mithral chain shirt, +1 buckler, +1 composite longbow (+3 Str) with 60 arrows, masterwork scimitar, belt of incredible dexterity +2, cloak of resistance +1, climber's kit, 300 gp)
-  - **Alignment**: Neutral evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Halfling)
+- **Hit Dice**: 10d12+50 (120 hp)
+- **Initiative**: +5
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 21 (+5 armor, +5 Dex, –2 rage, +2 shield, +1 size), touch 14, flat-footed 16
+- **Base Attack**: +10; **CMB**: +12; **CMD**: 25
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +15 melee (1d4+3/18–20) or +1 [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +15 ranged (1d6+4/19–20/×3) or +1 [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +17 ranged (1d6+4/19–20/×3)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +15/+10 melee (1d4+3/18–20); or +1 [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +15/+15/+10 ranged (1d6+4/19–20/×3); or +1 [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +17/+12 ranged (1d6+4/19–20/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (24 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Clear Mind (Rage Power)|clear mind]], [[rangoric-srd/class-options/rage-powers/Internal Fortitude (Rage Power)|internal fortitude]], [[rangoric-srd/class-options/rage-powers/Raging Climber (Rage Power)|raging climber]] +10, [[rangoric-srd/class-options/rage-powers/Rolling Dodge (Rage Power)|rolling dodge]] +2, [[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] +4)
+- **Special Qualities**: [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|Improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +3, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/classes/Barbarian#^barbarian-damage-reduction|damage reduction]] 2/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to nauseated and sickened
+- **Saves**: Fort +13, Ref +10, Will +8 (+4 vs. spells and spell-like or supernatural abilities, +2 vs. fear)
+- **Abilities**: Str 16, Dex 20, Con 18, Int 10, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Athletics|Athletics]] +30, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +21
+- **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (composite longbow), [[rangoric-srd/feats/Manyshot|Manyshot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]]
+- **Environment**: Warm plains
+- **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])
+- **Challenge Rating**: 9
+- **Treasure**: NPC gear (combat gear: potions of cure light wounds (2), potion of protection from arrows, potion of shield of faith, alchemical silver arrows (10), alchemist's fire (2), cold iron arrows (10), drow poison (3), tanglefoot bag; other gear: +1 mithral chain shirt, +1 buckler, +1 composite longbow (+3 Str) with 60 arrows, masterwork scimitar, belt of incredible dexterity +2, cloak of resistance +1, climber's kit, 300 gp)
+- **Alignment**: Neutral evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A cannibalistic hunter is a [[rangoric-srd/monsters/halfling/Halfling|halfling]] with 10 levels of [[rangoric-srd/classes/Barbarian|barbarian]]. Rare tribes of halfling cannibals stalk deep jungles in search of sentient prey.
 

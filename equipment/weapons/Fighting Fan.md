@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/close, weapon-group/monk, eastern
 
 # Fighting Fan
 
-*Exotic light melee weapon (distracting, monk).* Cost 5 gp; Dmg 1d3 (S), 1d4 (M); Critical x3; Weight —; Type Slashing or piercing. ^stats
+_Exotic light melee weapon (distracting, monk)._ Cost 5 gp; Dmg 1d3 (S), 1d4 (M); Critical x3; Weight —; Type Slashing or piercing. ^stats
 
 Made to resemble a courtier's fan, this device consists of silk paper stretched and folded over a folding frame of hardened steel. Folding fans are typically wielded in pairs using a technique that distracts the opponent. The fans sport sharp tips, which can be [[rangoric-srd/rules/Afflictions#Poison|poisoned]].
 

@@ -34,11 +34,11 @@ Telepathy (Compulsion) \[Mind-Affecting\]
 **Duration:** Concentration + 1 round  
 **Saving Throw:** Will negates  
 **Power Resistance:** Yes  
-**Power Points:** 3  
+**Power Points:** 3
 
 As the [[rangoric-srd/spells/Confusion|confusion]] spell, except as noted here.
 
-Swift tendrils of thought disrupt the unconscious mind of any one creature, sapping its might. As long as the manifester remains concentrating fully on this power, the subject is [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]], making it unable to independently determine it will do. Roll on the following table at the beginning of each of the subject’s turns to see what the subject does in that round.  
+Swift tendrils of thought disrupt the unconscious mind of any one creature, sapping its might. As long as the manifester remains concentrating fully on this power, the subject is [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]], making it unable to independently determine it will do. Roll on the following table at the beginning of each of the subject’s turns to see what the subject does in that round.
 
 | d%     | Behavior                                                                                              |
 | ------ | ----------------------------------------------------------------------------------------------------- |

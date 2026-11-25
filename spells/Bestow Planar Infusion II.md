@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Bestow Planar Infusion II
 
-*Evocation*
+_Evocation_
 
-  - **Level**: Clr 4, Inq 4, Mag 4, Med 4, Occ 4, Psy 4, Sor/Wiz 4, Sum 4, SumU 4, Wit 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: Caster level hour(s)
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Clr 4, Inq 4, Mag 4, Med 4, Occ 4, Psy 4, Sor/Wiz 4, Sum 4, SumU 4, Wit 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: Caster level hour(s)
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
 This functions as [[rangoric-srd/spells/Bestow Planar Infusion I|bestow planar infusion I]], except that the touched creature gains the improved infusion of the current plane.

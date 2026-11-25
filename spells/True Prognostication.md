@@ -24,12 +24,12 @@ tags: [rangoric, rangoric/spell]
 
 # True Prognostication
 
-*Divination*
+_Divination_
 
-  - **Level**: Clr 8, Psy 8, Wit 8
-  - **Components**: V, S, M (rare incense and tonics worth 1,000 gp)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Spell Resistance**: No
+- **Level**: Clr 8, Psy 8, Wit 8
+- **Components**: V, S, M (rare incense and tonics worth 1,000 gp)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Spell Resistance**: No
 
-*True prognostication* functions as [[rangoric-srd/spells/Divination|divination]] except that the spell can see up to 100 years into the future. Because of the extreme unpredictability of the far-distant future, *true prognostication* is incredibly cryptic when used to learn about events on such large a scale.
+_True prognostication_ functions as [[rangoric-srd/spells/Divination|divination]] except that the spell can see up to 100 years into the future. Because of the extreme unpredictability of the far-distant future, _true prognostication_ is incredibly cryptic when used to learn about events on such large a scale.

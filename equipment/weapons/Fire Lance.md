@@ -25,6 +25,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/firearms]
 
 # Fire Lance
 
-*Exotic two-handed early firearm.* Cost 25 gp; Dmg 1d4 (S), 1d6 (M); Critical x4; Range Increment 10 ft.; Misfire 1–4 (5 ft.); Capacity 1; Weight 4 lb.; Type Piercing. ^stats
+_Exotic two-handed early firearm._ Cost 25 gp; Dmg 1d4 (S), 1d6 (M); Critical x4; Range Increment 10 ft.; Misfire 1–4 (5 ft.); Capacity 1; Weight 4 lb.; Type Piercing. ^stats
 
 This primitive firearm is nothing more than a long tube that, when ignited, propels a short gout of flame and a javelin. Unlike other firearms, the fire lance is wildly imprecise, and targets AC rather than touch AC. A fire lance is always treated as having the [[rangoric-srd/rules/conditions/Broken (Condition)|broken]] condition for the purpose of determining the effects of a misfire. A fire lance uses a javelin and 2 doses of black powder as ammunition.

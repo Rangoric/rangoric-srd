@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Spriggan Magic
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “spriggan magic”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “spriggan magic”, on the Special Qualities line.
 
 A spriggan gains a +1 racial bonus on concentration checks and to save DCs for all of its racial spell-like abilities. The [[rangoric-srd/monsters/Spriggan|spriggan]] has it.

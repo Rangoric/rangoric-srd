@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Rusalka
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]] (Aquatic)
-  - **Hit Dice**: 20d6+80 (150 hp)
-  - **Initiative**: +10
-  - **Speed**: 30 ft. (6 squares), swim 60 ft.
-  - **Armor Class**: 25 (+6 Dex, +1 dodge, +8 natural), touch 17, flat-footed 18
-  - **Base Attack**: +10; **CMB**: +16 (+23 when using tresses, +27 grapple with tresses); **CMD**: 32
-  - **Attack**: Staggering touch +16 melee (stagger) or tresses +16 melee (2d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Staggering touch +16 melee (stagger) and 4 tresses +16 melee (2d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 5 ft./5 ft. (15 ft. with tresses)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Beckoning Call|Beckoning call]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] (2d6+7), [[rangoric-srd/monsters/abilities/Tresses|tresses]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23
-  - **Saves**: Fort +12, Ref +18, Will +15
-  - **Abilities**: Str 20, Dex 23, Con 19, Int 12, Wis 13, Cha 24
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +31, [[rangoric-srd/skills/Deception|Deception]] +24, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +18, [[rangoric-srd/skills/Mysticism|Mysticism]] +18, [[rangoric-srd/skills/Nature|Nature]] +18, [[rangoric-srd/skills/Perception|Perception]] +22, Perform (dance) +14, Perform (sing) +27, [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +27
-  - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (charm monster), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any water
-  - **Organization**: Solitary, pair, or eddy (3–6)
-  - **Challenge Rating**: 12
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]] (Aquatic)
+- **Hit Dice**: 20d6+80 (150 hp)
+- **Initiative**: +10
+- **Speed**: 30 ft. (6 squares), swim 60 ft.
+- **Armor Class**: 25 (+6 Dex, +1 dodge, +8 natural), touch 17, flat-footed 18
+- **Base Attack**: +10; **CMB**: +16 (+23 when using tresses, +27 grapple with tresses); **CMD**: 32
+- **Attack**: Staggering touch +16 melee (stagger) or tresses +16 melee (2d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Staggering touch +16 melee (stagger) and 4 tresses +16 melee (2d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 5 ft./5 ft. (15 ft. with tresses)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Beckoning Call|Beckoning call]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] (2d6+7), [[rangoric-srd/monsters/abilities/Tresses|tresses]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23
+- **Saves**: Fort +12, Ref +18, Will +15
+- **Abilities**: Str 20, Dex 23, Con 19, Int 12, Wis 13, Cha 24
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +31, [[rangoric-srd/skills/Deception|Deception]] +24, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +18, [[rangoric-srd/skills/Mysticism|Mysticism]] +18, [[rangoric-srd/skills/Nature|Nature]] +18, [[rangoric-srd/skills/Perception|Perception]] +22, Perform (dance) +14, Perform (sing) +27, [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +27
+- **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (charm monster), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any water
+- **Organization**: Solitary, pair, or eddy (3–6)
+- **Challenge Rating**: 12
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Rusalkas are cruel and bitter fey who inhabit waterways near humanoid settlements. Although rusalkas are not undead, some persist in believing that these fey form from the spirits of those who met a sinister end in the water. Rusalkas do little to dissuade such rumors. Rusalkas are fond of keeping a few charmed monsters or powerful humanoids nearby to aid in their defense or for other forms of cruel and humiliating entertainment, but quickly grow bored with such pets. When this occurs, rusalkas generally murder the creatures and seek more interesting replacement pets.
 
@@ -68,7 +68,7 @@ Rusalkas speak Common and Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +27): Constant—*[[rangoric-srd/spells/Blur|blur]]*, *[[rangoric-srd/spells/Water Walk|water walk]]*; At will—*[[rangoric-srd/spells/Entangle|entangle]]* (DC 18), *[[rangoric-srd/spells/Fog Cloud|fog cloud]], [[rangoric-srd/spells/Invisibility|invisibility]]*; 3/day-quickened *[[rangoric-srd/spells/Charm Monster|charm monster]]* (DC 21), *[[rangoric-srd/spells/Control Water|control water]]*; 1/day—*[[rangoric-srd/spells/Summon Nature’s Ally VI|summon nature's ally VI]]* (water elementals only).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +27): Constant—_[[rangoric-srd/spells/Blur|blur]]_, _[[rangoric-srd/spells/Water Walk|water walk]]_; At will—_[[rangoric-srd/spells/Entangle|entangle]]_ (DC 18), _[[rangoric-srd/spells/Fog Cloud|fog cloud]], [[rangoric-srd/spells/Invisibility|invisibility]]_; 3/day-quickened _[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 21), _[[rangoric-srd/spells/Control Water|control water]]_; 1/day—_[[rangoric-srd/spells/Summon Nature’s Ally VI|summon nature's ally VI]]_ (water elementals only).
 
 **[[rangoric-srd/monsters/abilities/Beckoning Call|Beckoning Call]] (Su)**: As a standard action, a rusalka can sing or speak, causing all non-fey creatures within a 300-foot spread to approach its position as if compelled to do so via a suggestion spell (DC 27 Will negates). A creature that successfully saves is not subject to the same rusalka's beckoning call for 24 hours. When an affected creature begins its turn adjacent to the rusalka, it is [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for that round. These effects continue as long as the rusalka takes a standard action to maintain the effect, plus 1 additional round. This is a sonic mind-affecting effect. The save DC is Charisma-based.
 

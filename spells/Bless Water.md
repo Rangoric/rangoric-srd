@@ -28,17 +28,17 @@ tags: [rangoric, rangoric/spell]
 
 # Bless Water
 
-*Transmutation \[Good\]*
+_Transmutation \[Good\]_
 
-  - **Level**: Clr 1, Inq 1, Pal 1
-  - **Components**: V, S, M
-  - **Casting Time**: 1 minute
-  - **Range**: Touch
-  - **Target**: Flask of water touched
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates (object)
-  - **Spell Resistance**: Yes (object)
+- **Level**: Clr 1, Inq 1, Pal 1
+- **Components**: V, S, M
+- **Casting Time**: 1 minute
+- **Range**: Touch
+- **Target**: Flask of water touched
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates (object)
+- **Spell Resistance**: Yes (object)
 
 This transmutation imbues a flask (1 pint) of water with positive energy, turning it into holy water.
 
-*Material Component*: 5 pounds of powdered silver (worth 25 gp).
+_Material Component_: 5 pounds of powdered silver (worth 25 gp).

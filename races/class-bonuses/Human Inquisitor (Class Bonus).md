@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Human Inquisitor
 
-*A [[rangoric-srd/races/Human|human]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-class-bonuses|inquisitor]] level.*
+_A [[rangoric-srd/races/Human|human]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-class-bonuses|inquisitor]] level._
 
 Add one [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-spells|spell known]] from the [[rangoric-srd/spells/Inquisitor Spell List|inquisitor spell list]]. This spell must be at least one level below the highest spell level the inquisitor can cast.

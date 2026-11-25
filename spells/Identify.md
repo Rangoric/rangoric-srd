@@ -35,19 +35,19 @@ tags: [rangoric, rangoric/spell]
 
 # Identify
 
-*Divination*
+_Divination_
 
-  - **Level**: Alc 1, Brd 1, Magic 2, Med 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1, Spi 1, Sum 1, SumU 1, Wit 1
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 hour
-  - **Range**: Touch
-  - **Targets**: One touched object
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Alc 1, Brd 1, Magic 2, Med 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1, Spi 1, Sum 1, SumU 1, Wit 1
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 hour
+- **Range**: Touch
+- **Targets**: One touched object
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 The spell determines all magic properties of a single magic item, including how to activate those functions (if appropriate), and how many charges are left (if any).
 
 Identify does not function when used on an artifact.
 
-*Arcane Material Component*: A pearl of at least 100 gp value, crushed and stirred into wine with an owl feather; the infusion must be drunk prior to spellcasting.
+_Arcane Material Component_: A pearl of at least 100 gp value, crushed and stirred into wine with an owl feather; the infusion must be drunk prior to spellcasting.

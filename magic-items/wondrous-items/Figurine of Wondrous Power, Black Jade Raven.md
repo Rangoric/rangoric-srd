@@ -27,4 +27,4 @@ This fist-sized piece of black jade is exquisitely tooled into the shape of a ra
 
 The raven can maintain its non-figurine status for only 24 hours per week. This duration need not be continuous, but it must be used in 1-hour increments. After three transformations into its giant raven form (though not its smaller version), the statuette loses all magical properties.
 
-Moderate conjuration and transmutation; CL 11th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Animate Objects|animate objects]]*; Price 9,100 gp; Cost 4,550 gp; Weight 1 lb.
+Moderate conjuration and transmutation; CL 11th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Animate Objects|animate objects]]_; Price 9,100 gp; Cost 4,550 gp; Weight 1 lb.

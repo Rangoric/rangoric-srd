@@ -17,8 +17,8 @@ tags: [rangoric, rangoric/magic-item]
 
 # Spelltouch
 
-Weapons that possess this enchantment are typically of ranged types favored by mages, although the enchantment can be placed upon any weapon. *Spelltouch* items are indistinguishable from ordinary weapons.
+Weapons that possess this enchantment are typically of ranged types favored by mages, although the enchantment can be placed upon any weapon. _Spelltouch_ items are indistinguishable from ordinary weapons.
 
-A *spelltouch* weapon allows its wielder to cast touch spells through it. The spellcaster must cast the spell into the weapon, where it is stored until it touches an opponent. With a successful touch attack, the spell is cast on the target. A caster can cast a touch spell onto a *spelltouch* weapon wielded by another character, thus allowing the other person to make the attack.
+A _spelltouch_ weapon allows its wielder to cast touch spells through it. The spellcaster must cast the spell into the weapon, where it is stored until it touches an opponent. With a successful touch attack, the spell is cast on the target. A caster can cast a touch spell onto a _spelltouch_ weapon wielded by another character, thus allowing the other person to make the attack.
 
-Moderate necromancy; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Spectral Hand|spectral hand]]*; Price +1 bonus.
+Moderate necromancy; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Spectral Hand|spectral hand]]_; Price +1 bonus.

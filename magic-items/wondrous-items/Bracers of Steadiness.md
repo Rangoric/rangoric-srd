@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 These tortoiseshell bracers fit so snuggly against their wearer's skin that they almost seem part of him. The wearer of these bracers becomes exceptionally calm and composed if she takes her time to accomplish particular tasks. Whenever she takes 20 on a skill check for a skill that primarily depends on her arms and hands, she gains a +5 competence bonus on the check.
 
-Faint abjuration; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Aid|aid]]*; Price 2,000 gp; Cost 1,000 gp; Weight 2 lbs.
+Faint abjuration; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Aid|aid]]_; Price 2,000 gp; Cost 1,000 gp; Weight 2 lbs.

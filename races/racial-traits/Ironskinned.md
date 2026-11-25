@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 **Race**: [[rangoric-srd/races/Duergar|Duergar]]. **Replaces**: the enlarge person spell-like ability.
 
-The soul of the earth infuses some duergar, giving them the ability to harden their skin. Duergar with this racial trait can use *[[rangoric-srd/spells/Ironskin|ironskin]]* once per day as a spell-like ability, using their character level as their caster level. This racial trait replaces the *[[rangoric-srd/spells/Enlarge Person|enlarge person]]* spell-like ability.
+The soul of the earth infuses some duergar, giving them the ability to harden their skin. Duergar with this racial trait can use _[[rangoric-srd/spells/Ironskin|ironskin]]_ once per day as a spell-like ability, using their character level as their caster level. This racial trait replaces the _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ spell-like ability.

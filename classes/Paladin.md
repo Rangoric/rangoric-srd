@@ -43,26 +43,26 @@ The paladin’s class skills (and the key ability for each skill) are [[rangoric
 
 | Level | Special                                     | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th |
 | ----- | ------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| 1st   | Aura of good, detect evil, smite evil 1/day | — | — | — | — |
-| 2nd   | Divine grace, lay on hands | — | — | — | — |
-| 3rd   | Aura of courage, divine health, mercy | — | — | — | — |
-| 4th   | Channel positive energy, smite evil 2/day | 0 | — | — | — |
-| 5th   | Divine bond, special mount | 1 | — | — | — |
-| 6th   | Mercy, remove disease 1/week | 1 | — | — | — |
-| 7th   | Smite evil 3/day | 1 | 0 | — | — |
-| 8th   | Aura of resolve | 1 | 1 | — | — |
-| 9th   | Mercy, remove disease 2/week | 2 | 1 | — | — |
-| 10th  | Smite evil 4/day | 2 | 1 | 0 | — |
-| 11th  | Aura of justice | 2 | 1 | 1 | — |
-| 12th  | Mercy, remove disease 3/week | 2 | 2 | 1 | — |
-| 13th  | Smite evil 5/day | 3 | 2 | 1 | 0 |
-| 14th  | Aura of faith | 3 | 2 | 1 | 1 |
-| 15th  | Mercy, remove disease 4/week | 3 | 2 | 2 | 1 |
-| 16th  | Smite evil 6/day | 3 | 3 | 2 | 1 |
-| 17th  | Aura of righteousness | 4 | 3 | 2 | 1 |
-| 18th  | Mercy, remove disease 5/week | 4 | 3 | 2 | 2 |
-| 19th  | Smite evil 7/day | 4 | 3 | 3 | 2 |
-| 20th  | Holy champion | 4 | 4 | 3 | 3 |
+| 1st   | Aura of good, detect evil, smite evil 1/day | —                   | —                   | —                   | —                   |
+| 2nd   | Divine grace, lay on hands                  | —                   | —                   | —                   | —                   |
+| 3rd   | Aura of courage, divine health, mercy       | —                   | —                   | —                   | —                   |
+| 4th   | Channel positive energy, smite evil 2/day   | 0                   | —                   | —                   | —                   |
+| 5th   | Divine bond, special mount                  | 1                   | —                   | —                   | —                   |
+| 6th   | Mercy, remove disease 1/week                | 1                   | —                   | —                   | —                   |
+| 7th   | Smite evil 3/day                            | 1                   | 0                   | —                   | —                   |
+| 8th   | Aura of resolve                             | 1                   | 1                   | —                   | —                   |
+| 9th   | Mercy, remove disease 2/week                | 2                   | 1                   | —                   | —                   |
+| 10th  | Smite evil 4/day                            | 2                   | 1                   | 0                   | —                   |
+| 11th  | Aura of justice                             | 2                   | 1                   | 1                   | —                   |
+| 12th  | Mercy, remove disease 3/week                | 2                   | 2                   | 1                   | —                   |
+| 13th  | Smite evil 5/day                            | 3                   | 2                   | 1                   | 0                   |
+| 14th  | Aura of faith                               | 3                   | 2                   | 1                   | 1                   |
+| 15th  | Mercy, remove disease 4/week                | 3                   | 2                   | 2                   | 1                   |
+| 16th  | Smite evil 6/day                            | 3                   | 3                   | 2                   | 1                   |
+| 17th  | Aura of righteousness                       | 4                   | 3                   | 2                   | 1                   |
+| 18th  | Mercy, remove disease 5/week                | 4                   | 3                   | 2                   | 2                   |
+| 19th  | Smite evil 7/day                            | 4                   | 3                   | 3                   | 2                   |
+| 20th  | Holy champion                               | 4                   | 4                   | 3                   | 3                   |
 
 ###### Class Features
 
@@ -70,9 +70,9 @@ All of the following are class features of the paladin.
 
 **Weapon and Armor Proficiency**: Paladins are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields). ^paladin-weapon-and-armor-proficiency
 
-**Aura of Good (Ex)**: The power of a paladin’s aura of good (see the *[[rangoric-srd/spells/Detect Good|detect good]]* spell) is equal to her paladin level.
+**Aura of Good (Ex)**: The power of a paladin’s aura of good (see the _[[rangoric-srd/spells/Detect Good|detect good]]_ spell) is equal to her paladin level.
 
-**Detect Evil (Sp)**: At will, a paladin can use *[[rangoric-srd/spells/Detect Evil|detect evil]]*, as the spell. A paladin can, as a move action, concentrate on a single item or individual within 60 feet and determine if it is evil, learning the strength of its aura as if having studied it for 3 rounds. While focusing on one individual or object, the paladin does not detect evil in any other object or individual within range. ^paladin-detect-evil
+**Detect Evil (Sp)**: At will, a paladin can use _[[rangoric-srd/spells/Detect Evil|detect evil]]_, as the spell. A paladin can, as a move action, concentrate on a single item or individual within 60 feet and determine if it is evil, learning the strength of its aura as if having studied it for 3 rounds. While focusing on one individual or object, the paladin does not detect evil in any other object or individual within range. ^paladin-detect-evil
 
 **Smite Evil (Su)**: Once per day, a paladin can call out to the powers of good to aid her in her struggle against evil. As a swift action, the paladin chooses one target within sight to smite. If this target is evil, the paladin adds her Charisma bonus (if any) to her attack rolls and adds her paladin level to all damage rolls made against the target of her smite. If the target of smite evil is an outsider with the evil subtype, an evil-aligned dragon, or an undead creature, the bonus to damage on the first successful attack increases to 2 points of damage per level the paladin possesses. Regardless of the target, smite evil attacks automatically bypass any DR the creature might possess. ^paladin-smite-evil
 
@@ -110,7 +110,7 @@ A paladin prepares and casts spells the way a cleric does, though she cannot los
 
 Through 3rd level, a paladin has no caster level. At 4th level and higher, her caster level is equal to her paladin level – 3.
 
-**Divine Bond (Sp)**: Upon reaching 5th level, a paladin forms a divine bond with her god, which allows her to enhance her weapon as a standard action by calling upon the aid of a celestial spirit for 1 minute per paladin level. When called, the spirit causes the weapon to shed light as a torch. At 5th level, this spirit grants the weapon a +1 enhancement bonus. For every three levels beyond 5th, the weapon gains another +1 enhancement bonus, to a maximum of +6 at 20th level. These bonuses can be added to the weapon, stacking with existing weapon bonuses to a maximum of +5, or they can be used to add any of the following weapon properties: *[[rangoric-srd/magic-items/weapon-abilities/Axiomatic|axiomatic]]*, *[[rangoric-srd/magic-items/weapon-abilities/Brilliant Energy|brilliant energy]]*, *[[rangoric-srd/magic-items/weapon-abilities/Defending|defending]]*, *[[rangoric-srd/magic-items/weapon-abilities/Disruption|disruption]]*, *[[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]*, *[[rangoric-srd/magic-items/weapon-abilities/Flaming Burst|flaming burst]]*, *[[rangoric-srd/magic-items/weapon-abilities/Holy|holy]]*, *[[rangoric-srd/magic-items/weapon-abilities/Keen|keen]]*, *[[rangoric-srd/magic-items/weapon-abilities/Merciful|merciful]]*, and *[[rangoric-srd/magic-items/weapon-abilities/Speed|speed]]*. Adding these properties consumes an amount of bonus equal to the property's cost (see [[rangoric-srd/magic-items/Magic Armor and Weapons|Magic Armor and Weapons]]). These bonuses are added to any properties the weapon already has, but duplicate abilities do not stack. If the weapon is not magical, at least a +1 enhancement bonus must be added before any other properties can be added. The bonus and properties granted by the spirit are determined when the spirit is called and cannot be changed until the spirit is called again. The celestial spirit imparts no bonuses if the weapon is held by anyone other than the paladin but resumes giving bonuses if returned to the paladin. These bonuses apply to only one end of a double weapon. A paladin can use this ability once per day at 5th level, and one additional time per day for every four levels beyond 5th, to a total of four times per day at 17th level. ^paladin-divine-bond
+**Divine Bond (Sp)**: Upon reaching 5th level, a paladin forms a divine bond with her god, which allows her to enhance her weapon as a standard action by calling upon the aid of a celestial spirit for 1 minute per paladin level. When called, the spirit causes the weapon to shed light as a torch. At 5th level, this spirit grants the weapon a +1 enhancement bonus. For every three levels beyond 5th, the weapon gains another +1 enhancement bonus, to a maximum of +6 at 20th level. These bonuses can be added to the weapon, stacking with existing weapon bonuses to a maximum of +5, or they can be used to add any of the following weapon properties: _[[rangoric-srd/magic-items/weapon-abilities/Axiomatic|axiomatic]]_, _[[rangoric-srd/magic-items/weapon-abilities/Brilliant Energy|brilliant energy]]_, _[[rangoric-srd/magic-items/weapon-abilities/Defending|defending]]_, _[[rangoric-srd/magic-items/weapon-abilities/Disruption|disruption]]_, _[[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]_, _[[rangoric-srd/magic-items/weapon-abilities/Flaming Burst|flaming burst]]_, _[[rangoric-srd/magic-items/weapon-abilities/Holy|holy]]_, _[[rangoric-srd/magic-items/weapon-abilities/Keen|keen]]_, _[[rangoric-srd/magic-items/weapon-abilities/Merciful|merciful]]_, and _[[rangoric-srd/magic-items/weapon-abilities/Speed|speed]]_. Adding these properties consumes an amount of bonus equal to the property's cost (see [[rangoric-srd/magic-items/Magic Armor and Weapons|Magic Armor and Weapons]]). These bonuses are added to any properties the weapon already has, but duplicate abilities do not stack. If the weapon is not magical, at least a +1 enhancement bonus must be added before any other properties can be added. The bonus and properties granted by the spirit are determined when the spirit is called and cannot be changed until the spirit is called again. The celestial spirit imparts no bonuses if the weapon is held by anyone other than the paladin but resumes giving bonuses if returned to the paladin. These bonuses apply to only one end of a double weapon. A paladin can use this ability once per day at 5th level, and one additional time per day for every four levels beyond 5th, to a total of four times per day at 17th level. ^paladin-divine-bond
 
 If a weapon bonded with a celestial spirit is destroyed, the paladin loses the use of this ability for 30 days, or until she gains a level, whichever comes first. During this 30-day period, the paladin takes a –1 penalty on attack and weapon damage rolls.
 
@@ -132,11 +132,11 @@ Should the paladin’s mount die, it immediately disappears, leaving behind any 
 
 **Aura of Righteousness (Su)**: At 17th level, a paladin gains DR 5/evil and immunity to compulsion spells and spell-like abilities. Each ally within 10 feet of her gains a +4 morale bonus on saving throws against compulsion effects. This ability functions only while the paladin is conscious, not if she is unconscious or dead. ^paladin-aura-of-righteousness
 
-**Holy Champion (Su)**: At 20th level, a paladin becomes a conduit for the power of her god. Her DR increases to 10/evil. Whenever she uses smite evil and successfully strikes an evil outsider, the outsider is also subject to a *[[rangoric-srd/spells/Banishment|banishment]]*, using her paladin level as the caster level (her weapon and holy symbol automatically count as objects that the subject hates). After the *[[rangoric-srd/spells/Banishment|banishment]]* effect and the damage from the attack is resolved, the smite immediately ends. In addition, whenever she channels positive energy or uses lay on hands to heal a creature, she heals the maximum possible amount. ^paladin-holy-champion
+**Holy Champion (Su)**: At 20th level, a paladin becomes a conduit for the power of her god. Her DR increases to 10/evil. Whenever she uses smite evil and successfully strikes an evil outsider, the outsider is also subject to a _[[rangoric-srd/spells/Banishment|banishment]]_, using her paladin level as the caster level (her weapon and holy symbol automatically count as objects that the subject hates). After the _[[rangoric-srd/spells/Banishment|banishment]]_ effect and the damage from the attack is resolved, the smite immediately ends. In addition, whenever she channels positive energy or uses lay on hands to heal a creature, she heals the maximum possible amount. ^paladin-holy-champion
 
 **Code of Conduct**: A paladin must be of lawful good alignment and loses all class features except proficiencies if she ever willingly commits an evil act. Additionally, a paladin’s code requires that she respect legitimate authority, act with honor (not lying, not cheating, not using poison, and so forth), help those in need (provided they do not use the help for evil or chaotic ends), and punish those who harm or threaten innocents. ^paladin-code-of-conudct
 
-**Associates**: While she may adventure with good or neutral allies, a paladin avoids working with evil characters or with anyone who consistently offends her moral code. Under exceptional circumstances, a paladin can ally with evil associates, but only to defeat what she believes to be a greater evil. A paladin should seek an *[[rangoric-srd/spells/Atonement|atonement]]* spell periodically during such an unusual alliance, and should end the alliance immediately should she feel it is doing more harm than good. A paladin may accept only henchmen, followers, or cohorts who are lawful good. ^paladin-associates
+**Associates**: While she may adventure with good or neutral allies, a paladin avoids working with evil characters or with anyone who consistently offends her moral code. Under exceptional circumstances, a paladin can ally with evil associates, but only to defeat what she believes to be a greater evil. A paladin should seek an _[[rangoric-srd/spells/Atonement|atonement]]_ spell periodically during such an unusual alliance, and should end the alliance immediately should she feel it is doing more harm than good. A paladin may accept only henchmen, followers, or cohorts who are lawful good. ^paladin-associates
 
 **Archetypes**: A paladin can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The paladin’s archetypes, with what each replaces: ^paladin-archetypes
 
@@ -148,7 +148,7 @@ Should the paladin’s mount die, it immediately disappears, leaving behind any 
 
 ###### Ex-Paladins
 
-A paladin who ceases to be lawful good, who willfully commits an evil act, or who grossly violates the code of conduct loses all paladin spells and class features (including the service of the paladin’s mount and her divine bond, but not weapon, armor, and shield proficiencies). She may not progress any farther in levels as a paladin. She regains her abilities and advancement potential if she atones for her violations (see the *[[rangoric-srd/spells/Atonement|atonement]]* spell description), as appropriate.
+A paladin who ceases to be lawful good, who willfully commits an evil act, or who grossly violates the code of conduct loses all paladin spells and class features (including the service of the paladin’s mount and her divine bond, but not weapon, armor, and shield proficiencies). She may not progress any farther in levels as a paladin. She regains her abilities and advancement potential if she atones for her violations (see the _[[rangoric-srd/spells/Atonement|atonement]]_ spell description), as appropriate.
 
 ##### The Paladin’s Mount
 
@@ -156,33 +156,33 @@ The paladin’s mount is superior to a normal mount of its kind and has special 
 
 | Paladin Level | Bonus HD | Natural Armor Adj. | Str Adj. | Int | Special                                                            |
 | ------------- | -------- | ------------------ | -------- | --- | ------------------------------------------------------------------ |
-| 5th–7th       | +2      | +4                | +1      | 6   | Empathic link, improved evasion, share spells, share saving throws |
-| 8th–10th      | +4      | +6                | +2      | 7   | Improved speed                                                     |
-| 11th–14th     | +6      | +8                | +3      | 8   | Command creatures of its kind                                      |
-| 15th–20th     | +8      | +10               | +4      | 9   | Spell resistance                                                   |
+| 5th–7th       | +2       | +4                 | +1       | 6   | Empathic link, improved evasion, share spells, share saving throws |
+| 8th–10th      | +4       | +6                 | +2       | 7   | Improved speed                                                     |
+| 11th–14th     | +6       | +8                 | +3       | 8   | Command creatures of its kind                                      |
+| 15th–20th     | +8       | +10                | +4       | 9   | Spell resistance                                                   |
 
 **Paladin’s Mount Basics**: Use the base statistics for a creature of the mount’s kind, but make changes to take into account the attributes and characteristics summarized on the table and described below. ^paladins-mount-basics
 
-*Bonus HD*: Extra eight-sided (d8) Hit Dice, each of which gains a Constitution modifier, as normal. Extra Hit Dice improve the mount’s base attack and base save bonuses. A special mount’s base attack bonus is equal to that of a cleric of a level equal to the mount’s HD. A mount has good Fortitude and Reflex saves (treat it as a character whose level equals the animal’s HD). The mount gains additional skill points or feats for bonus HD as normal for advancing a monster’s Hit Dice.
+_Bonus HD_: Extra eight-sided (d8) Hit Dice, each of which gains a Constitution modifier, as normal. Extra Hit Dice improve the mount’s base attack and base save bonuses. A special mount’s base attack bonus is equal to that of a cleric of a level equal to the mount’s HD. A mount has good Fortitude and Reflex saves (treat it as a character whose level equals the animal’s HD). The mount gains additional skill points or feats for bonus HD as normal for advancing a monster’s Hit Dice.
 
-*Natural Armor Adj.*: The number on the table is an improvement to the mount’s existing natural armor bonus.
+_Natural Armor Adj._: The number on the table is an improvement to the mount’s existing natural armor bonus.
 
-*Str Adj.*: Add this figure to the mount’s Strength score.
+_Str Adj._: Add this figure to the mount’s Strength score.
 
-*Int*: The mount’s Intelligence score.
+_Int_: The mount’s Intelligence score.
 
-*Empathic Link (Su)*: The paladin has an empathic link with her mount out to a distance of up to 1 mile. The paladin cannot see through the mount’s eyes, but they can communicate empathically. Note that even intelligent mounts see the world differently from humans, so misunderstandings are always possible. ^paladins-mount-empathic-link
+_Empathic Link (Su)_: The paladin has an empathic link with her mount out to a distance of up to 1 mile. The paladin cannot see through the mount’s eyes, but they can communicate empathically. Note that even intelligent mounts see the world differently from humans, so misunderstandings are always possible. ^paladins-mount-empathic-link
 
 Because of this empathic link, the paladin has the same connection to an item or place that her mount does, just as with a master and his familiar (see Familiars).
 
-*Improved Evasion (Ex)*: When subjected to an attack that normally allows a Reflex saving throw for half damage, a mount takes no damage if it makes a successful saving throw and half damage if the saving throw fails. ^paladins-mount-imporved-evasion
+_Improved Evasion (Ex)_: When subjected to an attack that normally allows a Reflex saving throw for half damage, a mount takes no damage if it makes a successful saving throw and half damage if the saving throw fails. ^paladins-mount-imporved-evasion
 
-*Share Spells*: At the paladin’s option, she may have any spell (but not any spell-like ability) she casts on herself also affect her mount. The mount must be within 5 feet at the time of casting to receive the benefit. If the spell or effect has a duration other than instantaneous, it stops affecting the mount if it moves farther than 5 feet away and will not affect the mount again even if it returns to the paladin before the duration expires. Additionally, the paladin may cast a spell with a target of “You” on her mount (as a touch range spell) instead of on herself. A paladin and her mount can share spells even if the spells normally do not affect creatures of the mount’s type (magical beast). ^paladins-mount-share-spells
+_Share Spells_: At the paladin’s option, she may have any spell (but not any spell-like ability) she casts on herself also affect her mount. The mount must be within 5 feet at the time of casting to receive the benefit. If the spell or effect has a duration other than instantaneous, it stops affecting the mount if it moves farther than 5 feet away and will not affect the mount again even if it returns to the paladin before the duration expires. Additionally, the paladin may cast a spell with a target of “You” on her mount (as a touch range spell) instead of on herself. A paladin and her mount can share spells even if the spells normally do not affect creatures of the mount’s type (magical beast). ^paladins-mount-share-spells
 
-*Share Saving Throws*: For each of its saving throws, the mount uses its own base save bonus or the paladin’s, whichever is higher. The mount applies its own ability modifiers to saves, and it doesn’t share any other bonuses on saves that the master might have. ^paladins-mount-share-saving-throws
+_Share Saving Throws_: For each of its saving throws, the mount uses its own base save bonus or the paladin’s, whichever is higher. The mount applies its own ability modifiers to saves, and it doesn’t share any other bonuses on saves that the master might have. ^paladins-mount-share-saving-throws
 
-*Improved Speed (Ex)*: The mount’s speed increases by 10 feet. ^paladins-mount-improved-speed
+_Improved Speed (Ex)_: The mount’s speed increases by 10 feet. ^paladins-mount-improved-speed
 
-*Command (Sp)*: Once per day per two paladin levels of its master, a mount can use this ability to command other any normal animal of approximately the same kind as itself (for warhorses and warponies, this category includes donkeys, mules, and ponies), as long as the target creature has fewer Hit Dice than the mount. This ability functions like the command spell, but the mount must make a DC 21 Concentration check to succeed if it’s being ridden at the time. If the check fails, the ability does not work that time, but it still counts against the mount’s daily uses. Each target may attempt a Will save (DC 10 + 1/2 paladin’s level + paladin’s Cha modifier) to negate the effect. ^paladins-mount-command
+_Command (Sp)_: Once per day per two paladin levels of its master, a mount can use this ability to command other any normal animal of approximately the same kind as itself (for warhorses and warponies, this category includes donkeys, mules, and ponies), as long as the target creature has fewer Hit Dice than the mount. This ability functions like the command spell, but the mount must make a DC 21 Concentration check to succeed if it’s being ridden at the time. If the check fails, the ability does not work that time, but it still counts against the mount’s daily uses. Each target may attempt a Will save (DC 10 + 1/2 paladin’s level + paladin’s Cha modifier) to negate the effect. ^paladins-mount-command
 
-*Spell Resistance (Ex)*: A mount’s spell resistance equals its master’s paladin level + 5. To affect the mount with a spell, a spellcaster must get a result on a caster level check (1d20 + caster level) that equals or exceeds the mount’s spell resistance.
+_Spell Resistance (Ex)_: A mount’s spell resistance equals its master’s paladin level + 5. To affect the mount with a spell, a spellcaster must get a result on a caster level check (1d20 + caster level) that equals or exceeds the mount’s spell resistance.

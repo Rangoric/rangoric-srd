@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Terra-Cotta Soldier
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
-  - **Hit Dice**: 8d10+20 (64 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 19 (+3 Dex, +6 natural), touch 13, flat-footed 16
-  - **Base Attack**: +8; **CMB**: +11; **CMD**: 24
-  - **Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +10 melee (1d8+3/19–20) or [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +10 melee (1d6+1/19–20) or slam +11 melee (1d6+3)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +10/+5 melee (1d8+3/19–20) and [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +10 melee (1d6+1/19–20); or 2 slams +11 melee (1d6+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Keen Weapons|Keen weapons]], [[rangoric-srd/monsters/abilities/Rank Fighting|rank fighting]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
-  - **Saves**: Fort +2, Ref +5, Will +2
-  - **Abilities**: Str 16, Dex 16, Con —, Int 1, Wis 11, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +8
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword, shortsword)
-  - **Environment**: Any
-  - **Organization**: Solitary, troop (3–12), or army (13+)
-  - **Challenge Rating**: 6
-  - **Treasure**: Incidental (longsword, short sword, other treasure)
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
+- **Hit Dice**: 8d10+20 (64 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 19 (+3 Dex, +6 natural), touch 13, flat-footed 16
+- **Base Attack**: +8; **CMB**: +11; **CMD**: 24
+- **Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +10 melee (1d8+3/19–20) or [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +10 melee (1d6+1/19–20) or slam +11 melee (1d6+3)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +10/+5 melee (1d8+3/19–20) and [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +10 melee (1d6+1/19–20); or 2 slams +11 melee (1d6+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Keen Weapons|Keen weapons]], [[rangoric-srd/monsters/abilities/Rank Fighting|rank fighting]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
+- **Saves**: Fort +2, Ref +5, Will +2
+- **Abilities**: Str 16, Dex 16, Con —, Int 1, Wis 11, Cha 1
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +8
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword, shortsword)
+- **Environment**: Any
+- **Organization**: Solitary, troop (3–12), or army (13+)
+- **Challenge Rating**: 6
+- **Treasure**: Incidental (longsword, short sword, other treasure)
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A terra-cotta soldier is crafted from clay and fired into ceramic, and is usually sculpted to resemble an armored human soldier, although terra-cotta soldiers resembling other races, such as hobgoblins, tengus, or even demons and oni, are also common. Terra-cotta soldiers are often created to guard the tomb of powerful rulers, standing in silent ranks to guard their liege even after his or her death. These soldiers stand vigil for centuries, animating only to defend the tomb and its riches from tomb robbers. Terra-cotta soldiers are typically painted with colored lacquer, though this decoration is often worn away from use or faded with age. A terra-cotta soldier stands 6 feet tall and weighs 600 pounds.
 
@@ -77,4 +77,4 @@ Unlike most constructs, a terra-cotta soldier carries within its form a spark of
 
 ### Construction
 
-CL 9th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Animate Objects|animate objects]]*, *[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*, *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, *[[rangoric-srd/spells/Keen Edge|keen edge]]*, creator must be caster level 9th; Skill [[rangoric-srd/skills/Craft|Craft]] (pottery) or [[rangoric-srd/skills/Craft|Craft]] (sculptures) DC 14; Price 19,500 gp; Cost 10,000 gp.
+CL 9th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Objects|animate objects]]_, _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Keen Edge|keen edge]]_, creator must be caster level 9th; Skill [[rangoric-srd/skills/Craft|Craft]] (pottery) or [[rangoric-srd/skills/Craft|Craft]] (sculptures) DC 14; Price 19,500 gp; Cost 10,000 gp.

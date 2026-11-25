@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, metapsionic]
 
 # Quicken Power
 
-You can manifest a power with a moment’s thought.  
+You can manifest a power with a moment’s thought.
 
 Benefit: To use this feat, you must expend your psionic focus. You can quicken a power. You can perform another action, even manifest another power, in the same round that you manifest a quickened power. You can manifest only one quickened power per round. A power whose manifesting time is longer than 1 round cannot be quickened.
 

@@ -29,6 +29,6 @@ A control helmet that fits a Small or Medium creature is linked by cables to the
 
 The pilot also gains this ability:
 
-- Once per day, as a full-round action, she can transport herself and the sled between the [[rangoric-srd/rules/Planes#The Astral Plane|Astral Plane]] and the [[rangoric-srd/rules/Planes#The Material Plane|Material Plane]], as *[[rangoric-srd/spells/Plane Shift|plane shift]]*.
+- Once per day, as a full-round action, she can transport herself and the sled between the [[rangoric-srd/rules/Planes#The Astral Plane|Astral Plane]] and the [[rangoric-srd/rules/Planes#The Material Plane|Material Plane]], as _[[rangoric-srd/spells/Plane Shift|plane shift]]_.
 
-Strong conjuration; CL 12th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Overland Flight|overland flight]]*, *[[rangoric-srd/spells/Plane Shift|plane shift]]*; Price 80,000 gp; Cost 40,000 gp; Weight 100 lb.
+Strong conjuration; CL 12th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Overland Flight|overland flight]]_, _[[rangoric-srd/spells/Plane Shift|plane shift]]_; Price 80,000 gp; Cost 40,000 gp; Weight 100 lb.

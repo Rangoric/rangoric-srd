@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Human Bard
 
-*A [[rangoric-srd/races/Human|human]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Bard#^bard-class-bonuses|bard]] level.*
+_A [[rangoric-srd/races/Human|human]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Bard#^bard-class-bonuses|bard]] level._
 
 Add one [[rangoric-srd/classes/Bard#^table-bard-spells-known|spell known]] from the [[rangoric-srd/spells/Bard Spell List|bard spell list]]. This spell must be at least one level below the highest spell level the bard can cast.

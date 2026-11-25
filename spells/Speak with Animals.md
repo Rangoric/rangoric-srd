@@ -27,13 +27,13 @@ tags: [rangoric, rangoric/spell]
 
 # Speak with Animals
 
-*Divination*
+_Divination_
 
-  - **Level**: Brd 3, Drd 1, Hun 1, Psy 2, Rgr 1, Skd 3, Tot 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 min./level
+- **Level**: Brd 3, Drd 1, Hun 1, Psy 2, Rgr 1, Skd 3, Tot 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 min./level
 
 You can comprehend and communicate with animals. You are able to ask questions of and receive answers from animals, although the spell doesn’t make them any more friendly or cooperative than normal. Furthermore, wary and cunning animals are likely to be terse and evasive, while the more stupid ones make inane comments. If an animal is friendly toward you, it may do some favor or service for you.

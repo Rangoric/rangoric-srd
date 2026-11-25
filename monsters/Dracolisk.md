@@ -38,27 +38,27 @@ tags: [rangoric, rangoric/monster]
 
 # Dracolisk
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]]
-  - **Hit Dice**: 7d10+35 (73 hp)
-  - **Initiative**: –1
-  - **Speed**: 20 ft. (4 squares), fly 40 ft. (average)
-  - **Armor Class**: 21 (–1 Dex, +12 natural), touch 9, flat-footed 21
-  - **Base Attack**: +7; **CMB**: +14; **CMD**: 23 (31 vs. trip)
-  - **Attack**: Bite +14 melee (1d8+7) or claw +14 melee (1d4+7)
-  - **Full Attack**: Bite +14 melee (1d8+7) and 2 claws +14 melee (1d4+7)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (60-foot line of acid, 7d6 acid damage, Reflex DC 18 half), [[rangoric-srd/monsters/abilities/Gaze|gaze]] (DC 18, as the [[rangoric-srd/monsters/Basilisk|basilisk]])
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], immunity to acid, sleep and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]
-  - **Saves**: Fort +12, Ref +4, Will +5
-  - **Abilities**: Str 24, Dex 8, Con 21, Int 4, Wis 13, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +13
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Temperate swamp or underground
-  - **Organization**: Solitary or pair
-  - **Challenge Rating**: 7
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]]
+- **Hit Dice**: 7d10+35 (73 hp)
+- **Initiative**: –1
+- **Speed**: 20 ft. (4 squares), fly 40 ft. (average)
+- **Armor Class**: 21 (–1 Dex, +12 natural), touch 9, flat-footed 21
+- **Base Attack**: +7; **CMB**: +14; **CMD**: 23 (31 vs. trip)
+- **Attack**: Bite +14 melee (1d8+7) or claw +14 melee (1d4+7)
+- **Full Attack**: Bite +14 melee (1d8+7) and 2 claws +14 melee (1d4+7)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (60-foot line of acid, 7d6 acid damage, Reflex DC 18 half), [[rangoric-srd/monsters/abilities/Gaze|gaze]] (DC 18, as the [[rangoric-srd/monsters/Basilisk|basilisk]])
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], immunity to acid, sleep and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]
+- **Saves**: Fort +12, Ref +4, Will +5
+- **Abilities**: Str 24, Dex 8, Con 21, Int 4, Wis 13, Cha 13
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +13
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Temperate swamp or underground
+- **Organization**: Solitary or pair
+- **Challenge Rating**: 7
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 [[rangoric-srd/monsters/half-dragon/Half-Dragon|Half-dragons]] are only rarely the result of dragons mating with other creatures—most are the result of strange magical experiments. In most cases, a successful creation breeds true with others of its kind, as with the dreaded dracolisk.

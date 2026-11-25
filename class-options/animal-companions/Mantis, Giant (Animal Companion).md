@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Mantis, Giant
 
-*An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature ([[rangoric-srd/monsters/Giant Praying Mantis|giant praying mantis]]).*
+_An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature ([[rangoric-srd/monsters/Giant Praying Mantis|giant praying mantis]])._
 
 - **Size**: Medium
 - **Speed**: 30 ft., climb 30 ft., fly 40 ft. (average)

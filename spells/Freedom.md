@@ -24,15 +24,15 @@ tags: [rangoric, rangoric/spell]
 
 # Freedom
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Psy 9, Sor/Wiz 9
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels) or see text
-  - **Target**: One creature
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes
+- **Level**: Psy 9, Sor/Wiz 9
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels) or see text
+- **Target**: One creature
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes
 
 The subject is freed from spells and effects that restrict its movement, including [[rangoric-srd/spells/Spells P to R|binding]], [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangle]], [[rangoric-srd/rules/conditions/Grappled (Condition)|grappling]], [[rangoric-srd/spells/Imprisonment|imprisonment]], [[rangoric-srd/spells/Maze|maze]], [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], petrification, [[rangoric-srd/rules/conditions/Pinned (Condition)|pinning]], [[rangoric-srd/spells/Sleep|sleep]], [[rangoric-srd/spells/Slow|slow]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/spells/Temporal Stasis|temporal stasis]], and [[rangoric-srd/spells/Web|web]]. To free a creature from imprisonment or maze, you must know its name and background, and you must cast this spell at the spot where it was entombed or banished into the maze.

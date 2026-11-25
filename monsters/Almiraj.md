@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Almiraj
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 2d10+2 (13 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares), burrow 10 ft.
-  - **Armor Class**: 13 (+2 Dex, +1 size), touch 13, flat-footed 11
-  - **Base Attack**: +2; **CMB**: –1; **CMD**: 11 (15 vs. trip)
-  - **Attack**: +1 gore +6 melee (2d4–1)
-  - **Full Attack**: +1 gore +6 melee (2d4–1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Magic Horn|Magic horn]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Hex-Prone|hex-prone]]
-  - **Saves**: Fort +4, Ref +5, Will +0
-  - **Abilities**: Str 6, Dex 15, Con 12, Int 5, Wis 11, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] –2 (+6 jumping), [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +14
-  - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Temperate hills, plains, or forests
-  - **Organization**: Solitary
-  - **Challenge Rating**: 1
-  - **Treasure**: Incidental (magic horn)
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 2d10+2 (13 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares), burrow 10 ft.
+- **Armor Class**: 13 (+2 Dex, +1 size), touch 13, flat-footed 11
+- **Base Attack**: +2; **CMB**: –1; **CMD**: 11 (15 vs. trip)
+- **Attack**: +1 gore +6 melee (2d4–1)
+- **Full Attack**: +1 gore +6 melee (2d4–1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Magic Horn|Magic horn]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Hex-Prone|hex-prone]]
+- **Saves**: Fort +4, Ref +5, Will +0
+- **Abilities**: Str 6, Dex 15, Con 12, Int 5, Wis 11, Cha 6
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] –2 (+6 jumping), [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +14
+- **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Temperate hills, plains, or forests
+- **Organization**: Solitary
+- **Challenge Rating**: 1
+- **Treasure**: Incidental (magic horn)
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The almiraj is a surprisingly dangerous predator. Almirajes' strong affinity with witches, magical gore attacks, and susceptibility to hexes suggest they have arcane origins, perhaps the result of experiments by witches seeking to deliberately create a new kind of familiar.
 

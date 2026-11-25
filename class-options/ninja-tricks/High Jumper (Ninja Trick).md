@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # High Jumper
 
-*A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Ex).*
+_A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Ex)._
 
 When a ninja with this trick makes a high [[rangoric-srd/skills/Athletics#Jumping|jump]], the DC for that jump is half the normal DC. The ninja must have the acrobatic master trick before taking this talent.

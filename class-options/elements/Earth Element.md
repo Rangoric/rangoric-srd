@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Earth Element
 
-*An [[rangoric-srd/class-options/elements/Elements|element]] a [[rangoric-srd/classes/Kineticist|kineticist]] can choose with [[rangoric-srd/classes/Kineticist#^kineticist-elemental-focus|elemental focus]] or [[rangoric-srd/classes/Kineticist#^kineticist-expanded-element|expanded element]].*
+_An [[rangoric-srd/class-options/elements/Elements|element]] a [[rangoric-srd/classes/Kineticist|kineticist]] can choose with [[rangoric-srd/classes/Kineticist#^kineticist-elemental-focus|elemental focus]] or [[rangoric-srd/classes/Kineticist#^kineticist-expanded-element|expanded element]]._
 
 Kineticists who focus on the element of earth are called geokineticists. Geokineticists manipulate the earth itself, and they are masters of defensive techniques.
 

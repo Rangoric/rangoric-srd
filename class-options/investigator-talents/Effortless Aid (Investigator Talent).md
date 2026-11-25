@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Effortless Aid
 
-*An [[rangoric-srd/classes/Investigator#^investigator-investigator-talent|investigator talent]] (Ex).*
+_An [[rangoric-srd/classes/Investigator#^investigator-investigator-talent|investigator talent]] (Ex)._
 
 The investigator can use an [[rangoric-srd/combat/Combat Special Attacks#Aid Another|aid another]] action as a move action instead of as a standard action. An investigator can expend one use of inspiration to instead perform an aid another action as a swift action.

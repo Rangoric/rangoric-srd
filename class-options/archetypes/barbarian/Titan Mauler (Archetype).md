@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Titan Mauler
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-archetypes|barbarian]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-archetypes|barbarian]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 In lands overrun by giants, dragons, and other hulking beasts, entire fellowships of barbarians hone tactics and traditions with one purpose—to bring low these massive foes. While her enemies' size makes the creatures strong, the titan mauler is even stronger, taking up weapons from her fallen foes that no lesser warrior can lift, and using them when she beseeches the spirits to grant her increased size and greater ferocity against her titanic foes.
 
@@ -32,6 +32,6 @@ In lands overrun by giants, dragons, and other hulking beasts, entire fellowship
 
 **Evade Reach (Ex)**: At 5th level, as a swift action, a titan mauler may choose one creature within her line of sight. Until the end of her turn, that target's reach is treated as if it were 5 feet shorter with respect to reaching the titan mauler, and this reduction increases by 5 feet for every five levels beyond 5th. This ability replaces [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]].
 
-**Titanic Rage (Su)**: At 14th level, a titan mauler may choose to gain the benefits of *[[rangoric-srd/spells/Enlarge Person|enlarge person]]* when she enters a rage. While using titanic rage, she must spend 2 rounds of [[rangoric-srd/classes/Barbarian#^barbarian-rage|rage]] per round, and she becomes [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]] rather than [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] when the rage ends. This ability replaces [[rangoric-srd/classes/Barbarian#^barbarian-indomitable-will|indomitable will]].
+**Titanic Rage (Su)**: At 14th level, a titan mauler may choose to gain the benefits of _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ when she enters a rage. While using titanic rage, she must spend 2 rounds of [[rangoric-srd/classes/Barbarian#^barbarian-rage|rage]] per round, and she becomes [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]] rather than [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] when the rage ends. This ability replaces [[rangoric-srd/classes/Barbarian#^barbarian-indomitable-will|indomitable will]].
 
 **Rage Powers**: The following [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] complement the titan mauler archetype: [[rangoric-srd/class-options/rage-powers/Body Bludgeon (Rage Power)|body bludgeon]], [[rangoric-srd/class-options/rage-powers/Ground Breaker, Greater (Rage Power)|greater ground breaker]], [[rangoric-srd/class-options/rage-powers/Ground Breaker (Rage Power)|ground breaker]], [[rangoric-srd/class-options/rage-powers/Knockback (Rage Power)|knockback]], [[rangoric-srd/class-options/rage-powers/Mighty Swing (Rage Power)|mighty swing]], [[rangoric-srd/class-options/rage-powers/Powerful Blow (Rage Power)|powerful blow]], [[rangoric-srd/class-options/rage-powers/Smasher (Rage Power)|smasher]], and [[rangoric-srd/class-options/rage-powers/Strength Surge (Rage Power)|strength surge]].

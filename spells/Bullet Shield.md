@@ -29,15 +29,15 @@ tags: [rangoric, rangoric/spell]
 
 # Bullet Shield
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Alc 2, Blr 2, Occ 2, Psy 2, Sor/Wiz 2
-  - **Components**: V, S, M (a bullet)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 10 minutes/level (D)
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Alc 2, Blr 2, Occ 2, Psy 2, Sor/Wiz 2
+- **Components**: V, S, M (a bullet)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 10 minutes/level (D)
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-The warded creature gains a +4 deflection bonus to AC against [[rangoric-srd/equipment/Firearms|firearm]] and ranged attacks, with an additional +1 to the bonus for every five caster levels you have (to a maximum of +8 at 20th level). Though the spell is called *bullet shield*, it also grants this protection from attacks made from firearms with the [[rangoric-srd/equipment/Firearms#Firearm Descriptions|scatter weapon quality]].
+The warded creature gains a +4 deflection bonus to AC against [[rangoric-srd/equipment/Firearms|firearm]] and ranged attacks, with an additional +1 to the bonus for every five caster levels you have (to a maximum of +8 at 20th level). Though the spell is called _bullet shield_, it also grants this protection from attacks made from firearms with the [[rangoric-srd/equipment/Firearms#Firearm Descriptions|scatter weapon quality]].

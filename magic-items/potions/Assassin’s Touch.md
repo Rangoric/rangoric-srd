@@ -16,8 +16,8 @@ tags: [rangoric, rangoric/magic-item]
 
 # Assassin’s Touch
 
-*A [[rangoric-srd/magic-items/potions/Strange Brew Potions|strange brew]].*
+_A [[rangoric-srd/magic-items/potions/Strange Brew Potions|strange brew]]._
 
-This oil bestows upon the user the ability to poison all nonmagical creatures he touches with her bare skin as per the *[[rangoric-srd/spells/Poison|poison]]* spell (DC 16; Fort negates). The effect normally lasts for 3 hours, but each dose applied carries with it a 10% chance the effect is permanent instead. Despite such dangers, certain assassins favor this rare potion in undertaking difficult assignments.
+This oil bestows upon the user the ability to poison all nonmagical creatures he touches with her bare skin as per the _[[rangoric-srd/spells/Poison|poison]]_ spell (DC 16; Fort negates). The effect normally lasts for 3 hours, but each dose applied carries with it a 10% chance the effect is permanent instead. Despite such dangers, certain assassins favor this rare potion in undertaking difficult assignments.
 
-CL 7th; [[rangoric-srd/feats/Brew Potion|Brew Potion]], *[[rangoric-srd/spells/Poison|poison]]*; Price 2,100 gp.
+CL 7th; [[rangoric-srd/feats/Brew Potion|Brew Potion]], _[[rangoric-srd/spells/Poison|poison]]_; Price 2,100 gp.

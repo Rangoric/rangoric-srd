@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Arcane Pretender
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Halfling)
-  - **Hit Dice**: 14d10+42 (123 hp)
-  - **Initiative**: +6
-  - **Speed**: 20 ft. (4 squares), fly 60 ft. (good)
-  - **Armor Class**: 22 (+7 armor, +2 Dex, +1 dodge, +1 natural, +1 size), touch 14, flat-footed 19
-  - **Base Attack**: +14; **CMB**: +19 (+23 disarm); **CMD**: 32 (+34 vs. disarm)
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Bastard Sword|bastard sword]] +26 melee (1d8+10/19–20)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Bastard Sword|bastard sword]] +26/+21/+16 melee (1d8+10/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (heavy blades +3, light blades +2, thrown +1)
-  - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +4, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 3, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/—
-  - **Saves**: Fort +16, Ref +13, Will +10 (+6 vs. fear)
-  - **Abilities**: Str 19, Dex 14, Con 14, Int 14, Wis 8, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Arcana|Arcana]] +18, [[rangoric-srd/skills/Athletics|Athletics]] +8 (+4 jumping), [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Emulation|Emulation]] +25, [[rangoric-srd/skills/Perception|Perception]] +3
-  - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (bastard sword), [[rangoric-srd/feats/Greater Disarm|Greater Disarm]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Penetrating Strike|Penetrating Strike]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Emulation), [[rangoric-srd/feats/Strike Back|Strike Back]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bastard sword), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (bastard sword)
-  - **Environment**: Warm plains
-  - **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])
-  - **Challenge Rating**: 13
-  - **Treasure**: NPC gear (combat gear: potion of cure moderate wounds, scrolls of bear's endurance (2), scrolls of bull's strength (2), scroll of cure serious wounds (arcane, CL 7th), scroll of dimension door, scroll of fly (CL 8th), scroll of heroism, scroll of silence (CL 6th), wand of lightning bolts (CL 10th, 5 charges), wand of scorching ray (CL 11th, 18 charges), wand of shield (CL 3rd, 12 charges), wand of shield of faith (CL 6th, 11 charges); other gear: +1 adamantine breastplate, +1 bastard sword, amulet of natural armor +1, cloak of resistance +2, handy haversack, 370 gp)
-  - **Alignment**: Chaotic neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Halfling)
+- **Hit Dice**: 14d10+42 (123 hp)
+- **Initiative**: +6
+- **Speed**: 20 ft. (4 squares), fly 60 ft. (good)
+- **Armor Class**: 22 (+7 armor, +2 Dex, +1 dodge, +1 natural, +1 size), touch 14, flat-footed 19
+- **Base Attack**: +14; **CMB**: +19 (+23 disarm); **CMD**: 32 (+34 vs. disarm)
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Bastard Sword|bastard sword]] +26 melee (1d8+10/19–20)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Bastard Sword|bastard sword]] +26/+21/+16 melee (1d8+10/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (heavy blades +3, light blades +2, thrown +1)
+- **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +4, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 3, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/—
+- **Saves**: Fort +16, Ref +13, Will +10 (+6 vs. fear)
+- **Abilities**: Str 19, Dex 14, Con 14, Int 14, Wis 8, Cha 16
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Arcana|Arcana]] +18, [[rangoric-srd/skills/Athletics|Athletics]] +8 (+4 jumping), [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Emulation|Emulation]] +25, [[rangoric-srd/skills/Perception|Perception]] +3
+- **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (bastard sword), [[rangoric-srd/feats/Greater Disarm|Greater Disarm]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Penetrating Strike|Penetrating Strike]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Emulation), [[rangoric-srd/feats/Strike Back|Strike Back]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bastard sword), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (bastard sword)
+- **Environment**: Warm plains
+- **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])
+- **Challenge Rating**: 13
+- **Treasure**: NPC gear (combat gear: potion of cure moderate wounds, scrolls of bear's endurance (2), scrolls of bull's strength (2), scroll of cure serious wounds (arcane, CL 7th), scroll of dimension door, scroll of fly (CL 8th), scroll of heroism, scroll of silence (CL 6th), wand of lightning bolts (CL 10th, 5 charges), wand of scorching ray (CL 11th, 18 charges), wand of shield (CL 3rd, 12 charges), wand of shield of faith (CL 6th, 11 charges); other gear: +1 adamantine breastplate, +1 bastard sword, amulet of natural armor +1, cloak of resistance +2, handy haversack, 370 gp)
+- **Alignment**: Chaotic neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 An arcane pretender is a [[rangoric-srd/monsters/halfling/Halfling|halfling]] with 14 levels of [[rangoric-srd/classes/Fighter|fighter]]. Mixing martial prowess with magic support, arcane pretenders typically serve as guards for powerful casters. Other arcane pretenders become adventurers, sellswords, or explorers.
 

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Bull
 
-*An [[rangoric-srd/classes/Hunter#^hunter-animal-focus|animal focus]] (Su).*
+_An [[rangoric-srd/classes/Hunter#^hunter-animal-focus|animal focus]] (Su)._
 
 The creature gains a +2 enhancement bonus to Strength. This bonus increases to +4 at 8th level and +6 at 15th level.

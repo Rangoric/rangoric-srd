@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ypotryll
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 22d10+132 (253 hp)
-  - **Initiative**: –1
-  - **Speed**: 60 ft. (12 squares)
-  - **Armor Class**: 29 (–1 Dex, +22 natural, –2 size), touch 7, flat-footed 29
-  - **Base Attack**: +22; **CMB**: +35 (+37 bull rush, +39 overrun); **CMD**: 44 (46 vs. bull rush, 46 vs. overrun)
-  - **Attack**: Gore +31 melee (4d8+16 plus [[rangoric-srd/monsters/abilities/Push|push]]) or hoof +34 melee (2d8+11) or tail slap +34 melee (2d6+5 plus [[rangoric-srd/monsters/abilities/Push|push]])
-  - **Full Attack**: Gore +31 melee (4d8+16 plus [[rangoric-srd/monsters/abilities/Push|push]]) and 2 hooves +29 melee (2d8+11) and tail slap +29 melee (2d6+5 plus [[rangoric-srd/monsters/abilities/Push|push]])
-  - **Space/Reach**: 10 ft./15 ft. (15 ft. with tail slap)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Destructive Charge|Destructive charge]], [[rangoric-srd/monsters/abilities/Push|push]] (gore, tail slap, 10 ft.), [[rangoric-srd/monsters/abilities/Thundering Path|thundering path]], [[rangoric-srd/monsters/abilities/Trample|trample]] (2d8+16), [[rangoric-srd/monsters/abilities/Unstoppable Force|unstoppable force]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Bloody-Minded|bloody-minded]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/—
-  - **Saves**: Fort +21, Ref +12, Will +9
-  - **Abilities**: Str 32, Dex 9, Con 21, Int 2, Wis 10, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +23 (+35 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +12
-  - **Feats**: [[rangoric-srd/feats/Charge Through|Charge Through]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Greater Overrun|Greater Overrun]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Temperate marshes, hills, or coasts
-  - **Organization**: Solitary, pair, herd (3–16)
-  - **Challenge Rating**: 15
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 22d10+132 (253 hp)
+- **Initiative**: –1
+- **Speed**: 60 ft. (12 squares)
+- **Armor Class**: 29 (–1 Dex, +22 natural, –2 size), touch 7, flat-footed 29
+- **Base Attack**: +22; **CMB**: +35 (+37 bull rush, +39 overrun); **CMD**: 44 (46 vs. bull rush, 46 vs. overrun)
+- **Attack**: Gore +31 melee (4d8+16 plus [[rangoric-srd/monsters/abilities/Push|push]]) or hoof +34 melee (2d8+11) or tail slap +34 melee (2d6+5 plus [[rangoric-srd/monsters/abilities/Push|push]])
+- **Full Attack**: Gore +31 melee (4d8+16 plus [[rangoric-srd/monsters/abilities/Push|push]]) and 2 hooves +29 melee (2d8+11) and tail slap +29 melee (2d6+5 plus [[rangoric-srd/monsters/abilities/Push|push]])
+- **Space/Reach**: 10 ft./15 ft. (15 ft. with tail slap)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Destructive Charge|Destructive charge]], [[rangoric-srd/monsters/abilities/Push|push]] (gore, tail slap, 10 ft.), [[rangoric-srd/monsters/abilities/Thundering Path|thundering path]], [[rangoric-srd/monsters/abilities/Trample|trample]] (2d8+16), [[rangoric-srd/monsters/abilities/Unstoppable Force|unstoppable force]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Bloody-Minded|bloody-minded]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/—
+- **Saves**: Fort +21, Ref +12, Will +9
+- **Abilities**: Str 32, Dex 9, Con 21, Int 2, Wis 10, Cha 7
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +23 (+35 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +12
+- **Feats**: [[rangoric-srd/feats/Charge Through|Charge Through]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Greater Overrun|Greater Overrun]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Temperate marshes, hills, or coasts
+- **Organization**: Solitary, pair, herd (3–16)
+- **Challenge Rating**: 15
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 For those unfortunate enough to get in an ypotryll's way, the thundering rhythm of its hooves is the sound of doom. These creatures are pure savagery and destruction incarnate. A bulk of muscle and hate, a charging ypotryll can be slowed by few things. Bodies and viscera are strewed about when this powerful boarlike juggernaut hits a shield wall, and pikes splinter on its armored plates as if they were twigs. Given enough momentum, a charging ypotryll can rip apart a drawbridge or even the crash through a keep's walls. Powerful savage tribes corral these beasts and unleash their carnage on the battlefield. Giants and powerful troll chiefs prize ypotrylls, and spend much time and resources to break them, though ypotrylls' volatile nature ensures such domestication is rare. When it does happen, they make truly frightening steeds.
 

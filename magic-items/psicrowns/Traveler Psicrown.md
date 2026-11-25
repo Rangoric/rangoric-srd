@@ -20,12 +20,12 @@ tags: [rangoric, rangoric/magic-item]
 
 This psicrown has 750 power points. It is made from silk, usually dyed emerald green, with an emerald crystal affixed to the material. It allows use of the following powers.
 
-  - [[rangoric-srd/powers/Astral Traveler|Astral traveler]]
+- [[rangoric-srd/powers/Astral Traveler|Astral traveler]]
 
-  - [[rangoric-srd/powers/Dimension Door, Psionic|Dimension door, psionic]]
+- [[rangoric-srd/powers/Dimension Door, Psionic|Dimension door, psionic]]
 
-  - [[rangoric-srd/powers/Teleport, Psionic Greater|Teleport, psionic greater]]
+- [[rangoric-srd/powers/Teleport, Psionic Greater|Teleport, psionic greater]]
 
-  - [[rangoric-srd/powers/Teleport, Psionic|Teleport, psionic]]
+- [[rangoric-srd/powers/Teleport, Psionic|Teleport, psionic]]
 
 Strong psychoportation; ML 15th; Craft Psicrown, astral traveler, psionic dimension door, psionic greater teleport, psionic teleport; Price 80,156 gp.

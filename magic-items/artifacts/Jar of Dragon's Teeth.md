@@ -19,16 +19,16 @@ tags: [rangoric, rangoric/magic-item]
 
 Each time this jar gains a new user it produces 2d4 dragon teeth. When one of these teeth is swallowed, it grants the user the following powers for 1 full week or until it is dismissed as a standard action that does not provoke attacks of opportunity.
 
-- The user is immediately polymorphed into a dragon, as if subject to *[[rangoric-srd/spells/Form of the Dragon I|form of the dragon I]]*, *[[rangoric-srd/spells/Form of the Dragon II|II]]*, or *[[rangoric-srd/spells/Form of the Dragon III|III]]*, depending on the user's Hit Dice. If the creature swallowing the tooth has 12 HD or fewer, it is affected as per *[[rangoric-srd/spells/Form of the Dragon I|form of the dragon I]]*. Those with 13 to 18 HD are affected as per *[[rangoric-srd/spells/Form of the Dragon II|form of the dragon II]]*, and those 19 or more Hit Dice are affected as per *[[rangoric-srd/spells/Form of the Dragon III|form of the dragon III]]*. The type of dragon is chosen by the user based on its alignment.
-  - *Lawful good*: bronze dragon, gold dragon, or silver dragon
-  - *Neutral good*: any metallic dragon
-  - *Chaotic good*: brass dragon or copper dragon
-  - *Lawful neutral*: any chromatic or metallic dragon
-  - *Neutral*: any chromatic or metallic dragon
-  - *Chaotic neutral*: any chromatic or metallic dragon
-  - *Lawful evil*: blue dragon or green dragon
-  - *Neutral evil*: any chromatic dragon
-  - *Chaotic evil*: black dragon, red dragon, or white dragon
+- The user is immediately polymorphed into a dragon, as if subject to _[[rangoric-srd/spells/Form of the Dragon I|form of the dragon I]]_, _[[rangoric-srd/spells/Form of the Dragon II|II]]_, or _[[rangoric-srd/spells/Form of the Dragon III|III]]_, depending on the user's Hit Dice. If the creature swallowing the tooth has 12 HD or fewer, it is affected as per _[[rangoric-srd/spells/Form of the Dragon I|form of the dragon I]]_. Those with 13 to 18 HD are affected as per _[[rangoric-srd/spells/Form of the Dragon II|form of the dragon II]]_, and those 19 or more Hit Dice are affected as per _[[rangoric-srd/spells/Form of the Dragon III|form of the dragon III]]_. The type of dragon is chosen by the user based on its alignment.
+  - _Lawful good_: bronze dragon, gold dragon, or silver dragon
+  - _Neutral good_: any metallic dragon
+  - _Chaotic good_: brass dragon or copper dragon
+  - _Lawful neutral_: any chromatic or metallic dragon
+  - _Neutral_: any chromatic or metallic dragon
+  - _Chaotic neutral_: any chromatic or metallic dragon
+  - _Lawful evil_: blue dragon or green dragon
+  - _Neutral evil_: any chromatic dragon
+  - _Chaotic evil_: black dragon, red dragon, or white dragon
 
 The user's draconic appearance is always the same each subsequent time it swallows a tooth. While in draconic form, the user gains the following benefits.
 
@@ -40,6 +40,6 @@ The user's draconic appearance is always the same each subsequent time it swallo
 
 The jar never creates dragon teeth for the same creature more than once. If the owner changes before all the teeth created by the jar are consumed, the original owner no longer gains benefit from this artifact.
 
-**Destruction**: If simultaneously hit with the breath weapon attacks of all the chromatic and metallic dragon types, the *Jar of Dragon's Teeth* is destroyed within that convergence.
+**Destruction**: If simultaneously hit with the breath weapon attacks of all the chromatic and metallic dragon types, the _Jar of Dragon's Teeth_ is destroyed within that convergence.
 
 Strong transmutation; CL 20th; Weight 3 lbs.

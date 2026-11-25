@@ -18,11 +18,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Firesight
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Fire Element|fire]]
-  - **Type**: utility (Su)
-  - **Level**: 3
-  - **Burn**: —
+- **Element**: [[rangoric-srd/class-options/elements/Fire Element|fire]]
+- **Type**: utility (Su)
+- **Level**: 3
+- **Burn**: —
 
 You can see through flames and smoke as if they were transparent. Creatures that are on fire or have the fire subtype never benefit from concealment or total concealment against you.

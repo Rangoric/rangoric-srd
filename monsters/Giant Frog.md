@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Giant Frog
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 2d8+6 (15 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares), swim 30 ft.
-  - **Armor Class**: 12 (+1 Dex, +1 natural), touch 11, flat-footed 11
-  - **Base Attack**: +1; **CMB**: +3 (+7 grapple); **CMD**: 14 (18 vs. trip)
-  - **Attack**: Bite +3 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tongue +3 melee touch (grab)
-  - **Full Attack**: Bite +3 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]]); or tongue +3 melee touch (grab)
-  - **Space/Reach**: 5 ft./5 ft. (15 ft. with tongue)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pull|Pull]] (tongue, 5 feet), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (1d4 bludgeoning damage, AC 10, 1 hp), tongue
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +6, Ref +6, Will –1
-  - **Abilities**: Str 15, Dex 13, Con 16, Int 1, Wis 8, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+14 jumping), [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +5
-  - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
-  - **Environment**: Temperate or warm marshes and aquatic
-  - **Organization**: Solitary, pair, or army (3–8)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 2d8+6 (15 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares), swim 30 ft.
+- **Armor Class**: 12 (+1 Dex, +1 natural), touch 11, flat-footed 11
+- **Base Attack**: +1; **CMB**: +3 (+7 grapple); **CMD**: 14 (18 vs. trip)
+- **Attack**: Bite +3 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tongue +3 melee touch (grab)
+- **Full Attack**: Bite +3 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]]); or tongue +3 melee touch (grab)
+- **Space/Reach**: 5 ft./5 ft. (15 ft. with tongue)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Pull|Pull]] (tongue, 5 feet), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (1d4 bludgeoning damage, AC 10, 1 hp), tongue
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +6, Ref +6, Will –1
+- **Abilities**: Str 15, Dex 13, Con 16, Int 1, Wis 8, Cha 6
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+14 jumping), [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +5
+- **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
+- **Environment**: Temperate or warm marshes and aquatic
+- **Organization**: Solitary, pair, or army (3–8)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Giant frogs have razor-sharp teeth lining their mouths. They are 6 feet long and weigh 200 pounds.
 

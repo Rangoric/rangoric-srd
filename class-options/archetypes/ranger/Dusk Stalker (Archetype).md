@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Dusk Stalker
 
-*A [[rangoric-srd/classes/Ranger#^ranger-archetypes|ranger]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Fetchling|fetchlings]].*
+_A [[rangoric-srd/classes/Ranger#^ranger-archetypes|ranger]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Fetchling|fetchlings]]._
 
 Hunters and guides through the [[rangoric-srd/rules/Planes#Plane of Shadow|Shadow Plane]], dusk stalkers are rangers that thrive in shadow. Adept at hunting in dusk, darkness, and twilight, these rangers excel at manipulating shadows.
 

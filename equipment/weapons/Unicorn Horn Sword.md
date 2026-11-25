@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/heavy-blades]
 
 # Unicorn Horn Sword
 
-*Exotic one-handed melee weapon.* Cost 15 gp; Dmg 1d4 (S), 1d6 (M); Critical 19-20/x2; Weight 2 lb.; Type Slashing. ^stats
+_Exotic one-handed melee weapon._ Cost 15 gp; Dmg 1d4 (S), 1d6 (M); Critical 19-20/x2; Weight 2 lb.; Type Slashing. ^stats
 
-(*Lin Jiao Dao*): A short, broad-bladed sword, the unicorn horn sword has a forward-curving blade, a rear-facing hook, and a sharp crescent-shaped handguard. Unicorn horn swords are normally used in pairs.
+(_Lin Jiao Dao_): A short, broad-bladed sword, the unicorn horn sword has a forward-curving blade, a rear-facing hook, and a sharp crescent-shaped handguard. Unicorn horn swords are normally used in pairs.

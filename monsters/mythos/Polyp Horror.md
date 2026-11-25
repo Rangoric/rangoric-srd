@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Polyp Horror
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Air)
-  - **Hit Dice**: 18d8+126 (207 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares), fly 60 ft. (perfect)
-  - **Armor Class**: 29 (+5 deflection, +2 Dex, +1 dodge, +13 natural, –2 size), touch 16, flat-footed 26
-  - **Base Attack**: +13; **CMB**: +24 (+28 grapple); **CMD**: 42 (can't be tripped)
-  - **Attack**: Tentacle +21 melee (1d8+9/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: 4 tentacles +21 melee (1d8+9/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d8+9), sucking wind, wind blast, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (90 ft., DC 24), [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], deflecting winds, partial invisibility, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic and slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, cold and sonic, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25, vulnerable to electricity
-  - **Saves**: Fort +13, Ref +12, Will +16
-  - **Abilities**: Str 28, Dex 15, Con 24, Int 19, Wis 20, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +27, [[rangoric-srd/skills/Emulation|Emulation]] +23, [[rangoric-srd/skills/Engineering|Engineering]] +22, [[rangoric-srd/skills/Mysticism|Mysticism]] +25, [[rangoric-srd/skills/Nature|Nature]] +22, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Society|Society]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +15
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (tentacle), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacle)
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, or storm (3–10)
-  - **Challenge Rating**: 14
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Air)
+- **Hit Dice**: 18d8+126 (207 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares), fly 60 ft. (perfect)
+- **Armor Class**: 29 (+5 deflection, +2 Dex, +1 dodge, +13 natural, –2 size), touch 16, flat-footed 26
+- **Base Attack**: +13; **CMB**: +24 (+28 grapple); **CMD**: 42 (can't be tripped)
+- **Attack**: Tentacle +21 melee (1d8+9/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: 4 tentacles +21 melee (1d8+9/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d8+9), sucking wind, wind blast, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (90 ft., DC 24), [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], deflecting winds, partial invisibility, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic and slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, cold and sonic, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25, vulnerable to electricity
+- **Saves**: Fort +13, Ref +12, Will +16
+- **Abilities**: Str 28, Dex 15, Con 24, Int 19, Wis 20, Cha 21
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +27, [[rangoric-srd/skills/Emulation|Emulation]] +23, [[rangoric-srd/skills/Engineering|Engineering]] +22, [[rangoric-srd/skills/Mysticism|Mysticism]] +25, [[rangoric-srd/skills/Nature|Nature]] +22, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Society|Society]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +15
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (tentacle), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacle)
+- **Environment**: Any
+- **Organization**: Solitary, pair, or storm (3–10)
+- **Challenge Rating**: 14
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A polyp horror is a nauseating mass of flesh, eyes, tentacles, and mouths. A typical polyp horror measures 30 feet in length but is unusually light for its size, weighing no more than 2,000 pounds. These creatures seem to have no maximum lifespan, but their violent, warlike nature ensures that death eventually occurs—even if it takes eons for the polyp to encounter something capable of defeating it.
 
@@ -77,7 +77,7 @@ Polyp horrors speak Aklo.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 14th; concentration +19): At will—*[[rangoric-srd/spells/Alter Winds|alter winds]]*, *[[rangoric-srd/spells/Gust of Wind|gust of wind]]* (DC 17), *[[rangoric-srd/spells/Whispering Wind|whispering wind]]*, *[[rangoric-srd/spells/Wind Walk|wind walk]]*; 3/day—*[[rangoric-srd/spells/Control Winds|control winds]]* (DC 20), *[[rangoric-srd/spells/River of Wind|river of wind]]* (DC 19), *[[rangoric-srd/spells/Wind Wall|wind wall]]*; 1/day—*[[rangoric-srd/spells/Control Weather|control weather]]*, *[[rangoric-srd/spells/Whirlwind|whirlwind]]* (DC 23).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 14th; concentration +19): At will—_[[rangoric-srd/spells/Alter Winds|alter winds]]_, _[[rangoric-srd/spells/Gust of Wind|gust of wind]]_ (DC 17), _[[rangoric-srd/spells/Whispering Wind|whispering wind]]_, _[[rangoric-srd/spells/Wind Walk|wind walk]]_; 3/day—_[[rangoric-srd/spells/Control Winds|control winds]]_ (DC 20), _[[rangoric-srd/spells/River of Wind|river of wind]]_ (DC 19), _[[rangoric-srd/spells/Wind Wall|wind wall]]_; 1/day—_[[rangoric-srd/spells/Control Weather|control weather]]_, _[[rangoric-srd/spells/Whirlwind|whirlwind]]_ (DC 23).
 
 **Deflecting Winds (Su)**: A polyp horror's mastery over air and wind allows it to surround itself with blasts of precisely aimed gusts, granting the creature a +5 deflection bonus to its Armor Class and a +4 resistance bonus on Reflex saving throws.
 

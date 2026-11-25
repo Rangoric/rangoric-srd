@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Evangelist
 
-*A [[rangoric-srd/classes/Cleric#^cleric-archetypes|cleric]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Cleric#^cleric-archetypes|cleric]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 The evangelist is the voice of her religion in the world. Where others nurture the faith among believers, an evangelist proclaims the coming glory of her deific patron and issues the clarion call to all around to heed the truth, or obey the call to war and crusade against the enemies of the church.
 
@@ -31,14 +31,14 @@ The evangelist is the voice of her religion in the world. Where others nurture t
 
 **Spontaneous Casting**: An evangelist does not gain the ability to [[rangoric-srd/classes/Cleric#^cleric-spontaneous-casting|spontaneously cast cure or inflict spells]] by sacrificing prepared spells. However, an evangelist can spontaneously cast the following spells by sacrificing a prepared spell of the noted level or above:
 
-| Spell Level | Spontaneous Spell |
-|-------------|--------------------------------------------------|
-| 1st level   | *[[rangoric-srd/spells/Command\|command]]* |
-| 2nd level   | *[[rangoric-srd/spells/Enthrall\|enthrall]]* |
-| 3rd level   | *[[rangoric-srd/spells/Tongues\|tongues]]* |
-| 4th level   | *[[rangoric-srd/spells/Suggestion\|suggestion]]* |
-| 5th level   | *[[rangoric-srd/spells/Command, Greater\|greater command]]* |
-| 6th level   | *[[rangoric-srd/spells/Geas-Quest\|geas/quest]]* |
-| 7th level   | *[[rangoric-srd/spells/Suggestion, Mass\|mass suggestion]]* |
-| 8th level   | *[[rangoric-srd/spells/Sympathy\|sympathy]]* |
-| 9th level   | *[[rangoric-srd/spells/Demand\|demand]]* |
+| Spell Level | Spontaneous Spell                                           |
+| ----------- | ----------------------------------------------------------- |
+| 1st level   | _[[rangoric-srd/spells/Command\|command]]_                  |
+| 2nd level   | _[[rangoric-srd/spells/Enthrall\|enthrall]]_                |
+| 3rd level   | _[[rangoric-srd/spells/Tongues\|tongues]]_                  |
+| 4th level   | _[[rangoric-srd/spells/Suggestion\|suggestion]]_            |
+| 5th level   | _[[rangoric-srd/spells/Command, Greater\|greater command]]_ |
+| 6th level   | _[[rangoric-srd/spells/Geas-Quest\|geas/quest]]_            |
+| 7th level   | _[[rangoric-srd/spells/Suggestion, Mass\|mass suggestion]]_ |
+| 8th level   | _[[rangoric-srd/spells/Sympathy\|sympathy]]_                |
+| 9th level   | _[[rangoric-srd/spells/Demand\|demand]]_                    |

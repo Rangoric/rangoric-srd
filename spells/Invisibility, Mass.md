@@ -26,13 +26,13 @@ tags: [rangoric, rangoric/spell]
 
 # Invisibility, Mass
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Illusion 7, Mes 6, Psy 7, Sor/Wiz 7, Sum 5, SumU 6
-  - **Components**: V, S, M
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Targets**: Any number of creatures, no two of which can be more than 180 ft. apart
+- **Level**: Illusion 7, Mes 6, Psy 7, Sor/Wiz 7, Sum 5, SumU 6
+- **Components**: V, S, M
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Targets**: Any number of creatures, no two of which can be more than 180 ft. apart
 
 This spell functions like [[rangoric-srd/spells/Invisibility|invisibility]], except that the effect is mobile with the group and is broken when anyone in the group attacks. Individuals in the group cannot see each other. The spell is broken for any individual who moves more than 180 feet from the nearest member of the group. (If only two individuals are affected, the one moving away from the other one loses its invisibility. If both are moving away from each other, they both become visible when the distance between them exceeds 180 feet.)
 
-*Material Component*: An eyelash encased in a bit of gum arabic.
+_Material Component_: An eyelash encased in a bit of gum arabic.

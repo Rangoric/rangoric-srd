@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Pilgrim
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 5d6 (17 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 11 (+1 armor), touch 10, flat-footed 11
-  - **Base Attack**: +2; **CMB**: +2; **CMD**: 12
-  - **Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +2 melee (1d8/×3) or [[rangoric-srd/equipment/weapons/Spear|spear]] +2 ranged (1d8/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +2 melee (1d8/×3); or [[rangoric-srd/equipment/weapons/Spear|spear]] +2 ranged (1d8/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort +1, Ref +1, Will +4
-  - **Abilities**: Str 10, Dex 10, Con 11, Int 13, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Perception|Perception]] +8, Perform (sing) +5, [[rangoric-srd/skills/Profession|Profession]] (midwife) +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Theology|Theology]] +5
-  - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Medicine, Perception)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 3
-  - **Treasure**: NPC gear (combat gear: potions of cure light wounds, neutralize poison, remove blindness/deafness, remove disease, and sanctuary; vial of holy water; other gear: padded armor, spear, healer's kit, wooden holy symbol, mule)
-  - **Alignment**: Neutral good
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 5d6 (17 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 11 (+1 armor), touch 10, flat-footed 11
+- **Base Attack**: +2; **CMB**: +2; **CMD**: 12
+- **Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +2 melee (1d8/×3) or [[rangoric-srd/equipment/weapons/Spear|spear]] +2 ranged (1d8/×3)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +2 melee (1d8/×3); or [[rangoric-srd/equipment/weapons/Spear|spear]] +2 ranged (1d8/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort +1, Ref +1, Will +4
+- **Abilities**: Str 10, Dex 10, Con 11, Int 13, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Perception|Perception]] +8, Perform (sing) +5, [[rangoric-srd/skills/Profession|Profession]] (midwife) +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Theology|Theology]] +5
+- **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Medicine, Perception)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 3
+- **Treasure**: NPC gear (combat gear: potions of cure light wounds, neutralize poison, remove blindness/deafness, remove disease, and sanctuary; vial of holy water; other gear: padded armor, spear, healer's kit, wooden holy symbol, mule)
+- **Alignment**: Neutral good
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A pilgrim is a [[rangoric-srd/monsters/human/Human|human]] with 5 levels of [[rangoric-srd/classes/Commoner|commoner]]. Pilgrims are religious mendicants who roam the long roads visiting shrines, temples, and other places sacred to their faith. They are ordinary folk, little trained in formal theology but with a passion for spreading their religion through their travels, being of service to all that they meet, and healing the hurts of a sad and lonely world.
 

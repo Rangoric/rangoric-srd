@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/light-blades]
 
 # Snake Ring
 
-*Exotic one-handed melee weapon.* Cost 14 gp; Dmg 1d4 (S), 1d4 (M); Critical 19-20/x2; Weight 2 lb.; Type Piercing or slashing. ^stats
+_Exotic one-handed melee weapon._ Cost 14 gp; Dmg 1d4 (S), 1d4 (M); Critical 19-20/x2; Weight 2 lb.; Type Piercing or slashing. ^stats
 
-(*She Huan*): A one-foot diameter sharpened ring used in melee, the snake ring is much like the wind and fire wheel, but has a wavy-shaped stabbing blade projecting horizontally from each side of the ring’s base. Snake rings are normally used in pairs.
+(_She Huan_): A one-foot diameter sharpened ring used in melee, the snake ring is much like the wind and fire wheel, but has a wavy-shaped stabbing blade projecting horizontally from each side of the ring’s base. Snake rings are normally used in pairs.

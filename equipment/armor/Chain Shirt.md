@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/armor]
 
 # Chain Shirt
 
-*Light armor.* Cost 100 gp; Armor Bonus +4; Maximum Dex Bonus +4; Armor Check Penalty –2; Arcane Spell Failure 20%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 25 lb. ^stats
+_Light armor._ Cost 100 gp; Armor Bonus +4; Maximum Dex Bonus +4; Armor Check Penalty –2; Arcane Spell Failure 20%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 25 lb. ^stats
 
 A chain shirt comes with a steel cap.

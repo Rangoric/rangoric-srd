@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Mage-Gold
 
-*Alchana; Special*
+_Alchana; Special_
 
 Mage-gold is the better of the two known mage-metals, and only alchemists can make it. It is harder than normal gold and can be forged and tempered into weapons. Mage-gold can be identified by its perpetual shine—it never tarnishes (save perhaps under the acidic breath of a black dragon). Neither does mage-gold resonate or ring when struck, rendering it useless for chimes or musical instruments. Its white-gold coloration also distinguishes it from common gold. The powers the mage-metal exhibits are thus:
 

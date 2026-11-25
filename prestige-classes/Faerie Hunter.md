@@ -55,18 +55,18 @@ The faerie hunter’s class skills (and the key ability for each skill) are [[ra
 
 **Table: The Faerie Hunter** ^table-the-faerie-hunter
 
-| Level | Special | Spells per Day: 1st | 2nd | 3rd | 4th |
-| --- | --- | --- | --- | --- | --- |
-| 1st | Fey Wary (+1), Sneak Attack (+1d6) | 0 | — | — | — |
-| 2nd | Faerie Fighter (+1), Fey Hunter (+1) | 1 | — | — | — |
-| 3rd | Smite Fey | 1 | 0 | — | — |
-| 4th | Fey Hunter (+2), Fey Wary (+2) | 1 | 1 | — | — |
-| 5th | Faerie Fighter (+2), Sneak Attack (+2d6) | 1 | 1 | 0 | — |
-| 6th | Anchor, Fey Hunter (+3) | 1 | 1 | 1 | — |
-| 7th | Fey Wary (+3), Slippery Mind | 2 | 1 | 1 | 0 |
-| 8th | Craft Blood Item, Fey Hunter (+4) | 2 | 1 | 1 | 1 |
-| 9th | Destroy Doorway | 2 | 2 | 1 | 1 |
-| 10th | Fey Hunter (+5), Fey Wary (+4) | 2 | 2 | 2 | 1 |
+| Level | Special                                  | Spells per Day: 1st | 2nd | 3rd | 4th |
+| ----- | ---------------------------------------- | ------------------- | --- | --- | --- |
+| 1st   | Fey Wary (+1), Sneak Attack (+1d6)       | 0                   | —   | —   | —   |
+| 2nd   | Faerie Fighter (+1), Fey Hunter (+1)     | 1                   | —   | —   | —   |
+| 3rd   | Smite Fey                                | 1                   | 0   | —   | —   |
+| 4th   | Fey Hunter (+2), Fey Wary (+2)           | 1                   | 1   | —   | —   |
+| 5th   | Faerie Fighter (+2), Sneak Attack (+2d6) | 1                   | 1   | 0   | —   |
+| 6th   | Anchor, Fey Hunter (+3)                  | 1                   | 1   | 1   | —   |
+| 7th   | Fey Wary (+3), Slippery Mind             | 2                   | 1   | 1   | 0   |
+| 8th   | Craft Blood Item, Fey Hunter (+4)        | 2                   | 1   | 1   | 1   |
+| 9th   | Destroy Doorway                          | 2                   | 2   | 1   | 1   |
+| 10th  | Fey Hunter (+5), Fey Wary (+4)           | 2                   | 2   | 2   | 1   |
 
 ###### Class Features
 
@@ -86,11 +86,11 @@ At 10th level, this faerie hunter ability extends to a radius emanating 5 feet f
 
 **Faerie Fighter (Ex)**: When fighting [[rangoric-srd/races/Faerie|faeries]], faerie hunters gain a +1 bonus at 2nd level on their attack and damage rolls. This bonus increases to +2 for both attack and damage rolls at 5th level. If the faerie is smaller than the faerie hunter, this bonus stacks with any bonuses gained from [[rangoric-srd/feats/Mite Fighter|Mite Fighter]] and [[rangoric-srd/feats/Improved Mite Fighter|Improved Mite Fighter]]. (This is only against the faerie race, not all fey.) ^faerie-hunter-faerie-fighter
 
-**Anchor (Sp)**: At 6th level, a faerie hunter gains the ability to keep a fey from escaping the mortal world, as *[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]*. To accomplish this, the fey must be hit by a crossbow bolt or arrow tipped with a cold iron spike. Some particularly nasty faerie hunters commission all their bolts or arrows to be fashioned from iron for potential use as an anchor. ^faerie-hunter-anchor
+**Anchor (Sp)**: At 6th level, a faerie hunter gains the ability to keep a fey from escaping the mortal world, as _[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]_. To accomplish this, the fey must be hit by a crossbow bolt or arrow tipped with a cold iron spike. Some particularly nasty faerie hunters commission all their bolts or arrows to be fashioned from iron for potential use as an anchor. ^faerie-hunter-anchor
 
 **Slippery Mind (Ex)**: At 7th level, the faerie hunter gains [[rangoric-srd/class-options/rogue-talents/Slippery Mind (Rogue Talent)|slippery mind]], as the rogue’s advanced talent. ^faerie-hunter-slippery-mind
 
-**Craft Blood Item (Ex)**: At 8th level, a faerie hunter gains this specialized form of the [[rangoric-srd/feats/Brew Potion|Brew Potion]] feat, which allows her to create healing potions from the blood and remains of a slain fey. The type of potion produced depends on the Hit Dice of the fey creature slain: 1 HD yields a potion of *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*, 2 HD yields a potion of *[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]*, and so on. The faerie hunter’s caster level for these potions is her faerie hunter level plus all other caster levels from any other spellcasting classes. All the normal requirements for a potion remain the same (such as race or spells). All other rules for creating potions apply. Only the faerie hunter is foul enough to research the magical uses of fey blood and escape the bad luck it could bring. ^faerie-hunter-craft-blood-item
+**Craft Blood Item (Ex)**: At 8th level, a faerie hunter gains this specialized form of the [[rangoric-srd/feats/Brew Potion|Brew Potion]] feat, which allows her to create healing potions from the blood and remains of a slain fey. The type of potion produced depends on the Hit Dice of the fey creature slain: 1 HD yields a potion of _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, 2 HD yields a potion of _[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]_, and so on. The faerie hunter’s caster level for these potions is her faerie hunter level plus all other caster levels from any other spellcasting classes. All the normal requirements for a potion remain the same (such as race or spells). All other rules for creating potions apply. Only the faerie hunter is foul enough to research the magical uses of fey blood and escape the bad luck it could bring. ^faerie-hunter-craft-blood-item
 
 **Destroy Doorway (Su)**: At 9th level, faerie hunters gain the supernatural ability to close [[rangoric-srd/rules/Fey Roads and Doorways#Doorways|doorways]] to the fey realm, thus removing avenues to and from the mortal world and preventing the escape of those fey already in mortal lands. In melee this takes a move action, and it provokes attacks of opportunity if performed in a threatened space. A ranged attack can be used to destroy a doorway if the faerie hunter fires a cold iron bolt or arrow imbued with this ability at the door. Through force of will, the faerie hunter is able to imbue a cold iron anchor (see [[rangoric-srd/prestige-classes/Faerie Hunter#^faerie-hunter-anchor|Anchor]]) with the destroy doorway ability for use as a ranged attack, but this takes an additional round. ^faerie-hunter-destroy-doorway
 
@@ -100,10 +100,10 @@ At 10th level, this faerie hunter ability extends to a radius emanating 5 feet f
 
 These spells carry “Fhn” levels.
 
-**1st Level**: *[[rangoric-srd/spells/Alarm|alarm]]*, *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*, *[[rangoric-srd/spells/Detect Doorway|detect doorway]]*, *[[rangoric-srd/spells/Detect Fey|detect fey]]*, *[[rangoric-srd/spells/Endure Elements|endure elements]]*, *[[rangoric-srd/spells/Inflict Light Wounds|inflict light wounds]]*, *[[rangoric-srd/spells/Magic Weapon|magic weapon]]*, *[[rangoric-srd/spells/Protection from Good|protection from good]]*.
+**1st Level**: _[[rangoric-srd/spells/Alarm|alarm]]_, _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Detect Doorway|detect doorway]]_, _[[rangoric-srd/spells/Detect Fey|detect fey]]_, _[[rangoric-srd/spells/Endure Elements|endure elements]]_, _[[rangoric-srd/spells/Inflict Light Wounds|inflict light wounds]]_, _[[rangoric-srd/spells/Magic Weapon|magic weapon]]_, _[[rangoric-srd/spells/Protection from Good|protection from good]]_.
 
-**2nd Level**: *[[rangoric-srd/spells/Bull’s Strength|bull’s strength]]*, *[[rangoric-srd/spells/Death Knell|death knell]]*, *[[rangoric-srd/spells/Detect Fey Doorway|detect fey doorway]]*, *[[rangoric-srd/spells/Dreamspeak|dreamspeak]]*, *[[rangoric-srd/spells/Bear’s Endurance|bear’s endurance]]*, *[[rangoric-srd/spells/Longvision|longvision]]*, *[[rangoric-srd/spells/See Invisibility|see invisibility]]*, *[[rangoric-srd/spells/Undetectable Alignment|undetectable alignment]]*.
+**2nd Level**: _[[rangoric-srd/spells/Bull’s Strength|bull’s strength]]_, _[[rangoric-srd/spells/Death Knell|death knell]]_, _[[rangoric-srd/spells/Detect Fey Doorway|detect fey doorway]]_, _[[rangoric-srd/spells/Dreamspeak|dreamspeak]]_, _[[rangoric-srd/spells/Bear’s Endurance|bear’s endurance]]_, _[[rangoric-srd/spells/Longvision|longvision]]_, _[[rangoric-srd/spells/See Invisibility|see invisibility]]_, _[[rangoric-srd/spells/Undetectable Alignment|undetectable alignment]]_.
 
-**3rd Level**: *[[rangoric-srd/spells/Anchor Fey|anchor fey]]*, *[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]*, *[[rangoric-srd/spells/Inflict Moderate Wounds|inflict moderate wounds]]*, *[[rangoric-srd/spells/Protection from Energy|protection from energy]]*, *[[rangoric-srd/spells/Second Sight|second sight]]*, *[[rangoric-srd/spells/Wing Wither|wing wither]]*.
+**3rd Level**: _[[rangoric-srd/spells/Anchor Fey|anchor fey]]_, _[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]_, _[[rangoric-srd/spells/Inflict Moderate Wounds|inflict moderate wounds]]_, _[[rangoric-srd/spells/Protection from Energy|protection from energy]]_, _[[rangoric-srd/spells/Second Sight|second sight]]_, _[[rangoric-srd/spells/Wing Wither|wing wither]]_.
 
-**4th Level**: *[[rangoric-srd/spells/Antilife Filter|antilife filter]]*, *[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]*, *[[rangoric-srd/spells/Discern Route|discern route]]*, *[[rangoric-srd/spells/Dismiss Fey|dismiss fey]]*, *[[rangoric-srd/spells/Fitful Sleep|fitful sleep]]*, *[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]*, *[[rangoric-srd/spells/Locate Creature|locate creature]]*, *[[rangoric-srd/spells/Nondetection|nondetection]]*.
+**4th Level**: _[[rangoric-srd/spells/Antilife Filter|antilife filter]]_, _[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]_, _[[rangoric-srd/spells/Discern Route|discern route]]_, _[[rangoric-srd/spells/Dismiss Fey|dismiss fey]]_, _[[rangoric-srd/spells/Fitful Sleep|fitful sleep]]_, _[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]_, _[[rangoric-srd/spells/Locate Creature|locate creature]]_, _[[rangoric-srd/spells/Nondetection|nondetection]]_.

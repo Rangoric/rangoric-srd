@@ -28,14 +28,14 @@ tags: [rangoric, rangoric/spell]
 
 # Transformation
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 6, Mag 6, Occ 6, Psy 6, Sor/Wiz 6, Spi 6, Wit 6
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level
+- **Level**: Alc 6, Mag 6, Occ 6, Psy 6, Sor/Wiz 6, Spi 6, Wit 6
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level
 
 You become a virtual fighting machine— stronger, tougher, faster, and more skilled in combat. Your mind-set changes so that you relish combat and you can’t cast spells, even from magic items.
 
@@ -43,4 +43,4 @@ You gain a +4 enhancement bonus to Strength, Dexterity, and Constitution, a +4 n
 
 You lose your spellcasting ability, including your ability to use spell activation or spell completion magic items, just as if the spells were no longer on your class list.
 
-*Material Component*: A potion of bull’s strength, which you drink (and whose effects are subsumed by the spell effects).
+_Material Component_: A potion of bull’s strength, which you drink (and whose effects are subsumed by the spell effects).

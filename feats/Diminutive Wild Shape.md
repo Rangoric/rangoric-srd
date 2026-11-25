@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic, wild]
 
 # Diminutive Wild Shape
 
-Prerequisite: Ability to wild shape into a Huge animal.  
+Prerequisite: Ability to wild shape into a Huge animal.
 
 Benefit: The character can use wild shape to take the shape of a Diminutive animal.
 

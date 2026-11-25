@@ -26,8 +26,8 @@ tags: [rangoric, rangoric/magic-item]
 
 # Hammer of Enemies
 
-This special +3 *[[rangoric-srd/magic-items/weapon-abilities/Bane (Weapon Special Ability)|bane]]* [[rangoric-srd/equipment/weapons/Warhammer|warhammer]] seeks only to crush the enemy of its wielder in battle. The hammer can speak Common, constantly mutters, curses when it is not engaged in battle, and sings deeply of its love of carnage when it is being used in a fight. The *hammer of enemies* is always eager to point out potential enemies within its vision. Because of its bloodlust it does not bestow negative levels on creatures that do not share its alignment—it is willing to fight for anyone. Additionally, three times per day, the *hammer of enemies* can change the creature type of its bane ability. A creature type remains until a new one is chosen.
+This special +3 _[[rangoric-srd/magic-items/weapon-abilities/Bane (Weapon Special Ability)|bane]]_ [[rangoric-srd/equipment/weapons/Warhammer|warhammer]] seeks only to crush the enemy of its wielder in battle. The hammer can speak Common, constantly mutters, curses when it is not engaged in battle, and sings deeply of its love of carnage when it is being used in a fight. The _hammer of enemies_ is always eager to point out potential enemies within its vision. Because of its bloodlust it does not bestow negative levels on creatures that do not share its alignment—it is willing to fight for anyone. Additionally, three times per day, the _hammer of enemies_ can change the creature type of its bane ability. A creature type remains until a new one is chosen.
 
 **Intelligent item**: Int 10, Wis 16, Cha 14, Ego 14; chaotic neutral; Senses 30 ft., darkvision; Language speech (Common).
 
-Moderate conjuration; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Summon Monster IV|summon monster IV]]*; Price 54,212 gp; Cost 27,262 gp.
+Moderate conjuration; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Summon Monster IV|summon monster IV]]_; Price 54,212 gp; Cost 27,262 gp.

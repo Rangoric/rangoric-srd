@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Graceful Slayer
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf)
-  - **Hit Dice**: 17d12+102 (218 hp)
-  - **Initiative**: +5
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 20 (+7 armor, +5 Dex, –2 rage), touch 13, flat-footed 15
-  - **Base Attack**: +17; **CMB**: +24; **CMD**: 37
-  - **Attack**: +1 keen shocking burst elven curve blade +25 melee (1d10+11/15–20 plus 1d6 electricity) or +1 seeking composite longbow +23 ranged (1d8+8/19–20/×3)
-  - **Full Attack**: +1 keen shocking burst elven curve blade +25/+20/+15/+10 melee (1d10+11/15–20 plus 1d6 electricity); or +1 seeking composite longbow +23/+18/+13/+8 ranged (1d8+8/19–20/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-greater-rage|Greater rage]] (38 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Clear Mind (Rage Power)|clear mind]], [[rangoric-srd/class-options/rage-powers/Mighty Swing (Rage Power)|mighty swing]], [[rangoric-srd/class-options/rage-powers/No Escape (Rage Power)|no escape]], [[rangoric-srd/class-options/rage-powers/Powerful Blow (Rage Power)|powerful blow]] +5, [[rangoric-srd/class-options/rage-powers/Raging Leaper (Rage Power)|raging leaper]] +17, [[rangoric-srd/class-options/rage-powers/Strength Surge (Rage Power)|strength surge]] +17, [[rangoric-srd/class-options/rage-powers/Surprise Accuracy (Rage Power)|surprise accuracy]] +5, [[rangoric-srd/class-options/rage-powers/Unexpected Strike (Rage Power)|unexpected strike]])
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-indomitable-will|indomitable will]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +5, [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/classes/Barbarian#^barbarian-tireless-rage|tireless rage]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/classes/Barbarian#^barbarian-damage-reduction|damage reduction]] 4/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
-  - **Saves**: Fort +17, Ref +12, Will +11 (+6 vs. enchantments)
-  - **Abilities**: Str 24, Dex 20, Con 20, Int 12, Wis 12, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +24, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+31 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Stealth|Stealth]] +20
-  - **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (composite longbow), [[rangoric-srd/feats/Manyshot|Manyshot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Stunning Critical|Stunning Critical]]
-  - **Environment**: Temperate forest
-  - **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
-  - **Challenge Rating**: 16
-  - **Treasure**: NPC gear (combat gear: oil of align weapon (evil), oil of flame arrow, potions of cure light wounds (2), potions of jump (2), potion of spider climb, adamantine arrows (10), alchemical silver arrows (10) , tanglefoot bags (2); other gear: +1 mithral breastplate, +1 keen shocking burst elven curve blade, +1 seeking composite longbow (+7 Str) with 40 cold iron arrows, belt of physical perfection +2, boots of speed, cloak of resistance +2, 50 gp)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf)
+- **Hit Dice**: 17d12+102 (218 hp)
+- **Initiative**: +5
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 20 (+7 armor, +5 Dex, –2 rage), touch 13, flat-footed 15
+- **Base Attack**: +17; **CMB**: +24; **CMD**: 37
+- **Attack**: +1 keen shocking burst elven curve blade +25 melee (1d10+11/15–20 plus 1d6 electricity) or +1 seeking composite longbow +23 ranged (1d8+8/19–20/×3)
+- **Full Attack**: +1 keen shocking burst elven curve blade +25/+20/+15/+10 melee (1d10+11/15–20 plus 1d6 electricity); or +1 seeking composite longbow +23/+18/+13/+8 ranged (1d8+8/19–20/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-greater-rage|Greater rage]] (38 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Clear Mind (Rage Power)|clear mind]], [[rangoric-srd/class-options/rage-powers/Mighty Swing (Rage Power)|mighty swing]], [[rangoric-srd/class-options/rage-powers/No Escape (Rage Power)|no escape]], [[rangoric-srd/class-options/rage-powers/Powerful Blow (Rage Power)|powerful blow]] +5, [[rangoric-srd/class-options/rage-powers/Raging Leaper (Rage Power)|raging leaper]] +17, [[rangoric-srd/class-options/rage-powers/Strength Surge (Rage Power)|strength surge]] +17, [[rangoric-srd/class-options/rage-powers/Surprise Accuracy (Rage Power)|surprise accuracy]] +5, [[rangoric-srd/class-options/rage-powers/Unexpected Strike (Rage Power)|unexpected strike]])
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-indomitable-will|indomitable will]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +5, [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/classes/Barbarian#^barbarian-tireless-rage|tireless rage]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/classes/Barbarian#^barbarian-damage-reduction|damage reduction]] 4/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
+- **Saves**: Fort +17, Ref +12, Will +11 (+6 vs. enchantments)
+- **Abilities**: Str 24, Dex 20, Con 20, Int 12, Wis 12, Cha 8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +24, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+31 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Stealth|Stealth]] +20
+- **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (composite longbow), [[rangoric-srd/feats/Manyshot|Manyshot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Stunning Critical|Stunning Critical]]
+- **Environment**: Temperate forest
+- **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
+- **Challenge Rating**: 16
+- **Treasure**: NPC gear (combat gear: oil of align weapon (evil), oil of flame arrow, potions of cure light wounds (2), potions of jump (2), potion of spider climb, adamantine arrows (10), alchemical silver arrows (10) , tanglefoot bags (2); other gear: +1 mithral breastplate, +1 keen shocking burst elven curve blade, +1 seeking composite longbow (+7 Str) with 40 cold iron arrows, belt of physical perfection +2, boots of speed, cloak of resistance +2, 50 gp)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A graceful slayer is an [[rangoric-srd/monsters/elf/Elf|elf]] with 17 levels of [[rangoric-srd/classes/Barbarian|barbarian]]. Graceful slayers stalk the wilderness and the far reaches of the world, protecting the denizens and environs from those who would seek to slay and destroy.
 

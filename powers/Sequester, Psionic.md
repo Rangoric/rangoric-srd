@@ -31,8 +31,8 @@ Clairsentience
 **Duration:** One day/level (D)  
 **Saving Throw:** None or Will negates (object)  
 **Power Resistance:** No or Yes (object)  
-**Power Points:** 13, XP  
+**Power Points:** 13, XP
 
 As the [[rangoric-srd/spells/Sequester|sequester]] spell, except as noted here.
 
-*XP Cost:* 75 XP.
+_XP Cost:_ 75 XP.

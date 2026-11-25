@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Phantom Driver
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Brd 3, Occ 3, Skd 3, Sor/Wiz 3, Spi 3
-  - **Components**: V, S
-  - **Casting Time**: 10 minutes
-  - **Range**: 10 ft.
-  - **Effect**: One quasi-real, humanlike creature
-  - **Duration**: 1 hour/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Brd 3, Occ 3, Skd 3, Sor/Wiz 3, Spi 3
+- **Components**: V, S
+- **Casting Time**: 10 minutes
+- **Range**: 10 ft.
+- **Effect**: One quasi-real, humanlike creature
+- **Duration**: 1 hour/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You conjure a Small or Medium, quasi-real, humanlike creature (the exact physical features can be customized as you wish). This creation can drive any vehicle you command it to. This phantom creature does not fight, and while animals that power a muscle-propelled vehicle driven by the creature do respond to its commands, animals otherwise shun the creature and refuse to attack it.
 

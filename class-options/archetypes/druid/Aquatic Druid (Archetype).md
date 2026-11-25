@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Aquatic Druid
 
-*A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Shepherds of the lakes and seas, aquatic druids guard ecosystems ranging from shallows streams to deep ocean trenches, ministering to their residents and communing with the tides.
 
@@ -36,6 +36,6 @@ Shepherds of the lakes and seas, aquatic druids guard ecosystems ranging from sh
 
 **Wild Shape (Su)**: An aquatic druid gains [[rangoric-srd/classes/Druid#^druid-wild-shape|this ability]] at 6th level, except that her effective druid level for the ability is equal to her druid level – 2.
 
-**Seaborn (Ex)**: At 9th level, an aquatic druid gains the aquatic subtype, the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^amphibious|amphibious]] trait, and a swim speed equal to her land speed. She also can endure cold climate effects as if using *[[rangoric-srd/spells/Endure Elements|endure elements]]*. This ability replaces [[rangoric-srd/classes/Druid#^druid-venom-immunity|venom immunity]].
+**Seaborn (Ex)**: At 9th level, an aquatic druid gains the aquatic subtype, the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^amphibious|amphibious]] trait, and a swim speed equal to her land speed. She also can endure cold climate effects as if using _[[rangoric-srd/spells/Endure Elements|endure elements]]_. This ability replaces [[rangoric-srd/classes/Druid#^druid-venom-immunity|venom immunity]].
 
-**Deep Diver (Ex)**: At 13th level, an aquatic druid gains [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|DR]]/slashing or piercing equal to 1/2 her level. This damage reduction also applies against spells and spell-like abilities that inflict damage by grappling or crushing (e.g., *[[rangoric-srd/spells/Black Tentacles|black tentacles]]*, *[[rangoric-srd/spells/Crushing Hand|crushing hand]]*). She never takes pressure damage from deep water. This ability replaces [[rangoric-srd/classes/Druid#^druid-a-thousand-faces|a thousand faces]].
+**Deep Diver (Ex)**: At 13th level, an aquatic druid gains [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|DR]]/slashing or piercing equal to 1/2 her level. This damage reduction also applies against spells and spell-like abilities that inflict damage by grappling or crushing (e.g., _[[rangoric-srd/spells/Black Tentacles|black tentacles]]_, _[[rangoric-srd/spells/Crushing Hand|crushing hand]]_). She never takes pressure damage from deep water. This ability replaces [[rangoric-srd/classes/Druid#^druid-a-thousand-faces|a thousand faces]].

@@ -20,4 +20,4 @@ This suit of armor or shield is decorated with the emblem of a large raven. When
 
 This armor also grants a +2 circumstance bonus on the wearer’s [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks.
 
-Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Identify|identify]]*; Price +2 bonus (+2 to Int), +3 bonus (+4 to Int).
+Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Identify|identify]]_; Price +2 bonus (+2 to Int), +3 bonus (+4 to Int).

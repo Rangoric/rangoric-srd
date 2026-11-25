@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Retriever
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]] (Extraplanar)
-  - **Hit Dice**: 15d10+55 (137 hp)
-  - **Initiative**: +7
-  - **Speed**: 50 ft. (10 squares)
-  - **Armor Class**: 25 (+3 Dex, +14 natural, –2 size), touch 11, flat-footed 22
-  - **Base Attack**: +15; **CMB**: +23 (+27 grapple); **CMD**: 36 (40 vs. trip)
-  - **Attack**: Bite +19 melee (1d8+6 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +19 melee (2d6+6/19–20)
-  - **Full Attack**: Bite +19 melee (1d8+6 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 4 claws +19 melee (2d6+6/19–20)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: Eye rays (+16 ranged touch), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], relentless
-  - **Saves**: Fort +7, Ref +10, Will +5
-  - **Abilities**: Str 22, Dex 16, Con —, Int 3, Wis 11, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +15
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: A chaotic evil-aligned plane
-  - **Organization**: Solitary
-  - **Challenge Rating**: 11
-  - **Treasure**: None
-  - **Alignment**: Always chaotic evil
-  - **Advancement**: 11–15 HD (Huge); 16–30 HD (Gargantuan)
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]] (Extraplanar)
+- **Hit Dice**: 15d10+55 (137 hp)
+- **Initiative**: +7
+- **Speed**: 50 ft. (10 squares)
+- **Armor Class**: 25 (+3 Dex, +14 natural, –2 size), touch 11, flat-footed 22
+- **Base Attack**: +15; **CMB**: +23 (+27 grapple); **CMD**: 36 (40 vs. trip)
+- **Attack**: Bite +19 melee (1d8+6 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +19 melee (2d6+6/19–20)
+- **Full Attack**: Bite +19 melee (1d8+6 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 4 claws +19 melee (2d6+6/19–20)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: Eye rays (+16 ranged touch), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], relentless
+- **Saves**: Fort +7, Ref +10, Will +5
+- **Abilities**: Str 22, Dex 16, Con —, Int 3, Wis 11, Cha 1
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +15
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: A chaotic evil-aligned plane
+- **Organization**: Solitary
+- **Challenge Rating**: 11
+- **Treasure**: None
+- **Alignment**: Always chaotic evil
+- **Advancement**: 11–15 HD (Huge); 16–30 HD (Gargantuan)
+- **Level Adjustment**: —
 
 Not all constructs are formed from unliving matter like stone, wood, metal, or dead flesh. In the darkest corners of the Outer Planes, certain powerful demon lords have mastered the art of shaping the raw, protoplasmic flesh of the chaotic evil planes into hideous monstrosities devoid of life, emotion, and the will to resist control. The monstrous retriever is the best-known of such constructs, a huge spider-like creation capable of unleashing potent energy upon those it has been ordered to seek.
 
@@ -69,7 +69,7 @@ Demon lords use retrievers to seek out those who dare abandon their loyalties or
 
 A retriever's body is the size of an elephant, and its legspan is nearly 30 feet. It weighs 6,500 pounds.
 
-**Conjuring a Retriever**: Although a retriever is not an outsider, it may nonetheless be conjured by either *[[rangoric-srd/spells/Planar Ally, Greater|greater planar ally]]* or *[[rangoric-srd/spells/Planar Binding, Greater|greater planar binding]]*. The spellcaster must take care to do so, however, using special rare incenses and complex diagrams inked on the floor and walls using expensive phosphorescent inks, lest the retriever attack the spellcaster upon completion of the spell. These components cost 25,000 gp and replace the usual costs associated with casting either spell (including *greater planar binding*‘s Charisma check requirement).
+**Conjuring a Retriever**: Although a retriever is not an outsider, it may nonetheless be conjured by either _[[rangoric-srd/spells/Planar Ally, Greater|greater planar ally]]_ or _[[rangoric-srd/spells/Planar Binding, Greater|greater planar binding]]_. The spellcaster must take care to do so, however, using special rare incenses and complex diagrams inked on the floor and walls using expensive phosphorescent inks, lest the retriever attack the spellcaster upon completion of the spell. These components cost 25,000 gp and replace the usual costs associated with casting either spell (including _greater planar binding_‘s Charisma check requirement).
 
 Retrievers understand Abyssal but can't speak.
 
@@ -77,16 +77,16 @@ Retrievers understand Abyssal but can't speak.
 
 Retrievers attack with four claws, but their eye rays are far more deadly.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th): At will—*[[rangoric-srd/spells/Discern Location|discern location]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th): At will—_[[rangoric-srd/spells/Discern Location|discern location]]_.
 
 **Eye Rays (Su)**: A retriever's eyes can produce four different magical rays, each with a range of 100 feet. Each round, it can fire one ray as a free action. A particular ray is usable only once every 4 rounds. A retriever can fire an eye ray in the same round that it makes physical attacks—firing an eye ray does not provoke attacks of opportunity. The save DC for eye rays is 19—the save DC is Constitution-based, and includes a +2 racial bonus. The eye ray effects are the following.
 
-*Fire*: Deals 12d6 fire damage (Reflex half).
+_Fire_: Deals 12d6 fire damage (Reflex half).
 
-*Cold*: Deals 12d6 cold damage (Reflex half).
+_Cold_: Deals 12d6 cold damage (Reflex half).
 
-*Electricity*: Deals 12d6 electricity damage (Reflex half).
+_Electricity_: Deals 12d6 electricity damage (Reflex half).
 
-*Petrification*: Target must succeed on a Fortitude save or turn to stone permanently.
+_Petrification_: Target must succeed on a Fortitude save or turn to stone permanently.
 
-**Relentless (Su)**: A retriever is constantly under the effects of *[[rangoric-srd/spells/Spider Climb|spider climb]]* and *[[rangoric-srd/spells/Water Walk|water walk]]*; these abilities cannot be dispelled.
+**Relentless (Su)**: A retriever is constantly under the effects of _[[rangoric-srd/spells/Spider Climb|spider climb]]_ and _[[rangoric-srd/spells/Water Walk|water walk]]_; these abilities cannot be dispelled.

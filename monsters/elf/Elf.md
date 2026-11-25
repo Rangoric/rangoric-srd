@@ -39,31 +39,31 @@ tags: [rangoric, rangoric/monster]
 
 # Elf
 
-|                          | Elf, 1st-Level Warrior Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid\|Humanoid]] (Elf)                                                                                       |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Hit Dice:**            | 1d10 (5 hp)                                                                                                                                                                                                                |
-| **Initiative:**          | +1                                                                                                                                                                                                                       |
-| **Speed:**               | 30 ft. (6 squares)                                                                                                                                                                                                        |
-| **Armor Class:**         | 15 (+1 Dex, +3 studded leather, +1 light shield), touch 11, flat-footed 14                                                                                                                                                |
-| **Base Attack:** | +1 |
-| **CMB:** | +2 |
-| **CMD:** | 13 |
-| **Attack:**              | Longsword +2 melee (1d8+1/19–20) or longbow +3 ranged (1d8/x3)                                                                                                                                                            |
-| **Full Attack:**         | Longsword +2 melee(1d8+1/19–20) or longbow +3 ranged (1d8/x3)                                                                                                                                                             |
-| **Space/Reach:**         | 5 ft./5 ft.                                                                                                                                                                                                               |
-| **Special Attacks:**     | None                                                                                                                                                                                                                      |
-| **Special Qualities:**   | Elven traits                                                                                                                                                                                                              |
-| **Saves:**               | Fort +2, Ref +1, Will –1\*                                                                                                                                                                                                |
-| **Abilities:**           | Str 13, Dex 13, Con 10, Int 12, Wis 9, Cha 8                                                                                                                                                                              |
-| **Skills:**              | [[rangoric-srd/skills/Investigation\|Investigation]] +4, [[rangoric-srd/skills/Perception\|Perception]] +2, [[rangoric-srd/skills/Stealth\|Stealth]] +1                                                |
-| **Feats:**               | [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (longbow)                                                                                                                                                             |
-| **Environment:**         | Temperate forest (Half-elf: Temperate forests) (Aquatic: Temperate aquatic) (Gray: Temperate mountains) (Wild: Warm forests) (Wood: Temperate forests)                                                                    |
-| **Organization:**        | Squad (2–4), company (11–20 plus 2 3rd-level sergeants and 1 leader of 3rd–6th level), or band (30–100 plus 20% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains) |
-| **Challenge Rating:**    | ½                                                                                                                                                                                                                         |
-| **Treasure:**            | Standard                                                                                                                                                                                                                  |
-| **Alignment:**           | Usually chaotic good (Wood: Usually neutral)                                                                                                                                                                              |
-| **Advancement:**         | By character class                                                                                                                                                                                                        |
-| **Level Adjustment:**    | +0                                                                                                                                                                                                                       |
+|                        | Elf, 1st-Level Warrior Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid\|Humanoid]] (Elf)                                                                                          |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Hit Dice:**          | 1d10 (5 hp)                                                                                                                                                                                                               |
+| **Initiative:**        | +1                                                                                                                                                                                                                        |
+| **Speed:**             | 30 ft. (6 squares)                                                                                                                                                                                                        |
+| **Armor Class:**       | 15 (+1 Dex, +3 studded leather, +1 light shield), touch 11, flat-footed 14                                                                                                                                                |
+| **Base Attack:**       | +1                                                                                                                                                                                                                        |
+| **CMB:**               | +2                                                                                                                                                                                                                        |
+| **CMD:**               | 13                                                                                                                                                                                                                        |
+| **Attack:**            | Longsword +2 melee (1d8+1/19–20) or longbow +3 ranged (1d8/x3)                                                                                                                                                            |
+| **Full Attack:**       | Longsword +2 melee(1d8+1/19–20) or longbow +3 ranged (1d8/x3)                                                                                                                                                             |
+| **Space/Reach:**       | 5 ft./5 ft.                                                                                                                                                                                                               |
+| **Special Attacks:**   | None                                                                                                                                                                                                                      |
+| **Special Qualities:** | Elven traits                                                                                                                                                                                                              |
+| **Saves:**             | Fort +2, Ref +1, Will –1\*                                                                                                                                                                                                |
+| **Abilities:**         | Str 13, Dex 13, Con 10, Int 12, Wis 9, Cha 8                                                                                                                                                                              |
+| **Skills:**            | [[rangoric-srd/skills/Investigation\|Investigation]] +4, [[rangoric-srd/skills/Perception\|Perception]] +2, [[rangoric-srd/skills/Stealth\|Stealth]] +1                                                                   |
+| **Feats:**             | [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (longbow)                                                                                                                                                               |
+| **Environment:**       | Temperate forest (Half-elf: Temperate forests) (Aquatic: Temperate aquatic) (Gray: Temperate mountains) (Wild: Warm forests) (Wood: Temperate forests)                                                                    |
+| **Organization:**      | Squad (2–4), company (11–20 plus 2 3rd-level sergeants and 1 leader of 3rd–6th level), or band (30–100 plus 20% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains) |
+| **Challenge Rating:**  | ½                                                                                                                                                                                                                         |
+| **Treasure:**          | Standard                                                                                                                                                                                                                  |
+| **Alignment:**         | Usually chaotic good (Wood: Usually neutral)                                                                                                                                                                              |
+| **Advancement:**       | By character class                                                                                                                                                                                                        |
+| **Level Adjustment:**  | +0                                                                                                                                                                                                                        |
 
 Elves average 5 feet tall and typically weigh just over 100 pounds. They live on fruits and grains, though they occasionally hunt for fresh meat. Elves prefer colorful clothes, usually with a green-and-gray cloak that blends well with the colors of the forest.
 
@@ -93,27 +93,27 @@ Half-elf characters use the [[rangoric-srd/races/Half-Elf|half-elf]] race, which
 
 These half-elves with class levels are described on their own:
 
-  - Adepts: [[rangoric-srd/monsters/elf/Heretic|Heretic]] (CR 6)
-  - Arcane archers: [[rangoric-srd/monsters/elf/Tournament Champion|Tournament Champion]] (CR 12)
-  - Aristocrats: [[rangoric-srd/monsters/elf/Diplomat|Diplomat]] (CR 6)
-  - Assassins: [[rangoric-srd/monsters/elf/Murderous Scythe|Murderous Scythe]] (CR 16)
-  - Barbarians: [[rangoric-srd/monsters/elf/Wild Lancer|Wild Lancer]] (CR 4), [[rangoric-srd/monsters/elf/Raging Swimmer|Raging Swimmer]] (CR 8)
-  - Bards: [[rangoric-srd/monsters/elf/Tavern Singer|Tavern Singer]] (CR 1/2), [[rangoric-srd/monsters/elf/Con Artist|Con Artist]] (CR 5)
-  - Clerics: [[rangoric-srd/monsters/elf/Shoreline Cleric|Shoreline Cleric]] (CR 3)
-  - Commoners: [[rangoric-srd/monsters/elf/Beggar (Commoner)|Beggar (Commoner)]] (CR 1/3)
-  - Druids: [[rangoric-srd/monsters/elf/Cavern Defender|Cavern Defender]] (CR 4), [[rangoric-srd/monsters/elf/Mistress of High Places|Mistress of High Places]] (CR 10), [[rangoric-srd/monsters/elf/Hateful Scourge|Hateful Scourge]] (CR 16)
-  - Duelists: [[rangoric-srd/monsters/elf/Tribal Champion|Tribal Champion]] (CR 8)
-  - Experts: [[rangoric-srd/monsters/elf/Cutthroat Lawyer|Cutthroat Lawyer]] (CR 7)
-  - Fighters: [[rangoric-srd/monsters/elf/Adventuring Blacksmith|Adventuring Blacksmith]] (CR 5), [[rangoric-srd/monsters/elf/Pirate King|Pirate King]] (CR 14)
-  - Monks: [[rangoric-srd/monsters/elf/Grove Guardian|Grove Guardian]] (CR 17)
-  - Mystic theurges: [[rangoric-srd/monsters/elf/Death Master|Death Master]] (CR 16)
-  - Paladins: [[rangoric-srd/monsters/elf/Haughty Avenger|Haughty Avenger]] (CR 2), [[rangoric-srd/monsters/elf/Rider of the Steppe|Rider of the Steppe]] (CR 13), [[rangoric-srd/monsters/elf/Mithral Master|Mithral Master]] (CR 18)
-  - Rangers: [[rangoric-srd/monsters/elf/Novice Scout|Novice Scout]] (CR 1/2), [[rangoric-srd/monsters/elf/Swampwalker|Swampwalker]] (CR 8), [[rangoric-srd/monsters/elf/Fiendslayer|Fiendslayer]] (CR 12)
-  - Rogues: [[rangoric-srd/monsters/elf/Skilled Sniper|Skilled Sniper]] (CR 2), [[rangoric-srd/monsters/elf/Unseen Archer|Unseen Archer]] (CR 14)
-  - Sorcerers: [[rangoric-srd/monsters/elf/Bramble Sorcerer|Bramble Sorcerer]] (CR 4), [[rangoric-srd/monsters/elf/Ice Mage|Ice Mage]] (CR 13)
-  - Wandering chroniclers: [[rangoric-srd/monsters/elf/Master Storycrafter|Master Storycrafter]] (CR 16)
-  - Warriors: [[rangoric-srd/monsters/elf/Cavalry Soldier|Cavalry Soldier]] (CR 7)
-  - Wizards: [[rangoric-srd/monsters/elf/Mage Sniper|Mage Sniper]] (CR 13), [[rangoric-srd/monsters/elf/Puppet Master|Puppet Master]] (CR 18)
+- Adepts: [[rangoric-srd/monsters/elf/Heretic|Heretic]] (CR 6)
+- Arcane archers: [[rangoric-srd/monsters/elf/Tournament Champion|Tournament Champion]] (CR 12)
+- Aristocrats: [[rangoric-srd/monsters/elf/Diplomat|Diplomat]] (CR 6)
+- Assassins: [[rangoric-srd/monsters/elf/Murderous Scythe|Murderous Scythe]] (CR 16)
+- Barbarians: [[rangoric-srd/monsters/elf/Wild Lancer|Wild Lancer]] (CR 4), [[rangoric-srd/monsters/elf/Raging Swimmer|Raging Swimmer]] (CR 8)
+- Bards: [[rangoric-srd/monsters/elf/Tavern Singer|Tavern Singer]] (CR 1/2), [[rangoric-srd/monsters/elf/Con Artist|Con Artist]] (CR 5)
+- Clerics: [[rangoric-srd/monsters/elf/Shoreline Cleric|Shoreline Cleric]] (CR 3)
+- Commoners: [[rangoric-srd/monsters/elf/Beggar (Commoner)|Beggar (Commoner)]] (CR 1/3)
+- Druids: [[rangoric-srd/monsters/elf/Cavern Defender|Cavern Defender]] (CR 4), [[rangoric-srd/monsters/elf/Mistress of High Places|Mistress of High Places]] (CR 10), [[rangoric-srd/monsters/elf/Hateful Scourge|Hateful Scourge]] (CR 16)
+- Duelists: [[rangoric-srd/monsters/elf/Tribal Champion|Tribal Champion]] (CR 8)
+- Experts: [[rangoric-srd/monsters/elf/Cutthroat Lawyer|Cutthroat Lawyer]] (CR 7)
+- Fighters: [[rangoric-srd/monsters/elf/Adventuring Blacksmith|Adventuring Blacksmith]] (CR 5), [[rangoric-srd/monsters/elf/Pirate King|Pirate King]] (CR 14)
+- Monks: [[rangoric-srd/monsters/elf/Grove Guardian|Grove Guardian]] (CR 17)
+- Mystic theurges: [[rangoric-srd/monsters/elf/Death Master|Death Master]] (CR 16)
+- Paladins: [[rangoric-srd/monsters/elf/Haughty Avenger|Haughty Avenger]] (CR 2), [[rangoric-srd/monsters/elf/Rider of the Steppe|Rider of the Steppe]] (CR 13), [[rangoric-srd/monsters/elf/Mithral Master|Mithral Master]] (CR 18)
+- Rangers: [[rangoric-srd/monsters/elf/Novice Scout|Novice Scout]] (CR 1/2), [[rangoric-srd/monsters/elf/Swampwalker|Swampwalker]] (CR 8), [[rangoric-srd/monsters/elf/Fiendslayer|Fiendslayer]] (CR 12)
+- Rogues: [[rangoric-srd/monsters/elf/Skilled Sniper|Skilled Sniper]] (CR 2), [[rangoric-srd/monsters/elf/Unseen Archer|Unseen Archer]] (CR 14)
+- Sorcerers: [[rangoric-srd/monsters/elf/Bramble Sorcerer|Bramble Sorcerer]] (CR 4), [[rangoric-srd/monsters/elf/Ice Mage|Ice Mage]] (CR 13)
+- Wandering chroniclers: [[rangoric-srd/monsters/elf/Master Storycrafter|Master Storycrafter]] (CR 16)
+- Warriors: [[rangoric-srd/monsters/elf/Cavalry Soldier|Cavalry Soldier]] (CR 7)
+- Wizards: [[rangoric-srd/monsters/elf/Mage Sniper|Mage Sniper]] (CR 13), [[rangoric-srd/monsters/elf/Puppet Master|Puppet Master]] (CR 18)
 
 #### Aquatic Elf
 
@@ -161,23 +161,23 @@ Wood elves are a [[rangoric-srd/races/Elf#Subtypes|subtype of the elf race]], wh
 
 These elves with class levels are described on their own:
 
-  - Arcane archers: [[rangoric-srd/monsters/elf/Green Warden|Green Warden]] (CR 8)
-  - Arcane tricksters: [[rangoric-srd/monsters/elf/God Stealer|God Stealer]] (CR 19)
-  - Aristocrats: [[rangoric-srd/monsters/elf/Officer|Officer]] (CR 4)
-  - Barbarians: [[rangoric-srd/monsters/elf/Forest Guardian|Forest Guardian]] (CR 5), [[rangoric-srd/monsters/elf/Graceful Slayer|Graceful Slayer]] (CR 16)
-  - Bards: [[rangoric-srd/monsters/elf/Street Artist|Street Artist]] (CR 7), [[rangoric-srd/monsters/elf/Spellsword|Spellsword]] (CR 15)
-  - Clerics: [[rangoric-srd/monsters/elf/Shadow Cleric|Shadow Cleric]] (CR 17)
-  - Commoners: [[rangoric-srd/monsters/elf/Shopkeeper|Shopkeeper]] (CR 4)
-  - Dragon disciples: [[rangoric-srd/monsters/elf/Ice Maiden|Ice Maiden]] (CR 19)
-  - Druids: [[rangoric-srd/monsters/elf/Island Defender|Island Defender]] (CR 6), [[rangoric-srd/monsters/elf/Creeping Death|Creeping Death]] (CR 14)
-  - Eldritch knights: [[rangoric-srd/monsters/elf/Queen of Staves|Queen of Staves]] (CR 8)
-  - Experts: [[rangoric-srd/monsters/elf/Old Sailor|Old Sailor]] (CR 1/2)
-  - Fighters: [[rangoric-srd/monsters/elf/Cautious Archer|Cautious Archer]] (CR 4), [[rangoric-srd/monsters/elf/Griffon Rider|Griffon Rider]] (CR 9), [[rangoric-srd/monsters/elf/Elven Recluse|Elven Recluse]] (CR 16)
-  - Loremasters: [[rangoric-srd/monsters/elf/Nature Scholar|Nature Scholar]] (CR 12)
-  - Monks: [[rangoric-srd/monsters/elf/Monastic Sniper|Monastic Sniper]] (CR 12), [[rangoric-srd/monsters/elf/Sword Savant|Sword Savant]] (CR 18)
-  - Paladins: [[rangoric-srd/monsters/elf/Holy Archer|Holy Archer]] (CR 5), [[rangoric-srd/monsters/elf/Elven Honorblade|Elven Honorblade]] (CR 10)
-  - Rangers: [[rangoric-srd/monsters/elf/Orc Slayer|Orc Slayer]] (CR 7), [[rangoric-srd/monsters/elf/Daredevil Hunter|Daredevil Hunter]] (CR 16)
-  - Rogues: [[rangoric-srd/monsters/elf/Deadly Spy|Deadly Spy]] (CR 8), [[rangoric-srd/monsters/elf/Contract Killer|Contract Killer]] (CR 10), [[rangoric-srd/monsters/elf/Blade Lord|Blade Lord]] (CR 19)
-  - Sorcerers: [[rangoric-srd/monsters/elf/Whiteclaw Sorcerer|Whiteclaw Sorcerer]] (CR 2), [[rangoric-srd/monsters/elf/Storm Sorcerer|Storm Sorcerer]] (CR 5), [[rangoric-srd/monsters/elf/Fey Enchantress|Fey Enchantress]] (CR 11)
-  - Warriors: [[rangoric-srd/monsters/elf/Aloof Archer|Aloof Archer]] (CR 6)
-  - Wizards: [[rangoric-srd/monsters/elf/Battle Mage (Wizard)|Battle Mage (Wizard)]] (CR 2), [[rangoric-srd/monsters/elf/Jungle Wizard|Jungle Wizard]] (CR 4), [[rangoric-srd/monsters/elf/Seductive Enchanter|Seductive Enchanter]] (CR 7), [[rangoric-srd/monsters/elf/Master Universalist|Master Universalist]] (CR 19)
+- Arcane archers: [[rangoric-srd/monsters/elf/Green Warden|Green Warden]] (CR 8)
+- Arcane tricksters: [[rangoric-srd/monsters/elf/God Stealer|God Stealer]] (CR 19)
+- Aristocrats: [[rangoric-srd/monsters/elf/Officer|Officer]] (CR 4)
+- Barbarians: [[rangoric-srd/monsters/elf/Forest Guardian|Forest Guardian]] (CR 5), [[rangoric-srd/monsters/elf/Graceful Slayer|Graceful Slayer]] (CR 16)
+- Bards: [[rangoric-srd/monsters/elf/Street Artist|Street Artist]] (CR 7), [[rangoric-srd/monsters/elf/Spellsword|Spellsword]] (CR 15)
+- Clerics: [[rangoric-srd/monsters/elf/Shadow Cleric|Shadow Cleric]] (CR 17)
+- Commoners: [[rangoric-srd/monsters/elf/Shopkeeper|Shopkeeper]] (CR 4)
+- Dragon disciples: [[rangoric-srd/monsters/elf/Ice Maiden|Ice Maiden]] (CR 19)
+- Druids: [[rangoric-srd/monsters/elf/Island Defender|Island Defender]] (CR 6), [[rangoric-srd/monsters/elf/Creeping Death|Creeping Death]] (CR 14)
+- Eldritch knights: [[rangoric-srd/monsters/elf/Queen of Staves|Queen of Staves]] (CR 8)
+- Experts: [[rangoric-srd/monsters/elf/Old Sailor|Old Sailor]] (CR 1/2)
+- Fighters: [[rangoric-srd/monsters/elf/Cautious Archer|Cautious Archer]] (CR 4), [[rangoric-srd/monsters/elf/Griffon Rider|Griffon Rider]] (CR 9), [[rangoric-srd/monsters/elf/Elven Recluse|Elven Recluse]] (CR 16)
+- Loremasters: [[rangoric-srd/monsters/elf/Nature Scholar|Nature Scholar]] (CR 12)
+- Monks: [[rangoric-srd/monsters/elf/Monastic Sniper|Monastic Sniper]] (CR 12), [[rangoric-srd/monsters/elf/Sword Savant|Sword Savant]] (CR 18)
+- Paladins: [[rangoric-srd/monsters/elf/Holy Archer|Holy Archer]] (CR 5), [[rangoric-srd/monsters/elf/Elven Honorblade|Elven Honorblade]] (CR 10)
+- Rangers: [[rangoric-srd/monsters/elf/Orc Slayer|Orc Slayer]] (CR 7), [[rangoric-srd/monsters/elf/Daredevil Hunter|Daredevil Hunter]] (CR 16)
+- Rogues: [[rangoric-srd/monsters/elf/Deadly Spy|Deadly Spy]] (CR 8), [[rangoric-srd/monsters/elf/Contract Killer|Contract Killer]] (CR 10), [[rangoric-srd/monsters/elf/Blade Lord|Blade Lord]] (CR 19)
+- Sorcerers: [[rangoric-srd/monsters/elf/Whiteclaw Sorcerer|Whiteclaw Sorcerer]] (CR 2), [[rangoric-srd/monsters/elf/Storm Sorcerer|Storm Sorcerer]] (CR 5), [[rangoric-srd/monsters/elf/Fey Enchantress|Fey Enchantress]] (CR 11)
+- Warriors: [[rangoric-srd/monsters/elf/Aloof Archer|Aloof Archer]] (CR 6)
+- Wizards: [[rangoric-srd/monsters/elf/Battle Mage (Wizard)|Battle Mage (Wizard)]] (CR 2), [[rangoric-srd/monsters/elf/Jungle Wizard|Jungle Wizard]] (CR 4), [[rangoric-srd/monsters/elf/Seductive Enchanter|Seductive Enchanter]] (CR 7), [[rangoric-srd/monsters/elf/Master Universalist|Master Universalist]] (CR 19)

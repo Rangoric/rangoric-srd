@@ -24,41 +24,41 @@ tags: [rangoric, rangoric/overview]
 [[#Artifice Domain|Artifice]]  
 [[rangoric-srd/classes/Cleric Domains|Chaos]]  
 [[#Charm Domain|Charm]]  
-[[#Community Domain|Community]]  
+[[#Community Domain|Community]]
 
 [[#Creation Domain|Creation]]  
 [[#Darkness Domain|Darkness]]  
 [[rangoric-srd/classes/Cleric Domains|Death]]  
 [[rangoric-srd/classes/Cleric Domains|Destruction]]  
 [[rangoric-srd/classes/Cleric Domains|Earth]]  
-[[rangoric-srd/classes/Cleric Domains|Evil]]  
+[[rangoric-srd/classes/Cleric Domains|Evil]]
 
 [[rangoric-srd/classes/Cleric Domains|Fire]]  
 [[#Glory Domain|Glory]]  
 [[rangoric-srd/classes/Cleric Domains|Good]]  
 [[rangoric-srd/classes/Cleric Domains|Healing]]  
 [[rangoric-srd/classes/Cleric Domains|Knowledge]]  
-[[rangoric-srd/classes/Cleric Domains|Law]]  
+[[rangoric-srd/classes/Cleric Domains|Law]]
 
 [[#Liberation Domain|Liberation]]  
 [[rangoric-srd/classes/Cleric Domains|Luck]]  
 [[#Madness Domain|Madness]]  
 [[rangoric-srd/classes/Cleric Domains|Magic]]  
 [[#Nobility Domain|Nobility]]  
-[[rangoric-srd/classes/Cleric Domains|Plant]]  
+[[rangoric-srd/classes/Cleric Domains|Plant]]
 
 [[rangoric-srd/classes/Cleric Domains|Protection]]  
 [[#Repose Domain|Repose]]  
 [[#Rune Domain|Rune]]  
 [[#Skalykind Domain|Skalykind]]  
 [[rangoric-srd/classes/Cleric Domains|Strength]]  
-[[rangoric-srd/classes/Cleric Domains|Sun]]  
+[[rangoric-srd/classes/Cleric Domains|Sun]]
 
 [[rangoric-srd/classes/Cleric Domains|Travel]]  
 [[rangoric-srd/classes/Cleric Domains|Trickery]]  
 [[rangoric-srd/classes/Cleric Domains|War]]  
 [[rangoric-srd/classes/Cleric Domains|Water]]  
-[[#Weather Domain|Weather]]  
+[[#Weather Domain|Weather]]
 
 ##### Air Domain
 
@@ -66,8 +66,8 @@ tags: [rangoric, rangoric/overview]
 
 ###### Air Domain Spells
 
-| Spell Name                                                      | Brief Description                                                |
-| --------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Spell Name                                                    | Brief Description                                                |
+| ------------------------------------------------------------- | ---------------------------------------------------------------- |
 | 1 [[rangoric-srd/spells/Obscuring Mist\|Obscuring Mist]]:     | Fog surrounds you.                                               |
 | 2 [[rangoric-srd/spells/Wind Wall\|Wind Wall]]:               | Deflects arrows, smaller creatures, and gases.                   |
 | 3 [[rangoric-srd/spells/Gaseous Form\|Gaseous Form]]:         | Subject becomes insubstantial and can fly slowly.                |
@@ -78,7 +78,7 @@ tags: [rangoric, rangoric/overview]
 | 8 [[rangoric-srd/spells/Whirlwind\|Whirlwind]]:               | Cyclone deals damage and can pick up creatures.                  |
 | 9 [[rangoric-srd/spells/Elemental Swarm\|Elemental Swarm]]\*: | Summons multiple elementals.                                     |
 
-\* *Cast as an air spell only.*
+\* _Cast as an air spell only._
 
 ##### Animal Domain
 
@@ -88,8 +88,8 @@ Add [[rangoric-srd/skills/Nature|Nature]] to your list of cleric class skills.
 
 ###### Animal Domain Spells
 
-| Spell Name                                                                          | Brief Description                                                  |
-| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Spell Name                                                                        | Brief Description                                                  |
+| --------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | 1 [[rangoric-srd/spells/Calm Animals\|Calm Animals]]:                             | Calms (2d4 + level) HD of animals.                                 |
 | 2 [[rangoric-srd/spells/Hold Animal\|Hold Animal]]:                               | Paralyzes one animal for 1 round/level.                            |
 | 3 [[rangoric-srd/spells/Dominate Animal\|Dominate Animal]]:                       | Subject animal obeys silent mental commands.                       |
@@ -100,7 +100,7 @@ Add [[rangoric-srd/skills/Nature|Nature]] to your list of cleric class skills.
 | 8 [[rangoric-srd/spells/Summon Nature’s Ally VIII\|Summon Nature’s Ally VIII]]\*: | Calls creature to fight.                                           |
 | 9 [[rangoric-srd/spells/Shapechange\|Shapechange]] (F):                           | Transforms you into any creature, and change forms once per round. |
 
-\* *Can only summon animals.*
+\* _Can only summon animals._
 
 ##### Artifice Domain
 
@@ -109,8 +109,8 @@ Granted Power: Gain +4 bonus on Craft checks. The character casts conjuration (c
 
 ###### Artifice Domain Spells
 
-| Spell Name                                                       | Brief Description                               |
-| ---------------------------------------------------------------- | ----------------------------------------------- |
+| Spell Name                                                     | Brief Description                               |
+| -------------------------------------------------------------- | ----------------------------------------------- |
 | 1 [[rangoric-srd/spells/Animate Rope\|Animate Rope]]           | Makes a rope move at your command.              |
 | 2 [[rangoric-srd/spells/Wood Shape\|Wood Shape]]               | Rearranges wooden objects to suit you.          |
 | 3 [[rangoric-srd/spells/Stone Shape\|Stone Shape]]             | Sculpts stone into any shape.                   |
@@ -127,19 +127,19 @@ Granted Power: Gain +4 bonus on Craft checks. The character casts conjuration (c
 
 ###### Chaos Domain Spells
 
-| Spell Name                                                                      | Brief Description                                                              |
-| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| Spell Name                                                                    | Brief Description                                                             |
+| ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | 1 [[rangoric-srd/spells/Protection from Law\|Protection from Law]]:           | +2 to AC and saves, counter mind control, hedge out elementals and outsiders. |
-| 2 [[rangoric-srd/spells/Shatter\|Shatter]]:                                   | Sonic vibration damages objects or crystalline creatures.                      |
-| 3 [[rangoric-srd/spells/Magic Circle against Law\|Magic Circle against Law]]: | As protection spells, but 10-ft. radius and 10 min./level.                     |
-| 4 [[rangoric-srd/spells/Chaos Hammer\|Chaos Hammer]]:                         | Damages and staggers lawful creatures.                                         |
+| 2 [[rangoric-srd/spells/Shatter\|Shatter]]:                                   | Sonic vibration damages objects or crystalline creatures.                     |
+| 3 [[rangoric-srd/spells/Magic Circle against Law\|Magic Circle against Law]]: | As protection spells, but 10-ft. radius and 10 min./level.                    |
+| 4 [[rangoric-srd/spells/Chaos Hammer\|Chaos Hammer]]:                         | Damages and staggers lawful creatures.                                        |
 | 5 [[rangoric-srd/spells/Dispel Law\|Dispel Law]]:                             | +4 bonus against attacks by lawful creatures.                                 |
-| 6 [[rangoric-srd/spells/Animate Objects\|Animate Objects]]:                   | Objects attack your foes.                                                      |
-| 7 [[rangoric-srd/spells/Word of Chaos\|Word of Chaos]]:                       | Kills, confuses, stuns, or deafens nonchaotic subjects.                        |
+| 6 [[rangoric-srd/spells/Animate Objects\|Animate Objects]]:                   | Objects attack your foes.                                                     |
+| 7 [[rangoric-srd/spells/Word of Chaos\|Word of Chaos]]:                       | Kills, confuses, stuns, or deafens nonchaotic subjects.                       |
 | 8 [[rangoric-srd/spells/Cloak of Chaos\|Cloak of Chaos]] (F):                 | +4 to AC, +4 resistance, SR 25 against lawful spells.                         |
-| 9 [[rangoric-srd/spells/Summon Monster IX\|Summon Monster IX]]\*:             | Calls extraplanar creature to fight for you.                                   |
+| 9 [[rangoric-srd/spells/Summon Monster IX\|Summon Monster IX]]\*:             | Calls extraplanar creature to fight for you.                                  |
 
-\* *Cast as a chaos spell only.*
+\* _Cast as a chaos spell only._
 
 ##### Charm Domain
 
@@ -148,28 +148,28 @@ Granted Power: The character can boost his or her Charisma by 4 points once per 
 
 ###### Charm Domain Spells
 
-| Spell Name                                                     | Brief Description                                                                                           |
-| -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| 1 [[rangoric-srd/spells/Charm Person\|Charm Person]]         | Makes one person your friend.                                                                               |
-| 2 [[rangoric-srd/spells/Calm Emotions\|Calm Emotions]]       | Calms creatures, negating emotion effects.                                                                  |
-| 3 [[rangoric-srd/spells/Suggestion\|Suggestion]]             | Compels subject to follow stated course of action.                                                          |
-| 4 [[rangoric-srd/spells/Heroism\|Heroism]]                   | Gives +2 on attack rolls, saves, skill checks.                                                              |
-| 5 [[rangoric-srd/spells/Charm Monster\|Charm Monster]]       | Makes monster believe it is your ally.                                                                      |
-| 6 [[rangoric-srd/spells/Geas-Quest\|Geas/Quest]]             | As lesser geas, plus it affects any creature.                                                               |
+| Spell Name                                                   | Brief Description                                                                                        |
+| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| 1 [[rangoric-srd/spells/Charm Person\|Charm Person]]         | Makes one person your friend.                                                                            |
+| 2 [[rangoric-srd/spells/Calm Emotions\|Calm Emotions]]       | Calms creatures, negating emotion effects.                                                               |
+| 3 [[rangoric-srd/spells/Suggestion\|Suggestion]]             | Compels subject to follow stated course of action.                                                       |
+| 4 [[rangoric-srd/spells/Heroism\|Heroism]]                   | Gives +2 on attack rolls, saves, skill checks.                                                           |
+| 5 [[rangoric-srd/spells/Charm Monster\|Charm Monster]]       | Makes monster believe it is your ally.                                                                   |
+| 6 [[rangoric-srd/spells/Geas-Quest\|Geas/Quest]]             | As lesser geas, plus it affects any creature.                                                            |
 | 7 [[rangoric-srd/spells/Insanity (Spell)\|Insanity]]         | Subject suffers continuous [[rangoric-srd/rules/Special Abilities and Conditions#^confused\|confusion]]. |
-| 8 [[rangoric-srd/spells/Demand\|Demand]]                     | As sending, plus you can send suggestion.                                                                   |
-| 9 [[rangoric-srd/spells/Dominate Monster\|Dominate Monster]] | As dominate person, but any creature.                                                                       |
+| 8 [[rangoric-srd/spells/Demand\|Demand]]                     | As sending, plus you can send suggestion.                                                                |
+| 9 [[rangoric-srd/spells/Dominate Monster\|Dominate Monster]] | As dominate person, but any creature.                                                                    |
 
 ##### Community Domain
 
-**Note: Non-Core, From [[rangoric-srd/divine/Divine|Divine Section]]**  
+**Note: Non-Core, From [[rangoric-srd/divine/Divine|Divine Section]]**
 
-**Granted Power:** Use calm emotions as a spell-like ability once per day. Gain a +2 competence bonus on Persuasion checks.****
+**Granted Power:** Use calm emotions as a spell-like ability once per day. Gain a +2 competence bonus on Persuasion checks.\*\*\*\*
 
 ###### Community Domain Spells
 
-| Spell Name                                                   | Brief Description                                            |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Spell Name                                                 | Brief Description                                            |
+| ---------------------------------------------------------- | ------------------------------------------------------------ |
 | 1 [[rangoric-srd/spells/Bless\|Bless]]                     | Allies gain +1 on attack rolls and saves against fear.       |
 | 2 [[rangoric-srd/spells/Status\|Status]]                   | Monitors condition, position of allies.                      |
 | 3 [[rangoric-srd/spells/Prayer\|Prayer]]                   | Allies +1 bonus on most rolls, enemies –1 penalty.           |
@@ -187,8 +187,8 @@ Granted Power: Cast conjuration (creation) spells at +2 caster level. (Those wit
 
 ###### Creation Domain Spells
 
-| Spell Name                                                               | Brief Description                                            |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------ |
+| Spell Name                                                             | Brief Description                                            |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------ |
 | 1 [[rangoric-srd/spells/Create Water\|Create Water]]                   | Creates 2 gallons/level of pure water.                       |
 | 2 [[rangoric-srd/spells/Minor Image\|Minor Image]]                     | As silent image, plus some sound.                            |
 | 3 [[rangoric-srd/spells/Create Food and Water\|Create Food and Water]] | Feeds three humans (or one horse)/level.                     |
@@ -206,17 +206,17 @@ Granted Power: Free Blind-Fight feat.
 
 ###### Darkness Domain Spells
 
-| Spell Name                                                       | Brief Description                                                                                         |
-| ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| 1 [[rangoric-srd/spells/Obscuring Mist\|Obscuring Mist]]       | Fog surrounds you.                                                                                        |
+| Spell Name                                                     | Brief Description                                                                                      |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| 1 [[rangoric-srd/spells/Obscuring Mist\|Obscuring Mist]]       | Fog surrounds you.                                                                                     |
 | 2 [[rangoric-srd/spells/Spells A to B\|Blindness]]             | Makes subject [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blinded.]]               |
-| 3 [[rangoric-srd/spells/Blacklight\|Blacklight]]               | Creats magical darkness that the caster can see through.                                                  |
-| 4 [[rangoric-srd/spells/Armor Of Darkness\|Armor of Darkness]] | Shroud obscures caster and grants darkvison and deflection bonus to AC.                                   |
-| 5 [[rangoric-srd/spells/Summon Monster V\|Summon monster V*]] | Calls extraplanar creature to fight for you.                                                              |
-| 6 [[rangoric-srd/spells/Prying Eyes\|Prying Eyes]]             | 1d4 +1/level floating eyes scout for you.                                                                 |
-| 7 [[rangoric-srd/spells/Nightmare (Spell)\|Nightmare]]         | Sends vision dealing 1d10 damage, fatigue.                                                                |
+| 3 [[rangoric-srd/spells/Blacklight\|Blacklight]]               | Creats magical darkness that the caster can see through.                                               |
+| 4 [[rangoric-srd/spells/Armor Of Darkness\|Armor of Darkness]] | Shroud obscures caster and grants darkvison and deflection bonus to AC.                                |
+| 5 [[rangoric-srd/spells/Summon Monster V\|Summon monster V*]]  | Calls extraplanar creature to fight for you.                                                           |
+| 6 [[rangoric-srd/spells/Prying Eyes\|Prying Eyes]]             | 1d4 +1/level floating eyes scout for you.                                                              |
+| 7 [[rangoric-srd/spells/Nightmare (Spell)\|Nightmare]]         | Sends vision dealing 1d10 damage, fatigue.                                                             |
 | 8 [[rangoric-srd/spells/Power Word Blind\|Power Word, Blind]]  | [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|Blinds]] creature with 200 hp or less. |
-| 9 [[rangoric-srd/spells/Power Word Kill\|Power Word, Kill]]    | Kills one creature with 100 hp or less.                                                                   |
+| 9 [[rangoric-srd/spells/Power Word Kill\|Power Word, Kill]]    | Kills one creature with 100 hp or less.                                                                |
 
 \*only summons 1d3 shadows
 
@@ -226,17 +226,17 @@ Granted Power: Free Blind-Fight feat.
 
 ###### Death Domain Spells
 
-| Spell Name                                                                    | Brief Description                                                                                                                                 |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 [[rangoric-srd/spells/Cause Fear\|Cause Fear]]:                           | One creature of 5 HD or less flees for 1d4 rounds.                                                                                                |
+| Spell Name                                                                  | Brief Description                                                                                                                              |
+| --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 [[rangoric-srd/spells/Cause Fear\|Cause Fear]]:                           | One creature of 5 HD or less flees for 1d4 rounds.                                                                                             |
 | 2 [[rangoric-srd/spells/Death Knell\|Death Knell]]:                         | Kill [[rangoric-srd/rules/Special Abilities and Conditions#^dying\|dying]] creature and gain 1d8 temporary hp, +2 to Str, and +1 caster level. |
-| 3 [[rangoric-srd/spells/Animate Dead\|Animate Dead]] (M):                   | Creates undead skeletons and zombies.                                                                                                             |
-| 4 [[rangoric-srd/spells/Death Ward\|Death Ward]]:                           | Grants immunity to death spells and negative energy effects.                                                                                      |
-| 5 [[rangoric-srd/spells/Slay Living\|Slay Living]]:                         | Touch attack kills subject.                                                                                                                       |
-| 6 [[rangoric-srd/spells/Create Undead\|Create Undead]] (M):                 | Create ghouls, ghasts, mummies, or mohrgs.                                                                                                        |
-| 7 [[rangoric-srd/spells/Destruction\|Destruction]] (F):                     | Kills subject and destroys remains.                                                                                                               |
-| 8 [[rangoric-srd/spells/Create Greater Undead\|Create Greater Undead]] (M): | Create shadows, wraiths, spectres, or devourers.                                                                                                  |
-| 9 [[rangoric-srd/spells/Wail of the Banshee\|Wail of the Banshee]]:         | Kills one creature/level.                                                                                                                         |
+| 3 [[rangoric-srd/spells/Animate Dead\|Animate Dead]] (M):                   | Creates undead skeletons and zombies.                                                                                                          |
+| 4 [[rangoric-srd/spells/Death Ward\|Death Ward]]:                           | Grants immunity to death spells and negative energy effects.                                                                                   |
+| 5 [[rangoric-srd/spells/Slay Living\|Slay Living]]:                         | Touch attack kills subject.                                                                                                                    |
+| 6 [[rangoric-srd/spells/Create Undead\|Create Undead]] (M):                 | Create ghouls, ghasts, mummies, or mohrgs.                                                                                                     |
+| 7 [[rangoric-srd/spells/Destruction\|Destruction]] (F):                     | Kills subject and destroys remains.                                                                                                            |
+| 8 [[rangoric-srd/spells/Create Greater Undead\|Create Greater Undead]] (M): | Create shadows, wraiths, spectres, or devourers.                                                                                               |
+| 9 [[rangoric-srd/spells/Wail of the Banshee\|Wail of the Banshee]]:         | Kills one creature/level.                                                                                                                      |
 
 ##### Destruction Domain
 
@@ -244,8 +244,8 @@ Granted Power: Free Blind-Fight feat.
 
 ###### Destruction Domain Spells
 
-| Spell Name                                                                          | Brief Description                                         |
-| ----------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| Spell Name                                                                        | Brief Description                                         |
+| --------------------------------------------------------------------------------- | --------------------------------------------------------- |
 | 1 [[rangoric-srd/spells/Inflict Light Wounds\|Inflict Light Wounds]]:             | Touch attack, 1d8 damage +1/level (max +5).               |
 | 2 [[rangoric-srd/spells/Shatter\|Shatter]]:                                       | Sonic vibration damages objects or crystalline creatures. |
 | 3 [[rangoric-srd/spells/Contagion\|Contagion]]:                                   | Infects subject with chosen disease.                      |
@@ -262,8 +262,8 @@ Granted Power: Free Blind-Fight feat.
 
 ###### Earth Domain Spells
 
-| Spell Name                                                                  | Brief Description                                  |
-| --------------------------------------------------------------------------- | -------------------------------------------------- |
+| Spell Name                                                                | Brief Description                                  |
+| ------------------------------------------------------------------------- | -------------------------------------------------- |
 | 1 [[rangoric-srd/spells/Magic Stone\|Magic Stone]]:                       | Three stones become +1 projectiles, 1d6 +1 damage. |
 | 2 [[rangoric-srd/spells/Soften Earth and Stone\|Soften Earth and Stone]]: | Turns stone to clay or dirt to sand or mud.        |
 | 3 [[rangoric-srd/spells/Stone Shape\|Stone Shape]]:                       | Sculpts stone into any shape.                      |
@@ -274,7 +274,7 @@ Granted Power: Free Blind-Fight feat.
 | 8 [[rangoric-srd/spells/Iron Body\|Iron Body]]:                           | Your body becomes living iron.                     |
 | 9 [[rangoric-srd/spells/Elemental Swarm\|Elemental Swarm]]\*:             | Summons multiple elementals.                       |
 
-\* *Cast as an earth spell only.*
+\* _Cast as an earth spell only._
 
 ##### Evil Domain
 
@@ -282,19 +282,19 @@ Granted Power: Free Blind-Fight feat.
 
 ###### Evil Domain Spells
 
-| Spell Name                                                                        | Brief Description                                                              |
-| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| Spell Name                                                                      | Brief Description                                                             |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | 1 [[rangoric-srd/spells/Protection from Good\|Protection from Good]]:           | +2 to AC and saves, counter mind control, hedge out elementals and outsiders. |
-| 2 [[rangoric-srd/spells/Desecrate\|Desecrate]] (M):                             | Fills area with negative energy, making undead stronger.                       |
-| 3 [[rangoric-srd/spells/Magic Circle against Good\|Magic Circle against Good]]: | As protection spells, but 10-ft. radius and 10 min./level.                     |
-| 4 [[rangoric-srd/spells/Unholy Blight\|Unholy Blight]]:                         | Damages and sickens good creatures.                                            |
+| 2 [[rangoric-srd/spells/Desecrate\|Desecrate]] (M):                             | Fills area with negative energy, making undead stronger.                      |
+| 3 [[rangoric-srd/spells/Magic Circle against Good\|Magic Circle against Good]]: | As protection spells, but 10-ft. radius and 10 min./level.                    |
+| 4 [[rangoric-srd/spells/Unholy Blight\|Unholy Blight]]:                         | Damages and sickens good creatures.                                           |
 | 5 [[rangoric-srd/spells/Dispel Good\|Dispel Good]]:                             | +4 bonus against attacks by good creatures.                                   |
-| 6 [[rangoric-srd/spells/Create Undead\|Create Undead]] (M):                     | Create ghouls, ghasts, mummies, or mohrgs.                                     |
-| 7 [[rangoric-srd/spells/Blasphemy\|Blasphemy]]:                                 | Kills, paralyzes, weakens, or dazes nonevil subjects.                          |
+| 6 [[rangoric-srd/spells/Create Undead\|Create Undead]] (M):                     | Create ghouls, ghasts, mummies, or mohrgs.                                    |
+| 7 [[rangoric-srd/spells/Blasphemy\|Blasphemy]]:                                 | Kills, paralyzes, weakens, or dazes nonevil subjects.                         |
 | 8 [[rangoric-srd/spells/Unholy Aura\|Unholy Aura]] (F):                         | +4 to AC, +4 resistance, SR 25 against good spells.                           |
-| 9 [[rangoric-srd/spells/Summon Monster IX\|Summon Monster IX]]\*:               | Calls extraplanar creature to fight for you.                                   |
+| 9 [[rangoric-srd/spells/Summon Monster IX\|Summon Monster IX]]\*:               | Calls extraplanar creature to fight for you.                                  |
 
-\* *Cast as an evil spell only.*
+\* _Cast as an evil spell only._
 
 ##### Fire Domain
 
@@ -302,8 +302,8 @@ Granted Power: Free Blind-Fight feat.
 
 ###### Fire Domain Spells
 
-| Spell Name                                                        | Brief Description                                                                                         |
-| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| Spell Name                                                      | Brief Description                                                                                         |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | 1 [[rangoric-srd/spells/Burning Hands\|Burning Hands]]:         | 1d4/level fire damage (max 5d4).                                                                          |
 | 2 [[rangoric-srd/spells/Produce Flame\|Produce Flame]]:         | 1d6 damage +1/ level, touch or thrown.                                                                    |
 | 3 [[rangoric-srd/spells/Resist Energy\|Resist Energy]]\*:       | Ignores 10 (or more) points of damage/attack from specified energy type.                                  |
@@ -314,29 +314,29 @@ Granted Power: Free Blind-Fight feat.
 | 8 [[rangoric-srd/spells/Incendiary Cloud\|Incendiary Cloud]]:   | Cloud deals 4d6 fire damage/round.                                                                        |
 | 9 [[rangoric-srd/spells/Elemental Swarm\|Elemental Swarm]]\*\*: | Summons multiple elementals.                                                                              |
 
-\* *Resist cold or fire only.*
+\* _Resist cold or fire only._
 
-\*\* *Cast as a fire spell only.*
+\*\* _Cast as a fire spell only._
 
 ##### Glory Domain
 
-**Note: Non-Core, From [[rangoric-srd/divine/Divine|Divine Section]]**  
+**Note: Non-Core, From [[rangoric-srd/divine/Divine|Divine Section]]**
 
-**Granted Power:** Turn undead with a +2 bonus on the turning check and +1d6 to the turning damage roll.****
+**Granted Power:** Turn undead with a +2 bonus on the turning check and +1d6 to the turning damage roll.\*\*\*\*
 
 ###### Glory Domain Spells
 
-| Spell Name                                                 | Brief Description                                                                                       |
-| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| 1 [[rangoric-srd/spells/Disrupt Undead\|Disrupt Undead]] | Deals 1d6 damage to one undead.                                                                         |
-| 2 [[rangoric-srd/spells/Bless Weapon\|Bless Weapon]]     | Weapon strikes true against evil foes.                                                                  |
-| 3 [[rangoric-srd/spells/Searing Light\|Searing Light]]   | Ray deals 1d8/two levels damage, more against undead.                                                   |
+| Spell Name                                               | Brief Description                                                                                    |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| 1 [[rangoric-srd/spells/Disrupt Undead\|Disrupt Undead]] | Deals 1d6 damage to one undead.                                                                      |
+| 2 [[rangoric-srd/spells/Bless Weapon\|Bless Weapon]]     | Weapon strikes true against evil foes.                                                               |
+| 3 [[rangoric-srd/spells/Searing Light\|Searing Light]]   | Ray deals 1d8/two levels damage, more against undead.                                                |
 | 4 [[rangoric-srd/spells/Holy Smite\|Holy Smite]]         | Damages and [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blinds]] evil creatures. |
-| 5 [[rangoric-srd/spells/Holy Sword\|Holy Sword]]         | Weapon becomes +5, deals +2d6 damage against evil.                                                      |
-| 6 [[rangoric-srd/spells/Bolt Of Glory\|Bolt of Glory]]   | Fires a magical bolt that deal damage according to the target's type and origin.                        |
+| 5 [[rangoric-srd/spells/Holy Sword\|Holy Sword]]         | Weapon becomes +5, deals +2d6 damage against evil.                                                   |
+| 6 [[rangoric-srd/spells/Bolt Of Glory\|Bolt of Glory]]   | Fires a magical bolt that deal damage according to the target's type and origin.                     |
 | 7 [[rangoric-srd/spells/Sunbeam\|Sunbeam]]               | Beam [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blinds]] and deals 4d6 damage.  |
-| 8 [[rangoric-srd/spells/Crown Of Glory\|Crown of Glory]] | The caster is imbued with an aura of celestial authority, inspiring awe in all lesser creatures.        |
-| 9 [[rangoric-srd/spells/Gate\|Gate]]                     | Connects two planes for travel or summoning.                                                            |
+| 8 [[rangoric-srd/spells/Crown Of Glory\|Crown of Glory]] | The caster is imbued with an aura of celestial authority, inspiring awe in all lesser creatures.     |
+| 9 [[rangoric-srd/spells/Gate\|Gate]]                     | Connects two planes for travel or summoning.                                                         |
 
 ##### Good Domain
 
@@ -344,19 +344,19 @@ Granted Power: Free Blind-Fight feat.
 
 ###### Good Domain Spells
 
-| Spell Name                                                                        | Brief Description                                                                                       |
-| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| 1 [[rangoric-srd/spells/Protection from Evil\|Protection from Evil]]:           | +2 to AC and saves, counter mind control, hedge out elementals and outsiders.                          |
-| 2 [[rangoric-srd/spells/Aid\|Aid]]:                                             | +1 on attack rolls, +1 on saves against fear, 1d8 temporary hp +1/level (max +10).                     |
-| 3 [[rangoric-srd/spells/Magic Circle against Evil\|Magic Circle against Evil]]: | As protection spells, but 10-ft. radius and 10 min./level.                                              |
+| Spell Name                                                                      | Brief Description                                                                                    |
+| ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| 1 [[rangoric-srd/spells/Protection from Evil\|Protection from Evil]]:           | +2 to AC and saves, counter mind control, hedge out elementals and outsiders.                        |
+| 2 [[rangoric-srd/spells/Aid\|Aid]]:                                             | +1 on attack rolls, +1 on saves against fear, 1d8 temporary hp +1/level (max +10).                   |
+| 3 [[rangoric-srd/spells/Magic Circle against Evil\|Magic Circle against Evil]]: | As protection spells, but 10-ft. radius and 10 min./level.                                           |
 | 4 [[rangoric-srd/spells/Holy Smite\|Holy Smite]]:                               | Damages and [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blinds]] evil creatures. |
-| 5 [[rangoric-srd/spells/Dispel Evil\|Dispel Evil]]:                             | +4 bonus against attacks by evil creatures.                                                            |
-| 6 [[rangoric-srd/spells/Blade Barrier\|Blade Barrier]]:                         | Wall of blades deals 1d6/level damage.                                                                  |
-| 7 [[rangoric-srd/spells/Holy Word\|Holy Word]] (F):                             | Kills, paralyzes, slows, or deafens nongood subjects.                                                   |
-| 8 [[rangoric-srd/spells/Holy Aura\|Holy Aura]]:                                 | +4 to AC, +4 resistance, and SR 25 against evil spells.                                                |
-| 9 [[rangoric-srd/spells/Summon Monster IX\|Summon Monster IX]]\*:               | Calls extraplanar creature to fight for you.                                                            |
+| 5 [[rangoric-srd/spells/Dispel Evil\|Dispel Evil]]:                             | +4 bonus against attacks by evil creatures.                                                          |
+| 6 [[rangoric-srd/spells/Blade Barrier\|Blade Barrier]]:                         | Wall of blades deals 1d6/level damage.                                                               |
+| 7 [[rangoric-srd/spells/Holy Word\|Holy Word]] (F):                             | Kills, paralyzes, slows, or deafens nongood subjects.                                                |
+| 8 [[rangoric-srd/spells/Holy Aura\|Holy Aura]]:                                 | +4 to AC, +4 resistance, and SR 25 against evil spells.                                              |
+| 9 [[rangoric-srd/spells/Summon Monster IX\|Summon Monster IX]]\*:               | Calls extraplanar creature to fight for you.                                                         |
 
-\* *Cast as a good spell only.*
+\* _Cast as a good spell only._
 
 ##### Healing Domain
 
@@ -364,8 +364,8 @@ Granted Power: Free Blind-Fight feat.
 
 ###### Healing Domain Spells
 
-| Spell Name                                                                          | Brief Description                                                       |
-| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Spell Name                                                                        | Brief Description                                                       |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | 1 [[rangoric-srd/spells/Cure Light Wounds\|Cure Light Wounds]]:                   | Cures 1d8 damage +1/level (max +5).                                     |
 | 2 [[rangoric-srd/spells/Cure Moderate Wounds\|Cure Moderate Wounds]]:             | Cures 2d8 damage +1/level (max +10).                                    |
 | 3 [[rangoric-srd/spells/Cure Serious Wounds\|Cure Serious Wounds]]:               | Cures 3d8 damage +1/level (max +15).                                    |
@@ -384,8 +384,8 @@ You cast divination spells at +1 caster level.
 
 ###### Knowledge Domain Spells
 
-| Spell Name                                                            | Brief Description                                     |
-| --------------------------------------------------------------------- | ----------------------------------------------------- |
+| Spell Name                                                          | Brief Description                                     |
+| ------------------------------------------------------------------- | ----------------------------------------------------- |
 | 1 [[rangoric-srd/spells/Detect Secret Doors\|Detect Secret Doors]]: | Reveals hidden doors within 60 ft.                    |
 | 2 [[rangoric-srd/spells/Detect Thoughts\|Detect Thoughts]]:         | Allows “listening” to surface thoughts.               |
 | 3 [[rangoric-srd/spells/Spells C\|Clairaudience/Clairvoyance]]:     | Hear or see at a distance for 1 min./level.           |
@@ -402,19 +402,19 @@ You cast divination spells at +1 caster level.
 
 ###### Law Domain Spells
 
-| Spell Name                                                                          | Brief Description                                                              |
-| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| Spell Name                                                                        | Brief Description                                                             |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | 1 [[rangoric-srd/spells/Protection from Chaos\|Protection from Chaos]]:           | +2 to AC and saves, counter mind control, hedge out elementals and outsiders. |
-| 2 [[rangoric-srd/spells/Calm Emotions\|Calm Emotions]]:                           | Calms creatures, negating emotion effects.                                     |
-| 3 [[rangoric-srd/spells/Magic Circle against Chaos\|Magic Circle against Chaos]]: | As protection spells, but 10-ft. radius and 10 min./level.                     |
-| 4 [[rangoric-srd/spells/Order’s Wrath\|Order’s Wrath]]:                           | Damages and dazes chaotic creatures.                                           |
+| 2 [[rangoric-srd/spells/Calm Emotions\|Calm Emotions]]:                           | Calms creatures, negating emotion effects.                                    |
+| 3 [[rangoric-srd/spells/Magic Circle against Chaos\|Magic Circle against Chaos]]: | As protection spells, but 10-ft. radius and 10 min./level.                    |
+| 4 [[rangoric-srd/spells/Order’s Wrath\|Order’s Wrath]]:                           | Damages and dazes chaotic creatures.                                          |
 | 5 [[rangoric-srd/spells/Dispel Chaos\|Dispel Chaos]]:                             | +4 bonus against attacks by chaotic creatures.                                |
-| 6 [[rangoric-srd/spells/Hold Monster\|Hold Monster]]:                             | As hold person, but any creature.                                              |
-| 7 [[rangoric-srd/spells/Dictum\|Dictum]]:                                         | Kills, paralyzes, slows, or deafens nonlawful subjects.                        |
+| 6 [[rangoric-srd/spells/Hold Monster\|Hold Monster]]:                             | As hold person, but any creature.                                             |
+| 7 [[rangoric-srd/spells/Dictum\|Dictum]]:                                         | Kills, paralyzes, slows, or deafens nonlawful subjects.                       |
 | 8 [[rangoric-srd/spells/Shield of Law\|Shield of Law]] (F):                       | +4 to AC, +4 resistance, and SR 25 against chaotic spells.                    |
-| 9 [[rangoric-srd/spells/Summon Monster IX\|Summon Monster IX]]\*:                 | Calls extraplanar creature to fight for you.                                   |
+| 9 [[rangoric-srd/spells/Summon Monster IX\|Summon Monster IX]]\*:                 | Calls extraplanar creature to fight for you.                                  |
 
-\* *Cast as a law spell only.*
+\* _Cast as a law spell only._
 
 ##### Liberation Domain
 
@@ -423,8 +423,8 @@ Granted Power: The character gains a +2 morale bonus on all saving throws agains
 
 ###### Liberation Domain Spells
 
-| Spell Name                                                              | Brief Description                                                                        |
-| ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| Spell Name                                                            | Brief Description                                                                        |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | 1 [[rangoric-srd/spells/Remove Fear\|Remove Fear]]                    | Suppresses fear or gives +4 on saves against fear for one subject + one per four levels. |
 | 2 [[rangoric-srd/spells/Remove Paralysis\|Remove Paralysis]]          | Frees one or more creatures from paralysis or slow effect.                               |
 | 3 [[rangoric-srd/spells/Remove Curse\|Remove Curse]]                  | Frees object or person from curse.                                                       |
@@ -441,39 +441,39 @@ Granted Power: The character gains a +2 morale bonus on all saving throws agains
 
 ###### Luck Domain Spells
 
-| Spell Name                                                                  | Brief Description                                                          |
-| --------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 1 [[rangoric-srd/spells/Entropic Shield\|Entropic Shield]]:               | Ranged attacks against you have 20% miss chance.                           |
+| Spell Name                                                                | Brief Description                                                         |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 1 [[rangoric-srd/spells/Entropic Shield\|Entropic Shield]]:               | Ranged attacks against you have 20% miss chance.                          |
 | 2 [[rangoric-srd/spells/Aid\|Aid]]:                                       | +1 on attack rolls, +1 against fear, 1d8 temporary hp +1/level (max +10). |
-| 3 [[rangoric-srd/spells/Protection from Energy\|Protection from Energy]]: | Absorb 12 points/level of damage from one kind of energy.                  |
-| 4 [[rangoric-srd/spells/Freedom of Movement\|Freedom of Movement]]:       | Subject moves normally despite impediments.                                |
-| 5 [[rangoric-srd/spells/Break Enchantment\|Break Enchantment]]:           | Frees subjects from enchantments, alterations, curses, and petrification.  |
-| 6 [[rangoric-srd/spells/Mislead\|Mislead]]:                               | Turns you invisible and creates illusory double.                           |
-| 7 [[rangoric-srd/spells/Spell Turning\|Spell Turning]]:                   | Reflect 1d4+6 spell levels back at caster.                                 |
-| 8 [[rangoric-srd/spells/Moment of Prescience\|Moment of Prescience]]:     | You gain insight bonus on single attack roll, check, or save.              |
-| 9 [[rangoric-srd/spells/Miracle\|Miracle]] (X):                           | Requests a deity’s intercession.                                           |
+| 3 [[rangoric-srd/spells/Protection from Energy\|Protection from Energy]]: | Absorb 12 points/level of damage from one kind of energy.                 |
+| 4 [[rangoric-srd/spells/Freedom of Movement\|Freedom of Movement]]:       | Subject moves normally despite impediments.                               |
+| 5 [[rangoric-srd/spells/Break Enchantment\|Break Enchantment]]:           | Frees subjects from enchantments, alterations, curses, and petrification. |
+| 6 [[rangoric-srd/spells/Mislead\|Mislead]]:                               | Turns you invisible and creates illusory double.                          |
+| 7 [[rangoric-srd/spells/Spell Turning\|Spell Turning]]:                   | Reflect 1d4+6 spell levels back at caster.                                |
+| 8 [[rangoric-srd/spells/Moment of Prescience\|Moment of Prescience]]:     | You gain insight bonus on single attack roll, check, or save.             |
+| 9 [[rangoric-srd/spells/Miracle\|Miracle]] (X):                           | Requests a deity’s intercession.                                          |
 
 ##### Madness Domain
 
-**Note: Non-Core, From [[rangoric-srd/divine/Divine|Divine Section]]**  
+**Note: Non-Core, From [[rangoric-srd/divine/Divine|Divine Section]]**
 
 Granted Power: The character gains an Insanity score equal to half his or her class level. For spellcasting (determining bonus spells and DCs), the character uses his or her Wisdom score plus his or her Insanity score in place of Wisdom alone.  
-For all other purposes, such as skills and saves, use Wisdom minus Insanity in place of Wisdom.   
+For all other purposes, such as skills and saves, use Wisdom minus Insanity in place of Wisdom.  
 Once per day, the character can see and act with the clarity of true madness. Use the character’s Insanity score as a positive rather than a negative modifier on a single roll involving Wisdom. Choose to use this power before the roll is made.
 
 ###### Madness Domain Spells
 
-| Spell Name                                                             | Brief Description                                                                                                                         |
-| ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 Random Action                                                        | ???\!\!\!???                                                                                                                              |
+| Spell Name                                                           | Brief Description                                                                                                                      |
+| -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 Random Action                                                      | ???\!\!\!???                                                                                                                           |
 | 2 [[rangoric-srd/spells/Touch Of Madness\|Touch of Madness]]         | [[rangoric-srd/rules/Special Abilities and Conditions#^dazed\|Dazes]] touched target for 1 round per caster level.                     |
-| 3 [[rangoric-srd/divine/Divine Spells (new)\|Rage]]                  | Blood frenzy grants target +4 Str, +4 Con and +2 on Will saves.                                                                           |
-| 4 [[rangoric-srd/spells/Confusion\|Confusion]]                       | Subjects behave oddly for 1 round/level.                                                                                                  |
+| 3 [[rangoric-srd/divine/Divine Spells (new)\|Rage]]                  | Blood frenzy grants target +4 Str, +4 Con and +2 on Will saves.                                                                        |
+| 4 [[rangoric-srd/spells/Confusion\|Confusion]]                       | Subjects behave oddly for 1 round/level.                                                                                               |
 | 5 [[rangoric-srd/spells/Bolts Of Bedevilment\|Bolts of Bedevilment]] | One ray attack per round. Affected creatures are [[rangoric-srd/rules/Special Abilities and Conditions#^dazed\|dazed]] for 1d3 rounds. |
-| 6 [[rangoric-srd/spells/Phantasmal Killer\|Phantasmal Killer]]       | Fearsome illusion kills subject or deals 3d6 damage.                                                                                      |
-| 7 [[rangoric-srd/spells/Insanity (Spell)\|Insanity]]                 | Subject suffers continuous confusion.                                                                                                     |
-| 8 [[rangoric-srd/spells/Maddening Scream\|Maddening Scream]]         | Makes subject race about caterwauling.                                                                                                    |
-| 9 [[rangoric-srd/spells/Weird\|Weird]]                               | As phantasmal killer, but affects all within 30 ft.                                                                                       |
+| 6 [[rangoric-srd/spells/Phantasmal Killer\|Phantasmal Killer]]       | Fearsome illusion kills subject or deals 3d6 damage.                                                                                   |
+| 7 [[rangoric-srd/spells/Insanity (Spell)\|Insanity]]                 | Subject suffers continuous confusion.                                                                                                  |
+| 8 [[rangoric-srd/spells/Maddening Scream\|Maddening Scream]]         | Makes subject race about caterwauling.                                                                                                 |
+| 9 [[rangoric-srd/spells/Weird\|Weird]]                               | As phantasmal killer, but affects all within 30 ft.                                                                                    |
 
 ##### Magic Domain
 
@@ -481,8 +481,8 @@ Once per day, the character can see and act with the clarity of true madness. Us
 
 ###### Magic Domain Spells
 
-| Spell Name                                                                        | Brief Description                          |
-| --------------------------------------------------------------------------------- | ------------------------------------------ |
+| Spell Name                                                                      | Brief Description                          |
+| ------------------------------------------------------------------------------- | ------------------------------------------ |
 | 1 [[rangoric-srd/spells/Magic Aura\|Magic Aura]]:                               | Alters object’s magic aura.                |
 | 2 [[rangoric-srd/spells/Identify\|Identify]]:                                   | Determines properties of magic item.       |
 | 3 [[rangoric-srd/spells/Dispel Magic\|Dispel Magic]]:                           | Cancels magical spells and effects.        |
@@ -500,8 +500,8 @@ Granted Power: The character has the spell-like ability to inspire allies, givin
 
 ###### Nobility Domain Spells
 
-| Spell Name                                                         | Brief Description                                        |
-| ------------------------------------------------------------------ | -------------------------------------------------------- |
+| Spell Name                                                       | Brief Description                                        |
+| ---------------------------------------------------------------- | -------------------------------------------------------- |
 | 1 [[rangoric-srd/spells/Divine Favor\|Divine Favor]]             | You gain +1 per three levels on attack and damage rolls. |
 | 2 [[rangoric-srd/spells/Enthrall\|Enthrall]]                     | Captivates all within 100 ft. + 10 ft./level.            |
 | 3 [[rangoric-srd/spells/Magic Vestment\|Magic Vestment]]         | Armor or shield gains +1 enhancement per four levels.    |
@@ -520,8 +520,8 @@ Add Nature to your list of cleric class skills.
 
 ###### Plant Domain Spells
 
-| Spell Name                                                  | Brief Description                                   |
-| ----------------------------------------------------------- | --------------------------------------------------- |
+| Spell Name                                                | Brief Description                                   |
+| --------------------------------------------------------- | --------------------------------------------------- |
 | 1 [[rangoric-srd/spells/Entangle\|Entangle]]:             | Plants entangle everyone in 40-ft.-radius.          |
 | 2 [[rangoric-srd/spells/Barkskin\|Barkskin]]:             | Grants +2 (or higher) enhancement to natural armor. |
 | 3 [[rangoric-srd/spells/Plant Growth\|Plant Growth]]:     | Grows vegetation, improves crops.                   |
@@ -538,8 +538,8 @@ Add Nature to your list of cleric class skills.
 
 ###### Protection Domain Spells
 
-| Spell Name                                                                  | Brief Description                                         |
-| --------------------------------------------------------------------------- | --------------------------------------------------------- |
+| Spell Name                                                                | Brief Description                                         |
+| ------------------------------------------------------------------------- | --------------------------------------------------------- |
 | 1 [[rangoric-srd/spells/Sanctuary\|Sanctuary]]:                           | Opponents can’t attack you, and you can’t attack.         |
 | 2 [[rangoric-srd/spells/Shield Other\|Shield Other]] (F):                 | You take half of subject’s damage.                        |
 | 3 [[rangoric-srd/spells/Protection from Energy\|Protection from Energy]]: | Absorb 12 points/level of damage from one kind of energy. |
@@ -553,14 +553,14 @@ Add Nature to your list of cleric class skills.
 ##### Repose Domain
 
 **Note: Non-Core, From [[rangoric-srd/divine/Divine|Divine Section]]**  
-The Repose domain is similar to the Death domain, but is granted by good-aligned deities whose clerics are barred from casting evil spells.  
+The Repose domain is similar to the Death domain, but is granted by good-aligned deities whose clerics are barred from casting evil spells.
 
 Granted Power: The character may use a death touch once per day. The death touch is a spell-like ability that is a death effect. The character must succeed at a melee touch attack against a living creature (using the rules for touch spells). When the character touches, roll 1d6 per his or her cleric level. If the total at least equals the creature’s current hit points, it dies.
 
 ###### Repose Domain Spells
 
-| Spell Name                                                           | Brief Description                                             |
-| -------------------------------------------------------------------- | ------------------------------------------------------------- |
+| Spell Name                                                         | Brief Description                                             |
+| ------------------------------------------------------------------ | ------------------------------------------------------------- |
 | 1 [[rangoric-srd/spells/Deathwatch\|Deathwatch]]                   | Reveals how near death subjects within 30 ft. are.            |
 | 2 [[rangoric-srd/spells/Gentle Repose\|Gentle Repose]]             | Preserves one corpse.                                         |
 | 3 [[rangoric-srd/spells/Speak with Dead\|Speak with Dead]]         | Corpse answers one question/two levels.                       |
@@ -578,8 +578,8 @@ Granted Power: Free Scribe Scroll feat.
 
 ###### Rune Domain Spells
 
-| Spell Name                                                                      | Brief Description                                                    |
-| ------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Spell Name                                                                    | Brief Description                                                    |
+| ----------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | 1 [[rangoric-srd/spells/Erase\|Erase]]                                        | Mundane or magical writing vanishes.                                 |
 | 2 [[rangoric-srd/spells/Secret Page\|Secret Page]]                            | Changes one page to hide its real content.                           |
 | 3 [[rangoric-srd/spells/Glyph of Warding\|Glyph of Warding]]                  | Inscription harms those who pass it.                                 |
@@ -598,17 +598,17 @@ Use this ability a total number of times per day equal to 3 + Charisma modifier.
 
 ###### Skalykind Domain Spells
 
-| Spell Name                                                          | Brief Description                                                                                                                                                                            |
-| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 [[rangoric-srd/spells/Magic Fang\|Magic Fang]]                  | One natural weapon of subject creature gets +1 on attack and damage rolls.                                                                                                                   |
-| 2 [[rangoric-srd/spells/Animal Trance\|Animal Trance†]]           | Fascinates 2d6 HD of animals.                                                                                                                                                                |
-| 3 [[rangoric-srd/spells/Magic Fang, Greater\|Greater Magic Fang]] | One natural weapon of subject creature gets +1/four levels on attack and damage rolls (max +5).                                                                                              |
-| 4 [[rangoric-srd/spells/Poison\|Poison]]                          | Touch deals 1d10 Con damage, repeats in 1 min.                                                                                                                                               |
-| 5 [[rangoric-srd/spells/Animal Growth\|Animal Growth†]]           | One animal/two levels doubles in size.                                                                                                                                                       |
+| Spell Name                                                        | Brief Description                                                                                                                                                                      |
+| ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 [[rangoric-srd/spells/Magic Fang\|Magic Fang]]                  | One natural weapon of subject creature gets +1 on attack and damage rolls.                                                                                                             |
+| 2 [[rangoric-srd/spells/Animal Trance\|Animal Trance†]]           | Fascinates 2d6 HD of animals.                                                                                                                                                          |
+| 3 [[rangoric-srd/spells/Magic Fang, Greater\|Greater Magic Fang]] | One natural weapon of subject creature gets +1/four levels on attack and damage rolls (max +5).                                                                                        |
+| 4 [[rangoric-srd/spells/Poison\|Poison]]                          | Touch deals 1d10 Con damage, repeats in 1 min.                                                                                                                                         |
+| 5 [[rangoric-srd/spells/Animal Growth\|Animal Growth†]]           | One animal/two levels doubles in size.                                                                                                                                                 |
 | 6 [[rangoric-srd/spells/Eyebite\|Eyebite]]                        | Target becomes [[rangoric-srd/rules/Special Abilities and Conditions#^panicked\|panicked]], [[rangoric-srd/rules/Special Abilities and Conditions#^sickened\|sickened]], and comatose. |
-| 7 [[rangoric-srd/spells/Creeping Doom\|Creeping Doom*]]          | Swarms of centipedes attack at your command.                                                                                                                                                 |
-| 8 [[rangoric-srd/spells/Animal Shapes\|Animal Shapes†]]           | One ally/level polymorphs into chosen animal.                                                                                                                                                |
-| 9 [[rangoric-srd/spells/Shapechange\|Shapechange]]                | Transforms you into any creature, and change forms once per round.                                                                                                                           |
+| 7 [[rangoric-srd/spells/Creeping Doom\|Creeping Doom*]]           | Swarms of centipedes attack at your command.                                                                                                                                           |
+| 8 [[rangoric-srd/spells/Animal Shapes\|Animal Shapes†]]           | One ally/level polymorphs into chosen animal.                                                                                                                                          |
+| 9 [[rangoric-srd/spells/Shapechange\|Shapechange]]                | Transforms you into any creature, and change forms once per round.                                                                                                                     |
 
 †Affects ophidian or reptilian creatures only.
 
@@ -620,17 +620,17 @@ Use this ability a total number of times per day equal to 3 + Charisma modifier.
 
 ###### Strength Domain Spells
 
-| Spell Name                                                    | Brief Description                                                                                          |
-| ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| 1 [[rangoric-srd/spells/Enlarge Person\|Enlarge Person]]:   | Humanoid creature doubles in size.                                                                         |
-| 2 [[rangoric-srd/spells/Bull’s Strength\|Bull’s Strength]]: | Subject gains +4 to Str for 1 min./level.                                                                  |
-| 3 [[rangoric-srd/spells/Magic Vestment\|Magic Vestment]]:   | Armor or shield gains +1 enhancement per four levels.                                                      |
-| 4 [[rangoric-srd/spells/Spell Immunity\|Spell Immunity]]:   | Subject is immune to one spell per four levels.                                                            |
-| 5 [[rangoric-srd/spells/Righteous Might\|Righteous Might]]: | Your size increases, and you gain combat bonuses.                                                          |
-| 6 [[rangoric-srd/spells/Stoneskin\|Stoneskin]] (M):         | Ignore 10 points of damage per attack.                                                                     |
+| Spell Name                                                  | Brief Description                                                                                 |
+| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| 1 [[rangoric-srd/spells/Enlarge Person\|Enlarge Person]]:   | Humanoid creature doubles in size.                                                                |
+| 2 [[rangoric-srd/spells/Bull’s Strength\|Bull’s Strength]]: | Subject gains +4 to Str for 1 min./level.                                                         |
+| 3 [[rangoric-srd/spells/Magic Vestment\|Magic Vestment]]:   | Armor or shield gains +1 enhancement per four levels.                                             |
+| 4 [[rangoric-srd/spells/Spell Immunity\|Spell Immunity]]:   | Subject is immune to one spell per four levels.                                                   |
+| 5 [[rangoric-srd/spells/Righteous Might\|Righteous Might]]: | Your size increases, and you gain combat bonuses.                                                 |
+| 6 [[rangoric-srd/spells/Stoneskin\|Stoneskin]] (M):         | Ignore 10 points of damage per attack.                                                            |
 | 7 [[rangoric-srd/spells/Grasping Hand\|Grasping Hand]]:     | Large hand provides cover, pushes, or [[rangoric-srd/combat/Combat Maneuvers#Grapple\|grapples]]. |
-| 8 [[rangoric-srd/spells/Clenched Fist\|Clenched Fist]]:     | Large hand provides cover, pushes, or attacks your foes.                                                   |
-| 9 [[rangoric-srd/spells/Crushing Hand\|Crushing Hand]]:     | Large hand provides cover, pushes, or crushes your foes.                                                   |
+| 8 [[rangoric-srd/spells/Clenched Fist\|Clenched Fist]]:     | Large hand provides cover, pushes, or attacks your foes.                                          |
+| 9 [[rangoric-srd/spells/Crushing Hand\|Crushing Hand]]:     | Large hand provides cover, pushes, or crushes your foes.                                          |
 
 ##### Sun Domain
 
@@ -638,17 +638,17 @@ Use this ability a total number of times per day equal to 3 + Charisma modifier.
 
 ###### Sun Domain Spells
 
-| Spell Name                                                      | Brief Description                                                                                                |
-| --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 1 [[rangoric-srd/spells/Endure Elements\|Endure Elements]]:   | Exist comfortably in hot or cold environments.                                                                   |
-| 2 [[rangoric-srd/spells/Heat Metal\|Heat Metal]]:             | Make metal so hot it damages those who touch it.                                                                 |
-| 3 [[rangoric-srd/spells/Searing Light\|Searing Light]]:       | Ray deals 1d8/two levels, more against undead.                                                                   |
-| 4 [[rangoric-srd/spells/Fire Shield\|Fire Shield]]:           | Creatures attacking you take fire damage; you’re protected from heat or cold.                                    |
-| 5 [[rangoric-srd/spells/Flame Strike\|Flame Strike]]:         | Smite foes with divine fire (1d6/level damage).                                                                  |
-| 6 [[rangoric-srd/spells/Fire Seeds\|Fire Seeds]]:             | Acorns and berries become grenades and bombs.                                                                    |
+| Spell Name                                                    | Brief Description                                                                                             |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 1 [[rangoric-srd/spells/Endure Elements\|Endure Elements]]:   | Exist comfortably in hot or cold environments.                                                                |
+| 2 [[rangoric-srd/spells/Heat Metal\|Heat Metal]]:             | Make metal so hot it damages those who touch it.                                                              |
+| 3 [[rangoric-srd/spells/Searing Light\|Searing Light]]:       | Ray deals 1d8/two levels, more against undead.                                                                |
+| 4 [[rangoric-srd/spells/Fire Shield\|Fire Shield]]:           | Creatures attacking you take fire damage; you’re protected from heat or cold.                                 |
+| 5 [[rangoric-srd/spells/Flame Strike\|Flame Strike]]:         | Smite foes with divine fire (1d6/level damage).                                                               |
+| 6 [[rangoric-srd/spells/Fire Seeds\|Fire Seeds]]:             | Acorns and berries become grenades and bombs.                                                                 |
 | 7 [[rangoric-srd/spells/Sunbeam\|Sunbeam]]:                   | Beam [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blinds]] and deals 4d6 damage.           |
 | 8 [[rangoric-srd/spells/Sunburst\|Sunburst]]:                 | [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|Blinds]] all within 10 ft., deals 6d6 damage. |
-| 9 [[rangoric-srd/spells/Prismatic Sphere\|Prismatic Sphere]]: | As prismatic wall, but surrounds on all sides.                                                                   |
+| 9 [[rangoric-srd/spells/Prismatic Sphere\|Prismatic Sphere]]: | As prismatic wall, but surrounds on all sides.                                                                |
 
 ##### Travel Domain
 
@@ -660,8 +660,8 @@ Add Fieldcraft to your list of cleric class skills.
 
 ###### Travel Domain Spells
 
-| Spell Name                                                            | Brief Description                                          |
-| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Spell Name                                                          | Brief Description                                          |
+| ------------------------------------------------------------------- | ---------------------------------------------------------- |
 | 1 [[rangoric-srd/spells/Longstrider\|Longstrider]]:                 | Increases your speed.                                      |
 | 2 [[rangoric-srd/spells/Locate Object\|Locate Object]]:             | Senses direction toward object (specific or type).         |
 | 3 [[rangoric-srd/spells/Fly\|Fly]]:                                 | Subject flies at speed of 60 ft.                           |
@@ -678,17 +678,17 @@ Add Fieldcraft to your list of cleric class skills.
 
 ###### Trickery Domain Spells
 
-| Spell Name                                                              | Brief Description                                                                                                          |
-| ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 1 [[rangoric-srd/spells/Disguise Self\|Disguise Self]]:               | Disguise own appearance.                                                                                                   |
+| Spell Name                                                            | Brief Description                                                                                               |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 1 [[rangoric-srd/spells/Disguise Self\|Disguise Self]]:               | Disguise own appearance.                                                                                        |
 | 2 [[rangoric-srd/spells/Invisibility\|Invisibility]]:                 | Subject [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]] 1 min./level or until it attacks. |
-| 3 [[rangoric-srd/spells/Nondetection\|Nondetection]] (M):             | Hides subject from divination, scrying.                                                                                    |
-| 4 [[rangoric-srd/spells/Confusion\|Confusion]]:                       | Subjects behave oddly for 1 round/level.                                                                                   |
-| 5 [[rangoric-srd/spells/False Vision\|False Vision]] (M):             | Fools scrying with an illusion.                                                                                            |
+| 3 [[rangoric-srd/spells/Nondetection\|Nondetection]] (M):             | Hides subject from divination, scrying.                                                                         |
+| 4 [[rangoric-srd/spells/Confusion\|Confusion]]:                       | Subjects behave oddly for 1 round/level.                                                                        |
+| 5 [[rangoric-srd/spells/False Vision\|False Vision]] (M):             | Fools scrying with an illusion.                                                                                 |
 | 6 [[rangoric-srd/spells/Mislead\|Mislead]]:                           | Turns you [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]] and creates illusory double.    |
-| 7 [[rangoric-srd/spells/Screen\|Screen]]:                             | Illusion hides area from vision, scrying.                                                                                  |
-| 8 [[rangoric-srd/spells/Polymorph Any Object\|Polymorph Any Object]]: | Changes any subject into anything else.                                                                                    |
-| 9 [[rangoric-srd/spells/Time Stop\|Time Stop]]:                       | You act freely for 1d4+1 rounds.                                                                                           |
+| 7 [[rangoric-srd/spells/Screen\|Screen]]:                             | Illusion hides area from vision, scrying.                                                                       |
+| 8 [[rangoric-srd/spells/Polymorph Any Object\|Polymorph Any Object]]: | Changes any subject into anything else.                                                                         |
+| 9 [[rangoric-srd/spells/Time Stop\|Time Stop]]:                       | You act freely for 1d4+1 rounds.                                                                                |
 
 ##### War Domain
 
@@ -696,17 +696,17 @@ Add Fieldcraft to your list of cleric class skills.
 
 ###### War Domain Spells
 
-| Spell Name                                                      | Brief Description                                                                                         |
-| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| 1 [[rangoric-srd/spells/Magic Weapon\|Magic Weapon]]:         | Weapon gains +1 bonus.                                                                                    |
-| 2 [[rangoric-srd/spells/Spiritual Weapon\|Spiritual Weapon]]: | Magical weapon attacks on its own.                                                                        |
-| 3 [[rangoric-srd/spells/Magic Vestment\|Magic Vestment]]:     | Armor or shield gains +1 enhancement per four levels.                                                     |
-| 4 [[rangoric-srd/spells/Divine Power\|Divine Power]]:         | You gain attack bonus, +6 to Str, and 1 hp/level.                                                         |
-| 5 [[rangoric-srd/spells/Flame Strike\|Flame Strike]]:         | Smite foes with divine fire (1d6/level damage).                                                           |
-| 6 [[rangoric-srd/spells/Blade Barrier\|Blade Barrier]]:       | Wall of blades deals 1d6/level damage.                                                                    |
+| Spell Name                                                    | Brief Description                                                                                      |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| 1 [[rangoric-srd/spells/Magic Weapon\|Magic Weapon]]:         | Weapon gains +1 bonus.                                                                                 |
+| 2 [[rangoric-srd/spells/Spiritual Weapon\|Spiritual Weapon]]: | Magical weapon attacks on its own.                                                                     |
+| 3 [[rangoric-srd/spells/Magic Vestment\|Magic Vestment]]:     | Armor or shield gains +1 enhancement per four levels.                                                  |
+| 4 [[rangoric-srd/spells/Divine Power\|Divine Power]]:         | You gain attack bonus, +6 to Str, and 1 hp/level.                                                      |
+| 5 [[rangoric-srd/spells/Flame Strike\|Flame Strike]]:         | Smite foes with divine fire (1d6/level damage).                                                        |
+| 6 [[rangoric-srd/spells/Blade Barrier\|Blade Barrier]]:       | Wall of blades deals 1d6/level damage.                                                                 |
 | 7 [[rangoric-srd/spells/Power Word Blind\|Power Word Blind]]: | [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|Blinds]] creature with 200 hp or less. |
-| 8 [[rangoric-srd/spells/Power Word Stun\|Power Word Stun]]:   | Stuns creature with 150 hp or less.                                                                       |
-| 9 [[rangoric-srd/spells/Power Word Kill\|Power Word Kill]]:   | Kills creature with 100 hp or less.                                                                       |
+| 8 [[rangoric-srd/spells/Power Word Stun\|Power Word Stun]]:   | Stuns creature with 150 hp or less.                                                                    |
+| 9 [[rangoric-srd/spells/Power Word Kill\|Power Word Kill]]:   | Kills creature with 100 hp or less.                                                                    |
 
 ##### Water Domain
 
@@ -714,8 +714,8 @@ Add Fieldcraft to your list of cleric class skills.
 
 ###### Water Domain Spells
 
-| Spell Name                                                      | Brief Description                                |
-| --------------------------------------------------------------- | ------------------------------------------------ |
+| Spell Name                                                    | Brief Description                                |
+| ------------------------------------------------------------- | ------------------------------------------------ |
 | 1 [[rangoric-srd/spells/Obscuring Mist\|Obscuring Mist]]:     | Fog surrounds you.                               |
 | 2 [[rangoric-srd/spells/Fog Cloud\|Fog Cloud]]:               | Fog obscures vision.                             |
 | 3 [[rangoric-srd/spells/Water Breathing\|Water Breathing]]:   | Subjects can breathe underwater.                 |
@@ -726,18 +726,18 @@ Add Fieldcraft to your list of cleric class skills.
 | 8 [[rangoric-srd/spells/Horrid Wilting\|Horrid Wilting]]:     | Deals 1d6/level damage within 30 ft.             |
 | 9 [[rangoric-srd/spells/Elemental Swarm\|Elemental Swarm]]\*: | Summons multiple elementals.                     |
 
-\* *Cast as a water spell only.*
+\* _Cast as a water spell only._
 
 ##### Weather Domain
 
-**Note: Non-Core, From [[rangoric-srd/divine/Divine|Divine Section]]**  
+**Note: Non-Core, From [[rangoric-srd/divine/Divine|Divine Section]]**
 
-**Granted Power:** Fieldcraft is a class skill.****
+**Granted Power:** Fieldcraft is a class skill.\*\*\*\*
 
 ###### Weather Domain Spells
 
-| Spell Name                                                             | Brief Description                                   |
-| ---------------------------------------------------------------------- | --------------------------------------------------- |
+| Spell Name                                                           | Brief Description                                   |
+| -------------------------------------------------------------------- | --------------------------------------------------- |
 | 1 [[rangoric-srd/spells/Obscuring Mist\|Obscuring Mist]]             | Fog surrounds you.                                  |
 | 2 [[rangoric-srd/spells/Fog Cloud\|Fog Cloud]]                       | Fog obscures vision.                                |
 | 3 [[rangoric-srd/spells/Call Lightning\|Call Lightning]]             | Calls down lightning bolts (3d6 per bolt) from sky. |

@@ -34,7 +34,7 @@ Area: 30-ft.-radius emanation centered on you
 Duration: 1 round/level  
 Saving Throw: Will negates; see text  
 Power Resistance: Yes  
-Power Points: 9  
+Power Points: 9
 
 By manifesting this power, you generate psychic static, interfering with the ability of other psionic characters to manifest their powers or use psi-like abilities (you are not affected by your own catapsi manifestation). All psionic activity within the area requires 4 more power points to manifest than normal, unless a character makes a Will save each time he attempts to manifest a power. Using a psi-like ability becomes a full-round action, instead of a standard action, in a catapsi field. If two or more fields of catapsi overlap, the effects are not cumulative.
 

@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Improved Heighten Spell
 
-Prerequisites: [[rangoric-srd/feats/Heighten Spell|Heighten Spell]], [[rangoric-srd/skills/Mysticism|Mysticism]] 17 ranks.  
+Prerequisites: [[rangoric-srd/feats/Heighten Spell|Heighten Spell]], [[rangoric-srd/skills/Mysticism|Mysticism]] 17 ranks.
 
 Benefit: As Heighten Spell, but there is no limit to the level to which the character can heighten the spell.
 

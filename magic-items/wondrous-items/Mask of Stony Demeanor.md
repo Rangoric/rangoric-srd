@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 When worn, this mask transforms the wearer's face into a stone statue and its voice into an emotionless monotone. Though it allows the wearer to speak, its facial expressions and voice betray little emotion, granting a +10 competence bonus on [[rangoric-srd/skills/Deception|Deception]] checks made to lie and a +5 competence bonus on Deception checks made to [[rangoric-srd/combat/Combat Special Attacks#Feint|feint]], but also imposes a –5 penalty on Deception checks made to pass a hidden message.
 
-Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Innocence|innocence]]*, *[[rangoric-srd/spells/Stone Shape|stone shape]]*; Price 8,000 gp; Cost 4,000 gp; Weight 4 lbs.
+Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Innocence|innocence]]_, _[[rangoric-srd/spells/Stone Shape|stone shape]]_; Price 8,000 gp; Cost 4,000 gp; Weight 4 lbs.

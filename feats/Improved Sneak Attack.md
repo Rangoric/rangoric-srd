@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Improved Sneak Attack
 
-Prerequisite: Sneak attack +8d6.  
+Prerequisite: Sneak attack +8d6.
 
 Benefit: Add +1d6 to the character’s sneak attack damage.
 

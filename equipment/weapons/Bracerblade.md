@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades, weapon-group/close]
 
 # Bracerblade
 
-*Exotic one-handed melee weapon.* Cost 20 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Weight 4 lb.; Type Slashing. ^stats
+_Exotic one-handed melee weapon._ Cost 20 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Weight 4 lb.; Type Slashing. ^stats
 
 This appears to be a standard leather or metal brace with a scythe-like or axe-like blade fixed along the length of the bracer. A bracerblade can be used either as a weapon or defensively as a light shield. If two are used as weapons in the same round, you suffer all penalties for using a two-weapon fighting style.

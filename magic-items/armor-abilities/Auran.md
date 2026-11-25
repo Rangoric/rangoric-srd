@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Auran
 
-Armors that possess the *auran* enchantment are made of thin veneers of twisting and turning winds that do not disturb the wearer or those around her. Races that have close ties to the air, dwelling atop high mountains, in floating cities, or other celestial realms commonly wear them. Those wearing this armor gain the abilities of *[[rangoric-srd/spells/Feather Fall|feather fall]]* (at will), *[[rangoric-srd/spells/Gaseous Form|gaseous form]]* (once per day), and *[[rangoric-srd/spells/Levitate|levitate]]* (three times per day).
+Armors that possess the _auran_ enchantment are made of thin veneers of twisting and turning winds that do not disturb the wearer or those around her. Races that have close ties to the air, dwelling atop high mountains, in floating cities, or other celestial realms commonly wear them. Those wearing this armor gain the abilities of _[[rangoric-srd/spells/Feather Fall|feather fall]]_ (at will), _[[rangoric-srd/spells/Gaseous Form|gaseous form]]_ (once per day), and _[[rangoric-srd/spells/Levitate|levitate]]_ (three times per day).
 
-Moderate transmutation; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Feather Fall|feather fall]]*, *[[rangoric-srd/spells/Gaseous Form|gaseous form]]*, *[[rangoric-srd/spells/Levitate|levitate]]*; Price +66,000 gp.
+Moderate transmutation; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Feather Fall|feather fall]]_, _[[rangoric-srd/spells/Gaseous Form|gaseous form]]_, _[[rangoric-srd/spells/Levitate|levitate]]_; Price +66,000 gp.

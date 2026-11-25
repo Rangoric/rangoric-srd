@@ -15,12 +15,12 @@ One of the [[rangoric-srd/races/prestige-races/Prestige Races|prestige races]]; 
 
 Those that choose this focus are seeking to become more feral and wild, gaining natural armor, powerful natural weaponry, and various abilities related to natural animals.
 
-| Step | Cost | Minimum Level | Prerequisite |
-| --- | --- | --- | --- |
-| [[#Feral Creature\|Feral Creature]] | 3,500 XP | 4th | None |
-| [[#Wild Creature\|Wild Creature]] | 4,500 XP | 5th | Feral |
-| [[#Snouted Creature\|Snouted Creature]] | 5,500 XP | 6th | Wild |
-| [[#Tailed Creature\|Tailed Creature]] | 6,500 XP | 7th | Snouted |
+| Step                                    | Cost     | Minimum Level | Prerequisite |
+| --------------------------------------- | -------- | ------------- | ------------ |
+| [[#Feral Creature\|Feral Creature]]     | 3,500 XP | 4th           | None         |
+| [[#Wild Creature\|Wild Creature]]       | 4,500 XP | 5th           | Feral        |
+| [[#Snouted Creature\|Snouted Creature]] | 5,500 XP | 6th           | Wild         |
+| [[#Tailed Creature\|Tailed Creature]]   | 6,500 XP | 7th           | Snouted      |
 
 ### Feral Creature
 

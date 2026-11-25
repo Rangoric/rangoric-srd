@@ -19,8 +19,8 @@ tags: [rangoric, rangoric/magic-item]
 
 # Mail of Malevolence
 
-*Mail of malevolence* hangs in rags and tatters and acts as nonmagical chainmail to wearers who lack at least a moderate evil aura (see *[[rangoric-srd/spells/Detect Evil|detect evil]]*). When worn by a sufficiently evil character, it instead functions as *+2 unrighteous chainmail*. *Mail of malevolence* does not bestow a [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative level]] on good wearers.
+_Mail of malevolence_ hangs in rags and tatters and acts as nonmagical chainmail to wearers who lack at least a moderate evil aura (see _[[rangoric-srd/spells/Detect Evil|detect evil]]_). When worn by a sufficiently evil character, it instead functions as _+2 unrighteous chainmail_. _Mail of malevolence_ does not bestow a [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative level]] on good wearers.
 
-The wearer of *mail of malevolence* gains SR 21, but only against spells with the good descriptor. In addition, whenever the wearer [[rangoric-srd/combat/Combat Special Attacks#Channel Energy|channels negative energy]] to harm living creatures, she heals a like amount of damage herself regardless of whether she is living or undead.
+The wearer of _mail of malevolence_ gains SR 21, but only against spells with the good descriptor. In addition, whenever the wearer [[rangoric-srd/combat/Combat Special Attacks#Channel Energy|channels negative energy]] to harm living creatures, she heals a like amount of damage herself regardless of whether she is living or undead.
 
-Moderate abjuration; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Righteous Might|righteous might]]*, *[[rangoric-srd/spells/Spell Resistance|spell resistance]]*; Price 61,300 gp; Cost 30,800 gp.
+Moderate abjuration; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Righteous Might|righteous might]]_, _[[rangoric-srd/spells/Spell Resistance|spell resistance]]_; Price 61,300 gp; Cost 30,800 gp.

@@ -43,53 +43,53 @@ The bloodrager’s class skills (and the key ability for each skill) are [[rango
 
 **Table: The Bloodrager** ^table-the-bloodrager
 
-| Level | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th |
-| --- | --- | --- | --- | --- | --- |
-| 1st | Bloodline, bloodline power, bloodrage, fast movement | — | — | — | — |
-| 2nd | Uncanny dodge | — | — | — | — |
-| 3rd | Blood sanctuary | — | — | — | — |
-| 4th | Blood casting, bloodline power, eschew materials | 1 | — | — | — |
-| 5th | Improved uncanny dodge | 1 | — | — | — |
-| 6th | Bloodline feat | 1 | — | — | — |
-| 7th | Bloodline spell, damage reduction 1/— | 1 | 1 | — | — |
-| 8th | Bloodline power | 1 | 1 | — | — |
-| 9th | Bloodline feat | 2 | 1 | — | — |
-| 10th | Bloodline spell, damage reduction 2/— | 2 | 1 | 1 | — |
-| 11th | Greater bloodrage | 2 | 1 | 1 | — |
-| 12th | Bloodline feat, bloodline power | 2 | 2 | 1 | — |
-| 13th | Bloodline spell, damage reduction 3/— | 3 | 2 | 1 | 1 |
-| 14th | Indomitable will | 3 | 2 | 1 | 1 |
-| 15th | Bloodline feat | 3 | 2 | 2 | 1 |
-| 16th | Bloodline spell, bloodline power, damage reduction 4/— | 3 | 3 | 2 | 1 |
-| 17th | Tireless bloodrage | 4 | 3 | 2 | 1 |
-| 18th | Bloodline feat | 4 | 3 | 2 | 2 |
-| 19th | Damage reduction 5/— | 4 | 3 | 3 | 2 |
-| 20th | Bloodline power, mighty bloodrage | 4 | 4 | 3 | 2 |
+| Level | Special                                                | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th |
+| ----- | ------------------------------------------------------ | ------------------- | ------------------- | ------------------- | ------------------- |
+| 1st   | Bloodline, bloodline power, bloodrage, fast movement   | —                   | —                   | —                   | —                   |
+| 2nd   | Uncanny dodge                                          | —                   | —                   | —                   | —                   |
+| 3rd   | Blood sanctuary                                        | —                   | —                   | —                   | —                   |
+| 4th   | Blood casting, bloodline power, eschew materials       | 1                   | —                   | —                   | —                   |
+| 5th   | Improved uncanny dodge                                 | 1                   | —                   | —                   | —                   |
+| 6th   | Bloodline feat                                         | 1                   | —                   | —                   | —                   |
+| 7th   | Bloodline spell, damage reduction 1/—                  | 1                   | 1                   | —                   | —                   |
+| 8th   | Bloodline power                                        | 1                   | 1                   | —                   | —                   |
+| 9th   | Bloodline feat                                         | 2                   | 1                   | —                   | —                   |
+| 10th  | Bloodline spell, damage reduction 2/—                  | 2                   | 1                   | 1                   | —                   |
+| 11th  | Greater bloodrage                                      | 2                   | 1                   | 1                   | —                   |
+| 12th  | Bloodline feat, bloodline power                        | 2                   | 2                   | 1                   | —                   |
+| 13th  | Bloodline spell, damage reduction 3/—                  | 3                   | 2                   | 1                   | 1                   |
+| 14th  | Indomitable will                                       | 3                   | 2                   | 1                   | 1                   |
+| 15th  | Bloodline feat                                         | 3                   | 2                   | 2                   | 1                   |
+| 16th  | Bloodline spell, bloodline power, damage reduction 4/— | 3                   | 3                   | 2                   | 1                   |
+| 17th  | Tireless bloodrage                                     | 4                   | 3                   | 2                   | 1                   |
+| 18th  | Bloodline feat                                         | 4                   | 3                   | 2                   | 2                   |
+| 19th  | Damage reduction 5/—                                   | 4                   | 3                   | 3                   | 2                   |
+| 20th  | Bloodline power, mighty bloodrage                      | 4                   | 4                   | 3                   | 2                   |
 
 **Table: Bloodrager Spells Known** ^table-bloodrager-spells-known
 
 | Level | 1st | 2nd | 3rd | 4th |
-| --- | --- | --- | --- | --- |
-| 1st | — | — | — | — |
-| 2nd | — | — | — | — |
-| 3rd | — | — | — | — |
-| 4th | 2 | — | — | — |
-| 5th | 3 | — | — | — |
-| 6th | 4 | — | — | — |
-| 7th | 4 | 2 | — | — |
-| 8th | 4 | 3 | — | — |
-| 9th | 5 | 4 | — | — |
-| 10th | 5 | 4 | 2 | — |
-| 11th | 5 | 4 | 3 | — |
-| 12th | 6 | 5 | 4 | — |
-| 13th | 6 | 5 | 4 | 2 |
-| 14th | 6 | 5 | 4 | 3 |
-| 15th | 6 | 6 | 5 | 4 |
-| 16th | 6 | 6 | 5 | 4 |
-| 17th | 6 | 6 | 5 | 4 |
-| 18th | 6 | 6 | 6 | 5 |
-| 19th | 6 | 6 | 6 | 5 |
-| 20th | 6 | 6 | 6 | 5 |
+| ----- | --- | --- | --- | --- |
+| 1st   | —   | —   | —   | —   |
+| 2nd   | —   | —   | —   | —   |
+| 3rd   | —   | —   | —   | —   |
+| 4th   | 2   | —   | —   | —   |
+| 5th   | 3   | —   | —   | —   |
+| 6th   | 4   | —   | —   | —   |
+| 7th   | 4   | 2   | —   | —   |
+| 8th   | 4   | 3   | —   | —   |
+| 9th   | 5   | 4   | —   | —   |
+| 10th  | 5   | 4   | 2   | —   |
+| 11th  | 5   | 4   | 3   | —   |
+| 12th  | 6   | 5   | 4   | —   |
+| 13th  | 6   | 5   | 4   | 2   |
+| 14th  | 6   | 5   | 4   | 3   |
+| 15th  | 6   | 6   | 5   | 4   |
+| 16th  | 6   | 6   | 5   | 4   |
+| 17th  | 6   | 6   | 5   | 4   |
+| 18th  | 6   | 6   | 6   | 5   |
+| 19th  | 6   | 6   | 6   | 5   |
+| 20th  | 6   | 6   | 6   | 5   |
 
 ###### Class Features
 

@@ -58,48 +58,48 @@ The rune caster’s class skills (and the key ability for each skill) are [[rang
 
 **Table: The Rune Caster** ^table-the-rune-caster
 
-| Level | Special |
-| --- | --- |
-| 1st | Attune rune I, create runestone, runecasting |
-| 2nd | — |
-| 3rd | Inscribe rune |
-| 4th | — |
-| 5th | Attune rune II |
-| 6th | — |
-| 7th | — |
-| 8th | Draw rune |
-| 9th | — |
-| 10th | Attune rune III |
-| 11th | Create runestaff |
-| 12th | Rune mastery I |
-| 13th | — |
-| 14th | — |
-| 15th | Attune rune IV, rune mastery II |
+| Level | Special                                      |
+| ----- | -------------------------------------------- |
+| 1st   | Attune rune I, create runestone, runecasting |
+| 2nd   | —                                            |
+| 3rd   | Inscribe rune                                |
+| 4th   | —                                            |
+| 5th   | Attune rune II                               |
+| 6th   | —                                            |
+| 7th   | —                                            |
+| 8th   | Draw rune                                    |
+| 9th   | —                                            |
+| 10th  | Attune rune III                              |
+| 11th  | Create runestaff                             |
+| 12th  | Rune mastery I                               |
+| 13th  | —                                            |
+| 14th  | —                                            |
+| 15th  | Attune rune IV, rune mastery II              |
 
 **Table: Rune Spells per Day** ^table-rune-spells-per-day
 
-| Caster Level | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | 5 | 3 | — | — | — | — | — | — | — | — |
-| 2nd | 6 | 4 | — | — | — | — | — | — | — | — |
-| 3rd | 6 | 5 | — | — | — | — | — | — | — | — |
-| 4th | 6 | 6 | 3 | — | — | — | — | — | — | — |
-| 5th | 6 | 6 | 4 | — | — | — | — | — | — | — |
-| 6th | 6 | 6 | 5 | 3 | — | — | — | — | — | — |
-| 7th | 6 | 6 | 6 | 4 | — | — | — | — | — | — |
-| 8th | 6 | 6 | 6 | 5 | 3 | — | — | — | — | — |
-| 9th | 6 | 6 | 6 | 6 | 4 | — | — | — | — | — |
-| 10th | 6 | 6 | 6 | 6 | 5 | 3 | — | — | — | — |
-| 11th | 6 | 6 | 6 | 6 | 6 | 4 | — | — | — | — |
-| 12th | 6 | 6 | 6 | 6 | 6 | 5 | 3 | — | — | — |
-| 13th | 6 | 6 | 6 | 6 | 6 | 6 | 4 | — | — | — |
-| 14th | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 | — | — |
-| 15th | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 4 | — | — |
-| 16th | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 | — |
-| 17th | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 4 | — |
-| 18th | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 |
-| 19th | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 4 |
-| 20th | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 |
+| Caster Level | 0   | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st          | 5   | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2nd          | 6   | 4   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3rd          | 6   | 5   | —   | —   | —   | —   | —   | —   | —   | —   |
+| 4th          | 6   | 6   | 3   | —   | —   | —   | —   | —   | —   | —   |
+| 5th          | 6   | 6   | 4   | —   | —   | —   | —   | —   | —   | —   |
+| 6th          | 6   | 6   | 5   | 3   | —   | —   | —   | —   | —   | —   |
+| 7th          | 6   | 6   | 6   | 4   | —   | —   | —   | —   | —   | —   |
+| 8th          | 6   | 6   | 6   | 5   | 3   | —   | —   | —   | —   | —   |
+| 9th          | 6   | 6   | 6   | 6   | 4   | —   | —   | —   | —   | —   |
+| 10th         | 6   | 6   | 6   | 6   | 5   | 3   | —   | —   | —   | —   |
+| 11th         | 6   | 6   | 6   | 6   | 6   | 4   | —   | —   | —   | —   |
+| 12th         | 6   | 6   | 6   | 6   | 6   | 5   | 3   | —   | —   | —   |
+| 13th         | 6   | 6   | 6   | 6   | 6   | 6   | 4   | —   | —   | —   |
+| 14th         | 6   | 6   | 6   | 6   | 6   | 6   | 5   | 3   | —   | —   |
+| 15th         | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 4   | —   | —   |
+| 16th         | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 5   | 3   | —   |
+| 17th         | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 4   | —   |
+| 18th         | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 5   | 3   |
+| 19th         | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 4   |
+| 20th         | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 6   | 6   |
 
 ###### Class Features
 
@@ -111,7 +111,7 @@ All of the following are class features of the rune caster prestige class.
 
 Rune casters begin with the number of rune spell slots listed for a 1st-level rune caster. Wizards, bards, and clerics keep their original spellcasting abilities and may use them normally. Druids and sorcerers may keep their original spellcasting abilities if they choose, or they can choose to transfer their caster levels to rune magic. When sorcerers and druids take their first level in rune caster they may choose to reduce their caster level in their original classes and add them to their caster level in rune caster. This does not affect the class abilities, Hit Dice, saving throws or attack bonuses of the character, merely their effective caster level and number of spell slots. This allows sorcerers and druids to become far more effective rune casters than other classes. Each level in rune caster the character gains increases his rune caster caster level by one, increasing the number of available spell slots.
 
-*Example*: A 4th-level sorcerer and 3rd-level druid has just become a 1st-level rune caster. He has five 0-level and three 1st-level rune spell slots. He also has six 0-level, six 1st-level and three 2nd-level sorcerer spell slots, and four 0-level, two 1st-level and one 2nd-level druid spell slots. He chooses to change two of his sorcerer caster levels and one of his druid caster levels over to rune magic. He now has the spell slots of a 4th-level rune caster, 2nd-level sorcerer, and 2nd-level druid, and the class abilities, hit points, attack bonus and saving throws of a 1st-level rune caster, 4th-level sorcerer and 3rd-level druid. When he goes up another level he is a 2nd-level rune caster, 4th-level sorcerer and 3rd-level druid but has the spell slots of a 5th-level rune caster, 2nd-level sorcerer and 2nd-level druid.
+_Example_: A 4th-level sorcerer and 3rd-level druid has just become a 1st-level rune caster. He has five 0-level and three 1st-level rune spell slots. He also has six 0-level, six 1st-level and three 2nd-level sorcerer spell slots, and four 0-level, two 1st-level and one 2nd-level druid spell slots. He chooses to change two of his sorcerer caster levels and one of his druid caster levels over to rune magic. He now has the spell slots of a 4th-level rune caster, 2nd-level sorcerer, and 2nd-level druid, and the class abilities, hit points, attack bonus and saving throws of a 1st-level rune caster, 4th-level sorcerer and 3rd-level druid. When he goes up another level he is a 2nd-level rune caster, 4th-level sorcerer and 3rd-level druid but has the spell slots of a 5th-level rune caster, 2nd-level sorcerer and 2nd-level druid.
 
 A rune caster casts spells spontaneously, in the same fashion a bard or sorcerer does, but only those spells available to the runes the rune caster is attuned to. The rune caster receives bonus rune spells based on his Wisdom, Charisma, or Intelligence, whichever is higher. So, a rune caster with an 18 Wisdom would have a bonus 1st-, 2nd-, 3rd-, and 4th-level spell.
 

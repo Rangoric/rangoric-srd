@@ -33,7 +33,7 @@ Telepathy \[Mind-Affecting\]
 **Duration:** Concentration, up to 1 min./level (D)  
 **Saving Throw:** Will negates  
 **Power Resistance:** Yes  
-**Power Points:** 5  
+**Power Points:** 5
 
 You have a limited ability to falsify one of the subject’s senses. The subject thinks she sees, hears, smells, tastes, or feels something other than what her senses actually report. You can’t create a sensation where none exists, nor make the subject completely oblivious to a sensation, but you can replace the specifics of one sensation with different specifics. For instance, you could make a human look like a dwarf (or one human look like another specific human), a closed door look like it is open, a vat of acid smell like rose water, a parrot look like a bookend, stale rations taste like fresh fruit, a light pat feel like a dagger thrust, a scream sound like the howling wind, and so on.
 

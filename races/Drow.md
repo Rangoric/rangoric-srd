@@ -29,7 +29,7 @@ Perks:
 - Light Blindness: Drow have [[rangoric-srd/rules/Special Abilities and Conditions#Light Blindness|light blindness]].
 - Poison Use: Drow have [[rangoric-srd/races/racial-traits/Poison Use|poison use]].
 - Spell Resistance: Drow have [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] equal to 6 plus their class levels.
-- Spell-Like Abilities: Drow can use *[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Darkness|darkness]]*, and *[[rangoric-srd/spells/Faerie Fire|faerie fire]]* once each per day as spell-like abilities (caster level equal to the drow's character level).
+- Spell-Like Abilities: Drow can use _[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Darkness|darkness]]_, and _[[rangoric-srd/spells/Faerie Fire|faerie fire]]_ once each per day as spell-like abilities (caster level equal to the drow's character level).
 - Weapon Familiarity: Drow are proficient with the hand crossbow, rapier, and short sword.
 
 Languages:
@@ -57,17 +57,17 @@ Paragon Class: [[rangoric-srd/classes/Drow Paragon|Drow Paragon]]
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 110 years | +4d6 | +6d6 | +10d6 |
+| --------- | --------- | ----------- | ------- |
+| 110 years | +4d6      | +6d6        | +10d6   |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 175 years | 263 years | 350 years | +4d% years |
+| Middle Age | Old       | Venerable | Maximum Age |
+| ---------- | --------- | --------- | ----------- |
+| 175 years  | 263 years | 350 years | +4d% years  |
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 5 ft. 4 in. | +2d6 | 90 lb. | × 3 lb. |
-| Female | 5 ft. 4 in. | +2d8 | 100 lb. | × 3 lb. |
+| ------ | ----------- | --------------- | ----------- | --------------- |
+| Male   | 5 ft. 4 in. | +2d6            | 90 lb.      | × 3 lb.         |
+| Female | 5 ft. 4 in. | +2d8            | 100 lb.     | × 3 lb.         |
 
 ### Description
 
@@ -87,14 +87,14 @@ Cruel and cunning, drow are a dark reflection of the elven race. Also called dar
 
 A drow can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Ambitious Schemer\|Ambitious Schemer]] | Keen senses |
-| [[rangoric-srd/races/racial-traits/Ancestral Grudge\|Ancestral Grudge]] | Poison use |
-| [[rangoric-srd/races/racial-traits/Blasphemous Covenant\|Blasphemous Covenant]] | Keen senses and poison use |
-| [[rangoric-srd/races/racial-traits/Deep Stalker\|Deep Stalker]] | Spell-like abilities |
-| [[rangoric-srd/races/racial-traits/Seducer\|Seducer]] | Drow immunities |
-| [[rangoric-srd/races/racial-traits/Surface Infiltrator\|Surface Infiltrator]] | Darkvision and light blindness |
+| Trait                                                                           | Replaces                       |
+| ------------------------------------------------------------------------------- | ------------------------------ |
+| [[rangoric-srd/races/racial-traits/Ambitious Schemer\|Ambitious Schemer]]       | Keen senses                    |
+| [[rangoric-srd/races/racial-traits/Ancestral Grudge\|Ancestral Grudge]]         | Poison use                     |
+| [[rangoric-srd/races/racial-traits/Blasphemous Covenant\|Blasphemous Covenant]] | Keen senses and poison use     |
+| [[rangoric-srd/races/racial-traits/Deep Stalker\|Deep Stalker]]                 | Spell-like abilities           |
+| [[rangoric-srd/races/racial-traits/Seducer\|Seducer]]                           | Drow immunities                |
+| [[rangoric-srd/races/racial-traits/Surface Infiltrator\|Surface Infiltrator]]   | Darkvision and light blindness |
 
 ### Class Bonuses
 
@@ -106,7 +106,7 @@ A drow gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] 
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
-| [[rangoric-srd/class-options/archetypes/cleric/Demonic Apostle (Archetype)\|Demonic Apostle]] | [[rangoric-srd/classes/Cleric\|Cleric]] |
-| [[rangoric-srd/class-options/archetypes/fighter/Cavern Sniper (Archetype)\|Cavern Sniper]] | [[rangoric-srd/classes/Fighter\|Fighter]] |
+| Archetype                                                                                     | Class                                     |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| [[rangoric-srd/class-options/archetypes/cleric/Demonic Apostle (Archetype)\|Demonic Apostle]] | [[rangoric-srd/classes/Cleric\|Cleric]]   |
+| [[rangoric-srd/class-options/archetypes/fighter/Cavern Sniper (Archetype)\|Cavern Sniper]]    | [[rangoric-srd/classes/Fighter\|Fighter]] |

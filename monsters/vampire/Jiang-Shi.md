@@ -44,28 +44,28 @@ tags: [rangoric, rangoric/monster]
 
 # Jiang-Shi
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Augmented Humanoid)
-  - **Hit Dice**: 5d8++25 (51 hp)
-  - **Initiative**: +10
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 25 (+6 Dex, +1 dodge, +3 natural, +1 monk, +4 Wis), touch 22, flat-footed 18
-  - **Base Attack**: +3; **CMB**: +8 (+12 grapple); **CMD**: 28 (can't be tripped)
-  - **Attack**: Claw +9 melee (1d8+3/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or bite +9 melee (1d6+3)
-  - **Full Attack**: 2 claws +9 melee (1d8+3/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and bite +9 melee (1d6+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/vampire/Jiang-Shi#^brutal-claws|Brutal claws]], [[rangoric-srd/monsters/vampire/Jiang-Shi#^drain-chi|drain chi]] (DC 15), [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (5/day, DC 16)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft. (breathing creatures only), [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/classes/Monk#^monk-evasion|evasion]], [[rangoric-srd/monsters/vampire/Jiang-Shi#^prayer-scroll|prayer scroll]], [[rangoric-srd/classes/Monk#^monk-fast-movement|fast movement]], [[rangoric-srd/classes/Monk#^monk-high-jump|high jump]], [[rangoric-srd/classes/Monk#^monk-ki-pool|ki pool]] (6 points, magic), [[rangoric-srd/classes/Monk#^monk-maneuver-training|maneuver training]], [[rangoric-srd/classes/Monk#^monk-purity-of-body|purity of body]], [[rangoric-srd/classes/Monk#^monk-slow-fall|slow fall]] 20 ft., [[rangoric-srd/classes/Monk#^monk-still-mind|still mind]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic and slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and spell completion and spell trigger effects, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 20, [[rangoric-srd/monsters/vampire/Jiang-Shi#^weaknesses|jiang-shi weaknesses]]
-  - **Saves**: Fort +8, Ref +11, Will +9
-  - **Abilities**: Str 16, Dex 23, Con —, Int 12, Wis 18, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +25, [[rangoric-srd/skills/Athletics|Athletics]] +11 (+16 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +14, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +22
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Deflect Arrows|Deflect Arrows]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics, Perception), [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any
-  - **Organization**: Solitary or brotherhood (2–8)
-  - **Challenge Rating**: 6
-  - **Treasure**: NPC gear (amulet of natural armor +1, cloak of resistance +1, potion of invisibility, alchemist's fire [6])
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Augmented Humanoid)
+- **Hit Dice**: 5d8++25 (51 hp)
+- **Initiative**: +10
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 25 (+6 Dex, +1 dodge, +3 natural, +1 monk, +4 Wis), touch 22, flat-footed 18
+- **Base Attack**: +3; **CMB**: +8 (+12 grapple); **CMD**: 28 (can't be tripped)
+- **Attack**: Claw +9 melee (1d8+3/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or bite +9 melee (1d6+3)
+- **Full Attack**: 2 claws +9 melee (1d8+3/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and bite +9 melee (1d6+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/vampire/Jiang-Shi#^brutal-claws|Brutal claws]], [[rangoric-srd/monsters/vampire/Jiang-Shi#^drain-chi|drain chi]] (DC 15), [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (5/day, DC 16)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft. (breathing creatures only), [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/classes/Monk#^monk-evasion|evasion]], [[rangoric-srd/monsters/vampire/Jiang-Shi#^prayer-scroll|prayer scroll]], [[rangoric-srd/classes/Monk#^monk-fast-movement|fast movement]], [[rangoric-srd/classes/Monk#^monk-high-jump|high jump]], [[rangoric-srd/classes/Monk#^monk-ki-pool|ki pool]] (6 points, magic), [[rangoric-srd/classes/Monk#^monk-maneuver-training|maneuver training]], [[rangoric-srd/classes/Monk#^monk-purity-of-body|purity of body]], [[rangoric-srd/classes/Monk#^monk-slow-fall|slow fall]] 20 ft., [[rangoric-srd/classes/Monk#^monk-still-mind|still mind]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic and slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and spell completion and spell trigger effects, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 20, [[rangoric-srd/monsters/vampire/Jiang-Shi#^weaknesses|jiang-shi weaknesses]]
+- **Saves**: Fort +8, Ref +11, Will +9
+- **Abilities**: Str 16, Dex 23, Con —, Int 12, Wis 18, Cha 16
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +25, [[rangoric-srd/skills/Athletics|Athletics]] +11 (+16 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +14, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +22
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Deflect Arrows|Deflect Arrows]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics, Perception), [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any
+- **Organization**: Solitary or brotherhood (2–8)
+- **Challenge Rating**: 6
+- **Treasure**: NPC gear (amulet of natural armor +1, cloak of resistance +1, potion of invisibility, alchemist's fire [6])
+- **Alignment**: Usually lawful evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The jiang-shi above is a human jiang-shi with 5 levels of [[rangoric-srd/classes/Monk|monk]].
 

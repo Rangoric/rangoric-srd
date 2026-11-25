@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Champion Spirit
 
-*A legend of [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirits]] for the [[rangoric-srd/classes/Medium (Class)|medium]].* A champion spirit is a paragon of skill at arms.
+_A legend of [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirits]] for the [[rangoric-srd/classes/Medium (Class)|medium]]._ A champion spirit is a paragon of skill at arms.
 
 **Spirit Bonus**: When you channel a champion, your spirit bonus applies on attack rolls, non-spell damage rolls, Strength checks, Strength-based skill checks, and Fortitude saves. ^champion-spirit-bonus
 
@@ -34,8 +34,8 @@ tags: [rangoric, rangoric/class-option]
 
 **Champion’s Prowess (Lesser, Su)**: You gain proficiency in all [[rangoric-srd/equipment/Equipment Weapons#Weapon Categories|martial weapons]] and in one exotic weapon of your choice, which you choose each time you channel a champion spirit. ^champions-prowess
 
-**Sudden Attack (Intermediate, Su)**: Whenever you take a [[rangoric-srd/combat/Combat Actions#Full Attack|full-attack action]], you gain one additional attack at your highest base attack bonus. This ability stacks with the extra attack from *[[rangoric-srd/spells/Haste|haste]]*, but it doesn’t stack with special actions that grant extra attacks, such as [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|flurry of blows]] or [[rangoric-srd/classes/Magus#^magus-spell-combat|spell combat]]. Sudden attack works as normal with full-attack options such as [[rangoric-srd/combat/Combat Special Attacks#Two-Weapon Fighting|two-weapon fighting]]. ^sudden-attack
+**Sudden Attack (Intermediate, Su)**: Whenever you take a [[rangoric-srd/combat/Combat Actions#Full Attack|full-attack action]], you gain one additional attack at your highest base attack bonus. This ability stacks with the extra attack from _[[rangoric-srd/spells/Haste|haste]]_, but it doesn’t stack with special actions that grant extra attacks, such as [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|flurry of blows]] or [[rangoric-srd/classes/Magus#^magus-spell-combat|spell combat]]. Sudden attack works as normal with full-attack options such as [[rangoric-srd/combat/Combat Special Attacks#Two-Weapon Fighting|two-weapon fighting]]. ^sudden-attack
 
-**Fleet Charge (Greater, Su)**: You can take a swift action and a full-round action to move up to your speed and then make a full attack. This special action doesn’t combine with sudden attack, but works as normal with effects such as *haste* and two-weapon fighting. As soon as you begin moving, you are considered to have begun the full-round action, even if circumstances prevent you from attacking at the end of your movement. ^fleet-charge
+**Fleet Charge (Greater, Su)**: You can take a swift action and a full-round action to move up to your speed and then make a full attack. This special action doesn’t combine with sudden attack, but works as normal with effects such as _haste_ and two-weapon fighting. As soon as you begin moving, you are considered to have begun the full-round action, even if circumstances prevent you from attacking at the end of your movement. ^fleet-charge
 
 **Legendary Champion (Supreme, Su)**: You gain two combat feats of your choice, and you can choose different feats each time you channel a champion spirit. You can treat your base attack bonus from your medium levels as equal to your medium level for the purposes of qualifying for combat feats and determining their effects, and you can count your medium levels as levels of one other class whose base attack bonus equals its class level (such as [[rangoric-srd/classes/Fighter|fighter]], [[rangoric-srd/classes/Barbarian|barbarian]], or [[rangoric-srd/classes/Slayer|slayer]]) for the purpose of qualifying for the two new combat feats. ^legendary-champion

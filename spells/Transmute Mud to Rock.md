@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Transmute Mud to Rock
 
-*Transmutation \[Earth\]*
+_Transmutation \[Earth\]_
 
-  - **Level**: Drd 5, Hun 5, Occ 5, Sor/Wiz 5
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Area**: Up to two 10-ft. cubes/level (S)
-  - **Duration**: Permanent
-  - **Saving Throw**: See text
-  - **Spell Resistance**: No
+- **Level**: Drd 5, Hun 5, Occ 5, Sor/Wiz 5
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Area**: Up to two 10-ft. cubes/level (S)
+- **Duration**: Permanent
+- **Saving Throw**: See text
+- **Spell Resistance**: No
 
 This spell transforms normal mud or quicksand of any depth into soft stone (sandstone or a similar mineral) permanently.
 
@@ -46,4 +46,4 @@ Any creature in the mud is allowed a Reflex save to escape before the area is ha
 
 Transmute mud to rock counters and dispels transmute rock to mud.
 
-*Arcane Material Component*: Sand, lime, and water.
+_Arcane Material Component_: Sand, lime, and water.

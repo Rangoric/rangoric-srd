@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Greater Psionic Weapon
 
-You can charge your melee weapon with additional damage potential.  
+You can charge your melee weapon with additional damage potential.
 
 Prerequisite: Str 13, [[rangoric-srd/feats/Psionic Weapon|Psionic Weapon]], base attack bonus +5.
 

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Dire Corby
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
-  - **Hit Dice**: 2d10+4 (15 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares), climb 30 ft.
-  - **Armor Class**: 13 (+1 Dex, +2 natural), touch 11, flat-footed 12
-  - **Base Attack**: +2; **CMB**: +3; **CMD**: 14
-  - **Attack**: Claw +3 melee (1d4+1)
-  - **Full Attack**: 2 claws +3 melee (1d4+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Leap|Leap]], [[rangoric-srd/monsters/abilities/Rend|rend]] (2 claws, 1d4+1)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Ferocity|ferocity]]
-  - **Saves**: Fort +2, Ref +4, Will +3
-  - **Abilities**: Str 13, Dex 12, Con 15, Int 7, Wis 10, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +8
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Any underground
-  - **Organization**: Gang (2–5), hunting flock (1–3 dread corbies and 5–10 dire corbies), or rookery (1–10 dread corbies and 10–50 dire corbies plus 1 barbarian or fighter of 3rd–5th level per 10 adults)
-  - **Challenge Rating**: 1
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
+- **Hit Dice**: 2d10+4 (15 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares), climb 30 ft.
+- **Armor Class**: 13 (+1 Dex, +2 natural), touch 11, flat-footed 12
+- **Base Attack**: +2; **CMB**: +3; **CMD**: 14
+- **Attack**: Claw +3 melee (1d4+1)
+- **Full Attack**: 2 claws +3 melee (1d4+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Leap|Leap]], [[rangoric-srd/monsters/abilities/Rend|rend]] (2 claws, 1d4+1)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Ferocity|ferocity]]
+- **Saves**: Fort +2, Ref +4, Will +3
+- **Abilities**: Str 13, Dex 12, Con 15, Int 7, Wis 10, Cha 8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +8
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Any underground
+- **Organization**: Gang (2–5), hunting flock (1–3 dread corbies and 5–10 dire corbies), or rookery (1–10 dread corbies and 10–50 dire corbies plus 1 barbarian or fighter of 3rd–5th level per 10 adults)
+- **Challenge Rating**: 1
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Dire corbies are subterranean predators that resemble humanoid crows with muscular arms and fearsome claws. Though they make their cliff-side homes on the walls of underground chasms, where they climb and leap with death-defying agility, they are most frequently encountered in the tunnels where they wait to ambush prey, leaping down from the ceiling to rend and tear.
 

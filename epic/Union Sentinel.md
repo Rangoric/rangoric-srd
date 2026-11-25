@@ -37,7 +37,7 @@ The Union Sentinel’s class skills (and the key ability for each skill) are [[r
 
 Skill Points at Each Level: 2 + Int modifier.
 
-Table: The Union Sentinel  
+Table: The Union Sentinel
 
 | Level | Special                                                                  |
 | ----- | ------------------------------------------------------------------------ |
@@ -54,7 +54,7 @@ Table: The Union Sentinel
 
 ###### Class Features
 
-The following are class features of the Union Sentinel prestige class.  
+The following are class features of the Union Sentinel prestige class.
 
 Weapon and Armor Proficiency: Union Sentinels are proficient with all simple and martial weapons, all armor, and all shields.
 

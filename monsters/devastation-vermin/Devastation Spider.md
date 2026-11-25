@@ -36,26 +36,26 @@ tags: [rangoric, rangoric/monster]
 
 # Devastation Spider
 
-  - Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
-  - **Hit Dice**: 128d8+1,280 (1,856 hp)
-  - **Initiative**: +14 (Dex)
-  - **Speed**: 60 ft., climb 40 ft. (80 ft., climb 40 ft.)
-  - **Armor Class**: 58 (-8 size, +14 Dex, +42 natural)
-  - **Base Attack**: +96; **CMB**: +117; **CMD**: 141 (153 vs. trip)
-  - **Attack**: Bite +101 (18d10+19 plus poison) melee
-  - **Full Attack**: Bite +101 (18d10+19 plus poison) melee
-  - **Space/Reach**: 50 ft./40 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
-  - **Special Qualities**: Darkvision 300 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 50, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/-
-  - **Saves**: Fort +76, Ref +56, Will +42
-  - **Abilities**: Str 37, Dex 39, Con 30, Int -, Wis 10, Cha 2
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +144 (+152 climbing, +156 jumping), [[rangoric-srd/skills/Perception|Perception]] +8 (+12), [[rangoric-srd/skills/Stealth|Stealth]] +2 (–2)
-  - **Climate/Terrain**: Any land
-  - **Organization**: Solitary or cluster (2-5)
-  - **Challenge Rating**: 41
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: None
+- Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
+- **Hit Dice**: 128d8+1,280 (1,856 hp)
+- **Initiative**: +14 (Dex)
+- **Speed**: 60 ft., climb 40 ft. (80 ft., climb 40 ft.)
+- **Armor Class**: 58 (-8 size, +14 Dex, +42 natural)
+- **Base Attack**: +96; **CMB**: +117; **CMD**: 141 (153 vs. trip)
+- **Attack**: Bite +101 (18d10+19 plus poison) melee
+- **Full Attack**: Bite +101 (18d10+19 plus poison) melee
+- **Space/Reach**: 50 ft./40 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
+- **Special Qualities**: Darkvision 300 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 50, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/-
+- **Saves**: Fort +76, Ref +56, Will +42
+- **Abilities**: Str 37, Dex 39, Con 30, Int -, Wis 10, Cha 2
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +144 (+152 climbing, +156 jumping), [[rangoric-srd/skills/Perception|Perception]] +8 (+12), [[rangoric-srd/skills/Stealth|Stealth]] +2 (–2)
+- **Climate/Terrain**: Any land
+- **Organization**: Solitary or cluster (2-5)
+- **Challenge Rating**: 41
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: None
 
 Poison (Ex): Bite, Fort save (DC 94); initial and secondary damage 2d12 temporary Con.
 

@@ -20,4 +20,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This quality can only be applied to shields. Clamping shields affix themselves to the arm when wielded. A character using such a shield cannot have it forcibly removed, nor can he accidentally drop it. A command word must be spoken to release a shield once clamped.
 
-Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Spider Climb|spider climb]]*; Price +1 bonus.
+Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Spider Climb|spider climb]]_; Price +1 bonus.

@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Halfling Ranger
 
-*A [[rangoric-srd/races/Halfling|halfling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Ranger#^ranger-class-bonuses|ranger]] level.*
+_A [[rangoric-srd/races/Halfling|halfling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Ranger#^ranger-class-bonuses|ranger]] level._
 
 Add a +1/4 dodge bonus to Armor Class against the ranger's [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemies]].

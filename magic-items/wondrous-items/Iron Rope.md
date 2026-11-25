@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 When the end of this gray hemp rope is held and the command word is uttered, it is irrevocably transmuted into solid iron. The transmuted rope loses all magic and has the hardness and hit points of a normal inch-thick iron bar. When crafted, the rope is 25 feet long, but can be cut up to three times and each section of rope can be commanded to harden individually.
 
-Faint transmutation; CL 4th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Animate Rope|animate rope]]*; Price 750 gp; Cost 375 gp; Weight 1 lb.
+Faint transmutation; CL 4th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Animate Rope|animate rope]]_; Price 750 gp; Cost 375 gp; Weight 1 lb.

@@ -25,6 +25,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/firearms]
 
 # Pistol
 
-*Exotic one-handed early firearm.* Cost 1,000 gp; Dmg 1d6 (S), 1d8 (M); Critical x4; Range Increment 20 ft.; Misfire 1 (5 ft.); Capacity 1; Weight 4 lb.; Type Bludgeoning and piercing. ^stats
+_Exotic one-handed early firearm._ Cost 1,000 gp; Dmg 1d6 (S), 1d8 (M); Critical x4; Range Increment 20 ft.; Misfire 1 (5 ft.); Capacity 1; Weight 4 lb.; Type Bludgeoning and piercing. ^stats
 
 The single-shot pistol is one of the most common firearms, although in most campaigns it is still rare enough to be an object of envy or curiosity to most. A pistol uses either a bullet and a single dose of black powder or an alchemical cartridge as ammunition.

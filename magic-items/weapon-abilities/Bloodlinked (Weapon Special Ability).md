@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/magic-item]
 
 A bloodlinked weapon is magically enhanced to serve as a conduit between the character wielding it and the victim. Whenever a bloodlinked weapon damages a target, one-half of the damage inflicted is stored as hit points in a magical reservoir within the weapon. A blood mage may, as a free action, drain hit points from the weapon’s reservoir and use them to power the [[rangoric-srd/feats/Blood Power|Blood Power]] feat. Hit points stored in such a weapon disperse at a rate of one hit point per day. This enhancement may only be applied to piercing or slashing melee weapons. Each bloodlinked weapon can store up to 15 hit points in its reservoir. Actual blood is not stored in the weapon; it simply holds part of the life force energy the target lost due to the wound.
 
-CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]*; Price +3 bonus.
+CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_; Price +3 bonus.

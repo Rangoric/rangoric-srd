@@ -31,7 +31,7 @@ The perfect wight’s class skills (and the key ability for each skill) are [[ra
 
 Skill Points at Each Level: 8 + Int modifier.
 
-Table: The Perfect Wight  
+Table: The Perfect Wight
 
 | Level | Special                    |
 | ----- | -------------------------- |
@@ -48,7 +48,7 @@ Table: The Perfect Wight
 
 ###### Class Features
 
-The following are class features of the perfect wight prestige class.  
+The following are class features of the perfect wight prestige class.
 
 Weapon and Armor Proficiency: A perfect wight gains no proficiency with any weapons, armor, or shields.
 

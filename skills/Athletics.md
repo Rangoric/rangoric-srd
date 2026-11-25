@@ -30,36 +30,36 @@ A [[rangoric-srd/equipment/gear/Climber's Kit|climber’s kit]] helps with Athle
 The DC of the check depends on the conditions of the climb. Compare the task with those on the following table to determine an appropriate DC.
 
 | Athletics DC | Example Surface or Activity                                                                                                                                                                               |
-| -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0        | A slope too steep to walk up, or a knotted rope with a wall to brace against.                                                                                                                             |
-| 5        | A rope with a wall to brace against, or a knotted rope, or a rope affected by the rope trick spell.                                                                                                       |
-| 10       | A surface with ledges to hold on to and stand on, such as a very rough wall or a ship’s rigging.                                                                                                          |
-| 15       | Any surface with adequate handholds and footholds (natural or artificial), such as a very rough natural rock surface or a tree, or an unknotted rope, or pulling yourself up when dangling by your hands. |
-| 20       | An uneven surface with some narrow handholds and footholds, such as a typical wall in a dungeon or ruins.                                                                                                 |
-| 25       | A rough surface, such as a natural rock wall or a brick wall.                                                                                                                                             |
-| 25       | An overhang or ceiling with handholds but no footholds.                                                                                                                                                   |
-| 70 | A perfectly smooth, flat, vertical surface. |
-| 100 | A perfectly smooth, flat overhang or ceiling. |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0            | A slope too steep to walk up, or a knotted rope with a wall to brace against.                                                                                                                             |
+| 5            | A rope with a wall to brace against, or a knotted rope, or a rope affected by the rope trick spell.                                                                                                       |
+| 10           | A surface with ledges to hold on to and stand on, such as a very rough wall or a ship’s rigging.                                                                                                          |
+| 15           | Any surface with adequate handholds and footholds (natural or artificial), such as a very rough natural rock surface or a tree, or an unknotted rope, or pulling yourself up when dangling by your hands. |
+| 20           | An uneven surface with some narrow handholds and footholds, such as a typical wall in a dungeon or ruins.                                                                                                 |
+| 25           | A rough surface, such as a natural rock wall or a brick wall.                                                                                                                                             |
+| 25           | An overhang or ceiling with handholds but no footholds.                                                                                                                                                   |
+| 70           | A perfectly smooth, flat, vertical surface.                                                                                                                                                               |
+| 100          | A perfectly smooth, flat overhang or ceiling.                                                                                                                                                             |
 
 | Athletics DC Modifier (1) | Example Surface or Activity                                                                                                     |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| –10                   | Climbing a chimney (artificial or natural) or other location where you can brace against two opposite walls (reduces DC by 10). |
-| –5                    | Climbing a corner where you can brace against perpendicular walls (reduces DC by 5).                                            |
-| +5                   | Surface is slippery (increases DC by 5).                                                                                        |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| –10                       | Climbing a chimney (artificial or natural) or other location where you can brace against two opposite walls (reduces DC by 10). |
+| –5                        | Climbing a corner where you can brace against perpendicular walls (reduces DC by 5).                                            |
+| +5                        | Surface is slippery (increases DC by 5).                                                                                        |
 
-1 *These modifiers are cumulative; use any that apply.*
+1 _These modifiers are cumulative; use any that apply._
 
 You need both hands free to climb, but you may cling to a wall with one hand while you cast a spell or take some other action that requires only one hand. While climbing, you can’t move to avoid a blow, so you lose your Dexterity bonus to AC (if any). You also can’t use a shield while climbing.
 
 Any time you take damage while climbing, make an Athletics check against the DC of the slope or wall. Failure means you fall from your current height and sustain the appropriate falling damage.
 
-*Accelerated Climbing*: You try to climb more quickly than normal. By accepting a –5 penalty, you can move half your speed (instead of one-quarter your speed).
+_Accelerated Climbing_: You try to climb more quickly than normal. By accepting a –5 penalty, you can move half your speed (instead of one-quarter your speed).
 
-*Making Your Own Handholds and Footholds*: You can make your own handholds and footholds by pounding pitons into a wall. Doing so takes 1 minute per piton, and one piton is needed per 3 feet of distance. As with any surface that offers handholds and footholds, a wall with pitons in it has a DC of 15. In the same way, a climber with a handaxe or similar implement can cut handholds in an ice wall.
+_Making Your Own Handholds and Footholds_: You can make your own handholds and footholds by pounding pitons into a wall. Doing so takes 1 minute per piton, and one piton is needed per 3 feet of distance. As with any surface that offers handholds and footholds, a wall with pitons in it has a DC of 15. In the same way, a climber with a handaxe or similar implement can cut handholds in an ice wall.
 
-*Catching Yourself When Falling*: It’s practically impossible to catch yourself on a wall while falling. Make an Athletics check (DC = wall’s DC + 20) to do so. It’s much easier to catch yourself on a slope (DC = slope’s DC + 10).
+_Catching Yourself When Falling_: It’s practically impossible to catch yourself on a wall while falling. Make an Athletics check (DC = wall’s DC + 20) to do so. It’s much easier to catch yourself on a slope (DC = slope’s DC + 10).
 
-*Catching a Falling Character While Climbing*: If someone climbing above you or adjacent to you falls, you can attempt to catch the falling character if he or she is within your reach. Doing so requires a successful melee touch attack against the falling character (though he or she can voluntarily forego any Dexterity bonus to AC if desired). If you hit, you must immediately attempt an Athletics check (DC = wall’s DC + 10). Success indicates that you catch the falling character, but his or her total weight, including equipment, cannot exceed your heavy load limit or you automatically fall. If you fail your Athletics check by 4 or less, you fail to stop the character’s fall but don’t lose your grip on the wall. If you fail by 5 or more, you fail to stop the character’s fall and begin falling as well.
+_Catching a Falling Character While Climbing_: If someone climbing above you or adjacent to you falls, you can attempt to catch the falling character if he or she is within your reach. Doing so requires a successful melee touch attack against the falling character (though he or she can voluntarily forego any Dexterity bonus to AC if desired). If you hit, you must immediately attempt an Athletics check (DC = wall’s DC + 10). Success indicates that you catch the falling character, but his or her total weight, including equipment, cannot exceed your heavy load limit or you automatically fall. If you fail your Athletics check by 4 or less, you fail to stop the character’s fall but don’t lose your grip on the wall. If you fail by 5 or more, you fail to stop the character’s fall and begin falling as well.
 
 **Action**: Climbing is part of movement, so it’s generally part of a move action (and may be combined with other types of movement in a move action). Each move action that includes any climbing requires a separate Athletics check. Catching yourself or another falling character doesn’t take an action.
 
@@ -73,9 +73,9 @@ A creature with a climb speed is better at climbing and always climbs carefully;
 
 ### Advanced Uses
 
-*Rapid Climbing*: A character can climb his or her speed as a move-equivalent action, or double his or her speed as a full-round action (requiring two Athletics checks), but the character takes a -20 penalty on his or her check.
+_Rapid Climbing_: A character can climb his or her speed as a move-equivalent action, or double his or her speed as a full-round action (requiring two Athletics checks), but the character takes a -20 penalty on his or her check.
 
-*Special*: The [[rangoric-srd/feats/Legendary Climber|Legendary Climber]] feat removes the penalties for accelerated and rapid climbing.
+_Special_: The [[rangoric-srd/feats/Legendary Climber|Legendary Climber]] feat removes the penalties for accelerated and rapid climbing.
 
 ## Jumping
 
@@ -89,39 +89,39 @@ Distance moved by jumping is counted against your normal maximum movement in a r
 
 If you have ranks in Athletics and you succeed on an Athletics check, you land on your feet (when appropriate). If you attempt an Athletics check untrained, you land [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]] unless you beat the DC by 5 or more.
 
-*Long Athletics*: A long jump is a horizontal jump, made across a gap like a chasm or stream. At the midpoint of the jump, you attain a vertical height equal to one-quarter of the horizontal distance. The DC for the jump is equal to the distance jumped (in feet).
+_Long Athletics_: A long jump is a horizontal jump, made across a gap like a chasm or stream. At the midpoint of the jump, you attain a vertical height equal to one-quarter of the horizontal distance. The DC for the jump is equal to the distance jumped (in feet).
 
 If your check succeeds, you land on your feet at the far end. If you fail the check by less than 5, you don’t clear the distance, but you can make a DC 15 Reflex save to grab the far edge of the gap. You end your movement grasping the far edge. If that leaves you dangling over a chasm or gap, getting up requires a move action and a DC 15 Athletics check.
 
 | Long Athletics Distance | Athletics DC (1) |
-| ------------------ | ----------- |
-| 5 feet             | 5           |
-| 10 feet            | 10          |
-| 15 feet            | 15          |
-| 20 feet            | 20          |
-| 25 feet            | 25          |
-| 30 feet            | 30          |
+| ----------------------- | ---------------- |
+| 5 feet                  | 5                |
+| 10 feet                 | 10               |
+| 15 feet                 | 15               |
+| 20 feet                 | 20               |
+| 25 feet                 | 25               |
+| 30 feet                 | 30               |
 
-1 *Requires a 20-foot running start. Without a running start, double the DC.*
+1 _Requires a 20-foot running start. Without a running start, double the DC._
 
-*High Athletics*: A high jump is a vertical leap made to reach a ledge high above or to grasp something overhead. The DC is equal to 4 times the distance to be cleared.
+_High Athletics_: A high jump is a vertical leap made to reach a ledge high above or to grasp something overhead. The DC is equal to 4 times the distance to be cleared.
 
 If you jumped up to grab something, a successful check indicates that you reached the desired height. If you wish to pull yourself up, you can do so with a move action and a DC 15 Athletics check. If you fail the Athletics check, you do not reach the height, and you land on your feet in the same spot from which you jumped. As with a long jump, the DC is doubled if you do not get a running start of at least 20 feet.
 
 | High Athletics Distance (1) | Athletics DC (2) |
-| ---------------------- | ----------- |
-| 1 foot                 | 4           |
-| 2 feet                 | 8           |
-| 3 feet                 | 12          |
-| 4 feet                 | 16          |
-| 5 feet                 | 20          |
-| 6 feet                 | 24          |
-| 7 feet                 | 28          |
-| 8 feet                 | 32          |
+| --------------------------- | ---------------- |
+| 1 foot                      | 4                |
+| 2 feet                      | 8                |
+| 3 feet                      | 12               |
+| 4 feet                      | 16               |
+| 5 feet                      | 20               |
+| 6 feet                      | 24               |
+| 7 feet                      | 28               |
+| 8 feet                      | 32               |
 
-1 *Not including vertical reach; see below.*
+1 _Not including vertical reach; see below._
 
-2 *Requires a 20-foot running start. Without a running start, double the DC.*
+2 _Requires a 20-foot running start. Without a running start, double the DC._
 
 Obviously, the difficulty of reaching a given height varies according to the size of the character or creature. The maximum vertical reach (height the creature can reach without jumping) for an average creature of a given size is shown on the table below. (As a Medium creature, a typical human can reach 8 feet without jumping.) Quadrupedal creatures don’t have the same vertical reach as a bipedal creature; treat them as being one size category smaller.
 
@@ -137,9 +137,9 @@ Obviously, the difficulty of reaching a given height varies according to the siz
 | Diminutive    | 1 ft.          |
 | Fine          | 1/2 ft.        |
 
-*Hop Up*: You can jump up onto an object as tall as your waist, such as a table or small boulder, with a DC 10 Athletics check. Doing so counts as 10 feet of movement, so if your speed is 30 feet, you could move 20 feet, then hop up onto a counter. You do not need to get a running start to hop up, so the DC is not doubled if you do not get a running start.
+_Hop Up_: You can jump up onto an object as tall as your waist, such as a table or small boulder, with a DC 10 Athletics check. Doing so counts as 10 feet of movement, so if your speed is 30 feet, you could move 20 feet, then hop up onto a counter. You do not need to get a running start to hop up, so the DC is not doubled if you do not get a running start.
 
-*Jumping Down*: If you intentionally jump from a height, you take less damage than you would if you just fell. The DC to jump down from a height is 15. You do not have to get a running start to jump down, so the DC is not doubled if you do not get a running start.
+_Jumping Down_: If you intentionally jump from a height, you take less damage than you would if you just fell. The DC to jump down from a height is 15. You do not have to get a running start to jump down, so the DC is not doubled if you do not get a running start.
 
 If you succeed on the check, you take falling damage as if you had dropped 10 fewer feet than you actually did.
 
@@ -159,15 +159,15 @@ If you are underwater, either because you failed an Athletics check or because y
 
 The DC for the Athletics check depends on the water, as given on the table below.
 
-| Water        | Athletics DC |
-| ------------ | ------- |
-| Calm water   | 10      |
-| Rough water  | 15      |
-| Stormy water | 20 (1)  |
-| Swimming up a waterfall | 80 |
+| Water                   | Athletics DC |
+| ----------------------- | ------------ |
+| Calm water              | 10           |
+| Rough water             | 15           |
+| Stormy water            | 20 (1)       |
+| Swimming up a waterfall | 80           |
 
-1 *You can’t take 10 on an Athletics check in stormy water,  
-even if you aren’t otherwise being threatened or distracted.*
+1 _You can’t take 10 on an Athletics check in stormy water,  
+even if you aren’t otherwise being threatened or distracted._
 
 Each hour that you swim, you must make a DC 20 Athletics check or take 1d6 points of nonlethal damage from fatigue.
 
@@ -181,15 +181,15 @@ A creature with a swim speed moves through water without making Athletics checks
 
 ### Advanced Uses
 
-The character can swim up vertical surfaces, or swim much faster than normal.  
+The character can swim up vertical surfaces, or swim much faster than normal.
 
-*Athletics up Waterfall*: This use of the skill allows a character to swim an angled or vertical surface, as long as he or she remains completely or mostly immersed in water. Other examples might include swimming up a whirlpool or an incredibly large wave.  
+_Athletics up Waterfall_: This use of the skill allows a character to swim an angled or vertical surface, as long as he or she remains completely or mostly immersed in water. Other examples might include swimming up a whirlpool or an incredibly large wave.
 
 | Circumstance   | Check Modifier |
 | -------------- | -------------- |
-| Speed swimming | -20           |
+| Speed swimming | -20            |
 
-*Speed Swimming*: By taking a -20 penalty on the check, a character can swim his or her speed as a move-equivalent action, or double his or her speed as a full-round action.
+_Speed Swimming_: By taking a -20 penalty on the check, a character can swim his or her speed as a move-equivalent action, or double his or her speed as a full-round action.
 
 ## Unlocks
 
@@ -215,6 +215,6 @@ You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill
 
 **10 Ranks**: You gain a swim speed (though you do not gain the +8 racial bonus on Athletics checks to swim) equal to your base speed in water with a swimming DC of 15 or lower, or 10 feet in all other water.
 
-**15 Ranks**: You ignore the penalties for using slashing or bludgeoning weapons underwater, as *freedom of movement.*
+**15 Ranks**: You ignore the penalties for using slashing or bludgeoning weapons underwater, as _freedom of movement._
 
 **20 Ranks**: You gain a swim speed equal to your base speed in all water. If you have both hands free, you gain a +8 racial bonus on Athletics checks to swim.

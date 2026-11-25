@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 
 # Leeching Dagger
 
-*Simple light melee weapon.* Cost 10 gp; Dmg 1d3 (S), 1d4 (M); Critical 19-20/x2; Weight 1 lb.; Type Piercing. ^stats
+_Simple light melee weapon._ Cost 10 gp; Dmg 1d3 (S), 1d4 (M); Critical 19-20/x2; Weight 1 lb.; Type Piercing. ^stats
 
 This dagger has a long, thin blade and a wider than normal handle, which unbalances the weapon enough to make throwing it impossible. At the base of the blade is a hollow “fang” that runs down into the dagger’s handle, which is also hollow and holds a removable glass vacuum tube.
 

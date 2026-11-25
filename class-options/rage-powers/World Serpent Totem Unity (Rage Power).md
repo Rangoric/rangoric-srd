@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # World Serpent Totem Unity
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su)._
 
 While raging, the barbarian doubles her fast movement bonus to land speed and cannot be knocked [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]]. She also doubles her world serpent totem insight bonus to AC against attack rolls made by an outsider or aberration to confirm a critical hit against her.
 

@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This draught of liquid grants the drinker the ability to tumble about, avoiding attacks and moving carefully across nearly any surface, granting a +10 competence bonus on [[rangoric-srd/skills/Acrobatics|Acrobatics]] checks for 1 hour.
 
-Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*; Price 250 gp; Cost 125 gp.
+Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_; Price 250 gp; Cost 125 gp.

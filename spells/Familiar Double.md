@@ -16,8 +16,8 @@ tags: [rangoric, rangoric/spell]
 
 # Familiar Double
 
-*Illusion (Shadow)*
+_Illusion (Shadow)_
 
-  - **Level**: Wit 7
+- **Level**: Wit 7
 
-This spell functions as *[[rangoric-srd/spells/Project Image|project image]]*, except the image appears in your familiar's square and moves when your familiar moves.
+This spell functions as _[[rangoric-srd/spells/Project Image|project image]]_, except the image appears in your familiar's square and moves when your familiar moves.

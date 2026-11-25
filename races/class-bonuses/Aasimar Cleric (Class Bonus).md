@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Aasimar Cleric
 
-*An [[rangoric-srd/races/Aasimar|aasimar]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Cleric#^cleric-class-bonuses|cleric]] level.*
+_An [[rangoric-srd/races/Aasimar|aasimar]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Cleric#^cleric-class-bonuses|cleric]] level._
 
 Add +1/2 to damage when using positive energy against undead or using [[rangoric-srd/feats/Alignment Channel|Alignment Channel]] to damage evil outsiders.

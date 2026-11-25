@@ -33,7 +33,7 @@ A wordspell can have multiple meta words arranged within it so long as each targ
 **Table: Effect Word Combinations**
 
 | Word Level | One Effect Word | Two Effect Words | Three Effect Words |
-|------------|-----------------|------------------|--------------------|
+| ---------- | --------------- | ---------------- | ------------------ |
 | 0          | 0               | —                | —                  |
 | 1st        | 1               | —                | —                  |
 | 2nd        | 2               | 0/0              | —                  |
@@ -44,4 +44,5 @@ A wordspell can have multiple meta words arranged within it so long as each targ
 | 7th        | 7               | 5/5 or 6/4       | 4/4/4 or 5/3/3     |
 | 8th        | 8               | 6/6 or 7/5       | 5/5/5 or 6/4/4     |
 | 9th        | 9               | 7/7 or 8/5       | 6/6/6 or 7/5/5     |
+
 ^effect-word-combinations

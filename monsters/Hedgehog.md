@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Hedgehog
 
-  - Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 1d8–2 (2 hp)
-  - **Initiative**: +3
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 18 (+3 Dex, +1 natural, +4 size), touch 17, flat-footed 15
-  - **Base Attack**: +0; **CMB**: –1; **CMD**: 4 (8 vs. trip)
-  - **Attack**: —
-  - **Full Attack**: —
-  - **Space/Reach**: 1 ft./0 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-  - **Saves**: Fort +0, Ref +5, Will +1
-  - **Abilities**: Str 1, Dex 16, Con 6, Int 2, Wis 12, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +19
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Athletics)
-  - **Environment**: Tropical or temperate forests
-  - **Organization**: Solitary or pair
-  - **Challenge Rating**: 1/8
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 1d8–2 (2 hp)
+- **Initiative**: +3
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 18 (+3 Dex, +1 natural, +4 size), touch 17, flat-footed 15
+- **Base Attack**: +0; **CMB**: –1; **CMD**: 4 (8 vs. trip)
+- **Attack**: —
+- **Full Attack**: —
+- **Space/Reach**: 1 ft./0 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
+- **Saves**: Fort +0, Ref +5, Will +1
+- **Abilities**: Str 1, Dex 16, Con 6, Int 2, Wis 12, Cha 7
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +19
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Athletics)
+- **Environment**: Tropical or temperate forests
+- **Organization**: Solitary or pair
+- **Challenge Rating**: 1/8
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Hedgehogs are spiny, insectivorous mammals. When threatened, a hedgehog rolls up into a spiny ball as a defense mechanism.
 

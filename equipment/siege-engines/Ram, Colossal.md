@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/siege-engine]
 
 # Ram, Colossal
 
-*Colossal [[rangoric-srd/rules/Siege Engines#Close Assault Siege Engines|close assault siege engine]].* Price 5,000 gp; Dmg 10d6; Critical ×3; Type Bludgeoning; Crew 40; Speed 15 ft.; Hardness 5; Hit Points 625. ^stats
+_Colossal [[rangoric-srd/rules/Siege Engines#Close Assault Siege Engines|close assault siege engine]]._ Price 5,000 gp; Dmg 10d6; Critical ×3; Type Bludgeoning; Crew 40; Speed 15 ft.; Hardness 5; Hit Points 625. ^stats
 
 The most basic close assault weapons are iron-shod logs carried by one or more creatures to combine their strength. A ram can be used to deal damage or to make a Strength check against the target's [[rangoric-srd/rules/Siege Engines#Gates|break DC]].
 
@@ -43,4 +43,3 @@ The most basic close assault weapons are iron-shod logs carried by one or more c
 **Gallery Ram**: This is a ram suspended from chains or ropes within a [[rangoric-srd/equipment/siege-engines/Gallery, Large|gallery]]. A gallery ram does not require a charge action for full momentum. In addition, adding tethers to the back end of the ram allows four additional crew members to assist in using the ram.
 
 **Hit Points**: Rams have a hardness of 5 and hit points based on their size. A Large ram has 30 hit points, a Huge one has 120 hit points, a Gargantuan one has 320 hit points, and a Colossal one has 625 hit points. Improvised rams have half the normal hit points.
-

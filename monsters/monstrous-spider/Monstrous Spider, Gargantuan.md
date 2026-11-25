@@ -37,24 +37,24 @@ tags: [rangoric, rangoric/monster]
 
 # Monstrous Spider, Gargantuan
 
-  - Gargantuan Vermin
-  - **Hit Dice**: 16d8+32 (104 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares), climb 20 ft.
-  - **Armor Class**: 19 (–4 size, +3 Dex, +10 natural), touch 9, flat-footed 16
-  - **Base Attack**: +12; **CMB**: +23; **CMD**: 36 (48 vs. trip)
-  - **Attack**: Bite +15 melee (2d8+10 plus poison)
-  - **Full Attack**: Bite +15 melee (2d8+10 plus poison)
-  - **Space/Reach**: 20 ft./15 ft.
-  - **Special Attacks**: Poison, web
-  - **Special Qualities**: Darkvision 60 ft., tremorsense 60 ft., vermin traits
-  - **Saves**: Fort +12, Ref +8, Will +5
-  - **Abilities**: Str 25, Dex 17, Con 14, Int —, Wis 10, Cha 2
-  - **Skills**: Athletics +33\* (+41 climbing), Perception +4\*, Stealth –5\*
-  - **Feats**: —
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary
-  - **Challenge Rating**: 8
-  - **Treasure**: 1/10 coins; 50% goods; 50% items
-  - **Advancement**: 17–31 HD (Gargantuan)
-  - **Level Adjustment**: —
+- Gargantuan Vermin
+- **Hit Dice**: 16d8+32 (104 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares), climb 20 ft.
+- **Armor Class**: 19 (–4 size, +3 Dex, +10 natural), touch 9, flat-footed 16
+- **Base Attack**: +12; **CMB**: +23; **CMD**: 36 (48 vs. trip)
+- **Attack**: Bite +15 melee (2d8+10 plus poison)
+- **Full Attack**: Bite +15 melee (2d8+10 plus poison)
+- **Space/Reach**: 20 ft./15 ft.
+- **Special Attacks**: Poison, web
+- **Special Qualities**: Darkvision 60 ft., tremorsense 60 ft., vermin traits
+- **Saves**: Fort +12, Ref +8, Will +5
+- **Abilities**: Str 25, Dex 17, Con 14, Int —, Wis 10, Cha 2
+- **Skills**: Athletics +33\* (+41 climbing), Perception +4\*, Stealth –5\*
+- **Feats**: —
+- **Environment**: Temperate forests
+- **Organization**: Solitary
+- **Challenge Rating**: 8
+- **Treasure**: 1/10 coins; 50% goods; 50% items
+- **Advancement**: 17–31 HD (Gargantuan)
+- **Level Adjustment**: —

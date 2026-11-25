@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Consecrated
 
-A *consecrated* weapon is attuned to holy places. The weapon does +2d6 points of bonus damage when it’s wielded on holy ground.
+A _consecrated_ weapon is attuned to holy places. The weapon does +2d6 points of bonus damage when it’s wielded on holy ground.
 
-Moderate evocation [good]; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Bless|bless]]*, *[[rangoric-srd/spells/Consecrate|consecrate]]*; Price +2 bonus.
+Moderate evocation [good]; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Consecrate|consecrate]]_; Price +2 bonus.

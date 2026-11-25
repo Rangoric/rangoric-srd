@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Pounce
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “pounce”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “pounce”, on the Special Attacks line.
 
 When a creature with this special attack makes a charge, it can follow with a full attack—including rake attacks if the creature also has the rake ability.

@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Anti-Incorporeal Shell
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 4, Psy 4, Sha 4, Spi 4, Wit 4
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 round
-  - **Range**: 10 ft.
-  - **Area**: 10-ft.-radius emanation centered on you
-  - **Duration**: 1 minute/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Clr 4, Psy 4, Sha 4, Spi 4, Wit 4
+- **Components**: V, S, DF
+- **Casting Time**: 1 round
+- **Range**: 10 ft.
+- **Area**: 10-ft.-radius emanation centered on you
+- **Duration**: 1 minute/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 You bring into being a mobile, hemispherical energy field that incorporeal creatures cannot enter.
 

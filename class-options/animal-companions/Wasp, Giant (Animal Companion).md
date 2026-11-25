@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Wasp, Giant
 
-*An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature ([[rangoric-srd/monsters/Giant Wasp|giant wasp]]).*
+_An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature ([[rangoric-srd/monsters/Giant Wasp|giant wasp]])._
 
 - **Size**: Medium
 - **Speed**: 20 ft., fly 60 ft. (good)

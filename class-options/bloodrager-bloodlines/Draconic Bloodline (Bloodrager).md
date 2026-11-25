@@ -15,20 +15,20 @@ tags: [rangoric, rangoric/class-option]
 
 # Draconic Bloodline (Bloodrager)
 
-*A [[rangoric-srd/classes/Bloodrager#^bloodrager-bloodline|bloodrager bloodline]]. The [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|sorcerer’s draconic bloodline]] shares the name but not the powers.*
+_A [[rangoric-srd/classes/Bloodrager#^bloodrager-bloodline|bloodrager bloodline]]. The [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|sorcerer’s draconic bloodline]] shares the name but not the powers._
 
 At some point in your family’s history, a dragon interbred with your bloodline. Now, the sublime monster’s ancient power fuels your bloodrage.
 
 **Bonus Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics), [[rangoric-srd/feats/Toughness|Toughness]].
 
-**Bonus Spells**: *[[rangoric-srd/spells/Shield|Shield]]* (7th), *[[rangoric-srd/spells/Resist Energy|resist energy]]* (10th), *[[rangoric-srd/spells/Fly|fly]]* (13th), *[[rangoric-srd/spells/Fear|fear]]* (16th).
+**Bonus Spells**: _[[rangoric-srd/spells/Shield|Shield]]_ (7th), _[[rangoric-srd/spells/Resist Energy|resist energy]]_ (10th), _[[rangoric-srd/spells/Fly|fly]]_ (13th), _[[rangoric-srd/spells/Fear|fear]]_ (16th).
 
 ## Bloodline Powers
 
 The power of dragons flows through you and manifests in a number of ways. At 1st level, you must select one of the chromatic or metallic dragon types. Once chosen, this cannot be changed. A number of your bloodline powers deal damage and grant resistances based on your dragon type, as noted below.
 
 | Dragon Type | Energy Type | Breath Shape |
-|-------------|-------------|--------------|
+| ----------- | ----------- | ------------ |
 | Black       | Acid        | 60-foot line |
 | Blue        | Electricity | 60-foot line |
 | Green       | Acid        | 30-foot cone |
@@ -48,6 +48,6 @@ The power of dragons flows through you and manifests in a number of ways. At 1st
 
 **Dragon Wings (Su)**: At 12th level, when entering a bloodrage, you can choose to have leathery wings grow from your back, giving you a fly speed of 60 feet with average maneuverability. At 16th level, your fly speed increases to 80 feet with good maneuverability.
 
-**Dragon Form (Su)**: At 16th level, when entering a bloodrage, you can choose to take the form of your chosen dragon type (as *[[rangoric-srd/spells/Form of the Dragon II|form of the dragon II]]*, but with average or good maneuverability, as you would gain from the dragon wings bloodrage power above).
+**Dragon Form (Su)**: At 16th level, when entering a bloodrage, you can choose to take the form of your chosen dragon type (as _[[rangoric-srd/spells/Form of the Dragon II|form of the dragon II]]_, but with average or good maneuverability, as you would gain from the dragon wings bloodrage power above).
 
 **Power of Wyrms (Su)**: At 20th level, you gain immunity to paralysis, sleep, and damage from your energy type. You also gain blindsense with a range of 60 feet. You have these benefits constantly, even while not bloodraging.

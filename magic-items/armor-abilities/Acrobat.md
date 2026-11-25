@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This armor is normally gaudy in coloration and allows the wearer to flip and tumble like a court jester, granting a +5 competence bonus on [[rangoric-srd/skills/Acrobatics|Acrobatics]] checks. (The armor’s armor check penalty still applies normally.)
 
-Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Cat’s Grace|cat’s grace]]*; Price +3,750 gp.
+Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Cat’s Grace|cat’s grace]]_; Price +3,750 gp.

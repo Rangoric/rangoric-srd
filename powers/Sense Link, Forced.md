@@ -23,6 +23,6 @@ Telepathy \[Mind-Affecting\]
 **Level:** Psion/wilder 2  
 **Saving Throw:** Will negates  
 **Power Resistance:** Yes  
-**Power Points:** 3  
+**Power Points:** 3
 
 As [[rangoric-srd/powers/Sense Link|sense link]], except you can use this power on any creature (willing or unwilling), and this power can’t be augmented.

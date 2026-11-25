@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Sayona
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 17d8+85 (161 hp)
-  - **Initiative**: +5
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 26 (+5 Dex, +1 dodge, +10 natural), touch 16, flat-footed 20
-  - **Base Attack**: +12; **CMB**: +13; **CMD**: 29
-  - **Attack**: Bite +18 melee (2d6+1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]) or claw +18 melee (2d6+1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
-  - **Full Attack**: Bite +18 melee (2d6+1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]) and 2 claws +18 melee (2d6+1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Absorb Blood|Absorb blood]], [[rangoric-srd/monsters/abilities/Blood Drain|blood drain]] (1d4 Con), [[rangoric-srd/monsters/abilities/Fear|fear]] cone (60 ft., DC 23), [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] (1d4 rounds, DC 23), [[rangoric-srd/monsters/abilities/Staggering Gaze|staggering gaze]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Lifesense|lifesense]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5 (see living form), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Create Spawn|create spawn]], [[rangoric-srd/monsters/abilities/Living Form|living form]], [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 30
-  - **Saves**: Fort +10, Ref +12, Will +13
-  - **Abilities**: Str 13, Dex 20, Con —, Int 11, Wis 12, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Imitation|Imitation]] +17, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +16
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
-  - **Environment**: Any land or underground
-  - **Organization**: Solitary or retinue (1d3 plus 2d6 spawn)
-  - **Challenge Rating**: 12
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 17d8+85 (161 hp)
+- **Initiative**: +5
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 26 (+5 Dex, +1 dodge, +10 natural), touch 16, flat-footed 20
+- **Base Attack**: +12; **CMB**: +13; **CMD**: 29
+- **Attack**: Bite +18 melee (2d6+1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]) or claw +18 melee (2d6+1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
+- **Full Attack**: Bite +18 melee (2d6+1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]) and 2 claws +18 melee (2d6+1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Absorb Blood|Absorb blood]], [[rangoric-srd/monsters/abilities/Blood Drain|blood drain]] (1d4 Con), [[rangoric-srd/monsters/abilities/Fear|fear]] cone (60 ft., DC 23), [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] (1d4 rounds, DC 23), [[rangoric-srd/monsters/abilities/Staggering Gaze|staggering gaze]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Lifesense|lifesense]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5 (see living form), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Create Spawn|create spawn]], [[rangoric-srd/monsters/abilities/Living Form|living form]], [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 30
+- **Saves**: Fort +10, Ref +12, Will +13
+- **Abilities**: Str 13, Dex 20, Con —, Int 11, Wis 12, Cha 21
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Imitation|Imitation]] +17, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +16
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
+- **Environment**: Any land or underground
+- **Organization**: Solitary or retinue (1d3 plus 2d6 spawn)
+- **Challenge Rating**: 12
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Occasionally called "weeping vampires" for their ability to cry tears of blood, sayonas are powerful and intelligent undead creatures that hunt mortals to steal from them what they envy most: the ability to exist within living flesh. While they aren't true vampires, similarity between these two creatures creates substantial confusion to those unfamiliar with sayonas. While sayonas and vampires sustain themselves off mortal blood, sayonas don't consume the blood, but rather absorb it through their skin (even when using blood drain), using it to transform their twisted forms back into some semblance of the beauty they had—or believe they had—in life.
 
@@ -69,7 +69,7 @@ Sayonas speak Abyssal, Common and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +17): 3/day—*[[rangoric-srd/spells/Command Undead|command undead]]* (DC 17), *[[rangoric-srd/spells/Dominate Person|dominate person]]* (DC 20), *[[rangoric-srd/spells/Fog Cloud|fog cloud]]*, *[[rangoric-srd/spells/Gaseous Form|gaseous form]]*, *[[rangoric-srd/spells/Invisibility|invisibility]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +17): 3/day—_[[rangoric-srd/spells/Command Undead|command undead]]_ (DC 17), _[[rangoric-srd/spells/Dominate Person|dominate person]]_ (DC 20), _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_, _[[rangoric-srd/spells/Gaseous Form|gaseous form]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_.
 
 **[[rangoric-srd/monsters/abilities/Absorb Blood|Absorb Blood]] (Su)**: A sayona adjacent to a bleeding creature automatically accelerates the bleeding, dealing 1 point of Con damage to that creature once per round on its turn and absorbing the blood through its skin.
 

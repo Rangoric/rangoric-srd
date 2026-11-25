@@ -23,15 +23,15 @@ tags: [rangoric, rangoric/spell]
 
 # Thought Shield III
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Psy 4
-  - **Components**: V
-  - **Casting Time**: 1 immediate action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Psy 4
+- **Components**: V
+- **Casting Time**: 1 immediate action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-This functions as *[[rangoric-srd/spells/Thought Shield I|thought shield I]]*, but the circumstance bonus on Will saves to resist mind-affecting effects increases to +8. In addition, any creature that tries to read your thoughts while this spell lasts must succeed at a Will save or be stunned for 1 round. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].
+This functions as _[[rangoric-srd/spells/Thought Shield I|thought shield I]]_, but the circumstance bonus on Will saves to resist mind-affecting effects increases to +8. In addition, any creature that tries to read your thoughts while this spell lasts must succeed at a Will save or be stunned for 1 round. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].

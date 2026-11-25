@@ -21,8 +21,8 @@ tags: [rangoric, rangoric/magic-item]
 
 # Knight's Pennon, Honor
 
-This narrow cloth flag is made to attach to the end of a knight's lance, though it can be flown from a spear, polearm, or even a staff. It has no effect if not mounted appropriately. A *knight's pennon* grants different benefits depending on its color and design.
+This narrow cloth flag is made to attach to the end of a knight's lance, though it can be flown from a spear, polearm, or even a staff. It has no effect if not mounted appropriately. A _knight's pennon_ grants different benefits depending on its color and design.
 
-**Honor**: The gold *knight's pennon of honor* bestows *[[rangoric-srd/spells/Protection from Evil|protection from evil]]* upon the bearer once per day.
+**Honor**: The gold _knight's pennon of honor_ bestows _[[rangoric-srd/spells/Protection from Evil|protection from evil]]_ upon the bearer once per day.
 
-Moderate abjuration or transmutation; CL 6th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Protection from Evil|protection from evil]]*; Price 2,200 gp; Cost 1,100 gp; Weight 1 lb.
+Moderate abjuration or transmutation; CL 6th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Protection from Evil|protection from evil]]_; Price 2,200 gp; Cost 1,100 gp; Weight 1 lb.

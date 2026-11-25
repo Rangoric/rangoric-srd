@@ -37,27 +37,27 @@ tags: [rangoric, rangoric/monster]
 
 # Erlmantle
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 1d8+2 (6 hp)
-  - **Initiative**: +0
-  - **Speed**: 15 ft. (3 squares), climb 8 ft.
-  - **Armor Class**: 13 (+1 size, +2 natural), touch 11, flat-footed 13
-  - **Base Attack**: +1; **CMB**: +1; **CMD**: 12
-  - **Attack**: Tendril +1 melee (1d2+1)
-  - **Full Attack**: 2 tendrils +1 melee (1d2+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Entangle, gaseous protection, [[rangoric-srd/monsters/abilities/Grab|improved grab]]
-  - **Special Qualities**: Barkskin, [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 30 ft., camouflage, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|plant traits]]
-  - **Saves**: Fort +4, Ref +1, Will –1
-  - **Abilities**: Str 13, Dex 12, Con 14, Int 3, Wis 8, Cha 11
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Any forest or land
-  - **Organization**: Solitary
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Neutral
-  - **Advancement**: 3–6 HD (Medium); 7–10 HD (Large)
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 1d8+2 (6 hp)
+- **Initiative**: +0
+- **Speed**: 15 ft. (3 squares), climb 8 ft.
+- **Armor Class**: 13 (+1 size, +2 natural), touch 11, flat-footed 13
+- **Base Attack**: +1; **CMB**: +1; **CMD**: 12
+- **Attack**: Tendril +1 melee (1d2+1)
+- **Full Attack**: 2 tendrils +1 melee (1d2+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Entangle, gaseous protection, [[rangoric-srd/monsters/abilities/Grab|improved grab]]
+- **Special Qualities**: Barkskin, [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 30 ft., camouflage, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|plant traits]]
+- **Saves**: Fort +4, Ref +1, Will –1
+- **Abilities**: Str 13, Dex 12, Con 14, Int 3, Wis 8, Cha 11
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Any forest or land
+- **Organization**: Solitary
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Neutral
+- **Advancement**: 3–6 HD (Medium); 7–10 HD (Large)
 
 Someone once described the erlmantles as “a mobile collection of brambles, rosebushes, and ivies with the cunning and moodiness of a cat, the loyalty of a dog, and the ferocity of a cornered wolf when threatened.” While that hardly speaks to the true nature of the erlmantle, it serves as a good general introduction to this unique creature.
 
@@ -71,7 +71,7 @@ Erlmantles need sunlight and water as their primary foodstuffs, and they sometim
 
 Under normal circumstances, an erlmantle avoids combat and attempts to hide among underbrush. If it has bonded with another creature, however, it will defend that creature using every ability it has.
 
-**Barkskin (Ex)**: If asked or if it chooses to do so, the erlmantle spreads its vines and wraps more fully around its bearer. This provides a lesser version of the *[[rangoric-srd/spells/Barkskin|barkskin]]* spell, its AC bonus equivalent only to the erlmantle’s hit dice.
+**Barkskin (Ex)**: If asked or if it chooses to do so, the erlmantle spreads its vines and wraps more fully around its bearer. This provides a lesser version of the _[[rangoric-srd/spells/Barkskin|barkskin]]_ spell, its AC bonus equivalent only to the erlmantle’s hit dice.
 
 **Blindsight (Ex)**: All erlmantles register things by movement, not sight. The only thing an erlmantle tends to be more aware of at all times is the person or being it bonds with as a bearer.
 
@@ -79,7 +79,7 @@ Under normal circumstances, an erlmantle avoids combat and attempts to hide amon
 
 **Cold Resistance 10 (Ex)**: All erlmantles have very viscous sap veins and thick husks along their vines, no matter what mixture of plants make up their construction. Thus, they are hardier and can continue their activities through winter, given their resistance to cold.
 
-**Entangle (Ex)**: Once the erlmantle has sensed a victim, the entire plant becomes active and the leaves and tendrils of the vine all act as if under the influence of an *[[rangoric-srd/spells/Entangle|entangle]]* spell cast by a 1st-level druid. It does not stay attached to its bearer while using this power, as its own structure is the core of the entangling mass.
+**Entangle (Ex)**: Once the erlmantle has sensed a victim, the entire plant becomes active and the leaves and tendrils of the vine all act as if under the influence of an _[[rangoric-srd/spells/Entangle|entangle]]_ spell cast by a 1st-level druid. It does not stay attached to its bearer while using this power, as its own structure is the core of the entangling mass.
 
 **Gaseous Protection (Ex)**: Once a week, the erlmantle can increase its oxygen output to a great degree for two minutes total, enveloping its wearer in pure oxygen and dissipating any gaseous or vaporous attacks. This adds a +2 circumstance bonus to any saves against such gases or provides a save where the bearer might not have one otherwise.
 

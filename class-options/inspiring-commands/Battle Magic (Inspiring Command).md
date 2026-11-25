@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Battle Magic
 
-*A [[rangoric-srd/prestige-classes/Battle Herald#^battle-herald-inspiring-command|battle herald inspiring command]] (Ex); it affects only a certain number of allies.*
+_A [[rangoric-srd/prestige-classes/Battle Herald#^battle-herald-inspiring-command|battle herald inspiring command]] (Ex); it affects only a certain number of allies._
 
 One ally gains a bonus on caster level checks and [[rangoric-srd/rules/Concentration (Check)|concentration checks]] equal to the battle herald's command bonus.

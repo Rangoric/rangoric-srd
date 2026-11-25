@@ -29,13 +29,13 @@ tags: [rangoric, rangoric/spell]
 
 # Paragon Surge
 
-*Transmutation (Polymorph)*
+_Transmutation (Polymorph)_
 
-  - **Level**: Alc 3, Blr 3, Clr 3, Mag 4, Med 3, Pal 4, Sor/Wiz 3, Wit 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal (half-elf only)
-  - **Duration**: 1 minute/level
+- **Level**: Alc 3, Blr 3, Clr 3, Mag 4, Med 3, Pal 4, Sor/Wiz 3, Wit 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal (half-elf only)
+- **Duration**: 1 minute/level
 
 You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind simultaneously, and transforming into a paragon of both races, something greater than elf or human alone. Unlike with most polymorph effects, your basic form does not change, so you keep all extraordinary and supernatural abilities of your half-elven form as well as all of your gear.
 

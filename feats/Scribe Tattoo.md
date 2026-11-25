@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, item-creation]
 
 # Scribe Tattoo
 
-You can create psionic tattoos, which store powers within their designs.  
+You can create psionic tattoos, which store powers within their designs.
 
 Prerequisite: Manifester level 3rd.
 

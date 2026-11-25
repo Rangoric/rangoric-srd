@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Gun Tank
 
-*A [[rangoric-srd/classes/Gunslinger#^gunslinger-archetypes|gunslinger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Gunslinger#^gunslinger-archetypes|gunslinger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Gunslingers usually don't use heavy armor, but there are a few who use and modify their armor to protect themselves from both traditional weapons and gunfire. These gun tanks trundle into battle with barrels blazing, dealing out punishment with their firearms while knowing few can penetrate their hard protective shells.
 
@@ -28,7 +28,7 @@ Gunslingers usually don't use heavy armor, but there are a few who use and modif
 
 **Deeds**: A gun tank swaps a pair of deeds for the following. The new deed descriptions include information on which deeds from the gunslinger [[rangoric-srd/classes/Gunslinger#^gunslinger-deeds|deeds]] class feature these new deeds replace.
 
-**Gun Tank's Resolve (Ex)**: At 1st level, the gun tank can shrug off the most serious of attacks. When the gun tank is wearing medium or heavy armor and is subject to a critical hit or [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]], she can spend 1 grit point as an immediate action to attempt to negate the critical hit or sneak attack damage. At 1st level, she has a 25% chance of doing so. At 10th level, the chance increases to 50%. At 15th level, the chance increases to 75%. While a gun tank's resolve does not stack with the *[[rangoric-srd/magic-items/armor-abilities/Fortification|fortification]]* armor special ability, it does work in concert with that armor special ability or similar effects, so a gun tank can use this ability even after the *armor of fortification* has failed to negate the critical hit or sneak attack damage. This deed replaces the [[rangoric-srd/class-options/deeds/Gunslinger's Dodge (Deed)|gunslinger's dodge]] deed.
+**Gun Tank's Resolve (Ex)**: At 1st level, the gun tank can shrug off the most serious of attacks. When the gun tank is wearing medium or heavy armor and is subject to a critical hit or [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]], she can spend 1 grit point as an immediate action to attempt to negate the critical hit or sneak attack damage. At 1st level, she has a 25% chance of doing so. At 10th level, the chance increases to 50%. At 15th level, the chance increases to 75%. While a gun tank's resolve does not stack with the _[[rangoric-srd/magic-items/armor-abilities/Fortification|fortification]]_ armor special ability, it does work in concert with that armor special ability or similar effects, so a gun tank can use this ability even after the _armor of fortification_ has failed to negate the critical hit or sneak attack damage. This deed replaces the [[rangoric-srd/class-options/deeds/Gunslinger's Dodge (Deed)|gunslinger's dodge]] deed.
 
 **Gun Tank's Resilience (Ex)**: At 15th level, when the gun tank has at least 1 grit point and makes a successful Fortitude saving throw against an attack that would deal half damage or have a partial effect, she takes no damage or other effects from that attack. Furthermore, she gains a +2 bonus on all saving throws against [[rangoric-srd/rules/Special Abilities and Conditions#Fear|fear]] and mind-affecting effects. This deed replaces the [[rangoric-srd/class-options/deeds/Evasive (Gunslinger Deed)|evasive]] deed.
 

@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Animate Objects
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Brd 6, Chaos 6, Clr 6, Occ 6, Psy 6, Skd 6, Wit 6
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Targets**: One Small object per caster level; see text
-  - **Duration**: 1 round/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Brd 6, Chaos 6, Clr 6, Occ 6, Psy 6, Skd 6, Wit 6
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Targets**: One Small object per caster level; see text
+- **Duration**: 1 round/level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You imbue inanimate objects with mobility and a semblance of life. Each such animated object then immediately attacks whomever or whatever you initially designate.
 

@@ -25,17 +25,17 @@ tags: [rangoric, rangoric/constellation]
 
 # The Fan
 
-*[[rangoric-srd/rules/star magic/Star Magic|Constellation]]*
+_[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 
-  - **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Hope|Hope]], [[rangoric-srd/rules/star magic/stars/Star of Life|Life]]
-  - **Call Level**: 3rd ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: 1 week or until its next Profession check
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Hope|Hope]], [[rangoric-srd/rules/star magic/stars/Star of Life|Life]]
+- **Call Level**: 3rd ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: 1 week or until its next Profession check
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 The target's next [[rangoric-srd/skills/Profession|Profession]] check for a week's work earns 1 gp per point of the check's result.
 

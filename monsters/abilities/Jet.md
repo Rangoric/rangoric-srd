@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Jet
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “jet (200 ft.)”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “jet (200 ft.)”, on the Special Qualities line.
 
 The creature can swim backward as a full-round action at the listed speed. It must move in a straight line while jetting, and does not provoke attacks of opportunity when it does so.

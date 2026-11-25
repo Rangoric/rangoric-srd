@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Expert Loading
 
-*A [[rangoric-srd/classes/Gunslinger#^gunslinger-deeds|gunslinger deed]] (Ex), 11th level.*
+_A [[rangoric-srd/classes/Gunslinger#^gunslinger-deeds|gunslinger deed]] (Ex), 11th level._
 
 At 11th level, whenever the gunslinger rolls a misfire with a gun that has the [[rangoric-srd/rules/conditions/Broken (Condition)|broken]] condition, she can spend 1 grit point to keep the gun from [[rangoric-srd/equipment/Firearms#Misfires|exploding]], though it retains the broken condition.

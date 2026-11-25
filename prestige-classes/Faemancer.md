@@ -55,18 +55,18 @@ The faemancer’s class skills (and the key ability for each skill) are [[rangor
 
 **Table: The Faemancer** ^table-the-faemancer
 
-| Level | Special | Spells per Day: 1st | 2nd | 3rd | 4th |
-| --- | --- | --- | --- | --- | --- |
-| 1st | Fey Companion (Grig), Life Bond | 1 | — | — | — |
-| 2nd | Fey Companion Advancement, Fey Friend | 2 | 0 | — | — |
-| 3rd | Domain, Luck of the Fey | 2 | 1 | — | — |
-| 4th | Fey Companion Adv., Fey Companion (Pixie) | 3 | 2 | 0 | — |
-| 5th | Spirit Bond | 3 | 2 | 1 | — |
-| 6th | Fey Companion Advancement | 3 | 3 | 2 | 0 |
-| 7th | Domain | 4 | 3 | 2 | 1 |
-| 8th | Fey Companion Advancement | 4 | 3 | 3 | 2 |
-| 9th | Domain | 4 | 4 | 3 | 2 |
-| 10th | Mutual Bond | 4 | 4 | 3 | 3 |
+| Level | Special                                   | Spells per Day: 1st | 2nd | 3rd | 4th |
+| ----- | ----------------------------------------- | ------------------- | --- | --- | --- |
+| 1st   | Fey Companion (Grig), Life Bond           | 1                   | —   | —   | —   |
+| 2nd   | Fey Companion Advancement, Fey Friend     | 2                   | 0   | —   | —   |
+| 3rd   | Domain, Luck of the Fey                   | 2                   | 1   | —   | —   |
+| 4th   | Fey Companion Adv., Fey Companion (Pixie) | 3                   | 2   | 0   | —   |
+| 5th   | Spirit Bond                               | 3                   | 2   | 1   | —   |
+| 6th   | Fey Companion Advancement                 | 3                   | 3   | 2   | 0   |
+| 7th   | Domain                                    | 4                   | 3   | 2   | 1   |
+| 8th   | Fey Companion Advancement                 | 4                   | 3   | 3   | 2   |
+| 9th   | Domain                                    | 4                   | 4   | 3   | 2   |
+| 10th  | Mutual Bond                               | 4                   | 4   | 3   | 3   |
 
 ###### Class Features
 

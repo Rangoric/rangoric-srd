@@ -18,11 +18,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Telekinetic Finesse
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Aether Element|aether]]
-  - **Type**: utility (Sp)
-  - **Level**: 1
-  - **Burn**: 0
+- **Element**: [[rangoric-srd/class-options/elements/Aether Element|aether]]
+- **Type**: utility (Sp)
+- **Level**: 1
+- **Burn**: 0
 
 You can perform any sort of fine manipulation you choose within close range, including attempting [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] and [[rangoric-srd/skills/Engineering|Engineering]] checks.

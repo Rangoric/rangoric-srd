@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/magic-item]
 
 A talisman works as described under [[rangoric-srd/magic-items/Magic Item Basics#^talismans|Talismans]] in the rules for magic items on the body. A greater talisman works as a lesser talisman of the same type, but lasts far longer: it can give its benefit once per day.
 
-The first time the wearer falls at least 5 feet, he is automatically affected by *[[rangoric-srd/spells/Feather Fall|feather fall]]*.
+The first time the wearer falls at least 5 feet, he is automatically affected by _[[rangoric-srd/spells/Feather Fall|feather fall]]_.
 
-Faint transmutation; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Feather Fall|feather fall]]*; Price 500 gp; Cost 250 gp; Weight 1 lb.
+Faint transmutation; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Feather Fall|feather fall]]_; Price 500 gp; Cost 250 gp; Weight 1 lb.

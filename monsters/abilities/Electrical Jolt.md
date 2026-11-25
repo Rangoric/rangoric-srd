@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Electrical Jolt
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “electrical jolt”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “electrical jolt”, on the Special Qualities line.
 
 Every time a creature strikes a sard with a metal melee weapon, arcs of electricity deal 1d10 points of damage to the attacker. The [[rangoric-srd/monsters/Sard|sard]] has it.

@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Fossegrim
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]] (Aquatic)
-  - **Hit Dice**: 9d6+19 (41 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares), swim 40 ft.; water walk
-  - **Armor Class**: 18 (+3 Dex, +1 dodge, +4 natural), touch 14, flat-footed 14
-  - **Base Attack**: +4; **CMB**: +4; **CMD**: 17
-  - **Attack**: Slam +8 melee (2d6)
-  - **Full Attack**: 2 slams +8 melee (2d6)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Drowning Touch|Drowning touch]] (DC 14), [[rangoric-srd/monsters/abilities/Enchanting Music|enchanting music]] (DC 19), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Transparency|transparency]], [[rangoric-srd/monsters/abilities/Treasure Form|treasure form]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron
-  - **Saves**: Fort +5, Ref +9, Will +8
-  - **Abilities**: Str 10, Dex 17, Con 15, Int 12, Wis 14, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +17, Perform (sing) +10, Perform (string) +21, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +10, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +15
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Cold or temperate water (waterfalls)
-  - **Organization**: Solitary
-  - **Challenge Rating**: 4
-  - **Treasure**: Standard (mwk harp or violin, other treasure)
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]] (Aquatic)
+- **Hit Dice**: 9d6+19 (41 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares), swim 40 ft.; water walk
+- **Armor Class**: 18 (+3 Dex, +1 dodge, +4 natural), touch 14, flat-footed 14
+- **Base Attack**: +4; **CMB**: +4; **CMD**: 17
+- **Attack**: Slam +8 melee (2d6)
+- **Full Attack**: 2 slams +8 melee (2d6)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Drowning Touch|Drowning touch]] (DC 14), [[rangoric-srd/monsters/abilities/Enchanting Music|enchanting music]] (DC 19), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Transparency|transparency]], [[rangoric-srd/monsters/abilities/Treasure Form|treasure form]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron
+- **Saves**: Fort +5, Ref +9, Will +8
+- **Abilities**: Str 10, Dex 17, Con 15, Int 12, Wis 14, Cha 21
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +17, Perform (sing) +10, Perform (string) +21, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +10, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +15
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Cold or temperate water (waterfalls)
+- **Organization**: Solitary
+- **Challenge Rating**: 4
+- **Treasure**: Standard (mwk harp or violin, other treasure)
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Pale and possessing unnatural beauty, fossegrims are wicked fey who haunt idyllic waterfalls, where they lure the unsuspecting near with song and the promise of treasure, only to drown them. Well built and elflike in appearance, fossegrims are gifted musicians, and their lairs often echo with the sound of bewitching music. They are never without their enchanting instruments.
 
@@ -68,7 +68,7 @@ Fossegrims speak Common and Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +14): Constant—*[[rangoric-srd/spells/Water Walk|water walk]]*; 3/day—*[[rangoric-srd/spells/Hydraulic Torrent|hydraulic torrent]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +14): Constant—_[[rangoric-srd/spells/Water Walk|water walk]]_; 3/day—_[[rangoric-srd/spells/Hydraulic Torrent|hydraulic torrent]]_.
 
 **[[rangoric-srd/monsters/abilities/Drowning Touch|Drowning Touch]] (Su)**: A fossegrim can flood the lungs of a creature that is willing, is [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]], is affected by its enchanted music ability, touches it while it's in treasure form, or is touched by it (traditionally by kissing the creature on the lips). If the target cannot breathe water, it cannot hold its breath and immediately begins to drown slowly. On its turn, the target can attempt a DC 16 Fortitude save to cough up this water; if it fails, it falls [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] at 0 hp. On the next round, a fallen target must attempt another DC 16 Fortitude save, dropping to -1 hit points and dying if it fails; on the next round it must attempt to save again or lose 1d6 hit points. On the first successful save, the water clears from the target's lungs and the target stabilizes. The save DC is Constitution-based.
 

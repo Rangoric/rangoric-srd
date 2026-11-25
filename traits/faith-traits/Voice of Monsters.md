@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Religion Traits|religion trait]].
 
-Your faith leads you to see the power and wonder in even the most horrible abominations. Once per day, you can cast *[[rangoric-srd/spells/Speak with Animals|speak with animals]]*. When you cast this spell, it can affect animals (as normal) as well as aberrations and magical beasts with an Intelligence of 2 or lower.
+Your faith leads you to see the power and wonder in even the most horrible abominations. Once per day, you can cast _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_. When you cast this spell, it can affect animals (as normal) as well as aberrations and magical beasts with an Intelligence of 2 or lower.

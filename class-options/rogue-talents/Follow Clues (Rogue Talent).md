@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Follow Clues
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex).*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex)._
 
 A rogue with this talent can use Perception to follow tracks as per the Fieldcraft skill.

@@ -15,12 +15,12 @@ One of the [[rangoric-srd/races/prestige-races/Prestige Races|prestige races]]; 
 
 The Focus of the Seersighted develops a creature’s innate yet repressed divination abilities. This focus shares initial evolutionary steps with the Focus of the Mind and the [[rangoric-srd/races/prestige-races/Focus of the Fey|Focus of the Fey]]. Standard XP penalties apply if a character advances to the second step in either of these Foci instead of completing this path of the faerie seers.
 
-| Step | Cost | Minimum Level | Prerequisite |
-| --- | --- | --- | --- |
-| [[#Centered Creature\|Centered Creature]] | (shared) | | |
-| [[#Sighted Creature\|Sighted Creature]] | 7,000 XP | 7th | Centered. |
-| [[#Clairvoyant Creature\|Clairvoyant Creature]] | 9,000 XP | 9th | Sighted. |
-| [[#Seersighted Creature\|Seersighted Creature]] | 10,000 XP | 10th | Clairvoyant Creature |
+| Step                                            | Cost      | Minimum Level | Prerequisite         |
+| ----------------------------------------------- | --------- | ------------- | -------------------- |
+| [[#Centered Creature\|Centered Creature]]       | (shared)  |               |                      |
+| [[#Sighted Creature\|Sighted Creature]]         | 7,000 XP  | 7th           | Centered.            |
+| [[#Clairvoyant Creature\|Clairvoyant Creature]] | 9,000 XP  | 9th           | Sighted.             |
+| [[#Seersighted Creature\|Seersighted Creature]] | 10,000 XP | 10th          | Clairvoyant Creature |
 
 ### Centered Creature
 
@@ -36,7 +36,7 @@ This step is shared with the [[rangoric-srd/races/prestige-races/Focus of the Fe
 
 **Details:** A sighted creature has the ability to see creatures that are invisible or fey masked.
 
-**Game Effects:** Gain the spell-like ability of *second sight* for use at will. Also gain a +5 insight bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
+**Game Effects:** Gain the spell-like ability of _second sight_ for use at will. Also gain a +5 insight bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
 
 ### Clairvoyant Creature
 
@@ -48,7 +48,7 @@ This step is shared with the [[rangoric-srd/races/prestige-races/Focus of the Fe
 
 **Details:** A clairvoyant creature has the ability to see and hear faraway places.
 
-**Game Effects:** Gain the spell-like ability *[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]* at will to see faraway locations (as per the spell).
+**Game Effects:** Gain the spell-like ability _[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]_ at will to see faraway locations (as per the spell).
 
 ### Seersighted Creature
 
@@ -60,4 +60,4 @@ This step is shared with the [[rangoric-srd/races/prestige-races/Focus of the Fe
 
 **Details:** The Seersighted creature can peer across planar boundaries and receive information from other powers and sources inside and beyond the fey realm.
 
-**Game Effects:** Gain the spell-like ability to use *[[rangoric-srd/spells/Contact Other Plane|contact other plane]]* three times a day. Gain a +2 insight bonus to AC. Also gain the [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] ability.
+**Game Effects:** Gain the spell-like ability to use _[[rangoric-srd/spells/Contact Other Plane|contact other plane]]_ three times a day. Gain a +2 insight bonus to AC. Also gain the [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] ability.

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Vampire Spawn
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 4d12+3 (29 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 15 (+2 Dex, +3 natural), touch 12, flat-footed 13
-  - **Base Attack**: +2; **CMB**: +5; **CMD**: 17
-  - **Attack**: Slam +5 melee (1d6+4 plus energy drain)
-  - **Full Attack**: Slam +5 melee (1d6+4 plus energy drain)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Blood drain, [[rangoric-srd/spells/Dominate Person|domination]], [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]
-  - **Special Qualities**: +2 [[rangoric-srd/monsters/abilities/Channel Resistance|turn resistance]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/silver, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/spells/Gaseous Form|gaseous form]], [[rangoric-srd/monsters/abilities/Resistance|resistance to cold]] 10 and electricity 10, [[rangoric-srd/spells/Spider Climb|spider climb]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
-  - **Saves**: Fort +1, Ref +5, Will +5
-  - **Abilities**: Str 16, Dex 14, Con —, Int 13, Wis 13, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Craft|Craft]] or [[rangoric-srd/skills/Profession|Profession]] (any one) +7, [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Investigation|Investigation]] +11, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +2, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +11
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative (B)]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes (B)]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception) (B), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (selected Craft or Profession skill), [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Any
-  - **Organization**: Solitary or pack (2–5)
-  - **Challenge Rating**: 4
-  - **Treasure**: Standard
-  - **Alignment**: Always evil (any)
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 4d12+3 (29 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 15 (+2 Dex, +3 natural), touch 12, flat-footed 13
+- **Base Attack**: +2; **CMB**: +5; **CMD**: 17
+- **Attack**: Slam +5 melee (1d6+4 plus energy drain)
+- **Full Attack**: Slam +5 melee (1d6+4 plus energy drain)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Blood drain, [[rangoric-srd/spells/Dominate Person|domination]], [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]
+- **Special Qualities**: +2 [[rangoric-srd/monsters/abilities/Channel Resistance|turn resistance]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/silver, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/spells/Gaseous Form|gaseous form]], [[rangoric-srd/monsters/abilities/Resistance|resistance to cold]] 10 and electricity 10, [[rangoric-srd/spells/Spider Climb|spider climb]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
+- **Saves**: Fort +1, Ref +5, Will +5
+- **Abilities**: Str 16, Dex 14, Con —, Int 13, Wis 13, Cha 14
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Craft|Craft]] or [[rangoric-srd/skills/Profession|Profession]] (any one) +7, [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Investigation|Investigation]] +11, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +2, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +11
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative (B)]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes (B)]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception) (B), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (selected Craft or Profession skill), [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Any
+- **Organization**: Solitary or pack (2–5)
+- **Challenge Rating**: 4
+- **Treasure**: Standard
+- **Alignment**: Always evil (any)
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Vampire spawn are undead creatures that come into being when vampires slay mortals. Like their creators, spawn remain bound to their coffins and to the soil of their graves.
 

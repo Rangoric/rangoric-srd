@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Fate Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Luck Domain|Luck]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Luck Domain|Luck]] domain._
 
 ## Replacement Power
 
@@ -27,7 +27,7 @@ This power replaces the [[rangoric-srd/class-options/domains/Luck Domain#Granted
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 2nd | [[rangoric-srd/spells/Augury\|Augury]] (M, F) | Learns whether an action will be good or bad. |
-| 3rd | Borrow Fortune | Retry attack or check, but do worse on next two. |
+| Level | Spell                                         | Brief Description                                |
+| ----- | --------------------------------------------- | ------------------------------------------------ |
+| 2nd   | [[rangoric-srd/spells/Augury\|Augury]] (M, F) | Learns whether an action will be good or bad.    |
+| 3rd   | Borrow Fortune                                | Retry attack or check, but do worse on next two. |

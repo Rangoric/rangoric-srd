@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Vampire Seducer
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Augmented Humanoid, Human)
-  - **Hit Dice**: 5d8+35 (61 hp)
-  - **Initiative**: +8
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 25 (+4 armor, +4 Dex, +1 dodge, +6 natural), touch 15, flat-footed 20
-  - **Base Attack**: +3; **CMB**: +7; **CMD**: 22
-  - **Attack**: Slam +7 melee (1d4+4 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
-  - **Full Attack**: Slam +7 melee (1d4+4 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bardic Performance|Bardic performance]] 24 rounds/day (countersong, distraction, fascinate \[DC 18\], inspire competence +2, inspire courage +2), [[rangoric-srd/monsters/abilities/Blood Drain|blood drain]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^children-of-the-night|children of the night]], [[rangoric-srd/monsters/abilities/Create Spawn|create spawn]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^dominate|dominate]] (DC 18), [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (2 levels, DC 18)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, bardic knowledge +2, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (dire bat or wolf, beast shape II ), [[rangoric-srd/monsters/vampire/Alternate Vampire#^gaseous-form|gaseous form]], [[rangoric-srd/classes/Bard#^bard-lore-master|lore master]] 1/day, [[rangoric-srd/monsters/vampire/Alternate Vampire#^shadowless|shadowless]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^spider-climb|spider climb]], [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (dance), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic and silver, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10, [[rangoric-srd/monsters/vampire/Alternate Vampire#^weaknesses|vampire weaknesses]]
-  - **Saves**: Fort +7, Ref +10, Will +5 (+4 vs. bardic performance, language-dependent, and sonic)
-  - **Abilities**: Str 18, Dex 18, Con —, Int 15, Wis 12, Cha 22
-  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +22, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Perception|Perception]] +20, Perform (act) +14, Perform (dance) +14, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Society|Society]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +19
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Extra Performance|Extra Performance]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (enchantment), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment), [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other vampires (see [[rangoric-srd/monsters/vampire/Alternate Vampire|Alternate Vampire]])
-  - **Challenge Rating**: 6
-  - **Treasure**: NPC gear (combat gear: feather token (whip), necklace of fireballs (type I), potion of inflict moderate wounds, potion of invisibility, scroll of haste, wand of disguise self (15 charges), smokesticks (2), thunderstones (2); other gear: masterwork chain shirt, animated portrai t, 450 gp)
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Augmented Humanoid, Human)
+- **Hit Dice**: 5d8+35 (61 hp)
+- **Initiative**: +8
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 25 (+4 armor, +4 Dex, +1 dodge, +6 natural), touch 15, flat-footed 20
+- **Base Attack**: +3; **CMB**: +7; **CMD**: 22
+- **Attack**: Slam +7 melee (1d4+4 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
+- **Full Attack**: Slam +7 melee (1d4+4 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bardic Performance|Bardic performance]] 24 rounds/day (countersong, distraction, fascinate \[DC 18\], inspire competence +2, inspire courage +2), [[rangoric-srd/monsters/abilities/Blood Drain|blood drain]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^children-of-the-night|children of the night]], [[rangoric-srd/monsters/abilities/Create Spawn|create spawn]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^dominate|dominate]] (DC 18), [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (2 levels, DC 18)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, bardic knowledge +2, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (dire bat or wolf, beast shape II ), [[rangoric-srd/monsters/vampire/Alternate Vampire#^gaseous-form|gaseous form]], [[rangoric-srd/classes/Bard#^bard-lore-master|lore master]] 1/day, [[rangoric-srd/monsters/vampire/Alternate Vampire#^shadowless|shadowless]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^spider-climb|spider climb]], [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (dance), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic and silver, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10, [[rangoric-srd/monsters/vampire/Alternate Vampire#^weaknesses|vampire weaknesses]]
+- **Saves**: Fort +7, Ref +10, Will +5 (+4 vs. bardic performance, language-dependent, and sonic)
+- **Abilities**: Str 18, Dex 18, Con —, Int 15, Wis 12, Cha 22
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +22, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Perception|Perception]] +20, Perform (act) +14, Perform (dance) +14, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Society|Society]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +19
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Extra Performance|Extra Performance]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (enchantment), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment), [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any
+- **Organization**: Solitary, or with other vampires (see [[rangoric-srd/monsters/vampire/Alternate Vampire|Alternate Vampire]])
+- **Challenge Rating**: 6
+- **Treasure**: NPC gear (combat gear: feather token (whip), necklace of fireballs (type I), potion of inflict moderate wounds, potion of invisibility, scroll of haste, wand of disguise self (15 charges), smokesticks (2), thunderstones (2); other gear: masterwork chain shirt, animated portrai t, 450 gp)
+- **Alignment**: Usually neutral evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A vampire seducer is a [[rangoric-srd/monsters/vampire/Alternate Vampire|human vampire]] with 5 levels of [[rangoric-srd/classes/Bard|bard]]. Vampires trained in the bardic arts couple those skills with their vampiric abilities of domination and persuasion to freely mingle with mortal society.
 
@@ -77,4 +77,4 @@ A vampire seducer speaks Common, Dwarven, and Elven.
 
 **During Combat**: The vampire seducer uses her dominate ability to make others defend her, calls for assistance using her children of the night ability, and attacks with her slams. She uses her necklace of fireballs when she can target multiple opponents.
 
-**Bard spells known** (CL 5th; concentration +11): 2nd (4/day)—*[[rangoric-srd/spells/Darkness|darkness]]*, *[[rangoric-srd/spells/Enthrall|enthrall]]* (DC 20), *[[rangoric-srd/spells/Share Memory|share memory]]* (DC 18); 1st (6/day)—*[[rangoric-srd/spells/Charm Person|charm person]]* (DC 19), *[[rangoric-srd/spells/Ear-Piercing Scream|ear-piercing scream]]*, *[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]* (DC 19), *[[rangoric-srd/spells/Memory Lapse|memory lapse]]* (DC 19); 0 (at will)—*[[rangoric-srd/spells/Daze|daze]]* (DC 18), *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Open-Close|open/close]]*, *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]* (DC 16), *[[rangoric-srd/spells/Unwitting Ally|unwitting ally]]* (DC 18).
+**Bard spells known** (CL 5th; concentration +11): 2nd (4/day)—_[[rangoric-srd/spells/Darkness|darkness]]_, _[[rangoric-srd/spells/Enthrall|enthrall]]_ (DC 20), _[[rangoric-srd/spells/Share Memory|share memory]]_ (DC 18); 1st (6/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 19), _[[rangoric-srd/spells/Ear-Piercing Scream|ear-piercing scream]]_, _[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]_ (DC 19), _[[rangoric-srd/spells/Memory Lapse|memory lapse]]_ (DC 19); 0 (at will)—_[[rangoric-srd/spells/Daze|daze]]_ (DC 18), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Open-Close|open/close]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_ (DC 16), _[[rangoric-srd/spells/Unwitting Ally|unwitting ally]]_ (DC 18).

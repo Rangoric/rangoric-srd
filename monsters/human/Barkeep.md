@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Barkeep
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 4d8+1d10 (23 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 13 (+3 armor), touch 10, flat-footed 13
-  - **Base Attack**: +4; **CMB**: +3; **CMD**: 13
-  - **Attack**: [[rangoric-srd/equipment/weapons/Sap|Sap]] +3 melee (1d6–1 nonlethal) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 melee (1d4–1/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +5 ranged (1d10/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Sap|Sap]] +3 melee (1d6–1 nonlethal); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 melee (1d4–1/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +5 ranged (1d10/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: 
-  - **Saves**: Fort +5, Ref +1, Will +6
-  - **Abilities**: Str 9, Dex 11, Con 10, Int 12, Wis 14, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Linguistics|Linguistics]] +6, [[rangoric-srd/skills/Perception|Perception]] +10, Perform (comedy) +6, Perform (oratory) +6, [[rangoric-srd/skills/Profession|Profession]] (barkeep) +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5, [[rangoric-srd/skills/Society|Society]] +9
-  - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Rapid Reload|Rapid Reload]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Profession \[barkeep\])
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 3
-  - **Treasure**: NPC gear
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 4d8+1d10 (23 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 13 (+3 armor), touch 10, flat-footed 13
+- **Base Attack**: +4; **CMB**: +3; **CMD**: 13
+- **Attack**: [[rangoric-srd/equipment/weapons/Sap|Sap]] +3 melee (1d6–1 nonlethal) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 melee (1d4–1/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +5 ranged (1d10/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Sap|Sap]] +3 melee (1d6–1 nonlethal); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 melee (1d4–1/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +5 ranged (1d10/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**:
+- **Saves**: Fort +5, Ref +1, Will +6
+- **Abilities**: Str 9, Dex 11, Con 10, Int 12, Wis 14, Cha 10
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Linguistics|Linguistics]] +6, [[rangoric-srd/skills/Perception|Perception]] +10, Perform (comedy) +6, Perform (oratory) +6, [[rangoric-srd/skills/Profession|Profession]] (barkeep) +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5, [[rangoric-srd/skills/Society|Society]] +9
+- **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Rapid Reload|Rapid Reload]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Profession \[barkeep\])
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 3
+- **Treasure**: NPC gear
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A barkeep is a [[rangoric-srd/monsters/human/Human|human]] with 4 levels of [[rangoric-srd/classes/Expert|expert]] and 1 level of [[rangoric-srd/classes/Warrior|warrior]]. A barkeep is the proprietor of an alehouse, saloon, or tavern, often with an inn attached. While some are sly, weasel-like, and unfriendly, most are garrulous raconteurs, seeking to entertain their customers with a story or joke and keep them happy and drinking. With patrons from across the world visiting their taverns, most barkeeps know a smattering of other languages to communicate with foreigners from far-away lands.
 

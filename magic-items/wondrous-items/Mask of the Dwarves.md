@@ -22,4 +22,4 @@ Dwarves use their masks to augment their physical toughness with magical resista
 
 This is one of the [[rangoric-srd/magic-items/Racial Masks|racial masks]].
 
-Moderate abjuration; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Spell Resistance|spell resistance]]*; Price 48,000 gp; Cost 24,000 gp + 1,920 XP.
+Moderate abjuration; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Spell Resistance|spell resistance]]_; Price 48,000 gp; Cost 24,000 gp + 1,920 XP.

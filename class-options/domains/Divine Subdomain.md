@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Divine Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Magic Domain|Magic]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Magic Domain|Magic]] domain._
 
 ## Replacement Power
 
@@ -27,9 +27,9 @@ This power replaces the [[rangoric-srd/class-options/domains/Magic Domain#Grante
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 2nd | [[rangoric-srd/spells/Bless Water\|Bless Water]] (M) | Makes holy water. |
-| 5th | [[rangoric-srd/spells/Cleanse\|Cleanse]] | As heal, but only cures 4d8 damage +1/level (max +25). |
-| 7th | [[rangoric-srd/spells/Resurrection\|Resurrection]] | Fully restore dead subject. |
-| 9th | [[rangoric-srd/spells/Miracle\|Miracle]] | Requests a deity’s intercession. |
+| Level | Spell                                                | Brief Description                                      |
+| ----- | ---------------------------------------------------- | ------------------------------------------------------ |
+| 2nd   | [[rangoric-srd/spells/Bless Water\|Bless Water]] (M) | Makes holy water.                                      |
+| 5th   | [[rangoric-srd/spells/Cleanse\|Cleanse]]             | As heal, but only cures 4d8 damage +1/level (max +25). |
+| 7th   | [[rangoric-srd/spells/Resurrection\|Resurrection]]   | Fully restore dead subject.                            |
+| 9th   | [[rangoric-srd/spells/Miracle\|Miracle]]             | Requests a deity’s intercession.                       |

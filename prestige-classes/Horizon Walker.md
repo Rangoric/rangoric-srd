@@ -51,17 +51,17 @@ The horizon walker’s class skills (and the key ability for each skill) are [[r
 
 **Table: The Horizon Walker**
 
-| Level | Special                |
-| ----- | ---------------------- |
-| 1st   | Favored terrain |
-| 2nd   | Favored terrain, terrain mastery |
-| 3rd   | Terrain dominance |
-| 4th   | Favored terrain, terrain mastery |
-| 5th   | Favored terrain |
-| 6th   | Terrain dominance, terrain mastery |
-| 7th   | Favored terrain |
-| 8th   | Favored terrain, terrain mastery |
-| 9th   | Terrain dominance |
+| Level | Special                              |
+| ----- | ------------------------------------ |
+| 1st   | Favored terrain                      |
+| 2nd   | Favored terrain, terrain mastery     |
+| 3rd   | Terrain dominance                    |
+| 4th   | Favored terrain, terrain mastery     |
+| 5th   | Favored terrain                      |
+| 6th   | Terrain dominance, terrain mastery   |
+| 7th   | Favored terrain                      |
+| 8th   | Favored terrain, terrain mastery     |
+| 9th   | Terrain dominance                    |
 | 10th  | Favored terrain, master of all lands |
 
 ###### Class Features
@@ -114,29 +114,29 @@ Mastery of each terrain has additional benefits, outlined below; these benefits 
 
 Each terrain dominance grants additional abilities, detailed below. When the horizon walker gains a new terrain dominance he may, if he prefers, instead pick an additional terrain mastery.
 
-**Astral Plane**: The horizon walker gains a +1 competence bonus on attack and damage rolls against outsiders. He gains *[[rangoric-srd/spells/Dimension Door|dimension door]]* as a spell-like ability a number of times per day equal to 3 + the character's Wisdom modifier (caster level equal to the character's level).
+**Astral Plane**: The horizon walker gains a +1 competence bonus on attack and damage rolls against outsiders. He gains _[[rangoric-srd/spells/Dimension Door|dimension door]]_ as a spell-like ability a number of times per day equal to 3 + the character's Wisdom modifier (caster level equal to the character's level).
 
 **Cold**: The horizon walker gains cold resistance 20 (this replaces the character's cold resistance from mastery of the cold terrain) and a +1 competence bonus on all attack and damage rolls against creatures of the cold subtype.
 
 **Desert**: The horizon walker gains fire resistance 10 and immunity to fatigue.
 
-**Ethereal Plane**: The walker gains *[[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]]* as a spell-like ability once per day (caster level equal to the character's level). He must be at least 7th level before selecting this power.
+**Ethereal Plane**: The walker gains _[[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]]_ as a spell-like ability once per day (caster level equal to the character's level). He must be at least 7th level before selecting this power.
 
-**Forest**: The horizon walker gains *[[rangoric-srd/spells/Hallucinatory Terrain|hallucinatory terrain]]* as a spell-like ability a number of times per day equal to 3 + the character's Wisdom modifier (caster level equal to the character's level). The horizon walker can only use this ability to create illusory forests.
+**Forest**: The horizon walker gains _[[rangoric-srd/spells/Hallucinatory Terrain|hallucinatory terrain]]_ as a spell-like ability a number of times per day equal to 3 + the character's Wisdom modifier (caster level equal to the character's level). The horizon walker can only use this ability to create illusory forests.
 
-**Jungle**: The horizon walker gains *[[rangoric-srd/spells/Charm Monster|charm monster]]* as a spell-like ability a number of times per day equal to 3 + the character's Wisdom modifier (caster level equal to the character's level). This charm only affects animals, magical beasts, and creatures primarily found in the jungle.
+**Jungle**: The horizon walker gains _[[rangoric-srd/spells/Charm Monster|charm monster]]_ as a spell-like ability a number of times per day equal to 3 + the character's Wisdom modifier (caster level equal to the character's level). This charm only affects animals, magical beasts, and creatures primarily found in the jungle.
 
 **Mountain**: The horizon walker gains DR 2/adamantine.
 
 **Plains**: The walker's base speed increases by +10 feet.
 
-**Plane of Air**: The horizon walker gains *[[rangoric-srd/spells/Fly|fly]]* as a spell-like ability a number of times per day equal to 3 + the character's Wisdom modifier (caster level equal to the character's level).
+**Plane of Air**: The horizon walker gains _[[rangoric-srd/spells/Fly|fly]]_ as a spell-like ability a number of times per day equal to 3 + the character's Wisdom modifier (caster level equal to the character's level).
 
 **Plane of Earth**: The horizon walker gains tremorsense with a range of 30 feet. He must be at least 5th level before selecting this plane for this ability.
 
 **Plane of Fire**: The horizon walker gains fire resistance 20 (this replaces the character's fire resistance from mastery of the Plane of Fire terrain) and a +1 competence bonus on all attack and damage rolls against creatures of the fire subtype.
 
-**Plane of Water**: The horizon walker's movements and actions are not hampered when underwater. This allows him to speak, make attacks, and cast spells normally underwater (as if using *[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]*).
+**Plane of Water**: The horizon walker's movements and actions are not hampered when underwater. This allows him to speak, make attacks, and cast spells normally underwater (as if using _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_).
 
 **Plane, aligned**: For the purpose of bypassing damage reduction, the horizon walker's manufactured and natural weapons count as the opposite alignment of his chosen plane of dominance. If his chosen plane has more than one alignment type, he must choose one of those types for this ability. For example, if he selects “Hell” (an evil, lawful plane) for his terrain dominance ability, he may choose “evil” or “lawful,” which means his attacks bypass good or chaotic damage reduction, respectively. Alternatively, if native creatures of his chosen plane are vulnerable to a particular special material (such as cold iron or silver), he may choose to have his weapons bypass damage reduction as if they were that special material. If he selects this plane more than once for his terrain dominance ability, his attacks count as an additional alignment or special material (such as “good and silver” or “chaotic and good”).
 
@@ -144,7 +144,7 @@ Each terrain dominance grants additional abilities, detailed below. When the hor
 
 **Underground**: The horizon walker gains darkvision with a range of 60 feet. If he already has darkvision 60 feet, its range extends by 60 feet.
 
-**Urban**: The horizon walker gains *[[rangoric-srd/spells/Charm Person|charm person]]* as a spell-like ability a number of times per day equal to 3 + the character's Wisdom modifier (caster level equal to the character's level).
+**Urban**: The horizon walker gains _[[rangoric-srd/spells/Charm Person|charm person]]_ as a spell-like ability a number of times per day equal to 3 + the character's Wisdom modifier (caster level equal to the character's level).
 
 **Water**: The horizon walker gains a swim speed of 20 feet. If he already has a natural swim speed, his swim speed increases by +20 feet.
 

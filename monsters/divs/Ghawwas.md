@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ghawwas
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Aquatic, Div, Evil, Extraplanar)
-  - **Hit Dice**: 14d10+84 (161 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares), swim 80 ft.
-  - **Armor Class**: 26 (+2 Dex, +15 natural, –1 size), touch 11, flat-footed 24
-  - **Base Attack**: +14; **CMB**: +22; **CMD**: 34
-  - **Attack**: Bite +21 melee (1d8+7/19–20) or claw +20 melee (1d6+7) or sting +20 melee (1d6+7 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) orspear +20/+15/+10 (2d6+10/×3 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or bite +19 melee (1d8+3/19–20) or sting +18 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or [[rangoric-srd/equipment/weapons/Spear|spear]] +15 ranged (2d6+7/×3 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: Bite +21 melee (1d8+7/19–20) and 2 claws +20 melee (1d6+7) and sting +20 melee (1d6+7 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) orspear +20/+15/+10 (2d6+10/×3 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and bite +19 melee (1d8+3/19–20) and sting +18 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Poison|poison]]); or [[rangoric-srd/equipment/weapons/Spear|spear]] +15 ranged (2d6+7/×3 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Boiling Sea|Boiling sea]], [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect good, detect magic, [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Rough Hide|rough hide]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron and good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and electricity 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
-  - **Saves**: Fort +10, Ref +13, Will +11
-  - **Abilities**: Str 24, Dex 15, Con 23, Int 12, Wis 15, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +32, [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +19, [[rangoric-srd/skills/Knowledge|Knowledge]] +18, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +15
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
-  - **Environment**: Any (a neutral evil-aligned plane: [[rangoric-srd/rules/planes/Abaddon|Abaddon]])
-  - **Organization**: Solitary
-  - **Challenge Rating**: 10
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Aquatic, Div, Evil, Extraplanar)
+- **Hit Dice**: 14d10+84 (161 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares), swim 80 ft.
+- **Armor Class**: 26 (+2 Dex, +15 natural, –1 size), touch 11, flat-footed 24
+- **Base Attack**: +14; **CMB**: +22; **CMD**: 34
+- **Attack**: Bite +21 melee (1d8+7/19–20) or claw +20 melee (1d6+7) or sting +20 melee (1d6+7 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) orspear +20/+15/+10 (2d6+10/×3 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or bite +19 melee (1d8+3/19–20) or sting +18 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or [[rangoric-srd/equipment/weapons/Spear|spear]] +15 ranged (2d6+7/×3 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: Bite +21 melee (1d8+7/19–20) and 2 claws +20 melee (1d6+7) and sting +20 melee (1d6+7 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) orspear +20/+15/+10 (2d6+10/×3 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and bite +19 melee (1d8+3/19–20) and sting +18 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Poison|poison]]); or [[rangoric-srd/equipment/weapons/Spear|spear]] +15 ranged (2d6+7/×3 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Boiling Sea|Boiling sea]], [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect good, detect magic, [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Rough Hide|rough hide]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron and good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and electricity 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
+- **Saves**: Fort +10, Ref +13, Will +11
+- **Abilities**: Str 24, Dex 15, Con 23, Int 12, Wis 15, Cha 14
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +32, [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +19, [[rangoric-srd/skills/Knowledge|Knowledge]] +18, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +15
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
+- **Environment**: Any (a neutral evil-aligned plane: [[rangoric-srd/rules/planes/Abaddon|Abaddon]])
+- **Organization**: Solitary
+- **Challenge Rating**: 10
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Full of poison and treachery, ghawwas foul the seas and seek to bring ruin to those who dwell there. Ghawwas resemble a mixture of hulking humanoid, prehistoric fish, and poisonous bottom-feeder. While most ghawwas live in salt water, they sometimes teleport to oases to defile them or suck them dry. Although they see all mortals as enemies, ghawwas bear a particular grudge against peaceable, water-breathing creatures such as merfolk and locathah.
 
@@ -72,10 +72,10 @@ Ghawwas speak Abyssal, Aquan, Celestial and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +14): Constant—*[[rangoric-srd/spells/Detect Good|detect good]]*, *[[rangoric-srd/spells/Detect Magic|detect magic]]*; At will—*[[rangoric-srd/spells/Control Water|control water]]*, *[[rangoric-srd/spells/Curse Water|curse water]]*, *[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]*, *[[rangoric-srd/spells/Dimension Door|dimension door]]*; 3/day—*[[rangoric-srd/spells/Hallucinatory Terrain|hallucinatory terrain]]* (DC 16), *[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]* (DC 15), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 6, 1 pairaka 60%), *[[rangoric-srd/spells/Quench|quench]]* (DC 15).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +14): Constant—_[[rangoric-srd/spells/Detect Good|detect good]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_; At will—_[[rangoric-srd/spells/Control Water|control water]]_, _[[rangoric-srd/spells/Curse Water|curse water]]_, _[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_, _[[rangoric-srd/spells/Dimension Door|dimension door]]_; 3/day—_[[rangoric-srd/spells/Hallucinatory Terrain|hallucinatory terrain]]_ (DC 16), _[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_ (DC 15), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 6, 1 pairaka 60%), _[[rangoric-srd/spells/Quench|quench]]_ (DC 15).
 
 **[[rangoric-srd/monsters/abilities/Boiling Sea|Boiling Sea]] (Su)**: As a standard action, a ghawwas can cause the waters around it to boil. Any creature within 50 feet of the ghawwas, within the same body of water, and at least half submerged takes 6d6 points of fire damage (DC 23 Fortitude save for half). The save DC is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Ghawwas Venom|Ghawwas Venom]]: Sting—injury; *save* Fort DC 23; *frequency* 1/round for 6 rounds; *effect* 1d6 Str damage; *cure* 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Ghawwas Venom|Ghawwas Venom]]: Sting—injury; _save_ Fort DC 23; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Str damage; _cure_ 2 consecutive saves.
 
 **[[rangoric-srd/monsters/abilities/Rough Hide|Rough Hide]] (Ex)**: Ghawwas have rough hides studded with jagged barbs and spiny protrusions. Any creature striking a ghawwas with a natural weapon or an unarmed strike takes 1d6 points of slashing and piercing damage.

@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Dire Totem
 
-A *dire totem* weapon has similar properties to an ordinary *totem* weapon. The only differences are that the totem used is that of a dire animal, and the ability enhancement is increased to +4.
+A _dire totem_ weapon has similar properties to an ordinary _totem_ weapon. The only differences are that the totem used is that of a dire animal, and the ability enhancement is increased to +4.
 
-Moderate enchantment; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Charm Animal|charm animal]]*, *[[rangoric-srd/spells/Summon Nature’s Ally V|summon nature’s ally V]]*; Price +3 bonus.
+Moderate enchantment; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Charm Animal|charm animal]]_, _[[rangoric-srd/spells/Summon Nature’s Ally V|summon nature’s ally V]]_; Price +3 bonus.

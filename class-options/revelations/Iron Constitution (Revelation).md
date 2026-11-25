@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Iron Constitution
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Metal Mystery|metal]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Metal Mystery|metal]] mystery._
 
 You gain a +1 bonus on Fortitude saves. At 7th level, and again at 14th level, this bonus increases by +1.

@@ -25,4 +25,4 @@ This magically-augmented alchemical device distills a potion or alchemist extrac
 
 Using the alembic does not harm the potion, but the process makes it nearly boiling hot (it cools normally). The alembic can only distill the knowledge of formulas on the alchemist extract list (for example, it cannot turn a potion of a cleric-only spell into something an alchemist can learn).
 
-Faint divination; CL 3rd; [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Identify|identify]]*, creator must be an [[rangoric-srd/classes/Alchemist|alchemist]]; Price 200 gp; Cost 100 gp; Weight 2 lbs.
+Faint divination; CL 3rd; [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Identify|identify]]_, creator must be an [[rangoric-srd/classes/Alchemist|alchemist]]; Price 200 gp; Cost 100 gp; Weight 2 lbs.

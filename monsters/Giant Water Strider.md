@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Giant Water Strider
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
-  - **Hit Dice**: 3d8+6 (19 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares), fly 20 ft. (poor)
-  - **Armor Class**: 12 (+1 Dex, +2 natural, –1 size), touch 10, flat-footed 11
-  - **Base Attack**: +2; **CMB**: +4; **CMD**: 16 (24 vs. trip)
-  - **Attack**: Claw +2 melee (1d4+1) or bite +2 melee (1d2+1)
-  - **Full Attack**: 2 claws +2 melee (1d4+1) and bite +2 melee (1d2+1)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Water Skating|water skating]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-  - **Saves**: Fort +5, Ref +2, Will +1
-  - **Abilities**: Str 13, Dex 13, Con 14, Int —, Wis 10, Cha 2
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –5, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Perception|Perception]] +4
-  - **Feats**: —
-  - **Environment**: Any water
-  - **Organization**: Solitary or colony (2–9)
-  - **Challenge Rating**: 1
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
+- **Hit Dice**: 3d8+6 (19 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares), fly 20 ft. (poor)
+- **Armor Class**: 12 (+1 Dex, +2 natural, –1 size), touch 10, flat-footed 11
+- **Base Attack**: +2; **CMB**: +4; **CMD**: 16 (24 vs. trip)
+- **Attack**: Claw +2 melee (1d4+1) or bite +2 melee (1d2+1)
+- **Full Attack**: 2 claws +2 melee (1d4+1) and bite +2 melee (1d2+1)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Water Skating|water skating]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
+- **Saves**: Fort +5, Ref +2, Will +1
+- **Abilities**: Str 13, Dex 13, Con 14, Int —, Wis 10, Cha 2
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –5, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Perception|Perception]] +4
+- **Feats**: —
+- **Environment**: Any water
+- **Organization**: Solitary or colony (2–9)
+- **Challenge Rating**: 1
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A giant water strider is a long-legged insect with the ability to walk on water. It feeds on fish and birds. Water striders use their weak flight only to escape predators or for seasonal migrations to new breeding areas. They are sometimes kept as mounts by coast-dwelling humanoids. A giant water strider lives 1-2 years.
 

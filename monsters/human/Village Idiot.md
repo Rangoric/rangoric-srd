@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Village Idiot
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 1d6+3 (6 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 10, touch 10, flat-footed 10
-  - **Base Attack**: +0; **CMB**: +1; **CMD**: 11
-  - **Attack**: Improvised club +1 melee (1d4+1) or [[rangoric-srd/equipment/weapons/Sling|sling]] –1 ranged (1d3+1)
-  - **Full Attack**: Improvised club +1 melee (1d4+1); or [[rangoric-srd/equipment/weapons/Sling|sling]] –1 ranged (1d3+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort +2, Ref +0, Will –1
-  - **Abilities**: Str 12, Dex 11, Con 15, Int 4, Wis 9, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Perception|Perception]] +3
-  - **Feats**: [[rangoric-srd/feats/Catch Off-Guard|Catch Off-Guard]], [[rangoric-srd/feats/Endurance|Endurance]]
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 1/3
-  - **Treasure**: NPC gear
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 1d6+3 (6 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 10, touch 10, flat-footed 10
+- **Base Attack**: +0; **CMB**: +1; **CMD**: 11
+- **Attack**: Improvised club +1 melee (1d4+1) or [[rangoric-srd/equipment/weapons/Sling|sling]] –1 ranged (1d3+1)
+- **Full Attack**: Improvised club +1 melee (1d4+1); or [[rangoric-srd/equipment/weapons/Sling|sling]] –1 ranged (1d3+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort +2, Ref +0, Will –1
+- **Abilities**: Str 12, Dex 11, Con 15, Int 4, Wis 9, Cha 10
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Perception|Perception]] +3
+- **Feats**: [[rangoric-srd/feats/Catch Off-Guard|Catch Off-Guard]], [[rangoric-srd/feats/Endurance|Endurance]]
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 1/3
+- **Treasure**: NPC gear
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A village idiot is a [[rangoric-srd/monsters/human/Human|human]] with 1 level of [[rangoric-srd/classes/Commoner|commoner]]. The village idiot is an amiable simpleton, eking out a meager existence through charity, begging, odd jobs, or occasionally bringing down small game with his sling. While usually a gentle soul, the village idiot is prone to anger if provoked, and may lash out blindly with whatever item is at hand.
 

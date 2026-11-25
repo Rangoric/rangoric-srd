@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Combat Swipe
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]].*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]]._
 
 A rogue with this talent gains [[rangoric-srd/feats/Improved Steal|Improved Steal]] as a bonus feat. At 6th level, she is treated as if she met all the prerequisites for [[rangoric-srd/feats/Greater Steal|Greater Steal]] (although she must take the feat as normal).

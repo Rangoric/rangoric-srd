@@ -33,7 +33,7 @@ Clairsentience
 **Duration:** Concentration, up to 10 min./level (D)  
 **Saving Throw:** None  
 **Power Resistance:** Yes  
-**Power Points:** 3  
+**Power Points:** 3
 
 You can learn details of an inanimate object’s previous owner. Objects accumulate psychic impressions left by their previous owners, which can be read by use of this power. The amount of information revealed depends on how long you study a particular object.
 

@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Subtle Blade
 
-*A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-deeds|swashbuckler deed]] (Ex), 11th level.*
+_A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-deeds|swashbuckler deed]] (Ex), 11th level._
 
 At 11th level, while a swashbuckler has at least 1 panache point, she is immune to disarm, steal, and sunder [[rangoric-srd/combat/Combat Maneuvers|combat maneuvers]] made against a light or one-handed piercing melee weapon she is wielding.

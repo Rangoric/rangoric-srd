@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Goblin Gunslinger
 
-*A [[rangoric-srd/races/Goblin|goblin]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Gunslinger#^gunslinger-class-bonuses|gunslinger]] level.*
+_A [[rangoric-srd/races/Goblin|goblin]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Gunslinger#^gunslinger-class-bonuses|gunslinger]] level._
 
 Add +1/3 on critical hit confirmation rolls made with [[rangoric-srd/equipment/Firearms|firearms]] (maximum bonus of +5). This bonus does not stack with [[rangoric-srd/feats/Critical Focus|Critical Focus]].

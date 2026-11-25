@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Natural Jouster
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “natural jouster”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “natural jouster”, on the Special Attacks line.
 
 A svathurim can wield a lance one-handed as if it were mounted, and it deals double damage with a lance while charging. The [[rangoric-srd/monsters/Svathurim|svathurim]] has it.

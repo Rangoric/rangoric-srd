@@ -39,27 +39,27 @@ tags: [rangoric, rangoric/monster]
 
 # Parasaurolophus
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 6d8+18 (45 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 18 (+2 Dex, +7 natural, –1 size), touch 11, flat-footed 16
-  - **Base Attack**: +4; **CMB**: +12; **CMD**: 24 (28 vs. trip)
-  - **Attack**: Tail slap +8 melee (2d6+9)
-  - **Full Attack**: Tail slap +8 melee (2d6+9)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (2d6+9; DC 19)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +8, Ref +7, Will +3
-  - **Abilities**: Str 23, Dex 14, Con 17, Int 2, Wis 13, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +13
-  - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Warm forests or plains
-  - **Organization**: Solitary, pair, or herd (3–12)
-  - **Challenge Rating**: 4
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 6d8+18 (45 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 18 (+2 Dex, +7 natural, –1 size), touch 11, flat-footed 16
+- **Base Attack**: +4; **CMB**: +12; **CMD**: 24 (28 vs. trip)
+- **Attack**: Tail slap +8 melee (2d6+9)
+- **Full Attack**: Tail slap +8 melee (2d6+9)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (2d6+9; DC 19)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +8, Ref +7, Will +3
+- **Abilities**: Str 23, Dex 14, Con 17, Int 2, Wis 13, Cha 10
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +13
+- **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Warm forests or plains
+- **Organization**: Solitary, pair, or herd (3–12)
+- **Challenge Rating**: 4
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 This herbivore is 30 feet long and weighs 10,500 pounds. It is notable for the long, curved crest atop its skull.

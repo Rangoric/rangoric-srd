@@ -27,7 +27,7 @@ Psychometabolism
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 round/level  
-**Power Points:** 1  
+**Power Points:** 1
 
 You can improve your chances in a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as an immediate action, gaining a +4 enhancement bonus on your grapple checks.
 

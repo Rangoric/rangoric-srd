@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/feat]
 
 Your rapid teleportation makes your combat maneuvers more difficult to avoid.
 
-**Prerequisites**: Ability to use the [[rangoric-srd/classes/Monk#^monk-abundant-step|abundant step]] class feature or cast *[[rangoric-srd/spells/Dimension Door|dimension door]]*, [[rangoric-srd/feats/Dimensional Agility|Dimensional Agility]], [[rangoric-srd/feats/Dimensional Assault|Dimensional Assault]], [[rangoric-srd/feats/Dimensional Dervish|Dimensional Dervish]], base attack bonus +9.
+**Prerequisites**: Ability to use the [[rangoric-srd/classes/Monk#^monk-abundant-step|abundant step]] class feature or cast _[[rangoric-srd/spells/Dimension Door|dimension door]]_, [[rangoric-srd/feats/Dimensional Agility|Dimensional Agility]], [[rangoric-srd/feats/Dimensional Assault|Dimensional Assault]], [[rangoric-srd/feats/Dimensional Dervish|Dimensional Dervish]], base attack bonus +9.
 
 **Benefit**: While using the [[rangoric-srd/feats/Dimensional Dervish|Dimensional Dervish]] feat, you gain a +4 bonus on combat maneuver checks to [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]], [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]], [[rangoric-srd/combat/Combat Maneuvers#Reposition|reposition]], or [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] an opponent.

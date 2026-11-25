@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Blindsense
 
-*A 3-point evolution (Ex) for a [[rangoric-srd/classes/Summoner|summoner]]’s or [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon.*
+_A 3-point evolution (Ex) for a [[rangoric-srd/classes/Summoner|summoner]]’s or [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon._
 
 An eidolon’s senses become incredibly acute, giving it [[rangoric-srd/rules/Special Abilities and Conditions#Blindsight and Blindsense|blindsense]] out to a range of 30 feet. This ability allows the eidolon to pinpoint the location of creatures that it cannot see without having to make a Perception check, but such creatures still have total concealment from the eidolon. Visibility still affects the eidolon’s movement and it is still denied its Dexterity bonus to Armor Class against attacks from creatures it cannot see. The summoner must be at least 9th level before selecting this evolution.

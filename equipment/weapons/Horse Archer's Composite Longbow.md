@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/bows]
 
 # Horse Archer's Composite Longbow
 
-*Exotic ranged weapon.* Cost 160 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Range Increment 130 ft.; Weight 3 lb.; Type Piercing. ^stats
+_Exotic ranged weapon._ Cost 160 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Range Increment 130 ft.; Weight 3 lb.; Type Piercing. ^stats
 
 The composite horse archer’s bows follow all of the normal rules for composite bows, including strength ratings. It otherwise conforms to the rules detailed for the horse archer’s longbow.

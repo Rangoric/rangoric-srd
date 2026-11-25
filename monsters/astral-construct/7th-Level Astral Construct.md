@@ -38,25 +38,25 @@ tags: [rangoric, rangoric/monster]
 
 # 7th-Level Astral Construct
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
-  - **Hit Dice**: 13d10+30 (101 hp)
-  - **Initiative**: +1
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 27 (+1 Dex, +17 natural, -1 size), touch 10, flat-footed 26
-  - **Base Attack**: +11; **CMB**: +24; **CMD**: 35
-  - **Attack**: Slam +20 melee (1d8+12)
-  - **Full Attack**: 2 slams +20 melee (1d8+12)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: -
-  - **Special Qualities**: One ability from Menu C, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, darkvision 60 ft., low-light vision
-  - **Saves**: Fort +4, Ref +5, Will +4
-  - **Abilities**: Str 35, Dex 13, Con -, Int -, Wis 11, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +28
-  - **Feats**: -
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 8
-  - **Treasure**: None
-  - **Alignment**: Always Neutral
-  - **Advancement**: -
-  - **Level Adjustment**: -
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
+- **Hit Dice**: 13d10+30 (101 hp)
+- **Initiative**: +1
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 27 (+1 Dex, +17 natural, -1 size), touch 10, flat-footed 26
+- **Base Attack**: +11; **CMB**: +24; **CMD**: 35
+- **Attack**: Slam +20 melee (1d8+12)
+- **Full Attack**: 2 slams +20 melee (1d8+12)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: -
+- **Special Qualities**: One ability from Menu C, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, darkvision 60 ft., low-light vision
+- **Saves**: Fort +4, Ref +5, Will +4
+- **Abilities**: Str 35, Dex 13, Con -, Int -, Wis 11, Cha 10
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +28
+- **Feats**: -
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 8
+- **Treasure**: None
+- **Alignment**: Always Neutral
+- **Advancement**: -
+- **Level Adjustment**: -

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Dwarf Hunter
 
-*A [[rangoric-srd/races/Dwarf|dwarf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Hunter#^hunter-class-bonuses|hunter]] level.*
+_A [[rangoric-srd/races/Dwarf|dwarf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Hunter#^hunter-class-bonuses|hunter]] level._
 
 Gain a +1/2 bonus on [[rangoric-srd/classes/Hunter#^hunter-wild-empathy|wild empathy]] checks the hunter makes to influence animals and magical beasts that live underground.

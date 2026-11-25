@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Rapier of Quickness
 
-This +2 rapier is usually adorned with images of fast predatory animals, such as hawks or cheetahs. When attacking with the rapier, the wielder receives a +4 enhancement bonus to her initiative checks. Additionally, the rapier can *[[rangoric-srd/spells/Haste|haste]]* its wielder once per day.
+This +2 rapier is usually adorned with images of fast predatory animals, such as hawks or cheetahs. When attacking with the rapier, the wielder receives a +4 enhancement bonus to her initiative checks. Additionally, the rapier can _[[rangoric-srd/spells/Haste|haste]]_ its wielder once per day.
 
-Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Haste|haste]]*, creator must have the [[rangoric-srd/feats/Improved Initiative|Improved Initiative]] feat; Price 56,720 gp; Cost 28,360 gp + 2,269 XP.
+Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Haste|haste]]_, creator must have the [[rangoric-srd/feats/Improved Initiative|Improved Initiative]] feat; Price 56,720 gp; Cost 28,360 gp + 2,269 XP.

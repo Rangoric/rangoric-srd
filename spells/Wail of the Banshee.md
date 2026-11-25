@@ -29,15 +29,15 @@ tags: [rangoric, rangoric/spell]
 
 # Wail of the Banshee
 
-*Necromancy \[Death, Sonic\]*
+_Necromancy \[Death, Sonic\]_
 
-  - **Level**: Death 9, Psy 9, Sha 9, Sor/Wiz 9, Wit 9
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Area**: One living creature/level within a 40-ft.-radius spread
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Death 9, Psy 9, Sha 9, Sor/Wiz 9, Wit 9
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Area**: One living creature/level within a 40-ft.-radius spread
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
 You emit a terrible scream that kills creatures that hear it (except for yourself). Creatures closest to the point of origin are affected first.

@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/armor]
 
 # Coward's Shield
 
-*Armor extra.* Cost 25 gp; Armor Bonus +1; Maximum Dex Bonus +5; Arcane Spell Failure 20%; Weight 5 lb. ^stats
+_Armor extra._ Cost 25 gp; Armor Bonus +1; Maximum Dex Bonus +5; Arcane Spell Failure 20%; Weight 5 lb. ^stats
 
 A coward’s shield is a piece of simple metal plate secured by straps and worn against the back over one shirt and beneath a second piece of concealing clothing. This armor is found now and then on rogues who think they may have to beat a hasty retreat from a field of combat. Some reluctant conscripts and lightly armored fighters have taken a page from this book and occasionally use this gear, but it originated with the rogue class. No one boasts of owning or using a coward’s shield, but many armorers are happy to quietly provide one with a “light backplate” even if the person owns no other armor.
 

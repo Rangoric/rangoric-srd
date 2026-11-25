@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Move Earth
 
-*Transmutation \[Earth\]*
+_Transmutation \[Earth\]_
 
-  - **Level**: Drd 6, Hun 6, Sor/Wiz 6
-  - **Components**: V, S, M
-  - **Casting Time**: See text
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Area**: Dirt in an area up to 750 ft. square and up to 10 ft. deep (S)
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Drd 6, Hun 6, Sor/Wiz 6
+- **Components**: V, S, M
+- **Casting Time**: See text
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Area**: Dirt in an area up to 750 ft. square and up to 10 ft. deep (S)
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 Move earth moves dirt (clay, loam, sand), possibly collapsing embankments, moving hillocks, shifting dunes, and so forth.
 
@@ -49,4 +49,4 @@ The spell cannot be used for tunneling and is generally too slow to trap or bury
 
 This spell has no effect on earth creatures.
 
-*Material Component*: A mixture of soils (clay, loam, and sand) in a small bag, and an iron blade.
+_Material Component_: A mixture of soils (clay, loam, and sand) in a small bag, and an iron blade.

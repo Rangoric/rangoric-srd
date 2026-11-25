@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades]
 
 # Rhoka Sword
 
-*Exotic one-handed melee weapon.* Cost 25 gp; Dmg 1d6 (S), 1d8 (M); Critical 18–20/x2; Weight 6 lb.; Type Slashing. ^stats
+_Exotic one-handed melee weapon._ Cost 25 gp; Dmg 1d6 (S), 1d8 (M); Critical 18–20/x2; Weight 6 lb.; Type Slashing. ^stats
 
 This sword is used almost exclusively by the life-hating urdefhans. The sword is the size of a longsword but consists of two serrated blades placed side by side.

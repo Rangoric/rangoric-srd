@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Holy Guide
 
-*A [[rangoric-srd/classes/Paladin#^paladin-archetypes|paladin]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Paladin#^paladin-archetypes|paladin]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A holy guide believes that it's his sacred calling to clear the roads of bandits between towns as well as to escort travelers to safety. He must enforce the rule of law in the wilderness and help those that cannot defend themselves against the many dangers of the area.
 

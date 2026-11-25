@@ -28,7 +28,7 @@ Manifesting Time: 1 swift action
 Range: Personal  
 Target: You  
 Duration: 1 round  
-Power Points: 1  
+Power Points: 1
 
 This power increases your land speed by 10 feet. (This adjustment counts as an enhancement bonus to speed.)
 

@@ -18,14 +18,14 @@ tags: [rangoric, rangoric/class-option]
 
 # Many Throw
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|form infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|form infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Aether Element|aether]]
-  - **Type**: form infusion
-  - **Level**: 8
-  - **Burn**: 4
-  - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Extended Range|extended range]]
-  - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Telekinetic Blast|telekinesis]]
-  - **Saving Throw**: none
+- **Element**: [[rangoric-srd/class-options/elements/Aether Element|aether]]
+- **Type**: form infusion
+- **Level**: 8
+- **Burn**: 4
+- **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Extended Range|extended range]]
+- **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Telekinetic Blast|telekinesis]]
+- **Saving Throw**: none
 
 You grab a large number of objects and throw them all at once. You can use your [[rangoric-srd/class-options/wild-talents/Telekinetic Blast|telekinetic blast]] to make attack rolls against a number of targets equal to your kineticist level within 120 feet, but no two targets can be more than 30 feet apart.

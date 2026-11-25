@@ -24,16 +24,16 @@ tags: [rangoric, rangoric/spell]
 
 # Vacuous Sphere
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Sor/Wiz 6
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Area**: 10 ft. cube
-  - **Duration**: 11 rounds (D)
-  - **Saving Throw**: Reflex partial
-  - **Spell Resistance**: No
+- **Level**: Sor/Wiz 6
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Area**: 10 ft. cube
+- **Duration**: 11 rounds (D)
+- **Saving Throw**: Reflex partial
+- **Spell Resistance**: No
 
 This spell creates a shimmering, 2foot diameter sphere. On the round that it is created, the sphere pulls into itself all creatures and unattended objects of tiny size or smaller. Creatures are allowed a Reflex save to avoid being drawn into the sphere. A successful save indicates that the creature has found something stable to hold onto or has avoided the effect in some other way.
 

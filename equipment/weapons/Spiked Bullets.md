@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon]
 
 # Spiked Bullets
 
-*Ammunition (10).* Cost 5 sp; Dmg 1d3+1 (S), 1d4+1 (M); Critical x2; Weight 5 lb.; Type Bludgeoning. ^stats
+_Ammunition (10)._ Cost 5 sp; Dmg 1d3+1 (S), 1d4+1 (M); Critical x2; Weight 5 lb.; Type Bludgeoning. ^stats
 
 These sling bullets are crafted with sharp studs covering their surfaces, inflicting more damage than standard sling bullets. However, their irregular shape means that they are not quite as accurate as standard sling bullets, so attacks with them suffer a –1 penalty.

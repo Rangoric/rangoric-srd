@@ -22,7 +22,7 @@ Target words establish the way in which a spell determines its targets. Some eff
 
 **Target**: This paragraph describes how a wordspell using this target word determines its targets or area of effect. This could be a selection of targets by the caster or the creation of an area of effect, in which case all the creatures in the area are automatically targets of the spell. It might also create an effect that has no specific targets, instead just causing the effect word to occupy the listed space.
 
-**Boost**: If the target word can be boosted by the *[[rangoric-srd/unearthed-arcana/Words of Power/Meta Words/Boost|boost]]* meta word, the effects are listed here. See the meta word section for more details.
+**Boost**: If the target word can be boosted by the _[[rangoric-srd/unearthed-arcana/Words of Power/Meta Words/Boost|boost]]_ meta word, the effects are listed here. See the meta word section for more details.
 
 ## The Target Words
 

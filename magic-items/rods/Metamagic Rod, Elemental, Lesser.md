@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Metamagic Rod, Elemental, Lesser
 
-Each *elemental metamagic rod* is built with the power to control and transform a specific energy type (acid, cold, electricity, or fire). The wielder can cast up to three spells per day that deal damage of the rod's energy type instead of the spell's normal damage type, as though using the [[rangoric-srd/feats/Elemental Spell|Elemental Spell]] feat. For example, an *elemental metamagic rod (cold)* always makes spells deal cold damage.
+Each _elemental metamagic rod_ is built with the power to control and transform a specific energy type (acid, cold, electricity, or fire). The wielder can cast up to three spells per day that deal damage of the rod's energy type instead of the spell's normal damage type, as though using the [[rangoric-srd/feats/Elemental Spell|Elemental Spell]] feat. For example, an _elemental metamagic rod (cold)_ always makes spells deal cold damage.
 
 Strong (no school); CL 17th; [[rangoric-srd/feats/Craft Rod|Craft Rod]], [[rangoric-srd/feats/Elemental Spell|Elemental Spell]]; Price 3,000 gp; Cost 1,500 gp.

@@ -25,7 +25,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Ectoplasmatist
 
-*A [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-archetypes|spiritualist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-archetypes|spiritualist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 An ectoplasmatist infuses herself with ectoplasm instead of calling a phantom.
 
@@ -41,7 +41,7 @@ At 8th level, the ectoplasmatist's lashes become [[rangoric-srd/magic-items/weap
 
 At 10th level, the lashes' enhancement bonus increases to +3.
 
-At 12th level, the ectoplasmatist chooses a single [[rangoric-srd/class-options/emotional-focuses/Emotional Focuses|emotional focus]] (anger, dedication, despair, fear, hatred, jealousy, or zeal). The ectoplasmatist's lashes gain a special weapon ability as if affected by a *[[rangoric-srd/spells/Spirit-Bound Blade|spirit-bound blade]]* spell matching the emotional energy of the focus the ectoplasmatist has chosen.
+At 12th level, the ectoplasmatist chooses a single [[rangoric-srd/class-options/emotional-focuses/Emotional Focuses|emotional focus]] (anger, dedication, despair, fear, hatred, jealousy, or zeal). The ectoplasmatist's lashes gain a special weapon ability as if affected by a _[[rangoric-srd/spells/Spirit-Bound Blade|spirit-bound blade]]_ spell matching the emotional energy of the focus the ectoplasmatist has chosen.
 
 At 14th level, the lashes' enhancement bonus increases to +4.
 

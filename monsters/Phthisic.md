@@ -39,7 +39,7 @@ tags: [rangoric, rangoric/monster]
 
 # Phthisic
 
-Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous]][[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Humanoid]] (Psionic)      
+Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous]][[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Humanoid]] (Psionic)     
 **Hit Dice:** 6d8+30 (57 hp)     
 **Initiative:** +5     
 **Speed:** 30 ft. (6 squares)     
@@ -60,7 +60,7 @@ Full **Attack:** 2 claws +11 melee (1d6+6) and bite +6 melee (1d6+3 plus mind fe
 Treasure: Standard     
 **Alignment:** Always Chaotic Evil     
 **Advancement:** 7-12 HD (Large); 13-18 HD (Huge)     
-**Level Adjustment:** -     
+**Level Adjustment:** -   
 
 A phthisic stands 10 feet tall and weighs 600 pounds. It vaguely resembles the person whose mind the phthisic escaped from, but is severely distorted (someone who knows the individual from whom the phthisic sprung can make a DC 25 [[rangoric-srd/skills/Perception|Perception]] check to note the resemblance).
 

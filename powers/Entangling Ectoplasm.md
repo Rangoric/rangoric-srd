@@ -32,7 +32,7 @@ Metacreativity (Creation)
 **Duration:** 5 rounds  
 **Saving Throw:** None  
 **Power Resistance:** No  
-**Power Points:** 1  
+**Power Points:** 1
 
 You draw forth a glob of ectoplasmic goo from the Astral Plane and immediately throw it as a ranged touch attack at any creature in range. On a successful hit, the subject is covered in goo and becomes [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]]. The goo evaporates at the end of the power’s duration.
 

@@ -38,34 +38,34 @@ Natural Cavern Complex: Underground caves provide homes for all sorts of subterr
 
 Fungi of all sorts thrive in caves, sometimes growing in huge forests of mushrooms and puffballs. Subterranean predators prowl these forests, looking for those feeding upon the fungi. Some varieties of fungus give off a phosphorescent glow, providing a natural cavern complex with its own limited light source. In other areas, a [[rangoric-srd/spells/Daylight|daylight]] spell or similar magical effect can provide enough light for green plants to grow.
 
-Often, a natural cavern complex connects with another type of dungeons, the caves having been discovered when the manufactured dungeon was delved. A cavern complex can connect two otherwise unrelated dungeons, sometimes creating a strange mixed environment. A natural cavern complex joined with another dungeon often provides a route by which subterranean creatures find their way into a manufactured dungeon and populate it.  
+Often, a natural cavern complex connects with another type of dungeons, the caves having been discovered when the manufactured dungeon was delved. A cavern complex can connect two otherwise unrelated dungeons, sometimes creating a strange mixed environment. A natural cavern complex joined with another dungeon often provides a route by which subterranean creatures find their way into a manufactured dungeon and populate it.
 
 ### Dungeon Terrain
 
 ##### Walls
 
-Sometimes, masonry walls-stones piled on top of each other (usually but not always held in place with mortar)-divide dungeons into corridors and chambers. Dungeon walls can also be hewn from solid rock, leaving them with a rough, chiseled look. Or, dungeon walls can be the smooth, unblemished stone of a naturally occurring cave. Dungeon walls are difficult to break down or through, but they’re generally easy to climb.  
+Sometimes, masonry walls-stones piled on top of each other (usually but not always held in place with mortar)-divide dungeons into corridors and chambers. Dungeon walls can also be hewn from solid rock, leaving them with a rough, chiseled look. Or, dungeon walls can be the smooth, unblemished stone of a naturally occurring cave. Dungeon walls are difficult to break down or through, but they’re generally easy to climb.
 
 **Table: Walls  
 **
 
 | Wall Type             | Typical Thickness | Break DC | Hardness | Hit Points (1) | Athletics DC |
-| --------------------- | ----------------- | -------- | -------- | -------------- | -------- |
-| Masonry               | 1 ft.             | 35       | 8        | 90 hp          | 20       |
-| Superior masonry      | 1 ft.             | 35       | 8        | 90 hp          | 25       |
-| Reinforced masonry    | 1 ft.             | 45       | 8        | 180 hp         | 15       |
-| Hewn stone            | 3 ft.             | 50       | 8        | 540 hp         | 25       |
-| Unworked stone        | 5 ft.             | 65       | 8        | 900 hp         | 15       |
-| Iron                  | 3 in.             | 30       | 10       | 90 hp          | 25       |
-| Paper                 | Paper-thin        | 1        | -       | 1 hp           | 30       |
-| Wood                  | 6 in.             | 20       | 5        | 60 hp          | 21       |
-| Magically treated (2) | -                | +20     | ×2       | ×2 (3)         | -       |
+| --------------------- | ----------------- | -------- | -------- | -------------- | ------------ |
+| Masonry               | 1 ft.             | 35       | 8        | 90 hp          | 20           |
+| Superior masonry      | 1 ft.             | 35       | 8        | 90 hp          | 25           |
+| Reinforced masonry    | 1 ft.             | 45       | 8        | 180 hp         | 15           |
+| Hewn stone            | 3 ft.             | 50       | 8        | 540 hp         | 25           |
+| Unworked stone        | 5 ft.             | 65       | 8        | 900 hp         | 15           |
+| Iron                  | 3 in.             | 30       | 10       | 90 hp          | 25           |
+| Paper                 | Paper-thin        | 1        | -        | 1 hp           | 30           |
+| Wood                  | 6 in.             | 20       | 5        | 60 hp          | 21           |
+| Magically treated (2) | -                 | +20      | ×2       | ×2 (3)         | -            |
 
-1 Per 10-foot-by-10-foot section.     
+1 Per 10-foot-by-10-foot section.   
 
-2 These modifiers can be applied to any of the other wall types.  
+2 These modifiers can be applied to any of the other wall types.
 
-3 Or an additional 50 hit points, whichever is greater.  
+3 Or an additional 50 hit points, whichever is greater.
 
 Masonry Walls: The most common kind of dungeon wall, masonry walls are usually at least 1 foot thick. Often these ancient walls sport cracks and crevices, and sometimes dangerous slimes or small monsters live in these areas and wait for prey. Masonry walls stop all but the loudest noises. It takes a DC 20 [[rangoric-srd/skills/Athletics|Athletics]] check to travel along a masonry wall.
 
@@ -73,7 +73,7 @@ Superior Masonry Walls: Sometimes masonry walls are better built (smoother, with
 
 Hewn Stone Walls: Such walls usually result when a chamber or passage is tunneled out from solid rock. The rough surface of a hewn wall frequently provides minuscule ledges where fungus grows and fissures where vermin, bats, and subterranean snakes live. When such a wall has an “other side” (it separates two chambers in the dungeon), the wall is usually at least 3 feet thick; anything thinner risks collapsing from the weight of all the stone overhead. It takes a DC 25 Athletics check to climb a hewn stone wall.
 
-Unworked Stone Walls: These surfaces are uneven and rarely flat. They are smooth to the touch but filled with tiny holes, hidden alcoves, and ledges at various heights. They’re also usually wet or at least damp, since it’s water that most frequently creates natural caves. When such a wall has an “other side,” the wall is usually at least 5 feet thick. It takes a DC 15 Athletics check to move along an unworked stone wall.  
+Unworked Stone Walls: These surfaces are uneven and rarely flat. They are smooth to the touch but filled with tiny holes, hidden alcoves, and ledges at various heights. They’re also usually wet or at least damp, since it’s water that most frequently creates natural caves. When such a wall has an “other side,” the wall is usually at least 5 feet thick. It takes a DC 15 Athletics check to move along an unworked stone wall.
 
 ###### Special Walls
 
@@ -106,7 +106,7 @@ Dense Rubble: The ground is covered with debris of all sizes. It costs 2 squares
 
 Smooth Stone Floors: Finished and sometimes even polished, smooth floors are found only in dungeons with capable and careful builders.
 
-Natural Stone Floors: The floor of a natural cave is as uneven as the walls. Caves rarely have flat surfaces of any great size. Rather, their floors have many levels. Some adjacent floor surfaces might vary in elevation by only a foot, so that moving from one to the other is no more difficult than negotiating a stair step, but in other places the floor might suddenly drop off or rise up several feet or more, requiring Athletics checks to get from one surface to the other. Unless a path has been worn and well marked in the floor of a natural cave, it takes 2 squares of movement to enter a square with a natural stone floor, and the DC of Acrobatics checks increases by 5. Running and charging are impossible, except along paths.  
+Natural Stone Floors: The floor of a natural cave is as uneven as the walls. Caves rarely have flat surfaces of any great size. Rather, their floors have many levels. Some adjacent floor surfaces might vary in elevation by only a foot, so that moving from one to the other is no more difficult than negotiating a stair step, but in other places the floor might suddenly drop off or rise up several feet or more, requiring Athletics checks to get from one surface to the other. Unless a path has been worn and well marked in the floor of a natural cave, it takes 2 squares of movement to enter a square with a natural stone floor, and the DC of Acrobatics checks increases by 5. Running and charging are impossible, except along paths.
 
 ###### Special Floors
 
@@ -122,12 +122,12 @@ Transparent Floor: Transparent floors, made of reinforced glass or magic materia
 
 Sliding Floors: A sliding floor is a type of trapdoor, designed to be moved and thus reveal something that lies beneath it. A typical sliding floor moves so slowly that anyone standing on one can avoid falling into the gap it creates, assuming there’s somewhere else to go. If such a floor slides quickly enough that there’s a chance of a character falling into whatever lies beneath-a spiked pit, a vat of burning oil, or a pool filled with sharks-then it’s a trap.
 
-Trap Floors: Some floors are designed to become suddenly dangerous. With the application of just the right amount of weight, or the pull of a lever somewhere nearby, spikes protrude from the floor, gouts of steam or flame shoot up from hidden holes, or the entire floor tilts. These strange floors are sometimes found in an arena, designed to make combats more exciting and deadly. Construct these floors as you would any other trap.  
+Trap Floors: Some floors are designed to become suddenly dangerous. With the application of just the right amount of weight, or the pull of a lever somewhere nearby, spikes protrude from the floor, gouts of steam or flame shoot up from hidden holes, or the entire floor tilts. These strange floors are sometimes found in an arena, designed to make combats more exciting and deadly. Construct these floors as you would any other trap.
 
 ##### Doors
 
 Doors in dungeons are much more than mere entrances and exits. Often they can be encounters all by themselves.  
-Dungeon doors come in three basic types: wooden, stone, and iron.  
+Dungeon doors come in three basic types: wooden, stone, and iron.
 
 **Table: Doors  
 **
@@ -142,10 +142,10 @@ Dungeon doors come in three basic types: wooden, stone, and iron.
 | Iron               | 2 in.             | 10       | 60 hp      | 28       | 28       |
 | Portcullis, Wooden | 3 in.             | 5        | 30 hp      | 25 (1)   | 25 (1)   |
 | Portcullis, Iron   | 2 in.             | 10       | 60 hp      | 25 (1)   | 25 (1)   |
-| Lock               | -                | 15       | 30 hp      |          |          |
-| Hinge              | -                | 10       | 30 hp      |          |          |
+| Lock               | -                 | 15       | 30 hp      |          |          |
+| Hinge              | -                 | 10       | 30 hp      |          |          |
 
-1 DC to lift. Use appropriate door figure for breaking.  
+1 DC to lift. Use appropriate door figure for breaking.
 
 Wooden Doors: Constructed of thick planks nailed together, sometimes bound with iron for strength (and to reduce swelling from dungeon dampness), wooden doors are the most common type. Wooden doors come in varying strengths: simple, good, and strong doors. Simple doors (break DC 13) are not meant to keep out motivated attackers. Good doors (break DC 16), while sturdy and long-lasting, are still not meant to take much punishment. Strong doors (break DC 23) are bound in iron and are a sturdy barrier to those attempting to get past them. Iron hinges fasten the door to its frame, and typically a circular pull-ring in the center is there to help open it. Sometimes, instead of a pull-ring, a door has an iron pull-bar on one or both sides of the door to serve as a handle. In inhabited dungeons, these doors are usually well maintained (not stuck) and unlocked, although important areas are locked up if possible.
 
@@ -198,15 +198,15 @@ Many secret doors require a special method of opening, such as a hidden button o
 
 Magic Doors: Enchanted by the original builders, a door might speak to explorers, warning them away. It might be protected from harm, increasing its hardness or giving it more hit points as well as an improved saving throw bonus against [[rangoric-srd/spells/Disintegrate|disintegrate]] and other similar spells. A magic door might not lead into the space revealed beyond, but instead it might be a portal to a faraway place or even another plane of existence. Other magic doors might require passwords or special keys to open them.
 
-Portcullises: These special doors consist of iron or thick, ironbound, wooden shafts that descend from a recess in the ceiling above an archway. Sometimes a portcullis has crossbars that create a grid, sometimes not. Typically raised by means of a winch or a capstan, a portcullis can be dropped quickly, and the shafts end in spikes to discourage anyone from standing underneath (or from attempting to dive under it as it drops). Once it is dropped, a portcullis locks, unless it is so large that no normal person could lift it anyway. In any event, lifting a typical portcullis requires a DC 25 Strength check.  
+Portcullises: These special doors consist of iron or thick, ironbound, wooden shafts that descend from a recess in the ceiling above an archway. Sometimes a portcullis has crossbars that create a grid, sometimes not. Typically raised by means of a winch or a capstan, a portcullis can be dropped quickly, and the shafts end in spikes to discourage anyone from standing underneath (or from attempting to dive under it as it drops). Once it is dropped, a portcullis locks, unless it is so large that no normal person could lift it anyway. In any event, lifting a typical portcullis requires a DC 25 Strength check.
 
 ##### Walls, Doors, and Detect Spells
 
-Stone walls, iron walls, and iron doors are usually thick enough to block most detect spells, such as [[rangoric-srd/spells/Detect Thoughts|detect thoughts]]. Wooden walls, wooden doors, and stone doors are usually not thick enough to do so. However, a secret stone door built into a wall and as thick as the wall itself (at least 1 foot) does block most detect spells.  
+Stone walls, iron walls, and iron doors are usually thick enough to block most detect spells, such as [[rangoric-srd/spells/Detect Thoughts|detect thoughts]]. Wooden walls, wooden doors, and stone doors are usually not thick enough to do so. However, a secret stone door built into a wall and as thick as the wall itself (at least 1 foot) does block most detect spells.
 
 ##### Rooms
 
-Rooms in dungeons vary in shape and size. Although many are simple in construction and appearance, particularly interesting rooms have multiple levels joined by stairs, ramps, or ladders, as well as statuary, altars, pits, chasms, bridges, and more.  
+Rooms in dungeons vary in shape and size. Although many are simple in construction and appearance, particularly interesting rooms have multiple levels joined by stairs, ramps, or ladders, as well as statuary, altars, pits, chasms, bridges, and more.
 
 Underground chambers are prone to collapse, so many rooms- particularly large ones-have arched ceilings or pillars to support the weight of the rock overhead.
 
@@ -228,17 +228,17 @@ Those who are worried about undead rising from the grave take the precaution of 
 
 ##### Corridors
 
-All dungeons have rooms, and most have corridors. While most corridors simply connect rooms, sometimes they can be encounter areas in their own right because of traps, guard patrols, and wandering monsters out on the hunt.  
+All dungeons have rooms, and most have corridors. While most corridors simply connect rooms, sometimes they can be encounter areas in their own right because of traps, guard patrols, and wandering monsters out on the hunt.
 
 Corridor Traps: Because passageways in dungeons tend to be narrow, offering few movement options, dungeon builders like to place traps in them. In a cramped passageway, there’s no way for intruders to move around concealed pits, falling stones, arrow traps, tilting floors, and sliding or rolling rocks that fill the entire passage. For the same reason, magic traps such as [[rangoric-srd/spells/Glyph of Warding|glyphs of warding]] are effective in hallways as well.
 
 Mazes: Usually, passages connect chambers in the simplest and straightest manner possible. Some dungeon builders, however, design a maze or a labyrinth within the dungeon. This sort of construction is difficult to navigate (or at least to navigate quickly) and, when filled with monsters or traps, can be an effective barrier.
 
-A maze can be used to cut off one area of the dungeon, deflecting intruders away from a protected spot. Generally, though, the far side of a maze holds an important crypt or vault-someplace that the dungeon’s regular inhabitants rarely need to get to.  
+A maze can be used to cut off one area of the dungeon, deflecting intruders away from a protected spot. Generally, though, the far side of a maze holds an important crypt or vault-someplace that the dungeon’s regular inhabitants rarely need to get to.
 
 ##### Miscellaneous Features
 
-Stairs: The usual way to connect different levels of a dungeon is with stairs. Straight stairways, spiral staircases, or stairwells with multiple landings between flights of stairs are all common in dungeons, as are ramps (sometimes with an incline so slight that it can be difficult to notice; [[rangoric-srd/skills/Perception|Perception]] DC 15). Stairs are important accessways, and are sometimes guarded or trapped. Traps on stairs often cause intruders to slide or fall down to the bottom, where a pit, spikes, a pool of acid, or some other danger awaits.  
+Stairs: The usual way to connect different levels of a dungeon is with stairs. Straight stairways, spiral staircases, or stairwells with multiple landings between flights of stairs are all common in dungeons, as are ramps (sometimes with an incline so slight that it can be difficult to notice; [[rangoric-srd/skills/Perception|Perception]] DC 15). Stairs are important accessways, and are sometimes guarded or trapped. Traps on stairs often cause intruders to slide or fall down to the bottom, where a pit, spikes, a pool of acid, or some other danger awaits.
 
 Gradual Stairs: Stairs that rise less than 5 feet for every 5 feet of horizontal distance they cover don’t affect movement, but characters who attack a foe below them gain a +1 bonus on attack rolls from being on higher ground. Most stairs in dungeons are gradual, except for spiral stairs (see below).
 
@@ -304,7 +304,7 @@ Shifting stones and walls are generally constructed as traps with triggers and [
 
 Teleporters: Sometimes useful, sometimes devious, places in a dungeon rigged with a teleportation effect (such as a [[rangoric-srd/spells/Teleportation Circle|teleportation circle]]) transport characters to some other location in the dungeon or someplace far away. They can be traps, teleporting the unwary into dangerous situations, or they can be an easy mode of transport for those who built or live in the dungeon, good for bypassing barriers and traps or simply to get around more quickly. Devious dungeon designers might place a teleporter in a room that transports characters to another seemingly identical room so that they don’t even know they’ve been teleported. A [[rangoric-srd/spells/Detect Magic|detect magic]] spell will provide a clue to the presence of a teleporter, but direct experimentation or other research is the only way to discover where the teleporter leads.
 
-Altars: Temples-particularly to dark gods-often exist underground. Usually taking the form of a stone block, an altar is the main fixture and central focus of such a temple. Sometimes all the other trappings of the temple are long gone, lost to theft, age, and decay, but the altar survives. Some altars have traps or powerful magic within them. Most take up one or two squares on the grid and provide cover to creatures behind them.  
+Altars: Temples-particularly to dark gods-often exist underground. Usually taking the form of a stone block, an altar is the main fixture and central focus of such a temple. Sometimes all the other trappings of the temple are long gone, lost to theft, age, and decay, but the altar survives. Some altars have traps or powerful magic within them. Most take up one or two squares on the grid and provide cover to creatures behind them.
 
 ###### Cave-Ins and Collapses (CR 8)
 
@@ -316,7 +316,7 @@ Characters in the bury zone of a cave-in take 8d6 points of damage, or half that
 
 Characters take 1d6 points of nonlethal damage per minute while buried. If such a character falls unconscious, he must make a DC 15 Constitution check. If it fails, he takes 1d6 points of lethal damage each minute thereafter until freed or dead.
 
-Characters who aren’t buried can dig out their friends. In 1 minute, using only her hands, a character can clear rocks and debris equal to five times her heavy load limit. The amount of loose stone that fills a 5-foot-by-5-foot area weighs one ton (2,000 pounds). Armed with an appropriate tool, such as a pick, crowbar, or shovel, a digger can clear loose stone twice as quickly as by hand. You may allow a buried character to free himself with a DC 25 Strength check.  
+Characters who aren’t buried can dig out their friends. In 1 minute, using only her hands, a character can clear rocks and debris equal to five times her heavy load limit. The amount of loose stone that fills a 5-foot-by-5-foot area weighs one ton (2,000 pounds). Armed with an appropriate tool, such as a pick, crowbar, or shovel, a digger can clear loose stone twice as quickly as by hand. You may allow a buried character to free himself with a DC 25 Strength check.
 
 ###### Slimes, Molds, and Fungi
 
@@ -330,7 +330,7 @@ Green Slime (CR 4): This dungeon peril is a dangerous variety of normal slime. G
 
 A single 5-foot square of green slime deals 1d6 points of Constitution damage per round while it devours flesh. On the first round of contact, the slime can be scraped off a creature (most likely destroying the scraping device), but after that it must be frozen, burned, or cut away (dealing damage to the victim as well). Anything that deals cold or fire damage, sunlight, or a [[rangoric-srd/spells/Remove Disease|remove disease]] spell destroys a patch of green slime. Against wood or metal, green slime deals 2d6 points of damage per round, ignoring metal’s hardness but not that of wood. It does not harm stone.
 
-Yellow Mold (CR 6): If disturbed, a 5-foot square of this mold bursts forth with a cloud of poisonous spores. All within 10 feet of the mold are exposed to an [[rangoric-srd/rules/Afflictions#^inhaled-poison|inhaled]] [[rangoric-srd/rules/Afflictions#Poison|poison]]: *save* Fort DC 15; *frequency* 1/round for 6 rounds; *effect* 1d3 Con damage; *cure* 1 save. Fire destroys yellow mold, and sunlight renders it dormant.
+Yellow Mold (CR 6): If disturbed, a 5-foot square of this mold bursts forth with a cloud of poisonous spores. All within 10 feet of the mold are exposed to an [[rangoric-srd/rules/Afflictions#^inhaled-poison|inhaled]] [[rangoric-srd/rules/Afflictions#Poison|poison]]: _save_ Fort DC 15; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Con damage; _cure_ 1 save. Fire destroys yellow mold, and sunlight renders it dormant.
 
 Brown Mold (CR 2): Brown mold feeds on warmth, drawing heat from anything around it. It normally comes in patches 5 feet in diameter, and the temperature is always cold in a 30-foot radius around it. Living creatures within 5 feet of it take 3d6 points of nonlethal cold damage. Fire brought within 5 feet of brown mold causes it to instantly double in size. Cold damage, such as from a [[rangoric-srd/spells/Cone of Cold|cone of cold]], instantly destroys it.
 
@@ -353,10 +353,10 @@ There are many ways to get lost in the wilderness. Following an obvious road, tr
 **Chance to Get Lost**: If conditions exist that make getting lost a possibility, the character leading the way must succeed on a [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] check or become lost. The difficulty of this check varies based on the terrain, the visibility conditions, and whether or not the character has a map of the area being traveled through. Refer to the table below and use the highest DC that applies.
 
 |                      | Fieldcraft DC |                  | Fieldcraft DC |
-| -------------------- | ----------- | ---------------- | ----------- |
-| Moor or hill, map    | 6           | Poor visibility  | 12          |
-| Mountain, map        | 8           | Mountain, no map | 12          |
-| Moor or hill, no map | 10          | Forest           | 15          |
+| -------------------- | ------------- | ---------------- | ------------- |
+| Moor or hill, map    | 6             | Poor visibility  | 12            |
+| Mountain, map        | 8             | Mountain, no map | 12            |
+| Moor or hill, no map | 10            | Forest           | 15            |
 
 A character with at least 2 ranks in [[rangoric-srd/skills/Society|Society]] pertaining to the area being traveled through gains a +2 bonus on this check.
 
@@ -364,13 +364,13 @@ Check once per hour (or portion of an hour) spent in local or overland movement 
 
 **Effects of Being Lost**: If a party becomes lost, it is no longer certain of moving in the direction it intended to travel. Randomly determine the direction in which the party actually travels during each hour of local or overland movement. The characters’ movement continues to be random until they blunder into a landmark they can’t miss, or until they recognize that they are lost and make an effort to regain their bearings.
 
-*Recognizing that You’re Lost*: Once per hour of random travel, each character in the party may attempt a Fieldcraft check (DC 20, –1 per hour of random travel) to recognize that they are no longer certain of their direction of travel. Some circumstances may make it obvious that the characters are lost.
+_Recognizing that You’re Lost_: Once per hour of random travel, each character in the party may attempt a Fieldcraft check (DC 20, –1 per hour of random travel) to recognize that they are no longer certain of their direction of travel. Some circumstances may make it obvious that the characters are lost.
 
-*Setting a New Course*: A lost party is also uncertain of determining in which direction it should travel in order to reach a desired objective. Determining the correct direction of travel once a party has become lost requires a Fieldcraft check (DC 15, +2 per hour of random travel). If a character fails this check, he chooses a random direction as the “correct” direction for resuming travel.
+_Setting a New Course_: A lost party is also uncertain of determining in which direction it should travel in order to reach a desired objective. Determining the correct direction of travel once a party has become lost requires a Fieldcraft check (DC 15, +2 per hour of random travel). If a character fails this check, he chooses a random direction as the “correct” direction for resuming travel.
 
 Once the characters are traveling along their new course, correct or incorrect, they may get lost again. If the conditions still make it possible for travelers to become lost, check once per hour of travel as described in Chance to Get Lost, above, to see if the party maintains its new course or begins to move at random again.
 
-*Conflicting Directions*: It’s possible that several characters may attempt to determine the right direction to proceed after becoming lost. Make a Fieldcraft check for each character in secret, then tell the players whose characters succeeded the correct direction in which to travel, and tell the players whose characters failed a random direction they think is right.
+_Conflicting Directions_: It’s possible that several characters may attempt to determine the right direction to proceed after becoming lost. Make a Fieldcraft check for each character in secret, then tell the players whose characters succeeded the correct direction in which to travel, and tell the players whose characters failed a random direction they think is right.
 
 **Regaining Your Bearings**: There are several ways to become un-lost. First, if the characters successfully set a new course and follow it to the destination they’re trying to reach, they’re not lost anymore. Second, the characters through random movement might run into an unmistakable landmark. Third, if conditions suddenly improve—the fog lifts or the sun comes up—lost characters may attempt to set a new course, as described above, with a +4 bonus on the Fieldcraft check. Finally, magic may make their course clear.
 
@@ -454,11 +454,11 @@ Both shallow and deep bogs increase the DC of [[rangoric-srd/skills/Stealth|Stea
 
 **Quicksand**: Patches of quicksand present a deceptively solid appearance (appearing as undergrowth or open land) that may trap careless characters. A character approaching a patch of quicksand at a normal pace is entitled to a DC 8 [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] check to spot the danger before stepping in, but charging or running characters don’t have a chance to detect a hidden bog before blundering in. A typical patch of quicksand is 20 feet in diameter; the momentum of a charging or running character carries him or her 1d2×5 feet into the quicksand. ^quicksand
 
-*Effects of Quicksand*: Characters in quicksand must make a DC 10 [[rangoric-srd/skills/Athletics|Athletics]] check every round to simply tread water in place, or a DC 15 Athletics check to move 5 feet in whatever direction is desired. If a trapped character fails this check by 5 or more, he sinks below the surface and begins to drown whenever he can no longer hold his breath (see [[rangoric-srd/rules/Wilderness, Weather, and Environment#Drowning|Drowning]]).
+_Effects of Quicksand_: Characters in quicksand must make a DC 10 [[rangoric-srd/skills/Athletics|Athletics]] check every round to simply tread water in place, or a DC 15 Athletics check to move 5 feet in whatever direction is desired. If a trapped character fails this check by 5 or more, he sinks below the surface and begins to drown whenever he can no longer hold his breath (see [[rangoric-srd/rules/Wilderness, Weather, and Environment#Drowning|Drowning]]).
 
 Characters below the surface of a bog may swim back to the surface with a successful Athletics check (DC 15, +1 per consecutive round of being under the surface).
 
-*Rescue*: Pulling out a character trapped in quicksand can be difficult. A rescuer needs a branch, spear haft, rope, or similar tool that enables him to reach the victim with one end of it. Then he must make a DC 15 Strength check to successfully pull the victim, and the victim must make a DC 10 Strength check to hold onto the branch, pole, or rope. If the victim fails to hold on, he must make a DC 15 Athletics check immediately to stay above the surface. If both checks succeed, the victim is pulled 5 feet closer to safety.
+_Rescue_: Pulling out a character trapped in quicksand can be difficult. A rescuer needs a branch, spear haft, rope, or similar tool that enables him to reach the victim with one end of it. Then he must make a DC 15 Strength check to successfully pull the victim, and the victim must make a DC 10 Strength check to hold onto the branch, pole, or rope. If the victim fails to hold on, he must make a DC 15 Athletics check immediately to stay above the surface. If both checks succeed, the victim is pulled 5 feet closer to safety.
 
 **Hedgerows**: Common in moors, hedgerows are tangles of stones, soil, and thorny bushes.
 
@@ -575,13 +575,13 @@ High altitude can be extremely fatiguing—or sometimes deadly—to creatures th
 
 **Altitude Zones**: In general, mountains present three possible altitude bands: low pass, low peak/high pass, and high peak.
 
-*Low Pass (lower than 5,000 feet)*: Most travel in low mountains takes place in low passes, a zone consisting largely of alpine meadows and forests. Travelers may find the going difficult (which is reflected in the movement modifiers for traveling through mountains), but the altitude itself has no game effect.
+_Low Pass (lower than 5,000 feet)_: Most travel in low mountains takes place in low passes, a zone consisting largely of alpine meadows and forests. Travelers may find the going difficult (which is reflected in the movement modifiers for traveling through mountains), but the altitude itself has no game effect.
 
-*Low Peak or High Pass (5,000 to 15,000 feet)*: Ascending to the highest slopes of low mountains, or most normal travel through high mountains, falls into this category. All nonacclimated creatures labor to breathe in the thin air at this altitude. Characters must succeed on a Fortitude save each hour (DC 15, +1 per previous check) or be [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]]. The fatigue ends when the character descends to an altitude with more air.
+_Low Peak or High Pass (5,000 to 15,000 feet)_: Ascending to the highest slopes of low mountains, or most normal travel through high mountains, falls into this category. All nonacclimated creatures labor to breathe in the thin air at this altitude. Characters must succeed on a Fortitude save each hour (DC 15, +1 per previous check) or be [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]]. The fatigue ends when the character descends to an altitude with more air.
 
 Acclimated characters do not have to attempt the Fortitude save.
 
-*High Peak (more than 15,000 feet)*: The highest mountains exceed 20,000 feet in height. At these elevations, creatures are subject to both high altitude fatigue (as described above) and altitude sickness, whether or not they’re acclimated to high altitudes.
+_High Peak (more than 15,000 feet)_: The highest mountains exceed 20,000 feet in height. At these elevations, creatures are subject to both high altitude fatigue (as described above) and altitude sickness, whether or not they’re acclimated to high altitudes.
 
 Altitude sickness represents long-term oxygen deprivation, and it affects mental and physical ability scores. After each 6-hour period a character spends at an altitude of over 15,000 feet, he must succeed on a Fortitude save (DC 15, +1 per previous check) or take 1 point of damage to all ability scores.
 
@@ -671,7 +671,7 @@ Accordingly, these rules simply divide aquatic terrain into two categories: flow
 
 If a character is in moving water, move her downstream the indicated distance at the end of her turn. A character trying to maintain her position relative to the riverbank can spend some or all of her turn swimming upstream.
 
-*Swept Away*: Characters swept away by a river moving 60 feet per round or faster must make DC 20 Athletics checks every round to avoid going under. If a character gets a check result of 5 or more over the minimum necessary, he arrests his motion by catching a rock, tree limb, or bottom snag—he is no longer being carried along by the flow of the water. Escaping the rapids by reaching the bank requires three DC 20 Athletics checks in a row. Characters arrested by a rock, limb, or snag can’t escape under their own power unless they strike out into the water and attempt to swim their way clear. Other characters can rescue them as if they were trapped in quicksand (described in Marsh Terrain, above).
+_Swept Away_: Characters swept away by a river moving 60 feet per round or faster must make DC 20 Athletics checks every round to avoid going under. If a character gets a check result of 5 or more over the minimum necessary, he arrests his motion by catching a rock, tree limb, or bottom snag—he is no longer being carried along by the flow of the water. Escaping the rapids by reaching the bank requires three DC 20 Athletics checks in a row. Characters arrested by a rock, limb, or snag can’t escape under their own power unless they strike out into the water and attempt to swim their way clear. Other characters can rescue them as if they were trapped in quicksand (described in Marsh Terrain, above).
 
 **Nonflowing Water**: Lakes and oceans simply require a swim speed or successful Athletics checks to move through (DC 10 in calm water, DC 15 in rough water, DC 20 in stormy water). Characters need a way to breathe if they’re underwater; failing that, they risk drowning. When underwater, characters can move in any direction as if they were flying with perfect maneuverability.
 
@@ -679,7 +679,7 @@ If a character is in moving water, move her downstream the indicated distance at
 
 It’s hard to find cover or concealment to hide underwater (except along the seafloor). [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Stealth|Stealth]] checks function normally underwater.
 
-*Invisibility*: An [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] creature displaces water and leaves a visible, body-shaped “bubble” where the water was displaced. The creature still has concealment (20% miss chance), but not total concealment (50% miss chance).
+_Invisibility_: An [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] creature displaces water and leaves a visible, body-shaped “bubble” where the water was displaced. The creature still has concealment (20% miss chance), but not total concealment (50% miss chance).
 
 ###### Underwater Combat
 
@@ -695,21 +695,21 @@ The surface of a body of water blocks line of effect for any fire spell. If the 
 
 **Table: COMBAT ADJUSTMENTS UNDERWATER**
 
-| Condition             | ————— Attack/Damage —————: Slashing or Bludgeoning | ————— Attack/Damage —————: Tail | Movement            | Off Balance? (4) |
-| --------------------- | -------------------------------------------------- | ------------------------------- | ------------------- | ---------------- |
-| Freedom of movement   | normal/normal                                      | normal/normal                   | normal              | No               |
-| Has a swim speed      | –2/half                                            | normal                          | normal              | No               |
+| Condition                  | ————— Attack/Damage —————: Slashing or Bludgeoning | ————— Attack/Damage —————: Tail | Movement            | Off Balance? (4) |
+| -------------------------- | -------------------------------------------------- | ------------------------------- | ------------------- | ---------------- |
+| Freedom of movement        | normal/normal                                      | normal/normal                   | normal              | No               |
+| Has a swim speed           | –2/half                                            | normal                          | normal              | No               |
 | Successful Athletics check | –2/half (1)                                        | –2/half                         | quarter or half (2) | No               |
-| Firm footing (3)      | –2/half                                            | –2/half                         | half                | No               |
-| None of the above     | –2/half                                            | –2/half                         | normal              | Yes              |
+| Firm footing (3)           | –2/half                                            | –2/half                         | half                | No               |
+| None of the above          | –2/half                                            | –2/half                         | normal              | Yes              |
 
-1 *A creature without a freedom of movement effects or a swim speed makes [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks underwater at a –2 penalty, but deals damage normally when [[rangoric-srd/rules/conditions/Grappled (Condition)|grappling]].*
+1 _A creature without a freedom of movement effects or a swim speed makes [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks underwater at a –2 penalty, but deals damage normally when [[rangoric-srd/rules/conditions/Grappled (Condition)|grappling]]._
 
-2 *A successful Athletics check lets a creature move one-quarter its speed as a move action or one-half its speed as a full-round action.*
+2 _A successful Athletics check lets a creature move one-quarter its speed as a move action or one-half its speed as a full-round action._
 
-3 *Creatures have firm footing when walking along the bottom, braced against a ship’s hull, or the like. A creature can only walk along the bottom if it wears or carries enough gear to weigh itself down—at least 16 pounds for Medium creatures, twice that for each size category larger than Medium, and half that for each size category smaller than Medium.*
+3 _Creatures have firm footing when walking along the bottom, braced against a ship’s hull, or the like. A creature can only walk along the bottom if it wears or carries enough gear to weigh itself down—at least 16 pounds for Medium creatures, twice that for each size category larger than Medium, and half that for each size category smaller than Medium._
 
-4 *Creatures flailing about in the water (usually because they failed their Athletics checks) have a hard time fighting effectively. An off-balance creature loses its Dexterity bonus to Armor Class, and opponents gain a +2 bonus on attacks against it.*
+4 _Creatures flailing about in the water (usually because they failed their Athletics checks) have a hard time fighting effectively. An off-balance creature loses its Dexterity bonus to Armor Class, and opponents gain a +2 bonus on attacks against it._
 
 ###### Floods
 
@@ -766,7 +766,7 @@ The majority of a city guard force is made up of [[rangoric-srd/classes/Warrior|
 
 ###### Siege Engines
 
-Siege engines are large weapons, temporary structures, or pieces of equipment traditionally used in besieging a castle or fortress.  
+Siege engines are large weapons, temporary structures, or pieces of equipment traditionally used in besieging a castle or fortress.
 
 Fuller siege engine rules, with more engines and their ammunition, are in [[rangoric-srd/rules/Siege Engines|Siege Engines]]; where the two differ, use those.
 
@@ -774,11 +774,11 @@ Table: Siege Engines   
 
 | Item            | Cost     | Damage  | Critical | Range Increment           | Typical Crew |
 | --------------- | -------- | ------- | -------- | ------------------------- | ------------ |
-| Catapult, heavy | 800 gp   | 6d6     | -       | 200 ft. (100 ft. mimimum) | 4            |
-| Catapult, light | 550 gp   | 4d6     | -       | 150 ft. (100 ft. minimum) | 2            |
+| Catapult, heavy | 800 gp   | 6d6     | -        | 200 ft. (100 ft. mimimum) | 4            |
+| Catapult, light | 550 gp   | 4d6     | -        | 150 ft. (100 ft. minimum) | 2            |
 | Ballista        | 500 gp   | 3d8     | 19-20    | 120 ft.                   | 1            |
-| Ram             | 1,000 gp | 3d6 (1) | -       | -                        | 10           |
-| Siege tower     | 2,000 gp | -      | -       | -                        | 20           |
+| Ram             | 1,000 gp | 3d6 (1) | -        | -                         | 10           |
+| Siege tower     | 2,000 gp | -       | -        | -                         | 20           |
 
 1 See description for special rules.
 
@@ -786,7 +786,7 @@ Catapult Attack Modifiers
 
 | Condition                                                                                             | Modifier                                      |
 | ----------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| No line of sight to target square                                                                     | -6                                           |
+| No line of sight to target square                                                                     | -6                                            |
 | Successive shots (crew can see where most recent misses landed)                                       | Culumative +2 per previous miss (maximum +10) |
 | Successive shots (crew can't see where most recent misses landed, but observer is providing feedback) | Culumative +1 per previous miss (maximum +5)  |
 
@@ -846,7 +846,7 @@ Most city buildings are made of a combination of stone or clay brick (on the low
 
 ###### Buying Buildings
 
-Characters might want to buy their own buildings or even construct their own castle. Use the prices in Table: Buildings directly, or as a guide when for extrapolating costs for more exotic structures.  
+Characters might want to buy their own buildings or even construct their own castle. Use the prices in Table: Buildings directly, or as a guide when for extrapolating costs for more exotic structures.
 
 Table: Buildings
 
@@ -903,11 +903,11 @@ Table: Random Weather is an appropriate weather table for general use, and can b
 
 **Moderate**: Between 40° and 60° Fahrenheit during the day, 10 to 20 degrees colder at night.
 
-**Powerful Storm** (*Windstorm/Blizzard/Hurricane/Tornado*): Wind speeds are over 50 mph (see Table: Wind Effects). In addition, blizzards are accompanied by heavy snow (1d3 feet), and hurricanes are accompanied by downpours (see above). Windstorms last for 1d6 hours. Blizzards last for 1d3 days. Hurricanes can last for up to a week, but their major impact on characters will come in a 24-to-48-hour period when the center of the storm moves through their area. Tornadoes are very short-lived (1d6×10 minutes), typically forming as part of a thunderstorm system.
+**Powerful Storm** (_Windstorm/Blizzard/Hurricane/Tornado_): Wind speeds are over 50 mph (see Table: Wind Effects). In addition, blizzards are accompanied by heavy snow (1d3 feet), and hurricanes are accompanied by downpours (see above). Windstorms last for 1d6 hours. Blizzards last for 1d3 days. Hurricanes can last for up to a week, but their major impact on characters will come in a 24-to-48-hour period when the center of the storm moves through their area. Tornadoes are very short-lived (1d6×10 minutes), typically forming as part of a thunderstorm system.
 
 **Precipitation**: Roll d% to determine whether the precipitation is fog (01–30), rain/snow (31–90), or sleet/hail (91–00). Snow and sleet occur only when the temperature is 30° Fahrenheit or below. Most precipitation lasts for 2d4 hours. By contrast, hail lasts for only 1d20 minutes but usually accompanies 1d4 hours of rain.
 
-**Storm** (*Duststorm/Snowstorm/Thunderstorm*): Wind speeds are severe (30 to 50 mph) and visibility is cut by three-quarters. Storms last for 2d4–1 hours. See Storms, below, for more details.
+**Storm** (_Duststorm/Snowstorm/Thunderstorm_): Wind speeds are severe (30 to 50 mph) and visibility is cut by three-quarters. Storms last for 2d4–1 hours. See Storms, below, for more details.
 
 **Warm**: Between 60° and 85° Fahrenheit during the day, 10 to 20 degrees colder at night.
 
@@ -922,8 +922,8 @@ Table: Random Weather is an appropriate weather table for general use, and can b
 | 81–90                                                                                                             | Inclement weather | Precipitation (snow)                    | Precipitation (normal for season)           | Hot, windy |
 | 91–99                                                                                                             | Storm             | Snowstorm                               | Thunderstorm, snowstorm (3)                 | Duststorm  |
 | 100                                                                                                               | Powerful storm    | Blizzard                                | Windstorm, blizzard (4), hurricane, tornado | Downpour   |
-| 1 *Temperate includes forest, hills, marsh, mountains, plains, and warm aquatic.*                                 |                   |                                         |                                             |            |
-| 2 *Winter is cold, summer is warm, spring and autumn are temperate. Marsh regions are slightly warmer in winter.* |                   |                                         |                                             |            |
+| 1 _Temperate includes forest, hills, marsh, mountains, plains, and warm aquatic._                                 |                   |                                         |                                             |            |
+| 2 _Winter is cold, summer is warm, spring and autumn are temperate. Marsh regions are slightly warmer in winter._ |                   |                                         |                                             |            |
 
 ###### Rain, Snow, Sleet, and Hail
 
@@ -931,37 +931,37 @@ Bad weather frequently slows or halts travel and makes it virtually impossible t
 
 Most precipitation is rain, but in cold conditions it can manifest as snow, sleet, or hail. Precipitation of any kind followed by a cold snap in which the temperature dips from above freezing to 30° F or below may produce ice.
 
-*Rain*: Rain reduces visibility ranges by half, resulting in a –4 penalty on [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Investigation|Investigation]] checks. It has the same effect on flames, ranged weapon attacks, and [[rangoric-srd/skills/Perception|Perception]] checks as severe wind.
+_Rain_: Rain reduces visibility ranges by half, resulting in a –4 penalty on [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Investigation|Investigation]] checks. It has the same effect on flames, ranged weapon attacks, and [[rangoric-srd/skills/Perception|Perception]] checks as severe wind.
 
-*Snow*: Falling snow has the same effects on visibility, ranged weapon attacks, and skill checks as rain, and it costs 2 squares of movement to enter a snow-covered square. A day of snowfall leaves 1d6 inches of snow on the ground.
+_Snow_: Falling snow has the same effects on visibility, ranged weapon attacks, and skill checks as rain, and it costs 2 squares of movement to enter a snow-covered square. A day of snowfall leaves 1d6 inches of snow on the ground.
 
-*Heavy Snow*: Heavy snow has the same effects as normal snowfall, but also restricts visibility as fog does (see Fog, below). A day of heavy snow leaves 1d4 feet of snow on the ground, and it costs 4 squares of movement to enter a square covered with heavy snow. Heavy snow accompanied by strong or severe winds may result in snowdrifts 1d4×5 feet deep, especially in and around objects big enough to deflect the wind—a cabin or a large tent, for instance. There is a 10% chance that a heavy snowfall is accompanied by lightning (see Thunderstorm, below). Snow has the same effect on flames as moderate wind.
+_Heavy Snow_: Heavy snow has the same effects as normal snowfall, but also restricts visibility as fog does (see Fog, below). A day of heavy snow leaves 1d4 feet of snow on the ground, and it costs 4 squares of movement to enter a square covered with heavy snow. Heavy snow accompanied by strong or severe winds may result in snowdrifts 1d4×5 feet deep, especially in and around objects big enough to deflect the wind—a cabin or a large tent, for instance. There is a 10% chance that a heavy snowfall is accompanied by lightning (see Thunderstorm, below). Snow has the same effect on flames as moderate wind.
 
-*Sleet*: Essentially frozen rain, sleet has the same effect as rain while falling (except that its chance to extinguish protected flames is 75%) and the same effect as snow once on the ground.
+_Sleet_: Essentially frozen rain, sleet has the same effect as rain while falling (except that its chance to extinguish protected flames is 75%) and the same effect as snow once on the ground.
 
-*Hail*: Hail does not reduce visibility, but the sound of falling hail makes Perception checks more difficult (–4 penalty). Sometimes (5% chance) hail can become large enough to deal 1 point of lethal damage (per storm) to anything in the open. Once on the ground, hail has the same effect on movement as snow.
+_Hail_: Hail does not reduce visibility, but the sound of falling hail makes Perception checks more difficult (–4 penalty). Sometimes (5% chance) hail can become large enough to deal 1 point of lethal damage (per storm) to anything in the open. Once on the ground, hail has the same effect on movement as snow.
 
 ###### Storms
 
 The combined effects of precipitation (or dust) and wind that accompany all storms reduce visibility ranges by three quarters, imposing a –8 penalty on [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Investigation|Investigation]]checks. Storms make ranged weapon attacks impossible, except for those using siege weapons, which have a –4 penalty on attack rolls. They automatically extinguish candles, torches, and similar unprotected flames. They cause protected flames, such as those of lanterns, to dance wildly and have a 50% chance to extinguish these lights. See Table: Wind Effects for possible consequences to creatures caught outside without shelter during such a storm. Storms are divided into the following three types.
 
-*Duststorm (CR 3)*: These desert storms differ from other storms in that they have no precipitation. Instead, a duststorm blows fine grains of sand that obscure vision, smother unprotected flames, and can even choke protected flames (50% chance). Most duststorms are accompanied by severe winds and leave behind a deposit of 1d6 inches of sand. However, there is a 10% chance for a greater duststorm to be accompanied by windstorm-magnitude winds (see Table: Wind Effects). These greater duststorms deal 1d3 points of nonlethal damage each round to anyone caught out in the open without shelter and also pose a choking hazard (see Drowning—except that a character with a scarf or similar protection across her mouth and nose does not begin to choke until after a number of rounds equal to 10 × her Constitution score). Greater duststorms leave 2d3–1 feet of fine sand in their wake.
+_Duststorm (CR 3)_: These desert storms differ from other storms in that they have no precipitation. Instead, a duststorm blows fine grains of sand that obscure vision, smother unprotected flames, and can even choke protected flames (50% chance). Most duststorms are accompanied by severe winds and leave behind a deposit of 1d6 inches of sand. However, there is a 10% chance for a greater duststorm to be accompanied by windstorm-magnitude winds (see Table: Wind Effects). These greater duststorms deal 1d3 points of nonlethal damage each round to anyone caught out in the open without shelter and also pose a choking hazard (see Drowning—except that a character with a scarf or similar protection across her mouth and nose does not begin to choke until after a number of rounds equal to 10 × her Constitution score). Greater duststorms leave 2d3–1 feet of fine sand in their wake.
 
-*Snowstorm*: In addition to the wind and precipitation common to other storms, snowstorms leave 1d6 inches of snow on the ground afterward.
+_Snowstorm_: In addition to the wind and precipitation common to other storms, snowstorms leave 1d6 inches of snow on the ground afterward.
 
-*Thunderstorm*: In addition to wind and precipitation (usually rain, but sometimes also hail), thunderstorms are accompanied by lightning that can pose a hazard to characters without proper shelter (especially those in metal armor). As a rule of thumb, assume one bolt per minute for a 1-hour period at the center of the storm. Each bolt causes electricity damage equal to 1d10 eight-sided dice. One in ten thunderstorms is accompanied by a tornado (see below).
+_Thunderstorm_: In addition to wind and precipitation (usually rain, but sometimes also hail), thunderstorms are accompanied by lightning that can pose a hazard to characters without proper shelter (especially those in metal armor). As a rule of thumb, assume one bolt per minute for a 1-hour period at the center of the storm. Each bolt causes electricity damage equal to 1d10 eight-sided dice. One in ten thunderstorms is accompanied by a tornado (see below).
 
 **Powerful Storms**: Very high winds and torrential precipitation reduce visibility to zero, making Perception and Investigation checks and all ranged weapon attacks impossible. Unprotected flames are automatically extinguished, and protected flames have a 75% chance of being doused. Creatures caught in the area must make a DC 20 Fortitude save or face the effects based on the size of the creature (see Table: Wind Effects). Powerful storms are divided into the ^powerful-storms
 
 following four types.
 
-*Windstorm*: While accompanied by little or no precipitation, windstorms can cause considerable damage simply through the force of their wind.
+_Windstorm_: While accompanied by little or no precipitation, windstorms can cause considerable damage simply through the force of their wind.
 
-*Blizzard*: The combination of high winds, heavy snow (typically 1d3 feet), and bitter cold make blizzards deadly for all who are unprepared for them.
+_Blizzard_: The combination of high winds, heavy snow (typically 1d3 feet), and bitter cold make blizzards deadly for all who are unprepared for them.
 
-*Hurricane*: In addition to very high winds and heavy rain, hurricanes are accompanied by floods. Most adventuring activity is impossible under such conditions.
+_Hurricane_: In addition to very high winds and heavy rain, hurricanes are accompanied by floods. Most adventuring activity is impossible under such conditions.
 
-*Tornado*: One in ten thunderstorms is accompanied by a tornado.
+_Tornado_: One in ten thunderstorms is accompanied by a tornado.
 
 ###### Fog
 
@@ -971,53 +971,53 @@ Whether in the form of a low-lying cloud or a mist rising from the ground, fog o
 
 The wind can create a stinging spray of sand or dust, fan a large fire, heel over a small boat, and blow gases or vapors away. If powerful enough, it can even knock characters down (see Table: Wind Effects), interfere with ranged attacks, or impose penalties on some skill checks.
 
-*Light Wind*: A gentle breeze, having little or no game effect.
+_Light Wind_: A gentle breeze, having little or no game effect.
 
-*Moderate Wind*: A steady wind with a 50% chance of extinguishing small, unprotected flames, such as candles.
+_Moderate Wind_: A steady wind with a 50% chance of extinguishing small, unprotected flames, such as candles.
 
-*Strong Wind*: Gusts that automatically extinguish unprotected flames (candles, torches, and the like). Such gusts impose a –2 penalty on ranged attack rolls and on Perception checks.
+_Strong Wind_: Gusts that automatically extinguish unprotected flames (candles, torches, and the like). Such gusts impose a –2 penalty on ranged attack rolls and on Perception checks.
 
-*Severe Wind*: In addition to automatically extinguishing any unprotected flames, winds of this magnitude cause protected flames (such as those of lanterns) to dance wildly and have a 50% chance of extinguishing these lights. Ranged weapon attacks and Perception checks are at a –4 penalty. This is the velocity of wind produced by a [[rangoric-srd/spells/Gust of Wind|gust of wind]] spell.
+_Severe Wind_: In addition to automatically extinguishing any unprotected flames, winds of this magnitude cause protected flames (such as those of lanterns) to dance wildly and have a 50% chance of extinguishing these lights. Ranged weapon attacks and Perception checks are at a –4 penalty. This is the velocity of wind produced by a [[rangoric-srd/spells/Gust of Wind|gust of wind]] spell.
 
-*Windstorm*: Powerful enough to bring down branches if not whole trees, windstorms automatically extinguish unprotected flames and have a 75% chance of blowing out protected flames, such as those of lanterns. Ranged weapon attacks are impossible, and even siege weapons have a –4 penalty on attack rolls. Perception checks are at a –8 penalty due to the howling of the wind.
+_Windstorm_: Powerful enough to bring down branches if not whole trees, windstorms automatically extinguish unprotected flames and have a 75% chance of blowing out protected flames, such as those of lanterns. Ranged weapon attacks are impossible, and even siege weapons have a –4 penalty on attack rolls. Perception checks are at a –8 penalty due to the howling of the wind.
 
-*Hurricane-Force Wind*: All flames are extinguished. Ranged attacks are impossible (except with siege weapons, which have a –8 penalty on attack rolls). Perception checks are impossible: All characters can hear is the roaring of the wind. Hurricane-force winds often fell trees.
+_Hurricane-Force Wind_: All flames are extinguished. Ranged attacks are impossible (except with siege weapons, which have a –8 penalty on attack rolls). Perception checks are impossible: All characters can hear is the roaring of the wind. Hurricane-force winds often fell trees.
 
-*Tornado (CR 10)*: All flames are extinguished. All ranged attacks are impossible (even with siege weapons), as are Perception checks. Instead of being [[rangoric-srd/rules/Special Abilities and Conditions#^blown-away|blown away]] (see Table: Wind Effects), characters in close proximity to a tornado who fail their Fortitude saves are sucked toward the tornado. Those who come in contact with the actual funnel cloud are picked up and whirled around for 1d10 rounds, taking 6d6 points of damage per round, before being violently expelled (falling damage may apply). While a tornado’s rotational speed can be as great as 300 mph, the funnel itself moves forward at an average of 30 mph (roughly 250 feet per round). A tornado uproots trees, destroys buildings, and causes other similar forms of major destruction.
+_Tornado (CR 10)_: All flames are extinguished. All ranged attacks are impossible (even with siege weapons), as are Perception checks. Instead of being [[rangoric-srd/rules/Special Abilities and Conditions#^blown-away|blown away]] (see Table: Wind Effects), characters in close proximity to a tornado who fail their Fortitude saves are sucked toward the tornado. Those who come in contact with the actual funnel cloud are picked up and whirled around for 1d10 rounds, taking 6d6 points of damage per round, before being violently expelled (falling damage may apply). While a tornado’s rotational speed can be as great as 300 mph, the funnel itself moves forward at an average of 30 mph (roughly 250 feet per round). A tornado uproots trees, destroys buildings, and causes other similar forms of major destruction.
 
 **Table: WIND EFFECTS**
 
-| Wind Force | Wind Speed  | Ranged Attacks Normal/Siege Weapons (1) | Creature Size (2)      | Wind Effect on Creatures                                                               | Fort Save DC |
-| ---------- | ----------- | --------------------------------------- | ---------------------- | -------------------------------------------------------------------------------------- | ------------ |
-| Light      | 0–10 mph    | —/—                                     | Any                    | None                                                                                   | —            |
-| Moderate   | 11–20 mph   | —/—                                     | Any                    | None                                                                                   | —            |
+| Wind Force | Wind Speed  | Ranged Attacks Normal/Siege Weapons (1) | Creature Size (2)      | Wind Effect on Creatures                                                            | Fort Save DC |
+| ---------- | ----------- | --------------------------------------- | ---------------------- | ----------------------------------------------------------------------------------- | ------------ |
+| Light      | 0–10 mph    | —/—                                     | Any                    | None                                                                                | —            |
+| Moderate   | 11–20 mph   | —/—                                     | Any                    | None                                                                                | —            |
 | Strong     | 21–30 mph   | –2/—                                    | Tiny or smaller        | [[rangoric-srd/rules/Special Abilities and Conditions#^knocked-down\|Knocked down]] | 10           |
-|            |             |                                         | Small or larger        | None                                                                                   |              |
-| Severe     | 31–50 mph   | –4/—                                    | Tiny                   | Blown away                                                                             | 15           |
-|            |             |                                         | Small                  | Knocked down                                                                           |              |
+|            |             |                                         | Small or larger        | None                                                                                |              |
+| Severe     | 31–50 mph   | –4/—                                    | Tiny                   | Blown away                                                                          | 15           |
+|            |             |                                         | Small                  | Knocked down                                                                        |              |
 |            |             |                                         | Medium                 | [[rangoric-srd/rules/Special Abilities and Conditions#^checked\|Checked]]           |              |
-|            |             |                                         | Large or larger        | None                                                                                   |              |
-| Windstorm  | 51–74 mph   | Impossible/–4                           | Small or smaller       | Blown away                                                                             | 18           |
-|            |             |                                         | Medium                 | Knocked down                                                                           |              |
-|            |             |                                         | Large or Huge          | Checked                                                                                |              |
-|            |             |                                         | Gargantuan or Colossal | None                                                                                   |              |
-| Hurricane  | 75–174 mph  | Impossible/–8                           | Medium or smaller      | Blown away                                                                             | 20           |
-|            |             |                                         | Large                  | Knocked down                                                                           |              |
-|            |             |                                         | Huge                   | Checked                                                                                |              |
-|            |             |                                         | Gargantuan or Colossal | None                                                                                   |              |
-| Tornado    | 175–300 mph | Impossible/impossible                   | Large or smaller       | Blown away                                                                             | 30           |
-|            |             |                                         | Huge                   | Knocked down                                                                           |              |
-|            |             |                                         | Gargantuan or Colossal | Checked                                                                                |              |
+|            |             |                                         | Large or larger        | None                                                                                |              |
+| Windstorm  | 51–74 mph   | Impossible/–4                           | Small or smaller       | Blown away                                                                          | 18           |
+|            |             |                                         | Medium                 | Knocked down                                                                        |              |
+|            |             |                                         | Large or Huge          | Checked                                                                             |              |
+|            |             |                                         | Gargantuan or Colossal | None                                                                                |              |
+| Hurricane  | 75–174 mph  | Impossible/–8                           | Medium or smaller      | Blown away                                                                          | 20           |
+|            |             |                                         | Large                  | Knocked down                                                                        |              |
+|            |             |                                         | Huge                   | Checked                                                                             |              |
+|            |             |                                         | Gargantuan or Colossal | None                                                                                |              |
+| Tornado    | 175–300 mph | Impossible/impossible                   | Large or smaller       | Blown away                                                                          | 30           |
+|            |             |                                         | Huge                   | Knocked down                                                                        |              |
+|            |             |                                         | Gargantuan or Colossal | Checked                                                                             |              |
 
-1 *The siege weapon category includes ballista and catapult attacks as well as boulders tossed by giants.*
+1 _The siege weapon category includes ballista and catapult attacks as well as boulders tossed by giants._
 
-2 *Flying or airborne creatures are treated as one size category smaller than their actual size, so an airborne Gargantuan dragon is treated as Huge for purposes of wind effects.*
+2 _Flying or airborne creatures are treated as one size category smaller than their actual size, so an airborne Gargantuan dragon is treated as Huge for purposes of wind effects._
 
-*Checked*: Creatures are unable to move forward against the force of the wind. Flying creatures are blown back 1d6×5 feet.
+_Checked_: Creatures are unable to move forward against the force of the wind. Flying creatures are blown back 1d6×5 feet.
 
-*Knocked Down*: Creatures are knocked prone by the force of the wind. Flying creatures are instead blown back 1d6×10 feet.
+_Knocked Down_: Creatures are knocked prone by the force of the wind. Flying creatures are instead blown back 1d6×10 feet.
 
-*Blown Away*: Creatures on the ground are knocked prone and rolled 1d4×10 feet, taking 1d4 points of nonlethal damage per 10 feet. Flying creatures are blown back 2d6×10 feet and take 2d6 points of nonlethal damage due to battering and buffeting.
+_Blown Away_: Creatures on the ground are knocked prone and rolled 1d4×10 feet, taking 1d4 points of nonlethal damage per 10 feet. Flying creatures are blown back 2d6×10 feet and take 2d6 points of nonlethal damage due to battering and buffeting.
 
 ### The Environment
 
@@ -1162,7 +1162,7 @@ A character who has no air to breathe can hold her breath for 2 rounds per point
 
 When the character fails one of these Constitution checks, she begins to suffocate. In the first round, she falls [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] (0 hit points). In the following round, she drops to –1 hit points and is [[rangoric-srd/rules/Special Abilities and Conditions#^dying|dying]]. In the third round, she suffocates.
 
-**Slow Suffocation**: A Medium character can breathe easily for 6 hours in a sealed chamber measuring 10 feet on a side. After that time, the character takes 1d6 points of nonlethal damage every 15 minutes. Each additional Medium character or significant fire source (a torch, for example) proportionally reduces the time the air will last. When a character falls unconscious from this nonlethal damage, she drops to –1 hit points and is dying. In the next round, she suffocates.  
+**Slow Suffocation**: A Medium character can breathe easily for 6 hours in a sealed chamber measuring 10 feet on a side. After that time, the character takes 1d6 points of nonlethal damage every 15 minutes. Each additional Medium character or significant fire source (a torch, for example) proportionally reduces the time the air will last. When a character falls unconscious from this nonlethal damage, she drops to –1 hit points and is dying. In the next round, she suffocates.
 
 Small characters consume half as much air as Medium characters. A larger volume of air, of course, lasts for a longer time.
 

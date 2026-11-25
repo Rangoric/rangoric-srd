@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Oil of Wound Binding
 
-*Unguent/Herbal Restorative; Special*
+_Unguent/Herbal Restorative; Special_
 
 Oil of wound binding is a soothing golden liquid that easily pours out of its ceramic bottle and almost magically spreads itself quickly over living tissues. It coats and seals any breaks in the skin (other than natural orifices) and acts as a general bandage or wound binder to stop all bleeding. Thus, this quick-acting unguent can prevent further hit point loss and is considered an herbal restorative even though it does not provide any hit point restoration.
 

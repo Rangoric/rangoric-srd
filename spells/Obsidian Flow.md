@@ -33,16 +33,16 @@ tags: [rangoric, rangoric/spell]
 
 # Obsidian Flow
 
-*Transmutation \[Earth, Fire\]*
+_Transmutation \[Earth, Fire\]_
 
-  - **Level**: Drd 4, Hun 4, Sor/Wiz 4, Sum 3, SumU 4
-  - **Components**: V, S, M/DF (a small piece of obsidian)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Area**: 20-ft.-radius burst
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Reflex partial, see text
-  - **Spell Resistance**: No
+- **Level**: Drd 4, Hun 4, Sor/Wiz 4, Sum 3, SumU 4
+- **Components**: V, S, M/DF (a small piece of obsidian)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Area**: 20-ft.-radius burst
+- **Duration**: Instantaneous
+- **Saving Throw**: Reflex partial, see text
+- **Spell Resistance**: No
 
 You convert a thin layer of the ground to molten glass that cools quickly. Creatures in the area take 1d6 points of fire damage per two caster levels (maximum of 10d6) and become entangled. Any creature within the area that makes a successful Reflex save takes half damage and is not entangled. An entangled creature can attempt to free itself by spending a move action to attempt a Strength check or Escape Artist check (the DC equals the spell's saving throw DC).
 

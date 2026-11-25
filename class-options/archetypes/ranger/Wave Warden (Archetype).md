@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Wave Warden
 
-*A [[rangoric-srd/classes/Ranger#^ranger-archetypes|ranger]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Merfolk|merfolk]].*
+_A [[rangoric-srd/classes/Ranger#^ranger-archetypes|ranger]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Merfolk|merfolk]]._
 
 The wave warden patrols beneath the sea, preserving the safety and secrets of merfolk communities. Though he fares best beneath the water, dry land is no haven to his quarry.
 
@@ -33,4 +33,4 @@ The wave warden patrols beneath the sea, preserving the safety and secrets of me
 
 **Seaborn (Ex)**: At 7th level, a wave warden may move through any sort of aquatic growth (such as coral or seaweed) or across a wet surface at his normal speed and without taking damage or suffering any other impairment. Obstacles that are enchanted or magically manipulated to impede motion still affect him. This ability replaces [[rangoric-srd/classes/Ranger#^ranger-woodland-stride|woodland stride]].
 
-**Watery Summons (Sp)**: At 8th level, a wave warden can summon allies once per day as a full-round action. This functions as *[[rangoric-srd/spells/Summon Nature’s Ally III|summon nature's ally III]]*, except it can only be used to summon creatures with the aquatic or water subtypes. At 11th level, this ability improves to *[[rangoric-srd/spells/Summon Nature’s Ally IV|summon nature's ally IV]]*, with this progression continuing every three levels thereafter. The warden's caster level is equal to his ranger level. This ability replaces [[rangoric-srd/classes/Ranger#^ranger-swift-tracker|swift tracker]].
+**Watery Summons (Sp)**: At 8th level, a wave warden can summon allies once per day as a full-round action. This functions as _[[rangoric-srd/spells/Summon Nature’s Ally III|summon nature's ally III]]_, except it can only be used to summon creatures with the aquatic or water subtypes. At 11th level, this ability improves to _[[rangoric-srd/spells/Summon Nature’s Ally IV|summon nature's ally IV]]_, with this progression continuing every three levels thereafter. The warden's caster level is equal to his ranger level. This ability replaces [[rangoric-srd/classes/Ranger#^ranger-swift-tracker|swift tracker]].

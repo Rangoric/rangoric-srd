@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Veiled Venom
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Sp) of the [[rangoric-srd/class-options/mysteries/Intrigue Mystery|intrigue]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Sp) of the [[rangoric-srd/class-options/mysteries/Intrigue Mystery|intrigue]] mystery._
 
-The powers of intrigue veil your poisons and magic items from magical scrutiny. As a standard action, you can touch an object, granting it the benefits of the spells *[[rangoric-srd/spells/Magic Aura|magic aura]]* and *[[rangoric-srd/spells/Obscure Poison|obscure poison]]*. You can use this ability at will, but each time you do, the effects of any previous use end.
+The powers of intrigue veil your poisons and magic items from magical scrutiny. As a standard action, you can touch an object, granting it the benefits of the spells _[[rangoric-srd/spells/Magic Aura|magic aura]]_ and _[[rangoric-srd/spells/Obscure Poison|obscure poison]]_. You can use this ability at will, but each time you do, the effects of any previous use end.

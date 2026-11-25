@@ -23,4 +23,4 @@ When this ring is worn, the wielder's skin attains a barely perceptible sheen. I
 
 Additionally, the ring's wearer can focus all of the ring's power, possibly repelling a devastating blow. Once per day, when a critical hit or [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] is scored on the wearer, there is a 50% chance that the critical hit or sneak attack is negated and damage is instead rolled normally. Using this ability is an immediate action, and the wearer must decide to use it before the critical hit or sneak attack damage is rolled.
 
-Moderate transmutation; CL 8th; [[rangoric-srd/feats/Forge Ring|Forge Ring]], *[[rangoric-srd/spells/Stone Fist|stone fist]]*, *[[rangoric-srd/spells/Stoneskin|stoneskin]]*; Price 12,000 gp; Cost 6,000 gp.
+Moderate transmutation; CL 8th; [[rangoric-srd/feats/Forge Ring|Forge Ring]], _[[rangoric-srd/spells/Stone Fist|stone fist]]_, _[[rangoric-srd/spells/Stoneskin|stoneskin]]_; Price 12,000 gp; Cost 6,000 gp.

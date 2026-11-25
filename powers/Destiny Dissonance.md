@@ -31,6 +31,6 @@ Target: Creature touched
 Duration: 1 round/level  
 Saving Throw: None  
 Power Resistance: Yes  
-Power Points: 1  
+Power Points: 1
 
 Your mere touch grants your foe an imperfect, unfocused glimpse of the many possible futures in store. Unaccustomed to and unable to process the information, the subject becomes [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1 round per level of the manifester.

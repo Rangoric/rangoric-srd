@@ -30,17 +30,17 @@ Necromantic energy is used primarily in spells belonging to the school of necrom
 
 **Table: Necromantic Sources** ^table-necromantic-sources
 
-| Source of Necromantic Energy | Time to Attune | Initial Bonus |
-| --- | --- | --- |
-| Fresh corpse, less than 1 hour dead | 2 rounds | +4 |
-| Corpse, less than 1 day dead | 3 rounds | +3 |
-| Corpse, less than 1 week dead | 4 rounds | +2 |
-| Corpse, more than 1 week dead | 5 rounds | +1 |
-| Graveyard, unconsecrated | 5 rounds | +6 |
-| Graveyard, consecrated | 10 rounds | +4 |
-| Battlefield, less than 1 week old | 6 rounds | +4 |
-| Battlefield, more than 1 week old | 8 rounds | +3 |
-| Necromantic vortex | 5+ rounds | Varies |
+| Source of Necromantic Energy        | Time to Attune | Initial Bonus |
+| ----------------------------------- | -------------- | ------------- |
+| Fresh corpse, less than 1 hour dead | 2 rounds       | +4            |
+| Corpse, less than 1 day dead        | 3 rounds       | +3            |
+| Corpse, less than 1 week dead       | 4 rounds       | +2            |
+| Corpse, more than 1 week dead       | 5 rounds       | +1            |
+| Graveyard, unconsecrated            | 5 rounds       | +6            |
+| Graveyard, consecrated              | 10 rounds      | +4            |
+| Battlefield, less than 1 week old   | 6 rounds       | +4            |
+| Battlefield, more than 1 week old   | 8 rounds       | +3            |
+| Necromantic vortex                  | 5+ rounds      | Varies        |
 
 It seems that necromantic energy is everywhere. As some fatalistic thinkers have said, “In every living man, there is a dead man waiting to get out.” The fresh corpse of any once-living thing is a veritable well of necromantic energy, though this energy rapidly drains out into the surrounding environment as the corpse decomposes. Some environments, such as graveyards, mass tombs or battlefields soak up and retain this energy. Other places, like isolated wastes, fetid marshes, and barren peaks, seem to spontaneously generate the energies of death.
 
@@ -68,10 +68,10 @@ The Red Road is an optional rule, and an evil one.
 
 Some shadetouched have discovered a darker path to power. By sacrificing living things, it is possible to harness the necromantic energies released at the moment of death and use them to augment shadetouched abilities. The Red Road is fraught with danger, however, as those who use it can grow addicted to the ecstatic rush of power it provides. All good faiths believe that the Red Road leads toward damnation.
 
-Some of the more philosophically inclined shadetouched claim that it is not the *life* of the creature slain that gives them power, but the new death that is no longer masked and contained by the vanished life. Some also say that, just as sentient beings have greater power to affect the world, so too does the death within them. But whether life force or death energy, as the power grows, so does the rush it provides, seducing the weak-willed, drawing them toward ever-greater acts of carnage.
+Some of the more philosophically inclined shadetouched claim that it is not the _life_ of the creature slain that gives them power, but the new death that is no longer masked and contained by the vanished life. Some also say that, just as sentient beings have greater power to affect the world, so too does the death within them. But whether life force or death energy, as the power grows, so does the rush it provides, seducing the weak-willed, drawing them toward ever-greater acts of carnage.
 
 > [!warning] Evil
-> While an argument can be made that sacrificing nonsentient creatures is no more evil than working in a slaughterhouse, sacrificing sentient creatures is Evil with a very large E. Player characters dabbling in this sort of activity can expect alignment shifts, divine disfavor, fiendish attention, and lots of paladins following them around with pointy objects and violent intentions. For the purposes of *[[rangoric-srd/spells/Detect Evil|detect evil]]* spells, treat a character who indulges in this practice as an evil cleric to determine her aura strength.
+> While an argument can be made that sacrificing nonsentient creatures is no more evil than working in a slaughterhouse, sacrificing sentient creatures is Evil with a very large E. Player characters dabbling in this sort of activity can expect alignment shifts, divine disfavor, fiendish attention, and lots of paladins following them around with pointy objects and violent intentions. For the purposes of _[[rangoric-srd/spells/Detect Evil|detect evil]]_ spells, treat a character who indulges in this practice as an evil cleric to determine her aura strength.
 
 The sacrificial victim must have at least 1 Hit Die or one level to provide enough power to be useful, must be held [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]], and must retain at least 90% of its hit points prior to the sacrifice. The shadetouched character first makes a [[rangoric-srd/rules/Concentration (Check)|concentration check]] DC 20 to focus on the creature’s life force and then make a successful [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|coup de grace]] attack. When the creature dies, the shadetouched character must make a Wisdom check (DC 15 + the sacrificed creature’s Hit Dice and levels) in order to absorb the necromantic energy released at the moment of death. Any character with levels in the [[rangoric-srd/prestige-classes/Shadeseer|Shadeseer]] prestige class may add her levels in this class to her Wisdom check. Failing this check results in the character being [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d4 + the sacrificed creature’s HD/level in rounds.
 
@@ -81,7 +81,7 @@ Absorbing a creature’s death energy is an intensely ecstatic experience and th
 
 The character may make another Will save each round to emerge from the reverie, dropping the DC by one point every round, until she either recovers or emerges from her trance with zero bonus points remaining.
 
-This ecstatic trance is merely the beginning of the downward spiral on the Red Road. Once a character succumbs to the temptation, the addiction begins. One week after failing a Will save, the character must make another Will save of the same DC or begin to suffer a –1 morale penalty to all attack rolls, weapon damage rolls, ability checks, skill checks, and saving throws. If she fails, every week thereafter the character must make another Will save (including current morale penalties) against the same DC or suffer an additional –1 penalty. This penalty can only be removed by a *[[rangoric-srd/spells/Heal (Spell)|heal]]* spell or by sacrificing another creature providing a bonus equal to or greater than the one given by the sacrifice that she failed to save against. More than one creature may be sacrificed, and the additional death energy added together to meet the required bonus.
+This ecstatic trance is merely the beginning of the downward spiral on the Red Road. Once a character succumbs to the temptation, the addiction begins. One week after failing a Will save, the character must make another Will save of the same DC or begin to suffer a –1 morale penalty to all attack rolls, weapon damage rolls, ability checks, skill checks, and saving throws. If she fails, every week thereafter the character must make another Will save (including current morale penalties) against the same DC or suffer an additional –1 penalty. This penalty can only be removed by a _[[rangoric-srd/spells/Heal (Spell)|heal]]_ spell or by sacrificing another creature providing a bonus equal to or greater than the one given by the sacrifice that she failed to save against. More than one creature may be sacrificed, and the additional death energy added together to meet the required bonus.
 
 ## Shadetouched Feats
 

@@ -40,37 +40,37 @@ tags: [rangoric, rangoric/monster]
 
 # Orc
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 1d10+1 (6 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 13 (+3 armor), touch 10, flat-footed 13
-  - **Base Attack**: +1; **CMB**: +4; **CMD**: 14
-  - **Attack**: [[rangoric-srd/equipment/weapons/Falchion|Falchion]] +5 melee (2d4+4/18–20) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +1 ranged (1d6+3)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Falchion|Falchion]] +5 melee (2d4+4/18–20); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +1 ranged (1d6+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], weapon familiarity, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-  - **Saves**: Fort +3, Ref +0, Will –1
-  - **Abilities**: Str 17, Dex 11, Con 12, Int 7, Wis 8, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +2
-  - **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (falchion)
-  - **Environment**: Temperate hills, mountains, or underground
-  - **Organization**: Solitary, gang (2–4), squad (11–20 plus 2 sergeants of 3rd level and 1 leader of 3rd–6th level), or band (30–100 plus 150% noncombatants plus 1 sergeant of 3rd level per 10 adults, 1 lieutenant of 5th level per 20 adults, and 1 leader of 7th level per 30 adults)
-  - **Challenge Rating**: 1/3
-  - **Treasure**: NPC gear (studded leather armor, falchion, 4 javelins, other treasure)
-  - **Alignment**: Often chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: +0
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 1d10+1 (6 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 13 (+3 armor), touch 10, flat-footed 13
+- **Base Attack**: +1; **CMB**: +4; **CMD**: 14
+- **Attack**: [[rangoric-srd/equipment/weapons/Falchion|Falchion]] +5 melee (2d4+4/18–20) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +1 ranged (1d6+3)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Falchion|Falchion]] +5 melee (2d4+4/18–20); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +1 ranged (1d6+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], weapon familiarity, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
+- **Saves**: Fort +3, Ref +0, Will –1
+- **Abilities**: Str 17, Dex 11, Con 12, Int 7, Wis 8, Cha 6
+- **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +2
+- **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (falchion)
+- **Environment**: Temperate hills, mountains, or underground
+- **Organization**: Solitary, gang (2–4), squad (11–20 plus 2 sergeants of 3rd level and 1 leader of 3rd–6th level), or band (30–100 plus 150% noncombatants plus 1 sergeant of 3rd level per 10 adults, 1 lieutenant of 5th level per 20 adults, and 1 leader of 7th level per 30 adults)
+- **Challenge Rating**: 1/3
+- **Treasure**: NPC gear (studded leather armor, falchion, 4 javelins, other treasure)
+- **Alignment**: Often chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: +0
 
 **Also in this entry:**
 
-  - Orc Commanders: [[rangoric-srd/monsters/orc/Orc Sergeant|Orc Sergeant]] (CR 2), [[rangoric-srd/monsters/orc/Orc Lieutenant|Orc Lieutenant]] (CR 4)
-  - Orc Mystic: [[rangoric-srd/monsters/orc/Orc Mystic|Orc Mystic]] (CR 2)
-  - Orc Prodigies: [[rangoric-srd/monsters/orc/Orc Thug|Orc Thug]] (CR 3), [[rangoric-srd/monsters/orc/Orc War Drummer|Orc War Drummer]] (CR 3)
-  - Orc Seekers: [[rangoric-srd/monsters/orc/Orc Scout|Orc Scout]] (CR 5), [[rangoric-srd/monsters/orc/Gorthek Rider|Gorthek Rider]] (CR 6)
-  - Orc Rulers: [[rangoric-srd/monsters/orc/Orc Warlord|Orc Warlord]] (CR 6), [[rangoric-srd/monsters/orc/Orc Chieftain|Orc Chieftain]] (CR 9)
-  - Orc Witch Doctor: [[rangoric-srd/monsters/orc/Orc Witch Doctor|Orc Witch Doctor]] (CR 8)
+- Orc Commanders: [[rangoric-srd/monsters/orc/Orc Sergeant|Orc Sergeant]] (CR 2), [[rangoric-srd/monsters/orc/Orc Lieutenant|Orc Lieutenant]] (CR 4)
+- Orc Mystic: [[rangoric-srd/monsters/orc/Orc Mystic|Orc Mystic]] (CR 2)
+- Orc Prodigies: [[rangoric-srd/monsters/orc/Orc Thug|Orc Thug]] (CR 3), [[rangoric-srd/monsters/orc/Orc War Drummer|Orc War Drummer]] (CR 3)
+- Orc Seekers: [[rangoric-srd/monsters/orc/Orc Scout|Orc Scout]] (CR 5), [[rangoric-srd/monsters/orc/Gorthek Rider|Gorthek Rider]] (CR 6)
+- Orc Rulers: [[rangoric-srd/monsters/orc/Orc Warlord|Orc Warlord]] (CR 6), [[rangoric-srd/monsters/orc/Orc Chieftain|Orc Chieftain]] (CR 9)
+- Orc Witch Doctor: [[rangoric-srd/monsters/orc/Orc Witch Doctor|Orc Witch Doctor]] (CR 8)
 
 Along with their brute strength and comparatively low intellect, the primary difference between orcs and the civilized humanoids is their attitude. As a culture, orcs are violent and aggressive, with the strongest ruling the rest through fear and brutality. They take what they want by force, and think nothing of slaughtering or enslaving entire villages when they can get away with it. They have little time for niceties or details, and their camps and villages tend to be filthy, ramshackle affairs filled with drunken brawls, pit fights, and other sadistic entertainment. Lacking the patience for farming and only able to shepherd the most robust and self-sufficient animals, orcs almost always find it easier to take what someone else has built than to create things themselves. They are arrogant and quick to anger when challenged, but only worry about honor so far as it directly benefits them to do so.
 
@@ -118,23 +118,23 @@ Half-orc characters use the [[rangoric-srd/races/Half-Orc|half-orc]] race, which
 
 These half-orcs with class levels are described on their own:
 
-  - Adepts: [[rangoric-srd/monsters/orc/Shaman (Adept)|Shaman (Adept)]] (CR 1/2), [[rangoric-srd/monsters/orc/Doom Prophet|Doom Prophet]] (CR 2)
-  - Arcane tricksters: [[rangoric-srd/monsters/orc/Stage Magician|Stage Magician]] (CR 8)
-  - Assassins: [[rangoric-srd/monsters/orc/Sacred Killer|Sacred Killer]] (CR 8)
-  - Barbarians: [[rangoric-srd/monsters/orc/Axe Warrior|Axe Warrior]] (CR 2), [[rangoric-srd/monsters/orc/Double Axe Fury|Double Axe Fury]] (CR 10), [[rangoric-srd/monsters/orc/Undead Hunter|Undead Hunter]] (CR 15), [[rangoric-srd/monsters/orc/Death Dealer|Death Dealer]] (CR 18)
-  - Bards: [[rangoric-srd/monsters/orc/Chameleon (Monster)|Chameleon (Monster)]] (CR 10), [[rangoric-srd/monsters/orc/Rival Explorer|Rival Explorer]] (CR 17)
-  - Clerics: [[rangoric-srd/monsters/orc/Wrath Priest|Wrath Priest]] (CR 7)
-  - Commoners: [[rangoric-srd/monsters/orc/Village Elder|Village Elder]] (CR 6)
-  - Dragon disciples: [[rangoric-srd/monsters/orc/Dragon Chieftain|Dragon Chieftain]] (CR 16)
-  - Druids: [[rangoric-srd/monsters/orc/Savage Plant Sage|Savage Plant Sage]] (CR 3), [[rangoric-srd/monsters/orc/Castaway|Castaway]] (CR 11), [[rangoric-srd/monsters/orc/Rage Flame|Rage Flame]] (CR 18)
-  - Eldritch knights: [[rangoric-srd/monsters/orc/Spirit Avenger|Spirit Avenger]] (CR 16)
-  - Experts: [[rangoric-srd/monsters/orc/Journeyman Carpenter|Journeyman Carpenter]] (CR 2)
-  - Fighters: [[rangoric-srd/monsters/orc/Traitorous Brigand|Traitorous Brigand]] (CR 2), [[rangoric-srd/monsters/orc/Brutal Warlord|Brutal Warlord]] (CR 12), [[rangoric-srd/monsters/orc/Failed Disciple|Failed Disciple]] (CR 17)
-  - Monks: [[rangoric-srd/monsters/orc/Axe Dancer|Axe Dancer]] (CR 7), [[rangoric-srd/monsters/orc/Cautious Hunter|Cautious Hunter]] (CR 9)
-  - Paladins: [[rangoric-srd/monsters/orc/Honorable Outcast|Honorable Outcast]] (CR 1), [[rangoric-srd/monsters/orc/Saintly Knight|Saintly Knight]] (CR 8)
-  - Rangers: [[rangoric-srd/monsters/orc/Border Guard|Border Guard]] (CR 3), [[rangoric-srd/monsters/orc/Desert Stalker|Desert Stalker]] (CR 13), [[rangoric-srd/monsters/orc/Angel Slayer|Angel Slayer]] (CR 14)
-  - Rogues: [[rangoric-srd/monsters/orc/Skulking Brute|Skulking Brute]] (CR 1), [[rangoric-srd/monsters/orc/Mage Slayer|Mage Slayer]] (CR 15)
-  - Shadowdancers: [[rangoric-srd/monsters/orc/Midnight Dancer|Midnight Dancer]] (CR 12)
-  - Sorcerers: [[rangoric-srd/monsters/orc/Bloodfire Sorcerer|Bloodfire Sorcerer]] (CR 6), [[rangoric-srd/monsters/orc/Blackscale Sorcerer|Blackscale Sorcerer]] (CR 9), [[rangoric-srd/monsters/orc/Demon-Blooded Sorcerer|Demon-Blooded Sorcerer]] (CR 17)
-  - Warriors: [[rangoric-srd/monsters/orc/Tavern Champion|Tavern Champion]] (CR 3)
-  - Wizards: [[rangoric-srd/monsters/orc/Tribal Seer|Tribal Seer]] (CR 5), [[rangoric-srd/monsters/orc/Toothy Transmuter|Toothy Transmuter]] (CR 11)
+- Adepts: [[rangoric-srd/monsters/orc/Shaman (Adept)|Shaman (Adept)]] (CR 1/2), [[rangoric-srd/monsters/orc/Doom Prophet|Doom Prophet]] (CR 2)
+- Arcane tricksters: [[rangoric-srd/monsters/orc/Stage Magician|Stage Magician]] (CR 8)
+- Assassins: [[rangoric-srd/monsters/orc/Sacred Killer|Sacred Killer]] (CR 8)
+- Barbarians: [[rangoric-srd/monsters/orc/Axe Warrior|Axe Warrior]] (CR 2), [[rangoric-srd/monsters/orc/Double Axe Fury|Double Axe Fury]] (CR 10), [[rangoric-srd/monsters/orc/Undead Hunter|Undead Hunter]] (CR 15), [[rangoric-srd/monsters/orc/Death Dealer|Death Dealer]] (CR 18)
+- Bards: [[rangoric-srd/monsters/orc/Chameleon (Monster)|Chameleon (Monster)]] (CR 10), [[rangoric-srd/monsters/orc/Rival Explorer|Rival Explorer]] (CR 17)
+- Clerics: [[rangoric-srd/monsters/orc/Wrath Priest|Wrath Priest]] (CR 7)
+- Commoners: [[rangoric-srd/monsters/orc/Village Elder|Village Elder]] (CR 6)
+- Dragon disciples: [[rangoric-srd/monsters/orc/Dragon Chieftain|Dragon Chieftain]] (CR 16)
+- Druids: [[rangoric-srd/monsters/orc/Savage Plant Sage|Savage Plant Sage]] (CR 3), [[rangoric-srd/monsters/orc/Castaway|Castaway]] (CR 11), [[rangoric-srd/monsters/orc/Rage Flame|Rage Flame]] (CR 18)
+- Eldritch knights: [[rangoric-srd/monsters/orc/Spirit Avenger|Spirit Avenger]] (CR 16)
+- Experts: [[rangoric-srd/monsters/orc/Journeyman Carpenter|Journeyman Carpenter]] (CR 2)
+- Fighters: [[rangoric-srd/monsters/orc/Traitorous Brigand|Traitorous Brigand]] (CR 2), [[rangoric-srd/monsters/orc/Brutal Warlord|Brutal Warlord]] (CR 12), [[rangoric-srd/monsters/orc/Failed Disciple|Failed Disciple]] (CR 17)
+- Monks: [[rangoric-srd/monsters/orc/Axe Dancer|Axe Dancer]] (CR 7), [[rangoric-srd/monsters/orc/Cautious Hunter|Cautious Hunter]] (CR 9)
+- Paladins: [[rangoric-srd/monsters/orc/Honorable Outcast|Honorable Outcast]] (CR 1), [[rangoric-srd/monsters/orc/Saintly Knight|Saintly Knight]] (CR 8)
+- Rangers: [[rangoric-srd/monsters/orc/Border Guard|Border Guard]] (CR 3), [[rangoric-srd/monsters/orc/Desert Stalker|Desert Stalker]] (CR 13), [[rangoric-srd/monsters/orc/Angel Slayer|Angel Slayer]] (CR 14)
+- Rogues: [[rangoric-srd/monsters/orc/Skulking Brute|Skulking Brute]] (CR 1), [[rangoric-srd/monsters/orc/Mage Slayer|Mage Slayer]] (CR 15)
+- Shadowdancers: [[rangoric-srd/monsters/orc/Midnight Dancer|Midnight Dancer]] (CR 12)
+- Sorcerers: [[rangoric-srd/monsters/orc/Bloodfire Sorcerer|Bloodfire Sorcerer]] (CR 6), [[rangoric-srd/monsters/orc/Blackscale Sorcerer|Blackscale Sorcerer]] (CR 9), [[rangoric-srd/monsters/orc/Demon-Blooded Sorcerer|Demon-Blooded Sorcerer]] (CR 17)
+- Warriors: [[rangoric-srd/monsters/orc/Tavern Champion|Tavern Champion]] (CR 3)
+- Wizards: [[rangoric-srd/monsters/orc/Tribal Seer|Tribal Seer]] (CR 5), [[rangoric-srd/monsters/orc/Toothy Transmuter|Toothy Transmuter]] (CR 11)

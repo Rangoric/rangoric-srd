@@ -30,19 +30,19 @@ tags: [rangoric, rangoric/spell]
 
 # Gentle Repose
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Clr 2, Med 2, Occ 3, Sha 2, Sor/Wiz 3, Spi 2, Wit 2
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Corpse touched
-  - **Duration**: One day/level
-  - **Saving Throw**: Will negates (object)
-  - **Spell Resistance**: Yes (object)
+- **Level**: Clr 2, Med 2, Occ 3, Sha 2, Sor/Wiz 3, Spi 2, Wit 2
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Corpse touched
+- **Duration**: One day/level
+- **Saving Throw**: Will negates (object)
+- **Spell Resistance**: Yes (object)
 
 You preserve the remains of a [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] creature so that they do not decay. Doing so effectively extends the time limit on raising that creature from the dead (see raise dead). Days spent under the influence of this spell don’t count against the time limit. Additionally, this spell makes transporting a fallen comrade more pleasant.
 
 The spell also works on severed body parts and the like.
 
-*Arcane Material Component*: A pinch of salt, and a copper piece for each eye the corpse has (or had).
+_Arcane Material Component_: A pinch of salt, and a copper piece for each eye the corpse has (or had).

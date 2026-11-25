@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Lizard Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the lizard is one of swift, graceful movement, granting the ability to dart and scurry with an astounding agility and balance.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the lizard is one of swift, graceful movement, granting the ability to dart and scurry with an astounding agility and balance._
 
 **Minor Form**: You gain a +4 competence bonus on Acrobatics checks.
 

@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Blindness/Deafness
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Apl 2, Blr 2, Brd 2, Clr 3, Mes 2, Psy 2, Sha 3, Skd 2, Sor/Wiz 2, Spi 3, Wit 2
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Target**: One living creature
-  - **Duration**: Permanent (D)
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Apl 2, Blr 2, Brd 2, Clr 3, Mes 2, Psy 2, Sha 3, Skd 2, Sor/Wiz 2, Spi 3, Wit 2
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Target**: One living creature
+- **Duration**: Permanent (D)
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
 You call upon the powers of unlife to render the subject [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] or [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]], as you choose.

@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Ring of Truth
 
-Deceptively pleasant-looking, a *ring of truth* bears images of childlike angels and broadly smiling divine creatures holding onto links of a heavy chain. The wearer of this cursed ring is rendered unable to tell a deliberate lie, in either speech or writing. The wearer may simply omit the truth or choose not to communicate, but even then must succeed at a DC 20 Will saving throw to avoid answering a direct question truthfully. The wearer cannot remove the ring unless the magic of the curse is negated.
+Deceptively pleasant-looking, a _ring of truth_ bears images of childlike angels and broadly smiling divine creatures holding onto links of a heavy chain. The wearer of this cursed ring is rendered unable to tell a deliberate lie, in either speech or writing. The wearer may simply omit the truth or choose not to communicate, but even then must succeed at a DC 20 Will saving throw to avoid answering a direct question truthfully. The wearer cannot remove the ring unless the magic of the curse is negated.
 
-Moderate enchantment; CL 9th; Intended magic item: *[[rangoric-srd/magic-items/rings/Ring of Mind Shielding|ring of mind shielding]]*, *[[rangoric-srd/magic-items/rings/Ring of X-Ray Vision|ring of x-ray vision]]*.
+Moderate enchantment; CL 9th; Intended magic item: _[[rangoric-srd/magic-items/rings/Ring of Mind Shielding|ring of mind shielding]]_, _[[rangoric-srd/magic-items/rings/Ring of X-Ray Vision|ring of x-ray vision]]_.

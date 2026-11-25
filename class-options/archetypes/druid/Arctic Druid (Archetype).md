@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Arctic Druid
 
-*A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 An arctic druid watches over the stark landscape of the far frozen reaches of the world, tending the stunted and rugged life that ekes out its survival in the least habitable climes.
 
@@ -29,10 +29,10 @@ An arctic druid watches over the stark landscape of the far frozen reaches of th
 
 **Icewalking (Ex)**: At 3rd level, an arctic druid suffers no penalty to speed or on [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]] (climbing), or [[rangoric-srd/skills/Stealth|Stealth]] checks in snowy or icy terrain or weather conditions and can walk across snow crusts or thin ice without breaking through. This ability replaces [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]].
 
-**Arctic Endurance (Ex)**: At 4th level, an arctic druid ignores the effects of a cold climate as if using *[[rangoric-srd/spells/Endure Elements|endure elements]]*. She is also immune to being [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]]. This ability replaces [[rangoric-srd/classes/Druid#^druid-resist-natures-lure|resist nature’s lure]].
+**Arctic Endurance (Ex)**: At 4th level, an arctic druid ignores the effects of a cold climate as if using _[[rangoric-srd/spells/Endure Elements|endure elements]]_. She is also immune to being [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]]. This ability replaces [[rangoric-srd/classes/Druid#^druid-resist-natures-lure|resist nature’s lure]].
 
 **Wild Shape (Su)**: An arctic druid gains [[rangoric-srd/classes/Druid#^druid-wild-shape|this ability]] at 6th level, except that her effective druid level for this ability is equal to her druid level – 2.
 
-**Snowcaster (Su)**: At 9th level, an arctic druid can see normally in *[[rangoric-srd/spells/Ice Storm|ice storm]]*, *[[rangoric-srd/spells/Sleet Storm|sleet storm]]*, or similar natural snowstorms. In addition, she can prepare any druid spell with the fire subtype as a cold spell, with an identical effect but inflicting cold damage instead of fire damage. This ability replaces [[rangoric-srd/classes/Druid#^druid-venom-immunity|venom immunity]].
+**Snowcaster (Su)**: At 9th level, an arctic druid can see normally in _[[rangoric-srd/spells/Ice Storm|ice storm]]_, _[[rangoric-srd/spells/Sleet Storm|sleet storm]]_, or similar natural snowstorms. In addition, she can prepare any druid spell with the fire subtype as a cold spell, with an identical effect but inflicting cold damage instead of fire damage. This ability replaces [[rangoric-srd/classes/Druid#^druid-venom-immunity|venom immunity]].
 
-**Flurry Form (Ex)**: At 13th level, an arctic druid can assume the form of a swirling column of snow equivalent to *[[rangoric-srd/spells/Gaseous Form|gaseous form]]* at will. While in this form, she gains a circumstance bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks made in cold terrain equal to her druid level. This ability replaces [[rangoric-srd/classes/Druid#^druid-a-thousand-faces|a thousand faces]].
+**Flurry Form (Ex)**: At 13th level, an arctic druid can assume the form of a swirling column of snow equivalent to _[[rangoric-srd/spells/Gaseous Form|gaseous form]]_ at will. While in this form, she gains a circumstance bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks made in cold terrain equal to her druid level. This ability replaces [[rangoric-srd/classes/Druid#^druid-a-thousand-faces|a thousand faces]].

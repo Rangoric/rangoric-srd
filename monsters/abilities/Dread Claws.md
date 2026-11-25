@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Dread Claws
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “dread claws”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “dread claws”, on the Special Attacks line.
 
 A slimy demodand adds 1-1/2 times its strength bonus on all attack rolls made when using its claws. The [[rangoric-srd/monsters/demodands/Slimy Demodand|slimy demodand]] has it.

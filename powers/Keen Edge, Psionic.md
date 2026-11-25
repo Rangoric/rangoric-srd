@@ -32,6 +32,6 @@ Metacreativity
 **Duration:** 10 min./level  
 **Saving Throw:** Will negates (harmless, object)  
 **Power Resistance:** Yes (harmless, object)  
-**Power Points:** 5  
+**Power Points:** 5
 
 As the [[rangoric-srd/spells/Keen Edge|keen edge]] spell, except as noted here.

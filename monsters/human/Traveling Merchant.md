@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Traveling Merchant
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 7d8 (31 hp)
-  - **Initiative**: –1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 10 (+1 armor, –1 Dex), touch 9, flat-footed 10
-  - **Base Attack**: +5; **CMB**: +4; **CMD**: 13
-  - **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +4 melee (1d4–1/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +5 ranged (1d8/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +4 melee (1d4–1/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +5 ranged (1d8/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort +2, Ref +1, Will +5
-  - **Abilities**: Str 8, Dex 9, Con 10, Int 14, Wis 11, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Appraise|Appraise]] +12, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Imitation|Imitation]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +2, [[rangoric-srd/skills/Linguistics|Linguistics]] +12, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Persuasion|Persuasion]] +13, [[rangoric-srd/skills/Profession|Profession]] (merchant) +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Society|Society]] +10
-  - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Perception, Persuasion, Profession \[merchant\])
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 5
-  - **Treasure**: NPC gear
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 7d8 (31 hp)
+- **Initiative**: –1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 10 (+1 armor, –1 Dex), touch 9, flat-footed 10
+- **Base Attack**: +5; **CMB**: +4; **CMD**: 13
+- **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +4 melee (1d4–1/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +5 ranged (1d8/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +4 melee (1d4–1/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +5 ranged (1d8/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort +2, Ref +1, Will +5
+- **Abilities**: Str 8, Dex 9, Con 10, Int 14, Wis 11, Cha 14
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Appraise|Appraise]] +12, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Imitation|Imitation]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +2, [[rangoric-srd/skills/Linguistics|Linguistics]] +12, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Persuasion|Persuasion]] +13, [[rangoric-srd/skills/Profession|Profession]] (merchant) +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Society|Society]] +10
+- **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Perception, Persuasion, Profession \[merchant\])
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 5
+- **Treasure**: NPC gear
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A traveling merchant is a [[rangoric-srd/monsters/human/Human|human]] with 7 levels of [[rangoric-srd/classes/Expert|expert]]. Traveling merchants wander the world, peddling their wares, seeking out new markets for their goods, and journeying into distant lands in search of new trade routes to open and exotic commodities to take back home to turn a tidy profit. Many traveling merchants join large trade consortiums or are masters of their own caravans, but they sometimes venture alone (or more usually, with guards) into the wilds carrying small items of high value.
 

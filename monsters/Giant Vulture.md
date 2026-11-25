@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Giant Vulture
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 5d8+20 (42 hp)
-  - **Initiative**: +2
-  - **Speed**: 10 ft. (2 squares), fly 50 ft. (average)
-  - **Armor Class**: 17 (+2 Dex, +6 natural, –1 size), touch 11, flat-footed 15
-  - **Base Attack**: —; **CMB**: +10; **CMD**: 22
-  - **Attack**: Bite +9 melee (2d6+9 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
-  - **Full Attack**: Bite +9 melee (2d6+9 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Diseased|diseased]]
-  - **Saves**: Fort +10, Ref +6, Will +3
-  - **Abilities**: Str 22, Dex 15, Con 18, Int 2, Wis 15, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Perception|Perception]] +14
-  - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
-  - **Environment**: Warm plains or hills
-  - **Organization**: Solitary, pair, or flock (3–8)
-  - **Challenge Rating**: 4
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 5d8+20 (42 hp)
+- **Initiative**: +2
+- **Speed**: 10 ft. (2 squares), fly 50 ft. (average)
+- **Armor Class**: 17 (+2 Dex, +6 natural, –1 size), touch 11, flat-footed 15
+- **Base Attack**: —; **CMB**: +10; **CMD**: 22
+- **Attack**: Bite +9 melee (2d6+9 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
+- **Full Attack**: Bite +9 melee (2d6+9 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Diseased|diseased]]
+- **Saves**: Fort +10, Ref +6, Will +3
+- **Abilities**: Str 22, Dex 15, Con 18, Int 2, Wis 15, Cha 7
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Perception|Perception]] +14
+- **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
+- **Environment**: Warm plains or hills
+- **Organization**: Solitary, pair, or flock (3–8)
+- **Challenge Rating**: 4
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Larger even than condors, giant vultures dwell only in regions where carrion is both large and plentiful, such as the primeval wildernesses where megafauna roam. They also flock to regions torn by war, feasting on the dead with no concern for allegiance or race. Giant vultures rarely wait for wounded creatures to finish dying before they feed, and are much braver than most wild animals. A giant vulture, for example, wouldn't think twice about swooping down on a heavily armored column of soldiers just to snatch up a few wounded stragglers from the end of the line.
 

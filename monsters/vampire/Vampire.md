@@ -49,33 +49,33 @@ A vampire uses all the base creature’s statistics and special abilities except
 
 **Special Attacks**: A vampire retains all the special attacks of the base creature and gains those described below. Saves have a DC of 10 + 1/2 vampire’s HD + vampire’s Cha modifier unless noted otherwise.
 
-*Blood Drain (Ex)*: A vampire can suck blood from a living victim with its fangs by making a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check. If it pins the foe, it drains blood, dealing 1d4 points of Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]] each round the pin is maintained. On each such successful attack, the vampire gains 5 temporary hit points.
+_Blood Drain (Ex)_: A vampire can suck blood from a living victim with its fangs by making a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check. If it pins the foe, it drains blood, dealing 1d4 points of Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]] each round the pin is maintained. On each such successful attack, the vampire gains 5 temporary hit points.
 
-*Children of the Night (Su)*: Vampires command the lesser creatures of the world and once per day can call forth 1d6+1 [[rangoric-srd/monsters/swarm/Rat Swarm|rat swarms]], 1d4+1 [[rangoric-srd/monsters/swarm/Bat Swarm|bat swarms]], or a pack of 3d6 [[rangoric-srd/monsters/Wolf|wolves]] as a standard action. (If the base creature is not terrestrial, this power might summon other creatures of similar power.) These creatures arrive in 2d6 rounds and serve the vampire for up to 1 hour.
+_Children of the Night (Su)_: Vampires command the lesser creatures of the world and once per day can call forth 1d6+1 [[rangoric-srd/monsters/swarm/Rat Swarm|rat swarms]], 1d4+1 [[rangoric-srd/monsters/swarm/Bat Swarm|bat swarms]], or a pack of 3d6 [[rangoric-srd/monsters/Wolf|wolves]] as a standard action. (If the base creature is not terrestrial, this power might summon other creatures of similar power.) These creatures arrive in 2d6 rounds and serve the vampire for up to 1 hour.
 
-*Dominate (Su)*: A vampire can crush an opponent’s will just by looking onto his or her eyes. This is similar to a [[rangoric-srd/monsters/abilities/Gaze|gaze]] attack, except that the vampire must use a standard action, and those merely looking at it are not affected. Anyone the vampire targets must succeed on a Will save or fall instantly under the vampire’s influence as though by a [[rangoric-srd/spells/Dominate Person|dominate person]] spell (caster level 12th). The ability has a range of 30 feet.
+_Dominate (Su)_: A vampire can crush an opponent’s will just by looking onto his or her eyes. This is similar to a [[rangoric-srd/monsters/abilities/Gaze|gaze]] attack, except that the vampire must use a standard action, and those merely looking at it are not affected. Anyone the vampire targets must succeed on a Will save or fall instantly under the vampire’s influence as though by a [[rangoric-srd/spells/Dominate Person|dominate person]] spell (caster level 12th). The ability has a range of 30 feet.
 
-*Create Spawn (Su)*: A [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|humanoid]] or [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|monstrous humanoid]] slain by a vampire’s energy drain rises as a vampire spawn (see the [[rangoric-srd/monsters/vampire/Vampire Spawn|Vampire Spawn]] entry) 1d4 days after burial.
+_Create Spawn (Su)_: A [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|humanoid]] or [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|monstrous humanoid]] slain by a vampire’s energy drain rises as a vampire spawn (see the [[rangoric-srd/monsters/vampire/Vampire Spawn|Vampire Spawn]] entry) 1d4 days after burial.
 
 If the vampire instead drains the victim’s Constitution to 0 or lower, the victim returns as a spawn if it had 4 or less HD and as a vampire if it had 5 or more HD. In either case, the new vampire or spawn is under the command of the vampire that created it and remains enslaved until its master’s destruction. At any given time a vampire may have enslaved spawn totaling no more than twice its own Hit Dice; any spawn it creates that would exceed this limit are created as free-willed vampires or vampire spawn. A vampire that is enslaved may create and enslave spawn of its own, so a master vampire can control a number of lesser vampires in this fashion. A vampire may voluntarily free an enslaved spawn in order to enslave a new spawn, but once freed, a vampire or vampire spawn cannot be enslaved again.
 
-*Energy Drain (Su)*: Living creatures hit by a vampire’s slam attack (or any other natural weapon the vampire might possess) gain two [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative levels]]. For each negative level bestowed, the vampire gains 5 temporary hit points. A vampire can use its energy drain ability once per round.
+_Energy Drain (Su)_: Living creatures hit by a vampire’s slam attack (or any other natural weapon the vampire might possess) gain two [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative levels]]. For each negative level bestowed, the vampire gains 5 temporary hit points. A vampire can use its energy drain ability once per round.
 
 **Special Qualities**: A vampire retains all the special qualities of the base creature and gains those described below.
 
-*Alternate Form (Su)*: A vampire can assume the shape of a [[rangoric-srd/monsters/Animals|bat]], [[rangoric-srd/monsters/dire-animal/Dire Bat|dire bat]], [[rangoric-srd/monsters/Wolf|wolf]], or [[rangoric-srd/monsters/dire-animal/Dire Wolf|dire wolf]] as a standard action. While in its alternate form, the vampire loses its natural slam attack and dominate ability, but it gains the natural weapons and extraordinary special attacks of its new form. It can remain in that form until it assumes another or until the next sunrise. (If the base creature is not terrestrial, this power might allow other forms.)
+_Alternate Form (Su)_: A vampire can assume the shape of a [[rangoric-srd/monsters/Animals|bat]], [[rangoric-srd/monsters/dire-animal/Dire Bat|dire bat]], [[rangoric-srd/monsters/Wolf|wolf]], or [[rangoric-srd/monsters/dire-animal/Dire Wolf|dire wolf]] as a standard action. While in its alternate form, the vampire loses its natural slam attack and dominate ability, but it gains the natural weapons and extraordinary special attacks of its new form. It can remain in that form until it assumes another or until the next sunrise. (If the base creature is not terrestrial, this power might allow other forms.)
 
-*Damage Reduction (Su)*: A vampire has [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/silver and magic. A vampire’s natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
+_Damage Reduction (Su)_: A vampire has [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/silver and magic. A vampire’s natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
-*Fast Healing (Ex)*: A vampire heals 5 points of damage each round so long as it has at least 1 hit point. If reduced to 0 hit points in combat, it automatically assumes [[rangoric-srd/spells/Gaseous Form|gaseous form]] and attempts to escape. It must reach its coffin home within 2 hours or be utterly destroyed. (It can travel up to nine miles in 2 hours.) Any additional damage dealt to a vampire forced into gaseous form has no effect. Once at rest in its coffin, a vampire is [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]]. It regains 1 hit point after 1 hour, then is no longer helpless and resumes healing at the rate of 5 hit points per round.
+_Fast Healing (Ex)_: A vampire heals 5 points of damage each round so long as it has at least 1 hit point. If reduced to 0 hit points in combat, it automatically assumes [[rangoric-srd/spells/Gaseous Form|gaseous form]] and attempts to escape. It must reach its coffin home within 2 hours or be utterly destroyed. (It can travel up to nine miles in 2 hours.) Any additional damage dealt to a vampire forced into gaseous form has no effect. Once at rest in its coffin, a vampire is [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]]. It regains 1 hit point after 1 hour, then is no longer helpless and resumes healing at the rate of 5 hit points per round.
 
-*Gaseous Form (Su)*: As a standard action, a vampire can assume [[rangoric-srd/spells/Gaseous Form|gaseous form]] at will as the spell (caster level 5th), but it can remain gaseous indefinitely and has a fly speed of 20 feet with perfect maneuverability.
+_Gaseous Form (Su)_: As a standard action, a vampire can assume [[rangoric-srd/spells/Gaseous Form|gaseous form]] at will as the spell (caster level 5th), but it can remain gaseous indefinitely and has a fly speed of 20 feet with perfect maneuverability.
 
-*Resistances (Ex)*: A vampire has [[rangoric-srd/monsters/abilities/Resistance|resistance to cold]] 10 and electricity 10.
+_Resistances (Ex)_: A vampire has [[rangoric-srd/monsters/abilities/Resistance|resistance to cold]] 10 and electricity 10.
 
-*Spider Climb (Ex)*: A vampire can climb sheer surfaces as though with a [[rangoric-srd/spells/Spider Climb|spider climb]] spell.
+_Spider Climb (Ex)_: A vampire can climb sheer surfaces as though with a [[rangoric-srd/spells/Spider Climb|spider climb]] spell.
 
-*Turn Resistance (Ex)*: A vampire has +4 [[rangoric-srd/monsters/abilities/Channel Resistance|turn resistance]].
+_Turn Resistance (Ex)_: A vampire has +4 [[rangoric-srd/monsters/abilities/Channel Resistance|turn resistance]].
 
 **Abilities**: Increase from the base creature as follows: Str +6, Dex +4, Int +2, Wis +2, Cha +4. As an undead creature, a vampire has no Constitution score.
 
@@ -123,17 +123,17 @@ A vampire cleric has access to two of the following domains: [[rangoric-srd/clas
 
 Pathfinder’s version of this template is [[rangoric-srd/monsters/vampire/Alternate Vampire|Alternate Vampire]]. Also in this folder:
 
-  - [[rangoric-srd/monsters/vampire/Vampire Spawn|Vampire Spawn]]
-  - [[rangoric-srd/monsters/vampire/Alternate Vampire|Alternate Vampire]]
-  - [[rangoric-srd/monsters/vampire/Alternate Vampire Spawn|Alternate Vampire Spawn]]
-  - [[rangoric-srd/monsters/vampire/Jiang-Shi|Jiang-Shi]]
-  - [[rangoric-srd/monsters/vampire/Nosferatu|Nosferatu]]
-  - [[rangoric-srd/monsters/vampire/Vampire Seducer|Vampire Seducer]]
-  - [[rangoric-srd/monsters/vampire/Vampire Warrior|Vampire Warrior]]
-  - [[rangoric-srd/monsters/vampire/Vampire Savage|Vampire Savage]]
-  - [[rangoric-srd/monsters/vampire/Enlightened Vampire|Enlightened Vampire]]
-  - [[rangoric-srd/monsters/vampire/Vampire Lord|Vampire Lord]]
-  - [[rangoric-srd/monsters/vampire/Coffin Guard|Coffin Guard]]
-  - [[rangoric-srd/monsters/vampire/Weird Butler|Weird Butler]]
-  - [[rangoric-srd/monsters/vampire/Addle-Minded|Addle-Minded]]
-  - [[rangoric-srd/monsters/vampire/Repeatedly Drained|Repeatedly Drained]]
+- [[rangoric-srd/monsters/vampire/Vampire Spawn|Vampire Spawn]]
+- [[rangoric-srd/monsters/vampire/Alternate Vampire|Alternate Vampire]]
+- [[rangoric-srd/monsters/vampire/Alternate Vampire Spawn|Alternate Vampire Spawn]]
+- [[rangoric-srd/monsters/vampire/Jiang-Shi|Jiang-Shi]]
+- [[rangoric-srd/monsters/vampire/Nosferatu|Nosferatu]]
+- [[rangoric-srd/monsters/vampire/Vampire Seducer|Vampire Seducer]]
+- [[rangoric-srd/monsters/vampire/Vampire Warrior|Vampire Warrior]]
+- [[rangoric-srd/monsters/vampire/Vampire Savage|Vampire Savage]]
+- [[rangoric-srd/monsters/vampire/Enlightened Vampire|Enlightened Vampire]]
+- [[rangoric-srd/monsters/vampire/Vampire Lord|Vampire Lord]]
+- [[rangoric-srd/monsters/vampire/Coffin Guard|Coffin Guard]]
+- [[rangoric-srd/monsters/vampire/Weird Butler|Weird Butler]]
+- [[rangoric-srd/monsters/vampire/Addle-Minded|Addle-Minded]]
+- [[rangoric-srd/monsters/vampire/Repeatedly Drained|Repeatedly Drained]]

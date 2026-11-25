@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Mask Dweomer
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Occ 1, Psy 1, Wit 1
-  - **Components**: V, S, M (a piece of gauze)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature or object touched
-  - **Duration**: 1 day/level (D)
-  - **Saving Throw**: None; see text
-  - **Spell Resistance**: No
+- **Level**: Occ 1, Psy 1, Wit 1
+- **Components**: V, S, M (a piece of gauze)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature or object touched
+- **Duration**: 1 day/level (D)
+- **Saving Throw**: None; see text
+- **Spell Resistance**: No
 
-You mask and manipulate a spell's magic aura to make it harder to detect. Select one spell effect on the target creature or object. You must have either cast this spell yourself or have perceived it by means such as *[[rangoric-srd/spells/Detect Magic|detect magic]]* or *[[rangoric-srd/spells/Arcane Sight|arcane sight]]*. Both the desired spell effect and *mask dweomer* are hidden from *[[rangoric-srd/spells/Detect Magic|detect magic]]*, although more powerful spells (such as *[[rangoric-srd/spells/Arcane Sight|arcane sight]]*) pierce the deception if the caster succeeds on a Will save. *[[rangoric-srd/spells/Analyze Dweomer|Analyze dweomer]]* automatically detects both *mask dweomer* and any masked spell effects.
+You mask and manipulate a spell's magic aura to make it harder to detect. Select one spell effect on the target creature or object. You must have either cast this spell yourself or have perceived it by means such as _[[rangoric-srd/spells/Detect Magic|detect magic]]_ or _[[rangoric-srd/spells/Arcane Sight|arcane sight]]_. Both the desired spell effect and _mask dweomer_ are hidden from _[[rangoric-srd/spells/Detect Magic|detect magic]]_, although more powerful spells (such as _[[rangoric-srd/spells/Arcane Sight|arcane sight]]_) pierce the deception if the caster succeeds on a Will save. _[[rangoric-srd/spells/Analyze Dweomer|Analyze dweomer]]_ automatically detects both _mask dweomer_ and any masked spell effects.

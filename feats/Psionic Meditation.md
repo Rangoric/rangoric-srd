@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 ## Original text
 
-You can focus your mind faster than normal, even under duress.  
+You can focus your mind faster than normal, even under duress.
 
 Prerequisite: Wis 13, Concentration 7 ranks.
 

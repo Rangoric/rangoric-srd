@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Cauldron of Seeing
 
-When filled with liquid, this small cauldron allows the user to see over virtually any distance as if using the *[[rangoric-srd/spells/Scrying|scrying]]* spell. It may have additional powers like those of a *[[rangoric-srd/magic-items/wondrous-items/Crystal Ball|crystal ball]]* for the same prices.
+When filled with liquid, this small cauldron allows the user to see over virtually any distance as if using the _[[rangoric-srd/spells/Scrying|scrying]]_ spell. It may have additional powers like those of a _[[rangoric-srd/magic-items/wondrous-items/Crystal Ball|crystal ball]]_ for the same prices.
 
-Moderate divination; CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Scrying|scrying]]*; Price 42,000 gp; Cost 21,000 gp; Weight 5 lbs.
+Moderate divination; CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Scrying|scrying]]_; Price 42,000 gp; Cost 21,000 gp; Weight 5 lbs.

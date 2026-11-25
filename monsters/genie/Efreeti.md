@@ -38,36 +38,37 @@ change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
+
 # Efreeti
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar, Fire)
-  - **Hit Dice**: 10d10+40 (95 hp)
-  - **Initiative**: +7
-  - **Speed**: 20 ft. (4 squares), fly 40 ft. (perfect)
-  - **Armor Class**: 21 (+3 Dex, +1 dodge, +8 natural, –1 size), touch 13, flat-footed 17
-  - **Base Attack**: +10; **CMB**: +17; **CMD**: 31
-  - **Attack**: Slam +15 melee (1d8+6 plus 1d6 fire) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Falchion|falchion]] +16 melee (2d6+9/18–20)
-  - **Full Attack**: 2 slams +15 melee (1d8+6 plus 1d6 fire); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Falchion|falchion]] +16/+11 melee (2d6+9/18–20)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: Change size, [[rangoric-srd/monsters/abilities/Heat|heat]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (humanoid or giant, alter self or giant form I), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
-  - **Saves**: Fort +7, Ref +10, Will +9
-  - **Abilities**: Str 23, Dex 17, Con 18, Int 12, Wis 14, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Craft|Craft]] (any one) +14, [[rangoric-srd/skills/Deception|Deception]] +21, [[rangoric-srd/skills/Imitation|Imitation]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Mysticism|Mysticism]] +14, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +8
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (scorching ray), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
-  - **Environment**: Any (Elemental Plane of Fire)
-  - **Organization**: Solitary, pair, company (3–6), or band (7–12)
-  - **Challenge Rating**: 8
-  - **Treasure**: Standard (mwk falchion, other gear)
-  - **Alignment**: Always lawful evil
-  - **Advancement**: 11–15 HD (Large); 16–30 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar, Fire)
+- **Hit Dice**: 10d10+40 (95 hp)
+- **Initiative**: +7
+- **Speed**: 20 ft. (4 squares), fly 40 ft. (perfect)
+- **Armor Class**: 21 (+3 Dex, +1 dodge, +8 natural, –1 size), touch 13, flat-footed 17
+- **Base Attack**: +10; **CMB**: +17; **CMD**: 31
+- **Attack**: Slam +15 melee (1d8+6 plus 1d6 fire) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Falchion|falchion]] +16 melee (2d6+9/18–20)
+- **Full Attack**: 2 slams +15 melee (1d8+6 plus 1d6 fire); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Falchion|falchion]] +16/+11 melee (2d6+9/18–20)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: Change size, [[rangoric-srd/monsters/abilities/Heat|heat]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (humanoid or giant, alter self or giant form I), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
+- **Saves**: Fort +7, Ref +10, Will +9
+- **Abilities**: Str 23, Dex 17, Con 18, Int 12, Wis 14, Cha 15
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Craft|Craft]] (any one) +14, [[rangoric-srd/skills/Deception|Deception]] +21, [[rangoric-srd/skills/Imitation|Imitation]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Mysticism|Mysticism]] +14, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +8
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (scorching ray), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
+- **Environment**: Any (Elemental Plane of Fire)
+- **Organization**: Solitary, pair, company (3–6), or band (7–12)
+- **Challenge Rating**: 8
+- **Treasure**: Standard (mwk falchion, other gear)
+- **Alignment**: Always lawful evil
+- **Advancement**: 11–15 HD (Large); 16–30 HD (Huge)
+- **Level Adjustment**: —
 
 The efreet (singular efreeti) are genies from the Elemental Plane of Fire. An efreeti stands about 12 feet tall and weighs about 2,000 pounds.
 
 Efreet have few allies among geniekind. They certainly hate djinn, and attack them on sight. They hold an equally strong enmity for marids, and view the jann as frail and weak. Efreet often work closely with shaitans, yet even then alliances are temporary at best.
 
-A small percentage of efreet are noble. Noble efreet, often called maliks, have 13 Hit Dice and gain the following spell-like abilities: 3/day—*[[rangoric-srd/spells/Fireball|fireball]]*, *[[rangoric-srd/spells/Heat Metal|heat metal]]*; 1/day—*[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]*, *pyroclastic storm* (as *[[rangoric-srd/spells/Ice Storm|ice storm]]*, with fire instead of cold damage). A noble efreeti's caster level for its spell-like abilities is 15th. Noble efreet are CR 10.
+A small percentage of efreet are noble. Noble efreet, often called maliks, have 13 Hit Dice and gain the following spell-like abilities: 3/day—_[[rangoric-srd/spells/Fireball|fireball]]_, _[[rangoric-srd/spells/Heat Metal|heat metal]]_; 1/day—_[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]_, _pyroclastic storm_ (as _[[rangoric-srd/spells/Ice Storm|ice storm]]_, with fire instead of cold damage). A noble efreeti's caster level for its spell-like abilities is 15th. Noble efreet are CR 10.
 
 Efreet speak Auran, Common, Ignan, and Infernal.
 
@@ -75,8 +76,8 @@ Efreet speak Auran, Common, Ignan, and Infernal.
 
 Efreet love to mislead, befuddle, and confuse their foes. They do so for enjoyment as well as a battle tactic.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 11th): Constant—*[[rangoric-srd/spells/Detect Magic|detect magic]]*; At Will—*[[rangoric-srd/spells/Plane Shift|plane shift]]* (willing targets to elemental planes, Astral Plane, or Material Plane only), *[[rangoric-srd/spells/Produce Flame|produce flame]]*, *[[rangoric-srd/spells/Pyrotechnics|pyrotechnics]]* (DC 14), *[[rangoric-srd/spells/Scorching Ray|scorching ray]]*; 3/day—*[[rangoric-srd/spells/Invisibility|invisibility]]*, quickened *[[rangoric-srd/spells/Scorching Ray|scorching ray]]*, *[[rangoric-srd/spells/Wall of Fire|wall of fire]]* (DC 16); 1/day—grant up to 3 *[[rangoric-srd/spells/Wish|wishes]]* (to nongenies only), *[[rangoric-srd/spells/Gaseous Form|gaseous form]]*, *[[rangoric-srd/spells/Permanent Image|permanent image]]* (DC 18).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 11th): Constant—_[[rangoric-srd/spells/Detect Magic|detect magic]]_; At Will—_[[rangoric-srd/spells/Plane Shift|plane shift]]_ (willing targets to elemental planes, Astral Plane, or Material Plane only), _[[rangoric-srd/spells/Produce Flame|produce flame]]_, _[[rangoric-srd/spells/Pyrotechnics|pyrotechnics]]_ (DC 14), _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_; 3/day—_[[rangoric-srd/spells/Invisibility|invisibility]]_, quickened _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_, _[[rangoric-srd/spells/Wall of Fire|wall of fire]]_ (DC 16); 1/day—grant up to 3 _[[rangoric-srd/spells/Wish|wishes]]_ (to nongenies only), _[[rangoric-srd/spells/Gaseous Form|gaseous form]]_, _[[rangoric-srd/spells/Permanent Image|permanent image]]_ (DC 18).
 
-**Change Size (Sp)**: Twice per day, an efreeti can magically change a creature's size. This works just like an *[[rangoric-srd/spells/Enlarge Person|enlarge person]]* or *[[rangoric-srd/spells/Reduce Person|reduce person]]* spell (the efreeti chooses when using the ability), except that the ability can work on the efreeti. A DC 13 Fortitude save negates the effect. The save DC is Charisma-based. This is the equivalent of a 2nd-level spell.
+**Change Size (Sp)**: Twice per day, an efreeti can magically change a creature's size. This works just like an _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ or _[[rangoric-srd/spells/Reduce Person|reduce person]]_ spell (the efreeti chooses when using the ability), except that the ability can work on the efreeti. A DC 13 Fortitude save negates the effect. The save DC is Charisma-based. This is the equivalent of a 2nd-level spell.
 
 **Heat (Ex)**: An efreeti's body deals 1d6 points of fire damage whenever it hits in melee, or in each round it grapples.

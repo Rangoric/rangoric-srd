@@ -61,7 +61,7 @@ Full **Attack:** 4 incorporeal touches +7 melee (2d6)   
 Treasure: None     
 **Alignment:** Always Chaotic Evil     
 **Advancement:** 12-22 HD (Large); 23-33 HD (Huge)     
-**Level Adjustment:** -     
+**Level Adjustment:** -   
 
 A caller in darkness is an incorporeal creature composed of the minds of dozens of victims who died together in terror. It seeks to draw others into its fearwracked, hellish existence.
 

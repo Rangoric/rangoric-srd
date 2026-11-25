@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Awaken Construct
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Clr 7, Occ 5, Psy 6, Sor/Wiz 7
-  - **Components**: V, S, M, DF (herbs and oils worth 2,000 gp per HD of target)
-  - **Casting Time**: 24 hours
-  - **Range**: Touch
-  - **Target**: Mindless construct touched
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: No
+- **Level**: Clr 7, Occ 5, Psy 6, Sor/Wiz 7
+- **Components**: V, S, M, DF (herbs and oils worth 2,000 gp per HD of target)
+- **Casting Time**: 24 hours
+- **Range**: Touch
+- **Target**: Mindless construct touched
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates
+- **Spell Resistance**: No
 
 You amplify the animating force of a construct to more closely resemble a true soul, granting the construct humanlike sentience. To do so, you must succeed at a Arcana check (DC = 15 + the construct's current Hit Dice). If the construct's master (if any) is present, this is an opposed Arcana check. You have no special empathy or connection with a creature you awaken-it is a free-willed creature. Golems previously under another creature's control, either as shield guardians or a golem crafter's creations, break all connections with that creature.
 

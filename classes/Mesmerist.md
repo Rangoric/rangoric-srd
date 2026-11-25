@@ -43,53 +43,53 @@ The mesmerist’s class skills (and the key ability for each skill) are [[rangor
 
 **Table: The Mesmerist** ^table-the-mesmerist
 
-| Level | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | Consummate liar, hypnotic stare, knacks, mesmerist trick, painful stare | 1 | — | — | — | — | — |
-| 2nd | Mesmerist trick, towering ego | 2 | — | — | — | — | — |
-| 3rd | Bold stare, touch treatment (minor) | 3 | — | — | — | — | — |
-| 4th | Mesmerist trick | 3 | 1 | — | — | — | — |
-| 5th | Manifold tricks (2), mental potency | 4 | 2 | — | — | — | — |
-| 6th | Mesmerist trick, touch treatment (moderate) | 4 | 3 | — | — | — | — |
-| 7th | Bold stare | 4 | 3 | 1 | — | — | — |
-| 8th | Hypnotic stare (–3), mesmerist trick | 4 | 4 | 2 | — | — | — |
-| 9th | Manifold tricks (3) | 5 | 4 | 3 | — | — | — |
-| 10th | Mesmerist trick, touch treatment (greater) | 5 | 4 | 3 | 1 | — | — |
-| 11th | Bold stare, glib lie | 5 | 4 | 4 | 2 | — | — |
-| 12th | Masterful tricks, mesmerist trick | 5 | 5 | 4 | 3 | — | — |
-| 13th | Manifold tricks (4) | 5 | 5 | 4 | 3 | 1 | — |
-| 14th | Mesmerist trick, touch treatment (break enchantment) | 5 | 5 | 4 | 4 | 2 | — |
-| 15th | Bold stare | 5 | 5 | 5 | 4 | 3 | — |
-| 16th | Mesmerist trick | 5 | 5 | 5 | 4 | 3 | 1 |
-| 17th | Manifold tricks (5) | 5 | 5 | 5 | 4 | 4 | 2 |
-| 18th | Mesmerist trick | 5 | 5 | 5 | 5 | 4 | 3 |
-| 19th | Bold stare | 5 | 5 | 5 | 5 | 5 | 4 |
-| 20th | Mesmerist trick, rule minds | 5 | 5 | 5 | 5 | 5 | 5 |
+| Level | Special                                                                 | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
+| ----- | ----------------------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| 1st   | Consummate liar, hypnotic stare, knacks, mesmerist trick, painful stare | 1                   | —                   | —                   | —                   | —                   | —                   |
+| 2nd   | Mesmerist trick, towering ego                                           | 2                   | —                   | —                   | —                   | —                   | —                   |
+| 3rd   | Bold stare, touch treatment (minor)                                     | 3                   | —                   | —                   | —                   | —                   | —                   |
+| 4th   | Mesmerist trick                                                         | 3                   | 1                   | —                   | —                   | —                   | —                   |
+| 5th   | Manifold tricks (2), mental potency                                     | 4                   | 2                   | —                   | —                   | —                   | —                   |
+| 6th   | Mesmerist trick, touch treatment (moderate)                             | 4                   | 3                   | —                   | —                   | —                   | —                   |
+| 7th   | Bold stare                                                              | 4                   | 3                   | 1                   | —                   | —                   | —                   |
+| 8th   | Hypnotic stare (–3), mesmerist trick                                    | 4                   | 4                   | 2                   | —                   | —                   | —                   |
+| 9th   | Manifold tricks (3)                                                     | 5                   | 4                   | 3                   | —                   | —                   | —                   |
+| 10th  | Mesmerist trick, touch treatment (greater)                              | 5                   | 4                   | 3                   | 1                   | —                   | —                   |
+| 11th  | Bold stare, glib lie                                                    | 5                   | 4                   | 4                   | 2                   | —                   | —                   |
+| 12th  | Masterful tricks, mesmerist trick                                       | 5                   | 5                   | 4                   | 3                   | —                   | —                   |
+| 13th  | Manifold tricks (4)                                                     | 5                   | 5                   | 4                   | 3                   | 1                   | —                   |
+| 14th  | Mesmerist trick, touch treatment (break enchantment)                    | 5                   | 5                   | 4                   | 4                   | 2                   | —                   |
+| 15th  | Bold stare                                                              | 5                   | 5                   | 5                   | 4                   | 3                   | —                   |
+| 16th  | Mesmerist trick                                                         | 5                   | 5                   | 5                   | 4                   | 3                   | 1                   |
+| 17th  | Manifold tricks (5)                                                     | 5                   | 5                   | 5                   | 4                   | 4                   | 2                   |
+| 18th  | Mesmerist trick                                                         | 5                   | 5                   | 5                   | 5                   | 4                   | 3                   |
+| 19th  | Bold stare                                                              | 5                   | 5                   | 5                   | 5                   | 5                   | 4                   |
+| 20th  | Mesmerist trick, rule minds                                             | 5                   | 5                   | 5                   | 5                   | 5                   | 5                   |
 
 **Table: Mesmerist Spells Known** ^table-mesmerist-spells-known
 
 | Level | Spells Known: 0 | Spells Known: 1st | Spells Known: 2nd | Spells Known: 3rd | Spells Known: 4th | Spells Known: 5th | Spells Known: 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | 4 | 2 | — | — | — | — | — |
-| 2nd | 5 | 3 | — | — | — | — | — |
-| 3rd | 6 | 4 | — | — | — | — | — |
-| 4th | 6 | 4 | 2 | — | — | — | — |
-| 5th | 6 | 4 | 3 | — | — | — | — |
-| 6th | 6 | 4 | 4 | — | — | — | — |
-| 7th | 6 | 5 | 4 | 2 | — | — | — |
-| 8th | 6 | 5 | 4 | 3 | — | — | — |
-| 9th | 6 | 5 | 4 | 4 | — | — | — |
-| 10th | 6 | 5 | 5 | 4 | 2 | — | — |
-| 11th | 6 | 6 | 5 | 4 | 3 | — | — |
-| 12th | 6 | 6 | 5 | 4 | 4 | — | — |
-| 13th | 6 | 6 | 5 | 5 | 4 | 2 | — |
-| 14th | 6 | 6 | 6 | 5 | 4 | 3 | — |
-| 15th | 6 | 6 | 6 | 5 | 4 | 4 | — |
-| 16th | 6 | 6 | 6 | 5 | 5 | 4 | 2 |
-| 17th | 6 | 6 | 6 | 6 | 5 | 4 | 3 |
-| 18th | 6 | 6 | 6 | 6 | 5 | 4 | 4 |
-| 19th | 6 | 6 | 6 | 6 | 5 | 5 | 4 |
-| 20th | 6 | 6 | 6 | 6 | 6 | 5 | 5 |
+| ----- | --------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
+| 1st   | 4               | 2                 | —                 | —                 | —                 | —                 | —                 |
+| 2nd   | 5               | 3                 | —                 | —                 | —                 | —                 | —                 |
+| 3rd   | 6               | 4                 | —                 | —                 | —                 | —                 | —                 |
+| 4th   | 6               | 4                 | 2                 | —                 | —                 | —                 | —                 |
+| 5th   | 6               | 4                 | 3                 | —                 | —                 | —                 | —                 |
+| 6th   | 6               | 4                 | 4                 | —                 | —                 | —                 | —                 |
+| 7th   | 6               | 5                 | 4                 | 2                 | —                 | —                 | —                 |
+| 8th   | 6               | 5                 | 4                 | 3                 | —                 | —                 | —                 |
+| 9th   | 6               | 5                 | 4                 | 4                 | —                 | —                 | —                 |
+| 10th  | 6               | 5                 | 5                 | 4                 | 2                 | —                 | —                 |
+| 11th  | 6               | 6                 | 5                 | 4                 | 3                 | —                 | —                 |
+| 12th  | 6               | 6                 | 5                 | 4                 | 4                 | —                 | —                 |
+| 13th  | 6               | 6                 | 5                 | 5                 | 4                 | 2                 | —                 |
+| 14th  | 6               | 6                 | 6                 | 5                 | 4                 | 3                 | —                 |
+| 15th  | 6               | 6                 | 6                 | 5                 | 4                 | 4                 | —                 |
+| 16th  | 6               | 6                 | 6                 | 5                 | 5                 | 4                 | 2                 |
+| 17th  | 6               | 6                 | 6                 | 6                 | 5                 | 4                 | 3                 |
+| 18th  | 6               | 6                 | 6                 | 6                 | 5                 | 4                 | 4                 |
+| 19th  | 6               | 6                 | 6                 | 6                 | 5                 | 5                 | 4                 |
+| 20th  | 6               | 6                 | 6                 | 6                 | 6                 | 5                 | 5                 |
 
 ###### Class Features
 
@@ -181,13 +181,13 @@ The mesmerist knows one trick at 1st level, and learns another trick at 2nd leve
 - **Moderate Conditions**: [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]], [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]], [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]], [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]].
 - **Greater Conditions**: [[rangoric-srd/rules/Special Abilities and Conditions#^cowering|cowering]], [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]], [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]].
 
-At 14th level, the mesmerist can instead expend one use of touch treatment to replicate the effects of *[[rangoric-srd/spells/Break Enchantment|break enchantment]]*. This targets only one creature the mesmerist is touching and follows all other restrictions of touch treatment.
+At 14th level, the mesmerist can instead expend one use of touch treatment to replicate the effects of _[[rangoric-srd/spells/Break Enchantment|break enchantment]]_. This targets only one creature the mesmerist is touching and follows all other restrictions of touch treatment.
 
 **Manifold Tricks (Su)**: At 5th level, the mesmerist can have two tricks implanted at a time. The number of concurrent tricks increases by one for every 4 mesmerist levels he possesses beyond 5th. Each creature can still be the subject of only one trick at a time. If the mesmerist implants a new trick while he already has his maximum number of concurrent tricks implanted, he must choose one implanted trick to dismiss without triggering (the dismissed trick still expends a daily use of the mesmerist’s tricks). ^mesmerist-manifold-tricks
 
-**Mental Potency (Ex)**: At 5th level, the mesmerist can affect more powerful creatures or a greater number of creatures than normal with his mental effects. Both the HD limit and the total number of HD affected with each enchantment or illusion spell he casts increase by 1. For enchantment and illusion spells he casts that target a number of creatures greater than one, the number of creatures affected also increases by one (so a spell that targets one creature per level would be affected, but a spell that targets only one creature would not be). For example, a 5th-level mesmerist could affect 5 HD worth of creatures with *[[rangoric-srd/spells/Sleep|sleep]]*, affect 2d4+1 HD worth of creatures with *[[rangoric-srd/spells/Hypnotism|hypnotism]]*, and change the categories for *[[rangoric-srd/spells/Color Spray|color spray]]* to “3 HD or fewer,” “4 or 5 HD,” and “6 or more HD.” The number of additional HD or creatures increases by an additional 1 for every 5 levels beyond 5th, to a maximum increase of 4 at 20th level. ^mesmerist-mental-potency
+**Mental Potency (Ex)**: At 5th level, the mesmerist can affect more powerful creatures or a greater number of creatures than normal with his mental effects. Both the HD limit and the total number of HD affected with each enchantment or illusion spell he casts increase by 1. For enchantment and illusion spells he casts that target a number of creatures greater than one, the number of creatures affected also increases by one (so a spell that targets one creature per level would be affected, but a spell that targets only one creature would not be). For example, a 5th-level mesmerist could affect 5 HD worth of creatures with _[[rangoric-srd/spells/Sleep|sleep]]_, affect 2d4+1 HD worth of creatures with _[[rangoric-srd/spells/Hypnotism|hypnotism]]_, and change the categories for _[[rangoric-srd/spells/Color Spray|color spray]]_ to “3 HD or fewer,” “4 or 5 HD,” and “6 or more HD.” The number of additional HD or creatures increases by an additional 1 for every 5 levels beyond 5th, to a maximum increase of 4 at 20th level. ^mesmerist-mental-potency
 
-**Glib Lie (Su)**: At 11th level, a mesmerist can deceive truth-detecting magic. A creature using this sort of magic against the mesmerist must succeed at a [[rangoric-srd/rules/Concentration (Check)|caster level check]] against a DC of 15 + the mesmerist’s class level to succeed (as if the mesmerist were under the effect of a *[[rangoric-srd/spells/Glibness|glibness]]* spell); failure means the magic doesn’t detect the mesmerist’s lies or force him to speak only the truth. This ability does not give the mesmerist the *glibness* spell’s bonus on Deception checks. ^mesmerist-glib-lie
+**Glib Lie (Su)**: At 11th level, a mesmerist can deceive truth-detecting magic. A creature using this sort of magic against the mesmerist must succeed at a [[rangoric-srd/rules/Concentration (Check)|caster level check]] against a DC of 15 + the mesmerist’s class level to succeed (as if the mesmerist were under the effect of a _[[rangoric-srd/spells/Glibness|glibness]]_ spell); failure means the magic doesn’t detect the mesmerist’s lies or force him to speak only the truth. This ability does not give the mesmerist the _glibness_ spell’s bonus on Deception checks. ^mesmerist-glib-lie
 
 **Masterful Tricks (Su)**: At 12th level, a mesmerist can choose one of the following masterful tricks in place of a mesmerist trick. He gains an additional masterful trick every 2 levels thereafter. Using a masterful trick consumes two uses of the mesmerist trick class feature instead of one. ^mesmerist-masterful-tricks
 
@@ -209,7 +209,7 @@ At 14th level, the mesmerist can instead expend one use of touch treatment to re
 
 ![[rangoric-srd/class-options/mesmerist-tricks/Vision of Blood (Mesmerist Trick)]]
 
-**Rule Minds (Su)**: At 20th level, a mesmerist can permanently mentally enslave a creature. When the mesmerist successfully affects the target of his hypnotic stare with an enchantment spell that requires a saving throw, he can force that creature to attempt a second Will saving throw with a DC equal to the spell’s DC. The DC is reduced by 5 if the creature isn’t a humanoid. If the creature fails, it becomes a permanent thrall to the mesmerist (as *[[rangoric-srd/spells/Dominate Monster|dominate monster]]*) until the mesmerist dies. If it succeeds, it can’t be affected by rule minds again for 24 hours. A mesmerist can have only one creature enthralled at a time. If he enthralls a new creature, the previous one is set free but is unaware that it was enthralled by the mesmerist. ^mesmerist-rule-minds
+**Rule Minds (Su)**: At 20th level, a mesmerist can permanently mentally enslave a creature. When the mesmerist successfully affects the target of his hypnotic stare with an enchantment spell that requires a saving throw, he can force that creature to attempt a second Will saving throw with a DC equal to the spell’s DC. The DC is reduced by 5 if the creature isn’t a humanoid. If the creature fails, it becomes a permanent thrall to the mesmerist (as _[[rangoric-srd/spells/Dominate Monster|dominate monster]]_) until the mesmerist dies. If it succeeds, it can’t be affected by rule minds again for 24 hours. A mesmerist can have only one creature enthralled at a time. If he enthralls a new creature, the previous one is set free but is unaware that it was enthralled by the mesmerist. ^mesmerist-rule-minds
 
 **Archetypes**: A mesmerist can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The mesmerist’s archetypes, with what each replaces: ^mesmerist-archetypes
 

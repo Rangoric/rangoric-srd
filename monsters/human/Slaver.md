@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Slaver
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 4d10+8 (30 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 15 (+3 armor, +2 Dex), touch 12, flat-footed 13
-  - **Base Attack**: +4; **CMB**: +7; **CMD**: 19
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Guisarme|guisarme]] +9 melee (2d4+4/×3) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Sap|sap]] +8 melee (1d6+3 nonlethal) or [[rangoric-srd/equipment/weapons/Spiked Gauntlet|spiked gauntlet]] +7 melee (1d4+3) or [[rangoric-srd/equipment/weapons/Bolas|bolas]] +7 ranged (1d4+3)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Guisarme|guisarme]] +9 melee (2d4+4/×3); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Sap|sap]] +8 melee (1d6+3 nonlethal); or [[rangoric-srd/equipment/weapons/Spiked Gauntlet|spiked gauntlet]] +7 melee (1d4+3); or [[rangoric-srd/equipment/weapons/Bolas|bolas]] +7 ranged (1d4+3)
-  - **Space/Reach**: 5 ft./5 ft. (10 ft. with guisarme)
-  - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (humans +2)
-  - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +1, [[rangoric-srd/classes/Ranger#^ranger-track|track]] +1, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +1
-  - **Saves**: Fort +8, Ref +5, Will +1 (+1 vs. fear)
-  - **Abilities**: Str 17, Dex 14, Con 14, Int 10, Wis 12, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8 (+9 to follow tracks), [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +9
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (bolas), [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bolas), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (guisarme)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 3
-  - **Treasure**: NPC gear (combat gear: feather token (whip), tanglefoot bags (2); other gear: masterwork studded leather, bolas (3), masterwork guisarme, masterwork sap, spiked gauntlet, climber's kit, drow poison (2 doses), manacles)
-  - **Alignment**: Neutral evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 4d10+8 (30 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 15 (+3 armor, +2 Dex), touch 12, flat-footed 13
+- **Base Attack**: +4; **CMB**: +7; **CMD**: 19
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Guisarme|guisarme]] +9 melee (2d4+4/×3) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Sap|sap]] +8 melee (1d6+3 nonlethal) or [[rangoric-srd/equipment/weapons/Spiked Gauntlet|spiked gauntlet]] +7 melee (1d4+3) or [[rangoric-srd/equipment/weapons/Bolas|bolas]] +7 ranged (1d4+3)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Guisarme|guisarme]] +9 melee (2d4+4/×3); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Sap|sap]] +8 melee (1d6+3 nonlethal); or [[rangoric-srd/equipment/weapons/Spiked Gauntlet|spiked gauntlet]] +7 melee (1d4+3); or [[rangoric-srd/equipment/weapons/Bolas|bolas]] +7 ranged (1d4+3)
+- **Space/Reach**: 5 ft./5 ft. (10 ft. with guisarme)
+- **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (humans +2)
+- **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +1, [[rangoric-srd/classes/Ranger#^ranger-track|track]] +1, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +1
+- **Saves**: Fort +8, Ref +5, Will +1 (+1 vs. fear)
+- **Abilities**: Str 17, Dex 14, Con 14, Int 10, Wis 12, Cha 8
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8 (+9 to follow tracks), [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (bolas), [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bolas), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (guisarme)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 3
+- **Treasure**: NPC gear (combat gear: feather token (whip), tanglefoot bags (2); other gear: masterwork studded leather, bolas (3), masterwork guisarme, masterwork sap, spiked gauntlet, climber's kit, drow poison (2 doses), manacles)
+- **Alignment**: Neutral evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A slaver is a [[rangoric-srd/monsters/human/Human|human]] with 2 levels of [[rangoric-srd/classes/Fighter|fighter]] and 2 levels of [[rangoric-srd/classes/Ranger|ranger]]. Slavers are the scourge of free societies, sneaking into towns and villages by night and capturing the innocent, spiriting them away to underground slave markets or taking them by ship to mines, plantations, and pleasure palaces across the sea.
 

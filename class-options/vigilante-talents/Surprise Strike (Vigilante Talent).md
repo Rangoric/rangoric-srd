@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Surprise Strike
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 The vigilante gains a greater advantage when his foe is unable to defend herself. Whenever he makes an attack against a foe that is denied her Dexterity bonus to AC, he gains a +1 bonus on his attack roll.
 

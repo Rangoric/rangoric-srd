@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat]
 
 # Superior Expertise
 
-Prerequisites: Int 13, [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], base attack bonus +6.  
+Prerequisites: Int 13, [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], base attack bonus +6.
 
 Benefit: When you use the Combat Expertise feat to improve your Armor Class, the number you subtract from your attack and add to your AC can be any number that does not exceed your base attack bonus.  
 This feat eliminates the +5 maximum for the Combat Expertise feat.

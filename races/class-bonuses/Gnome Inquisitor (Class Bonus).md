@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Gnome Inquisitor
 
-*A [[rangoric-srd/races/Gnome|gnome]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-class-bonuses|inquisitor]] level.*
+_A [[rangoric-srd/races/Gnome|gnome]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-class-bonuses|inquisitor]] level._
 
 Add a +1 bonus on [[rangoric-srd/rules/Concentration (Check)|concentration checks]] when casting inquisitor spells.

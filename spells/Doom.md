@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Doom
 
-*Necromancy \[Fear, Mind-Affecting\]*
+_Necromancy \[Fear, Mind-Affecting\]_
 
-  - **Level**: Apl 1, Clr 1, Inq 1, Mes 1, Sha 1, Spi 1
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Target**: One living creature
-  - **Duration**: 1 min./level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Apl 1, Clr 1, Inq 1, Mes 1, Sha 1, Spi 1
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Target**: One living creature
+- **Duration**: 1 min./level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 This spell fills a single subject with a feeling of horrible dread that causes it to become [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]].

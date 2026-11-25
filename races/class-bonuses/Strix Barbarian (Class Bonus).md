@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Strix Barbarian
 
-*A [[rangoric-srd/races/Strix|strix]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Barbarian#^barbarian-class-bonuses|barbarian]] level.*
+_A [[rangoric-srd/races/Strix|strix]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Barbarian#^barbarian-class-bonuses|barbarian]] level._
 
 Add +1 to the barbarian's total number of [[rangoric-srd/classes/Barbarian#^barbarian-rage|rage]] rounds per day.

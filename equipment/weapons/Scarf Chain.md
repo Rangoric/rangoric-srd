@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/flails]
 
 # Scarf Chain
 
-*Exotic one-handed melee weapon (trip, disarm).* Cost 10 gp; Dmg 1d4/1d4 (S), 1d4/1d4 (M); Critical x3; Weight 1 lb.; Type Slashing. ^stats
+_Exotic one-handed melee weapon (trip, disarm)._ Cost 10 gp; Dmg 1d4/1d4 (S), 1d4/1d4 (M); Critical x3; Weight 1 lb.; Type Slashing. ^stats
 
 A scarf chain is a thin weighted chain sewn into a silk scarf (included in the price). It can be used like a spiked chain, and can be used as a garrote by wrapping it about an opponent’s neck. The scarf chain is an easily concealable weapon, as it simply appears to be an ordinary silk scarf.
 

@@ -32,16 +32,16 @@ tags: [rangoric, rangoric/spell]
 
 # Aggressive Thundercloud
 
-*Evocation \[Electricity\]*
+_Evocation \[Electricity\]_
 
-  - **Level**: Drd 2, Hun 2, Mag 2, Sor/Wiz 2, Wit 2
-  - **Components**: V, S, M/DF (a piece of a tree struck by lightning)
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: 5-ft.-diameter sphere
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Reflex negates
-  - **Spell Resistance**: Yes
+- **Level**: Drd 2, Hun 2, Mag 2, Sor/Wiz 2, Wit 2
+- **Components**: V, S, M/DF (a piece of a tree struck by lightning)
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: 5-ft.-diameter sphere
+- **Duration**: 1 round/level
+- **Saving Throw**: Reflex negates
+- **Spell Resistance**: Yes
 
 A crackling, spherical storm cloud flies in whichever direction you point and deals electricity damage to those it strikes. It has a fly speed of 20 feet with perfect maneuverability. If it enters a space that contains a creature, the storm stops moving for the round and deals 3d6 points of electricity damage to that creature, though a successful Reflex save negates that damage. It provides concealment (20% miss chance) to anything within it, and its flickering light illuminates the same area a candle would.
 

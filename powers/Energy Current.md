@@ -33,7 +33,7 @@ Psychokinesis \[see text\]
 **Duration:** Concentration, up to 1 round/level  
 **Saving Throw:** Reflex half or Fortitude half; see text  
 **Power Resistance:** Yes  
-**Power Points:** 9  
+**Power Points:** 9
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. Your body’s psionically fueled bioenergetic currents produce an arc of energy of the chosen type that targets a creature you designate as the primary foe for 9d6 points of damage in every round when the power remains in effect. Energy also arcs off the primary foe to strike one additional foe that is initially within 15 feet of the primary foe, or that subsequently moves within 15 feet of the primary foe while the duration lasts. Secondary foes take half the damage that the primary foe takes in every round while the duration lasts.
 

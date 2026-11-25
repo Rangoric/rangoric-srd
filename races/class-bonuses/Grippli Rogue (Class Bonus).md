@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Grippli Rogue
 
-*A [[rangoric-srd/races/Grippli|grippli]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Rogue#^rogue-class-bonuses|rogue]] level.*
+_A [[rangoric-srd/races/Grippli|grippli]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Rogue#^rogue-class-bonuses|rogue]] level._
 
 Add a +1/2 bonus on [[rangoric-srd/skills/Perception|Perception]] checks while in a forest or swamp.

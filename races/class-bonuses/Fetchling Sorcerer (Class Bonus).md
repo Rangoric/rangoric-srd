@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Fetchling Sorcerer
 
-*A [[rangoric-srd/races/Fetchling|fetchling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Sorcerer#^sorcerer-class-bonuses|sorcerer]] level.*
+_A [[rangoric-srd/races/Fetchling|fetchling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Sorcerer#^sorcerer-class-bonuses|sorcerer]] level._
 
 Add +1/2 to either cold or electricity [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy|resistance]] (maximum resistance 10 for either type).

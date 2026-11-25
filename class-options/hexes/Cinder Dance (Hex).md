@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Cinder Dance
 
-*A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Ex) of the [[rangoric-srd/class-options/spirits/Flame Spirit|flame spirit]].*
+_A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Ex) of the [[rangoric-srd/class-options/spirits/Flame Spirit|flame spirit]]._
 
 The shaman's base speed increases by 10 feet. At 5th level, the shaman receives [[rangoric-srd/feats/Nimble Moves|Nimble Moves]] as a bonus feat. At 10th level, the shaman receives [[rangoric-srd/feats/Acrobatic Steps|Acrobatic Steps]] as a bonus feat. The shaman doesn't need to meet the prerequisites of these feats.

@@ -19,6 +19,6 @@ Sprites fight their opponents with spell-like abilities and pintsized weaponry. 
 
 **Skills**: All sprites have a +2 racial bonus on [[rangoric-srd/skills/Investigation|Investigation]] and [[rangoric-srd/skills/Perception|Perception]] checks.
 
-  - [[rangoric-srd/monsters/sprite/Grig|Grig]]
-  - [[rangoric-srd/monsters/sprite/Nixie|Nixie]]
-  - [[rangoric-srd/monsters/sprite/Pixie|Pixie]]
+- [[rangoric-srd/monsters/sprite/Grig|Grig]]
+- [[rangoric-srd/monsters/sprite/Nixie|Nixie]]
+- [[rangoric-srd/monsters/sprite/Pixie|Pixie]]

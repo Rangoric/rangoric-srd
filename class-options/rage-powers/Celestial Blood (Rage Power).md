@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Celestial Blood
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su)._
 
 While raging, the barbarian gains resistance 5 to acid and cold.
 

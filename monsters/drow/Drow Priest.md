@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Drow Priest
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf)
-  - **Hit Dice**: 5d8+5 (31 hp)
-  - **Initiative**: +5
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 24 (+9 armor, +2 deflection, +1 Dex, +2 shield), touch 13, flat-footed 23
-  - **Base Attack**: +3; **CMB**: +3; **CMD**: 14
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Flail|flail]] +4 melee (1d8)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Flail|flail]] +4 melee (1d8)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 7/day (DC 14, 3d6), [[rangoric-srd/class-options/domains/Magic Domain|hand of the acolyte]] (7/day), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]], [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/races/racial-traits/Poison Use|poison use]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 16, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
-  - **Saves**: Fort +5, Ref +2, Will +8 (+2 vs. enchantment)
-  - **Abilities**: Str 10, Dex 12, Con 12, Int 14, Wis 18, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Deception|Deception]] +3, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Theology|Theology]] +10
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
-  - **Environment**: Underground
-  - **Organization**: Solitary, or with other drow (see [[rangoric-srd/monsters/drow/Drow, 1st-Level Warrior|Drow, 1st-Level Warrior]])
-  - **Challenge Rating**: 5
-  - **Treasure**: NPC gear (combat gear: potion of invisibility, potion of owl's wisdom, scroll of cure moderate wounds, scroll of cure serious wounds, scroll of magic weapon; other gear: masterwork full plate, heavy steel shield, masterwork flail, spell component pouch, 167 gp)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf)
+- **Hit Dice**: 5d8+5 (31 hp)
+- **Initiative**: +5
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 24 (+9 armor, +2 deflection, +1 Dex, +2 shield), touch 13, flat-footed 23
+- **Base Attack**: +3; **CMB**: +3; **CMD**: 14
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Flail|flail]] +4 melee (1d8)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Flail|flail]] +4 melee (1d8)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 7/day (DC 14, 3d6), [[rangoric-srd/class-options/domains/Magic Domain|hand of the acolyte]] (7/day), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]], [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/races/racial-traits/Poison Use|poison use]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 16, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
+- **Saves**: Fort +5, Ref +2, Will +8 (+2 vs. enchantment)
+- **Abilities**: Str 10, Dex 12, Con 12, Int 14, Wis 18, Cha 15
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Deception|Deception]] +3, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Theology|Theology]] +10
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
+- **Environment**: Underground
+- **Organization**: Solitary, or with other drow (see [[rangoric-srd/monsters/drow/Drow, 1st-Level Warrior|Drow, 1st-Level Warrior]])
+- **Challenge Rating**: 5
+- **Treasure**: NPC gear (combat gear: potion of invisibility, potion of owl's wisdom, scroll of cure moderate wounds, scroll of cure serious wounds, scroll of magic weapon; other gear: masterwork full plate, heavy steel shield, masterwork flail, spell component pouch, 167 gp)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A drow priest is a [[rangoric-srd/monsters/drow/Drow, 1st-Level Warrior|drow]] with 5 levels of [[rangoric-srd/classes/Cleric|cleric]]. The drow priest enjoys many blessings granted to her by the demon prince of forbidden magic.
 
@@ -79,6 +79,6 @@ A drow priest speaks Abyssal, Common, Elven, and Undercommon.
 
 **Domain Spell-Like Abilities** (CL 5th; concentration +9): 7/day—[[rangoric-srd/class-options/domains/Evil Domain|touch of evil]] (2 rounds).
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 5th): Constant—*[[rangoric-srd/spells/Detect Magic|detect magic]]*; At will—*[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]*, *[[rangoric-srd/spells/Faerie Fire|faerie fire]]*, *[[rangoric-srd/spells/Feather Fall|feather fall]]*, *[[rangoric-srd/spells/Levitate|levitate]]*; 1/day—*[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, *[[rangoric-srd/spells/Divine Favor|divine favor]]*, *[[rangoric-srd/spells/Suggestion|suggestion]]* (DC 15).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 5th): Constant—_[[rangoric-srd/spells/Detect Magic|detect magic]]_; At will—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_, _[[rangoric-srd/spells/Faerie Fire|faerie fire]]_, _[[rangoric-srd/spells/Feather Fall|feather fall]]_, _[[rangoric-srd/spells/Levitate|levitate]]_; 1/day—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Divine Favor|divine favor]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 15).
 
-**Cleric spells prepared** (CL 5th; concentration +9): 3rd—*[[rangoric-srd/spells/Chain of Perdition|chain of perdition]]*, *[[rangoric-srd/spells/Dispel Magic|dispel magic]]* <sup>D</sup>, *[[rangoric-srd/spells/Protection from Energy|protection from energy]]*; 2nd—*[[rangoric-srd/spells/Align Weapon|align weapon]]* <sup>D</sup> (evil only), *[[rangoric-srd/spells/Dread Bolt|dread bolt]]* (DC 16), *[[rangoric-srd/spells/Hold Person|hold person]]* (DC 16), *[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]*; 1st—*[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*, *[[rangoric-srd/spells/Entropic Shield|entropic shield]]*, *[[rangoric-srd/spells/Murderous Command|murderous command]]* (DC 15), *[[rangoric-srd/spells/Protection from Good|protection from good]]* <sup>D</sup>, *[[rangoric-srd/spells/Shield of Faith|shield of faith]]*; 0 (at will)—*[[rangoric-srd/spells/Bleed|bleed]]* (DC 14), *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Detect Poison|detect poison]]*, *[[rangoric-srd/spells/Read Magic|read magic]]*; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Evil Domain|Evil]], [[rangoric-srd/class-options/domains/Magic Domain|Magic]].
+**Cleric spells prepared** (CL 5th; concentration +9): 3rd—_[[rangoric-srd/spells/Chain of Perdition|chain of perdition]]_, _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_ <sup>D</sup>, _[[rangoric-srd/spells/Protection from Energy|protection from energy]]_; 2nd—_[[rangoric-srd/spells/Align Weapon|align weapon]]_ <sup>D</sup> (evil only), _[[rangoric-srd/spells/Dread Bolt|dread bolt]]_ (DC 16), _[[rangoric-srd/spells/Hold Person|hold person]]_ (DC 16), _[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]_; 1st—_[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Entropic Shield|entropic shield]]_, _[[rangoric-srd/spells/Murderous Command|murderous command]]_ (DC 15), _[[rangoric-srd/spells/Protection from Good|protection from good]]_ <sup>D</sup>, _[[rangoric-srd/spells/Shield of Faith|shield of faith]]_; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 14), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Detect Poison|detect poison]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Evil Domain|Evil]], [[rangoric-srd/class-options/domains/Magic Domain|Magic]].

@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes]
 
 # Handaxe
 
-*Martial light melee weapon.* Cost 6 gp; Dmg 1d4 (S), 1d6 (M); Critical x3; Weight 3 lb.; Type Slashing. ^stats
+_Martial light melee weapon._ Cost 6 gp; Dmg 1d4 (S), 1d6 (M); Critical x3; Weight 3 lb.; Type Slashing. ^stats

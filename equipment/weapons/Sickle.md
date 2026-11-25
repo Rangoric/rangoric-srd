@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 
 # Sickle
 
-*Simple light melee weapon (trip).* Cost 6 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 2 lb.; Type Slashing. ^stats
+_Simple light melee weapon (trip)._ Cost 6 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 2 lb.; Type Slashing. ^stats
 
 A sickle can be used to make trip attacks. If you are tripped during your own trip attempt, you can drop the sickle to avoid being tripped.

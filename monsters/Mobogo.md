@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Mobogo
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Aquatic)
-  - **Hit Dice**: 13d10+65 (136 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares), fly 30 ft. (poor), swim 40 ft.
-  - **Armor Class**: 24 (+2 Dex, +14 natural, –2 size), touch 10, flat-footed 22
-  - **Base Attack**: +13; **CMB**: +24 (+28 grapple); **CMD**: 36 (40 vs. trip)
-  - **Attack**: Bite +20 melee (2d6+9) or slam +20 melee (1d8+9) ortongue +20 (1d6+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Pull|pull]])
-  - **Full Attack**: Bite +20 melee (2d6+9) and 2 slams +20 melee (1d8+9) ortongue +20 (1d6+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Pull|pull]])
-  - **Space/Reach**: 15 ft./15 ft. (45 ft. with tongue)
-  - **Special Attacks**: Crush (DC 21, 2d8+13), pull ([[rangoric-srd/monsters/abilities/Tongue|tongue]], 5 ft.), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d6+13 bludgeoning damage, AC 17, 13 hp), [[rangoric-srd/monsters/abilities/Vile Croak|vile croak]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid, cold, or fire), [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Swamp Stride|swamp stride]]
-  - **Saves**: Fort +13, Ref +10, Will +8
-  - **Abilities**: Str 28, Dex 15, Con 21, Int 6, Wis 15, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +17 (+25 jumping), [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +0 (+8 in swamps)
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Temperate swamps
-  - **Organization**: Solitary or gang (2–4)
-  - **Challenge Rating**: 10
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Aquatic)
+- **Hit Dice**: 13d10+65 (136 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares), fly 30 ft. (poor), swim 40 ft.
+- **Armor Class**: 24 (+2 Dex, +14 natural, –2 size), touch 10, flat-footed 22
+- **Base Attack**: +13; **CMB**: +24 (+28 grapple); **CMD**: 36 (40 vs. trip)
+- **Attack**: Bite +20 melee (2d6+9) or slam +20 melee (1d8+9) ortongue +20 (1d6+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Pull|pull]])
+- **Full Attack**: Bite +20 melee (2d6+9) and 2 slams +20 melee (1d8+9) ortongue +20 (1d6+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Pull|pull]])
+- **Space/Reach**: 15 ft./15 ft. (45 ft. with tongue)
+- **Special Attacks**: Crush (DC 21, 2d8+13), pull ([[rangoric-srd/monsters/abilities/Tongue|tongue]], 5 ft.), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d6+13 bludgeoning damage, AC 17, 13 hp), [[rangoric-srd/monsters/abilities/Vile Croak|vile croak]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid, cold, or fire), [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Swamp Stride|swamp stride]]
+- **Saves**: Fort +13, Ref +10, Will +8
+- **Abilities**: Str 28, Dex 15, Con 21, Int 6, Wis 15, Cha 16
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +17 (+25 jumping), [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +0 (+8 in swamps)
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Temperate swamps
+- **Organization**: Solitary or gang (2–4)
+- **Challenge Rating**: 10
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Huge and hungry, mobogos merge the features of gigantic toads and swampy dragons, and lair in the deepest, oldest swamps. Here, whole tribes of boggards serve the beasts' fickle, capricious whims.
 
@@ -72,7 +72,7 @@ Mobogos speak Boggard.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +11): Constant—*[[rangoric-srd/spells/Pass without Trace|pass without trace]]*, *[[rangoric-srd/spells/Speak with Animals|speak with animals]]*; At will—*[[rangoric-srd/spells/Charm Animal|charm animal]]* (DC 14), *[[rangoric-srd/spells/Create Water|create water]], [[rangoric-srd/spells/Sound Burst|sound burst]]* (DC 15); 3/day—*[[rangoric-srd/spells/Control Water|control water]]*, *[[rangoric-srd/spells/Fog Cloud|fog cloud]]*, *[[rangoric-srd/spells/Gust of Wind|gust of wind]]* (DC 15), *[[rangoric-srd/spells/Plant Growth|plant growth]]*, *[[rangoric-srd/spells/Quench|quench]]* (DC 16), *[[rangoric-srd/spells/Soften Earth and Stone|soften earth and stone]]* (DC 15).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +11): Constant—_[[rangoric-srd/spells/Pass without Trace|pass without trace]]_, _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_; At will—_[[rangoric-srd/spells/Charm Animal|charm animal]]_ (DC 14), _[[rangoric-srd/spells/Create Water|create water]], [[rangoric-srd/spells/Sound Burst|sound burst]]_ (DC 15); 3/day—_[[rangoric-srd/spells/Control Water|control water]]_, _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_, _[[rangoric-srd/spells/Gust of Wind|gust of wind]]_ (DC 15), _[[rangoric-srd/spells/Plant Growth|plant growth]]_, _[[rangoric-srd/spells/Quench|quench]]_ (DC 16), _[[rangoric-srd/spells/Soften Earth and Stone|soften earth and stone]]_ (DC 15).
 
 **[[rangoric-srd/monsters/abilities/Swamp Stride|Swamp Stride]] (Ex)**: A mobogo can move through any sort of natural difficult terrain at its normal speed while within a swamp. Magically altered terrain affects it normally.
 

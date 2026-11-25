@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Buoyant
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “buoyant”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “buoyant”, on the Special Qualities line.
 
 A creature with this ability that fails an [[rangoric-srd/skills/Athletics|Athletics]] check by 5 or more does not sink. The [[rangoric-srd/monsters/Giant Tortoise|giant tortoise]] and the [[rangoric-srd/monsters/Immense Tortoise|immense tortoise]] have it.

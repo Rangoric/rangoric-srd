@@ -28,17 +28,17 @@ tags: [rangoric, rangoric/spell]
 
 # Campfire Lullaby
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Brd 5, Skd 5
-  - **Components**: V, M
-  - **Casting Time**: 10 minutes
-  - **Range**: Close (25 ft. +5 ft./2 levels)
-  - **Target**: Several living creatures within a 15-ft. radius burst
-  - **Duration**: 1 hour
-  - **Saving Throw**: Will negates\*
-  - **Spell Resistance**: Yes
+- **Level**: Brd 5, Skd 5
+- **Components**: V, M
+- **Casting Time**: 10 minutes
+- **Range**: Close (25 ft. +5 ft./2 levels)
+- **Target**: Several living creatures within a 15-ft. radius burst
+- **Duration**: 1 hour
+- **Saving Throw**: Will negates\*
+- **Spell Resistance**: Yes
 
 When sung to group of creatures that willingly succumb to it, regardless of HD, they gain all of the benefits of having had a full night’s sleep (including rememorizing spells that have already been cast.) Unwilling creatures are unaffected by this spell. A creature may only receive the benefits of this spell once every five days.
 
-*Material Component:* Wood ash from a campfire no older than a week.
+_Material Component:_ Wood ash from a campfire no older than a week.

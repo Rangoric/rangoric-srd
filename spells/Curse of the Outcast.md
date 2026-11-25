@@ -35,15 +35,15 @@ tags: [rangoric, rangoric/spell]
 
 # Curse of the Outcast
 
-*Enchantment (Compulsion) \[Curse, Emotion, MindAffecting\]*
+_Enchantment (Compulsion) \[Curse, Emotion, MindAffecting\]_
 
-  - **Level**: Brd 4, Clr 6, Inq 4, Mes 4, Skd 4, Wit 6
-  - **Components**: V, S, M (a handful of earthworms)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: Permanent
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 4, Clr 6, Inq 4, Mes 4, Skd 4, Wit 6
+- **Components**: V, S, M (a handful of earthworms)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: Permanent
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 Everything about the target seems off-putting and grating, and everyone he meets is compelled to see the worst in him. Whenever the target attempts a Deception, Persuasion, Intimidation, or Perform check, he must roll twice and take the lower result. Additionally, each creature he encounters has its initial attitude toward him reduced by one step (helpful becomes friendly, friendly becomes indifferent, and so on).

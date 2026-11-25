@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Kobold Druid
 
-*A [[rangoric-srd/races/Kobold|kobold]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Druid#^druid-class-bonuses|druid]] level.*
+_A [[rangoric-srd/races/Kobold|kobold]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Druid#^druid-class-bonuses|druid]] level._
 
 Add +1/2 to the druid's [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] bonus.

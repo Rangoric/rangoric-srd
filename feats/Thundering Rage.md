@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Thundering Rage
 
-Prerequisites: Str 25, rage 5/day.  
+Prerequisites: Str 25, rage 5/day.
 
 Benefit: Any weapon the character wields while in a rage is treated as a thundering weapon. The DC of the Fortitude save to resist deafness is equal to 10 + 1/2 the character’s level. This ability does not stack with similar abilities.

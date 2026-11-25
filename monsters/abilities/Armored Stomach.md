@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Armored Stomach
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “armored stomach”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “armored stomach”, on the Special Qualities line.
 
 The creature's body is difficult to cut through: its stomach gains a +4 bonus to its AC and has double the normal hit points when determining the success of a creature attempting to cut its way free (see [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]]). The [[rangoric-srd/monsters/Giant Snapping Turtle|giant snapping turtle]] has it.

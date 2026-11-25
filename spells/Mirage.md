@@ -32,16 +32,16 @@ tags: [rangoric, rangoric/spell]
 
 # Mirage
 
-*Illusion (Figment)*
+_Illusion (Figment)_
 
-  - **Level**: Brd 3, Drd 3, Hun 3, Occ 3, Psy 3, Rgr 3, Skd 3
-  - **Components**: V, S, M (a pinch of sand and a drop of water)
-  - **Casting Time**: 10 minutes
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Area**: One 40-ft. cube/level (S)
-  - **Duration**: 2 \* caster level hour(s)
-  - **Saving Throw**: Will disbelief (see below)
-  - **Spell Resistance**: Yes
+- **Level**: Brd 3, Drd 3, Hun 3, Occ 3, Psy 3, Rgr 3, Skd 3
+- **Components**: V, S, M (a pinch of sand and a drop of water)
+- **Casting Time**: 10 minutes
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Area**: One 40-ft. cube/level (S)
+- **Duration**: 2 \* caster level hour(s)
+- **Saving Throw**: Will disbelief (see below)
+- **Spell Resistance**: Yes
 
 You create an image of a pool of water, a group of standing stones, a cove, an island, or another simple land formation over a stretch of flat land or water. The image is purely visual, and structures, equipment, and creatures within the area are not hidden or changed in appearance.
 

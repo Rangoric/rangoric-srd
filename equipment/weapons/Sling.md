@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/thrown]
 
 # Sling
 
-*Simple ranged weapon.* Cost —; Dmg 1d3 (S), 1d4 (M); Critical x2; Range Increment 50 ft.; Weight 0 lb.; Type Bludgeoning. ^stats
+_Simple ranged weapon._ Cost —; Dmg 1d3 (S), 1d4 (M); Critical x2; Range Increment 50 ft.; Weight 0 lb.; Type Bludgeoning. ^stats
 
 Your Strength modifier applies to damage rolls when you use a sling, just as it does for thrown weapons. You can fire, but not load, a sling with one hand. Loading a sling is a move action that requires two hands and provokes attacks of opportunity.
 

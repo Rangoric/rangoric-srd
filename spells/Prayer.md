@@ -29,15 +29,15 @@ tags: [rangoric, rangoric/spell]
 
 # Prayer
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Clr 3, Inq 3, Pal 3
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: 40 ft.
-  - **Area**: All allies and foes within a 40-ft.-radius burst centered on you
-  - **Duration**: 1 round/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Clr 3, Inq 3, Pal 3
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: 40 ft.
+- **Area**: All allies and foes within a 40-ft.-radius burst centered on you
+- **Duration**: 1 round/level
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 You bring special favor upon yourself and your allies while bringing disfavor to your enemies. You and your each of your allies gain a +1 luck bonus on attack rolls, weapon damage rolls, saves, and skill checks, while each of your foes takes a –1 penalty on such rolls.

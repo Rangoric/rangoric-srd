@@ -32,7 +32,7 @@ Psychoportation (Teleportation)
 **Duration:** Instantaneous  
 **Saving Throw:** Will negates; see text  
 **Power Resistance:** No  
-**Power Points:** 11  
+**Power Points:** 11
 
 You automatically teleport an item you can see within range directly to your hand. If the object is in the possession of an opponent, it comes to your hand if your opponent fails a Will save.
 

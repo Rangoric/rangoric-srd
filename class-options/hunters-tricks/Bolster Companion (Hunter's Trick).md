@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Bolster Companion
 
-*A [[rangoric-srd/class-options/hunters-tricks/Hunter's Tricks|hunter’s trick]] (Ex), which a [[rangoric-srd/class-options/archetypes/ranger/Skirmisher (Archetype)|skirmisher]] ranger learns.*
+_A [[rangoric-srd/class-options/hunters-tricks/Hunter's Tricks|hunter’s trick]] (Ex), which a [[rangoric-srd/class-options/archetypes/ranger/Skirmisher (Archetype)|skirmisher]] ranger learns._
 
 The ranger can use this trick as an immediate action when his [[rangoric-srd/classes/Ranger#^ranger-animal-companion|animal companion]] is hit with an attack or a combat maneuver. The companion's AC and [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|combat maneuver defense]] increase by +4 for the purposes of that attack. If the attack still hits, the animal companion only takes half damage (if any). The animal companion must be able to see and hear the ranger to benefit from this trick.

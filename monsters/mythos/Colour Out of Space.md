@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Colour Out of Space
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]] (Incorporeal)
-  - **Hit Dice**: 12d8+72 (126 hp)
-  - **Initiative**: +12
-  - **Speed**: 30 ft. (6 squares), fly 50 ft. (perfect)
-  - **Armor Class**: 23 (+6 deflection, +8 Dex, +1 dodge, –2 size), touch 23, flat-footed 14
-  - **Base Attack**: +9; **CMB**: +19; **CMD**: 36 (can't be tripped)
-  - **Attack**: Disintegrating touch +15 melee touch (6d6; DC 22)
-  - **Full Attack**: Disintegrating touch +15 melee touch (6d6; DC 22)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: Feed
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 120 ft., lassitude (300 ft., DC 22), [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, cold, fire, mind-affecting effects, poison and sonic, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21, susceptible to force effects
-  - **Saves**: Fort +10, Ref +14, Will +10
-  - **Abilities**: Str —, Dex 26, Con 22, Int 19, Wis 23, Cha 23
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +27, [[rangoric-srd/skills/Nature|Nature]] +16, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Society|Society]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +16
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 10
-  - **Treasure**: Incidental
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]] (Incorporeal)
+- **Hit Dice**: 12d8+72 (126 hp)
+- **Initiative**: +12
+- **Speed**: 30 ft. (6 squares), fly 50 ft. (perfect)
+- **Armor Class**: 23 (+6 deflection, +8 Dex, +1 dodge, –2 size), touch 23, flat-footed 14
+- **Base Attack**: +9; **CMB**: +19; **CMD**: 36 (can't be tripped)
+- **Attack**: Disintegrating touch +15 melee touch (6d6; DC 22)
+- **Full Attack**: Disintegrating touch +15 melee touch (6d6; DC 22)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: Feed
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 120 ft., lassitude (300 ft., DC 22), [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, cold, fire, mind-affecting effects, poison and sonic, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21, susceptible to force effects
+- **Saves**: Fort +10, Ref +14, Will +10
+- **Abilities**: Str —, Dex 26, Con 22, Int 19, Wis 23, Cha 23
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +27, [[rangoric-srd/skills/Nature|Nature]] +16, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Society|Society]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +16
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 10
+- **Treasure**: Incidental
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The deepest, strangest parts of space hold truly alien beings—and of those, few are more notorious than the colour out of space. The lack of a physical body does little to impede this deadly alien life form's ability to cause incredible devastation to other life it encounters. A colour out of space's life cycle requires periodic visits to the deepest reaches of space for the creature to gestate and grow in the vicinity of powerful gravitational fields (such as those created by planets), and this custom only increases the monster's opportunities to bring ruin to countless worlds.
 

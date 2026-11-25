@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Separatist
 
-*A [[rangoric-srd/classes/Cleric#^cleric-archetypes|cleric]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Cleric#^cleric-archetypes|cleric]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A radical cleric, unsatisfied with the orthodoxy of her deity's teachings, forges her own path of defiant divine expression. Though most members of her faith would call her a separatist or heretic, she continues to receive spells from her deity. Charismatic separatists may develop a large following of like-minded believers and eventually found a splinter church of their deity—and they are just as likely to be the cause of a holy civil war as the branches of the religion fight to determine which is the true faith.
 

@@ -37,18 +37,18 @@ Troves with a talons aspect are renowned for providing their trovebound with an 
 
 **Table: The Dragon Mage (Talon)** ^table-the-dragon-mage-talon
 
-| Level | Special | Spells per Day | Required Trove Value |
-| --- | --- | --- | --- |
-| 1st | Trove awareness | +1 level of existing spellcasting class | 6,750 gp |
-| 2nd | Improved flyby | +1 level of existing spellcasting class | 9,750 gp |
-| 3rd | — | +1 level of existing spellcasting class | 14,250 gp |
-| 4th | Hop attack | +1 level of existing spellcasting class | 20,250 gp |
-| 5th | — | +1 level of existing spellcasting class | 27,500 gp |
-| 6th | Stunning grapple | +1 level of existing spellcasting class | 46,750 gp |
-| 7th | [[#^dragon-mage-size-increase\|Size increase]] | +1 level of existing spellcasting class | 82,500 gp |
-| 8th | Brutal knockdown | +1 level of existing spellcasting class | 112,500 gp |
-| 9th | — | +1 level of existing spellcasting class | 150,000 gp |
-| 10th | Fracture | +1 level of existing spellcasting class | 195,000 gp |
+| Level | Special                                        | Spells per Day                          | Required Trove Value |
+| ----- | ---------------------------------------------- | --------------------------------------- | -------------------- |
+| 1st   | Trove awareness                                | +1 level of existing spellcasting class | 6,750 gp             |
+| 2nd   | Improved flyby                                 | +1 level of existing spellcasting class | 9,750 gp             |
+| 3rd   | —                                              | +1 level of existing spellcasting class | 14,250 gp            |
+| 4th   | Hop attack                                     | +1 level of existing spellcasting class | 20,250 gp            |
+| 5th   | —                                              | +1 level of existing spellcasting class | 27,500 gp            |
+| 6th   | Stunning grapple                               | +1 level of existing spellcasting class | 46,750 gp            |
+| 7th   | [[#^dragon-mage-size-increase\|Size increase]] | +1 level of existing spellcasting class | 82,500 gp            |
+| 8th   | Brutal knockdown                               | +1 level of existing spellcasting class | 112,500 gp           |
+| 9th   | —                                              | +1 level of existing spellcasting class | 150,000 gp           |
+| 10th  | Fracture                                       | +1 level of existing spellcasting class | 195,000 gp           |
 
 ###### Class Features
 

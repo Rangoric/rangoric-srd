@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Geist
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Incorporeal)
-  - **Hit Dice**: 12d8+60 (114 hp)
-  - **Initiative**: +9
-  - **Speed**: fly 40 ft. (perfect)
-  - **Armor Class**: 20 (+5 deflection, +5 Dex), touch 20, flat-footed 15
-  - **Base Attack**: +9; **CMB**: +14; **CMD**: 29
-  - **Attack**: Incorporeal bite +14 melee (1d6 negative energy plus 1d4 Con)
-  - **Full Attack**: Incorporeal bite +14 melee (1d6 negative energy plus 1d4 Con)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spiritual Manipulation|Spiritual manipulation]], terrifying laughter (30 ft.; DC 21)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Sunlight Powerlessness|sunlight powerlessness]]
-  - **Saves**: Fort +9, Ref +9, Will +10
-  - **Abilities**: Str —, Dex 20, Con —, Int 15, Wis 15, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +26, [[rangoric-srd/skills/Theology|Theology]] +15
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any (haunted sites or ruins)
-  - **Organization**: Solitary or haunting (2–7)
-  - **Challenge Rating**: 9
-  - **Treasure**: Incidental
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Incorporeal)
+- **Hit Dice**: 12d8+60 (114 hp)
+- **Initiative**: +9
+- **Speed**: fly 40 ft. (perfect)
+- **Armor Class**: 20 (+5 deflection, +5 Dex), touch 20, flat-footed 15
+- **Base Attack**: +9; **CMB**: +14; **CMD**: 29
+- **Attack**: Incorporeal bite +14 melee (1d6 negative energy plus 1d4 Con)
+- **Full Attack**: Incorporeal bite +14 melee (1d6 negative energy plus 1d4 Con)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spiritual Manipulation|Spiritual manipulation]], terrifying laughter (30 ft.; DC 21)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Sunlight Powerlessness|sunlight powerlessness]]
+- **Saves**: Fort +9, Ref +9, Will +10
+- **Abilities**: Str —, Dex 20, Con —, Int 15, Wis 15, Cha 21
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +26, [[rangoric-srd/skills/Theology|Theology]] +15
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any (haunted sites or ruins)
+- **Organization**: Solitary or haunting (2–7)
+- **Challenge Rating**: 9
+- **Treasure**: Incidental
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A geist is formed when an exceptionally evil humanoid is killed by a haunt and proves too tenacious to submit to death's call.
 

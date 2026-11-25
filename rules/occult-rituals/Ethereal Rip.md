@@ -15,19 +15,19 @@ tags: [rangoric, rangoric/occult-ritual]
 
 # Ethereal Rip
 
-*Evocation; [[rangoric-srd/rules/occult-rituals/Occult Rituals|occult ritual]] level 5*
+_Evocation; [[rangoric-srd/rules/occult-rituals/Occult Rituals|occult ritual]] level 5_
 
-  - **Level**: 5
-  - **Casting Time**: 50 minutes
-  - **Components**: V, S, M (a dollop of ectoplasm and paste extracted from ground lotus root worth 500 gp), F (an obsidian dagger with at least a +2 enhancement bonus and the [[rangoric-srd/magic-items/weapon-abilities/Ghost Touch (Weapon Special Ability)|ghost touch]] special ability, worth at least 18,301 gp)
-  - **Skill Checks**: [[rangoric-srd/skills/Theology|Theology]] DC 29, 3 successes; [[rangoric-srd/skills/Nature|Nature]] DC 29, 2 successes
-  - **Range**: touch
-  - **Effect**: a rip between the Material Plane and the Ethereal Plane
-  - **Duration**: 1 hour/character level of the primary caster and instantaneous; see text
-  - **Saving Throw**: Reflex negates
-  - **Spell Resistance**: no
-  - **Backlash**: The caster takes 4d6 points of damage.
-  - **Failure**: The caster gains the [[rangoric-srd/rules/Special Abilities and Conditions#^incorporeal|incorporeal]] subtype and is [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 24 hours.
+- **Level**: 5
+- **Casting Time**: 50 minutes
+- **Components**: V, S, M (a dollop of ectoplasm and paste extracted from ground lotus root worth 500 gp), F (an obsidian dagger with at least a +2 enhancement bonus and the [[rangoric-srd/magic-items/weapon-abilities/Ghost Touch (Weapon Special Ability)|ghost touch]] special ability, worth at least 18,301 gp)
+- **Skill Checks**: [[rangoric-srd/skills/Theology|Theology]] DC 29, 3 successes; [[rangoric-srd/skills/Nature|Nature]] DC 29, 2 successes
+- **Range**: touch
+- **Effect**: a rip between the Material Plane and the Ethereal Plane
+- **Duration**: 1 hour/character level of the primary caster and instantaneous; see text
+- **Saving Throw**: Reflex negates
+- **Spell Resistance**: no
+- **Backlash**: The caster takes 4d6 points of damage.
+- **Failure**: The caster gains the [[rangoric-srd/rules/Special Abilities and Conditions#^incorporeal|incorporeal]] subtype and is [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 24 hours.
 
 When the ritual is complete, the focus dagger can cut a momentary rift between the [[rangoric-srd/rules/Planes#The Material Plane|Material Plane]] and the [[rangoric-srd/rules/Planes#The Ethereal Plane|Ethereal Plane]], if the caster keeps to the ritual’s restrictions.
 

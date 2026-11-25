@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat]
 
 # Open Minded
 
-You are naturally able to reroute your memory, mind, and skill expertise.  
+You are naturally able to reroute your memory, mind, and skill expertise.
 
 Benefit: You immediately gain an extra 5 skill points. You spend these skill points as normal. You cannot exceed the normal maximum ranks for your level in any skill.
 

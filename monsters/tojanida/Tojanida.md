@@ -11,9 +11,9 @@ tags: [rangoric, rangoric/monster]
 
 # Tojanida
 
-  - [[rangoric-srd/monsters/tojanida/Juvenile Tojanida|Juvenile Tojanida]]
-  - [[rangoric-srd/monsters/tojanida/Adult Tojanida|Adult Tojanida]]
-  - [[rangoric-srd/monsters/tojanida/Elder Tojanida|Elder Tojanida]]
+- [[rangoric-srd/monsters/tojanida/Juvenile Tojanida|Juvenile Tojanida]]
+- [[rangoric-srd/monsters/tojanida/Adult Tojanida|Adult Tojanida]]
+- [[rangoric-srd/monsters/tojanida/Elder Tojanida|Elder Tojanida]]
 
 A tojanida’s shell is blue-green in color. Inside the shell is a fleshy body from which extend seven stalks. Four of these stalks have paddles for locomotion, two are tipped with claws, and one bears the creature’s head. Eight vents in the shell, four at each end, allow the tojanida to thrust its stalks out in whatever configuration it finds convenient.
 

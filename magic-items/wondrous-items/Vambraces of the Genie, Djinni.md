@@ -21,8 +21,8 @@ tags: [rangoric, rangoric/magic-item]
 
 # Vambraces of the Genie, Djinni
 
-These bracers are decorated with icons representing air, earth, fire, or water, and depictions of genies appropriate to that element. The item protects the wearer against hot and cold environments as if she were using *[[rangoric-srd/spells/Endure Elements|endure elements]]*. The vambraces' materials and other powers depend on their associated genie type.
+These bracers are decorated with icons representing air, earth, fire, or water, and depictions of genies appropriate to that element. The item protects the wearer against hot and cold environments as if she were using _[[rangoric-srd/spells/Endure Elements|endure elements]]_. The vambraces' materials and other powers depend on their associated genie type.
 
-**Djinni**: These mithral bracers allow the wearer to use *[[rangoric-srd/spells/Gaseous Form|gaseous form]]*, *[[rangoric-srd/spells/Invisibility|invisibility]]*, and *[[rangoric-srd/spells/Wind Wall|wind wall]]* each once per day.
+**Djinni**: These mithral bracers allow the wearer to use _[[rangoric-srd/spells/Gaseous Form|gaseous form]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_, and _[[rangoric-srd/spells/Wind Wall|wind wall]]_ each once per day.
 
-Faint evocation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Endure Elements|endure elements]]*, *[[rangoric-srd/spells/Gaseous Form|gaseous form]]*, *[[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Wind Wall|wind wall]]*; Price 18,900 gp; Cost 9,450 gp; Weight 3 lbs.
+Faint evocation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Endure Elements|endure elements]]_, _[[rangoric-srd/spells/Gaseous Form|gaseous form]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Wind Wall|wind wall]]_; Price 18,900 gp; Cost 9,450 gp; Weight 3 lbs.

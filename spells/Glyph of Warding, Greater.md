@@ -15,10 +15,10 @@ tags: [rangoric, rangoric/spell]
 
 # Glyph of Warding, Greater
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 6, Inq 6
+- **Level**: Clr 6, Inq 6
 
 This spell functions like [[rangoric-srd/spells/Glyph of Warding|glyph of warding]], except that a greater blast glyph deals up to 10d8 points of damage, and a greater spell glyph can store a spell of 6th level or lower.
 
-*Material Component*: You trace the glyph with incense, which must first be sprinkled with powdered diamond worth at least 400 gp.
+_Material Component_: You trace the glyph with incense, which must first be sprinkled with powdered diamond worth at least 400 gp.

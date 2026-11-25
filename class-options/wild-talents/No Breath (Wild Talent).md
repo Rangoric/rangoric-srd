@@ -18,12 +18,12 @@ tags: [rangoric, rangoric/class-option]
 
 # No Breath
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Void Element|void]]
-  - **Type**: utility (Su)
-  - **Level**: 2
-  - **Burn**: —
-  - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Emptiness|emptiness]]
+- **Element**: [[rangoric-srd/class-options/elements/Void Element|void]]
+- **Type**: utility (Su)
+- **Level**: 2
+- **Burn**: —
+- **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Emptiness|emptiness]]
 
 You gain [[rangoric-srd/monsters/abilities/No Breath|no breath]], as per the monster ability, and you can survive in the vacuum of space.

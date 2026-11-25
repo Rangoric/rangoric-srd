@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Reflexive Dodge
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 While in the guarded stance, the barbarian can apply her dodge bonus to AC as a bonus on Reflex saving throws. A barbarian must have the [[rangoric-srd/class-options/rage-powers/Guarded Stance (Rage Power)|guarded stance]] rage power and be at least 6th level to select this rage power.

@@ -13,63 +13,63 @@ tags: [rangoric, rangoric/overview]
 
 ## By Ability Score
 
-| Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
-| --- | --- | --- | --- | --- | --- |
-| [[rangoric-srd/skills/Athletics\|Athletics]] | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] |  | [[rangoric-srd/skills/Appraise\|Appraise]] | [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] | [[rangoric-srd/skills/Animal Handling\|Animal Handling]] |
-|  | [[rangoric-srd/skills/Escape Artist\|Escape Artist]] |  | [[rangoric-srd/skills/Arcana\|Arcana]] | [[rangoric-srd/skills/Meditation\|Meditation]] | [[rangoric-srd/skills/Deception\|Deception]] |
-|  | [[rangoric-srd/skills/Piloting\|Piloting]] |  | [[rangoric-srd/skills/Computers\|Computers]] | [[rangoric-srd/skills/Perception\|Perception]] | [[rangoric-srd/skills/Emulation\|Emulation]] |
-|  | [[rangoric-srd/skills/Sleight of Hand\|Sleight of Hand]] |  | [[rangoric-srd/skills/Craft\|Craft]] | [[rangoric-srd/skills/Profession\|Profession]] | [[rangoric-srd/skills/Intimidation\|Intimidation]] |
-|  | [[rangoric-srd/skills/Stealth\|Stealth]] |  | [[rangoric-srd/skills/Dungeoneering\|Dungeoneering]] | [[rangoric-srd/skills/Sense Motive\|Sense Motive]] | [[rangoric-srd/skills/Performance\|Performance]] |
-|  |  |  | [[rangoric-srd/skills/Engineering\|Engineering]] |  | [[rangoric-srd/skills/Persuasion\|Persuasion]] |
-|  |  |  | [[rangoric-srd/skills/Imitation\|Imitation]] |  |  |
-|  |  |  | [[rangoric-srd/skills/Investigation\|Investigation]] |  |  |
-|  |  |  | [[rangoric-srd/skills/Linguistics\|Linguistics]] |  |  |
-|  |  |  | [[rangoric-srd/skills/Lore\|Lore]] |  |  |
-|  |  |  | [[rangoric-srd/skills/Medicine\|Medicine]] |  |  |
-|  |  |  | [[rangoric-srd/skills/Mysticism\|Mysticism]] |  |  |
-|  |  |  | [[rangoric-srd/skills/Nature\|Nature]] |  |  |
-|  |  |  | [[rangoric-srd/skills/Psionics (Skill)\|Psionics]] |  |  |
-|  |  |  | [[rangoric-srd/skills/Psychic (Skill)\|Psychic]] |  |  |
-|  |  |  | [[rangoric-srd/skills/Society\|Society]] |  |  |
-|  |  |  | [[rangoric-srd/skills/Tactics\|Tactics]] |  |  |
-|  |  |  | [[rangoric-srd/skills/Theology\|Theology]] |  |  |
+| Strength                                     | Dexterity                                                | Constitution | Intelligence                                         | Wisdom                                             | Charisma                                                 |
+| -------------------------------------------- | -------------------------------------------------------- | ------------ | ---------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------------- |
+| [[rangoric-srd/skills/Athletics\|Athletics]] | [[rangoric-srd/skills/Acrobatics\|Acrobatics]]           |              | [[rangoric-srd/skills/Appraise\|Appraise]]           | [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]]     | [[rangoric-srd/skills/Animal Handling\|Animal Handling]] |
+|                                              | [[rangoric-srd/skills/Escape Artist\|Escape Artist]]     |              | [[rangoric-srd/skills/Arcana\|Arcana]]               | [[rangoric-srd/skills/Meditation\|Meditation]]     | [[rangoric-srd/skills/Deception\|Deception]]             |
+|                                              | [[rangoric-srd/skills/Piloting\|Piloting]]               |              | [[rangoric-srd/skills/Computers\|Computers]]         | [[rangoric-srd/skills/Perception\|Perception]]     | [[rangoric-srd/skills/Emulation\|Emulation]]             |
+|                                              | [[rangoric-srd/skills/Sleight of Hand\|Sleight of Hand]] |              | [[rangoric-srd/skills/Craft\|Craft]]                 | [[rangoric-srd/skills/Profession\|Profession]]     | [[rangoric-srd/skills/Intimidation\|Intimidation]]       |
+|                                              | [[rangoric-srd/skills/Stealth\|Stealth]]                 |              | [[rangoric-srd/skills/Dungeoneering\|Dungeoneering]] | [[rangoric-srd/skills/Sense Motive\|Sense Motive]] | [[rangoric-srd/skills/Performance\|Performance]]         |
+|                                              |                                                          |              | [[rangoric-srd/skills/Engineering\|Engineering]]     |                                                    | [[rangoric-srd/skills/Persuasion\|Persuasion]]           |
+|                                              |                                                          |              | [[rangoric-srd/skills/Imitation\|Imitation]]         |                                                    |                                                          |
+|                                              |                                                          |              | [[rangoric-srd/skills/Investigation\|Investigation]] |                                                    |                                                          |
+|                                              |                                                          |              | [[rangoric-srd/skills/Linguistics\|Linguistics]]     |                                                    |                                                          |
+|                                              |                                                          |              | [[rangoric-srd/skills/Lore\|Lore]]                   |                                                    |                                                          |
+|                                              |                                                          |              | [[rangoric-srd/skills/Medicine\|Medicine]]           |                                                    |                                                          |
+|                                              |                                                          |              | [[rangoric-srd/skills/Mysticism\|Mysticism]]         |                                                    |                                                          |
+|                                              |                                                          |              | [[rangoric-srd/skills/Nature\|Nature]]               |                                                    |                                                          |
+|                                              |                                                          |              | [[rangoric-srd/skills/Psionics (Skill)\|Psionics]]   |                                                    |                                                          |
+|                                              |                                                          |              | [[rangoric-srd/skills/Psychic (Skill)\|Psychic]]     |                                                    |                                                          |
+|                                              |                                                          |              | [[rangoric-srd/skills/Society\|Society]]             |                                                    |                                                          |
+|                                              |                                                          |              | [[rangoric-srd/skills/Tactics\|Tactics]]             |                                                    |                                                          |
+|                                              |                                                          |              | [[rangoric-srd/skills/Theology\|Theology]]           |                                                    |                                                          |
 
 Psionics and [[rangoric-srd/skills/Mysticism|Mysticism]] are the [[rangoric-srd/psionics/Psionic Skills|psionic skills]]. Concentration is a check now, not a skill; see [[rangoric-srd/spells/Magic Overview#Concentration|Concentration]].
 
 ## Core and Background
 
-Every skill is a Core skill or a Background skill; its tag (*core* or *background*) says which. See [[rangoric-srd/skills/Skills Overview#^core-and-background|Core and Background Skills]].
+Every skill is a Core skill or a Background skill; its tag (_core_ or _background_) says which. See [[rangoric-srd/skills/Skills Overview#^core-and-background|Core and Background Skills]].
 
-| Core | Background |
-| --- | --- |
-| [[rangoric-srd/skills/Acrobatics\|Acrobatics]] | [[rangoric-srd/skills/Animal Handling\|Animal Handling]] |
-| [[rangoric-srd/skills/Arcana\|Arcana]] | [[rangoric-srd/skills/Appraise\|Appraise]] |
-| [[rangoric-srd/skills/Athletics\|Athletics]] | [[rangoric-srd/skills/Craft\|Craft]] |
-| [[rangoric-srd/skills/Computers\|Computers]] | [[rangoric-srd/skills/Linguistics\|Linguistics]] |
-| [[rangoric-srd/skills/Deception\|Deception]] | [[rangoric-srd/skills/Lore\|Lore]] |
-| [[rangoric-srd/skills/Dungeoneering\|Dungeoneering]] | [[rangoric-srd/skills/Performance\|Performance]] |
-| [[rangoric-srd/skills/Emulation\|Emulation]] | [[rangoric-srd/skills/Profession\|Profession]] |
-| [[rangoric-srd/skills/Engineering\|Engineering]] |  |
-| [[rangoric-srd/skills/Escape Artist\|Escape Artist]] |  |
-| [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] |  |
-| [[rangoric-srd/skills/Imitation\|Imitation]] |  |
-| [[rangoric-srd/skills/Intimidation\|Intimidation]] |  |
-| [[rangoric-srd/skills/Investigation\|Investigation]] |  |
-| [[rangoric-srd/skills/Medicine\|Medicine]] |  |
-| [[rangoric-srd/skills/Meditation\|Meditation]] |  |
-| [[rangoric-srd/skills/Mysticism\|Mysticism]] |  |
-| [[rangoric-srd/skills/Nature\|Nature]] |  |
-| [[rangoric-srd/skills/Perception\|Perception]] |  |
-| [[rangoric-srd/skills/Persuasion\|Persuasion]] |  |
-| [[rangoric-srd/skills/Piloting\|Piloting]] |  |
-| [[rangoric-srd/skills/Psionics (Skill)\|Psionics]] |  |
-| [[rangoric-srd/skills/Psychic (Skill)\|Psychic]] |  |
-| [[rangoric-srd/skills/Sense Motive\|Sense Motive]] |  |
-| [[rangoric-srd/skills/Sleight of Hand\|Sleight of Hand]] |  |
-| [[rangoric-srd/skills/Society\|Society]] |  |
-| [[rangoric-srd/skills/Stealth\|Stealth]] |  |
-| [[rangoric-srd/skills/Tactics\|Tactics]] |  |
-| [[rangoric-srd/skills/Theology\|Theology]] |  |
+| Core                                                     | Background                                               |
+| -------------------------------------------------------- | -------------------------------------------------------- |
+| [[rangoric-srd/skills/Acrobatics\|Acrobatics]]           | [[rangoric-srd/skills/Animal Handling\|Animal Handling]] |
+| [[rangoric-srd/skills/Arcana\|Arcana]]                   | [[rangoric-srd/skills/Appraise\|Appraise]]               |
+| [[rangoric-srd/skills/Athletics\|Athletics]]             | [[rangoric-srd/skills/Craft\|Craft]]                     |
+| [[rangoric-srd/skills/Computers\|Computers]]             | [[rangoric-srd/skills/Linguistics\|Linguistics]]         |
+| [[rangoric-srd/skills/Deception\|Deception]]             | [[rangoric-srd/skills/Lore\|Lore]]                       |
+| [[rangoric-srd/skills/Dungeoneering\|Dungeoneering]]     | [[rangoric-srd/skills/Performance\|Performance]]         |
+| [[rangoric-srd/skills/Emulation\|Emulation]]             | [[rangoric-srd/skills/Profession\|Profession]]           |
+| [[rangoric-srd/skills/Engineering\|Engineering]]         |                                                          |
+| [[rangoric-srd/skills/Escape Artist\|Escape Artist]]     |                                                          |
+| [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]]           |                                                          |
+| [[rangoric-srd/skills/Imitation\|Imitation]]             |                                                          |
+| [[rangoric-srd/skills/Intimidation\|Intimidation]]       |                                                          |
+| [[rangoric-srd/skills/Investigation\|Investigation]]     |                                                          |
+| [[rangoric-srd/skills/Medicine\|Medicine]]               |                                                          |
+| [[rangoric-srd/skills/Meditation\|Meditation]]           |                                                          |
+| [[rangoric-srd/skills/Mysticism\|Mysticism]]             |                                                          |
+| [[rangoric-srd/skills/Nature\|Nature]]                   |                                                          |
+| [[rangoric-srd/skills/Perception\|Perception]]           |                                                          |
+| [[rangoric-srd/skills/Persuasion\|Persuasion]]           |                                                          |
+| [[rangoric-srd/skills/Piloting\|Piloting]]               |                                                          |
+| [[rangoric-srd/skills/Psionics (Skill)\|Psionics]]       |                                                          |
+| [[rangoric-srd/skills/Psychic (Skill)\|Psychic]]         |                                                          |
+| [[rangoric-srd/skills/Sense Motive\|Sense Motive]]       |                                                          |
+| [[rangoric-srd/skills/Sleight of Hand\|Sleight of Hand]] |                                                          |
+| [[rangoric-srd/skills/Society\|Society]]                 |                                                          |
+| [[rangoric-srd/skills/Stealth\|Stealth]]                 |                                                          |
+| [[rangoric-srd/skills/Tactics\|Tactics]]                 |                                                          |
+| [[rangoric-srd/skills/Theology\|Theology]]               |                                                          |
 
 ## In Alphabetical Order
 
@@ -120,38 +120,38 @@ Every skill is a Core skill or a Background skill; its tag (*core* or *backgroun
 [[rangoric-srd/skills/Tactics|Tactics]]  
 [[rangoric-srd/skills/Theology|Theology]]
 
-  - [[rangoric-srd/skills/Acrobatics|Acrobatics]]
-  - [[rangoric-srd/skills/Animal Handling|Animal Handling]]
-  - [[rangoric-srd/skills/Appraise|Appraise]]
-  - [[rangoric-srd/skills/Arcana|Arcana]]
-  - [[rangoric-srd/skills/Athletics|Athletics]]
-  - [[rangoric-srd/skills/Computers|Computers]]
-  - [[rangoric-srd/skills/Craft|Craft]]
-  - [[rangoric-srd/skills/Deception|Deception]]
-  - [[rangoric-srd/skills/Dungeoneering|Dungeoneering]]
-  - [[rangoric-srd/skills/Emulation|Emulation]]
-  - [[rangoric-srd/skills/Engineering|Engineering]]
-  - [[rangoric-srd/skills/Escape Artist|Escape Artist]]
-  - [[rangoric-srd/skills/Fieldcraft|Fieldcraft]]
-  - [[rangoric-srd/skills/Imitation|Imitation]]
-  - [[rangoric-srd/skills/Intimidation|Intimidation]]
-  - [[rangoric-srd/skills/Investigation|Investigation]]
-  - [[rangoric-srd/skills/Linguistics|Linguistics]]
-  - [[rangoric-srd/skills/Lore|Lore]]
-  - [[rangoric-srd/skills/Medicine|Medicine]]
-  - [[rangoric-srd/skills/Meditation|Meditation]]
-  - [[rangoric-srd/skills/Mysticism|Mysticism]]
-  - [[rangoric-srd/skills/Nature|Nature]]
-  - [[rangoric-srd/skills/Perception|Perception]]
-  - [[rangoric-srd/skills/Performance|Performance]]
-  - [[rangoric-srd/skills/Persuasion|Persuasion]]
-  - [[rangoric-srd/skills/Piloting|Piloting]]
-  - [[rangoric-srd/skills/Profession|Profession]]
-  - [[rangoric-srd/skills/Psionics (Skill)|Psionics]]
-  - [[rangoric-srd/skills/Psychic (Skill)|Psychic]]
-  - [[rangoric-srd/skills/Sense Motive|Sense Motive]]
-  - [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]]
-  - [[rangoric-srd/skills/Society|Society]]
-  - [[rangoric-srd/skills/Stealth|Stealth]]
-  - [[rangoric-srd/skills/Tactics|Tactics]]
-  - [[rangoric-srd/skills/Theology|Theology]]
+- [[rangoric-srd/skills/Acrobatics|Acrobatics]]
+- [[rangoric-srd/skills/Animal Handling|Animal Handling]]
+- [[rangoric-srd/skills/Appraise|Appraise]]
+- [[rangoric-srd/skills/Arcana|Arcana]]
+- [[rangoric-srd/skills/Athletics|Athletics]]
+- [[rangoric-srd/skills/Computers|Computers]]
+- [[rangoric-srd/skills/Craft|Craft]]
+- [[rangoric-srd/skills/Deception|Deception]]
+- [[rangoric-srd/skills/Dungeoneering|Dungeoneering]]
+- [[rangoric-srd/skills/Emulation|Emulation]]
+- [[rangoric-srd/skills/Engineering|Engineering]]
+- [[rangoric-srd/skills/Escape Artist|Escape Artist]]
+- [[rangoric-srd/skills/Fieldcraft|Fieldcraft]]
+- [[rangoric-srd/skills/Imitation|Imitation]]
+- [[rangoric-srd/skills/Intimidation|Intimidation]]
+- [[rangoric-srd/skills/Investigation|Investigation]]
+- [[rangoric-srd/skills/Linguistics|Linguistics]]
+- [[rangoric-srd/skills/Lore|Lore]]
+- [[rangoric-srd/skills/Medicine|Medicine]]
+- [[rangoric-srd/skills/Meditation|Meditation]]
+- [[rangoric-srd/skills/Mysticism|Mysticism]]
+- [[rangoric-srd/skills/Nature|Nature]]
+- [[rangoric-srd/skills/Perception|Perception]]
+- [[rangoric-srd/skills/Performance|Performance]]
+- [[rangoric-srd/skills/Persuasion|Persuasion]]
+- [[rangoric-srd/skills/Piloting|Piloting]]
+- [[rangoric-srd/skills/Profession|Profession]]
+- [[rangoric-srd/skills/Psionics (Skill)|Psionics]]
+- [[rangoric-srd/skills/Psychic (Skill)|Psychic]]
+- [[rangoric-srd/skills/Sense Motive|Sense Motive]]
+- [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]]
+- [[rangoric-srd/skills/Society|Society]]
+- [[rangoric-srd/skills/Stealth|Stealth]]
+- [[rangoric-srd/skills/Tactics|Tactics]]
+- [[rangoric-srd/skills/Theology|Theology]]

@@ -39,32 +39,32 @@ tags: [rangoric, rangoric/monster]
 
 # Bhuta
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Incorporeal)
-  - **Hit Dice**: 14d8+84 (147 hp)
-  - **Initiative**: +7
-  - **Speed**: fly 30 ft. (perfect)
-  - **Armor Class**: 24 (+6 deflection, +7 Dex, +1 dodge), touch 24, flat-footed 16
-  - **Base Attack**: +10; **CMB**: +17; **CMD**: 34
-  - **Attack**: Incorporeal claw +17 melee (5d8 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
-  - **Full Attack**: 2 incorporeal claws +17 melee (5d8 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d8), [[rangoric-srd/monsters/abilities/Blood Drain|blood drain]] (1d6 Constitution), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], cold iron
-  - **Saves**: Fort +10, Ref +11, Will +10
-  - **Abilities**: Str —, Dex 25, Con —, Int 11, Wis 8, Cha 22
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +15, [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Nature|Nature]] +8, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +26
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling, Stealth)
-  - **Environment**: Any aboveground natural area
-  - **Organization**: Solitary or with a group of animals
-  - **Challenge Rating**: 11
-  - **Treasure**: None
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Incorporeal)
+- **Hit Dice**: 14d8+84 (147 hp)
+- **Initiative**: +7
+- **Speed**: fly 30 ft. (perfect)
+- **Armor Class**: 24 (+6 deflection, +7 Dex, +1 dodge), touch 24, flat-footed 16
+- **Base Attack**: +10; **CMB**: +17; **CMD**: 34
+- **Attack**: Incorporeal claw +17 melee (5d8 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
+- **Full Attack**: 2 incorporeal claws +17 melee (5d8 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d8), [[rangoric-srd/monsters/abilities/Blood Drain|blood drain]] (1d6 Constitution), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], cold iron
+- **Saves**: Fort +10, Ref +11, Will +10
+- **Abilities**: Str —, Dex 25, Con —, Int 11, Wis 8, Cha 22
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +15, [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Nature|Nature]] +8, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +26
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling, Stealth)
+- **Environment**: Any aboveground natural area
+- **Organization**: Solitary or with a group of animals
+- **Challenge Rating**: 11
+- **Treasure**: None
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A bhuta is a ghostlike undead creature born of horrible death or murder in a natural setting. It is a manifestation of rage at the injustice of a death that interrupted important business or unsated desires. Doomed to haunt the wilderness within several miles of the site of its demise, a bhuta turns to the local fauna as tools for its vengeance.
 
-A bhuta can appear in a variety of animalistic forms by using its *[[rangoric-srd/spells/Veil|veil]]* ability, but its natural appearance is that of a bestial humanoid phantom that floats a foot above the ground as it moves. While bhutas are incorporeal, the touch of their claws creates horrific, bleeding wounds. A bhuta's feet point backward. To disguise its nature, a bhuta can appear solid, manifesting in long robes that help disguise the fact that it floats and has strange feet. By means of its *[[rangoric-srd/spells/Magic Jar|magic jar]]* spell-like ability, a bhuta can also possess living animals to use as its minions; an animal possessed by a bhuta casts no shadow, and therefore prefers to lurk in heavily canopied or thicketed areas, waiting for the right time to strike out and attack intruders.
+A bhuta can appear in a variety of animalistic forms by using its _[[rangoric-srd/spells/Veil|veil]]_ ability, but its natural appearance is that of a bestial humanoid phantom that floats a foot above the ground as it moves. While bhutas are incorporeal, the touch of their claws creates horrific, bleeding wounds. A bhuta's feet point backward. To disguise its nature, a bhuta can appear solid, manifesting in long robes that help disguise the fact that it floats and has strange feet. By means of its _[[rangoric-srd/spells/Magic Jar|magic jar]]_ spell-like ability, a bhuta can also possess living animals to use as its minions; an animal possessed by a bhuta casts no shadow, and therefore prefers to lurk in heavily canopied or thicketed areas, waiting for the right time to strike out and attack intruders.
 
 Animals find themselves attracted to bhutas, which use their spell-like abilities to manipulate such victims toward evil and deceptive ends. Bhutas generally avoid influencing animal companions or domesticated animals, for changes in behavior among such creatures can easily arouse suspicion and reveal a bhuta's presence and influence.
 
@@ -76,7 +76,7 @@ Bhutas speak Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 11th; concentration +17): At will—*[[rangoric-srd/spells/Animal Trance|animal trance]]* (DC 18), *[[rangoric-srd/spells/Speak with Animals|speak with animals]], [[rangoric-srd/spells/Veil|veil]]* (self only, as animal with backward feet; DC 22); 3/day—*[[rangoric-srd/spells/Charm Animal|charm animal]]* (DC 17); 1/day—*[[rangoric-srd/spells/Magic Jar|magic jar]]* (animals only, DC 21).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 11th; concentration +17): At will—_[[rangoric-srd/spells/Animal Trance|animal trance]]_ (DC 18), _[[rangoric-srd/spells/Speak with Animals|speak with animals]], [[rangoric-srd/spells/Veil|veil]]_ (self only, as animal with backward feet; DC 22); 3/day—_[[rangoric-srd/spells/Charm Animal|charm animal]]_ (DC 17); 1/day—_[[rangoric-srd/spells/Magic Jar|magic jar]]_ (animals only, DC 21).
 
 **[[rangoric-srd/monsters/abilities/Blood Drain|Blood Drain]] (Su)**: As a standard action, a bhuta can suck blood from an adjacent opponent that is taking bleed damage. The target takes 1d6 points of Constitution damage (Fort DC 23 for half). The bhuta heals 5 hit points when it drains blood.
 

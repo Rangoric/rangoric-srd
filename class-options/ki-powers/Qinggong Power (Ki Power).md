@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Qinggong Power
 
-*A [[rangoric-srd/classes/Unchained Monk#^unchained-monk-ki-powers|ki power]] (Su).*
+_A [[rangoric-srd/classes/Unchained Monk#^unchained-monk-ki-powers|ki power]] (Su)._
 
 A monk with this power selects any of the [[rangoric-srd/class-options/archetypes/monk/Qinggong Monk (Archetype)#^qinggong-ki-powers|qinggong monk ki powers]] for which he qualifies based on his monk level. A monk can select this ability multiple times. Each time, he must select a different qinggong monk ki power.

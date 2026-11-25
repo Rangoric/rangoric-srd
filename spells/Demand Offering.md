@@ -35,15 +35,15 @@ tags: [rangoric, rangoric/spell]
 
 # Demand Offering
 
-*Enchantment (Compulsion) \[MindAffecting\]*
+_Enchantment (Compulsion) \[MindAffecting\]_
 
-  - **Level**: Apl 1, Brd 2, Inq 2, Mes 1, Occ 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: 5 ft.
-  - **Target**: One creature
-  - **Duration**: Instantaneous or 1 round
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Apl 1, Brd 2, Inq 2, Mes 1, Occ 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: 5 ft.
+- **Target**: One creature
+- **Duration**: Instantaneous or 1 round
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 A creature that fails its save uses an immediate action to hand you whatever object it's currently wielding or holding. If the target doesn't have an immediate action available, it uses a move action at the beginning of its next turn to hand you the object. If it's currently holding or wielding more than one item, determine randomly which item it gives you. If you're no longer adjacent to the creature when it has to give you the item, the spell ends with no effect. A creature that isn't holding an item when you cast this spell is unaffected.

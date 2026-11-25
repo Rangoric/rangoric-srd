@@ -93,7 +93,7 @@ Items made in the fey realm can carry the resizing ability. ^resizing
 
 The trade of magic items in the fey realm supports such a wide variety of creatures that it became economically necessary for the makers of these items to instill them with the ability to change size and weight proportionally to the owner. After the magical breakthrough that enabled that special ability, many fey heroes now wield the same magic weapons and items no matter what their size is at the moment.
 
-Resizing magic items shrink or grow according to the size of the user. Once held by a creature, this process takes one round during which the creature must make a DC 15 Dexterity check to avoid dropping the item. The resizing magic allows its special abilities and magical bonuses to remain constant regardless of the size of the item (so a *+4 disruption returning axe* still deals at least its disruption effects and its +4 damage bonus even if it is two inches in size).
+Resizing magic items shrink or grow according to the size of the user. Once held by a creature, this process takes one round during which the creature must make a DC 15 Dexterity check to avoid dropping the item. The resizing magic allows its special abilities and magical bonuses to remain constant regardless of the size of the item (so a _+4 disruption returning axe_ still deals at least its disruption effects and its +4 damage bonus even if it is two inches in size).
 
 Any item created in the fey realm can be made with this ability. At the moment of creation, the spellcaster must decide whether or not to include this ability. This ability adds +1 bonus to the cost to make and increases the creation time of the item by an additional 1d6 days, but it has been known to bring up to an additional 25% more money when sold outside of the fey realm.
 
@@ -105,22 +105,23 @@ Many magic items need to be donned by a character who wants to employ them or be
 
 A humanoid-shaped body can be decked out in magic gear consisting of one item from each of the following groups, keyed to which slot on the body the item is worn. A wondrous item’s slot is its `slot` property, and the [[rangoric-srd/magic-items/wondrous-items/Wondrous Items Index.base|Wondrous Items Index]] groups the wondrous items by it.
 
-  - **Armor**: suits of armor.
-  - **Belt**: belts and girdles.
-  - **Body**: robes and vestments.
-  - **Chest**: mantles, shirts, and vests.
-  - **Eyes**: eyes, glasses, and goggles.
-  - **Feet**: boots, shoes, and slippers.
-  - **Hands**: gauntlets and gloves.
-  - **Head**: caps, circlets, crowns, halos, hats, helms, hoods, laurels, masks, veils, wigs, and other non-headband slot items that can be worn on the head.
-  - **Headband**: bands, headbands, phylacteries, and other non-head-slot items that can be worn on the head.
-  - **Legs**: greaves, leggings, trousers, and other items worn on the legs.
-  - **Neck**: amulets, brooches, medallions, necklaces, periapts, and scarabs.
+- **Armor**: suits of armor.
+- **Belt**: belts and girdles.
+- **Body**: robes and vestments.
+- **Chest**: mantles, shirts, and vests.
+- **Eyes**: eyes, glasses, and goggles.
+- **Feet**: boots, shoes, and slippers.
+- **Hands**: gauntlets and gloves.
+- **Head**: caps, circlets, crowns, halos, hats, helms, hoods, laurels, masks, veils, wigs, and other non-headband slot items that can be worn on the head.
+- **Headband**: bands, headbands, phylacteries, and other non-head-slot items that can be worn on the head.
+- **Legs**: greaves, leggings, trousers, and other items worn on the legs.
+- **Neck**: amulets, brooches, medallions, necklaces, periapts, and scarabs.
 
-    **Talismans**: These amulets are imbued with magic that protects their wearer against one specific danger. A talisman triggers automatically as soon as its condition is met. Although talismans occupy the neck slot, up to three talismans can be worn on one cord or chain, so that the wearer has more kinds of protection, but a wearer can benefit from only one talisman's effect at a time. If a talisman would trigger while its wearer is under another talisman's effect, it doesn't trigger and can still be used later. ^talismans
-  - **Ring (up to two)**: rings.
-  - **Shoulders**: capes and cloaks.
-  - **Wrists**: bracelets and bracers.
+  **Talismans**: These amulets are imbued with magic that protects their wearer against one specific danger. A talisman triggers automatically as soon as its condition is met. Although talismans occupy the neck slot, up to three talismans can be worn on one cord or chain, so that the wearer has more kinds of protection, but a wearer can benefit from only one talisman's effect at a time. If a talisman would trigger while its wearer is under another talisman's effect, it doesn't trigger and can still be used later. ^talismans
+
+- **Ring (up to two)**: rings.
+- **Shoulders**: capes and cloaks.
+- **Wrists**: bracelets and bracers.
 
 Of course, a character may carry or possess as many items of the same type as he wishes. However, additional items beyond those in the slots listed above have no effect.
 
@@ -164,7 +165,7 @@ Prices listed are always for fully charged items. (When an item is created, it i
 
 ##### Extradimensional Spaces
 
-A number of spells and magic items utilize extradimensional spaces, such as *[[rangoric-srd/spells/Rope Trick|rope trick]]*, *[[rangoric-srd/magic-items/wondrous-items/Bag of Holding I|bags of holding]]*, *[[rangoric-srd/magic-items/wondrous-items/Handy Haversack|handy haversacks]]*, and *[[rangoric-srd/magic-items/wondrous-items/Portable Hole|portable holes]]*. These spells and magic items create a tiny pocket space that does not exist in any dimension. Such items do not function, however, inside another extradimensional space. If placed inside such a space, they cease to function until removed from the extradimensional space. For example, if a *[[rangoric-srd/magic-items/wondrous-items/Bag of Holding I|bag of holding]]* is brought into a *[[rangoric-srd/spells/Rope Trick|rope trick]]*, the contents of the *[[rangoric-srd/magic-items/wondrous-items/Bag of Holding I|bag of holding]]* become inaccessible until the *[[rangoric-srd/magic-items/wondrous-items/Bag of Holding I|bag of holding]]* is taken outside the *[[rangoric-srd/spells/Rope Trick|rope trick]]*. The only exception to this is when a *[[rangoric-srd/magic-items/wondrous-items/Bag of Holding I|bag of holding]]* and a *[[rangoric-srd/magic-items/wondrous-items/Portable Hole|portable hole]]* interact, forming a rift to the astral plane, as noted in their descriptions.
+A number of spells and magic items utilize extradimensional spaces, such as _[[rangoric-srd/spells/Rope Trick|rope trick]]_, _[[rangoric-srd/magic-items/wondrous-items/Bag of Holding I|bags of holding]]_, _[[rangoric-srd/magic-items/wondrous-items/Handy Haversack|handy haversacks]]_, and _[[rangoric-srd/magic-items/wondrous-items/Portable Hole|portable holes]]_. These spells and magic items create a tiny pocket space that does not exist in any dimension. Such items do not function, however, inside another extradimensional space. If placed inside such a space, they cease to function until removed from the extradimensional space. For example, if a _[[rangoric-srd/magic-items/wondrous-items/Bag of Holding I|bag of holding]]_ is brought into a _[[rangoric-srd/spells/Rope Trick|rope trick]]_, the contents of the _[[rangoric-srd/magic-items/wondrous-items/Bag of Holding I|bag of holding]]_ become inaccessible until the _[[rangoric-srd/magic-items/wondrous-items/Bag of Holding I|bag of holding]]_ is taken outside the _[[rangoric-srd/spells/Rope Trick|rope trick]]_. The only exception to this is when a _[[rangoric-srd/magic-items/wondrous-items/Bag of Holding I|bag of holding]]_ and a _[[rangoric-srd/magic-items/wondrous-items/Portable Hole|portable hole]]_ interact, forming a rift to the astral plane, as noted in their descriptions.
 
 ### Magic Item Descriptions
 

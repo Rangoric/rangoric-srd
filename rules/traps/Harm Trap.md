@@ -22,4 +22,4 @@ A sample trap; how traps work, and what each line means, is in [[rangoric-srd/ru
 - **[[rangoric-srd/skills/Engineering|Engineering]]**: DC 31 to disable
 - **Trigger**: touch
 - **Reset**: none
-- **Effect**: spell effect (*[[rangoric-srd/spells/Harm|harm]]*, +6 melee touch, 130 damage, DC 19 Will save for half, cannot be reduced to less than 1 hit point)
+- **Effect**: spell effect (_[[rangoric-srd/spells/Harm|harm]]_, +6 melee touch, 130 damage, DC 19 Will save for half, cannot be reduced to less than 1 hit point)

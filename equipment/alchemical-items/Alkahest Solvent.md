@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Alkahest Solvent
 
-*Alchana; Special*
+_Alchana; Special_
 
 This powerful solvent temporarily reduces the break DC on any materials save glass by -15 without affecting its innate nature or essence. Thus, it becomes easy to crush or break materials for processing and using in alchemical works. A flask can be thrown as a grenade-like missile (treat as a flask of acid in all ways but damage) and its effects are as follows:
 

@@ -46,11 +46,11 @@ Tiefling paragons do not see themselves as fellows or champions of their race. I
 
 **Table: The Tiefling Paragon**
 
-| Level | Special                                                                                                                       |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------- |
-| 1st   | [[#^tiefling-paragon-improved-resistance\|Improved resistance]]                                                       |
+| Level | Special                                                                                    |
+| ----- | ------------------------------------------------------------------------------------------ |
+| 1st   | [[#^tiefling-paragon-improved-resistance\|Improved resistance]]                            |
 | 2nd   | [[#^tiefling-paragon-darkness\|Darkness]], [[#^tiefling-paragon-skill-bonus\|skill bonus]] |
-| 3rd   | [[#^tiefling-paragon-ability-boost\|Ability boost]] (Dex +2)                                                    |
+| 3rd   | [[#^tiefling-paragon-ability-boost\|Ability boost]] (Dex +2)                               |
 
 Tiefling paragons have the following game statistics.
 

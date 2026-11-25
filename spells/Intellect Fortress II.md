@@ -23,15 +23,15 @@ tags: [rangoric, rangoric/spell]
 
 # Intellect Fortress II
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Psy 5
-  - **Components**: V
-  - **Casting Time**: 1 immediate action
-  - **Range**: 20 ft.
-  - **Area**: 20-ft.-radius emanation centered on you
-  - **Duration**: 1 round
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Psy 5
+- **Components**: V
+- **Casting Time**: 1 immediate action
+- **Range**: 20 ft.
+- **Area**: 20-ft.-radius emanation centered on you
+- **Duration**: 1 round
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
-This spell functions as *[[rangoric-srd/spells/Intellect Fortress I|intellect fortress I]]*, but in addition, any mind-affecting effects that deal damage have their damage reduced by half (before any reduction due to a successful save or other effect). This applies to both hit point damage and ability score damage. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].
+This spell functions as _[[rangoric-srd/spells/Intellect Fortress I|intellect fortress I]]_, but in addition, any mind-affecting effects that deal damage have their damage reduced by half (before any reduction due to a successful save or other effect). This applies to both hit point damage and ability score damage. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].

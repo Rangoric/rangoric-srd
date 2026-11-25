@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Rust Monster
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 5d8+5 (27 hp)
-  - **Initiative**: +3
-  - **Speed**: 40 ft. (8 squares), climb 10 ft.
-  - **Armor Class**: 18 (+3 Dex, +5 natural), touch 13, flat-footed 15
-  - **Base Attack**: +3; **CMB**: +3; **CMD**: 16 (20 vs. trip)
-  - **Attack**: Bite +6 melee (1d3) or antennae +6 melee touch (rust)
-  - **Full Attack**: Bite +6 melee (1d3) and antennae +6 melee touch (rust)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]] metals 90 ft.
-  - **Saves**: Fort +2, Ref +4, Will +5
-  - **Abilities**: Str 10, Dex 17, Con 13, Int 2, Wis 13, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +12
-  - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (rust), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any underground
-  - **Organization**: Solitary, pair, or nest (3–10)
-  - **Challenge Rating**: 3
-  - **Treasure**: Incidental (no metal treasure)
-  - **Alignment**: Always neutral
-  - **Advancement**: 6–8 HD (Medium); 9–15 HD (Large)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 5d8+5 (27 hp)
+- **Initiative**: +3
+- **Speed**: 40 ft. (8 squares), climb 10 ft.
+- **Armor Class**: 18 (+3 Dex, +5 natural), touch 13, flat-footed 15
+- **Base Attack**: +3; **CMB**: +3; **CMD**: 16 (20 vs. trip)
+- **Attack**: Bite +6 melee (1d3) or antennae +6 melee touch (rust)
+- **Full Attack**: Bite +6 melee (1d3) and antennae +6 melee touch (rust)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]] metals 90 ft.
+- **Saves**: Fort +2, Ref +4, Will +5
+- **Abilities**: Str 10, Dex 17, Con 13, Int 2, Wis 13, Cha 8
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +12
+- **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (rust), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any underground
+- **Organization**: Solitary, pair, or nest (3–10)
+- **Challenge Rating**: 3
+- **Treasure**: Incidental (no metal treasure)
+- **Alignment**: Always neutral
+- **Advancement**: 6–8 HD (Medium); 9–15 HD (Large)
+- **Level Adjustment**: —
 
 Of all the terrifying beasts an explorer might encounter underground, only the rust monster targets that which the average adventurer values most: his treasure.
 

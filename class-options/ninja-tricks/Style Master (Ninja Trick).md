@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Style Master
 
-*A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]].*
+_A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]]._
 
 A ninja who selects this ninja trick gains a style feat that she qualifies for as a bonus feat.

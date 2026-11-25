@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Staff of Occasional Wonder
 
-A *staff of occasional wonder* can appear to be any magical staff, and in fact such items are usually the result of accidents during an attempted crafting of the staff it appears to be. It usually functions as intended, but each time someone uses the staff, they must roll d%. On a roll of 1–10, instead of the desired effect, the staff acts like a *[[rangoric-srd/magic-items/rods/Rod of Wonder|rod of wonder]]*.
+A _staff of occasional wonder_ can appear to be any magical staff, and in fact such items are usually the result of accidents during an attempted crafting of the staff it appears to be. It usually functions as intended, but each time someone uses the staff, they must roll d%. On a roll of 1–10, instead of the desired effect, the staff acts like a _[[rangoric-srd/magic-items/rods/Rod of Wonder|rod of wonder]]_.
 
 Aura varies; CL varies; Intended magic item: any [[rangoric-srd/magic-items/Magic Scrolls, Staffs, and Wands#Staffs|staff]].

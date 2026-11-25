@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Water Dependency
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “water dependency”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “water dependency”, on the Special Qualities line.
 
 A creature with this special ability can survive out of water for 1 minute per point of Constitution. Beyond this limit, this creature runs the risk of [[rangoric-srd/rules/Wilderness, Weather, and Environment#Suffocation|suffocation]], as if it were [[rangoric-srd/rules/Wilderness, Weather, and Environment#Drowning|drowning]].

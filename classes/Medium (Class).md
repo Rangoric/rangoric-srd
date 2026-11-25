@@ -61,53 +61,53 @@ The medium’s class skills (and the key ability for each skill) are [[rangoric-
 
 **Table: The Medium** ^table-the-medium
 
-| Level | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th |
-| --- | --- | --- | --- | --- | --- |
-| 1st | Knacks, spirit, spirit bonus +1, spirit power (lesser), spirit surge 1d6 | — | — | — | — |
-| 2nd | Shared seance, taboo | — | — | — | — |
-| 3rd | Haunt channeler | — | — | — | — |
-| 4th | Spirit bonus +2 | 1 | — | — | — |
-| 5th | Location channel | 1 | — | — | — |
-| 6th | Spirit power (intermediate) | 1 | — | — | — |
-| 7th | Connection channel | 1 | 1 | — | — |
-| 8th | Spirit bonus +3 | 1 | 1 | — | — |
-| 9th | Propitiation | 2 | 1 | — | — |
-| 10th | Spirit surge 1d8 | 2 | 1 | 1 | — |
-| 11th | Spirit power (greater) | 2 | 1 | 1 | — |
-| 12th | Spirit bonus +4 | 2 | 2 | 1 | — |
-| 13th | Ask the spirits | 3 | 2 | 1 | 1 |
-| 14th | Astral journey | 3 | 2 | 1 | 1 |
-| 15th | Trance of three | 3 | 2 | 2 | 1 |
-| 16th | Spirit bonus +5 | 3 | 3 | 2 | 1 |
-| 17th | Spirit power (supreme) | 4 | 3 | 2 | 1 |
-| 18th | Spacious soul | 4 | 3 | 2 | 2 |
-| 19th | Spirit mastery | 4 | 3 | 3 | 2 |
-| 20th | Astral beacon, spirit bonus +6, spirit surge 1d10 | 4 | 4 | 3 | 2 |
+| Level | Special                                                                  | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th |
+| ----- | ------------------------------------------------------------------------ | ------------------- | ------------------- | ------------------- | ------------------- |
+| 1st   | Knacks, spirit, spirit bonus +1, spirit power (lesser), spirit surge 1d6 | —                   | —                   | —                   | —                   |
+| 2nd   | Shared seance, taboo                                                     | —                   | —                   | —                   | —                   |
+| 3rd   | Haunt channeler                                                          | —                   | —                   | —                   | —                   |
+| 4th   | Spirit bonus +2                                                          | 1                   | —                   | —                   | —                   |
+| 5th   | Location channel                                                         | 1                   | —                   | —                   | —                   |
+| 6th   | Spirit power (intermediate)                                              | 1                   | —                   | —                   | —                   |
+| 7th   | Connection channel                                                       | 1                   | 1                   | —                   | —                   |
+| 8th   | Spirit bonus +3                                                          | 1                   | 1                   | —                   | —                   |
+| 9th   | Propitiation                                                             | 2                   | 1                   | —                   | —                   |
+| 10th  | Spirit surge 1d8                                                         | 2                   | 1                   | 1                   | —                   |
+| 11th  | Spirit power (greater)                                                   | 2                   | 1                   | 1                   | —                   |
+| 12th  | Spirit bonus +4                                                          | 2                   | 2                   | 1                   | —                   |
+| 13th  | Ask the spirits                                                          | 3                   | 2                   | 1                   | 1                   |
+| 14th  | Astral journey                                                           | 3                   | 2                   | 1                   | 1                   |
+| 15th  | Trance of three                                                          | 3                   | 2                   | 2                   | 1                   |
+| 16th  | Spirit bonus +5                                                          | 3                   | 3                   | 2                   | 1                   |
+| 17th  | Spirit power (supreme)                                                   | 4                   | 3                   | 2                   | 1                   |
+| 18th  | Spacious soul                                                            | 4                   | 3                   | 2                   | 2                   |
+| 19th  | Spirit mastery                                                           | 4                   | 3                   | 3                   | 2                   |
+| 20th  | Astral beacon, spirit bonus +6, spirit surge 1d10                        | 4                   | 4                   | 3                   | 2                   |
 
 **Table: Medium Spells Known** ^table-medium-spells-known
 
 | Level | Spells Known: 0 | Spells Known: 1st | Spells Known: 2nd | Spells Known: 3rd | Spells Known: 4th |
-| --- | --- | --- | --- | --- | --- |
-| 1st | 2 | — | — | — | — |
-| 2nd | 3 | — | — | — | — |
-| 3rd | 4 | — | — | — | — |
-| 4th | 4 | 2 | — | — | — |
-| 5th | 5 | 3 | — | — | — |
-| 6th | 5 | 4 | — | — | — |
-| 7th | 6 | 4 | 2 | — | — |
-| 8th | 6 | 4 | 3 | — | — |
-| 9th | 6 | 5 | 4 | — | — |
-| 10th | 6 | 5 | 4 | 2 | — |
-| 11th | 6 | 5 | 4 | 3 | — |
-| 12th | 6 | 6 | 5 | 4 | — |
-| 13th | 6 | 6 | 5 | 4 | 2 |
-| 14th | 6 | 6 | 5 | 4 | 3 |
-| 15th | 6 | 6 | 6 | 5 | 4 |
-| 16th | 6 | 6 | 6 | 5 | 4 |
-| 17th | 6 | 6 | 6 | 5 | 4 |
-| 18th | 6 | 6 | 6 | 6 | 5 |
-| 19th | 6 | 6 | 6 | 6 | 5 |
-| 20th | 6 | 6 | 6 | 6 | 5 |
+| ----- | --------------- | ----------------- | ----------------- | ----------------- | ----------------- |
+| 1st   | 2               | —                 | —                 | —                 | —                 |
+| 2nd   | 3               | —                 | —                 | —                 | —                 |
+| 3rd   | 4               | —                 | —                 | —                 | —                 |
+| 4th   | 4               | 2                 | —                 | —                 | —                 |
+| 5th   | 5               | 3                 | —                 | —                 | —                 |
+| 6th   | 5               | 4                 | —                 | —                 | —                 |
+| 7th   | 6               | 4                 | 2                 | —                 | —                 |
+| 8th   | 6               | 4                 | 3                 | —                 | —                 |
+| 9th   | 6               | 5                 | 4                 | —                 | —                 |
+| 10th  | 6               | 5                 | 4                 | 2                 | —                 |
+| 11th  | 6               | 5                 | 4                 | 3                 | —                 |
+| 12th  | 6               | 6                 | 5                 | 4                 | —                 |
+| 13th  | 6               | 6                 | 5                 | 4                 | 2                 |
+| 14th  | 6               | 6                 | 5                 | 4                 | 3                 |
+| 15th  | 6               | 6                 | 6                 | 5                 | 4                 |
+| 16th  | 6               | 6                 | 6                 | 5                 | 4                 |
+| 17th  | 6               | 6                 | 6                 | 5                 | 4                 |
+| 18th  | 6               | 6                 | 6                 | 6                 | 5                 |
+| 19th  | 6               | 6                 | 6                 | 6                 | 5                 |
+| 20th  | 6               | 6                 | 6                 | 6                 | 5                 |
 
 ###### Class Features
 
@@ -145,15 +145,15 @@ During his seance, the medium can choose to channel a weaker spirit to gain its 
 
 **Haunt Channeler (Su)**: At 3rd level, a medium can use his familiarity with spirits to assist him when dealing with haunts. He can always act on the surprise round against a haunt, and his touch funnels a portion of the haunt into himself, dealing 1d6 points of damage to the haunt per 2 medium levels he possesses as if via positive energy and allowing the medium to ask the haunt a single question. The haunt can answer the question however it chooses. Additionally, the medium can forgo his saving throw against a haunt’s effects to funnel the haunt entirely into himself. If he does so, the medium suffers the haunt’s full effect, but the haunt doesn’t affect anyone else (even if it normally would). The haunt then gains control of the medium’s body for 24 hours. Once per minute, the medium can attempt to end this possession early by succeeding at a Will save (DC = 20 + 1/2 the medium’s class level). ^medium-haunt-channeler
 
-**Location Channel (Sp)**: At 5th level, a medium can perform a special seance at the site of a person’s death—or a location that was precious to that person in life—to call forth that person’s spirit into the medium’s body so his allies can ask it questions. The effects are similar to the spell *[[rangoric-srd/spells/Call Spirit|call spirit]]*, except that the duration is 1 round per medium level and the spirit possesses the medium’s body instead of appearing in a wispy form. The other participants of the seance must ask the questions. Once the medium attempts to call a spirit, he cannot attempt to call the same spirit again for 24 hours. Once per round, the medium can attempt to end the seance early by succeeding at a Will save (DC = 20 + 1/2 the medium’s class level). ^medium-location-channel
+**Location Channel (Sp)**: At 5th level, a medium can perform a special seance at the site of a person’s death—or a location that was precious to that person in life—to call forth that person’s spirit into the medium’s body so his allies can ask it questions. The effects are similar to the spell _[[rangoric-srd/spells/Call Spirit|call spirit]]_, except that the duration is 1 round per medium level and the spirit possesses the medium’s body instead of appearing in a wispy form. The other participants of the seance must ask the questions. Once the medium attempts to call a spirit, he cannot attempt to call the same spirit again for 24 hours. Once per round, the medium can attempt to end the seance early by succeeding at a Will save (DC = 20 + 1/2 the medium’s class level). ^medium-location-channel
 
-**Connection Channel (Sp)**: At 7th level, a medium can use his location channel ability at any location, so long as he possesses some connection to the deceased. If another participant in the seance is more familiar with the deceased than the medium, the medium can substitute that participant’s familiarity in place of his own to determine the DC of the *call spirit* effect. ^medium-connection-channel
+**Connection Channel (Sp)**: At 7th level, a medium can use his location channel ability at any location, so long as he possesses some connection to the deceased. If another participant in the seance is more familiar with the deceased than the medium, the medium can substitute that participant’s familiarity in place of his own to determine the DC of the _call spirit_ effect. ^medium-connection-channel
 
 **Propitiation (Su)**: At 9th level, a medium has learned hidden techniques and rites that allow him to mollify his channeled spirit once per day, reducing its influence over him by 1 point (to a minimum of 1 point of influence). The details of the propitiation ritual vary based on the individual spirit, but the process always takes around 10 minutes to perform and it never requires any additional cost (such as an offering of wealth or a live sacrifice). ^medium-propitiation
 
-**Ask the Spirits (Sp)**: At 13th level, a medium can send his consciousness to the [[rangoric-srd/rules/Planes#The Astral Plane|Astral Plane]] any number of times per day to ask the spirits for advice, as if using *[[rangoric-srd/spells/Contact Other Plane|contact other plane]]* to contact the Astral Plane. The medium automatically succeeds at the Intelligence check to avoid the possible decrease to his Intelligence and Charisma. ^medium-ask-the-spirits
+**Ask the Spirits (Sp)**: At 13th level, a medium can send his consciousness to the [[rangoric-srd/rules/Planes#The Astral Plane|Astral Plane]] any number of times per day to ask the spirits for advice, as if using _[[rangoric-srd/spells/Contact Other Plane|contact other plane]]_ to contact the Astral Plane. The medium automatically succeeds at the Intelligence check to avoid the possible decrease to his Intelligence and Charisma. ^medium-ask-the-spirits
 
-**Astral Journey (Sp)**: At 14th level, a medium can enter a deep coma in order to project himself onto the Astral Plane as *[[rangoric-srd/spells/Astral Projection|astral projection]]*, except he can project only himself, he can’t enter other planes, and his projected gear has no magical properties. ^medium-astral-journey
+**Astral Journey (Sp)**: At 14th level, a medium can enter a deep coma in order to project himself onto the Astral Plane as _[[rangoric-srd/spells/Astral Projection|astral projection]]_, except he can project only himself, he can’t enter other planes, and his projected gear has no magical properties. ^medium-astral-journey
 
 **Trance of Three (Su)**: At 15th level, as a swift action, a medium can allow his spirit to gain 1 point of influence over him in order to allow a portion of a legendary spirit from another legend to enter him for 1 round per level, granting him the intermediate spirit power from another legend. If that power has a limited number of uses per day, the medium must keep track of the remaining uses even after the secondary spirit is gone; if the medium calls the secondary spirit again that day, it can grant the remaining uses of that power. If the medium uses an ability that incurs influence, the medium’s primary spirit gains that amount of influence over him, not the secondary spirit. The medium doesn’t gain the benefits of his spirit bonus from the secondary spirit. The medium can end the trance of three early as a free action. ^medium-trance-of-three
 

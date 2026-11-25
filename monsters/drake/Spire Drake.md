@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Spire Drake
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]]
-  - **Hit Dice**: 8d12+32 (84 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares), climb 30 ft., fly 60 ft. (average)
-  - **Armor Class**: 20 (+1 Dex, +10 natural, –1 size), touch 10, flat-footed 19
-  - **Base Attack**: +8; **CMB**: +15; **CMD**: 26
-  - **Attack**: Bite +13 melee (2d6+6 plus 1d6 negative energy) or tail slap +13 melee (1d8+3)
-  - **Full Attack**: Bite +13 melee (2d6+6 plus 1d6 negative energy) and tail slap +8 melee (1d8+3)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Accursed Breath|Accursed breath]], [[rangoric-srd/monsters/abilities/Soul Corruption|soul corruption]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Speed Surge (Spire Drake)|speed surge]], immunity to curses, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]], negative energy, paralysis and sleep
-  - **Saves**: Fort +10, Ref +7, Will +6
-  - **Abilities**: Str 22, Dex 12, Con 19, Int 10, Wis 11, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Emulation|Emulation]] +13, [[rangoric-srd/skills/Mysticism|Mysticism]] +10, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Theology|Theology]] +10
-  - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Wingover|Wingover]]
-  - **Environment**: Any hills
-  - **Organization**: Solitary, pair, or rampage (3–12)
-  - **Challenge Rating**: 7
-  - **Treasure**: Standard
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]]
+- **Hit Dice**: 8d12+32 (84 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares), climb 30 ft., fly 60 ft. (average)
+- **Armor Class**: 20 (+1 Dex, +10 natural, –1 size), touch 10, flat-footed 19
+- **Base Attack**: +8; **CMB**: +15; **CMD**: 26
+- **Attack**: Bite +13 melee (2d6+6 plus 1d6 negative energy) or tail slap +13 melee (1d8+3)
+- **Full Attack**: Bite +13 melee (2d6+6 plus 1d6 negative energy) and tail slap +8 melee (1d8+3)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Accursed Breath|Accursed breath]], [[rangoric-srd/monsters/abilities/Soul Corruption|soul corruption]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Speed Surge (Spire Drake)|speed surge]], immunity to curses, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]], negative energy, paralysis and sleep
+- **Saves**: Fort +10, Ref +7, Will +6
+- **Abilities**: Str 22, Dex 12, Con 19, Int 10, Wis 11, Cha 15
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Emulation|Emulation]] +13, [[rangoric-srd/skills/Mysticism|Mysticism]] +10, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Theology|Theology]] +10
+- **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Wingover|Wingover]]
+- **Environment**: Any hills
+- **Organization**: Solitary, pair, or rampage (3–12)
+- **Challenge Rating**: 7
+- **Treasure**: Standard
+- **Alignment**: Usually lawful evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Sages attribute the gaunt builds and tattered, scabrous wings of spire drakes to centuries of dwelling in magic-blasted desolations and accursed badlands, positing that the tainting of the land seeps into the drakes' flesh and bone and into every clutch of eggs, and is thus carried down through generations of decay. But while their appearance is somewhat withered, spire drakes are just as strong and ferocious as other drakes.
 

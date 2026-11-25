@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/flails, weapon-group/monk, easter
 
 # Nunchaku
 
-*Exotic light melee weapon (disarm).* Cost 2 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 2 lb.; Type Bludgeoning. ^stats
+_Exotic light melee weapon (disarm)._ Cost 2 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 2 lb.; Type Bludgeoning. ^stats
 
 The nunchaku is a special monk weapon. This designation gives a monk wielding a nunchaku special options. With a nunchaku, you get a +2 bonus on [[rangoric-srd/combat/Combat Maneuvers#Disarm|combat maneuver checks]] made to disarm an enemy.

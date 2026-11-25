@@ -28,7 +28,7 @@ Psychometabolism
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 min./level (D)  
-**Power Points:** Psion/wilder 13, psychic warrior 9  
+**Power Points:** Psion/wilder 13, psychic warrior 9
 
 This power transforms your body into living oak, which grants you several advantages.
 

@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Velociraptor
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 3d8+9 (22 hp)
-  - **Initiative**: +7
-  - **Speed**: 60 ft. (12 squares)
-  - **Armor Class**: 15 (+3 Dex, +1 natural, +1 size), touch 14, flat-footed 12
-  - **Base Attack**: +2; **CMB**: +2; **CMD**: 15
-  - **Attack**: Bite +6 melee (1d4+1) or talon +6 melee (1d6+1/19–20)
-  - **Full Attack**: Bite +6 melee (1d4+1) and 2 talons +6 melee (1d6+1/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Leaping charge
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]]
-  - **Saves**: Fort +6, Ref +6, Will +3
-  - **Abilities**: Str 13, Dex 17, Con 17, Int 2, Wis 14, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +1 (+13 jumping), [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +15
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Warm forests or plains
-  - **Organization**: Solitary, pair, or pack (3–12)
-  - **Challenge Rating**: 2
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 3d8+9 (22 hp)
+- **Initiative**: +7
+- **Speed**: 60 ft. (12 squares)
+- **Armor Class**: 15 (+3 Dex, +1 natural, +1 size), touch 14, flat-footed 12
+- **Base Attack**: +2; **CMB**: +2; **CMD**: 15
+- **Attack**: Bite +6 melee (1d4+1) or talon +6 melee (1d6+1/19–20)
+- **Full Attack**: Bite +6 melee (1d4+1) and 2 talons +6 melee (1d6+1/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Leaping charge
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]]
+- **Saves**: Fort +6, Ref +6, Will +3
+- **Abilities**: Str 13, Dex 17, Con 17, Int 2, Wis 14, Cha 14
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +1 (+13 jumping), [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +15
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Warm forests or plains
+- **Organization**: Solitary, pair, or pack (3–12)
+- **Challenge Rating**: 2
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A smaller cousin of the deinonychus, the velociraptor is a swift, cunning pack hunter. It has no fear of Medium or even Large creatures. Its leaping charge attack grants it a significant advantage against foes in thick underbrush.
 

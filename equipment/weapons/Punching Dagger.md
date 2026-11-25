@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/weapon, weapon-group/close]
 
 # Punching Dagger
 
-*Simple light melee weapon.* Cost 2 gp; Dmg 1d3 (S), 1d4 (M); Critical x3; Weight 1 lb.; Type Piercing. ^stats
+_Simple light melee weapon._ Cost 2 gp; Dmg 1d3 (S), 1d4 (M); Critical x3; Weight 1 lb.; Type Piercing. ^stats

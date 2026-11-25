@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes]
 
 # Battering Axe
 
-*Exotic two-handed melee weapon.* Cost 200 gp; Dmg — (S), 3d6 (M); Critical x3; Weight 40 lb.; Type Piercing and slashing. ^stats
+_Exotic two-handed melee weapon._ Cost 200 gp; Dmg — (S), 3d6 (M); Critical x3; Weight 40 lb.; Type Piercing and slashing. ^stats

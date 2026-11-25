@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Loss Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Darkness Domain|Darkness]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Darkness Domain|Darkness]] domain._
 
 ## Replacement Power
 
@@ -27,8 +27,8 @@ This power replaces the [[rangoric-srd/class-options/domains/Darkness Domain#Gra
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 5th | [[rangoric-srd/spells/Enervation\|Enervation]] | Subject gains 1d4 negative levels. |
-| 6th | [[rangoric-srd/spells/Modify Memory\|Modify Memory]] | Changes 5 minutes of subject’s memories. |
-| 9th | [[rangoric-srd/spells/Energy Drain\|Energy Drain]] | Subject gains 2d4 negative levels. |
+| Level | Spell                                                | Brief Description                        |
+| ----- | ---------------------------------------------------- | ---------------------------------------- |
+| 5th   | [[rangoric-srd/spells/Enervation\|Enervation]]       | Subject gains 1d4 negative levels.       |
+| 6th   | [[rangoric-srd/spells/Modify Memory\|Modify Memory]] | Changes 5 minutes of subject’s memories. |
+| 9th   | [[rangoric-srd/spells/Energy Drain\|Energy Drain]]   | Subject gains 2d4 negative levels.       |

@@ -19,18 +19,18 @@ tags: [rangoric, rangoric/magic-item]
 
 This suit of full plate grows in power as its wearer gains greater conviction and standing with her deity or guiding principles. The armor’s power depends on the spell level of the highest-level divine spell the wearer is able to cast, as shown on the table below.
 
-| Divine Spell Level | Armor’s Qualities |
-|---|---|
-| 1st | *+1 full plate* |
-| 2nd | *+2 full plate* |
-| 3rd | *+3 full plate* |
-| 4th | *+4 full plate* |
-| 5th | *+5 full plate* |
-| 6th | *+5 full plate of light fortification* |
-| 7th | *+5 full plate of spell resistance (13)* |
-| 8th | *+5 full plate of invulnerability* |
-| 9th | *+5 full plate of spell resistance (17)* |
+| Divine Spell Level | Armor’s Qualities                        |
+| ------------------ | ---------------------------------------- |
+| 1st                | _+1 full plate_                          |
+| 2nd                | _+2 full plate_                          |
+| 3rd                | _+3 full plate_                          |
+| 4th                | _+4 full plate_                          |
+| 5th                | _+5 full plate_                          |
+| 6th                | _+5 full plate of light fortification_   |
+| 7th                | _+5 full plate of spell resistance (13)_ |
+| 8th                | _+5 full plate of invulnerability_       |
+| 9th                | _+5 full plate of spell resistance (17)_ |
 
-Thus, an 11th-level cleric, able to cast 6th-level divine spells, treats the armor as *+5 full plate of light fortification*. For a 15th-level paladin, able to cast 4th-level divine spells, the armor functions as *+4 full plate*. For wearers who cannot cast divine spells, the armor functions as nonmagical masterwork full plate.
+Thus, an 11th-level cleric, able to cast 6th-level divine spells, treats the armor as _+5 full plate of light fortification_. For a 15th-level paladin, able to cast 4th-level divine spells, the armor functions as _+4 full plate_. For wearers who cannot cast divine spells, the armor functions as nonmagical masterwork full plate.
 
-Strong abjuration and evocation (if miracle was used); CL 17th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Spell Resistance|spell resistance]]*, *[[rangoric-srd/spells/Wish|wish]]* or *[[rangoric-srd/spells/Miracle|miracle]]*; Price 81,650 gp; Cost 40,825 gp + 3,266 XP.
+Strong abjuration and evocation (if miracle was used); CL 17th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Spell Resistance|spell resistance]]_, _[[rangoric-srd/spells/Wish|wish]]_ or _[[rangoric-srd/spells/Miracle|miracle]]_; Price 81,650 gp; Cost 40,825 gp + 3,266 XP.

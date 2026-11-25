@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Meek Facade
 
-*A mesmerist’s [[rangoric-srd/classes/Mesmerist#^mesmerist-tricks|mesmerist trick]] (Su).*
+_A mesmerist’s [[rangoric-srd/classes/Mesmerist#^mesmerist-tricks|mesmerist trick]] (Su)._
 
 The subject magically seems like a weak target, goading an enemy into attacking her. The mesmerist can trigger this trick when the subject misses a creature with an attack (even if it’s part of a full attack in which she hits that creature with another attack). The enemy must attack no one other than the subject, and the subject gains a +2 dodge bonus to AC against the triggering enemy’s attacks. Both of these effects last for 1 round. The bonus to AC increases by 1 for every 5 levels the mesmerist possesses. This is a mind-affecting compulsion effect.

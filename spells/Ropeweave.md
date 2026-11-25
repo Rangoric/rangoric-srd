@@ -26,21 +26,21 @@ tags: [rangoric, rangoric/spell]
 
 # Ropeweave
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Hun 2, Occ 2, Rgr 2
-  - **Components**: V, S, F
-  - **Casting Time**: 1 minute
-  - **Range**: Touch
-  - **Target**: One rope
-  - **Duration**: Caster level hour(s)
-  - **Spell Resistance**: No
+- **Level**: Hun 2, Occ 2, Rgr 2
+- **Components**: V, S, F
+- **Casting Time**: 1 minute
+- **Range**: Touch
+- **Target**: One rope
+- **Duration**: Caster level hour(s)
+- **Spell Resistance**: No
 
 You cause the target rope to grow in length and weave itself into one of several forms, each of which can support up to 1,000 pounds, plus 200 pounds per caster level (maximum 3,000 pounds at 10th level). Only one type of construction can be created with each casting of the spell, and the creation remains stationary unless destroyed.
 
 Each 5-foot section of the object created by this spell has a break DC of 23, AC 11, and 1 hit point per caster level (maximum 10 hp), but all sections of the creation are magically supported and need not be anchored to a solid surface or any other portion of the effect. Destroying one part of it does not cause the remainder of the structure to collapse, though each 5-foot section destroyed reduces the maximum weight the creation can support by 200 pounds. During any round in which the rope is overloaded, every remaining section takes 1d4 points of damage.
 
-You can use *ropeweave* to create any of the following structures.
+You can use _ropeweave_ to create any of the following structures.
 
 **Rope Bridge**: The rope forms a 5-foot-wide bridge that spans up to 10 feet horizontally per caster level you have (maximum 100 feet). Creatures can cross the bridge at half speed with a successful DC 5 Acrobatics check or at full speed with a successful DC 10 Acrobatics check. The DC assumes a creature is using both hands to assist in navigating the rope bridge; the DC increases by 5 if a creature uses only one hand to steady itself and by 10 if the creature does not use its hands. A failed Acrobatics check results in failure to progress across the rope bridge; creatures that fail by 5 or more fall.
 

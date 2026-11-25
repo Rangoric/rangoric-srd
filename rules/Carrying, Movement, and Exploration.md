@@ -68,14 +68,14 @@ Quadrupeds can carry heavier loads than characters can. Instead of the multiplie
 | 27             | 346 lb. or less | 347–693 lb. | 694–1,040 lb. |
 | 28             | 400 lb. or less | 401–800 lb. | 801–1,200 lb. |
 | 29             | 466 lb. or less | 467–933 lb. | 934–1,400 lb. |
-| +10           | x4              | x4          | x4            |
+| +10            | x4              | x4          | x4            |
 
 **Table: CARRYING LOADS**
 
 | Load   | Max Dex | Check Penalty | –—— Speed —–— (30 ft.) | –—— Speed —–— (20 ft.) | Run |
 | ------ | ------- | ------------- | ---------------------- | ---------------------- | --- |
-| Medium | +3     | –3            | 20 ft.                 | 15 ft.                 | x4  |
-| Heavy  | +1     | –6            | 20 ft.                 | 15 ft.                 | x3  |
+| Medium | +3      | –3            | 20 ft.                 | 15 ft.                 | x4  |
+| Heavy  | +1      | –6            | 20 ft.                 | 15 ft.                 | x3  |
 
 ###### Armor and Encumbrance for Other Base Speeds
 
@@ -93,21 +93,21 @@ The table below provides reduced speed figures for all base speeds from 20 feet 
 
 There are three movement scales, as follows.
 
-  - Tactical, for combat, measured in feet (or squares) per round.
+- Tactical, for combat, measured in feet (or squares) per round.
 
-  - Local, for exploring an area, measured in feet per minute.
+- Local, for exploring an area, measured in feet per minute.
 
-  - Overland, for getting from place to place, measured in miles per hour or miles per day.
+- Overland, for getting from place to place, measured in miles per hour or miles per day.
 
 **Modes of Movement**: While moving at the different movement scales, creatures generally walk, hustle, or run.
 
-*Walk*: A walk represents unhurried but purposeful movement at 3 miles per hour for an unencumbered human.
+_Walk_: A walk represents unhurried but purposeful movement at 3 miles per hour for an unencumbered human.
 
-*Hustle*: A hustle is a jog at about 6 miles per hour for an unencumbered human. A character moving his or her speed twice in a single round, or moving that speed in the same round that he or she performs a standard action or another move action is hustling when he or she moves.
+_Hustle_: A hustle is a jog at about 6 miles per hour for an unencumbered human. A character moving his or her speed twice in a single round, or moving that speed in the same round that he or she performs a standard action or another move action is hustling when he or she moves.
 
-*Run (x3)*: Moving three times speed is a running pace for a character in heavy armor. It represents about 9 miles per hour for a human in full plate.
+_Run (x3)_: Moving three times speed is a running pace for a character in heavy armor. It represents about 9 miles per hour for a human in full plate.
 
-*Run (x4)*: Moving four times speed is a running pace for a character in light, medium, or no armor. It represents about 12 miles per hour for an unencumbered human, or 8 miles per hour for a human in chainmail.
+_Run (x4)_: Moving four times speed is a running pace for a character in light, medium, or no armor. It represents about 12 miles per hour for an unencumbered human, or 8 miles per hour for a human in chainmail.
 
 ##### Tactical Movement
 
@@ -180,7 +180,7 @@ See Table: Mounts and Vehicles for mounted speeds and speeds for vehicles pulled
 | Hustle                   | —                              | —                              | —                              | —                              |
 | Run                      | —                              | —                              | —                              | —                              |
 
-1 *Tactical movement is often measured in squares on the battle grid (1 square = 5 feet) rather than feet.*
+1 _Tactical movement is often measured in squares on the battle grid (1 square = 5 feet) rather than feet._
 
 **Table: HAMPERED MOVEMENT**
 
@@ -191,7 +191,7 @@ See Table: Mounts and Vehicles for mounted speeds and speeds for vehicles pulled
 | Poor visibility   | x2                       |
 | Impassable        | —                        |
 
-1 *May require a skill check*
+1 _May require a skill check_
 
 **Table: TERRAIN AND OVERLAND MOVEMENT**
 
@@ -236,9 +236,9 @@ See Table: Mounts and Vehicles for mounted speeds and speeds for vehicles pulled
 | Longship (sailed and rowed)        | 3 miles     | 72 miles |
 | Galley (rowed and sailed)          | 4 miles     | 96 miles |
 
-1 *Quadrupeds, such as horses, can carry heavier loads than characters can. See Carrying Capacity, above, for more information.*
+1 _Quadrupeds, such as horses, can carry heavier loads than characters can. See Carrying Capacity, above, for more information._
 
-2 *Rafts, barges, keelboats, and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. In addition to 10 hours of being rowed, the vehicle can also float an additional 14 hours, if someone can guide it, so add an additional 42 miles to the daily distance traveled. These vehicles can’t be rowed against any significant current, but they can be pulled upstream by draft animals on the shores.*
+2 _Rafts, barges, keelboats, and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. In addition to 10 hours of being rowed, the vehicle can also float an additional 14 hours, if someone can guide it, so add an additional 42 miles to the daily distance traveled. These vehicles can’t be rowed against any significant current, but they can be pulled upstream by draft animals on the shores._
 
 ##### Moving in Three Dimensions
 
@@ -300,9 +300,9 @@ Characters with darkvision (dwarves and half-orcs) can see lit areas normally as
 | Daylight                 | 60 ft.        | 120 ft.       | 30 min.    |
 | Light                    | 20 ft.        | 40 ft.        | 10 min.    |
 
-1 *A candle does not provide bright illumination, only shadowy illumination.*
+1 _A candle does not provide bright illumination, only shadowy illumination._
 
-2 *A bullseye lantern illuminates a cone, not a radius.*
+2 _A bullseye lantern illuminates a cone, not a radius._
 
 ##### Breaking and Entering
 
@@ -320,21 +320,21 @@ Smashing a weapon or shield with a slashing or bludgeoning weapon is accomplishe
 
 Very large objects have separate hit point totals for different sections.
 
-*Energy Attacks*: Acid and sonic attacks deal damage to most objects just as they do to creatures; roll damage and apply it normally after a successful hit. Electricity and fire attacks deal half damage to most objects; divide the damage dealt by 2 before applying the hardness. Cold attacks deal one-quarter damage to most objects; divide the damage dealt by 4 before applying the hardness.
+_Energy Attacks_: Acid and sonic attacks deal damage to most objects just as they do to creatures; roll damage and apply it normally after a successful hit. Electricity and fire attacks deal half damage to most objects; divide the damage dealt by 2 before applying the hardness. Cold attacks deal one-quarter damage to most objects; divide the damage dealt by 4 before applying the hardness.
 
-*Ranged Weapon Damage*: Objects take half damage from ranged weapons (unless the weapon is a [[rangoric-srd/rules/Siege Engines|siege engine]] or something similar). Divide the damage dealt by 2 before applying the object’s hardness.
+_Ranged Weapon Damage_: Objects take half damage from ranged weapons (unless the weapon is a [[rangoric-srd/rules/Siege Engines|siege engine]] or something similar). Divide the damage dealt by 2 before applying the object’s hardness.
 
-*Ineffective Weapons*: Certain weapons just can’t effectively deal damage to certain objects.
+_Ineffective Weapons_: Certain weapons just can’t effectively deal damage to certain objects.
 
-*Immunities*: Objects are immune to nonlethal damage and to critical hits.
+_Immunities_: Objects are immune to nonlethal damage and to critical hits.
 
 Even animated objects, which are otherwise considered creatures, have these immunities because they are constructs.
 
-*Magic Armor, Shields, and Weapons*: Each +1 of enhancement bonus adds 2 to the hardness of armor, a weapon, or a shield and +10 to the item’s hit points.
+_Magic Armor, Shields, and Weapons_: Each +1 of enhancement bonus adds 2 to the hardness of armor, a weapon, or a shield and +10 to the item’s hit points.
 
-*Vulnerability to Certain Attacks*: Certain attacks are especially successful against some objects. In such cases, attacks deal double their normal damage and may ignore the object’s hardness.
+_Vulnerability to Certain Attacks_: Certain attacks are especially successful against some objects. In such cases, attacks deal double their normal damage and may ignore the object’s hardness.
 
-*Damaged Objects*: A damaged object remains fully functional until the item’s hit points are reduced to 0, at which point it is destroyed.
+_Damaged Objects_: A damaged object remains fully functional until the item’s hit points are reduced to 0, at which point it is destroyed.
 
 Damaged (but not destroyed) objects can be repaired with the [[rangoric-srd/skills/Skills All|Craft]] skill.
 
@@ -342,7 +342,7 @@ Damaged (but not destroyed) objects can be repaired with the [[rangoric-srd/skil
 
 Magic items always get saving throws. A magic item’s Fortitude, Reflex, and Will save bonuses are equal to 2 + one-half its caster level. An attended magic item either makes saving throws as its owner or uses its own saving throw bonus, whichever is better.
 
-*Animated Objects*: Animated objects count as creatures for purposes of determining their Armor Class (do not treat them as inanimate objects).
+_Animated Objects_: Animated objects count as creatures for purposes of determining their Armor Class (do not treat them as inanimate objects).
 
 ###### Breaking Items
 
@@ -375,9 +375,9 @@ A crowbar or portable ram improves a character’s chance of breaking open a doo
 | Heavy steel shield             | 10          | 20              |
 | Tower shield                   | 5           | 20              |
 
-1 *The hp value given is for Medium armor, weapons, and shields. Divide by 2 for each size category of the item smaller than Medium, or multiply it by 2 for each size category larger than Medium.*
+1 _The hp value given is for Medium armor, weapons, and shields. Divide by 2 for each size category of the item smaller than Medium, or multiply it by 2 for each size category larger than Medium._
 
-2 *Varies by material; see Table: Substance Hardness and Hit Points.*
+2 _Varies by material; see Table: Substance Hardness and Hit Points._
 
 **Table: SUBSTANCE HARDNESS AND HIT POINTS**
 
@@ -402,11 +402,11 @@ A crowbar or portable ram improves a character’s chance of breaking open a doo
 | Gargantuan | –4          |
 | Huge       | –2          |
 | Large      | –1          |
-| Medium     | +0         |
-| Small      | +1         |
-| Tiny       | +2         |
-| Diminutive | +4         |
-| Fine       | +8         |
+| Medium     | +0          |
+| Small      | +1          |
+| Tiny       | +2          |
+| Diminutive | +4          |
+| Fine       | +8          |
 
 **Table: OBJECT HARDNESS AND HIT POINTS**
 
@@ -438,7 +438,7 @@ A crowbar or portable ram improves a character’s chance of breaking open a doo
 | Burst chain bonds      | 26                |
 | Break down iron door   | 28                |
 | Condition              | DC Adjustment (1) |
-| Hold portal            | +5               |
-| Arcane lock            | +10              |
+| Hold portal            | +5                |
+| Arcane lock            | +10               |
 
-1 *If both apply, use the larger number.*
+1 _If both apply, use the larger number._

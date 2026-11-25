@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Boilborn
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]]
-  - **Hit Dice**: 2d8+6 (15 hp)
-  - **Initiative**: –5
-  - **Speed**: 10 ft. (2 squares), climb 10 ft., swim 10 ft.
-  - **Armor Class**: 7 (–5 Dex, +2 size), touch 7, flat-footed 7
-  - **Base Attack**: +1; **CMB**: –6; **CMD**: 5 (can't be tripped)
-  - **Attack**: Slam +4 melee (1d2+1 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
-  - **Full Attack**: Slam +4 melee (1d2+1 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
-  - **Space/Reach**: 2 ft./0 ft.
-  - **Special Attacks**: Death throes, [[rangoric-srd/monsters/abilities/Disease|disease]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10
-  - **Saves**: Fort +3, Ref –5, Will –4
-  - **Abilities**: Str 12, Dex 1, Con 17, Int —, Wis 2, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9
-  - **Feats**: —
-  - **Environment**: Any
-  - **Organization**: Solitary or infestation (2–20)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]]
+- **Hit Dice**: 2d8+6 (15 hp)
+- **Initiative**: –5
+- **Speed**: 10 ft. (2 squares), climb 10 ft., swim 10 ft.
+- **Armor Class**: 7 (–5 Dex, +2 size), touch 7, flat-footed 7
+- **Base Attack**: +1; **CMB**: –6; **CMD**: 5 (can't be tripped)
+- **Attack**: Slam +4 melee (1d2+1 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
+- **Full Attack**: Slam +4 melee (1d2+1 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
+- **Space/Reach**: 2 ft./0 ft.
+- **Special Attacks**: Death throes, [[rangoric-srd/monsters/abilities/Disease|disease]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10
+- **Saves**: Fort +3, Ref –5, Will –4
+- **Abilities**: Str 12, Dex 1, Con 17, Int —, Wis 2, Cha 1
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9
+- **Feats**: —
+- **Environment**: Any
+- **Organization**: Solitary or infestation (2–20)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Purulent wounds that crawl out from piles of diseased dead and areas of massive contagion, these oozes slop about thoughtlessly, quivering and ready to burst and infect anything that moves. The creatures manifest in areas wracked by plagues, where rot and ruin run rampant. Crawling from the afflicted areas, boilborn spread out in all directions to disperse their infection.
 

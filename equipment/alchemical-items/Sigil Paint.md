@@ -22,9 +22,9 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Sigil Paint
 
-*Chymical; Special*
+_Chymical; Special_
 
-Sigil paint is a grayish paint with a light scent of mint and lilac. When it is painted over a sigil, a *symbol*, or other visual markings, the user can peel away a slightly rubbery duplicate image of that marking or symbol for his or her records. Unless the *symbol* is keyed to activate upon contact, using the paint to duplicate it will not trigger its effects. The paint also serves (if thoroughly covering a *symbol*) to shield people from the effects of viewing magical sigils for one round. If used carefully and deliberately, each paint jar contains enough alchemical paint to cover 5 square feet or for 4 separate uses. Obviously, dumping the jar’s contents over an area without looking, to avoid a *symbol* and hopefully cover it (throwing it as a grenade-like missile to splash the area), reduces the jar to only one use.
+Sigil paint is a grayish paint with a light scent of mint and lilac. When it is painted over a sigil, a _symbol_, or other visual markings, the user can peel away a slightly rubbery duplicate image of that marking or symbol for his or her records. Unless the _symbol_ is keyed to activate upon contact, using the paint to duplicate it will not trigger its effects. The paint also serves (if thoroughly covering a _symbol_) to shield people from the effects of viewing magical sigils for one round. If used carefully and deliberately, each paint jar contains enough alchemical paint to cover 5 square feet or for 4 separate uses. Obviously, dumping the jar’s contents over an area without looking, to avoid a _symbol_ and hopefully cover it (throwing it as a grenade-like missile to splash the area), reduces the jar to only one use.
 
 Sigil paint comes in a small rounded jar with a rounded brush clamped to its underside and the top airtight to prevent drying. A stylized sigil always decorates the jar’s top in honor of the paint’s inventor, if not its immediate creator.
 

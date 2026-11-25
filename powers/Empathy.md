@@ -33,7 +33,7 @@ Area: 30-ft.-radius spread centered on you
 Duration: Concentration, up to 1 min./level (D)  
 Saving Throw: None  
 Power Resistance: No  
-Power Points: 1  
+Power Points: 1
 
 You detect the surface emotions of any creature you can see that is in the power’s area. You can sense basic needs, drives, and emotions. Thirst, hunger, fear, fatigue, pain, rage, hatred, uncertainty, curiosity, friendliness, and many other kinds of sensations and moods can all be perceived.
 

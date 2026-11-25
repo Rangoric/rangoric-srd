@@ -46,11 +46,11 @@ Successful half-orc paragon adventurers often attract others of their race. Thes
 
 **Table: The Half-Orc Paragon**
 
-| Level | Special                                                                                                                     |
-| ----- | --------------------------------------------------------------------------------------------------------------------------- |
+| Level | Special                                                                                                          |
+| ----- | ---------------------------------------------------------------------------------------------------------------- |
 | 1st   | [[#^half-orc-paragon-divided-ancestry\|Divided ancestry]], [[#^half-orc-paragon-monstrous-mien\|monstrous mien]] |
-| 2nd   | [[#^half-orc-paragon-rage\|Rage]]                                                                                     |
-| 3rd   | [[#^half-orc-paragon-ability-boost\|Ability boost]] (Str +2)                                                                |
+| 2nd   | [[#^half-orc-paragon-rage\|Rage]]                                                                                |
+| 3rd   | [[#^half-orc-paragon-ability-boost\|Ability boost]] (Str +2)                                                     |
 
 Half-orc paragons have the following game statistics.
 

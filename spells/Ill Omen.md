@@ -32,16 +32,16 @@ tags: [rangoric, rangoric/spell]
 
 # Ill Omen
 
-*Enchantment (Compulsion) \[Curse, Mind-affecting\]*
+_Enchantment (Compulsion) \[Curse, Mind-affecting\]_
 
-  - **Level**: Med 1, Mes 1, Psy 1, Wit 1
-  - **Components**: V, S, M (hair from a black cat)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: 1 round/level or until discharged
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Med 1, Mes 1, Psy 1, Wit 1
+- **Components**: V, S, M (hair from a black cat)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: 1 round/level or until discharged
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 You afflict the target with bad luck. On the next d20 roll the target makes, it must roll twice and take the less favorable result. For every five caster levels you have, the target must roll twice on an additional d20 roll (to a maximum of five rolls at 20th level).
 

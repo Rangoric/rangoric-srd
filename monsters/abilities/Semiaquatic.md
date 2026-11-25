@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Semiaquatic
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “semiaquatic”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “semiaquatic”, on the Special Qualities line.
 
 A semiaquatic creature can hold its breath underwater for up to 5 minutes before it must start attempting Constitution checks to avoid suffocation. The [[rangoric-srd/monsters/Platypus|platypus]] has it.

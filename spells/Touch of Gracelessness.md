@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Touch of Gracelessness
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Blr 1, Brd 1, Mes 1, Skd 1, Sor/Wiz 1, Spi 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Fortitude partial
-  - **Spell Resistance**: Yes
+- **Level**: Blr 1, Brd 1, Mes 1, Skd 1, Sor/Wiz 1, Spi 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 round/level
+- **Saving Throw**: Fortitude partial
+- **Spell Resistance**: Yes
 
 With a single touch, you reduce a creature to a fumbling clown. The target takes a penalty to its Dexterity equal to 1d6+1 per two caster levels (maximum 1d6+5). This penalty cannot drop the target's Dexterity score below 1.
 

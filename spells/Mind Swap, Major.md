@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Mind Swap, Major
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Psy 9
-  - **Components**: V, S, M (diamonds worth 10,000 gp)
-  - **Casting Time**: 1 minute
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Target**: One creature of your same race
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Psy 9
+- **Components**: V, S, M (diamonds worth 10,000 gp)
+- **Casting Time**: 1 minute
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Target**: One creature of your same race
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
-The spell functions as *[[rangoric-srd/spells/Mind Swap|mind swap]]*, except as noted above. In addition, after 24 hours, instead of using each other's hit points, you each revert to your original hit points, modified by your new Constitution modifiers. This spell can be reversed only with *[[rangoric-srd/spells/Miracle|miracle]]*, *[[rangoric-srd/spells/Wish|wish]]*, or another major *[[rangoric-srd/spells/Mind Swap|mind swap]]*.
+The spell functions as _[[rangoric-srd/spells/Mind Swap|mind swap]]_, except as noted above. In addition, after 24 hours, instead of using each other's hit points, you each revert to your original hit points, modified by your new Constitution modifiers. This spell can be reversed only with _[[rangoric-srd/spells/Miracle|miracle]]_, _[[rangoric-srd/spells/Wish|wish]]_, or another major _[[rangoric-srd/spells/Mind Swap|mind swap]]_.

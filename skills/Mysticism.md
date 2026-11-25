@@ -55,30 +55,30 @@ Additionally, certain spells and powers allow you to gain information about magi
 
 Use Mysticism to identify powers as they are manifested or powers already in place.
 
-| DC               | Task                                                                                                                                                                                                                                                               |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 15 + power level | Identify a power being manifested. (You must sense the power’s display, or see some visible effect, to identify a power.) No action required. No retry.                                                                                                            |
+| DC               | Task                                                                                                                                                                                                                                                             |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 15 + power level | Identify a power being manifested. (You must sense the power’s display, or see some visible effect, to identify a power.) No action required. No retry.                                                                                                          |
 | 15 + power level | When manifesting [[rangoric-srd/powers/Detect Psionics\|detect psionics]], determine the discipline involved in the aura of a single item or creature you can see. (If the aura is not a power effect, the DC is 15 + 1/2 manifester level.) No action required. |
-| 15 + power level | Address a power stone to figure out what power or powers it contains.                                                                                                                                                                                              |
-| 20 + power level | Identify a power that’s already in place and in effect. You must be able to see or detect the effects of the power. No action required. No retry.                                                                                                                  |
-| 20 + power level | Identify materials created or shaped by psionics, such as noting that a particular object was created using a metacreativity power. No action required. No retry.                                                                                                  |
-| 25 + power level | After rolling a saving throw against a power targeted on you, determine what that power was. No action required. No retry.                                                                                                                                         |
-| 25               | Identify a psionic tattoo. Requires 1 minute. No retry.                                                                                                                                                                                                            |
+| 15 + power level | Address a power stone to figure out what power or powers it contains.                                                                                                                                                                                            |
+| 20 + power level | Identify a power that’s already in place and in effect. You must be able to see or detect the effects of the power. No action required. No retry.                                                                                                                |
+| 20 + power level | Identify materials created or shaped by psionics, such as noting that a particular object was created using a metacreativity power. No action required. No retry.                                                                                                |
+| 25 + power level | After rolling a saving throw against a power targeted on you, determine what that power was. No action required. No retry.                                                                                                                                       |
+| 25               | Identify a psionic tattoo. Requires 1 minute. No retry.                                                                                                                                                                                                          |
 | 20               | Draw a diagram to enhance manifestation of [[rangoric-srd/powers/Dimensional Anchor, Psionic\|psionic dimensional anchor]] on a summoned creature. Requires 10 minutes. No retry. The player does not see the result of this check.                              |
-| 30 or higher     | Understand a strange or unique psionic effect, such as the effects of an outcrop of psionically resonant crystal. Time required varies. No retry.                                                                                                                  |
+| 30 or higher     | Understand a strange or unique psionic effect, such as the effects of an outcrop of psionically resonant crystal. Time required varies. No retry.                                                                                                                |
 
 ## Advanced Uses
 
 You can identify the properties of a magic item.
 
-| DC | Task |
-| --- | --- |
+| DC                | Task                                  |
+| ----------------- | ------------------------------------- |
 | 50 + caster level | Identify basic property of magic item |
 | 70 + caster level | Identify all properties of magic item |
 
-*Identify Basic Property of Magic Item*: This use of the skill requires one round of inspection, and functions exactly as if the character had cast an identify spell on the item. A character can’t attempt this on the same item more than once.
+_Identify Basic Property of Magic Item_: This use of the skill requires one round of inspection, and functions exactly as if the character had cast an identify spell on the item. A character can’t attempt this on the same item more than once.
 
-*Identify All Properties of Magic Item*: This requires one minute of inspection, and reveals all properties of a single magic item (including command words and charges remaining). A character can’t attempt this on the same item more than once. If an item has different caster levels for different properties, use the highest caster level.
+_Identify All Properties of Magic Item_: This requires one minute of inspection, and reveals all properties of a single magic item (including command words and charges remaining). A character can’t attempt this on the same item more than once. If an item has different caster levels for different properties, use the highest caster level.
 
 ## Unlocks
 
@@ -86,7 +86,7 @@ You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill
 
 **5 Ranks**: Identifying magic items takes 1 full round, and the time required to learn a spell from a spellbook is halved.
 
-**10 Ranks**: You can identify magic items without using *detect magic,* though the DC is increased by 10.
+**10 Ranks**: You can identify magic items without using _detect magic,_ though the DC is increased by 10.
 
 **15 Ranks**: Identifying magic items is a standard action, and the time required to learn a new spell from a spellbook is reduced to 1 minute per spell level.
 

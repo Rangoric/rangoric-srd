@@ -25,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 # Pestilence
 
-Conjuration, Necromancy   
+Conjuration, Necromancy  
 Casting DC: 104  
 Components: V, S, Ritual, XP  
 Casting Time: 10 minutes  
@@ -34,7 +34,7 @@ Area: 1,000-ft.-radius hemisphere
 Duration: Instantaneous  
 Saving Throw: Fortitude negates  
 Spell Resistance: Yes  
-To Develop: 936,000 gp; 19 days; 37,440 XP. Seed: afflict (DC 19). Factors: additional target type (plants) (+10 DC). change target to area (+10 DC), change 20-ft. radius to 1,000-ft. radius (+200 DC), disease effects (as per contagion spell) (ad hoc +21 DC). Mitigating factors: casting time increased by 9 minutes (-18 DC), two additional casters contributing epic spell slots (-38 DC), burn 10,000 XP (-100 DC).  
+To Develop: 936,000 gp; 19 days; 37,440 XP. Seed: afflict (DC 19). Factors: additional target type (plants) (+10 DC). change target to area (+10 DC), change 20-ft. radius to 1,000-ft. radius (+200 DC), disease effects (as per contagion spell) (ad hoc +21 DC). Mitigating factors: casting time increased by 9 minutes (-18 DC), two additional casters contributing epic spell slots (-38 DC), burn 10,000 XP (-100 DC).
 
 When pestilence is successfully cast, a wave of illness radites outward from the site of the ritual, instantly infecting every living thing in the area with the debilitating disease known as [[rangoric-srd/rules/afflictions/Slimy Doom|slimy doom]]. Within 24 hours, everything in the area begins to show signs of rot and decay.
 

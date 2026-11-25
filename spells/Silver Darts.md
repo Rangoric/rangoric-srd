@@ -29,15 +29,15 @@ tags: [rangoric, rangoric/spell]
 
 # Silver Darts
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Blr 3, Mag 3, Sor/Wiz 3, Wit 3
-  - **Components**: V, S, M (a silver needle)
-  - **Casting Time**: 1 standard action
-  - **Range**: 15 ft.
-  - **Area**: Cone-shaped burst
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Reflex half
-  - **Spell Resistance**: Yes
+- **Level**: Blr 3, Mag 3, Sor/Wiz 3, Wit 3
+- **Components**: V, S, M (a silver needle)
+- **Casting Time**: 1 standard action
+- **Range**: 15 ft.
+- **Area**: Cone-shaped burst
+- **Duration**: Instantaneous
+- **Saving Throw**: Reflex half
+- **Spell Resistance**: Yes
 
 A cone of silver darts springs from your hand. These darts act as a silver weapon that deals 1d6 points of piercing damage per caster level (maximum 10d6). Any creature with an armor bonus greater than +4 or a natural armor bonus greater than +4 takes 50% less damage.

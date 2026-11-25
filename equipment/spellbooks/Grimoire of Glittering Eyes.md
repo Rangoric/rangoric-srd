@@ -29,10 +29,10 @@ The title of this book is embossed into the scaly cover. Inside, the pages spark
 
 ## Spells
 
-- **4th**: *[[rangoric-srd/spells/Phantasmal Killer|phantasmal killer]]*<sup>S</sup>, *[[rangoric-srd/spells/Wandering Star Motes|wandering star motes]]*<sup>S</sup>
-- **3rd**: *[[rangoric-srd/spells/Illusory Script|illusory script]]*<sup>S</sup>, *[[rangoric-srd/spells/Invisibility Sphere|invisibility sphere]]*<sup>S</sup>, *madness*<sup>S</sup>, *[[rangoric-srd/spells/Major Image|major image]]*<sup>S</sup>
-- **2nd**: *[[rangoric-srd/spells/Magic Mouth|magic mouth]]*<sup>S</sup>, *[[rangoric-srd/spells/Misdirection|misdirection]]*<sup>S</sup>, *[[rangoric-srd/spells/Phantom Trap|phantom trap]]*<sup>S</sup>, *[[rangoric-srd/spells/Scare|scare]]*<sup>OP</sup>
-- **1st**: *[[rangoric-srd/spells/Alarm|alarm]]*, *[[rangoric-srd/spells/Animate Rope|animate rope]]*, *[[rangoric-srd/spells/Color Spray|color spray]]*<sup>S</sup>, *[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]*, *[[rangoric-srd/spells/Disguise Self|disguise self]]*<sup>S</sup>, *[[rangoric-srd/spells/Hypnotism|hypnotism]]*, *[[rangoric-srd/spells/Magic Aura|magic aura]]*<sup>S</sup>, *[[rangoric-srd/spells/Magic Weapon|magic weapon]]*, *[[rangoric-srd/spells/Shield|shield]]*, *[[rangoric-srd/spells/Sleep|sleep]]*
+- **4th**: _[[rangoric-srd/spells/Phantasmal Killer|phantasmal killer]]_<sup>S</sup>, _[[rangoric-srd/spells/Wandering Star Motes|wandering star motes]]_<sup>S</sup>
+- **3rd**: _[[rangoric-srd/spells/Illusory Script|illusory script]]_<sup>S</sup>, _[[rangoric-srd/spells/Invisibility Sphere|invisibility sphere]]_<sup>S</sup>, _madness_<sup>S</sup>, _[[rangoric-srd/spells/Major Image|major image]]_<sup>S</sup>
+- **2nd**: _[[rangoric-srd/spells/Magic Mouth|magic mouth]]_<sup>S</sup>, _[[rangoric-srd/spells/Misdirection|misdirection]]_<sup>S</sup>, _[[rangoric-srd/spells/Phantom Trap|phantom trap]]_<sup>S</sup>, _[[rangoric-srd/spells/Scare|scare]]_<sup>OP</sup>
+- **1st**: _[[rangoric-srd/spells/Alarm|alarm]]_, _[[rangoric-srd/spells/Animate Rope|animate rope]]_, _[[rangoric-srd/spells/Color Spray|color spray]]_<sup>S</sup>, _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Disguise Self|disguise self]]_<sup>S</sup>, _[[rangoric-srd/spells/Hypnotism|hypnotism]]_, _[[rangoric-srd/spells/Magic Aura|magic aura]]_<sup>S</sup>, _[[rangoric-srd/spells/Magic Weapon|magic weapon]]_, _[[rangoric-srd/spells/Shield|shield]]_, _[[rangoric-srd/spells/Sleep|sleep]]_
 
 ## Preparation Ritual
 

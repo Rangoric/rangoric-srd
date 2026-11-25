@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Pistol of the Infinite Sky
 
-An infinity symbol is engraved on both sides of this *+5 pistol*'s mother of pearl grip, and the barrel is adorned with gold depicting the moon, planets, and stars against a night sky of the pistol's cold black steel. This pistol never needs to be reloaded. After one shot is fired, a bullet and powder magically appear in the chamber. This ammunition never suffers a misfire.
+An infinity symbol is engraved on both sides of this _+5 pistol_'s mother of pearl grip, and the barrel is adorned with gold depicting the moon, planets, and stars against a night sky of the pistol's cold black steel. This pistol never needs to be reloaded. After one shot is fired, a bullet and powder magically appear in the chamber. This ammunition never suffers a misfire.
 
-Strong conjuration; CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Reloading Hands|reloading hands]]*; Price 73,300 gp; Cost 37,300 gp.
+Strong conjuration; CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Reloading Hands|reloading hands]]_; Price 73,300 gp; Cost 37,300 gp.

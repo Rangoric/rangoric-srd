@@ -21,11 +21,11 @@ tags: [rangoric, rangoric/magic-item]
 
 # Staff of the Avenger
 
-This shining golden staff is topped with a radiant gemstone that emits light like a torch. As a swift action, the wielder of the staff can cause it to change into a *+2 lance*, although it retains its other abilities. It can be made to revert to its staff form as a free action. The staff allows use of the following spells:
+This shining golden staff is topped with a radiant gemstone that emits light like a torch. As a swift action, the wielder of the staff can cause it to change into a _+2 lance_, although it retains its other abilities. It can be made to revert to its staff form as a free action. The staff allows use of the following spells:
 
-- *[[rangoric-srd/spells/Bless Weapon|Bless weapon]]* (1 charge, cast on the staff only)
-- *[[rangoric-srd/spells/Shield Other|Shield other]]* (1 charge)
-- *[[rangoric-srd/spells/Discern Lies|Discern lies]]* (2 charges)
-- *[[rangoric-srd/spells/Holy Sword|Holy sword]]* (4 charges, cast on the staff only)
+- _[[rangoric-srd/spells/Bless Weapon|Bless weapon]]_ (1 charge, cast on the staff only)
+- _[[rangoric-srd/spells/Shield Other|Shield other]]_ (1 charge)
+- _[[rangoric-srd/spells/Discern Lies|Discern lies]]_ (2 charges)
+- _[[rangoric-srd/spells/Holy Sword|Holy sword]]_ (4 charges, cast on the staff only)
 
-Moderate evocation; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Bless Weapon|bless weapon]]*, *[[rangoric-srd/spells/Discern Lies|discern lies]]*, *[[rangoric-srd/spells/Holy Sword|holy sword]]*, *[[rangoric-srd/spells/Shield Other|shield other]]*; Price 37,310 gp; Cost 18,810 gp; Weight 5 lbs.
+Moderate evocation; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Bless Weapon|bless weapon]]_, _[[rangoric-srd/spells/Discern Lies|discern lies]]_, _[[rangoric-srd/spells/Holy Sword|holy sword]]_, _[[rangoric-srd/spells/Shield Other|shield other]]_; Price 37,310 gp; Cost 18,810 gp; Weight 5 lbs.

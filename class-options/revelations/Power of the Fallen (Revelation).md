@@ -15,8 +15,8 @@ tags: [rangoric, rangoric/class-option]
 
 # Power of the Fallen
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Sp) of the [[rangoric-srd/class-options/mysteries/Apocalypse Mystery|apocalypse]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Sp) of the [[rangoric-srd/class-options/mysteries/Apocalypse Mystery|apocalypse]] mystery._
 
-You can touch a dying creature and channel its life energy into another living creature. This ability acts as *[[rangoric-srd/spells/Death Knell|death knell]]*, except you can choose any ally (including yourself ) within 30 feet to gain the benefit of this effect, and you can apply the +2 enhancement bonus to either Strength, Dexterity, or Constitution. You can use this ability a number of times per day equal to your Charisma modifier.
+You can touch a dying creature and channel its life energy into another living creature. This ability acts as _[[rangoric-srd/spells/Death Knell|death knell]]_, except you can choose any ally (including yourself ) within 30 feet to gain the benefit of this effect, and you can apply the +2 enhancement bonus to either Strength, Dexterity, or Constitution. You can use this ability a number of times per day equal to your Charisma modifier.
 
 You must be at least 5th level to select this revelation.

@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Stormbolts
 
-*Evocation \[Electricity\]*
+_Evocation \[Electricity\]_
 
-  - **Level**: Clr 8, Drd 8, Sha 8, Sor/Wiz 8, Wit 8
-  - **Components**: V, S, M/DF (a copper rod)
-  - **Casting Time**: 1 standard action
-  - **Range**: 30 ft.
-  - **Area**: A 30-ft.-radius spread, centered on you
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude partial
-  - **Spell Resistance**: Yes
+- **Level**: Clr 8, Drd 8, Sha 8, Sor/Wiz 8, Wit 8
+- **Components**: V, S, M/DF (a copper rod)
+- **Casting Time**: 1 standard action
+- **Range**: 30 ft.
+- **Area**: A 30-ft.-radius spread, centered on you
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude partial
+- **Spell Resistance**: Yes
 
 When you cast this spell, lightning spills forth from your body in all directions. The bolts do not harm natural vegetation or creatures in the area you wish to exclude from damage. Any other creatures within the area take 1d8 points of electricity damage per caster level (maximum 20d8) and are stunned for 1 round. A successful saving throw halves the damage and negates the stun effect.

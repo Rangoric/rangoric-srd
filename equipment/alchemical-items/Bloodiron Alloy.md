@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Bloodiron Alloy
 
-*Alchana; Special*
+_Alchana; Special_
 
 Bloodiron is an alloyed mixture of normal iron and numerous chymicals molded into bars for later weapons-forging. When a bloodiron weapon is used against a creature keyed as its blood-foe, the weapon inflicts 1 additional point of damage due to acidic burns in the wounds. (This damage is not multiplied by critical hits.) In addition, any points of damage inflicted by this alchemical bonus can only be healed by natural rest. For example, a bloodiron dagger will inflict 1d4+1 points of damage against monstrous humanoids (anything from centaurs to yuan-ti) and reduce the target’s hit point total by one with each successful hit. Only time spent resting (not magical healing) can restore these lost hit points.
 
@@ -37,19 +37,19 @@ Bloodiron is expensive but treasured by rangers (whose favored enemies now have 
 
 **Table: Bloodiron Items**
 
-| % chance | Weapon Types | % chance | Blooded Foes |
-|---|---|---|---|
-| 01-20 | Simple/Small | 01-20 | Monstrous Humanoids |
-| 21-40 | Simple/Medium | 21-35 | Goblinoids |
-| 41-60 | Simple/Large | 41-55 | Undead |
-| 61-70 | Martial/Small | 56-70 | Giants |
-| 71-80 | Martial/Medium | 71-78 | Magical Beasts |
-| 81-90 | Martial/Large | 79-86 | Shapechangers |
-| 91-95 | Exotic/Small | 86-90 | Dragons |
-| 96-98 | Exotic/Medium | 91-94 | Plants |
-| 99-00 | Exotic/Large | 95-97 | Outsiders |
-|  |  | 98-99 | Aberrations |
-|  |  | 00 | Elementals |
+| % chance | Weapon Types   | % chance | Blooded Foes        |
+| -------- | -------------- | -------- | ------------------- |
+| 01-20    | Simple/Small   | 01-20    | Monstrous Humanoids |
+| 21-40    | Simple/Medium  | 21-35    | Goblinoids          |
+| 41-60    | Simple/Large   | 41-55    | Undead              |
+| 61-70    | Martial/Small  | 56-70    | Giants              |
+| 71-80    | Martial/Medium | 71-78    | Magical Beasts      |
+| 81-90    | Martial/Large  | 79-86    | Shapechangers       |
+| 91-95    | Exotic/Small   | 86-90    | Dragons             |
+| 96-98    | Exotic/Medium  | 91-94    | Plants              |
+| 99-00    | Exotic/Large   | 95-97    | Outsiders           |
+|          |                | 98-99    | Aberrations         |
+|          |                | 00       | Elementals          |
 
 - Weapon Types: This is the largest type of melee weapon from which you can choose your items off [[rangoric-srd/equipment/Equipment Weapons|the weapons table]]. For example, a 73 allows you to choose from a Tiny weapon up to a Medium-sized Martial melee weapon—you can make the bloodiron weapon anything from a spiked gauntlet to a warhammer.
 - Blooded Foe: Any creature whose monster description matches this type is vulnerable to the alchemical damage of a bloodiron weapon. Only those creatures who do not exist physically on the same plane (i.e. ethereal) as the weapon wielder are safe.

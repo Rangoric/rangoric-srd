@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This silver two-sided coin has a picture of a smiling imp and a frowning nymph on its faces. When asked a yes or no question and flipped into the air, it comes up with the most accurate answer possible (future events must be considered with a grain of salt). The disc functions 10 + 2d8 times (1226) before becoming a normal coin, however the owner is not aware of its loss of dweomer unless it is detected for. After all of the charges are used up, the accuracy of the Disc is reduced to 50%.
 
-CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Commune|commune]]*; Price 7,500 gp.
+CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Commune|commune]]_; Price 7,500 gp.

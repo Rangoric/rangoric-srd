@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, metapsionic]
 
 # Chain Power
 
-You can manifest powers that arc to hit other targets in addition to the primary target.  
+You can manifest powers that arc to hit other targets in addition to the primary target.
 
 Benefit: To use this feat, you must expend your psionic focus. You can chain any power that affects a single target and that deals either acid, cold, electricity, fire, or sonic damage. After the primary target is struck, the power can arc to a number of secondary targets equal to your manifester level (maximum twenty). The secondary arcs each strike one target and deal half as much damage as the primary one did (round down).
 

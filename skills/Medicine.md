@@ -78,17 +78,17 @@ You apply esoteric principles to temporarily suspend or remove curses, diseases 
 
 **Check**: You can use faith healing once per day. The DC and effect of the Medicine check depend on the task you attempt. You can’t use faith healing on yourself.
 
-*Restore Vitality*: You suppress [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]]. You perform a 1-hour ceremony, then attempt a Medicine check against the DC of the effect that caused the ability damage. If you succeed, you suppress 1 point of ability damage for 1 hour, plus 1 more point and 1 more hour for every 5 by which your result exceeds the DC. A creature can benefit from this treatment no more than once per day.
+_Restore Vitality_: You suppress [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]]. You perform a 1-hour ceremony, then attempt a Medicine check against the DC of the effect that caused the ability damage. If you succeed, you suppress 1 point of ability damage for 1 hour, plus 1 more point and 1 more hour for every 5 by which your result exceeds the DC. A creature can benefit from this treatment no more than once per day.
 
-*Suspend Affliction*: You treat one [[rangoric-srd/rules/Afflictions#Curse|curse]], [[rangoric-srd/rules/Afflictions#Disease|disease]] or [[rangoric-srd/rules/Afflictions#Poison|poison]] affecting a creature. You enter a deep trance for 1 hour while you treat the subject, then attempt your Medicine check. If you succeed, you suspend the affliction’s effects for 1 hour, plus 1 hour for every 5 by which you exceed the DC. This time doesn’t count against the effect’s duration (if any). The affliction can still be cured by other means while it’s suspended.
+_Suspend Affliction_: You treat one [[rangoric-srd/rules/Afflictions#Curse|curse]], [[rangoric-srd/rules/Afflictions#Disease|disease]] or [[rangoric-srd/rules/Afflictions#Poison|poison]] affecting a creature. You enter a deep trance for 1 hour while you treat the subject, then attempt your Medicine check. If you succeed, you suspend the affliction’s effects for 1 hour, plus 1 hour for every 5 by which you exceed the DC. This time doesn’t count against the effect’s duration (if any). The affliction can still be cured by other means while it’s suspended.
 
-*Remove Affliction*: You can try to remove an affliction permanently in an 8-hour ceremony, after which you attempt a Medicine check. If your result is at least double the affliction’s DC, the sufferer can attempt another saving throw against the original DC to cast off the effect permanently.
+_Remove Affliction_: You can try to remove an affliction permanently in an 8-hour ceremony, after which you attempt a Medicine check. If your result is at least double the affliction’s DC, the sufferer can attempt another saving throw against the original DC to cast off the effect permanently.
 
-| Task | DC |
-| --- | --- |
-| Restore vitality | Effect’s save DC |
-| Suspend affliction | Affliction’s save DC |
-| Remove affliction | Double the affliction’s save DC |
+| Task               | DC                              |
+| ------------------ | ------------------------------- |
+| Restore vitality   | Effect’s save DC                |
+| Suspend affliction | Affliction’s save DC            |
+| Remove affliction  | Double the affliction’s save DC |
 
 **Action**: Restoring vitality and suspending an affliction each take 1 hour in a quiet place. Removing an affliction permanently takes 8 hours of heavy activity.
 

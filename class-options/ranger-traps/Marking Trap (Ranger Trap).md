@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option, rangoric/trap]
 
 # Marking Trap
 
-*An add-on [[rangoric-srd/class-options/ranger-traps/Ranger Traps|ranger trap]] (Ex or Su): set with another ranger trap, for 1 more use of the trap ability.*
+_An add-on [[rangoric-srd/class-options/ranger-traps/Ranger Traps|ranger trap]] (Ex or Su): set with another ranger trap, for 1 more use of the trap ability._
 
 - **Type**: mechanical or magic
 - **Trigger**: location; **Reset**: none; [[rangoric-srd/class-options/ranger-traps/Ranger Traps#^ranger-traps-dc|DCs]] and [[rangoric-srd/class-options/ranger-traps/Ranger Traps#^ranger-traps-duration|duration]] as for every ranger trap

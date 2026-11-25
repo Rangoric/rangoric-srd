@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This item is decorated with the emblem of a large bull. When worn, it grants an enhancement bonus to the owner’s Strength score. The bonus depends upon the strength of the enchantment. A shield with this enchantment must be wielded in order to receive the bonus, not simply strapped to one’s back. This enchantment also grants its wearer a +2 morale bonus to all saving throws against fear effects.
 
-Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Bull’s Strength|bull’s strength]]*; Price +2 bonus (+2 to Str), +3 bonus (+4 to Str).
+Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Bull’s Strength|bull’s strength]]_; Price +2 bonus (+2 to Str), +3 bonus (+4 to Str).

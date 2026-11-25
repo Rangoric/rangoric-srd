@@ -16,11 +16,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Flame Mystery
 
-*An [[rangoric-srd/classes/Oracle#^oracle-mystery|oracle mystery]].* The shaman’s [[rangoric-srd/class-options/spirits/Flame Spirit|flame spirit]] shares its name; a character with both must choose matching ones (see the shaman’s [[rangoric-srd/classes/Shaman#^shaman-spirit|spirit]]).
+_An [[rangoric-srd/classes/Oracle#^oracle-mystery|oracle mystery]]._ The shaman’s [[rangoric-srd/class-options/spirits/Flame Spirit|flame spirit]] shares its name; a character with both must choose matching ones (see the shaman’s [[rangoric-srd/classes/Shaman#^shaman-spirit|spirit]]).
 
 **Class Skills**: An oracle with the flame mystery adds [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Intimidation|Intimidation]], and [[rangoric-srd/skills/Performance|Performance]] to her list of class skills.
 
-**Bonus Spells**: *[[rangoric-srd/spells/Burning Hands|burning hands]]* (2nd), *[[rangoric-srd/spells/Resist Energy|resist energy]]* (4th), *[[rangoric-srd/spells/Fireball|fireball]]* (6th), *[[rangoric-srd/spells/Wall of Fire|wall of fire]]* (8th), *[[rangoric-srd/spells/Summon Monster V|summon monster V]]* (fire elementals only, 10th), *[[rangoric-srd/spells/Fire Seeds|fire seeds]]* (12th), *[[rangoric-srd/spells/Fire Storm|fire storm]]* (14th), *[[rangoric-srd/spells/Incendiary Cloud|incendiary cloud]]* (16th), *[[rangoric-srd/spells/Fiery Body|fiery body]]* (18th).
+**Bonus Spells**: _[[rangoric-srd/spells/Burning Hands|burning hands]]_ (2nd), _[[rangoric-srd/spells/Resist Energy|resist energy]]_ (4th), _[[rangoric-srd/spells/Fireball|fireball]]_ (6th), _[[rangoric-srd/spells/Wall of Fire|wall of fire]]_ (8th), _[[rangoric-srd/spells/Summon Monster V|summon monster V]]_ (fire elementals only, 10th), _[[rangoric-srd/spells/Fire Seeds|fire seeds]]_ (12th), _[[rangoric-srd/spells/Fire Storm|fire storm]]_ (14th), _[[rangoric-srd/spells/Incendiary Cloud|incendiary cloud]]_ (16th), _[[rangoric-srd/spells/Fiery Body|fiery body]]_ (18th).
 
 ## Revelations
 

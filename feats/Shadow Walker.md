@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/feat, racial]
 
 You can pierce the veil between the Shadow Plane and the Material Plane more often, and to greater effect.
 
-**Prerequisites**: [[rangoric-srd/races/Fetchling|Fetchling]], *[[rangoric-srd/spells/Shadow Walk|shadow walk]]* spell-like ability.
+**Prerequisites**: [[rangoric-srd/races/Fetchling|Fetchling]], _[[rangoric-srd/spells/Shadow Walk|shadow walk]]_ spell-like ability.
 
-**Benefit**: You can expend one use of your shadow walk spell-like ability to use *[[rangoric-srd/spells/Dimension Door|dimension door]]* as a spell-like ability. Your start and end locations for this ability must be in dim light or darkness.
+**Benefit**: You can expend one use of your shadow walk spell-like ability to use _[[rangoric-srd/spells/Dimension Door|dimension door]]_ as a spell-like ability. Your start and end locations for this ability must be in dim light or darkness.

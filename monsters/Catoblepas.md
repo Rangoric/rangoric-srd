@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Catoblepas
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 14d10+84 (161 hp)
-  - **Initiative**: –1
-  - **Speed**: 40 ft. (8 squares), swim 20 ft.
-  - **Armor Class**: 27 (–1 Dex, +19 natural, –1 size), touch 8, flat-footed 27
-  - **Base Attack**: +14; **CMB**: +20; **CMD**: 29 (33 vs. trip)
-  - **Attack**: Bite +18 melee (3d6+5) or gore +18 melee (2d8+5/19–20) or hoof +21 melee (1d8+2)
-  - **Full Attack**: Bite +18 melee (3d6+5) and gore +18 melee (2d8+5/19–20) and 2 hooves +16 melee (1d8+2)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (60-ft. cone, poison, Fortitude DC 23, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Trample|trample]] (4d6+7, DC 22)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., DC 23, 10 rounds), [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23
-  - **Saves**: Fort +15, Ref +8, Will +8
-  - **Abilities**: Str 20, Dex 8, Con 22, Int 5, Wis 15, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +25
-  - **Feats**: [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (gore), [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any swamps
-  - **Organization**: Solitary, pair, or herd (3–6)
-  - **Challenge Rating**: 12
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 14d10+84 (161 hp)
+- **Initiative**: –1
+- **Speed**: 40 ft. (8 squares), swim 20 ft.
+- **Armor Class**: 27 (–1 Dex, +19 natural, –1 size), touch 8, flat-footed 27
+- **Base Attack**: +14; **CMB**: +20; **CMD**: 29 (33 vs. trip)
+- **Attack**: Bite +18 melee (3d6+5) or gore +18 melee (2d8+5/19–20) or hoof +21 melee (1d8+2)
+- **Full Attack**: Bite +18 melee (3d6+5) and gore +18 melee (2d8+5/19–20) and 2 hooves +16 melee (1d8+2)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (60-ft. cone, poison, Fortitude DC 23, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Trample|trample]] (4d6+7, DC 22)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., DC 23, 10 rounds), [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23
+- **Saves**: Fort +15, Ref +8, Will +8
+- **Abilities**: Str 20, Dex 8, Con 22, Int 5, Wis 15, Cha 10
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +25
+- **Feats**: [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (gore), [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any swamps
+- **Organization**: Solitary, pair, or herd (3–6)
+- **Challenge Rating**: 12
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The catoblepas is an aggressive beast at the best of times, willing to knock down trees, fences, even small houses to eat whatever it finds interesting, be that meal plant or animal or human being. Though it prefers swamps, the catoblepas has been known to forage in plains and forests for short periods before returning to the buoyant support of water and mud. Few creatures linger near a catoblepas's feeding ground because of the monster's bad temper and poisonous breath, and only rot-loving predators such as oozes or exceptionally large otyughs have any interest in hunting them.
 
@@ -73,4 +73,4 @@ Catoblepas speak Aklo.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Catoblepas Venom|Catoblepas Venom]]: Breath—contact; *save* Fort DC 23; *frequency* 1/round for 6 rounds; *effect* 1d6 Con; *cure* 3 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Catoblepas Venom|Catoblepas Venom]]: Breath—contact; _save_ Fort DC 23; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Con; _cure_ 3 consecutive saves. The save DC is Constitution-based.

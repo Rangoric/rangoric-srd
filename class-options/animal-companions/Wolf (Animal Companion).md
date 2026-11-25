@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Wolf
 
-*An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature ([[rangoric-srd/monsters/Wolf|wolf]]).*
+_An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature ([[rangoric-srd/monsters/Wolf|wolf]])._
 
 - **Size**: Medium
 - **Speed**: 50 ft.

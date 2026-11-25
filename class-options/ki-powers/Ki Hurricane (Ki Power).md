@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Ki Hurricane
 
-*A [[rangoric-srd/classes/Unchained Monk#^unchained-monk-ki-powers|ki power]] (Ex).*
+_A [[rangoric-srd/classes/Unchained Monk#^unchained-monk-ki-powers|ki power]] (Ex)._
 
 As a full-round action, a monk with this ability can move up to twice his speed. At any point in that movement, the monk can spend 1 ki point to make the first attack in his flurry of blows. He can later spend another ki point to make the next attack in his flurry of blows, and so on, until he either stops spending ki points or has exhausted all the attacks from his flurry of blows. A monk must be at least 10th level and possess the [[rangoric-srd/class-options/ki-powers/Sudden Speed (Ki Power)|sudden speed ki power]] before selecting this ki power.

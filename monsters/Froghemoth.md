@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Froghemoth
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 16d8+112 (184 hp)
-  - **Initiative**: +5
-  - **Speed**: 20 ft. (4 squares), swim 30 ft.
-  - **Armor Class**: 28 (+1 Dex, +19 natural, –2 size), touch 9, flat-footed 27
-  - **Base Attack**: +12; **CMB**: +24 (+28 grapple); **CMD**: 35
-  - **Attack**: Bite +20 melee (2d6+10/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tentacle +23 melee (1d8+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tongue +18 melee (1d4+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +20 melee (2d6+10/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 4 tentacles +18 melee (1d8+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and tongue +18 melee (1d4+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 15 ft./15 ft. (30 ft. with tongue)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (tentacle, 1d6+10), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (3d6+10 damage, AC 19, hp 18)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity (partial), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10, slowed by electricity
-  - **Saves**: Fort +12, Ref +8, Will +11
-  - **Abilities**: Str 30, Dex 13, Con 24, Int 2, Wis 13, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Investigation|Investigation]] +0, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +14 (+22 in marshes)
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Temperate marsh
-  - **Organization**: Solitary
-  - **Challenge Rating**: 13
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 16d8+112 (184 hp)
+- **Initiative**: +5
+- **Speed**: 20 ft. (4 squares), swim 30 ft.
+- **Armor Class**: 28 (+1 Dex, +19 natural, –2 size), touch 9, flat-footed 27
+- **Base Attack**: +12; **CMB**: +24 (+28 grapple); **CMD**: 35
+- **Attack**: Bite +20 melee (2d6+10/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tentacle +23 melee (1d8+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tongue +18 melee (1d4+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +20 melee (2d6+10/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 4 tentacles +18 melee (1d8+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and tongue +18 melee (1d4+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 15 ft./15 ft. (30 ft. with tongue)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (tentacle, 1d6+10), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (3d6+10 damage, AC 19, hp 18)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity (partial), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10, slowed by electricity
+- **Saves**: Fort +12, Ref +8, Will +11
+- **Abilities**: Str 30, Dex 13, Con 24, Int 2, Wis 13, Cha 11
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Investigation|Investigation]] +0, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +14 (+22 in marshes)
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Temperate marsh
+- **Organization**: Solitary
+- **Challenge Rating**: 13
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Thankfully rare, the froghemoth is one of the deep swampland's most ferocious and monstrous predators. Capable of catching and eating dinosaurs and even dragons, the froghemoth is a frighteningly effective ambush hunter. When lying in wait for prey, the immense creature secrets itself in deep marsh pools and mud so that only the top of its eyestalk emerges from the surface. The froghemoth's eyes are incredibly keen, but even more impressive is the monster's tongue. Like a snake, a froghemoth can “taste” its surroundings with extraordinary accuracy.
 

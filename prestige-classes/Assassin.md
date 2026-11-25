@@ -56,15 +56,15 @@ The assassin's class skills (and the key ability for each skill) are [[rangoric-
 | Level | Special                                             | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th |
 | ----- | --------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | 1st   | Sneak attack +1d6, death attack, poison use, spells | 0                   | —                   | —                   | —                   |
-| 2nd   | +1 save against poison, uncanny dodge              | 1                   | —                   | —                   | —                   |
+| 2nd   | +1 save against poison, uncanny dodge               | 1                   | —                   | —                   | —                   |
 | 3rd   | Sneak attack +2d6                                   | 2                   | 0                   | —                   | —                   |
-| 4th   | +2 save against poison, hidden weapons, true death                             | 3                   | 1                   | —                   | —                   |
+| 4th   | +2 save against poison, hidden weapons, true death  | 3                   | 1                   | —                   | —                   |
 | 5th   | Improved uncanny dodge, sneak attack +3d6           | 3                   | 2                   | 0                   | —                   |
-| 6th   | +3 save against poison, quiet death                             | 3                   | 3                   | 1                   | —                   |
+| 6th   | +3 save against poison, quiet death                 | 3                   | 3                   | 1                   | —                   |
 | 7th   | Sneak attack +4d6                                   | 3                   | 3                   | 2                   | 0                   |
-| 8th   | +4 save against poison, hide in plain sight        | 3                   | 3                   | 3                   | 1                   |
-| 9th   | Sneak attack +5d6, swift death                                   | 3                   | 3                   | 3                   | 2                   |
-| 10th  | +5 save against poison, angel of death                             | 3                   | 3                   | 3                   | 3                   |
+| 8th   | +4 save against poison, hide in plain sight         | 3                   | 3                   | 3                   | 1                   |
+| 9th   | Sneak attack +5d6, swift death                      | 3                   | 3                   | 3                   | 2                   |
+| 10th  | +5 save against poison, angel of death              | 3                   | 3                   | 3                   | 3                   |
 
 ###### Class Features
 
@@ -101,7 +101,7 @@ Upon reaching 6th level, at every even-numbered level after that (8th and 10th),
 | 9th   | 4                 | 4                 | 4                 | 3                 |
 | 10th  | 4                 | 4                 | 4                 | 4                 |
 
-1 *Provided the assassin has sufficient Intelligence to have a bonus spell of this level.*
+1 _Provided the assassin has sufficient Intelligence to have a bonus spell of this level._
 
 **Save Bonus against Poison**: The assassin gains a natural saving throw bonus to all poisons gained at 2nd level that increases by +1 for every two additional levels the assassin gains.
 
@@ -111,7 +111,7 @@ If a character gains uncanny dodge from a second class the character automatical
 
 **Hidden Weapons (Ex)**: At 4th level, an assassin becomes a master at hiding weapons on his body. He adds his assassin level to all [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] checks made to prevent others from noticing them.
 
-**True Death (Su)**: Starting at 4th level, anyone slain by an assassin’s death attack becomes more difficult to bring back from the dead. Spellcasters attempting to bring a creature back from the dead using [[rangoric-srd/spells/Raise Dead|raise dead]] or similar magic must make a caster level check with a DC equal to 15 + the assassin’s level or the spell fails and the material component is wasted. Casting [[rangoric-srd/spells/Remove Curse|remove curse]] the round before attempting to bring the creature back from the dead negates this chance. The DC of the *remove curse* is 10 + the assassin’s level.
+**True Death (Su)**: Starting at 4th level, anyone slain by an assassin’s death attack becomes more difficult to bring back from the dead. Spellcasters attempting to bring a creature back from the dead using [[rangoric-srd/spells/Raise Dead|raise dead]] or similar magic must make a caster level check with a DC equal to 15 + the assassin’s level or the spell fails and the material component is wasted. Casting [[rangoric-srd/spells/Remove Curse|remove curse]] the round before attempting to bring the creature back from the dead negates this chance. The DC of the _remove curse_ is 10 + the assassin’s level.
 
 **Improved Uncanny Dodge (Ex)**: At 5th level, an assassin can no longer be flanked, since he can react to opponents on opposite sides of him as easily as he can react to a single attacker. This defense denies rogues the ability to use flank attacks to sneak attack the assassin. The exception to this defense is that a rogue at least four levels higher than the assassin can flank him (and thus sneak attack him).
 

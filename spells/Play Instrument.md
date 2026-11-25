@@ -23,13 +23,13 @@ tags: [rangoric, rangoric/spell]
 
 # Play Instrument
 
-*Divination*
+_Divination_
 
-  - **Level**: Brd 1, Skd 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 10 minute/level
+- **Level**: Brd 1, Skd 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 10 minute/level
 
 You may play one instrument of your choice as if you had 1 rank in the appropriate Perform skill. Instead of a conventional instrument, you may use an object as an improvised instrument, such as using a barrel as a drum or a bow as a harp, playing it as if it were crafted to make music.

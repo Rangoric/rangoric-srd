@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Improved Metamagic
 
-Prerequisites: Four metamagic feats, [[rangoric-srd/skills/Mysticism|Mysticism]] 27 ranks.  
+Prerequisites: Four metamagic feats, [[rangoric-srd/skills/Mysticism|Mysticism]] 27 ranks.
 
 Benefit: The spell slot modifier of all the character’s metamagic feats is reduced by one level, to a minimum of +1. This feat has no effect on metamagic feats whose spell slot modifier is +1 or less.
 

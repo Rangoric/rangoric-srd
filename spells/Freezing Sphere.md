@@ -28,12 +28,12 @@ tags: [rangoric, rangoric/spell]
 
 # Freezing Sphere
 
-*Evocation \[Cold\]*
+_Evocation \[Cold\]_
 
-  - **Level**: Mag 6, Occ 6, Sor/Wiz 6
-  - **Components**: V, S, F
-  - **Casting Time**: 1 standard action
-  - **Range**: Long (400 ft. + 40 ft./level)
+- **Level**: Mag 6, Occ 6, Sor/Wiz 6
+- **Components**: V, S, F
+- **Casting Time**: 1 standard action
+- **Range**: Long (400 ft. + 40 ft./level)
 
 Target, Effect, or Area: See text  
 Duration: Instantaneous or 1 round/level; see text  
@@ -46,4 +46,4 @@ If the freezing sphere strikes a body of water or a liquid that is principally w
 
 You can refrain from firing the globe after completing the spell, if you wish. Treat this as a touch spell for which you are holding the charge. You can hold the charge for as long as 1 round per level, at the end of which time the freezing sphere bursts centered on you (and you receive no saving throw to resist its effect). Firing the globe in a later round is a standard action.
 
-*Focus*: A small crystal sphere.
+_Focus_: A small crystal sphere.

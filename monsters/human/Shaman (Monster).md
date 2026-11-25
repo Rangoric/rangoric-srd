@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Shaman (Monster)
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 7d6+7 (31 hp)
-  - **Initiative**: –1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 12 (+3 armor, –1 Dex), touch 9, flat-footed 12
-  - **Base Attack**: +3; **CMB**: +3; **CMD**: 12
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Sickle|sickle]] +4 melee (1d6)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Sickle|sickle]] +4 melee (1d6)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/classes/Adept|Summon familiar]] (smoke mephit)
-  - **Saves**: Fort +3, Ref +1, Will +6
-  - **Abilities**: Str 10, Dex 8, Con 12, Int 12, Wis 13, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Nature|Nature]] +6, [[rangoric-srd/skills/Profession|Profession]] (herbalist) +10, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Theology|Theology]] +6
-  - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Craft Wand|Craft Wand]], [[rangoric-srd/feats/Improved Familiar|Improved Familiar]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 5
-  - **Treasure**: NPC gear (combat gear: wand of burning hands (CL 5, 50 charges), wand of cure moderate wounds (50 charges), alchemist's fire (2); other gear: masterwork studded leather, masterwork sickle, wooden holy symbol, 4 gp)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 7d6+7 (31 hp)
+- **Initiative**: –1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 12 (+3 armor, –1 Dex), touch 9, flat-footed 12
+- **Base Attack**: +3; **CMB**: +3; **CMD**: 12
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Sickle|sickle]] +4 melee (1d6)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Sickle|sickle]] +4 melee (1d6)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/classes/Adept|Summon familiar]] (smoke mephit)
+- **Saves**: Fort +3, Ref +1, Will +6
+- **Abilities**: Str 10, Dex 8, Con 12, Int 12, Wis 13, Cha 11
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Nature|Nature]] +6, [[rangoric-srd/skills/Profession|Profession]] (herbalist) +10, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Theology|Theology]] +6
+- **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Craft Wand|Craft Wand]], [[rangoric-srd/feats/Improved Familiar|Improved Familiar]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 5
+- **Treasure**: NPC gear (combat gear: wand of burning hands (CL 5, 50 charges), wand of cure moderate wounds (50 charges), alchemist's fire (2); other gear: masterwork studded leather, masterwork sickle, wooden holy symbol, 4 gp)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A shaman (monster) is a [[rangoric-srd/monsters/human/Human|human]] with 7 levels of [[rangoric-srd/classes/Adept|adept]]. Shamans are the keepers of wisdom, myth, and medicine, the watchers over birth, life, and death within primitive tribes. They keep the ancient rites and appease the nature spirits, reading the signs in the smoke and tending the pyres of the honored dead while calling down a burning wrath upon those who would violate the tribe's territory and way of life.
 

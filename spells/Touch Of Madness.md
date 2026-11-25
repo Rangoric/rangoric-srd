@@ -33,6 +33,6 @@ Range: Touch
 Target: Creature touched  
 Duration: 1 round/level  
 Saving Throw: Will negates  
-Spell Resistance: Yes  
+Spell Resistance: Yes
 
 The caster may [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|daze]] one living creature by making a successful touch attack. If the target creature does not make a successful Will save, its mind is clouded and it takes no action for 1 round per caster level. The dazed subject is not [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] (so attackers get no special advantage against it), but it can’t move, cast spells, use mental abilities, and so on.

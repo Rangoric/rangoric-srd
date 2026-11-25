@@ -25,30 +25,30 @@ You get only one Imitation check per use of the skill, even if several people ar
 
 The effectiveness of your disguise depends in part on how much you’re attempting to change your appearance.
 
-| Imitation                                | Imitation Check Modifier |
-| --------------------------------------- | ----------------------- |
-| Minor details only                      | +5                     |
-| Disguised as different gender (1)       | –2                      |
-| Disguised as different race (1)         | –2                      |
-| Disguised as different age category (1) | –2 (2)                  |
-| Change height and/or weight 11% to 25% (3) | –25 |
-| Change height and/or weight 26% to 50% (3) | –50 |
+| Imitation                                  | Imitation Check Modifier |
+| ------------------------------------------ | ------------------------ |
+| Minor details only                         | +5                       |
+| Disguised as different gender (1)          | –2                       |
+| Disguised as different race (1)            | –2                       |
+| Disguised as different age category (1)    | –2 (2)                   |
+| Change height and/or weight 11% to 25% (3) | –25                      |
+| Change height and/or weight 26% to 50% (3) | –50                      |
 
-1 *These modifiers are cumulative; use any that apply.*
+1 _These modifiers are cumulative; use any that apply._
 
-2 *Per step of difference between your actual age category and your disguised age category.  
-The steps are: young (younger than adulthood), adulthood, middle age, old, and venerable.*
+2 _Per step of difference between your actual age category and your disguised age category.  
+The steps are: young (younger than adulthood), adulthood, middle age, old, and venerable._
 
-3 *Can be negated by any effect that can duplicate a height and/or weight change of this degree.*
+3 _Can be negated by any effect that can duplicate a height and/or weight change of this degree._
 
 If you are impersonating a particular individual, those who know what that person looks like get a bonus on their Perception checks according to the table below. Furthermore, they are automatically considered to be suspicious of you, so opposed checks are always called for.
 
 | Familiarity           | Viewer’s Perception Check Bonus |
-| --------------------- | ------------------------- |
-| Recognizes on sight   | +4                       |
-| Friends or associates | +6                       |
-| Close friends         | +8                       |
-| Intimate              | +10                      |
+| --------------------- | ------------------------------- |
+| Recognizes on sight   | +4                              |
+| Friends or associates | +6                              |
+| Close friends         | +8                              |
+| Intimate              | +10                             |
 
 Usually, an individual makes a Perception check to see through your disguise immediately upon meeting you and each hour thereafter. If you casually meet many different creatures, each for a short time, check once per day or hour, using an average Perception modifier for the group.
 
@@ -66,16 +66,16 @@ You must make an Imitation check when you cast a simulacrum spell to determine h
 
 The Imitation check is made secretly, so that you’re not sure how good your forgery is. As with a disguise, you don’t even need to make a check until someone examines the work. Your Imitation check is opposed by the Imitation check of the person who examines the document to check its authenticity. The examiner gains modifiers on his or her check if any of the conditions on the table below exist.
 
-| Condition                                 | Reader’s Imitation Check Modifier |
-| ----------------------------------------- | ------------------------------- |
-| Type of document unknown to reader        | –2                              |
-| Type of document somewhat known to reader | +0                             |
-| Type of document well known to reader     | +2                             |
-| Handwriting not known to reader           | –2                              |
-| Handwriting somewhat known to reader      | +0                             |
-| Handwriting intimately known to reader    | +2                             |
-| Reader only casually reviews the document | –2                              |
-| Document forged without a sample (see Advanced Uses) | +50 |
+| Condition                                            | Reader’s Imitation Check Modifier |
+| ---------------------------------------------------- | --------------------------------- |
+| Type of document unknown to reader                   | –2                                |
+| Type of document somewhat known to reader            | +0                                |
+| Type of document well known to reader                | +2                                |
+| Handwriting not known to reader                      | –2                                |
+| Handwriting somewhat known to reader                 | +0                                |
+| Handwriting intimately known to reader               | +2                                |
+| Reader only casually reviews the document            | –2                                |
+| Document forged without a sample (see Advanced Uses) | +50                               |
 
 A document that contradicts procedure, orders, or previous knowledge, or one that requires sacrifice on the part of the person checking the document can increase that character’s suspicion (and thus create favorable circumstances for the checker’s opposing Imitation check).
 
@@ -87,9 +87,9 @@ A document that contradicts procedure, orders, or previous knowledge, or one tha
 
 ### Advanced Uses
 
-The character can forge handwriting he or she haven’t even seen.  
+The character can forge handwriting he or she haven’t even seen.
 
-*Forge Document without Sample*: The character can forge a document without having seen a similar document or having a sample of the handwriting to be copied.
+_Forge Document without Sample_: The character can forge a document without having seen a similar document or having a sample of the handwriting to be copied.
 
 ## Unlocks
 

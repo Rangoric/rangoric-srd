@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Holy Tactician
 
-*A [[rangoric-srd/classes/Paladin#^paladin-archetypes|paladin]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Paladin#^paladin-archetypes|paladin]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 The holy tactician inspires her allies on the field of battle. Her place is at their side against overwhelming odds, and her guidance brings out their true potential.
 

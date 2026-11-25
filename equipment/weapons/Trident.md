@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/spears, weapon-group/thrown]
 
 # Trident
 
-*Martial one-handed melee weapon.* Cost 15 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Range Increment 10 ft.; Weight 4 lb.; Type Piercing. ^stats
+_Martial one-handed melee weapon._ Cost 15 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Range Increment 10 ft.; Weight 4 lb.; Type Piercing. ^stats
 
 This weapon can be thrown. If you use a ready action to set a trident against a charge, you deal double damage on a successful hit against a charging character.

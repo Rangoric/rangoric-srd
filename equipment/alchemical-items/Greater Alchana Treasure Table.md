@@ -16,12 +16,12 @@ The catalog’s treasure table for this category, by treasure level: roll d% in 
 
 ## Major
 
-| d% | Item |
-|---|---|
-| 01-25 | [[rangoric-srd/equipment/alchemical-items/Alchemist’s Stone\|Alchemist’s Stone]] |
-| 26-40 | [[rangoric-srd/equipment/alchemical-items/Healer’s Stone\|Healer’s Stone]] |
-| 41-65 | [[rangoric-srd/equipment/alchemical-items/Mystic’s Stone\|Mystic’s Stone]] |
+| d%    | Item                                                                                                        |
+| ----- | ----------------------------------------------------------------------------------------------------------- |
+| 01-25 | [[rangoric-srd/equipment/alchemical-items/Alchemist’s Stone\|Alchemist’s Stone]]                            |
+| 26-40 | [[rangoric-srd/equipment/alchemical-items/Healer’s Stone\|Healer’s Stone]]                                  |
+| 41-65 | [[rangoric-srd/equipment/alchemical-items/Mystic’s Stone\|Mystic’s Stone]]                                  |
 | 66-75 | [[rangoric-srd/equipment/alchemical-items/Philosopher’s Stone (Alchemy & Herbalists)\|Philosopher’s Stone]] |
-| 76-00 | [[rangoric-srd/equipment/alchemical-items/Sorcerer’s Stone\|Sorcerer’s Stone]] |
+| 76-00 | [[rangoric-srd/equipment/alchemical-items/Sorcerer’s Stone\|Sorcerer’s Stone]]                              |
 
 The percentages above simply indicate which Stones are more prevalent than others (i.e. which ones more alchemists have succeeded in making). It is highly recommended that you do not drop an Alchana Stone into a campaign without serious thought as to why it is there and the impact it will have on the game.

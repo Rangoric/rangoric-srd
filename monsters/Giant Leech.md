@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Giant Leech
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]] (Aquatic)
-  - **Hit Dice**: 3d8+6 (19 hp)
-  - **Initiative**: +1
-  - **Speed**: 5 ft. (1 square), swim 20 ft.
-  - **Armor Class**: 11 (+1 Dex), touch 11, flat-footed 10
-  - **Base Attack**: +2; **CMB**: +2 (+10 when attached); **CMD**: 13 (can't be tripped)
-  - **Attack**: Bite +2 melee (1d6 plus [[rangoric-srd/monsters/abilities/Attach|attach]])
-  - **Full Attack**: Bite +2 melee (1d6 plus [[rangoric-srd/monsters/abilities/Attach|attach]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, [[rangoric-srd/monsters/abilities/Susceptible to Salt|susceptible to salt]]
-  - **Saves**: Fort +5, Ref +2, Will +1
-  - **Abilities**: Str 11, Dex 12, Con 14, Int —, Wis 10, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +1 (+9 in swamps)
-  - **Feats**: —
-  - **Environment**: Temperate or warm marshes
-  - **Organization**: Cluster, pair, or brood (3–6)
-  - **Challenge Rating**: 2
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]] (Aquatic)
+- **Hit Dice**: 3d8+6 (19 hp)
+- **Initiative**: +1
+- **Speed**: 5 ft. (1 square), swim 20 ft.
+- **Armor Class**: 11 (+1 Dex), touch 11, flat-footed 10
+- **Base Attack**: +2; **CMB**: +2 (+10 when attached); **CMD**: 13 (can't be tripped)
+- **Attack**: Bite +2 melee (1d6 plus [[rangoric-srd/monsters/abilities/Attach|attach]])
+- **Full Attack**: Bite +2 melee (1d6 plus [[rangoric-srd/monsters/abilities/Attach|attach]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, [[rangoric-srd/monsters/abilities/Susceptible to Salt|susceptible to salt]]
+- **Saves**: Fort +5, Ref +2, Will +1
+- **Abilities**: Str 11, Dex 12, Con 14, Int —, Wis 10, Cha 1
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +1 (+9 in swamps)
+- **Feats**: —
+- **Environment**: Temperate or warm marshes
+- **Organization**: Cluster, pair, or brood (3–6)
+- **Challenge Rating**: 2
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 These invertebrate parasitic relatives of the worm lurk in stagnant or slow-moving water, waiting for a suitable host.
 

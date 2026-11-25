@@ -26,4 +26,4 @@ tags: [rangoric, rangoric/magic-item]
 
 These elegant, dark purple robes are usually decorated with gold stitching suggesting a particular sorcerer bloodline, though some might indicate a family tree. When a [[rangoric-srd/classes/Sorcerer|sorcerer]] dons a robe of arcane heritage, the stitching pulls itself apart and reweaves to match her particular sorcerer [[rangoric-srd/classes/Sorcerer#^sorcerer-bloodline|bloodline]]. The wearer treats her sorcerer level as 4 higher than normal for the purpose of determining what [[rangoric-srd/classes/Sorcerer#^sorcerer-bloodline|bloodline powers]] she can use and their effects.
 
-Moderate necromancy; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Speak with Dead|speak with dead]]*, creator must be a [[rangoric-srd/classes/Sorcerer|sorcerer]]; Price 16,000 gp; Cost 8,000 gp; Weight 1 lb.
+Moderate necromancy; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Speak with Dead|speak with dead]]_, creator must be a [[rangoric-srd/classes/Sorcerer|sorcerer]]; Price 16,000 gp; Cost 8,000 gp; Weight 1 lb.

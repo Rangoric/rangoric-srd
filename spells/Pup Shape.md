@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Pup Shape
 
-*Transmutation (Polymorph)*
+_Transmutation (Polymorph)_
 
-  - **Level**: Drd 3, Hun 3, Sor/Wiz 3, Wit 3
-  - **Components**: V, S, M (a rag doll)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One animal or magical beast.
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Fortitude negates (and Will special, see text)
-  - **Spell Resistance**: Yes
+- **Level**: Drd 3, Hun 3, Sor/Wiz 3, Wit 3
+- **Components**: V, S, M (a rag doll)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One animal or magical beast.
+- **Duration**: 1 round/level
+- **Saving Throw**: Fortitude negates (and Will special, see text)
+- **Spell Resistance**: Yes
 
 You transform the subject animal into a Small magical beast, creating a young magical version of itself for a short period of time. While in this form, the target has only 1 HD (maximum hit points), and the target takes a –4 penalty to Strength, Constitution, Intelligence and Wisdom (minimum 1). The creature also gains a +4 size bonus to Dexterity and a +2 natural bonus.
 

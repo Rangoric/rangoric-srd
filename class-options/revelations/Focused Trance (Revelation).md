@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Focused Trance
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Lore Mystery|lore]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Lore Mystery|lore]] mystery._
 
 You can enter a deep meditation, blocking out visual and auditory stimuli and allowing you to concentrate on a single problem, philosophical issue, or memory. This trance lasts 1d6 rounds, during which time you can only take move actions. During this period, you gain a bonus equal to your level on all saves against sonic effects and gaze attacks. When you come out of your trance, you may make a single Intelligence-based skill check with a +20 circumstance bonus. You may enter your focused trance a number of times per day equal to your Charisma modifier.

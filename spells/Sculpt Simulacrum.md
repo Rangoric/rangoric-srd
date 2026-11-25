@@ -25,15 +25,15 @@ tags: [rangoric, rangoric/spell]
 
 # Sculpt Simulacrum
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Psy 2, Sor/Wiz 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Simulacrum touched
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Psy 2, Sor/Wiz 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Simulacrum touched
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
-You create cosmetic changes to a simulacrum, similar to *[[rangoric-srd/spells/Disguise Self|disguise self]]*, except the changes are physical rather than illusory. This does not change any of the simulacrum's abilities.
+You create cosmetic changes to a simulacrum, similar to _[[rangoric-srd/spells/Disguise Self|disguise self]]_, except the changes are physical rather than illusory. This does not change any of the simulacrum's abilities.

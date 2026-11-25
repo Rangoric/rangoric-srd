@@ -48,10 +48,10 @@ That said, drow paragons often see fighters as ideal companions because they com
 
 **Table: The Drow Paragon**
 
-| Level | Special                                                                                                                        | Spells per Day                |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- |
+| Level | Special                                                                                                                        | Spells per Day               |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
 | 1st   | [[#^drow-paragon-improved-spell-like-abilities\|improved spell-like abilities]]                                                | +1 level of cleric or wizard |
-| 2nd   | [[#^drow-paragon-improved-darkvision\|Improved darkvision]] (+30 ft.), [[#^drow-paragon-light-sensitivity\|light sensitivity]] | —                             |
+| 2nd   | [[#^drow-paragon-improved-darkvision\|Improved darkvision]] (+30 ft.), [[#^drow-paragon-light-sensitivity\|light sensitivity]] | —                            |
 | 3rd   | [[#^drow-paragon-ability-boost\|Ability boost]] (Dex +2)                                                                       | +1 level of cleric or wizard |
 
 Drow paragons have the following game statistics.

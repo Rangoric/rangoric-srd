@@ -25,16 +25,16 @@ tags: [rangoric, rangoric/constellation]
 
 # The Twins
 
-*[[rangoric-srd/rules/star magic/Star Magic|Constellation]]*
+_[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 
-  - **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Compassion|Compassion]], [[rangoric-srd/rules/star magic/stars/Star of Oaths|Oaths]]
-  - **Call Level**: 3rd ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: 1 mile/level
-  - **Target**: One creature you have met
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Compassion|Compassion]], [[rangoric-srd/rules/star magic/stars/Star of Oaths|Oaths]]
+- **Call Level**: 3rd ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: 1 mile/level
+- **Target**: One creature you have met
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 You learn the direction and distance to a creature you have met, and its condition: alive or dead, hurt, sick or well, and its mood.

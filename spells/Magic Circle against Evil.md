@@ -36,16 +36,16 @@ tags: [rangoric, rangoric/spell]
 
 # Magic Circle against Evil
 
-*Abjuration \[Good\]*
+_Abjuration \[Good\]_
 
-  - **Level**: Clr 3, Good 3, Inq 3, Med 3, Occ 3, Pal 3, Sha 3, Sor/Wiz 3, Spi 3, Sum 3, SumU 3
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Area**: 10-ft.-radius emanation from touched creature
-  - **Duration**: 10 min./level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: No; see text
+- **Level**: Clr 3, Good 3, Inq 3, Med 3, Occ 3, Pal 3, Sha 3, Sor/Wiz 3, Spi 3, Sum 3, SumU 3
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Area**: 10-ft.-radius emanation from touched creature
+- **Duration**: 10 min./level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: No; see text
 
 All creatures within the area gain the effects of a protection from evil spell, and no nongood summoned creatures can enter the area either. You must overcome a creature’s spell resistance in order to keep it at bay (as in the third function of protection from evil), but the deflection and resistance bonuses and the protection from mental control apply regardless of enemies’ spell resistance.
 
@@ -59,4 +59,4 @@ A successful diagram allows you to cast a dimensional anchor spell on the magic 
 
 This spell is not cumulative with protection from evil and vice versa.
 
-*Arcane Material Component*: A little powdered silver with which you trace a 3-footdiameter circle on the floor (or ground) around the creature to be warded.
+_Arcane Material Component_: A little powdered silver with which you trace a 3-footdiameter circle on the floor (or ground) around the creature to be warded.

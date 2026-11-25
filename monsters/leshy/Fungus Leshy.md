@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Fungus Leshy
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]] (Leshy, Shapechanger)
-  - **Hit Dice**: 2d8+6 (15 hp)
-  - **Initiative**: +2
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 13 (+2 Dex, +1 size), touch 13, flat-footed 11
-  - **Base Attack**: +1; **CMB**: +0; **CMD**: 12
-  - **Attack**: Bite +2 melee (1d6) or claw +2 melee (1d3) or puffball +4 ranged (1 plus [[rangoric-srd/monsters/abilities/Spores (Fungus Leshy)|spores]])
-  - **Full Attack**: Bite +2 melee (1d6) and 2 claws +2 melee (1d3); or puffball +4 ranged (1 plus [[rangoric-srd/monsters/abilities/Spores (Fungus Leshy)|spores]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spores (Fungus Leshy)|Spores]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (Small fungus; tree shape), verdant burst, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and sonic, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-  - **Saves**: Fort +6, Ref +2, Will +2
-  - **Abilities**: Str 10, Dex 15, Con 16, Int 7, Wis 14, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3 (+7 in swamps and underground), [[rangoric-srd/skills/Stealth|Stealth]] +10 (+14 in swamps and underground)
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]]
-  - **Environment**: Any swamp or underground
-  - **Organization**: Solitary or cluster (2–16)
-  - **Challenge Rating**: 2
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]] (Leshy, Shapechanger)
+- **Hit Dice**: 2d8+6 (15 hp)
+- **Initiative**: +2
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 13 (+2 Dex, +1 size), touch 13, flat-footed 11
+- **Base Attack**: +1; **CMB**: +0; **CMD**: 12
+- **Attack**: Bite +2 melee (1d6) or claw +2 melee (1d3) or puffball +4 ranged (1 plus [[rangoric-srd/monsters/abilities/Spores (Fungus Leshy)|spores]])
+- **Full Attack**: Bite +2 melee (1d6) and 2 claws +2 melee (1d3); or puffball +4 ranged (1 plus [[rangoric-srd/monsters/abilities/Spores (Fungus Leshy)|spores]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spores (Fungus Leshy)|Spores]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (Small fungus; tree shape), verdant burst, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and sonic, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
+- **Saves**: Fort +6, Ref +2, Will +2
+- **Abilities**: Str 10, Dex 15, Con 16, Int 7, Wis 14, Cha 15
+- **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3 (+7 in swamps and underground), [[rangoric-srd/skills/Stealth|Stealth]] +10 (+14 in swamps and underground)
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]]
+- **Environment**: Any swamp or underground
+- **Organization**: Solitary or cluster (2–16)
+- **Challenge Rating**: 2
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Keepers of cavernous mushroom forests and rotting compost pits deep within the swamp, fungus leshys preside over subterranean growth and the rot that fertilizes new life. Among the most alien and monstrous-looking of all leshys, these tiny rot farmers' frightening appearance has more to do with the asymmetrical eeriness intrinsic to molds and fungi than an outward expression of evil. Like all their kin, fungus leshys vary widely in form, often adopting the colors and shapes of the mushrooms and other large fungi common to the areas they tend.
 
@@ -73,7 +73,7 @@ Fungus leshys speak Druidic and Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +6): Constant—*[[rangoric-srd/spells/Pass without Trace|pass without trace]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +6): Constant—_[[rangoric-srd/spells/Pass without Trace|pass without trace]]_.
 
 **Puffball (Ex)**: A fungus leshy can spit a puffball as a standard action. If it hits, this attack deals 1 point of damage (this damage is not modified by Strength) and affects the target struck (but not adjacent targets) with the fungus leshy's spores. The puffball has a range increment of 20 feet.
 
@@ -81,4 +81,4 @@ Fungus leshys speak Druidic and Sylvan.
 
 ### Creation
 
-CL 8th; [[rangoric-srd/skills/Nature|Nature]] 5 ranks, *[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]*, *[[rangoric-srd/spells/Plant Growth|plant growth]]*, *[[rangoric-srd/spells/Summon Nature’s Ally II|summon nature's ally II]]*; Skill [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] or [[rangoric-srd/skills/Nature|Nature]] DC 14; Price 2,500 gp; Cost 1,250 gp.
+CL 8th; [[rangoric-srd/skills/Nature|Nature]] 5 ranks, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_, _[[rangoric-srd/spells/Plant Growth|plant growth]]_, _[[rangoric-srd/spells/Summon Nature’s Ally II|summon nature's ally II]]_; Skill [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] or [[rangoric-srd/skills/Nature|Nature]] DC 14; Price 2,500 gp; Cost 1,250 gp.

@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon]
 
 # Smoke Arrow
 
-*Ammunition for bows.* Cost 10 gp; Weight —. ^stats
+_Ammunition for bows._ Cost 10 gp; Weight —. ^stats
 
 This arrow is actually a specially-shaped [[rangoric-srd/equipment/gear/Smokestick|smokestick]] that can be fired from a bow. It trails smoke as it flies, and creates a 5-foot cube of smoke where it strikes. It otherwise functions like a normal arrow in terms of damage, range, and so on.

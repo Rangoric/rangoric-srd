@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Draining Weapon
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “draining weapon”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “draining weapon”, on the Special Attacks line.
 
 A thanadaemon's energy drain attack functions through any melee weapon it wields. The [[rangoric-srd/monsters/daemons/Thanadaemon|thanadaemon]] has it.

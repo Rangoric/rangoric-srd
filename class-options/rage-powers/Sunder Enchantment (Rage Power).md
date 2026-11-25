@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Sunder Enchantment
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su)._
 
 While raging, whenever the barbarian succeeds at a [[rangoric-srd/combat/Combat Maneuvers|sunder]] combat maneuver on a magical item, that item’s magical abilities are suppressed for 1 round, plus 1 round for every 5 points by which her combat maneuver check exceeded the target’s CMD.
 

@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Conjuration Foil
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Brd 4, Mag 3, Med 4, Occ 4, Psy 4, Skd 4, Sor/Wiz 4, Spi 4, Sum 3, SumU 3, Wit 4
-  - **Components**: S
-  - **Casting Time**: 1 immediate action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Area**: 20-foot radius spread
-  - **Duration**: 1 round(s)
-  - **Saving Throw**: Will partial (see text)
-  - **Spell Resistance**: Yes
+- **Level**: Brd 4, Mag 3, Med 4, Occ 4, Psy 4, Skd 4, Sor/Wiz 4, Spi 4, Sum 3, SumU 3, Wit 4
+- **Components**: S
+- **Casting Time**: 1 immediate action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Area**: 20-foot radius spread
+- **Duration**: 1 round(s)
+- **Saving Throw**: Will partial (see text)
+- **Spell Resistance**: Yes
 
 All creatures in the area gain a +4 bonus on saving throws against teleportation effects. If any creature would enter or depart the area via a summoning or teleportation effect, that creature takes 1d6 points of damage per spell level of the triggering effect (or half the HD of the originating creature if the effect has no spell level) and arrives in a random similar location within the triggering effect's range, rather than the intended destination. A successful Will save halves the damage and negates the altered destination.

@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Transcendental Bond
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Nature Mystery|nature]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Nature Mystery|nature]] mystery._
 
-You become so attuned to the common spirit shared by all living things that you can use it to communicate with allies. You may communicate with your allies for a number of rounds per day equal to your oracle level as if using *[[rangoric-srd/spells/Telepathic Bond|telepathic bond]]*. You may designate a number of creatures as your ally equal to your Charisma modifier. Designating a creature is a standard action that requires a touch. At 10th level, you may use this bond to cast a touch spell on a designated ally once per day.
+You become so attuned to the common spirit shared by all living things that you can use it to communicate with allies. You may communicate with your allies for a number of rounds per day equal to your oracle level as if using _[[rangoric-srd/spells/Telepathic Bond|telepathic bond]]_. You may designate a number of creatures as your ally equal to your Charisma modifier. Designating a creature is a standard action that requires a touch. At 10th level, you may use this bond to cast a touch spell on a designated ally once per day.

@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Concentrate
 
-*A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Ex).*
+_A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Ex)._
 
 The magus can reroll any [[rangoric-srd/rules/Concentration (Check)|concentration check]] he has just made with a +4 bonus. He must use this ability after the roll is made, but before the roll’s outcome is determined. The magus must take the second roll, even if it is worse. The magus can use this ability once per day.

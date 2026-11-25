@@ -28,9 +28,9 @@ Used on magically or alchemically powered airships and on any fast-moving water 
 
 ### Material
 
-| Material | Hit Points per Square | Hardness |
-| --- | --- | --- |
-| Sails | 5 | 0 |
-| Dirigible | 5 | 0 |
-| Alchemical Engine | 20 | 8 |
-| Magically Treated | ×2 | ×2 |
+| Material          | Hit Points per Square | Hardness |
+| ----------------- | --------------------- | -------- |
+| Sails             | 5                     | 0        |
+| Dirigible         | 5                     | 0        |
+| Alchemical Engine | 20                    | 8        |
+| Magically Treated | ×2                    | ×2       |

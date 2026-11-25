@@ -27,10 +27,10 @@ tags: [rangoric, rangoric/spell]
 
 # Hold Animal
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Animal 2, Drd 2, Hun 2, Mes 2, Psy 2, Rgr 2, Tot 2
-  - **Components**: V, S
-  - **Target**: One animal
+- **Level**: Animal 2, Drd 2, Hun 2, Mes 2, Psy 2, Rgr 2, Tot 2
+- **Components**: V, S
+- **Target**: One animal
 
 This spell functions like [[rangoric-srd/spells/Hold Person|hold person]], except that it affects an animal instead of a humanoid.

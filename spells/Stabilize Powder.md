@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Stabilize Powder
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Sor/Wiz 2, Wit 2
-  - **Components**: V, S, M (a few drops of liquor)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: 1 loaded firearm
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates (harmless, object)
-  - **Spell Resistance**: Yes (harmless, object)
+- **Level**: Sor/Wiz 2, Wit 2
+- **Components**: V, S, M (a few drops of liquor)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: 1 loaded firearm
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates (harmless, object)
+- **Spell Resistance**: Yes (harmless, object)
 
 Ammunition currently loaded in the target [[rangoric-srd/equipment/Firearms|firearm]] is less prone to [[rangoric-srd/equipment/Firearms#Misfires|misfire]]. Decrease the misfire range by 1 + 1 per five caster levels (maximum +5, minimum misfire 0) for the ammunition currently loaded into that firearm.

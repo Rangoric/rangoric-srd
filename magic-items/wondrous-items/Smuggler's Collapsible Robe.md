@@ -27,4 +27,4 @@ While inside the extradimensional space, the wearer cannot take most actions, bu
 
 If the robe is destroyed or its magic suppressed while the wearer is within the extradimensional space, or if he spends 24 hours within it, he and all objects inside reappear instantaneously in the robe's space, and the wearer is [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for one round.
 
-Moderate conjuration; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Secret Chest|secret chest]]*, *[[rangoric-srd/spells/Magic Aura|magic aura]]*, *[[rangoric-srd/spells/Arcane Eye|arcane eye]]*; Price 48,000 gp; Cost 24,000 gp; Weight 1 lb.
+Moderate conjuration; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Secret Chest|secret chest]]_, _[[rangoric-srd/spells/Magic Aura|magic aura]]_, _[[rangoric-srd/spells/Arcane Eye|arcane eye]]_; Price 48,000 gp; Cost 24,000 gp; Weight 1 lb.

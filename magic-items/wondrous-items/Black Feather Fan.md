@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Black Feather Fan
 
-This elaborate fan is made with a dozen black feathers set into a metal handle embossed with a stylized crest. The bearer can use it to create a *[[rangoric-srd/spells/Gust of Wind|gust of wind]]*, *[[rangoric-srd/spells/Whispering Wind|whispering wind]]*, or *[[rangoric-srd/spells/Wind Wall|wind wall]]*. The fan's effects can be used 3 times per day, in any combination.
+This elaborate fan is made with a dozen black feathers set into a metal handle embossed with a stylized crest. The bearer can use it to create a _[[rangoric-srd/spells/Gust of Wind|gust of wind]]_, _[[rangoric-srd/spells/Whispering Wind|whispering wind]]_, or _[[rangoric-srd/spells/Wind Wall|wind wall]]_. The fan's effects can be used 3 times per day, in any combination.
 
-Faint evocation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Gust of Wind|gust of wind]]*, *[[rangoric-srd/spells/Whispering Wind|whispering wind]]*, *[[rangoric-srd/spells/Wind Wall|wind wall]]*; Price 10,000 gp; Cost 5,000 gp; Weight 1 lb.
+Faint evocation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Gust of Wind|gust of wind]]_, _[[rangoric-srd/spells/Whispering Wind|whispering wind]]_, _[[rangoric-srd/spells/Wind Wall|wind wall]]_; Price 10,000 gp; Cost 5,000 gp; Weight 1 lb.

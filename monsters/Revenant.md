@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Revenant
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 9d8+36 (76 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 19 (+3 Dex, +6 natural), touch 13, flat-footed 16
-  - **Base Attack**: +6; **CMB**: +13 (+17 grapple); **CMD**: 26
-  - **Attack**: Claw +14 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: 2 claws +14 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Baleful Shriek|Baleful shriek]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] (1d6+7)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Sense Murderer|sense murderer]], [[rangoric-srd/monsters/abilities/Reason to Hate|reason to hate]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17, [[rangoric-srd/monsters/abilities/Self-Loathing|self-loathing]]
-  - **Saves**: Fort +7, Ref +6, Will +7
-  - **Abilities**: Str 24, Dex 17, Con —, Int 7, Wis 12, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +13
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
-  - **Environment**: Any land
-  - **Organization**: Solitary
-  - **Challenge Rating**: 6
-  - **Treasure**: Standard
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 9d8+36 (76 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 19 (+3 Dex, +6 natural), touch 13, flat-footed 16
+- **Base Attack**: +6; **CMB**: +13 (+17 grapple); **CMD**: 26
+- **Attack**: Claw +14 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: 2 claws +14 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Baleful Shriek|Baleful shriek]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] (1d6+7)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Sense Murderer|sense murderer]], [[rangoric-srd/monsters/abilities/Reason to Hate|reason to hate]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17, [[rangoric-srd/monsters/abilities/Self-Loathing|self-loathing]]
+- **Saves**: Fort +7, Ref +6, Will +7
+- **Abilities**: Str 24, Dex 17, Con —, Int 7, Wis 12, Cha 19
+- **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +13
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
+- **Environment**: Any land
+- **Organization**: Solitary
+- **Challenge Rating**: 6
+- **Treasure**: Standard
+- **Alignment**: Usually lawful evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Fueled by hatred and a need for vengeance, a revenant rises from the grave to hunt and kill its murderer. Devoid of any compassion, emotion, or logic, a revenant has but one purpose, and cannot rest until it has found vengeance.
 

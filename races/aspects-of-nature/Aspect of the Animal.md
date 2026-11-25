@@ -28,10 +28,10 @@ Those who chose to follow the Aspect of the Animal defend all the creatures of N
 
 How these effects work is in [[rangoric-srd/races/aspects-of-nature/Aspects of Nature#Aspect of Nature Effects|Aspect of Nature Effects]].
 
-| Facet | Bonus | Penalty |
-| --- | --- | --- |
-| The Bird | +1 to Reflex saving throws | -1 to Fortitude saving throws |
-| The Insect | +1 to AC 3x/day | -1 to Damage rolls 3x/day |
-| The Mammal | +1 to Damage rolls 3x/day | -1 to Attack rolls 3x/day |
-| The Reptile | +1 to AC 3x/day | -1 to Attack rolls 3x/day |
-| The Rodent | +1 to Reflex saving throws | -1 to Will saving throws |
+| Facet       | Bonus                      | Penalty                       |
+| ----------- | -------------------------- | ----------------------------- |
+| The Bird    | +1 to Reflex saving throws | -1 to Fortitude saving throws |
+| The Insect  | +1 to AC 3x/day            | -1 to Damage rolls 3x/day     |
+| The Mammal  | +1 to Damage rolls 3x/day  | -1 to Attack rolls 3x/day     |
+| The Reptile | +1 to AC 3x/day            | -1 to Attack rolls 3x/day     |
+| The Rodent  | +1 to Reflex saving throws | -1 to Will saving throws      |

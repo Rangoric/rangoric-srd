@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/weapon, weapon-group/close]
 
 # Sap
 
-*Martial light melee weapon (nonlethal).* Cost 1 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 2 lb.; Type Bludgeoning. ^stats
+_Martial light melee weapon (nonlethal)._ Cost 1 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 2 lb.; Type Bludgeoning. ^stats

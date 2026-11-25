@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Wax Golem
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
-  - **Hit Dice**: 4d10+20 (42 hp)
-  - **Initiative**: –1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 15 (–1 Dex, +6 natural), touch 9, flat-footed 15
-  - **Base Attack**: +4; **CMB**: +6; **CMD**: 15
-  - **Attack**: Slam +6 melee (1d6+3)
-  - **Full Attack**: Slam +6 melee (1d6+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Conditional Sentience|conditional sentience]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], vulnerable to fire
-  - **Saves**: Fort +1, Ref +0, Will +1
-  - **Abilities**: Str 14, Dex 9, Con —, Int —, Wis 11, Cha 1
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Any
-  - **Organization**: Solitary or gang (2–4)
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
+- **Hit Dice**: 4d10+20 (42 hp)
+- **Initiative**: –1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 15 (–1 Dex, +6 natural), touch 9, flat-footed 15
+- **Base Attack**: +4; **CMB**: +6; **CMD**: 15
+- **Attack**: Slam +6 melee (1d6+3)
+- **Full Attack**: Slam +6 melee (1d6+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Conditional Sentience|conditional sentience]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], vulnerable to fire
+- **Saves**: Fort +1, Ref +0, Will +1
+- **Abilities**: Str 14, Dex 9, Con —, Int —, Wis 11, Cha 1
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Any
+- **Organization**: Solitary or gang (2–4)
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A wax golem is an exact replica of a particular person, composed completely of wax. While skilled artists pride themselves on their ability to make wax sculptures look lifelike, builders of wax golems go one step further and actually bring their art to life. Though eerily silent and unblinking, well-built wax golems bear such striking similarity to the subjects they are modeled after that some golems begin to think they are in fact that person.
 
@@ -72,11 +72,11 @@ A wax golem can be constructed to resemble any person or creature.
 
 **Immunity to Magic (Ex)**: A wax golem is immune to any spell or spell-like ability that allows spell resistance, with the exception of spells and spell-like abilities that have the fire descriptor. In addition, certain spells and effects function differently against the creature, as noted below.
 
-- A magical attack that deals fire damage slows a wax golem (as the *[[rangoric-srd/spells/Slow|slow]]* spell) for 2d6 rounds (no save). In addition, for 3 rounds after taking fire damage, every time a wax golem uses its slam attack, it deals an additional 1d4 points of fire damage due to its molten wax.
-- A magical attack that deals cold damage breaks any *[[rangoric-srd/spells/Slow|slow]]* effect on the golem and heals 1 point of damage for each 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A wax golem gains no saving throw against cold effects.
+- A magical attack that deals fire damage slows a wax golem (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 2d6 rounds (no save). In addition, for 3 rounds after taking fire damage, every time a wax golem uses its slam attack, it deals an additional 1d4 points of fire damage due to its molten wax.
+- A magical attack that deals cold damage breaks any _[[rangoric-srd/spells/Slow|slow]]_ effect on the golem and heals 1 point of damage for each 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A wax golem gains no saving throw against cold effects.
 
 ### Construction
 
 The construction of a wax golem requires a block of solid wax that weights at least 1,000 pounds.
 
-CL 9th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Animate Objects|animate objects]]*, *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, *[[rangoric-srd/spells/Limited Wish|limited wish]]*, *[[rangoric-srd/spells/Silent Image|silent image]]*, creator must be caster level 9th; Skill [[rangoric-srd/skills/Craft|Craft]] (sculptures) DC 18 (DC 25 if the creator wants the golem to look like a member of a particular race; DC 30 if the creator wants the golem to look like a specific individual); Price 14,000 gp; Cost 7,000 gp.
+CL 9th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Objects|animate objects]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Silent Image|silent image]]_, creator must be caster level 9th; Skill [[rangoric-srd/skills/Craft|Craft]] (sculptures) DC 18 (DC 25 if the creator wants the golem to look like a member of a particular race; DC 30 if the creator wants the golem to look like a specific individual); Price 14,000 gp; Cost 7,000 gp.

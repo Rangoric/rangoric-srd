@@ -43,17 +43,17 @@ Bonus Languages:
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 20 years | +1d6 | +2d6 | +3d6 |
+| --------- | --------- | ----------- | ------- |
+| 20 years  | +1d6      | +2d6        | +3d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 62 years | 93 years | 125 years | +3d20 years |
+| Middle Age | Old      | Venerable | Maximum Age |
+| ---------- | -------- | --------- | ----------- |
+| 62 years   | 93 years | 125 years | +3d20 years |
 
-| Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 4 ft. 10 in. | +2d10 | 120 lb. | × 5 lb. |
-| Female | 4 ft. 5 in. | +2d10 | 85 lb. | × 5 lb. |
+| Gender | Base Height  | Height Modifier | Base Weight | Weight Modifier |
+| ------ | ------------ | --------------- | ----------- | --------------- |
+| Male   | 4 ft. 10 in. | +2d10           | 120 lb.     | × 5 lb.         |
+| Female | 4 ft. 5 in.  | +2d10           | 85 lb.      | × 5 lb.         |
 
 ### Description
 
@@ -63,11 +63,11 @@ Gillmen are the remnants of a race of surface-dwelling humanoids whose homeland 
 
 A gillman can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Riverfolk\|Riverfolk]] | Water dependent |
-| [[rangoric-srd/races/racial-traits/Slimehunter\|Slimehunter]] | Enchantment resistance |
-| [[rangoric-srd/races/racial-traits/Throwback\|Throwback]] | Aquatic, amphibious, the swim speed and water dependent |
+| Trait                                                         | Replaces                                                |
+| ------------------------------------------------------------- | ------------------------------------------------------- |
+| [[rangoric-srd/races/racial-traits/Riverfolk\|Riverfolk]]     | Water dependent                                         |
+| [[rangoric-srd/races/racial-traits/Slimehunter\|Slimehunter]] | Enchantment resistance                                  |
+| [[rangoric-srd/races/racial-traits/Throwback\|Throwback]]     | Aquatic, amphibious, the swim speed and water dependent |
 
 ### Class Bonuses
 
@@ -79,6 +79,6 @@ A gillman gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
+| Archetype                                                                                    | Class                                 |
+| -------------------------------------------------------------------------------------------- | ------------------------------------- |
 | [[rangoric-srd/class-options/archetypes/rogue/Eldritch Raider (Archetype)\|Eldritch Raider]] | [[rangoric-srd/classes/Rogue\|Rogue]] |

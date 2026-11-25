@@ -18,8 +18,8 @@ tags: [rangoric, rangoric/spell]
 
 # Cure Serious Wounds, Mass
 
-*Conjuration (Healing)*
+_Conjuration (Healing)_
 
-  - **Level**: Clr 7, Drd 8, Sha 7, Wit 8
+- **Level**: Clr 7, Drd 8, Sha 7, Wit 8
 
 This spell functions like [[rangoric-srd/spells/Cure Light Wounds, Mass|mass cure light wounds]], except that it cures 3d8 points of damage +1 point per caster level (maximum +35).

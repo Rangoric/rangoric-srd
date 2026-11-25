@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Suffocating Arrow
 
-When one of these green, sticky *+1 arrows* strikes its target, it deals nonlethal damage only and can affect only creatures that breathe and have a single head. As the *suffocating arrow* strikes, a small green glob of sticky paste explodes from the arrowhead, striking the target’s face (or wherever its breathing orifice is located) instantly hardening in place. The target must hold its breath or begin to suffocate.
+When one of these green, sticky _+1 arrows_ strikes its target, it deals nonlethal damage only and can affect only creatures that breathe and have a single head. As the _suffocating arrow_ strikes, a small green glob of sticky paste explodes from the arrowhead, striking the target’s face (or wherever its breathing orifice is located) instantly hardening in place. The target must hold its breath or begin to suffocate.
 
 The hardened paste can be removed with a successful Strength check (DC 25) or by dealing at least 10 points of damage to it. However, dealing damage to the paste deals an equal amount of damage to the suffocating creature. The paste dissolves into nothingness on its own after 1 hour.
 

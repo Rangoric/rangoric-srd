@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Manananggal
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 10d8+40 (85 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares), fly 100 ft. (good)
-  - **Armor Class**: 20 (+3 Dex, +1 dodge, +6 natural), touch 14, flat-footed 16
-  - **Base Attack**: +7; **CMB**: +11 (+15 grapple); **CMD**: 25
-  - **Attack**: Bite +11 melee (1d8+4) or claw +12 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +11 melee (1d8+4) and 2 claws +12 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d2 Constitution), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Separate|separate]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good or silver, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]], [[rangoric-srd/monsters/abilities/Vulnerable to Light Blades|vulnerable to light blades]]
-  - **Saves**: Fort +7, Ref +8, Will +10
-  - **Abilities**: Str 19, Dex 17, Con —, Int 12, Wis 16, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Imitation|Imitation]] +17, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Theology|Theology]] +11
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claws), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
-  - **Environment**: Any land
-  - **Organization**: Solitary or pack (2–6)
-  - **Challenge Rating**: 7
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 10d8+40 (85 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares), fly 100 ft. (good)
+- **Armor Class**: 20 (+3 Dex, +1 dodge, +6 natural), touch 14, flat-footed 16
+- **Base Attack**: +7; **CMB**: +11 (+15 grapple); **CMD**: 25
+- **Attack**: Bite +11 melee (1d8+4) or claw +12 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +11 melee (1d8+4) and 2 claws +12 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d2 Constitution), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Separate|separate]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good or silver, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]], [[rangoric-srd/monsters/abilities/Vulnerable to Light Blades|vulnerable to light blades]]
+- **Saves**: Fort +7, Ref +8, Will +10
+- **Abilities**: Str 19, Dex 17, Con —, Int 12, Wis 16, Cha 19
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Imitation|Imitation]] +17, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Theology|Theology]] +11
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claws), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
+- **Environment**: Any land
+- **Organization**: Solitary or pack (2–6)
+- **Challenge Rating**: 7
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Horrid undead, manananggals walk among the living by day and prey upon them at night. These creatures delight in spreading fear and distrust. By day, they tend to stay inside because of their light sensitivity. They mask this odd behavior by either living just outside villages as reclusive hermits or by obtaining roles within the community that explain away or justify their eccentricities.
 
@@ -71,7 +71,7 @@ Manananggals speak Abyssal and Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +13): At will—*[[rangoric-srd/spells/Bleed|bleed]]* (DC 14), *[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Touch of Fatigue|touch of fatigue]]* (DC 14); 3/day—*[[rangoric-srd/spells/Darkness|darkness]]*, *[[rangoric-srd/spells/Deep Slumber|deep slumber]]* (DC 17), *[[rangoric-srd/spells/Fear|fear]]* (DC 18).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +13): At will—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 14), _[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Touch of Fatigue|touch of fatigue]]_ (DC 14); 3/day—_[[rangoric-srd/spells/Darkness|darkness]]_, _[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (DC 17), _[[rangoric-srd/spells/Fear|fear]]_ (DC 18).
 
 **[[rangoric-srd/monsters/abilities/Separate|Separate]] (Su)**: During the day, a manananggal looks like a living human woman. She does not detect as undead during the day, but is still an undead creature. At night, her upper torso rips away (this is a full round action that occurs at sunset), leaving her lower torso behind. Her lower torso is [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]], but her upper torso gains its fly speed and natural attacks at this time. The upper and lower portions share the same pool of hit points (despite any intervening distance), and if the helpless lower portion is damaged, the manananggal is immediately aware of the attack. Since manananggals can be destroyed by damage to their lower bodies, they prefer to hide their lower torsos when separated. A manananggal must return to its lower torso and reattach to it (a full-round action) within the hour before sunrise—each round a manananggal remains separated after sunrise, it takes 1d6 points of damage until it rejoins its lower torso or it crumbles into dust.
 

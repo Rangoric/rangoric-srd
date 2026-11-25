@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Hypnalis
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar)
-  - **Hit Dice**: 7d10+21 (59 hp)
-  - **Initiative**: +6
-  - **Speed**: 40 ft. (8 squares), fly 60 ft. (good)
-  - **Armor Class**: 17 (+2 Dex, +5 natural), touch 12, flat-footed 15
-  - **Base Attack**: +7; **CMB**: +13 (+17 grapple); **CMD**: 25 (can't be tripped)
-  - **Attack**: Bite +13 melee (1d6+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: Bite +13 melee (1d6+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d6+9), [[rangoric-srd/monsters/abilities/Poison|poison]], sneak attack +2d6
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Ghost Touch Fangs|ghost touch fangs]], [[rangoric-srd/monsters/abilities/Phasing (Hypnalis)|phasing]]
-  - **Saves**: Fort +5, Ref +7, Will +6
-  - **Abilities**: Str 22, Dex 15, Con 16, Int 7, Wis 13, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +15
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Shadow Strike|Shadow Strike]]
-  - **Environment**: Any (Ethereal Plane)
-  - **Organization**: Solitary, pair, or nest (3–7)
-  - **Challenge Rating**: 5
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar)
+- **Hit Dice**: 7d10+21 (59 hp)
+- **Initiative**: +6
+- **Speed**: 40 ft. (8 squares), fly 60 ft. (good)
+- **Armor Class**: 17 (+2 Dex, +5 natural), touch 12, flat-footed 15
+- **Base Attack**: +7; **CMB**: +13 (+17 grapple); **CMD**: 25 (can't be tripped)
+- **Attack**: Bite +13 melee (1d6+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: Bite +13 melee (1d6+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d6+9), [[rangoric-srd/monsters/abilities/Poison|poison]], sneak attack +2d6
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Ghost Touch Fangs|ghost touch fangs]], [[rangoric-srd/monsters/abilities/Phasing (Hypnalis)|phasing]]
+- **Saves**: Fort +5, Ref +7, Will +6
+- **Abilities**: Str 22, Dex 15, Con 16, Int 7, Wis 13, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +15
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Shadow Strike|Shadow Strike]]
+- **Environment**: Any (Ethereal Plane)
+- **Organization**: Solitary, pair, or nest (3–7)
+- **Challenge Rating**: 5
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Sometimes called an ether serpent, a hypnalis resembles a snake the size of a python sporting a hood like that of a cobra with gray stripes. The creature's fangs carry a potent venom that is not only deadly, but can force creatures off the Ethereal Plane. While other denizens of the Ethereal Plane focus their attention on warring with each other, spying on others, or feeding on dreams, a hypnalis hunts those not native to its plane.
 

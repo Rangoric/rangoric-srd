@@ -27,14 +27,14 @@ tags: [rangoric, rangoric/spell]
 
 # Arcane Sight
 
-*Divination*
+_Divination_
 
-  - **Level**: Alc 3, Inq 3, Mag 3, Occ 3, Psy 3, Sor/Wiz 3, Wit 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 min./level (D)
+- **Level**: Alc 3, Inq 3, Mag 3, Occ 3, Psy 3, Sor/Wiz 3, Wit 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 min./level (D)
 
 This spell makes your eyes glow blue and allows you to see magical auras within 120 feet of you. The effect is similar to that of a detect magic spell, but arcane sight does not require concentration and discerns aura location and power more quickly.
 

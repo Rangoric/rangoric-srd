@@ -51,18 +51,18 @@ The black alchemist’s class skills (and the key ability for each skill) are [[
 
 **Table: The Black Alchemist** ^table-the-black-alchemist
 
-| Level | Special | Spells per Day |
-| --- | --- | --- |
-| 1st | Enhanced illusions | +1 level of existing class |
-| 2nd | [[rangoric-srd/feats/Craft Chymicals\|Craft Chymicals]] | +1 level of existing class |
-| 3rd | Enhanced transmutations | +1 level of existing class |
-| 4th | [[rangoric-srd/feats/Create Alchana\|Create Alchana]] | +1 level of existing class |
-| 5th | — | +1 level of existing class |
-| 6th | [[rangoric-srd/feats/Perfect Materials\|Perfect Materials]] | +1 level of existing class |
-| 7th | — | +1 level of existing class |
-| 8th | [[rangoric-srd/feats/Create Greater Alchana\|Create Greater Alchana]] | +1 level of existing class |
-| 9th | — | +1 level of existing class |
-| 10th | [[rangoric-srd/feats/Craft Magic Arms and Armor\|Craft Magic Arms and Armor]] | +1 level of existing class |
+| Level | Special                                                                       | Spells per Day             |
+| ----- | ----------------------------------------------------------------------------- | -------------------------- |
+| 1st   | Enhanced illusions                                                            | +1 level of existing class |
+| 2nd   | [[rangoric-srd/feats/Craft Chymicals\|Craft Chymicals]]                       | +1 level of existing class |
+| 3rd   | Enhanced transmutations                                                       | +1 level of existing class |
+| 4th   | [[rangoric-srd/feats/Create Alchana\|Create Alchana]]                         | +1 level of existing class |
+| 5th   | —                                                                             | +1 level of existing class |
+| 6th   | [[rangoric-srd/feats/Perfect Materials\|Perfect Materials]]                   | +1 level of existing class |
+| 7th   | —                                                                             | +1 level of existing class |
+| 8th   | [[rangoric-srd/feats/Create Greater Alchana\|Create Greater Alchana]]         | +1 level of existing class |
+| 9th   | —                                                                             | +1 level of existing class |
+| 10th  | [[rangoric-srd/feats/Craft Magic Arms and Armor\|Craft Magic Arms and Armor]] | +1 level of existing class |
 
 ###### Class Features
 
@@ -74,11 +74,11 @@ All of the following are class features of the black alchemist prestige class.
 
 **Bonus Feats**: At every even level, black alchemists gain a bonus item creation feat tied to their specialties: 2nd, [[rangoric-srd/feats/Craft Chymicals|Craft Chymicals]]; 4th, [[rangoric-srd/feats/Create Alchana|Create Alchana]]; 6th, [[rangoric-srd/feats/Perfect Materials|Perfect Materials]]; 8th, [[rangoric-srd/feats/Create Greater Alchana|Create Greater Alchana]]; 10th, [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]]. If the character does not meet the prerequisites for the feat, it cannot be used until they are met (a character may have knowledge of [[rangoric-srd/feats/Create Alchana|Create Alchana]] but cannot use it until she gains [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], etc.) ^black-alchemist-bonus-feats
 
-*Important:* These feats are in addition to the feats a character of any class gets as she rises in level. The black alchemist is not limited to the list given here when choosing those feats.
+_Important:_ These feats are in addition to the feats a character of any class gets as she rises in level. The black alchemist is not limited to the list given here when choosing those feats.
 
 **Enhanced Spellcraft**: Due to the black alchemist’s deep understanding of matter and materials, he can gain benefits in spellcasting. ^black-alchemist-enhanced-spellcraft
 
-- *Enhanced Illusions*: At 1st level, illusory images of inanimate objects are more sharply defined and focused. Saving throw DCs are at +5 versus an opponent’s disbelief or saves. ^black-alchemist-enhanced-illusions
-- *Enhanced Transmutations*: At 3rd level, due to the intensive knowledge on matter gained, the alchemist can boost the integrity of transmutations done via spells. Saving throw DCs are at +1 per two class levels for all transmutation spells cast by the black alchemist. The alchemist gains a +1 insight bonus toward spell resistances in the same manner as spell DCs. ^black-alchemist-enhanced-transmutations
+- _Enhanced Illusions_: At 1st level, illusory images of inanimate objects are more sharply defined and focused. Saving throw DCs are at +5 versus an opponent’s disbelief or saves. ^black-alchemist-enhanced-illusions
+- _Enhanced Transmutations_: At 3rd level, due to the intensive knowledge on matter gained, the alchemist can boost the integrity of transmutations done via spells. Saving throw DCs are at +1 per two class levels for all transmutation spells cast by the black alchemist. The alchemist gains a +1 insight bonus toward spell resistances in the same manner as spell DCs. ^black-alchemist-enhanced-transmutations
 
 **Note on Stonecrafting**: Given the highly focused attention put to inanimate matter, the black alchemist can only create the following Alchana Stones using [[rangoric-srd/feats/Create Greater Alchana|Create Greater Alchana]]: [[rangoric-srd/equipment/alchemical-items/Alchemist’s Stone|Alchemist’s Stone]], [[rangoric-srd/equipment/alchemical-items/Mystic’s Stone|Mystic’s Stone]], [[rangoric-srd/equipment/alchemical-items/Philosopher’s Stone (Alchemy & Herbalists)|Philosopher’s Stone]] (the Five Stones are alchemy’s greater alchana; see [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Alchana|Alchana]]). ^black-alchemist-stonecrafting

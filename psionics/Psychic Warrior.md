@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/overview]
 
 ### Psychic Warrior
 
-Alignment: Any.  
+Alignment: Any.
 
 Hit Die: d8.
 
@@ -27,13 +27,13 @@ Hit Die: d8.
 
 ###### Class Skills
 
-The psychic warrior’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Meditation|Meditation]]\* (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Psionics (Skill)|Psionics]]\* (Int), and [[rangoric-srd/skills/Tactics|Tactics]] (Int).  
+The psychic warrior’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Meditation|Meditation]]\* (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Psionics (Skill)|Psionics]]\* (Int), and [[rangoric-srd/skills/Tactics|Tactics]] (Int).
 
 \*New skill or expanded use of existing skill.
 
 Skill Points at Each Level: 2 + Int modifier.
 
-Table: The Psychic Warrior  
+Table: The Psychic Warrior
 
 | Level | Special    | Power Points/Day | Powers Known | Maximum Power Level Known |
 | ----- | ---------- | ---------------- | ------------ | ------------------------- |
@@ -51,18 +51,18 @@ Table: The Psychic Warrior
 | 12th  | -          | 43               | 12           | 4th                       |
 | 13th  | -          | 51               | 13           | 5th                       |
 | 14th  | Bonus feat | 59               | 14           | 5th                       |
-| 15th  | -         | 67               | 15           | 5th                       |
+| 15th  | -          | 67               | 15           | 5th                       |
 | 16th  | -          | 79               | 16           | 6th                       |
 | 17th  | Bonus feat | 91               | 17           | 6th                       |
 | 18th  | -          | 103              | 18           | 6th                       |
 | 19th  | -          | 115              | 19           | 6th                       |
 | 20th  | Bonus feat | 127              | 20           | 6th                       |
 
-\*The psychic warrior gains no power points from his class at 1st level. However, he does add any bonus power points he gains from a high Wisdom score, his race, and feats or other sources to his reserve. He can use these points (if any) to manifest his power.   
+\*The psychic warrior gains no power points from his class at 1st level. However, he does add any bonus power points he gains from a high Wisdom score, his race, and feats or other sources to his reserve. He can use these points (if any) to manifest his power.
 
 ###### Class Features
 
-All the following are class features of the psychic warrior.  
+All the following are class features of the psychic warrior.
 
 Weapon and Armor Proficiency: Psychic warriors are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields).
 
@@ -77,5 +77,5 @@ The Difficulty Class for saving throws against psychic warrior powers is 10 + th
 Maximum Power Level Known: A psychic warrior begins play with the ability to learn 1st-level powers. As he attains higher levels, he may gain the ability to master more complex powers.  
 To learn or manifest a power, a psychic warrior must have a Wisdom score of at least 10 + the power’s level.
 
-Bonus Feats: At 1st level, a psychic warrior gets a bonus combat-oriented feat in addition to the feat that any 1st level character gets and the bonus feat granted to a human character. The psychic warrior gains an additional bonus feat at 2nd level and every three levels thereafter (5th, 8th, 11th, 14th, 17th, and 20th). These bonus feats must be [[rangoric-srd/feats/Feats Overview#Fighter Bonus Feats|fighter bonus feats]] or [[rangoric-srd/psionics/Psionic Feats|psionic feats]] (the tags *fighter-bonus* and *psionic*). The psychic warrior must still meet all prerequisites for the bonus feat, including ability score and base attack bonus minimums as well as class requirements. A psychic warrior cannot choose feats that specifically require levels in the fighter class unless he is a multiclass character with the requisite levels in the fighter class.  
+Bonus Feats: At 1st level, a psychic warrior gets a bonus combat-oriented feat in addition to the feat that any 1st level character gets and the bonus feat granted to a human character. The psychic warrior gains an additional bonus feat at 2nd level and every three levels thereafter (5th, 8th, 11th, 14th, 17th, and 20th). These bonus feats must be [[rangoric-srd/feats/Feats Overview#Fighter Bonus Feats|fighter bonus feats]] or [[rangoric-srd/psionics/Psionic Feats|psionic feats]] (the tags _fighter-bonus_ and _psionic_). The psychic warrior must still meet all prerequisites for the bonus feat, including ability score and base attack bonus minimums as well as class requirements. A psychic warrior cannot choose feats that specifically require levels in the fighter class unless he is a multiclass character with the requisite levels in the fighter class.  
 These bonus feats are in addition to the feats that a character of any class gains every three levels. A psychic warrior is not limited to fighter bonus feats and psionic feats when choosing these other feats.

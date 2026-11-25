@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This magical item appears to be an old and decaying scepter, with empty sockets for gemstones and rusted iron bands holding its rotting wooden shaft together. Three times per day on command, when the wielder touches the rod to a nonmagical, inanimate object, that object decays, cracks, and withers. The object, which can be no larger than a door or must take up no more than a 5-foot-by-5-foot area, gains the [[rangoric-srd/rules/conditions/Broken (Condition)|broken]] condition.
 
-Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Rod|Craft Rod]], *[[rangoric-srd/spells/Disintegrate|disintegrate]]*; Price 16,000 gp; Cost 8,000 gp.
+Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Rod|Craft Rod]], _[[rangoric-srd/spells/Disintegrate|disintegrate]]_; Price 16,000 gp; Cost 8,000 gp.

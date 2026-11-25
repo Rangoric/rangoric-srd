@@ -23,9 +23,9 @@ tags: [rangoric, rangoric/magic-item]
 
 The top of this rosewood shaft narrows and then expands again, bound by a number of metal rings. It allows use of the following spells:
 
-- *[[rangoric-srd/spells/Bear’s Endurance|bear's endurance]]* (1 charge)
-- *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]* (1 charge)
-- *[[rangoric-srd/spells/Cat’s Grace|cat's grace]]* (1 charge)
-- *[[rangoric-srd/spells/Magic Weapon, Greater|greater magic weapon]]* (1 charge)
+- _[[rangoric-srd/spells/Bear’s Endurance|bear's endurance]]_ (1 charge)
+- _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_ (1 charge)
+- _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_ (1 charge)
+- _[[rangoric-srd/spells/Magic Weapon, Greater|greater magic weapon]]_ (1 charge)
 
-Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Bear’s Endurance|bear's endurance]]*, *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*, *[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*, *[[rangoric-srd/spells/Magic Weapon, Greater|greater magic weapon]]*; Price 41,600 gp; Cost 20,800 gp; Weight 5 lbs.
+Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Bear’s Endurance|bear's endurance]]_, _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/Magic Weapon, Greater|greater magic weapon]]_; Price 41,600 gp; Cost 20,800 gp; Weight 5 lbs.

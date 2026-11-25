@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Smoke Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Fire Domain|Fire]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Fire Domain|Fire]] domain._
 
 ## Replacement Power
 
@@ -27,7 +27,7 @@ This power replaces the [[rangoric-srd/class-options/domains/Fire Domain#Granted
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 2nd | [[rangoric-srd/spells/Pyrotechnics\|Pyrotechnics]] (M) | Turns fire into light or thick smoke. |
-| 3rd | [[rangoric-srd/spells/Stinking Cloud\|Stinking Cloud]] (M) | Nauseating vapors, 1 round/level. |
+| Level | Spell                                                      | Brief Description                     |
+| ----- | ---------------------------------------------------------- | ------------------------------------- |
+| 2nd   | [[rangoric-srd/spells/Pyrotechnics\|Pyrotechnics]] (M)     | Turns fire into light or thick smoke. |
+| 3rd   | [[rangoric-srd/spells/Stinking Cloud\|Stinking Cloud]] (M) | Nauseating vapors, 1 round/level.     |

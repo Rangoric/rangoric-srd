@@ -42,17 +42,17 @@ tags: [rangoric, rangoric/spell]
 
 # Read Magic
 
-*Divination*
+_Divination_
 
-  - **Level**: Apl 1, Brd 0, Clr 0, Drd 0, Hun 0, Inq 0, Mag 0, Med 0, Mes 0, Msl 1, Occ 0, Pal 1, Psy 0, Rgr 1, Sha 0, Skd 0, Sor/Wiz 0, Spi 0, Sum 0, SumU 0, Wit 0
-  - **Components**: V, S, F
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 10 min./level
+- **Level**: Apl 1, Brd 0, Clr 0, Drd 0, Hun 0, Inq 0, Mag 0, Med 0, Mes 0, Msl 1, Occ 0, Pal 1, Psy 0, Rgr 1, Sha 0, Skd 0, Sor/Wiz 0, Spi 0, Sum 0, SumU 0, Wit 0
+- **Components**: V, S, F
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 10 min./level
 
 By means of read magic, you can decipher magical inscriptions on objects—books, scrolls, weapons, and the like—that would otherwise be unintelligible. This deciphering does not normally invoke the magic contained in the writing, although it may do so in the case of a cursed scroll. Furthermore, once the spell is cast and you have read the magical inscription, you are thereafter able to read that particular writing without recourse to the use of read magic. You can read at the rate of one page (250 words) per minute. The spell allows you to identify a glyph of warding with a DC 13 [[rangoric-srd/skills/Mysticism|Mysticism]] check, a greater glyph of warding with a DC 16 Mysticism check, or any symbol spell with a Mysticism check (DC 10 + spell level).
 
 Read magic can be made permanent with a permanency spell.
 
-*Focus*: A clear crystal or mineral prism.
+_Focus_: A clear crystal or mineral prism.

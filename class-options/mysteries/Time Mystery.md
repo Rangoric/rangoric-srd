@@ -16,11 +16,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Time Mystery
 
-*An [[rangoric-srd/classes/Oracle#^oracle-mystery|oracle mystery]].*
+_An [[rangoric-srd/classes/Oracle#^oracle-mystery|oracle mystery]]._
 
 **Class Skills**: An oracle with the time mystery adds [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Arcana|Arcana]], [[rangoric-srd/skills/Emulation|Emulation]], [[rangoric-srd/skills/Investigation|Investigation]], and [[rangoric-srd/skills/Perception|Perception]] to her list of class skills.
 
-**Bonus Spells**: *[[rangoric-srd/spells/Memory Lapse|memory lapse]]* (2nd), *[[rangoric-srd/spells/Gentle Repose|gentle repose]]* (4th), *[[rangoric-srd/spells/Sands of Time|sands of time]]* (6th), *[[rangoric-srd/spells/Threefold Aspect|threefold aspect]]* (8th), *[[rangoric-srd/spells/Permanency|permanency]]* (10th), *[[rangoric-srd/spells/Contingency|contingency]]* (12th), *[[rangoric-srd/spells/Disintegrate|disintegrate]]* (14th), *[[rangoric-srd/spells/Temporal Stasis|temporal stasis]]* (16th), *[[rangoric-srd/spells/Time Stop|time stop]]* (18th).
+**Bonus Spells**: _[[rangoric-srd/spells/Memory Lapse|memory lapse]]_ (2nd), _[[rangoric-srd/spells/Gentle Repose|gentle repose]]_ (4th), _[[rangoric-srd/spells/Sands of Time|sands of time]]_ (6th), _[[rangoric-srd/spells/Threefold Aspect|threefold aspect]]_ (8th), _[[rangoric-srd/spells/Permanency|permanency]]_ (10th), _[[rangoric-srd/spells/Contingency|contingency]]_ (12th), _[[rangoric-srd/spells/Disintegrate|disintegrate]]_ (14th), _[[rangoric-srd/spells/Temporal Stasis|temporal stasis]]_ (16th), _[[rangoric-srd/spells/Time Stop|time stop]]_ (18th).
 
 ## Revelations
 
@@ -48,4 +48,4 @@ An oracle with the time mystery can choose from any of the following [[rangoric-
 
 ## Final Revelation
 
-Upon reaching 20th level, you become a true master of time and stop aging. You cannot be magically aged and no longer take penalties to your ability scores for aging. Age bonuses still accrue, and any aging penalties that you have already accrued remain in place. You cannot die of old age, but you can be killed or die through accident, disease, poison, or other external effects. In addition, you can cast *[[rangoric-srd/spells/Time Stop|time stop]]* once per day as a spell-like ability. ^time-final-revelation
+Upon reaching 20th level, you become a true master of time and stop aging. You cannot be magically aged and no longer take penalties to your ability scores for aging. Age bonuses still accrue, and any aging penalties that you have already accrued remain in place. You cannot die of old age, but you can be killed or die through accident, disease, poison, or other external effects. In addition, you can cast _[[rangoric-srd/spells/Time Stop|time stop]]_ once per day as a spell-like ability. ^time-final-revelation

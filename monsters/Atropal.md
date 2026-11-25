@@ -61,15 +61,15 @@ Organization:  Solitary   
 Challenge Rating:  30     
 Treasure:  Standard     
 Alignment:  Always lawful evil     
-Advancement:  67-80 HD (Large); 81-100 HD (Huge)     
+Advancement:  67-80 HD (Large); 81-100 HD (Huge)   
 
 An atropal’s natural weapons are treated as epic, evil, and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 
-Spell-Like Abilities: Caster level 30th; save DC 26 + spell level. The save DCs are Charisma-based  
+Spell-Like Abilities: Caster level 30th; save DC 26 + spell level. The save DCs are Charisma-based
 
-At will - [[rangoric-srd/spells/Animate Dead|animate dead]], [[rangoric-srd/spells/Blasphemy|blasphemy]], [[rangoric-srd/spells/Create Greater Undead|create greater undead]], [[rangoric-srd/spells/Create Undead|create undead]], [[rangoric-srd/spells/Cone of Cold|cone of cold]], [[rangoric-srd/spells/Desecrate|desecrate]], [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Finger of Death|finger of death]], [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]], [[rangoric-srd/spells/Plane Shift|plane shift]], [[rangoric-srd/spells/Slay Living|slay living]], [[rangoric-srd/spells/Speak with Dead|speak with dead]], [[rangoric-srd/spells/Spectral Hand|spectral hand]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]], [[rangoric-srd/spells/Unholy Aura|unholy aura]];  
+At will - [[rangoric-srd/spells/Animate Dead|animate dead]], [[rangoric-srd/spells/Blasphemy|blasphemy]], [[rangoric-srd/spells/Create Greater Undead|create greater undead]], [[rangoric-srd/spells/Create Undead|create undead]], [[rangoric-srd/spells/Cone of Cold|cone of cold]], [[rangoric-srd/spells/Desecrate|desecrate]], [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Finger of Death|finger of death]], [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]], [[rangoric-srd/spells/Plane Shift|plane shift]], [[rangoric-srd/spells/Slay Living|slay living]], [[rangoric-srd/spells/Speak with Dead|speak with dead]], [[rangoric-srd/spells/Spectral Hand|spectral hand]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]], [[rangoric-srd/spells/Unholy Aura|unholy aura]];
 
 5/day - [[rangoric-srd/spells/Haste|haste]], [[rangoric-srd/spells/Project Image|project image]], weird. 
 

@@ -24,10 +24,10 @@ tags: [rangoric, rangoric/spell]
 
 # Crushing Hand
 
-*Evocation \[Force\]*
+_Evocation \[Force\]_
 
-  - **Level**: Psy 9, Sor/Wiz 9, Strength 9
-  - **Components**: V, S, M, F/DF
+- **Level**: Psy 9, Sor/Wiz 9, Strength 9
+- **Components**: V, S, M, F/DF
 
 This spell functions like [[rangoric-srd/spells/Interposing Hand|interposing hand]], except that the hand can interpose itself, push, or crush one opponent that you select.
 
@@ -39,6 +39,6 @@ Directing the spell to a new target is a move action.
 
 Clerics who cast this spell name it for their deities.
 
-*Arcane Material Component*: The shell of an egg.
+_Arcane Material Component_: The shell of an egg.
 
-*Arcane Focus*: A glove of snakeskin.
+_Arcane Focus_: A glove of snakeskin.

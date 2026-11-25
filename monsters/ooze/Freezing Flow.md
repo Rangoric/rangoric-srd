@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Freezing Flow
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]] (Cold, Water)
-  - **Hit Dice**: 5d8+25 (47 hp)
-  - **Initiative**: –5
-  - **Speed**: 20 ft. (4 squares), swim 20 ft.
-  - **Armor Class**: 16 (+3 Dex, +4 natural, –1 size), touch 12, flat-footed 13
-  - **Base Attack**: +3; **CMB**: +8; **CMD**: 13
-  - **Attack**: Slam +6 melee (2d4+6/19–20 plus 1d6 cold and [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Slam +6 melee (2d4+6/19–20 plus 1d6 cold and [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d4+6 plus 1d6 cold), [[rangoric-srd/monsters/abilities/Jagged Slam|jagged slam]], [[rangoric-srd/monsters/abilities/Numbing Touch|numbing touch]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 60 ft., [[rangoric-srd/monsters/abilities/Crystalline|crystalline]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], vulnerable to fire
-  - **Saves**: Fort +6, Ref +3, Will –4
-  - **Abilities**: Str 18, Dex 16, Con 20, Int —, Wis 1, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12
-  - **Feats**: —
-  - **Environment**: Any cold
-  - **Organization**: Solitary
-  - **Challenge Rating**: 4
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]] (Cold, Water)
+- **Hit Dice**: 5d8+25 (47 hp)
+- **Initiative**: –5
+- **Speed**: 20 ft. (4 squares), swim 20 ft.
+- **Armor Class**: 16 (+3 Dex, +4 natural, –1 size), touch 12, flat-footed 13
+- **Base Attack**: +3; **CMB**: +8; **CMD**: 13
+- **Attack**: Slam +6 melee (2d4+6/19–20 plus 1d6 cold and [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Slam +6 melee (2d4+6/19–20 plus 1d6 cold and [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d4+6 plus 1d6 cold), [[rangoric-srd/monsters/abilities/Jagged Slam|jagged slam]], [[rangoric-srd/monsters/abilities/Numbing Touch|numbing touch]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 60 ft., [[rangoric-srd/monsters/abilities/Crystalline|crystalline]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], vulnerable to fire
+- **Saves**: Fort +6, Ref +3, Will –4
+- **Abilities**: Str 18, Dex 16, Con 20, Int —, Wis 1, Cha 1
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12
+- **Feats**: —
+- **Environment**: Any cold
+- **Organization**: Solitary
+- **Challenge Rating**: 4
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 It's believed that these strange frozen oozes are created when a particularly cold arctic area has prolonged exposure to ice from the Elemental Planes. Rising seemingly spontaneously from such a supernatural deep freeze, freezing flows shamble forth in search of prey, hungry for the life energy of warm-blooded creatures, which they somehow metabolize.
 

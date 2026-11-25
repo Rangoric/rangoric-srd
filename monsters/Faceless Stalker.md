@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Faceless Stalker
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Shapechanger)
-  - **Hit Dice**: 5d8+20 (42 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 17 (+3 Dex, +4 natural), touch 13, flat-footed 14
-  - **Base Attack**: +3; **CMB**: +7 (+11 grapple); **CMD**: 20
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +8 melee (1d8+4/19–20) or slam +7 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +8 melee (1d8+4/19–20) and slam +2 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 5 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1 Constitution), sneak attack +2d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (Medium humanoid, alter self), [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Faceless|faceless]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/piercing or slashing
-  - **Saves**: Fort +5, Ref +4, Will +6
-  - **Abilities**: Str 18, Dex 17, Con 18, Int 13, Wis 15, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +19, [[rangoric-srd/skills/Imitation|Imitation]] +12 (+24 when using change shape), [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +11
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
-  - **Environment**: Any swamps or underground
-  - **Organization**: Solitary, pair, or gang (3–9)
-  - **Challenge Rating**: 4
-  - **Treasure**: Standard (masterwork longsword, other treasure)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Shapechanger)
+- **Hit Dice**: 5d8+20 (42 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 17 (+3 Dex, +4 natural), touch 13, flat-footed 14
+- **Base Attack**: +3; **CMB**: +7 (+11 grapple); **CMD**: 20
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +8 melee (1d8+4/19–20) or slam +7 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +8 melee (1d8+4/19–20) and slam +2 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 5 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1 Constitution), sneak attack +2d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (Medium humanoid, alter self), [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Faceless|faceless]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/piercing or slashing
+- **Saves**: Fort +5, Ref +4, Will +6
+- **Abilities**: Str 18, Dex 17, Con 18, Int 13, Wis 15, Cha 16
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +19, [[rangoric-srd/skills/Imitation|Imitation]] +12 (+24 when using change shape), [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +11
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
+- **Environment**: Any swamps or underground
+- **Organization**: Solitary, pair, or gang (3–9)
+- **Challenge Rating**: 4
+- **Treasure**: Standard (masterwork longsword, other treasure)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Ugothols (as faceless stalkers call themselves) are one of the many tools created and then discarded by the aboleths in their long war against the surface dwellers. Scorned by their former masters when the scheme for which they were designed unraveled, the faceless stalkers fled into swamps, marshes, or any other dark, wet places they could find—the closest they could come to the aquatic cities they once considered home.
 
@@ -72,7 +72,7 @@ Faceless stalkers speak Aquan and Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 5th; concentration +8): Constant—*[[rangoric-srd/spells/Tongues|tongues]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 5th; concentration +8): Constant—_[[rangoric-srd/spells/Tongues|tongues]]_.
 
 **[[rangoric-srd/monsters/abilities/Change Shape|Change Shape]] (Su)**: A faceless stalker can assume the form of a Medium humanoid at will but requires 10 uninterrupted minutes to alter its body. Performing this transformation is somewhat painful, but the faceless stalker can maintain its new form indefinitely once it has achieved it. It can change back to its true form as a swift action and gains a +2 morale bonus on attack rolls, damage rolls, skill checks, and saving throws for 1 round after it does so. Faceless stalkers retain their own innate abilities when they assume their new form and do not gain any of those belonging to the creature they mimic. A faceless stalker gains a +10 bonus on Imitation checks when they are used in conjunction with this ability.
 

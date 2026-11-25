@@ -41,25 +41,25 @@ tags: [rangoric, rangoric/monster]
 
 # Air Elemental, Primal
 
-  - Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|Elemental]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^air|Air]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]])
-  - **Hit Dice**: 64d8+576 (944 hp)
-  - **Initiative**: +24 (+16 Dex, +8 [[rangoric-srd/feats/Superior Initiative|Superior Initiative]])
-  - **Speed**: Fly 100 ft. (perfect)
-  - **Armor Class**: 66 (-8 size, +16 Dex, +48 natural)
-  - **Base Attack**: +48; **CMB**: +67; **CMD**: 94
-  - **Attack**: Slam +57 (4d8+16) melee
-  - **Full Attack**: 2 Slams +57 (4d8+16) melee
-  - **Space/Reach**: 30 ft./30 ft.
-  - **Special Attacks**: Air mastery, whirlwind
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|Elemental traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/­-, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 42
-  - **Saves**: Fort +42, Ref +52, Will +28
-  - **Abilities**: Str 32, Dex 43, Con 28, Int 8, Wis 13, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +74
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
-  - **Epic Feats**: [[rangoric-srd/feats/Blinding Speed|Blinding Speed]] (x2), [[rangoric-srd/feats/Epic Prowess|Epic Prowess]] (x2), [[rangoric-srd/feats/Epic Toughness|Epic Toughness]] (x4), [[rangoric-srd/feats/Epic Will|Epic Will]], [[rangoric-srd/feats/Superior Initiative|Superior Initiative]]
-  - **Climate/Terrain**: Any Land
-  - **Organization**: Solitary
-  - **Challenge Rating**: 35
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 65-288 HD (Colossal)
+- Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|Elemental]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^air|Air]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]])
+- **Hit Dice**: 64d8+576 (944 hp)
+- **Initiative**: +24 (+16 Dex, +8 [[rangoric-srd/feats/Superior Initiative|Superior Initiative]])
+- **Speed**: Fly 100 ft. (perfect)
+- **Armor Class**: 66 (-8 size, +16 Dex, +48 natural)
+- **Base Attack**: +48; **CMB**: +67; **CMD**: 94
+- **Attack**: Slam +57 (4d8+16) melee
+- **Full Attack**: 2 Slams +57 (4d8+16) melee
+- **Space/Reach**: 30 ft./30 ft.
+- **Special Attacks**: Air mastery, whirlwind
+- **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|Elemental traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/­-, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 42
+- **Saves**: Fort +42, Ref +52, Will +28
+- **Abilities**: Str 32, Dex 43, Con 28, Int 8, Wis 13, Cha 13
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +74
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
+- **Epic Feats**: [[rangoric-srd/feats/Blinding Speed|Blinding Speed]] (x2), [[rangoric-srd/feats/Epic Prowess|Epic Prowess]] (x2), [[rangoric-srd/feats/Epic Toughness|Epic Toughness]] (x4), [[rangoric-srd/feats/Epic Will|Epic Will]], [[rangoric-srd/feats/Superior Initiative|Superior Initiative]]
+- **Climate/Terrain**: Any Land
+- **Organization**: Solitary
+- **Challenge Rating**: 35
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 65-288 HD (Colossal)

@@ -33,12 +33,12 @@ Rules for specific vehicles and starships come later; until then the GM sets the
 
 **Check**: You can plot a course for a ship, aircraft or other vehicle over a long distance, by charts, instruments or the stars. The DC depends on the length of the trip. If you succeed, you travel by the best reasonable course. If you fail, you still arrive, but it takes twice as long. If you fail by more than 5, you travel the expected time but only get halfway before you realize you’re lost.
 
-| Length of Trip | DC |
-| --- | --- |
-| Short (a few hours) | 20 |
-| Moderate (a day or two) | 22 |
-| Long (up to a week) | 25 |
-| Extreme (more than a week) | 28 |
+| Length of Trip             | DC  |
+| -------------------------- | --- |
+| Short (a few hours)        | 20  |
+| Moderate (a day or two)    | 22  |
+| Long (up to a week)        | 25  |
+| Extreme (more than a week) | 28  |
 
 A lost navigator can make a DC 20 check to find the way again. On a success, the trip takes twice the normal time in all; on a failure, half a day is lost before you can try again.
 

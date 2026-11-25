@@ -92,7 +92,7 @@ tags: [rangoric, rangoric/overview]
 —[[rangoric-srd/monsters/azata/Ghaele|Ghaele]]  
 —[[rangoric-srd/monsters/azata/Lillend|Lillend]]  
 —[[rangoric-srd/monsters/azata/Brijidine|Brijidine]]  
-[[rangoric-srd/monsters/Azer|Azer]]  
+[[rangoric-srd/monsters/Azer|Azer]]
 
 ### B
 
@@ -151,7 +151,7 @@ tags: [rangoric, rangoric/overview]
 —[[rangoric-srd/monsters/bugbear/Frightful Haunter|Frightful Haunter]]  
 —[[rangoric-srd/monsters/bugbear/Wikkawak|Wikkawak]]  
 [[rangoric-srd/monsters/Buggane|Buggane]]  
-[[rangoric-srd/monsters/Bulette|Bulette]]  
+[[rangoric-srd/monsters/Bulette|Bulette]]
 
 ### C
 
@@ -203,7 +203,7 @@ tags: [rangoric, rangoric/overview]
 [[rangoric-srd/monsters/Couatl|Couatl]]  
 [[rangoric-srd/monsters/Crawling Hand|Crawling Hand]]  
 [[rangoric-srd/monsters/Crypt Thing|Crypt Thing]]  
-[[rangoric-srd/monsters/Crystalline Creature|Crystalline Creature]]  
+[[rangoric-srd/monsters/Crystalline Creature|Crystalline Creature]]
 
 ### D
 
@@ -339,9 +339,9 @@ tags: [rangoric, rangoric/overview]
 [[rangoric-srd/monsters/Dodo|Dodo]]  
 [[rangoric-srd/monsters/Dolphin|Dolphin]]  
 [[rangoric-srd/monsters/Donkey Rat|Donkey Rat]]  
-[[rangoric-srd/monsters/Doorway Guardian|Doorway Guardian]]  
+[[rangoric-srd/monsters/Doorway Guardian|Doorway Guardian]]
 
-### 
+###
 
 [[rangoric-srd/monsters/Doppelganger|Doppelganger]]  
 [[rangoric-srd/monsters/Dorvae|Dorvae]]  
@@ -456,7 +456,7 @@ tags: [rangoric, rangoric/overview]
 —[[rangoric-srd/monsters/dwarf/Storm Prophet|Storm Prophet]]  
 —[[rangoric-srd/monsters/dwarf/Sundering Axe|Sundering Axe]]  
 —[[rangoric-srd/monsters/dwarf/Tunnel Drummer|Tunnel Drummer]]  
-—[[rangoric-srd/monsters/dwarf/War Priest|War Priest]]  
+—[[rangoric-srd/monsters/dwarf/War Priest|War Priest]]
 
 ### E
 
@@ -559,7 +559,7 @@ tags: [rangoric, rangoric/overview]
 [[rangoric-srd/monsters/Ethereal Filcher|Ethereal Filcher]]  
 [[rangoric-srd/monsters/Ethereal Marauder|Ethereal Marauder]]  
 [[rangoric-srd/monsters/Ettercap|Ettercap]]  
-[[rangoric-srd/monsters/Ettin|Ettin]]  
+[[rangoric-srd/monsters/Ettin|Ettin]]
 
 ### F
 
@@ -605,7 +605,7 @@ tags: [rangoric, rangoric/overview]
 —[[rangoric-srd/monsters/fungus/Myceloid|Myceloid]]  
 —[[rangoric-srd/monsters/fungus/Phycomid|Phycomid]]  
 —[[rangoric-srd/monsters/fungus/Shrieker|Shrieker]]  
-—[[rangoric-srd/monsters/fungus/Violet Fungus|Violet Fungus]]  
+—[[rangoric-srd/monsters/fungus/Violet Fungus|Violet Fungus]]
 
 ### G
 
@@ -816,7 +816,7 @@ tags: [rangoric, rangoric/overview]
 —[[rangoric-srd/monsters/gremlin/Vexgit|Vexgit]]  
 [[rangoric-srd/monsters/Grick|Grick]]  
 [[rangoric-srd/monsters/Griffon|Griffon]]  
-[[rangoric-srd/monsters/Grimlock|Grimlock]]  
+[[rangoric-srd/monsters/Grimlock|Grimlock]]
 
 ### H
 
@@ -1097,7 +1097,7 @@ tags: [rangoric, rangoric/overview]
 —[[rangoric-srd/monsters/human/Wise Sage|Wise Sage]]  
 [[rangoric-srd/monsters/Humbaba|Humbaba]]  
 [[rangoric-srd/monsters/Hyakume|Hyakume]]  
-[[rangoric-srd/monsters/hydra/Hydra|Hydra]]  
+[[rangoric-srd/monsters/hydra/Hydra|Hydra]]
 
 ### I
 
@@ -1112,7 +1112,7 @@ tags: [rangoric, rangoric/overview]
 —[[rangoric-srd/monsters/inevitable/Marut|Marut]]  
 —[[rangoric-srd/monsters/inevitable/Zelekhut|Zelekhut]]  
 —[[rangoric-srd/monsters/inevitable/Lhaksharut|Lhaksharut]]  
-[[rangoric-srd/monsters/Invisible Stalker|Invisible Stalker]]  
+[[rangoric-srd/monsters/Invisible Stalker|Invisible Stalker]]
 
 ### J
 
@@ -1120,7 +1120,7 @@ tags: [rangoric, rangoric/overview]
 [[rangoric-srd/monsters/Isitoq|Isitoq]]  
 [[rangoric-srd/monsters/jabberwock/Jabberwock|Jabberwock]]  
 —[[rangoric-srd/monsters/jabberwock/Greater Jabberwock|Greater Jabberwock]]  
-—[[rangoric-srd/monsters/jabberwock/Lesser Jabberwock|Lesser Jabberwock]]  
+—[[rangoric-srd/monsters/jabberwock/Lesser Jabberwock|Lesser Jabberwock]]
 
 ### K
 
@@ -1177,7 +1177,7 @@ tags: [rangoric, rangoric/overview]
 [[rangoric-srd/monsters/Kongamato|Kongamato]]  
 [[rangoric-srd/monsters/Korred|Korred]]  
 [[rangoric-srd/monsters/Kraken|Kraken]]  
-[[rangoric-srd/monsters/Krenshar|Krenshar]]  
+[[rangoric-srd/monsters/Krenshar|Krenshar]]
 
 ### L
 
@@ -1238,7 +1238,7 @@ tags: [rangoric, rangoric/overview]
 —[[rangoric-srd/monsters/lycanthrope/Wereshark|Wereshark]]  
 —[[rangoric-srd/monsters/lycanthrope/Weretiger|Weretiger]]  
 —[[rangoric-srd/monsters/lycanthrope/Werewolf|Werewolf]]  
-—[[rangoric-srd/monsters/lycanthrope/Hill Giant Dire Wereboar|Hill Giant Dire Wereboar]]  
+—[[rangoric-srd/monsters/lycanthrope/Hill Giant Dire Wereboar|Hill Giant Dire Wereboar]]
 
 ### M
 
@@ -1285,7 +1285,7 @@ tags: [rangoric, rangoric/overview]
 [[rangoric-srd/monsters/Mothman|Mothman]]  
 [[rangoric-srd/monsters/elemental/Mudlord|Mudlord]]  
 [[rangoric-srd/monsters/Mummified Creature|Mummified Creature]]  
-[[rangoric-srd/monsters/Mummy|Mummy]]  
+[[rangoric-srd/monsters/Mummy|Mummy]]
 
 ### N
 
@@ -1337,7 +1337,7 @@ tags: [rangoric, rangoric/overview]
 [[rangoric-srd/monsters/Ningyo|Ningyo]]  
 [[rangoric-srd/monsters/Norn|Norn]]  
 [[rangoric-srd/monsters/Nuckelavee|Nuckelavee]]  
-[[rangoric-srd/monsters/Nue|Nue]]  
+[[rangoric-srd/monsters/Nue|Nue]]
 
 ### O
 
@@ -1453,7 +1453,7 @@ tags: [rangoric, rangoric/overview]
 [[rangoric-srd/monsters/Otyugh|Otyugh]]  
 [[rangoric-srd/monsters/Owb|Owb]]  
 [[rangoric-srd/monsters/Owl, Giant|Owl, Giant]]  
-[[rangoric-srd/monsters/Owlbear|Owlbear]]  
+[[rangoric-srd/monsters/Owlbear|Owlbear]]
 
 ### P
 
@@ -1502,7 +1502,7 @@ tags: [rangoric, rangoric/overview]
 —[[rangoric-srd/monsters/psychopomps/Morrigna|Morrigna]]  
 —[[rangoric-srd/monsters/psychopomps/Yamaraj|Yamaraj]]  
 [[rangoric-srd/monsters/Pukwudgie|Pukwudgie]]  
-[[rangoric-srd/monsters/Purple Worm|Purple Worm]]  
+[[rangoric-srd/monsters/Purple Worm|Purple Worm]]
 
 ### R
 
@@ -1554,7 +1554,7 @@ tags: [rangoric, rangoric/overview]
 [[rangoric-srd/monsters/Rukh|Rukh]]  
 [[rangoric-srd/monsters/Rusalka|Rusalka]]  
 [[rangoric-srd/monsters/Russet Mold|Russet Mold]]  
-[[rangoric-srd/monsters/Rust Monster|Rust Monster]]  
+[[rangoric-srd/monsters/Rust Monster|Rust Monster]]
 
 ### S
 
@@ -1697,7 +1697,7 @@ tags: [rangoric, rangoric/overview]
 —[[rangoric-srd/monsters/swarm/Snake Swarm|Snake Swarm]]  
 —[[rangoric-srd/monsters/swarm/Tick Swarm|Tick Swarm]]  
 —[[rangoric-srd/monsters/swarm/Venomous Snake Swarm|Venomous Snake Swarm]]  
-—[[rangoric-srd/monsters/swarm/Wasp Swarm|Wasp Swarm]]  
+—[[rangoric-srd/monsters/swarm/Wasp Swarm|Wasp Swarm]]
 
 ### T
 
@@ -1758,7 +1758,7 @@ tags: [rangoric, rangoric/overview]
 —[[rangoric-srd/monsters/troll/Troll Monarch|Troll Monarch]]  
 —[[rangoric-srd/monsters/troll/Troll Render|Troll Render]]  
 —[[rangoric-srd/monsters/troll/Troll Ripper|Troll Ripper]]  
-—[[rangoric-srd/monsters/troll/Troll Warden|Troll Warden]]  
+—[[rangoric-srd/monsters/troll/Troll Warden|Troll Warden]]
 
 ### U
 
@@ -1772,7 +1772,7 @@ tags: [rangoric, rangoric/overview]
 [[rangoric-srd/monsters/Twigjack|Twigjack]]  
 [[rangoric-srd/monsters/Tzitzimitl|Tzitzimitl]]  
 [[rangoric-srd/monsters/Unfettered Eidolon|Unfettered Eidolon]]  
-[[rangoric-srd/monsters/unicorn/Unicorn|Unicorn]]  
+[[rangoric-srd/monsters/unicorn/Unicorn|Unicorn]]
 
 ### V
 
@@ -1795,7 +1795,7 @@ tags: [rangoric, rangoric/overview]
 —[[rangoric-srd/monsters/vampire/Weird Butler|Weird Butler]]  
 [[rangoric-srd/monsters/Vampiric Mist|Vampiric Mist]]  
 [[rangoric-srd/monsters/Vanara|Vanara]]  
-[[rangoric-srd/monsters/Vargouille|Vargouille]]  
+[[rangoric-srd/monsters/Vargouille|Vargouille]]
 
 ### W
 
@@ -1829,7 +1829,7 @@ tags: [rangoric, rangoric/overview]
 [[rangoric-srd/monsters/wraith/Wraith|Wraith]]  
 [[rangoric-srd/monsters/Wyrwood|Wyrwood]]  
 [[rangoric-srd/monsters/Wyvaran|Wyvaran]]  
-[[rangoric-srd/monsters/Wyvern|Wyvern]]  
+[[rangoric-srd/monsters/Wyvern|Wyvern]]
 
 ### X
 
@@ -1837,7 +1837,7 @@ tags: [rangoric, rangoric/overview]
 [[rangoric-srd/monsters/Xanthos|Xanthos]]  
 [[rangoric-srd/monsters/Xenopterid|Xenopterid]]  
 [[rangoric-srd/monsters/Xill|Xill]]  
-[[rangoric-srd/monsters/xorn/Xorn|Xorn]]  
+[[rangoric-srd/monsters/xorn/Xorn|Xorn]]
 
 ### Y
 
@@ -1849,7 +1849,7 @@ tags: [rangoric, rangoric/overview]
 [[rangoric-srd/monsters/Yeti|Yeti]]  
 [[rangoric-srd/monsters/simple-templates/Young Creature|Young Creature]]  
 [[rangoric-srd/monsters/Ypotryll|Ypotryll]]  
-[[rangoric-srd/monsters/Yrthak|Yrthak]]  
+[[rangoric-srd/monsters/Yrthak|Yrthak]]
 
 ### Z
 
@@ -1862,4 +1862,4 @@ tags: [rangoric, rangoric/overview]
 —[[rangoric-srd/monsters/zombie/Zombie Lord|Zombie Lord]]  
 [[rangoric-srd/monsters/Zomok|Zomok]]  
 [[rangoric-srd/monsters/mythos/Zoog|Zoog]]  
-[[rangoric-srd/monsters/Zuvembie|Zuvembie]]  
+[[rangoric-srd/monsters/Zuvembie|Zuvembie]]

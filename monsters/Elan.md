@@ -39,8 +39,8 @@ tags: [rangoric, rangoric/monster]
 
 # Elan
 
-Elan, 1st-Level Warrior      
-Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Psionic)      
+Elan, 1st-Level Warrior     
+Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Psionic)     
 **Hit Dice:** 1d10+1 (6 hp)     
 **Initiative:** +0     
 **Speed:** 30 ft. (6 squares)     
@@ -62,7 +62,7 @@ Full **Attack:** Warhammer +3 melee (1d8+1/x3) or longbow +1 ranged (1d8/x3)  
 Treasure: Standard     
 **Alignment:** Usually neutral     
 **Advancement:** By character class     
-**Level Adjustment:** +0     
+**Level Adjustment:** +0   
 
 Elans typically stand just under 6 feet tall and weigh in the neighborhood of 180 pounds, with men sometimes taller and heavier than women, but not always.
 
@@ -84,18 +84,18 @@ The elan warrior presented here had the following ability scores before racial a
 
 Elan characters possess the following racial traits.
 
-  - \-2 Charisma.
+- \-2 Charisma.
 
-  - Medium size.
+- Medium size.
 
-  - Elan base land speed is 30 feet.
+- Elan base land speed is 30 feet.
 
-  - No darkvision.
+- No darkvision.
 
-  - Naturally Psionic: Elans gain 2 bonus power point at 1st level.
+- Naturally Psionic: Elans gain 2 bonus power point at 1st level.
 
-  - Special Qualities (see above): Repletion, resilience, resistance.
+- Special Qualities (see above): Repletion, resilience, resistance.
 
-  - Automatic Languages: Common.
+- Automatic Languages: Common.
 
-  - Level Adjustment: +0.
+- Level Adjustment: +0.

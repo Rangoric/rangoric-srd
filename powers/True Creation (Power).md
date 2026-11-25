@@ -22,8 +22,8 @@ tags: [rangoric, rangoric/power]
 Metacreativity (Creation)  
 **Level:** Shaper 9  
 **Duration:** Instantaneous  
-**Power Points:** 17, XP  
+**Power Points:** 17, XP
 
 As [[rangoric-srd/powers/Major Creation, Psionic|psionic major creation]], except items created are enduring and cannot be negated by dispelling magic or negating powers. For all intents and purposes, these items are completely real.
 
-*XP Cost:* 1/5 of the item’s gold piece value, or a minimum of 1 XP.
+_XP Cost:_ 1/5 of the item’s gold piece value, or a minimum of 1 XP.

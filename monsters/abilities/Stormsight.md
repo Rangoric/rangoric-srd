@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Stormsight
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “stormsight”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “stormsight”, on the Special Qualities line.
 
 The creature ignores all vision penalties and concealment from weather effects, including those created by fog cloud, obscuring mist, and similar spells. The [[rangoric-srd/monsters/Thunderbird|thunderbird]] has it.

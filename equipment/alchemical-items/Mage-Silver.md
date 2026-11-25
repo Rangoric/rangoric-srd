@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Mage-Silver
 
-*Alchana; Special*
+_Alchana; Special_
 
 Mage-silver shines with the brilliance of water in moonlight—silver within silver—and like all mage-metals it never tarnishes and remains mirror-bright forever, no matter what form it takes. Mage-silver is harder than normal silver and can be forged into weapons by itself rather than just alloying or plating a harder metal. Its identifying characteristics are its flat tone and lack of resonance if hit and its whitish-silver hue, making it very hard to disguise as regular silver. The powers the mage-metal exhibits are thus:
 

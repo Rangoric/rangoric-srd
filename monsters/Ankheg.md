@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ankheg
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 3d10+12 (28 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares), burrow 20 ft.
-  - **Armor Class**: 16 (+7 natural, –1 size), touch 9, flat-footed 16
-  - **Base Attack**: +3; **CMB**: +7 (+11 grapple); **CMD**: 17 (25 vs. trip)
-  - **Attack**: Bite +5 melee (2d6+4 plus 1d4 acid and grab)
-  - **Full Attack**: Bite +5 melee (2d6+4 plus 1d4 acid and grab)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: Spit acid
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft
-  - **Saves**: Fort +6, Ref +3, Will +2
-  - **Abilities**: Str 16, Dex 10, Con 17, Int 1, Wis 13, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +8
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Temperate or warm plains
-  - **Organization**: Solitary, pair, nest (3–6), or cluster (2–4)
-  - **Challenge Rating**: 3
-  - **Treasure**: Incidental
-  - **Alignment**: Always neutral
-  - **Advancement**: 4 HD (Large); 5–9 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 3d10+12 (28 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares), burrow 20 ft.
+- **Armor Class**: 16 (+7 natural, –1 size), touch 9, flat-footed 16
+- **Base Attack**: +3; **CMB**: +7 (+11 grapple); **CMD**: 17 (25 vs. trip)
+- **Attack**: Bite +5 melee (2d6+4 plus 1d4 acid and grab)
+- **Full Attack**: Bite +5 melee (2d6+4 plus 1d4 acid and grab)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: Spit acid
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft
+- **Saves**: Fort +6, Ref +3, Will +2
+- **Abilities**: Str 16, Dex 10, Con 17, Int 1, Wis 13, Cha 6
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +8
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Temperate or warm plains
+- **Organization**: Solitary, pair, nest (3–6), or cluster (2–4)
+- **Challenge Rating**: 3
+- **Treasure**: Incidental
+- **Alignment**: Always neutral
+- **Advancement**: 4 HD (Large); 5–9 HD (Huge)
+- **Level Adjustment**: —
 
 Ankhegs are an all-too-common plague upon the rural areas of the world. These horse-sized burrowing monsters generally avoid heavily settled areas like cities, but their predilection for livestock and humanoid flesh ensures that they do not keep to the deep wilderness either. Their preferred habitat is rural farmlands, as the loose soil of such regions makes it easy for the creatures to burrow. Tales speak of larger ankhegs that dwell in remote deserts—such creatures likely feed primarily on giant scorpions and camels, and rarely come in contact with civilization due to their remote locations. (A desert ankheg is a Huge advanced ankheg.)
 

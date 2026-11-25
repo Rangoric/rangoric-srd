@@ -30,14 +30,14 @@ tags: [rangoric, rangoric/spell]
 
 # Mirror Image
 
-*Illusion (Figment)*
+_Illusion (Figment)_
 
-  - **Level**: Blr 2, Brd 2, Mag 2, Med 2, Mes 2, Occ 2, Psy 2, Skd 2, Sor/Wiz 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal; see text
-  - **Target**: You
-  - **Duration**: 1 min./level (D)
+- **Level**: Blr 2, Brd 2, Mag 2, Med 2, Mes 2, Occ 2, Psy 2, Skd 2, Sor/Wiz 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal; see text
+- **Target**: You
+- **Duration**: 1 min./level (D)
 
 Several illusory duplicates of you pop into being, making it difficult for enemies to know which target to attack. The figments stay near you and disappear when struck.
 

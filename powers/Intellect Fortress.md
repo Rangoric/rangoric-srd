@@ -31,7 +31,7 @@ Psychokinesis
 **Duration:** 1 round  
 **Saving Throw:** None  
 **Power Resistance:** Yes  
-**Power Points:** 7  
+**Power Points:** 7
 
 You encase yourself and your allies in a shimmering fortress of telekinetic force. All damage from powers and psi-like abilities taken by subjects inside the area of the intellect fortress, including [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]], is halved. This lowering takes place prior to the effects of other powers or abilities that lessen damage, such as [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|damage reduction]] and evasion.
 

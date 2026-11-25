@@ -23,11 +23,11 @@ tags: [rangoric, rangoric/spell]
 
 # Fast Elemental
 
-*Conjuration \[Summoning\]*
+_Conjuration \[Summoning\]_
 
-  - **Level**: Drd 7, Sor/Wiz 7
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Effect**: One summoned creature
+- **Level**: Drd 7, Sor/Wiz 7
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Effect**: One summoned creature
 
-As *[[rangoric-srd/spells/Summon Monster I|summon monster I]]*, except that the caster summons a single Large Elemental with 1d4+12 Hit Dice. The elemental may not act on the round that it is summoned, but neither is it flatfooted.
+As _[[rangoric-srd/spells/Summon Monster I|summon monster I]]_, except that the caster summons a single Large Elemental with 1d4+12 Hit Dice. The elemental may not act on the round that it is summoned, but neither is it flatfooted.

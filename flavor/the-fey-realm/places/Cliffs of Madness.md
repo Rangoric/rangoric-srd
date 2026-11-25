@@ -24,12 +24,12 @@ Seafarers who find themselves trapped between impassable cliffs and precariously
 
 **Seasons:** Sitting between the Land of Eternal Winter and the stormy northern coastline, this region is colder than most other areas throughout the year, spending much of the winter under stormy skies that carry only driving sleet and hail. The spring is short and chill, with most plants being stunted by the harsh weather. Summer is somewhat warm and extremely humid, and the air fills with the scent of seaweed and the buzzing of hungry insects. Autumn comes all too quickly with its biting winds whipping the coastal waters into frothy frenzy.
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* Climbers trying to scale the cliffs have found that their height is nearly limitless. They also discover that the base becomes just as difficult to reach as the top once they have begun a climb. A [[rangoric-srd/feats/Crossing Over|Crossing Over]] check is required to reach the top or bottom of the cliffs.
+_Common:_ Climbers trying to scale the cliffs have found that their height is nearly limitless. They also discover that the base becomes just as difficult to reach as the top once they have begun a climb. A [[rangoric-srd/feats/Crossing Over|Crossing Over]] check is required to reach the top or bottom of the cliffs.
 
-*Uncommon:* Those who decide to jump in order to circumvent the climb find they still need to perform a Crossing Over attempt, often resulting in their journey coming to an abrupt and painful end at the base.
+_Uncommon:_ Those who decide to jump in order to circumvent the climb find they still need to perform a Crossing Over attempt, often resulting in their journey coming to an abrupt and painful end at the base.
 
-*Rare:* Fey creatures often come here to learn how to fly.
+_Rare:_ Fey creatures often come here to learn how to fly.
 
-*Obscure:* Queen Maeve, a past ruler of FaerieLand, was the creator of this region. In an attempt to create a “safe region” for training, she inadvertently produced a dangerous landscape.
+_Obscure:_ Queen Maeve, a past ruler of FaerieLand, was the creator of this region. In an attempt to create a “safe region” for training, she inadvertently produced a dangerous landscape.

@@ -29,7 +29,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Oathbound Paladin
 
-*A [[rangoric-srd/classes/Paladin#^paladin-archetypes|paladin]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Paladin#^paladin-archetypes|paladin]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 While all paladins have their own codes of conduct, either taught by an order, handed down from the gods, or inspired by personal conviction, an oathbound paladin devotes herself to a singular cause, which grants her additional powers but also gives further edicts she must follow. An oathbound paladin swears an oath to eradicate a certain kind of evil. This powerful oath gives her access to new spells and adds to or alters typical paladin abilities.
 
@@ -63,23 +63,23 @@ Whenever the paladin channels positive energy or uses lay on hands to heal a cre
 
 **Code of Conduct**: Hunt aberrations and do not allow them to roam freely or harm others. Destroy them if you can, or banish them if you cannot.
 
-**Oath Spells**: 1st—*[[rangoric-srd/spells/True Strike|true strike]]*; 2nd—*[[rangoric-srd/spells/Acute Senses|acute senses]]*; 3rd—*[[rangoric-srd/spells/Touch of Idiocy|touch of idiocy]]*; 4th—*[[rangoric-srd/spells/Spell Immunity|spell immunity]]*.
+**Oath Spells**: 1st—_[[rangoric-srd/spells/True Strike|true strike]]_; 2nd—_[[rangoric-srd/spells/Acute Senses|acute senses]]_; 3rd—_[[rangoric-srd/spells/Touch of Idiocy|touch of idiocy]]_; 4th—_[[rangoric-srd/spells/Spell Immunity|spell immunity]]_.
 
 ### Oath against Fiends
 
 A paladin who takes an oath against demons, devils, daemons, and other evil outsiders is constantly on the lookout for malicious fiendish insurgence into the world, and faces it with swift and unwavering defiance. Often she works closely with inquisitors, searching for signs of outsider manipulation and possession.
 
-**Anchoring Aura (Su)**: At 8th level, a paladin's aura hampers extradimensional travel by evil outsiders. The aura extends 20 feet from the paladin. Evil outsiders attempting to use abilities such as *[[rangoric-srd/spells/Dimension Door|dimension door]]*, *[[rangoric-srd/spells/Plane Shift|plane shift]]*, or *[[rangoric-srd/spells/Teleport|teleport]]* to leave or enter the aura must succeed at a Will save (DC 10 + 1/2 the paladin's level + the paladin's Charisma modifier); failure means the ability does not function, as if the outsider were affected by *[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]*. The aura functions only while the paladin is conscious, not if she is [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] or [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]]. ^oathbound-anchoring-aura
+**Anchoring Aura (Su)**: At 8th level, a paladin's aura hampers extradimensional travel by evil outsiders. The aura extends 20 feet from the paladin. Evil outsiders attempting to use abilities such as _[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Plane Shift|plane shift]]_, or _[[rangoric-srd/spells/Teleport|teleport]]_ to leave or enter the aura must succeed at a Will save (DC 10 + 1/2 the paladin's level + the paladin's Charisma modifier); failure means the ability does not function, as if the outsider were affected by _[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]_. The aura functions only while the paladin is conscious, not if she is [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] or [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]]. ^oathbound-anchoring-aura
 
-Alternatively, as an immediate action, the paladin can expend one use of her [[rangoric-srd/classes/Paladin#^paladin-smite-evil|smite evil]] ability to target an evil outsider within 30 feet with *[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]*. A targeted *[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]* persists even if the paladin is unconscious or dead.
+Alternatively, as an immediate action, the paladin can expend one use of her [[rangoric-srd/classes/Paladin#^paladin-smite-evil|smite evil]] ability to target an evil outsider within 30 feet with _[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]_. A targeted _[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]_ persists even if the paladin is unconscious or dead.
 
 This ability replaces [[rangoric-srd/classes/Paladin#^paladin-aura-of-resolve|aura of resolve]].
 
-**Holy Vessel (Su)**: At 9th level, a paladin whose [[rangoric-srd/classes/Paladin#^paladin-divine-bond|divine bond]] is with a weapon can also use her divine bond to augment her armor or shield with enhancement bonuses, or add any of the following armor or shield properties: *[[rangoric-srd/magic-items/armor-abilities/Bashing|bashing]]*, *[[rangoric-srd/magic-items/armor-abilities/Fortification|fortification]]*, and *[[rangoric-srd/magic-items/armor-abilities/Spell Resistance (Armor Special Ability)|spell resistance]]*. Adding these properties consumes an amount of bonus equal to the property's cost (see [[rangoric-srd/magic-items/Magic Armor and Weapons|the armor special abilities and shield special abilities tables]]). She can divide her bonuses from the divine bond ability among her weapon, armor, and shield as she sees fit. This ability has no effect for a paladin whose divine bond is with a mount. This ability replaces the [[rangoric-srd/classes/Paladin#^paladin-mercy|mercy]] gained at 9th level.
+**Holy Vessel (Su)**: At 9th level, a paladin whose [[rangoric-srd/classes/Paladin#^paladin-divine-bond|divine bond]] is with a weapon can also use her divine bond to augment her armor or shield with enhancement bonuses, or add any of the following armor or shield properties: _[[rangoric-srd/magic-items/armor-abilities/Bashing|bashing]]_, _[[rangoric-srd/magic-items/armor-abilities/Fortification|fortification]]_, and _[[rangoric-srd/magic-items/armor-abilities/Spell Resistance (Armor Special Ability)|spell resistance]]_. Adding these properties consumes an amount of bonus equal to the property's cost (see [[rangoric-srd/magic-items/Magic Armor and Weapons|the armor special abilities and shield special abilities tables]]). She can divide her bonuses from the divine bond ability among her weapon, armor, and shield as she sees fit. This ability has no effect for a paladin whose divine bond is with a mount. This ability replaces the [[rangoric-srd/classes/Paladin#^paladin-mercy|mercy]] gained at 9th level.
 
 **Code of Conduct**: Never suffer an evil outsider to live if it is in your power to destroy it. Banish fiends you cannot kill. Purge the evil from those possessed by fiends
 
-**Oath Spells**: 1st—*[[rangoric-srd/spells/Resist Energy|resist energy]]*; 2nd—*[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]*; 3rd—*[[rangoric-srd/spells/Invisibility Purge|invisibility purge]]*; 4th—*[[rangoric-srd/spells/Plane Shift|plane shift]]*.
+**Oath Spells**: 1st—_[[rangoric-srd/spells/Resist Energy|resist energy]]_; 2nd—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_; 3rd—_[[rangoric-srd/spells/Invisibility Purge|invisibility purge]]_; 4th—_[[rangoric-srd/spells/Plane Shift|plane shift]]_.
 
 ### Oath against Savagery
 
@@ -91,15 +91,15 @@ Some paladins are champions of order, pledging to battle the hordes of goblinoid
 
 **Code of Conduct**: Always heed the call of a community in danger from savages. Be the first in line to defend a settlement and the last to retreat.
 
-**Oath Spells**: 1st—*[[rangoric-srd/spells/Deathwatch|deathwatch]]*; 2nd—*[[rangoric-srd/spells/Protection from Arrows|protection from arrows]]*; 3rd—*[[rangoric-srd/spells/Haste|haste]]*; 4th—*[[rangoric-srd/spells/Divine Power|divine power]]*.
+**Oath Spells**: 1st—_[[rangoric-srd/spells/Deathwatch|deathwatch]]_; 2nd—_[[rangoric-srd/spells/Protection from Arrows|protection from arrows]]_; 3rd—_[[rangoric-srd/spells/Haste|haste]]_; 4th—_[[rangoric-srd/spells/Divine Power|divine power]]_.
 
 ### Oath against Undeath
 
 A paladin with this oath vows to restore the natural state of death to any animate corpse she encounters, and destroy the undead energy in the process. While a few paladins who take this oath recognize that not all undead are evil, others are quite willing to purge neutral and good undead along with all the evil ones.
 
-**Detect Undead (Su)**: This ability works like the standard paladin ability to [[rangoric-srd/classes/Paladin#^paladin-detect-evil|detect evil]], except as *[[rangoric-srd/spells/Detect Undead|detect undead]]* instead of *[[rangoric-srd/spells/Detect Evil|detect evil]]*. This ability replaces [[rangoric-srd/classes/Paladin#^paladin-detect-evil|detect evil]].
+**Detect Undead (Su)**: This ability works like the standard paladin ability to [[rangoric-srd/classes/Paladin#^paladin-detect-evil|detect evil]], except as _[[rangoric-srd/spells/Detect Undead|detect undead]]_ instead of _[[rangoric-srd/spells/Detect Evil|detect evil]]_. This ability replaces [[rangoric-srd/classes/Paladin#^paladin-detect-evil|detect evil]].
 
-**Ghost Touch Aura (Su)**: At 3rd level, the paladin's armor is treated as if it had the *[[rangoric-srd/magic-items/armor-abilities/Ghost Touch (Armor Special Ability)|ghost touch]]* armor property. This does not affect the cost or effect of any other abilities of the armor. At 9th level, this ability also applies to the paladin's shield. This ability replaces the paladin's 3rd-level and 9th-level [[rangoric-srd/classes/Paladin#^paladin-mercy|mercies]].
+**Ghost Touch Aura (Su)**: At 3rd level, the paladin's armor is treated as if it had the _[[rangoric-srd/magic-items/armor-abilities/Ghost Touch (Armor Special Ability)|ghost touch]]_ armor property. This does not affect the cost or effect of any other abilities of the armor. At 9th level, this ability also applies to the paladin's shield. This ability replaces the paladin's 3rd-level and 9th-level [[rangoric-srd/classes/Paladin#^paladin-mercy|mercies]].
 
 **Aura of Life (Su)**: At 8th level, the paladin gains a +4 morale bonus on saves against attacks that grant [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative levels]] and saves to overcome negative levels. Each ally within 10 feet of her gains a +2 morale bonus on these saves.
 
@@ -109,7 +109,7 @@ This ability functions only while the paladin is conscious, not if she is uncons
 
 **Code of Conduct**: Destroy all undead. Put to rest the poor souls turned against their will. Prevent the taint of undeath from spreading to the newly dead, blessing or burning the corpses as necessary.
 
-**Oath Spells**: 1st—*[[rangoric-srd/spells/Sanctify Corpse|sanctify corpse]]*; 2nd—*[[rangoric-srd/spells/Darkvision|darkvision]]*; 3rd—*[[rangoric-srd/spells/Searing Light|searing light]]*; 4th—*[[rangoric-srd/spells/Halt Undead|halt undead]]*.
+**Oath Spells**: 1st—_[[rangoric-srd/spells/Sanctify Corpse|sanctify corpse]]_; 2nd—_[[rangoric-srd/spells/Darkvision|darkvision]]_; 3rd—_[[rangoric-srd/spells/Searing Light|searing light]]_; 4th—_[[rangoric-srd/spells/Halt Undead|halt undead]]_.
 
 ### Oath against the Wyrm
 
@@ -117,13 +117,13 @@ Few dragons see the smaller races of the world as their equals—to most, humano
 
 **Breath Evasion (Su)**: At 4th level, a paladin with this oath gains [[rangoric-srd/rules/Special Abilities and Conditions#Evasion and Improved Evasion|evasion]], but only against the [[rangoric-srd/rules/Special Abilities and Conditions#Breath Weapon|breath weapons]] of creatures with the dragon type. This ability replaces [[rangoric-srd/classes/Paladin#^paladin-channel-positive-energy|channel positive energy]].
 
-**Divine Bond (Sp)**: This works like the paladin's normal [[rangoric-srd/classes/Paladin#^paladin-divine-bond|divine bond]] ability, except as follows. If the paladin's bond is with a weapon, she cannot use that ability to add the *[[rangoric-srd/magic-items/weapon-abilities/Brilliant Energy|brilliant energy]]*, *[[rangoric-srd/magic-items/weapon-abilities/Disruption|disruption]]*, or *[[rangoric-srd/magic-items/weapon-abilities/Merciful|merciful]]* weapon properties, but she can add the *[[rangoric-srd/magic-items/weapon-abilities/Bane (Weapon Special Ability)|bane]]* weapon property (but only against dragons). If the paladin's bond is with her steed ([[rangoric-srd/classes/Paladin#^paladin-special-mount|special mount]]), the steed gains the paladin's aura-based immunities and her aura does not affect allies. This replaces the standard [[rangoric-srd/classes/Paladin#^paladin-divine-bond|divine bond]] ability.
+**Divine Bond (Sp)**: This works like the paladin's normal [[rangoric-srd/classes/Paladin#^paladin-divine-bond|divine bond]] ability, except as follows. If the paladin's bond is with a weapon, she cannot use that ability to add the _[[rangoric-srd/magic-items/weapon-abilities/Brilliant Energy|brilliant energy]]_, _[[rangoric-srd/magic-items/weapon-abilities/Disruption|disruption]]_, or _[[rangoric-srd/magic-items/weapon-abilities/Merciful|merciful]]_ weapon properties, but she can add the _[[rangoric-srd/magic-items/weapon-abilities/Bane (Weapon Special Ability)|bane]]_ weapon property (but only against dragons). If the paladin's bond is with her steed ([[rangoric-srd/classes/Paladin#^paladin-special-mount|special mount]]), the steed gains the paladin's aura-based immunities and her aura does not affect allies. This replaces the standard [[rangoric-srd/classes/Paladin#^paladin-divine-bond|divine bond]] ability.
 
-**Dragon-Slaying Strike (Su)**: At 20th level, an oathbound paladin becomes a conduit of holy power. Her [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|DR]] increases to 10/evil. Whenever she uses smite evil and successfully strikes a dragon, the dragon is also subject to a single-target *[[rangoric-srd/spells/Holy Word|holy word]]*, using her paladin level +10 as the caster level. After the banishment effect and the damage from the attack are resolved, the smite immediately ends. In addition, whenever she channels positive energy or uses lay on hands to heal a creature, she heals the maximum possible amount. This ability replaces [[rangoric-srd/classes/Paladin#^paladin-holy-champion|holy champion]].
+**Dragon-Slaying Strike (Su)**: At 20th level, an oathbound paladin becomes a conduit of holy power. Her [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|DR]] increases to 10/evil. Whenever she uses smite evil and successfully strikes a dragon, the dragon is also subject to a single-target _[[rangoric-srd/spells/Holy Word|holy word]]_, using her paladin level +10 as the caster level. After the banishment effect and the damage from the attack are resolved, the smite immediately ends. In addition, whenever she channels positive energy or uses lay on hands to heal a creature, she heals the maximum possible amount. This ability replaces [[rangoric-srd/classes/Paladin#^paladin-holy-champion|holy champion]].
 
 **Code of Conduct**: Slay evil dragons, as well as other dangerous dragons whether or not they are evil. Prevent the bloodlines of other creatures from being corrupted with draconic power. Protect the innocent against the predation of dragons.
 
-**Oath Spells**: 1st—*[[rangoric-srd/spells/Enlarge Person|enlarge person]]*; 2nd—*[[rangoric-srd/spells/Bear’s Endurance|bear's endurance]]*; 3rd—*[[rangoric-srd/spells/Fly|fly]]*; 4th—*[[rangoric-srd/spells/Stoneskin|stoneskin]]*.
+**Oath Spells**: 1st—_[[rangoric-srd/spells/Enlarge Person|enlarge person]]_; 2nd—_[[rangoric-srd/spells/Bear’s Endurance|bear's endurance]]_; 3rd—_[[rangoric-srd/spells/Fly|fly]]_; 4th—_[[rangoric-srd/spells/Stoneskin|stoneskin]]_.
 
 ### Oath of Charity
 
@@ -135,7 +135,7 @@ Charity is more than just giving money to a temple or a cause—it is about the 
 
 **Code of Conduct**: Always offer help to good creatures who need it. Always offer help to the poor and destitute. (In settlements, this help is often handled by donating to charitable religious organizations, rather than the paladin being required to dole out coppers to every beggar in the street.)
 
-**Oath Spells**: 1st—*[[rangoric-srd/spells/Magic Stone|magic stone]]*; 2nd—*[[rangoric-srd/spells/Make Whole|make whole]]*; 3rd—*[[rangoric-srd/spells/Magic Vestment|magic vestment]]*; 4th—*[[rangoric-srd/spells/Imbue with Spell Ability|imbue with spell ability]]*.
+**Oath Spells**: 1st—_[[rangoric-srd/spells/Magic Stone|magic stone]]_; 2nd—_[[rangoric-srd/spells/Make Whole|make whole]]_; 3rd—_[[rangoric-srd/spells/Magic Vestment|magic vestment]]_; 4th—_[[rangoric-srd/spells/Imbue with Spell Ability|imbue with spell ability]]_.
 
 ### Oath of Chastity
 
@@ -143,11 +143,11 @@ A chaste paladin proves her purity by way of her action and her abstinence from 
 
 **Pure of Mind (Su)**: At 2nd level, the paladin gains a +4 sacred bonus on saves against [[rangoric-srd/rules/Special Abilities and Conditions#Charm and Compulsion|charm]] effects and figments, and gains a bonus equal to her Charisma modifier on Will saving throws. This ability replaces [[rangoric-srd/classes/Paladin#^paladin-divine-grace|divine grace]].
 
-**Pure of Body (Su)**: Upon reaching 8th level, the paladin has a 50% chance to turn any critical hit or sneak attack against her into a normal hit, as if she were wearing *[[rangoric-srd/magic-items/armor-abilities/Fortification|fortification]]* armor. This ability replaces [[rangoric-srd/classes/Paladin#^paladin-aura-of-resolve|aura of resolve]].
+**Pure of Body (Su)**: Upon reaching 8th level, the paladin has a 50% chance to turn any critical hit or sneak attack against her into a normal hit, as if she were wearing _[[rangoric-srd/magic-items/armor-abilities/Fortification|fortification]]_ armor. This ability replaces [[rangoric-srd/classes/Paladin#^paladin-aura-of-resolve|aura of resolve]].
 
 **Code of Conduct**: Never engage in a romantic relationship or a sexual act.
 
-**Oath Spells**: 1st—*[[rangoric-srd/spells/Remove Fear|remove fear]]*; 2nd—*[[rangoric-srd/spells/Confess|confess]]*; 3rd—*[[rangoric-srd/spells/Heroism|heroism]]*; 4th—*[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]*.
+**Oath Spells**: 1st—_[[rangoric-srd/spells/Remove Fear|remove fear]]_; 2nd—_[[rangoric-srd/spells/Confess|confess]]_; 3rd—_[[rangoric-srd/spells/Heroism|heroism]]_; 4th—_[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_.
 
 ### Oath of Loyalty
 
@@ -161,7 +161,7 @@ If the target is struck by an enemy and the paladin is adjacent to that enemy, a
 
 **Code of Conduct**: Keep all promises. Never make an oath or promise lightly. Never go back on an oath.
 
-**Oath Spells**: 1st—*[[rangoric-srd/spells/Wrath|wrath]]*; 2nd—*[[rangoric-srd/spells/Aid|aid]]*; 3rd—*[[rangoric-srd/spells/Helping Hand|helping hand]]*; 4th—*[[rangoric-srd/spells/Sending|sending]]*.
+**Oath Spells**: 1st—_[[rangoric-srd/spells/Wrath|wrath]]_; 2nd—_[[rangoric-srd/spells/Aid|aid]]_; 3rd—_[[rangoric-srd/spells/Helping Hand|helping hand]]_; 4th—_[[rangoric-srd/spells/Sending|sending]]_.
 
 ### Oath of Vengeance
 
@@ -173,4 +173,4 @@ While all paladins uphold the principals of law and good, sometimes these ideas 
 
 **Code of Conduct**: Never let lesser evils distract you from your pursuit of just vengeance.
 
-**Oath Spells**: 1st—*[[rangoric-srd/spells/Wrath|wrath]]*; 2nd—*[[rangoric-srd/spells/Confess|confess]]*; 3rd—*[[rangoric-srd/spells/Blessing of Fervor|blessing of fervor]]*; 4th—*[[rangoric-srd/spells/Order’s Wrath|order's wrath]]*.
+**Oath Spells**: 1st—_[[rangoric-srd/spells/Wrath|wrath]]_; 2nd—_[[rangoric-srd/spells/Confess|confess]]_; 3rd—_[[rangoric-srd/spells/Blessing of Fervor|blessing of fervor]]_; 4th—_[[rangoric-srd/spells/Order’s Wrath|order's wrath]]_.

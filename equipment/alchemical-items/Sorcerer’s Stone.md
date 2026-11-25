@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Sorcerer’s Stone
 
-*Alchana, Greater; Special*
+_Alchana, Greater; Special_
 
 The last of the Five Great Alchana Stones, the Sorcerer’s Stone is most often sought by non-alchemists for its wizardly benefits and its abilities to manipulate magics. Like the others, wearing the Sorcerers’ Stone next to one’s skin provides some bonuses without cost: in this case, a +5 circumstance bonus on [[rangoric-srd/skills/Mysticism|Mysticism]] and counterspelling checks. Its active power allows it, when touched to an item, to absorb one charge from a charged magical item (wand, staff, rod, ring, etc.) in a round. In the round following, the Sorcerer’s Stone returns that charge as 1d4+1 charges, restoring and reviving more than magnifying the magical energies of the item.
 

@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/overview]
 ### Psion
 
 Alignment: Any.  
-Hit Die: d4.  
+Hit Die: d4.
 
 **[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
 
@@ -26,7 +26,7 @@ Hit Die: d4.
 
 ###### Class Skills
 
-The psion’s class skills (and the key ability for each skill) are all [[rangoric-srd/skills/Knowledge|Knowledge skills]]\* (Int) and [[rangoric-srd/skills/Mysticism|Mysticism]] (Int). In addition, a psion gains access to additional class skills based on his discipline:  
+The psion’s class skills (and the key ability for each skill) are all [[rangoric-srd/skills/Knowledge|Knowledge skills]]\* (Int) and [[rangoric-srd/skills/Mysticism|Mysticism]] (Int). In addition, a psion gains access to additional class skills based on his discipline:
 
 Seer (Clairsentience): [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha) and [[rangoric-srd/skills/Perception|Perception]] (Wis).
 
@@ -44,35 +44,35 @@ Telepath (Telepathy): [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rango
 
 Skill Points at Each Level: 2 + Int modifier.
 
-Table: The Psion  
+Table: The Psion
 
 |       |                        |                  |              |                           |
 | ----- | ---------------------- | ---------------- | ------------ | ------------------------- |
 | Level | Special                | Power Points/Day | Powers Known | Maximum Power Level Known |
 | 1st   | Bonus feat, discipline | 2                | 3            | 1st                       |
-| 2nd   | -                     | 6                | 5            | 1st                       |
-| 3rd   | -                     | 11               | 7            | 2nd                       |
-| 4th   | -                     | 17               | 9            | 2nd                       |
+| 2nd   | -                      | 6                | 5            | 1st                       |
+| 3rd   | -                      | 11               | 7            | 2nd                       |
+| 4th   | -                      | 17               | 9            | 2nd                       |
 | 5th   | Bonus feat             | 25               | 11           | 3rd                       |
-| 6th   | -                     | 35               | 13           | 3rd                       |
-| 7th   | -                     | 46               | 15           | 4th                       |
-| 8th   | -                     | 58               | 17           | 4th                       |
-| 9th   | -                     | 72               | 19           | 5th                       |
+| 6th   | -                      | 35               | 13           | 3rd                       |
+| 7th   | -                      | 46               | 15           | 4th                       |
+| 8th   | -                      | 58               | 17           | 4th                       |
+| 9th   | -                      | 72               | 19           | 5th                       |
 | 10th  | Bonus feat             | 88               | 21           | 5th                       |
-| 11th  | -                     | 106              | 22           | 6th                       |
-| 12th  | -                     | 126              | 24           | 6th                       |
-| 13th  | -                     | 147              | 25           | 7th                       |
-| 14th  | -                     | 170              | 27           | 7th                       |
+| 11th  | -                      | 106              | 22           | 6th                       |
+| 12th  | -                      | 126              | 24           | 6th                       |
+| 13th  | -                      | 147              | 25           | 7th                       |
+| 14th  | -                      | 170              | 27           | 7th                       |
 | 15th  | Bonus feat             | 195              | 28           | 8th                       |
-| 16th  | -                     | 221              | 30           | 8th                       |
-| 17th  | -                     | 250              | 31           | 9th                       |
-| 18th  | -                     | 280              | 33           | 9th                       |
-| 19th  | -                     | 311              | 34           | 9th                       |
+| 16th  | -                      | 221              | 30           | 8th                       |
+| 17th  | -                      | 250              | 31           | 9th                       |
+| 18th  | -                      | 280              | 33           | 9th                       |
+| 19th  | -                      | 311              | 34           | 9th                       |
 | 20th  | Bonus feat             | 343              | 36           | 9th                       |
 
 ###### Class Features
 
-All the following are class features of the psion.  
+All the following are class features of the psion.
 
 Weapon and Armor Proficiency: Psions are proficient with the club, dagger, heavy crossbow, light crossbow, quarterstaff, and shortspear. They are not proficient with any type of armor or shield. Armor does not, however, interfere with the manifestation of powers.
 
@@ -88,11 +88,11 @@ The Difficulty Class for saving throws against psion powers is 10 + the power’
 To learn or manifest a power, a psion must have an Intelligence score of at least 10 + the power’s level.
 
 Bonus Feats: A psion gains a bonus feat at 1st level, 5th level, 10th level, 15th level, and 20th level. This feat must be a psionic feat, a metapsionic feat, or a psionic item creation feat.  
-These bonus feats are in addition to the feats that a character of any class gains every three levels. A psion is not limited to psionic feats, metapsionic feats, and psionic item creation feats when choosing these other feats.  
+These bonus feats are in addition to the feats that a character of any class gains every three levels. A psion is not limited to psionic feats, metapsionic feats, and psionic item creation feats when choosing these other feats.
 
 ##### Psionic Disciplines
 
-A discipline is one of six groupings of powers, each defined by a common theme. The six disciplines are clairsentience, metacreativity, psychokinesis, psychometabolism, psychoportation, and telepathy.  
+A discipline is one of six groupings of powers, each defined by a common theme. The six disciplines are clairsentience, metacreativity, psychokinesis, psychometabolism, psychoportation, and telepathy.
 
 Clairsentience: A psion who chooses clairsentience is known as a seer. Seers can learn precognitive powers to aid their comrades in combat, as well as powers that permit them to gather information in many different ways.
 
@@ -104,7 +104,7 @@ Psychometabolism: A psion who specializes in psychometabolism is known as an ego
 
 Psychoportation: A psion who relies on psychoportation powers is known as a nomad. Nomads can wield powers that propel or displace objects in space or time.
 
-Telepathy: A psion who chooses the discipline of telepathy is known as a telepath. He is the master of powers that allow mental contact and control of other sentient creatures. A telepath can deceive or destroy the minds of his enemies with ease.  
+Telepathy: A psion who chooses the discipline of telepathy is known as a telepath. He is the master of powers that allow mental contact and control of other sentient creatures. A telepath can deceive or destroy the minds of his enemies with ease.
 
 ##### Psicrystals
 
@@ -126,22 +126,22 @@ Saving Throws: A psicrystal uses its owner’s base saving throw bonuses and abi
 
 Abilities: When its self-propulsion ability is not activated, a psicrystal has no Strength score and no Dexterity score.
 
-Skills: A psicrystal has the same skill ranks as its owner, except that it has a minimum of 4 ranks each in [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Stealth|Stealth]], and [[rangoric-srd/skills/Investigation|Investigation]]. (Even if its owner has no ranks in these skills, a psicrystal has 4 ranks in each.) A psicrystal uses its own ability modifiers on skill checks.  
+Skills: A psicrystal has the same skill ranks as its owner, except that it has a minimum of 4 ranks each in [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Stealth|Stealth]], and [[rangoric-srd/skills/Investigation|Investigation]]. (Even if its owner has no ranks in these skills, a psicrystal has 4 ranks in each.) A psicrystal uses its own ability modifiers on skill checks.
 
 Psicrystal Special Abilities
 
-| Owner Level | Natural Armor Adj. | Int Adj. | Special                                                                                           |
-| ----------- | ------------------ | -------- | ------------------------------------------------------------------------------------------------- |
-| 1st–2nd     | +0                | +0      | keen senses, improved evasion, personality, self-propulsion, share powers, sighted, telepathic link |
-| 3rd–4th     | +1                | +1      | Deliver touch powers                                                                              |
-| 5th–6th     | +2                | +2      | Telepathic speech                                                                                 |
-| 7th–8th     | +3                | +3      | -                                                                                                |
-| 9th–10th    | +4                | +4      | Flight                                                                                            |
-| 11th–12th   | +5                | +5      | Power resistance                                                                                  |
-| 13th–14th   | +6                | +6      | Sight link                                                                                        |
-| 15th–16th   | +7                | +7      | Channel power                                                                                     |
-| 17th–18th   | +8                | +8      | -                                                                                                |
-| 19th–20th   | +9                | +9      | -                                                                                                |
+| Owner Level | Natural Armor Adj. | Int Adj. | Special                                                                                             |
+| ----------- | ------------------ | -------- | --------------------------------------------------------------------------------------------------- |
+| 1st–2nd     | +0                 | +0       | keen senses, improved evasion, personality, self-propulsion, share powers, sighted, telepathic link |
+| 3rd–4th     | +1                 | +1       | Deliver touch powers                                                                                |
+| 5th–6th     | +2                 | +2       | Telepathic speech                                                                                   |
+| 7th–8th     | +3                 | +3       | -                                                                                                   |
+| 9th–10th    | +4                 | +4       | Flight                                                                                              |
+| 11th–12th   | +5                 | +5       | Power resistance                                                                                    |
+| 13th–14th   | +6                 | +6       | Sight link                                                                                          |
+| 15th–16th   | +7                 | +7       | Channel power                                                                                       |
+| 17th–18th   | +8                 | +8       | -                                                                                                   |
+| 19th–20th   | +9                 | +9       | -                                                                                                   |
 
 Psicrystal Ability Descriptions: All psicrystals have special abilities (or impart abilities to their owners) depending on the level of the owner, as shown on the table above. The abilities on the table are cumulative.
 
@@ -181,22 +181,22 @@ When channeling a power through his psicrystal, the owner manifests the power by
 Psicrystal Personality (Ex): Each psicrystal has a distinct personality, chosen by its owner at the time of its creation from among those given on the following table. At 1st level, its owner typically gets a feel for a psicrystal’s personality only through occasional impulses, but as the owner increases in level the psicrystal’s personality becomes more pronounced. At higher levels, it is not uncommon for a psicrystal to constantly ply its owner with observations and advice, often severely slanted toward the psicrystal’s particular worldview. The owner always sees a bit of himself in his psicrystal, even if magnified and therefore distorted.  
  ^psicrystal-personality
 
-Psicrystal Personalities  
+Psicrystal Personalities
 
-| Personality   | Benefit to Owner                                                                                                                                |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Personality   | Benefit to Owner                                                                                                                             |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | Artiste       | +3 bonus on [[rangoric-srd/skills/Craft\|Craft]] checks                                                                                      |
-| Bully         | +3 bonus on [[rangoric-srd/skills/Intimidation\|Intimidation]] checks                                                                            |
-| Coward        | +3 bonus on [[rangoric-srd/skills/Stealth\|Stealth]] checks                                                                                        |
-| Friendly      | +3 bonus on [[rangoric-srd/skills/Persuasion\|Persuasion]] checks                                                                              |
-| Hero          | +2 bonus on Fortitude saves                                                                                                                    |
-| Liar          | +3 bonus on [[rangoric-srd/skills/Deception\|Deception]] checks                                                                                      |
-| Meticulous    | +3 bonus on [[rangoric-srd/skills/Investigation\|Investigation]] checks                                                                                    |
-| Nimble        | +2 bonus on Initiative checks                                                                                                                  |
-| Observant     | +3 bonus on [[rangoric-srd/skills/Perception\|Perception]] checks                                                                                        |
-| Poised        | +3 bonus on [[rangoric-srd/skills/Acrobatics\|Acrobatics]] checks                                                                                  |
-| Resolved      | +2 bonus on Will saves                                                                                                                         |
+| Bully         | +3 bonus on [[rangoric-srd/skills/Intimidation\|Intimidation]] checks                                                                        |
+| Coward        | +3 bonus on [[rangoric-srd/skills/Stealth\|Stealth]] checks                                                                                  |
+| Friendly      | +3 bonus on [[rangoric-srd/skills/Persuasion\|Persuasion]] checks                                                                            |
+| Hero          | +2 bonus on Fortitude saves                                                                                                                  |
+| Liar          | +3 bonus on [[rangoric-srd/skills/Deception\|Deception]] checks                                                                              |
+| Meticulous    | +3 bonus on [[rangoric-srd/skills/Investigation\|Investigation]] checks                                                                      |
+| Nimble        | +2 bonus on Initiative checks                                                                                                                |
+| Observant     | +3 bonus on [[rangoric-srd/skills/Perception\|Perception]] checks                                                                            |
+| Poised        | +3 bonus on [[rangoric-srd/skills/Acrobatics\|Acrobatics]] checks                                                                            |
+| Resolved      | +2 bonus on Will saves                                                                                                                       |
 | Sage          | +3 bonus on checks involving any one [[rangoric-srd/skills/Knowledge\|Knowledge]] skill owner already knows; once chosen, this does not vary |
-| Single-minded | +3 bonus on [[rangoric-srd/psionics/Psionics#Concentration\|Concentration]] checks                                                                      |
-| Sneaky        | +3 bonus on [[rangoric-srd/skills/Stealth\|Stealth]] checks                                                                      |
+| Single-minded | +3 bonus on [[rangoric-srd/psionics/Psionics#Concentration\|Concentration]] checks                                                           |
+| Sneaky        | +3 bonus on [[rangoric-srd/skills/Stealth\|Stealth]] checks                                                                                  |
 | Sympathetic   | +3 bonus on [[rangoric-srd/skills/Sense Motive\|Sense Motive]] checks                                                                        |

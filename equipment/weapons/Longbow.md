@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/bows]
 
 # Longbow
 
-*Martial ranged weapon.* Cost 75 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Range Increment 100 ft.; Weight 3 lb.; Type Piercing. ^stats
+_Martial ranged weapon._ Cost 75 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Range Increment 100 ft.; Weight 3 lb.; Type Piercing. ^stats
 
 You need at least two hands to use a bow, regardless of its size. A longbow is too unwieldy to use while you are mounted. If you have a penalty for low Strength, apply it to damage rolls when you use a longbow. If you have a bonus for high Strength, you can apply it to damage rolls when you use a composite longbow (see below) but not a regular longbow.

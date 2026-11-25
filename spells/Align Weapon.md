@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Align Weapon
 
-*Transmutation \[see text\]*
+_Transmutation \[see text\]_
 
-  - **Level**: Clr 2, Inq 2
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Weapon touched or fifty projectiles (all of which must be in contact with each other at the time of casting)
-  - **Duration**: 1 min./level
-  - **Saving Throw**: Will negates (harmless, object)
-  - **Spell Resistance**: Yes (harmless, object)
+- **Level**: Clr 2, Inq 2
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Weapon touched or fifty projectiles (all of which must be in contact with each other at the time of casting)
+- **Duration**: 1 min./level
+- **Saving Throw**: Will negates (harmless, object)
+- **Spell Resistance**: Yes (harmless, object)
 
 Align weapon makes a weapon good, evil, lawful, or chaotic, as you choose. A weapon that is aligned can bypass the [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|damage reduction]] of certain creatures. This spell has no effect on a weapon that already has an alignment.
 

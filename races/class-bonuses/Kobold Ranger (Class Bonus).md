@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Kobold Ranger
 
-*A [[rangoric-srd/races/Kobold|kobold]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Ranger#^ranger-class-bonuses|ranger]] level.*
+_A [[rangoric-srd/races/Kobold|kobold]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Ranger#^ranger-class-bonuses|ranger]] level._
 
 Add +1/4 to the number of opponents the ranger may select when using [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter’s bond]] to grant a bonus to allies. All selected creatures must be of the same type.

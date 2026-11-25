@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Swamp Druid
 
-*A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Some druids eschew pleasant glades and groves and instead seek out dank marshes, misty bogs and heaths, and trackless swamps as the place they call home and watch over with care, finding beauty and life in abundance in places few others would willingly enter.
 
@@ -32,4 +32,4 @@ Some druids eschew pleasant glades and groves and instead seek out dank marshes,
 
 **Wild Shape (Su)**: A swamp druid gains [[rangoric-srd/classes/Druid#^druid-wild-shape|this ability]] at 6th level, except that her effective druid level for the ability is equal to her druid level – 2.
 
-**Slippery (Ex)**: At 13th level, a swamp druid gains continuous *[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]*. This ability replaces [[rangoric-srd/classes/Druid#^druid-a-thousand-faces|a thousand faces]].
+**Slippery (Ex)**: At 13th level, a swamp druid gains continuous _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_. This ability replaces [[rangoric-srd/classes/Druid#^druid-a-thousand-faces|a thousand faces]].

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Viper Vine
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 20d8+100 (190 hp)
-  - **Initiative**: +8
-  - **Speed**: 10 ft. (2 squares)
-  - **Armor Class**: 27 (+4 Dex, +1 dodge, +13 natural, –1 size), touch 14, flat-footed 22
-  - **Base Attack**: +15; **CMB**: +24 (+28 grapple); **CMD**: 39 (can't be tripped)
-  - **Attack**: Bite +23 melee (2d6+8/19–20 plus 3d6 acid) or tentacle +26 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +23 melee (2d6+8/19–20 plus 3d6 acid) and 4 tentacles +21 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./10 ft. (20 ft. with tentacle)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Captivating Cloud|Captivating cloud]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] (1d6+8)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Cold Lethargy|cold lethargy]]
-  - **Saves**: Fort +16, Ref +12, Will +6
-  - **Abilities**: Str 26, Dex 19, Con 19, Int 1, Wis 10, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +13
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacle)
-  - **Environment**: Temperate or warm forests or swamps
-  - **Organization**: Solitary
-  - **Challenge Rating**: 13
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 20d8+100 (190 hp)
+- **Initiative**: +8
+- **Speed**: 10 ft. (2 squares)
+- **Armor Class**: 27 (+4 Dex, +1 dodge, +13 natural, –1 size), touch 14, flat-footed 22
+- **Base Attack**: +15; **CMB**: +24 (+28 grapple); **CMD**: 39 (can't be tripped)
+- **Attack**: Bite +23 melee (2d6+8/19–20 plus 3d6 acid) or tentacle +26 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +23 melee (2d6+8/19–20 plus 3d6 acid) and 4 tentacles +21 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./10 ft. (20 ft. with tentacle)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Captivating Cloud|Captivating cloud]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] (1d6+8)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Cold Lethargy|cold lethargy]]
+- **Saves**: Fort +16, Ref +12, Will +6
+- **Abilities**: Str 26, Dex 19, Con 19, Int 1, Wis 10, Cha 6
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +13
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacle)
+- **Environment**: Temperate or warm forests or swamps
+- **Organization**: Solitary
+- **Challenge Rating**: 13
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A voracious, flesh-eating carnivore, the viper vine has a single enormous bloom arising from a thick, leafy tangle of snake-like vines. When the plant senses the approach of suitable prey through its sensitive, shallowly buried root system, it rises up like an agitated snake and unfurls its brightly colored bloom, an act that releases a cloud of mind-numbing pollen. While stories speaking of the plant's ability to lure prey into its clutches by virtue of its swaying motion persist, this effect is in fact created by this invisible, odorless pollen cloud.
 

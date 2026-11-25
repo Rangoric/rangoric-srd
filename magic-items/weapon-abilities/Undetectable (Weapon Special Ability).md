@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Undetectable
 
-Weapons enhanced with the undetectable property appear to be nonmagical creations. If subjected to a *[[rangoric-srd/spells/Detect Magic|detect magic]]* spell, they do not radiate an aura of magic.
+Weapons enhanced with the undetectable property appear to be nonmagical creations. If subjected to a _[[rangoric-srd/spells/Detect Magic|detect magic]]_ spell, they do not radiate an aura of magic.
 
-Faint illusion [glamer]; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Magic Aura|magic aura]]*; Price +1 bonus.
+Faint illusion [glamer]; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Magic Aura|magic aura]]_; Price +1 bonus.

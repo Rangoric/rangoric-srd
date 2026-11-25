@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Power Specialization
 
-You deal more damage with your powers.  
+You deal more damage with your powers.
 
 Prerequisites: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (ray), manifester level 4th.
 

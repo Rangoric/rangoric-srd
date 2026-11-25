@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Synapse Overload
 
-*Divination \[Mind-Affecting\]*
+_Divination \[Mind-Affecting\]_
 
-  - **Level**: Mes 4, Psy 5
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Living creature touched
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude partial (see text)
-  - **Spell Resistance**: Yes
+- **Level**: Mes 4, Psy 5
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Living creature touched
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude partial (see text)
+- **Spell Resistance**: Yes
 
 You cause the target's mind to unleash a vast overflowing torrent of information throughout the target's body, causing the target's synapses to violently trigger. The target takes 1d6 points of electrical damage per caster level (maximum 15d6) and is staggered for 1 minute. A successful Fortitude saving throw doesn't reduce the damage, but it negates the staggered effect.

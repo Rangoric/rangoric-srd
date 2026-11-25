@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Storm Prophet
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Dwarf)
-  - **Hit Dice**: 7d6+2d12+40 (80 hp)
-  - **Initiative**: +5
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 19 (+4 armor, +1 deflection, +1 Dex, +3 natural), touch 12, flat-footed 18
-  - **Base Attack**: +4; **CMB**: +10; **CMD**: 22 (26 vs. bull rush or trip)
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Warhammer|warhammer]] +11 melee (1d8+7/×3) or claw +11 melee (1d6+6) or bite +10 melee (1d6+9)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Warhammer|warhammer]] +11 melee (1d8+7/×3); or 2 claws +11 melee (1d6+6) and bite +10 melee (1d6+9)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/races/Dwarf|+1 on attack rolls against goblinoid and orc humanoids]], [[rangoric-srd/prestige-classes/Dragon Disciple|dragon bite]], [[rangoric-srd/prestige-classes/Dragon Disciple|claws]] (2, 1d4+4, magic, 5 rounds/day)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Dwarf#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/prestige-classes/Dragon Disciple|blood of dragons]], [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|bloodline arcana]] (electricity spells deal +1 damage per die), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 5
-  - **Saves**: Fort +11, Ref +4, Will +9 (+2 vs. poison, spells, and spell-like abilities)
-  - **Abilities**: Str 22, Dex 12, Con 16, Int 10, Wis 10, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +2, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Investigation|Investigation]] +0 (+2 to notice unusual stonework), [[rangoric-srd/skills/Linguistics|Linguistics]] +1, [[rangoric-srd/skills/Nature|Nature]] +1, [[rangoric-srd/skills/Perception|Perception]] +10, Perform (oratory) +3, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Society|Society]] +1
-  - **Feats**: [[rangoric-srd/feats/Arcane Armor Mastery|Arcane Armor Mastery]], [[rangoric-srd/feats/Arcane Armor Training|Arcane Armor Training]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claws)
-  - **Environment**: Temperate mountains
-  - **Organization**: Solitary, or with other dwarves (see [[rangoric-srd/monsters/dwarf/Dwarf|Dwarf]])
-  - **Challenge Rating**: 8
-  - **Treasure**: NPC gear (combat gear: potion of bull's strength, potion of cure moderate wounds; other gear: +1 warhammer, amulet of natural armor +1, cloak of resistance +1, headband of alluring charisma +2, ring of protection +1, 138 gp)
-  - **Alignment**: Chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Dwarf)
+- **Hit Dice**: 7d6+2d12+40 (80 hp)
+- **Initiative**: +5
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 19 (+4 armor, +1 deflection, +1 Dex, +3 natural), touch 12, flat-footed 18
+- **Base Attack**: +4; **CMB**: +10; **CMD**: 22 (26 vs. bull rush or trip)
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Warhammer|warhammer]] +11 melee (1d8+7/×3) or claw +11 melee (1d6+6) or bite +10 melee (1d6+9)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Warhammer|warhammer]] +11 melee (1d8+7/×3); or 2 claws +11 melee (1d6+6) and bite +10 melee (1d6+9)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/races/Dwarf|+1 on attack rolls against goblinoid and orc humanoids]], [[rangoric-srd/prestige-classes/Dragon Disciple|dragon bite]], [[rangoric-srd/prestige-classes/Dragon Disciple|claws]] (2, 1d4+4, magic, 5 rounds/day)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Dwarf#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/prestige-classes/Dragon Disciple|blood of dragons]], [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|bloodline arcana]] (electricity spells deal +1 damage per die), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 5
+- **Saves**: Fort +11, Ref +4, Will +9 (+2 vs. poison, spells, and spell-like abilities)
+- **Abilities**: Str 22, Dex 12, Con 16, Int 10, Wis 10, Cha 14
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +2, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Investigation|Investigation]] +0 (+2 to notice unusual stonework), [[rangoric-srd/skills/Linguistics|Linguistics]] +1, [[rangoric-srd/skills/Nature|Nature]] +1, [[rangoric-srd/skills/Perception|Perception]] +10, Perform (oratory) +3, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Society|Society]] +1
+- **Feats**: [[rangoric-srd/feats/Arcane Armor Mastery|Arcane Armor Mastery]], [[rangoric-srd/feats/Arcane Armor Training|Arcane Armor Training]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claws)
+- **Environment**: Temperate mountains
+- **Organization**: Solitary, or with other dwarves (see [[rangoric-srd/monsters/dwarf/Dwarf|Dwarf]])
+- **Challenge Rating**: 8
+- **Treasure**: NPC gear (combat gear: potion of bull's strength, potion of cure moderate wounds; other gear: +1 warhammer, amulet of natural armor +1, cloak of resistance +1, headband of alluring charisma +2, ring of protection +1, 138 gp)
+- **Alignment**: Chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A storm prophet is a [[rangoric-srd/monsters/dwarf/Dwarf|dwarf]] with 7 levels of [[rangoric-srd/classes/Sorcerer|sorcerer]] and 2 levels of [[rangoric-srd/prestige-classes/Dragon Disciple|dragon disciple]]. Storm prophets are as terrible as thunderheads and as capricious as tornados.
 
@@ -75,4 +75,4 @@ A storm prophet speaks Common, Draconic, and Dwarven.
 
 **Base Statistics**: Without bull's strength, false life, and mage armor, the dragon disciple's statistics are **AC** 15, touch 12, flat-footed 14; **hp** no temporary hit points; **Melee** +1 warhammer +9 (1d8+5/×3) or bite +8 (1d6+6), 2 claws +9 (1d6+4); **Str** 18; **CMB** +8; **CMD** 20 (24 vs. bull rush or trip); **Skills** Athletics +4.
 
-**Sorcerer spells known** (CL 8th; concentration +10): 4th (3/day)—*[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]*; 3rd (5/day)—*[[rangoric-srd/spells/Fly|fly]]*, *[[rangoric-srd/spells/Heroism|heroism]]*, *[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]*(DC 15); 2nd (7/day)—*[[rangoric-srd/spells/False Life|false life]]*, *[[rangoric-srd/spells/Protection from Arrows|protection from arrows]]*, *[[rangoric-srd/spells/Resist Energy|resist energy]], [[rangoric-srd/spells/Scorching Ray|scorching ray]]*; 1st (7/day)—*[[rangoric-srd/spells/Enlarge Person|enlarge person]]* (DC 13), *[[rangoric-srd/spells/Mage Armor|mage armor]], [[rangoric-srd/spells/Magic Missile|magic missile]]*, *[[rangoric-srd/spells/Magic Weapon|magic weapon]]*, *[[rangoric-srd/spells/Shield|shield]]*, *[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]*; 0 (at will)—*[[rangoric-srd/spells/Arcane Mark|arcane mark]]*, *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Detect Poison|detect poison]]*, *[[rangoric-srd/spells/Ghost Sound|ghost sound]]* (DC 12), *[[rangoric-srd/spells/Light|light]]*, *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Message|message]]*, *[[rangoric-srd/spells/Resistance|resistance]]*; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|draconic (blue)]].
+**Sorcerer spells known** (CL 8th; concentration +10): 4th (3/day)—_[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]_; 3rd (5/day)—_[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Heroism|heroism]]_, _[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_(DC 15); 2nd (7/day)—_[[rangoric-srd/spells/False Life|false life]]_, _[[rangoric-srd/spells/Protection from Arrows|protection from arrows]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]], [[rangoric-srd/spells/Scorching Ray|scorching ray]]_; 1st (7/day)—_[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ (DC 13), _[[rangoric-srd/spells/Mage Armor|mage armor]], [[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Magic Weapon|magic weapon]]_, _[[rangoric-srd/spells/Shield|shield]]_, _[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]_; 0 (at will)—_[[rangoric-srd/spells/Arcane Mark|arcane mark]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Detect Poison|detect poison]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 12), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Message|message]]_, _[[rangoric-srd/spells/Resistance|resistance]]_; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|draconic (blue)]].

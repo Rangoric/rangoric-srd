@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Kata Master
 
-*A [[rangoric-srd/classes/Monk#^monk-archetypes|monk]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Monk#^monk-archetypes|monk]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 The kata master takes the visual aspect of his martial art to its logical extreme, harnessing his flowing movements and skilled maneuvers as a psychological weapon against his enemies. A kata master forsakes the mental discipline of his more contemplative brethren in favor of flamboyant exhibitions. He often performs in staged fights and tournaments, utilizing stylized forms to amaze the audience and shock and dismay his opponents.
 

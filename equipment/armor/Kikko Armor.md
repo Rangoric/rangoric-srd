@@ -25,6 +25,6 @@ tags: [rangoric, rangoric/armor]
 
 # Kikko Armor
 
-*Medium armor.* Cost 250 gp; Armor Bonus +5; Maximum Dex Bonus +4; Armor Check Penalty –3; Arcane Spell Failure 20%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 25 lb. ^stats
+_Medium armor._ Cost 250 gp; Armor Bonus +5; Maximum Dex Bonus +4; Armor Check Penalty –3; Arcane Spell Failure 20%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 25 lb. ^stats
 
 Kikko armor consists of a clever arrangement of hexagonal plates made from iron and sewn to cloth, granting the wearer greater flexibility than that provided by many armors that afford similar defense. The plates may be left exposed or hidden by a layer of cloth.

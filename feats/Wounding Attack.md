@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Wounding Attack
 
-Your vicious attacks wound your foe.  
+Your vicious attacks wound your foe.
 
 Prerequisite: Base attack bonus +8.
 

@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Stonemist Cloak
 
-In rocky or mountainous areas, when this stone-gray cloak is worn with the hood drawn up around the head, the wearer gains a +5 competence bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks. Once per day, the wearer can create an area of fog equivalent to *[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]*.
+In rocky or mountainous areas, when this stone-gray cloak is worn with the hood drawn up around the head, the wearer gains a +5 competence bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks. Once per day, the wearer can create an area of fog equivalent to _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_.
 
-Faint conjuration (creation) and illusion; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]*; Price 3,500 gp; Cost 1,750 gp; Weight 1 lb.
+Faint conjuration (creation) and illusion; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_; Price 3,500 gp; Cost 1,750 gp; Weight 1 lb.

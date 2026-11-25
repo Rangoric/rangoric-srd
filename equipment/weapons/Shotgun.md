@@ -26,6 +26,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/firearms]
 
 # Shotgun
 
-*Exotic two-handed advanced firearm (scatter).* Cost 5,000 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Range Increment 20 ft.; Misfire 1–2; Capacity 1; Weight 12 lb.; Type Bludgeoning and piercing. ^stats
+_Exotic two-handed advanced firearm (scatter)._ Cost 5,000 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Range Increment 20 ft.; Misfire 1–2; Capacity 1; Weight 12 lb.; Type Bludgeoning and piercing. ^stats
 
 This advanced version of the blunderbuss shoots in a 30-foot cone when firing pellets, and has a 20-foot range increment when firing a bullet (often called a slug). A shotgun uses metal cartridges (loaded with either a bullet or pellets) as ammunition.

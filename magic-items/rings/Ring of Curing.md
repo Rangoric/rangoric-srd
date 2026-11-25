@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Ring of Curing
 
-This simple copper ring is a boon to those who spend their lives healing others. Whenever the wearer of a *ring of curing* casts a conjuration spell of the healing subschool, all maximums to the level-dependent healing provided by that spell increase by 2. For example, *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]* would provide a maximum healing of 1d8 + 7 (at 7th caster level), while *[[rangoric-srd/spells/Heal (Spell)|heal]]* would cure a maximum of 170 points of damage. This ring does not increase the wearer's actual caster level, nor the amount of level-dependent healing provided by any such spell.
+This simple copper ring is a boon to those who spend their lives healing others. Whenever the wearer of a _ring of curing_ casts a conjuration spell of the healing subschool, all maximums to the level-dependent healing provided by that spell increase by 2. For example, _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_ would provide a maximum healing of 1d8 + 7 (at 7th caster level), while _[[rangoric-srd/spells/Heal (Spell)|heal]]_ would cure a maximum of 170 points of damage. This ring does not increase the wearer's actual caster level, nor the amount of level-dependent healing provided by any such spell.
 
-Moderate transmutation; CL 8th; [[rangoric-srd/feats/Forge Ring|Forge Ring]], [[rangoric-srd/feats/Heighten Spell|Heighten Spell]], *[[rangoric-srd/spells/Consecrate|consecrate]]*; Price 10,000 gp; Cost 5,000 gp.
+Moderate transmutation; CL 8th; [[rangoric-srd/feats/Forge Ring|Forge Ring]], [[rangoric-srd/feats/Heighten Spell|Heighten Spell]], _[[rangoric-srd/spells/Consecrate|consecrate]]_; Price 10,000 gp; Cost 5,000 gp.

@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/magic-item]
 
 These dark-colored, skin-tight gloves are typically made of either supple calfskin or silk. A wearer of these gloves with at least 1 rank in Sleight of Hand can perform such a check as a move action by taking a –10 penalty on the check rather than the normal –20. Both gloves must be worn for the magic to be effective.
 
-Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*, *[[rangoric-srd/spells/Haste|haste]]*; Price 2,500 gp; Cost 1,250 gp.
+Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/Haste|haste]]_; Price 2,500 gp; Cost 1,250 gp.

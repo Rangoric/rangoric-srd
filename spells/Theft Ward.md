@@ -26,13 +26,13 @@ tags: [rangoric, rangoric/spell]
 
 # Theft Ward
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 1, Inq 1, Mes 1, Sor/Wiz 1, Wit 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: One object
-  - **Duration**: 1 day
+- **Level**: Clr 1, Inq 1, Mes 1, Sor/Wiz 1, Wit 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: One object
+- **Duration**: 1 day
 
 You ward a single object in your possession against theft. You gain a +10 bonus on Perception checks to notice someone trying to take the object from you.

@@ -26,4 +26,4 @@ These boots are especially effective when trying to kick open doors, and provide
 
 The boots work as a pair, and can only be used if both are worn. A newly created pair of boots has 50 charges.
 
-CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Bull’s Strength|bull’s strength]]*, *[[rangoric-srd/spells/Telekinesis|telekinesis]]*; Price 8,600 gp; Weight 1 lb.
+CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Bull’s Strength|bull’s strength]]_, _[[rangoric-srd/spells/Telekinesis|telekinesis]]_; Price 8,600 gp; Weight 1 lb.

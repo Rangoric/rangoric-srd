@@ -41,38 +41,38 @@ tags: [rangoric, rangoric/monster]
 
 # Goblin
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Goblinoid)
-  - **Hit Dice**: 1d10+1 (6 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 16 (+2 armor, +2 Dex, +1 shield, +1 size), touch 13, flat-footed 14
-  - **Base Attack**: +1; **CMB**: +0; **CMD**: 12
-  - **Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +2 melee (1d4/19–20) or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +4 ranged (1d4/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +2 melee (1d4/19–20); or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +4 ranged (1d4/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
-  - **Saves**: Fort +3, Ref +2, Will –1
-  - **Abilities**: Str 11, Dex 15, Con 12, Int 10, Wis 9, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
-  - **Environment**: Temperate forest and plains (usually coastal regions)
-  - **Organization**: Gang (4–9), warband (10–16 with goblin dog mounts), tribe (17+ plus 100% noncombatants; 1 sergeant of 3rd level per 20 adults; 1 or 2 lieutenants of 4th or 5th level; 1 leader of 6th–8th level; and 10–40 goblin dogs, wolves, or worgs), or band (10–100 plus 100% noncombatants plus 1 3rd-level sergeant per 20 adults and 1 leader of 4th–6th level)
-  - **Challenge Rating**: 1/3
-  - **Treasure**: NPC gear (leather armor, light wooden shield, short sword, short bow with 20 arrows, other treasure)
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: +0
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Goblinoid)
+- **Hit Dice**: 1d10+1 (6 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 16 (+2 armor, +2 Dex, +1 shield, +1 size), touch 13, flat-footed 14
+- **Base Attack**: +1; **CMB**: +0; **CMD**: 12
+- **Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +2 melee (1d4/19–20) or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +4 ranged (1d4/×3)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +2 melee (1d4/19–20); or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +4 ranged (1d4/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
+- **Saves**: Fort +3, Ref +2, Will –1
+- **Abilities**: Str 11, Dex 15, Con 12, Int 10, Wis 9, Cha 6
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
+- **Environment**: Temperate forest and plains (usually coastal regions)
+- **Organization**: Gang (4–9), warband (10–16 with goblin dog mounts), tribe (17+ plus 100% noncombatants; 1 sergeant of 3rd level per 20 adults; 1 or 2 lieutenants of 4th or 5th level; 1 leader of 6th–8th level; and 10–40 goblin dogs, wolves, or worgs), or band (10–100 plus 100% noncombatants plus 1 3rd-level sergeant per 20 adults and 1 leader of 4th–6th level)
+- **Challenge Rating**: 1/3
+- **Treasure**: NPC gear (leather armor, light wooden shield, short sword, short bow with 20 arrows, other treasure)
+- **Alignment**: Usually neutral evil
+- **Advancement**: By character class
+- **Level Adjustment**: +0
 
 **Also in this entry:**
 
-  - Goblin Riders: [[rangoric-srd/monsters/goblin/Goblin Outrider|Goblin Outrider]] (CR 1), [[rangoric-srd/monsters/goblin/Grizzled Rider|Grizzled Rider]] (CR 5)
-  - Goblin Rogues: [[rangoric-srd/monsters/goblin/Goblin Sneak|Goblin Sneak]] (CR 1), [[rangoric-srd/monsters/goblin/Goblin Firestarter|Goblin Firestarter]] (CR 4)
-  - Goblin Warriors: [[rangoric-srd/monsters/goblin/Goblin Commando|Goblin Commando]] (CR 2), [[rangoric-srd/monsters/goblin/Goblin Chief|Goblin Chief]] (CR 9)
-  - Goblin Vulture Pilot: [[rangoric-srd/monsters/goblin/Goblin Vulture Pilot|Goblin Vulture Pilot]] (CR 3)
-  - Goblin Frog-Talker: [[rangoric-srd/monsters/goblin/Goblin Frog-Talker|Goblin Frog-Talker]] (CR 5)
-  - Goblin Stickylord: [[rangoric-srd/monsters/goblin/Goblin Stickylord|Goblin Stickylord]] (CR 6)
-  - Mutant Goblin: [[rangoric-srd/monsters/goblin/Mutant Goblin|Mutant Goblin]] (CR 3)
+- Goblin Riders: [[rangoric-srd/monsters/goblin/Goblin Outrider|Goblin Outrider]] (CR 1), [[rangoric-srd/monsters/goblin/Grizzled Rider|Grizzled Rider]] (CR 5)
+- Goblin Rogues: [[rangoric-srd/monsters/goblin/Goblin Sneak|Goblin Sneak]] (CR 1), [[rangoric-srd/monsters/goblin/Goblin Firestarter|Goblin Firestarter]] (CR 4)
+- Goblin Warriors: [[rangoric-srd/monsters/goblin/Goblin Commando|Goblin Commando]] (CR 2), [[rangoric-srd/monsters/goblin/Goblin Chief|Goblin Chief]] (CR 9)
+- Goblin Vulture Pilot: [[rangoric-srd/monsters/goblin/Goblin Vulture Pilot|Goblin Vulture Pilot]] (CR 3)
+- Goblin Frog-Talker: [[rangoric-srd/monsters/goblin/Goblin Frog-Talker|Goblin Frog-Talker]] (CR 5)
+- Goblin Stickylord: [[rangoric-srd/monsters/goblin/Goblin Stickylord|Goblin Stickylord]] (CR 6)
+- Mutant Goblin: [[rangoric-srd/monsters/goblin/Mutant Goblin|Mutant Goblin]] (CR 3)
 
 Goblins prefer to dwell in caves, amid large and dense thickets of thistles and brambles, or in structures built and then abandoned by others. Very few goblins have the drive to build structures of their own. Coastlines are favored, as goblins are quite fond of sifting through junk and flotsam in an unending quest to find treasures among the refuse of more civilized races.
 

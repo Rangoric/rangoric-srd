@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Pony
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 2d8+4 (13 hp)
-  - **Initiative**: +1
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 11 (+1 Dex), touch 11, flat-footed 10
-  - **Base Attack**: +1; **CMB**: +2; **CMD**: 13 (17 vs. trip)
-  - **Attack**: Hoof –3 melee (1d3)
-  - **Full Attack**: 2 hooves –3 melee (1d3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Docile|docile]]
-  - **Saves**: Fort +5, Ref +4, Will +0
-  - **Abilities**: Str 13, Dex 13, Con 14, Int 2, Wis 11, Cha 4
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +5
-  - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Run|Run]]
-  - **Environment**: Temperate plains
-  - **Organization**: Solitary, pair, or herd (3–30)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 2d8+4 (13 hp)
+- **Initiative**: +1
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 11 (+1 Dex), touch 11, flat-footed 10
+- **Base Attack**: +1; **CMB**: +2; **CMD**: 13 (17 vs. trip)
+- **Attack**: Hoof –3 melee (1d3)
+- **Full Attack**: 2 hooves –3 melee (1d3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Docile|docile]]
+- **Saves**: Fort +5, Ref +4, Will +0
+- **Abilities**: Str 13, Dex 13, Con 14, Int 2, Wis 11, Cha 4
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +5
+- **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Run|Run]]
+- **Environment**: Temperate plains
+- **Organization**: Solitary, pair, or herd (3–30)
+- **Challenge Rating**: 1/2
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Ponies are smaller breeds of horses better suited to halflings, gnomes, and dwarves, but they also make fond pets for humans as well. They stand 3 to 4 feet tall and weigh about 600 pounds.
 

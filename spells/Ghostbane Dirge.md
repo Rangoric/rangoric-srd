@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Ghostbane Dirge
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Brd 2, Clr 2, Inq 2, Occ 2, Pal 1, Sha 2, Skd 2
-  - **Components**: V, S, M/DF (an old reed from a wind instrument)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One incorporeal creature
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 2, Clr 2, Inq 2, Occ 2, Pal 1, Sha 2, Skd 2
+- **Components**: V, S, M/DF (an old reed from a wind instrument)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One incorporeal creature
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 The target coalesces into a semi-physical form for a short period of time. While subject to the spell, the incorporeal creature takes half damage (50%) from nonmagical attack forms, and full damage from magic weapons, spells, spell-like effects, and supernatural effects.

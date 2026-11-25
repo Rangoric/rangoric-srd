@@ -18,11 +18,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Heat Adaptation
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Elements**: [[rangoric-srd/class-options/elements/Fire Element|fire]] or [[rangoric-srd/class-options/elements/Water Element|water]]
-  - **Type**: utility (Sp)
-  - **Level**: 1
-  - **Burn**: 0
+- **Elements**: [[rangoric-srd/class-options/elements/Fire Element|fire]] or [[rangoric-srd/class-options/elements/Water Element|water]]
+- **Type**: utility (Sp)
+- **Level**: 1
+- **Burn**: 0
 
-You are constantly protected by *[[rangoric-srd/spells/Endure Elements|endure elements]]* against hot temperatures only. You gain an amount of fire resistance equal to twice your current amount of [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]].
+You are constantly protected by _[[rangoric-srd/spells/Endure Elements|endure elements]]_ against hot temperatures only. You gain an amount of fire resistance equal to twice your current amount of [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]].

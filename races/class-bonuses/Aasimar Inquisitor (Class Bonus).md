@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Aasimar Inquisitor
 
-*An [[rangoric-srd/races/Aasimar|aasimar]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-class-bonuses|inquisitor]] level.*
+_An [[rangoric-srd/races/Aasimar|aasimar]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-class-bonuses|inquisitor]] level._
 
 Add +1/2 on [[rangoric-srd/skills/Intimidation|Intimidation]], [[rangoric-srd/skills/Identifying Creatures|Knowledge]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks made against outsiders.

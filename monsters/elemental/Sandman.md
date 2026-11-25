@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Sandman
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Earth, Elemental, Extraplanar)
-  - **Hit Dice**: 4d10+8 (30 hp)
-  - **Initiative**: +5
-  - **Speed**: 30 ft. (6 squares), burrow 30 ft.
-  - **Armor Class**: 15 (+1 Dex, +4 natural), touch 11, flat-footed 14
-  - **Base Attack**: +4; **CMB**: +6; **CMD**: 17
-  - **Attack**: Slam +6 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Sleep (Sandman)|sleep]])
-  - **Full Attack**: Slam +6 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Sleep (Sandman)|sleep]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Sleep (Sandman)|sleep]] (20 ft., DC 14), [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Sand Form|sand form]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/bludgeoning, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-  - **Saves**: Fort +6, Ref +5, Will +3
-  - **Abilities**: Str 14, Dex 13, Con 15, Int 10, Wis 11, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+12 in sand), [[rangoric-srd/skills/Theology|Theology]] +7
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]]
-  - **Environment**: Any land (Elemental Plane of Earth)
-  - **Organization**: Solitary, gang (2–4), or shoal (5–10)
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Earth, Elemental, Extraplanar)
+- **Hit Dice**: 4d10+8 (30 hp)
+- **Initiative**: +5
+- **Speed**: 30 ft. (6 squares), burrow 30 ft.
+- **Armor Class**: 15 (+1 Dex, +4 natural), touch 11, flat-footed 14
+- **Base Attack**: +4; **CMB**: +6; **CMD**: 17
+- **Attack**: Slam +6 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Sleep (Sandman)|sleep]])
+- **Full Attack**: Slam +6 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Sleep (Sandman)|sleep]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Sleep (Sandman)|sleep]] (20 ft., DC 14), [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Sand Form|sand form]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/bludgeoning, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
+- **Saves**: Fort +6, Ref +5, Will +3
+- **Abilities**: Str 14, Dex 13, Con 15, Int 10, Wis 11, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+12 in sand), [[rangoric-srd/skills/Theology|Theology]] +7
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]]
+- **Environment**: Any land (Elemental Plane of Earth)
+- **Organization**: Solitary, gang (2–4), or shoal (5–10)
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Stealthy and unpredictable, the sandman is a terror to all travelers in the desert, whether they be traders, messengers, or adventurers. When at rest, sandmen resemble ordinary piles of sand, blending in perfectly with barren surroundings or ancient tombs. They rely on their soporific powers in most situations, putting their enemies to sleep and killing their [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] opponents or dragging them back to their [[rangoric-srd/classes/Summoner|summoner]].
 

@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Bunyip
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Aquatic)
-  - **Hit Dice**: 5d10+5 (32 hp)
-  - **Initiative**: +3
-  - **Speed**: 10 ft. (2 squares), swim 50 ft.
-  - **Armor Class**: 15 (+3 Dex, +2 natural), touch 13, flat-footed 12
-  - **Base Attack**: +5; **CMB**: +6; **CMD**: 19
-  - **Attack**: Bite +7 melee (1d8+1/19–20 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
-  - **Full Attack**: Bite +7 melee (1d8+1/19–20 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6), blood frenzy, [[rangoric-srd/monsters/abilities/Roar|roar]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Keen Scent|keen scent]] 180 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
-  - **Saves**: Fort +5, Ref +7, Will +1
-  - **Abilities**: Str 13, Dex 16, Con 13, Int 2, Wis 11, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
-  - **Environment**: Any aquatic
-  - **Organization**: Solitary or pair
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Aquatic)
+- **Hit Dice**: 5d10+5 (32 hp)
+- **Initiative**: +3
+- **Speed**: 10 ft. (2 squares), swim 50 ft.
+- **Armor Class**: 15 (+3 Dex, +2 natural), touch 13, flat-footed 12
+- **Base Attack**: +5; **CMB**: +6; **CMD**: 19
+- **Attack**: Bite +7 melee (1d8+1/19–20 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
+- **Full Attack**: Bite +7 melee (1d8+1/19–20 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6), blood frenzy, [[rangoric-srd/monsters/abilities/Roar|roar]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Keen Scent|keen scent]] 180 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
+- **Saves**: Fort +5, Ref +7, Will +1
+- **Abilities**: Str 13, Dex 16, Con 13, Int 2, Wis 11, Cha 7
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
+- **Environment**: Any aquatic
+- **Organization**: Solitary or pair
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The bunyip is a fierce and avid hunter, possessing a primal ruthlessness that seems almost evil in its rapacity. A bunyip typically inhabits large freshwater inlets or sheltered coastal sea caves where food is plentiful—the bunyip is equally at home in fresh or salt water. It prefers feeding on animals of Small size or larger, though it isn't averse to eating humanoids when presented the opportunity. Bunyips are quite territorial, and readily attack when intruders threaten their hunting grounds. Bunyips mate annually, during the late spring. During this period, bunyips become even more aggressive. After mating, couples split, with the female wandering off to find a place to birth a small litter of four to six pups. Females watch their pups for a few days, until they become independent enough for the mothers to move on.
 

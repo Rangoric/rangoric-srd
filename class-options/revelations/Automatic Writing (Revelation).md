@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Automatic Writing
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Lore Mystery|lore]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Lore Mystery|lore]] mystery._
 
-Once per day, you can spend a full hour in uninterrupted meditation. During this period, your hands produce mysterious writing that pertains to the future. At 1st level, the prophetic writing manifests as an *[[rangoric-srd/spells/Augury|augury]]* spell with 90% effectiveness. At 5th level, the writing takes the form of a *[[rangoric-srd/spells/Divination|divination]]* with 90% effectiveness. At 8th level, the writing manifests as a casting of *[[rangoric-srd/spells/Commune|commune]]* with no material component required.
+Once per day, you can spend a full hour in uninterrupted meditation. During this period, your hands produce mysterious writing that pertains to the future. At 1st level, the prophetic writing manifests as an _[[rangoric-srd/spells/Augury|augury]]_ spell with 90% effectiveness. At 5th level, the writing takes the form of a _[[rangoric-srd/spells/Divination|divination]]_ with 90% effectiveness. At 8th level, the writing manifests as a casting of _[[rangoric-srd/spells/Commune|commune]]_ with no material component required.

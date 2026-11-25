@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Thaumaturgic Circle
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 4, Inq 4, Med 3, Occ 3, Sor/Wiz 4, Sum 4, SumU 4
-  - **Components**: V, S, M, DF (a 3-ft.-diameter circle of powdered silver)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Area**: 10-ft.-radius emanation from touched creature
-  - **Duration**: 10 \* caster level minute(s)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: No
+- **Level**: Clr 4, Inq 4, Med 3, Occ 3, Sor/Wiz 4, Sum 4, SumU 4
+- **Components**: V, S, M, DF (a 3-ft.-diameter circle of powdered silver)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Area**: 10-ft.-radius emanation from touched creature
+- **Duration**: 10 \* caster level minute(s)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: No
 
 This spell functions as [[rangoric-srd/spells/Magic Circle against Evil|magic circle against chaos, evil, good, or law]], but rather than stipulating an alignment descriptor, you can designate any one non-alignment subtype of outsider, including air, earth, fire, and water, as well as outsider races such as angels and d*evil*s.

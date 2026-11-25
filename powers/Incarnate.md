@@ -30,14 +30,14 @@ Target, Effect, or **Area:** See text
 **Duration:** Permanent; see text  
 **Saving Throw:** None  
 **Power Resistance:** No  
-**Power Points:** 9, XP  
+**Power Points:** 9, XP
 
 This power makes certain other powers permanent. Depending on the power to be affected, you must be of a minimum manifester level and must expend a number of XP.
 
-You can make the following powers permanent only in regard to yourself.  
+You can make the following powers permanent only in regard to yourself.
 
-| Power                                                                              | Minimum Manifester Level | XP Cost  |
-| ---------------------------------------------------------------------------------- | ------------------------ | -------- |
+| Power                                                                            | Minimum Manifester Level | XP Cost  |
+| -------------------------------------------------------------------------------- | ------------------------ | -------- |
 | [[rangoric-srd/powers/Aura Sight\|Aura sight]]                                   | 15th                     | 2,000 XP |
 | [[rangoric-srd/powers/Conceal Thoughts\|Conceal thoughts]]                       | 9th                      | 500 XP   |
 | [[rangoric-srd/powers/Danger Sense\|Danger sense]]                               | 13th                     | 1,500 XP |

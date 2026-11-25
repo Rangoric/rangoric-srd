@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/crossbows]
 
 # Underwater Heavy Crossbow
 
-*Simple ranged weapon.* Cost 100 gp; Dmg 1d8 (S), 1d10 (M); Critical 19–20/x2; Range Increment 120 ft.; Weight 8 lb.; Type Piercing. ^stats
+_Simple ranged weapon._ Cost 100 gp; Dmg 1d8 (S), 1d10 (M); Critical 19–20/x2; Range Increment 120 ft.; Weight 8 lb.; Type Piercing. ^stats
 
 Above water, this weapon is identical to a [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]]. You may use it underwater, where it has a range increment of 20 feet. It counts as a [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] for the purposes of proficiencies and special abilities.

@@ -15,19 +15,19 @@ tags: [rangoric, rangoric/occult-ritual]
 
 # Opening the Third Eye
 
-*Transmutation; [[rangoric-srd/rules/occult-rituals/Occult Rituals|occult ritual]] level 5*
+_Transmutation; [[rangoric-srd/rules/occult-rituals/Occult Rituals|occult ritual]] level 5_
 
-  - **Level**: 5
-  - **Casting Time**: 50 minutes
-  - **Components**: V, S, M (incense), SC (up to 12)
-  - **Skill Checks**: [[rangoric-srd/skills/Arcana|Arcana]] DC 34, 3 successes; [[rangoric-srd/skills/Theology|Theology]] DC 34, 1 success; [[rangoric-srd/skills/Perception|Perception]] DC 34, 1 success
-  - **Range**: touch
-  - **Target**: primary and secondary casters
-  - **Duration**: 1 day (D)
-  - **Saving Throw**: Fortitude negates (harmless)
-  - **Spell Resistance**: yes (harmless)
-  - **Backlash**: All casters take 2d6 points of damage.
-  - **Failure**: All casters gain a temporary [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative level]] (DC = 16 + the primary caster’s Charisma bonus to remove after the first day), and the primary caster is afflicted with a more potent version of [[rangoric-srd/rules/afflictions/Mindfire|mindfire]] (DC 17; 2 saves; 1d4 Int; 1/day).
+- **Level**: 5
+- **Casting Time**: 50 minutes
+- **Components**: V, S, M (incense), SC (up to 12)
+- **Skill Checks**: [[rangoric-srd/skills/Arcana|Arcana]] DC 34, 3 successes; [[rangoric-srd/skills/Theology|Theology]] DC 34, 1 success; [[rangoric-srd/skills/Perception|Perception]] DC 34, 1 success
+- **Range**: touch
+- **Target**: primary and secondary casters
+- **Duration**: 1 day (D)
+- **Saving Throw**: Fortitude negates (harmless)
+- **Spell Resistance**: yes (harmless)
+- **Backlash**: All casters take 2d6 points of damage.
+- **Failure**: All casters gain a temporary [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative level]] (DC = 16 + the primary caster’s Charisma bonus to remove after the first day), and the primary caster is afflicted with a more potent version of [[rangoric-srd/rules/afflictions/Mindfire|mindfire]] (DC 17; 2 saves; 1d4 Int; 1/day).
 
 Through a ceremony of meditation and recitation, the casters become psychically attuned. Casters who don’t have levels in an occult class ([[rangoric-srd/classes/Kineticist|kineticist]], [[rangoric-srd/classes/Medium (Class)|medium]], [[rangoric-srd/classes/Mesmerist|mesmerist]], [[rangoric-srd/classes/Occultist|occultist]], [[rangoric-srd/classes/Psychic (Class)|psychic]] or [[rangoric-srd/classes/Spiritualist (Class)|spiritualist]]) gain these benefits:
 

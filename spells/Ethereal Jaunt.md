@@ -25,14 +25,14 @@ tags: [rangoric, rangoric/spell]
 
 # Ethereal Jaunt
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Clr 7, Psy 6, Sor/Wiz 7, Sum 5, SumU 6
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level (D)
+- **Level**: Clr 7, Psy 6, Sor/Wiz 7, Sum 5, SumU 6
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level (D)
 
 You become ethereal, along with your equipment. For the duration of the spell, you are in a place called the Ethereal Plane, which overlaps the normal, physical, Material Plane. When the spell expires, you return to material existence.
 

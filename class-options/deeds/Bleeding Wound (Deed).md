@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Bleeding Wound
 
-*A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-deeds|swashbuckler deed]] (Ex), 11th level.*
+_A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-deeds|swashbuckler deed]] (Ex), 11th level._
 
 At 11th level, when the swashbuckler hits a living creature with a light or one-handed piercing melee weapon attack, as a free action she can spend 1 panache point to have that attack deal additional [[rangoric-srd/rules/conditions/Bleed (Condition)|bleed]] damage. The amount of bleed damage dealt is equal to the swashbuckler's Dexterity modifier (minimum 1). Alternatively, the swashbuckler can spend 2 panache points to deal 1 point of Strength, Dexterity, or Constitution bleed damage instead (swashbuckler's choice). Creatures that are immune to sneak attacks are also immune to these types of bleed damage.

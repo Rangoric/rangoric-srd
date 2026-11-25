@@ -11,25 +11,25 @@ tags: [rangoric, rangoric/monster]
 
 # Monstrous Centipede
 
-  - [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede, Tiny|Monstrous Centipede, Tiny]]
-  - [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede, Small|Monstrous Centipede, Small]]
-  - [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede, Medium|Monstrous Centipede, Medium]]
-  - [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede, Large|Monstrous Centipede, Large]]
-  - [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede, Huge|Monstrous Centipede, Huge]]
-  - [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede, Gargantuan|Monstrous Centipede, Gargantuan]]
-  - [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede, Colossal|Monstrous Centipede, Colossal]]
+- [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede, Tiny|Monstrous Centipede, Tiny]]
+- [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede, Small|Monstrous Centipede, Small]]
+- [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede, Medium|Monstrous Centipede, Medium]]
+- [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede, Large|Monstrous Centipede, Large]]
+- [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede, Huge|Monstrous Centipede, Huge]]
+- [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede, Gargantuan|Monstrous Centipede, Gargantuan]]
+- [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede, Colossal|Monstrous Centipede, Colossal]]
 
 Monstrous centipedes tend to attack anything that resembles food, biting with their jaws and injecting their poison.
 
-| Size       | Fort DC | Damage  |
-| ---------- | ------- | ------- |
-| Tiny       | 10      | 1 Dex   |
-| Small      | 10      | 1d2 Dex |
-| Medium     | see [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede, Medium\|Medium]] | — |
-| Large      | 11      | 1d4 Dex |
-| Huge       | 14      | 1d6 Dex |
-| Gargantuan | 17      | 1d8 Dex |
-| Colossal   | 23      | 2d6 Dex |
+| Size       | Fort DC                                                                               | Damage  |
+| ---------- | ------------------------------------------------------------------------------------- | ------- |
+| Tiny       | 10                                                                                    | 1 Dex   |
+| Small      | 10                                                                                    | 1d2 Dex |
+| Medium     | see [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede, Medium\|Medium]] | —       |
+| Large      | 11                                                                                    | 1d4 Dex |
+| Huge       | 14                                                                                    | 1d6 Dex |
+| Gargantuan | 17                                                                                    | 1d8 Dex |
+| Colossal   | 23                                                                                    | 2d6 Dex |
 
 **Poison (Ex)**: A monstrous centipede has a poisonous bite. The details vary by the centipede’s size, as shown on the table above. The save DCs are Constitution-based. The indicated damage is both initial and secondary damage.
 

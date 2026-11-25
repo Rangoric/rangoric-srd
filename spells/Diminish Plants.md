@@ -26,12 +26,12 @@ tags: [rangoric, rangoric/spell]
 
 # Diminish Plants
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Drd 3, Hun 3, Rgr 3
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: See text
+- **Level**: Drd 3, Hun 3, Rgr 3
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: See text
 
 Target or Area: See text  
 Duration: Instantaneous  
@@ -40,13 +40,13 @@ Spell Resistance: No
 
 This spell has two versions.
 
-*Prune Growth*: This version causes normal vegetation within long range (400 feet + 40 feet per level) to shrink to about one-third of their normal size, becoming untangled and less bushy. The affected vegetation appears to have been carefully pruned and trimmed.
+_Prune Growth_: This version causes normal vegetation within long range (400 feet + 40 feet per level) to shrink to about one-third of their normal size, becoming untangled and less bushy. The affected vegetation appears to have been carefully pruned and trimmed.
 
 At your option, the area can be a 100- foot-radius circle, a 150-foot-radius semicircle, or a 200-foot-radius quarter-circle.
 
 You may also designate portions of the area that are not affected.
 
-*Stunt Growth*: This version targets normal plants within a range of 1/2 mile, reducing their potential productivity over the course of the following year to one third below normal.
+_Stunt Growth_: This version targets normal plants within a range of 1/2 mile, reducing their potential productivity over the course of the following year to one third below normal.
 
 Diminish plants counters plant growth.
 

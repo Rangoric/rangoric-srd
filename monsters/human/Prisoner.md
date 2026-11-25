@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Prisoner
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 4d8+8 (26 hp)
-  - **Initiative**: –1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 9 (–1 Dex), touch 9, flat-footed 9
-  - **Base Attack**: +3; **CMB**: +2; **CMD**: 11
-  - **Attack**: Improvised dagger +2 melee (1d4)
-  - **Full Attack**: Improvised dagger +2 melee (1d4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort +3, Ref +0, Will +5
-  - **Abilities**: Str 9, Dex 8, Con 14, Int 13, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Craft|Craft]] (choose one) +8, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +8, [[rangoric-srd/skills/Engineering|Engineering]] +8, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Profession|Profession]] (choose one) +8, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5
-  - **Feats**: [[rangoric-srd/feats/Catch Off-Guard|Catch Off-Guard]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]]
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 2
-  - **Treasure**: NPC gear
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 4d8+8 (26 hp)
+- **Initiative**: –1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 9 (–1 Dex), touch 9, flat-footed 9
+- **Base Attack**: +3; **CMB**: +2; **CMD**: 11
+- **Attack**: Improvised dagger +2 melee (1d4)
+- **Full Attack**: Improvised dagger +2 melee (1d4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort +3, Ref +0, Will +5
+- **Abilities**: Str 9, Dex 8, Con 14, Int 13, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Craft|Craft]] (choose one) +8, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +8, [[rangoric-srd/skills/Engineering|Engineering]] +8, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Profession|Profession]] (choose one) +8, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5
+- **Feats**: [[rangoric-srd/feats/Catch Off-Guard|Catch Off-Guard]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]]
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 2
+- **Treasure**: NPC gear
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A prisoner is a [[rangoric-srd/monsters/human/Human|human]] with 4 levels of [[rangoric-srd/classes/Expert|expert]]. Prisoners are hapless wretches who have spent uncounted years locked away in the deepest cells. Battered and bruised, their minds assaulted by the endless imprisonment and the mad ravings of weak-minded cellmates, prisoners endure through sheer force of will and the hope that one day they shall see their freedom. Prisoners may be found in town jails, large prisons, or underground dungeons, either as convicted criminals, political prisoners, or wretched captives.
 

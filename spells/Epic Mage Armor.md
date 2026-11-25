@@ -26,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 # Epic Mage Armor
 
-Conjuration (Creation) \[Force\]   
+Conjuration (Creation) \[Force\]  
 Casting DC: 46  
 Components: V, S  
 Casting Time: 1 minute  
@@ -35,6 +35,6 @@ Target: Creature touched
 Duration: 24 hours (D)  
 Saving Throw: Will negates (harmless)  
 Spell Resistance: Yes (harmless)  
-To Develop: 414,000 gp; 9 days; 16,560 XP. Seed: armor (DC 14). Factor: +16 additional armor bonus (+32 DC).  
+To Develop: 414,000 gp; 9 days; 16,560 XP. Seed: armor (DC 14). Factor: +16 additional armor bonus (+32 DC).
 
 An invisible but tangible field of force surrounds the subject of epic mage armor, providing a +20 armor bonus to Armor Class. Unlike mundane armor, epic mage armor entails no armor check penalty, arcane spell failure chance, or speed reduction. Because epic mage armor is made of force, incorporeal creatures can’t bypass it the way they do normal armor.

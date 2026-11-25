@@ -27,7 +27,7 @@ Manifesting Time: 1 hour
 Range: Personal  
 Targets: You and touched willing creatures  
 Duration: See text  
-Power Points: 5  
+Power Points: 5
 
 You lead a caravan into the Astral Plane, leaving the Material Plane behind. Since the Astral Plane touches upon other planes, you can travel astrally to any of these other planes as you wish, but only if you know your way (see below).
 
@@ -39,24 +39,24 @@ While you are traveling through the Astral Plane, those natives who happen to gl
 
 Depending on your knowledge of the planes, your journey through the subjective space that is the Astral Plane may take a longer or shorter period of time. For each 24 hours you travel, make a [[rangoric-srd/skills/Theology|Theology]] check. Unless a location is particularly hard to find and well guarded, or conversely easy to find and well advertised, the average DC for an astral caravan journey should be set at 20. You cannot take 20 on this check, though you can take 10. Each check may be modified by your degree of familiarity with the destination or by some connection you have with the place; see the tables below.
 
-Destination Theology     
+Destination Theology   
 
 | Knowledge                                       | Check Modifier |
 | ----------------------------------------------- | -------------- |
 | None\*                                          | n/a            |
-| Secondhand (you have heard of the destination)  | -10           |
-| Firsthand (you have visited before)             | +0            |
-| Familiar (you have visited three or more times) | +5            |
+| Secondhand (you have heard of the destination)  | -10            |
+| Firsthand (you have visited before)             | +0             |
+| Familiar (you have visited three or more times) | +5             |
 
 \*If you have no direct knowledge of your destination, you must have some connection to it in order to travel there; see below.
 
-Theology     
+Theology   
 
 | Connection                               | Check Modifier |
 | ---------------------------------------- | -------------- |
-| Likeness or picture of destination       | +2            |
-| Object from destination                  | +4            |
-| Planar Cartographer’s map of destination | +10           |
+| Likeness or picture of destination       | +2             |
+| Object from destination                  | +4             |
+| Planar Cartographer’s map of destination | +10            |
 
 Each successful check indicates that you are one step closer to your goal. To finally arrive at your location, you must succeed on six checks within a span of 12 days. (If you fail to make six successful checks within the first 12 days, you can continue to make one check per day until you get the requisite six successes within a span of 12 consecutive days). When you successfully make the requisite number of checks, the journey ends, and you appear on your chosen plane within 10-1,000 (1d% x 10) miles of your intended destination on that plane.
 

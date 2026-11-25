@@ -48,28 +48,28 @@ tags: [rangoric, rangoric/monster]
 
 # Worm That Walks
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]] (Augmented Human)
-  - **Hit Dice**: 13d6+65 (113 hp)
-  - **Initiative**: +8
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 23 (+6 armor, +4 Dex, +1 dodge, +2 insight), touch 17, flat-footed 18
-  - **Base Attack**: +6; **CMB**: +5 (+13 grapple); **CMD**: 26
-  - **Attack**: Slam +10 melee (1d4–1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Slam +10 melee (1d4–1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Worm That Walks#^discorporate|Discorporate]], [[rangoric-srd/monsters/abilities/Grab|grab]] (Large), [[rangoric-srd/monsters/Worm That Walks#^squirming-embrace|squirming embrace]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 14, [[rangoric-srd/monsters/Worm That Walks#^worm-that-walks-traits|worm that walks traits]], [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] (staff), summoner's charm (6 rounds), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/-, immunity to critical hits, disease, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], poison and sleep
-  - **Saves**: Fort +11, Ref +12, Will +13
-  - **Abilities**: Str 8, Dex 18, Con 17, Int 20, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Arcana|Arcana]] +21, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +21, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Mysticism|Mysticism]] +21, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +21
-  - **Feats**: [[rangoric-srd/feats/Arcane Armor Training|Arcane Armor Training]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Armor Proficiency (Light)|Armor Proficiency (Light)]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 14
-  - **Treasure**: NPC Gear (+4 leather armor, cloak of resistance +4, staff of charming)
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]] (Augmented Human)
+- **Hit Dice**: 13d6+65 (113 hp)
+- **Initiative**: +8
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 23 (+6 armor, +4 Dex, +1 dodge, +2 insight), touch 17, flat-footed 18
+- **Base Attack**: +6; **CMB**: +5 (+13 grapple); **CMD**: 26
+- **Attack**: Slam +10 melee (1d4–1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Slam +10 melee (1d4–1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/Worm That Walks#^discorporate|Discorporate]], [[rangoric-srd/monsters/abilities/Grab|grab]] (Large), [[rangoric-srd/monsters/Worm That Walks#^squirming-embrace|squirming embrace]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 14, [[rangoric-srd/monsters/Worm That Walks#^worm-that-walks-traits|worm that walks traits]], [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] (staff), summoner's charm (6 rounds), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/-, immunity to critical hits, disease, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], poison and sleep
+- **Saves**: Fort +11, Ref +12, Will +13
+- **Abilities**: Str 8, Dex 18, Con 17, Int 20, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Arcana|Arcana]] +21, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +21, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Mysticism|Mysticism]] +21, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +21
+- **Feats**: [[rangoric-srd/feats/Arcane Armor Training|Arcane Armor Training]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Armor Proficiency (Light)|Armor Proficiency (Light)]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 14
+- **Treasure**: NPC Gear (+4 leather armor, cloak of resistance +4, staff of charming)
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The worm that walks above is a human worm that walks with 13 levels of [[rangoric-srd/classes/Wizard|wizard]] (a conjurer).
 
@@ -99,7 +99,7 @@ The epic worm that walks is a different creature: [[rangoric-srd/monsters/Worm T
 
 **Defensive Abilities**: A worm that walks retains all of the base creature's defensive abilities and special qualities. It also gains the following additional defensive abilities.
 
-**Worm that Walks Traits**: A worm that walks has no discernible anatomy, and is not subject to critical hits or flanking. Reducing a worm that walks to 0 hit points causes it to discorporate (see below)—a worm that walks at 0 hit points is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]], and one at negative hit points is dying. Worms that walk are immune to any physical spell or effect that targets a specific number of creatures (including single-target spells such as *[[rangoric-srd/spells/Disintegrate|disintegrate]]*), with the exception of such spells and effects generated by the worm that walks itself, which treat the worm that walks as one single creature if it so chooses. Mind-affecting effects that target single creatures function normally against a worm that walks, since the creature's individual components share a hive mind. A worm that walks takes half again as much damage (+50%) from damaging area effects, such as *[[rangoric-srd/spells/Fireball|fireball]]* and splash weapons. Worms that walk are susceptible to high winds—treat a worm that walks as a Fine creature for the purposes of determining wind effects. ^worm-that-walks-traits
+**Worm that Walks Traits**: A worm that walks has no discernible anatomy, and is not subject to critical hits or flanking. Reducing a worm that walks to 0 hit points causes it to discorporate (see below)—a worm that walks at 0 hit points is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]], and one at negative hit points is dying. Worms that walk are immune to any physical spell or effect that targets a specific number of creatures (including single-target spells such as _[[rangoric-srd/spells/Disintegrate|disintegrate]]_), with the exception of such spells and effects generated by the worm that walks itself, which treat the worm that walks as one single creature if it so chooses. Mind-affecting effects that target single creatures function normally against a worm that walks, since the creature's individual components share a hive mind. A worm that walks takes half again as much damage (+50%) from damaging area effects, such as _[[rangoric-srd/spells/Fireball|fireball]]_ and splash weapons. Worms that walk are susceptible to high winds—treat a worm that walks as a Fine creature for the purposes of determining wind effects. ^worm-that-walks-traits
 
 **[[rangoric-srd/monsters/abilities/Damage Reduction|Damage Reduction]]**: A worm that walks loses any damage reduction possessed by the base creature and gains damage reduction 15/—.
 
@@ -114,7 +114,7 @@ The epic worm that walks is a different creature: [[rangoric-srd/monsters/Worm T
 **Discorporate (Su)**: A worm that walks can collapse into a shapeless swarm of worms as a free action. All held, worn, and carried items fall and its Strength score drops to 1. The worm that walks functions as a true swarm while discorporated, with a reach of 0 feet (its space remains unchanged). While discorporated, the worm that walks loses all of its defensive abilities and gains all of the standard swarm traits. It loses its slam attacks and all special abilities and special attacks, but can make a swarm attack that deals damage equal to its engulf attack. A worm that walks can reform into its true form (including equipping all gear in reach) as a full-round action as long as it has at least 1 hit point. ^discorporate
 
 | HD         | Engulf Damage       |
-|------------|---------------------|
+| ---------- | ------------------- |
 | 1–5        | 1d6 + 1.5 Str bonus |
 | 6–10       | 2d6 + 1.5 Str bonus |
 | 11–15      | 3d6 + 1.5 Str bonus |
@@ -135,4 +135,4 @@ A worm that walks can only have one embraced target at a time, but it does not h
 
 ### Combat
 
-**Conjurer spells prepared** (CL 13th; concentration +18): 7th—*[[rangoric-srd/spells/Plane Shift|plane shift]]* (DC 22), *[[rangoric-srd/spells/Project Image|project image]]*; 6th—*[[rangoric-srd/spells/Acid Fog|acid fog]]*, *[[rangoric-srd/spells/Disintegrate|disintegrate]]* (DC 21), *[[rangoric-srd/spells/Summon Monster VI|summon monster VI]]*; 5th—*[[rangoric-srd/spells/Cloudkill|cloudkill]]* (DC 20), *[[rangoric-srd/spells/Dismissal|dismissal]]* (DC 20), *[[rangoric-srd/spells/Shadow Evocation|shadow evocation]]* (DC 20), *[[rangoric-srd/spells/Telekinesis|telekinesis]]* (DC 20), *[[rangoric-srd/spells/Teleport|teleport]]*; 4th—*[[rangoric-srd/spells/Black Tentacles|black tentacles]]*, *[[rangoric-srd/spells/Confusion|confusion]]* (DC 19), *[[rangoric-srd/spells/Dimension Door|dimension door]]* (2), *[[rangoric-srd/spells/Phantasmal Killer|phantasmal killer]]* (DC 19), *[[rangoric-srd/spells/Summon Monster IV|summon monster IV]]*; 3rd—*[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, *[[rangoric-srd/spells/Fly|fly]]*, *[[rangoric-srd/spells/Protection from Energy|protection from energy]]*, *[[rangoric-srd/spells/Slow|slow]]* (DC 18), *[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]* (DC 18), *[[rangoric-srd/spells/Summon Monster III|summon monster III]]*; 2nd—*[[rangoric-srd/spells/Acid Arrow|acid arrow]]*, *[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]* (DC 17), *[[rangoric-srd/spells/Fog Cloud|fog cloud]]*, *[[rangoric-srd/spells/Glitterdust|glitterdust]]* (DC 17), *[[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Summon Swarm|summon swarm]]*; 1st—*[[rangoric-srd/spells/Charm Person|charm person]]* (DC 16), *[[rangoric-srd/spells/Feather Fall|feather fall]]*, *[[rangoric-srd/spells/Grease|grease]]* (DC 16), *[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]*, *[[rangoric-srd/spells/Protection from Good|protection from good]]*, *[[rangoric-srd/spells/Reduce Person|reduce person]]* (DC 16), *[[rangoric-srd/spells/Shield|shield]]*; 0 (at will)—*[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]*, *[[rangoric-srd/spells/Read Magic|read magic]]*; **Opposition Schools** Evocation, Necromancy.
+**Conjurer spells prepared** (CL 13th; concentration +18): 7th—_[[rangoric-srd/spells/Plane Shift|plane shift]]_ (DC 22), _[[rangoric-srd/spells/Project Image|project image]]_; 6th—_[[rangoric-srd/spells/Acid Fog|acid fog]]_, _[[rangoric-srd/spells/Disintegrate|disintegrate]]_ (DC 21), _[[rangoric-srd/spells/Summon Monster VI|summon monster VI]]_; 5th—_[[rangoric-srd/spells/Cloudkill|cloudkill]]_ (DC 20), _[[rangoric-srd/spells/Dismissal|dismissal]]_ (DC 20), _[[rangoric-srd/spells/Shadow Evocation|shadow evocation]]_ (DC 20), _[[rangoric-srd/spells/Telekinesis|telekinesis]]_ (DC 20), _[[rangoric-srd/spells/Teleport|teleport]]_; 4th—_[[rangoric-srd/spells/Black Tentacles|black tentacles]]_, _[[rangoric-srd/spells/Confusion|confusion]]_ (DC 19), _[[rangoric-srd/spells/Dimension Door|dimension door]]_ (2), _[[rangoric-srd/spells/Phantasmal Killer|phantasmal killer]]_ (DC 19), _[[rangoric-srd/spells/Summon Monster IV|summon monster IV]]_; 3rd—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Protection from Energy|protection from energy]]_, _[[rangoric-srd/spells/Slow|slow]]_ (DC 18), _[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_ (DC 18), _[[rangoric-srd/spells/Summon Monster III|summon monster III]]_; 2nd—_[[rangoric-srd/spells/Acid Arrow|acid arrow]]_, _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 17), _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_, _[[rangoric-srd/spells/Glitterdust|glitterdust]]_ (DC 17), _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Summon Swarm|summon swarm]]_; 1st—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 16), _[[rangoric-srd/spells/Feather Fall|feather fall]]_, _[[rangoric-srd/spells/Grease|grease]]_ (DC 16), _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_, _[[rangoric-srd/spells/Protection from Good|protection from good]]_, _[[rangoric-srd/spells/Reduce Person|reduce person]]_ (DC 16), _[[rangoric-srd/spells/Shield|shield]]_; 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_; **Opposition Schools** Evocation, Necromancy.

@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Spectral Hand
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Med 2, Occ 2, Psy 2, Sor/Wiz 2, Spi 2, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: One spectral hand
-  - **Duration**: 1 min./level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Med 2, Occ 2, Psy 2, Sor/Wiz 2, Spi 2, Wit 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: One spectral hand
+- **Duration**: 1 min./level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 A ghostly, glowing hand shaped from your life force materializes and moves as you desire, allowing you to deliver low-level, touch range spells at a distance. On casting the spell, you lose 1d4 hit points that return when the spell ends (even if it is dispelled), but not if the hand is destroyed. (The hit points can be healed as normal.) For as long as the spell lasts, any touch range spell of 4th level or lower that you cast can be delivered by the spectral hand. The spell gives you a +2 bonus on your melee touch attack roll, and attacking with the hand counts normally as an attack. The hand always strikes from your direction. The hand cannot flank targets like a creature can. After it delivers a spell, or if the hand goes beyond the spell range, goes out of your sight, the hand returns to you and hovers.
 

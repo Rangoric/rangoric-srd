@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Alchemist’s Bullet
 
-This *+1 sling bullet* contains a magical reservoir that can store a single vial of any alchemical substance capable of being used as a splash weapon. If the *alchemist's bullet* hits, the splash weapon also strikes the target and causes splash damage as normal. If the *alchemist's bullet* misses but is not destroyed, the alchemical substance remains stored within, and the bullet does not explode and can be reused. If it misses and is destroyed, the bullet is destroyed as well without effect.
+This _+1 sling bullet_ contains a magical reservoir that can store a single vial of any alchemical substance capable of being used as a splash weapon. If the _alchemist's bullet_ hits, the splash weapon also strikes the target and causes splash damage as normal. If the _alchemist's bullet_ misses but is not destroyed, the alchemical substance remains stored within, and the bullet does not explode and can be reused. If it misses and is destroyed, the bullet is destroyed as well without effect.
 
-Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Shrink Item|shrink item]]*; Price 330 gp; Cost 180 gp.
+Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Shrink Item|shrink item]]_; Price 330 gp; Cost 180 gp.

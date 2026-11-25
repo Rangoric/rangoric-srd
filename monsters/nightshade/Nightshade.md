@@ -24,7 +24,7 @@ Each of the four known varieties of nightshade is a terrible creature with uniqu
 
 All nightshades have the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^nightshade|nightshade subtype]]: low-light vision, a desecrating aura, channel negative energy, darksense, light aversion, and the power to summon undead.
 
-  - [[rangoric-srd/monsters/nightshade/Nightcrawler|Nightcrawler]]
-  - [[rangoric-srd/monsters/nightshade/Nightwalker|Nightwalker]]
-  - [[rangoric-srd/monsters/nightshade/Nightwave|Nightwave]]
-  - [[rangoric-srd/monsters/nightshade/Nightwing|Nightwing]]
+- [[rangoric-srd/monsters/nightshade/Nightcrawler|Nightcrawler]]
+- [[rangoric-srd/monsters/nightshade/Nightwalker|Nightwalker]]
+- [[rangoric-srd/monsters/nightshade/Nightwave|Nightwave]]
+- [[rangoric-srd/monsters/nightshade/Nightwing|Nightwing]]

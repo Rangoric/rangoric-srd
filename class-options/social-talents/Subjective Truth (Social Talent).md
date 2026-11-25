@@ -14,8 +14,8 @@ tags: [rangoric, rangoric/class-option]
 
 # Subjective Truth
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-social-talent|social talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-social-talent|social talent]] (Ex)._
 
-The vigilante’s disparate identities allow him to defeat magic that detects lies. As long as what he says is true from the point of view of his current identity, it detects as true to effects such as *[[rangoric-srd/spells/Discern Lies|discern lies]]*, and he can say it in effects such as *[[rangoric-srd/spells/Zone of Truth|zone of truth]]* that force him to speak the truth.
+The vigilante’s disparate identities allow him to defeat magic that detects lies. As long as what he says is true from the point of view of his current identity, it detects as true to effects such as _[[rangoric-srd/spells/Discern Lies|discern lies]]_, and he can say it in effects such as _[[rangoric-srd/spells/Zone of Truth|zone of truth]]_ that force him to speak the truth.
 
 A vigilante must be at least 9th level and have the [[rangoric-srd/class-options/social-talents/Feign Innocence (Social Talent)|feign innocence]] social talent to select this talent.

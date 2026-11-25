@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Finesse Rogue
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]].*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]]._
 
 A rogue that selects this talent gains Weapon Finesse as a bonus feat.

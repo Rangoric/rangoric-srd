@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Gore
 
-*A 2-point evolution (Ex) for a [[rangoric-srd/classes/Summoner|summoner]]’s eidolon.*
+_A 2-point evolution (Ex) for a [[rangoric-srd/classes/Summoner|summoner]]’s eidolon._
 
 An eidolon grows a number of horns on its head, giving it a gore attack. This attack is a primary attack. The gore deals 1d6 points of damage (1d8 if Large, 2d6 if Huge).

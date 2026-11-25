@@ -30,7 +30,7 @@ Telepathy \[Mind-Affecting\]
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 round  
-**Power Points:** 3  
+**Power Points:** 3
 
 You fortify your mind against intrusions, gaining power resistance 13 against all mind-affecting powers.
 

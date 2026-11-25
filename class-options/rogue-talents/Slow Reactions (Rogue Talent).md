@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Slow Reactions
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] and a [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Ex). It adds to sneak attack: only one such talent or trick applies to an attack (see [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]]).*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] and a [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Ex). It adds to sneak attack: only one such talent or trick applies to an attack (see [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]])._
 
 Opponents damaged by the rogue's or ninja's sneak attack can't make attacks of opportunity for 1 round.

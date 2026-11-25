@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Ioun Torch
 
-This item is merely a burned out, dull gray *ioun stone* with a *[[rangoric-srd/spells/Continual Flame|continual flame]]* spell cast upon it. It retains the ability to float and orbit, and allows the bearer to carry light and still have his hands free. It may be in any crystalline shape common to *ioun stones* (ellipsoid, prism, sphere, and so on).
+This item is merely a burned out, dull gray _ioun stone_ with a _[[rangoric-srd/spells/Continual Flame|continual flame]]_ spell cast upon it. It retains the ability to float and orbit, and allows the bearer to carry light and still have his hands free. It may be in any crystalline shape common to _ioun stones_ (ellipsoid, prism, sphere, and so on).
 
-Strong universal; CL 12th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Continual Flame|continual flame]]*, creator must be 12th level; Price 75 gp; Cost 62 gp, 5 sp.
+Strong universal; CL 12th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Continual Flame|continual flame]]_, creator must be 12th level; Price 75 gp; Cost 62 gp, 5 sp.

@@ -37,4 +37,4 @@ The greater version of this rod has four tentacles, which attack the same target
 
 **Intelligent item**: Int 5, Wis 10, Cha 8, Ego 3; chaotic evil; Senses 30 ft.; Language none.
 
-Moderate abjuration; CL 9th; [[rangoric-srd/feats/Craft Rod|Craft Rod]], *[[rangoric-srd/spells/Summon Monster III|summon monster III]]*; Price 12,000 gp; Cost 6,000 gp.
+Moderate abjuration; CL 9th; [[rangoric-srd/feats/Craft Rod|Craft Rod]], _[[rangoric-srd/spells/Summon Monster III|summon monster III]]_; Price 12,000 gp; Cost 6,000 gp.

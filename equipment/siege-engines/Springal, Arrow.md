@@ -27,7 +27,7 @@ tags: [rangoric, rangoric/siege-engine]
 
 # Springal, Arrow
 
-*Huge [[rangoric-srd/rules/Siege Engines#Indirect-Fire Ranged Siege Engines|indirect-fire siege engine]].* Price 1,000 gp; Dmg 3d8; Critical ×3; Range 100 ft. (50 ft. min.); Type Piercing; Crew 3; Aim 2; Load 3; Speed 0 ft.; Ammunition 20 gp, 10 lb. per use. ^stats
+_Huge [[rangoric-srd/rules/Siege Engines#Indirect-Fire Ranged Siege Engines|indirect-fire siege engine]]._ Price 1,000 gp; Dmg 3d8; Critical ×3; Range 100 ft. (50 ft. min.); Type Piercing; Crew 3; Aim 2; Load 3; Speed 0 ft.; Ammunition 20 gp, 10 lb. per use. ^stats
 
 A springal uses a torsion-cranked composite paddle to strike a firing rack containing multiple arrows or black-powder-propelled rockets, which rain down in an arc over a burst area. Springals are indirect-fire weapons that affect an area centered on the target square.
 

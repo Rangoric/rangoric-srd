@@ -22,14 +22,14 @@ tags: [rangoric, rangoric/spell]
 
 # Restoration, Greater
 
-*Conjuration (Healing)*
+_Conjuration (Healing)_
 
-  - **Level**: Clr 7, Sha 7
-  - **Components**: V, S, M
-  - **Casting Time**: 10 minutes
+- **Level**: Clr 7, Sha 7
+- **Components**: V, S, M
+- **Casting Time**: 10 minutes
 
 This spell functions like [[rangoric-srd/spells/Restoration, Lesser|lesser restoration]], except that it dispels all permanent and temporary [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative levels]] afflicting the healed creature.
 
 Greater restoration also dispels all magical effects penalizing the creature’s abilities, cures all temporary [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]], and restores all points permanently [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drained]] from all ability scores. It also eliminates fatigue and exhaustion, and removes all forms of insanity, confusion, and similar mental effects.
 
-*Material Component*: Diamond dust worth 5,000 gp that is sprinkled over the target.
+_Material Component_: Diamond dust worth 5,000 gp that is sprinkled over the target.

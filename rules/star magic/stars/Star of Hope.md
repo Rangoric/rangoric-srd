@@ -25,17 +25,17 @@ tags: [rangoric, rangoric/star]
 
 # Star of Hope
 
-*[[rangoric-srd/rules/star magic/Star Magic|Star]]* \[Mind-Affecting\]
+_[[rangoric-srd/rules/star magic/Star Magic|Star]]_ \[Mind-Affecting\]
 
-  - **Call Level**: 1st ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Aspect**: Ascendant in spring, descendant in autumn, on the horizon in summer and winter ([[rangoric-srd/rules/star magic/Star Magic#^seasons|seasons]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Area**: 10-ft.-radius spread
-  - **Duration**: 1 hour/level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Call Level**: 1st ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Aspect**: Ascendant in spring, descendant in autumn, on the horizon in summer and winter ([[rangoric-srd/rules/star magic/Star Magic#^seasons|seasons]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Area**: 10-ft.-radius spread
+- **Duration**: 1 hour/level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 Creatures in the light feel at peace. Each gains a +1 morale bonus per call level on Fortitude and Will saves against fear, doubt and anger.
 

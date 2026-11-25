@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Cocoon Swathe, Healing
 
-*Erlcana, Greater; Special*
+_Erlcana, Greater; Special_
 
 These greater swathes are considered some of the highest herbalist achievements in the past seven centuries. Like all swathes, cocoon swathes are a jumble of living, partially animate plants that move and react as a single organism. If at rest, a cocoon swathe is a tight ovular bundle of roots, vines and leaves with fruit in its center. The smallest a cocoon can compress itself is two feet long and one foot in diameter, and it can carry itself (when awake) like any other swathe (i.e. however it wants to drape itself over a figure). The difference between cocoon swathes and the lesser swathes is this—in action, a cocoon swathe wraps itself entirely around a subject and creates a living plant cocoon to bestow effects on the subject within. The cocoons are as protective of their charges as a mother bear is of her cubs, and they never relinquish a person from their embrace until their task is fulfilled. This leads to confusion when people encounter a wild cocoon swathe—it merely wants to help but its aggressively protective nature makes it more fearsome than some herbalists realize.
 
@@ -32,7 +32,7 @@ Cocoon swathes envelop a person or creature and seal themselves around him or he
 - Disturbing or breaking open a cocoon swathe is difficult at best. Its external shell is harder than a strong wooden door (Hardness 6, 24 hit points, Break DC 26), so it is as difficult to break out from within as it is to break in from outside.
 - Cocoon swathes can envelop and contain one creature no taller than 90 inches tall or two creatures shorter than 40 inches each.
 - If propelling themselves by their own vines or other methods of mobility, cocoon swathes move at half the speed of a halfling, and half again as slow if carrying a subject inside.
-- Cocoon swathes have rudimentary sentience (Int 4, Wis 9, Cha 5) and can be reasoned with. Interacting with a cocoon swathe requires the ability to *speak with plants*, and even then talking to a cocoon swathe is difficult (Imagine the most focused doctor or scientist grappling with a problem, and that’s how a cocoon will react if anyone tries to interrupt its appointed task).
+- Cocoon swathes have rudimentary sentience (Int 4, Wis 9, Cha 5) and can be reasoned with. Interacting with a cocoon swathe requires the ability to _speak with plants_, and even then talking to a cocoon swathe is difficult (Imagine the most focused doctor or scientist grappling with a problem, and that’s how a cocoon will react if anyone tries to interrupt its appointed task).
 
 In essence, herbalists have created and taught swathes to be semi-independent and semi-sentient, but then they’ve programmed them to perform tasks that could not be done quickly enough by a normal herbalist or to act in concert with them. Still, no matter how advanced or able the swathes get, they are still plants at heart. Cocoons will consume dead animals and dead bodies for fertilizer, breaking their tissues and anything they can through quick decomposition methods to consume for food. A cocoon swathe cannot go for more than 4 days without some level of sunlight, so it cannot survive on long underground adventures (though a GM could design fungal-based swathes and erlcana for campaigns in just such subterranean settings).
 

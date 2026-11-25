@@ -29,7 +29,7 @@ tags: [rangoric, rangoric/siege-engine]
 
 # Catapult, Standard
 
-*Huge [[rangoric-srd/rules/Siege Engines#Indirect-Fire Ranged Siege Engines|indirect-fire siege engine]].* Price 800 gp; Dmg 6d6; Critical ×2; Range 200 ft. (100 ft. min.); Type Bludgeoning; Crew 3; Aim 2; Load 3; Speed 0 ft.; Targeting DC 20; Hardness 5; Hit Points 100; Ammunition 15 gp, 75 lb. per stone. ^stats
+_Huge [[rangoric-srd/rules/Siege Engines#Indirect-Fire Ranged Siege Engines|indirect-fire siege engine]]._ Price 800 gp; Dmg 6d6; Critical ×2; Range 200 ft. (100 ft. min.); Type Bludgeoning; Crew 3; Aim 2; Load 3; Speed 0 ft.; Targeting DC 20; Hardness 5; Hit Points 100; Ammunition 15 gp, 75 lb. per stone. ^stats
 
 Catapults are stone-throwing siege engines powered by winched arms that run through torsion skeins, and hold their payload in a cup that swings up and over the weapon when released. Catapults can hurl a variety of different types of ammunition (the damage given is for stone projectiles; other kinds are in [[rangoric-srd/rules/Siege Engines#Special Siege Engine Ammunition|Special Siege Engine Ammunition]]). They are indirect-fire siege engines.
 

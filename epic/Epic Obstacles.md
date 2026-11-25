@@ -13,31 +13,31 @@ tags: [rangoric, rangoric/overview]
 
 #### Walls
 
-In addition to the standard types of wall, walls in dungeons can be made of mithral, adamantine, or even pure force.  
+In addition to the standard types of wall, walls in dungeons can be made of mithral, adamantine, or even pure force.
 
 | Wall Type             | Typical Thickness | Break DC | Hardness | Hit Points (1) | Athletics DC |
-| --------------------- | ----------------- | -------- | -------- | -------------- | -------- |
-| Paper                 | Paper-thin        | 1        | -       | 1 hp           | 30       |
-| Wood                  | 6 in.             | 20       | 5        | 60 hp          | 21       |
-| Masonry               | 1 ft.             | 35       | 8        | 90 hp          | 20       |
-| Masonry, superiore    | 1 ft.             | 35       | 8        | 90 hp          | 25       |
-| Masonry, reinforced   | 1 ft.             | 45       | 8        | 180 hp         | 15       |
-| Stone, hewn           | 3 ft.             | 50       | 8        | 540 hp         | 25       |
-| Stone, unworked       | 5 ft.             | 65       | 8        | 900 hp         | 15       |
-| Iron                  | 3 in.             | 30       | 10       | 90 hp          | 25       |
-| Mithral               | 3 in.             | 46       | 15       | 90 hp          | 70       |
-| Adamantine            | 3 in.             | 56       | 20       | 120 hp         | 70       |
-| Magically treated (2) | -                | +20     | ×2       | ×2 (3)         | -       |
-| Wall of force         | 1 in.             | n/a      | n/a      | n/a            | 70       |
-| Wall of ice           | 1 in./lvl         | 15+1/in. | 0        | 3 hp/in.       | 25       |
-| Wall of iron          | 1 in./4lvls       | 25+2/in. | 10       | 30 hp/in.      | 25       |
-| Wall of stone         | 1 in./4lvls       | 20+2/in. | 8        | 15 hp/in.      | 22       |
+| --------------------- | ----------------- | -------- | -------- | -------------- | ------------ |
+| Paper                 | Paper-thin        | 1        | -        | 1 hp           | 30           |
+| Wood                  | 6 in.             | 20       | 5        | 60 hp          | 21           |
+| Masonry               | 1 ft.             | 35       | 8        | 90 hp          | 20           |
+| Masonry, superiore    | 1 ft.             | 35       | 8        | 90 hp          | 25           |
+| Masonry, reinforced   | 1 ft.             | 45       | 8        | 180 hp         | 15           |
+| Stone, hewn           | 3 ft.             | 50       | 8        | 540 hp         | 25           |
+| Stone, unworked       | 5 ft.             | 65       | 8        | 900 hp         | 15           |
+| Iron                  | 3 in.             | 30       | 10       | 90 hp          | 25           |
+| Mithral               | 3 in.             | 46       | 15       | 90 hp          | 70           |
+| Adamantine            | 3 in.             | 56       | 20       | 120 hp         | 70           |
+| Magically treated (2) | -                 | +20      | ×2       | ×2 (3)         | -            |
+| Wall of force         | 1 in.             | n/a      | n/a      | n/a            | 70           |
+| Wall of ice           | 1 in./lvl         | 15+1/in. | 0        | 3 hp/in.       | 25           |
+| Wall of iron          | 1 in./4lvls       | 25+2/in. | 10       | 30 hp/in.      | 25           |
+| Wall of stone         | 1 in./4lvls       | 20+2/in. | 8        | 15 hp/in.      | 22           |
 
-1 Per 10-foot-by-10-foot section.     
+1 Per 10-foot-by-10-foot section.   
 
-2 These modifiers can be applied to any of the other wall types.  
+2 These modifiers can be applied to any of the other wall types.
 
-3 Or an additional 50 hit points, whichever is greater.  
+3 Or an additional 50 hit points, whichever is greater.
 
 #### Doors
 
@@ -58,7 +58,7 @@ In addition to the standard types of wall, walls in dungeons can be made of mith
 | Portcullis, Adamantine | 2 in.             | 20       | 80 hp      | 40 (1)   | 40 (1)   |
 | Portcullis, Force      | 1 in.             | 10       | n/a        | n/a      | 50 (1)   |
 
-1 DC to lift. Use appropriate door figure for breaking.  
+1 DC to lift. Use appropriate door figure for breaking.
 
 #### Obstacles and Hazards
 
@@ -91,7 +91,7 @@ In addition to the antimagic field’s effects, magic items that come into conta
 
 On the first round of contact, the slime can be scraped off a creature, but after that it must be frozen, burned, or cut away (dealing damage to the victim as well). Extreme cold, heat, or sunlight destroys a patch of flux slime.
 
-When destroyed, a patch of slime releases the byproducts of its magical digestion in a dangerous burst that radiates out 50 feet. All creatures caught in this burst are subject to some random and permanent transmutation effect, as generated on the table below. Each burst generates one of these effects. Creatures may resist this effect with a Fortitude saving throw (DC 29).  
+When destroyed, a patch of slime releases the byproducts of its magical digestion in a dangerous burst that radiates out 50 feet. All creatures caught in this burst are subject to some random and permanent transmutation effect, as generated on the table below. Each burst generates one of these effects. Creatures may resist this effect with a Fortitude saving throw (DC 29).
 
 | d%     | Result                                                                                                                  |
 | ------ | ----------------------------------------------------------------------------------------------------------------------- |

@@ -22,11 +22,11 @@ tags: [rangoric, rangoric/spell]
 
 # Blessing of Luck and Resolve, Mass
 
-*Enchantment (Compulsion) \[Mind-affecting\]*
+_Enchantment (Compulsion) \[Mind-affecting\]_
 
-  - **Level**: Clr 6, Inq 6, Pal 4
-  - **Components**: 
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Targets**: One creature/level, no two of which can be more than 30 ft. apart
+- **Level**: Clr 6, Inq 6, Pal 4
+- **Components**:
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Targets**: One creature/level, no two of which can be more than 30 ft. apart
 
-This spell functions like *[[rangoric-srd/spells/Blessing of Luck and Resolve|blessing of luck and resolve]]*, except that it affects multiple creatures.
+This spell functions like _[[rangoric-srd/spells/Blessing of Luck and Resolve|blessing of luck and resolve]]_, except that it affects multiple creatures.

@@ -33,7 +33,7 @@ Most dragons and outsiders fall into this role, but any creature that has a list
 
 ### Skill
 
-Creatures of this type rely on skills (usually Stealth) to ambush or take down their prey. This also includes creatures who take advantage of the environment or spells, such as fog or *[[rangoric-srd/spells/Invisibility|invisibility]]*.
+Creatures of this type rely on skills (usually Stealth) to ambush or take down their prey. This also includes creatures who take advantage of the environment or spells, such as fog or _[[rangoric-srd/spells/Invisibility|invisibility]]_.
 
 Some aberrations, fey, magical beasts, monstrous humanoids, and outsiders fall into this role.
 

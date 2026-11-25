@@ -26,17 +26,17 @@ tags: [rangoric, rangoric/constellation]
 
 # The Hammer
 
-*[[rangoric-srd/rules/star magic/Star Magic|Constellation]]*
+_[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 
-  - **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Life|Life]], [[rangoric-srd/rules/star magic/stars/Star of Oaths|Oaths]], [[rangoric-srd/rules/star magic/stars/Star of Water|Water]]
-  - **Call Level**: 5th ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: One creature
-  - **Duration**: 1 week
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Life|Life]], [[rangoric-srd/rules/star magic/stars/Star of Oaths|Oaths]], [[rangoric-srd/rules/star magic/stars/Star of Water|Water]]
+- **Call Level**: 5th ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: One creature
+- **Duration**: 1 week
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 The target can work long hours without tiring or losing focus. When it works out its week's progress with [[rangoric-srd/skills/Craft|Craft]], it doubles its check result before multiplying it by the item's DC.
 

@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Ringmail
 
-*Medium armor.* Cost 100 gp; Armor Bonus +5; Maximum Dex Bonus +4; Armor Check Penalty –3; Arcane Spell Failure 25%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 30 lb. ^stats
+_Medium armor._ Cost 100 gp; Armor Bonus +5; Maximum Dex Bonus +4; Armor Check Penalty –3; Arcane Spell Failure 25%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 30 lb. ^stats
 
 Large metal rings cover a thick suit of leather armor, providing good flexibility and protection for those used to the armor’s strange fit.

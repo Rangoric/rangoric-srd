@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Medium
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 5d8 (22 hp)
-  - **Initiative**: +1
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 21 (+7 armor, +1 Dex, +3 shield), touch 11, flat-footed 20
-  - **Base Attack**: +3; **CMB**: +2; **CMD**: 13
-  - **Attack**: [[rangoric-srd/equipment/weapons/Light Mace|Light mace]] +2 melee (1d6–1) or [[rangoric-srd/equipment/weapons/Dart|dart]] +4 ranged (1d4–1)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Light Mace|Light mace]] +2 melee (1d6–1); or [[rangoric-srd/equipment/weapons/Dart|dart]] +4 ranged (1d4–1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel positive energy]] 7/day (DC 14, 3d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|turn undead]], *[[rangoric-srd/spells/Calm Emotions|calm emotions]]* (1/day, [[rangoric-srd/class-options/domains/Community Domain|Community domain]]), [[rangoric-srd/class-options/domains/Repose Domain|death touch]] (5d6, 1/day)
-  - **Special Qualities**: —
-  - **Saves**: Fort +5, Ref +3, Will +8
-  - **Abilities**: Str 8, Dex 12, Con 10, Int 14, Wis 17, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Medicine|Medicine]] +11, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +12, [[rangoric-srd/skills/Profession|Profession]] (midwife) +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Theology|Theology]] +9
-  - **Feats**: [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Shield Focus|Shield Focus]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Turn Undead|Turn Undead]]
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 4
-  - **Treasure**: NPC gear
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 5d8 (22 hp)
+- **Initiative**: +1
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 21 (+7 armor, +1 Dex, +3 shield), touch 11, flat-footed 20
+- **Base Attack**: +3; **CMB**: +2; **CMD**: 13
+- **Attack**: [[rangoric-srd/equipment/weapons/Light Mace|Light mace]] +2 melee (1d6–1) or [[rangoric-srd/equipment/weapons/Dart|dart]] +4 ranged (1d4–1)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Light Mace|Light mace]] +2 melee (1d6–1); or [[rangoric-srd/equipment/weapons/Dart|dart]] +4 ranged (1d4–1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel positive energy]] 7/day (DC 14, 3d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|turn undead]], _[[rangoric-srd/spells/Calm Emotions|calm emotions]]_ (1/day, [[rangoric-srd/class-options/domains/Community Domain|Community domain]]), [[rangoric-srd/class-options/domains/Repose Domain|death touch]] (5d6, 1/day)
+- **Special Qualities**: —
+- **Saves**: Fort +5, Ref +3, Will +8
+- **Abilities**: Str 8, Dex 12, Con 10, Int 14, Wis 17, Cha 14
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Medicine|Medicine]] +11, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +12, [[rangoric-srd/skills/Profession|Profession]] (midwife) +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Theology|Theology]] +9
+- **Feats**: [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Shield Focus|Shield Focus]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Turn Undead|Turn Undead]]
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 4
+- **Treasure**: NPC gear
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A medium is a [[rangoric-srd/monsters/human/Human|human]] with 5 levels of [[rangoric-srd/classes/Cleric|cleric]]. A medium is a speaker who bridges the worlds of the living and the dead. She proclaims rest and blesses gravesites, ushering in birth and consigning the dead to the ground, yet it is also her seance that recalls the shades of the lost and ensures the continuity of a community's past, present, and future.
 
@@ -74,4 +74,4 @@ A medium speaks Celestial, Common, and Infernal.
 
 **Domain Spell-Like Abilities** (CL 5th; concentration +8): 6/day—[[rangoric-srd/class-options/domains/Community Domain|calming touch]] (1d6+5 nonlethal), [[rangoric-srd/class-options/domains/Repose Domain|gentle rest]].
 
-**Cleric spells prepared** (CL 5th; concentration +8): 3rd—*[[rangoric-srd/spells/Bestow Curse|bestow curse]]*(DC 16), *[[rangoric-srd/spells/Helping Hand|helping hand]]*, *[[rangoric-srd/spells/Speak with Dead|speak with dead]]*D; 2nd—*[[rangoric-srd/spells/Augury|augury]]*, *[[rangoric-srd/spells/Gentle Repose|gentle repose]]*D, *[[rangoric-srd/spells/Silence|silence]]*(DC 15), *[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]*; 1st—*[[rangoric-srd/spells/Bless|bless]]*, *[[rangoric-srd/spells/Command|command]]*(DC 14), *[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]*, *[[rangoric-srd/spells/Deathwatch|deathwatch]]*D, *[[rangoric-srd/spells/Sanctuary|sanctuary]]*(DC 14); 0 (at will)—*[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Guidance|guidance]]*, *[[rangoric-srd/spells/Light|light]]*, *[[rangoric-srd/spells/Read Magic|read magic]]*; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Community Domain|Community]], [[rangoric-srd/class-options/domains/Repose Domain|Repose]].
+**Cleric spells prepared** (CL 5th; concentration +8): 3rd—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_(DC 16), _[[rangoric-srd/spells/Helping Hand|helping hand]]_, *[[rangoric-srd/spells/Speak with Dead|speak with dead]]*D; 2nd—_[[rangoric-srd/spells/Augury|augury]]_, *[[rangoric-srd/spells/Gentle Repose|gentle repose]]*D, _[[rangoric-srd/spells/Silence|silence]]_(DC 15), _[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]_; 1st—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Command|command]]_(DC 14), _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, *[[rangoric-srd/spells/Deathwatch|deathwatch]]*D, _[[rangoric-srd/spells/Sanctuary|sanctuary]]_(DC 14); 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Community Domain|Community]], [[rangoric-srd/class-options/domains/Repose Domain|Repose]].

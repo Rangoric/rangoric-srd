@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Pickled Punk
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 2d8+2 (11 hp)
-  - **Initiative**: +1
-  - **Speed**: 15 ft. (3 squares)
-  - **Armor Class**: 13 (+1 Dex, +2 size), touch 13, flat-footed 12
-  - **Base Attack**: +1; **CMB**: +0; **CMD**: 6
-  - **Attack**: Bite +4 melee (1d3–4 plus [[rangoric-srd/monsters/abilities/Attach|attach]])
-  - **Full Attack**: Bite +4 melee (1d3–4 plus [[rangoric-srd/monsters/abilities/Attach|attach]])
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Attach|Attach]], death throes, [[rangoric-srd/monsters/abilities/Irritant|irritant]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Opportune|opportune]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-  - **Saves**: Fort +1, Ref +1, Will +4
-  - **Abilities**: Str 3, Dex 13, Con —, Int 4, Wis 12, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +2 (+10 when playing dead), [[rangoric-srd/skills/Stealth|Stealth]] +13
-  - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 2d8+2 (11 hp)
+- **Initiative**: +1
+- **Speed**: 15 ft. (3 squares)
+- **Armor Class**: 13 (+1 Dex, +2 size), touch 13, flat-footed 12
+- **Base Attack**: +1; **CMB**: +0; **CMD**: 6
+- **Attack**: Bite +4 melee (1d3–4 plus [[rangoric-srd/monsters/abilities/Attach|attach]])
+- **Full Attack**: Bite +4 melee (1d3–4 plus [[rangoric-srd/monsters/abilities/Attach|attach]])
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Attach|Attach]], death throes, [[rangoric-srd/monsters/abilities/Irritant|irritant]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Opportune|opportune]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
+- **Saves**: Fort +1, Ref +1, Will +4
+- **Abilities**: Str 3, Dex 13, Con —, Int 4, Wis 12, Cha 13
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +2 (+10 when playing dead), [[rangoric-srd/skills/Stealth|Stealth]] +13
+- **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Grotesque curiosities, pickled punks are deformed, often-humanoid fetuses raised by necromancers and stored in jars of embalming fluid. Every pickled punk is different and the level of deformity spans a spectrum between the mildly lopsided to the utterly unfathomable. Though they seem harmless at first—even laughable—pickled punks are hungry creatures that attack without provocation when freed from their jars. Some pickled punks rock and wriggle in their jars in hopes of falling off a shelf or table and shattering their glass prison (such jars typically have hardness 1 and 2 hit points). Once freed, a pickled punk pulls itself across the ground with its malformed limbs in search of sustenance. Unless weaned from its taste for blood or constantly controlled, pickled punks become a danger to their creators.
 

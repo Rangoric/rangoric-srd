@@ -18,8 +18,8 @@ tags: [rangoric, rangoric/magic-item]
 
 # Sacred
 
-A *sacred* weapon is filled with divine energy, and acts as a holy symbol. When wielded by a creature that can cast divine spells, the weapon automatically displays an image of that creature's holy symbol, often as a glowing rune on the weapon's blade or along its haft.
+A _sacred_ weapon is filled with divine energy, and acts as a holy symbol. When wielded by a creature that can cast divine spells, the weapon automatically displays an image of that creature's holy symbol, often as a glowing rune on the weapon's blade or along its haft.
 
 Additionally, if the wielder has the [[rangoric-srd/classes/Warpriest#^warpriest-blessings|blessings]] class feature, whenever he [[rangoric-srd/combat/Combat Special Attacks#Channel Energy|channels energy]], he can choose one ally or ally's weapon within the area of the channeled energy and bestow upon that creature or weapon the benefits of one of his minor blessings at a cost of one use of that blessing.
 
-Strong transmutation; CL 16th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Imbue with Spell Ability|imbue with spell ability]]*; Price +1 bonus.
+Strong transmutation; CL 16th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Imbue with Spell Ability|imbue with spell ability]]_; Price +1 bonus.

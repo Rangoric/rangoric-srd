@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Dragonne
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 9d10+27 (76 hp)
-  - **Initiative**: +7
-  - **Speed**: 40 ft. (8 squares), fly 30 ft. (poor)
-  - **Armor Class**: 20 (+3 Dex, +8 natural, –1 size), touch 12, flat-footed 17
-  - **Base Attack**: +9; **CMB**: +15; **CMD**: 28 (32 vs. trip)
-  - **Attack**: Bite +13 melee (1d8+5) or claw +13 melee (1d6+5)
-  - **Full Attack**: Bite +13 melee (1d8+5) and 2 claws +13 melee (1d6+5)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], roar
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +9, Ref +9, Will +4
-  - **Abilities**: Str 21, Dex 17, Con 17, Int 6, Wis 12, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Perception|Perception]] +12
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Temperate deserts
-  - **Organization**: Solitary, pair, or pride (5–10)
-  - **Challenge Rating**: 7
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: 10–12 HD (Large); 13–27 HD (Huge)
-  - **Level Adjustment**: +4 (cohort)
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 9d10+27 (76 hp)
+- **Initiative**: +7
+- **Speed**: 40 ft. (8 squares), fly 30 ft. (poor)
+- **Armor Class**: 20 (+3 Dex, +8 natural, –1 size), touch 12, flat-footed 17
+- **Base Attack**: +9; **CMB**: +15; **CMD**: 28 (32 vs. trip)
+- **Attack**: Bite +13 melee (1d8+5) or claw +13 melee (1d6+5)
+- **Full Attack**: Bite +13 melee (1d8+5) and 2 claws +13 melee (1d6+5)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], roar
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +9, Ref +9, Will +4
+- **Abilities**: Str 21, Dex 17, Con 17, Int 6, Wis 12, Cha 12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Perception|Perception]] +12
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Temperate deserts
+- **Organization**: Solitary, pair, or pride (5–10)
+- **Challenge Rating**: 7
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: 10–12 HD (Large); 13–27 HD (Huge)
+- **Level Adjustment**: +4 (cohort)
 
 Possessing the savage instincts of lions with the cunning of brass dragons, dragonnes combine the fiercest features of these noble creatures into predators both awe-inspiring and deadly.
 

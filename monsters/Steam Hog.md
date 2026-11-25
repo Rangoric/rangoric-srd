@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Steam Hog
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 9d10+45 (94 hp)
-  - **Initiative**: +4
-  - **Speed**: 30 ft. (6 squares), burrow 10 ft.
-  - **Armor Class**: 19 (+5 armor, +6 natural, –2 size), touch 8, flat-footed 19
-  - **Base Attack**: +9; **CMB**: +18; **CMD**: 28 (32 vs. trip)
-  - **Attack**: Gore +14 melee (2d6+7 plus 1d6 fire) or hoof +14 melee (1d8+3)
-  - **Full Attack**: Gore +14 melee (2d6+7 plus 1d6 fire) and 2 hooves +9 melee (1d8+3)
-  - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Steam Cloud|Steam cloud]], [[rangoric-srd/monsters/abilities/Trample|trample]] (1d8+10, DC 21)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/-, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 15
-  - **Saves**: Fort +10, Ref +6, Will +6
-  - **Abilities**: Str 24, Dex 11, Con 18, Int 1, Wis 12, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +10
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Warm mountains
-  - **Organization**: Solitary, cavalry (2–4 plus 2–4 fire giants), or stampede (5–8 plus 3–8 fire giants)
-  - **Challenge Rating**: 7
-  - **Treasure**: Standard (Huge adamantine scale mail barding, other treasure)
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 9d10+45 (94 hp)
+- **Initiative**: +4
+- **Speed**: 30 ft. (6 squares), burrow 10 ft.
+- **Armor Class**: 19 (+5 armor, +6 natural, –2 size), touch 8, flat-footed 19
+- **Base Attack**: +9; **CMB**: +18; **CMD**: 28 (32 vs. trip)
+- **Attack**: Gore +14 melee (2d6+7 plus 1d6 fire) or hoof +14 melee (1d8+3)
+- **Full Attack**: Gore +14 melee (2d6+7 plus 1d6 fire) and 2 hooves +9 melee (1d8+3)
+- **Space/Reach**: 15 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Steam Cloud|Steam cloud]], [[rangoric-srd/monsters/abilities/Trample|trample]] (1d8+10, DC 21)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/-, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 15
+- **Saves**: Fort +10, Ref +6, Will +6
+- **Abilities**: Str 24, Dex 11, Con 18, Int 1, Wis 12, Cha 9
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +10
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Warm mountains
+- **Organization**: Solitary, cavalry (2–4 plus 2–4 fire giants), or stampede (5–8 plus 3–8 fire giants)
+- **Challenge Rating**: 7
+- **Treasure**: Standard (Huge adamantine scale mail barding, other treasure)
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The military advancements of fire giants aren't restricted only to arms and armor—just as ore is dredged from the mountains for these giants' cruel forges, animals are culled from the wilds to serve as fire giant weaponry. In addition to using hell hounds, red dragons, and other fiery fauna for their brutal campaigns, fire giants have created several unique species of war beasts all their own. Chief among these amalgamations of flesh and steel are the malformed swine known as steam hogs—enormous snorting brutes charged with heading the front lines of fire giant armies, each one capable of laying low an entire platoon of enemy soldiers.
 

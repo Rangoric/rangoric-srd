@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes, weapon-group/hammers]
 
 # Axe-Hammer
 
-*Exotic two-handed melee weapon.* Cost 55 gp; Dmg 1d6/1d6 (S), 1d8/1d8 (M); Critical x3; Weight 8 lb.; Type Bludgeoning and slashing. ^stats
+_Exotic two-handed melee weapon._ Cost 55 gp; Dmg 1d6/1d6 (S), 1d8/1d8 (M); Critical x3; Weight 8 lb.; Type Bludgeoning and slashing. ^stats
 
 An exotic weapon, the axe-hammer is long hafted with an axe blade on one side of the head and a blunt hammer surface on the other. Due to the strange balance of the weapon, axe or hammer wielders cannot use it proficiently; special training is required.

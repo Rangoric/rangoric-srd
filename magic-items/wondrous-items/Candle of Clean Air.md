@@ -24,4 +24,4 @@ This clean-smelling white candle is inscribed with glyphs portraying various swe
 
 The candle burns for up to 5 minutes, in increments of 1 minute. Once all 5 minutes are used, the candle is destroyed.
 
-Moderate abjuration; CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Wind Wall|wind wall]]*; Price 7,500 gp; Cost 3,750 gp.
+Moderate abjuration; CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Wind Wall|wind wall]]_; Price 7,500 gp; Cost 3,750 gp.

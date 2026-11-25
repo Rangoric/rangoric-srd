@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/feat]
 
 You have been trained to use magical movement as part of your combat tactics.
 
-**Prerequisites**: Ability to use the [[rangoric-srd/classes/Monk#^monk-abundant-step|abundant step]] class feature or cast *[[rangoric-srd/spells/Dimension Door|dimension door]]*, [[rangoric-srd/feats/Dimensional Agility|Dimensional Agility]].
+**Prerequisites**: Ability to use the [[rangoric-srd/classes/Monk#^monk-abundant-step|abundant step]] class feature or cast _[[rangoric-srd/spells/Dimension Door|dimension door]]_, [[rangoric-srd/feats/Dimensional Agility|Dimensional Agility]].
 
-**Benefit**: As a full-round action, you use abundant step or cast *[[rangoric-srd/spells/Dimension Door|dimension door]]* as a special [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]]. Doing so allows you to teleport up to double your current speed (up to the maximum distance allowed by the spell or ability) and to make the attack normally allowed on a charge.
+**Benefit**: As a full-round action, you use abundant step or cast _[[rangoric-srd/spells/Dimension Door|dimension door]]_ as a special [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]]. Doing so allows you to teleport up to double your current speed (up to the maximum distance allowed by the spell or ability) and to make the attack normally allowed on a charge.

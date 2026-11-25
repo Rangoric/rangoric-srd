@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat]
 
 # Closed Mind
 
-Your mind is better able to resist psionics than normal.  
+Your mind is better able to resist psionics than normal.
 
 Benefit: You get a +2 bonus on all saving throws to resist powers.
 

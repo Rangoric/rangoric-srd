@@ -60,7 +60,7 @@ Organization: Solitary    
 Challenge Rating: 29      
 Treasure: Standard      
 Alignment: Neutral evil      
-Advancement: By character class      
+Advancement: By character class    
 
 Demiliches speak the languages they knew as liches and as living creatures.
 
@@ -78,9 +78,9 @@ Spells: The demilich can cast any spells it could cast as a lich. This sample de
 
 Perfect Automatic Still Spell (Ex): A demilich can cast all the spells it knows without gestures.
 
-Spell-Like Abilities: Demiliches use these abilities as casters of a level equal to their spellcaster level, but the save DCs are all 36. The DC is Charisma-based.  
+Spell-Like Abilities: Demiliches use these abilities as casters of a level equal to their spellcaster level, but the save DCs are all 36. The DC is Charisma-based.
 
-At will - [[rangoric-srd/spells/Alter Self|alter self]], [[rangoric-srd/spells/Astral Projection|astral projection]], [[rangoric-srd/spells/Create Greater Undead|create greater undead]], [[rangoric-srd/spells/Create Undead|create undead]], [[rangoric-srd/spells/Death Knell|death knell]], [[rangoric-srd/spells/Enervation|enervation]], [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Harm|harm]] (usually used to heal itself ), [[rangoric-srd/spells/Summon Monster I|summon monster]] I-IX, [[rangoric-srd/spells/Telekinesis|telekinesis]], [[rangoric-srd/spells/Weird|weird]];  
+At will - [[rangoric-srd/spells/Alter Self|alter self]], [[rangoric-srd/spells/Astral Projection|astral projection]], [[rangoric-srd/spells/Create Greater Undead|create greater undead]], [[rangoric-srd/spells/Create Undead|create undead]], [[rangoric-srd/spells/Death Knell|death knell]], [[rangoric-srd/spells/Enervation|enervation]], [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Harm|harm]] (usually used to heal itself ), [[rangoric-srd/spells/Summon Monster I|summon monster]] I-IX, [[rangoric-srd/spells/Telekinesis|telekinesis]], [[rangoric-srd/spells/Weird|weird]];
 
 2/day - [[rangoric-srd/spells/Planar Ally, Greater|greater planar ally]].
 
@@ -120,9 +120,9 @@ Spells: The demilich can cast any spells it could cast as a lich.
 
 Perfect Automatic Still Spell: The demilich can cast all the spells it knows without gestures.
 
-Spell-Like Abilities: Demiliches use these abilities as casters of a level equal to their spellcaster level, but the save DCs are equal to 10 + the demilich’s HD + the demilich’s Charisma modifier.  
+Spell-Like Abilities: Demiliches use these abilities as casters of a level equal to their spellcaster level, but the save DCs are equal to 10 + the demilich’s HD + the demilich’s Charisma modifier.
 
-At will - [[rangoric-srd/spells/Alter Self|alter self]], [[rangoric-srd/spells/Astral Projection|astral projection]], [[rangoric-srd/spells/Create Greater Undead|create greater undead]], [[rangoric-srd/spells/Create Undead|create undead]], [[rangoric-srd/spells/Death Knell|death knell]], [[rangoric-srd/spells/Enervation|enervation]], [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Harm|harm]] (usually used to heal itself ), [[rangoric-srd/spells/Summon Monster I|summon monster]] I-IX, [[rangoric-srd/spells/Telekinesis|telekinesis]], [[rangoric-srd/spells/Weird|weird]];  
+At will - [[rangoric-srd/spells/Alter Self|alter self]], [[rangoric-srd/spells/Astral Projection|astral projection]], [[rangoric-srd/spells/Create Greater Undead|create greater undead]], [[rangoric-srd/spells/Create Undead|create undead]], [[rangoric-srd/spells/Death Knell|death knell]], [[rangoric-srd/spells/Enervation|enervation]], [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Harm|harm]] (usually used to heal itself ), [[rangoric-srd/spells/Summon Monster I|summon monster]] I-IX, [[rangoric-srd/spells/Telekinesis|telekinesis]], [[rangoric-srd/spells/Weird|weird]];
 
 2/day - [[rangoric-srd/spells/Planar Ally, Greater|greater planar ally]].
 

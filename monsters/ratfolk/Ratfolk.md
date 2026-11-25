@@ -40,37 +40,37 @@ tags: [rangoric, rangoric/monster]
 
 # Ratfolk
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Ratfolk)
-  - **Hit Dice**: 1d8 (4 hp)
-  - **Initiative**: +2
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 15 (+2 armor, +2 Dex, +1 size), touch 13, flat-footed 13
-  - **Base Attack**: +0; **CMB**: –3; **CMD**: 9
-  - **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] –1 melee (1d3–2/19–20) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +3 ranged (1d6/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] –1 melee (1d3–2/19–20); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +3 ranged (1d6/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Swarming|Swarming]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
-  - **Saves**: Fort +0, Ref +2, Will +2
-  - **Abilities**: Str 6, Dex 15, Con 11, Int 14, Wis 10, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +3 (+7 with rodents), [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +8, [[rangoric-srd/skills/Emulation|Emulation]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +3, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Warm deserts or urban
-  - **Organization**: Solitary, pair, pack (3–12), or colony (13–100)
-  - **Challenge Rating**: 1/3
-  - **Treasure**: NPC gear (leather armor, light crossbow with 20 bolts, dagger, other treasure)
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Ratfolk)
+- **Hit Dice**: 1d8 (4 hp)
+- **Initiative**: +2
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 15 (+2 armor, +2 Dex, +1 size), touch 13, flat-footed 13
+- **Base Attack**: +0; **CMB**: –3; **CMD**: 9
+- **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] –1 melee (1d3–2/19–20) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +3 ranged (1d6/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] –1 melee (1d3–2/19–20); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +3 ranged (1d6/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Swarming|Swarming]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
+- **Saves**: Fort +0, Ref +2, Will +2
+- **Abilities**: Str 6, Dex 15, Con 11, Int 14, Wis 10, Cha 9
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +3 (+7 with rodents), [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +8, [[rangoric-srd/skills/Emulation|Emulation]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +3, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Warm deserts or urban
+- **Organization**: Solitary, pair, pack (3–12), or colony (13–100)
+- **Challenge Rating**: 1/3
+- **Treasure**: NPC gear (leather armor, light crossbow with 20 bolts, dagger, other treasure)
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 **Also in this entry:**
 
-  - Ratfolk Scroungers: [[rangoric-srd/monsters/ratfolk/Ratfolk Tinkerer|Ratfolk Tinkerer]] (CR 1), [[rangoric-srd/monsters/ratfolk/Ratfolk Troubleshooter|Ratfolk Troubleshooter]] (CR 5)
-  - Ratfolk Weapon Masters: [[rangoric-srd/monsters/ratfolk/Ratfolk Bravo|Ratfolk Bravo]] (CR 2), [[rangoric-srd/monsters/ratfolk/Ratfolk Warden|Ratfolk Warden]] (CR 4)
-  - Ratfolk Travelers: [[rangoric-srd/monsters/ratfolk/Ratfolk Caravan Guard|Ratfolk Caravan Guard]] (CR 3), [[rangoric-srd/monsters/ratfolk/Ratfolk Expedition Leader|Ratfolk Expedition Leader]] (CR 7)
-  - [[rangoric-srd/monsters/ratfolk/Ratfolk Sage|Ratfolk Sage]] (CR 6)
-  - [[rangoric-srd/monsters/ratfolk/Ratfolk Chemist|Ratfolk Chemist]] (CR 7)
-  - [[rangoric-srd/monsters/ratfolk/Ratfolk Elder|Ratfolk Elder]] (CR 8)
+- Ratfolk Scroungers: [[rangoric-srd/monsters/ratfolk/Ratfolk Tinkerer|Ratfolk Tinkerer]] (CR 1), [[rangoric-srd/monsters/ratfolk/Ratfolk Troubleshooter|Ratfolk Troubleshooter]] (CR 5)
+- Ratfolk Weapon Masters: [[rangoric-srd/monsters/ratfolk/Ratfolk Bravo|Ratfolk Bravo]] (CR 2), [[rangoric-srd/monsters/ratfolk/Ratfolk Warden|Ratfolk Warden]] (CR 4)
+- Ratfolk Travelers: [[rangoric-srd/monsters/ratfolk/Ratfolk Caravan Guard|Ratfolk Caravan Guard]] (CR 3), [[rangoric-srd/monsters/ratfolk/Ratfolk Expedition Leader|Ratfolk Expedition Leader]] (CR 7)
+- [[rangoric-srd/monsters/ratfolk/Ratfolk Sage|Ratfolk Sage]] (CR 6)
+- [[rangoric-srd/monsters/ratfolk/Ratfolk Chemist|Ratfolk Chemist]] (CR 7)
+- [[rangoric-srd/monsters/ratfolk/Ratfolk Elder|Ratfolk Elder]] (CR 8)
 
 Ratfolk are small, rodentlike humanoids often found traveling in nomadic trading caravans or perhaps dwelling in colonies in slums, sewers, and other normally undesirable urban sectors. Tinkerers and hoarders by nature, many ratfolk are shrewd merchants, carefully navigating the shifting alliances of black markets and bazaars. They love their stockpiles of interesting items far more than money, and would rather trade for more baubles to add to their hoards than for mere coins.
 

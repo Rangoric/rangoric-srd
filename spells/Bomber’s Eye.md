@@ -21,13 +21,13 @@ tags: [rangoric, rangoric/spell]
 
 # Bomber’s Eye
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 1
-  - **Components**: S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level
+- **Level**: Alc 1
+- **Components**: S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level
 
 This extract allows you to throw weapons farther and more accurately. While this extract is in effect, increase the range of any thrown weapon by 10 feet. In addition, you receive a +1 insight bonus on attack rolls made with thrown weapons.

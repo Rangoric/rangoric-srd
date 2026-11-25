@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Swift Strike
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “swift strike”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “swift strike”, on the Special Qualities line.
 
 When a hollow serpent takes a full-attack action, it can make two bite attacks instead of just one. The [[rangoric-srd/monsters/Hollow Serpent|hollow serpent]] has it.

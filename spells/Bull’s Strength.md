@@ -40,17 +40,17 @@ tags: [rangoric, rangoric/spell]
 
 # Bull’s Strength
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 2, Apl 2, Blr 2, Clr 2, Drd 2, Fhn 2, Hun 2, Mag 2, Med 2, Msl 2, Pal 2, Psy 2, Sha 2, Sor/Wiz 2, Strength 2, Sum 2, SumU 2
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 min./level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Alc 2, Apl 2, Blr 2, Clr 2, Drd 2, Fhn 2, Hun 2, Mag 2, Med 2, Msl 2, Pal 2, Psy 2, Sha 2, Sor/Wiz 2, Strength 2, Sum 2, SumU 2
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 min./level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 The subject becomes stronger. The spell grants a +4 enhancement bonus to Strength, adding the usual benefits to melee attack rolls, melee damage rolls, and other uses of the Strength modifier.
 
-*Arcane Material Component*: A few hairs, or a pinch of dung, from a bull.
+_Arcane Material Component_: A few hairs, or a pinch of dung, from a bull.

@@ -29,15 +29,15 @@ tags: [rangoric, rangoric/spell]
 
 # Feather Step
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Brd 1, Drd 1, Hun 1, Psy 1, Rgr 1, Skd 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: 10 minutes/level
-  - **Saving Throw**: Fortitude negates (harmless)
-  - **Spell Resistance**: Yes
+- **Level**: Brd 1, Drd 1, Hun 1, Psy 1, Rgr 1, Skd 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: 10 minutes/level
+- **Saving Throw**: Fortitude negates (harmless)
+- **Spell Resistance**: Yes
 
 For the duration of this spell, the subject ignores the adverse movement effects of difficult terrain, and can even take 5-foot steps in difficult terrain.

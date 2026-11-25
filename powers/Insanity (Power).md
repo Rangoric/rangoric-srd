@@ -36,11 +36,11 @@ Telepathy (Compulsion) \[Mind-Affecting\]
 **Duration:** Instantaneous  
 **Saving Throw:** Will negates  
 **Power Resistance:** Yes  
-**Power Points:** 13  
+**Power Points:** 13
 
 As the [[rangoric-srd/spells/Confusion|confusion]] spell, except as noted here.
 
-Creatures affected by this power are permanently [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] and constantly behave randomly. Roll on the following table at the beginning the subject’s turn each round to see what the subject does in that round.  
+Creatures affected by this power are permanently [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] and constantly behave randomly. Roll on the following table at the beginning the subject’s turn each round to see what the subject does in that round.
 
 | d%     | Behavior                                                                                              |
 | ------ | ----------------------------------------------------------------------------------------------------- |

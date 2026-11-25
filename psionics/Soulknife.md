@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/overview]
 ### Soulknife
 
 Alignment: Any.  
-Hit Die: d10.  
+Hit Die: d10.
 
 **[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
 
@@ -27,38 +27,38 @@ Hit Die: d10.
 ###### Class Skills
 
 The soulknife’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Meditation|Meditation]]\* (Wis), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Psionics (Skill)|Psionics]]\* (Int), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).  
-\*New skill or expanded use of existing skill.  
+\*New skill or expanded use of existing skill.
 
-Skill Points at Each Level: 4 + Int modifier.  
+Skill Points at Each Level: 4 + Int modifier.
 
-Table: The Soulknife  
+Table: The Soulknife
 
 | Level | Special                                            |
 | ----- | -------------------------------------------------- |
 | 1st   | Mind blade, Weapon Focus (mind blade), Wild Talent |
 | 2nd   | Throw mind blade                                   |
 | 3rd   | Psychic strike +1d8                                |
-| 4th   | +1 mind blade                                     |
+| 4th   | +1 mind blade                                      |
 | 5th   | Free draw, shape mind blade                        |
 | 6th   | Mind blade enhancement +1, Speed of Thought        |
 | 7th   | Psychic strike +2d8                                |
-| 8th   | +2 mind blade                                     |
+| 8th   | +2 mind blade                                      |
 | 9th   | Bladewind, Greater Weapon Focus (mind blade)       |
 | 10th  | Mind blade enhancement +2                          |
 | 11th  | Psychic strike +3d8                                |
-| 12th  | +3 mind blade                                     |
+| 12th  | +3 mind blade                                      |
 | 13th  | Knife to the soul                                  |
 | 14th  | Mind blade enhancement +3                          |
 | 15th  | Psychic strike +4d8                                |
-| 16th  | +4 mind blade                                     |
+| 16th  | +4 mind blade                                      |
 | 17th  | Multiple throw                                     |
 | 18th  | Mind blade enhancement +4                          |
 | 19th  | Psychic strike +5d8                                |
-| 20th  | +5 mind blade                                     |
+| 20th  | +5 mind blade                                      |
 
 ###### Class Features
 
-All the following are class features of the soulknife.  
+All the following are class features of the soulknife.
 
 Weapon and Armor Proficiency: Soulknives are proficient with all simple weapons, with their own mind blades, and with light armor and shields (except tower shields).
 
@@ -91,23 +91,23 @@ The weapon ability or abilities remain the same every time the soulknife materia
 
 | Weapon Special Ability | Enhancement Bonus Value |
 | ---------------------- | ----------------------- |
-| Defending              | +1                     |
-| Keen                   | +1                     |
-| Lucky\*                | +1                     |
-| Mighty cleaving        | +1                     |
-| Psychokinetic\*        | +1                     |
-| Sundering\*            | +1                     |
-| Vicious                | +1                     |
-| Collision\*            | +2                     |
-| Mindcrusher\*          | +2                     |
-| Psychokinetic burst\*  | +2                     |
-| Suppression\*          | +2                     |
-| Wounding               | +2                     |
-| Bodyfeeder\*           | +3                     |
-| Mindfeeder\*           | +3                     |
-| Soulbreaker\*          | +3                     |
+| Defending              | +1                      |
+| Keen                   | +1                      |
+| Lucky\*                | +1                      |
+| Mighty cleaving        | +1                      |
+| Psychokinetic\*        | +1                      |
+| Sundering\*            | +1                      |
+| Vicious                | +1                      |
+| Collision\*            | +2                      |
+| Mindcrusher\*          | +2                      |
+| Psychokinetic burst\*  | +2                      |
+| Suppression\*          | +2                      |
+| Wounding               | +2                      |
+| Bodyfeeder\*           | +3                      |
+| Mindfeeder\*           | +3                      |
+| Soulbreaker\*          | +3                      |
 
-\*New special abilities  
+\*New special abilities
 
 A soulknife can reassign the ability or abilities he has added to his mind blade. To do so, he must first spend 8 hours in concentration. After that period, the mind blade materializes with the new ability or abilities selected by the soulknife.
 

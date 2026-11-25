@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Jungle Domain
 
-*A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]; clerics can’t take it.*
+_A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]; clerics can’t take it._
 
 ## Granted Powers
 
@@ -26,14 +26,14 @@ The spirits of the jungle, both of natural guardians and lost civilizations, whi
 
 ## Domain Spells
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Glide\|Glide]] (M) | You take no falling damage and move 60 ft./round while falling. |
-| 2nd | [[rangoric-srd/spells/Tar Ball\|Tar Ball]] (M) | Burning tar harms target and penalizes its Dex. |
-| 3rd | [[rangoric-srd/spells/Venomous Bolt\|Venomous Bolt]] | Arrow or bolt poisons target. |
-| 4th | [[rangoric-srd/spells/Arboreal Hammer\|Arboreal Hammer]] | Tree branches attack opponents. |
-| 5th | [[rangoric-srd/spells/Blessing of the Salamander\|Blessing of the Salamander]] | Subject gets fast healing 5, fire resistance 20, +2 CMD. |
-| 6th | [[rangoric-srd/spells/Swarm Skin\|Swarm Skin]] (M) | Turns your body into a swarm of vermin. |
-| 7th | [[rangoric-srd/spells/Creeping Doom\|Creeping Doom]] | Swarms of centipedes attack at your command. |
-| 8th | [[rangoric-srd/spells/Wall of Lava\|Wall of Lava]] (M) | Wall damages foes that try to enter, periodically launches lava at nearby targets. |
-| 9th | [[rangoric-srd/spells/Shambler\|Shambler]] | Summons 1d4+2 shambling mounds to fight for you. |
+| Level | Spell                                                                          | Brief Description                                                                  |
+| ----- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Glide\|Glide]] (M)                                       | You take no falling damage and move 60 ft./round while falling.                    |
+| 2nd   | [[rangoric-srd/spells/Tar Ball\|Tar Ball]] (M)                                 | Burning tar harms target and penalizes its Dex.                                    |
+| 3rd   | [[rangoric-srd/spells/Venomous Bolt\|Venomous Bolt]]                           | Arrow or bolt poisons target.                                                      |
+| 4th   | [[rangoric-srd/spells/Arboreal Hammer\|Arboreal Hammer]]                       | Tree branches attack opponents.                                                    |
+| 5th   | [[rangoric-srd/spells/Blessing of the Salamander\|Blessing of the Salamander]] | Subject gets fast healing 5, fire resistance 20, +2 CMD.                           |
+| 6th   | [[rangoric-srd/spells/Swarm Skin\|Swarm Skin]] (M)                             | Turns your body into a swarm of vermin.                                            |
+| 7th   | [[rangoric-srd/spells/Creeping Doom\|Creeping Doom]]                           | Swarms of centipedes attack at your command.                                       |
+| 8th   | [[rangoric-srd/spells/Wall of Lava\|Wall of Lava]] (M)                         | Wall damages foes that try to enter, periodically launches lava at nearby targets. |
+| 9th   | [[rangoric-srd/spells/Shambler\|Shambler]]                                     | Summons 1d4+2 shambling mounds to fight for you.                                   |

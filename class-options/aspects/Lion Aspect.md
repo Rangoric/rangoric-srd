@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Lion Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). Lions hunt in prides, cooperating to bring down large opponents and defend their territory.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). Lions hunt in prides, cooperating to bring down large opponents and defend their territory._
 
 **Minor Form**: You gain a +4 competence bonus on Intimidation checks.
 

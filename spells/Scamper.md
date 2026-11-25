@@ -25,14 +25,14 @@ tags: [rangoric, rangoric/spell]
 
 # Scamper
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Drd 2, Hun 2, Rgr 2
-  - **Components**: V, S
-  - **Casting Time**: 1 swift action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: Your animal companion
-  - **Duration**: 1 round; see text
-  - **Spell Resistance**: No
+- **Level**: Drd 2, Hun 2, Rgr 2
+- **Components**: V, S
+- **Casting Time**: 1 swift action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: Your animal companion
+- **Duration**: 1 round; see text
+- **Spell Resistance**: No
 
 Your animal companion moves with astonishing agility and speed until the end of its turn. It can move at full speed while using Acrobatics, and it gains a competence bonus equal to twice your caster level (maximum +20 at 10th level) on Acrobatics checks to avoid attacks of opportunity or move through a square occupied by an enemy.

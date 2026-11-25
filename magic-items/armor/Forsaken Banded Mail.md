@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Forsaken Banded Mail
 
-Every inch of this suit of *+1 banded mail* bears a defaced holy symbol or a design equally offensive to one or more gods and their servants. The wearer of the armor cannot cast divine spells or use any spell-like supernatural ability gained from a connection to a deity. The wearer gains SR 19 against any divine-origin spell, spell-like ability, or supernatural ability (such as a domain granted power or ability from an outsider serving a deity), and treats the armor's enhancement bonus as +2 higher against creatures with these abilities.
+Every inch of this suit of _+1 banded mail_ bears a defaced holy symbol or a design equally offensive to one or more gods and their servants. The wearer of the armor cannot cast divine spells or use any spell-like supernatural ability gained from a connection to a deity. The wearer gains SR 19 against any divine-origin spell, spell-like ability, or supernatural ability (such as a domain granted power or ability from an outsider serving a deity), and treats the armor's enhancement bonus as +2 higher against creatures with these abilities.
 
 Moderate evocation; CL 11th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], creator cannot be a divine spellcaster; Price 25,400 gp; Cost 12,900 gp.

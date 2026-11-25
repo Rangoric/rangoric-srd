@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Snow Vision
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “snow vision”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “snow vision”, on the Special Qualities line.
 
 The creature can see perfectly well in snowy conditions, and does not take any penalties on Perception checks while in snowy weather. The [[rangoric-srd/monsters/Akhlut|akhlut]] has it.

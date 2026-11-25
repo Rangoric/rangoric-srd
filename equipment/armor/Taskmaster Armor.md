@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Taskmaster Armor
 
-*Heavy armor.* Cost 400 gp; Armor Bonus +6; Maximum Dex Bonus +1; Armor Check Penalty –5; Arcane Spell Failure 40%; Speed 20 ft. (2) (30 ft.), 15 ft. (2) (20 ft.); Weight 40 lb. ^stats
+_Heavy armor._ Cost 400 gp; Armor Bonus +6; Maximum Dex Bonus +1; Armor Check Penalty –5; Arcane Spell Failure 40%; Speed 20 ft. (2) (30 ft.), 15 ft. (2) (20 ft.); Weight 40 lb. ^stats
 
 Taskmaster armor is constructed of light copper and etched with silver streaks. The suit is often custom fitted to the wearer.

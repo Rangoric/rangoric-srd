@@ -38,25 +38,25 @@ tags: [rangoric, rangoric/monster]
 
 # Animated Object, Medium
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
-  - **Hit Dice**: 2d10+20 (31 hp)
-  - **Initiative**: 0
-  - **Speed**: 30 ft. (6 squares); 40 ft. legs, 50 ft. multiple legs, 70 ft. wheels
-  - **Armor Class**: 14 (+4 natural), touch 10, flat-footed 14
-  - **Base Attack**: +1; **CMB**: +2; **CMD**: 12
-  - **Attack**: Slam +2 melee (1d6+1)
-  - **Full Attack**: Slam +2 melee (1d6+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: See text
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], darkvision 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]; also see text
-  - **Saves**: Fort +0, Ref +0, Will –5
-  - **Abilities**: Str 12, Dex 10, Con —, Int —, Wis 1, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +6
-  - **Feats**: —
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 2
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
+- **Hit Dice**: 2d10+20 (31 hp)
+- **Initiative**: 0
+- **Speed**: 30 ft. (6 squares); 40 ft. legs, 50 ft. multiple legs, 70 ft. wheels
+- **Armor Class**: 14 (+4 natural), touch 10, flat-footed 14
+- **Base Attack**: +1; **CMB**: +2; **CMD**: 12
+- **Attack**: Slam +2 melee (1d6+1)
+- **Full Attack**: Slam +2 melee (1d6+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: See text
+- **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], darkvision 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]; also see text
+- **Saves**: Fort +0, Ref +0, Will –5
+- **Abilities**: Str 12, Dex 10, Con —, Int —, Wis 1, Cha 1
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +6
+- **Feats**: —
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 2
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: —
+- **Level Adjustment**: —

@@ -30,16 +30,16 @@ tags: [rangoric, rangoric/spell]
 
 # Cave Fangs
 
-*Conjuration (Creation) \[Earth\]*
+_Conjuration (Creation) \[Earth\]_
 
-  - **Level**: Drd 5, Hun 5, Wit 5
-  - **Components**: V, S, M (a sharp gemstone fragment worth 150 gp)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Area**: One 5-ft. square/level (S); the area must be a stone surface
-  - **Duration**: 1 day/level or until triggered
-  - **Saving Throw**: Reflex half (see below)
-  - **Spell Resistance**: No
+- **Level**: Drd 5, Hun 5, Wit 5
+- **Components**: V, S, M (a sharp gemstone fragment worth 150 gp)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Area**: One 5-ft. square/level (S); the area must be a stone surface
+- **Duration**: 1 day/level or until triggered
+- **Saving Throw**: Reflex half (see below)
+- **Spell Resistance**: No
 
 You create a magical trap in the area that causes deadly stalactites or stalagmites to lurch out of the floor or ceiling of a stone surface to "bite" an intruder. The magical trap is triggered whenever a Small or larger creature (other than you or your animal companion, familiar, or spirit animal) moves through the affected area. The effect of cave fangs depends on whether you create stalactites or stalagmites (see below). You can place these trapped squares anywhere within the spell's range; they need not be adjacent to each other, and you can create any mix of stalactites and stalagmites you wish. Cave fangs can be detected and disarmed as per a magical trap with successful DC 30 Perception and Engineering checks. All trapped squares created by a single casting are linked, and they are all disabled if one of them is. If you place the traps in an area that is occupied by a creature, the spell effect is triggered at the completion of the casting.
 

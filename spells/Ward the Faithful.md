@@ -25,16 +25,16 @@ tags: [rangoric, rangoric/spell]
 
 # Ward the Faithful
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Inq 3
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Area**: 10-ft.-radius emanation from touched creature
-  - **Duration**: 10 minutes/level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: No
+- **Level**: Inq 3
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Area**: 10-ft.-radius emanation from touched creature
+- **Duration**: 10 minutes/level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: No
 
 All creatures within the area who worship the same god as you gain a +2 deflection bonus to AC and a +2 resistance bonus on all saves. At 12th level, these bonuses increase to +3. At 18th level, the bonuses increase to +4.
 

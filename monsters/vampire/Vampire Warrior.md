@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Vampire Warrior
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Augmented Humanoid, Vishkanya)
-  - **Hit Dice**: 7d10+35 (78 hp)
-  - **Initiative**: +9
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 25 (+8 armor, +4 Dex, +1 dodge, +2 natural), touch 15, flat-footed 20
-  - **Base Attack**: +7; **CMB**: +12; **CMD**: 28
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Katana|katana]] +15 melee (1d8+8/15–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or bite +12 melee (1d6+5) or claw +12 melee (1d8+5/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +12 ranged (1d2+5)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Katana|katana]] +15/+10 melee (1d8+8/15–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]); or bite +12 melee (1d6+5) and 2 claws +12 melee (1d8+5/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]); or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +12/+7 ranged (1d2+5)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/vampire/Jiang-Shi#^drain-chi|Drain chi]] (DC 17), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (heavy blades +1)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft. (breathing creatures only), [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +2, [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/vampire/Jiang-Shi#^prayer-scroll|prayer scroll]], [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 2, [[rangoric-srd/monsters/abilities/Poison|poison]] use, [[rangoric-srd/monsters/abilities/Toxic|toxic]] (4/day), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic and slashing, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 20, [[rangoric-srd/monsters/vampire/Jiang-Shi#^weaknesses|jiang-shi weaknesses]]
-  - **Saves**: Fort +9, Ref +7, Will +4 (+2 vs. fear); +2 vs. poison)
-  - **Abilities**: Str 20, Dex 20, Con —, Int 10, Wis 15, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Craft|Craft]] (calligraphy) +4, [[rangoric-srd/skills/Craft|Craft]] (paintings) +4, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +3, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +2, [[rangoric-srd/skills/Society|Society]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +12
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (katana), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics, Perception), [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (katana), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (katana)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other vampires (see [[rangoric-srd/monsters/vampire/Jiang-Shi|Jiang-Shi]])
-  - **Challenge Rating**: 8
-  - **Treasure**: NPC gear (combat gear: oil of keen edge, potion of bull's strength, potion of fly, potion of haste, potion of inflict moderate wounds, potion of invisibility; other gear: o-yoroi, masterwork katana, shuriken (20), brooch of shielding (50 points), scabbard of vigo r, 46 gp)
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Augmented Humanoid, Vishkanya)
+- **Hit Dice**: 7d10+35 (78 hp)
+- **Initiative**: +9
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 25 (+8 armor, +4 Dex, +1 dodge, +2 natural), touch 15, flat-footed 20
+- **Base Attack**: +7; **CMB**: +12; **CMD**: 28
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Katana|katana]] +15 melee (1d8+8/15–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or bite +12 melee (1d6+5) or claw +12 melee (1d8+5/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +12 ranged (1d2+5)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Katana|katana]] +15/+10 melee (1d8+8/15–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]); or bite +12 melee (1d6+5) and 2 claws +12 melee (1d8+5/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]); or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +12/+7 ranged (1d2+5)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/vampire/Jiang-Shi#^drain-chi|Drain chi]] (DC 17), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (heavy blades +1)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft. (breathing creatures only), [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +2, [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/vampire/Jiang-Shi#^prayer-scroll|prayer scroll]], [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 2, [[rangoric-srd/monsters/abilities/Poison|poison]] use, [[rangoric-srd/monsters/abilities/Toxic|toxic]] (4/day), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic and slashing, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 20, [[rangoric-srd/monsters/vampire/Jiang-Shi#^weaknesses|jiang-shi weaknesses]]
+- **Saves**: Fort +9, Ref +7, Will +4 (+2 vs. fear); +2 vs. poison)
+- **Abilities**: Str 20, Dex 20, Con —, Int 10, Wis 15, Cha 18
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Craft|Craft]] (calligraphy) +4, [[rangoric-srd/skills/Craft|Craft]] (paintings) +4, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +3, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +2, [[rangoric-srd/skills/Society|Society]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +12
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (katana), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics, Perception), [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (katana), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (katana)
+- **Environment**: Any
+- **Organization**: Solitary, or with other vampires (see [[rangoric-srd/monsters/vampire/Jiang-Shi|Jiang-Shi]])
+- **Challenge Rating**: 8
+- **Treasure**: NPC gear (combat gear: oil of keen edge, potion of bull's strength, potion of fly, potion of haste, potion of inflict moderate wounds, potion of invisibility; other gear: o-yoroi, masterwork katana, shuriken (20), brooch of shielding (50 points), scabbard of vigo r, 46 gp)
+- **Alignment**: Usually lawful evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A vampire warrior is a [[rangoric-srd/monsters/vampire/Jiang-Shi|vishkanya jiang-shi]] with 7 levels of [[rangoric-srd/classes/Fighter|fighter]]. Some vampires learn the arts of war while alive, then carry on those traditions into undeath.
 

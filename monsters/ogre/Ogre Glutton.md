@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ogre Glutton
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
-  - **Hit Dice**: 4d8+8d12+80 (155 hp)
-  - **Initiative**: +2
-  - **Speed**: 50 ft. (10 squares)
-  - **Armor Class**: 20 (+5 armor, +1 deflection, +2 Dex, +5 natural, –2 rage, –1 size), touch 10, flat-footed 18
-  - **Base Attack**: +11; **CMB**: +22 (+26 grapple); **CMD**: 33 (35 vs. grapple)
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Greataxe|greataxe]] +21 melee (3d6+16/×3) or bite +20 melee (1d8+15 plus animal fury) or [[rangoric-srd/equipment/weapons/Unarmed Strike|unarmed strike]] +20 melee (1d4+15)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Greataxe|greataxe]] +21/+16/+11 melee (3d6+16/×3) and bite +15 melee (1d8+15 plus animal fury); or [[rangoric-srd/equipment/weapons/Unarmed Strike|unarmed strike]] +20/+15/+10 melee (1d4+15)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (21 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Animal Fury (Rage Power)|animal fury]], [[rangoric-srd/class-options/rage-powers/Scent (Rage Power)|scent]], [[rangoric-srd/class-options/rage-powers/Strength Surge (Rage Power)|strength surge]] +8, [[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] +4)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +2, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 1/—
-  - **Saves**: Fort +16, Ref +6, Will +9 (+4 vs. magic)
-  - **Abilities**: Str 30, Dex 15, Con 21, Int 4, Wis 12, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +14
-  - **Feats**: [[rangoric-srd/feats/Gluttonous Gobbler|Gluttonous Gobbler]], [[rangoric-srd/feats/Greater Grapple|Greater Grapple]], [[rangoric-srd/feats/Improved Grapple|Improved Grapple]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Temperate or cold hills
-  - **Organization**: Solitary, or with other ogres (see [[rangoric-srd/monsters/ogre/Ogre|Ogre]])
-  - **Challenge Rating**: 11
-  - **Treasure**: NPC gear (combat gear: potions of cure moderate wounds (3), potion of neutralize poison, shirt of immolation; other gear: +1 chain shirt, +1 greataxe, belt of incredible dexterity +2, campfire bead, cloak of resistance +1, ring of protection +1, 60 gp)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
+- **Hit Dice**: 4d8+8d12+80 (155 hp)
+- **Initiative**: +2
+- **Speed**: 50 ft. (10 squares)
+- **Armor Class**: 20 (+5 armor, +1 deflection, +2 Dex, +5 natural, –2 rage, –1 size), touch 10, flat-footed 18
+- **Base Attack**: +11; **CMB**: +22 (+26 grapple); **CMD**: 33 (35 vs. grapple)
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Greataxe|greataxe]] +21 melee (3d6+16/×3) or bite +20 melee (1d8+15 plus animal fury) or [[rangoric-srd/equipment/weapons/Unarmed Strike|unarmed strike]] +20 melee (1d4+15)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Greataxe|greataxe]] +21/+16/+11 melee (3d6+16/×3) and bite +15 melee (1d8+15 plus animal fury); or [[rangoric-srd/equipment/weapons/Unarmed Strike|unarmed strike]] +20/+15/+10 melee (1d4+15)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (21 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Animal Fury (Rage Power)|animal fury]], [[rangoric-srd/class-options/rage-powers/Scent (Rage Power)|scent]], [[rangoric-srd/class-options/rage-powers/Strength Surge (Rage Power)|strength surge]] +8, [[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] +4)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +2, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 1/—
+- **Saves**: Fort +16, Ref +6, Will +9 (+4 vs. magic)
+- **Abilities**: Str 30, Dex 15, Con 21, Int 4, Wis 12, Cha 7
+- **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +14
+- **Feats**: [[rangoric-srd/feats/Gluttonous Gobbler|Gluttonous Gobbler]], [[rangoric-srd/feats/Greater Grapple|Greater Grapple]], [[rangoric-srd/feats/Improved Grapple|Improved Grapple]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Temperate or cold hills
+- **Organization**: Solitary, or with other ogres (see [[rangoric-srd/monsters/ogre/Ogre|Ogre]])
+- **Challenge Rating**: 11
+- **Treasure**: NPC gear (combat gear: potions of cure moderate wounds (3), potion of neutralize poison, shirt of immolation; other gear: +1 chain shirt, +1 greataxe, belt of incredible dexterity +2, campfire bead, cloak of resistance +1, ring of protection +1, 60 gp)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 An ogre glutton is an [[rangoric-srd/monsters/ogre/Ogre|ogre]] with 8 levels of [[rangoric-srd/classes/Barbarian|barbarian]], one of the ogre devourers. Ogres who specialize in catching delicious humanoid morsels are popular among the clans.
 

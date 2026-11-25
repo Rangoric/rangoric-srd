@@ -47,18 +47,18 @@ The spell scion’s class skills (and the key ability for each skill) are all [[
 
 **Table: The Spell Scion**
 
-| Level | Special | Spells per Day/Spells Known |
-| --- | --- | --- |
-| 1st | Weapon Focus or Two-Weapon Fighting | +1 level of existing spellcasting class |
-| 2nd | — | +1 level of existing spellcasting class |
-| 3rd | — | +1 level of existing spellcasting class |
-| 4th | — | +1 level of existing spellcasting class |
-| 5th | — | +1 level of existing spellcasting class |
-| 6th | — | +1 level of existing spellcasting class |
-| 7th | — | +1 level of existing spellcasting class |
-| 8th | — | +1 level of existing spellcasting class |
-| 9th | — | +1 level of existing spellcasting class |
-| 10th | — | +1 level of existing spellcasting class |
+| Level | Special                             | Spells per Day/Spells Known             |
+| ----- | ----------------------------------- | --------------------------------------- |
+| 1st   | Weapon Focus or Two-Weapon Fighting | +1 level of existing spellcasting class |
+| 2nd   | —                                   | +1 level of existing spellcasting class |
+| 3rd   | —                                   | +1 level of existing spellcasting class |
+| 4th   | —                                   | +1 level of existing spellcasting class |
+| 5th   | —                                   | +1 level of existing spellcasting class |
+| 6th   | —                                   | +1 level of existing spellcasting class |
+| 7th   | —                                   | +1 level of existing spellcasting class |
+| 8th   | —                                   | +1 level of existing spellcasting class |
+| 9th   | —                                   | +1 level of existing spellcasting class |
+| 10th  | —                                   | +1 level of existing spellcasting class |
 
 ^table-the-spell-scion
 

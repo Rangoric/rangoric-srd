@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Fast Picks
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex).*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex)._
 
 A rogue with this talent can use the [[rangoric-srd/skills/Sleight of Hand#Picking Locks|Sleight of Hand]] skill to attempt to open a lock as a standard action instead of a full-round action.

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Drow Antipaladin
 
-*A [[rangoric-srd/races/Drow|drow]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Antipaladin#^antipaladin-class-bonuses|antipaladin]] level.*
+_A [[rangoric-srd/races/Drow|drow]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Antipaladin#^antipaladin-class-bonuses|antipaladin]] level._
 
 The antipaladin adds +1/4 to the number of [[rangoric-srd/classes/Antipaladin#^antipaladin-cruelty|cruelties]] he can inflict.

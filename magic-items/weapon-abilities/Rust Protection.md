@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Rust Protection
 
-Weapons protected by this enchantment are immune to all normal and magical forms of rust, including rust monster attacks and the effects of *[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]*. This enchantment is typically used for melee weapons, although metallic missile weapons may find this enchantment useful as well.
+Weapons protected by this enchantment are immune to all normal and magical forms of rust, including rust monster attacks and the effects of _[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]_. This enchantment is typically used for melee weapons, although metallic missile weapons may find this enchantment useful as well.
 
-Moderate transmutation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Protection from Energy|protection from energy]]* or *[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]*; Price +1 bonus.
+Moderate transmutation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Protection from Energy|protection from energy]]_ or _[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]_; Price +1 bonus.

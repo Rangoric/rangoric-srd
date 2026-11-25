@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Stoneplate
 
-*Heavy armor.* Cost 1,800 gp; Armor Bonus +9; Maximum Dex Bonus +1; Armor Check Penalty –6; Arcane Spell Failure 35%; Speed 15 ft. (2) (30 ft.), 10 ft. (2) (20 ft.); Weight 75 lb. ^stats
+_Heavy armor._ Cost 1,800 gp; Armor Bonus +9; Maximum Dex Bonus +1; Armor Check Penalty –6; Arcane Spell Failure 35%; Speed 15 ft. (2) (30 ft.), 10 ft. (2) (20 ft.); Weight 75 lb. ^stats
 
 This armor is crafted by dwarven stonesmiths from alchemically strengthened plates of basalt. Stoneplate is heavy and unwieldy, but offers incredible protection to its wearer. It is primarily used by dwarven druids who cannot wear metal armor.

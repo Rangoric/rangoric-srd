@@ -20,7 +20,7 @@ For each character in the campaign, you'll need a copy of the alignment diagram 
 
 **Relative Alignment**: In the relative alignment method, many, if not most, characters start out as truly neutral on both axes of the alignment charts (the number 5 position on both the law/chaos axis and the good/evil axis). If a character's starting class has an alignment restriction, the character starts at the nearest border to the neutral range on those charts as she can without breaking the class's alignment restriction. For instance, a monk would start at the 3 position on the law/chaos axis, but would still start at the 5 position on the good/evil axis. A paladin, on the other hand, would start at the 3 position on both axes.
 
-This method makes moral conflicts dangerous for low-level characters. For a character who must adhere to a specific alignment ethos to keep certain abilities or progress in her class, an early slip might have her searching for an *[[rangoric-srd/spells/Atonement|atonement]]* or rethinking her chosen career path.
+This method makes moral conflicts dangerous for low-level characters. For a character who must adhere to a specific alignment ethos to keep certain abilities or progress in her class, an early slip might have her searching for an _[[rangoric-srd/spells/Atonement|atonement]]_ or rethinking her chosen career path.
 
 **Standard Alignment**: The standard path is less restrictive than the relative method. A player chooses his character's alignment normally, and the character is positioned on the chart within that alignment but as close to the border of neutral as possible (either the 3 or the 7 position on each axis). If the player chooses neutral on either axis, then the character starts right in the middle (the 5 position) on that axis.
 
@@ -28,11 +28,11 @@ This method can also make early levels and moral conflicts precarious, but it do
 
 **Table: Changing Alignment**
 
-| 1 | 2      | 3 | 4 | 5       | 6 | 7 | 8       | 9 |
-| - | ------ | - | - | ------- | - | - | ------- | - |
-| ← | Lawful | → | ← | Neutral | → | ← | Chaotic | → |
-| 1 | 2      | 3 | 4 | 5       | 6 | 7 | 8       | 9 |
-| ← | Good   | → | ← | Neutral | → | ← | Evil    | → |
+| 1   | 2      | 3   | 4   | 5       | 6   | 7   | 8       | 9   |
+| --- | ------ | --- | --- | ------- | --- | --- | ------- | --- |
+| ←   | Lawful | →   | ←   | Neutral | →   | ←   | Chaotic | →   |
+| 1   | 2      | 3   | 4   | 5       | 6   | 7   | 8       | 9   |
+| ←   | Good   | →   | ←   | Neutral | →   | ←   | Evil    | →   |
 
 ## Moral Challenges and Dilemmas
 
@@ -92,7 +92,7 @@ You spread chaos wherever you go.
 
 **Prerequisites**: 10 Hit Dice, chaotic neutral alignment.
 
-**Benefit**: You can store a number of affirmations up to your Charisma bonus (minimum 1) to use at any time, not just within the next 24 hours. You can use an affirmation to cast *[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]* as a spell-like ability as a standard action, with a caster level equal to your Hit Dice. The duration of this effect on a failed save is 1d4 rounds. Lastly, you gain a +2 bonus on weapon and spell damage rolls against lawful creatures. This is an alignment-based effect.
+**Benefit**: You can store a number of affirmations up to your Charisma bonus (minimum 1) to use at any time, not just within the next 24 hours. You can use an affirmation to cast _[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]_ as a spell-like ability as a standard action, with a caster level equal to your Hit Dice. The duration of this effect on a failed save is 1d4 rounds. Lastly, you gain a +2 bonus on weapon and spell damage rolls against lawful creatures. This is an alignment-based effect.
 
 **Residual**: If you have this feat but are no longer chaotic neutral, you continue to gain the +2 bonus on weapon and spell damage against lawful creatures.
 
@@ -122,7 +122,7 @@ You believe that beings can thrive only when free.
 
 **Prerequisites**: 10 Hit Dice, chaotic good alignment.
 
-**Benefit**: You can store a number of affirmations up to your Charisma bonus (minimum 1) to use at any time, not just within the next 24 hours. You can also use an affirmation to gain the effects of *[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]* for 1 round. Lastly, you gain a +2 bonus on weapon and spell damage rolls against evil and lawful creatures (or +4 if the creature is both evil and lawful). This is an alignment-based effect.
+**Benefit**: You can store a number of affirmations up to your Charisma bonus (minimum 1) to use at any time, not just within the next 24 hours. You can also use an affirmation to gain the effects of _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_ for 1 round. Lastly, you gain a +2 bonus on weapon and spell damage rolls against evil and lawful creatures (or +4 if the creature is both evil and lawful). This is an alignment-based effect.
 
 **Residual**: If you have this feat but you are no longer chaotic good, you continue to gain the +2 bonus on weapon and spell damage rolls against evil and lawful creatures (or +4 if the creature is both lawful and evil).
 
@@ -162,7 +162,7 @@ The harmony of law is your highest ideal.
 
 **Prerequisites**: 10 Hit Dice, lawful neutral alignment.
 
-**Benefit**: You can store a number of affirmations up to your Charisma bonus (minimum 1) to use at any time, not just within the next 24 hours. You can use an affirmation to cast *[[rangoric-srd/spells/Calm Emotions|calm emotions]]* as a spell-like ability as a standard action, with a caster level equal to your Hit Dice. Lastly, you gain a +2 bonus on weapon and spell damage rolls against chaotic creatures. This is an alignment-based effect.
+**Benefit**: You can store a number of affirmations up to your Charisma bonus (minimum 1) to use at any time, not just within the next 24 hours. You can use an affirmation to cast _[[rangoric-srd/spells/Calm Emotions|calm emotions]]_ as a spell-like ability as a standard action, with a caster level equal to your Hit Dice. Lastly, you gain a +2 bonus on weapon and spell damage rolls against chaotic creatures. This is an alignment-based effect.
 
 **Residual**: If you have this feat but you are no longer lawful neutral, you continue to gain the +2 bonus on weapon and spell damage rolls against chaotic creatures.
 
@@ -172,6 +172,6 @@ You must beat down the masses to have true order.
 
 **Prerequisites**: 10 Hit Dice, lawful evil alignment.
 
-**Benefit**: You can store a number of affirmations up to your Charisma bonus (minimum 1) to use at any time, not just within the next 24 hours. You can use an affirmation to cast *[[rangoric-srd/spells/Hold Person|hold person]]* as a spell-like ability as a standard action, with a caster level equal to your Hit Dice. You gain a +2 bonus on weapon and spell damage rolls against chaotic and good creatures (or +4 if the creature is both chaotic and good). This is an alignment-based effect.
+**Benefit**: You can store a number of affirmations up to your Charisma bonus (minimum 1) to use at any time, not just within the next 24 hours. You can use an affirmation to cast _[[rangoric-srd/spells/Hold Person|hold person]]_ as a spell-like ability as a standard action, with a caster level equal to your Hit Dice. You gain a +2 bonus on weapon and spell damage rolls against chaotic and good creatures (or +4 if the creature is both chaotic and good). This is an alignment-based effect.
 
 **Residual**: If you have this feat but you are no longer lawful evil, you continue to gain the +2 bonus on weapon and spell damage rolls against chaotic and good creatures (or a +4 bonus if the creature is both chaotic and good).

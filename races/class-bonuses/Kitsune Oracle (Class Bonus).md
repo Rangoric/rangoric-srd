@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Kitsune Oracle
 
-*A [[rangoric-srd/races/Kitsune|kitsune]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Oracle#^oracle-class-bonuses|oracle]] level.*
+_A [[rangoric-srd/races/Kitsune|kitsune]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Oracle#^oracle-class-bonuses|oracle]] level._
 
 Reduce the penalty for not being proficient for one weapon by 1. When the nonproficiency penalty for a weapon becomes 0 because of this ability, the oracle is treated as having the appropriate [[rangoric-srd/feats/Martial Weapon Proficiency|Martial]] or [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] feat for that weapon.

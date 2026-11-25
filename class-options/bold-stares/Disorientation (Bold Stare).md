@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Disorientation
 
-*A mesmerist’s [[rangoric-srd/classes/Mesmerist#^mesmerist-bold-stare|bold stare]] improvement (Su).*
+_A mesmerist’s [[rangoric-srd/classes/Mesmerist#^mesmerist-bold-stare|bold stare]] improvement (Su)._
 
 The hypnotic stare penalty also applies on attack rolls.

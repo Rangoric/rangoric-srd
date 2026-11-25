@@ -57,13 +57,13 @@ The soul gem guardian’s class skills (and the key ability for each skill) are 
 
 **Table: The Soul Gem Guardian** ^table-the-soul-gem-guardian
 
-| Level | Special |
-| --- | --- |
-| 1st | Initial bond, shared spells (three 1st-level) |
-| 2nd | Crystalline form 1/day |
-| 3rd | Shared spells (two 2nd-level) |
-| 4th | Crystalline form 2/day |
-| 5th | Final bond, shared spells (one 3rd-level) |
+| Level | Special                                       |
+| ----- | --------------------------------------------- |
+| 1st   | Initial bond, shared spells (three 1st-level) |
+| 2nd   | Crystalline form 1/day                        |
+| 3rd   | Shared spells (two 2nd-level)                 |
+| 4th   | Crystalline form 2/day                        |
+| 5th   | Final bond, shared spells (one 3rd-level)     |
 
 ###### Class Features
 
@@ -71,7 +71,7 @@ All the following are class features of the soul gem guardian prestige class.
 
 **Weapon and Armor Proficiency**: Soul gem guardians are proficient with all simple and martial weapons and all types of armor and shields. Armor of any type may restrict a soul gem guardian’s movement, which can interfere with his ability to cast spells with somatic components (unless those somatic components have been replaced by an attuned jewel).
 
-**Initial Bond**: At 1st level the soul gem guardian has made his vows to his chosen patron and has become bonded to the patron’s [[rangoric-srd/prestige-classes/Jewel Mage#^jewel-mage-soul-gem|soul gem]]. The soul gem is magically set into his forehead and cannot be involuntarily removed unless the soul gem guardian fails a Will save (DC 15). He can remove the soul gem voluntarily or replace it as a standard action. The patron can share senses with his protector at will, and can communicate telepathically with him while the soul gem is within 100 feet + 10 feet per soul gem guardian level his protector possesses. The soul gem guardian automatically fails to save against his patron’s *[[rangoric-srd/spells/Magic Jar|magic jar]]* ability. The soul gem guardian can use any magical jewels created by his patron, whether attunement jewels, greater attunement jewels, encoded jewels, or binding jewels. ^soul-gem-guardian-initial-bond
+**Initial Bond**: At 1st level the soul gem guardian has made his vows to his chosen patron and has become bonded to the patron’s [[rangoric-srd/prestige-classes/Jewel Mage#^jewel-mage-soul-gem|soul gem]]. The soul gem is magically set into his forehead and cannot be involuntarily removed unless the soul gem guardian fails a Will save (DC 15). He can remove the soul gem voluntarily or replace it as a standard action. The patron can share senses with his protector at will, and can communicate telepathically with him while the soul gem is within 100 feet + 10 feet per soul gem guardian level his protector possesses. The soul gem guardian automatically fails to save against his patron’s _[[rangoric-srd/spells/Magic Jar|magic jar]]_ ability. The soul gem guardian can use any magical jewels created by his patron, whether attunement jewels, greater attunement jewels, encoded jewels, or binding jewels. ^soul-gem-guardian-initial-bond
 
 **Shared Spells**: At 1st level, the bond between the soul gem guardian and her patron allows her to select three 1st-level spells that her patron knows, which she can now cast as a sorcerer of twice her soul gem guardian level. These spells must be chosen at the time of bonding and cannot be changed. ^soul-gem-guardian-shared-spells
 
@@ -83,4 +83,4 @@ At 5th level, she gains one 3rd-level spell, which must be chosen at the time sh
 
 At 4th level, he can take on crystalline form twice per day.
 
-**Final Bond**: At 5th level, the bond between patron and protector becomes complete. The soul gem cannot be removed while the soul gem guardian still lives. The jewel mage patron can now share her consciousness with her protector without resorting to her *magic jar* ability. She can still use it on others within range. The soul gem guardian is now protected by the *[[rangoric-srd/spells/Mind Blank|mind blank]]* ability. ^soul-gem-guardian-final-bond
+**Final Bond**: At 5th level, the bond between patron and protector becomes complete. The soul gem cannot be removed while the soul gem guardian still lives. The jewel mage patron can now share her consciousness with her protector without resorting to her _magic jar_ ability. She can still use it on others within range. The soul gem guardian is now protected by the _[[rangoric-srd/spells/Mind Blank|mind blank]]_ ability. ^soul-gem-guardian-final-bond

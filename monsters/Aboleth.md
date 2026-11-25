@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Aboleth
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Aquatic)
-  - **Hit Dice**: 8d8+48 (84 hp)
-  - **Initiative**: +5
-  - **Speed**: 10 ft. (2 squares), swim 60 ft.
-  - **Armor Class**: 20 (+1 Dex, +11 natural, –2 size), touch 9, flat-footed 19
-  - **Base Attack**: +6; **CMB**: +13; **CMD**: 24 (can't be tripped)
-  - **Attack**: Tentacle +10 melee (1d6+5 plus slime)
-  - **Full Attack**: 4 tentacles +10 melee (1d6+5 plus slime)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., mucus cloud (5 feet)
-  - **Saves**: Fort +8, Ref +5, Will +11
-  - **Abilities**: Str 20, Dex 12, Con 22, Int 15, Wis 17, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +24, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Knowledge|Knowledge]] +13, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Perception|Perception]] +14
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacle)
-  - **Environment**: Any aquatic; underground
-  - **Organization**: Solitary, pair, brood (3–6), shoal (7–19), or slaver brood (1d3+1 plus 7–12 skum)
-  - **Challenge Rating**: 7
-  - **Treasure**: Double
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: 9–16 HD (Huge); 17–24 HD (Gargantuan)
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Aquatic)
+- **Hit Dice**: 8d8+48 (84 hp)
+- **Initiative**: +5
+- **Speed**: 10 ft. (2 squares), swim 60 ft.
+- **Armor Class**: 20 (+1 Dex, +11 natural, –2 size), touch 9, flat-footed 19
+- **Base Attack**: +6; **CMB**: +13; **CMD**: 24 (can't be tripped)
+- **Attack**: Tentacle +10 melee (1d6+5 plus slime)
+- **Full Attack**: 4 tentacles +10 melee (1d6+5 plus slime)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., mucus cloud (5 feet)
+- **Saves**: Fort +8, Ref +5, Will +11
+- **Abilities**: Str 20, Dex 12, Con 22, Int 15, Wis 17, Cha 17
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +24, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Knowledge|Knowledge]] +13, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Perception|Perception]] +14
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacle)
+- **Environment**: Any aquatic; underground
+- **Organization**: Solitary, pair, brood (3–6), shoal (7–19), or slaver brood (1d3+1 plus 7–12 skum)
+- **Challenge Rating**: 7
+- **Treasure**: Double
+- **Alignment**: Usually lawful evil
+- **Advancement**: 9–16 HD (Huge); 17–24 HD (Gargantuan)
+- **Level Adjustment**: —
 
 As befits their hideous primeval appearance, the hermaphroditic aboleths are among the world's oldest forms of life. Ancient even when the gods first turned their eyes to the Material Plane, the aboleths have always existed apart from other mortal life, alien and cold and endlessly plotting. They once ruled the world with vast empires, and today view most other forms of life as either food or slaves—and sometimes both. They disdain the gods and see themselves as the true masters of creation. An aboleth is 25 feet long and weighs 6,500 pounds.
 
@@ -75,7 +75,7 @@ Aboleths speak their own language, as well as Aklo, Aquan, and Undercommon.
 
 An aboleth attacks by flailing with its long, slimy tentacles, though it prefers to fight from a distance using its illusion powers.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 16th): At will—*[[rangoric-srd/spells/Hypnotic Pattern|hypnotic pattern]]* (DC 15), *[[rangoric-srd/spells/Illusory Wall|illusory wall]]* (DC 17), *[[rangoric-srd/spells/Mirage Arcana|mirage arcana]]* (DC 18), *[[rangoric-srd/spells/Persistent Image|persistent image]]* (DC 18), *[[rangoric-srd/spells/Programmed Image|programmed image]]* (DC 19), *[[rangoric-srd/spells/Project Image|project image]]* (DC 20), *[[rangoric-srd/spells/Veil|veil]]* (DC 19); 3/day—*[[rangoric-srd/spells/Dominate Monster|dominate monster]]* (DC 22).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 16th): At will—_[[rangoric-srd/spells/Hypnotic Pattern|hypnotic pattern]]_ (DC 15), _[[rangoric-srd/spells/Illusory Wall|illusory wall]]_ (DC 17), _[[rangoric-srd/spells/Mirage Arcana|mirage arcana]]_ (DC 18), _[[rangoric-srd/spells/Persistent Image|persistent image]]_ (DC 18), _[[rangoric-srd/spells/Programmed Image|programmed image]]_ (DC 19), _[[rangoric-srd/spells/Project Image|project image]]_ (DC 20), _[[rangoric-srd/spells/Veil|veil]]_ (DC 19); 3/day—_[[rangoric-srd/spells/Dominate Monster|dominate monster]]_ (DC 22).
 
 **Mucus Cloud (Ex)**: While underwater, an aboleth exudes a cloud of transparent slime. All creatures adjacent to an aboleth must succeed on a DC 20 Fortitude save each round or lose the ability to breathe air (but gain the ability to breathe water) for 3 hours. Renewed contact with an aboleth's mucus cloud and failing another save extends the effect for another 3 hours. The save DC is Constitution-based.
 

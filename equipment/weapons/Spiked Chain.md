@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/flails]
 
 # Spiked Chain
 
-*Exotic two-handed melee weapon (reach, disarm, trip).* Cost 25 gp; Dmg 1d6 (S), 2d4 (M); Critical x2; Weight 10 lb.; Type Piercing. ^stats
+_Exotic two-handed melee weapon (reach, disarm, trip)._ Cost 25 gp; Dmg 1d6 (S), 2d4 (M); Critical x2; Weight 10 lb.; Type Piercing. ^stats
 
 A spiked chain has reach, so you can strike opponents 10 feet away with it. In addition, unlike most other weapons with reach, it can be used against an adjacent foe.
 

@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This silvery cape furls and ripples like a flag with every step its owner takes. As a swift action, the wearer can order the cape to transform into a faint sphere of force that surrounds him on all sides. The field grants the wearer concealment (20% miss chance) against ranged attacks and lasts for 1 minute or until the wearer is missed by a ranged attack due to the power of the cloak, whichever comes first. When the field is used, all magic is lost from the cloak, leaving only a mundane silvery garment.
 
-Faint abjuration; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Shield|shield]]*; Price 200 gp; Cost 100 gp; Weight 3 lbs.
+Faint abjuration; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Shield|shield]]_; Price 200 gp; Cost 100 gp; Weight 3 lbs.

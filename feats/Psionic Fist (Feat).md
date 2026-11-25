@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Psionic Fist
 
-You can charge your unarmed strike or natural weapon with additional damage potential.  
+You can charge your unarmed strike or natural weapon with additional damage potential.
 
 Prerequisite: Str 13.
 

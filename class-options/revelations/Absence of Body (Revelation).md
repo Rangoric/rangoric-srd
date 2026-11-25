@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Absence of Body
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Ascetic Mystery|ascetic]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Ascetic Mystery|ascetic]] mystery._
 
 You require half as much food and water to survive as a normal member of your race. Additionally, each time you hold your breath, you can do so for an additional number of rounds equal to your oracle level.
 

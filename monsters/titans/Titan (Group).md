@@ -21,6 +21,6 @@ The [[rangoric-srd/monsters/Titan|titan]] and the [[rangoric-srd/monsters/Titan,
 
 Every titan has a long list of spell-like abilities, and the powerful ones rule over realms of their own.
 
-  - [[rangoric-srd/monsters/titans/Elysian Titan|Elysian Titan]]
-  - [[rangoric-srd/monsters/titans/Hekatonkheires Titan|Hekatonkheires Titan]]
-  - [[rangoric-srd/monsters/titans/Thanatotic Titan|Thanatotic Titan]]
+- [[rangoric-srd/monsters/titans/Elysian Titan|Elysian Titan]]
+- [[rangoric-srd/monsters/titans/Hekatonkheires Titan|Hekatonkheires Titan]]
+- [[rangoric-srd/monsters/titans/Thanatotic Titan|Thanatotic Titan]]

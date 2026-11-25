@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Trollhound
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 4d10+8 (30 hp)
-  - **Initiative**: +5
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 15 (+1 Dex, +4 natural), touch 11, flat-footed 14
-  - **Base Attack**: +4; **CMB**: +8; **CMD**: 19 (23 vs. trip)
-  - **Attack**: Bite +8 melee (1d10+6 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Trip|trip]])
-  - **Full Attack**: Bite +8 melee (1d10+6 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Trip|trip]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 3 (acid or fire)
-  - **Saves**: Fort +6, Ref +5, Will +1
-  - **Abilities**: Str 18, Dex 13, Con 15, Int 2, Wis 11, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +1 (+5 scent tracking), [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +5
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Cold mountains
-  - **Organization**: Solitary, pair, or pack (3–8)
-  - **Challenge Rating**: 3
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 4d10+8 (30 hp)
+- **Initiative**: +5
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 15 (+1 Dex, +4 natural), touch 11, flat-footed 14
+- **Base Attack**: +4; **CMB**: +8; **CMD**: 19 (23 vs. trip)
+- **Attack**: Bite +8 melee (1d10+6 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Trip|trip]])
+- **Full Attack**: Bite +8 melee (1d10+6 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Trip|trip]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 3 (acid or fire)
+- **Saves**: Fort +6, Ref +5, Will +1
+- **Abilities**: Str 18, Dex 13, Con 15, Int 2, Wis 11, Cha 6
+- **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +1 (+5 scent tracking), [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +5
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Cold mountains
+- **Organization**: Solitary, pair, or pack (3–8)
+- **Challenge Rating**: 3
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Slavering and voracious, trollhounds seem to be trolls in smaller canine form, and indeed, are often found as pets among gangs and tribes of trolls. Requiring vast amounts of food to fuel their regenerative metabolisms, packs of wild trollhounds range far and wide through the mountains of the north, their ravenous hunger driving them to hunt and consume any prey they can track down and kill.
 
@@ -73,4 +73,4 @@ Trollhounds are most often found in the company of trolls, who breed the beasts 
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Bloodfire Fever|Bloodfire Fever]]: Bite—injury; *save* Fort DC 14; *onset* 1 day; *frequency* 1/day; *effect* 1d3 Str damage, 1d3 Dex damage, and target is fatigued; *cure* 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Bloodfire Fever|Bloodfire Fever]]: Bite—injury; _save_ Fort DC 14; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d3 Str damage, 1d3 Dex damage, and target is fatigued; _cure_ 2 consecutive saves. The save DC is Constitution-based.

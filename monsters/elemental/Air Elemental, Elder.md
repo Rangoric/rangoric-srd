@@ -41,25 +41,25 @@ tags: [rangoric, rangoric/monster]
 
 # Air Elemental, Elder
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Air, Elemental, Extraplanar)
-  - **Hit Dice**: 16d10+64 (152 hp)
-  - **Initiative**: +15
-  - **Speed**: fly 100 ft. (perfect)
-  - **Armor Class**: 28 (+11 Dex, +1 dodge, +8 natural, –2 size), touch 20, flat-footed 16
-  - **Base Attack**: +16; **CMB**: +27; **CMD**: 49
-  - **Attack**: Slam +25 melee (2d8+9)
-  - **Full Attack**: 2 slams +25 melee (2d8+9)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Whirlwind|Whirlwind]] (DC 27)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/elemental/Air Elemental#^air-mastery|air mastery]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-  - **Saves**: Fort +14, Ref +21, Will +7
-  - **Abilities**: Str 28, Dex 33, Con 18, Int 10, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +34, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +30, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +22, [[rangoric-srd/skills/Theology|Theology]] +19
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Elemental Plane of Air
-  - **Organization**: Solitary, pair, or gang (3–8)
-  - **Challenge Rating**: 11
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 17–48 HD (Huge)
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Air, Elemental, Extraplanar)
+- **Hit Dice**: 16d10+64 (152 hp)
+- **Initiative**: +15
+- **Speed**: fly 100 ft. (perfect)
+- **Armor Class**: 28 (+11 Dex, +1 dodge, +8 natural, –2 size), touch 20, flat-footed 16
+- **Base Attack**: +16; **CMB**: +27; **CMD**: 49
+- **Attack**: Slam +25 melee (2d8+9)
+- **Full Attack**: 2 slams +25 melee (2d8+9)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Whirlwind|Whirlwind]] (DC 27)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/elemental/Air Elemental#^air-mastery|air mastery]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
+- **Saves**: Fort +14, Ref +21, Will +7
+- **Abilities**: Str 28, Dex 33, Con 18, Int 10, Wis 11, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +34, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +30, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +22, [[rangoric-srd/skills/Theology|Theology]] +19
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Elemental Plane of Air
+- **Organization**: Solitary, pair, or gang (3–8)
+- **Challenge Rating**: 11
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 17–48 HD (Huge)
+- **Level Adjustment**: —

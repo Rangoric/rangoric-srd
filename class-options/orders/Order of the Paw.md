@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Order of the Paw
 
-*A [[rangoric-srd/classes/Cavalier#^cavalier-order|cavalier order]].*
+_A [[rangoric-srd/classes/Cavalier#^cavalier-order|cavalier order]]._
 
 Only cavaliers who ride dogs or wolves are eligible to join this order. When they do, they pledge to defend their communities and other innocent folks by patrolling the wilderness and seeking out possible threats to both individuals and whole communities. These cavaliers hunt down potential danger with a ruthless efficiency and determination that others find surprising and even somewhat alarming.
 

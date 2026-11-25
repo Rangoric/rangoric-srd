@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 As a swift action, the wearer of these rough leather gauntlets can expand her hands to twice normal size and harden to the consistency of hardwood. This transformation lasts for up to 20 rounds per day, though they need not be consecutive rounds. If the wearer hits with an unarmed strike or natural attack using her enlarged hands, she may attempt to [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]] her opponent as a free action.
 
-Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Enlarge Person|enlarge person]]*; Price 20,000 gp; Cost 10,000 gp; Weight 5 lbs.
+Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_; Price 20,000 gp; Cost 10,000 gp; Weight 5 lbs.

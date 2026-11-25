@@ -29,9 +29,9 @@ tags: [rangoric, rangoric/class-option]
 
 # Martial Artist
 
-*A [[rangoric-srd/classes/Monk#^monk-archetypes|monk]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Monk#^monk-archetypes|monk]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
-The martial artist pursues a mastery of pure martial arts without the monastic traditions. He is a master of form, but lacks the ability to harness his *ki*.
+The martial artist pursues a mastery of pure martial arts without the monastic traditions. He is a master of form, but lacks the ability to harness his _ki_.
 
 **Alignment**: A martial artist may be of any alignment.
 

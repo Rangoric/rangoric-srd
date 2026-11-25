@@ -58,7 +58,7 @@ Organization: Solitary or nest (2-4)    
 Challenge Rating: 22      
 Treasure: Standard      
 Alignment: Usually chaotic evil      
-Advancement: 21-40 HD (Colossal)      
+Advancement: 21-40 HD (Colossal)    
 
 A ha-naga’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 

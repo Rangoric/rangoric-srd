@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Carbuncle
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 2d10+2 (13 hp)
-  - **Initiative**: –2
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 12 (–2 Dex, +2 natural, +2 size), touch 10, flat-footed 12
-  - **Base Attack**: +2; **CMB**: –2; **CMD**: 5 (9 vs. trip)
-  - **Attack**: Bite +1 melee (1d3–3)
-  - **Full Attack**: Bite +1 melee (1d3–3)
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Fatal Faker|Fatal faker]], [[rangoric-srd/monsters/abilities/Specious Suggestion|specious suggestion]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Vulnerability to Suggestion|vulnerability to suggestion]]
-  - **Saves**: Fort +4, Ref +1, Will +3
-  - **Abilities**: Str 5, Dex 7, Con 12, Int 6, Wis 13, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +10 (+14 in grass or brush)
-  - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]]
-  - **Environment**: Any forests or swamps
-  - **Organization**: Solitary or group (2–8)
-  - **Challenge Rating**: 1
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 2d10+2 (13 hp)
+- **Initiative**: –2
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 12 (–2 Dex, +2 natural, +2 size), touch 10, flat-footed 12
+- **Base Attack**: +2; **CMB**: –2; **CMD**: 5 (9 vs. trip)
+- **Attack**: Bite +1 melee (1d3–3)
+- **Full Attack**: Bite +1 melee (1d3–3)
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Fatal Faker|Fatal faker]], [[rangoric-srd/monsters/abilities/Specious Suggestion|specious suggestion]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Vulnerability to Suggestion|vulnerability to suggestion]]
+- **Saves**: Fort +4, Ref +1, Will +3
+- **Abilities**: Str 5, Dex 7, Con 12, Int 6, Wis 13, Cha 10
+- **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +10 (+14 in grass or brush)
+- **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]]
+- **Environment**: Any forests or swamps
+- **Organization**: Solitary or group (2–8)
+- **Challenge Rating**: 1
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Never have legend and misinformation met upon a more inauspicious brow than that of the lowly carbuncle. Even the creature's name summons ideas that range from the grandiose to the grotesque. Carbuncles appear to be little more than ungainly reptiles. What sets them apart, however, is their strange magical abilities and the fist-sized gemstone horn jutting from above their bulging eyes. Although tales differ regarding the type and value of the stone, many claim it is a ruby or garnet. In truth, however, a carbuncle's gem is merely a highly reflective growth, not unlike a fingernail.
 
@@ -71,7 +71,7 @@ Carbuncles speak empath 30 ft..
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +3): 3/day—*[[rangoric-srd/spells/Daze|daze]]* (DC 10), *[[rangoric-srd/spells/Jump (Spell)|jump]]*, *[[rangoric-srd/spells/Levitate|levitate]]* (self only, up to 10 feet).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +3): 3/day—_[[rangoric-srd/spells/Daze|daze]]_ (DC 10), _[[rangoric-srd/spells/Jump (Spell)|jump]]_, _[[rangoric-srd/spells/Levitate|levitate]]_ (self only, up to 10 feet).
 
 **Empath (Su)**: Carbuncles possess a crude form of telepathy, allowing them to transmit mild impressions and remembered sensations to other creatures. This form of telepathy cannot convey language or hinder a target in any way (such as by transmitting pain). Thus, a carbuncle can relate a feeling of fear or the faint smell of leaves, but cannot directly warn an ally of a monster or tell of a treasure under a dirt mound.
 

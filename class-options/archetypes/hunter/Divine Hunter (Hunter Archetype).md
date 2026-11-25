@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Divine Hunter
 
-*A [[rangoric-srd/classes/Hunter#^hunter-archetypes|hunter]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Hunter#^hunter-archetypes|hunter]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 While most hunters heed the call of nature and fight to protect its bounty, some are inspired to serve a higher power. These divine hunters use faith to aid them in their struggles, and their faith infuses their [[rangoric-srd/classes/Hunter#^hunter-animal-companion|animal companions]], making these companions champions of their deities.
 

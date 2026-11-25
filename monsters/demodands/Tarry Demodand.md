@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Tarry Demodand
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Demodand, Evil, Extraplanar)
-  - **Hit Dice**: 18d10+72 (171 hp)
-  - **Initiative**: +9
-  - **Speed**: 60 ft. (12 squares), fly 60 ft. (average); 20 ft., fly 40 ft. (average) in armor
-  - **Armor Class**: 26 (+6 armor, +3 Dex, +7 natural), touch 13, flat-footed 23
-  - **Base Attack**: +18; **CMB**: +27; **CMD**: 42 (46 vs. disarm)
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +27 melee (1d6+9/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +27 melee (1d6+4/19–20) or bite +27 melee (1d8+4)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +27/+22/+17/+12 melee (1d6+9/19–20) and [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +27/+22/+17 melee (1d6+4/19–20) and bite +22 melee (1d8+4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Adhesion|Adhesion]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^demodand|faith-stealing strike]] (DC 22), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., detect good, detect magic, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^demodand|heretical soul]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good and magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 24
-  - **Saves**: Fort +15, Ref +11, Will +12
-  - **Abilities**: Str 28, Dex 21, Con 18, Int 12, Wis 13, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +24, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +14
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Greater Two-Weapon Fighting|Greater Two-Weapon Fighting]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (short sword)
-  - **Environment**: Any (a chaotic evil-aligned plane: the Abyss)
-  - **Organization**: Solitary, pair, or patrol (3–8)
-  - **Challenge Rating**: 13
-  - **Treasure**: Standard (masterwork breastplate, 2 masterwork short swords, other treasure)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Demodand, Evil, Extraplanar)
+- **Hit Dice**: 18d10+72 (171 hp)
+- **Initiative**: +9
+- **Speed**: 60 ft. (12 squares), fly 60 ft. (average); 20 ft., fly 40 ft. (average) in armor
+- **Armor Class**: 26 (+6 armor, +3 Dex, +7 natural), touch 13, flat-footed 23
+- **Base Attack**: +18; **CMB**: +27; **CMD**: 42 (46 vs. disarm)
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +27 melee (1d6+9/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +27 melee (1d6+4/19–20) or bite +27 melee (1d8+4)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +27/+22/+17/+12 melee (1d6+9/19–20) and [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +27/+22/+17 melee (1d6+4/19–20) and bite +22 melee (1d8+4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Adhesion|Adhesion]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^demodand|faith-stealing strike]] (DC 22), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., detect good, detect magic, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^demodand|heretical soul]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good and magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 24
+- **Saves**: Fort +15, Ref +11, Will +12
+- **Abilities**: Str 28, Dex 21, Con 18, Int 12, Wis 13, Cha 17
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +24, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +14
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Greater Two-Weapon Fighting|Greater Two-Weapon Fighting]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (short sword)
+- **Environment**: Any (a chaotic evil-aligned plane: the Abyss)
+- **Organization**: Solitary, pair, or patrol (3–8)
+- **Challenge Rating**: 13
+- **Treasure**: Standard (masterwork breastplate, 2 masterwork short swords, other treasure)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Tarry demodands are lithe and lean compared to other demodands. Despite this difference, all tarry demodands are strong and agile. Although their batlike wings appear tattered and useless, they can still fly. A tarry demodand stands 7 feet tall and weighs 400 pounds.
 
@@ -71,6 +71,6 @@ Tarry demodands speak Abyssal, Celestial and Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 13th; concentration +16): Constant—*[[rangoric-srd/spells/Detect Good|detect good]]*, *[[rangoric-srd/spells/Detect Magic|detect magic]]*; 3/day—*[[rangoric-srd/spells/Dispel Magic|dispel magic]]*; 1/day—*[[rangoric-srd/spells/Chaos Hammer|chaos hammer]]* (DC 17), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 4, 1d2 tarry demodands 40%).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 13th; concentration +16): Constant—_[[rangoric-srd/spells/Detect Good|detect good]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_; 3/day—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_; 1/day—_[[rangoric-srd/spells/Chaos Hammer|chaos hammer]]_ (DC 17), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 4, 1d2 tarry demodands 40%).
 
 **[[rangoric-srd/monsters/abilities/Adhesion|Adhesion]] (Ex)**: A creature striking a tarry demodand with a manufactured weapon must make a DC 23 Reflex save; failure means the weapon sticks to the demodand and cannot be used to make attacks until freed. Freeing a stuck weapon requires a successful grapple check. This adhesion grants a +4 racial bonus to CMD against disarm attempts.

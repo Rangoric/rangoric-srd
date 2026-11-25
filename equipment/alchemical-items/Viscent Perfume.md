@@ -22,9 +22,9 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Viscent Perfume
 
-*Unguent; Special*
+_Unguent; Special_
 
-Viscent perfume is an herbal and pheremonic perfume that duplicates the effects of a *calm animals* spell for 2d4 hours (or until the viscent is washed or worn off). While any animal befriended thanks to the perfume may remain a friend, it can also make a check against [[rangoric-srd/skills/Animal Handling|Animal Handling]] to return to fully wild mode.
+Viscent perfume is an herbal and pheremonic perfume that duplicates the effects of a _calm animals_ spell for 2d4 hours (or until the viscent is washed or worn off). While any animal befriended thanks to the perfume may remain a friend, it can also make a check against [[rangoric-srd/skills/Animal Handling|Animal Handling]] to return to fully wild mode.
 
 **Construction**: No aura; CL 6th; [[rangoric-srd/feats/Craft Unguents|Craft Unguents]]; DC: 21; Price: 125 gp/ oz.
 

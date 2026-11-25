@@ -29,11 +29,11 @@ tags: [rangoric, rangoric/spell]
 
 # Scrying, Greater
 
-*Divination (Scrying)*
+_Divination (Scrying)_
 
-  - **Level**: Brd 6, Clr 7, Drd 7, Mes 6, Occ 6, Psy 7, Sha 7, Skd 6, Sor/Wiz 7, Wit 7
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Duration**: 1 hour/level
+- **Level**: Brd 6, Clr 7, Drd 7, Mes 6, Occ 6, Psy 7, Sha 7, Skd 6, Sor/Wiz 7, Wit 7
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Duration**: 1 hour/level
 
 This spell functions like [[rangoric-srd/spells/Scrying|scrying]], except as noted above. Additionally, all of the following spells function reliably through the sensor: detect chaos, detect evil, detect good, detect law, detect magic, message, read magic, and tongues.

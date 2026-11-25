@@ -48,72 +48,72 @@ A faerie is built from the physical characteristics and spell-like abilities bel
 
 **Table: Faerie Physical Characteristics**
 
-| Trait | Game Effect | ECL Modifier |
-| --- | --- | --- |
-| Antennae | +4 [[rangoric-srd/skills/Perception\|Perception]] (sight; senses vibrations, bonus versus all but incorporeal) | +0.25 |
-| Body, snake-like | Move 30 ft., natural armor +3 | +0.75 |
-| Body, Unusual | Catch-all category for exotic body types (cupid, Peaseblossom, plant-like, etc) | +0.25 to +1\*\* |
-| Claws | Claw 1d6 (critical 20, x2) (the [[rangoric-srd/feats/Multiattack\|Multiattack]] feat is still required for multiple attacks) | +0.5 |
-| Claws, retractable | Claw 1d4 (critical 20, x2) (the [[rangoric-srd/feats/Multiattack\|Multiattack]] feat is still required for multiple attacks) | +0.5 |
-| Ears, long | +4 [[rangoric-srd/skills/Perception\|Perception]] (hearing) | +0.25 |
-| Eyes, big | +1 [[rangoric-srd/skills/Perception\|Perception]] (sight), low-light vision 90 ft. | +0.25 |
-| Eyes, dark | Standard [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision\|darkvision]]\* | +0.25 |
-| Eyes, distance | Doubles the normal range of vision | +0.25 |
-| Fangs | Bite 1d4 (critical 20, x2) | +0.25 |
-| Fangs, drugged | Bite 1d4 (critical 20, x2), *[[rangoric-srd/spells/Sleep\|sleep]]* | +0.5 |
-| Fangs, poisoned | Bite 1d4 (critical 20, x2), poison DC 14 0/1d4 Str + 1d3 Wis | +0.75 |
-| Horns, blunt | Gore 1d6 (bludgeoning) (critical 20, x2) | +0.5 |
-| Horns, sharp | Gore 1d6 (critical 20, x2) | +0.5 |
-| Legs, goat | Speed 40 ft., +4 [[rangoric-srd/skills/Stealth\|Stealth]] (moving silently), [[rangoric-srd/feats/Run\|Run]], [[rangoric-srd/feats/Dodge\|Dodge]] (size Small and bigger) | +0.75 |
-| Legs, grasshopper | [[rangoric-srd/skills/Athletics\|Athletics]] (jumping), +1 reaction checks (size Tiny and smaller) | +0.25 |
-| Nose, long | +4 [[rangoric-srd/skills/Perception\|Perception]] (smell) | +0.25 |
-| Size, Large | -1 AC, -1 attack, +1 Str, +1 Con, -1 Dex | +0.5 |
-| Size, Small | +1 AC, +1 attack, +2 Dex, -2 Str | +0.25 |
-| Size, Tiny | +2 AC, +2 attack, +4 Dex, -4 Str | +0.75 |
-| Skin, furred | +2 AC, cold resistance 5 (see [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy\|resistance to energy]]) | +0.5 |
-| Skin, leafy | +2 AC | +0.25 |
-| Tail | +2 [[rangoric-srd/skills/Acrobatics\|Acrobatics]] (balance) | +0.25 |
-| Tail, prehensile | +2 [[rangoric-srd/skills/Acrobatics\|Acrobatics]] (balance), able to hold objects, additional attack possible | +0.75 |
-| Wings, butterfly | Fly 20 ft. (average) | +0.5 |
-| Wings, gossamer | Fly 40 ft. (good) | +0.75 |
-| Wings, bat | Fly 50 ft. (perfect), −2 Cha | +0.75 |
-| Wings, bird | Fly 30 ft. (perfect) | +0.75 |
-| Wings, furred flaps | Glide (average) | +0.5 |
+| Trait               | Game Effect                                                                                                                                                               | ECL Modifier    |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| Antennae            | +4 [[rangoric-srd/skills/Perception\|Perception]] (sight; senses vibrations, bonus versus all but incorporeal)                                                            | +0.25           |
+| Body, snake-like    | Move 30 ft., natural armor +3                                                                                                                                             | +0.75           |
+| Body, Unusual       | Catch-all category for exotic body types (cupid, Peaseblossom, plant-like, etc)                                                                                           | +0.25 to +1\*\* |
+| Claws               | Claw 1d6 (critical 20, x2) (the [[rangoric-srd/feats/Multiattack\|Multiattack]] feat is still required for multiple attacks)                                              | +0.5            |
+| Claws, retractable  | Claw 1d4 (critical 20, x2) (the [[rangoric-srd/feats/Multiattack\|Multiattack]] feat is still required for multiple attacks)                                              | +0.5            |
+| Ears, long          | +4 [[rangoric-srd/skills/Perception\|Perception]] (hearing)                                                                                                               | +0.25           |
+| Eyes, big           | +1 [[rangoric-srd/skills/Perception\|Perception]] (sight), low-light vision 90 ft.                                                                                        | +0.25           |
+| Eyes, dark          | Standard [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision\|darkvision]]\*                                                                                 | +0.25           |
+| Eyes, distance      | Doubles the normal range of vision                                                                                                                                        | +0.25           |
+| Fangs               | Bite 1d4 (critical 20, x2)                                                                                                                                                | +0.25           |
+| Fangs, drugged      | Bite 1d4 (critical 20, x2), _[[rangoric-srd/spells/Sleep\|sleep]]_                                                                                                        | +0.5            |
+| Fangs, poisoned     | Bite 1d4 (critical 20, x2), poison DC 14 0/1d4 Str + 1d3 Wis                                                                                                              | +0.75           |
+| Horns, blunt        | Gore 1d6 (bludgeoning) (critical 20, x2)                                                                                                                                  | +0.5            |
+| Horns, sharp        | Gore 1d6 (critical 20, x2)                                                                                                                                                | +0.5            |
+| Legs, goat          | Speed 40 ft., +4 [[rangoric-srd/skills/Stealth\|Stealth]] (moving silently), [[rangoric-srd/feats/Run\|Run]], [[rangoric-srd/feats/Dodge\|Dodge]] (size Small and bigger) | +0.75           |
+| Legs, grasshopper   | [[rangoric-srd/skills/Athletics\|Athletics]] (jumping), +1 reaction checks (size Tiny and smaller)                                                                        | +0.25           |
+| Nose, long          | +4 [[rangoric-srd/skills/Perception\|Perception]] (smell)                                                                                                                 | +0.25           |
+| Size, Large         | -1 AC, -1 attack, +1 Str, +1 Con, -1 Dex                                                                                                                                  | +0.5            |
+| Size, Small         | +1 AC, +1 attack, +2 Dex, -2 Str                                                                                                                                          | +0.25           |
+| Size, Tiny          | +2 AC, +2 attack, +4 Dex, -4 Str                                                                                                                                          | +0.75           |
+| Skin, furred        | +2 AC, cold resistance 5 (see [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy\|resistance to energy]])                                         | +0.5            |
+| Skin, leafy         | +2 AC                                                                                                                                                                     | +0.25           |
+| Tail                | +2 [[rangoric-srd/skills/Acrobatics\|Acrobatics]] (balance)                                                                                                               | +0.25           |
+| Tail, prehensile    | +2 [[rangoric-srd/skills/Acrobatics\|Acrobatics]] (balance), able to hold objects, additional attack possible                                                             | +0.75           |
+| Wings, butterfly    | Fly 20 ft. (average)                                                                                                                                                      | +0.5            |
+| Wings, gossamer     | Fly 40 ft. (good)                                                                                                                                                         | +0.75           |
+| Wings, bat          | Fly 50 ft. (perfect), −2 Cha                                                                                                                                              | +0.75           |
+| Wings, bird         | Fly 30 ft. (perfect)                                                                                                                                                      | +0.75           |
+| Wings, furred flaps | Glide (average)                                                                                                                                                           | +0.5            |
 
 \* This is in addition to the faerie’s low-light vision; allow a round to adjust between the two.
 \*\* At the GM’s discretion.
 
 **Table: Faerie Spell-Like Abilities**
 
-| Spell-Like Ability | Use | Game Effect | ECL Modifier |
-| --- | --- | --- | --- |
-| *[[rangoric-srd/spells/Acid Fog\|acid fog]]* | 1/day | As spell | +1 |
-| *[[rangoric-srd/spells/Bad Luck\|bad luck]]* | 3/day (or At will) | As spell | +0.25 (or +1) |
-| *[[rangoric-srd/spells/Charm Person\|charm person]]* | 3/day | As spell | +0.25 |
-| *[[rangoric-srd/spells/Cone of Cold\|cone of cold]]* | 3/day | As spell | +1 |
-| *[[rangoric-srd/spells/Control Water\|control water]]* | 3/day | As spell | +1 |
-| [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction\|Damage reduction]] | Permanent | DR 5/magic | +1 |
-| *[[rangoric-srd/spells/Dimension Door\|dimension door]]* | 1/day (or 3/day) | As spell | +0.25 (or +1) |
-| *[[rangoric-srd/spells/Elemental Swarm\|elemental swarm]]* | 1/week | As spell | +1.5 |
-| *[[rangoric-srd/spells/Faerie Fire\|faerie fire]]* | 5/day | As spell | +0.25 |
-| *[[rangoric-srd/spells/Fear\|fear]]* | 3/day | As spell | +0.75 |
-| *[[rangoric-srd/spells/Fly\|fly]]* | 3/day | As spell | +0.75 |
-| *[[rangoric-srd/spells/Fog Cloud\|fog cloud]]* | 3/day | As spell | +0.5 |
-| *[[rangoric-srd/spells/Good Luck\|good luck]]* | 3/day (or At will) | As spell | +0.25 (or +1) |
-| *[[rangoric-srd/spells/Horrid Wilting\|horrid wilting]]* | 1/week | As spell | +1.25 |
-| *[[rangoric-srd/spells/Ice Storm\|ice storm]]* | 1/day | As spell | +1 |
-| *[[rangoric-srd/spells/Invisibility\|invisibility]]* | 3/day | As spell | +0.5 |
-| *[[rangoric-srd/spells/Invisibility, Greater\|greater invisibility]]* (improved invisibility) | 3/day | As spell | +1 |
-| Natural invisibility | At will | As the [[rangoric-srd/monsters/sprite/Pixie\|pixie]]’s greater invisibility | +1.5 |
-| *[[rangoric-srd/spells/Irresistible Dance\|irresistible dance]]* | 3/day | As spell | +1.5 |
-| *[[rangoric-srd/spells/Obscuring Mist\|obscuring mist]]* | 5/day | As spell | +0.25 |
-| *[[rangoric-srd/spells/Alter Self\|alter self]]* | 3/day (or At will) | As spell | +1 (or +2) |
-| *[[rangoric-srd/spells/Shrink Creature\|shrink creature]]* | At will | As spell | +0.75 |
-| *[[rangoric-srd/spells/Sleep\|sleep]]* | 3/day | As spell | +0.25 |
-| *slumber* | At will | As spell | +0.75 |
-| *[[rangoric-srd/spells/Speak with Animals\|speak with animals]]* or *[[rangoric-srd/spells/Speak with Plants\|speak with plants]]* | At will | As spell | +0.5 |
-| *[[rangoric-srd/spells/Water Breathing\|water breathing]]* | 3/day | As spell | +0.5 |
-| *[[rangoric-srd/spells/Water Walk\|water walk]]* | At will | As spell | +0.5 |
+| Spell-Like Ability                                                                                                                 | Use                | Game Effect                                                                 | ECL Modifier  |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ------------------ | --------------------------------------------------------------------------- | ------------- |
+| _[[rangoric-srd/spells/Acid Fog\|acid fog]]_                                                                                       | 1/day              | As spell                                                                    | +1            |
+| _[[rangoric-srd/spells/Bad Luck\|bad luck]]_                                                                                       | 3/day (or At will) | As spell                                                                    | +0.25 (or +1) |
+| _[[rangoric-srd/spells/Charm Person\|charm person]]_                                                                               | 3/day              | As spell                                                                    | +0.25         |
+| _[[rangoric-srd/spells/Cone of Cold\|cone of cold]]_                                                                               | 3/day              | As spell                                                                    | +1            |
+| _[[rangoric-srd/spells/Control Water\|control water]]_                                                                             | 3/day              | As spell                                                                    | +1            |
+| [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction\|Damage reduction]]                                         | Permanent          | DR 5/magic                                                                  | +1            |
+| _[[rangoric-srd/spells/Dimension Door\|dimension door]]_                                                                           | 1/day (or 3/day)   | As spell                                                                    | +0.25 (or +1) |
+| _[[rangoric-srd/spells/Elemental Swarm\|elemental swarm]]_                                                                         | 1/week             | As spell                                                                    | +1.5          |
+| _[[rangoric-srd/spells/Faerie Fire\|faerie fire]]_                                                                                 | 5/day              | As spell                                                                    | +0.25         |
+| _[[rangoric-srd/spells/Fear\|fear]]_                                                                                               | 3/day              | As spell                                                                    | +0.75         |
+| _[[rangoric-srd/spells/Fly\|fly]]_                                                                                                 | 3/day              | As spell                                                                    | +0.75         |
+| _[[rangoric-srd/spells/Fog Cloud\|fog cloud]]_                                                                                     | 3/day              | As spell                                                                    | +0.5          |
+| _[[rangoric-srd/spells/Good Luck\|good luck]]_                                                                                     | 3/day (or At will) | As spell                                                                    | +0.25 (or +1) |
+| _[[rangoric-srd/spells/Horrid Wilting\|horrid wilting]]_                                                                           | 1/week             | As spell                                                                    | +1.25         |
+| _[[rangoric-srd/spells/Ice Storm\|ice storm]]_                                                                                     | 1/day              | As spell                                                                    | +1            |
+| _[[rangoric-srd/spells/Invisibility\|invisibility]]_                                                                               | 3/day              | As spell                                                                    | +0.5          |
+| _[[rangoric-srd/spells/Invisibility, Greater\|greater invisibility]]_ (improved invisibility)                                      | 3/day              | As spell                                                                    | +1            |
+| Natural invisibility                                                                                                               | At will            | As the [[rangoric-srd/monsters/sprite/Pixie\|pixie]]’s greater invisibility | +1.5          |
+| _[[rangoric-srd/spells/Irresistible Dance\|irresistible dance]]_                                                                   | 3/day              | As spell                                                                    | +1.5          |
+| _[[rangoric-srd/spells/Obscuring Mist\|obscuring mist]]_                                                                           | 5/day              | As spell                                                                    | +0.25         |
+| _[[rangoric-srd/spells/Alter Self\|alter self]]_                                                                                   | 3/day (or At will) | As spell                                                                    | +1 (or +2)    |
+| _[[rangoric-srd/spells/Shrink Creature\|shrink creature]]_                                                                         | At will            | As spell                                                                    | +0.75         |
+| _[[rangoric-srd/spells/Sleep\|sleep]]_                                                                                             | 3/day              | As spell                                                                    | +0.25         |
+| _slumber_                                                                                                                          | At will            | As spell                                                                    | +0.75         |
+| _[[rangoric-srd/spells/Speak with Animals\|speak with animals]]_ or _[[rangoric-srd/spells/Speak with Plants\|speak with plants]]_ | At will            | As spell                                                                    | +0.5          |
+| _[[rangoric-srd/spells/Water Breathing\|water breathing]]_                                                                         | 3/day              | As spell                                                                    | +0.5          |
+| _[[rangoric-srd/spells/Water Walk\|water walk]]_                                                                                   | At will            | As spell                                                                    | +0.5          |
 
 Spell-like abilities use a caster level equal to the faerie’s character level.
 

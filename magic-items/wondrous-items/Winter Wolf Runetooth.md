@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/magic-item]
 
 When this canine fang is crushed or broken as a full-round action, it summons a [[rangoric-srd/monsters/Winter Wolf|winter wolf]]. The wolf is under the control of the creature that broke the fang. The wolf remains for 1 minute or until slain.
 
-Moderate conjuration; CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Summon Nature’s Ally V|summon nature's ally V]]*; Price 2,500 gp; Cost 1,250 gp.
+Moderate conjuration; CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Summon Nature’s Ally V|summon nature's ally V]]_; Price 2,500 gp; Cost 1,250 gp.

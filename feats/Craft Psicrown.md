@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, item-creation]
 
 # Craft Psicrown
 
-You can create psicrowns, which have multiple psionic effects.  
+You can create psicrowns, which have multiple psionic effects.
 
 Prerequisite: Manifester level 12th.
 

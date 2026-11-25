@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/spears]
 
 # Dwarven Charge Breaker Pike
 
-*Exotic two-handed melee weapon (reach).* Cost 70 gp; Dmg 2d4 (S), 2d4 (M); Critical x3; Weight 1 lb.; Type Piercing. ^stats
+_Exotic two-handed melee weapon (reach)._ Cost 70 gp; Dmg 2d4 (S), 2d4 (M); Critical x3; Weight 1 lb.; Type Piercing. ^stats
 
 This long-hafted pike features a stout but unwieldy crosspiece 3 ft. below the weapon’s tip. If you use a ready action to set this weapon against a charge, you deal double damage provided you score a hit against a charging opponent. In addition, you can prevent that opponent from reaching you by succeeding on a [[rangoric-srd/combat/Combat Maneuvers|combat maneuver check]] against his CMD.

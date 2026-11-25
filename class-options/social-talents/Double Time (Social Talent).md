@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Double Time
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-social-talent|social talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-social-talent|social talent]] (Ex)._
 
 The vigilante’s [[rangoric-srd/classes/Vigilante#^vigilante-dual-identity|social identity]] is that of a skilled and respected artisan or professional, rather than a merchant or noble. In order to complete his day’s work while still continuing his vigilante activities, he has learned to work faster than normal, hiding his progress so it seems like he is working full shifts at his day job rather than spending some of that time on other pursuits. The vigilante needs to spend only 6 hours each day for mundane uses of the Craft or Profession skill, rather than 8 hours. If he has the [[rangoric-srd/class-options/social-talents/Social Grace (Social Talent)|social grace]] social talent, he needs to spend only 4 hours for any skill he’s chosen with social grace.
 

@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Soothe Construct
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 4, Occ 4, Sor/Wiz 5
-  - **Components**: V, S
-  - **Casting Time**: 1 round
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One construct
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Clr 4, Occ 4, Sor/Wiz 5
+- **Components**: V, S
+- **Casting Time**: 1 round
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One construct
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You soothe the elemental spirit of a targeted construct, reducing its chance of going berserk by 1d4% per four caster levels (maximum 5d4%). If cast on a construct that has already gone berserk and you are its master, you may immediately roll d% to end the construct's berserk state, it returns to normal functioning, and its berserk chance returns to 0%.

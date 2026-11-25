@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Feral Speech
 
-*A [[rangoric-srd/classes/Witch#^witch-hex|hex]] (Su).*
+_A [[rangoric-srd/classes/Witch#^witch-hex|hex]] (Su)._
 
-This hex grants the witch the ability to speak with and understand the response of any animal as if using *[[rangoric-srd/spells/Speak with Animals|speak with animals]]*, though each time she uses the hex, she must decide to communicate with either amphibians, birds, fish, mammals, or reptiles, and can only speak to and understand animals of that type. The witch can make herself understood as far as her voice carries. This hex does not predispose any animal so addressed toward the witch in any way. At 12th level, the witch can use this hex to communicate with vermin.
+This hex grants the witch the ability to speak with and understand the response of any animal as if using _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_, though each time she uses the hex, she must decide to communicate with either amphibians, birds, fish, mammals, or reptiles, and can only speak to and understand animals of that type. The witch can make herself understood as far as her voice carries. This hex does not predispose any animal so addressed toward the witch in any way. At 12th level, the witch can use this hex to communicate with vermin.

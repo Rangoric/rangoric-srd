@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Amulet of Hidden Strength
 
-This glass teardrop hangs on a platinum chain and can be used once per day to grant a surge of power. This surge can be used in one of two ways. As a swift action, the wearer of the amulet can make one melee or ranged attack at his highest attack bonus. Alternatively, if the wearer of the amulet has a [[rangoric-srd/classes/Monk#^monk-ki-pool|*ki* pool]], he can instead focus on the power of the amulet as a full-round action and regain two *ki* points.
+This glass teardrop hangs on a platinum chain and can be used once per day to grant a surge of power. This surge can be used in one of two ways. As a swift action, the wearer of the amulet can make one melee or ranged attack at his highest attack bonus. Alternatively, if the wearer of the amulet has a [[rangoric-srd/classes/Monk#^monk-ki-pool|*ki* pool]], he can instead focus on the power of the amulet as a full-round action and regain two _ki_ points.
 
 Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], creator must have a [[rangoric-srd/classes/Monk#^monk-ki-pool|ki pool]]; Price 9,000 gp; Cost 4,500 gp.

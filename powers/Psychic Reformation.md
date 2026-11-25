@@ -33,7 +33,7 @@ Telepathy \[Mind-Affecting\]
 **Duration:** Instantaneous  
 **Saving Throw:** None  
 **Power Resistance:** No  
-**Power Points:** 7, XP; see text  
+**Power Points:** 7, XP; see text
 
 When this power is manifested, the subject can choose to spend its most recently gained skill points differently (picking new skills and abandoning old ones if it chooses) and to choose a different feat from the one it selected when advancing from its previous level to its current level.
 

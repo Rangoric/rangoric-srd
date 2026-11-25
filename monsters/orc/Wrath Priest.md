@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Wrath Priest
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human, Orc)
-  - **Hit Dice**: 8d8+32 (71 hp)
-  - **Initiative**: +0
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 20 (+9 armor, +1 natural), touch 10, flat-footed 20
-  - **Base Attack**: +6; **CMB**: +10; **CMD**: 20
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Greataxe|greataxe]] +12 melee (1d12+9/×3) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +6 ranged (1d6+6)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Greataxe|greataxe]] +12/+7 melee (1d12+9/×3); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +6/+1 ranged (1d6+6)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 4/day (DC 15, 4d6), [[rangoric-srd/class-options/domains/Destruction Domain|destructive aura]] (+4, 8 rounds/day), [[rangoric-srd/class-options/domains/Destruction Domain|destructive smite]] (+4, 5/day), [[rangoric-srd/class-options/domains/Evil Domain|scythe of evil]] (4 rounds, 1/day), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Destruction Domain|smite]] (+4, +8 damage, 1/day)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/classes/Cleric#^cleric-aura|aura]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/races/Half-Orc|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire (96 points)
-  - **Saves**: Fort +8, Ref +2, Will +8 (+2 resistance vs. good)
-  - **Abilities**: Str 18, Dex 10, Con 14, Int 8, Wis 14, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +3, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +5
-  - **Feats**: [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greataxe)
-  - **Environment**: Temperate hills, mountains, or underground
-  - **Organization**: Solitary, or with other half-orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])
-  - **Challenge Rating**: 7
-  - **Treasure**: NPC gear (combat gear: potions of cure serious wounds (2), alchemist's fire (2); other gear: +1 half-plate, +1 greataxe, javelins (5), amulet of natural armor +1, wooden unholy symbol, 184 gp)
-  - **Alignment**: Chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human, Orc)
+- **Hit Dice**: 8d8+32 (71 hp)
+- **Initiative**: +0
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 20 (+9 armor, +1 natural), touch 10, flat-footed 20
+- **Base Attack**: +6; **CMB**: +10; **CMD**: 20
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Greataxe|greataxe]] +12 melee (1d12+9/×3) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +6 ranged (1d6+6)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Greataxe|greataxe]] +12/+7 melee (1d12+9/×3); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +6/+1 ranged (1d6+6)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 4/day (DC 15, 4d6), [[rangoric-srd/class-options/domains/Destruction Domain|destructive aura]] (+4, 8 rounds/day), [[rangoric-srd/class-options/domains/Destruction Domain|destructive smite]] (+4, 5/day), [[rangoric-srd/class-options/domains/Evil Domain|scythe of evil]] (4 rounds, 1/day), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Destruction Domain|smite]] (+4, +8 damage, 1/day)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/classes/Cleric#^cleric-aura|aura]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/races/Half-Orc|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire (96 points)
+- **Saves**: Fort +8, Ref +2, Will +8 (+2 resistance vs. good)
+- **Abilities**: Str 18, Dex 10, Con 14, Int 8, Wis 14, Cha 12
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +3, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +5
+- **Feats**: [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greataxe)
+- **Environment**: Temperate hills, mountains, or underground
+- **Organization**: Solitary, or with other half-orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])
+- **Challenge Rating**: 7
+- **Treasure**: NPC gear (combat gear: potions of cure serious wounds (2), alchemist's fire (2); other gear: +1 half-plate, +1 greataxe, javelins (5), amulet of natural armor +1, wooden unholy symbol, 184 gp)
+- **Alignment**: Chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A wrath priest is a [[rangoric-srd/monsters/orc/Orc#Half-Orcs|half-orc]] with 8 levels of [[rangoric-srd/classes/Cleric|cleric]]. The wrath priest serves the primordial god of disaster and destruction, striking down innocents and enemies with fire, blade, and hatred. He is a quintessential nihilist, and can not be bought or reasoned with except as it furthers his god's horrific ends.
 
@@ -75,4 +75,4 @@ A wrath priest speaks Common and Orc.
 
 **Domain Spell-Like Abilities** (CL 8th; concentration +10): 5/day—[[rangoric-srd/class-options/domains/Evil Domain|touch of evil]] (4 rounds).
 
-**Cleric spells prepared** (CL 8th; concentration +10): 4th—*[[rangoric-srd/spells/Chaos Hammer|chaos hammer]]* (DC 16), *[[rangoric-srd/spells/Divine Power|divine power]]*, *[[rangoric-srd/spells/Unholy Blight|unholy blight]]* <sup>D</sup> (DC 16); 3rd—*[[rangoric-srd/spells/Invisibility Purge|invisibility purge]]*, *[[rangoric-srd/spells/Prayer|prayer]]*, *[[rangoric-srd/spells/Protection from Energy|protection from energy]]* (DC 15), *[[rangoric-srd/spells/Rage|rage]]* <sup>D</sup>; 2nd—*[[rangoric-srd/spells/Align Weapon|align weapon]]* <sup>D</sup> (evil weapons only), *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*, *[[rangoric-srd/spells/Darkness|darkness]]*, *[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]* (2); 1st—*[[rangoric-srd/spells/Bane|bane]]* (DC 13), *[[rangoric-srd/spells/Divine Favor|divine favor]]*, *[[rangoric-srd/spells/Entropic Shield|entropic shield]]*, *[[rangoric-srd/spells/Protection from Good|protection from good]]*, *[[rangoric-srd/spells/Shield of Faith|shield of faith]]*, *[[rangoric-srd/spells/True Strike|true strike]]* <sup>D</sup>; 0 (at will)—*[[rangoric-srd/spells/Bleed|bleed]]* (DC 12), *[[rangoric-srd/spells/Guidance|guidance]]*, *[[rangoric-srd/spells/Light|light]]*, *[[rangoric-srd/spells/Resistance|resistance]]*; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Destruction Domain|Destruction]], [[rangoric-srd/class-options/domains/Evil Domain|Evil]].
+**Cleric spells prepared** (CL 8th; concentration +10): 4th—_[[rangoric-srd/spells/Chaos Hammer|chaos hammer]]_ (DC 16), _[[rangoric-srd/spells/Divine Power|divine power]]_, _[[rangoric-srd/spells/Unholy Blight|unholy blight]]_ <sup>D</sup> (DC 16); 3rd—_[[rangoric-srd/spells/Invisibility Purge|invisibility purge]]_, _[[rangoric-srd/spells/Prayer|prayer]]_, _[[rangoric-srd/spells/Protection from Energy|protection from energy]]_ (DC 15), _[[rangoric-srd/spells/Rage|rage]]_ <sup>D</sup>; 2nd—_[[rangoric-srd/spells/Align Weapon|align weapon]]_ <sup>D</sup> (evil weapons only), _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Darkness|darkness]]_, _[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]_ (2); 1st—_[[rangoric-srd/spells/Bane|bane]]_ (DC 13), _[[rangoric-srd/spells/Divine Favor|divine favor]]_, _[[rangoric-srd/spells/Entropic Shield|entropic shield]]_, _[[rangoric-srd/spells/Protection from Good|protection from good]]_, _[[rangoric-srd/spells/Shield of Faith|shield of faith]]_, _[[rangoric-srd/spells/True Strike|true strike]]_ <sup>D</sup>; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 12), _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Resistance|resistance]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Destruction Domain|Destruction]], [[rangoric-srd/class-options/domains/Evil Domain|Evil]].

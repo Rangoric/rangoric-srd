@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Arctic Domain
 
-*A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]; clerics can’t take it.*
+_A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]; clerics can’t take it._
 
 ## Granted Powers
 
@@ -26,14 +26,14 @@ You master the might of the endless, snow-covered wastes beneath the midnight su
 
 ## Domain Spells
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Frostbite\|Frostbite]] | Target takes cold damage and is fatigued. |
-| 2nd | [[rangoric-srd/spells/Aspect of the Bear\|Aspect of the Bear]] | +2 AC and combat maneuver rolls. |
-| 3rd | [[rangoric-srd/spells/Sleet Storm\|Sleet Storm]] | Hampers vision and movement. |
-| 4th | [[rangoric-srd/spells/Wall of Ice\|Wall of Ice]] (M) | Ice plane creates wall with 15 hp +1/level, or hemisphere can trap creatures inside. |
-| 5th | [[rangoric-srd/spells/Aspect of the Wolf\|Aspect of the Wolf]] | Subject gains +4 Str and Dex, and +2 bonus on trip attacks. |
-| 6th | [[rangoric-srd/spells/Freezing Sphere\|Freezing Sphere]] (F) | Freezes water or deals cold damage. |
-| 7th | [[rangoric-srd/spells/Wind Walk\|Wind Walk]] | You and your allies turn vaporous and travel fast. |
-| 8th | [[rangoric-srd/spells/Polar Ray\|Polar Ray]] (F) | Ranged touch attack deals 1d6/level cold damage. |
-| 9th | [[rangoric-srd/spells/Polar Midnight\|Polar Midnight]] | Cold darkness paralyzes and deals damage. |
+| Level | Spell                                                          | Brief Description                                                                    |
+| ----- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| 1st   | [[rangoric-srd/spells/Frostbite\|Frostbite]]                   | Target takes cold damage and is fatigued.                                            |
+| 2nd   | [[rangoric-srd/spells/Aspect of the Bear\|Aspect of the Bear]] | +2 AC and combat maneuver rolls.                                                     |
+| 3rd   | [[rangoric-srd/spells/Sleet Storm\|Sleet Storm]]               | Hampers vision and movement.                                                         |
+| 4th   | [[rangoric-srd/spells/Wall of Ice\|Wall of Ice]] (M)           | Ice plane creates wall with 15 hp +1/level, or hemisphere can trap creatures inside. |
+| 5th   | [[rangoric-srd/spells/Aspect of the Wolf\|Aspect of the Wolf]] | Subject gains +4 Str and Dex, and +2 bonus on trip attacks.                          |
+| 6th   | [[rangoric-srd/spells/Freezing Sphere\|Freezing Sphere]] (F)   | Freezes water or deals cold damage.                                                  |
+| 7th   | [[rangoric-srd/spells/Wind Walk\|Wind Walk]]                   | You and your allies turn vaporous and travel fast.                                   |
+| 8th   | [[rangoric-srd/spells/Polar Ray\|Polar Ray]] (F)               | Ranged touch attack deals 1d6/level cold damage.                                     |
+| 9th   | [[rangoric-srd/spells/Polar Midnight\|Polar Midnight]]         | Cold darkness paralyzes and deals damage.                                            |

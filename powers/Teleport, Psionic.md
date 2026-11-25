@@ -31,6 +31,6 @@ Target or **Targets:** You and touched objects or other touched willing creature
 **Duration:** Instantaneous  
 **Saving Throw:** None or Will negates (object)  
 **Power Resistance:** No or Yes (object)  
-**Power Points:** 9  
+**Power Points:** 9
 
 As the [[rangoric-srd/spells/Teleport|teleport]] spell, except as noted here.

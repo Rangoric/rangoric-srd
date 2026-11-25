@@ -17,7 +17,7 @@ Your family is destined for greatness in some way. Your birth could have been fo
 
 **Class Skill**: [[rangoric-srd/skills/Society|Society]].
 
-**Bonus Spells**: :*[[rangoric-srd/spells/Alarm|alarm]]* (3rd), *[[rangoric-srd/spells/Blur|blur]]* (5th), *[[rangoric-srd/spells/Protection from Energy|protection from energy]]* (7th), *[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]* (9th), *[[rangoric-srd/spells/Break Enchantment|break enchantment]]* (11th), *[[rangoric-srd/spells/Mislead|mislead]]* (13th), *[[rangoric-srd/spells/Spell Turning|spell turning]]* (15th), *[[rangoric-srd/spells/Moment of Prescience|moment of prescience]]* (17th), *[[rangoric-srd/spells/Foresight|foresight]]* (19th).
+**Bonus Spells**: :_[[rangoric-srd/spells/Alarm|alarm]]_ (3rd), _[[rangoric-srd/spells/Blur|blur]]_ (5th), _[[rangoric-srd/spells/Protection from Energy|protection from energy]]_ (7th), _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_ (9th), _[[rangoric-srd/spells/Break Enchantment|break enchantment]]_ (11th), _[[rangoric-srd/spells/Mislead|mislead]]_ (13th), _[[rangoric-srd/spells/Spell Turning|spell turning]]_ (15th), _[[rangoric-srd/spells/Moment of Prescience|moment of prescience]]_ (17th), _[[rangoric-srd/spells/Foresight|foresight]]_ (19th).
 
 **Bonus Feats**: [[rangoric-srd/feats/Arcane Strike|Arcane Strike]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Leadership|Leadership]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Maximize Spell|Maximize Spell]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Society), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]].
 

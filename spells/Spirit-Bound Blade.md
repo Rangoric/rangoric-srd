@@ -26,16 +26,16 @@ tags: [rangoric, rangoric/spell]
 
 # Spirit-Bound Blade
 
-*Evocation*
+_Evocation_
 
-  - **Level**: Med 4, Occ 4, Sha 4, Spi 3
-  - **Components**: S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Weapon touched
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: Will negates (harmless, object)
-  - **Spell Resistance**: No
+- **Level**: Med 4, Occ 4, Sha 4, Spi 3
+- **Components**: S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Weapon touched
+- **Duration**: 1 minute/level
+- **Saving Throw**: Will negates (harmless, object)
+- **Spell Resistance**: No
 
 You focus emotional energy and weave it into a shroud of hardened ectoplasm around the weapon you touch, infusing it with a ghostly glow and great power. The weapon becomes a [[rangoric-srd/magic-items/weapon-abilities/Ghost Touch (Weapon Special Ability)|ghost touch]] weapon, and gains one of the following additional benefits, depending on the type of emotion you infuse into the weapon. If a special ability wouldn't apply to the chosen weapon (such as vicious on a ranged weapon), the weapon doesn't gain that benefit.
 

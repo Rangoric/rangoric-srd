@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Snapping Turtle
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 1d8+1 (5 hp)
-  - **Initiative**: –1
-  - **Speed**: 10 ft. (2 squares), swim 20 ft.
-  - **Armor Class**: 12 (–1 Dex, +1 natural, +2 size), touch 11, flat-footed 12
-  - **Base Attack**: +0; **CMB**: –3; **CMD**: 4 (8 vs. trip)
-  - **Attack**: Bite +1 melee (1d3–3)
-  - **Full Attack**: Bite +1 melee (1d3–3)
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/abilities/Shell|shell]]
-  - **Saves**: Fort +3, Ref +1, Will +1
-  - **Abilities**: Str 4, Dex 8, Con 13, Int 1, Wis 13, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Perception|Perception]] +5
-  - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Temperate or warm water or shore
-  - **Organization**: Solitary or band (2–5)
-  - **Challenge Rating**: 1/3
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 1d8+1 (5 hp)
+- **Initiative**: –1
+- **Speed**: 10 ft. (2 squares), swim 20 ft.
+- **Armor Class**: 12 (–1 Dex, +1 natural, +2 size), touch 11, flat-footed 12
+- **Base Attack**: +0; **CMB**: –3; **CMD**: 4 (8 vs. trip)
+- **Attack**: Bite +1 melee (1d3–3)
+- **Full Attack**: Bite +1 melee (1d3–3)
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/abilities/Shell|shell]]
+- **Saves**: Fort +3, Ref +1, Will +1
+- **Abilities**: Str 4, Dex 8, Con 13, Int 1, Wis 13, Cha 6
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Perception|Perception]] +5
+- **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Temperate or warm water or shore
+- **Organization**: Solitary or band (2–5)
+- **Challenge Rating**: 1/3
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Snapping turtles are water-dwelling reptiles known for their propensity to bite anyone they deem threatening. Adult snapping turtles are usually about 1-1/2 feet in diameter. A spellcaster who can acquire a familiar can choose a snapping turtle as a familiar. A snapping turtle familiar grants its master a +2 bonus on all Fortitude saves.
 

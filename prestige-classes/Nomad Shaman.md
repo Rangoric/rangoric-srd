@@ -37,7 +37,7 @@ To qualify to become a nomad shaman, a character must fulfill all the following 
 
 **Feats**: [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Astrologer (Feat)|Astrologer]].
 
-**Spells**: Able to cast at least one *cure* spell. Knows at least four [[rangoric-srd/rules/star magic/Star Magic#^stars|stars]].
+**Spells**: Able to cast at least one _cure_ spell. Knows at least four [[rangoric-srd/rules/star magic/Star Magic#^stars|stars]].
 
 **Special**: Must serve an apprenticeship of at least a year with a nomad shaman, and swear to help her tribe in times of trouble.
 
@@ -49,18 +49,18 @@ The nomad shaman’s class skills (and the key ability for each skill) are [[ran
 
 **Table: The Nomad Shaman** ^table-the-nomad-shaman
 
-| Level | Special | Spells per Day |
-| --- | --- | --- |
-| 1st | Spirit sight | +1 level of existing arcane spellcasting class |
-| 2nd | — | +1 level of existing arcane spellcasting class |
-| 3rd | Spirit walker | +1 level of existing arcane spellcasting class |
-| 4th | — | +1 level of existing arcane spellcasting class |
-| 5th | Illuminated familiar | +1 level of existing arcane spellcasting class |
-| 6th | — | +1 level of existing arcane spellcasting class |
-| 7th | Words of wisdom | +1 level of existing arcane spellcasting class |
-| 8th | — | +1 level of existing arcane spellcasting class |
-| 9th | Craft of the ancients | +1 level of existing arcane spellcasting class |
-| 10th | Master of destiny | +1 level of existing arcane spellcasting class |
+| Level | Special               | Spells per Day                                 |
+| ----- | --------------------- | ---------------------------------------------- |
+| 1st   | Spirit sight          | +1 level of existing arcane spellcasting class |
+| 2nd   | —                     | +1 level of existing arcane spellcasting class |
+| 3rd   | Spirit walker         | +1 level of existing arcane spellcasting class |
+| 4th   | —                     | +1 level of existing arcane spellcasting class |
+| 5th   | Illuminated familiar  | +1 level of existing arcane spellcasting class |
+| 6th   | —                     | +1 level of existing arcane spellcasting class |
+| 7th   | Words of wisdom       | +1 level of existing arcane spellcasting class |
+| 8th   | —                     | +1 level of existing arcane spellcasting class |
+| 9th   | Craft of the ancients | +1 level of existing arcane spellcasting class |
+| 10th  | Master of destiny     | +1 level of existing arcane spellcasting class |
 
 ###### Class Features
 
@@ -70,9 +70,9 @@ All of the following are class features of the nomad shaman prestige class.
 
 **Spells per Day/Spells Known**: When a new nomad shaman level is gained, the character gains new spells per day (and spells known, if applicable) as if she had also gained a level in an arcane spellcasting class she belonged to before she added the prestige class. She does not, however, gain any other benefit a character of that class would have gained. This means she adds her nomad shaman levels to the level of one arcane spellcasting class she has, then works out spells per day, spells known and caster level, which also count for [[rangoric-srd/rules/star magic/Star Magic#^other-arcane-casters|star magic]]. If she had more than one arcane spellcasting class before, she decides to which class each new level is added.
 
-**Spirit Sight (Sp)**: A nomad shaman can use *[[rangoric-srd/spells/See Invisibility|see invisibility]]* at will. ^nomad-shaman-spirit-sight
+**Spirit Sight (Sp)**: A nomad shaman can use _[[rangoric-srd/spells/See Invisibility|see invisibility]]_ at will. ^nomad-shaman-spirit-sight
 
-**Spirit Walker (Sp)**: At 3rd level, a nomad shaman can send her sight out from her body: she can use the clairvoyance form of *[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]* as a full-round action a number of times per day equal to her nomad shaman level. ^nomad-shaman-spirit-walker
+**Spirit Walker (Sp)**: At 3rd level, a nomad shaman can send her sight out from her body: she can use the clairvoyance form of _[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]_ as a full-round action a number of times per day equal to her nomad shaman level. ^nomad-shaman-spirit-walker
 
 **Illuminated Familiar (Su)**: At 5th level, a nomad shaman's [[rangoric-srd/classes/Wizard#^familiar-basics|familiar]] gains 2 extra hit points per Hit Die and can cast 0-level spells from its master's list a number of times per day equal to her nomad shaman level. It knows a number of them equal to its Intelligence modifier (minimum 1). ^nomad-shaman-illuminated-familiar
 

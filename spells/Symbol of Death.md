@@ -29,22 +29,22 @@ tags: [rangoric, rangoric/spell]
 
 # Symbol of Death
 
-*Necromancy \[Death\]*
+_Necromancy \[Death\]_
 
-  - **Level**: Clr 8, Occ 6, Sor/Wiz 8, Wit 8
-  - **Components**: V, S, M
-  - **Casting Time**: 10 minutes
-  - **Range**: 0 ft.; see text
-  - **Effect**: One symbol
-  - **Duration**: See text
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Clr 8, Occ 6, Sor/Wiz 8, Wit 8
+- **Components**: V, S, M
+- **Casting Time**: 10 minutes
+- **Range**: 0 ft.; see text
+- **Effect**: One symbol
+- **Duration**: See text
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
 This spell allows you to scribe a potent rune of power upon a surface. When triggered, a symbol of death slays one or more creatures within 60 feet of the symbol (treat as a burst) whose combined total current hit points do not exceed 150. The symbol of death affects the closest creatures first, skipping creatures with too many hit points to affect. Once triggered, the symbol becomes active and glows, lasting for 10 minutes per caster level or until it has affected 150 hit points’ worth of creatures, whichever comes first. Any creature that enters the area while the symbol of death is active is subject to its effect, whether or not that creature was in the area when it was triggered. A creature need save against the symbol only once as long as it remains within the area, though if it leaves the area and returns while the symbol is still active, it must save again.
 
 Until it is triggered, the symbol of death is inactive (though visible and legible at a distance of 60 feet). To be effective, a symbol of death must always be placed in plain sight and in a prominent location. Covering or hiding the rune renders the symbol of death ineffective, unless a creature removes the covering, in which case the symbol of death works normally.
 
-*As a default, a symbol of death is triggered whenever a creature does one or more of the following, as you select*: looks at the rune; reads the rune; touches the rune; passes over the rune; or passes through a portal bearing the rune. Regardless of the trigger method or methods chosen, a creature more than 60 feet from a symbol of death can’t trigger it (even if it meets one or more of the triggering conditions, such as reading the rune). Once the spell is cast, a symbol of death’s triggering conditions cannot be changed.
+_As a default, a symbol of death is triggered whenever a creature does one or more of the following, as you select_: looks at the rune; reads the rune; touches the rune; passes over the rune; or passes through a portal bearing the rune. Regardless of the trigger method or methods chosen, a creature more than 60 feet from a symbol of death can’t trigger it (even if it meets one or more of the triggering conditions, such as reading the rune). Once the spell is cast, a symbol of death’s triggering conditions cannot be changed.
 
 In this case, “reading” the rune means any attempt to study it, identify it, or fathom its meaning. Throwing a cover over a symbol of death to render it inoperative triggers it if the symbol reacts to touch. You can’t use a symbol of death offensively; for instance, a touch-triggered symbol of death remains untriggered if an item bearing the symbol of death is used to touch a creature. Likewise, a symbol of death cannot be placed on a weapon and set to activate when the weapon strikes a foe.
 
@@ -60,6 +60,6 @@ A symbol of death can be removed by a successful dispel magic targeted solely on
 
 Symbol of death can be made permanent with a permanency spell. A permanent symbol of death that is disabled or that has affected its maximum number of hit points becomes inactive for 10 minutes, then can be triggered again as normal.
 
-*Note*: Magic traps such as symbol of death are hard to detect and disable. A rogue (only) can use the [[rangoric-srd/skills/Investigation|Investigation]] skill to find a symbol of death and [[rangoric-srd/skills/Engineering|Engineering]] to thwart it. The DC in each case is 25 + spell level, or 33 for symbol of death.
+_Note_: Magic traps such as symbol of death are hard to detect and disable. A rogue (only) can use the [[rangoric-srd/skills/Investigation|Investigation]] skill to find a symbol of death and [[rangoric-srd/skills/Engineering|Engineering]] to thwart it. The DC in each case is 25 + spell level, or 33 for symbol of death.
 
-*Material Component*: Mercury and phosphorus, plus powdered diamond and opal with a total value of at least 5,000 gp each.
+_Material Component_: Mercury and phosphorus, plus powdered diamond and opal with a total value of at least 5,000 gp each.

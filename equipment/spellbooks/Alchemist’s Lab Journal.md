@@ -25,8 +25,8 @@ The steel cover of this slim journal has taken its fair share of abuse; acid sca
 
 ## Formulae
 
-- **2nd**: *[[rangoric-srd/spells/Blur|blur]]*, *[[rangoric-srd/spells/Delay Poison|delay poison]]*, *[[rangoric-srd/spells/Fire Breath|fire breath]]*, *[[rangoric-srd/spells/Transmute Potion to Poison|transmute potion to poison]]*, *[[rangoric-srd/spells/Vomit Swarm|vomit swarm]]*
-- **1st**: *[[rangoric-srd/spells/Bomber’s Eye|bomber's eye]]*, *[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]*, *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*, *[[rangoric-srd/spells/Jump (Spell)|jump]]*, *[[rangoric-srd/spells/Keen Senses|keen senses]]*, *[[rangoric-srd/spells/Negate Aroma|negate aroma]]*, *[[rangoric-srd/spells/Resist Energy|resist energy]]*, *[[rangoric-srd/spells/Touch of the Sea|touch of the sea]]*
+- **2nd**: _[[rangoric-srd/spells/Blur|blur]]_, _[[rangoric-srd/spells/Delay Poison|delay poison]]_, _[[rangoric-srd/spells/Fire Breath|fire breath]]_, _[[rangoric-srd/spells/Transmute Potion to Poison|transmute potion to poison]]_, _[[rangoric-srd/spells/Vomit Swarm|vomit swarm]]_
+- **1st**: _[[rangoric-srd/spells/Bomber’s Eye|bomber's eye]]_, _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Jump (Spell)|jump]]_, _[[rangoric-srd/spells/Keen Senses|keen senses]]_, _[[rangoric-srd/spells/Negate Aroma|negate aroma]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_, _[[rangoric-srd/spells/Touch of the Sea|touch of the sea]]_
 
 ## Preparation Ritual
 

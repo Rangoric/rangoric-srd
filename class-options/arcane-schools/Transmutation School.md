@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Transmutation School
 
-*An [[rangoric-srd/classes/Wizard#^wizard-arcane-school|arcane school]].*
+_An [[rangoric-srd/classes/Wizard#^wizard-arcane-school|arcane school]]._
 
 Transmuters use magic to change the world around them.
 
@@ -23,4 +23,4 @@ Transmuters use magic to change the world around them.
 
 **Telekinetic Fist (Sp)**: As a standard action you can strike with a telekinetic fist, targeting any foe within 30 feet as a ranged touch attack. The telekinetic fist deals 1d4 points of bludgeoning damage + 1 for every two wizard levels you possess. You can use this ability a number of times per day equal to 3 + your Intelligence modifier.
 
-**Change Shape (Sp)**: At 8th level, you can change your shape for a number of rounds per day equal to your wizard level. These rounds do not need to be consecutive. This ability otherwise functions like *[[rangoric-srd/spells/Beast Shape II|beast shape II]]* or *[[rangoric-srd/spells/Elemental Body I|elemental body I]]*. At 12th level, this ability functions like *[[rangoric-srd/spells/Beast Shape III|beast shape III]]* or *[[rangoric-srd/spells/Elemental Body II|elemental body II]]*.
+**Change Shape (Sp)**: At 8th level, you can change your shape for a number of rounds per day equal to your wizard level. These rounds do not need to be consecutive. This ability otherwise functions like _[[rangoric-srd/spells/Beast Shape II|beast shape II]]_ or _[[rangoric-srd/spells/Elemental Body I|elemental body I]]_. At 12th level, this ability functions like _[[rangoric-srd/spells/Beast Shape III|beast shape III]]_ or _[[rangoric-srd/spells/Elemental Body II|elemental body II]]_.

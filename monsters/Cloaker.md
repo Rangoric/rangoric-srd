@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Cloaker
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 6d8+24 (51 hp)
-  - **Initiative**: +7
-  - **Speed**: 10 ft. (2 squares), fly 40 ft. (average)
-  - **Armor Class**: 19 (+3 Dex, +7 natural, –1 size), touch 12, flat-footed 16
-  - **Base Attack**: +4; **CMB**: +10; **CMD**: 23 (can't be tripped)
-  - **Attack**: Bite +8 melee (1d6+5) or tail slap +8 melee (1d8+2)
-  - **Full Attack**: Bite +8 melee (1d6+5) and tail slap +3 melee (1d8+2)
-  - **Space/Reach**: 10 ft./10 ft. (5 ft. with bite)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Engulf|Engulf]], moan
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., shadow shift
-  - **Saves**: Fort +6, Ref +5, Will +7
-  - **Abilities**: Str 21, Dex 16, Con 19, Int 14, Wis 15, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Imitation|Imitation]] +8 (+16 as cloak), [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +8, [[rangoric-srd/skills/Theology|Theology]] +11
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Underground
-  - **Organization**: Solitary, pair, mob (3–6), or flock (7–12)
-  - **Challenge Rating**: 5
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: 7–9 HD (Large); 10–18 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 6d8+24 (51 hp)
+- **Initiative**: +7
+- **Speed**: 10 ft. (2 squares), fly 40 ft. (average)
+- **Armor Class**: 19 (+3 Dex, +7 natural, –1 size), touch 12, flat-footed 16
+- **Base Attack**: +4; **CMB**: +10; **CMD**: 23 (can't be tripped)
+- **Attack**: Bite +8 melee (1d6+5) or tail slap +8 melee (1d8+2)
+- **Full Attack**: Bite +8 melee (1d6+5) and tail slap +3 melee (1d8+2)
+- **Space/Reach**: 10 ft./10 ft. (5 ft. with bite)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Engulf|Engulf]], moan
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., shadow shift
+- **Saves**: Fort +6, Ref +5, Will +7
+- **Abilities**: Str 21, Dex 16, Con 19, Int 14, Wis 15, Cha 14
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Imitation|Imitation]] +8 (+16 as cloak), [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +8, [[rangoric-srd/skills/Theology|Theology]] +11
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Underground
+- **Organization**: Solitary, pair, mob (3–6), or flock (7–12)
+- **Challenge Rating**: 5
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: 7–9 HD (Large); 10–18 HD (Huge)
+- **Level Adjustment**: —
 
 Resembling hideously evil flying manta rays, cloakers are mysterious and paranoid creatures. A typical specimen has an 8-foot wingspan and weighs 100 pounds.
 
@@ -78,13 +78,13 @@ Cloakers usually lie still, watching and listening for prey. If facing a single 
 
 **Moan (Ex)**: A cloaker can emit an infrasonic moan as a standard action, with one of four effects.
 
-*Fear*: All creatures in a 30-foot spread must save (Will negates) or become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 2 rounds.
+_Fear_: All creatures in a 30-foot spread must save (Will negates) or become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 2 rounds.
 
-*Nausea*: All creatures in a 30-foot cone must save (Fortitude negates) or fall [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]] and be [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d4+1 rounds.
+_Nausea_: All creatures in a 30-foot cone must save (Fortitude negates) or fall [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]] and be [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d4+1 rounds.
 
-*Stupor*: A single creature within 30 feet is affected by *[[rangoric-srd/spells/Hold Monster|hold monster]]* for 5 rounds (Will negates).
+_Stupor_: A single creature within 30 feet is affected by _[[rangoric-srd/spells/Hold Monster|hold monster]]_ for 5 rounds (Will negates).
 
-*Unnerve*: Anyone within a 60-foot spread automatically takes a –2 penalty on attack and damage rolls. Those in the area for more than 6 consecutive rounds must save (Will negates) or enter a trance, [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] until the moaning stops.
+_Unnerve_: Anyone within a 60-foot spread automatically takes a –2 penalty on attack and damage rolls. Those in the area for more than 6 consecutive rounds must save (Will negates) or enter a trance, [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] until the moaning stops.
 
 Cloakers are immune to these sonic, mind-affecting attacks. A creature that successfully saves against the cloaker's fear, nausea, or unnerve moans cannot be affected by that same moan effect from that cloaker for 24 hours. All of the save DCs against a cloaker's moan are DC 15. Save DCs are Charisma-based.
 

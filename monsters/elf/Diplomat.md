@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Diplomat
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf, Human)
-  - **Hit Dice**: 8d8–8 (28 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 11 (+1 Dex), touch 11, flat-footed 10
-  - **Base Attack**: +6; **CMB**: +5; **CMD**: 16
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Rapier|rapier]] +6 melee (1d6–1/18–20) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +7 ranged (1d4–1/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Rapier|rapier]] +6/+1 melee (1d6–1/18–20); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +7 ranged (1d4–1/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]]
-  - **Saves**: Fort +2, Ref +4, Will +9
-  - **Abilities**: Str 9, Dex 12, Con 8, Int 12, Wis 10, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Linguistics|Linguistics]] +6, [[rangoric-srd/skills/Perception|Perception]] +13, Perform (dance) +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Society|Society]] +14, [[rangoric-srd/skills/Theology|Theology]] +5
-  - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion, Intimidation, Knowledge \[history\], Perception)
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary, or with other half-elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
-  - **Challenge Rating**: 6
-  - **Treasure**: NPC gear (combat gear: potion of cure moderate wounds; other gear: dagger, masterwork rapier, cloak of resistance +1, figurine of wondrous power (silver raven), antitoxin (4), noble's outfit, signet ring, 298 gp)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf, Human)
+- **Hit Dice**: 8d8–8 (28 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 11 (+1 Dex), touch 11, flat-footed 10
+- **Base Attack**: +6; **CMB**: +5; **CMD**: 16
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Rapier|rapier]] +6 melee (1d6–1/18–20) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +7 ranged (1d4–1/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Rapier|rapier]] +6/+1 melee (1d6–1/18–20); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +7 ranged (1d4–1/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]]
+- **Saves**: Fort +2, Ref +4, Will +9
+- **Abilities**: Str 9, Dex 12, Con 8, Int 12, Wis 10, Cha 16
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Linguistics|Linguistics]] +6, [[rangoric-srd/skills/Perception|Perception]] +13, Perform (dance) +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Society|Society]] +14, [[rangoric-srd/skills/Theology|Theology]] +5
+- **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion, Intimidation, Knowledge \[history\], Perception)
+- **Environment**: Temperate forests
+- **Organization**: Solitary, or with other half-elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
+- **Challenge Rating**: 6
+- **Treasure**: NPC gear (combat gear: potion of cure moderate wounds; other gear: dagger, masterwork rapier, cloak of resistance +1, figurine of wondrous power (silver raven), antitoxin (4), noble's outfit, signet ring, 298 gp)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A diplomat is a [[rangoric-srd/monsters/elf/Elf#Half-Elf|half-elf]] with 8 levels of [[rangoric-srd/classes/Aristocrat|aristocrat]]. Exposed since birth to the contentious relationships between disparate races and nationalities, the diplomat found her calling in resolving the differences of others. Her half-elven lifespan means she has dealt with three or more generations of human nobility in various countries and is well versed in evolving etiquette. Slow-burning feuds and several attempts on her life have made her cautious and patient in her work.
 

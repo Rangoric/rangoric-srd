@@ -24,15 +24,15 @@ tags: [rangoric, rangoric/spell]
 
 # Lend Judgment, Greater
 
-*Divination*
+_Divination_
 
-  - **Level**: Inq 5
-  - **Components**: V, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: One ally
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Inq 5
+- **Components**: V, DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: One ally
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-This functions as *[[rangoric-srd/spells/Lend Judgment|lend judgment]]*, except the ally gains the benefit of all your active judgments.
+This functions as _[[rangoric-srd/spells/Lend Judgment|lend judgment]]_, except the ally gains the benefit of all your active judgments.

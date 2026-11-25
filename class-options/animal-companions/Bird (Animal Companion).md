@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Bird
 
-*An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature ([[rangoric-srd/monsters/Eagle|eagle]], [[rangoric-srd/monsters/Hawk|hawk]], or [[rangoric-srd/monsters/Owl|owl]]).*
+_An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature ([[rangoric-srd/monsters/Eagle|eagle]], [[rangoric-srd/monsters/Hawk|hawk]], or [[rangoric-srd/monsters/Owl|owl]])._
 
 - **Size**: Small
 - **Speed**: 10 ft., fly 80 ft. (average)

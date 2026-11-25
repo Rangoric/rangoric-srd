@@ -36,6 +36,6 @@ Telepathy (Charm) \[Mind-Affecting\]
 **Duration:** 1 min./level  
 **Saving Throw:** Will negates  
 **Power Resistance:** Yes  
-**Power Points:** 1  
+**Power Points:** 1
 
 You alter the subject’s mood, adjusting its attitude toward you by one step in a positive direction. For instance, an unfriendly creature can be made indifferent, or a hostile creature unfriendly. You can grant a +4 bonus on your own (or others’) [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Intimidation|Intimidation]], [[rangoric-srd/skills/Performance|Performance]], or [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks involving the affected creature.

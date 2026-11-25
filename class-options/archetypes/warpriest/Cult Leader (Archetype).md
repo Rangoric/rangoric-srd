@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Cult Leader
 
-*A [[rangoric-srd/classes/Warpriest#^warpriest-archetypes|warpriest]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Warpriest#^warpriest-archetypes|warpriest]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Referred to as fanatics, lunatics, or obsessives, cultists see themselves as genuine devotees of their deity. And the hierarchs of those devotees, the cult leaders, are the most fanatical of them all. Cult leaders are known for turning reasonable hearts toward corrupted teachings and striking at those that get in the way of their agenda.
 
@@ -34,6 +34,6 @@ Referred to as fanatics, lunatics, or obsessives, cultists see themselves as gen
 
 **Sneak Attack (Ex)**: At 3rd level, a cult leader gains the [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] ability, as the rogue class feature. If he already has sneak attack from another class, the extra damage from the classes that grant sneak attack stack for the purpose of determining the sneak attack's extra damage dice. This extra damage is 1d6 at 3rd level and increases by 1d6 every 3 levels thereafter. This ability replaces the [[rangoric-srd/classes/Warpriest#^warpriest-bonus-feats|bonus feats]] gained at 3rd, 9th, and 15th levels.
 
-**Enthrall (Sp)**: At 4th level, a cult leader can cast *[[rangoric-srd/spells/Enthrall|enthrall]]*. Using this ability consumes two uses of his [[rangoric-srd/classes/Warpriest#^warpriest-fervor|fervor]] ability. This ability replaces [[rangoric-srd/classes/Warpriest#^warpriest-channel-energy|channel energy]].
+**Enthrall (Sp)**: At 4th level, a cult leader can cast _[[rangoric-srd/spells/Enthrall|enthrall]]_. Using this ability consumes two uses of his [[rangoric-srd/classes/Warpriest#^warpriest-fervor|fervor]] ability. This ability replaces [[rangoric-srd/classes/Warpriest#^warpriest-channel-energy|channel energy]].
 
 **Hide in Plain Sight (Su)**: At 12th level, a cult leader can use the [[rangoric-srd/skills/Stealth|Stealth]] skill even while being observed. As long as he is within 10 feet of an area of dim light, a cult leader can hide himself from view in the open without anything to actually hide behind. He cannot, however, hide in his own shadow. This ability replaces the [[rangoric-srd/classes/Warpriest#^warpriest-bonus-feats|bonus feat]] gained at 12th level.

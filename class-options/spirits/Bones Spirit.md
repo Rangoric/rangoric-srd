@@ -14,21 +14,21 @@ tags: [rangoric, rangoric/class-option]
 
 # Bones Spirit
 
-*A [[rangoric-srd/classes/Shaman#^shaman-spirit|shaman spirit]].*
+_A [[rangoric-srd/classes/Shaman#^shaman-spirit|shaman spirit]]._
 
 A shaman who selects the bones spirit is cadaverously thin, with sunken eye sockets and dead eyes that stare off into the distance. Her body has a faint smell of the grave. When she calls upon one of this spirit's abilities, a ghostly wind whips her hair and clothes about, and the unpleasant stench becomes more prominent.
 
-**Spirit Magic Spells**: *[[rangoric-srd/spells/Cause Fear|cause fear]]* (1st), *[[rangoric-srd/spells/False Life|false life]]* (2nd), *[[rangoric-srd/spells/Animate Dead|animate dead]]* (3rd), *[[rangoric-srd/spells/Fear|fear]]* (4th), *[[rangoric-srd/spells/Slay Living|slay living]]* (5th), *[[rangoric-srd/spells/Circle of Death|circle of death]]* (6th), *[[rangoric-srd/spells/Control Undead|control undead]]* (7th), *[[rangoric-srd/spells/Horrid Wilting|horrid wilting]]* (8th), *[[rangoric-srd/spells/Wail of the Banshee|wail of the banshee]]* (9th).
+**Spirit Magic Spells**: _[[rangoric-srd/spells/Cause Fear|cause fear]]_ (1st), _[[rangoric-srd/spells/False Life|false life]]_ (2nd), _[[rangoric-srd/spells/Animate Dead|animate dead]]_ (3rd), _[[rangoric-srd/spells/Fear|fear]]_ (4th), _[[rangoric-srd/spells/Slay Living|slay living]]_ (5th), _[[rangoric-srd/spells/Circle of Death|circle of death]]_ (6th), _[[rangoric-srd/spells/Control Undead|control undead]]_ (7th), _[[rangoric-srd/spells/Horrid Wilting|horrid wilting]]_ (8th), _[[rangoric-srd/spells/Wail of the Banshee|wail of the banshee]]_ (9th).
 
 **Hexes**: [[rangoric-srd/class-options/hexes/Bone Lock (Hex)|bone lock]], [[rangoric-srd/class-options/hexes/Bone Ward (Hex)|bone ward]], [[rangoric-srd/class-options/hexes/Deathly Being (Hex)|deathly being]], [[rangoric-srd/class-options/hexes/Fearful Gaze (Hex)|fearful gaze]], [[rangoric-srd/class-options/hexes/Grave Sight (Hex)|grave sight]].
 
-**Spirit Animal**: The shaman's spirit animal gives off a ghostly glow and seems nearly transparent. The animal is under the constant effects of *[[rangoric-srd/spells/Blur|blur]]*, with a caster level equal to the shaman's level.
+**Spirit Animal**: The shaman's spirit animal gives off a ghostly glow and seems nearly transparent. The animal is under the constant effects of _[[rangoric-srd/spells/Blur|blur]]_, with a caster level equal to the shaman's level.
 
 ## Spirit Ability
 
 A shaman who chooses the bones spirit as her [[rangoric-srd/classes/Shaman#^shaman-spirit|spirit]] or [[rangoric-srd/classes/Shaman#^shaman-wandering-spirit|wandering spirit]] gains the following ability.
 
-**Touch of the Grave (Su)**: As a standard action, the shaman can make a melee touch attack infused with negative energy that deals 1d4 points of damage + 1 point of damage for every 2 shaman levels she possesses. She can instead touch an undead creature to heal it of the same amount of damage. A shaman can use this ability a number of times per day equal to 3 + her Charisma modifier. At 11th level, any weapon that the shaman wields is treated as an *[[rangoric-srd/magic-items/weapon-abilities/Unholy|unholy]]* weapon.
+**Touch of the Grave (Su)**: As a standard action, the shaman can make a melee touch attack infused with negative energy that deals 1d4 points of damage + 1 point of damage for every 2 shaman levels she possesses. She can instead touch an undead creature to heal it of the same amount of damage. A shaman can use this ability a number of times per day equal to 3 + her Charisma modifier. At 11th level, any weapon that the shaman wields is treated as an _[[rangoric-srd/magic-items/weapon-abilities/Unholy|unholy]]_ weapon.
 
 ## Greater Spirit Ability
 
@@ -40,8 +40,8 @@ A shaman who chooses the bones spirit as her spirit or wandering spirit gains th
 
 A shaman who chooses the bones spirit as her spirit or wandering spirit gains the following ability upon having access to the true version of that spirit.
 
-**Shedding Form (Su)**: As a standard action, the shaman sheds her body and becomes incorporeal. While in this form, all of her weapon attacks are considered to have the *[[rangoric-srd/magic-items/weapon-abilities/Ghost Touch (Weapon Special Ability)|ghost touch]]* weapon special ability. The shaman can use this ability for a number of rounds equal to her shaman level, though those rounds do not need to be consecutive.
+**Shedding Form (Su)**: As a standard action, the shaman sheds her body and becomes incorporeal. While in this form, all of her weapon attacks are considered to have the _[[rangoric-srd/magic-items/weapon-abilities/Ghost Touch (Weapon Special Ability)|ghost touch]]_ weapon special ability. The shaman can use this ability for a number of rounds equal to her shaman level, though those rounds do not need to be consecutive.
 
 ## Manifestation
 
-Upon reaching 20th level, the shaman becomes a spirit of death. Once per round, she can cast *[[rangoric-srd/spells/Bleed|bleed]]* or *[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]* as a free action. If she is reduced to below 0 hit points, she automatically stabilizes. She can cast *[[rangoric-srd/spells/Animate Dead|animate dead]]* at will without paying a material component cost, although she is still subject to the usual Hit Dice control limit. Once per day, she can cast *[[rangoric-srd/spells/Power Word Kill|power word kill]]*, but the spell can target a creature with 150 hit points or fewer.
+Upon reaching 20th level, the shaman becomes a spirit of death. Once per round, she can cast _[[rangoric-srd/spells/Bleed|bleed]]_ or _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_ as a free action. If she is reduced to below 0 hit points, she automatically stabilizes. She can cast _[[rangoric-srd/spells/Animate Dead|animate dead]]_ at will without paying a material component cost, although she is still subject to the usual Hit Dice control limit. Once per day, she can cast _[[rangoric-srd/spells/Power Word Kill|power word kill]]_, but the spell can target a creature with 150 hit points or fewer.

@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Wind-borne
 
-A *wind-borne* weapon looks wispy and insubstantial but deals full damage. An opponent of Large size or smaller that it hits must succeed on a Strength check with a DC equal to the damage dealt or be knocked [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]].
+A _wind-borne_ weapon looks wispy and insubstantial but deals full damage. An opponent of Large size or smaller that it hits must succeed on a Strength check with a DC equal to the damage dealt or be knocked [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]].
 
-CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/rules/star magic/constellations/The Bridge of Birds|The Bridge of Birds]]*; Price +2 bonus.
+CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/rules/star magic/constellations/The Bridge of Birds|The Bridge of Birds]]_; Price +2 bonus.

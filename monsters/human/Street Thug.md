@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Street Thug
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 1d10+1d8+6 (16 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 15 (+3 armor, +2 Dex), touch 12, flat-footed 13
-  - **Base Attack**: +1; **CMB**: +4; **CMD**: 16
-  - **Attack**: [[rangoric-srd/equipment/weapons/Quarterstaff|Quarterstaff]] +4 melee (1d6+3) or [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] +2 melee (1d6+3/1d6+1) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +4 melee (1d4+3/19–20) or [[rangoric-srd/equipment/weapons/Sap|sap]] +4 melee (1d6+3 nonlethal) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 ranged (1d4+3/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Quarterstaff|Quarterstaff]] +4 melee (1d6+3); or [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] +2/+2 melee (1d6+3/1d6+1); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +4 melee (1d4+3/19–20); or [[rangoric-srd/equipment/weapons/Sap|sap]] +4 melee (1d6+3 nonlethal); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 ranged (1d4+3/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6
-  - **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-trapfinding|Trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]]
-  - **Saves**: Fort +3, Ref +4, Will +0
-  - **Abilities**: Str 16, Dex 15, Con 13, Int 8, Wis 10, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +5 (+6 to find traps), [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +7
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Intimidation), [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]]
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 1
-  - **Treasure**: NPC gear
-  - **Alignment**: Neutral evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 1d10+1d8+6 (16 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 15 (+3 armor, +2 Dex), touch 12, flat-footed 13
+- **Base Attack**: +1; **CMB**: +4; **CMD**: 16
+- **Attack**: [[rangoric-srd/equipment/weapons/Quarterstaff|Quarterstaff]] +4 melee (1d6+3) or [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] +2 melee (1d6+3/1d6+1) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +4 melee (1d4+3/19–20) or [[rangoric-srd/equipment/weapons/Sap|sap]] +4 melee (1d6+3 nonlethal) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 ranged (1d4+3/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Quarterstaff|Quarterstaff]] +4 melee (1d6+3); or [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] +2/+2 melee (1d6+3/1d6+1); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +4 melee (1d4+3/19–20); or [[rangoric-srd/equipment/weapons/Sap|sap]] +4 melee (1d6+3 nonlethal); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 ranged (1d4+3/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6
+- **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-trapfinding|Trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]]
+- **Saves**: Fort +3, Ref +4, Will +0
+- **Abilities**: Str 16, Dex 15, Con 13, Int 8, Wis 10, Cha 12
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +5 (+6 to find traps), [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +7
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Intimidation), [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]]
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 1
+- **Treasure**: NPC gear
+- **Alignment**: Neutral evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A street thug is a [[rangoric-srd/monsters/human/Human|human]] with 1 level of [[rangoric-srd/classes/Fighter|fighter]] and 1 level of [[rangoric-srd/classes/Rogue|rogue]]. Street thugs are the alleybashers and bullyboys of the streets. They are the crude muscle employed by other criminals to keep rivals at bay and shake down hapless shopkeeps and business owners. Innocent townsfolk live in fear of a street thug slipping out of the shadows to administer a brutal beating.
 

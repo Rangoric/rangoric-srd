@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, fighter-bonus, epic]
 
 # Legendary Rider
 
-Prerequisite: [[rangoric-srd/skills/Animal Handling|Animal Handling]] 21 ranks.  
+Prerequisite: [[rangoric-srd/skills/Animal Handling|Animal Handling]] 21 ranks.
 
 Benefit: The character doesn’t take a penalty on Animal Handling checks when riding a mount without a saddle (bareback).  The character never needs to make an Animal Handling check to control a mount in combat (and even controlling a mount not trained for combat doesn’t require an action).
 

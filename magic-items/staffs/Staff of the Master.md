@@ -21,12 +21,12 @@ tags: [rangoric, rangoric/magic-item]
 
 # Staff of the Master
 
-Often given as gifts to apprentices upon reaching the rank of master, these staves come in eight different varieties, one for each school of magic. This particular staff is for the school of necromancy. Aside from acting as a *+1/+1 quarterstaff*, this staff allows use of the following spells:
+Often given as gifts to apprentices upon reaching the rank of master, these staves come in eight different varieties, one for each school of magic. This particular staff is for the school of necromancy. Aside from acting as a _+1/+1 quarterstaff_, this staff allows use of the following spells:
 
-- *[[rangoric-srd/spells/Ray of Enfeeblement|Ray of enfeeblement]]* (1 charge)
-- *[[rangoric-srd/spells/Spectral Hand|Spectral hand]]* (1 charge)
-- *[[rangoric-srd/spells/Vampiric Touch|Vampiric touch]]* (2 charges)
+- _[[rangoric-srd/spells/Ray of Enfeeblement|Ray of enfeeblement]]_ (1 charge)
+- _[[rangoric-srd/spells/Spectral Hand|Spectral hand]]_ (1 charge)
+- _[[rangoric-srd/spells/Vampiric Touch|Vampiric touch]]_ (2 charges)
 
 In addition, this staff can be used to cast spells using any metamagic feats known by the wielder without increasing the spell's level. This consumes a number of charges equal to the number of spell levels increased by the feat. No more than one feat can be applied to a spell cast by the wielder in this way. Using the staff for this purpose does not increase the casting time of the spell.
 
-Moderate necromancy; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]*, *[[rangoric-srd/spells/Spectral Hand|spectral hand]]*, *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]*; Price 30,000 gp; Cost 15,300 gp; Weight 5 lbs.
+Moderate necromancy; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_, _[[rangoric-srd/spells/Spectral Hand|spectral hand]]_, _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_; Price 30,000 gp; Cost 15,300 gp; Weight 5 lbs.

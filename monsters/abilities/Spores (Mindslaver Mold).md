@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Spores (Mindslaver Mold)
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “spores”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “spores”, on the Special Attacks line.
 
 Whenever a mindslaver mold hits a creature with its spore pod, or whenever a creature touches a mindslaver mold (including when a creature hits the mold with a touch attack, unarmed strike, or natural attack), the creature must succeed at a DC 15 Fortitude save or take 1d4 points of Wisdom damage as the mold's spores swiftly drain away the victim's willpower and sense of self. The save DC is Constitution-based. The [[rangoric-srd/monsters/fungus/Mindslaver Mold|mindslaver mold]] has it.

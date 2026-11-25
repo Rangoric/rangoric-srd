@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Pestilential Tears
 
-*Necromancy \[Evil\]*
+_Necromancy \[Evil\]_
 
-  - **Level**: Clr 7
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Area**: 30foot diameter sphere
-  - **Duration**: 2 rounds/level
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Clr 7
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Area**: 30foot diameter sphere
+- **Duration**: 2 rounds/level
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
 The effect of this spell is a rain of reeking drops of stagnant and polluted water. Open water sources completely contained within the area of effect is polluted with the [[rangoric-srd/rules/afflictions/Filth Fever|filth fever]] disease until purified. Normal plants within the area wither and die. Plant creatures in the area take 6d8 damage each round that they remain in the area.
 

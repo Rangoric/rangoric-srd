@@ -68,7 +68,7 @@ Your healing is more effective if your patient is badly injured.
 
 ### Endurance
 
-*This version of [[rangoric-srd/feats/Endurance|Endurance]] replaces it in a game that uses wound thresholds.*
+_This version of [[rangoric-srd/feats/Endurance|Endurance]] replaces it in a game that uses wound thresholds._
 
 Harsh conditions or long exertions do not easily tire you.
 

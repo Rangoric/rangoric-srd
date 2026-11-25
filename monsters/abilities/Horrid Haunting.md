@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Horrid Haunting
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “horrid haunting”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “horrid haunting”, on the Special Qualities line.
 
 A popobala may use ghost sound or ventriloquism as a free action whenever it manipulates a creature or object with animate objects, dominate person, or telekinesis. The ghost sound or ventriloquism originates from the controlled object or creature. The [[rangoric-srd/monsters/Popobala|popobala]] has it.

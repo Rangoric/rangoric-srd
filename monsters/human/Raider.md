@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Raider
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 6d12+28 (67 hp)
-  - **Initiative**: +2
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 15 (+4 armor, +2 Dex, +1 dodge, –2 rage), touch 11, flat-footed 12
-  - **Base Attack**: +6; **CMB**: +11; **CMD**: 22
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +12 melee (1d8+7/×3) or [[rangoric-srd/equipment/weapons/Kukri|kukri]] +11 melee (1d4+5/18–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +9 ranged (1d8+3/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +12/+7 melee (1d8+7/×3); or [[rangoric-srd/equipment/weapons/Kukri|kukri]] +11/+6 melee (1d4+5/18–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +9/+4 ranged (1d8+3/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (16 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Animal Fury (Rage Power)|animal fury]], [[rangoric-srd/class-options/rage-powers/No Escape (Rage Power)|no escape]], [[rangoric-srd/class-options/rage-powers/Scent (Rage Power)|scent]])
-  - **Special Qualities**: [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|Improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +2, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]]
-  - **Saves**: Fort +9, Ref +4, Will +5
-  - **Abilities**: Str 21, Dex 14, Con 18, Int 10, Wis 12, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +11 (+15 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Nature|Nature]] +6, [[rangoric-srd/skills/Perception|Perception]] +8
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Shot on the Run|Shot on the Run]]
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 5
-  - **Treasure**: NPC gear (combat gear: oil of magic weapon, potion of cure light wounds, thunderstone; other gear: +1 studded leather, javelin of lightning, kukri, masterwork composite longbow (+3 Str) with 40 arrows, masterwork spear, 1 gp)
-  - **Alignment**: Chaotic neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 6d12+28 (67 hp)
+- **Initiative**: +2
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 15 (+4 armor, +2 Dex, +1 dodge, –2 rage), touch 11, flat-footed 12
+- **Base Attack**: +6; **CMB**: +11; **CMD**: 22
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +12 melee (1d8+7/×3) or [[rangoric-srd/equipment/weapons/Kukri|kukri]] +11 melee (1d4+5/18–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +9 ranged (1d8+3/×3)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +12/+7 melee (1d8+7/×3); or [[rangoric-srd/equipment/weapons/Kukri|kukri]] +11/+6 melee (1d4+5/18–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +9/+4 ranged (1d8+3/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (16 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Animal Fury (Rage Power)|animal fury]], [[rangoric-srd/class-options/rage-powers/No Escape (Rage Power)|no escape]], [[rangoric-srd/class-options/rage-powers/Scent (Rage Power)|scent]])
+- **Special Qualities**: [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|Improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +2, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]]
+- **Saves**: Fort +9, Ref +4, Will +5
+- **Abilities**: Str 21, Dex 14, Con 18, Int 10, Wis 12, Cha 8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +11 (+15 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Nature|Nature]] +6, [[rangoric-srd/skills/Perception|Perception]] +8
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Shot on the Run|Shot on the Run]]
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 5
+- **Treasure**: NPC gear (combat gear: oil of magic weapon, potion of cure light wounds, thunderstone; other gear: +1 studded leather, javelin of lightning, kukri, masterwork composite longbow (+3 Str) with 40 arrows, masterwork spear, 1 gp)
+- **Alignment**: Chaotic neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A raider is a [[rangoric-srd/monsters/human/Human|human]] with 6 levels of [[rangoric-srd/classes/Barbarian|barbarian]]. Raiders are the children of the raging storm, wild warriors from the wrinkled hills and jagged mountains. They descend from their aeries with moods as foul and war cries as terrifying as the wild weather that drives them, leaping, scaling the heights, diving from cover to cover, and raining death upon their enemies.
 

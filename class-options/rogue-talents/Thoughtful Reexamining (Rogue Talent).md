@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Thoughtful Reexamining
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex).*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex)._
 
 Once per day, a rogue with this talent can reroll a [[rangoric-srd/skills/Knowledge|Knowledge skill]], [[rangoric-srd/skills/Investigation|Investigation]], [[rangoric-srd/skills/Perception|Perception]], or [[rangoric-srd/skills/Sense Motive|Sense Motive]] check to try to gain new or better information from the roll. This reroll can be made any time during the same day as the original check.

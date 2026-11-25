@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Giant Ant Lion
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
-  - **Hit Dice**: 8d8+24 (60 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares), burrow 10 ft.
-  - **Armor Class**: 19 (+10 natural, –1 size), touch 9, flat-footed 19
-  - **Base Attack**: +6; **CMB**: +12 (+16 grapple); **CMD**: 22 (30 vs. trip)
-  - **Attack**: Bite +10 melee (2d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +10 melee (2d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Sand Trap|Sand trap]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-  - **Saves**: Fort +9, Ref +2, Will +2
-  - **Abilities**: Str 20, Dex 11, Con 17, Int —, Wis 11, Cha 10
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Warm deserts
-  - **Organization**: Solitary or nest (2–4)
-  - **Challenge Rating**: 5
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
+- **Hit Dice**: 8d8+24 (60 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares), burrow 10 ft.
+- **Armor Class**: 19 (+10 natural, –1 size), touch 9, flat-footed 19
+- **Base Attack**: +6; **CMB**: +12 (+16 grapple); **CMD**: 22 (30 vs. trip)
+- **Attack**: Bite +10 melee (2d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +10 melee (2d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Sand Trap|Sand trap]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
+- **Saves**: Fort +9, Ref +2, Will +2
+- **Abilities**: Str 20, Dex 11, Con 17, Int —, Wis 11, Cha 10
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Warm deserts
+- **Organization**: Solitary or nest (2–4)
+- **Challenge Rating**: 5
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Perils of the desert depths, giant ant lions construct traps from the shifting sands. These beasts lurk at the base of these pits, half buried and patiently awaiting unwary prey.
 

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Unwavering Mind
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “unwavering mind”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “unwavering mind”, on the Special Qualities line.
 
 A vouivre gains a +4 bonus on saving throws to resist mind-affecting effects. The [[rangoric-srd/monsters/Vouivre|vouivre]] has it.

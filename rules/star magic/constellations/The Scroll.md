@@ -25,17 +25,17 @@ tags: [rangoric, rangoric/constellation]
 
 # The Scroll
 
-*[[rangoric-srd/rules/star magic/Star Magic|Constellation]]*
+_[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 
-  - **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Confusion|Confusion]], [[rangoric-srd/rules/star magic/stars/Star of Justice|Justice]]
-  - **Call Level**: 3rd ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 day
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Confusion|Confusion]], [[rangoric-srd/rules/star magic/stars/Star of Justice|Justice]]
+- **Call Level**: 3rd ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 day
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 Your memory opens like a written record you can search at will. You can take 10 on any [[rangoric-srd/skills/Knowledge|Knowledge]] check while the constellation lasts.
 

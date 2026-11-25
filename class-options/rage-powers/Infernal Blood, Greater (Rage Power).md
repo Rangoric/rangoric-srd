@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Infernal Blood, Greater
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su)._
 
 While raging, the barbarian gains a +4 bonus against enchantment and fear effects.
 

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Nightmare Curse
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “nightmare curse”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “nightmare curse”, on the Special Attacks line.
 
-An animate dream's touch puts horrifying visions in the target's mind. [[rangoric-srd/rules/afflictions/Animate Dream's Touch|Animate Dream's Touch]]: incorporeal touch; *save* Will DC 21; *frequency* 1/day; *effect* 1d4 Wis drain and target is fatigued; *cure* 3 consecutive saves or dispel evil, dream, or remove curse. The [[rangoric-srd/monsters/Animate Dream|animate dream]] has it.
+An animate dream's touch puts horrifying visions in the target's mind. [[rangoric-srd/rules/afflictions/Animate Dream's Touch|Animate Dream's Touch]]: incorporeal touch; _save_ Will DC 21; _frequency_ 1/day; _effect_ 1d4 Wis drain and target is fatigued; _cure_ 3 consecutive saves or dispel evil, dream, or remove curse. The [[rangoric-srd/monsters/Animate Dream|animate dream]] has it.

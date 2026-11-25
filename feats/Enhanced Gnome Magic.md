@@ -16,4 +16,4 @@ Your ties to the First World manifest in the form of magical abilities that tap 
 
 **Prerequisites**: Cha 13, [[rangoric-srd/skills/Nature|Nature]] 3 ranks, [[rangoric-srd/races/Gnome|gnome]], [[rangoric-srd/races/Gnome|gnome magic]] racial trait.
 
-**Benefit**: Add one of the following to your [[rangoric-srd/races/Gnome|gnome magic]] spell-like abilities: *[[rangoric-srd/spells/Burning Hands|burning hands]]*, *[[rangoric-srd/spells/Corrosive Touch|corrosive touch]]*, *[[rangoric-srd/spells/Gentle Breeze|gentle breeze]]*, *[[rangoric-srd/spells/Icicle Dagger|icicle dagger]]*, or *[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]*. You can use this spell-like ability once per day.
+**Benefit**: Add one of the following to your [[rangoric-srd/races/Gnome|gnome magic]] spell-like abilities: _[[rangoric-srd/spells/Burning Hands|burning hands]]_, _[[rangoric-srd/spells/Corrosive Touch|corrosive touch]]_, _[[rangoric-srd/spells/Gentle Breeze|gentle breeze]]_, _[[rangoric-srd/spells/Icicle Dagger|icicle dagger]]_, or _[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]_. You can use this spell-like ability once per day.

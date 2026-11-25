@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/close]
 
 # Light Spiked Shield
 
-*Martial light melee weapon.* Cost special; Dmg 1d3 (S), 1d4 (M); Critical x2; Weight special; Type Piercing. ^stats
+_Martial light melee weapon._ Cost special; Dmg 1d3 (S), 1d4 (M); Critical x2; Weight special; Type Piercing. ^stats
 
 You can bash with a spiked shield instead of using it for defense. See Armor for details.

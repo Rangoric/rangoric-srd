@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Possessed Shaman
 
-*A [[rangoric-srd/classes/Shaman#^shaman-archetypes|shaman]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Shaman#^shaman-archetypes|shaman]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 For a possessed shaman, merely communing with the spirit world is insufficient. Instead, she invites the spirits to share her body, granting them the chance to experience corporeal existence. In return, they grant her their skills and protect her from otherworldly influence.
 

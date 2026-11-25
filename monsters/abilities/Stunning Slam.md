@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Stunning Slam
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “stunning slam”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “stunning slam”, on the Special Attacks line.
 
 As a standard action, a hekatonkheires may forgo any weapon attacks to make a single slam attack against any creature in reach. If it hits, the target takes damage and must succeed at a DC 41 Fortitude save to avoid being [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d6 rounds. The save DC is Strength-based. The [[rangoric-srd/monsters/titans/Hekatonkheires Titan|hekatonkheires titan]] has it.

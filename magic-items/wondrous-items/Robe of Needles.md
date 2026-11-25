@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This dark, hooded robe has six long, silvery, razor-sharp needles protruding from the bottom of its loose sleeves, three on each side. The wearer can launch one needle as a ranged touch attack. The needle counts as a thrown weapon with a range increment of 10 feet. If the needle hits, it embeds itself in the target's flesh, dealing 1 point of piercing damage and 1 point of [[rangoric-srd/rules/conditions/Bleed (Condition)|bleed]] damage. A creature can pull out the needle as a full-round action, which ends the bleed effect. The needle is destroyed if an attack with it misses or when it is removed from a creature it was embedded in. The robe regrows all spent needles each morning.
 
-Faint evocation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Bleed|bleed]]*; Price 1,000 gp; Cost 500 gp; Weight 4 lbs.
+Faint evocation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Bleed|bleed]]_; Price 1,000 gp; Cost 500 gp; Weight 4 lbs.

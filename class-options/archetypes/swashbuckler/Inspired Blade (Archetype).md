@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Inspired Blade
 
-*A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-archetypes|swashbuckler]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-archetypes|swashbuckler]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 An inspired blade is both a force of personality and a sage of swordplay dedicated to the perfection of combat with the [[rangoric-srd/equipment/weapons/Rapier|rapier]]. They use the science and geometry with swordplay to beautiful and deadly effect.
 
@@ -36,4 +36,4 @@ Unlike other swashbucklers, an inspired blade gains no panache from a killing bl
 
 **Rapier Training (Ex)**: At 5th level, an inspired blade gains a +1 bonus on attack rolls and a +2 bonus on damage rolls with rapiers. While wielding a rapier, she gains the benefit of the [[rangoric-srd/feats/Improved Critical|Improved Critical]] feat. These attack and damage bonuses increase by 1 for every 4 levels beyond 5th (to a maximum of +4 on attack rolls and +5 on damage rolls at 17th level). This ability replaces [[rangoric-srd/classes/Swashbuckler#^swashbuckler-weapon-training|swashbuckler weapon training]].
 
-**Rapier Weapon Mastery (Ex)**: At 20th level, when an inspired blade threatens a critical hit with a rapier, that critical hit is automatically confirmed. Furthermore, the critical threat range increases by 1 (this increase to the critical threat range stacks with the increases from the *[[rangoric-srd/magic-items/weapon-abilities/Keen|keen]]* weapon special ability and similar effects), and the critical modifier of the weapon increases by 1 (×2 becomes ×3, for example). This ability replaces [[rangoric-srd/classes/Swashbuckler#^swashbuckler-weapon-mastery|swashbuckler weapon mastery]].
+**Rapier Weapon Mastery (Ex)**: At 20th level, when an inspired blade threatens a critical hit with a rapier, that critical hit is automatically confirmed. Furthermore, the critical threat range increases by 1 (this increase to the critical threat range stacks with the increases from the _[[rangoric-srd/magic-items/weapon-abilities/Keen|keen]]_ weapon special ability and similar effects), and the critical modifier of the weapon increases by 1 (×2 becomes ×3, for example). This ability replaces [[rangoric-srd/classes/Swashbuckler#^swashbuckler-weapon-mastery|swashbuckler weapon mastery]].

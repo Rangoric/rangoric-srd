@@ -47,28 +47,28 @@ tags: [rangoric, rangoric/monster]
 
 # Nightmare Creature
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 4d8+12 (30 hp)
-  - **Initiative**: +9
-  - **Speed**: 30 ft. (6 squares), climb 30 ft., fly 10 ft. (perfect)
-  - **Armor Class**: 17 (+5 Dex, +2 natural), touch 15, flat-footed 12
-  - **Base Attack**: +3; **CMB**: +5; **CMD**: 20
-  - **Attack**: Bite +5 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or claw +5 melee (1d4+2)
-  - **Full Attack**: Bite +5 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and 2 claws +5 melee (1d4+2)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Nightmare Creature#^night-terrors|Night terrors]] (DC 13), [[rangoric-srd/monsters/abilities/Poison|poison]], traps, [[rangoric-srd/monsters/abilities/Web|web]] (+8 ranged, DC 15, 4 hp), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (good spells and weapons, silver), [[rangoric-srd/monsters/abilities/Fear|fear]] (60 ft., DC 13), [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (30 ft., DC 13), [[rangoric-srd/monsters/Nightmare Creature#^illusion-resistance|illusion resistance]], protection from good, [[rangoric-srd/monsters/Nightmare Creature#^feign-death|feign death]] (DC 13), [[rangoric-srd/monsters/abilities/Spider Empathy|spider empathy]] +7, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good or silver
-  - **Saves**: Fort +6, Ref +6, Will +6
-  - **Abilities**: Str 14, Dex 21, Con 17, Int 8, Wis 15, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +15
-  - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary, pair, or nests (3–6 plus 2–6 giant spiders)
-  - **Challenge Rating**: 4
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 4d8+12 (30 hp)
+- **Initiative**: +9
+- **Speed**: 30 ft. (6 squares), climb 30 ft., fly 10 ft. (perfect)
+- **Armor Class**: 17 (+5 Dex, +2 natural), touch 15, flat-footed 12
+- **Base Attack**: +3; **CMB**: +5; **CMD**: 20
+- **Attack**: Bite +5 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or claw +5 melee (1d4+2)
+- **Full Attack**: Bite +5 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and 2 claws +5 melee (1d4+2)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/Nightmare Creature#^night-terrors|Night terrors]] (DC 13), [[rangoric-srd/monsters/abilities/Poison|poison]], traps, [[rangoric-srd/monsters/abilities/Web|web]] (+8 ranged, DC 15, 4 hp), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (good spells and weapons, silver), [[rangoric-srd/monsters/abilities/Fear|fear]] (60 ft., DC 13), [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (30 ft., DC 13), [[rangoric-srd/monsters/Nightmare Creature#^illusion-resistance|illusion resistance]], protection from good, [[rangoric-srd/monsters/Nightmare Creature#^feign-death|feign death]] (DC 13), [[rangoric-srd/monsters/abilities/Spider Empathy|spider empathy]] +7, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good or silver
+- **Saves**: Fort +6, Ref +6, Will +6
+- **Abilities**: Str 14, Dex 21, Con 17, Int 8, Wis 15, Cha 12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +15
+- **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
+- **Environment**: Temperate forests
+- **Organization**: Solitary, pair, or nests (3–6 plus 2–6 giant spiders)
+- **Challenge Rating**: 4
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The nightmare creature above is a nightmare [[rangoric-srd/monsters/Ettercap|ettercap]].
 
@@ -106,9 +106,9 @@ Nightmare creatures speak Common.
 
 **[[rangoric-srd/monsters/abilities/Frightful Presence|Frightful Presence]] (Su)**: This ability activates when the nightmare creature charges, attacks during a surprise round, or succeeds at a DC 15 Intimidation or Performance check. Its frightful presence has a range of 30 feet. ^frightful-presence
 
-**Night Terrors (Su)**: Once a nightmare creature enters a target's mind with its *[[rangoric-srd/spells/Dream|dream]]* or *[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]* spell-like ability, it can attempt to control the target's dream. If the target fails a Will saving throw, it remains asleep and trapped in the dream world with the nightmare creature. Thereafter, the nightmare creature controls all aspects of the dream. Each hour that passes, the target can attempt another saving throw to try to awaken (it automatically awakens after 8 hours or if the nightmare creature releases it). The target takes 1d4 points of Charisma damage each hour it is trapped in the dream; if it takes any Charisma damage, it is [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] and unable to regain arcane spells for the next 24 hours. The target dies if this Charisma damage equals or exceeds its actual Charisma score. ^night-terrors
+**Night Terrors (Su)**: Once a nightmare creature enters a target's mind with its _[[rangoric-srd/spells/Dream|dream]]_ or _[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]_ spell-like ability, it can attempt to control the target's dream. If the target fails a Will saving throw, it remains asleep and trapped in the dream world with the nightmare creature. Thereafter, the nightmare creature controls all aspects of the dream. Each hour that passes, the target can attempt another saving throw to try to awaken (it automatically awakens after 8 hours or if the nightmare creature releases it). The target takes 1d4 points of Charisma damage each hour it is trapped in the dream; if it takes any Charisma damage, it is [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] and unable to regain arcane spells for the next 24 hours. The target dies if this Charisma damage equals or exceeds its actual Charisma score. ^night-terrors
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]**: A nightmare creature gains the following spell-like abilities: Constant—*[[rangoric-srd/spells/Protection from Good|protection from good]]*; 3/day—*[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]*, *[[rangoric-srd/spells/Dream|dream]]*, *[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]*, *[[rangoric-srd/spells/Suggestion|suggestion]]*; 1/day—*[[rangoric-srd/spells/Shadow Walk|shadow walk]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]**: A nightmare creature gains the following spell-like abilities: Constant—_[[rangoric-srd/spells/Protection from Good|protection from good]]_; 3/day—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_, _[[rangoric-srd/spells/Dream|dream]]_, _[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_; 1/day—_[[rangoric-srd/spells/Shadow Walk|shadow walk]]_.
 
 **Ability Scores**: Dex +4, Int +2, Cha +4.
 
@@ -120,17 +120,17 @@ Nightmare lords are especially powerful nightmare creatures who live in a plane 
 
 **Special Attacks (Su)**: A nightmare lord gains several special attacks.
 
-**Dream Slave (Su)**: Instead of killing a target with its night terror ability, a nightmare lord may instead enslave it with a permanent *[[rangoric-srd/spells/Dominate Monster|dominate monster]]* effect. The enslaved creature is healed of all Charisma damage taken from night terrors. ^dream-slave
+**Dream Slave (Su)**: Instead of killing a target with its night terror ability, a nightmare lord may instead enslave it with a permanent _[[rangoric-srd/spells/Dominate Monster|dominate monster]]_ effect. The enslaved creature is healed of all Charisma damage taken from night terrors. ^dream-slave
 
 **Nightmare Magic (Su)**: The nightmare lord gains a +4 bonus to the DCs of its spells and spell-like abilities of the phantasm and shadow subschools. ^nightmare-magic
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]**: A nightmare lord gains the following spell-like abilities: 3/day—*[[rangoric-srd/spells/Deep Slumber|deep slumber]]*, *[[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Plane Shift|plane shift]]* (from the Material Plane to a plane of dreams or back again), *[[rangoric-srd/spells/Shadow Walk|shadow walk]]*; 1/day—*[[rangoric-srd/spells/Feeblemind|feeblemind]]*, *[[rangoric-srd/spells/Modify Memory|modify memory]]*, *[[rangoric-srd/spells/Shadow Conjuration|shadow conjuration]]*, *[[rangoric-srd/spells/Shadow Evocation|shadow evocation]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]**: A nightmare lord gains the following spell-like abilities: 3/day—_[[rangoric-srd/spells/Deep Slumber|deep slumber]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Plane Shift|plane shift]]_ (from the Material Plane to a plane of dreams or back again), _[[rangoric-srd/spells/Shadow Walk|shadow walk]]_; 1/day—_[[rangoric-srd/spells/Feeblemind|feeblemind]]_, _[[rangoric-srd/spells/Modify Memory|modify memory]]_, _[[rangoric-srd/spells/Shadow Conjuration|shadow conjuration]]_, _[[rangoric-srd/spells/Shadow Evocation|shadow evocation]]_.
 
 **Ability Scores**: Dex +2, Int +2, Cha +2.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +5): Constant—*[[rangoric-srd/spells/Protection from Good|protection from good]]*; 3/day—*[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]* (DC 13), *[[rangoric-srd/spells/Dream|dream]]* (DC 16), *[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]* (DC 16), *[[rangoric-srd/spells/Suggestion|suggestion]]* (DC 14); 1/day—*[[rangoric-srd/spells/Shadow Walk|shadow walk]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +5): Constant—_[[rangoric-srd/spells/Protection from Good|protection from good]]_; 3/day—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 13), _[[rangoric-srd/spells/Dream|dream]]_ (DC 16), _[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]_ (DC 16), _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 14); 1/day—_[[rangoric-srd/spells/Shadow Walk|shadow walk]]_.
 
 **Poison (Ex)**: Bite—injury; save Fort DC 15; frequency 1/round for 10 rounds; effect 1d2 Dex; cure 2 consecutive saves. The save DC is Constitution-based.
 

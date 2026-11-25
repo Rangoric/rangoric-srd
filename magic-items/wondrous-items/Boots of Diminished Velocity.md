@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Boots of Diminished Velocity
 
-Creatures within ten feet of the wearer must make a Will save (DC 16) or be *slowed*, per the spell. Creatures that fail their save are slowed until they leave the area. Those that make their save must save again each round that they remain in the area. The wearer of the boots is immune to slow spells.
+Creatures within ten feet of the wearer must make a Will save (DC 16) or be _slowed_, per the spell. Creatures that fail their save are slowed until they leave the area. Those that make their save must save again each round that they remain in the area. The wearer of the boots is immune to slow spells.
 
-CL 12th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (Transmutation), *[[rangoric-srd/spells/Slow|slow]]*; Price 72,000 gp.
+CL 12th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (Transmutation), _[[rangoric-srd/spells/Slow|slow]]_; Price 72,000 gp.

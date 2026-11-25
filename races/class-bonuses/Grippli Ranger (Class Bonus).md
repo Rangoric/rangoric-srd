@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Grippli Ranger
 
-*A [[rangoric-srd/races/Grippli|grippli]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Ranger#^ranger-class-bonuses|ranger]] level.*
+_A [[rangoric-srd/races/Grippli|grippli]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Ranger#^ranger-class-bonuses|ranger]] level._
 
 Add a +1 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks to [[rangoric-srd/skills/Athletics#Swimming|swim]]. When this bonus reaches +8, the ranger gains a swim speed of 15 feet (this does not grant the ranger another +8 racial bonus on Athletics checks to swim).

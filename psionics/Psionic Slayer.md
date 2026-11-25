@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/overview]
 
 ### Psionic Slayer
 
-Hit Die: d8.  
+Hit Die: d8.
 
 **[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
 
@@ -25,7 +25,7 @@ Hit Die: d8.
 
 ###### Requirements
 
-To qualify to become a psionic slayer, a character must fulfill all the following criteria.  
+To qualify to become a psionic slayer, a character must fulfill all the following criteria.
 
 Base Attack Bonus: +4.
 
@@ -37,19 +37,19 @@ Psionics: Must have a power point reserve of at least 1 power point.
 
 ###### Class Skills
 
-The psionic slayer’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Psionics (Skill)|Psionics]] (Int), and [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis).  
+The psionic slayer’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Psionics (Skill)|Psionics]] (Int), and [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis).
 
 Skill Points at Each Level: 4 + Int modifier.
 
-Table: The Psionic Slayer  
+Table: The Psionic Slayer
 
-| Level | Special                          | Powers Known                            |
-| ----- | -------------------------------- | --------------------------------------- |
+| Level | Special                          | Powers Known                           |
+| ----- | -------------------------------- | -------------------------------------- |
 | 1st   | Favored enemy +2, enemy sense    | -                                      |
 | 2nd   | Brain nausea                     | +1 level of existing manifesting class |
 | 3rd   | Lucid buffer                     | +1 level of existing manifesting class |
 | 4th   | Favored enemy +4                 | +1 level of existing manifesting class |
-| 5th   | -                               | +1 level of existing manifesting class |
+| 5th   | -                                | +1 level of existing manifesting class |
 | 6th   | Cerebral blind                   | +1 level of existing manifesting class |
 | 7th   | Favored enemy +6                 | +1 level of existing manifesting class |
 | 8th   | Breach power resistance          | +1 level of existing manifesting class |
@@ -58,7 +58,7 @@ Table: The Psionic Slayer
 
 ###### Class Features
 
-All the following are class features of the psionic slayer prestige class.  
+All the following are class features of the psionic slayer prestige class.
 
 Weapon and Armor Proficiency: Psionic slayers are proficient with all simple and martial weapons and with all types of armor.
 

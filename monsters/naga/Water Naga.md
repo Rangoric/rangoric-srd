@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Water Naga
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Aquatic)
-  - **Hit Dice**: 8d8+40 (76 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares), swim 50 ft.
-  - **Armor Class**: 20 (+6 Dex, +5 natural, –1 size), touch 15, flat-footed 14
-  - **Base Attack**: +6; **CMB**: +12; **CMD**: 28 (can't be tripped)
-  - **Attack**: Bite +10 melee (2d6+5 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or tail slap +10 melee (1d8+2)
-  - **Full Attack**: Bite +10 melee (2d6+5 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and tail slap +5 melee (1d8+2)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
-  - **Saves**: Fort +7, Ref +10, Will +9
-  - **Abilities**: Str 20, Dex 23, Con 20, Int 11, Wis 17, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +16
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Temperate water
-  - **Organization**: Solitary, pair, or nest (3–4)
-  - **Challenge Rating**: 7
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: 8–10 HD (Large); 11–21 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Aquatic)
+- **Hit Dice**: 8d8+40 (76 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares), swim 50 ft.
+- **Armor Class**: 20 (+6 Dex, +5 natural, –1 size), touch 15, flat-footed 14
+- **Base Attack**: +6; **CMB**: +12; **CMD**: 28 (can't be tripped)
+- **Attack**: Bite +10 melee (2d6+5 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or tail slap +10 melee (1d8+2)
+- **Full Attack**: Bite +10 melee (2d6+5 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and tail slap +5 melee (1d8+2)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
+- **Saves**: Fort +7, Ref +10, Will +9
+- **Abilities**: Str 20, Dex 23, Con 20, Int 11, Wis 17, Cha 18
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +16
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Temperate water
+- **Organization**: Solitary, pair, or nest (3–4)
+- **Challenge Rating**: 7
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: 8–10 HD (Large); 11–21 HD (Huge)
+- **Level Adjustment**: —
 
 With mottled scales of blue and green, water nagas' serpentine beauty belies their deadliness. Although doubtlessly intelligent, these nagas have more in common with normal snakes than most of their kind, preferring to be left to their own devices and lashing out at any creatures that would disturb them. A typical water naga measures 10 feet long and weighs 250 pounds.
 
@@ -78,6 +78,6 @@ Water nagas prefer to stay mostly concealed in a body of water while they launch
 
 **Spells**: A water naga casts spells as a 7th-level [[rangoric-srd/classes/Sorcerer|sorcerer]] but never uses fire spells.
 
-**Spells known** (CL 7th; concentration +11): 3rd (5/day)—*[[rangoric-srd/spells/Protection from Energy|protection from energy]]*, *[[rangoric-srd/spells/Suggestion|suggestion]]* (DC 17); 2nd (7/day)—*[[rangoric-srd/spells/Acid Arrow|acid arrow]]*, *[[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Mirror Image|mirror image]]*; 1st (7/day)—*[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]*, *[[rangoric-srd/spells/Magic Missile|magic missile]]*, *[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]*, *[[rangoric-srd/spells/Shield|shield]]*, *[[rangoric-srd/spells/True Strike|true strike]]*; 0 (at will)—*[[rangoric-srd/spells/Acid Splash|acid splash]]*, *[[rangoric-srd/spells/Daze|daze]]* (DC 14), *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Light|light]]*, *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Open-Close|open/close]]*, *[[rangoric-srd/spells/Read Magic|read magic]]*.
+**Spells known** (CL 7th; concentration +11): 3rd (5/day)—_[[rangoric-srd/spells/Protection from Energy|protection from energy]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 17); 2nd (7/day)—_[[rangoric-srd/spells/Acid Arrow|acid arrow]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Mirror Image|mirror image]]_; 1st (7/day)—_[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_, _[[rangoric-srd/spells/Shield|shield]]_, _[[rangoric-srd/spells/True Strike|true strike]]_; 0 (at will)—_[[rangoric-srd/spells/Acid Splash|acid splash]]_, _[[rangoric-srd/spells/Daze|daze]]_ (DC 14), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Open-Close|open/close]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Water Naga Venom|Water Naga Venom]]: Bite—injury; *save* Fort DC 19; *frequency* 1/round for 6 rounds; *effect* 1d2 Con; *cure* 2 saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Water Naga Venom|Water Naga Venom]]: Bite—injury; _save_ Fort DC 19; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con; _cure_ 2 saves.

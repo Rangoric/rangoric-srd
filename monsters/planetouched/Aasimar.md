@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Aasimar
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native)
-  - **Hit Dice**: 1d8+3 (11 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares) (20 ft. in armor)
-  - **Armor Class**: 15 (+5 armor), touch 10, flat-footed 15
-  - **Base Attack**: +0; **CMB**: –1; **CMD**: 9
-  - **Attack**: [[rangoric-srd/equipment/weapons/Heavy Mace|Heavy mace]] –1 melee (1d8–1) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +0 ranged (1d8/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Heavy Mace|Heavy mace]] –1 melee (1d8–1); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +0 ranged (1d8/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel positive energy]] (5/day, 1d6, DC 12), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|turn undead]], [[rangoric-srd/class-options/domains/Healing Domain|rebuke death]] (1d4+1, 6/day), [[rangoric-srd/class-options/domains/Good Domain|touch of good]] (6/day), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5, cold 5 and electricity 5
-  - **Saves**: Fort +4, Ref +0, Will +5
-  - **Abilities**: Str 8, Dex 10, Con 14, Int 13, Wis 17, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Medicine|Medicine]] +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Theology|Theology]] +5
-  - **Feats**: [[rangoric-srd/feats/Turn Undead|Turn Undead]]
-  - **Environment**: Any land
-  - **Organization**: Solitary, pair, or team (3–6)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: NPC gear (scale mail, heavy mace, light crossbow with 10 bolts, other treasure)
-  - **Alignment**: Usually neutral good
-  - **Advancement**: By character class
-  - **Level Adjustment**: +1
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native)
+- **Hit Dice**: 1d8+3 (11 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares) (20 ft. in armor)
+- **Armor Class**: 15 (+5 armor), touch 10, flat-footed 15
+- **Base Attack**: +0; **CMB**: –1; **CMD**: 9
+- **Attack**: [[rangoric-srd/equipment/weapons/Heavy Mace|Heavy mace]] –1 melee (1d8–1) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +0 ranged (1d8/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Heavy Mace|Heavy mace]] –1 melee (1d8–1); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +0 ranged (1d8/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel positive energy]] (5/day, 1d6, DC 12), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|turn undead]], [[rangoric-srd/class-options/domains/Healing Domain|rebuke death]] (1d4+1, 6/day), [[rangoric-srd/class-options/domains/Good Domain|touch of good]] (6/day), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5, cold 5 and electricity 5
+- **Saves**: Fort +4, Ref +0, Will +5
+- **Abilities**: Str 8, Dex 10, Con 14, Int 13, Wis 17, Cha 14
+- **Skills**: [[rangoric-srd/skills/Medicine|Medicine]] +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Theology|Theology]] +5
+- **Feats**: [[rangoric-srd/feats/Turn Undead|Turn Undead]]
+- **Environment**: Any land
+- **Organization**: Solitary, pair, or team (3–6)
+- **Challenge Rating**: 1/2
+- **Treasure**: NPC gear (scale mail, heavy mace, light crossbow with 10 bolts, other treasure)
+- **Alignment**: Usually neutral good
+- **Advancement**: By character class
+- **Level Adjustment**: +1
 
 Aasimars are humans with a significant amount of celestial or other good outsider blood in their ancestry. Aasimars are not always good, but it is a natural tendency for them, and they gravitate to good faiths or organizations associated with celestials. Aasimar heritage can hide for generations, only to appear suddenly in the child of two apparently human parents. Most societies interpret aasimar births as good omens. Aasimars look mostly human except for some minor physical trait that reveals their unusual heritage. Typical aasimar features are hair that shines like metal, unusual eye or skin color, or even glowing golden halos.
 
@@ -78,9 +78,9 @@ Aasimars speak Celestial, Common and Draconic.
 
 Aasimars usually like a fair, straightforward contest. Against a particularly evil foe, however, they fight with utter conviction and to the death.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st): 1/day—*[[rangoric-srd/spells/Daylight|daylight]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st): 1/day—_[[rangoric-srd/spells/Daylight|daylight]]_.
 
-**Spells prepared** (CL 1st): 1st—*[[rangoric-srd/spells/Bless|bless]]*, *[[rangoric-srd/spells/Command|command]]* (DC 14), *[[rangoric-srd/spells/Protection from Evil|protection from evil]]* <sup>D</sup>; 0 (at will)—*[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Guidance|guidance]]*, *[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]*; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Good Domain|Good]], [[rangoric-srd/class-options/domains/Healing Domain|Healing]].
+**Spells prepared** (CL 1st): 1st—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Command|command]]_ (DC 14), _[[rangoric-srd/spells/Protection from Evil|protection from evil]]_ <sup>D</sup>; 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Good Domain|Good]], [[rangoric-srd/class-options/domains/Healing Domain|Healing]].
 
 ## Aasimar as Characters
 

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Maftet
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
-  - **Hit Dice**: 8d10+24 (68 hp)
-  - **Initiative**: +3
-  - **Speed**: 40 ft. (8 squares), fly 60 ft. (poor)
-  - **Armor Class**: 20 (+4 armor, +3 Dex, +3 natural), touch 13, flat-footed 17
-  - **Base Attack**: +8; **CMB**: +11; **CMD**: 24
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +11 melee (1d6+3/18–20)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +11/+11/+6/+6 melee (1d6+3/18–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Paired Weapons|Paired weapons]], [[rangoric-srd/monsters/abilities/Raptor Dive|raptor dive]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Runic Tattoos|runic tattoos]]
-  - **Saves**: Fort +5, Ref +9, Will +8
-  - **Abilities**: Str 16, Dex 17, Con 16, Int 10, Wis 15, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +18
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (scimitar)
-  - **Environment**: Temperate and warm deserts and mountains
-  - **Organization**: Solitary, pair, or pride (6–10)
-  - **Challenge Rating**: 6
-  - **Treasure**: Standard (2 masterwork scimitars, other treasure)
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
+- **Hit Dice**: 8d10+24 (68 hp)
+- **Initiative**: +3
+- **Speed**: 40 ft. (8 squares), fly 60 ft. (poor)
+- **Armor Class**: 20 (+4 armor, +3 Dex, +3 natural), touch 13, flat-footed 17
+- **Base Attack**: +8; **CMB**: +11; **CMD**: 24
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +11 melee (1d6+3/18–20)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitar]] +11/+11/+6/+6 melee (1d6+3/18–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Paired Weapons|Paired weapons]], [[rangoric-srd/monsters/abilities/Raptor Dive|raptor dive]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Runic Tattoos|runic tattoos]]
+- **Saves**: Fort +5, Ref +9, Will +8
+- **Abilities**: Str 16, Dex 17, Con 16, Int 10, Wis 15, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +18
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (scimitar)
+- **Environment**: Temperate and warm deserts and mountains
+- **Organization**: Solitary, pair, or pride (6–10)
+- **Challenge Rating**: 6
+- **Treasure**: Standard (2 masterwork scimitars, other treasure)
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Dwelling in crumbling ruins and lost cities, maftets are a race of winged feline humanoids. Accomplished hunters and stalkers, maftets are highly skilled in fighting with dual scimitars.
 
@@ -73,7 +73,7 @@ Maftets speak Common and Sphinx.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +8): Constant—*[[rangoric-srd/spells/Mage Armor|mage armor]]*; 3/day—*[[rangoric-srd/spells/Magic Weapon|magic weapon]]*; 1/day—*[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*, *[[rangoric-srd/spells/Protection from Evil|protection from evil]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +8): Constant—_[[rangoric-srd/spells/Mage Armor|mage armor]]_; 3/day—_[[rangoric-srd/spells/Magic Weapon|magic weapon]]_; 1/day—_[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/Protection from Evil|protection from evil]]_.
 
 **[[rangoric-srd/monsters/abilities/Paired Weapons|Paired Weapons]] (Ex)**: Because of its intense training wielding a scimitar in each hand, a maftet's off-hand scimitar is treated as a light weapon.
 

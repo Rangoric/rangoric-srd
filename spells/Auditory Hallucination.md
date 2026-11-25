@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Auditory Hallucination
 
-*Illusion (Phantasm) \[MindAffecting\]*
+_Illusion (Phantasm) \[MindAffecting\]_
 
-  - **Level**: Brd 1, Mag 1, Med 1, Mes 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1
-  - **Components**: S
-  - **Casting Time**: 1 standard action
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Target**: One creature/level, no two of which can be more than 30 ft. apart
-  - **Duration**: Concentration
-  - **Saving Throw**: Will disbelief
-  - **Spell Resistance**: Yes
+- **Level**: Brd 1, Mag 1, Med 1, Mes 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1
+- **Components**: S
+- **Casting Time**: 1 standard action
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Target**: One creature/level, no two of which can be more than 30 ft. apart
+- **Duration**: Concentration
+- **Saving Throw**: Will disbelief
+- **Spell Resistance**: Yes
 
 You cause the targets to believe they hear any sound you imagine. The sound can include intelligible speech. Instead of precisely imagining a sound, you can identify a sound the subjects know and they imagine it doing what you describe as you cast the spell. For example, you could cast this spell on orc warriors and have them imagine the sound of their chieftain calling for help, even if you've never heard their chieftain and even if the chieftain speaks in a language you don't understand. All targets hear the same hallucination. You can change the sound as part of concentrating on the spell.

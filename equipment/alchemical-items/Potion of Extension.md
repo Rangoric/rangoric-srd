@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Potion of Extension
 
-*Ingestible; Special*
+_Ingestible; Special_
 
 The user can drink this nonmagical potion while under the influence of a magical potion to add 50% more time to the duration of the extant potion’s effects. This alchemical potion (inert by itself) interacts with the chymicals of the original potion to retain and restore their magical energy. This potion does not extend the durations or effects of nonmagical potions.
 

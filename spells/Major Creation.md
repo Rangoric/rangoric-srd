@@ -23,14 +23,14 @@ tags: [rangoric, rangoric/spell]
 
 # Major Creation
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Occ 4, Psy 5, Sor/Wiz 5, Sum 4, SumU 4, Wit 5
-  - **Casting Time**: 10 minutes
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Duration**: See text
+- **Level**: Occ 4, Psy 5, Sor/Wiz 5, Sum 4, SumU 4, Wit 5
+- **Casting Time**: 10 minutes
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Duration**: See text
 
-*This spell functions like [[rangoric-srd/spells/Minor Creation|minor creation]], except that you can also create an object of mineral nature*: stone, crystal, metal, or the like. The duration of the created item varies with its relative hardness and rarity, as indicated on the following table.
+_This spell functions like [[rangoric-srd/spells/Minor Creation|minor creation]], except that you can also create an object of mineral nature_: stone, crystal, metal, or the like. The duration of the created item varies with its relative hardness and rarity, as indicated on the following table.
 
 | Hardness and Rarity Examples | Duration      |
 | ---------------------------- | ------------- |
@@ -40,4 +40,4 @@ tags: [rangoric, rangoric/spell]
 | Gems                         | 10 min./level |
 | Rare metal (1)               | 1 round/level |
 
-1 *Includes adamantine, alchemical silver, and mithral. You can’t use major creation to create a cold iron item.*
+1 _Includes adamantine, alchemical silver, and mithral. You can’t use major creation to create a cold iron item._

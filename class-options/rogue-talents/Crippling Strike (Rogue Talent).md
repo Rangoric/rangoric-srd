@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Crippling Strike
 
-*An [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talent]] (Ex). It adds to sneak attack: only one such talent applies to an attack (see [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]]).*
+_An [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talent]] (Ex). It adds to sneak attack: only one such talent applies to an attack (see [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]])._
 
 A rogue with this ability can sneak attack opponents with such precision that her blows weaken and hamper them. An opponent damaged by one of her sneak attacks also takes 2 points of Strength damage.

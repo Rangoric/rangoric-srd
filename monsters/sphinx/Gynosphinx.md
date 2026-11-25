@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Gynosphinx
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 8d10+8 (52 hp)
-  - **Initiative**: +5
-  - **Speed**: 40 ft. (8 squares), fly 60 ft. (poor)
-  - **Armor Class**: 21 (–1 size, +1 Dex, +11 natural), touch 10, flat-footed 20
-  - **Base Attack**: +8; **CMB**: +13; **CMD**: 24 (28 vs. trip)
-  - **Attack**: Claw +11 melee (1d6+4)
-  - **Full Attack**: 2 claws +11 melee (1d6+4)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] 1d6+2, spell-like abilities
-  - **Special Qualities**: Darkvision 60 ft., low-light vision
-  - **Saves**: Fort +7, Ref +7, Will +8
-  - **Abilities**: Str 19, Dex 12, Con 13, Int 18, Wis 19, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Imitation|Imitation]] +15 (+17 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]]
-  - **Environment**: Warm deserts
-  - **Organization**: Solitary or covey (2–4)
-  - **Challenge Rating**: 8
-  - **Treasure**: Double standard
-  - **Alignment**: Always neutral
-  - **Advancement**: 9–12 HD (Large); 13–24 HD (Huge)
-  - **Level Adjustment**: +4 (cohort)
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 8d10+8 (52 hp)
+- **Initiative**: +5
+- **Speed**: 40 ft. (8 squares), fly 60 ft. (poor)
+- **Armor Class**: 21 (–1 size, +1 Dex, +11 natural), touch 10, flat-footed 20
+- **Base Attack**: +8; **CMB**: +13; **CMD**: 24 (28 vs. trip)
+- **Attack**: Claw +11 melee (1d6+4)
+- **Full Attack**: 2 claws +11 melee (1d6+4)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] 1d6+2, spell-like abilities
+- **Special Qualities**: Darkvision 60 ft., low-light vision
+- **Saves**: Fort +7, Ref +7, Will +8
+- **Abilities**: Str 19, Dex 12, Con 13, Int 18, Wis 19, Cha 19
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Imitation|Imitation]] +15 (+17 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]]
+- **Environment**: Warm deserts
+- **Organization**: Solitary or covey (2–4)
+- **Challenge Rating**: 8
+- **Treasure**: Double standard
+- **Alignment**: Always neutral
+- **Advancement**: 9–12 HD (Large); 13–24 HD (Huge)
+- **Level Adjustment**: +4 (cohort)
 
 These sphinxes are the female counterparts of androsphinxes.
 
@@ -69,10 +69,10 @@ In close combat, gynosphinxes use their powerful claws to flay the flesh from th
 
 **Rake (Ex)**: Attack bonus +11 melee, damage 1d6+2.
 
-**Spell-Like Abilities**: Caster level 14th. The save DC is Charisma-based.  
+**Spell-Like Abilities**: Caster level 14th. The save DC is Charisma-based.
 
-3/day - [[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]], [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Read Magic|read magic]], [[rangoric-srd/spells/See Invisibility|see invisibility]];  
+3/day - [[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]], [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Read Magic|read magic]], [[rangoric-srd/spells/See Invisibility|see invisibility]];
 
-1/day - [[rangoric-srd/spells/Comprehend Languages|comprehend languages]], [[rangoric-srd/spells/Locate Object|locate object]], [[rangoric-srd/spells/Dispel Magic|dispel magic]], [[rangoric-srd/spells/Remove Curse|remove curse]] (DC 18), [[rangoric-srd/spells/Legend Lore|legend lore]].  
+1/day - [[rangoric-srd/spells/Comprehend Languages|comprehend languages]], [[rangoric-srd/spells/Locate Object|locate object]], [[rangoric-srd/spells/Dispel Magic|dispel magic]], [[rangoric-srd/spells/Remove Curse|remove curse]] (DC 18), [[rangoric-srd/spells/Legend Lore|legend lore]].
 
 Once per week a gynosphinx can create a [[rangoric-srd/spells/Symbol of Death|symbol of death]], a [[rangoric-srd/spells/Symbol of Fear|symbol of fear]], a [[rangoric-srd/spells/Symbol of Insanity|symbol of insanity]], a [[rangoric-srd/spells/Symbol of Pain|symbol of pain]], a [[rangoric-srd/spells/Symbol of Persuasion|symbol of persuasion]], a [[rangoric-srd/spells/Symbol of Sleep|symbol of sleep]], and a [[rangoric-srd/spells/Symbol of Stunning|symbol of stunning]] as the spells (caster level 18th), except that all save DCs are 22 and each symbol remains a maximum of one week once scribed. The save DCs are Charisma-based.

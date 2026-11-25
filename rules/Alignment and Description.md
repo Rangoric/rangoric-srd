@@ -110,19 +110,19 @@ Alternatively, roll the dice given for your class group in your race’s startin
 
 **Starting Age Groups** ^starting-age-groups
 
-| Group | Classes |
-| --- | --- |
-| Intuitive | Barbarian, bloodrager, ninja, rogue, skald, sorcerer |
+| Group       | Classes                                                                                                      |
+| ----------- | ------------------------------------------------------------------------------------------------------------ |
+| Intuitive   | Barbarian, bloodrager, ninja, rogue, skald, sorcerer                                                         |
 | Self-Taught | Antipaladin, bard, brawler, cavalier, fighter, hunter, paladin, ranger, samurai, slayer, swashbuckler, witch |
-| Trained | Arcanist, cleric, druid, monk, shaman, unchained monk, wizard |
+| Trained     | Arcanist, cleric, druid, monk, shaman, unchained monk, wizard                                                |
 
 With age, a character’s physical ability scores decrease and his or her mental ability scores increase. The effects of each aging step are cumulative. However, none of a character’s ability scores can be reduced below 1 in this way. Each race gives the age at which its members reach each step.
 
 **Aging Effects** ^aging-effects
 
-- *Middle age*: –1 to Str, Dex, and Con; +1 to Int, Wis, and Cha.
-- *Old*: –2 to Str, Dex, and Con; +1 to Int, Wis, and Cha.
-- *Venerable*: –3 to Str, Dex, and Con; +1 to Int, Wis, and Cha.
+- _Middle age_: –1 to Str, Dex, and Con; +1 to Int, Wis, and Cha.
+- _Old_: –2 to Str, Dex, and Con; +1 to Int, Wis, and Cha.
+- _Venerable_: –3 to Str, Dex, and Con; +1 to Int, Wis, and Cha.
 
 When a character reaches venerable age, secretly roll his or her maximum age, which is the race’s venerable age plus the result of the dice roll given as the race’s maximum age, and record the result, which the player does not know. A character who reaches his or her maximum age dies of old age at some time during the following year.
 

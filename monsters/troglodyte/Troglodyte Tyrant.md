@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Troglodyte Tyrant
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Reptilian)
-  - **Hit Dice**: 9d8+2d10+84 (135 hp)
-  - **Initiative**: +2
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 24 (+8 armor, +6 natural), touch 10, flat-footed 24
-  - **Base Attack**: +8; **CMB**: +13; **CMD**: 25
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Battleaxe|battleaxe]] +15 melee (1d8+6/×3) or bite +13 melee (1d4+5) or claw +13 melee (1d4+5) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +10 ranged (1d6+5)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Battleaxe|battleaxe]] +15/+10 melee (1d8+6/×3) and bite +8 melee (1d4+2) and claw +8 melee (1d4+2); or bite +13 melee (1d4+5) and 2 claws +13 melee (1d4+5); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +10/+5 ranged (1d6+5)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 5/day (DC 15, 4d6), [[rangoric-srd/class-options/domains/Demon Subdomain|fury of the Abyss]] (+3, 8/day), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Strength Domain|feat of strength]] (+7 Str, 1/day)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft., [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., DC 21, 10 rounds), [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1
-  - **Saves**: Fort +17, Ref +6, Will +10 (+1 vs. fear)
-  - **Abilities**: Str 20, Dex 15, Con 22, Int 14, Wis 20, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +0 (+4 in rocky areas), [[rangoric-srd/skills/Theology|Theology]] +13
-  - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (stench), [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Selective Channeling|Selective Channeling]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (battleaxe)
-  - **Environment**: Any underground
-  - **Organization**: Solitary, or with other troglodytes (see [[rangoric-srd/monsters/troglodyte/Troglodyte|Troglodyte]])
-  - **Challenge Rating**: 10
-  - **Treasure**: NPC gear (combat gear: potions of cure moderate wounds (2), wand of bear's endurance (6 charges); other gear: masterwork half-plate, +1 battleaxe, javelins (6), belt of giant strength +2, headband of inspired wisdom +2, gold crown set with jet and bloodstones (worth 500 gp), 44 gp)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Reptilian)
+- **Hit Dice**: 9d8+2d10+84 (135 hp)
+- **Initiative**: +2
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 24 (+8 armor, +6 natural), touch 10, flat-footed 24
+- **Base Attack**: +8; **CMB**: +13; **CMD**: 25
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Battleaxe|battleaxe]] +15 melee (1d8+6/×3) or bite +13 melee (1d4+5) or claw +13 melee (1d4+5) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +10 ranged (1d6+5)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Battleaxe|battleaxe]] +15/+10 melee (1d8+6/×3) and bite +8 melee (1d4+2) and claw +8 melee (1d4+2); or bite +13 melee (1d4+5) and 2 claws +13 melee (1d4+5); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +10/+5 ranged (1d6+5)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 5/day (DC 15, 4d6), [[rangoric-srd/class-options/domains/Demon Subdomain|fury of the Abyss]] (+3, 8/day), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Strength Domain|feat of strength]] (+7 Str, 1/day)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft., [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., DC 21, 10 rounds), [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1
+- **Saves**: Fort +17, Ref +6, Will +10 (+1 vs. fear)
+- **Abilities**: Str 20, Dex 15, Con 22, Int 14, Wis 20, Cha 14
+- **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +0 (+4 in rocky areas), [[rangoric-srd/skills/Theology|Theology]] +13
+- **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (stench), [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Selective Channeling|Selective Channeling]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (battleaxe)
+- **Environment**: Any underground
+- **Organization**: Solitary, or with other troglodytes (see [[rangoric-srd/monsters/troglodyte/Troglodyte|Troglodyte]])
+- **Challenge Rating**: 10
+- **Treasure**: NPC gear (combat gear: potions of cure moderate wounds (2), wand of bear's endurance (6 charges); other gear: masterwork half-plate, +1 battleaxe, javelins (6), belt of giant strength +2, headband of inspired wisdom +2, gold crown set with jet and bloodstones (worth 500 gp), 44 gp)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A troglodyte tyrant is a [[rangoric-srd/monsters/troglodyte/Troglodyte|troglodyte]] with 7 levels of [[rangoric-srd/classes/Cleric|cleric]] and 2 levels of [[rangoric-srd/classes/Fighter|fighter]]. Troglodyte tyrants are sovereigns of advanced troglodyte societies found in the lowest depths of the world's subterranean wilderness.
 
@@ -79,4 +79,4 @@ A troglodyte tyrant speaks Abyssal, Draconic, and Undercommon.
 
 **Domain Spell-Like Abilities** (CL 7th; concentration +12): 8/day—[[rangoric-srd/class-options/domains/Strength Domain|strength surge]] (+3).
 
-**Cleric spells prepared** (CL 7th; concentration +12): 4th—*[[rangoric-srd/spells/Divine Power|divine power]]*, *[[rangoric-srd/spells/Mark of the Reptile God|mark of the reptile god]]* (DC 19), *[[rangoric-srd/spells/Unholy Blight|unholy blight]]* <sup>D</sup> (DC 19); 3rd—*[[rangoric-srd/spells/Bestow Curse|bestow curse]]* (DC 18), *[[rangoric-srd/spells/Prayer|prayer]]*, *[[rangoric-srd/spells/Rage|rage]]* <sup>D</sup>, *[[rangoric-srd/spells/Searing Light|searing light]]*; 2nd—*[[rangoric-srd/spells/Amplify Stench|amplify stench]]*, *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]* <sup>D</sup>, *[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]*, *[[rangoric-srd/spells/Hold Person|hold person]]* (DC 17), *[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]*; 1st—*[[rangoric-srd/spells/Bless|bless]]*, *[[rangoric-srd/spells/Command|command]]* (DC 16), *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]* (3), *[[rangoric-srd/spells/Entropic Shield|entropic shield]]*, *[[rangoric-srd/spells/Protection from Good|protection from good]]* <sup>D</sup>; 0 (at will)—*[[rangoric-srd/spells/Bleed|bleed]]* (DC 15), *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Guidance|guidance]]*, *[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]*; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Evil Domain|Evil]] ([[rangoric-srd/class-options/domains/Demon Subdomain|Demon subdomain]]), [[rangoric-srd/class-options/domains/Strength Domain|Strength]].
+**Cleric spells prepared** (CL 7th; concentration +12): 4th—_[[rangoric-srd/spells/Divine Power|divine power]]_, _[[rangoric-srd/spells/Mark of the Reptile God|mark of the reptile god]]_ (DC 19), _[[rangoric-srd/spells/Unholy Blight|unholy blight]]_ <sup>D</sup> (DC 19); 3rd—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (DC 18), _[[rangoric-srd/spells/Prayer|prayer]]_, _[[rangoric-srd/spells/Rage|rage]]_ <sup>D</sup>, _[[rangoric-srd/spells/Searing Light|searing light]]_; 2nd—_[[rangoric-srd/spells/Amplify Stench|amplify stench]]_, _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_ <sup>D</sup>, _[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]_, _[[rangoric-srd/spells/Hold Person|hold person]]_ (DC 17), _[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]_; 1st—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Command|command]]_ (DC 16), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_ (3), _[[rangoric-srd/spells/Entropic Shield|entropic shield]]_, _[[rangoric-srd/spells/Protection from Good|protection from good]]_ <sup>D</sup>; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 15), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Evil Domain|Evil]] ([[rangoric-srd/class-options/domains/Demon Subdomain|Demon subdomain]]), [[rangoric-srd/class-options/domains/Strength Domain|Strength]].

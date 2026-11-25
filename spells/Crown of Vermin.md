@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 # Crown of Vermin
 
-Conjuration (Summoning)   
+Conjuration (Summoning)  
 Casting DC: 56  
 Components: V, S  
 Casting Time: 1 minute  
@@ -33,7 +33,7 @@ Effect: Aura of one thousand insects that surrounds you in a 10-ft.-radius sprea
 Duration: 20 rounds (D)  
 Saving Throw: None (see text)  
 Spell Resistance: No  
-To Develop: 504,000 gp; 11 days; 20,160 XP. Seeds: summon (DC 14), fortify (DC 17). Factors: summon vermin mass instead of one creature (ad hoc +8 DC), grant damage reduction 1/epic (+15 DC), allow mass to move at your speed (ad hoc +2 DC), perfect control of vermin (ad hoc +2 DC). Mitigating factor: change range to personal (-2 DC).  
+To Develop: 504,000 gp; 11 days; 20,160 XP. Seeds: summon (DC 14), fortify (DC 17). Factors: summon vermin mass instead of one creature (ad hoc +8 DC), grant damage reduction 1/epic (+15 DC), allow mass to move at your speed (ad hoc +2 DC), perfect control of vermin (ad hoc +2 DC). Mitigating factor: change range to personal (-2 DC).
 
 After casting crown of vermin, one thousand venomous, biting and stinging spiders, scorpions, beetles, and centipedes erupt from the very air around the character. This swarm forms a living aura around the character to a radius of 10 feet. The character is immune to his or her own crown of vermin. The swarm goes where the character goes at his or her speed, even if the character takes to the air or water (though water drowns the vermin after 1 full round of immersion, unless the spell is cast underwater, in which case aquatic or marine vermin answer the call and cannot leave the water). Each vermin in the crown of vermin bites a creature who enters the area occupied by the effect (or the character forces the effect into an area occupied by another creature) for 1 point of damage, and then dies. Each victim takes enough points of damage to kill it, destroying that number of vermin in the process. Victims get a Reflex saving throw each round to avoid the full press, and if successful, take only 10d10 bites (and 10d10 points of damage). A total of 1,000 points of damage can be dealt to those who fall prey to the crown of vermin. The vermin have damage reduction 1/epic, so the vermin’s natural weapons are treated as epic for the purpose of overcoming damage reduction. If there aren’t enough vermin to kill all the creatures in the spell’s effect, the creature with the fewest hit points is affected first, then the creature with the second fewest hit points, and so on. After all creatures that can be killed have been killed, any remaining damage is distributed among the survivors equally.
 

@@ -18,16 +18,16 @@ tags: [rangoric, rangoric/class-option]
 
 # Toxic Infusion, Greater
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|substance infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|substance infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Wood Element|wood]]
-  - **Type**: substance infusion
-  - **Level**: 7
-  - **Burn**: 4
-  - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Toxic Infusion|toxic infusion]]
-  - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Autumn Blast|autumn]], [[rangoric-srd/class-options/wild-talents/Spring Blast|spring]], [[rangoric-srd/class-options/wild-talents/Summer Blast|summer]], [[rangoric-srd/class-options/wild-talents/Verdant Blast|verdant]], [[rangoric-srd/class-options/wild-talents/Winter Blast|winter]], [[rangoric-srd/class-options/wild-talents/Wood Blast|wood]]
-  - **Saving Throw**: Fortitude negates
+- **Element**: [[rangoric-srd/class-options/elements/Wood Element|wood]]
+- **Type**: substance infusion
+- **Level**: 7
+- **Burn**: 4
+- **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Toxic Infusion|toxic infusion]]
+- **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Autumn Blast|autumn]], [[rangoric-srd/class-options/wild-talents/Spring Blast|spring]], [[rangoric-srd/class-options/wild-talents/Summer Blast|summer]], [[rangoric-srd/class-options/wild-talents/Verdant Blast|verdant]], [[rangoric-srd/class-options/wild-talents/Winter Blast|winter]], [[rangoric-srd/class-options/wild-talents/Wood Blast|wood]]
+- **Saving Throw**: Fortitude negates
 
 Your plant toxin is more virulent. Each time you use this infusion, choose a physical ability score. Creatures that take piercing or slashing damage from your blast are exposed to your [[rangoric-srd/rules/Afflictions#Poison|poison]].
 
-*Blast*—injury; *save* Fort; *frequency* 1/round for 6 rounds; *effect* 1d2 damage to the chosen ability score; *cure* 2 consecutive saves.
+_Blast_—injury; _save_ Fort; _frequency_ 1/round for 6 rounds; _effect_ 1d2 damage to the chosen ability score; _cure_ 2 consecutive saves.

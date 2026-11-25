@@ -23,12 +23,12 @@ While the location and ownership of a given establishment can change from time t
 
 **Personalities:** [[rangoric-srd/flavor/the-fey-realm/personalities/Sidhnaar DiCrystala|Sidhnaar DiCrystala]], Master of Tolls
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* Everything from the mortal worlds can be found here at one time or another.
+_Common:_ Everything from the mortal worlds can be found here at one time or another.
 
-*Uncommon:* Professional [[rangoric-srd/races/Bogie|bogie]] procurers obtain nearly everything in Market, whether they must beg, barter or steal to obtain their wares.
+_Uncommon:_ Professional [[rangoric-srd/races/Bogie|bogie]] procurers obtain nearly everything in Market, whether they must beg, barter or steal to obtain their wares.
 
-*Rare:* -
+_Rare:_ -
 
-*Obscure:* -
+_Obscure:_ -

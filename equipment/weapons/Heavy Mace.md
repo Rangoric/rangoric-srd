@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/weapon, weapon-group/hammers]
 
 # Heavy Mace
 
-*Simple one-handed melee weapon.* Cost 12 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Weight 8 lb.; Type Bludgeoning. ^stats
+_Simple one-handed melee weapon._ Cost 12 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Weight 8 lb.; Type Bludgeoning. ^stats

@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Jinushigami
 
-  - Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Earth, Kami, Native)
-  - **Hit Dice**: 24d10+216 (348 hp)
-  - **Initiative**: +11
-  - **Speed**: 50 ft. (10 squares), burrow 40 ft.; earth glide
-  - **Armor Class**: 34 (+7 Dex, +1 dodge, +20 natural, –4 size), touch 14, flat-footed 26
-  - **Base Attack**: +24; **CMB**: +37 (+39 bull rush and overrun); **CMD**: 55 (57 vs. bull rush and overrun)
-  - **Attack**: +5 [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] +32 melee (3d6+14) or +5 [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] +32 melee (3d6+9) or slam +29 melee (2d10+9)
-  - **Full Attack**: +5 [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] +32/+27/+22/+17 melee (3d6+14) and +5 [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] +32 melee (3d6+9); or 2 slams +29 melee (2d10+9)
-  - **Space/Reach**: 20 ft./20 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., true seeing, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 20, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 300 ft., [[rangoric-srd/monsters/abilities/Infused Quarterstaff|infused quarterstaff]], [[rangoric-srd/monsters/abilities/Manipulate Terrain|manipulate terrain]], merge with [[rangoric-srd/monsters/abilities/Ward|ward]], [[rangoric-srd/monsters/abilities/Ward|ward]] (region), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/cold iron and bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to bleed, mind-affecting effects, petrification and polymorph, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 31
-  - **Saves**: Fort +25, Ref +17, Will +23
-  - **Abilities**: Str 28, Dex 25, Con 28, Int 23, Wis 24, Cha 31
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +31, [[rangoric-srd/skills/Athletics|Athletics]] +9 (+17 jumping), [[rangoric-srd/skills/Deception|Deception]] +37, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +31, [[rangoric-srd/skills/Intimidation|Intimidation]] +34, [[rangoric-srd/skills/Medicine|Medicine]] +34, [[rangoric-srd/skills/Mysticism|Mysticism]] +33, [[rangoric-srd/skills/Nature|Nature]] +33, [[rangoric-srd/skills/Perception|Perception]] +40, [[rangoric-srd/skills/Persuasion|Persuasion]] +34, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +34, [[rangoric-srd/skills/Society|Society]] +33, [[rangoric-srd/skills/Stealth|Stealth]] +22
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 20
-  - **Treasure**: Triple
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Earth, Kami, Native)
+- **Hit Dice**: 24d10+216 (348 hp)
+- **Initiative**: +11
+- **Speed**: 50 ft. (10 squares), burrow 40 ft.; earth glide
+- **Armor Class**: 34 (+7 Dex, +1 dodge, +20 natural, –4 size), touch 14, flat-footed 26
+- **Base Attack**: +24; **CMB**: +37 (+39 bull rush and overrun); **CMD**: 55 (57 vs. bull rush and overrun)
+- **Attack**: +5 [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] +32 melee (3d6+14) or +5 [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] +32 melee (3d6+9) or slam +29 melee (2d10+9)
+- **Full Attack**: +5 [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] +32/+27/+22/+17 melee (3d6+14) and +5 [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] +32 melee (3d6+9); or 2 slams +29 melee (2d10+9)
+- **Space/Reach**: 20 ft./20 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., true seeing, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 20, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 300 ft., [[rangoric-srd/monsters/abilities/Infused Quarterstaff|infused quarterstaff]], [[rangoric-srd/monsters/abilities/Manipulate Terrain|manipulate terrain]], merge with [[rangoric-srd/monsters/abilities/Ward|ward]], [[rangoric-srd/monsters/abilities/Ward|ward]] (region), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/cold iron and bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to bleed, mind-affecting effects, petrification and polymorph, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 31
+- **Saves**: Fort +25, Ref +17, Will +23
+- **Abilities**: Str 28, Dex 25, Con 28, Int 23, Wis 24, Cha 31
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +31, [[rangoric-srd/skills/Athletics|Athletics]] +9 (+17 jumping), [[rangoric-srd/skills/Deception|Deception]] +37, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +31, [[rangoric-srd/skills/Intimidation|Intimidation]] +34, [[rangoric-srd/skills/Medicine|Medicine]] +34, [[rangoric-srd/skills/Mysticism|Mysticism]] +33, [[rangoric-srd/skills/Nature|Nature]] +33, [[rangoric-srd/skills/Perception|Perception]] +40, [[rangoric-srd/skills/Persuasion|Persuasion]] +34, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +34, [[rangoric-srd/skills/Society|Society]] +33, [[rangoric-srd/skills/Stealth|Stealth]] +22
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 20
+- **Treasure**: Triple
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Guardians of significant natural wonders like mountains, large lakes, forests, and so on, jinushigami (known also as land kami) are the most powerful and revered of all kami, commanding the very forces of nature itself to ensure the safety and security of their wards. These potent spirits garner the most respect among other kami, wielding great influence over both them and the native creatures that dwell within their territories. Jinushigami tend to stay hidden amongst their land, however, knowing that their intimate tie with the environment makes them highly desirable targets among those who would seek to do harm to nature.
 
@@ -74,7 +74,7 @@ Jinushigamis speak Common and Terran.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +30): Constant—*[[rangoric-srd/spells/True Seeing|true seeing]]*, *[[rangoric-srd/spells/Speak with Animals|speak with animals]]*, *[[rangoric-srd/spells/Speak with Plants|speak with plants]]*, *[[rangoric-srd/spells/Stone Tell|stone tell]]*; At will—*[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]* (DC 22), *[[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (self only, only within the boundaries of its ward), *[[rangoric-srd/spells/Stone Shape|stone shape]]*, *[[rangoric-srd/spells/Wood Shape|wood shape]]*; 3/day—*[[rangoric-srd/spells/Control Plants|control plants]]* (DC 28), *[[rangoric-srd/spells/Earthquake|earthquake]]* (DC 28), *[[rangoric-srd/spells/Heal (Spell)|heal]]*, *[[rangoric-srd/spells/Repel Metal or Stone|repel metal or stone]]*, *[[rangoric-srd/spells/Summon Nature’s Ally IX|summon nature's ally IX]]*; 1/day—*[[rangoric-srd/spells/True Resurrection|true resurrection]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +30): Constant—_[[rangoric-srd/spells/True Seeing|true seeing]]_, _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_, _[[rangoric-srd/spells/Speak with Plants|speak with plants]]_, _[[rangoric-srd/spells/Stone Tell|stone tell]]_; At will—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 22), _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self only, only within the boundaries of its ward), _[[rangoric-srd/spells/Stone Shape|stone shape]]_, _[[rangoric-srd/spells/Wood Shape|wood shape]]_; 3/day—_[[rangoric-srd/spells/Control Plants|control plants]]_ (DC 28), _[[rangoric-srd/spells/Earthquake|earthquake]]_ (DC 28), _[[rangoric-srd/spells/Heal (Spell)|heal]]_, _[[rangoric-srd/spells/Repel Metal or Stone|repel metal or stone]]_, _[[rangoric-srd/spells/Summon Nature’s Ally IX|summon nature's ally IX]]_; 1/day—_[[rangoric-srd/spells/True Resurrection|true resurrection]]_.
 
 **[[rangoric-srd/monsters/abilities/Infused Quarterstaff|Infused Quarterstaff]] (Su)**: Any quarterstaff a jinushigami wields functions as a +5 quarterstaff (unless the quarterstaff already has a greater enhancement bonus). If a jinushigami is within its regional ward, it can create a Gargantuan quarterstaff out of the surrounding terrain as a standard action.
 

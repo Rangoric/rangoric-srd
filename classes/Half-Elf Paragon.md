@@ -44,11 +44,11 @@ Although their mixed heritage rarely leaves half-elves embittered, many can find
 
 **Table: The Half-Elf Paragon**
 
-| Level | Special                                                                                                                             | Spells per Day              |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| 1st   | Bonus feat, [[#^half-elf-paragon-divided-ancestry\|divided ancestry]], [[#^half-elf-paragon-elven-vision\|elven vision]] | —                           |
-| 2nd   | [[#^half-elf-paragon-persuasion\|Persuasion]]                                                                                       | +1 level of existing class |
-| 3rd   | [[#^half-elf-paragon-ability-boost\|Ability boost]] (+2)                                                                            | —                           |
+| Level | Special                                                                                                                  | Spells per Day             |
+| ----- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| 1st   | Bonus feat, [[#^half-elf-paragon-divided-ancestry\|divided ancestry]], [[#^half-elf-paragon-elven-vision\|elven vision]] | —                          |
+| 2nd   | [[#^half-elf-paragon-persuasion\|Persuasion]]                                                                            | +1 level of existing class |
+| 3rd   | [[#^half-elf-paragon-ability-boost\|Ability boost]] (+2)                                                                 | —                          |
 
 Half-elf paragons have the following game statistics.
 

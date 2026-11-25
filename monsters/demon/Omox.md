@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Omox
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Aquatic, Chaotic, Demon, Evil, Extraplanar)
-  - **Hit Dice**: 13d10+91 (162 hp)
-  - **Initiative**: +11
-  - **Speed**: 40 ft. (8 squares), climb 20 ft., swim 80 ft.
-  - **Armor Class**: 28 (+7 Dex, +1 dodge, +10 natural), touch 18, flat-footed 20
-  - **Base Attack**: +13; **CMB**: +21; **CMD**: 39 (can't be tripped)
-  - **Attack**: Slam +21 melee (1d6+8 plus 3d6 acid and [[rangoric-srd/monsters/abilities/Grab|grab]]) or slime +20 ranged (1d6 plus 3d6 acid and entangle)
-  - **Full Attack**: 2 slams +21 melee (1d6+8 plus 3d6 acid and [[rangoric-srd/monsters/abilities/Grab|grab]]); or slime +20 ranged (1d6 plus 3d6 acid and entangle)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Smothering|Smothering]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, immunity to acid, critical hits, disease, electricity, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], poison, polymorph, sleep effects and stunning, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23
-  - **Saves**: Fort +15, Ref +13, Will +12
-  - **Abilities**: Str 26, Dex 25, Con 24, Int 15, Wis 19, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Athletics|Athletics]] +32 (+36 jumping), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +18, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +23, [[rangoric-srd/skills/Perception|Perception]] +28, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20, [[rangoric-srd/skills/Stealth|Stealth]] +23 (+33 when submerged), [[rangoric-srd/skills/Theology|Theology]] +18
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-  - **Environment**: Any (a chaotic evil-aligned plane: the Abyss)
-  - **Organization**: Solitary or clot (2–6)
-  - **Challenge Rating**: 12
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Aquatic, Chaotic, Demon, Evil, Extraplanar)
+- **Hit Dice**: 13d10+91 (162 hp)
+- **Initiative**: +11
+- **Speed**: 40 ft. (8 squares), climb 20 ft., swim 80 ft.
+- **Armor Class**: 28 (+7 Dex, +1 dodge, +10 natural), touch 18, flat-footed 20
+- **Base Attack**: +13; **CMB**: +21; **CMD**: 39 (can't be tripped)
+- **Attack**: Slam +21 melee (1d6+8 plus 3d6 acid and [[rangoric-srd/monsters/abilities/Grab|grab]]) or slime +20 ranged (1d6 plus 3d6 acid and entangle)
+- **Full Attack**: 2 slams +21 melee (1d6+8 plus 3d6 acid and [[rangoric-srd/monsters/abilities/Grab|grab]]); or slime +20 ranged (1d6 plus 3d6 acid and entangle)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Smothering|Smothering]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, immunity to acid, critical hits, disease, electricity, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], poison, polymorph, sleep effects and stunning, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23
+- **Saves**: Fort +15, Ref +13, Will +12
+- **Abilities**: Str 26, Dex 25, Con 24, Int 15, Wis 19, Cha 18
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Athletics|Athletics]] +32 (+36 jumping), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +18, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +23, [[rangoric-srd/skills/Perception|Perception]] +28, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20, [[rangoric-srd/skills/Stealth|Stealth]] +23 (+33 when submerged), [[rangoric-srd/skills/Theology|Theology]] +18
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+- **Environment**: Any (a chaotic evil-aligned plane: the Abyss)
+- **Organization**: Solitary or clot (2–6)
+- **Challenge Rating**: 12
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Amorphous beings of living slime, these repulsive demons lurk in fetid pools and lakes of filth, eager to drown unwary passersby. When summoned to the Material Plane, omoxes typically guard places of sacred filth or waters watched over by cults of Jubilex, the demon lord with which these foul demons are most commonly associated.
 
@@ -71,7 +71,7 @@ Omoxes speak Abyssal, Celestial and Draconic.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +16): At will—*[[rangoric-srd/spells/Create Water|create water]]*, *[[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (self plus 50 lbs. of objects only), *liquid leap* (see below), *[[rangoric-srd/spells/Telekinesis|telekinesis]]* (DC 19); 3/day—*[[rangoric-srd/spells/Gaseous Form|gaseous form]]*, *[[rangoric-srd/spells/Control Water|control water]]*, *[[rangoric-srd/spells/Poison|poison]]* (DC 18), *[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]* (DC 17); 1/day—*[[rangoric-srd/spells/Acid Fog|acid fog]]*, [[rangoric-srd/monsters/abilities/Summon|summon]] (level 4, 1 omox 30% or 1d4 babaus 60%).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +16): At will—_[[rangoric-srd/spells/Create Water|create water]]_, _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _liquid leap_ (see below), _[[rangoric-srd/spells/Telekinesis|telekinesis]]_ (DC 19); 3/day—_[[rangoric-srd/spells/Gaseous Form|gaseous form]]_, _[[rangoric-srd/spells/Control Water|control water]]_, _[[rangoric-srd/spells/Poison|poison]]_ (DC 18), _[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_ (DC 17); 1/day—_[[rangoric-srd/spells/Acid Fog|acid fog]]_, [[rangoric-srd/monsters/abilities/Summon|summon]] (level 4, 1 omox 30% or 1d4 babaus 60%).
 
 **Liquid Leap (Sp)**: As long as an omox is in contact with liquid, it can use dimension door as a swift action (CL 12th); its starting and ending points must be connected by a contiguous mass of liquid.
 

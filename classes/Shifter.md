@@ -47,34 +47,34 @@ The shifter’s class skills (and the key ability for each skill) are [[rangoric
 
 **Table: The Shifter** ^table-the-shifter
 
-| Level | Special |
-| --- | --- |
-| 1st | Shifter aspect, shifter claws, wild empathy |
-| 2nd | Defensive instinct, track |
-| 3rd | Woodland stride |
-| 4th | Wild shape |
-| 5th | Second aspect, trackless step |
-| 6th | Shifter’s fury |
-| 7th | — |
-| 8th | — |
-| 9th | Chimeric aspect |
-| 10th | Third aspect |
-| 11th | — |
-| 12th | — |
-| 13th | — |
-| 14th | Greater chimeric aspect |
-| 15th | Fourth aspect |
-| 16th | — |
-| 17th | — |
-| 18th | A thousand faces, timeless body |
-| 19th | — |
-| 20th | Final aspect |
+| Level | Special                                     |
+| ----- | ------------------------------------------- |
+| 1st   | Shifter aspect, shifter claws, wild empathy |
+| 2nd   | Defensive instinct, track                   |
+| 3rd   | Woodland stride                             |
+| 4th   | Wild shape                                  |
+| 5th   | Second aspect, trackless step               |
+| 6th   | Shifter’s fury                              |
+| 7th   | —                                           |
+| 8th   | —                                           |
+| 9th   | Chimeric aspect                             |
+| 10th  | Third aspect                                |
+| 11th  | —                                           |
+| 12th  | —                                           |
+| 13th  | —                                           |
+| 14th  | Greater chimeric aspect                     |
+| 15th  | Fourth aspect                               |
+| 16th  | —                                           |
+| 17th  | —                                           |
+| 18th  | A thousand faces, timeless body             |
+| 19th  | —                                           |
+| 20th  | Final aspect                                |
 
 ###### Class Features
 
 All of the following are class features of the shifter.
 
-**Weapon and Armor Proficiency**: A shifter is proficient with the club, dagger, dart, quarterstaff, scimitar, scythe, sickle, shortspear, sling, and spear. She is proficient with light and medium armor but can’t wear metal armor; wooden armor altered by the *[[rangoric-srd/spells/Ironwood|ironwood]]* spell counts as wood. She is proficient with shields (except tower shields) but can use only wooden ones. A shifter who wears prohibited armor or uses a prohibited shield can’t use her shifter aspect, shifter claws, wild shape, or other supernatural or spell-like abilities while she does so and for 24 hours afterward. ^shifter-proficiency
+**Weapon and Armor Proficiency**: A shifter is proficient with the club, dagger, dart, quarterstaff, scimitar, scythe, sickle, shortspear, sling, and spear. She is proficient with light and medium armor but can’t wear metal armor; wooden armor altered by the _[[rangoric-srd/spells/Ironwood|ironwood]]_ spell counts as wood. She is proficient with shields (except tower shields) but can use only wooden ones. A shifter who wears prohibited armor or uses a prohibited shield can’t use her shifter aspect, shifter claws, wild shape, or other supernatural or spell-like abilities while she does so and for 24 hours afterward. ^shifter-proficiency
 
 **Shifter Aspect (Su)**: At 1st level, a shifter gains her first aspect—a category of animal to which her body and soul have become supernaturally attuned. She can shift into her aspect’s minor form (see the aspects below) for a number of minutes per day equal to 3 + her shifter level. The duration need not be consecutive but must be spent in 1-minute increments. Shifting into a minor form is a swift action, while ending the effect is a free action that can be taken only on the shifter’s turn. Until a shifter reaches 9th level and gains the [[rangoric-srd/classes/Shifter#^shifter-chimeric-aspect|chimeric aspect]] class feature, she can assume only one minor form at a time. Shifting to a new aspect (or aspects, in the case of chimeric aspects or greater chimeric aspects) ends all minor forms currently manifested. The minor forms of aspects are not [[rangoric-srd/rules/Special Abilities and Conditions#Polymorph|polymorph effects]], and the shifter does not lose the benefits of a minor form while affected by polymorph effects. ^shifter-aspect
 
@@ -162,7 +162,7 @@ These bonuses to AC apply even against touch attacks and when the shifter is [[r
 
 **Woodland Stride (Ex)**: At 3rd level, a shifter gains the druid’s [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]]. ^shifter-woodland-stride
 
-**Wild Shape (Su)**: At 4th level, a shifter gains the ability to turn herself into the major form of one of her aspects and back again. This ability functions as *[[rangoric-srd/spells/Beast Shape II|beast shape II]]*, except as noted here. The shifter can turn into the major form of only one of her aspects at a time. Using wild shape to change to a major form or back is a standard action that doesn’t provoke attacks of opportunity. Often a particular aspect’s major form grants abilities beyond the normal effect of beast shape II. Each major form details the abilities the shifter gains with that major form and at what level; she gains these instead of the form abilities from beast shape II, but she still gains beast shape II abilities that are size dependent. ^shifter-wild-shape
+**Wild Shape (Su)**: At 4th level, a shifter gains the ability to turn herself into the major form of one of her aspects and back again. This ability functions as _[[rangoric-srd/spells/Beast Shape II|beast shape II]]_, except as noted here. The shifter can turn into the major form of only one of her aspects at a time. Using wild shape to change to a major form or back is a standard action that doesn’t provoke attacks of opportunity. Often a particular aspect’s major form grants abilities beyond the normal effect of beast shape II. Each major form details the abilities the shifter gains with that major form and at what level; she gains these instead of the form abilities from beast shape II, but she still gains beast shape II abilities that are size dependent. ^shifter-wild-shape
 
 A shifter loses her ability to speak while in animal form because she is limited to the sounds that a normal, untrained animal of that form can make, but she can communicate with other animals of the same general grouping as her form. She can also communicate in nonverbal ways with allies.
 

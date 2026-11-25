@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Whirlwind
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “whirlwind (3/day, 10–30 ft. high, 1d6+6 damage, DC 15)”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “whirlwind (3/day, 10–30 ft. high, 1d6+6 damage, DC 15)”, on the Special Attacks line.
 
 Some creatures can transform themselves into whirlwinds and remain in that form for up to 1 round for every 2 HD they have. If the creature has a fly speed, it can continue to fly at that same speed while in whirlwind form; otherwise it gains a fly speed equal to its base land speed (average maneuverability) while in whirlwind form.
 

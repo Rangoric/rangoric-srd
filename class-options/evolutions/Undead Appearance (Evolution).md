@@ -16,9 +16,9 @@ tags: [rangoric, rangoric/class-option]
 
 # Undead Appearance
 
-*A 2-point evolution (Ex) for a [[rangoric-srd/classes/Summoner|summoner]]’s or [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon.*
+_A 2-point evolution (Ex) for a [[rangoric-srd/classes/Summoner|summoner]]’s or [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon._
 
-An eidolon appears as an undead creature, and mimics some of an undead creature’s abilities and weaknesses. Negative energy heals the eidolon, and positive energy (including a cleric’s [[rangoric-srd/combat/Combat Special Attacks#^channel-energy|channel energy]] ability) harms it. Spells and effects that target undead or have specific effects against undead (such as Command Undead, *hold undead*, and *[[rangoric-srd/spells/Searing Light|searing light]]*) affect the eidolon as if it were undead. The eidolon gains a +2 bonus on saves against disease, exhaustion, fatigue, paralysis, poison, sleep effects, and stunning.
+An eidolon appears as an undead creature, and mimics some of an undead creature’s abilities and weaknesses. Negative energy heals the eidolon, and positive energy (including a cleric’s [[rangoric-srd/combat/Combat Special Attacks#^channel-energy|channel energy]] ability) harms it. Spells and effects that target undead or have specific effects against undead (such as Command Undead, _hold undead_, and _[[rangoric-srd/spells/Searing Light|searing light]]_) affect the eidolon as if it were undead. The eidolon gains a +2 bonus on saves against disease, exhaustion, fatigue, paralysis, poison, sleep effects, and stunning.
 
 At 7th level, this bonus on saves can be increased to +4 by spending 2 additional evolution points. At 12th level, this protection can be increased to immunity against these attacks by spending 2 additional evolution points (the summoner must pay for the 7th-level upgrade before paying for this 12th-level upgrade).
 

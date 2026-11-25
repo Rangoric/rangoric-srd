@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Antimagic Field
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 8, Magic 6, Occ 6, Protection 6, Psy 7, Sor/Wiz 6
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: 10 ft.
-  - **Area**: 10-ft.-radius emanation, centered on you
-  - **Duration**: 10 min./level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: See text
+- **Level**: Clr 8, Magic 6, Occ 6, Protection 6, Psy 7, Sor/Wiz 6
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: 10 ft.
+- **Area**: 10-ft.-radius emanation, centered on you
+- **Duration**: 10 min./level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: See text
 
 An [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] barrier surrounds you and moves with you. The space within this barrier is impervious to most magical effects, including spells, spell-like abilities, and supernatural abilities. Likewise, it prevents the functioning of any magic items or spells within its confines.
 
@@ -52,4 +52,4 @@ Two or more antimagic fields sharing any of the same space have no effect on eac
 
 Should a creature be larger than the area enclosed by the barrier, any part of it that lies outside the barrier is unaffected by the field.
 
-*Arcane Material Component*: A pinch of powdered iron or iron filings.
+_Arcane Material Component_: A pinch of powdered iron or iron filings.

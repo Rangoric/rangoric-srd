@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Force Bomb
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]]\*.*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]]\*._
 
 When the alchemist creates a bomb, he can choose to have it inflict force damage. Force bombs deal 1d4 points of force damage, plus 1d4 points of force damage for every odd-numbered level, instead of 1d6. Creatures that take a direct hit from a force bomb are knocked [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]] unless they succeed on a Reflex save. An alchemist must be at least 8th level before selecting this discovery.

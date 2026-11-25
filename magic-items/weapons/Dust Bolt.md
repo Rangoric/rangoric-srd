@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Dust Bolt
 
-This barbed *+1 outsider (water) bane bolt* is etched with runes of thirst and desiccation. Any living creature struck by a *dust bolt* begins dying of thirst, as the spell *[[rangoric-srd/spells/Cup of Dust|cup of dust]]* (DC 14 Fortitude negates). Creatures with the aquatic or water subtype save with a –4 penalty, and on a failed save they are also [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] and [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1 round.
+This barbed _+1 outsider (water) bane bolt_ is etched with runes of thirst and desiccation. Any living creature struck by a _dust bolt_ begins dying of thirst, as the spell _[[rangoric-srd/spells/Cup of Dust|cup of dust]]_ (DC 14 Fortitude negates). Creatures with the aquatic or water subtype save with a –4 penalty, and on a failed save they are also [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] and [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1 round.
 
-Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Cup of Dust|cup of dust]]*, *[[rangoric-srd/spells/Summon Monster I|summon monster I]]*; Price 1,730 gp; Cost 880 gp.
+Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Cup of Dust|cup of dust]]_, _[[rangoric-srd/spells/Summon Monster I|summon monster I]]_; Price 1,730 gp; Cost 880 gp.

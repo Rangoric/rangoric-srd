@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Shambling Mound
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 9d8+27 (67 hp)
-  - **Initiative**: +0
-  - **Speed**: 20 ft. (4 squares), swim 20 ft.
-  - **Armor Class**: 19 (+10 natural, –1 size), touch 9, flat-footed 19
-  - **Base Attack**: +6; **CMB**: +12 (+16 grapple); **CMD**: 22
-  - **Attack**: Slam +11 melee (2d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: 2 slams +11 melee (2d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d6+7)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], electric fortitude, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
-  - **Saves**: Fort +9, Ref +5, Will +5
-  - **Abilities**: Str 21, Dex 10, Con 17, Int 7, Wis 10, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+16 in swamps or forest)
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
-  - **Environment**: Temperate forest or marshes
-  - **Organization**: Solitary
-  - **Challenge Rating**: 6
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: 9–12 HD (Large); 13–24 HD (Huge)
-  - **Level Adjustment**: +6
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 9d8+27 (67 hp)
+- **Initiative**: +0
+- **Speed**: 20 ft. (4 squares), swim 20 ft.
+- **Armor Class**: 19 (+10 natural, –1 size), touch 9, flat-footed 19
+- **Base Attack**: +6; **CMB**: +12 (+16 grapple); **CMD**: 22
+- **Attack**: Slam +11 melee (2d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: 2 slams +11 melee (2d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d6+7)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], electric fortitude, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
+- **Saves**: Fort +9, Ref +5, Will +5
+- **Abilities**: Str 21, Dex 10, Con 17, Int 7, Wis 10, Cha 9
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+16 in swamps or forest)
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
+- **Environment**: Temperate forest or marshes
+- **Organization**: Solitary
+- **Challenge Rating**: 6
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: 9–12 HD (Large); 13–24 HD (Huge)
+- **Level Adjustment**: +6
 
 Shambling mounds, also called shamblers, appear to be heaps of rotting vegetation. They are actually intelligent, carnivorous plants with a fondness for elf flesh in particular. What serve as a shambler's brain and sensory organs are located in its upper body. Shambling mounds typically have an 8-foot girth and stand between 6 and 9 feet tall. They weigh about 3,800 pounds.
 

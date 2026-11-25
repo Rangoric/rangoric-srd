@@ -28,7 +28,7 @@ Psychometabolism
 **Range:** Personal  
 **Target:** You  
 **Duration:** Instantaneous  
-**Power Points:** Psion/wilder 13, psychic warrior 5  
+**Power Points:** Psion/wilder 13, psychic warrior 5
 
 You throw off a faux ectoplasmic shell, allowing you to slide out of range of a damaging effect. When you manifest this power in conjunction with making a successful Reflex save against an attack that normally deals half damage on a successful save, you instead take no damage.
 

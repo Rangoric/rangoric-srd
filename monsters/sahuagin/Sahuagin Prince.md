@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Sahuagin Prince
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Aquatic)
-  - **Hit Dice**: 12d10+82 (148 hp)
-  - **Initiative**: +3
-  - **Speed**: 20 ft. (4 squares), swim 60 ft.
-  - **Armor Class**: 28 (+7 armor, +1 deflection, +3 Dex, +7 natural), touch 14, flat-footed 25
-  - **Base Attack**: +12; **CMB**: +17; **CMD**: 31
-  - **Attack**: Lance of jousting +20 melee (1d8+8/19–20/×3) or bite +19 melee (1d6+2) or claw +19 melee (1d4+5) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] underwater heavy crossbow +18 ranged (1d10/19–20)
-  - **Full Attack**: Lance of jousting +20/+15/+10 melee (1d8+8/19–20/×3) and bite +17 melee (1d6+2) and 2 claws +19 melee (1d4+5); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] underwater heavy crossbow +18 ranged (1d10/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Cavalier#^cavalier-banner|Banner]] +3/+2, [[rangoric-srd/monsters/sahuagin/Sahuagin|blood frenzy]], [[rangoric-srd/classes/Cavalier#^cavalier-cavaliers-charge|cavalier’s charge]], [[rangoric-srd/classes/Cavalier#^cavalier-challenge|challenge]] (+10, +3, 4/day)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/class-options/archetypes/cavalier/Beast Rider (Archetype)|exotic mount]] ([[rangoric-srd/monsters/Shark Mount|shark]]), [[rangoric-srd/classes/Cavalier#^cavalier-greater-tactician|greater tactician]] (3/day, 8 rounds, swift action), [[rangoric-srd/monsters/abilities/Multiweapon Mastery|multiweapon mastery]], [[rangoric-srd/class-options/orders/Order of the Lion|order of the lion]] (for the king, lion’s call), [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]], [[rangoric-srd/monsters/sahuagin/Sahuagin|speak with sharks]]
-  - **Saves**: Fort +16, Ref +13, Will +11
-  - **Abilities**: Str 20, Dex 16, Con 20, Int 13, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +15 (+18 with personal mount), [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Society|Society]] +16
-  - **Feats**: [[rangoric-srd/feats/Dreadful Carnage|Dreadful Carnage]], [[rangoric-srd/feats/Furious Focus|Furious Focus]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Lookout|Lookout]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Outflank|Outflank]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Spirited Charge|Spirited Charge]], [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Temperate or warm ocean
-  - **Organization**: Solitary, or with other sahuagin (see [[rangoric-srd/monsters/sahuagin/Sahuagin|Sahuagin]])
-  - **Challenge Rating**: 13
-  - **Treasure**: NPC gear (combat gear: potions of cure moderate wounds (2), potions of barkskin (2), potion of heroism; other gear: +1 breastplate, lance of jousting, masterwork underwater heavy crossbow (20 bolts), belt of mighty constitution +2, cloak of resistance +2, ring of protection +1, +1 studded leather barding, stone of alliance (swallowed by mount), exotic military saddle, 2,678 gp)
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Aquatic)
+- **Hit Dice**: 12d10+82 (148 hp)
+- **Initiative**: +3
+- **Speed**: 20 ft. (4 squares), swim 60 ft.
+- **Armor Class**: 28 (+7 armor, +1 deflection, +3 Dex, +7 natural), touch 14, flat-footed 25
+- **Base Attack**: +12; **CMB**: +17; **CMD**: 31
+- **Attack**: Lance of jousting +20 melee (1d8+8/19–20/×3) or bite +19 melee (1d6+2) or claw +19 melee (1d4+5) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] underwater heavy crossbow +18 ranged (1d10/19–20)
+- **Full Attack**: Lance of jousting +20/+15/+10 melee (1d8+8/19–20/×3) and bite +17 melee (1d6+2) and 2 claws +19 melee (1d4+5); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] underwater heavy crossbow +18 ranged (1d10/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Cavalier#^cavalier-banner|Banner]] +3/+2, [[rangoric-srd/monsters/sahuagin/Sahuagin|blood frenzy]], [[rangoric-srd/classes/Cavalier#^cavalier-cavaliers-charge|cavalier’s charge]], [[rangoric-srd/classes/Cavalier#^cavalier-challenge|challenge]] (+10, +3, 4/day)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/class-options/archetypes/cavalier/Beast Rider (Archetype)|exotic mount]] ([[rangoric-srd/monsters/Shark Mount|shark]]), [[rangoric-srd/classes/Cavalier#^cavalier-greater-tactician|greater tactician]] (3/day, 8 rounds, swift action), [[rangoric-srd/monsters/abilities/Multiweapon Mastery|multiweapon mastery]], [[rangoric-srd/class-options/orders/Order of the Lion|order of the lion]] (for the king, lion’s call), [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]], [[rangoric-srd/monsters/sahuagin/Sahuagin|speak with sharks]]
+- **Saves**: Fort +16, Ref +13, Will +11
+- **Abilities**: Str 20, Dex 16, Con 20, Int 13, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +15 (+18 with personal mount), [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Society|Society]] +16
+- **Feats**: [[rangoric-srd/feats/Dreadful Carnage|Dreadful Carnage]], [[rangoric-srd/feats/Furious Focus|Furious Focus]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Lookout|Lookout]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Outflank|Outflank]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Spirited Charge|Spirited Charge]], [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Temperate or warm ocean
+- **Organization**: Solitary, or with other sahuagin (see [[rangoric-srd/monsters/sahuagin/Sahuagin|Sahuagin]])
+- **Challenge Rating**: 13
+- **Treasure**: NPC gear (combat gear: potions of cure moderate wounds (2), potions of barkskin (2), potion of heroism; other gear: +1 breastplate, lance of jousting, masterwork underwater heavy crossbow (20 bolts), belt of mighty constitution +2, cloak of resistance +2, ring of protection +1, +1 studded leather barding, stone of alliance (swallowed by mount), exotic military saddle, 2,678 gp)
+- **Alignment**: Usually lawful evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A sahuagin prince is a [[rangoric-srd/monsters/sahuagin/Sahuagin|sahuagin]] with 10 levels of [[rangoric-srd/classes/Cavalier|cavalier]] (the [[rangoric-srd/class-options/archetypes/cavalier/Beast Rider (Archetype)|beast rider]] archetype), one of the sahuagin soldiers. Powerful warriors occupy the top ranks of sahuagin society.
 

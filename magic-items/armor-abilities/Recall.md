@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Recall
 
-When conditions set by the wearer of this type of armor are satisfied, he is teleported (as *[[rangoric-srd/spells/Teleport, Greater|greater teleport]]*) to a previously specified location. The conditions can be general, but must be clear as to exactly when they are triggered. An example condition could be when the user’s hit points drop below zero. This ability can be used once per day. As a full-round action, the user can set his current location as the target of the *[[rangoric-srd/spells/Teleport|teleport]]*, or change the triggering conditions.
+When conditions set by the wearer of this type of armor are satisfied, he is teleported (as _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_) to a previously specified location. The conditions can be general, but must be clear as to exactly when they are triggered. An example condition could be when the user’s hit points drop below zero. This ability can be used once per day. As a full-round action, the user can set his current location as the target of the _[[rangoric-srd/spells/Teleport|teleport]]_, or change the triggering conditions.
 
-Strong conjuration [teleportation]; CL 14th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Contingency|contingency]]*, *[[rangoric-srd/spells/Teleport, Greater|greater teleport]]*; Price +3 bonus.
+Strong conjuration [teleportation]; CL 14th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Contingency|contingency]]_, _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_; Price +3 bonus.

@@ -32,16 +32,16 @@ tags: [rangoric, rangoric/spell]
 
 # Sympathy
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Drd 9, Occ 6, Psy 8, Sor/Wiz 8, Sum 6, Wit 8
-  - **Components**: V, S, M
-  - **Casting Time**: 1 hour
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One location (up to a 10-ft. cube/level) or one object
-  - **Duration**: 2 hours/level (D)
-  - **Saving Throw**: Will negates; see text
-  - **Spell Resistance**: Yes
+- **Level**: Drd 9, Occ 6, Psy 8, Sor/Wiz 8, Sum 6, Wit 8
+- **Components**: V, S, M
+- **Casting Time**: 1 hour
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One location (up to a 10-ft. cube/level) or one object
+- **Duration**: 2 hours/level (D)
+- **Saving Throw**: Will negates; see text
+- **Spell Resistance**: Yes
 
 You cause an object or location to emanate magical vibrations that attract either a specific kind of intelligent creature or creatures of a particular alignment, as defined by you. The particular kind of creature to be affected must be named specifically. A creature subtype is not specific enough. Likewise, the specific alignment must be named.
 
@@ -49,4 +49,4 @@ Creatures of the specified kind or alignment feel elated and pleased to be in th
 
 Sympathy counters and dispels antipathy.
 
-*Material Component*: 1,500 gp worth of crushed pearls and a drop of honey.
+_Material Component_: 1,500 gp worth of crushed pearls and a drop of honey.

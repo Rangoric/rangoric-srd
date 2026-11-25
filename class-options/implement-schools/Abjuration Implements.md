@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Abjuration Implements
 
-*An [[rangoric-srd/classes/Occultist#^occultist-implements|implement school]] of the [[rangoric-srd/classes/Occultist|occultist]].*
+_An [[rangoric-srd/classes/Occultist#^occultist-implements|implement school]] of the [[rangoric-srd/classes/Occultist|occultist]]._
 
 Abjuration implements are objects associated with protection and wards.
 

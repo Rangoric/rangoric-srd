@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Page
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Halfling)
-  - **Hit Dice**: 1d8–1 (3 hp)
-  - **Initiative**: +2
-  - **Speed**: 25 ft. (5 squares)
-  - **Armor Class**: 13 (+2 Dex, +1 size), touch 13, flat-footed 11
-  - **Base Attack**: +0; **CMB**: –3; **CMD**: 9
-  - **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] –1 melee (1d3–2/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] –1 melee (1d3–2/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort +0, Ref +3, Will +3 (+2 vs. fear)
-  - **Abilities**: Str 6, Dex 15, Con 9, Int 12, Wis 10, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +0, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +3, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +9
-  - **Feats**: [[rangoric-srd/feats/Fleet|Fleet]]
-  - **Environment**: Warm plains
-  - **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])
-  - **Challenge Rating**: 1/3
-  - **Treasure**: NPC gear
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Halfling)
+- **Hit Dice**: 1d8–1 (3 hp)
+- **Initiative**: +2
+- **Speed**: 25 ft. (5 squares)
+- **Armor Class**: 13 (+2 Dex, +1 size), touch 13, flat-footed 11
+- **Base Attack**: +0; **CMB**: –3; **CMD**: 9
+- **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] –1 melee (1d3–2/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] –1 melee (1d3–2/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort +0, Ref +3, Will +3 (+2 vs. fear)
+- **Abilities**: Str 6, Dex 15, Con 9, Int 12, Wis 10, Cha 12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +0, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +3, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Feats**: [[rangoric-srd/feats/Fleet|Fleet]]
+- **Environment**: Warm plains
+- **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])
+- **Challenge Rating**: 1/3
+- **Treasure**: NPC gear
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A page is a [[rangoric-srd/monsters/halfling/Halfling|halfling]] with 1 level of [[rangoric-srd/classes/Aristocrat|aristocrat]]. This nervous young page alternates between avoiding unwanted attention and desperately trying to impress any nobles who send him on errands. His duties involve carrying messages (whether on parchment or memorized) within the palace grounds or a city, delivering packages, escorting the retainers of visiting officials, and so on.
 

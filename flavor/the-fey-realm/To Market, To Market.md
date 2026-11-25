@@ -11,11 +11,11 @@ tags: [rangoric, rangoric/flavor, flavor]
 
 # To Market, To Market…
 
-*“I should swear on my honor and knowledge as a scholar that never was there such a place as the FaerieLand Market. Wares and deals only metaphorical in our mortal worlds can be had for a song, in some cases literally…”*
+_“I should swear on my honor and knowledge as a scholar that never was there such a place as the FaerieLand Market. Wares and deals only metaphorical in our mortal worlds can be had for a song, in some cases literally…”_
 
-*If ever your characters get the chance to walk among the stalls and tents of FaerieLand’s Market, prepare yourself for the wildest variety of shops and wares ever set before mortals. Of the most stable and well-known vendors and wares are the following:*
+_If ever your characters get the chance to walk among the stalls and tents of FaerieLand’s Market, prepare yourself for the wildest variety of shops and wares ever set before mortals. Of the most stable and well-known vendors and wares are the following:_
 
-**The Chandler:** Candles of all kinds can be found here— arcane and divine magical candles as well as mundane candles with scents or beautifully colored flames. *Ever-burning candles* are the most popular among mortals, although many have found that when the flame continues burning, it can ignite other items if people are not careful with where they place or store them. [Any spell of 2<sup>nd</sup> level or lower can be found enchanted into a candle here. If a target is needed for the spell to work, such as in *[[rangoric-srd/spells/Magic Missile|magic missile]]*, the target is determined randomly among those within a 25-foot-range of the lit candle. The spell takes effect in the first full round of being lit.]
+**The Chandler:** Candles of all kinds can be found here— arcane and divine magical candles as well as mundane candles with scents or beautifully colored flames. _Ever-burning candles_ are the most popular among mortals, although many have found that when the flame continues burning, it can ignite other items if people are not careful with where they place or store them. [Any spell of 2<sup>nd</sup> level or lower can be found enchanted into a candle here. If a target is needed for the spell to work, such as in _[[rangoric-srd/spells/Magic Missile|magic missile]]_, the target is determined randomly among those within a 25-foot-range of the lit candle. The spell takes effect in the first full round of being lit.]
 
 **Dreams Delivered:** “Nightmares and Dreams for sale! Care to send an enemy a night terror of cold sweats and no sleep the night before your duel? Looking to place yourself in the dreams of a lady love? Come one, come all, and talk to me of sleep merciless and marvelous!”
 
@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/flavor, flavor]
 
 **The Mill:** Situated on the river at the far periphery of Market stands the Mill. This mill is constantly grinding common to exotic grains for use in the breads, tarts, and sweet pastries consumed by the fey. On days of especially high demand, the water-driven mill is supplemented by a wind-driven mechanism also attached to the building. Inside is a collection of belts, gears, pulleys, and shafts all connecting the water and windmills to the grinding wheels.
 
-**The Public House:** This business is little more than a large warehouse filled with *doorways* connected to cellars, distilleries, breweries, cider houses, and wineries all across the mortal worlds containing the finest alcoholic drinks to be had. Thus, the tavern menu is extensive, and the proprietors are justly proud of being able to serve nearly any drink to be found across the planes.
+**The Public House:** This business is little more than a large warehouse filled with _doorways_ connected to cellars, distilleries, breweries, cider houses, and wineries all across the mortal worlds containing the finest alcoholic drinks to be had. Thus, the tavern menu is extensive, and the proprietors are justly proud of being able to serve nearly any drink to be found across the planes.
 
 **The Slave Market:** While most slaves are retained and well cared for by their master or mistress, some visitors to FaerieLand are shocked to see the slave market in an isolated corner of Market at all. Strangely enough, all captives are bound by vines and flower chains that are as solidly unbreakable as metal. The slaves found here are either sold by a fey to another to complete the remainder of their financial obligation, or they are captured mortals doomed to a life of endless servitude among the haughtier feeorin.
 

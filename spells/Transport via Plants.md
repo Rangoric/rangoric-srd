@@ -26,16 +26,16 @@ tags: [rangoric, rangoric/spell]
 
 # Transport via Plants
 
-*Conjuration (Teleportation)*
+_Conjuration (Teleportation)_
 
-  - **Level**: Drd 6, Hun 6, Sha 7
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Unlimited
-  - **Target**: You and touched objects or other touched willing creatures
-  - **Duration**: 1 round
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Drd 6, Hun 6, Sha 7
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Unlimited
+- **Target**: You and touched objects or other touched willing creatures
+- **Duration**: 1 round
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You can enter any normal plant (Medium or larger) and pass any distance to a plant of the same kind in a single round, regardless of the distance separating the two. The entry plant must be alive. The destination plant need not be familiar to you, but it also must be alive. If you are uncertain of the location of a particular kind of destination plant, you need merely designate direction and distance and the transport via plants spell moves you as close as possible to the desired location. If a particular destination plant is desired but the plant is not living, the spell fails and you are ejected from the entry plant.
 

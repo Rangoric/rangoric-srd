@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/heavy-blades]
 
 # Dadao
 
-*Martial one-handed melee weapon.* Cost 25 gp; Dmg 1d4 (S), 1d6 (M); Critical 19-20/x3; Weight 5 lb.; Type Slashing. ^stats
+_Martial one-handed melee weapon._ Cost 25 gp; Dmg 1d4 (S), 1d6 (M); Critical 19-20/x3; Weight 5 lb.; Type Slashing. ^stats
 
 This heavy single-bladed sword bears a long handle and a curved, tapered blade. It can be wielded either one or two handed to deal powerful blows in melee.

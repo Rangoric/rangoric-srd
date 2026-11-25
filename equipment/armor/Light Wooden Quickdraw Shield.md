@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/armor]
 
 # Light Wooden Quickdraw Shield
 
-*Shield.* Cost 53 gp; Shield Bonus +1; Armor Check Penalty –2; Arcane Spell Failure 5%; Weight 6 lb. ^stats
+_Shield._ Cost 53 gp; Shield Bonus +1; Armor Check Penalty –2; Arcane Spell Failure 5%; Weight 6 lb. ^stats
 
-A wooden quickdraw shield is essentially the same as a steel quickdraw shield, except it responds differently to some spells and effects (such as *[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]*). A druid can use a light wooden quickdraw shield, but not a steel quickdraw shield.
+A wooden quickdraw shield is essentially the same as a steel quickdraw shield, except it responds differently to some spells and effects (such as _[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]_). A druid can use a light wooden quickdraw shield, but not a steel quickdraw shield.

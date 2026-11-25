@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/magic-item]
 
 The wearer of this silver brooch gains a +10 circumstance bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks to track and a +5 bonus on [[rangoric-srd/skills/Perception|Perception]] checks, but takes a −2 penalty on saves against sonic attacks and against attacks that work through sight.
 
-CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/rules/star magic/constellations/The Eye|The Eye]]*; Price 8,000 gp; Cost 4,000 gp + 160 XP.
+CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/rules/star magic/constellations/The Eye|The Eye]]_; Price 8,000 gp; Cost 4,000 gp + 160 XP.

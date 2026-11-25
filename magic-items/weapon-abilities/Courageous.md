@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Courageous
 
-This special ability can only be added to a melee weapon. A *courageous* weapon fortifies the wielder's courage and morale in battle. The wielder gains a morale bonus on saving throws against fear equal to the weapon's enhancement bonus. In addition, any morale bonus the wielder gains from any other source is increased by half the weapon's enhancement bonus (minimum 1).
+This special ability can only be added to a melee weapon. A _courageous_ weapon fortifies the wielder's courage and morale in battle. The wielder gains a morale bonus on saving throws against fear equal to the weapon's enhancement bonus. In addition, any morale bonus the wielder gains from any other source is increased by half the weapon's enhancement bonus (minimum 1).
 
-Faint enchantment; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Heroism|heroism]]*, *[[rangoric-srd/spells/Remove Fear|remove fear]]*; Price +1 bonus.
+Faint enchantment; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Heroism|heroism]]_, _[[rangoric-srd/spells/Remove Fear|remove fear]]_; Price +1 bonus.

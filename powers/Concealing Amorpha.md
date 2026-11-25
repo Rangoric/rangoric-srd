@@ -29,6 +29,6 @@ Manifesting Time: 1 standard action
 Range: 0 ft.  
 Effect: Quasi-real amorphous film centered on you  
 Duration: 1 min./level (D)  
-Power Points: 3  
+Power Points: 3
 
 Using concealing amorpha, you weave a quasi-real membrane around yourself. You remain visible within the translucent, amorphous enclosure. This distortion grants you [[rangoric-srd/combat/Combat Modifiers#Concealment|concealment]] (opponents have a 20% miss chance), thanks to the rippling membrane encasing your form. You can pick up or drop objects, easily reaching through the film. Anything you hold is enveloped by the amorpha. Likewise, you can engage in melee, make ranged attacks, and manifest powers without hindrance.

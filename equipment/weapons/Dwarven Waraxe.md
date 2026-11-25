@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes]
 
 # Dwarven Waraxe
 
-*Exotic one-handed melee weapon.* Cost 30 gp; Dmg 1d8 (S), 1d10 (M); Critical x3; Weight 8 lb.; Type Slashing. ^stats
+_Exotic one-handed melee weapon._ Cost 30 gp; Dmg 1d8 (S), 1d10 (M); Critical x3; Weight 8 lb.; Type Slashing. ^stats
 
 A dwarven waraxe is too large to use in one hand without special training; thus, it is an exotic weapon. A Medium character can use a dwarven waraxe two-handed as a martial weapon, or a Large creature can use it one-handed in the same way. A dwarf treats a dwarven waraxe as a martial weapon even when using it in one hand.

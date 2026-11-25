@@ -24,19 +24,19 @@ tags: [rangoric, rangoric/spell]
 
 # Second Shield
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Sor/Wiz 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Your Familiar
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes
+- **Level**: Sor/Wiz 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Your Familiar
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes
 
-This spell surrounds your familiar with a glowing field of force that grants it a +2 cover bonus to Armor Class and a +1 cover bonus to reflex saves. *[[rangoric-srd/spells/Magic Missile|Magic missile]]* spells are harmlessly absorbed by this field.
+This spell surrounds your familiar with a glowing field of force that grants it a +2 cover bonus to Armor Class and a +1 cover bonus to reflex saves. _[[rangoric-srd/spells/Magic Missile|Magic missile]]_ spells are harmlessly absorbed by this field.
 
-If the affected familiar is within 5 feet of you, this bonus stacks with those granted by the *[[rangoric-srd/spells/Shield|shield]]* spell. For this to occur, the familiar must be conscious, mobile, and take no other action save for defending you with the *second shield*.
+If the affected familiar is within 5 feet of you, this bonus stacks with those granted by the _[[rangoric-srd/spells/Shield|shield]]_ spell. For this to occur, the familiar must be conscious, mobile, and take no other action save for defending you with the _second shield_.
 
-Because of the interaction between *[[rangoric-srd/spells/Shield|shield]]* and this spell, any effect that dispels one automatically dispels the other.
+Because of the interaction between _[[rangoric-srd/spells/Shield|shield]]_ and this spell, any effect that dispels one automatically dispels the other.

@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Sapped Magic
 
-*A mesmerist’s [[rangoric-srd/classes/Mesmerist#^mesmerist-bold-stare|bold stare]] improvement (Su).*
+_A mesmerist’s [[rangoric-srd/classes/Mesmerist#^mesmerist-bold-stare|bold stare]] improvement (Su)._
 
 The hypnotic stare penalty also applies to the DCs of spells and spell-like abilities used by the target, and to the target’s spell resistance (if any).

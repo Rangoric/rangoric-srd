@@ -12,7 +12,7 @@ tags: [rangoric, rangoric/flavor, flavor]
 
 # Father Time
 
-***AKA “Baby New Year”***
+**_AKA “Baby New Year”_**
 
 His original name long forgotten by himself and others, an ancient spell curses Father Time to age at an incredibly fast rate. The cause of the curse, likewise, is long forgotten, but its effects are visibly noticeable. He begins the year as a baby and ages the equivalent of two human years for every week that passes (or roughly 100 times faster than normal human aging). Father Time spends his final days at the end of the year as a venerable old man, dying at the close of the old year and springing from the crumbling Sands of Time falling away from his body as Baby New Year. It is this same curse that prevents him from dying or being killed; he simply revives minutes after his “death,” the crumbling pile of sands reconstituting into his infant form.
 
@@ -24,4 +24,4 @@ Father Time’s fragmentary memory allows him to meet nearly everyone anew each 
 
 Father Time is unique among the major personalities of FaerieLand in at least one other respect—he can easily pierce region boundaries and those separating FaerieLand from Between or even the mortal lands. People who seek to escape certain regions should follow Father Time, as his passage temporarily weakens regional boundaries (DC to pierce boundaries reduced by 10 for 1 hour after Father Time’s egress).
 
-One of the primary reasons people seek out Father Time wherever he goes is that he actually produces *magic sand* as a side-effect of his curse, and it collects in the pockets of his robes. Most often, it gets reabsorbed into his form, but he can choose to give away 1d20 pinches of *magic sand* to those he deems worthy every other round in the latter third of each year. When he dies and reincarnates as Baby New Year, Father Time crumbles to a pile of *magic sand* and leaves 10d20 pinches of that matter behind where he died; if this *sand* is not collected within the first minute of the new year, it blows away and disappears.
+One of the primary reasons people seek out Father Time wherever he goes is that he actually produces _magic sand_ as a side-effect of his curse, and it collects in the pockets of his robes. Most often, it gets reabsorbed into his form, but he can choose to give away 1d20 pinches of _magic sand_ to those he deems worthy every other round in the latter third of each year. When he dies and reincarnates as Baby New Year, Father Time crumbles to a pile of _magic sand_ and leaves 10d20 pinches of that matter behind where he died; if this _sand_ is not collected within the first minute of the new year, it blows away and disappears.

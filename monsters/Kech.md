@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Kech
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
-  - **Hit Dice**: 4d10+4 (26 hp)
-  - **Initiative**: +2
-  - **Speed**: 40 ft. (8 squares), climb 20 ft.
-  - **Armor Class**: 16 (+2 Dex, +1 dodge, +3 natural), touch 13, flat-footed 13
-  - **Base Attack**: +4; **CMB**: +5; **CMD**: 18
-  - **Attack**: Bite +5 melee (1d6+1) or claw +5 melee (1d4+1) or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +6 ranged (1d8/×3)
-  - **Full Attack**: Bite +5 melee (1d6+1) and 2 claws +5 melee (1d4+1); or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +6 ranged (1d8/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws 1d4 +1), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-  - **Saves**: Fort +2, Ref +6, Will +5
-  - **Abilities**: Str 13, Dex 15, Con 12, Int 10, Wis 12, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +16 (+20 jumping), [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +13 (+19 in forests and jungles)
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]]
-  - **Environment**: Warm forests
-  - **Organization**: Solitary, pair, or tribe (3–36 plus 2–6 dire apes)
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard (longbow with 20 arrows, other treasure)
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
+- **Hit Dice**: 4d10+4 (26 hp)
+- **Initiative**: +2
+- **Speed**: 40 ft. (8 squares), climb 20 ft.
+- **Armor Class**: 16 (+2 Dex, +1 dodge, +3 natural), touch 13, flat-footed 13
+- **Base Attack**: +4; **CMB**: +5; **CMD**: 18
+- **Attack**: Bite +5 melee (1d6+1) or claw +5 melee (1d4+1) or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +6 ranged (1d8/×3)
+- **Full Attack**: Bite +5 melee (1d6+1) and 2 claws +5 melee (1d4+1); or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +6 ranged (1d8/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws 1d4 +1), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
+- **Saves**: Fort +2, Ref +6, Will +5
+- **Abilities**: Str 13, Dex 15, Con 12, Int 10, Wis 12, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +16 (+20 jumping), [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +13 (+19 in forests and jungles)
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]]
+- **Environment**: Warm forests
+- **Organization**: Solitary, pair, or tribe (3–36 plus 2–6 dire apes)
+- **Challenge Rating**: 3
+- **Treasure**: Standard (longbow with 20 arrows, other treasure)
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Not quite man nor ape, the kech is a hairless primate that dwells in the deepest jungles. There they live in sizable tribes, relying upon their uncanny coloration and skill with bows to hunt prey. The green-and-brown camouflage coloration of a kech's flesh shifts and adapts to all surroundings to aid in stealth, but works particularly well in forests or jungles. This, combined with its uncanny ability to move through any terrain and leave no trace of its passage, makes the kech a masterful ambush hunter. A kech is 6 feet tall and weighs 240 pounds.
 
@@ -71,4 +71,4 @@ Cannibalism is seen as a particularly vile taboo by keches—this prohibition ex
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +4): Constant—*[[rangoric-srd/spells/Pass without Trace|pass without trace]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +4): Constant—_[[rangoric-srd/spells/Pass without Trace|pass without trace]]_.

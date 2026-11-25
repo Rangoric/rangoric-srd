@@ -32,7 +32,7 @@ Psychometabolism (Healing)
 **Duration:** Instantaneous  
 **Saving Throw:** Will negates (harmless)  
 **Power Resistance:** Yes (harmless)  
-**Power Points:** 11  
+**Power Points:** 11
 
 This power cures all [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]], and it restores all points [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drained]] from a single ability score (your choice if more than one score is drained). It also eliminates any [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigue]] or [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhaustion]] suffered by the target.
 

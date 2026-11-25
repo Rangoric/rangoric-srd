@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/word-of-power]
 
 # Line
 
-*One of the [[rangoric-srd/unearthed-arcana/Words of Power/Target Words|target words]] of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]].*
+_One of the [[rangoric-srd/unearthed-arcana/Words of Power/Target Words|target words]] of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]]._
 
 **Level** 1
 

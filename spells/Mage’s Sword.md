@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Mage’s Sword
 
-*Evocation \[Force\]*
+_Evocation \[Force\]_
 
-  - **Level**: Psy 7, Sor/Wiz 7
-  - **Components**: V, S, F
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: One sword
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Psy 7, Sor/Wiz 7
+- **Components**: V, S, F
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: One sword
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 This spell brings into being a shimmering, swordlike plane of force. The sword strikes at any opponent within its range, as you desire, starting in the round that you cast the spell. The sword attacks its designated target once each round on your turn. Its attack bonus is equal to your caster level + your Int bonus or your Cha bonus (for wizards or sorcerers, respectively) with an additional +3 enhancement bonus. As a force effect, it can strike ethereal and [[rangoric-srd/rules/Special Abilities and Conditions#^incorporeal|incorporeal]] creatures. It deals 4d6+3 points of force damage, with a threat range of 19–20 and a critical multiplier of x2.
 
@@ -48,4 +48,4 @@ The sword cannot be attacked or harmed by physical attacks, but dispel magic, di
 
 If an attacked creature has spell resistance, the resistance is checked the first time Mage’s sword strikes it. If the sword is successfully resisted, the spell is dispelled. If not, the sword has its normal full effect on that creature for the duration of the spell.
 
-*Focus*: A miniature platinum sword with a grip and pommel of copper and zinc. It costs 250 gp to construct.
+_Focus_: A miniature platinum sword with a grip and pommel of copper and zinc. It costs 250 gp to construct.

@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Perfect Health
 
-Prerequisite: Con 25, [[rangoric-srd/feats/Great Fortitude|Great Fortitude]].  
+Prerequisite: Con 25, [[rangoric-srd/feats/Great Fortitude|Great Fortitude]].
 
 Benefit: The character is immune to all nonmagical diseases, as well as to all poisons whose Fortitude save DC is 25 or less.

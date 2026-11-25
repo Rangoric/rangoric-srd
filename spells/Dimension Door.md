@@ -35,16 +35,16 @@ tags: [rangoric, rangoric/spell]
 
 # Dimension Door
 
-*Conjuration (Teleportation)*
+_Conjuration (Teleportation)_
 
-  - **Level**: Brd 4, Mag 4, Med 3, Mes 4, Occ 4, Psy 4, Skd 4, Sor/Wiz 4, Spi 4, Sum 3, SumU 4, Travel 4, Wit 4
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Target**: You and touched objects or other touched willing creatures
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None and Will negates (object)
-  - **Spell Resistance**: No and Yes (object)
+- **Level**: Brd 4, Mag 4, Med 3, Mes 4, Occ 4, Psy 4, Skd 4, Sor/Wiz 4, Spi 4, Sum 3, SumU 4, Travel 4, Wit 4
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Target**: You and touched objects or other touched willing creatures
+- **Duration**: Instantaneous
+- **Saving Throw**: None and Will negates (object)
+- **Spell Resistance**: No and Yes (object)
 
 You instantly transfer yourself from your current location to any other spot within range. You always arrive at exactly the spot desired—whether by simply visualizing the area or by stating direction. After using this spell, you can’t take any other actions until your next turn. You can bring along objects as long as their weight doesn’t exceed your maximum load. You may also bring one additional willing Medium or smaller creature (carrying gear or objects up to its maximum load) or its equivalent per three caster levels. A Large creature counts as two Medium creatures, a Huge creature counts as two Large creatures, and so forth. All creatures to be transported must be in contact with one another, and at least one of those creatures must be in contact with you.
 

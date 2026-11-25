@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Guecubu
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Earth)
-  - **Hit Dice**: 11d8+55 (104 hp)
-  - **Initiative**: +8
-  - **Speed**: 30 ft. (6 squares), burrow 15 ft.; earth glide
-  - **Armor Class**: 21 (+4 Dex, +1 dodge, +6 natural), touch 15, flat-footed 16
-  - **Base Attack**: +8; **CMB**: +14; **CMD**: 29
-  - **Attack**: Bite +14 melee (1d8+6 plus misfortune) or slam +14 melee (1d6+6 plus misfortune)
-  - **Full Attack**: Bite +14 melee (1d8+6 plus misfortune) and 2 slams +14 melee (1d6+6 plus misfortune)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Broken Ground|broken ground]] (30 ft., DC 20), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10
-  - **Saves**: Fort +8, Ref +7, Will +11
-  - **Abilities**: Str 22, Dex 18, Con —, Int 13, Wis 18, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Nature|Nature]] +12, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +18
-  - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Whirlwind Attack|Whirlwind Attack]]
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 8
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Earth)
+- **Hit Dice**: 11d8+55 (104 hp)
+- **Initiative**: +8
+- **Speed**: 30 ft. (6 squares), burrow 15 ft.; earth glide
+- **Armor Class**: 21 (+4 Dex, +1 dodge, +6 natural), touch 15, flat-footed 16
+- **Base Attack**: +8; **CMB**: +14; **CMD**: 29
+- **Attack**: Bite +14 melee (1d8+6 plus misfortune) or slam +14 melee (1d6+6 plus misfortune)
+- **Full Attack**: Bite +14 melee (1d8+6 plus misfortune) and 2 slams +14 melee (1d6+6 plus misfortune)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Broken Ground|broken ground]] (30 ft., DC 20), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10
+- **Saves**: Fort +8, Ref +7, Will +11
+- **Abilities**: Str 22, Dex 18, Con —, Int 13, Wis 18, Cha 21
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Nature|Nature]] +12, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +18
+- **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Whirlwind Attack|Whirlwind Attack]]
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 8
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Often when a particularly evil criminal is executed, suspicious folk fear that the criminal's remains might rise from death to continue to plague the living. To combat this possibility, many mobs or rural justices take to the practice of burning the bodies, grinding the bones, and scattering the remains in the wild. Yet in the case of particularly evil criminals, even these steps are in vain, for their will is enough to reassemble a body from earth, stone, roots, and plants drawn from the region into which the remains were scattered. Such an undead horror rises as a guecubu, a harbinger of misfortune and vengeance from beyond the grave.
 
@@ -72,7 +72,7 @@ Guecubus speak Abyssal and Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +13): At will—*[[rangoric-srd/spells/Stone Shape|stone shape]]*; 3/day—*[[rangoric-srd/spells/Soften Earth and Stone|soften earth and stone]]*, *[[rangoric-srd/spells/Spike Growth|spike growth]]* (DC 18); 1/day—*[[rangoric-srd/spells/Spike Stones|spike stones]]* (DC 19), *[[rangoric-srd/spells/Transmute Mud to Rock|transmute mud to rock]]* (DC 20), *[[rangoric-srd/spells/Transmute Rock to Mud|transmute rock to mud]]* (DC 20).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +13): At will—_[[rangoric-srd/spells/Stone Shape|stone shape]]_; 3/day—_[[rangoric-srd/spells/Soften Earth and Stone|soften earth and stone]]_, _[[rangoric-srd/spells/Spike Growth|spike growth]]_ (DC 18); 1/day—_[[rangoric-srd/spells/Spike Stones|spike stones]]_ (DC 19), _[[rangoric-srd/spells/Transmute Mud to Rock|transmute mud to rock]]_ (DC 20), _[[rangoric-srd/spells/Transmute Rock to Mud|transmute rock to mud]]_ (DC 20).
 
 **[[rangoric-srd/monsters/abilities/Broken Ground|Broken Ground]] (Su)**: The ground in a 30-foot radius around a guecubu ripples and shudders unnaturally. This transforms the area surrounding a guecubu into difficult terrain. A guecubu can move through this area with no penalty. Consecrated ground cannot be affected by this ability, nor can any area warded by a magic circle against chaos or a magic circle against evil.
 

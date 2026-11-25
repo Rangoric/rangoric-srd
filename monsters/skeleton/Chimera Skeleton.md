@@ -38,25 +38,25 @@ tags: [rangoric, rangoric/monster]
 
 # Chimera Skeleton
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 9d12 (58 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 13 (+2 Dex., –1 size, +2 natural), touch 11, flat-footed 11
-  - **Base Attack**: +4; **CMB**: +9; **CMD**: 21 (25 vs. trip)
-  - **Attack**: Bite +7 melee (2d6+4)
-  - **Full Attack**: Bite +7 melee (2d6+4) and bite+7 melee (1d8+4) and gore +7 melee (1d8+4) and 2 claws +2 melee (1d6+2)
-  - **Space/Reach**: 10 ft./5 ft
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/bludgeoning, darkvision 60 ft., immunity to cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
-  - **Saves**: Fort +3, Ref +5, Will +6
-  - **Abilities**: Str 19, Dex 15, Con —, Int —, Wis 10, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +16
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
-  - **Environment**: Temperate hills
-  - **Organization**: Any
-  - **Challenge Rating**: 4
-  - **Treasure**: None
-  - **Alignment**: Always neutral evil
-  - **Advancement**: 10–13 HD (Large); 14–27 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 9d12 (58 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 13 (+2 Dex., –1 size, +2 natural), touch 11, flat-footed 11
+- **Base Attack**: +4; **CMB**: +9; **CMD**: 21 (25 vs. trip)
+- **Attack**: Bite +7 melee (2d6+4)
+- **Full Attack**: Bite +7 melee (2d6+4) and bite+7 melee (1d8+4) and gore +7 melee (1d8+4) and 2 claws +2 melee (1d6+2)
+- **Space/Reach**: 10 ft./5 ft
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/bludgeoning, darkvision 60 ft., immunity to cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
+- **Saves**: Fort +3, Ref +5, Will +6
+- **Abilities**: Str 19, Dex 15, Con —, Int —, Wis 10, Cha 1
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +16
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
+- **Environment**: Temperate hills
+- **Organization**: Any
+- **Challenge Rating**: 4
+- **Treasure**: None
+- **Alignment**: Always neutral evil
+- **Advancement**: 10–13 HD (Large); 14–27 HD (Huge)
+- **Level Adjustment**: —

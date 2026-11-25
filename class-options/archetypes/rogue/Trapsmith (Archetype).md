@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Trapsmith
 
-*A [[rangoric-srd/classes/Rogue#^rogue-archetypes|rogue]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Rogue#^rogue-archetypes|rogue]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Some rogues are not content with just disabling traps—they love to build them, finding a captivating beauty in the turning of gears and the slither of ropes over pulleys. The trapsmith may have started out putting together traps in order to better understand how to disable them, but for most, it's long since gone beyond that—they now relish the challenge of creating the perfect combat machine.
 

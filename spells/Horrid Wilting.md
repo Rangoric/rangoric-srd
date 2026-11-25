@@ -27,17 +27,17 @@ tags: [rangoric, rangoric/spell]
 
 # Horrid Wilting
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Sha 8, Sor/Wiz 8, Water 8, Wit 8
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Targets**: Living creatures, no two of which can be more than 60 ft. apart
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude half
-  - **Spell Resistance**: Yes
+- **Level**: Sha 8, Sor/Wiz 8, Water 8, Wit 8
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Targets**: Living creatures, no two of which can be more than 60 ft. apart
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude half
+- **Spell Resistance**: Yes
 
 This spell evaporates moisture from the body of each subject living creature, dealing 1d6 points of damage per caster level (maximum 20d6). This spell is especially devastating to water elementals and plant creatures, which instead take 1d8 points of damage per caster level (maximum 20d8).
 
-*Arcane Material Component*: A bit of sponge.
+_Arcane Material Component_: A bit of sponge.

@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Leadership
 
-Armor with this ability increases the wearer’s ability to attract loyal companions and devoted followers. A suit of *leadership* armor increases the wearer’s [[rangoric-srd/feats/Leadership|Leadership]] score by 2.
+Armor with this ability increases the wearer’s ability to attract loyal companions and devoted followers. A suit of _leadership_ armor increases the wearer’s [[rangoric-srd/feats/Leadership|Leadership]] score by 2.
 
-Strong enchantment; CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Charm Monster, Mass|mass charm monster]]*; Price +2 bonus.
+Strong enchantment; CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Charm Monster, Mass|mass charm monster]]_; Price +2 bonus.

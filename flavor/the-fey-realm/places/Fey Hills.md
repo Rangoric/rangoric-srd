@@ -21,12 +21,12 @@ Also known as the Hollow Hills, the Fey Hills are dotted with the homes of many 
 
 **Personalities:** [[rangoric-srd/flavor/the-fey-realm/personalities/Queen Titania|The Faerie Queen Titania]], [[rangoric-srd/flavor/the-fey-realm/personalities/King Oberon|King Oberon]]
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* The most elaborate fey hill is Beann Raithe.
+_Common:_ The most elaborate fey hill is Beann Raithe.
 
-*Uncommon:* All the hills hold fey dwellings within them, though some may be disused.
+_Uncommon:_ All the hills hold fey dwellings within them, though some may be disused.
 
-*Rare:* Venturing into abandoned raths is discouraged but not forbidden. Frequently, abandoned raths become infested with monsters from the surrounding FaerieLands and sometimes even through fey *doorways* they may contain.
+_Rare:_ Venturing into abandoned raths is discouraged but not forbidden. Frequently, abandoned raths become infested with monsters from the surrounding FaerieLands and sometimes even through fey _doorways_ they may contain.
 
-*Obscure:* Chealyn Raithe, a long abandoned and monster-infested ruin, contains a *doorway* that leads directly into the city of Shadow.
+_Obscure:_ Chealyn Raithe, a long abandoned and monster-infested ruin, contains a _doorway_ that leads directly into the city of Shadow.

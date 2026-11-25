@@ -15,9 +15,9 @@ tags: [rangoric, rangoric/overview]
 
 **The Core Mechanic**: Whenever you attempt an action that has some chance of failure, you roll a twenty-sided die (d20). To determine if your character succeeds at a task you do this: ^the-core-mechanic
 
-  - Roll a d20.
-  - Add any relevant modifiers.
-  - Compare the result to a target number.
+- Roll a d20.
+- Add any relevant modifiers.
+- Compare the result to a target number.
 
 If the result equals or exceeds the target number, your character succeeds. If the result is lower than the target number, you fail.
 
@@ -31,7 +31,7 @@ Dice rolls are described with expressions such as “3d4+3,” which means “ro
 
 In general, if you wind up with a fraction, round down, even if the fraction is one-half or larger.
 
-*Exception*: Certain rolls, such as damage and hit points, have a minimum of 1.
+_Exception_: Certain rolls, such as damage and hit points, have a minimum of 1.
 
 ##### Multiplying
 
@@ -51,29 +51,29 @@ The modifier is the number you apply to the die roll when your character tries t
 
 | Score | Modifier | Bonus Spells (by Spell Level): 0       | Bonus Spells (by Spell Level): 1st | Bonus Spells (by Spell Level): 2nd | Bonus Spells (by Spell Level): 3rd | Bonus Spells (by Spell Level): 4th | Bonus Spells (by Spell Level): 5th | Bonus Spells (by Spell Level): 6th | Bonus Spells (by Spell Level): 7th | Bonus Spells (by Spell Level): 8th | Bonus Spells (by Spell Level): 9th |
 | ----- | -------- | -------------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- | ---------------------------------- |
-| 1     | -5      | Can't cast spells tied to this ability |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |
-| 2-3   | -4      | Can't cast spells tied to this ability |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |
-| 4-5   | -3      | Can't cast spells tied to this ability |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |
-| 6-7   | -2      | Can't cast spells tied to this ability |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |
-| 8-9   | -1      | Can't cast spells tied to this ability |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |
+| 1     | -5       | Can't cast spells tied to this ability |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |
+| 2-3   | -4       | Can't cast spells tied to this ability |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |
+| 4-5   | -3       | Can't cast spells tied to this ability |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |
+| 6-7   | -2       | Can't cast spells tied to this ability |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |
+| 8-9   | -1       | Can't cast spells tied to this ability |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |                                    |
 | 10-11 | 0        | —                                      | —                                  | —                                  | —                                  | —                                  | —                                  | —                                  | —                                  | —                                  | —                                  |
-| 12-13 | +1      | —                                      | 1                                  | —                                  | —                                  | —                                  | —                                  | —                                  | —                                  | —                                  | —                                  |
-| 14-15 | +2      | —                                      | 1                                  | 1                                  | —                                  | —                                  | —                                  | —                                  | —                                  | —                                  | —                                  |
-| 16-17 | +3      | —                                      | 1                                  | 1                                  | 1                                  | —                                  | —                                  | —                                  | —                                  | —                                  | —                                  |
-| 18-19 | +4      | —                                      | 1                                  | 1                                  | 1                                  | 1                                  | —                                  | —                                  | —                                  | —                                  | —                                  |
-| 20-21 | +5      | —                                      | 2                                  | 1                                  | 1                                  | 1                                  | 1                                  | —                                  | —                                  | —                                  | —                                  |
-| 22-23 | +6      | —                                      | 2                                  | 2                                  | 1                                  | 1                                  | 1                                  | 1                                  | —                                  | —                                  | —                                  |
-| 24-25 | +7      | —                                      | 2                                  | 2                                  | 2                                  | 1                                  | 1                                  | 1                                  | 1                                  | —                                  | —                                  |
-| 26-27 | +8      | —                                      | 2                                  | 2                                  | 2                                  | 2                                  | 1                                  | 1                                  | 1                                  | 1                                  | —                                  |
-| 28-29 | +9      | —                                      | 3                                  | 2                                  | 2                                  | 2                                  | 2                                  | 1                                  | 1                                  | 1                                  | 1                                  |
-| 30-31 | +10     | —                                      | 3                                  | 3                                  | 2                                  | 2                                  | 2                                  | 2                                  | 1                                  | 1                                  | 1                                  |
-| 32-33 | +11     | —                                      | 3                                  | 3                                  | 3                                  | 2                                  | 2                                  | 2                                  | 2                                  | 1                                  | 1                                  |
-| 34-35 | +12     | —                                      | 3                                  | 3                                  | 3                                  | 3                                  | 2                                  | 2                                  | 2                                  | 2                                  | 1                                  |
-| 36-37 | +13     | —                                      | 4                                  | 3                                  | 3                                  | 3                                  | 3                                  | 2                                  | 2                                  | 2                                  | 2                                  |
-| 38-39 | +14     | —                                      | 4                                  | 4                                  | 3                                  | 3                                  | 3                                  | 3                                  | 2                                  | 2                                  | 2                                  |
-| 40-41 | +15     | —                                      | 4                                  | 4                                  | 4                                  | 3                                  | 3                                  | 3                                  | 3                                  | 2                                  | 2                                  |
-| 42-43 | +16     | —                                      | 4                                  | 4                                  | 4                                  | 4                                  | 3                                  | 3                                  | 3                                  | 3                                  | 2                                  |
-| 44-45 | +17     | —                                      | 5                                  | 4                                  | 4                                  | 4                                  | 4                                  | 3                                  | 3                                  | 3                                  | 3                                  |
+| 12-13 | +1       | —                                      | 1                                  | —                                  | —                                  | —                                  | —                                  | —                                  | —                                  | —                                  | —                                  |
+| 14-15 | +2       | —                                      | 1                                  | 1                                  | —                                  | —                                  | —                                  | —                                  | —                                  | —                                  | —                                  |
+| 16-17 | +3       | —                                      | 1                                  | 1                                  | 1                                  | —                                  | —                                  | —                                  | —                                  | —                                  | —                                  |
+| 18-19 | +4       | —                                      | 1                                  | 1                                  | 1                                  | 1                                  | —                                  | —                                  | —                                  | —                                  | —                                  |
+| 20-21 | +5       | —                                      | 2                                  | 1                                  | 1                                  | 1                                  | 1                                  | —                                  | —                                  | —                                  | —                                  |
+| 22-23 | +6       | —                                      | 2                                  | 2                                  | 1                                  | 1                                  | 1                                  | 1                                  | —                                  | —                                  | —                                  |
+| 24-25 | +7       | —                                      | 2                                  | 2                                  | 2                                  | 1                                  | 1                                  | 1                                  | 1                                  | —                                  | —                                  |
+| 26-27 | +8       | —                                      | 2                                  | 2                                  | 2                                  | 2                                  | 1                                  | 1                                  | 1                                  | 1                                  | —                                  |
+| 28-29 | +9       | —                                      | 3                                  | 2                                  | 2                                  | 2                                  | 2                                  | 1                                  | 1                                  | 1                                  | 1                                  |
+| 30-31 | +10      | —                                      | 3                                  | 3                                  | 2                                  | 2                                  | 2                                  | 2                                  | 1                                  | 1                                  | 1                                  |
+| 32-33 | +11      | —                                      | 3                                  | 3                                  | 3                                  | 2                                  | 2                                  | 2                                  | 2                                  | 1                                  | 1                                  |
+| 34-35 | +12      | —                                      | 3                                  | 3                                  | 3                                  | 3                                  | 2                                  | 2                                  | 2                                  | 2                                  | 1                                  |
+| 36-37 | +13      | —                                      | 4                                  | 3                                  | 3                                  | 3                                  | 3                                  | 2                                  | 2                                  | 2                                  | 2                                  |
+| 38-39 | +14      | —                                      | 4                                  | 4                                  | 3                                  | 3                                  | 3                                  | 3                                  | 2                                  | 2                                  | 2                                  |
+| 40-41 | +15      | —                                      | 4                                  | 4                                  | 4                                  | 3                                  | 3                                  | 3                                  | 3                                  | 2                                  | 2                                  |
+| 42-43 | +16      | —                                      | 4                                  | 4                                  | 4                                  | 4                                  | 3                                  | 3                                  | 3                                  | 3                                  | 2                                  |
+| 44-45 | +17      | —                                      | 5                                  | 4                                  | 4                                  | 4                                  | 4                                  | 3                                  | 3                                  | 3                                  | 3                                  |
 
 etc...
 
@@ -91,10 +91,10 @@ Strength measures your character’s muscle and physical power. This ability is 
 
 You apply your character’s Strength modifier to:
 
-  - Melee attack rolls.
-  - Damage rolls when using a melee weapon or a thrown weapon (including a sling). (Exceptions: Off-hand attacks receive only one-half the character’s Strength bonus, while two-handed attacks receive one and a half times the Strength bonus. A Strength penalty, but not a bonus, applies to attacks made with a bow that is not a composite bow.)
-  - [[rangoric-srd/skills/Athletics|Athletics]] checks. These are the skills that have Strength as their key ability.
-  - Strength checks (for breaking down doors and the like).
+- Melee attack rolls.
+- Damage rolls when using a melee weapon or a thrown weapon (including a sling). (Exceptions: Off-hand attacks receive only one-half the character’s Strength bonus, while two-handed attacks receive one and a half times the Strength bonus. A Strength penalty, but not a bonus, applies to attacks made with a bow that is not a composite bow.)
+- [[rangoric-srd/skills/Athletics|Athletics]] checks. These are the skills that have Strength as their key ability.
+- Strength checks (for breaking down doors and the like).
 
 ##### Dexterity (Dex)
 
@@ -102,10 +102,10 @@ Dexterity measures hand-eye coordination, agility, reflexes, and balance. This a
 
 You apply your character’s Dexterity modifier to:
 
-  - Ranged attack rolls, including those for attacks made with bows, crossbows, throwing axes, and other ranged weapons.
-  - Armor Class (AC), provided that the character can react to the attack.
-  - Reflex saving throws, for avoiding fireballs and other attacks that you can escape by moving quickly.
-  - [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Escape Artist|Escape Artist]], [[rangoric-srd/skills/Stealth|Stealth]], [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]], [[rangoric-srd/skills/Animal Handling|Animal Handling]], and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks. These are the skills that have Dexterity as their key ability.
+- Ranged attack rolls, including those for attacks made with bows, crossbows, throwing axes, and other ranged weapons.
+- Armor Class (AC), provided that the character can react to the attack.
+- Reflex saving throws, for avoiding fireballs and other attacks that you can escape by moving quickly.
+- [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Escape Artist|Escape Artist]], [[rangoric-srd/skills/Stealth|Stealth]], [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]], [[rangoric-srd/skills/Animal Handling|Animal Handling]], and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks. These are the skills that have Dexterity as their key ability.
 
 ##### Constitution (Con)
 
@@ -113,9 +113,9 @@ Constitution represents your character’s health and stamina. A Constitution bo
 
 You apply your character’s Constitution modifier to:
 
-  - Each roll of a Hit Die (though a penalty can never drop a result below 1—that is, a character always gains at least 1 hit point each time he or she advances in level).
-  - Fortitude saving throws, for resisting poison and similar threats.
-  - [[rangoric-srd/rules/Concentration (Check)|Concentration checks]], which spellcasters make with their caster level plus their Constitution modifier.
+- Each roll of a Hit Die (though a penalty can never drop a result below 1—that is, a character always gains at least 1 hit point each time he or she advances in level).
+- Fortitude saving throws, for resisting poison and similar threats.
+- [[rangoric-srd/rules/Concentration (Check)|Concentration checks]], which spellcasters make with their caster level plus their Constitution modifier.
 
 If a character’s Constitution score changes enough to alter his or her Constitution modifier, the character’s hit points also increase or decrease accordingly.
 
@@ -125,9 +125,9 @@ Intelligence determines how well your character learns and reasons. This ability
 
 You apply your character’s Intelligence modifier to:
 
-  - The number of languages your character knows at the start of the game.
-  - The number of skill points gained each level. (But your character always gets at least 1 skill point per level.)
-  - [[rangoric-srd/skills/Appraise|Appraise]], [[rangoric-srd/skills/Craft|Craft]], [[rangoric-srd/skills/Linguistics|Linguistics]], [[rangoric-srd/skills/Engineering|Engineering]], [[rangoric-srd/skills/Imitation|Imitation]], [[rangoric-srd/skills/Knowledge|Knowledge]], [[rangoric-srd/skills/Investigation|Investigation]], and [[rangoric-srd/skills/Mysticism|Mysticism]] checks. These are the skills that have Intelligence as their key ability.
+- The number of languages your character knows at the start of the game.
+- The number of skill points gained each level. (But your character always gets at least 1 skill point per level.)
+- [[rangoric-srd/skills/Appraise|Appraise]], [[rangoric-srd/skills/Craft|Craft]], [[rangoric-srd/skills/Linguistics|Linguistics]], [[rangoric-srd/skills/Engineering|Engineering]], [[rangoric-srd/skills/Imitation|Imitation]], [[rangoric-srd/skills/Knowledge|Knowledge]], [[rangoric-srd/skills/Investigation|Investigation]], and [[rangoric-srd/skills/Mysticism|Mysticism]] checks. These are the skills that have Intelligence as their key ability.
 
 A [[rangoric-srd/classes/Wizard|wizard]] gains bonus spells based on her Intelligence score. The minimum Intelligence score needed to cast a wizard spell is 10 + the spell’s level.
 
@@ -139,8 +139,8 @@ Wisdom describes a character’s willpower, common sense, perception, and intuit
 
 You apply your character’s Wisdom modifier to:
 
-  - Will saving throws (for negating the effect of charm person and other spells).
-  - [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Profession|Profession]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks. These are the skills that have Wisdom as their key ability.
+- Will saving throws (for negating the effect of charm person and other spells).
+- [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Profession|Profession]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks. These are the skills that have Wisdom as their key ability.
 
 [[rangoric-srd/classes/Cleric|Clerics]], [[rangoric-srd/classes/Druid|druids]], and [[rangoric-srd/classes/Ranger|rangers]] get bonus spells based on their Wisdom scores. The minimum Wisdom score needed to cast a cleric, druid, or ranger spell is 10 + the spell’s level.
 
@@ -150,9 +150,9 @@ Charisma measures a character’s force of personality, persuasiveness, personal
 
 You apply your character’s Charisma modifier to:
 
-  - [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Imitation|Imitation]], [[rangoric-srd/skills/Animal Handling|Animal Handling]], [[rangoric-srd/skills/Intimidation|Intimidation]], [[rangoric-srd/skills/Performance|Performance]], and [[rangoric-srd/skills/Emulation|Emulation]] checks. These are the skills that have Charisma as their key ability.
-  - Checks that represent attempts to influence others.
-  - Turning checks for [[rangoric-srd/classes/Cleric|clerics]] and [[rangoric-srd/classes/Paladin|paladins]] attempting to turn zombies, vampires, and other undead.
+- [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Imitation|Imitation]], [[rangoric-srd/skills/Animal Handling|Animal Handling]], [[rangoric-srd/skills/Intimidation|Intimidation]], [[rangoric-srd/skills/Performance|Performance]], and [[rangoric-srd/skills/Emulation|Emulation]] checks. These are the skills that have Charisma as their key ability.
+- Checks that represent attempts to influence others.
+- Turning checks for [[rangoric-srd/classes/Cleric|clerics]] and [[rangoric-srd/classes/Paladin|paladins]] attempting to turn zombies, vampires, and other undead.
 
 [[rangoric-srd/classes/Paladin|Paladins]], [[rangoric-srd/classes/Sorcerer|sorcerers]], and [[rangoric-srd/classes/Bard|bards]] get bonus spells based on their Charisma scores. The minimum Charisma score needed to cast a paladin, sorcerer, or bard spell is 10 + the spell’s level.
 

@@ -34,19 +34,19 @@ tags: [rangoric, rangoric/spell]
 
 # Crushing Despair
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Blr 4, Brd 3, Mes 3, Psy 4, Skd 3, Sor/Wiz 4, Spi 4, Wit 4
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: 30 ft.
-  - **Area**: Cone-shaped burst
-  - **Duration**: 1 min./level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Blr 4, Brd 3, Mes 3, Psy 4, Skd 3, Sor/Wiz 4, Spi 4, Wit 4
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: 30 ft.
+- **Area**: Cone-shaped burst
+- **Duration**: 1 min./level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 An [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] cone of despair causes great sadness in the subjects. Each affected creature takes a –2 penalty on attack rolls, saving throws, ability checks, skill checks, and weapon damage rolls.
 
 Crushing despair counters and dispels good hope.
 
-*Material Component*: A vial of tears.
+_Material Component_: A vial of tears.

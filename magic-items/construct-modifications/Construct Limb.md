@@ -24,4 +24,4 @@ The limb also provides the wearer with limited protection in combat, roughly equ
 
 A construct limb counts as a heavy steel shield for purposes of determining AC, weight, Dexterity modifiers to AC, and chance of arcane spell failure.
 
-CR increase none; [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Animate Objects|animate objects]]*, Small or Tiny construct; Cost 27,000 gp.
+CR increase none; [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Animate Objects|animate objects]]_, Small or Tiny construct; Cost 27,000 gp.

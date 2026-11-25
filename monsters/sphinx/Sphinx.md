@@ -25,7 +25,7 @@ Most sphinxes fight on the ground, using their wings to help them [[rangoric-srd
 
 **Rake (Ex)**: A sphinx that pounces onto a creature can make two [[rangoric-srd/monsters/abilities/Rake|rake]] attacks with its hind legs. Each sphinx’s description provides its attack bonus and damage.
 
-  - [[rangoric-srd/monsters/sphinx/Androsphinx|Androsphinx]]
-  - [[rangoric-srd/monsters/sphinx/Criosphinx|Criosphinx]]
-  - [[rangoric-srd/monsters/sphinx/Gynosphinx|Gynosphinx]]
-  - [[rangoric-srd/monsters/sphinx/Hieracosphinx|Hieracosphinx]]
+- [[rangoric-srd/monsters/sphinx/Androsphinx|Androsphinx]]
+- [[rangoric-srd/monsters/sphinx/Criosphinx|Criosphinx]]
+- [[rangoric-srd/monsters/sphinx/Gynosphinx|Gynosphinx]]
+- [[rangoric-srd/monsters/sphinx/Hieracosphinx|Hieracosphinx]]

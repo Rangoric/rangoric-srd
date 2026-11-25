@@ -32,16 +32,16 @@ tags: [rangoric, rangoric/spell]
 
 # Speak with Dead
 
-*Necromancy \[Language-Dependent\]*
+_Necromancy \[Language-Dependent\]_
 
-  - **Level**: Clr 3, Inq 3, Med 2, Psy 3, Sha 3, Spi 3, Wit 3
-  - **Components**: V, S, DF
-  - **Casting Time**: 10 minutes
-  - **Range**: 10 ft.
-  - **Target**: One [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] creature
-  - **Duration**: 1 min./level
-  - **Saving Throw**: Will negates; see text
-  - **Spell Resistance**: No
+- **Level**: Clr 3, Inq 3, Med 2, Psy 3, Sha 3, Spi 3, Wit 3
+- **Components**: V, S, DF
+- **Casting Time**: 10 minutes
+- **Range**: 10 ft.
+- **Target**: One [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] creature
+- **Duration**: 1 min./level
+- **Saving Throw**: Will negates; see text
+- **Spell Resistance**: No
 
 You grant the semblance of life and intellect to a corpse, allowing it to answer several questions that you put to it. You may ask one question per two caster levels. Unasked questions are wasted if the duration expires. The corpse’s knowledge is limited to what the creature knew during life, including the languages it spoke (if any). Answers are usually brief, cryptic, or repetitive. If the creature’s alignment was different from yours, the corpse gets a Will save to resist the spell as if it were alive.
 

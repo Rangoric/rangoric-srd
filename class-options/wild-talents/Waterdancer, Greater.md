@@ -18,12 +18,12 @@ tags: [rangoric, rangoric/class-option]
 
 # Waterdancer, Greater
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Water Element|water]]
-  - **Type**: utility (Su)
-  - **Level**: 5
-  - **Burn**: 0
-  - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Waterdancer|waterdancer]]
+- **Element**: [[rangoric-srd/class-options/elements/Water Element|water]]
+- **Type**: utility (Su)
+- **Level**: 5
+- **Burn**: 0
+- **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Waterdancer|waterdancer]]
 
-You can move across water (as *[[rangoric-srd/spells/Water Walk|water walk]]*) at will and breathe underwater, and your slashing and bludgeoning attacks don’t take the usual penalties when you’re underwater.
+You can move across water (as _[[rangoric-srd/spells/Water Walk|water walk]]_) at will and breathe underwater, and your slashing and bludgeoning attacks don’t take the usual penalties when you’re underwater.

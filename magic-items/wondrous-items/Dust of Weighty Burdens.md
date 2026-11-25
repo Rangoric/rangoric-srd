@@ -27,4 +27,4 @@ One application of the dust sprinkled over an object increases the target's weig
 
 A creature struck directly with a thrown flask must make a Fortitude save (DC 10 + 1 per application remaining in the flask) or gain [[rangoric-srd/rules/Carrying, Movement, and Exploration#Carrying Capacity|heavy encumbrance]] and be unable to fly for 2d4 rounds. Targets in the splash area must save or gain [[rangoric-srd/rules/Carrying, Movement, and Exploration#Carrying Capacity|medium encumbrance]] for 2d4 rounds. Scrubbing or electricity damage neutralizes the thrown powder as noted above.
 
-Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Slow|slow]]*, *[[rangoric-srd/spells/Stone Shape|stone shape]]*; Price 3,600 gp; Cost 1,800 gp; Weight 3 lbs.
+Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Slow|slow]]_, _[[rangoric-srd/spells/Stone Shape|stone shape]]_; Price 3,600 gp; Cost 1,800 gp; Weight 3 lbs.

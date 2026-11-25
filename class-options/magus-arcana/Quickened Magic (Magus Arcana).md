@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Quickened Magic
 
-*A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Su).*
+_A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Su)._
 
 The magus can cast one spell per day as if it were modified by the [[rangoric-srd/feats/Quicken Spell|Quicken Spell]] feat. This does not increase the level of the spell. The magus must be at least 15th level before selecting this magus arcana.

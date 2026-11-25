@@ -40,31 +40,31 @@ tags: [rangoric, rangoric/monster]
 
 # Werecrocodile
 
-| | Werecrocodile, Human Form Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid\|Humanoid]] (Human, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^shapechanger\|Shapechanger]]) |  | Werecrocodile, Hybrid Form Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid\|Humanoid]] (Human, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^shapechanger\|Shapechanger]]) |
-| --- | --- |  | --- |
-| **Hit Dice:** | 3d10+6 (27 hp) |  | 3d10+9 (30 hp) |
-| **Initiative:** | +5 |  | +5 |
-| **Speed:** | 30 ft. (6 squares) |  | 30 ft. (6 squares), swim 20 ft.; sprint |
-| **Armor Class:** | 11 (+1 Dex), touch 11, flat-footed 10 |  | 17 (+1 Dex, +6 natural), touch 11, flat-footed 16 |
-| **Base Attack:** | +3 |  | +3 |
-| **CMB:** | +6 |  | +7 (+11 grapple) |
-| **CMD:** | 17 |  | 18 |
-| **Attack:** | [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons\|Masterwork]] [[rangoric-srd/equipment/weapons/Battleaxe\|battleaxe]] +7 melee (1d8+3/×3) |  | Bite +7 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Grab\|grab]] and [[rangoric-srd/monsters/abilities/Curse of Lycanthropy\|curse of lycanthropy]]) or tail slap +7 melee (1d12+2) |
-| **Full Attack:** | [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons\|Masterwork]] [[rangoric-srd/equipment/weapons/Battleaxe\|battleaxe]] +7 melee (1d8+3/×3) |  | Bite +7 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Grab\|grab]] and [[rangoric-srd/monsters/abilities/Curse of Lycanthropy\|curse of lycanthropy]]) and tail slap +2 melee (1d12+2) |
-| **Space/Reach:** | 5 ft./5 ft. |  | 5 ft./5 ft. |
-| **Special Attacks:** | — |  | [[rangoric-srd/monsters/abilities/Curse of Lycanthropy\|Curse of lycanthropy]], [[rangoric-srd/monsters/abilities/Death Roll\|death roll]] (1d8+4 plus trip), [[rangoric-srd/monsters/abilities/Grab\|grab]] |
-| **Special Qualities:** | [[rangoric-srd/monsters/abilities/Low-Light Vision\|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent\|scent]], [[rangoric-srd/classes/Fighter#^fighter-bravery\|bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training\|armor training]] 1, [[rangoric-srd/monsters/abilities/Change Shape\|change shape]] (human, hybrid, and crocodile; polymorph), [[rangoric-srd/monsters/abilities/Lycanthropic Empathy\|lycanthropic empathy]] (crocodiles and dire crocodiles) |  | [[rangoric-srd/monsters/abilities/Low-Light Vision\|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent\|scent]], [[rangoric-srd/classes/Fighter#^fighter-bravery\|bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training\|armor training]] 1, [[rangoric-srd/monsters/abilities/Change Shape\|change shape]] (human, hybrid, and crocodile; polymorph), [[rangoric-srd/monsters/abilities/Hold Breath\|hold breath]], [[rangoric-srd/monsters/abilities/Lycanthropic Empathy\|lycanthropic empathy]] (crocodiles and dire crocodiles), [[rangoric-srd/monsters/abilities/Sprint\|sprint]], [[rangoric-srd/monsters/abilities/Damage Reduction\|damage reduction]] 10/silver |
-| **Saves:** | Fort +7, Ref +2, Will +2 |  | Fort +8, Ref +2, Will +2 |
-| **Abilities:** | Str 17, Dex 13, Con 14, Int 12, Wis 12, Cha 6 |  | Str 19, Dex 13, Con 16, Int 12, Wis 12, Cha 6 |
-| **Skills:** | [[rangoric-srd/skills/Athletics\|Athletics]] +11, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +7, [[rangoric-srd/skills/Intimidation\|Intimidation]] +4, [[rangoric-srd/skills/Perception\|Perception]] +4, [[rangoric-srd/skills/Stealth\|Stealth]] +5 |  | [[rangoric-srd/skills/Athletics\|Athletics]] +19, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +7, [[rangoric-srd/skills/Intimidation\|Intimidation]] +4, [[rangoric-srd/skills/Perception\|Perception]] +4, [[rangoric-srd/skills/Stealth\|Stealth]] +5 |
-| **Feats:** | [[rangoric-srd/feats/Cleave\|Cleave]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Run\|Run]] |  | [[rangoric-srd/feats/Cleave\|Cleave]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Run\|Run]] |
-| **Environment:** | Warm rivers or marshes |  | Warm rivers or marshes |
-| **Organization:** | Solitary, pair, or colony (3–12) |  | Solitary, pair, or colony (3–12) |
-| **Challenge Rating:** | 3 |  | 3 |
-| **Treasure:** | NPC gear (mwk battleaxe, other treasure) |  | NPC gear (mwk battleaxe, other treasure) |
-| **Alignment:** | Usually neutral evil |  | Usually neutral evil |
-| **Advancement:** | — |  | — |
-| **Level Adjustment:** | — |  | — |
+| | Werecrocodile, Human Form Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid\|Humanoid]] (Human, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^shapechanger\|Shapechanger]]) | | Werecrocodile, Hybrid Form Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid\|Humanoid]] (Human, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^shapechanger\|Shapechanger]]) |
+| --- | --- | | --- |
+| **Hit Dice:** | 3d10+6 (27 hp) | | 3d10+9 (30 hp) |
+| **Initiative:** | +5 | | +5 |
+| **Speed:** | 30 ft. (6 squares) | | 30 ft. (6 squares), swim 20 ft.; sprint |
+| **Armor Class:** | 11 (+1 Dex), touch 11, flat-footed 10 | | 17 (+1 Dex, +6 natural), touch 11, flat-footed 16 |
+| **Base Attack:** | +3 | | +3 |
+| **CMB:** | +6 | | +7 (+11 grapple) |
+| **CMD:** | 17 | | 18 |
+| **Attack:** | [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons\|Masterwork]] [[rangoric-srd/equipment/weapons/Battleaxe\|battleaxe]] +7 melee (1d8+3/×3) | | Bite +7 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Grab\|grab]] and [[rangoric-srd/monsters/abilities/Curse of Lycanthropy\|curse of lycanthropy]]) or tail slap +7 melee (1d12+2) |
+| **Full Attack:** | [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons\|Masterwork]] [[rangoric-srd/equipment/weapons/Battleaxe\|battleaxe]] +7 melee (1d8+3/×3) | | Bite +7 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Grab\|grab]] and [[rangoric-srd/monsters/abilities/Curse of Lycanthropy\|curse of lycanthropy]]) and tail slap +2 melee (1d12+2) |
+| **Space/Reach:** | 5 ft./5 ft. | | 5 ft./5 ft. |
+| **Special Attacks:** | — | | [[rangoric-srd/monsters/abilities/Curse of Lycanthropy\|Curse of lycanthropy]], [[rangoric-srd/monsters/abilities/Death Roll\|death roll]] (1d8+4 plus trip), [[rangoric-srd/monsters/abilities/Grab\|grab]] |
+| **Special Qualities:** | [[rangoric-srd/monsters/abilities/Low-Light Vision\|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent\|scent]], [[rangoric-srd/classes/Fighter#^fighter-bravery\|bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training\|armor training]] 1, [[rangoric-srd/monsters/abilities/Change Shape\|change shape]] (human, hybrid, and crocodile; polymorph), [[rangoric-srd/monsters/abilities/Lycanthropic Empathy\|lycanthropic empathy]] (crocodiles and dire crocodiles) | | [[rangoric-srd/monsters/abilities/Low-Light Vision\|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent\|scent]], [[rangoric-srd/classes/Fighter#^fighter-bravery\|bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training\|armor training]] 1, [[rangoric-srd/monsters/abilities/Change Shape\|change shape]] (human, hybrid, and crocodile; polymorph), [[rangoric-srd/monsters/abilities/Hold Breath\|hold breath]], [[rangoric-srd/monsters/abilities/Lycanthropic Empathy\|lycanthropic empathy]] (crocodiles and dire crocodiles), [[rangoric-srd/monsters/abilities/Sprint\|sprint]], [[rangoric-srd/monsters/abilities/Damage Reduction\|damage reduction]] 10/silver |
+| **Saves:** | Fort +7, Ref +2, Will +2 | | Fort +8, Ref +2, Will +2 |
+| **Abilities:** | Str 17, Dex 13, Con 14, Int 12, Wis 12, Cha 6 | | Str 19, Dex 13, Con 16, Int 12, Wis 12, Cha 6 |
+| **Skills:** | [[rangoric-srd/skills/Athletics\|Athletics]] +11, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +7, [[rangoric-srd/skills/Intimidation\|Intimidation]] +4, [[rangoric-srd/skills/Perception\|Perception]] +4, [[rangoric-srd/skills/Stealth\|Stealth]] +5 | | [[rangoric-srd/skills/Athletics\|Athletics]] +19, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +7, [[rangoric-srd/skills/Intimidation\|Intimidation]] +4, [[rangoric-srd/skills/Perception\|Perception]] +4, [[rangoric-srd/skills/Stealth\|Stealth]] +5 |
+| **Feats:** | [[rangoric-srd/feats/Cleave\|Cleave]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Run\|Run]] | | [[rangoric-srd/feats/Cleave\|Cleave]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Run\|Run]] |
+| **Environment:** | Warm rivers or marshes | | Warm rivers or marshes |
+| **Organization:** | Solitary, pair, or colony (3–12) | | Solitary, pair, or colony (3–12) |
+| **Challenge Rating:** | 3 | | 3 |
+| **Treasure:** | NPC gear (mwk battleaxe, other treasure) | | NPC gear (mwk battleaxe, other treasure) |
+| **Alignment:** | Usually neutral evil | | Usually neutral evil |
+| **Advancement:** | — | | — |
+| **Level Adjustment:** | — | | — |
 
 Werecrocodiles merge the ruthless determination of a crocodile with the intelligence and adaptability of a humanoid. This fusion creates a maliciously cunning creature with no doubt of its own martial superiority.
 

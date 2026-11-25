@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Unnerving Gaze (Sacristan Kyton)
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “unnerving gaze”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “unnerving gaze”, on the Special Attacks line.
 
 A creature that succumbs to a sacristan's unnerving gaze becomes [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1 round. The [[rangoric-srd/monsters/devil/kytons/Sacristan Kyton|sacristan kyton]] has it.

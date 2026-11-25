@@ -26,4 +26,4 @@ tags: [rangoric, rangoric/magic-item]
 
 The wearer of these simple gloves can speak a command word to create a glowing disembodied hand. As a swift action, the wearer can have the hand assist him with a task as if using the [[rangoric-srd/combat/Combat Special Attacks#Aid Another|aid another]] action. The hand uses the wearer's base attack bonus or skill ranks when making the check to see if aid another is successful (it does not gain the benefit of the wearer's ability scores or other bonuses). The hand remains until it has attempted one action or until 1 minute passes, whichever comes first, at which time the gloves become nonmagical.
 
-Faint transmutation; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Unseen Servant|unseen servant]]*; Price 180 gp; Cost 90 gp; Weight 1 lb.
+Faint transmutation; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Unseen Servant|unseen servant]]_; Price 180 gp; Cost 90 gp; Weight 1 lb.

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Giant Locust
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
-  - **Hit Dice**: 4d8+4 (22 hp)
-  - **Initiative**: +2
-  - **Speed**: 20 ft. (4 squares), climb 20 ft., fly 60 ft. (average)
-  - **Armor Class**: 17 (+2 Dex, +5 natural), touch 12, flat-footed 15
-  - **Base Attack**: +3; **CMB**: +6; **CMD**: 18 (26 vs. trip)
-  - **Attack**: Bite +6 melee (1d8+4) or spit +5 ranged touch (1d3 acid)
-  - **Full Attack**: Bite +6 melee (1d8+4); or spit +5 ranged touch (1d3 acid)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Voracious|Voracious]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Leap|leap]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5
-  - **Saves**: Fort +5, Ref +3, Will +1
-  - **Abilities**: Str 16, Dex 15, Con 13, Int —, Wis 10, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Athletics|Athletics]] +11 (+29 jumping)
-  - **Feats**: —
-  - **Environment**: Temperate or warm deserts or plains
-  - **Organization**: Solitary, pair, gang (3–8), or colony (5–20)
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
+- **Hit Dice**: 4d8+4 (22 hp)
+- **Initiative**: +2
+- **Speed**: 20 ft. (4 squares), climb 20 ft., fly 60 ft. (average)
+- **Armor Class**: 17 (+2 Dex, +5 natural), touch 12, flat-footed 15
+- **Base Attack**: +3; **CMB**: +6; **CMD**: 18 (26 vs. trip)
+- **Attack**: Bite +6 melee (1d8+4) or spit +5 ranged touch (1d3 acid)
+- **Full Attack**: Bite +6 melee (1d8+4); or spit +5 ranged touch (1d3 acid)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Voracious|Voracious]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Leap|leap]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5
+- **Saves**: Fort +5, Ref +3, Will +1
+- **Abilities**: Str 16, Dex 15, Con 13, Int —, Wis 10, Cha 7
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Athletics|Athletics]] +11 (+29 jumping)
+- **Feats**: —
+- **Environment**: Temperate or warm deserts or plains
+- **Organization**: Solitary, pair, gang (3–8), or colony (5–20)
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Giant locusts have a hunger akin to their smaller cousins, but only rarely do they gather in the endless numbers of their tiny kin.
 

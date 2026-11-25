@@ -31,7 +31,7 @@ The legendary dreadnought’s class skills (and the key ability for each skill) 
 
 Skill Points at Each Level: 2 + Int modifier.
 
-Table: The Legendary Dreadnought  
+Table: The Legendary Dreadnought
 
 | Level | Special              |
 | ----- | -------------------- |
@@ -48,7 +48,7 @@ Table: The Legendary Dreadnought
 
 ###### Class Features
 
-The following are class features of the legendary dreadnought prestige class.  
+The following are class features of the legendary dreadnought prestige class.
 
 Weapon and Armor Proficiency: A legendary dreadnought is proficient with all simple and martial weapons, all armor, and all shields.
 

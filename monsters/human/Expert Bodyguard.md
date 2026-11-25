@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Expert Bodyguard
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 7d10+21 (59 hp)
-  - **Initiative**: +3
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 17 (+7 armor, –1 Dex, +1 shield), touch 9, flat-footed 17
-  - **Base Attack**: +7; **CMB**: +8; **CMD**: 17
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +10 melee (1d8+2/19–20) or [[rangoric-srd/equipment/weapons/Kukri|kukri]] +8 melee (1d4+1/18–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +7 ranged (1d8/19–20)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +10/+5 melee (1d8+2/19–20); or [[rangoric-srd/equipment/weapons/Kukri|kukri]] +8/+3 melee (1d4+1/18–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +7 ranged (1d8/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort +7, Ref +1, Will +5
-  - **Abilities**: Str 13, Dex 9, Con 14, Int 10, Wis 12, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +8
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Stand Still|Stand Still]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 5
-  - **Treasure**: NPC gear (combat gear: potion of barkskin, potion of bear's endurance, potion of cure moderate wounds, screaming bolt, tanglefoot bag (2); other gear: masterwork banded mail, masterwork light steel shield, +1 longsword, kukri, masterwork light crossbow with 20 bolts, masterwork manacles, 114 gp)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 7d10+21 (59 hp)
+- **Initiative**: +3
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 17 (+7 armor, –1 Dex, +1 shield), touch 9, flat-footed 17
+- **Base Attack**: +7; **CMB**: +8; **CMD**: 17
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +10 melee (1d8+2/19–20) or [[rangoric-srd/equipment/weapons/Kukri|kukri]] +8 melee (1d4+1/18–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +7 ranged (1d8/19–20)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +10/+5 melee (1d8+2/19–20); or [[rangoric-srd/equipment/weapons/Kukri|kukri]] +8/+3 melee (1d4+1/18–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +7 ranged (1d8/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort +7, Ref +1, Will +5
+- **Abilities**: Str 13, Dex 9, Con 14, Int 10, Wis 12, Cha 8
+- **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +8
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Stand Still|Stand Still]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 5
+- **Treasure**: NPC gear (combat gear: potion of barkskin, potion of bear's endurance, potion of cure moderate wounds, screaming bolt, tanglefoot bag (2); other gear: masterwork banded mail, masterwork light steel shield, +1 longsword, kukri, masterwork light crossbow with 20 bolts, masterwork manacles, 114 gp)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 An expert bodyguard is a [[rangoric-srd/monsters/human/Human|human]] with 7 levels of [[rangoric-srd/classes/Warrior|warrior]]. A bodyguard carries many scars from attempts on her employer's life. Unlike a common guard or even a grizzled old mercenary, she is willing to die to protect her charge if that is the only way to keep him safe. If given the option to sacrifice her own life to save him or flee to save herself, she'll choose the former.
 

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Rokurokubi
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
-  - **Hit Dice**: 17d10+102 (195 hp)
-  - **Initiative**: +10
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 28 (+6 Dex, +12 natural), touch 16, flat-footed 22
-  - **Base Attack**: +17; **CMB**: +21; **CMD**: 37
-  - **Attack**: Bite +24 melee (2d6+4/19–20 plus [[rangoric-srd/rules/afflictions/Rokurokubi’s Curse|rokurokubi's curse]]) or claw +23 melee (1d6+4)
-  - **Full Attack**: Bite +24 melee (2d6+4/19–20 plus [[rangoric-srd/rules/afflictions/Rokurokubi’s Curse|rokurokubi's curse]]) and 2 claws +23 melee (1d6+4)
-  - **Space/Reach**: 5 ft./5 ft. (20 ft. with bite)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Elongate Neck|Elongate neck]], rokurokubi's [[rangoric-srd/monsters/abilities/Curse|curse]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., nightfall (15 ft.), [[rangoric-srd/monsters/abilities/No Sleep|no sleep]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25
-  - **Saves**: Fort +11, Ref +16, Will +13
-  - **Abilities**: Str 18, Dex 23, Con 22, Int 15, Wis 12, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +24, [[rangoric-srd/skills/Deception|Deception]] +28, [[rangoric-srd/skills/Imitation|Imitation]] +22, [[rangoric-srd/skills/Intimidation|Intimidation]] +25, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +26
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
-  - **Environment**: Any ruins
-  - **Organization**: Solitary, pair, or harem (3–6)
-  - **Challenge Rating**: 14
-  - **Treasure**: Standard
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
+- **Hit Dice**: 17d10+102 (195 hp)
+- **Initiative**: +10
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 28 (+6 Dex, +12 natural), touch 16, flat-footed 22
+- **Base Attack**: +17; **CMB**: +21; **CMD**: 37
+- **Attack**: Bite +24 melee (2d6+4/19–20 plus [[rangoric-srd/rules/afflictions/Rokurokubi’s Curse|rokurokubi's curse]]) or claw +23 melee (1d6+4)
+- **Full Attack**: Bite +24 melee (2d6+4/19–20 plus [[rangoric-srd/rules/afflictions/Rokurokubi’s Curse|rokurokubi's curse]]) and 2 claws +23 melee (1d6+4)
+- **Space/Reach**: 5 ft./5 ft. (20 ft. with bite)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Elongate Neck|Elongate neck]], rokurokubi's [[rangoric-srd/monsters/abilities/Curse|curse]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., nightfall (15 ft.), [[rangoric-srd/monsters/abilities/No Sleep|no sleep]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25
+- **Saves**: Fort +11, Ref +16, Will +13
+- **Abilities**: Str 18, Dex 23, Con 22, Int 15, Wis 12, Cha 21
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +24, [[rangoric-srd/skills/Deception|Deception]] +28, [[rangoric-srd/skills/Imitation|Imitation]] +22, [[rangoric-srd/skills/Intimidation|Intimidation]] +25, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +26
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
+- **Environment**: Any ruins
+- **Organization**: Solitary, pair, or harem (3–6)
+- **Challenge Rating**: 14
+- **Treasure**: Standard
+- **Alignment**: Usually lawful evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A rokurokubi is an evil hag-like creature who seeks to spread as much mayhem and despair as possible. Her skin ranges in hue from pale blue to muted green, so to disguise herself she must cover up her flesh with makeup and clothing, and retract her neck so it is no longer than a human's.
 
@@ -71,7 +71,7 @@ Rokurokubi speak Aklo and Common.
 
 **Spells**: A rokurokubi casts spells as a 12th-level [[rangoric-srd/classes/Sorcerer|sorcerer]].
 
-**Sorcerer spells known** (CL 12th; concentration +17): 6th (3/day)—*[[rangoric-srd/spells/Permanent Image|permanent image]]* (DC 21); 5th (6/day)—*[[rangoric-srd/spells/Feeblemind|feeblemind]]* (DC 20), *[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]* (DC 20); 4th (7/day)—*[[rangoric-srd/spells/Charm Monster|charm monster]]* (DC 19), *[[rangoric-srd/spells/Confusion|confusion]]*(DC 19), *[[rangoric-srd/spells/Locate Creature|locate creature]]*; 3rd (7/day)—*[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, *[[rangoric-srd/spells/Fly|fly]]*, *[[rangoric-srd/spells/Keen Edge|keen edge]]*, *[[rangoric-srd/spells/Wind Wall|wind wall]]*; 2nd (7/day)—*[[rangoric-srd/spells/Ghoul Touch|ghoul touch]]* (DC 17), *[[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Knock|knock]]*, *[[rangoric-srd/spells/Touch of Idiocy|touch of idiocy]]*; 1st (8/day)—*[[rangoric-srd/spells/Charm Person|charm person]]* (DC 16), *[[rangoric-srd/spells/Disguise Self|disguise self]]*, *[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]*, *[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]*, *[[rangoric-srd/spells/Sleep|sleep]]* (DC 16); 0 (at will)—*[[rangoric-srd/spells/Arcane Mark|arcane mark]]*, *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Detect Poison|detect poison]]*, *[[rangoric-srd/spells/Ghost Sound|ghost sound]]* (DC 15), *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Message|message]]*, *[[rangoric-srd/spells/Open-Close|open/close]]*, *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]*, *[[rangoric-srd/spells/Read Magic|read magic]]*.
+**Sorcerer spells known** (CL 12th; concentration +17): 6th (3/day)—_[[rangoric-srd/spells/Permanent Image|permanent image]]_ (DC 21); 5th (6/day)—_[[rangoric-srd/spells/Feeblemind|feeblemind]]_ (DC 20), _[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]_ (DC 20); 4th (7/day)—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 19), _[[rangoric-srd/spells/Confusion|confusion]]_(DC 19), _[[rangoric-srd/spells/Locate Creature|locate creature]]_; 3rd (7/day)—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Keen Edge|keen edge]]_, _[[rangoric-srd/spells/Wind Wall|wind wall]]_; 2nd (7/day)—_[[rangoric-srd/spells/Ghoul Touch|ghoul touch]]_ (DC 17), _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Knock|knock]]_, _[[rangoric-srd/spells/Touch of Idiocy|touch of idiocy]]_; 1st (8/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 16), _[[rangoric-srd/spells/Disguise Self|disguise self]]_, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_, _[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]_, _[[rangoric-srd/spells/Sleep|sleep]]_ (DC 16); 0 (at will)—_[[rangoric-srd/spells/Arcane Mark|arcane mark]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Detect Poison|detect poison]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 15), _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Message|message]]_, _[[rangoric-srd/spells/Open-Close|open/close]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_.
 
 **[[rangoric-srd/monsters/abilities/Elongate Neck|Elongate Neck]] (Ex)**: A rokurokubi can stretch her neck from a normal human length up to 20 feet, giving her reach with her bite attack and threatening all squares within that range.
 

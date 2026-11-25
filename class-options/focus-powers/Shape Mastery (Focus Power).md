@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Shape Mastery
 
-*A focus power of [[rangoric-srd/class-options/implement-schools/Evocation Implements|evocation implements]], for the [[rangoric-srd/classes/Occultist|occultist]] (Su).*
+_A focus power of [[rangoric-srd/class-options/implement-schools/Evocation Implements|evocation implements]], for the [[rangoric-srd/classes/Occultist|occultist]] (Su)._
 
 As part of casting an evocation spell with an area of effect, you can expend a number of points of mental focus up to your Intelligence modifier to exclude an equal number of squares from the area.

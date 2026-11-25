@@ -26,16 +26,16 @@ tags: [rangoric, rangoric/spell]
 
 # Phase Door
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Psy 7, Sor/Wiz 7, Travel 8, Wit 7
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: 0 ft.
-  - **Effect**: Ethereal 5 ft. by 8 ft. opening, 10 ft. deep + 5 ft. deep per three levels
-  - **Duration**: One usage per two levels
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Psy 7, Sor/Wiz 7, Travel 8, Wit 7
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: 0 ft.
+- **Effect**: Ethereal 5 ft. by 8 ft. opening, 10 ft. deep + 5 ft. deep per three levels
+- **Duration**: One usage per two levels
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 This spell creates an ethereal passage through wooden, plaster, or stone walls, but not other materials. The phase door is [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] and inaccessible to all creatures except you, and only you can use the passage. You disappear when you enter the phase door and appear when you exit. If you desire, you can take one other creature (Medium or smaller) through the door. This counts as two uses of the door. The door does not allow light, sound, or spell effects through it, nor can you see through it without using it. Thus, the spell can provide an escape route, though certain creatures, such as phase spiders, can follow with ease. A gem of true seeing or similar magic reveals the presence of a phase door but does not allow its use.
 

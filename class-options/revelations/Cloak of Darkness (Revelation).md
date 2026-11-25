@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Cloak of Darkness
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Outer Dark Mystery|outer dark]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Outer Dark Mystery|outer dark]] mystery._
 
 You conjure a cloak of shadowy darkness that grants you a +4 armor bonus and a +2 circumstance bonus on Stealth checks. At 7th level, and every four levels thereafter, these bonuses increase by +2. You can use this cloak for 1 hour per day per oracle level. The duration does not need to be consecutive, but it must be spent in 1-hour increments.

@@ -26,16 +26,16 @@ tags: [rangoric, rangoric/spell]
 
 # Mage’s Magnificent Mansion
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Psy 7, Sor/Wiz 7
-  - **Components**: V, S, F
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: Extradimensional mansion, up to three 10-ft. cubes/level (S)
-  - **Duration**: 2 hours/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Psy 7, Sor/Wiz 7
+- **Components**: V, S, F
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: Extradimensional mansion, up to three 10-ft. cubes/level (S)
+- **Duration**: 2 hours/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You conjure up an extradimensional dwelling that has a single entrance on the plane from which the spell was cast. The entry point looks like a faint shimmering in the air that is 4 feet wide and 8 feet high. Only those you designate may enter the mansion, and the portal is shut and made [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] behind you when you enter. You may open it again from your own side at will. Once observers have passed beyond the entrance, they are in a magnificent foyer with numerous chambers beyond. The atmosphere is clean, fresh, and warm.
 
@@ -43,4 +43,4 @@ You can create any floor plan you desire to the limit of the spell’s effect. T
 
 Since the place can be entered only through its special portal, outside conditions do not affect the mansion, nor do conditions inside it pass to the plane beyond.
 
-*Focus*: A miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon (each item worth 5 gp).
+_Focus_: A miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon (each item worth 5 gp).

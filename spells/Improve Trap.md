@@ -30,16 +30,16 @@ tags: [rangoric, rangoric/spell]
 
 # Improve Trap
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Apl 2, Drd 3, Hun 2, Inq 3, Rgr 2, Sor/Wiz 3, Wit 3
-  - **Components**: V, S
-  - **Casting Time**: 1 minute
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One trap
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates (object)
-  - **Spell Resistance**: Yes (object)
+- **Level**: Apl 2, Drd 3, Hun 2, Inq 3, Rgr 2, Sor/Wiz 3, Wit 3
+- **Components**: V, S
+- **Casting Time**: 1 minute
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One trap
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates (object)
+- **Spell Resistance**: Yes (object)
 
 When this spell is cast upon a trap, it improves one specific element of the trap chosen at the time of casting. The caster can improve the trap in any of the following ways (each one raises the trap's CR by +1).
 

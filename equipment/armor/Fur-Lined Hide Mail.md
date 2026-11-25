@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Fur-Lined Hide Mail
 
-*Medium armor.* Cost 50 gp; Armor Bonus +3; Maximum Dex Bonus +5; Armor Check Penalty –3; Arcane Spell Failure 23%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 25 lb. ^stats
+_Medium armor._ Cost 50 gp; Armor Bonus +3; Maximum Dex Bonus +5; Armor Check Penalty –3; Arcane Spell Failure 23%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 25 lb. ^stats
 
 Made from hardened layers of leather, this armor is adorned with soft fur around the neck and waistline. Druids who are learned in the ways of armor craft often create this type of armor for themselves.

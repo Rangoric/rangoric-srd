@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/monster]
 
 # Colossus
 
-  - [[rangoric-srd/monsters/colossus/Stone Colossus|Stone Colossus]]
-  - [[rangoric-srd/monsters/colossus/Flesh Colossus|Flesh Colossus]]
-  - [[rangoric-srd/monsters/colossus/Iron Colossus|Iron Colossus]]
+- [[rangoric-srd/monsters/colossus/Stone Colossus|Stone Colossus]]
+- [[rangoric-srd/monsters/colossus/Flesh Colossus|Flesh Colossus]]
+- [[rangoric-srd/monsters/colossus/Iron Colossus|Iron Colossus]]

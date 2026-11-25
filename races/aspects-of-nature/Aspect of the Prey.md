@@ -28,10 +28,10 @@ Disciples of the Aspect of the Prey promote the survival of creatures in the mid
 
 How these effects work is in [[rangoric-srd/races/aspects-of-nature/Aspects of Nature#Aspect of Nature Effects|Aspect of Nature Effects]].
 
-| Facet | Bonus | Penalty |
-| --- | --- | --- |
-| The Bovine | +1 to Fortitude saving throws | -1 to Will saving throws |
-| The Fish | +1 to AC 3x/day | -1 to Damage rolls 3x/day |
-| The Pheasant | +1 to Reflex saving throws | -1 to Will saving throws |
-| The Seal | +1 to AC 3x/day | -1 to Attack rolls 3x/day |
-| The Stag | +1 to Damage rolls 3x/day | -1 to Attack rolls 3x/day |
+| Facet        | Bonus                         | Penalty                   |
+| ------------ | ----------------------------- | ------------------------- |
+| The Bovine   | +1 to Fortitude saving throws | -1 to Will saving throws  |
+| The Fish     | +1 to AC 3x/day               | -1 to Damage rolls 3x/day |
+| The Pheasant | +1 to Reflex saving throws    | -1 to Will saving throws  |
+| The Seal     | +1 to AC 3x/day               | -1 to Attack rolls 3x/day |
+| The Stag     | +1 to Damage rolls 3x/day     | -1 to Attack rolls 3x/day |

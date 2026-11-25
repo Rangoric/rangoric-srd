@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/weapon, weapon-group/hammers, weapon-group/thrown]
 
 # Light Hammer
 
-*Martial light melee weapon.* Cost 1 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Range Increment 20 ft.; Weight 2 lb.; Type Bludgeoning. ^stats
+_Martial light melee weapon._ Cost 1 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Range Increment 20 ft.; Weight 2 lb.; Type Bludgeoning. ^stats

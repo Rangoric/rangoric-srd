@@ -35,7 +35,7 @@ Range: Close (25 ft. + 5 ft./2 levels)
 Area: A 20-ft.-radius emanation centered on a creature, object, or point in space  
 Duration: 1 round/level (D)  
 Saving Throw: Will negates or none (object)  
-Spell Resistance: Yes or no (object)  
+Spell Resistance: Yes or no (object)
 
 The caster creates an area of total darkness. The darkness is impenetrable to normal vision and darkvision, but the caster can see normally within the blacklit area. Creatures outside the spell’s area, even the caster, cannot see through it.
 

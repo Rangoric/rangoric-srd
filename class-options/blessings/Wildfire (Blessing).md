@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Wildfire Blessing
 
-*A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]]. In the flames of a wildfire you take inspiration.*
+_A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]]. In the flames of a wildfire you take inspiration._
 
 **Deities**: Evil deities that offer the [[rangoric-srd/class-options/blessings/Fire (Blessing)|Fire blessing]] or nonevil deities with disasters in their portfolios.
 

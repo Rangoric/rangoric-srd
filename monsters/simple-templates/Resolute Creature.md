@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/monster]
 
 # Resolute Creature
 
-Creatures with the resolute template live in planes where law is paramount. They can be summoned using spells such as *[[rangoric-srd/spells/Summon Monster I|summon monster]]* and *[[rangoric-srd/spells/Planar Ally|planar ally]]*. A resolute creature's quick and rebuild rules are the same.
+Creatures with the resolute template live in planes where law is paramount. They can be summoned using spells such as _[[rangoric-srd/spells/Summon Monster I|summon monster]]_ and _[[rangoric-srd/spells/Planar Ally|planar ally]]_. A resolute creature's quick and rebuild rules are the same.
 
 “Resolute” is a simple template ([[rangoric-srd/monsters/simple-templates/Simple Templates|Simple Templates]]): it can be added to a creature during play.
 
@@ -26,7 +26,7 @@ Creatures with the resolute template live in planes where law is paramount. They
 **Table: Resolute Creature Defenses**
 
 | Hit Dice | Resist Acid, Cold and Fire | DR         |
-| --- | --- | --- |
+| -------- | -------------------------- | ---------- |
 | 1–4      | 5                          | —          |
 | 5–10     | 10                         | 5/chaotic  |
 | 11+      | 15                         | 10/chaotic |

@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Empowered Healing
 
-A suit of armor with this ability appears to be brightly polished and well maintained. Any *cure wounds* spell cast on the wearer is affected as if by the Empower Spell metamagic feat.
+A suit of armor with this ability appears to be brightly polished and well maintained. Any _cure wounds_ spell cast on the wearer is affected as if by the Empower Spell metamagic feat.
 
-Strong conjuration; CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Empower Spell|Empower Spell]], *[[rangoric-srd/spells/Cure Critical Wounds|cure critical wounds]]*; Price +3 bonus.
+Strong conjuration; CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Empower Spell|Empower Spell]], _[[rangoric-srd/spells/Cure Critical Wounds|cure critical wounds]]_; Price +3 bonus.

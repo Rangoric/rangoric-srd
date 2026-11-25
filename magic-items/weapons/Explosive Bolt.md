@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Explosive Bolt
 
-Crafted from the elongated fingers of the impish nokkers, these deadly *+1* bolts explode on contact dealing normal crossbow bolt damage plus 1d6 points of fire damage. *Explosive bolts* that hit the target’s touch AC but do not hit its normal AC explode nonetheless dealing the aforementioned fire damage but not the bolt’s inherent damage. One nokker yields ten *explosive bolts*.
+Crafted from the elongated fingers of the impish nokkers, these deadly _+1_ bolts explode on contact dealing normal crossbow bolt damage plus 1d6 points of fire damage. _Explosive bolts_ that hit the target’s touch AC but do not hit its normal AC explode nonetheless dealing the aforementioned fire damage but not the bolt’s inherent damage. One nokker yields ten _explosive bolts_.
 
-Moderate evocation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Flame Arrow|flame arrow]]*; Price 50 gp each; Cost 25 gp + 1 XP.
+Moderate evocation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Flame Arrow|flame arrow]]_; Price 50 gp each; Cost 25 gp + 1 XP.

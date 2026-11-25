@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Banner of the Rushing Horde
 
-The *banner of the rushing horde* is a tattered cloth flag, typically 3 feet wide and 6 feet long, depicting the device or insignia of an orc tribe or unit. It can be carried on a staff, affixed to a pole that's planted in the ground, or hung from the harness of a great beast. Allies within 60 feet of the banner gain the benefits of the [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]] and [[rangoric-srd/feats/Improved Overrun|Improved Overrun]] feats. If planted, the flag does not need a bearer, but if it is toppled or touched by an enemy, it loses its effectiveness until reclaimed and replanted by allies of its owner.
+The _banner of the rushing horde_ is a tattered cloth flag, typically 3 feet wide and 6 feet long, depicting the device or insignia of an orc tribe or unit. It can be carried on a staff, affixed to a pole that's planted in the ground, or hung from the harness of a great beast. Allies within 60 feet of the banner gain the benefits of the [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]] and [[rangoric-srd/feats/Improved Overrun|Improved Overrun]] feats. If planted, the flag does not need a bearer, but if it is toppled or touched by an enemy, it loses its effectiveness until reclaimed and replanted by allies of its owner.
 
-Moderate transmutation; CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*; Price 60,000 gp; Cost 30,000 gp; Weight 5 lbs.
+Moderate transmutation; CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_; Price 60,000 gp; Cost 30,000 gp; Weight 5 lbs.

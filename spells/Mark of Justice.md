@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Mark of Justice
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Clr 5, Inq 5, Pal 4, Wit 5
-  - **Components**: V, S, DF
-  - **Casting Time**: 10 minutes
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: Permanent; see text
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Clr 5, Inq 5, Pal 4, Wit 5
+- **Components**: V, S, DF
+- **Casting Time**: 10 minutes
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: Permanent; see text
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 You draw an indelible mark on the subject and state some behavior on the part of the subject that will activate the mark. When activated, the mark curses the subject. Typically, you designate some sort of criminal behavior that activates the mark, but you can pick any act you please. The effect of the mark is identical with the effect of bestow curse.
 

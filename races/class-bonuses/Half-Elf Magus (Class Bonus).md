@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Half-Elf Magus
 
-*A [[rangoric-srd/races/Half-Elf|half-elf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Magus#^magus-class-bonuses|magus]] level.*
+_A [[rangoric-srd/races/Half-Elf|half-elf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Magus#^magus-class-bonuses|magus]] level._
 
 Add +1/4 to the magus's [[rangoric-srd/classes/Magus#^magus-arcane-pool|arcane pool]].

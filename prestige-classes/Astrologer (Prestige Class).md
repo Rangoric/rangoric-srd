@@ -49,13 +49,13 @@ The astrologer’s class skills (and the key ability for each skill) are [[rango
 
 **Table: The Astrologer** ^table-the-astrologer
 
-| Level | Special | Spells per Day |
-| --- | --- | --- |
-| 1st | Star vision, prediction | +1 level of existing arcane spellcasting class |
-| 2nd | — | +1 level of existing arcane spellcasting class |
-| 3rd | Astrological lore | +1 level of existing arcane spellcasting class |
-| 4th | Truths unknown | +1 level of existing arcane spellcasting class |
-| 5th | Unclouded vision | +1 level of existing arcane spellcasting class |
+| Level | Special                 | Spells per Day                                 |
+| ----- | ----------------------- | ---------------------------------------------- |
+| 1st   | Star vision, prediction | +1 level of existing arcane spellcasting class |
+| 2nd   | —                       | +1 level of existing arcane spellcasting class |
+| 3rd   | Astrological lore       | +1 level of existing arcane spellcasting class |
+| 4th   | Truths unknown          | +1 level of existing arcane spellcasting class |
+| 5th   | Unclouded vision        | +1 level of existing arcane spellcasting class |
 
 ###### Class Features
 
@@ -73,4 +73,4 @@ All of the following are class features of the astrologer prestige class.
 
 **Truths Unknown (Ex)**: At 4th level, an astrologer gains a +2 bonus on [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks. Four times per day, by spending 10 minutes drawing up a chart, she learns what a person truly wants: their motives, intentions and needs, though not how they mean to get them or where they are. ^astrologer-truths-unknown
 
-**Unclouded Vision (Sp)**: At 5th level, an astrologer can take a full-round action and make a DC 25 [[rangoric-srd/skills/Arcana|Arcana]] check to gain *[[rangoric-srd/spells/True Seeing|true seeing]]* for 5 rounds. She can do this successfully five times per day; a failed attempt uses the full-round action but not a daily use. ^astrologer-unclouded-vision
+**Unclouded Vision (Sp)**: At 5th level, an astrologer can take a full-round action and make a DC 25 [[rangoric-srd/skills/Arcana|Arcana]] check to gain _[[rangoric-srd/spells/True Seeing|true seeing]]_ for 5 rounds. She can do this successfully five times per day; a failed attempt uses the full-round action but not a daily use. ^astrologer-unclouded-vision

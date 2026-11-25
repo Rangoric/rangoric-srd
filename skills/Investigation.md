@@ -21,7 +21,7 @@ Investigation is finding things, working out what they mean, and digging through
 
 **Check**: You generally must be within 10 feet of the object or surface to be searched. The table below gives DCs for typical tasks involving the Investigation skill.
 
-| Task                                                | Investigation DC                               |
+| Task                                                | Investigation DC                        |
 | --------------------------------------------------- | --------------------------------------- |
 | Ransack a chest full of junk to find a certain item | 10                                      |
 | Notice a typical secret door or a simple trap       | 20                                      |
@@ -29,12 +29,12 @@ Investigation is finding things, working out what they mean, and digging through
 | Find a magic trap (rogue only) (1)                  | 25 + level of spell used to create trap |
 | Notice a well-hidden secret door                    | 30                                      |
 | Find a footprint                                    | Varies (2)                              |
-| Sense magic | 60 |
+| Sense magic                                         | 60                                      |
 
-1 *Dwarves can also find traps built into or out of stone; see the dwarf’s [[rangoric-srd/races/Dwarf#^dwarf-stonecunning|stonecunning]].*
+1 _Dwarves can also find traps built into or out of stone; see the dwarf’s [[rangoric-srd/races/Dwarf#^dwarf-stonecunning|stonecunning]]._
 
-2 *A successful Investigation check can find a footprint or similar sign of a creature’s passage,  
-but it won’t let you find or follow a trail. See the [[rangoric-srd/feats/Track|Track]] feat for the appropriate DC.*
+2 _A successful Investigation check can find a footprint or similar sign of a creature’s passage,  
+but it won’t let you find or follow a trail. See the [[rangoric-srd/feats/Track|Track]] feat for the appropriate DC._
 
 **Action**: It takes a full-round action to search a 5-foot-by-5-foot area or a volume of goods 5 feet on a side.
 
@@ -52,7 +52,7 @@ A dwarf, even one without trapfinding, can use the Investigation skill to find d
 
 The character can sense the presence of magic in an area.
 
-*Sense Magic*: The character senses the presence of any active magical effects in the area being searched. The character can’t determine the number, strength, or type of the effects.
+_Sense Magic_: The character senses the presence of any active magical effects in the area being searched. The character can’t determine the number, strength, or type of the effects.
 
 ## Analyzing Clues
 
@@ -60,13 +60,13 @@ The character can sense the presence of magic in an area.
 
 The base DC to analyze a clue is 15, modified by how long ago the clue was left and how much the scene has been disturbed.
 
-| Circumstances | DC Modifier |
-| --- | --- |
-| Every day since the event (maximum +10) | +2 |
-| Scene is outdoors | +5 |
-| Scene slightly disturbed | +2 |
-| Scene moderately disturbed | +4 |
-| Scene extremely disturbed | +6 |
+| Circumstances                           | DC Modifier |
+| --------------------------------------- | ----------- |
+| Every day since the event (maximum +10) | +2          |
+| Scene is outdoors                       | +5          |
+| Scene slightly disturbed                | +2          |
+| Scene moderately disturbed              | +4          |
+| Scene extremely disturbed               | +6          |
 
 **Collecting Evidence**: Where there are laboratories that study evidence, you can collect and prepare a piece of evidence for one with a DC 15 Investigation check. This takes an evidence kit; without one, you take a –4 penalty. If you succeed, the lab can use it. If you fail, the lab takes a –5 penalty on its checks, and if you fail by 5 or more, the evidence can't be used. If you succeed by 10 or more, the lab gets a +2 circumstance bonus on its checks.
 

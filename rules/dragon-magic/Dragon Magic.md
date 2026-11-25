@@ -88,7 +88,7 @@ Mundane treasure also serves to camouflage the more vital magical treasures with
 
 This category covers any piece of treasure with a magical enhancement or ability of its own. Scrolls, wands, rings, magical weapons, and magically fortified armor are all examples of magical treasure. While a dragon mage may safely pile as many gold, silver, and copper pieces as he would like into his trove, care must be taken when adding magical treasure to the pile.
 
-Each magical item has a unique energy defined, in part, by the purpose the item was created to serve. Magical armor, for example, is infused with energies devoted to protection and defense, while a *wand of fireballs* is clearly charged with destructive forces. These energy ‘signatures’ can actually change the resonance of the energy found in a dragon mage’s trove when the value of the objects that generate them reach certain, critical points.
+Each magical item has a unique energy defined, in part, by the purpose the item was created to serve. Magical armor, for example, is infused with energies devoted to protection and defense, while a _wand of fireballs_ is clearly charged with destructive forces. These energy ‘signatures’ can actually change the resonance of the energy found in a dragon mage’s trove when the value of the objects that generate them reach certain, critical points.
 
 There are four main aspects to which a dragon mage’s trove can be attuned, each of which is represented by an aspect of a dragon’s nature: [[rangoric-srd/prestige-classes/dragon-mage/Dragon Mage (Talons)|talons]], [[rangoric-srd/prestige-classes/dragon-mage/Dragon Mage (Scales)|scales]], [[rangoric-srd/prestige-classes/dragon-mage/Dragon Mage (Wings)|wings]], and [[rangoric-srd/prestige-classes/dragon-mage/Dragon Mage (Breath)|breath]] (each detailed in the [[rangoric-srd/prestige-classes/Dragon Mage|dragon mage]] prestige class). When a trove is attuned to one of these aspects, the spells cast by the dragon mage that correspond to that attunement are enhanced in power, while those outside the energy’s area of influence are weakened. This effect forces dragon mages to be careful when adding magical items to their trove, to avoid losing an attunement they are comfortable with, or gain an attunement they do not want.
 
@@ -150,7 +150,7 @@ Rangers who become dragon mages typically hide their troves in deep caverns disc
 
 ### Former Sorcerers
 
-Dragon mages who were once sorcerers tend to build barrow-like structures to hold their troves. With half or more of the trove underground, the dragon mage is more easily able to control points of entrance into the storage facility. A common construction technique is to build several layers into the outside walls, with pockets of air inside them to confound *[[rangoric-srd/spells/Passwall|passwall]]* or other wall-breaching spells. Thick iron plates are interspersed between layers of stone to discourage tunneling into the trove from below ground.
+Dragon mages who were once sorcerers tend to build barrow-like structures to hold their troves. With half or more of the trove underground, the dragon mage is more easily able to control points of entrance into the storage facility. A common construction technique is to build several layers into the outside walls, with pockets of air inside them to confound _[[rangoric-srd/spells/Passwall|passwall]]_ or other wall-breaching spells. Thick iron plates are interspersed between layers of stone to discourage tunneling into the trove from below ground.
 
 Rather than rely totally on magical defenses, former sorcerers employ physical guards and cleverly constructed traps. The guards can either do battle with invaders while the dragon mage prepares himself for combat (or attempts to arrive at the scene if he is not in residence) or use the traps to bring down the enemies that manage to get into the troves’ holding area. With their more limited ability to cast enduring spells, this type of dragon mage is unable to put forth the magical defenses of a wizard, but makes up for it with the sheer number and variety of physical deterrents.
 
@@ -163,4 +163,4 @@ Towers are a favorite location for wizardly dragon mage troves. Diabolically con
 ## What belongs to dragon magic
 
 - **Prestige class**: the [[rangoric-srd/prestige-classes/Dragon Mage|Dragon Mage]], whose powers depend on the aspect the trove is attuned to.
-- **Spell**: *[[rangoric-srd/spells/Trove Sacrifice|trove sacrifice]]*, which spends the trove to absorb damage.
+- **Spell**: _[[rangoric-srd/spells/Trove Sacrifice|trove sacrifice]]_, which spends the trove to absorb damage.

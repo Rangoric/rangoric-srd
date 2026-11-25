@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Inspired Intelligence
 
-*An [[rangoric-srd/classes/Investigator#^investigator-investigator-talent|investigator talent]] (Ex).*
+_An [[rangoric-srd/classes/Investigator#^investigator-investigator-talent|investigator talent]] (Ex)._
 
 An investigator can add his inspiration die to all [[rangoric-srd/skills/Knowledge|Knowledge skill]] checks (Arcana included) and [[rangoric-srd/skills/Linguistics|Linguistics]] checks without expending a use of inspiration, even those he’s not trained in.

@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades]
 
 # Shotel
 
-*Exotic one-handed melee weapon (performance).* Cost 30 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 3 lb.; Type Piercing. ^stats
+_Exotic one-handed melee weapon (performance)._ Cost 30 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 3 lb.; Type Piercing. ^stats
 
 The shotel is a downward-curving sword designed to reach over or around an opponent's shield. You gain a +1 bonus on attack rolls with a shotel against opponents using bucklers, light shields, or heavy shields.
 

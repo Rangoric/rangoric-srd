@@ -42,37 +42,37 @@ tags: [rangoric, rangoric/monster]
 
 # Troglodyte
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Reptilian)
-  - **Hit Dice**: 2d8+4 (13 hp)
-  - **Initiative**: –1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 15 (–1 Dex, +6 natural), touch 9, flat-footed 15
-  - **Base Attack**: +1; **CMB**: +2; **CMD**: 11
-  - **Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +2 melee (1d6+1) or claw +2 melee (1d4+1) or bite +2 melee (1d4+1) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +0 ranged (1d6)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +2 melee (1d6+1) and claw –3 melee (1d4) and bite –3 melee (1d4); or 2 claws +2 melee (1d4+1) and bite +2 melee (1d4+1); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +0 ranged (1d6)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Stench|Stench]] (30 ft., DC 13, 10 rounds)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft.
-  - **Saves**: Fort +7, Ref –1, Will +0
-  - **Abilities**: Str 12, Dex 9, Con 14, Int 8, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Stealth|Stealth]] +5 (+9 in rocky areas)
-  - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]]
-  - **Environment**: Any underground
-  - **Organization**: Solitary, pair, clutch (3–6), squad (7–12 plus 1 cleric or druid of 3rd level and 1–2 monitor lizards), or band (20–80 plus 20% noncombatants,1 chieftain of 3rd–6th level, 1–3 clerics or druids of 3rd–6th level, and 3–13 monitor lizards)
-  - **Challenge Rating**: 1
-  - **Treasure**: NPC gear (club, 3 javelins, other treasure)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: +2
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Reptilian)
+- **Hit Dice**: 2d8+4 (13 hp)
+- **Initiative**: –1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 15 (–1 Dex, +6 natural), touch 9, flat-footed 15
+- **Base Attack**: +1; **CMB**: +2; **CMD**: 11
+- **Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +2 melee (1d6+1) or claw +2 melee (1d4+1) or bite +2 melee (1d4+1) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +0 ranged (1d6)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Club|Club]] +2 melee (1d6+1) and claw –3 melee (1d4) and bite –3 melee (1d4); or 2 claws +2 melee (1d4+1) and bite +2 melee (1d4+1); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +0 ranged (1d6)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Stench|Stench]] (30 ft., DC 13, 10 rounds)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft.
+- **Saves**: Fort +7, Ref –1, Will +0
+- **Abilities**: Str 12, Dex 9, Con 14, Int 8, Wis 11, Cha 11
+- **Skills**: [[rangoric-srd/skills/Stealth|Stealth]] +5 (+9 in rocky areas)
+- **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]]
+- **Environment**: Any underground
+- **Organization**: Solitary, pair, clutch (3–6), squad (7–12 plus 1 cleric or druid of 3rd level and 1–2 monitor lizards), or band (20–80 plus 20% noncombatants,1 chieftain of 3rd–6th level, 1–3 clerics or druids of 3rd–6th level, and 3–13 monitor lizards)
+- **Challenge Rating**: 1
+- **Treasure**: NPC gear (club, 3 javelins, other treasure)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: +2
 
 **Also in this entry:**
 
-  - Troglodyte Sneaks: [[rangoric-srd/monsters/troglodyte/Troglodyte Skulker|Troglodyte Skulker]] (CR 2), [[rangoric-srd/monsters/troglodyte/Troglodyte Sorcerer|Troglodyte Sorcerer]] (CR 4)
-  - Troglodyte Holy Ones: [[rangoric-srd/monsters/troglodyte/Troglodyte Beast-Speaker|Troglodyte Beast-Speaker]] (CR 3), [[rangoric-srd/monsters/troglodyte/Troglodyte Priest|Troglodyte Priest]] (CR 3)
-  - Troglodyte Cavalry: [[rangoric-srd/monsters/troglodyte/Troglodyte Scale-Rider|Troglodyte Scale-Rider]] (CR 6), [[rangoric-srd/monsters/troglodyte/Troglodyte Champion|Troglodyte Champion]] (CR 7)
-  - Troglodyte Chieftain: [[rangoric-srd/monsters/troglodyte/Troglodyte Chieftain|Troglodyte Chieftain]] (CR 8)
-  - Troglodyte Warren Guard: [[rangoric-srd/monsters/troglodyte/Troglodyte Warren Guard|Troglodyte Warren Guard]] (CR 9)
-  - Troglodyte Tyrant: [[rangoric-srd/monsters/troglodyte/Troglodyte Tyrant|Troglodyte Tyrant]] (CR 10)
+- Troglodyte Sneaks: [[rangoric-srd/monsters/troglodyte/Troglodyte Skulker|Troglodyte Skulker]] (CR 2), [[rangoric-srd/monsters/troglodyte/Troglodyte Sorcerer|Troglodyte Sorcerer]] (CR 4)
+- Troglodyte Holy Ones: [[rangoric-srd/monsters/troglodyte/Troglodyte Beast-Speaker|Troglodyte Beast-Speaker]] (CR 3), [[rangoric-srd/monsters/troglodyte/Troglodyte Priest|Troglodyte Priest]] (CR 3)
+- Troglodyte Cavalry: [[rangoric-srd/monsters/troglodyte/Troglodyte Scale-Rider|Troglodyte Scale-Rider]] (CR 6), [[rangoric-srd/monsters/troglodyte/Troglodyte Champion|Troglodyte Champion]] (CR 7)
+- Troglodyte Chieftain: [[rangoric-srd/monsters/troglodyte/Troglodyte Chieftain|Troglodyte Chieftain]] (CR 8)
+- Troglodyte Warren Guard: [[rangoric-srd/monsters/troglodyte/Troglodyte Warren Guard|Troglodyte Warren Guard]] (CR 9)
+- Troglodyte Tyrant: [[rangoric-srd/monsters/troglodyte/Troglodyte Tyrant|Troglodyte Tyrant]] (CR 10)
 
 The troglodyte is a feral, savage cave dweller. They are among the most populous denizens of the upper reaches of the endless caverns of the underworld, equally at home raiding the settlements of those who dwell above or below ground, yet for all their race's fecundity and sprawl, as a whole they represent only a minor threat. At times, great leaders can draw legions of troglodytes to their command to create vast and deadly armies, but left to their own devices, troglodyte tribes are content to keep each other under control with numerous feuds, cannibalistic raids, and bitter civil wars.
 
@@ -102,7 +102,7 @@ Religion is a strong influence among troglodytes, and their clerics and druids a
 
 **Kaergaths.** Squat, warty, and diminutive, these troglodytes average just under 4 feet tall and weigh 180 pounds. Kaergaths have dull reddish-brown scales and huge, square teeth, but lack the claws of the other troglodytes. Native to the upper reaches of the subterranean wilderness underneath trackless deserts and sun-scorched badlands, kaergaths are known for their ability to burrow through sand, their expertise with the javelin, and their preference for the flesh of humanoid children. Kaergaths are troglodytes with the [[rangoric-srd/monsters/simple-templates/Young Creature|young simple template]] and the ability to burrow through sand and loose earth (but not stone) at a rate of 20 feet per round. They gain a +1 racial bonus on attack rolls with [[rangoric-srd/equipment/weapons/Javelin|javelins]]. Kaergaths have a bite attack that deals 1d8 points of damage, but do not have claw attacks. ^kaergath
 
-**Troglodyte paragons.** Although most of the ancient troglodytes perished with the collapse of their great empire long ago, a few powerful individuals survived. These ancient troglodytes went into hiding in the deep places of the world, and though many of them perished, fled to other planes, or retreated into [[rangoric-srd/monsters/lich/Lich|lichdom]], a few sought refuge in magical stasis. Over the long centuries, troglodyte paragons have from time to time awakened from their magical slumber. Though some have sought out modern troglodytes in an effort to elevate them and reclaim the glory of their lost civilization, most troglodyte paragons despise their degenerate descendants. Distinguished from common troglodytes by their glowing, emerald eyes and gold-tinged scales, troglodyte paragons are long-lived, with maximum lifespans averaging 400 years. Troglodyte paragons are extremely paranoid and obsessed with self-preservation. Most troglodyte paragons have class levels in [[rangoric-srd/classes/Cleric|cleric]] or [[rangoric-srd/classes/Sorcerer|sorcerer]]. Troglodyte paragons are Large troglodytes with 7 Hit Dice. Their natural armor bonus increases by 2, their claw attacks deal 1d8 points of damage, and their bite attacks deal 1d6 points of damage. Troglodyte paragons have the following ability scores instead of the standard troglodyte ability scores: Str 22, Dex 9, Con 16, Int 13, Wis 10, and Cha 15. They can use the following spell-like abilities: constant—*[[rangoric-srd/spells/Arcane Sight|arcane sight]]*; at will—*[[rangoric-srd/spells/Hypnotism|hypnotism]]*, *[[rangoric-srd/spells/Speak with Animals|speak with animals]]* (dinosaurs and reptiles only); 3/day—*[[rangoric-srd/spells/Cause Fear|cause fear]]*, *[[rangoric-srd/spells/Charm Monster|charm monster]]* . Troglodyte paragons with at least 14 Hit Dice (including both racial HD and those from class levels) can also use *[[rangoric-srd/spells/Dominate Monster|dominate monster]]* once per day. A typical troglodyte paragon's skills (not counting ranks gained through class levels) are [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +10 (+14 in rocky areas). ^troglodyte-paragon
+**Troglodyte paragons.** Although most of the ancient troglodytes perished with the collapse of their great empire long ago, a few powerful individuals survived. These ancient troglodytes went into hiding in the deep places of the world, and though many of them perished, fled to other planes, or retreated into [[rangoric-srd/monsters/lich/Lich|lichdom]], a few sought refuge in magical stasis. Over the long centuries, troglodyte paragons have from time to time awakened from their magical slumber. Though some have sought out modern troglodytes in an effort to elevate them and reclaim the glory of their lost civilization, most troglodyte paragons despise their degenerate descendants. Distinguished from common troglodytes by their glowing, emerald eyes and gold-tinged scales, troglodyte paragons are long-lived, with maximum lifespans averaging 400 years. Troglodyte paragons are extremely paranoid and obsessed with self-preservation. Most troglodyte paragons have class levels in [[rangoric-srd/classes/Cleric|cleric]] or [[rangoric-srd/classes/Sorcerer|sorcerer]]. Troglodyte paragons are Large troglodytes with 7 Hit Dice. Their natural armor bonus increases by 2, their claw attacks deal 1d8 points of damage, and their bite attacks deal 1d6 points of damage. Troglodyte paragons have the following ability scores instead of the standard troglodyte ability scores: Str 22, Dex 9, Con 16, Int 13, Wis 10, and Cha 15. They can use the following spell-like abilities: constant—_[[rangoric-srd/spells/Arcane Sight|arcane sight]]_; at will—_[[rangoric-srd/spells/Hypnotism|hypnotism]]_, _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_ (dinosaurs and reptiles only); 3/day—_[[rangoric-srd/spells/Cause Fear|cause fear]]_, _[[rangoric-srd/spells/Charm Monster|charm monster]]_ . Troglodyte paragons with at least 14 Hit Dice (including both racial HD and those from class levels) can also use _[[rangoric-srd/spells/Dominate Monster|dominate monster]]_ once per day. A typical troglodyte paragon's skills (not counting ranks gained through class levels) are [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +10 (+14 in rocky areas). ^troglodyte-paragon
 
 ### Combat
 
@@ -112,26 +112,26 @@ Half of a group of troglodytes are armed only with claws and teeth; the rest car
 
 Troglodyte characters possess the following racial traits.
 
-  - –2 Dexterity, +4 Constitution, –2 Intelligence.
+- –2 Dexterity, +4 Constitution, –2 Intelligence.
 
-  - Medium size.
+- Medium size.
 
-  - A troglodyte’s base land speed is 30 feet.
+- A troglodyte’s base land speed is 30 feet.
 
-  - Darkvision out to 90 feet.
+- Darkvision out to 90 feet.
 
-  - Racial Hit Dice: A troglodyte begins with two levels of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|humanoid]], which provide 2d8 Hit Dice, a base attack bonus of +1, and base saving throw bonuses of Fort +3, Ref +0, and Will +0.
+- Racial Hit Dice: A troglodyte begins with two levels of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|humanoid]], which provide 2d8 Hit Dice, a base attack bonus of +1, and base saving throw bonuses of Fort +3, Ref +0, and Will +0.
 
-  - Racial Skills: A troglodyte’s humanoid levels give it skill points equal to 2 x (2 + Int modifier, minimum 1). Its class skills are [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Stealth|Stealth]]. Troglodytes have a +4 racial bonus on Stealth checks (+8 in rocky or underground surroundings).
+- Racial Skills: A troglodyte’s humanoid levels give it skill points equal to 2 x (2 + Int modifier, minimum 1). Its class skills are [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Stealth|Stealth]]. Troglodytes have a +4 racial bonus on Stealth checks (+8 in rocky or underground surroundings).
 
-  - Racial Feats: A troglodyte’s humanoid levels give it one feat. A troglodyte receives [[rangoric-srd/monsters/Monster Feats|Multiattack]] as a bonus feat.
+- Racial Feats: A troglodyte’s humanoid levels give it one feat. A troglodyte receives [[rangoric-srd/monsters/Monster Feats|Multiattack]] as a bonus feat.
 
-  - \+6 natural armor bonus.
+- \+6 natural armor bonus.
 
-  - Natural Weapons: 2 claws (1d4) and bite (1d4).
+- Natural Weapons: 2 claws (1d4) and bite (1d4).
 
-  - Special Attacks (see above): Stench.
+- Special Attacks (see above): Stench.
 
-  - Automatic Languages: Draconic. Bonus Languages: Common, Giant, Goblin, Orc.
+- Automatic Languages: Draconic. Bonus Languages: Common, Giant, Goblin, Orc.
 
-  - Level adjustment +2.
+- Level adjustment +2.

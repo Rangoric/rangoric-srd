@@ -139,7 +139,7 @@ A character who chooses paladin as her secondary class gains the following secon
 
 **Code**: At 1st level, she must follow the paladin's code of conduct and gains the paladin's aura of good.
 
-**Detect Evil**: At 3rd level, she can *[[rangoric-srd/spells/Detect Evil|detect evil]]* as a 1st-level paladin.
+**Detect Evil**: At 3rd level, she can _[[rangoric-srd/spells/Detect Evil|detect evil]]_ as a 1st-level paladin.
 
 **Lay on Hands**: At 7th level, she gains the ability to lay on hands a number of times per day equal to 1/2 her character level, healing as much as a paladin of her character level – 4.
 
@@ -297,16 +297,16 @@ A character who chooses oracle as her secondary class gains the following second
 
 **Revelation**: At 3rd level, she gains one of the following revelations from the list of those available to her mystery as an oracle of her character level – 6 (minimum 1). She must have an effective oracle level high enough to select the revelation.
 
-  - *Battle*: Battlecry, battlefield clarity, combat healer, iron skin, resiliency, skill at arms, surprising charge, war sight.
-  - *Bones*: Armor of bones, bleeding wounds, death's touch, near death, raise the dead, resist life, soul siphon, spirit walk, undead servitude, voice of the grave.
-  - *Flame*: Burning magic, fire breath, form of flame, gaze of flames, heat aura, molten skin, touch of flame, wings of fire.
-  - *Heavens*: Coat of many stars, dweller in darkness, guiding star, interstellar void, lure of the heavens, mantle of moonlight, spray of shooting stars, star chart.
-  - *Life*: Channel, delay affliction, energy body, enhanced cures, healing hands, life link, lifesense, safe curing, spirit boost.
-  - *Lore*: Arcane archivist, automatic writing, brain drain, mental acuity, spontaneous symbology, think on it, whirlwind lesson.
-  - *Nature*: Erosion touch, life leach, natural divination, speak with animals, spirit of nature, transcendental bond, undo artifice.
-  - *Stone*: Acid skin, clobbering strike, crystal sight, earth glide, mighty pebble, rock throwing, shard explosion, steelbreaker skin, touch of acid.
-  - *Waves*: Blizzard, fluid nature, fluid travel, freezing spells, ice armor, icy skin, punitive transformation, water form, water sight, wintry touch.
-  - *Wind*: Air barrier, gaseous form, invisibility, lightning breath, spark skin, thunderburst, touch of electricity, vortex spells, wind sight, wings of air.
+- _Battle_: Battlecry, battlefield clarity, combat healer, iron skin, resiliency, skill at arms, surprising charge, war sight.
+- _Bones_: Armor of bones, bleeding wounds, death's touch, near death, raise the dead, resist life, soul siphon, spirit walk, undead servitude, voice of the grave.
+- _Flame_: Burning magic, fire breath, form of flame, gaze of flames, heat aura, molten skin, touch of flame, wings of fire.
+- _Heavens_: Coat of many stars, dweller in darkness, guiding star, interstellar void, lure of the heavens, mantle of moonlight, spray of shooting stars, star chart.
+- _Life_: Channel, delay affliction, energy body, enhanced cures, healing hands, life link, lifesense, safe curing, spirit boost.
+- _Lore_: Arcane archivist, automatic writing, brain drain, mental acuity, spontaneous symbology, think on it, whirlwind lesson.
+- _Nature_: Erosion touch, life leach, natural divination, speak with animals, spirit of nature, transcendental bond, undo artifice.
+- _Stone_: Acid skin, clobbering strike, crystal sight, earth glide, mighty pebble, rock throwing, shard explosion, steelbreaker skin, touch of acid.
+- _Waves_: Blizzard, fluid nature, fluid travel, freezing spells, ice armor, icy skin, punitive transformation, water form, water sight, wintry touch.
+- _Wind_: Air barrier, gaseous form, invisibility, lightning breath, spark skin, thunderburst, touch of electricity, vortex spells, wind sight, wings of air.
 
 **Orison**: At 7th level, if she has a Charisma score of 10 or higher, she chooses an oracle orison to cast as a spell-like ability at will. She uses her character level as the caster level and Charisma as the orison's key ability score.
 
@@ -320,11 +320,11 @@ A character who chooses oracle as her secondary class gains the following second
 
 A character who chooses summoner as his secondary class gains the following secondary class features.
 
-**Summon Monster**: At 3rd level, he gains the summoner's *summon monster* spell-like ability as a summoner of his character level – 2. He can use this ability once per day; the casting time is 1 full round, and the duration is 1 round per effective summoner level.
+**Summon Monster**: At 3rd level, he gains the summoner's _summon monster_ spell-like ability as a summoner of his character level – 2. He can use this ability once per day; the casting time is 1 full round, and the duration is 1 round per effective summoner level.
 
-**Eidolon**: At 7th level, he gains the ability to summon an eidolon, using the statistics of an eidolon for a summoner of his character level – 4, except with half as many evolution points. This eidolon can only be summoned using his *summon monster* spell-like ability.
+**Eidolon**: At 7th level, he gains the ability to summon an eidolon, using the statistics of an eidolon for a summoner of his character level – 4, except with half as many evolution points. This eidolon can only be summoned using his _summon monster_ spell-like ability.
 
-**Additional Summons**: At 11th level, he can use his *summon monster* spell-like ability three times per day.
+**Additional Summons**: At 11th level, he can use his _summon monster_ spell-like ability three times per day.
 
 **Shield Ally**: At 15th level, he gains the shield ally class feature.
 

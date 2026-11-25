@@ -12,8 +12,8 @@ tags: [rangoric, rangoric/spellblight]
 
 # Spell Sap
 
-*Major [[rangoric-srd/rules/spellblights/Spellblights#^table-major-spellblights|spellblight]]*
+_Major [[rangoric-srd/rules/spellblights/Spellblights#^table-major-spellblights|spellblight]]_
 
 A spellcaster with spell sap is subject to blackouts when casting spells. She may become mentally locked, distant, or catatonic, or may even slip into unconsciousness. Each time the afflicted spellcaster casts a spell or uses a spell-like ability, she must succeed at a Fortitude save (DC 14 + caster level) or become [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] until the end of her next turn. If she fails the save by 10 or more, she instead falls [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]] and lapses into [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconsciousness]] for 1d4 rounds.
 
-Spell sap can be suppressed for 1 day with an effect that removes [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confusion]] or *[[rangoric-srd/spells/Insanity (Spell)|insanity]]*.
+Spell sap can be suppressed for 1 day with an effect that removes [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confusion]] or _[[rangoric-srd/spells/Insanity (Spell)|insanity]]_.

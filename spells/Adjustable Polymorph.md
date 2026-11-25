@@ -34,13 +34,13 @@ tags: [rangoric, rangoric/spell]
 
 # Adjustable Polymorph
 
-*Transmutation (Polymorph)*
+_Transmutation (Polymorph)_
 
-  - **Level**: Alc 4, Brd 4, Mag 4, Med 4, Psy 4, Sha 4, Skd 4, Sor/Wiz 4, Sum 4, SumU 4, Wit 4
-  - **Components**: V, S, M (a small piece of doppelganger flesh)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 minute/level (D)
+- **Level**: Alc 4, Brd 4, Mag 4, Med 4, Psy 4, Sha 4, Skd 4, Sor/Wiz 4, Sum 4, SumU 4, Wit 4
+- **Components**: V, S, M (a small piece of doppelganger flesh)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 minute/level (D)
 
-This spell functions as *[[rangoric-srd/spells/Alter Self|alter self]]*, except you can as a swift action alter the disguise (within the limitations of *[[rangoric-srd/spells/Alter Self|alter self]]*). For example, you could transform yourself into a halfling, then a lizardfolk, then an elf, and so on. You can change your form a number of times equal to your caster level.
+This spell functions as _[[rangoric-srd/spells/Alter Self|alter self]]_, except you can as a swift action alter the disguise (within the limitations of _[[rangoric-srd/spells/Alter Self|alter self]]_). For example, you could transform yourself into a halfling, then a lizardfolk, then an elf, and so on. You can change your form a number of times equal to your caster level.

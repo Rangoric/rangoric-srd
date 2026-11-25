@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Protect Vitals
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 While in the guarded stance, the barbarian gains an additional +4 dodge bonus to AC against attack rolls made to confirm critical hits. A barbarian must have the [[rangoric-srd/class-options/rage-powers/Guarded Stance (Rage Power)|guarded stance]] rage power and be at least 8th level to select this rage power.

@@ -37,30 +37,31 @@ change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
+
 # Achaierai
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Evil, Extraplanar, Lawful)
-  - **Hit Dice**: 7d10+14 (52 hp)
-  - **Initiative**: +1
-  - **Speed**: 50 ft. (10 squares)
-  - **Armor Class**: 20 (+1 Dex, +1 dodge, +9 natural, –1 size), touch 11, flat-footed 18
-  - **Base Attack**: +7; **CMB**: +12; **CMD**: 24 (28 vs. trip)
-  - **Attack**: Bite +10 melee (2d6+4) or claw +10 melee (1d6+4)
-  - **Full Attack**: Bite +10 melee (2d6+4) and 2 claws +10 melee (1d6+4)
-  - **Space/Reach**: 10 ft./10 ft. with claw
-  - **Special Attacks**: Black cloud
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20
-  - **Saves**: Fort +7, Ref +6, Will +4
-  - **Abilities**: Str 19, Dex 13, Con 14, Int 11, Wis 14, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +14 (+22 jumping), [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +7
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]]
-  - **Environment**: Lands of a lawful evil-aligned plane
-  - **Organization**: Solitary or flock (5–8)
-  - **Challenge Rating**: 5
-  - **Treasure**: Standard
-  - **Alignment**: Always lawful evil
-  - **Advancement**: 7–12 HD (Large); 13–18 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Evil, Extraplanar, Lawful)
+- **Hit Dice**: 7d10+14 (52 hp)
+- **Initiative**: +1
+- **Speed**: 50 ft. (10 squares)
+- **Armor Class**: 20 (+1 Dex, +1 dodge, +9 natural, –1 size), touch 11, flat-footed 18
+- **Base Attack**: +7; **CMB**: +12; **CMD**: 24 (28 vs. trip)
+- **Attack**: Bite +10 melee (2d6+4) or claw +10 melee (1d6+4)
+- **Full Attack**: Bite +10 melee (2d6+4) and 2 claws +10 melee (1d6+4)
+- **Space/Reach**: 10 ft./10 ft. with claw
+- **Special Attacks**: Black cloud
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20
+- **Saves**: Fort +7, Ref +6, Will +4
+- **Abilities**: Str 19, Dex 13, Con 14, Int 11, Wis 14, Cha 16
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +14 (+22 jumping), [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +7
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]]
+- **Environment**: Lands of a lawful evil-aligned plane
+- **Organization**: Solitary or flock (5–8)
+- **Challenge Rating**: 5
+- **Treasure**: Standard
+- **Alignment**: Always lawful evil
+- **Advancement**: 7–12 HD (Large); 13–18 HD (Huge)
+- **Level Adjustment**: —
 
 An achaierai is a predator and scavenger of the lower planes that looks like a 15-foot-tall flightless bird, though its head and body are fused into one large unit, with four legs and atrophied wings. The thick, oily plumage covering its body all but conceals these tiny wings. An adult achaierai weighs roughly 750 pounds.
 

@@ -33,7 +33,7 @@ Telepathy \[Mind-Affecting\]
 **Duration:** Concentration, up to 1 min./level (D)  
 **Saving Throw:** Will negates; see text  
 **Power Resistance:** No  
-**Power Points:** 3  
+**Power Points:** 3
 
 You know the surface thoughts of the mind of any creature in the area that fails a Will save. A target that succeeds on its save is not affected by this manifestation of the power, even if it leaves the area and then reenters the area before the duration expires.
 

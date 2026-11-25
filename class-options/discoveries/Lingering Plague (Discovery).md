@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Lingering Plague
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]].*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]]._
 
 Any creature that must make a save against a [[rangoric-srd/rules/Afflictions#Disease|disease]] caused by the alchemist’s extract or other class ability must make a second save 1 round later to avoid doubling the duration of the disease effect. If the disease doesn’t have a duration, this discovery reduces its onset time and frequencies by half. An alchemist must be at least 8th level before selecting this discovery.

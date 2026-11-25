@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Defensive Swathe
 
-*Swathe/Erlcana; Special*
+_Swathe/Erlcana; Special_
 
 A defenswathe is a small tangle of plants bonded to armor or shields for additional nonmagical benefits to the armor and its user. Defenswathes normally take the appearance of a tangle of tough roots and vines spread across and rooted into the armor’s (or shield’s) surface. A defenswathe adds a +2 to the armor’s hardness rating, a natural armor bonus of +1 to the bearer’s AC, and a +5 circumstance bonus on all [[rangoric-srd/skills/Stealth|Stealth]] checks when in wilderness or natural settings. If the defenswathe ever suffers more than 10 hit points worth of fire, acid or cold damage, it is damaged beyond repair and will fall away, returning the armor to its original specifications.
 

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Leaf Ray
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 2d8+6 (15 hp)
-  - **Initiative**: +3
-  - **Speed**: 5 ft. (1 square), fly 40 ft. (average)
-  - **Armor Class**: 14 (+3 Dex, +1 size), touch 14, flat-footed 11
-  - **Base Attack**: +1; **CMB**: +1; **CMD**: 14 (can't be tripped)
-  - **Attack**: Stinger +3 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: Stinger +3 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Seed|seed]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-  - **Saves**: Fort +6, Ref +3, Will +1
-  - **Abilities**: Str 12, Dex 16, Con 17, Int 1, Wis 13, Cha 4
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Perception|Perception]] +5
-  - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]]
-  - **Environment**: Temperate or warm forests
-  - **Organization**: Solitary or rustle (2–20)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 2d8+6 (15 hp)
+- **Initiative**: +3
+- **Speed**: 5 ft. (1 square), fly 40 ft. (average)
+- **Armor Class**: 14 (+3 Dex, +1 size), touch 14, flat-footed 11
+- **Base Attack**: +1; **CMB**: +1; **CMD**: 14 (can't be tripped)
+- **Attack**: Stinger +3 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: Stinger +3 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Seed|seed]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
+- **Saves**: Fort +6, Ref +3, Will +1
+- **Abilities**: Str 12, Dex 16, Con 17, Int 1, Wis 13, Cha 4
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Perception|Perception]] +5
+- **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]]
+- **Environment**: Temperate or warm forests
+- **Organization**: Solitary or rustle (2–20)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Growing in the upper canopies of massive trees, leaf rays fly through the air in search of food. Barely sentient, leaf rays have just enough intelligence to find nourishment and pick out creatures suitable for harboring their seeds. These creatures are hardly picky in their quest for either, merely requiring a warm-blooded living creature, preferably mammalian, for each purpose.
 
@@ -73,6 +73,6 @@ Leaf rays change color in depending on the season, but they do not die off durin
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Sting—injury; *save* Fort DC 14; *frequency* 1/round for 6 rounds; *effect* 1d2 Dex; *cure* 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Sting—injury; _save_ Fort DC 14; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Dex; _cure_ 1 save.
 
 **[[rangoric-srd/monsters/abilities/Seed|Seed]] (Ex)**: Once per day, a leaf ray can implant a seed into a [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] target with its stinger. As a full-round action, the leaf ray stings its victim, depositing a seed into the victim's flesh. This process deals 1 hit point of damage to the victim, but the implanted creature isn't subject to the leaf ray's poison in this process. The seed germinates inside the victim, making it [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] while it harbors the leaf ray seed, and dealing 1d2 points of Constitution damage to the victim each day the seed grows within. This damage is negated with a successful DC 14 Fortitude save. The seed feeds off the victim's body and only grows into a new leaf ray tree when the victim dies from Constitution damage. Removing an implanted seed requires a successful DC 20 Medicine check (a full-round action); each attempt deals 1 hit point of damage. Although immunity to disease offers no special protection against a leaf ray seed's implantation, remove disease, heal, or similar effects automatically destroy any implanted seeds.

@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Compel Alacrity
 
-*A mesmerist’s [[rangoric-srd/classes/Mesmerist#^mesmerist-tricks|mesmerist trick]] (Su).*
+_A mesmerist’s [[rangoric-srd/classes/Mesmerist#^mesmerist-tricks|mesmerist trick]] (Su)._
 
 A dash of mental speed lets the subject push past her physical limits to avoid an enemy. The mesmerist can trigger this trick when the subject begins her turn within an enemy’s reach. The subject can move 10 feet as a free action without provoking attacks of opportunity. The distance the subject can move increases by 5 feet for every 5 levels the mesmerist possesses, to a maximum of 30 feet at 20th level. The subject can’t move farther than her speed in this way. The movement from this trick doesn’t count against the subject’s movement speed for that round.

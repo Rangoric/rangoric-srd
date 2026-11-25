@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Nimble Shot
 
-This special ability can only be placed on ranged weapons. A *nimble shot* weapon doesn't provoke attacks of opportunity when fired.
+This special ability can only be placed on ranged weapons. A _nimble shot_ weapon doesn't provoke attacks of opportunity when fired.
 
-Moderate abjuration; CL 11th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Bow Spirit|bow spirit]]*; Price +4 bonus.
+Moderate abjuration; CL 11th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Bow Spirit|bow spirit]]_; Price +4 bonus.

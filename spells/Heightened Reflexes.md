@@ -25,15 +25,15 @@ tags: [rangoric, rangoric/spell]
 
 # Heightened Reflexes
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Brd 2, Skd 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: 30 ft.
-  - **Area**: Allies within a 30-ft.-radius burst centered on you
-  - **Duration**: 1 minute/level or until discharged
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Brd 2, Skd 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: 30 ft.
+- **Area**: Allies within a 30-ft.-radius burst centered on you
+- **Duration**: 1 minute/level or until discharged
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 You grant each of your allies within the area a +10 competence bonus on a single Reflex saving throw. Each ally must decide whether to use the bonus before making the roll to which it applies. When an ally uses the bonus, the spell ends for that individual.

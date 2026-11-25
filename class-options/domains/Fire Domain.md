@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Fire Domain
 
-*A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]], which a druid can also take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]].*
+_A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]], which a druid can also take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]._
 
 **Subdomains**: [[rangoric-srd/class-options/domains/Ash Subdomain|Ash]], [[rangoric-srd/class-options/domains/Smoke Subdomain|Smoke]].
 
@@ -33,16 +33,16 @@ You can call forth fire, command creatures of the inferno, and your flesh does n
 
 Where a level has two spells, the cleric prepares [[rangoric-srd/class-options/domains/Domains#^domains-two-spells|either one]] in the domain spell slot.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Burning Hands\|Burning Hands]] | 1d4/level fire damage (max 5d4). |
-| 2nd | [[rangoric-srd/spells/Produce Flame\|Produce Flame]] | 1d6 damage +1/ level, touch or thrown. |
-| 3rd | [[rangoric-srd/spells/Resist Energy\|Resist Energy]] (resist cold or fire only) | Ignores 10 (or more) points of damage/attack from specified energy type. |
-| 3rd | [[rangoric-srd/spells/Fireball\|Fireball]] (M) | 1d6 damage per level, 20-ft. radius. |
-| 4th | [[rangoric-srd/spells/Wall of Fire\|Wall of Fire]] | Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level. |
-| 5th | [[rangoric-srd/spells/Fire Shield\|Fire Shield]] | Creatures attacking you take fire damage; you’re protected from heat or cold. |
-| 6th | [[rangoric-srd/spells/Fire Seeds\|Fire Seeds]] | Acorns and berries become grenades and bombs. |
-| 7th | [[rangoric-srd/spells/Fire Storm\|Fire Storm]] | Deals 1d6/level fire damage. |
-| 7th | [[rangoric-srd/spells/Elemental Body IV\|Elemental Body IV]] (M) (fire only) | You become a Small to Huge elemental. |
-| 8th | [[rangoric-srd/spells/Incendiary Cloud\|Incendiary Cloud]] | Cloud deals 4d6 fire damage/round. |
-| 9th | [[rangoric-srd/spells/Elemental Swarm\|Elemental Swarm]] (cast as a fire spell only) | Summons multiple elementals. |
+| Level | Spell                                                                                | Brief Description                                                                                         |
+| ----- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Burning Hands\|Burning Hands]]                                 | 1d4/level fire damage (max 5d4).                                                                          |
+| 2nd   | [[rangoric-srd/spells/Produce Flame\|Produce Flame]]                                 | 1d6 damage +1/ level, touch or thrown.                                                                    |
+| 3rd   | [[rangoric-srd/spells/Resist Energy\|Resist Energy]] (resist cold or fire only)      | Ignores 10 (or more) points of damage/attack from specified energy type.                                  |
+| 3rd   | [[rangoric-srd/spells/Fireball\|Fireball]] (M)                                       | 1d6 damage per level, 20-ft. radius.                                                                      |
+| 4th   | [[rangoric-srd/spells/Wall of Fire\|Wall of Fire]]                                   | Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level. |
+| 5th   | [[rangoric-srd/spells/Fire Shield\|Fire Shield]]                                     | Creatures attacking you take fire damage; you’re protected from heat or cold.                             |
+| 6th   | [[rangoric-srd/spells/Fire Seeds\|Fire Seeds]]                                       | Acorns and berries become grenades and bombs.                                                             |
+| 7th   | [[rangoric-srd/spells/Fire Storm\|Fire Storm]]                                       | Deals 1d6/level fire damage.                                                                              |
+| 7th   | [[rangoric-srd/spells/Elemental Body IV\|Elemental Body IV]] (M) (fire only)         | You become a Small to Huge elemental.                                                                     |
+| 8th   | [[rangoric-srd/spells/Incendiary Cloud\|Incendiary Cloud]]                           | Cloud deals 4d6 fire damage/round.                                                                        |
+| 9th   | [[rangoric-srd/spells/Elemental Swarm\|Elemental Swarm]] (cast as a fire spell only) | Summons multiple elementals.                                                                              |

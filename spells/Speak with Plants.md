@@ -25,14 +25,14 @@ tags: [rangoric, rangoric/spell]
 
 # Speak with Plants
 
-*Divination*
+_Divination_
 
-  - **Level**: Brd 4, Drd 3, Hun 2, Rgr 2, Skd 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 min./level
+- **Level**: Brd 4, Drd 3, Hun 2, Rgr 2, Skd 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 min./level
 
 You can comprehend and communicate with plants, including both normal plants and plant creatures. You are able to ask questions of and receive answers from plants. A regular plant’s sense of its surroundings is limited, so it won’t be able to give (or recognize) detailed descriptions of creatures or answer questions about events outside its immediate vicinity.
 

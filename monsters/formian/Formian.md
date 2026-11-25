@@ -13,11 +13,11 @@ tags: [rangoric, rangoric/monster]
 
 # Formian
 
-  - [[rangoric-srd/monsters/formian/Formian Worker|Formian Worker]]
-  - [[rangoric-srd/monsters/formian/Formian Warrior|Formian Warrior]]
-  - [[rangoric-srd/monsters/formian/Formian Taskmaster|Formian Taskmaster]]
-  - [[rangoric-srd/monsters/formian/Formian Myrmarch|Formian Myrmarch]]
-  - [[rangoric-srd/monsters/formian/Formian Queen|Formian Queen]]
+- [[rangoric-srd/monsters/formian/Formian Worker|Formian Worker]]
+- [[rangoric-srd/monsters/formian/Formian Warrior|Formian Warrior]]
+- [[rangoric-srd/monsters/formian/Formian Taskmaster|Formian Taskmaster]]
+- [[rangoric-srd/monsters/formian/Formian Myrmarch|Formian Myrmarch]]
+- [[rangoric-srd/monsters/formian/Formian Queen|Formian Queen]]
 
 A formian resembles a cross between an ant and a centaur. All formians are covered in a brownish-red carapace; size and appearance differs for each variety. Formians are a spacefaring race of insectlike creatures from a forest world that aggressively colonize other worlds.
 

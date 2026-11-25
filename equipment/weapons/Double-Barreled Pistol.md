@@ -25,6 +25,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/firearms]
 
 # Double-Barreled Pistol
 
-*Exotic one-handed early firearm.* Cost 1,750 gp; Dmg 1d6 (S), 1d8 (M); Critical x4; Range Increment 20 ft.; Misfire 1–2 (5 ft.); Capacity 2; Weight 5 lb.; Type Bludgeoning and piercing. ^stats
+_Exotic one-handed early firearm._ Cost 1,750 gp; Dmg 1d6 (S), 1d8 (M); Critical x4; Range Increment 20 ft.; Misfire 1–2 (5 ft.); Capacity 2; Weight 5 lb.; Type Bludgeoning and piercing. ^stats
 
 This pistol has two parallel barrels; each barrel can be fired independently as a separate action, or both can be shot at once with the same action. If both barrels are shot at once, they must both target the same creature or object, and the pistol becomes wildly inaccurate, imparting a –4 penalty on each shot.

@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Close Range
 
-*A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Ex).*
+_A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Ex)._
 
-The magus can deliver ray spells that feature a ranged touch attack as melee touch spells. He can use a ranged touch attack spell that targets more than one creature (such as *[[rangoric-srd/spells/Scorching Ray|scorching ray]]*), but he makes only one melee touch attack to deliver one of these ranged touch effects; additional ranged touch attacks from that spell are wasted and have no effect. These spells can be used with the spellstrike class feature.
+The magus can deliver ray spells that feature a ranged touch attack as melee touch spells. He can use a ranged touch attack spell that targets more than one creature (such as _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_), but he makes only one melee touch attack to deliver one of these ranged touch effects; additional ranged touch attacks from that spell are wasted and have no effect. These spells can be used with the spellstrike class feature.

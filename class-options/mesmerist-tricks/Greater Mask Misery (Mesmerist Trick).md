@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Greater Mask Misery
 
-*A mesmerist’s [[rangoric-srd/classes/Mesmerist#^mesmerist-masterful-tricks|masterful trick]] (Su).*
+_A mesmerist’s [[rangoric-srd/classes/Mesmerist#^mesmerist-masterful-tricks|masterful trick]] (Su)._
 
 This trick functions as the [[rangoric-srd/class-options/mesmerist-tricks/Mask Misery (Mesmerist Trick)|mask misery]] trick, but can be used to ignore greater conditions as well. A mesmerist must have the mask misery mesmerist trick to take greater mask misery.

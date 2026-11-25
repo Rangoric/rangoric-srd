@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/armor]
 
 # Dust Shield
 
-*Shield.* Cost 25 gp; Shield Bonus +2; Armor Check Penalty –2; Arcane Spell Failure 15%; Weight 15 lb. ^stats
+_Shield._ Cost 25 gp; Shield Bonus +2; Armor Check Penalty –2; Arcane Spell Failure 15%; Weight 15 lb. ^stats
 
 This shield appears to be nothing but a heavy spiked steel shield. However, it consists of two flat layers enclosing a hollow space that can be filled with dust. When the shield is struck, the force of the blow presses the two layers together, pushing the dust out through the hollow spikes.
 

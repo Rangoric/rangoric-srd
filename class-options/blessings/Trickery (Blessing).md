@@ -15,8 +15,8 @@ tags: [rangoric, rangoric/class-option]
 
 # Trickery Blessing
 
-*A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Trickery Domain|Trickery domain]].*
+_A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Trickery Domain|Trickery domain]]._
 
-**Double (minor)**: At 1st level, as a move action you can create an illusory double of yourself. This double functions as a single *[[rangoric-srd/spells/Mirror Image|mirror image]]*, and lasts for a number of rounds equal to your warpriest level, or until the illusory duplicate is dispelled or destroyed. You can have no more than one double at a time. This ability doesn’t stack with the additional damage from the *[[rangoric-srd/spells/Mirror Image|mirror image]]* spell.
+**Double (minor)**: At 1st level, as a move action you can create an illusory double of yourself. This double functions as a single _[[rangoric-srd/spells/Mirror Image|mirror image]]_, and lasts for a number of rounds equal to your warpriest level, or until the illusory duplicate is dispelled or destroyed. You can have no more than one double at a time. This ability doesn’t stack with the additional damage from the _[[rangoric-srd/spells/Mirror Image|mirror image]]_ spell.
 
-**Greater Invisibility (major)**: At 10th level, as a swift action you can become invisible for 1 round (as *[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]*).
+**Greater Invisibility (major)**: At 10th level, as a swift action you can become invisible for 1 round (as _[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]_).

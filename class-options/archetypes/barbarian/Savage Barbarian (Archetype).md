@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Savage Barbarian
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-archetypes|barbarian]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-archetypes|barbarian]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Some barbarians are truly savage, having little training in modern arms. These savage barbarians learn to avoid blows and toughen up their skin. A savage barbarian has the following class features.
 

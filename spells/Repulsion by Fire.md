@@ -20,11 +20,11 @@ tags: [rangoric, rangoric/spell]
 
 # Repulsion by Fire
 
-*Evocation \[Fire\]*
+_Evocation \[Fire\]_
 
-  - **Level**: Sor/Wiz 3
-  - **Range**: 20 ft.
-  - **Area**: Semicircular burst of flames 20 ft. long, centered on the character’s hands
-  - **Duration**: 1 round
+- **Level**: Sor/Wiz 3
+- **Range**: 20 ft.
+- **Area**: Semicircular burst of flames 20 ft. long, centered on the character’s hands
+- **Duration**: 1 round
 
-This spell is like *[[rangoric-srd/spells/Burning Hands|burning hands]]*, inflicting 1d4 points of damage/ level to all within the area of effect (maximum 5d4). Anyone entering the area is affected as if it was there when the spell was cast. The caster makes a free *bull rush* attempt against every creature in the area, using an effective strength of 15 plus one per three caster levels. If the *bull rush* is successful, the caster is considered to follow the creature (the caster does not actually move), although creatures cannot be pushed beyond the range of the spell. If a creature beats the caster in the roll, the caster does not move, and the creature is instead checked for the duration of the spell.
+This spell is like _[[rangoric-srd/spells/Burning Hands|burning hands]]_, inflicting 1d4 points of damage/ level to all within the area of effect (maximum 5d4). Anyone entering the area is affected as if it was there when the spell was cast. The caster makes a free _bull rush_ attempt against every creature in the area, using an effective strength of 15 plus one per three caster levels. If the _bull rush_ is successful, the caster is considered to follow the creature (the caster does not actually move), although creatures cannot be pushed beyond the range of the spell. If a creature beats the caster in the roll, the caster does not move, and the creature is instead checked for the duration of the spell.

@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Krenshar
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 2d10+2 (13 hp)
-  - **Initiative**: +6
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 15 (+2 Dex, +3 natural), touch 12, flat-footed 13
-  - **Base Attack**: +2; **CMB**: +2; **CMD**: 14 (18 vs. trip)
-  - **Attack**: Bite +2 melee (1d6) or claw +2 melee (1d4)
-  - **Full Attack**: Bite +2 melee (1d6) and 2 claws +2 melee (1d4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Skullface
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +4, Ref +5, Will +1
-  - **Abilities**: Str 11, Dex 14, Con 13, Int 6, Wis 12, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +1 (+5 to demoralize), [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
-  - **Environment**: Temperate forests or plains
-  - **Organization**: Solitary, pair, or pride (6–10)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 3–4 HD (Medium); 5–8 HD (Large)
-  - **Level Adjustment**: +2
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 2d10+2 (13 hp)
+- **Initiative**: +6
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 15 (+2 Dex, +3 natural), touch 12, flat-footed 13
+- **Base Attack**: +2; **CMB**: +2; **CMD**: 14 (18 vs. trip)
+- **Attack**: Bite +2 melee (1d6) or claw +2 melee (1d4)
+- **Full Attack**: Bite +2 melee (1d6) and 2 claws +2 melee (1d4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Skullface
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +4, Ref +5, Will +1
+- **Abilities**: Str 11, Dex 14, Con 13, Int 6, Wis 12, Cha 13
+- **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +1 (+5 to demoralize), [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
+- **Environment**: Temperate forests or plains
+- **Organization**: Solitary, pair, or pride (6–10)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 3–4 HD (Medium); 5–8 HD (Large)
+- **Level Adjustment**: +2
 
 The krenshar is a strange creature that resembles a large but earless hunting cat, save that it can retract the fur and skin on its face to reveal the glistening skull and musculature underneath. Combined with its strange, keening wail, this horrifying display is enough to paralyze prey and send formidable opponents running.
 

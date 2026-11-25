@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Air Mephit
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^air|Air]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]])
-  - **Hit Dice**: 3d8 (13 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares), fly 60 ft. (perfect)
-  - **Armor Class**: 17 (+1 size, +3 Dex, +3 natural), touch 14, flat-footed 14
-  - **Base Attack**: +3; **CMB**: +2; **CMD**: 16
-  - **Attack**: Claw +4 melee (1d3)
-  - **Full Attack**: 2 claws +4 melee (1d3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], spell-like abilities, summon mephit
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/magic, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2
-  - **Saves**: Fort +3, Ref +6, Will +3
-  - **Abilities**: Str 10, Dex 17, Con 10, Int 6, Wis 11, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6 (+11 with bindings), [[rangoric-srd/skills/Imitation|Imitation]] +4 (+6 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +2, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +13
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
-  - **Environment**: Elemental Plane of Air
-  - **Organization**: Solitary (1), gang (2–4 mephits of mixed types), or mob (5–12 mephits of mixed types)
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: 4–6 HD (Small); 7–9 HD (Medium)
-  - **Level Adjustment**: +3 (cohort)
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^air|Air]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]])
+- **Hit Dice**: 3d8 (13 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares), fly 60 ft. (perfect)
+- **Armor Class**: 17 (+1 size, +3 Dex, +3 natural), touch 14, flat-footed 14
+- **Base Attack**: +3; **CMB**: +2; **CMD**: 16
+- **Attack**: Claw +4 melee (1d3)
+- **Full Attack**: 2 claws +4 melee (1d3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], spell-like abilities, summon mephit
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/magic, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2
+- **Saves**: Fort +3, Ref +6, Will +3
+- **Abilities**: Str 10, Dex 17, Con 10, Int 6, Wis 11, Cha 15
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6 (+11 with bindings), [[rangoric-srd/skills/Imitation|Imitation]] +4 (+6 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +2, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +13
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
+- **Environment**: Elemental Plane of Air
+- **Organization**: Solitary (1), gang (2–4 mephits of mixed types), or mob (5–12 mephits of mixed types)
+- **Challenge Rating**: 3
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: 4–6 HD (Small); 7–9 HD (Medium)
+- **Level Adjustment**: +3 (cohort)
 
 Air mephits come from the Elemental Plane of Air.
 

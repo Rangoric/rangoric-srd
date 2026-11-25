@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Near Death
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Bones Mystery|bones]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Bones Mystery|bones]] mystery._
 
 You gain a +2 insight bonus on saves against diseases, mind-affecting effects, and poisons. At 7th level, this bonus also applies on saves against death effects, sleep effects, and stunning. At 11th level, the bonus increases to +4.

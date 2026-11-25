@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Treeform Cloak
 
-This long green cloak's back features an embroidered image of an ancient oak. Once per day on command, the wearer can assume the shape of a tree, as the *[[rangoric-srd/spells/Tree Shape|tree shape]]* spell, but can only take the form of a living tree. Furthermore, each hour the wear spends in tree form while in direct sunlight, he heals 1d6 hit points.
+This long green cloak's back features an embroidered image of an ancient oak. Once per day on command, the wearer can assume the shape of a tree, as the _[[rangoric-srd/spells/Tree Shape|tree shape]]_ spell, but can only take the form of a living tree. Furthermore, each hour the wear spends in tree form while in direct sunlight, he heals 1d6 hit points.
 
-Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Goodberry|goodberry]]*, *[[rangoric-srd/spells/Tree Shape|tree shape]]*; Price 6,000 gp; Cost 3,000 gp; Weight 1 lb.
+Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Goodberry|goodberry]]_, _[[rangoric-srd/spells/Tree Shape|tree shape]]_; Price 6,000 gp; Cost 3,000 gp; Weight 1 lb.

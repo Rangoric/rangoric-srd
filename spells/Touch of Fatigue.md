@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Touch of Fatigue
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Mes 0, Occ 0, Sha 0, Sor/Wiz 0, Wit 0
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Mes 0, Occ 0, Sha 0, Sor/Wiz 0, Wit 0
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 round/level
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
 You channel negative energy through your touch, fatiguing the target. You must succeed on a touch attack to strike a target.
 
@@ -45,4 +45,4 @@ The subject is immediately [[rangoric-srd/rules/Special Abilities and Conditions
 
 This spell has no effect on a creature that is already fatigued. Unlike with normal fatigue, the effect ends as soon as the spell’s duration expires.
 
-*Material Component*: A drop of sweat.
+_Material Component_: A drop of sweat.

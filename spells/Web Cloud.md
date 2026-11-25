@@ -26,21 +26,21 @@ tags: [rangoric, rangoric/spell]
 
 # Web Cloud
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Sor/Wiz 4, Wit 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: Cloud spreads in 20-ft. radius, 20 ft. high
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: Reflex partial; see text
-  - **Spell Resistance**: No
+- **Level**: Sor/Wiz 4, Wit 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: Cloud spreads in 20-ft. radius, 20 ft. high
+- **Duration**: 1 minute/level
+- **Saving Throw**: Reflex partial; see text
+- **Spell Resistance**: No
 
-You create a cloud of flame-resistant strands of adhesive webbing that billows and flows much like a *[[rangoric-srd/spells/Cloudkill|cloudkill]]* spell. The cloud moves away from you at a rate of 10 feet per round, rolling along the surface of the ground.
+You create a cloud of flame-resistant strands of adhesive webbing that billows and flows much like a _[[rangoric-srd/spells/Cloudkill|cloudkill]]_ spell. The cloud moves away from you at a rate of 10 feet per round, rolling along the surface of the ground.
 
 Figure out the cloud's new spread each round based on its new point of origin, which is 10 feet farther away from the point of origin where the caster cast the spell. Creatures trapped in the webbing remain trapped even after the cloud passes, but the area the cloud leaves behind does not count as difficult terrain.
 
 Because the webbing is heavier than air, it sinks to the lowest level of the land, even pouring down den or sinkhole openings. The cloud of webbing cannot penetrate liquids, nor can it be cast underwater.
 
-The cloud otherwise acts like a *[[rangoric-srd/spells/Web|web]]* spell. A creature in the cloud at the start of its turn must save against the cloud or be affected. The webbing of this spell is flammable (see the *[[rangoric-srd/spells/Web|web]]* spell), but has fire resistance 5.
+The cloud otherwise acts like a _[[rangoric-srd/spells/Web|web]]_ spell. A creature in the cloud at the start of its turn must save against the cloud or be affected. The webbing of this spell is flammable (see the _[[rangoric-srd/spells/Web|web]]_ spell), but has fire resistance 5.

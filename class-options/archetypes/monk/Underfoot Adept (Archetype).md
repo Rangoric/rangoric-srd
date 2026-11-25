@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Underfoot Adept
 
-*A [[rangoric-srd/classes/Monk#^monk-archetypes|monk]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Halfling|halflings]].*
+_A [[rangoric-srd/classes/Monk#^monk-archetypes|monk]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Halfling|halflings]]._
 
 An underfoot adept turns his diminutive stature and unorthodox footwork into a powerful weapon. Effortlessly moving across the battlefield, he ducks under the legs of larger creatures and then topples them with surprising attacks. An underfoot adept has the following class features.
 

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Out for Blood
 
-*A [[rangoric-srd/class-options/dares/Dares|dare]] (Ex) for gunslingers and swashbucklers.*
+_A [[rangoric-srd/class-options/dares/Dares|dare]] (Ex) for gunslingers and swashbucklers._
 
 While this dare is active, your critical threat range with firearms (for gunslingers) or light or one-handed piercing melee weapons (for swashbucklers) increases by 1 (20/×4 becomes 19–20/×4, 19–20/×2 becomes 18–20/×2, and so on). This effect does not stack with similar effects that modify a weapon's critical threat range.

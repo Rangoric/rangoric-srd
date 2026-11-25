@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Order of the Star
 
-*A [[rangoric-srd/classes/Cavalier#^cavalier-order|cavalier order]].*
+_A [[rangoric-srd/classes/Cavalier#^cavalier-order|cavalier order]]._
 
 Cavaliers who join the order of the star dedicate themselves to the protection and service of a faith and its members. Cavaliers belonging to this order tend to follow many of the tenets and guides of the religion that they serve. When a cavalier joins this order, he should select a single religion to serve.
 

@@ -36,16 +36,16 @@ tags: [rangoric, rangoric/spell]
 
 # Wall of Stone
 
-*Conjuration (Creation) \[Earth\]*
+_Conjuration (Creation) \[Earth\]_
 
-  - **Level**: Clr 5, Drd 6, Earth 5, Hun 6, Mag 5, Occ 5, Sha 6, Sor/Wiz 5, Sum 4, SumU 5
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: Stone wall whose area is up to one 5-ft. square/level (S)
-  - **Duration**: Instantaneous
-  - **Saving Throw**: See text
-  - **Spell Resistance**: No
+- **Level**: Clr 5, Drd 6, Earth 5, Hun 6, Mag 5, Occ 5, Sha 6, Sor/Wiz 5, Sum 4, SumU 5
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: Stone wall whose area is up to one 5-ft. square/level (S)
+- **Duration**: Instantaneous
+- **Saving Throw**: See text
+- **Spell Resistance**: No
 
 This spell creates a wall of rock that merges into adjoining rock surfaces. A wall of stone is 1 inch thick per four caster levels and composed of up to one 5-foot square per level. You can double the wall’s area by halving its thickness. The wall cannot be conjured so that it occupies the same space as a creature or another object.
 
@@ -55,4 +55,4 @@ Like any other stone wall, this one can be destroyed by a disintegrate spell or 
 
 It is possible, but difficult, to trap mobile opponents within or under a wall of stone, provided the wall is shaped so it can hold the creatures. Creatures can avoid entrapment with successful Reflex saves.
 
-*Arcane Material Component*: A small block of granite.
+_Arcane Material Component_: A small block of granite.

@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/rules]
 
 To help explain these rules, the following section includes a number of sample wordspells that could be created using the words of power system.
 
-**Burst Fire Blast**: This simple wordspell does 1d6 points of fire damage per caster level (maximum 10d6) to anything caught in a 10-foot-radius burst. If the wordcaster boosts the target word, this wordspell more closely resembles *[[rangoric-srd/spells/Fireball|fireball]]*, dealing damage in a 20-foot-radius burst. The targets receive a Reflex saving throw to halve the damage.
+**Burst Fire Blast**: This simple wordspell does 1d6 points of fire damage per caster level (maximum 10d6) to anything caught in a 10-foot-radius burst. If the wordcaster boosts the target word, this wordspell more closely resembles _[[rangoric-srd/spells/Fireball|fireball]]_, dealing damage in a 20-foot-radius burst. The targets receive a Reflex saving throw to halve the damage.
 
 **Selected Ice Blast Life Leech**: This wordspell causes the target to take 10d6 points of cold damage and 1d4 temporary negative levels, and to become entangled for 1d4 rounds. The target receives either a Fortitude save or a Reflex save, chosen by the caster. If the save is successful, the target takes half the cold damage, takes no negative levels, and is not entangled. A sorcerer, witch, or wizard can boost the target word to make this spell affect multiple targets, but doing so increases the spell's overall level to 9th.
 

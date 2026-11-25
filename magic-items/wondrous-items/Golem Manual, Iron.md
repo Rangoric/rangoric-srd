@@ -23,6 +23,6 @@ A golem manual contains information, incantations and magical power that help a 
 
 The spells included in a golem manual require a spell trigger activation and can be activated only to assist in the construction of a golem. The cost of the book does not include the cost of constructing the golem’s body. Once the golem is finished, the writing in the manual fades and the book is consumed in flames. When the book’s ashes are sprinkled upon the golem, it becomes fully animated.
 
-*Iron Golem Manual*: The book contains cloudkill, geas/quest, limited wish, and polymorph any object. The reader may treat her caster level as four levels higher than normal for the purpose of crafting a iron golem. The book supplies 5,600 XP for the creation of a iron golem.
+_Iron Golem Manual_: The book contains cloudkill, geas/quest, limited wish, and polymorph any object. The reader may treat her caster level as four levels higher than normal for the purpose of crafting a iron golem. The book supplies 5,600 XP for the creation of a iron golem.
 
 Strong conjuration, enchantment and transmutation; CL 16th; Craft Construct, creator must be caster level 16th, cloudkill, geas/quest, limited wish, polymorph any object; Price 35,000 gp; Cost 3,500 gp + 5,880 XP; Weight 5 lb.

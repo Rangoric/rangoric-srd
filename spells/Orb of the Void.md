@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Orb of the Void
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Clr 8, Psy 8, Sor/Wiz 8
-  - **Components**: V, S, M (a black gemstone of any kind worth 50 gp)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: 1-ft.-diameter sphere
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Clr 8, Psy 8, Sor/Wiz 8
+- **Components**: V, S, M (a black gemstone of any kind worth 50 gp)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: 1-ft.-diameter sphere
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
 You create a small weightless sphere of pure negative energy. As a move action, you can move it up to 30 feet per round in any direction. If it enters a space with a living creature, it stops moving for the round and that creature gains one negative level (Fortitude negates). Any creature passing through or ending its turn in the space occupied by the sphere gains one negative level (Fortitude negates). Twenty-four hours after gaining a negative level from the sphere, the subject must make a Fortitude saving throw (the DC of this save is equal to the DC of this spell) for each negative level. If the save succeeds, that negative level is removed. If it fails, that negative level becomes permanent.
 

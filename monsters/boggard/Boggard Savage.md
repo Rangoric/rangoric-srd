@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Boggard Savage
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Boggard)
-  - **Hit Dice**: 3d8+2d12+30 (61 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares), swim 30 ft.
-  - **Armor Class**: 15 (+4 armor, +3 natural, –2 rage), touch 8, flat-footed 15
-  - **Base Attack**: +4; **CMB**: +10; **CMD**: 18
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greatclub|greatclub]] +12 melee (1d10+9) or tongue +10 melee touch (sticky tongue) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +4 ranged (1d6+6)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greatclub|greatclub]] +12 melee (1d10+9) and tongue +5 melee touch (sticky tongue); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +4 ranged (1d6+6)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (10 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/No Escape (Rage Power)|no escape]]), [[rangoric-srd/monsters/boggard/Boggard#^terrifying-croak|terrifying croak]] (DC 12)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/boggard/Boggard#^swamp-stride|swamp stride]]
-  - **Saves**: Fort +12, Ref +3, Will +4
-  - **Abilities**: Str 23, Dex 11, Con 22, Int 8, Wis 13, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +19 (+35 jumping), [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +0 (+8 in swamps)
-  - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatclub)
-  - **Environment**: Temperate marshes
-  - **Organization**: Solitary, or with other boggards (see [[rangoric-srd/monsters/boggard/Boggard|Boggard]])
-  - **Challenge Rating**: 4
-  - **Treasure**: NPC gear (combat gear: oil of magic weapon, potions of cure moderate wounds (2); other gear: +1 studded leather, javelins (3), masterwork greatclub, 269 gp)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Boggard)
+- **Hit Dice**: 3d8+2d12+30 (61 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares), swim 30 ft.
+- **Armor Class**: 15 (+4 armor, +3 natural, –2 rage), touch 8, flat-footed 15
+- **Base Attack**: +4; **CMB**: +10; **CMD**: 18
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greatclub|greatclub]] +12 melee (1d10+9) or tongue +10 melee touch (sticky tongue) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +4 ranged (1d6+6)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greatclub|greatclub]] +12 melee (1d10+9) and tongue +5 melee touch (sticky tongue); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +4 ranged (1d6+6)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (10 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/No Escape (Rage Power)|no escape]]), [[rangoric-srd/monsters/boggard/Boggard#^terrifying-croak|terrifying croak]] (DC 12)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/boggard/Boggard#^swamp-stride|swamp stride]]
+- **Saves**: Fort +12, Ref +3, Will +4
+- **Abilities**: Str 23, Dex 11, Con 22, Int 8, Wis 13, Cha 8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +19 (+35 jumping), [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +0 (+8 in swamps)
+- **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatclub)
+- **Environment**: Temperate marshes
+- **Organization**: Solitary, or with other boggards (see [[rangoric-srd/monsters/boggard/Boggard|Boggard]])
+- **Challenge Rating**: 4
+- **Treasure**: NPC gear (combat gear: oil of magic weapon, potions of cure moderate wounds (2); other gear: +1 studded leather, javelins (3), masterwork greatclub, 269 gp)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A boggard savage is a [[rangoric-srd/monsters/boggard/Boggard|boggard]] with 2 levels of [[rangoric-srd/classes/Barbarian|barbarian]], one of the boggard barbarians. Boggard barbarians are terrifying and unpredictable.
 

@@ -15,19 +15,19 @@ tags: [rangoric, rangoric/class-option]
 
 # Infernal Bloodline (Bloodrager)
 
-*A [[rangoric-srd/classes/Bloodrager#^bloodrager-bloodline|bloodrager bloodline]]. The [[rangoric-srd/class-options/bloodlines/Infernal Bloodline|sorcerer’s infernal bloodline]] shares the name but not the powers.*
+_A [[rangoric-srd/classes/Bloodrager#^bloodrager-bloodline|bloodrager bloodline]]. The [[rangoric-srd/class-options/bloodlines/Infernal Bloodline|sorcerer’s infernal bloodline]] shares the name but not the powers._
 
 The Pit lives in your blood. Maybe one of your ancestors was seduced by the powers of Hell or made a deal with a devil. Either way, its corruption seethes within your lineage.
 
 **Bonus Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception or Imitation), [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Iron Will|Iron Will]].
 
-**Bonus Spells**: *[[rangoric-srd/spells/Protection from Good|Protection from good]]* (7th), *[[rangoric-srd/spells/Scorching Ray|scorching ray]]* (10th), *[[rangoric-srd/spells/Suggestion|suggestion]]* (13th), *[[rangoric-srd/spells/Fire Shield|fire shield]]* (16th).
+**Bonus Spells**: _[[rangoric-srd/spells/Protection from Good|Protection from good]]_ (7th), _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_ (10th), _[[rangoric-srd/spells/Suggestion|suggestion]]_ (13th), _[[rangoric-srd/spells/Fire Shield|fire shield]]_ (16th).
 
 ## Bloodline Powers
 
 When you bloodrage, hellfire infuses your blood with terrifying effects.
 
-**Hellfire Strike (Su)**: At 1st level, as a swift action up to three times a day you can infuse your attacks with hellfire. When you do, your melee attacks gain the *[[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]* weapon special ability for 1 round. At 12th level, you can use this ability five times per day, and the effect is treated as *[[rangoric-srd/magic-items/weapon-abilities/Flaming Burst|flaming burst]]*.
+**Hellfire Strike (Su)**: At 1st level, as a swift action up to three times a day you can infuse your attacks with hellfire. When you do, your melee attacks gain the _[[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]_ weapon special ability for 1 round. At 12th level, you can use this ability five times per day, and the effect is treated as _[[rangoric-srd/magic-items/weapon-abilities/Flaming Burst|flaming burst]]_.
 
 **Infernal Resistance (Ex)**: At 4th level, you gain fire resistance 5, as well as a +2 bonus on saving throws against poison. At 8th level, your fire resistance increases to 10, and the bonus on saving throws against poison increases to +4.
 

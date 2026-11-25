@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Bull Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The bull is a fierce charger and is adept at trampling its foes, pounding them to a bloody pulp.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The bull is a fierce charger and is adept at trampling its foes, pounding them to a bloody pulp._
 
 **Minor Form**: You gain a +2 enhancement bonus to your Strength score.
 

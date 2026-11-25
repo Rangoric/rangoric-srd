@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Quickened Focus
 
-You can focus your mind faster than normal, even under duress.  
+You can focus your mind faster than normal, even under duress.
 
 Prerequisite: Wis 13, manifester level 4th (or 4th level in a psionic class that doesn’t manifest powers).
 

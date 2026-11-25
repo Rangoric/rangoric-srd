@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/flails]
 
 # Hook Flail
 
-*Exotic two-handed melee weapon (trip, disarm).* Cost 15 gp; Dmg 1d6 (S), 1d8 (M); Critical 19-20/x2; Weight 20 lb.; Type Bludgeoning or slashing. ^stats
+_Exotic two-handed melee weapon (trip, disarm)._ Cost 15 gp; Dmg 1d6 (S), 1d8 (M); Critical 19-20/x2; Weight 20 lb.; Type Bludgeoning or slashing. ^stats
 
 This weapon is similar to a standard heavy flail, except that its head consists of a large bladed hook. When used to disarm an opponent, it provides a +3 bonus on the [[rangoric-srd/combat/Combat Maneuvers#Disarm|combat maneuver check]]. This flail can also be used to make trip attacks. If the wielder is tripped during a trip attempt with a hook flail, she can drop it to avoid being tripped herself.

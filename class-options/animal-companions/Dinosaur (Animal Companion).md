@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Dinosaur
 
-*An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature ([[rangoric-srd/monsters/dinosaur/Deinonychus|deinonychus]] or [[rangoric-srd/monsters/dinosaur/Velociraptor|velociraptor]]).*
+_An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature ([[rangoric-srd/monsters/dinosaur/Deinonychus|deinonychus]] or [[rangoric-srd/monsters/dinosaur/Velociraptor|velociraptor]])._
 
 - **Size**: Small
 - **Speed**: 60 ft.

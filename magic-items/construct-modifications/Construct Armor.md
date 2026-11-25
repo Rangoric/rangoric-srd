@@ -22,4 +22,4 @@ This modification allows the construct to be worn like armor by its creator. So 
 
 The construct's wearer retains his base attacks and saves. Construct armor counts as breastplate armor for purposes of determining AC, weight, Dexterity modifiers to AC, and chance of arcane spell failure.
 
-CR increase +1; [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Animate Objects|animate objects]]*, the construct modified must be the same size as the creator; Cost 35,000 gp.
+CR increase +1; [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Animate Objects|animate objects]]_, the construct modified must be the same size as the creator; Cost 35,000 gp.

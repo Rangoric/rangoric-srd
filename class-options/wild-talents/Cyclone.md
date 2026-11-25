@@ -18,13 +18,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Cyclone
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|form infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|form infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Air Element|air]]
-  - **Type**: form infusion
-  - **Level**: 4
-  - **Burn**: 3
-  - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Air Blast|air]], [[rangoric-srd/class-options/wild-talents/Blizzard Blast|blizzard]], [[rangoric-srd/class-options/wild-talents/Sandstorm Blast|sandstorm]], [[rangoric-srd/class-options/wild-talents/Thunderstorm Blast|thunderstorm]]
-  - **Saving Throw**: Reflex half
+- **Element**: [[rangoric-srd/class-options/elements/Air Element|air]]
+- **Type**: form infusion
+- **Level**: 4
+- **Burn**: 3
+- **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Air Blast|air]], [[rangoric-srd/class-options/wild-talents/Blizzard Blast|blizzard]], [[rangoric-srd/class-options/wild-talents/Sandstorm Blast|sandstorm]], [[rangoric-srd/class-options/wild-talents/Thunderstorm Blast|thunderstorm]]
+- **Saving Throw**: Reflex half
 
 You create a circular rush of wind. All creatures and objects within a 20-foot-radius burst centered on you take half your blast’s normal amount of damage. The saving throw DC is Dexterity-based.

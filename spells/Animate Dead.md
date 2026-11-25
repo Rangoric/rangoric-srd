@@ -32,16 +32,16 @@ tags: [rangoric, rangoric/spell]
 
 # Animate Dead
 
-*Necromancy \[Evil\]*
+_Necromancy \[Evil\]_
 
-  - **Level**: Apl 3, Clr 3, Death 3, Occ 3, Sha 3, Sor/Wiz 4, Spi 3
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Targets**: One or more corpses touched
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Apl 3, Clr 3, Death 3, Occ 3, Sha 3, Sor/Wiz 4, Spi 3
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Targets**: One or more corpses touched
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 This spell turns the bones or bodies of [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] creatures into undead skeletons or zombies that follow your spoken commands.
 
@@ -51,8 +51,8 @@ Regardless of the type of undead you create with this spell, you can’t create 
 
 The undead you create remain under your control indefinitely. No matter how many times you use this spell, however, you can control only 4 HD worth of undead creatures per caster level. If you exceed this number, all the newly created creatures fall under your control, and any excess undead from previous castings become uncontrolled. (You choose which creatures are released.) If you are a cleric, any undead you might command by virtue of your power to command or rebuke undead do not count toward the limit.
 
-*Skeletons*: A skeleton can be created only from a mostly intact corpse or skeleton. The corpse must have bones. If a skeleton is made from a corpse, the flesh falls off the bones.
+_Skeletons_: A skeleton can be created only from a mostly intact corpse or skeleton. The corpse must have bones. If a skeleton is made from a corpse, the flesh falls off the bones.
 
-*Zombies*: A zombie can be created only from a mostly intact corpse. The corpse must be that of a creature with a true anatomy.
+_Zombies_: A zombie can be created only from a mostly intact corpse. The corpse must be that of a creature with a true anatomy.
 
-*Material Component*: You must place a black onyx gem worth at least 25 gp per Hit Die of the undead into the mouth or eye socket of each corpse you intend to animate. The magic of the spell turns these gems into worthless, burned-out shells.
+_Material Component_: You must place a black onyx gem worth at least 25 gp per Hit Die of the undead into the mouth or eye socket of each corpse you intend to animate. The magic of the spell turns these gems into worthless, burned-out shells.

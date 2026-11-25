@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat]
 
 # Reckless Offense
 
-You can shift your focus from defense to offense.  
+You can shift your focus from defense to offense.
 
 Prerequisite: Base attack bonus +1.
 

@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Scripted Hallucination
 
-*Illusion (Phantasm) \[MindAffecting\]*
+_Illusion (Phantasm) \[MindAffecting\]_
 
-  - **Level**: Brd 5, Mag 5, Med 4, Mes 5, Occ 5, Psy 5, Skd 5, Sor/Wiz 5
-  - **Components**: S
-  - **Casting Time**: 1 standard action
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Target**: One creature/level, no two of which can be more than 30 ft. apart
-  - **Duration**: Caster level minute(s)
-  - **Saving Throw**: Will disbelief
-  - **Spell Resistance**: Yes
+- **Level**: Brd 5, Mag 5, Med 4, Mes 5, Occ 5, Psy 5, Skd 5, Sor/Wiz 5
+- **Components**: S
+- **Casting Time**: 1 standard action
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Target**: One creature/level, no two of which can be more than 30 ft. apart
+- **Duration**: Caster level minute(s)
+- **Saving Throw**: Will disbelief
+- **Spell Resistance**: Yes
 
 This spell functions as [[rangoric-srd/spells/Audiovisual Hallucination|audiovisual hallucination]], except that the phantasm includes visual, auditory, olfactory, tactile, and thermal components, and the phantasm follows a complex script. The phantasm follows that script without your concentration and can react to stimuli the targets perceive.

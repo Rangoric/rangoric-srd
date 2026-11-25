@@ -29,13 +29,13 @@ tags: [rangoric, rangoric/spell]
 
 # Effortless Armor
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Clr 2, Hun 2, Inq 2, Mag 2, Occ 2, Pal 2, Psy 2, Rgr 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 minute/level
+- **Level**: Clr 2, Hun 2, Inq 2, Mag 2, Occ 2, Pal 2, Psy 2, Rgr 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 minute/level
 
 Armor you wear no longer reduces your speed. You also reduce the armor's armor check penalty by 1 + 1 per five caster levels (maximum 5).

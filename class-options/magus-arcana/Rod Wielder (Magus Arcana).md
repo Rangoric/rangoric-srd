@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Rod Wielder
 
-*A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Su).*
+_A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Su)._
 
 The magus adds his Intelligence bonus (minimum 0) on caster level checks made to overcome spell resistance when using a spell contained within a rod or when making a spellstrike attack channeled through a rod.

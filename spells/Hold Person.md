@@ -41,19 +41,19 @@ tags: [rangoric, rangoric/spell]
 
 # Hold Person
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Apl 2, Blr 3, Brd 2, Clr 2, Enchantment 3, Inq 2, Med 2, Mes 2, Msl 2, Occ 3, Psy 2, Sha 2, Skd 2, Sor/Wiz 3, Wit 2
-  - **Components**: V, S, F/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Target**: One humanoid creature
-  - **Duration**: 1 round/level (D); see text
-  - **Saving Throw**: Will negates; see text
-  - **Spell Resistance**: Yes
+- **Level**: Apl 2, Blr 3, Brd 2, Clr 2, Enchantment 3, Inq 2, Med 2, Mes 2, Msl 2, Occ 3, Psy 2, Sha 2, Skd 2, Sor/Wiz 3, Wit 2
+- **Components**: V, S, F/DF
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Target**: One humanoid creature
+- **Duration**: 1 round/level (D); see text
+- **Saving Throw**: Will negates; see text
+- **Spell Resistance**: Yes
 
 The subject becomes [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] and freezes in place. It is aware and breathes normally but cannot take any actions, even speech. Each round on its turn, the subject may attempt a new saving throw to end the effect. (This is a full-round action that does not provoke attacks of opportunity.)
 
 A winged creature who is paralyzed cannot flap its wings and falls. A swimmer can’t swim and may drown.
 
-*Arcane Focus*: A small, straight piece of iron.
+_Arcane Focus_: A small, straight piece of iron.

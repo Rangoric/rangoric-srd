@@ -22,9 +22,9 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Siege Salts
 
-*Alchana; Special*
+_Alchana; Special_
 
-Siege salts were created specifically for castle siege combat, or more particularly for siege defense. These work best when they can be implemented strategically (poured down murder holes or sprinkled out an arrow loop on someone scaling the walls), though they also have their uses in other ways. Siege salts can be flung by hand by opening the standard-sized pouch and swinging the arm wide, scattering the crystals in a five-foot-radius semicircle centered on the person, similar to the area of effect of a *burning hands* spell. Once the siege salts are scattered or placed, all it takes is water (as little as rain or a wineskin of water sprayed across the salted area) to activate their alchemical powers. See below under individual salt types for effects.
+Siege salts were created specifically for castle siege combat, or more particularly for siege defense. These work best when they can be implemented strategically (poured down murder holes or sprinkled out an arrow loop on someone scaling the walls), though they also have their uses in other ways. Siege salts can be flung by hand by opening the standard-sized pouch and swinging the arm wide, scattering the crystals in a five-foot-radius semicircle centered on the person, similar to the area of effect of a _burning hands_ spell. Once the siege salts are scattered or placed, all it takes is water (as little as rain or a wineskin of water sprayed across the salted area) to activate their alchemical powers. See below under individual salt types for effects.
 
 **Blindness:** This siege salt sizzles on the ground after being catalyzed by water and unleashes an invisible gas for 1d4 rounds. Anyone within the area of effect must make successful Fort saves vs. DC 16 (each round within the cloud) or go blind for 1d20 rounds for each failed save.
 
@@ -38,13 +38,13 @@ Siege salts were created specifically for castle siege combat, or more particula
 
 **Table: Siege Salts**
 
-| Siege Salts Type | CL | DC | Market Price | Cost to Create |
-|---|---|---|---|---|
-| Blindness | 6 | 22 | 1,120 gp/1 pound | 11,200 gp/20 pounds |
-| Burning | 7 | 24 | 1,240 gp/1 round | 12,400 gp/20 pounds |
-| Drying | 4 | 18 | 880 gp/1 pound | 8,800 gp/20 pounds |
-| Fog | 5 | 20 | 1,000 gp/1 pound | 10,000 gp/20 pounds |
-| Slumber | 5 | 20 | 1,000 gp/1 pound | 10,000 gp/20 pounds |
+| Siege Salts Type | CL  | DC  | Market Price     | Cost to Create      |
+| ---------------- | --- | --- | ---------------- | ------------------- |
+| Blindness        | 6   | 22  | 1,120 gp/1 pound | 11,200 gp/20 pounds |
+| Burning          | 7   | 24  | 1,240 gp/1 round | 12,400 gp/20 pounds |
+| Drying           | 4   | 18  | 880 gp/1 pound   | 8,800 gp/20 pounds  |
+| Fog              | 5   | 20  | 1,000 gp/1 pound | 10,000 gp/20 pounds |
+| Slumber          | 5   | 20  | 1,000 gp/1 pound | 10,000 gp/20 pounds |
 
 **Construction**: No aura; CL See above; [[rangoric-srd/skills/Craft|Craft]] (alchemy), [[rangoric-srd/feats/Create Alchana|Create Alchana]]; DC: See above; Price: See above
 

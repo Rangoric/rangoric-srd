@@ -29,15 +29,15 @@ tags: [rangoric, rangoric/spell]
 
 # Energy Siege Shot, Greater
 
-*Transmutation \[Variable\]*
+_Transmutation \[Variable\]_
 
-  - **Level**: Occ 6, Sor/Wiz 6, Sum 6
-  - **Components**: V, S, M (a ball of pitch)
-  - **Casting Time**: 10 minutes
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One [[rangoric-srd/rules/Siege Engines|siege engine]] of any size
-  - **Duration**: 10 minute/level
-  - **Saving Throw**: Fortitude negates (harmless, object)
-  - **Spell Resistance**: Yes (harmless/object)
+- **Level**: Occ 6, Sor/Wiz 6, Sum 6
+- **Components**: V, S, M (a ball of pitch)
+- **Casting Time**: 10 minutes
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One [[rangoric-srd/rules/Siege Engines|siege engine]] of any size
+- **Duration**: 10 minute/level
+- **Saving Throw**: Fortitude negates (harmless, object)
+- **Spell Resistance**: Yes (harmless/object)
 
 This spell functions like energy shot, except it can target siege engines of any size, not just Large siege engines.

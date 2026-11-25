@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This simple tin headpiece is a lesser copy of the [[rangoric-srd/magic-items/artifacts/Stannum Crown|stannum crown]]. It feeds on its wearer's paranoia, giving her a +4 insight bonus on saving throws against mind-affecting effects and against divinations that gather information about her. Wearing it saps her mind, imposing a –2 penalty to Intelligence, Wisdom and Charisma, and her paranoia makes her always attempt saving throws, even against harmless effects. Taking it off removes both the benefits and the drawbacks until it's put on again.
 
-Strong abjuration; CL 15th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Mind Blank|mind blank]]*; Price 15,000 gp; Cost 7,500 gp; Weight 2 lb.
+Strong abjuration; CL 15th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Mind Blank|mind blank]]_; Price 15,000 gp; Cost 7,500 gp; Weight 2 lb.

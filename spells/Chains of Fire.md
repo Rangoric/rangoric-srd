@@ -23,10 +23,10 @@ tags: [rangoric, rangoric/spell]
 
 # Chains of Fire
 
-*Evocation \[Fire\]*
+_Evocation \[Fire\]_
 
-  - **Level**: Mag 6, Sor/Wiz 6
-  - **Components**: V, S, F (a drop of oil and a small piece of flint)
-  - **Range**: Medium (100 ft. + 10 ft./level)
+- **Level**: Mag 6, Sor/Wiz 6
+- **Components**: V, S, F (a drop of oil and a small piece of flint)
+- **Range**: Medium (100 ft. + 10 ft./level)
 
-This spell functions like *[[rangoric-srd/spells/Chain Lightning|chain lightning]]*, except as noted above, and the spell deals fire damage instead of electricity damage.
+This spell functions like _[[rangoric-srd/spells/Chain Lightning|chain lightning]]_, except as noted above, and the spell deals fire damage instead of electricity damage.

@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat]
 
 # Sharp-Shooting
 
-Prerequisites: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], base attack bonus +3.  
+Prerequisites: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], base attack bonus +3.
 
 Benefit: Your targets only receive a +2 bonus to Armor class due to cover.  This feat has no effect against foes with no cover or total cover.
 

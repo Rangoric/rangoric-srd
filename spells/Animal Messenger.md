@@ -35,16 +35,16 @@ tags: [rangoric, rangoric/spell]
 
 # Animal Messenger
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Brd 2, Drd 2, Hun 1, Mes 2, Psy 2, Rgr 1, Sha 2, Skd 2, Tot 2
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One Tiny animal
-  - **Duration**: One day/level
-  - **Saving Throw**: None; see text
-  - **Spell Resistance**: Yes
+- **Level**: Brd 2, Drd 2, Hun 1, Mes 2, Psy 2, Rgr 1, Sha 2, Skd 2, Tot 2
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One Tiny animal
+- **Duration**: One day/level
+- **Saving Throw**: None; see text
+- **Spell Resistance**: Yes
 
 You compel a Tiny animal to go to a spot you designate. The most common use for this spell is to get an animal to carry a message to your allies. The animal cannot be one tamed or trained by someone else, including such creatures as familiars and animal companions.
 
@@ -52,4 +52,4 @@ Using some type of food desirable to the animal as a lure, you call the animal t
 
 During this period of waiting, the messenger allows others to approach it and remove any scroll or token it carries. The intended recipient gains no special ability to communicate with the animal or read any attached message (if it’s written in a language he or she doesn’t know, for example).
 
-*Material Component*: A morsel of food the animal likes.
+_Material Component_: A morsel of food the animal likes.

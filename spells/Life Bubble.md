@@ -32,19 +32,19 @@ tags: [rangoric, rangoric/spell]
 
 # Life Bubble
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 5, Drd 4, Hun 3, Occ 4, Psy 5, Rgr 3, Sor/Wiz 5
-  - **Components**: V, S, M/DF (a bit of eggshell)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creatures touched, up to one/level
-  - **Duration**: 2 hours/level; see text
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Clr 5, Drd 4, Hun 3, Occ 4, Psy 5, Rgr 3, Sor/Wiz 5
+- **Components**: V, S, M/DF (a bit of eggshell)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creatures touched, up to one/level
+- **Duration**: 2 hours/level; see text
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-You surround the touched creatures with a constant and moveable 1-inch shell of tolerable living conditions. This shell enables the subjects to breathe freely, even underwater or in a vacuum, as well as making them immune to harmful gases and vapors, including inhaled diseases and poisons and spells like *[[rangoric-srd/spells/Cloudkill|cloudkill]]* and *[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]*. In addition, the shell protects subjects from extremes of temperature (per *[[rangoric-srd/spells/Endure Elements|endure elements]]*) as well as extremes of pressure.
+You surround the touched creatures with a constant and moveable 1-inch shell of tolerable living conditions. This shell enables the subjects to breathe freely, even underwater or in a vacuum, as well as making them immune to harmful gases and vapors, including inhaled diseases and poisons and spells like _[[rangoric-srd/spells/Cloudkill|cloudkill]]_ and _[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_. In addition, the shell protects subjects from extremes of temperature (per _[[rangoric-srd/spells/Endure Elements|endure elements]]_) as well as extremes of pressure.
 
-*Life bubble* does not provide protection from negative or positive energy (such as found on the Negative and Positive Energy planes), the ability to see in conditions of poor visibility (such as in smoke or fog), nor the ability to move or act normally in conditions that impede movement (such as underwater).
+_Life bubble_ does not provide protection from negative or positive energy (such as found on the Negative and Positive Energy planes), the ability to see in conditions of poor visibility (such as in smoke or fog), nor the ability to move or act normally in conditions that impede movement (such as underwater).
 
 When you cast this spell it has a total duration of 2 hours per caster level. You can divide this duration up in any manner you wish, not necessarily equally, between up to 1 creature per caster level.

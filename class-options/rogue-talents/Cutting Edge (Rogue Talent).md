@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Cutting Edge
 
-*An [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talent]] (Ex).*
+_An [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talent]] (Ex)._
 
 A rogue with this ability immediately selects two additional skills with her rogue's edge ability. She can select this advanced talent multiple times.

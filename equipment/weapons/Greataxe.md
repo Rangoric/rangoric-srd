@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes]
 
 # Greataxe
 
-*Martial two-handed melee weapon.* Cost 20 gp; Dmg 1d10 (S), 1d12 (M); Critical x3; Weight 12 lb.; Type Slashing. ^stats
+_Martial two-handed melee weapon._ Cost 20 gp; Dmg 1d10 (S), 1d12 (M); Critical x3; Weight 12 lb.; Type Slashing. ^stats

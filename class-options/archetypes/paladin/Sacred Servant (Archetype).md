@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Sacred Servant
 
-*A [[rangoric-srd/classes/Paladin#^paladin-archetypes|paladin]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Paladin#^paladin-archetypes|paladin]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Paladins as a general rule, venerate the gods of good and purity, but some take this a step further, dedicating themselves to a specific deity and furthering the cause of the faith. These sacred servants are rewarded for their devotion with additional spells and powerful allies. A sacred servant must select one deity to worship. This deity's alignment must be lawful good, lawful neutral, or neutral good. A sacred servant has the following class features.
 
@@ -31,4 +31,4 @@ Paladins as a general rule, venerate the gods of good and purity, but some take 
 
 If a holy symbol with a celestial spirit is destroyed, the sacred servant loses the use of this ability for 30 days, or until she gains a level, whichever comes first. During this 30-day period, the sacred servant takes a –1 penalty on attack and weapon damage rolls.
 
-**Call Celestial Ally (Sp)**: At 8th level, a sacred servant can call upon her deity for aid, in the form of a powerful servant. This allows the sacred servant to cast *[[rangoric-srd/spells/Planar Ally, Lesser|lesser planar ally]]* once per week as a spell-like ability without having to pay the material component cost or the servant (for reasonable tasks). At 12th level, this improves to *[[rangoric-srd/spells/Planar Ally|planar ally]]* and at 16th level, this improves to *[[rangoric-srd/spells/Planar Ally, Greater|greater planar ally]]*. The sacred servant's caster level for this effect is equal to her paladin level. This ability replaces [[rangoric-srd/classes/Paladin#^paladin-aura-of-resolve|aura of resolve]].
+**Call Celestial Ally (Sp)**: At 8th level, a sacred servant can call upon her deity for aid, in the form of a powerful servant. This allows the sacred servant to cast _[[rangoric-srd/spells/Planar Ally, Lesser|lesser planar ally]]_ once per week as a spell-like ability without having to pay the material component cost or the servant (for reasonable tasks). At 12th level, this improves to _[[rangoric-srd/spells/Planar Ally|planar ally]]_ and at 16th level, this improves to _[[rangoric-srd/spells/Planar Ally, Greater|greater planar ally]]_. The sacred servant's caster level for this effect is equal to her paladin level. This ability replaces [[rangoric-srd/classes/Paladin#^paladin-aura-of-resolve|aura of resolve]].

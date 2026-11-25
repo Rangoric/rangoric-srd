@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Find Quarry
 
-*Divination*
+_Divination_
 
-  - **Level**: Hun 4, Inq 4, Occ 5, Rgr 4
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Hun 4, Inq 4, Occ 5, Rgr 4
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You sense whether a well-known creature you can clearly visualize is within a 20-mile radius of your current location, as well as the distance and direction to the creature in relation to you. You also discern whether the creature is moving, and its direction, speed, and mode of movement. The radius you can sense increases by 5 miles for every two caster levels you have above 10th (to a maximum of a 45-mile radius at 20th level).

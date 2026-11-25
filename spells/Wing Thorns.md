@@ -31,14 +31,14 @@ tags: [rangoric, rangoric/spell]
 
 # Wing Thorns
 
-*Transmutation \[Poison\]*
+_Transmutation \[Poison\]_
 
-  - **Level**: Alc 3, Apl 3, Blr 3, Drd 3, Hun 3, Mag 4, Wit 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: Caster level round(s)
-  - **Spell Resistance**: No
+- **Level**: Alc 3, Apl 3, Blr 3, Drd 3, Hun 3, Mag 4, Wit 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: Caster level round(s)
+- **Spell Resistance**: No
 
 Your wings sprout poisonous thorns each the size of a dagger. You can use these thorns like armor spikes. In addition, you can make two wing attacks as primary natural weapons. If you are Small, the wings deal 1d3 points of bludgeoning and piercing damage plus your Strength modifier (unless you also attack with a weapon, in which case they are treated as a secondary natural weapon). A creature damaged by your wing thorns experiences intense itching, gaining the sickened condition while the spell lasts unless it succeeds at a Fortitude saving throw.

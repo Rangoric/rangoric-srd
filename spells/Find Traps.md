@@ -26,14 +26,14 @@ tags: [rangoric, rangoric/spell]
 
 # Find Traps
 
-*Divination*
+_Divination_
 
-  - **Level**: Clr 2, Inq 2, Med 2, Occ 2, Psy 2, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 min./level
+- **Level**: Clr 2, Inq 2, Med 2, Occ 2, Psy 2, Wit 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 min./level
 
 You gain intuitive insight into the workings of traps. You can use the [[rangoric-srd/skills/Investigation|Investigation]] skill to detect traps just as a rogue can. In addition, you gain an insight bonus equal to one-half your caster level (maximum +10) on Investigation checks made to find traps while the spell is in effect.
 

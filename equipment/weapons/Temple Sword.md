@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades, weapon-group/monk]
 
 # Temple Sword
 
-*Exotic one-handed melee weapon (monk, trip).* Cost 30 gp; Dmg 1d6 (S), 1d8 (M); Critical 19–20/x2; Weight 3 lb.; Type Slashing. ^stats
+_Exotic one-handed melee weapon (monk, trip)._ Cost 30 gp; Dmg 1d6 (S), 1d8 (M); Critical 19–20/x2; Weight 3 lb.; Type Slashing. ^stats
 
 Heavy blades typically used by guardians of religious sites, temple swords have distinctive crescent-shaped blades, appearing as an amalgam of a sickle and sword. Many have holes drilled into the blade or places on the pommel where charms, bells, or other holy trinkets might be attached. Monks are proficient with the temple sword.
 

@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/weapon, weapon-group/hammers]
 
 # Light Mace
 
-*Simple light melee weapon.* Cost 5 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 4 lb.; Type Bludgeoning. ^stats
+_Simple light melee weapon._ Cost 5 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 4 lb.; Type Bludgeoning. ^stats

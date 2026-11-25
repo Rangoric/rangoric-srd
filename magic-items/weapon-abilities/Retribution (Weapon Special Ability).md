@@ -22,4 +22,4 @@ This power can only be enchanted into a melee weapon. Every time the wielder is 
 
 A combat ends when either the wielder or his opponent is killed or rendered unconscious, or when one of them surrenders or successfully flees. As a guideline, if the GM stops measuring time in rounds, the combat is over. If the wielder later engages in combat with the same opponent, there is no special bonus from this power at the beginning of the combat.
 
-Strong transmutation; CL 18th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Limited Wish|limited wish]]*; Price +1 bonus.
+Strong transmutation; CL 18th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Limited Wish|limited wish]]_; Price +1 bonus.

@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Renown
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-social-talent|social talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-social-talent|social talent]] (Ex)._
 
 The vigilante becomes known for deeds and abilities regardless of his current identity. This renown grants him favorable treatment in civilized company and lends him an air of menace while facing down his enemies. While he is in his [[rangoric-srd/classes/Vigilante#^vigilante-dual-identity|social identity]], a vigilante can spend 1 week gaining renown among the locals of any community of no more than about 200 individuals (a village). This could be the entire community or a smaller neighborhood in a larger settlement. He must spend at least 4 hours each day socializing and making contacts. After spending 1 week doing this, whenever he is in his social identity, all NPCs in the community have a starting attitude toward him that is one category better, as long as each person’s initial attitude would have at least been indifferent (see [[rangoric-srd/skills/Persuasion#Influencing Attitudes|Persuasion]] for attitudes). While he gains renown in an area using his social identity, he also spreads rumors and tales about his vigilante identity. Once he has gained renown in a community, he gains a +4 circumstance bonus on Intimidation checks whenever he is in his vigilante identity. This bonus applies only while he is near the community in which he has gained renown; he must be within a number of miles equal to his vigilante level.
 

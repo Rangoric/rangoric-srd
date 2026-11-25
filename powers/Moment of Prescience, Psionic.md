@@ -27,6 +27,6 @@ Clairsentience
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 round/level or until discharged  
-**Power Points:** 13  
+**Power Points:** 13
 
 As the [[rangoric-srd/spells/Spells P to R|moment of prescience]] spell, except as noted here.

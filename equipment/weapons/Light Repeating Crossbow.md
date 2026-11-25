@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/crossbows]
 
 # Light Repeating Crossbow
 
-*Exotic ranged weapon.* Cost 250 gp; Dmg 1d6 (S), 1d8 (M); Critical 19–20/x2; Range Increment 80 ft.; Weight 6 lb.; Type Piercing. ^stats
+_Exotic ranged weapon._ Cost 250 gp; Dmg 1d6 (S), 1d8 (M); Critical 19–20/x2; Range Increment 80 ft.; Weight 6 lb.; Type Piercing. ^stats
 
 The repeating crossbow (whether heavy or light) holds 5 crossbow bolts. As long as it holds bolts, you can reload it by pulling the reloading lever (a free action). Loading a new case of 5 bolts is a full-round action that provokes attacks of opportunity.
 

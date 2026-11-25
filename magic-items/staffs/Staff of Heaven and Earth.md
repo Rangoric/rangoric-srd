@@ -23,10 +23,10 @@ tags: [rangoric, rangoric/magic-item]
 
 Topped by a swirling cloudy stone and wrapped with black iron filigree, this staff allows use of the following spells:
 
-- *[[rangoric-srd/spells/Gust of Wind|Gust of wind]]* (1 charge)
-- *[[rangoric-srd/spells/Stone Shape|Stone shape]]* (1 charge)
-- *[[rangoric-srd/spells/Air Walk|Air walk]]* (2 charges)
-- *[[rangoric-srd/spells/Control Winds|Control winds]]* (2 charges)
-- *[[rangoric-srd/spells/Spike Stones|Spike stones]]* (2 charges)
+- _[[rangoric-srd/spells/Gust of Wind|Gust of wind]]_ (1 charge)
+- _[[rangoric-srd/spells/Stone Shape|Stone shape]]_ (1 charge)
+- _[[rangoric-srd/spells/Air Walk|Air walk]]_ (2 charges)
+- _[[rangoric-srd/spells/Control Winds|Control winds]]_ (2 charges)
+- _[[rangoric-srd/spells/Spike Stones|Spike stones]]_ (2 charges)
 
-Moderate transmutation; CL 9th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Air Walk|air walk]]*, *[[rangoric-srd/spells/Control Winds|control winds]]*, *[[rangoric-srd/spells/Gust of Wind|gust of wind]]*, *[[rangoric-srd/spells/Spike Stones|spike stones]]*, *[[rangoric-srd/spells/Stone Shape|stone shape]]*; Price 54,000 gp; Cost 27,000 gp; Weight 5 lbs.
+Moderate transmutation; CL 9th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Air Walk|air walk]]_, _[[rangoric-srd/spells/Control Winds|control winds]]_, _[[rangoric-srd/spells/Gust of Wind|gust of wind]]_, _[[rangoric-srd/spells/Spike Stones|spike stones]]_, _[[rangoric-srd/spells/Stone Shape|stone shape]]_; Price 54,000 gp; Cost 27,000 gp; Weight 5 lbs.

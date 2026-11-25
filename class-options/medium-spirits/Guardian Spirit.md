@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Guardian Spirit
 
-*A legend of [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirits]] for the [[rangoric-srd/classes/Medium (Class)|medium]].* A guardian spirit is an exemplar of protection and defense.
+_A legend of [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirits]] for the [[rangoric-srd/classes/Medium (Class)|medium]]._ A guardian spirit is an exemplar of protection and defense.
 
 **Spirit Bonus**: When you channel a guardian, your spirit bonus applies to AC and on Constitution checks, Fortitude saves, and Reflex saves. ^guardian-spirit-bonus
 
@@ -34,7 +34,7 @@ tags: [rangoric, rangoric/class-option]
 
 **Guardian’s Shield (Lesser, Su)**: You gain proficiency in heavy armors and shields (including tower shields). ^guardians-shield
 
-**Absorb Blow (Intermediate, Su)**: You gain [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|DR]]/— and [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy|resistance]] to acid, cold, electricity, fire, and sonic equal to 1/2 your medium level. Add *[[rangoric-srd/spells/Paladin’s Sacrifice|paladin’s sacrifice]]* to your medium spells known as a 2nd-level spell. ^absorb-blow
+**Absorb Blow (Intermediate, Su)**: You gain [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|DR]]/— and [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy|resistance]] to acid, cold, electricity, fire, and sonic equal to 1/2 your medium level. Add _[[rangoric-srd/spells/Paladin’s Sacrifice|paladin’s sacrifice]]_ to your medium spells known as a 2nd-level spell. ^absorb-blow
 
 **Sudden Block (Greater, Su)**: After an enemy’s attack would hit you or an adjacent creature, you can use spirit surge to increase the victim’s AC, possibly causing the attack to fail, by rolling your spirit surge die and adding it to the chosen character’s AC. You must not be [[rangoric-srd/rules/Special Abilities and Conditions#^flat-footed|flat-footed]], and you must be aware of the attack. If use of this ability causes the enemy’s attack to miss, you can make an attack at your highest base attack bonus against that enemy as an immediate action. ^sudden-block
 

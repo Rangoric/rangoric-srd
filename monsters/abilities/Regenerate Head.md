@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Regenerate Head
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “regenerate head”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “regenerate head”, on the Special Qualities line.
 
 When a hydra’s head is destroyed, two heads regrow in 1d4 rounds. A hydra cannot have more than twice its original number of heads at any one time. To prevent new heads from growing, at least 5 points of acid or fire damage must be dealt to the stump (a touch attack to hit) before they appear. Acid or fire damage from area attacks can affect stumps and the body simultaneously. A hydra doesn’t die from losing its heads until all are cut off and the stumps seared by acid or fire.
 

@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Secret
 
-*A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Ex).*
+_A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Ex)._
 
 The shaman receives one metamagic feat as a bonus feat. The shaman must meet the prerequisites for the feat.

@@ -30,15 +30,15 @@ tags: [rangoric, rangoric/spell]
 
 # Old Salt’s Curse
 
-*Necromancy \[Curse\]*
+_Necromancy \[Curse\]_
 
-  - **Level**: Drd 5, Hun 5, Mes 4, Wit 5
-  - **Components**: V, S, M (a flask of seawater)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: One creature
-  - **Duration**: Permanent
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Drd 5, Hun 5, Mes 4, Wit 5
+- **Components**: V, S, M (a flask of seawater)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: One creature
+- **Duration**: Permanent
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
-You inflict a curse of the roiling sea upon the target, making it permanently sickened. Anytime the target is on or in the water more than a mile from shore, it also becomes staggered with seasickness. This curse cannot be dispelled, though *[[rangoric-srd/spells/Remove Curse|remove curse]]* or *[[rangoric-srd/spells/Break Enchantment|break enchantment]]* can negate it.
+You inflict a curse of the roiling sea upon the target, making it permanently sickened. Anytime the target is on or in the water more than a mile from shore, it also becomes staggered with seasickness. This curse cannot be dispelled, though _[[rangoric-srd/spells/Remove Curse|remove curse]]_ or _[[rangoric-srd/spells/Break Enchantment|break enchantment]]_ can negate it.

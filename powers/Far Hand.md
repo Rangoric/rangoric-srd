@@ -31,7 +31,7 @@ Psychokinesis
 **Duration:** Concentration, up to 1 min.  
 **Saving Throw:** None  
 **Power Resistance:** No  
-**Power Points:** 1  
+**Power Points:** 1
 
 You can mentally lift and move an object at will from a distance. As a move action, you can propel the object as far as 15 feet in any direction, though the power ends if the distance between you and the object exceeds the power’s range.
 

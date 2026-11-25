@@ -32,7 +32,7 @@ Effect: A normal bolt, arrow, or sling bullet
 Duration: 1 min./level  
 Saving Throw: None  
 Power Resistance: No  
-Power Points: 1  
+Power Points: 1
 
 You create 2d4 ectoplasmic crossbow bolts, arrows, or sling bullets, appropriate to your size, which dissipate into their constituent ectoplasmic particles when the duration ends or after being fired. Ammunition you create has a +1 enhancement bonus on attack rolls and damage rolls.
 

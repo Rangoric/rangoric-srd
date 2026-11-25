@@ -33,7 +33,7 @@ Target: One living psionic creature
 Duration: Instantaneous  
 Saving Throw: Fortitude negates  
 Power Resistance: Yes  
-Power Points: 17, XP  
+Power Points: 17, XP
 
 By using this power, you delete 1d4 powers permanently from the subject’s mind. You specify the level of each power, and the DM randomly determines which of the subject’s powers is actually deleted. [[rangoric-srd/powers/Psychic Chirurgery|Psychic chirurgery]] or [[rangoric-srd/powers/Reality Revision|reality revision]] can be used to restore the lost powers, but it must be performed within 1 week of losing the powers.
 

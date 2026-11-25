@@ -18,12 +18,12 @@ tags: [rangoric, rangoric/class-option]
 
 # Green Tongue, Greater
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Wood Element|wood]]
-  - **Type**: utility (Su)
-  - **Level**: 7
-  - **Burn**: 0
-  - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Green Tongue|green tongue]]
+- **Element**: [[rangoric-srd/class-options/elements/Wood Element|wood]]
+- **Type**: utility (Su)
+- **Level**: 7
+- **Burn**: 0
+- **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Green Tongue|green tongue]]
 
-You can spend 10 minutes in any outdoor location that would be valid for *[[rangoric-srd/spells/Commune with Nature|commune with nature]]* in order to contact and chat with fey and leshy spirits, allowing you to gain three pieces of information as per *commune with nature*.
+You can spend 10 minutes in any outdoor location that would be valid for _[[rangoric-srd/spells/Commune with Nature|commune with nature]]_ in order to contact and chat with fey and leshy spirits, allowing you to gain three pieces of information as per _commune with nature_.

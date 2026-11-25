@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/pole-arms]
 
 # Glaive-Guisarme
 
-*Martial two-handed melee weapon (brace, reach).* Cost 12 gp; Dmg 1d8 (S), 1d10 (M); Critical x3; Weight 10 lb.; Type Slashing. ^stats
+_Martial two-handed melee weapon (brace, reach)._ Cost 12 gp; Dmg 1d8 (S), 1d10 (M); Critical x3; Weight 10 lb.; Type Slashing. ^stats
 
 This polearm combines the blade of a [[rangoric-srd/equipment/weapons/Glaive|glaive]] with a wicked hook. A mounted opponent hit by a glaive-guisarme takes a –2 penalty on his [[rangoric-srd/skills/Animal Handling|Animal Handling]] check to stay mounted.
 

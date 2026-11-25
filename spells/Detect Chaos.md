@@ -17,8 +17,8 @@ tags: [rangoric, rangoric/spell]
 
 # Detect Chaos
 
-*Divination*
+_Divination_
 
-  - **Level**: Clr 1, Inq 1, Sha 1, Spi 1
+- **Level**: Clr 1, Inq 1, Sha 1, Spi 1
 
 This spell functions like [[rangoric-srd/spells/Detect Evil|detect evil]], except that it detects the auras of chaotic creatures, clerics of chaotic deities, chaotic spells, and chaotic magic items, and you are vulnerable to an overwhelming chaotic aura if you are lawful.

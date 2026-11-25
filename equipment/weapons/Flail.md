@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/flails]
 
 # Flail
 
-*Martial one-handed melee weapon (disarm, trip).* Cost 8 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Weight 5 lb.; Type Bludgeoning. ^stats
+_Martial one-handed melee weapon (disarm, trip)._ Cost 8 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Weight 5 lb.; Type Bludgeoning. ^stats
 
 With a flail, you get a +2 bonus on [[rangoric-srd/combat/Combat Maneuvers#Disarm|combat maneuver checks]] made to disarm an enemy.
 

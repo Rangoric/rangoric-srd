@@ -25,7 +25,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades, weapon-group/monk, 
 
 # Seven-Branched Sword
 
-*Exotic two-handed melee weapon (disarm, monk).* Cost 50 gp; Dmg 1d8 (S), 1d10 (M); Critical x3; Weight 7 lb.; Type Slashing. ^stats
+_Exotic two-handed melee weapon (disarm, monk)._ Cost 50 gp; Dmg 1d8 (S), 1d10 (M); Critical x3; Weight 7 lb.; Type Slashing. ^stats
 
 This unusual sword has a straight 2-foot-long blade with six shorter L-shaped blades protruding, three on each side in a staggered pattern. The shorter blades can be used to snag opponents' clothing or armor, or can target weapons in order to [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] them. To snag armor or clothing, the attacker makes a [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] attempt. If successful, the victim doesn't fall prone, but instead is snagged and stumbles forward, leaving the victim [[rangoric-srd/rules/Special Abilities and Conditions#^flat-footed|flat-footed]] for the remainder of the round.
 

@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Wake of Light
 
-*Evocation \[Good\]*
+_Evocation \[Good\]_
 
-  - **Level**: Pal 2
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: 120 ft.
-  - **Effect**: A 10-ft.-wide path in a straight line, up to 120 ft. long
-  - **Duration**: 1 round/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Pal 2
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: 120 ft.
+- **Effect**: A 10-ft.-wide path in a straight line, up to 120 ft. long
+- **Duration**: 1 round/level
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 You and your mount lay down a trail of glowing, heavenly mist behind you as you move that makes passage easier for good creatures but more difficult for evil creatures. This glowing trail of mist appears behind your mount in a straight line starting where you cast the spell and ending where your mount ends its movement. The mist takes the form of a path 10 feet wide and up to 120 feet long and always floats just above the ground, up to a height of 1 foot. Thereafter, the mist persists for 1 round per level.
 

@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Fetish
 
-*A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Ex).*
+_A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Ex)._
 
 The shaman receives [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]] as a bonus feat and gains a +4 insight bonus on [[rangoric-srd/skills/Mysticism|Mysticism]] checks to identify magic items permanently.

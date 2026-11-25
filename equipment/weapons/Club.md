@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/weapon, weapon-group/hammers, weapon-group/thrown]
 
 # Club
 
-*Simple one-handed melee weapon.* Cost —; Dmg 1d4 (S), 1d6 (M); Critical x2; Range Increment 10 ft.; Weight 3 lb.; Type Bludgeoning. ^stats
+_Simple one-handed melee weapon._ Cost —; Dmg 1d4 (S), 1d6 (M); Critical x2; Range Increment 10 ft.; Weight 3 lb.; Type Bludgeoning. ^stats

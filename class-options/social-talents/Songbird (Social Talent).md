@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Songbird
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-social-talent|social talent]] (Su).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-social-talent|social talent]] (Su)._
 
-The vigilante gains the use of *[[rangoric-srd/spells/Animal Messenger|animal messenger]]* once per day as a spell-like ability, with a caster level equal to his character level. He also gains [[rangoric-srd/skills/Animal Handling|Animal Handling]] as a class skill.
+The vigilante gains the use of _[[rangoric-srd/spells/Animal Messenger|animal messenger]]_ once per day as a spell-like ability, with a caster level equal to his character level. He also gains [[rangoric-srd/skills/Animal Handling|Animal Handling]] as a class skill.

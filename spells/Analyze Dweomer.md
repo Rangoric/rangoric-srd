@@ -31,16 +31,16 @@ tags: [rangoric, rangoric/spell]
 
 # Analyze Dweomer
 
-*Divination*
+_Divination_
 
-  - **Level**: Alc 6, Brd 6, Occ 6, Psy 6, Skd 6, Sor/Wiz 6, Spi 6, Wit 6
-  - **Components**: V, S, F
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Targets**: One object or creature per caster level
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: None or Will negates; see text
-  - **Spell Resistance**: No
+- **Level**: Alc 6, Brd 6, Occ 6, Psy 6, Skd 6, Sor/Wiz 6, Spi 6, Wit 6
+- **Components**: V, S, F
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Targets**: One object or creature per caster level
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: None or Will negates; see text
+- **Spell Resistance**: No
 
 You discern all spells and magical properties present in a number of creatures or objects. Each round, you may examine a single creature or object that you can see as a free action. In the case of a magic item, you learn its functions, how to activate its functions (if appropriate), and how many charges are left (if it uses charges). In the case of an object or creature with active spells cast upon it, you learn each spell, its effect, and its caster level.
 
@@ -48,4 +48,4 @@ An attended object may attempt a Will save to resist this effect if its holder s
 
 Analyze dweomer does not function when used on an artifact.
 
-*Focus*: A tiny lens of ruby or sapphire set in a small golden loop. The gemstone must be worth at least 1,500 gp.
+_Focus_: A tiny lens of ruby or sapphire set in a small golden loop. The gemstone must be worth at least 1,500 gp.

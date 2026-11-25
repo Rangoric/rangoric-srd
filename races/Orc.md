@@ -52,17 +52,17 @@ Paragon Class: [[rangoric-srd/classes/Orc Paragon|Orc Paragon]]
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 12 years | +1d4 | +1d6 | +2d6 |
+| --------- | --------- | ----------- | ------- |
+| 12 years  | +1d4      | +1d6        | +2d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 20 years | 30 years | 40 years | +1d20 years |
+| Middle Age | Old      | Venerable | Maximum Age |
+| ---------- | -------- | --------- | ----------- |
+| 20 years   | 30 years | 40 years  | +1d20 years |
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 5 ft. 1 in. | +2d12 | 160 lb. | × 7 lb. |
-| Female | 4 ft. 9 in. | +2d12 | 120 lb. | × 7 lb. |
+| ------ | ----------- | --------------- | ----------- | --------------- |
+| Male   | 5 ft. 1 in. | +2d12           | 160 lb.     | × 7 lb.         |
+| Female | 4 ft. 9 in. | +2d12           | 120 lb.     | × 7 lb.         |
 
 ### Description
 
@@ -86,12 +86,12 @@ Orcs look upon half-orcs with a strange mixture of contempt, envy, and pride. Th
 
 An orc can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Dayrunner\|Dayrunner]] | Light sensitivity |
-| [[rangoric-srd/races/racial-traits/Feral\|Feral]] | Weapon familiarity and automatic languages |
-| [[rangoric-srd/races/racial-traits/Smeller\|Smeller]] | Ferocity and weapon familiarity |
-| [[rangoric-srd/races/racial-traits/Squalid\|Squalid]] | Ferocity |
+| Trait                                                     | Replaces                                   |
+| --------------------------------------------------------- | ------------------------------------------ |
+| [[rangoric-srd/races/racial-traits/Dayrunner\|Dayrunner]] | Light sensitivity                          |
+| [[rangoric-srd/races/racial-traits/Feral\|Feral]]         | Weapon familiarity and automatic languages |
+| [[rangoric-srd/races/racial-traits/Smeller\|Smeller]]     | Ferocity and weapon familiarity            |
+| [[rangoric-srd/races/racial-traits/Squalid\|Squalid]]     | Ferocity                                   |
 
 ### Subtypes
 
@@ -113,7 +113,7 @@ An orc gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] 
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
-| [[rangoric-srd/class-options/archetypes/witch/Scarred Witch Doctor (Archetype)\|Scarred Witch Doctor]] | [[rangoric-srd/classes/Witch\|Witch]] |
-| [[rangoric-srd/class-options/archetypes/fighter/Dirty Fighter (Archetype)\|Dirty Fighter]] | [[rangoric-srd/classes/Fighter\|Fighter]] |
+| Archetype                                                                                              | Class                                     |
+| ------------------------------------------------------------------------------------------------------ | ----------------------------------------- |
+| [[rangoric-srd/class-options/archetypes/witch/Scarred Witch Doctor (Archetype)\|Scarred Witch Doctor]] | [[rangoric-srd/classes/Witch\|Witch]]     |
+| [[rangoric-srd/class-options/archetypes/fighter/Dirty Fighter (Archetype)\|Dirty Fighter]]             | [[rangoric-srd/classes/Fighter\|Fighter]] |

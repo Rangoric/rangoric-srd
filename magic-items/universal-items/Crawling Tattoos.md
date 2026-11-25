@@ -26,7 +26,7 @@ A crawling tattoo must enter the target’s square to attack and thus provokes a
 
 Two examples of crawling tattoos are described below; many more types are possible.
 
-Market Price: The cost of a crawling tattoo depends on the level of the power scribed in it.  
+Market Price: The cost of a crawling tattoo depends on the level of the power scribed in it.
 
 |             |              |
 | ----------- | ------------ |

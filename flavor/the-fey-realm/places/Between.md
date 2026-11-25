@@ -24,12 +24,12 @@ Considered a region by most fey due its vast size and geography, Between is the 
 
 **Seasons:** Between is a vast region bordering on all major geographies of the Twilight Lands, and it experiences all the weather the seasons bring to the neighboring regions.
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* The terrain of Between is similar to and often indistinguishable from the adjacent region of the Twilight Lands.
+_Common:_ The terrain of Between is similar to and often indistinguishable from the adjacent region of the Twilight Lands.
 
-*Uncommon:* If you are not careful, the land itself will move you in an unpredictable direction.
+_Uncommon:_ If you are not careful, the land itself will move you in an unpredictable direction.
 
-*Rare:* -
+_Rare:_ -
 
-*Obscure:* -
+_Obscure:_ -

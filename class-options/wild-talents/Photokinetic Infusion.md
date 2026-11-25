@@ -18,15 +18,15 @@ tags: [rangoric, rangoric/class-option]
 
 # Photokinetic Infusion
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|substance infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|substance infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Wood Element|wood]]
-  - **Type**: substance infusion
-  - **Level**: 1
-  - **Burn**: 1
-  - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Positive Blast|positive blast]]
-  - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Positive Blast|positive]]
-  - **Saving Throw**: none
+- **Element**: [[rangoric-srd/class-options/elements/Wood Element|wood]]
+- **Type**: substance infusion
+- **Level**: 1
+- **Burn**: 1
+- **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Positive Blast|positive blast]]
+- **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Positive Blast|positive]]
+- **Saving Throw**: none
 
 Your blast damages living creatures with light. This deals normal damage to undead creatures but also deals minimum damage (1 point of damage per d6, can’t be increased by the 9th-level improvement to [[rangoric-srd/classes/Kineticist#^kineticist-metakinesis|metakinesis]]) to living creatures.
 

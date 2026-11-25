@@ -18,12 +18,12 @@ tags: [rangoric, rangoric/class-option]
 
 # Flame Trap
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Fire Element|fire]]
-  - **Type**: utility (Sp)
-  - **Level**: 2
-  - **Burn**: 0
+- **Element**: [[rangoric-srd/class-options/elements/Fire Element|fire]]
+- **Type**: utility (Sp)
+- **Level**: 2
+- **Burn**: 0
 
 You lay a fiery trap on a container, ensuring the destruction of sensitive documents while punishing those who would steal your secrets. In order to weave the trap, you must spend 10 minutes in contact with the container you wish to trap. At the end of that time, the container is trapped until the next time you use this wild talent or until it triggers. Any creature other than you who opens the container takes damage as from your [[rangoric-srd/class-options/wild-talents/Fire Blast|fire blast]] (or [[rangoric-srd/class-options/wild-talents/Blue Flame Blast|blue flame blast]], if you have it). The damage affects the creature automatically if it is touching the container, but if it opens the container from within 30 feet, it can attempt a Reflex save to negate the damage, and if it opens the container from farther still, it takes no damage.
 

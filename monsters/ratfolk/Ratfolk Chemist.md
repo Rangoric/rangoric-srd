@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ratfolk Chemist
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Ratfolk)
-  - **Hit Dice**: 8d8+24 (63 hp)
-  - **Initiative**: +9
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 26 (+4 armor, +1 deflection, +5 Dex, +5 natural, +1 size), touch 17, flat-footed 21
-  - **Base Attack**: +6; **CMB**: +4; **CMD**: 20
-  - **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +6 melee (1d3–1/19–20) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +12 ranged (1d6/19–20) or bomb +12/+7 (4d6+4 cold or fire)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +6/+1 melee (1d3–1/19–20); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +12 ranged (1d6/19–20); or bomb +12/+7 (4d6+4 cold; or fire)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Alchemist#^alchemist-bomb|Bomb]] 12/day (4d6+4 cold or fire, DC 18), [[rangoric-srd/monsters/abilities/Swarming|swarming]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Alchemist#^alchemist-alchemy|alchemy]] (alchemy crafting +8, identify potions), [[rangoric-srd/classes/Alchemist#^alchemist-discovery|discoveries]] ([[rangoric-srd/class-options/discoveries/Fast Bombs (Discovery)|fast bombs]], [[rangoric-srd/class-options/discoveries/Frost Bomb (Discovery)|frost bomb]], [[rangoric-srd/class-options/discoveries/Infusion (Discovery)|infusion]], [[rangoric-srd/class-options/discoveries/Precise Bombs (Discovery)|precise bombs]] \[4 squares\]), [[rangoric-srd/classes/Alchemist#^alchemist-mutagen|mutagen]] (+4/-2, +2 natural, 80 minutes), [[rangoric-srd/classes/Alchemist#^alchemist-poison-use|poison use]], [[rangoric-srd/classes/Alchemist#^alchemist-swift-alchemy|swift alchemy]], [[rangoric-srd/classes/Alchemist#^alchemist-swift-poisoning|swift poisoning]]
-  - **Saves**: Fort +9, Ref +14, Will +3 (+6 vs. poison)
-  - **Abilities**: Str 8, Dex 20, Con 14, Int 18, Wis 10, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +17, [[rangoric-srd/skills/Emulation|Emulation]] +1, [[rangoric-srd/skills/Engineering|Engineering]] +16, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Medicine|Medicine]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Nature|Nature]] +15, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Profession|Profession]] (herbalist) +11
-  - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Throw Anything|Throw Anything]]
-  - **Environment**: Warm deserts or urban
-  - **Organization**: Solitary, or with other ratfolk (see [[rangoric-srd/monsters/ratfolk/Ratfolk|Ratfolk]])
-  - **Challenge Rating**: 7
-  - **Treasure**: NPC gear (combat gear: potions of cure serious wounds (3), potion of displacement, potion of invisibility, acid (2), antitoxin (2), smokesticks (2), tanglefoot bags (2); other gear: +1 studded leather, dagger, light crossbow with 10 bolts, cloak of resistance +1, dust of dryness, elixir of truth, ring of protection +1, formula book (contains prepared extracts plus displacement, disguise self, endure elements, enlarge person, expeditious retreat, identify, and jump), tindertwigs (10), 317 gp)
-  - **Alignment**: Usually neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Ratfolk)
+- **Hit Dice**: 8d8+24 (63 hp)
+- **Initiative**: +9
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 26 (+4 armor, +1 deflection, +5 Dex, +5 natural, +1 size), touch 17, flat-footed 21
+- **Base Attack**: +6; **CMB**: +4; **CMD**: 20
+- **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +6 melee (1d3–1/19–20) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +12 ranged (1d6/19–20) or bomb +12/+7 (4d6+4 cold or fire)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +6/+1 melee (1d3–1/19–20); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +12 ranged (1d6/19–20); or bomb +12/+7 (4d6+4 cold; or fire)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Alchemist#^alchemist-bomb|Bomb]] 12/day (4d6+4 cold or fire, DC 18), [[rangoric-srd/monsters/abilities/Swarming|swarming]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Alchemist#^alchemist-alchemy|alchemy]] (alchemy crafting +8, identify potions), [[rangoric-srd/classes/Alchemist#^alchemist-discovery|discoveries]] ([[rangoric-srd/class-options/discoveries/Fast Bombs (Discovery)|fast bombs]], [[rangoric-srd/class-options/discoveries/Frost Bomb (Discovery)|frost bomb]], [[rangoric-srd/class-options/discoveries/Infusion (Discovery)|infusion]], [[rangoric-srd/class-options/discoveries/Precise Bombs (Discovery)|precise bombs]] \[4 squares\]), [[rangoric-srd/classes/Alchemist#^alchemist-mutagen|mutagen]] (+4/-2, +2 natural, 80 minutes), [[rangoric-srd/classes/Alchemist#^alchemist-poison-use|poison use]], [[rangoric-srd/classes/Alchemist#^alchemist-swift-alchemy|swift alchemy]], [[rangoric-srd/classes/Alchemist#^alchemist-swift-poisoning|swift poisoning]]
+- **Saves**: Fort +9, Ref +14, Will +3 (+6 vs. poison)
+- **Abilities**: Str 8, Dex 20, Con 14, Int 18, Wis 10, Cha 8
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +17, [[rangoric-srd/skills/Emulation|Emulation]] +1, [[rangoric-srd/skills/Engineering|Engineering]] +16, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Medicine|Medicine]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Nature|Nature]] +15, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Profession|Profession]] (herbalist) +11
+- **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Throw Anything|Throw Anything]]
+- **Environment**: Warm deserts or urban
+- **Organization**: Solitary, or with other ratfolk (see [[rangoric-srd/monsters/ratfolk/Ratfolk|Ratfolk]])
+- **Challenge Rating**: 7
+- **Treasure**: NPC gear (combat gear: potions of cure serious wounds (3), potion of displacement, potion of invisibility, acid (2), antitoxin (2), smokesticks (2), tanglefoot bags (2); other gear: +1 studded leather, dagger, light crossbow with 10 bolts, cloak of resistance +1, dust of dryness, elixir of truth, ring of protection +1, formula book (contains prepared extracts plus displacement, disguise self, endure elements, enlarge person, expeditious retreat, identify, and jump), tindertwigs (10), 317 gp)
+- **Alignment**: Usually neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A ratfolk chemist is a [[rangoric-srd/monsters/ratfolk/Ratfolk|ratfolk]] with 8 levels of [[rangoric-srd/classes/Alchemist|alchemist]]. Considered superior to spellcasting by many ratfolk, alchemy produces more items for sale and creates remedies that benefit the warren.
 
@@ -75,4 +75,4 @@ A ratfolk chemist speaks Common, Draconic, Dwarven, Gnome, and Undercommon.
 
 **Base Statistics**: Without her mutagen and barkskin, the chemist's statistics are **Init** +7; **Senses** Perception +14; **AC** 19, touch 15, flat-footed 16; **Ref** +12; **Ranged** light crossbow +10 (1d6/19–20) or bomb +10/+5 (4d6+4 cold or fire); **Dex** 16; **Wis** 12; **CMD** 18; **Skills** Fieldcraft +8, Medicine +8, Perception +14, Profession (herbalist) +12.
 
-**Alchemist extracts prepared** (CL 8th): 3rd—*[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]*, *[[rangoric-srd/spells/Fly|fly]]*, *[[rangoric-srd/spells/Heroism|heroism]]*; 2nd—*[[rangoric-srd/spells/Barkskin|barkskin]]*, *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*, *[[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Resist Energy|resist energy]]*, *[[rangoric-srd/spells/See Invisibility|see invisibility]]*; 1st—*[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]*, *[[rangoric-srd/spells/Crafter’s Fortune|crafter's fortune]]*, *[[rangoric-srd/spells/Negate Aroma|negate aroma]]* (DC 15), *[[rangoric-srd/spells/Reduce Person|reduce person]]* (DC 15), *[[rangoric-srd/spells/Shield|shield]]*.
+**Alchemist extracts prepared** (CL 8th): 3rd—_[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]_, _[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Heroism|heroism]]_; 2nd—_[[rangoric-srd/spells/Barkskin|barkskin]]_, _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_, _[[rangoric-srd/spells/See Invisibility|see invisibility]]_; 1st—_[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Crafter’s Fortune|crafter's fortune]]_, _[[rangoric-srd/spells/Negate Aroma|negate aroma]]_ (DC 15), _[[rangoric-srd/spells/Reduce Person|reduce person]]_ (DC 15), _[[rangoric-srd/spells/Shield|shield]]_.

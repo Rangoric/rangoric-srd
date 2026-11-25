@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Mindlink
 
-*Divination \[MindAffecting\]*
+_Divination \[MindAffecting\]_
 
-  - **Level**: Med 1, Mes 1, Occ 1, Psy 1, Sor/Wiz 1, Spi 1
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Med 1, Mes 1, Occ 1, Psy 1, Sor/Wiz 1, Spi 1
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 You link your mind to that of a touched creature to swiftly communicate a large amount of complex information in an instant. You decide what the target learns, limited to any amount of information that otherwise could be communicated in 10 minutes. This information comes in a series of visual images and emotional sensations, and isn't language-dependent.

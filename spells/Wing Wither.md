@@ -29,17 +29,17 @@ tags: [rangoric, rangoric/spell]
 
 # Wing Wither
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Brd 3, Fhn 3, Msl 3, Skd 3, Sor/Wiz 3
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Target**: One creature/level, no two of which can be more than 30 ft. apart
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 3, Fhn 3, Msl 3, Skd 3, Sor/Wiz 3
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Target**: One creature/level, no two of which can be more than 30 ft. apart
+- **Duration**: 1 round/level
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
-*Wing wither* strikes a target flying creature’s wing endurance and strength, reducing the maneuverability and flying speed of the target creature. A target must succeed on a Fortitude save or suffer a two step reduction in maneuverability (to a minimum of clumsy) and a 50% reduction in speed.
+_Wing wither_ strikes a target flying creature’s wing endurance and strength, reducing the maneuverability and flying speed of the target creature. A target must succeed on a Fortitude save or suffer a two step reduction in maneuverability (to a minimum of clumsy) and a 50% reduction in speed.
 
-*Material Component*: A dried turkey wing.
+_Material Component_: A dried turkey wing.

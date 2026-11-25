@@ -26,31 +26,32 @@ The first step is to determine the amount of treasure you can budget for an enco
 
 **Table: Treasure Values by Advancement Speed**
 
-| Average Party Level | Slow | Medium | Fast |
-| --- | --- | --- | --- |
-| 1 | 170 gp | 260 gp | 400 gp |
-| 2 | 350 gp | 550 gp | 800 gp |
-| 3 | 550 gp | 800 gp | 1,200 gp |
-| 4 | 750 gp | 1,150 gp | 1,700 gp |
-| 5 | 1,000 gp | 1,550 gp | 2,300 gp |
-| 6 | 1,350 gp | 2,000 gp | 3,000 gp |
-| 7 | 1,750 gp | 2,600 gp | 3,900 gp |
-| 8 | 2,200 gp | 3,350 gp | 5,000 gp |
-| 9 | 2,850 gp | 4,250 gp | 6,400 gp |
-| 10 | 3,650 gp | 5,450 gp | 8,200 gp |
-| 11 | 4,650 gp | 7,000 gp | 10,500 gp |
-| 12 | 6,000 gp | 9,000 gp | 13,500 gp |
-| 13 | 7,750 gp | 11,600 gp | 17,500 gp |
-| 14 | 10,000 gp | 15,000 gp | 22,000 gp |
-| 15 | 13,000 gp | 19,500 gp | 29,000 gp |
-| 16 | 16,500 gp | 25,000 gp | 38,000 gp |
-| 17 | 22,000 gp | 32,000 gp | 48,000 gp |
-| 18 | 28,000 gp | 41,000 gp | 62,000 gp |
-| 19 | 35,000 gp | 53,000 gp | 79,000 gp |
-| 20+ | 44,000 gp | 67,000 gp | 100,000 gp |
+| Average Party Level | Slow      | Medium    | Fast       |
+| ------------------- | --------- | --------- | ---------- |
+| 1                   | 170 gp    | 260 gp    | 400 gp     |
+| 2                   | 350 gp    | 550 gp    | 800 gp     |
+| 3                   | 550 gp    | 800 gp    | 1,200 gp   |
+| 4                   | 750 gp    | 1,150 gp  | 1,700 gp   |
+| 5                   | 1,000 gp  | 1,550 gp  | 2,300 gp   |
+| 6                   | 1,350 gp  | 2,000 gp  | 3,000 gp   |
+| 7                   | 1,750 gp  | 2,600 gp  | 3,900 gp   |
+| 8                   | 2,200 gp  | 3,350 gp  | 5,000 gp   |
+| 9                   | 2,850 gp  | 4,250 gp  | 6,400 gp   |
+| 10                  | 3,650 gp  | 5,450 gp  | 8,200 gp   |
+| 11                  | 4,650 gp  | 7,000 gp  | 10,500 gp  |
+| 12                  | 6,000 gp  | 9,000 gp  | 13,500 gp  |
+| 13                  | 7,750 gp  | 11,600 gp | 17,500 gp  |
+| 14                  | 10,000 gp | 15,000 gp | 22,000 gp  |
+| 15                  | 13,000 gp | 19,500 gp | 29,000 gp  |
+| 16                  | 16,500 gp | 25,000 gp | 38,000 gp  |
+| 17                  | 22,000 gp | 32,000 gp | 48,000 gp  |
+| 18                  | 28,000 gp | 41,000 gp | 62,000 gp  |
+| 19                  | 35,000 gp | 53,000 gp | 79,000 gp  |
+| 20+                 | 44,000 gp | 67,000 gp | 100,000 gp |
+
 ^treasure-values-by-advancement-speed
 
-*Rangoric’s own Treasure Values per Encounter column, in [[rangoric-srd/rules/Treasure#Using the Treasure Table|Treasure]], is the one the Treasure lines of Rangoric’s monsters multiply (standard, double, triple, incidental and NPC gear are defined in [[rangoric-srd/monsters/Monsters|Monsters]]), and [[rangoric-srd/unearthed-arcana/XP and GP Values by CR|XP and GP Values by CR]] lists the values by CR and advancement speed. This table is the Generator’s own, by average party level and speed.*
+_Rangoric’s own Treasure Values per Encounter column, in [[rangoric-srd/rules/Treasure#Using the Treasure Table|Treasure]], is the one the Treasure lines of Rangoric’s monsters multiply (standard, double, triple, incidental and NPC gear are defined in [[rangoric-srd/monsters/Monsters|Monsters]]), and [[rangoric-srd/unearthed-arcana/XP and GP Values by CR|XP and GP Values by CR]] lists the values by CR and advancement speed. This table is the Generator’s own, by average party level and speed._
 
 After determining the base value of an encounter depending on its CR, next check the treasure line in the individual stat blocks for all creatures involved. In the case of mixed groups of enemies, use the most generous treasure entry. The treasure entry for the creatures involved affects the overall reward of the encounter as follows.
 
@@ -73,28 +74,29 @@ If your campaign uses the fast experience progression, treat the NPCs as one lev
 **Table: NPC Gear**
 
 | Basic Level<sup>1</sup> | Heroic Level<sup>1</sup> | Treasure Value |
-| --- | --- | --- |
-| 1 | — | 260 gp |
-| 2 | 1 | 390 gp |
-| 3 | 2 | 780 gp |
-| 4 | 3 | 1,650 gp |
-| 5 | 4 | 2,400 gp |
-| 6 | 5 | 3,450 gp |
-| 7 | 6 | 4,650 gp |
-| 8 | 7 | 6,000 gp |
-| 9 | 8 | 7,800 gp |
-| 10 | 9 | 10,050 gp |
-| 11 | 10 | 12,750 gp |
-| 12 | 11 | 16,350 gp |
-| 13 | 12 | 21,000 gp |
-| 14 | 13 | 27,000 gp |
-| 15 | 14 | 34,800 gp |
-| 16 | 15 | 45,000 gp |
-| 17 | 16 | 58,500 gp |
-| 18 | 17 | 75,000 gp |
-| 19 | 18 | 96,000 gp |
-| 20 | 19 | 123,000 gp |
-| — | 20 | 159,000 gp |
+| ----------------------- | ------------------------ | -------------- |
+| 1                       | —                        | 260 gp         |
+| 2                       | 1                        | 390 gp         |
+| 3                       | 2                        | 780 gp         |
+| 4                       | 3                        | 1,650 gp       |
+| 5                       | 4                        | 2,400 gp       |
+| 6                       | 5                        | 3,450 gp       |
+| 7                       | 6                        | 4,650 gp       |
+| 8                       | 7                        | 6,000 gp       |
+| 9                       | 8                        | 7,800 gp       |
+| 10                      | 9                        | 10,050 gp      |
+| 11                      | 10                       | 12,750 gp      |
+| 12                      | 11                       | 16,350 gp      |
+| 13                      | 12                       | 21,000 gp      |
+| 14                      | 13                       | 27,000 gp      |
+| 15                      | 14                       | 34,800 gp      |
+| 16                      | 15                       | 45,000 gp      |
+| 17                      | 16                       | 58,500 gp      |
+| 18                      | 17                       | 75,000 gp      |
+| 19                      | 18                       | 96,000 gp      |
+| 20                      | 19                       | 123,000 gp     |
+| —                       | 20                       | 159,000 gp     |
+
 ^npc-gear
 
 <sup>1</sup> Basic level NPCs typically have class levels only in NPC classes.<sup>2</sup> Heroic level NPCs have levels in standard character classes.
@@ -227,20 +229,20 @@ Treasure of this type is made up entirely of coins. While it usually does not ma
 
 **Table: Type A Treasure, Coins**
 
-| Value | Reward |
-| --- | --- |
-| 1 gp | 5d10 cp, 3d4 sp |
-| 5 gp | 2d6 × 10 cp, 4d8 sp, 1d4 gp |
-| 10 gp | 5d10 × 10 cp, 5d10 sp, 1d8 gp |
-| 25 gp | 2d4 × 100 cp, 3d6 × 10 sp, 4d4 gp |
-| 50 gp | 4d4 × 100 cp, 4d6 × 10 sp, 8d6 gp |
-| 100 gp | 6d8 × 10 sp, 3d4 × 10 gp |
-| 200 gp | 2d4 × 100 sp, 4d4 × 10 gp, 2d4 pp |
-| 500 gp | 6d6 × 10 gp, 8d6 pp |
-| 1,000 gp | 2d4 × 100 gp, 10d10 pp |
-| 5,000 gp | 4d8 × 100 gp, 6d10 × 10 pp |
-| 10,000 gp | 2d4 × 1,000 gp, 12d8 × 10 pp |
-| 50,000 gp | 2d6 × 1,000 gp, 8d10 × 100 pp |
+| Value     | Reward                            |
+| --------- | --------------------------------- |
+| 1 gp      | 5d10 cp, 3d4 sp                   |
+| 5 gp      | 2d6 × 10 cp, 4d8 sp, 1d4 gp       |
+| 10 gp     | 5d10 × 10 cp, 5d10 sp, 1d8 gp     |
+| 25 gp     | 2d4 × 100 cp, 3d6 × 10 sp, 4d4 gp |
+| 50 gp     | 4d4 × 100 cp, 4d6 × 10 sp, 8d6 gp |
+| 100 gp    | 6d8 × 10 sp, 3d4 × 10 gp          |
+| 200 gp    | 2d4 × 100 sp, 4d4 × 10 gp, 2d4 pp |
+| 500 gp    | 6d6 × 10 gp, 8d6 pp               |
+| 1,000 gp  | 2d4 × 100 gp, 10d10 pp            |
+| 5,000 gp  | 4d8 × 100 gp, 6d10 × 10 pp        |
+| 10,000 gp | 2d4 × 1,000 gp, 12d8 × 10 pp      |
+| 50,000 gp | 2d6 × 1,000 gp, 8d10 × 100 pp     |
 
 #### Type B Treasure, Coins and Gems
 
@@ -248,29 +250,29 @@ This treasure is made up solely of coins and gemstones, which can generally be t
 
 **Table: Type B Treasure, Coins and Gems**
 
-| Value | Reward |
-| --- | --- |
-| 10 gp | Grade 1 gemstone |
-| 15 gp | 2d6 × 10 cp, 4d8 sp, 1d4 gp, grade 1 gemstone |
-| 25 gp | 5d10 sp, 1d4 gp, two grade 1 gemstones |
-| 50 gp | Grade 2 gemstone |
-| 50 gp | 3d6 × 10 sp, 3d6 gp, three grade 1 gemstones |
-| 75 gp | 1d4 × 10 sp, 1d4 gp, two grade 1 gemstones, grade 2 gemstone |
-| 100 gp | Grade 3 gemstone |
-| 100 gp | 3d8 × 10 sp, 4d8 gp, two grade 1 gemstones, grade 2 gemstone |
-| 150 gp | Grade 2 gemstone, grade 3 gemstone |
-| 200 gp | 3d6 × 10 sp, 2d4x10 gp, four grade 1 gemstones, grade 3 gemstone |
-| 250 gp | 2d4 × 10 gp, two grade 2 gemstones, grade 3 gemstone |
-| 500 gp | Grade 4 gemstone |
-| 500 gp | 2d4 × 10 gp, 2d4 pp, two grade 2 gemstones, three grade 3 gemstones |
-| 750 gp | 2d4 × 10 gp, two grade 2 gemstones, grade 3 gemstone, grade 4 gemstone |
-| 1,000 gp | Grade 5 gemstone |
-| 1,000 gp | 3d6 × 10 gp, 4d4 pp, three grade 3 gemstones, grade 4 gemstone |
-| 2,500 gp | 2d4 × 100 gp, two grade 4 gemstones, grade 5 gemstone |
-| 5,000 gp | Grade 6 gemstone |
-| 5,000 gp | 2d4 × 100 gp, 2d4x10 pp, two grade 4 gemstones, three grade 5 gemstones |
-| 10,000 gp | Five grade 5 gemstones, grade 6 gemstone |
-| 20,000 gp | 4d8 × 100 gp, 6d10x10 pp, three grade 6 gemstones |
+| Value     | Reward                                                                                                     |
+| --------- | ---------------------------------------------------------------------------------------------------------- |
+| 10 gp     | Grade 1 gemstone                                                                                           |
+| 15 gp     | 2d6 × 10 cp, 4d8 sp, 1d4 gp, grade 1 gemstone                                                              |
+| 25 gp     | 5d10 sp, 1d4 gp, two grade 1 gemstones                                                                     |
+| 50 gp     | Grade 2 gemstone                                                                                           |
+| 50 gp     | 3d6 × 10 sp, 3d6 gp, three grade 1 gemstones                                                               |
+| 75 gp     | 1d4 × 10 sp, 1d4 gp, two grade 1 gemstones, grade 2 gemstone                                               |
+| 100 gp    | Grade 3 gemstone                                                                                           |
+| 100 gp    | 3d8 × 10 sp, 4d8 gp, two grade 1 gemstones, grade 2 gemstone                                               |
+| 150 gp    | Grade 2 gemstone, grade 3 gemstone                                                                         |
+| 200 gp    | 3d6 × 10 sp, 2d4x10 gp, four grade 1 gemstones, grade 3 gemstone                                           |
+| 250 gp    | 2d4 × 10 gp, two grade 2 gemstones, grade 3 gemstone                                                       |
+| 500 gp    | Grade 4 gemstone                                                                                           |
+| 500 gp    | 2d4 × 10 gp, 2d4 pp, two grade 2 gemstones, three grade 3 gemstones                                        |
+| 750 gp    | 2d4 × 10 gp, two grade 2 gemstones, grade 3 gemstone, grade 4 gemstone                                     |
+| 1,000 gp  | Grade 5 gemstone                                                                                           |
+| 1,000 gp  | 3d6 × 10 gp, 4d4 pp, three grade 3 gemstones, grade 4 gemstone                                             |
+| 2,500 gp  | 2d4 × 100 gp, two grade 4 gemstones, grade 5 gemstone                                                      |
+| 5,000 gp  | Grade 6 gemstone                                                                                           |
+| 5,000 gp  | 2d4 × 100 gp, 2d4x10 pp, two grade 4 gemstones, three grade 5 gemstones                                    |
+| 10,000 gp | Five grade 5 gemstones, grade 6 gemstone                                                                   |
+| 20,000 gp | 4d8 × 100 gp, 6d10x10 pp, three grade 6 gemstones                                                          |
 | 50,000 gp | 4d4 × 10 pp, ten grade 3 gemstones, four grade 4 gemstones, six grade 5 gemstones, eight grade 6 gemstones |
 
 #### Type C Treasure, Art Objects
@@ -279,29 +281,29 @@ This treasure is made up art objects, which can generally be traded for their fu
 
 **Table: Type C Treasure, Art Objects**
 
-| Value | Reward |
-| --- | --- |
-| 50 gp | Grade 1 art object |
-| 100 gp | Grade 2 art object |
-| 100 gp | Two grade 1 art objects |
-| 150 gp | Grade 1 art object, grade 2 art object |
-| 200 gp | Two grade 2 art objects |
-| 250 gp | Three grade 1 art objects, grade 2 art object |
-| 500 gp | Grade 3 art object |
-| 500 gp | Four grade 1 art objects, three grade 2 art objects |
-| 750 gp | Three grade 1 art objects, two grade 2 art objects, grade 3 art object |
-| 1,000 gp | Grade 4 art object |
-| 1,000 gp | Two grade 3 art objects |
-| 1,500 gp | Grade 3 art object, grade 4 art object |
-| 2,000 gp | Two grade 4 art objects |
-| 2,500 gp | Five grade 2 art objects, two grade 3 art objects, grade 4 art object |
-| 5,000 gp | Grade 5 art object |
-| 5,000 gp | Four grade 3 art objects, three grade 4 art objects |
-| 7,500 gp | Grade 3 art object, two grade 4 art objects, grade 5 art object |
-| 10,000 gp | Grade 6 art object |
-| 10,000 gp | Five grade 4 art objects, grade 5 art object |
-| 15,000 gp | Grade 5 art object, grade 6 art object |
-| 20,000 gp | Two grade 5 art objects, grade 6 art object |
+| Value     | Reward                                                                                               |
+| --------- | ---------------------------------------------------------------------------------------------------- |
+| 50 gp     | Grade 1 art object                                                                                   |
+| 100 gp    | Grade 2 art object                                                                                   |
+| 100 gp    | Two grade 1 art objects                                                                              |
+| 150 gp    | Grade 1 art object, grade 2 art object                                                               |
+| 200 gp    | Two grade 2 art objects                                                                              |
+| 250 gp    | Three grade 1 art objects, grade 2 art object                                                        |
+| 500 gp    | Grade 3 art object                                                                                   |
+| 500 gp    | Four grade 1 art objects, three grade 2 art objects                                                  |
+| 750 gp    | Three grade 1 art objects, two grade 2 art objects, grade 3 art object                               |
+| 1,000 gp  | Grade 4 art object                                                                                   |
+| 1,000 gp  | Two grade 3 art objects                                                                              |
+| 1,500 gp  | Grade 3 art object, grade 4 art object                                                               |
+| 2,000 gp  | Two grade 4 art objects                                                                              |
+| 2,500 gp  | Five grade 2 art objects, two grade 3 art objects, grade 4 art object                                |
+| 5,000 gp  | Grade 5 art object                                                                                   |
+| 5,000 gp  | Four grade 3 art objects, three grade 4 art objects                                                  |
+| 7,500 gp  | Grade 3 art object, two grade 4 art objects, grade 5 art object                                      |
+| 10,000 gp | Grade 6 art object                                                                                   |
+| 10,000 gp | Five grade 4 art objects, grade 5 art object                                                         |
+| 15,000 gp | Grade 5 art object, grade 6 art object                                                               |
+| 20,000 gp | Two grade 5 art objects, grade 6 art object                                                          |
 | 50,000 gp | Ten grade 3 art objects, five grade 4 art objects, four grade 5 art objects, two grade 6 art objects |
 
 #### Type D Treasure, Coins and Small Objects
@@ -310,39 +312,39 @@ This treasure is made up coins and small magic items, such as potions, scrolls, 
 
 **Table: Type D Treasure, Coins and Small Objects**
 
-| Value | Reward |
-| --- | --- |
-| 50 gp | 3d6 × 10 sp, 4d4 gp, lesser minor scroll |
-| 50 gp | 2d4 × 10 sp, 2d4 gp, lesser minor potion |
-| 100 gp | 4d6 × 10 sp, 3d10 gp, lesser minor potion, lesser minor scroll |
-| 150 gp | 2d4 × 10 sp, 6d6 gp, greater minor scroll |
-| 200 gp | 2d4 × 10 sp, 4d6 gp, greater minor potion, lesser minor scroll |
-| 250 gp | 3d6 × 10 sp, 3d6 gp, 1d4 pp, two lesser minor potions, greater minor scroll |
-| 300 gp | 2d4 × 10 sp, 6d6 gp, greater minor potion, greater minor scroll |
-| 400 gp | Greater minor potion, two greater minor scrolls |
-| 500 gp | 2d4 × 10 gp, 1d4 pp, lesser medium potion, greater minor scroll |
-| 500 gp | 2d4 × 10 gp, 1d4 pp, two greater minor potions, greater minor scroll |
-| 750 gp | 7d6 gp, greater minor scroll, lesser minor wand |
-| 1,000 gp | 4d4 × 10 gp, 3d6 pp, lesser medium potion, lesser medium scroll |
-| 1,000 gp | 2d4 × 10 gp, 2d4 pp, lesser medium potion, lesser minor wand |
-| 1,500 gp | Greater minor wand |
-| 1,500 gp | 4d4 × 10 gp, 3d6 pp, greater medium potion, greater medium scroll |
-| 2,000 gp | Greater medium potion, greater minor wand |
-| 2,000 gp | 2d4 × 10 gp, 2d4 pp, lesser medium potion, two greater medium scrolls |
-| 3,000 gp | 3d6 × 10 gp, 4d4 pp, greater medium potion, greater medium scroll, greater minor wand |
-| 4,000 gp | 3d6 × 10 gp, 4d4 pp, greater medium scroll, two greater minor wands |
-| 5,000 gp | 2d4 × 10 gp, 2d4 pp, three lesser major potions, two greater medium scrolls, greater minor wand |
-| 7,500 gp | 2d6 pp, lesser major scroll, lesser medium wand |
-| 7,500 gp | 5d6 pp, two greater major potions, two greater major scrolls |
-| 10,000 gp | Greater medium wand |
-| 10,000 gp | 4d6 pp, greater major potion, greater major scroll, lesser medium wand |
-| 15,000 gp | Lesser major wand |
-| 15,000 gp | 9d10 pp, three greater major potions, two lesser major scrolls, greater medium wand |
-| 20,000 gp | 4d4 × 10 gp, 2d4x10 pp, two greater major potions, greater major scroll, lesser major wand |
-| 20,000 gp | 6d6 × 10 gp, three lesser major potions, greater major wand |
-| 25,000 gp | Five greater major scrolls, greater medium wand |
-| 30,000 gp | 6d6 pp, four greater major potions, three greater major scrolls, greater major wand |
-| 50,000 gp | 8d4 × 10 pp, four greater major scrolls, two greater major wands |
+| Value     | Reward                                                                                          |
+| --------- | ----------------------------------------------------------------------------------------------- |
+| 50 gp     | 3d6 × 10 sp, 4d4 gp, lesser minor scroll                                                        |
+| 50 gp     | 2d4 × 10 sp, 2d4 gp, lesser minor potion                                                        |
+| 100 gp    | 4d6 × 10 sp, 3d10 gp, lesser minor potion, lesser minor scroll                                  |
+| 150 gp    | 2d4 × 10 sp, 6d6 gp, greater minor scroll                                                       |
+| 200 gp    | 2d4 × 10 sp, 4d6 gp, greater minor potion, lesser minor scroll                                  |
+| 250 gp    | 3d6 × 10 sp, 3d6 gp, 1d4 pp, two lesser minor potions, greater minor scroll                     |
+| 300 gp    | 2d4 × 10 sp, 6d6 gp, greater minor potion, greater minor scroll                                 |
+| 400 gp    | Greater minor potion, two greater minor scrolls                                                 |
+| 500 gp    | 2d4 × 10 gp, 1d4 pp, lesser medium potion, greater minor scroll                                 |
+| 500 gp    | 2d4 × 10 gp, 1d4 pp, two greater minor potions, greater minor scroll                            |
+| 750 gp    | 7d6 gp, greater minor scroll, lesser minor wand                                                 |
+| 1,000 gp  | 4d4 × 10 gp, 3d6 pp, lesser medium potion, lesser medium scroll                                 |
+| 1,000 gp  | 2d4 × 10 gp, 2d4 pp, lesser medium potion, lesser minor wand                                    |
+| 1,500 gp  | Greater minor wand                                                                              |
+| 1,500 gp  | 4d4 × 10 gp, 3d6 pp, greater medium potion, greater medium scroll                               |
+| 2,000 gp  | Greater medium potion, greater minor wand                                                       |
+| 2,000 gp  | 2d4 × 10 gp, 2d4 pp, lesser medium potion, two greater medium scrolls                           |
+| 3,000 gp  | 3d6 × 10 gp, 4d4 pp, greater medium potion, greater medium scroll, greater minor wand           |
+| 4,000 gp  | 3d6 × 10 gp, 4d4 pp, greater medium scroll, two greater minor wands                             |
+| 5,000 gp  | 2d4 × 10 gp, 2d4 pp, three lesser major potions, two greater medium scrolls, greater minor wand |
+| 7,500 gp  | 2d6 pp, lesser major scroll, lesser medium wand                                                 |
+| 7,500 gp  | 5d6 pp, two greater major potions, two greater major scrolls                                    |
+| 10,000 gp | Greater medium wand                                                                             |
+| 10,000 gp | 4d6 pp, greater major potion, greater major scroll, lesser medium wand                          |
+| 15,000 gp | Lesser major wand                                                                               |
+| 15,000 gp | 9d10 pp, three greater major potions, two lesser major scrolls, greater medium wand             |
+| 20,000 gp | 4d4 × 10 gp, 2d4x10 pp, two greater major potions, greater major scroll, lesser major wand      |
+| 20,000 gp | 6d6 × 10 gp, three lesser major potions, greater major wand                                     |
+| 25,000 gp | Five greater major scrolls, greater medium wand                                                 |
+| 30,000 gp | 6d6 pp, four greater major potions, three greater major scrolls, greater major wand             |
+| 50,000 gp | 8d4 × 10 pp, four greater major scrolls, two greater major wands                                |
 
 #### Type E Treasure, Armor and Weapons
 
@@ -350,36 +352,36 @@ This treasure is made up entirely of armor and weapons. Note that the value of s
 
 **Table: Type E Treasure, Armor and Weapons**
 
-| Value | Reward |
-| --- | --- |
-| 200 gp | Masterwork light armor or shield |
-| 300 gp | Masterwork medium armor |
-| 350 gp | Masterwork weapon |
-| 1,000 gp | Masterwork heavy armor |
-| 1,500 gp | Lesser minor armor |
-| 2,500 gp | Lesser minor weapon |
-| 3,000 gp | Greater minor armor |
-| 3,000 gp | Masterwork medium armor, masterwork shield, lesser minor weapon |
-| 4,000 gp | Lesser minor armor, lesser minor weapon |
-| 5,500 gp | Greater minor armor, lesser minor weapon |
-| 6,000 gp | Greater minor weapon |
-| 7,500 gp | Lesser minor armor, greater minor weapon |
-| 8,000 gp | Greater minor armor, two lesser minor weapons |
-| 9,000 gp | Greater minor armor, greater minor weapon |
-| 10,000 gp | Lesser medium armor, lesser minor weapon |
-| 13,000 gp | Lesser medium weapon |
-| 13,000 gp | Lesser medium armor, greater minor weapon |
-| 15,000 gp | Greater medium armor, lesser minor weapon |
-| 20,000 gp | Lesser medium armor, lesser medium weapon |
-| 25,000 gp | Greater minor armor, greater medium weapon |
-| 30,000 gp | Lesser major armor, lesser minor weapon, greater minor weapon |
-| 30,000 gp | Lesser medium armor, greater medium weapon |
-| 35,000 gp | Lesser major armor, lesser medium weapon |
-| 35,000 gp | Lesser minor armor, lesser major weapon |
-| 40,000 gp | Greater major armor, greater minor weapon |
-| 50,000 gp | Greater major armor, lesser medium weapon |
-| 75,000 gp | Greater minor armor, greater major weapon |
-| 100,000 gp | Greater major armor, greater major weapon |
+| Value      | Reward                                                          |
+| ---------- | --------------------------------------------------------------- |
+| 200 gp     | Masterwork light armor or shield                                |
+| 300 gp     | Masterwork medium armor                                         |
+| 350 gp     | Masterwork weapon                                               |
+| 1,000 gp   | Masterwork heavy armor                                          |
+| 1,500 gp   | Lesser minor armor                                              |
+| 2,500 gp   | Lesser minor weapon                                             |
+| 3,000 gp   | Greater minor armor                                             |
+| 3,000 gp   | Masterwork medium armor, masterwork shield, lesser minor weapon |
+| 4,000 gp   | Lesser minor armor, lesser minor weapon                         |
+| 5,500 gp   | Greater minor armor, lesser minor weapon                        |
+| 6,000 gp   | Greater minor weapon                                            |
+| 7,500 gp   | Lesser minor armor, greater minor weapon                        |
+| 8,000 gp   | Greater minor armor, two lesser minor weapons                   |
+| 9,000 gp   | Greater minor armor, greater minor weapon                       |
+| 10,000 gp  | Lesser medium armor, lesser minor weapon                        |
+| 13,000 gp  | Lesser medium weapon                                            |
+| 13,000 gp  | Lesser medium armor, greater minor weapon                       |
+| 15,000 gp  | Greater medium armor, lesser minor weapon                       |
+| 20,000 gp  | Lesser medium armor, lesser medium weapon                       |
+| 25,000 gp  | Greater minor armor, greater medium weapon                      |
+| 30,000 gp  | Lesser major armor, lesser minor weapon, greater minor weapon   |
+| 30,000 gp  | Lesser medium armor, greater medium weapon                      |
+| 35,000 gp  | Lesser major armor, lesser medium weapon                        |
+| 35,000 gp  | Lesser minor armor, lesser major weapon                         |
+| 40,000 gp  | Greater major armor, greater minor weapon                       |
+| 50,000 gp  | Greater major armor, lesser medium weapon                       |
+| 75,000 gp  | Greater minor armor, greater major weapon                       |
+| 100,000 gp | Greater major armor, greater major weapon                       |
 
 #### Type F Treasure, Combatant Gear
 
@@ -387,34 +389,34 @@ Treasure of this type represents the typical gear that might be carried by a cre
 
 **Table: Type F Treasure, Combatant Gear**
 
-| Value | Reward |
-| --- | --- |
-| 50 gp | 2d4 × 10 sp, 2d4 gp, lesser minor potion |
-| 250 gp | 2d4 × 10 sp, 2d4 gp, masterwork light armor or shield, lesser minor potion |
-| 350 gp | 2d4 × 10 sp, 2d4 gp, masterwork medium armor, lesser minor potion |
-| 400 gp | 2d4 × 10 sp, 2d4 gp, masterwork weapon, lesser minor potion |
-| 500 gp | Masterwork weapon, greater minor potion |
-| 750 gp | 6d6 gp, masterwork medium armor, masterwork weapon, two lesser minor potions |
-| 1,000 gp | Masterwork heavy armor |
-| 1,500 gp | Masterwork heavy armor, masterwork weapon, greater minor potion |
-| 2,000 gp | Lesser minor armor, masterwork weapon, two greater minor potions |
-| 3,000 gp | Masterwork medium armor, lesser minor weapon, greater minor potion |
-| 4,000 gp | Lesser minor armor, masterwork weapon, lesser minor wondrous item, greater minor potion |
-| 5,000 gp | Masterwork medium armor, lesser minor weapon, lesser minor wondrous item, greater minor potion |
-| 6,000 gp | Lesser minor armor, lesser minor weapon, lesser minor wondrous item |
-| 7,500 gp | Greater minor armor, lesser minor weapon, lesser minor ring |
-| 10,000 gp | Greater minor armor, lesser minor weapon, lesser minor ring, lesser minor wondrous item, three greater minor potions |
-| 10,000 gp | Greater minor armor, greater minor weapon, two greater medium potions |
-| 12,500 gp | Greater minor armor, lesser minor weapon, greater minor wondrous item, two greater medium potions |
-| 15,000 gp | Greater minor armor, greater minor weapon, greater minor ring |
-| 20,000 gp | Lesser medium armor, greater minor weapon, greater minor wondrous item, two greater medium potions |
-| 25,000 gp | Lesser medium armor, lesser medium weapon, lesser minor ring, lesser minor wondrous item, two greater medium potions |
-| 30,000 gp | Lesser medium armor, lesser medium weapon, two lesser minor rings, greater minor wondrous items |
-| 40,000 gp | Lesser medium armor, lesser medium weapon, lesser medium ring, greater minor wondrous item, two greater medium potions |
-| 50,000 gp | Greater medium armor, greater medium weapon, lesser medium wondrous item, two lesser major potions |
-| 60,000 gp | Greater medium armor, greater medium weapon, two greater minor rings, two greater minor wondrous items |
-| 75,000 gp | Lesser major armor, greater medium weapon, greater minor ring, greater medium wondrous item, three greater major potions |
-| 100,000 gp | Lesser major armor, lesser major weapon, lesser medium ring, greater minor ring, two lesser medium wondrous items |
+| Value      | Reward                                                                                                                   |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 50 gp      | 2d4 × 10 sp, 2d4 gp, lesser minor potion                                                                                 |
+| 250 gp     | 2d4 × 10 sp, 2d4 gp, masterwork light armor or shield, lesser minor potion                                               |
+| 350 gp     | 2d4 × 10 sp, 2d4 gp, masterwork medium armor, lesser minor potion                                                        |
+| 400 gp     | 2d4 × 10 sp, 2d4 gp, masterwork weapon, lesser minor potion                                                              |
+| 500 gp     | Masterwork weapon, greater minor potion                                                                                  |
+| 750 gp     | 6d6 gp, masterwork medium armor, masterwork weapon, two lesser minor potions                                             |
+| 1,000 gp   | Masterwork heavy armor                                                                                                   |
+| 1,500 gp   | Masterwork heavy armor, masterwork weapon, greater minor potion                                                          |
+| 2,000 gp   | Lesser minor armor, masterwork weapon, two greater minor potions                                                         |
+| 3,000 gp   | Masterwork medium armor, lesser minor weapon, greater minor potion                                                       |
+| 4,000 gp   | Lesser minor armor, masterwork weapon, lesser minor wondrous item, greater minor potion                                  |
+| 5,000 gp   | Masterwork medium armor, lesser minor weapon, lesser minor wondrous item, greater minor potion                           |
+| 6,000 gp   | Lesser minor armor, lesser minor weapon, lesser minor wondrous item                                                      |
+| 7,500 gp   | Greater minor armor, lesser minor weapon, lesser minor ring                                                              |
+| 10,000 gp  | Greater minor armor, lesser minor weapon, lesser minor ring, lesser minor wondrous item, three greater minor potions     |
+| 10,000 gp  | Greater minor armor, greater minor weapon, two greater medium potions                                                    |
+| 12,500 gp  | Greater minor armor, lesser minor weapon, greater minor wondrous item, two greater medium potions                        |
+| 15,000 gp  | Greater minor armor, greater minor weapon, greater minor ring                                                            |
+| 20,000 gp  | Lesser medium armor, greater minor weapon, greater minor wondrous item, two greater medium potions                       |
+| 25,000 gp  | Lesser medium armor, lesser medium weapon, lesser minor ring, lesser minor wondrous item, two greater medium potions     |
+| 30,000 gp  | Lesser medium armor, lesser medium weapon, two lesser minor rings, greater minor wondrous items                          |
+| 40,000 gp  | Lesser medium armor, lesser medium weapon, lesser medium ring, greater minor wondrous item, two greater medium potions   |
+| 50,000 gp  | Greater medium armor, greater medium weapon, lesser medium wondrous item, two lesser major potions                       |
+| 60,000 gp  | Greater medium armor, greater medium weapon, two greater minor rings, two greater minor wondrous items                   |
+| 75,000 gp  | Lesser major armor, greater medium weapon, greater minor ring, greater medium wondrous item, three greater major potions |
+| 100,000 gp | Lesser major armor, lesser major weapon, lesser medium ring, greater minor ring, two lesser medium wondrous items        |
 
 #### Type G Treasure, Spellcaster Gear
 
@@ -422,36 +424,36 @@ Treasure of this type represents the typical gear that might be carried by a spe
 
 **Table: Type G Treasure, Spellcaster Gear**
 
-| Value | Reward |
-| --- | --- |
-| 50 gp | 2d4 × 10 sp, 2d4 gp, lesser minor potion |
-| 75 gp | 2d4 gp, lesser minor potion, lesser minor scroll |
-| 100 gp | Lesser minor potion, two lesser minor scrolls |
-| 150 gp | Lesser minor scroll, greater minor scroll |
-| 200 gp | Two lesser minor potions, greater minor scroll |
-| 250 gp | Two greater minor scrolls |
-| 500 gp | Three lesser minor potions, three greater minor scrolls |
-| 750 gp | Greater minor potion, lesser minor wand |
-| 1,000 gp | 7d6 gp, three greater minor scrolls, lesser minor wand |
-| 1,500 gp | 3d6 × 10 gp, Lesser medium potion, lesser medium scroll, lesser minor wand |
-| 2,000 gp | 2d4 × 10 gp, masterwork weapon, two lesser medium scrolls, lesser minor wand |
-| 2,500 gp | Two greater medium potions, greater minor wand |
-| 3,000 gp | Greater medium potion, two lesser medium scrolls, greater minor wand |
-| 4,000 gp | Lesser minor wondrous item, greater medium potion, greater minor wand |
-| 5,000 gp | Lesser minor ring, lesser minor wondrous item, two lesser medium scrolls |
-| 6,000 gp | Lesser minor ring, lesser minor wondrous item, greater medium potion, greater minor wand |
-| 7,500 gp | Two greater medium potions, lesser minor scroll, lesser medium wand |
-| 10,000 gp | Lesser minor ring, lesser minor wondrous item, lesser medium wand |
-| 12,500 gp | Lesser minor ring, greater minor wondrous item, two greater medium scrolls, two greater minor wands |
-| 15,000 gp | Lesser minor ring, lesser medium rod, lesser medium wand |
-| 20,000 gp | Greater minor ring, greater minor wondrous item, greater medium potion, two greater medium scrolls, lesser medium wand |
-| 25,000 gp | Lesser minor ring, lesser medium wand, greater medium wand, greater minor wondrous item |
-| 30,000 gp | Greater minor ring, lesser medium wondrous item, lesser major scroll, greater medium wand |
-| 40,000 gp | Lesser minor weapon, lesser medium staff, greater medium rod, two lesser minor wondrous items, lesser medium wand |
-| 50,000 gp | Greater minor ring, two lesser medium wondrous items, lesser major potion, three greater medium scrolls, lesser major wand |
-| 60,000 gp | Lesser medium staff, greater medium rod, greater medium wondrous item, greater medium potion, two lesser major scrolls, lesser medium wand |
-| 75,000 gp | Lesser minor weapon, greater medium staff, greater medium wondrous item, three greater major scrolls, greater major wand |
-| 100,000 gp | Lesser major ring, greater medium rod, lesser major staff, lesser major scroll, greater medium wand |
+| Value      | Reward                                                                                                                                     |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 50 gp      | 2d4 × 10 sp, 2d4 gp, lesser minor potion                                                                                                   |
+| 75 gp      | 2d4 gp, lesser minor potion, lesser minor scroll                                                                                           |
+| 100 gp     | Lesser minor potion, two lesser minor scrolls                                                                                              |
+| 150 gp     | Lesser minor scroll, greater minor scroll                                                                                                  |
+| 200 gp     | Two lesser minor potions, greater minor scroll                                                                                             |
+| 250 gp     | Two greater minor scrolls                                                                                                                  |
+| 500 gp     | Three lesser minor potions, three greater minor scrolls                                                                                    |
+| 750 gp     | Greater minor potion, lesser minor wand                                                                                                    |
+| 1,000 gp   | 7d6 gp, three greater minor scrolls, lesser minor wand                                                                                     |
+| 1,500 gp   | 3d6 × 10 gp, Lesser medium potion, lesser medium scroll, lesser minor wand                                                                 |
+| 2,000 gp   | 2d4 × 10 gp, masterwork weapon, two lesser medium scrolls, lesser minor wand                                                               |
+| 2,500 gp   | Two greater medium potions, greater minor wand                                                                                             |
+| 3,000 gp   | Greater medium potion, two lesser medium scrolls, greater minor wand                                                                       |
+| 4,000 gp   | Lesser minor wondrous item, greater medium potion, greater minor wand                                                                      |
+| 5,000 gp   | Lesser minor ring, lesser minor wondrous item, two lesser medium scrolls                                                                   |
+| 6,000 gp   | Lesser minor ring, lesser minor wondrous item, greater medium potion, greater minor wand                                                   |
+| 7,500 gp   | Two greater medium potions, lesser minor scroll, lesser medium wand                                                                        |
+| 10,000 gp  | Lesser minor ring, lesser minor wondrous item, lesser medium wand                                                                          |
+| 12,500 gp  | Lesser minor ring, greater minor wondrous item, two greater medium scrolls, two greater minor wands                                        |
+| 15,000 gp  | Lesser minor ring, lesser medium rod, lesser medium wand                                                                                   |
+| 20,000 gp  | Greater minor ring, greater minor wondrous item, greater medium potion, two greater medium scrolls, lesser medium wand                     |
+| 25,000 gp  | Lesser minor ring, lesser medium wand, greater medium wand, greater minor wondrous item                                                    |
+| 30,000 gp  | Greater minor ring, lesser medium wondrous item, lesser major scroll, greater medium wand                                                  |
+| 40,000 gp  | Lesser minor weapon, lesser medium staff, greater medium rod, two lesser minor wondrous items, lesser medium wand                          |
+| 50,000 gp  | Greater minor ring, two lesser medium wondrous items, lesser major potion, three greater medium scrolls, lesser major wand                 |
+| 60,000 gp  | Lesser medium staff, greater medium rod, greater medium wondrous item, greater medium potion, two lesser major scrolls, lesser medium wand |
+| 75,000 gp  | Lesser minor weapon, greater medium staff, greater medium wondrous item, three greater major scrolls, greater major wand                   |
+| 100,000 gp | Lesser major ring, greater medium rod, lesser major staff, lesser major scroll, greater medium wand                                        |
 
 #### Type H Treasure, Lair Treasure
 
@@ -459,21 +461,21 @@ Rewards from this type of treasure represent the kinds of items that might be fo
 
 **Table: Type H Treasure, Lair Treasure**
 
-| Value | Reward |
-| --- | --- |
-| 500 gp | 4d4 × 100 cp, 3d6 × 10 sp, 2d4 × 10 gp, masterwork weapon, lesser minor potion, lesser minor scroll, grade 2 gemstone |
-| 1,000 gp | 2d4 × 100 cp, 2d6 × 100 sp, 6d6 gp, greater minor potion, greater minor scroll, lesser minor wand, three grade 1 gemstones |
-| 2,500 gp | 3d6 × 10 sp, 2d4 gp, masterwork heavy armor, masterwork weapon, two lesser medium potions, two greater minor scrolls, grade 2 gemstone |
-| 5,000 gp | 2d4 × 10 gp, 4d6 pp, masterwork weapon, lesser minor ring, greater medium potion, lesser medium scroll, greater minor wand |
-| 7,500 gp | 4d4 × 10 gp, 6d6 pp, lesser minor weapon, lesser minor wondrous item, two greater medium potions, greater minor wand, two grade 3 gemstones |
-| 10,000 gp | 4d8 × 10 gp, 6d10 pp, greater minor armor, lesser minor ring, lesser minor wondrous item, lesser medium scroll, greater minor wand, grade 4 gemstone |
-| 15,000 gp | 4d4 × 10 gp, 4d4 × 10 pp, greater minor armor, lesser minor wondrous item, two greater medium potions, two greater medium scrolls, lesser medium wand, one grade 3 gemstone |
-| 20,000 gp | 2d4 × 10 pp, greater minor ring, two lesser minor wondrous items, two greater medium potions, two lesser major scrolls, lesser medium wand |
-| 25,000 gp | 6d10 × 10 gp, 6d6 pp, lesser medium armor, lesser minor weapon, greater minor wondrous item, two lesser major scrolls, lesser medium wand, grade 4 gemstone |
-| 30,000 gp | 6d6 × 10 gp, 2d4 × 10 pp, greater minor weapon, lesser medium wondrous item, greater medium wand, three grade 3 gemstones |
-| 40,000 gp | 4d4 × 10 gp, 4d4 × 10 pp, lesser medium ring, lesser medium rod, two greater major potions, two lesser major scrolls, lesser major wand |
-| 50,000 gp | 4d4 × 10 pp, greater medium armor, lesser medium staff, lesser medium wondrous item, greater major scroll, lesser medium wand, grade 5 gemstone |
-| 75,000 gp | 2d8 × 100 gp, 4d4 × 10 pp, greater minor weapon, greater medium ring, greater medium staff, three greater major potions, greater major scroll, lesser major wand, grade 5 gemstone |
+| Value      | Reward                                                                                                                                                                                   |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 500 gp     | 4d4 × 100 cp, 3d6 × 10 sp, 2d4 × 10 gp, masterwork weapon, lesser minor potion, lesser minor scroll, grade 2 gemstone                                                                    |
+| 1,000 gp   | 2d4 × 100 cp, 2d6 × 100 sp, 6d6 gp, greater minor potion, greater minor scroll, lesser minor wand, three grade 1 gemstones                                                               |
+| 2,500 gp   | 3d6 × 10 sp, 2d4 gp, masterwork heavy armor, masterwork weapon, two lesser medium potions, two greater minor scrolls, grade 2 gemstone                                                   |
+| 5,000 gp   | 2d4 × 10 gp, 4d6 pp, masterwork weapon, lesser minor ring, greater medium potion, lesser medium scroll, greater minor wand                                                               |
+| 7,500 gp   | 4d4 × 10 gp, 6d6 pp, lesser minor weapon, lesser minor wondrous item, two greater medium potions, greater minor wand, two grade 3 gemstones                                              |
+| 10,000 gp  | 4d8 × 10 gp, 6d10 pp, greater minor armor, lesser minor ring, lesser minor wondrous item, lesser medium scroll, greater minor wand, grade 4 gemstone                                     |
+| 15,000 gp  | 4d4 × 10 gp, 4d4 × 10 pp, greater minor armor, lesser minor wondrous item, two greater medium potions, two greater medium scrolls, lesser medium wand, one grade 3 gemstone              |
+| 20,000 gp  | 2d4 × 10 pp, greater minor ring, two lesser minor wondrous items, two greater medium potions, two lesser major scrolls, lesser medium wand                                               |
+| 25,000 gp  | 6d10 × 10 gp, 6d6 pp, lesser medium armor, lesser minor weapon, greater minor wondrous item, two lesser major scrolls, lesser medium wand, grade 4 gemstone                              |
+| 30,000 gp  | 6d6 × 10 gp, 2d4 × 10 pp, greater minor weapon, lesser medium wondrous item, greater medium wand, three grade 3 gemstones                                                                |
+| 40,000 gp  | 4d4 × 10 gp, 4d4 × 10 pp, lesser medium ring, lesser medium rod, two greater major potions, two lesser major scrolls, lesser major wand                                                  |
+| 50,000 gp  | 4d4 × 10 pp, greater medium armor, lesser medium staff, lesser medium wondrous item, greater major scroll, lesser medium wand, grade 5 gemstone                                          |
+| 75,000 gp  | 2d8 × 100 gp, 4d4 × 10 pp, greater minor weapon, greater medium ring, greater medium staff, three greater major potions, greater major scroll, lesser major wand, grade 5 gemstone       |
 | 100,000 gp | 8d6 × 100 gp, 4d4 × 10 pp, lesser major ring, lesser major wondrous item, three greater major potions, greater major scroll, lesser medium wand, two grade 5 gemstones, grade 6 gemstone |
 
 #### Type I Treasure, Treasure Hoard
@@ -482,26 +484,26 @@ Rewards from this type of treasure represent the kinds of items that might be fo
 
 **Table: Type I Treasure, Treasure Hoard**
 
-| Value | Reward |
-| --- | --- |
-| 5,000 gp | 4d4 × 1,000 cp, 6d6 × 100 sp, 2d4 × 100 gp, 6d6 pp, lesser minor armor, greater minor wand, five grade 3 gemstones, grade 3 art object |
-| 10,000 gp | 4d4 × 1,000 cp, 6d6 × 100 sp, 2d4 × 100 gp, 6d6 pp, greater minor armor, lesser minor weapon, lesser minor wondrous item, greater medium scroll, grade 4 gemstone, grade 3 art object |
-| 15,000 gp | 2d4 × 1,000 cp, 6d4 × 100 sp, 3d6 × 10 gp, 6d6 pp, greater minor ring, two lesser minor wondrous items, two greater medium potions, greater minor wand, grade 4 gemstone, grade 3 art object |
-| 20,000 gp | 2d4 × 1,000 cp, 6d4 × 100 sp, 3d6 × 10 gp, 6d6 pp, greater minor armor, lesser medium rod, greater minor wondrous item, two lesser major potions, greater medium scroll, three grade 3 art objects |
-| 25,000 gp | 2d4 × 1,000 cp, 6d4 × 100 sp, 3d6 × 10 gp, 6d6 pp, lesser medium staff, two lesser minor wondrous items, greater medium potion, lesser medium wand, two grade 2 gemstones, two grade 3 gemstones, grade 4 gemstone |
-| 30,000 gp | 2d4 × 1,000 cp, 6d4 × 100 sp, 3d6 × 10 gp, 6d6 pp, lesser medium armor, greater minor weapon, lesser medium wondrous item, two lesser major scrolls, grade 4 art object |
-| 40,000 gp | 4d4 × 1,000 cp, 6d6 × 100 sp, 2d4 × 100 gp, 6d6 pp, lesser medium weapon, greater medium rod, greater major potion, greater medium scroll, lesser medium wand, three grade 3 art objects, two grade 4 art objects |
-| 50,000 gp | 4d4 × 10,000 cp, 6d6 × 1,000 sp, 4d4 × 100 gp, 2d4 × 10 pp, greater minor armor, two greater minor weapons, greater medium staff, greater minor wondrous item, grade 5 gemstone |
-| 60,000 gp | 2d4 × 10,000 cp, 2d4 × 1,000 sp, 2d4 × 100 gp, 2d4 × 10 pp, greater medium weapon, greater medium rod, lesser medium wondrous item, greater major scroll, two greater minor wands, grade 4 gemstone, five grade 2 art objects |
-| 75,000 gp | 2d4 × 10,000 cp, 2d4 × 1,000 sp, 2d4 × 100 gp, 2d4 × 10 pp, lesser major armor, greater medium ring, lesser medium staff, greater medium wand, grade 6 gemstone, grade 4 art object |
+| Value      | Reward                                                                                                                                                                                                                          |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 5,000 gp   | 4d4 × 1,000 cp, 6d6 × 100 sp, 2d4 × 100 gp, 6d6 pp, lesser minor armor, greater minor wand, five grade 3 gemstones, grade 3 art object                                                                                          |
+| 10,000 gp  | 4d4 × 1,000 cp, 6d6 × 100 sp, 2d4 × 100 gp, 6d6 pp, greater minor armor, lesser minor weapon, lesser minor wondrous item, greater medium scroll, grade 4 gemstone, grade 3 art object                                           |
+| 15,000 gp  | 2d4 × 1,000 cp, 6d4 × 100 sp, 3d6 × 10 gp, 6d6 pp, greater minor ring, two lesser minor wondrous items, two greater medium potions, greater minor wand, grade 4 gemstone, grade 3 art object                                    |
+| 20,000 gp  | 2d4 × 1,000 cp, 6d4 × 100 sp, 3d6 × 10 gp, 6d6 pp, greater minor armor, lesser medium rod, greater minor wondrous item, two lesser major potions, greater medium scroll, three grade 3 art objects                              |
+| 25,000 gp  | 2d4 × 1,000 cp, 6d4 × 100 sp, 3d6 × 10 gp, 6d6 pp, lesser medium staff, two lesser minor wondrous items, greater medium potion, lesser medium wand, two grade 2 gemstones, two grade 3 gemstones, grade 4 gemstone              |
+| 30,000 gp  | 2d4 × 1,000 cp, 6d4 × 100 sp, 3d6 × 10 gp, 6d6 pp, lesser medium armor, greater minor weapon, lesser medium wondrous item, two lesser major scrolls, grade 4 art object                                                         |
+| 40,000 gp  | 4d4 × 1,000 cp, 6d6 × 100 sp, 2d4 × 100 gp, 6d6 pp, lesser medium weapon, greater medium rod, greater major potion, greater medium scroll, lesser medium wand, three grade 3 art objects, two grade 4 art objects               |
+| 50,000 gp  | 4d4 × 10,000 cp, 6d6 × 1,000 sp, 4d4 × 100 gp, 2d4 × 10 pp, greater minor armor, two greater minor weapons, greater medium staff, greater minor wondrous item, grade 5 gemstone                                                 |
+| 60,000 gp  | 2d4 × 10,000 cp, 2d4 × 1,000 sp, 2d4 × 100 gp, 2d4 × 10 pp, greater medium weapon, greater medium rod, lesser medium wondrous item, greater major scroll, two greater minor wands, grade 4 gemstone, five grade 2 art objects   |
+| 75,000 gp  | 2d4 × 10,000 cp, 2d4 × 1,000 sp, 2d4 × 100 gp, 2d4 × 10 pp, lesser major armor, greater medium ring, lesser medium staff, greater medium wand, grade 6 gemstone, grade 4 art object                                             |
 | 100,000 gp | 2d4 × 10,000 cp, 2d4 × 1,000 sp, 2d4 × 100 gp, 2d4 × 10 pp, lesser medium weapon, greater medium ring, lesser major rod, greater medium wondrous item, two greater major potions, lesser medium scroll, two grade 4 art objects |
-| 125,000 gp | 4d4 × 10,000 cp, 6d6 × 1,000 sp, 4d4 × 100 gp, 2d8 × 10 pp, greater major armor, lesser medium weapon, lesser major staff, two greater major scrolls, greater major wand, grade 6 gemstone, three grade 4 art objects |
-| 150,000 gp | 4d4 × 10,000 cp, 6d6 × 1,000 sp, 4d4 × 100 gp, 2d8 × 10 pp, greater medium armor, lesser major ring, greater major wondrous item, greater major wand |
-| 200,000 gp | 4d4 × 10,000 cp, 6d6 × 1,000 sp, 4d4 × 100 gp, 2d8 × 10 pp, greater major weapon, two lesser medium rings, lesser major staff, lesser major wondrous item, lesser major wand, three grade 5 gemstones, grade 4 gemstone |
-| 300,000 gp | 8d4 × 10,000 cp, 12d6 × 1,000 sp, 8d4 × 100 gp, 2d8 × 10 pp, greater major weapon, lesser major ring, greater major staff, greater major wondrous item, greater medium wand, grade 6 gemstone, grade 6 art object |
+| 125,000 gp | 4d4 × 10,000 cp, 6d6 × 1,000 sp, 4d4 × 100 gp, 2d8 × 10 pp, greater major armor, lesser medium weapon, lesser major staff, two greater major scrolls, greater major wand, grade 6 gemstone, three grade 4 art objects           |
+| 150,000 gp | 4d4 × 10,000 cp, 6d6 × 1,000 sp, 4d4 × 100 gp, 2d8 × 10 pp, greater medium armor, lesser major ring, greater major wondrous item, greater major wand                                                                            |
+| 200,000 gp | 4d4 × 10,000 cp, 6d6 × 1,000 sp, 4d4 × 100 gp, 2d8 × 10 pp, greater major weapon, two lesser medium rings, lesser major staff, lesser major wondrous item, lesser major wand, three grade 5 gemstones, grade 4 gemstone         |
+| 300,000 gp | 8d4 × 10,000 cp, 12d6 × 1,000 sp, 8d4 × 100 gp, 2d8 × 10 pp, greater major weapon, lesser major ring, greater major staff, greater major wondrous item, greater medium wand, grade 6 gemstone, grade 6 art object               |
 
 ### Rewards
 
 The rewards name what to roll. Coins are the dice shown. Gemstones and art objects are rolled by grade on [[rangoric-srd/rules/treasure-generator/Random Gems and Art Objects|Random Gems and Art Objects]]; potions and oils on [[rangoric-srd/rules/treasure-generator/Random Potions and Oils|Random Potions and Oils]]; scrolls on [[rangoric-srd/rules/treasure-generator/Random Arcane Scrolls|Random Arcane Scrolls]] and [[rangoric-srd/rules/treasure-generator/Random Divine Scrolls|Random Divine Scrolls]]; wands on [[rangoric-srd/rules/treasure-generator/Random Wands|Random Wands]]; the kind of armor, shield or weapon on [[rangoric-srd/rules/treasure-generator/Random Armor and Weapons|Random Armor and Weapons]], with the enhancement from [[rangoric-srd/magic-items/Magic Armor and Weapons|Magic Armor and Weapons]]; wondrous items on [[rangoric-srd/magic-items/Wondrous Items by Slot|Wondrous Items by Slot]]; and rings, rods and staves on [[rangoric-srd/magic-items/Magic Potions, Rings, and Rods|Magic Potions, Rings, and Rods]] and [[rangoric-srd/magic-items/Magic Scrolls, Staffs, and Wands|Magic Scrolls, Staffs, and Wands]].
 
-*Rangoric’s [[rangoric-srd/rules/Treasure|Treasure]] has its own tables for the same rewards (its Treasure, Gems and Art Objects tables, and the tables in Magic Scrolls, Staffs, and Wands, Magic Armor and Weapons and Expanded Random Magic Arms and Armor). Use either: the Generator’s rewards resolve inside its own tables, and Treasure’s tables stay as they are.*
+_Rangoric’s [[rangoric-srd/rules/Treasure|Treasure]] has its own tables for the same rewards (its Treasure, Gems and Art Objects tables, and the tables in Magic Scrolls, Staffs, and Wands, Magic Armor and Weapons and Expanded Random Magic Arms and Armor). Use either: the Generator’s rewards resolve inside its own tables, and Treasure’s tables stay as they are._

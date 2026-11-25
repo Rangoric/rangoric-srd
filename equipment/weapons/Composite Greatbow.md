@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/bows]
 
 # Composite Greatbow
 
-*Exotic ranged weapon.* Cost 325 gp; Dmg 1d8 (S), 1d10 (M); Critical x3; Range Increment 100 ft.; Weight 5 lb.; Type Piercing. ^stats
+_Exotic ranged weapon._ Cost 325 gp; Dmg 1d8 (S), 1d10 (M); Critical x3; Range Increment 100 ft.; Weight 5 lb.; Type Piercing. ^stats
 
 Composite greatbows follow all of the normal rules for composite bows, including strength ratings. For purposes of weapon proficiency and similar feats, a composite greatbow is treated as a greatbow. For example, if a character has Weapon Focus (Greatbow), that feat applies to both greatbow and composite greatbow.

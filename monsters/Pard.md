@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Pard
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 4d10+4 (26 hp)
-  - **Initiative**: +7
-  - **Speed**: 120 ft. (24 squares)
-  - **Armor Class**: 20 (+7 Dex, +1 dodge, +2 natural), touch 18, flat-footed 12
-  - **Base Attack**: +4; **CMB**: +6; **CMD**: 24 (28 vs. trip)
-  - **Attack**: Bite +12 melee (1d6+2) or claw +7 melee (1d4+1)
-  - **Full Attack**: Bite +12 melee (1d6+2) and 2 claws +7 melee (1d4+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Phasing Attack|Phasing attack]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] empathy) 60 ft., evasion, improved uncanny dodge, uncanny dodge, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10 and fire 10
-  - **Saves**: Fort +5, Ref +11, Will +2
-  - **Abilities**: Str 15, Dex 24, Con 12, Int 4, Wis 13, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +2 (+14 jumping), [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +15
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Wind Stance|Wind Stance]]
-  - **Environment**: Temperate or warm forests or plains
-  - **Organization**: Solitary, pair, or den (1–2 adults and 1–4 cubs)
-  - **Challenge Rating**: 3
-  - **Treasure**: Incidental
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 4d10+4 (26 hp)
+- **Initiative**: +7
+- **Speed**: 120 ft. (24 squares)
+- **Armor Class**: 20 (+7 Dex, +1 dodge, +2 natural), touch 18, flat-footed 12
+- **Base Attack**: +4; **CMB**: +6; **CMD**: 24 (28 vs. trip)
+- **Attack**: Bite +12 melee (1d6+2) or claw +7 melee (1d4+1)
+- **Full Attack**: Bite +12 melee (1d6+2) and 2 claws +7 melee (1d4+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Phasing Attack|Phasing attack]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] empathy) 60 ft., evasion, improved uncanny dodge, uncanny dodge, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10 and fire 10
+- **Saves**: Fort +5, Ref +11, Will +2
+- **Abilities**: Str 15, Dex 24, Con 12, Int 4, Wis 13, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +2 (+14 jumping), [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +15
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Wind Stance|Wind Stance]]
+- **Environment**: Temperate or warm forests or plains
+- **Organization**: Solitary, pair, or den (1–2 adults and 1–4 cubs)
+- **Challenge Rating**: 3
+- **Treasure**: Incidental
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Pards are alien catlike creatures known for their unnatural swiftness. They have sleek, short-furred bodies and long legs built for speed. Their color and markings vary widely, even among members of the same family, ranging through every color imaginable, with some bearing stripes, others spots, and a few solid-colored coats. Adult pards are 6 feet long and weigh 100 pounds.
 

@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/flails]
 
 # Four-Section Sickle
 
-*Exotic two-handed melee weapon (disarm, trip).* Cost 12 gp; Dmg 1d6 (S), 2d4 (M); Critical x3; Weight 11 lb.; Type Bludgeoning or slashing. ^stats
+_Exotic two-handed melee weapon (disarm, trip)._ Cost 12 gp; Dmg 1d6 (S), 2d4 (M); Critical x3; Weight 11 lb.; Type Bludgeoning or slashing. ^stats
 
-(*Si Jie Tang*): The four-section sickle consists of four wooden rods, each connected by a short chain. The end of the last rod has a pair of wavy sickle-like blades affixed. The four-section sickle requires two hands to use and is considered a double weapon. One can fight with it as if fighting with two weapons, incurring all of the normal attack penalties associated with fighting with two weapons (although the off-hand weapon is considered light). The wielder can also make trip or disarm attacks with the four-section sickle, and if tripped during a trip attempt, he can drop the weapon to avoid being tripped himself.
+(_Si Jie Tang_): The four-section sickle consists of four wooden rods, each connected by a short chain. The end of the last rod has a pair of wavy sickle-like blades affixed. The four-section sickle requires two hands to use and is considered a double weapon. One can fight with it as if fighting with two weapons, incurring all of the normal attack penalties associated with fighting with two weapons (although the off-hand weapon is considered light). The wielder can also make trip or disarm attacks with the four-section sickle, and if tripped during a trip attempt, he can drop the weapon to avoid being tripped himself.

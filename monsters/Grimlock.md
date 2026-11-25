@@ -37,28 +37,28 @@ tags: [rangoric, rangoric/monster]
 
 # Grimlock
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
-  - **Hit Dice**: 2d8+2 (11 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 15 (+1 Dex, +4 natural), touch 11, flat-footed 14
-  - **Base Attack**: +2; **CMB**: +4; **CMD**: 15
-  - **Attack**: Battleaxe +4 melee (1d8+3/x3)
-  - **Full Attack**: Battleaxe +4 melee (1d8+3/x3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 40 ft., immunities, [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +1, Ref +4, Will +2
-  - **Abilities**: Str 15, Dex 13, Con 13, Int 10, Wis 8, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +1\*
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Track|Track (B)]]
-  - **Environment**: Underground
-  - **Organization**: Gang (2–4), pack (10–20), tribe (10–60 plus 1 leader of 3rd–5th level per 10 adults).
-  - **Challenge Rating**: 1
-  - **Treasure**: Standard coins; standard goods (gems only); standard items
-  - **Alignment**: Often neutral evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: +2
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
+- **Hit Dice**: 2d8+2 (11 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 15 (+1 Dex, +4 natural), touch 11, flat-footed 14
+- **Base Attack**: +2; **CMB**: +4; **CMD**: 15
+- **Attack**: Battleaxe +4 melee (1d8+3/x3)
+- **Full Attack**: Battleaxe +4 melee (1d8+3/x3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 40 ft., immunities, [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +1, Ref +4, Will +2
+- **Abilities**: Str 15, Dex 13, Con 13, Int 10, Wis 8, Cha 6
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +1\*
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Track|Track (B)]]
+- **Environment**: Underground
+- **Organization**: Gang (2–4), pack (10–20), tribe (10–60 plus 1 leader of 3rd–5th level per 10 adults).
+- **Challenge Rating**: 1
+- **Treasure**: Standard coins; standard goods (gems only); standard items
+- **Alignment**: Often neutral evil
+- **Advancement**: By character class
+- **Level Adjustment**: +2
 
 ### Combat
 
@@ -76,24 +76,24 @@ Grimlocks are susceptible to sound- and scent-based attacks, however, and are af
 
 Grimlock characters possess the following racial traits.
 
-  - \+4 Strength, +2 Dexterity, +2 Constitution, –2 Wisdom, –4 Charisma.
+- \+4 Strength, +2 Dexterity, +2 Constitution, –2 Wisdom, –4 Charisma.
 
-  - Medium size.
+- Medium size.
 
-  - A grimlock’s base land speed is 30 feet.
+- A grimlock’s base land speed is 30 feet.
 
-  - Racial Hit Dice: A grimlock begins with two levels of monstrous humanoid, which provide 2d8 Hit Dice, a base attack bonus of +2, and base saving throw bonuses of Fort +0, Ref +3, and Will +3.
+- Racial Hit Dice: A grimlock begins with two levels of monstrous humanoid, which provide 2d8 Hit Dice, a base attack bonus of +2, and base saving throw bonuses of Fort +0, Ref +3, and Will +3.
 
-  - Racial Skills: A grimlock’s monstrous humanoid levels give it skill points equal to 2 x (2 + Int modifier, minimum 1). Its class skills are [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Perception|Perception]], and [[rangoric-srd/skills/Stealth|Stealth]]. Grimlocks gain a +10 racial bonus on Stealth checks in mountain or underground settings.
+- Racial Skills: A grimlock’s monstrous humanoid levels give it skill points equal to 2 x (2 + Int modifier, minimum 1). Its class skills are [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Perception|Perception]], and [[rangoric-srd/skills/Stealth|Stealth]]. Grimlocks gain a +10 racial bonus on Stealth checks in mountain or underground settings.
 
-  - Racial Feats: A grimlock’s monstrous humanoid levels give it one feat.
+- Racial Feats: A grimlock’s monstrous humanoid levels give it one feat.
 
-  - Weapon Proficiency: A grimlock is automatically proficient with the battleaxe.
+- Weapon Proficiency: A grimlock is automatically proficient with the battleaxe.
 
-  - \+4 natural armor bonus.
+- \+4 natural armor bonus.
 
-  - Special Qualities (see above): [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 40 ft., immunities, [[rangoric-srd/monsters/abilities/Scent|scent]].
+- Special Qualities (see above): [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 40 ft., immunities, [[rangoric-srd/monsters/abilities/Scent|scent]].
 
-  - Automatic Languages: Common, Grimlock. Bonus Languages: Draconic, Dwarven, Gnome, Terran, Undercommon.
+- Automatic Languages: Common, Grimlock. Bonus Languages: Draconic, Dwarven, Gnome, Terran, Undercommon.
 
-  - Level adjustment +2.
+- Level adjustment +2.

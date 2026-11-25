@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Overbearing Advance
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 While raging, the barbarian inflicts damage equal to her Strength bonus whenever she succeeds at an [[rangoric-srd/combat/Combat Maneuvers|overrun]] combat maneuver.

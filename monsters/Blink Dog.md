@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Blink Dog
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 3d10+6 (22 hp)
-  - **Initiative**: +2
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 14 (+2 Dex, +2 natural), touch 12, flat-footed 12
-  - **Base Attack**: +3; **CMB**: +4; **CMD**: 16 (20 vs. trip)
-  - **Attack**: Bite +4 melee (1d6+1)
-  - **Full Attack**: Bite +4 melee (1d6+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +5, Ref +5, Will +4
-  - **Abilities**: Str 12, Dex 15, Con 14, Int 10, Wis 13, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +2 (+6 scent tracking), [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +7
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Iron Will|Iron Will]]
-  - **Environment**: Temperate plains or forests
-  - **Organization**: Solitary, pair, or pack (3–14)
-  - **Challenge Rating**: 2
-  - **Treasure**: Incidental
-  - **Alignment**: Usually lawful good
-  - **Advancement**: 5–7 HD (Medium); 8–12 HD (Large)
-  - **Level Adjustment**: +2 (cohort)
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 3d10+6 (22 hp)
+- **Initiative**: +2
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 14 (+2 Dex, +2 natural), touch 12, flat-footed 12
+- **Base Attack**: +3; **CMB**: +4; **CMD**: 16 (20 vs. trip)
+- **Attack**: Bite +4 melee (1d6+1)
+- **Full Attack**: Bite +4 melee (1d6+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +5, Ref +5, Will +4
+- **Abilities**: Str 12, Dex 15, Con 14, Int 10, Wis 13, Cha 11
+- **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +2 (+6 scent tracking), [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +7
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Iron Will|Iron Will]]
+- **Environment**: Temperate plains or forests
+- **Organization**: Solitary, pair, or pack (3–14)
+- **Challenge Rating**: 2
+- **Treasure**: Incidental
+- **Alignment**: Usually lawful good
+- **Advancement**: 5–7 HD (Medium); 8–12 HD (Large)
+- **Level Adjustment**: +2 (cohort)
 
 Though they resemble sleek, long-eared canines, blink dogs are as smart as humans. As social creatures, blink dogs travel in large packs, roaming forests and plains, running off evil creatures, and hunting for phase spiders—one of their natural enemies. Despite their intelligence and friendly natures, blink dogs tend to avoid humanoids, keeping their packs either hidden or frequently on the move. This shyness doesn't keep the blink dogs from helping out when needed, however, and they have been known to come to the rescue of a prairie village in their territory. Packs are typically led by an older, experienced male or female, called an alpha.
 
@@ -78,4 +78,4 @@ Blink Dogs speak Sylvan.
 
 Blink dogs hunt in packs, teleporting in a seemingly random fashion until they surround their prey, allowing some of them to take advantage of flanking.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +7): Constant—*[[rangoric-srd/spells/Blink|blink]]*; At will-quickened *[[rangoric-srd/spells/Dimension Door|dimension door]]* (self only).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +7): Constant—_[[rangoric-srd/spells/Blink|blink]]_; At will-quickened _[[rangoric-srd/spells/Dimension Door|dimension door]]_ (self only).

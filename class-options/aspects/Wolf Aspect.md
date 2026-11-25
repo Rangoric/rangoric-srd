@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Wolf Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the wolf provides the senses and the attacks of the mighty wolf, whose instincts are honed to track and take down its prey.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the wolf provides the senses and the attacks of the mighty wolf, whose instincts are honed to track and take down its prey._
 
 **Minor Form**: You gain the [[rangoric-srd/rules/Special Abilities and Conditions#Scent|scent]] ability with a range of 10 feet, or, if you have the scent ability, the range increases by 10 feet.
 

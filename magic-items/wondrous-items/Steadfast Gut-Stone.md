@@ -27,4 +27,4 @@ When a gut-stone is damaged by a melee weapon attack, as a free action its owner
 
 Only one gut-stone may be in a creature's body at a time. Any attempt to swallow a second destroys both stones and forces the creature to make a DC 15 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1 round. If a gut-stone is not used within a week of being swallowed or is destroyed it crumbles apart and is passed harmlessly out of the body.
 
-Faint abjuration; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Magic Stone|magic stone]]*, *[[rangoric-srd/spells/Shield Other|shield other]]*; Price 800 gp; Cost 400 gp; Weight 2 lbs.
+Faint abjuration; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Magic Stone|magic stone]]_, _[[rangoric-srd/spells/Shield Other|shield other]]_; Price 800 gp; Cost 400 gp; Weight 2 lbs.

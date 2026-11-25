@@ -66,7 +66,7 @@ Class features you can retrain are as follows (some entries also call out other 
 
 **Cavalier**: You can change your order; the rules for this are in the [[rangoric-srd/classes/Cavalier|cavalier]] class. See also retraining feats.
 
-**Cleric**: Retrain one domain; the new domain must be one granted by your deity. Doing so replaces your list of domain spells and your domain granted powers. If you are a neutral cleric of a neutral deity, you can instead retrain whether you channel positive or negative energy, which also changes whether you spontaneously cast *cure* spells or *inflict* spells.
+**Cleric**: Retrain one domain; the new domain must be one granted by your deity. Doing so replaces your list of domain spells and your domain granted powers. If you are a neutral cleric of a neutral deity, you can instead retrain whether you channel positive or negative energy, which also changes whether you spontaneously cast _cure_ spells or _inflict_ spells.
 
 **Druid**: Retrain your nature's bond, replacing your domain with an animal companion or vice versa. You can instead retrain one domain; the new domain must be available to your class or archetype. Doing so replaces your list of domain spells and your domain granted powers.
 
@@ -82,7 +82,7 @@ Class features you can retrain are as follows (some entries also call out other 
 
 **Ninja**: Retrain one ninja trick or master trick.
 
-**Oracle**: Retrain one revelation. You can instead retrain whether you add all *cure* spells or all *inflict* spells to your spell list. See also retraining spells known.
+**Oracle**: Retrain one revelation. You can instead retrain whether you add all _cure_ spells or all _inflict_ spells to your spell list. See also retraining spells known.
 
 **Paladin**: Retrain one mercy, or retrain your divine bond, replacing your bonded weapon with a bonded mount or vice versa.
 
@@ -125,7 +125,7 @@ Most prestige classes have retraining synergy with base classes that share their
 **Table: Retraining Synergies**
 
 | Old Class  | New Class                                                            |
-|------------|----------------------------------------------------------------------|
+| ---------- | -------------------------------------------------------------------- |
 | Alchemist  | Magus, rogue, witch, wizard                                          |
 | Barbarian  | Cavalier, fighter, ranger                                            |
 | Bard       | Oracle, rogue, sorcerer                                              |

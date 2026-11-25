@@ -22,4 +22,4 @@ Only paladins can utilize the full ability of items with this enchantment. Such 
 
 Paladins wearing (or using) these items gain divine assistance when healing others with their [[rangoric-srd/classes/Paladin|lay on hands]] power (an additional 1d8 points is added per use). Also, the paladin gains a +1 sacred bonus to all saving throws as long as he is wearing (or wielding) the item. Lastly, armors and shields with the solace enchantment also prevent a paladin, if he should perish while wearing them, from becoming undead.
 
-Strong enchantment; CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Consecrate|consecrate]]*, *[[rangoric-srd/spells/Heal (Spell)|heal]]*; Price +2 bonus.
+Strong enchantment; CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Consecrate|consecrate]]_, _[[rangoric-srd/spells/Heal (Spell)|heal]]_; Price +2 bonus.

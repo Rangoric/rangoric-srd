@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 The longer the wearer of these boots stays in one place—as long as that place is on solid ground—the harder it is to move her from that place. The wearer gains a cumulative +1 circumstance bonus to her CMD (maximum of +10) for each round she does not move from her space.
 
-Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Elemental Body I|elemental body I]]*; Price 8,000 gp; Cost 4,000 gp; Weight 2 lbs.
+Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Elemental Body I|elemental body I]]_; Price 8,000 gp; Cost 4,000 gp; Weight 2 lbs.

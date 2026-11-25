@@ -29,6 +29,6 @@ Psychoportation
 **Duration:** 1 min./level (D)  
 **Saving Throw:** None  
 **Power Resistance:** Yes (harmless)  
-**Power Points:** 17  
+**Power Points:** 17
 
 As the [[rangoric-srd/spells/Etherealness|etherealness]] spell, except as noted here.

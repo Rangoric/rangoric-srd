@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Onmyoji
 
-*A [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-archetypes|spiritualist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-archetypes|spiritualist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 An onmyoji calls her phantom through years of study in obscure divine traditions, and treats it as a partner and a tool in her work between the mundane and spirit worlds.
 

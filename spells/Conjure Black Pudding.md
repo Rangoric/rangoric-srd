@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Conjure Black Pudding
 
-*Conjuration (Summoning) \[Acid\]*
+_Conjuration (Summoning) \[Acid\]_
 
-  - **Level**: Psy 6, Sor/Wiz 6, Sum 5, SumU 5
-  - **Components**: V, S, M (a flask of acid worth 10 gp)
-  - **Casting Time**: 1 round
-  - **Range**: Close (25 ft. + 5 ft./2 level)
-  - **Effect**: One summoned black pudding
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Psy 6, Sor/Wiz 6, Sum 5, SumU 5
+- **Components**: V, S, M (a flask of acid worth 10 gp)
+- **Casting Time**: 1 round
+- **Range**: Close (25 ft. + 5 ft./2 level)
+- **Effect**: One summoned black pudding
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You summon a black pudding that immediately attacks creatures near it. You have no control over the creature, and it may attack you if there are no more obvious opponents. The black pudding is treated as a summoned creature and has the extraplanar subtype. The black pudding's split ability works normally, but all puddings derived from the summoned one disappear when the spell ends.

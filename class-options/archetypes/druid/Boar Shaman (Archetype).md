@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Boar Shaman
 
-*A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A boar shaman chooses the stolid and ferocious boar as her totem. Content to be left alone, she becomes one of the most dangerous creatures of the wild when provoked.
 
@@ -29,9 +29,9 @@ A boar shaman chooses the stolid and ferocious boar as her totem. Content to be 
 
 **Wild Empathy (Ex)**: A boar shaman can use [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] with porcine creatures as a full-round action with a +4 bonus.
 
-**Totem Transformation (Su)**: At 2nd level, a boar shaman may adopt an aspect of the boar while retaining her normal form. This ability functions as the [[rangoric-srd/class-options/archetypes/druid/Ape Shaman (Archetype)|ape shaman ability]], but the druid may select from the following sets of bonuses and abilities: movement (+10 enhancement bonus to land speed), senses ([[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Scent|scent]]), natural weapons (gore \[1d8 for a Medium druid\], +2 on [[rangoric-srd/combat/Combat Maneuvers|combat maneuver checks]] to [[rangoric-srd/combat/Combat Maneuvers#Overrun|overrun]]), or toughness (+2 natural armor bonus to AC, [[rangoric-srd/feats/Endurance|Endurance]] feat). While using totem transformation, the boar shaman may speak normally and can cast *[[rangoric-srd/spells/Speak with Animals|speak with animals]]* (boars and related animals only) at will. This ability replaces [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]].
+**Totem Transformation (Su)**: At 2nd level, a boar shaman may adopt an aspect of the boar while retaining her normal form. This ability functions as the [[rangoric-srd/class-options/archetypes/druid/Ape Shaman (Archetype)|ape shaman ability]], but the druid may select from the following sets of bonuses and abilities: movement (+10 enhancement bonus to land speed), senses ([[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Scent|scent]]), natural weapons (gore \[1d8 for a Medium druid\], +2 on [[rangoric-srd/combat/Combat Maneuvers|combat maneuver checks]] to [[rangoric-srd/combat/Combat Maneuvers#Overrun|overrun]]), or toughness (+2 natural armor bonus to AC, [[rangoric-srd/feats/Endurance|Endurance]] feat). While using totem transformation, the boar shaman may speak normally and can cast _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_ (boars and related animals only) at will. This ability replaces [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]].
 
-**Totemic Summons (Su)**: At 5th level, a boar shaman may cast *[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature's ally]]* as a standard action when summoning boars or other porcine creatures, and these summoned creatures gain temporary hit points equal to her druid level. This ability otherwise functions as the [[rangoric-srd/class-options/archetypes/druid/Ape Shaman (Archetype)|ape shaman ability]].
+**Totemic Summons (Su)**: At 5th level, a boar shaman may cast _[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature's ally]]_ as a standard action when summoning boars or other porcine creatures, and these summoned creatures gain temporary hit points equal to her druid level. This ability otherwise functions as the [[rangoric-srd/class-options/archetypes/druid/Ape Shaman (Archetype)|ape shaman ability]].
 
 **Wild Shape (Su)**: At 6th level, a boar shaman's [[rangoric-srd/classes/Druid#^druid-wild-shape|wild shape]] ability functions at her druid level –2. If she takes on the form of a boar, she instead uses her druid level +2.
 

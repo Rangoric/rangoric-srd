@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Truesight Goggles
 
-These goggles, constructed of a pair of perfect prisms held in place by golden frames and affixed to the head by a black leather strap, grants the wearer *[[rangoric-srd/spells/True Seeing|true seeing]]* continuously. Furthermore, once per day on command, the wearer can use *[[rangoric-srd/spells/Analyze Dweomer|analyze dweomer]]* as the spell.
+These goggles, constructed of a pair of perfect prisms held in place by golden frames and affixed to the head by a black leather strap, grants the wearer _[[rangoric-srd/spells/True Seeing|true seeing]]_ continuously. Furthermore, once per day on command, the wearer can use _[[rangoric-srd/spells/Analyze Dweomer|analyze dweomer]]_ as the spell.
 
-Strong divination; CL 11th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Analyze Dweomer|analyze dweomer]]*, *[[rangoric-srd/spells/True Seeing|true seeing]]*; Price 184,800 gp; Cost 92,400 gp.
+Strong divination; CL 11th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Analyze Dweomer|analyze dweomer]]_, _[[rangoric-srd/spells/True Seeing|true seeing]]_; Price 184,800 gp; Cost 92,400 gp.

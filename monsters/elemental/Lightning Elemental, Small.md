@@ -40,25 +40,25 @@ tags: [rangoric, rangoric/monster]
 
 # Lightning Elemental, Small
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Air, Elemental, Extraplanar)
-  - **Hit Dice**: 2d10 (11 hp)
-  - **Initiative**: +6
-  - **Speed**: fly 100 ft. (perfect)
-  - **Armor Class**: 14 (+2 Dex, +1 natural, +1 size), touch 13, flat-footed 12
-  - **Base Attack**: +2; **CMB**: +1; **CMD**: 13
-  - **Attack**: Slam +5 melee (1d4 plus 1d3 electricity)
-  - **Full Attack**: Slam +5 melee (1d4 plus 1d3 electricity)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/elemental/Lightning Elemental#^metal-mastery|Metal mastery]], [[rangoric-srd/monsters/elemental/Lightning Elemental#^spark-leap|spark leap]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-  - **Saves**: Fort +3, Ref +5, Will +0
-  - **Abilities**: Str 10, Dex 15, Con 10, Int 4, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +6, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Theology|Theology]] +1
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any (Elemental Plane of Air)
-  - **Organization**: Solitary, pair, or gang (3–8)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Air, Elemental, Extraplanar)
+- **Hit Dice**: 2d10 (11 hp)
+- **Initiative**: +6
+- **Speed**: fly 100 ft. (perfect)
+- **Armor Class**: 14 (+2 Dex, +1 natural, +1 size), touch 13, flat-footed 12
+- **Base Attack**: +2; **CMB**: +1; **CMD**: 13
+- **Attack**: Slam +5 melee (1d4 plus 1d3 electricity)
+- **Full Attack**: Slam +5 melee (1d4 plus 1d3 electricity)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/elemental/Lightning Elemental#^metal-mastery|Metal mastery]], [[rangoric-srd/monsters/elemental/Lightning Elemental#^spark-leap|spark leap]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
+- **Saves**: Fort +3, Ref +5, Will +0
+- **Abilities**: Str 10, Dex 15, Con 10, Int 4, Wis 11, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +6, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Theology|Theology]] +1
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any (Elemental Plane of Air)
+- **Organization**: Solitary, pair, or gang (3–8)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —

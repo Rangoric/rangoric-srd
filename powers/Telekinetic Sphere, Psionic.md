@@ -33,6 +33,6 @@ Psychokinesis \[Force\]
 **Duration:** 1 min./level (D)  
 **Saving Throw:** Reflex negates (object)  
 **Power Resistance:** Yes (object)  
-**Power Points:** 15  
+**Power Points:** 15
 
 As the [[rangoric-srd/spells/Telekinetic Sphere|telekinetic sphere]] spell, except as noted here.

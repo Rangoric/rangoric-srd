@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Bodak
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Extraplanar)
-  - **Hit Dice**: 10d8+40 (85 hp)
-  - **Initiative**: +6
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 21 (+2 Dex, +1 dodge, +8 natural), touch 13, flat-footed 18
-  - **Base Attack**: +7; **CMB**: +8; **CMD**: 21
-  - **Attack**: Slam +9 melee (1d8+1)
-  - **Full Attack**: 2 slams +9 melee (1d8+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Death [[rangoric-srd/monsters/abilities/Gaze|gaze]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and fire 10, vulnerability to sunlight
-  - **Saves**: Fort +6, Ref +5, Will +8
-  - **Abilities**: Str 13, Dex 15, Con —, Int 6, Wis 13, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
-  - **Environment**: Any land (an evil-aligned plane)
-  - **Organization**: Solitary, pair, or gang (3–4)
-  - **Challenge Rating**: 8
-  - **Treasure**: None
-  - **Alignment**: Always chaotic evil
-  - **Advancement**: 10–13 HD (Medium); 14–27 HD (Large)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Extraplanar)
+- **Hit Dice**: 10d8+40 (85 hp)
+- **Initiative**: +6
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 21 (+2 Dex, +1 dodge, +8 natural), touch 13, flat-footed 18
+- **Base Attack**: +7; **CMB**: +8; **CMD**: 21
+- **Attack**: Slam +9 melee (1d8+1)
+- **Full Attack**: 2 slams +9 melee (1d8+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Death [[rangoric-srd/monsters/abilities/Gaze|gaze]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and fire 10, vulnerability to sunlight
+- **Saves**: Fort +6, Ref +5, Will +8
+- **Abilities**: Str 13, Dex 15, Con —, Int 6, Wis 13, Cha 16
+- **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
+- **Environment**: Any land (an evil-aligned plane)
+- **Organization**: Solitary, pair, or gang (3–4)
+- **Challenge Rating**: 8
+- **Treasure**: None
+- **Alignment**: Always chaotic evil
+- **Advancement**: 10–13 HD (Medium); 14–27 HD (Large)
+- **Level Adjustment**: —
 
 When mortal humanoids find themselves exposed to profound, supernatural evil, a horrific, occult transformation can strip them of their souls and damn them to the tortured existence of a bodak. Changed into a twisted, misanthropic husk, a bodak wanders the endless tracts of evil-aligned planes, periodically stumbling into other realms by passing through portals or otherwise being conjured elsewhere. Possessing only fragmented memories of its former existence, the bodak is driven by profound emptiness, sorrowful longing, and vengeful hatred of all life.
 
@@ -71,7 +71,7 @@ Bodaks vehemently despise all living creatures and immediately seek to destroy a
 
 Bodaks are rarely encountered outside of the evil-aligned planes. As they are slow-witted, powerful evil creatures such as liches and [[rangoric-srd/monsters/demon/Nabasu|nabasu demons]] sometimes use bodaks as thralls, assassins, or guardians. Bodaks encountered on the Material Plane exude extreme malevolence when forced to confront the realization of their abhorrent transformations. So great is their desire to inflict their fate upon others that many attempt to drag off the bodies of their slain victims and guard them until they rise as undead.
 
-A 20th-level spellcaster can use *[[rangoric-srd/spells/Create Greater Undead|create greater undead]]* to create a bodak, but only if the spell is cast while the spellcaster is located on one of the evil outer planes.
+A 20th-level spellcaster can use _[[rangoric-srd/spells/Create Greater Undead|create greater undead]]_ to create a bodak, but only if the spell is cast while the spellcaster is located on one of the evil outer planes.
 
 ### Combat
 

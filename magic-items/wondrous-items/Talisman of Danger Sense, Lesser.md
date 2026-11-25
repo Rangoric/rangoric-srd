@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/magic-item]
 
 A talisman works as described under [[rangoric-srd/magic-items/Magic Item Basics#^talismans|Talismans]] in the rules for magic items on the body. A lesser talisman has only enough magic to protect its wearer once, after which it crumbles to dust.
 
-The first time the wearer rolls initiative, she is immediately affected by *[[rangoric-srd/spells/Anticipate Peril|anticipate peril]]*.
+The first time the wearer rolls initiative, she is immediately affected by _[[rangoric-srd/spells/Anticipate Peril|anticipate peril]]_.
 
-Faint divination; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Anticipate Peril|anticipate peril]]*; Price 750 gp; Cost 375 gp; Weight 1 lb.
+Faint divination; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Anticipate Peril|anticipate peril]]_; Price 750 gp; Cost 375 gp; Weight 1 lb.

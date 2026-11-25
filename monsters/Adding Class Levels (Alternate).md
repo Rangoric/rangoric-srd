@@ -21,12 +21,12 @@ When adding class levels to a creature, the first step is to determine what role
 **Table: Monsters with Class Levels**
 
 | Monster Role                                                                                     | Barbarian, Fighter, Ranger | Cleric, Druid, Sorcerer, Wizard | Bard, Rogue | Monk, Paladin |
-|--------------------------------------------------------------------------------------------------|----------------------------|---------------------------------|-------------|---------------|
+| ------------------------------------------------------------------------------------------------ | -------------------------- | ------------------------------- | ----------- | ------------- |
 | Combat                                                                                           | Key                        | —                               | —           | —             |
-| Spell                                                                                            | —                          | Key*                           | —           | —             |
+| Spell                                                                                            | —                          | Key\*                           | —           | —             |
 | Skill                                                                                            | Key                        | —                               | Key         | —             |
 | Special                                                                                          | —                          | —                               | —           | —             |
-| * This class is only key if its spellcasting levels stack with those possessed by the creature. |                            |                                 |             |               |
+| \* This class is only key if its spellcasting levels stack with those possessed by the creature. |                            |                                 |             |               |
 
 ^monsters-with-class-levels
 

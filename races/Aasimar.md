@@ -24,7 +24,7 @@ Perks:
 - +2 Charisma
 - Darkvision: Aasimars can see in the dark up to 60 feet; see [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] for how it works.
 - Skilled: +2 racial bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] and [[rangoric-srd/skills/Perception|Perception]] checks.
-- Spell-Like Ability: Aasimars can use *[[rangoric-srd/spells/Daylight|daylight]]* once per day as a spell-like ability (caster level equal to the aasimar's character level).
+- Spell-Like Ability: Aasimars can use _[[rangoric-srd/spells/Daylight|daylight]]_ once per day as a spell-like ability (caster level equal to the aasimar's character level).
 - Celestial Resistance: Aasimars have acid resistance 5, cold resistance 5, and electricity resistance 5 (see [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy|resistance to energy]]).
 
 Languages:
@@ -48,17 +48,17 @@ Level Adjustment: +1 (see [[rangoric-srd/monsters/Monsters as Races#^level-adjus
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 60 years | +4d6 | +6d6 | +8d6 |
+| --------- | --------- | ----------- | ------- |
+| 60 years  | +4d6      | +6d6        | +8d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 150 years | 200 years | 250 years | +6d% years |
+| Middle Age | Old       | Venerable | Maximum Age |
+| ---------- | --------- | --------- | ----------- |
+| 150 years  | 200 years | 250 years | +6d% years  |
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 5 ft. 2 in. | +2d8 | 110 lb. | × 5 lb. |
-| Female | 5 ft. 0 in. | +2d8 | 90 lb. | × 5 lb. |
+| ------ | ----------- | --------------- | ----------- | --------------- |
+| Male   | 5 ft. 2 in. | +2d8            | 110 lb.     | × 5 lb.         |
+| Female | 5 ft. 0 in. | +2d8            | 90 lb.      | × 5 lb.         |
 
 ### Description
 
@@ -80,17 +80,17 @@ However, even if they generally tend toward human societies, aasimars can become
 
 An aasimar can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Celestial Crusader\|Celestial Crusader]] | Celestial resistance and skilled |
-| [[rangoric-srd/races/racial-traits/Deathless Spirit\|Deathless Spirit]] | Celestial resistance |
-| [[rangoric-srd/races/racial-traits/Exalted Resistance\|Exalted Resistance]] | Celestial resistance |
-| [[rangoric-srd/races/racial-traits/Halo\|Halo]] | Darkvision |
-| [[rangoric-srd/races/racial-traits/Heavenborn\|Heavenborn]] | Skilled and spell-like ability |
-| [[rangoric-srd/races/racial-traits/Immortal Spark\|Immortal Spark]] | Skilled and spell-like ability |
-| [[rangoric-srd/races/racial-traits/Incorruptible\|Incorruptible]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Scion of Humanity\|Scion of Humanity]] | The Celestial language, and alters the native subtype |
-| [[rangoric-srd/races/racial-traits/Truespeaker\|Truespeaker]] | Skilled |
+| Trait                                                                       | Replaces                                              |
+| --------------------------------------------------------------------------- | ----------------------------------------------------- |
+| [[rangoric-srd/races/racial-traits/Celestial Crusader\|Celestial Crusader]] | Celestial resistance and skilled                      |
+| [[rangoric-srd/races/racial-traits/Deathless Spirit\|Deathless Spirit]]     | Celestial resistance                                  |
+| [[rangoric-srd/races/racial-traits/Exalted Resistance\|Exalted Resistance]] | Celestial resistance                                  |
+| [[rangoric-srd/races/racial-traits/Halo\|Halo]]                             | Darkvision                                            |
+| [[rangoric-srd/races/racial-traits/Heavenborn\|Heavenborn]]                 | Skilled and spell-like ability                        |
+| [[rangoric-srd/races/racial-traits/Immortal Spark\|Immortal Spark]]         | Skilled and spell-like ability                        |
+| [[rangoric-srd/races/racial-traits/Incorruptible\|Incorruptible]]           | Spell-like ability                                    |
+| [[rangoric-srd/races/racial-traits/Scion of Humanity\|Scion of Humanity]]   | The Celestial language, and alters the native subtype |
+| [[rangoric-srd/races/racial-traits/Truespeaker\|Truespeaker]]               | Skilled                                               |
 
 ### Class Bonuses
 
@@ -102,7 +102,7 @@ An aasimar gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuse
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
-| [[rangoric-srd/class-options/archetypes/oracle/Purifier (Archetype)\|Purifier]] | [[rangoric-srd/classes/Oracle\|Oracle]] |
+| Archetype                                                                                          | Class                                     |
+| -------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| [[rangoric-srd/class-options/archetypes/oracle/Purifier (Archetype)\|Purifier]]                    | [[rangoric-srd/classes/Oracle\|Oracle]]   |
 | [[rangoric-srd/class-options/archetypes/paladin/Tranquil Guardian (Archetype)\|Tranquil Guardian]] | [[rangoric-srd/classes/Paladin\|Paladin]] |

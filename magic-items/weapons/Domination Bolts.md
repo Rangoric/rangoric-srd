@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Domination Bolts
 
-Any creature struck by one of these powerful +3 bolts must succeed at a Will save (DC 23) or become dominated by the creature that struck them. This effect behaves exactly like the spell *[[rangoric-srd/spells/Dominate Monster|dominate monster]]*.
+Any creature struck by one of these powerful +3 bolts must succeed at a Will save (DC 23) or become dominated by the creature that struck them. This effect behaves exactly like the spell _[[rangoric-srd/spells/Dominate Monster|dominate monster]]_.
 
-Strong enchantment; CL 17th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Dominate Monster|dominate monster]]*; Price 5,675 gp; Cost 2,838 gp + 227 XP.
+Strong enchantment; CL 17th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Dominate Monster|dominate monster]]_; Price 5,675 gp; Cost 2,838 gp + 227 XP.

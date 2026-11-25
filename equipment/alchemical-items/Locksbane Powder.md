@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Locksbane Powder
 
-*Powder; Special*
+_Powder; Special_
 
 Blown into a lock, locksbane powder interacts with oils and greases within and fuses the metals together into one solid mass, rendering the lock inert and useless. It has no effect on stone locks. It also turns the door into both a locked and jammed or stuck door, adding a +2 circumstance bonus against it being broken down or forced open.
 

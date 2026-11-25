@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Spell Reflection, Greater
 
-These items are similar to *spell reflecting* items, except that they are able to reflect spells cast from any school.
+These items are similar to _spell reflecting_ items, except that they are able to reflect spells cast from any school.
 
-Strong abjuration; CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Spell Turning|spell turning]]*; Price +5 bonus.
+Strong abjuration; CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Spell Turning|spell turning]]_; Price +5 bonus.

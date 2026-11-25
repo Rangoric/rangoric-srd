@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Glazier’s Acid
 
-*Chymical; Special*
+_Chymical; Special_
 
 This is a low-level acid attuned to silicates—in other words, this acid affects glass and is used by artisans and glaziers to both shape glass and etch designs into its surface. Even though it is a weak acid, it can inflict 1d4 points of damage to exposed skin on a direct hit and 1d6 points of damage to exposed eyes or open mouths.
 

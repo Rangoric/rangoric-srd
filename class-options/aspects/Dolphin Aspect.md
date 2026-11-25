@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Dolphin Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the dolphin imparts clever mastery of the seas. Shifters with this aspect also embody the size and ferociousness of large dolphins, such as orcas.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the dolphin imparts clever mastery of the seas. Shifters with this aspect also embody the size and ferociousness of large dolphins, such as orcas._
 
 **Minor Form**: You gain a +4 competence bonus on [[rangoric-srd/skills/Identifying Creatures|checks to identify creatures’ abilities and weaknesses]].
 

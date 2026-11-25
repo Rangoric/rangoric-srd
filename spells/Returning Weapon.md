@@ -36,17 +36,17 @@ tags: [rangoric, rangoric/spell]
 
 # Returning Weapon
 
-*Conjuration (Teleportation)*
+_Conjuration (Teleportation)_
 
-  - **Level**: Blr 1, Brd 2, Clr 2, Hun 1, Inq 1, Mag 1, Occ 1, Psy 2, Rgr 1, Skd 2, Sor/Wiz 2, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One weapon that can be thrown
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: Will negates (harmless, object)
-  - **Spell Resistance**: Yes (harmless, object)
+- **Level**: Blr 1, Brd 2, Clr 2, Hun 1, Inq 1, Mag 1, Occ 1, Psy 2, Rgr 1, Skd 2, Sor/Wiz 2, Wit 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One weapon that can be thrown
+- **Duration**: 1 minute/level
+- **Saving Throw**: Will negates (harmless, object)
+- **Spell Resistance**: Yes (harmless, object)
 
-For the duration of the spell, the target weapon acts as if it had the *[[rangoric-srd/magic-items/weapon-abilities/Returning|returning]]* weapon special ability.
+For the duration of the spell, the target weapon acts as if it had the _[[rangoric-srd/magic-items/weapon-abilities/Returning|returning]]_ weapon special ability.
 
-This spell can be used as the prerequisite for the *[[rangoric-srd/magic-items/weapon-abilities/Returning|returning]]* weapon special ability.
+This spell can be used as the prerequisite for the _[[rangoric-srd/magic-items/weapon-abilities/Returning|returning]]_ weapon special ability.

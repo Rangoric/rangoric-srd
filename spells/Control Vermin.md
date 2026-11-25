@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Control Vermin
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Clr 3, Drd 2, Hun 2, Rgr 4, Sor/Wiz 3, Wit 2
-  - **Components**: V, S, DF/M (a beetle)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: Up to 1 HD/level of vermin, no two of which can be more than 30 ft. apart
-  - **Duration**: 1 hour/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: No
+- **Level**: Clr 3, Drd 2, Hun 2, Rgr 4, Sor/Wiz 3, Wit 2
+- **Components**: V, S, DF/M (a beetle)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: Up to 1 HD/level of vermin, no two of which can be more than 30 ft. apart
+- **Duration**: 1 hour/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: No
 
 You and a number of allies less than or equal to your caster level designated upon casting can use Animal Handling and Animal Handling checks to influence or control the targeted vermin as if they were animals and had animal-level intelligence.

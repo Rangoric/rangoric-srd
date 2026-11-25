@@ -33,7 +33,7 @@ Psychokinesis \[Force\]
 **Duration:** Concentration, up to 1 round/level  
 **Saving Throw:** Will negates (object); see text  
 **Power Resistance:** Yes (object)  
-**Power Points:** 5  
+**Power Points:** 5
 
 You move an object by concentrating your mind upon its current location and then the location you desire, creating a sustained force. You can move an object weighing no more than 250 pounds up to 20 feet per round. A creature can negate the effect on an object it possesses with a successful Will save or with power resistance. The weight can be moved across the ground or through the air. This power ends if the object is forced out of range. If you cease concentration, the object falls or stops.
 

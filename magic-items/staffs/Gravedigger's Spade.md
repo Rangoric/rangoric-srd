@@ -23,8 +23,8 @@ tags: [rangoric, rangoric/magic-item]
 
 The sturdy, well-polished oaken shaft and the sharp blade attached to its tip allow this magical staff to be used as a masterwork shovel when not employed in spellcasting.
 
-- *[[rangoric-srd/spells/Expeditious Excavation|Expeditious excavation]]* (1 charge)
-- *[[rangoric-srd/spells/Create Pit|Create pit]]* (2 charges)
-- *[[rangoric-srd/spells/Spiked Pit|Spiked pit]]* (5 charges)
+- _[[rangoric-srd/spells/Expeditious Excavation|Expeditious excavation]]_ (1 charge)
+- _[[rangoric-srd/spells/Create Pit|Create pit]]_ (2 charges)
+- _[[rangoric-srd/spells/Spiked Pit|Spiked pit]]_ (5 charges)
 
-Moderate conjuration and transmutation; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Expeditious Excavation|expeditious excavation]]*, *[[rangoric-srd/spells/Create Pit|create pit]]*, *[[rangoric-srd/spells/Spiked Pit|spiked pit]]*; Price 12,150 gp; Cost 6,100 gp; Weight 4 lbs.
+Moderate conjuration and transmutation; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Expeditious Excavation|expeditious excavation]]_, _[[rangoric-srd/spells/Create Pit|create pit]]_, _[[rangoric-srd/spells/Spiked Pit|spiked pit]]_; Price 12,150 gp; Cost 6,100 gp; Weight 4 lbs.

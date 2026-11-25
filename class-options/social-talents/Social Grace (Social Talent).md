@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Social Grace
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-social-talent|social talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-social-talent|social talent]] (Ex)._
 
 The vigilante selects any one Intelligence-, Wisdom-, or Charisma-based skill other than Perception or Emulation. Whenever the vigilante is in his [[rangoric-srd/classes/Vigilante#^vigilante-dual-identity|social identity]], he receives a +4 circumstance bonus on checks with the selected skill.
 

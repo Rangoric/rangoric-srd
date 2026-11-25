@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Aoandon
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Incorporeal, Native)
-  - **Hit Dice**: 16d10+64 (152 hp)
-  - **Initiative**: +7
-  - **Speed**: fly 60 ft. (perfect)
-  - **Armor Class**: 24 (+6 deflection, +7 Dex, +1 dodge), touch 24, flat-footed 16
-  - **Base Attack**: +16; **CMB**: +23; **CMD**: 40
-  - **Attack**: Touch of madness +19 melee touch (10d6)
-  - **Full Attack**: Touch of madness +19 melee touch (10d6)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., true seeing, [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]]
-  - **Saves**: Fort +14, Ref +12, Will +12
-  - **Abilities**: Str —, Dex 24, Con 19, Int 20, Wis 15, Cha 22
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +40, [[rangoric-srd/skills/Arcana|Arcana]] +20, [[rangoric-srd/skills/Deception|Deception]] +25, [[rangoric-srd/skills/Intimidation|Intimidation]] +31, [[rangoric-srd/skills/Mysticism|Mysticism]] +22, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Persuasion|Persuasion]] +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20, [[rangoric-srd/skills/Society|Society]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +22, [[rangoric-srd/skills/Theology|Theology]] +18
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Intimidation), [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (touch)
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 12
-  - **Treasure**: None
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Incorporeal, Native)
+- **Hit Dice**: 16d10+64 (152 hp)
+- **Initiative**: +7
+- **Speed**: fly 60 ft. (perfect)
+- **Armor Class**: 24 (+6 deflection, +7 Dex, +1 dodge), touch 24, flat-footed 16
+- **Base Attack**: +16; **CMB**: +23; **CMD**: 40
+- **Attack**: Touch of madness +19 melee touch (10d6)
+- **Full Attack**: Touch of madness +19 melee touch (10d6)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., true seeing, [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]]
+- **Saves**: Fort +14, Ref +12, Will +12
+- **Abilities**: Str —, Dex 24, Con 19, Int 20, Wis 15, Cha 22
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +40, [[rangoric-srd/skills/Arcana|Arcana]] +20, [[rangoric-srd/skills/Deception|Deception]] +25, [[rangoric-srd/skills/Intimidation|Intimidation]] +31, [[rangoric-srd/skills/Mysticism|Mysticism]] +22, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Persuasion|Persuasion]] +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20, [[rangoric-srd/skills/Society|Society]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +22, [[rangoric-srd/skills/Theology|Theology]] +18
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Intimidation), [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (touch)
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 12
+- **Treasure**: None
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 An aoandon is an incorporeal outsider formed from the spirit of a woman who died pursuing some ill-fated relationship. An aoandon waits for her chance to seek revenge on those who wronged her in her mortal life. If that person is dead, she finds a surrogate—someone who reminds her of the wrongdoer—and acts out her delusions with unrelenting vindictiveness. These spirits can also appear as a result of mishaps with calling spells, but such instances are rare.
 
@@ -68,7 +68,7 @@ Aoandons speak Abyssal, Celestial, Common, Draconic, Giant and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 16th; concentration +22): Constant—*[[rangoric-srd/spells/True Seeing|true seeing]]*; At will—*[[rangoric-srd/spells/Darkness|darkness]]*; 3/day—*[[rangoric-srd/spells/Bestow Curse|bestow curse]]* (DC 20), *[[rangoric-srd/spells/Suffocation|suffocation]]* (DC 21); 1/day—*[[rangoric-srd/spells/Pain Strike, Mass|mass pain strike]]* (DC 21), *[[rangoric-srd/spells/Waves of Fatigue|waves of fatigue]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 16th; concentration +22): Constant—_[[rangoric-srd/spells/True Seeing|true seeing]]_; At will—_[[rangoric-srd/spells/Darkness|darkness]]_; 3/day—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (DC 20), _[[rangoric-srd/spells/Suffocation|suffocation]]_ (DC 21); 1/day—_[[rangoric-srd/spells/Pain Strike, Mass|mass pain strike]]_ (DC 21), _[[rangoric-srd/spells/Waves of Fatigue|waves of fatigue]]_.
 
 **[[rangoric-srd/monsters/abilities/Touch of Madness (Aoandon)|Touch of Madness]] (Su)**: The touch of an aoandon causes maddening fear. As a standard action it can make an incorporeal touch attack that deals 10d6 damage. Any living creature damaged by an aoandon's touch attack must succeed at a DC 24 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1d4 rounds. A creature that succeeds at this saving throw can't be confused again by this aoandon's touch of madness for 10 minutes. This is a mind-affecting fear effect. The save DC is Charisma-based.
 

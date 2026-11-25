@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Stout
 
-Stout weapons are particularly hard to break. Any weapon used to break a *stout* weapon takes damage as if the *stout* weapon was being used to break the attacking weapon if the attacker’s [[rangoric-srd/combat/Combat Maneuvers#Sunder|sunder]] attempt fails. A *stout* weapon has a +5 bonus to both hit points and hardness. If a *stout* weapon ever breaks, everyone within 15 ft. takes 1d3 per point of enhancement bonus slashing damage from flying shards (Reflex save (DC 18) for half damage).
+Stout weapons are particularly hard to break. Any weapon used to break a _stout_ weapon takes damage as if the _stout_ weapon was being used to break the attacking weapon if the attacker’s [[rangoric-srd/combat/Combat Maneuvers#Sunder|sunder]] attempt fails. A _stout_ weapon has a +5 bonus to both hit points and hardness. If a _stout_ weapon ever breaks, everyone within 15 ft. takes 1d3 per point of enhancement bonus slashing damage from flying shards (Reflex save (DC 18) for half damage).
 
-Strong transmutation; CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Magic Weapon, Greater|greater magic weapon]]*; Price +1 bonus.
+Strong transmutation; CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Magic Weapon, Greater|greater magic weapon]]_; Price +1 bonus.

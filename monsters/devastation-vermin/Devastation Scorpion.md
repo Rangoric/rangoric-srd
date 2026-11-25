@@ -36,26 +36,26 @@ tags: [rangoric, rangoric/monster]
 
 # Devastation Scorpion
 
-  - Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
-  - **Hit Dice**: 128d8+1,408 (1,984 hp)
-  - **Initiative**: +12 (Dex)
-  - **Speed**: 100 ft.
-  - **Armor Class**: 60 (-8 size, +12 Dex, +46 natural)
-  - **Base Attack**: +96; **CMB**: +118 (+122 grapple); **CMD**: 140 (152 vs. trip)
-  - **Attack**: 2 claws +102 melee, sting +97 melee
-  - **Full Attack**: Claw 10d10+14, sting 8d10+7 plus poison
-  - **Space/Reach**: 50 ft./40 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], squeeze, [[rangoric-srd/monsters/abilities/Poison|poison]]
-  - **Special Qualities**: Darkvision 300 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 50, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/-
-  - **Saves**: Fort +77, Ref +54, Will +42
-  - **Abilities**: Str 38, Dex 35, Con 32, Int -, Wis 10, Cha 2
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +153 (+181 jumping), [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +4
-  - **Climate/Terrain**: Any land
-  - **Organization**: Solitary or cluster (2-5)
-  - **Challenge Rating**: 42
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: None
+- Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
+- **Hit Dice**: 128d8+1,408 (1,984 hp)
+- **Initiative**: +12 (Dex)
+- **Speed**: 100 ft.
+- **Armor Class**: 60 (-8 size, +12 Dex, +46 natural)
+- **Base Attack**: +96; **CMB**: +118 (+122 grapple); **CMD**: 140 (152 vs. trip)
+- **Attack**: 2 claws +102 melee, sting +97 melee
+- **Full Attack**: Claw 10d10+14, sting 8d10+7 plus poison
+- **Space/Reach**: 50 ft./40 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], squeeze, [[rangoric-srd/monsters/abilities/Poison|poison]]
+- **Special Qualities**: Darkvision 300 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 50, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/-
+- **Saves**: Fort +77, Ref +54, Will +42
+- **Abilities**: Str 38, Dex 35, Con 32, Int -, Wis 10, Cha 2
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +153 (+181 jumping), [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +4
+- **Climate/Terrain**: Any land
+- **Organization**: Solitary or cluster (2-5)
+- **Challenge Rating**: 42
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: None
 
 Improved Grab (Ex): To use this ability, the devastation scorpion must hit with its claw attack. If it gets a hold, it hangs on and squeezes.
 

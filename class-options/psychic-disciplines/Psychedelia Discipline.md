@@ -18,13 +18,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Psychedelia Discipline
 
-*A [[rangoric-srd/classes/Psychic (Class)#^psychic-discipline|psychic discipline]].*
+_A [[rangoric-srd/classes/Psychic (Class)#^psychic-discipline|psychic discipline]]._
 
 You ingest hallucinogens to expand your mind. Experimentation and study show you which ones will have the greatest effect. Your psychedelic forays put you into a different mental space from others, and normal people don’t really understand you.
 
 **Phrenic Pool Ability**: Wisdom.
 
-**Bonus Spells**: *[[rangoric-srd/spells/Polypurpose Panacea|polypurpose panacea]]* (1st), *[[rangoric-srd/spells/Mad Hallucination|mad hallucination]]* (4th), *[[rangoric-srd/spells/Synesthesia|synesthesia]]* (6th), *[[rangoric-srd/spells/Confusion|confusion]]* (8th), *[[rangoric-srd/spells/Mirage Arcana|mirage arcana]]* (10th), *[[rangoric-srd/spells/Joyful Rapture|joyful rapture]]* (12th), *[[rangoric-srd/spells/Waves of Ecstasy|waves of ecstasy]]* (14th), *[[rangoric-srd/spells/Euphoric Tranquility|euphoric tranquility]]* (16th), *[[rangoric-srd/spells/Astral Projection|astral projection]]* (18th).
+**Bonus Spells**: _[[rangoric-srd/spells/Polypurpose Panacea|polypurpose panacea]]_ (1st), _[[rangoric-srd/spells/Mad Hallucination|mad hallucination]]_ (4th), _[[rangoric-srd/spells/Synesthesia|synesthesia]]_ (6th), _[[rangoric-srd/spells/Confusion|confusion]]_ (8th), _[[rangoric-srd/spells/Mirage Arcana|mirage arcana]]_ (10th), _[[rangoric-srd/spells/Joyful Rapture|joyful rapture]]_ (12th), _[[rangoric-srd/spells/Waves of Ecstasy|waves of ecstasy]]_ (14th), _[[rangoric-srd/spells/Euphoric Tranquility|euphoric tranquility]]_ (16th), _[[rangoric-srd/spells/Astral Projection|astral projection]]_ (18th).
 
 ## Discipline Powers
 

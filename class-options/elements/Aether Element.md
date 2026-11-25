@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Aether Element
 
-*An [[rangoric-srd/class-options/elements/Elements|element]] a [[rangoric-srd/classes/Kineticist|kineticist]] can choose with [[rangoric-srd/classes/Kineticist#^kineticist-elemental-focus|elemental focus]] or [[rangoric-srd/classes/Kineticist#^kineticist-expanded-element|expanded element]].*
+_An [[rangoric-srd/class-options/elements/Elements|element]] a [[rangoric-srd/classes/Kineticist|kineticist]] can choose with [[rangoric-srd/classes/Kineticist#^kineticist-elemental-focus|elemental focus]] or [[rangoric-srd/classes/Kineticist#^kineticist-expanded-element|expanded element]]._
 
 Kineticists who focus on the element of aether—a rare substance formed when elemental energy affects the [[rangoric-srd/rules/Planes#The Ethereal Plane|Ethereal Plane]]—are called telekineticists. Telekineticists use strands of aether to move objects with their minds.
 

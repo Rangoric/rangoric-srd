@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/flavor, flavor]
 
 # Shadow
 
-An exception to the rule that all portals open directly into FaerieLand, travelers who fail to walk directly forward from their *doorway* to their destination, might find themselves in the alleys of this forsaken town. This small, though growing, town shelters those who lurk in the shadows of the mortal worlds. Skulking and stalking along Shadow’s narrow streets and cramped alleyways and tangle of mud, brick, and wooden buildings are every foul creature feared by mortal children to be under the bed, in the closet, or beneath the stairs.
+An exception to the rule that all portals open directly into FaerieLand, travelers who fail to walk directly forward from their _doorway_ to their destination, might find themselves in the alleys of this forsaken town. This small, though growing, town shelters those who lurk in the shadows of the mortal worlds. Skulking and stalking along Shadow’s narrow streets and cramped alleyways and tangle of mud, brick, and wooden buildings are every foul creature feared by mortal children to be under the bed, in the closet, or beneath the stairs.
 
 Home to a myriad of fey who would rather be left alone, the difficulty in willfully traveling to Shadow is extremely high. People who frequently travel to and from Shadow claim to know a secret about stones that allow them easier access through the veils. However, little evidence of such ‘way stones’ has been corroborated. The Queen of Air and Darkness does “bless” certain individuals with either magic or items that allow them effortless travel to and from Shadow.
 
@@ -23,12 +23,12 @@ Home to a myriad of fey who would rather be left alone, the difficulty in willfu
 
 **Personalities:** [[rangoric-srd/flavor/the-fey-realm/personalities/The Queen of Air and Darkness|The Queen of Air and Darkness]]
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* Gaining access to the city of Shadow is difficult.
+_Common:_ Gaining access to the city of Shadow is difficult.
 
-*Uncommon:* The locations of working *doorways* to Shadow change monthly.
+_Uncommon:_ The locations of working _doorways_ to Shadow change monthly.
 
-*Rare:* [[rangoric-srd/races/Bogie|Bogie]] wizards constantly build and destroy *[[rangoric-srd/rules/Fey Roads and Doorways#Fey Roads|fey roads]]* that connect to Shadow.
+_Rare:_ [[rangoric-srd/races/Bogie|Bogie]] wizards constantly build and destroy _[[rangoric-srd/rules/Fey Roads and Doorways#Fey Roads|fey roads]]_ that connect to Shadow.
 
-*Obscure:* There are a few existing maps detailing the locations of all *fey roads* into, through, and out of Here, There and Between stored in vaults here.
+_Obscure:_ There are a few existing maps detailing the locations of all _fey roads_ into, through, and out of Here, There and Between stored in vaults here.

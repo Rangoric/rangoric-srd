@@ -19,20 +19,20 @@ tags: [rangoric, rangoric/skill, core]
 
 **Check**: A successful check lets you avoid being bluffed (see the Deception skill). You can also use this skill to determine when “something is up” (that is, something odd is going on) or to assess someone’s trustworthiness.
 
-| Task                   | Sense Motive DC |
-| ---------------------- | --------------- |
-| Hunch                  | 20              |
-| Sense enchantment      | 25 or 15        |
-| Discern secret message | Varies          |
-| Discern partial alignment | 60 |
-| Discern full alignment | 80 |
-| Detect surface thoughts | 100 |
+| Task                      | Sense Motive DC |
+| ------------------------- | --------------- |
+| Hunch                     | 20              |
+| Sense enchantment         | 25 or 15        |
+| Discern secret message    | Varies          |
+| Discern partial alignment | 60              |
+| Discern full alignment    | 80              |
+| Detect surface thoughts   | 100             |
 
-*Hunch*: This use of the skill involves making a gut assessment of the social situation. You can get the feeling from another’s behavior that something is wrong, such as when you’re talking to an impostor. Alternatively, you can get the feeling that someone is trustworthy. If you fail by 5 or more, you might infer false information.
+_Hunch_: This use of the skill involves making a gut assessment of the social situation. You can get the feeling from another’s behavior that something is wrong, such as when you’re talking to an impostor. Alternatively, you can get the feeling that someone is trustworthy. If you fail by 5 or more, you might infer false information.
 
-*Sense Enchantment*: You can tell that someone’s behavior is being influenced by an enchantment effect (by definition, a mind-affecting effect), even if that person isn’t aware of it. The usual DC is 25, but if the target is dominated (see dominate person), the DC is only 15 because of the limited range of the target’s activities.
+_Sense Enchantment_: You can tell that someone’s behavior is being influenced by an enchantment effect (by definition, a mind-affecting effect), even if that person isn’t aware of it. The usual DC is 25, but if the target is dominated (see dominate person), the DC is only 15 because of the limited range of the target’s activities.
 
-*Discern Secret Message*: You may use Sense Motive to detect that a hidden message is being transmitted via the Deception skill. In this case, your Sense Motive check is opposed by the Deception check of the character transmitting the message. For each piece of information relating to the message that you are missing, you take a –2 penalty on your Sense Motive check. If you succeed by 4 or less, you know that something hidden is being communicated, but you can’t learn anything specific about its content. If you beat the DC by 5 or more, you intercept and understand the message. If you fail by 4 or less, you don’t detect any hidden communication. If you fail by 5 or more, you infer some false information.
+_Discern Secret Message_: You may use Sense Motive to detect that a hidden message is being transmitted via the Deception skill. In this case, your Sense Motive check is opposed by the Deception check of the character transmitting the message. For each piece of information relating to the message that you are missing, you take a –2 penalty on your Sense Motive check. If you succeed by 4 or less, you know that something hidden is being communicated, but you can’t learn anything specific about its content. If you beat the DC by 5 or more, you intercept and understand the message. If you fail by 4 or less, you don’t detect any hidden communication. If you fail by 5 or more, you infer some false information.
 
 **Action**: Trying to gain information with Sense Motive generally takes at least 1 minute, and you could spend a whole evening trying to get a sense of the people around you.
 
@@ -42,13 +42,13 @@ tags: [rangoric, rangoric/skill, core]
 
 ## Advanced Uses
 
-The character can discern a target’s alignment and even detect surface thoughts.  
+The character can discern a target’s alignment and even detect surface thoughts.
 
-*Discern Partial Alignment*: This use of the skill lets a character discern one component of a target’s alignment. When making the check, the character states whether he or she is trying to discern the law-chaos or good-evil component. A character can’t retry the check, and he or she can’t use this to discern more than one component of the alignment (but see below). The target must be visible and within 30 feet of the character.
+_Discern Partial Alignment_: This use of the skill lets a character discern one component of a target’s alignment. When making the check, the character states whether he or she is trying to discern the law-chaos or good-evil component. A character can’t retry the check, and he or she can’t use this to discern more than one component of the alignment (but see below). The target must be visible and within 30 feet of the character.
 
-*Discern Full Alignment*: This use of the skill lets a character determine both components of a target’s alignment. The character can’t retry the check. The target must be visible and within 30 feet of the character.
+_Discern Full Alignment_: This use of the skill lets a character determine both components of a target’s alignment. The character can’t retry the check. The target must be visible and within 30 feet of the character.
 
-*Detect Surface Thoughts*: This lets a character read the surface thoughts of a single target (as the 3rd-round effect of the detect thoughts spell). There is no saving throw to resist this effect, though the target can use Deception to disguise his or her surface thoughts (see the Deception skill description), in which case this becomes an opposed check (any result lower than 100 automatically fails). The target must be visible and within 30 feet of the character.
+_Detect Surface Thoughts_: This lets a character read the surface thoughts of a single target (as the 3rd-round effect of the detect thoughts spell). There is no saving throw to resist this effect, though the target can use Deception to disguise his or her surface thoughts (see the Deception skill description), in which case this becomes an opposed check (any result lower than 100 automatically fails). The target must be visible and within 30 feet of the character.
 
 ## Unlocks
 
@@ -72,14 +72,14 @@ You are skilled in folk divination. The most common methods are cartomancy (read
 
 **Items that help**: a [[rangoric-srd/equipment/gear/Prognostication Manual|prognostication manual]].
 
-**Check**: Once per day, you can predict a creature’s fortune for the near future. You spend 10 minutes interpreting the means of divination at your disposal, then the GM attempts a secret Sense Motive check against a DC modified by the subject’s Hit Dice (see the table). The result can give you basic insight into the subject’s nature, including its alignment, class and levels or Hit Dice, and might reveal clues to its immediate future. Reading the immediate future as *[[rangoric-srd/spells/Augury|augury]]* has a chance of a meaningful reading equal to 60% plus 5% for every point by which the check result exceeds the DC (to a maximum of 90%). With one check, you learn everything whose DC you meet: for instance, with a result of 22 against a creature with 2 HD, you learn its alignment and class, but not its level, HD or fortune.
+**Check**: Once per day, you can predict a creature’s fortune for the near future. You spend 10 minutes interpreting the means of divination at your disposal, then the GM attempts a secret Sense Motive check against a DC modified by the subject’s Hit Dice (see the table). The result can give you basic insight into the subject’s nature, including its alignment, class and levels or Hit Dice, and might reveal clues to its immediate future. Reading the immediate future as _[[rangoric-srd/spells/Augury|augury]]_ has a chance of a meaningful reading equal to 60% plus 5% for every point by which the check result exceeds the DC (to a maximum of 90%). With one check, you learn everything whose DC you meet: for instance, with a result of 22 against a creature with 2 HD, you learn its alignment and class, but not its level, HD or fortune.
 
-| Task | DC |
-| --- | --- |
-| Determine alignment | 15 + creature’s HD |
-| Determine class | 20 + creature’s HD |
-| Determine level or HD | 25 + creature’s HD |
-| Determine fortune as *augury* | 25 + creature’s HD |
+| Task                          | DC                 |
+| ----------------------------- | ------------------ |
+| Determine alignment           | 15 + creature’s HD |
+| Determine class               | 20 + creature’s HD |
+| Determine level or HD         | 25 + creature’s HD |
+| Determine fortune as _augury_ | 25 + creature’s HD |
 
 **Action**: Reading a creature’s fortune takes 10 minutes of uninterrupted contemplation, and the subject must be present.
 

@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Infernal Blood
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su)._
 
 While raging, the barbarian gains fire resistance 5, as well as a +2 bonus on saving throws against poison.
 

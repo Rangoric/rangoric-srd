@@ -23,12 +23,12 @@ tags: [rangoric, rangoric/magic-item]
 
 Sculpted into the shape of dozens of grasping, distorted hands, this staff appears to be carved entirely from one piece of clear crystal. When held, the hands that form the staff distort to resemble the gloves or hands of the person holding it. It allows the use of the following spells:
 
-- *[[rangoric-srd/spells/Forceful Hand|Forceful hand]]* (1 charge)
-- *[[rangoric-srd/spells/Interposing Hand|Interposing hand]]* (1 charge)
-- *[[rangoric-srd/spells/Clenched Fist|Clenched fist]]* (2 charges)
-- *[[rangoric-srd/spells/Grasping Hand|Grasping hand]]* (2 charges)
-- *[[rangoric-srd/spells/Crushing Hand|Crushing hand]]* (3 charges)
+- _[[rangoric-srd/spells/Forceful Hand|Forceful hand]]_ (1 charge)
+- _[[rangoric-srd/spells/Interposing Hand|Interposing hand]]_ (1 charge)
+- _[[rangoric-srd/spells/Clenched Fist|Clenched fist]]_ (2 charges)
+- _[[rangoric-srd/spells/Grasping Hand|Grasping hand]]_ (2 charges)
+- _[[rangoric-srd/spells/Crushing Hand|Crushing hand]]_ (3 charges)
 
-This staff also allows the wielder to use *[[rangoric-srd/spells/Mage Hand|mage hand]]* at will.
+This staff also allows the wielder to use _[[rangoric-srd/spells/Mage Hand|mage hand]]_ at will.
 
-Strong evocation; CL 17th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Clenched Fist|clenched fist]]*, *[[rangoric-srd/spells/Crushing Hand|crushing hand]]*, *[[rangoric-srd/spells/Forceful Hand|forceful hand]]*, *[[rangoric-srd/spells/Grasping Hand|grasping hand]]*, *[[rangoric-srd/spells/Interposing Hand|interposing hand]]*, *[[rangoric-srd/spells/Mage Hand|mage hand]]*; Price 180,200 gp; Cost 90,100 gp; Weight 5 lbs.
+Strong evocation; CL 17th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Clenched Fist|clenched fist]]_, _[[rangoric-srd/spells/Crushing Hand|crushing hand]]_, _[[rangoric-srd/spells/Forceful Hand|forceful hand]]_, _[[rangoric-srd/spells/Grasping Hand|grasping hand]]_, _[[rangoric-srd/spells/Interposing Hand|interposing hand]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_; Price 180,200 gp; Cost 90,100 gp; Weight 5 lbs.

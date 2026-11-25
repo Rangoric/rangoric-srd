@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Cold Iron Killer
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “cold iron killer”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “cold iron killer”, on the Special Attacks line.
 
 All of an ankou's natural weapons are treated as cold iron for the purpose of overcoming damage reduction. The [[rangoric-srd/monsters/Ankou|ankou]] has it.

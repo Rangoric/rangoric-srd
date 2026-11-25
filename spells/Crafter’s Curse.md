@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Crafter’s Curse
 
-*Transmutation \[Curse\]*
+_Transmutation \[Curse\]_
 
-  - **Level**: Occ 1, Sor/Wiz 1
-  - **Components**: V, S, M (a broken tool)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: 1 day/level (D)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Occ 1, Sor/Wiz 1
+- **Components**: V, S, M (a broken tool)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: 1 day/level (D)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
-The target of *crafter's curse* takes a –5 penalty on all Craft skill checks while the spell lasts.
+The target of _crafter's curse_ takes a –5 penalty on all Craft skill checks while the spell lasts.

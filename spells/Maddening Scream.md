@@ -34,7 +34,7 @@ Range: Touch
 Target: Living creature touched  
 Duration: 1d4+1 rounds  
 Saving Throw: None  
-Spell Resistance: Yes  
+Spell Resistance: Yes
 
 The subject cannot keep him or herself from behaving as though completely mad. This spell makes it impossible for the victim to do anything other than race about caterwauling.
 

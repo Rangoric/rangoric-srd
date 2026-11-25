@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Otyugh
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 6d8+12 (39 hp)
-  - **Initiative**: +0
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 17 (+8 natural, –1 size), touch 9, flat-footed 17
-  - **Base Attack**: +4; **CMB**: +9 (+13 grapple); **CMD**: 19 (21 vs. trip)
-  - **Attack**: Bite +7 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Disease|disease]]) or tentacle +8 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +7 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Disease|disease]]) and 2 tentacles +3 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./10 ft. (15 ft. with tentacle)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (tentacle, 1d6+2), [[rangoric-srd/monsters/abilities/Disease|disease]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease
-  - **Saves**: Fort +3, Ref +2, Will +6
-  - **Abilities**: Str 18, Dex 10, Con 13, Int 5, Wis 13, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +2 (+10 in lair)
-  - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacle), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any underground
-  - **Organization**: Solitary, pair, or cluster (3–4)
-  - **Challenge Rating**: 4
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: 7–8 HD (Large); 9–18 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 6d8+12 (39 hp)
+- **Initiative**: +0
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 17 (+8 natural, –1 size), touch 9, flat-footed 17
+- **Base Attack**: +4; **CMB**: +9 (+13 grapple); **CMD**: 19 (21 vs. trip)
+- **Attack**: Bite +7 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Disease|disease]]) or tentacle +8 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +7 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Disease|disease]]) and 2 tentacles +3 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./10 ft. (15 ft. with tentacle)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (tentacle, 1d6+2), [[rangoric-srd/monsters/abilities/Disease|disease]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease
+- **Saves**: Fort +3, Ref +2, Will +6
+- **Abilities**: Str 18, Dex 10, Con 13, Int 5, Wis 13, Cha 6
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +2 (+10 in lair)
+- **Feats**: [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacle), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any underground
+- **Organization**: Solitary, pair, or cluster (3–4)
+- **Challenge Rating**: 4
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: 7–8 HD (Large); 9–18 HD (Huge)
+- **Level Adjustment**: —
 
 Otyughs are particularly vile and horrid creatures that lurk in places most sane creatures avoid. Their lairs are middens, cesspools, offal pits, toxic swamps, and sewers—the greater a lair's filth, the greater the draw to the refuse-eating otyugh. They glory in the role of scavenger, wandering through vast underground caverns in search of the choicest cuts of garbage and waste. Upon finding such refuse, they gorge upon it, gathering what cannot be consumed in one debauch to bring back to their foul-smelling lairs. Otyughs spend most of their time in these filthy dens, which they keep constantly filled with carrion, dung, and worse sorts of stinking effluvia.
 
@@ -76,4 +76,4 @@ Otyughs speak Common.
 
 An otyugh attacks living creatures if it feels threatened or if it is hungry; otherwise it is content to remain hidden. Otyughs slash and squeeze opponents with their tentacles, which they also use to drag prey into their mouths.
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Filth Fever|Filth Fever]]: Bite—injury; *save* Fort DC 14; *onset* 1d3 days; *frequency* 1/day; *effect* 1d3 Dex damage and 1d3 Con damage; *cure* 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Filth Fever|Filth Fever]]: Bite—injury; _save_ Fort DC 14; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d3 Dex damage and 1d3 Con damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.

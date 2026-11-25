@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Epic Spell Focus
 
-Prerequisites: [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] and [[rangoric-srd/feats/Spell Focus|Spell Focus]] in the school selected, ability to cast at least one 9th-level spell of the school to be chosen.  
+Prerequisites: [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] and [[rangoric-srd/feats/Spell Focus|Spell Focus]] in the school selected, ability to cast at least one 9th-level spell of the school to be chosen.
 
 Benefit: Add +1 to the Difficulty Class for all saving throws against spells from the school of magic the character selects to focus on. This stacks with the bonuses from Spell Focus and Greater Spell Focus.
 

@@ -37,7 +37,7 @@ Effect: Ten summoned adult red dragons
 Duration: 20 rounds (D)  
 Saving Throw: None (see text)  
 Spell Resistance: No  
-To Develop: 450,000 gp; 9 days; 18,000 XP. Seed: summon (DC 14). Factors: summon creature other than outsider (+10 DC), summon CR 14 creature (+24 DC), summon ten creatures (x10 DC), 1-action casting time (+20 DC). Mitigating factors: eleven additional casters contributing 9th-level spell slots (-187 DC), burn 2,000 XP per caster (-240 DC), 3d6 backlash (-3 DC).  
+To Develop: 450,000 gp; 9 days; 18,000 XP. Seed: summon (DC 14). Factors: summon creature other than outsider (+10 DC), summon CR 14 creature (+24 DC), summon ten creatures (x10 DC), 1-action casting time (+20 DC). Mitigating factors: eleven additional casters contributing 9th-level spell slots (-187 DC), burn 2,000 XP per caster (-240 DC), 3d6 backlash (-3 DC).
 
 This spell summons ten adult red dragons. They appear where the character designates and act immediately. They attack the character’s opponents to the best of their abilities (on the first round, they all prefer to simultaneously breathe fire on an enemy, if possible). The character can direct the dragons not to attack, to attack particular enemies, or to perform other actions.
 

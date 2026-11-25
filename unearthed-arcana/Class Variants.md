@@ -40,8 +40,8 @@ The game master may rule that a ranger can't select an environment that he has n
 
 **Table: Ranger Favored Environments**
 
-| Environment                                                                                              | Examples                                  |
-| -------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| Environment                                                                                           | Examples                                  |
+| ----------------------------------------------------------------------------------------------------- | ----------------------------------------- |
 | [[rangoric-srd/rules/Wilderness, Weather, and Environment#Aquatic Terrain\|Aquatic]]                  | sea, ocean (on or under water)            |
 | [[rangoric-srd/rules/Wilderness, Weather, and Environment#Desert Terrain\|Desert]], cold              | tundra                                    |
 | [[rangoric-srd/rules/Wilderness, Weather, and Environment#Desert Terrain\|Desert]], temperate or warm | badlands, sandy desert                    |
@@ -51,7 +51,7 @@ The game master may rule that a ranger can't select an environment that he has n
 | [[rangoric-srd/rules/Wilderness, Weather, and Environment#Marsh Terrain\|Marsh]]                      | bog, moor, swamp                          |
 | [[rangoric-srd/rules/Wilderness, Weather, and Environment#Mountain Terrain\|Mountain]]                | rugged terrain above 2,000 feet elevation |
 | [[rangoric-srd/rules/Wilderness, Weather, and Environment#Plains Terrain\|Plains]]                    | farmland, grassland, steppe, prairie      |
-| [[rangoric-srd/rules/Wilderness, Weather, and Environment\|Underground]]                               | dungeons, caverns                         |
+| [[rangoric-srd/rules/Wilderness, Weather, and Environment\|Underground]]                              | dungeons, caverns                         |
 
 ##### Rage Variant: Whirling Frenzy
 
@@ -151,7 +151,7 @@ The druid's body becomes plantlike. While in this form, the druid gains a +10 bo
 
 ###### Poison
 
-The druid gains a bite attack that deals bludgeoning, piercing, and slashing damage equal to a dagger of the druid's size (1d4 for a Medium druid, or 1d3 for a Small druid). In addition, the bite delivers a toxic [[rangoric-srd/rules/Afflictions#Poison|venom]] (injury; *save* Fort DC 10 + 1/2 druid's level + druid's Con modifier; *frequency* 1/minute for 2 minutes; *effect* 1d6 Con damage).
+The druid gains a bite attack that deals bludgeoning, piercing, and slashing damage equal to a dagger of the druid's size (1d4 for a Medium druid, or 1d3 for a Small druid). In addition, the bite delivers a toxic [[rangoric-srd/rules/Afflictions#Poison|venom]] (injury; _save_ Fort DC 10 + 1/2 druid's level + druid's Con modifier; _frequency_ 1/minute for 2 minutes; _effect_ 1d6 Con damage).
 
 ###### Scent
 

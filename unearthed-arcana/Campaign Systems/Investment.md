@@ -67,31 +67,32 @@ This list of investments is not meant to be exhaustive; NPC ingenuity could open
 **Table: Investment Rewards**
 
 | Investment   | Normal Return | Failed Year | Normal Year | Breakout Year | Breakout Return |
-|--------------|---------------|-------------|-------------|---------------|-----------------|
-| *Arts*       |               |             |             |               |                 |
+| ------------ | ------------- | ----------- | ----------- | ------------- | --------------- |
+| _Arts_       |               |             |             |               |                 |
 | Creative     | 4%            | 01–30       | 31–95       | 96–00         | 2d4+1           |
 | Performing   | 2%            | 01–35       | 36–95       | 96–00         | 2d6+1           |
 | Banking      | 2%            | 01–10       | 11–98       | 99–00         | 1d4+1           |
-| *Crafting*   |               |             |             |               |                 |
+| _Crafting_   |               |             |             |               |                 |
 | Common       | 1%            | 01–05       | 06–95       | 96–00         | 1d3+1           |
 | Magical      | 5%            | 01–30       | 31–95       | 96–00         | 1d8+1           |
 | Military     | 5%            | 01–15       | 16–90       | 91–00         | 1d6+1           |
 | Exploration  | 2%            | 01–40       | 41–85       | 86–00         | 2d8+1           |
 | Granary/Mill | 3%            | 01–10       | 11–98       | 99–00         | 1d3+1           |
-| *Guild*      |               |             |             |               |                 |
+| _Guild_      |               |             |             |               |                 |
 | Assassins'   | 5%            | 01–30       | 31–95       | 96–00         | 2d4+1           |
 | Crafting     | 2%            | 01–05       | 06–98       | 99–00         | 1d3+1           |
 | Merchant     | 3%            | 01–10       | 11–98       | 99–00         | 1d4+1           |
 | Thieves'     | 4%            | 01–15       | 16–90       | 91–00         | 1d8+1           |
-| *Imports*    |               |             |             |               |                 |
+| _Imports_    |               |             |             |               |                 |
 | Exotic       | 5%            | 01–30       | 31–90       | 91–00         | 1d10+1          |
 | Ordinary     | 2%            | 01–15       | 16–95       | 96–00         | 1d4+1           |
 | Invention    | 3%            | 01–40       | 41–90       | 91–00         | 2d6+1           |
 | Protection   | 3%            | 01–30       | 31–95       | 96–00         | 1d8+1           |
 | Quarry       | 3%            | 01–20       | 21–90       | 91–00         | 1d6+1           |
-| *Research*   |               |             |             |               |                 |
+| _Research_   |               |             |             |               |                 |
 | Magical      | 5%            | 01–50       | 51–75       | 76–00         | 2d6+1           |
 | Mundane      | 3%            | 01–20       | 21–85       | 86–00         | 1d8+1           |
 | Stable       | 1%            | 01–05       | 06–98       | 99–00         | 1d3+1           |
 | Tavern       | 2%            | 01–10       | 11–98       | 99–00         | 1d4+1           |
+
 ^investment-rewards

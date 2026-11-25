@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 **Race**: [[rangoric-srd/races/Sylph|Sylph]]. **Replaces**: spell-like ability.
 
-Sylphs with this racial trait feel kinship toward the creatures of the air, and can use *[[rangoric-srd/spells/Speak with Animals|speak with animals]]* once per day to speak to birds or other flying animals. Her caster level for these effects is equal to her character level.
+Sylphs with this racial trait feel kinship toward the creatures of the air, and can use _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_ once per day to speak to birds or other flying animals. Her caster level for these effects is equal to her character level.

@@ -13,12 +13,12 @@ tags: [rangoric, rangoric/monster]
 
 # Earth Elemental
 
-  - [[rangoric-srd/monsters/elemental/Earth Elemental, Small|Earth Elemental, Small]]
-  - [[rangoric-srd/monsters/elemental/Earth Elemental, Medium|Earth Elemental, Medium]]
-  - [[rangoric-srd/monsters/elemental/Earth Elemental, Large|Earth Elemental, Large]]
-  - [[rangoric-srd/monsters/elemental/Earth Elemental, Huge|Earth Elemental, Huge]]
-  - [[rangoric-srd/monsters/elemental/Earth Elemental, Greater|Earth Elemental, Greater]]
-  - [[rangoric-srd/monsters/elemental/Earth Elemental, Elder|Earth Elemental, Elder]]
+- [[rangoric-srd/monsters/elemental/Earth Elemental, Small|Earth Elemental, Small]]
+- [[rangoric-srd/monsters/elemental/Earth Elemental, Medium|Earth Elemental, Medium]]
+- [[rangoric-srd/monsters/elemental/Earth Elemental, Large|Earth Elemental, Large]]
+- [[rangoric-srd/monsters/elemental/Earth Elemental, Huge|Earth Elemental, Huge]]
+- [[rangoric-srd/monsters/elemental/Earth Elemental, Greater|Earth Elemental, Greater]]
+- [[rangoric-srd/monsters/elemental/Earth Elemental, Elder|Earth Elemental, Elder]]
 
 When summoned to the Material Plane, an earth elemental consists of whatever types of dirt, stones, precious metals, and gems it was conjured from.
 

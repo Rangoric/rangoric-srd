@@ -18,10 +18,10 @@ tags: [rangoric, rangoric/magic-item]
 
 # Blood-Hunting
 
-A *blood-hunting* weapon excels against enemies with the bloodline class feature. Against a designated foe, the weapon's enhancement bonus is 2 better than its actual bonus. It also deals an additional 2d6 points of damage against such foes. When combined with abilities like *[[rangoric-srd/magic-items/weapon-abilities/Bane (Weapon Special Ability)|bane]]* or *[[rangoric-srd/magic-items/weapon-abilities/Spirit-Hunting|spirit-hunting]]*, the enhancement bonus increases granted by these abilities don't stack, but an extra 1d6 points of damage are added to the additional damage for each special ability beyond the first. (For example, a *bane blood-hunting* weapon would deal 3d6 additional points of damage, and a *bane blood-hunting spirit-hunting* weapon would deal 4d6 additional points of damage.) To randomly determine a weapon's designated foe, roll on the following table. Other designated foes are possible, but most of these weapons are tuned against creatures with the following bloodlines.
+A _blood-hunting_ weapon excels against enemies with the bloodline class feature. Against a designated foe, the weapon's enhancement bonus is 2 better than its actual bonus. It also deals an additional 2d6 points of damage against such foes. When combined with abilities like _[[rangoric-srd/magic-items/weapon-abilities/Bane (Weapon Special Ability)|bane]]_ or _[[rangoric-srd/magic-items/weapon-abilities/Spirit-Hunting|spirit-hunting]]_, the enhancement bonus increases granted by these abilities don't stack, but an extra 1d6 points of damage are added to the additional damage for each special ability beyond the first. (For example, a _bane blood-hunting_ weapon would deal 3d6 additional points of damage, and a _bane blood-hunting spirit-hunting_ weapon would deal 4d6 additional points of damage.) To randomly determine a weapon's designated foe, roll on the following table. Other designated foes are possible, but most of these weapons are tuned against creatures with the following bloodlines.
 
 | d%     | Designated Foe |
-|--------|----------------|
+| ------ | -------------- |
 | 01–05  | Aberrant       |
 | 06–15  | Abyssal        |
 | 16–30  | Arcane         |
@@ -35,4 +35,4 @@ A *blood-hunting* weapon excels against enemies with the bloodline class feature
 | 91–95  | Other          |
 | 96–100 | All            |
 
-Moderate conjuration; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Summon Monster I|summon monster I]]*; Price +1 bonus.
+Moderate conjuration; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Summon Monster I|summon monster I]]_; Price +1 bonus.

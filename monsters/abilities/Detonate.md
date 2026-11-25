@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Detonate
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “detonate”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “detonate”, on the Special Attacks line.
 
 A blood hag in fiery form can explode in a 30-foot-radius burst that deals 8d6 points of fire damage (Reflex DC 18 for half). Using this ability returns a blood hag to her normal form. The save DC is Constitution-based. The [[rangoric-srd/monsters/hag/Blood Hag|blood hag]] has it.

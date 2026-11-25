@@ -57,6 +57,6 @@ A bane weapon excels at attacking one type or subtype of creature. Against its d
 | 91–98  | Undead               |
 | 99–100 | Vermin               |
 
-**Fey bane and humanoid bane**: A *fey bane* weapon is a bane weapon whose designated foe is fey. A *humanoid bane* weapon has all humanoids, of every subtype, as its designated foe; it is priced as a +2 bonus.
+**Fey bane and humanoid bane**: A _fey bane_ weapon is a bane weapon whose designated foe is fey. A _humanoid bane_ weapon has all humanoids, of every subtype, as its designated foe; it is priced as a +2 bonus.
 
 Moderate conjuration; CL 8th; Craft Magic Arms and Armor, summon monster I; Price +1 bonus.

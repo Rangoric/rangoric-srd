@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Druid Magic
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “druid magic”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “druid magic”, on the Special Qualities line.
 
 A hamadryad can use any magic item as if she were a 20th-level druid. The [[rangoric-srd/monsters/nymph/Hamadryad|hamadryad]] has it.

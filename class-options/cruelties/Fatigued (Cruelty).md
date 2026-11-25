@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Fatigued
 
-*A [[rangoric-srd/classes/Antipaladin#^antipaladin-cruelty|cruelty]], available from 3rd level.*
+_A [[rangoric-srd/classes/Antipaladin#^antipaladin-cruelty|cruelty]], available from 3rd level._
 
 The target is [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]].

@@ -15,8 +15,8 @@ tags: [rangoric, rangoric/spell]
 
 # Bestow
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Sor/Wiz 6
+- **Level**: Sor/Wiz 6
 
-As *[[rangoric-srd/spells/Grant|grant]]*, except that spells with Personal range of up to 5th level may be transferred to the subject.
+As _[[rangoric-srd/spells/Grant|grant]]_, except that spells with Personal range of up to 5th level may be transferred to the subject.

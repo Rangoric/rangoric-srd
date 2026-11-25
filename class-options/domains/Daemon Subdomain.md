@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Daemon Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Evil Domain|Evil]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Evil Domain|Evil]] domain._
 
 ## Replacement Power
 
@@ -27,8 +27,8 @@ This power replaces the [[rangoric-srd/class-options/domains/Evil Domain#Granted
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Cause Fear\|Cause Fear]] | One creature of 5 HD or less flees for 1d4 rounds. |
-| 3rd | [[rangoric-srd/spells/Vampiric Touch\|Vampiric Touch]] | Touch deals 1d6/two levels damage; caster gains damage as hp. |
-| 6th | [[rangoric-srd/spells/Planar Binding\|Planar Binding]] (daemons only) | As lesser planar binding, but up to 12 HD. |
+| Level | Spell                                                                 | Brief Description                                             |
+| ----- | --------------------------------------------------------------------- | ------------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Cause Fear\|Cause Fear]]                        | One creature of 5 HD or less flees for 1d4 rounds.            |
+| 3rd   | [[rangoric-srd/spells/Vampiric Touch\|Vampiric Touch]]                | Touch deals 1d6/two levels damage; caster gains damage as hp. |
+| 6th   | [[rangoric-srd/spells/Planar Binding\|Planar Binding]] (daemons only) | As lesser planar binding, but up to 12 HD.                    |

@@ -27,7 +27,7 @@ Psychometabolism
 **Range:** Touch  
 **Targets:** You and one willing creature, or two willing creatures; see text  
 **Duration:** 1 hour/level (D)  
-**Power Points:** 3  
+**Power Points:** 3
 
 This power creates a psychometabolic connection between you and a willing subject so that some of your wounds are transferred to the subject. You take half damage from all attacks that deal hit point damage to you, and the subject takes the remainder. The amount of damage not taken by you is taken by the subject. If your hit points are reduced by a lowered Constitution score, that reduction is not shared with the subject because it is not a form of hit point damage. When this power ends, subsequent damage is no longer divided between the subject and you, but damage already shared is not reassigned.
 

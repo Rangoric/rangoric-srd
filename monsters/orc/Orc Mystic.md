@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Orc Mystic
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Orc)
-  - **Hit Dice**: 3d8+3 (20 hp)
-  - **Initiative**: –1
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 15 (+6 armor, –1 Dex), touch 9, flat-footed 15
-  - **Base Attack**: +2; **CMB**: +5; **CMD**: 14
-  - **Attack**: [[rangoric-srd/equipment/weapons/Battleaxe|Battleaxe]] +5 melee (1d8+3/×3) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +1 ranged (1d6+3)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Battleaxe|Battleaxe]] +5 melee (1d8+3/×3); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +1 ranged (1d6+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 4/day (DC 12, 2d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/races/Orc|weapon familiarity]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-  - **Saves**: Fort +5, Ref +1, Will +5
-  - **Abilities**: Str 17, Dex 8, Con 12, Int 8, Wis 13, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +4, [[rangoric-srd/skills/Theology|Theology]] +4
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Temperate hills, mountains, or underground
-  - **Organization**: Solitary, or with other orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])
-  - **Challenge Rating**: 2
-  - **Treasure**: NPC gear (combat gear: scroll of sound burst, scroll of summon monster II; other gear: breastplate, battleaxe, javelins (4), cloak of resistance +1, wooden holy symbol, 135 gp)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Orc)
+- **Hit Dice**: 3d8+3 (20 hp)
+- **Initiative**: –1
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 15 (+6 armor, –1 Dex), touch 9, flat-footed 15
+- **Base Attack**: +2; **CMB**: +5; **CMD**: 14
+- **Attack**: [[rangoric-srd/equipment/weapons/Battleaxe|Battleaxe]] +5 melee (1d8+3/×3) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +1 ranged (1d6+3)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Battleaxe|Battleaxe]] +5 melee (1d8+3/×3); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +1 ranged (1d6+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 4/day (DC 12, 2d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/races/Orc|weapon familiarity]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
+- **Saves**: Fort +5, Ref +1, Will +5
+- **Abilities**: Str 17, Dex 8, Con 12, Int 8, Wis 13, Cha 12
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +4, [[rangoric-srd/skills/Theology|Theology]] +4
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Temperate hills, mountains, or underground
+- **Organization**: Solitary, or with other orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])
+- **Challenge Rating**: 2
+- **Treasure**: NPC gear (combat gear: scroll of sound burst, scroll of summon monster II; other gear: breastplate, battleaxe, javelins (4), cloak of resistance +1, wooden holy symbol, 135 gp)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 An orc mystic is an [[rangoric-srd/monsters/orc/Orc|orc]] with 3 levels of [[rangoric-srd/classes/Cleric|cleric]]. Feared for their ability to commune with the brutal gods of the orc pantheon, orc mystics are far more religious than common orcs. A mystic's relationship to the gods, however, is far from reverent or scholarly—a god is only as good as the blood one can shed through the god's unholy gifts.
 
@@ -79,4 +79,4 @@ An orc mystic speaks Common and Orc.
 
 **Domain Spell-Like Abilities** (CL 3rd; concentration +4): 4/day—[[rangoric-srd/class-options/domains/Trickery Domain|copycat]] (3 rounds), [[rangoric-srd/class-options/domains/Evil Domain|touch of evil]] (1 rounds).
 
-**Cleric spells prepared** (CL 3rd; concentration +4): 2nd—*[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*, *[[rangoric-srd/spells/Invisibility|invisibility]]* <sup>D</sup>; 1st—*[[rangoric-srd/spells/Bane|bane]]* (DC 12), *[[rangoric-srd/spells/Magic Weapon|magic weapon]]*, *[[rangoric-srd/spells/Murderous Command|murderous command]]* (DC 12), *[[rangoric-srd/spells/Protection from Good|protection from good]]* <sup>D</sup>; 0 (at will)—*[[rangoric-srd/spells/Bleed|bleed]]* (DC 11), *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Guidance|guidance]]*, *[[rangoric-srd/spells/Read Magic|read magic]]*; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Evil Domain|Evil]], [[rangoric-srd/class-options/domains/Trickery Domain|Trickery]].
+**Cleric spells prepared** (CL 3rd; concentration +4): 2nd—_[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_ <sup>D</sup>; 1st—_[[rangoric-srd/spells/Bane|bane]]_ (DC 12), _[[rangoric-srd/spells/Magic Weapon|magic weapon]]_, _[[rangoric-srd/spells/Murderous Command|murderous command]]_ (DC 12), _[[rangoric-srd/spells/Protection from Good|protection from good]]_ <sup>D</sup>; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 11), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Evil Domain|Evil]], [[rangoric-srd/class-options/domains/Trickery Domain|Trickery]].

@@ -19,11 +19,11 @@ tags: [rangoric, rangoric/spell]
 
 # Make Whole
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Clr 2, Occ 2, Psy 2
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One object of up to 10 cu. ft./ level
+- **Level**: Clr 2, Occ 2, Psy 2
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One object of up to 10 cu. ft./ level
 
 This spell functions like [[rangoric-srd/spells/Mending|mending]], except that make whole completely repairs an object made of any substance, even one with multiple breaks, to be as strong as new. The spell does not restore the magical abilities of a broken magic item made whole, and it cannot mend broken magic rods, staffs, or wands. The spell does not repair items that have been warped, burned, disintegrated, ground to powder, melted, or vaporized, nor does it affect creatures (including constructs).

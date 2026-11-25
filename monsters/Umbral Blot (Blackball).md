@@ -59,7 +59,7 @@ Organization: Solitary    
 Challenge Rating: 32      
 Treasure: None      
 Alignment: Always neutral      
-Advancement: 58-63 HD (Medium-size); 64-79 HD (Large); 80-95 HD (Huge); 96-171 HD (Gargantuan)      
+Advancement: 58-63 HD (Medium-size); 64-79 HD (Large); 80-95 HD (Huge); 96-171 HD (Gargantuan)    
 
 #### Combat
 

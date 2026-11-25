@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Extended Mutagen
 
-*A [[rangoric-srd/prestige-classes/Master Chymist#^master-chymist-advanced-mutagen|master chymist’s advanced mutagen]] (Ex).*
+_A [[rangoric-srd/prestige-classes/Master Chymist#^master-chymist-advanced-mutagen|master chymist’s advanced mutagen]] (Ex)._
 
 The duration of the master chymist’s [[rangoric-srd/prestige-classes/Master Chymist#^master-chymist-mutate|mutation]] is doubled.

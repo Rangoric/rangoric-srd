@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Rapid Stinging
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “rapid stinging”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “rapid stinging”, on the Special Attacks line.
 
 The creature's stinger strikes with astounding speed; it can make one additional attack in a round with its sting as a swift action. The [[rangoric-srd/monsters/scorpion/Black Scorpion|black scorpion]] has it.

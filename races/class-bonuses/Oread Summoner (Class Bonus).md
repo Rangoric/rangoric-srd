@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Oread Summoner
 
-*An [[rangoric-srd/races/Oread|oread]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Summoner#^summoner-class-bonuses|summoner]] or [[rangoric-srd/classes/Unchained Summoner#^unchained-summoner-class-bonuses|unchained summoner]] level.*
+_An [[rangoric-srd/races/Oread|oread]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Summoner#^summoner-class-bonuses|summoner]] or [[rangoric-srd/classes/Unchained Summoner#^unchained-summoner-class-bonuses|unchained summoner]] level._
 
 Add a +1/4 natural armor bonus to the AC of the summoner's [[rangoric-srd/classes/Summoner#^summoner-eidolon|eidolon]].

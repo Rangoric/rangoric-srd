@@ -31,6 +31,6 @@ Psychokinesis \[see text\]
 **Duration:** 1 round/level  
 **Saving Throw:** Fortitude negates (object, harmless)  
 **Power Resistance:** None  
-**Power Points:** 7  
+**Power Points:** 7
 
 As [[rangoric-srd/powers/Claw of Energy|claw of energy]], except this power can be manifested on a touched weapon. This power’s subtype is the same as the type of energy infused in the touched weapon.

@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Fireball
 
-*Evocation \[Fire\]*
+_Evocation \[Fire\]_
 
-  - **Level**: Blr 3, Mag 3, Occ 3, Sor/Wiz 3
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Area**: 20-ft.-radius spread
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Reflex half
-  - **Spell Resistance**: Yes
+- **Level**: Blr 3, Mag 3, Occ 3, Sor/Wiz 3
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Area**: 20-ft.-radius spread
+- **Duration**: Instantaneous
+- **Saving Throw**: Reflex half
+- **Spell Resistance**: Yes
 
 A fireball spell is an explosion of flame that detonates with a low roar and deals 1d6 points of fire damage per caster level (maximum 10d6) to every creature within the area. Unattended objects also take this damage. The explosion creates almost no pressure.
 
@@ -46,4 +46,4 @@ You point your finger and determine the range (distance and height) at which the
 
 The fireball sets fire to combustibles and damages objects in the area. It can melt metals with low melting points, such as lead, gold, copper, silver, and bronze. If the damage caused to an interposing barrier shatters or breaks through it, the fireball may continue beyond the barrier if the area permits; otherwise it stops at the barrier just as any other spell effect does.
 
-*Material Component*: A tiny ball of bat guano and sulfur.
+_Material Component_: A tiny ball of bat guano and sulfur.

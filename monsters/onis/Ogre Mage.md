@@ -38,30 +38,31 @@ change: modified
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---
+
 # Ogre Mage
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Giant, Native, Oni, Shapechanger)
-  - **Hit Dice**: 8d10+48 (92 hp)
-  - **Initiative**: +7
-  - **Speed**: 40 ft. (8 squares), fly 60 ft. (good)
-  - **Armor Class**: 21 (+4 armor, +3 Dex, +5 natural, –1 size), touch 12, flat-footed 18
-  - **Base Attack**: +8; **CMB**: +16; **CMD**: 29
-  - **Attack**: [[rangoric-srd/equipment/weapons/Greatsword|Greatsword]] +14 melee (3d6+10) or [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +10 ranged (2d6+7)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Greatsword|Greatsword]] +14/+9 melee (3d6+10); or [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +10 ranged (2d6+7)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (fire or acid), [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (Small, Medium, or Large humanoid; alter self or giant form I), [[rangoric-srd/monsters/abilities/Flight|flight]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
-  - **Saves**: Fort +12, Ref +5, Will +10
-  - **Abilities**: Str 24, Dex 17, Con 23, Int 14, Wis 14, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Arcana|Arcana]] +13, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Emulation|Emulation]] +14, [[rangoric-srd/skills/Imitation|Imitation]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13
-  - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]]
-  - **Environment**: Cold hills
-  - **Organization**: Solitary, pair, or patrol (1–2 plus 2–4 ogres)
-  - **Challenge Rating**: 8
-  - **Treasure**: Double (chain shirt, greatsword, composite longbow [+7 Str] with 20 arrows, other treasure)
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: +7
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Giant, Native, Oni, Shapechanger)
+- **Hit Dice**: 8d10+48 (92 hp)
+- **Initiative**: +7
+- **Speed**: 40 ft. (8 squares), fly 60 ft. (good)
+- **Armor Class**: 21 (+4 armor, +3 Dex, +5 natural, –1 size), touch 12, flat-footed 18
+- **Base Attack**: +8; **CMB**: +16; **CMD**: 29
+- **Attack**: [[rangoric-srd/equipment/weapons/Greatsword|Greatsword]] +14 melee (3d6+10) or [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +10 ranged (2d6+7)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Greatsword|Greatsword]] +14/+9 melee (3d6+10); or [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +10 ranged (2d6+7)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (fire or acid), [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (Small, Medium, or Large humanoid; alter self or giant form I), [[rangoric-srd/monsters/abilities/Flight|flight]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
+- **Saves**: Fort +12, Ref +5, Will +10
+- **Abilities**: Str 24, Dex 17, Con 23, Int 14, Wis 14, Cha 17
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Arcana|Arcana]] +13, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Emulation|Emulation]] +14, [[rangoric-srd/skills/Imitation|Imitation]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13
+- **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]]
+- **Environment**: Cold hills
+- **Organization**: Solitary, pair, or patrol (1–2 plus 2–4 ogres)
+- **Challenge Rating**: 8
+- **Treasure**: Double (chain shirt, greatsword, composite longbow [+7 Str] with 20 arrows, other treasure)
+- **Alignment**: Usually lawful evil
+- **Advancement**: By character class
+- **Level Adjustment**: +7
 
 The ogre mage, like all oni, is an evil spirit come to the Material Plane and clad in living flesh—in this case, that of a brutish ogre. Ogre mages are often found serving as leaders of ogre tribes, yet not all of them seek to link their destinies to their less-intelligent kin. Some become lone marauders who hold villages hostage, demanding regular tribute in the form of gold, food, or maidens, lest they take more than they ask.
 
@@ -109,4 +110,4 @@ Ogre mage characters possess the following racial traits.
 
 - Level adjustment +7.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th): Constant—*[[rangoric-srd/spells/Fly|fly]]*; At will—*[[rangoric-srd/spells/Darkness|darkness]], [[rangoric-srd/spells/Invisibility|invisibility]]*; 1/day—*[[rangoric-srd/spells/Charm Monster|charm monster]]* (DC 17), *[[rangoric-srd/spells/Cone of Cold|cone of cold]]* (DC 18), *[[rangoric-srd/spells/Gaseous Form|gaseous form]], [[rangoric-srd/spells/Deep Slumber|deep slumber]]* (DC 16).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th): Constant—_[[rangoric-srd/spells/Fly|fly]]_; At will—_[[rangoric-srd/spells/Darkness|darkness]], [[rangoric-srd/spells/Invisibility|invisibility]]_; 1/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 17), _[[rangoric-srd/spells/Cone of Cold|cone of cold]]_ (DC 18), _[[rangoric-srd/spells/Gaseous Form|gaseous form]], [[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (DC 16).

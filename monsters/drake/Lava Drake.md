@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Lava Drake
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Fire)
-  - **Hit Dice**: 11d12+44 (115 hp)
-  - **Initiative**: +7
-  - **Speed**: 20 ft. (4 squares), burrow (lava only) 30 ft., fly 60 ft. (average)
-  - **Armor Class**: 22 (+3 Dex, +10 natural, –1 size), touch 12, flat-footed 19
-  - **Base Attack**: +11; **CMB**: +19 (+21 bull rush); **CMD**: 32 (34 vs. bull rush)
-  - **Attack**: Bite +17 melee (1d8+7) or claw +17 melee (1d6+7) or tail slap +20 melee (1d8+3)
-  - **Full Attack**: Bite +17 melee (1d8+7) and 2 claws +17 melee (1d6+7) and tail slap +15 melee (1d8+3)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Magma Shake|Magma shake]], [[rangoric-srd/monsters/abilities/Pyroclastic Vomit|pyroclastic vomit]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], immunity to fire, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, vulnerable to cold
-  - **Saves**: Fort +11, Ref +10, Will +8
-  - **Abilities**: Str 25, Dex 16, Con 18, Int 9, Wis 12, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +13 (+21 submerged in molten rock or metal)
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Warm forests, hills, or mountains
-  - **Organization**: Solitary, pair, or rampage (3–12)
-  - **Challenge Rating**: 9
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Fire)
+- **Hit Dice**: 11d12+44 (115 hp)
+- **Initiative**: +7
+- **Speed**: 20 ft. (4 squares), burrow (lava only) 30 ft., fly 60 ft. (average)
+- **Armor Class**: 22 (+3 Dex, +10 natural, –1 size), touch 12, flat-footed 19
+- **Base Attack**: +11; **CMB**: +19 (+21 bull rush); **CMD**: 32 (34 vs. bull rush)
+- **Attack**: Bite +17 melee (1d8+7) or claw +17 melee (1d6+7) or tail slap +20 melee (1d8+3)
+- **Full Attack**: Bite +17 melee (1d8+7) and 2 claws +17 melee (1d6+7) and tail slap +15 melee (1d8+3)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Magma Shake|Magma shake]], [[rangoric-srd/monsters/abilities/Pyroclastic Vomit|pyroclastic vomit]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], immunity to fire, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, vulnerable to cold
+- **Saves**: Fort +11, Ref +10, Will +8
+- **Abilities**: Str 25, Dex 16, Con 18, Int 9, Wis 12, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +13 (+21 submerged in molten rock or metal)
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Warm forests, hills, or mountains
+- **Organization**: Solitary, pair, or rampage (3–12)
+- **Challenge Rating**: 9
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The deviant and destructive cousins of primal magma dragons, lava drakes rise from smoldering volcanic crevasses to terrorize and devour those creatures weaker than themselves. While far less intelligent that their draconic kin, they are equally arrogant and seek out the adoration of humanoids. They can and often do submerge themselves in molten rock, burrowing through the lava to sneak up on prey, or to provide a dramatic display of power to those who worship them. Thick, black-crusted scales cover a lava drake's body.
 

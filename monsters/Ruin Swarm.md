@@ -59,7 +59,7 @@ Organization: Solitary, cloud (2-4 swarms), or plague (5-8 swarms)   
 Challenge Rating: 23     
 Treasure: None     
 Alignment: Always neutral     
-Advancement: None     
+Advancement: None   
 
 #### Combat
 

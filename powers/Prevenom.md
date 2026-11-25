@@ -28,7 +28,7 @@ Psychometabolism (Creation)
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 min./level or until discharged  
-**Power Points:** 1  
+**Power Points:** 1
 
 If you have a claw attack (either from an actual natural weapon or from an effect such as [[rangoric-srd/powers/Claws of the Beast|claws of the beast]]), you can use this power to produce a mild venom that coats one of your claws. On your next successful melee attack, the venom deals 2 points of Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]]. A target struck by the poison can make a Fortitude save (DC 10 + 1/2 your manifester level + your key ability modifier) to negate the damage.
 

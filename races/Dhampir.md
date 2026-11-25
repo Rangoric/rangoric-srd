@@ -26,7 +26,7 @@ Perks:
 - Undead Resistance: +2 racial bonus on saving throws against disease and mind-affecting effects.
 - Light Sensitivity: Dhampirs have [[rangoric-srd/rules/Special Abilities and Conditions#Light Sensitivity|light sensitivity]].
 - Negative Energy Affinity: Though a living creature, a dhampir has [[rangoric-srd/monsters/abilities/Negative Energy Affinity|negative energy affinity]].
-- Spell-Like Ability: Dhampirs can use *[[rangoric-srd/spells/Detect Undead|detect undead]]* three times per day as a spell-like ability (caster level equal to the dhampir's character level).
+- Spell-Like Ability: Dhampirs can use _[[rangoric-srd/spells/Detect Undead|detect undead]]_ three times per day as a spell-like ability (caster level equal to the dhampir's character level).
 - Resist Level Drain: A dhampir takes no penalties from [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|energy drain]] effects, though he can still be killed if he accrues more negative levels than he has Hit Dice. After 24 hours, any negative levels a dhampir takes are removed without the need for an additional saving throw.
 
 Languages:
@@ -42,17 +42,17 @@ Bonus Languages:
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 110 years | +4d6 | +6d6 | +10d6 |
+| --------- | --------- | ----------- | ------- |
+| 110 years | +4d6      | +6d6        | +10d6   |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 175 years | 263 years | 350 years | +4d% years |
+| Middle Age | Old       | Venerable | Maximum Age |
+| ---------- | --------- | --------- | ----------- |
+| 175 years  | 263 years | 350 years | +4d% years  |
 
-| Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 4 ft. 10 in. | +2d10 | 120 lb. | × 5 lb. |
-| Female | 4 ft. 5 in. | +2d10 | 85 lb. | × 5 lb. |
+| Gender | Base Height  | Height Modifier | Base Weight | Weight Modifier |
+| ------ | ------------ | --------------- | ----------- | --------------- |
+| Male   | 4 ft. 10 in. | +2d10           | 120 lb.     | × 5 lb.         |
+| Female | 4 ft. 5 in.  | +2d10           | 85 lb.      | × 5 lb.         |
 
 ### Description
 
@@ -84,11 +84,11 @@ Almost universally, those inclined toward magic pursue the field of necromancy, 
 
 A dhampir can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Dayborn\|Dayborn]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Fangs\|Fangs]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Vampiric Empathy\|Vampiric Empathy]] | Manipulative |
+| Trait                                                                   | Replaces           |
+| ----------------------------------------------------------------------- | ------------------ |
+| [[rangoric-srd/races/racial-traits/Dayborn\|Dayborn]]                   | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Fangs\|Fangs]]                       | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Vampiric Empathy\|Vampiric Empathy]] | Manipulative       |
 
 ### Class Bonuses
 
@@ -100,7 +100,7 @@ A dhampir gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
-| [[rangoric-srd/class-options/archetypes/wizard/Cruoromancer (Archetype)\|Cruoromancer]] | [[rangoric-srd/classes/Wizard\|Wizard]] |
-| [[rangoric-srd/class-options/archetypes/inquisitor/Kinslayer (Archetype)\|Kinslayer]] | [[rangoric-srd/classes/Inquisitor (Class)\|Inquisitor]] |
+| Archetype                                                                               | Class                                                   |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| [[rangoric-srd/class-options/archetypes/wizard/Cruoromancer (Archetype)\|Cruoromancer]] | [[rangoric-srd/classes/Wizard\|Wizard]]                 |
+| [[rangoric-srd/class-options/archetypes/inquisitor/Kinslayer (Archetype)\|Kinslayer]]   | [[rangoric-srd/classes/Inquisitor (Class)\|Inquisitor]] |

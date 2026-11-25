@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 # Summon Behemoth
 
-Conjuration (Summoning)   
+Conjuration (Summoning)  
 Casting DC: 72  
 Components: V, S  
 Casting Time: 1 standard action  
@@ -33,6 +33,6 @@ Effect: Summoned creature
 Duration: 20 rounds (D)  
 Saving Throw: None  
 Spell Resistance: No  
-To Develop: 648,000 gp; 13 days; 25,920 XP. Seed: summon (DC 14). Factors: summon CR 21 creature (DC +38), 1-action casting time (+20 DC).  
+To Develop: 648,000 gp; 13 days; 25,920 XP. Seed: summon (DC 14). Factors: summon CR 21 creature (DC +38), 1-action casting time (+20 DC).
 
 The character can summon a behemoth to attack his or her enemies. It appears where the character designates and acts immediately, on the character’s turn. It attacks the character’s opponents to the best of its ability. If the character can communicate with the creature, he or she can direct it not to attack, to attack particular enemies, or to perform other actions. Summoned creatures act normally on the last round of the spell and disappear at the end of their turn.

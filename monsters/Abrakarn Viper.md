@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Abrakarn Viper
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]] (Chaotic, Evil)
-  - **Hit Dice**: 18d10+40 (139 hp)
-  - **Initiative**: +3
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 30 (+3 Dex, +19 natural, –2 size), touch 11, flat-footed 27
-  - **Base Attack**: +18; **CMB**: +29; **CMD**: 42 (can't be tripped)
-  - **Attack**: Bite +25 melee (2d8+9 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: 3 bites +25 melee (2d8+9 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Confusing Critical|Confusing critical]], [[rangoric-srd/monsters/abilities/Poison|poison]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Demon-Souled|demon-souled]], [[rangoric-srd/monsters/abilities/Find Master|find master]], [[rangoric-srd/monsters/abilities/Guard|guard]], [[rangoric-srd/monsters/abilities/Shield Other|shield other]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 24
-  - **Saves**: Fort +6, Ref +9, Will +10
-  - **Abilities**: Str 28, Dex 17, Con —, Int —, Wis 19, Cha 1
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Any land
-  - **Organization**: Solitary or pair
-  - **Challenge Rating**: 13
-  - **Treasure**: None
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]] (Chaotic, Evil)
+- **Hit Dice**: 18d10+40 (139 hp)
+- **Initiative**: +3
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 30 (+3 Dex, +19 natural, –2 size), touch 11, flat-footed 27
+- **Base Attack**: +18; **CMB**: +29; **CMD**: 42 (can't be tripped)
+- **Attack**: Bite +25 melee (2d8+9 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: 3 bites +25 melee (2d8+9 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Confusing Critical|Confusing critical]], [[rangoric-srd/monsters/abilities/Poison|poison]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Demon-Souled|demon-souled]], [[rangoric-srd/monsters/abilities/Find Master|find master]], [[rangoric-srd/monsters/abilities/Guard|guard]], [[rangoric-srd/monsters/abilities/Shield Other|shield other]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 24
+- **Saves**: Fort +6, Ref +9, Will +10
+- **Abilities**: Str 28, Dex 17, Con —, Int —, Wis 19, Cha 1
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Any land
+- **Organization**: Solitary or pair
+- **Challenge Rating**: 13
+- **Treasure**: None
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Demonic spirits imbue this serpentine construct with the unnatural power to protect anyone who wears its diadem of control.
 
@@ -82,4 +82,4 @@ Demonic spirits imbue this serpentine construct with the unnatural power to prot
 
 An abrakarn viper's body and its diadem of control are built from 5,000 pounds of magically treated brass and rare metals costing 10,000 gp in total.
 
-CL 8th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Animate Objects|animate object]]*, *[[rangoric-srd/spells/Confusion|confusion]]*, *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, *[[rangoric-srd/spells/Shield Other|shield other]]*; Skill [[rangoric-srd/skills/Craft|Craft]] (armor), [[rangoric-srd/skills/Craft|Craft]] (blacksmithing), or [[rangoric-srd/skills/Craft|Craft]] (weapons) DC 21; Price 150,000 gp; Cost 80,000 gp.
+CL 8th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Objects|animate object]]_, _[[rangoric-srd/spells/Confusion|confusion]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Shield Other|shield other]]_; Skill [[rangoric-srd/skills/Craft|Craft]] (armor), [[rangoric-srd/skills/Craft|Craft]] (blacksmithing), or [[rangoric-srd/skills/Craft|Craft]] (weapons) DC 21; Price 150,000 gp; Cost 80,000 gp.

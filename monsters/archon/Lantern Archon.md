@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Lantern Archon
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Archon, Extraplanar, Good, Lawful)
-  - **Hit Dice**: 2d10+2 (13 hp)
-  - **Initiative**: +4
-  - **Speed**: fly 60 ft. (perfect)
-  - **Armor Class**: 15 (+4 natural, +1 size; +2 deflect vs. evil), touch 11, flat-footed 15
-  - **Base Attack**: +2; **CMB**: –4; **CMD**: 6
-  - **Attack**: 2 light rays +3 ranged touch (1d6)
-  - **Full Attack**: 2 light rays +3 ranged touch (1d6)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], aura of menace (DC 13), [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], gestalt, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification
-  - **Saves**: Fort +4, Ref +3, Will +0
-  - **Abilities**: Str 1, Dex 11, Con 12, Int 6, Wis 11, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Theology|Theology]] +3
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
-  - **Environment**: A lawful good-aligned plane
-  - **Organization**: Solitary, pair, or squad (3–6)
-  - **Challenge Rating**: 2
-  - **Treasure**: None
-  - **Alignment**: Always lawful good
-  - **Advancement**: 2–4 HD (Small)
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Archon, Extraplanar, Good, Lawful)
+- **Hit Dice**: 2d10+2 (13 hp)
+- **Initiative**: +4
+- **Speed**: fly 60 ft. (perfect)
+- **Armor Class**: 15 (+4 natural, +1 size; +2 deflect vs. evil), touch 11, flat-footed 15
+- **Base Attack**: +2; **CMB**: –4; **CMD**: 6
+- **Attack**: 2 light rays +3 ranged touch (1d6)
+- **Full Attack**: 2 light rays +3 ranged touch (1d6)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], aura of menace (DC 13), [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], gestalt, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification
+- **Saves**: Fort +4, Ref +3, Will +0
+- **Abilities**: Str 1, Dex 11, Con 12, Int 6, Wis 11, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Theology|Theology]] +3
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
+- **Environment**: A lawful good-aligned plane
+- **Organization**: Solitary, pair, or squad (3–6)
+- **Challenge Rating**: 2
+- **Treasure**: None
+- **Alignment**: Always lawful good
+- **Advancement**: 2–4 HD (Small)
+- **Level Adjustment**: —
 
 Friendly and curious beings, lantern archons eagerly converse with and assist other creatures. Their bodies, however, are merely globes of spiritual purity and pale light, and though they might interact with their surroundings through pure force of will, such interaction proves too weak to help with most physical tasks. Their evasive natures make them exceptional at scouting—at least in areas where strange lights aren't unusual—relaying messages, and overwhelming enemies with surprise and group tactics. Although they appear fragile, their forms guard them against all but the most profane attacks.
 
@@ -74,7 +74,7 @@ Small but fast and zealous, lantern archons make excellent support troops in cel
 
 A lantern archon has little reason to get within melee range. It usually hovers just close enough to bring the enemy within its aura of menace, then blasts away with its light rays. Lantern archons prefer to concentrate on a single opponent, seeking to reduce enemy numbers quickly.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd): Constant—*[[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]]*; At Will—*[[rangoric-srd/spells/Aid|aid]]*, *[[rangoric-srd/spells/Continual Flame|continual flame]]*, *[[rangoric-srd/spells/Detect Evil|detect evil]]*, *[[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (self plus 50 lbs. of objects only).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd): Constant—_[[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]]_; At Will—_[[rangoric-srd/spells/Aid|aid]]_, _[[rangoric-srd/spells/Continual Flame|continual flame]]_, _[[rangoric-srd/spells/Detect Evil|detect evil]]_, _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only).
 
 **Gestalt (Su)**: Nine lantern archons can fuse together as a full-round action, becoming a single Large entity that is more powerful than the individual archons that make up its parts. Looking like a whirlwind of dancing firefly lights, the gestalt has all the powers and abilities of a Large air elemental plus the following: archon, good, and lawful subtypes; archon traits (aura of menace DC 16); 2 light rays (2d6); DR 5/evil and magic. The archons can remain in this form for 2d4 rounds. When the gestalt separates back into individual lantern archons, its remaining hit points are divided evenly among them; if it had less than 9 hit points, some of the component archons die when the gestalt ends.
 

@@ -18,15 +18,15 @@ tags: [rangoric, rangoric/class-option]
 
 # Wood Healer
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Wood Element|wood]]
-  - **Type**: utility (Sp)
-  - **Level**: 1
-  - **Burn**: 1; see text
-  - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Positive Blast|positive blast]]
-  - **Saving Throw**: none
-  - **Spell Resistance**: yes
+- **Element**: [[rangoric-srd/class-options/elements/Wood Element|wood]]
+- **Type**: utility (Sp)
+- **Level**: 1
+- **Burn**: 1; see text
+- **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Positive Blast|positive blast]]
+- **Saving Throw**: none
+- **Spell Resistance**: yes
 
 This functions as [[rangoric-srd/class-options/wild-talents/Kinetic Healer|kinetic healer]], but you must base the amount of healing on your [[rangoric-srd/class-options/wild-talents/Positive Blast|positive blast]], not [[rangoric-srd/class-options/wild-talents/Wood Blast|wood blast]].
 

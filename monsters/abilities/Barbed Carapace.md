@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Barbed Carapace
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “barbed carapace”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “barbed carapace”, on the Special Qualities line.
 
 A lunarma's carapace is covered in jagged barbs. Any creature that grapples a lunarma or attacks it with unarmed strikes or natural weapons takes 1d4 points of damage from the vicious barbs. Using a reach weapon does not endanger the attacker this way. The [[rangoric-srd/monsters/Lunarma|lunarma]] has it.

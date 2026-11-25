@@ -60,7 +60,7 @@ Full **Attack:** Bite +5 melee (1d3-4)   
 Treasure: None     
 **Alignment:** Always neutral     
 **Advancement:** -     
-**Level Adjustment:** -     
+**Level Adjustment:** -   
 
 Brain moles are burrowing animals that use psionic powers to overcome large psionic prey. Small, furry, and nearly blind, brain moles are almost indistinguishable from their common animal cousins.
 
@@ -68,7 +68,7 @@ Brain moles eat small insects when they can’t get psionic energy.
 
 #### Combat
 
-Brain moles hunger for psionic energy. They hide in loose dirt and detritus on forest floors, watching for the approach of psionic creatures with their detect psionics power. When a suitable target comes in range, the brain moles then attack with their power leech ability. The moles remain hidden as long as possible. If threatened, they use aversion and mind thrust to discourage attackers, using their bite only as a last resort.  
+Brain moles hunger for psionic energy. They hide in loose dirt and detritus on forest floors, watching for the approach of psionic creatures with their detect psionics power. When a suitable target comes in range, the brain moles then attack with their power leech ability. The moles remain hidden as long as possible. If threatened, they use aversion and mind thrust to discourage attackers, using their bite only as a last resort.
 
 Cascade Flu (Ex): Disease-bite; Fortitude DC 9, incubation period one day, damage psionic cascade (every time an afflicted character manifests a power, she must make a DC 16 Concentration check; on a failed check, a psionic cascade is triggered \[see Psionic Maladies\]). The save DC is Constitution-based.
 

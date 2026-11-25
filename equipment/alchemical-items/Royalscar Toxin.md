@@ -28,7 +28,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Royalscar Toxin
 
-*Chymical/Toxin; Special*
+_Chymical/Toxin; Special_
 
 This chymical, if injected into a person by a weapon’s blade or simply poured into an open orifice or wound, causes instant paralysis of the entire body for 1d4 hours (Fort save DC 22). It can also cause permanent damage to the nerves and muscles (1d2 points of Constitution damage if 2nd Fort save (DC 18) failed). For the amount of toxin, it is very expensive, but the effects from such a small dosage make it effective (although they also make it difficult to administer). Lastly, the location where the poison enters the person’s system gains a permanent taint or scar in livid red-purple (thus its name).
 

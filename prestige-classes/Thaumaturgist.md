@@ -41,8 +41,8 @@ The thaumaturgist's class skills (and the key ability for each skill) are [[rang
 
 **Table: The Thaumaturgist**
 
-| Level | Special                | Spells per Day                           |
-| ----- | ---------------------- | ---------------------------------------- |
+| Level | Special                | Spells per Day                          |
+| ----- | ---------------------- | --------------------------------------- |
 | 1st   | Improved ally          | +1 level of existing spellcasting class |
 | 2nd   | Augment Summoning      | +1 level of existing spellcasting class |
 | 3rd   | Extended summoning     | +1 level of existing spellcasting class |

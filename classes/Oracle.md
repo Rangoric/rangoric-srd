@@ -42,53 +42,53 @@ The oracle’s class skills (and the key ability for each skill) are [[rangoric-
 
 **Table: The Oracle** ^table-the-oracle
 
-| Level | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th | Spells per Day: 7th | Spells per Day: 8th | Spells per Day: 9th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | Mystery, oracle's curse, orisons, revelation | 3 | — | — | — | — | — | — | — | — |
-| 2nd | Mystery spell | 4 | — | — | — | — | — | — | — | — |
-| 3rd | Revelation | 5 | — | — | — | — | — | — | — | — |
-| 4th | Mystery spell | 6 | 3 | — | — | — | — | — | — | — |
-| 5th | — | 6 | 4 | — | — | — | — | — | — | — |
-| 6th | Mystery spell | 6 | 5 | 3 | — | — | — | — | — | — |
-| 7th | Revelation | 6 | 6 | 4 | — | — | — | — | — | — |
-| 8th | Mystery spell | 6 | 6 | 5 | 3 | — | — | — | — | — |
-| 9th | — | 6 | 6 | 6 | 4 | — | — | — | — | — |
-| 10th | Mystery spell | 6 | 6 | 6 | 5 | 3 | — | — | — | — |
-| 11th | Revelation | 6 | 6 | 6 | 6 | 4 | — | — | — | — |
-| 12th | Mystery spell | 6 | 6 | 6 | 6 | 5 | 3 | — | — | — |
-| 13th | — | 6 | 6 | 6 | 6 | 6 | 4 | — | — | — |
-| 14th | Mystery spell | 6 | 6 | 6 | 6 | 6 | 5 | 3 | — | — |
-| 15th | Revelation | 6 | 6 | 6 | 6 | 6 | 6 | 4 | — | — |
-| 16th | Mystery spell | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 | — |
-| 17th | — | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 4 | — |
-| 18th | Mystery spell | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 |
-| 19th | Revelation | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 4 |
-| 20th | Final revelation | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 |
+| Level | Special                                      | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th | Spells per Day: 7th | Spells per Day: 8th | Spells per Day: 9th |
+| ----- | -------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| 1st   | Mystery, oracle's curse, orisons, revelation | 3                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 2nd   | Mystery spell                                | 4                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 3rd   | Revelation                                   | 5                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 4th   | Mystery spell                                | 6                   | 3                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 5th   | —                                            | 6                   | 4                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 6th   | Mystery spell                                | 6                   | 5                   | 3                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 7th   | Revelation                                   | 6                   | 6                   | 4                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 8th   | Mystery spell                                | 6                   | 6                   | 5                   | 3                   | —                   | —                   | —                   | —                   | —                   |
+| 9th   | —                                            | 6                   | 6                   | 6                   | 4                   | —                   | —                   | —                   | —                   | —                   |
+| 10th  | Mystery spell                                | 6                   | 6                   | 6                   | 5                   | 3                   | —                   | —                   | —                   | —                   |
+| 11th  | Revelation                                   | 6                   | 6                   | 6                   | 6                   | 4                   | —                   | —                   | —                   | —                   |
+| 12th  | Mystery spell                                | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   | —                   | —                   | —                   |
+| 13th  | —                                            | 6                   | 6                   | 6                   | 6                   | 6                   | 4                   | —                   | —                   | —                   |
+| 14th  | Mystery spell                                | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   | —                   | —                   |
+| 15th  | Revelation                                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 4                   | —                   | —                   |
+| 16th  | Mystery spell                                | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   | —                   |
+| 17th  | —                                            | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 4                   | —                   |
+| 18th  | Mystery spell                                | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   |
+| 19th  | Revelation                                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 4                   |
+| 20th  | Final revelation                             | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   |
 
 **Table: Oracle Spells Known** ^table-oracle-spells-known
 
 | Level | Spells Known: 0 | Spells Known: 1st | Spells Known: 2nd | Spells Known: 3rd | Spells Known: 4th | Spells Known: 5th | Spells Known: 6th | Spells Known: 7th | Spells Known: 8th | Spells Known: 9th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | 4 | 2 | — | — | — | — | — | — | — | — |
-| 2nd | 5 | 2 | — | — | — | — | — | — | — | — |
-| 3rd | 5 | 3 | — | — | — | — | — | — | — | — |
-| 4th | 6 | 3 | 1 | — | — | — | — | — | — | — |
-| 5th | 6 | 4 | 2 | — | — | — | — | — | — | — |
-| 6th | 7 | 4 | 2 | 1 | — | — | — | — | — | — |
-| 7th | 7 | 5 | 3 | 2 | — | — | — | — | — | — |
-| 8th | 8 | 5 | 3 | 2 | 1 | — | — | — | — | — |
-| 9th | 8 | 5 | 4 | 3 | 2 | — | — | — | — | — |
-| 10th | 9 | 5 | 4 | 3 | 2 | 1 | — | — | — | — |
-| 11th | 9 | 5 | 5 | 4 | 3 | 2 | — | — | — | — |
-| 12th | 9 | 5 | 5 | 4 | 3 | 2 | 1 | — | — | — |
-| 13th | 9 | 5 | 5 | 4 | 4 | 3 | 2 | — | — | — |
-| 14th | 9 | 5 | 5 | 4 | 4 | 3 | 2 | 1 | — | — |
-| 15th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 2 | — | — |
-| 16th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 2 | 1 | — |
-| 17th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 2 | — |
-| 18th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 2 | 1 |
-| 19th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 3 | 2 |
-| 20th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 3 | 3 |
+| ----- | --------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
+| 1st   | 4               | 2                 | —                 | —                 | —                 | —                 | —                 | —                 | —                 | —                 |
+| 2nd   | 5               | 2                 | —                 | —                 | —                 | —                 | —                 | —                 | —                 | —                 |
+| 3rd   | 5               | 3                 | —                 | —                 | —                 | —                 | —                 | —                 | —                 | —                 |
+| 4th   | 6               | 3                 | 1                 | —                 | —                 | —                 | —                 | —                 | —                 | —                 |
+| 5th   | 6               | 4                 | 2                 | —                 | —                 | —                 | —                 | —                 | —                 | —                 |
+| 6th   | 7               | 4                 | 2                 | 1                 | —                 | —                 | —                 | —                 | —                 | —                 |
+| 7th   | 7               | 5                 | 3                 | 2                 | —                 | —                 | —                 | —                 | —                 | —                 |
+| 8th   | 8               | 5                 | 3                 | 2                 | 1                 | —                 | —                 | —                 | —                 | —                 |
+| 9th   | 8               | 5                 | 4                 | 3                 | 2                 | —                 | —                 | —                 | —                 | —                 |
+| 10th  | 9               | 5                 | 4                 | 3                 | 2                 | 1                 | —                 | —                 | —                 | —                 |
+| 11th  | 9               | 5                 | 5                 | 4                 | 3                 | 2                 | —                 | —                 | —                 | —                 |
+| 12th  | 9               | 5                 | 5                 | 4                 | 3                 | 2                 | 1                 | —                 | —                 | —                 |
+| 13th  | 9               | 5                 | 5                 | 4                 | 4                 | 3                 | 2                 | —                 | —                 | —                 |
+| 14th  | 9               | 5                 | 5                 | 4                 | 4                 | 3                 | 2                 | 1                 | —                 | —                 |
+| 15th  | 9               | 5                 | 5                 | 4                 | 4                 | 4                 | 3                 | 2                 | —                 | —                 |
+| 16th  | 9               | 5                 | 5                 | 4                 | 4                 | 4                 | 3                 | 2                 | 1                 | —                 |
+| 17th  | 9               | 5                 | 5                 | 4                 | 4                 | 4                 | 3                 | 3                 | 2                 | —                 |
+| 18th  | 9               | 5                 | 5                 | 4                 | 4                 | 4                 | 3                 | 3                 | 2                 | 1                 |
+| 19th  | 9               | 5                 | 5                 | 4                 | 4                 | 4                 | 3                 | 3                 | 3                 | 2                 |
+| 20th  | 9               | 5                 | 5                 | 4                 | 4                 | 4                 | 3                 | 3                 | 3                 | 3                 |
 
 ###### Class Features
 
@@ -96,7 +96,7 @@ All of the following are class features of the oracle.
 
 **Weapon and Armor Proficiency**: Oracles are proficient with all simple weapons, light armor, medium armor, and shields (except tower shields). Some oracle revelations grant additional proficiencies.
 
-**Spells**: An oracle casts divine spells drawn from the [[rangoric-srd/spells/Cleric Spell List|cleric spell list]]. She can cast any spell she knows without preparing it ahead of time. To learn or cast a spell, an oracle must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against an oracle’s spell is 10 + the spell's level + the oracle’s Charisma modifier. She can also learn the oracle’s own spells, which are on no cleric list and carry an “Ora” level: *[[rangoric-srd/spells/Oracle’s Burden|oracle’s burden]]* (2nd), *[[rangoric-srd/spells/Borrow Fortune|borrow fortune]]* (3rd), *[[rangoric-srd/spells/Oracle’s Vessel|oracle’s vessel]]* (4th), and *[[rangoric-srd/spells/Divine Vessel|divine vessel]]* (8th). ^oracle-spells
+**Spells**: An oracle casts divine spells drawn from the [[rangoric-srd/spells/Cleric Spell List|cleric spell list]]. She can cast any spell she knows without preparing it ahead of time. To learn or cast a spell, an oracle must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against an oracle’s spell is 10 + the spell's level + the oracle’s Charisma modifier. She can also learn the oracle’s own spells, which are on no cleric list and carry an “Ora” level: _[[rangoric-srd/spells/Oracle’s Burden|oracle’s burden]]_ (2nd), _[[rangoric-srd/spells/Borrow Fortune|borrow fortune]]_ (3rd), _[[rangoric-srd/spells/Oracle’s Vessel|oracle’s vessel]]_ (4th), and _[[rangoric-srd/spells/Divine Vessel|divine vessel]]_ (8th). ^oracle-spells
 
 Like other spellcasters, an oracle can cast only a certain number of spells per day of each spell level. Her base daily spell allotment is given on [[rangoric-srd/classes/Oracle#^table-the-oracle|Table: The Oracle]]. In addition, she receives bonus spells per day if she has a high Charisma score.
 

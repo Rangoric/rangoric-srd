@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Crossblooded Rager
 
-*A [[rangoric-srd/classes/Bloodrager#^bloodrager-archetypes|bloodrager]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Bloodrager#^bloodrager-archetypes|bloodrager]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 While most bloodragers manifest only one bloodline, there are some that, through some quirk of heredity or the conjunction of other powers, manifest two. This combination of two distinct bloodlines can create a versatile and powerful rager who stands out among the horde.
 
@@ -27,7 +27,7 @@ A crossblooded rager selects two different [[rangoric-srd/class-options/bloodrag
 
 **Bonus Spells**: A crossblooded rager can select his bonus spells from either of his bloodlines. He can also learn a lower-level bonus spell he did not choose in place of the higher-level bonus spell he would normally gain. Lower-level bonus spells learned in this manner are always the spell level that they would be if the crossblooded rager had learned them with the appropriate bonus spell.
 
-For example: A 7th-level [[rangoric-srd/class-options/bloodrager-bloodlines/Aberrant Bloodline (Bloodrager)|aberrant]]/[[rangoric-srd/class-options/bloodrager-bloodlines/Abyssal Bloodline (Bloodrager)|abyssal]] crossblooded rager has the choice of learning *[[rangoric-srd/spells/Enlarge Person|enlarge person]]* or *[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]* as his bloodline bonus spell. If he selected *[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]* as his 7th-level bonus spell, at 10th level he could use his new bonus spell to learn *[[rangoric-srd/spells/Enlarge Person|enlarge person]]* instead of *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]* or *[[rangoric-srd/spells/See Invisibility|see invisibility]]*, and he would add it to his list of 1st-level spells known (just as if he had learned it as his 7th-level bonus spell).
+For example: A 7th-level [[rangoric-srd/class-options/bloodrager-bloodlines/Aberrant Bloodline (Bloodrager)|aberrant]]/[[rangoric-srd/class-options/bloodrager-bloodlines/Abyssal Bloodline (Bloodrager)|abyssal]] crossblooded rager has the choice of learning _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ or _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_ as his bloodline bonus spell. If he selected _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_ as his 7th-level bonus spell, at 10th level he could use his new bonus spell to learn _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ instead of _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_ or _[[rangoric-srd/spells/See Invisibility|see invisibility]]_, and he would add it to his list of 1st-level spells known (just as if he had learned it as his 7th-level bonus spell).
 
 **Bloodline Powers**: At 1st level and every 4 levels thereafter, a crossblooded rager gains one of the two new [[rangoric-srd/classes/Bloodrager#^bloodrager-bloodline|bloodline powers]] available to him at that level. He can instead select a lower-level bloodline power he did not choose in place of one of these high-level powers.
 

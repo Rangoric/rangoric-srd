@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Wasp Swarm
 
-  - Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]] (Swarm)
-  - **Hit Dice**: 7d8 (31 hp)
-  - **Initiative**: +1
-  - **Speed**: 5 ft. (1 square), fly 40 ft. (good)
-  - **Armor Class**: 15 (+1 Dex, +4 size), touch 15, flat-footed 14
-  - **Base Attack**: +5; **CMB**: —; **CMD**: —
-  - **Attack**: Swarm (2d6 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: Swarm (2d6 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 10 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (DC 13), [[rangoric-srd/monsters/abilities/Poison|poison]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|vermin traits]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to weapon damage
-  - **Saves**: Fort +5, Ref +3, Will +3
-  - **Abilities**: Str 1, Dex 13, Con 10, Int —, Wis 12, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Perception|Perception]] +9
-  - **Feats**: —
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary, pair, fury (3–6 swarms), maelstrom (7–12 swarms)
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]] (Swarm)
+- **Hit Dice**: 7d8 (31 hp)
+- **Initiative**: +1
+- **Speed**: 5 ft. (1 square), fly 40 ft. (good)
+- **Armor Class**: 15 (+1 Dex, +4 size), touch 15, flat-footed 14
+- **Base Attack**: +5; **CMB**: —; **CMD**: —
+- **Attack**: Swarm (2d6 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: Swarm (2d6 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 10 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (DC 13), [[rangoric-srd/monsters/abilities/Poison|poison]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|vermin traits]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to weapon damage
+- **Saves**: Fort +5, Ref +3, Will +3
+- **Abilities**: Str 1, Dex 13, Con 10, Int —, Wis 12, Cha 9
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Perception|Perception]] +9
+- **Feats**: —
+- **Environment**: Temperate forests
+- **Organization**: Solitary, pair, fury (3–6 swarms), maelstrom (7–12 swarms)
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A wasp swarm is a flying mass of thousands of carnivorous wasps. In such large numbers, they become voracious hunters, capable of taking down large creatures with their venom-filled stings. While a wasp swarm is capable of inflicting hundreds of stings, its true danger arises from its insatiable appetite for meat.
 
@@ -69,4 +69,4 @@ Wasp swarms surround and attack any living prey in their paths, and are swift to
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Swarm—injury; *save* Fort DC 13; *frequency* 1/round for 4 rounds; *effect* 1 Dex damage; *cure* 1 save. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Swarm—injury; _save_ Fort DC 13; _frequency_ 1/round for 4 rounds; _effect_ 1 Dex damage; _cure_ 1 save. The save DC is Constitution-based.

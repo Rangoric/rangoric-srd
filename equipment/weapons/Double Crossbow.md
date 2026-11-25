@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/crossbows]
 
 # Double Crossbow
 
-*Exotic ranged weapon.* Cost 300 gp; Dmg 1d6 (S), 1d8 (M); Critical 19–20/x2; Range Increment 80 ft.; Weight 18 lb.; Type Piercing. ^stats
+_Exotic ranged weapon._ Cost 300 gp; Dmg 1d6 (S), 1d8 (M); Critical 19–20/x2; Range Increment 80 ft.; Weight 18 lb.; Type Piercing. ^stats
 
 This heavy weapon fires a pair of iron-tipped bolts with a single squeeze of the trigger. Due to its size and weight, you take a –4 penalty on your attack roll if you're proficient with it, or –8 if you're not. If the attack hits, the target takes damage from both bolts. Critical hits, sneak attack damage, and other precision-based damage only apply to the first bolt. Reloading one bolt is a standard action; the [[rangoric-srd/feats/Rapid Reload|Rapid Reload]] feat reduces this to a move action. [[rangoric-srd/feats/Crossbow Mastery|Crossbow Mastery]] allows you to reload both bolts as a move action
 

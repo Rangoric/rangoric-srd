@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Frightful Haunter
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Incorporeal)
-  - **Hit Dice**: 8d8+24 (60 hp)
-  - **Initiative**: +7
-  - **Speed**: fly 40 ft. (perfect)
-  - **Armor Class**: 16 (+3 deflection, +3 Dex), touch 16, flat-footed 13
-  - **Base Attack**: +6; **CMB**: +6; **CMD**: 21
-  - **Attack**: Terrifying touch +9 (3d8 plus Will DC 17 or shaken)
-  - **Full Attack**: Terrifying touch +9 (3d8 plus Will DC 17; or shaken)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Create Haunt|Create haunt]], [[rangoric-srd/monsters/abilities/Terrifying Touch|terrifying touch]] (DC 17)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 0 (see special abilities), cowardice (30 ft.), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +3, [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to haunts
-  - **Saves**: Fort +5, Ref +5, Will +9
-  - **Abilities**: Str —, Dex 17, Con —, Int 15, Wis 17, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Society|Society]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +14
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, or gang (3–6)
-  - **Challenge Rating**: 8
-  - **Treasure**: None
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Incorporeal)
+- **Hit Dice**: 8d8+24 (60 hp)
+- **Initiative**: +7
+- **Speed**: fly 40 ft. (perfect)
+- **Armor Class**: 16 (+3 deflection, +3 Dex), touch 16, flat-footed 13
+- **Base Attack**: +6; **CMB**: +6; **CMD**: 21
+- **Attack**: Terrifying touch +9 (3d8 plus Will DC 17 or shaken)
+- **Full Attack**: Terrifying touch +9 (3d8 plus Will DC 17; or shaken)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Create Haunt|Create haunt]], [[rangoric-srd/monsters/abilities/Terrifying Touch|terrifying touch]] (DC 17)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 0 (see special abilities), cowardice (30 ft.), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +3, [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to haunts
+- **Saves**: Fort +5, Ref +5, Will +9
+- **Abilities**: Str —, Dex 17, Con —, Int 15, Wis 17, Cha 16
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Society|Society]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +14
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any
+- **Organization**: Solitary, pair, or gang (3–6)
+- **Challenge Rating**: 8
+- **Treasure**: None
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Occasionally, the desire to cause fear and misery survives even when a bugbear dies. Such a creature can detach part of its vile nature to create frightening spiritual traps in the form of haunts. Whenever possible, a frightful haunter learns about a group before building haunts to terrify it, and customizes the haunts' effects based on its victims' fears and weaknesses. If a frightful haunter is forced to confront a group directly, it attempts to create a stronghold of damaging haunts, attacking only when the group neutralizes one of the haunts, and then fleeing to another prepared location.
 

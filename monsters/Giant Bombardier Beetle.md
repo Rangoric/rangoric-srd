@@ -35,26 +35,26 @@ tags: [rangoric, rangoric/monster]
 
 # Giant Bombardier Beetle
 
-  - Medium Vermin
-  - **Hit Dice**: 2d8+4 (13 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 16 (+6 natural), touch 10, flat-footed 16
-  - **Base Attack**: +1; **CMB**: +2; **CMD**: 12 (20 vs. trip)
-  - **Attack**: Bite +2 melee (1d4+1)
-  - **Full Attack**: Bite +2 melee (1d4+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Acid spray
-  - **Special Qualities**: Darkvision 60 ft., vermin traits
-  - **Saves**: Fort +5, Ref +0, Will +0
-  - **Abilities**: Str 13, Dex 10, Con 14, Int —, Wis 10, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +6
-  - **Feats**: —
-  - **Environment**: Warm forests
-  - **Organization**: Cluster (2–5) or click (6–11)
-  - **Challenge Rating**: 2
-  - **Advancement**: 3–4 HD (Medium); 5–6 HD (Large)
-  - **Level Adjustment**: —
+- Medium Vermin
+- **Hit Dice**: 2d8+4 (13 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 16 (+6 natural), touch 10, flat-footed 16
+- **Base Attack**: +1; **CMB**: +2; **CMD**: 12 (20 vs. trip)
+- **Attack**: Bite +2 melee (1d4+1)
+- **Full Attack**: Bite +2 melee (1d4+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Acid spray
+- **Special Qualities**: Darkvision 60 ft., vermin traits
+- **Saves**: Fort +5, Ref +0, Will +0
+- **Abilities**: Str 13, Dex 10, Con 14, Int —, Wis 10, Cha 9
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +6
+- **Feats**: —
+- **Environment**: Warm forests
+- **Organization**: Cluster (2–5) or click (6–11)
+- **Challenge Rating**: 2
+- **Advancement**: 3–4 HD (Medium); 5–6 HD (Large)
+- **Level Adjustment**: —
 
 These creatures feed primarily on carrion and offal, gathering heaps of the stuff in which to build nests and lay eggs. A giant bombardier beetle is about 6 feet long.
 

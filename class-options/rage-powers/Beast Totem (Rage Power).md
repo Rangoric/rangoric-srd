@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Beast Totem
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su)._
 
 While raging, the barbarian gains a +1 natural armor bonus. This bonus increases by +1 for every four levels the barbarian has attained. A barbarian must have the [[rangoric-srd/class-options/rage-powers/Beast Totem, Lesser (Rage Power)|lesser beast totem]] rage power to select this rage power.
 

@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat]
 
 # Improved Flyby Attack
 
-Prerequisite: Fly speed, Dodge, Flyby Attack, Mobility.  
+Prerequisite: Fly speed, Dodge, Flyby Attack, Mobility.
 
 Benefit: If the standard action taken by a creature during a round in which it uses Flyby Attack is a melee attack, the creature provokes no attacks of opportunity from moving out of squares threatened by its target.
 

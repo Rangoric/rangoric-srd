@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Azata Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]] and [[rangoric-srd/class-options/domains/Good Domain|Good]] domains, taken in place of one of them.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]] and [[rangoric-srd/class-options/domains/Good Domain|Good]] domains, taken in place of one of them._
 
 ## Replacement Power
 
@@ -27,8 +27,8 @@ This power replaces the [[rangoric-srd/class-options/domains/Chaos Domain#Grante
 
 Each spell takes the place of that domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Expeditious Retreat\|Expeditious Retreat]] | Your speed increases by 30 ft. |
-| 3rd | [[rangoric-srd/spells/Fly\|Fly]] | Subject flies at speed of 60 ft. |
-| 6th | [[rangoric-srd/spells/Planar Ally\|Planar Ally]] (azata only) | As lesser planar ally, but up to 12 HD. |
+| Level | Spell                                                            | Brief Description                       |
+| ----- | ---------------------------------------------------------------- | --------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Expeditious Retreat\|Expeditious Retreat]] | Your speed increases by 30 ft.          |
+| 3rd   | [[rangoric-srd/spells/Fly\|Fly]]                                 | Subject flies at speed of 60 ft.        |
+| 6th   | [[rangoric-srd/spells/Planar Ally\|Planar Ally]] (azata only)    | As lesser planar ally, but up to 12 HD. |

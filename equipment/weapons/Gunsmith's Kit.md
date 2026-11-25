@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/weapon]
 
 # Gunsmith's Kit
 
-*Accessory for firearms.* Cost 15 gp; Weight 2 lb. ^stats
+_Accessory for firearms._ Cost 15 gp; Weight 2 lb. ^stats
 
 This small kit has all the tools a person needs to create, repair, and restore firearms, except for the necessary raw materials. Without such a kit, you cannot properly construct or provide upkeep for firearms.

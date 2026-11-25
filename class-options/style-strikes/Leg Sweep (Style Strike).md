@@ -13,6 +13,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Leg Sweep
 
-*A [[rangoric-srd/classes/Unchained Monk#^unchained-monk-style-strike|style strike]].*
+_A [[rangoric-srd/classes/Unchained Monk#^unchained-monk-style-strike|style strike]]._
 
 The monk attempts to sweep his foe's leg, knocking the opponent down. If the attack hits, the monk can make a free [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] attempt against the target of this strike (using the base attack bonus of the attack used to hit the foe). This trip attempt does not provoke an attack of opportunity. The monk must attack with a kick to use this style strike.

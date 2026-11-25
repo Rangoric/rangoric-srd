@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, fighter-bonus]
 
 # Power Critical
 
-Prerequisites: [[rangoric-srd/feats/Weapon Focus|Weapon focus]] (chosen weapon), base attack bonus +4  
+Prerequisites: [[rangoric-srd/feats/Weapon Focus|Weapon focus]] (chosen weapon), base attack bonus +4
 
 Benefit: When using the weapon you selected, you gain a +4 bonus on the roll to confirm a threat.
 

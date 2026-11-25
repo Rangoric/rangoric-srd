@@ -33,7 +33,7 @@ Telepathy \[Mind-Affecting\]
 **Duration:** 1 round/level (D)  
 **Saving Throw:** Will negates  
 **Power Resistance:** Yes  
-**Power Points:** 7  
+**Power Points:** 7
 
 You attempt to briefly partition the mind of your foe, calving off a minor personality that is antagonistic to the main personality. The parasitic personality functions with complete autonomy from the main personality. It does not control the body physically, but it can take one standard action each round that is purely mental, such as manifesting a power, in the same turn that the subject takes its normal actions.
 

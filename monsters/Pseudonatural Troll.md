@@ -60,7 +60,7 @@ Organization: Solitary or gang (2-4)    
 Challenge Rating: 21      
 Treasure: Standard      
 Alignment: Always chaotic evil      
-Advancement: By character class      
+Advancement: By character class    
 
 Pseudotrolls speak Giant.
 
@@ -78,9 +78,9 @@ Rotting Constriction (Ex): Once a pseudotroll has hold of an opponent, each succ
 
 Regeneration (Ex): Fire and acid deal normal Damage to a pseudotroll. If a pseudotroll loses a tentacle or body part, the lost portion regrows in 1 minute. The creature can reattach the severed member instantly by holding it to the stump.
 
-Spell-Like Abilities: Caster level 20th; save DC 8 + spell level. The DC is Charisma-based.  
+Spell-Like Abilities: Caster level 20th; save DC 8 + spell level. The DC is Charisma-based.
 
-At will - [[rangoric-srd/spells/Blur|blur]], [[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Shield|shield]], [[rangoric-srd/spells/Unhallow|unhallow]].  
+At will - [[rangoric-srd/spells/Blur|blur]], [[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Shield|shield]], [[rangoric-srd/spells/Unhallow|unhallow]].
 
 Alternate Form (Su): At will, a pseudotroll can take the form of a grotesque, tentacled mass (or another appropriately gruesome form), but all its abilities remain unchanged despite the alien appearance. Changing shape is a standard action. Other creatures receive a -1 morale penalty on their attack rolls against a pseudotroll in this alternate form.
 
@@ -108,17 +108,17 @@ Improved Grab (Ex): If the creature hits an opponent smaller than it with a tent
 
 Rotting Constriction (Ex): Once the creature has hold of an opponent, each successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check it makes during subsequent rounds permanently [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drains]] 2d4 points of Constitution. At the same time, the creature regains 10 lost hit points.
 
-Spell-Like Abilities: Caster level 20th.  The DCs are Charisma-based.  
+Spell-Like Abilities: Caster level 20th.  The DCs are Charisma-based.
 
 At will - [[rangoric-srd/spells/Blur|blur]], [[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Shield|shield]], [[rangoric-srd/spells/Unhallow|unhallow]].
 
-Special Qualities: A pseudonatural creature retains all the special qualities of the base creature and also gains the following.  
+Special Qualities: A pseudonatural creature retains all the special qualities of the base creature and also gains the following.
 
-  - [[rangoric-srd/monsters/abilities/Resistance|Electricity and acid resistance]] of a varying amount related to its Hit Dice (see the table below). If the creature already possesses such resistance, use whichever is better.
-  - [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] of a varying amount related to its Hit Dice (see the table below). If the creature already possesses Damage reduction, use whichever is better.
-  - [[rangoric-srd/monsters/abilities/Spell Resistance|Spell resistance]] equal to the creature’s HD x5. If the creature already possesses spell resistance, use whichever is higher.
-  - One extra tentacle rake attack (the creature can use another of its many tentacles to attack at no penalty while in pseudonatural form) for each 4 HD the creature has.
-  - A pseudonatural creature’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
+- [[rangoric-srd/monsters/abilities/Resistance|Electricity and acid resistance]] of a varying amount related to its Hit Dice (see the table below). If the creature already possesses such resistance, use whichever is better.
+- [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] of a varying amount related to its Hit Dice (see the table below). If the creature already possesses Damage reduction, use whichever is better.
+- [[rangoric-srd/monsters/abilities/Spell Resistance|Spell resistance]] equal to the creature’s HD x5. If the creature already possesses spell resistance, use whichever is higher.
+- One extra tentacle rake attack (the creature can use another of its many tentacles to attack at no penalty while in pseudonatural form) for each 4 HD the creature has.
+- A pseudonatural creature’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 |                |                                 |                  |                             |
 | -------------- | ------------------------------- | ---------------- | --------------------------- |
@@ -129,7 +129,7 @@ Special Qualities: A pseudonatural creature retains all the special qualities of
 | 12-15          | 30                              | 10/epic          | 4                           |
 | 16-19          | 35                              | 15/epic          | 5                           |
 | 21-24          | 40                              | 15/epic          | 6                           |
-| each 4 more HD | +5                             | 15/epic          | +1                         |
+| each 4 more HD | +5                              | 15/epic          | +1                          |
 
 If the creature already has one or more of these special qualities, use the better value.
 

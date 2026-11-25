@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, fighter-bonus, epic]
 
 # Penetrate Damage Reduction
 
-Select a special material, such as adamantine.  
+Select a special material, such as adamantine.
 
 Benefit: The character melee weapons (including natural weapons) are treated as being crafted from the chosen special material for the purposes of bypassing the damage reduction of any creature the character strikes. None of the other special properties of special materials are gained by the character’s melee weapons.
 

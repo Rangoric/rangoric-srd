@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Aiding Attack
 
-*A [[rangoric-srd/class-options/hunters-tricks/Hunter's Tricks|hunter’s trick]] (Ex), which a [[rangoric-srd/class-options/archetypes/ranger/Skirmisher (Archetype)|skirmisher]] ranger learns.*
+_A [[rangoric-srd/class-options/hunters-tricks/Hunter's Tricks|hunter’s trick]] (Ex), which a [[rangoric-srd/class-options/archetypes/ranger/Skirmisher (Archetype)|skirmisher]] ranger learns._
 
 The ranger can use this trick as a free action when he hits a creature with an attack. The next ally who makes an attack against the target creature before the start of the ranger's next turn gains a +2 circumstance bonus on that attack roll.

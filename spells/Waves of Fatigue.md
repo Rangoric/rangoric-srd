@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Waves of Fatigue
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Mes 5, Psy 5, Sor/Wiz 5, Spi 5, Wit 5
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: 30 ft.
-  - **Area**: Cone-shaped burst
-  - **Duration**: Instantaneous
-  - **Saving Throw**: No
-  - **Spell Resistance**: Yes
+- **Level**: Mes 5, Psy 5, Sor/Wiz 5, Spi 5, Wit 5
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: 30 ft.
+- **Area**: Cone-shaped burst
+- **Duration**: Instantaneous
+- **Saving Throw**: No
+- **Spell Resistance**: Yes
 
 Waves of negative energy render all living creatures in the spell’s area [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]]. This spell has no effect on a creature that is already fatigued.

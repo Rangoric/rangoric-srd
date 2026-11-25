@@ -18,8 +18,8 @@ tags: [rangoric, rangoric/magic-item]
 
 # Glancing
 
-*Glancing* armor absorbs some of the damage done by a piercing weapon and disperses it across the entire suit of armor. Damage dealt by nonmagical piercing weapons is reduced to [[rangoric-srd/combat/Injury and Death#Nonlethal Damage|nonlethal damage]]. One half of the damage done by a +1 piercing weapon is reduced to nonlethal damage. One quarter of the damage done by a +2 piercing weapon is reduced to nonlethal damage. Piercing weapons with the *piercing* quality or an enchantment of +3 or better bypasses this ability. Bludgeoning and slashing weapons do normal damage.
+_Glancing_ armor absorbs some of the damage done by a piercing weapon and disperses it across the entire suit of armor. Damage dealt by nonmagical piercing weapons is reduced to [[rangoric-srd/combat/Injury and Death#Nonlethal Damage|nonlethal damage]]. One half of the damage done by a +1 piercing weapon is reduced to nonlethal damage. One quarter of the damage done by a +2 piercing weapon is reduced to nonlethal damage. Piercing weapons with the _piercing_ quality or an enchantment of +3 or better bypasses this ability. Bludgeoning and slashing weapons do normal damage.
 
-This quality is also called *deflecting*.
+This quality is also called _deflecting_.
 
-Moderate abjuration; CL 11th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Entropic Shield|entropic shield]]*, *[[rangoric-srd/spells/Mage Armor|mage armor]]*; Price +3 bonus.
+Moderate abjuration; CL 11th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Entropic Shield|entropic shield]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_; Price +3 bonus.

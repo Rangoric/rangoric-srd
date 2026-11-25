@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Resist Life
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Bones Mystery|bones]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Bones Mystery|bones]] mystery._
 
 You are treated as an undead creature when you are targeted by positive or negative energy. You are not subject to Turn Undead or Command Undead (or any other effect that specifically targets undead), unless you are actually an undead creature. At 7th level, you receive channel resistance +2. This bonus increases by +2 at 11th and 15th level.

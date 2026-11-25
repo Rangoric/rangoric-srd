@@ -40,25 +40,25 @@ tags: [rangoric, rangoric/monster]
 
 # Gnome, 1st-Level Warrior
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Gnome)
-  - **Hit Dice**: 1d10+2 (7 hp)
-  - **Initiative**: +0
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 16 (+1 size, +4 chain shirt, +1 light shield), touch 11, flat-footed 16
-  - **Base Attack**: +1; **CMB**: +0; **CMD**: 10
-  - **Attack**: Longsword +2 melee (1d6/19–20) or light crossbow +3 ranged (1d6/19–20)
-  - **Full Attack**: Longsword +2 melee (1d6/19–20) or light crossbow +3 ranged (1d6/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: Gnome traits
-  - **Saves**: Fort +4, Ref +0, Will –1
-  - **Abilities**: Str 11, Dex 11, Con 14, Int 10, Wis 9, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +4
-  - **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (light crossbow)
-  - **Environment**: Temperate hills (Forest gnomes: Temperate forests)
-  - **Organization**: Company (2–4), squad (11–20 plus 1 leader of 3rd–6th level and 2 3rd-level lieutenants), or band (30–50 plus 1 3rd-level sergeant per 20 adults, 5 5th-level lieutenants, 3 7th-level captains, and 2–5 dire badgers)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral good
-  - **Advancement**: By character class
-  - **Level Adjustment**: +0
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Gnome)
+- **Hit Dice**: 1d10+2 (7 hp)
+- **Initiative**: +0
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 16 (+1 size, +4 chain shirt, +1 light shield), touch 11, flat-footed 16
+- **Base Attack**: +1; **CMB**: +0; **CMD**: 10
+- **Attack**: Longsword +2 melee (1d6/19–20) or light crossbow +3 ranged (1d6/19–20)
+- **Full Attack**: Longsword +2 melee (1d6/19–20) or light crossbow +3 ranged (1d6/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: Gnome traits
+- **Saves**: Fort +4, Ref +0, Will –1
+- **Abilities**: Str 11, Dex 11, Con 14, Int 10, Wis 9, Cha 10
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +4
+- **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (light crossbow)
+- **Environment**: Temperate hills (Forest gnomes: Temperate forests)
+- **Organization**: Company (2–4), squad (11–20 plus 1 leader of 3rd–6th level and 2 3rd-level lieutenants), or band (30–50 plus 1 3rd-level sergeant per 20 adults, 5 5th-level lieutenants, 3 7th-level captains, and 2–5 dire badgers)
+- **Challenge Rating**: 1/2
+- **Treasure**: Standard
+- **Alignment**: Usually neutral good
+- **Advancement**: By character class
+- **Level Adjustment**: +0

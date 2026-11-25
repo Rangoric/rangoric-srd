@@ -23,12 +23,12 @@ Similar to the Fields of Gold, Tallgrass grows crops for the rest of FaerieLand.
 
 **Regent:** [[rangoric-srd/flavor/the-fey-realm/personalities/Pixie Queen Sharla|Pixie Queen Sharla]]
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* Forays of dark faeries roam Tallgrass, hunting anything that crosses their paths.
+_Common:_ Forays of dark faeries roam Tallgrass, hunting anything that crosses their paths.
 
-*Uncommon:* The Pixie Court has not been in its usual location hovering over the center of Tallgrass. Many say there is activity that draws the Pixie Queen’s attention elsewhere.
+_Uncommon:_ The Pixie Court has not been in its usual location hovering over the center of Tallgrass. Many say there is activity that draws the Pixie Queen’s attention elsewhere.
 
-*Rare:* Rumors persist of a mortal wizard’s stronghold beneath the endless fields of the area. Perhaps the dark faeries are using a *doorway* in the bowels of the abandoned stronghold as a foothold in Tallgrass.
+_Rare:_ Rumors persist of a mortal wizard’s stronghold beneath the endless fields of the area. Perhaps the dark faeries are using a _doorway_ in the bowels of the abandoned stronghold as a foothold in Tallgrass.
 
-*Obscure:* The wizard’s subterranean complex is much larger than many think, and contains many *[[rangoric-srd/spells/Gate|gates]]* to other planes. Monsters roam the dark corridors, but there is great treasure and magic to be had if you can defeat them.
+_Obscure:_ The wizard’s subterranean complex is much larger than many think, and contains many _[[rangoric-srd/spells/Gate|gates]]_ to other planes. Monsters roam the dark corridors, but there is great treasure and magic to be had if you can defeat them.

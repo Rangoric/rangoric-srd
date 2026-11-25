@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Warsworn
 
-  - Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 18d8+126 (207 hp)
-  - **Initiative**: +3
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 29 (+3 Dex, +20 natural, –4 size), touch 9, flat-footed 26
-  - **Base Attack**: +13; **CMB**: +29; **CMD**: 42 (can't be tripped)
-  - **Attack**: Slam +21 melee (2d6+12 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) or scrap ball +12 ranged (2d6+12)
-  - **Full Attack**: 4 slams +21 melee (2d6+12 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]); or 1 scrap ball +12 ranged (2d6+12)
-  - **Space/Reach**: 20 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Absorb Dying Creature|Absorb dying creature]], [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (1 level, DC 26), [[rangoric-srd/monsters/abilities/Trample|trample]] (2d6+18, DC 31), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (60 ft., DC 26), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Profane Magic|profane magic]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/bludgeoning and magic, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-  - **Saves**: Fort +13, Ref +9, Will +17
-  - **Abilities**: Str 34, Dex 17, Con —, Int 9, Wis 22, Cha 25
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +33, [[rangoric-srd/skills/Perception|Perception]] +27
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Greater Overrun|Greater Overrun]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Strike Back|Strike Back]]
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 16
-  - **Treasure**: Double standard (nonmagical armor and weapons)
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 18d8+126 (207 hp)
+- **Initiative**: +3
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 29 (+3 Dex, +20 natural, –4 size), touch 9, flat-footed 26
+- **Base Attack**: +13; **CMB**: +29; **CMD**: 42 (can't be tripped)
+- **Attack**: Slam +21 melee (2d6+12 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) or scrap ball +12 ranged (2d6+12)
+- **Full Attack**: 4 slams +21 melee (2d6+12 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]); or 1 scrap ball +12 ranged (2d6+12)
+- **Space/Reach**: 20 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Absorb Dying Creature|Absorb dying creature]], [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (1 level, DC 26), [[rangoric-srd/monsters/abilities/Trample|trample]] (2d6+18, DC 31), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (60 ft., DC 26), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Profane Magic|profane magic]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/bludgeoning and magic, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
+- **Saves**: Fort +13, Ref +9, Will +17
+- **Abilities**: Str 34, Dex 17, Con —, Int 9, Wis 22, Cha 25
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +33, [[rangoric-srd/skills/Perception|Perception]] +27
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Greater Overrun|Greater Overrun]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Strike Back|Strike Back]]
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 16
+- **Treasure**: Double standard (nonmagical armor and weapons)
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Warsworns are massive undead amalgams, their ever-shifting, chaotic bodies composed of countless slain soldiers and their armor and weapons. The shambling, serpentine form of a warsworn creates a grotesque, metallic cacophony as the weapons and armor of countless souls clash as though still in the throes of a never-ending battle.
 
@@ -71,7 +71,7 @@ Warsworns understand Common but can't speak.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 18th; concentration +25): 3/day-extended *[[rangoric-srd/spells/Animate Objects|animate objects]]* (7 Medium weapons only), *[[rangoric-srd/spells/Telekinesis|telekinesis]]* (violent thrust, heavy armor only).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 18th; concentration +25): 3/day-extended _[[rangoric-srd/spells/Animate Objects|animate objects]]_ (7 Medium weapons only), _[[rangoric-srd/spells/Telekinesis|telekinesis]]_ (violent thrust, heavy armor only).
 
 **[[rangoric-srd/monsters/abilities/Absorb Dying Creature|Absorb Dying Creature]] (Su)**: A warsworn can consume any dying creature by moving into the same space. This immediately kills the creature, absorbs the corpse into the warsworn, and heals the warsworn by an amount equal to the creature's Constitution score. Absorbed corpses can't be resurrected by any effect short of a miracle or wish until the warsworn that consumed them is destroyed.
 

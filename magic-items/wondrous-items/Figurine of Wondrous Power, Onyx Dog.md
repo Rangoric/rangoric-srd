@@ -21,6 +21,6 @@ Each of the several kinds of figurines of wondrous power appears to be a miniatu
 
 If a figurine of wondrous power is broken or destroyed in its statuette form, it is forever ruined. All magic is lost, its power departed. If slain in animal form, the figurine simply reverts to a statuette that can be used again at a later time.
 
-*Onyx Dog*: When commanded, this statuette changes into a creature with the same properties as a riding dog except that it is endowed with an Intelligence of 8, can communicate in Common, and has exceptional olfactory and visual abilities. (It has the scent ability and adds +4 to its Perception and Investigation checks.) It has 60-foot darkvision, and it can see invisibility. An onyx dog can be used once per week for up to 6 hours. It obeys only its owner.
+_Onyx Dog_: When commanded, this statuette changes into a creature with the same properties as a riding dog except that it is endowed with an Intelligence of 8, can communicate in Common, and has exceptional olfactory and visual abilities. (It has the scent ability and adds +4 to its Perception and Investigation checks.) It has 60-foot darkvision, and it can see invisibility. An onyx dog can be used once per week for up to 6 hours. It obeys only its owner.
 
 Moderate transmutation; CL 11th; Craft Wondrous Item, animate objects; Price 15,500 gp.

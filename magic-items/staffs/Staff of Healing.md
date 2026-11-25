@@ -20,9 +20,9 @@ tags: [rangoric, rangoric/magic-item]
 
 This white ash staff, with inlaid silver runes, allows use of the following spells:
 
-  - [[rangoric-srd/spells/Spells H to L|Lesser restoration]] (1 charge)
-  - [[rangoric-srd/spells/Cure Serious Wounds|Cure serious wounds]] (1 charge)
-  - [[rangoric-srd/spells/Spells P to R|Remove blindness/deafness]] (2 charges)
-  - [[rangoric-srd/spells/Remove Disease|Remove disease]] (3 charges)
+- [[rangoric-srd/spells/Spells H to L|Lesser restoration]] (1 charge)
+- [[rangoric-srd/spells/Cure Serious Wounds|Cure serious wounds]] (1 charge)
+- [[rangoric-srd/spells/Spells P to R|Remove blindness/deafness]] (2 charges)
+- [[rangoric-srd/spells/Remove Disease|Remove disease]] (3 charges)
 
 Moderate conjuration; CL 8th; Craft Staff, cure serious wounds, lesser restoration, remove blindness/deafness, remove disease; Price 27,750 gp.

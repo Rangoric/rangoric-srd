@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Ghost Touch Fangs
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “ghost touch fangs”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “ghost touch fangs”, on the Special Qualities line.
 
 A hypnalis's bite attack is treated as if it has the ghost touch special weapon quality. The [[rangoric-srd/monsters/Hypnalis|hypnalis]] has it.

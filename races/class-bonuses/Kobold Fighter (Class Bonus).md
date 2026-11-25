@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Kobold Fighter
 
-*A [[rangoric-srd/races/Kobold|kobold]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Fighter#^fighter-class-bonuses|fighter]] level.*
+_A [[rangoric-srd/races/Kobold|kobold]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Fighter#^fighter-class-bonuses|fighter]] level._
 
 Add +1/2 to damage rolls the fighter makes with weapon attacks against an opponent he is [[rangoric-srd/combat/Combat Modifiers#Flanking|flanking]] or an opponent that is denied its Dexterity bonus to AC.

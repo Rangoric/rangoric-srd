@@ -29,14 +29,14 @@ tags: [rangoric, rangoric/spell]
 
 # Dust Form
 
-*Transmutation (Polymorph)*
+_Transmutation (Polymorph)_
 
-  - **Level**: Alc 5, Clr 6, Drd 6, Hun 6, Psy 6, Wit 6
-  - **Components**: V, S, M (a pinch of dust gathered from a gravestone or sacred shrine)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level
+- **Level**: Alc 5, Clr 6, Drd 6, Hun 6, Psy 6, Wit 6
+- **Components**: V, S, M (a pinch of dust gathered from a gravestone or sacred shrine)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level
 
 Upon casting this spell, you keep your relative form, but you and your equipment become composed entirely of dust. While in this dust form, you take no penalties for squeezing, and can move through spaces as if you were a creature three size categories smaller without penalty. You are also considered incorporeal, though any nonmagical attack you make deals half damage (50%). Magic attacks are unaffected, and you can still use your magic items and other equipment as normal.
 

@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Castigate
 
-*Enchantment (Compulsion) \[Emotion, Fear, Language-dependent, Mind-affecting\]*
+_Enchantment (Compulsion) \[Emotion, Fear, Language-dependent, Mind-affecting\]_
 
-  - **Level**: Inq 2, Mes 2
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One living creature
-  - **Duration**: 1 round/level or 1 round; see text
-  - **Saving Throw**: Will partial
-  - **Spell Resistance**: Yes
+- **Level**: Inq 2, Mes 2
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One living creature
+- **Duration**: 1 round/level or 1 round; see text
+- **Saving Throw**: Will partial
+- **Spell Resistance**: Yes
 
 You compel the target to beg for forgiveness. On a failed save, the target cowers with fear. On a successful save, it is shaken for 1 round. Each round on its turn, a cowering subject may attempt a new save to end the effect. A creature who worships the same god as you takes a –2 penalty on its saving throw.

@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Blinking
 
-While holding a *blinking* weapon, the wielder, at the utterance of a command word, is affected by the *[[rangoric-srd/spells/Blink|blink]]* spell. This includes all bonuses and penalties associated with the spell. A separate command word turns off the effect. The *blink* effect may be turned on and off at will, but cannot be used for a total of more than ten minutes in a single day.
+While holding a _blinking_ weapon, the wielder, at the utterance of a command word, is affected by the _[[rangoric-srd/spells/Blink|blink]]_ spell. This includes all bonuses and penalties associated with the spell. A separate command word turns off the effect. The _blink_ effect may be turned on and off at will, but cannot be used for a total of more than ten minutes in a single day.
 
-Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Blink|blink]]*; Price +3 bonus.
+Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Blink|blink]]_; Price +3 bonus.

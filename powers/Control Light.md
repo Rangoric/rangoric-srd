@@ -33,7 +33,7 @@ Area: Nine 10-ft. cubes + three 10-ft. cubes/level
 Duration: Concentration, up to 1 min./level, or 1 round; see text  
 Saving Throw: None  
 Power Resistance: No  
-Power Points: 1  
+Power Points: 1
 
 By manipulating the ambient light level, you can decrease or increase the illumination of an area. The change in illumination can be gradual (taking as long as 1 minute) or sudden (occurring immediately when you manifest this power). You can alter the level of illumination from its original level at any time during the power’s duration.
 

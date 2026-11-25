@@ -23,13 +23,13 @@ tags: [rangoric, rangoric/spell]
 
 # Undeath to Death
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Clr 6, Inq 6, Sor/Wiz 6, Spi 6
-  - **Components**: V, S, M/DF
-  - **Area**: Several undead creatures within a 40-ft.-radius burst
-  - **Saving Throw**: Will negates
+- **Level**: Clr 6, Inq 6, Sor/Wiz 6, Spi 6
+- **Components**: V, S, M/DF
+- **Area**: Several undead creatures within a 40-ft.-radius burst
+- **Saving Throw**: Will negates
 
 This spell functions like [[rangoric-srd/spells/Circle of Death|circle of death]], except that it destroys undead creatures as noted above.
 
-*Material Component*: The powder of a crushed diamond worth at least 500 gp.
+_Material Component_: The powder of a crushed diamond worth at least 500 gp.

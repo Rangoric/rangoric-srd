@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 
 # Kukri
 
-*Martial light melee weapon.* Cost 8 gp; Dmg 1d3 (S), 1d4 (M); Critical 18–20/x2; Weight 2 lb.; Type Slashing. ^stats
+_Martial light melee weapon._ Cost 8 gp; Dmg 1d3 (S), 1d4 (M); Critical 18–20/x2; Weight 2 lb.; Type Slashing. ^stats

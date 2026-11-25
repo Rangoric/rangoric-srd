@@ -31,16 +31,16 @@ tags: [rangoric, rangoric/spell]
 
 # Litany of Sloth
 
-*Enchantment (Compulsion) \[Language-dependent, Mind-affecting\]*
+_Enchantment (Compulsion) \[Language-dependent, Mind-affecting\]_
 
-  - **Level**: Apl 1, Inq 1, Pal 1
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 swift action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: 1 round
-  - **Saving Throw**: No
-  - **Spell Resistance**: Yes
+- **Level**: Apl 1, Inq 1, Pal 1
+- **Components**: V, S, DF
+- **Casting Time**: 1 swift action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: 1 round
+- **Saving Throw**: No
+- **Spell Resistance**: Yes
 
 With a litany against the wages of sloth, you slow the target's defenses. The target cannot make attacks of opportunity or cast spells defensively.
 

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Wholeness of Body
 
-*A [[rangoric-srd/classes/Unchained Monk#^unchained-monk-ki-powers|ki power]] (Su).*
+_A [[rangoric-srd/classes/Unchained Monk#^unchained-monk-ki-powers|ki power]] (Su)._
 
 A monk with this ki power can heal his own wounds as a standard action. By spending 2 points from his ki pool, he can heal an amount of damage equal to 1d8 + his monk level.

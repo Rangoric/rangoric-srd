@@ -30,16 +30,16 @@ tags: [rangoric, rangoric/spell]
 
 # Bless
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Clr 1, Inq 1, Pal 1, Sha 1
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: 50 ft.
-  - **Area**: The caster and all allies within a 50-ft. burst, centered on the caster
-  - **Duration**: 1 min./level
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Clr 1, Inq 1, Pal 1, Sha 1
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: 50 ft.
+- **Area**: The caster and all allies within a 50-ft. burst, centered on the caster
+- **Duration**: 1 min./level
+- **Saving Throw**: None
+- **Spell Resistance**: Yes (harmless)
 
 Bless fills your allies with courage. Each ally gains a +1 morale bonus on attack rolls and on saving throws against fear effects.
 

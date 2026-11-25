@@ -20,10 +20,10 @@ tags: [rangoric, rangoric/magic-item]
 
 # Treasure Hunter's Goggles
 
-These sturdy but plain goggles help the wearer locate secret doors and coins and identify treasure. While wearing these goggles, the wearer can use *[[rangoric-srd/spells/Detect Secret Doors|detect secret doors]]* at will. The goggles do not aid in determining how secret doors are opened.
+These sturdy but plain goggles help the wearer locate secret doors and coins and identify treasure. While wearing these goggles, the wearer can use _[[rangoric-srd/spells/Detect Secret Doors|detect secret doors]]_ at will. The goggles do not aid in determining how secret doors are opened.
 
-Once per day on command, the wearer gains the ability to *[[rangoric-srd/spells/Locate Object|locate object]]* as per the spell, but only to detect 100 or more coins in a small area, such as a backpack, chest, pouch, or sack.
+Once per day on command, the wearer gains the ability to _[[rangoric-srd/spells/Locate Object|locate object]]_ as per the spell, but only to detect 100 or more coins in a small area, such as a backpack, chest, pouch, or sack.
 
-Three times per day, the wearer may use *[[rangoric-srd/spells/Identify|identify]]*.
+Three times per day, the wearer may use _[[rangoric-srd/spells/Identify|identify]]_.
 
-Faint divination; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Detect Secret Doors|detect secret doors]]*, *[[rangoric-srd/spells/Identify|identify]]*, *[[rangoric-srd/spells/Locate Object|locate object]]*; Price 6,400 gp; Cost 3,200 gp.
+Faint divination; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Detect Secret Doors|detect secret doors]]_, _[[rangoric-srd/spells/Identify|identify]]_, _[[rangoric-srd/spells/Locate Object|locate object]]_; Price 6,400 gp; Cost 3,200 gp.

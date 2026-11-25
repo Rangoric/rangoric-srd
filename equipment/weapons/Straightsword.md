@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/heavy-blades]
 
 # Straightsword
 
-*Martial one-handed melee weapon.* Cost 20 gp; Dmg 1d4 (S), 1d6 (M); Critical 19-20/x2; Weight 2 lb.; Type Slashing or piercing. ^stats
+_Martial one-handed melee weapon._ Cost 20 gp; Dmg 1d4 (S), 1d6 (M); Critical 19-20/x2; Weight 2 lb.; Type Slashing or piercing. ^stats
 
-(*Jian*): Widely used by practitioners of the martial arts, the straightsword is a light, slender, double-edged weapon, and is considered a sword of refinement. The Weapon Finesse feat can be used to apply Dexterity modifiers instead of Strength to attack rolls with a straightsword.
+(_Jian_): Widely used by practitioners of the martial arts, the straightsword is a light, slender, double-edged weapon, and is considered a sword of refinement. The Weapon Finesse feat can be used to apply Dexterity modifiers instead of Strength to attack rolls with a straightsword.

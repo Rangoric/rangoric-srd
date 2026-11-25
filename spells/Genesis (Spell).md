@@ -36,7 +36,7 @@ Range: 180 ft.
 Effect: A demiplane on the Ethereal Plane centered on your location  
 Duration: Instantaneous  
 Saving Throw: None  
-Spell Resistance: No  
+Spell Resistance: No
 
 This spell creates an immobile, finite plane with limited access - a demi-plane.
 

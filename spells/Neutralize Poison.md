@@ -38,21 +38,21 @@ tags: [rangoric, rangoric/spell]
 
 # Neutralize Poison
 
-*Conjuration (Healing)*
+_Conjuration (Healing)_
 
-  - **Level**: Alc 4, Brd 4, Clr 4, Drd 3, Hun 3, Inq 4, Pal 4, Rgr 3, Sha 4, Skd 4, Spi 4, Tot 3, Wit 4
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature or object of up to 1 cu. ft./level touched
-  - **Duration**: Instantaneous or 10 min./level; see text
-  - **Saving Throw**: Will negates (harmless, object)
-  - **Spell Resistance**: Yes (harmless, object)
+- **Level**: Alc 4, Brd 4, Clr 4, Drd 3, Hun 3, Inq 4, Pal 4, Rgr 3, Sha 4, Skd 4, Spi 4, Tot 3, Wit 4
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature or object of up to 1 cu. ft./level touched
+- **Duration**: Instantaneous or 10 min./level; see text
+- **Saving Throw**: Will negates (harmless, object)
+- **Spell Resistance**: Yes (harmless, object)
 
 You detoxify any sort of venom in the creature or object touched. If the target is a creature, you must make a caster level check (1d20 + caster level) against the [[rangoric-srd/rules/Afflictions#^affliction-save|DC]] of each [[rangoric-srd/rules/Afflictions#Poison|poison]] affecting the target. Success means that the poison is neutralized. A cured creature suffers no additional effects from the poison, and any temporary effects are ended, but the spell does not reverse instantaneous effects, such as hit point damage, temporary [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]], or effects that don’t go away on their own.
 
-The creature is immune to any poison it is exposed to for 10 minutes per level. Unlike with *[[rangoric-srd/spells/Delay Poison|delay poison]]*, such effects aren’t postponed until after the duration—the creature need not make any saves against poison effects applied to it during the length of the spell.
+The creature is immune to any poison it is exposed to for 10 minutes per level. Unlike with _[[rangoric-srd/spells/Delay Poison|delay poison]]_, such effects aren’t postponed until after the duration—the creature need not make any saves against poison effects applied to it during the length of the spell.
 
 This spell can instead neutralize the poison in a poisonous creature or object for 10 minutes per level, at the caster’s option. If cast on a creature, the creature receives a Will save to negate the effect.
 
-*Arcane Material Component*: A bit of charcoal.
+_Arcane Material Component_: A bit of charcoal.

@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Svartalfar
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]] (Extraplanar)
-  - **Hit Dice**: 13d6+39 (84 hp)
-  - **Initiative**: +5
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 20 (+5 Dex, +5 natural), touch 15, flat-footed 15
-  - **Base Attack**: +6; **CMB**: +11; **CMD**: 22
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +9 melee (1d8+4/19–20)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +9/+6 melee (1d8+4/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bane|Bane]], [[rangoric-srd/monsters/abilities/Quickened Spell Strike|quickened spell strike]], sneak attack +3d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
-  - **Saves**: Fort +6, Ref +13, Will +12
-  - **Abilities**: Str 12, Dex 21, Con 17, Int 18, Wis 14, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +21, [[rangoric-srd/skills/Athletics|Athletics]] +1 (+5 jumping), [[rangoric-srd/skills/Deception|Deception]] +21, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +27, [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Nature|Nature]] +20, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +27, [[rangoric-srd/skills/Theology|Theology]] +17
-  - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Escape Artist, Stealth), [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
-  - **Environment**: Any (Shadow Plane)
-  - **Organization**: Solitary, pair, cabal (3–12), or clan (10–30)
-  - **Challenge Rating**: 8
-  - **Treasure**: NPC gear (+1 longsword, other treasure)
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]] (Extraplanar)
+- **Hit Dice**: 13d6+39 (84 hp)
+- **Initiative**: +5
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 20 (+5 Dex, +5 natural), touch 15, flat-footed 15
+- **Base Attack**: +6; **CMB**: +11; **CMD**: 22
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +9 melee (1d8+4/19–20)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +9/+6 melee (1d8+4/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bane|Bane]], [[rangoric-srd/monsters/abilities/Quickened Spell Strike|quickened spell strike]], sneak attack +3d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
+- **Saves**: Fort +6, Ref +13, Will +12
+- **Abilities**: Str 12, Dex 21, Con 17, Int 18, Wis 14, Cha 21
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +21, [[rangoric-srd/skills/Athletics|Athletics]] +1 (+5 jumping), [[rangoric-srd/skills/Deception|Deception]] +21, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +27, [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Nature|Nature]] +20, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +27, [[rangoric-srd/skills/Theology|Theology]] +17
+- **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Escape Artist, Stealth), [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
+- **Environment**: Any (Shadow Plane)
+- **Organization**: Solitary, pair, cabal (3–12), or clan (10–30)
+- **Challenge Rating**: 8
+- **Treasure**: NPC gear (+1 longsword, other treasure)
+- **Alignment**: Usually lawful evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The ancestors of the svartalfars were exiled from their primordial home for grave crimes that no fey will speak of. Fleeing to the Shadow Plane, they formed assassin clans, and now they hire their services to any who pay them. Their payment must be in secrets, bits of occult science, and obscure information to add to their huge, dark libraries in underground warrens hidden away on the Shadow Plane. Svartalfars are extremely interested in knowledge about the realm of the fey. Many fear the svartalfars are searching for a way to finally take their revenge upon those who expelled them.
 
@@ -70,7 +70,7 @@ Svartalfars seem to feel no love or real friendship. All of their actions are co
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 13th; concentration +18): At will—*[[rangoric-srd/spells/Chill Touch|chill touch]]* (DC 16), *[[rangoric-srd/spells/Corrosive Touch|corrosive touch]]*; 3/day—*[[rangoric-srd/spells/Frigid Touch|frigid touch]]*, *[[rangoric-srd/spells/Shadow Step|shadow step]]*, *[[rangoric-srd/spells/Vanish|vanish]]*; 1/day—*[[rangoric-srd/spells/Force Punch|force punch]]* (DC 18), *[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]*, *[[rangoric-srd/spells/Ray of Exhaustion|ray of exhaustion]]* (DC 18).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 13th; concentration +18): At will—_[[rangoric-srd/spells/Chill Touch|chill touch]]_ (DC 16), _[[rangoric-srd/spells/Corrosive Touch|corrosive touch]]_; 3/day—_[[rangoric-srd/spells/Frigid Touch|frigid touch]]_, _[[rangoric-srd/spells/Shadow Step|shadow step]]_, _[[rangoric-srd/spells/Vanish|vanish]]_; 1/day—_[[rangoric-srd/spells/Force Punch|force punch]]_ (DC 18), _[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]_, _[[rangoric-srd/spells/Ray of Exhaustion|ray of exhaustion]]_ (DC 18).
 
 **[[rangoric-srd/monsters/abilities/Bane|Bane]] (Su)**: Once per day as a swift action, a svartalfar can imbue one of its weapons with the bane weapon special ability. It must select one creature type (and subtype, if choosing humanoid or outsider) when it uses this ability. This lasts for 1 hour. This ability only functions while the svartalfar wields the weapon.
 

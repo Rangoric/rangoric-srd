@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Irreligious
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “irreligious”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “irreligious”, on the Special Qualities line.
 
 Bitter and blasphemous, redcaps cannot stand the symbols of good-aligned religions. If a foe spends a standard action presenting such a holy symbol, any redcap that can see the creature must make a DC 15 Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] for 1 minute and attempt to flee. A redcap who successfully saves is [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 minute. The [[rangoric-srd/monsters/Redcap|redcap]] has it.

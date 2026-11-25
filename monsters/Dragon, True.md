@@ -65,9 +65,9 @@ Breath weapons come in two basic shapes, line and cone, whose areas vary with th
 | Gargantuan  | 120 ft.            | 60 ft.               |
 | Colossal    | 140 ft.            | 70 ft.               |
 
-\* *A line is always 5 feet high and 5 feet wide.*
+\* _A line is always 5 feet high and 5 feet wide._
 
-\*\* *A cone is as high and wide as its length.*
+\*\* _A cone is as high and wide as its length._
 
 **Frightful Presence (Ex)**: From the age its variety description gives, a dragon has [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]], which takes effect whenever the dragon attacks, charges, or flies overhead. Its range is 30 feet × the dragon’s age category, and the save DC is 10 + 1/2 dragon’s HD + dragon’s Cha modifier. Dragons ignore the frightful presence of other dragons.
 
@@ -93,34 +93,34 @@ Breath weapons come in two basic shapes, line and cone, whose areas vary with th
 
 A variety's wyrmling, the first row of its description's tables, is its **base statistics** (CR, size, Hit Dice, ability scores, natural armor and breath weapon damage); each older age adds the changes below to them. Size changes are steps up from the base size.
 
-| Category | Age (Years) | CR | Size | Hit Dice | Str | Dex | Con | Int, Wis, Cha | Natural Armor | Breath Weapon |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 Wyrmling | 0–5 | base | base | base | base | base | base | base | base | 1× base |
-| 2 Very young | 6–15 | +2 | +1 | +2 | +4 | –2 | +2 | +2 | +3 | 2× base |
-| 3 Young | 16–25 | +4 | +2 | +4 | +8 | –2 | +4 | +2 | +6 | 3× base |
-| 4 Juvenile | 26–50 | +5 | +2 | +6 | +10 | –2 | +6 | +4 | +9 | 4× base |
-| 5 Young adult | 51–100 | +7 | +3 | +8 | +12 | –4 | +6 | +4 | +12 | 5× base |
-| 6 Adult | 101–200 | +8 | +3 | +10 | +14 | –4 | +8 | +6 | +15 | 6× base |
-| 7 Mature adult | 201–400 | +9 | +3 | +12 | +16 | –4 | +8 | +6 | +18 | 7× base |
-| 8 Old | 401–600 | +11 | +4 | +14 | +18 | –6 | +10 | +8 | +21 | 8× base |
-| 9 Very old | 601–800 | +12 | +4 | +16 | +20 | –6 | +10 | +8 | +24 | 9× base |
-| 10 Ancient | 801–1,000 | +13 | +4 | +18 | +22 | –6 | +12 | +10 | +27 | 10× base |
-| 11 Wyrm | 1,001–1,200 | +14 | +4 | +20 | +24 | –8 | +12 | +10 | +30 | 11× base |
-| 12 Great wyrm | 1,201 or more | +16 | +5 | +22 | +26 | –8 | +14 | +12 | +33 | 12× base |
+| Category       | Age (Years)   | CR   | Size | Hit Dice | Str  | Dex  | Con  | Int, Wis, Cha | Natural Armor | Breath Weapon |
+| -------------- | ------------- | ---- | ---- | -------- | ---- | ---- | ---- | ------------- | ------------- | ------------- |
+| 1 Wyrmling     | 0–5           | base | base | base     | base | base | base | base          | base          | 1× base       |
+| 2 Very young   | 6–15          | +2   | +1   | +2       | +4   | –2   | +2   | +2            | +3            | 2× base       |
+| 3 Young        | 16–25         | +4   | +2   | +4       | +8   | –2   | +4   | +2            | +6            | 3× base       |
+| 4 Juvenile     | 26–50         | +5   | +2   | +6       | +10  | –2   | +6   | +4            | +9            | 4× base       |
+| 5 Young adult  | 51–100        | +7   | +3   | +8       | +12  | –4   | +6   | +4            | +12           | 5× base       |
+| 6 Adult        | 101–200       | +8   | +3   | +10      | +14  | –4   | +8   | +6            | +15           | 6× base       |
+| 7 Mature adult | 201–400       | +9   | +3   | +12      | +16  | –4   | +8   | +6            | +18           | 7× base       |
+| 8 Old          | 401–600       | +11  | +4   | +14      | +18  | –6   | +10  | +8            | +21           | 8× base       |
+| 9 Very old     | 601–800       | +12  | +4   | +16      | +20  | –6   | +10  | +8            | +24           | 9× base       |
+| 10 Ancient     | 801–1,000     | +13  | +4   | +18      | +22  | –6   | +12  | +10           | +27           | 10× base      |
+| 11 Wyrm        | 1,001–1,200   | +14  | +4   | +20      | +24  | –8   | +12  | +10           | +30           | 11× base      |
+| 12 Great wyrm  | 1,201 or more | +16  | +5   | +22      | +26  | –8   | +14  | +12           | +33           | 12× base      |
 
 **Dragon Space/Reach, Attacks, and Damage**
 
-| Size | Space/Reach (\*) | Fly Speed (Maneuverability) | 1 Bite | 2 Claws | 2 Wings | 1 Tail Slap | 1 Crush | 1 Tail Sweep |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Tiny | 2-1/2 ft./0 ft. (5 ft. with bite) | 100 ft. (average) | 1d4 | 1d3 | — | — | — | — |
-| Small | 5 ft./5 ft. | 150 ft. (average) | 1d6 | 1d4 | — | — | — | — |
-| Medium | 5 ft./5 ft. | 150 ft. (average) | 1d8 | 1d6 | 1d4 | — | — | — |
-| Large | 10 ft./5 ft. (10 ft. with bite) | 200 ft. (poor) | 2d6 | 1d8 | 1d6 | 1d8 | — | — |
-| Huge | 15 ft./10 ft. (15 ft. with bite) | 200 ft. (poor) | 2d8 | 2d6 | 1d8 | 2d6 | 2d8 | — |
-| Gargantuan | 20 ft./15 ft. (20 ft. with bite) | 250 ft. (clumsy) | 4d6 | 2d8 | 2d6 | 2d8 | 4d6 | 2d6 |
-| Colossal | 30 ft./20 ft. (30 ft. with bite) | 250 ft. (clumsy) | 4d8 | 4d6 | 2d8 | 4d6 | 4d8 | 2d8 |
+| Size       | Space/Reach (\*)                  | Fly Speed (Maneuverability) | 1 Bite | 2 Claws | 2 Wings | 1 Tail Slap | 1 Crush | 1 Tail Sweep |
+| ---------- | --------------------------------- | --------------------------- | ------ | ------- | ------- | ----------- | ------- | ------------ |
+| Tiny       | 2-1/2 ft./0 ft. (5 ft. with bite) | 100 ft. (average)           | 1d4    | 1d3     | —       | —           | —       | —            |
+| Small      | 5 ft./5 ft.                       | 150 ft. (average)           | 1d6    | 1d4     | —       | —           | —       | —            |
+| Medium     | 5 ft./5 ft.                       | 150 ft. (average)           | 1d8    | 1d6     | 1d4     | —           | —       | —            |
+| Large      | 10 ft./5 ft. (10 ft. with bite)   | 200 ft. (poor)              | 2d6    | 1d8     | 1d6     | 1d8         | —       | —            |
+| Huge       | 15 ft./10 ft. (15 ft. with bite)  | 200 ft. (poor)              | 2d8    | 2d6     | 1d8     | 2d6         | 2d8     | —            |
+| Gargantuan | 20 ft./15 ft. (20 ft. with bite)  | 250 ft. (clumsy)            | 4d6    | 2d8     | 2d6     | 2d8         | 4d6     | 2d6          |
+| Colossal   | 30 ft./20 ft. (30 ft. with bite)  | 250 ft. (clumsy)            | 4d8    | 4d6     | 2d8     | 4d6         | 4d8     | 2d8          |
 
-\* *A dragon’s bite attack has reach as if the creature were one size category larger. All other attacks are made with the standard reach for the dragon’s size.*
+\* _A dragon’s bite attack has reach as if the creature were one size category larger. All other attacks are made with the standard reach for the dragon’s size._
 
 #### Dragon Overland Movement
 

@@ -42,7 +42,7 @@ While users of divine magic are often regarded simply as healers, their wisdom a
 
 **Unique**: Can brew 4 unique potions that instantly heal the disease filth fever.
 
-**Unique**: Allows the PC to commune with the spirit animal of his tribe, granting the PC the ability to *[[rangoric-srd/spells/Speak with Animals|speak with animals]]* of a specific regional species once per day.
+**Unique**: Allows the PC to commune with the spirit animal of his tribe, granting the PC the ability to _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_ of a specific regional species once per day.
 
 ## Aristocrat
 

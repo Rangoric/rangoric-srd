@@ -25,17 +25,17 @@ tags: [rangoric, rangoric/spell]
 
 # Temporal Stasis
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Psy 8, Sor/Wiz 8
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: Permanent
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Psy 8, Sor/Wiz 8
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: Permanent
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
 You must succeed on a melee touch attack. You place the subject into a state of suspended animation. For the creature, time ceases to flow and its condition becomes fixed. The creature does not grow older. Its body functions virtually cease, and no force or effect can harm it. This state persists until the magic is removed (such as by a successful dispel magic spell or a freedom spell).
 
-*Material Component*: A powder composed of diamond, emerald, ruby, and sapphire dust with a total value of at least 5,000 gp.
+_Material Component_: A powder composed of diamond, emerald, ruby, and sapphire dust with a total value of at least 5,000 gp.

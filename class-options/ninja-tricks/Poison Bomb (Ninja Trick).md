@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Poison Bomb
 
-*A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Ex).*
+_A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Ex)._
 
 Whenever the ninja throws a smoke bomb, she can decide to include 1 dose of any inhaled poison she possesses. This poison affects all creatures in the smoke and lasts as long as the smoke lasts. She must pay for the poison normally. The ninja must have the smoke bomb ninja trick before selecting this trick.

@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat]
 
 # Force of Will
 
-You are able to resist psionic attacks with extreme force of will.  
+You are able to resist psionic attacks with extreme force of will.
 
 Prerequisite: [[rangoric-srd/feats/Iron Will|Iron Will]].
 

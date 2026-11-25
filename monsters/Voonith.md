@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Voonith
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Aquatic)
-  - **Hit Dice**: 5d10+10 (37 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares), swim 50 ft.
-  - **Armor Class**: 17 (+3 Dex, +3 natural, +1 size), touch 14, flat-footed 14
-  - **Base Attack**: +5; **CMB**: +5; **CMD**: 18 (26 vs. trip)
-  - **Attack**: Bite +8 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Trip|trip]]) or claw +7 melee (1d3+1)
-  - **Full Attack**: Bite +8 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Trip|trip]]) and 4 claws +7 melee (1d3+1)
-  - **Space/Reach**: 5 ft./5 ft. (10 ft. with bite)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood-Freezing Howl|Blood-freezing howl]], [[rangoric-srd/monsters/abilities/Pounce|pounce]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
-  - **Saves**: Fort +6, Ref +7, Will +2
-  - **Abilities**: Str 13, Dex 16, Con 14, Int 5, Wis 12, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +12
-  - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (blood-freezing howl), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
-  - **Environment**: Any rivers or marshes
-  - **Organization**: Solitary, pair, or clutch (3–6)
-  - **Challenge Rating**: 4
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Aquatic)
+- **Hit Dice**: 5d10+10 (37 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares), swim 50 ft.
+- **Armor Class**: 17 (+3 Dex, +3 natural, +1 size), touch 14, flat-footed 14
+- **Base Attack**: +5; **CMB**: +5; **CMD**: 18 (26 vs. trip)
+- **Attack**: Bite +8 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Trip|trip]]) or claw +7 melee (1d3+1)
+- **Full Attack**: Bite +8 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Trip|trip]]) and 4 claws +7 melee (1d3+1)
+- **Space/Reach**: 5 ft./5 ft. (10 ft. with bite)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood-Freezing Howl|Blood-freezing howl]], [[rangoric-srd/monsters/abilities/Pounce|pounce]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
+- **Saves**: Fort +6, Ref +7, Will +2
+- **Abilities**: Str 13, Dex 16, Con 14, Int 5, Wis 12, Cha 13
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +12
+- **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (blood-freezing howl), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
+- **Environment**: Any rivers or marshes
+- **Organization**: Solitary, pair, or clutch (3–6)
+- **Challenge Rating**: 4
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Cunning and aggressive, vooniths are amphibious nocturnal predators with voracious appetites and mild intelligence. A voonith's howl is said to freeze the blood and is more than capable of stopping a creature in its tracks. Vooniths usually howl when they see prey too far away from the water's edge to ambush. While the vooniths are native to the strange Dimension of Dream, many have found their way out of that realm and into the waking world to take up lairs in the swampy fens and remote coastlines of the world. How the vooniths originally managed to make this transition between worlds is unclear.
 

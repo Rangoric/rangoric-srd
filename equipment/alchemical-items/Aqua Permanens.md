@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Aqua Permanens
 
-*Chymical; Special*
+_Chymical; Special_
 
 Aqua permanens is one of the more important chymicals in an alchemists’ laboratory—it is a sealant, locking in the effects and special natures of all the miscible substances in most creations. While it has no use as an ingestible, applying this liquid topically to any wounds will cause them to instantly seal, thus preventing the person from bleeding to death. Using aqua permanens in this way, however, leaves a permanent scar (dark and slightly metallic, like lead under the skin), even if the wound is magically healed later. The person, while not losing real hit points, does suffer 1d4 points of nonlethal damage from the liquid’s contact with the bloodstream.
 

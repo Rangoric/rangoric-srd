@@ -36,29 +36,30 @@ change: modified
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---
+
 # Bat
 
-  - Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 1d8–2 (2 hp)
-  - **Initiative**: +2
-  - **Speed**: 5 ft. (1 square), fly 40 ft. (good)
-  - **Armor Class**: 16 (+2 Dex, +4 size), touch 16, flat-footed 14
-  - **Base Attack**: +0; **CMB**: –2; **CMD**: 3
-  - **Attack**: Bite +6 melee (1d3–5)
-  - **Full Attack**: Bite +6 melee (1d3–5)
-  - **Space/Reach**: 1 ft./0 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 20 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-  - **Saves**: Fort +0, Ref +4, Will +2
-  - **Abilities**: Str 1, Dex 15, Con 6, Int 2, Wis 14, Cha 5
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Perception|Perception]] +6
-  - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Temperate and hot forests and deserts
-  - **Organization**: Colony (10–400) or crowd (10–50)
-  - **Challenge Rating**: 1/8
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 1d8–2 (2 hp)
+- **Initiative**: +2
+- **Speed**: 5 ft. (1 square), fly 40 ft. (good)
+- **Armor Class**: 16 (+2 Dex, +4 size), touch 16, flat-footed 14
+- **Base Attack**: +0; **CMB**: –2; **CMD**: 3
+- **Attack**: Bite +6 melee (1d3–5)
+- **Full Attack**: Bite +6 melee (1d3–5)
+- **Space/Reach**: 1 ft./0 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 20 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
+- **Saves**: Fort +0, Ref +4, Will +2
+- **Abilities**: Str 1, Dex 15, Con 6, Int 2, Wis 14, Cha 5
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Perception|Perception]] +6
+- **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Temperate and hot forests and deserts
+- **Organization**: Colony (10–400) or crowd (10–50)
+- **Challenge Rating**: 1/8
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Most bats are insectivores or fruit-eaters, but at least one species drinks blood.

@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Ash Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Fire Domain|Fire]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Fire Domain|Fire]] domain._
 
 ## Replacement Power
 
@@ -27,7 +27,7 @@ This power replaces the [[rangoric-srd/class-options/domains/Fire Domain#Granted
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 7th | [[rangoric-srd/spells/Disintegrate\|Disintegrate]] | Makes one creature or object vanish. |
-| 9th | [[rangoric-srd/spells/Fiery Body\|Fiery Body]] | You gain various fire-related powers. |
+| Level | Spell                                              | Brief Description                     |
+| ----- | -------------------------------------------------- | ------------------------------------- |
+| 7th   | [[rangoric-srd/spells/Disintegrate\|Disintegrate]] | Makes one creature or object vanish.  |
+| 9th   | [[rangoric-srd/spells/Fiery Body\|Fiery Body]]     | You gain various fire-related powers. |

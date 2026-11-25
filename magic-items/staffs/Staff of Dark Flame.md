@@ -21,12 +21,12 @@ tags: [rangoric, rangoric/magic-item]
 
 # Staff of Dark Flame
 
-Made from bleached bones that have been fused together, the head of this staff burns with an unholy fire. This staff can be used as a *+1 [[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]] quarterstaff* (only one end of the staff bears magical enhancement), and it retains this property even if all its charges are drained. This staff can cast the following spells:
+Made from bleached bones that have been fused together, the head of this staff burns with an unholy fire. This staff can be used as a _+1 [[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]] quarterstaff_ (only one end of the staff bears magical enhancement), and it retains this property even if all its charges are drained. This staff can cast the following spells:
 
-- *[[rangoric-srd/spells/False Life|False life]]* (1 charge)
-- *[[rangoric-srd/spells/Ray of Enfeeblement|Ray of enfeeblement]]* (1 charge)
-- *[[rangoric-srd/spells/Scorching Ray|Scorching ray]]* (1 charge)
-- *[[rangoric-srd/spells/Fireball|Fireball]]* (2 charges)
-- *[[rangoric-srd/spells/Animate Dead|Animate dead]]* (3 charges)
+- _[[rangoric-srd/spells/False Life|False life]]_ (1 charge)
+- _[[rangoric-srd/spells/Ray of Enfeeblement|Ray of enfeeblement]]_ (1 charge)
+- _[[rangoric-srd/spells/Scorching Ray|Scorching ray]]_ (1 charge)
+- _[[rangoric-srd/spells/Fireball|Fireball]]_ (2 charges)
+- _[[rangoric-srd/spells/Animate Dead|Animate dead]]_ (3 charges)
 
-Moderate evocation and necromancy; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Animate Dead|animate dead]]*, *[[rangoric-srd/spells/False Life|false life]]*, *[[rangoric-srd/spells/Fireball|fireball]]*, *[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]*, *[[rangoric-srd/spells/Scorching Ray|scorching ray]]*; Price 47,000 gp; Cost 27,133 gp; Weight 4 lbs.
+Moderate evocation and necromancy; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Animate Dead|animate dead]]_, _[[rangoric-srd/spells/False Life|false life]]_, _[[rangoric-srd/spells/Fireball|fireball]]_, _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_, _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_; Price 47,000 gp; Cost 27,133 gp; Weight 4 lbs.

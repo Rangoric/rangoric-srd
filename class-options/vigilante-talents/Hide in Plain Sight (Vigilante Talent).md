@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Hide in Plain Sight
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 The vigilante can use [[rangoric-srd/skills/Stealth|Stealth]] to hide even when being observed. As long as he is within 10 feet of dim light (his own shadow doesn’t count), he can hide without anything to actually hide behind.
 

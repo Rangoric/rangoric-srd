@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Hippogriff
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 3d10+6 (22 hp)
-  - **Initiative**: +2
-  - **Speed**: 40 ft. (8 squares), fly 100 ft. (average)
-  - **Armor Class**: 14 (+2 Dex, +1 dodge, +2 natural, –1 size), touch 12, flat-footed 11
-  - **Base Attack**: +3; **CMB**: +6; **CMD**: 19
-  - **Attack**: Bite +4 melee (1d6+2) or claw +4 melee (1d4+2)
-  - **Full Attack**: Bite +4 melee (1d6+2) and 2 claws +4 melee (1d4+2)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +5, Ref +5, Will +2
-  - **Abilities**: Str 15, Dex 15, Con 14, Int 2, Wis 12, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Perception|Perception]] +9
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Wingover|Wingover]]
-  - **Environment**: Temperate hills or plains
-  - **Organization**: Solitary, pair, or flight (7–12)
-  - **Challenge Rating**: 2
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 4–6 HD (Large); 7–9 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 3d10+6 (22 hp)
+- **Initiative**: +2
+- **Speed**: 40 ft. (8 squares), fly 100 ft. (average)
+- **Armor Class**: 14 (+2 Dex, +1 dodge, +2 natural, –1 size), touch 12, flat-footed 11
+- **Base Attack**: +3; **CMB**: +6; **CMD**: 19
+- **Attack**: Bite +4 melee (1d6+2) or claw +4 melee (1d4+2)
+- **Full Attack**: Bite +4 melee (1d6+2) and 2 claws +4 melee (1d4+2)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +5, Ref +5, Will +2
+- **Abilities**: Str 15, Dex 15, Con 14, Int 2, Wis 12, Cha 9
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Perception|Perception]] +9
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Wingover|Wingover]]
+- **Environment**: Temperate hills or plains
+- **Organization**: Solitary, pair, or flight (7–12)
+- **Challenge Rating**: 2
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 4–6 HD (Large); 7–9 HD (Huge)
+- **Level Adjustment**: —
 
 The hippogriff bears the wings, forelegs, and head of a great raptor bird and the tail and body of a magnificent horse. As horses are a preferred meal for griffons, sages claim some flesh-warping [[rangoric-srd/classes/Wizard|wizard]] with an ironic sense of humor long ago created this unfortunate fusion of horse and hawk as a joke.
 

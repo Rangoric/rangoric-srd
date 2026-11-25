@@ -15,13 +15,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Undead Bloodline (Bloodrager)
 
-*A [[rangoric-srd/classes/Bloodrager#^bloodrager-bloodline|bloodrager bloodline]]. The [[rangoric-srd/class-options/bloodlines/Undead Bloodline|sorcerer’s undead bloodline]] shares the name but not the powers.*
+_A [[rangoric-srd/classes/Bloodrager#^bloodrager-bloodline|bloodrager bloodline]]. The [[rangoric-srd/class-options/bloodlines/Undead Bloodline|sorcerer’s undead bloodline]] shares the name but not the powers._
 
 The foul corruption of undeath is a part of you. Somewhere in the past, death became infused with your lineage. Your connection to the attributes of the undead bestows frightening power when you bloodrage.
 
 **Bonus Feats**: [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Toughness|Toughness]].
 
-**Bonus Spells**: *[[rangoric-srd/spells/Chill Touch|Chill touch]]* (7th), *[[rangoric-srd/spells/False Life|false life]]* (10th), *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]* (13th), *[[rangoric-srd/spells/Enervation|enervation]]* (16th).
+**Bonus Spells**: _[[rangoric-srd/spells/Chill Touch|Chill touch]]_ (7th), _[[rangoric-srd/spells/False Life|false life]]_ (10th), _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_ (13th), _[[rangoric-srd/spells/Enervation|enervation]]_ (16th).
 
 ## Bloodline Powers
 
@@ -29,7 +29,7 @@ When you enter a bloodrage, the powers of undeath manifest, empowering your atta
 
 **Frightful Charger (Su)**: At 1st level, when you hit a creature with a charge attack, that creature becomes [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for a number of rounds equal to 1/2 your bloodrager level (minimum 1). This effect does not cause an existing shaken or [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] condition (from this ability or another source) to turn into frightened or [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]]. This is a mind-affecting fear effect.
 
-**Ghost Strike (Su)**: At 4th level, your melee attacks are treated as if they have the *[[rangoric-srd/magic-items/weapon-abilities/Ghost Touch (Weapon Special Ability)|ghost touch]]* weapon special ability.
+**Ghost Strike (Su)**: At 4th level, your melee attacks are treated as if they have the _[[rangoric-srd/magic-items/weapon-abilities/Ghost Touch (Weapon Special Ability)|ghost touch]]_ weapon special ability.
 
 **Death’s Gift (Su)**: At 8th level, you gain cold resistance 10, as well as DR 10/— against nonlethal damage.
 

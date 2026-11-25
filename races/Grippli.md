@@ -46,17 +46,17 @@ Bonus Languages:
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 12 years | +1d4 | +1d6 | +2d6 |
+| --------- | --------- | ----------- | ------- |
+| 12 years  | +1d4      | +1d6        | +2d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 20 years | 30 years | 40 years | +1d20 years |
+| Middle Age | Old      | Venerable | Maximum Age |
+| ---------- | -------- | --------- | ----------- |
+| 20 years   | 30 years | 40 years  | +1d20 years |
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 1 ft. 7 in. | +2d4 | 25 lb. | × 1 lb. |
-| Female | 1 ft. 5 in. | +2d4 | 20 lb. | × 1 lb. |
+| ------ | ----------- | --------------- | ----------- | --------------- |
+| Male   | 1 ft. 7 in. | +2d4            | 25 lb.      | × 1 lb.         |
+| Female | 1 ft. 5 in. | +2d4            | 20 lb.      | × 1 lb.         |
 
 ### Description
 
@@ -66,12 +66,12 @@ Gripplis stand just over 2 feet tall and have mottled green-and-brown skin. Most
 
 A grippli can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Glider\|Glider]] | Swamp stride |
-| [[rangoric-srd/races/racial-traits/Jumper\|Jumper]] | Camouflage |
-| [[rangoric-srd/races/racial-traits/Princely\|Princely]] | Swamp stride and weapon familiarity |
-| [[rangoric-srd/races/racial-traits/Toxic Skin\|Toxic Skin]] | Swamp stride and camouflage |
+| Trait                                                       | Replaces                            |
+| ----------------------------------------------------------- | ----------------------------------- |
+| [[rangoric-srd/races/racial-traits/Glider\|Glider]]         | Swamp stride                        |
+| [[rangoric-srd/races/racial-traits/Jumper\|Jumper]]         | Camouflage                          |
+| [[rangoric-srd/races/racial-traits/Princely\|Princely]]     | Swamp stride and weapon familiarity |
+| [[rangoric-srd/races/racial-traits/Toxic Skin\|Toxic Skin]] | Swamp stride and camouflage         |
 
 ### Class Bonuses
 
@@ -83,6 +83,6 @@ A grippli gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
+| Archetype                                                                                            | Class                                         |
+| ---------------------------------------------------------------------------------------------------- | --------------------------------------------- |
 | [[rangoric-srd/class-options/archetypes/alchemist/Bogborn Alchemist (Archetype)\|Bogborn Alchemist]] | [[rangoric-srd/classes/Alchemist\|Alchemist]] |

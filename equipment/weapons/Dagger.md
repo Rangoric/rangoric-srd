@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades, weapon-group/thrown
 
 # Dagger
 
-*Simple light melee weapon.* Cost 2 gp; Dmg 1d3 (S), 1d4 (M); Critical 19–20/x2; Range Increment 10 ft.; Weight 1 lb.; Type Piercing or slashing. ^stats
+_Simple light melee weapon._ Cost 2 gp; Dmg 1d3 (S), 1d4 (M); Critical 19–20/x2; Range Increment 10 ft.; Weight 1 lb.; Type Piercing or slashing. ^stats
 
 You get a +2 bonus on Sleight of Hand checks made to conceal a dagger on your body (see the Sleight of Hand skill).

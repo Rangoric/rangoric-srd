@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Stirge
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 1d10 (5 hp)
-  - **Initiative**: +4
-  - **Speed**: 10 ft. (2 squares), fly 40 ft. (average)
-  - **Armor Class**: 16 (+4 Dex, +2 size), touch 16, flat-footed 12
-  - **Base Attack**: +1; **CMB**: +3 (+11 grapple when attached); **CMD**: 9 (17 vs. trip)
-  - **Attack**: Touch +7 melee (attach)
-  - **Full Attack**: Touch +7 melee (attach)
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], diseased
-  - **Saves**: Fort +2, Ref +6, Will +1
-  - **Abilities**: Str 3, Dex 19, Con 10, Int 1, Wis 12, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +16
-  - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Temperate and warm swamps; warm marshes
-  - **Organization**: Solitary, colony (2–4), flock (5–8), storm (9–14), or swarm (15–40)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 1d10 (5 hp)
+- **Initiative**: +4
+- **Speed**: 10 ft. (2 squares), fly 40 ft. (average)
+- **Armor Class**: 16 (+4 Dex, +2 size), touch 16, flat-footed 12
+- **Base Attack**: +1; **CMB**: +3 (+11 grapple when attached); **CMD**: 9 (17 vs. trip)
+- **Attack**: Touch +7 melee (attach)
+- **Full Attack**: Touch +7 melee (attach)
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], diseased
+- **Saves**: Fort +2, Ref +6, Will +1
+- **Abilities**: Str 3, Dex 19, Con 10, Int 1, Wis 12, Cha 6
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +16
+- **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Temperate and warm swamps; warm marshes
+- **Organization**: Solitary, colony (2–4), flock (5–8), storm (9–14), or swarm (15–40)
+- **Challenge Rating**: 1/2
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Stirges are vicious, blood-drinking swamp pests that prey on wild animals, livestock, and unwary travelers. While weak individually, swarms of the creatures are capable of draining a man dry in minutes, leaving only a desiccated husk in their wake.
 

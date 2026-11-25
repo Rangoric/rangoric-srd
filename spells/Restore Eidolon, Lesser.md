@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Restore Eidolon, Lesser
 
-*Conjuration (Healing)*
+_Conjuration (Healing)_
 
-  - **Level**: Sum 2, SumU 2
-  - **Components**: V, S
-  - **Casting Time**: 3 rounds
-  - **Range**: Touch
-  - **Target**: Eidolon touched
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Sum 2, SumU 2
+- **Components**: V, S
+- **Casting Time**: 3 rounds
+- **Range**: Touch
+- **Target**: Eidolon touched
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-This spell functions as *lesser restoration*, except it only affects an eidolon.
+This spell functions as _lesser restoration_, except it only affects an eidolon.

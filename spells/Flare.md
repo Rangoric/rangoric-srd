@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Flare
 
-*Evocation \[Light\]*
+_Evocation \[Light\]_
 
-  - **Level**: Brd 0, Drd 0, Hun 0, Mag 0, Med 0, Mes 0, Occ 0, Psy 0, Skd 0, Sor/Wiz 0
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: Burst of light
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 0, Drd 0, Hun 0, Mag 0, Med 0, Mes 0, Occ 0, Psy 0, Skd 0, Sor/Wiz 0
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: Burst of light
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
 This cantrip creates a burst of light. If you cause the light to burst directly in front of a single creature, that creature is [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] for 1 minute unless it makes a successful Fortitude save. Sightless creatures, as well as creatures already dazzled, are not affected by flare.

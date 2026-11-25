@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/word-of-power]
 
 # Paralyze Creature
 
-*One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Binding Words|Binding group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]].*
+_One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Binding Words|Binding group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]]._
 
 **School** enchantment (compulsion) \[mind-affecting\]
 
@@ -29,4 +29,4 @@ tags: [rangoric, rangoric/word-of-power]
 
 **Target Restrictions** selected
 
-This effect word functions as the *[[rangoric-srd/unearthed-arcana/Words of Power/Effect Words/Paralyze Humanoid|paralyze humanoid]]* word except that it can affect creatures of any type.
+This effect word functions as the _[[rangoric-srd/unearthed-arcana/Words of Power/Effect Words/Paralyze Humanoid|paralyze humanoid]]_ word except that it can affect creatures of any type.

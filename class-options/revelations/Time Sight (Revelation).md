@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Time Sight
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Time Mystery|time]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Time Mystery|time]] mystery._
 
-You can peer through the mists of time to see things as they truly are, as if using the *[[rangoric-srd/spells/True Seeing|true seeing]]* spell. At 15th level, this functions like *[[rangoric-srd/spells/Moment of Prescience|moment of prescience]]*. At 18th level, this functions like *[[rangoric-srd/spells/Foresight|foresight]]*. You can use this ability for a number of minutes per day equal to your oracle level, but these minutes do not need to be consecutive. You must be at least 11th level to select this revelation.
+You can peer through the mists of time to see things as they truly are, as if using the _[[rangoric-srd/spells/True Seeing|true seeing]]_ spell. At 15th level, this functions like _[[rangoric-srd/spells/Moment of Prescience|moment of prescience]]_. At 18th level, this functions like _[[rangoric-srd/spells/Foresight|foresight]]_. You can use this ability for a number of minutes per day equal to your oracle level, but these minutes do not need to be consecutive. You must be at least 11th level to select this revelation.

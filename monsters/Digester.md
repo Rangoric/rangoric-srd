@@ -37,28 +37,28 @@ tags: [rangoric, rangoric/monster]
 
 # Digester
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 8d10+24 (68 hp)
-  - **Initiative**: +6
-  - **Speed**: 60 ft. (12 squares)
-  - **Armor Class**: 17 (+2 Dex, +5 natural), touch 12, flat-footed 15
-  - **Base Attack**: +8; **CMB**: +11; **CMD**: 23
-  - **Attack**: Claw +11 melee (1d8+4)
-  - **Full Attack**: Claw +11 melee (1d8+4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Acid spray
-  - **Special Qualities**: Darkvision 60 ft., immunity to acid, low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +9, Ref +10, Will +3
-  - **Abilities**: Str 17, Dex 15, Con 17, Int 2, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12 (+24 jumping), [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +12
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Warm forests
-  - **Organization**: Solitary or pack (3–6)
-  - **Challenge Rating**: 6
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 9–12 HD (Medium); 13–24 HD (Large)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 8d10+24 (68 hp)
+- **Initiative**: +6
+- **Speed**: 60 ft. (12 squares)
+- **Armor Class**: 17 (+2 Dex, +5 natural), touch 12, flat-footed 15
+- **Base Attack**: +8; **CMB**: +11; **CMD**: 23
+- **Attack**: Claw +11 melee (1d8+4)
+- **Full Attack**: Claw +11 melee (1d8+4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Acid spray
+- **Special Qualities**: Darkvision 60 ft., immunity to acid, low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +9, Ref +10, Will +3
+- **Abilities**: Str 17, Dex 15, Con 17, Int 2, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12 (+24 jumping), [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +12
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Warm forests
+- **Organization**: Solitary or pack (3–6)
+- **Challenge Rating**: 6
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 9–12 HD (Medium); 13–24 HD (Large)
+- **Level Adjustment**: —
 
 A digester stands about 5 feet tall and is 7 feet long from snout to tail. It weighs about 350 pounds,
 

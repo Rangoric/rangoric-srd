@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Shadow Clone
 
-*A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Su).*
+_A [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja trick]] (Su)._
 
-The ninja can create 1d4 shadowy duplicates of herself that conceal her true location. This ability functions as *[[rangoric-srd/spells/Mirror Image|mirror image]]*, using the ninja's level as her caster level. Using this ability is a standard action that uses up 1 ki point.
+The ninja can create 1d4 shadowy duplicates of herself that conceal her true location. This ability functions as _[[rangoric-srd/spells/Mirror Image|mirror image]]_, using the ninja's level as her caster level. Using this ability is a standard action that uses up 1 ki point.

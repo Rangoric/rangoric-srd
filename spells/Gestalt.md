@@ -24,18 +24,18 @@ tags: [rangoric, rangoric/spell]
 
 # Gestalt
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Sor/Wiz 7
-  - **Components**: V, S
-  - **Casting Time**: 1 round
-  - **Range**: Personal
-  - **Target**: You and Your Familiar
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates (harmless), special (see below)
-  - **Spell Resistance**: Yes
+- **Level**: Sor/Wiz 7
+- **Components**: V, S
+- **Casting Time**: 1 round
+- **Range**: Personal
+- **Target**: You and Your Familiar
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates (harmless), special (see below)
+- **Spell Resistance**: Yes
 
-Casting *gestalt* can be disorienting for a caster and her familiar, but the benefits are beyond question. The effect of this spell is to meld the two beings into one powerful form.
+Casting _gestalt_ can be disorienting for a caster and her familiar, but the benefits are beyond question. The effect of this spell is to meld the two beings into one powerful form.
 
 Immediately upon casting the spell, the caster and the familiar must make Will saves against this spell’s base DC. If both master and familiar fail their saves, the spell fails and they are stunned for 1d4 rounds. If one fails, the spell succeeds but the caster is stunned for 1 round. If both make the save, the spell succeeds without penalty.
 
@@ -65,4 +65,4 @@ Once melded with her familiar, the caster gains the following bonuses:
 
 During this spell’s duration, the caster cannot cast any spells or activate magical items. Quickened spells can be cast, but the amount of concentration involved increases the casting time to one action.
 
-When the duration of *gestalt* ends, the caster and familiar separate immediately and spend their next round stunned.
+When the duration of _gestalt_ ends, the caster and familiar separate immediately and spend their next round stunned.

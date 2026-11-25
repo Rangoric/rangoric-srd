@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/flavor, flavor]
 
 # Queen Oonagh
 
-***“The Fair Queen”, “The Fairest of the Fey”***
+**_“The Fair Queen”, “The Fairest of the Fey”_**
 
 Queen Oonagh is the consort of [[rangoric-srd/flavor/the-fey-realm/personalities/King Finvarra|King Finvarra]], and with him, she rules over the Land of Eternal Autumn. She is arguably the most beautiful woman in FaerieLand, and fey historians say Queen Maeve blessed her as such at birth. Oonagh acts frivolous and vain in a conscious effort to lull people into underestimating her. Although she appreciates her husband’s hobby of breeding [[rangoric-srd/monsters/Fey Steed|fey steeds]], Oonagh would rather spend her time indulging in poetry, music, and other art. Strangely, she also enjoys what she refers to as the “symphony of life and the orchestrations of war” and occasionally sets more memorable events to music.
 

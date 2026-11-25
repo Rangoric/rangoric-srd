@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Speaker for the Past
 
-*A [[rangoric-srd/classes/Shaman#^shaman-archetypes|shaman]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Shaman#^shaman-archetypes|shaman]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A speaker for the past is a shaman who specifically serves as the voice for spirits from her people's history. A speaker for the past is often an advocate of the ancestors of a specific group, the voice of experience, and a powerful resource that allows the past to aid the present.
 

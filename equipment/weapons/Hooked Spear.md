@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/spears, weapon-group/thr
 
 # Hooked Spear
 
-*Martial two-handed melee weapon (trip).* Cost 4 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Range Increment 20 ft.; Weight 5 lb.; Type Piercing. ^stats
+_Martial two-handed melee weapon (trip)._ Cost 4 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Range Increment 20 ft.; Weight 5 lb.; Type Piercing. ^stats
 
-(*Lian Dao Qiang*): The hooked spear is nothing more than a longspear, with the addition of a small, backward facing hook at the base of the spearhead, used for making trip attacks. If the wielder is tripped during a trip attempt with a hooked spear, she can drop it to avoid being tripped herself.
+(_Lian Dao Qiang_): The hooked spear is nothing more than a longspear, with the addition of a small, backward facing hook at the base of the spearhead, used for making trip attacks. If the wielder is tripped during a trip attempt with a hooked spear, she can drop it to avoid being tripped herself.

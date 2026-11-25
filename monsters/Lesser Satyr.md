@@ -38,27 +38,27 @@ tags: [rangoric, rangoric/monster]
 
 # Lesser Satyr
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
-  - **Hit Dice**: 4d6 (16 hp)
-  - **Initiative**: +1
-  - **Speed**: 50 ft. (10 squares)
-  - **Armor Class**: 14 (+1 Dex, +3 natural), touch 11, flat-footed 13
-  - **Base Attack**: +2; **CMB**: +1; **CMD**: 12
-  - **Attack**: Hoof +3 melee (1d4)
-  - **Full Attack**: 2 hooves +3 melee (1d4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]]
-  - **Special Qualities**: Jump, [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +1, Ref +6, Will +6
-  - **Abilities**: Str 9, Dex 13, Con 10, Int 12, Wis 15, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +8
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]]
-  - **Environment**: Temperate forests and hills
-  - **Organization**: Solitary, band (2–5), troop (6–11), or rade (12–20 plus 1 satyr and 1d10 greater satyrs)
-  - **Challenge Rating**: 2
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: 5–10 HD (Medium)
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
+- **Hit Dice**: 4d6 (16 hp)
+- **Initiative**: +1
+- **Speed**: 50 ft. (10 squares)
+- **Armor Class**: 14 (+1 Dex, +3 natural), touch 11, flat-footed 13
+- **Base Attack**: +2; **CMB**: +1; **CMD**: 12
+- **Attack**: Hoof +3 melee (1d4)
+- **Full Attack**: 2 hooves +3 melee (1d4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]]
+- **Special Qualities**: Jump, [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +1, Ref +6, Will +6
+- **Abilities**: Str 9, Dex 13, Con 10, Int 12, Wis 15, Cha 14
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +8
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]]
+- **Environment**: Temperate forests and hills
+- **Organization**: Solitary, band (2–5), troop (6–11), or rade (12–20 plus 1 satyr and 1d10 greater satyrs)
+- **Challenge Rating**: 2
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: 5–10 HD (Medium)
 
 Lesser satyrs, also called fauns, are a different creature from the [[rangoric-srd/monsters/Faun|faun]]. They are similar to standard [[rangoric-srd/monsters/Satyr|satyrs]] in appearance, but instead of the legs and horns of a goat they are of a deer or stag. While the features of a satyr are described as human-like, those of lesser satyrs are distinctly elf-like, resulting in a slimmer and fairer humanoid torso. Lesser satyrs are not as boisterous as their satyr and [[rangoric-srd/monsters/Greater Satyr|greater satyr]] cousins, but they still enjoy music and good food and drink.
 
@@ -66,7 +66,7 @@ Lesser satyrs, also called fauns, are a different creature from the [[rangoric-s
 
 While the timid lesser satyrs are more apt to simply flee rather than fight, they can use their powerful legs in combat when forced to do so. Even so, their primary purposes in fights tend to be to protect their young and their mates or to stun an opponent and then escape.
 
-**Jump (Ex)**: A lesser satyr jumps and leaps as if it had an 18 Strength and can at will simulate the effects of a *[[rangoric-srd/spells/Jump (Spell)|jump]]* spell.
+**Jump (Ex)**: A lesser satyr jumps and leaps as if it had an 18 Strength and can at will simulate the effects of a _[[rangoric-srd/spells/Jump (Spell)|jump]]_ spell.
 
 **[[rangoric-srd/monsters/abilities/Scent|Scent]] (Ex)**: A lesser satyr can smell approaching attackers within 30 feet.
 

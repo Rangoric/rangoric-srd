@@ -13,11 +13,11 @@ tags: [rangoric, rangoric/feat, epic, wild]
 
 Prerequisites: [[rangoric-srd/skills/Nature|Nature]] 21 ranks, wild shape 6/day.
 
-Benefit: The following magical beasts are added to the lists of animal companions from which you can select.  
+Benefit: The following magical beasts are added to the lists of animal companions from which you can select.
 
-|                           |  |                           |  |                                            |  |                                          |  |                          |  |                    |
-| ------------------------- |  | ------------------------- |  | ------------------------------------------ |  | ---------------------------------------- |  | ------------------------ |  | ------------------ |
-| 1st Level (no adjustment) |  | 4th Level (-3)            |  | 7th Level (-6)                             |  | 10th Level (-9)                          |  | 13th Level (-12)         |  | 16th Level (-15)   |
-| Stirge Darkmantle         |  | Hippogriff Shocker Lizard |  | Cocatrice Ankheg Griffon Owlbear Sea cat\* |  | Basilisk Digerster Girallon Spider eater |  | Bulette Chimera Remorhaz |  | Gorgon Gray render |
+| | | | | | | | | | | |
+| ------------------------- | | ------------------------- | | ------------------------------------------ | | ---------------------------------------- | | ------------------------ | | ------------------ |
+| 1st Level (no adjustment) | | 4th Level (-3) | | 7th Level (-6) | | 10th Level (-9) | | 13th Level (-12) | | 16th Level (-15) |
+| Stirge Darkmantle | | Hippogriff Shocker Lizard | | Cocatrice Ankheg Griffon Owlbear Sea cat\* | | Basilisk Digerster Girallon Spider eater | | Bulette Chimera Remorhaz | | Gorgon Gray render |
 
 Special: Creatures marked with an asterisk are available only in an aquatic environment.

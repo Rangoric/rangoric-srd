@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Spiked Tail
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “spiked tail”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “spiked tail”, on the Special Attacks line.
 
 The creature's tail spikes allow the creature's tail slap to deal both bludgeoning and piercing damage. The creature's tail slap is a primary attack. The [[rangoric-srd/monsters/Hodag|hodag]] has it.

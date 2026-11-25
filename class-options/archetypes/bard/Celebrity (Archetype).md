@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Celebrity
 
-*A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Known for being known, a celebrity bard is a master of performance who captures the imagination and attention of his audience. He trades on his charisma, his wit, and his exploits to build his renown—and that of his companions.
 

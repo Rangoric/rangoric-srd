@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 Prerequisites: Wis 25, [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/skills/Nature|Nature]] 27 ranks, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] 27 ranks.
 
-Benefit: The character can track creatures across water, under-water, or through the air. This adds the surfaces of water, underwater, and air to the list of surfaces found under the Track feat:  
+Benefit: The character can track creatures across water, under-water, or through the air. This adds the surfaces of water, underwater, and air to the list of surfaces found under the Track feat:
 
 | Surface    | DC  |
 | ---------- | --- |

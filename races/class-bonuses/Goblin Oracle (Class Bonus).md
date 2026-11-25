@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Goblin Oracle
 
-*A [[rangoric-srd/races/Goblin|goblin]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Oracle#^oracle-class-bonuses|oracle]] level.*
+_A [[rangoric-srd/races/Goblin|goblin]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Oracle#^oracle-class-bonuses|oracle]] level._
 
 Add +1 on [[rangoric-srd/rules/Concentration (Check)|concentration checks]] made when casting spells with the fire descriptor.

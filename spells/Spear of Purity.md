@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Spear of Purity
 
-*Evocation \[Good\]*
+_Evocation \[Good\]_
 
-  - **Level**: Clr 2
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: Spear-shaped projectile of good energy
-  - **Duration**: Instantaneous (1 round)
-  - **Saving Throw**: Will partial (see text)
-  - **Spell Resistance**: Yes
+- **Level**: Clr 2
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: Spear-shaped projectile of good energy
+- **Duration**: Instantaneous (1 round)
+- **Saving Throw**: Will partial (see text)
+- **Spell Resistance**: Yes
 
 You hurl a pure white or golden spear of light from your holy symbol, affecting any one target within range as a ranged touch attack.
 

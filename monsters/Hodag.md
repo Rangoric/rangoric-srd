@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Hodag
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 8d10+16 (60 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares), burrow 15 ft.
-  - **Armor Class**: 19 (+2 Dex, +8 natural, –1 size), touch 11, flat-footed 17
-  - **Base Attack**: +8; **CMB**: +13; **CMD**: 25 (29 vs. trip)
-  - **Attack**: Bite +11 melee (1d8+4) or claw +11 melee (1d6+4) or tail slap +16 melee (1d4+4)
-  - **Full Attack**: Bite +11 melee (1d8+4) and 2 claws +11 melee (1d6+4) and tail slap +11 melee (1d4+4)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spiked Tail|Spiked tail]], [[rangoric-srd/monsters/abilities/Toss|toss]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Trackless|trackless]]
-  - **Saves**: Fort +8, Ref +8, Will +5
-  - **Abilities**: Str 19, Dex 14, Con 15, Int 7, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +2
-  - **Feats**: [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-  - **Environment**: Temperate forests or marshes
-  - **Organization**: Solitary
-  - **Challenge Rating**: 6
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 8d10+16 (60 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares), burrow 15 ft.
+- **Armor Class**: 19 (+2 Dex, +8 natural, –1 size), touch 11, flat-footed 17
+- **Base Attack**: +8; **CMB**: +13; **CMD**: 25 (29 vs. trip)
+- **Attack**: Bite +11 melee (1d8+4) or claw +11 melee (1d6+4) or tail slap +16 melee (1d4+4)
+- **Full Attack**: Bite +11 melee (1d8+4) and 2 claws +11 melee (1d6+4) and tail slap +11 melee (1d4+4)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spiked Tail|Spiked tail]], [[rangoric-srd/monsters/abilities/Toss|toss]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Trackless|trackless]]
+- **Saves**: Fort +8, Ref +8, Will +5
+- **Abilities**: Str 19, Dex 14, Con 15, Int 7, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +2
+- **Feats**: [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+- **Environment**: Temperate forests or marshes
+- **Organization**: Solitary
+- **Challenge Rating**: 6
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 As stout as a bull with a reptile's scaly, spiked body, hodags are legendary forest predators that hunt along the edges of civilization in thick woods. Green, gray, and black scales cover the beasts, helping them blend in amid underbrush, and sharp spikes stand along their backs and run down their powerful, dangerous tails. Loggers share stories of being followed by hodags and seeing their glowing red eyes in the otherwise oppressive darkness of the deep forest. In the wintertime, when snow and ice blankets the region, hodags grow a foul-smelling coat of greasy, dark brown fur that sprouts in tufts from between their scales.
 

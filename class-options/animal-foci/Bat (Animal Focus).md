@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Bat
 
-*An [[rangoric-srd/classes/Hunter#^hunter-animal-focus|animal focus]] (Su).*
+_An [[rangoric-srd/classes/Hunter#^hunter-animal-focus|animal focus]] (Su)._
 
 The creature gains [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] to a range of 60 feet. At 8th level, the range increases by 30 feet. At 15th level, the creature also gains [[rangoric-srd/rules/Special Abilities and Conditions#^blindsense|blindsense]] to a range of 10 feet.

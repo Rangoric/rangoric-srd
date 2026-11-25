@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Constable
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 9d6+18 (49 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 14 (+4 armor), touch 10, flat-footed 14
-  - **Base Attack**: +4; **CMB**: +6; **CMD**: 16
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Spear|spear]] +8 melee (1d8+4/×3) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Sap|sap]] +7 melee (1d6+2 nonlethal) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +5 ranged (1d8/19–20)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Spear|spear]] +8 melee (1d8+4/×3); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Sap|sap]] +7 melee (1d6+2 nonlethal); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +5 ranged (1d8/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort +5, Ref +4, Will +6
-  - **Abilities**: Str 14, Dex 11, Con 13, Int 10, Wis 10, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +3, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Society|Society]] +6
-  - **Feats**: [[rangoric-srd/feats/Armor Proficiency (Light)|Armor Proficiency (Light)]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (sap), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spear)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 7
-  - **Treasure**: NPC gear (combat gear: potion of bull's strength, potions of cure light wounds (2), tanglefoot bags (4); other gear: masterwork chain shirt, +1 spear, masterwork light crossbow with 10 bolts, masterwork sap, cloak of resistance +1, everburning torch, sunrods (5), bit and bridle, heavy horse (combat trained), military saddle, 2,568 gp)
-  - **Alignment**: Neutral evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 9d6+18 (49 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 14 (+4 armor), touch 10, flat-footed 14
+- **Base Attack**: +4; **CMB**: +6; **CMD**: 16
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Spear|spear]] +8 melee (1d8+4/×3) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Sap|sap]] +7 melee (1d6+2 nonlethal) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +5 ranged (1d8/19–20)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Spear|spear]] +8 melee (1d8+4/×3); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Sap|sap]] +7 melee (1d6+2 nonlethal); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +5 ranged (1d8/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort +5, Ref +4, Will +6
+- **Abilities**: Str 14, Dex 11, Con 13, Int 10, Wis 10, Cha 9
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +3, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Society|Society]] +6
+- **Feats**: [[rangoric-srd/feats/Armor Proficiency (Light)|Armor Proficiency (Light)]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (sap), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spear)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 7
+- **Treasure**: NPC gear (combat gear: potion of bull's strength, potions of cure light wounds (2), tanglefoot bags (4); other gear: masterwork chain shirt, +1 spear, masterwork light crossbow with 10 bolts, masterwork sap, cloak of resistance +1, everburning torch, sunrods (5), bit and bridle, heavy horse (combat trained), military saddle, 2,568 gp)
+- **Alignment**: Neutral evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A constable is a [[rangoric-srd/monsters/human/Human|human]] with 9 levels of [[rangoric-srd/classes/Commoner|commoner]]. A gruff, no-nonsense sort, a constable prefers a stern warning to violence, but doesn't hesitate to crack a belligerent nuisance over the head.
 

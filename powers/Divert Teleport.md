@@ -34,7 +34,7 @@ Effect: Diverts the teleportation of any object or creature whose weight does no
 Duration: 10 min./level (D)  
 Saving Throw: Will negates (foils diversion)  
 Power Resistance: Yes (foils diversion)  
-Power Points: 13  
+Power Points: 13
 
 Similar to detect teleportation, except that you know the intended destination, and you can divert the final destination of any teleportation attempt made by others within the area. This is an immediate action. You can manifest this power even if it is not your turn.
 

@@ -38,23 +38,23 @@ tags: [rangoric, rangoric/monster]
 
 # Shark, Medium
 
-  - Medium Animal (Aquatic)
-  - **Hit Dice**: 3d8+3 (16 hp)
-  - **Initiative**: +2
-  - **Speed**: Swim 60 ft. (12 squares)
-  - **Armor Class**: 15 (+2 Dex, +3 natural), touch 12, flat-footed 13
-  - **Base Attack**: +2; **CMB**: +3; **CMD**: 15 (can't be tripped)
-  - **Attack**: Bite +4 melee (1d6+1)
-  - **Full Attack**: Bite +4 melee (1d6+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: Blindsense, keen scent
-  - **Saves**: Fort +4, Ref +5, Will +2
-  - **Abilities**: Str 13, Dex 15, Con 13, Int 1, Wis 12, Cha 2
-  - **Skills**: Athletics +1 (+9 swimming), Perception +10
-  - **Feats**: Skill Focus (Perception), Weapon Finesse
-  - **Environment**: Cold aquatic
-  - **Organization**: Solitary, school (2–5), or pack (6–11)
-  - **Challenge Rating**: 1
-  - **Advancement**: 4–6 HD (Medium)
-  - **Level Adjustment**: —
+- Medium Animal (Aquatic)
+- **Hit Dice**: 3d8+3 (16 hp)
+- **Initiative**: +2
+- **Speed**: Swim 60 ft. (12 squares)
+- **Armor Class**: 15 (+2 Dex, +3 natural), touch 12, flat-footed 13
+- **Base Attack**: +2; **CMB**: +3; **CMD**: 15 (can't be tripped)
+- **Attack**: Bite +4 melee (1d6+1)
+- **Full Attack**: Bite +4 melee (1d6+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: Blindsense, keen scent
+- **Saves**: Fort +4, Ref +5, Will +2
+- **Abilities**: Str 13, Dex 15, Con 13, Int 1, Wis 12, Cha 2
+- **Skills**: Athletics +1 (+9 swimming), Perception +10
+- **Feats**: Skill Focus (Perception), Weapon Finesse
+- **Environment**: Cold aquatic
+- **Organization**: Solitary, school (2–5), or pack (6–11)
+- **Challenge Rating**: 1
+- **Advancement**: 4–6 HD (Medium)
+- **Level Adjustment**: —

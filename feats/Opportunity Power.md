@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, metapsionic]
 
 # Opportunity Power
 
-You can make power-enhanced attacks of opportunity.  
+You can make power-enhanced attacks of opportunity.
 
 Benefit: To use this feat, you must expend your psionic focus. When you make an attack of opportunity, you can use any power you know with a range of touch, if you have at least one hand free.
 

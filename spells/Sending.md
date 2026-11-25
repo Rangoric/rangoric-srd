@@ -35,19 +35,19 @@ tags: [rangoric, rangoric/spell]
 
 # Sending
 
-*Evocation*
+_Evocation_
 
-  - **Level**: Alc 5, Clr 4, Inq 4, Med 3, Mes 3, Occ 4, Psy 4, Sha 4, Sor/Wiz 5, Spi 5, Sum 4, SumU 5
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 10 minutes
-  - **Range**: See text
-  - **Target**: One creature
-  - **Duration**: 1 round; see text
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Alc 5, Clr 4, Inq 4, Med 3, Mes 3, Occ 4, Psy 4, Sha 4, Sor/Wiz 5, Spi 5, Sum 4, SumU 5
+- **Components**: V, S, M/DF
+- **Casting Time**: 10 minutes
+- **Range**: See text
+- **Target**: One creature
+- **Duration**: 1 round; see text
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You contact a particular creature with which you are familiar and send a short message of twenty-five words or less to the subject. The subject recognizes you if it knows you. It can answer in like manner immediately. A creature with an Intelligence score as low as 1 can understand the sending, though the subject’s ability to react is limited as normal by its Intelligence score. Even if the sending is received, the subject is not obligated to act upon it in any manner.
 
 If the creature in question is not on the same plane of existence as you are, there is a 5% chance that the sending does not arrive. (Local conditions on other planes may worsen this chance considerably.)
 
-*Arcane Material Component*: A short piece of fine copper wire.
+_Arcane Material Component_: A short piece of fine copper wire.

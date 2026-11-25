@@ -19,7 +19,7 @@ Some varieties of these seagoing mammals are among the largest animals known. Re
 
 **Skills**: Like any creature with a [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^movement-modes|swim speed]], a whale is better at swimming. \*A whale has a +4 racial bonus on Perception checks. This bonus is lost if its blindsight is negated.
 
-  - [[rangoric-srd/monsters/whale/Baleen Whale|Baleen Whale]]
-  - [[rangoric-srd/monsters/whale/Cachalot Whale|Cachalot Whale]]
-  - [[rangoric-srd/monsters/whale/Great White Whale|Great White Whale]]
-  - [[rangoric-srd/monsters/whale/Orca|Orca]]
+- [[rangoric-srd/monsters/whale/Baleen Whale|Baleen Whale]]
+- [[rangoric-srd/monsters/whale/Cachalot Whale|Cachalot Whale]]
+- [[rangoric-srd/monsters/whale/Great White Whale|Great White Whale]]
+- [[rangoric-srd/monsters/whale/Orca|Orca]]

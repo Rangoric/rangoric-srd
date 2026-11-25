@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, metapsionic]
 
 # Empower Power
 
-You can manifest powers to greater effect.  
+You can manifest powers to greater effect.
 
 Benefit: To use this feat, you must expend your psionic focus.
 

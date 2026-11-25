@@ -25,4 +25,4 @@ Ruined scraps of various constructs were repurposed and combined to form this or
 
 Time spent under the cap's influence counts against the duration of the daze or stun effect. The cap functions for up to 5 rounds per day. These rounds do not need to be consecutive. The cap stops asserting control over its wearer when the duration of the daze or stun effect ends, or when the cap's 5 rounds of duration are expended.
 
-Moderate abjuration; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Surmount Affliction|surmount affliction]]*; Price 33,600 gp; Cost 16,800 gp; Weight 3 lbs.
+Moderate abjuration; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Surmount Affliction|surmount affliction]]_; Price 33,600 gp; Cost 16,800 gp; Weight 3 lbs.

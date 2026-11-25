@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Mantis Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the mantis imparts uncanny patience and unsettling speed.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the mantis imparts uncanny patience and unsettling speed._
 
 **Minor Form**: You gain [[rangoric-srd/feats/Lunge|Lunge]] as a bonus feat.
 

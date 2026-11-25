@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Wildcat
 
-*A [[rangoric-srd/classes/Monk#^monk-archetypes|monk]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Monk#^monk-archetypes|monk]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A wildcat is a student of the school of hard knocks who dedicates himself to learning how to take down foes by any means necessary. A wildcat isn’t afraid to smash a tankard over a foe’s head, stomp an opponent’s foot, gouge an eye, or generally create mayhem to gain any possible advantage.
 

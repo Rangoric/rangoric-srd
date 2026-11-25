@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Do-Maru
 
-*Medium armor.* Cost 200 gp; Armor Bonus +5; Maximum Dex Bonus +4; Armor Check Penalty –4; Arcane Spell Failure 25%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 30 lb. ^stats
+_Medium armor._ Cost 200 gp; Armor Bonus +5; Maximum Dex Bonus +4; Armor Check Penalty –4; Arcane Spell Failure 25%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 30 lb. ^stats
 
 The lightest of all samurai armors, do-maru wraps around your body like a short armored coat. It consists primarily of lamellar and lacks a solid breastplate or sleeves. This permits you greater flexibility than do heavier armors.

@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Dancing Dervish
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 10d8+20 (68 hp)
-  - **Initiative**: +8
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 20 (+4 armor, +1 deflection, +4 Dex, +1 dodge), touch 16, flat-footed 15
-  - **Base Attack**: +7; **CMB**: +9; **CMD**: 25
-  - **Attack**: +1 keen rapier +13 melee (1d6+5/15–20) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +11 ranged (1d8/19–20)
-  - **Full Attack**: +1 keen rapier +13/+8 melee (1d6+5/15–20); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +11 ranged (1d8/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +5d6, [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
-  - **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-evasion|Evasion]], [[rangoric-srd/classes/Rogue#^rogue-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +3, [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Combat Trick (Rogue Talent)|combat trick]], combat trick (2), [[rangoric-srd/class-options/rogue-talents/Opportunist (Rogue Talent)|opportunist]], [[rangoric-srd/class-options/rogue-talents/Surprise Attack (Rogue Talent)|surprise attack]], [[rangoric-srd/class-options/rogue-talents/Weapon Training (Rogue Talent)|weapon training]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +5, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (rapier), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Engineering|Engineering]], [[rangoric-srd/skills/Acrobatics|Acrobatics]])
-  - **Saves**: Fort +4, Ref +13, Will +4
-  - **Abilities**: Str 14, Dex 19, Con 12, Int 13, Wis 8, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Engineering|Engineering]] +19, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +12, Perform (dance) +13, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +17
-  - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (rapier), [[rangoric-srd/feats/Whirlwind Attack|Whirlwind Attack]]
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 9
-  - **Treasure**: NPC gear (combat gear: potion of blur, potion of cat's grace, alchemist's fire (2); other gear: +1 studded leather, +1 keen rapier, light crossbow with 20 bolts, ring of protection +1, masterwork thieves' tools, 480 gp)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 10d8+20 (68 hp)
+- **Initiative**: +8
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 20 (+4 armor, +1 deflection, +4 Dex, +1 dodge), touch 16, flat-footed 15
+- **Base Attack**: +7; **CMB**: +9; **CMD**: 25
+- **Attack**: +1 keen rapier +13 melee (1d6+5/15–20) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +11 ranged (1d8/19–20)
+- **Full Attack**: +1 keen rapier +13/+8 melee (1d6+5/15–20); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +11 ranged (1d8/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +5d6, [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
+- **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-evasion|Evasion]], [[rangoric-srd/classes/Rogue#^rogue-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +3, [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Combat Trick (Rogue Talent)|combat trick]], combat trick (2), [[rangoric-srd/class-options/rogue-talents/Opportunist (Rogue Talent)|opportunist]], [[rangoric-srd/class-options/rogue-talents/Surprise Attack (Rogue Talent)|surprise attack]], [[rangoric-srd/class-options/rogue-talents/Weapon Training (Rogue Talent)|weapon training]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +5, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (rapier), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Engineering|Engineering]], [[rangoric-srd/skills/Acrobatics|Acrobatics]])
+- **Saves**: Fort +4, Ref +13, Will +4
+- **Abilities**: Str 14, Dex 19, Con 12, Int 13, Wis 8, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Engineering|Engineering]] +19, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +12, Perform (dance) +13, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +17
+- **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (rapier), [[rangoric-srd/feats/Whirlwind Attack|Whirlwind Attack]]
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 9
+- **Treasure**: NPC gear (combat gear: potion of blur, potion of cat's grace, alchemist's fire (2); other gear: +1 studded leather, +1 keen rapier, light crossbow with 20 bolts, ring of protection +1, masterwork thieves' tools, 480 gp)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A dancing dervish is a [[rangoric-srd/monsters/human/Human|human]] with 10 levels of [[rangoric-srd/classes/Rogue|rogue]]. The dancing dervish spins as a way to focus himself on achieving harmony with the gods.
 

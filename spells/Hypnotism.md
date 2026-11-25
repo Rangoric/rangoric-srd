@@ -32,16 +32,16 @@ tags: [rangoric, rangoric/spell]
 
 # Hypnotism
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Brd 1, Mes 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1, Wit 1
-  - **Components**: V, S
-  - **Casting Time**: 1 round
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Area**: Several living creatures, no two of which may be more than 30 ft. apart
-  - **Duration**: 2d4 rounds (D)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 1, Mes 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1, Wit 1
+- **Components**: V, S
+- **Casting Time**: 1 round
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Area**: Several living creatures, no two of which may be more than 30 ft. apart
+- **Duration**: 2d4 rounds (D)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 Your gestures and droning incantation fascinate nearby creatures, causing them to stop and stare blankly at you. In addition, you can use their rapt attention to make your suggestions and requests seem more plausible. Roll 2d4 to see how many total Hit Dice of creatures you affect. Creatures with fewer HD are affected before creatures with more HD. Only creatures that can see or hear you are affected, but they do not need to understand you to be [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinated]].
 

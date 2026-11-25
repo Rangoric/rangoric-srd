@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Fierce Fortitude
 
-*A [[rangoric-srd/class-options/rage-powers/Rage Powers|rage power]] (Ex) of the [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|barbarian]] and the [[rangoric-srd/classes/Skald#^skald-rage-powers|skald]].*
+_A [[rangoric-srd/class-options/rage-powers/Rage Powers|rage power]] (Ex) of the [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|barbarian]] and the [[rangoric-srd/classes/Skald#^skald-rage-powers|skald]]._
 
 The character gains a +4 bonus on saving throws against [[rangoric-srd/rules/Afflictions#Disease|diseases]] and [[rangoric-srd/rules/Afflictions#Poison|poison]].
 

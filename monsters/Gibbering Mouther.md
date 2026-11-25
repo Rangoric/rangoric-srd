@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Gibbering Mouther
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 4d8+28 (46 hp)
-  - **Initiative**: +3
-  - **Speed**: 10 ft. (2 squares), swim 20 ft.
-  - **Armor Class**: 19 (+3 Dex, +6 natural), touch 13, flat-footed 16
-  - **Base Attack**: +3; **CMB**: +3 (+7 grapple); **CMD**: 16 (can't be tripped)
-  - **Attack**: Bite +7 melee (1d4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: 6 bites +7 melee (1d4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]], [[rangoric-srd/monsters/abilities/Engulf|engulf]] (6d4 damage plus 2 Con damage, AC 13, hp 4), gibbering, ground manipulation, spittle (+6 ranged touch)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to critical hits and precision damage
-  - **Saves**: Fort +8, Ref +4, Will +5
-  - **Abilities**: Str 10, Dex 17, Con 24, Int 4, Wis 13, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Investigation|Investigation]] +1, [[rangoric-srd/skills/Perception|Perception]] +12
-  - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
-  - **Environment**: Any underground
-  - **Organization**: Solitary
-  - **Challenge Rating**: 5
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: 5–12 HD (Large)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 4d8+28 (46 hp)
+- **Initiative**: +3
+- **Speed**: 10 ft. (2 squares), swim 20 ft.
+- **Armor Class**: 19 (+3 Dex, +6 natural), touch 13, flat-footed 16
+- **Base Attack**: +3; **CMB**: +3 (+7 grapple); **CMD**: 16 (can't be tripped)
+- **Attack**: Bite +7 melee (1d4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: 6 bites +7 melee (1d4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]], [[rangoric-srd/monsters/abilities/Engulf|engulf]] (6d4 damage plus 2 Con damage, AC 13, hp 4), gibbering, ground manipulation, spittle (+6 ranged touch)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to critical hits and precision damage
+- **Saves**: Fort +8, Ref +4, Will +5
+- **Abilities**: Str 10, Dex 17, Con 24, Int 4, Wis 13, Cha 12
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Investigation|Investigation]] +1, [[rangoric-srd/skills/Perception|Perception]] +12
+- **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
+- **Environment**: Any underground
+- **Organization**: Solitary
+- **Challenge Rating**: 5
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: 5–12 HD (Large)
+- **Level Adjustment**: —
 
 Disgusting, loathsome, and hungry—these are the only words that properly describe the gibbering mouther. A foul beast that lurks in underground caves, sewers, and nightmares, mouthers have no societal, ecological or religious significance other than their ability to drive those that listen to them mad. Some scholars believe that gibbering mouthers are a lesser variant of the much more dangerous [[rangoric-srd/monsters/mythos/Shoggoth|shoggoth]], while others theorize they are a punishment by some powerful being or deity inflicted on those who have offended it.
 

@@ -29,14 +29,14 @@ tags: [rangoric, rangoric/spell]
 
 # Insect Spies, Greater
 
-*Divination*
+_Divination_
 
-  - **Level**: Drd 6, Hun 6, Sor/Wiz 7, Sum 6, SumU 6, Wit 7
-  - **Components**: V, S, M (a drop of honey)
-  - **Casting Time**: 1 round
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: Up to one insect spy/4 levels
-  - **Duration**: 10 \* caster level minute(s)
-  - **Spell Resistance**: No
+- **Level**: Drd 6, Hun 6, Sor/Wiz 7, Sum 6, SumU 6, Wit 7
+- **Components**: V, S, M (a drop of honey)
+- **Casting Time**: 1 round
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: Up to one insect spy/4 levels
+- **Duration**: 10 \* caster level minute(s)
+- **Spell Resistance**: No
 
 As [[rangoric-srd/spells/Insect Spies|Insect Spies]], but you can also borrow the senses of the summoned insects. As a move action, you can choose to receive sensory input from one of the insects, seeing what it sees and hearing what it hears. While doing so, you are treated as being blind and deaf. You can change to another insect, or return to your own senses, with another move action.

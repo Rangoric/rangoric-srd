@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Adaptive
 
-This ability can only be placed on composite bows. An *adaptive* bow responds to the strength of its wielder, acting as a bow with a strength rating equal to its wielder's Strength bonus. The wielder can fire it with a lesser Strength bonus (and cause less damage) if desired.
+This ability can only be placed on composite bows. An _adaptive_ bow responds to the strength of its wielder, acting as a bow with a strength rating equal to its wielder's Strength bonus. The wielder can fire it with a lesser Strength bonus (and cause less damage) if desired.
 
-Faint transmutation; CL 1st; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Warp Wood|warp wood]]*; Price +1,000 gp.
+Faint transmutation; CL 1st; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Warp Wood|warp wood]]_; Price +1,000 gp.

@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Antiseptic Ointment
 
-*Unguent; Special*
+_Unguent; Special_
 
 Whether applied in advance of an attack or after a wound is inflicted, antiseptic ointment counteracts the effects of any Contact or Injury poisons. It provides a +6 circumstance bonus to Fort saves vs. the aforementioned poisons and toxins for 2d6 hours, though it fully neutralizes poisons in the system if applied after the poison is delivered (and usually cancels secondary or lingering effects).
 

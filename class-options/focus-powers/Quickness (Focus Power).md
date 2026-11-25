@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Quickness
 
-*A focus power of [[rangoric-srd/class-options/implement-schools/Transmutation Implements|transmutation implements]], for the [[rangoric-srd/classes/Occultist|occultist]] (Sp).*
+_A focus power of [[rangoric-srd/class-options/implement-schools/Transmutation Implements|transmutation implements]], for the [[rangoric-srd/classes/Occultist|occultist]] (Sp)._
 
-As a standard action, you can expend 1 point of mental focus to grant supernatural quickness and reflexes to yourself or a willing living creature you touch. This functions as *[[rangoric-srd/spells/Haste|haste]]*, but the bonus to AC and on Reflex saving throws increases to +2. This effect lasts for 1 round per occultist level you possess. You must be at least 5th level to select this focus power.
+As a standard action, you can expend 1 point of mental focus to grant supernatural quickness and reflexes to yourself or a willing living creature you touch. This functions as _[[rangoric-srd/spells/Haste|haste]]_, but the bonus to AC and on Reflex saving throws increases to +2. This effect lasts for 1 round per occultist level you possess. You must be at least 5th level to select this focus power.

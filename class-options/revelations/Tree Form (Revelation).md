@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Tree Form
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Sp) of the [[rangoric-srd/class-options/mysteries/Wood Mystery|wood]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Sp) of the [[rangoric-srd/class-options/mysteries/Wood Mystery|wood]] mystery._
 
-As a standard action, you can assume the form of a Large living or dead tree or shrub, as *[[rangoric-srd/spells/Tree Shape|tree shape]]*. At 9th level, you can assume the form of a Small or Medium plant creature, as *[[rangoric-srd/spells/Plant Shape I|plant shape I]]*. At 11th level, you can assume the form of a Large plant creature, as *[[rangoric-srd/spells/Plant Shape II|plant shape II]]*. At 13th level, you can assume the form of a Huge plant creature, as *[[rangoric-srd/spells/Plant Shape III|plant shape III]]*. You can use this ability once per day, but the duration is 1 hour/level. You must be at least 3rd level to select this revelation.
+As a standard action, you can assume the form of a Large living or dead tree or shrub, as _[[rangoric-srd/spells/Tree Shape|tree shape]]_. At 9th level, you can assume the form of a Small or Medium plant creature, as _[[rangoric-srd/spells/Plant Shape I|plant shape I]]_. At 11th level, you can assume the form of a Large plant creature, as _[[rangoric-srd/spells/Plant Shape II|plant shape II]]_. At 13th level, you can assume the form of a Huge plant creature, as _[[rangoric-srd/spells/Plant Shape III|plant shape III]]_. You can use this ability once per day, but the duration is 1 hour/level. You must be at least 3rd level to select this revelation.

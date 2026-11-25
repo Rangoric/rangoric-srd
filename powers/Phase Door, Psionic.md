@@ -31,6 +31,6 @@ Psychoportation
 **Duration:** One usage per two levels  
 **Saving Throw:** None  
 **Power Resistance:** No  
-**Power Points:** 13  
+**Power Points:** 13
 
 As the [[rangoric-srd/spells/Phase Door|phase door]] spell, except as noted here. This power is subject to [[rangoric-srd/powers/Dispel Psionics|dispel psionics]].

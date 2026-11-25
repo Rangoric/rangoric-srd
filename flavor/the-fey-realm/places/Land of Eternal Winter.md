@@ -24,12 +24,12 @@ It is the 752<sup>nd</sup> year since the Great Calving of the Blue Glacier as r
 
 **Seasons:** The near-arctic weather of the glacial steppe called the Land of Eternal Winter is practically devoid of seasonal changes. The summers are perhaps not as deadly cold as the depths of winter, but late spring does still see the sprouting of small shrubs and the blooms of mosses and lichens common to the region.
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* Old Man Winter is antisocial, and in an effort to be left alone, he has summoned countless cold tolerant creatures from many worlds to roam the icy wilds.
+_Common:_ Old Man Winter is antisocial, and in an effort to be left alone, he has summoned countless cold tolerant creatures from many worlds to roam the icy wilds.
 
-*Uncommon:* A clutch of white dragons has claimed the eastern slopes of the mountains as their home territory. Stories persist of an arrangement made between these dragons and the Palace of Ice, though what either side provides the other is unknown.
+_Uncommon:_ A clutch of white dragons has claimed the eastern slopes of the mountains as their home territory. Stories persist of an arrangement made between these dragons and the Palace of Ice, though what either side provides the other is unknown.
 
-*Rare:* Ice taken from the Blue Glacier melts slower than normal ice and can be sculpted into numerous forms for enchantment.
+_Rare:_ Ice taken from the Blue Glacier melts slower than normal ice and can be sculpted into numerous forms for enchantment.
 
-*Obscure:* Old Man Winter spends his time in the Palace of Ice crafting magic items, so a huge cache of equipment must exist somewhere within its walls.
+_Obscure:_ Old Man Winter spends his time in the Palace of Ice crafting magic items, so a huge cache of equipment must exist somewhere within its walls.

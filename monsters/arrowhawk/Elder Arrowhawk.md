@@ -41,25 +41,25 @@ tags: [rangoric, rangoric/monster]
 
 # Elder Arrowhawk
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^air|Air]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]])
-  - **Hit Dice**: 15d8+45 (112 hp)
-  - **Initiative**: +5
-  - **Speed**: Fly 60 ft. (perfect) (12 squares)
-  - **Armor Class**: 22 (–1 size, +5 Dex, +8 natural), touch 14, flat-footed 17
-  - **Base Attack**: +15; **CMB**: +22; **CMD**: 38 (can't be tripped)
-  - **Attack**: Electricity ray +19 ranged touch (2d8) or bite +21 melee (2d6+9)
-  - **Full Attack**: Electricity ray +19 ranged touch (2d8) or bite +20 melee (2d6+9)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: Electricity [[rangoric-srd/monsters/abilities/Ray|ray]]
-  - **Special Qualities**: Darkvision 60 ft., immunity to acid, electricity, and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance to cold]] 10 and fire 10
-  - **Saves**: Fort +12, Ref +14, Will +10
-  - **Abilities**: Str 22, Dex 21, Con 16, Int 10, Wis 13, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Escape Artist|Escape Artist]] +23, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +19 (+21 following tracks, +21 Plane of Air, +21 involving bindings), [[rangoric-srd/skills/Investigation|Investigation]] +18, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Persuasion|Persuasion]] +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +19, [[rangoric-srd/skills/Theology|Theology]] +18
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite) (B)
-  - **Environment**: Elemental Plane of Air
-  - **Organization**: Solitary or clutch (2–4)
-  - **Challenge Rating**: 8
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 16–24 HD (Large); 25–32 HD (Gargantuan)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^air|Air]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]])
+- **Hit Dice**: 15d8+45 (112 hp)
+- **Initiative**: +5
+- **Speed**: Fly 60 ft. (perfect) (12 squares)
+- **Armor Class**: 22 (–1 size, +5 Dex, +8 natural), touch 14, flat-footed 17
+- **Base Attack**: +15; **CMB**: +22; **CMD**: 38 (can't be tripped)
+- **Attack**: Electricity ray +19 ranged touch (2d8) or bite +21 melee (2d6+9)
+- **Full Attack**: Electricity ray +19 ranged touch (2d8) or bite +20 melee (2d6+9)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: Electricity [[rangoric-srd/monsters/abilities/Ray|ray]]
+- **Special Qualities**: Darkvision 60 ft., immunity to acid, electricity, and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance to cold]] 10 and fire 10
+- **Saves**: Fort +12, Ref +14, Will +10
+- **Abilities**: Str 22, Dex 21, Con 16, Int 10, Wis 13, Cha 13
+- **Skills**: [[rangoric-srd/skills/Escape Artist|Escape Artist]] +23, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +19 (+21 following tracks, +21 Plane of Air, +21 involving bindings), [[rangoric-srd/skills/Investigation|Investigation]] +18, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Persuasion|Persuasion]] +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +19, [[rangoric-srd/skills/Theology|Theology]] +18
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite) (B)
+- **Environment**: Elemental Plane of Air
+- **Organization**: Solitary or clutch (2–4)
+- **Challenge Rating**: 8
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 16–24 HD (Large); 25–32 HD (Gargantuan)
+- **Level Adjustment**: —

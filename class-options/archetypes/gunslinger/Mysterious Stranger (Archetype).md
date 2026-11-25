@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Mysterious Stranger
 
-*A [[rangoric-srd/classes/Gunslinger#^gunslinger-archetypes|gunslinger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Gunslinger#^gunslinger-archetypes|gunslinger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Gunslingers use a potent mixture of common sense and manual dexterity in order to control the fickle power of their weapons. But a few rare gunslingers seem to accomplish their chosen tasks purely through willpower and an unwillingness to ever give up. These mysterious strangers use their force of personality to keep going when the chips are down, often moving on from a region as soon as they accomplish their goals—hence the name.
 

@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Sylph, 1st-Level Rogue
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native)
-  - **Hit Dice**: 1d8+1 (9 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 16 (+2 armor, +3 Dex, +1 dodge), touch 14, flat-footed 12
-  - **Base Attack**: +0; **CMB**: –1; **CMD**: 13
-  - **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] –1 melee (1d4–1/19–20) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 ranged (1d4–1/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] –1 melee (1d4–1/19–20); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 ranged (1d4–1/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Sneak attack +1d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Air Affinity|air affinity]], trapfinding +1, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 5
-  - **Saves**: Fort +0, Ref +5, Will +2
-  - **Abilities**: Str 8, Dex 17, Con 10, Int 15, Wis 14, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Deception|Deception]] +4, [[rangoric-srd/skills/Emulation|Emulation]] +4, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +4, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +7, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +7
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]]
-  - **Environment**: Any land
-  - **Organization**: Solitary, pair, or gang (3–6)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: NPC gear (leather armor, two daggers, other treasure)
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native)
+- **Hit Dice**: 1d8+1 (9 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 16 (+2 armor, +3 Dex, +1 dodge), touch 14, flat-footed 12
+- **Base Attack**: +0; **CMB**: –1; **CMD**: 13
+- **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] –1 melee (1d4–1/19–20) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 ranged (1d4–1/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] –1 melee (1d4–1/19–20); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 ranged (1d4–1/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Sneak attack +1d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Air Affinity|air affinity]], trapfinding +1, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 5
+- **Saves**: Fort +0, Ref +5, Will +2
+- **Abilities**: Str 8, Dex 17, Con 10, Int 15, Wis 14, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Deception|Deception]] +4, [[rangoric-srd/skills/Emulation|Emulation]] +4, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +4, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +7, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +7
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]]
+- **Environment**: Any land
+- **Organization**: Solitary, pair, or gang (3–6)
+- **Challenge Rating**: 1/2
+- **Treasure**: NPC gear (leather armor, two daggers, other treasure)
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Sylphs are humans whose family trees include elemental beings of air, such as djinn. They tend to be pale and thin to the point of appearing delicate, though their skinny bodies are more resilient than they look. While many can pass unnoticed through crowds of humans, sylphs display their heritage in subtle ways, and those who study them carefully sometimes notice that breezes seem to follow a sylph wherever she goes, even inside rooms with no windows. When consumed by fits of anger or passion, these tendencies become more apparent, as winds surround the sylph and tousle her hair or knock small items from shelves. Many sylphs have complex markings on their pale flesh that resemble tiny swirling designs like blue and gray tattoos, and the most exotic of their kind have hair that twists and coils almost as if it were made of living mist.
 
@@ -73,6 +73,6 @@ Sylphs speak Common and Auran.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st; concentration +1): 1/day—*[[rangoric-srd/spells/Feather Fall|feather fall]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st; concentration +1): 1/day—_[[rangoric-srd/spells/Feather Fall|feather fall]]_.
 
 **[[rangoric-srd/monsters/abilities/Air Affinity|Air Affinity]] (Ex)**: Sylph sorcerers with the elemental (air) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Sylph clerics with the Air domain cast their domain powers and spells at +1 caster level.

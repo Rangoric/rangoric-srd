@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # With the Wind
 
-*Abjuration \[Air\]*
+_Abjuration \[Air\]_
 
-  - **Level**: Blr 2, Drd 2, Hun 2, Mag 2, Occ 2, Rgr 2, Sor/Wiz 2, Spi 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: Caster level minute(s)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Blr 2, Drd 2, Hun 2, Mag 2, Occ 2, Rgr 2, Sor/Wiz 2, Spi 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: Caster level minute(s)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 You create eddies in the air around the subject that protect it from being checked or blown away. The target can't be moved by winds of less than windstorm force unless it wishes to be.

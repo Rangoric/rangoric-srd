@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Phasm
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^shapechanger|Shapechanger]])
-  - **Hit Dice**: 15d8+30 (97 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 17 (+2 Dex, +5 natural), touch 12, flat-footed 15
-  - **Base Attack**: +11; **CMB**: +12; **CMD**: 25
-  - **Attack**: Slam +12 melee (1d3+1)
-  - **Full Attack**: Slam +12 melee (1d3+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Alternate Form|Alternate form]], amorphous, resilient, [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft.
-  - **Saves**: Fort +11, Ref +11, Will +11
-  - **Abilities**: Str 12, Dex 15, Con 15, Int 16, Wis 15, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Craft|Craft]] (any one) +15, [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Imitation|Imitation]] +21 (+23 acting)\*, [[rangoric-srd/skills/Intimidation|Intimidation]] +2, [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +21, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +6
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Feats All|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Underground
-  - **Organization**: Solitary
-  - **Challenge Rating**: 7
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: 15–21 HD (Huge); 22–45 HD (Gargantuan)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^shapechanger|Shapechanger]])
+- **Hit Dice**: 15d8+30 (97 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 17 (+2 Dex, +5 natural), touch 12, flat-footed 15
+- **Base Attack**: +11; **CMB**: +12; **CMD**: 25
+- **Attack**: Slam +12 melee (1d3+1)
+- **Full Attack**: Slam +12 melee (1d3+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Alternate Form|Alternate form]], amorphous, resilient, [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft.
+- **Saves**: Fort +11, Ref +11, Will +11
+- **Abilities**: Str 12, Dex 15, Con 15, Int 16, Wis 15, Cha 14
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Craft|Craft]] (any one) +15, [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Imitation|Imitation]] +21 (+23 acting)\*, [[rangoric-srd/skills/Intimidation|Intimidation]] +2, [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +21, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +6
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Feats All|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Underground
+- **Organization**: Solitary
+- **Challenge Rating**: 7
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: 15–21 HD (Huge); 22–45 HD (Gargantuan)
+- **Level Adjustment**: —
 
 A phasm is an amorphous creature that can assume the guise of almost any other creature or object. A phasm in its natural form is about 5 feet in diameter and 2 feet high at the center. Swirls of color indicate sensory organs. In this form, a phasm slithers about like an ooze and can attack with a pseudopod. It weighs about 400 pounds.
 

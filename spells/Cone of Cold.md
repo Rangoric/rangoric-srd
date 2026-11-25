@@ -31,17 +31,17 @@ tags: [rangoric, rangoric/spell]
 
 # Cone of Cold
 
-*Evocation \[Cold\]*
+_Evocation \[Cold\]_
 
-  - **Level**: Mag 5, Occ 5, Sha 6, Sor/Wiz 5, Water 6, Wit 6
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: 60 ft.
-  - **Area**: Cone-shaped burst
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Reflex half
-  - **Spell Resistance**: Yes
+- **Level**: Mag 5, Occ 5, Sha 6, Sor/Wiz 5, Water 6, Wit 6
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: 60 ft.
+- **Area**: Cone-shaped burst
+- **Duration**: Instantaneous
+- **Saving Throw**: Reflex half
+- **Spell Resistance**: Yes
 
 Cone of cold creates an area of extreme cold, originating at your hand and extending outward in a cone. It drains heat, dealing 1d6 points of cold damage per caster level (maximum 15d6).
 
-*Arcane Material Component*: A very small crystal or glass cone.
+_Arcane Material Component_: A very small crystal or glass cone.

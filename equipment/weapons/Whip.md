@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/flails]
 
 # Whip
 
-*Exotic one-handed melee weapon (reach, nonlethal, disarm, trip).* Cost 1 gp; Dmg 1d2 (S), 1d3 (M); Critical x2; Weight 2 lb.; Type Slashing. ^stats
+_Exotic one-handed melee weapon (reach, nonlethal, disarm, trip)._ Cost 1 gp; Dmg 1d2 (S), 1d3 (M); Critical x2; Weight 2 lb.; Type Slashing. ^stats
 
 A whip deals nonlethal damage. It deals no damage to any creature with an armor bonus of +1 or higher or a natural armor bonus of +3 or higher. The whip is treated as a melee weapon with 15-foot reach, though you don’t threaten the area into which you can make an attack. In addition, unlike most other weapons with reach, you can use it against foes anywhere within your reach (including adjacent foes).
 

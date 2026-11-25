@@ -27,7 +27,7 @@ Clairsentience
 **Range:** Personal  
 **Target:** You  
 **Duration:** Instantaneous  
-**Power Points:** 3  
+**Power Points:** 3
 
 If an enemy provokes an attack of opportunity from you, you can make the attack even if you’ve already taken your allotted number of attacks of opportunity this round (usually one).
 

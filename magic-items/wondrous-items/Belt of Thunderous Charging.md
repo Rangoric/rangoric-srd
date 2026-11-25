@@ -25,4 +25,4 @@ An engraving of a charging rhinoceros decorates this thick leather belt. The bel
 
 The belt magnifies the wearer's momentum whenever she charges, granting her a +2 bonus on [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]] and [[rangoric-srd/combat/Combat Maneuvers#Overrun|overrun]] maneuvers. Furthermore, when the wearer makes a [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]] attack, her melee weapons and natural weapons deal damage as if they were one size category larger than they actually are.
 
-Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*, *[[rangoric-srd/spells/Lead Blades|lead blades]]*; Price 10,000 gp; Cost 5,000 gp; Weight 1 lb.
+Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Lead Blades|lead blades]]_; Price 10,000 gp; Cost 5,000 gp; Weight 1 lb.

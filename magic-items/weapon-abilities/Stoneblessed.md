@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Stoneblessed
 
-If a character is wielding a *stoneblessed* weapon and is in contact with the ground or worked stone, he gains a +1 bonus to attack and damage rolls. This effectively increases the weapon’s enhancement bonus. In addition, *stoneblessed* weapons deal an extra 1d6 points of damage against creatures with the Earth subtype if the wielder is in contact with the ground.
+If a character is wielding a _stoneblessed_ weapon and is in contact with the ground or worked stone, he gains a +1 bonus to attack and damage rolls. This effectively increases the weapon’s enhancement bonus. In addition, _stoneblessed_ weapons deal an extra 1d6 points of damage against creatures with the Earth subtype if the wielder is in contact with the ground.
 
-Moderate enchantment; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Stone Shape|stone shape]]*; Price +1 bonus.
+Moderate enchantment; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Stone Shape|stone shape]]_; Price +1 bonus.

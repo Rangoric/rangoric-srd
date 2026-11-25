@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This weapon special ability can be applied only to brass knuckles, a cestus, a sap, or a light bludgeoning weapon. The wielder of this weapon gains an enhancement bonus on [[rangoric-srd/combat/Combat Maneuvers|combat maneuver]] checks equal to the enhancement bonus of the weapon.
 
-Moderate enchantment; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*; Price +1 bonus.
+Moderate enchantment; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_; Price +1 bonus.

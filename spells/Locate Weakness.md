@@ -32,13 +32,13 @@ tags: [rangoric, rangoric/spell]
 
 # Locate Weakness
 
-*Divination*
+_Divination_
 
-  - **Level**: Blr 3, Hun 2, Inq 3, Mag 3, Occ 3, Psy 3, Rgr 2, Sor/Wiz 3, Wit 3
-  - **Components**: V, S, M/DF (a pickled predator's eye)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 minute/level
+- **Level**: Blr 3, Hun 2, Inq 3, Mag 3, Occ 3, Psy 3, Rgr 2, Sor/Wiz 3, Wit 3
+- **Components**: V, S, M/DF (a pickled predator's eye)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 minute/level
 
 You can sense your foes' weak points, granting you greater damage with critical hits. Whenever you score a critical hit, roll the attack's damage dice (but not extra or precision damage dice) twice and take the highest result.

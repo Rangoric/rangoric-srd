@@ -16,8 +16,8 @@ tags: [rangoric, rangoric/spell]
 
 # Inflict Serious Wounds, Mass
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Clr 7, Sha 7, Wit 8
+- **Level**: Clr 7, Sha 7, Wit 8
 
 This spell functions like [[rangoric-srd/spells/Inflict Light Wounds, Mass|mass inflict light wounds]], except that it deals 3d8 points of damage +1 point per caster level (maximum +35).

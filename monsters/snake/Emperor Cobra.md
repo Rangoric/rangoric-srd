@@ -39,31 +39,31 @@ tags: [rangoric, rangoric/monster]
 
 # Emperor Cobra
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 6d8+24 (51 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares), climb 30 ft., swim 30 ft.
-  - **Armor Class**: 18 (+2 Dex, +7 natural, –1 size), touch 11, flat-footed 16
-  - **Base Attack**: +4; **CMB**: +11; **CMD**: 23 (can't be tripped)
-  - **Attack**: Bite +10 melee (2d6+9 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: Bite +10 melee (2d6+9 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +9, Ref +7, Will +5
-  - **Abilities**: Str 22, Dex 15, Con 18, Int 1, Wis 17, Cha 2
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +11
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
-  - **Environment**: Temperate or warm swamps
-  - **Organization**: Solitary, pair, or nest (3–8)
-  - **Challenge Rating**: 5
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 6d8+24 (51 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares), climb 30 ft., swim 30 ft.
+- **Armor Class**: 18 (+2 Dex, +7 natural, –1 size), touch 11, flat-footed 16
+- **Base Attack**: +4; **CMB**: +11; **CMD**: 23 (can't be tripped)
+- **Attack**: Bite +10 melee (2d6+9 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: Bite +10 melee (2d6+9 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +9, Ref +7, Will +5
+- **Abilities**: Str 22, Dex 15, Con 18, Int 1, Wis 17, Cha 2
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +11
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
+- **Environment**: Temperate or warm swamps
+- **Organization**: Solitary, pair, or nest (3–8)
+- **Challenge Rating**: 5
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Infamous among travelers for its deadly poisonous bite, the emperor cobra is a foul-tempered snake typically encountered in bogs. The snake's scales are generally a dark green, with a pale green or even ivory underbelly. Its eyes are bright red and lack the distinctive serpentine slit most snake eyes possess. Emperor cobras are often trained to serve as guardians in temples. They are 16 feet long and weigh 200 pounds.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Emperor Cobra Venom|Emperor Cobra Venom]]: Bite—injury; *save* Fort DC 17; *frequency* 1/round for 6 rounds; *effect* 1d3 Con; *cure* 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Emperor Cobra Venom|Emperor Cobra Venom]]: Bite—injury; _save_ Fort DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Con; _cure_ 2 consecutive saves.

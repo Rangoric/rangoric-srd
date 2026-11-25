@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Plasma Ooze
 
-  - Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]]
-  - **Hit Dice**: 21d8+147 (241 hp)
-  - **Initiative**: +0
-  - **Speed**: fly 30 ft. (perfect)
-  - **Armor Class**: 6 (–4 size), touch 6, flat-footed 6
-  - **Base Attack**: +15; **CMB**: +32 (+36 grapple); **CMD**: 42 (can't be tripped)
-  - **Attack**: Slam +24 melee (4d6+19 plus 4d6 electricity, 4d6 fire, and grab) or 1d4 plasma rays +11 ranged touch (4d6 electricity plus 4d6 fire)
-  - **Full Attack**: Slam +24 melee (4d6+19 plus 4d6 electricity, 4d6 fire, and grab); or 1d4 plasma rays +11 ranged touch (4d6 electricity plus 4d6 fire)
-  - **Space/Reach**: 20 ft./20 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (4d6+19 plus 4d6 electricity and 4d6 fire), [[rangoric-srd/monsters/abilities/Engulf|engulf]] (DC 33, 4d6 electricity plus 4d6 fire)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Magnetic Pulse|magnetic pulse]] (30 ft., DC 27), [[rangoric-srd/monsters/abilities/Split|split]] (slashing or sonic, 46 hp), [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, electricity, fire and bludgeoning and piercing damage, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 30
-  - **Saves**: Fort +14, Ref +7, Will +2
-  - **Abilities**: Str 36, Dex 11, Con 24, Int —, Wis 1, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2
-  - **Feats**: —
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 16
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]]
+- **Hit Dice**: 21d8+147 (241 hp)
+- **Initiative**: +0
+- **Speed**: fly 30 ft. (perfect)
+- **Armor Class**: 6 (–4 size), touch 6, flat-footed 6
+- **Base Attack**: +15; **CMB**: +32 (+36 grapple); **CMD**: 42 (can't be tripped)
+- **Attack**: Slam +24 melee (4d6+19 plus 4d6 electricity, 4d6 fire, and grab) or 1d4 plasma rays +11 ranged touch (4d6 electricity plus 4d6 fire)
+- **Full Attack**: Slam +24 melee (4d6+19 plus 4d6 electricity, 4d6 fire, and grab); or 1d4 plasma rays +11 ranged touch (4d6 electricity plus 4d6 fire)
+- **Space/Reach**: 20 ft./20 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (4d6+19 plus 4d6 electricity and 4d6 fire), [[rangoric-srd/monsters/abilities/Engulf|engulf]] (DC 33, 4d6 electricity plus 4d6 fire)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Magnetic Pulse|magnetic pulse]] (30 ft., DC 27), [[rangoric-srd/monsters/abilities/Split|split]] (slashing or sonic, 46 hp), [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, electricity, fire and bludgeoning and piercing damage, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 30
+- **Saves**: Fort +14, Ref +7, Will +2
+- **Abilities**: Str 36, Dex 11, Con 24, Int —, Wis 1, Cha 1
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2
+- **Feats**: —
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 16
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Massive and devastating, plasma oozes are mysterious, extraterrestrial beings made of superheated electromagnetic sludge. While their origin is not fully known, it is widely accepted that plasma oozes are not from this world. Some scholars believe they dwell in the sun, while others maintain they hail from the Plane of Fire. That plasma oozes have been encountered in both of these locations does little to help solve the debate.
 

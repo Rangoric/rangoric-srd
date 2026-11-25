@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Vanara
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Vanara)
-  - **Hit Dice**: 1d8+1 (9 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares), climb 30 ft.
-  - **Armor Class**: 17 (+3 Dex, +1 dodge, +3 Wis), touch 17, flat-footed 13
-  - **Base Attack**: +0; **CMB**: +1; **CMD**: 18
-  - **Attack**: [[rangoric-srd/equipment/weapons/Quarterstaff|Quarterstaff]] +1 melee (1d6+1) or flurry of blows +0 melee (1d6+1)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Quarterstaff|Quarterstaff]] +1 melee (1d6+1); or flurry of blows +0/+0 melee (1d6+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Flurry of blows, stunning fist (1/day, DC 13)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Prehensile Tail|prehensile tail]]
-  - **Saves**: Fort +2, Ref +5, Will +5
-  - **Abilities**: Str 13, Dex 16, Con 10, Int 12, Wis 17, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +9
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]]
-  - **Environment**: Any forests
-  - **Organization**: Solitary, pair, party, (3–6), or community (7–100)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: NPC gear (quarterstaff)
-  - **Alignment**: Usually lawful good
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Vanara)
+- **Hit Dice**: 1d8+1 (9 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares), climb 30 ft.
+- **Armor Class**: 17 (+3 Dex, +1 dodge, +3 Wis), touch 17, flat-footed 13
+- **Base Attack**: +0; **CMB**: +1; **CMD**: 18
+- **Attack**: [[rangoric-srd/equipment/weapons/Quarterstaff|Quarterstaff]] +1 melee (1d6+1) or flurry of blows +0 melee (1d6+1)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Quarterstaff|Quarterstaff]] +1 melee (1d6+1); or flurry of blows +0/+0 melee (1d6+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Flurry of blows, stunning fist (1/day, DC 13)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Prehensile Tail|prehensile tail]]
+- **Saves**: Fort +2, Ref +5, Will +5
+- **Abilities**: Str 13, Dex 16, Con 10, Int 12, Wis 17, Cha 6
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]]
+- **Environment**: Any forests
+- **Organization**: Solitary, pair, party, (3–6), or community (7–100)
+- **Challenge Rating**: 1/2
+- **Treasure**: NPC gear (quarterstaff)
+- **Alignment**: Usually lawful good
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Vanaras are intelligent, simian humanoids who live in deep forests and jungles. They are both agile and clever, but saddled with boundless curiosity and a love of pranks that, while normally harmless, hinder ingratiations with those they encounter. A vanara's body is covered in a thin coat of soft fur, and individuals with chestnut, ivory, and even golden coats are common. Despite its fur, a vanara can grow lengthy hair on its head just like a human, and both male and female vanaras take pains to wear elaborate hairstyles for important social functions. The hair on a vanara's head matches the color of its fur. All vanaras have long, prehensile tails and handlike feet capable of well-articulated movements. A vanara stands slightly shorter than a typical human. Males weigh from 150 to 200 pounds at most, with females weighing slightly less. Vanaras live for 60 to 75 years.
 

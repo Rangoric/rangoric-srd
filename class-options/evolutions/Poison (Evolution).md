@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Poison
 
-*A 2-point evolution (Ex) for a [[rangoric-srd/classes/Summoner|summoner]]’s eidolon.*
+_A 2-point evolution (Ex) for a [[rangoric-srd/classes/Summoner|summoner]]’s eidolon._
 
-An eidolon secretes toxic venom, gaining a [[rangoric-srd/rules/Afflictions#Poison|poison]] attack. Pick one bite or sting attack. Whenever the selected attack hits, the target is poisoned. **Eidolon poison**—*type* poison (injury); *save* Fort negates; *frequency* 1/round for 4 rounds; *effect* 1d4 Str damage; *cure* 1 save. The save DC is equal to 10 + 1/2 the eidolon’s HD + the eidolon’s Constitution modifier. For 2 additional evolution points, this poison deals Constitution damage instead. This poison can be used no more than once per round. The summoner must be at least 7th level before selecting this evolution.
+An eidolon secretes toxic venom, gaining a [[rangoric-srd/rules/Afflictions#Poison|poison]] attack. Pick one bite or sting attack. Whenever the selected attack hits, the target is poisoned. **Eidolon poison**—_type_ poison (injury); _save_ Fort negates; _frequency_ 1/round for 4 rounds; _effect_ 1d4 Str damage; _cure_ 1 save. The save DC is equal to 10 + 1/2 the eidolon’s HD + the eidolon’s Constitution modifier. For 2 additional evolution points, this poison deals Constitution damage instead. This poison can be used no more than once per round. The summoner must be at least 7th level before selecting this evolution.

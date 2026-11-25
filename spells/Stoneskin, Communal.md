@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Stoneskin, Communal
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Alc 5, Drd 6, Hun 6, Inq 5, Occ 5, Psy 5, Sor/Wiz 5, Sum 4, SumU 5
-  - **Components**: V, S, M (granite and diamond dust worth 100 gp per creature affected)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creatures touched
-  - **Duration**: 10 min./level or until discharged
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Alc 5, Drd 6, Hun 6, Inq 5, Occ 5, Psy 5, Sor/Wiz 5, Sum 4, SumU 5
+- **Components**: V, S, M (granite and diamond dust worth 100 gp per creature affected)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creatures touched
+- **Duration**: 10 min./level or until discharged
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-This spell functions like *[[rangoric-srd/spells/Stoneskin|stoneskin]]*, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 10 minute intervals among the creatures touched. Once the spell has prevented 10 points of damage per caster level (maximum 150 points) for a subject, the spell's effects end for that subject.
+This spell functions like _[[rangoric-srd/spells/Stoneskin|stoneskin]]_, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 10 minute intervals among the creatures touched. Once the spell has prevented 10 points of damage per caster level (maximum 150 points) for a subject, the spell's effects end for that subject.

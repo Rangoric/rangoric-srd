@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Antiparalytic Lotion
 
-*Herbal Restorative/Unguent; Special*
+_Herbal Restorative/Unguent; Special_
 
 This gummy, sweet-smelling lotion is an anti-paralytic agent. Spreading it on the flesh of a paralyzed person counteracts most paralytic effects of supernatural powers, poisons or spells. However, this does not negate other effects beyond loosening the muscles and skin of a paralyzed person. Application provides a +2 Fort save bonus vs. any lingering effects that are tied to or cause the paralysis.
 

@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Dire Lion
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 8d8+24 (60 hp)
-  - **Initiative**: +6
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 15 (+2 Dex, +4 natural, –1 size), touch 11, flat-footed 13
-  - **Base Attack**: +6; **CMB**: +14 (+18 grapple); **CMD**: 26 (30 vs. trip)
-  - **Attack**: Bite +12 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +13 melee (1d6+7)
-  - **Full Attack**: Bite +12 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +13 melee (1d6+7)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +13, 1d6+7)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +9, Ref +8, Will +3
-  - **Abilities**: Str 25, Dex 15, Con 17, Int 2, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +7 (+11 in undergrowth)
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
-  - **Environment**: Warm plains or hills
-  - **Organization**: Solitary, pair, or pride (3–8)
-  - **Challenge Rating**: 5
-  - **Treasure**: Incidental
-  - **Alignment**: Always neutral
-  - **Advancement**: 9–16 HD (Large); 17–24 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 8d8+24 (60 hp)
+- **Initiative**: +6
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 15 (+2 Dex, +4 natural, –1 size), touch 11, flat-footed 13
+- **Base Attack**: +6; **CMB**: +14 (+18 grapple); **CMD**: 26 (30 vs. trip)
+- **Attack**: Bite +12 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +13 melee (1d6+7)
+- **Full Attack**: Bite +12 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +13 melee (1d6+7)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +13, 1d6+7)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +9, Ref +8, Will +3
+- **Abilities**: Str 25, Dex 15, Con 17, Int 2, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +7 (+11 in undergrowth)
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
+- **Environment**: Warm plains or hills
+- **Organization**: Solitary, pair, or pride (3–8)
+- **Challenge Rating**: 5
+- **Treasure**: Incidental
+- **Alignment**: Always neutral
+- **Advancement**: 9–16 HD (Large); 17–24 HD (Huge)
+- **Level Adjustment**: —
 
 Dire lions, known locally as spotted lions or cave lions, are immense predators that can grow up to 15 feet long and weigh up to 3,500 pounds. Although they are merely animals, these large creatures seem to take an almost sadistic glee in playing with and tormenting their prey before eventually devouring it. As a result, many tribes view dire lions as the spawn of evil gods, and hunt them down as soon as their presence in a region becomes obvious.
 

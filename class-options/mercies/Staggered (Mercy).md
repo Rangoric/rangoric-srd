@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Staggered
 
-*A [[rangoric-srd/classes/Paladin#^paladin-mercy|mercy]], available from 6th level.*
+_A [[rangoric-srd/classes/Paladin#^paladin-mercy|mercy]], available from 6th level._
 
 The target is no longer [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]], unless the target is at exactly 0 hit points.

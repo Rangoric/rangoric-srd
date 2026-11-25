@@ -24,14 +24,14 @@ tags: [rangoric, rangoric/spell]
 
 # Iron Body
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Earth 8, Psy 8, Sor/Wiz 8
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 min./level (D)
+- **Level**: Earth 8, Psy 8, Sor/Wiz 8
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 min./level (D)
 
 This spell transforms your body into living iron, which grants you several powerful resistances and abilities.
 
@@ -43,4 +43,4 @@ Your unarmed attacks deal damage equal to a club sized for you (1d4 for Small ch
 
 Your weight increases by a factor of ten, causing you to sink in water like a stone. However, you could survive the crushing pressure and lack of air at the bottom of the ocean—at least until the spell duration expires.
 
-*Arcane Material Component*: A small piece of iron that was once part of either an iron golem, a hero’s armor, or a war machine.
+_Arcane Material Component_: A small piece of iron that was once part of either an iron golem, a hero’s armor, or a war machine.

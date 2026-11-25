@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Heartswood Spear
 
-This humble weapon appears to be little more than a crudely sharpened stake or makeshift spear, but in truth it is a far more formidable weapon. In addition to being a *+2 undead bane spear*, a *heartswood spear* deals bludgeoning damage when it is swung as a staff. When employed in such a manner, it also possesses the *[[rangoric-srd/magic-items/weapon-abilities/Disruption|disruption]]* property.
+This humble weapon appears to be little more than a crudely sharpened stake or makeshift spear, but in truth it is a far more formidable weapon. In addition to being a _+2 undead bane spear_, a _heartswood spear_ deals bludgeoning damage when it is swung as a staff. When employed in such a manner, it also possesses the _[[rangoric-srd/magic-items/weapon-abilities/Disruption|disruption]]_ property.
 
-Strong conjuration; CL 14th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Heal (Spell)|heal]]*, summon monster; Price 50,302 gp; Cost 25,302 gp.
+Strong conjuration; CL 14th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Heal (Spell)|heal]]_, summon monster; Price 50,302 gp; Cost 25,302 gp.

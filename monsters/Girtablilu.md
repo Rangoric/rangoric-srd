@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Girtablilu
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
-  - **Hit Dice**: 10d10+50 (105 hp)
-  - **Initiative**: +6
-  - **Speed**: 50 ft. (10 squares)
-  - **Armor Class**: 22 (+2 armor, +2 Dex, +1 dodge, +8 natural, –1 size), touch 12, flat-footed 19
-  - **Base Attack**: +10; **CMB**: +16 (+20 grapple); **CMD**: 29 (41 vs. trip)
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +15 melee (1d8+7/×3) or claw +14 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or sting +14 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +12 ranged (1d8+5/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +15/+10 melee (1d8+7/×3) and 2 claws +9 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and sting +9 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]]); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +12 ranged (1d8+5/×3)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d6+5), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Scorpion Empathy|scorpion empathy]] +10, [[rangoric-srd/monsters/abilities/Undersized Weapons|undersized weapons]]
-  - **Saves**: Fort +8, Ref +11, Will +9
-  - **Abilities**: Str 20, Dex 15, Con 21, Int 10, Wis 14, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Craft|Craft]] (any one) +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +15, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-  - **Environment**: Warm deserts
-  - **Organization**: Solitary, pair, patrol (3–5 plus 2–4 giant scorpions), or cult (6–14 plus 3–6 temple guardians of 3rd level, 1 cleric or oracle leader of 6th level, and 4–9 giant scorpions)
-  - **Challenge Rating**: 8
-  - **Treasure**: Standard (leather armor, masterwork spear)
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
+- **Hit Dice**: 10d10+50 (105 hp)
+- **Initiative**: +6
+- **Speed**: 50 ft. (10 squares)
+- **Armor Class**: 22 (+2 armor, +2 Dex, +1 dodge, +8 natural, –1 size), touch 12, flat-footed 19
+- **Base Attack**: +10; **CMB**: +16 (+20 grapple); **CMD**: 29 (41 vs. trip)
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +15 melee (1d8+7/×3) or claw +14 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or sting +14 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +12 ranged (1d8+5/×3)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +15/+10 melee (1d8+7/×3) and 2 claws +9 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and sting +9 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]]); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +12 ranged (1d8+5/×3)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d6+5), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Scorpion Empathy|scorpion empathy]] +10, [[rangoric-srd/monsters/abilities/Undersized Weapons|undersized weapons]]
+- **Saves**: Fort +8, Ref +11, Will +9
+- **Abilities**: Str 20, Dex 15, Con 21, Int 10, Wis 14, Cha 11
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Craft|Craft]] (any one) +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +15, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+- **Environment**: Warm deserts
+- **Organization**: Solitary, pair, patrol (3–5 plus 2–4 giant scorpions), or cult (6–14 plus 3–6 temple guardians of 3rd level, 1 cleric or oracle leader of 6th level, and 4–9 giant scorpions)
+- **Challenge Rating**: 8
+- **Treasure**: Standard (leather armor, masterwork spear)
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Girtablilus fiercely guard ancient places and treasures lost to history. Far from civilized eyes, they thrive and piously protect their charges with the aid of monstrously large scorpions that girtablilus keep as pets.
 
@@ -71,8 +71,8 @@ A girtablilu is 13 feet long and weighs 800 pounds.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +10): 1/day—*[[rangoric-srd/spells/Summon Nature’s Ally V|summon nature's ally V]]* (1d3 giant scorpions).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +10): 1/day—_[[rangoric-srd/spells/Summon Nature’s Ally V|summon nature's ally V]]_ (1d3 giant scorpions).
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Girtablilu Venom|Girtablilu Venom]]: injury; *save* Fort DC 20; *frequency* 1/round for 6 rounds; *effect* 1d4 Dex; *cure* 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Girtablilu Venom|Girtablilu Venom]]: injury; _save_ Fort DC 20; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Dex; _cure_ 2 consecutive saves.
 
 **[[rangoric-srd/monsters/abilities/Scorpion Empathy|Scorpion Empathy]] (Ex)**: This ability functions as a druid's wild empathy ability, save that it works only on scorpions. A girtablilu uses its Hit Dice (normally 10) as its effective druid level. Scorpions are normally mindless, but this empathic communication imparts upon them a modicum of implanted intelligence, allowing girtablilus to train scorpions and use them as guardians (though it does not grant them skills or feats).

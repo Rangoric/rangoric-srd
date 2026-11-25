@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/magic-item]
 
 This loose, often ruffled, shirt is cut in a style designed to avoid hindering its wearer's movement.
 
-Once per day on command, the wearer can gain the benefits of *[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]* for 10 minutes.
+Once per day on command, the wearer can gain the benefits of _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_ for 10 minutes.
 
-Moderate abjuration and transmutation; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*, *[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]*; Price 10,000 gp; Cost 5,000 gp.
+Moderate abjuration and transmutation; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_; Price 10,000 gp; Cost 5,000 gp.

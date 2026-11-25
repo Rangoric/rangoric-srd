@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Frost Drake
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Cold)
-  - **Hit Dice**: 8d12+32 (84 hp)
-  - **Initiative**: +5
-  - **Speed**: 20 ft. (4 squares), burrow 20 ft. (snow only), fly 60 ft. (average)
-  - **Armor Class**: 20 (+1 Dex, +10 natural, –1 size), touch 10, flat-footed 19
-  - **Base Attack**: +8; **CMB**: +15; **CMD**: 26
-  - **Attack**: Bite +13 melee (2d6+6 plus 1d6 cold) or tail slap +13 melee (1d8+3)
-  - **Full Attack**: Bite +13 melee (2d6+6 plus 1d6 cold) and tail slap +8 melee (1d8+3)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Freezing Mist Breath|Freezing mist breath]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Snow Vision|snow vision]], [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], [[rangoric-srd/monsters/abilities/Icewalking|icewalking]], immunity to cold, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, vulnerability to fire
-  - **Saves**: Fort +10, Ref +7, Will +5
-  - **Abilities**: Str 22, Dex 13, Con 18, Int 8, Wis 9, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +8
-  - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-  - **Environment**: Cold mountains
-  - **Organization**: Solitary, pair, or rampage (3–12)
-  - **Challenge Rating**: 7
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Cold)
+- **Hit Dice**: 8d12+32 (84 hp)
+- **Initiative**: +5
+- **Speed**: 20 ft. (4 squares), burrow 20 ft. (snow only), fly 60 ft. (average)
+- **Armor Class**: 20 (+1 Dex, +10 natural, –1 size), touch 10, flat-footed 19
+- **Base Attack**: +8; **CMB**: +15; **CMD**: 26
+- **Attack**: Bite +13 melee (2d6+6 plus 1d6 cold) or tail slap +13 melee (1d8+3)
+- **Full Attack**: Bite +13 melee (2d6+6 plus 1d6 cold) and tail slap +8 melee (1d8+3)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Freezing Mist Breath|Freezing mist breath]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Snow Vision|snow vision]], [[rangoric-srd/monsters/abilities/Speed Surge|speed surge]], [[rangoric-srd/monsters/abilities/Icewalking|icewalking]], immunity to cold, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, vulnerability to fire
+- **Saves**: Fort +10, Ref +7, Will +5
+- **Abilities**: Str 22, Dex 13, Con 18, Int 8, Wis 9, Cha 13
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +8
+- **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+- **Environment**: Cold mountains
+- **Organization**: Solitary, pair, or rampage (3–12)
+- **Challenge Rating**: 7
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Degenerate cousins of white dragons, frost dragons are ferocious predators. They are larger than other drakes, reaching heights of up to 16 feet and weighing upward of 2,500 pounds. Their wide, clawed feet enable them to easily burrow through snow, though not through dirt or clay.
 

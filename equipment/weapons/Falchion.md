@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades]
 
 # Falchion
 
-*Martial two-handed melee weapon.* Cost 75 gp; Dmg 1d6 (S), 2d4 (M); Critical 18–20/x2; Weight 8 lb.; Type Slashing. ^stats
+_Martial two-handed melee weapon._ Cost 75 gp; Dmg 1d6 (S), 2d4 (M); Critical 18–20/x2; Weight 8 lb.; Type Slashing. ^stats

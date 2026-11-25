@@ -38,30 +38,31 @@ change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
+
 # Greater Barghest
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Evil, Extraplanar, Lawful, Shapechanger)
-  - **Hit Dice**: 9d10+36 (85 hp)
-  - **Initiative**: +6
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 20 (+2 Dex, +9 natural, –1 size), touch 11, flat-footed 18
-  - **Base Attack**: +9; **CMB**: +16; **CMD**: 28 (32 vs. trip)
-  - **Attack**: Bite +14 melee (1d8+6) or claw +14 melee (1d6+6)
-  - **Full Attack**: Bite +14 melee (1d8+6) and 2 claws +14 melee (1d6+6)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (goblin or wolf, polymorph), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic
-  - **Saves**: Fort +9, Ref +10, Will +10
-  - **Abilities**: Str 23, Dex 15, Con 19, Int 18, Wis 18, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
-  - **Environment**: An evil-aligned plane
-  - **Organization**: Solitary or pack (3–6)
-  - **Challenge Rating**: 7
-  - **Treasure**: 
-  - **Alignment**: Always lawful evil
-  - **Advancement**: Special (see below)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Evil, Extraplanar, Lawful, Shapechanger)
+- **Hit Dice**: 9d10+36 (85 hp)
+- **Initiative**: +6
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 20 (+2 Dex, +9 natural, –1 size), touch 11, flat-footed 18
+- **Base Attack**: +9; **CMB**: +16; **CMD**: 28 (32 vs. trip)
+- **Attack**: Bite +14 melee (1d8+6) or claw +14 melee (1d6+6)
+- **Full Attack**: Bite +14 melee (1d8+6) and 2 claws +14 melee (1d6+6)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (goblin or wolf, polymorph), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic
+- **Saves**: Fort +9, Ref +10, Will +10
+- **Abilities**: Str 23, Dex 15, Con 19, Int 18, Wis 18, Cha 18
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
+- **Environment**: An evil-aligned plane
+- **Organization**: Solitary or pack (3–6)
+- **Challenge Rating**: 7
+- **Treasure**:
+- **Alignment**: Always lawful evil
+- **Advancement**: Special (see below)
+- **Level Adjustment**: —
 
 These creatures can change shape into a goblinlike creature of Large size (about 8 feet tall and 400 pounds) or a [[rangoric-srd/monsters/dire-animal/Dire Wolf|dire wolf]].
 
@@ -71,4 +72,4 @@ Greater barghests speak Common, Goblin and Infernal.
 
 Occasionally, a greater barghest uses a magic two-handed weapon in combat instead of its claws. It can also make one bite attack each round.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th): At will—*[[rangoric-srd/spells/Blink|blink]]*, *[[rangoric-srd/spells/Invisibility Sphere|invisibility sphere]]*, *[[rangoric-srd/spells/Levitate|levitate]]*, *[[rangoric-srd/spells/Misdirection|misdirection]]*; 1/day—*[[rangoric-srd/spells/Charm Monster|charm monster]]* (DC 18), *[[rangoric-srd/spells/Crushing Despair|crushing despair]]* (DC 18), *[[rangoric-srd/spells/Dimension Door|dimension door]]*, *[[rangoric-srd/spells/Bull’s Strength, Mass|mass bull's strength]]*, *[[rangoric-srd/spells/Enlarge Person, Mass|mass enlarge person]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th): At will—_[[rangoric-srd/spells/Blink|blink]]_, _[[rangoric-srd/spells/Invisibility Sphere|invisibility sphere]]_, _[[rangoric-srd/spells/Levitate|levitate]]_, _[[rangoric-srd/spells/Misdirection|misdirection]]_; 1/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 18), _[[rangoric-srd/spells/Crushing Despair|crushing despair]]_ (DC 18), _[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Bull’s Strength, Mass|mass bull's strength]]_, _[[rangoric-srd/spells/Enlarge Person, Mass|mass enlarge person]]_.

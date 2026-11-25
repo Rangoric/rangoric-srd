@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Hobgoblin Gunslinger
 
-*A [[rangoric-srd/races/Hobgoblin|hobgoblin]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Gunslinger#^gunslinger-class-bonuses|gunslinger]] level.*
+_A [[rangoric-srd/races/Hobgoblin|hobgoblin]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Gunslinger#^gunslinger-class-bonuses|gunslinger]] level._
 
 Add +1/4 to the gunslinger's [[rangoric-srd/classes/Gunslinger#^gunslinger-grit|grit]] points.

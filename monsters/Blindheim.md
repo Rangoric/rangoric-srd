@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Blindheim
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 3d10+6 (22 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares), climb 20 ft., swim 20 ft.
-  - **Armor Class**: 16 (+2 Dex, +1 dodge, +2 natural, +1 size), touch 14, flat-footed 13
-  - **Base Attack**: +3; **CMB**: +3; **CMD**: 16
-  - **Attack**: Bite +5 melee (1d4+1) or claw +5 melee (1d3+1)
-  - **Full Attack**: Bite +5 melee (1d4+1) and 2 claws +5 melee (1d3+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blinding Gaze|Blinding gaze]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to blindness
-  - **Saves**: Fort +5, Ref +5, Will +2
-  - **Abilities**: Str 13, Dex 15, Con 15, Int 2, Wis 12, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +9 (+13 jumping), [[rangoric-srd/skills/Perception|Perception]] +9
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any underground
-  - **Organization**: Solitary, pair, or family (3–5)
-  - **Challenge Rating**: 2
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 3d10+6 (22 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares), climb 20 ft., swim 20 ft.
+- **Armor Class**: 16 (+2 Dex, +1 dodge, +2 natural, +1 size), touch 14, flat-footed 13
+- **Base Attack**: +3; **CMB**: +3; **CMD**: 16
+- **Attack**: Bite +5 melee (1d4+1) or claw +5 melee (1d3+1)
+- **Full Attack**: Bite +5 melee (1d4+1) and 2 claws +5 melee (1d3+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blinding Gaze|Blinding gaze]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to blindness
+- **Saves**: Fort +5, Ref +5, Will +2
+- **Abilities**: Str 13, Dex 15, Con 15, Int 2, Wis 12, Cha 6
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +9 (+13 jumping), [[rangoric-srd/skills/Perception|Perception]] +9
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any underground
+- **Organization**: Solitary, pair, or family (3–5)
+- **Challenge Rating**: 2
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Blindheims are grotesque, frog-like creatures that dwell beneath the surface, subsisting on meals of fungi, rodents, and other underground creatures. They live in the darkest, dampest regions of cavernous sprawls, particularly enjoying underground bogs, lakes, rivers, and swamps. Although not aquatic, blindheims are excellent swimmers. They prefer to latch onto branches or rock outcroppings, where they maintain the high ground while in pursuit of food. They use the light from their eyes to attract prey, but go dark when larger creatures approach. A blindheim uses its blinding gaze to disorient both prey and possible threats, then deactivates its gaze to scuttle away in the dark if the threat is too great. In very large caverns inhabited by blindheims, distant areas often flicker from brightly lit to absolutely dark as the creatures feed and flee. Though of animal-level intelligence, blindheims are cunning enough to coordinate their hunting tactics with others of their kind, using one creature to act as a lookout and make hit-and-run attacks with its gaze until its fellows can arrive to help finish off the prey.
 

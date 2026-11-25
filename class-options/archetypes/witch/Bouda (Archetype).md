@@ -18,11 +18,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Bouda
 
-*A [[rangoric-srd/classes/Witch#^witch-archetypes|witch]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Witch#^witch-archetypes|witch]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 These strange and often solitary witches have a strong connection to curses, the evil eye, and hyenas. The bouda is common among [[rangoric-srd/races/Gnoll|gnolls]].
 
-**Alignment**: Because of the dark nature of her magic, a bouda must be of an evil alignment. If a character with the bouda archetype ceases to be evil, she loses the ability to use all alternate class features granted by this archetype (but still retains all other witch class features), though she's still considered to be a bouda when taking further levels in the witch class. A bouda regains use of all archetype alternate class features if she atones for her violations (see the *[[rangoric-srd/spells/Atonement|atonement]]* spell).
+**Alignment**: Because of the dark nature of her magic, a bouda must be of an evil alignment. If a character with the bouda archetype ceases to be evil, she loses the ability to use all alternate class features granted by this archetype (but still retains all other witch class features), though she's still considered to be a bouda when taking further levels in the witch class. A bouda regains use of all archetype alternate class features if she atones for her violations (see the _[[rangoric-srd/spells/Atonement|atonement]]_ spell).
 
 **Fetish**: A bouda keeps a small fetish: sometimes a carved idol, other times a necklace adorned with teeth or bones. A bouda's spells come from the will of evil spirits residing in the fetish, and its ability to hold spells functions in a manner identical to the way a witch's spells are granted by her [[rangoric-srd/classes/Witch#^witch-familiar|familiar]]. The bouda must commune with her fetish each day to prepare her spells and can only prepare spells stored in the fetish.
 
@@ -34,8 +34,8 @@ This ability replaces the [[rangoric-srd/classes/Witch#^witch-familiar|witch’s
 
 This hex must be taken as a bouda's [[rangoric-srd/classes/Witch#^witch-hex|1st-level hex]], and only a bouda can take this hex.
 
-**Hyena Shape (Su)**: At 10th level, a bouda gains the ability to turn into a [[rangoric-srd/monsters/Hyena|hyena]] or dire hyena and back again a number of times per day equal to her Intelligence modifier. This ability functions as *[[rangoric-srd/spells/Beast Shape II|beast shape II]]*, except for the following. The effect lasts for 1 hour per witch level, or until the bouda changes back. Changing form (to animal or back) is a standard action that does not provoke attacks of opportunity. At 20th level, a bouda can change her form at will. If a bouda dies while in hyena shape, she does not revert back to her true form.
+**Hyena Shape (Su)**: At 10th level, a bouda gains the ability to turn into a [[rangoric-srd/monsters/Hyena|hyena]] or dire hyena and back again a number of times per day equal to her Intelligence modifier. This ability functions as _[[rangoric-srd/spells/Beast Shape II|beast shape II]]_, except for the following. The effect lasts for 1 hour per witch level, or until the bouda changes back. Changing form (to animal or back) is a standard action that does not provoke attacks of opportunity. At 20th level, a bouda can change her form at will. If a bouda dies while in hyena shape, she does not revert back to her true form.
 
-The bouda does not lose the ability to speak while in animal form, and can communicate with hyenas and [[rangoric-srd/monsters/dire-animal/Dire Hyena|dire hyenas]] as if under the effects of *[[rangoric-srd/spells/Speak with Animals|speak with animals]]*. Furthermore, while in this form, the bouda gains the benefit of the [[rangoric-srd/feats/Natural Spell|Natural Spell]] feat, even if she does not meet the prerequisites.
+The bouda does not lose the ability to speak while in animal form, and can communicate with hyenas and [[rangoric-srd/monsters/dire-animal/Dire Hyena|dire hyenas]] as if under the effects of _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_. Furthermore, while in this form, the bouda gains the benefit of the [[rangoric-srd/feats/Natural Spell|Natural Spell]] feat, even if she does not meet the prerequisites.
 
 This ability replaces the [[rangoric-srd/classes/Witch#^witch-major-hex|major hex]] granted at 10th level.

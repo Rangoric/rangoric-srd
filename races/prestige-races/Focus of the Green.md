@@ -15,12 +15,12 @@ One of the [[rangoric-srd/races/prestige-races/Prestige Races|prestige races]]; 
 
 [[rangoric-srd/classes/Druid|Druids]], [[rangoric-srd/classes/Ranger|rangers]], and others who consider the wilderness their home find themselves drawn to this focus.
 
-| Step | Cost | Minimum Level | Prerequisite |
-| --- | --- | --- | --- |
-| [[#Barked Creature\|Barked Creature]] | 3,500 XP | 4th | All races |
-| [[#Photosynthesizing Creature\|Photosynthesizing Creature]] | 6,000 XP | 7th | Barked |
-| [[#Regenerating Creature\|Regenerating Creature]] | 9,000 XP | 10th | Photosynthesizing |
-| [[#Green Creature\|Green Creature]] | 13,500 XP | 14th | Regenerating races |
+| Step                                                        | Cost      | Minimum Level | Prerequisite       |
+| ----------------------------------------------------------- | --------- | ------------- | ------------------ |
+| [[#Barked Creature\|Barked Creature]]                       | 3,500 XP  | 4th           | All races          |
+| [[#Photosynthesizing Creature\|Photosynthesizing Creature]] | 6,000 XP  | 7th           | Barked             |
+| [[#Regenerating Creature\|Regenerating Creature]]           | 9,000 XP  | 10th          | Photosynthesizing  |
+| [[#Green Creature\|Green Creature]]                         | 13,500 XP | 14th          | Regenerating races |
 
 ### Barked Creature
 

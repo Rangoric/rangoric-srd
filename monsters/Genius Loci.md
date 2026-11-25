@@ -55,7 +55,7 @@ Organization: Solitary    
 Challenge Rating: 30      
 Treasure: Standard      
 Alignment: Usually any evil      
-Advancement: None      
+Advancement: None    
 
 A genius loci is difficult to spot, since it looks like any other section of landscape. A genius loci itself has no intelligence, but rather “emulates” the sentience of any creature it currently enslaves (see below), if any.  Each genius loci has only a single enslaved creature at one time, though other creatures may also inhabit the surface of the genius loci. Any creature entering a genius loci who makes a successful [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] check (DC 31) realizes that something is amiss, though it is difficult to tell exactly what. Genius loci do not speak directly, though they may do so through their currently enslaved thrall.
 

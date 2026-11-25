@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Diamond Body
 
-*A [[rangoric-srd/classes/Unchained Monk#^unchained-monk-ki-powers|ki power]] (Su).*
+_A [[rangoric-srd/classes/Unchained Monk#^unchained-monk-ki-powers|ki power]] (Su)._
 
-By spending 1 point from his ki pool, a monk with this power can remove one toxin from his body as if using *[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]*, using his monk level as his caster level. He can remove only one poison in this way per use of this ability. A monk must be at least 8th level before selecting this ki power.
+By spending 1 point from his ki pool, a monk with this power can remove one toxin from his body as if using _[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]_, using his monk level as his caster level. He can remove only one poison in this way per use of this ability. A monk must be at least 8th level before selecting this ki power.

@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Damage Reduction
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex) or [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “DR 5/silver”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex) or [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “DR 5/silver”, on the Special Qualities line.
 
 A creature with this special quality ignores damage from most weapons and natural attacks. Wounds heal immediately, or the weapon bounces off harmlessly (in either case, the opponent knows the attack was ineffective). The creature takes normal damage from energy attacks (even nonmagical ones), spells, spell-like abilities, and supernatural abilities. A certain kind of weapon can sometimes damage the creature normally, as noted below.
 
@@ -26,11 +26,11 @@ Some monsters are vulnerable to piercing, bludgeoning, or slashing damage. Other
 
 Weapons with an enhancement bonus of +3 or greater can ignore some types of damage reduction, regardless of their actual material or alignment. The following table shows what enhancement bonus is needed to overcome some common types of damage reduction.
 
-| DR Type | Weapon Enhancement Bonus Equivalent |
-| --- | --- |
-| cold iron/silver | +3 |
-| adamantine\* | +4 |
-| alignment-based | +5 |
+| DR Type          | Weapon Enhancement Bonus Equivalent |
+| ---------------- | ----------------------------------- |
+| cold iron/silver | +3                                  |
+| adamantine\*     | +4                                  |
+| alignment-based  | +5                                  |
 
 \* This does not give the ability to ignore hardness, like an actual adamantine weapon does.
 

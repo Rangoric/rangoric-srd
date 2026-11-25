@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Plant Domain
 
-*A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]], which a druid can also take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]].*
+_A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]], which a druid can also take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]._
 
 **Subdomains**: [[rangoric-srd/class-options/domains/Decay Subdomain|Decay]], [[rangoric-srd/class-options/domains/Growth Subdomain|Growth]].
 
@@ -33,14 +33,14 @@ Add [[rangoric-srd/skills/Nature|Nature]] to your list of cleric class skills.
 
 ## Domain Spells
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Entangle\|Entangle]] | Plants entangle everyone in 40-ft.-radius. |
-| 2nd | [[rangoric-srd/spells/Barkskin\|Barkskin]] | Grants +2 (or higher) enhancement to natural armor. |
-| 3rd | [[rangoric-srd/spells/Plant Growth\|Plant Growth]] | Grows vegetation, improves crops. |
-| 4th | [[rangoric-srd/spells/Command Plants\|Command Plants]] | Sway the actions of one or more plant creatures. |
-| 5th | [[rangoric-srd/spells/Wall of Thorns\|Wall of Thorns]] | Thorns damage anyone who tries to pass. |
-| 6th | [[rangoric-srd/spells/Repel Wood\|Repel Wood]] | Pushes away wooden objects. |
-| 7th | [[rangoric-srd/spells/Animate Plants\|Animate Plants]] | One or more trees animate and fight for you. |
-| 8th | [[rangoric-srd/spells/Control Plants\|Control Plants]] | Control actions of one or more plant creatures. |
-| 9th | [[rangoric-srd/spells/Shambler\|Shambler]] | Summons 1d4+2 shambling mounds to fight for you. |
+| Level | Spell                                                  | Brief Description                                   |
+| ----- | ------------------------------------------------------ | --------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Entangle\|Entangle]]             | Plants entangle everyone in 40-ft.-radius.          |
+| 2nd   | [[rangoric-srd/spells/Barkskin\|Barkskin]]             | Grants +2 (or higher) enhancement to natural armor. |
+| 3rd   | [[rangoric-srd/spells/Plant Growth\|Plant Growth]]     | Grows vegetation, improves crops.                   |
+| 4th   | [[rangoric-srd/spells/Command Plants\|Command Plants]] | Sway the actions of one or more plant creatures.    |
+| 5th   | [[rangoric-srd/spells/Wall of Thorns\|Wall of Thorns]] | Thorns damage anyone who tries to pass.             |
+| 6th   | [[rangoric-srd/spells/Repel Wood\|Repel Wood]]         | Pushes away wooden objects.                         |
+| 7th   | [[rangoric-srd/spells/Animate Plants\|Animate Plants]] | One or more trees animate and fight for you.        |
+| 8th   | [[rangoric-srd/spells/Control Plants\|Control Plants]] | Control actions of one or more plant creatures.     |
+| 9th   | [[rangoric-srd/spells/Shambler\|Shambler]]             | Summons 1d4+2 shambling mounds to fight for you.    |

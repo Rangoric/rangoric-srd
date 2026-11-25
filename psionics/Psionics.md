@@ -68,7 +68,7 @@ Bonus Types: Many powers give creatures bonuses to ability scores, Armor Class, 
 
 Bringing Back the Dead: Various psionic powers, such as [[rangoric-srd/powers/Reality Revision|reality revision]] and [[rangoric-srd/powers/Psionic Revivify|psionic revivify]], have the ability to restore slain characters to life. When a living creature dies, its soul departs the body, leaves the Material Plane, travels through the Astral Plane, and goes to abide on the plane where the creature’s deity resides. If the creature did not worship a deity, its soul departs to the plane corresponding to its alignment. Bringing someone back from the dead means retrieving his or her soul and returning it to his or her body.
 
-Negative Levels: The passage from life to death and back again is a wrenching journey for a being’s soul. Consequently, any creature brought back to life usually gains one or more [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent negative levels]]. These levels apply a penalty to most rolls until removed through spells or powers such as *[[rangoric-srd/spells/Restoration|restoration]]* or [[rangoric-srd/powers/Restoration, Psionic|psionic restoration]]. If the character was 1st level at the time of death, he or she takes 2 points of [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|Constitution drain]] instead of gaining a negative level.
+Negative Levels: The passage from life to death and back again is a wrenching journey for a being’s soul. Consequently, any creature brought back to life usually gains one or more [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent negative levels]]. These levels apply a penalty to most rolls until removed through spells or powers such as _[[rangoric-srd/spells/Restoration|restoration]]_ or [[rangoric-srd/powers/Restoration, Psionic|psionic restoration]]. If the character was 1st level at the time of death, he or she takes 2 points of [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|Constitution drain]] instead of gaining a negative level.
 
 Preventing Revivification: Enemies can take steps to make it more difficult for a character to be returned from the dead. Keeping the body prevents others from using a single manifestation of [[rangoric-srd/powers/Reality Revision|reality revision]] to restore the slain character to life.
 
@@ -133,7 +133,7 @@ Upon successfully making contact with another willing psionic character or creat
 
 ###### Using Stored Power Points
 
-A variety of psionic items exist to store power points for later use, in particular a storage device called a cognizance crystal. Regardless of what sort of item stores the power points, all psionic characters must follow strict rules when tapping stored power points.  
+A variety of psionic items exist to store power points for later use, in particular a storage device called a cognizance crystal. Regardless of what sort of item stores the power points, all psionic characters must follow strict rules when tapping stored power points.
 
 A Single Source: When using power points from a storage item to manifest a power, a psionic character may not pay the power’s cost with power points from more than one source. He must either use an item, his own power point reserve, or some other discrete power point source to pay the manifestation cost.
 
@@ -141,7 +141,7 @@ Recharging: Most power point storage devices allow psionic characters to “rech
 
 ### Special Abilities
 
-Psionic creatures can create psionic effects without having levels in a psionic class (although they can take a psionic class to further enhance their abilities); such creatures have the psionic subtype.  
+Psionic creatures can create psionic effects without having levels in a psionic class (although they can take a psionic class to further enhance their abilities); such creatures have the psionic subtype.
 
 Characters using dorjes, cognizance crystals, and other psionic items can also create psionic effects. In addition to existing spell-like and supernatural abilities, creatures can also have psi-like abilities. (Psionic creatures may also have extraordinary and natural abilities.)
 
@@ -149,27 +149,27 @@ Psi-Like Abilities (Ps): The manifestation of powers by a psionic character is c
 Psi-like abilities have no verbal, somatic, or material components, nor do they require a focus or have an XP cost (even if the equivalent power has an XP cost). The user activates them mentally. Armor never affects a psi-like ability’s use. A psi-like ability has a manifesting time of 1 standard action unless noted otherwise in the ability description. In all other ways, a psi-like ability functions just like a power. However, a psionic creature does not have to pay a psi-like ability’s power point cost.  
 Psi-like abilities are subject to power resistance and to being dispelled by [[rangoric-srd/powers/Dispel Psionics|dispel psionics]]. They do not function in areas where psionics is suppressed or negated.
 
-Supernatural Abilities: Some creatures have psionic abilities that are considered supernatural. Psionic feats are also supernatural abilities. These abilities cannot be disrupted in combat, as powers can be, and do not provoke attacks of opportunity (except as noted in their descriptions). Supernatural abilities are not subject to power resistance and cannot be negated or dispelled; however, they do not function in areas where psionics is suppressed.  
+Supernatural Abilities: Some creatures have psionic abilities that are considered supernatural. Psionic feats are also supernatural abilities. These abilities cannot be disrupted in combat, as powers can be, and do not provoke attacks of opportunity (except as noted in their descriptions). Supernatural abilities are not subject to power resistance and cannot be negated or dispelled; however, they do not function in areas where psionics is suppressed.
 
 ### Psionic Maladies
 
-Ability Burn: This is a special form of [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]] that cannot be magically or psionically healed. It is caused by the use of certain psionic feats and powers. It returns only through natural healing.  
+Ability Burn: This is a special form of [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]] that cannot be magically or psionically healed. It is caused by the use of certain psionic feats and powers. It returns only through natural healing.
 
-Disease, Cascade Flu: Spread by brain moles and other vermin. [[rangoric-srd/rules/Afflictions#Disease|Disease]], injury; *save* Fort DC 13; *onset* 1 day; *frequency* 1/day; *effect* psionic cascade; *cure* 2 consecutive saves.
+Disease, Cascade Flu: Spread by brain moles and other vermin. [[rangoric-srd/rules/Afflictions#Disease|Disease]], injury; _save_ Fort DC 13; _onset_ 1 day; _frequency_ 1/day; _effect_ psionic cascade; _cure_ 2 consecutive saves.
 
 A psionic cascade is a loss of control over psionic abilities. Using power points becomes dangerous for a character infected by cascade flu, once its onset has passed. Every time an afflicted character manifests a power, she must make a DC 16 [[rangoric-srd/psionics/Psionics#Concentration|Concentration]] check. On a failed check, a psionic cascade is triggered. The power operates normally, but during the following round, without the character’s volition, two additional powers she knows manifest randomly, and their power cost is deducted from the character’s reserve. During the next round, three additional powers manifest, and so on, until all the psionic character’s power points are drained. Powers with a range of personal or touch always affect the diseased character. For other powers that affect targets, roll d%: On a 01-50 result, the power affects the diseased character, and 51-00 indicates that the power targets other creatures in the vicinity. Psionic creatures (those that manifest their powers without paying points) cascade until all the powers they know have manifested at least twice.
 
 Psionic diseases are caught, run their course and are cured as any other [[rangoric-srd/rules/Afflictions#Disease|disease]] is.
 
-Disease, Cerebral Parasites: Spread by contact with infected psionic creatures. [[rangoric-srd/rules/Afflictions#Disease|Disease]], contact; *save* Fort DC 15; *onset* 1d4 days; *frequency* 1/day; *effect* 1d8 power points; *cure* 2 consecutive saves.
+Disease, Cerebral Parasites: Spread by contact with infected psionic creatures. [[rangoric-srd/rules/Afflictions#Disease|Disease]], contact; _save_ Fort DC 15; _onset_ 1d4 days; _frequency_ 1/day; _effect_ 1d8 power points; _cure_ 2 consecutive saves.
 
 Cerebral parasites are tiny organisms, undetectable to normal sight. An afflicted character may not even know he carries the parasites - until he discovers he has fewer power points for the day than expected. Psionic creatures with cerebral parasites are limited to using each of their known powers only once per day (instead of freely manifesting them). See the note about diseases under Cascade Flu, above.
 
-Negative Levels: Psionic characters can gain [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|negative levels]] just like members of other character classes. Like spellcasters, a psionic character doesn’t lose access to powers or lose power points as a result of negative levels; each negative level makes him one level lower for level-dependent variables, such as his manifester level.  
+Negative Levels: Psionic characters can gain [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|negative levels]] just like members of other character classes. Like spellcasters, a psionic character doesn’t lose access to powers or lose power points as a result of negative levels; each negative level makes him one level lower for level-dependent variables, such as his manifester level.
 
 ### Psionic Spells
 
-Listed below are arcane and divine spells that interact with psionics as well as a cleric domain, Mind.  
+Listed below are arcane and divine spells that interact with psionics as well as a cleric domain, Mind.
 
 ###### Bard Spells
 
@@ -179,13 +179,13 @@ Listed below are arcane and divine spells that interact with psionics as well as
 ###### Cleric Spells
 
 3rd-Level Cleric Spell  
-[[#Telepathic Bond, Lesser|Telepathic Bond, Lesser:]] As telepathic bond, but you and one other creature.  
+[[#Telepathic Bond, Lesser|Telepathic Bond, Lesser:]] As telepathic bond, but you and one other creature.
 
 4th-Level Cleric Spells  
-[[#Dweomer of Transference|Dweomer of Transference:]] Convert spellcasting into psionic power points.  
+[[#Dweomer of Transference|Dweomer of Transference:]] Convert spellcasting into psionic power points.
 
 5th-Level Cleric Spells  
-[[#Psychic Turmoil|Psychic Turmoil:]] Invisible field leeches psionic power points away.  
+[[#Psychic Turmoil|Psychic Turmoil:]] Invisible field leeches psionic power points away.
 
 7th-Level Cleric Spells  
 [[#Psychic Turmoil, Greater|Psychic Turmoil, Greater:]] As psychic turmoil, but you gain power points as temporary hp.
@@ -195,7 +195,7 @@ Listed below are arcane and divine spells that interact with psionics as well as
 
 ###### Mind Domain
 
-Granted Power: Gain a +2 bonus on [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Persuasion|Persuasion]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks. Gain a +2 bonus on Will saves against enchantment spells and effects.  
+Granted Power: Gain a +2 bonus on [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Persuasion|Persuasion]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks. Gain a +2 bonus on Will saves against enchantment spells and effects.
 
 Mind Domain Spells  
 1 [[rangoric-srd/spells/Comprehend Languages|Comprehend Languages:]] You understand all spoken and written languages.  
@@ -206,33 +206,33 @@ Mind Domain Spells
 6 [[#Probe Thoughts|Probe Thoughts:]] Read subject’s memories, one question/ round.  
 7 [[#Brain Spider|Brain Spider:]] Eavesdrop on thoughts of up to eight other creatures.  
 8 [[rangoric-srd/spells/Mind Blank|Mind Blank:]] Subject is immune to mental/emotional magic and scrying.  
-9 [[rangoric-srd/spells/Weird|Weird:]] Fearful illusion affects all within 30 ft., either killing or dealing 3d6 damage.  
+9 [[rangoric-srd/spells/Weird|Weird:]] Fearful illusion affects all within 30 ft., either killing or dealing 3d6 damage.
 
 ###### Sorcerer/Wizard Spells
 
 3rd-Level Sorcerer/Wizard Spell  
-[[#Telepathic Bond, Lesser|Telepathic Bond, Lesser:]] As telepathic bond, but you and one other creature.  
+[[#Telepathic Bond, Lesser|Telepathic Bond, Lesser:]] As telepathic bond, but you and one other creature.
 
 4th-Level Sorcerer/Wizard Spell  
-[[#Dweomer of Transference|Dweomer of Transference:]] Convert spellcasting into psionic power points.  
+[[#Dweomer of Transference|Dweomer of Transference:]] Convert spellcasting into psionic power points.
 
 5th-Level Sorcerer/Wizard Spell  
-[[#Psychic Turmoil|Psychic Turmoil:]] Invisible field leeches psionic power points away.  
+[[#Psychic Turmoil|Psychic Turmoil:]] Invisible field leeches psionic power points away.
 
- ^fourth-level-sorcerer-wizard-spells
+^fourth-level-sorcerer-wizard-spells
 
 6th-Level Sorcerer/Wizard Spell  
 [[#Mental Pinnacle|Mental Pinnacle (M):]] You gain the mental powers of a psion.  
 [[#Probe Thoughts|Probe Thoughts:]] Read subject’s memories, one question/ round.
 
 7th-Level Sorcerer/Wizard Spell  
-[[#Psychic Turmoil, Greater|Psychic Turmoil, Greater:]] As psychic turmoil, but you gain power points as temporary hit points.  
+[[#Psychic Turmoil, Greater|Psychic Turmoil, Greater:]] As psychic turmoil, but you gain power points as temporary hit points.
 
- ^seventh-level-sorcerer-wizard-spells
+^seventh-level-sorcerer-wizard-spells
 
 ##### Spell Descriptions
 
-The following spell descriptions are presented in alphabetical order.  
+The following spell descriptions are presented in alphabetical order.
 
 ###### Brain Spider
 
@@ -244,15 +244,15 @@ Range: Long (400 ft. + 40 ft./level)
 Targets: Up to eight living creatures  
 Duration: 1 min./level  
 Saving Throw: Will negates  
-Spell Resistance: Yes  
+Spell Resistance: Yes
 
 This spell allows you to eavesdrop as a standard action on the thoughts of up to eight other creatures at once, hearing as desired:
 
-  - Individual trains of thought in whatever order you desire.
+- Individual trains of thought in whatever order you desire.
 
-  - Information from all minds about one particular topic, thing, or being, one nugget of information per caster level.
+- Information from all minds about one particular topic, thing, or being, one nugget of information per caster level.
 
-  - A study of the thoughts and memories of one creature of the group in detail.
+- A study of the thoughts and memories of one creature of the group in detail.
 
 Once per round, if you do not perform a detailed study of one creature’s mind, you can attempt (as a standard action) to implant a [[rangoric-srd/spells/Suggestion|suggestion]] in the mind of any one of the affected creatures. The creature can make another Will saving throw to resist the suggestion, using the save DC of the brain spider spell. (Creatures with special resistance to enchantment spells can use this resistance to keep from being affected by the suggestion.) Success on this saving throw does not negate the other effects of the brain spider spell for that creature.
 
@@ -270,7 +270,7 @@ Range: Close (25 ft. + 5 ft./2 levels)
 Target: One willing psionic creature  
 Duration: 1 round/level  
 Saving Throw: Will negates (harmless)  
-Spell Resistance: Yes (harmless)  
+Spell Resistance: Yes (harmless)
 
 With this spell, you form a radiating corona around the head of a psionic ally, then convert some of your spells into psionic power points. When you finish casting dweomer of transference, a red-orange glow surrounds the psionic creature’s head. For the duration of the spell, any spells cast at the subject don’t have their usual effect, instead converting themselves harmlessly into psionic energy that the subject can use as energy for psionic powers. You can cast any spell you like at the subject, even area spells, effect spells, and spells for whom the subject would ordinarily not be a legitimate target. The spells don’t do anything other than provide the subject with power points, but you must still cast them normally, obeying the component and range requirements listed in the description of each spell.
 
@@ -299,7 +299,7 @@ Range: 60 ft.
 Area: Cone-shaped burst  
 Duration: Instantaneous  
 Saving Throw: Fortitude partial; see text  
-Spell Resistance: Yes  
+Spell Resistance: Yes
 
 You utter shrieks of nonsense and gibberish that thinking creatures find distracting and confusing. The spell affects only creatures with Intelligence scores of 3 or higher. Any such creatures within the spell’s area must succeed on Fortitude saves or be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round (if they have Intelligence scores of 20 or higher), [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1 round (if they have Intelligence scores between 10 and 19), or [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round (if they have Intelligence scores between 3 and 9). In addition, a creature within the spell’s area loses any psionic focus it might have had and takes a -4 penalty on [[rangoric-srd/psionics/Psionics#Concentration|Concentration]] checks for 1 round. These effects happen whether or not the creature succeeded on its save.
 
@@ -311,19 +311,19 @@ Components: V, S, M
 Casting Time: 1 standard action  
 Range: Personal  
 Target: You  
-Duration: 1 round/level  
+Duration: 1 round/level
 
 For a brief time, you achieve the mental dominance of a powerful psion, able to lash out at enemies using only the power of your mind. Your revel in your new mental powers to the point that you disdain using spells, even in the form of effects from magic items. You gain a +4 enhancement bonus to Intelligence and Wisdom, 3 power points per caster level, and access to the following powers.
 
-  - [[rangoric-srd/powers/Mind Thrust|Mind Thrust (A)]]: Deal 1d10 damage.
+- [[rangoric-srd/powers/Mind Thrust|Mind Thrust (A)]]: Deal 1d10 damage.
 
-  - [[rangoric-srd/powers/Ego Whip|Ego Whip (A)]]: Deal 1d4 Cha damage and [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|daze]] for 1 round.
+- [[rangoric-srd/powers/Ego Whip|Ego Whip (A)]]: Deal 1d4 Cha damage and [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|daze]] for 1 round.
 
-  - [[rangoric-srd/powers/Psionic Blast|Psionic Blast (A)]]: Stun creatures in 30-ft. cone for 1 round.
+- [[rangoric-srd/powers/Psionic Blast|Psionic Blast (A)]]: Stun creatures in 30-ft. cone for 1 round.
 
-  - [[rangoric-srd/powers/Id Insinuation|Id Insinuation:]] Swift tendrils of thought disrupt and [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confuse]] your target.
+- [[rangoric-srd/powers/Id Insinuation|Id Insinuation:]] Swift tendrils of thought disrupt and [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confuse]] your target.
 
-  - [[rangoric-srd/powers/Psychic Crush|Psychic Crush (A)]]: Brutally crush subject’s mental essence, reducing subject to -1 hit points.
+- [[rangoric-srd/powers/Psychic Crush|Psychic Crush (A)]]: Brutally crush subject’s mental essence, reducing subject to -1 hit points.
 
 You manifest the powers as a psion of your caster level does, creating displays as described in each power’s description. You lose your spellcasting ability, including your ability to use spell activation or spell completion magic items, just as if those spells were no longer on your class list. For the duration of this spell, you use magic items and psionic items as if you were a psion with only the five powers given above on your class list.
 
@@ -341,7 +341,7 @@ Range: Close (25 ft. + 5 ft./2 levels)
 Target: One living creature  
 Duration: Concentration  
 Saving Throw: Fortitude negates; see text  
-Spell Resistance: Yes  
+Spell Resistance: Yes
 
 All the subject’s memories and knowledge are accessible to you, ranging from memories deep below the surface to those still easily called to mind. You can learn the answer to one question per round, to the best of the subject’s knowledge. You can also probe a sleeping subject, though the subject may make a Will save against the DC of the probe thoughts spell to wake after each question. Subjects who do not wish to be probed can attempt to move beyond the power’s range, unless somehow hindered. You pose the questions telepathically, and the answers to those questions are imparted directly to your mind. You and the target do not need to speak the same language, though less intelligent creatures may yield up only appropriate visual images in answer to your questions.
 
@@ -355,7 +355,7 @@ Range: Close (25 ft. + 5 ft./2 levels)
 Area: 40-ft.-radius emanation centered on a point in space  
 Duration: 1 round/level  
 Saving Throw: Will partial; see text  
-Spell Resistance: Yes  
+Spell Resistance: Yes
 
 With this spell, you create an invisible field that leeches away the power points of psionic characters standing within the emanation. Nonpsionic characters are unaffected.
 
@@ -367,9 +367,9 @@ Material Component: Five playing cards, which are torn in half when the spell is
 
 Abjuration  
 Level: Cleric 7, sorcerer/wizard 7  
-Duration: 1 round/level  
+Duration: 1 round/level
 
-As [[#Psychic Turmoil|psychic turmoil]], except you gain 1 temporary hit point for each power point the spell takes from a psionic creature. The temporary hit points last for 1 hour.  
+As [[#Psychic Turmoil|psychic turmoil]], except you gain 1 temporary hit point for each power point the spell takes from a psionic creature. The temporary hit points last for 1 hour.
 
 ###### Telepathic Bond, Lesser
 
@@ -381,6 +381,6 @@ Range: 30 ft.
 Targets: You and one willing creature within 30 ft.  
 Duration: 10 min./level  
 Saving Throw: None  
-Spell Resistance: No  
+Spell Resistance: No
 
 You forge a telepathic bond with another creature with an Intelligence score of 6 or higher. The bond can be established only with a willing subject. You can communicate telepathically through the bond regardless of language. No special power or influence is established as a result of the bond. Once the bond is formed, it works over any distance (although not from one plane to another).

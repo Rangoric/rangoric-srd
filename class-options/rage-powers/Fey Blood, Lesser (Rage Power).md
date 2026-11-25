@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Fey Blood, Lesser
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su)._
 
 While raging, each time the barbarian confirms a critical hit, the target must succeed at a Will saving throw (DC = 10 + 1/2 the barbarian’s level + her Constitution modifier) or be [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1 round. This is a mind-affecting compulsion effect.
 

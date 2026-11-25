@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Breaking
 
-This enchantment increases the threat range of a weapon by one. Only bludgeoning weapons can be enchanted with *breaking*.
+This enchantment increases the threat range of a weapon by one. Only bludgeoning weapons can be enchanted with _breaking_.
 
-Moderate transmutation; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Shatter|shatter]]*; Price +2 bonus.
+Moderate transmutation; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Shatter|shatter]]_; Price +2 bonus.

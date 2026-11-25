@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Healer’s Stone
 
-*Alchana, Greater; Special*
+_Alchana, Greater; Special_
 
 One of the Five Great Alchana Stones, the Healer’s Stone is among the greatest feats of creation for white alchemists, as its powers exemplify their quest for perfection as exhibited in living matter. Wearing or holding the stone adds a +6 competence bonus on any [[rangoric-srd/skills/Medicine|Medicine]] checks and provides an automatic +2 to all Fortitude saves. It also has a primary power to create elixirs either wholly or when submerged in a quart of aqua clarissima (see table below; the aqua is absorbed and made part of the elixir, speeding up the process).
 
@@ -29,18 +29,18 @@ The Healer’s Stone is a white, opalescent stone with a dull shine like a pearl
 
 **Table: Elixir List**
 
-| Elixir | Charges | Creation Time (whole) | Creation Time (in aqua clarissima) |
-|---|---|---|---|
-| Elixir of Dwarvenkind | 1 | 1d6 days | 1d6 hours |
-| Elixir of Elvenkind | 1 | 1d6 days | 1d6 hours |
-| Elixir of Gnomekind | 1 | 1d6 days | 1d6 hours |
-| Elixir of Halflingkind | 1 | 1d6 days | 1d6 hours |
-| Elixir of Humankind | 1 | 1d6 days | 1d6 hours |
-| Elixir of Life (Impure) | 3 | 1d10 days | 3d10 hours |
-| Elixir of Life (Refined) | 4 | 1d12 days | 4d12 hours |
-| Elixir of Life (Pure) | 5 | 1d20 days | 5d20 hours |
-| Elixir of Orckind | 1 | 1d6 days | 1d6 hours |
-| Elixir of Purity | 2 | 1d8 days | 2d8 hours |
+| Elixir                   | Charges | Creation Time (whole) | Creation Time (in aqua clarissima) |
+| ------------------------ | ------- | --------------------- | ---------------------------------- |
+| Elixir of Dwarvenkind    | 1       | 1d6 days              | 1d6 hours                          |
+| Elixir of Elvenkind      | 1       | 1d6 days              | 1d6 hours                          |
+| Elixir of Gnomekind      | 1       | 1d6 days              | 1d6 hours                          |
+| Elixir of Halflingkind   | 1       | 1d6 days              | 1d6 hours                          |
+| Elixir of Humankind      | 1       | 1d6 days              | 1d6 hours                          |
+| Elixir of Life (Impure)  | 3       | 1d10 days             | 3d10 hours                         |
+| Elixir of Life (Refined) | 4       | 1d12 days             | 4d12 hours                         |
+| Elixir of Life (Pure)    | 5       | 1d20 days             | 5d20 hours                         |
+| Elixir of Orckind        | 1       | 1d6 days              | 1d6 hours                          |
+| Elixir of Purity         | 2       | 1d8 days              | 2d8 hours                          |
 
 While a Healer’s Stone is creating an elixir, there is a danger in interrupting or halting the process. Should the stone be removed from either its aqua or the beginnings of its own produced elixirs, the material becomes inert goo rather than an elixir and the charges are still lost. Also, after creating an elixir, a Healer’s Stone cannot be used actively (though its benefits can be gained while carried) for as many hours or days as the elixir took to create.
 

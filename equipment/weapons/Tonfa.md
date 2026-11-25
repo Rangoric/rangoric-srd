@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/close, weapon-group/monk, eastern
 
 # Tonfa
 
-*Martial light melee weapon (blocking, monk).* Cost 1 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 1 lb.; Type Bludgeoning. ^stats
+_Martial light melee weapon (blocking, monk)._ Cost 1 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 1 lb.; Type Bludgeoning. ^stats
 
 These L-shaped fighting sticks are good for striking and blocking combinations. The wielder holds the handle and either spins the stick or strikes with the stick covering the forearm.
 

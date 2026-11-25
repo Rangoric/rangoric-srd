@@ -39,17 +39,17 @@ tags: [rangoric, rangoric/spell]
 
 # Fear
 
-*Necromancy \[Fear, Mind-Affecting\]*
+_Necromancy \[Fear, Mind-Affecting\]_
 
-  - **Level**: Apl 4, Blr 4, Brd 3, Inq 4, Med 4, Mes 3, Occ 4, Psy 4, Sha 4, Skd 3, Sor/Wiz 4, Spi 4, Wit 4
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: 30 ft.
-  - **Area**: Cone-shaped burst
-  - **Duration**: 1 round/level or 1 round; see text
-  - **Saving Throw**: Will partial
-  - **Spell Resistance**: Yes
+- **Level**: Apl 4, Blr 4, Brd 3, Inq 4, Med 4, Mes 3, Occ 4, Psy 4, Sha 4, Skd 3, Sor/Wiz 4, Spi 4, Wit 4
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: 30 ft.
+- **Area**: Cone-shaped burst
+- **Duration**: 1 round/level or 1 round; see text
+- **Saving Throw**: Will partial
+- **Spell Resistance**: Yes
 
 An [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] cone of terror causes each living creature in the area to become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] unless it succeeds on a Will save. If cornered, a panicked creature begins [[rangoric-srd/rules/Special Abilities and Conditions#^cowering|cowering]]. If the Will save succeeds, the creature is [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round.
 
-*Material Component*: Either the heart of a hen or a white feather.
+_Material Component_: Either the heart of a hen or a white feather.

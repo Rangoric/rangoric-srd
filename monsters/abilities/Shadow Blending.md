@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Shadow Blending
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “shadow blending”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “shadow blending”, on the Special Qualities line.
 
 Attacks against a fetchling in dim light have a 50% miss chance instead of the normal 20% miss chance. This ability does not grant total concealment; it just increases the miss chance. The [[rangoric-srd/monsters/planetouched/Fetchling, 1st-Level Rogue|fetchling, 1st-level rogue]] has it.

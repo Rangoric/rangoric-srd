@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Feed of Restfulness
 
-*Herbal Restorative/Ingestible; Special*
+_Herbal Restorative/Ingestible; Special_
 
 A large animal or magical beast that consumes this feed gains the benefits of a full day’s (24 hours) rest with only 4 hours of sleep.
 

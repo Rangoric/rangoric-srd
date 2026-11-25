@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Fire Yai
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Fire, Giant, Native, Oni, Shapechanger)
-  - **Hit Dice**: 17d10+136 (229 hp)
-  - **Initiative**: +7
-  - **Speed**: 40 ft. (8 squares), fly 60 ft. (good); 30 ft., fly 40 ft. (good) in armor
-  - **Armor Class**: 29 (+8 armor, +1 Dex, +11 natural, –1 size), touch 10, flat-footed 28
-  - **Base Attack**: +17; **CMB**: +28; **CMD**: 41
-  - **Attack**: +1 katana\* +27 melee (2d6+16/18–20) or slam +26 melee (1d10+10) or fiery missile +19 ranged touch (4d6 fire plus [[rangoric-srd/monsters/abilities/Burn|burn]])
-  - **Full Attack**: +1 katana\* +27/+22/+17/+12 melee (2d6+16/18–20); or 2 slams +26 melee (1d10+10); or fiery missile +19 ranged touch (4d6 fire plus [[rangoric-srd/monsters/abilities/Burn|burn]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (2d6, DC 26), [[rangoric-srd/monsters/abilities/Smoke Form|smoke form]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or cold), [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (Medium or Large humanoid; alter self or giant form I), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 26, vulnerability to cold
-  - **Saves**: Fort +18, Ref +10, Will +15
-  - **Abilities**: Str 31, Dex 16, Con 26, Int 14, Wis 17, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Craft|Craft]] (armor) +12, [[rangoric-srd/skills/Craft|Craft]] (weapons) +12, [[rangoric-srd/skills/Deception|Deception]] +22, [[rangoric-srd/skills/Emulation|Emulation]] +14, [[rangoric-srd/skills/Imitation|Imitation]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +22, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-  - **Environment**: Temperate or warm hills or mountains
-  - **Organization**: Solitary, band (1 plus 4–8 fire giants), tribe (1 plus 20–30 fire giants), or dynasty (1 plus 2–20 other oni)
-  - **Challenge Rating**: 15
-  - **Treasure**: Standard (+1 banded mail, +1 katana, other treasure)
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Fire, Giant, Native, Oni, Shapechanger)
+- **Hit Dice**: 17d10+136 (229 hp)
+- **Initiative**: +7
+- **Speed**: 40 ft. (8 squares), fly 60 ft. (good); 30 ft., fly 40 ft. (good) in armor
+- **Armor Class**: 29 (+8 armor, +1 Dex, +11 natural, –1 size), touch 10, flat-footed 28
+- **Base Attack**: +17; **CMB**: +28; **CMD**: 41
+- **Attack**: +1 katana\* +27 melee (2d6+16/18–20) or slam +26 melee (1d10+10) or fiery missile +19 ranged touch (4d6 fire plus [[rangoric-srd/monsters/abilities/Burn|burn]])
+- **Full Attack**: +1 katana\* +27/+22/+17/+12 melee (2d6+16/18–20); or 2 slams +26 melee (1d10+10); or fiery missile +19 ranged touch (4d6 fire plus [[rangoric-srd/monsters/abilities/Burn|burn]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (2d6, DC 26), [[rangoric-srd/monsters/abilities/Smoke Form|smoke form]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or cold), [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (Medium or Large humanoid; alter self or giant form I), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 26, vulnerability to cold
+- **Saves**: Fort +18, Ref +10, Will +15
+- **Abilities**: Str 31, Dex 16, Con 26, Int 14, Wis 17, Cha 15
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Craft|Craft]] (armor) +12, [[rangoric-srd/skills/Craft|Craft]] (weapons) +12, [[rangoric-srd/skills/Deception|Deception]] +22, [[rangoric-srd/skills/Emulation|Emulation]] +14, [[rangoric-srd/skills/Imitation|Imitation]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +22, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+- **Environment**: Temperate or warm hills or mountains
+- **Organization**: Solitary, band (1 plus 4–8 fire giants), tribe (1 plus 20–30 fire giants), or dynasty (1 plus 2–20 other oni)
+- **Challenge Rating**: 15
+- **Treasure**: Standard (+1 banded mail, +1 katana, other treasure)
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Fire yai prefer to live in luxury—an orderly and well-built abode is essential. Even a lone fire yai prefers to build or inhabit a fortified stone dwelling in its territory, and surrounds itself with as many luxuries as it can acquire. Vain, greedy, and brutal, fire yai are the most impulsive of their kind—several tales tell of clever heroes taunting fire yai to act rashly. They rarely let challenges pass uncontested and react quickly to squelch any threat to their rule.
 
@@ -72,7 +72,7 @@ Fire yais speak Common and Giant.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 15th; concentration +17): Constant—*[[rangoric-srd/spells/Fly|fly]]*; At will—*[[rangoric-srd/spells/Darkness|darkness]]*, *[[rangoric-srd/spells/Invisibility|invisibility]]* (self only), *[[rangoric-srd/spells/Scorching Ray|scorching ray]]*; 3/day—*[[rangoric-srd/spells/Charm Monster|charm monster]]* (DC 16), *[[rangoric-srd/spells/Deep Slumber|deep slumber]]* (DC 15), *[[rangoric-srd/spells/Fireball|fireball]]* (DC 15), *[[rangoric-srd/spells/Fire Shield|fire shield]]* (warm shield only), *[[rangoric-srd/spells/Wall of Fire|wall of fire]]*; 1/day—*[[rangoric-srd/spells/Incendiary Cloud|incendiary cloud]]* (DC 20).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 15th; concentration +17): Constant—_[[rangoric-srd/spells/Fly|fly]]_; At will—_[[rangoric-srd/spells/Darkness|darkness]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only), _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_; 3/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 16), _[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (DC 15), _[[rangoric-srd/spells/Fireball|fireball]]_ (DC 15), _[[rangoric-srd/spells/Fire Shield|fire shield]]_ (warm shield only), _[[rangoric-srd/spells/Wall of Fire|wall of fire]]_; 1/day—_[[rangoric-srd/spells/Incendiary Cloud|incendiary cloud]]_ (DC 20).
 
 **Fiery Missile (Su)**: As a swift action, a fire yai can launch a bolt of fire from its third eye. This attack has a range of 180 feet with no range increment.
 

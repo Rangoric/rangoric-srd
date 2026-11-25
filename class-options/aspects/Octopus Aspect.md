@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Octopus Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The octopus is a cunning hunter, able to contort its malleable body with ease.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The octopus is a cunning hunter, able to contort its malleable body with ease._
 
 **Minor Form**: You gain a +4 competence bonus on Escape Artist checks.
 
@@ -26,6 +26,6 @@ At 8th level, you gain the jet ability (200 feet).
 
 At 15th level, you gain the ability to produce an ink cloud (see below) and deal an amount of bludgeoning damage with your tentacles attack equal to the damage dealt by your shifter claws.
 
-*Ink Cloud (Ex):* While within water, you can emit a 10-foot-radius sphere of ink once per minute as a swift action. This ink provides total concealment and persists for 1 minute.
+_Ink Cloud (Ex):_ While within water, you can emit a 10-foot-radius sphere of ink once per minute as a swift action. This ink provides total concealment and persists for 1 minute.
 
 **Alternate Natural Attacks**: Bite (B, P, S), tentacle (B)

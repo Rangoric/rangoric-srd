@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Cauldron of Brewing
 
-A *cauldron of brewing* looks like a fine cooking pot with four stout legs. The cauldron is capable of heating any liquid placed in it to a precise temperature (anywhere from just above room temperature to hot enough to boil salt water) and maintaining it indefinitely while still remaining only slightly warm to the touch on the outside. A *cauldron of brewing* provides a +5 competence bonus on [[rangoric-srd/skills/Craft|Craft]] (alchemy) skill checks.
+A _cauldron of brewing_ looks like a fine cooking pot with four stout legs. The cauldron is capable of heating any liquid placed in it to a precise temperature (anywhere from just above room temperature to hot enough to boil salt water) and maintaining it indefinitely while still remaining only slightly warm to the touch on the outside. A _cauldron of brewing_ provides a +5 competence bonus on [[rangoric-srd/skills/Craft|Craft]] (alchemy) skill checks.
 
 Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], trained in Craft (Alchemy); Price 3,000 gp; Cost 1,500 gp; Weight 5 lbs.

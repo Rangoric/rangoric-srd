@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Clothing Swathe, Thornswathe Gauntlets
 
-*Swathe/Erlcana; Special*
+_Swathe/Erlcana; Special_
 
 The so-called lesser swathes, clotheswathes are living plants fused to leather gloves or other articles of clothing to provide additional qualities to the wearer without the aid of magic. No command words or castings are required—each active ability has an appropriate activation mechanism (like throwing a beltswathe to activate its gifts). They also may have passive powers which operate at all times or only as needed (and times of need are reflexively noticed by the living plants of the swathe).
 

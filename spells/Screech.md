@@ -25,15 +25,15 @@ tags: [rangoric, rangoric/spell]
 
 # Screech
 
-*Evocation \[Sonic\]*
+_Evocation \[Sonic\]_
 
-  - **Level**: Wit 3
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: 30 ft.
-  - **Area**: 30-ft.-radius spread centered on you
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Wit 3
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: 30 ft.
+- **Area**: 30-ft.-radius spread centered on you
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
-You emit a shrill, piercing shriek, startling those around you into dropping their guard. Enemies in the area must make a successful saving throw or immediately provoke attacks of opportunity from foes that threaten them. You and your allies are unaffected by your own *screech*.
+You emit a shrill, piercing shriek, startling those around you into dropping their guard. Enemies in the area must make a successful saving throw or immediately provoke attacks of opportunity from foes that threaten them. You and your allies are unaffected by your own _screech_.

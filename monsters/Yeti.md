@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Yeti
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Cold)
-  - **Hit Dice**: 6d10+12 (45 hp)
-  - **Initiative**: +1
-  - **Speed**: 40 ft. (8 squares), climb 30 ft.
-  - **Armor Class**: 17 (+1 Dex, +7 natural, –1 size), touch 10, flat-footed 16
-  - **Base Attack**: +6; **CMB**: +11; **CMD**: 22
-  - **Attack**: Claw +9 melee (1d6+4 plus 1d6 cold)
-  - **Full Attack**: 2 claws +9 melee (1d6+4 plus 1d6 cold)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: Frightful [[rangoric-srd/monsters/abilities/Gaze|gaze]], [[rangoric-srd/monsters/abilities/Rend|rend]] (2 claws, 1d6+6 plus 1d6 cold)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]]
-  - **Saves**: Fort +6, Ref +6, Will +6
-  - **Abilities**: Str 19, Dex 12, Con 15, Int 9, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +1 (+9 in snow)
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Cold mountains
-  - **Organization**: Solitary, pair, or tribe (3–8)
-  - **Challenge Rating**: 4
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Cold)
+- **Hit Dice**: 6d10+12 (45 hp)
+- **Initiative**: +1
+- **Speed**: 40 ft. (8 squares), climb 30 ft.
+- **Armor Class**: 17 (+1 Dex, +7 natural, –1 size), touch 10, flat-footed 16
+- **Base Attack**: +6; **CMB**: +11; **CMD**: 22
+- **Attack**: Claw +9 melee (1d6+4 plus 1d6 cold)
+- **Full Attack**: 2 claws +9 melee (1d6+4 plus 1d6 cold)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: Frightful [[rangoric-srd/monsters/abilities/Gaze|gaze]], [[rangoric-srd/monsters/abilities/Rend|rend]] (2 claws, 1d6+6 plus 1d6 cold)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]]
+- **Saves**: Fort +6, Ref +6, Will +6
+- **Abilities**: Str 19, Dex 12, Con 15, Int 9, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +1 (+9 in snow)
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Cold mountains
+- **Organization**: Solitary, pair, or tribe (3–8)
+- **Challenge Rating**: 4
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Mysterious and rarely seen (save by victims), the yeti is a towering denizen of the loneliest and tallest mountain peaks. Those who dwell upon the lower reaches of such storied slopes whisper tales of “abominable snowmen” who come down from the heights to raid, taking livestock or even humans as prey and leaving behind only monstrous barefoot tracks in the bloodstained snow.
 

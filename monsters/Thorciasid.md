@@ -60,7 +60,7 @@ Organization: Solitary, pair, or infestation (4-7)    
 Challenge Rating: 22      
 Treasure: Standard      
 Alignment: Usually neutral      
-Advancement: 30-36 HD (Medium-size); 37-42 HD (Large)      
+Advancement: 30-36 HD (Medium-size); 37-42 HD (Large)    
 
 Thorciasids speak Common, Elven, Dwarven, and Giant.
 

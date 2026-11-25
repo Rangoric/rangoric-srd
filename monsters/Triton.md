@@ -37,30 +37,31 @@ change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
+
 # Triton
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native, Water)
-  - **Hit Dice**: 3d10+3 (19 hp)
-  - **Initiative**: +0
-  - **Speed**: 5 ft. (1 square), swim 40 ft.
-  - **Armor Class**: 14 (+4 natural), touch 10, flat-footed 14
-  - **Base Attack**: +3; **CMB**: +4; **CMD**: 14
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Trident|trident]] +5 melee (1d8+1) or [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +3 ranged (1d10/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Trident|trident]] +5 melee (1d8+1); or [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +3 ranged (1d10/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-  - **Saves**: Fort +4, Ref +1, Will +4
-  - **Abilities**: Str 12, Dex 10, Con 12, Int 13, Wis 13, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Craft|Craft]] (any one) +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +6
-  - **Feats**: [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]]
-  - **Environment**: Any oceans
-  - **Organization**: Solitary, company (2–5), squad (6–11), or band (12–21 plus 2–16 dolphins)
-  - **Challenge Rating**: 2
-  - **Treasure**: Standard (masterwork trident, heavy crossbow with 10 bolts, other treasure)
-  - **Alignment**: Usually neutral good
-  - **Advancement**: 4–9 HD (Medium)
-  - **Level Adjustment**: +2
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native, Water)
+- **Hit Dice**: 3d10+3 (19 hp)
+- **Initiative**: +0
+- **Speed**: 5 ft. (1 square), swim 40 ft.
+- **Armor Class**: 14 (+4 natural), touch 10, flat-footed 14
+- **Base Attack**: +3; **CMB**: +4; **CMD**: 14
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Trident|trident]] +5 melee (1d8+1) or [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +3 ranged (1d10/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Trident|trident]] +5 melee (1d8+1); or [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +3 ranged (1d10/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
+- **Saves**: Fort +4, Ref +1, Will +4
+- **Abilities**: Str 12, Dex 10, Con 12, Int 13, Wis 13, Cha 11
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Craft|Craft]] (any one) +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +6
+- **Feats**: [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]]
+- **Environment**: Any oceans
+- **Organization**: Solitary, company (2–5), squad (6–11), or band (12–21 plus 2–16 dolphins)
+- **Challenge Rating**: 2
+- **Treasure**: Standard (masterwork trident, heavy crossbow with 10 bolts, other treasure)
+- **Alignment**: Usually neutral good
+- **Advancement**: 4–9 HD (Medium)
+- **Level Adjustment**: +2
 
 These aquatic outsiders resemble merfolk, except where a merman has a single fish tail, a triton has two scaly, finned legs. They are the watchers of the sea, often using dolphins or other aquatic creatures as mounts, and maintaining a vigil against the evil races below the waves. Originally hailing from the Elemental Plane of Water, long ago the triton race migrated to the oceans of the Material Plane, and they are now fully adapted to life there. Their split legs allow them to hobble about slowly on land, but they rarely do so, preferring their natural environment and the greater mobility their forms afford there.
 
@@ -76,4 +77,4 @@ Tritons speak Common and Aquan.
 
 The reclusive tritons prefer to avoid combat, but they fiercely defend their homes. They attack with either melee or ranged weapons as the circumstances warrant. When encountered outside their lair, they are 90% likely to be mounted on friendly sea creatures such as porpoises.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +7): 1/day—*[[rangoric-srd/spells/Summon Nature’s Ally II|summon nature's ally II]]* (Small water elemental or 1d3 dolphins only).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +7): 1/day—_[[rangoric-srd/spells/Summon Nature’s Ally II|summon nature's ally II]]_ (Small water elemental or 1d3 dolphins only).

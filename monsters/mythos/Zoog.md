@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Zoog
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 2d10 (11 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares), climb 30 ft.
-  - **Armor Class**: 14 (+2 Dex, +2 size), touch 14, flat-footed 12
-  - **Base Attack**: +2; **CMB**: +2; **CMD**: 10 (14 vs. trip)
-  - **Attack**: Bite +6 melee (1d3–2 plus bleed 1) or claw +6 melee (1d2–2)
-  - **Full Attack**: Bite +6 melee (1d3–2 plus bleed 1) and 2 claws +6 melee (1d2–2)
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] 1, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Spell Sight|spell sight]], [[rangoric-srd/monsters/abilities/Otherworldly Touch|otherworldly touch]]
-  - **Saves**: Fort +3, Ref +5, Will +1
-  - **Abilities**: Str 6, Dex 15, Con 10, Int 5, Wis 12, Cha 5
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Perception|Perception]] +5
-  - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any forest
-  - **Organization**: Solitary, pair, gang (3–14), tribe (15+ plus 50% noncombatants)
-  - **Challenge Rating**: 1
-  - **Treasure**: Incidental
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 2d10 (11 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares), climb 30 ft.
+- **Armor Class**: 14 (+2 Dex, +2 size), touch 14, flat-footed 12
+- **Base Attack**: +2; **CMB**: +2; **CMD**: 10 (14 vs. trip)
+- **Attack**: Bite +6 melee (1d3–2 plus bleed 1) or claw +6 melee (1d2–2)
+- **Full Attack**: Bite +6 melee (1d3–2 plus bleed 1) and 2 claws +6 melee (1d2–2)
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] 1, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Spell Sight|spell sight]], [[rangoric-srd/monsters/abilities/Otherworldly Touch|otherworldly touch]]
+- **Saves**: Fort +3, Ref +5, Will +1
+- **Abilities**: Str 6, Dex 15, Con 10, Int 5, Wis 12, Cha 5
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Perception|Perception]] +5
+- **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any forest
+- **Organization**: Solitary, pair, gang (3–14), tribe (15+ plus 50% noncombatants)
+- **Challenge Rating**: 1
+- **Treasure**: Incidental
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Spiteful, nasty creatures with a taste for the flesh of sentient beings, zoogs lurk in the shadowy, moldering places of the world. Often mistaken merely for otherworldly animals, zoogs possess base intentions and vicious demeanors that set them apart from lowly beasts. Congregating in loose, tribal societies, these sinister creatures claim the depths of dark woodlands or moldy forests as their homes, favoring lands where the boundaries between worlds and planes grow thin and strange creatures—not unlike themselves—slip between reality's cracks.
 
@@ -73,7 +73,7 @@ Zoogs speak Aklo.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st; concentration -2): Constant—*[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Speak with Animals|speak with animals]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st; concentration -2): Constant—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_.
 
 **[[rangoric-srd/monsters/abilities/Otherworldly Touch|Otherworldly Touch]] (Ex)**: A zoog's natural attacks can strike incorporeal creatures as if they were ghost touch weapons.
 

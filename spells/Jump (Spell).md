@@ -35,17 +35,17 @@ tags: [rangoric, rangoric/spell]
 
 # Jump
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 1, Blr 1, Drd 1, Hun 1, Mag 1, Psy 1, Rgr 1, Sor/Wiz 1, Sum 1, SumU 1
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 min./level (D)
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes
+- **Level**: Alc 1, Blr 1, Drd 1, Hun 1, Mag 1, Psy 1, Rgr 1, Sor/Wiz 1, Sum 1, SumU 1
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 min./level (D)
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes
 
 The subject gets a +10 enhancement bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks. The enhancement bonus increases to +20 at caster level 5th, and to +30 (the maximum) at caster level 9th.
 
-*Material Component*: A grasshopper’s hind leg, which you break when the spell is cast.
+_Material Component_: A grasshopper’s hind leg, which you break when the spell is cast.

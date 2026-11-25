@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Detect Aberration
 
-*Divination*
+_Divination_
 
-  - **Level**: Drd 1, Hun 1, Psy 1, Rgr 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Area**: Cone-shaped emanation
-  - **Duration**: Concentration, up to 10 minutes/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Drd 1, Hun 1, Psy 1, Rgr 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Area**: Cone-shaped emanation
+- **Duration**: Concentration, up to 10 minutes/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-This spell functions like *[[rangoric-srd/spells/Detect Animals or Plants|detect animals or plants]]*, except it detects creatures of the aberration type.
+This spell functions like _[[rangoric-srd/spells/Detect Animals or Plants|detect animals or plants]]_, except it detects creatures of the aberration type.

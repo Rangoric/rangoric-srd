@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/thrown]
 
 # Chakram
 
-*Martial ranged weapon.* Cost 1 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Range Increment 30 ft.; Weight 1 lb.; Type Slashing. ^stats
+_Martial ranged weapon._ Cost 1 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Range Increment 30 ft.; Weight 1 lb.; Type Slashing. ^stats
 
 The chakram is a simple, elegant, and highly portable thrown weapon. It is a flat, open-centered metal discus with a sharpened edge. You can wield the chakram as a melee weapon, but it is not designed for such use; you take a –1 penalty on your attack roll with the weapon and must make a DC 15 Reflex save or cut yourself on the blade (half damage, no Strength modifier). You do not need to make this save if wearing heavy armor.

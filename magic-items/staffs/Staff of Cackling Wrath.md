@@ -23,12 +23,12 @@ tags: [rangoric, rangoric/magic-item]
 
 The thorns embedded in this gnarled length of wood make it rather tricky for the unwary to grasp. It allows use of the following spells:
 
-- *[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]* (1 charge)
-- *[[rangoric-srd/spells/Charm Person|charm person]]* (1 charge)
-- *[[rangoric-srd/spells/Hold Person|hold person]]* (1 charge)
-- *[[rangoric-srd/spells/Inflict Moderate Wounds|inflict moderate wounds]]* (1 charge)
-- *[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]* (2 charges)
-- *[[rangoric-srd/spells/Bestow Curse|bestow curse]]* (2 charges)
-- *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]* (2 charges)
+- _[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_ (1 charge)
+- _[[rangoric-srd/spells/Charm Person|charm person]]_ (1 charge)
+- _[[rangoric-srd/spells/Hold Person|hold person]]_ (1 charge)
+- _[[rangoric-srd/spells/Inflict Moderate Wounds|inflict moderate wounds]]_ (1 charge)
+- _[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]_ (2 charges)
+- _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (2 charges)
+- _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_ (2 charges)
 
-Moderate varied; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]*, *[[rangoric-srd/spells/Bestow Curse|bestow curse]]*, *[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]*, *[[rangoric-srd/spells/Charm Person|charm person]]*, *[[rangoric-srd/spells/Hold Person|hold person]]*, *[[rangoric-srd/spells/Inflict Moderate Wounds|inflict moderate wounds]]*, *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]*; Price 56,700 gp; Cost 28,350 gp; Weight 5 lbs.
+Moderate varied; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]_, _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_, _[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_, _[[rangoric-srd/spells/Charm Person|charm person]]_, _[[rangoric-srd/spells/Hold Person|hold person]]_, _[[rangoric-srd/spells/Inflict Moderate Wounds|inflict moderate wounds]]_, _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_; Price 56,700 gp; Cost 28,350 gp; Weight 5 lbs.

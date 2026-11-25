@@ -15,8 +15,8 @@ tags: [rangoric, rangoric/class-option]
 
 # Air Blessing
 
-*A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Air Domain|Air domain]].*
+_A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Air Domain|Air domain]]._
 
 **Zephyr’s Gift (minor)**: At 1st level, you can touch any one ranged weapon and enhance it with the quality of air. For 1 minute, any attacks made with the weapon take no penalties due to range. In addition, making a ranged attack with this weapon doesn’t provoke an attack of opportunity.
 
-**Soaring Assault (major)**: At 10th level, you can touch an ally and give her the gift of flight for 1 minute (as *[[rangoric-srd/spells/Fly|fly]]*). The ally gains a fly speed of 60 feet with average maneuverability. She gains a bonus on Acrobatics skill checks equal to your level. Whenever the ally succeeds at a charge attack while flying, that attack deals an amount of additional electricity damage equal to your level.
+**Soaring Assault (major)**: At 10th level, you can touch an ally and give her the gift of flight for 1 minute (as _[[rangoric-srd/spells/Fly|fly]]_). The ally gains a fly speed of 60 feet with average maneuverability. She gains a bonus on Acrobatics skill checks equal to your level. Whenever the ally succeeds at a charge attack while flying, that attack deals an amount of additional electricity damage equal to your level.

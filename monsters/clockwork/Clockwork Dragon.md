@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Clockwork Dragon
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]] (Clockwork)
-  - **Hit Dice**: 25d10+40 (177 hp)
-  - **Initiative**: +8
-  - **Speed**: 60 ft. (12 squares), fly 100 ft. (average), swim 60 ft.
-  - **Armor Class**: 34 (+4 Dex, +2 dodge, +20 natural, –2 size), touch 14, flat-footed 28
-  - **Base Attack**: +25; **CMB**: +39; **CMD**: 55 (59 vs. trip)
-  - **Attack**: Bite +35 melee (4d6+12) or claw +35 melee (2d8+12) or tail slap +35 melee (2d6+6) or wing +35 melee (2d6+6)
-  - **Full Attack**: Bite +35 melee (4d6+12) and 2 claws +35 melee (2d8+12) and tail slap +30 melee (2d6+6) and 2 wings +30 melee (2d6+6)
-  - **Space/Reach**: 15 ft./15 ft. (15 ft. with bite)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Adamantine Weapons|Adamantine weapons]], [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]] (100-ft. line, 14d6 fire damage, Reflex DC 22 half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Self-Destruction (Clockwork Dragon)|self-destruction]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], see invisibility, difficult to create, [[rangoric-srd/monsters/abilities/Efficient Winding (Clockwork Dragon)|efficient winding]], swift reactions, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/adamantine, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 20, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27, vulnerable to electricity
-  - **Saves**: Fort +8, Ref +14, Will +8
-  - **Abilities**: Str 34, Dex 19, Con —, Int —, Wis 11, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Perception|Perception]] +8
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
-  - **Environment**: Any land
-  - **Organization**: Solitary
-  - **Challenge Rating**: 16
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]] (Clockwork)
+- **Hit Dice**: 25d10+40 (177 hp)
+- **Initiative**: +8
+- **Speed**: 60 ft. (12 squares), fly 100 ft. (average), swim 60 ft.
+- **Armor Class**: 34 (+4 Dex, +2 dodge, +20 natural, –2 size), touch 14, flat-footed 28
+- **Base Attack**: +25; **CMB**: +39; **CMD**: 55 (59 vs. trip)
+- **Attack**: Bite +35 melee (4d6+12) or claw +35 melee (2d8+12) or tail slap +35 melee (2d6+6) or wing +35 melee (2d6+6)
+- **Full Attack**: Bite +35 melee (4d6+12) and 2 claws +35 melee (2d8+12) and tail slap +30 melee (2d6+6) and 2 wings +30 melee (2d6+6)
+- **Space/Reach**: 15 ft./15 ft. (15 ft. with bite)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Adamantine Weapons|Adamantine weapons]], [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]] (100-ft. line, 14d6 fire damage, Reflex DC 22 half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Self-Destruction (Clockwork Dragon)|self-destruction]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], see invisibility, difficult to create, [[rangoric-srd/monsters/abilities/Efficient Winding (Clockwork Dragon)|efficient winding]], swift reactions, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/adamantine, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 20, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27, vulnerable to electricity
+- **Saves**: Fort +8, Ref +14, Will +8
+- **Abilities**: Str 34, Dex 19, Con —, Int —, Wis 11, Cha 1
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Perception|Perception]] +8
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
+- **Environment**: Any land
+- **Organization**: Solitary
+- **Challenge Rating**: 16
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 While the clockwork goliaths possess more brute power, clockwork dragons' powerful breath weapons and mastery of flight make them more versatile and graceful killers. Designed for long flights and missions, the intricate winding mechanism of the clockwork dragon is more efficient than that of other clockwork constructs, partially because it reuses some of the energy generated by its intricate wings and the complex machinery of its breath weapon device. One of the most complicated and subtly crafted clockworks, its many moving parts are fortified by adamantine supports and fixtures, making this killing machine a brilliant mix of intricacy and unyielding terror.
 
@@ -77,4 +77,4 @@ The basic chassis and internal workings of the clockwork dragons are highly adap
 
 ### Construction
 
-CL 18th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Animate Objects|animate objects]]*, *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, and *[[rangoric-srd/spells/Limited Wish|limited wish]]*, creator must be at least caster level 18th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 20; Price 300,000 gp; Cost 162,500 gp.
+CL 18th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Animate Objects|animate objects]]_, _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, and _[[rangoric-srd/spells/Limited Wish|limited wish]]_, creator must be at least caster level 18th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 20; Price 300,000 gp; Cost 162,500 gp.

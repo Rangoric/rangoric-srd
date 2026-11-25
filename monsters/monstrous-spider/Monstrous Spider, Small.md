@@ -37,24 +37,24 @@ tags: [rangoric, rangoric/monster]
 
 # Monstrous Spider, Small
 
-  - Small Vermin
-  - **Hit Dice**: 1d8 (4 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares), climb 20 ft.
-  - **Armor Class**: 14 (+1 size, +3 Dex), touch 14, flat-footed 11
-  - **Base Attack**: +0; **CMB**: –3; **CMD**: 10 (22 vs. trip)
-  - **Attack**: Bite +4 melee (1d4–2 plus poison)
-  - **Full Attack**: Bite +4 melee (1d4–2 plus poison)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Poison, web
-  - **Special Qualities**: Darkvision 60 ft., tremorsense 60 ft., vermin traits
-  - **Saves**: Fort +2, Ref +3, Will +0
-  - **Abilities**: Str 7, Dex 17, Con 10, Int —, Wis 10, Cha 2
-  - **Skills**: Athletics +7\* (+15 climbing), Perception +4\*, Stealth +11\*
-  - **Feats**: Weapon FinesseB
-  - **Environment**: Temperate forests
-  - **Organization**: Colony (2–5) or swarm (6–11)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: None
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small Vermin
+- **Hit Dice**: 1d8 (4 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares), climb 20 ft.
+- **Armor Class**: 14 (+1 size, +3 Dex), touch 14, flat-footed 11
+- **Base Attack**: +0; **CMB**: –3; **CMD**: 10 (22 vs. trip)
+- **Attack**: Bite +4 melee (1d4–2 plus poison)
+- **Full Attack**: Bite +4 melee (1d4–2 plus poison)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Poison, web
+- **Special Qualities**: Darkvision 60 ft., tremorsense 60 ft., vermin traits
+- **Saves**: Fort +2, Ref +3, Will +0
+- **Abilities**: Str 7, Dex 17, Con 10, Int —, Wis 10, Cha 2
+- **Skills**: Athletics +7\* (+15 climbing), Perception +4\*, Stealth +11\*
+- **Feats**: Weapon FinesseB
+- **Environment**: Temperate forests
+- **Organization**: Colony (2–5) or swarm (6–11)
+- **Challenge Rating**: 1/2
+- **Treasure**: None
+- **Advancement**: —
+- **Level Adjustment**: —

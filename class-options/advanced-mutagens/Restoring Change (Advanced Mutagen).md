@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Restoring Change
 
-*A [[rangoric-srd/prestige-classes/Master Chymist#^master-chymist-advanced-mutagen|master chymist’s advanced mutagen]] (Su).*
+_A [[rangoric-srd/prestige-classes/Master Chymist#^master-chymist-advanced-mutagen|master chymist’s advanced mutagen]] (Su)._
 
 When the chymist assumes her mutagenic form or returns to her normal form from her mutagenic form, she heals a number of hit points equal to 1d8 + her character level.

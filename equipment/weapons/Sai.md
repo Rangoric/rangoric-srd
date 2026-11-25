@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/monk, eastern]
 
 # Sai
 
-*Exotic light melee weapon (disarm).* Cost 1 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Range Increment 10 ft.; Weight 1 lb.; Type Bludgeoning. ^stats
+_Exotic light melee weapon (disarm)._ Cost 1 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Range Increment 10 ft.; Weight 1 lb.; Type Bludgeoning. ^stats
 
 With a sai, you get a +4 bonus on [[rangoric-srd/combat/Combat Maneuvers#Disarm|combat maneuver checks]] made to disarm an enemy.
 

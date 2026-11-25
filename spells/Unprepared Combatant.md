@@ -34,15 +34,15 @@ tags: [rangoric, rangoric/spell]
 
 # Unprepared Combatant
 
-*Enchantment (Compulsion) \[Emotion, Mind-affecting\]*
+_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
 
-  - **Level**: Brd 1, Med 1, Mes 1, Psy 1, Skd 1, Sor/Wiz 1, Wit 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 1, Med 1, Mes 1, Psy 1, Skd 1, Sor/Wiz 1, Wit 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: 1 minute/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 The target takes a –4 penalty on initiative checks and Reflex saves.

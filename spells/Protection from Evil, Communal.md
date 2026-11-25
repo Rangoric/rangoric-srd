@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Protection from Evil, Communal
 
-*Abjuration \[Good\]*
+_Abjuration \[Good\]_
 
-  - **Level**: Clr 2, Inq 2, Pal 2, Sor/Wiz 2, Sum 2, SumU 2
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creatures touched
-  - **Duration**: 1 min./level (D)
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: No; see text
+- **Level**: Clr 2, Inq 2, Pal 2, Sor/Wiz 2, Sum 2, SumU 2
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creatures touched
+- **Duration**: 1 min./level (D)
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: No; see text
 
-This spell functions like *[[rangoric-srd/spells/Protection from Evil|protection from evil]]*, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-minute intervals among the creatures touched.
+This spell functions like _[[rangoric-srd/spells/Protection from Evil|protection from evil]]_, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-minute intervals among the creatures touched.

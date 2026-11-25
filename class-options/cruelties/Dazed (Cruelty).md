@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Dazed
 
-*A [[rangoric-srd/classes/Antipaladin#^antipaladin-cruelty|cruelty]], available from 6th level.*
+_A [[rangoric-srd/classes/Antipaladin#^antipaladin-cruelty|cruelty]], available from 6th level._
 
 The target is [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1 round.

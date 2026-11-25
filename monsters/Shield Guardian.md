@@ -36,27 +36,27 @@ tags: [rangoric, rangoric/monster]
 
 # Shield Guardian
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
-  - **Hit Dice**: 15d10+30 (112 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 24 (–1 size, +15 natural), touch 9, flat-footed 24
-  - **Base Attack**: +11; **CMB**: +18; **CMD**: 28
-  - **Attack**: Slam +16 melee (1d8+6)
-  - **Full Attack**: 2 slams +16 melee (1d8+6)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, find master, guard, low-light vision, [[rangoric-srd/spells/Shield Other|shield other]], spell storing
-  - **Saves**: Fort +5, Ref +5, Will +5
-  - **Abilities**: Str 22, Dex 10, Con —, Int —, Wis 10, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +24
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 8
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 16–24 HD (Large); 25–45 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
+- **Hit Dice**: 15d10+30 (112 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 24 (–1 size, +15 natural), touch 9, flat-footed 24
+- **Base Attack**: +11; **CMB**: +18; **CMD**: 28
+- **Attack**: Slam +16 melee (1d8+6)
+- **Full Attack**: 2 slams +16 melee (1d8+6)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, find master, guard, low-light vision, [[rangoric-srd/spells/Shield Other|shield other]], spell storing
+- **Saves**: Fort +5, Ref +5, Will +5
+- **Abilities**: Str 22, Dex 10, Con —, Int —, Wis 10, Cha 1
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +24
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 8
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 16–24 HD (Large); 25–45 HD (Huge)
+- **Level Adjustment**: —
 
 Created by spellcasters to be bodyguards, shield guardians are constructs that protect their masters with spells and stamina. When it is fashioned, a shield guardian is keyed to a particular magical amulet. Henceforth, it regards the wearer of that amulet to be its master, protecting and following that individual everywhere (unless specifically commanded not to do so).
 

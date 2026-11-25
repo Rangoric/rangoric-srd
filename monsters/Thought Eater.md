@@ -60,7 +60,7 @@ Full **Attack:** +4 melee touch (eat thoughts)   
 Treasure: None     
 **Alignment:** Usually neutral     
 **Advancement:** 4-6 HD (Small)     
-**Level Adjustment:** -     
+**Level Adjustment:** -   
 
 Thought eaters do not speak.
 

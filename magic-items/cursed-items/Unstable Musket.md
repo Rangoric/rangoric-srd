@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Unstable Musket
 
-This item seems to be a normal *+1 musket* but has a [[rangoric-srd/equipment/Firearms#Misfires|misfire]] chance of 1–5. No effect or ability can reduce this misfire chance. This musket must be used as its owner's primary ranged weapon and can only be discarded after the owner is subject to a *[[rangoric-srd/spells/Remove Curse|remove curse]]* spell or similar effect.
+This item seems to be a normal _+1 musket_ but has a [[rangoric-srd/equipment/Firearms#Misfires|misfire]] chance of 1–5. No effect or ability can reduce this misfire chance. This musket must be used as its owner's primary ranged weapon and can only be discarded after the owner is subject to a _[[rangoric-srd/spells/Remove Curse|remove curse]]_ spell or similar effect.
 
 Moderate transmutation; CL 6th; Intended magic item: +1 [[rangoric-srd/equipment/weapons/Musket|musket]].

@@ -26,18 +26,18 @@ tags: [rangoric, rangoric/constellation]
 
 # The Tortoise
 
-*[[rangoric-srd/rules/star magic/Star Magic|Constellation]]*
+_[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 
-  - **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Freedom|Freedom]], [[rangoric-srd/rules/star magic/stars/Star of Revelation|Revelation]]
-  - **Call Level**: 3rd ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Effect**: A vision of the future
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Stars**: [[rangoric-srd/rules/star magic/stars/Star of Freedom|Freedom]], [[rangoric-srd/rules/star magic/stars/Star of Revelation|Revelation]]
+- **Call Level**: 3rd ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Effect**: A vision of the future
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You see a brief vision of what may happen to you in the next few days. It is confused, broken and usually symbolic.
 

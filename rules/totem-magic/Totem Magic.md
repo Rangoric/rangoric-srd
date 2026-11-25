@@ -31,5 +31,4 @@ Each totem listed below grants unique abilities that directly relate to its anim
 - [[rangoric-srd/rules/totem-magic/totems/Rat (Totem)|Rat]]
 - [[rangoric-srd/rules/totem-magic/totems/Wolf (Totem)|Wolf]]
 
-A character links to a totem with the [[rangoric-srd/feats/Totem Link|Totem Link]] feat, and a [[rangoric-srd/prestige-classes/Totem Mage|totem mage]] builds on that link: totem shape (as *[[rangoric-srd/spells/Changeform|changeform]]*), totem friendship, a totem companion, totem fear, totem facets, the totem’s spells and, at 9th level, its totem ability.
-
+A character links to a totem with the [[rangoric-srd/feats/Totem Link|Totem Link]] feat, and a [[rangoric-srd/prestige-classes/Totem Mage|totem mage]] builds on that link: totem shape (as _[[rangoric-srd/spells/Changeform|changeform]]_), totem friendship, a totem companion, totem fear, totem facets, the totem’s spells and, at 9th level, its totem ability.

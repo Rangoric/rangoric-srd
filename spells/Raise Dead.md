@@ -30,16 +30,16 @@ tags: [rangoric, rangoric/spell]
 
 # Raise Dead
 
-*Conjuration (Healing)*
+_Conjuration (Healing)_
 
-  - **Level**: Clr 5, Sha 6, Spi 5, Wit 6
-  - **Components**: V, S, M, DF
-  - **Casting Time**: 1 minute
-  - **Range**: Touch
-  - **Target**: Dead creature touched
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None; see text
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Clr 5, Sha 6, Spi 5, Wit 6
+- **Components**: V, S, M, DF
+- **Casting Time**: 1 minute
+- **Range**: Touch
+- **Target**: Dead creature touched
+- **Duration**: Instantaneous
+- **Saving Throw**: None; see text
+- **Spell Resistance**: Yes (harmless)
 
 You restore life to a deceased creature. You can raise a creature that has been [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] for no longer than one day per caster level. In addition, the subject’s soul must be free and willing to return. If the subject’s soul is not willing to return, the spell does not work; therefore, a subject that wants to return receives no saving throw.
 
@@ -49,4 +49,4 @@ A raised creature has a number of hit points equal to its current Hit Dice. Any 
 
 A creature who has been turned into an undead creature or killed by a death effect can’t be raised by this spell. Constructs, elementals, outsiders, and undead creatures can’t be raised. The spell cannot bring back a creature that has died of old age.
 
-*Material Component*: Diamonds worth a total of least 5,000 gp.
+_Material Component_: Diamonds worth a total of least 5,000 gp.

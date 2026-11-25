@@ -20,15 +20,15 @@ tags: [rangoric, rangoric/class-option]
 
 # Iconoclast
 
-*An [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-archetypes|inquisitor]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-archetypes|inquisitor]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Some magic items are heretical by nature, enabling the unfaithful to spread wickedness. Iconoclasts seek out and remove such crutches, cleansing the taint these items exude.
 
 **Shake Effects (Ex)**: At 1st level, an iconoclast gains a +2 bonus on all saving throws against effects that come from a magic item. This ability replaces [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-monster-lore|monster lore]].
 
-**Detect Magic (Sp)**: At 2nd level, an iconoclast gains the ability to *[[rangoric-srd/spells/Detect Magic|detect magic]]* at will. This ability replaces *[[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-detect-alignment|detect alignment]]*.
+**Detect Magic (Sp)**: At 2nd level, an iconoclast gains the ability to _[[rangoric-srd/spells/Detect Magic|detect magic]]_ at will. This ability replaces _[[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-detect-alignment|detect alignment]]_.
 
-**Dispelling Attack (Sp)**: At 5th level, once per day as a standard action, an iconoclast can make a melee or ranged attack against an opponent, and if she hits, she can affect that opponent as if she had cast *[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, using the targeted dispel option. If she misses, this ability is wasted. Use her inquisitor level as the caster level of the *[[rangoric-srd/spells/Dispel Magic|dispel magic]]* effect. This ability replaces *[[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-discern-lies|discern lies]]*.
+**Dispelling Attack (Sp)**: At 5th level, once per day as a standard action, an iconoclast can make a melee or ranged attack against an opponent, and if she hits, she can affect that opponent as if she had cast _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, using the targeted dispel option. If she misses, this ability is wasted. Use her inquisitor level as the caster level of the _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_ effect. This ability replaces _[[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-discern-lies|discern lies]]_.
 
 **Negating Critical (Sp)**: At 14th level, when an iconoclast confirms a critical hit, the creature she hit must succeed at a Fortitude save at DC 10 + 1/2 the iconoclast's caster level + the iconoclast's Wisdom modifier for each non-artifact magic item the target is wearing or carrying. On a failed saving throw, the target of the critical hit can neither use nor gain benefit from any minor magic item for 1d4 rounds. This ability can be used in conjunction with [[rangoric-srd/feats/Feats Overview#Critical Feats|critical feats]]. This ability replaces [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-exploit-weakness|exploit weakness]].
 

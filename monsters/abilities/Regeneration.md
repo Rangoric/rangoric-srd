@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Regeneration
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “regeneration 5 (fire, acid)”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “regeneration 5 (fire, acid)”, on the Special Qualities line.
 
 A creature with this ability is difficult to kill. Creatures with regeneration heal damage at a fixed rate, as with [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]], but they cannot die as long as their regeneration is still functioning (although creatures with regeneration still fall [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] when their hit points are below 0). Certain attack forms, typically fire and acid, cause a creature’s regeneration to stop functioning on the round following the attack. During this round, the creature does not heal any damage and can die normally. The creature’s descriptive text describes the types of damage that cause the regeneration to cease functioning.
 

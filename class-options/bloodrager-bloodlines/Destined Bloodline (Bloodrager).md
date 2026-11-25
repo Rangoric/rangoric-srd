@@ -15,13 +15,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Destined Bloodline (Bloodrager)
 
-*A [[rangoric-srd/classes/Bloodrager#^bloodrager-bloodline|bloodrager bloodline]]. The [[rangoric-srd/class-options/bloodlines/Destined Bloodline|sorcerer’s destined bloodline]] shares the name but not the powers.*
+_A [[rangoric-srd/classes/Bloodrager#^bloodrager-bloodline|bloodrager bloodline]]. The [[rangoric-srd/class-options/bloodlines/Destined Bloodline|sorcerer’s destined bloodline]] shares the name but not the powers._
 
 Your bloodline is destined for great things. When you bloodrage, you exude a greatness that makes all but the most legendary creatures seem lesser.
 
 **Bonus Feats**: [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Leadership|Leadership]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]].
 
-**Bonus Spells**: *[[rangoric-srd/spells/Shield|Shield]]* (7th), *[[rangoric-srd/spells/Blur|blur]]* (10th), *[[rangoric-srd/spells/Protection from Energy|protection from energy]]* (13th), *[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]* (16th).
+**Bonus Spells**: _[[rangoric-srd/spells/Shield|Shield]]_ (7th), _[[rangoric-srd/spells/Blur|blur]]_ (10th), _[[rangoric-srd/spells/Protection from Energy|protection from energy]]_ (13th), _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_ (16th).
 
 ## Bloodline Powers
 

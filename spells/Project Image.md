@@ -30,16 +30,16 @@ tags: [rangoric, rangoric/spell]
 
 # Project Image
 
-*Illusion (Shadow)*
+_Illusion (Shadow)_
 
-  - **Level**: Brd 6, Mes 6, Occ 6, Psy 7, Skd 6, Sor/Wiz 7
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: One shadow duplicate
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: Will disbelief (if interacted with)
-  - **Spell Resistance**: No
+- **Level**: Brd 6, Mes 6, Occ 6, Psy 7, Skd 6, Sor/Wiz 7
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: One shadow duplicate
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: Will disbelief (if interacted with)
+- **Spell Resistance**: No
 
 You tap energy from the Plane of Shadow to create a quasi-real, illusory version of yourself. The projected image looks, sounds, and smells like you but is intangible. The projected image mimics your actions (including speech) unless you direct it to act differently (which is a move action).
 
@@ -51,4 +51,4 @@ Objects are affected by the projected image as if they had succeeded on their Wi
 
 You must maintain line of effect to the projected image at all times. If your line of effect is obstructed, the spell ends. If you use dimension door, teleport, plane shift, or a similar spell that breaks your line of effect, even momentarily, the spell ends.
 
-*Material Component*: A small replica of you (a doll), which costs 5 gp to create.
+_Material Component_: A small replica of you (a doll), which costs 5 gp to create.

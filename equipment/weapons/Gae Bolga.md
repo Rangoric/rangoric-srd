@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/spears, weapon-group/thrown]
 
 # Gae Bolga
 
-*Martial two-handed melee weapon.* Cost 20 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Range Increment 15 ft.; Weight 10 lb.; Type Piercing. ^stats
+_Martial two-handed melee weapon._ Cost 20 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Range Increment 15 ft.; Weight 10 lb.; Type Piercing. ^stats
 
 A heavy shortspear with a wickedly barbed head, the gae bolga is a feared weapon wielded by the mightiest warriors of certain barbarian tribes. When thrust into a wound, the barbs catch on the flesh and organs. When the spear is with-drawn, it tears the victim’s entrails out in a rather messy fashion.
 

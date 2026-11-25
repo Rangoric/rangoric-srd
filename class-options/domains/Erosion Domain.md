@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Erosion Domain
 
-*A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]; clerics can’t take it.*
+_A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]; clerics can’t take it._
 
 ## Granted Powers
 
@@ -26,14 +26,14 @@ You command the crumbling of stone and revel in rust; the decay and destruction 
 
 ## Domain Spells
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Expeditious Excavation\|Expeditious Excavation]] (M) | Moves 5-ft. cubes of earth. |
-| 2nd | [[rangoric-srd/spells/Soften Earth and Stone\|Soften Earth and Stone]] | Turns stone to clay or dirt to sand or mud. |
-| 3rd | [[rangoric-srd/spells/Disable Construct\|Disable Construct]] | Touch attack makes a construct helpless for 1 round/level. |
-| 4th | [[rangoric-srd/spells/Rusting Grasp\|Rusting Grasp]] | Your touch corrodes iron and alloys. |
-| 5th | [[rangoric-srd/spells/Transmute Rock to Mud\|Transmute Rock to Mud]] | Transforms two 10-ft. cubes per level. |
-| 6th | [[rangoric-srd/spells/Sympathetic Vibration\|Sympathetic Vibration]] (F) | Deals 2d10 damage/round to freestanding structure. |
-| 7th | [[rangoric-srd/spells/Disintegrate\|Disintegrate]] | Makes one creature or object vanish. |
-| 8th | [[rangoric-srd/spells/Earthquake\|Earthquake]] | Intense tremor shakes 5-ft./level radius. |
-| 9th | [[rangoric-srd/spells/Implosion\|Implosion]] | Kills one creature/round. |
+| Level | Spell                                                                      | Brief Description                                          |
+| ----- | -------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Expeditious Excavation\|Expeditious Excavation]] (M) | Moves 5-ft. cubes of earth.                                |
+| 2nd   | [[rangoric-srd/spells/Soften Earth and Stone\|Soften Earth and Stone]]     | Turns stone to clay or dirt to sand or mud.                |
+| 3rd   | [[rangoric-srd/spells/Disable Construct\|Disable Construct]]               | Touch attack makes a construct helpless for 1 round/level. |
+| 4th   | [[rangoric-srd/spells/Rusting Grasp\|Rusting Grasp]]                       | Your touch corrodes iron and alloys.                       |
+| 5th   | [[rangoric-srd/spells/Transmute Rock to Mud\|Transmute Rock to Mud]]       | Transforms two 10-ft. cubes per level.                     |
+| 6th   | [[rangoric-srd/spells/Sympathetic Vibration\|Sympathetic Vibration]] (F)   | Deals 2d10 damage/round to freestanding structure.         |
+| 7th   | [[rangoric-srd/spells/Disintegrate\|Disintegrate]]                         | Makes one creature or object vanish.                       |
+| 8th   | [[rangoric-srd/spells/Earthquake\|Earthquake]]                             | Intense tremor shakes 5-ft./level radius.                  |
+| 9th   | [[rangoric-srd/spells/Implosion\|Implosion]]                               | Kills one creature/round.                                  |

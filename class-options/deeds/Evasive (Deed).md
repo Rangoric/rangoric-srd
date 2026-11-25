@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Evasive
 
-*A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-deeds|swashbuckler deed]] (Ex), 11th level.*
+_A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-deeds|swashbuckler deed]] (Ex), 11th level._
 
 At 11th level, while a swashbuckler has at least 1 panache point, she gains the benefits of the [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-uncanny-dodge|uncanny dodge]], and [[rangoric-srd/classes/Rogue#^rogue-improved-uncanny-dodge|improved uncanny dodge]] rogue class features. She uses her swashbuckler level as her rogue level for improved uncanny dodge.

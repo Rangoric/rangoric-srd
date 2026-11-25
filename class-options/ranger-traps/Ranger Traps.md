@@ -16,7 +16,7 @@ The [[rangoric-srd/classes/Ranger|ranger]]’s traps: simple improvised traps th
 
 ## Setting a Ranger Trap
 
-Setting a trap is a full-round action that provokes attacks of opportunity. A trap fills a single 5-foot square, and cannot be placed in the same area as another ranger trap or a magical trap such as a *[[rangoric-srd/spells/Glyph of Warding|glyph of warding]]*. The ranger only needs simple materials to create the trap, such as a piece of cloth, a small amount of metal (such as a dagger, iron spike, or a few nails), a foot of rope or vine, and so on.
+Setting a trap is a full-round action that provokes attacks of opportunity. A trap fills a single 5-foot square, and cannot be placed in the same area as another ranger trap or a magical trap such as a _[[rangoric-srd/spells/Glyph of Warding|glyph of warding]]_. The ranger only needs simple materials to create the trap, such as a piece of cloth, a small amount of metal (such as a dagger, iron spike, or a few nails), a foot of rope or vine, and so on.
 
 The DCs for [[rangoric-srd/skills/Investigation|Investigation]] checks to notice the trap, [[rangoric-srd/skills/Engineering|Engineering]] checks to disable it, and saving throws to avoid it are equal to 10 + 1/2 the character’s level + the character’s Wisdom bonus. All ranger traps have a location trigger and no reset (they work once). ^ranger-traps-dc
 

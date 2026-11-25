@@ -32,16 +32,16 @@ tags: [rangoric, rangoric/spell]
 
 # Touch of Idiocy
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Blr 2, Med 2, Mes 2, Psy 2, Sor/Wiz 2, Spi 2, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Living creature touched
-  - **Duration**: 10 min./level
-  - **Saving Throw**: No
-  - **Spell Resistance**: Yes
+- **Level**: Blr 2, Med 2, Mes 2, Psy 2, Sor/Wiz 2, Spi 2, Wit 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Living creature touched
+- **Duration**: 10 min./level
+- **Saving Throw**: No
+- **Spell Resistance**: Yes
 
 With a touch, you reduce the target’s mental faculties. Your successful melee touch attack applies a 1d6 penalty to the target’s Intelligence, Wisdom, and Charisma scores. This penalty can’t reduce any of these scores below 1.
 

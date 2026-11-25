@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Dwarf Paladin
 
-*A [[rangoric-srd/races/Dwarf|dwarf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Paladin#^paladin-class-bonuses|paladin]] level.*
+_A [[rangoric-srd/races/Dwarf|dwarf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Paladin#^paladin-class-bonuses|paladin]] level._
 
 Add a +1 bonus on [[rangoric-srd/rules/Concentration (Check)|concentration checks]] when casting paladin spells.

@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/monk, weapon-group/thrown, easter
 
 # Shuriken
 
-*Exotic ranged weapon.* Cost 1 gp; Dmg 1 (S), 1d2 (M); Critical x2; Range Increment 10 ft.; Weight 1/2 lb.; Type Piercing. ^stats
+_Exotic ranged weapon._ Cost 1 gp; Dmg 1 (S), 1d2 (M); Critical x2; Range Increment 10 ft.; Weight 1/2 lb.; Type Piercing. ^stats
 
 A shuriken is a special monk weapon. This designation gives a monk wielding shuriken special options. A shuriken can’t be used as a melee weapon.
 

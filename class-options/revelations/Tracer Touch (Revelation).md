@@ -15,9 +15,9 @@ tags: [rangoric, rangoric/class-option]
 
 # Tracer Touch
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Sp) of the [[rangoric-srd/class-options/mysteries/Intrigue Mystery|intrigue]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Sp) of the [[rangoric-srd/class-options/mysteries/Intrigue Mystery|intrigue]] mystery._
 
-Once per day, you can touch a creature or object and plant a scrying sensor on it, as if you had cast *[[rangoric-srd/spells/Vicarious View|vicarious view]]*.
+Once per day, you can touch a creature or object and plant a scrying sensor on it, as if you had cast _[[rangoric-srd/spells/Vicarious View|vicarious view]]_.
 
 At 15th level, you can use this ability twice per day.
 

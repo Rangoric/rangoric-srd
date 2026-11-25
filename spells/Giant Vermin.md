@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Giant Vermin
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Clr 4, Drd 4, Hun 4, Sha 4, Tot 4
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Targets**: Up to three vermin, no two of which can be more than 30 ft. apart
-  - **Duration**: 1 min./level
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Clr 4, Drd 4, Hun 4, Sha 4, Tot 4
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Targets**: Up to three vermin, no two of which can be more than 30 ft. apart
+- **Duration**: 1 min./level
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 You turn three normal-sized centipedes, two normal-sized spiders, or a single normal-sized scorpion into larger forms. Only one type of vermin can be transmuted (so a single casting cannot affect both a centipede and a spider), and all must be grown to the same size. The size to which the vermin can be grown depends on your level; see the table below.
 

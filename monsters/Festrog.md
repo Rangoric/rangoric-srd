@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Festrog
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 2d8 (9 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares); four-footed run
-  - **Armor Class**: 14 (+1 Dex, +3 natural), touch 11, flat-footed 13
-  - **Base Attack**: +1; **CMB**: +4; **CMD**: 15 (19 vs. trip)
-  - **Attack**: Bite +4 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Feed|feed]]) or claw +5 melee (1d4+3)
-  - **Full Attack**: Bite +4 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Feed|feed]]) and 2 claws +5 melee (1d4+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Charging Trip|Charging trip]], [[rangoric-srd/monsters/abilities/Diseased Pustules|diseased pustules]], [[rangoric-srd/monsters/abilities/Feed|feed]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-  - **Saves**: Fort +0, Ref +1, Will +4
-  - **Abilities**: Str 17, Dex 13, Con —, Int 10, Wis 12, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +6
-  - **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
-  - **Environment**: Any land
-  - **Organization**: Solitary, pair, gang (3–5), or pack (6–11)
-  - **Challenge Rating**: 1
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 2d8 (9 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares); four-footed run
+- **Armor Class**: 14 (+1 Dex, +3 natural), touch 11, flat-footed 13
+- **Base Attack**: +1; **CMB**: +4; **CMD**: 15 (19 vs. trip)
+- **Attack**: Bite +4 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Feed|feed]]) or claw +5 melee (1d4+3)
+- **Full Attack**: Bite +4 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Feed|feed]]) and 2 claws +5 melee (1d4+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Charging Trip|Charging trip]], [[rangoric-srd/monsters/abilities/Diseased Pustules|diseased pustules]], [[rangoric-srd/monsters/abilities/Feed|feed]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
+- **Saves**: Fort +0, Ref +1, Will +4
+- **Abilities**: Str 17, Dex 13, Con —, Int 10, Wis 12, Cha 11
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +6
+- **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
+- **Environment**: Any land
+- **Organization**: Solitary, pair, gang (3–5), or pack (6–11)
+- **Challenge Rating**: 1
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A festrog is an undead abomination spawned when a creature is killed by a massive release of negative energy (perhaps due to planar bleeding, the destruction of a potent artifact, or even certain magical attacks by powerful undead), and then mutilated by an outside force, such as the scavenging of wild animals. Sometimes called dog-ghouls for their ability to run on all fours, the name often causes opponents to misinterpret this creature's abilities and grossly underestimate its intelligence, for the festrog is in fact a rather canny monstrosity.
 
@@ -73,7 +73,7 @@ Festrogs speak Common.
 
 **[[rangoric-srd/monsters/abilities/Diseased Pustules|Diseased Pustules]] (Ex)**: When a festrog takes damage from a piercing or slashing weapon, some of its boils rupture, squirting the attacker with puslike fluids. The noxious secretions carry a potent contact disease that causes those infected to break out into painful necrotic boils.
 
-[[rangoric-srd/rules/afflictions/Necrotic Boils|Necrotic Boils]]: contact; *save* Fort DC 11; *onset* 1 day; *frequency* 1/day; *effect* 1d4 Con; *cure* 1 save.
+[[rangoric-srd/rules/afflictions/Necrotic Boils|Necrotic Boils]]: contact; _save_ Fort DC 11; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d4 Con; _cure_ 1 save.
 
 **[[rangoric-srd/monsters/abilities/Feed|Feed]] (Su)**: Every time a festrog makes a successful bite attack, it feeds on its opponent's flesh and gains 5 temporary hit points. The festrog cannot have more than 5 temporary hit points gained by this ability at one time.
 

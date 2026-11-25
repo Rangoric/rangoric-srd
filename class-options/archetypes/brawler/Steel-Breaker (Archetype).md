@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Steel-Breaker
 
-*A [[rangoric-srd/classes/Brawler#^brawler-archetypes|brawler]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Brawler#^brawler-archetypes|brawler]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 The steel-breaker studies destruction and practices it as an art form. She knows every defense has a breaking point, and can shatter those defenses with carefully planned strikes.
 

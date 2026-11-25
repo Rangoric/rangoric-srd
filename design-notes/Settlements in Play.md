@@ -12,14 +12,14 @@ tags: [rangoric, rangoric/designer-reference]
 
 # Settlements in Play
 
-*GM advice for running towns and cities quickly: settlement stat blocks, modifiers, governments, qualities and disadvantages.*
+_GM advice for running towns and cities quickly: settlement stat blocks, modifiers, governments, qualities and disadvantages._
 
 A settlement's population is left to the GM to assign, but you can use a settlement's type to help you determine just how many folks live in the city. Since the actual number of people who dwell in a settlement has no impact on game play, the number you choose is largely cosmetic—feel free to adjust the suggested values below to fit your campaign.
 
 **Table: Settlement Population Ranges**
 
 | Settlement Type | Population Range |
-|-----------------|------------------|
+| --------------- | ---------------- |
 | Thorp           | Fewer than 20    |
 | Hamlet          | 21–60            |
 | Village         | 61–200           |
@@ -66,7 +66,7 @@ A settlement stat block is organized as follows.
 **Table: Settlement Statistics**
 
 | Type       | Modifiers | Qualities | Danger | Base Value | Purchase Limit | Spellcasting |
-|------------|-----------|-----------|--------|------------|----------------|--------------|
+| ---------- | --------- | --------- | ------ | ---------- | -------------- | ------------ |
 | Thorp      | –4        | 1         | –10    | 50 gp      | 500 gp         | 1st          |
 | Hamlet     | –2        | 1         | –5     | 200 gp     | 1,000 gp       | 2nd          |
 | Village    | –1        | 2         | 0      | 500 gp     | 2,500 gp       | 3rd          |
@@ -79,7 +79,7 @@ A settlement stat block is organized as follows.
 **Table: Available Magic Items**
 
 | Community Size                                                  | Base Value | Minor     | Medium    | Major     |
-|-----------------------------------------------------------------|------------|-----------|-----------|-----------|
+| --------------------------------------------------------------- | ---------- | --------- | --------- | --------- |
 | Thorp                                                           | 50 gp      | 1d4 items | —         | —         |
 | Hamlet                                                          | 200 gp     | 1d6 items | —         | —         |
 | Village                                                         | 500 gp     | 2d4 items | 1d4 items | —         |
@@ -114,15 +114,15 @@ Life in a settlement is represented by six modifiers, each of which adjusts the 
 
 Just like nations, towns and cities are ruled by governments. A settlement's government not only helps to establish the flavor and feel of the community but also adjusts its modifiers. Choose one of the following as the settlement's government.
 
-**Autocracy**: A single individual chosen by the people rules the community. This leader's actual title can vary—mayor, burgomaster, lord, or even royal titles like duke or prince are common. (*No modifiers*)
+**Autocracy**: A single individual chosen by the people rules the community. This leader's actual title can vary—mayor, burgomaster, lord, or even royal titles like duke or prince are common. (_No modifiers_)
 
-**Council**: A group of councilors, often composed of guild masters or members of the aristocracy, leads the settlement. (*Society +4; Law and Lore –2*)
+**Council**: A group of councilors, often composed of guild masters or members of the aristocracy, leads the settlement. (_Society +4; Law and Lore –2_)
 
-**Magical**: An individual or group with potent magical power, such as a high priest, an archwizard, or even a magical monster, leads the community. (*Lore +2; Corruption and Society –2; increase spellcasting by 1 level*)
+**Magical**: An individual or group with potent magical power, such as a high priest, an archwizard, or even a magical monster, leads the community. (_Lore +2; Corruption and Society –2; increase spellcasting by 1 level_)
 
-**Overlord**: The community's ruler is a single individual who either seized control or inherited command of the settlement. (*Corruption and Law +2; Crime and Society –2*)
+**Overlord**: The community's ruler is a single individual who either seized control or inherited command of the settlement. (_Corruption and Law +2; Crime and Society –2_)
 
-**Secret Syndicate**: An unofficial or illegal group like a thieves' guild rules the settlement—they may use a puppet leader to maintain secrecy, but the group members pull the strings in town. (*Corruption, Economy, and Crime +2; Law –6*)
+**Secret Syndicate**: An unofficial or illegal group like a thieves' guild rules the settlement—they may use a puppet leader to maintain secrecy, but the group members pull the strings in town. (_Corruption, Economy, and Crime +2; Law –6_)
 
 ## Settlement Qualities
 
@@ -130,43 +130,43 @@ Settlements often have unusual qualities that make them unique. Listed below are
 
 Note that many of the following qualities adjust a town's base value or purchase limit by a percentage of the town's standard values. If a town has multiple qualities of this sort, add together the percentages from modifiers and then increase the base value by that aggregated total—do not apply the increases one at a time.
 
-**Academic**: The settlement possesses a school, training facility, or university of great renown. (*Lore +1, increase spellcasting by 1 level*)
+**Academic**: The settlement possesses a school, training facility, or university of great renown. (_Lore +1, increase spellcasting by 1 level_)
 
-**Holy Site**: The settlement hosts a shrine, temple, or landmark with great significance to one or more religions. The settlement has a higher percentage of divine spellcasters in its population. (*Corruption –2; increase spellcasting by 2 levels*)
+**Holy Site**: The settlement hosts a shrine, temple, or landmark with great significance to one or more religions. The settlement has a higher percentage of divine spellcasters in its population. (_Corruption –2; increase spellcasting by 2 levels_)
 
-**Insular**: The settlement is isolated, perhaps physically or even spiritually. Its citizens are fiercely loyal to one another. (*Law +1; Crime –1*)
+**Insular**: The settlement is isolated, perhaps physically or even spiritually. Its citizens are fiercely loyal to one another. (_Law +1; Crime –1_)
 
-**Magically Attuned**: The settlement is a haven for spellcasters due to its location; for example, it may lie at the convergence of multiple ley lines or near a well-known magical site. (*Increase base value by 20%; increase purchase limit by 20%; increase spellcasting by 2 levels*)
+**Magically Attuned**: The settlement is a haven for spellcasters due to its location; for example, it may lie at the convergence of multiple ley lines or near a well-known magical site. (_Increase base value by 20%; increase purchase limit by 20%; increase spellcasting by 2 levels_)
 
-**Notorious**: The settlement has a reputation (deserved or not) for being a den of iniquity. Thieves, rogues, and cutthroats are much more common here. (*Crime +1; Law –1; Danger +10; increase base value by 30%; increase purchase limit by 50%*)
+**Notorious**: The settlement has a reputation (deserved or not) for being a den of iniquity. Thieves, rogues, and cutthroats are much more common here. (_Crime +1; Law –1; Danger +10; increase base value by 30%; increase purchase limit by 50%_)
 
-**Pious**: The settlement is known for its inhabitants' good manners, friendly spirit, and deep devotion to a deity (this deity must be of the same alignment as the community). (*Increase spellcasting by 1 level*; *any faith more than one alignment step different than the community's official religion is at best unwelcome and at worst outlawed—obvious worshipers of an outlawed deity must pay 150% of the normal price for goods and services and may face mockery, insult, or even violence*)
+**Pious**: The settlement is known for its inhabitants' good manners, friendly spirit, and deep devotion to a deity (this deity must be of the same alignment as the community). (_Increase spellcasting by 1 level_; _any faith more than one alignment step different than the community's official religion is at best unwelcome and at worst outlawed—obvious worshipers of an outlawed deity must pay 150% of the normal price for goods and services and may face mockery, insult, or even violence_)
 
-**Prosperous**: The settlement is a popular hub for trade. Merchants are wealthy and the citizens live well. (*Economy +1; increase base value by 30%; increase purchase limit by 50%*)
+**Prosperous**: The settlement is a popular hub for trade. Merchants are wealthy and the citizens live well. (_Economy +1; increase base value by 30%; increase purchase limit by 50%_)
 
-**Racially Intolerant**: The community is prejudiced against one or more races, which are listed in parentheses. (*Members of the unwelcome race or races must pay 150% of the normal price for goods and services and may face mockery, insult, or even violence*)
+**Racially Intolerant**: The community is prejudiced against one or more races, which are listed in parentheses. (_Members of the unwelcome race or races must pay 150% of the normal price for goods and services and may face mockery, insult, or even violence_)
 
-**Rumormongering Citizens**: The settlement's citizens are nosy and gossipy to a fault—very little happens in the settlement that no one knows about. (*Lore +1; Society –1*)
+**Rumormongering Citizens**: The settlement's citizens are nosy and gossipy to a fault—very little happens in the settlement that no one knows about. (_Lore +1; Society –1_)
 
-**Strategic Location**: The settlement sits at an important crossroads or alongside a deepwater port, or it serves as a barrier to a pass or bridge. (*Economy +1; increase base value by 10%*)
+**Strategic Location**: The settlement sits at an important crossroads or alongside a deepwater port, or it serves as a barrier to a pass or bridge. (_Economy +1; increase base value by 10%_)
 
-**Superstitious**: The community has a deep and abiding fear of magic and the unexplained, but this fear has caused its citizens to become more supportive and loyal to each other and their settlement. (*Crime –4; Law and Society +2; reduce spellcasting by 2 levels*)
+**Superstitious**: The community has a deep and abiding fear of magic and the unexplained, but this fear has caused its citizens to become more supportive and loyal to each other and their settlement. (_Crime –4; Law and Society +2; reduce spellcasting by 2 levels_)
 
-**Tourist Attraction**: The settlement possesses some sort of landmark or event that draws visitors from far and wide. (*Economy +1; increase base value by 20%*)
+**Tourist Attraction**: The settlement possesses some sort of landmark or event that draws visitors from far and wide. (_Economy +1; increase base value by 20%_)
 
 ## Settlement Disadvantages
 
 Just as a settlement can have unusual qualities to enhance its statistics, it can also suffer from disadvantages. There's no limit to the number of disadvantages a community can suffer, but most do not have disadvantages, since a settlement plagued by disadvantages for too long eventually collapses. A disadvantage can arise as the result of an event or action taken by a powerful or influential NPC or PC. Likewise, by going on a quest or accomplishing a noteworthy deed, a group of heroes can remove a settlement's disadvantage. Several disadvantages are listed below.
 
-**Anarchy**: The settlement has no leaders—this type of community is often short-lived and dangerous. (*Replaces settlement's Government and removes Government adjustments to modifiers*; *Corruption and Crime +4; Economy and Society –4; Law –6; Danger +20*)
+**Anarchy**: The settlement has no leaders—this type of community is often short-lived and dangerous. (_Replaces settlement's Government and removes Government adjustments to modifiers_; _Corruption and Crime +4; Economy and Society –4; Law –6; Danger +20_)
 
-**Cursed**: Some form of curse afflicts the city. Its citizens might be prone to violence or suffer ill luck, or they could be plagued by an infestation of pests. (*Choose one modifier and reduce its value by 4*)
+**Cursed**: Some form of curse afflicts the city. Its citizens might be prone to violence or suffer ill luck, or they could be plagued by an infestation of pests. (_Choose one modifier and reduce its value by 4_)
 
-**Hunted**: A powerful group or monster uses the city as its hunting ground. Citizens live in fear and avoid going out on the streets unless necessary. *(Economy, Law, and Society –4; Danger +20; reduce base value by 20%)*
+**Hunted**: A powerful group or monster uses the city as its hunting ground. Citizens live in fear and avoid going out on the streets unless necessary. _(Economy, Law, and Society –4; Danger +20; reduce base value by 20%)_
 
-**Impoverished**: Because of any number of factors, the settlement is destitute. Poverty, famine, and disease run rampant. (*Corruption and Crime +1; decrease base value and purchase limit by 50%; halve magic item availability*)
+**Impoverished**: Because of any number of factors, the settlement is destitute. Poverty, famine, and disease run rampant. (_Corruption and Crime +1; decrease base value and purchase limit by 50%; halve magic item availability_)
 
-**Plagued**: The community is suffering from a protracted contagion or malady. (*–2 to all modifiers; reduce base value by 20%; select a communicable disease—there's a 5% chance each day that a PC is exposed to the disease and must make a Fortitude save to avoid contracting the illness*)
+**Plagued**: The community is suffering from a protracted contagion or malady. (_–2 to all modifiers; reduce base value by 20%; select a communicable disease—there's a 5% chance each day that a PC is exposed to the disease and must make a Fortitude save to avoid contracting the illness_)
 
 ## Sample Settlements
 

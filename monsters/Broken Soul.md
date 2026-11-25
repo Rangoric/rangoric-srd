@@ -45,28 +45,28 @@ tags: [rangoric, rangoric/monster]
 
 # Broken Soul
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Azata, Chaotic, Extraplanar, Evil)
-  - **Hit Dice**: 7d10+63 (101 hp)
-  - **Initiative**: +3
-  - **Speed**: 20 ft. (4 squares), fly 60 ft. (average)
-  - **Armor Class**: 24 (+3 Dex, +12 natural, –1 size), touch 12, flat-footed 21
-  - **Base Attack**: +7; **CMB**: +13 (+17 grapple); **CMD**: 26 (can't be tripped)
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +12 melee (2d6+8/19–20) or tail slap +11 melee (2d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or torturous touch +11 melee touch (2d6 plus 1d6 Dex damage and convulsions) or tail slap +11 melee (2d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +12/+7 melee (2d6+8/19–20) and tail slap +6 melee (2d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]]); or torturous touch +11 melee touch (2d6 plus 1d6 Dex damage and convulsions) and tail slap +6 melee (2d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Broken Soul#^agonized-wail|Agonized wail]] (DC 18), [[rangoric-srd/monsters/Broken Soul#^baleful-gaze|baleful gaze]] (DC 18), [[rangoric-srd/monsters/abilities/Bardic Performance|bardic performance]] (21 rounds/day), [[rangoric-srd/monsters/abilities/Constrict|constrict]] (2d6+5), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, petrification and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5, cold 10, fire 10 and sonic 5
-  - **Saves**: Fort +12, Ref +10, Will +6
-  - **Abilities**: Str 20, Dex 17, Con 27, Int 14, Wis 8, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +9, Perform (string) +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +9
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 9
-  - **Treasure**: Standard (+1 longsword, masterwork harp, other treasure)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Azata, Chaotic, Extraplanar, Evil)
+- **Hit Dice**: 7d10+63 (101 hp)
+- **Initiative**: +3
+- **Speed**: 20 ft. (4 squares), fly 60 ft. (average)
+- **Armor Class**: 24 (+3 Dex, +12 natural, –1 size), touch 12, flat-footed 21
+- **Base Attack**: +7; **CMB**: +13 (+17 grapple); **CMD**: 26 (can't be tripped)
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +12 melee (2d6+8/19–20) or tail slap +11 melee (2d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or torturous touch +11 melee touch (2d6 plus 1d6 Dex damage and convulsions) or tail slap +11 melee (2d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +12/+7 melee (2d6+8/19–20) and tail slap +6 melee (2d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]]); or torturous touch +11 melee touch (2d6 plus 1d6 Dex damage and convulsions) and tail slap +6 melee (2d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/Broken Soul#^agonized-wail|Agonized wail]] (DC 18), [[rangoric-srd/monsters/Broken Soul#^baleful-gaze|baleful gaze]] (DC 18), [[rangoric-srd/monsters/abilities/Bardic Performance|bardic performance]] (21 rounds/day), [[rangoric-srd/monsters/abilities/Constrict|constrict]] (2d6+5), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, petrification and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5, cold 10, fire 10 and sonic 5
+- **Saves**: Fort +12, Ref +10, Will +6
+- **Abilities**: Str 20, Dex 17, Con 27, Int 14, Wis 8, Cha 21
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +9, Perform (string) +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 9
+- **Treasure**: Standard (+1 longsword, masterwork harp, other treasure)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The broken soul above is a broken soul [[rangoric-srd/monsters/azata/Lillend|lillend]].
 
@@ -110,10 +110,10 @@ Broken souls speak Celestial, Draconic and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +2): 3/day—*[[rangoric-srd/spells/Darkness|darkness]]*, *[[rangoric-srd/spells/Hallucinatory Terrain|hallucinatory terrain]]* (DC 19), *[[rangoric-srd/spells/Knock|knock]]*, *[[rangoric-srd/spells/Light|light]]*; 1/day—*[[rangoric-srd/spells/Charm Person|charm person]]* (DC 16), *[[rangoric-srd/spells/Speak with Animals|speak with animals]]*, *[[rangoric-srd/spells/Speak with Plants|speak with plants]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +2): 3/day—_[[rangoric-srd/spells/Darkness|darkness]]_, _[[rangoric-srd/spells/Hallucinatory Terrain|hallucinatory terrain]]_ (DC 19), _[[rangoric-srd/spells/Knock|knock]]_, _[[rangoric-srd/spells/Light|light]]_; 1/day—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 16), _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_, _[[rangoric-srd/spells/Speak with Plants|speak with plants]]_.
 
 **Spells**: A lillend casts spells as a 7th-level [[rangoric-srd/classes/Bard|bard]].
 
-**Bard spells known** (CL 7th; concentration +2): 3rd (2/day)—*[[rangoric-srd/spells/Crushing Despair|crushing despair]]*(DC 18), *[[rangoric-srd/spells/Terrible Remorse|terrible remorse]]* (DC 18); 2nd (4/day)—*[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]* (DC 17), *[[rangoric-srd/spells/Piercing Shriek|piercing shriek]]* (DC 17), *[[rangoric-srd/spells/Rage|rage]]*, *[[rangoric-srd/spells/Suggestion|suggestion]]* (DC 17); 1st (6/day)—*[[rangoric-srd/spells/Cause Fear|cause fear]]*(DC 16), *[[rangoric-srd/spells/Charm Person|charm person]]*(DC 16), *[[rangoric-srd/spells/Ear-Piercing Scream|ear-piercing scream]]* (DC 16), *[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]* (DC 16), *[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]* (DC 16); 0 (at will)—*[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Daze|daze]]* (DC 15), *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Ghost Sound|ghost sound]]* (DC 15), *[[rangoric-srd/spells/Read Magic|read magic]]*, *[[rangoric-srd/spells/Resistance|resistance]]*.
+**Bard spells known** (CL 7th; concentration +2): 3rd (2/day)—_[[rangoric-srd/spells/Crushing Despair|crushing despair]]_(DC 18), _[[rangoric-srd/spells/Terrible Remorse|terrible remorse]]_ (DC 18); 2nd (4/day)—_[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_ (DC 17), _[[rangoric-srd/spells/Piercing Shriek|piercing shriek]]_ (DC 17), _[[rangoric-srd/spells/Rage|rage]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 17); 1st (6/day)—_[[rangoric-srd/spells/Cause Fear|cause fear]]_(DC 16), _[[rangoric-srd/spells/Charm Person|charm person]]_(DC 16), _[[rangoric-srd/spells/Ear-Piercing Scream|ear-piercing scream]]_ (DC 16), _[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]_ (DC 16), _[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]_ (DC 16); 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Daze|daze]]_ (DC 15), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 15), _[[rangoric-srd/spells/Read Magic|read magic]]_, _[[rangoric-srd/spells/Resistance|resistance]]_.
 
 **Bardic Performance**: A lillend has the bardic performance ability of a 7th-level [[rangoric-srd/classes/Bard|bard]], granting her access to the countersong, fascinate, inspire courage, inspire competence, and suggestion aspects of bardic performance.

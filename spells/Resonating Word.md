@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Resonating Word
 
-*Transmutation \[Sonic\]*
+_Transmutation \[Sonic\]_
 
-  - **Level**: Brd 5, Psy 7, Skd 5, Sor/Wiz 7
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Target**: One creature
-  - **Duration**: 3 rounds
-  - **Saving Throw**: Fortitude partial
-  - **Spell Resistance**: Yes
+- **Level**: Brd 5, Psy 7, Skd 5, Sor/Wiz 7
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Target**: One creature
+- **Duration**: 3 rounds
+- **Saving Throw**: Fortitude partial
+- **Spell Resistance**: Yes
 
 You speak a terrible word of power, setting up potentially lethal vibrations in the chosen target. The target must save once each round on your turn, and the effects grow stronger for each saving throw the creature fails.
 

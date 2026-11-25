@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Read the Tapestry
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Sp) of the [[rangoric-srd/class-options/mysteries/Outer Dark Mystery|outer dark]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Sp) of the [[rangoric-srd/class-options/mysteries/Outer Dark Mystery|outer dark]] mystery._
 
-Once per day, you can spend 10 minutes meditating on the mysteries of the Outer Dark to send your mind to another plane and communicate with the strange or alien beings there. This functions as the *[[rangoric-srd/spells/Contact Other Plane|contact other plane]]* spell. You must be at least 7th level to select this revelation.
+Once per day, you can spend 10 minutes meditating on the mysteries of the Outer Dark to send your mind to another plane and communicate with the strange or alien beings there. This functions as the _[[rangoric-srd/spells/Contact Other Plane|contact other plane]]_ spell. You must be at least 7th level to select this revelation.

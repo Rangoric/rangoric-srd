@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Ascetic Armor
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Ascetic Mystery|ascetic]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Ascetic Mystery|ascetic]] mystery._
 
 You can use meditative techniques that temporarily cause attacks to bounce off your skin, as long as you aren’t wearing armor or carrying a medium or heavy load. These techniques grant you a +4 armor bonus to AC.
 

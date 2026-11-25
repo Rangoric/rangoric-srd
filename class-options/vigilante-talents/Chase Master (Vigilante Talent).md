@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Chase Master
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 Whether he is the pursuer or the pursued, few can best a vigilante at a chase. He receives a bonus on all checks during a chase equal to half his vigilante level or +4, whichever is greater.

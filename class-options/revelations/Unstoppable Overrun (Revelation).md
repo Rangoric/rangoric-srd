@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Unstoppable Overrun
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Apocalypse Mystery|apocalypse]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Ex) of the [[rangoric-srd/class-options/mysteries/Apocalypse Mystery|apocalypse]] mystery._
 
 You can attempt overrun combat maneuvers against opponents that are up to two size categories larger than you.
 

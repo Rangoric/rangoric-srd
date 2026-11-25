@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Hobgoblin Monk
 
-*A [[rangoric-srd/races/Hobgoblin|hobgoblin]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Monk#^monk-class-bonuses|monk]] or [[rangoric-srd/classes/Unchained Monk#^unchained-monk-class-bonuses|unchained monk]] level.*
+_A [[rangoric-srd/races/Hobgoblin|hobgoblin]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Monk#^monk-class-bonuses|monk]] or [[rangoric-srd/classes/Unchained Monk#^unchained-monk-class-bonuses|unchained monk]] level._
 
 Add a +1/4 bonus on [[rangoric-srd/combat/Combat Maneuvers|combat maneuver checks]] made to [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] or [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]].

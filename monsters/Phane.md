@@ -71,15 +71,15 @@ A phanes’ natural weapons are treated as epic, evil, and chaotic-aligned for t
 
 #### Combat
 
-Spell-Like Abilities: Caster level 21st; save DC 21 + spell level. The DC is Charisma-based.  
+Spell-Like Abilities: Caster level 21st; save DC 21 + spell level. The DC is Charisma-based.
 
-At will - [[rangoric-srd/spells/Detect Good|detect good]], [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Spells F to G|greater invisibility]] (self only);  
+At will - [[rangoric-srd/spells/Detect Good|detect good]], [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Spells F to G|greater invisibility]] (self only);
 
-5/day - [[rangoric-srd/spells/Haste|haste]], [[rangoric-srd/spells/Slow|slow]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]], [[rangoric-srd/spells/Tongues|tongues]], [[rangoric-srd/spells/Trap the Soul|trap the soul]], [[rangoric-srd/spells/True Strike|true strike]], [[rangoric-srd/spells/Unholy Aura|unholy aura]];  
+5/day - [[rangoric-srd/spells/Haste|haste]], [[rangoric-srd/spells/Slow|slow]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]], [[rangoric-srd/spells/Tongues|tongues]], [[rangoric-srd/spells/Trap the Soul|trap the soul]], [[rangoric-srd/spells/True Strike|true strike]], [[rangoric-srd/spells/Unholy Aura|unholy aura]];
 
-2/day - [[rangoric-srd/spells/Spells S|safe time]], [[rangoric-srd/spells/Time Duplicate|time duplicate]] (epic spell);  
+2/day - [[rangoric-srd/spells/Spells S|safe time]], [[rangoric-srd/spells/Time Duplicate|time duplicate]] (epic spell);
 
-1/day - [[rangoric-srd/spells/Time Stop|time stop]].  
+1/day - [[rangoric-srd/spells/Time Stop|time stop]].
 
 Stasis Touch (Su): As [[rangoric-srd/spells/Temporal Stasis|temporal stasis]], except as an at-will supernatural ability. Caster level 25th; save DC 21 + spell level. The DC is Charisma-based.
 

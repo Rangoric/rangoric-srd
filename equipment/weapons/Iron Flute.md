@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/hammers]
 
 # Iron Flute
 
-*Simple one-handed melee weapon.* Cost 5 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Weight 1 lb.; Type Bludgeoning. ^stats
+_Simple one-handed melee weapon._ Cost 5 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Weight 1 lb.; Type Bludgeoning. ^stats
 
-(*Tie Di*): Nothing more than a flute made entirely of iron, the iron flute is not an obvious weapon, but can be used as a light baton in combat.
+(_Tie Di_): Nothing more than a flute made entirely of iron, the iron flute is not an obvious weapon, but can be used as a light baton in combat.

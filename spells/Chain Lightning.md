@@ -30,16 +30,16 @@ tags: [rangoric, rangoric/spell]
 
 # Chain Lightning
 
-*Evocation \[Electricity\]*
+_Evocation \[Electricity\]_
 
-  - **Level**: Air 6, Mag 6, Occ 6, Sor/Wiz 6, Wit 7
-  - **Components**: V, S, F
-  - **Casting Time**: 1 standard action
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Targets**: One primary target, plus one secondary target/level (each of which must be within 30 ft. of the primary target)
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Reflex half
-  - **Spell Resistance**: Yes
+- **Level**: Air 6, Mag 6, Occ 6, Sor/Wiz 6, Wit 7
+- **Components**: V, S, F
+- **Casting Time**: 1 standard action
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Targets**: One primary target, plus one secondary target/level (each of which must be within 30 ft. of the primary target)
+- **Duration**: Instantaneous
+- **Saving Throw**: Reflex half
+- **Spell Resistance**: Yes
 
 This spell creates an electrical discharge that begins as a single stroke commencing from your fingertips. Unlike lightning bolt, chain lightning strikes one object or creature initially, then arcs to other targets.
 
@@ -47,4 +47,4 @@ The bolt deals 1d6 points of electricity damage per caster level (maximum 20d6) 
 
 Each target can attempt a Reflex saving throw for half damage. You choose secondary targets as you like, but they must all be within 30 feet of the primary target, and no target can be struck more than once. You can choose to affect fewer secondary targets than the maximum.
 
-*Focus*: A bit of fur; a piece of amber, glass, or a crystal rod; plus one silver pin for each of your caster levels.
+_Focus_: A bit of fur; a piece of amber, glass, or a crystal rod; plus one silver pin for each of your caster levels.

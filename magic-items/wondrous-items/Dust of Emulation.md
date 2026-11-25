@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/magic-item]
 
 A creature coated with this glittering golden dust can interact with any one item or object as if she had successfully used the [[rangoric-srd/skills/Emulation|Emulation]] skill to emulate a class feature or race (if the exact result of the check matters, treat the character's result as a 25). If the user of the dust does not mentally select the intended item or object while coating herself with the dust, the magic of the dust applies to the first eligible object she encounters. She can apply the result of this automatic check when dealing with the item or object for 1 hour after exposure to the dust.
 
-Faint illusion; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Disguise Self|disguise self]]*; Price 800 gp; Cost 400 gp.
+Faint illusion; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Disguise Self|disguise self]]_; Price 800 gp; Cost 400 gp.

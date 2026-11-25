@@ -27,6 +27,6 @@ Psychoportation
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 round/level (D)  
-**Power Points:** 13  
+**Power Points:** 13
 
 As the [[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]] spell, except as noted here.

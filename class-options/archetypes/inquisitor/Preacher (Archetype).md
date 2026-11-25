@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Preacher
 
-*An [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-archetypes|inquisitor]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-archetypes|inquisitor]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Some inquisitors wander the land to spread the true word of their faith. Often they come into conflict with those hostile to their teachings or to the preacher's need to help those who cannot help themselves. The leaders of evil or aggressive religions send these preachers into new territories to win converts and hopefully allies. Often, they start uprisings against powers hostile to their religion, or defend a group of honest believers from the depredations of the unfaithful.
 

@@ -14,11 +14,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Battle Spirit
 
-*A [[rangoric-srd/classes/Shaman#^shaman-spirit|shaman spirit]].*
+_A [[rangoric-srd/classes/Shaman#^shaman-spirit|shaman spirit]]._
 
 A shaman who selects the battle spirit gains scars from every wound she takes, and the grit of battle always seems to cling on her body. When she calls upon one of this spirit's abilities, she grows in stature—becoming taller and more muscular, with a grimace of rage stretching across her face.
 
-**Spirit Magic Spells**: *[[rangoric-srd/spells/Enlarge Person|enlarge person]]* (1st), *[[rangoric-srd/spells/Fog Cloud|fog cloud]]* (2nd), *[[rangoric-srd/spells/Magic Vestment|magic vestment]]* (3rd), *[[rangoric-srd/spells/Wall of Fire|wall of fire]]* (4th), *[[rangoric-srd/spells/Righteous Might|righteous might]]* (5th), *[[rangoric-srd/spells/Bull’s Strength, Mass|mass bull's strength]]* (6th), *[[rangoric-srd/spells/Control Weather|control weather]]* (7th), *[[rangoric-srd/spells/Earthquake|earthquake]]* (8th), *[[rangoric-srd/spells/Storm of Vengeance|storm of vengeance]]* (9th).
+**Spirit Magic Spells**: _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ (1st), _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_ (2nd), _[[rangoric-srd/spells/Magic Vestment|magic vestment]]_ (3rd), _[[rangoric-srd/spells/Wall of Fire|wall of fire]]_ (4th), _[[rangoric-srd/spells/Righteous Might|righteous might]]_ (5th), _[[rangoric-srd/spells/Bull’s Strength, Mass|mass bull's strength]]_ (6th), _[[rangoric-srd/spells/Control Weather|control weather]]_ (7th), _[[rangoric-srd/spells/Earthquake|earthquake]]_ (8th), _[[rangoric-srd/spells/Storm of Vengeance|storm of vengeance]]_ (9th).
 
 **Hexes**: [[rangoric-srd/class-options/hexes/Battle Master (Hex)|battle master]], [[rangoric-srd/class-options/hexes/Battle Ward (Hex)|battle ward]], [[rangoric-srd/class-options/hexes/Curse of Suffering (Hex)|curse of suffering]], [[rangoric-srd/class-options/hexes/Eyes of Battle (Hex)|eyes of battle]], [[rangoric-srd/class-options/hexes/Hampering Hex (Hex)|hampering hex]].
 
@@ -34,13 +34,13 @@ A shaman who chooses the battle spirit as her [[rangoric-srd/classes/Shaman#^sha
 
 A shaman who chooses the battle spirit as her spirit or wandering spirit gains the following ability upon having access to the greater version of that spirit.
 
-**Enemies' Bane (Su)**: As a swift action, the shaman imbues a single weapon she's wielding with the *[[rangoric-srd/magic-items/weapon-abilities/Bane (Weapon Special Ability)|bane]]* weapon special ability, choosing the type of creature affected each time she does. The effect lasts for 1 minute. If the weapon already has the *[[rangoric-srd/magic-items/weapon-abilities/Bane (Weapon Special Ability)|bane]]* weapon special ability of the type chosen, the additional damage dealt by *[[rangoric-srd/magic-items/weapon-abilities/Bane (Weapon Special Ability)|bane]]* increases to 4d6. The shaman can use this ability a number of times per day equal to 3 + her Charisma modifier.
+**Enemies' Bane (Su)**: As a swift action, the shaman imbues a single weapon she's wielding with the _[[rangoric-srd/magic-items/weapon-abilities/Bane (Weapon Special Ability)|bane]]_ weapon special ability, choosing the type of creature affected each time she does. The effect lasts for 1 minute. If the weapon already has the _[[rangoric-srd/magic-items/weapon-abilities/Bane (Weapon Special Ability)|bane]]_ weapon special ability of the type chosen, the additional damage dealt by _[[rangoric-srd/magic-items/weapon-abilities/Bane (Weapon Special Ability)|bane]]_ increases to 4d6. The shaman can use this ability a number of times per day equal to 3 + her Charisma modifier.
 
 ## True Spirit Ability
 
 A shaman who chooses the battle spirit as her spirit or wandering spirit gains the following ability upon having access to the true version of that spirit.
 
-**Paragon of Battle (Su)**: As a standard action, the shaman assumes a form that combines the effects of *[[rangoric-srd/spells/Enlarge Person|enlarge person]]* and *[[rangoric-srd/spells/Deadly Juggernaut|deadly juggernaut]]* for 1 minute or until dismissed. The shaman can use this ability a number of times per day equal to 3 + her Charisma modifier.
+**Paragon of Battle (Su)**: As a standard action, the shaman assumes a form that combines the effects of _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ and _[[rangoric-srd/spells/Deadly Juggernaut|deadly juggernaut]]_ for 1 minute or until dismissed. The shaman can use this ability a number of times per day equal to 3 + her Charisma modifier.
 
 ## Manifestation
 

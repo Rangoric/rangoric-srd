@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/spears, weapon-group/thrown]
 
 # Shortspear
 
-*Simple one-handed melee weapon.* Cost 1 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Range Increment 20 ft.; Weight 3 lb.; Type Piercing. ^stats
+_Simple one-handed melee weapon._ Cost 1 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Range Increment 20 ft.; Weight 3 lb.; Type Piercing. ^stats
 
 A shortspear is small enough to wield one-handed. It may also be thrown.

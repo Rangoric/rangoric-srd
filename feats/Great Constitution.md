@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Great Constitution
 
-Benefit: The character’s Constitution increases by 1 point.  
+Benefit: The character’s Constitution increases by 1 point.
 
 Special: A character can gain this feat multiple times. Its effects stack.

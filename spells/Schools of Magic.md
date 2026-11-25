@@ -53,7 +53,7 @@ Many divination spells have cone-shaped areas. These move with you and extend in
 
 Lead sheeting or magical protection blocks a scrying spell, and you sense that the spell is so blocked.
 
-*Turning scrying back*: If you determine that you’re being scried upon, you may be able to learn who is scrying, look back through the sensor, or end the scrying.
+_Turning scrying back_: If you determine that you’re being scried upon, you may be able to learn who is scrying, look back through the sensor, or end the scrying.
 
 To attempt any of these tasks, the [[rangoric-srd/spells/Scrying|scrying]] spell must be on your class spell list (though it need not be among your spells known). If you have any bonuses that would apply to the caster level of your scrying spell, add these to your caster level check.
 
@@ -63,11 +63,11 @@ To attempt any of these tasks, the [[rangoric-srd/spells/Scrying|scrying]] spell
 | Return scrying | 50                         |
 | Break scrying  | Opposed caster level check |
 
-*Learn Scryer*: If you determine that you’re being scried upon, you can learn the identity of the scryer with a DC 30 caster level check. If successful, you learn the name, race, and location of the scryer.
+_Learn Scryer_: If you determine that you’re being scried upon, you can learn the identity of the scryer with a DC 30 caster level check. If successful, you learn the name, race, and location of the scryer.
 
-*Return Scrying*: If you determine that you’re being scried upon, you can look back through the sensor at the scryer with a DC 50 caster level check. This allows you to spy on the scrying being as if you had cast a scrying spell upon that person. This return scrying can be detected by your target as normal.
+_Return Scrying_: If you determine that you’re being scried upon, you can look back through the sensor at the scryer with a DC 50 caster level check. This allows you to spy on the scrying being as if you had cast a scrying spell upon that person. This return scrying can be detected by your target as normal.
 
-*Break Scrying*: If you determine that you’re being scried, you can make an opposed caster level check with the scryer. If you are successful, the scrying ends, and the scryer may not target you with a Divination (Scrying) spell or effect for a number of hours equal to your Intelligence modifier (minimum 1
+_Break Scrying_: If you determine that you’re being scried, you can make an opposed caster level check with the scryer. If you are successful, the scrying ends, and the scryer may not target you with a Divination (Scrying) spell or effect for a number of hours equal to your Intelligence modifier (minimum 1
 
 ###### Enchantment
 
@@ -134,7 +134,7 @@ You can only be affected by one polymorph spell at a time. If a new polymorph sp
 If a polymorph spell is cast on a creature that is smaller than Small or larger than Medium, first adjust its ability scores to one of these two sizes using the following table before applying the bonuses granted by the polymorph spell.
 
 | Creature's Original Size | Str | Dex | Con | Adjusted Size |
-|--------------------------|-----|-----|-----|---------------|
+| ------------------------ | --- | --- | --- | ------------- |
 | Fine                     | +6  | –6  | —   | Small         |
 | Diminutive               | +6  | –4  | —   | Small         |
 | Tiny                     | +4  | –2  | —   | Small         |

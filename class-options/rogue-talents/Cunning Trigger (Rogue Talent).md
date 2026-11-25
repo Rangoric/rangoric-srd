@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Cunning Trigger
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex).*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex)._
 
 A character with this talent can use a swift action to set off any trap within 30 feet that she constructed.

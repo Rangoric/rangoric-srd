@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Svirfneblin Ranger
 
-*A [[rangoric-srd/races/Svirfneblin|svirfneblin]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Ranger#^ranger-class-bonuses|ranger]] level.*
+_A [[rangoric-srd/races/Svirfneblin|svirfneblin]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Ranger#^ranger-class-bonuses|ranger]] level._
 
 Add DR 1/magic to the ranger's [[rangoric-srd/classes/Ranger#^ranger-animal-companion|animal companion]]. For each ranger level after the first, the DR/magic increases +1/2 (maximum DR 10/magic). If the ranger ever replaces his animal companion, the new companion gains this DR.

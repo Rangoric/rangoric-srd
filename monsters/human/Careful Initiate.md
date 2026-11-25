@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Careful Initiate
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 1d8+1 (9 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 16 (+3 Dex, +1 dodge, +2 Wis), touch 16, flat-footed 12
-  - **Base Attack**: +0; **CMB**: +1; **CMD**: 17
-  - **Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +3 melee (1d6+1) or [[rangoric-srd/equipment/weapons/Kama|kama]] +3 melee (1d6+1) or unarmed strike flurry of blows +2 melee (1d6+1) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +3 ranged (1d8/19–20) or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +3 ranged (1d2+1) or shuriken flurry of blows +2 ranged (1d2+1)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +3 melee (1d6+1); or [[rangoric-srd/equipment/weapons/Kama|kama]] +3 melee (1d6+1); or unarmed strike flurry of blows +2/+2 melee (1d6+1); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +3 ranged (1d8/19–20); or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +3 ranged (1d2+1); or shuriken flurry of blows +2/2 ranged (1d2+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (1/day, DC 12)
-  - **Special Qualities**: —
-  - **Saves**: Fort +2, Ref +5, Will +4
-  - **Abilities**: Str 12, Dex 16, Con 10, Int 13, Wis 15, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +7, [[rangoric-srd/skills/Theology|Theology]] +5
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 1/2
-  - **Treasure**: NPC gear (combat gear: potions of cure light wounds (2), potions of mage armor (2), potions of magic weapon (2); other gear: kama, light crossbow with 10 bolts, shuriken (20), 50 gp)
-  - **Alignment**: Lawful neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 1d8+1 (9 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 16 (+3 Dex, +1 dodge, +2 Wis), touch 16, flat-footed 12
+- **Base Attack**: +0; **CMB**: +1; **CMD**: 17
+- **Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +3 melee (1d6+1) or [[rangoric-srd/equipment/weapons/Kama|kama]] +3 melee (1d6+1) or unarmed strike flurry of blows +2 melee (1d6+1) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +3 ranged (1d8/19–20) or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +3 ranged (1d2+1) or shuriken flurry of blows +2 ranged (1d2+1)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +3 melee (1d6+1); or [[rangoric-srd/equipment/weapons/Kama|kama]] +3 melee (1d6+1); or unarmed strike flurry of blows +2/+2 melee (1d6+1); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +3 ranged (1d8/19–20); or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +3 ranged (1d2+1); or shuriken flurry of blows +2/2 ranged (1d2+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (1/day, DC 12)
+- **Special Qualities**: —
+- **Saves**: Fort +2, Ref +5, Will +4
+- **Abilities**: Str 12, Dex 16, Con 10, Int 13, Wis 15, Cha 8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +7, [[rangoric-srd/skills/Theology|Theology]] +5
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 1/2
+- **Treasure**: NPC gear (combat gear: potions of cure light wounds (2), potions of mage armor (2), potions of magic weapon (2); other gear: kama, light crossbow with 10 bolts, shuriken (20), 50 gp)
+- **Alignment**: Lawful neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A careful initiate is a [[rangoric-srd/monsters/human/Human|human]] with 1 level of [[rangoric-srd/classes/Monk|monk]]. Neophyte monks are often eager to prove their mettle in battle, but just as often their strict training means they tend to act tentatively when deprived of their master's guidance.
 

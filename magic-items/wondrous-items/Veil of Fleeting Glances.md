@@ -24,4 +24,4 @@ In addition to hiding the face, this fine lace veil protects the wearer against 
 
 Against patterns, visual figments, and other vision-based effects and attacks that cannot affect blind creatures, the veil grants the wearer a +4 circumstance bonus on saving throws. The veil does not otherwise impede the wearer's vision in any way.
 
-Faint divination; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], blindness/deafness, *[[rangoric-srd/spells/True Strike|true strike]]*; Price 9,000 gp; Cost 4,500 gp.
+Faint divination; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], blindness/deafness, _[[rangoric-srd/spells/True Strike|true strike]]_; Price 9,000 gp; Cost 4,500 gp.

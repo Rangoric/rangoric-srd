@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Gnome Bloodrager
 
-*A [[rangoric-srd/races/Gnome|gnome]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Bloodrager#^bloodrager-class-bonuses|bloodrager]] level.*
+_A [[rangoric-srd/races/Gnome|gnome]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Bloodrager#^bloodrager-class-bonuses|bloodrager]] level._
 
 Add 1/4 to the bloodrager's effective class level when determining the power of her [[rangoric-srd/classes/Bloodrager#^bloodrager-bloodline|bloodrager bloodline]] powers.

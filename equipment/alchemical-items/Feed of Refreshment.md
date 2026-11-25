@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Feed of Refreshment
 
-*Herbal Restorative/Ingestible; Special*
+_Herbal Restorative/Ingestible; Special_
 
 This feed allows a mount or large animal or magical beast to shake off the effects of hard riding or long periods of enforced activity. Any damage (up to 2d8 hit points) induced by forced or extended movement in the previous eight hours is reduced to nonlethal damage upon consuming this mixture. That nonlethal damage is reduced as per the normal rules.
 

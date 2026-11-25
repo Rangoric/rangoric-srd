@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Flail Snail
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 4d10+8 (30 hp)
-  - **Initiative**: –1
-  - **Speed**: 10 ft. (2 squares), climb 10 ft.
-  - **Armor Class**: 18 (–1 Dex, +10 natural, –1 size), touch 8, flat-footed 18
-  - **Base Attack**: +4; **CMB**: +8; **CMD**: 17 (can't be tripped)
-  - **Attack**: Slam +7 melee (1d4+3)
-  - **Full Attack**: 4 slams +7 melee (1d4+3)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Retraction|retraction]], [[rangoric-srd/monsters/abilities/Warp Magic|warp magic]], [[rangoric-srd/monsters/abilities/Mucus|mucus]], [[rangoric-srd/monsters/abilities/Slime Rope|slime rope]], [[rangoric-srd/monsters/abilities/Suction|suction]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
-  - **Saves**: Fort +6, Ref +3, Will +2
-  - **Abilities**: Str 16, Dex 8, Con 14, Int 5, Wis 12, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +0
-  - **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
-  - **Environment**: Underground
-  - **Organization**: Solitary, pair, or rout (3–30)
-  - **Challenge Rating**: 4
-  - **Treasure**: Standard (shell worth 800 gp, other treasure)
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 4d10+8 (30 hp)
+- **Initiative**: –1
+- **Speed**: 10 ft. (2 squares), climb 10 ft.
+- **Armor Class**: 18 (–1 Dex, +10 natural, –1 size), touch 8, flat-footed 18
+- **Base Attack**: +4; **CMB**: +8; **CMD**: 17 (can't be tripped)
+- **Attack**: Slam +7 melee (1d4+3)
+- **Full Attack**: 4 slams +7 melee (1d4+3)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Retraction|retraction]], [[rangoric-srd/monsters/abilities/Warp Magic|warp magic]], [[rangoric-srd/monsters/abilities/Mucus|mucus]], [[rangoric-srd/monsters/abilities/Slime Rope|slime rope]], [[rangoric-srd/monsters/abilities/Suction|suction]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
+- **Saves**: Fort +6, Ref +3, Will +2
+- **Abilities**: Str 16, Dex 8, Con 14, Int 5, Wis 12, Cha 8
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +0
+- **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
+- **Environment**: Underground
+- **Organization**: Solitary, pair, or rout (3–30)
+- **Challenge Rating**: 4
+- **Treasure**: Standard (shell worth 800 gp, other treasure)
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Flail snails are intelligent gastropods that subsist on fungus, mold, and vermin, though they may attack larger creatures in self-defense. Known for their magic-warping shells and club-like tentacles, flail snails roam slowly through subterranean caverns writing great epics in their slime trails.
 
@@ -77,9 +77,9 @@ Flail snails speak Flail Snail (sign language, slime writing, cannot speak).
 
 **[[rangoric-srd/monsters/abilities/Warp Magic|Warp Magic]] (Su)**: Anytime a spell targets a flail snail, there is an 80% chance that it produces a random effect instead of affecting the snail. Only spells that directly target the flail snail are warped; area effect spells are not affected. If a spell is warped, roll 1d10 and consult the following table.
 
-| d10 | Result |
-| --- | --- |
+| d10 | Result                                                                                                                 |
+| --- | ---------------------------------------------------------------------------------------------------------------------- |
 | 1–3 | Spell misfires. For the next 1d4 rounds, the caster must make a DC 15 concentration check to successfully cast spells. |
-| 4–6 | Spell misfires. The creature nearest the flail snail is affected as if the spell had been cast on it instead. |
-| 7–9 | Spell fails. Nothing happens. |
-| 10  | Spell rebounds on caster (as *[[rangoric-srd/spells/Spell Turning\|spell turning]]*). |
+| 4–6 | Spell misfires. The creature nearest the flail snail is affected as if the spell had been cast on it instead.          |
+| 7–9 | Spell fails. Nothing happens.                                                                                          |
+| 10  | Spell rebounds on caster (as _[[rangoric-srd/spells/Spell Turning\|spell turning]]_).                                  |

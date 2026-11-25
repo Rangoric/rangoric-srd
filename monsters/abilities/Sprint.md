@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Sprint
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “sprint”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “sprint”, on the Special Qualities line.
 
 Once per minute, a werecrocodile can increase its land speed to 60 feet for 1 round. The [[rangoric-srd/monsters/lycanthrope/Werecrocodile|werecrocodile]] has it.

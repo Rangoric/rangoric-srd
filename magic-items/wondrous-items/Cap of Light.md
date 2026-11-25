@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Cap of Light
 
-This small cloth skullcap resembles those some priests wear, but is topped with a small silver statue in the shape of a lit candle. The wearer can command the statue to radiate *[[rangoric-srd/spells/Light|light]]* (as the spell). The *[[rangoric-srd/spells/Light|light]]* can also be turned off on command.
+This small cloth skullcap resembles those some priests wear, but is topped with a small silver statue in the shape of a lit candle. The wearer can command the statue to radiate _[[rangoric-srd/spells/Light|light]]_ (as the spell). The _[[rangoric-srd/spells/Light|light]]_ can also be turned off on command.
 
-Faint evocation; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Light|light]]*; Price 900 gp; Cost 450 gp.
+Faint evocation; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Light|light]]_; Price 900 gp; Cost 450 gp.

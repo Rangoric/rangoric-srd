@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Alpluachra
 
-  - Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]] (Aquatic)
-  - **Hit Dice**: 1d6+2 (5 hp)
-  - **Initiative**: +1
-  - **Speed**: 10 ft. (2 squares), swim 10 ft.
-  - **Armor Class**: 15 (+1 Dex, +4 size), touch 15, flat-footed 14
-  - **Base Attack**: +0; **CMB**: –3; **CMD**: 4 (8 vs. trip)
-  - **Attack**: Bite +1 melee (1d2–3)
-  - **Full Attack**: Bite +1 melee (1d2–3)
-  - **Space/Reach**: 1 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Implant|Implant]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Numbing Slime|numbing slime]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Vulnerable to Salt|vulnerable to salt]]
-  - **Saves**: Fort +2, Ref +3, Will +2
-  - **Abilities**: Str 4, Dex 13, Con 14, Int 4, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +20
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Temperate forests or fresh water
-  - **Organization**: Solitary
-  - **Challenge Rating**: 1/2
-  - **Treasure**: None
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]] (Aquatic)
+- **Hit Dice**: 1d6+2 (5 hp)
+- **Initiative**: +1
+- **Speed**: 10 ft. (2 squares), swim 10 ft.
+- **Armor Class**: 15 (+1 Dex, +4 size), touch 15, flat-footed 14
+- **Base Attack**: +0; **CMB**: –3; **CMD**: 4 (8 vs. trip)
+- **Attack**: Bite +1 melee (1d2–3)
+- **Full Attack**: Bite +1 melee (1d2–3)
+- **Space/Reach**: 1 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Implant|Implant]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Numbing Slime|numbing slime]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Vulnerable to Salt|vulnerable to salt]]
+- **Saves**: Fort +2, Ref +3, Will +2
+- **Abilities**: Str 4, Dex 13, Con 14, Int 4, Wis 11, Cha 11
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +20
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Temperate forests or fresh water
+- **Organization**: Solitary
+- **Challenge Rating**: 1/2
+- **Treasure**: None
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 These strange and insatiable fey prowl bubbling brooks, sauntering streams, and slow-moving rivers in a constant pursuit of food, but the extremely lazy creatures often tire of hunting. Alpluachras find it much easier to slip down a sleeping creature's throat, fall asleep, and dream of fantastic feasts and warm bubbling pools while its host does the eating for it. Because of this, alpluachras always keep an eye on riverbanks, looking for creatures napping near waterways. Once they find potential hosts, alpluachras stealthily slither up and slide down their snoring gullets.
 

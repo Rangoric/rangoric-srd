@@ -31,6 +31,6 @@ Effect: Ray
 Duration: 1 min./level  
 Saving Throw: None  
 Power Resistance: Yes (object)  
-Power Points: 7  
+Power Points: 7
 
 As the [[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]] spell, except as noted here.

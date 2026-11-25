@@ -30,16 +30,16 @@ tags: [rangoric, rangoric/spell]
 
 # Creeping Ice
 
-*Evocation \[Cold\]*
+_Evocation \[Cold\]_
 
-  - **Level**: Drd 4, Hun 4, Sor/Wiz 4, Sum 3, SumU 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: Anchored plane of ice, up to one 10-ft. square/level
-  - **Duration**: 10 minutes/level
-  - **Saving Throw**: Reflex negates (see text)
-  - **Spell Resistance**: Yes
+- **Level**: Drd 4, Hun 4, Sor/Wiz 4, Sum 3, SumU 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: Anchored plane of ice, up to one 10-ft. square/level
+- **Duration**: 10 minutes/level
+- **Saving Throw**: Reflex negates (see text)
+- **Spell Resistance**: Yes
 
 This spell covers the floor, the ground, or some other calm horizontal surface (such as a placid lake or a gentle river) with a sheet of slowly growing ice. The initial sheet of ice cannot form in an area occupied by physical objects or creatures. Its surface must be smooth and unbroken when created. The ice is hard, strong, and opaque, and is 1 inch thick per caster level. The ice is strong enough to support the weight of a typical horse, making it possible for creatures to cross a body of water.
 

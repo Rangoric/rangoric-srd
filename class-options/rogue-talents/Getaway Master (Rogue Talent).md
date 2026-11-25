@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Getaway Master
 
-*An [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talent]] (Ex).*
+_An [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talent]] (Ex)._
 
 A character with this talent gains a +10 bonus on all drive checks. The rogue must have the [[rangoric-srd/class-options/rogue-talents/Getaway Artist (Rogue Talent)|getaway artist]] rogue talent before choosing this talent.

@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat]
 
 # Hostile Mind
 
-Your mind recoils violently against those who use psionics against you.  
+Your mind recoils violently against those who use psionics against you.
 
 Prerequisite: Cha 15.
 

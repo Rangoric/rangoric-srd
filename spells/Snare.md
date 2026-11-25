@@ -26,16 +26,16 @@ tags: [rangoric, rangoric/spell]
 
 # Snare
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Hun 2, Rgr 2, Drd 3
-  - **Components**: V, S, DF
-  - **Casting Time**: 3 rounds
-  - **Range**: Touch
-  - **Target**: Touched nonmagical circle of vine, rope, or thong with a 2 ft. diameter + 2 ft./level
-  - **Duration**: Until triggered or broken
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Hun 2, Rgr 2, Drd 3
+- **Components**: V, S, DF
+- **Casting Time**: 3 rounds
+- **Range**: Touch
+- **Target**: Touched nonmagical circle of vine, rope, or thong with a 2 ft. diameter + 2 ft./level
+- **Duration**: Until triggered or broken
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 This spell enables you to make a snare that functions as a magic trap. The snare can be made from any supple vine, a thong, or a rope. When you cast snare upon it, the cordlike object blends with its surroundings ([[rangoric-srd/skills/Investigation|Investigation]] DC 23 for a character with the trapfinding ability to locate). One end of the snare is tied in a loop that contracts around one or more of the limbs of any creature stepping inside the circle.
 

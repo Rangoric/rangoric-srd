@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/armor]
 
 # Tonlet
 
-*Armor extra.* Cost 50 gp; Armor Bonus +2; Maximum Dex Bonus –4; Armor Check Penalty –3; Arcane Spell Failure 10%; Weight 10 lb. ^stats
+_Armor extra._ Cost 50 gp; Armor Bonus +2; Maximum Dex Bonus –4; Armor Check Penalty –3; Arcane Spell Failure 10%; Weight 10 lb. ^stats
 
 A tonlet is a skirt of sorts made from chain links. It is often used by foot soldiers for additional protection, and is typically hung over their legs and any other armor they might be wearing, reaching almost to their feet. The primary drawback to wearing the tonlet is that it significantly reduces mobility by adding extra weight as well as by limiting movement.
 

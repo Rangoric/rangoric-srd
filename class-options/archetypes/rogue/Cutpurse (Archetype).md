@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Cutpurse
 
-*A [[rangoric-srd/classes/Rogue#^rogue-archetypes|rogue]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Rogue#^rogue-archetypes|rogue]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Everyone who lives in the city understands that a wealthy man stays wealthy by guarding his purse while wandering the streets and markets. Cutpurses are often trained by guilds to collect the guild's tax from local businesses on a daily basis, whether through intimidation or pickpocketing. Some find themselves taking up the mantle of adventurer, and their talents are generally appreciated in this role, but the cutpurse is still the first person her companions look to when an item goes missing.
 

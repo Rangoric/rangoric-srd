@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Hex Ward
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Inq 1, Occ 1, Sha 1, Wit 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 hour/level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Inq 1, Occ 1, Sha 1, Wit 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 hour/level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 You give the target a +4 resistance bonus on saving throws against witch hexes.

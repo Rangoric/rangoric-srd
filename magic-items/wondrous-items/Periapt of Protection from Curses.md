@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Periapt of Protection from Curses
 
-This amethyst stone strung on a coarse iron chain protects the wearer from curses. Three times per day, whenever the wearer rolls a saving throw against a curse (such as a [[rangoric-srd/classes/Witch#^witch-hex|witch]]'s hex, or a *[[rangoric-srd/spells/Bestow Curse|bestow curse]]* spell), he may reroll the saving throw as an immediate action. The wearer must decide to use this ability before the results of the saving throw are revealed. He must take the second roll, even if it is worse.
+This amethyst stone strung on a coarse iron chain protects the wearer from curses. Three times per day, whenever the wearer rolls a saving throw against a curse (such as a [[rangoric-srd/classes/Witch#^witch-hex|witch]]'s hex, or a _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ spell), he may reroll the saving throw as an immediate action. The wearer must decide to use this ability before the results of the saving throw are revealed. He must take the second roll, even if it is worse.
 
-Faint abjuration; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Remove Curse|remove curse]]*; Price 12,000 gp; Cost 6,000 gp.
+Faint abjuration; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Remove Curse|remove curse]]_; Price 12,000 gp; Cost 6,000 gp.

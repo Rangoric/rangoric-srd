@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes]
 
 # Light Pick
 
-*Martial light melee weapon.* Cost 4 gp; Dmg 1d3 (S), 1d4 (M); Critical x4; Weight 3 lb.; Type Piercing. ^stats
+_Martial light melee weapon._ Cost 4 gp; Dmg 1d3 (S), 1d4 (M); Critical x4; Weight 3 lb.; Type Piercing. ^stats

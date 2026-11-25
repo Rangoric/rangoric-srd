@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Dragonfly Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the dragonfly offers the ability to make quick, darting attacks at foes.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the dragonfly offers the ability to make quick, darting attacks at foes._
 
 **Minor Form**: You gain an enhancement bonus of +10 feet to your base speed when charging.
 

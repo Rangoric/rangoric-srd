@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Mutagenic Mauler
 
-*A [[rangoric-srd/classes/Brawler#^brawler-archetypes|brawler]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Brawler#^brawler-archetypes|brawler]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Not content with perfecting her body with natural methods, a mutagenic mauler resorts to alchemy to unlock the primal beast within.
 

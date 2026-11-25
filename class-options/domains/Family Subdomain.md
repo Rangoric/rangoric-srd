@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Family Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Community Domain|Community]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Community Domain|Community]] domain._
 
 ## Replacement Power
 
@@ -27,7 +27,7 @@ This power replaces the [[rangoric-srd/class-options/domains/Community Domain#Gr
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 2nd | [[rangoric-srd/spells/Calm Emotions\|Calm Emotions]] | Calms creatures, negating emotion effects. |
-| 3rd | [[rangoric-srd/spells/Create Food and Water\|Create Food and Water]] | Feeds three humans (or one horse)/level. |
+| Level | Spell                                                                | Brief Description                          |
+| ----- | -------------------------------------------------------------------- | ------------------------------------------ |
+| 2nd   | [[rangoric-srd/spells/Calm Emotions\|Calm Emotions]]                 | Calms creatures, negating emotion effects. |
+| 3rd   | [[rangoric-srd/spells/Create Food and Water\|Create Food and Water]] | Feeds three humans (or one horse)/level.   |

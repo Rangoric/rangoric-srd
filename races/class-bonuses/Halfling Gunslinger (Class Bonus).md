@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Halfling Gunslinger
 
-*A [[rangoric-srd/races/Halfling|halfling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Gunslinger#^gunslinger-class-bonuses|gunslinger]] level.*
+_A [[rangoric-srd/races/Halfling|halfling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Gunslinger#^gunslinger-class-bonuses|gunslinger]] level._
 
 Add +1/4 to the dodge bonus to AC granted by the [[rangoric-srd/classes/Gunslinger#^gunslinger-nimble|nimble]] class feature (maximum +2) or +1/4 to the AC bonus gained when using the gunslinger's [[rangoric-srd/class-options/deeds/Gunslinger's Dodge (Deed)|dodge]] [[rangoric-srd/classes/Gunslinger#^gunslinger-deeds|deed]].

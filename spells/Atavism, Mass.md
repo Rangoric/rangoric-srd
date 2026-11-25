@@ -24,15 +24,15 @@ tags: [rangoric, rangoric/spell]
 
 # Atavism, Mass
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Drd 8
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One animal/level, no two of which can be more than 30 ft. apart
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Drd 8
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One animal/level, no two of which can be more than 30 ft. apart
+- **Duration**: 1 minute/level
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
-This spell functions as *[[rangoric-srd/spells/Atavism|atavism]]*, except it affects multiple creatures.
+This spell functions as _[[rangoric-srd/spells/Atavism|atavism]]_, except it affects multiple creatures.

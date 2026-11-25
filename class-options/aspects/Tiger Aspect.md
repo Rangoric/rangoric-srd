@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Tiger Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The tiger is a powerful but graceful hunter of the wild, quietly stalking its prey and then taking it down with ruthless efficiency.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The tiger is a powerful but graceful hunter of the wild, quietly stalking its prey and then taking it down with ruthless efficiency._
 
 **Minor Form**: You gain a +2 enhancement bonus to your Dexterity score.
 

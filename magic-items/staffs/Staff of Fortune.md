@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/magic-item]
 
 This staff is made of ivory and gold and is topped by a large, flawless piece of quartz. It allows the use of the following spells:
 
-  - *[[rangoric-srd/spells/Heroic Fortune|heroic fortune]]* (1 charge)
-  - *[[rangoric-srd/spells/Heroic Fortune, Mass|mass heroic fortune]]* (2 charges)
+- _[[rangoric-srd/spells/Heroic Fortune|heroic fortune]]_ (1 charge)
+- _[[rangoric-srd/spells/Heroic Fortune, Mass|mass heroic fortune]]_ (2 charges)
 
-Moderate evocation; CL 9th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Heroic Fortune|heroic fortune]]*, *[[rangoric-srd/spells/Heroic Fortune, Mass|mass heroic fortune]]*; Price 44,400 gp; Cost 37,200 gp; Weight 3 lbs.
+Moderate evocation; CL 9th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Heroic Fortune|heroic fortune]]_, _[[rangoric-srd/spells/Heroic Fortune, Mass|mass heroic fortune]]_; Price 44,400 gp; Cost 37,200 gp; Weight 3 lbs.

@@ -26,4 +26,4 @@ This scabbard resizes to fit any bladed weapon. When worn on the body the scabba
 
 - Energy resistance 5 against a specified energy form (this does not stack with any other energy protections currently in place)
 
-Moderate abjuration; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Mage Armor|mage armor]]*, *[[rangoric-srd/spells/Resist Energy|resist energy]]*; Price 31,000 gp; Cost 15,500 gp + 1,240 XP.
+Moderate abjuration; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_; Price 31,000 gp; Cost 15,500 gp + 1,240 XP.

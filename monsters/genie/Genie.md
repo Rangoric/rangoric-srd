@@ -19,8 +19,8 @@ Genies prefer to outmaneuver and outthink their foes. They are not too proud to 
 
 **Plane Shift (Sp)**: A genie can enter any of the elemental planes, the Astral Plane, or the Material Plane. This ability transports the genie and up to eight other creatures, provided they all link hands with the genie. It is otherwise similar to [[rangoric-srd/spells/Spells T to Z|the spell]] of the same name (caster level 13th).
 
-  - [[rangoric-srd/monsters/genie/Djinni|Djinni]]
-  - [[rangoric-srd/monsters/genie/Efreeti|Efreeti]]
-  - [[rangoric-srd/monsters/genie/Janni|Janni]]
-  - [[rangoric-srd/monsters/genie/Marid|Marid]]
-  - [[rangoric-srd/monsters/genie/Shaitan|Shaitan]]
+- [[rangoric-srd/monsters/genie/Djinni|Djinni]]
+- [[rangoric-srd/monsters/genie/Efreeti|Efreeti]]
+- [[rangoric-srd/monsters/genie/Janni|Janni]]
+- [[rangoric-srd/monsters/genie/Marid|Marid]]
+- [[rangoric-srd/monsters/genie/Shaitan|Shaitan]]

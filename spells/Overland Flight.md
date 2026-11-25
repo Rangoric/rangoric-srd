@@ -29,12 +29,12 @@ tags: [rangoric, rangoric/spell]
 
 # Overland Flight
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 5, Mag 5, Occ 5, Psy 5, Sha 5, Sor/Wiz 5, Spi 5, Sum 4, SumU 5, Wit 5
-  - **Components**: V, S
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 hour/level
+- **Level**: Alc 5, Mag 5, Occ 5, Psy 5, Sha 5, Sor/Wiz 5, Spi 5, Sum 4, SumU 5, Wit 5
+- **Components**: V, S
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 hour/level
 
 This spell functions like a [[rangoric-srd/spells/Fly|fly]] spell, except you can fly at a speed of 40 feet (30 feet if wearing medium or heavy armor, or if carrying a medium or heavy load) with average maneuverability. When using this spell for long-distance movement, you can hustle without taking nonlethal damage (a forced march still requires Constitution checks). This means you can cover 64 miles in an eight-hour period of flight (or 48 miles at a speed of 30 feet).

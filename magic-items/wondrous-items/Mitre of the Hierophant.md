@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Mitre of the Hierophant
 
-This ostentatious hat functions only for a wearer who can cast divine spells. The wearer gains a +5 competence bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] and [[rangoric-srd/skills/Theology|Theology]] checks. Once per day on command, the wearer can ask a single question of her patron deity, as if by using *[[rangoric-srd/spells/Commune|commune]]*. Once per week on command, the wearer can touch a creature, atoning it for past misdeeds as if using an *[[rangoric-srd/spells/Atonement|atonement]]* spell.
+This ostentatious hat functions only for a wearer who can cast divine spells. The wearer gains a +5 competence bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] and [[rangoric-srd/skills/Theology|Theology]] checks. Once per day on command, the wearer can ask a single question of her patron deity, as if by using _[[rangoric-srd/spells/Commune|commune]]_. Once per week on command, the wearer can touch a creature, atoning it for past misdeeds as if using an _[[rangoric-srd/spells/Atonement|atonement]]_ spell.
 
-Moderate divination; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Atonement|atonement]]*, *[[rangoric-srd/spells/Commune|commune]]*, *[[rangoric-srd/spells/Guidance|guidance]]*; Price 18,000 gp; Cost 9,000 gp; Weight 2 lbs.
+Moderate divination; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Atonement|atonement]]_, _[[rangoric-srd/spells/Commune|commune]]_, _[[rangoric-srd/spells/Guidance|guidance]]_; Price 18,000 gp; Cost 9,000 gp; Weight 2 lbs.

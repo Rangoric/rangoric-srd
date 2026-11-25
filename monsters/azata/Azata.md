@@ -19,8 +19,8 @@ Azatas speak Celestial, Draconic, and Infernal, though they can speak with almos
 
 Azatas have the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^azata|azata subtype]]: darkvision and low-light vision, immunity to electricity and petrification, resistance to cold and fire, and truespeech.
 
-  - [[rangoric-srd/monsters/azata/Lyrakien|Lyrakien]]
-  - [[rangoric-srd/monsters/azata/Bralani|Bralani]]
-  - [[rangoric-srd/monsters/azata/Ghaele|Ghaele]]
-  - [[rangoric-srd/monsters/azata/Lillend|Lillend]]
-  - [[rangoric-srd/monsters/azata/Brijidine|Brijidine]]
+- [[rangoric-srd/monsters/azata/Lyrakien|Lyrakien]]
+- [[rangoric-srd/monsters/azata/Bralani|Bralani]]
+- [[rangoric-srd/monsters/azata/Ghaele|Ghaele]]
+- [[rangoric-srd/monsters/azata/Lillend|Lillend]]
+- [[rangoric-srd/monsters/azata/Brijidine|Brijidine]]

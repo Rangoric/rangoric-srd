@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Gun Training
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “gun training”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “gun training”, on the Special Qualities line.
 
 A cannon golem adds its Dex modifier to the damage dealt by its cannon. The [[rangoric-srd/monsters/golem/Cannon Golem|cannon golem]] has it.

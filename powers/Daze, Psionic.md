@@ -34,7 +34,7 @@ Target: One humanoid creature that has 4 HD or less
 Duration: 1 round  
 Saving Throw: Will negates  
 Power Resistance: Yes  
-Power Points: 1  
+Power Points: 1
 
 As the [[rangoric-srd/spells/Daze|daze]] spell, except as noted here.
 

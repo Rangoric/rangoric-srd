@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This amulet is crafted of a single massive petrified shark tooth suspended on kelp twine and grants its wearer combat potency while underwater. While wearing this amulet, its wearer can use melee weapons normally, taking no penalty to attack and dealing full damage with such attacks. This amulet also allows the wearer to make thrown range weapon attacks underwater, though such attacks take a –2 penalty on attack rolls and their range increment is halved.
 
-Faint abjuration; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Touch of the Sea|touch of the sea]]*, the crafter must be an [[rangoric-srd/races/Undine|undine]] or have the water subtype; Price 9,000 gp; Cost 4,500 gp.
+Faint abjuration; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Touch of the Sea|touch of the sea]]_, the crafter must be an [[rangoric-srd/races/Undine|undine]] or have the water subtype; Price 9,000 gp; Cost 4,500 gp.

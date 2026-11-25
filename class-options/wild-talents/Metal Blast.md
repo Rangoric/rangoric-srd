@@ -18,14 +18,14 @@ tags: [rangoric, rangoric/class-option]
 
 # Metal Blast
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#^composite-blasts|composite blast wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Earth Element|earth]]
-  - **Type**: composite blast (Sp)
-  - **Level**: —
-  - **Burn**: 2
-  - **Prerequisites**: [[rangoric-srd/classes/Kineticist#^kineticist-elemental-focus|primary element]] ([[rangoric-srd/class-options/elements/Earth Element|earth]]), [[rangoric-srd/classes/Kineticist#^kineticist-expanded-element|expanded element]] ([[rangoric-srd/class-options/elements/Earth Element|earth]])
-  - **Blast Type**: physical
-  - **Damage**: bludgeoning, piercing, or slashing
+- **Element**: [[rangoric-srd/class-options/elements/Earth Element|earth]]
+- **Type**: composite blast (Sp)
+- **Level**: —
+- **Burn**: 2
+- **Prerequisites**: [[rangoric-srd/classes/Kineticist#^kineticist-elemental-focus|primary element]] ([[rangoric-srd/class-options/elements/Earth Element|earth]]), [[rangoric-srd/classes/Kineticist#^kineticist-expanded-element|expanded element]] ([[rangoric-srd/class-options/elements/Earth Element|earth]])
+- **Blast Type**: physical
+- **Damage**: bludgeoning, piercing, or slashing
 
 You shape metal into clumps, shards, or blades and send them flying.

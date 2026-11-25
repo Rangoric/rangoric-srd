@@ -29,14 +29,14 @@ tags: [rangoric, rangoric/spell]
 
 # Persistent Vigor
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 4, Clr 4, Inq 4, Psy 4, Sha 4, Wit 4
-  - **Components**: V, S, M/DF (ginseng root shavings)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level (D)
+- **Level**: Alc 4, Clr 4, Inq 4, Psy 4, Sha 4, Wit 4
+- **Components**: V, S, M/DF (ginseng root shavings)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level (D)
 
 You are filled with a persistent vigor. You gain fast healing 2 and are immune to bleed effects as well as the sickened and nauseated conditions. When you succeed at a saving throw against a disease or poison effect, that disease or poison effect ends (as if you had succeeded at enough saving throws to cure that effect).
 

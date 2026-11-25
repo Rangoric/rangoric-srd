@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Cloud Giant
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
-  - **Hit Dice**: 16d8+96 (168 hp)
-  - **Initiative**: +1
-  - **Speed**: 50 ft. (10 squares)
-  - **Armor Class**: 25 (+4 armor, +1 Dex, +12 natural, –2 size), touch 9, flat-footed 24
-  - **Base Attack**: +12; **CMB**: +26; **CMD**: 37
-  - **Attack**: [[rangoric-srd/equipment/weapons/Morningstar|Morningstar]] +22 melee (4d6+18) or slam +22 melee (2d6+12) or rock +12 ranged (2d6+18)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Morningstar|Morningstar]] +22/+17/+12 melee (4d6+18); or 2 slams +22 melee (2d6+12); or rock +12 ranged (2d6+18)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (140 ft.), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], oversized weapon
-  - **Saves**: Fort +16, Ref +6, Will +10
-  - **Abilities**: Str 35, Dex 13, Con 23, Int 12, Wis 16, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Craft|Craft]] (any one) +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +26, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Performance|Performance]] (string instruments) +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +9
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Temperate mountains
-  - **Organization**: Solitary, gang (2–5), family (2–5 plus 35% noncombatants plus 1 sorcerer or cleric of 4th–7th level and 2–5 griffons), tribe (6–20 plus 1 sorcerer or cleric oracle of 7th–12th level and 2–5 griffons), or band (6–9 plus 1 sorcerer or cleric of 4th–7th level plus 2–5 griffons or 2–8 dire lions)
-  - **Challenge Rating**: 11
-  - **Treasure**: Standard (chain shirt, morningstar, other treasure)
-  - **Alignment**: Usually neutral good or neutral evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
+- **Hit Dice**: 16d8+96 (168 hp)
+- **Initiative**: +1
+- **Speed**: 50 ft. (10 squares)
+- **Armor Class**: 25 (+4 armor, +1 Dex, +12 natural, –2 size), touch 9, flat-footed 24
+- **Base Attack**: +12; **CMB**: +26; **CMD**: 37
+- **Attack**: [[rangoric-srd/equipment/weapons/Morningstar|Morningstar]] +22 melee (4d6+18) or slam +22 melee (2d6+12) or rock +12 ranged (2d6+18)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Morningstar|Morningstar]] +22/+17/+12 melee (4d6+18); or 2 slams +22 melee (2d6+12); or rock +12 ranged (2d6+18)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (140 ft.), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], oversized weapon
+- **Saves**: Fort +16, Ref +6, Will +10
+- **Abilities**: Str 35, Dex 13, Con 23, Int 12, Wis 16, Cha 12
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Craft|Craft]] (any one) +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +26, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Performance|Performance]] (string instruments) +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +9
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Temperate mountains
+- **Organization**: Solitary, gang (2–5), family (2–5 plus 35% noncombatants plus 1 sorcerer or cleric of 4th–7th level and 2–5 griffons), tribe (6–20 plus 1 sorcerer or cleric oracle of 7th–12th level and 2–5 griffons), or band (6–9 plus 1 sorcerer or cleric of 4th–7th level plus 2–5 griffons or 2–8 dire lions)
+- **Challenge Rating**: 11
+- **Treasure**: Standard (chain shirt, morningstar, other treasure)
+- **Alignment**: Usually neutral good or neutral evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 Cloud giants' skin ranges in color from milky white to powder blue. Adult males are about 18 feet tall and weigh around 5,000 pounds. Females are slightly shorter and lighter. Cloud giants can live to be 400 years old, and dress in the finest clothing and jewelry available. To many, appearance indicates station. The better the clothes and the finer the jewelry, the more important the wearer. They also appreciate music, and most can play one or more instruments (the harp is a favorite).
 
@@ -78,7 +78,7 @@ Cloud giants speak Common and Giant.
 
 Cloud giants fight in well-organized units, using carefully developed battle plans. They prefer to fight from a position above their opponents. A favorite tactic is to circle the enemies, barraging them with rocks while the giants with magical abilities confound them with spells.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 16th): At will—*[[rangoric-srd/spells/Levitate|levitate]]* (self plus 2,000 lbs.), *[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]*; 1/day—*[[rangoric-srd/spells/Fog Cloud|fog cloud]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 16th): At will—_[[rangoric-srd/spells/Levitate|levitate]]_ (self plus 2,000 lbs.), _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_; 1/day—_[[rangoric-srd/spells/Fog Cloud|fog cloud]]_.
 
 **Oversized Weapon (Ex)**: A cloud giant can wield Gargantuan weapons without penalty. Most favor the use of immense morningstars.
 

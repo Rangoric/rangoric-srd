@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/pole-arms, eastern]
 
 # Hooked Lance
 
-*Martial two-handed melee weapon (reach, trip).* Cost 3 gp; Dmg 1d6 (S), 1d8 (M); Critical x4; Weight 10 lb.; Type Piercing. ^stats
+_Martial two-handed melee weapon (reach, trip)._ Cost 3 gp; Dmg 1d6 (S), 1d8 (M); Critical x4; Weight 10 lb.; Type Piercing. ^stats
 
 This slender, 10-foot-long polearm has an added hook protruding from the head that is used to snag the clothing and armor of opponents.
 

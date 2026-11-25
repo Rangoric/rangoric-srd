@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Forbid Action, Greater
 
-*Enchantment (Compulsion) \[Language-dependent, Mind-affecting\]*
+_Enchantment (Compulsion) \[Language-dependent, Mind-affecting\]_
 
-  - **Level**: Clr 5, Inq 5, Mes 4, Occ 5, Psy 5
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. +5 ft./2 levels)
-  - **Targets**: One creature/level, no two of which can be more than 30 ft. apart
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Clr 5, Inq 5, Mes 4, Occ 5, Psy 5
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. +5 ft./2 levels)
+- **Targets**: One creature/level, no two of which can be more than 30 ft. apart
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
-This spell functions as *[[rangoric-srd/spells/Forbid Action|forbid action]]*, except up to one creature per level may be affected. Each creature must receive the same forbidden action.
+This spell functions as _[[rangoric-srd/spells/Forbid Action|forbid action]]_, except up to one creature per level may be affected. Each creature must receive the same forbidden action.

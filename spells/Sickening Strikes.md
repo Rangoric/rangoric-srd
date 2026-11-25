@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Sickening Strikes
 
-*Transmutation \[Disease\]*
+_Transmutation \[Disease\]_
 
-  - **Level**: Alc 2, Apl 2, Drd 2, Hun 2, Mag 3, Rgr 4, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Fortitude negates; see text
-  - **Spell Resistance**: Yes
+- **Level**: Alc 2, Apl 2, Drd 2, Hun 2, Mag 3, Rgr 4, Wit 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level
+- **Saving Throw**: Fortitude negates; see text
+- **Spell Resistance**: Yes
 
 You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be sickened for 1 minute. Creatures that are immune to disease are immune to this sickened effect.

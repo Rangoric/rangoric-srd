@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Maze
 
-*Conjuration (Teleportation)*
+_Conjuration (Teleportation)_
 
-  - **Level**: Psy 8, Sor/Wiz 8, Sum 6, Wit 8
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: See text
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Psy 8, Sor/Wiz 8, Sum 6, Wit 8
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: See text
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 You banish the subject into an extradimensional labyrinth of force planes. Each round on its turn, it may attempt a DC 20 Intelligence check to escape the labyrinth as a full-round action. If the subject doesn’t escape, the maze disappears after 10 minutes, forcing the subject to leave.
 

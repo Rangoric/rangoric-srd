@@ -40,25 +40,25 @@ tags: [rangoric, rangoric/monster]
 
 # Magma Elemental, Small
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Earth, Elemental, Extraplanar, Fire)
-  - **Hit Dice**: 2d10 (11 hp)
-  - **Initiative**: +3
-  - **Speed**: 20 ft. (4 squares), burrow 20 ft.; earth glide
-  - **Armor Class**: 15 (–1 Dex, +5 natural, +1 size), touch 10, flat-footed 15
-  - **Base Attack**: +2; **CMB**: +1; **CMD**: 10
-  - **Attack**: Slam +3 melee (1d3 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
-  - **Full Attack**: Slam +3 melee (1d3 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d4, DC 9), [[rangoric-srd/monsters/elemental/Magma Elemental#^lava-puddle|lava puddle]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Earth Glide|earth glide]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], vulnerable to cold
-  - **Saves**: Fort +3, Ref +2, Will +0
-  - **Abilities**: Str 10, Dex 8, Con 11, Int 4, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +2, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +8
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
-  - **Environment**: Any (Elemental Plane of Fire)
-  - **Organization**: Solitary, pair, or gang (3–8)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Earth, Elemental, Extraplanar, Fire)
+- **Hit Dice**: 2d10 (11 hp)
+- **Initiative**: +3
+- **Speed**: 20 ft. (4 squares), burrow 20 ft.; earth glide
+- **Armor Class**: 15 (–1 Dex, +5 natural, +1 size), touch 10, flat-footed 15
+- **Base Attack**: +2; **CMB**: +1; **CMD**: 10
+- **Attack**: Slam +3 melee (1d3 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
+- **Full Attack**: Slam +3 melee (1d3 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d4, DC 9), [[rangoric-srd/monsters/elemental/Magma Elemental#^lava-puddle|lava puddle]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Earth Glide|earth glide]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], vulnerable to cold
+- **Saves**: Fort +3, Ref +2, Will +0
+- **Abilities**: Str 10, Dex 8, Con 11, Int 4, Wis 11, Cha 11
+- **Skills**: [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +2, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +8
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
+- **Environment**: Any (Elemental Plane of Fire)
+- **Organization**: Solitary, pair, or gang (3–8)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —

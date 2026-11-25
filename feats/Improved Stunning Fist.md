@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, fighter-bonus, epic]
 
 # Improved Stunning Fist
 
-Prerequisite: Dex 19, Wis 19, [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]].  
+Prerequisite: Dex 19, Wis 19, [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]].
 
 Benefit: Add +2 to the DC of the character’s stunning attack.
 

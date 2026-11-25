@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Shopkeep
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 3d8 (13 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 10, touch 10, flat-footed 10
-  - **Base Attack**: +2; **CMB**: +1; **CMD**: 11
-  - **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +1 melee (1d4–1/19–20) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +2 ranged (1d4–1/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +1 melee (1d4–1/19–20); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +2 ranged (1d4–1/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort +1, Ref +1, Will +4
-  - **Abilities**: Str 9, Dex 10, Con 10, Int 11, Wis 13, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Imitation|Imitation]] +4, [[rangoric-srd/skills/Linguistics|Linguistics]] +6, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Profession|Profession]] (merchant) +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Society|Society]] +6
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Perception, Profession \[merchant\])
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 1
-  - **Treasure**: NPC gear (combat gear: smokestick, tanglefoot bag; other gear: dagger, disguise kit, heavy horse and wagon, 433 gp worth of trade goods)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 3d8 (13 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 10, touch 10, flat-footed 10
+- **Base Attack**: +2; **CMB**: +1; **CMD**: 11
+- **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +1 melee (1d4–1/19–20) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +2 ranged (1d4–1/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +1 melee (1d4–1/19–20); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +2 ranged (1d4–1/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort +1, Ref +1, Will +4
+- **Abilities**: Str 9, Dex 10, Con 10, Int 11, Wis 13, Cha 12
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Imitation|Imitation]] +4, [[rangoric-srd/skills/Linguistics|Linguistics]] +6, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Profession|Profession]] (merchant) +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Society|Society]] +6
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Perception, Profession \[merchant\])
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 1
+- **Treasure**: NPC gear (combat gear: smokestick, tanglefoot bag; other gear: dagger, disguise kit, heavy horse and wagon, 433 gp worth of trade goods)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A shopkeep is a [[rangoric-srd/monsters/human/Human|human]] with 3 levels of [[rangoric-srd/classes/Expert|expert]]. Shopkeeps operate a city's trade emporiums, a town's shops, a village's general store, and the frontier's isolated trading posts. Whether a canny traveling peddler, a wheeling and dealing bazaar stallholder, or a respected businessman with a position on the town council, shopkeeps are found across the world, forming the backbone of a settlement's economy as they keep the river of trade flowing freely through its gates.
 

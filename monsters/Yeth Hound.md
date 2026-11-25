@@ -37,30 +37,31 @@ change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
+
 # Yeth Hound
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Evil, Extraplanar)
-  - **Hit Dice**: 4d10+8 (30 hp)
-  - **Initiative**: +6
-  - **Speed**: 40 ft. (8 squares), fly 60 ft. (good)
-  - **Armor Class**: 15 (+2 Dex, +3 natural), touch 12, flat-footed 13
-  - **Base Attack**: +4; **CMB**: +7; **CMD**: 19 (23 vs. trip)
-  - **Attack**: Bite +7 melee (2d6+4 plus sinister bite and [[rangoric-srd/monsters/abilities/Trip|trip]])
-  - **Full Attack**: Bite +7 melee (2d6+4 plus sinister bite and [[rangoric-srd/monsters/abilities/Trip|trip]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Bay
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/silver
-  - **Saves**: Fort +3, Ref +6, Will +6
-  - **Abilities**: Str 17, Dex 15, Con 15, Int 6, Wis 14, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +9
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics)
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, or pack (6–11)
-  - **Challenge Rating**: 3
-  - **Treasure**: Incidental
-  - **Alignment**: Always neutral evil
-  - **Advancement**: 4–6 HD (Medium); 7–9 HD (Large)
-  - **Level Adjustment**: +3 (cohort)
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Evil, Extraplanar)
+- **Hit Dice**: 4d10+8 (30 hp)
+- **Initiative**: +6
+- **Speed**: 40 ft. (8 squares), fly 60 ft. (good)
+- **Armor Class**: 15 (+2 Dex, +3 natural), touch 12, flat-footed 13
+- **Base Attack**: +4; **CMB**: +7; **CMD**: 19 (23 vs. trip)
+- **Attack**: Bite +7 melee (2d6+4 plus sinister bite and [[rangoric-srd/monsters/abilities/Trip|trip]])
+- **Full Attack**: Bite +7 melee (2d6+4 plus sinister bite and [[rangoric-srd/monsters/abilities/Trip|trip]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Bay
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/silver
+- **Saves**: Fort +3, Ref +6, Will +6
+- **Abilities**: Str 17, Dex 15, Con 15, Int 6, Wis 14, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics)
+- **Environment**: Any
+- **Organization**: Solitary, pair, or pack (6–11)
+- **Challenge Rating**: 3
+- **Treasure**: Incidental
+- **Alignment**: Always neutral evil
+- **Advancement**: 4–6 HD (Medium); 7–9 HD (Large)
+- **Level Adjustment**: +3 (cohort)
 
 Yeth hounds are evil outsiders that delight in hunting intelligent prey. They lope through the night skies, relentlessly pursuing their chosen quarry for miles, and harrying them with their frightful baying. Yeth hounds hunt only at night. They fear the sun and never venture out in daylight, even if their lives depend on it. A yeth hound stands 4 feet tall at the shoulder and weighs about 400 pounds.
 

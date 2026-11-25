@@ -20,8 +20,8 @@ tags: [rangoric, rangoric/magic-item]
 
 Crafted from bronzewood with brass bindings, this staff allows use of the following spells:
 
-  - [[rangoric-srd/spells/Burning Hands|Burning hands]] (1 charge)
-  - [[rangoric-srd/spells/Fireball|Fireball]] (1 charge)
-  - [[rangoric-srd/spells/Wall of Fire|Wall of fire]] (2 charges)
+- [[rangoric-srd/spells/Burning Hands|Burning hands]] (1 charge)
+- [[rangoric-srd/spells/Fireball|Fireball]] (1 charge)
+- [[rangoric-srd/spells/Wall of Fire|Wall of fire]] (2 charges)
 
 Moderate evocation; CL 8th; Craft Staff, burning hands, fireball, wall of fire; Price 17,750 gp.

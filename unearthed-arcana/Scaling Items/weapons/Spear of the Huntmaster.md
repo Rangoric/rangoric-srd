@@ -21,14 +21,14 @@ tags: [rangoric, rangoric/scaling-item]
 
 # Spear of the Huntmaster
 
-*A scaling item ([[rangoric-srd/unearthed-arcana/Scaling Items/Scaling Items#^value-of-scaling-items|prize]]): its powers unlock as its wielder gains levels.*
+_A scaling item ([[rangoric-srd/unearthed-arcana/Scaling Items/Scaling Items#^value-of-scaling-items|prize]]): its powers unlock as its wielder gains levels._
 
-This *+1 spear* of jet-black wood has a head of polished amber. The spear's wielder can use *[[rangoric-srd/spells/Know Direction|know direction]]* at will.
+This _+1 spear_ of jet-black wood has a head of polished amber. The spear's wielder can use _[[rangoric-srd/spells/Know Direction|know direction]]_ at will.
 
 **8th Level**: With the spear in hand, the wielder gains a +5 competence bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks.
 
-**10th Level**: A wielder with the [[rangoric-srd/classes/Ranger#^ranger-quarry|quarry]] class feature can use the spear to use *[[rangoric-srd/spells/Locate Creature|locate creature]]* once per day to find his quarry. If his quarry is within range, the amber spearhead glows brightly when pointed in the proper direction.
+**10th Level**: A wielder with the [[rangoric-srd/classes/Ranger#^ranger-quarry|quarry]] class feature can use the spear to use _[[rangoric-srd/spells/Locate Creature|locate creature]]_ once per day to find his quarry. If his quarry is within range, the amber spearhead glows brightly when pointed in the proper direction.
 
-**12th Level**: The spear gains the *[[rangoric-srd/magic-items/weapon-abilities/Returning|returning]]* weapon special ability.
+**12th Level**: The spear gains the _[[rangoric-srd/magic-items/weapon-abilities/Returning|returning]]_ weapon special ability.
 
-Moderate divination; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Detect Animals or Plants|detect animals or plants]]*, *[[rangoric-srd/spells/Know Direction|know direction]]*, *[[rangoric-srd/spells/Locate Creature|locate creature]]*, *[[rangoric-srd/spells/Telekinesis|telekinesis]]*; Price 2,650 gp; Cost 10,380 gp; Weight 6 lbs.
+Moderate divination; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Detect Animals or Plants|detect animals or plants]]_, _[[rangoric-srd/spells/Know Direction|know direction]]_, _[[rangoric-srd/spells/Locate Creature|locate creature]]_, _[[rangoric-srd/spells/Telekinesis|telekinesis]]_; Price 2,650 gp; Cost 10,380 gp; Weight 6 lbs.

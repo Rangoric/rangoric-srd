@@ -19,13 +19,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Dirge Bard
 
-*A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A composer of sonorous laments for the dead and elaborate requiems for those lost yet long remembered, dirge bards master musical tools and tropes that must appeal to the ears and hearts of both the living and the dead.
 
 **Bardic Performance**: A dirge bard gains the following type of [[rangoric-srd/classes/Bard#^bardic-music|bardic performance]].
 
-**Dance of the Dead (Su)**: At 10th level, a dirge bard can use his bardic performance to cause dead bones or bodies to rise up and move or fight at his command. This ability functions like *[[rangoric-srd/spells/Animate Dead|animate dead]]*, but the created skeletons or zombies remain fully animate only as long as the dirge bard continues the performance. Once it stops, any created undead collapse into carrion. Bodies or bones cannot be animated more than once using this ability. Unlike *[[rangoric-srd/spells/Animate Dead|animate dead]]*, dance of the dead requires no components and does not have the evil descriptor. This performance replaces [[rangoric-srd/classes/Bard#^bard-jack-of-all-trades|jack-of-all-trades]].
+**Dance of the Dead (Su)**: At 10th level, a dirge bard can use his bardic performance to cause dead bones or bodies to rise up and move or fight at his command. This ability functions like _[[rangoric-srd/spells/Animate Dead|animate dead]]_, but the created skeletons or zombies remain fully animate only as long as the dirge bard continues the performance. Once it stops, any created undead collapse into carrion. Bodies or bones cannot be animated more than once using this ability. Unlike _[[rangoric-srd/spells/Animate Dead|animate dead]]_, dance of the dead requires no components and does not have the evil descriptor. This performance replaces [[rangoric-srd/classes/Bard#^bard-jack-of-all-trades|jack-of-all-trades]].
 
 **Haunted Eyes (Ex)**: At 2nd level, a dirge bard gains a +4 bonus on saves against [[rangoric-srd/rules/Special Abilities and Conditions#Fear|fear]], [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|energy drain]], [[rangoric-srd/rules/Special Abilities and Conditions#Death Attacks|death effects]], and necromantic effects. This ability replaces [[rangoric-srd/classes/Bard#^bard-well-versed|well-versed]].
 

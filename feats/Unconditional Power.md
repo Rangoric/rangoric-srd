@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, metapsionic]
 
 # Unconditional Power
 
-Disabling conditions do not hold you back.  
+Disabling conditions do not hold you back.
 
 Benefit: To use this feat, you must expend your psionic focus. Your mental strength is enough to overcome some otherwise disabling conditions. You can manifest an unconditional power when you are [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]], [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]], [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]], or [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]].
 

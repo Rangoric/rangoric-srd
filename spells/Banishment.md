@@ -31,16 +31,16 @@ tags: [rangoric, rangoric/spell]
 
 # Banishment
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 6, Inq 5, Psy 7, Sha 6, Sor/Wiz 7, Spi 6, Sum 5, SumU 6
-  - **Components**: V, S, F
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Targets**: One or more extraplanar creatures, no two of which can be more than 30 ft. apart
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Clr 6, Inq 5, Psy 7, Sha 6, Sor/Wiz 7, Spi 6, Sum 5, SumU 6
+- **Components**: V, S, F
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Targets**: One or more extraplanar creatures, no two of which can be more than 30 ft. apart
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 A banishment spell is a more powerful version of the [[rangoric-srd/spells/Dismissal|dismissal]] spell. It enables you to force extraplanar creatures out of your home plane. As many as 2 Hit Dice of creatures per caster level can be banished.
 
@@ -48,4 +48,4 @@ You can improve the spell’s chance of success by presenting at least one objec
 
 Certain rare items might work twice as well as a normal item for the purpose of the bonuses (each providing a +2 bonus on the caster level check against spell resistance and increasing the save DC by 4).
 
-*Arcane Focus*: Any item that is distasteful to the subject (optional, see above).
+_Arcane Focus_: Any item that is distasteful to the subject (optional, see above).

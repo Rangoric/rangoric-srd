@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Feed of Elemental Resistance
 
-*Herbal Restorative/Ingestible; Special*
+_Herbal Restorative/Ingestible; Special_
 
 After ingesting this feed, any animal or magical beast up to the size of a large horse (meaning that this feed can be used by centaurs if so desired) can endure temperature extremes without any penalties, provided they are not supernatural in origin. Snow, sleet, rain, or desert heat will not affect the mount or animal for 2d6 hours after feeding.
 

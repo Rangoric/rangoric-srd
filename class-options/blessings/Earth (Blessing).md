@@ -15,8 +15,8 @@ tags: [rangoric, rangoric/class-option]
 
 # Earth Blessing
 
-*A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Earth Domain|Earth domain]].*
+_A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Earth Domain|Earth domain]]._
 
-**Acid Strike (minor)**: At 1st level, you can touch one weapon and enhance it with acidic potency. For 1 minute, this weapon emits acrid fumes that deal an additional 1d4 points of acid damage with each strike. This additional damage doesn’t stack with the additional damage from the *[[rangoric-srd/magic-items/weapon-abilities/Corrosive|corrosive]]* weapon special ability.
+**Acid Strike (minor)**: At 1st level, you can touch one weapon and enhance it with acidic potency. For 1 minute, this weapon emits acrid fumes that deal an additional 1d4 points of acid damage with each strike. This additional damage doesn’t stack with the additional damage from the _[[rangoric-srd/magic-items/weapon-abilities/Corrosive|corrosive]]_ weapon special ability.
 
 **Armor of Earth (major)**: At 10th level, you can touch an ally and harden its armor or clothing. For 1 minute, the ally gains DR 1/—. For every 2 levels beyond 10th, this DR increases by 1 (to a maximum of DR 5/— at 18th level). This doesn’t stack with any other damage resistance.

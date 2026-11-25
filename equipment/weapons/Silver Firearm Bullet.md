@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/weapon]
 
 # Silver Firearm Bullet
 
-*Ammunition for firearms.* Cost 25 gp; Weight —. ^stats
+_Ammunition for firearms._ Cost 25 gp; Weight —. ^stats
 
 This ammunition is specifically crafted from silver, and though nonmagical, it is particularly detrimental to lycanthropes, automatically confirming any critical threats against such creatures. A firearm that is shooting a silver bullet takes a –1 penalty on damage rolls (with a minimum of 1 point of damage).

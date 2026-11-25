@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Cunning Feint
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 The vigilante can [[rangoric-srd/combat/Combat Special Attacks#Feint|feint]] as a move action or in place of his first attack during a full attack.
 

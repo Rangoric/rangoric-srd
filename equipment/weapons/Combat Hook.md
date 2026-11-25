@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/close]
 
 # Combat Hook
 
-*Exotic one-handed melee weapon (trip).* Cost 10 gp; Dmg 1d4 (S), 1d6 (M); Critical x3; Weight 3 lb.; Type Piercing. ^stats
+_Exotic one-handed melee weapon (trip)._ Cost 10 gp; Dmg 1d4 (S), 1d6 (M); Critical x3; Weight 3 lb.; Type Piercing. ^stats
 
 An unusual and cruel weapon, the combat hook has a foot long, wickedly sharp, curved hook, much like an oversized meat hook, attached to a sturdy handle. Attacks with this weapon utilize a ripping action.

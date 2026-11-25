@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This snakeskin belt's buckle is shaped like a serpent's head. The wearer gains a +2 enhancement bonus to Strength and a +2 competence bonus on [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] combat maneuver checks. Treat the enhancement bonus to Strength as temporary ability bonus for the first 24 hours the belt is worn. In addition, the belt grants the wearer the [[rangoric-srd/monsters/abilities/Constrict|constrict]] ability for 1d6 points of damage plus the wearer's Strength modifier.
 
-Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Beast Shape I|beast shape I]]*, *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*; Price 18,500 gp; Cost 9,250 gp; Weight 1 lb.
+Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Beast Shape I|beast shape I]]_, _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_; Price 18,500 gp; Cost 9,250 gp; Weight 1 lb.

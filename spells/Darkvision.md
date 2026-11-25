@@ -31,20 +31,20 @@ tags: [rangoric, rangoric/spell]
 
 # Darkvision
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 2, Apl 2, Hun 3, Med 2, Occ 2, Psy 2, Rgr 3, Sor/Wiz 2
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 hour/level
-  - **Saving Throw**: Will negates (harmless)
-  - 
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Alc 2, Apl 2, Hun 3, Med 2, Occ 2, Psy 2, Rgr 3, Sor/Wiz 2
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 hour/level
+- **Saving Throw**: Will negates (harmless)
+-
+- **Spell Resistance**: Yes (harmless)
 
 The subject gains the ability to see 60 feet even in total darkness. Darkvision is black and white only but otherwise like normal sight. Darkvision does not grant one the ability to see in magical darkness.
 
 Darkvision can be made permanent with a permanency spell.
 
-*Material Component*: Either a pinch of dried carrot or an agate.
+_Material Component_: Either a pinch of dried carrot or an agate.

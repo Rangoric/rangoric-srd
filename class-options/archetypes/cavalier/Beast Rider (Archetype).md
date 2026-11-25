@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Beast Rider
 
-*A [[rangoric-srd/classes/Cavalier#^cavalier-archetypes|cavalier]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Cavalier#^cavalier-archetypes|cavalier]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 The cavalier is defined not only by his dedication to his order or his skill on the battlefield, but also by the special relationship he maintains with his mount. Where some cavaliers are simply skilled with horses or well-trained knights, the beast rider spends his life in constant pursuit of the most perfect mount, forming bonds with greater, more powerful, and more exotic creatures.
 

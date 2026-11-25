@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/weapon]
 
 # Pellets
 
-*Ammunition for firearms.* Cost 1 gp; Weight —; Pellets, 30 handfuls: Cost 30 gp, Weight 1/2 lb. ^stats
+_Ammunition for firearms._ Cost 1 gp; Weight —; Pellets, 30 handfuls: Cost 30 gp, Weight 1/2 lb. ^stats
 
 A handful of pellets, along with a dose of black powder, is commonly used as ammunition for one-handed and two-handed firearms with the scatter weapon quality, though rocks or other small bits of hard material can be used in the pellets' place. Using anything other than pellets or alchemical cartridges when firing off a cone attack with a scatter weapon increases the weapon's misfire range by 1 (though this increase can be removed by switching back to standard ammunition).

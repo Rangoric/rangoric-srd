@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades, weapon-group/monk, 
 
 # Kama
 
-*Exotic light melee weapon (trip).* Cost 2 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 2 lb.; Type Slashing. ^stats
+_Exotic light melee weapon (trip)._ Cost 2 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 2 lb.; Type Slashing. ^stats
 
 The kama is a special monk weapon. This designation gives a monk wielding a kama special options.
 

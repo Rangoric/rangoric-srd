@@ -39,29 +39,29 @@ tags: [rangoric, rangoric/monster]
 
 # Ravid
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]])
-  - **Hit Dice**: 3d8+3 (16 hp)
-  - **Initiative**: +4
-  - **Speed**: 20 ft. (4 squares), fly 60 ft. (perfect)
-  - **Armor Class**: 25 (+15 natural), touch 10, flat-footed 25
-  - **Base Attack**: +3; **CMB**: +4; **CMD**: 14 (can't be tripped)
-  - **Attack**: Tail slap +4 melee (1d6+1 plus positive energy) or tail touch +4 melee touch (positive energy)
-  - **Full Attack**: Tail slap +4 melee (1d6+1 plus positive energy) and claw +2 melee (1d4 plus positive energy); or tail touch +4 melee touch (positive energy) and claw touch +2 melee touch (positive energy)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Positive energy lash, [[rangoric-srd/spells/Animate Objects|animate objects]]
-  - **Special Qualities**: Darkvision 60 ft., flight, immunity to fire
-  - **Saves**: Fort +4, Ref +3, Will +4
-  - **Abilities**: Str 13, Dex 10, Con 13, Int 7, Wis 12, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Escape Artist|Escape Artist]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7 (+9 with bindings), [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +6
-  - **Unspent Skill Points**: 6
-  - **Feats**: [[rangoric-srd/feats/Feats All|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]]
-  - **Environment**: Positive Energy Plane
-  - **Organization**: Solitary (1 plus at least 1 animated object)
-  - **Challenge Rating**: 5
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 4 HD (Medium); 5–9 HD (Large)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]])
+- **Hit Dice**: 3d8+3 (16 hp)
+- **Initiative**: +4
+- **Speed**: 20 ft. (4 squares), fly 60 ft. (perfect)
+- **Armor Class**: 25 (+15 natural), touch 10, flat-footed 25
+- **Base Attack**: +3; **CMB**: +4; **CMD**: 14 (can't be tripped)
+- **Attack**: Tail slap +4 melee (1d6+1 plus positive energy) or tail touch +4 melee touch (positive energy)
+- **Full Attack**: Tail slap +4 melee (1d6+1 plus positive energy) and claw +2 melee (1d4 plus positive energy); or tail touch +4 melee touch (positive energy) and claw touch +2 melee touch (positive energy)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Positive energy lash, [[rangoric-srd/spells/Animate Objects|animate objects]]
+- **Special Qualities**: Darkvision 60 ft., flight, immunity to fire
+- **Saves**: Fort +4, Ref +3, Will +4
+- **Abilities**: Str 13, Dex 10, Con 13, Int 7, Wis 12, Cha 14
+- **Skills**: [[rangoric-srd/skills/Escape Artist|Escape Artist]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7 (+9 with bindings), [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +6
+- **Unspent Skill Points**: 6
+- **Feats**: [[rangoric-srd/feats/Feats All|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]]
+- **Environment**: Positive Energy Plane
+- **Organization**: Solitary (1 plus at least 1 animated object)
+- **Challenge Rating**: 5
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 4 HD (Medium); 5–9 HD (Large)
+- **Level Adjustment**: —
 
 Ravids are creatures from the Positive Energy Plane. These bizarre entities imbue creatures with energy by their touch and animate lifeless objects around them. Ravids that make their way to the Material Plane wander about aimlessly, followed by the objects to which they have given life.
 

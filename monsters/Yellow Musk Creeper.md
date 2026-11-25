@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Yellow Musk Creeper
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
-  - **Hit Dice**: 3d8+9 (22 hp)
-  - **Initiative**: +2
-  - **Speed**: 5 ft. (1 square)
-  - **Armor Class**: 14 (+2 Dex, +2 natural), touch 12, flat-footed 12
-  - **Base Attack**: +2; **CMB**: +5; **CMD**: 17 (can't be tripped)
-  - **Attack**: Tendril +5 melee (1d4+4)
-  - **Full Attack**: Tendril +5 melee (1d4+4)
-  - **Space/Reach**: 5 ft./10 ft.
-  - **Special Attacks**: Create yellow musk zombie, pollen spray
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Tremorsense|Tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-  - **Saves**: Fort +6, Ref +3, Will +1
-  - **Abilities**: Str 17, Dex 15, Con 16, Int —, Wis 11, Cha 8
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Temperate or warm forests and underground
-  - **Organization**: Patch (creeper plus 1–6 yellow musk zombies)
-  - **Challenge Rating**: 2
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]]
+- **Hit Dice**: 3d8+9 (22 hp)
+- **Initiative**: +2
+- **Speed**: 5 ft. (1 square)
+- **Armor Class**: 14 (+2 Dex, +2 natural), touch 12, flat-footed 12
+- **Base Attack**: +2; **CMB**: +5; **CMD**: 17 (can't be tripped)
+- **Attack**: Tendril +5 melee (1d4+4)
+- **Full Attack**: Tendril +5 melee (1d4+4)
+- **Space/Reach**: 5 ft./10 ft.
+- **Special Attacks**: Create yellow musk zombie, pollen spray
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Tremorsense|Tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
+- **Saves**: Fort +6, Ref +3, Will +1
+- **Abilities**: Str 17, Dex 15, Con 16, Int —, Wis 11, Cha 8
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Temperate or warm forests and underground
+- **Organization**: Patch (creeper plus 1–6 yellow musk zombies)
+- **Challenge Rating**: 2
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The yellow musk creeper is a hideous plant that grows in haunted graveyards, grisly battlefields, and other places where death hangs heavy in the air and thick in the soil. The yellow musk creeper's method of procreation is singularly frightful—it slays the living, infests them with its seeds and pollen, then animates them as zombies. These zombies serve the plant as a guardian for several days, but when new zombies are created, older ones wander off into the surrounding wild, collapsing and breaking apart within 2d6 days to give seed to a new yellow musk creeper.
 

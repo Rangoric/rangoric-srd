@@ -31,16 +31,16 @@ tags: [rangoric, rangoric/spell]
 
 # Elemental Aura
 
-*Evocation \[Acid, Cold, Electricity, Fire\]*
+_Evocation \[Acid, Cold, Electricity, Fire\]_
 
-  - **Level**: Alc 3, Blr 3, Mag 3, Sor/Wiz 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: Reflex half; see text
-  - **Spell Resistance**: Yes
+- **Level**: Alc 3, Blr 3, Mag 3, Sor/Wiz 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: Reflex half; see text
+- **Spell Resistance**: Yes
 
 This spell forms an aura of energy around you, damaging all those that come near you. Choose an energy type: acid, cold, electricity, or fire. Creatures adjacent to you when this spell is cast and at the start of your turn take 2d6 points of energy damage of the selected type. This aura has an additional effect, depending upon the type of energy chosen.
 
@@ -54,4 +54,4 @@ This spell forms an aura of energy around you, damaging all those that come near
 
 Creatures affected by your aura catch on fire (see [[rangoric-srd/rules/Wilderness, Weather, and Environment#Catching on Fire|catching on fire]]).
 
-Creatures adjacent to you are allowed a Reflex save to halve the damage and negate the additional effect. The aura's additional effects do not stack if a creature takes damage from your aura multiple times. You may only have one *elemental aura* in effect at one time. When you cast this spell to deal acid, cold, electricity, or fire damage, it is a spell of that type.
+Creatures adjacent to you are allowed a Reflex save to halve the damage and negate the additional effect. The aura's additional effects do not stack if a creature takes damage from your aura multiple times. You may only have one _elemental aura_ in effect at one time. When you cast this spell to deal acid, cold, electricity, or fire damage, it is a spell of that type.

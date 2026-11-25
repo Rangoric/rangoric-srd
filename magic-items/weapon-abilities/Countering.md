@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Countering
 
-A *countering* weapon gives its wielder a +2 bonus to his combat maneuver defense against [[rangoric-srd/combat/Combat Maneuvers|combat maneuvers]] made to disarm or sunder this weapon. If the attempt fails, the wielder can immediately attempt the same maneuver against the opponent without provoking attacks of opportunity. The wielder never risks dropping his weapon with a failed disarm combat maneuver when counterattacking in this manner. This ability can be used even if the attacker is not within the wielder's reach. *Countering* can only be placed on melee weapons.
+A _countering_ weapon gives its wielder a +2 bonus to his combat maneuver defense against [[rangoric-srd/combat/Combat Maneuvers|combat maneuvers]] made to disarm or sunder this weapon. If the attempt fails, the wielder can immediately attempt the same maneuver against the opponent without provoking attacks of opportunity. The wielder never risks dropping his weapon with a failed disarm combat maneuver when counterattacking in this manner. This ability can be used even if the attacker is not within the wielder's reach. _Countering_ can only be placed on melee weapons.
 
-Faint transmutation; CL 5th; [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*; Price +1 bonus.
+Faint transmutation; CL 5th; [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_; Price +1 bonus.

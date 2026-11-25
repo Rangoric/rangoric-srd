@@ -35,14 +35,14 @@ This is the second version of the half-dragon template; the first is [[rangoric-
 
 **Special Abilities**: A half-dragon retains all the special attacks of the base creature and gains a [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]] usable once per day based on the dragon variety (see below). The breath weapon deals 1d6 hit points of damage per racial HD possessed by the half-dragon (Reflex half; DC 10 + 1/2 creature’s racial HD + creature’s Con modifier).
 
-| Dragon Variety | Breath Weapon |
-| --- | --- |
-| Black or copper | 60-foot line of acid |
-| Brass | 60-foot line of fire |
-| Blue or bronze | 60-foot line of electricity |
-| Gold or red | 30-foot cone of fire |
-| Green | 30-foot cone of acid |
-| Silver or white | 30-foot cone of cold |
+| Dragon Variety  | Breath Weapon               |
+| --------------- | --------------------------- |
+| Black or copper | 60-foot line of acid        |
+| Brass           | 60-foot line of fire        |
+| Blue or bronze  | 60-foot line of electricity |
+| Gold or red     | 30-foot cone of fire        |
+| Green           | 30-foot cone of acid        |
+| Silver or white | 30-foot cone of cold        |
 
 **Abilities**: Increase from the base creature as follows: Str +8, Con +6, Int +2, Cha +2.
 

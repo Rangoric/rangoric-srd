@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Spirit Whisperer
 
-*A [[rangoric-srd/classes/Wizard#^wizard-archetypes|wizard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Wizard#^wizard-archetypes|wizard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Spirit whisperers are a breed apart among wizards, and are often mistaken for [[rangoric-srd/classes/Witch|witches]]. While spirit whisperers do gain and store their spells by communing with familiars, the spirits they gain guidance from are somewhat closer to the world and more direct than the powers with which witches typically traffic. These wizards treat such spirits as mentors and friends, conversing with them rather than appeasing them in the effort to gain and use arcane knowledge.
 

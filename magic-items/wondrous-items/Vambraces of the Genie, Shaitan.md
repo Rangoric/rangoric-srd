@@ -21,8 +21,8 @@ tags: [rangoric, rangoric/magic-item]
 
 # Vambraces of the Genie, Shaitan
 
-These bracers are decorated with icons representing air, earth, fire, or water, and depictions of genies appropriate to that element. The item protects the wearer against hot and cold environments as if she were using *[[rangoric-srd/spells/Endure Elements|endure elements]]*. The vambraces' materials and other powers depend on their associated genie type.
+These bracers are decorated with icons representing air, earth, fire, or water, and depictions of genies appropriate to that element. The item protects the wearer against hot and cold environments as if she were using _[[rangoric-srd/spells/Endure Elements|endure elements]]_. The vambraces' materials and other powers depend on their associated genie type.
 
-**Shaitan**: These adamantine bracers allow the wearer to use *[[rangoric-srd/spells/Glitterdust|glitterdust]]*, *[[rangoric-srd/spells/Meld into Stone|meld into stone]]*, and *[[rangoric-srd/spells/Stone Shape|stone shape]]* each once per day.
+**Shaitan**: These adamantine bracers allow the wearer to use _[[rangoric-srd/spells/Glitterdust|glitterdust]]_, _[[rangoric-srd/spells/Meld into Stone|meld into stone]]_, and _[[rangoric-srd/spells/Stone Shape|stone shape]]_ each once per day.
 
-Faint evocation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Endure Elements|endure elements]]*, *[[rangoric-srd/spells/Glitterdust|glitterdust]]*, *[[rangoric-srd/spells/Meld into Stone|meld into stone]]*, *[[rangoric-srd/spells/Stone Shape|stone shape]]*; Price 18,900 gp; Cost 9,450 gp; Weight 3 lbs.
+Faint evocation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Endure Elements|endure elements]]_, _[[rangoric-srd/spells/Glitterdust|glitterdust]]_, _[[rangoric-srd/spells/Meld into Stone|meld into stone]]_, _[[rangoric-srd/spells/Stone Shape|stone shape]]_; Price 18,900 gp; Cost 9,450 gp; Weight 3 lbs.

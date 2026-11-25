@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/armor]
 
 # Mountain Kite Shield
 
-*Shield.* Cost 100 gp; Shield Bonus +3; Armor Check Penalty –3; Arcane Spell Failure 25%; Weight 20 lb. ^stats
+_Shield._ Cost 100 gp; Shield Bonus +3; Armor Check Penalty –3; Arcane Spell Failure 25%; Weight 20 lb. ^stats
 
 Bigger than any shield other than a tower shield, this slab of metal offers great protection but is simply too heavy to wield properly without special training.

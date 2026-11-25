@@ -42,28 +42,28 @@ tags: [rangoric, rangoric/monster]
 
 # Pod-Spawned Creature
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]] (Augmented Humanoid)
-  - **Hit Dice**: 9d10+36 (90 hp)
-  - **Initiative**: +5
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 20 (+7 armor, +1 Dex, +2 shield), touch 11, flat-footed 19
-  - **Base Attack**: +9; **CMB**: +13; **CMD**: 24
-  - **Attack**: +2 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +19 melee (1d8+10/17–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +12 ranged (1d8+1/19–20/×2)
-  - **Full Attack**: +2 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +19/+14 melee (1d8+10/17–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +12 ranged (1d8+1/19–20/×2)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (heavy blades +2, crossbows +1)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +2, [[rangoric-srd/monsters/abilities/Armor Training|armor training]] 2, [[rangoric-srd/monsters/Pod-Spawned Creature#^mimic|mimic]], [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-  - **Saves**: Fort +8, Ref +4, Will +4
-  - **Abilities**: Str 19, Dex 13, Con 14, Int 10, Wis 12, Cha 4
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +1
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]] (longsword), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (longsword), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (longsword), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any
-  - **Organization**: Any
-  - **Challenge Rating**: 8
-  - **Treasure**: NPC gear (+1 breastplate, heavy steel shield, +2 longsword, mwk light crossbow with 20 bolts, other treasure)
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant]] (Augmented Humanoid)
+- **Hit Dice**: 9d10+36 (90 hp)
+- **Initiative**: +5
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 20 (+7 armor, +1 Dex, +2 shield), touch 11, flat-footed 19
+- **Base Attack**: +9; **CMB**: +13; **CMD**: 24
+- **Attack**: +2 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +19 melee (1d8+10/17–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +12 ranged (1d8+1/19–20/×2)
+- **Full Attack**: +2 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +19/+14 melee (1d8+10/17–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +12 ranged (1d8+1/19–20/×2)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (heavy blades +2, crossbows +1)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +2, [[rangoric-srd/monsters/abilities/Armor Training|armor training]] 2, [[rangoric-srd/monsters/Pod-Spawned Creature#^mimic|mimic]], [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
+- **Saves**: Fort +8, Ref +4, Will +4
+- **Abilities**: Str 19, Dex 13, Con 14, Int 10, Wis 12, Cha 4
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +1
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]] (longsword), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (longsword), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (longsword), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any
+- **Organization**: Any
+- **Challenge Rating**: 8
+- **Treasure**: NPC gear (+1 breastplate, heavy steel shield, +2 longsword, mwk light crossbow with 20 bolts, other treasure)
+- **Alignment**: Usually lawful evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The pod-spawned creature above is a pod-spawned guard captain, a human with 9 levels of [[rangoric-srd/classes/Fighter|fighter]], duplicated by a [[rangoric-srd/monsters/Bodythief|bodythief]].
 

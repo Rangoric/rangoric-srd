@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Turning Shield
 
-*A psychic’s [[rangoric-srd/classes/Psychic (Class)#^psychic-major-amplifications|major amplification]] (Su).*
+_A psychic’s [[rangoric-srd/classes/Psychic (Class)#^psychic-major-amplifications|major amplification]] (Su)._
 
-The psychic can turn her excess spell energy into a barrier that deflects weaker spells. She can spend a number of points from her [[rangoric-srd/classes/Psychic (Class)#^psychic-phrenic-pool|phrenic pool]] equal to the linked spell’s level to gain the benefit of *[[rangoric-srd/spells/Spell Turning|spell turning]]* for 1 round per psychic level. The number of spell levels she can turn is equal to the level of the linked spell.
+The psychic can turn her excess spell energy into a barrier that deflects weaker spells. She can spend a number of points from her [[rangoric-srd/classes/Psychic (Class)#^psychic-phrenic-pool|phrenic pool]] equal to the linked spell’s level to gain the benefit of _[[rangoric-srd/spells/Spell Turning|spell turning]]_ for 1 round per psychic level. The number of spell levels she can turn is equal to the level of the linked spell.

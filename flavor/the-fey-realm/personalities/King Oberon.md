@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/flavor, flavor]
 
 # King Oberon
 
-***AKA “High Consort Oberon”, “Prince Oberon”***
+**_AKA “High Consort Oberon”, “Prince Oberon”_**
 
 Depending on when Oberon is encountered, he may either be Prince Oberon, consort to [[rangoric-srd/flavor/the-fey-realm/personalities/Queen Titania|Queen Titania]], or King Oberon, her husband. Regardless of where in his life one might meet him, he is a rather short ash-colored [[rangoric-srd/races/Feeorin|feeorin]] further understated by his hunched shoulders. Some say this is a birth defect while others blame [[rangoric-srd/flavor/the-fey-realm/personalities/Baba Yaga|Baba Yaga]] or the Sisters Three for cursing him while still in his mother’s womb. Despite his short stature and bent frame, he is a stalwart and strong man who acts younger than he appears. He is a good complement to Queen Titania’s rule, as he is a caring man who seeks to guide the younger and less experienced fey toward positive goals.
 

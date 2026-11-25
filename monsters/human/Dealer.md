@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Dealer
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 4d8+4 (22 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 14 (+2 armor, +2 Dex), touch 12, flat-footed 12
-  - **Base Attack**: +2; **CMB**: +3; **CMD**: 15
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +6 melee (1d4+2/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Sap|sap]] +5 melee (1d6+1 nonlethal) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Hand Crossbow|hand crossbow]] +5 ranged (1d4/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +6 melee (1d4+2/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Sap|sap]] +5 melee (1d6+1 nonlethal); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Hand Crossbow|hand crossbow]] +5 ranged (1d4/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +2d6
-  - **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-evasion|Evasion]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +1, [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (combat trick), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (dagger)
-  - **Saves**: Fort +2, Ref +5, Will +2
-  - **Abilities**: Str 12, Dex 15, Con 12, Int 14, Wis 8, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +12, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Engineering|Engineering]] +6, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Imitation|Imitation]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Profession|Profession]] (herbalist) +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +9, [[rangoric-srd/skills/Society|Society]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +9
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft \[alchemy\], Deception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (dagger)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 3
-  - **Treasure**: NPC gear (combat gear: bloodroot posion (2 doses), oil of taggit (2 doses), striped toadstool poison (2 doses); other gear: leather armor, masterwork hand crossbow with 10 bolts, masterwork dagger, sap, alchemy kit, disguise kit, thieves' tools)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 4d8+4 (22 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 14 (+2 armor, +2 Dex), touch 12, flat-footed 12
+- **Base Attack**: +2; **CMB**: +3; **CMD**: 15
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +6 melee (1d4+2/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Sap|sap]] +5 melee (1d6+1 nonlethal) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Hand Crossbow|hand crossbow]] +5 ranged (1d4/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +6 melee (1d4+2/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Sap|sap]] +5 melee (1d6+1 nonlethal); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Hand Crossbow|hand crossbow]] +5 ranged (1d4/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +2d6
+- **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-evasion|Evasion]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +1, [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (combat trick), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (dagger)
+- **Saves**: Fort +2, Ref +5, Will +2
+- **Abilities**: Str 12, Dex 15, Con 12, Int 14, Wis 8, Cha 14
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +12, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Engineering|Engineering]] +6, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Imitation|Imitation]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Profession|Profession]] (herbalist) +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +9, [[rangoric-srd/skills/Society|Society]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft \[alchemy\], Deception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (dagger)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 3
+- **Treasure**: NPC gear (combat gear: bloodroot posion (2 doses), oil of taggit (2 doses), striped toadstool poison (2 doses); other gear: leather armor, masterwork hand crossbow with 10 bolts, masterwork dagger, sap, alchemy kit, disguise kit, thieves' tools)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A dealer is a [[rangoric-srd/monsters/human/Human|human]] with 1 level of [[rangoric-srd/classes/Expert|expert]] and 3 levels of [[rangoric-srd/classes/Rogue|rogue]]. Dealers are purveyors of drugs, toxins, poisons, and all manner of proscribed and questionable alchemical substances. Operating from hidden laboratories and kitchens, they import and concoct their wares to rule the streets through the power of their sweet seduction. (See Drugs and Addiction for a variety of drugs dealers might push.)
 

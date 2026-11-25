@@ -28,34 +28,34 @@ Perception is also used to detect someone in disguise (see the [[rangoric-srd/sk
 
 Perception checks may be called for to determine the distance at which an encounter begins.
 
-*Hearing*: To hear a noise, your Perception check is made against a DC that reflects how quiet the noise is, or it is opposed by the Stealth check of someone trying to be quiet.
+_Hearing_: To hear a noise, your Perception check is made against a DC that reflects how quiet the noise is, or it is opposed by the Stealth check of someone trying to be quiet.
 
-| Perception DC | Sound                                                                                        |
-| ------------- | -------------------------------------------------------------------------------------------- |
-| –10           | A battle                                                                                     |
-| 0             | People talking (1)                                                                           |
-| 5             | A person in medium armor walking at a slow pace (10 ft./round) trying not to make any noise  |
-| 10            | An unarmored person walking at a slow pace (15 ft./round) trying not to make any noise       |
-| 15            | A 1st-level rogue using Stealth to sneak past the listener                                   |
-| 15            | People whispering (1)                                                                        |
-| 19            | A cat stalking                                                                               |
-| 30            | An owl gliding in for a kill                                                                 |
+| Perception DC | Sound                                                                                       |
+| ------------- | ------------------------------------------------------------------------------------------- |
+| –10           | A battle                                                                                    |
+| 0             | People talking (1)                                                                          |
+| 5             | A person in medium armor walking at a slow pace (10 ft./round) trying not to make any noise |
+| 10            | An unarmored person walking at a slow pace (15 ft./round) trying not to make any noise      |
+| 15            | A 1st-level rogue using Stealth to sneak past the listener                                  |
+| 15            | People whispering (1)                                                                       |
+| 19            | A cat stalking                                                                              |
+| 30            | An owl gliding in for a kill                                                                |
 
-1 *If you beat the DC by 10 or more, you can make out what’s being said, assuming that you understand the language.*
+1 _If you beat the DC by 10 or more, you can make out what’s being said, assuming that you understand the language._
 
 In the case of people trying to be quiet, the DCs given on the table could be replaced by Stealth checks, in which case the indicated DC would be their average check result.
 
-*Modifiers*: These apply to every Perception check, by sight or by hearing, unless noted.
+_Modifiers_: These apply to every Perception check, by sight or by hearing, unless noted.
 
-| Condition                         | Penalty |
-| --------------------------------- | ------- |
-| Per 10 feet of distance           | –1      |
-| Distracted (not being observant)  | –5      |
-| Through a door (hearing)          | –5      |
-| Through a stone wall (hearing)    | –15     |
-| Asleep (hearing)                  | –10     |
+| Condition                        | Penalty |
+| -------------------------------- | ------- |
+| Per 10 feet of distance          | –1      |
+| Distracted (not being observant) | –5      |
+| Through a door (hearing)         | –5      |
+| Through a stone wall (hearing)   | –15     |
+| Asleep (hearing)                 | –10     |
 
-*Read Lips*: To understand what someone is saying by reading lips, you must be within 30 feet of the speaker, be able to see him or her speak, and understand the speaker’s language. (This use of the skill is language-dependent.) The base DC is 15, but it increases for complex speech or an inarticulate speaker. You must maintain a line of sight to the lips being read.
+_Read Lips_: To understand what someone is saying by reading lips, you must be within 30 feet of the speaker, be able to see him or her speak, and understand the speaker’s language. (This use of the skill is language-dependent.) The base DC is 15, but it increases for complex speech or an inarticulate speaker. You must maintain a line of sight to the lips being read.
 
 If your Perception check succeeds, you can understand the general content of a minute’s worth of speaking, but you usually still miss certain details. If the check fails by 4 or less, you can’t read the speaker’s lips. If the check fails by 5 or more, you draw some incorrect conclusion about the speech. The check is rolled secretly in this case, so that you don’t know whether you succeeded or missed by 5.
 
@@ -77,24 +77,24 @@ A sleeping character may make Perception checks to hear things (with the asleep 
 
 ## Advanced Uses
 
-The character can pinpoint the location of an invisible creature, or detect an illusion with a visual or auditory component.  
+The character can pinpoint the location of an invisible creature, or detect an illusion with a visual or auditory component.
 
-| Task                                                     | DC |
-| -------------------------------------------------------- | -- |
-| Defeat illusion                                          | 80 |
+| Task            | DC  |
+| --------------- | --- |
+| Defeat illusion | 80  |
 
-*Invisible Creatures*: A high enough Perception check can reveal an [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] creature and even pinpoint where it is; the DCs are with invisibility.
+_Invisible Creatures_: A high enough Perception check can reveal an [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] creature and even pinpoint where it is; the DCs are with invisibility.
 
-*Defeat Illusion*: The character can automatically detect any illusion with a visual or auditory component for what it truly is. No Will save is required, and the character doesn’t have to interact with the illusion (but he or she must be able to see it or hear its auditory component).
+_Defeat Illusion_: The character can automatically detect any illusion with a visual or auditory component for what it truly is. No Will save is required, and the character doesn’t have to interact with the illusion (but he or she must be able to see it or hear its auditory component).
 
-*Using Perception to Read Lips*
+_Using Perception to Read Lips_
 
 | Task                                       | DC Modifier |
 | ------------------------------------------ | ----------- |
-| Read lips while moving at up to full speed | +20        |
-| Pronounce unfamiliar language              | +20        |
+| Read lips while moving at up to full speed | +20         |
+| Pronounce unfamiliar language              | +20         |
 
-*Pronounce Unfamiliar Language*: This use of the skill allows a character to repeat the speech of an observed creature, potentially allowing a comrade to translate the speech. It doesn’t grant the character any ability to understand the language spoken.
+_Pronounce Unfamiliar Language_: This use of the skill allows a character to repeat the speech of an observed creature, potentially allowing a comrade to translate the speech. It doesn’t grant the character any ability to understand the language spoken.
 
 ## Unlocks
 
@@ -120,20 +120,20 @@ Your psychic sensitivity lets you read the psychic and magical [[rangoric-srd/ru
 
 **Check**: Once per day, you can examine the natural aura of a creature or object to discern its alignment, emotions, health or magic. This takes 10 minutes of concentration, after which you attempt a Perception check. Each time, you pick one of the four auras to read: alignment, emotion, health or magic. The check’s result applies only to that aura. You must stay within 30 feet of the subject for the whole reading. Objects usually have only magic auras, though some also have alignment auras (and intelligent items have emotion auras). You can try to read a kind of aura an object doesn’t have, but you learn nothing. The DC depends on the aura, as shown on the table.
 
-*Read Alignment Aura*: You learn the subject’s alignment and the aura’s strength. An alignment aura’s strength depends on the creature’s Hit Dice or the item’s caster level, as described in *[[rangoric-srd/spells/Detect Evil|detect evil]]*.
+_Read Alignment Aura_: You learn the subject’s alignment and the aura’s strength. An alignment aura’s strength depends on the creature’s Hit Dice or the item’s caster level, as described in _[[rangoric-srd/spells/Detect Evil|detect evil]]_.
 
-*Read Emotion Aura*: The colors within the subject’s aura reveal its emotional state. If you succeed, you learn its disposition and its attitude toward every creature within 30 feet of it. For a number of rounds equal to the amount by which you exceeded the DC, you gain a +2 circumstance bonus on Deception, Persuasion, Intimidation and Sense Motive checks against it.
+_Read Emotion Aura_: The colors within the subject’s aura reveal its emotional state. If you succeed, you learn its disposition and its attitude toward every creature within 30 feet of it. For a number of rounds equal to the amount by which you exceeded the DC, you gain a +2 circumstance bonus on Deception, Persuasion, Intimidation and Sense Motive checks against it.
 
-*Read Health Aura*: Watching the flow of vital force, you assess a creature’s physical condition. You learn whether it is unharmed or wounded, whether it is poisoned or diseased, and whether it is [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]], [[rangoric-srd/rules/Special Abilities and Conditions#^disabled|disabled]], [[rangoric-srd/rules/Special Abilities and Conditions#^dying|dying]], [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]], [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]], [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] or [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]]. You also learn how many points it has in its [[rangoric-srd/classes/Monk#^monk-ki-pool|ki pool]], [[rangoric-srd/classes/Gunslinger#^gunslinger-grit|grit]] or a similar resource.
+_Read Health Aura_: Watching the flow of vital force, you assess a creature’s physical condition. You learn whether it is unharmed or wounded, whether it is poisoned or diseased, and whether it is [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]], [[rangoric-srd/rules/Special Abilities and Conditions#^disabled|disabled]], [[rangoric-srd/rules/Special Abilities and Conditions#^dying|dying]], [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]], [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]], [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] or [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]]. You also learn how many points it has in its [[rangoric-srd/classes/Monk#^monk-ki-pool|ki pool]], [[rangoric-srd/classes/Gunslinger#^gunslinger-grit|grit]] or a similar resource.
 
-*Read Magic Aura*: You learn the number and power of all magical auras on a creature or object (see *[[rangoric-srd/spells/Detect Magic|detect magic]]* for a magic aura’s power). If you succeed, you can attempt [[rangoric-srd/skills/Mysticism|Mysticism]] checks to learn the auras’ schools or identify a magic item’s properties, as normal. If the item is affected by *[[rangoric-srd/spells/Magic Aura|magic aura]]* or a similar spell, you notice it and learn the item’s actual properties if your result exceeds the DC by 5 or more. If the spell is of a higher level (such as *[[rangoric-srd/spells/Aura Alteration (Spell)|aura alteration]]*), this threshold increases by 2 for every spell level above 1st.
+_Read Magic Aura_: You learn the number and power of all magical auras on a creature or object (see _[[rangoric-srd/spells/Detect Magic|detect magic]]_ for a magic aura’s power). If you succeed, you can attempt [[rangoric-srd/skills/Mysticism|Mysticism]] checks to learn the auras’ schools or identify a magic item’s properties, as normal. If the item is affected by _[[rangoric-srd/spells/Magic Aura|magic aura]]_ or a similar spell, you notice it and learn the item’s actual properties if your result exceeds the DC by 5 or more. If the spell is of a higher level (such as _[[rangoric-srd/spells/Aura Alteration (Spell)|aura alteration]]_), this threshold increases by 2 for every spell level above 1st.
 
-| Task | DC |
-| --- | --- |
-| Read alignment aura | 15 + creature’s HD or item’s caster level |
-| Read emotion aura | 20 + creature’s HD or item’s caster level* |
-| Read health aura | 15 + creature’s HD |
-| Read magic aura | 20 + creature’s HD or item’s caster level |
+| Task                | DC                                          |
+| ------------------- | ------------------------------------------- |
+| Read alignment aura | 15 + creature’s HD or item’s caster level   |
+| Read emotion aura   | 20 + creature’s HD or item’s caster level\* |
+| Read health aura    | 15 + creature’s HD                          |
+| Read magic aura     | 20 + creature’s HD or item’s caster level   |
 
 \* Intelligent items only.
 

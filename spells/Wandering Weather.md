@@ -26,14 +26,14 @@ tags: [rangoric, rangoric/spell]
 
 # Wandering Weather
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Clr 8, Drd 8, Sor/Wiz 8, Wit 8
-  - **Components**: V, S
-  - **Casting Time**: 10 minutes
-  - **Range**: 2 mi.
-  - **Area**: 2-mile-radius circle, centered on you; see text
-  - **Duration**: 4d12 hours; see text
-  - **Spell Resistance**: No
+- **Level**: Clr 8, Drd 8, Sor/Wiz 8, Wit 8
+- **Components**: V, S
+- **Casting Time**: 10 minutes
+- **Range**: 2 mi.
+- **Area**: 2-mile-radius circle, centered on you; see text
+- **Duration**: 4d12 hours; see text
+- **Spell Resistance**: No
 
 This spell functions as [[rangoric-srd/spells/Control Weather|control weather]] except you can opt for the weather to remain centered on you as you move.

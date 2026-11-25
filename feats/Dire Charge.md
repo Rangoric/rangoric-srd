@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, fighter-bonus, epic]
 
 # Dire Charge
 
-Prerequisite: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]].  
+Prerequisite: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]].
 
 Benefit: If the character charges a foe during the first round of combat (or the surprise round, if the character is allowed to act in it), he or she can make a full attack against the opponent charged.
 

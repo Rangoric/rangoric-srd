@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Distressing Tone
 
-*Evocation \[Sonic\]*
+_Evocation \[Sonic\]_
 
-  - **Level**: Brd 2, Inq 2, Skd 2
-  - **Components**: V, S
-  - **Casting Time**: 1 round
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: 1d4 living creatures
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 2, Inq 2, Skd 2
+- **Components**: V, S
+- **Casting Time**: 1 round
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: 1d4 living creatures
+- **Duration**: 1 round/level
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
 You create a powerful tone that vibrates living flesh. Targets must save or gain the sickened condition. Creatures that are immune to critical hits are immune to this spell.

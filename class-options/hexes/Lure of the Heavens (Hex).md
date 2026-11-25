@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Lure of the Heavens
 
-*A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Su) of the [[rangoric-srd/class-options/spirits/Heavens Spirit|heavens spirit]].*
+_A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Su) of the [[rangoric-srd/class-options/spirits/Heavens Spirit|heavens spirit]]._
 
-The shaman's connection to the skies above is so strong that her feet barely touch the ground. At 1st level, she no longer leaves tracks. At 5th level, she can hover up to 6 inches above the ground or liquid surfaces. At 10th level, the shaman gains the ability to *[[rangoric-srd/spells/Fly|fly]]* (as the spell) for a number of minutes per day equal to her shaman level—the duration does not need to be consecutive, but it must be used in 1-minute increments.
+The shaman's connection to the skies above is so strong that her feet barely touch the ground. At 1st level, she no longer leaves tracks. At 5th level, she can hover up to 6 inches above the ground or liquid surfaces. At 10th level, the shaman gains the ability to _[[rangoric-srd/spells/Fly|fly]]_ (as the spell) for a number of minutes per day equal to her shaman level—the duration does not need to be consecutive, but it must be used in 1-minute increments.

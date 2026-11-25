@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Mystic’s Stone
 
-*Alchana, Greater; Special*
+_Alchana, Greater; Special_
 
 One of the Five Great Alchana Stones, the Mystic’s Stone is favored by the red alchemists, its abilities and powers matching their balanced quest of perfection in materials and in being. Having the stone in hand or in contact with one’s flesh (as a pendant or simply strapped to the skin under a shirt) provides these competence bonuses: +3 on [[rangoric-srd/skills/Perception|Perception]] checks and +2 to all Reflex saves. The Mystic’s Stone’s primary power is to perfect and strengthen materials with a touch. The stone can have the following effects on a single object of up to 10 pounds per round of contact:
 

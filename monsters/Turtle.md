@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Turtle
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 1d8–1 (3 hp)
-  - **Initiative**: –2
-  - **Speed**: 5 ft. (1 square), swim 20 ft.
-  - **Armor Class**: 16 (–2 Dex, +6 natural, +2 size), touch 10, flat-footed 16
-  - **Base Attack**: +0; **CMB**: –4; **CMD**: 2 (6 vs. trip)
-  - **Attack**: Bite –2 melee (1d3–4)
-  - **Full Attack**: Bite –2 melee (1d3–4)
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-  - **Saves**: Fort +1, Ref +0, Will +1
-  - **Abilities**: Str 3, Dex 6, Con 8, Int 2, Wis 12, Cha 3
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +4
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Temperate or tropical forests, oceans, and rivers
-  - **Organization**: Solitary
-  - **Challenge Rating**: 1/6
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 1d8–1 (3 hp)
+- **Initiative**: –2
+- **Speed**: 5 ft. (1 square), swim 20 ft.
+- **Armor Class**: 16 (–2 Dex, +6 natural, +2 size), touch 10, flat-footed 16
+- **Base Attack**: +0; **CMB**: –4; **CMD**: 2 (6 vs. trip)
+- **Attack**: Bite –2 melee (1d3–4)
+- **Full Attack**: Bite –2 melee (1d3–4)
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
+- **Saves**: Fort +1, Ref +0, Will +1
+- **Abilities**: Str 3, Dex 6, Con 8, Int 2, Wis 12, Cha 3
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +4
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Temperate or tropical forests, oceans, and rivers
+- **Organization**: Solitary
+- **Challenge Rating**: 1/6
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Turtles are slow-moving reptiles with hard shells that they can retreat into when threatened. Many turtles have flippers and are better suited for swimming than walking. These statistics can also be used for tortoises, which have feet instead of flippers and live in arid regions.
 

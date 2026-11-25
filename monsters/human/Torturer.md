@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Torturer
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 2d10+5d8+19 (52 hp)
-  - **Initiative**: +1
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 19 (+8 armor, +1 Dex), touch 11, flat-footed 18
-  - **Base Attack**: +5; **CMB**: +9 (+11 grapple); **CMD**: 20 (22 vs. grapple)
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Heavy Flail|heavy flail]] +10 melee (1d10+7/19–20) or [[rangoric-srd/equipment/weapons/Unarmed Strike|unarmed strike]] +9 melee (1d3+4 plus Scorpion Style) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Whip|whip]] +10 melee (1d3+4 nonlethal)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Heavy Flail|heavy flail]] +10 melee (1d10+7/19–20); or [[rangoric-srd/equipment/weapons/Unarmed Strike|unarmed strike]] +9 melee (1d3+4 plus Scorpion Style); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Whip|whip]] +10 melee (1d3+4 nonlethal)
-  - **Space/Reach**: 5 ft./5 ft. (15 ft. with whip)
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +1
-  - **Saves**: Fort +6, Ref +2, Will +5 (+1 vs. fear)
-  - **Abilities**: Str 18, Dex 13, Con 14, Int 8, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (traps) +4, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +3, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Profession|Profession]] (torturer) +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11
-  - **Feats**: [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (whip), [[rangoric-srd/feats/Improved Grapple|Improved Grapple]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Scorpion Style|Scorpion Style]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion, Profession \[torturer\])
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 5
-  - **Treasure**: NPC gear (combat gear: vials of acid (2), alchemist's fire (2), greenblood oil (2 doses), tanglefoot bags (2); other gear: +1 banded mail, +1 heavy flail, masterwork whip, masterwork torturer's tools (+5 competence bonus on Profession \[torturer\] checks))
-  - **Alignment**: Neutral evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 2d10+5d8+19 (52 hp)
+- **Initiative**: +1
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 19 (+8 armor, +1 Dex), touch 11, flat-footed 18
+- **Base Attack**: +5; **CMB**: +9 (+11 grapple); **CMD**: 20 (22 vs. grapple)
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Heavy Flail|heavy flail]] +10 melee (1d10+7/19–20) or [[rangoric-srd/equipment/weapons/Unarmed Strike|unarmed strike]] +9 melee (1d3+4 plus Scorpion Style) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Whip|whip]] +10 melee (1d3+4 nonlethal)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Heavy Flail|heavy flail]] +10 melee (1d10+7/19–20); or [[rangoric-srd/equipment/weapons/Unarmed Strike|unarmed strike]] +9 melee (1d3+4 plus Scorpion Style); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Whip|whip]] +10 melee (1d3+4 nonlethal)
+- **Space/Reach**: 5 ft./5 ft. (15 ft. with whip)
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +1
+- **Saves**: Fort +6, Ref +2, Will +5 (+1 vs. fear)
+- **Abilities**: Str 18, Dex 13, Con 14, Int 8, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Craft|Craft]] (traps) +4, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +3, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Profession|Profession]] (torturer) +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11
+- **Feats**: [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (whip), [[rangoric-srd/feats/Improved Grapple|Improved Grapple]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Scorpion Style|Scorpion Style]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion, Profession \[torturer\])
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 5
+- **Treasure**: NPC gear (combat gear: vials of acid (2), alchemist's fire (2), greenblood oil (2 doses), tanglefoot bags (2); other gear: +1 banded mail, +1 heavy flail, masterwork whip, masterwork torturer's tools (+5 competence bonus on Profession \[torturer\] checks))
+- **Alignment**: Neutral evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A torturer is a [[rangoric-srd/monsters/human/Human|human]] with 5 levels of [[rangoric-srd/classes/Expert|expert]] and 2 levels of [[rangoric-srd/classes/Fighter|fighter]]. Torturers, hated by nearly everyone, are kept in the dark corners of tyrannical lords' castles to subject their prisoners to unspeakable torments with fire, acid, persuasion, intimidation, delicate instruments, or even their bruising fists. Sometimes these encounters are quests for truth, other times merely grim entertainments, but they always involve inflicting pain.
 

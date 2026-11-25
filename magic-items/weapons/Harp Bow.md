@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Harp Bow
 
-A harp bow is a *+3 mighty composite shortbow* (+2 Strength bonus) with multiple strings that can be played like a harp. Anyone proficient with harps receives a +7 enhancement bonus on [[rangoric-srd/skills/Performance|Performance]] checks while playing this harp. A successful Performance check (DC 20) allows the wielder to play the harp and fire arrows from it simultaneously.
+A harp bow is a _+3 mighty composite shortbow_ (+2 Strength bonus) with multiple strings that can be played like a harp. Anyone proficient with harps receives a +7 enhancement bonus on [[rangoric-srd/skills/Performance|Performance]] checks while playing this harp. A successful Performance check (DC 20) allows the wielder to play the harp and fire arrows from it simultaneously.
 
-Faint enchantment; CL 11th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Good Hope|good hope]]*; Price 23,425 gp; Cost 11,713 gp + 937 XP.
+Faint enchantment; CL 11th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Good Hope|good hope]]_; Price 23,425 gp; Cost 11,713 gp + 937 XP.

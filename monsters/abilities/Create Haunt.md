@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Create Haunt
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “create haunt”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “create haunt”, on the Special Attacks line.
 
 A frightful haunter has so much rage and desire to create fear that it can actually create a haunt once per hour. Each haunt has a CR no greater than the frightful haunter's CR – 2, and often takes a form either tied to the location the frightful haunter selects for it or inspired by the victims the frightful haunter hopes to frighten.
 

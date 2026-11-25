@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Unbreakable Construct
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Occ 4, Sor/Wiz 5
-  - **Components**: V, S, M (powdered adamantine worth 100 gp)
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One construct
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: No
+- **Level**: Occ 4, Sor/Wiz 5
+- **Components**: V, S, M (powdered adamantine worth 100 gp)
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One construct
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: No
 
 This spell increases the target's DR/adamantine by 5 or its hardness by 5. If the target does not have DR/adamantine or hardness, this spell has no effect.

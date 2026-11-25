@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Death of Enemies
 
-Prerequisites: [[rangoric-srd/feats/Bane of Enemies|Bane of Enemies]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] 27 ranks, five or more favored enemies.  
+Prerequisites: [[rangoric-srd/feats/Bane of Enemies|Bane of Enemies]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] 27 ranks, five or more favored enemies.
 
 Benefit: Any time the character scores a critical hit against one of his or her favored enemies, it must make a Fortitude save (DC 10 + 1/2 character’s ranger class level + character’s Wisdom modifier) or die instantly.
 

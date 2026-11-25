@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Thanadaemon
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Daemon, Evil, Extraplanar)
-  - **Hit Dice**: 15d10+90 (172 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 27 (+3 Dex, +1 dodge, +13 natural), touch 14, flat-footed 23
-  - **Base Attack**: +15; **CMB**: +20; **CMD**: 34
-  - **Attack**: +2 [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] +22 melee (1d6+9 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) or claw +20 melee (1d4+5 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
-  - **Full Attack**: +2 [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] +22/+17/+12 melee (1d6+9 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]); or 2 claws +20 melee (1d4+5 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Draining Weapon|Draining weapon]], [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (1 level, DC 21), [[rangoric-srd/monsters/abilities/Fear Gaze|fear gaze]], [[rangoric-srd/monsters/abilities/Soul Crush|soul crush]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., true seeing, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, death effects, disease and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 24
-  - **Saves**: Fort +11, Ref +12, Will +14
-  - **Abilities**: Str 21, Dex 16, Con 23, Int 17, Wis 17, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +21, [[rangoric-srd/skills/Deception|Deception]] +22, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +22, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Persuasion|Persuasion]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +14, [[rangoric-srd/skills/Theology|Theology]] +21
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any (a neutral evil-aligned plane: Abaddon)
-  - **Organization**: Solitary, pair, or council (3–11)
-  - **Challenge Rating**: 13
-  - **Treasure**: Standard (+2 quarterstaff, other treasure)
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Daemon, Evil, Extraplanar)
+- **Hit Dice**: 15d10+90 (172 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 27 (+3 Dex, +1 dodge, +13 natural), touch 14, flat-footed 23
+- **Base Attack**: +15; **CMB**: +20; **CMD**: 34
+- **Attack**: +2 [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] +22 melee (1d6+9 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) or claw +20 melee (1d4+5 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
+- **Full Attack**: +2 [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] +22/+17/+12 melee (1d6+9 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]); or 2 claws +20 melee (1d4+5 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Draining Weapon|Draining weapon]], [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (1 level, DC 21), [[rangoric-srd/monsters/abilities/Fear Gaze|fear gaze]], [[rangoric-srd/monsters/abilities/Soul Crush|soul crush]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., true seeing, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, death effects, disease and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 24
+- **Saves**: Fort +11, Ref +12, Will +14
+- **Abilities**: Str 21, Dex 16, Con 23, Int 17, Wis 17, Cha 18
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +21, [[rangoric-srd/skills/Deception|Deception]] +22, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +22, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Persuasion|Persuasion]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +14, [[rangoric-srd/skills/Theology|Theology]] +21
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any (a neutral evil-aligned plane: Abaddon)
+- **Organization**: Solitary, pair, or council (3–11)
+- **Challenge Rating**: 13
+- **Treasure**: Standard (+2 quarterstaff, other treasure)
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 While all daemons represent death in some fashion, thanadaemons represent the inevitable death through old age. Thanadaemons effortlessly work eerie skiffs along every pus- and bile-choked river in the daemons' home plane, including the legendary River Styx. For the right price (typically 50 pp or 2 gems worth at least 300 gp each), a thanadaemon will even carry passengers on its skiff, yet those who travel with these fiends should beware—they frequently renegotiate the terms once they've got their passengers in dangerous realms.
 

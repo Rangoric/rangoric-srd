@@ -64,7 +64,7 @@ Organization: Solitary, pair, or solitary plus 1-4 nightwalkers    
 Challenge Rating: 31      
 Treasure: Standard      
 Alignment: Always chaotic evil      
-Advancement: 41-65 HD (Large); 66-84 HD (Huge); 85-110 HD (Gargantuan)      
+Advancement: 41-65 HD (Large); 66-84 HD (Huge); 85-110 HD (Gargantuan)    
 
 A dream larvas’s natural weapons are treated as epic, evil, and chaotic-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
@@ -72,11 +72,11 @@ A dream larvas’s natural weapons are treated as epic, evil, and chaotic-aligne
 
 Worst Nightmare (Su): Each time a living creature first views a specific dream larva from a distance of 30 feet or less (or from a scrying effect), the subject sees the image of the most fearsome creature imaginable. This is not an illusion or phantasm; the dream larva truly becomes, for just that instant, the subject’s worst nightmare. Even if simultaneously viewed by dozens of different creatures, the dream larva appears differently to each one of them. Creatures immune to fear or mind-affecting effects (or warded by [[rangoric-srd/spells/Protection from Evil|protection from evil]] or [[rangoric-srd/spells/Death Ward|death ward]] spells) are immune to worst nightmare; all others must make a Will save (DC 43) or die from the supernatural horror revealed. Survivors (and those resurrected) are immune to the effect from that individual dream larva in the future. The DC is Charisma-based.
 
-Spell-Like Abilities: Caster level 31st; save DC 23 + spell level. The DC is Charisma-based.  
+Spell-Like Abilities: Caster level 31st; save DC 23 + spell level. The DC is Charisma-based.
 
-At will - [[rangoric-srd/spells/Fly|fly]], [[rangoric-srd/spells/Haste|haste]], [[rangoric-srd/spells/Nightmare (Spell)|nightmare]], [[rangoric-srd/spells/Prismatic Spray|prismatic spray]];  
+At will - [[rangoric-srd/spells/Fly|fly]], [[rangoric-srd/spells/Haste|haste]], [[rangoric-srd/spells/Nightmare (Spell)|nightmare]], [[rangoric-srd/spells/Prismatic Spray|prismatic spray]];
 
-2/day - [[rangoric-srd/spells/Dreamscape|dreamscape]] (epic spell).  
+2/day - [[rangoric-srd/spells/Dreamscape|dreamscape]] (epic spell).
 
 Improved Grab (Ex): If the dream larva hits with a claw or pincer, it deals normal damage and attempts to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. Dream larvae can use improved grab on a creature of any size. The dream larva has the option to conduct the grapple normally, simply use the claw or pincer to hold the opponent, or use sending (see below) on the opponent. Each successful grapple check it makes during successive rounds automatically deals the damage listed for the attack that established the hold, unless it used sending on the victim.
 

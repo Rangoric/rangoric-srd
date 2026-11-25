@@ -41,25 +41,25 @@ tags: [rangoric, rangoric/monster]
 
 # Water Elemental, Elder
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Elemental, Extraplanar, Water)
-  - **Hit Dice**: 16d10+64 (152 hp)
-  - **Initiative**: +6
-  - **Speed**: 20 ft. (4 squares), swim 90 ft.
-  - **Armor Class**: 24 (+6 Dex, +1 dodge, +9 natural, –2 size), touch 15, flat-footed 17
-  - **Base Attack**: +16; **CMB**: +28; **CMD**: 45
-  - **Attack**: Slam +24 melee (2d10+10/19–20)
-  - **Full Attack**: 2 slams +24 melee (2d10+10/19–20)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/elemental/Water Elemental#^drench|Drench]], [[rangoric-srd/monsters/elemental/Water Elemental#^vortex|vortex]] (DC 28), [[rangoric-srd/monsters/elemental/Water Elemental#^water-mastery|water mastery]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-  - **Saves**: Fort +14, Ref +18, Will +5
-  - **Abilities**: Str 30, Dex 22, Con 19, Int 10, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +25, [[rangoric-srd/skills/Athletics|Athletics]] +37, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +25, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +19
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (slam), [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Any (Elemental Plane of Water)
-  - **Organization**: Solitary, pair, or gang (3–8)
-  - **Challenge Rating**: 11
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 17–48 HD (Huge)
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Elemental, Extraplanar, Water)
+- **Hit Dice**: 16d10+64 (152 hp)
+- **Initiative**: +6
+- **Speed**: 20 ft. (4 squares), swim 90 ft.
+- **Armor Class**: 24 (+6 Dex, +1 dodge, +9 natural, –2 size), touch 15, flat-footed 17
+- **Base Attack**: +16; **CMB**: +28; **CMD**: 45
+- **Attack**: Slam +24 melee (2d10+10/19–20)
+- **Full Attack**: 2 slams +24 melee (2d10+10/19–20)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/elemental/Water Elemental#^drench|Drench]], [[rangoric-srd/monsters/elemental/Water Elemental#^vortex|vortex]] (DC 28), [[rangoric-srd/monsters/elemental/Water Elemental#^water-mastery|water mastery]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
+- **Saves**: Fort +14, Ref +18, Will +5
+- **Abilities**: Str 30, Dex 22, Con 19, Int 10, Wis 11, Cha 11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +25, [[rangoric-srd/skills/Athletics|Athletics]] +37, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +25, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +19
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (slam), [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Any (Elemental Plane of Water)
+- **Organization**: Solitary, pair, or gang (3–8)
+- **Challenge Rating**: 11
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 17–48 HD (Huge)
+- **Level Adjustment**: —

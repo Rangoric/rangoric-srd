@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Wealthy
 
-The wielder of a *wealthy* weapon earns gold pieces equal to twice the result of a [[rangoric-srd/skills/Profession|Profession]] or [[rangoric-srd/skills/Craft|Craft]] check made to earn a living.
+The wielder of a _wealthy_ weapon earns gold pieces equal to twice the result of a [[rangoric-srd/skills/Profession|Profession]] or [[rangoric-srd/skills/Craft|Craft]] check made to earn a living.
 
-CL 11th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/rules/star magic/constellations/The Fan|The Fan]]*, *[[rangoric-srd/rules/star magic/constellations/The Jewel of the Sky|The Jewel of the Sky]]*; Price +2 bonus.
+CL 11th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/rules/star magic/constellations/The Fan|The Fan]]_, _[[rangoric-srd/rules/star magic/constellations/The Jewel of the Sky|The Jewel of the Sky]]_; Price +2 bonus.

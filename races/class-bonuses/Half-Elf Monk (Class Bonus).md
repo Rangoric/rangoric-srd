@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Half-Elf Monk
 
-*A [[rangoric-srd/races/Half-Elf|half-elf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Monk#^monk-class-bonuses|monk]] or [[rangoric-srd/classes/Unchained Monk#^unchained-monk-class-bonuses|unchained monk]] level.*
+_A [[rangoric-srd/races/Half-Elf|half-elf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Monk#^monk-class-bonuses|monk]] or [[rangoric-srd/classes/Unchained Monk#^unchained-monk-class-bonuses|unchained monk]] level._
 
 Add +1/2 on [[rangoric-srd/skills/Escape Artist|Escape Artist]] checks and on [[rangoric-srd/skills/Acrobatics|Acrobatics]] checks to cross narrow surfaces.

@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This shirt is made of gossamer-thin fabric embroidered with winged feet. Once per day as a swift action, the wearer can take an additional move action to move and then immediately end his turn, losing any unspent actions. A character must wear this shirt continuously for 24 hours before he can activate this ability.
 
-Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Haste|haste]]*; Price 1,000 gp; Cost 500 gp.
+Faint transmutation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Haste|haste]]_; Price 1,000 gp; Cost 500 gp.

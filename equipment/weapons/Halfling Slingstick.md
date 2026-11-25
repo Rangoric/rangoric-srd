@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/thrown]
 
 # Halfling Slingstick
 
-*Exotic ranged weapon.* Cost 10 gp; Dmg 1d4 (S), 1d4 (M); Critical x2; Range Increment 50 ft.; Weight 1 lb.; Type Bludgeoning. ^stats
+_Exotic ranged weapon._ Cost 10 gp; Dmg 1d4 (S), 1d4 (M); Critical x2; Range Increment 50 ft.; Weight 1 lb.; Type Bludgeoning. ^stats
 
 The halfling slingstick is a sturdy but very flexible switch of wood about two to three feet in length that splits into a Y shape at one end. The Y has a leather pocket stretched across it to hold any standard sling bullet. Attached to the opposite end is a one-foot cord that ends in a small loop, into which the barbed back edge of any standard broad headed bolt fits. There are usually leather-wrapped grips near both ends of the slingstick.
 

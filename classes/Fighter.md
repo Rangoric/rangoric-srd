@@ -41,27 +41,27 @@ The fighter’s class skills (and the key ability for each skill) are [[rangoric
 
 **Table: The Fighter** ^table-the-fighter
 
-| Level | Special |
-| ----- | --- |
-| 1st   | Bonus feat |
-| 2nd   | Bonus feat, bravery +1 |
-| 3rd   | Armor training 1 |
-| 4th   | Bonus feat |
-| 5th   | Weapon training 1 |
-| 6th   | Bonus feat, bravery +2 |
-| 7th   | Armor training 2 |
-| 8th   | Bonus feat |
-| 9th   | Weapon training 2 |
-| 10th  | Bonus feat, bravery +3 |
-| 11th  | Armor training 3 |
-| 12th  | Bonus feat |
-| 13th  | Weapon training 3 |
-| 14th  | Bonus feat, bravery +4 |
-| 15th  | Armor training 4 |
-| 16th  | Bonus feat |
-| 17th  | Weapon training 4 |
-| 18th  | Bonus feat, bravery +5 |
-| 19th  | Armor mastery |
+| Level | Special                    |
+| ----- | -------------------------- |
+| 1st   | Bonus feat                 |
+| 2nd   | Bonus feat, bravery +1     |
+| 3rd   | Armor training 1           |
+| 4th   | Bonus feat                 |
+| 5th   | Weapon training 1          |
+| 6th   | Bonus feat, bravery +2     |
+| 7th   | Armor training 2           |
+| 8th   | Bonus feat                 |
+| 9th   | Weapon training 2          |
+| 10th  | Bonus feat, bravery +3     |
+| 11th  | Armor training 3           |
+| 12th  | Bonus feat                 |
+| 13th  | Weapon training 3          |
+| 14th  | Bonus feat, bravery +4     |
+| 15th  | Armor training 4           |
+| 16th  | Bonus feat                 |
+| 17th  | Weapon training 4          |
+| 18th  | Bonus feat, bravery +5     |
+| 19th  | Armor mastery              |
 | 20th  | Bonus feat, weapon mastery |
 
 ###### Class Features
@@ -70,7 +70,7 @@ All of the following are class features of the fighter.
 
 **Weapon and Armor Proficiency**: A fighter is proficient with all simple and martial weapons and with all armor (heavy, medium, and light) and shields (including tower shields). ^fighter-weapon-and-armor-proficiency
 
-**Bonus Feats**: At 1st level, a fighter gets a bonus combat-oriented feat in addition to the feat that any 1st-level character gets and the bonus feat granted to a human character. The fighter gains an additional bonus feat at 2nd level and every two fighter levels thereafter (4th, 6th, 8th, 10th, 12th, 14th, 16th, 18th, and 20th). These bonus feats must be [[rangoric-srd/feats/Feats Overview#Fighter Bonus Feats|fighter bonus feats]] (the tag *fighter-bonus*). A fighter must still meet all prerequisites for a bonus feat, including ability score and base attack bonus minimums. ^fighter-bonus-feats
+**Bonus Feats**: At 1st level, a fighter gets a bonus combat-oriented feat in addition to the feat that any 1st-level character gets and the bonus feat granted to a human character. The fighter gains an additional bonus feat at 2nd level and every two fighter levels thereafter (4th, 6th, 8th, 10th, 12th, 14th, 16th, 18th, and 20th). These bonus feats must be [[rangoric-srd/feats/Feats Overview#Fighter Bonus Feats|fighter bonus feats]] (the tag _fighter-bonus_). A fighter must still meet all prerequisites for a bonus feat, including ability score and base attack bonus minimums. ^fighter-bonus-feats
 
 These bonus feats are in addition to the feat that a character of any class gets from advancing levels. A fighter is not limited to the [[rangoric-srd/feats/Feats Fighter Bonus|list of fighter bonus feats]] when choosing these feats.
 

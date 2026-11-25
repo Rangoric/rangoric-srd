@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Axe Beak
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 3d8+9 (22 hp)
-  - **Initiative**: +3
-  - **Speed**: 50 ft. (10 squares)
-  - **Armor Class**: 14 (+3 Dex, +2 natural, –1 size), touch 12, flat-footed 11
-  - **Base Attack**: +2; **CMB**: +7; **CMD**: 20
-  - **Attack**: Bite +5 melee (1d8+6)
-  - **Full Attack**: Bite +5 melee (1d8+6)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Sudden Charge|Sudden charge]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-  - **Saves**: Fort +6, Ref +6, Will +1
-  - **Abilities**: Str 18, Dex 17, Con 16, Int 2, Wis 11, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +9
-  - **Feats**: [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Temperate plains
-  - **Organization**: Solitary, pair, or flock (3–6)
-  - **Challenge Rating**: 2
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 3d8+9 (22 hp)
+- **Initiative**: +3
+- **Speed**: 50 ft. (10 squares)
+- **Armor Class**: 14 (+3 Dex, +2 natural, –1 size), touch 12, flat-footed 11
+- **Base Attack**: +2; **CMB**: +7; **CMD**: 20
+- **Attack**: Bite +5 melee (1d8+6)
+- **Full Attack**: Bite +5 melee (1d8+6)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Sudden Charge|Sudden charge]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
+- **Saves**: Fort +6, Ref +6, Will +1
+- **Abilities**: Str 18, Dex 17, Con 16, Int 2, Wis 11, Cha 10
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +9
+- **Feats**: [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Temperate plains
+- **Organization**: Solitary, pair, or flock (3–6)
+- **Challenge Rating**: 2
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Keen-witted and powerful avian predators, axe beaks compete with wolves and hunting cats for prey upon vast, open steppes and prairies. Although feared for their boldness and territorial natures, these giant birds prove eminently tamable, making useful guardians, hunters, and even steeds when kept well fed. Axe beaks are relatively social creatures, forming small groups in which both males and females hunt together. They nest in immense mounds made of sticks, branches, leaves, and whatever else they can scavenge (including the bones and equipment of previous meals), with each nest used by a large group of axe beaks. Females typically lay clutches of 1d4+1 eggs once per year, which the parents take turns keeping warm for 2 months before they hatch.
 

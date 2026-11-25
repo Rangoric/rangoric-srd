@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Gnome Brawler
 
-*A [[rangoric-srd/races/Gnome|gnome]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Brawler#^brawler-class-bonuses|brawler]] level.*
+_A [[rangoric-srd/races/Gnome|gnome]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Brawler#^brawler-class-bonuses|brawler]] level._
 
 Increase the number of times per day the brawler can use [[rangoric-srd/classes/Brawler#^brawler-martial-flexibility|martial flexibility]] by 1/4.

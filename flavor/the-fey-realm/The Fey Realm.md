@@ -18,20 +18,20 @@ The fey and their home, FaerieLand: its world, lore and places. This is setting 
 
 ## A Scholar's Primer
 
-*The fey and their world of FaerieLand are not real. Ask any fey and she will tell you the same. Yet the journey I personally undertook to FaerieLand was itself quite real!*
+_The fey and their world of FaerieLand are not real. Ask any fey and she will tell you the same. Yet the journey I personally undertook to FaerieLand was itself quite real!_
 
-*As if to promote this dichotomy of real or imaginary, scholars continue to dispute the physical nature of FaerieLand. Is it another Prime Material world? Is it a plane unto itself? Could it be a pocket dimension or is it part of the Ethereal Plane? I believe it is all these things and more! FaerieLand is a place that reaches into our world with magical roadways, and visits its curious faeries upon our world. Its wonders beg our attentions and its magic is as mysterious and primal as when the first fey charmed its way in this world.*
+_As if to promote this dichotomy of real or imaginary, scholars continue to dispute the physical nature of FaerieLand. Is it another Prime Material world? Is it a plane unto itself? Could it be a pocket dimension or is it part of the Ethereal Plane? I believe it is all these things and more! FaerieLand is a place that reaches into our world with magical roadways, and visits its curious faeries upon our world. Its wonders beg our attentions and its magic is as mysterious and primal as when the first fey charmed its way in this world._
 
-*As for the fey themselves, well, what they are and where they are from are more a part of our minds than a part of our world. Now, I know this may seem confusing, but theirs is a world grown from our own belief and peopled by facets of our own emotion and manifestations of Nature herself. Ah, Nature! Now there is the first of many terms that seems to be intertwined into the fabric that is a faerie. It seems that our concept of a divine Nature, or more exactly a goddess of nature, is not far off. However, we have missed the essence of Nature, that She is a consciousness that needs no divine representation. She merely is. So faeries, then, are ‘flowers’ that have bloomed from the concentrated emotion of Nature; Her exhilaration, excitement, and joy of simply being.*
+_As for the fey themselves, well, what they are and where they are from are more a part of our minds than a part of our world. Now, I know this may seem confusing, but theirs is a world grown from our own belief and peopled by facets of our own emotion and manifestations of Nature herself. Ah, Nature! Now there is the first of many terms that seems to be intertwined into the fabric that is a faerie. It seems that our concept of a divine Nature, or more exactly a goddess of nature, is not far off. However, we have missed the essence of Nature, that She is a consciousness that needs no divine representation. She merely is. So faeries, then, are ‘flowers’ that have bloomed from the concentrated emotion of Nature; Her exhilaration, excitement, and joy of simply being._
 
-*To say that this is all Faeries are again misses the essence of the question surrounding them. They have an identity that is separate from Nature. Faeries live an existence steeped in the Dreams of mortals. Dreams, to mortals, are fleeting wisps of imagination. Yet, to a Faerie, they are as real as the book you now hold. Dreams, or more importantly the free thoughts they represent, enable Faeries to quickly travel from their world and step sideways through the borderlands that separate their land from our own.*
+_To say that this is all Faeries are again misses the essence of the question surrounding them. They have an identity that is separate from Nature. Faeries live an existence steeped in the Dreams of mortals. Dreams, to mortals, are fleeting wisps of imagination. Yet, to a Faerie, they are as real as the book you now hold. Dreams, or more importantly the free thoughts they represent, enable Faeries to quickly travel from their world and step sideways through the borderlands that separate their land from our own._
 
 ## The World of Faerie
 
 The world of FaerieLand is an infinitely large place governed by bizarre physical magics that can help or hinder you in your travels. Before embarking, it is important to understand the terminology surrounding this magnificent place.
 
 - [[rangoric-srd/flavor/the-fey-realm/Here, There, and Parts Between|Here, There, and Parts Between]]: the mortal worlds, FaerieLand, the Twilight Lands and Between.
-- [[rangoric-srd/flavor/the-fey-realm/Use of the Word Faerie|Use of the Word Faerie]]: *fey*, *fae* and *FaerieLand*.
+- [[rangoric-srd/flavor/the-fey-realm/Use of the Word Faerie|Use of the Word Faerie]]: _fey_, _fae_ and _FaerieLand_.
 - [[rangoric-srd/flavor/the-fey-realm/Rulership of FaerieLand|Rulership of FaerieLand]]: the elected Faerie Queen of the Twilight Lands, the regional kings and queens, and the Queen of Air and Darkness in Between.
 - [[rangoric-srd/flavor/the-fey-realm/Time in FaerieLand|Time in FaerieLand]]: how the fey count days and years, the seasons, the festival calendar, and the sun, moon and stars.
 
@@ -60,9 +60,9 @@ Each place note follows one of these templates: a region, or a site within a reg
 
 **Seasons:** How this region differs from the norm of FaerieLand (if at all)
 
-***Legends & Lore*** [Information is available by meeting the DCs below against [[rangoric-srd/skills/Lore|Lore (fey)]]; information on personalities can also be uncovered by [[rangoric-srd/skills/Lore|Lore (folk tales)]] with a +5 DC penalty. A DC 10 check on either lets you know the data from a place’s description. Any better checks uncover the obscure knowledge below.]
+**_Legends & Lore_** [Information is available by meeting the DCs below against [[rangoric-srd/skills/Lore|Lore (fey)]]; information on personalities can also be uncovered by [[rangoric-srd/skills/Lore|Lore (folk tales)]] with a +5 DC penalty. A DC 10 check on either lets you know the data from a place’s description. Any better checks uncover the obscure knowledge below.]
 
-*Common:* DC 15 *Uncommon:* DC 20 *Rare:* DC 25 *Obscure:* DC 30+
+_Common:_ DC 15 _Uncommon:_ DC 20 _Rare:_ DC 25 _Obscure:_ DC 30+
 
 **(SITE)** Broad description and general details about the site
 
@@ -72,13 +72,14 @@ Each place note follows one of these templates: a region, or a site within a reg
 
 **Personalities:** Notable people of the site
 
-***Legends & Lore*** [As noted above with same scaled DCs vs. rarity of lore]
+**_Legends & Lore_** [As noted above with same scaled DCs vs. rarity of lore]
 
 The distances and their DCs are used by the rules for [[rangoric-srd/rules/Fey Roads and Doorways#Travel Within the Fey Realm|travelling in FaerieLand]].
 
 ### Places
 
 Each region, with the sites in it:
+
 - [[rangoric-srd/flavor/the-fey-realm/places/Badlands|Badlands]]: [[rangoric-srd/flavor/the-fey-realm/places/Bottomless Pit|Bottomless Pit]], [[rangoric-srd/flavor/the-fey-realm/places/Canyon Maze|Canyon Maze]]
 - [[rangoric-srd/flavor/the-fey-realm/places/Between|Between]]: [[rangoric-srd/flavor/the-fey-realm/places/The Goblin Warrens|The Goblin Warrens]], [[rangoric-srd/flavor/the-fey-realm/places/Great Scar|Great Scar]], [[rangoric-srd/flavor/the-fey-realm/places/The Maw|The Maw]], [[rangoric-srd/flavor/the-fey-realm/places/Shadow|Shadow]], [[rangoric-srd/flavor/the-fey-realm/places/The Valley of Fire|The Valley of Fire]]
 - [[rangoric-srd/flavor/the-fey-realm/places/Big Rock Mountains|Big Rock Mountains]]: [[rangoric-srd/flavor/the-fey-realm/places/Crystal Cave|Crystal Cave]]

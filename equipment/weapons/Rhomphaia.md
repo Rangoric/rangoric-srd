@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/pole-arms]
 
 # Rhomphaia
 
-*Martial two-handed melee weapon (reach).* Cost 15 gp; Dmg 1d6 (S), 2d4 (M); Critical x3; Weight 10 lb.; Type Piercing or slashing. ^stats
+_Martial two-handed melee weapon (reach)._ Cost 15 gp; Dmg 1d6 (S), 2d4 (M); Critical x3; Weight 10 lb.; Type Piercing or slashing. ^stats
 
 This weapon is an early polearm consisting of a long, single-edged blade attached to a sturdy staff, sometimes slightly curved. It serves as both a cutting and a thrusting weapon.
 

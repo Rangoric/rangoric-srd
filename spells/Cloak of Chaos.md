@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Cloak of Chaos
 
-*Abjuration \[Chaotic\]*
+_Abjuration \[Chaotic\]_
 
-  - **Level**: Chaos 8, Clr 8
-  - **Components**: V, S, F
-  - **Casting Time**: 1 standard action
-  - **Range**: 20 ft.
-  - **Targets**: One creature/level in a 20-ft.-radius burst centered on you
-  - **Duration**: 1 round/level (D)
-  - **Saving Throw**: See text
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Chaos 8, Clr 8
+- **Components**: V, S, F
+- **Casting Time**: 1 standard action
+- **Range**: 20 ft.
+- **Targets**: One creature/level in a 20-ft.-radius burst centered on you
+- **Duration**: 1 round/level (D)
+- **Saving Throw**: See text
+- **Spell Resistance**: Yes (harmless)
 
 A random pattern of color surrounds the subjects, protecting them from attacks, granting them resistance to spells cast by lawful creatures, and causing lawful creatures that strike the subjects to become [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]]. This abjuration has four effects.
 
@@ -48,4 +48,4 @@ Third, the abjuration blocks possession and mental influence, just as protection
 
 Finally, if a lawful creature succeeds on a melee attack against a warded creature, the offending attacker is confused for 1 round (Will save negates, as with the confusion spell, but against the save DC of cloak of chaos).
 
-*Focus*: A tiny reliquary containing some sacred relic, such as a scrap of parchment from a chaotic text. The reliquary costs at least 500 gp.
+_Focus_: A tiny reliquary containing some sacred relic, such as a scrap of parchment from a chaotic text. The reliquary costs at least 500 gp.

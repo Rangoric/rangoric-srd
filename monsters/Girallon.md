@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Girallon
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 7d10+35 (73 hp)
-  - **Initiative**: +7
-  - **Speed**: 40 ft. (8 squares), climb 40 ft.
-  - **Armor Class**: 18 (+3 Dex, +6 natural, –1 size), touch 12, flat-footed 15
-  - **Base Attack**: +7; **CMB**: +12; **CMD**: 25
-  - **Attack**: Bite +10 melee (1d6+4) or claw +10 melee (1d4+4 plus [[rangoric-srd/monsters/abilities/Rend|rend]])
-  - **Full Attack**: Bite +10 melee (1d6+4) and 4 claws +10 melee (1d4+4 plus [[rangoric-srd/monsters/abilities/Rend|rend]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (4 claws, 1d4+6)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +9, Ref +8, Will +5
-  - **Abilities**: Str 19, Dex 17, Con 18, Int 2, Wis 12, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +5
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Warm forests
-  - **Organization**: Solitary or company (5–8)
-  - **Challenge Rating**: 6
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 8–10 HD (Large); 11–21 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 7d10+35 (73 hp)
+- **Initiative**: +7
+- **Speed**: 40 ft. (8 squares), climb 40 ft.
+- **Armor Class**: 18 (+3 Dex, +6 natural, –1 size), touch 12, flat-footed 15
+- **Base Attack**: +7; **CMB**: +12; **CMD**: 25
+- **Attack**: Bite +10 melee (1d6+4) or claw +10 melee (1d4+4 plus [[rangoric-srd/monsters/abilities/Rend|rend]])
+- **Full Attack**: Bite +10 melee (1d6+4) and 4 claws +10 melee (1d4+4 plus [[rangoric-srd/monsters/abilities/Rend|rend]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (4 claws, 1d4+6)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +9, Ref +8, Will +5
+- **Abilities**: Str 19, Dex 17, Con 18, Int 2, Wis 12, Cha 7
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +5
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Warm forests
+- **Organization**: Solitary or company (5–8)
+- **Challenge Rating**: 6
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 8–10 HD (Large); 11–21 HD (Huge)
+- **Level Adjustment**: —
 
 Girallons are among the jungle's most dangerous predators. They are aggressive, carnivorous, highly territorial, and incredibly strong. Worse, their four muscular arms are capable of inflicting incredible damage on anything that falls into their clutches. Their exotic appearance makes them popular creatures in certain cities as attractions in gladiatorial combats, either starved and pitted against each other, or set against gladiators eager to increase their fame and notoriety. One who kills a girallon is all but assured of fame, yet most battles against these ferocious beasts end poorly for those foolish enough to attempt to single-handedly defeat one. An adult girallon is 8 feet tall, broad-chested, and covered in thick, pure white fur. It weighs roughly 800 pounds.
 

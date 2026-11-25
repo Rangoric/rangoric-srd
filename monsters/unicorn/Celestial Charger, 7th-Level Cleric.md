@@ -38,25 +38,25 @@ tags: [rangoric, rangoric/monster]
 
 # Celestial Charger, 7th-Level Cleric
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 8d10 + 7d8 + 75 (155 hp)
-  - **Initiative**: +4
-  - **Speed**: 60 ft. (12 squares)
-  - **Armor Class**: 24 (-1 size, +4 Dex, +6 natural, +5 bracers of armor +5), touch 13, flat-footed 20
-  - **Base Attack**: +13; **CMB**: +21; **CMD**: 35 (39 vs. trip)
-  - **Attack**: Horn +22 melee (1d8+10)
-  - **Full Attack**: Horn +22 melee (1d8+10) and 2 hooves +14 melee (1d4+3)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/combat/Combat Special Attacks#Turn or Rebuke Undead|Turn undead]] 13/day, smite evil, spells
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/magic, darkvision 60 ft., [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], spell-like abilities, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20, immunity to poison, charm, and compulsion, low-light vision, [[rangoric-srd/monsters/abilities/Resistance|resistance to]] acid 10, cold 10, and electricity 10,[[rangoric-srd/monsters/abilities/Scent|scent]], wild empathy
-  - **Saves**: Fort +16, Ref +12, Will +15
-  - **Abilities**: Str 24, Dex 18, Con 20, Int 13, Wis 27, Cha 22
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +32 (+34 aboveground)\*, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Nature|Nature]] +15, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +11, [[rangoric-srd/skills/Theology|Theology]] +11
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Improved Turning|Improved Turning]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft)
-  - **Environment**: A chaotic good plane
-  - **Organization**: Solitary
-  - **Challenge Rating**: 13
-  - **Treasure**: None
-  - **Alignment**: Always chaotic good
-  - **Advancement**: By character class
-  - **Level Adjustment**: +8 (cohort)
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 8d10 + 7d8 + 75 (155 hp)
+- **Initiative**: +4
+- **Speed**: 60 ft. (12 squares)
+- **Armor Class**: 24 (-1 size, +4 Dex, +6 natural, +5 bracers of armor +5), touch 13, flat-footed 20
+- **Base Attack**: +13; **CMB**: +21; **CMD**: 35 (39 vs. trip)
+- **Attack**: Horn +22 melee (1d8+10)
+- **Full Attack**: Horn +22 melee (1d8+10) and 2 hooves +14 melee (1d4+3)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/combat/Combat Special Attacks#Turn or Rebuke Undead|Turn undead]] 13/day, smite evil, spells
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/magic, darkvision 60 ft., [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], spell-like abilities, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20, immunity to poison, charm, and compulsion, low-light vision, [[rangoric-srd/monsters/abilities/Resistance|resistance to]] acid 10, cold 10, and electricity 10,[[rangoric-srd/monsters/abilities/Scent|scent]], wild empathy
+- **Saves**: Fort +16, Ref +12, Will +15
+- **Abilities**: Str 24, Dex 18, Con 20, Int 13, Wis 27, Cha 22
+- **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +32 (+34 aboveground)\*, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Nature|Nature]] +15, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +11, [[rangoric-srd/skills/Theology|Theology]] +11
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Improved Turning|Improved Turning]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft)
+- **Environment**: A chaotic good plane
+- **Organization**: Solitary
+- **Challenge Rating**: 13
+- **Treasure**: None
+- **Alignment**: Always chaotic good
+- **Advancement**: By character class
+- **Level Adjustment**: +8 (cohort)

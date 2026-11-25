@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Widen Aura of Courage
 
-Prerequisite: Cha 25, aura of courage class ability.  
+Prerequisite: Cha 25, aura of courage class ability.
 
 Benefit: The character’s aura of courage extends to all allies within 100 feet of the character.

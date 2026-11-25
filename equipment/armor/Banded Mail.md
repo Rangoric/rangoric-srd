@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/armor]
 
 # Banded Mail
 
-*Heavy armor.* Cost 250 gp; Armor Bonus +6; Maximum Dex Bonus +1; Armor Check Penalty –6; Arcane Spell Failure 35%; Speed 20 ft. (2) (30 ft.), 15 ft. (2) (20 ft.); Weight 35 lb. ^stats
+_Heavy armor._ Cost 250 gp; Armor Bonus +6; Maximum Dex Bonus +1; Armor Check Penalty –6; Arcane Spell Failure 35%; Speed 20 ft. (2) (30 ft.), 15 ft. (2) (20 ft.); Weight 35 lb. ^stats
 
 The suit includes gauntlets.

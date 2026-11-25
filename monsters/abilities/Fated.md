@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Fated
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “fated”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “fated”, on the Special Qualities line.
 
 A norn adds her Charisma modifier as an insight bonus to AC and on initiative checks. The [[rangoric-srd/monsters/Norn|norn]] has it.

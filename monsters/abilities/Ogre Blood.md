@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Ogre Blood
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “ogre blood”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “ogre blood”, on the Special Qualities line.
 
 Troggles count as ogres for the purpose of any effects related to race. The [[rangoric-srd/monsters/ogre/Troggle|troggle]] has it.

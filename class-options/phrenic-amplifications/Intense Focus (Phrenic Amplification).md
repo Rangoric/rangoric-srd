@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Intense Focus
 
-*A psychic’s [[rangoric-srd/classes/Psychic (Class)#^psychic-phrenic-amplifications|phrenic amplification]] (Ex).*
+_A psychic’s [[rangoric-srd/classes/Psychic (Class)#^psychic-phrenic-amplifications|phrenic amplification]] (Ex)._
 
 The psychic can spend 1 point from her [[rangoric-srd/classes/Psychic (Class)#^psychic-phrenic-pool|phrenic pool]] to gain a +2 bonus on any [[rangoric-srd/rules/Concentration (Check)|concentration check]] she attempts as part of casting the linked spell. She can choose to spend 2 points from her phrenic pool to instead gain a +4 bonus.

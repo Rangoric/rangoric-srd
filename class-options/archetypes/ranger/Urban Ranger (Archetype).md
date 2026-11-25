@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Urban Ranger
 
-*A [[rangoric-srd/classes/Ranger#^ranger-archetypes|ranger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Ranger#^ranger-archetypes|ranger]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 For the urban ranger, the streets and sewers of the city are just as dangerous as the barren wastelands or the deep forests. An urban ranger has the following class features.
 
@@ -39,4 +39,4 @@ For the purposes of this ability, a community is any settlement consisting of 10
 
 **Blend In (Ex)**: An urban ranger of 12th level or higher can use his [[rangoric-srd/skills/Stealth|Stealth]] bonus in place of an [[rangoric-srd/skills/Imitation|Imitation]] skill check in any of his favored communities. This disguise does not take an action to don. He must make a check whenever someone attempts to pick him out from the local citizens. If his check is successful, he blends into the crowd. While not invisible, enemies do not notice his presence and take no actions against him unless they are taking actions against the local citizens in general. This replaces [[rangoric-srd/classes/Ranger#^ranger-camouflage|camouflage]].
 
-**Invisibility Trick (Sp)**: At 17th level, the urban ranger can cast *[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]* on himself as a wizard of his ranger level as a swift action. He can use this spell-like ability a number of times per day equal to his Wisdom modifier (minimum 1). This ability replaces [[rangoric-srd/classes/Ranger#^ranger-hide-in-plain-sight|hide in plain sight]].
+**Invisibility Trick (Sp)**: At 17th level, the urban ranger can cast _[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]_ on himself as a wizard of his ranger level as a swift action. He can use this spell-like ability a number of times per day equal to his Wisdom modifier (minimum 1). This ability replaces [[rangoric-srd/classes/Ranger#^ranger-hide-in-plain-sight|hide in plain sight]].

@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Buccaneer
 
-*A [[rangoric-srd/classes/Gunslinger#^gunslinger-archetypes|gunslinger]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Human|humans]].*
+_A [[rangoric-srd/classes/Gunslinger#^gunslinger-archetypes|gunslinger]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Human|humans]]._
 
 Freebooters who cling to the convoluted codes that rule independent ships, the buccaneer is a gunslinger of the high seas. Their exploits are fueled by the thrill of danger and often by the temporary courage provided by grog. A buccaneer has the following class features.
 
@@ -36,7 +36,7 @@ Freebooters who cling to the convoluted codes that rule independent ships, the b
 
 **Rope Swing (Ex)**: At 7th level, as long as the buccaneer has at least 1 grit point, she gains a bonus on [[rangoric-srd/skills/Acrobatics|Acrobatics]] and [[rangoric-srd/skills/Athletics|Athletics]] checks equal to her gunslinger level when climbing or swinging on a rope. If she spends 1 grit point, her move while climbing or swinging on a rope does not provoke [[rangoric-srd/combat/Combat Initiative and Attacks of Opportunity#Attacks of Opportunity|attacks of opportunity]]. This replaces the [[rangoric-srd/class-options/deeds/Dead Shot (Deed)|dead shot]] deed.
 
-**Captain's Curse (Sp)**: At 11th level, a buccaneer can spend 2 grit points to use *[[rangoric-srd/spells/Old Salt’s Curse|old salt's curse]]* as a spell-like ability. At 15th level, she may use *[[rangoric-srd/spells/Black Mark|black mark]]* instead. The caster level for these spell-like abilities is equal to the buccaneer's class level, and the save DC is equal to 10 + her buccaneer level + her Charisma modifier. This replaces the [[rangoric-srd/class-options/deeds/Lightning Reload (Deed)|lightning reload]] deed.
+**Captain's Curse (Sp)**: At 11th level, a buccaneer can spend 2 grit points to use _[[rangoric-srd/spells/Old Salt’s Curse|old salt's curse]]_ as a spell-like ability. At 15th level, she may use _[[rangoric-srd/spells/Black Mark|black mark]]_ instead. The caster level for these spell-like abilities is equal to the buccaneer's class level, and the save DC is equal to 10 + her buccaneer level + her Charisma modifier. This replaces the [[rangoric-srd/class-options/deeds/Lightning Reload (Deed)|lightning reload]] deed.
 
 **Grit (Ex)**: Like the sea itself, a buccaneer is a force of nature. Instead of using her Wisdom modifier to determine the number of grit points she gains at the start of each day, she uses her Charisma modifier. This ability works in all other ways like the gunslinger's [[rangoric-srd/classes/Gunslinger#^gunslinger-grit|grit]] class feature.
 

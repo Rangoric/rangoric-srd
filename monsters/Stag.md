@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Stag
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 2d8+6 (15 hp)
-  - **Initiative**: +3
-  - **Speed**: 50 ft. (10 squares)
-  - **Armor Class**: 13 (+3 Dex), touch 13, flat-footed 10
-  - **Base Attack**: +1; **CMB**: +2; **CMD**: 15 (19 vs. trip)
-  - **Attack**: Gore +2 melee (1d6+1) or hoof +2 melee (1d4)
-  - **Full Attack**: Gore +2 melee (1d6+1) and 2 hooves –3 melee (1d4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +6, Ref +6, Will +2
-  - **Abilities**: Str 13, Dex 17, Con 16, Int 2, Wis 15, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Perception|Perception]] +6
-  - **Feats**: [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics)
-  - **Environment**: Any land
-  - **Organization**: Solitary, pair, or herd (3–20)
-  - **Challenge Rating**: 1
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 2d8+6 (15 hp)
+- **Initiative**: +3
+- **Speed**: 50 ft. (10 squares)
+- **Armor Class**: 13 (+3 Dex), touch 13, flat-footed 10
+- **Base Attack**: +1; **CMB**: +2; **CMD**: 15 (19 vs. trip)
+- **Attack**: Gore +2 melee (1d6+1) or hoof +2 melee (1d4)
+- **Full Attack**: Gore +2 melee (1d6+1) and 2 hooves –3 melee (1d4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +6, Ref +6, Will +2
+- **Abilities**: Str 13, Dex 17, Con 16, Int 2, Wis 15, Cha 8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Perception|Perception]] +6
+- **Feats**: [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics)
+- **Environment**: Any land
+- **Organization**: Solitary, pair, or herd (3–20)
+- **Challenge Rating**: 1
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 True masters of the wild, deer gracefully glide through meadows and among the thickets of the deepest forests. Found in all climates and most terrains, deer form tightly knit herds for protection. These creatures fall victim to predators, and many humanoids hunt the animals for food and hides. They're not picky eaters, and consume all manner of plant material. In areas where humanoids live, deer can become pests as they graze in fields and destroy gardens in search of food.
 

@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/magic-item]
 
 When tossed into the air, this tarnished copper coin brings forth potential lost by life's decisions. If a [[rangoric-srd/races/Human|human]], [[rangoric-srd/races/Half-Elf|half-elf]], or [[rangoric-srd/races/Half-Orc|half-orc]] flips the coin and catches it, she takes a –2 penalty to the ability score modified by her +2 racial ability score bonus, but gains a +2 inherent bonus to a random other ability score. The bonus and penalty last for 1 hour. Negating the penalty automatically negates the bonus as well. The coin can be used three times per day.
 
-Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Alter Self|alter self]]*; Price 6,000 gp; Cost 3,000 gp.
+Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Alter Self|alter self]]_; Price 6,000 gp; Cost 3,000 gp.

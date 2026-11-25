@@ -22,10 +22,10 @@ This ring has two modes of operation, one for being in shadowy darkness or outdo
 
 During the night under the open sky or in areas of shadow or darkness, the ring of shooting stars can perform the following functions on command.
 
-  - Dancing lights (once per hour)
-  - Light (twice per night)
-  - Ball lightning (special, once per night)
-  - Shooting stars (special, three per week)
+- Dancing lights (once per hour)
+- Light (twice per night)
+- Ball lightning (special, once per night)
+- Shooting stars (special, three per week)
 
 The first special function, ball lightning, releases one to four balls of lightning (ring wearer’s choice). These glowing globes resemble dancing lights, and the ring wearer controls them in the same fashion (see the dancing lights spell description). The spheres have a 120-foot range and a duration of 4 rounds. They can be moved at 120 feet per round. Each sphere is about 3 feet in diameter, and any creature who comes within 5 feet of one causes its charge to dissipate, taking electricity damage in the process according to the number of balls created.
 
@@ -44,8 +44,8 @@ Any creature struck by a shooting star takes full damage from impact plus full f
 
 Indoors at night, or underground, the ring of shooting stars has the following properties.
 
-  - Faerie fire (twice per day)
-  - Spark shower (special, once per day)
+- Faerie fire (twice per day)
+- Spark shower (special, once per day)
 
 The spark shower is a flying cloud of sizzling purple sparks that fan out from the ring for a distance of 20 feet in an arc 10 feet wide. Creatures within this area take 2d8 points of damage each if not wearing metal armor or carrying a metal weapon. Those wearing metal armor and/or carrying a metal weapon take 4d8 points of damage.
 

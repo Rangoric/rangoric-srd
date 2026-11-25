@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Dhampir Wizard
 
-*A [[rangoric-srd/races/Dhampir|dhampir]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Wizard#^wizard-class-bonuses|wizard]] level.*
+_A [[rangoric-srd/races/Dhampir|dhampir]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Wizard#^wizard-class-bonuses|wizard]] level._
 
 Add +1/4 to the wizard's caster level when casting spells of the [[rangoric-srd/spells/Schools of Magic#Necromancy|necromancy]] school.

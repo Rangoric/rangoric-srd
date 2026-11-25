@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Oversized Weapon
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “oversized weapon”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “oversized weapon”, on the Special Qualities line.
 
 An ash giant can wield Huge weapons without penalty. The [[rangoric-srd/monsters/giant/Ash Giant|ash giant]] has it.

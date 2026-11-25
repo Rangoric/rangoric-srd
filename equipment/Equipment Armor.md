@@ -39,25 +39,25 @@ Even if a character’s Dexterity bonus to AC drops to 0 because of armor, this 
 
 Your character’s encumbrance (the amount of gear he or she carries) may also restrict the maximum Dexterity bonus that can be applied to his or her Armor Class.
 
-*Shields*: Shields do not affect a character’s maximum Dexterity bonus.
+_Shields_: Shields do not affect a character’s maximum Dexterity bonus.
 
 **Armor Check Penalty**: Any armor heavier than leather hurts a character’s ability to use some skills. An armor check penalty number is the penalty that applies to Acrobatics, Athletics, Escape Artist, Sleight of Hand, and Stealth checks by a character wearing a certain kind of armor. Double the normal armor check penalty is applied to Athletics checks. A character’s encumbrance (the amount of gear carried, including armor) may also apply an armor check penalty.
 
-*Shields*: If a character is wearing armor and using a shield, both armor check penalties apply.
+_Shields_: If a character is wearing armor and using a shield, both armor check penalties apply.
 
-*Nonproficient with Armor Worn*: A character who wears armor and/or uses a shield with which he or she is not proficient takes the armor’s (and/or shield’s) armor check penalty on attack rolls and on all Strength-based and Dexterity-based ability and skill checks. The penalty for nonproficiency with armor stacks with the penalty for nonproficiency with shields.
+_Nonproficient with Armor Worn_: A character who wears armor and/or uses a shield with which he or she is not proficient takes the armor’s (and/or shield’s) armor check penalty on attack rolls and on all Strength-based and Dexterity-based ability and skill checks. The penalty for nonproficiency with armor stacks with the penalty for nonproficiency with shields.
 
-*Sleeping in Armor*: A character who sleeps in medium or heavy armor is automatically fatigued the next day. He or she takes a –2 penalty on Strength and Dexterity and can’t charge or run. Sleeping in light armor does not cause fatigue.
+_Sleeping in Armor_: A character who sleeps in medium or heavy armor is automatically fatigued the next day. He or she takes a –2 penalty on Strength and Dexterity and can’t charge or run. Sleeping in light armor does not cause fatigue.
 
 **Arcane Spell Failure**: Armor interferes with the gestures that a spellcaster must make to cast an arcane spell that has a somatic component. Arcane spellcasters face the possibility of arcane spell failure if they’re wearing armor. Bards can wear light armor without incurring any arcane spell failure chance for their bard spells. ^arcane-spell-failure
 
-*Casting an Arcane Spell in Armor*: A character who casts an arcane spell while wearing armor must usually make an arcane spell failure roll. The number in the Arcane Spell Failure Chance column on Table: Armor and Shields is the chance that the spell fails and is ruined. If the spell lacks a somatic component, however, it can be cast with no chance of arcane spell failure.
+_Casting an Arcane Spell in Armor_: A character who casts an arcane spell while wearing armor must usually make an arcane spell failure roll. The number in the Arcane Spell Failure Chance column on Table: Armor and Shields is the chance that the spell fails and is ruined. If the spell lacks a somatic component, however, it can be cast with no chance of arcane spell failure.
 
-*Shields*: If a character is wearing armor and using a shield, add the two numbers together to get a single arcane spell failure chance.
+_Shields_: If a character is wearing armor and using a shield, add the two numbers together to get a single arcane spell failure chance.
 
 **Speed**: Medium or heavy armor slows the wearer down. The number on Table: Armor and Shields is the character’s speed while wearing the armor. Humans, elves, half-elves, and half-orcs have an unencumbered speed of 30 feet. They use the first column. Dwarves, gnomes, and halflings have an unencumbered speed of 20 feet. They use the second column. Remember, however, that a dwarf’s land speed remains 20 feet even in medium or heavy armor or when carrying a medium or heavy load.
 
-*Shields*: Shields do not affect a character’s speed.
+_Shields_: Shields do not affect a character’s speed.
 
 **Weight**: This column gives the weight of the armor sized for a Medium wearer. Armor fitted for Small characters weighs half as much, and armor for Large characters weighs twice as much.
 
@@ -201,13 +201,13 @@ Each armor, shield and extra has its own note in the `armor` folder, linked from
 | [[rangoric-srd/equipment/armor/Short Tonlet\|Tonlet, Short]]                                   | 75 gp     | +1                 | –2                | –1                  | 5%                          | —              | —              | 7 lb.      |
 | [[rangoric-srd/equipment/armor/Weapon Tether\|Weapon tether]]                                  | 25 gp     | —                  | —                 | —                   | —                           | —              | —              | 2 lb.      |
 
-1 *Weight figures are for armor sized to fit Medium characters. Armor fitted for Small characters weighs half as much, and armor fitted for Large characters weighs twice as much.*
+1 _Weight figures are for armor sized to fit Medium characters. Armor fitted for Small characters weighs half as much, and armor fitted for Large characters weighs twice as much._
 
-2 *When running in heavy armor, you move only triple your speed, not quadruple.*
+2 _When running in heavy armor, you move only triple your speed, not quadruple._
 
-3 *A tower shield can instead grant you cover. See the description.*
+3 _A tower shield can instead grant you cover. See the description._
 
-4 *Hand not free to cast spells.*
+4 _Hand not free to cast spells._
 
 %% end generated %%
 
@@ -475,7 +475,7 @@ You can’t add the masterwork quality to armor or a shield after it is created;
 
 ##### Durability
 
-*Optional rule.* Armor and shields are constructed with thought to their service requirements. They are built to withstand rugged conditions, enduring extremes of stress and hard wear. Yet, a shield may be sundered, or worn armor may have its condition impaired by attacks of acid, fire, cold, spells or other effects that attack item hardness. In these and other circumstances that severely test the equipment, an adventurer’s very life may depend upon the basic durability of her arms and armor.
+_Optional rule._ Armor and shields are constructed with thought to their service requirements. They are built to withstand rugged conditions, enduring extremes of stress and hard wear. Yet, a shield may be sundered, or worn armor may have its condition impaired by attacks of acid, fire, cold, spells or other effects that attack item hardness. In these and other circumstances that severely test the equipment, an adventurer’s very life may depend upon the basic durability of her arms and armor.
 
 While all martial gear is considered to be sturdy and tough, it is possible for the adventurer to procure equipment of exceptional durability. Durable armor and shields handle stressful forces better than regular equipment. Gear of this sort typically has a longer lifespan than the norm: it is reinforced or constructed in a more rugged manner, generally gains one or more hardness points, and gains a saving throw bonus. Durability does not provide a defensive armor bonus, but any item crafted specifically for durability gains a +1 inherent bonus to checks and saves against damage or breakage due to cold, fire, acid, wear and tear, or any other circumstance the GM deems might ruin equipment.
 
@@ -485,30 +485,30 @@ All durable items are also masterwork creations. The attention to detail and bes
 
 **Table: Durability**
 
-| Item | Additional Cost (1) | Hardness Bonus | HP Bonus |
-|---|---|---|---|
-| *Armor* |  |  |  |
-| Light armor | x2 | +1 | +5 |
-| Medium armor | x3 | +2 | +20 |
-| Heavy armor | x4 | +3 | +50 |
-| Shields | x2 | +2 | +10 |
-| *Weapons* |  |  |  |
-| Light blade | x2 | +1 | +1 |
-| One-handed blade | x2 | +1 | +1 |
-| Two-handed blade | x2 | +3 | +5 |
-| Light metal-hafted-weapon | x2 | +2 | +2 |
-| One-handed metal-hafted weapon | x2 | +3 | +5 |
-| Light hafted weapon | x2 | +1 | +2 |
-| One-handed hafted weapon | x2 | +1 | +1 |
-| Two-handed hafted weapon | x2 | +1 | +1 |
-| Projectile weapon | x3 | +1 | +1 |
-| General Equipment | x2 | +10% | +25% |
+| Item                           | Additional Cost (1) | Hardness Bonus | HP Bonus |
+| ------------------------------ | ------------------- | -------------- | -------- |
+| _Armor_                        |                     |                |          |
+| Light armor                    | x2                  | +1             | +5       |
+| Medium armor                   | x3                  | +2             | +20      |
+| Heavy armor                    | x4                  | +3             | +50      |
+| Shields                        | x2                  | +2             | +10      |
+| _Weapons_                      |                     |                |          |
+| Light blade                    | x2                  | +1             | +1       |
+| One-handed blade               | x2                  | +1             | +1       |
+| Two-handed blade               | x2                  | +3             | +5       |
+| Light metal-hafted-weapon      | x2                  | +2             | +2       |
+| One-handed metal-hafted weapon | x2                  | +3             | +5       |
+| Light hafted weapon            | x2                  | +1             | +2       |
+| One-handed hafted weapon       | x2                  | +1             | +1       |
+| Two-handed hafted weapon       | x2                  | +1             | +1       |
+| Projectile weapon              | x3                  | +1             | +1       |
+| General Equipment              | x2                  | +10%           | +25%     |
 
-1 *The cost of creating a durable item is equal to the item’s masterwork creation cost times the multiplier in this table.*
+1 _The cost of creating a durable item is equal to the item’s masterwork creation cost times the multiplier in this table._
 
 ##### Shield Parries
 
-*Optional rule.* A fighter with a shield is essentially no different from one with two weapons, only that one of the weapons is used to block blows instead of attack. Under this optional rule, a creature has the option of using a shield or parrying weapon to parry attacks. A shield used in this manner is treated just as if the wielder is fighting with two weapons, the off-hand weapon being light. A creature can make a number of shield parries each round equal to the number of attacks he would be able to make with an off-hand weapon.
+_Optional rule._ A fighter with a shield is essentially no different from one with two weapons, only that one of the weapons is used to block blows instead of attack. Under this optional rule, a creature has the option of using a shield or parrying weapon to parry attacks. A shield used in this manner is treated just as if the wielder is fighting with two weapons, the off-hand weapon being light. A creature can make a number of shield parries each round equal to the number of attacks he would be able to make with an off-hand weapon.
 
 A shield parry must be made on an opponent’s turn, and it must be declared before the die roll for the opponent’s attack is made. If the attacker gets multiple attacks, the defender gets to choose which attack he attempts to parry.
 
@@ -520,12 +520,12 @@ A blocked attack may still do damage, however, as a shield is only able to offer
 
 **Table: Shield Parry Damage Reduction**
 
-| Shield Type | Damage Reduction |
-| --- | --- |
-| Parrying weapon | 10 |
-| Buckler | 10 |
-| Light shield | 15 |
-| Heavy shield | 20 |
+| Shield Type     | Damage Reduction |
+| --------------- | ---------------- |
+| Parrying weapon | 10               |
+| Buckler         | 10               |
+| Light shield    | 15               |
+| Heavy shield    | 20               |
 
 The wielder of a shield can opt not to counterattack on any given round, instead simply holding the shield against his body as if it were armor. In this case, no penalties are applied for using two weapons, and the normal rules for shields should be used.
 
@@ -545,7 +545,7 @@ Armor and shields for unusually big creatures, unusually little creatures, and n
 | Gargantuan          | x8             | x8               | x16               | x8                  |
 | Colossal            | x16            | x12              | x32               | x12                 |
 
-1 *Divide armor bonus by 2.*
+1 _Divide armor bonus by 2._
 
 ##### Getting into and Out of Armor
 
@@ -566,6 +566,6 @@ The time required to don armor depends on its type; see Table: Donning Armor.
 | Breastplate, scale mail, chainmail, banded mail, or splint mail | 4 minutes (1) | 1 minute      | 1 minute (1)      |
 | Half-plate or full plate                                        | 4 minutes (2) | 4 minutes (1) | 1d4+1 minutes (1) |
 
-1 *If the character has some help, cut this time in half. A single character doing nothing else can help one or two adjacent characters. Two characters can’t help each other don armor at the same time.*
+1 _If the character has some help, cut this time in half. A single character doing nothing else can help one or two adjacent characters. Two characters can’t help each other don armor at the same time._
 
-2 *The wearer must have help to don this armor. Without help, it can be donned only hastily.*
+2 _The wearer must have help to don this armor. Without help, it can be donned only hastily._

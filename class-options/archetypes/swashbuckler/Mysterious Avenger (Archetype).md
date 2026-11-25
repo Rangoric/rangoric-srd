@@ -21,11 +21,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Mysterious Avenger
 
-*A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-archetypes|swashbuckler]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Swashbuckler#^swashbuckler-archetypes|swashbuckler]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 While some swashbucklers fight for queen and country, and others for coin, glory, or just the enhancement of their own reputations, the mysterious avenger fights directly for a cause. Instead of gaining personal glory for her heroic deeds, she keeps her identity hidden in order to fight for those who cannot fight for themselves.
 
-**Alignment**: A mysterious avenger must be of a good alignment, and must be dedicated to the protection of the good and the powerless under her care. If she ceases to be good or betrays the trust of those she was sworn to protect, she loses her secret identity and greater charmed life class features. She can regain them if she atones for her violations by some means that the GM sees fit (possibly by way of the *[[rangoric-srd/spells/Atonement|atonement]]* spell if the mysterious avenger is especially religious).
+**Alignment**: A mysterious avenger must be of a good alignment, and must be dedicated to the protection of the good and the powerless under her care. If she ceases to be good or betrays the trust of those she was sworn to protect, she loses her secret identity and greater charmed life class features. She can regain them if she atones for her violations by some means that the GM sees fit (possibly by way of the _[[rangoric-srd/spells/Atonement|atonement]]_ spell if the mysterious avenger is especially religious).
 
 **Class Skills**: A mysterious avenger adds [[rangoric-srd/skills/Imitation|Imitation]] (Int) to her list of [[rangoric-srd/classes/Swashbuckler#Class Skills|class skills]].
 
@@ -33,7 +33,7 @@ While some swashbucklers fight for queen and country, and others for coin, glory
 
 **Avenger Finesse (Ex)**: At 2nd level, a mysterious avenger gains all of the benefits of the [[rangoric-srd/classes/Swashbuckler#^swashbuckler-finesse|swashbuckler’s finesse]] class feature, and gains the ability to use a whip in place of a light or one-handed piercing melee weapon for all swashbuckler class features and deeds. This ability alters [[rangoric-srd/classes/Swashbuckler#^swashbuckler-finesse|swashbuckler finesse]].
 
-**Secret Identity (Su)**: At 3rd level, a mysterious avenger's force of personality and dedication to her cause give her the ability to keep her true identity secret, even from magical prying. She gains a +4 bonus on [[rangoric-srd/skills/Imitation|Imitation]] checks in a single disguise of her choice, typically her avenger persona. Once this disguise has been chosen, it can't be changed. She also gains a +4 bonus on saving throws against divination effects. At 11th level, she becomes immune to all *[[rangoric-srd/spells/Scrying|scrying]]* effects and other magical effects used in attempts to uncover her secret identity. This ability replaces [[rangoric-srd/classes/Swashbuckler#^swashbuckler-nimble|nimble]].
+**Secret Identity (Su)**: At 3rd level, a mysterious avenger's force of personality and dedication to her cause give her the ability to keep her true identity secret, even from magical prying. She gains a +4 bonus on [[rangoric-srd/skills/Imitation|Imitation]] checks in a single disguise of her choice, typically her avenger persona. Once this disguise has been chosen, it can't be changed. She also gains a +4 bonus on saving throws against divination effects. At 11th level, she becomes immune to all _[[rangoric-srd/spells/Scrying|scrying]]_ effects and other magical effects used in attempts to uncover her secret identity. This ability replaces [[rangoric-srd/classes/Swashbuckler#^swashbuckler-nimble|nimble]].
 
 **Greater Charmed Life (Ex)**: At 4th level, the mysterious avenger gains three extra uses of [[rangoric-srd/classes/Swashbuckler#^swashbuckler-charmed-life|charmed life]]. As an immediate action, she can expend one use of charmed life to gain a bonus to her AC equal to her Charisma modifier (minimum 1). She must choose to do this before the attack roll is made against her. This ability replaces the [[rangoric-srd/classes/Swashbuckler#^swashbuckler-bonus-feats|bonus feat]] gained at 4th level.
 

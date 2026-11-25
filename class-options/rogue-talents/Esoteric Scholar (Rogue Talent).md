@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Esoteric Scholar
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex).*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex)._
 
 A rogue with this talent can attempt any Knowledge skill check, even if she is not trained in that Knowledge skill.

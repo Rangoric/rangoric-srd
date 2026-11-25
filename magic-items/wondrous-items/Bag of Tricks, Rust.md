@@ -23,9 +23,9 @@ Animals produced are always random, and only one may exist at a time. Up to ten 
 
 Faint conjuration; CL 5th; Craft Wondrous Item, summon nature’s ally III; Price 3,000 gp.
 
-| d% | Animal |
-| --- | --- |
-| 01–30 | Wolverine |
-| 31–60 | Wolf |
-| 61–85 | Boar |
+| d%     | Animal     |
+| ------ | ---------- |
+| 01–30  | Wolverine  |
+| 31–60  | Wolf       |
+| 61–85  | Boar       |
 | 86–100 | Black bear |

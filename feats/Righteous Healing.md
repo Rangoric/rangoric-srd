@@ -18,4 +18,4 @@ Your healing spells are more potent when you have a judgment active.
 
 **Prerequisites**: [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-judgment|judgment]] class feature.
 
-**Benefit**: If you cast a *cure* spell while you have a [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-judgment|judgment]] active, each target regains 1 extra hit point from the *cure* spell + 1 hit point per three inquisitor levels you possess.
+**Benefit**: If you cast a _cure_ spell while you have a [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-judgment|judgment]] active, each target regains 1 extra hit point from the _cure_ spell + 1 hit point per three inquisitor levels you possess.

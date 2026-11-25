@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Tengu Barbarian
 
-*A [[rangoric-srd/races/Tengu|tengu]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Barbarian#^barbarian-class-bonuses|barbarian]] level.*
+_A [[rangoric-srd/races/Tengu|tengu]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Barbarian#^barbarian-class-bonuses|barbarian]] level._
 
 Add +1/3 to the bonus from the [[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]].

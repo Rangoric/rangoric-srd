@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Breaker
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-archetypes|barbarian]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-archetypes|barbarian]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 While most barbarians are skilled at breaking things, some find the need to destroy their surroundings an almost uncontrollable urge when in the middle of a rage. These barbarians are a danger not only to their foes, but also to the very environment around them. A breaker barbarian has the following class features.
 

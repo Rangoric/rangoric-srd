@@ -26,6 +26,6 @@ When using the gloves to touch, attack, or manipulate anything in the square, th
 
 Interacting with the target square is distracting, and anything that threatens her in her actual square automatically flanks her.
 
-If the wearer or her square is blocked from using teleportation or planar travel effects (such as *[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]*), the gloves do not function. She cannot use the gloves to target a square protected by such an effect.
+If the wearer or her square is blocked from using teleportation or planar travel effects (such as _[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]_), the gloves do not function. She cannot use the gloves to target a square protected by such an effect.
 
-Moderate conjuration; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Teleport|teleport]]*; Price 27,000 gp; Cost 13,500 gp.
+Moderate conjuration; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Teleport|teleport]]_; Price 27,000 gp; Cost 13,500 gp.

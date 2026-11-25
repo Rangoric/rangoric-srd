@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Efficient Item Creation
 
-Prerequisites: [[rangoric-srd/feats/Feats Item Creation|Item creation feat]] to be selected, [[rangoric-srd/skills/Arcana|Arcana]] 21 ranks, [[rangoric-srd/skills/Mysticism|Mysticism]] 21 ranks.  
+Prerequisites: [[rangoric-srd/feats/Feats Item Creation|Item creation feat]] to be selected, [[rangoric-srd/skills/Arcana|Arcana]] 21 ranks, [[rangoric-srd/skills/Mysticism|Mysticism]] 21 ranks.
 
 Benefit: Select an item creation feat. Creating a magic item using that feat requires one day per 10,000 gp of the item’s market price, with a minimum of one day.
 

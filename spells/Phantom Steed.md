@@ -32,16 +32,16 @@ tags: [rangoric, rangoric/spell]
 
 # Phantom Steed
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Blr 3, Brd 3, Mag 3, Occ 3, Skd 3, Sor/Wiz 3, Spi 2, Sum 2, SumU 2
-  - **Components**: V, S
-  - **Casting Time**: 10 minutes
-  - **Range**: 0 ft.
-  - **Effect**: One quasi-real, horselike creature
-  - **Duration**: 1 hour/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Blr 3, Brd 3, Mag 3, Occ 3, Skd 3, Sor/Wiz 3, Spi 2, Sum 2, SumU 2
+- **Components**: V, S
+- **Casting Time**: 10 minutes
+- **Range**: 0 ft.
+- **Effect**: One quasi-real, horselike creature
+- **Duration**: 1 hour/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You conjure a Large, quasi-real, horselike creature. The steed can be ridden only by you or by the one person for whom you specifically created the mount. A phantom steed has a black head and body, gray mane and tail, and smoke-colored, insubstantial hooves that make no sound. It has what seems to be a saddle, bit, and bridle. It does not fight, but animals shun it and refuse to attack it.
 
@@ -49,10 +49,10 @@ The mount has an AC of 18 (–1 size, +4 natural armor, +5 Dex) and 7 hit points
 
 These mounts gain certain powers according to caster level. A mount’s abilities include those of mounts of lower caster levels.
 
-*8th Level*: The mount can ride over sandy, muddy, or even swampy ground without difficulty or decrease in speed.
+_8th Level_: The mount can ride over sandy, muddy, or even swampy ground without difficulty or decrease in speed.
 
-*10th Level*: The mount can use water walk at will (as the spell, no action required to activate this ability).
+_10th Level_: The mount can use water walk at will (as the spell, no action required to activate this ability).
 
-*12th Level*: The mount can use air walk at will (as the spell, no action required to activate this ability) for up to 1 round at a time, after which it falls to the ground.
+_12th Level_: The mount can use air walk at will (as the spell, no action required to activate this ability) for up to 1 round at a time, after which it falls to the ground.
 
-*14th Level*: The mount can fly at its speed (average maneuverability).
+_14th Level_: The mount can fly at its speed (average maneuverability).

@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, fighter-bonus, epic]
 
 # Uncanny Accuracy
 
-Prerequisites: Dex 21, base attack bonus +11, [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Improved Precise Shot|Improved Precise Shot]], [[rangoric-srd/skills/Perception|Perception]] 17 ranks.  
+Prerequisites: Dex 21, base attack bonus +11, [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Improved Precise Shot|Improved Precise Shot]], [[rangoric-srd/skills/Perception|Perception]] 17 ranks.
 
 Benefit: The character’s ranged attacks ignore the miss chance granted to targets by total concealment.  The character must aim his or her attacks at the correct square to gain advantage of this feat.
 

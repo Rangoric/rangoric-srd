@@ -25,6 +25,6 @@ tags: [rangoric, rangoric/armor]
 
 # Mountain Pattern Armor
 
-*Medium armor.* Cost 250 gp; Armor Bonus +6; Maximum Dex Bonus +3; Armor Check Penalty –4; Arcane Spell Failure 30%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 40 lb. ^stats
+_Medium armor._ Cost 250 gp; Armor Bonus +6; Maximum Dex Bonus +3; Armor Check Penalty –4; Arcane Spell Failure 30%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 40 lb. ^stats
 
 This medium armor consists of hundreds of small, interlocking pieces of steel shaped to resemble an ancient symbol for the word "mountain." The mail is then riveted to a cloth or leather backing. It is worn like a mail coat and covers your torso, shoulders, and thighs.

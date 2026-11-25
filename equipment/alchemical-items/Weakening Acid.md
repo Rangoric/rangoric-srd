@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Weakening Acid
 
-*Chymical; Special*
+_Chymical; Special_
 
 Weakening acid reduces the hit points of a material without affecting its hardness or its break DC. Each two-ounce dose of the acid can affect one item up to four feet in length (such as a long sword) and reduces treated material by 1d10 hit points. This acid never reduces an object to less than one hit point, as it leaves the material intact but weakened. What confounds many is that this acid doesn’t appear to have any immediate effect at all—the affected materials look the same as they did before. However, when attacked or subjected to stress, the materials only last until their hardness is exceeded by damage, so they crumble far more quickly than expected.
 

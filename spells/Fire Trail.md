@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Fire Trail
 
-*Transmutation \[Fire\]*
+_Transmutation \[Fire\]_
 
-  - **Level**: Alc 3, Blr 3, Mag 3, Sor/Wiz 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Effect**: Trail of flame that follows the caster's movements; see text
-  - **Duration**: 1 round/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Alc 3, Blr 3, Mag 3, Sor/Wiz 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Effect**: Trail of flame that follows the caster's movements; see text
+- **Duration**: 1 round/level
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 When you cast this spell, flammable liquid oozes from your pores, dripping onto the ground and spontaneously combusting. The flame does not harm you. During this spell's duration, each time you leave your space, you create a trail of fire that burns within the spaces you move through for 1 round before it burns out. You can leave up to 60 feet of flame trail each round, assuming you are Small or Medium. If you are larger than Medium, the maximum trail length is reduced based on your size. If you are Large, you can leave a trail up to 30 feet long (and 10 feet wide), and if you are Huge, you can leave a trail up to 15 feet long (and 15 feet wide); even larger casters can only leave a trail up to 10 feet long (and as wide as your space) each round. You choose where to leave a flame trail.
 

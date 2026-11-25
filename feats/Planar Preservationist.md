@@ -18,4 +18,4 @@ You know how to preserve and reconstitute extraplanar monsters as well as normal
 
 **Prerequisites**: [[rangoric-srd/class-options/archetypes/alchemist/Preservationist (Archetype)|Preservationist]] alchemist archetype.
 
-**Benefit**: For every *summon nature’s ally* extract whose formula is in your [[rangoric-srd/classes/Alchemist#^alchemist-formulae|formula book]], you add the equivalent *summon monster* spell to your formula book as an extract. If you later add other summon nature’s ally formulae to your formula book, you automatically add the equivalent summon monster spell as an extract.
+**Benefit**: For every _summon nature’s ally_ extract whose formula is in your [[rangoric-srd/classes/Alchemist#^alchemist-formulae|formula book]], you add the equivalent _summon monster_ spell to your formula book as an extract. If you later add other summon nature’s ally formulae to your formula book, you automatically add the equivalent summon monster spell as an extract.

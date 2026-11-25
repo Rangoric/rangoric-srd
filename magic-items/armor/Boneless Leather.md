@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Boneless Leather
 
-This suit of *+1 leather* gives its wearer the ability to twist and contort her body in virtually any direction. She gains a +5 bonus on [[rangoric-srd/skills/Escape Artist|Escape Artist]] checks, a +5 bonus on [[rangoric-srd/skills/Acrobatics|Acrobatics]] checks to reduce damage from falls, a +5 bonus to [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]], and DR 5/piercing or slashing.
+This suit of _+1 leather_ gives its wearer the ability to twist and contort her body in virtually any direction. She gains a +5 bonus on [[rangoric-srd/skills/Escape Artist|Escape Artist]] checks, a +5 bonus on [[rangoric-srd/skills/Acrobatics|Acrobatics]] checks to reduce damage from falls, a +5 bonus to [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]], and DR 5/piercing or slashing.
 
-Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Alter Self|alter self]]*, creator must have 5 ranks in the Acrobatics and Escape Artist skills; Price 12,160 gp; Cost 6,160 gp.
+Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Alter Self|alter self]]_, creator must have 5 ranks in the Acrobatics and Escape Artist skills; Price 12,160 gp; Cost 6,160 gp.

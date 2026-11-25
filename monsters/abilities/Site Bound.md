@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Site Bound
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “site bound”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “site bound”, on the Special Qualities line.
 
 A poltergeist cannot travel more than 120 feet from the point at which it was created or formed. The [[rangoric-srd/monsters/Poltergeist|poltergeist]] has it.

@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Any Guise
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-social-talent|social talent]] (Su).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-social-talent|social talent]] (Su)._
 
 A vigilante can use his [[rangoric-srd/class-options/social-talents/Everyman (Social Talent)|everyman]] social talent to disguise himself as any specific person, even a king or high priest. Furthermore, if the actual individual wouldn’t normally be able to be found via magic (such as by being dead or protected from divinations designed to locate the individual), such divinations always find the vigilante instead.
 

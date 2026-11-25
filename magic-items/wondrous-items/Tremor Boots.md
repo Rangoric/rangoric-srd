@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 These brown leather boots have a reinforced toe of steel with grooves along the soles, crafted to help the wearer pick up vibrations from the surrounding environment. These boots grant the wearer [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 5 feet as long as he is standing on solid ground.
 
-Faint divination; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/See Invisibility|see invisibility]]*; Price 10,000 gp; Cost 5,000 gp; Weight 1 lb.
+Faint divination; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/See Invisibility|see invisibility]]_; Price 10,000 gp; Cost 5,000 gp; Weight 1 lb.

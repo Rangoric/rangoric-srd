@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Powerful Stance
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 The barbarian can focus her ferocity. She gains a +1 bonus on melee damage rolls and thrown weapon damage rolls. This bonus increases by 1 for every 4 levels the barbarian has. This is a stance rage power.

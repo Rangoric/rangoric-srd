@@ -16,8 +16,8 @@ tags: [rangoric, rangoric/magic-item]
 
 # Unguent of the Bear
 
-*A [[rangoric-srd/magic-items/potions/Strange Brew Potions|strange brew]].*
+_A [[rangoric-srd/magic-items/potions/Strange Brew Potions|strange brew]]._
 
-The Unguent of the Bear was created by mild-mannered alchemist in his quest to brew the ultimate combat potion. By distilling and enchanting certain essences of the dire bear, he created a magic oil that causes the user to grow in size and strength as the spell *[[rangoric-srd/spells/Righteous Might|righteous might]]* (unlike the spell, clothing, gear and weapons do not grow to suit). The potion lasts for 10 minutes. Unfortunately, it is dangerously unstable—every round while under its influence, the imbiber must make a DC 12 Will check or fly into a unreasoning rage and attack all those around him until the potion wears off. With each dose beyond the first there is a 20% chance the user’s Intelligence will drop permanently 1 point.
+The Unguent of the Bear was created by mild-mannered alchemist in his quest to brew the ultimate combat potion. By distilling and enchanting certain essences of the dire bear, he created a magic oil that causes the user to grow in size and strength as the spell _[[rangoric-srd/spells/Righteous Might|righteous might]]_ (unlike the spell, clothing, gear and weapons do not grow to suit). The potion lasts for 10 minutes. Unfortunately, it is dangerously unstable—every round while under its influence, the imbiber must make a DC 12 Will check or fly into a unreasoning rage and attack all those around him until the potion wears off. With each dose beyond the first there is a 20% chance the user’s Intelligence will drop permanently 1 point.
 
-CL 9th; [[rangoric-srd/feats/Brew Potion|Brew Potion]], *[[rangoric-srd/spells/Righteous Might|righteous might]]*; Price 3,375 gp.
+CL 9th; [[rangoric-srd/feats/Brew Potion|Brew Potion]], _[[rangoric-srd/spells/Righteous Might|righteous might]]_; Price 3,375 gp.

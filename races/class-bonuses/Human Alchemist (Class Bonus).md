@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Human Alchemist
 
-*A [[rangoric-srd/races/Human|human]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Alchemist#^alchemist-class-bonuses|alchemist]] level.*
+_A [[rangoric-srd/races/Human|human]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Alchemist#^alchemist-class-bonuses|alchemist]] level._
 
 Add one extract formula from the [[rangoric-srd/spells/Alchemist Formula List|alchemist formula list]] to the character's [[rangoric-srd/classes/Alchemist#^alchemist-formulae|formula book]]. This formula must be at least one level below the highest formula level the alchemist can create.

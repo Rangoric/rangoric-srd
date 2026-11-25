@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Deception Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Trickery Domain|Trickery]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Trickery Domain|Trickery]] domain._
 
 ## Replacement Power
 
@@ -27,7 +27,7 @@ This power replaces the [[rangoric-srd/class-options/domains/Trickery Domain#Gra
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 2nd | [[rangoric-srd/spells/Mirror Image\|Mirror Image]] | Creates decoy duplicates of you (1d4 +1 per three levels, max 8). |
-| 7th | [[rangoric-srd/spells/Project Image\|Project Image]] (M) | Illusory double can talk and cast spells. |
+| Level | Spell                                                    | Brief Description                                                 |
+| ----- | -------------------------------------------------------- | ----------------------------------------------------------------- |
+| 2nd   | [[rangoric-srd/spells/Mirror Image\|Mirror Image]]       | Creates decoy duplicates of you (1d4 +1 per three levels, max 8). |
+| 7th   | [[rangoric-srd/spells/Project Image\|Project Image]] (M) | Illusory double can talk and cast spells.                         |

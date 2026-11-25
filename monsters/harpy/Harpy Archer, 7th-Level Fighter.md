@@ -38,25 +38,25 @@ tags: [rangoric, rangoric/monster]
 
 # Harpy Archer, 7th-Level Fighter
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
-  - **Hit Dice**: 7d8 + 7d10 + 28 (103 hp)
-  - **Initiative**: +9
-  - **Speed**: 20 ft. (4 squares), fly 80 ft. (average)
-  - **Armor Class**: 23 (+5 Dex, +1 natural, +6 +3 studded leather, +1 ring of protection +1), touch 16, flat-footed 18
-  - **Base Attack**: +14; **CMB**: +15; **CMD**: 30
-  - **Attack**: +1 frost composite longbow (+1 Str bonus) +22 ranged (1d8+4/19-20/×3 plus 1d6 cold) or claw +15 melee (1d3+1)
-  - **Full Attack**: +1 frost composite longbow (+1 Str bonus) +22/+17/+12 ranged (1d8+4/19-20/×3 plus 1d6 cold) or 2 claws +15 melee (1d3+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Captivating song
-  - **Special Qualities**: Darkvision 60 ft.
-  - **Saves**: Fort +11, Ref +14, Will +11
-  - **Abilities**: Str 12, Dex 20, Con 14, Int 6, Wis 11, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Performance|Performance]] (oratory) +13
-  - **Feats**: [[rangoric-srd/feats/Feats All|Improved Critical]] (composite longbow), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Manyshot|Manyshot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (composite longbow), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (composite longbow)
-  - **Environment**: Temperate marshes
-  - **Organization**: Solitary
-  - **Challenge Rating**: 11
-  - **Treasure**: Standard (including equipment)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: +3
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
+- **Hit Dice**: 7d8 + 7d10 + 28 (103 hp)
+- **Initiative**: +9
+- **Speed**: 20 ft. (4 squares), fly 80 ft. (average)
+- **Armor Class**: 23 (+5 Dex, +1 natural, +6 +3 studded leather, +1 ring of protection +1), touch 16, flat-footed 18
+- **Base Attack**: +14; **CMB**: +15; **CMD**: 30
+- **Attack**: +1 frost composite longbow (+1 Str bonus) +22 ranged (1d8+4/19-20/×3 plus 1d6 cold) or claw +15 melee (1d3+1)
+- **Full Attack**: +1 frost composite longbow (+1 Str bonus) +22/+17/+12 ranged (1d8+4/19-20/×3 plus 1d6 cold) or 2 claws +15 melee (1d3+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Captivating song
+- **Special Qualities**: Darkvision 60 ft.
+- **Saves**: Fort +11, Ref +14, Will +11
+- **Abilities**: Str 12, Dex 20, Con 14, Int 6, Wis 11, Cha 19
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Performance|Performance]] (oratory) +13
+- **Feats**: [[rangoric-srd/feats/Feats All|Improved Critical]] (composite longbow), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Manyshot|Manyshot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (composite longbow), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (composite longbow)
+- **Environment**: Temperate marshes
+- **Organization**: Solitary
+- **Challenge Rating**: 11
+- **Treasure**: Standard (including equipment)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: +3

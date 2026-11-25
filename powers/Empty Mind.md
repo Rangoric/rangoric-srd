@@ -30,7 +30,7 @@ Telepathy \[Mind-Affecting\]
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 round  
-**Power Points:** 1  
+**Power Points:** 1
 
 You empty your mind of all transitory and distracting thoughts, improving your self-control. You gain a +2 bonus on all Will saves until your next action.
 

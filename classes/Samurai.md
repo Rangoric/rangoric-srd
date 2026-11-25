@@ -41,28 +41,28 @@ The samurai’s class skills (and the key ability for each skill) are [[rangoric
 
 **Table: The Samurai** ^table-the-samurai
 
-| Level | Special |
-| --- | --- |
-| 1st | Challenge 1/day, mount, order, resolve |
-| 2nd | Order ability |
-| 3rd | Weapon expertise |
-| 4th | Challenge 2/day, mounted archer |
-| 5th | Banner |
-| 6th | Bonus feat |
-| 7th | Challenge 3/day |
-| 8th | Order ability |
-| 9th | Greater resolve |
-| 10th | Challenge 4/day |
-| 11th | Honorable stand |
-| 12th | Bonus feat, demanding challenge |
-| 13th | Challenge 5/day |
-| 14th | Greater banner |
-| 15th | Order ability |
-| 16th | Challenge 6/day |
-| 17th | True resolve |
-| 18th | Bonus feat |
-| 19th | Challenge 7/day |
-| 20th | Last stand |
+| Level | Special                                |
+| ----- | -------------------------------------- |
+| 1st   | Challenge 1/day, mount, order, resolve |
+| 2nd   | Order ability                          |
+| 3rd   | Weapon expertise                       |
+| 4th   | Challenge 2/day, mounted archer        |
+| 5th   | Banner                                 |
+| 6th   | Bonus feat                             |
+| 7th   | Challenge 3/day                        |
+| 8th   | Order ability                          |
+| 9th   | Greater resolve                        |
+| 10th  | Challenge 4/day                        |
+| 11th  | Honorable stand                        |
+| 12th  | Bonus feat, demanding challenge        |
+| 13th  | Challenge 5/day                        |
+| 14th  | Greater banner                         |
+| 15th  | Order ability                          |
+| 16th  | Challenge 6/day                        |
+| 17th  | True resolve                           |
+| 18th  | Bonus feat                             |
+| 19th  | Challenge 7/day                        |
+| 20th  | Last stand                             |
 
 ###### Class Features
 

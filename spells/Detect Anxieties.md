@@ -39,15 +39,15 @@ tags: [rangoric, rangoric/spell]
 
 # Detect Anxieties
 
-*Divination \[MindAffecting\]*
+_Divination \[MindAffecting\]_
 
-  - **Level**: Apl 2, Brd 3, Clr 3, Inq 3, Med 2, Mes 2, Pal 3, Psy 2, Skd 3, Sor/Wiz 3, Spi 3, Wit 3
-  - **Components**: V, S, F, F/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: 60 ft.
-  - **Area**: Cone-shaped emanation
-  - **Duration**: Concentration, up to 1 minute/level
-  - **Saving Throw**: Will negates (see text)
-  - **Spell Resistance**: No
+- **Level**: Apl 2, Brd 3, Clr 3, Inq 3, Med 2, Mes 2, Pal 3, Psy 2, Skd 3, Sor/Wiz 3, Spi 3, Wit 3
+- **Components**: V, S, F, F/DF
+- **Casting Time**: 1 standard action
+- **Range**: 60 ft.
+- **Area**: Cone-shaped emanation
+- **Duration**: Concentration, up to 1 minute/level
+- **Saving Throw**: Will negates (see text)
+- **Spell Resistance**: No
 
 This spell functions as [[rangoric-srd/spells/Detect Thoughts|detect thoughts]] except that you sense significant anxieties of creatures with an Intelligence score of 1 or higher, regardless of whether they are conscious or not. Instead of Intelligence, the second round of concentration reveals each mind's Wisdom score and current degree of fear (shaken, frightened, panicked, cowering, or paralyzed with fear). If the highest Wisdom score is 26 or higher (and at least 10 points higher than your own Wisdom score), you are stunned for 1 round and the spell ends. Instead of surface thoughts, the third round of concentration reveals the most pressing current anxiety of any mind in the area (Will negates). Presenting a creature with the threat of its anxiety grants you a +2 bonus (or higher, at the GM's discretion) on checks to intimidate that creature.

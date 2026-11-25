@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/light-blades, weapon-gro
 
 # Ta Mo Dagger
 
-*Simple light melee weapon.* Cost 6 gp; Dmg 1d3 (S), 1d4 (M); Critical 19-20/x2; Range Increment 10 ft.; Weight 2 lb.; Type Piercing. ^stats
+_Simple light melee weapon._ Cost 6 gp; Dmg 1d3 (S), 1d4 (M); Critical 19-20/x2; Range Increment 10 ft.; Weight 2 lb.; Type Piercing. ^stats
 
 Ta mo hidden daggers are two identical daggers that slot together to form an innocent-looking small baton, not more than one foot in length. The Weapon Finesse feat can be used to apply Dexterity modifiers instead of Strength to attack rolls.

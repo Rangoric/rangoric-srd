@@ -24,7 +24,7 @@ Perks:
 - Low-Light Vision: Feeorin have [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]].
 - Weapon Familiarity: Feeorin are proficient with either the longsword or the rapier. They are also proficient with the shortbow, longbow, composite shortbow, or composite longbow.
 - Faerie Traits: At 3rd level, a feeorin may pick one ECL point’s worth of [[rangoric-srd/races/Faerie#Faerie Traits|faerie traits]] (including spell-like abilities). Every four levels after that, a feeorin can select another half ECL point’s worth of traits, or save them to buy more expensive traits later.
-- Spell-Like Abilities: 3/day—*[[rangoric-srd/spells/Good Luck|good luck]]*; 1/day—*[[rangoric-srd/spells/Charm Person|charm person]]* (caster level equal to the feeorin’s character level).
+- Spell-Like Abilities: 3/day—_[[rangoric-srd/spells/Good Luck|good luck]]_; 1/day—_[[rangoric-srd/spells/Charm Person|charm person]]_ (caster level equal to the feeorin’s character level).
 
 Languages:
 

@@ -34,11 +34,11 @@ A character with the trap sense class feature who succeeds on a DC 21 (or higher
 
 Many spells can be used to create dangerous traps. Unless the spell or item description states otherwise, assume the following to be true.
 
-  - A successful [[rangoric-srd/skills/Investigation|Investigation]] check (DC 25 + spell level) made by a character with [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] detects a magic trap before it goes off. Other characters have no chance to find a magic trap with an Investigation check.
+- A successful [[rangoric-srd/skills/Investigation|Investigation]] check (DC 25 + spell level) made by a character with [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] detects a magic trap before it goes off. Other characters have no chance to find a magic trap with an Investigation check.
 
-  - Magic traps permit a saving throw in order to avoid the effect (DC 10 + spell level x 1.5).
+- Magic traps permit a saving throw in order to avoid the effect (DC 10 + spell level x 1.5).
 
-  - Magic traps may be disarmed by a character with [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] with a successful [[rangoric-srd/skills/Engineering|Engineering]] check (DC 25 + spell level).
+- Magic traps may be disarmed by a character with [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] with a successful [[rangoric-srd/skills/Engineering|Engineering]] check (DC 25 + spell level).
 
 ##### Elements of a Trap
 
@@ -61,10 +61,10 @@ Some magic device traps have special proximity triggers that activate only when 
 **Visual**: This trigger for magic traps works like an actual eye, springing the trap whenever it “sees” something. A trap with a visual trigger requires the casting of arcane eye, clairvoyance, or true seeing during its construction. Sight range and the [[rangoric-srd/skills/Perception|Perception]] bonus conferred on the trap depend on the spell chosen, as shown.
 
 | Spell        | Sight Range                     | Perception Bonus |
-| ------------ | ------------------------------- | ---------- |
-| arcane eye   | Line of sight (unlimited range) | +20       |
-| clairvoyance | One preselected location        | +15       |
-| true seeing  | Line of sight (up to 120 ft.)   | +30       |
+| ------------ | ------------------------------- | ---------------- |
+| arcane eye   | Line of sight (unlimited range) | +20              |
+| clairvoyance | One preselected location        | +15              |
+| true seeing  | Line of sight (up to 120 ft.)   | +30              |
 
 If you want the trap to “see” in the dark, you must either choose the true seeing option or add darkvision to the trap as well. (Darkvision limits the trap’s sight range in the dark to 60 feet.) If invisibility, disguises, or illusions can fool the spell being used, they can fool the visual trigger as well.
 
@@ -520,67 +520,67 @@ For a magic trap, only one modifier applies to the CR—either the level of the 
 
 **Multiple Traps**: If a trap is really two or more connected traps that affect approximately the same area, determine the CR of each one separately.
 
-*Multiple Dependent Traps*: If one trap depends on the success of the other (that is, you can avoid the second trap altogether by not falling victim to the first), they must be treated as separate traps.
+_Multiple Dependent Traps_: If one trap depends on the success of the other (that is, you can avoid the second trap altogether by not falling victim to the first), they must be treated as separate traps.
 
-*Multiple Independent Traps*: If two or more traps act independently (that is, none depends on the success of another to activate), use their CRs to determine their combined Encounter Level as though they were monsters. The resulting Encounter Level is the CR for the combined traps.
+_Multiple Independent Traps_: If two or more traps act independently (that is, none depends on the success of another to activate), use their CRs to determine their combined Encounter Level as though they were monsters. The resulting Encounter Level is the CR for the combined traps.
 
 **Table: CR MODIFIERS FOR MECHANICAL TRAPS**
 
-| Feature                                                       | Feature | CR Modifier              | CR Modifier |
-| ------------------------------------------------------------- | ------- | ------------------------ | ----------- |
-| *[[rangoric-srd/skills/Investigation\|Investigation]] DC*                 |         |                          |             |
-| 15 or lower                                                   |         | –1                       |             |
-| 25–29                                                         |         | +1                      |             |
-| 30 or higher                                                  |         | +2                      |             |
-| *[[rangoric-srd/skills/Engineering\|Engineering]] DC* |         |                          |             |
-| 15 or lower                                                   |         | –1                       |             |
-| 25–29                                                         |         | +1                      |             |
-| 30 or higher                                                  |         | +2                      |             |
-| *Reflex Save DC (Pit or Other Save-Dependent Trap)*           |         |                          |             |
-| 15 or lower                                                   |         | –1                       |             |
-| 16–24                                                         |         | —                        |             |
-| 25–29                                                         |         | +1                      |             |
-| 30 or higher                                                  |         | +2                      |             |
-| *Attack Bonus (Melee or Ranged Attack Trap)*                  |         |                          |             |
-| +0 or lower                                                  |         | –2                       |             |
-| +1 to +5                                                     |         | –1                       |             |
-| +6 to +14                                                    |         | —                        |             |
-| +15 to +19                                                   |         | +1                      |             |
-| +20 to +24                                                   |         | +2                      |             |
-| *Damage/Effect*                                               |         |                          |             |
-| Average damage                                                |         | +1/7 points\*           |             |
-| *Miscellaneous Features*                                      |         |                          |             |
-| Alchemical device                                             |         | Level of spell mimicked  |             |
-| Liquid                                                        |         | +5                      |             |
-| Multiple target                                               |         | +1 (or 0 if never miss) |             |
-| Onset delay 1 round                                           |         | +3                      |             |
-| Onset delay 2 rounds                                          |         | +2                      |             |
-| Onset delay 3 rounds                                          |         | +1                      |             |
-| Onset delay 4+ rounds                                         |         | –1                       |             |
-| Poison                                                        |         | CR of poison (see below) |             |
-| Black adder venom                                             | +1     | Large scorpion venom     | +3         |
-| Black lotus extract                                           | +8     | Malyss root paste        | +3         |
-| Bloodroot                                                     | +1     | Medium spider venom      | +2         |
-| Blue whinnis                                                  | +1     | Nitharit                 | +4         |
-| Burnt othur fumes                                             | +6     | Purple worm poison       | +4         |
-| Deathblade                                                    | +5     | Sassone leaf residue     | +3         |
-| Dragon bile                                                   | +6     | Shadow essence           | +3         |
-| Giant wasp poison                                             | +3     | Small centipede poison   | +1         |
-| Greenblood oil                                                | +1     | Terinav root             | +5         |
-| Insanity mist                                                 | +4     | Ungol dust               | +3         |
-| Wyvern poison                                                 | +5     |                          |             |
-| Pit spikes                                                    |         | +1                      |             |
-| Touch attack                                                  |         | +1                      |             |
+| Feature                                                   | Feature | CR Modifier              | CR Modifier |
+| --------------------------------------------------------- | ------- | ------------------------ | ----------- |
+| _[[rangoric-srd/skills/Investigation\|Investigation]] DC_ |         |                          |             |
+| 15 or lower                                               |         | –1                       |             |
+| 25–29                                                     |         | +1                       |             |
+| 30 or higher                                              |         | +2                       |             |
+| _[[rangoric-srd/skills/Engineering\|Engineering]] DC_     |         |                          |             |
+| 15 or lower                                               |         | –1                       |             |
+| 25–29                                                     |         | +1                       |             |
+| 30 or higher                                              |         | +2                       |             |
+| _Reflex Save DC (Pit or Other Save-Dependent Trap)_       |         |                          |             |
+| 15 or lower                                               |         | –1                       |             |
+| 16–24                                                     |         | —                        |             |
+| 25–29                                                     |         | +1                       |             |
+| 30 or higher                                              |         | +2                       |             |
+| _Attack Bonus (Melee or Ranged Attack Trap)_              |         |                          |             |
+| +0 or lower                                               |         | –2                       |             |
+| +1 to +5                                                  |         | –1                       |             |
+| +6 to +14                                                 |         | —                        |             |
+| +15 to +19                                                |         | +1                       |             |
+| +20 to +24                                                |         | +2                       |             |
+| _Damage/Effect_                                           |         |                          |             |
+| Average damage                                            |         | +1/7 points\*            |             |
+| _Miscellaneous Features_                                  |         |                          |             |
+| Alchemical device                                         |         | Level of spell mimicked  |             |
+| Liquid                                                    |         | +5                       |             |
+| Multiple target                                           |         | +1 (or 0 if never miss)  |             |
+| Onset delay 1 round                                       |         | +3                       |             |
+| Onset delay 2 rounds                                      |         | +2                       |             |
+| Onset delay 3 rounds                                      |         | +1                       |             |
+| Onset delay 4+ rounds                                     |         | –1                       |             |
+| Poison                                                    |         | CR of poison (see below) |             |
+| Black adder venom                                         | +1      | Large scorpion venom     | +3          |
+| Black lotus extract                                       | +8      | Malyss root paste        | +3          |
+| Bloodroot                                                 | +1      | Medium spider venom      | +2          |
+| Blue whinnis                                              | +1      | Nitharit                 | +4          |
+| Burnt othur fumes                                         | +6      | Purple worm poison       | +4          |
+| Deathblade                                                | +5      | Sassone leaf residue     | +3          |
+| Dragon bile                                               | +6      | Shadow essence           | +3          |
+| Giant wasp poison                                         | +3      | Small centipede poison   | +1          |
+| Greenblood oil                                            | +1      | Terinav root             | +5          |
+| Insanity mist                                             | +4      | Ungol dust               | +3          |
+| Wyvern poison                                             | +5      |                          |             |
+| Pit spikes                                                |         | +1                       |             |
+| Touch attack                                              |         | +1                       |             |
 
-\* *Rounded to the nearest multiple of 7 (round up for an average that lies exactly between two numbers).*
+\* _Rounded to the nearest multiple of 7 (round up for an average that lies exactly between two numbers)._
 
 **Table: CR MODIFIERS FOR MAGIC TRAPS**
 
-| Feature             | CR Modifier                                                     |
-| ------------------- | --------------------------------------------------------------- |
+| Feature             | CR Modifier                                                    |
+| ------------------- | -------------------------------------------------------------- |
 | Highest-level spell | + Spell level OR +1 per 7 points of average damage per round\* |
 
-\* *See the note following Table: CR Modifiers for Mechanical Traps.*
+\* _See the note following Table: CR Modifiers for Mechanical Traps._
 
 ###### Mechanical Trap Cost
 
@@ -594,48 +594,48 @@ After you’ve multiplied the modified base cost by the Challenge Rating, add th
 
 **Table: COST MODIFIERS FOR MECHANICAL TRAPS**
 
-| Feature                                                       | Cost Modifier                                                   |
-| ------------------------------------------------------------- | --------------------------------------------------------------- |
-| *Trigger Type*                                                |                                                                 |
-| Location                                                      | —                                                               |
-| Proximity                                                     | +1,000 gp                                                      |
-| Touch                                                         | —                                                               |
-| Touch (attached)                                              | –100 gp                                                         |
-| Timed                                                         | +1,000 gp                                                      |
-| *Reset Type*                                                  |                                                                 |
-| No reset                                                      | –500 gp                                                         |
-| Repair                                                        | –200 gp                                                         |
-| Manual                                                        | —                                                               |
-| Automatic                                                     | +500 gp (or 0 if trap has timed trigger)                       |
-| *Bypass Type*                                                 |                                                                 |
-| Lock                                                          | +100 gp ([[rangoric-srd/skills/Sleight of Hand\|Sleight of Hand]] DC 30) |
-| Hidden switch                                                 | +200 gp (Investigation DC 25)                                         |
-| Hidden lock                                                   | +300 gp (Sleight of Hand DC 30, Investigation DC 25)                        |
-| *[[rangoric-srd/skills/Investigation\|Investigation]] DC*                 |                                                                 |
-| 19 or lower                                                   | –100 gp x (20 – DC)                                             |
-| 20                                                            | —                                                               |
-| 21 or higher                                                  | +200 gp x (DC – 20)                                            |
-| *[[rangoric-srd/skills/Engineering\|Engineering]] DC* |                                                                 |
-| 19 or lower                                                   | –100 gp x (20 – DC)                                             |
-| 20                                                            | —                                                               |
-| 21 or higher                                                  | +200 gp x (DC – 20)                                            |
-| *Reflex Save DC (Pit or Other Save-Dependent Trap)*           |                                                                 |
-| 19 or lower                                                   | –100 gp x (20 – DC)                                             |
-| 20                                                            | —                                                               |
-| 21 or higher                                                  | +300 gp x (DC – 20)                                            |
-| *Attack Bonus (Melee or Ranged Attack Trap)*                  |                                                                 |
-| +9 or lower                                                  | –100 gp x (10 – bonus)                                          |
-| +10                                                          | —                                                               |
-| +11 or higher                                                | +200 gp x (bonus – 10)                                         |
-| *Damage Bonus*                                                |                                                                 |
-| High strength rating (ranged attack trap)                     | +100 gp x bonus (max +4)                                       |
-| High Strength bonus (melee attack trap)                       | +100 gp x bonus (max +8)                                       |
-| *Miscellaneous Features*                                      |                                                                 |
-| Never miss                                                    | +1,000 gp                                                      |
-| Poison                                                        | Cost of poison\*                                                |
-| Alchemical item                                               | Cost of item\*                                                  |
+| Feature                                                   | Cost Modifier                                                            |
+| --------------------------------------------------------- | ------------------------------------------------------------------------ |
+| _Trigger Type_                                            |                                                                          |
+| Location                                                  | —                                                                        |
+| Proximity                                                 | +1,000 gp                                                                |
+| Touch                                                     | —                                                                        |
+| Touch (attached)                                          | –100 gp                                                                  |
+| Timed                                                     | +1,000 gp                                                                |
+| _Reset Type_                                              |                                                                          |
+| No reset                                                  | –500 gp                                                                  |
+| Repair                                                    | –200 gp                                                                  |
+| Manual                                                    | —                                                                        |
+| Automatic                                                 | +500 gp (or 0 if trap has timed trigger)                                 |
+| _Bypass Type_                                             |                                                                          |
+| Lock                                                      | +100 gp ([[rangoric-srd/skills/Sleight of Hand\|Sleight of Hand]] DC 30) |
+| Hidden switch                                             | +200 gp (Investigation DC 25)                                            |
+| Hidden lock                                               | +300 gp (Sleight of Hand DC 30, Investigation DC 25)                     |
+| _[[rangoric-srd/skills/Investigation\|Investigation]] DC_ |                                                                          |
+| 19 or lower                                               | –100 gp x (20 – DC)                                                      |
+| 20                                                        | —                                                                        |
+| 21 or higher                                              | +200 gp x (DC – 20)                                                      |
+| _[[rangoric-srd/skills/Engineering\|Engineering]] DC_     |                                                                          |
+| 19 or lower                                               | –100 gp x (20 – DC)                                                      |
+| 20                                                        | —                                                                        |
+| 21 or higher                                              | +200 gp x (DC – 20)                                                      |
+| _Reflex Save DC (Pit or Other Save-Dependent Trap)_       |                                                                          |
+| 19 or lower                                               | –100 gp x (20 – DC)                                                      |
+| 20                                                        | —                                                                        |
+| 21 or higher                                              | +300 gp x (DC – 20)                                                      |
+| _Attack Bonus (Melee or Ranged Attack Trap)_              |                                                                          |
+| +9 or lower                                               | –100 gp x (10 – bonus)                                                   |
+| +10                                                       | —                                                                        |
+| +11 or higher                                             | +200 gp x (bonus – 10)                                                   |
+| _Damage Bonus_                                            |                                                                          |
+| High strength rating (ranged attack trap)                 | +100 gp x bonus (max +4)                                                 |
+| High Strength bonus (melee attack trap)                   | +100 gp x bonus (max +8)                                                 |
+| _Miscellaneous Features_                                  |                                                                          |
+| Never miss                                                | +1,000 gp                                                                |
+| Poison                                                    | Cost of poison\*                                                         |
+| Alchemical item                                           | Cost of item\*                                                           |
 
-\* *Multiply cost by 20 if trap features automatic reset.*
+\* _Multiply cost by 20 if trap features automatic reset._
 
 ###### Magic Device Trap Cost
 
@@ -647,14 +647,14 @@ A magic device trap takes one day to construct per 500 gp of its cost.
 
 **Table: COST MODIFIERS FOR MAGIC DEVICE TRAPS**
 
-| Feature                     | Cost Modifier                                                              |
-| --------------------------- | -------------------------------------------------------------------------- |
-| Alarm spell used in trigger | —                                                                          |
-| *One-Shot Trap*             |                                                                            |
+| Feature                     | Cost Modifier                                                             |
+| --------------------------- | ------------------------------------------------------------------------- |
+| Alarm spell used in trigger | —                                                                         |
+| _One-Shot Trap_             |                                                                           |
 | Each spell used in trap     | +50 gp x caster level x spell level, +4 XP x caster level x spell level   |
 | Material components         | + Cost of all material components                                         |
 | XP components               | + Total of XP components x 5 gp                                           |
-| *Automatic Reset Trap*      |                                                                            |
+| _Automatic Reset Trap_      |                                                                           |
 | Each spell used in trap     | +500 gp x caster level x spell level, +40 XP x caster level x spell level |
 | Material components         | + Cost of all material components x 100 gp                                |
 | XP components               | + Total of XP components x 500 gp                                         |
@@ -675,7 +675,7 @@ Once you know the Challenge Rating of a trap determine the [[rangoric-srd/skills
 
 | Additional Components | Modifier to Craft (Trapmaking) DC |
 | --------------------- | --------------------------------- |
-| Proximity trigger     | +5                               |
-| Automatic reset       | +5                               |
+| Proximity trigger     | +5                                |
+| Automatic reset       | +5                                |
 
 **Making the Checks**: To determine how much progress a character makes on building a trap each week, that character makes a Craft (trapmaking) check. See the Craft skill description for details on Craft checks and the circumstances that can affect them.

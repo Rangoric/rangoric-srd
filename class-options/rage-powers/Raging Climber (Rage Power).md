@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Raging Climber
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 When raging, the barbarian adds her level as an enhancement bonus on all [[rangoric-srd/skills/Athletics|Athletics]] checks to climb.

@@ -44,53 +44,53 @@ The inquisitor’s class skills (and the key ability for each skill) are [[rango
 
 **Table: The Inquisitor** ^table-the-inquisitor
 
-| Level | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | Domain, judgment 1/day, monster lore, orisons, stern gaze | 1 | — | — | — | — | — |
-| 2nd | Cunning initiative, *detect alignment*, track | 2 | — | — | — | — | — |
-| 3rd | Solo tactics, teamwork feat | 3 | — | — | — | — | — |
-| 4th | Judgment 2/day | 3 | 1 | — | — | — | — |
-| 5th | Bane, *discern lies* | 4 | 2 | — | — | — | — |
-| 6th | Teamwork feat | 4 | 3 | — | — | — | — |
-| 7th | Judgment 3/day | 4 | 3 | 1 | — | — | — |
-| 8th | Second judgment | 4 | 4 | 2 | — | — | — |
-| 9th | Teamwork feat | 5 | 4 | 3 | — | — | — |
-| 10th | Judgment 4/day | 5 | 4 | 3 | 1 | — | — |
-| 11th | Stalwart | 5 | 4 | 4 | 2 | — | — |
-| 12th | Greater bane, teamwork feat | 5 | 5 | 4 | 3 | — | — |
-| 13th | Judgment 5/day | 5 | 5 | 4 | 3 | 1 | — |
-| 14th | Exploit weakness | 5 | 5 | 4 | 4 | 2 | — |
-| 15th | Teamwork feat | 5 | 5 | 5 | 4 | 3 | — |
-| 16th | Judgment 6/day, third judgment | 5 | 5 | 5 | 4 | 3 | 1 |
-| 17th | Slayer | 5 | 5 | 5 | 4 | 4 | 2 |
-| 18th | Teamwork feat | 5 | 5 | 5 | 5 | 4 | 3 |
-| 19th | Judgment 7/day | 5 | 5 | 5 | 5 | 5 | 4 |
-| 20th | True judgment | 5 | 5 | 5 | 5 | 5 | 5 |
+| Level | Special                                                   | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
+| ----- | --------------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| 1st   | Domain, judgment 1/day, monster lore, orisons, stern gaze | 1                   | —                   | —                   | —                   | —                   | —                   |
+| 2nd   | Cunning initiative, _detect alignment_, track             | 2                   | —                   | —                   | —                   | —                   | —                   |
+| 3rd   | Solo tactics, teamwork feat                               | 3                   | —                   | —                   | —                   | —                   | —                   |
+| 4th   | Judgment 2/day                                            | 3                   | 1                   | —                   | —                   | —                   | —                   |
+| 5th   | Bane, _discern lies_                                      | 4                   | 2                   | —                   | —                   | —                   | —                   |
+| 6th   | Teamwork feat                                             | 4                   | 3                   | —                   | —                   | —                   | —                   |
+| 7th   | Judgment 3/day                                            | 4                   | 3                   | 1                   | —                   | —                   | —                   |
+| 8th   | Second judgment                                           | 4                   | 4                   | 2                   | —                   | —                   | —                   |
+| 9th   | Teamwork feat                                             | 5                   | 4                   | 3                   | —                   | —                   | —                   |
+| 10th  | Judgment 4/day                                            | 5                   | 4                   | 3                   | 1                   | —                   | —                   |
+| 11th  | Stalwart                                                  | 5                   | 4                   | 4                   | 2                   | —                   | —                   |
+| 12th  | Greater bane, teamwork feat                               | 5                   | 5                   | 4                   | 3                   | —                   | —                   |
+| 13th  | Judgment 5/day                                            | 5                   | 5                   | 4                   | 3                   | 1                   | —                   |
+| 14th  | Exploit weakness                                          | 5                   | 5                   | 4                   | 4                   | 2                   | —                   |
+| 15th  | Teamwork feat                                             | 5                   | 5                   | 5                   | 4                   | 3                   | —                   |
+| 16th  | Judgment 6/day, third judgment                            | 5                   | 5                   | 5                   | 4                   | 3                   | 1                   |
+| 17th  | Slayer                                                    | 5                   | 5                   | 5                   | 4                   | 4                   | 2                   |
+| 18th  | Teamwork feat                                             | 5                   | 5                   | 5                   | 5                   | 4                   | 3                   |
+| 19th  | Judgment 7/day                                            | 5                   | 5                   | 5                   | 5                   | 5                   | 4                   |
+| 20th  | True judgment                                             | 5                   | 5                   | 5                   | 5                   | 5                   | 5                   |
 
 **Table: Inquisitor Spells Known** ^table-inquisitor-spells-known
 
 | Level | Spells Known: 0 | Spells Known: 1st | Spells Known: 2nd | Spells Known: 3rd | Spells Known: 4th | Spells Known: 5th | Spells Known: 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | 4 | 2 | — | — | — | — | — |
-| 2nd | 5 | 3 | — | — | — | — | — |
-| 3rd | 6 | 4 | — | — | — | — | — |
-| 4th | 6 | 4 | 2 | — | — | — | — |
-| 5th | 6 | 4 | 3 | — | — | — | — |
-| 6th | 6 | 4 | 4 | — | — | — | — |
-| 7th | 6 | 5 | 4 | 2 | — | — | — |
-| 8th | 6 | 5 | 4 | 3 | — | — | — |
-| 9th | 6 | 5 | 4 | 4 | — | — | — |
-| 10th | 6 | 5 | 5 | 4 | 2 | — | — |
-| 11th | 6 | 6 | 5 | 4 | 3 | — | — |
-| 12th | 6 | 6 | 5 | 4 | 4 | — | — |
-| 13th | 6 | 6 | 5 | 5 | 4 | 2 | — |
-| 14th | 6 | 6 | 6 | 5 | 4 | 3 | — |
-| 15th | 6 | 6 | 6 | 5 | 4 | 4 | — |
-| 16th | 6 | 6 | 6 | 5 | 5 | 4 | 2 |
-| 17th | 6 | 6 | 6 | 6 | 5 | 4 | 3 |
-| 18th | 6 | 6 | 6 | 6 | 5 | 4 | 4 |
-| 19th | 6 | 6 | 6 | 6 | 5 | 5 | 4 |
-| 20th | 6 | 6 | 6 | 6 | 6 | 5 | 5 |
+| ----- | --------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
+| 1st   | 4               | 2                 | —                 | —                 | —                 | —                 | —                 |
+| 2nd   | 5               | 3                 | —                 | —                 | —                 | —                 | —                 |
+| 3rd   | 6               | 4                 | —                 | —                 | —                 | —                 | —                 |
+| 4th   | 6               | 4                 | 2                 | —                 | —                 | —                 | —                 |
+| 5th   | 6               | 4                 | 3                 | —                 | —                 | —                 | —                 |
+| 6th   | 6               | 4                 | 4                 | —                 | —                 | —                 | —                 |
+| 7th   | 6               | 5                 | 4                 | 2                 | —                 | —                 | —                 |
+| 8th   | 6               | 5                 | 4                 | 3                 | —                 | —                 | —                 |
+| 9th   | 6               | 5                 | 4                 | 4                 | —                 | —                 | —                 |
+| 10th  | 6               | 5                 | 5                 | 4                 | 2                 | —                 | —                 |
+| 11th  | 6               | 6                 | 5                 | 4                 | 3                 | —                 | —                 |
+| 12th  | 6               | 6                 | 5                 | 4                 | 4                 | —                 | —                 |
+| 13th  | 6               | 6                 | 5                 | 5                 | 4                 | 2                 | —                 |
+| 14th  | 6               | 6                 | 6                 | 5                 | 4                 | 3                 | —                 |
+| 15th  | 6               | 6                 | 6                 | 5                 | 4                 | 4                 | —                 |
+| 16th  | 6               | 6                 | 6                 | 5                 | 5                 | 4                 | 2                 |
+| 17th  | 6               | 6                 | 6                 | 6                 | 5                 | 4                 | 3                 |
+| 18th  | 6               | 6                 | 6                 | 6                 | 5                 | 4                 | 4                 |
+| 19th  | 6               | 6                 | 6                 | 6                 | 5                 | 5                 | 4                 |
+| 20th  | 6               | 6                 | 6                 | 6                 | 6                 | 5                 | 5                 |
 
 ###### Class Features
 
@@ -144,7 +144,7 @@ When the inquisitor uses this ability, she must select one type of judgment to m
 
 **Cunning Initiative (Ex)**: At 2nd level, an inquisitor adds her Wisdom modifier on initiative checks, in addition to her Dexterity modifier. ^inquisitor-cunning-initiative
 
-**Detect Alignment (Sp)**: At will, an inquisitor can use *[[rangoric-srd/spells/Detect Chaos|detect chaos]]*, *[[rangoric-srd/spells/Detect Evil|detect evil]]*, *[[rangoric-srd/spells/Detect Good|detect good]]*, or *[[rangoric-srd/spells/Detect Law|detect law]]*. She can only use one of these at any given time. ^inquisitor-detect-alignment
+**Detect Alignment (Sp)**: At will, an inquisitor can use _[[rangoric-srd/spells/Detect Chaos|detect chaos]]_, _[[rangoric-srd/spells/Detect Evil|detect evil]]_, _[[rangoric-srd/spells/Detect Good|detect good]]_, or _[[rangoric-srd/spells/Detect Law|detect law]]_. She can only use one of these at any given time. ^inquisitor-detect-alignment
 
 **Track (Ex)**: At 2nd level, an inquisitor gains [[rangoric-srd/feats/Track|Track]] as a bonus feat, and adds half her level on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks made to follow or identify tracks. ^inquisitor-track
 
@@ -154,9 +154,9 @@ When the inquisitor uses this ability, she must select one type of judgment to m
 
 As a standard action, the inquisitor can choose to learn a new bonus teamwork feat in place of the most recent bonus teamwork feat she has already learned. In effect, the inquisitor loses the bonus feat in exchange for the new one. She can only change the most recent teamwork feat gained. Whenever she gains a new teamwork feat, the previous teamwork feat becomes set and cannot be changed again. An inquisitor can change her most recent teamwork feat a number of times per day equal to her Wisdom modifier.
 
-**Bane (Su)**: At 5th level, an inquisitor can imbue one of her weapons with the *[[rangoric-srd/magic-items/weapon-abilities/Bane (Weapon Special Ability)|bane]]* weapon special ability as a swift action. She must select one creature type when she uses this ability (and a subtype if the creature type selected is humanoid or outsider). Once selected, the type can be changed as a swift action. This ability only functions while the inquisitor wields the weapon. If dropped or taken, the weapon resumes granting this ability if it is returned to the inquisitor before the duration expires. This ability lasts for a number of rounds per day equal to the inquisitor’s level. These rounds do not need to be consecutive. ^inquisitor-bane
+**Bane (Su)**: At 5th level, an inquisitor can imbue one of her weapons with the _[[rangoric-srd/magic-items/weapon-abilities/Bane (Weapon Special Ability)|bane]]_ weapon special ability as a swift action. She must select one creature type when she uses this ability (and a subtype if the creature type selected is humanoid or outsider). Once selected, the type can be changed as a swift action. This ability only functions while the inquisitor wields the weapon. If dropped or taken, the weapon resumes granting this ability if it is returned to the inquisitor before the duration expires. This ability lasts for a number of rounds per day equal to the inquisitor’s level. These rounds do not need to be consecutive. ^inquisitor-bane
 
-**Discern Lies (Sp)**: At 5th level, an inquisitor can *[[rangoric-srd/spells/Discern Lies|discern lies]]*, as per the spell, for a number of rounds per day equal to her inquisitor level. These rounds do not need to be consecutive. Activating this ability is an immediate action. ^inquisitor-discern-lies
+**Discern Lies (Sp)**: At 5th level, an inquisitor can _[[rangoric-srd/spells/Discern Lies|discern lies]]_, as per the spell, for a number of rounds per day equal to her inquisitor level. These rounds do not need to be consecutive. Activating this ability is an immediate action. ^inquisitor-discern-lies
 
 **Second Judgment (Ex)**: At 8th level, whenever an inquisitor uses her judgment ability, she selects two different judgments, instead of one. This only consumes one use of her judgment ability. As a swift action, she can change one of these judgments to another type. ^inquisitor-second-judgment
 
@@ -182,4 +182,4 @@ As a standard action, the inquisitor can choose to learn a new bonus teamwork fe
 
 ![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Inquisitor]]
 
-**Ex-Inquisitors**: An inquisitor who slips into corruption or changes to a prohibited alignment loses all spells and the judgment ability. She cannot thereafter gain levels as an inquisitor until she atones (see the *[[rangoric-srd/spells/Atonement|atonement]]* spell description). ^inquisitor-ex-inquisitors
+**Ex-Inquisitors**: An inquisitor who slips into corruption or changes to a prohibited alignment loses all spells and the judgment ability. She cannot thereafter gain levels as an inquisitor until she atones (see the _[[rangoric-srd/spells/Atonement|atonement]]_ spell description). ^inquisitor-ex-inquisitors

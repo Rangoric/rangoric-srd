@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This belt is made of specially treated stone plates held together by thick iron chain. Every 24 hours, this belt's wearer gains [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|DR]] 10/adamantine until the belt absorbs 100 points of damage, at which point the belt becomes useless for the remainder of the 24-hour period. When first worn, or after each time this belt is taken off, it must be worn for 24 consecutive hours in order for its magic to take effect again.
 
-Moderate abjuration; CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Stoneskin|stoneskin]]*, creator must be an [[rangoric-srd/races/Oread|oread]] or a creature with the earth subtype; Price 60,000 gp; Cost 30,000 gp; Weight 10 lbs.
+Moderate abjuration; CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Stoneskin|stoneskin]]_, creator must be an [[rangoric-srd/races/Oread|oread]] or a creature with the earth subtype; Price 60,000 gp; Cost 30,000 gp; Weight 10 lbs.

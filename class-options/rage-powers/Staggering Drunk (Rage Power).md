@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Staggering Drunk
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 While raging, a barbarian gains a +1 dodge bonus to AC against attacks of opportunity for each alcoholic drink she has consumed during her rage, to a maximum of +1 per four barbarian levels.

@@ -19,19 +19,19 @@ You have trained your mind to gain mastery over your body and the mind’s own d
 
 Check: The DC and the effect of a successful check depend on the task you attempt.
 
-| Task                 | DC             |
-| -------------------- | -------------- |
-| Act While Dying | 30 |
-| Damage Reduction | 60 |
-| Ignore caltrop wound | 18             |
-| Ignore Poison Damage | Poison’s DC + 5 |
-| Memorize             | 15             |
-| Resist dying         | 20             |
-| Resist fear          | Fear effect DC |
-| Resist Mind-Affecting Effect | 50 |
-| Temporary Hit Points | 60 |
-| Tolerate poison      | Poison’s DC    |
-| Willpower            | 20             |
+| Task                         | DC              |
+| ---------------------------- | --------------- |
+| Act While Dying              | 30              |
+| Damage Reduction             | 60              |
+| Ignore caltrop wound         | 18              |
+| Ignore Poison Damage         | Poison’s DC + 5 |
+| Memorize                     | 15              |
+| Resist dying                 | 20              |
+| Resist fear                  | Fear effect DC  |
+| Resist Mind-Affecting Effect | 50              |
+| Temporary Hit Points         | 60              |
+| Tolerate poison              | Poison’s DC     |
+| Willpower                    | 20              |
 
 Ignore Caltrop Wound: If you are wounded by stepping on a caltrop, your speed is reduced to one-half normal. A successful Meditation check removes this movement penalty. The wound doesn’t go away - it is just ignored through self-persuasion.
 

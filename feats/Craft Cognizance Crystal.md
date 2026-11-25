@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, item-creation]
 
 # Craft Cognizance Crystal
 
-You can create psionic cognizance crystals that store power points.  
+You can create psionic cognizance crystals that store power points.
 
 Prerequisite: Manifester level 3rd.
 

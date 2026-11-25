@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Half-Blood Extraction
 
-*Transmutation (Polymorph)*
+_Transmutation (Polymorph)_
 
-  - **Level**: Alc 5, Clr 5, Drd 5, Hun 5, Psy 5, Sor/Wiz 5, Wit 5
-  - **Components**: V, S, M/DF (oils and poisons worth 3,000 gp)
-  - **Casting Time**: 1 hour
-  - **Range**: Touch
-  - **Target**: Willing half-orc touched
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Alc 5, Clr 5, Drd 5, Hun 5, Psy 5, Sor/Wiz 5, Wit 5
+- **Components**: V, S, M/DF (oils and poisons worth 3,000 gp)
+- **Casting Time**: 1 hour
+- **Range**: Touch
+- **Target**: Willing half-orc touched
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You transform the target half-orc into a full-blooded orc. The target loses all of its half-orc racial traits and gains the orc racial traits.

@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Undead Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Death Domain|Death]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Death Domain|Death]] domain._
 
 ## Replacement Power
 
@@ -27,8 +27,8 @@ This power replaces the [[rangoric-srd/class-options/domains/Death Domain#Grante
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 2nd | [[rangoric-srd/spells/Ghoul Touch\|Ghoul Touch]] (M) | Paralyzes one subject, which exudes stench that makes those nearby sickened. |
-| 4th | [[rangoric-srd/spells/Enervation\|Enervation]] | Subject gains 1d4 negative levels. |
-| 9th | [[rangoric-srd/spells/Energy Drain\|Energy Drain]] | Subject gains 2d4 negative levels. |
+| Level | Spell                                                | Brief Description                                                            |
+| ----- | ---------------------------------------------------- | ---------------------------------------------------------------------------- |
+| 2nd   | [[rangoric-srd/spells/Ghoul Touch\|Ghoul Touch]] (M) | Paralyzes one subject, which exudes stench that makes those nearby sickened. |
+| 4th   | [[rangoric-srd/spells/Enervation\|Enervation]]       | Subject gains 1d4 negative levels.                                           |
+| 9th   | [[rangoric-srd/spells/Energy Drain\|Energy Drain]]   | Subject gains 2d4 negative levels.                                           |

@@ -12,7 +12,7 @@ tags: [rangoric, rangoric/flavor, flavor]
 
 # Use of the Word Faerie
 
-There are numerous spellings—too many to list here— for the creatures, magic, and homelands of the creatures discussed here. Instead of confusing the issue, these notes use *fey* when referring to the creatures and all things related to them.
+There are numerous spellings—too many to list here— for the creatures, magic, and homelands of the creatures discussed here. Instead of confusing the issue, these notes use _fey_ when referring to the creatures and all things related to them.
 
 What are fey? As the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|fey type]] puts it, “a fey is a creature with supernatural abilities and connections to nature or to some other force or place.” The official creature type name “fey” is used when referring to faerie character races as well as creatures. The term fae is used to refer to objects or concepts native to FaerieLand.
 

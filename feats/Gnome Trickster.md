@@ -17,4 +17,4 @@ Your arcane talents go beyond the illusory.
 
 **Prerequisites**: Cha 13, [[rangoric-srd/races/Gnome|gnome]], [[rangoric-srd/races/Gnome|gnome magic]] racial trait.
 
-**Benefit**: In addition to your normal [[rangoric-srd/races/Gnome|gnome magic]] spell-like abilities, you also gain the following spell-like abilities: 1/day—*[[rangoric-srd/spells/Mage Hand|mage hand]]* and *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]*.
+**Benefit**: In addition to your normal [[rangoric-srd/races/Gnome|gnome magic]] spell-like abilities, you also gain the following spell-like abilities: 1/day—_[[rangoric-srd/spells/Mage Hand|mage hand]]_ and _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_.

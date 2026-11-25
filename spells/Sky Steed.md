@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Sky Steed
 
-*Transmutation (Polymorph)*
+_Transmutation (Polymorph)_
 
-  - **Level**: Pal 3
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: A creature you are mounted upon
-  - **Duration**: Caster level minute(s)
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Pal 3
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: A creature you are mounted upon
+- **Duration**: Caster level minute(s)
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 The target sprouts angelic wings and gains a fly speed equal to its base speed with average maneuverability. It also gains a bonus on Acrobatics checks equal to your caster level.

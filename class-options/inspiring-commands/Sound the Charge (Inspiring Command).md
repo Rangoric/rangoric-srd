@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Sound the Charge
 
-*A [[rangoric-srd/prestige-classes/Battle Herald#^battle-herald-inspiring-command|battle herald inspiring command]] (Ex).*
+_A [[rangoric-srd/prestige-classes/Battle Herald#^battle-herald-inspiring-command|battle herald inspiring command]] (Ex)._
 
 Allies apply the battle herald's inspiring command bonus to attack and damage rolls. [[rangoric-srd/combat/Combat Special Attacks#Charge|Charging]] allies increase their speed by 5 feet times the battle herald's inspiring command bonus.

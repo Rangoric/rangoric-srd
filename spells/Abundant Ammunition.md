@@ -32,14 +32,14 @@ tags: [rangoric, rangoric/spell]
 
 # Abundant Ammunition
 
-*Conjuration (Summoning)*
+_Conjuration (Summoning)_
 
-  - **Level**: Brd 1, Clr 1, Hun 1, Psy 1, Rgr 1, Skd 1, Sor/Wiz 1
-  - **Components**: V, S, M/DF (a single piece of ammunition)
-  - **Casting Time**: 1 standard action
-  - **Target**: One container touched
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Brd 1, Clr 1, Hun 1, Psy 1, Rgr 1, Skd 1, Sor/Wiz 1
+- **Components**: V, S, M/DF (a single piece of ammunition)
+- **Casting Time**: 1 standard action
+- **Target**: One container touched
+- **Duration**: 1 minute/level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-When cast on a container such as a quiver or a pouch that contains nonmagical ammunition or shuriken (including masterwork ammunition or shuriken), at the start of each round this spell replaces any ammunition taken from the container the round before. The ammunition taken from the container the round before vanishes. If, after casting this spell, you cast a spell that enhances projectiles, such as *[[rangoric-srd/spells/Align Weapon|align weapon]]* or *[[rangoric-srd/spells/Magic Weapon, Greater|greater magic weapon]]*, on the same container, all projectiles this spell conjures are affected by that spell.
+When cast on a container such as a quiver or a pouch that contains nonmagical ammunition or shuriken (including masterwork ammunition or shuriken), at the start of each round this spell replaces any ammunition taken from the container the round before. The ammunition taken from the container the round before vanishes. If, after casting this spell, you cast a spell that enhances projectiles, such as _[[rangoric-srd/spells/Align Weapon|align weapon]]_ or _[[rangoric-srd/spells/Magic Weapon, Greater|greater magic weapon]]_, on the same container, all projectiles this spell conjures are affected by that spell.

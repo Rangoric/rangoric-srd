@@ -37,33 +37,34 @@ change: modified
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---
+
 # Snake, Tiny Viper
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 1d8–1 (3 hp)
-  - **Initiative**: +3
-  - **Speed**: 20 ft. (4 squares), climb 20 ft., swim 20 ft.
-  - **Armor Class**: 16 (+3 Dex, +1 natural, +2 size), touch 15, flat-footed 13
-  - **Base Attack**: +0; **CMB**: +1; **CMD**: 8 (can't be tripped)
-  - **Attack**: Bite +5 melee (1d2–2 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: Bite +5 melee (1d2–2 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +1, Ref +5, Will +1
-  - **Abilities**: Str 4, Dex 17, Con 8, Int 1, Wis 13, Cha 2
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +15
-  - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any temperate and warm
-  - **Organization**: Solitary
-  - **Challenge Rating**: 1/2
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 1d8–1 (3 hp)
+- **Initiative**: +3
+- **Speed**: 20 ft. (4 squares), climb 20 ft., swim 20 ft.
+- **Armor Class**: 16 (+3 Dex, +1 natural, +2 size), touch 15, flat-footed 13
+- **Base Attack**: +0; **CMB**: +1; **CMD**: 8 (can't be tripped)
+- **Attack**: Bite +5 melee (1d2–2 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: Bite +5 melee (1d2–2 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +1, Ref +5, Will +1
+- **Abilities**: Str 4, Dex 17, Con 8, Int 1, Wis 13, Cha 2
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +15
+- **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any temperate and warm
+- **Organization**: Solitary
+- **Challenge Rating**: 1/2
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Vipers are not particularly aggressive snakes, but their poisonous bite can be deadly.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; *save* Fort DC 9; *frequency* 1/round for 6 rounds; *effect* 1d2 Constitution; *cure* 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _save_ Fort DC 9; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Constitution; _cure_ 1 save.

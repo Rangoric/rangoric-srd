@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Sha’ir
 
-*An [[rangoric-srd/classes/Occultist#^occultist-archetypes|occultist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Occultist#^occultist-archetypes|occultist]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A sha'ir works through minor servitor genies from the elemental planes instead of objects; her jin are allies and living implements.
 

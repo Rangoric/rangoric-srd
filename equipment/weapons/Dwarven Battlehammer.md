@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/hammers]
 
 # Dwarven Battlehammer
 
-*Exotic two-handed melee weapon.* Cost 40 gp; Dmg 1d8 (S), 1d10 (M); Critical x3; Weight 20 lb.; Type Bludgeoning. ^stats
+_Exotic two-handed melee weapon._ Cost 40 gp; Dmg 1d8 (S), 1d10 (M); Critical x3; Weight 20 lb.; Type Bludgeoning. ^stats
 
 A dwarven battlehammer is too large to use in one hand unless the wielder is Large size or greater.

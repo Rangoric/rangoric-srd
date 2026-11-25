@@ -36,19 +36,19 @@ tags: [rangoric, rangoric/spell]
 
 # Locate Object
 
-*Divination*
+_Divination_
 
-  - **Level**: Brd 2, Clr 3, Fey Roads 2, Inq 3, Med 2, Mes 2, Occ 2, Psy 2, Skd 2, Sor/Wiz 2, Spi 2, Travel 2, Wit 3
-  - **Components**: V, S, F/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Area**: Circle, centered on you, with a radius of 400 ft. + 40 ft./level
-  - **Duration**: 1 min./level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Brd 2, Clr 3, Fey Roads 2, Inq 3, Med 2, Mes 2, Occ 2, Psy 2, Skd 2, Sor/Wiz 2, Spi 2, Travel 2, Wit 3
+- **Components**: V, S, F/DF
+- **Casting Time**: 1 standard action
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Area**: Circle, centered on you, with a radius of 400 ft. + 40 ft./level
+- **Duration**: 1 min./level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You sense the direction of a well-known or clearly visualized object. You can search for general items, in which case you locate the nearest one of its kind if more than one is within range. Attempting to find a certain item requires a specific and accurate mental image; if the image is not close enough to the actual object, the spell fails. You cannot specify a unique item unless you have observed that particular item firsthand (not through divination).
 
 The spell is blocked by even a thin sheet of lead. Creatures cannot be found by this spell. Polymorph any object fools it.
 
-*Arcane Focus*: A forked twig.
+_Arcane Focus_: A forked twig.

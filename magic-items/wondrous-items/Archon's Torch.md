@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Archon's Torch
 
-This torch is made of pale yellow wood and inscribed with holy runes. When lit, it burns as a regular torch, but only lasts for 5 minutes. When held by a lawful good creature, it functions as an *[[rangoric-srd/spells/Archon’s Aura|archon's aura]]* spell. The magical aura ends if a lawful good creature isn't holding it, and resumes automatically if a lawful good creature holds it again.
+This torch is made of pale yellow wood and inscribed with holy runes. When lit, it burns as a regular torch, but only lasts for 5 minutes. When held by a lawful good creature, it functions as an _[[rangoric-srd/spells/Archon’s Aura|archon's aura]]_ spell. The magical aura ends if a lawful good creature isn't holding it, and resumes automatically if a lawful good creature holds it again.
 
-Faint evocation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Archon’s Aura|archon's aura]]*; Price 750 gp; Cost 375 gp; Weight 1 lb.
+Faint evocation; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Archon’s Aura|archon's aura]]_; Price 750 gp; Cost 375 gp; Weight 1 lb.

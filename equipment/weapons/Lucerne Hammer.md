@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/pole-arms]
 
 # Lucerne Hammer
 
-*Martial two-handed melee weapon (brace, reach).* Cost 15 gp; Dmg 1d10 (S), 1d12 (M); Critical x2; Weight 12 lb.; Type Bludgeoning or piercing. ^stats
+_Martial two-handed melee weapon (brace, reach)._ Cost 15 gp; Dmg 1d10 (S), 1d12 (M); Critical x2; Weight 12 lb.; Type Bludgeoning or piercing. ^stats
 
 This polearm has both a pronged hammer head for crushing blows and a spiked head for piercing and peeling armor; most attacks are made with the hammer. The long haft allows the wielder to put amazing force behind the head of this weapon. You gain a +2 bonus to your CMB to [[rangoric-srd/combat/Combat Maneuvers#Sunder|sunder]] medium or heavy armor with a lucerne hammer.
 

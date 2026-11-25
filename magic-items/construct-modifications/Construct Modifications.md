@@ -46,7 +46,7 @@ These modifications represent more complex changes to the structure and function
 
 **Cost**: variable (see below)
 
-This subcategory of complex modification allows a construct's creator to carve a runic spell trigger into her creation. Choose one of the following runes. The cost of the rune and any prerequisites are detailed in the rune's description. Once per day, the first time the rune is triggered, its effect occurs. As an immediate action, the creator can attempt to delay the effect until the next time it is triggered. Doing so requires that the construct be within line of sight of the creator (or for the creator to be using *[[rangoric-srd/spells/Scrying|scrying]]* or *[[rangoric-srd/spells/Scrying, Greater|greater scrying]]* through the [[rangoric-srd/magic-items/construct-modifications/Crafter's Eyes|crafter's eyes]] construct modification) and that the caster make a [[rangoric-srd/skills/Mysticism|Mysticism]] check equal to 10 + the caster level of the rune's effect.
+This subcategory of complex modification allows a construct's creator to carve a runic spell trigger into her creation. Choose one of the following runes. The cost of the rune and any prerequisites are detailed in the rune's description. Once per day, the first time the rune is triggered, its effect occurs. As an immediate action, the creator can attempt to delay the effect until the next time it is triggered. Doing so requires that the construct be within line of sight of the creator (or for the creator to be using _[[rangoric-srd/spells/Scrying|scrying]]_ or _[[rangoric-srd/spells/Scrying, Greater|greater scrying]]_ through the [[rangoric-srd/magic-items/construct-modifications/Crafter's Eyes|crafter's eyes]] construct modification) and that the caster make a [[rangoric-srd/skills/Mysticism|Mysticism]] check equal to 10 + the caster level of the rune's effect.
 
 A construct can have more than one rune-carved modification, and even multiple runes of the same type. If it has multiple applications of the same rune, the first one goes off when it is first triggered, the second one goes off when the trigger happens next, and so on. Multiple runes of different types go off when first triggered, even if the different runes share similar triggers.
 
@@ -60,7 +60,7 @@ It is rumored that there are many more runes than these, but the following are s
 
 ## Shatter Stash
 
-**Requirements**: [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Shatter|shatter]]*, and variable (see below)
+**Requirements**: [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Shatter|shatter]]_, and variable (see below)
 
 **CR Increase**: none
 

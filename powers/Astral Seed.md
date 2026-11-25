@@ -31,7 +31,7 @@ Effect: One storage crystal
 Duration: Instantaneous  
 Saving Throw: None  
 Power Resistance: No  
-Power Points: 15  
+Power Points: 15
 
 This power weaves strands of astral ectoplasm into a crystal containing the seed of your living mind (hardness 1 and 1 hit point). You can have only one astral seed in existence at any one time. Until such time as you perish, the astral seed (also called the storage crystal) is utterly inert. If you are slain at some later date, your soul transfers into the storage crystal, which begins to dimly glow.
 

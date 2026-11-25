@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Bladeblack Oil
 
-*Chymical; Special*
+_Chymical; Special_
 
 Also called weaponblack or armorcloak, bladeblack is a thick, gummy, oily suspension that can be smeared across the surface of weapons and armor to coat them with a matte-black finish (rather than letting the metal weapon glint in the light). This dull coating provides a +10 circumstance bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks (or a -10 penalty on [[rangoric-srd/skills/Perception|Perception]] checks to notice it in darkness or shadow). Each vial comes with a small brush attached to the top and contains enough bladeblack to coat one suit of armor (1d2 times) or a long sword (2d4 times). After drying, bladeblack can flake off as the weapon is used or simply peel off after 2d6 hours.
 

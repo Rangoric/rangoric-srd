@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Fast Healing
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-grand-discovery|alchemist grand discovery]].*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-grand-discovery|alchemist grand discovery]]._
 
 The alchemist’s flesh responds to damage with shocking speed—he gains [[rangoric-srd/rules/Special Abilities and Conditions#Fast Healing|fast healing]] 5.

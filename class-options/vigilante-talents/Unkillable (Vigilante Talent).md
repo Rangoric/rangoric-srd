@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Unkillable
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 The vigilante gains [[rangoric-srd/feats/Diehard|Diehard]] as a bonus feat, though he does not have to meet the prerequisites for this feat.
 

@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat]
 
 # Greater Multiweapon Fighting
 
-Prerequisites: Dex 19, three or more arms, Improved Multiweapon Fighting, Multiweapon Fighting, base attack bonus +15.  
+Prerequisites: Dex 19, three or more arms, Improved Multiweapon Fighting, Multiweapon Fighting, base attack bonus +15.
 
 Benefit: The creature may make up to three extra attacks with each extra offhand weapon it wields, albeit at a -10 penalty on the third attack with each weapon.
 

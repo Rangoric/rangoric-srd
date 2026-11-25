@@ -29,12 +29,12 @@ If you try to take something from another creature, you must make a DC 20 Sleigh
 
 You can also use Sleight of Hand to entertain an audience as though you were using the Performance skill. In such a case, your “act” encompasses elements of legerdemain, juggling, and the like.
 
-| Sleight of Hand DC | Task                                            |
-| ------------------ | ----------------------------------------------- |
-| 10                 | Palm a coin-sized object, make a coin disappear |
-| 20                 | Lift a small object from a person               |
-| 50 | Lift a sheathed weapon from another creature and hide it on the character’s person, if the weapon is no more than one size category larger than the character’s own size. |
-| 80 | Make an adjacent, willing creature or object of the character’s size or smaller “disappear” while in plain view. In fact, the willing creature or object is displaced up to 10 feet away-make a separate Stealth check to determine how well the “disappeared” creature or object is hidden. |
+| Sleight of Hand DC | Task                                                                                                                                                                                                                                                                                         |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 10                 | Palm a coin-sized object, make a coin disappear                                                                                                                                                                                                                                              |
+| 20                 | Lift a small object from a person                                                                                                                                                                                                                                                            |
+| 50                 | Lift a sheathed weapon from another creature and hide it on the character’s person, if the weapon is no more than one size category larger than the character’s own size.                                                                                                                    |
+| 80                 | Make an adjacent, willing creature or object of the character’s size or smaller “disappear” while in plain view. In fact, the willing creature or object is displaced up to 10 feet away-make a separate Stealth check to determine how well the “disappeared” creature or object is hidden. |
 
 **Action**: Any Sleight of Hand check normally is a standard action. However, you may perform a Sleight of Hand check as a free action by taking a –20 penalty on the check.
 
@@ -44,7 +44,7 @@ You can also use Sleight of Hand to entertain an audience as though you were usi
 
 ## Advanced Uses
 
-The character can lift another’s weapon and perform major feats of legerdemain.  
+The character can lift another’s weapon and perform major feats of legerdemain.
 
 ## Picking Locks
 
@@ -54,10 +54,10 @@ Without a set of [[rangoric-srd/equipment/gear/Thieves' Tools|thieves’ tools]]
 
 **Check**: The DC for opening a lock varies from 20 to 40, depending on the quality of the lock, as given on the table below.
 
-| Lock             | DC | Lock         | DC |
-| ---------------- | -- | ------------ | -- |
-| Very simple lock | 20 | Good lock    | 30 |
-| Average lock     | 25 | Amazing lock | 40 |
+| Lock             | DC  | Lock         | DC  |
+| ---------------- | --- | ------------ | --- |
+| Very simple lock | 20  | Good lock    | 30  |
+| Average lock     | 25  | Amazing lock | 40  |
 
 **Action**: Opening a lock is a full-round action.
 
@@ -65,12 +65,12 @@ Without a set of [[rangoric-srd/equipment/gear/Thieves' Tools|thieves’ tools]]
 
 ### Advanced Uses
 
-The character can open locks more quickly than normal.  
+The character can open locks more quickly than normal.
 
 | Open lock as . . .     | DC Modifier |
 | ---------------------- | ----------- |
-| Move-equivalent action | +20        |
-| Free action            | +50        |
+| Move-equivalent action | +20         |
+| Free action            | +50         |
 
 ## Unlocks
 

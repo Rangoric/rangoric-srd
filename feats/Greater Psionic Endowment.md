@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Greater Psionic Endowment
 
-You can use meditation to focus your powers.  
+You can use meditation to focus your powers.
 
 Prerequisite: [[rangoric-srd/feats/Psionic Endowment|Psionic Endowment]].
 

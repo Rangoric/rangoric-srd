@@ -28,12 +28,12 @@ tags: [rangoric, rangoric/spell]
 
 # Confusion, Lesser
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Brd 1, Med 1, Mes 1, Psy 1, Skd 1
-  - **Components**: V, S, DF
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One living creature
-  - **Duration**: 1 round
+- **Level**: Brd 1, Med 1, Mes 1, Psy 1, Skd 1
+- **Components**: V, S, DF
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One living creature
+- **Duration**: 1 round
 
 This spell causes a single creature to become [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1 round. See the [[rangoric-srd/spells/Confusion|confusion]] spell, above, to determine the exact effect on the subject.

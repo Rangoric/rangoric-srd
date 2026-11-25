@@ -24,15 +24,15 @@ tags: [rangoric, rangoric/spell]
 
 # Heal Mount
 
-*Conjuration (Healing)*
+_Conjuration (Healing)_
 
-  - **Level**: Pal 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Your mount touched
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Pal 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Your mount touched
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 This spell functions like [[rangoric-srd/spells/Heal (Spell)|heal]], but it affects only the paladin’s special mount (typically a warhorse).

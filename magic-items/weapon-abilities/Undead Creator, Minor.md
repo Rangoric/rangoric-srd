@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Undead Creator, Minor
 
-Any suitable creature killed by an *undead creating* weapon rises one round later as a zombie under the wielder’s control. In addition, use of this type of weapon adds an additional 10 HD to the total amount of undead that the wielder can control at any one time. A wielder without the ability to [[rangoric-srd/combat/Combat Special Attacks#Turn or Rebuke Undead|command undead]] can control up to 10 HD worth of zombies created through use of his weapon.
+Any suitable creature killed by an _undead creating_ weapon rises one round later as a zombie under the wielder’s control. In addition, use of this type of weapon adds an additional 10 HD to the total amount of undead that the wielder can control at any one time. A wielder without the ability to [[rangoric-srd/combat/Combat Special Attacks#Turn or Rebuke Undead|command undead]] can control up to 10 HD worth of zombies created through use of his weapon.
 
-Moderate necromancy; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Animate Dead|animate dead]]*; Price +3 bonus.
+Moderate necromancy; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Animate Dead|animate dead]]_; Price +3 bonus.

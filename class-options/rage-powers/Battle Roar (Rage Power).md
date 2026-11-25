@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Battle Roar
 
-*A [[rangoric-srd/class-options/rage-powers/Rage Powers|rage power]] (Su) of the [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|barbarian]] and the [[rangoric-srd/classes/Skald#^skald-rage-powers|skald]].*
+_A [[rangoric-srd/class-options/rage-powers/Rage Powers|rage power]] (Su) of the [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|barbarian]] and the [[rangoric-srd/classes/Skald#^skald-rage-powers|skald]]._
 
 When the character successfully [[rangoric-srd/skills/Intimidation|demoralizes]] an opponent using [[rangoric-srd/class-options/rage-powers/Intimidating Glare (Rage Power)|intimidating glare]], he also deals 1d6 points of sonic damage to that opponent.
 

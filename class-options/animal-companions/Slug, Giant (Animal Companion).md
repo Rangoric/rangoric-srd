@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Slug, Giant
 
-*An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature ([[rangoric-srd/monsters/Giant Slug|giant slug]]).*
+_An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature ([[rangoric-srd/monsters/Giant Slug|giant slug]])._
 
 - **Size**: Medium
 - **Speed**: 20 ft.

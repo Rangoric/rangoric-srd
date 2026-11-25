@@ -18,11 +18,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Eyes of the Void
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Void Element|void]]
-  - **Type**: utility (Su)
-  - **Level**: 2
-  - **Burn**: —
+- **Element**: [[rangoric-srd/class-options/elements/Void Element|void]]
+- **Type**: utility (Su)
+- **Level**: 2
+- **Burn**: —
 
 You gain [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] with a range of 60 feet (if you already have darkvision, your darkvision’s range increases by 30 feet).

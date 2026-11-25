@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/thrown]
 
 # Snag Net
 
-*Exotic ranged weapon (trip).* Cost 30 gp; Range Increment 10 ft.; Weight 10 lb.; Type Piercing. ^stats
+_Exotic ranged weapon (trip)._ Cost 30 gp; Range Increment 10 ft.; Weight 10 lb.; Type Piercing. ^stats
 
 This short, wide net is covered in barbed loops and slipknots. It works like a typical [[rangoric-srd/equipment/weapons/Net|net]] exotic weapon, except it has the trip weapon special feature. If you [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangle]] an opponent and hold the trailing rope, on your turn in place of a melee attack you may make a [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] combat maneuver check against that opponent; if you succeed, you may trip the opponent or deal 1 point of piercing damage to the opponent. The [[rangoric-srd/rules/Concentration (Check)|concentration]] DC to cast while entangled in a snag net is 17 + the spell's level. The [[rangoric-srd/skills/Escape Artist|Escape Artist]] DC to escape a snag net is 22.

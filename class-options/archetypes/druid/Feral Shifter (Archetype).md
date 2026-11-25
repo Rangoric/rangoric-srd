@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Feral Shifter
 
-*A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A feral shifter internalizes her communion with and mastery over animals. Instead of forming a bond with an animal companion or an aspect of nature, she alters her own essence or being in an homage to the noble creatures of the wild. More in tune with transformation and animal bodies than a normal druid is, a feral shifter blurs the line between humanoid and beast.
 

@@ -53,18 +53,18 @@ The fae-walker’s class skills (and the key ability for each skill) are [[rango
 
 **Table: The Fae-walker** ^table-the-fae-walker
 
-| Level | Special |
-| --- | --- |
-| 1st | Evasion, Step Sideways I |
-| 2nd | Low-light vision, Uncanny Dodge (Dex bonus to AC) |
-| 3rd | Slippery Mind |
-| 4th | Fae-walk (15 ft.) |
-| 5th | Step Sideways II, Uncanny Dodge (can’t be flanked) |
-| 6th | Defensive Jaunt, Fae-walk (30 ft.) |
-| 7th | Step Sideways III |
-| 8th | Fae-walk (60 ft.) |
-| 9th | Improved Evasion, Uncanny Dodge (+1 vs. traps) |
-| 10th | Fae-walk (120 ft.), Stray |
+| Level | Special                                            |
+| ----- | -------------------------------------------------- |
+| 1st   | Evasion, Step Sideways I                           |
+| 2nd   | Low-light vision, Uncanny Dodge (Dex bonus to AC)  |
+| 3rd   | Slippery Mind                                      |
+| 4th   | Fae-walk (15 ft.)                                  |
+| 5th   | Step Sideways II, Uncanny Dodge (can’t be flanked) |
+| 6th   | Defensive Jaunt, Fae-walk (30 ft.)                 |
+| 7th   | Step Sideways III                                  |
+| 8th   | Fae-walk (60 ft.)                                  |
+| 9th   | Improved Evasion, Uncanny Dodge (+1 vs. traps)     |
+| 10th  | Fae-walk (120 ft.), Stray                          |
 
 ###### Class Features
 
@@ -74,7 +74,7 @@ All of the following are class features of the fae-walker prestige class.
 
 **Evasion (Ex)**: At 1st level, a fae-walker gains evasion. If exposed to any effect that normally allows a Reflex saving throw for half damage (such as a fireball), he takes no damage with a successful saving throw. Evasion can only be used if the fae-walker is wearing light armor or no armor. ^fae-walker-evasion
 
-**Step Sideways (Su)**: At 1st level, the fae-walker gains the supernatural ability to step sideways into the borderland between the world and the fey realm. This ability can be used if no other move action has been taken. To onlookers, the fae-walker disappears as if stepping through a *[[rangoric-srd/spells/Dimension Door|dimension door]]*. While in the borderland, the fae-walker cannot move other than to step sideways back into the mortal world. He can choose to wait there for a number of rounds equal to his fae-walker level before stepping sideways back to the mortal world. If this duration lapses, the fae-walker risks being lost in the borderland (25% cumulative chance per round beyond the duration). Using this ability does not provoke an attack of opportunity. ^fae-walker-step-sideways
+**Step Sideways (Su)**: At 1st level, the fae-walker gains the supernatural ability to step sideways into the borderland between the world and the fey realm. This ability can be used if no other move action has been taken. To onlookers, the fae-walker disappears as if stepping through a _[[rangoric-srd/spells/Dimension Door|dimension door]]_. While in the borderland, the fae-walker cannot move other than to step sideways back into the mortal world. He can choose to wait there for a number of rounds equal to his fae-walker level before stepping sideways back to the mortal world. If this duration lapses, the fae-walker risks being lost in the borderland (25% cumulative chance per round beyond the duration). Using this ability does not provoke an attack of opportunity. ^fae-walker-step-sideways
 
 At 5th level, he can choose to wait in the borderland for a number of minutes equal to his fae-walker level before stepping back to the mortal world. If this duration lapses, he risks being lost there (with the dangers noted above).
 
@@ -92,7 +92,7 @@ If the fae-walker already has uncanny dodge abilities (such as the rogue’s [[r
 
 **Slippery Mind (Ex)**: At 3rd level, the fae-walker gains [[rangoric-srd/class-options/rogue-talents/Slippery Mind (Rogue Talent)|slippery mind]], as the rogue’s advanced talent. ^fae-walker-slippery-mind
 
-**Fae-walk (Sp)**: The fae-walker gains the ability to travel from one location to another through the borderland, as by means of a *[[rangoric-srd/spells/Dimension Door|dimension door]]* spell. At 4th level, the fae-walker can walk up to a total of 15 feet each day in this way, although this may be a single walk of 15 feet or one walk of 10 feet and another of a mere 5 feet. Every two levels thereafter, the distance a fae-walker can walk each day doubles (30 feet at 6th level, 60 feet at 8th level, and 120 feet at 10th level). This amount can be split among many walks, but each one, no matter how small, counts as a 10-foot increment. (A 6th-level fae-walker who walks 22 feet cannot use this ability again until the next day.) ^fae-walker-fae-walk
+**Fae-walk (Sp)**: The fae-walker gains the ability to travel from one location to another through the borderland, as by means of a _[[rangoric-srd/spells/Dimension Door|dimension door]]_ spell. At 4th level, the fae-walker can walk up to a total of 15 feet each day in this way, although this may be a single walk of 15 feet or one walk of 10 feet and another of a mere 5 feet. Every two levels thereafter, the distance a fae-walker can walk each day doubles (30 feet at 6th level, 60 feet at 8th level, and 120 feet at 10th level). This amount can be split among many walks, but each one, no matter how small, counts as a 10-foot increment. (A 6th-level fae-walker who walks 22 feet cannot use this ability again until the next day.) ^fae-walker-fae-walk
 
 **Defensive Jaunt (Su)**: Starting at 6th level, the fae-walker can use his step sideways ability to evade a potentially lethal blow or to take less damage from it. Once per day, when a fae-walker would be reduced to 0 hit points or fewer in combat (from a weapon or other blow, not a spell or special ability), the fae-walker can attempt to jaunt away the damage. He makes a Reflex saving throw (DC = damage dealt) and, if successful, takes only half damage from the blow. He must be aware of the attack and able to react to it to execute his defensive jaunt. If the situation denies him any Dexterity bonus to AC (whether he has one or not), he can’t attempt the defensive jaunt. ^fae-walker-defensive-jaunt
 

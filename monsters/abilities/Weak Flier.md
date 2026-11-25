@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Weak Flier
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “weak flier”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “weak flier”, on the Special Qualities line.
 
 A weak flier can't hover or fly up at an angle greater than 45 degrees while flying. The [[rangoric-srd/monsters/Archaeopteryx|archaeopteryx]] has it.

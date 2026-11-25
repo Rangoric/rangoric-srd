@@ -15,8 +15,8 @@ tags: [rangoric, rangoric/class-option]
 
 # Darkness Blessing
 
-*A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Darkness Domain|Darkness domain]].*
+_A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Darkness Domain|Darkness domain]]._
 
 **Enshrouding Darkness (minor)**: At 1st level, you can touch an ally and bestow a darkness blessing. For 1 minute, the ally becomes enshrouded in shadows while in combat, granting it concealment (20%). Creatures that are normally able to see in supernatural darkness ignore this concealment.
 
-**Darkened Vision (major)**: At 10th level, you can place a shroud of darkness around the eyes of one foe within 30 feet. The target must succeed at a Will saving throw or be blinded for 1 minute (as *[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]*).
+**Darkened Vision (major)**: At 10th level, you can place a shroud of darkness around the eyes of one foe within 30 feet. The target must succeed at a Will saving throw or be blinded for 1 minute (as _[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_).

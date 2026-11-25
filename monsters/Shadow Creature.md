@@ -36,11 +36,11 @@ This template is for creatures native to the Plane of Shadow; a summoned creatur
 **Defensive Abilities**: A shadow creature gains [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] and [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold and electricity based on its Hit Dice, as noted on the following table.
 
 | Hit Dice | Resist Cold and Electricity | DR       |
-|----------|-----------------------------|----------|
+| -------- | --------------------------- | -------- |
 | 1-4      | 5                           | —        |
 | 5-10     | 10                          | 5/magic  |
 | 11+      | 15                          | 10/magic |
 
-*Shadow Blend*: In any illumination other than bright light, a shadow creature blends into the shadows, giving it [[rangoric-srd/combat/Combat Modifiers#Concealment|concealment]] (20% miss chance). A shadow creature can suspend or resume this ability as a free action.
+_Shadow Blend_: In any illumination other than bright light, a shadow creature blends into the shadows, giving it [[rangoric-srd/combat/Combat Modifiers#Concealment|concealment]] (20% miss chance). A shadow creature can suspend or resume this ability as a free action.
 
-*Spell Resistance (Ex)*: A shadow creature gains [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] equal to the base creature's CR + 6.
+_Spell Resistance (Ex)_: A shadow creature gains [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] equal to the base creature's CR + 6.

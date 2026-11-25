@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Weapon Snatcher
 
-*An [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talent]] (Ex).*
+_An [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talent]] (Ex)._
 
 A character with this talent can make a [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] check in place of a combat maneuver check when attempting to disarm an opponent.

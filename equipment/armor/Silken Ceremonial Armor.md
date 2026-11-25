@@ -24,6 +24,6 @@ tags: [rangoric, rangoric/armor]
 
 # Silken Ceremonial Armor
 
-*Light armor.* Cost 30 gp; Armor Bonus +1; Armor Check Penalty 0; Arcane Spell Failure 0%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 4 lb. ^stats
+_Light armor._ Cost 30 gp; Armor Bonus +1; Armor Check Penalty 0; Arcane Spell Failure 0%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 4 lb. ^stats
 
 Used for ceremonial displays or occasionally worn (albeit with no additional benefit) over heavier armor, these robes consist of several layers of cloth and an outer layer of silk intricately woven with gold brocade designs and covered with metal studs.

@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Pool Strike, Clinging
 
-*A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Su).*
+_A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Su)._
 
 The magus can expend 1 additional point from his arcane pool when making a pool strike. A single target of his pool strike takes energy damage as normal from the pool strike and also takes half this amount of damage at the beginning of its turn on the following round. The magus must be at least 9th level and must have the [[rangoric-srd/class-options/magus-arcana/Pool Strike (Magus Arcana)|pool strike]] magus arcana before selecting this magus arcana.

@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades, weapon-group/pole-a
 
 # Pole Sword
 
-*Exotic two-handed melee weapon (trip).* Cost 10 gp; Dmg 1d6 (S), 1d8 (M); Critical 19-20/x2; Range 5 ft.; Weight 5 lb.; Type Slashing. ^stats
+_Exotic two-handed melee weapon (trip)._ Cost 10 gp; Dmg 1d6 (S), 1d8 (M); Critical 19-20/x2; Range 5 ft.; Weight 5 lb.; Type Slashing. ^stats
 
 The pole sword is a short hafted polearm with a long, wide blade at one end and a steel ring at the other. Often used as a sword because it is easily wielded in one hand, its ring and wooden haft makes it easy to perform martial maneuvers that would be difficult using a regular sword or full-length polearm. Sometimes, colorful silk cloth or thin ropes are tied to the ring, allowing the wielder to extend the reach of the weapon by spinning it or throwing it short distances—when used in this way, it adds a +2 bonus to Trip attacks.
 

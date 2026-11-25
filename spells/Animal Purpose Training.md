@@ -38,15 +38,15 @@ tags: [rangoric, rangoric/spell]
 
 # Animal Purpose Training
 
-*Enchantment (Compulsion) \[Mind-affecting\]*
+_Enchantment (Compulsion) \[Mind-affecting\]_
 
-  - **Level**: Apl 1, Brd 2, Drd 2, Hun 1, Inq 1, Pal 1, Psy 1, Rgr 1, Sha 2, Skd 2, Wit 1
-  - **Components**: V, S, M (a swatch of black cloth)
-  - **Casting Time**: 1 minute
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One indifferent or friendly animal
-  - **Duration**: 1 hour/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Apl 1, Brd 2, Drd 2, Hun 1, Inq 1, Pal 1, Psy 1, Rgr 1, Sha 2, Skd 2, Wit 1
+- **Components**: V, S, M (a swatch of black cloth)
+- **Casting Time**: 1 minute
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One indifferent or friendly animal
+- **Duration**: 1 hour/level
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 You instill the target animal with a general purpose (see the Animal Handling skill), which can be any purpose except combat training—fighting, guarding, heavy labor, hunting, performance, or riding. This purpose supersedes the animal's previous trained purpose and any tricks it knows. When the spell ends, the animal reverts to its previous trained purpose and known tricks.

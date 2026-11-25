@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Pukwudgie
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Shapechanger)
-  - **Hit Dice**: 9d10+36 (85 hp)
-  - **Initiative**: +4
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 20 (+4 Dex, +1 dodge, +4 natural, +1 size), touch 16, flat-footed 15
-  - **Base Attack**: +9; **CMB**: +10; **CMD**: 25
-  - **Attack**: Claw +14 melee (1d4+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or quills +15 ranged (1d4+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: 2 claws +14 melee (1d4+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]]); or 2 quills +15 ranged (1d4+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Sneak attack +3d6, [[rangoric-srd/monsters/abilities/Spawn Undead|spawn undead]], [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., deathwatch, detect good, detect magic, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (porcupine, beast shape II), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison
-  - **Saves**: Fort +7, Ref +10, Will +10
-  - **Abilities**: Str 14, Dex 18, Con 19, Int 15, Wis 14, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +16, [[rangoric-srd/skills/Theology|Theology]] +11
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (quill)
-  - **Environment**: Temperate forests, hills, or mountains
-  - **Organization**: Solitary, pair, or cult (3–10)
-  - **Challenge Rating**: 7
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Shapechanger)
+- **Hit Dice**: 9d10+36 (85 hp)
+- **Initiative**: +4
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 20 (+4 Dex, +1 dodge, +4 natural, +1 size), touch 16, flat-footed 15
+- **Base Attack**: +9; **CMB**: +10; **CMD**: 25
+- **Attack**: Claw +14 melee (1d4+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or quills +15 ranged (1d4+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: 2 claws +14 melee (1d4+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]]); or 2 quills +15 ranged (1d4+2 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Sneak attack +3d6, [[rangoric-srd/monsters/abilities/Spawn Undead|spawn undead]], [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., deathwatch, detect good, detect magic, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (porcupine, beast shape II), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison
+- **Saves**: Fort +7, Ref +10, Will +10
+- **Abilities**: Str 14, Dex 18, Con 19, Int 15, Wis 14, Cha 19
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +16, [[rangoric-srd/skills/Theology|Theology]] +11
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (quill)
+- **Environment**: Temperate forests, hills, or mountains
+- **Organization**: Solitary, pair, or cult (3–10)
+- **Challenge Rating**: 7
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The vile pukwudgie is a small, hunchbacked humanoid covered with long, sharp quills. These quills, like those of a porcupine, help protect the small creature but are also dangerous offensive weapons, for the quills hold a deadly poison that animates those it slays as zombies. This necromantic nature, along with their penchant for torment and sadistic ways, makes pukwudgies evil to the core. A pukwudgie stands 3-1/2 feet tall and weighs a little more than 30 pounds.
 
@@ -72,10 +72,10 @@ Pukwudgies speak Common, Draconic and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +14): Constant—*[[rangoric-srd/spells/Deathwatch|deathwatch]], [[rangoric-srd/spells/Detect Good|detect good]], [[rangoric-srd/spells/Detect Magic|detect magic]]*; At will—*[[rangoric-srd/spells/Command Undead|command undead]]* (DC 16), *[[rangoric-srd/spells/Produce Flame|produce flame]]*; 3/day—*[[rangoric-srd/spells/Animate Dead|animate dead]]*, *[[rangoric-srd/spells/Death Knell|death knell]]* (DC 16), *[[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]* (DC 15), *[[rangoric-srd/spells/Scare|scare]]* (DC 16); 1/day—*[[rangoric-srd/spells/Nondetection|nondetection]]* (DC 17).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +14): Constant—_[[rangoric-srd/spells/Deathwatch|deathwatch]], [[rangoric-srd/spells/Detect Good|detect good]], [[rangoric-srd/spells/Detect Magic|detect magic]]_; At will—_[[rangoric-srd/spells/Command Undead|command undead]]_ (DC 16), _[[rangoric-srd/spells/Produce Flame|produce flame]]_; 3/day—_[[rangoric-srd/spells/Animate Dead|animate dead]]_, _[[rangoric-srd/spells/Death Knell|death knell]]_ (DC 16), _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_ (DC 15), _[[rangoric-srd/spells/Scare|scare]]_ (DC 16); 1/day—_[[rangoric-srd/spells/Nondetection|nondetection]]_ (DC 17).
 
 **[[rangoric-srd/monsters/abilities/Spawn Undead|Spawn Undead]] (Su)**: Any creature slain by a pukwudgie's poisonous quills rises in 24 hours as a zombie. Undead created by this ability are not immediately under the control of a pukwudgie, but they receive a –4 penalty on saves against a pukwudgie's control undead spell-like ability.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Su)**: [[rangoric-srd/rules/afflictions/Pukwudgie Venom|Pukwudgie Venom]]: Claw or quill—injury; *save* Fort DC 18; *frequency* 1/round for 6 rounds; *effect* 1d3 Con damage; *cure* 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Su)**: [[rangoric-srd/rules/afflictions/Pukwudgie Venom|Pukwudgie Venom]]: Claw or quill—injury; _save_ Fort DC 18; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Con damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Quills|Quills]] (Ex)**: A pukwudgie can fire two of its quills as a ranged attack as a standard action. These quills have a range increment of 40 feet. Any creature attacking a pukwudgie with light or one-handed melee weapons, natural weapons, or an unarmed strike takes 1d3 points of piercing damage. A creature that grapples a pukwudgie takes 2d4 points of piercing damage. Anyone who takes damage from these quills is also exposed to the pukwudgie's poison.

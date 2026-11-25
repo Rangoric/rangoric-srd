@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Mummer's Ruff
 
-Usually fashioned from brightly colored silk, a *mummer's ruff* is a favored accoutrement of performers and con artists alike. The wearer of a *mummer's ruff* gains a +10 bonus on [[rangoric-srd/skills/Deception|Deception]] skill checks when attempting to imitate another's voice. In addition, once per day, the wearer of the *mummer's ruff* can throw his voice as if using *[[rangoric-srd/spells/Ventriloquism|ventriloquism]]* for up to 5 minutes.
+Usually fashioned from brightly colored silk, a _mummer's ruff_ is a favored accoutrement of performers and con artists alike. The wearer of a _mummer's ruff_ gains a +10 bonus on [[rangoric-srd/skills/Deception|Deception]] skill checks when attempting to imitate another's voice. In addition, once per day, the wearer of the _mummer's ruff_ can throw his voice as if using _[[rangoric-srd/spells/Ventriloquism|ventriloquism]]_ for up to 5 minutes.
 
-Faint illusion; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Sculpt Sound|sculpt sound]]*, *[[rangoric-srd/spells/Ventriloquism|ventriloquism]]*; Price 3,500 gp; Cost 1,750 gp.
+Faint illusion; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Sculpt Sound|sculpt sound]]_, _[[rangoric-srd/spells/Ventriloquism|ventriloquism]]_; Price 3,500 gp; Cost 1,750 gp.

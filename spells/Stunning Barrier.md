@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Stunning Barrier
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 1, Inq 1, Pal 1, Psy 1, Sor/Wiz 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level or until discharged
-  - **Saving Throw**: None and Will negates (see text)
-  - **Spell Resistance**: No and yes (see text)
+- **Level**: Clr 1, Inq 1, Pal 1, Psy 1, Sor/Wiz 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level or until discharged
+- **Saving Throw**: None and Will negates (see text)
+- **Spell Resistance**: No and yes (see text)
 
 You are closely surrounded by a barely visible magical field. The field provides a +1 deflection bonus to AC and a +1 resistance bonus on saves. Any creature that strikes you with a melee attack is stunned for 1 round (Will negates). Once the field has stunned an opponent, the spell is discharged.

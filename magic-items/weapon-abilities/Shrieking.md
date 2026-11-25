@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Shrieking
 
-This particular enchantment can only be placed upon ranged weapons. Items so enchanted are physically altered so that their surfaces are riddled with numerous carved, painted, or stitched screaming faces. This shocking appearance often causes people to think *shrieking* items bear dark magic or some type of curse. When fired or thrown, the weapon lets out a deafening shriek at its point of origin that acts as a *[[rangoric-srd/spells/Shout|shout]]* spell. *Shrieking* weapons confer this ability to their missiles.
+This particular enchantment can only be placed upon ranged weapons. Items so enchanted are physically altered so that their surfaces are riddled with numerous carved, painted, or stitched screaming faces. This shocking appearance often causes people to think _shrieking_ items bear dark magic or some type of curse. When fired or thrown, the weapon lets out a deafening shriek at its point of origin that acts as a _[[rangoric-srd/spells/Shout|shout]]_ spell. _Shrieking_ weapons confer this ability to their missiles.
 
-Moderate evocation [sonic]; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Shout|shout]]*; Price +2 bonus.
+Moderate evocation [sonic]; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Shout|shout]]_; Price +2 bonus.

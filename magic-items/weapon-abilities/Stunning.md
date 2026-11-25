@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Stunning
 
-When scoring a critical hit against an opponent, a *stunning* weapon [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stuns]] him for one round, causing him to drop any held items. Creatures immune to critical hits or stunning take no effect from this enhancement.
+When scoring a critical hit against an opponent, a _stunning_ weapon [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stuns]] him for one round, causing him to drop any held items. Creatures immune to critical hits or stunning take no effect from this enhancement.
 
-Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Shout|shout]]*; Price +1 bonus.
+Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Shout|shout]]_; Price +1 bonus.

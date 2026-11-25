@@ -25,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 # Eternal Freedom
 
-Abjuration   
+Abjuration  
 Casting DC: 150  
 Components: V, S, Ritual, XP  
 Casting Time: 1 minute  
@@ -34,7 +34,7 @@ Target: Touched creature or object of 2,000 lb. or less
 Duration: Permanent  
 Saving Throw: Will negates  
 Spell Resistance: Yes  
-To Develop: 1,350,000 gp; 27 days; 54,000 XP. Seed: ward (DC 14). Factors: specific protections entangle (+0 DC), hold monster (+8 DC), hold person (+4 DC), imprisonment (+16 DC), paralysis (ad hoc +6 DC), petrification (ad hoc +6 DC), sleep (+0 DC), slow (+4 DC), stunning (ad hoc +6 DC), temporal stasis (+16 DC), and web (+4 DC); permanent 5 DC). Mitigating factors: ten additional casters contributing 9th-level spell slots (-170 DC), burn 10,000 XP (-100 DC).  
+To Develop: 1,350,000 gp; 27 days; 54,000 XP. Seed: ward (DC 14). Factors: specific protections entangle (+0 DC), hold monster (+8 DC), hold person (+4 DC), imprisonment (+16 DC), paralysis (ad hoc +6 DC), petrification (ad hoc +6 DC), sleep (+0 DC), slow (+4 DC), stunning (ad hoc +6 DC), temporal stasis (+16 DC), and web (+4 DC); permanent 5 DC). Mitigating factors: ten additional casters contributing 9th-level spell slots (-170 DC), burn 10,000 XP (-100 DC).
 
 The subject becomes permanently immune to the following specific spells, effects, and spell-like abilities: entangle, hold, imprisonment, paralysis, petrification, sleep, slow, stunning, temporal stasis, and web. This is a ritual spell requiring ten other spellcasters, each of whom must contribute an unused 9th-level spell slot to the casting.
 

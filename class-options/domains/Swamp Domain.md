@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Swamp Domain
 
-*A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]; clerics can’t take it.*
+_A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]; clerics can’t take it._
 
 ## Granted Powers
 
@@ -26,14 +26,14 @@ The sour-sweet depths of bogs, marshes, and swamps are your places of power.
 
 ## Domain Spells
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Hydraulic Push\|Hydraulic Push]] | Wave of water bull rushes an enemy. |
-| 2nd | [[rangoric-srd/spells/Burst of Nettles\|Burst of Nettles]] | Burst deals 3d6 damage and 1d6 acid. |
-| 3rd | [[rangoric-srd/spells/Lily Pad Stride\|Lily Pad Stride]] (M) | Walk across water on moving lily pads. |
-| 4th | [[rangoric-srd/spells/Cape of Wasps\|Cape of Wasps]] | Wasp swarm defends or carries you. |
-| 5th | [[rangoric-srd/spells/Insect Plague\|Insect Plague]] | Locust swarms attack creatures. |
-| 6th | [[rangoric-srd/spells/Fester, Mass\|Mass Fester]] (M) | As fester, but affecting multiple targets. |
-| 7th | [[rangoric-srd/spells/Animate Plants\|Animate Plants]] | One or more plants animate and fight for you. |
-| 8th | [[rangoric-srd/spells/Blood Mist\|Blood Mist]] (M) | Mist causes Wisdom damage and rage. |
-| 9th | [[rangoric-srd/spells/Shambler\|Shambler]] | Summons 1d4+2 shambling mounds to fight for you. |
+| Level | Spell                                                        | Brief Description                                |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------ |
+| 1st   | [[rangoric-srd/spells/Hydraulic Push\|Hydraulic Push]]       | Wave of water bull rushes an enemy.              |
+| 2nd   | [[rangoric-srd/spells/Burst of Nettles\|Burst of Nettles]]   | Burst deals 3d6 damage and 1d6 acid.             |
+| 3rd   | [[rangoric-srd/spells/Lily Pad Stride\|Lily Pad Stride]] (M) | Walk across water on moving lily pads.           |
+| 4th   | [[rangoric-srd/spells/Cape of Wasps\|Cape of Wasps]]         | Wasp swarm defends or carries you.               |
+| 5th   | [[rangoric-srd/spells/Insect Plague\|Insect Plague]]         | Locust swarms attack creatures.                  |
+| 6th   | [[rangoric-srd/spells/Fester, Mass\|Mass Fester]] (M)        | As fester, but affecting multiple targets.       |
+| 7th   | [[rangoric-srd/spells/Animate Plants\|Animate Plants]]       | One or more plants animate and fight for you.    |
+| 8th   | [[rangoric-srd/spells/Blood Mist\|Blood Mist]] (M)           | Mist causes Wisdom damage and rage.              |
+| 9th   | [[rangoric-srd/spells/Shambler\|Shambler]]                   | Summons 1d4+2 shambling mounds to fight for you. |

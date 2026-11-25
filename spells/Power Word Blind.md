@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Power Word Blind
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Mes 6, Psy 7, Sor/Wiz 7, War 7, Wit 7
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature with 200 hp or less
-  - **Duration**: See text
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Mes 6, Psy 7, Sor/Wiz 7, War 7, Wit 7
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature with 200 hp or less
+- **Duration**: See text
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 You utter a single word of power that causes one creature of your choice to become [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]], whether the creature can hear the word or not. The duration of the spell depends on the target’s current hit point total. Any creature that currently has 201 or more hit points is unaffected by power word blind.
 

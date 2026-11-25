@@ -28,4 +28,4 @@ This surprisingly ornate and heavy volume is more than three-quarters empty. Tig
 
 ## Spells
 
-- **1st**: *[[rangoric-srd/spells/Burning Hands|burning hands]]*, *[[rangoric-srd/spells/Detect Undead|detect undead]]*, *[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]*, *[[rangoric-srd/spells/Magic Missile|magic missile]]*, *[[rangoric-srd/spells/Protection from Evil|protection from evil]]*<sup>S</sup>, *[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]*, *[[rangoric-srd/spells/Shield|shield]]*<sup>S</sup>
+- **1st**: _[[rangoric-srd/spells/Burning Hands|burning hands]]_, _[[rangoric-srd/spells/Detect Undead|detect undead]]_, _[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Protection from Evil|protection from evil]]_<sup>S</sup>, _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_, _[[rangoric-srd/spells/Shield|shield]]_<sup>S</sup>

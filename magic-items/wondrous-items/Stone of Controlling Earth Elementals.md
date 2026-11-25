@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 A stone of this nature is typically an oddly shaped bit of roughly polished rock. The possessor of such a stone need but utter a few words of summoning, and a Huge earth elemental comes to the summoner. The summoning words require 1 full round to speak, and in all ways the stone functions as the summon monster VII spell. (If sand or rough, unhewn stone is the summoning medium, the elemental that comes is Large instead, and the stone functions as the summon monster VI spell.) The elemental appears in 1d4 rounds. Only one elemental can be summoned at a time. A new elemental requires a new patch of earth or stone, which cannot be accessed until after the first elemental disappears (is dispelled, dismissed, or slain).
 
-The *[[rangoric-srd/magic-items/wondrous-items/Stone of Conjuring Earth Elementals|stone of conjuring earth elementals]]* is a lesser version of this item, calling its elementals as weaker summoning spells for a lower price.
+The _[[rangoric-srd/magic-items/wondrous-items/Stone of Conjuring Earth Elementals|stone of conjuring earth elementals]]_ is a lesser version of this item, calling its elementals as weaker summoning spells for a lower price.
 
 Strong conjuration; CL 13th; Craft Wondrous Item, summon monster VI, summon monster VII; Price 100,000 gp;Weight 5 lb.

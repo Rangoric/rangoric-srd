@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Deadeye
 
-*A [[rangoric-srd/classes/Gunslinger#^gunslinger-deeds|gunslinger deed]] (Ex), 1st level.*
+_A [[rangoric-srd/classes/Gunslinger#^gunslinger-deeds|gunslinger deed]] (Ex), 1st level._
 
 At 1st level, the gunslinger can resolve an attack against touch AC instead of normal AC when firing beyond her firearm's first [[rangoric-srd/equipment/Firearms#Range and Penetration|range increment]]. Performing this deed costs 1 grit point per range increment beyond the first. The gunslinger still takes the –2 penalty on attack rolls for each range increment beyond the first when she performs this deed.

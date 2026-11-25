@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Skilled
 
-*A 1-point evolution (Ex) for a [[rangoric-srd/classes/Summoner|summoner]]’s or [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon.*
+_A 1-point evolution (Ex) for a [[rangoric-srd/classes/Summoner|summoner]]’s or [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon._
 
 An eidolon becomes especially adept at a specific skill, gaining a +8 racial bonus on that skill. This evolution can be selected more than once. Its effects do not stack. Each time an eidolon selects this evolution, it applies to a different skill.

@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 
 # Dirk
 
-*Simple light melee weapon.* Cost 2 gp; Dmg 1d3 (S), 1d4 (M); Critical 19-20/x2; Weight 1 lb.; Type Piercing. ^stats
+_Simple light melee weapon._ Cost 2 gp; Dmg 1d3 (S), 1d4 (M); Critical 19-20/x2; Weight 1 lb.; Type Piercing. ^stats
 
 One of the most utilitarian of all weapons, the dirk is the most common weapon of many impoverished areas. It is a single-edged blade twelve to eighteen inches long with a carved handle and no cross guard. In combat, it is normally used in a back-handed grip. A dirk functions as a dagger, except for its size and its ability to be used in the same hand as a targe shield. See the description of the targe in the **Shields** section for special rules.

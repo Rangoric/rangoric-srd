@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat]
 
 # Sidestep Charge
 
-You are skilled at dodging past charging opponents and taking advantage when they miss.  
+You are skilled at dodging past charging opponents and taking advantage when they miss.
 
 Prerequisite: Dex 13, [[rangoric-srd/feats/Dodge|Dodge]].
 

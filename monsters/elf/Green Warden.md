@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Green Warden
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf)
-  - **Hit Dice**: 5d10+2d6+2d10 (51 hp)
-  - **Initiative**: +5
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 19 (+4 armor, +5 Dex), touch 15, flat-footed 14
-  - **Base Attack**: +8; **CMB**: +10; **CMD**: 25
-  - **Attack**: +2 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +14 melee (1d6+4/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +18 ranged (1d8+5/×3)
-  - **Full Attack**: +2 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +14/+9 melee (1d6+4/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +18/+13 ranged (1d8+5/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/prestige-classes/Arcane Archer|Enhance arrows]] (magic), [[rangoric-srd/prestige-classes/Arcane Archer|imbue arrow]], [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (bows +1)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] (masterwork composite longbow), [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/class-options/arcane-schools/Conjuration School|summoner's charm]] (1 round), [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic (ranged weapon attack only; 30 points), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
-  - **Saves**: Fort +9, Ref +11, Will +9 (+2 vs. enchantments, +1 vs. fear)
-  - **Abilities**: Str 14, Dex 21, Con 10, Int 12, Wis 13, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +14
-  - **Feats**: [[rangoric-srd/feats/Arcane Armor Training|Arcane Armor Training]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Manyshot|Manyshot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longbow), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (longbow)
-  - **Environment**: Temperate forest
-  - **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
-  - **Challenge Rating**: 8
-  - **Treasure**: NPC gear (combat gear: +1 frost arrows (5), +1 human-bane arrows (5), +1 shock arrows (5), potion of cure moderate wounds, scroll of heroism, scrolls of invisibility (2), scroll of protection from arrows; other gear: +1 studded leather, +2 short sword, masterwork composite longbow with 50 arrows, belt of incredible dexterity +2, spell component pouch, spellbook, 165 gp)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Elf)
+- **Hit Dice**: 5d10+2d6+2d10 (51 hp)
+- **Initiative**: +5
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 19 (+4 armor, +5 Dex), touch 15, flat-footed 14
+- **Base Attack**: +8; **CMB**: +10; **CMD**: 25
+- **Attack**: +2 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +14 melee (1d6+4/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +18 ranged (1d8+5/×3)
+- **Full Attack**: +2 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +14/+9 melee (1d6+4/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +18/+13 ranged (1d8+5/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/prestige-classes/Arcane Archer|Enhance arrows]] (magic), [[rangoric-srd/prestige-classes/Arcane Archer|imbue arrow]], [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (bows +1)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] (masterwork composite longbow), [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/class-options/arcane-schools/Conjuration School|summoner's charm]] (1 round), [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic (ranged weapon attack only; 30 points), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
+- **Saves**: Fort +9, Ref +11, Will +9 (+2 vs. enchantments, +1 vs. fear)
+- **Abilities**: Str 14, Dex 21, Con 10, Int 12, Wis 13, Cha 8
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +14
+- **Feats**: [[rangoric-srd/feats/Arcane Armor Training|Arcane Armor Training]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Manyshot|Manyshot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longbow), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (longbow)
+- **Environment**: Temperate forest
+- **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])
+- **Challenge Rating**: 8
+- **Treasure**: NPC gear (combat gear: +1 frost arrows (5), +1 human-bane arrows (5), +1 shock arrows (5), potion of cure moderate wounds, scroll of heroism, scrolls of invisibility (2), scroll of protection from arrows; other gear: +1 studded leather, +2 short sword, masterwork composite longbow with 50 arrows, belt of incredible dexterity +2, spell component pouch, spellbook, 165 gp)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A green warden is an [[rangoric-srd/monsters/elf/Elf|elf]] with 5 levels of [[rangoric-srd/classes/Fighter|fighter]] and 2 levels of [[rangoric-srd/classes/Wizard|wizard]] (the [[rangoric-srd/class-options/arcane-schools/Conjuration School|conjuration]] school) and 2 levels of [[rangoric-srd/prestige-classes/Arcane Archer|arcane archer]]. Protectors of the forest, green wardens are sworn to defend their sylvan homes from enemy encroachment, using magic arrows to kill from the trees' canopy.
 
@@ -77,4 +77,4 @@ A green warden speaks Common, Elven, and Goblin.
 
 **Conjurer Spell-Like Abilities** (CL 3rd; concentration +4): 4/day—[[rangoric-srd/class-options/arcane-schools/Conjuration School|acid dart]].
 
-**Conjurer spells prepared** (CL 3rd; concentration +4; arcane spell failure 15%): 2nd—*[[rangoric-srd/spells/Glitterdust|glitterdust]]* (DC 13), *[[rangoric-srd/spells/Web|web]]* (DC 13); 1st—*[[rangoric-srd/spells/Burning Hands|burning hands]]* (2, DC 12), *[[rangoric-srd/spells/Color Spray|color spray]]* (2, DC 12); 0 (at will)—*[[rangoric-srd/spells/Bleed|bleed]]* (DC 11), *[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Ghost Sound|ghost sound]]* (DC 11), *[[rangoric-srd/spells/Mage Hand|mage hand]]*; **Opposition Schools**: [[rangoric-srd/class-options/arcane-schools/Divination School|divination]], [[rangoric-srd/class-options/arcane-schools/Necromancy School|necromancy]].
+**Conjurer spells prepared** (CL 3rd; concentration +4; arcane spell failure 15%): 2nd—_[[rangoric-srd/spells/Glitterdust|glitterdust]]_ (DC 13), _[[rangoric-srd/spells/Web|web]]_ (DC 13); 1st—_[[rangoric-srd/spells/Burning Hands|burning hands]]_ (2, DC 12), _[[rangoric-srd/spells/Color Spray|color spray]]_ (2, DC 12); 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 11), _[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 11), _[[rangoric-srd/spells/Mage Hand|mage hand]]_; **Opposition Schools**: [[rangoric-srd/class-options/arcane-schools/Divination School|divination]], [[rangoric-srd/class-options/arcane-schools/Necromancy School|necromancy]].

@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Rest Eternal
 
-*Necromancy \[Curse\]*
+_Necromancy \[Curse\]_
 
-  - **Level**: Clr 4, Drd 5, Hun 5, Sha 5, Wit 5
-  - **Components**: V, S, M/DF (ashes and a vial of holy or unholy water)
-  - **Casting Time**: 1 round
-  - **Range**: Touch
-  - **Target**: One dead creature touched
-  - **Duration**: Permanent
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Clr 4, Drd 5, Hun 5, Sha 5, Wit 5
+- **Components**: V, S, M/DF (ashes and a vial of holy or unholy water)
+- **Casting Time**: 1 round
+- **Range**: Touch
+- **Target**: One dead creature touched
+- **Duration**: Permanent
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-You place a curse upon a dead creature that bars its spirit from returning. Anyone casting a spell that would communicate with the dead creature, return it to life, or turn it into an undead creature must succeed on a caster level check with a DC of 11 plus your caster level. *Rest eternal* cannot be dispelled, but it can be negated with *[[rangoric-srd/spells/Remove Curse|remove curse]]* or *[[rangoric-srd/spells/Break Enchantment|break enchantment]]*.
+You place a curse upon a dead creature that bars its spirit from returning. Anyone casting a spell that would communicate with the dead creature, return it to life, or turn it into an undead creature must succeed on a caster level check with a DC of 11 plus your caster level. _Rest eternal_ cannot be dispelled, but it can be negated with _[[rangoric-srd/spells/Remove Curse|remove curse]]_ or _[[rangoric-srd/spells/Break Enchantment|break enchantment]]_.

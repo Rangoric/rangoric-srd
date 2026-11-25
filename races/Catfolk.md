@@ -46,17 +46,17 @@ Bonus Languages:
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 15 years | +1d4 | +1d6 | +2d6 |
+| --------- | --------- | ----------- | ------- |
+| 15 years  | +1d4      | +1d6        | +2d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 35 years | 53 years | 70 years | +2d20 years |
+| Middle Age | Old      | Venerable | Maximum Age |
+| ---------- | -------- | --------- | ----------- |
+| 35 years   | 53 years | 70 years  | +2d20 years |
 
-| Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 4 ft. 10 in. | +2d8 | 120 lb. | × 5 lb. |
-| Female | 4 ft. 5 in. | +2d8 | 85 lb. | × 5 lb. |
+| Gender | Base Height  | Height Modifier | Base Weight | Weight Modifier |
+| ------ | ------------ | --------------- | ----------- | --------------- |
+| Male   | 4 ft. 10 in. | +2d8            | 120 lb.     | × 5 lb.         |
+| Female | 4 ft. 5 in.  | +2d8            | 85 lb.      | × 5 lb.         |
 
 ### Description
 
@@ -78,13 +78,13 @@ Catfolk prefer to be led by their most competent members, usually a council of s
 
 A catfolk can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Cat's Claws\|Cat's Claws]] | Natural hunter |
-| [[rangoric-srd/races/racial-traits/Clever Cat\|Clever Cat]] | Natural hunter |
-| [[rangoric-srd/races/racial-traits/Climber\|Climber]] | Sprinter |
-| [[rangoric-srd/races/racial-traits/Curiosity\|Curiosity]] | Natural hunter |
-| [[rangoric-srd/races/racial-traits/Nimble Faller\|Nimble Faller]] | Sprinter |
+| Trait                                                             | Replaces         |
+| ----------------------------------------------------------------- | ---------------- |
+| [[rangoric-srd/races/racial-traits/Cat's Claws\|Cat's Claws]]     | Natural hunter   |
+| [[rangoric-srd/races/racial-traits/Clever Cat\|Clever Cat]]       | Natural hunter   |
+| [[rangoric-srd/races/racial-traits/Climber\|Climber]]             | Sprinter         |
+| [[rangoric-srd/races/racial-traits/Curiosity\|Curiosity]]         | Natural hunter   |
+| [[rangoric-srd/races/racial-traits/Nimble Faller\|Nimble Faller]] | Sprinter         |
 | [[rangoric-srd/races/racial-traits/Scent (Catfolk Trait)\|Scent]] | Low-light vision |
 
 ### Class Bonuses
@@ -97,7 +97,7 @@ A catfolk gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
-| [[rangoric-srd/class-options/archetypes/monk/Nimble Guardian (Archetype)\|Nimble Guardian]] | [[rangoric-srd/classes/Monk\|Monk]] |
-| [[rangoric-srd/class-options/archetypes/rogue/Cat Burglar (Archetype)\|Cat Burglar]] | [[rangoric-srd/classes/Rogue\|Rogue]] |
+| Archetype                                                                                   | Class                                 |
+| ------------------------------------------------------------------------------------------- | ------------------------------------- |
+| [[rangoric-srd/class-options/archetypes/monk/Nimble Guardian (Archetype)\|Nimble Guardian]] | [[rangoric-srd/classes/Monk\|Monk]]   |
+| [[rangoric-srd/class-options/archetypes/rogue/Cat Burglar (Archetype)\|Cat Burglar]]        | [[rangoric-srd/classes/Rogue\|Rogue]] |

@@ -19,11 +19,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Weapon Master
 
-*A [[rangoric-srd/classes/Fighter#^fighter-archetypes|fighter]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Fighter#^fighter-archetypes|fighter]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Devoted to the perfection of a single weapon, the weapon master's meditations upon his favored weapon border on the obsessive, but none can deny his consummate skill. The weapon master must select a single type of weapon (such as longsword or shortbow). All of his abilities apply to that weapon type.
 
-**Weapon Guard (Ex)**: At 2nd level, a weapon master gains a +1 bonus to [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] against [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] and [[rangoric-srd/combat/Combat Maneuvers#Sunder|sunder]] attempts while wielding his chosen weapon. This bonus also applies on saves against any effect that targets his chosen weapon (for example, *[[rangoric-srd/spells/Grease|grease]]*, *[[rangoric-srd/spells/Heat Metal|heat metal]]*, *[[rangoric-srd/spells/Shatter|shatter]]*, *[[rangoric-srd/spells/Warp Wood|warp wood]]*). The bonus increases by +1 for every four levels beyond 2nd. This ability replaces [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]].
+**Weapon Guard (Ex)**: At 2nd level, a weapon master gains a +1 bonus to [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] against [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] and [[rangoric-srd/combat/Combat Maneuvers#Sunder|sunder]] attempts while wielding his chosen weapon. This bonus also applies on saves against any effect that targets his chosen weapon (for example, _[[rangoric-srd/spells/Grease|grease]]_, _[[rangoric-srd/spells/Heat Metal|heat metal]]_, _[[rangoric-srd/spells/Shatter|shatter]]_, _[[rangoric-srd/spells/Warp Wood|warp wood]]_). The bonus increases by +1 for every four levels beyond 2nd. This ability replaces [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]].
 
 **Weapon Training (Ex)**: At 3rd level, a weapon master gains a +1 bonus on attack and damage rolls with his chosen weapon. The bonus improves by +1 for every four levels beyond 3rd. This ability replaces [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, 2, 3, and 4.
 

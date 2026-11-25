@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/spears, weapon-group/thrown]
 
 # Elven Light Spear
 
-*Exotic one-handed melee weapon.* Cost 15 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Range Increment 20 ft.; Weight 4 lb.; Type Piercing. ^stats
+_Exotic one-handed melee weapon._ Cost 15 gp; Dmg 1d6 (S), 1d8 (M); Critical x2; Range Increment 20 ft.; Weight 4 lb.; Type Piercing. ^stats
 
 Essentially a shortspear with a longer, thinner blade, the elven light spear is quick and deadly in the hands of a skilled wielder. Those not trained in its use find it unbalanced and encumbering. Experts favor this weapon because they can wield it effectively and yet carry a shield in their off-hand. Martial artists and monks can wield light elven spears in their off-hands as if they were light weapons.
 

@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Shadow's Speed
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 The vigilante’s base speed increases by 10 feet.
 

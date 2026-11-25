@@ -44,11 +44,11 @@ Aggressive, brutal, and often at odds with the other humanoid races, orcs view w
 
 **Table: The Orc Paragon**
 
-| Level | Special                                                                                                                                                     |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Level | Special                                                                                                                            |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | 1st   | [[#^orc-paragon-improved-darkvision\|Improved darkvision]] (+30 ft.), [[#^orc-paragon-no-light-sensitivity\|no light sensitivity]] |
-| 2nd   | [[#^orc-paragon-elf-slayer\|Elf slayer]]                                                                                              |
-| 3rd   | [[#^orc-paragon-ability-boost\|Ability boost]] (Str +2)                                                                                                |
+| 2nd   | [[#^orc-paragon-elf-slayer\|Elf slayer]]                                                                                           |
+| 3rd   | [[#^orc-paragon-ability-boost\|Ability boost]] (Str +2)                                                                            |
 
 Orc paragons have the following game statistics.
 

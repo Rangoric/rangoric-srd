@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Divine Weave
 
-This armor is exactly like *[[rangoric-srd/magic-items/armor/Arcane Weave|arcane weave]]* armor except it casts divine spells.
+This armor is exactly like _[[rangoric-srd/magic-items/armor/Arcane Weave|arcane weave]]_ armor except it casts divine spells.
 
-Strong evocation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Read Magic|read magic]]*, *[[rangoric-srd/spells/Magic Mouth|magic mouth]]*, creator must have the [[rangoric-srd/feats/Combat Casting|Combat Casting]] feat; Price 23,850 gp; Cost 11,925 gp + 954 XP.
+Strong evocation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Read Magic|read magic]]_, _[[rangoric-srd/spells/Magic Mouth|magic mouth]]_, creator must have the [[rangoric-srd/feats/Combat Casting|Combat Casting]] feat; Price 23,850 gp; Cost 11,925 gp + 954 XP.

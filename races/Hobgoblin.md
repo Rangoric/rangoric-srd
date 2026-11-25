@@ -47,17 +47,17 @@ Level Adjustment: +1 (see [[rangoric-srd/monsters/Monsters as Races#^level-adjus
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 14 years | +1d4 | +1d6 | +2d6 |
+| --------- | --------- | ----------- | ------- |
+| 14 years  | +1d4      | +1d6        | +2d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 30 years | 45 years | 60 years | +2d10 years |
+| Middle Age | Old      | Venerable | Maximum Age |
+| ---------- | -------- | --------- | ----------- |
+| 30 years   | 45 years | 60 years  | +2d10 years |
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 4 ft. 2 in. | +2d8 | 165 lb. | × 5 lb. |
-| Female | 4 ft. 0 in. | +2d8 | 145 lb. | × 5 lb. |
+| ------ | ----------- | --------------- | ----------- | --------------- |
+| Male   | 4 ft. 2 in. | +2d8            | 165 lb.     | × 5 lb.         |
+| Female | 4 ft. 0 in. | +2d8            | 145 lb.     | × 5 lb.         |
 
 ### Description
 
@@ -77,17 +77,17 @@ Fierce and militaristic, hobgoblins survive by conquest. The raw materials to fu
 
 A hobgoblin can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Bandy-Legged\|Bandy-Legged]] | Normal speed |
-| [[rangoric-srd/races/racial-traits/Battle-Hardened\|Battle-Hardened]] | Sneaky |
-| [[rangoric-srd/races/racial-traits/Engineer\|Engineer]] | Sneaky |
-| [[rangoric-srd/races/racial-traits/Fearsome\|Fearsome]] | Sneaky |
-| [[rangoric-srd/races/racial-traits/Magehunter\|Magehunter]] | Sneaky |
-| [[rangoric-srd/races/racial-traits/Pit Boss\|Pit Boss]] | Sneaky |
-| [[rangoric-srd/races/racial-traits/Scarred\|Scarred]] | Darkvision |
-| [[rangoric-srd/races/racial-traits/Slave Hunter\|Slave Hunter]] | Sneaky |
-| [[rangoric-srd/races/racial-traits/Unfit\|Unfit]] | Sneaky |
+| Trait                                                                 | Replaces     |
+| --------------------------------------------------------------------- | ------------ |
+| [[rangoric-srd/races/racial-traits/Bandy-Legged\|Bandy-Legged]]       | Normal speed |
+| [[rangoric-srd/races/racial-traits/Battle-Hardened\|Battle-Hardened]] | Sneaky       |
+| [[rangoric-srd/races/racial-traits/Engineer\|Engineer]]               | Sneaky       |
+| [[rangoric-srd/races/racial-traits/Fearsome\|Fearsome]]               | Sneaky       |
+| [[rangoric-srd/races/racial-traits/Magehunter\|Magehunter]]           | Sneaky       |
+| [[rangoric-srd/races/racial-traits/Pit Boss\|Pit Boss]]               | Sneaky       |
+| [[rangoric-srd/races/racial-traits/Scarred\|Scarred]]                 | Darkvision   |
+| [[rangoric-srd/races/racial-traits/Slave Hunter\|Slave Hunter]]       | Sneaky       |
+| [[rangoric-srd/races/racial-traits/Unfit\|Unfit]]                     | Sneaky       |
 
 ### Subtypes
 
@@ -105,7 +105,7 @@ A hobgoblin gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonus
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
-| [[rangoric-srd/class-options/archetypes/cavalier/Fell Rider (Archetype)\|Fell Rider]] | [[rangoric-srd/classes/Cavalier\|Cavalier]] |
-| [[rangoric-srd/class-options/archetypes/monk/Ironskin Monk (Archetype)\|Ironskin Monk]] | [[rangoric-srd/classes/Monk\|Monk]] |
+| Archetype                                                                               | Class                                       |
+| --------------------------------------------------------------------------------------- | ------------------------------------------- |
+| [[rangoric-srd/class-options/archetypes/cavalier/Fell Rider (Archetype)\|Fell Rider]]   | [[rangoric-srd/classes/Cavalier\|Cavalier]] |
+| [[rangoric-srd/class-options/archetypes/monk/Ironskin Monk (Archetype)\|Ironskin Monk]] | [[rangoric-srd/classes/Monk\|Monk]]         |

@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Unsworn Shaman
 
-*A [[rangoric-srd/classes/Shaman#^shaman-archetypes|shaman]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Shaman#^shaman-archetypes|shaman]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 An unsworn shaman never binds herself to one specific spirit, always making new deals as she deems necessary for the circumstances that she finds herself in. While this weakens the powers she can access from any one spirit, it gives her access to a broader overall range of abilities.
 

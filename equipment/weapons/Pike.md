@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/spears]
 
 # Pike
 
-*Martial two-handed melee weapon.* Cost 7 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 13 lb.; Type Piercing. ^stats
+_Martial two-handed melee weapon._ Cost 7 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 13 lb.; Type Piercing. ^stats
 
 The pike has the longest reach of any weapon available to Medium sized creatures, but its unwieldy nature makes it a weapon more suited to armies than adventurers. Pikes are typically used in a battle formation where the first rank has tower shields, the second has a polearm of some type, and the third is equipped with pikes. Missile troops are usually placed behind the pikemen.
 

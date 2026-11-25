@@ -26,7 +26,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Ironskin Monk
 
-*A [[rangoric-srd/classes/Monk#^monk-archetypes|monk]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Hobgoblin|hobgoblins]].*
+_A [[rangoric-srd/classes/Monk#^monk-archetypes|monk]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Hobgoblin|hobgoblins]]._
 
 Through discipline and training, an ironskin monk hardens his body to withstand punishing blows. Though slow on his feet, his calloused hands and feet can shatter stone and stagger foes.
 
@@ -36,9 +36,9 @@ Through discipline and training, an ironskin monk hardens his body to withstand 
 
 **Resilience (Ex)**: At 2nd level, an ironskin monk can shake off the physical effects of certain attacks. If he makes a Fortitude saving throw against an attack that has a reduced effect on a successful save, he instead avoids the effect entirely. This ability can be used only if the monk is wearing light armor or no armor. A [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] monk does not gain the benefits of resilience. This ability replaces [[rangoric-srd/classes/Monk#^monk-evasion|evasion]].
 
-**Ki Pool (Su)**: At 4th level, an ironskin monk can spend 1 point from his *ki* pool to gain a damage bonus equal to 1/2 his level against objects and constructs for 1 round. This replaces the ability to increase speed with [[rangoric-srd/classes/Monk#^monk-ki-pool|*ki*]].
+**Ki Pool (Su)**: At 4th level, an ironskin monk can spend 1 point from his _ki_ pool to gain a damage bonus equal to 1/2 his level against objects and constructs for 1 round. This replaces the ability to increase speed with [[rangoric-srd/classes/Monk#^monk-ki-pool|*ki*]].
 
-**Staggering Blow (Ex)**: At 5th level, an ironskin monk attacking with an unarmed strike can spend 1 point from his *ki* pool as a free action after a successful critical hit to [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|stagger]] the creature struck for 1 round (Fort DC 10 + 1/2 the ironskin monk's level + the ironskin monk's Wisdom modifier negates). This ability replaces [[rangoric-srd/classes/Monk#^monk-high-jump|high jump]].
+**Staggering Blow (Ex)**: At 5th level, an ironskin monk attacking with an unarmed strike can spend 1 point from his _ki_ pool as a free action after a successful critical hit to [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|stagger]] the creature struck for 1 round (Fort DC 10 + 1/2 the ironskin monk's level + the ironskin monk's Wisdom modifier negates). This ability replaces [[rangoric-srd/classes/Monk#^monk-high-jump|high jump]].
 
 **Tough as Nails (Ex)**: At 6th level, an ironskin monk gains [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|DR]] 1/—. Subtract 1 point from the damage the ironskin monk takes each time he is dealt damage from a weapon or a natural attack. This damage reduction increases by 1 point at 9th level and every 3 levels thereafter. Damage reduction can reduce damage to 0 but not below 0. This ability replaces [[rangoric-srd/classes/Monk#^monk-fast-movement|fast movement]] and [[rangoric-srd/classes/Monk#^monk-slow-fall|slow fall]].
 

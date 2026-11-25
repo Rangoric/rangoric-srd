@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes]
 
 # Rafter's Pick
 
-*Martial one-handed melee weapon.* Cost 250 gp; Dmg 1d3 (S), 1d4 (M); Critical x4; Weight 8 lb.; Type Piercing. ^stats
+_Martial one-handed melee weapon._ Cost 250 gp; Dmg 1d3 (S), 1d4 (M); Critical x4; Weight 8 lb.; Type Piercing. ^stats
 
 This weapon’s primary function is as a tool useful for climbing and exploring. In its normal form, it resembles a small pick or ice axe and can be used either for climbing or for digging through soft earth and rockfalls.
 

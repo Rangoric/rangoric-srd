@@ -56,17 +56,17 @@ Paragon Class: [[rangoric-srd/classes/Halfling Paragon|Halfling Paragon]]
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 20 years | +2d4 | +3d6 | +4d6 |
+| --------- | --------- | ----------- | ------- |
+| 20 years  | +2d4      | +3d6        | +4d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 50 years | 75 years | 100 years | +5d20 years |
+| Middle Age | Old      | Venerable | Maximum Age |
+| ---------- | -------- | --------- | ----------- |
+| 50 years   | 75 years | 100 years | +5d20 years |
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 2 ft. 8 in. | +2d4 | 30 lb. | × 1 lb. |
-| Female | 2 ft. 6 in. | +2d4 | 25 lb. | × 1 lb. |
+| ------ | ----------- | --------------- | ----------- | --------------- |
+| Male   | 2 ft. 8 in. | +2d4            | 30 lb.      | × 1 lb.         |
+| Female | 2 ft. 6 in. | +2d4            | 25 lb.      | × 1 lb.         |
 
 ### Description
 
@@ -120,21 +120,21 @@ Other such vagabonds often put up with this curious race in hopes that some of t
 
 A halfling can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]). A trait that replaces sure-footed replaces only its Acrobatics and Athletics bonus; the +2 on Stealth stays.
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Adaptable Luck\|Adaptable Luck]] | Halfling luck |
-| [[rangoric-srd/races/racial-traits/Craven\|Craven]] | Fearless and halfling luck |
-| [[rangoric-srd/races/racial-traits/Fleet of Foot\|Fleet of Foot]] | Slow speed and sure-footed (Acrobatics and Athletics only) |
-| [[rangoric-srd/races/racial-traits/Ingratiating\|Ingratiating]] | Keen senses and sure-footed (Acrobatics and Athletics only) |
-| [[rangoric-srd/races/racial-traits/Low Blow\|Low Blow]] | Keen senses |
-| [[rangoric-srd/races/racial-traits/Outrider\|Outrider]] | Sure-footed (Acrobatics and Athletics only) |
-| [[rangoric-srd/races/racial-traits/Polyglot\|Polyglot]] | Keen senses, and changes languages |
-| [[rangoric-srd/races/racial-traits/Practicality\|Practicality]] | Fearless and sure-footed (Acrobatics and Athletics only) |
-| [[rangoric-srd/races/racial-traits/Shiftless\|Shiftless]] | Sure-footed (Acrobatics and Athletics only) |
-| [[rangoric-srd/races/racial-traits/Swift as Shadows\|Swift as Shadows]] | Sure-footed (Acrobatics and Athletics only) |
-| [[rangoric-srd/races/racial-traits/Underfoot\|Underfoot]] | Halfling luck |
-| [[rangoric-srd/races/racial-traits/Wanderlust\|Wanderlust]] | Fearless and halfling luck |
-| [[rangoric-srd/races/racial-traits/Warslinger\|Warslinger]] | Sure-footed (Acrobatics and Athletics only) |
+| Trait                                                                   | Replaces                                                    |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [[rangoric-srd/races/racial-traits/Adaptable Luck\|Adaptable Luck]]     | Halfling luck                                               |
+| [[rangoric-srd/races/racial-traits/Craven\|Craven]]                     | Fearless and halfling luck                                  |
+| [[rangoric-srd/races/racial-traits/Fleet of Foot\|Fleet of Foot]]       | Slow speed and sure-footed (Acrobatics and Athletics only)  |
+| [[rangoric-srd/races/racial-traits/Ingratiating\|Ingratiating]]         | Keen senses and sure-footed (Acrobatics and Athletics only) |
+| [[rangoric-srd/races/racial-traits/Low Blow\|Low Blow]]                 | Keen senses                                                 |
+| [[rangoric-srd/races/racial-traits/Outrider\|Outrider]]                 | Sure-footed (Acrobatics and Athletics only)                 |
+| [[rangoric-srd/races/racial-traits/Polyglot\|Polyglot]]                 | Keen senses, and changes languages                          |
+| [[rangoric-srd/races/racial-traits/Practicality\|Practicality]]         | Fearless and sure-footed (Acrobatics and Athletics only)    |
+| [[rangoric-srd/races/racial-traits/Shiftless\|Shiftless]]               | Sure-footed (Acrobatics and Athletics only)                 |
+| [[rangoric-srd/races/racial-traits/Swift as Shadows\|Swift as Shadows]] | Sure-footed (Acrobatics and Athletics only)                 |
+| [[rangoric-srd/races/racial-traits/Underfoot\|Underfoot]]               | Halfling luck                                               |
+| [[rangoric-srd/races/racial-traits/Wanderlust\|Wanderlust]]             | Fearless and halfling luck                                  |
+| [[rangoric-srd/races/racial-traits/Warslinger\|Warslinger]]             | Sure-footed (Acrobatics and Athletics only)                 |
 
 ### Race Traits
 
@@ -171,8 +171,8 @@ A halfling gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuse
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
+| Archetype                                                                                           | Class                                   |
+| --------------------------------------------------------------------------------------------------- | --------------------------------------- |
 | [[rangoric-srd/class-options/archetypes/oracle/Community Guardian (Archetype)\|Community Guardian]] | [[rangoric-srd/classes/Oracle\|Oracle]] |
-| [[rangoric-srd/class-options/archetypes/monk/Underfoot Adept (Archetype)\|Underfoot Adept]] | [[rangoric-srd/classes/Monk\|Monk]] |
-| [[rangoric-srd/class-options/archetypes/rogue/Filcher (Archetype)\|Filcher]] | [[rangoric-srd/classes/Rogue\|Rogue]] |
+| [[rangoric-srd/class-options/archetypes/monk/Underfoot Adept (Archetype)\|Underfoot Adept]]         | [[rangoric-srd/classes/Monk\|Monk]]     |
+| [[rangoric-srd/class-options/archetypes/rogue/Filcher (Archetype)\|Filcher]]                        | [[rangoric-srd/classes/Rogue\|Rogue]]   |

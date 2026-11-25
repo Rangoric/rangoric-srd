@@ -29,7 +29,7 @@ Manifesting Time: 1 standard action
 Range: Personal  
 Target: You  
 Duration: 1 round/level  
-Power Points: 7  
+Power Points: 7
 
 If you have a claw attack (either from an actual natural weapon or from an effect such as [[rangoric-srd/powers/Claws of the Beast|claws of the beast]]), you can use this power to energize that weapon. The claw attack deals an extra 1d6 points of cold, electricity, or fire damage (as chosen by you at the time of manifestation) on a successful hit. On a critical hit, it deals an extra 1d10 points of energy damage. If the claw’s critical multiplier is x3, add 2d10 points of energy damage instead; if the multiplier is x4, add 3d10 points of energy damage.
 

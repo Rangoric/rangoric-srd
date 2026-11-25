@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Stag
 
-*An [[rangoric-srd/classes/Hunter#^hunter-animal-focus|animal focus]] (Su).*
+_An [[rangoric-srd/classes/Hunter#^hunter-animal-focus|animal focus]] (Su)._
 
 The creature gains a 5-foot enhancement bonus to its base land speed. This bonus increases to 10 feet at 8th level and 20 feet at 15th level.

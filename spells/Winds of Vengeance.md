@@ -28,14 +28,14 @@ tags: [rangoric, rangoric/spell]
 
 # Winds of Vengeance
 
-*Evocation \[Air\]*
+_Evocation \[Air\]_
 
-  - **Level**: Clr 9, Drd 9, Sha 9, Sor/Wiz 9
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 minute/level
+- **Level**: Clr 9, Drd 9, Sha 9, Sor/Wiz 9
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 minute/level
 
 You surround yourself with a buffeting shroud of supernatural, tornado-force winds. These winds grant you a fly speed of 60 feet with perfect maneuverability. Neither your armor nor your load affects this fly speed. The winds shield you from any other wind effects, and form a shell of breathable air around you, allowing you to fly and breathe underwater or in outer space. Ranged weapons (including giant-thrown boulders, [[rangoric-srd/rules/Siege Engines|siege weapon]] projectiles, and other massive ranged weapons) passing through the winds are deflected by the winds and automatically miss you. Gases and most gaseous breath weapons cannot pass though the winds.
 

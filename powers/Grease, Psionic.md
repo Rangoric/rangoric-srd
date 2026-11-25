@@ -31,7 +31,7 @@ Target or **Area:** One object or a 10-ft. square
 **Duration:** 1 round/level (D)  
 **Saving Throw:** See spell text  
 **Power Resistance:** No  
-**Power Points:** 1  
+**Power Points:** 1
 
 As the [[rangoric-srd/spells/Grease|grease]] spell, except as noted here.
 

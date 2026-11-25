@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This digest-sized book contains a seemingly random collection of words, phrases, and strange mnemonic aids. Three times each day, a [[rangoric-srd/classes/Bard|bard]] can consult it while using the [[rangoric-srd/classes/Bard#^bard-lore-master|lore master]] class feature in order to gain a +5 competence bonus when taking 10 or taking 20 on a [[rangoric-srd/skills/Knowledge|Knowledge]] check.
 
-Moderate divination; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]*; Price 15,000 gp; Cost 7,500 gp; Weight 2 lbs.
+Moderate divination; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]_; Price 15,000 gp; Cost 7,500 gp; Weight 2 lbs.

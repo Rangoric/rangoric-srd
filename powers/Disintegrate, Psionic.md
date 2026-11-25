@@ -31,7 +31,7 @@ Effect: Ray
 Duration: Instantaneous  
 Saving Throw: Fortitude partial (object)  
 Power Resistance: Yes  
-Power Points: 11  
+Power Points: 11
 
 A thin, green ray springs from your pointing finger. You must make a successful ranged touch attack to hit. Any creature struck by the ray takes 22d6 points of damage. Any creature reduced to 0 or fewer hit points by this power is entirely disintegrated, leaving behind only a trace of fine dust. A disintegrated creature’s equipment is unaffected.
 

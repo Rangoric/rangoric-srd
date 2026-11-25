@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ethereal Marauder
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]])
-  - **Hit Dice**: 2d10 (11 hp)
-  - **Initiative**: +5
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 14 (+1 Dex, +3 natural), touch 11, flat-footed 13
-  - **Base Attack**: +2; **CMB**: +4; **CMD**: 15
-  - **Attack**: Bite +4 melee (1d6+3)
-  - **Full Attack**: Bite +4 melee (1d6+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]]
-  - **Saves**: Fort +3, Ref +4, Will +1
-  - **Abilities**: Str 14, Dex 12, Con 11, Int 7, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +3
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
-  - **Environment**: Ethereal Plane
-  - **Organization**: Solitary
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: 3–4 HD (Medium); 5–6 HD (Large)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]])
+- **Hit Dice**: 2d10 (11 hp)
+- **Initiative**: +5
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 14 (+1 Dex, +3 natural), touch 11, flat-footed 13
+- **Base Attack**: +2; **CMB**: +4; **CMD**: 15
+- **Attack**: Bite +4 melee (1d6+3)
+- **Full Attack**: Bite +4 melee (1d6+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]]
+- **Saves**: Fort +3, Ref +4, Will +1
+- **Abilities**: Str 14, Dex 12, Con 11, Int 7, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +3
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
+- **Environment**: Ethereal Plane
+- **Organization**: Solitary
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: 3–4 HD (Medium); 5–6 HD (Large)
+- **Level Adjustment**: —
 
 Ethereal marauders live and hunt on the Ethereal Plane. Ethereal marauders’ coloration ranges from bright blue to deep violet. An ethereal marauder stands about 4 feet tall, but its overall length is about 7 feet. It weighs about 200 pounds.
 

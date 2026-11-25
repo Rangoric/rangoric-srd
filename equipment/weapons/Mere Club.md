@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/close, weapon-group/hammers]
 
 # Mere Club
 
-*Simple one-handed melee weapon.* Cost 2 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Weight 2 lb.; Type Bludgeoning or piercing. ^stats
+_Simple one-handed melee weapon._ Cost 2 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Weight 2 lb.; Type Bludgeoning or piercing. ^stats
 
 Traditionally made of sturdy carved stone, a mere (MEH-reh) is a short, flat-sided, sharp-pointed club.
 

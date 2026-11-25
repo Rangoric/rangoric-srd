@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Sylph Rogue
 
-*A [[rangoric-srd/races/Sylph|sylph]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Rogue#^rogue-class-bonuses|rogue]] level.*
+_A [[rangoric-srd/races/Sylph|sylph]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Rogue#^rogue-class-bonuses|rogue]] level._
 
 Add a +1/2 bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks to [[rangoric-srd/skills/Athletics#Jumping|jump]] and a +1/2 bonus on [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks.

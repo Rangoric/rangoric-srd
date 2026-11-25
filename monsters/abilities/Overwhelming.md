@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Overwhelming
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “overwhelming”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “overwhelming”, on the Special Qualities line.
 
 A charda gains a +8 racial bonus on bull rush and trip attacks. The [[rangoric-srd/monsters/Charda|charda]] has it.

@@ -33,14 +33,14 @@ tags: [rangoric, rangoric/spell]
 
 # Pack Empathy
 
-*Divination*
+_Divination_
 
-  - **Level**: Blr 3, Drd 3, Hun 2, Inq 3, Med 2, Rgr 2, Sor/Wiz 3, Spi 3, Sum 3, SumU 3, Wit 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: You plus one willing living creature per 3 levels, no two of which can be more than 30 ft. apart
-  - **Duration**: Caster level hour(s)
-  - **Spell Resistance**: No
+- **Level**: Blr 3, Drd 3, Hun 2, Inq 3, Med 2, Rgr 2, Sor/Wiz 3, Spi 3, Sum 3, SumU 3, Wit 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: You plus one willing living creature per 3 levels, no two of which can be more than 30 ft. apart
+- **Duration**: Caster level hour(s)
+- **Spell Resistance**: No
 
 You create an instinctual connection between the targets. Each can sense the others' overall emotional states, which allows them to communicate basic emotional concepts (such as alerting each other of danger due to increased stress). Once the spell has been cast on the subjects, the distance between them and the caster doesn't affect the spell as long as they are on the same plane of existence. If a subject leaves the plane, or if it dies, the spell ceases to function for it.

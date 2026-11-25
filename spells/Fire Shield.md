@@ -32,14 +32,14 @@ tags: [rangoric, rangoric/spell]
 
 # Fire Shield
 
-*Evocation \[Fire or Cold\]*
+_Evocation \[Fire or Cold\]_
 
-  - **Level**: Alc 4, Blr 4, Fire 5, Mag 4, Occ 4, Sor/Wiz 4, Sum 3, SumU 4, Sun 4
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round/level (D)
+- **Level**: Alc 4, Blr 4, Fire 5, Mag 4, Occ 4, Sor/Wiz 4, Sum 3, SumU 4, Sun 4
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round/level (D)
 
 This spell wreathes you in flame and causes damage to each creature that attacks you in melee. The flames also protect you from either cold-based or fire-based attacks (your choice).
 
@@ -47,8 +47,8 @@ Any creature striking you with its body or a handheld weapon deals normal damage
 
 When casting this spell, you appear to immolate yourself, but the flames are thin and wispy, giving off light equal to only half the illumination of a normal torch (10 feet). The color of the flames is determined randomly (50% chance of either color)—blue or green if the chill shield is cast, violet or blue if the warm shield is employed. The special powers of each version are as follows.
 
-*Warm Shield*: The flames are warm to the touch. You take only half damage from cold-based attacks. If such an attack allows a Reflex save for half damage, you take no damage on a successful save.
+_Warm Shield_: The flames are warm to the touch. You take only half damage from cold-based attacks. If such an attack allows a Reflex save for half damage, you take no damage on a successful save.
 
-*Chill Shield*: The flames are cool to the touch. You take only half damage from fire-based attacks. If such an attack allows a Reflex save for half damage, you take no damage on a successful save.
+_Chill Shield_: The flames are cool to the touch. You take only half damage from fire-based attacks. If such an attack allows a Reflex save for half damage, you take no damage on a successful save.
 
-*Arcane Material Component*: A bit of phosphorus for the warm shield; a live firefly or glowworm or the tail portions of four dead ones for the chill shield.
+_Arcane Material Component_: A bit of phosphorus for the warm shield; a live firefly or glowworm or the tail portions of four dead ones for the chill shield.

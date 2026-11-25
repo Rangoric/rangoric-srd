@@ -14,4 +14,4 @@ tags: [rangoric, rangoric/weapon]
 
 # Silver Strip
 
-*Accessory.* Cost 200 gp; Weight —. ^stats
+_Accessory._ Cost 200 gp; Weight —. ^stats

@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Order of the Sword
 
-*A [[rangoric-srd/classes/Cavalier#^cavalier-order|cavalier order]].*
+_A [[rangoric-srd/classes/Cavalier#^cavalier-order|cavalier order]]._
 
 Cavaliers who join the order of the sword dedicate their lives to the code of chivalry, living a life of honor, valor, and fairness. Cavaliers of this order tend to swear service to a lord or a lady. Of all the orders, the order of the sword is perhaps the broadest in terms of its focus and ideals.
 

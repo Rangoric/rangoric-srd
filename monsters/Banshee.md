@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Banshee
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Incorporeal)
-  - **Hit Dice**: 19d8+76 (161 hp)
-  - **Initiative**: +15
-  - **Speed**: fly 60 ft. (perfect)
-  - **Armor Class**: 26 (+4 deflection, +11 Dex, +1 dodge), touch 26, flat-footed 14
-  - **Base Attack**: +14; **CMB**: +25; **CMD**: 40
-  - **Attack**: Incorporeal touch +26 melee (14d6 negative energy plus terror)
-  - **Full Attack**: Incorporeal touch +26 melee (14d6 negative energy plus terror)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Wail|Wail]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Hear Heartbeat|hear heartbeat]], [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Sunlight Powerlessness|sunlight powerlessness]]
-  - **Saves**: Fort +10, Ref +19, Will +18
-  - **Abilities**: Str —, Dex 32, Con —, Int 5, Wis 20, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Perception|Perception]] +33, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (touch), [[rangoric-srd/feats/Wind Stance|Wind Stance]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 13
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Incorporeal)
+- **Hit Dice**: 19d8+76 (161 hp)
+- **Initiative**: +15
+- **Speed**: fly 60 ft. (perfect)
+- **Armor Class**: 26 (+4 deflection, +11 Dex, +1 dodge), touch 26, flat-footed 14
+- **Base Attack**: +14; **CMB**: +25; **CMD**: 40
+- **Attack**: Incorporeal touch +26 melee (14d6 negative energy plus terror)
+- **Full Attack**: Incorporeal touch +26 melee (14d6 negative energy plus terror)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Wail|Wail]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Hear Heartbeat|hear heartbeat]], [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Sunlight Powerlessness|sunlight powerlessness]]
+- **Saves**: Fort +10, Ref +19, Will +18
+- **Abilities**: Str —, Dex 32, Con —, Int 5, Wis 20, Cha 19
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Perception|Perception]] +33, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (touch), [[rangoric-srd/feats/Wind Stance|Wind Stance]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 13
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A banshee is the enraged spirit of an elven woman who either betrayed those she loved or was herself betrayed. Maddened by grief, a banshee visits her vengeance on all living creatures—innocent or guilty—with her fearsome touch and deadly wails.
 

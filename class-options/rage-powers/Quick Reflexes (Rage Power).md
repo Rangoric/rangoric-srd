@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Quick Reflexes
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 While raging, the barbarian can make one additional attack of opportunity per round.

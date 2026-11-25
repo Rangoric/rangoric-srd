@@ -39,19 +39,19 @@ tags: [rangoric, rangoric/spell]
 
 # Freedom of Movement
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Alc 4, Brd 4, Clr 4, Drd 4, Hun 4, Inq 4, Luck 4, Med 4, Mes 4, Occ 4, Psy 4, Rgr 4, Skd 4, Spi 4
-  - **Components**: V, S, M, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal or touch
-  - **Target**: You or creature touched
-  - **Duration**: 10 min./level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Alc 4, Brd 4, Clr 4, Drd 4, Hun 4, Inq 4, Luck 4, Med 4, Mes 4, Occ 4, Psy 4, Rgr 4, Skd 4, Spi 4
+- **Components**: V, S, M, DF
+- **Casting Time**: 1 standard action
+- **Range**: Personal or touch
+- **Target**: You or creature touched
+- **Duration**: 10 min./level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 This spell enables you or a creature you touch to move and attack normally for the duration of the spell, even under the influence of magic that usually impedes movement, such as paralysis, solid fog, slow, and web. All [[rangoric-srd/combat/Combat Maneuvers#Grapple|combat maneuver checks made to grapple]] the target automatically fail. The subject automatically succeeds on any combat maneuver checks and [[rangoric-srd/skills/Escape Artist|Escape Artist]] checks made to escape a grapple or a pin.
 
 The spell also allows the subject to move and attack normally while underwater, even with slashing weapons such as axes and swords or with bludgeoning weapons such as flails, hammers, and maces, provided that the weapon is wielded in the hand rather than hurled. The freedom of movement spell does not, however, allow water breathing.
 
-*Material Component*: A leather thong, bound around the arm or a similar appendage.
+_Material Component_: A leather thong, bound around the arm or a similar appendage.

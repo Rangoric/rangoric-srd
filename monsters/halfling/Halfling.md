@@ -39,31 +39,31 @@ tags: [rangoric, rangoric/monster]
 
 # Halfling
 
-  - Halfling, 1st-Level Warrior  
-    Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Halfling)
-  - **Hit Dice**: 1d10+1 (6 hp)
-  - **Initiative**: +1
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 16 (+1 size, +1 Dex, +3 studded leather, +1 light shield), touch 12, flat-footed 15
-  - **Base Attack**: +1; **CMB**: +0; **CMD**: 11
-  - **Attack**: Longsword +3 melee (1d6/19–20) or light crossbow +3 ranged (1d6/19–20)
-  - **Full Attack**: Longsword +3 melee (1d6/19–20) or light crossbow +3 ranged (1d6/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Halfling traits
-  - **Special Qualities**: Halfling traits
-  - **Saves**: Fort +4, Ref +2, Will +1
-  - **Abilities**: Str 11, Dex 13, Con 12, Int 10, Wis 11, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +4 (–2 jumping), [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +5
-  - **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
-  - **Environment**: Warm plains  
-    (Deep halfling: Warm hills)  
-    (Tallfellow: Temperate forests)
-  - **Organization**: Company (2–4), squad (11–20 plus 2 3rd-level sergeants and 1 leader of 3rd–6th level), or band (30–100 plus 100% noncombatants plus 1 3rd-level sergeant per 20 adults, 5 5th-level lieutenants, 3 7th-level captains, 6–10 dogs, and 2–5 riding dogs)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: +0
+- Halfling, 1st-Level Warrior  
+  Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Halfling)
+- **Hit Dice**: 1d10+1 (6 hp)
+- **Initiative**: +1
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 16 (+1 size, +1 Dex, +3 studded leather, +1 light shield), touch 12, flat-footed 15
+- **Base Attack**: +1; **CMB**: +0; **CMD**: 11
+- **Attack**: Longsword +3 melee (1d6/19–20) or light crossbow +3 ranged (1d6/19–20)
+- **Full Attack**: Longsword +3 melee (1d6/19–20) or light crossbow +3 ranged (1d6/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Halfling traits
+- **Special Qualities**: Halfling traits
+- **Saves**: Fort +4, Ref +2, Will +1
+- **Abilities**: Str 11, Dex 13, Con 12, Int 10, Wis 11, Cha 8
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +4 (–2 jumping), [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +5
+- **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
+- **Environment**: Warm plains  
+  (Deep halfling: Warm hills)  
+  (Tallfellow: Temperate forests)
+- **Organization**: Company (2–4), squad (11–20 plus 2 3rd-level sergeants and 1 leader of 3rd–6th level), or band (30–100 plus 100% noncombatants plus 1 3rd-level sergeant per 20 adults, 5 5th-level lieutenants, 3 7th-level captains, 6–10 dogs, and 2–5 riding dogs)
+- **Challenge Rating**: 1/2
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: By character class
+- **Level Adjustment**: +0
 
 Halflings stand about 3 feet tall and usually weigh between 30 and 35 pounds. They have brown or black eyes. Halfling men often have long sideburns, but beards are rare among them and mustaches almost unseen. Halflings prefer simple, comfortable, and practical clothes. Unlike members of most races, they prefer actual comfort to shows of wealth. Halflings reach adulthood in their early twenties and generally live into the middle of their second century.
 
@@ -101,23 +101,23 @@ Deep halflings are a [[rangoric-srd/races/Halfling#Subtypes|subtype of the halfl
 
 These halflings with class levels are described on their own:
 
-  - Adepts: [[rangoric-srd/monsters/halfling/Healer|Healer]] (CR 7)
-  - Arcane tricksters: [[rangoric-srd/monsters/halfling/Arcanothief|Arcanothief]] (CR 12)
-  - Aristocrats: [[rangoric-srd/monsters/halfling/Page|Page]] (CR 1/3)
-  - Barbarians: [[rangoric-srd/monsters/halfling/Dog Rider|Dog Rider]] (CR 3), [[rangoric-srd/monsters/halfling/Cannibalistic Hunter|Cannibalistic Hunter]] (CR 9)
-  - Bards: [[rangoric-srd/monsters/halfling/Taunting Comedian|Taunting Comedian]] (CR 3), [[rangoric-srd/monsters/halfling/Notorious Foil|Notorious Foil]] (CR 16)
-  - Clerics: [[rangoric-srd/monsters/halfling/Carousing Champion|Carousing Champion]] (CR 5), [[rangoric-srd/monsters/halfling/Elemental Priest|Elemental Priest]] (CR 15)
-  - Commoners: [[rangoric-srd/monsters/halfling/Accomplished Angler|Accomplished Angler]] (CR 2)
-  - Druids: [[rangoric-srd/monsters/halfling/Evasive Slip|Evasive Slip]] (CR 5), [[rangoric-srd/monsters/halfling/Sea Captain|Sea Captain]] (CR 7), [[rangoric-srd/monsters/halfling/Dark Nature Priest|Dark Nature Priest]] (CR 17)
-  - Duelists: [[rangoric-srd/monsters/halfling/Feisty Hotspur|Feisty Hotspur]] (CR 12)
-  - Experts: [[rangoric-srd/monsters/halfling/Seasoned Trapper|Seasoned Trapper]] (CR 1)
-  - Fighters: [[rangoric-srd/monsters/halfling/Murderous Halfling|Murderous Halfling]] (CR 3), [[rangoric-srd/monsters/halfling/Halfling Slinger|Halfling Slinger]] (CR 8), [[rangoric-srd/monsters/halfling/Arcane Pretender|Arcane Pretender]] (CR 13)
-  - Loremasters: [[rangoric-srd/monsters/halfling/Divine Loremaster|Divine Loremaster]] (CR 8)
-  - Monks: [[rangoric-srd/monsters/halfling/Nimble Shuriken Thrower|Nimble Shuriken Thrower]] (CR 5), [[rangoric-srd/monsters/halfling/Little Fist|Little Fist]] (CR 13)
-  - Mystic theurges: [[rangoric-srd/monsters/halfling/Sound Warrior|Sound Warrior]] (CR 12)
-  - Paladins: [[rangoric-srd/monsters/halfling/Dog Rider Knight|Dog Rider Knight]] (CR 6), [[rangoric-srd/monsters/halfling/Furious Crusader|Furious Crusader]] (CR 17)
-  - Rangers: [[rangoric-srd/monsters/halfling/Town Watcher|Town Watcher]] (CR 1), [[rangoric-srd/monsters/halfling/Pirate Queen|Pirate Queen]] (CR 9)
-  - Rogues: [[rangoric-srd/monsters/halfling/Guild Initiate|Guild Initiate]] (CR 4), [[rangoric-srd/monsters/halfling/Dagger Master|Dagger Master]] (CR 17)
-  - Shadowdancers: [[rangoric-srd/monsters/halfling/Darkstar|Darkstar]] (CR 19)
-  - Sorcerers: [[rangoric-srd/monsters/halfling/Lucky Mage|Lucky Mage]] (CR 10), [[rangoric-srd/monsters/halfling/Natural Arcanist|Natural Arcanist]] (CR 15)
-  - Wizards: [[rangoric-srd/monsters/halfling/Thunder Wizard|Thunder Wizard]] (CR 6)
+- Adepts: [[rangoric-srd/monsters/halfling/Healer|Healer]] (CR 7)
+- Arcane tricksters: [[rangoric-srd/monsters/halfling/Arcanothief|Arcanothief]] (CR 12)
+- Aristocrats: [[rangoric-srd/monsters/halfling/Page|Page]] (CR 1/3)
+- Barbarians: [[rangoric-srd/monsters/halfling/Dog Rider|Dog Rider]] (CR 3), [[rangoric-srd/monsters/halfling/Cannibalistic Hunter|Cannibalistic Hunter]] (CR 9)
+- Bards: [[rangoric-srd/monsters/halfling/Taunting Comedian|Taunting Comedian]] (CR 3), [[rangoric-srd/monsters/halfling/Notorious Foil|Notorious Foil]] (CR 16)
+- Clerics: [[rangoric-srd/monsters/halfling/Carousing Champion|Carousing Champion]] (CR 5), [[rangoric-srd/monsters/halfling/Elemental Priest|Elemental Priest]] (CR 15)
+- Commoners: [[rangoric-srd/monsters/halfling/Accomplished Angler|Accomplished Angler]] (CR 2)
+- Druids: [[rangoric-srd/monsters/halfling/Evasive Slip|Evasive Slip]] (CR 5), [[rangoric-srd/monsters/halfling/Sea Captain|Sea Captain]] (CR 7), [[rangoric-srd/monsters/halfling/Dark Nature Priest|Dark Nature Priest]] (CR 17)
+- Duelists: [[rangoric-srd/monsters/halfling/Feisty Hotspur|Feisty Hotspur]] (CR 12)
+- Experts: [[rangoric-srd/monsters/halfling/Seasoned Trapper|Seasoned Trapper]] (CR 1)
+- Fighters: [[rangoric-srd/monsters/halfling/Murderous Halfling|Murderous Halfling]] (CR 3), [[rangoric-srd/monsters/halfling/Halfling Slinger|Halfling Slinger]] (CR 8), [[rangoric-srd/monsters/halfling/Arcane Pretender|Arcane Pretender]] (CR 13)
+- Loremasters: [[rangoric-srd/monsters/halfling/Divine Loremaster|Divine Loremaster]] (CR 8)
+- Monks: [[rangoric-srd/monsters/halfling/Nimble Shuriken Thrower|Nimble Shuriken Thrower]] (CR 5), [[rangoric-srd/monsters/halfling/Little Fist|Little Fist]] (CR 13)
+- Mystic theurges: [[rangoric-srd/monsters/halfling/Sound Warrior|Sound Warrior]] (CR 12)
+- Paladins: [[rangoric-srd/monsters/halfling/Dog Rider Knight|Dog Rider Knight]] (CR 6), [[rangoric-srd/monsters/halfling/Furious Crusader|Furious Crusader]] (CR 17)
+- Rangers: [[rangoric-srd/monsters/halfling/Town Watcher|Town Watcher]] (CR 1), [[rangoric-srd/monsters/halfling/Pirate Queen|Pirate Queen]] (CR 9)
+- Rogues: [[rangoric-srd/monsters/halfling/Guild Initiate|Guild Initiate]] (CR 4), [[rangoric-srd/monsters/halfling/Dagger Master|Dagger Master]] (CR 17)
+- Shadowdancers: [[rangoric-srd/monsters/halfling/Darkstar|Darkstar]] (CR 19)
+- Sorcerers: [[rangoric-srd/monsters/halfling/Lucky Mage|Lucky Mage]] (CR 10), [[rangoric-srd/monsters/halfling/Natural Arcanist|Natural Arcanist]] (CR 15)
+- Wizards: [[rangoric-srd/monsters/halfling/Thunder Wizard|Thunder Wizard]] (CR 6)

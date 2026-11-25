@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Crushing
 
-Weapons that possess the *crushing* enchantment are essentially the bludgeoning equivalents to *vorpal* weapons. Upon a successful critical hit, a weapon with this enchantment completely crushes the target’s head (if it has one), into dust. As with *vorpal* weapons, many creatures such as oozes, abominations, golems, and some undead are not affected by the loss of a head, so the GM may have to make a judgment call as to the weapon’s effect against such foes.
+Weapons that possess the _crushing_ enchantment are essentially the bludgeoning equivalents to _vorpal_ weapons. Upon a successful critical hit, a weapon with this enchantment completely crushes the target’s head (if it has one), into dust. As with _vorpal_ weapons, many creatures such as oozes, abominations, golems, and some undead are not affected by the loss of a head, so the GM may have to make a judgment call as to the weapon’s effect against such foes.
 
-Strong necromancy and transmutation; CL 18th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Forceful Hand|forceful hand]]*, *[[rangoric-srd/spells/Finger of Death|finger of death]]*; Price +5 bonus.
+Strong necromancy and transmutation; CL 18th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Forceful Hand|forceful hand]]_, _[[rangoric-srd/spells/Finger of Death|finger of death]]_; Price +5 bonus.

@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ruffian
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 7d6+21 (45 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 11 (+2 armor, –1 Dex), touch 9, flat-footed 11
-  - **Base Attack**: +3; **CMB**: +6; **CMD**: 15
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +7 melee (1d4+3/19–20) or [[rangoric-srd/equipment/weapons/Club|club]] +6 melee (1d6+4) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +2 ranged (1d4+3/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +7 melee (1d4+3/19–20); or [[rangoric-srd/equipment/weapons/Club|club]] +6 melee (1d6+4); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +2 ranged (1d4+3/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort +3, Ref +1, Will +1
-  - **Abilities**: Str 16, Dex 8, Con 12, Int 11, Wis 9, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +1, [[rangoric-srd/skills/Stealth|Stealth]] +9
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Intimidation, Stealth), [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 5
-  - **Treasure**: NPC gear (combat gear: feather token (whip), potions of cure light wounds (2), potion of shield of faith; other gear: leather armor, club, daggers (4), masterwork dagger, manacles, rope (50 ft.), sunrods (4), 3,656 gp)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 7d6+21 (45 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 11 (+2 armor, –1 Dex), touch 9, flat-footed 11
+- **Base Attack**: +3; **CMB**: +6; **CMD**: 15
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +7 melee (1d4+3/19–20) or [[rangoric-srd/equipment/weapons/Club|club]] +6 melee (1d6+4) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +2 ranged (1d4+3/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +7 melee (1d4+3/19–20); or [[rangoric-srd/equipment/weapons/Club|club]] +6 melee (1d6+4); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +2 ranged (1d4+3/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort +3, Ref +1, Will +1
+- **Abilities**: Str 16, Dex 8, Con 12, Int 11, Wis 9, Cha 10
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +1, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Intimidation, Stealth), [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 5
+- **Treasure**: NPC gear (combat gear: feather token (whip), potions of cure light wounds (2), potion of shield of faith; other gear: leather armor, club, daggers (4), masterwork dagger, manacles, rope (50 ft.), sunrods (4), 3,656 gp)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A ruffian is a [[rangoric-srd/monsters/human/Human|human]] with 7 levels of [[rangoric-srd/classes/Commoner|commoner]]. A ruffian makes a living by petty theft and robbery when he isn't working with a larger gang. Lacking the motivation to learn a profitable trade, a ruffian has spent a lifetime at hard unskilled labor, and isn't afraid to throw his weight around to get what he wants.
 

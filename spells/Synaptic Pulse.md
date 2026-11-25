@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Synaptic Pulse
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Mes 3, Psy 3
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: 30 ft.
-  - **Area**: 30-ft.-radius spread centered on you
-  - **Duration**: 1 round
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Mes 3, Psy 3
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: 30 ft.
+- **Area**: 30-ft.-radius spread centered on you
+- **Duration**: 1 round
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 You emit a pulsating mental blast that stuns all creatures in range of your psychic shriek for 1 round.

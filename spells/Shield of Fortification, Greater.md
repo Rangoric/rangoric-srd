@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Shield of Fortification, Greater
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Clr 4, Inq 3, Pal 3, Psy 4
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature touched
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: Fortitude negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Clr 4, Inq 3, Pal 3, Psy 4
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature touched
+- **Duration**: 1 minute/level
+- **Saving Throw**: Fortitude negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-This spell functions as *[[rangoric-srd/spells/Shield of Fortification|shield of fortification]]*, except there is a 50% chance that the critical hit or sneak attack is negated and damage is instead be rolled normally, rather than 25%.
+This spell functions as _[[rangoric-srd/spells/Shield of Fortification|shield of fortification]]_, except there is a 50% chance that the critical hit or sneak attack is negated and damage is instead be rolled normally, rather than 25%.

@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Dryad
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
-  - **Hit Dice**: 6d6+6 (27 hp)
-  - **Initiative**: +4
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 17 (+4 Dex, +3 natural), touch 14, flat-footed 13
-  - **Base Attack**: +3; **CMB**: +3; **CMD**: 17
-  - **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +7 melee (1d4) or masterwork longbow +8 ranged (1d8)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +7 melee (1d4); or masterwork longbow +8 ranged (1d8)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Tree Meld|tree meld]], wild empathy, [[rangoric-srd/monsters/abilities/Woodcraft|woodcraft]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, tree dependent
-  - **Saves**: Fort +5, Ref +9, Will +7
-  - **Abilities**: Str 10, Dex 19, Con 13, Int 14, Wis 15, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Craft|Craft]] (sculpture) +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +13, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +16
-  - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary, pair, or grove (3–8)
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard (dagger, masterwork longbow with 20 arrows, other treasure)
-  - **Alignment**: Usually chaotic good
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
+- **Hit Dice**: 6d6+6 (27 hp)
+- **Initiative**: +4
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 17 (+4 Dex, +3 natural), touch 14, flat-footed 13
+- **Base Attack**: +3; **CMB**: +3; **CMD**: 17
+- **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +7 melee (1d4) or masterwork longbow +8 ranged (1d8)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +7 melee (1d4); or masterwork longbow +8 ranged (1d8)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Tree Meld|tree meld]], wild empathy, [[rangoric-srd/monsters/abilities/Woodcraft|woodcraft]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, tree dependent
+- **Saves**: Fort +5, Ref +9, Will +7
+- **Abilities**: Str 10, Dex 19, Con 13, Int 14, Wis 15, Cha 18
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Craft|Craft]] (sculpture) +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +13, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +16
+- **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Temperate forests
+- **Organization**: Solitary, pair, or grove (3–8)
+- **Challenge Rating**: 3
+- **Treasure**: Standard (dagger, masterwork longbow with 20 arrows, other treasure)
+- **Alignment**: Usually chaotic good
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 Dryads are tree-fey who prefer secluded woodlands far from humanoids in need of lumber. Dryads' main interests are their own survival and that of their beloved forests, and they have been known to magically coerce passersby into aiding them in tasks they cannot complete. They are more likely to be friendly to non-evil [[rangoric-srd/classes/Druid|druids]] and [[rangoric-srd/classes/Ranger|rangers]], as they recognize a mutual respect for or empathy with nature.
 
@@ -73,11 +73,11 @@ Dryads speak Common, Elven, and Sylvan.
 
 ### Combat
 
-Shy, intelligent, and resolute, dryads are as elusive as they are alluring—they avoid physical combat and are rarely seen unless they wish to be. If threatened, or in need of an ally, a dryad uses *[[rangoric-srd/spells/Charm Person|charm person]]* or *[[rangoric-srd/spells/Suggestion|suggestion]]*, attempting to gain control of the attacker(s) who could help the most against the rest. Any attack on her tree, however, provokes the dryad into a frenzied defense.
+Shy, intelligent, and resolute, dryads are as elusive as they are alluring—they avoid physical combat and are rarely seen unless they wish to be. If threatened, or in need of an ally, a dryad uses _[[rangoric-srd/spells/Charm Person|charm person]]_ or _[[rangoric-srd/spells/Suggestion|suggestion]]_, attempting to gain control of the attacker(s) who could help the most against the rest. Any attack on her tree, however, provokes the dryad into a frenzied defense.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th): Constant—*[[rangoric-srd/spells/Speak with Plants|speak with plants]]*; At will—*[[rangoric-srd/spells/Entangle|entangle]]* (DC 15), *[[rangoric-srd/spells/Tree Shape|tree shape]]*, *[[rangoric-srd/spells/Wood Shape|wood shape]]* (1 lb. only); 3/day—*[[rangoric-srd/spells/Charm Person|charm person]]* (DC 15), *[[rangoric-srd/spells/Deep Slumber|deep slumber]]* (DC 17), *[[rangoric-srd/spells/Tree Stride|tree stride]]*; 1/day—*[[rangoric-srd/spells/Suggestion|suggestion]]* (DC 17).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th): Constant—_[[rangoric-srd/spells/Speak with Plants|speak with plants]]_; At will—_[[rangoric-srd/spells/Entangle|entangle]]_ (DC 15), _[[rangoric-srd/spells/Tree Shape|tree shape]]_, _[[rangoric-srd/spells/Wood Shape|wood shape]]_ (1 lb. only); 3/day—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 15), _[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (DC 17), _[[rangoric-srd/spells/Tree Stride|tree stride]]_; 1/day—_[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 17).
 
-**[[rangoric-srd/monsters/abilities/Tree Meld|Tree Meld]] (Su)**: A dryad can meld with any tree, similar to how the spell *[[rangoric-srd/spells/Meld into Stone|meld into stone]]* functions. She can remain melded with a tree as long as she wishes.
+**[[rangoric-srd/monsters/abilities/Tree Meld|Tree Meld]] (Su)**: A dryad can meld with any tree, similar to how the spell _[[rangoric-srd/spells/Meld into Stone|meld into stone]]_ functions. She can remain melded with a tree as long as she wishes.
 
 **Tree Dependent (Su)**: A dryad is mystically bonded to a single, enormous tree and must never stray more than 300 yards from it. Most dryad trees are oak trees, but other trees function as well (often having subtle influences on a specific dryad's personality and appearance). A dryad who moves 300 yards beyond her bonded tree immediately becomes [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]]. Every hour thereafter, she must make a DC 15 Fortitude save to resist becoming [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for an hour. A dryad that is out of range of her bonded tree for 24 hours takes 1d6 points of Constitution damage, and another 1d6 points of Constitution damage every day that follows—eventually, this separation kills the dryad. A dryad can forge a new bond with a new tree by performing a 24-hour ritual and making a successful DC 20 Will save.
 

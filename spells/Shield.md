@@ -31,13 +31,13 @@ tags: [rangoric, rangoric/spell]
 
 # Shield
 
-*Abjuration \[Force\]*
+_Abjuration \[Force\]_
 
-  - **Level**: Alc 1, Blr 1, Mag 1, Occ 1, Psy 1, Sor/Wiz 1, Spi 1, Sum 1, SumU 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 min./level (D)
+- **Level**: Alc 1, Blr 1, Mag 1, Occ 1, Psy 1, Sor/Wiz 1, Spi 1, Sum 1, SumU 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 min./level (D)
 
 Shield creates an [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]], tower shield-sized mobile disk of force that hovers in front of you. It negates magic missile attacks directed at you. The disk also provides a +4 shield bonus to AC. This bonus applies against [[rangoric-srd/rules/Special Abilities and Conditions#^incorporeal|incorporeal]] touch attacks, since it is a force effect. The shield has no armor check penalty or arcane spell failure chance. Unlike with a normal tower shield, you can’t use the shield spell for cover.

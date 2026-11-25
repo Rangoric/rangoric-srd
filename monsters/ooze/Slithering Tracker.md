@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Slithering Tracker
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]]
-  - **Hit Dice**: 4d8+24 (42 hp)
-  - **Initiative**: +4
-  - **Speed**: 10 ft. (2 squares), climb 10 ft.
-  - **Armor Class**: 15 (+4 Dex, +1 size), touch 15, flat-footed 11
-  - **Base Attack**: +3; **CMB**: +5 (+9 grapple); **CMD**: 19 (can't be tripped)
-  - **Attack**: Slam +7 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
-  - **Full Attack**: 2 slams +7 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d2 Constitution), [[rangoric-srd/monsters/abilities/Grab|grab]] (Colossal)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 60 ft., [[rangoric-srd/monsters/abilities/Transparent|transparent]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]]
-  - **Saves**: Fort +7, Ref +5, Will +1
-  - **Abilities**: Str 16, Dex 18, Con 23, Int 11, Wis 10, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +20
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Any ruins or underground
-  - **Organization**: Solitary or pair
-  - **Challenge Rating**: 4
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]]
+- **Hit Dice**: 4d8+24 (42 hp)
+- **Initiative**: +4
+- **Speed**: 10 ft. (2 squares), climb 10 ft.
+- **Armor Class**: 15 (+4 Dex, +1 size), touch 15, flat-footed 11
+- **Base Attack**: +3; **CMB**: +5 (+9 grapple); **CMD**: 19 (can't be tripped)
+- **Attack**: Slam +7 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
+- **Full Attack**: 2 slams +7 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d2 Constitution), [[rangoric-srd/monsters/abilities/Grab|grab]] (Colossal)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 60 ft., [[rangoric-srd/monsters/abilities/Transparent|transparent]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]]
+- **Saves**: Fort +7, Ref +5, Will +1
+- **Abilities**: Str 16, Dex 18, Con 23, Int 11, Wis 10, Cha 1
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +20
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Any ruins or underground
+- **Organization**: Solitary or pair
+- **Challenge Rating**: 4
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 An alien inhabitant of the dark underworld, the slithering tracker is a glistening creature of transparent ooze, typically about 3 inches thick and at least 3 feet in diameter. When still, it looks like a wet patch of stone or a patch of condensation on a wall. Comparatively slow moving, the slithering tracker relies on its transparency and knack for ambushing to surprise prey.
 

@@ -30,15 +30,15 @@ tags: [rangoric, rangoric/spell]
 
 # Memory Lapse
 
-*Enchantment \[Mind-affecting\]*
+_Enchantment \[Mind-affecting\]_
 
-  - **Level**: Brd 1, Mes 1, Occ 1, Skd 1, Sor/Wiz 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One living creature
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 1, Mes 1, Occ 1, Skd 1, Sor/Wiz 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One living creature
+- **Duration**: Instantaneous
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 You cause the target to forget what happened from the casting of the spell back to the beginning of its last turn. This may allow a retry on a Persuasion, Intimidation, or opposed skill check, though only with respect to the target, not other creatures that may be present.

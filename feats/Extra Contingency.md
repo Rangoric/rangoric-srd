@@ -16,6 +16,6 @@ You can manage multiple contingency effects.
 
 **Prerequisites**: Character level 19th.
 
-**Benefit**: You can have two *[[rangoric-srd/spells/Contingency|contingency]]* effects active at once. If both would trigger in the same round, one (chosen at random) triggers 1 round later.
+**Benefit**: You can have two _[[rangoric-srd/spells/Contingency|contingency]]_ effects active at once. If both would trigger in the same round, one (chosen at random) triggers 1 round later.
 
 **Normal**: You can have only one contingency active at a time.

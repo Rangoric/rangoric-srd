@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Slicer Beetle
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
-  - **Hit Dice**: 6d8+12 (39 hp)
-  - **Initiative**: +0
-  - **Speed**: 40 ft. (8 squares), fly 20 ft. (poor)
-  - **Armor Class**: 17 (+8 natural, –1 size), touch 9, flat-footed 17
-  - **Base Attack**: +4; **CMB**: +10; **CMD**: 20 (28 vs. trip)
-  - **Attack**: Bite +8 melee (2d6+7/19–20)
-  - **Full Attack**: Bite +8 melee (2d6+7/19–20)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Crippling Bite|Crippling bite]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-  - **Saves**: Fort +7, Ref +2, Will +2
-  - **Abilities**: Str 21, Dex 11, Con 15, Int —, Wis 10, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –6
-  - **Feats**: —
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary or cluster (2–5)
-  - **Challenge Rating**: 4
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
+- **Hit Dice**: 6d8+12 (39 hp)
+- **Initiative**: +0
+- **Speed**: 40 ft. (8 squares), fly 20 ft. (poor)
+- **Armor Class**: 17 (+8 natural, –1 size), touch 9, flat-footed 17
+- **Base Attack**: +4; **CMB**: +10; **CMD**: 20 (28 vs. trip)
+- **Attack**: Bite +8 melee (2d6+7/19–20)
+- **Full Attack**: Bite +8 melee (2d6+7/19–20)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Crippling Bite|Crippling bite]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
+- **Saves**: Fort +7, Ref +2, Will +2
+- **Abilities**: Str 21, Dex 11, Con 15, Int —, Wis 10, Cha 6
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –6
+- **Feats**: —
+- **Environment**: Temperate forests
+- **Organization**: Solitary or cluster (2–5)
+- **Challenge Rating**: 4
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The slicer beetle sports specialized mouthparts that scissor apart flesh for easier consumption. Each side of its horizontally closing mandibles fits into the other with barely a hair's breadth to spare. These creatures prefer to dwell in compact caves or warrens. A typical slicer beetle measures 10 feet long and weighs 800 pounds.
 

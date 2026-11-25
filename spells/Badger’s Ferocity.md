@@ -29,15 +29,15 @@ tags: [rangoric, rangoric/spell]
 
 # Badger’s Ferocity
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Clr 3, Drd 3, Hun 2, Occ 2, Rgr 2, Sor/Wiz 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One weapon/3 levels
-  - **Duration**: Concentration
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Clr 3, Drd 3, Hun 2, Occ 2, Rgr 2, Sor/Wiz 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One weapon/3 levels
+- **Duration**: Concentration
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-This functions like *[[rangoric-srd/spells/Keen Edge|keen edge]]*, except it affects multiple weapons and requires your concentration. You select the weapons to be affected, and can only affect one weapon per creature. If a creature's weapon exceeds the spell's range, the spell ends for that weapon.
+This functions like _[[rangoric-srd/spells/Keen Edge|keen edge]]_, except it affects multiple weapons and requires your concentration. You select the weapons to be affected, and can only affect one weapon per creature. If a creature's weapon exceeds the spell's range, the spell ends for that weapon.

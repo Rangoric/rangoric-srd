@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Green Prismatic Poison
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. The green ray of *[[rangoric-srd/spells/Prismatic Spray|prismatic spray]]*, the green layer of *[[rangoric-srd/spells/Prismatic Wall|prismatic wall]]* and *[[rangoric-srd/spells/Prismatic Sphere|prismatic sphere]]*, and the green ray of a [[rangoric-srd/magic-items/weapon-abilities/Prismatic|*prismatic*]] weapon poison with it; the DC is theirs.
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. The green ray of _[[rangoric-srd/spells/Prismatic Spray|prismatic spray]]_, the green layer of _[[rangoric-srd/spells/Prismatic Wall|prismatic wall]]_ and _[[rangoric-srd/spells/Prismatic Sphere|prismatic sphere]]_, and the green ray of a [[rangoric-srd/magic-items/weapon-abilities/Prismatic|*prismatic*]] weapon poison with it; the DC is theirs.
 
 - **Type**: poison, spell
 - **Save**: Fortitude; the DC is the effect’s

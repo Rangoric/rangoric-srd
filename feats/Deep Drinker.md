@@ -18,4 +18,4 @@ You draw greater amounts of ki from your libations.
 
 **Prerequisites**: Con 13, [[rangoric-srd/classes/Monk|monk]] level 11, [[rangoric-srd/class-options/archetypes/monk/Drunken Master (Archetype)|drunken *ki*]] class feature.
 
-**Benefit**: When you gain temporary [[rangoric-srd/classes/Monk#^monk-ki-pool|*ki*]] from drunken *ki*, you gain 2 temporary *ki* rather than just 1.
+**Benefit**: When you gain temporary [[rangoric-srd/classes/Monk#^monk-ki-pool|*ki*]] from drunken _ki_, you gain 2 temporary _ki_ rather than just 1.

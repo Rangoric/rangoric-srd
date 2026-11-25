@@ -25,14 +25,14 @@ tags: [rangoric, rangoric/spell]
 
 # Litany of Warding
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Apl 2, Inq 3, Pal 2
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 swift action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round
+- **Level**: Apl 2, Inq 3, Pal 2
+- **Components**: V, S, DF
+- **Casting Time**: 1 swift action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round
 
 With this litany, you become more aware of your opponents. You can make two additional attacks of opportunity this round. Furthermore, you gain a +2 sacred bonus to AC against attacks of opportunity.
 

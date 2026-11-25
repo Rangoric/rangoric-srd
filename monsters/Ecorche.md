@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ecorche
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 22d8+110 (209 hp)
-  - **Initiative**: +9
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 30 (+5 Dex, +16 natural, –1 size), touch 14, flat-footed 25
-  - **Base Attack**: +16; **CMB**: +28; **CMD**: 43
-  - **Attack**: Claw +27 melee (3d6+11/19–20)
-  - **Full Attack**: 2 claws +27 melee (3d6+11/19–20)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1 Con drain), rend (2 claws, 3d6+11 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]] and seize skin)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (60 ft., DC 26), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Wear Skin|wear skin]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/good and silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-  - **Saves**: Fort +12, Ref +12, Will +15
-  - **Abilities**: Str 32, Dex 20, Con —, Int 9, Wis 11, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Imitation|Imitation]] +30, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Stealth|Stealth]] +26
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Blinding Critical|Blinding Critical]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Stand Still|Stand Still]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
-  - **Environment**: Any land
-  - **Organization**: Solitary or gang (2–4)
-  - **Challenge Rating**: 16
-  - **Treasure**: None
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 22d8+110 (209 hp)
+- **Initiative**: +9
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 30 (+5 Dex, +16 natural, –1 size), touch 14, flat-footed 25
+- **Base Attack**: +16; **CMB**: +28; **CMD**: 43
+- **Attack**: Claw +27 melee (3d6+11/19–20)
+- **Full Attack**: 2 claws +27 melee (3d6+11/19–20)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1 Con drain), rend (2 claws, 3d6+11 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]] and seize skin)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (60 ft., DC 26), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Wear Skin|wear skin]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/good and silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
+- **Saves**: Fort +12, Ref +12, Will +15
+- **Abilities**: Str 32, Dex 20, Con —, Int 9, Wis 11, Cha 21
+- **Skills**: [[rangoric-srd/skills/Imitation|Imitation]] +30, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Stealth|Stealth]] +26
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Blinding Critical|Blinding Critical]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Stand Still|Stand Still]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
+- **Environment**: Any land
+- **Organization**: Solitary or gang (2–4)
+- **Challenge Rating**: 16
+- **Treasure**: None
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The bodyguards and spies of undead masterminds, ecorches appear as gory giants with musculatures overdeveloped by infusions of necromantic toxins and grafts of reanimated sinew. Although its natural form possesses no skin, an ecorche can steal the flesh of another creature, flaying its victim in mere seconds and leaving it in unimaginable shock and pain with only moments to seek aid before perishing. Yet this gruesome act of violence is only the first stage of the chaos an ecorche spreads with its violence. An ecorche possesses incredible control over its gruesome form, allowing it to compress its body into the skin of a much smaller creature. Wearing such grisly garb, these terrors walk among the living, doing the bidding of their terrible masters or searching for more influential individuals to murder, skin, and impersonate. If an ecorche's unholy nature is revealed, the monster is quick to dispose of its now-useless disguise, bursting from the suit of flesh and exposing its terrible form to the unprepared, few of whom can withstand such unabashed gore.
 

@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Oozebane Dust
 
-*Powder; Special*
+_Powder; Special_
 
 Oozebane dust crystallizes the moist surface of most oozes, and most recoil instinctively from contact with it. It acts as an acid against any and all ooze types but does not kill, so if used as a grenade like missile, it incurs 1d8 points of damage per round for 1d3 rounds (1d4 points if an ooze only incurs splash damage rather than direct impact). This dust is most effective as a barrier against moving oozes—pour it onto the ground in a line and it will stop the movement of any ooze over that line, as each round of contact induces 1d8 points of damage (thus stopping the advance of a gelatinous cube down a hallway, for example). A line of oozebane dust lasts for up to three rounds of sustained contact (as in a thrown vial) or three separate contacts (if poured on the ground).
 

@@ -19,10 +19,10 @@ tags: [rangoric, rangoric/spell]
 
 # Heal, Mass
 
-*Conjuration (Healing)*
+_Conjuration (Healing)_
 
-  - **Level**: Clr 9, Healing 9, Sha 9
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Targets**: One or more creatures, no two of which can be more than 30 ft. apart
+- **Level**: Clr 9, Healing 9, Sha 9
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Targets**: One or more creatures, no two of which can be more than 30 ft. apart
 
 This spell functions like [[rangoric-srd/spells/Heal (Spell)|heal]], except as noted above. The maximum number of hit points restored to each creature is 250.

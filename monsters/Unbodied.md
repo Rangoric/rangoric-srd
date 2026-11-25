@@ -40,7 +40,7 @@ tags: [rangoric, rangoric/monster]
 
 # Unbodied
 
-Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous]][[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Humanoid]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^incorporeal|Incorporeal]], Psionic)      
+Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous]][[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Humanoid]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^incorporeal|Incorporeal]], Psionic)     
 **Hit Dice:** 4d8+4 (22 hp)     
 **Initiative:** +1     
 **Speed:** Fly 30 ft. (good) (6 squares)     
@@ -61,7 +61,7 @@ Full **Attack:** Incorporeal touch +5 melee (1d6)   
 Treasure: Half standard     
 **Alignment:** Any     
 **Advancement:** By character class     
-**Level Adjustment:** +4     
+**Level Adjustment:** +4   
 
 An unbodied uses telepathy to communicate with others.
 
@@ -87,26 +87,26 @@ Incorporeal Traits: An unbodied is harmed only by other incorporeal creatures, m
 
 Unbodied characters possess the following racial traits.
 
-  - \+2 Dexterity, +2 Constitution, +4 Intelligence, +4 Wisdom, +4 Charisma. As an incorporeal creature, an unbodied has no Strength score.
+- \+2 Dexterity, +2 Constitution, +4 Intelligence, +4 Wisdom, +4 Charisma. As an incorporeal creature, an unbodied has no Strength score.
 
-  - Medium size.
+- Medium size.
 
-  - An unbodied has a fly speed of 30 feet (good maneuverability).
+- An unbodied has a fly speed of 30 feet (good maneuverability).
 
-  - Darkvision out to 60 feet.
+- Darkvision out to 60 feet.
 
-  - Deflection bonus to Armor Class equal to character’s Charisma modifier (minimum +1).
+- Deflection bonus to Armor Class equal to character’s Charisma modifier (minimum +1).
 
-  - Natural Attack: An unbodied can make a melee touch attack to deal 1d6 points of damage.
+- Natural Attack: An unbodied can make a melee touch attack to deal 1d6 points of damage.
 
-  - Special Attacks (see above): Psionic powers, [[rangoric-srd/powers/Telekinetic Force|telekinetic force]]. An unbodied who takes levels in psion (telepath) adds its racial manifesting ability and psion levels together to determine its power point reserve, manifester level, and powers known.
+- Special Attacks (see above): Psionic powers, [[rangoric-srd/powers/Telekinetic Force|telekinetic force]]. An unbodied who takes levels in psion (telepath) adds its racial manifesting ability and psion levels together to determine its power point reserve, manifester level, and powers known.
 
-  - Special Qualities (see above): Assume likeness, [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|incorporeal traits]].
+- Special Qualities (see above): Assume likeness, [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|incorporeal traits]].
 
-  - Racial Hit Dice: An unbodied begins with four levels of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|monstrous humanoid]], which provide 4d8 Hit Dice, a base attack bonus of +4, and base saving throw bonuses of Fort +1, Ref +4, and Will +4.
+- Racial Hit Dice: An unbodied begins with four levels of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|monstrous humanoid]], which provide 4d8 Hit Dice, a base attack bonus of +4, and base saving throw bonuses of Fort +1, Ref +4, and Will +4.
 
-  - Racial Skills: An unbodied’s monstrous Humanoid levels give it skill points equal to 4 x (2 + Int modifier). Its class skills are [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Imitation|Imitation]], [[rangoric-srd/skills/Intimidation|Intimidation]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Persuasion|Persuasion]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]]. Unbodied have a +4 racial bonus on Deception checks and Imitation checks. When using its assume likeness ability, an unbodied gets an additional +10 circumstance bonus on Imitation checks. If it can read an opponent’s mind, it gets a further +4 circumstance bonus on Deception and Imitation checks.
+- Racial Skills: An unbodied’s monstrous Humanoid levels give it skill points equal to 4 x (2 + Int modifier). Its class skills are [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Imitation|Imitation]], [[rangoric-srd/skills/Intimidation|Intimidation]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Persuasion|Persuasion]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]]. Unbodied have a +4 racial bonus on Deception checks and Imitation checks. When using its assume likeness ability, an unbodied gets an additional +10 circumstance bonus on Imitation checks. If it can read an opponent’s mind, it gets a further +4 circumstance bonus on Deception and Imitation checks.
 
-  - Racial Feats: An unbodied’s monstrous humanoid levels give it two feats.
+- Racial Feats: An unbodied’s monstrous humanoid levels give it two feats.
 
-  - Level Adjustment: +4.
+- Level Adjustment: +4.

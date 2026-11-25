@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/magic-item]
 
 Whenever a [[rangoric-srd/prestige-classes/Blood Mage|blood mage]] wearing armor enhanced by this ability suffers damage from a melee attack, a number of hit points equal to one-half the damage inflicted is stored in the armor for later use. These hit points may be used to pay the hit point cost incurred when using the [[rangoric-srd/feats/Blood Power|Blood Power]] feat. If these hit points are not used, they disperse at a rate of one hit point per day. Bloodlinked armor is a dark crimson color. Bloodlinked armor can hold 30 hit points maximum, and it becomes a darker and darker red as the number of stored hit points approaches this maximum.
 
-CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]*; Price +3 bonus.
+CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_; Price +3 bonus.

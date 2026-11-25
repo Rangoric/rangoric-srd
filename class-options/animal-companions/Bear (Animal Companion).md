@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Bear
 
-*An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature ([[rangoric-srd/monsters/Bear, Black|black bear]] or [[rangoric-srd/monsters/Bear, Brown|brown bear]]).*
+_An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature ([[rangoric-srd/monsters/Bear, Black|black bear]] or [[rangoric-srd/monsters/Bear, Brown|brown bear]])._
 
 - **Size**: Small
 - **Speed**: 40 ft.

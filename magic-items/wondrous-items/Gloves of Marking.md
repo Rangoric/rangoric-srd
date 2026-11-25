@@ -25,4 +25,4 @@ These ruddy leather gloves enhance the precision of the wearer. When wielding a 
 
 The wielder and her allies gain a +2 morale bonus on attack rolls and melee damage rolls against the marked creature for 1 minute. In addition, the marked creature must succeed at a Will saving throw (DC 10 + one-half the wielder's level + the wielder's Dexterity modifier) or be [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 minute. The bonuses and condition persist even if the damage caused by the mark is healed.
 
-Faint necromancy and transmutation; CL 4th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Cause Fear|cause fear]]*, *[[rangoric-srd/spells/Heroism|heroism]]*; Price 7,200 gp; Cost 3,600 gp; Weight 1 lb.
+Faint necromancy and transmutation; CL 4th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Cause Fear|cause fear]]_, _[[rangoric-srd/spells/Heroism|heroism]]_; Price 7,200 gp; Cost 3,600 gp; Weight 1 lb.

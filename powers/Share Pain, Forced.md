@@ -27,7 +27,7 @@ Psychometabolism
 **Duration:** 1 round/level (D)  
 **Saving Throw:** Fortitude negates  
 **Power Resistance:** Yes  
-**Power Points:** 5  
+**Power Points:** 5
 
 As [[rangoric-srd/powers/Share Pain|share pain]], except as noted here.
 

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Energy Bolts
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “energy bolts”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “energy bolts”, on the Special Attacks line.
 
 Once every 1d4 rounds as a standard action that provokes an attack of opportunity, a marai's six snake arms can each spit a bolt of energy to a maximum range of 60 feet. Each bolt deals 1d8 points of damage and has an additional effect if the target fails to resist it with a DC 19 Fortitude save, as summarized below. The save DC is Constitution-based. The [[rangoric-srd/monsters/rakshasas/Marai|marai]] has it.

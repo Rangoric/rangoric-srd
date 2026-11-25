@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Tomb Raider
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 6d8+18 (45 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 17 (+3 armor, +3 Dex, +1 shield), touch 13, flat-footed 14
-  - **Base Attack**: +4; **CMB**: +5; **CMD**: 18
-  - **Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +7 melee (1d6+3/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +8 ranged (1d6/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +7 melee (1d6+3/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +8 ranged (1d6/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +3d6, [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
-  - **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-evasion|Evasion]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +2, [[rangoric-srd/classes/Rogue#^rogue-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Fast Stealth (Rogue Talent)|fast stealth]], [[rangoric-srd/class-options/rogue-talents/Rogue Crawl (Rogue Talent)|rogue crawl]], [[rangoric-srd/class-options/rogue-talents/Trap Spotter (Rogue Talent)|trap spotter]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +3, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (short sword), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Engineering|Engineering]])
-  - **Saves**: Fort +6, Ref +8, Will +2
-  - **Abilities**: Str 12, Dex 17, Con 14, Int 14, Wis 10, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Appraise|Appraise]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +11, [[rangoric-srd/skills/Emulation|Emulation]] +8, [[rangoric-srd/skills/Engineering|Engineering]] +20, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +12, [[rangoric-srd/skills/Linguistics|Linguistics]] +6, [[rangoric-srd/skills/Perception|Perception]] +14 (+17 to find traps), [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +12, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +15
-  - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Engineering, Stealth)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 5
-  - **Treasure**: NPC gear (combat gear: antitoxin; other gear: masterwork studded leather, masterwork buckler, masterwork shortbow with 20 arrows, short sword, eyes of the eagle, magnifying glass, masterwork thieves' tools, sunrod, 18 gp)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 6d8+18 (45 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 17 (+3 armor, +3 Dex, +1 shield), touch 13, flat-footed 14
+- **Base Attack**: +4; **CMB**: +5; **CMD**: 18
+- **Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +7 melee (1d6+3/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +8 ranged (1d6/×3)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +7 melee (1d6+3/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +8 ranged (1d6/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +3d6, [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
+- **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-evasion|Evasion]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +2, [[rangoric-srd/classes/Rogue#^rogue-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Fast Stealth (Rogue Talent)|fast stealth]], [[rangoric-srd/class-options/rogue-talents/Rogue Crawl (Rogue Talent)|rogue crawl]], [[rangoric-srd/class-options/rogue-talents/Trap Spotter (Rogue Talent)|trap spotter]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +3, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (short sword), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Engineering|Engineering]])
+- **Saves**: Fort +6, Ref +8, Will +2
+- **Abilities**: Str 12, Dex 17, Con 14, Int 14, Wis 10, Cha 8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Appraise|Appraise]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +11, [[rangoric-srd/skills/Emulation|Emulation]] +8, [[rangoric-srd/skills/Engineering|Engineering]] +20, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +12, [[rangoric-srd/skills/Linguistics|Linguistics]] +6, [[rangoric-srd/skills/Perception|Perception]] +14 (+17 to find traps), [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +12, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +15
+- **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Engineering, Stealth)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 5
+- **Treasure**: NPC gear (combat gear: antitoxin; other gear: masterwork studded leather, masterwork buckler, masterwork shortbow with 20 arrows, short sword, eyes of the eagle, magnifying glass, masterwork thieves' tools, sunrod, 18 gp)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A tomb raider is a [[rangoric-srd/monsters/human/Human|human]] with 6 levels of [[rangoric-srd/classes/Rogue|rogue]]. Tomb raiders are cunning explorers of ruined delves and trap-haunted dungeons and daring looters of ancient, treasure-laden crypts. They are invaluable allies, helping any would-be explorers get in and out without falling prey to lurking death and hidden danger. Of course, if a tomb raider should happen to find and keep the choicest bits for himself, who would know? He would never tell. A tomb raider might also be found as a rival inside a dungeon, perhaps seeking to loot the treasure inside before the PCs can. Replacing his Sleight of Hand skill with Craft (trapmaking) makes him an even more dangerous foe.
 

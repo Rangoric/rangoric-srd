@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Mount, Communal
 
-*Conjuration (Summoning)*
+_Conjuration (Summoning)_
 
-  - **Level**: Mag 2, Occ 2, Sor/Wiz 2, Sum 2, SumU 2, Wit 2
-  - **Components**: V, S, M (a bit of horse hair)
-  - **Casting Time**: 1 round
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: Up to six mounts
-  - **Duration**: 2 hours/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Mag 2, Occ 2, Sor/Wiz 2, Sum 2, SumU 2, Wit 2
+- **Components**: V, S, M (a bit of horse hair)
+- **Casting Time**: 1 round
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: Up to six mounts
+- **Duration**: 2 hours/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-This spell functions like *[[rangoric-srd/spells/Mount|mount]]*, except you can summon up to six light horses or ponies, and you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 2-hour increments among the steeds summoned.
+This spell functions like _[[rangoric-srd/spells/Mount|mount]]_, except you can summon up to six light horses or ponies, and you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 2-hour increments among the steeds summoned.

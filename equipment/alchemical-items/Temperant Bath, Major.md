@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Temperant Bath, Major
 
-*Alchana; Special*
+_Alchana; Special_
 
 Temperant baths are the greatest of the common alchana, as they can vastly improve any and all materials they touch (they enchance the strength and integrity of the materials). These are not portable items that can be purchased and moved about—these are processes either set up in your own personal labs or in an alchemist’s shop or laboratory.
 
@@ -34,27 +34,27 @@ The temperant bath takes its time in altering the composition and strength of an
 
 **Temperant Bath Sizes** While the assumed standard for a temperant bath is a 20-gallon tub, they can be made smaller to save money. These are the smallest temperant baths able to affect the item in question. Of course, these smaller items could be placed in larger baths, so you could temper 20 daggers (tiny weapons) at once in a 20-gallon tub. Lesser temperant baths are made type specific—they only affect one type of substance. There are five potential lesser bath types: bone or undead materials, animal hides and leathers, wood and plant matter, metals, or stone.
 
-| Bath | Smallest it can hold |
-|---|---|
-| 1 gallon | 1 Tiny weapon or item |
-| 3 gallons | 1 Small weapon or item |
-| 10 gallons | 1 Medium weapon or item or shield |
-| 15 gallons | 1 suit of Armor, less than scale |
+| Bath       | Smallest it can hold                                           |
+| ---------- | -------------------------------------------------------------- |
+| 1 gallon   | 1 Tiny weapon or item                                          |
+| 3 gallons  | 1 Small weapon or item                                         |
+| 10 gallons | 1 Medium weapon or item or shield                              |
+| 15 gallons | 1 suit of Armor, less than scale                               |
 | 20 gallons | 1 suit of Armor greater than scale or 3 Large weapons or items |
 
-**Temperant Baths, Major [Alchana; Special]** Those alchemists who learned the feat of [[rangoric-srd/feats/Perfect Materials|Perfect Materials]] can abandon the need for type-specific baths and create a Major bath which tempers all materials equally. It increases the material’s integrity and strength to make it equal in strength to masterwork items, despite any flaws in workmanship. Also, items treated in a Major temperant bath now have a Fort save against magical effects (specifically *disintegrations* and the like) of +3 instead of just falling apart.
+**Temperant Baths, Major [Alchana; Special]** Those alchemists who learned the feat of [[rangoric-srd/feats/Perfect Materials|Perfect Materials]] can abandon the need for type-specific baths and create a Major bath which tempers all materials equally. It increases the material’s integrity and strength to make it equal in strength to masterwork items, despite any flaws in workmanship. Also, items treated in a Major temperant bath now have a Fort save against magical effects (specifically _disintegrations_ and the like) of +3 instead of just falling apart.
 
 **Table: Temperant Baths**
 
-| Temperant Baths | HP of Item | Break DC | Hardness/AC bonus# |
-|---|---|---|---|
-| Major | +10 | +6 | +3; Fort Save +3 (item) |
+| Temperant Baths | HP of Item | Break DC | Hardness/AC bonus#      |
+| --------------- | ---------- | -------- | ----------------------- |
+| Major           | +10        | +6       | +3; Fort Save +3 (item) |
 
 #: The increase in Hardness is also mirrored in improving the AC bonus granted by any items within this bath. These increases do not incur any additional arcane armor or movement penalties despite having changed the nature of the armor.
 
-| Temperant Type | CL | DC | Market Price | Cost to Create |
-|---|---|---|---|---|
-| Major | 14 | 34 | 4,800 gp/gallon | 48,000 gp/20 gallons |
+| Temperant Type | CL  | DC  | Market Price    | Cost to Create       |
+| -------------- | --- | --- | --------------- | -------------------- |
+| Major          | 14  | 34  | 4,800 gp/gallon | 48,000 gp/20 gallons |
 
 **Prerequisites**: [[rangoric-srd/skills/Craft|Craft]] (alchemy), [[rangoric-srd/feats/Create Greater Alchana|Create Greater Alchana]]
 
@@ -66,12 +66,12 @@ The temperant bath takes its time in altering the composition and strength of an
 
 For example, a regular dagger is taken thru a Minor/ Major/Prime Bath cascade, and its stats alter as follows (though it does not change in its size, weight, or damage potential):
 
-| Dagger Status | Hardness | HP | Break DC |
-|---|---|---|---|
-| **Base/Common** | 10 | 1 | 18 |
-| **After Minor** | 12 | 6 | 21 |
-| **After Major** | 15 | 16 | 27 |
-| **After Prime** | 19 | 31 | 36 |
+| Dagger Status   | Hardness | HP  | Break DC |
+| --------------- | -------- | --- | -------- |
+| **Base/Common** | 10       | 1   | 18       |
+| **After Minor** | 12       | 6   | 21       |
+| **After Major** | 15       | 16  | 27       |
+| **After Prime** | 19       | 31  | 36       |
 
 After the temperant cascade, even a commonly made dagger could be enchanted with magics, given that its hardness nears adamantine, its hit points equal an inch-thick slab of mithral, and it’s easier to break down a locked iron door than break this dagger. (To bring your players back down to earth, this phenomenal dagger costs 14,402 gp (2+ 4500+4800+5100) and it still only deals 1d4 points of damage.)
 

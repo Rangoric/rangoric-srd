@@ -21,12 +21,12 @@ Baba Yaga frequents FaerieLand openly, unlike most malevolent creatures, and whe
 
 **Personalities:** [[rangoric-srd/flavor/the-fey-realm/personalities/Baba Yaga|Baba Yaga]]
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* Baba Yaga’s hut walks about the Dark Forest on a pair of enormous chicken legs, making finding it more difficult to find if Baba Yaga so wishes.
+_Common:_ Baba Yaga’s hut walks about the Dark Forest on a pair of enormous chicken legs, making finding it more difficult to find if Baba Yaga so wishes.
 
-*Uncommon:* At times, Baba Yaga will take on girls and young women as servants. After a season or two of servitude, she releases them and rewards them with an item of magic.
+_Uncommon:_ At times, Baba Yaga will take on girls and young women as servants. After a season or two of servitude, she releases them and rewards them with an item of magic.
 
-*Rare:* -
+_Rare:_ -
 
-*Obscure:* Within her hut is a fountain that contains the Waters of Life.
+_Obscure:_ Within her hut is a fountain that contains the Waters of Life.

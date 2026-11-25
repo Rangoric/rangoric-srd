@@ -38,25 +38,25 @@ tags: [rangoric, rangoric/monster]
 
 # Animated Object, Colossal
 
-  - Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
-  - **Hit Dice**: 32d10+80 (256 hp)
-  - **Initiative**: –3
-  - **Speed**: 10 ft. (2 squares); 20 ft. legs, 30 ft. multiple legs, 50 ft. wheels
-  - **Armor Class**: 11 (–8 size, –3 Dex, +12 natural), touch –1, flat-footed 11
-  - **Base Attack**: +24; **CMB**: +41; **CMD**: 48
-  - **Attack**: Slam +25 melee (4d6+13)
-  - **Full Attack**: Slam +25 melee (4d6+13)
-  - **Space/Reach**: 30 ft./20 ft. (long) 30 ft./30 ft. (tall)
-  - **Special Attacks**: See text
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], darkvision 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]; also see text
-  - **Saves**: Fort +10, Ref +7, Will +5
-  - **Abilities**: Str 28, Dex 4, Con —, Int —, Wis 1, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +44
-  - **Feats**: —
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 10
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
+- **Hit Dice**: 32d10+80 (256 hp)
+- **Initiative**: –3
+- **Speed**: 10 ft. (2 squares); 20 ft. legs, 30 ft. multiple legs, 50 ft. wheels
+- **Armor Class**: 11 (–8 size, –3 Dex, +12 natural), touch –1, flat-footed 11
+- **Base Attack**: +24; **CMB**: +41; **CMD**: 48
+- **Attack**: Slam +25 melee (4d6+13)
+- **Full Attack**: Slam +25 melee (4d6+13)
+- **Space/Reach**: 30 ft./20 ft. (long) 30 ft./30 ft. (tall)
+- **Special Attacks**: See text
+- **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], darkvision 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]; also see text
+- **Saves**: Fort +10, Ref +7, Will +5
+- **Abilities**: Str 28, Dex 4, Con —, Int —, Wis 1, Cha 1
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +44
+- **Feats**: —
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 10
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: —
+- **Level Adjustment**: —

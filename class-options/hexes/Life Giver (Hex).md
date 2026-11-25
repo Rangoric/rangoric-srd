@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Life Giver
 
-*A [[rangoric-srd/classes/Witch#^witch-grand-hex|grand hex]] (Su).*
+_A [[rangoric-srd/classes/Witch#^witch-grand-hex|grand hex]] (Su)._
 
-Once per day the witch can, as a full round action, touch a dead creature and bring it back to life. This functions as *[[rangoric-srd/spells/Resurrection|resurrection]]*, but it does not require a material component.
+Once per day the witch can, as a full round action, touch a dead creature and bring it back to life. This functions as _[[rangoric-srd/spells/Resurrection|resurrection]]_, but it does not require a material component.

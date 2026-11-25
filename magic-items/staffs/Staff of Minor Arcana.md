@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/magic-item]
 
 This gleaming staff is made of polished silver and capped with a simple gemstone. It is frequently given as a gift to apprentice spellcasters upon completing their tutelage. The staff allows use of the following spells:
 
-- *[[rangoric-srd/spells/Shield|Shield]]* (1 charge)
-- *[[rangoric-srd/spells/Magic Missile|Magic missile]]* (2 charges)
+- _[[rangoric-srd/spells/Shield|Shield]]_ (1 charge)
+- _[[rangoric-srd/spells/Magic Missile|Magic missile]]_ (2 charges)
 
-Moderate abjuration and evocation; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Magic Missile|magic missile]]*, *[[rangoric-srd/spells/Shield|shield]]*; Price 8,000 gp; Cost 4,000 gp; Weight 5 lbs.
+Moderate abjuration and evocation; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Shield|shield]]_; Price 8,000 gp; Cost 4,000 gp; Weight 5 lbs.

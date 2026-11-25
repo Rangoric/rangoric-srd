@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/racial-trait, racial-trait/magical, racial-trait/stand
 
 **Race**: [[rangoric-srd/races/Tiefling|Tiefling]]. **Replaces**: spell-like ability and fiendish sorcery.
 
-Rare tieflings have a peculiar sight that allows them to see the state of a creature's soul. They can use *[[rangoric-srd/spells/Deathwatch|deathwatch]]* at will as a spell-like ability.
+Rare tieflings have a peculiar sight that allows them to see the state of a creature's soul. They can use _[[rangoric-srd/spells/Deathwatch|deathwatch]]_ at will as a spell-like ability.

@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Stunning Finale
 
-*Enchantment (Compulsion) \[Mind-affecting\]*
+_Enchantment (Compulsion) \[Mind-affecting\]_
 
-  - **Level**: Brd 5, Skd 5
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Targets**: Up to 3 creatures, no two of which can be more than 30 ft. apart
-  - **Duration**: 1 round
-  - **Saving Throw**: Fortitude partial; see text
-  - **Spell Resistance**: Yes
+- **Level**: Brd 5, Skd 5
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Targets**: Up to 3 creatures, no two of which can be more than 30 ft. apart
+- **Duration**: 1 round
+- **Saving Throw**: Fortitude partial; see text
+- **Spell Resistance**: Yes
 
 You must have a bardic performance in effect to cast this spell. With a flourish, you immediately end your bardic performance, assaulting the senses of the targets with your finale. Each target is stunned for 1 round. On a successful saving throw, a target is staggered for 1 round.

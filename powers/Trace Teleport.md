@@ -31,7 +31,7 @@ Clairsentience
 **Duration:** Instantaneous  
 **Saving Throw:** None  
 **Power Resistance:** No  
-**Power Points:** 7  
+**Power Points:** 7
 
 As [[rangoric-srd/powers/Detect Teleportation|detect teleportation]], except you can trace the destination of any psionic or magical teleportation made by others within this power’s area within the last minute.
 

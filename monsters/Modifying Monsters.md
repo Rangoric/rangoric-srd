@@ -29,7 +29,7 @@ The simple class templates are the [[rangoric-srd/monsters/simple-templates/Barb
 **Table: Bard Spells Known**
 
 | HD    | 0   | 1st | 2nd | 3rd | 4th | 5th | 6th |
-|-------|-----|-----|-----|-----|-----|-----|-----|
+| ----- | --- | --- | --- | --- | --- | --- | --- |
 | 1–4   | 2   | 1   | —   | —   | —   | —   | —   |
 | 5–8   | 2   | 2   | 1   | —   | —   | —   | —   |
 | 9–12  | ‡   | 2   | 2   | 1   | —   | —   | —   |
@@ -42,7 +42,7 @@ The simple class templates are the [[rangoric-srd/monsters/simple-templates/Barb
 **Table: Cleric, Druid, and Wizard Spell Slots**
 
 | HD    | 0   | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|-------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1–3   | 2   | 1   | —   | —   | —   | —   | —   | —   | —   | —   |
 | 4–6   | 2   | 2   | 1   | —   | —   | —   | —   | —   | —   | —   |
 | 7–9   | ‡   | 2   | 2   | 1   | —   | —   | —   | —   | —   | —   |
@@ -58,7 +58,7 @@ The simple class templates are the [[rangoric-srd/monsters/simple-templates/Barb
 **Table: Sorcerer Spells Known**
 
 | HD    | 0   | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|-------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| ----- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1–4   | 2   | 1   | —   | —   | —   | —   | —   | —   | —   | —   |
 | 5–7   | 2   | 2   | 1   | —   | —   | —   | —   | —   | —   | —   |
 | 8–10  | ‡   | 2   | 2   | 1   | —   | —   | —   | —   | —   | —   |

@@ -21,8 +21,8 @@ This suit of armor or shield produces a magical force that protects vital areas 
 
 | Fortification Type | Chance for Normal Damage | Base Price Modifier |
 | ------------------ | ------------------------ | ------------------- |
-| Light              | 25%                      | +1 bonus           |
-| Moderate           | 75%                      | +3 bonus           |
-| Heavy              | 100%                     | +5 bonus           |
+| Light              | 25%                      | +1 bonus            |
+| Moderate           | 75%                      | +3 bonus            |
+| Heavy              | 100%                     | +5 bonus            |
 
 Strong abjuration; CL 13th; Craft Magic Arms and Armor, limited wish or miracle; Price varies (see above).

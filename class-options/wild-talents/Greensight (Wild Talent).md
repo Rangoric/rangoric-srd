@@ -18,11 +18,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Greensight
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Wood Element|wood]]
-  - **Type**: utility (Su)
-  - **Level**: 4
-  - **Burn**: 0
+- **Element**: [[rangoric-srd/class-options/elements/Wood Element|wood]]
+- **Type**: utility (Su)
+- **Level**: 4
+- **Burn**: 0
 
-You can see through plant material as if under the effect of *[[rangoric-srd/spells/Greensight|greensight]]*, with a range of 60 feet.
+You can see through plant material as if under the effect of _[[rangoric-srd/spells/Greensight|greensight]]_, with a range of 60 feet.

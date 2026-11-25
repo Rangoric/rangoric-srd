@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Acid Terror
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 9d6+4d12+48 (108 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 24 (+4 armor, +2 deflection, +2 Dex, +1 dodge, +5 natural), touch 15, flat-footed 21
-  - **Base Attack**: +7; **CMB**: +10; **CMD**: 25
-  - **Attack**: Claw +10 melee (1d6+3 plus 1d6 acid) or bite +10 melee (1d6+4) or [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] +10 melee (1d6+3)
-  - **Full Attack**: 2 claws +10 melee (1d6+3 plus 1d6 acid) and bite +10 melee (1d6+4); or [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] +10/+5 melee (1d6+3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/prestige-classes/Dragon Disciple|Breath weapon]] (30-foot cone, 13d6 acid, DC 22, 2/day), [[rangoric-srd/prestige-classes/Dragon Disciple|claws]] (2, 1d6+3 plus 1d6 acid, magic, 9 rounds/day), [[rangoric-srd/prestige-classes/Dragon Disciple|dragon bite]]
-  - **Special Qualities**: [[rangoric-srd/prestige-classes/Dragon Disciple|Blood of dragons]], [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|bloodline arcana]] (acid spells deal +1 damage per die), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10
-  - **Saves**: Fort +11, Ref +10, Will +13
-  - **Abilities**: Str 16, Dex 14, Con 15, Int 10, Wis 8, Cha 22
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Linguistics|Linguistics]] +1, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +9
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (conjuration), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Quicken Spell|Quicken Spell]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration, enchantment), [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 12
-  - **Treasure**: NPC gear (combat gear: potion of cure serious wounds, potion of delay poison, wand of detect thoughts (15 charges); other gear: quarterstaff, amulet of natural armor +1, belt of mighty constitution +2, cloak of resistance +2, hat of disguise, headband of alluring charisma +2, ring of protection +2, 800 gp)
-  - **Alignment**: Lawful evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 9d6+4d12+48 (108 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 24 (+4 armor, +2 deflection, +2 Dex, +1 dodge, +5 natural), touch 15, flat-footed 21
+- **Base Attack**: +7; **CMB**: +10; **CMD**: 25
+- **Attack**: Claw +10 melee (1d6+3 plus 1d6 acid) or bite +10 melee (1d6+4) or [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] +10 melee (1d6+3)
+- **Full Attack**: 2 claws +10 melee (1d6+3 plus 1d6 acid) and bite +10 melee (1d6+4); or [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] +10/+5 melee (1d6+3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/prestige-classes/Dragon Disciple|Breath weapon]] (30-foot cone, 13d6 acid, DC 22, 2/day), [[rangoric-srd/prestige-classes/Dragon Disciple|claws]] (2, 1d6+3 plus 1d6 acid, magic, 9 rounds/day), [[rangoric-srd/prestige-classes/Dragon Disciple|dragon bite]]
+- **Special Qualities**: [[rangoric-srd/prestige-classes/Dragon Disciple|Blood of dragons]], [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|bloodline arcana]] (acid spells deal +1 damage per die), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10
+- **Saves**: Fort +11, Ref +10, Will +13
+- **Abilities**: Str 16, Dex 14, Con 15, Int 10, Wis 8, Cha 22
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Linguistics|Linguistics]] +1, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (conjuration), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Quicken Spell|Quicken Spell]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration, enchantment), [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 12
+- **Treasure**: NPC gear (combat gear: potion of cure serious wounds, potion of delay poison, wand of detect thoughts (15 charges); other gear: quarterstaff, amulet of natural armor +1, belt of mighty constitution +2, cloak of resistance +2, hat of disguise, headband of alluring charisma +2, ring of protection +2, 800 gp)
+- **Alignment**: Lawful evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 An acid terror is a [[rangoric-srd/monsters/human/Human|human]] with 9 levels of [[rangoric-srd/classes/Sorcerer|sorcerer]] and 4 levels of [[rangoric-srd/prestige-classes/Dragon Disciple|dragon disciple]]. Cunning and manipulative, these dragon disciples trap their foes with schemes and spells before showering them with deadly acid.
 
@@ -75,4 +75,4 @@ An acid terror speaks Common and Draconic.
 
 **Base Statistics**: Without mage armor, the dragon disciple's statistics are **AC** 20, touch 15, flat-footed 17.
 
-**Sorcerer spells known** (CL 12th; concentration +18): 6th (4/day)—*[[rangoric-srd/spells/Acid Fog|acid fog]], [[rangoric-srd/spells/Form of the Dragon I|form of the dragon I]]*; 5th (6/day)—*[[rangoric-srd/spells/Cloudkill|cloudkill]]* (DC 23), *[[rangoric-srd/spells/Feeblemind|feeblemind]]* (DC 22), *[[rangoric-srd/spells/Spell Resistance|spell resistance]]*; 4th (7/day)—*[[rangoric-srd/spells/Black Tentacles|black tentacles]]*, *[[rangoric-srd/spells/Confusion|confusion]]* (DC 21), *[[rangoric-srd/spells/Dimension Door|dimension door]]*, *[[rangoric-srd/spells/Fear|fear]]* (DC 20); 3rd (7/day)—*[[rangoric-srd/spells/Displacement|displacement]]*, *[[rangoric-srd/spells/Fly|fly]]*, *[[rangoric-srd/spells/Hold Person|hold person]]* (DC 20), *[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]* (DC 21), *[[rangoric-srd/spells/Suggestion|suggestion]]* (DC 20); 2nd (8/day)—*[[rangoric-srd/spells/Acid Arrow|acid arrow]]*, *[[rangoric-srd/spells/Glitterdust|glitterdust]]* (DC 20), *[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]* (DC 19), *[[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Resist Energy|resist energy]]*, *[[rangoric-srd/spells/Web|web]]* (DC 20); 1st (8/day)—*[[rangoric-srd/spells/Charm Person|charm person]]* (DC 18), *[[rangoric-srd/spells/Color Spray|color spray]]* (DC 17), *[[rangoric-srd/spells/Mage Armor|mage armor]]*, *[[rangoric-srd/spells/Magic Missile|magic missile]]*, *[[rangoric-srd/spells/Reduce Person|reduce person]]* (DC 17), *[[rangoric-srd/spells/Silent Image|silent image]]* (DC 17); 0 (at will)—*[[rangoric-srd/spells/Acid Splash|acid splash]]*, *[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Daze|daze]]* (DC 17), *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Message|message]]*, *[[rangoric-srd/spells/Open-Close|open/close]]*, *[[rangoric-srd/spells/Ray of Frost|ray of frost]]*, *[[rangoric-srd/spells/Read Magic|read magic]]*; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|draconic (green)]].
+**Sorcerer spells known** (CL 12th; concentration +18): 6th (4/day)—_[[rangoric-srd/spells/Acid Fog|acid fog]], [[rangoric-srd/spells/Form of the Dragon I|form of the dragon I]]_; 5th (6/day)—_[[rangoric-srd/spells/Cloudkill|cloudkill]]_ (DC 23), _[[rangoric-srd/spells/Feeblemind|feeblemind]]_ (DC 22), _[[rangoric-srd/spells/Spell Resistance|spell resistance]]_; 4th (7/day)—_[[rangoric-srd/spells/Black Tentacles|black tentacles]]_, _[[rangoric-srd/spells/Confusion|confusion]]_ (DC 21), _[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Fear|fear]]_ (DC 20); 3rd (7/day)—_[[rangoric-srd/spells/Displacement|displacement]]_, _[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Hold Person|hold person]]_ (DC 20), _[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_ (DC 21), _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 20); 2nd (8/day)—_[[rangoric-srd/spells/Acid Arrow|acid arrow]]_, _[[rangoric-srd/spells/Glitterdust|glitterdust]]_ (DC 20), _[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]_ (DC 19), _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_, _[[rangoric-srd/spells/Web|web]]_ (DC 20); 1st (8/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 18), _[[rangoric-srd/spells/Color Spray|color spray]]_ (DC 17), _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Reduce Person|reduce person]]_ (DC 17), _[[rangoric-srd/spells/Silent Image|silent image]]_ (DC 17); 0 (at will)—_[[rangoric-srd/spells/Acid Splash|acid splash]]_, _[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Daze|daze]]_ (DC 17), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Message|message]]_, _[[rangoric-srd/spells/Open-Close|open/close]]_, _[[rangoric-srd/spells/Ray of Frost|ray of frost]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|draconic (green)]].

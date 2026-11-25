@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Blinding
 
-Weapons with this quality dim the vision of those struck with a critical hit. Those affected must make a Fortitude save (DC 19) or be [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]], as per the spell *[[rangoric-srd/spells/Blindness-Deafness|blindness]]*.
+Weapons with this quality dim the vision of those struck with a critical hit. Those affected must make a Fortitude save (DC 19) or be [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]], as per the spell _[[rangoric-srd/spells/Blindness-Deafness|blindness]]_.
 
-Moderate necromancy; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Blindness-Deafness|blindness]]*; Price +2 bonus.
+Moderate necromancy; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Blindness-Deafness|blindness]]_; Price +2 bonus.

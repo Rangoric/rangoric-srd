@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Electricity Blast
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “electricity blast”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “electricity blast”, on the Special Attacks line.
 
 Once every 1d6 rounds as a standard action, the creature can discharge a blast of electricity in the radius its entry gives, dealing the electricity damage listed there (Reflex save for half). Any creature that takes damage from this electricity must also make a Fortitude save to avoid being [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1d4 rounds. The save DC is Constitution-based. The [[rangoric-srd/monsters/jellyfish/Sapphire Jellyfish|sapphire jellyfish]] has it.

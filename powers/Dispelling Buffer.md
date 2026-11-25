@@ -32,7 +32,7 @@ Target: You or one willing creature or one object (object weighing up to 100 lb.
 Duration: 1 hour/level (D)  
 Saving Throw: None  
 Power Resistance: Yes (harmless, object)  
-Power Points: 11  
+Power Points: 11
 
 You create a psychokinetic shield around the subject that improves the chance that any powers affecting the subject will resist a [[rangoric-srd/powers/Dispel Psionics|dispel psionics]] power (or a [[rangoric-srd/spells/Dispel Magic|dispel magic]] spell) or a negation effect that targets a specific power (such as [[rangoric-srd/powers/Shatter Mind Blank|shatter]][[rangoric-srd/powers/Shatter Mind Blank|mind blank]]). When dispelling buffer is manifested on a creature or object, add +5 to the DC of the dispel check for each ongoing effect that is subject to being dispelled.
 

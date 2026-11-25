@@ -94,7 +94,7 @@ This entry indicates how long it takes to complete the room or recruit the team.
 
 If a team doesn't have a Time price, spending capital to recruit that team doesn't count as a downtime action.
 
-Note that the Time prices for teams are for recruiting the team for long-term employment and don't reflect the availability of these kinds of NPCs for temporary work. For example, if you need to hire a 3rd-level cleric to cast *lesser restoration*, you don't have to spend 7 days of downtime recruiting a Priest team—you can just make standard spellcasting arrangements as described in the core rules.
+Note that the Time prices for teams are for recruiting the team for long-term employment and don't reflect the availability of these kinds of NPCs for temporary work. For example, if you need to hire a 3rd-level cleric to cast _lesser restoration_, you don't have to spend 7 days of downtime recruiting a Priest team—you can just make standard spellcasting arrangements as described in the core rules.
 
 #### Size
 

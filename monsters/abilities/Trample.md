@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Trample
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “trample (2d6+9, DC 20)”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “trample (2d6+9, DC 20)”, on the Special Attacks line.
 
 As a full-round action, a creature with this special attack can move up to twice its speed and literally run over any opponents at least one size category smaller than itself. The creature merely has to move over the opponents in its path; any creature whose space is completely covered by the trampling creature’s space is subject to the trample attack. If a target’s space is larger than 5 feet, it is only considered trampled if the trampling creature moves over all the squares it occupies. If the trampling creature moves over only some of a target’s space, the target can make an attack of opportunity against the trampling creature at a –4 penalty. A trampling creature that accidentally ends its movement in an illegal space returns to the last legal position it occupied, or the closest legal position, if there’s a legal position that’s closer.
 

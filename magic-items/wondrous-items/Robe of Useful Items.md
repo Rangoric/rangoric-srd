@@ -20,12 +20,12 @@ tags: [rangoric, rangoric/magic-item]
 
 This appears to be an unremarkable robe, but a character who dons it notes that it is adorned with small cloth patches of various shapes. Only the wearer of the robe can see these patches, recognize them for what items they become, and detach them. One patch can be detached each round. Detaching a patch causes it to become an actual item, as indicated below. A newly created robe of useful items always has two each of the following patches:
 
-  - Dagger
-  - Bullseye lantern (filled and lit)
-  - Mirror (a highly polished 2-foot-by-4-foot steel mirror)
-  - Pole (10-foot length)
-  - Hempen rope (50-foot coil)
-  - Sack
+- Dagger
+- Bullseye lantern (filled and lit)
+- Mirror (a highly polished 2-foot-by-4-foot steel mirror)
+- Pole (10-foot length)
+- Hempen rope (50-foot coil)
+- Sack
 
 In addition, the robe has several other patches. Roll 4d4 for the number of other patches and then roll for each patch on the table below to determine its nature.
 

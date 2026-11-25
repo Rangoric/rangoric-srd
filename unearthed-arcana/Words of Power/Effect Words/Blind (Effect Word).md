@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/word-of-power]
 
 # Blind
 
-*One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Power Words|Power group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]].*
+_One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Power Words|Power group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]]._
 
 **School** enchantment (compulsion) \[mind-affecting\]
 
@@ -32,7 +32,7 @@ tags: [rangoric, rangoric/word-of-power]
 This effect word causes a living creature to become blinded, whether or not the creature can hear the wordspell. This effect word's duration depends on the target's current hit point total. Any creature that currently has 201 hit points or more is unaffected.
 
 | Hit Points | Duration      |
-|------------|---------------|
+| ---------- | ------------- |
 | 50 or less | Permanent     |
 | 51–100     | 1d4+1 minutes |
 | 101–200    | 1d4+1 rounds  |

@@ -61,15 +61,15 @@ Organization: Solitary    
 Challenge Rating: 29      
 Treasure: Standard      
 Alignment: Always chaotic neutral      
-Advancement: 45-59 HD (Large); 60-74 HD (Huge); 75-89 HD (Huge)      
+Advancement: 45-59 HD (Large); 60-74 HD (Huge); 75-89 HD (Huge)    
 
 A hagunemnon’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 
-Psionics (Sp): Caster level 20th, save DC 22.  
+Psionics (Sp): Caster level 20th, save DC 22.
 
-At will - [[rangoric-srd/spells/Detect Thoughts|detect thoughts]], [[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]], [[rangoric-srd/spells/Knock|knock]], [[rangoric-srd/spells/Nondetection|nondetection]], [[rangoric-srd/spells/Plane Shift|plane shift]], [[rangoric-srd/spells/Suggestion|suggestion]].   
+At will - [[rangoric-srd/spells/Detect Thoughts|detect thoughts]], [[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]], [[rangoric-srd/spells/Knock|knock]], [[rangoric-srd/spells/Nondetection|nondetection]], [[rangoric-srd/spells/Plane Shift|plane shift]], [[rangoric-srd/spells/Suggestion|suggestion]]. 
 
 Destabilize Form (Su): If a protean hits with two or more slam attacks in the same round, it partly destabilizes its foe’s physical form, dealing an additional 4d6+31 points of Damage as well as 2 points of temporary Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|Damage]]. If the victim is drained to 0 Constitution, its dead body is only so much clear fluid that drains away unless somehow preserved by friends of the victim.
 

@@ -27,4 +27,4 @@ These soft leather gloves are decorated with even rows of mithral rivets. Only a
 - When the wearer makes an attack using Arcane Strike and hits, enemies adjacent to the target take damage equal to the wearer's Arcane Strike damage bonus. This damage is of the same type as the weapon's damage (bludgeoning, piercing, and so on).
 - When the wearer uses the aid another action to improve an ally's Armor Class, the ally also adds the wearer's Arcane Strike damage bonus to his AC against the opponent.
 
-Faint transmutation; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Arcane Strike|Arcane Strike]], *[[rangoric-srd/spells/Magic Weapon|magic weapon]]*; Price 5,000 gp; Cost 2,500 gp; Weight 1 lb.
+Faint transmutation; CL 1st; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Arcane Strike|Arcane Strike]], _[[rangoric-srd/spells/Magic Weapon|magic weapon]]_; Price 5,000 gp; Cost 2,500 gp; Weight 1 lb.

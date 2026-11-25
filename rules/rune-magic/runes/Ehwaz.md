@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Ehwaz
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
+_A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat._
 
 The rune of the horse and movement, Ehwaz is favored by nomads, cavalry and messengers. The rune stands for all domestic animals in addition to horses, making it popular amongst farmers. Those attuned to Ehwaz tend to be very friendly with animals and prone to not staying in one place for too long.
 
@@ -23,14 +23,14 @@ The rune of the horse and movement, Ehwaz is favored by nomads, cavalry and mess
 
 **Spells Available** (by level; see [[rangoric-srd/rules/rune-magic/Rune Magic#The Runes|the runes]]):
 
-1. *[[rangoric-srd/spells/Mount|mount]]*
-2. *[[rangoric-srd/spells/Animal Messenger|animal messenger]]*
-3. *[[rangoric-srd/spells/Phantom Steed|phantom steed]]*
-4. *[[rangoric-srd/spells/Haste|haste]]*
-5. *[[rangoric-srd/spells/Animal Growth|animal growth]]*
-6. *[[rangoric-srd/spells/Haste|haste]]*
-7. *[[rangoric-srd/spells/Summon Nature’s Ally VII|summon nature’s ally VII]]*
-8. *[[rangoric-srd/spells/Summon Nature’s Ally VIII|summon nature’s ally VIII]]*
-9. *[[rangoric-srd/spells/Sympathy|sympathy]]*
+1. _[[rangoric-srd/spells/Mount|mount]]_
+2. _[[rangoric-srd/spells/Animal Messenger|animal messenger]]_
+3. _[[rangoric-srd/spells/Phantom Steed|phantom steed]]_
+4. _[[rangoric-srd/spells/Haste|haste]]_
+5. _[[rangoric-srd/spells/Animal Growth|animal growth]]_
+6. _[[rangoric-srd/spells/Haste|haste]]_
+7. _[[rangoric-srd/spells/Summon Nature’s Ally VII|summon nature’s ally VII]]_
+8. _[[rangoric-srd/spells/Summon Nature’s Ally VIII|summon nature’s ally VIII]]_
+9. _[[rangoric-srd/spells/Sympathy|sympathy]]_
 
 **Associated Skill Bonus**: +1 bonus on [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks.

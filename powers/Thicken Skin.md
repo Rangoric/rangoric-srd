@@ -28,7 +28,7 @@ Psychometabolism
 **Range:** Personal  
 **Target:** You  
 **Duration:** 10 min./level  
-**Power Points:** 1  
+**Power Points:** 1
 
 Your skin or natural armor thickens and spreads across your body, providing a +1 enhancement bonus to your Armor Class.
 

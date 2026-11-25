@@ -16,9 +16,9 @@ tags: [rangoric, rangoric/spell]
 
 # Arcane Sight, Greater
 
-*Divination*
+_Divination_
 
-  - **Level**: Psy 7, Sor/Wiz 7, Wit 7
+- **Level**: Psy 7, Sor/Wiz 7, Wit 7
 
 This spell functions like [[rangoric-srd/spells/Arcane Sight|arcane sight]], except that you automatically know which spells or magical effects are active upon any individual or object you see.
 

@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/overview]
 
 ### Divine Minions
 
-All types of beings may serve deities. In general, a deity only accepts minions who have accomplished some great deed in service to the deity. Such minions usually have the same alignment as the deity. No minion’s alignment is opposed to the patron deity’s alignment on either the law-chaos axis or the good-evil axis.  
+All types of beings may serve deities. In general, a deity only accepts minions who have accomplished some great deed in service to the deity. Such minions usually have the same alignment as the deity. No minion’s alignment is opposed to the patron deity’s alignment on either the law-chaos axis or the good-evil axis.
 
 ##### Proxies
 
@@ -57,19 +57,19 @@ Planar Commitment: Petitioners cannot leave the plane they inhabit. They are tel
 
 Additional Special Qualities: Particular planes may provide additional benefits for petitioners of those planes. Typical additional special qualities may include any one of the following.
 
-  - [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/silver and [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 5.
+- [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/silver and [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 5.
 
-  - Continuous [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]].
+- Continuous [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]].
 
-  - [[rangoric-srd/monsters/abilities/Fast Healing|Fast healing]] 1.
+- [[rangoric-srd/monsters/abilities/Fast Healing|Fast healing]] 1.
 
-  - Damage reduction 10/magic.
+- Damage reduction 10/magic.
 
-  - Spell resistance 10.
+- Spell resistance 10.
 
-  - Additional 2d8 Hit Dice.
+- Additional 2d8 Hit Dice.
 
-  - Remove all immunities and resistances except immunity to mind-affecting effects. Add acid, cold, electricity, fire, and poison resistance 5.
+- Remove all immunities and resistances except immunity to mind-affecting effects. Add acid, cold, electricity, fire, and poison resistance 5.
 
 Such modifications are the result of the nature of the plane or the powerful beings within it.
 

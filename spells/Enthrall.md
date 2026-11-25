@@ -35,16 +35,16 @@ tags: [rangoric, rangoric/spell]
 
 # Enthrall
 
-*Enchantment (Charm) \[Language Dependent, Mind-Affecting, Sonic\]*
+_Enchantment (Charm) \[Language Dependent, Mind-Affecting, Sonic\]_
 
-  - **Level**: Brd 2, Clr 2, Inq 2, Mes 2, Psy 2, Sha 2, Skd 2, Wit 2
-  - **Components**: V, S
-  - **Casting Time**: 1 round
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Targets**: Any number of creatures
-  - **Duration**: 1 hour or less
-  - **Saving Throw**: Will negates; see text
-  - **Spell Resistance**: Yes
+- **Level**: Brd 2, Clr 2, Inq 2, Mes 2, Psy 2, Sha 2, Skd 2, Wit 2
+- **Components**: V, S
+- **Casting Time**: 1 round
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Targets**: Any number of creatures
+- **Duration**: 1 hour or less
+- **Saving Throw**: Will negates; see text
+- **Spell Resistance**: Yes
 
 If you have the attention of a group of creatures, you can use this spell to hold them spellbound. To cast the spell, you must speak or sing without interruption for 1 full round. Thereafter, those affected give you their undivided attention, ignoring their surroundings. They are considered to have an attitude of friendly while under the effect of the spell. Any potentially affected creature of a race or religion unfriendly to yours gets a +4 bonus on the saving throw.
 

@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Darklight
 
-This weapon possesses the innate ability to drain warmth and light from an area 10 feet in diameter around its wielder. Normally, this effect is only moderately noticeable, but twice per day the wielder may amplify it. This amplified effect is similar to the spell *[[rangoric-srd/spells/Darkness|darkness]]*, with the added effect that the temperature in the area affected is reduced by 10 degrees per point of Constitution bonus of the wielder. The effects of exposure are detailed under [[rangoric-srd/rules/Wilderness, Weather, and Environment#Cold Dangers|cold dangers]].
+This weapon possesses the innate ability to drain warmth and light from an area 10 feet in diameter around its wielder. Normally, this effect is only moderately noticeable, but twice per day the wielder may amplify it. This amplified effect is similar to the spell _[[rangoric-srd/spells/Darkness|darkness]]_, with the added effect that the temperature in the area affected is reduced by 10 degrees per point of Constitution bonus of the wielder. The effects of exposure are detailed under [[rangoric-srd/rules/Wilderness, Weather, and Environment#Cold Dangers|cold dangers]].
 
-Moderate conjuration and evocation [cold]; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Cone of Cold|cone of cold]]*, *[[rangoric-srd/spells/Darkness|darkness]]*; Price +2 bonus.
+Moderate conjuration and evocation [cold]; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Cone of Cold|cone of cold]]_, _[[rangoric-srd/spells/Darkness|darkness]]_; Price +2 bonus.

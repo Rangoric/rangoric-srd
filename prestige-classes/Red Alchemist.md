@@ -53,18 +53,18 @@ The red alchemist’s class skills (and the key ability for each skill) are [[ra
 
 **Table: The Red Alchemist** ^table-the-red-alchemist
 
-| Level | Bonus Feat | BI | CC | PD | T | U | CA | Spells per Day |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | [[rangoric-srd/feats/Craft Chymicals\|Craft Chymicals]] | +0 | +3 | +0 | +0 | +0 | +0 | +1 level of existing class |
-| 2nd | [[rangoric-srd/feats/Craft Powders & Dusts\|Craft Powders & Dusts]] | +0 | +3 | +3 | +0 | +0 | +0 | +1 level of existing class |
-| 3rd | [[rangoric-srd/feats/Craft Toxins\|Craft Toxins]] | +0 | +4 | +3 | +3 | +0 | +0 | +1 level of existing class |
-| 4th | [[rangoric-srd/feats/Brew Ingestibles\|Brew Ingestibles]] | +3 | +4 | +4 | +3 | +0 | +0 | +1 level of existing class |
-| 5th | [[rangoric-srd/feats/Craft Unguents\|Craft Unguents]] | +3 | +5 | +4 | +4 | +3 | +0 | +1 level of existing class |
-| 6th | — | +4 | +5 | +5 | +4 | +3 | +0 | +1 level of existing class |
-| 7th | [[rangoric-srd/feats/Craft Wondrous Item\|Craft Wondrous Item]] | +4 | +6 | +5 | +5 | +4 | +0 | +1 level of existing class |
-| 8th | [[rangoric-srd/feats/Create Alchana\|Create Alchana]] | +5 | +6 | +6 | +5 | +4 | +3 | +1 level of existing class |
-| 9th | [[rangoric-srd/feats/Perfect Materials\|Perfect Materials]] | +5 | +7 | +6 | +6 | +5 | +3 | +1 level of existing class |
-| 10th | [[rangoric-srd/feats/Create Greater Alchana\|Create Greater Alchana]] | +6 | +7 | +7 | +6 | +5 | +4 | +1 level of existing class |
+| Level | Bonus Feat                                                            | BI  | CC  | PD  | T   | U   | CA  | Spells per Day             |
+| ----- | --------------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | -------------------------- |
+| 1st   | [[rangoric-srd/feats/Craft Chymicals\|Craft Chymicals]]               | +0  | +3  | +0  | +0  | +0  | +0  | +1 level of existing class |
+| 2nd   | [[rangoric-srd/feats/Craft Powders & Dusts\|Craft Powders & Dusts]]   | +0  | +3  | +3  | +0  | +0  | +0  | +1 level of existing class |
+| 3rd   | [[rangoric-srd/feats/Craft Toxins\|Craft Toxins]]                     | +0  | +4  | +3  | +3  | +0  | +0  | +1 level of existing class |
+| 4th   | [[rangoric-srd/feats/Brew Ingestibles\|Brew Ingestibles]]             | +3  | +4  | +4  | +3  | +0  | +0  | +1 level of existing class |
+| 5th   | [[rangoric-srd/feats/Craft Unguents\|Craft Unguents]]                 | +3  | +5  | +4  | +4  | +3  | +0  | +1 level of existing class |
+| 6th   | —                                                                     | +4  | +5  | +5  | +4  | +3  | +0  | +1 level of existing class |
+| 7th   | [[rangoric-srd/feats/Craft Wondrous Item\|Craft Wondrous Item]]       | +4  | +6  | +5  | +5  | +4  | +0  | +1 level of existing class |
+| 8th   | [[rangoric-srd/feats/Create Alchana\|Create Alchana]]                 | +5  | +6  | +6  | +5  | +4  | +3  | +1 level of existing class |
+| 9th   | [[rangoric-srd/feats/Perfect Materials\|Perfect Materials]]           | +5  | +7  | +6  | +6  | +5  | +3  | +1 level of existing class |
+| 10th  | [[rangoric-srd/feats/Create Greater Alchana\|Create Greater Alchana]] | +6  | +7  | +7  | +6  | +5  | +4  | +1 level of existing class |
 
 BI: Brew Ingestibles; CC: Craft Chymicals; PD: Craft Powders & Dusts; T: Craft Toxins; U: Craft Unguents; CA: Create Alchana (the item creation bonuses).
 
@@ -78,7 +78,7 @@ All of the following are class features of the red alchemist prestige class.
 
 **Bonus Feats**: At 1st level and at nearly every level thereafter, red alchemists gain a bonus item creation feat tied to their specialties: 1st, [[rangoric-srd/feats/Craft Chymicals|Craft Chymicals]]; 2nd, [[rangoric-srd/feats/Craft Powders & Dusts|Craft Powders & Dusts]]; 3rd, [[rangoric-srd/feats/Craft Toxins|Craft Toxins]]; 4th, [[rangoric-srd/feats/Brew Ingestibles|Brew Ingestibles]]; 5th, [[rangoric-srd/feats/Craft Unguents|Craft Unguents]]; 7th, [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]]; 8th, [[rangoric-srd/feats/Create Alchana|Create Alchana]]; 9th, [[rangoric-srd/feats/Perfect Materials|Perfect Materials]]; 10th, [[rangoric-srd/feats/Create Greater Alchana|Create Greater Alchana]]. If the character does not meet the prerequisites for the feat, it cannot be used until they are met (a character may have knowledge of [[rangoric-srd/feats/Create Alchana|Create Alchana]] but cannot use it until she gains [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], etc.) ^red-alchemist-bonus-feats
 
-*Important:* These feats are in addition to the feats a character of any class gets as she rises in level. The red alchemist is not limited to the list given here when choosing those feats.
+_Important:_ These feats are in addition to the feats a character of any class gets as she rises in level. The red alchemist is not limited to the list given here when choosing those feats.
 
 **Item Creation Bonuses**: Red alchemists gain a competence bonus when creating an item once they have learned the alchemical methods for doing so. Thus, after gaining [[rangoric-srd/feats/Craft Chymicals|Craft Chymicals]] at 1st level with its +3 bonus for creating such items, the bonus increases every other level. In other words, red alchemists continue to perfect their crafting and can keep increasing the bonus given by the alchemical item creation feat. Red alchemists should use the bonus as noted on the table rather than the standard +3 bonus of the feat itself. ^red-alchemist-item-creation-bonuses
 

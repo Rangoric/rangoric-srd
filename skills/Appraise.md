@@ -34,13 +34,13 @@ The master of a [[rangoric-srd/classes/Wizard#Familiars|raven familiar]] gains a
 
 ## Advanced Uses
 
-The character can sense magical auras in objects.  
+The character can sense magical auras in objects.
 
-| Task         | DC |
-| ------------ | -- |
-| Detect magic | 50 |
+| Task         | DC  |
+| ------------ | --- |
+| Detect magic | 50  |
 
-*Detect Magic*: The character can sense if an item has a magical aura. He or she can then use [[rangoric-srd/skills/Mysticism|Mysticism]] to learn more about the item as if he or she had already cast detect magic on the item. This requires a full-round action.
+_Detect Magic_: The character can sense if an item has a magical aura. He or she can then use [[rangoric-srd/skills/Mysticism|Mysticism]] to learn more about the item as if he or she had already cast detect magic on the item. This requires a full-round action.
 
 ## Unlocks
 
@@ -66,7 +66,7 @@ You can read the psychic impressions left on objects or in places by previous ow
 
 **Check**: Once per day, you can concentrate for 1 minute while touching an item or place, receiving flashes of insight about its nature and ownership. After the minute, you attempt a DC 15 Appraise check to decipher the visions. You learn one piece of information, chosen by the GM, about its historical significance or its last owner, such as a glimpse of the last owner’s appearance or emotional state when it last used the item. You learn one more piece for every 10 by which your result exceeds the DC, as long as you concentrate for 1 more minute for each piece. If you fail by less than 5, or the item has no significant psychic imprint, you learn nothing. If you fail by 5 or more, the item seems psychically significant even if it isn’t, and what you learn is wildly inaccurate.
 
-If you use psychometry on an item affected by *[[rangoric-srd/spells/Charge Object|charge object]]* or *[[rangoric-srd/spells/Implant False Reading|implant false reading]]*, you automatically learn all the information the spell imprinted, and you must also attempt a Will save. If the item is affected by *implant false reading*, on a success you realize the information is false and can learn the true information as well. On a failure, or if the item is affected by *charge object*, you believe the information is true.
+If you use psychometry on an item affected by _[[rangoric-srd/spells/Charge Object|charge object]]_ or _[[rangoric-srd/spells/Implant False Reading|implant false reading]]_, you automatically learn all the information the spell imprinted, and you must also attempt a Will save. If the item is affected by _implant false reading_, on a success you realize the information is false and can learn the true information as well. On a failure, or if the item is affected by _charge object_, you believe the information is true.
 
 **Action**: Reading an object takes at least 1 minute of uninterrupted concentration.
 

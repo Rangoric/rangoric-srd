@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Reliable
 
-This special ability can only be placed on firearms. A *reliable firearm* is enchanted so that it is less likely to jam than other firearms. This enchantment reduces the [[rangoric-srd/equipment/Firearms#Misfires|misfire value]] of the affected firearm by 1 (minimum 0). This reduction occurs after any increases are calculated for firing with the [[rangoric-srd/rules/conditions/Broken (Condition)|broken]] condition, or for any other effect that might increase the misfire value of a firearm.
+This special ability can only be placed on firearms. A _reliable firearm_ is enchanted so that it is less likely to jam than other firearms. This enchantment reduces the [[rangoric-srd/equipment/Firearms#Misfires|misfire value]] of the affected firearm by 1 (minimum 0). This reduction occurs after any increases are calculated for firing with the [[rangoric-srd/rules/conditions/Broken (Condition)|broken]] condition, or for any other effect that might increase the misfire value of a firearm.
 
-Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Mending|mending]]*; Price +1 bonus.
+Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Mending|mending]]_; Price +1 bonus.

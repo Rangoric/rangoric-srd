@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Undetectable Alignment
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Alc 2, Apl 2, Brd 1, Clr 2, Fhn 2, Inq 2, Mes 1, Pal 2, Psy 2, Skd 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature or object
-  - **Duration**: 24 hours
-  - **Saving Throw**: Will negates (object)
-  - **Spell Resistance**: Yes (object)
+- **Level**: Alc 2, Apl 2, Brd 1, Clr 2, Fhn 2, Inq 2, Mes 1, Pal 2, Psy 2, Skd 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature or object
+- **Duration**: 24 hours
+- **Saving Throw**: Will negates (object)
+- **Spell Resistance**: Yes (object)
 
 An undetectable alignment spell conceals the alignment of an object or a creature from all forms of divination.

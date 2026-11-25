@@ -19,10 +19,10 @@ tags: [rangoric, rangoric/spell]
 
 # Resurrection
 
-*Conjuration (Healing)*
+_Conjuration (Healing)_
 
-  - **Level**: Clr 7, Sha 8, Wit 8
-  - **Casting Time**: 10 minutes
+- **Level**: Clr 7, Sha 8, Wit 8
+- **Casting Time**: 10 minutes
 
 This spell functions like [[rangoric-srd/spells/Raise Dead|raise dead]], except that you are able to restore life and complete strength to any deceased creature.
 
@@ -32,4 +32,4 @@ Upon completion of the spell, the creature is immediately restored to full hit p
 
 You can resurrect someone killed by a death effect or someone who has been turned into an undead creature and then destroyed. You cannot resurrect someone who has died of old age. Constructs, elementals, outsiders, and undead creatures can’t be resurrected.
 
-*Material Component*: A sprinkle of holy water and diamonds worth a total of at least 10,000 gp.
+_Material Component_: A sprinkle of holy water and diamonds worth a total of at least 10,000 gp.

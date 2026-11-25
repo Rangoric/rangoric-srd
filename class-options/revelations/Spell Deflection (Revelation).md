@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Spell Deflection
 
-*A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Ascetic Mystery|ascetic]] mystery.*
+_A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Ascetic Mystery|ascetic]] mystery._
 
 You can use a readied action to counterspell any spell being cast on you or an adjacent ally that requires a ranged touch attack (such as a ray). In order to successfully counter the spell, you must make an unarmed attack roll. If the result of this attack roll is higher than 20 + the spell’s caster level, the spell is negated with no effect.
 

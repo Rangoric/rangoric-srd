@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Healing
 
-*An [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-judgment|inquisitor’s judgment]].*
+_An [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-judgment|inquisitor’s judgment]]._
 
 The inquisitor is surrounded by a healing light, gaining [[rangoric-srd/rules/Special Abilities and Conditions#Fast Healing|fast healing]] 1. This causes the inquisitor to heal 1 point of damage each round as long as the inquisitor is alive and the judgment lasts. The amount of healing increases by 1 point for every three inquisitor levels she possesses.

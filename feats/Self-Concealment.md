@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Self-Concealment
 
-Prerequisites: Dex 30, [[rangoric-srd/skills/Stealth|Stealth]] 27 ranks, [[rangoric-srd/skills/Acrobatics|Acrobatics]] 27 ranks, improved evasion.  
+Prerequisites: Dex 30, [[rangoric-srd/skills/Stealth|Stealth]] 27 ranks, [[rangoric-srd/skills/Acrobatics|Acrobatics]] 27 ranks, improved evasion.
 
 Benefit: Attacks against the character have a 10% miss chance, similar to the effect of concealment. The character loses this benefit whenever he or she would lose his or her Dexterity bonus to AC.
 

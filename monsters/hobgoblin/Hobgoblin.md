@@ -41,37 +41,37 @@ tags: [rangoric, rangoric/monster]
 
 # Hobgoblin
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Goblinoid)
-  - **Hit Dice**: 1d10+7 (17 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 16 (+3 armor, +2 Dex, +1 shield), touch 12, flat-footed 14
-  - **Base Attack**: +1; **CMB**: +3; **CMD**: 15
-  - **Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +4 melee (1d8+2/19–20) or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +3 ranged (1d8/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +4 melee (1d8+2/19–20); or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +3 ranged (1d8/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
-  - **Saves**: Fort +5, Ref +2, Will +1
-  - **Abilities**: Str 15, Dex 15, Con 16, Int 10, Wis 12, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +5
-  - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
-  - **Environment**: Temperate hills; warm hills
-  - **Organization**: Gang (4–9), warband (10–24), tribe (25+ plus 50% noncombatants, 1 sergeant of 3rd level per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 leader of 6th–8th level, 6–12 leopards, and 1–4 ogres or 1–2 trolls), or band (10–100 plus 50% noncombatants plus 1 3rd-level sergeant per 20 adults and 1 leader of 4th–6th level)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: NPC Gear (studded leather armor, light steel shield, longsword, longbow with 20 arrows, other treasure)
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: +1
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Goblinoid)
+- **Hit Dice**: 1d10+7 (17 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 16 (+3 armor, +2 Dex, +1 shield), touch 12, flat-footed 14
+- **Base Attack**: +1; **CMB**: +3; **CMD**: 15
+- **Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +4 melee (1d8+2/19–20) or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +3 ranged (1d8/×3)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Longsword|Longsword]] +4 melee (1d8+2/19–20); or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +3 ranged (1d8/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
+- **Saves**: Fort +5, Ref +2, Will +1
+- **Abilities**: Str 15, Dex 15, Con 16, Int 10, Wis 12, Cha 8
+- **Skills**: [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +5
+- **Feats**: [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
+- **Environment**: Temperate hills; warm hills
+- **Organization**: Gang (4–9), warband (10–24), tribe (25+ plus 50% noncombatants, 1 sergeant of 3rd level per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 leader of 6th–8th level, 6–12 leopards, and 1–4 ogres or 1–2 trolls), or band (10–100 plus 50% noncombatants plus 1 3rd-level sergeant per 20 adults and 1 leader of 4th–6th level)
+- **Challenge Rating**: 1/2
+- **Treasure**: NPC Gear (studded leather armor, light steel shield, longsword, longbow with 20 arrows, other treasure)
+- **Alignment**: Usually lawful evil
+- **Advancement**: By character class
+- **Level Adjustment**: +1
 
 **Also in this entry:**
 
-  - Hobgoblin Overseers: [[rangoric-srd/monsters/hobgoblin/Hobgoblin Battlefield Zealot|Hobgoblin Battlefield Zealot]] (CR 2), [[rangoric-srd/monsters/hobgoblin/Hobgoblin Sergeant|Hobgoblin Sergeant]] (CR 2)
-  - Hobgoblin Leaders: [[rangoric-srd/monsters/hobgoblin/Hobgoblin Lieutenant|Hobgoblin Lieutenant]] (CR 4), [[rangoric-srd/monsters/hobgoblin/Hobgoblin Forerunner|Hobgoblin Forerunner]] (CR 6)
-  - Hobgoblin Bombardier: [[rangoric-srd/monsters/hobgoblin/Hobgoblin Bombardier|Hobgoblin Bombardier]] (CR 7)
-  - Hobgoblin Battle Priest: [[rangoric-srd/monsters/hobgoblin/Hobgoblin Battle Priest|Hobgoblin Battle Priest]] (CR 8)
-  - Hobgoblin Paragon: [[rangoric-srd/monsters/hobgoblin/Hobgoblin Paragon|Hobgoblin Paragon]] (CR 10)
-  - Hobgoblin Commander: [[rangoric-srd/monsters/hobgoblin/Hobgoblin Commander|Hobgoblin Commander]] (CR 12)
+- Hobgoblin Overseers: [[rangoric-srd/monsters/hobgoblin/Hobgoblin Battlefield Zealot|Hobgoblin Battlefield Zealot]] (CR 2), [[rangoric-srd/monsters/hobgoblin/Hobgoblin Sergeant|Hobgoblin Sergeant]] (CR 2)
+- Hobgoblin Leaders: [[rangoric-srd/monsters/hobgoblin/Hobgoblin Lieutenant|Hobgoblin Lieutenant]] (CR 4), [[rangoric-srd/monsters/hobgoblin/Hobgoblin Forerunner|Hobgoblin Forerunner]] (CR 6)
+- Hobgoblin Bombardier: [[rangoric-srd/monsters/hobgoblin/Hobgoblin Bombardier|Hobgoblin Bombardier]] (CR 7)
+- Hobgoblin Battle Priest: [[rangoric-srd/monsters/hobgoblin/Hobgoblin Battle Priest|Hobgoblin Battle Priest]] (CR 8)
+- Hobgoblin Paragon: [[rangoric-srd/monsters/hobgoblin/Hobgoblin Paragon|Hobgoblin Paragon]] (CR 10)
+- Hobgoblin Commander: [[rangoric-srd/monsters/hobgoblin/Hobgoblin Commander|Hobgoblin Commander]] (CR 12)
 
 Hobgoblins are militaristic and fecund, a combination that makes them quite dangerous in some regions. They breed quickly, replacing fallen members with new soldiers and keeping up their numbers despite the fortunes of war. They generally need little reason to declare war, but more often than not that reason is to capture new slaves—life as a slave in a hobgoblin lair is brutal and short, and new slaves are always needed to replace those who fall or are eaten.
 

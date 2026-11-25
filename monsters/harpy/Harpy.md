@@ -39,32 +39,32 @@ tags: [rangoric, rangoric/monster]
 
 # Harpy
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
-  - **Hit Dice**: 7d10 (38 hp)
-  - **Initiative**: +2
-  - **Speed**: 20 ft. (4 squares), fly 80 ft. (average)
-  - **Armor Class**: 16 (+2 armor, +2 Dex, +1 dodge, +1 natural), touch 13, flat-footed 13
-  - **Base Attack**: +7; **CMB**: +8; **CMD**: 21
-  - **Attack**: [[rangoric-srd/equipment/weapons/Morningstar|Morningstar]] +8 melee (1d8+1) or talon +8 melee (1d6)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Morningstar|Morningstar]] +8/+3 melee (1d8+1) and 2 talons +3 melee (1d6)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Captivating song
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
-  - **Saves**: Fort +4, Ref +7, Will +6
-  - **Abilities**: Str 12, Dex 15, Con 10, Int 7, Wis 12, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, Performance (song) +5
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
-  - **Environment**: Temperate marshes
-  - **Organization**: Solitary, pair, or flight (3–12)
-  - **Challenge Rating**: 4
-  - **Treasure**: Standard (leather armor, morningstar, and other treasure)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: +3
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
+- **Hit Dice**: 7d10 (38 hp)
+- **Initiative**: +2
+- **Speed**: 20 ft. (4 squares), fly 80 ft. (average)
+- **Armor Class**: 16 (+2 armor, +2 Dex, +1 dodge, +1 natural), touch 13, flat-footed 13
+- **Base Attack**: +7; **CMB**: +8; **CMD**: 21
+- **Attack**: [[rangoric-srd/equipment/weapons/Morningstar|Morningstar]] +8 melee (1d8+1) or talon +8 melee (1d6)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Morningstar|Morningstar]] +8/+3 melee (1d8+1) and 2 talons +3 melee (1d6)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Captivating song
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
+- **Saves**: Fort +4, Ref +7, Will +6
+- **Abilities**: Str 12, Dex 15, Con 10, Int 7, Wis 12, Cha 17
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, Performance (song) +5
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
+- **Environment**: Temperate marshes
+- **Organization**: Solitary, pair, or flight (3–12)
+- **Challenge Rating**: 4
+- **Treasure**: Standard (leather armor, morningstar, and other treasure)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: +3
 
 **Also in this entry:**
 
-  - [[rangoric-srd/monsters/harpy/Harpy Archer, 7th-Level Fighter|Harpy Archer, 7th-Level Fighter]]
+- [[rangoric-srd/monsters/harpy/Harpy Archer, 7th-Level Fighter|Harpy Archer, 7th-Level Fighter]]
 
 Often viewed as vicious and corrupted creatures, harpies know how creatures think and act. This understanding gives them an advantage when it comes to finding their favorite meals. While creatures of the wild easily fall victim to their captivating songs, these vile bird-women prefer their meals spiced with complex sentient thoughts. Easy prey makes for a boring meal.
 

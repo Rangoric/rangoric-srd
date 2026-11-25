@@ -29,16 +29,16 @@ tags: [rangoric, rangoric/spell]
 
 # Disintegrate
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Destruction 7, Mag 6, Occ 6, Psy 6, Sor/Wiz 6, Spi 6
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Effect**: Ray
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude partial (object)
-  - **Spell Resistance**: Yes
+- **Level**: Destruction 7, Mag 6, Occ 6, Psy 6, Sor/Wiz 6, Spi 6
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Effect**: Ray
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude partial (object)
+- **Spell Resistance**: Yes
 
 A thin, green ray springs from your pointing finger. You must make a successful ranged touch attack to hit. Any creature struck by the ray takes 2d6 points of damage per caster level (to a maximum of 40d6). Any creature reduced to 0 or fewer hit points by this spell is entirely disintegrated, leaving behind only a trace of fine dust. A disintegrated creature’s equipment is unaffected.
 
@@ -48,4 +48,4 @@ A creature or object that makes a successful Fortitude save is partially affecte
 
 Only the first creature or object struck can be affected; that is, the ray affects only one target per casting.
 
-*Arcane Material Component*: A lodestone and a pinch of dust.
+_Arcane Material Component_: A lodestone and a pinch of dust.

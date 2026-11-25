@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/flails]
 
 # Scorpion Whip
 
-*Exotic light melee weapon (performance).* Cost 5 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Weight 3 lb.; Type Slashing. ^stats
+_Exotic light melee weapon (performance)._ Cost 5 gp; Dmg 1d3 (S), 1d4 (M); Critical x2; Weight 3 lb.; Type Slashing. ^stats
 
 This whip has a series of razor-sharp blades and fangs inset along its tip. It deals lethal damage, even to creatures with armor bonuses. If you are proficient with whips, you can use a scorpion whip as a [[rangoric-srd/equipment/weapons/Whip|whip]].
 

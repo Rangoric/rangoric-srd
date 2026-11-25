@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Unwieldy Glaive
 
-This weapon appears and acts as a *+2 glaive*, but cannot be used to make attacks of opportunity, and hinders its wielder whenever such an attack is attempted. When its wielder attempts an attack of opportunity, the glaive flails around madly, causing its wielder to become unbalanced. The wielder takes a –2 penalty to AC and on attack rolls until the end of its next turn.
+This weapon appears and acts as a _+2 glaive_, but cannot be used to make attacks of opportunity, and hinders its wielder whenever such an attack is attempted. When its wielder attempts an attack of opportunity, the glaive flails around madly, causing its wielder to become unbalanced. The wielder takes a –2 penalty to AC and on attack rolls until the end of its next turn.
 
 Faint transmutation; CL 5th; Intended magic item: +2 [[rangoric-srd/equipment/weapons/Glaive|glaive]].

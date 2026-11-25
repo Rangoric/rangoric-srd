@@ -55,28 +55,28 @@ The vigilante’s class skills (and the key ability for each skill) are [[rangor
 
 **Table: The Vigilante** ^table-the-vigilante
 
-| Level | Hidden Strike (Stalker) | Special |
-| --- | --- | --- |
-| 1st | 1d8 | Dual identity, seamless guise, social talent, vigilante specialization |
-| 2nd | 1d8 | Vigilante talent |
-| 3rd | 2d8 | Social talent, unshakable |
-| 4th | 2d8 | Vigilante talent |
-| 5th | 3d8 | Social talent, startling appearance |
-| 6th | 3d8 | Vigilante talent |
-| 7th | 4d8 | Social talent |
-| 8th | 4d8 | Vigilante talent |
-| 9th | 5d8 | Social talent |
-| 10th | 5d8 | Vigilante talent |
-| 11th | 6d8 | Social talent, frightening appearance |
-| 12th | 6d8 | Vigilante talent |
-| 13th | 7d8 | Social talent |
-| 14th | 7d8 | Vigilante talent |
-| 15th | 8d8 | Social talent |
-| 16th | 8d8 | Vigilante talent |
-| 17th | 9d8 | Social talent, stunning appearance |
-| 18th | 9d8 | Vigilante talent |
-| 19th | 10d8 | Social talent |
-| 20th | 10d8 | Vigilante talent, vengeance strike |
+| Level | Hidden Strike (Stalker) | Special                                                                |
+| ----- | ----------------------- | ---------------------------------------------------------------------- |
+| 1st   | 1d8                     | Dual identity, seamless guise, social talent, vigilante specialization |
+| 2nd   | 1d8                     | Vigilante talent                                                       |
+| 3rd   | 2d8                     | Social talent, unshakable                                              |
+| 4th   | 2d8                     | Vigilante talent                                                       |
+| 5th   | 3d8                     | Social talent, startling appearance                                    |
+| 6th   | 3d8                     | Vigilante talent                                                       |
+| 7th   | 4d8                     | Social talent                                                          |
+| 8th   | 4d8                     | Vigilante talent                                                       |
+| 9th   | 5d8                     | Social talent                                                          |
+| 10th  | 5d8                     | Vigilante talent                                                       |
+| 11th  | 6d8                     | Social talent, frightening appearance                                  |
+| 12th  | 6d8                     | Vigilante talent                                                       |
+| 13th  | 7d8                     | Social talent                                                          |
+| 14th  | 7d8                     | Vigilante talent                                                       |
+| 15th  | 8d8                     | Social talent                                                          |
+| 16th  | 8d8                     | Vigilante talent                                                       |
+| 17th  | 9d8                     | Social talent, stunning appearance                                     |
+| 18th  | 9d8                     | Vigilante talent                                                       |
+| 19th  | 10d8                    | Social talent                                                          |
+| 20th  | 10d8                    | Vigilante talent, vengeance strike                                     |
 
 An avenger uses his vigilante level as his base attack bonus instead (see [[rangoric-srd/classes/Vigilante#^vigilante-specialization|vigilante specialization]]).
 

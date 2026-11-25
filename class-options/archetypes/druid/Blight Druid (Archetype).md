@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Blight Druid
 
-*A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Druid#^druid-archetypes|druid]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 The devoted servants of nature corrupted, ruined, and destroyed, blight druids are the caretakers of lands ravaged by natural disaster. While some are devoted to reforming and reclaiming lands despoiled by the ravages of civilization, others seek out the more rapacious violence inherent in nature and feed the creeping rot and decay that brings an end to all things.
 
@@ -33,4 +33,4 @@ The devoted servants of nature corrupted, ruined, and destroyed, blight druids a
 
 **Blightblooded (Ex)**: At 9th level, a blight druid gains immunity to all diseases, including natural and supernatural diseases. She also becomes immune to effects that would cause her to become sickened or nauseated. This ability replaces [[rangoric-srd/classes/Druid#^druid-venom-immunity|venom immunity]].
 
-**Plaguebearer (Su)**: Starting at 13th level, any creature that strikes a blight druid with a [[rangoric-srd/combat/Combat Actions#^touch-attacks|touch attack]], unarmed strike, or natural weapon must succeed at a Fortitude save with a DC of 10 + 1/2 the druid's level + the druid's Wisdom modifier or contract a disease, as the *[[rangoric-srd/spells/Contagion|contagion]]* spell. If the creature makes its save, it is immune to this effect for 24 hours. This ability replaces [[rangoric-srd/classes/Druid#^druid-a-thousand-faces|a thousand faces]].
+**Plaguebearer (Su)**: Starting at 13th level, any creature that strikes a blight druid with a [[rangoric-srd/combat/Combat Actions#^touch-attacks|touch attack]], unarmed strike, or natural weapon must succeed at a Fortitude save with a DC of 10 + 1/2 the druid's level + the druid's Wisdom modifier or contract a disease, as the _[[rangoric-srd/spells/Contagion|contagion]]_ spell. If the creature makes its save, it is immune to this effect for 24 hours. This ability replaces [[rangoric-srd/classes/Druid#^druid-a-thousand-faces|a thousand faces]].

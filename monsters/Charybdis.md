@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Charybdis
 
-  - Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Aquatic)
-  - **Hit Dice**: 16d8+112 (184 hp)
-  - **Initiative**: +3
-  - **Speed**: 20 ft. (4 squares), swim 50 ft.
-  - **Armor Class**: 28 (–1 Dex, +23 natural, –4 size), touch 5, flat-footed 28
-  - **Base Attack**: +12; **CMB**: +28 (+32 grapple); **CMD**: 37 (can't be tripped)
-  - **Attack**: Bite +20 melee (2d8+12/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +20 melee (2d6+12)
-  - **Full Attack**: Bite +20 melee (2d8+12/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +20 melee (2d6+12)
-  - **Space/Reach**: 20 ft./20 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Fast Swallow|Fast swallow]], [[rangoric-srd/monsters/abilities/Rending Claws|rending claws]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (6d6 bludgeoning damage plus 6d6 acid damage, AC 21, hp 18), [[rangoric-srd/monsters/abilities/Vortex|vortex]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 20
-  - **Saves**: Fort +12, Ref +6, Will +14
-  - **Abilities**: Str 34, Dex 9, Con 25, Int 4, Wis 19, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Perception|Perception]] +23
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-  - **Environment**: Any oceans
-  - **Organization**: Solitary
-  - **Challenge Rating**: 13
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Aquatic)
+- **Hit Dice**: 16d8+112 (184 hp)
+- **Initiative**: +3
+- **Speed**: 20 ft. (4 squares), swim 50 ft.
+- **Armor Class**: 28 (–1 Dex, +23 natural, –4 size), touch 5, flat-footed 28
+- **Base Attack**: +12; **CMB**: +28 (+32 grapple); **CMD**: 37 (can't be tripped)
+- **Attack**: Bite +20 melee (2d8+12/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +20 melee (2d6+12)
+- **Full Attack**: Bite +20 melee (2d8+12/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +20 melee (2d6+12)
+- **Space/Reach**: 20 ft./20 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Fast Swallow|Fast swallow]], [[rangoric-srd/monsters/abilities/Rending Claws|rending claws]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (6d6 bludgeoning damage plus 6d6 acid damage, AC 21, hp 18), [[rangoric-srd/monsters/abilities/Vortex|vortex]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 20
+- **Saves**: Fort +12, Ref +6, Will +14
+- **Abilities**: Str 34, Dex 9, Con 25, Int 4, Wis 19, Cha 6
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Perception|Perception]] +23
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+- **Environment**: Any oceans
+- **Organization**: Solitary
+- **Challenge Rating**: 13
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Sailors tell many tales of the creatures of the deep, from the terrible kraken to the beautiful mermaid. Yet few are stranger or more feared than the dread charybdis, for it exists to capture ships, crack them open like nuts, and feast on the doomed sailors within. So legendary are these violent attacks that many sailors have come to view the charybdis not as a species of aberrant life, but as the vengeful personification of an angry sea god.
 

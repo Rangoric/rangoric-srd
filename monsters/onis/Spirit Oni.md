@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Spirit Oni
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native, Oni)
-  - **Hit Dice**: 3d10+3 (19 hp)
-  - **Initiative**: +8
-  - **Speed**: 10 ft. (2 squares), fly 30 ft. (good)
-  - **Armor Class**: 17 (+4 Dex, +1 natural, +2 size), touch 16, flat-footed 13
-  - **Base Attack**: +3; **CMB**: +5; **CMD**: 13 (can't be tripped)
-  - **Attack**: Bite +9 melee (1d4–2) or gore +9 melee (1d4–2 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: Bite +9 melee (1d4–2) and gore +9 melee (1d4–2 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Mask Symbiosis|mask symbiosis]]
-  - **Saves**: Fort +2, Ref +7, Will +4
-  - **Abilities**: Str 6, Dex 19, Con 12, Int 13, Wis 12, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Mysticism|Mysticism]] +4, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +17
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, or rack (3–12)
-  - **Challenge Rating**: 2
-  - **Treasure**: Standard
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native, Oni)
+- **Hit Dice**: 3d10+3 (19 hp)
+- **Initiative**: +8
+- **Speed**: 10 ft. (2 squares), fly 30 ft. (good)
+- **Armor Class**: 17 (+4 Dex, +1 natural, +2 size), touch 16, flat-footed 13
+- **Base Attack**: +3; **CMB**: +5; **CMD**: 13 (can't be tripped)
+- **Attack**: Bite +9 melee (1d4–2) or gore +9 melee (1d4–2 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: Bite +9 melee (1d4–2) and gore +9 melee (1d4–2 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Mask Symbiosis|mask symbiosis]]
+- **Saves**: Fort +2, Ref +7, Will +4
+- **Abilities**: Str 6, Dex 19, Con 12, Int 13, Wis 12, Cha 15
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Mysticism|Mysticism]] +4, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +17
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any
+- **Organization**: Solitary, pair, or rack (3–12)
+- **Challenge Rating**: 2
+- **Treasure**: Standard
+- **Alignment**: Usually lawful evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Most oni that emerge on the Material Plane do so into a new body of humanoid flesh, yet this is not the case for all oni. Periodically, when an evil spellcaster wishes to engage the servitude of an oni as a familiar, the result is something relatively unusual—an oni made flesh directly from its spiritual form rather than one who takes the features of a humanoid as its own.
 
@@ -74,8 +74,8 @@ Spirit onis speak Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +8): Constant—*[[rangoric-srd/spells/Detect Magic|detect magic]]*; At will—*[[rangoric-srd/spells/Invisibility|invisibility]]* (self only), *[[rangoric-srd/spells/Mage Hand|mage hand]]*; 1/day—*[[rangoric-srd/spells/Command|command]]* (DC 13), *[[rangoric-srd/spells/Sleep|sleep]]* (DC 13); 1/week—*[[rangoric-srd/spells/Commune|commune]]* (CL 12th, 6 questions).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +8): Constant—_[[rangoric-srd/spells/Detect Magic|detect magic]]_; At will—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only), _[[rangoric-srd/spells/Mage Hand|mage hand]]_; 1/day—_[[rangoric-srd/spells/Command|command]]_ (DC 13), _[[rangoric-srd/spells/Sleep|sleep]]_ (DC 13); 1/week—_[[rangoric-srd/spells/Commune|commune]]_ (CL 12th, 6 questions).
 
 **[[rangoric-srd/monsters/abilities/Mask Symbiosis|Mask Symbiosis]] (Ex)**: A spirit oni can be worn as a mask by a willing Small or Medium creature. While worn in this way, the wearer can see through the oni's eyes and speak through its mouth, although the wearer retains its own senses and voice. The spirit oni remains a separate creature, and must detach from its host's face (as a move action) if it wishes to take any action of its own (including attacking or using a spell-like ability). While a spirit oni is worn as a mask, it grants a +2 insight bonus on its host's Perception checks.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Spirit Oni Venom|Spirit Oni Venom]]: Gore—injury; *save* Fort DC 12; *frequency* 1/round for 6 rounds; *effect* 1d2 Cha; *cure* 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Spirit Oni Venom|Spirit Oni Venom]]: Gore—injury; _save_ Fort DC 12; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Cha; _cure_ 2 consecutive saves.

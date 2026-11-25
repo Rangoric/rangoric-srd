@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Aura of Greater Courage
 
-*Abjuration \[Emotion\]*
+_Abjuration \[Emotion\]_
 
-  - **Level**: Pal 2
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Area**: 10-ft.-radius emanation centered on you
-  - **Duration**: 10 minutes/level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Pal 2
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Area**: 10-ft.-radius emanation centered on you
+- **Duration**: 10 minutes/level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-When you cast this spell you strengthen your paladin's aura of courage. Until the end of its duration, all allies within that aura are immune to fear (magical or otherwise). If you do not have the aura of courage class feature, *aura of greater courage* has no effect.
+When you cast this spell you strengthen your paladin's aura of courage. Until the end of its duration, all allies within that aura are immune to fear (magical or otherwise). If you do not have the aura of courage class feature, _aura of greater courage_ has no effect.

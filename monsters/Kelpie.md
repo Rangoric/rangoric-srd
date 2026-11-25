@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Kelpie
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]] (Aquatic, Shapechanger)
-  - **Hit Dice**: 7d6+14 (38 hp)
-  - **Initiative**: +7
-  - **Speed**: 40 ft. (8 squares), swim 40 ft.
-  - **Armor Class**: 17 (+3 Dex, +4 natural), touch 13, flat-footed 14
-  - **Base Attack**: +3; **CMB**: +5 (+9 grapple); **CMD**: 18
-  - **Attack**: Slam +6 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: 2 slams +6 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Captivating Lure|Captivating lure]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 1 mile, [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (hippocampus or horse, beast shape IV; Small or Medium humanoid, alter self), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
-  - **Saves**: Fort +4, Ref +8, Will +6
-  - **Abilities**: Str 15, Dex 16, Con 15, Int 8, Wis 12, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Imitation|Imitation]] +13, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +13
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Perception)
-  - **Environment**: Any water
-  - **Organization**: Solitary or shoal (2–5)
-  - **Challenge Rating**: 4
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]] (Aquatic, Shapechanger)
+- **Hit Dice**: 7d6+14 (38 hp)
+- **Initiative**: +7
+- **Speed**: 40 ft. (8 squares), swim 40 ft.
+- **Armor Class**: 17 (+3 Dex, +4 natural), touch 13, flat-footed 14
+- **Base Attack**: +3; **CMB**: +5 (+9 grapple); **CMD**: 18
+- **Attack**: Slam +6 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: 2 slams +6 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Captivating Lure|Captivating lure]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 1 mile, [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (hippocampus or horse, beast shape IV; Small or Medium humanoid, alter self), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
+- **Saves**: Fort +4, Ref +8, Will +6
+- **Abilities**: Str 15, Dex 16, Con 15, Int 8, Wis 12, Cha 17
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Imitation|Imitation]] +13, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +13
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Perception)
+- **Environment**: Any water
+- **Organization**: Solitary or shoal (2–5)
+- **Challenge Rating**: 4
+- **Treasure**: Standard
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A kelpie is a deadly shapechanging predator that, in its natural form, appears as a hideous combination of emaciated horse and sickly humanoid, with slimy, transparent skin and long, stringy hair. Its face is long and equine, with a mouth filled with jagged teeth. Few, however, ever see a kelpie in its true form, for kelpies almost always encounter other creatures while in disguise as a humanoid, horse, or hippocampus, reverting to their true form only after their targets have drowned so that they can feast on their victims, leaving behind only the heart and liver (as both of these organs are distasteful to most kelpies).
 

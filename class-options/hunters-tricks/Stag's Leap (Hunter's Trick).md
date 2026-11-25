@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Stag's Leap
 
-*A [[rangoric-srd/class-options/hunters-tricks/Hunter's Tricks|hunter’s trick]] (Ex), which a [[rangoric-srd/class-options/archetypes/ranger/Skirmisher (Archetype)|skirmisher]] ranger learns.*
+_A [[rangoric-srd/class-options/hunters-tricks/Hunter's Tricks|hunter’s trick]] (Ex), which a [[rangoric-srd/class-options/archetypes/ranger/Skirmisher (Archetype)|skirmisher]] ranger learns._
 
 As a free action, the ranger can attempt a running jump ([[rangoric-srd/skills/Athletics|Athletics]]) without moving 10 feet before the jump.

@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Litany of Sight
 
-*Divination*
+_Divination_
 
-  - **Level**: Apl 3, Inq 4, Pal 3
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 swift action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round
-  - **Saving Throw**: No
-  - **Spell Resistance**: Yes
+- **Level**: Apl 3, Inq 4, Pal 3
+- **Components**: V, S, DF
+- **Casting Time**: 1 swift action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round
+- **Saving Throw**: No
+- **Spell Resistance**: Yes
 
 This litany reveals the unseen to you. You can see invisible creatures and objects within 30 feet.
 

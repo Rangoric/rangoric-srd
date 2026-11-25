@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Volcanic Shield
 
-This *+1 bashing heavy steel shield* burns with an internal fire upon its boss, gaining the *[[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]* weapon special ability when used to make shield bash attacks. On command, the wielder can make the shield belch forth smoke as a smokestick, but this smoke does not impair the shield user's vision. Once per day, the wielder may cause the *volcanic shield* to erupt in a cascade of brimstone as the *[[rangoric-srd/spells/Burning Hands|burning hands]]* spell.
+This _+1 bashing heavy steel shield_ burns with an internal fire upon its boss, gaining the _[[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]_ weapon special ability when used to make shield bash attacks. On command, the wielder can make the shield belch forth smoke as a smokestick, but this smoke does not impair the shield user's vision. Once per day, the wielder may cause the _volcanic shield_ to erupt in a cascade of brimstone as the _[[rangoric-srd/spells/Burning Hands|burning hands]]_ spell.
 
-Faint evocation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*, *[[rangoric-srd/spells/Burning Hands|burning hands]]*, *[[rangoric-srd/spells/Pyrotechnics|pyrotechnics]]*; Price 14,170 gp; Cost 7,170 gp.
+Faint evocation; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Burning Hands|burning hands]]_, _[[rangoric-srd/spells/Pyrotechnics|pyrotechnics]]_; Price 14,170 gp; Cost 7,170 gp.

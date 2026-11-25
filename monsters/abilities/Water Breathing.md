@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Water Breathing
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “water breathing”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “water breathing”, on the Special Qualities line.
 
 A creature with this special ability can breathe underwater indefinitely. It can freely use any breath weapon, spells, or other abilities while submerged.

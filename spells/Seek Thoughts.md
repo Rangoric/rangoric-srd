@@ -39,17 +39,17 @@ tags: [rangoric, rangoric/spell]
 
 # Seek Thoughts
 
-*Divination \[Mind-affecting\]*
+_Divination \[Mind-affecting\]_
 
-  - **Level**: Alc 3, Brd 3, Inq 3, Med 2, Mes 3, Occ 3, Psy 2, Skd 3, Sor/Wiz 3, Spi 3, Sum 3, SumU 3, Wit 3
-  - **Components**: V, S, M (a handful of copper coins)
-  - **Casting Time**: 1 standard action
-  - **Range**: 40 ft.
-  - **Area**: 40-ft.-radius emanation centered on you
-  - **Duration**: Concentration, up to 1 minute/level
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: No
+- **Level**: Alc 3, Brd 3, Inq 3, Med 2, Mes 3, Occ 3, Psy 2, Skd 3, Sor/Wiz 3, Spi 3, Sum 3, SumU 3, Wit 3
+- **Components**: V, S, M (a handful of copper coins)
+- **Casting Time**: 1 standard action
+- **Range**: 40 ft.
+- **Area**: 40-ft.-radius emanation centered on you
+- **Duration**: Concentration, up to 1 minute/level
+- **Saving Throw**: Will negates
+- **Spell Resistance**: No
 
-Similar to *[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]*, *seek thoughts* allows you to sift through the surface thoughts of those around you. You may scan for either the answer to a simple question (such as “Where is the hidden lair of the wererats?”) or for information on a general topic (such as the beliefs of an evil cult). You detect the number of creatures who are thinking about this question or topic within range, as well as their location if they are visible to you. *Seek thoughts* does not let you read actual surface thoughts, only if a given creature is thinking about the topic you are concentrating on. A successful Will save prevents you from sensing a creature's thoughts for the duration of the spell.
+Similar to _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_, _seek thoughts_ allows you to sift through the surface thoughts of those around you. You may scan for either the answer to a simple question (such as “Where is the hidden lair of the wererats?”) or for information on a general topic (such as the beliefs of an evil cult). You detect the number of creatures who are thinking about this question or topic within range, as well as their location if they are visible to you. _Seek thoughts_ does not let you read actual surface thoughts, only if a given creature is thinking about the topic you are concentrating on. A successful Will save prevents you from sensing a creature's thoughts for the duration of the spell.
 
-You can maintain concentration on *seek thoughts* while you engage in normal conversation, allowing you to ask leading questions about topics of interest. A creature conversing with you while you concentrate can notice that you are distracted with a successful DC 25 Sense Motive check.
+You can maintain concentration on _seek thoughts_ while you engage in normal conversation, allowing you to ask leading questions about topics of interest. A creature conversing with you while you concentrate can notice that you are distracted with a successful DC 25 Sense Motive check.

@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/close]
 
 # Battle Gauntlet
 
-*Exotic one-handed melee weapon.* Cost 25 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 5 lb.; Type Bludgeoning. ^stats
+_Exotic one-handed melee weapon._ Cost 25 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 5 lb.; Type Bludgeoning. ^stats
 
 The battle gauntlet is a thick, heavy, oversized metal glove, heavily padded inside, and reinforced with large studs on the knuckles. In addition to providing a handy striking implement, adding weight and protection to the user’s blow, it is also large and sturdy enough to effectively function as a buckler (+1 Armor Bonus, –1 Armor Check Penalty, 5% Arcane Spell Failure). Someone wearing a battle gauntlet can still hold and use a weapon, but the extra weight on the arm inflicts a –1 penalty on attack rolls and negates the battle gauntlet’s use as a buckler for the rest of the round. This penalty stacks with those for fighting with an off hand weapon or two weapons, if appropriate. Opponents cannot use disarm actions to disarm wearers of a battle gauntlet. An attack with a battle gauntlet is considered an armed attack. The cost and weight given is for a single gauntlet.

@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades]
 
 # Khopesh
 
-*Exotic one-handed melee weapon (trip).* Cost 20 gp; Dmg 1d6 (S), 1d8 (M); Critical 19–20/x2; Weight 8 lb.; Type Slashing. ^stats
+_Exotic one-handed melee weapon (trip)._ Cost 20 gp; Dmg 1d6 (S), 1d8 (M); Critical 19–20/x2; Weight 8 lb.; Type Slashing. ^stats
 
 This heavy blade has a convex curve near the end, making its overall shape similar to a [[rangoric-srd/equipment/weapons/Battleaxe|battleaxe]].
 

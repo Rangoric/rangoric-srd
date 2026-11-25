@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Ground Breaker, Greater
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 When using the ground breaker rage power, the barbarian can extend the radius of the effect by 5 feet. This rage power can be selected up to three times, and its effects stack. A barbarian must be at least 8th level and have the ground breaker rage power to select this rage power.

@@ -28,10 +28,10 @@ Those following the Aspect of the Dusk see the coming night of each day as a dai
 
 How these effects work is in [[rangoric-srd/races/aspects-of-nature/Aspects of Nature#Aspect of Nature Effects|Aspect of Nature Effects]].
 
-| Facet | Bonus | Penalty |
-| --- | --- | --- |
-| The Fleeting Rays | +1 Damage rolls 3x/day | -1 to Attack rolls 3x/day |
-| The Gloom | +1 to Fortitude saving throws | -1 to Will saving throws |
-| The Luminous Clouds | +1 AC 3x/day | -1 AC 3x/day |
-| Retreating Luster | +1 to Reflex saving throws | -1 to Will saving throws |
-| The Setting Sun | capable spellcasting (cold) | crude spellcasting (fire) |
+| Facet               | Bonus                         | Penalty                   |
+| ------------------- | ----------------------------- | ------------------------- |
+| The Fleeting Rays   | +1 Damage rolls 3x/day        | -1 to Attack rolls 3x/day |
+| The Gloom           | +1 to Fortitude saving throws | -1 to Will saving throws  |
+| The Luminous Clouds | +1 AC 3x/day                  | -1 AC 3x/day              |
+| Retreating Luster   | +1 to Reflex saving throws    | -1 to Will saving throws  |
+| The Setting Sun     | capable spellcasting (cold)   | crude spellcasting (fire) |

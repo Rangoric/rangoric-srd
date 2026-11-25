@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Natural Invisibility (Quickling)
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “natural invisibility”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “natural invisibility”, on the Special Qualities line.
 
 A quickling is invisible when motionless. It loses this invisibility and remains visible for 1 round in any round in which it takes an action other than a free action. The [[rangoric-srd/monsters/Quickling|quickling]] has it.

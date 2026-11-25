@@ -27,13 +27,13 @@ tags: [rangoric, rangoric/spell]
 
 # Truespeak
 
-*Divination*
+_Divination_
 
-  - **Level**: Brd 4, Clr 6, Mes 4, Psy 5, Skd 4, Sor/Wiz 5, Wit 5
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 minute/level
+- **Level**: Brd 4, Clr 6, Mes 4, Psy 5, Skd 4, Sor/Wiz 5, Wit 5
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 minute/level
 
-You can communicate with any creature that is not mindless. As long as you can be heard, your speech is understandable to all creatures, each of which hears you as though you were conversing in its language or other natural mode of communication, and you hear their responses as though in your own native language. You may ask questions and receive answers, though this spell does not make creatures more friendly or cooperative than normal, and non-sentient creatures may give limited responses. While using *truespeak*, your language-dependent effects can affect any creature that is not mindless.
+You can communicate with any creature that is not mindless. As long as you can be heard, your speech is understandable to all creatures, each of which hears you as though you were conversing in its language or other natural mode of communication, and you hear their responses as though in your own native language. You may ask questions and receive answers, though this spell does not make creatures more friendly or cooperative than normal, and non-sentient creatures may give limited responses. While using _truespeak_, your language-dependent effects can affect any creature that is not mindless.

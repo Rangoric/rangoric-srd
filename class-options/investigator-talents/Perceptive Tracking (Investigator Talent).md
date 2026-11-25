@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Perceptive Tracking
 
-*An [[rangoric-srd/classes/Investigator#^investigator-investigator-talent|investigator talent]] (Ex).*
+_An [[rangoric-srd/classes/Investigator#^investigator-investigator-talent|investigator talent]] (Ex)._
 
 The investigator can use [[rangoric-srd/skills/Perception|Perception]] instead of [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] to both find and follow tracks, using the same DCs listed under the Fieldcraft skill. An investigator must be trained in Perception to select this talent.

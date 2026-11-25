@@ -16,39 +16,39 @@ An elaborate crystalline psicrown etched with strange designs, this exceptional 
 
 The power points in the Psicrown of the Crystal Mind can be used to manifest any of the following powers at manifester level 20th (or at the wearer’s manifester level if it is higher than 20th).
 
-  - [[rangoric-srd/powers/Burst|Burst]]
+- [[rangoric-srd/powers/Burst|Burst]]
 
-  - [[rangoric-srd/powers/Catfall|Catfall]]
+- [[rangoric-srd/powers/Catfall|Catfall]]
 
-  - [[rangoric-srd/powers/Concealing Amorpha, Greater|Concealing amorpha, greater]]
+- [[rangoric-srd/powers/Concealing Amorpha, Greater|Concealing amorpha, greater]]
 
-  - [[rangoric-srd/powers/Concussion Blast|Concussion blast]]
+- [[rangoric-srd/powers/Concussion Blast|Concussion blast]]
 
-  - [[rangoric-srd/powers/Daze, Psionic|Daze, psionic]]
+- [[rangoric-srd/powers/Daze, Psionic|Daze, psionic]]
 
-  - [[rangoric-srd/powers/Detect Psionics|Detect psionics]]
+- [[rangoric-srd/powers/Detect Psionics|Detect psionics]]
 
-  - [[rangoric-srd/powers/Dominate, Psionic|Dominate, psionic]]
+- [[rangoric-srd/powers/Dominate, Psionic|Dominate, psionic]]
 
-  - [[rangoric-srd/powers/Far Hand|Far hand]]
+- [[rangoric-srd/powers/Far Hand|Far hand]]
 
-  - [[rangoric-srd/powers/Float|Float]]
+- [[rangoric-srd/powers/Float|Float]]
 
-  - [[rangoric-srd/powers/Mindlink (Power)|Mindlink]]
+- [[rangoric-srd/powers/Mindlink (Power)|Mindlink]]
 
-  - [[rangoric-srd/powers/Inertial Barrier|Inertial barrier]]
+- [[rangoric-srd/powers/Inertial Barrier|Inertial barrier]]
 
-  - [[rangoric-srd/powers/Telekinetic Force|Telekinetic force]]
+- [[rangoric-srd/powers/Telekinetic Force|Telekinetic force]]
 
-  - [[rangoric-srd/powers/Telekinetic Maneuver (Power)|Telekinetic maneuver]]
+- [[rangoric-srd/powers/Telekinetic Maneuver (Power)|Telekinetic maneuver]]
 
-  - [[rangoric-srd/powers/Telekinetic Thrust|Telekinetic thrust]]
+- [[rangoric-srd/powers/Telekinetic Thrust|Telekinetic thrust]]
 
-  - [[rangoric-srd/powers/Teleport, Psionic|Teleport, psionic]]
+- [[rangoric-srd/powers/Teleport, Psionic|Teleport, psionic]]
 
-  - [[rangoric-srd/powers/Thicken Skin|Thicken skin]]
+- [[rangoric-srd/powers/Thicken Skin|Thicken skin]]
 
-  - [[rangoric-srd/powers/True Metabolism|True metabolism]]
+- [[rangoric-srd/powers/True Metabolism|True metabolism]]
 
 The wearer of the Psicrown of the Crystal Mind also gains power resistance equal to 10 + his manifester level.
 

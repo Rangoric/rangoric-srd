@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Rope Master
 
-*A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex).*
+_A [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] (Ex)._
 
 A character with this ability can move at her normal speed when using rope on a [[rangoric-srd/skills/Athletics|Athletics]] check, can take 10 when using Acrobatics to move over narrow surfaces even when in danger or distracted, and gains a +4 bonus when determining the DC to escape bonds when she ties up a creature.

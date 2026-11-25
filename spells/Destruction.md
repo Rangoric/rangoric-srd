@@ -29,17 +29,17 @@ tags: [rangoric, rangoric/spell]
 
 # Destruction
 
-*Necromancy \[Death\]*
+_Necromancy \[Death\]_
 
-  - **Level**: Clr 7, Death 7, Sha 8, Wit 8
-  - **Components**: V, S, F
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude partial
-  - **Spell Resistance**: Yes
+- **Level**: Clr 7, Death 7, Sha 8, Wit 8
+- **Components**: V, S, F
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude partial
+- **Spell Resistance**: Yes
 
 This spell instantly slays the subject and consumes its remains (but not its equipment and possessions) utterly. If the target’s Fortitude saving throw succeeds, it instead takes 10d6 points of damage. The only way to restore life to a character who has failed to save against this spell is to use true resurrection, a carefully worded wish spell followed by resurrection, or miracle.
 
-*Focus*: A special holy (or unholy) symbol of silver marked with verses of anathema (cost 500 gp).
+_Focus_: A special holy (or unholy) symbol of silver marked with verses of anathema (cost 500 gp).

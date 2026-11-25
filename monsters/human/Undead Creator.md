@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Undead Creator
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 11d6+59 (100 hp)
-  - **Initiative**: +5
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 16 (+4 armor, +1 Dex, +1 natural), touch 11, flat-footed 15
-  - **Base Attack**: +5; **CMB**: +5; **CMD**: 16
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +6 melee (1d4/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +6 melee (1d4/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] (DC 17, 8/day)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., *[[rangoric-srd/spells/See Invisibility|see invisibility]]*, [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] (rat), [[rangoric-srd/class-options/arcane-schools/Necromancy School|life sight]] (10 feet, 11 rounds/day), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 30
-  - **Saves**: Fort +10, Ref +6, Will +10
-  - **Abilities**: Str 10, Dex 12, Con 16, Int 20, Wis 8, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Arcana|Arcana]] +19, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +19, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +13, [[rangoric-srd/skills/Engineering|Engineering]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Medicine|Medicine]] +4, [[rangoric-srd/skills/Nature|Nature]] +13, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Society|Society]] +13, [[rangoric-srd/skills/Theology|Theology]] +18
-  - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Command Undead (Feat)|Command Undead]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (necromancy), [[rangoric-srd/feats/Improved Channel|Improved Channel]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (necromancy), [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 10
-  - **Treasure**: NPC gear (combat gear: potions of cure moderate wounds (2), potion of displacement, potion of invisibility, robe of bones; other gear: masterwork dagger, amulet of natural armor +1, belt of mighty constitution +2, cloak of resistance +2, goggles of night, headband of vast intelligence +2, spellbook, crystal for magic jar (worth 100 gp), onyx gems (worth 300 gp), 623 gp)
-  - **Alignment**: Lawful neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 11d6+59 (100 hp)
+- **Initiative**: +5
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 16 (+4 armor, +1 Dex, +1 natural), touch 11, flat-footed 15
+- **Base Attack**: +5; **CMB**: +5; **CMD**: 16
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +6 melee (1d4/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +6 melee (1d4/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] (DC 17, 8/day)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., _[[rangoric-srd/spells/See Invisibility|see invisibility]]_, [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] (rat), [[rangoric-srd/class-options/arcane-schools/Necromancy School|life sight]] (10 feet, 11 rounds/day), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 30
+- **Saves**: Fort +10, Ref +6, Will +10
+- **Abilities**: Str 10, Dex 12, Con 16, Int 20, Wis 8, Cha 14
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Arcana|Arcana]] +19, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +19, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +13, [[rangoric-srd/skills/Engineering|Engineering]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Medicine|Medicine]] +4, [[rangoric-srd/skills/Nature|Nature]] +13, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Society|Society]] +13, [[rangoric-srd/skills/Theology|Theology]] +18
+- **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Command Undead (Feat)|Command Undead]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (necromancy), [[rangoric-srd/feats/Improved Channel|Improved Channel]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (necromancy), [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 10
+- **Treasure**: NPC gear (combat gear: potions of cure moderate wounds (2), potion of displacement, potion of invisibility, robe of bones; other gear: masterwork dagger, amulet of natural armor +1, belt of mighty constitution +2, cloak of resistance +2, goggles of night, headband of vast intelligence +2, spellbook, crystal for magic jar (worth 100 gp), onyx gems (worth 300 gp), 623 gp)
+- **Alignment**: Lawful neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 An undead creator is a [[rangoric-srd/monsters/human/Human|human]] with 11 levels of [[rangoric-srd/classes/Wizard|wizard]] (the [[rangoric-srd/class-options/arcane-schools/Necromancy School|necromancy]] school). The undead creator dispassionately crafts unlife out of dead flesh and bone.
 
@@ -75,4 +75,4 @@ An undead creator speaks Aklo, Common, Dwarven, Elven, Goblin, and Infernal.
 
 **Base Statistics**: Without false life, mage armor, resist energy, and see invisibility, the wizard's statistics are **Senses** darkvision 60 ft; **AC** 12, touch 11, flat-footed 11; **hp** 85; **Resist** none.
 
-**Necromancer spells prepared** (CL 11th; concentration +16): 6th—*[[rangoric-srd/spells/Create Undead|create undead]]*, *[[rangoric-srd/spells/Eyebite|eyebite]]* (DC 23); 5th—*[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]* (DC 20), *[[rangoric-srd/spells/Magic Jar|magic jar]]* (DC 22), *[[rangoric-srd/spells/Teleport|teleport]]*, *[[rangoric-srd/spells/Waves of Fatigue|waves of fatigue]]*; 4th—*[[rangoric-srd/spells/Animate Dead|animate dead]]*, *[[rangoric-srd/spells/Enervation|enervation]]*, *[[rangoric-srd/spells/Fear|fear]]* (DC 21), *[[rangoric-srd/spells/Solid Fog|solid fog]]*, *[[rangoric-srd/spells/Wall of Fire|wall of fire]]*; 3rd—*[[rangoric-srd/spells/Blink|blink]]*, *[[rangoric-srd/spells/Fireball|fireball]]* (DC 18), *[[rangoric-srd/spells/Fly|fly]]*, *[[rangoric-srd/spells/Ray of Exhaustion|ray of exhaustion]]* (DC 20), *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]* (2); 2nd—*[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]* (DC 19), *[[rangoric-srd/spells/False Life|false life]]*, *[[rangoric-srd/spells/Resist Energy|resist energy]]*, *[[rangoric-srd/spells/See Invisibility|see invisibility]]*, *[[rangoric-srd/spells/Scare|scare]]* (DC 19), *[[rangoric-srd/spells/Scorching Ray|scorching ray]]*; 1st—*[[rangoric-srd/spells/Alarm|alarm]]*, *[[rangoric-srd/spells/Burning Hands|burning hands]]* (DC 16), *[[rangoric-srd/spells/Cause Fear|cause fear]]* (DC 18), *[[rangoric-srd/spells/Detect Undead|detect undead]]*, *[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]*, *[[rangoric-srd/spells/Mage Armor|mage armor]]*, *[[rangoric-srd/spells/Magic Missile|magic missile]]*; 0 (at will)—*[[rangoric-srd/spells/Bleed|bleed]]* (DC 17), *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Read Magic|read magic]]*, *[[rangoric-srd/spells/Touch of Fatigue|touch of fatigue]]* (DC 17); **Opposition Schools**: [[rangoric-srd/class-options/arcane-schools/Enchantment School|enchantment]], [[rangoric-srd/class-options/arcane-schools/Illusion School|illusion]].
+**Necromancer spells prepared** (CL 11th; concentration +16): 6th—_[[rangoric-srd/spells/Create Undead|create undead]]_, _[[rangoric-srd/spells/Eyebite|eyebite]]_ (DC 23); 5th—_[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]_ (DC 20), _[[rangoric-srd/spells/Magic Jar|magic jar]]_ (DC 22), _[[rangoric-srd/spells/Teleport|teleport]]_, _[[rangoric-srd/spells/Waves of Fatigue|waves of fatigue]]_; 4th—_[[rangoric-srd/spells/Animate Dead|animate dead]]_, _[[rangoric-srd/spells/Enervation|enervation]]_, _[[rangoric-srd/spells/Fear|fear]]_ (DC 21), _[[rangoric-srd/spells/Solid Fog|solid fog]]_, _[[rangoric-srd/spells/Wall of Fire|wall of fire]]_; 3rd—_[[rangoric-srd/spells/Blink|blink]]_, _[[rangoric-srd/spells/Fireball|fireball]]_ (DC 18), _[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Ray of Exhaustion|ray of exhaustion]]_ (DC 20), _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_ (2); 2nd—_[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_ (DC 19), _[[rangoric-srd/spells/False Life|false life]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_, _[[rangoric-srd/spells/See Invisibility|see invisibility]]_, _[[rangoric-srd/spells/Scare|scare]]_ (DC 19), _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_; 1st—_[[rangoric-srd/spells/Alarm|alarm]]_, _[[rangoric-srd/spells/Burning Hands|burning hands]]_ (DC 16), _[[rangoric-srd/spells/Cause Fear|cause fear]]_ (DC 18), _[[rangoric-srd/spells/Detect Undead|detect undead]]_, _[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 17), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_, _[[rangoric-srd/spells/Touch of Fatigue|touch of fatigue]]_ (DC 17); **Opposition Schools**: [[rangoric-srd/class-options/arcane-schools/Enchantment School|enchantment]], [[rangoric-srd/class-options/arcane-schools/Illusion School|illusion]].

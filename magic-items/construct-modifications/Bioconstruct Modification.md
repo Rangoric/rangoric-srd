@@ -26,4 +26,4 @@ All bioconstruct upgrades have the same weakness—they are susceptible to criti
 
 **Brain**: This upgrade doesn't permit the golem to think independently, but instead, the brain works as a storage device, permitting the golem to acquire skills and feats as if it had an Intelligence score of 10. Enchantment spells or spells with mind-affecting effects that are cast upon the golem can affect the brain, causing the brain to cease functioning for the duration of the spell. While the brain is suppressed in this fashion, the construct temporarily loses access to its skills and feats. If the spell has a save, the brain uses the golem's saving throws.
 
-CR increase +1; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Regenerate|regenerate]]*; Cost 22,750 gp.
+CR increase +1; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Regenerate|regenerate]]_; Cost 22,750 gp.

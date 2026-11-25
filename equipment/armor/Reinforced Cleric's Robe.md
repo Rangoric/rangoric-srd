@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Reinforced Cleric's Robe
 
-*Light armor.* Cost 30 gp; Armor Bonus +2; Maximum Dex Bonus +6; Armor Check Penalty –1; Arcane Spell Failure 10%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 5 lb. ^stats
+_Light armor._ Cost 30 gp; Armor Bonus +2; Maximum Dex Bonus +6; Armor Check Penalty –1; Arcane Spell Failure 10%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 5 lb. ^stats
 
 These clerical robes have been reinforced with several plates of hardened leather. Their lightweight and nonmetal composition makes them an ideal choice for clerics in the field.

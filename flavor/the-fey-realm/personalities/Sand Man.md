@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/flavor, flavor]
 
 # Sand Man
 
-***“Keeper of Dreams”, “Steward of the Sands of Time”, “Warden of Nightmares”***
+**_“Keeper of Dreams”, “Steward of the Sands of Time”, “Warden of Nightmares”_**
 
 The Sand Man appears as a tall and somewhat gaunt [[rangoric-srd/races/Feeorin|feeorin]] with light gray skin, midnight blue eyes, and charcoal gray hair. His features are slightly drawn, looking as if he is always in sore need of sleep. His motives are mysterious, and he tends to influence good and evil beings alike without prejudice.
 

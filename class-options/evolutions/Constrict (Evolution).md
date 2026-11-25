@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Constrict
 
-*A 2-point evolution (Ex) for a [[rangoric-srd/classes/Summoner|summoner]]’s or [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon.*
+_A 2-point evolution (Ex) for a [[rangoric-srd/classes/Summoner|summoner]]’s or [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon._
 
 An eidolon gains powerful muscles that allow it to crush those it grapples. Whenever the eidolon successfully grapples a foe using the [[rangoric-srd/class-options/evolutions/Grab (Evolution)|grab]] evolution, it deals additional damage equal to the amount of damage dealt by the attack used by the grab evolution. This evolution is only available to eidolons of the serpentine base form.

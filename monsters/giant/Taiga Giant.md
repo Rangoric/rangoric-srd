@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Taiga Giant
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
-  - **Hit Dice**: 15d8+90 (157 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares) (40 ft. without armor)
-  - **Armor Class**: 26 (+4 armor, +4 deflection, +2 Dex, +8 natural, –2 size), touch 14, flat-footed 24
-  - **Base Attack**: +11; **CMB**: +23; **CMD**: 39
-  - **Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +19 melee (3d6+15/×3) or slam +19 melee (1d8+10) or rock +12 ranged (2d6+15) or [[rangoric-srd/equipment/weapons/Spear|spear]] +11 ranged (3d6+10/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +19/+14/+9 melee (3d6+15/×3); or 2 slams +19 melee (1d8+10); or rock +12 ranged (2d6+15); or [[rangoric-srd/equipment/weapons/Spear|spear]] +11 ranged (3d6+10/×3)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (140 ft.)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Spirit Summoning|spirit summoning]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to enchantment and illusion spells
-  - **Saves**: Fort +15, Ref +9, Will +10
-  - **Abilities**: Str 31, Dex 14, Con 22, Int 12, Wis 17, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +22, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +6 (+12 in undergrowth), [[rangoric-srd/skills/Theology|Theology]] +11
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Shot on the Run|Shot on the Run]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft, Perception)
-  - **Environment**: Cold mountains or forests
-  - **Organization**: Solitary, warband (2–7), or tribe (20–50 plus 30% noncombatants, 1 druid or oracle of 3rd–5th level, 2–4 barbarian or ranger hunters of 3rd–5th level, 1 chieftain barbarian or fighter of 4th–7th level, 2–6 dire bears, 2–6 dire tigers, and 8–12 stone giants)
-  - **Challenge Rating**: 12
-  - **Treasure**: Standard (hide armor, spear, other treasure)
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
+- **Hit Dice**: 15d8+90 (157 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares) (40 ft. without armor)
+- **Armor Class**: 26 (+4 armor, +4 deflection, +2 Dex, +8 natural, –2 size), touch 14, flat-footed 24
+- **Base Attack**: +11; **CMB**: +23; **CMD**: 39
+- **Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +19 melee (3d6+15/×3) or slam +19 melee (1d8+10) or rock +12 ranged (2d6+15) or [[rangoric-srd/equipment/weapons/Spear|spear]] +11 ranged (3d6+10/×3)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +19/+14/+9 melee (3d6+15/×3); or 2 slams +19 melee (1d8+10); or rock +12 ranged (2d6+15); or [[rangoric-srd/equipment/weapons/Spear|spear]] +11 ranged (3d6+10/×3)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (140 ft.)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Spirit Summoning|spirit summoning]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to enchantment and illusion spells
+- **Saves**: Fort +15, Ref +9, Will +10
+- **Abilities**: Str 31, Dex 14, Con 22, Int 12, Wis 17, Cha 15
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +22, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +6 (+12 in undergrowth), [[rangoric-srd/skills/Theology|Theology]] +11
+- **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Shot on the Run|Shot on the Run]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft, Perception)
+- **Environment**: Cold mountains or forests
+- **Organization**: Solitary, warband (2–7), or tribe (20–50 plus 30% noncombatants, 1 druid or oracle of 3rd–5th level, 2–4 barbarian or ranger hunters of 3rd–5th level, 1 chieftain barbarian or fighter of 4th–7th level, 2–6 dire bears, 2–6 dire tigers, and 8–12 stone giants)
+- **Challenge Rating**: 12
+- **Treasure**: Standard (hide armor, spear, other treasure)
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Taiga giants wander endlessly to keep from depleting the food supply of any one area. Aurochs and mammoths are their preferred inland prey, while whales, seals, and walruses provide food in coastal regions. These animals form the cornerstone of tribal survival, not just for the food they provide but because nearly all of a tribe's possessions, from their portable shelters to their weapons, are crafted from the bone, hides, and sinews of felled beasts. Little is wasted.
 

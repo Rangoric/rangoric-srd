@@ -18,11 +18,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Aerial Adaptation
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Air Element|air]]
-  - **Type**: utility (Sp)
-  - **Level**: 1
-  - **Burn**: 0
+- **Element**: [[rangoric-srd/class-options/elements/Air Element|air]]
+- **Type**: utility (Sp)
+- **Level**: 1
+- **Burn**: 0
 
 You are immune to altitude sickness, and gain an amount of electricity resistance equal to twice your current amount of [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]].

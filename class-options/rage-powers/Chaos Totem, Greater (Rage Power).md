@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Chaos Totem, Greater
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Su)._
 
 While raging, the barbarian gains DR/lawful equal to 1/2 her barbarian level. Her weapons and natural weapons are considered chaotic for the purpose of overcoming damage reduction. A barbarian must have the [[rangoric-srd/class-options/rage-powers/Chaos Totem (Rage Power)|chaos totem]] rage power to select this rage power.
 

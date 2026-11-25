@@ -28,18 +28,18 @@ tags: [rangoric, rangoric/spell]
 
 # Forest Invisibility
 
-*Illusion (Glamour)*
+_Illusion (Glamour)_
 
-  - **Level**: Drd 2, Hun 2, Rgr 2
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal or Touch
-  - **Target**: 1 creature
-  - **Duration**: 10 min./level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Drd 2, Hun 2, Rgr 2
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Personal or Touch
+- **Target**: 1 creature
+- **Duration**: 10 min./level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-This spell is similar to the 2nd level wizard spell *[[rangoric-srd/spells/Invisibility|invisibility]]*. It allows a druid or ranger to become invisible in a forested or natural surrounding that offers cover. The creature vanishes from all normal sight, including Darkvision.
+This spell is similar to the 2nd level wizard spell _[[rangoric-srd/spells/Invisibility|invisibility]]_. It allows a druid or ranger to become invisible in a forested or natural surrounding that offers cover. The creature vanishes from all normal sight, including Darkvision.
 
 Equipment carried becomes invisible, and anything dropped or lost immediately becomes visible. The spell in no way produces silence, and the invisible subject does still leave tracks.
 

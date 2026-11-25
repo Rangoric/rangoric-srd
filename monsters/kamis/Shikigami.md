@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Shikigami
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Kami, Native)
-  - **Hit Dice**: 3d10+3 (19 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 15 (+1 Dex, +2 natural, +2 size), touch 13, flat-footed 14
-  - **Base Attack**: +3; **CMB**: +2; **CMD**: 11
-  - **Attack**: Improvised weapon +4 melee (1d4+2/×3) or improvised weapon +6 ranged (1d3+2/×3)
-  - **Full Attack**: Improvised weapon +4 melee (1d4+2/×3); or improvised weapon +6 ranged (1d3+2/×3)
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Improvised Weapon Mastery (Shikigami)|improvised weapon mastery]], merge with [[rangoric-srd/monsters/abilities/Ward|ward]], [[rangoric-srd/monsters/abilities/Ward|ward]] (minor works of civilization), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to bleed, mind-affecting effects, petrification and polymorph, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, electricity 10 and fire 10
-  - **Saves**: Fort +4, Ref +2, Will +8
-  - **Abilities**: Str 8, Dex 13, Con 12, Int 11, Wis 17, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9, [[rangoric-srd/skills/Medicine|Medicine]] +9, [[rangoric-srd/skills/Nature|Nature]] +6, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +15
-  - **Feats**: [[rangoric-srd/feats/Catch Off-Guard|Catch Off-Guard]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Throw Anything|Throw Anything]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, or gang (3–8)
-  - **Challenge Rating**: 2
-  - **Treasure**: Standard
-  - **Alignment**: Usually lawful neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Kami, Native)
+- **Hit Dice**: 3d10+3 (19 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 15 (+1 Dex, +2 natural, +2 size), touch 13, flat-footed 14
+- **Base Attack**: +3; **CMB**: +2; **CMD**: 11
+- **Attack**: Improvised weapon +4 melee (1d4+2/×3) or improvised weapon +6 ranged (1d3+2/×3)
+- **Full Attack**: Improvised weapon +4 melee (1d4+2/×3); or improvised weapon +6 ranged (1d3+2/×3)
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Improvised Weapon Mastery (Shikigami)|improvised weapon mastery]], merge with [[rangoric-srd/monsters/abilities/Ward|ward]], [[rangoric-srd/monsters/abilities/Ward|ward]] (minor works of civilization), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to bleed, mind-affecting effects, petrification and polymorph, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, electricity 10 and fire 10
+- **Saves**: Fort +4, Ref +2, Will +8
+- **Abilities**: Str 8, Dex 13, Con 12, Int 11, Wis 17, Cha 14
+- **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9, [[rangoric-srd/skills/Medicine|Medicine]] +9, [[rangoric-srd/skills/Nature|Nature]] +6, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +15
+- **Feats**: [[rangoric-srd/feats/Catch Off-Guard|Catch Off-Guard]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Throw Anything|Throw Anything]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any
+- **Organization**: Solitary, pair, or gang (3–8)
+- **Challenge Rating**: 2
+- **Treasure**: Standard
+- **Alignment**: Usually lawful neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Shikigami are the least of the kami, yet they make up for their lowly status with their loyalty and bravery. Unlike most other well-known types of kami, shikigami are more often associated with rural and urban regions than with natural settings. These kami are the protectors of the minor works of civilization—things like milestones, waymarkers, tiny garden statues, and other relatively mundane works of art crafted by humanoid hands.
 
@@ -74,6 +74,6 @@ Shikigamis speak Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +8): At will—*[[rangoric-srd/spells/Invisibility|invisibility]]* (self only), *[[rangoric-srd/spells/Statue|statue]]* (self only); 3/day—*[[rangoric-srd/spells/Hide from Animals|hide from animals]]*, *[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]*; 1/week—*[[rangoric-srd/spells/Commune with Nature|commune with nature]]* (CL 12th).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +8): At will—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only), _[[rangoric-srd/spells/Statue|statue]]_ (self only); 3/day—_[[rangoric-srd/spells/Hide from Animals|hide from animals]]_, _[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]_; 1/week—_[[rangoric-srd/spells/Commune with Nature|commune with nature]]_ (CL 12th).
 
 **[[rangoric-srd/monsters/abilities/Improvised Weapon Mastery (Shikigami)|Improvised Weapon Mastery]] (Ex)**: A shikigami gains Catch Off-Guard and Throw Anything as bonus feats, and adds its Charisma modifier instead of its Strength modifier to damage done with any improvised weapon, as attacks it makes with such weapons seem supernaturally lucky in landing damaging blows. Although a shikigami is Tiny, it never provokes attacks of opportunity when it attacks an adjacent foe with a melee weapon. If a shikigami critically hits an opponent with an improvised weapon, it deals ×3 damage. A shikigami is proficient with improvised weapons.

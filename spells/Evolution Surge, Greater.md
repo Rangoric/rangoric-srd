@@ -26,15 +26,15 @@ tags: [rangoric, rangoric/spell]
 
 # Evolution Surge, Greater
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Sum 4, SumU 4
-  - **Components**: V, S, M (a chameleon scale)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Your eidolon
-  - **Duration**: 1 minute/level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: No
+- **Level**: Sum 4, SumU 4
+- **Components**: V, S, M (a chameleon scale)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Your eidolon
+- **Duration**: 1 minute/level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: No
 
-This spell functions as *lesser evolution surge*, except that you can grant any two evolutions whose total cost does not exceed 6 evolution points.
+This spell functions as _lesser evolution surge_, except that you can grant any two evolutions whose total cost does not exceed 6 evolution points.

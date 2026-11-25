@@ -21,12 +21,12 @@ The Woodman’s Lodge is an enormous, multistoried hunting lodge that appears to
 
 **Personalities:** [[rangoric-srd/flavor/the-fey-realm/personalities/King Finvarra|King Finvarra]]
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* Strangers are always welcome in the Woodman’s Lodge, and a hearty meal and tankard of ale is always waiting for a visitor with a good tale.
+_Common:_ Strangers are always welcome in the Woodman’s Lodge, and a hearty meal and tankard of ale is always waiting for a visitor with a good tale.
 
-*Uncommon:* Queen Maeve built The Woodman’s Lodge ages ago, and a *doorway* linking to her court in the Stormking Mountains is rumored to exist in one of its forgotten rooms.
+_Uncommon:_ Queen Maeve built The Woodman’s Lodge ages ago, and a _doorway_ linking to her court in the Stormking Mountains is rumored to exist in one of its forgotten rooms.
 
-*Rare:* -
+_Rare:_ -
 
-*Obscure:* -
+_Obscure:_ -

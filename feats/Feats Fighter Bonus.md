@@ -13,6 +13,6 @@ tags: [rangoric, rangoric/overview]
 
 ## Fighter Bonus
 
-Every feat with the tag *fighter-bonus* (see [[rangoric-srd/feats/Feats Overview#Fighter Bonus Feats|Fighter Bonus Feats]]), from the [[rangoric-srd/feats/Feats Index.base|Feats Index]]:
+Every feat with the tag _fighter-bonus_ (see [[rangoric-srd/feats/Feats Overview#Fighter Bonus Feats|Fighter Bonus Feats]]), from the [[rangoric-srd/feats/Feats Index.base|Feats Index]]:
 
 ![[rangoric-srd/feats/Feats Index.base#fighter-bonus]]

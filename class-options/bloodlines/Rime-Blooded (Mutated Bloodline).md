@@ -15,13 +15,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Rime-Blooded
 
-*A [[rangoric-srd/class-options/bloodlines/Bloodlines#Mutated Bloodlines|mutated bloodline]] of the [[rangoric-srd/class-options/bloodlines/Boreal Bloodline|boreal bloodline]], for a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] [[rangoric-srd/classes/Sorcerer|sorcerer]].*
+_A [[rangoric-srd/class-options/bloodlines/Bloodlines#Mutated Bloodlines|mutated bloodline]] of the [[rangoric-srd/class-options/bloodlines/Boreal Bloodline|boreal bloodline]], for a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] [[rangoric-srd/classes/Sorcerer|sorcerer]]._
 
 The wintry origin of your magic flows like ice water in your veins.
 
 **Associated Bloodline**: [[rangoric-srd/class-options/bloodlines/Boreal Bloodline|Boreal]].
 
-**Bloodline Arcana**: Whenever you cast a spell with the cold descriptor, you may select one target of the spell to be slowed (as the *[[rangoric-srd/spells/Slow|slow]]* spell) for 1 round. A Fortitude save (DC 10 + the level of cold spell + your Charisma modifier) negates the effect.
+**Bloodline Arcana**: Whenever you cast a spell with the cold descriptor, you may select one target of the spell to be slowed (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 1 round. A Fortitude save (DC 10 + the level of cold spell + your Charisma modifier) negates the effect.
 
 **Bloodline Powers**: Sometimes you must bring the cold to your enemies.
 

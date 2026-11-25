@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Elder Thing
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Aquatic)
-  - **Hit Dice**: 7d8+28 (59 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares), fly 20 ft. (clumsy), swim 40 ft.
-  - **Armor Class**: 18 (+2 Dex, +6 natural), touch 12, flat-footed 16
-  - **Base Attack**: +5; **CMB**: +7 (+11 grapple); **CMD**: 19 (can't be tripped)
-  - **Attack**: Tentacle +7 melee (1d4+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: 5 tentacles +7 melee (1d4+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d4+2)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], hibernation, limited [[rangoric-srd/monsters/abilities/Starflight|starflight]], [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
-  - **Saves**: Fort +8, Ref +4, Will +8
-  - **Abilities**: Str 15, Dex 14, Con 19, Int 20, Wis 16, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Emulation|Emulation]] +10, [[rangoric-srd/skills/Engineering|Engineering]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +13, [[rangoric-srd/skills/Investigation|Investigation]] +9, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Perception|Perception]] +13
-  - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]]
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, pod (3–8), or expedition (9–16)
-  - **Challenge Rating**: 5
-  - **Treasure**: Standard
-  - **Alignment**: Usually lawful neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Aquatic)
+- **Hit Dice**: 7d8+28 (59 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares), fly 20 ft. (clumsy), swim 40 ft.
+- **Armor Class**: 18 (+2 Dex, +6 natural), touch 12, flat-footed 16
+- **Base Attack**: +5; **CMB**: +7 (+11 grapple); **CMD**: 19 (can't be tripped)
+- **Attack**: Tentacle +7 melee (1d4+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: 5 tentacles +7 melee (1d4+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d4+2)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], hibernation, limited [[rangoric-srd/monsters/abilities/Starflight|starflight]], [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
+- **Saves**: Fort +8, Ref +4, Will +8
+- **Abilities**: Str 15, Dex 14, Con 19, Int 20, Wis 16, Cha 17
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Emulation|Emulation]] +10, [[rangoric-srd/skills/Engineering|Engineering]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +13, [[rangoric-srd/skills/Investigation|Investigation]] +9, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Perception|Perception]] +13
+- **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]]
+- **Environment**: Any
+- **Organization**: Solitary, pair, pod (3–8), or expedition (9–16)
+- **Challenge Rating**: 5
+- **Treasure**: Standard
+- **Alignment**: Usually lawful neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Known by various names on various worlds, but most often as "elder things" or "old ones," these alien creatures are interested in creating lasting works of art, architecture, and even life (such as the dreaded [[rangoric-srd/monsters/mythos/Shoggoth|shoggoths]]). They possess a boundless capacity for war and egotism.
 

@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Arcane Cloak
 
-*A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Su).*
+_A [[rangoric-srd/classes/Magus#^magus-magus-arcana|magus arcana]] (Su)._
 
 The magus can expend 1 point from his arcane pool to add his Intelligence bonus to Stealth checks and Deception checks to create a diversion in order to hide. This bonus lasts for 1 minute.

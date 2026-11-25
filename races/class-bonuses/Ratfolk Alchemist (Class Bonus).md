@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Ratfolk Alchemist
 
-*A [[rangoric-srd/races/Ratfolk|ratfolk]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Alchemist#^alchemist-class-bonuses|alchemist]] level.*
+_A [[rangoric-srd/races/Ratfolk|ratfolk]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Alchemist#^alchemist-class-bonuses|alchemist]] level._
 
 The alchemist gains +1/6 of a new [[rangoric-srd/classes/Alchemist#^alchemist-discovery|discovery]].

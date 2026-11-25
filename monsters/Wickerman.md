@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Wickerman
 
-  - Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]] (Fire)
-  - **Hit Dice**: 14d10+80 (157 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 20 (+3 Dex, +15 natural, –8 size), touch 5, flat-footed 17
-  - **Base Attack**: +14; **CMB**: +35 (+39 grapple); **CMD**: 48
-  - **Attack**: Slam +19 melee (2d8+13 plus [[rangoric-srd/monsters/abilities/Burn|burn]] and [[rangoric-srd/monsters/abilities/Grab|grab]]) or burning brand +9 ranged (4d6+13 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
-  - **Full Attack**: 2 slams +19 melee (2d8+13 plus [[rangoric-srd/monsters/abilities/Burn|burn]] and [[rangoric-srd/monsters/abilities/Grab|grab]]); or burning brand +9 ranged (4d6+13 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
-  - **Space/Reach**: 30 ft./30 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d6 fire, DC 17), [[rangoric-srd/monsters/abilities/Wicker Cage|wicker cage]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 1, [[rangoric-srd/monsters/abilities/Fire Healing|fire healing]], hardness 5, [[rangoric-srd/monsters/abilities/Constant Blaze|constant blaze]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], vulnerable to cold
-  - **Saves**: Fort +4, Ref +7, Will +4
-  - **Abilities**: Str 37, Dex 16, Con —, Int —, Wis 10, Cha 7
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Any land
-  - **Organization**: Solitary
-  - **Challenge Rating**: 13
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]] (Fire)
+- **Hit Dice**: 14d10+80 (157 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 20 (+3 Dex, +15 natural, –8 size), touch 5, flat-footed 17
+- **Base Attack**: +14; **CMB**: +35 (+39 grapple); **CMD**: 48
+- **Attack**: Slam +19 melee (2d8+13 plus [[rangoric-srd/monsters/abilities/Burn|burn]] and [[rangoric-srd/monsters/abilities/Grab|grab]]) or burning brand +9 ranged (4d6+13 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
+- **Full Attack**: 2 slams +19 melee (2d8+13 plus [[rangoric-srd/monsters/abilities/Burn|burn]] and [[rangoric-srd/monsters/abilities/Grab|grab]]); or burning brand +9 ranged (4d6+13 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
+- **Space/Reach**: 30 ft./30 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d6 fire, DC 17), [[rangoric-srd/monsters/abilities/Wicker Cage|wicker cage]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 1, [[rangoric-srd/monsters/abilities/Fire Healing|fire healing]], hardness 5, [[rangoric-srd/monsters/abilities/Constant Blaze|constant blaze]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], vulnerable to cold
+- **Saves**: Fort +4, Ref +7, Will +4
+- **Abilities**: Str 37, Dex 16, Con —, Int —, Wis 10, Cha 7
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Any land
+- **Organization**: Solitary
+- **Challenge Rating**: 13
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A wickerman is a towering wicker statue with a cage in its chest. Inanimate ones are used for sacrifices to gods or nature faiths, and the constructs to terrify a faith's enemies.
 
@@ -78,4 +78,4 @@ A wickerman is a towering wicker statue with a cage in its chest. Inanimate ones
 
 A wickerman is created from 12,000 pounds of wicker and rare wood costing 10,000 gp. Activating the wickerman requires sacrificing a living humanoid inside its chest cage. Sacrificing a creature is an evil act.
 
-CL 14th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Fire Seeds|fire seeds]]*, *[[rangoric-srd/spells/Wall of Fire|wall of fire]]*, *[[rangoric-srd/spells/Warp Wood|warp wood]]*, creator must be caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (carpentry) or [[rangoric-srd/skills/Craft|Craft]] (sculptures) DC 15; Price 110,000 gp; Cost 60,000 gp.
+CL 14th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Fire Seeds|fire seeds]]_, _[[rangoric-srd/spells/Wall of Fire|wall of fire]]_, _[[rangoric-srd/spells/Warp Wood|warp wood]]_, creator must be caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (carpentry) or [[rangoric-srd/skills/Craft|Craft]] (sculptures) DC 15; Price 110,000 gp; Cost 60,000 gp.

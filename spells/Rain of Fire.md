@@ -25,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 # Rain of Fire
 
-Evocation \[Fire\]   
+Evocation \[Fire\]  
 Casting DC: 50  
 Components: V, S  
 Casting Time: 1 minute  
@@ -34,6 +34,6 @@ Area: 2-mile-radius emanation
 Duration: 20 hours  
 Saving Throw: Reflex negates (see text)  
 Spell Resistance: Yes  
-To Develop: 450,000 gp; 9 days; 18,000 XP. Seeds: energy (fire) (DC 19), energy (weather) (DC 19). Factor: change rain to wisps of flame (ad hoc +12 DC).  
+To Develop: 450,000 gp; 9 days; 18,000 XP. Seeds: energy (fire) (DC 19), energy (weather) (DC 19). Factor: change rain to wisps of flame (ad hoc +12 DC).
 
 This spell summons a swirling thunderstorm that rains fire rather than raindrops down on the character and everything within a two-mile radius of him or her. Everything caught unprotected or unsheltered in the flaming deluge takes 1 point of fire damage each round. A successful Reflex save results in no damage, but the save must be repeated each round. Unless the ground is exceedingly damp, all vegetation is eventually blackened and destroyed, leaving behind a barren wasteland similar to the aftermath of a grass or forest fire. The fiery storm is stationary and persists even if the caster leaves.

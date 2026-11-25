@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Dread Wraith
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^incorporeal|Incorporeal]])
-  - **Hit Dice**: 16d12 (104 hp)
-  - **Initiative**: +13
-  - **Speed**: Fly 60 ft. (good) (12 squares)
-  - **Armor Class**: 25 (–1 size, +9 Dex, +7 deflection), touch 25, flat-footed 16
-  - **Base Attack**: +8; **CMB**: —; **CMD**: 36
-  - **Attack**: Incorporeal touch +16 melee (2d6 plus 1d8 Constitution drain)
-  - **Full Attack**: Incorporeal touch +16 melee (2d6 plus 1d8 Constitution drain)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: Constitution [[rangoric-srd/monsters/abilities/Ability Damage and Drain|drain]], create spawn
-  - **Special Qualities**: Darkvision 60 ft., daylight powerlessness, [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|incorporeal traits]], lifesense 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]], unnatural aura
-  - **Saves**: Fort +5, Ref +14, Will +14
-  - **Abilities**: Str —, Dex 28, Con —, Int 17, Wis 18, Cha 24
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +23 (+25 following tracks), [[rangoric-srd/skills/Intimidation|Intimidation]] +26, [[rangoric-srd/skills/Investigation|Investigation]] +22, [[rangoric-srd/skills/Perception|Perception]] +29, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Stealth|Stealth]] +24, [[rangoric-srd/skills/Theology|Theology]] +22
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative (B)]], [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]] (incorporeal touch), [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception) (B), [[rangoric-srd/feats/Spring Attack|Spring Attack]]
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 11
-  - **Treasure**: None
-  - **Alignment**: Always lawful evil
-  - **Advancement**: 17–32 HD (Large)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^incorporeal|Incorporeal]])
+- **Hit Dice**: 16d12 (104 hp)
+- **Initiative**: +13
+- **Speed**: Fly 60 ft. (good) (12 squares)
+- **Armor Class**: 25 (–1 size, +9 Dex, +7 deflection), touch 25, flat-footed 16
+- **Base Attack**: +8; **CMB**: —; **CMD**: 36
+- **Attack**: Incorporeal touch +16 melee (2d6 plus 1d8 Constitution drain)
+- **Full Attack**: Incorporeal touch +16 melee (2d6 plus 1d8 Constitution drain)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: Constitution [[rangoric-srd/monsters/abilities/Ability Damage and Drain|drain]], create spawn
+- **Special Qualities**: Darkvision 60 ft., daylight powerlessness, [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|incorporeal traits]], lifesense 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]], unnatural aura
+- **Saves**: Fort +5, Ref +14, Will +14
+- **Abilities**: Str —, Dex 28, Con —, Int 17, Wis 18, Cha 24
+- **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +23 (+25 following tracks), [[rangoric-srd/skills/Intimidation|Intimidation]] +26, [[rangoric-srd/skills/Investigation|Investigation]] +22, [[rangoric-srd/skills/Perception|Perception]] +29, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Stealth|Stealth]] +24, [[rangoric-srd/skills/Theology|Theology]] +22
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative (B)]], [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]] (incorporeal touch), [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception) (B), [[rangoric-srd/feats/Spring Attack|Spring Attack]]
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 11
+- **Treasure**: None
+- **Alignment**: Always lawful evil
+- **Advancement**: 17–32 HD (Large)
+- **Level Adjustment**: —
 
 The oldest and most malevolent wraiths lurk in the depths of forgotten temples and other forsaken places. They can sense the approach of living creatures, and hunger for them. Despite its size, the dread wraith possesses unearthly quickness, and makes use of its [[rangoric-srd/feats/Spring Attack|Spring Attack]] feat and natural reach to strike with deadly effect and melt back into the shadows - or the walls.
 

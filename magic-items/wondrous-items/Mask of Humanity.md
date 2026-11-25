@@ -22,4 +22,4 @@ Human craftsmen create their masks to impress both friend and foe alike. The Cha
 
 This is one of the [[rangoric-srd/magic-items/Racial Masks|racial masks]].
 
-Faint enchantment; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Bless|bless]]*; Price 32,000 gp; Cost 16,000 gp + 1,280 XP.
+Faint enchantment; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Bless|bless]]_; Price 32,000 gp; Cost 16,000 gp + 1,280 XP.

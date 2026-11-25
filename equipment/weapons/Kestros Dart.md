@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/weapon]
 
 # Kestros Dart
 
-*Ammunition (10).* Cost 5 gp; Weight 5 lb. ^stats
+_Ammunition (10)._ Cost 5 gp; Weight 5 lb. ^stats
 
 This dart, meant to be thrown using a kestros, consists of a heavy metal point about 9 inches long attached to a shaft of wood about 12 inches long, fletched with feathers for stability. If used as a melee weapon, it is a light improvised weapon (–4 penalty on attack rolls) and deals damage as a [[rangoric-srd/equipment/weapons/Dagger|dagger]] of its size (critical multiplier ×2). Kestros darts come in a quiver that holds 10 darts.

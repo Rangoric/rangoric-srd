@@ -28,15 +28,15 @@ tags: [rangoric, rangoric/spell]
 
 # Invigorate, Mass
 
-*Illusion \[Figment\]*
+_Illusion \[Figment\]_
 
-  - **Level**: Brd 3, Mes 3, Psy 4, Skd 3
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Targets**: Creatures touched, up to one/level
-  - **Duration**: 10 minutes/level (D)
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Brd 3, Mes 3, Psy 4, Skd 3
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Targets**: Creatures touched, up to one/level
+- **Duration**: 10 minutes/level (D)
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-This spell work as *[[rangoric-srd/spells/Invigorate|invigorate]]*, except it affects multiple creatures.
+This spell work as _[[rangoric-srd/spells/Invigorate|invigorate]]_, except it affects multiple creatures.

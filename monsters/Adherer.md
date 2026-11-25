@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Adherer
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
-  - **Hit Dice**: 4d10+8 (30 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares), climb 10 ft.
-  - **Armor Class**: 17 (+3 Dex, +4 natural), touch 13, flat-footed 14
-  - **Base Attack**: +4; **CMB**: +7 (+19 grapple); **CMD**: 19
-  - **Attack**: Slam +6 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: 2 slams +6 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Grab]] (Large)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Adhesive|adhesive]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 14
-  - **Saves**: Fort +3, Ref +7, Will +5
-  - **Abilities**: Str 14, Dex 16, Con 15, Int 4, Wis 13, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Craft|Craft]] (cloth) +3, [[rangoric-srd/skills/Craft|Craft]] (traps) +1, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +11
-  - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]]
-  - **Environment**: Any temperate or underground
-  - **Organization**: Solitary, gang (2–5), or nest (6–12)
-  - **Challenge Rating**: 3
-  - **Treasure**: Standard
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
+- **Hit Dice**: 4d10+8 (30 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares), climb 10 ft.
+- **Armor Class**: 17 (+3 Dex, +4 natural), touch 13, flat-footed 14
+- **Base Attack**: +4; **CMB**: +7 (+19 grapple); **CMD**: 19
+- **Attack**: Slam +6 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: 2 slams +6 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Grab]] (Large)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Adhesive|adhesive]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 14
+- **Saves**: Fort +3, Ref +7, Will +5
+- **Abilities**: Str 14, Dex 16, Con 15, Int 4, Wis 13, Cha 11
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Craft|Craft]] (cloth) +3, [[rangoric-srd/skills/Craft|Craft]] (traps) +1, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +11
+- **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]]
+- **Environment**: Any temperate or underground
+- **Organization**: Solitary, gang (2–5), or nest (6–12)
+- **Challenge Rating**: 3
+- **Treasure**: Standard
+- **Alignment**: Usually lawful evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Adherers look vaguely like embalmed and mummified corpses wrapped in dirty linen, but they are in fact otherworldly beings of an entirely different nature. Transformed by hideous processes on the Ethereal Plane, their bodies are riddled with tiny, adhesive strands that can stick to anything, allowing adherers to bind their enemies' weapons and capture living creatures for their depraved rituals.
 

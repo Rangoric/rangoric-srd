@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Voice of the Wild
 
-*A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Most bards are inspired by the art of civilization, yet the voice of the wild’s muse is the grandeur of nature. The voice of the wild has discovered nature’s magical secrets, and can use his performance to bring out the bestial side in his allies.
 

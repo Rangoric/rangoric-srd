@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes, weapon-group/double]
 
 # Orc Double Axe
 
-*Exotic two-handed melee weapon (double).* Cost 60 gp; Dmg 1d6/1d6 (S), 1d8/1d8 (M); Critical x3; Weight 15 lb.; Type Slashing. ^stats
+_Exotic two-handed melee weapon (double)._ Cost 60 gp; Dmg 1d6/1d6 (S), 1d8/1d8 (M); Critical x3; Weight 15 lb.; Type Slashing. ^stats
 
 An orc double axe is a double weapon. You can fight with it as if fighting with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons, just as if you were using a one-handed weapon and a light weapon. A creature wielding an orc double axe in one hand can’t use it as a double weapon—only one end of the weapon can be used in any given round.

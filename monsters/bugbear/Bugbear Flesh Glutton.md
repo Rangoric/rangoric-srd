@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Bugbear Flesh Glutton
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Goblinoid)
-  - **Hit Dice**: 3d8+5d12+48 (99 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 23 (+7 armor, +3 Dex, +6 natural, –2 rage, –1 size), touch 10, flat-footed 20
-  - **Base Attack**: +7; **CMB**: +16; **CMD**: 27
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Falchion|falchion]] +15 melee (2d6+13/18–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Javelin|javelin]] +10 ranged (1d8+8)
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Falchion|falchion]] +15/+10 melee (2d6+13/18–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Javelin|javelin]] +10 ranged (1d8+8)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (16 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Animal Fury (Rage Power)|animal fury]], [[rangoric-srd/class-options/rage-powers/Powerful Blow (Rage Power)|powerful blow]])
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +1, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/monsters/bugbear/Bugbear|stalker]]
-  - **Saves**: Fort +12, Ref +8, Will +5
-  - **Abilities**: Str 26, Dex 17, Con 22, Int 10, Wis 10, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +23, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Hurtful|Hurtful]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Pile On|Pile On]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Temperate mountains
-  - **Organization**: Solitary, or with other bugbears (see [[rangoric-srd/monsters/bugbear/Bugbear|Bugbear]])
-  - **Challenge Rating**: 8
-  - **Treasure**: NPC gear
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Goblinoid)
+- **Hit Dice**: 3d8+5d12+48 (99 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 23 (+7 armor, +3 Dex, +6 natural, –2 rage, –1 size), touch 10, flat-footed 20
+- **Base Attack**: +7; **CMB**: +16; **CMD**: 27
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Falchion|falchion]] +15 melee (2d6+13/18–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Javelin|javelin]] +10 ranged (1d8+8)
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Falchion|falchion]] +15/+10 melee (2d6+13/18–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Javelin|javelin]] +10 ranged (1d8+8)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (16 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Animal Fury (Rage Power)|animal fury]], [[rangoric-srd/class-options/rage-powers/Powerful Blow (Rage Power)|powerful blow]])
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +1, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/monsters/bugbear/Bugbear|stalker]]
+- **Saves**: Fort +12, Ref +8, Will +5
+- **Abilities**: Str 26, Dex 17, Con 22, Int 10, Wis 10, Cha 10
+- **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +23, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Hurtful|Hurtful]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Pile On|Pile On]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Temperate mountains
+- **Organization**: Solitary, or with other bugbears (see [[rangoric-srd/monsters/bugbear/Bugbear|Bugbear]])
+- **Challenge Rating**: 8
+- **Treasure**: NPC gear
+- **Alignment**: Usually chaotic evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A bugbear flesh glutton is a [[rangoric-srd/monsters/bugbear/Bugbear|bugbear]] with 5 levels of [[rangoric-srd/classes/Barbarian|barbarian]], one of the bugbear cannibals. Some bugbears have an appetite for the flesh of sapient creatures, though they prefer consuming others over eating their own kind. They often keep groups of captives for weeks, killing and consuming them one at a time.
 

@@ -23,10 +23,10 @@ tags: [rangoric, rangoric/spell]
 
 # Grasping Hand
 
-*Evocation \[Force\]*
+_Evocation \[Force\]_
 
-  - **Level**: Psy 7, Sor/Wiz 7, Strength 7
-  - **Components**: V, S, F/DF
+- **Level**: Psy 7, Sor/Wiz 7, Strength 7
+- **Components**: V, S, F/DF
 
 This spell functions like [[rangoric-srd/spells/Interposing Hand|interposing hand]], except the hand can also [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] one opponent that you select. The grasping hand gets one grapple attack per round. This attack does not provoke an attack of opportunity.
 
@@ -38,4 +38,4 @@ The grasping hand can also [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull
 
 Clerics who cast this spell name it for their deities.
 
-*Arcane Focus*: A leather glove.
+_Arcane Focus_: A leather glove.

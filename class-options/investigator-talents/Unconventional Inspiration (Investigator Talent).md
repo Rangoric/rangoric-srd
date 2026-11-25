@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Unconventional Inspiration
 
-*An [[rangoric-srd/classes/Investigator#^investigator-investigator-talent|investigator talent]] (Ex).*
+_An [[rangoric-srd/classes/Investigator#^investigator-investigator-talent|investigator talent]] (Ex)._
 
 An investigator can pick any one skill that he is trained in but that he can’t use his inspiration with. He can use [[rangoric-srd/classes/Investigator#^investigator-inspiration|inspiration]] with that skill. An investigator must be at least 17th level to select this talent.

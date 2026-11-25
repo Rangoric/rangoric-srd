@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Emerald Tablet
 
-*Alchana; Special*
+_Alchana; Special_
 
 Emerald tablets are penultimate creations, because they are a necessary step along the great alchemical quest for the Alchana Stones. An emerald tablet can be used up to 3 times per day and its surface flakes away slowly with each use (3d20 charges). It can automatically perform these powers and alchemical abilities when worn or carried in contact with the bearer’s skin (i.e. as an amulet beneath a shirt):
 

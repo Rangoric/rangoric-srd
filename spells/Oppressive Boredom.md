@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Oppressive Boredom
 
-*Enchantment (Compulsion) \[Emotion, Mind-affecting\]*
+_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
 
-  - **Level**: Brd 2, Med 2, Mes 2, Psy 2, Skd 2, Sor/Wiz 2
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: 1 round/level or until broken (see text)
-  - **Saving Throw**: Will negates (see text)
-  - **Spell Resistance**: Yes
+- **Level**: Brd 2, Med 2, Mes 2, Psy 2, Skd 2, Sor/Wiz 2
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: 1 round/level or until broken (see text)
+- **Saving Throw**: Will negates (see text)
+- **Spell Resistance**: Yes
 
 You fill your target with boredom. The target loses all interest in its current task and must make a Will save against the spell's effect in order to perform its next action. If the target fails, it takes no action that round. The boredom lasts until the duration expires or the target breaks the spell's effect with a successful Will save.

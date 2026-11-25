@@ -30,14 +30,14 @@ tags: [rangoric, rangoric/spell]
 
 # False Resurrection, Greater
 
-*Conjuration (Calling) \[Evil, Lawful, Ruse\]*
+_Conjuration (Calling) \[Evil, Lawful, Ruse\]_
 
-  - **Level**: Clr 9
-  - **Components**: V, S, M, DF (diamond worth 25,000 gp)
-  - **Casting Time**: 1 minute
-  - **Range**: Touch
-  - **Target**: Dead creature touched
-  - **Duration**: Permanent
-  - **Spell Resistance**: Yes
+- **Level**: Clr 9
+- **Components**: V, S, M, DF (diamond worth 25,000 gp)
+- **Casting Time**: 1 minute
+- **Range**: Touch
+- **Target**: Dead creature touched
+- **Duration**: Permanent
+- **Spell Resistance**: Yes
 
-This spell functions as [[rangoric-srd/spells/False Resurrection|false resurrection]] except that it calls a [[rangoric-srd/monsters/devil/Belier Devil|belier devil]] with the [[rangoric-srd/monsters/simple-templates/Young Creature|young simple template]] to possess the body and all parts of *[[rangoric-srd/spells/False Resurrection|false resurrection]]* that function like *[[rangoric-srd/spells/Resurrection|resurrection]]* instead function like true *[[rangoric-srd/spells/Resurrection|resurrection]]*. Attempts to identify greater *[[rangoric-srd/spells/False Resurrection|false resurrection]]* with a skill check incorrectly identify it as [[rangoric-srd/spells/True Resurrection|true resurrection]]. A fooled viewer mistakes greater *[[rangoric-srd/spells/False Resurrection|false resurrection]]*'s aura as the lingering aura of an instantaneous conjuration effect.
+This spell functions as [[rangoric-srd/spells/False Resurrection|false resurrection]] except that it calls a [[rangoric-srd/monsters/devil/Belier Devil|belier devil]] with the [[rangoric-srd/monsters/simple-templates/Young Creature|young simple template]] to possess the body and all parts of _[[rangoric-srd/spells/False Resurrection|false resurrection]]_ that function like _[[rangoric-srd/spells/Resurrection|resurrection]]_ instead function like true _[[rangoric-srd/spells/Resurrection|resurrection]]_. Attempts to identify greater _[[rangoric-srd/spells/False Resurrection|false resurrection]]_ with a skill check incorrectly identify it as [[rangoric-srd/spells/True Resurrection|true resurrection]]. A fooled viewer mistakes greater _[[rangoric-srd/spells/False Resurrection|false resurrection]]_'s aura as the lingering aura of an instantaneous conjuration effect.

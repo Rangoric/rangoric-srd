@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/feat]
 
 Your summoned minions are infused with the power of the moon.
 
-**Prerequisites**: [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration), able to cast *[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature’s ally]]*.
+**Prerequisites**: [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration), able to cast _[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature’s ally]]_.
 
-**Benefit**: Creatures you summon shed light as a *[[rangoric-srd/spells/Light|light]]* spell. They are immune to confusion and sleep effects, and their natural weapons count as silver for overcoming damage reduction.
+**Benefit**: Creatures you summon shed light as a _[[rangoric-srd/spells/Light|light]]_ spell. They are immune to confusion and sleep effects, and their natural weapons count as silver for overcoming damage reduction.

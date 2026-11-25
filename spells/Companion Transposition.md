@@ -31,14 +31,14 @@ tags: [rangoric, rangoric/spell]
 
 # Companion Transposition
 
-*Conjuration (Teleportation)*
+_Conjuration (Teleportation)_
 
-  - **Level**: Apl 4, Drd 5, Hun 4, Pal 4, Rgr 4, Sor/Wiz 5, Wit 5
-  - **Components**: V, S, F
-  - **Casting Time**: 1 standard action
-  - **Range**: Long (400 ft. + 40 ft./level)
-  - **Target**: Yourself and one animal companion, familiar, or spirit animal within range
-  - **Duration**: Instantaneous
-  - **Spell Resistance**: No
+- **Level**: Apl 4, Drd 5, Hun 4, Pal 4, Rgr 4, Sor/Wiz 5, Wit 5
+- **Components**: V, S, F
+- **Casting Time**: 1 standard action
+- **Range**: Long (400 ft. + 40 ft./level)
+- **Target**: Yourself and one animal companion, familiar, or spirit animal within range
+- **Duration**: Instantaneous
+- **Spell Resistance**: No
 
 You trade places with the other target, teleporting as if you were both affected by dimension door. Both you and the other target arrive in a square you choose in the other's former space. If the targets are different sizes, they must appear in locations that cover previously occupied squares. As with dimension door, after casting this spell, you can't take any other actions until your next turn, and the other target is staggered until the end of its next turn due to the transposition.

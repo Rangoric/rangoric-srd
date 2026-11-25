@@ -22,9 +22,9 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Wilderness Swathe
 
-*Swathe; Special*
+_Swathe; Special_
 
-A wildernesswathe is a lighter, more particular form of swathe that does not aid armor class or toughness. Wildernesswathe-bonded armor shows a bramble of briars across the chest, arms and legs of the armor (and oftimes the boots of the wearer). The wearer gains *pass without trace* once a day for up to an hour, and once a month can use *tree stride* as if he or she were a 9th level ranger.
+A wildernesswathe is a lighter, more particular form of swathe that does not aid armor class or toughness. Wildernesswathe-bonded armor shows a bramble of briars across the chest, arms and legs of the armor (and oftimes the boots of the wearer). The wearer gains _pass without trace_ once a day for up to an hour, and once a month can use _tree stride_ as if he or she were a 9th level ranger.
 
 **Construction**: No aura; CL 9th; [[rangoric-srd/feats/Grow Swathe|Grow Swathe]]; DC: 27; Price: 14,400 gp + cost of armor
 

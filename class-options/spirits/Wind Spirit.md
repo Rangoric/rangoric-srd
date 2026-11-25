@@ -14,11 +14,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Wind Spirit
 
-*A [[rangoric-srd/classes/Shaman#^shaman-spirit|shaman spirit]].*
+_A [[rangoric-srd/classes/Shaman#^shaman-spirit|shaman spirit]]._
 
 A shaman who selects the wind spirit appears windswept, and her movements seem lithe and carefree.
 
-**Spirit Magic Spells**: *[[rangoric-srd/spells/Alter Winds|alter winds]]* (1st), *[[rangoric-srd/spells/Gust of Wind|gust of wind]]* (2nd), *[[rangoric-srd/spells/Cloak of Winds|cloak of winds]]* (3rd), *[[rangoric-srd/spells/River of Wind|river of wind]]* (4th), *[[rangoric-srd/spells/Control Winds|control winds]]* (5th), *[[rangoric-srd/spells/Sirocco|sirocco]]* (6th), *[[rangoric-srd/spells/Control Weather|control weather]]* (7th), *[[rangoric-srd/spells/Whirlwind|whirlwind]]* (8th), *[[rangoric-srd/spells/Winds of Vengeance|winds of vengeance]]* (9th).
+**Spirit Magic Spells**: _[[rangoric-srd/spells/Alter Winds|alter winds]]_ (1st), _[[rangoric-srd/spells/Gust of Wind|gust of wind]]_ (2nd), _[[rangoric-srd/spells/Cloak of Winds|cloak of winds]]_ (3rd), _[[rangoric-srd/spells/River of Wind|river of wind]]_ (4th), _[[rangoric-srd/spells/Control Winds|control winds]]_ (5th), _[[rangoric-srd/spells/Sirocco|sirocco]]_ (6th), _[[rangoric-srd/spells/Control Weather|control weather]]_ (7th), _[[rangoric-srd/spells/Whirlwind|whirlwind]]_ (8th), _[[rangoric-srd/spells/Winds of Vengeance|winds of vengeance]]_ (9th).
 
 **Hexes**: [[rangoric-srd/class-options/hexes/Air Barrier (Hex)|air barrier]], [[rangoric-srd/class-options/hexes/Sparking Aura (Hex)|sparking aura]], [[rangoric-srd/class-options/hexes/Vortex Spells (Hex)|vortex spells]], [[rangoric-srd/class-options/hexes/Wind Sight (Hex)|wind sight]], [[rangoric-srd/class-options/hexes/Wind Ward (Hex)|wind ward]].
 
@@ -28,7 +28,7 @@ A shaman who selects the wind spirit appears windswept, and her movements seem l
 
 A shaman who chooses the wind spirit as her [[rangoric-srd/classes/Shaman#^shaman-spirit|spirit]] or [[rangoric-srd/classes/Shaman#^shaman-wandering-spirit|wandering spirit]] gains the following ability.
 
-**Shocking Touch (Su)**: As a standard action, the shaman can make a melee touch attack that deals 1d6 points of electricity damage + 1 point for every 2 shaman levels she possesses. A shaman can use this ability a number of times per day equal to 3 + her Charisma modifier. At 11th level, any weapon she wields is treated as a *[[rangoric-srd/magic-items/weapon-abilities/Shock|shock]]* weapon.
+**Shocking Touch (Su)**: As a standard action, the shaman can make a melee touch attack that deals 1d6 points of electricity damage + 1 point for every 2 shaman levels she possesses. A shaman can use this ability a number of times per day equal to 3 + her Charisma modifier. At 11th level, any weapon she wields is treated as a _[[rangoric-srd/magic-items/weapon-abilities/Shock|shock]]_ weapon.
 
 ## Greater Spirit Ability
 
@@ -40,7 +40,7 @@ A shaman who chooses the wind spirit as her spirit or wandering spirit gains the
 
 A shaman who chooses the wind spirit as her spirit or wandering spirit gains the following ability upon having access to the true version of that spirit.
 
-**Elemental Form (Su)**: As a standard action, the shaman assumes the form of a Huge (or smaller) lightning elemental, as if using *[[rangoric-srd/spells/Elemental Body IV|elemental body IV]]* with a duration of 1 hour per level. The shaman can use this ability once per day.
+**Elemental Form (Su)**: As a standard action, the shaman assumes the form of a Huge (or smaller) lightning elemental, as if using _[[rangoric-srd/spells/Elemental Body IV|elemental body IV]]_ with a duration of 1 hour per level. The shaman can use this ability once per day.
 
 ## Manifestation
 

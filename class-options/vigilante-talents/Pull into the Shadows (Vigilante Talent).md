@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Pull into the Shadows
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 As a full-round action, the vigilante can move up to his speed toward an opponent who is unaware of his presence (or who considers him an ally) and make a single attack against that opponent. If the attack hits, he can attempt a [[rangoric-srd/combat/Combat Maneuvers#Drag|drag]] combat maneuver against that enemy with a +4 bonus and without provoking an attack of opportunity. If the drag succeeds, the vigilante doesn’t need to have enough movement remaining to move with the enemy. The vigilante can’t use this ability on a true ally or a willing target.

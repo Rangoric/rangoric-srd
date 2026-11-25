@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/magic-item]
 
 Weapons with this enchantment have the same abilities as the regular version, except that the healing effect applies against any living creature that is struck by the weapon.
 
-Moderate necromancy; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]*, *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]*; Price +5 bonus.
+Moderate necromancy; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]_, _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_; Price +5 bonus.

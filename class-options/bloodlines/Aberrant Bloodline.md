@@ -17,7 +17,7 @@ There is a taint in your blood, one that is alien and bizarre. You tend to think
 
 **Class Skill**: [[rangoric-srd/skills/Dungeoneering|Dungeoneering]].
 
-**Bonus Spells**: *[[rangoric-srd/spells/Enlarge Person|enlarge person]]* (3rd), *[[rangoric-srd/spells/See Invisibility|see invisibility]]* (5th), *[[rangoric-srd/spells/Tongues|tongues]]* (7th), *[[rangoric-srd/spells/Black Tentacles|black tentacles]]* (9th), *[[rangoric-srd/spells/Feeblemind|feeblemind]]* (11th), *[[rangoric-srd/spells/Veil|veil]]* (13th), *[[rangoric-srd/spells/Plane Shift|plane shift]]* (15th), *[[rangoric-srd/spells/Mind Blank|mind blank]]* (17th), *[[rangoric-srd/spells/Shapechange|shapechange]]* (19th).
+**Bonus Spells**: _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ (3rd), _[[rangoric-srd/spells/See Invisibility|see invisibility]]_ (5th), _[[rangoric-srd/spells/Tongues|tongues]]_ (7th), _[[rangoric-srd/spells/Black Tentacles|black tentacles]]_ (9th), _[[rangoric-srd/spells/Feeblemind|feeblemind]]_ (11th), _[[rangoric-srd/spells/Veil|veil]]_ (13th), _[[rangoric-srd/spells/Plane Shift|plane shift]]_ (15th), _[[rangoric-srd/spells/Mind Blank|mind blank]]_ (17th), _[[rangoric-srd/spells/Shapechange|shapechange]]_ (19th).
 
 **Bonus Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Grapple|Improved Grapple]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Silent Spell|Silent Spell]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Dungeoneering).
 

@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/bows]
 
 # Double Recurve Bow
 
-*Martial ranged weapon.* Cost 120 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Range Increment 100 ft.; Weight 3 lb.; Type Piercing. ^stats
+_Martial ranged weapon._ Cost 120 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Range Increment 100 ft.; Weight 3 lb.; Type Piercing. ^stats
 
-The double recurve bow must be wielded with two hands. It is an incredibly powerful bow and should be considered the equivalent of a masterwork mighty *composite longbow +2*.
+The double recurve bow must be wielded with two hands. It is an incredibly powerful bow and should be considered the equivalent of a masterwork mighty _composite longbow +2_.

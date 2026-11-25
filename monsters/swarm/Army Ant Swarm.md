@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Army Ant Swarm
 
-  - Fine [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]] (Swarm)
-  - **Hit Dice**: 11d8 (49 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares), climb 30 ft.
-  - **Armor Class**: 20 (+8 size, +2 Dex), touch 20, flat-footed 18
-  - **Base Attack**: +8; **CMB**: —; **CMD**: —
-  - **Attack**: Swarm (3d6)
-  - **Full Attack**: Swarm (3d6)
-  - **Space/Reach**: 10 ft./0 ft.
-  - **Special Attacks**: Cling, consume, [[rangoric-srd/monsters/abilities/Distraction|distraction]] (DC 15)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to weapon damage
-  - **Saves**: Fort +7, Ref +5, Will +3
-  - **Abilities**: Str 1, Dex 15, Con 10, Int —, Wis 10, Cha 2
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +4
-  - **Feats**: —
-  - **Environment**: Any tropical
-  - **Organization**: Solitary, pair, patrol (3–6 swarms), or legion (7–16 swarms)
-  - **Challenge Rating**: 5
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Fine [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]] (Swarm)
+- **Hit Dice**: 11d8 (49 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares), climb 30 ft.
+- **Armor Class**: 20 (+8 size, +2 Dex), touch 20, flat-footed 18
+- **Base Attack**: +8; **CMB**: —; **CMD**: —
+- **Attack**: Swarm (3d6)
+- **Full Attack**: Swarm (3d6)
+- **Space/Reach**: 10 ft./0 ft.
+- **Special Attacks**: Cling, consume, [[rangoric-srd/monsters/abilities/Distraction|distraction]] (DC 15)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to weapon damage
+- **Saves**: Fort +7, Ref +5, Will +3
+- **Abilities**: Str 1, Dex 15, Con 10, Int —, Wis 10, Cha 2
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +4
+- **Feats**: —
+- **Environment**: Any tropical
+- **Organization**: Solitary, pair, patrol (3–6 swarms), or legion (7–16 swarms)
+- **Challenge Rating**: 5
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The notoriety of the army ant swarm is well earned. Constantly on the march, a hive of army ants is capable of eating anything that gets in the way of its unabating swath of destruction and ruin.
 

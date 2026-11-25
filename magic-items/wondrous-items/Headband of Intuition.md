@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Headband of Intuition
 
-This headband gives its wearer the gift of foresight, effectively allowing her to determine whether or not a particular course of action will grant weal and/or woe. Three times per day the wearer of this headband can, as a standard action, gain information about a specified course of action as if using the *[[rangoric-srd/spells/Augury|augury]]* spell, except that the wearer always gets a meaningful reply.
+This headband gives its wearer the gift of foresight, effectively allowing her to determine whether or not a particular course of action will grant weal and/or woe. Three times per day the wearer of this headband can, as a standard action, gain information about a specified course of action as if using the _[[rangoric-srd/spells/Augury|augury]]_ spell, except that the wearer always gets a meaningful reply.
 
-Faint divination; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Augury|augury]]*; Price 7,000 gp; Cost 3,500 gp; Weight 1 lb.
+Faint divination; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Augury|augury]]_; Price 7,000 gp; Cost 3,500 gp; Weight 1 lb.

@@ -28,16 +28,16 @@ tags: [rangoric, rangoric/spell]
 
 # Power Word Stun
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Psy 8, Sor/Wiz 8, War 8, Wit 8
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature with 150 hp or less
-  - **Duration**: See text
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes
+- **Level**: Psy 8, Sor/Wiz 8, War 8, Wit 8
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature with 150 hp or less
+- **Duration**: See text
+- **Saving Throw**: None
+- **Spell Resistance**: Yes
 
 You utter a single word of power that instantly causes one creature of your choice to become [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]], whether the creature can hear the word or not. The duration of the spell depends on the target’s current hit point total. Any creature that currently has 151 or more hit points is unaffected by power word stun.
 

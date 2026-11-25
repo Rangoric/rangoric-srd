@@ -20,8 +20,8 @@ tags: [rangoric, rangoric/spell]
 
 # Inflict Critical Wounds
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Clr 4, Destruction 4, Inq 4, Occ 4, Sha 4, Spi 4, Wit 5
+- **Level**: Clr 4, Destruction 4, Inq 4, Occ 4, Sha 4, Spi 4, Wit 5
 
 This spell functions like [[rangoric-srd/spells/Inflict Light Wounds|inflict light wounds]], except that you deal 4d8 points of damage +1 point per caster level (maximum +20).

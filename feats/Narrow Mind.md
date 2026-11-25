@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Narrow Mind
 
-Your ability to concentrate is as keen as an arrowhead, allowing you to gain your psionic focus even in the most turbulent situations.  
+Your ability to concentrate is as keen as an arrowhead, allowing you to gain your psionic focus even in the most turbulent situations.
 
 Prerequisite: Wis 13.
 

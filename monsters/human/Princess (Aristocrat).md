@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Princess (Aristocrat)
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
-  - **Hit Dice**: 2d8–2 (7 hp)
-  - **Initiative**: +1
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 12 (+1 Dex, +1 dodge), touch 12, flat-footed 10
-  - **Base Attack**: +1; **CMB**: +0; **CMD**: 12
-  - **Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +0 melee (1d3–1) or light mace +0 (1d6–1) or
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +0 melee (1d3–1); or light mace +0 (1d6–1) or
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: —
-  - **Saves**: Fort –1, Ref +1, Will +3
-  - **Abilities**: Str 8, Dex 13, Con 9, Int 11, Wis 10, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Deception|Deception]] +6, Perform (dance) +7, Perform (sing, string instruments) +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Theology|Theology]] +4
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 1/2
-  - **Treasure**: NPC gear
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human)
+- **Hit Dice**: 2d8–2 (7 hp)
+- **Initiative**: +1
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 12 (+1 Dex, +1 dodge), touch 12, flat-footed 10
+- **Base Attack**: +1; **CMB**: +0; **CMD**: 12
+- **Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +0 melee (1d3–1) or light mace +0 (1d6–1) or
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +0 melee (1d3–1); or light mace +0 (1d6–1) or
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: —
+- **Saves**: Fort –1, Ref +1, Will +3
+- **Abilities**: Str 8, Dex 13, Con 9, Int 11, Wis 10, Cha 14
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Deception|Deception]] +6, Perform (dance) +7, Perform (sing, string instruments) +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Theology|Theology]] +4
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 1/2
+- **Treasure**: NPC gear
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A princess (aristocrat) is a [[rangoric-srd/monsters/human/Human|human]] with 2 levels of [[rangoric-srd/classes/Aristocrat|aristocrat]]. Well-rounded in her training, the princess is a demure lady of the court who handles herself quite well in a fight. She has a stubborn streak and a taste for adventure, and doesn't like commoners telling her what she can and can't do.
 

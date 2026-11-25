@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/weapon]
 
 # Metal Cartridge
 
-*Ammunition for firearms.* Cost 15 gp; Weight —. ^stats
+_Ammunition for firearms._ Cost 15 gp; Weight —. ^stats
 
 These sturdier versions of alchemical cartridges serve as the ammunition for advanced firearms. They can hold either bullets or pellets.

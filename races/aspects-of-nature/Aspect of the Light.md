@@ -28,10 +28,10 @@ Also called the Aspect of the Day, this Aspect and its adherents promote the war
 
 How these effects work is in [[rangoric-srd/races/aspects-of-nature/Aspects of Nature#Aspect of Nature Effects|Aspect of Nature Effects]].
 
-| Facet | Bonus | Penalty |
-| --- | --- | --- |
-| Brilliant Reflections | spell resistant (chaos) | spell vulnerable (law) |
-| Radiance | +1 to Will saving throws | -1 to Fortitude saving throws |
-| Scintillating Light | +1 to Reflex saving throws | -1 to Fortitude saving throws |
-| Shimmering Pools | +1 to Reflex saving throws | -1 to Fortitude saving throws |
-| Sun Beams | capable spellcasting (fire) | crude spellcasting (cold) |
+| Facet                 | Bonus                       | Penalty                       |
+| --------------------- | --------------------------- | ----------------------------- |
+| Brilliant Reflections | spell resistant (chaos)     | spell vulnerable (law)        |
+| Radiance              | +1 to Will saving throws    | -1 to Fortitude saving throws |
+| Scintillating Light   | +1 to Reflex saving throws  | -1 to Fortitude saving throws |
+| Shimmering Pools      | +1 to Reflex saving throws  | -1 to Fortitude saving throws |
+| Sun Beams             | capable spellcasting (fire) | crude spellcasting (cold)     |

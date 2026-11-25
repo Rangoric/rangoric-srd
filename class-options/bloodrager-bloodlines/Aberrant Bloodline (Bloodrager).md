@@ -15,13 +15,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Aberrant Bloodline (Bloodrager)
 
-*A [[rangoric-srd/classes/Bloodrager#^bloodrager-bloodline|bloodrager bloodline]]. The [[rangoric-srd/class-options/bloodlines/Aberrant Bloodline|sorcerer’s aberrant bloodline]] shares the name but not the powers.*
+_A [[rangoric-srd/classes/Bloodrager#^bloodrager-bloodline|bloodrager bloodline]]. The [[rangoric-srd/class-options/bloodlines/Aberrant Bloodline|sorcerer’s aberrant bloodline]] shares the name but not the powers._
 
 There is a taint in your blood that is both alien and bizarre. When you bloodrage, this manifests in peculiar and terrifying ways.
 
 **Bonus Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Grapple|Improved Grapple]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]].
 
-**Bonus Spells**: *[[rangoric-srd/spells/Enlarge Person|Enlarge person]]* (7th), *[[rangoric-srd/spells/See Invisibility|see invisibility]]* (10th), *[[rangoric-srd/spells/Displacement|displacement]]* (13th), *[[rangoric-srd/spells/Black Tentacles|black tentacles]]* (16th).
+**Bonus Spells**: _[[rangoric-srd/spells/Enlarge Person|Enlarge person]]_ (7th), _[[rangoric-srd/spells/See Invisibility|see invisibility]]_ (10th), _[[rangoric-srd/spells/Displacement|displacement]]_ (13th), _[[rangoric-srd/spells/Black Tentacles|black tentacles]]_ (16th).
 
 ## Bloodline Powers
 

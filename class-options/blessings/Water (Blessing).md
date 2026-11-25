@@ -15,8 +15,8 @@ tags: [rangoric, rangoric/class-option]
 
 # Water Blessing
 
-*A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Water Domain|Water domain]].*
+_A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Water Domain|Water domain]]._
 
-**Ice Strike (minor)**: At 1st level, you can touch one weapon and enhance it with the power of water. For 1 minute, this weapon glows with a blue-white chill and deals an additional 1d4 points of cold damage with each strike. This additional damage doesn’t stack with the additional damage from the *[[rangoric-srd/magic-items/weapon-abilities/Frost|frost]]* or *[[rangoric-srd/magic-items/weapon-abilities/Icy Burst|icy burst]]* weapon special abilities.
+**Ice Strike (minor)**: At 1st level, you can touch one weapon and enhance it with the power of water. For 1 minute, this weapon glows with a blue-white chill and deals an additional 1d4 points of cold damage with each strike. This additional damage doesn’t stack with the additional damage from the _[[rangoric-srd/magic-items/weapon-abilities/Frost|frost]]_ or _[[rangoric-srd/magic-items/weapon-abilities/Icy Burst|icy burst]]_ weapon special abilities.
 
-**Armor of Ice (major)**: At 10th level, you can touch any one ally and wreath it in freezing mist. This works as *[[rangoric-srd/spells/Fire Shield|fire shield]]* (chill shield only) with a duration 1 minute.
+**Armor of Ice (major)**: At 10th level, you can touch any one ally and wreath it in freezing mist. This works as _[[rangoric-srd/spells/Fire Shield|fire shield]]_ (chill shield only) with a duration 1 minute.

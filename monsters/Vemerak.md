@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Vemerak
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 17d8+119 (195 hp)
-  - **Initiative**: +7
-  - **Speed**: 40 ft. (8 squares), burrow 20 ft., climb 40 ft.
-  - **Armor Class**: 29 (+3 Dex, +18 natural, –2 size), touch 11, flat-footed 26
-  - **Base Attack**: +12; **CMB**: +25 (+29 grapple); **CMD**: 38 (50 vs. trip)
-  - **Attack**: Bite +22 melee (2d6+11) or claw +22 melee (1d8+11 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tentacle +24 melee (1d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Bite +22 melee (2d6+11) and 2 claws +22 melee (1d8+11 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 3 tentacles +19 melee (1d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (90-foot line, 14d8 acid damage, DC 24 half, once every 1d4 rounds), constrict ([[rangoric-srd/monsters/abilities/Tentacles (Decapus)|tentacles]] 1d6+5 or claws 1d8+11), [[rangoric-srd/monsters/abilities/Earthquake|earthquake]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Spore Cloud|spore cloud]] (30 ft.), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, electricity, disease, mind-affecting and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to sonic 20, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25
-  - **Saves**: Fort +13, Ref +8, Will +13
-  - **Abilities**: Str 32, Dex 17, Con 23, Int 5, Wis 16, Cha 22
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Perception|Perception]] +23
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claws)
-  - **Environment**: Any underground
-  - **Organization**: Solitary
-  - **Challenge Rating**: 14
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 17d8+119 (195 hp)
+- **Initiative**: +7
+- **Speed**: 40 ft. (8 squares), burrow 20 ft., climb 40 ft.
+- **Armor Class**: 29 (+3 Dex, +18 natural, –2 size), touch 11, flat-footed 26
+- **Base Attack**: +12; **CMB**: +25 (+29 grapple); **CMD**: 38 (50 vs. trip)
+- **Attack**: Bite +22 melee (2d6+11) or claw +22 melee (1d8+11 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tentacle +24 melee (1d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Bite +22 melee (2d6+11) and 2 claws +22 melee (1d8+11 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 3 tentacles +19 melee (1d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (90-foot line, 14d8 acid damage, DC 24 half, once every 1d4 rounds), constrict ([[rangoric-srd/monsters/abilities/Tentacles (Decapus)|tentacles]] 1d6+5 or claws 1d8+11), [[rangoric-srd/monsters/abilities/Earthquake|earthquake]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Spore Cloud|spore cloud]] (30 ft.), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, electricity, disease, mind-affecting and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to sonic 20, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25
+- **Saves**: Fort +13, Ref +8, Will +13
+- **Abilities**: Str 32, Dex 17, Con 23, Int 5, Wis 16, Cha 22
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Perception|Perception]] +23
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claws)
+- **Environment**: Any underground
+- **Organization**: Solitary
+- **Challenge Rating**: 14
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Huge and otherworldly, the vemerak is a monster known as much for its disturbing appearance as its violent and cruel disposition.
 

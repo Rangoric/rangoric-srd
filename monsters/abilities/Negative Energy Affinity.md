@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Negative Energy Affinity
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “negative energy affinity”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “negative energy affinity”, on the Special Qualities line.
 
 The creature is alive but is healed by negative energy and harmed by positive energy, as if it were an [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead]] creature.

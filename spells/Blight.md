@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Blight
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Drd 4, Hun 4, Sha 5, Sor/Wiz 5, Wit 5
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude half; see text
-  - **Spell Resistance**: Yes
+- **Level**: Drd 4, Hun 4, Sha 5, Sor/Wiz 5, Wit 5
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude half; see text
+- **Spell Resistance**: Yes
 
 This spell withers a single plant of any size. An affected plant creature takes 1d6 points of damage per level (maximum 15d6) and may attempt a Fortitude saving throw for half damage. A plant that isn’t a creature doesn’t receive a save and immediately withers and dies.
 

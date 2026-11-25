@@ -28,7 +28,7 @@ Psychokinesis
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 hour/level (D)  
-**Power Points:** 1; see text  
+**Power Points:** 1; see text
 
 Your mind generates a tangible field of force that provides a +4 armor bonus to Armor Class. Unlike mundane armor, inertial armor entails no armor check penalty or speed reduction. Because inertial armor is composed of psychokinetic force, [[rangoric-srd/rules/Special Abilities and Conditions#^incorporeal|incorporeal]] creatures can’t bypass it the way they do normal armor.
 

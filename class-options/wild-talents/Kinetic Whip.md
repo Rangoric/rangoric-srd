@@ -18,14 +18,14 @@ tags: [rangoric, rangoric/class-option]
 
 # Kinetic Whip
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|form infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|form infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Elements#Universal|universal]]
-  - **Type**: form infusion
-  - **Level**: 3
-  - **Burn**: 2
-  - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Kinetic Blade|kinetic blade]]
-  - **Associated Blasts**: any
-  - **Saving Throw**: none
+- **Element**: [[rangoric-srd/class-options/elements/Elements#Universal|universal]]
+- **Type**: form infusion
+- **Level**: 3
+- **Burn**: 2
+- **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Kinetic Blade|kinetic blade]]
+- **Associated Blasts**: any
+- **Saving Throw**: none
 
 You form a long tendril of energy or elemental matter. This functions as [[rangoric-srd/class-options/wild-talents/Kinetic Blade|kinetic blade]] but counts as a reach weapon appropriate for your size. Unlike most reach weapons, the kinetic whip can also attack nearby creatures. The kinetic whip disappears at the beginning of your next turn, but in the intervening time, it threatens all squares within its reach, allowing you to make [[rangoric-srd/combat/Combat Initiative and Attacks of Opportunity#Attacks of Opportunity|attacks of opportunity]] that deal the whip’s usual damage.

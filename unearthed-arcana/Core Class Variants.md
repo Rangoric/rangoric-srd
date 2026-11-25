@@ -14,51 +14,51 @@ tags: [rangoric, rangoric/overview]
 
 [[#Barbarian Variants|Barbarian]]  
 [[#Totem Barbarian|Totem Barbarian]]  
-[[#Simple Variant|Simple Variant]]  
+[[#Simple Variant|Simple Variant]]
 
 [[#Bard Variants|Bard]]  
 [[#Bard Variant: Bardic Sage|Bardic Sage]]  
 [[#Divine Bard|Divine Bard]]  
 [[#Savage Bard|Savage Bard]]  
-[[#Simple Variant|Simple Variant]]  
+[[#Simple Variant|Simple Variant]]
 
 [[#Cleric Variants|Cleric]]  
 [[#Cloistered Cleric|Cloistered Cleric]]  
-[[#Simple Variant|Simple Variant]]  
+[[#Simple Variant|Simple Variant]]
 
 [[#Druid Variants|Druid]]  
 [[#Druidic Avenger|Druidic Avenger]]  
-[[#Simple Variant|Simple Variant]]  
+[[#Simple Variant|Simple Variant]]
 
 [[#Fighter Variants|Fighter]]  
 [[#Thug|Thug]]  
-[[#Simple Variant|Simple Variant]]  
+[[#Simple Variant|Simple Variant]]
 
 [[#Monk Variants|Monk]]  
 [[#Fighting Styles|Fighting Styles]]  
-[[#Simple Variant|Simple Variant]]  
+[[#Simple Variant|Simple Variant]]
 
 [[#Paladin Variants|Paladin]]  
 [[#Freedom, Slaughter, and Tyranny|Freedom, Slaughter, and Tyranny]]  
-[[#Simple Variant|Simple Variant]]  
+[[#Simple Variant|Simple Variant]]
 
 [[#Ranger Variants|Ranger]]  
 [[#Planar Ranger|Planar Ranger]]  
 [[#Urban Ranger|Urban Ranger]]  
 [[#Urban Tracking (General)|Feat: Urban Tracking]]  
-[[#Simple Variant|Simple Variant]]  
+[[#Simple Variant|Simple Variant]]
 
 [[#Rogue Variants|Rogue]]  
 [[#Wilderness Rogue|Wilderness Rogue]]  
-[[#Simple Variant|Simple Variant]]  
+[[#Simple Variant|Simple Variant]]
 
 [[#Sorcerer Variants|Sorcerer]]  
 [[#Battle Sorcerer|Battle Sorcerer]]  
-[[#Simple Variant|Simple Variant]]  
+[[#Simple Variant|Simple Variant]]
 
 [[#Wizard Variants|Wizard]]  
 [[#Domain Wizard|Domain Wizard]]  
-[[#Simple Variant|Simple Variant]]  
+[[#Simple Variant|Simple Variant]]
 
 This section presents sixteen variant versions of the standard character classes, along with several additional variants created by swapping one or more class features for features of other classes.
 
@@ -96,7 +96,7 @@ Under no circumstances does spellcasting ability from multiple classes (even var
 
 ##### Simple Variants
 
-These variants simply swap one or more of that class's features for one or more class features of another class. A class feature gained works just as it did for its original class, including the level at which it is gained and any other effects, except as noted below.  
+These variants simply swap one or more of that class's features for one or more class features of another class. A class feature gained works just as it did for its original class, including the level at which it is gained and any other effects, except as noted below.
 
 ### Barbarian Variants
 
@@ -112,50 +112,50 @@ The list of totems discussed here is by no means exhaustive. If you prefer to us
 
 A [[rangoric-srd/classes/Barbarian|barbarian]] dedicated to the ape totem does not gain the standard fast movement, uncanny dodge, trap sense, and improved uncanny dodge barbarian class features, and instead gains the following abilities.
 
-  - At 1st level, an ape-totem barbarian gains a climb speed equal to one-half his base land speed (round down to the nearest 5-foot interval). For instance, a human, elf, half-elf, or half-orc ape-totem barbarian has a climb speed of 15 feet, while a dwarf, gnome, or halfling ape-totem barbarian has a climb speed of 10 feet.
-  - At 2nd level, an ape-totem barbarian gains a +2 bonus on [[rangoric-srd/skills/Intimidation|Intimidation]] checks.
-  - A 3rd level ape-totem barbarian gains [[rangoric-srd/feats/Power Attack|Power Attack]] as a bonus feat.
-  - At 5th level, an ape-totem barbarian's climb speed equals his base land speed.
+- At 1st level, an ape-totem barbarian gains a climb speed equal to one-half his base land speed (round down to the nearest 5-foot interval). For instance, a human, elf, half-elf, or half-orc ape-totem barbarian has a climb speed of 15 feet, while a dwarf, gnome, or halfling ape-totem barbarian has a climb speed of 10 feet.
+- At 2nd level, an ape-totem barbarian gains a +2 bonus on [[rangoric-srd/skills/Intimidation|Intimidation]] checks.
+- A 3rd level ape-totem barbarian gains [[rangoric-srd/feats/Power Attack|Power Attack]] as a bonus feat.
+- At 5th level, an ape-totem barbarian's climb speed equals his base land speed.
 
 ##### Bear Totem Class Features
 
 A [[rangoric-srd/classes/Barbarian|barbarian]] dedicated to the bear totem does not gain the standard fast movement, uncanny dodge, trap sense, and improved uncanny dodge barbarian class features, and instead gains the following abilities.
 
-  - A 1st-level bear-totem barbarian gains [[rangoric-srd/feats/Toughness|Toughness]] as a bonus feat.
-  - At 2nd level, a bear-totem barbarian gains [[rangoric-srd/feats/Improved Grapple|Improved Grapple]] as a bonus feat, even if he doesn't meet the normal prerequisites.
-  - A 3rd-level bear-totem barbarian gains [[rangoric-srd/feats/Great Fortitude|Great Fortitude]] as a bonus feat.
-  - Beginning at 5th level, a bear-totem barbarian gains a +4 bonus on [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks when raging.
+- A 1st-level bear-totem barbarian gains [[rangoric-srd/feats/Toughness|Toughness]] as a bonus feat.
+- At 2nd level, a bear-totem barbarian gains [[rangoric-srd/feats/Improved Grapple|Improved Grapple]] as a bonus feat, even if he doesn't meet the normal prerequisites.
+- A 3rd-level bear-totem barbarian gains [[rangoric-srd/feats/Great Fortitude|Great Fortitude]] as a bonus feat.
+- Beginning at 5th level, a bear-totem barbarian gains a +4 bonus on [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks when raging.
 
 ##### Boar Totem Class Features
 
 A [[rangoric-srd/classes/Barbarian|barbarian]] dedicated to the boar totem does not gain the standard fast movement, uncanny dodge, trap sense, and improved uncanny dodge barbarian class features, and instead gains the following abilities.
 
-  - When raging, a 1st-level boar-totem barbarian is treated as having the [[rangoric-srd/feats/Diehard|Diehard]] feat, even if he doesn't meet the normal prerequisites.
-  - At 3rd level and higher, a boar-totem barbarian's rage lasts for 2 rounds longer than normal.
-  - Beginning at 7th level, a boar-totem barbarian's [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] is 1 point higher than the normal value. Thus, at 7th level, a boar-totem barbarian's damage reduction is 2/-, and it rises by 1 point every three levels thereafter.
+- When raging, a 1st-level boar-totem barbarian is treated as having the [[rangoric-srd/feats/Diehard|Diehard]] feat, even if he doesn't meet the normal prerequisites.
+- At 3rd level and higher, a boar-totem barbarian's rage lasts for 2 rounds longer than normal.
+- Beginning at 7th level, a boar-totem barbarian's [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] is 1 point higher than the normal value. Thus, at 7th level, a boar-totem barbarian's damage reduction is 2/-, and it rises by 1 point every three levels thereafter.
 
 ##### Dragon Totem Class Features
 
 A [[rangoric-srd/classes/Barbarian|barbarian]] dedicated to the dragon totem does not gain the standard fast movement, uncanny dodge, trap sense, and improved uncanny dodge barbarian class features, and instead gains the following abilities.
 
-  - A 1st-level dragon-totem barbarian gains [[rangoric-srd/feats/Blind-Fight|Blind-Fight]] as a bonus feat.
-  - At 2nd level, a dragon-totem barbarian gains a +2 bonus on saves against [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]] and sleep effects.
-  - At 5th level, a dragon-totem barbarian gains the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|frightful presence]] ability. The save DC is equal to 10 + 1/2 barbarian level + barbarian's Cha modifier.
+- A 1st-level dragon-totem barbarian gains [[rangoric-srd/feats/Blind-Fight|Blind-Fight]] as a bonus feat.
+- At 2nd level, a dragon-totem barbarian gains a +2 bonus on saves against [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]] and sleep effects.
+- At 5th level, a dragon-totem barbarian gains the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|frightful presence]] ability. The save DC is equal to 10 + 1/2 barbarian level + barbarian's Cha modifier.
 
 ##### Eagle Totem Class Features
 
 A [[rangoric-srd/classes/Barbarian|barbarian]] dedicated to the eagle totem does not gain the standard fast movement and trap sense barbarian class features, and instead gains the following abilities.
 
-  - At 1st level, an eagle-totem barbarian's keen vision grants him a +2 bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
-  - An eagle-totem barbarian gains [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]] as a bonus feat at 3rd level.
+- At 1st level, an eagle-totem barbarian's keen vision grants him a +2 bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
+- An eagle-totem barbarian gains [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]] as a bonus feat at 3rd level.
 
 ##### Horse Totem Class Features
 
 A [[rangoric-srd/classes/Barbarian|barbarian]] dedicated to the horse totem does not gain the standard uncanny dodge, trap sense, and improved uncanny dodge barbarian class features, and instead gains the following abilities.
 
-  - At 2nd level, a horse-totem barbarian gains [[rangoric-srd/feats/Run|Run]] as a bonus feat.
-  - A 3rd-level horse-totem barbarian gains a +2 bonus on [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks with horses, including riding them.
-  - At 5th level, a horse-totem barbarian gains [[rangoric-srd/feats/Endurance|Endurance]] as a bonus feat.
+- At 2nd level, a horse-totem barbarian gains [[rangoric-srd/feats/Run|Run]] as a bonus feat.
+- A 3rd-level horse-totem barbarian gains a +2 bonus on [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks with horses, including riding them.
+- At 5th level, a horse-totem barbarian gains [[rangoric-srd/feats/Endurance|Endurance]] as a bonus feat.
 
 ##### Jaguar Totem Class Features
 
@@ -165,25 +165,25 @@ A [[rangoric-srd/classes/Barbarian|barbarian]] dedicated to the jaguar totem rep
 
 A [[rangoric-srd/classes/Barbarian|barbarian]] dedicated to the lion totem does not gain the standard fast movement, uncanny dodge, and improved uncanny dodge barbarian class features, and instead gains the following abilities.
 
-  - At 1st level, a lion-totem barbarian gains [[rangoric-srd/feats/Run|Run]] as a bonus feat.
-  - A 2nd-level lion-totem barbarian gains a +2 bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks.
-  - A 5th-level lion-totem barbarian gains a +2 bonus on damage rolls whenever he [[rangoric-srd/combat/Combat Special Attacks#Charge|charges]].
+- At 1st level, a lion-totem barbarian gains [[rangoric-srd/feats/Run|Run]] as a bonus feat.
+- A 2nd-level lion-totem barbarian gains a +2 bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks.
+- A 5th-level lion-totem barbarian gains a +2 bonus on damage rolls whenever he [[rangoric-srd/combat/Combat Special Attacks#Charge|charges]].
 
 ##### Serpent Totem Class Features
 
 A [[rangoric-srd/classes/Barbarian|barbarian]] dedicated to the serpent totem does not gain the standard fast movement, uncanny dodge, trap sense, and improved uncanny dodge barbarian class features, and instead gains the following abilities.
 
-  - At 1st level, a serpent-totem barbarian gains a +2 bonus on Fortitude saves against [[rangoric-srd/rules/Afflictions#Poison|poison]].
-  - A 2nd-level serpent-totem barbarian gains a +2 bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks.
-  - At 3rd level, a serpent-totem barbarian gains [[rangoric-srd/feats/Improved Grapple|Improved Grapple]] as a bonus feat, even if he doesn't meet the normal prerequisites.
-  - A serpent-totem barbarian gains [[rangoric-srd/feats/Improved Initiative|Improved Initiative]] as a bonus feat at 5th level.
+- At 1st level, a serpent-totem barbarian gains a +2 bonus on Fortitude saves against [[rangoric-srd/rules/Afflictions#Poison|poison]].
+- A 2nd-level serpent-totem barbarian gains a +2 bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks.
+- At 3rd level, a serpent-totem barbarian gains [[rangoric-srd/feats/Improved Grapple|Improved Grapple]] as a bonus feat, even if he doesn't meet the normal prerequisites.
+- A serpent-totem barbarian gains [[rangoric-srd/feats/Improved Initiative|Improved Initiative]] as a bonus feat at 5th level.
 
 ##### Wolf Totem Class Features
 
 A barbarian dedicated to the wolf totem does not gain the standard uncanny dodge, trap sense, and improved uncanny dodge barbarian class features, and instead gains the following abilities.
 
-  - A 2nd-level wolf-totem barbarian gains [[rangoric-srd/feats/Improved Trip|Improved Trip]] as a bonus feat, even if he doesn't meet the normal prerequisites.
-  - A 5th-level wolf-totem barbarian gains [[rangoric-srd/feats/Track|Track]] as a bonus feat.
+- A 2nd-level wolf-totem barbarian gains [[rangoric-srd/feats/Improved Trip|Improved Trip]] as a bonus feat, even if he doesn't meet the normal prerequisites.
+- A 5th-level wolf-totem barbarian gains [[rangoric-srd/feats/Track|Track]] as a bonus feat.
 
 #### Simple Variant
 
@@ -367,7 +367,7 @@ In addition to any domains selected from his deity's list, a cloistered cleric a
 
 ###### Spellcasting
 
-Add the following spells to the cloistered cleric's class spell list:  
+Add the following spells to the cloistered cleric's class spell list:
 
 0 - [[rangoric-srd/spells/Message|message]];
 
@@ -501,79 +501,79 @@ A monk can abandon her fighting style by selecting a different bonus feat at 2nd
 
 Monks of the Cobra Strike School specialize in agility and defense. By making herself hard to pin down, the Cobra Strike monk forces the enemy to fight on her terms.
 
-|                          |                                                                                                                     |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------- |
-| 1st-Level Skill Bonus:   | [[rangoric-srd/skills/Escape Artist\|Escape Artist]].                                                             |
-| 1st-Level Feat:          | [[rangoric-srd/feats/Dodge\|Dodge]]                                                                               |
-| 2nd-Level Feat:          | [[rangoric-srd/feats/Mobility\|Mobility]].                                                                        |
-| 6th-Level Feat:          | [[rangoric-srd/feats/Spring Attack\|Spring Attack]].                                                              |
-| 6th-Level Bonus Ability: | The dodge bonus to Armor Class granted by your [[rangoric-srd/feats/Dodge\|Dodge]] feat increases to +2.          |
+|                          |                                                                                                                      |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| 1st-Level Skill Bonus:   | [[rangoric-srd/skills/Escape Artist\|Escape Artist]].                                                                |
+| 1st-Level Feat:          | [[rangoric-srd/feats/Dodge\|Dodge]]                                                                                  |
+| 2nd-Level Feat:          | [[rangoric-srd/feats/Mobility\|Mobility]].                                                                           |
+| 6th-Level Feat:          | [[rangoric-srd/feats/Spring Attack\|Spring Attack]].                                                                 |
+| 6th-Level Bonus Ability: | The dodge bonus to Armor Class granted by your [[rangoric-srd/feats/Dodge\|Dodge]] feat increases to +2.             |
 | Prerequisites:           | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] 1 rank, [[rangoric-srd/skills/Escape Artist\|Escape Artist]] 6 ranks. |
 
 ##### Denying Stance
 
 The Denying Stance monk seeks to neutralize the opponent's maneuvers, thwarting him at every turn until he becomes so frustrated that he makes a crucial error.
 
-|                          |                                                                                                                                                                                                                                                                                          |
-| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st-Level Skill Bonus:   | [[rangoric-srd/skills/Acrobatics\|Acrobatics]].                                                                                                                                                                                                                                                |
-| 1st-Level Feat:          | [[rangoric-srd/feats/Improved Grapple\|Improved Grapple]].                                                                                                                                                                                                                             |
-| 2nd-Level Feat:          | [[rangoric-srd/feats/Combat Reflexes\|Combat Reflexes]].                                                                                                                                                                                                                               |
-| 6th-Level Feat:          | [[rangoric-srd/feats/Improved Disarm\|Improved Disarm]].                                                                                                                                                                                                                               |
+|                          |                                                                                                                                                                                                                                                                      |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st-Level Skill Bonus:   | [[rangoric-srd/skills/Acrobatics\|Acrobatics]].                                                                                                                                                                                                                      |
+| 1st-Level Feat:          | [[rangoric-srd/feats/Improved Grapple\|Improved Grapple]].                                                                                                                                                                                                           |
+| 2nd-Level Feat:          | [[rangoric-srd/feats/Combat Reflexes\|Combat Reflexes]].                                                                                                                                                                                                             |
+| 6th-Level Feat:          | [[rangoric-srd/feats/Improved Disarm\|Improved Disarm]].                                                                                                                                                                                                             |
 | 6th-Level Bonus Ability: | When fighting defensively or using the [[rangoric-srd/feats/Combat Expertise\|Combat Expertise]] feat, you gain a +2 bonus on [[rangoric-srd/combat/Combat Maneuvers#Grapple\|grapple]] checks and [[rangoric-srd/combat/Combat Maneuvers#Disarm\|disarm]] attempts. |
-| Prerequisites:           | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] 6 ranks, [[rangoric-srd/feats/Combat Expertise\|Combat Expertise]].                                                                                                                                                                           |
+| Prerequisites:           | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] 6 ranks, [[rangoric-srd/feats/Combat Expertise\|Combat Expertise]].                                                                                                                                                   |
 
 ##### Hand and Foot
 
 Students of the Hand and Foot style learn to use their appendages for both offense and defense.
 
-|                          |                                                                                                                                                                                                                                                                                                                        |
-| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st-Level Skill Bonus:   | [[rangoric-srd/skills/Acrobatics\|Acrobatics]].                                                                                                                                                                                                                                                                            |
-| 1st-Level Feat:          | [[rangoric-srd/feats/Stunning Fist\|Stunning Fist]].                                                                                                                                                                                                                                                                 |
-| 2nd-Level Feat:          | [[rangoric-srd/feats/Deflect Arrows\|Deflect Arrows]].                                                                                                                                                                                                                                                               |
-| 6th-Level Feat:          | [[rangoric-srd/feats/Improved Trip\|Improved Trip]].                                                                                                                                                                                                                                                                 |
+|                          |                                                                                                                                                                                                                                                                                                                                         |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st-Level Skill Bonus:   | [[rangoric-srd/skills/Acrobatics\|Acrobatics]].                                                                                                                                                                                                                                                                                         |
+| 1st-Level Feat:          | [[rangoric-srd/feats/Stunning Fist\|Stunning Fist]].                                                                                                                                                                                                                                                                                    |
+| 2nd-Level Feat:          | [[rangoric-srd/feats/Deflect Arrows\|Deflect Arrows]].                                                                                                                                                                                                                                                                                  |
+| 6th-Level Feat:          | [[rangoric-srd/feats/Improved Trip\|Improved Trip]].                                                                                                                                                                                                                                                                                    |
 | 6th-Level Bonus Ability: | You gain a +2 bonus on attacks of opportunity made against an opponent attempting to [[rangoric-srd/combat/Combat Maneuvers#Bull Rush\|bull rush]] or [[rangoric-srd/combat/Combat Maneuvers#Trip\|trip]] you, and a +4 bonus to your [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense\|CMD]] against trip and bull rush. |
-| Prerequisites:           | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] 6 ranks.                                                                                                                                                                                                                  |
+| Prerequisites:           | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] 6 ranks.                                                                                                                                                                                                                                                                                 |
 
 ##### Invisible Eye
 
 Monks of the Invisible Eye rely on their senses, particularly hearing, to aid them in combat.
 
-|                          |                                                                                                                                                                                                                                 |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st-Level Skill Bonus:   | [[rangoric-srd/skills/Perception\|Perception]].                                                                                                                                                                                       |
+|                          |                                                                                                                                                                                                                               |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st-Level Skill Bonus:   | [[rangoric-srd/skills/Perception\|Perception]].                                                                                                                                                                               |
 | 1st-Level Feat:          | [[rangoric-srd/feats/Combat Reflexes\|Combat Reflexes]].                                                                                                                                                                      |
 | 2nd-Level Feat:          | [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]].                                                                                                                                                                |
 | 6th-Level Feat:          | [[rangoric-srd/feats/Blind-Fight\|Blind-Fight]].                                                                                                                                                                              |
 | 6th-Level Bonus Ability: | When unarmed and fighting defensively, using [[rangoric-srd/feats/Combat Expertise\|Combat Expertise]], or using the total defense action, increase the dodge bonus to Armor Class that you gain from using that tactic by 1. |
-| Prerequisites:           | [[rangoric-srd/skills/Perception\|Perception]] 6 ranks, [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Acrobatics).                                                                                                                                        |
+| Prerequisites:           | [[rangoric-srd/skills/Perception\|Perception]] 6 ranks, [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Acrobatics).                                                                                                         |
 
 ##### Overwhelming Attack
 
 A monk trained in the Overwhelming Attack style always presses the advantage, preferring a showy display of all-out offense to any form of defense.
 
-|                          |                                                                                                                                                                                                                                                                                                                                                     |
-| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st-Level skill Bonus:   | [[rangoric-srd/skills/Intimidation\|Intimidation]].                                                                                                                                                                                                                                                                                                   |
-| 1st-Level Feat:          | [[rangoric-srd/feats/Power Attack\|Power Attack]].                                                                                                                                                                                                                                                                                                |
-| 2nd-Level Feat:          | [[rangoric-srd/feats/Feats All\|Improved Bull Rush]].                                                                                                                                                                                                                                                                                             |
-| 6th-Level Feat:          | [[rangoric-srd/feats/Improved Overrun\|Improved Overrun]].                                                                                                                                                                                                                                                                                        |
+|                          |                                                                                                                                                                                                                                                                                                                                            |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1st-Level skill Bonus:   | [[rangoric-srd/skills/Intimidation\|Intimidation]].                                                                                                                                                                                                                                                                                        |
+| 1st-Level Feat:          | [[rangoric-srd/feats/Power Attack\|Power Attack]].                                                                                                                                                                                                                                                                                         |
+| 2nd-Level Feat:          | [[rangoric-srd/feats/Feats All\|Improved Bull Rush]].                                                                                                                                                                                                                                                                                      |
+| 6th-Level Feat:          | [[rangoric-srd/feats/Improved Overrun\|Improved Overrun]].                                                                                                                                                                                                                                                                                 |
 | 6th-Level Bonus Ability: | If you have used [[rangoric-srd/skills/Intimidation\|Intimidation]] to demoralize your opponent at any time within the previous 10 rounds, you gain a +4 bonus on combat maneuver checks made to [[rangoric-srd/combat/Combat Maneuvers#Bull Rush\|bull rush]] or [[rangoric-srd/combat/Combat Maneuvers#Overrun\|overrun]] that opponent. |
-| Prerequisites:           | [[rangoric-srd/skills/Intimidation\|Intimidation]] 1 rank, [[rangoric-srd/skills/Performance\|Performance]] (dance) 1 rank.                                                                                                                                                                                                                               |
+| Prerequisites:           | [[rangoric-srd/skills/Intimidation\|Intimidation]] 1 rank, [[rangoric-srd/skills/Performance\|Performance]] (dance) 1 rank.                                                                                                                                                                                                                |
 
 ##### Passive Way
 
 The Passive Way focuses on making your opponent overreach himself or underestimate your skill.
 
-|                          |                                                                                                                                                                           |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st-Level Skill Bonus:   | [[rangoric-srd/skills/Deception\|Deception]].                                                                                                                                   |
-| 1st-Level Feat:          | [[rangoric-srd/feats/Combat Expertise\|Combat Expertise]].                                                                                                              |
-| 2nd-Level Feat:          | [[rangoric-srd/feats/Improved Trip\|Improved Trip]].                                                                                                                    |
-| 6th-Level Feat:          | [[rangoric-srd/feats/Improved Feint\|Improved Feint]].                                                                                                                  |
-| 6th-Level Bonus Ability: | You gain a +4 bonus on combat maneuver checks made to [[rangoric-srd/combat/Combat Maneuvers#Trip\|trip]] an opponent who is denied his Dexterity bonus to Armor Class. |
-| Prerequisites:           | [[rangoric-srd/skills/Deception\|Deception]] 1 rank, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] 1 rank, [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Deception).  |
+|                          |                                                                                                                                                                              |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st-Level Skill Bonus:   | [[rangoric-srd/skills/Deception\|Deception]].                                                                                                                                |
+| 1st-Level Feat:          | [[rangoric-srd/feats/Combat Expertise\|Combat Expertise]].                                                                                                                   |
+| 2nd-Level Feat:          | [[rangoric-srd/feats/Improved Trip\|Improved Trip]].                                                                                                                         |
+| 6th-Level Feat:          | [[rangoric-srd/feats/Improved Feint\|Improved Feint]].                                                                                                                       |
+| 6th-Level Bonus Ability: | You gain a +4 bonus on combat maneuver checks made to [[rangoric-srd/combat/Combat Maneuvers#Trip\|trip]] an opponent who is denied his Dexterity bonus to Armor Class.      |
+| Prerequisites:           | [[rangoric-srd/skills/Deception\|Deception]] 1 rank, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] 1 rank, [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Deception). |
 
 ##### Sleeping Tiger
 
@@ -581,25 +581,25 @@ The Sleeping Tiger style mixes smooth motions with powerful strikes. It favors a
 
 |                          |                                                                                                                                                                                                                                                 |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st-Level Skill Bonus:   | [[rangoric-srd/skills/Stealth\|Stealth]].                                                                                                                                                                                                           |
-| 1st-Level Feat:          | [[rangoric-srd/feats/Weapon Finesse\|Weapon Finesse]].                                                                                                                                                                                        |
-| 2nd-Level Feat:          | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]].                                                                                                                                                                              |
-| 6th-Level Feat:          | [[rangoric-srd/feats/Improved Sunder\|Improved Sunder]].                                                                                                                                                                                      |
+| 1st-Level Skill Bonus:   | [[rangoric-srd/skills/Stealth\|Stealth]].                                                                                                                                                                                                       |
+| 1st-Level Feat:          | [[rangoric-srd/feats/Weapon Finesse\|Weapon Finesse]].                                                                                                                                                                                          |
+| 2nd-Level Feat:          | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]].                                                                                                                                                                                |
+| 6th-Level Feat:          | [[rangoric-srd/feats/Improved Sunder\|Improved Sunder]].                                                                                                                                                                                        |
 | 6th-Level Bonus Ability: | Once per round, when an opponent would be denied his Dexterity bonus to Armor Class, the monk deals an extra 1d6 points of damage with a melee attack made with a light weapon. Any creature immune to sneak attacks is immune to this ability. |
-| Prerequisites:           | [[rangoric-srd/skills/Stealth\|Stealth]] 6 ranks, [[rangoric-srd/feats/Power Attack\|Power Attack]].                                                                                                                                              |
+| Prerequisites:           | [[rangoric-srd/skills/Stealth\|Stealth]] 6 ranks, [[rangoric-srd/feats/Power Attack\|Power Attack]].                                                                                                                                            |
 
 ##### Undying Way
 
 Monks of the Undying Way believe in patience above all else. They work to outlast their opponents by means of superior endurance.
 
-|                          |                                                                                                                                                                       |
-| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st-Level Skill Bonus:   | [[rangoric-srd/skills/Meditation\|Meditation]].                                                                                                               |
+|                          |                                                                                                                                                                     |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st-Level Skill Bonus:   | [[rangoric-srd/skills/Meditation\|Meditation]].                                                                                                                     |
 | 1st-Level Feat:          | [[rangoric-srd/feats/Toughness\|Toughness]].                                                                                                                        |
 | 2nd-Level Feat:          | [[rangoric-srd/feats/Endurance\|Endurance]].                                                                                                                        |
 | 6th-Level Feat:          | [[rangoric-srd/feats/Diehard\|Diehard]].                                                                                                                            |
 | 6th-Level Bonus Ability: | When fighting defensively, using [[rangoric-srd/feats/Combat Expertise\|Combat Expertise]], or using the total defense action, the monk gains damage reduction 2/-. |
-| Prerequisites:           | [[rangoric-srd/skills/Meditation\|Meditation]] 6 ranks.                                                                                                       |
+| Prerequisites:           | [[rangoric-srd/skills/Meditation\|Meditation]] 6 ranks.                                                                                                             |
 
 #### Simple Variant
 
@@ -718,7 +718,7 @@ A paladin of slaughter can inflict disease with her touch (as the [[rangoric-srd
 
 ###### Spellcasting
 
-Replace the standard paladin's spell list with the following spell list:  
+Replace the standard paladin's spell list with the following spell list:
 
 1st - [[rangoric-srd/spells/Bane|bane]], [[rangoric-srd/spells/Cause Fear|cause fear]], corrupt weapon, [[rangoric-srd/spells/Create Water|create water]], [[rangoric-srd/spells/Curse Water|curse water]], [[rangoric-srd/spells/Detect Poison|detect poison]], [[rangoric-srd/spells/Detect Undead|detect undead]], [[rangoric-srd/spells/Divine Favor|divine favor]], [[rangoric-srd/spells/Endure Elements|endure elements]], [[rangoric-srd/spells/Inflict Light Wounds|inflict light wounds]], [[rangoric-srd/spells/Magic Weapon|magic weapon]],  [[rangoric-srd/spells/Protection from Good|protection from good]], [[rangoric-srd/spells/Protection from Law|protection from law]], [[rangoric-srd/spells/Read Magic|read magic]], [[rangoric-srd/spells/Resistance|resistance]], [[rangoric-srd/spells/Virtue|virtue]];
 
@@ -772,7 +772,7 @@ A paladin of tyranny can inflict disease with his touch (as the [[rangoric-srd/
 
 ###### Spellcasting
 
-Replace the paladin's spell list with the following spell list:  
+Replace the paladin's spell list with the following spell list:
 
 1st - [[rangoric-srd/spells/Bane|bane]], corrupt weapon, [[rangoric-srd/spells/Create Water|create water]], [[rangoric-srd/spells/Curse Water|curse water]], [[rangoric-srd/spells/Detect Poison|detect poison]], [[rangoric-srd/spells/Detect Undead|detect undead]], [[rangoric-srd/spells/Divine Favor|divine favor]], [[rangoric-srd/spells/Doom|doom]], [[rangoric-srd/spells/Endure Elements|endure elements]], [[rangoric-srd/spells/Inflict Light Wounds|inflict light wounds]], [[rangoric-srd/spells/Magic Weapon|magic weapon]], [[rangoric-srd/spells/Protection from Chaos|protection from chaos]], [[rangoric-srd/spells/Protection from Good|protection from good]], [[rangoric-srd/spells/Read Magic|read magic]], [[rangoric-srd/spells/Resistance|resistance]], [[rangoric-srd/spells/Virtue|virtue]]; 
 
@@ -890,20 +890,20 @@ An urban ranger can use this ability in any area, whether natural terrain or not
 
 ##### Urban Tracking (General)
 
-| Community Size            | DC | Checks Required |
-| ------------------------- | -- | --------------- |
-| Thorp, hamlet, or village | 5  | 1d3             |
-| Small or large town       | 10 | 1d4+1           |
-| Small or large city       | 15 | 2d4             |
-| Metropolis                | 20 | 2d4+2           |
+| Community Size            | DC  | Checks Required |
+| ------------------------- | --- | --------------- |
+| Thorp, hamlet, or village | 5   | 1d3             |
+| Small or large town       | 10  | 1d4+1           |
+| Small or large city       | 15  | 2d4             |
+| Metropolis                | 20  | 2d4+2           |
 
 | Conditions                                                                        | DC Modifier |
 | --------------------------------------------------------------------------------- | ----------- |
-| Every three creatures in the group being sought                                   | -1         |
-| Every 24 hours party has been missing/sought                                      | +1         |
-| Tracked party "lies low"                                                          | +5         |
-| Tracked party matches community's primary racial demographic                      | +2         |
-| Tracked party does not match community's primary, or secondary racial demographic | -2         |
+| Every three creatures in the group being sought                                   | -1          |
+| Every 24 hours party has been missing/sought                                      | +1          |
+| Tracked party "lies low"                                                          | +5          |
+| Tracked party matches community's primary racial demographic                      | +2          |
+| Tracked party does not match community's primary, or secondary racial demographic | -2          |
 
 You can track down the location of missing persons or wanted individuals within communities.
 
@@ -913,7 +913,7 @@ The DC of the check, and the number of checks required to track down your quarry
 
 If you fail a Persuasion check, you can retry after 1 hour of questioning. The game master should roll the number of checks required secretly, so that the player doesn't know exactly how long the task will require.
 
-**Normal:** A character without this feat can use [[rangoric-srd/skills/Persuasion|Persuasion]] to find out information about a particular individual, but each check takes 1d4+1 hours and doesn't allow effective trailing. **  
+**Normal:** A character without this feat can use [[rangoric-srd/skills/Persuasion|Persuasion]] to find out information about a particular individual, but each check takes 1d4+1 hours and doesn't allow effective trailing. \*\*
 
 You can cut the time between Persuasion checks in half (to 30 minutes per check rather than 1 hour), but you take a -5 penalty on the check.
 

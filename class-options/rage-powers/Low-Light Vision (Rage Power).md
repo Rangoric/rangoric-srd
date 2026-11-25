@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Low-Light Vision
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 The barbarian's senses sharpen and she gains low-light vision while raging.

@@ -28,28 +28,28 @@ tags: [rangoric, rangoric/spell]
 
 # Detect Evil
 
-*Divination*
+_Divination_
 
-  - **Level**: Clr 1, Inq 1, Msl 1, Sha 1, Spi 1
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: 60 ft.
-  - **Area**: Cone-shaped emanation
-  - **Duration**: Concentration, up to 10 min./ level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Clr 1, Inq 1, Msl 1, Sha 1, Spi 1
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: 60 ft.
+- **Area**: Cone-shaped emanation
+- **Duration**: Concentration, up to 10 min./ level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You can sense the presence of evil. The amount of information revealed depends on how long you study a particular area or subject.
 
-*1st Round*: Presence or absence of evil.
+_1st Round_: Presence or absence of evil.
 
-*2nd Round*: Number of evil auras (creatures, objects, or spells) in the area and the power of the most potent evil aura present.
+_2nd Round_: Number of evil auras (creatures, objects, or spells) in the area and the power of the most potent evil aura present.
 
 If you are of good alignment, and the strongest evil aura’s power is overwhelming (see below), and the HD or level of the aura’s source is at least twice your character level, you are [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round and the spell ends.
 
-*3rd Round*: The power and location of each aura. If an aura is outside your line of sight, then you discern its direction but not its exact location.
+_3rd Round_: The power and location of each aura. If an aura is outside your line of sight, then you discern its direction but not its exact location.
 
-*Aura Power*: An evil aura’s power depends on the type of evil creature or object that you’re detecting and its HD, caster level, or (in the case of a cleric) class level; see the accompanying table. If an aura falls into more than one strength category, the spell indicates the stronger of the two.
+_Aura Power_: An evil aura’s power depends on the type of evil creature or object that you’re detecting and its HD, caster level, or (in the case of a cleric) class level; see the accompanying table. If an aura falls into more than one strength category, the spell indicates the stronger of the two.
 
 | Creature/Object                          | ———————— Aura Power ————————: Faint | ———————— Aura Power ————————: Moderate | ———————— Aura Power ————————: Strong | ———————— Aura Power ————————: Overwhelming |
 | ---------------------------------------- | ----------------------------------- | -------------------------------------- | ------------------------------------ | ------------------------------------------ |
@@ -59,11 +59,11 @@ If you are of good alignment, and the strongest evil aura’s power is overwhelm
 | Cleric of an evil deity 2 (class levels) | 1                                   | 2–4                                    | 5–10                                 | 11 or higher                               |
 | Evil magic item or spell (caster level)  | 2nd or lower                        | 3rd–8th                                | 9th–20th                             | 21st or higher                             |
 
-1 *Except for undead and outsiders, which have their own entries on the table.*
+1 _Except for undead and outsiders, which have their own entries on the table._
 
-2 *Some characters who are not clerics may radiate an aura of equivalent power. The class description will indicate whether this applies.*
+2 _Some characters who are not clerics may radiate an aura of equivalent power. The class description will indicate whether this applies._
 
-*Lingering Aura*: An evil aura lingers after its original source dissipates (in the case of a spell) or is destroyed (in the case of a creature or magic item). If detect evil is cast and directed at such a location, the spell indicates an aura strength of dim (even weaker than a faint aura). How long the aura lingers at this dim level depends on its original power:
+_Lingering Aura_: An evil aura lingers after its original source dissipates (in the case of a spell) or is destroyed (in the case of a creature or magic item). If detect evil is cast and directed at such a location, the spell indicates an aura strength of dim (even weaker than a faint aura). How long the aura lingers at this dim level depends on its original power:
 
 | Original Strength | Duration of Lingering Aura |
 | ----------------- | -------------------------- |

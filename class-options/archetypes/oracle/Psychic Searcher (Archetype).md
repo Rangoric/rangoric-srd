@@ -17,11 +17,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Psychic Searcher
 
-*An [[rangoric-srd/classes/Oracle#^oracle-archetypes|oracle]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Oracle#^oracle-archetypes|oracle]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A psychic searcher is devoted to revealing the hidden within the world around her by sensing and communing with residual mental energy, haunts, and fragments of living spirits that can dwell in objects or rooms.
 
-**Bonus Spells**: *[[rangoric-srd/spells/Augury|Augury]]* (4th), *[[rangoric-srd/spells/Locate Object|locate object]]* (6th), *[[rangoric-srd/spells/Divination|divination]]* (8th), *[[rangoric-srd/spells/Find the Path|find the path]]* (12th), *[[rangoric-srd/spells/Discern Location|discern location]]* (16th), *[[rangoric-srd/spells/Foresight|foresight]]* (18th). These bonus spells replace the oracle's normal [[rangoric-srd/classes/Oracle#^oracle-mystery|mystery]] bonus spells at these levels.
+**Bonus Spells**: _[[rangoric-srd/spells/Augury|Augury]]_ (4th), _[[rangoric-srd/spells/Locate Object|locate object]]_ (6th), _[[rangoric-srd/spells/Divination|divination]]_ (8th), _[[rangoric-srd/spells/Find the Path|find the path]]_ (12th), _[[rangoric-srd/spells/Discern Location|discern location]]_ (16th), _[[rangoric-srd/spells/Foresight|foresight]]_ (18th). These bonus spells replace the oracle's normal [[rangoric-srd/classes/Oracle#^oracle-mystery|mystery]] bonus spells at these levels.
 
 **Inspiration (Ex)**: At 2nd level, a psychic searcher gains an [[rangoric-srd/classes/Investigator#^investigator-inspiration|inspiration]] pool, as the [[rangoric-srd/classes/Investigator|investigator]] class feature. A psychic searcher uses her oracle level as her investigator level to determine the effects of this ability. She can use inspiration on [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Arcana|Arcana]], [[rangoric-srd/skills/Society|Society]], [[rangoric-srd/skills/Theology|Theology]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks without spending uses of inspiration, provided she's trained in the skill. A psychic searcher's inspiration pool refreshes each day, usually when she refreshes her spells. A psychic searcher's inspiration pool is based on her Charisma modifier, not her Intelligence modifier. This ability replaces the [[rangoric-srd/classes/Oracle#^oracle-mystery|mystery spell]] gained at 2nd level.
 

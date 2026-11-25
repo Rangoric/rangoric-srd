@@ -35,16 +35,16 @@ tags: [rangoric, rangoric/spell]
 
 # Death Ward
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Alc 4, Clr 4, Death 4, Drd 5, Hun 5, Inq 4, Med 4, Occ 4, Pal 4, Spi 4, Wit 4
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Living creature touched
-  - **Duration**: 1 min./level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Alc 4, Clr 4, Death 4, Drd 5, Hun 5, Inq 4, Med 4, Occ 4, Pal 4, Spi 4, Wit 4
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Living creature touched
+- **Duration**: 1 min./level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 The subject is immune to all death spells, magical death effects, energy drain, and any negative energy effects.
 

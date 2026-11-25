@@ -29,15 +29,15 @@ tags: [rangoric, rangoric/spell]
 
 # Purge Spirit
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Med 2, Occ 2, Psy 3, Sor/Wiz 4, Spi 2, Wit 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Target**: One creature or haunt
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Will partial
-  - **Spell Resistance**: Yes
+- **Level**: Med 2, Occ 2, Psy 3, Sor/Wiz 4, Spi 2, Wit 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Target**: One creature or haunt
+- **Duration**: Instantaneous
+- **Saving Throw**: Will partial
+- **Spell Resistance**: Yes
 
-*Purge spirit* rips away at the target's spiritual substance, scattering it over a wide area and hampering the target's ability to reform. The target takes 1d6 points of damage per caster level (maximum 10d6) and is staggered for 1 round. On a successful saving throw, the target takes half damage and is not staggered. This spell affects astrally projected creatures, ethereal creatures, haunts, incorporeal creatures, [[rangoric-srd/classes/Medium (Class)|mediums]] channeling a [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirit]], and [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-phantom|phantoms]], and at the GM's discretion can affect other spirits or creatures made of ectoplasm. Incorporeal creatures take full damage from *purge spirit*.
+_Purge spirit_ rips away at the target's spiritual substance, scattering it over a wide area and hampering the target's ability to reform. The target takes 1d6 points of damage per caster level (maximum 10d6) and is staggered for 1 round. On a successful saving throw, the target takes half damage and is not staggered. This spell affects astrally projected creatures, ethereal creatures, haunts, incorporeal creatures, [[rangoric-srd/classes/Medium (Class)|mediums]] channeling a [[rangoric-srd/classes/Medium (Class)#^medium-spirit|spirit]], and [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-phantom|phantoms]], and at the GM's discretion can affect other spirits or creatures made of ectoplasm. Incorporeal creatures take full damage from _purge spirit_.

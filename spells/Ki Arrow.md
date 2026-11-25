@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Ki Arrow
 
-*Conjuration*
+_Conjuration_
 
-  - **Level**: Brd 1, Psy 1, Skd 1, Sor/Wiz 1, Wit 1
-  - **Components**: S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: 1 arrow touched
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude (object)
-  - **Spell Resistance**: Yes (object)
+- **Level**: Brd 1, Psy 1, Skd 1, Sor/Wiz 1, Wit 1
+- **Components**: S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: 1 arrow touched
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude (object)
+- **Spell Resistance**: Yes (object)
 
 You imbue an arrow with your power and throw it at a target up to 100 feet away. Make a ranged attack roll. If it hits, the target takes damage from the arrow as if you had hit it with a single unarmed strike (including your Strength bonus).

@@ -26,12 +26,12 @@ One of the few times hard labor exists within FaerieLand is the annual harvest w
 
 **Seasons:** The weather in the Fields of Gold is mild with chill but not freezing winters and warm but not sweltering summers. The springs are not too wet, and the autumns are not too windy.
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* The Daoine Maithe are among the most approachable fey of FaerieLand, and they are known to invite complete strangers to their supper tables and their revels.
+_Common:_ The Daoine Maithe are among the most approachable fey of FaerieLand, and they are known to invite complete strangers to their supper tables and their revels.
 
-*Uncommon:* The Daoine Maithe are closely related to the people of the Fey Hills.
+_Uncommon:_ The Daoine Maithe are closely related to the people of the Fey Hills.
 
-*Rare:* Some residents of the Fields of Gold know the secret to weaving straw into gold, but they only perform the task for worthy folk.
+_Rare:_ Some residents of the Fields of Gold know the secret to weaving straw into gold, but they only perform the task for worthy folk.
 
-*Obscure:* Straw woven into gold is little more than a more complicated and longer lasting casting of *[[rangoric-srd/spells/Fool’s Gold|fool’s gold]]*.
+_Obscure:_ Straw woven into gold is little more than a more complicated and longer lasting casting of _[[rangoric-srd/spells/Fool’s Gold|fool’s gold]]_.

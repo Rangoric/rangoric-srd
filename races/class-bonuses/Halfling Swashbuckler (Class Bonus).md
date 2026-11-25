@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Halfling Swashbuckler
 
-*A [[rangoric-srd/races/Halfling|halfling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Swashbuckler#^swashbuckler-class-bonuses|swashbuckler]] level.*
+_A [[rangoric-srd/races/Halfling|halfling]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Swashbuckler#^swashbuckler-class-bonuses|swashbuckler]] level._
 
 Increase the number of times the swashbuckler can use [[rangoric-srd/classes/Swashbuckler#^swashbuckler-charmed-life|charmed life]] by 1/4.

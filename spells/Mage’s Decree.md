@@ -33,15 +33,15 @@ tags: [rangoric, rangoric/spell]
 
 # Mage’s Decree
 
-*Evocation*
+_Evocation_
 
-  - **Level**: Brd 5, Clr 6, Inq 5, Mes 5, Psy 6, Skd 5, Sor/Wiz 6, Sum 5, SumU 5, Wit 6
-  - **Components**: V, S, F
-  - **Casting Time**: 1 standard action
-  - **Range**: Up to 1 mile/level, see text
-  - **Target**: See text
-  - **Duration**: Instantaneous
-  - **Spell Resistance**: No
+- **Level**: Brd 5, Clr 6, Inq 5, Mes 5, Psy 6, Skd 5, Sor/Wiz 6, Sum 5, SumU 5, Wit 6
+- **Components**: V, S, F
+- **Casting Time**: 1 standard action
+- **Range**: Up to 1 mile/level, see text
+- **Target**: See text
+- **Duration**: Instantaneous
+- **Spell Resistance**: No
 
 You speak a short message (up to 25 words), and it is immediately transmitted to each target, who hear it as clearly as if you were standing next to them. By default, the spell targets every creature with an Intelligence score of 3 or greater that is within the spell’s range, but at your discretion, you can choose to restrict the spell to certain creatures, causing it to either only deliver its message to creatures meeting a certain criteria, or to deliver it to all creatures except those meeting that criteria. The criteria must be something objective and observable. For example, you could cause the mage’s decree to reach only creatures of a certain race. You can’t choose recipients that rely on unobservable information, such as creatures of a certain alignment or of a particular class.
 

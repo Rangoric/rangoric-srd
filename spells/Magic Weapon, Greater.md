@@ -33,19 +33,19 @@ tags: [rangoric, rangoric/spell]
 
 # Magic Weapon, Greater
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Apl 3, Blr 3, Clr 4, Inq 3, Mag 3, Msl 3, Occ 3, Pal 3, Sha 4, Sor/Wiz 3
-  - **Components**: V, S, M/DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One weapon or fifty projectiles (all of which must be in contact with each other at the time of casting)
-  - **Duration**: 1 hour/level
-  - **Saving Throw**: Will negates (harmless, object)
-  - **Spell Resistance**: Yes (harmless, object)
+- **Level**: Apl 3, Blr 3, Clr 4, Inq 3, Mag 3, Msl 3, Occ 3, Pal 3, Sha 4, Sor/Wiz 3
+- **Components**: V, S, M/DF
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One weapon or fifty projectiles (all of which must be in contact with each other at the time of casting)
+- **Duration**: 1 hour/level
+- **Saving Throw**: Will negates (harmless, object)
+- **Spell Resistance**: Yes (harmless, object)
 
 This spell functions like [[rangoric-srd/spells/Magic Weapon|magic weapon]], except that it gives a weapon an enhancement bonus on attack and damage rolls of +1 per four caster levels (maximum +5).
 
 Alternatively, you can affect as many as fifty arrows, bolts, or bullets. The projectiles must be of the same kind, and they have to be together (in the same quiver or other container). Projectiles, but not thrown weapons, lose their transmutation when used. (Treat shuriken as projectiles, rather than as thrown weapons, for the purpose of this spell.)
 
-*Arcane Material Component*: Powdered lime and carbon.
+_Arcane Material Component_: Powdered lime and carbon.

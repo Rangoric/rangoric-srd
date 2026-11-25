@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Shield of Fury
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-vigilante-talent|vigilante talent]] (Ex)._
 
 The vigilante gains [[rangoric-srd/feats/Improved Shield Bash|Improved Shield Bash]] as a bonus feat. If he already has the [[rangoric-srd/feats/Improved Shield Bash|Improved Shield Bash]] feat, he can immediately swap it for another feat for which he qualified at the level he chose Improved Shield Bash.
 

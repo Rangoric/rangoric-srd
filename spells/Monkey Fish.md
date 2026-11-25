@@ -28,13 +28,13 @@ tags: [rangoric, rangoric/spell]
 
 # Monkey Fish
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Alc 1, Drd 1, Hun 1, Mag 1, Psy 1, Sha 1, Sor/Wiz 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 minute/level (D)
+- **Level**: Alc 1, Drd 1, Hun 1, Mag 1, Psy 1, Sha 1, Sor/Wiz 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 minute/level (D)
 
 Your hands and feet alter to make you better at climbing and swimming. You gain a 10 foot climb speed and swim speed. This spell has no effect if you are wearing medium or heavy armor or carrying a medium or heavy load.

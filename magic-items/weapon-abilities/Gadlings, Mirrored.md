@@ -23,4 +23,4 @@ Magical gadlings are quite common amongst those who can afford them. In most tou
 
 **Mirrored Gadlings**: These are highly polished and enchanted gadlings that serve to blind one’s opponent in battle. Once per day, the wearer may invoke their magic, causing a painful burst of light that can be aimed straight at a designated foe, who must make a successful Reflex save (DC 15) or be blinded for 1d4 rounds.
 
-Faint evocation [light]; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Daylight|daylight]]*; Price 10,880 gp; Cost 5,400 gp + 432 XP.
+Faint evocation [light]; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Daylight|daylight]]_; Price 10,880 gp; Cost 5,400 gp + 432 XP.

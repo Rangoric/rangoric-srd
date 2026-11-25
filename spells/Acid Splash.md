@@ -30,15 +30,15 @@ tags: [rangoric, rangoric/spell]
 
 # Acid Splash
 
-*Conjuration (Creation) \[Acid\]*
+_Conjuration (Creation) \[Acid\]_
 
-  - **Level**: Inq 0, Mag 0, Sor/Wiz 0, Sum 0, SumU 0
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Effect**: One missile of acid
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Inq 0, Mag 0, Sor/Wiz 0, Sum 0, SumU 0
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Effect**: One missile of acid
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You fire a small orb of acid at the target. You must succeed on a ranged touch attack to hit your target. The orb deals 1d3 points of acid damage.

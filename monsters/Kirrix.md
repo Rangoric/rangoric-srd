@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Kirrix
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 4d10+12 (34 hp)
-  - **Initiative**: +6
-  - **Speed**: 30 ft. (6 squares), burrow 10 ft., climb 20 ft.
-  - **Armor Class**: 14 (+2 Dex, +3 natural, –1 size), touch 11, flat-footed 12
-  - **Base Attack**: +4; **CMB**: +9; **CMD**: 21 (29 vs. trip)
-  - **Attack**: Bite +7 melee (1d8+6)
-  - **Full Attack**: Bite +7 melee (1d8+6)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Expel Pathogens|Expel pathogens]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 10 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Harbor Pathogens|harbor pathogens]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease
-  - **Saves**: Fort +7, Ref +6, Will +2
-  - **Abilities**: Str 18, Dex 15, Con 17, Int 5, Wis 12, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +3
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any underground
-  - **Organization**: Solitary, pair, or pack (3–6)
-  - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 4d10+12 (34 hp)
+- **Initiative**: +6
+- **Speed**: 30 ft. (6 squares), burrow 10 ft., climb 20 ft.
+- **Armor Class**: 14 (+2 Dex, +3 natural, –1 size), touch 11, flat-footed 12
+- **Base Attack**: +4; **CMB**: +9; **CMD**: 21 (29 vs. trip)
+- **Attack**: Bite +7 melee (1d8+6)
+- **Full Attack**: Bite +7 melee (1d8+6)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Expel Pathogens|Expel pathogens]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 10 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Harbor Pathogens|harbor pathogens]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease
+- **Saves**: Fort +7, Ref +6, Will +2
+- **Abilities**: Str 18, Dex 15, Con 17, Int 5, Wis 12, Cha 8
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +3
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any underground
+- **Organization**: Solitary, pair, or pack (3–6)
+- **Challenge Rating**: 3
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Ratfolk have just as much enthusiasm for alchemy as they do for rodents, and they combined these two interests to create the kirrix—the result of generations of riding rat husbandry combined with regular infusions. These alchemical modifications have given kirrixes six legs and the ability to consume and transmit diseases without ill effect to the creatures themselves.
 

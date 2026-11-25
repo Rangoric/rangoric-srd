@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/magic-item]
 
 When a handful of this coarse, crystalline powder is thrown at a single creature, it circles around that creature and disrupts its ability to attack and see. Using this dust requires a ranged touch attack by its user (with a range increment of 5 feet), but doing so does not provoke [[rangoric-srd/combat/Combat Initiative and Attacks of Opportunity#Attacks of Opportunity|attacks of opportunity]]. On a hit, the target is [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] and cannot make attacks of opportunity or immediate actions for 1 round.
 
-Faint conjuration; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Glitterdust|glitterdust]]*; Price 300 gp; Cost 150 gp.
+Faint conjuration; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Glitterdust|glitterdust]]_; Price 300 gp; Cost 150 gp.

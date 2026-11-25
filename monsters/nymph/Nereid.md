@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Nereid
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]] (Water)
-  - **Hit Dice**: 12d6+84 (126 hp)
-  - **Initiative**: +9
-  - **Speed**: 30 ft. (6 squares), swim 60 ft.
-  - **Armor Class**: 25 (+5 deflection, +9 Dex, +1 dodge), touch 25, flat-footed 15
-  - **Base Attack**: +6; **CMB**: +15; **CMD**: 37
-  - **Attack**: Touch +10 melee (poison) or spray +15 ranged touch (poison)
-  - **Full Attack**: Touch +10 melee (poison); or spray +15 ranged touch (poison)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Drowning Kiss|Drowning kiss]], [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Beguiling Aura|beguiling aura]] (30-ft., DC 23), [[rangoric-srd/monsters/abilities/Transparency|transparency]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (medium water elemental, elemental body II), [[rangoric-srd/monsters/abilities/Unearthly Grace|unearthly grace]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and poison, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21, [[rangoric-srd/monsters/abilities/Shawl|shawl]]
-  - **Saves**: Fort +11, Ref +17, Will +14
-  - **Abilities**: Str 11, Dex 29, Con 24, Int 14, Wis 22, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +23, [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +24, [[rangoric-srd/skills/Nature|Nature]] +17, [[rangoric-srd/skills/Perception|Perception]] +21, Perform (sing) +20, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +24
-  - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (beguiling aura), [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any aquatic
-  - **Organization**: Solitary or troupe (1 nereid plus 1 giant squid, 1 giant octopus, 1 giant moray eel, or an orca)
-  - **Challenge Rating**: 10
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]] (Water)
+- **Hit Dice**: 12d6+84 (126 hp)
+- **Initiative**: +9
+- **Speed**: 30 ft. (6 squares), swim 60 ft.
+- **Armor Class**: 25 (+5 deflection, +9 Dex, +1 dodge), touch 25, flat-footed 15
+- **Base Attack**: +6; **CMB**: +15; **CMD**: 37
+- **Attack**: Touch +10 melee (poison) or spray +15 ranged touch (poison)
+- **Full Attack**: Touch +10 melee (poison); or spray +15 ranged touch (poison)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Drowning Kiss|Drowning kiss]], [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Beguiling Aura|beguiling aura]] (30-ft., DC 23), [[rangoric-srd/monsters/abilities/Transparency|transparency]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (medium water elemental, elemental body II), [[rangoric-srd/monsters/abilities/Unearthly Grace|unearthly grace]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and poison, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21, [[rangoric-srd/monsters/abilities/Shawl|shawl]]
+- **Saves**: Fort +11, Ref +17, Will +14
+- **Abilities**: Str 11, Dex 29, Con 24, Int 14, Wis 22, Cha 21
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +23, [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +24, [[rangoric-srd/skills/Nature|Nature]] +17, [[rangoric-srd/skills/Perception|Perception]] +21, Perform (sing) +20, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +24
+- **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (beguiling aura), [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any aquatic
+- **Organization**: Solitary or troupe (1 nereid plus 1 giant squid, 1 giant octopus, 1 giant moray eel, or an orca)
+- **Challenge Rating**: 10
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Nereids are capricious and often dangerous aquatic fey that appear as strikingly beautiful women, often seen bathing unclothed in the water. Many sailors have met their doom following a nereid, for though a nereid's beauty is otherworldly, her watery kiss is death. Others seek out nereids, for if one can secure control over the creature's shawl, the cloth can be used to force the nereid's compliance. A nereid forced to obey in this manner immediately attempts to slay her master as soon as she can secure her shawl's safety.
 
@@ -69,13 +69,13 @@ Nereids speak Aquan, Common and Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +17): At will—*[[rangoric-srd/spells/Control Water|control water]]*, *[[rangoric-srd/spells/Suggestion|suggestion]]* (DC 18; only against creatures that are currently fascinated by her beguiling aura); 1/day—*[[rangoric-srd/spells/Summon Monster VI|summon monster VI]]* (water elementals only).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +17): At will—_[[rangoric-srd/spells/Control Water|control water]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 18; only against creatures that are currently fascinated by her beguiling aura); 1/day—_[[rangoric-srd/spells/Summon Monster VI|summon monster VI]]_ (water elementals only).
 
 **[[rangoric-srd/monsters/abilities/Beguiling Aura|Beguiling Aura]] (Su)**: Any creature sexually attracted to women runs the risk of being beguiled by a nereid if it looks upon her beauty from a distance of 30 feet or less. If the creature fails a DC 23 Will save, it is immediately [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinated]]. A nereid may use her suggestion spell-like ability at will against creatures that are fascinated by her beguiling aura. This is a mind-affecting compulsion effect. The save DC is Charisma-based.
 
 **[[rangoric-srd/monsters/abilities/Drowning Kiss|Drowning Kiss]] (Su)**: A nereid can flood the lungs of a willing, [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]], or [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinated]] creature by touching it (traditionally by kissing the creature on the lips). If the target cannot breathe water, it cannot hold its breath and immediately begins to drown. On its turn, the target can attempt a DC 23 Fortitude save to cough up this water; otherwise it falls [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] at 0 hp. On the next round, the target must save again or drop to –1 hit points and be dying; on the third round it must save again or die. The save DC is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Nereid Poison|Nereid Poison]]: contact; *save* Fort DC 23; *frequency* 1/round for 6 rounds; *effect* 1d2 Con plus blindness; *cure* 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Nereid Poison|Nereid Poison]]: contact; _save_ Fort DC 23; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con plus blindness; _cure_ 2 consecutive saves.
 
 **[[rangoric-srd/monsters/abilities/Shawl|Shawl]] (Ex)**: A nereid's shawl (hardness 2, hp 6) contains a portion of her life force. If the shawl is ever destroyed, the nereid takes 1d6 points of Constitution drain per hour until she dies. A nereid can craft a new shawl from water by making a DC 25 Will save, but each attempt takes 1d4 hours to complete. Attempts to destroy or steal a nereid's shawl require the sunder or disarm attempts.
 

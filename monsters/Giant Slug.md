@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Giant Slug
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
-  - **Hit Dice**: 12d8+48 (102 hp)
-  - **Initiative**: –4
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 20 (–4 Dex, +16 natural, –2 size), touch 4, flat-footed 20
-  - **Base Attack**: +9; **CMB**: +19; **CMD**: 25 (can't be tripped)
-  - **Attack**: Tongue +15 melee (2d10+12 plus 2d8 acid) or spit acid +3 ranged (10d6 acid)
-  - **Full Attack**: Tongue +15 melee (2d10+12 plus 2d8 acid); or spit acid +3 ranged (10d6 acid)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., malleable, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/slashing or piercing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and mind-affecting effects, [[rangoric-srd/monsters/abilities/Susceptible to Salt|susceptible to salt]]
-  - **Saves**: Fort +12, Ref +0, Will +4
-  - **Abilities**: Str 27, Dex 2, Con 18, Int —, Wis 10, Cha 1
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Temperate and warm marshes and underground
-  - **Organization**: Solitary
-  - **Challenge Rating**: 8
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
+- **Hit Dice**: 12d8+48 (102 hp)
+- **Initiative**: –4
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 20 (–4 Dex, +16 natural, –2 size), touch 4, flat-footed 20
+- **Base Attack**: +9; **CMB**: +19; **CMD**: 25 (can't be tripped)
+- **Attack**: Tongue +15 melee (2d10+12 plus 2d8 acid) or spit acid +3 ranged (10d6 acid)
+- **Full Attack**: Tongue +15 melee (2d10+12 plus 2d8 acid); or spit acid +3 ranged (10d6 acid)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., malleable, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/slashing or piercing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and mind-affecting effects, [[rangoric-srd/monsters/abilities/Susceptible to Salt|susceptible to salt]]
+- **Saves**: Fort +12, Ref +0, Will +4
+- **Abilities**: Str 27, Dex 2, Con 18, Int —, Wis 10, Cha 1
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Temperate and warm marshes and underground
+- **Organization**: Solitary
+- **Challenge Rating**: 8
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 No simple garden pests, giant slugs pose a serious threat to those caught in their path. Folk who dwell near swamps and other regions that support giant slugs risk losing livestock and even their homes to these enormous beasts. Giant slugs constantly wander in search of food, their preference being fleshy organic material, which they slice into smaller, easily gulped chunks with their rasp-like tongues.
 

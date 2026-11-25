@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # War Domain
 
-*A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
+_A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]]._
 
 **Subdomains**: [[rangoric-srd/class-options/domains/Blood Subdomain|Blood]], [[rangoric-srd/class-options/domains/Tactics Subdomain|Tactics]].
 
@@ -31,14 +31,14 @@ You are a crusader for your god, always ready and willing to fight to defend you
 
 ## Domain Spells
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Magic Weapon\|Magic Weapon]] | Weapon gains +1 bonus. |
-| 2nd | [[rangoric-srd/spells/Spiritual Weapon\|Spiritual Weapon]] | Magical weapon attacks on its own. |
-| 3rd | [[rangoric-srd/spells/Magic Vestment\|Magic Vestment]] | Armor or shield gains +1 enhancement per four levels. |
-| 4th | [[rangoric-srd/spells/Divine Power\|Divine Power]] | You gain attack bonus, +6 to Str, and 1 hp/level. |
-| 5th | [[rangoric-srd/spells/Flame Strike\|Flame Strike]] | Smite foes with divine fire (1d6/level damage). |
-| 6th | [[rangoric-srd/spells/Blade Barrier\|Blade Barrier]] | Wall of blades deals 1d6/level damage. |
-| 7th | [[rangoric-srd/spells/Power Word Blind\|Power Word Blind]] | [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|Blinds]] creature with 200 hp or less. |
-| 8th | [[rangoric-srd/spells/Power Word Stun\|Power Word Stun]] | Stuns creature with 150 hp or less. |
-| 9th | [[rangoric-srd/spells/Power Word Kill\|Power Word Kill]] | Kills creature with 100 hp or less. |
+| Level | Spell                                                      | Brief Description                                                                                      |
+| ----- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| 1st   | [[rangoric-srd/spells/Magic Weapon\|Magic Weapon]]         | Weapon gains +1 bonus.                                                                                 |
+| 2nd   | [[rangoric-srd/spells/Spiritual Weapon\|Spiritual Weapon]] | Magical weapon attacks on its own.                                                                     |
+| 3rd   | [[rangoric-srd/spells/Magic Vestment\|Magic Vestment]]     | Armor or shield gains +1 enhancement per four levels.                                                  |
+| 4th   | [[rangoric-srd/spells/Divine Power\|Divine Power]]         | You gain attack bonus, +6 to Str, and 1 hp/level.                                                      |
+| 5th   | [[rangoric-srd/spells/Flame Strike\|Flame Strike]]         | Smite foes with divine fire (1d6/level damage).                                                        |
+| 6th   | [[rangoric-srd/spells/Blade Barrier\|Blade Barrier]]       | Wall of blades deals 1d6/level damage.                                                                 |
+| 7th   | [[rangoric-srd/spells/Power Word Blind\|Power Word Blind]] | [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|Blinds]] creature with 200 hp or less. |
+| 8th   | [[rangoric-srd/spells/Power Word Stun\|Power Word Stun]]   | Stuns creature with 150 hp or less.                                                                    |
+| 9th   | [[rangoric-srd/spells/Power Word Kill\|Power Word Kill]]   | Kills creature with 100 hp or less.                                                                    |

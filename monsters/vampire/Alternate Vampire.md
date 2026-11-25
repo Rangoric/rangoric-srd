@@ -52,28 +52,28 @@ tags: [rangoric, rangoric/monster]
 
 # Alternate Vampire
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Augmented Humanoid)
-  - **Hit Dice**: 8d6+72 (102 hp)
-  - **Initiative**: +8
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 23 (+2 deflection, +4 Dex, +1 dodge, +6 natural), touch 17, flat-footed 18
-  - **Base Attack**: +4; **CMB**: +7; **CMD**: 24
-  - **Attack**: Slam +8 melee (1d4+4 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
-  - **Full Attack**: Slam +8 melee (1d4+4 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^children-of-the-night|children of the night]], [[rangoric-srd/monsters/abilities/Create Spawn|create spawn]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^dominate|dominate]] (DC 22), [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (2 levels, DC 22)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (dire bat or wolf, beast shape II), [[rangoric-srd/monsters/vampire/Alternate Vampire#^gaseous-form|gaseous form]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^shadowless|shadowless]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^spider-climb|spider climb]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic and silver, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10, [[rangoric-srd/monsters/vampire/Alternate Vampire#^weaknesses|vampire weaknesses]]
-  - **Saves**: Fort +13, Ref +11, Will +12
-  - **Abilities**: Str 16, Dex 18, Con —, Int 14, Wis 16, Cha 26
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +13, [[rangoric-srd/skills/Deception|Deception]] +27, [[rangoric-srd/skills/Emulation|Emulation]] +19, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +10
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Extend Spell|Extend Spell]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Silent Spell|Silent Spell]], [[rangoric-srd/feats/Still Spell|Still Spell]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any
-  - **Organization**: Solitary or family (vampire plus 2–8 spawn)
-  - **Challenge Rating**: 9
-  - **Treasure**: NPC gear (cloak of resistance +3, headband of alluring charisma +4, ring of protection +2)
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Augmented Humanoid)
+- **Hit Dice**: 8d6+72 (102 hp)
+- **Initiative**: +8
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 23 (+2 deflection, +4 Dex, +1 dodge, +6 natural), touch 17, flat-footed 18
+- **Base Attack**: +4; **CMB**: +7; **CMD**: 24
+- **Attack**: Slam +8 melee (1d4+4 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
+- **Full Attack**: Slam +8 melee (1d4+4 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^children-of-the-night|children of the night]], [[rangoric-srd/monsters/abilities/Create Spawn|create spawn]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^dominate|dominate]] (DC 22), [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (2 levels, DC 22)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (dire bat or wolf, beast shape II), [[rangoric-srd/monsters/vampire/Alternate Vampire#^gaseous-form|gaseous form]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^shadowless|shadowless]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^spider-climb|spider climb]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic and silver, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10, [[rangoric-srd/monsters/vampire/Alternate Vampire#^weaknesses|vampire weaknesses]]
+- **Saves**: Fort +13, Ref +11, Will +12
+- **Abilities**: Str 16, Dex 18, Con —, Int 14, Wis 16, Cha 26
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +13, [[rangoric-srd/skills/Deception|Deception]] +27, [[rangoric-srd/skills/Emulation|Emulation]] +19, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +10
+- **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Extend Spell|Extend Spell]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Silent Spell|Silent Spell]], [[rangoric-srd/feats/Still Spell|Still Spell]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any
+- **Organization**: Solitary or family (vampire plus 2–8 spawn)
+- **Challenge Rating**: 9
+- **Treasure**: NPC gear (cloak of resistance +3, headband of alluring charisma +4, ring of protection +2)
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The vampire above is a human vampire with 8 levels of [[rangoric-srd/classes/Sorcerer|sorcerer]].
 
@@ -115,19 +115,19 @@ Reducing a vampire's hit points to 0 or lower incapacitates it but doesn't alway
 
 **[[rangoric-srd/monsters/abilities/Create Spawn|Create Spawn]] (Su)**: A vampire can create spawn out of those it slays with blood drain or energy drain, provided that the slain creature is of the same creature type as the vampire's base creature type. The victim rises from death as a vampire in 1d4 days. This vampire is under the command of the vampire that created it, and remains enslaved until its master's destruction. A vampire may have enslaved spawn totaling no more than twice its own Hit Dice; any spawn it creates that would exceed this limit become free-willed undead. A vampire may free an enslaved spawn in order to enslave a new spawn, but once freed, a vampire or vampire spawn cannot be enslaved again.
 
-**Dominate (Su)**: A vampire can crush a humanoid opponent's will as a standard action. Anyone the vampire targets must succeed on a Will save or fall instantly under the vampire's influence, as though by a *[[rangoric-srd/spells/Dominate Person|dominate person]]* spell (caster level 12th). The ability has a range of 30 feet. At the GM's discretion, some vampires might be able to affect different creature types with this power. ^dominate
+**Dominate (Su)**: A vampire can crush a humanoid opponent's will as a standard action. Anyone the vampire targets must succeed on a Will save or fall instantly under the vampire's influence, as though by a _[[rangoric-srd/spells/Dominate Person|dominate person]]_ spell (caster level 12th). The ability has a range of 30 feet. At the GM's discretion, some vampires might be able to affect different creature types with this power. ^dominate
 
 **[[rangoric-srd/monsters/abilities/Energy Drain|Energy Drain]] (Su)**: A creature hit by a vampire's slam (or other natural weapon) gains two negative levels. This ability only triggers once per round, regardless of the number of attacks a vampire makes.
 
 **Special Qualities (Su)**: A vampire gains the following.
 
-**[[rangoric-srd/monsters/abilities/Change Shape|Change Shape]] (Su)**: A vampire can use change shape to assume the form of a dire bat or wolf, as *[[rangoric-srd/spells/Beast Shape II|beast shape II]]*.
+**[[rangoric-srd/monsters/abilities/Change Shape|Change Shape]] (Su)**: A vampire can use change shape to assume the form of a dire bat or wolf, as _[[rangoric-srd/spells/Beast Shape II|beast shape II]]_.
 
-**Gaseous Form (Su)**: As a standard action, a vampire can assume *[[rangoric-srd/spells/Gaseous Form|gaseous form]]* at will (caster level 5th), but it can remain gaseous indefinitely and has a fly speed of 20 feet with perfect maneuverability. ^gaseous-form
+**Gaseous Form (Su)**: As a standard action, a vampire can assume _[[rangoric-srd/spells/Gaseous Form|gaseous form]]_ at will (caster level 5th), but it can remain gaseous indefinitely and has a fly speed of 20 feet with perfect maneuverability. ^gaseous-form
 
 **Shadowless (Ex)**: A vampire casts no shadows and shows no reflection in a mirror. ^shadowless
 
-**Spider Climb (Ex)**: A vampire can climb sheer surfaces as though under the effects of a *[[rangoric-srd/spells/Spider Climb|spider climb]]* spell. ^spider-climb
+**Spider Climb (Ex)**: A vampire can climb sheer surfaces as though under the effects of a _[[rangoric-srd/spells/Spider Climb|spider climb]]_ spell. ^spider-climb
 
 **Ability Scores**: Str +6, Dex +4, Int +2, Wis +2, Cha +4. As an undead creature, a vampire has no Constitution score.
 
@@ -187,4 +187,4 @@ Mortals that vampires use often can take the [[rangoric-srd/monsters/vampire/Add
 
 ### Combat
 
-**Sorcerer spells known** (CL 8th, +8 ranged touch): 4th (5/day)—*[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]*; 3rd (5/day)—*[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, *[[rangoric-srd/spells/Fireball|fireball]]* (DC 21), *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]*; 2nd (8/day)—*[[rangoric-srd/spells/False Life|false life]]*, *[[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Scorching Ray|scorching ray]]*, *[[rangoric-srd/spells/Web|web]]* (DC 20); 1st (8/day)—*[[rangoric-srd/spells/Burning Hands|burning hands]]* (DC 19), *[[rangoric-srd/spells/Chill Touch|chill touch]]* (DC 19), *[[rangoric-srd/spells/Disguise Self|disguise self]]*, *[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]*, *[[rangoric-srd/spells/Mage Armor|mage armor]]*, *[[rangoric-srd/spells/Magic Missile|magic missile]]*; 0—*[[rangoric-srd/spells/Acid Splash|acid splash]]*, *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Light|light]]*, *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Mending|mending]]*, *[[rangoric-srd/spells/Message|message]]*, *[[rangoric-srd/spells/Open-Close|open/close]]*, *[[rangoric-srd/spells/Read Magic|read magic]]*; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Undead Bloodline|undead]].
+**Sorcerer spells known** (CL 8th, +8 ranged touch): 4th (5/day)—_[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]_; 3rd (5/day)—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Fireball|fireball]]_ (DC 21), _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_; 2nd (8/day)—_[[rangoric-srd/spells/False Life|false life]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_, _[[rangoric-srd/spells/Web|web]]_ (DC 20); 1st (8/day)—_[[rangoric-srd/spells/Burning Hands|burning hands]]_ (DC 19), _[[rangoric-srd/spells/Chill Touch|chill touch]]_ (DC 19), _[[rangoric-srd/spells/Disguise Self|disguise self]]_, _[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_; 0—_[[rangoric-srd/spells/Acid Splash|acid splash]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Message|message]]_, _[[rangoric-srd/spells/Open-Close|open/close]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Undead Bloodline|undead]].

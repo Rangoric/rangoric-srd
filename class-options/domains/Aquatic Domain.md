@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Aquatic Domain
 
-*A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]; clerics can’t take it.*
+_A druid domain, which a [[rangoric-srd/classes/Druid|druid]] can take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]]; clerics can’t take it._
 
 ## Granted Powers
 
@@ -26,14 +26,14 @@ You master the deeps of the sea, raging rivers, flowing falls, and relentless ti
 
 ## Domain Spells
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Hydraulic Push\|Hydraulic Push]] | Wave of water bull rushes an enemy. |
-| 2nd | [[rangoric-srd/spells/Slipstream\|Slipstream]] (M) | Wave boosts creature's speed. |
-| 3rd | [[rangoric-srd/spells/Water Breathing\|Water Breathing]] | Subjects can breathe underwater. |
-| 4th | [[rangoric-srd/spells/Freedom of Movement\|Freedom of Movement]] (M) | Subject moves normally despite impediments. |
-| 5th | [[rangoric-srd/spells/Black Tentacles\|Black Tentacles]] (M) | Tentacles grapple all creatures within a 20-ft. spread. |
-| 6th | [[rangoric-srd/spells/Freezing Sphere\|Freezing Sphere]] (F) | Freezes water or deals cold damage. |
-| 7th | [[rangoric-srd/spells/Animal Shapes\|Animal Shapes]] (aquatic creatures only) | One ally/level polymorphs into chosen animal. |
-| 8th | [[rangoric-srd/spells/Seamantle\|Seamantle]] (M) | Sheathes you in protective water. |
-| 9th | [[rangoric-srd/spells/Tsunami\|Tsunami]] | Huge wave damages and sweeps up all in its path. |
+| Level | Spell                                                                         | Brief Description                                       |
+| ----- | ----------------------------------------------------------------------------- | ------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Hydraulic Push\|Hydraulic Push]]                        | Wave of water bull rushes an enemy.                     |
+| 2nd   | [[rangoric-srd/spells/Slipstream\|Slipstream]] (M)                            | Wave boosts creature's speed.                           |
+| 3rd   | [[rangoric-srd/spells/Water Breathing\|Water Breathing]]                      | Subjects can breathe underwater.                        |
+| 4th   | [[rangoric-srd/spells/Freedom of Movement\|Freedom of Movement]] (M)          | Subject moves normally despite impediments.             |
+| 5th   | [[rangoric-srd/spells/Black Tentacles\|Black Tentacles]] (M)                  | Tentacles grapple all creatures within a 20-ft. spread. |
+| 6th   | [[rangoric-srd/spells/Freezing Sphere\|Freezing Sphere]] (F)                  | Freezes water or deals cold damage.                     |
+| 7th   | [[rangoric-srd/spells/Animal Shapes\|Animal Shapes]] (aquatic creatures only) | One ally/level polymorphs into chosen animal.           |
+| 8th   | [[rangoric-srd/spells/Seamantle\|Seamantle]] (M)                              | Sheathes you in protective water.                       |
+| 9th   | [[rangoric-srd/spells/Tsunami\|Tsunami]]                                      | Huge wave damages and sweeps up all in its path.        |

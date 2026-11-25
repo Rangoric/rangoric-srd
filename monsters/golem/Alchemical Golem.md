@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Alchemical Golem
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
-  - **Hit Dice**: 12d10+30 (96 hp)
-  - **Initiative**: +4
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 23 (+4 Dex, +10 natural, –1 size), touch 13, flat-footed 19
-  - **Base Attack**: +12; **CMB**: +21; **CMD**: 35
-  - **Attack**: Slam +19 melee (2d8+8 plus [[rangoric-srd/monsters/abilities/Alchemy|alchemy]]) or bomb +15 ranged (8d6 energy damage)
-  - **Full Attack**: 2 slams +19 melee (2d8+8 plus [[rangoric-srd/monsters/abilities/Alchemy|alchemy]]); or bomb +15 ranged (8d6 energy damage)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Alchemy|Alchemy]], [[rangoric-srd/monsters/abilities/Bombs|bombs]], [[rangoric-srd/monsters/abilities/Splash|splash]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine or bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]]
-  - **Saves**: Fort +4, Ref +8, Will +4
-  - **Abilities**: Str 27, Dex 18, Con —, Int —, Wis 11, Cha 1
-  - **Skills**: —
-  - **Feats**: —
-  - **Environment**: Any
-  - **Organization**: Solitary or gang (2–4)
-  - **Challenge Rating**: 9
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
+- **Hit Dice**: 12d10+30 (96 hp)
+- **Initiative**: +4
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 23 (+4 Dex, +10 natural, –1 size), touch 13, flat-footed 19
+- **Base Attack**: +12; **CMB**: +21; **CMD**: 35
+- **Attack**: Slam +19 melee (2d8+8 plus [[rangoric-srd/monsters/abilities/Alchemy|alchemy]]) or bomb +15 ranged (8d6 energy damage)
+- **Full Attack**: 2 slams +19 melee (2d8+8 plus [[rangoric-srd/monsters/abilities/Alchemy|alchemy]]); or bomb +15 ranged (8d6 energy damage)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Alchemy|Alchemy]], [[rangoric-srd/monsters/abilities/Bombs|bombs]], [[rangoric-srd/monsters/abilities/Splash|splash]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine or bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]]
+- **Saves**: Fort +4, Ref +8, Will +4
+- **Abilities**: Str 27, Dex 18, Con —, Int —, Wis 11, Cha 1
+- **Skills**: —
+- **Feats**: —
+- **Environment**: Any
+- **Organization**: Solitary or gang (2–4)
+- **Challenge Rating**: 9
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 This golem is a walking alchemical nightmare, capable of inflicting all manner of painful wounds on its foes. Its ability to follow orders is granted by the otherwise mindless humanoid brain that floats in its dome-like head, while its animating force is a curious combination of alchemy and elemental spirits bound into the fluids and metals of its body.
 
@@ -76,4 +76,4 @@ This golem is a walking alchemical nightmare, capable of inflicting all manner o
 
 ### Construction
 
-CL 10th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, *[[rangoric-srd/spells/Gentle Repose|gentle repose]]*, *[[rangoric-srd/spells/Major Creation|major creation]]*, *[[rangoric-srd/spells/Resist Energy|resist energy]]*, *[[rangoric-srd/spells/Telekinesis|telekinesis]]*, creator must be caster level 10th; Skill [[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 20; Price 33,000 gp; Cost 18,000 gp.
+CL 10th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Geas-Quest|geas/quest]]_, _[[rangoric-srd/spells/Gentle Repose|gentle repose]]_, _[[rangoric-srd/spells/Major Creation|major creation]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_, _[[rangoric-srd/spells/Telekinesis|telekinesis]]_, creator must be caster level 10th; Skill [[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 20; Price 33,000 gp; Cost 18,000 gp.

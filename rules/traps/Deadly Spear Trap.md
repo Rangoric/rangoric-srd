@@ -20,6 +20,6 @@ A sample trap; how traps work, and what each line means, is in [[rangoric-srd/ru
 - **Type**: mechanical
 - **[[rangoric-srd/skills/Investigation|Investigation]]**: DC 30 to find
 - **[[rangoric-srd/skills/Engineering|Engineering]]**: DC 30 to disable
-- **Trigger**: visual (*[[rangoric-srd/spells/True Seeing|true seeing]]*)
+- **Trigger**: visual (_[[rangoric-srd/spells/True Seeing|true seeing]]_)
 - **Reset**: manual
 - **Effect**: Atk +20 ranged (1d8+6 plus [[rangoric-srd/rules/afflictions/Black Lotus Extract|black lotus extract]])

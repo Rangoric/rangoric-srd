@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Inferno Bomb
 
-*An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]]\*.*
+_An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]]\*._
 
-The effects of the smoke created by an alchemist’s bomb duplicate the effects of *[[rangoric-srd/spells/Incendiary Cloud|incendiary cloud]]* instead of *[[rangoric-srd/spells/Fog Cloud|fog cloud]]*, filling an area equal to twice the bomb’s splash radius for 1 round per level. An alchemist must be at least 16th level and must possess the [[rangoric-srd/class-options/discoveries/Smoke Bomb (Discovery)|smoke bomb]] discovery before selecting this discovery.
+The effects of the smoke created by an alchemist’s bomb duplicate the effects of _[[rangoric-srd/spells/Incendiary Cloud|incendiary cloud]]_ instead of _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_, filling an area equal to twice the bomb’s splash radius for 1 round per level. An alchemist must be at least 16th level and must possess the [[rangoric-srd/class-options/discoveries/Smoke Bomb (Discovery)|smoke bomb]] discovery before selecting this discovery.

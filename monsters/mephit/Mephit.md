@@ -29,13 +29,13 @@ A mephit’s natural weapons are treated as magic weapons for the purpose of ove
 
 **Fast Healing (Ex)**: Mephits heal 2 points of damage each round, provided they are still alive and certain other conditions are met. See the individual descriptions for details.
 
-  - [[rangoric-srd/monsters/mephit/Air Mephit|Air Mephit]]
-  - [[rangoric-srd/monsters/mephit/Dust Mephit|Dust Mephit]]
-  - [[rangoric-srd/monsters/mephit/Earth Mephit|Earth Mephit]]
-  - [[rangoric-srd/monsters/mephit/Fire Mephit|Fire Mephit]]
-  - [[rangoric-srd/monsters/mephit/Ice Mephit|Ice Mephit]]
-  - [[rangoric-srd/monsters/mephit/Magma Mephit|Magma Mephit]]
-  - [[rangoric-srd/monsters/mephit/Ooze Mephit|Ooze Mephit]]
-  - [[rangoric-srd/monsters/mephit/Salt Mephit|Salt Mephit]]
-  - [[rangoric-srd/monsters/mephit/Steam Mephit|Steam Mephit]]
-  - [[rangoric-srd/monsters/mephit/Water Mephit|Water Mephit]]
+- [[rangoric-srd/monsters/mephit/Air Mephit|Air Mephit]]
+- [[rangoric-srd/monsters/mephit/Dust Mephit|Dust Mephit]]
+- [[rangoric-srd/monsters/mephit/Earth Mephit|Earth Mephit]]
+- [[rangoric-srd/monsters/mephit/Fire Mephit|Fire Mephit]]
+- [[rangoric-srd/monsters/mephit/Ice Mephit|Ice Mephit]]
+- [[rangoric-srd/monsters/mephit/Magma Mephit|Magma Mephit]]
+- [[rangoric-srd/monsters/mephit/Ooze Mephit|Ooze Mephit]]
+- [[rangoric-srd/monsters/mephit/Salt Mephit|Salt Mephit]]
+- [[rangoric-srd/monsters/mephit/Steam Mephit|Steam Mephit]]
+- [[rangoric-srd/monsters/mephit/Water Mephit|Water Mephit]]

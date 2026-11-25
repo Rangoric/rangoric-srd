@@ -32,7 +32,7 @@ Clairsentience
 **Duration:** 1 min./level  
 **Saving Throw:** Will negates; see text  
 **Power Resistance:** Yes  
-**Power Points:** 3  
+**Power Points:** 3
 
 You can use another’s psionic or metapsionic feats for yourself. You make a melee touch attack against a target. If successful, you immediately are familiar with the target’s psionic and metapsionic feats, if any, and you can choose a number of these feats to “leech” equal to your Wisdom modifier (minimum one).
 

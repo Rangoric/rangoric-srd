@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Daring Champion
 
-*A [[rangoric-srd/classes/Cavalier#^cavalier-archetypes|cavalier]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Cavalier#^cavalier-archetypes|cavalier]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 While many cavaliers are the champions of old fighting forms, some younger, more daring cavaliers mix a martial style influenced by the lighter armored and more flamboyant [[rangoric-srd/classes/Swashbuckler|swashbuckler]] forms with the dedication of cavalier orders.
 

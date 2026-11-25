@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Spirit Summoner
 
-*A [[rangoric-srd/classes/Summoner#^summoner-archetypes|summoner]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Summoner#^summoner-archetypes|summoner]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 A spirit summoner is an arcane spellcaster whose eidolon is a manifestation of a shamanic spirit. The bond connecting the summoner and this spirit might be friendly, as a member of a tribe giving flesh to his protector spirit, or hostile, as an outlander or rival compelling service from an unwilling spirit. The summoner can draw upon the divine power of this spirit, but is not constrained by the spirit's morals or ethics.
 
@@ -31,9 +31,9 @@ At 9th level, the summoner gains the abilities listed in the greater version of 
 
 At 17th level, the summoner gains the abilities listed for the true version of his selected spirit.
 
-This ability replaces *[[rangoric-srd/classes/Summoner#^summoner-summon-monster|summon monster]]*.
+This ability replaces _[[rangoric-srd/classes/Summoner#^summoner-summon-monster|summon monster]]_.
 
-**Eidolon**: At 1st level, a spirit summoner begins play with a powerful outsider called an eidolon. The eidolon's form and abilities must be appropriate to his chosen spirit, at the GM's discretion—for example, a summoner with the [[rangoric-srd/class-options/spirits/Flame Spirit|flame spirit]] cannot have an eidolon with ice or water abilities, a summoner with a [[rangoric-srd/class-options/spirits/Heavens Spirit|heavens spirit]] cannot have a fiend-like eidolon, and so on. The summoner can use temporary effects (such as *[[rangoric-srd/spells/Evolution Surge|evolution surge]]*) to alter the eidolon into an inappropriate form, but cannot use permanent effects (such as *[[rangoric-srd/spells/Transmogrify|transmogrify]]*) to do so. This ability alters the [[rangoric-srd/classes/Summoner#^summoner-eidolon|eidolon]] class feature.
+**Eidolon**: At 1st level, a spirit summoner begins play with a powerful outsider called an eidolon. The eidolon's form and abilities must be appropriate to his chosen spirit, at the GM's discretion—for example, a summoner with the [[rangoric-srd/class-options/spirits/Flame Spirit|flame spirit]] cannot have an eidolon with ice or water abilities, a summoner with a [[rangoric-srd/class-options/spirits/Heavens Spirit|heavens spirit]] cannot have a fiend-like eidolon, and so on. The summoner can use temporary effects (such as _[[rangoric-srd/spells/Evolution Surge|evolution surge]]_) to alter the eidolon into an inappropriate form, but cannot use permanent effects (such as _[[rangoric-srd/spells/Transmogrify|transmogrify]]_) to do so. This ability alters the [[rangoric-srd/classes/Summoner#^summoner-eidolon|eidolon]] class feature.
 
 **Hex**: At 6th level, a spirit summoner can select a [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] that is appropriate to his spirit, chosen from the general list of shaman hexes or the specific hexes allowed by his spirit. This otherwise functions as a shaman's hex, and uses his summoner level as his shaman level. Like a shaman, a spirit summoner uses his Wisdom modifier to determine hex DCs.
 

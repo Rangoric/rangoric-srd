@@ -21,4 +21,4 @@ Your deity rewards you for your faithfulness.
 
 **Special**: You can take this feat twice. When you take it a second time, you choose another domain granted by your deity.
 
-If you grossly violate the code of conduct required by your deity, your alignment shifts so that it is more than one step away from your deity’s, or you no longer worship your deity, you lose access to this feat. You can regain it once you atone for your misdeeds to your deity (see the *[[rangoric-srd/spells/Atonement|atonement]]* spell).
+If you grossly violate the code of conduct required by your deity, your alignment shifts so that it is more than one step away from your deity’s, or you no longer worship your deity, you lose access to this feat. You can regain it once you atone for your misdeeds to your deity (see the _[[rangoric-srd/spells/Atonement|atonement]]_ spell).

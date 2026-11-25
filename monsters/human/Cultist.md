@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Cultist
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 3d8+3 (16 hp)
-  - **Initiative**: +1
-  - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 18 (+6 armor, +1 Dex, +1 shield), touch 11, flat-footed 17
-  - **Base Attack**: +2; **CMB**: +2; **CMD**: 13
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Sickle|sickle]] +3 melee (1d6) or [[rangoric-srd/equipment/weapons/Dart|dart]] +3 ranged (1d4)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Sickle|sickle]] +3 melee (1d6); or [[rangoric-srd/equipment/weapons/Dart|dart]] +3 ranged (1d4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 6/day (DC 14, 2d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]]
-  - **Special Qualities**: —
-  - **Saves**: Fort +4, Ref +2, Will +5
-  - **Abilities**: Str 10, Dex 13, Con 12, Int 8, Wis 15, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +3, [[rangoric-srd/skills/Linguistics|Linguistics]] +4, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Theology|Theology]] +4
-  - **Feats**: [[rangoric-srd/feats/Alignment Channel|Alignment Channel]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Selective Channeling|Selective Channeling]]
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 2
-  - **Treasure**: NPC gear (combat gear: bloodroot poison (1 dose), vials of unholy water (2); other gear: chainmail, light steel shield, darts (4), masterwork sickle, silver unholy symbol)
-  - **Alignment**: Neutral evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 3d8+3 (16 hp)
+- **Initiative**: +1
+- **Speed**: 20 ft. (4 squares)
+- **Armor Class**: 18 (+6 armor, +1 Dex, +1 shield), touch 11, flat-footed 17
+- **Base Attack**: +2; **CMB**: +2; **CMD**: 13
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Sickle|sickle]] +3 melee (1d6) or [[rangoric-srd/equipment/weapons/Dart|dart]] +3 ranged (1d4)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Sickle|sickle]] +3 melee (1d6); or [[rangoric-srd/equipment/weapons/Dart|dart]] +3 ranged (1d4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 6/day (DC 14, 2d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]]
+- **Special Qualities**: —
+- **Saves**: Fort +4, Ref +2, Will +5
+- **Abilities**: Str 10, Dex 13, Con 12, Int 8, Wis 15, Cha 16
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +3, [[rangoric-srd/skills/Linguistics|Linguistics]] +4, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Theology|Theology]] +4
+- **Feats**: [[rangoric-srd/feats/Alignment Channel|Alignment Channel]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Selective Channeling|Selective Channeling]]
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 2
+- **Treasure**: NPC gear (combat gear: bloodroot poison (1 dose), vials of unholy water (2); other gear: chainmail, light steel shield, darts (4), masterwork sickle, silver unholy symbol)
+- **Alignment**: Neutral evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A cultist is a [[rangoric-srd/monsters/human/Human|human]] with 3 levels of [[rangoric-srd/classes/Cleric|cleric]]. Cultists are members of secret societies, meeting hooded and masked in dark masses and unspeakable, blasphemous rites. They gather the lay cult members and lead them in their maledictions, channeling for them the shadowed powers of the nether planes.
 
@@ -72,4 +72,4 @@ A cultist speaks Abyssal, Common, and Infernal.
 
 ### Combat
 
-**Cleric spells prepared** (CL 3rd; concentration +5): 2nd—*[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]*D, *[[rangoric-srd/spells/Death Knell|death knell]]*(DC 14), *[[rangoric-srd/spells/Hold Person|hold person]]*(DC 14); 1st—*[[rangoric-srd/spells/Bane|bane]]*(DC13), *[[rangoric-srd/spells/Cause Fear|cause fear]]*(DC 13), *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*D, *[[rangoric-srd/spells/Doom|doom]]* (DC 13); 0 (at will)—*[[rangoric-srd/spells/Bleed|bleed]]*(DC 12), *[[rangoric-srd/spells/Guidance|guidance]]*, *[[rangoric-srd/spells/Light|light]]*, *[[rangoric-srd/spells/Resistance|resistance]]*; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Evil Domain|Evil]], [[rangoric-srd/class-options/domains/Healing Domain|Healing]].
+**Cleric spells prepared** (CL 3rd; concentration +5): 2nd—*[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]*D, _[[rangoric-srd/spells/Death Knell|death knell]]_(DC 14), _[[rangoric-srd/spells/Hold Person|hold person]]_(DC 14); 1st—_[[rangoric-srd/spells/Bane|bane]]_(DC13), _[[rangoric-srd/spells/Cause Fear|cause fear]]_(DC 13), *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*D, _[[rangoric-srd/spells/Doom|doom]]_ (DC 13); 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_(DC 12), _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Resistance|resistance]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Evil Domain|Evil]], [[rangoric-srd/class-options/domains/Healing Domain|Healing]].

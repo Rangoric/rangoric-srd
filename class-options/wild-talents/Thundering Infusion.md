@@ -18,13 +18,13 @@ tags: [rangoric, rangoric/class-option]
 
 # Thundering Infusion
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|substance infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|substance infusion wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Air Element|air]]
-  - **Type**: substance infusion
-  - **Level**: 1
-  - **Burn**: 1
-  - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Electric Blast|electric]], [[rangoric-srd/class-options/wild-talents/Thunderstorm Blast|thunderstorm]]
-  - **Saving Throw**: Fortitude negates
+- **Element**: [[rangoric-srd/class-options/elements/Air Element|air]]
+- **Type**: substance infusion
+- **Level**: 1
+- **Burn**: 1
+- **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Electric Blast|electric]], [[rangoric-srd/class-options/wild-talents/Thunderstorm Blast|thunderstorm]]
+- **Saving Throw**: Fortitude negates
 
 Your lightning brings with it a peal of thunder. Whenever your infused blast hits a foe and penetrates [[rangoric-srd/rules/Special Abilities and Conditions#Spell Resistance|spell resistance]], that foe becomes [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]], even if the blast doesn’t deal damage.

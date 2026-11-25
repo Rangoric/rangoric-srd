@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat]
 
 # Antipsionic Magic
 
-Your spells are more potent when used against psionic characters and creatures.  
+Your spells are more potent when used against psionic characters and creatures.
 
 Prerequisite: [[rangoric-srd/skills/Mysticism|Mysticism]] 2 ranks.
 

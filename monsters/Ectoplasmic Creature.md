@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Ectoplasmic Creature
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 1d8+3 (7 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares); air walk
-  - **Armor Class**: 12 (+2 natural), touch 10, flat-footed 12
-  - **Base Attack**: +0; **CMB**: +3; **CMD**: 13
-  - **Attack**: Slam +3 melee (1d4+3 plus horrifying ooze)
-  - **Full Attack**: Slam +3 melee (1d4+3 plus horrifying ooze)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Ectoplasmic Creature#^horrifying-ooze|Horrifying ooze]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/Ectoplasmic Creature#^phase-lurch|phase lurch]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-  - **Saves**: Fort +0, Ref +0, Will +2
-  - **Abilities**: Str 16, Dex 11, Con —, Int —, Wis 10, Cha 12
-  - **Skills**: —
-  - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, or haunt (3–6)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
+- **Hit Dice**: 1d8+3 (7 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares); air walk
+- **Armor Class**: 12 (+2 natural), touch 10, flat-footed 12
+- **Base Attack**: +0; **CMB**: +3; **CMD**: 13
+- **Attack**: Slam +3 melee (1d4+3 plus horrifying ooze)
+- **Full Attack**: Slam +3 melee (1d4+3 plus horrifying ooze)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/Ectoplasmic Creature#^horrifying-ooze|Horrifying ooze]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/Ectoplasmic Creature#^phase-lurch|phase lurch]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
+- **Saves**: Fort +0, Ref +0, Will +2
+- **Abilities**: Str 16, Dex 11, Con —, Int —, Wis 10, Cha 12
+- **Skills**: —
+- **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Any
+- **Organization**: Solitary, pair, or haunt (3–6)
+- **Challenge Rating**: 1/2
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The ectoplasmic creature above is an ectoplasmic human.
 
@@ -97,7 +97,7 @@ Though these entities rarely coordinate complicated actions with others of their
 **Armor Class**: The creature's natural armor bonus changes as follows:
 
 | Ectoplasm Size  | Natural Armor Bonus |
-|-----------------|---------------------|
+| --------------- | ------------------- |
 | Tiny or smaller | +0                  |
 | Small           | +1                  |
 | Medium          | +2                  |
@@ -112,7 +112,7 @@ Though these entities rarely coordinate complicated actions with others of their
 
 **Defensive Abilities**: An ectoplasmic creature loses the base creature's defensive abilities, and gains DR 5/ slashing as well as all of the standard immunities and traits possessed by undead creatures.
 
-**Speed**: Winged ectoplasmic creatures can still fly, but their maneuverability drops to poor if it was initially any better. If the base creature flew magically, so can the ectoplasmic creature. Retain all other movement types. An ectoplasmic creature gains the ability to traverse the air (as the *[[rangoric-srd/spells/Air Walk|air walk]]* spell) as a constant effect.
+**Speed**: Winged ectoplasmic creatures can still fly, but their maneuverability drops to poor if it was initially any better. If the base creature flew magically, so can the ectoplasmic creature. Retain all other movement types. An ectoplasmic creature gains the ability to traverse the air (as the _[[rangoric-srd/spells/Air Walk|air walk]]_ spell) as a constant effect.
 
 **Attacks**: An ectoplasmic creature retains all natural weapons of the base creature. It gains a slam attack that deals damage based on the ectoplasmic creature's size.
 
@@ -132,7 +132,7 @@ Though these entities rarely coordinate complicated actions with others of their
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st; concentration +1): Constant—*[[rangoric-srd/spells/Air Walk|air walk]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st; concentration +1): Constant—_[[rangoric-srd/spells/Air Walk|air walk]]_.
 
 **Horrifying Ooze (Su)**: Any creature struck by an ectoplasmic creature's slam attack must succeed at a DC 11 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1d4 rounds. The save DC is Charisma-based.
 

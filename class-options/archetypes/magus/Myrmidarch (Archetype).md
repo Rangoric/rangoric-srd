@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Myrmidarch
 
-*A [[rangoric-srd/classes/Magus#^magus-archetypes|magus]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Magus#^magus-archetypes|magus]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 The myrmidarch is a skilled specialist, using magic to supplement and augment his martial mastery. Less inclined to mix the two than a typical magus, the myrmidarch seeks supremacy with blade, bow, and armor.
 

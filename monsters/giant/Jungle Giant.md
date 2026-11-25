@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Jungle Giant
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
-  - **Hit Dice**: 15d8+60 (127 hp)
-  - **Initiative**: +4
-  - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 24 (+4 deflection, +4 Dex, +8 natural, –2 size), touch 16, flat-footed 20
-  - **Base Attack**: +11; **CMB**: +21; **CMD**: 39
-  - **Attack**: Slam +17 melee (2d6+8) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +15 ranged (3d6+8/19–20/×3)
-  - **Full Attack**: 2 slams +17 melee (2d6+8); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +15/+10/+5 ranged (3d6+8/19–20/×3)
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Spell Storing|spell storing]], [[rangoric-srd/monsters/abilities/Warding Tattoos|warding tattoos]], [[rangoric-srd/monsters/abilities/Archery Expert|archery expert]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and poison
-  - **Saves**: Fort +9, Ref +13, Will +7
-  - **Abilities**: Str 26, Dex 19, Con 19, Int 10, Wis 14, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Craft|Craft]] (bows) +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +12 (+20 in forests)
-  - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (longbow), [[rangoric-srd/feats/Improved Precise Shot|Improved Precise Shot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longbow)
-  - **Environment**: Warm forests
-  - **Organization**: Solitary, hunting party (2–9 plus 1–3 girallons), or tribe (10–40, plus 35% noncombatants, 1–3 druids or sorcerers of 2nd–5th level, 1 ranger or barbarian of 3rd–7th level, and 2–8 girallons)
-  - **Challenge Rating**: 10
-  - **Treasure**: Standard (masterwork composite longbow [+8 Str] with 40 arrows, other treasure)
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
+- **Hit Dice**: 15d8+60 (127 hp)
+- **Initiative**: +4
+- **Speed**: 40 ft. (8 squares)
+- **Armor Class**: 24 (+4 deflection, +4 Dex, +8 natural, –2 size), touch 16, flat-footed 20
+- **Base Attack**: +11; **CMB**: +21; **CMD**: 39
+- **Attack**: Slam +17 melee (2d6+8) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +15 ranged (3d6+8/19–20/×3)
+- **Full Attack**: 2 slams +17 melee (2d6+8); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +15/+10/+5 ranged (3d6+8/19–20/×3)
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Spell Storing|spell storing]], [[rangoric-srd/monsters/abilities/Warding Tattoos|warding tattoos]], [[rangoric-srd/monsters/abilities/Archery Expert|archery expert]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and poison
+- **Saves**: Fort +9, Ref +13, Will +7
+- **Abilities**: Str 26, Dex 19, Con 19, Int 10, Wis 14, Cha 11
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Craft|Craft]] (bows) +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +12 (+20 in forests)
+- **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (longbow), [[rangoric-srd/feats/Improved Precise Shot|Improved Precise Shot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longbow)
+- **Environment**: Warm forests
+- **Organization**: Solitary, hunting party (2–9 plus 1–3 girallons), or tribe (10–40, plus 35% noncombatants, 1–3 druids or sorcerers of 2nd–5th level, 1 ranger or barbarian of 3rd–7th level, and 2–8 girallons)
+- **Challenge Rating**: 10
+- **Treasure**: Standard (masterwork composite longbow [+8 Str] with 40 arrows, other treasure)
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Reclusive by nature, jungle giants lair deep within the rainforest. These giants distrust the ways of civilization and resent trespassers. More than one vine-covered lost city in the deep jungle owes its fall to jungle giant ire. The [[rangoric-srd/classes/Warrior|warrior]]-women of these tribes usually fight with bows, sacred weapons often passed down over generations from mother to daughter. To touch a jungle giant's bow without permission is a mortal insult.
 

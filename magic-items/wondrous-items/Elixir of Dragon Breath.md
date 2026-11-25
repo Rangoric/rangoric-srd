@@ -34,4 +34,4 @@ This gurgling, luminescent elixir comes in several different varieties, each key
 
 **Silver or white dragon**: 15-foot cone of cold.
 
-Moderate evocation; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Dragon’s Breath|dragon's breath]]*; Price 1,400 gp; Cost 700 gp.
+Moderate evocation; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Dragon’s Breath|dragon's breath]]_; Price 1,400 gp; Cost 700 gp.

@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Slippers of Cloudwalking
 
-The wearer of these slippers may walk on air (as the spell *air walk)* for up to 10 minutes per day, which may be used in 1-minute increments and requires no action to activate. However, she may only walk on air within or on top of natural or magical mist or fog, including fog-like gases such as those created by *acid fog, cloudkill, incendiary cloud*, or *[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]*. Walking on top of such clouds carries no danger for the wearer, but walking through the cloud has its normal effect.
+The wearer of these slippers may walk on air (as the spell _air walk)_ for up to 10 minutes per day, which may be used in 1-minute increments and requires no action to activate. However, she may only walk on air within or on top of natural or magical mist or fog, including fog-like gases such as those created by _acid fog, cloudkill, incendiary cloud_, or _[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_. Walking on top of such clouds carries no danger for the wearer, but walking through the cloud has its normal effect.
 
-Moderate transmutation; CL 11th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Wind Walk|wind walk]]*; Price 4,400 gp; Cost 2,200 gp; Weight 1 lb.
+Moderate transmutation; CL 11th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Wind Walk|wind walk]]_; Price 4,400 gp; Cost 2,200 gp; Weight 1 lb.

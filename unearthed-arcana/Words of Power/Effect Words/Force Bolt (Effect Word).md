@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/word-of-power]
 
 # Force Bolt
 
-*One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Force Words|Force group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]].*
+_One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Force Words|Force group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]]._
 
 **School** evocation \[force\]
 
@@ -29,4 +29,4 @@ tags: [rangoric, rangoric/word-of-power]
 
 **Target Restrictions** selected
 
-This effect word deals 1d4 points of force damage per caster level (maximum 5d4). This effect is treated like a *[[rangoric-srd/spells/Magic Missile|magic missile]]* for the purposes of spells that negate or absorb force effects.
+This effect word deals 1d4 points of force damage per caster level (maximum 5d4). This effect is treated like a _[[rangoric-srd/spells/Magic Missile|magic missile]]_ for the purposes of spells that negate or absorb force effects.

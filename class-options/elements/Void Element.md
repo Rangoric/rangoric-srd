@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Void Element
 
-*An [[rangoric-srd/class-options/elements/Elements|element]] a [[rangoric-srd/classes/Kineticist|kineticist]] can choose with [[rangoric-srd/classes/Kineticist#^kineticist-elemental-focus|elemental focus]] or [[rangoric-srd/classes/Kineticist#^kineticist-expanded-element|expanded element]].*
+_An [[rangoric-srd/class-options/elements/Elements|element]] a [[rangoric-srd/classes/Kineticist|kineticist]] can choose with [[rangoric-srd/classes/Kineticist#^kineticist-elemental-focus|elemental focus]] or [[rangoric-srd/classes/Kineticist#^kineticist-expanded-element|expanded element]]._
 
 Like [[rangoric-srd/class-options/elements/Aether Element|aether]], void forms where elemental energy meets another material, in this case the substance of the [[rangoric-srd/rules/Planes#Negative Energy Plane|Negative Energy Plane]]. Chaokineticists command this strange force in a way that in some respects resembles the manipulation of aether.
 

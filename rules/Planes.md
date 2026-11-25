@@ -15,6 +15,7 @@ pi-review: 2026-11-24
 tags: [rangoric, rangoric/overview]
 book: "Game Mastery Guide"
 ---
+
 ## Planes
 
 ##### What Is a Plane?
@@ -53,23 +54,23 @@ The two most important natural laws set by physical traits are how gravity works
 
 **Gravity**: The direction of gravity’s pull may be unusual, and it might even change directions within the plane itself.
 
-*Normal Gravity*: Most planes have gravity similar to that of the Material Plane. The usual rules for ability scores, carrying capacity, and encumbrance apply. Unless otherwise noted in a description, it is assumed every plane has the normal gravity trait.
+_Normal Gravity_: Most planes have gravity similar to that of the Material Plane. The usual rules for ability scores, carrying capacity, and encumbrance apply. Unless otherwise noted in a description, it is assumed every plane has the normal gravity trait.
 
-*Heavy Gravity*: The gravity on a plane with this trait is much more intense than on the Material Plane. As a result, [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]], and [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks incur a –2 circumstance penalty, as do all attack rolls. All item weights are effectively doubled, which might affect a character’s speed. Weapon ranges are halved. A character’s Strength and Dexterity scores are not affected.
+_Heavy Gravity_: The gravity on a plane with this trait is much more intense than on the Material Plane. As a result, [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]], and [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks incur a –2 circumstance penalty, as do all attack rolls. All item weights are effectively doubled, which might affect a character’s speed. Weapon ranges are halved. A character’s Strength and Dexterity scores are not affected.
 
 Characters who fall on a heavy gravity plane take 1d10 points of damage for each 10 feet fallen, to a maximum of 20d10 points of damage.
 
-*Light Gravity*: The gravity on a plane with this trait is less intense than on the Material Plane. As a result, creatures find that they can lift more, but their movements tend to be ungainly. Characters on a plane with the light gravity trait take a –2 circumstance penalty on attack rolls and Acrobatics, Animal Handling, and Athletics checks. All items weigh half as much. Weapon ranges double, and characters gain a +2 circumstance bonus on Athletics checks. Strength and Dexterity don’t change as a result of light gravity, but what you can do with such scores does change. These advantages apply to travelers from other planes as well as natives.
+_Light Gravity_: The gravity on a plane with this trait is less intense than on the Material Plane. As a result, creatures find that they can lift more, but their movements tend to be ungainly. Characters on a plane with the light gravity trait take a –2 circumstance penalty on attack rolls and Acrobatics, Animal Handling, and Athletics checks. All items weigh half as much. Weapon ranges double, and characters gain a +2 circumstance bonus on Athletics checks. Strength and Dexterity don’t change as a result of light gravity, but what you can do with such scores does change. These advantages apply to travelers from other planes as well as natives.
 
 Falling characters on a light gravity plane take 1d4 points of damage for each 10 feet of the fall (maximum 20d4).
 
-*No Gravity*: Individuals on a plane with this trait merely float in space, unless other resources are available to provide a direction for gravity’s pull.
+_No Gravity_: Individuals on a plane with this trait merely float in space, unless other resources are available to provide a direction for gravity’s pull.
 
-*Objective Directional Gravity*: The strength of gravity on a plane with this trait is the same as on the Material Plane, but the direction is not the traditional “down” toward the ground. It may be down toward any solid object, at an angle to the surface of the plane itself, or even upward.
+_Objective Directional Gravity_: The strength of gravity on a plane with this trait is the same as on the Material Plane, but the direction is not the traditional “down” toward the ground. It may be down toward any solid object, at an angle to the surface of the plane itself, or even upward.
 
 In addition, objective directional gravity may change from place to place. The direction of “down” may vary.
 
-*Subjective Directional Gravity*: The strength of gravity on a plane with this trait is the same as on the Material Plane, but each individual chooses the direction of gravity’s pull. Such a plane has no gravity for unattended objects and nonsentient creatures. This sort of environment can be very disorienting to the newcomer, but is common on “weightless” planes.
+_Subjective Directional Gravity_: The strength of gravity on a plane with this trait is the same as on the Material Plane, but each individual chooses the direction of gravity’s pull. Such a plane has no gravity for unattended objects and nonsentient creatures. This sort of environment can be very disorienting to the newcomer, but is common on “weightless” planes.
 
 Characters on a plane with subjective directional gravity can move normally along a solid surface by imagining “down” near their feet. If suspended in midair, a character “flies” by merely choosing a “down” direction and “falling” that way. Under such a procedure, an individual “falls” 150 feet in the first round and 300 feet in each succeeding round. Movement is straight-line only. In order to stop, one has to slow one’s movement by changing the designated “down” direction (again, moving 150 feet in the new direction in the first round and 300 feet per round thereafter).
 
@@ -77,17 +78,17 @@ It takes a DC 16 Wisdom check to set a new direction of gravity as a free action
 
 **Time**: The rate of time’s passage can vary on different planes, though it remains constant within any particular plane. Time is always subjective for the viewer. The same subjectivity applies to various planes. Travelers may discover that they’ll pick up or lose time while moving among the planes, but from their point of view, time always passes naturally.
 
-*Normal Time*: This trait describes the way time passes on the Material Plane. One hour on a plane with normal time equals one hour on the Material Plane. Unless otherwise noted in a description, every plane has the normal time trait.
+_Normal Time_: This trait describes the way time passes on the Material Plane. One hour on a plane with normal time equals one hour on the Material Plane. Unless otherwise noted in a description, every plane has the normal time trait.
 
-*Timeless*: On planes with this trait, time still passes, but the effects of time are diminished. How the timeless trait can affect certain activities or conditions such as hunger, thirst, aging, the effects of poison, and healing varies from plane to plane.
+_Timeless_: On planes with this trait, time still passes, but the effects of time are diminished. How the timeless trait can affect certain activities or conditions such as hunger, thirst, aging, the effects of poison, and healing varies from plane to plane.
 
 The danger of a timeless plane is that once one leaves such a plane for one where time flows normally, conditions such as hunger and aging do occur retroactively.
 
-*Flowing Time*: On some planes, time can flow faster or slower. One may travel to another plane, spend a year there, then return to the Material Plane to find that only six seconds have elapsed. Everything on the plane returned to is only a few seconds older. But for that traveler and the items, spells, and effects working on him, that year away was entirely real.
+_Flowing Time_: On some planes, time can flow faster or slower. One may travel to another plane, spend a year there, then return to the Material Plane to find that only six seconds have elapsed. Everything on the plane returned to is only a few seconds older. But for that traveler and the items, spells, and effects working on him, that year away was entirely real.
 
 When designating how time works on planes with flowing time, put the Material Plane’s flow of time first, followed by the same flow in the other plane.
 
-*Erratic Time*: Some planes have time that slows down and speeds up, so an individual may lose or gain time as he moves between the two planes. The following is provided as an example.
+_Erratic Time_: Some planes have time that slows down and speeds up, so an individual may lose or gain time as he moves between the two planes. The following is provided as an example.
 
 | d%     | Time on Material Plane | Time on Erratic Time Plane |
 | ------ | ---------------------- | -------------------------- |
@@ -103,29 +104,29 @@ If a plane is timeless with respect to magic, any spell cast with a noninstantan
 
 **Shape and Size**: Planes come in a variety of sizes and shapes. Most planes are infinite, or at least so large that they may as well be infinite.
 
-*Infinite*: Planes with this trait go on forever, though they may have finite components within them. Or they may consist of ongoing expanses in two directions, like a map that stretches out infinitely.
+_Infinite_: Planes with this trait go on forever, though they may have finite components within them. Or they may consist of ongoing expanses in two directions, like a map that stretches out infinitely.
 
-*Finite Shape*: A plane with this trait has defined edges or borders. These borders may adjoin other planes or hard, finite borders such as the edge of the world or a great wall. Demiplanes are often finite.
+_Finite Shape_: A plane with this trait has defined edges or borders. These borders may adjoin other planes or hard, finite borders such as the edge of the world or a great wall. Demiplanes are often finite.
 
-*Self-Contained Shape*: On planes with this trait, the borders wrap in on themselves, depositing the traveler on the other side of the map. A spherical plane is an example of a self-contained, finite plane, but there can be cubes, toruses, and flat planes with magical edges that teleport the traveler to an opposite edge when he crosses them.
+_Self-Contained Shape_: On planes with this trait, the borders wrap in on themselves, depositing the traveler on the other side of the map. A spherical plane is an example of a self-contained, finite plane, but there can be cubes, toruses, and flat planes with magical edges that teleport the traveler to an opposite edge when he crosses them.
 
 Some demiplanes are self-contained.
 
 **Morphic Traits**: This trait measures how easily the basic nature of a plane can be changed. Some planes are responsive to sentient thought, while others can be manipulated only by extremely powerful creatures. And some planes respond to physical or magical efforts.
 
-*Alterable Morphic*: On a plane with this trait, objects remain where they are (and what they are) unless affected by physical force or magic. You can change the immediate environment as a result of tangible effort.
+_Alterable Morphic_: On a plane with this trait, objects remain where they are (and what they are) unless affected by physical force or magic. You can change the immediate environment as a result of tangible effort.
 
-*Highly Morphic*: On a plane with this trait, features of the plane change so frequently that it’s difficult to keep a particular area stable. Such planes may react dramatically to specific spells, sentient thought, or the force of will. Others change for no reason.
+_Highly Morphic_: On a plane with this trait, features of the plane change so frequently that it’s difficult to keep a particular area stable. Such planes may react dramatically to specific spells, sentient thought, or the force of will. Others change for no reason.
 
-*Magically Morphic*: Specific spells can alter the basic material of a plane with this trait.
+_Magically Morphic_: Specific spells can alter the basic material of a plane with this trait.
 
-*Divinely Morphic*: Specific unique beings (deities or similar great powers) have the ability to alter objects, creatures, and the landscape on planes with this trait. Ordinary characters find these planes similar to alterable planes in that they may be affected by spells and physical effort. But the deities may cause these areas to change instantly and dramatically, creating great kingdoms for themselves.
+_Divinely Morphic_: Specific unique beings (deities or similar great powers) have the ability to alter objects, creatures, and the landscape on planes with this trait. Ordinary characters find these planes similar to alterable planes in that they may be affected by spells and physical effort. But the deities may cause these areas to change instantly and dramatically, creating great kingdoms for themselves.
 
-*Static*: These planes are unchanging. Visitors cannot affect living residents of the plane, nor objects that the denizens possess. Any spells that would affect those on the plane have no effect unless the plane’s static trait is somehow removed or suppressed. Spells cast before entering a plane with the static trait remain in effect, however.
+_Static_: These planes are unchanging. Visitors cannot affect living residents of the plane, nor objects that the denizens possess. Any spells that would affect those on the plane have no effect unless the plane’s static trait is somehow removed or suppressed. Spells cast before entering a plane with the static trait remain in effect, however.
 
 Even moving an unattended object within a static plane requires a DC 16 Strength check. Particularly heavy objects may be impossible to move.
 
-*Sentient*: These planes are ones that respond to a single thought— that of the plane itself. Travelers would find the plane’s landscape changing as a result of what the plane thought of the travelers, either becoming more or less hospitable depending on its reaction.
+_Sentient_: These planes are ones that respond to a single thought— that of the plane itself. Travelers would find the plane’s landscape changing as a result of what the plane thought of the travelers, either becoming more or less hospitable depending on its reaction.
 
 ###### Elemental and Energy Traits
 
@@ -193,7 +194,7 @@ Failure on this check means that something strange happens; roll d% and consult 
 | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 01–19  | Spell rebounds on caster with normal effect. If the spell cannot affect the caster, it simply fails.                                                                                                                                                                                                                                                                                                                                                       |
 | 20–23  | A circular pit 15 feet wide opens under the caster’s feet; it is 10 feet deep per level of the caster.                                                                                                                                                                                                                                                                                                                                                     |
-| 24–27  | The spell fails, but the target or targets of the spell are pelted with a rain of small objects (anything from flowers to rotten fruit), which disappear upon striking. The barrage continues for 1 round. During this time the targets are [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blinded]] and must make [[rangoric-srd/spells/Magic Overview#Concentration\|Concentration]] checks (DC 15 + spell level) to cast spells.                 |
+| 24–27  | The spell fails, but the target or targets of the spell are pelted with a rain of small objects (anything from flowers to rotten fruit), which disappear upon striking. The barrage continues for 1 round. During this time the targets are [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blinded]] and must make [[rangoric-srd/spells/Magic Overview#Concentration\|Concentration]] checks (DC 15 + spell level) to cast spells.       |
 | 28–31  | The spell affects a random target or area. Randomly choose a different target from among those in range of the spell or center the spell at a random place within range of the spell. To generate direction randomly, roll 1d8 and count clockwise around the compass, starting with south. To generate range randomly, roll 3d6. Multiply the result by 5 feet for close range spells, 20 feet for medium range spells, or 80 feet for long range spells. |
 | 32–35  | The spell functions normally, but any material components are not consumed. The spell is not expended from the caster’s mind (a spell slot or prepared spell can be used again). An item does not lose charges, and the effect does not count against an item’s or spell-like ability’s use limit.                                                                                                                                                         |
 | 36–39  | The spell does not function. Instead, everyone (friend or foe) within 30 feet of the caster receives the effect of a heal spell.                                                                                                                                                                                                                                                                                                                           |
@@ -203,7 +204,7 @@ Failure on this check means that something strange happens; roll d% and consult 
 | 52–59  | Nothing happens. The spell does not function. Any material components are used up. The spell or spell slot is used up, and charges or uses from an item are used up.                                                                                                                                                                                                                                                                                       |
 | 60–71  | Nothing happens. The spell does not function. Any material components are not consumed. The spell is not expended from the caster’s mind (a spell slot or prepared spell can be used again). An item does not lose charges, and the effect does not count against an item’s or spell-like ability’s use limit.                                                                                                                                             |
 | 72–98  | The spell functions normally.                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| 99–100 | The spell functions strongly. Saving throws against the spell incur a –2 penalty. The spell has the maximum possible effect, as if it were cast with the [[rangoric-srd/feats/Maximize Spell\|Maximize Spell]] feat. If the spell is already maximized with the feat, there is no further effect.                                                                                                                                                        |
+| 99–100 | The spell functions strongly. Saving throws against the spell incur a –2 penalty. The spell has the maximum possible effect, as if it were cast with the [[rangoric-srd/feats/Maximize Spell\|Maximize Spell]] feat. If the spell is already maximized with the feat, there is no further effect.                                                                                                                                                          |
 
 **Impeded Magic**: Particular spells and spell-like abilities are more difficult to cast on planes with this trait, often because the nature of the plane interferes with the spell.
 
@@ -243,17 +244,17 @@ The Material Plane is the center of most cosmologies and defines what is conside
 
 The Material Plane has the following traits:
 
-  - Normal gravity.
+- Normal gravity.
 
-  - Normal Time
+- Normal Time
 
-  - Alterable morphic.
+- Alterable morphic.
 
-  - No Elemental or Energy Traits (specific locations may have these traits, however)
+- No Elemental or Energy Traits (specific locations may have these traits, however)
 
-  - Mildly neutral-aligned.
+- Mildly neutral-aligned.
 
-  - Normal magic.
+- Normal magic.
 
 ##### The Ethereal Plane
 
@@ -265,13 +266,13 @@ The Ethereal Plane is mostly empty of structures and impediments. However, the p
 
 It has the following traits.
 
-  - No gravity.
+- No gravity.
 
-  - Alterable morphic. The plane contains little to alter, however.
+- Alterable morphic. The plane contains little to alter, however.
 
-  - Mildly neutral-aligned.
+- Mildly neutral-aligned.
 
-  - Normal magic. Spells function normally on the Ethereal Plane, though they do not cross into the Material Plane.
+- Normal magic. Spells function normally on the Ethereal Plane, though they do not cross into the Material Plane.
 
 The only exceptions are spells and spell-like abilities that have the force descriptor and abjuration spells that affect ethereal beings. Spellcasters on the Material Plane must have some way to detect foes on the Ethereal Plane before targeting them with force-based spells, of course. While it’s possible to hit ethereal enemies with a force spell cast on the Material Plane, the reverse isn’t possible. No magical attacks cross from the Ethereal Plane to the Material Plane, including force attacks.
 
@@ -287,15 +288,15 @@ The Plane of Shadow is magically morphic, and parts continually flow onto other 
 
 The Plane of Shadow has the following traits.
 
-  - Magically morphic. Certain spells modify the base material of the Plane of Shadow. The utility and power of these spells within the Plane of Shadow make them particularly useful for explorers and natives alike.
+- Magically morphic. Certain spells modify the base material of the Plane of Shadow. The utility and power of these spells within the Plane of Shadow make them particularly useful for explorers and natives alike.
 
-  - Mildly neutral-aligned.
+- Mildly neutral-aligned.
 
-  - Enhanced magic. Spells with the shadow descriptor are enhanced on the Plane of Shadow. Such spells are cast as though they were prepared with the [[rangoric-srd/feats/Maximize Spell|Maximize Spell]] feat, though they don’t require the higher spell slots.
+- Enhanced magic. Spells with the shadow descriptor are enhanced on the Plane of Shadow. Such spells are cast as though they were prepared with the [[rangoric-srd/feats/Maximize Spell|Maximize Spell]] feat, though they don’t require the higher spell slots.
 
 Furthermore, specific spells become more powerful on the Plane of Shadow. Shadow conjuration and shadow evocation spells are 30% as powerful as the conjurations and evocations they mimic (as opposed to 20%). Greater shadow conjuration and greater shadow evocation are 70% as powerful (not 60%), and a shades spell conjures at 90% of the power of the original (not 80%).
 
-  - Impeded magic. Spells that use or generate light or fire may fizzle when cast on the Plane of Shadow. A spellcaster attempting a spell with the light or fire descriptor must succeed on a [[rangoric-srd/skills/Mysticism|Mysticism]] check (DC 20 + the level of the spell). Spells that produce light are less effective in general, because all light sources have their ranges halved on the Plane of Shadow.
+- Impeded magic. Spells that use or generate light or fire may fizzle when cast on the Plane of Shadow. A spellcaster attempting a spell with the light or fire descriptor must succeed on a [[rangoric-srd/skills/Mysticism|Mysticism]] check (DC 20 + the level of the spell). Spells that produce light are less effective in general, because all light sources have their ranges halved on the Plane of Shadow.
 
 Despite the dark nature of the Plane of Shadow, spells that produce, use, or manipulate darkness are unaffected by the plane.
 
@@ -309,13 +310,13 @@ Both planar travelers and refugees from other planes call the Astral Plane home.
 
 The Astral Plane has the following traits.
 
-  - Subjective directional gravity.
+- Subjective directional gravity.
 
-  - Timeless. Age, hunger, thirst, poison, and natural healing don’t function in the Astral Plane, though they resume functioning when the traveler leaves the Astral Plane.
+- Timeless. Age, hunger, thirst, poison, and natural healing don’t function in the Astral Plane, though they resume functioning when the traveler leaves the Astral Plane.
 
-  - Mildly neutral-aligned.
+- Mildly neutral-aligned.
 
-  - Enhanced magic. All spells and spell-like abilities used within the Astral Plane may be employed as if they were improved by the [[rangoric-srd/feats/Quicken Spell|Quicken Spell]] feat. Already quickened spells and spell-like abilities are unaffected, as are spells from magic items. Spells so quickened are still prepared and cast at their unmodified level. As with the Quicken Spell feat, only one quickened spell can be cast per round.
+- Enhanced magic. All spells and spell-like abilities used within the Astral Plane may be employed as if they were improved by the [[rangoric-srd/feats/Quicken Spell|Quicken Spell]] feat. Already quickened spells and spell-like abilities are unaffected, as are spells from magic items. Spells so quickened are still prepared and cast at their unmodified level. As with the Quicken Spell feat, only one quickened spell can be cast per round.
 
 ##### The Fey Realm
 
@@ -323,19 +324,19 @@ The fey realm, like the Astral Plane, is a plane sitting beside the Material Pla
 
 The fey realm has the following traits.
 
-  - Normal gravity. Some areas, by their magical natures, may have altered gravity (to let snow drift down more slowly, and so on).
+- Normal gravity. Some areas, by their magical natures, may have altered gravity (to let snow drift down more slowly, and so on).
 
-  - Normal time, except that creatures in the fey realm do not age, although they do experience the other effects of the passage of time, such as hunger, thirst, natural healing, and the effects of poison. Travel from the fey realm to the mortal worlds can shift time for those who make the journey (see the flow of time, below).
+- Normal time, except that creatures in the fey realm do not age, although they do experience the other effects of the passage of time, such as hunger, thirst, natural healing, and the effects of poison. Travel from the fey realm to the mortal worlds can shift time for those who make the journey (see the flow of time, below).
 
-  - Infinite. Though it seems a finite physical space, the realm can stretch to infinite size through its own magic and the magical abilities and skills of its creatures.
+- Infinite. Though it seems a finite physical space, the realm can stretch to infinite size through its own magic and the magical abilities and skills of its creatures.
 
-  - Alterable morphic. Travel times change for those who know how to alter the physical dimensions of the fey realm, through the [[rangoric-srd/feats/Crossing Over|Crossing Over]] feat and some magic (see [[rangoric-srd/rules/Fey Roads and Doorways#Travel Within the Fey Realm|travel within the fey realm]]).
+- Alterable morphic. Travel times change for those who know how to alter the physical dimensions of the fey realm, through the [[rangoric-srd/feats/Crossing Over|Crossing Over]] feat and some magic (see [[rangoric-srd/rules/Fey Roads and Doorways#Travel Within the Fey Realm|travel within the fey realm]]).
 
-  - Mildly good-aligned. The fey realm is mostly good, and its shadowed reaches mildly evil.
+- Mildly good-aligned. The fey realm is mostly good, and its shadowed reaches mildly evil.
 
-  - Air, earth, water, and fire all play a major role in the weather of each season in the fey realm and the lands beside it. The Positive Energy Plane looms close, as its healing magic shows; rumor has the Negative Energy Plane skulking as close to the shadowed reaches.
+- Air, earth, water, and fire all play a major role in the weather of each season in the fey realm and the lands beside it. The Positive Energy Plane looms close, as its healing magic shows; rumor has the Negative Energy Plane skulking as close to the shadowed reaches.
 
-  - Enhanced magic. Healing spells work very well: all 1s, 2s, and 3s rolled are considered 4s. Enchantment and illusion spells function as if cast by someone of one caster level higher, as do [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]] and [[rangoric-srd/class-options/domains/Trickery Domain|Trickery]] domain spells cast in the shadowed reaches. The spell *[[rangoric-srd/spells/Raise Dead|raise dead]]* brings a creature back from death with 4 hit points per Hit Die. The chance of [[rangoric-srd/equipment/Equipment Armor#^arcane-spell-failure|arcane spell failure]] is at most 25% in the fey realm.
+- Enhanced magic. Healing spells work very well: all 1s, 2s, and 3s rolled are considered 4s. Enchantment and illusion spells function as if cast by someone of one caster level higher, as do [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]] and [[rangoric-srd/class-options/domains/Trickery Domain|Trickery]] domain spells cast in the shadowed reaches. The spell _[[rangoric-srd/spells/Raise Dead|raise dead]]_ brings a creature back from death with 4 hit points per Hit Die. The chance of [[rangoric-srd/equipment/Equipment Armor#^arcane-spell-failure|arcane spell failure]] is at most 25% in the fey realm.
 
 **The Flow of Time (Optional Rule)**: Creatures traveling from the fey realm to the mortal world can suffer erratic time. Time passes differently between the two, so sometimes it seems as if time in the fey realm passes faster than in a mortal world, though usually it is the other way around. Since fey are immortal, this effect is easily shrugged off. Mortals, however, have comparably shorter lives, and they are constantly worried about how much time has passed when they return home. The passage of time within the fey realm does not age mortals: while there, a mortal ceases to age, and once back in his own world he continues aging where he left off. For example, a 22-year-old human enters the fey realm and spends 7 years there. When he returns, he begins aging again at 22 years old, regardless of how much time passed in the world while he was away. ^fey-realm-flow-of-time
 
@@ -343,23 +344,23 @@ When rolling for erratic time, read the table as a relationship. For example, a 
 
 **Table: Fey Realm Erratic Time** ^table-fey-realm-erratic-time
 
-| d% | Time on Material Plane | Time in the Fey Realm |
-| --- | --- | --- |
-| 01 | Second | Century |
-| 02–03 | Round | 50 years |
-| 04–06 | Minute | 25 years |
-| 07–10 | Hour | Decade |
-| 11–15 | 3 hours | Year |
-| 16–25 | 6 hours | Month |
-| 26–40 | 12 hours | Week |
-| 41–60 | Day | Day |
-| 61–75 | Week | 12 hours |
-| 76–85 | Month | 6 hours |
-| 86–90 | Year | 3 hours |
-| 91–94 | Decade | Hour |
-| 95–97 | 25 years | Minute |
-| 98–99 | 50 years | Round |
-| 100 | Century | Second |
+| d%    | Time on Material Plane | Time in the Fey Realm |
+| ----- | ---------------------- | --------------------- |
+| 01    | Second                 | Century               |
+| 02–03 | Round                  | 50 years              |
+| 04–06 | Minute                 | 25 years              |
+| 07–10 | Hour                   | Decade                |
+| 11–15 | 3 hours                | Year                  |
+| 16–25 | 6 hours                | Month                 |
+| 26–40 | 12 hours               | Week                  |
+| 41–60 | Day                    | Day                   |
+| 61–75 | Week                   | 12 hours              |
+| 76–85 | Month                  | 6 hours               |
+| 86–90 | Year                   | 3 hours               |
+| 91–94 | Decade                 | Hour                  |
+| 95–97 | 25 years               | Minute                |
+| 98–99 | 50 years               | Round                 |
+| 100   | Century                | Second                |
 
 ##### Elemental Plane of Air
 
@@ -369,13 +370,13 @@ The Elemental Plane of Air is the most comfortable and survivable of the Inner P
 
 The Elemental Plane of Air has the following traits.
 
-  - Subjective directional gravity. Inhabitants of the plane determine their own “down” direction. Objects not under the motive force of others do not move.
+- Subjective directional gravity. Inhabitants of the plane determine their own “down” direction. Objects not under the motive force of others do not move.
 
-  - Air-dominant.
+- Air-dominant.
 
-  - Enhanced magic. Spells and spell-like abilities that use, manipulate, or create air (including spells of the Air domain) are both empowered and enlarged (as if the [[rangoric-srd/feats/Empower Spell|Empower Spell]] and [[rangoric-srd/feats/Enlarge Spell|Enlarge Spell]] metamagic feats had been used on them, but the spells don’t require higher-level slots).
+- Enhanced magic. Spells and spell-like abilities that use, manipulate, or create air (including spells of the Air domain) are both empowered and enlarged (as if the [[rangoric-srd/feats/Empower Spell|Empower Spell]] and [[rangoric-srd/feats/Enlarge Spell|Enlarge Spell]] metamagic feats had been used on them, but the spells don’t require higher-level slots).
 
-  - Impeded magic. Spells and spell-like abilities that use or create earth (including spells of the Earth domain and spells that summon earth elementals or outsiders with the earth subtype) are impeded.
+- Impeded magic. Spells and spell-like abilities that use or create earth (including spells of the Earth domain and spells that summon earth elementals or outsiders with the earth subtype) are impeded.
 
 ##### Elemental Plane of Earth
 
@@ -385,11 +386,11 @@ Despite its solid, unyielding nature, the Elemental Plane of Earth is varied in 
 
 The Elemental Plane of Earth has the following traits.
 
-  - Earth-dominant.
+- Earth-dominant.
 
-  - Enhanced magic. Spells and spell-like abilities that use, manipulate, or create earth or stone (including those of the Earth domain) are both empowered and extended (as if the [[rangoric-srd/feats/Empower Spell|Empower Spell]] and [[rangoric-srd/feats/Extend Spell|Extend Spell]] metamagic feats had been used on them, but the spells don’t require higher-level slots). Spells and spell-like abilities that are already empowered or extended are unaffected by this benefit.
+- Enhanced magic. Spells and spell-like abilities that use, manipulate, or create earth or stone (including those of the Earth domain) are both empowered and extended (as if the [[rangoric-srd/feats/Empower Spell|Empower Spell]] and [[rangoric-srd/feats/Extend Spell|Extend Spell]] metamagic feats had been used on them, but the spells don’t require higher-level slots). Spells and spell-like abilities that are already empowered or extended are unaffected by this benefit.
 
-  - Impeded magic. Spells and spell-like abilities that use or create air (including spells of the Air domain and spells that summon air elementals or outsiders with the air subtype) are impeded.
+- Impeded magic. Spells and spell-like abilities that use or create air (including spells of the Air domain and spells that summon air elementals or outsiders with the air subtype) are impeded.
 
 ##### Elemental Plane of Fire
 
@@ -399,11 +400,11 @@ Fire survives here without need for fuel or air, but flammables brought onto the
 
 The Elemental Plane of Fire has the following traits.
 
-  - Fire-dominant.
+- Fire-dominant.
 
-  - Enhanced magic. Spells and spell-like abilities with the fire descriptor are both maximized and enlarged (as if the [[rangoric-srd/feats/Maximize Spell|Maximize Spell]] and [[rangoric-srd/feats/Enlarge Spell|Enlarge Spell]] had been used on them, but the spells don’t require higher-level slots). Spells and spell-like abilities that are already maximized or enlarged are unaffected by this benefit.
+- Enhanced magic. Spells and spell-like abilities with the fire descriptor are both maximized and enlarged (as if the [[rangoric-srd/feats/Maximize Spell|Maximize Spell]] and [[rangoric-srd/feats/Enlarge Spell|Enlarge Spell]] had been used on them, but the spells don’t require higher-level slots). Spells and spell-like abilities that are already maximized or enlarged are unaffected by this benefit.
 
-  - Impeded magic. Spells and spell-like abilities that use or create water (including spells of the Water domain and spells that summon water elementals or outsiders with the water subtype) are impeded.
+- Impeded magic. Spells and spell-like abilities that use or create water (including spells of the Water domain and spells that summon water elementals or outsiders with the water subtype) are impeded.
 
 ##### Elemental Plane of Water
 
@@ -413,13 +414,13 @@ The eternal oceans of this plane vary between ice cold and boiling hot, between 
 
 The Elemental Plane of Water has the following traits.
 
-  - Subjective directional gravity. The gravity here works similar to that of the Elemental Plane of Air. But sinking or rising on the Elemental Plane of Water is slower (and less dangerous) than on the Elemental Plane of Air.
+- Subjective directional gravity. The gravity here works similar to that of the Elemental Plane of Air. But sinking or rising on the Elemental Plane of Water is slower (and less dangerous) than on the Elemental Plane of Air.
 
-  - Water-dominant.
+- Water-dominant.
 
-  - Enhanced magic. Spells and spell-like abilities that use or create water are both extended and enlarged (as if the [[rangoric-srd/feats/Extend Spell|Extend Spell]] and [[rangoric-srd/feats/Enlarge Spell|Enlarge Spell]] metamagic feats had been used on them, but the spells don’t require higher-level slots). Spells and spell-like abilities that are already extended or enlarged are unaffected by this benefit.
+- Enhanced magic. Spells and spell-like abilities that use or create water are both extended and enlarged (as if the [[rangoric-srd/feats/Extend Spell|Extend Spell]] and [[rangoric-srd/feats/Enlarge Spell|Enlarge Spell]] metamagic feats had been used on them, but the spells don’t require higher-level slots). Spells and spell-like abilities that are already extended or enlarged are unaffected by this benefit.
 
-  - Impeded magic. Spells and spell-like abilities with the fire descriptor (including spells of the Fire domain) are impeded.
+- Impeded magic. Spells and spell-like abilities with the fire descriptor (including spells of the Fire domain) are impeded.
 
 ##### Negative Energy Plane
 
@@ -429,13 +430,13 @@ The Negative Energy Plane is the most hostile of the Inner Planes, and the most 
 
 The Negative Energy Plane has the following traits.
 
-  - Subjective directional gravity.
+- Subjective directional gravity.
 
-  - Major negative-dominant. Some areas within the plane have only the minor negative-dominant trait, and these islands tend to be inhabited.
+- Major negative-dominant. Some areas within the plane have only the minor negative-dominant trait, and these islands tend to be inhabited.
 
-  - Enhanced magic. Spells and spell-like abilities that use negative energy are maximized (as if the [[rangoric-srd/feats/Maximize Spell|Maximize Spell]] metamagic feat had been used on them, but the spells don’t require higher-level slots). Spells and spell-like abilities that are already maximized are unaffected by this benefit. Class abilities that use negative energy, such as rebuking and controlling undead, gain a +10 bonus on the roll to determine Hit Dice affected.
+- Enhanced magic. Spells and spell-like abilities that use negative energy are maximized (as if the [[rangoric-srd/feats/Maximize Spell|Maximize Spell]] metamagic feat had been used on them, but the spells don’t require higher-level slots). Spells and spell-like abilities that are already maximized are unaffected by this benefit. Class abilities that use negative energy, such as rebuking and controlling undead, gain a +10 bonus on the roll to determine Hit Dice affected.
 
-  - Impeded magic. Spells and spell-like abilities that use positive energy, including cure spells, are impeded. Characters on this plane take a –10 penalty on Fortitude saving throws made to remove negative levels bestowed by an [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]] attack.
+- Impeded magic. Spells and spell-like abilities that use positive energy, including cure spells, are impeded. Characters on this plane take a –10 penalty on Fortitude saving throws made to remove negative levels bestowed by an [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]] attack.
 
 **Random Encounters**: Because the Negative Energy Plane is virtually devoid of creatures, random encounters on the plane are exceedingly rare.
 
@@ -447,12 +448,12 @@ Despite the beneficial effects of the plane, it is one of the most hostile of th
 
 The Positive Energy Plane has the following traits.
 
-  - Subjective directional gravity.
+- Subjective directional gravity.
 
-  - Major positive-dominant. Some regions of the plane have the minor positive-dominant trait instead, and those islands tend to be inhabited.
+- Major positive-dominant. Some regions of the plane have the minor positive-dominant trait instead, and those islands tend to be inhabited.
 
-  - Enhanced magic. Spells and spell-like abilities that use positive energy, including cure spells, are maximized (as if the [[rangoric-srd/feats/Maximize Spell|Maximize Spell]] metamagic feat had been used on them, but the spells don’t require higher-level slots). Spells and spell-like abilities that are already maximized are unaffected by this benefit. Class abilities that use positive energy, such as turning and destroying undead, gain a +10 bonus on the roll to determine Hit Dice affected. (Undead are almost impossible to find on this plane, however.)
+- Enhanced magic. Spells and spell-like abilities that use positive energy, including cure spells, are maximized (as if the [[rangoric-srd/feats/Maximize Spell|Maximize Spell]] metamagic feat had been used on them, but the spells don’t require higher-level slots). Spells and spell-like abilities that are already maximized are unaffected by this benefit. Class abilities that use positive energy, such as turning and destroying undead, gain a +10 bonus on the roll to determine Hit Dice affected. (Undead are almost impossible to find on this plane, however.)
 
-  - Impeded magic. Spells and spell-like abilities that use negative energy (including inflict spells) are impeded.
+- Impeded magic. Spells and spell-like abilities that use negative energy (including inflict spells) are impeded.
 
 **Random Encounters**: Because the Positive Energy Plane is virtually devoid of creatures, random encounters on the plane are exceedingly rare.

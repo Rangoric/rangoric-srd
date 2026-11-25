@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/overview]
 
 ### Psion Uncarnate
 
-Hit Die: d4.  
+Hit Die: d4.
 
 **[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
 
@@ -25,7 +25,7 @@ Hit Die: d4.
 
 ###### Requirements
 
-To qualify to become a psion uncarnate, a character must fulfill all the following criteria.  
+To qualify to become a psion uncarnate, a character must fulfill all the following criteria.
 
 Skills: [[rangoric-srd/skills/Psionics (Skill)|Psionics]] 5 ranks, [[rangoric-srd/skills/Mysticism|Mysticism]] 5 ranks.
 
@@ -38,13 +38,13 @@ Special: Must have had some instruction by another psion uncarnate.
 ###### Class Skills
 
 The psion uncarnate’s class skills are [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Imitation|Imitation]] (Int), [[rangoric-srd/skills/Meditation|Meditation]] (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Psionics (Skill)|Psionics]] (Int), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), and [[rangoric-srd/skills/Theology|Theology]] (Int).  
-Skill Points at Each Level: 2 + Int modifier.  
+Skill Points at Each Level: 2 + Int modifier.
 
-Table: The Psion Uncarnate     
+Table: The Psion Uncarnate   
 
-|       |                                        |                                         |
-| ----- | -------------------------------------- | --------------------------------------- |
-| Level | Special                                | Powers Known                            |
+|       |                                        |                                        |
+| ----- | -------------------------------------- | -------------------------------------- |
+| Level | Special                                | Powers Known                           |
 | 1st   | Incorporeal touch 1d6, uncarnate armor | -                                      |
 | 2nd   | Shed body 1/day                        | +1 level of existing manifesting class |
 | 3rd   | Assume equipment                       | +1 level of existing manifesting class |
@@ -58,7 +58,7 @@ Table: The Psion Uncarnate   
 
 ###### Class Features
 
-All the following are class features of the psion uncarnate prestige class.  
+All the following are class features of the psion uncarnate prestige class.
 
 Weapon and Armor Proficiency: Psion uncarnates gain no proficiency with any weapon or armor.
 

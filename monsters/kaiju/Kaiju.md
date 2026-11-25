@@ -28,9 +28,9 @@ Societies that are frequently plagued by kaiju attacks often build special magic
 
 All kaiju are Colossal, and have a space and reach of no less than 50 feet each. A bipedal kaiju typically stands between 100 and 200 feet in height; quadrupedal kaiju are half as tall. A kaiju's size makes a battle against one challenging to run. At the scale needed to track tactical movement for Medium creatures, a kaiju takes up a massive amount of space. When designing an encounter with a kaiju, plan ahead and prepare a larger area so that you can track the kaiju's movement effectively.
 
-  - [[rangoric-srd/monsters/kaiju/Final King|Final King]]
-  - [[rangoric-srd/monsters/kaiju/Forever Storm|Forever Storm]]
-  - [[rangoric-srd/monsters/kaiju/Inferno Below|Inferno Below]]
+- [[rangoric-srd/monsters/kaiju/Final King|Final King]]
+- [[rangoric-srd/monsters/kaiju/Forever Storm|Forever Storm]]
+- [[rangoric-srd/monsters/kaiju/Inferno Below|Inferno Below]]
 
 **Known Kaiju**
 

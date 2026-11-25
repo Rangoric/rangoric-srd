@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Resolve Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Strength Domain|Strength]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Strength Domain|Strength]] domain._
 
 ## Replacement Power
 
@@ -27,7 +27,7 @@ This power replaces the [[rangoric-srd/class-options/domains/Strength Domain#Gra
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 1st | [[rangoric-srd/spells/Bless\|Bless]] | Allies gain +1 on attack rolls and saves against fear. |
-| 6th | [[rangoric-srd/spells/Heroes’ Feast\|Heroes’ Feast]] | Food for one creature/level cures and grants combat bonuses. |
+| Level | Spell                                                | Brief Description                                            |
+| ----- | ---------------------------------------------------- | ------------------------------------------------------------ |
+| 1st   | [[rangoric-srd/spells/Bless\|Bless]]                 | Allies gain +1 on attack rolls and saves against fear.       |
+| 6th   | [[rangoric-srd/spells/Heroes’ Feast\|Heroes’ Feast]] | Food for one creature/level cures and grants combat bonuses. |

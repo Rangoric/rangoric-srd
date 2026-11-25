@@ -18,8 +18,8 @@ tags: [rangoric, rangoric/spell]
 
 # Inflict Moderate Wounds, Mass
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Clr 6, Inq 6, Occ 6, Sha 6, Wit 7
+- **Level**: Clr 6, Inq 6, Occ 6, Sha 6, Wit 7
 
 This spell functions like [[rangoric-srd/spells/Inflict Light Wounds, Mass|mass inflict light wounds]], except that it deals 2d8 points of damage +1 point per caster level (maximum +30).

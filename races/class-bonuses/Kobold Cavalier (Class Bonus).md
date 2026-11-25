@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Kobold Cavalier
 
-*A [[rangoric-srd/races/Kobold|kobold]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Cavalier#^cavalier-class-bonuses|cavalier]] level.*
+_A [[rangoric-srd/races/Kobold|kobold]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Cavalier#^cavalier-class-bonuses|cavalier]] level._
 
 Add 5 feet (up to 15 feet maximum) to the cavalier's [[rangoric-srd/classes/Cavalier#^cavalier-mount|mount]]'s speed when it uses the [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]] or [[rangoric-srd/combat/Combat Actions#Withdraw|withdraw]] action.

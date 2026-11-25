@@ -17,8 +17,8 @@ tags: [rangoric, rangoric/spell]
 
 # Magic Missile Spray
 
-*Evocation \[Force\]*
+_Evocation \[Force\]_
 
-  - **Level**: Sor/Wiz 4
+- **Level**: Sor/Wiz 4
 
-As *[[rangoric-srd/spells/Magic Missile|magic missile]]*, except that this spell produces 2d4+2 missiles that all strike one target (inflicting 1d4+1 points of damage each). Due to the force of the combined impact, the caster may make a free trip attempt against the target. For the purpose of this trip attack, the caster’s Strength is considered 30. If the caster fails in the trip attempt, the target cannot attempt to trip the caster.
+As _[[rangoric-srd/spells/Magic Missile|magic missile]]_, except that this spell produces 2d4+2 missiles that all strike one target (inflicting 1d4+1 points of damage each). Due to the force of the combined impact, the caster may make a free trip attempt against the target. For the purpose of this trip attack, the caster’s Strength is considered 30. If the caster fails in the trip attempt, the target cannot attempt to trip the caster.

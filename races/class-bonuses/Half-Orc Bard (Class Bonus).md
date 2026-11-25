@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Half-Orc Bard
 
-*A [[rangoric-srd/races/Half-Orc|half-orc]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Bard#^bard-class-bonuses|bard]] level.*
+_A [[rangoric-srd/races/Half-Orc|half-orc]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Bard#^bard-class-bonuses|bard]] level._
 
 Add +1 to the bard's total number of [[rangoric-srd/classes/Bard#^bardic-music|bardic performance]] rounds per day.

@@ -33,7 +33,7 @@ An affliction calls for more saving throws over time to avoid its effects. With 
 
 **Type**: The kind of affliction (curse, disease, infestation, insanity or poison) and how it is contracted, such as contact, ingested, inhaled, injury, spell or trap. ^affliction-type
 
-**Save**: The kind of saving throw that avoids contracting the affliction, and its DC. Unless noted otherwise, it is also the save to avoid the affliction’s effect once contracted, and the DC of any caster level check needed to end the affliction with magic, such as *[[rangoric-srd/spells/Remove Curse|remove curse]]* or *[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]*. ^affliction-save
+**Save**: The kind of saving throw that avoids contracting the affliction, and its DC. Unless noted otherwise, it is also the save to avoid the affliction’s effect once contracted, and the DC of any caster level check needed to end the affliction with magic, such as _[[rangoric-srd/spells/Remove Curse|remove curse]]_ or _[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]_. ^affliction-save
 
 **Onset**: Some afflictions take a while to set in. A creature exposed to an affliction with an onset time saves at once. On a success, it avoids the affliction and needs no further saves. On a failure, it has contracted the affliction and begins making more saves once the onset time has passed. The affliction’s effect doesn’t happen until the onset time has passed, and then only if a later save fails. ^affliction-onset
 
@@ -41,13 +41,13 @@ An affliction calls for more saving throws over time to avoid its effects. With 
 
 **Effect**: What happens to the creature each time it fails its save. Most afflictions deal [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]] or hit point damage, and these add up each time. Others give penalties or other effects; some of these add up, and the rest affect the creature only if it failed its most recent save. Some afflictions have an initial effect, on the first failed save, and a secondary effect, on later failed saves, written with a slash (“1 Con drain/1d3 Con”: the first failure drains 1 point of Constitution, each later one deals 1d3 points of Constitution damage). Hit point and ability damage dealt by an affliction can’t heal naturally while the affliction lasts. ^affliction-effect
 
-**Cure**: How the affliction is cured, usually a number of saves in a row. Even an affliction with a limited frequency can be cured early if enough saves are made. Curing an affliction doesn’t remove the hit point or ability damage it dealt; that heals normally once the affliction is gone. An affliction with no cure entry can be cured only by powerful spells, such as *[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]* and *[[rangoric-srd/spells/Remove Curse|remove curse]]*; no number of saves ends it. ^affliction-cure
+**Cure**: How the affliction is cured, usually a number of saves in a row. Even an affliction with a limited frequency can be cured early if enough saves are made. Curing an affliction doesn’t remove the hit point or ability damage it dealt; that heals normally once the affliction is gone. An affliction with no cure entry can be cured only by powerful spells, such as _[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]_ and _[[rangoric-srd/spells/Remove Curse|remove curse]]_; no number of saves ends it. ^affliction-cure
 
-*Example*: A character is exposed to red ache (Fortitude DC 15; onset 1d3 days; frequency 1/day; effect 1d6 Str damage; cure 2 consecutive saves). He fails the DC 15 Fortitude save to avoid contracting it, so after 1d3 days he must make another DC 15 Fortitude save or take 1d6 points of Strength damage. From then on he saves once a day, as its frequency says. When he makes his saves two days in a row, he is cured, and the damage it dealt begins to heal normally.
+_Example_: A character is exposed to red ache (Fortitude DC 15; onset 1d3 days; frequency 1/day; effect 1d6 Str damage; cure 2 consecutive saves). He fails the DC 15 Fortitude save to avoid contracting it, so after 1d3 days he must make another DC 15 Fortitude save or take 1d6 points of Strength damage. From then on he saves once a day, as its frequency says. When he makes his saves two days in a row, he is cured, and the damage it dealt begins to heal normally.
 
 ## Poison
 
-No other affliction is as common as poison. From a viper’s fangs to an assassin’s blade, poison is a constant threat. Poisons can be cured by successful saving throws and by spells such as *[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]*. Although supernatural and spell-like poisons are possible, poisonous effects are almost always extraordinary.
+No other affliction is as common as poison. From a viper’s fangs to an assassin’s blade, poison is a constant threat. Poisons can be cured by successful saving throws and by spells such as _[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]_. Although supernatural and spell-like poisons are possible, poisonous effects are almost always extraordinary.
 
 One dose of poison smeared on a weapon or some other object affects just a single target. A poisoned weapon or object keeps its poison until the weapon scores a hit or the object is touched (unless the poison is wiped off first). Any poison smeared on an object or exposed to the elements in any way stays potent until it is touched or used.
 
@@ -74,7 +74,7 @@ Both increases are cumulative. A creature with several doses of the same poison 
 
 Contact and injury poisons on a weapon deliver one dose per hit, since the poison lasts for one successful attack. Inhaled and ingested poisons can deliver several doses at once.
 
-*Example*: A character is bitten in the same round by three Medium monstrous spiders and fails all three saves. Medium spider venom has a DC of 14 and a frequency of 1/round for 4 rounds, so the second and third doses each add 2 rounds and +2 to the DC: he must make a DC 18 Fortitude save for the next 8 rounds. One successful save still cures all three doses.
+_Example_: A character is bitten in the same round by three Medium monstrous spiders and fails all three saves. Medium spider venom has a DC of 14 and a frequency of 1/round for 4 rounds, so the second and third doses each add 2 rounds and +2 to the DC: he must make a DC 18 Fortitude save for the next 8 rounds. One successful save still cures all three doses.
 
 ### Applying Poison
 
@@ -94,7 +94,7 @@ Creatures with natural poison attacks are immune to their own poison. Nonliving 
 
 From a widespread plague to the bite of a dire rat, disease is a serious threat to common folk and adventurers alike. A character can catch one when he is injured by a contaminated attack, touches an item smeared with diseased matter, or eats or drinks something tainted. Some injury diseases can be passed on by as small an injury as a flea bite, and most inhaled diseases can also be ingested (and the other way round).
 
-Diseases rarely have a limited frequency, but most have a long onset time, and it can vary. Most diseases can be cured by a number of saves in a row or by spells such as *[[rangoric-srd/spells/Remove Disease|remove disease]]*. The saving throws against a disease can be rolled secretly, so the player doesn’t know whether it has taken hold.
+Diseases rarely have a limited frequency, but most have a long onset time, and it can vary. Most diseases can be cured by a number of saves in a row or by spells such as _[[rangoric-srd/spells/Remove Disease|remove disease]]_. The saving throws against a disease can be rolled secretly, so the player doesn’t know whether it has taken hold.
 
 ## Drugs and Addiction
 
@@ -122,15 +122,15 @@ Addiction comes in three degrees, [[rangoric-srd/rules/afflictions/Minor Addicti
 
 Every addiction pushes its sufferer to keep taking the drug. While a character is benefiting from the drug he is addicted to, he doesn’t suffer his addiction’s effects: he still gets the drug’s effect and takes its ability damage as normal, but the addiction is held off. As soon as the drug’s effect ends, the addiction’s effects return. ^addiction-held-off
 
-**Curing Addiction**: An addiction is a disease, and can be cured like one, with spells such as *[[rangoric-srd/spells/Remove Disease|remove disease]]* or with Fortitude saves over time. Unlike other diseases, an addicted character can make a Fortitude save to overcome his addiction only after a day without the drug. The DC is the highest addiction DC his use of the drug has reached (not necessarily the DC that addicted him, if he kept taking it while addicted), and it drops by 2 for each day he goes without the drug, to no lower than the drug’s base addiction DC. Overcoming the addiction takes two or three consecutive successful saves, as its cure says. A character who takes a dose of the drug he is addicted to relapses at once: the DC returns to its highest, and any successful saves so far are lost. ^curing-addiction
+**Curing Addiction**: An addiction is a disease, and can be cured like one, with spells such as _[[rangoric-srd/spells/Remove Disease|remove disease]]_ or with Fortitude saves over time. Unlike other diseases, an addicted character can make a Fortitude save to overcome his addiction only after a day without the drug. The DC is the highest addiction DC his use of the drug has reached (not necessarily the DC that addicted him, if he kept taking it while addicted), and it drops by 2 for each day he goes without the drug, to no lower than the drug’s base addiction DC. Overcoming the addiction takes two or three consecutive successful saves, as its cure says. A character who takes a dose of the drug he is addicted to relapses at once: the DC returns to its highest, and any successful saves so far are lost. ^curing-addiction
 
 ## Infestation
 
-Parasites such as [[rangoric-srd/rules/afflictions/Ear Seekers|ear seekers]] and [[rangoric-srd/rules/afflictions/Rot Grubs|rot grubs]] cause infestations, a kind of affliction like a disease. An infestation can be cured only by specific means: no number of successful saves ends it, so an infestation has no cure entry. A *[[rangoric-srd/spells/Remove Disease|remove disease]]* spell (or a similar effect) halts an infestation at once, but immunity to disease gives no protection, since the infestation is caused by the parasites themselves. Each infestation’s [[rangoric-srd/rules/Hazards|hazard]] says what else ends it. ^infestation
+Parasites such as [[rangoric-srd/rules/afflictions/Ear Seekers|ear seekers]] and [[rangoric-srd/rules/afflictions/Rot Grubs|rot grubs]] cause infestations, a kind of affliction like a disease. An infestation can be cured only by specific means: no number of successful saves ends it, so an infestation has no cure entry. A _[[rangoric-srd/spells/Remove Disease|remove disease]]_ spell (or a similar effect) halts an infestation at once, but immunity to disease gives no protection, since the infestation is caused by the parasites themselves. Each infestation’s [[rangoric-srd/rules/Hazards|hazard]] says what else ends it. ^infestation
 
 ## Curse
 
-Careless rogues plundering a tomb, drunken heroes insulting a powerful wizard, and foolhardy adventurers who pick up ancient swords all might suffer from curses. These magic afflictions can have a wide variety of effects, from a simple penalty on certain checks to turning the victim into a toad. Some even make the victim slowly rot away, leaving nothing behind but dust. Unlike other afflictions, most curses can’t be cured by any number of successful saving throws. They can be cured with magic, usually spells such as *[[rangoric-srd/spells/Remove Curse|remove curse]]* and *[[rangoric-srd/spells/Break Enchantment|break enchantment]]*. Some curses cause a slow decline; others give a fixed penalty from the moment they are contracted that neither fades nor grows worse. Some magic items act like curses: see [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Cursed Items|cursed items]].
+Careless rogues plundering a tomb, drunken heroes insulting a powerful wizard, and foolhardy adventurers who pick up ancient swords all might suffer from curses. These magic afflictions can have a wide variety of effects, from a simple penalty on certain checks to turning the victim into a toad. Some even make the victim slowly rot away, leaving nothing behind but dust. Unlike other afflictions, most curses can’t be cured by any number of successful saving throws. They can be cured with magic, usually spells such as _[[rangoric-srd/spells/Remove Curse|remove curse]]_ and _[[rangoric-srd/spells/Break Enchantment|break enchantment]]_. Some curses cause a slow decline; others give a fixed penalty from the moment they are contracted that neither fades nor grows worse. Some magic items act like curses: see [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Cursed Items|cursed items]].
 
 ## Insanity
 
@@ -138,24 +138,24 @@ Insanity is an affliction that strikes those who live through extraordinary phys
 
 **Going Insane**: A creature whose Intelligence, Wisdom or Charisma is reduced to 0 has suffered a tremendous shock and might go insane: when that score recovers from 0, it must save against an insanity, rolled on [[#^table-types-of-insanity|Table: Types of Insanity]] or chosen to fit what reduced the score. The save is rolled in secret: the victim shouldn’t know the result, nor which insanity might afflict him. Its effects play out naturally: some insanities (such as mania/phobia) take days or even months to show, while others (such as paranoia) are obvious at once. ^going-insane
 
-A creature can also risk insanity in extremely unusual situations, as the GM decides, even when its mental ability scores are unharmed. A character held prisoner for a long time might have to save against a phobia of open or closed spaces; someone repeatedly betrayed by allies, against paranoia; and a poor soul whose mind a powerful demon possessed, against psychosis when the demon is driven out. Magic can cause insanity too: the GM can have *[[rangoric-srd/spells/Insanity (Spell)|insanity]]* inflict one random insanity per 5 caster levels instead of its usual effect, and *[[rangoric-srd/spells/Bestow Curse|bestow curse]]* a single insanity, which is then a curse as well.
+A creature can also risk insanity in extremely unusual situations, as the GM decides, even when its mental ability scores are unharmed. A character held prisoner for a long time might have to save against a phobia of open or closed spaces; someone repeatedly betrayed by allies, against paranoia; and a poor soul whose mind a powerful demon possessed, against psychosis when the demon is driven out. Magic can cause insanity too: the GM can have _[[rangoric-srd/spells/Insanity (Spell)|insanity]]_ inflict one random insanity per 5 caster levels instead of its usual effect, and _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ a single insanity, which is then a curse as well.
 
 A creature can suffer from several insanities at once. A creature afflicted by an insanity it already has instead adds +5 to that insanity’s current DC. ^multiple-insanities
 
-**Curing Insanity**: Every insanity has a DC that stands for its strength: the DC of the Will save to resist it when first exposed, and of the save to recover from it. Recovering naturally takes a long time: once per week, the creature makes a Will save against the insanity’s current DC. On a success, the DC drops by the creature’s Charisma bonus (minimum 1). The creature suffers the insanity’s full effects until its DC reaches 0; then it is cured, and the insanity vanishes completely. *[[rangoric-srd/spells/Restoration, Lesser|Lesser restoration]]* has no effect on insanity, but *[[rangoric-srd/spells/Restoration|restoration]]* reduces the current DC of one insanity affecting the target by the caster’s level. *[[rangoric-srd/spells/Restoration, Greater|Greater restoration]]*, *[[rangoric-srd/spells/Heal (Spell)|heal]]*, *[[rangoric-srd/spells/Limited Wish|limited wish]]*, *[[rangoric-srd/spells/Miracle|miracle]]* or *[[rangoric-srd/spells/Wish|wish]]* at once cures a target of all insanity. ^curing-insanity
+**Curing Insanity**: Every insanity has a DC that stands for its strength: the DC of the Will save to resist it when first exposed, and of the save to recover from it. Recovering naturally takes a long time: once per week, the creature makes a Will save against the insanity’s current DC. On a success, the DC drops by the creature’s Charisma bonus (minimum 1). The creature suffers the insanity’s full effects until its DC reaches 0; then it is cured, and the insanity vanishes completely. _[[rangoric-srd/spells/Restoration, Lesser|Lesser restoration]]_ has no effect on insanity, but _[[rangoric-srd/spells/Restoration|restoration]]_ reduces the current DC of one insanity affecting the target by the caster’s level. _[[rangoric-srd/spells/Restoration, Greater|Greater restoration]]_, _[[rangoric-srd/spells/Heal (Spell)|heal]]_, _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Miracle|miracle]]_ or _[[rangoric-srd/spells/Wish|wish]]_ at once cures a target of all insanity. ^curing-insanity
 
 **Types of Insanity**: When a creature goes insane, roll on this table, or choose the insanity that fits the cause.
 
 **Table: Types of Insanity** ^table-types-of-insanity
 
-| d% | Insanity |
-| --- | --- |
-| 1–11 | [[rangoric-srd/rules/afflictions/Amnesia (Insanity)\|Amnesia]] |
-| 12–48 | [[rangoric-srd/rules/afflictions/Mania-Phobia (Insanity)\|Mania/Phobia]] |
-| 49–68 | [[rangoric-srd/rules/afflictions/Multiple Personality Disorder (Insanity)\|Multiple Personality Disorder]] |
-| 69–78 | [[rangoric-srd/rules/afflictions/Paranoia (Insanity)\|Paranoia]] |
-| 79–84 | [[rangoric-srd/rules/afflictions/Psychosis (Insanity)\|Psychosis]] |
-| 85–100 | [[rangoric-srd/rules/afflictions/Schizophrenia (Insanity)\|Schizophrenia]] |
+| d%     | Insanity                                                                                                   |
+| ------ | ---------------------------------------------------------------------------------------------------------- |
+| 1–11   | [[rangoric-srd/rules/afflictions/Amnesia (Insanity)\|Amnesia]]                                             |
+| 12–48  | [[rangoric-srd/rules/afflictions/Mania-Phobia (Insanity)\|Mania/Phobia]]                                   |
+| 49–68  | [[rangoric-srd/rules/afflictions/Multiple Personality Disorder (Insanity)\|Multiple Personality Disorder]] |
+| 69–78  | [[rangoric-srd/rules/afflictions/Paranoia (Insanity)\|Paranoia]]                                           |
+| 79–84  | [[rangoric-srd/rules/afflictions/Psychosis (Insanity)\|Psychosis]]                                         |
+| 85–100 | [[rangoric-srd/rules/afflictions/Schizophrenia (Insanity)\|Schizophrenia]]                                 |
 
 ## Treating an Affliction
 

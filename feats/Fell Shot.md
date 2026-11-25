@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Fell Shot
 
-You can strike your foe with a ranged weapon as if making a touch attack.  
+You can strike your foe with a ranged weapon as if making a touch attack.
 
 Prerequisite: Dex 13, [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Psionic Shot|Psionic Shot]], base attack bonus +5.
 

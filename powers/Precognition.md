@@ -27,7 +27,7 @@ Clairsentience
 **Range:** Personal  
 **Target:** You  
 **Duration:** 10 min./level  
-**Power Points:** 1  
+**Power Points:** 1
 
 Precognition allows your mind to glimpse fragments of potential future events - what you see will probably happen if no one takes action to change it. However, your vision is incomplete, and it makes no real sense until the actual events you glimpsed begin to unfold. That’s when everything begins to come together, and you can act, if you act swiftly, on the information you previously received when you manifested this power.
 

@@ -16,11 +16,11 @@ The following are some of the typical driving devices for vehicles, plus their u
 
 ## Driving Device
 
-| Driving Device | AC | Hit Points | Hardness |
-| --- | --- | --- | --- |
-| Reins | 14 | 10 | 0 |
-| Rigging | 9 | 5 per square of sail | 0 |
-| Steering Wheel | 10 | 25 | 5 |
-| Throttle | 12 | 15 | 5 |
-| Rudder | 10 | 25 | 5 |
-| Magically Treated | — | ×2 | ×2 |
+| Driving Device    | AC  | Hit Points           | Hardness |
+| ----------------- | --- | -------------------- | -------- |
+| Reins             | 14  | 10                   | 0        |
+| Rigging           | 9   | 5 per square of sail | 0        |
+| Steering Wheel    | 10  | 25                   | 5        |
+| Throttle          | 12  | 15                   | 5        |
+| Rudder            | 10  | 25                   | 5        |
+| Magically Treated | —   | ×2                   | ×2       |

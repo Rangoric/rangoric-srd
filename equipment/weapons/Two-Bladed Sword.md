@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades, weapon-group/double
 
 # Two-Bladed Sword
 
-*Exotic two-handed melee weapon (double).* Cost 100 gp; Dmg 1d6/1d6 (S), 1d8/1d8 (M); Critical 19–20/x2; Weight 10 lb.; Type Slashing. ^stats
+_Exotic two-handed melee weapon (double)._ Cost 100 gp; Dmg 1d6/1d6 (S), 1d8/1d8 (M); Critical 19–20/x2; Weight 10 lb.; Type Slashing. ^stats
 
 A two-bladed sword is a double weapon. You can fight with it as if fighting with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons, just as if you were using a one-handed weapon and a light weapon. A creature wielding a two-bladed sword in one hand can’t use it as a double weapon—only one end of the weapon can be used in any given round.

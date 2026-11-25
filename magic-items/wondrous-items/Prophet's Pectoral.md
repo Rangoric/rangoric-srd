@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Prophet's Pectoral
 
-The sacred stones, graven star-patterns, and wisdom-writings of the ancients on this chestplate increase the wearer's chance of success with *[[rangoric-srd/spells/Augury|augury]]*, *[[rangoric-srd/spells/Divination|divination]]*, and *[[rangoric-srd/spells/Contact Other Plane|contact other plane]]*. The wearer adds 1d6 to the d% roll each time she uses such a spell. When casting *[[rangoric-srd/spells/Commune|commune]]* or *[[rangoric-srd/spells/Commune with Nature|commune with nature]]*, the wearer may ask one additional question or gain one additional piece of information.
+The sacred stones, graven star-patterns, and wisdom-writings of the ancients on this chestplate increase the wearer's chance of success with _[[rangoric-srd/spells/Augury|augury]]_, _[[rangoric-srd/spells/Divination|divination]]_, and _[[rangoric-srd/spells/Contact Other Plane|contact other plane]]_. The wearer adds 1d6 to the d% roll each time she uses such a spell. When casting _[[rangoric-srd/spells/Commune|commune]]_ or _[[rangoric-srd/spells/Commune with Nature|commune with nature]]_, the wearer may ask one additional question or gain one additional piece of information.
 
-Faint divination; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Divination|divination]]*, *[[rangoric-srd/spells/Guidance|guidance]]*; Price 6,000 gp; Cost 3,000 gp; Weight 1 lb.
+Faint divination; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Divination|divination]]_, _[[rangoric-srd/spells/Guidance|guidance]]_; Price 6,000 gp; Cost 3,000 gp; Weight 1 lb.

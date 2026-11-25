@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Gauntlet of Rust, Greater
 
-This item is identical to a *[[rangoric-srd/magic-items/wondrous-items/Gauntlet of Rust|gauntlet of rust]]*, except the wearer can use *[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]* 3 times per day.
+This item is identical to a _[[rangoric-srd/magic-items/wondrous-items/Gauntlet of Rust|gauntlet of rust]]_, except the wearer can use _[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]_ 3 times per day.
 
-Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]*; Price 34,500 gp; Cost 17,250 gp; Weight 1 lb.
+Moderate transmutation; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]_; Price 34,500 gp; Cost 17,250 gp; Weight 1 lb.

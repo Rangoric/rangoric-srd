@@ -23,4 +23,4 @@ Fine etchings spell out the alphabets of four languages around the inside of thi
 
 The ring also makes it easier for the wearer to find the correct words to express herself, granting a +2 competence bonus on [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Intimidation|Intimidation]], and [[rangoric-srd/skills/Performance|Performance]] (oratory) checks. Also, if the wearer is [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]] and attempts to cast a spell with a verbal component, the chance of spell failure is reduced to 10%.
 
-Faint divination; CL 3rd; [[rangoric-srd/feats/Forge Ring|Forge Ring]], *[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]*; Price 3,500 gp; Cost 1,750 gp.
+Faint divination; CL 3rd; [[rangoric-srd/feats/Forge Ring|Forge Ring]], _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_; Price 3,500 gp; Cost 1,750 gp.

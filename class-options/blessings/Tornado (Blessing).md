@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Tornado Blessing
 
-*A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]]. The howling wrath of a tornado inspires your religion.*
+_A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]]. The howling wrath of a tornado inspires your religion._
 
 **Deities**: Evil deities that offer the [[rangoric-srd/class-options/blessings/Air (Blessing)|Air blessing]] or nonevil deities with disasters in their portfolios.
 

@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Inquisitor
 
-You know when others lie.  
+You know when others lie.
 
 Prerequisite: Wis 13.
 

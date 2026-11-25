@@ -60,7 +60,7 @@ Organization: Solitary, pair, or pack (5-10).    
 Challenge Rating: 23      
 Treasure: Standard      
 Alignment: Usually lawful neutral      
-Advancement: 39-48 HD (Large); 49-58 HD (Huge); 59-66 HD (Gargantuan); 67-135 HD (Colossal)      
+Advancement: 39-48 HD (Large); 49-58 HD (Huge); 59-66 HD (Gargantuan); 67-135 HD (Colossal)    
 
 #### Combat
 

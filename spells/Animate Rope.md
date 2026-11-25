@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Animate Rope
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Brd 1, Mes 1, Psy 1, Skd 1, Sor/Wiz 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Medium (100 ft. + 10 ft./level)
-  - **Target**: One ropelike object, length up to 50 ft. + 5 ft./level; see text
-  - **Duration**: 1 round/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Brd 1, Mes 1, Psy 1, Skd 1, Sor/Wiz 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Medium (100 ft. + 10 ft./level)
+- **Target**: One ropelike object, length up to 50 ft. + 5 ft./level; see text
+- **Duration**: 1 round/level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You can animate a nonliving ropelike object. The maximum length assumes a rope with a 1-inch diameter.
 

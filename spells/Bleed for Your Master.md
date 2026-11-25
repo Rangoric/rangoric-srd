@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Bleed for Your Master
 
-*Enchantment (Compulsion) \[MindAffecting\]*
+_Enchantment (Compulsion) \[MindAffecting\]_
 
-  - **Level**: Apl 2, Drd 3, Hun 3, Rgr 3, Sor/Wiz 3, Wit 3
-  - **Components**: V, S
-  - **Casting Time**: 1 immediate action
-  - **Range**: Touch
-  - **Target**: Your animal companion, familiar, or fiendish servant
-  - **Duration**: Instantaneous
-  - **Spell Resistance**: No
+- **Level**: Apl 2, Drd 3, Hun 3, Rgr 3, Sor/Wiz 3, Wit 3
+- **Components**: V, S
+- **Casting Time**: 1 immediate action
+- **Range**: Touch
+- **Target**: Your animal companion, familiar, or fiendish servant
+- **Duration**: Instantaneous
+- **Spell Resistance**: No
 
 When you would be hit by an attack that requires an attack roll, or when you are within an area of effect that allows you to attempt a Reflex saving throw, with a single touch you compel the target to throw itself in front of the blow or shield you from the effect.
 

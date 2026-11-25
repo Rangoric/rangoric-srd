@@ -23,17 +23,17 @@ tags: [rangoric, rangoric/star]
 
 # Star of Life
 
-*[[rangoric-srd/rules/star magic/Star Magic|Star]]*
+_[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 
-  - **Call Level**: 1st ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Aspect**: Ascendant in spring, descendant in autumn, on the horizon in summer and winter ([[rangoric-srd/rules/star magic/Star Magic#^seasons|seasons]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: 10 ft.
-  - **Target**: One creature/level, all within a 10-ft.-radius
-  - **Duration**: 1 day/call level
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Call Level**: 1st ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Aspect**: Ascendant in spring, descendant in autumn, on the horizon in summer and winter ([[rangoric-srd/rules/star magic/Star Magic#^seasons|seasons]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: 10 ft.
+- **Target**: One creature/level, all within a 10-ft.-radius
+- **Duration**: 1 day/call level
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
 For 1 day per call level, the targets don't need to sleep and don't become [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] from work, travel or other effort. Magic, poison and the like can still fatigue or exhaust them.
 

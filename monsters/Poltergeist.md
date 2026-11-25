@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Poltergeist
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Incorporeal)
-  - **Hit Dice**: 3d8+3 (16 hp)
-  - **Initiative**: +1
-  - **Speed**: fly 20 ft. (perfect)
-  - **Armor Class**: 12 (+1 deflection, +1 Dex), touch 12, flat-footed 11
-  - **Base Attack**: +2; **CMB**: +3; **CMD**: 14
-  - **Attack**: —
-  - **Full Attack**: —
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Frightener|Frightener]], [[rangoric-srd/monsters/abilities/Telekinesis|telekinesis]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Natural Invisibility|natural invisibility]], [[rangoric-srd/monsters/abilities/Rejuvenation (Poltergeist)|rejuvenation]], [[rangoric-srd/monsters/abilities/Site Bound|site bound]], [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-  - **Saves**: Fort +2, Ref +2, Will +4
-  - **Abilities**: Str —, Dex 13, Con —, Int 5, Wis 12, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +1
-  - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (fear), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any
-  - **Organization**: Solitary or haunting (2–7)
-  - **Challenge Rating**: 2
-  - **Treasure**: Incidental
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Incorporeal)
+- **Hit Dice**: 3d8+3 (16 hp)
+- **Initiative**: +1
+- **Speed**: fly 20 ft. (perfect)
+- **Armor Class**: 12 (+1 deflection, +1 Dex), touch 12, flat-footed 11
+- **Base Attack**: +2; **CMB**: +3; **CMD**: 14
+- **Attack**: —
+- **Full Attack**: —
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Frightener|Frightener]], [[rangoric-srd/monsters/abilities/Telekinesis|telekinesis]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Natural Invisibility|natural invisibility]], [[rangoric-srd/monsters/abilities/Rejuvenation (Poltergeist)|rejuvenation]], [[rangoric-srd/monsters/abilities/Site Bound|site bound]], [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
+- **Saves**: Fort +2, Ref +2, Will +4
+- **Abilities**: Str —, Dex 13, Con —, Int 5, Wis 12, Cha 12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +1
+- **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (fear), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any
+- **Organization**: Solitary or haunting (2–7)
+- **Challenge Rating**: 2
+- **Treasure**: Incidental
+- **Alignment**: Usually lawful evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A poltergeist is an angry spirit that forms from the soul of a creature that, for whatever reason, becomes unable to leave the site of its death. Sometimes, this might be due to an unfinished task—other times, it might be due to a powerful necromantic effect. Desecrating a grave site by building a structure over the body below is the most common method of accidentally creating a poltergeist. The poltergeist experiences great trauma over its condition; this trauma twists its psyche to evil and fosters an overall hatred of the living expressed in outbursts of rage. A poltergeist is bound to a specific place, usually a building, room, or recognizable area (a section of a cemetery, a stretch of lonely road, and so on). This place typically corresponds to its place of death or the resting place of its mortal remains.
 

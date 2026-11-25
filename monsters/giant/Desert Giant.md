@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Desert Giant
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
-  - **Hit Dice**: 13d8+65 (123 hp)
-  - **Initiative**: +3
-  - **Speed**: 50 ft. (10 squares)
-  - **Armor Class**: 24 (+2 armor, +3 Dex, +1 dodge, +9 natural, –1 size), touch 13, flat-footed 20
-  - **Base Attack**: +9; **CMB**: +18; **CMD**: 32 (36 vs. disarm and sunder)
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitars]] +16 melee (1d8+8/15–20) or slam +16 melee (1d8+8) or rock +12 ranged (1d8+12)
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitars]] +16/+16/+11/+11 melee (1d8+8/15–20); or 2 slams +16 melee (1d8+8); or rock +12 ranged (1d8+12)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (100 ft.), [[rangoric-srd/monsters/abilities/Scimitar Training|scimitar training]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Sandwalking|sandwalking]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire
-  - **Saves**: Fort +9, Ref +11, Will +5
-  - **Abilities**: Str 26, Dex 17, Con 21, Int 13, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Athletics|Athletics]] +8 (+16 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +9
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (scimitar), [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (scimitar)
-  - **Environment**: Warm desert
-  - **Organization**: Solitary, gang (2–4), band (5–8), raiding party (9–12 plus 1 fighter of 1st–3rd level), or tribe (10–30 plus 35% noncombatants, 1–3 clerics of 2nd–4th level, 2–4 fighters of 1st–3rd level, and 1 fighter sheik of 4th–6th level, 50% chance of 10–20 human slaves)
-  - **Challenge Rating**: 9
-  - **Treasure**: Standard (2 masterwork scimitars, leather armor, other treasure)
-  - **Alignment**: Usually lawful neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
+- **Hit Dice**: 13d8+65 (123 hp)
+- **Initiative**: +3
+- **Speed**: 50 ft. (10 squares)
+- **Armor Class**: 24 (+2 armor, +3 Dex, +1 dodge, +9 natural, –1 size), touch 13, flat-footed 20
+- **Base Attack**: +9; **CMB**: +18; **CMD**: 32 (36 vs. disarm and sunder)
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitars]] +16 melee (1d8+8/15–20) or slam +16 melee (1d8+8) or rock +12 ranged (1d8+12)
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Scimitar|scimitars]] +16/+16/+11/+11 melee (1d8+8/15–20); or 2 slams +16 melee (1d8+8); or rock +12 ranged (1d8+12)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (100 ft.), [[rangoric-srd/monsters/abilities/Scimitar Training|scimitar training]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Sandwalking|sandwalking]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire
+- **Saves**: Fort +9, Ref +11, Will +5
+- **Abilities**: Str 26, Dex 17, Con 21, Int 13, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Athletics|Athletics]] +8 (+16 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +9
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (scimitar), [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (scimitar)
+- **Environment**: Warm desert
+- **Organization**: Solitary, gang (2–4), band (5–8), raiding party (9–12 plus 1 fighter of 1st–3rd level), or tribe (10–30 plus 35% noncombatants, 1–3 clerics of 2nd–4th level, 2–4 fighters of 1st–3rd level, and 1 fighter sheik of 4th–6th level, 50% chance of 10–20 human slaves)
+- **Challenge Rating**: 9
+- **Treasure**: Standard (2 masterwork scimitars, leather armor, other treasure)
+- **Alignment**: Usually lawful neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Desert giants rove the stark and majestic sands, rarely dwelling in permanent camps. They roam from oasis to oasis, sleeping beneath the stars or in easily dismantled yurts, breaking camp as whim strikes or when food sources grow scarce.
 

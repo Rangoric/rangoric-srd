@@ -28,7 +28,7 @@ Psychoportation (Teleportation)
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 hour/level (D)  
-**Power Points:** 9  
+**Power Points:** 9
 
 You specify a situation that triggers your automatic manifestation of a [[rangoric-srd/powers/Teleport, Psionic|psionic teleport]], taking you to a predetermined location. You must know the psionic teleport power and have sufficient power points to manifest it when the specified situation occurs.
 

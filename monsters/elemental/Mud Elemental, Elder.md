@@ -40,25 +40,25 @@ tags: [rangoric, rangoric/monster]
 
 # Mud Elemental, Elder
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Earth, Elemental, Extraplanar, Water)
-  - **Hit Dice**: 16d10+64 (152 hp)
-  - **Initiative**: +5
-  - **Speed**: 20 ft. (4 squares), burrow 10 ft., swim 30 ft.; earth glide
-  - **Armor Class**: 23 (+5 Dex, +1 dodge, +9 natural, –2 size), touch 14, flat-footed 17
-  - **Base Attack**: +16; **CMB**: +28; **CMD**: 44
-  - **Attack**: Slam +24 melee (2d10+10/19–20 plus [[rangoric-srd/monsters/abilities/Entrap|entrap]])
-  - **Full Attack**: 2 slams +24 melee (2d10+10/19–20 plus [[rangoric-srd/monsters/abilities/Entrap|entrap]])
-  - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Entrap|Entrap]] (DC 22, 10 minutes, hardness 5, hp 15)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-  - **Saves**: Fort +14, Ref +17, Will +5
-  - **Abilities**: Str 30, Dex 20, Con 19, Int 10, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +29, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +24, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +16, [[rangoric-srd/skills/Theology|Theology]] +19
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (slams), [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Any land or water (Elemental Plane of Earth)
-  - **Organization**: Solitary, pair, or gang (3–8)
-  - **Challenge Rating**: 11
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Earth, Elemental, Extraplanar, Water)
+- **Hit Dice**: 16d10+64 (152 hp)
+- **Initiative**: +5
+- **Speed**: 20 ft. (4 squares), burrow 10 ft., swim 30 ft.; earth glide
+- **Armor Class**: 23 (+5 Dex, +1 dodge, +9 natural, –2 size), touch 14, flat-footed 17
+- **Base Attack**: +16; **CMB**: +28; **CMD**: 44
+- **Attack**: Slam +24 melee (2d10+10/19–20 plus [[rangoric-srd/monsters/abilities/Entrap|entrap]])
+- **Full Attack**: 2 slams +24 melee (2d10+10/19–20 plus [[rangoric-srd/monsters/abilities/Entrap|entrap]])
+- **Space/Reach**: 15 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Entrap|Entrap]] (DC 22, 10 minutes, hardness 5, hp 15)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
+- **Saves**: Fort +14, Ref +17, Will +5
+- **Abilities**: Str 30, Dex 20, Con 19, Int 10, Wis 11, Cha 11
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +29, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +24, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +16, [[rangoric-srd/skills/Theology|Theology]] +19
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (slams), [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Any land or water (Elemental Plane of Earth)
+- **Organization**: Solitary, pair, or gang (3–8)
+- **Challenge Rating**: 11
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —

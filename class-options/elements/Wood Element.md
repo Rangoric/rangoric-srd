@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Wood Element
 
-*An [[rangoric-srd/class-options/elements/Elements|element]] a [[rangoric-srd/classes/Kineticist|kineticist]] can choose with [[rangoric-srd/classes/Kineticist#^kineticist-elemental-focus|elemental focus]] or [[rangoric-srd/classes/Kineticist#^kineticist-expanded-element|expanded element]].*
+_An [[rangoric-srd/class-options/elements/Elements|element]] a [[rangoric-srd/classes/Kineticist|kineticist]] can choose with [[rangoric-srd/classes/Kineticist#^kineticist-elemental-focus|elemental focus]] or [[rangoric-srd/classes/Kineticist#^kineticist-expanded-element|expanded element]]._
 
 Kineticists who focus on the concept of wood as an element are known as phytokineticists. Phytokineticists share a strong bond with the [[rangoric-srd/rules/Planes#The Fey Realm|fey realm]] and channel the power of primordial life. As there is no Elemental Plane of Wood, the phytokineticist draws upon pockets of vital energy that form when the Elemental Planes grind against the borders of the fey realm.
 

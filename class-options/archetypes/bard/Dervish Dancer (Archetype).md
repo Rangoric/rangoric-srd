@@ -26,7 +26,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Dervish Dancer
 
-*A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Bard#^bard-archetypes|bard]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Not all bards inspire others with their performances. Dervish dancers enter a near-mystical trance that allows them to push their bodies beyond normal limits.
 
@@ -38,7 +38,7 @@ Starting a battle dance is a move action, but it can be maintained each round as
 
 Dervish dancers gain the [[rangoric-srd/classes/Bard#^inspire-courage|inspire courage]], [[rangoric-srd/classes/Bard#^inspire-greatness|inspire greatness]], and [[rangoric-srd/classes/Bard#^inspire-heroics|inspire heroics]] bardic performance types as battle dances, but these only provide benefit to the dervish dancer himself. This ability replaces [[rangoric-srd/classes/Bard#^bardic-music|bardic performance]].
 
-**Rain of Blows (Su)**: At 6th level, a dervish dancer can speed up his attacks. When making a full attack action, he may make one extra attack with any weapon he is holding, as though under the effects of a *[[rangoric-srd/spells/Haste|haste]]* spell. He also gains a +1 bonus on attack rolls and a +1 dodge bonus to AC and on Reflex saves. At 9th level, and every three bard levels thereafter, these bonuses increase by +1, to a maximum of +5 at 18th level. These bonuses do not stack with the *[[rangoric-srd/spells/Haste|haste]]* spell. This ability replaces [[rangoric-srd/classes/Bard#^bard-suggestion|suggestion]] and [[rangoric-srd/classes/Bard#^bard-mass-suggestion|mass suggestion]].
+**Rain of Blows (Su)**: At 6th level, a dervish dancer can speed up his attacks. When making a full attack action, he may make one extra attack with any weapon he is holding, as though under the effects of a _[[rangoric-srd/spells/Haste|haste]]_ spell. He also gains a +1 bonus on attack rolls and a +1 dodge bonus to AC and on Reflex saves. At 9th level, and every three bard levels thereafter, these bonuses increase by +1, to a maximum of +5 at 18th level. These bonuses do not stack with the _[[rangoric-srd/spells/Haste|haste]]_ spell. This ability replaces [[rangoric-srd/classes/Bard#^bard-suggestion|suggestion]] and [[rangoric-srd/classes/Bard#^bard-mass-suggestion|mass suggestion]].
 
 **Razor's Kiss (Su)**: At 8th level, a dervish dancer can use his battle dance to improve his weapons' critical range. All attacks he makes with manufactured weapons are treated as though he had the [[rangoric-srd/feats/Improved Critical|Improved Critical]] feat. Natural weapons and spells are not affected. This ability replaces [[rangoric-srd/classes/Bard#^bard-dirge-of-doom|dirge of doom]].
 

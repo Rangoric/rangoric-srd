@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/armor]
 
 # Silver Spiderweave
 
-*Light armor.* Cost 1,500 gp; Armor Bonus +4; Maximum Dex Bonus +4; Armor Check Penalty –2; Arcane Spell Failure 25%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 15 lb. ^stats
+_Light armor._ Cost 1,500 gp; Armor Bonus +4; Maximum Dex Bonus +4; Armor Check Penalty –2; Arcane Spell Failure 25%; Speed 30 ft. (30 ft.), 20 ft. (20 ft.); Weight 15 lb. ^stats
 
 Despite its appearance, spiderweave is a very light and effective armor style created by elven artisans. Intricate patterns of silver and leather are joined in a spider web pattern. The combination of metal and leather makes this style of spiderweave unsuitable for magic-using adventurers.

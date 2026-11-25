@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Bloodsense
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “bloodsense”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “bloodsense”, on the Special Qualities line.
 
 A ghorazagh notices living creatures within 60 feet just as if it possessed the blindsight ability. The [[rangoric-srd/monsters/Ghorazagh|ghorazagh]] has it.

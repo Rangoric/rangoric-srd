@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Order of the Cockatrice
 
-*A [[rangoric-srd/classes/Cavalier#^cavalier-order|cavalier order]].*
+_A [[rangoric-srd/classes/Cavalier#^cavalier-order|cavalier order]]._
 
 A cavalier who belongs to this order serves only himself, working to further his own aims and increase his own prestige. Cavaliers of this order tend to be selfish and concerned only with personal goals and objectives.
 

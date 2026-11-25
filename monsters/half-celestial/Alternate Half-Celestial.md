@@ -44,28 +44,28 @@ tags: [rangoric, rangoric/monster]
 
 # Alternate Half-Celestial
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native)
-  - **Hit Dice**: 4d10+20 (42 hp)
-  - **Initiative**: +4
-  - **Speed**: 60 ft. (12 squares), fly 120 ft. (good)
-  - **Armor Class**: 17 (+4 Dex, +4 natural, –1 size; +2 deflection vs. evil), touch 13, flat-footed 13
-  - **Base Attack**: +4; **CMB**: +11; **CMD**: 25 (29 vs. trip)
-  - **Attack**: Gore +10 melee (1d8+6) or hoof +12 melee (1d3+3)
-  - **Full Attack**: Gore +10 melee (1d8+6) and 2 hooves +7 melee (1d3+3)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Smite Evil (Template)|Smite evil]] 1/day (+7 attack, +4 damage), [[rangoric-srd/monsters/abilities/Powerful Charge|powerful charge]] (gore, 2d8+12), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], magic circle against evil\*, magical strike\*, wild empathy +18\*, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to charm, compulsion, disease and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and electricity 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 15
-  - **Saves**: Fort +9, Ref +8, Will +8
-  - **Abilities**: Str 22, Dex 19, Con 20, Int 13, Wis 25, Cha 26
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14 (+17 forests), [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +11, [[rangoric-srd/skills/Theology|Theology]] +5
-  - **Feats**: [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (horn)
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary, mated pair, or blessing (3–6)
-  - **Challenge Rating**: 4
-  - **Treasure**: None
-  - **Alignment**: Usually chaotic good
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native)
+- **Hit Dice**: 4d10+20 (42 hp)
+- **Initiative**: +4
+- **Speed**: 60 ft. (12 squares), fly 120 ft. (good)
+- **Armor Class**: 17 (+4 Dex, +4 natural, –1 size; +2 deflection vs. evil), touch 13, flat-footed 13
+- **Base Attack**: +4; **CMB**: +11; **CMD**: 25 (29 vs. trip)
+- **Attack**: Gore +10 melee (1d8+6) or hoof +12 melee (1d3+3)
+- **Full Attack**: Gore +10 melee (1d8+6) and 2 hooves +7 melee (1d3+3)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Smite Evil (Template)|Smite evil]] 1/day (+7 attack, +4 damage), [[rangoric-srd/monsters/abilities/Powerful Charge|powerful charge]] (gore, 2d8+12), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], magic circle against evil\*, magical strike\*, wild empathy +18\*, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to charm, compulsion, disease and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and electricity 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 15
+- **Saves**: Fort +9, Ref +8, Will +8
+- **Abilities**: Str 22, Dex 19, Con 20, Int 13, Wis 25, Cha 26
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14 (+17 forests), [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +11, [[rangoric-srd/skills/Theology|Theology]] +5
+- **Feats**: [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (horn)
+- **Environment**: Temperate forests
+- **Organization**: Solitary, mated pair, or blessing (3–6)
+- **Challenge Rating**: 4
+- **Treasure**: None
+- **Alignment**: Usually chaotic good
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The half-celestial above is a half-celestial [[rangoric-srd/monsters/unicorn/Unicorn|unicorn]].
 
@@ -99,18 +99,18 @@ This is the second version of the half-celestial template; the first is [[rangor
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]**: A half-celestial with an Int or Wis score of 8 or higher has a cumulative number of spell-like abilities depending on its Hit Dice. Unless otherwise noted, an ability is usable once per day. Caster level equals the creature's HD (or the caster level of the base creature's spell-like abilities, whichever is higher).
 
-| HD    | Abilities                                                                                                          |
-|-------|--------------------------------------------------------------------------------------------------------------------|
-| 1–2   | *[[rangoric-srd/spells/Protection from Evil\|Protection from evil]]* 3/day, *[[rangoric-srd/spells/Bless\|bless]]* |
-| 3–4   | *[[rangoric-srd/spells/Aid\|Aid]], [[rangoric-srd/spells/Detect Evil\|Detect evil]]*                                                                                                 |
-| 5–6   | *[[rangoric-srd/spells/Cure Serious Wounds\|Cure serious wounds]], [[rangoric-srd/spells/Neutralize Poison\|Neutralize poison]]*                                                                           |
-| 7–8   | *[[rangoric-srd/spells/Holy Smite\|Holy smite]], [[rangoric-srd/spells/Remove Disease\|Remove disease]]*                                                                                       |
-| 9–10  | *[[rangoric-srd/spells/Dispel Evil\|Dispel evil]]*                                                                 |
-| 11–12 | *[[rangoric-srd/spells/Holy Word\|Holy word]]*                                                                     |
-| 13–14 | *[[rangoric-srd/spells/Holy Aura\|Holy aura]]* 3/day, *[[rangoric-srd/spells/Hallow\|Hallow]]*                     |
-| 15–16 | *[[rangoric-srd/spells/Charm Monster, Mass\|Mass charm monster]]*                                                                                               |
-| 17–18 | *[[rangoric-srd/spells/Summon Monster IX\|Summon monster IX]]* (celestials only)                                   |
-| 19–20 | *[[rangoric-srd/spells/Resurrection\|Resurrection]]*                                                               |
+| HD    | Abilities                                                                                                                        |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------- |
+| 1–2   | _[[rangoric-srd/spells/Protection from Evil\|Protection from evil]]_ 3/day, _[[rangoric-srd/spells/Bless\|bless]]_               |
+| 3–4   | _[[rangoric-srd/spells/Aid\|Aid]], [[rangoric-srd/spells/Detect Evil\|Detect evil]]_                                             |
+| 5–6   | _[[rangoric-srd/spells/Cure Serious Wounds\|Cure serious wounds]], [[rangoric-srd/spells/Neutralize Poison\|Neutralize poison]]_ |
+| 7–8   | _[[rangoric-srd/spells/Holy Smite\|Holy smite]], [[rangoric-srd/spells/Remove Disease\|Remove disease]]_                         |
+| 9–10  | _[[rangoric-srd/spells/Dispel Evil\|Dispel evil]]_                                                                               |
+| 11–12 | _[[rangoric-srd/spells/Holy Word\|Holy word]]_                                                                                   |
+| 13–14 | _[[rangoric-srd/spells/Holy Aura\|Holy aura]]_ 3/day, _[[rangoric-srd/spells/Hallow\|Hallow]]_                                   |
+| 15–16 | _[[rangoric-srd/spells/Charm Monster, Mass\|Mass charm monster]]_                                                                |
+| 17–18 | _[[rangoric-srd/spells/Summon Monster IX\|Summon monster IX]]_ (celestials only)                                                 |
+| 19–20 | _[[rangoric-srd/spells/Resurrection\|Resurrection]]_                                                                             |
 
 **Abilities**: A half-celestial gains a +4 bonus on three ability scores of its choice and a +2 bonus on the other three.
 
@@ -118,4 +118,4 @@ This is the second version of the half-celestial template; the first is [[rangor
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th): At will—*[[rangoric-srd/spells/Detect Evil|detect evil]]*, *[[rangoric-srd/spells/Light|light]]*; 3/day—*[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]], [[rangoric-srd/spells/Protection from Evil|protection from evil]]*; 1/day—*[[rangoric-srd/spells/Aid|aid]], [[rangoric-srd/spells/Bless|bless]]*, *[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (within its territory\*), *[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]*.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th): At will—_[[rangoric-srd/spells/Detect Evil|detect evil]]_, _[[rangoric-srd/spells/Light|light]]_; 3/day—_[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]], [[rangoric-srd/spells/Protection from Evil|protection from evil]]_; 1/day—_[[rangoric-srd/spells/Aid|aid]], [[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (within its territory\*), _[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]_.

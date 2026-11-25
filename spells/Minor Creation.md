@@ -31,19 +31,19 @@ tags: [rangoric, rangoric/spell]
 
 # Minor Creation
 
-*Conjuration (Creation)*
+_Conjuration (Creation)_
 
-  - **Level**: Occ 3, Psy 4, Sor/Wiz 4, Spi 3, Sum 3, SumU 3, Wit 4
-  - **Components**: V, S, M
-  - **Casting Time**: 1 minute
-  - **Range**: 0 ft.
-  - **Effect**: Unattended, nonmagical object of nonliving plant matter, up to 1 cu. ft./level
-  - **Duration**: 1 hour/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Occ 3, Psy 4, Sor/Wiz 4, Spi 3, Sum 3, SumU 3, Wit 4
+- **Components**: V, S, M
+- **Casting Time**: 1 minute
+- **Range**: 0 ft.
+- **Effect**: Unattended, nonmagical object of nonliving plant matter, up to 1 cu. ft./level
+- **Duration**: 1 hour/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You create a nonmagical, unattended object of nonliving, vegetable matter. The volume of the item created cannot exceed 1 cubic foot per caster level. You must succeed on an appropriate skill check to make a complex item.
 
 Attempting to use any created object as a material component causes the spell to fail.
 
-*Material Component*: A tiny piece of matter of the same sort of item you plan to create with minor creation.
+_Material Component_: A tiny piece of matter of the same sort of item you plan to create with minor creation.

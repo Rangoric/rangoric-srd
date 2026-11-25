@@ -32,15 +32,15 @@ Because character [[rangoric-srd/unearthed-arcana/Traits|traits]] represent your
 
 **Table: Random Young Starting Ages**
 
-| Race                                                                                                                                    | Youth<sup>1</sup> | Aristocrat, Commoner, Expert | Adept, Warrior | Adulthood<sup>2</sup> |
-|-----------------------------------------------------------------------------------------------------------------------------------------|-------------------|------------------------------|----------------|-----------------------|
-| Human                                                                                                                                   | 8 years           | +1d6                         | +2d3           | 15 years              |
-| Dwarf                                                                                                                                   | 20 years          | +2d6                         | +4d4           | 40 years              |
-| Elf                                                                                                                                     | 55 years          | +4d6                         | +6d6           | 110 years             |
-| Gnome                                                                                                                                   | 20 years          | +4d4                         | +3d6           | 40 years              |
-| Half-elf                                                                                                                                | 10 years          | +1d4                         | +1d6           | 20 years              |
-| Half-orc                                                                                                                                | 7 years           | +1d6                         | +2d3           | 14 years              |
-| Halfling                                                                                                                                | 10 years          | +1d6                         | +2d4           | 20 years              |
+| Race     | Youth<sup>1</sup> | Aristocrat, Commoner, Expert | Adept, Warrior | Adulthood<sup>2</sup> |
+| -------- | ----------------- | ---------------------------- | -------------- | --------------------- |
+| Human    | 8 years           | +1d6                         | +2d3           | 15 years              |
+| Dwarf    | 20 years          | +2d6                         | +4d4           | 40 years              |
+| Elf      | 55 years          | +4d6                         | +6d6           | 110 years             |
+| Gnome    | 20 years          | +4d4                         | +3d6           | 40 years              |
+| Half-elf | 10 years          | +1d4                         | +1d6           | 20 years              |
+| Half-orc | 7 years           | +1d6                         | +2d3           | 14 years              |
+| Halfling | 10 years          | +1d6                         | +2d4           | 20 years              |
 
 <sup>1</sup> During youth, +2 Dex; –2 to Str, Con, and Wis.
 <sup>2</sup> At adulthood, ability score adjustments for young age are lost.

@@ -26,12 +26,12 @@ The only being who seems to have any control over the flow of the Sands of Time 
 
 **Seasons:** The Sands of Time are largely unaffected by the changing of the seasons. The winters find the nights dry and near freezing, while the summers are immensely hot and dehydrating. Even the more moderate seasons of spring and autumn are extremely hot in this wondrous desert.
 
-***Legends & Lore***
+**_Legends & Lore_**
 
-*Common:* The desert sands constantly threaten to overtake the regions on which it borders.
+_Common:_ The desert sands constantly threaten to overtake the regions on which it borders.
 
-*Uncommon:* Mirages seen in the desert are not only due to hallucinations brought on by the heat, but also “time mirages” that reflect events that have happened, are happening, or have not yet happened. If an observer is extremely lucky, the mirages might relay information pertinent to them.
+_Uncommon:_ Mirages seen in the desert are not only due to hallucinations brought on by the heat, but also “time mirages” that reflect events that have happened, are happening, or have not yet happened. If an observer is extremely lucky, the mirages might relay information pertinent to them.
 
-*Rare:* The Sands of Time “desire” to have their depths explored. A person moving to the region must make a [[rangoric-srd/feats/Crossing Over|Crossing Over]] check or a Will save (DC 20). Once pulled into the Distant/Deep sands, travelers can be scattered by storms or by simply wandering too far (as much as 2d10 miles in a random direction).
+_Rare:_ The Sands of Time “desire” to have their depths explored. A person moving to the region must make a [[rangoric-srd/feats/Crossing Over|Crossing Over]] check or a Will save (DC 20). Once pulled into the Distant/Deep sands, travelers can be scattered by storms or by simply wandering too far (as much as 2d10 miles in a random direction).
 
-*Obscure:* Storms within the Sands of Time not only throw victims to other worlds on the material plane, but they can also scatter them to other times. This is a prime opportunity for a GM to manipulate the setting of a campaign, if that is desired.
+_Obscure:_ Storms within the Sands of Time not only throw victims to other worlds on the material plane, but they can also scatter them to other times. This is a prime opportunity for a GM to manipulate the setting of a campaign, if that is desired.

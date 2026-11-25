@@ -28,6 +28,6 @@ Psychokinesis
 **Range:** Personal  
 **Target:** You  
 **Duration:** 10 min./level  
-**Power Points:** 7  
+**Power Points:** 7
 
 You create a skin-tight psychokinetic barrier around yourself that resists blows, cuts, stabs, and slashes, as well as providing some protection against falling. You gain [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|damage reduction]] 5/-. Inertial barrier also absorbs half the damage you take from any fall.

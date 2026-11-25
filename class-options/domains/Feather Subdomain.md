@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Feather Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Animal Domain|Animal]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Animal Domain|Animal]] domain._
 
 Add [[rangoric-srd/skills/Acrobatics|Acrobatics]] to your list of class skills. In addition, whenever you cast a spell that grants you a fly speed, your maneuverability increases by one step (up to perfect).
 
@@ -29,8 +29,8 @@ This power replaces the [[rangoric-srd/class-options/domains/Animal Domain#Grant
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 2nd | [[rangoric-srd/spells/Feather Fall\|Feather Fall]] | Objects or creatures fall slowly. |
-| 3rd | [[rangoric-srd/spells/Fly\|Fly]] | Subject flies at speed of 60 ft. |
-| 6th | [[rangoric-srd/spells/Fly, Mass\|Mass Fly]] (F) | One creature/level gains ability to fly. |
+| Level | Spell                                              | Brief Description                        |
+| ----- | -------------------------------------------------- | ---------------------------------------- |
+| 2nd   | [[rangoric-srd/spells/Feather Fall\|Feather Fall]] | Objects or creatures fall slowly.        |
+| 3rd   | [[rangoric-srd/spells/Fly\|Fly]]                   | Subject flies at speed of 60 ft.         |
+| 6th   | [[rangoric-srd/spells/Fly, Mass\|Mass Fly]] (F)    | One creature/level gains ability to fly. |

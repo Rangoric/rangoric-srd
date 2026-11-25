@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Gathlain
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
-  - **Hit Dice**: 1d6+1 (7 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares), fly 40 ft. (poor)
-  - **Armor Class**: 17 (+3 Dex, +1 dodge, +2 natural, +1 size), touch 15, flat-footed 13
-  - **Base Attack**: +0; **CMB**: +0; **CMD**: 14
-  - **Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +2 melee (1d6+1/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +2 melee (1d6+1/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], bloodline arcana (+2 DC for compulsion spells)
-  - **Saves**: Fort +0, Ref +3, Will +1
-  - **Abilities**: Str 12, Dex 16, Con 11, Int 10, Wis 8, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +1, [[rangoric-srd/skills/Arcana|Arcana]] +4, [[rangoric-srd/skills/Mysticism|Mysticism]] +4
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]]
-  - **Environment**: Temperate forests or jungles
-  - **Organization**: Solitary, flight (2–6), or grove (2–12)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: NPC gear (spear, other treasure)
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
+- **Hit Dice**: 1d6+1 (7 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares), fly 40 ft. (poor)
+- **Armor Class**: 17 (+3 Dex, +1 dodge, +2 natural, +1 size), touch 15, flat-footed 13
+- **Base Attack**: +0; **CMB**: +0; **CMD**: 14
+- **Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +2 melee (1d6+1/×3)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Spear|Spear]] +2 melee (1d6+1/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: —
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], bloodline arcana (+2 DC for compulsion spells)
+- **Saves**: Fort +0, Ref +3, Will +1
+- **Abilities**: Str 12, Dex 16, Con 11, Int 10, Wis 8, Cha 17
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +1, [[rangoric-srd/skills/Arcana|Arcana]] +4, [[rangoric-srd/skills/Mysticism|Mysticism]] +4
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]]
+- **Environment**: Temperate forests or jungles
+- **Organization**: Solitary, flight (2–6), or grove (2–12)
+- **Challenge Rating**: 1/2
+- **Treasure**: NPC gear (spear, other treasure)
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 According to some fey ballads, gathlains were one of the first peoples awakened in the primal world of fey. They were created from the seeds of an enormous magical tree, with the tree's mistletoe grown into their flesh forming their strange wings.
 
@@ -77,10 +77,10 @@ Gathlains are defined by their class levels—they don't have racial Hit Dice. A
 
 **Natural Armor**: Gathlains have a +1 natural armor bonus.
 
-**Spell-Like Abilities**: 1/day—*[[rangoric-srd/spells/Entangle|entangle]]*, *[[rangoric-srd/spells/Feather Step|feather step]]* (caster level equals the gathlain's character level).
+**Spell-Like Abilities**: 1/day—_[[rangoric-srd/spells/Entangle|entangle]]_, _[[rangoric-srd/spells/Feather Step|feather step]]_ (caster level equals the gathlain's character level).
 
 **Languages**: Gathlains speak Common and Sylvan. A gathlain with a high Intelligence score can choose from the following languages: Draconic, Elven, Goblin, Halfling, and Orc.
 
 ### Combat
 
-**Sorcerer spells known** (CL 1st; concentration +4): 1st (4/day)—*[[rangoric-srd/spells/Color Spray|color spray]]* (DC 14), *[[rangoric-srd/spells/Magic Missile|magic missile]]*; 0 (at will)—*[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Daze|daze]]* (DC 15), *[[rangoric-srd/spells/Ghost Sound|ghost sound]]* (DC 13), *[[rangoric-srd/spells/Ray of Frost|ray of frost]]*; **Bloodline** fey.
+**Sorcerer spells known** (CL 1st; concentration +4): 1st (4/day)—_[[rangoric-srd/spells/Color Spray|color spray]]_ (DC 14), _[[rangoric-srd/spells/Magic Missile|magic missile]]_; 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Daze|daze]]_ (DC 15), _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 13), _[[rangoric-srd/spells/Ray of Frost|ray of frost]]_; **Bloodline** fey.

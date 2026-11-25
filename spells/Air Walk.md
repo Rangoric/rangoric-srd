@@ -31,16 +31,16 @@ tags: [rangoric, rangoric/spell]
 
 # Air Walk
 
-*Transmutation \[Air\]*
+_Transmutation \[Air\]_
 
-  - **Level**: Air 4, Alc 4, Clr 4, Drd 4, Hun 4, Occ 4
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Creature (Gargantuan or smaller) touched
-  - **Duration**: 10 min./level
-  - **Saving Throw**: None
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Air 4, Alc 4, Clr 4, Drd 4, Hun 4, Occ 4
+- **Components**: V, S, DF
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Creature (Gargantuan or smaller) touched
+- **Duration**: 10 min./level
+- **Saving Throw**: None
+- **Spell Resistance**: Yes (harmless)
 
 The subject can tread on air as if walking on solid ground. Moving upward is similar to walking up a hill. The maximum upward or downward angle possible is 45 degrees, at a rate equal to one-half the air walker’s normal speed.
 

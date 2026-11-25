@@ -23,16 +23,16 @@ tags: [rangoric, rangoric/star]
 
 # Star of Death
 
-*[[rangoric-srd/rules/star magic/Star Magic|Star]]*
+_[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 
-  - **Call Level**: 1st ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
-  - **Aspect**: Ascendant in autumn, descendant in spring, on the horizon in summer and winter ([[rangoric-srd/rules/star magic/Star Magic#^seasons|seasons]])
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: 2 rounds + 1 round/level
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Call Level**: 1st ([[rangoric-srd/rules/star magic/Star Magic#^minimum-call-level|minimum]])
+- **Aspect**: Ascendant in autumn, descendant in spring, on the horizon in summer and winter ([[rangoric-srd/rules/star magic/Star Magic#^seasons|seasons]])
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: 2 rounds + 1 round/level
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
 The star's light falls on one creature. If it fails its save, it takes 3 points of damage per call level at the start of each of its turns until the star's duration ends. On a successful save it feels only a moment of dread.

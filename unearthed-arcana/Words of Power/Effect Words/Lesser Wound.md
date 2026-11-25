@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/word-of-power]
 
 # Lesser Wound
 
-*One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Wounding Words|Wounding group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]].*
+_One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Wounding Words|Wounding group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]]._
 
 **School** necromancy
 

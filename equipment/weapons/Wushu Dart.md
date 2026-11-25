@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/close, weapon-group/monk, weapon-
 
 # Wushu Dart
 
-*Martial light melee weapon (monk).* Cost 1 gp; Dmg 1d2 (S), 1d3 (M); Critical x2; Range Increment 10 ft.; Weight —; Type Piercing. ^stats
+_Martial light melee weapon (monk)._ Cost 1 gp; Dmg 1d2 (S), 1d3 (M); Critical x2; Range Increment 10 ft.; Weight —; Type Piercing. ^stats
 
 This sharpened wooden spike can be used as a punching weapon but it is perfectly balanced for throwing.
 

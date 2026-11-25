@@ -131,4 +131,4 @@ Large or larger creatures using reach weapons can strike up to double their natu
 | Colossal (tall)   | 30 ft.    | 30 ft.            |
 | Colossal (long)   | 30 ft.    | 20 ft.            |
 
-1 *These values are typical for creatures of the indicated size. Some exceptions exist.*
+1 _These values are typical for creatures of the indicated size. Some exceptions exist._

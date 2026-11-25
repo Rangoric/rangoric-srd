@@ -18,11 +18,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Enduring Earth
 
-*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+_A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]]._
 
-  - **Element**: [[rangoric-srd/class-options/elements/Earth Element|earth]]
-  - **Type**: utility (Su)
-  - **Level**: 4
-  - **Burn**: —
+- **Element**: [[rangoric-srd/class-options/elements/Earth Element|earth]]
+- **Type**: utility (Su)
+- **Level**: 4
+- **Burn**: —
 
 When using earth blasts, earth wild talents, or composite blasts that include earth, double the duration if it’s longer than 1 round.

@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/rules]
 
 # Background Generator Step 3
 
-*Step 3 of the [[rangoric-srd/unearthed-arcana/Character Background/Background Generator|Background Generator]].*
+_Step 3 of the [[rangoric-srd/unearthed-arcana/Character Background/Background Generator|Background Generator]]._
 
 ## Moral Conflicts, Relationships, and Drawbacks
 
@@ -40,7 +40,7 @@ When determining your conflict, you accumulate a number of Conflict Points (CP).
 **Table: Determining Alignment** ^determining-alignment
 
 | 1      | 2     | 3     | 4       | 5     | 6     | 7       | 8     | 9     |
-|--------|-------|-------|---------|-------|-------|---------|-------|-------|
+| ------ | ----- | ----- | ------- | ----- | ----- | ------- | ----- | ----- |
 | Lawful |       |       | Neutral |       |       | Chaotic |       |       |
 | **1**  | **2** | **3** | **4**   | **5** | **6** | **7**   | **8** | **9** |
 | Good   |       |       | Neutral |       |       | Evil    |       |       |
@@ -51,28 +51,28 @@ Begin by rolling on the Conflicts table. This table lists 20 conflicts, ranging 
 
 **Table: Conflicts**
 
-| d20 | Result                                                                                                                                     | CP  |
-|-----|--------------------------------------------------------------------------------------------------------------------------------------------|-----|
-| 1   | **Minor Failure**: You failed a friend, family member, or loved one who depended on you to fulfill an important task.                       | 1   |
-| 2   | **Petty Crime**: You committed a minor crime, like vandalism, trespassing, or mischief.                                                    | 1   |
-| 3   | **Told a Lie**: You deliberately made someone believe something that was not true to further your own goals.                               | 1   |
-| 4   | **Broke a Promise**: You swore an oath or vow that was important to someone else, but you did not keep your promise.                        | 1   |
-| 5   | **Humiliation**: You publicly humiliated or scandalized someone with either true or slanderous information.                                 | 2   |
-| 6   | **Negligence**: You caused someone else to suffer by your own inaction, disregard, or excessive recklessness.                               | 2   |
-| 7   | **Minor Theft**: You stole several small or inexpensive items that belonged to someone else.                                                | 2   |
+| d20 | Result                                                                                                                                       | CP  |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 1   | **Minor Failure**: You failed a friend, family member, or loved one who depended on you to fulfill an important task.                        | 1   |
+| 2   | **Petty Crime**: You committed a minor crime, like vandalism, trespassing, or mischief.                                                      | 1   |
+| 3   | **Told a Lie**: You deliberately made someone believe something that was not true to further your own goals.                                 | 1   |
+| 4   | **Broke a Promise**: You swore an oath or vow that was important to someone else, but you did not keep your promise.                         | 1   |
+| 5   | **Humiliation**: You publicly humiliated or scandalized someone with either true or slanderous information.                                  | 2   |
+| 6   | **Negligence**: You caused someone else to suffer by your own inaction, disregard, or excessive recklessness.                                | 2   |
+| 7   | **Minor Theft**: You stole several small or inexpensive items that belonged to someone else.                                                 | 2   |
 | 8   | **Seducer**: You tempted or manipulated someone to act in accordance with your whim, careless of whether it was in their own best interests. | 3   |
-| 9   | **Cheater**: You broke a rule, law, contract, or agreement for your own gain.                                                              | 3   |
-| 10  | **Betrayal**: You betrayed someone who trusted you.                                                                                        | 4   |
-| 11  | **Malign Associates**: You allied with a destructive creature, organization, or individual.                                                | 4   |
-| 12  | **Destroyed a Reputation**: You deliberately ruined the honor, reputation, or fortunes of another individual or group.                      | 5   |
-| 13  | **Major Theft**: You stole expensive items.                                                                                                | 5   |
-| 14  | **Corrupted an Innocent**: You counseled an otherwise innocent person who trusted you toward adverse choices.                              | 6   |
-| 15  | **Blackmailed**: You used sensitive knowledge or threats to force someone's cooperation.                                                   | 6   |
-| 16  | **Destruction**: You destroyed someone else's property.                                                                                    | 6   |
-| 17  | **Armed Robbery**: You robbed someone with the threat of violence.                                                                         | 6   |
-| 18  | **Violent Crime**: You beat, assaulted, or mutilated someone.                                                                              | 7   |
-| 19  | **Murder**: You killed someone.                                                                                                            | 8   |
-| 20  | **Mass Murder**: You killed several sentient beings.                                                                                    | 12  |
+| 9   | **Cheater**: You broke a rule, law, contract, or agreement for your own gain.                                                                | 3   |
+| 10  | **Betrayal**: You betrayed someone who trusted you.                                                                                          | 4   |
+| 11  | **Malign Associates**: You allied with a destructive creature, organization, or individual.                                                  | 4   |
+| 12  | **Destroyed a Reputation**: You deliberately ruined the honor, reputation, or fortunes of another individual or group.                       | 5   |
+| 13  | **Major Theft**: You stole expensive items.                                                                                                  | 5   |
+| 14  | **Corrupted an Innocent**: You counseled an otherwise innocent person who trusted you toward adverse choices.                                | 6   |
+| 15  | **Blackmailed**: You used sensitive knowledge or threats to force someone's cooperation.                                                     | 6   |
+| 16  | **Destruction**: You destroyed someone else's property.                                                                                      | 6   |
+| 17  | **Armed Robbery**: You robbed someone with the threat of violence.                                                                           | 6   |
+| 18  | **Violent Crime**: You beat, assaulted, or mutilated someone.                                                                                | 7   |
+| 19  | **Murder**: You killed someone.                                                                                                              | 8   |
+| 20  | **Mass Murder**: You killed several sentient beings.                                                                                         | 12  |
 
 ## Conflict Subject
 
@@ -81,7 +81,7 @@ To determine the key person (or people) involved in the conflict, roll on the ta
 **Table: Conflict Subject**
 
 | d20 | Result                                                                                  |
-|-----|-----------------------------------------------------------------------------------------|
+| --- | --------------------------------------------------------------------------------------- |
 | 1   | Commoner                                                                                |
 | 2   | Merchant                                                                                |
 | 3   | Tradesperson                                                                            |
@@ -110,7 +110,7 @@ To determine the source of your motivation for the conflict, roll on the table b
 **Table: Motivation**
 
 | d10 | Result                     | CP  |
-|-----|----------------------------|-----|
+| --- | -------------------------- | --- |
 | 1   | Justice                    | 1   |
 | 2   | Love                       | 1   |
 | 3   | Pressured or Manipulated   | 2   |
@@ -147,7 +147,7 @@ If you have the Criminal social trait, roll on [[#^crime|Table: Crime]] to deter
 **Table: Crime** ^crime
 
 | d%     | Crime                         |
-|--------|-------------------------------|
+| ------ | ----------------------------- |
 | 01–10  | Adultery                      |
 | 11–20  | Arson                         |
 | 21–30  | Burglary                      |
@@ -162,7 +162,7 @@ If you have the Criminal social trait, roll on [[#^crime|Table: Crime]] to deter
 **Table: Punishment** ^punishment
 
 | d%     | Punishment      |
-|--------|-----------------|
+| ------ | --------------- |
 | 01–10  | Beating         |
 | 11–20  | Branding        |
 | 21–30  | Exile           |
@@ -189,7 +189,7 @@ Roll on the table below to determine the kinds of romantic relationships you hav
 **Table: Romantic Relationships**
 
 | d20   | Result                                                                                                                                            |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1–2   | **One Significant Relationship**: You had a true love once, but that time has passed.                                                             |
 | 3–6   | **A Few Significant Relationships**: You've tried to make deep connections with individuals on several occasions, but it's never worked out.      |
 | 7–9   | **Several Significant Relationships**: You've engaged in a number of partnerships, but for some reason or another your relationships always fail. |
@@ -209,7 +209,7 @@ If you end up with a result that makes no sense or isn't possible, reroll or jus
 **Table: Relationship with Fellow Adventurers**
 
 | d%     | Result                                                                                           |
-|--------|--------------------------------------------------------------------------------------------------|
+| ------ | ------------------------------------------------------------------------------------------------ |
 | 01–05  | Family or close as family—close friends, close/distant relatives, relatives by marriage/adoption |
 | 06–10  | Friend of a friend                                                                               |
 | 11–15  | Tavern buddies                                                                                   |
@@ -240,7 +240,7 @@ Discuss with the GM the details of this drawback, such as what the attachment is
 **Table: Character Drawback**
 
 | d%     | Result                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 01–05  | **Attachment (Object):** You are attached to a precious possession with immense sentimental value and significance. Without it, you are no longer yourself and are prone to suffer from depression, moodiness, or aggressive behavior. You gain access to the Attached drawback.                                                                                                                                                                 |
 | 06–10  | **Attachment (Person)**: You are attached to a particular person—a friend, family member, or loved one—who means more than anything or anyone in the world. Your thoughts always return to this person. You gain access to the Attached drawback.                                                                                                                                                                                                |
 | 11–15  | **Family**: Your family means everything to you, and there is nothing you wouldn't do for them. Maybe your ties extend to your entire clan or bloodline, or perhaps there is one specific member of your family you hold closer than any other. You gain access to the Family Ties drawback.                                                                                                                                                     |

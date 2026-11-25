@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 
 # Quadrens
 
-*Exotic light melee weapon (performance).* Cost 8 gp; Dmg 1d4 (S), 1d6 (M); Critical 19–20/x2; Weight 2 lb.; Type Piercing. ^stats
+_Exotic light melee weapon (performance)._ Cost 8 gp; Dmg 1d4 (S), 1d6 (M); Critical 19–20/x2; Weight 2 lb.; Type Piercing. ^stats
 
 A quadrens looks like a dagger, but with four spikes mounted in a square pattern in place of a blade. When you score a critical hit with a quadrens, the resulting gaping wound causes 1 point of [[rangoric-srd/rules/Special Abilities and Conditions#^bleed|bleed]] damage.
 

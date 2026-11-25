@@ -40,25 +40,25 @@ tags: [rangoric, rangoric/monster]
 
 # Seven-Headed Hydra
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 7d10+35 (73 hp)
-  - **Initiative**: +1
-  - **Speed**: 20 ft. (4 squares), swim 20 ft.
-  - **Armor Class**: 17 (+1 Dex, +8 natural, –2 size), touch 9, flat-footed 16
-  - **Base Attack**: +7; **CMB**: +12; **CMD**: 23 (can't be tripped)
-  - **Attack**: Bite +8 melee (1d8+3)
-  - **Full Attack**: 7 bites +8 melee (1d8+3)
-  - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 7, [[rangoric-srd/monsters/abilities/Hydra Traits|hydra traits]], [[rangoric-srd/monsters/abilities/Regenerate Head|regenerate head]]
-  - **Saves**: Fort +9, Ref +8, Will +4
-  - **Abilities**: Str 17, Dex 12, Con 18, Int 2, Wis 11, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +12
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Temperate marshes (pyrohydra: warm marshes, deserts or volcanic mountains; cryohydra: cold marshes or glaciers)
-  - **Organization**: Solitary
-  - **Challenge Rating**: 6 (normal); 8 (pyro- or cryo-)
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 7d10+35 (73 hp)
+- **Initiative**: +1
+- **Speed**: 20 ft. (4 squares), swim 20 ft.
+- **Armor Class**: 17 (+1 Dex, +8 natural, –2 size), touch 9, flat-footed 16
+- **Base Attack**: +7; **CMB**: +12; **CMD**: 23 (can't be tripped)
+- **Attack**: Bite +8 melee (1d8+3)
+- **Full Attack**: 7 bites +8 melee (1d8+3)
+- **Space/Reach**: 15 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 7, [[rangoric-srd/monsters/abilities/Hydra Traits|hydra traits]], [[rangoric-srd/monsters/abilities/Regenerate Head|regenerate head]]
+- **Saves**: Fort +9, Ref +8, Will +4
+- **Abilities**: Str 17, Dex 12, Con 18, Int 2, Wis 11, Cha 9
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +12
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Temperate marshes (pyrohydra: warm marshes, deserts or volcanic mountains; cryohydra: cold marshes or glaciers)
+- **Organization**: Solitary
+- **Challenge Rating**: 6 (normal); 8 (pyro- or cryo-)
+- **Treasure**: Standard
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —

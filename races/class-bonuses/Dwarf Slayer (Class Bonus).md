@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/class-bonus]
 
 # Dwarf Slayer
 
-*A [[rangoric-srd/races/Dwarf|dwarf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Slayer#^slayer-class-bonuses|slayer]] level.*
+_A [[rangoric-srd/races/Dwarf|dwarf]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Slayer#^slayer-class-bonuses|slayer]] level._
 
 Gain a +1/3 bonus on [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] checks and on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks when underground. If the slayer has a +1 bonus on Dungeoneering checks from this ability, he is also considered trained in that skill.

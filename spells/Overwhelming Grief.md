@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Overwhelming Grief
 
-*Enchantment (Compulsion) \[Emotion, Mind-affecting\]*
+_Enchantment (Compulsion) \[Emotion, Mind-affecting\]_
 
-  - **Level**: Brd 3, Mes 3, Psy 4, Skd 3, Sor/Wiz 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: 1 round/level
-  - **Saving Throw**: Will negates (see text)
-  - **Spell Resistance**: Yes
+- **Level**: Brd 3, Mes 3, Psy 4, Skd 3, Sor/Wiz 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: 1 round/level
+- **Saving Throw**: Will negates (see text)
+- **Spell Resistance**: Yes
 
 You cause a single opponent to become profoundly stricken with intense grief. He can take no actions, takes a –2 penalty to Armor Class, and loses his Dexterity bonus (if any). He can attempt a new save each round to break the spell's effect.

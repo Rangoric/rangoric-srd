@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Focused Sunder
 
-You can sense the stress points on others’ weapons.  
+You can sense the stress points on others’ weapons.
 
 Prerequisite: Str 13, [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]].
 

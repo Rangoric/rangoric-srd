@@ -12,11 +12,11 @@ tags: [rangoric, rangoric/monster]
 
 # Astral Construct
 
-Astral Constructs are brought into being by the metacreativity power [[rangoric-srd/powers/Astral Construct (Power)|astral construct]]. They are formed from raw ectoplasm (a portion of the astral medium drawn into the Material Plane). The power points spent by the Construct’s creator during the manifestation of the power determine the level of the astral Construct created. However, even astral Constructs of the same level vary somewhat from each other, depending on the whims of their creators.  
+Astral Constructs are brought into being by the metacreativity power [[rangoric-srd/powers/Astral Construct (Power)|astral construct]]. They are formed from raw ectoplasm (a portion of the astral medium drawn into the Material Plane). The power points spent by the Construct’s creator during the manifestation of the power determine the level of the astral Construct created. However, even astral Constructs of the same level vary somewhat from each other, depending on the whims of their creators.
 
 ### Combat
 
-Astral Constructs act as directed by their creators. As a free action, a Construct’s manifester can direct the Construct to attack particular enemies, use specific tactics or powers, perform other actions, or do nothing at all. The Construct does exactly what its creator directs it to do.  
+Astral Constructs act as directed by their creators. As a free action, a Construct’s manifester can direct the Construct to attack particular enemies, use specific tactics or powers, perform other actions, or do nothing at all. The Construct does exactly what its creator directs it to do.
 
 An astral Construct generally appears as an animate clump of ectoplasm with a vaguely Humanoid shape, but the manifester can mold or sculpt one according to his or her whim within the limits imposed by the creature’s size. The quality of such “Construct sculpture” is determined by a [[rangoric-srd/skills/Craft|Craft]] (sculpting) check. A result of 10 to 19 creates a creature that is recognizably similar to the desired creature shape; a result of 20 to 29 creates a construct that looks like an accurate portrayal of that creature type; a result of 30 or higher creates a construct that looks like a specific individual. No matter how high the Craft (sculpting) check result, though, an astral construct’s appearance can’t hide the otherworldly material from which it is formed.
 
@@ -26,7 +26,7 @@ Special Abilities: Every time an astral construct is created, the manifester can
 
 ### Creating an Astral Construct
 
-When manifesting the astral construct power, the manifester assembles the desired creature from a menu of choices, as specified in the construct’s statistics block. A manifester can always substitute two choices from a lesser menu for one of its given abilities. Multiple selections of the same menu choice do not stack unless the ability specifically notes that stacking is allowed.  
+When manifesting the astral construct power, the manifester assembles the desired creature from a menu of choices, as specified in the construct’s statistics block. A manifester can always substitute two choices from a lesser menu for one of its given abilities. Multiple selections of the same menu choice do not stack unless the ability specifically notes that stacking is allowed.
 
 Some menu choices grant an astral construct the ability to manifest specific powers as psi-like abilities. Unless using the ability is a free action, an astral construct manifesting such a power does so as a standard action that provokes attacks of opportunity. All such powers have a manifester level equal to the astral construct’s Hit Dice or the creator’s manifester level, whichever is lower.
 
@@ -34,7 +34,7 @@ An astral construct does not need to meet the prerequisites for a feat granted b
 
 #### Astral Construct Menu A
 
-A manifester creating a 1st-level, 2nd-level, or 3rd-level astral construct can choose one special ability from this menu.  
+A manifester creating a 1st-level, 2nd-level, or 3rd-level astral construct can choose one special ability from this menu.
 
 Buff (Ex): The astral construct gains an extra 5 hit points.
 
@@ -62,7 +62,7 @@ Trip (Ex): If the astral construct hits with a slam attack, it can attempt to tr
 
 #### Astral Construct Menu B
 
-A manifester creating a 4th-level, 5th-level, or 6th-level astral construct can choose one special ability from this menu. AlterNatively, the Construct can have two special abilities from Menu A.  
+A manifester creating a 4th-level, 5th-level, or 6th-level astral construct can choose one special ability from this menu. AlterNatively, the Construct can have two special abilities from Menu A.
 
 Energy Touch (Ex): If you are a kineticist with the [[rangoric-srd/feats/Expanded Knowledge|Expanded Knowledge]] feat tied to this power, the astral construct’s physical attacks are wreathed in your energy type of your choice (acid, cold, electricity, or fire), dealing an extra 1d6 points of energy damage. Otherwise, the astral concstruct deals an extra 1d4 points of damage of an energy type of your choice (acid, cold, electricity, or fire).
 
@@ -96,7 +96,7 @@ Trample (Ex): As a standard action during its turn each round, a Large or larger
 
 #### Astral Construct Menu C
 
-A manifester creating a 7th-level, 8th-level, or 9th-level astral Construct can choose one special ability from this menu. AlterNatively, the astral Construct can have two special abilities from Menu B. (One or both of the Menu B choices can be swapped for two choices from Menu A.)  
+A manifester creating a 7th-level, 8th-level, or 9th-level astral Construct can choose one special ability from this menu. AlterNatively, the astral Construct can have two special abilities from Menu B. (One or both of the Menu B choices can be swapped for two choices from Menu A.)
 
 Blindsight (Ex): The astral construct has [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] out to 60 feet.
 
@@ -124,13 +124,12 @@ Spring Attack (Ex): The astral construct gains the [[rangoric-srd/feats/Spring A
 
 Whirlwind Attack (Ex): The astral construct gains the [[rangoric-srd/feats/Whirlwind Attack|Whirlwind Attack]] feat.
 
-  - [[rangoric-srd/monsters/astral-construct/1st-Level Astral Construct|1st-Level Astral Construct]]
-  - [[rangoric-srd/monsters/astral-construct/2nd-Level Astral Construct|2nd-Level Astral Construct]]
-  - [[rangoric-srd/monsters/astral-construct/3rd-Level Astral Construct|3rd-Level Astral Construct]]
-  - [[rangoric-srd/monsters/astral-construct/4th-Level Astral Construct|4th-Level Astral Construct]]
-  - [[rangoric-srd/monsters/astral-construct/5th-Level Astral Construct|5th-Level Astral Construct]]
-  - [[rangoric-srd/monsters/astral-construct/6th-Level Astral Construct|6th-Level Astral Construct]]
-  - [[rangoric-srd/monsters/astral-construct/7th-Level Astral Construct|7th-Level Astral Construct]]
-  - [[rangoric-srd/monsters/astral-construct/8th-Level Astral Construct|8th-Level Astral Construct]]
-  - [[rangoric-srd/monsters/astral-construct/9th-Level Astral Construct|9th-Level Astral Construct]]
-
+- [[rangoric-srd/monsters/astral-construct/1st-Level Astral Construct|1st-Level Astral Construct]]
+- [[rangoric-srd/monsters/astral-construct/2nd-Level Astral Construct|2nd-Level Astral Construct]]
+- [[rangoric-srd/monsters/astral-construct/3rd-Level Astral Construct|3rd-Level Astral Construct]]
+- [[rangoric-srd/monsters/astral-construct/4th-Level Astral Construct|4th-Level Astral Construct]]
+- [[rangoric-srd/monsters/astral-construct/5th-Level Astral Construct|5th-Level Astral Construct]]
+- [[rangoric-srd/monsters/astral-construct/6th-Level Astral Construct|6th-Level Astral Construct]]
+- [[rangoric-srd/monsters/astral-construct/7th-Level Astral Construct|7th-Level Astral Construct]]
+- [[rangoric-srd/monsters/astral-construct/8th-Level Astral Construct|8th-Level Astral Construct]]
+- [[rangoric-srd/monsters/astral-construct/9th-Level Astral Construct|9th-Level Astral Construct]]

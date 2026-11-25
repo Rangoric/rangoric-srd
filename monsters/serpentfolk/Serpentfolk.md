@@ -39,37 +39,37 @@ tags: [rangoric, rangoric/monster]
 
 # Serpentfolk
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
-  - **Hit Dice**: 5d10+15 (42 hp)
-  - **Initiative**: +9
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 18 (+5 Dex, +3 natural), touch 15, flat-footed 13
-  - **Base Attack**: +5; **CMB**: +4; **CMD**: 19
-  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +11 melee (1d4–1/19–20) or bite +10 melee (1d6–1 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +11 melee (1d4–1/19–20) and bite +5 melee (1d6–1 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., immunity to mind-affecting effects, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and poison, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 15
-  - **Saves**: Fort +6, Ref +9, Will +6
-  - **Abilities**: Str 8, Dex 21, Con 17, Int 18, Wis 15, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Emulation|Emulation]] +12, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +18, [[rangoric-srd/skills/Imitation|Imitation]] +8, [[rangoric-srd/skills/Mysticism|Mysticism]] +9, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7
-  - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Any land (usually jungles or underground)
-  - **Organization**: Solitary, pair, or cult (3–12)
-  - **Challenge Rating**: 4
-  - **Treasure**: NPC gear (masterwork dagger, other treasure)
-  - **Alignment**: Usually neutral evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
+- **Hit Dice**: 5d10+15 (42 hp)
+- **Initiative**: +9
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 18 (+5 Dex, +3 natural), touch 15, flat-footed 13
+- **Base Attack**: +5; **CMB**: +4; **CMD**: 19
+- **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +11 melee (1d4–1/19–20) or bite +10 melee (1d6–1 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +11 melee (1d4–1/19–20) and bite +5 melee (1d6–1 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., immunity to mind-affecting effects, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and poison, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 15
+- **Saves**: Fort +6, Ref +9, Will +6
+- **Abilities**: Str 8, Dex 21, Con 17, Int 18, Wis 15, Cha 16
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Emulation|Emulation]] +12, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +18, [[rangoric-srd/skills/Imitation|Imitation]] +8, [[rangoric-srd/skills/Mysticism|Mysticism]] +9, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7
+- **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Any land (usually jungles or underground)
+- **Organization**: Solitary, pair, or cult (3–12)
+- **Challenge Rating**: 4
+- **Treasure**: NPC gear (masterwork dagger, other treasure)
+- **Alignment**: Usually neutral evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 **Also in this entry:**
 
-  - [[rangoric-srd/monsters/serpentfolk/Serpentfolk Spy|Serpentfolk Spy]] (CR 5)
-  - [[rangoric-srd/monsters/serpentfolk/Serpentfolk Hunter|Serpentfolk Hunter]] (CR 6)
-  - [[rangoric-srd/monsters/serpentfolk/Serpentfolk Illusionist|Serpentfolk Illusionist]] (CR 8)
-  - [[rangoric-srd/monsters/serpentfolk/Serpentfolk Bone Prophet|Serpentfolk Bone Prophet]] (CR 11)
-  - [[rangoric-srd/monsters/serpentfolk/Serpentfolk Spellblade|Serpentfolk Spellblade]] (CR 13)
-  - [[rangoric-srd/monsters/serpentfolk/Serpentfolk High Priest|Serpentfolk High Priest]] (CR 14)
+- [[rangoric-srd/monsters/serpentfolk/Serpentfolk Spy|Serpentfolk Spy]] (CR 5)
+- [[rangoric-srd/monsters/serpentfolk/Serpentfolk Hunter|Serpentfolk Hunter]] (CR 6)
+- [[rangoric-srd/monsters/serpentfolk/Serpentfolk Illusionist|Serpentfolk Illusionist]] (CR 8)
+- [[rangoric-srd/monsters/serpentfolk/Serpentfolk Bone Prophet|Serpentfolk Bone Prophet]] (CR 11)
+- [[rangoric-srd/monsters/serpentfolk/Serpentfolk Spellblade|Serpentfolk Spellblade]] (CR 13)
+- [[rangoric-srd/monsters/serpentfolk/Serpentfolk High Priest|Serpentfolk High Priest]] (CR 14)
 
 To the serpentfolk, the pursuit of knowledge and magic is the highest goal. Their legends speak of how humanity rose to power only through the theft of serpent magic, a legend that may form the basis of the hatred toward humanity most serpentfolk harbor. They view themselves as the undisputed masters of magic, be it arcane or divine. Yet despite this, the majority of serpentfolk today are degenerates who have devolved to the point of primeval savagery and have lost much of their magical legacy—more civilized serpentfolk generally regard these degenerates with shame and disdain.
 
@@ -93,15 +93,15 @@ Within their own culture, purecaste serpentfolk keep to themselves; each lives a
 
 Purecaste serpentfolk value sensual experiences and intellectual challenges. They delight in taking that which they desire, and often challenge one another to duels or gamble their prized slaves through deadly games as a form of entertainment.
 
-**A Snake Reskinned**: At the height of their conflict with humanity, the serpentfolk developed an especially devious technique for cloaking their agents in impenetrable disguises to assist them in infiltrating the enemy. By enduring a bath of alchemical oils in specially prepared incubation tanks, serpentfolk volunteers would engage in a form of ritual suicide that sheds their skins and grants a form made of human flesh. This irreversible process only works on purecaste serpentfolk, and functions as *[[rangoric-srd/spells/Reincarnate|reincarnate]]* with the shape of the new body specifically chosen to be human rather than determined randomly. These “reborn” serpentfolk then insinuate themselves into human society, acting as sleeper agents and spies to enable the growth and success of the serpentfolk empire.
+**A Snake Reskinned**: At the height of their conflict with humanity, the serpentfolk developed an especially devious technique for cloaking their agents in impenetrable disguises to assist them in infiltrating the enemy. By enduring a bath of alchemical oils in specially prepared incubation tanks, serpentfolk volunteers would engage in a form of ritual suicide that sheds their skins and grants a form made of human flesh. This irreversible process only works on purecaste serpentfolk, and functions as _[[rangoric-srd/spells/Reincarnate|reincarnate]]_ with the shape of the new body specifically chosen to be human rather than determined randomly. These “reborn” serpentfolk then insinuate themselves into human society, acting as sleeper agents and spies to enable the growth and success of the serpentfolk empire.
 
-Survivors of this ritual always retain the serpentfolk intellect, including the serpentfolk's racial bonuses to Intelligence, Wisdom, and Charisma, as well as their spell-like abilities, telepathy, and immunity to mind-affecting effects. The recipient's Strength, Dexterity, and Constitution scores change according to its new race (human) as described in the *[[rangoric-srd/spells/Reincarnate|reincarnate]]* spell. Although they resemble humans, these reborn serpentfolk are not fertile except with other serpentfolk, and a careful examination of internal organs of one of these creatures reveals its inhuman nature.
+Survivors of this ritual always retain the serpentfolk intellect, including the serpentfolk's racial bonuses to Intelligence, Wisdom, and Charisma, as well as their spell-like abilities, telepathy, and immunity to mind-affecting effects. The recipient's Strength, Dexterity, and Constitution scores change according to its new race (human) as described in the _[[rangoric-srd/spells/Reincarnate|reincarnate]]_ spell. Although they resemble humans, these reborn serpentfolk are not fertile except with other serpentfolk, and a careful examination of internal organs of one of these creatures reveals its inhuman nature.
 
 **Advanced Serpentfolk**: When a serpentfolk gains class levels, several of its abilities increase as well, as detailed below.
 
 - Spell Resistance equals total Hit Dice + 10.
 - Poison bite save DC equals 10 + Con modifier + 1/2 total Hit Dice.
-- When it is 4th level in any class combination, it gains two spell-like abilities usable once per day each: *[[rangoric-srd/spells/Dominate Person|dominate person]]* and *[[rangoric-srd/spells/Major Image|major image]]*. When it reaches 9th level in any combination, it gains two more usable once per day each: *[[rangoric-srd/spells/Suggestion, Mass|mass suggestion]]* and *[[rangoric-srd/spells/Teleport|teleport]]*.
+- When it is 4th level in any class combination, it gains two spell-like abilities usable once per day each: _[[rangoric-srd/spells/Dominate Person|dominate person]]_ and _[[rangoric-srd/spells/Major Image|major image]]_. When it reaches 9th level in any combination, it gains two more usable once per day each: _[[rangoric-srd/spells/Suggestion, Mass|mass suggestion]]_ and _[[rangoric-srd/spells/Teleport|teleport]]_.
 - A serpentfolk's racial ability score modifiers are as follows: Str –2, Dex +10, Con +6, Int +8, Wis +4, Cha +6.
 
 **Degenerate Serpentfolk**: Degenerate serpentfolk possess the same statistics as normal serpentfolk, save for the following adjustments.
@@ -115,6 +115,6 @@ Serpentfolk speak Aklo, Common, Draconic, and Undercommon.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +7): At will—*[[rangoric-srd/spells/Disguise Self|disguise self]]* (humanoid form only, DC 14), *[[rangoric-srd/spells/Ventriloquism|ventriloquism]]*; 1/day—*[[rangoric-srd/spells/Blur|blur]]*, *[[rangoric-srd/spells/Mirror Image|mirror image]]*, *[[rangoric-srd/spells/Suggestion|suggestion]]* (DC 16).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +7): At will—_[[rangoric-srd/spells/Disguise Self|disguise self]]_ (humanoid form only, DC 14), _[[rangoric-srd/spells/Ventriloquism|ventriloquism]]_; 1/day—_[[rangoric-srd/spells/Blur|blur]]_, _[[rangoric-srd/spells/Mirror Image|mirror image]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 16).
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Serpentfolk Venom|Serpentfolk Venom]]: Bite—injury; *save* Fort DC 25; *frequency* 1/round for 6 rounds; *effect* 1d2 Str; *cure* 2 saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Serpentfolk Venom|Serpentfolk Venom]]: Bite—injury; _save_ Fort DC 25; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Str; _cure_ 2 saves. The save DC is Constitution-based.

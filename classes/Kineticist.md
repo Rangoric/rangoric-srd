@@ -43,28 +43,28 @@ The kineticist’s class skills (and the key ability for each skill) are [[rango
 
 **Table: The Kineticist** ^table-the-kineticist
 
-| Level | Special |
-| --- | --- |
-| 1st | Burn, elemental focus, gather power, infusion, kinetic blast |
-| 2nd | Elemental defense, utility wild talent |
-| 3rd | Elemental overflow +1, infusion |
-| 4th | Utility wild talent |
-| 5th | Infusion, infusion specialization 1, metakinesis (empower) |
-| 6th | Elemental overflow +2, internal buffer 1, utility wild talent |
-| 7th | Expanded element |
-| 8th | Infusion specialization 2, utility wild talent |
-| 9th | Elemental overflow +3, infusion, metakinesis (maximize) |
-| 10th | Utility wild talent |
-| 11th | Infusion, infusion specialization 3, internal buffer 2, supercharge |
-| 12th | Elemental overflow +4, utility wild talent |
-| 13th | Infusion, metakinesis (quicken) |
-| 14th | Infusion specialization 4, utility wild talent |
-| 15th | Expanded element, elemental overflow +5 |
-| 16th | Composite specialization, internal buffer 3, utility wild talent |
-| 17th | Infusion, infusion specialization 5, metakinesis (twice) |
-| 18th | Elemental overflow +6, utility wild talent |
-| 19th | Infusion, metakinetic master |
-| 20th | Infusion specialization 6, omnikinesis, utility wild talent |
+| Level | Special                                                             |
+| ----- | ------------------------------------------------------------------- |
+| 1st   | Burn, elemental focus, gather power, infusion, kinetic blast        |
+| 2nd   | Elemental defense, utility wild talent                              |
+| 3rd   | Elemental overflow +1, infusion                                     |
+| 4th   | Utility wild talent                                                 |
+| 5th   | Infusion, infusion specialization 1, metakinesis (empower)          |
+| 6th   | Elemental overflow +2, internal buffer 1, utility wild talent       |
+| 7th   | Expanded element                                                    |
+| 8th   | Infusion specialization 2, utility wild talent                      |
+| 9th   | Elemental overflow +3, infusion, metakinesis (maximize)             |
+| 10th  | Utility wild talent                                                 |
+| 11th  | Infusion, infusion specialization 3, internal buffer 2, supercharge |
+| 12th  | Elemental overflow +4, utility wild talent                          |
+| 13th  | Infusion, metakinesis (quicken)                                     |
+| 14th  | Infusion specialization 4, utility wild talent                      |
+| 15th  | Expanded element, elemental overflow +5                             |
+| 16th  | Composite specialization, internal buffer 3, utility wild talent    |
+| 17th  | Infusion, infusion specialization 5, metakinesis (twice)            |
+| 18th  | Elemental overflow +6, utility wild talent                          |
+| 19th  | Infusion, metakinetic master                                        |
+| 20th  | Infusion specialization 6, omnikinesis, utility wild talent         |
 
 ###### Class Features
 

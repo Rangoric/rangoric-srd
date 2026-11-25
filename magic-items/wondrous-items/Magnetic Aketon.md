@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This magical aketon has iron filings sewn into the padding. The magnetic field can be activated as a free action, and all metal items the wearer is holding are immune. When worn without armor and activated, all attacks with metal weapons gain a +4 circumstance bonus to hit. When worn under a cloak and activated this item can be used to hold and store metallic items or used for [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] checks with metal objects (+2 circumstance bonus). To remove a Medium weapon or equivalent item requires a Strength check (DC 20). When donning metallic armor this item halves the donning time. Wearer still suffers from encumbrance penalties for items magnetized to the aketon.
 
-Moderate transmutation; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Telekinesis|telekinesis]]*; Price 5,000 gp.
+Moderate transmutation; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Telekinesis|telekinesis]]_; Price 5,000 gp.

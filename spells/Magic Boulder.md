@@ -20,10 +20,10 @@ tags: [rangoric, rangoric/spell]
 
 # Magic Boulder
 
-*Transmutation \[Earth\]*
+_Transmutation \[Earth\]_
 
-  - **Level**: Clr 2, Drd 2, Hun 2
-  - **Components**: 
-  - **Target**: Up to three boulders touched
+- **Level**: Clr 2, Drd 2, Hun 2
+- **Components**:
+- **Target**: Up to three boulders touched
 
-This spell works like *[[rangoric-srd/spells/Magic Stone|magic stone]]*, except you transmute as many as three boulders (rocks up to two size categories smaller than yourself) to use with the rock throwing ability or as [[rangoric-srd/rules/Siege Engines|siege engine]] ammunition. The boulder's damage increases by one step, and the boulder gains a +1 enhancement bonus on attack and damage rolls.
+This spell works like _[[rangoric-srd/spells/Magic Stone|magic stone]]_, except you transmute as many as three boulders (rocks up to two size categories smaller than yourself) to use with the rock throwing ability or as [[rangoric-srd/rules/Siege Engines|siege engine]] ammunition. The boulder's damage increases by one step, and the boulder gains a +1 enhancement bonus on attack and damage rolls.

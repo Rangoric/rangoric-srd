@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Improved Spell Resistance
 
-Prerequisite: Must have spell resistance from a feat, class feature, or other permanent effect.  
+Prerequisite: Must have spell resistance from a feat, class feature, or other permanent effect.
 
 Benefit: The character’s spell resistance increases by +2.
 

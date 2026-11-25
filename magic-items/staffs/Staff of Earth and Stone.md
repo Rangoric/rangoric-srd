@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/magic-item]
 
 This staff is topped with a fist-sized emerald that gleams with smoldering power. It allows the use of the following spells:
 
-  - [[rangoric-srd/spells/Passwall|Passwall]] (1 charge)
-  - [[rangoric-srd/spells/Move Earth|Move earth]] (1 charge)
+- [[rangoric-srd/spells/Passwall|Passwall]] (1 charge)
+- [[rangoric-srd/spells/Move Earth|Move earth]] (1 charge)
 
 Moderate transmutation; CL 11th; Craft Staff, move earth, passwall; Price 80,500 gp.

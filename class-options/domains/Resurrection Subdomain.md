@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Resurrection Subdomain
 
-*A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Healing Domain|Healing]] domain.*
+_A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [[rangoric-srd/class-options/domains/Healing Domain|Healing]] domain._
 
 ## Replacement Power
 
@@ -27,8 +27,8 @@ This power replaces the [[rangoric-srd/class-options/domains/Healing Domain#Gran
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell | Brief Description |
-| --- | --- | --- |
-| 5th | [[rangoric-srd/spells/Raise Dead\|Raise Dead]] (M) | Restores life to subject who died as long as one day/level ago. |
-| 7th | [[rangoric-srd/spells/Resurrection\|Resurrection]] | Fully restore dead subject. |
-| 9th | [[rangoric-srd/spells/True Resurrection\|True Resurrection]] | As resurrection, plus remains aren’t needed. |
+| Level | Spell                                                        | Brief Description                                               |
+| ----- | ------------------------------------------------------------ | --------------------------------------------------------------- |
+| 5th   | [[rangoric-srd/spells/Raise Dead\|Raise Dead]] (M)           | Restores life to subject who died as long as one day/level ago. |
+| 7th   | [[rangoric-srd/spells/Resurrection\|Resurrection]]           | Fully restore dead subject.                                     |
+| 9th   | [[rangoric-srd/spells/True Resurrection\|True Resurrection]] | As resurrection, plus remains aren’t needed.                    |

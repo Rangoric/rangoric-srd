@@ -27,19 +27,19 @@ tags: [rangoric, rangoric/spell]
 
 # Undead Anatomy II
 
-*Transmutation (Polymorph)*
+_Transmutation (Polymorph)_
 
-  - **Level**: Alc 5, Mag 5, Sor/Wiz 5, Spi 5
-  - **Components**: V, S, M (a piece of the creature whose form you plan to assume)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 minute/level (D)
+- **Level**: Alc 5, Mag 5, Sor/Wiz 5, Spi 5
+- **Components**: V, S, M (a piece of the creature whose form you plan to assume)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 minute/level (D)
 
-This spell functions as *[[rangoric-srd/spells/Undead Anatomy I|undead anatomy I]]*, except it also allows you to assume the form of a Tiny or Large corporeal creature of the undead type. If the form you assume has any of the following abilities, you gain the listed ability: climb 60 feet, fly 60 feet (good maneuverability), swim 60 feet, darkvision 60 feet, low-light vision, blood drain, DR 5/bludgeoning, scent, freeze, grab, mimicry, pounce, shadowless, sound mimicry, and trip.
+This spell functions as _[[rangoric-srd/spells/Undead Anatomy I|undead anatomy I]]_, except it also allows you to assume the form of a Tiny or Large corporeal creature of the undead type. If the form you assume has any of the following abilities, you gain the listed ability: climb 60 feet, fly 60 feet (good maneuverability), swim 60 feet, darkvision 60 feet, low-light vision, blood drain, DR 5/bludgeoning, scent, freeze, grab, mimicry, pounce, shadowless, sound mimicry, and trip.
 
 In this form, you gain a +4 bonus on saves against mind-affecting effects, disease, poison, sleep, and stunning. If the form has a vulnerability to an attack (such as sunlight), you gain that vulnerability.
 
-*Tiny undead*: If the form you take is that of a Tiny undead, you gain a +4 size bonus to your Dexterity, a –2 penalty to your Strength, and a +1 natural armor bonus.
+_Tiny undead_: If the form you take is that of a Tiny undead, you gain a +4 size bonus to your Dexterity, a –2 penalty to your Strength, and a +1 natural armor bonus.
 
-*Large undead*: If the form you take is that of a Large undead, you gain a +4 size bonus to your Strength, a –2 penalty to your Dexterity, and a +4 natural armor bonus.
+_Large undead_: If the form you take is that of a Large undead, you gain a +4 size bonus to your Strength, a –2 penalty to your Dexterity, and a +4 natural armor bonus.

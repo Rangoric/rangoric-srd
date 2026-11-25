@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Tranquil Guardian
 
-*A [[rangoric-srd/classes/Paladin#^paladin-archetypes|paladin]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Aasimar|aasimars]].*
+_A [[rangoric-srd/classes/Paladin#^paladin-archetypes|paladin]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Aasimar|aasimars]]._
 
 A tranquil guardian is a missionary of peace and tranquility, a soothing voice of succor in a violent and dangerous world. A tranquil guardian gains the following class features.
 
@@ -30,7 +30,7 @@ A tranquil guardian is a missionary of peace and tranquility, a soothing voice o
 
 **Serene Strike (Su)**: At 3rd level, when a tranquil guardian confirms a critical hit, she may convert all damage from her attack to nonlethal damage, and when she does, she can activate Touch of Serenity through her weapon or unarmed strike. Using serene strike is a free action. This ability replaces [[rangoric-srd/classes/Paladin#^paladin-aura-of-courage|aura of courage]].
 
-**Divine Bond (Su)**: A tranquil guardian who chooses a weapon as her [[rangoric-srd/classes/Paladin#^paladin-divine-bond|divine bond]] may only increase her weapon's enhancement bonus or add the following properties to her weapon: *[[rangoric-srd/magic-items/weapon-abilities/Conductive|conductive]]*, *[[rangoric-srd/magic-items/weapon-abilities/Defending|defending]]*, *[[rangoric-srd/magic-items/weapon-abilities/Disruption|disruption]]*, *[[rangoric-srd/magic-items/weapon-abilities/Grayflame|grayflame]]*, or *[[rangoric-srd/magic-items/weapon-abilities/Merciful|merciful]]*.
+**Divine Bond (Su)**: A tranquil guardian who chooses a weapon as her [[rangoric-srd/classes/Paladin#^paladin-divine-bond|divine bond]] may only increase her weapon's enhancement bonus or add the following properties to her weapon: _[[rangoric-srd/magic-items/weapon-abilities/Conductive|conductive]]_, _[[rangoric-srd/magic-items/weapon-abilities/Defending|defending]]_, _[[rangoric-srd/magic-items/weapon-abilities/Disruption|disruption]]_, _[[rangoric-srd/magic-items/weapon-abilities/Grayflame|grayflame]]_, or _[[rangoric-srd/magic-items/weapon-abilities/Merciful|merciful]]_.
 
 **Aura of Calm (Su)**: At 8th level, a tranquil guardian is immune to all spells and spell-like abilities with the emotion descriptor, as well as all [[rangoric-srd/rules/Special Abilities and Conditions#Fear|fear]] effects. Each ally within 10 feet of her gains a +4 morale bonus on saving throws against these effects.
 

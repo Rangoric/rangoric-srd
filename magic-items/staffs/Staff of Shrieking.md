@@ -23,8 +23,8 @@ tags: [rangoric, rangoric/magic-item]
 
 Holes in this metal shaft cause it to emit an eerie moan when swung through the air. It allows use of the following spells:
 
-- *[[rangoric-srd/spells/Shatter|shatter]]* (1 charge)
-- *[[rangoric-srd/spells/Sound Burst|sound burst]]* (1 charge)
-- *[[rangoric-srd/spells/Shout|shout]]* (2 charges)
+- _[[rangoric-srd/spells/Shatter|shatter]]_ (1 charge)
+- _[[rangoric-srd/spells/Sound Burst|sound burst]]_ (1 charge)
+- _[[rangoric-srd/spells/Shout|shout]]_ (2 charges)
 
-Moderate evocation; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Shatter|shatter]]*, *[[rangoric-srd/spells/Shout|shout]]*, *[[rangoric-srd/spells/Sound Burst|sound burst]]*; Price 36,000 gp; Cost 18,000 gp; Weight 5 lbs.
+Moderate evocation; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], _[[rangoric-srd/spells/Shatter|shatter]]_, _[[rangoric-srd/spells/Shout|shout]]_, _[[rangoric-srd/spells/Sound Burst|sound burst]]_; Price 36,000 gp; Cost 18,000 gp; Weight 5 lbs.

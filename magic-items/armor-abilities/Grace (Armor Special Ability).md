@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Grace
 
-Armor with this quality becomes more flexible. *Grace armor* adds +2 to the maximum dexterity bonus and lowers the armor check penalty by 3 to no less than zero.
+Armor with this quality becomes more flexible. _Grace armor_ adds +2 to the maximum dexterity bonus and lowers the armor check penalty by 3 to no less than zero.
 
-Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Cat’s Grace|cat’s grace]]*; Price +1 bonus.
+Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Cat’s Grace|cat’s grace]]_; Price +1 bonus.

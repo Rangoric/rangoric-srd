@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Roper
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 12d8+108 (162 hp)
-  - **Initiative**: +5
-  - **Speed**: 10 ft. (2 squares)
-  - **Armor Class**: 27 (+1 Dex, +17 natural, –1 size), touch 10, flat-footed 26
-  - **Base Attack**: +9; **CMB**: +22; **CMD**: 33 (can't be tripped)
-  - **Attack**: Strand +10 ranged touch (1d6 Strength) or bite +20 melee (4d8+18/19–20)
-  - **Full Attack**: 6 strands +10 ranged touch (1d6 Strength); or bite +20 melee (4d8+18/19–20)
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pull|Pull]] (strand, 5 feet), strands
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27, vulnerability to fire
-  - **Saves**: Fort +13, Ref +5, Will +13
-  - **Abilities**: Str 34, Dex 13, Con 29, Int 13, Wis 16, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +27, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +16, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Stealth|Stealth]] +18 (+26 in stony or icy areas), [[rangoric-srd/skills/Theology|Theology]] +13
-  - **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (strand)
-  - **Environment**: Any underground
-  - **Organization**: Solitary, pair, or cluster (3–6)
-  - **Challenge Rating**: 12
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: 11–15 HD (Large); 16–30 HD (Huge)
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 12d8+108 (162 hp)
+- **Initiative**: +5
+- **Speed**: 10 ft. (2 squares)
+- **Armor Class**: 27 (+1 Dex, +17 natural, –1 size), touch 10, flat-footed 26
+- **Base Attack**: +9; **CMB**: +22; **CMD**: 33 (can't be tripped)
+- **Attack**: Strand +10 ranged touch (1d6 Strength) or bite +20 melee (4d8+18/19–20)
+- **Full Attack**: 6 strands +10 ranged touch (1d6 Strength); or bite +20 melee (4d8+18/19–20)
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Pull|Pull]] (strand, 5 feet), strands
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27, vulnerability to fire
+- **Saves**: Fort +13, Ref +5, Will +13
+- **Abilities**: Str 34, Dex 13, Con 29, Int 13, Wis 16, Cha 12
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +27, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +16, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Stealth|Stealth]] +18 (+26 in stony or icy areas), [[rangoric-srd/skills/Theology|Theology]] +13
+- **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (strand)
+- **Environment**: Any underground
+- **Organization**: Solitary, pair, or cluster (3–6)
+- **Challenge Rating**: 12
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: 11–15 HD (Large); 16–30 HD (Huge)
+- **Level Adjustment**: —
 
 The roper is an ambush hunter. Capable of altering the coloration and shape of its body, a roper in hiding looks remarkably like a stalagmite of stone or ice (or in low-ceilinged chambers, a stony or icy pillar). In areas without such features to hide among, a roper can compress its body into a much more squat, boulder-like shape. The strands it extrudes are not flesh but a thick, semiliquid material similar to partially melted wax but with the strength of an iron chain and the ability to numb flesh and sap strength. The roper can manipulate these strands with great finesse, and can fling them as far as 50 feet to snatch objects that attract its attention.
 

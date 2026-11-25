@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/overview]
 
 ### Cerebremancer
 
-Hit Die: d4.  
+Hit Die: d4.
 
 **[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
 
@@ -25,7 +25,7 @@ Hit Die: d4.
 
 ###### Requirements
 
-To qualify to become a cerebremancer, a character must fulfill all the following criteria.  
+To qualify to become a cerebremancer, a character must fulfill all the following criteria.
 
 Skills: [[rangoric-srd/skills/Arcana|Arcana]] 3 ranks, [[rangoric-srd/skills/Psionics (Skill)|Psionics]] 3 ranks.
 
@@ -35,14 +35,14 @@ Psionics: Able to manifest 2nd-level powers.
 
 ###### Class Skills
 
-The cerebremancer’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] Int, [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Psionics (Skill)|Psionics]] (Int).  
+The cerebremancer’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] Int, [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Psionics (Skill)|Psionics]] (Int).
 
-Skill Points at Each Level: 2 + Int modifier.  
+Skill Points at Each Level: 2 + Int modifier.
 
-Table: The Cerebremancer  
+Table: The Cerebremancer
 
-| Level | Spells per Day/Powers Known                                                            |
-| ----- | -------------------------------------------------------------------------------------- |
+| Level | Spells per Day/Powers Known                                                           |
+| ----- | ------------------------------------------------------------------------------------- |
 | 1st   | +1 level of existing arcane spellcasting class/+1 level of existing manifesting class |
 | 2nd   | +1 level of existing arcane spellcasting class/+1 level of existing manifesting class |
 | 3rd   | +1 level of existing arcane spellcasting class/+1 level of existing manifesting class |
@@ -56,7 +56,7 @@ Table: The Cerebremancer
 
 ###### Class Features
 
-All the following are class features of the cerebremancer prestige class.  
+All the following are class features of the cerebremancer prestige class.
 
 Weapon and Armor Proficiency: Cerebremancers gain no proficiency with any weapon or armor.
 

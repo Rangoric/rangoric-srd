@@ -22,4 +22,4 @@ A rune-carved [[rangoric-srd/magic-items/construct-modifications/Construct Modif
 
 This modification is triggered the first time the modified construct takes damage. Creatures within a 20-foot-radius spread must succeed on a DC 17 Fortitude save or suffer from wracking pains that impose a –4 penalty on attack rolls, skill checks, and ability checks for 1 minute. On a successful saving throw, the creature takes the penalties imposed by the rune for 1 round.
 
-Moderate necromancy; CL 9th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Symbol of Pain|symbol of pain]]*; Cost 18,000 gp.
+Moderate necromancy; CL 9th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/spells/Symbol of Pain|symbol of pain]]_; Cost 18,000 gp.

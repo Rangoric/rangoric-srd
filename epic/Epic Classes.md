@@ -14,21 +14,21 @@ tags: [rangoric, rangoric/overview]
 [[#Epic Barbarian|Barbarian]]  
 [[#Epic Bard|Bard]]  
 [[#Epic Cleric|Cleric]]  
-[[#Epic Druid|Druid]]  
+[[#Epic Druid|Druid]]
 
 [[#Epic Fighter|Fighter]]  
 [[#Epic Monk|Monk]]  
 [[#Epic Paladin|Paladin]]  
-[[#Epic Ranger|Ranger]]  
+[[#Epic Ranger|Ranger]]
 
 [[#Epic Rogue|Rogue]]  
 [[#Epic Sorcerer|Sorcerer]]  
-[[#Epic Wizard|Wizard]]  
+[[#Epic Wizard|Wizard]]
 
 [[#Epic Psion|Psion]]  
 [[#Epic Psychic Warrior|Psychic Warrior]]  
 [[rangoric-srd/epic/Epic Classes|Soulknife]]  
-[[#Epic Wilder|Wilder]]  
+[[#Epic Wilder|Wilder]]
 
 ### Epic Barbarian
 
@@ -52,13 +52,13 @@ Epic Barbarian Bonus Feat List: Armor Skin, Chaotic Rage, Damage Reduction, Deva
 | --------------- | -------------------------------------------- |
 | 21st            | Trap sense +7                                |
 | 22nd            | Damage reduction 6/-                         |
-| 23rd            | -                                           |
+| 23rd            | -                                            |
 | 24th            | Rage 7/day, Trap sense +8, bonus feat        |
 | 25th            | Damage reduction 7/-                         |
-| 26th            | -                                           |
+| 26th            | -                                            |
 | 27th            | Trap sense +9                                |
 | 28th            | Damage reduction 8/-, Rage 8/day, bonus feat |
-| 29th            | -                                           |
+| 29th            | -                                            |
 | 30th            | Trap sense +10                               |
 
 ### Epic Bard
@@ -83,16 +83,16 @@ Inspire Courage (Su): The epic bard’s bonus when this ability is used increase
 
 | Bard Level | Special                        |
 | ---------- | ------------------------------ |
-| 21st       | -                             |
-| 22nd       | -                             |
+| 21st       | -                              |
+| 22nd       | -                              |
 | 23rd       | Bonus feat                     |
-| 24th       | -                             |
-| 25th       | -                             |
+| 24th       | -                              |
+| 25th       | -                              |
 | 26th       | Inspire courage +5, Bonus feat |
-| 27th       | -                             |
-| 28th       | -                             |
+| 27th       | -                              |
+| 28th       | -                              |
 | 29th       | Bonus feat                     |
-| 30th       | -                             |
+| 30th       | -                              |
 
 ### Epic Cleric
 
@@ -108,20 +108,20 @@ Bonus Feats: The epic cleric gains a bonus feat (selected from the list of epic 
 
 Epic Cleric Bonus Feat List: Armor Skin, Automatic Quicken Spell, Automatic Silent Spell, Automatic Still Spell, Bonus Domain, Enhance Spell, Epic Spell Focus, Epic Spell Penetration, Epic Spellcasting, Ignore Material Components, Improved Alignment-Based Casting, Improved Combat Casting, Improved Heighten Spell, Improved Metamagic, Improved Spell Capacity, Intensify Spell, Multispell, Negative Energy Burst, Permanent Emanation, Planar Turning, Positive Energy Aura, Spectral Strike, Spell Stowaway, Spell Opportunity, Spontaneous Domain Access, Spontaneous Spell, Tenacious Magic, Undead Mastery, Zone of Animation.
 
-Table: THE EPIC CLERIC  
+Table: THE EPIC CLERIC
 
 | Cleric Level | Special    |
 | ------------ | ---------- |
-| 21st         | -         |
-| 22nd         | -         |
+| 21st         | -          |
+| 22nd         | -          |
 | 23rd         | Bonus feat |
-| 24th         | -         |
-| 25th         | -         |
+| 24th         | -          |
+| 25th         | -          |
 | 26th         | Bonus feat |
-| 27th         | -         |
-| 28th         | -         |
+| 27th         | -          |
+| 28th         | -          |
 | 29th         | Bonus feat |
-| 30th         | -         |
+| 30th         | -          |
 
 ### Epic Druid
 
@@ -139,19 +139,19 @@ Bonus Feats: The epic druid gains a bonus feat (selected from the list of epic d
 
 Epic Druid Bonus Feat List: Automatic Quicken Spell, Automatic Silent Spell, Automatic Still Spell, Colossal Wild Shape, Diminutive Wild Shape, Dragon Wild Shape, Energy Resistance, Enhance Spell, Epic Spell Focus, Epic Spell Penetration, Epic Spellcasting, Fast Healing, Fine Wild Shape, Gargantuan Wild Shape, Ignore Material Components, Improved Combat Casting, Improved Elemental Wild Shape, Improved Heighten Spell, Improved Metamagic, Improved Spell Capacity, Intensify Spell, Magical Beast Companion, Magical Beast WildShape, Multi-spell, Perfect Health, Permanent Emanation, Plant Wild Shape, Spell Stowaway, Spell Opportunity, Spontaneous Spell, Tenacious Magic, Vermin Wild Shape.
 
-Table: THE EPIC DRUID  
+Table: THE EPIC DRUID
 
 | Druid Level | Special          |
 | ----------- | ---------------- |
-| 21st        | -               |
+| 21st        | -                |
 | 22nd        | Wild shape 7/day |
-| 23rd        | -               |
+| 23rd        | -                |
 | 24th        | Bonus feat       |
-| 25th        | -               |
+| 25th        | -                |
 | 26th        | Wild shape 8/day |
-| 27th        | -               |
+| 27th        | -                |
 | 28th        | Bonus feat       |
-| 29th        | -               |
+| 29th        | -                |
 | 30th        | Wild shape 9/day |
 
 ### Epic Fighter
@@ -162,21 +162,21 @@ Skill Points at Each Additional Level: 2 + Int modifier
 
 Bonus Feats: The epic fighter gains a bonus feat (selected from the [[rangoric-srd/feats/Feats Overview#Fighter Bonus Feats|fighter bonus feats]], epic ones included) every two levels after 20th.
 
-Epic Fighter Bonus Feats: any feat with the tag *fighter-bonus*. Every epic feat that was on the epic fighter's list has it.
+Epic Fighter Bonus Feats: any feat with the tag _fighter-bonus_. Every epic feat that was on the epic fighter's list has it.
 
-Table: THE EPIC FIGHTER  
+Table: THE EPIC FIGHTER
 
 | Fighter Level | Special    |
 | ------------- | ---------- |
-| 21st          | -         |
+| 21st          | -          |
 | 22nd          | Bonus feat |
 | 23rd          | .          |
 | 24th          | Bonus feat |
-| 25th          | -         |
+| 25th          | -          |
 | 26th          | Bonus feat |
-| 27th          | -         |
+| 27th          | -          |
 | 28th          | Bonus feat |
-| 29th          | -         |
+| 29th          | -          |
 | 30th          | Bonus feat |
 
 ### Epic Monk
@@ -209,21 +209,21 @@ Bonus Feats: The epic monk gains a bonus feat (selected from the list of epic mo
 
 Epic Monk Bonus Feat List: Armor Skin, Blinding Speed, Damage Reduction, Energy Resistance, Epic Prowess, Epic Speed, Epic Toughness, Exceptional Deflection, Fast Healing, Improved Combat Reflexes, Improved Ki Strike, Improved Spell Resistance, Improved Stunning Fist, Infinite Deflection, Keen Strike, Legendary Climber, Legendary Wrestler, Reflect Arrows, Righteous Strike, Self-Concealment, Shattering Strike, Vorpal Strike.
 
-Table: THE EPIC MONK  
+Table: THE EPIC MONK
 
 |            |          |                       |            |
 | ---------- | -------- | --------------------- | ---------- |
 | Monk Level | AC Bonus | Unarmored Speed Bonus | Special    |
-| 21st       | +4      | +70 ft.              | -         |
-| 22nd       | +4      | +70ft.               | -         |
-| 23rd       | +4      | +70 ft.              | -         |
-| 24th       | +4      | +80 ft.              | -         |
-| 25th       | +5      | +80 ft.              | Bonus feat |
-| 26th       | +5      | +80 ft.              | -         |
-| 27th       | +5      | +90 ft.              | -         |
-| 28th       | +5      | +90 ft.              | -         |
-| 29th       | +5      | +90 ft.              | -         |
-| 30th       | +6      | +100 ft.             | Bonus feat |
+| 21st       | +4       | +70 ft.               | -          |
+| 22nd       | +4       | +70ft.                | -          |
+| 23rd       | +4       | +70 ft.               | -          |
+| 24th       | +4       | +80 ft.               | -          |
+| 25th       | +5       | +80 ft.               | Bonus feat |
+| 26th       | +5       | +80 ft.               | -          |
+| 27th       | +5       | +90 ft.               | -          |
+| 28th       | +5       | +90 ft.               | -          |
+| 29th       | +5       | +90 ft.               | -          |
+| 30th       | +6       | +100 ft.              | Bonus feat |
 
 ### Epic Paladin
 
@@ -247,18 +247,18 @@ Bonus Feats: The epic paladin gains a bonus feat (selected from the list of epic
 
 Epic Paladin Bonus Feat List: Armor Skin, Devastating Critical, Epic Leadership, Epic Prowess, Epic Reputation, Epic Toughness, Epic Weapon Focus, Great Smiting, Holy Strike, Improved Aura of Courage, Improved Combat Casting, Improved Spell Capacity, Legendary Commander, Legendary Rider, Overwhelming Critical, Perfect Health, Permanent Emanation, Planar Turning, Positive Energy Aura, Spectral Strike, Spontaneous Spell, Widen Aura of Courage.
 
-Table: THE EPIC PALADIN  
+Table: THE EPIC PALADIN
 
 | Paladin Level | Special               |
 | ------------- | --------------------- |
 | 21st          | Remove disease 6/week |
-| 22nd          | -                    |
+| 22nd          | -                     |
 | 23rd          | Bonus feat            |
 | 24th          | Remove disease 7/week |
 | 25th          | Smite evil 6/day      |
 | 26th          | Bonus feat            |
 | 27th          | Remove disease 8/week |
-| 28th          | -                    |
+| 28th          | -                     |
 | 29th          | Bonus feat            |
 | 30th          | Remove disease 9/week |
 
@@ -278,18 +278,18 @@ Bonus Feats: The epic ranger gains a bonus feat (selected from the list of epic 
 
 Epic Ranger Bonus Feat List: Bane of Enemies, Blinding Speed, Combat Archery, Death of Enemies, Distant Shot, Epic Endurance, Epic Prowess, Epic Speed, Epic Toughness, Epic Weapon Focus, Fast Healing, Improved Combat Casting, Improved Favored Enemy, Improved Manyshot, Improved Spell Capacity, Legendary Climber, Legendary Rider, Legendary Tracker, Perfect Health, Perfect Two-Weapon Fighting, Permanent Emanation, Spontaneous Spell, Storm of Throws, Swarm of Arrows, Two-Weapon Rend, Uncanny Accuracy.
 
-Table: THE EPIC RANGER  
+Table: THE EPIC RANGER
 
 | Paladin Level | Special           |
 | ------------- | ----------------- |
-| 21st          | -                |
-| 22nd          | -                |
+| 21st          | -                 |
+| 22nd          | -                 |
 | 23rd          | Bonus feat        |
-| 24th          | -                |
+| 24th          | -                 |
 | 25th          | 6th favored enemy |
 | 26th          | Bonus feat        |
-| 27th          | -                |
-| 28th          | -                |
+| 27th          | -                 |
+| 28th          | -                 |
 | 29th          | Bonus feat        |
 | 30th          | 7th favored enemy |
 
@@ -314,11 +314,11 @@ Table: THE EPIC ROGUE
 | Rogue Level | Special                           |
 | ----------- | --------------------------------- |
 | 21st        | Sneak attack +11d6, Trap sense +7 |
-| 22nd        | -                                |
+| 22nd        | -                                 |
 | 23rd        | Sneak attack +12d6                |
 | 24th        | Trap sense +8, bonus feat         |
 | 25th        | Sneak attack +13d6                |
-| 26th        | -                                |
+| 26th        | -                                 |
 | 27th        | Sneak attack +14d6, Trap sense +9 |
 | 28th        | Bonus feat                        |
 | 29th        | Sneak attack +15d6                |
@@ -342,16 +342,16 @@ Table: THE EPIC SORCERER
 
 | Sorcerer Level | Special    |
 | -------------- | ---------- |
-| 21st           | -         |
-| 22nd           | -         |
+| 21st           | -          |
+| 22nd           | -          |
 | 23rd           | Bonus feat |
-| 24th           | -         |
-| 25th           | -         |
+| 24th           | -          |
+| 25th           | -          |
 | 26th           | Bonus feat |
-| 27th           | -         |
-| 28th           | -         |
+| 27th           | -          |
+| 28th           | -          |
 | 29th           | Bonus feat |
-| 30th           | -         |
+| 30th           | -          |
 
 ### Epic Wizard
 
@@ -371,16 +371,16 @@ Table: THE EPIC WIZARD
 
 | Wizard Level | Special    |
 | ------------ | ---------- |
-| 21st         | -         |
-| 22nd         | -         |
+| 21st         | -          |
+| 22nd         | -          |
 | 23rd         | Bonus feat |
-| 24th         | -         |
-| 25th         | -         |
+| 24th         | -          |
+| 25th         | -          |
 | 26th         | Bonus feat |
-| 27th         | -         |
-| 28th         | -         |
+| 27th         | -          |
+| 28th         | -          |
 | 29th         | Bonus feat |
-| 30th         | -         |
+| 30th         | -          |
 
 ##### Familiars at Epic Level
 
@@ -393,31 +393,31 @@ Table: Epic Familiar Special Abilities
 |                    |               |     |                |
 | ------------------ | ------------- | --- | -------------- |
 | Master Class Level | Natural Armor | Int | Special        |
-| 21st-22nd          | +11          | 16  | Familiar spell |
-| 23rd-24th          | +12          | 17  |                |
-| 25th-26th          | +13          | 18  |                |
-| 27th-28th          | +14          | 19  |                |
-| 29th-30th          | +15          | 20  |                |
-| 31st-32nd          | +16          | 21  | Familiar spell |
-| 33rd-34th          | +17          | 22  |                |
-| 35th-36th          | +18          | 23  |                |
-| 37th-38th          | +19          | 24  |                |
-| 39th-40th          | +20          | 25  |                |
-| 41st-42nd          | +21          | 26  | Familiar spell |
+| 21st-22nd          | +11           | 16  | Familiar spell |
+| 23rd-24th          | +12           | 17  |                |
+| 25th-26th          | +13           | 18  |                |
+| 27th-28th          | +14           | 19  |                |
+| 29th-30th          | +15           | 20  |                |
+| 31st-32nd          | +16           | 21  | Familiar spell |
+| 33rd-34th          | +17           | 22  |                |
+| 35th-36th          | +18           | 23  |                |
+| 37th-38th          | +19           | 24  |                |
+| 39th-40th          | +20           | 25  |                |
+| 41st-42nd          | +21           | 26  | Familiar spell |
 
 #### Epic Psionic Class Progression
 
-Epic level psionic characters follow the same epic progression as non-psionics epic characters, except as noted below.  
+Epic level psionic characters follow the same epic progression as non-psionics epic characters, except as noted below.
 
-  - For manifesters, manifester level continues to increase after 20th level. However, a manifester’s power points and powers known at each level do not increase automatically after 20th level.
-  - The powers of psicrystals that are based on the creator’s level continue to increase as their owner gains levels.
-  - Bonus feats for epic psionic classes can be chosen from among any epic feats for which the character meets the prerequisites or any psionic, metapsionic, or psionic item creation feat, as normal.
+- For manifesters, manifester level continues to increase after 20th level. However, a manifester’s power points and powers known at each level do not increase automatically after 20th level.
+- The powers of psicrystals that are based on the creator’s level continue to increase as their owner gains levels.
+- Bonus feats for epic psionic classes can be chosen from among any epic feats for which the character meets the prerequisites or any psionic, metapsionic, or psionic item creation feat, as normal.
 
 ##### No Epic Bonus Power Progression
 
 Epic psionic characters do not gain additional bonus power points above 20th. They may still gain more power points as their key ability score increases.
 
-Psionic characters can take the Improved Manifestation feat, which grants them additional power points each time they take the feat. Epic manifesters can also take Epic Expanded Knowledge or Power Knowledge, which give them access to additional powers, and Epic Psionic Focus, which allows manifesters to use more than one metapsionic power each time they expend their psionic focus.  
+Psionic characters can take the Improved Manifestation feat, which grants them additional power points each time they take the feat. Epic manifesters can also take Epic Expanded Knowledge or Power Knowledge, which give them access to additional powers, and Epic Psionic Focus, which allows manifesters to use more than one metapsionic power each time they expend their psionic focus.
 
 ### Epic Psion
 
@@ -425,9 +425,9 @@ Hit Die: d4.
 
 Skill Points at Each Additional Level: 4 + Int modifier.
 
-Powers: The psion’s manifester level is equal to his class level. The psion’s number of power points per day does not increase after 20th level, but the limit on power points spent on a metapsionic power is 19 (though feats such as Improved Manifestation extend this limit). Each time the psion achieves a new level, he learns a new power of any power level that he can manifest (according to his new level) that is within his primary discipline. Psions continue to gain bonus power points for high ability scores.  
+Powers: The psion’s manifester level is equal to his class level. The psion’s number of power points per day does not increase after 20th level, but the limit on power points spent on a metapsionic power is 19 (though feats such as Improved Manifestation extend this limit). Each time the psion achieves a new level, he learns a new power of any power level that he can manifest (according to his new level) that is within his primary discipline. Psions continue to gain bonus power points for high ability scores.
 
-Psicrystal: The epic psion’s psicrystal, if he has one, continues to increase in power. At every odd-numbered level higher than 20th (21st, 23rd, and so on) the psicrystal’s natural armor bonus and Intelligence each increase by 1. The psicrystal’s power resistance is equal to the master’s level + 5. At 21st level and again every ten levels higher than 21st, the psicrystal gains the benefit of the Psicrystal Power epic feat for a power of its master’s choice.  
+Psicrystal: The epic psion’s psicrystal, if he has one, continues to increase in power. At every odd-numbered level higher than 20th (21st, 23rd, and so on) the psicrystal’s natural armor bonus and Intelligence each increase by 1. The psicrystal’s power resistance is equal to the master’s level + 5. At 21st level and again every ten levels higher than 21st, the psicrystal gains the benefit of the Psicrystal Power epic feat for a power of its master’s choice.
 
 Bonus Feats: The epic psion gains a bonus feat every three levels higher than 20th (23rd, 26th, and so on).
 
@@ -435,39 +435,39 @@ Table: THE EPIC PSION
 
 | Psion Level | Special    |
 | ----------- | ---------- |
-| 21st        | -         |
-| 22nd        | -         |
+| 21st        | -          |
+| 22nd        | -          |
 | 23rd        | Bonus feat |
-| 24th        | -         |
-| 25th        | -         |
+| 24th        | -          |
+| 25th        | -          |
 | 26th        | Bonus feat |
-| 27th        | -         |
-| 28th        | -         |
+| 27th        | -          |
+| 28th        | -          |
 | 29th        | Bonus feat |
-| 30th        | -         |
+| 30th        | -          |
 
 ##### Psicrystals at Epic Level
 
 Special abilities granted to a psycrystal continue to grow as the level of its master increases beyond 20th, as shown on Table: Epic Psicrystal Special Abilities. Even though the table shows advancement only to 42nd level, that is not the limit. The patterns in the table continue infinitely. Psicrystal special abilities gained at less than 20th level also continue to improve.
 
-Psicrystal Power: The psicrystal gains the benefit of the Psicrystal Power epic feat for the power its master chooses.  
+Psicrystal Power: The psicrystal gains the benefit of the Psicrystal Power epic feat for the power its master chooses.
 
 Table: Epic Psicrystal Special Abilities
 
 |             |                    |          |                  |
 | ----------- | ------------------ | -------- | ---------------- |
 | Owner Level | Natural Armor Adj. | Int Adj. | Special          |
-| 21st-22nd   | +10               | +10     | Psicrystal Power |
-| 23rd-24th   | +11               | +11     |                  |
-| 25th-26th   | +12               | +12     |                  |
-| 27th-28th   | +13               | +13     |                  |
-| 29th-30th   | +14               | +14     |                  |
-| 31st-32nd   | +15               | +15     | Psicrystal Power |
-| 33rd-34th   | +16               | +16     |                  |
-| 35th-36th   | +17               | +17     |                  |
-| 37th-38th   | +18               | +18     |                  |
-| 39th-40th   | +19               | +19     |                  |
-| 41st-42nd   | +20               | +20     | Psicrystal Power |
+| 21st-22nd   | +10                | +10      | Psicrystal Power |
+| 23rd-24th   | +11                | +11      |                  |
+| 25th-26th   | +12                | +12      |                  |
+| 27th-28th   | +13                | +13      |                  |
+| 29th-30th   | +14                | +14      |                  |
+| 31st-32nd   | +15                | +15      | Psicrystal Power |
+| 33rd-34th   | +16                | +16      |                  |
+| 35th-36th   | +17                | +17      |                  |
+| 37th-38th   | +18                | +18      |                  |
+| 39th-40th   | +19                | +19      |                  |
+| 41st-42nd   | +20                | +20      | Psicrystal Power |
 
 ### Epic Psychic Warrior
 
@@ -477,23 +477,23 @@ Skill Points at Each Additional Level: 2 + Int modifier.
 
 Powers: The psychic warrior’s manifester level is equal to her class level. The psychic warrior’s base power points do not increase after 20th level. The epic psychic warrior gains one new power of any level that she can manifest at every even-numbered level she attains higher than 20th (22nd, 24th, 26th, and so on).
 
-Bonus Feats: The epic psychic warrior gains a bonus feat (selected from the list of epic psychic warrior bonus feats) at 21st level and every three levels thereafter.  
+Bonus Feats: The epic psychic warrior gains a bonus feat (selected from the list of epic psychic warrior bonus feats) at 21st level and every three levels thereafter.
 
 Epic Psychic Warrior Bonus Feat List: Armor Skin, Combat Archery, Damage Reduction, Devastating Critical, Dire Charge, Distant Shot, Epic Endurance, Epic Leadership, Epic Prowess, Epic Toughness, Epic Weapon Focus, Epic Weapon Specialization, Exceptional Deflection, Improved Combat Reflexes, Improved Stunning Fist, Improved Manifestation, Improved Whirlwind Attack, Infinite Deflection, Instant Reload, Legendary Commander, Legendary Rider, Legendary Wrestler, Over-whelming Critical, Penetrate Damage Reduction, Perfect Two-Weapon Fighting, Reflect Arrows, Spellcasting Harrier, Spell Knowledge, Storm of Throws, Superior Initiative, Swarm of Arrows, Two-Weapon Rend, Uncanny Accuracy. In addition to the feats on this list, the psychic warrior may select any feat designated as a fighter or psychic warrior bonus feat but not listed here. As noted in Epic Feats, psychic warriors learn psionic versions of magic feats, as appropriate.
 
-Table: THE EPIC PSYCHIC WARRIOR  
+Table: THE EPIC PSYCHIC WARRIOR
 
 | Psychic Warrior Level | Special    |
 | --------------------- | ---------- |
 | 21st                  | Bonus feat |
-| 22nd                  | -         |
-| 23rd                  | -         |
+| 22nd                  | -          |
+| 23rd                  | -          |
 | 24th                  | Bonus feat |
-| 25th                  | -         |
-| 26th                  | -         |
+| 25th                  | -          |
+| 26th                  | -          |
 | 27th                  | Bonus feat |
-| 28th                  | -         |
-| 29th                  | -         |
+| 28th                  | -          |
+| 29th                  | -          |
 | 30th                  | Bonus feat |
 
 ### Epic Soulknife
@@ -510,19 +510,19 @@ Psychic Strike: The epic soulknife’s psychic strike progression continues past
 
 Bonus Feats: The epic soulknife gains a bonus psionic feat every three levels higher than 20th (23rd, 26th, and so on).
 
-Table: THE EPIC SOULKNIFE  
+Table: THE EPIC SOULKNIFE
 
-| Soulknife Level | Special                                   |
-| --------------- | ----------------------------------------- |
+| Soulknife Level | Special                                  |
+| --------------- | ---------------------------------------- |
 | 21st            | -                                        |
-| 22nd            | Mind blade enhancement +5                 |
-| 23rd            | Bonus feat                                |
+| 22nd            | Mind blade enhancement +5                |
+| 23rd            | Bonus feat                               |
 | 24th            | -                                        |
 | 25th            | +6 mind blade                            |
-| 26th            | Mind blade enhancement +6, bonus feat     |
+| 26th            | Mind blade enhancement +6, bonus feat    |
 | 27th            | -                                        |
 | 28th            | -                                        |
-| 29th            | Bonus feat                                |
+| 29th            | Bonus feat                               |
 | 30th            | +7 mind blade, Mind blade enhancement +7 |
 
 ### Epic Wilder
@@ -539,17 +539,17 @@ Surging Euphoria: The wilder’s surging euphoria progression continues past 20t
 
 Volatile Mind: The epic wilder’s volatile mind ability continues to increase. At 21st level and every four levels higher than 21st, the penalty assessed against telepathy powers manifested on the wilder is increased by 1 power point (5 points at 21st, 6 points at 25th, and so on).
 
-Table: THE EPIC WILDER  
+Table: THE EPIC WILDER
 
 | Wilder Level | Special                        |
 | ------------ | ------------------------------ |
 | 21st         | Volatile mind (5 power points) |
-| 22nd         | -                             |
+| 22nd         | -                              |
 | 23rd         | Wild surge +7                  |
-| 24th         | -                             |
+| 24th         | -                              |
 | 25th         | Volatile mind (6 power points) |
-| 26th         | -                             |
+| 26th         | -                              |
 | 27th         | Wild surge +8                  |
 | 28th         | Surging euphoria +4            |
 | 29th         | Volatile mind (7 power points) |
-| 30th         | -                             |
+| 30th         | -                              |

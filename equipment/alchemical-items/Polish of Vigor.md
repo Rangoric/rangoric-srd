@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Polish of Vigor
 
-*Unguent; Special*
+_Unguent; Special_
 
 The ultimate achievement among those who specialize in unguents, the polish of vigor animates nonliving objects with a permanent semblance of life. After liberally coating an object (up to medium-size with one jar, two jars for large, three or more for huge and beyond) with the polish of vigor, it takes 2d12 hours for the polish to thoroughly soak into the object and work its alchemical and herbal effects. The object so “invigorated” should now be considered an animated object (see [[rangoric-srd/monsters/animated-object/Animated Object|Animated Object]]).
 

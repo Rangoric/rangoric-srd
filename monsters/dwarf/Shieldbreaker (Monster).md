@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Shieldbreaker (Monster)
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Dwarf)
-  - **Hit Dice**: 12d10+64 (134 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 24 (+10 armor, +3 Dex, +1 dodge), touch 14, flat-footed 20
-  - **Base Attack**: +12; **CMB**: +16 (+20 sunder); **CMD**: 30 (34 vs. bull rush, sunder, or trip)
-  - **Attack**: +1 adamantine guisarme +21 melee (2d4+9/×3) or masterwork spiked gauntlet +17 melee (1d4+5) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +15 ranged (1d6+6)
-  - **Full Attack**: +1 adamantine guisarme +21/+16/+11 melee (2d4+9/×3); or masterwork spiked gauntlet +17/+12/+7 melee (1d4+5); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +15 ranged (1d6+6)
-  - **Space/Reach**: 5 ft./5 ft. (10 ft. with guisarme)
-  - **Special Attacks**: [[rangoric-srd/races/Dwarf|+1 on attack rolls against goblinoid and orc humanoids]], [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (polearms +2, thrown +1)
-  - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +3, [[rangoric-srd/races/Dwarf#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 3
-  - **Saves**: Fort +14, Ref +8, Will +7 (+2 vs. poison, spells, and spell-like abilities; +3 vs. fear)
-  - **Abilities**: Str 19, Dex 17, Con 20, Int 13, Wis 10, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Athletics|Athletics]] +4 (+9 jumping), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Investigation|Investigation]] +1 (+3 to notice unusual stonework), [[rangoric-srd/skills/Perception|Perception]] +12
-  - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Greater Sunder|Greater Sunder]], [[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]] (guisarme), [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (guisarme), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (guisarme), [[rangoric-srd/feats/Whirlwind Attack|Whirlwind Attack]]
-  - **Environment**: Temperate mountains
-  - **Organization**: Solitary, or with other dwarves (see [[rangoric-srd/monsters/dwarf/Dwarf|Dwarf]])
-  - **Challenge Rating**: 11
-  - **Treasure**: NPC gear (combat gear: potion of bear's endurance, potion of cat's grace, potion of cure serious wounds, potions of enlarge person (2, CL 5th), potion of shield of faith (CL 7th); other gear: +1 full plate, +1 adamantine guisarme, javelins (6), masterwork spiked gauntlet, belt of giant strength +2, boots of striding and springing, cloak of resistance +1, portable ram, whetstone, 69 gp)
-  - **Alignment**: Lawful neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Dwarf)
+- **Hit Dice**: 12d10+64 (134 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 24 (+10 armor, +3 Dex, +1 dodge), touch 14, flat-footed 20
+- **Base Attack**: +12; **CMB**: +16 (+20 sunder); **CMD**: 30 (34 vs. bull rush, sunder, or trip)
+- **Attack**: +1 adamantine guisarme +21 melee (2d4+9/×3) or masterwork spiked gauntlet +17 melee (1d4+5) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +15 ranged (1d6+6)
+- **Full Attack**: +1 adamantine guisarme +21/+16/+11 melee (2d4+9/×3); or masterwork spiked gauntlet +17/+12/+7 melee (1d4+5); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +15 ranged (1d6+6)
+- **Space/Reach**: 5 ft./5 ft. (10 ft. with guisarme)
+- **Special Attacks**: [[rangoric-srd/races/Dwarf|+1 on attack rolls against goblinoid and orc humanoids]], [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (polearms +2, thrown +1)
+- **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +3, [[rangoric-srd/races/Dwarf#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 3
+- **Saves**: Fort +14, Ref +8, Will +7 (+2 vs. poison, spells, and spell-like abilities; +3 vs. fear)
+- **Abilities**: Str 19, Dex 17, Con 20, Int 13, Wis 10, Cha 8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Athletics|Athletics]] +4 (+9 jumping), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Investigation|Investigation]] +1 (+3 to notice unusual stonework), [[rangoric-srd/skills/Perception|Perception]] +12
+- **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Greater Sunder|Greater Sunder]], [[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]] (guisarme), [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (guisarme), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (guisarme), [[rangoric-srd/feats/Whirlwind Attack|Whirlwind Attack]]
+- **Environment**: Temperate mountains
+- **Organization**: Solitary, or with other dwarves (see [[rangoric-srd/monsters/dwarf/Dwarf|Dwarf]])
+- **Challenge Rating**: 11
+- **Treasure**: NPC gear (combat gear: potion of bear's endurance, potion of cat's grace, potion of cure serious wounds, potions of enlarge person (2, CL 5th), potion of shield of faith (CL 7th); other gear: +1 full plate, +1 adamantine guisarme, javelins (6), masterwork spiked gauntlet, belt of giant strength +2, boots of striding and springing, cloak of resistance +1, portable ram, whetstone, 69 gp)
+- **Alignment**: Lawful neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A shieldbreaker (monster) is a [[rangoric-srd/monsters/dwarf/Dwarf|dwarf]] with 12 levels of [[rangoric-srd/classes/Fighter|fighter]]. These warriors serve as shock troops, wading through enemy forces and sundering their weapons and armor.
 

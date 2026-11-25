@@ -15,8 +15,8 @@ tags: [rangoric, rangoric/spell]
 
 # Infected Wound
 
-*Necromancy*
+_Necromancy_
 
-  - **Level**: Clr 5
+- **Level**: Clr 5
 
-As *[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]*, except that, if the subject fails its saving throw, it is also afflicted with a disease per the spell *[[rangoric-srd/spells/Contagion|contagion]]*.
+As _[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]_, except that, if the subject fails its saving throw, it is also afflicted with a disease per the spell _[[rangoric-srd/spells/Contagion|contagion]]_.

@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Overbearing Onslaught
 
-*A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex).*
+_A [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage power]] (Ex)._
 
 While raging, the barbarian may overrun more than one target per round, with a –2 penalty on her CMB for each [[rangoric-srd/combat/Combat Maneuvers|overrun]] check after the first. A barbarian must have the [[rangoric-srd/class-options/rage-powers/Overbearing Advance (Rage Power)|overbearing advance]] rage power to select this rage power.
 

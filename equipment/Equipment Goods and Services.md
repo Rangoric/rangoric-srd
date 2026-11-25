@@ -57,7 +57,7 @@ Sometimes the best solution for a problem is to hire someone else to take care o
 
 #### Weights
 
-— *No weight, or no weight worth noting.*
+— _No weight, or no weight worth noting._
 
 Gear whose weight is marked “less for Small characters” weighs one-quarter as much when made for Small characters, and containers made for Small characters also carry one-quarter the normal amount.
 

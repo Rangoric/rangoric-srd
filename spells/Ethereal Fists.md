@@ -24,15 +24,15 @@ tags: [rangoric, rangoric/spell]
 
 # Ethereal Fists
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Mag 4, Spi 3
-  - **Components**: S
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 minute/level (D)
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Mag 4, Spi 3
+- **Components**: S
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 minute/level (D)
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-Your hands reach simultaneously into the Ethereal and Material planes, allowing you to deal normal damage with claws, unarmed strikes, and touch spells or effects to ethereal creatures. Miss chance due to etherealness (such as from the *[[rangoric-srd/spells/Blink|blink]]* spell) doesn't apply, though miss chance based on concealment does.
+Your hands reach simultaneously into the Ethereal and Material planes, allowing you to deal normal damage with claws, unarmed strikes, and touch spells or effects to ethereal creatures. Miss chance due to etherealness (such as from the _[[rangoric-srd/spells/Blink|blink]]_ spell) doesn't apply, though miss chance based on concealment does.

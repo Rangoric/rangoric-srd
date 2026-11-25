@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Rejuvenate Eidolon, Greater
 
-*Conjuration (Healing)*
+_Conjuration (Healing)_
 
-  - **Level**: Sum 5, SumU 5
-  - **Components**: V, S, M (a drop of your blood)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: Eidolon touched
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Sum 5, SumU 5
+- **Components**: V, S, M (a drop of your blood)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: Eidolon touched
+- **Duration**: Instantaneous
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-This spell functions as *lesser rejuvenate eidolon*, except that it cures 5d10 points of damage +1 point per caster level (maximum +20).
+This spell functions as _lesser rejuvenate eidolon_, except that it cures 5d10 points of damage +1 point per caster level (maximum +20).

@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Greater Psionic Shot
 
-You can charge your ranged attacks with additional damage potential.  
+You can charge your ranged attacks with additional damage potential.
 
 Prerequisite: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Psionic Shot|Psionic Shot]], base attack bonus +5.
 

@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/pole-arms]
 
 # Halberd
 
-*Martial two-handed melee weapon (trip).* Cost 10 gp; Dmg 1d8 (S), 1d10 (M); Critical x3; Weight 12 lb.; Type Piercing or slashing. ^stats
+_Martial two-handed melee weapon (trip)._ Cost 10 gp; Dmg 1d8 (S), 1d10 (M); Critical x3; Weight 12 lb.; Type Piercing or slashing. ^stats
 
 If you use a ready action to set a halberd against a charge, you deal double damage on a successful hit against a charging character.
 

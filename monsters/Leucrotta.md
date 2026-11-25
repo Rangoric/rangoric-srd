@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Leucrotta
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 6d10+24 (57 hp)
-  - **Initiative**: +5
-  - **Speed**: 60 ft. (12 squares), climb 30 ft.
-  - **Armor Class**: 18 (+1 Dex, +8 natural, –1 size), touch 10, flat-footed 17
-  - **Base Attack**: +6; **CMB**: +12; **CMD**: 23 (27 vs. trip)
-  - **Attack**: Bite +10 melee (2d6+7/19–20) or hoof +10 melee (1d6+2)
-  - **Full Attack**: Bite +10 melee (2d6+7/19–20) and 2 hooves +5 melee (1d6+2)
-  - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Lure|Lure]], [[rangoric-srd/monsters/abilities/Powerful Bite|powerful bite]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Sound Mimicry|sound mimicry]] (voices), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and poison
-  - **Saves**: Fort +9, Ref +6, Will +4
-  - **Abilities**: Str 21, Dex 12, Con 18, Int 11, Wis 14, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +9
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Temperate or tropical forests or hills
-  - **Organization**: Solitary, pair, or pack (3–12)
-  - **Challenge Rating**: 5
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 6d10+24 (57 hp)
+- **Initiative**: +5
+- **Speed**: 60 ft. (12 squares), climb 30 ft.
+- **Armor Class**: 18 (+1 Dex, +8 natural, –1 size), touch 10, flat-footed 17
+- **Base Attack**: +6; **CMB**: +12; **CMD**: 23 (27 vs. trip)
+- **Attack**: Bite +10 melee (2d6+7/19–20) or hoof +10 melee (1d6+2)
+- **Full Attack**: Bite +10 melee (2d6+7/19–20) and 2 hooves +5 melee (1d6+2)
+- **Space/Reach**: 10 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Lure|Lure]], [[rangoric-srd/monsters/abilities/Powerful Bite|powerful bite]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Sound Mimicry|sound mimicry]] (voices), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and poison
+- **Saves**: Fort +9, Ref +6, Will +4
+- **Abilities**: Str 21, Dex 12, Con 18, Int 11, Wis 14, Cha 17
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+- **Environment**: Temperate or tropical forests or hills
+- **Organization**: Solitary, pair, or pack (3–12)
+- **Challenge Rating**: 5
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Reputed to be descended from hyenas and a demon lord, these creatures are intelligent and cruel, using their astounding vocal mimicry to lure foolish and unsuspecting creatures to where the pack can torment them at its leisure before finally devouring them.
 

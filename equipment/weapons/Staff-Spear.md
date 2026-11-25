@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/double, weapon-group/spears]
 
 # Staff-Spear
 
-*Simple two-handed melee weapon (double).* Cost 45 gp; Dmg 1d4/1d4 (S), 1d6/1d6 (M); Critical x2; Weight 5 lb.; Type Bludgeoning or piercing. ^stats
+_Simple two-handed melee weapon (double)._ Cost 45 gp; Dmg 1d4/1d4 (S), 1d6/1d6 (M); Critical x2; Weight 5 lb.; Type Bludgeoning or piercing. ^stats
 
 This weapon resembles a normal quarterstaff and can be used as such. However, pressing two switches on the handle causes spear-heads to spring forth at each end of the staff, either simultaneously or one at time.
 

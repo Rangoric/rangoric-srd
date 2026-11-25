@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Peryton
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 5d10+15 (42 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares), fly 60 ft. (good)
-  - **Armor Class**: 17 (+3 Dex, +4 natural), touch 13, flat-footed 14
-  - **Base Attack**: +5; **CMB**: +8; **CMD**: 21 (25 vs. trip)
-  - **Attack**: Gore +9 melee (1d6+3/18–20) or hoof +8 melee (1d4+1)
-  - **Full Attack**: Gore +9 melee (1d6+3/18–20) and 2 hooves +3 melee (1d4+1)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Horrific Critical|Horrific critical]], [[rangoric-srd/monsters/abilities/Shadow Mark|shadow mark]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic
-  - **Saves**: Fort +7, Ref +7, Will +3
-  - **Abilities**: Str 17, Dex 16, Con 17, Int 11, Wis 14, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +9
-  - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (gore)
-  - **Environment**: Any
-  - **Organization**: Solitary, pair, or flock (3–9)
-  - **Challenge Rating**: 4
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+- **Hit Dice**: 5d10+15 (42 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares), fly 60 ft. (good)
+- **Armor Class**: 17 (+3 Dex, +4 natural), touch 13, flat-footed 14
+- **Base Attack**: +5; **CMB**: +8; **CMD**: 21 (25 vs. trip)
+- **Attack**: Gore +9 melee (1d6+3/18–20) or hoof +8 melee (1d4+1)
+- **Full Attack**: Gore +9 melee (1d6+3/18–20) and 2 hooves +3 melee (1d4+1)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Horrific Critical|Horrific critical]], [[rangoric-srd/monsters/abilities/Shadow Mark|shadow mark]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic
+- **Saves**: Fort +7, Ref +7, Will +3
+- **Abilities**: Str 17, Dex 16, Con 17, Int 11, Wis 14, Cha 12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (gore)
+- **Environment**: Any
+- **Organization**: Solitary, pair, or flock (3–9)
+- **Challenge Rating**: 4
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Savage creatures of nightmare, perytons combine the features of stags, wolves, and great birds of prey. Though vicious beasts, perytons possess all the intelligence of a human. Perytons hunt any creature weaker than themselves, but prefer humanoid prey, as they particularly relish the taste of such creatures' still-beating hearts.
 

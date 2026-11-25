@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Untouchable Rager
 
-*A [[rangoric-srd/classes/Bloodrager#^bloodrager-archetypes|bloodrager]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Bloodrager#^bloodrager-archetypes|bloodrager]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 While most bloodragers are known for their inexplicable ability to focus their bloodline into a horrifying mix of martial terror and spellcasting fury, from time to time a bloodrager's bloodline acts differently. Instead of empowering the bloodrager, it shields the bloodrager from magic of all types, often keeping the bloodrager untouched within the midst of magical effects.
 

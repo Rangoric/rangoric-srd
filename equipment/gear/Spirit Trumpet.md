@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/gear]
 
 # Spirit Trumpet
 
-This telescoping horn of thin tin cones is about 3 feet long when fully extended. Used by fraudulent mediums to hide the true source of voices in a darkened seance room, it adds 1 to the DCs of saving throws to disbelieve *[[rangoric-srd/spells/Ghost Sound|ghost sound]]* and *[[rangoric-srd/spells/Ventriloquism|ventriloquism]]*. When used to channel a haunt capable of communication, a spirit trumpet doubles the rate of communication with the haunt and gives a +4 circumstance bonus on Linguistics checks to decipher its cryptic messages.
+This telescoping horn of thin tin cones is about 3 feet long when fully extended. Used by fraudulent mediums to hide the true source of voices in a darkened seance room, it adds 1 to the DCs of saving throws to disbelieve _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ and _[[rangoric-srd/spells/Ventriloquism|ventriloquism]]_. When used to channel a haunt capable of communication, a spirit trumpet doubles the rate of communication with the haunt and gives a +4 circumstance bonus on Linguistics checks to decipher its cryptic messages.
 
 Price 25 gp; Weight 1 lb.

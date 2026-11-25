@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Wendigo Psychosis
 
-A curse; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the curse of the [[rangoric-srd/monsters/Wendigo|wendigo]]. A victim exposed to the wendigo's *[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]* or *[[rangoric-srd/spells/Wind Walk|wind walk]]* is subject to it.
+A curse; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the curse of the [[rangoric-srd/monsters/Wendigo|wendigo]]. A victim exposed to the wendigo's _[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]_ or _[[rangoric-srd/spells/Wind Walk|wind walk]]_ is subject to it.
 
 - **Type**: curse, nightmare or wind walk
 - **Save**: Will DC 26

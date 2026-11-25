@@ -25,9 +25,9 @@ tags: [rangoric, rangoric/spell]
 
 # Heroism, Greater
 
-*Enchantment (Compulsion) \[Mind-Affecting\]*
+_Enchantment (Compulsion) \[Mind-Affecting\]_
 
-  - **Level**: Brd 5, Psy 6, Skd 5, Sor/Wiz 6, Spi 6, Sum 5, SumU 6, Wit 6
-  - **Duration**: 1 min./level
+- **Level**: Brd 5, Psy 6, Skd 5, Sor/Wiz 6, Spi 6, Sum 5, SumU 6, Wit 6
+- **Duration**: 1 min./level
 
 This spell functions like [[rangoric-srd/spells/Heroism|heroism]], except the creature gains a +4 morale bonus on attack rolls, saves, and skill checks, immunity to fear effects, and temporary hit points equal to your caster level (maximum 20).

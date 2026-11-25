@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Mastermind
 
-*An [[rangoric-srd/classes/Investigator#^investigator-archetypes|investigator]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_An [[rangoric-srd/classes/Investigator#^investigator-archetypes|investigator]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Although some investigators use their honed senses and cunning insight for personal gain, no one excels at such endeavors like the mastermind. Typically, these investigators dwell at the centers of complex networks of lies, minions, or simply precious information, from which they dispense commands, threats, and rumors, all carefully crafted to increase the power of their peculiar empires. While masterminds often act as the heads of illicit organizations like criminal families, thieves' guilds, or corruption-riddled bureaucracies, they aren't always evil.
 

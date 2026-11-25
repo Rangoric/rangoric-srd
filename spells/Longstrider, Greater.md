@@ -25,13 +25,13 @@ tags: [rangoric, rangoric/spell]
 
 # Longstrider, Greater
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Drd 3, Hun 3, Rgr 3
-  - **Components**: V, S, M (a pinch of dirt)
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 hour/level (D)
+- **Level**: Drd 3, Hun 3, Rgr 3
+- **Components**: V, S, M (a pinch of dirt)
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 hour/level (D)
 
-This functions as *[[rangoric-srd/spells/Longstrider|longstrider]]*, except it gives you a +20-foot enhancement bonus to your base speed and a +10-foot enhancement bonus to your other modes of movement (burrow, climb, fly, swim, and so on). It does not affect movement modes you do not actually have—for example, if you do not have a swim speed, this spell does not grant you a swim speed.
+This functions as _[[rangoric-srd/spells/Longstrider|longstrider]]_, except it gives you a +20-foot enhancement bonus to your base speed and a +10-foot enhancement bonus to your other modes of movement (burrow, climb, fly, swim, and so on). It does not affect movement modes you do not actually have—for example, if you do not have a swim speed, this spell does not grant you a swim speed.

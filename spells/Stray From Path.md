@@ -25,17 +25,17 @@ tags: [rangoric, rangoric/spell]
 
 # Stray From Path
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Fey Roads 7, Sor/Wiz 7
-  - **Components**: V, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: You and touched willing creatures weighing up to 50 lb./level
-  - **Duration**: 10 minutes/level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Fey Roads 7, Sor/Wiz 7
+- **Components**: V, M
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: You and touched willing creatures weighing up to 50 lb./level
+- **Duration**: 10 minutes/level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
-By means of this spell, you enable yourself and a specified number of creatures to stray from the *[[rangoric-srd/rules/Fey Roads and Doorways#Paths|fey path]]* into the surroundings laid before them. If the recipients of the spell do not return to the *fey path* within the duration of spell, they can be off their path and lost in the fey realm (see [[rangoric-srd/rules/Fey Roads and Doorways#Escaping the Fey Realm|escaping the fey realm]]).
+By means of this spell, you enable yourself and a specified number of creatures to stray from the _[[rangoric-srd/rules/Fey Roads and Doorways#Paths|fey path]]_ into the surroundings laid before them. If the recipients of the spell do not return to the _fey path_ within the duration of spell, they can be off their path and lost in the fey realm (see [[rangoric-srd/rules/Fey Roads and Doorways#Escaping the Fey Realm|escaping the fey realm]]).
 
-*Material Component*: Silver dust sprinkled in the shape of an ‘X’ where the caster leaves the *fey path*.
+_Material Component_: Silver dust sprinkled in the shape of an ‘X’ where the caster leaves the _fey path_.

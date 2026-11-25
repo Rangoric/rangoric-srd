@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Frightened
 
-*A [[rangoric-srd/classes/Antipaladin#^antipaladin-cruelty|cruelty]], available from 9th level.*
+_A [[rangoric-srd/classes/Antipaladin#^antipaladin-cruelty|cruelty]], available from 9th level._
 
 The target is [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] for 1 round per two levels of the antipaladin.
 

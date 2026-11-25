@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Sacred Killer
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human, Orc)
-  - **Hit Dice**: 1d8+6d8+2d8+24 (68 hp)
-  - **Initiative**: +9
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 20 (+4 armor, +5 Dex, +1 dodge), touch 16, flat-footed 14
-  - **Base Attack**: +5; **CMB**: +5; **CMD**: 21
-  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +12 melee (1d6+6/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +11 ranged (1d4/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +12 melee (1d6+6/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +11 ranged (1d4/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 2/day (DC 9, 1d6), [[rangoric-srd/prestige-classes/Assassin|death attack]] (DC 14), [[rangoric-srd/prestige-classes/Assassin|sneak attack]] +4d6, [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]], [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Death Domain|death touch]] (1d6, 1/day)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/prestige-classes/Assassin|improved uncanny dodge]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +2, [[rangoric-srd/classes/Cleric#^cleric-aura|aura]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/prestige-classes/Assassin|poison use]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Bleeding Attack (Rogue Talent)|bleeding attack]] +4, combat trick, [[rangoric-srd/class-options/rogue-talents/Surprise Attack (Rogue Talent)|surprise attack]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +3, [[rangoric-srd/races/Half-Orc|weapon familiarity]], [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (short sword), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Deception|Deception]])
-  - **Saves**: Fort +6, Ref +13, Will +7 (+1 vs. poison)
-  - **Abilities**: Str 10, Dex 20, Con 14, Int 14, Wis 12, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Imitation|Imitation]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +13, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +10
-  - **Feats**: [[rangoric-srd/feats/Channel Smite|Channel Smite]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (short sword)
-  - **Environment**: Temperate hills, mountains, or underground
-  - **Organization**: Solitary, or with other half-orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])
-  - **Challenge Rating**: 8
-  - **Treasure**: NPC gear (combat gear: potion of cure serious wounds, scroll of invisibility, black adder venom (2), giant wasp poison (2), greenblood oil (2); other gear: +1 studded leather, +1 short sword, masterwork dagger, belt of incredible dexterity +2, 303 gp)
-  - **Alignment**: Neutral evil
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Human, Orc)
+- **Hit Dice**: 1d8+6d8+2d8+24 (68 hp)
+- **Initiative**: +9
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 20 (+4 armor, +5 Dex, +1 dodge), touch 16, flat-footed 14
+- **Base Attack**: +5; **CMB**: +5; **CMD**: 21
+- **Attack**: +1 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +12 melee (1d6+6/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +11 ranged (1d4/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +12 melee (1d6+6/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]]); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +11 ranged (1d4/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 2/day (DC 9, 1d6), [[rangoric-srd/prestige-classes/Assassin|death attack]] (DC 14), [[rangoric-srd/prestige-classes/Assassin|sneak attack]] +4d6, [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]], [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Death Domain|death touch]] (1d6, 1/day)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/prestige-classes/Assassin|improved uncanny dodge]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +2, [[rangoric-srd/classes/Cleric#^cleric-aura|aura]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/prestige-classes/Assassin|poison use]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Bleeding Attack (Rogue Talent)|bleeding attack]] +4, combat trick, [[rangoric-srd/class-options/rogue-talents/Surprise Attack (Rogue Talent)|surprise attack]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +3, [[rangoric-srd/races/Half-Orc|weapon familiarity]], [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (short sword), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Deception|Deception]])
+- **Saves**: Fort +6, Ref +13, Will +7 (+1 vs. poison)
+- **Abilities**: Str 10, Dex 20, Con 14, Int 14, Wis 12, Cha 8
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Imitation|Imitation]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +13, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +10
+- **Feats**: [[rangoric-srd/feats/Channel Smite|Channel Smite]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (short sword)
+- **Environment**: Temperate hills, mountains, or underground
+- **Organization**: Solitary, or with other half-orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])
+- **Challenge Rating**: 8
+- **Treasure**: NPC gear (combat gear: potion of cure serious wounds, scroll of invisibility, black adder venom (2), giant wasp poison (2), greenblood oil (2); other gear: +1 studded leather, +1 short sword, masterwork dagger, belt of incredible dexterity +2, 303 gp)
+- **Alignment**: Neutral evil
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A sacred killer is a [[rangoric-srd/monsters/orc/Orc#Half-Orcs|half-orc]] with 1 level of [[rangoric-srd/classes/Cleric|cleric]] and 6 levels of [[rangoric-srd/classes/Rogue|rogue]] and 2 levels of [[rangoric-srd/prestige-classes/Assassin|assassin]]. Most evil temples and cults use sacred killers to enforce their twisted will or to eliminate annoying enemies.
 
@@ -75,6 +75,6 @@ A sacred killer speaks Common, Dwarven, and Orc.
 
 **Domain Spell-Like Abilities** (CL 1st; concentration +2): 4/day—[[rangoric-srd/class-options/domains/Death Domain|bleeding touch]], [[rangoric-srd/class-options/domains/Trickery Domain|copycat]].
 
-**Cleric spells prepared** (CL 1st; concentration +2): 1st—*[[rangoric-srd/spells/Bless|bless]]*, *[[rangoric-srd/spells/Disguise Self|disguise self]]* <sup>D</sup>, *[[rangoric-srd/spells/Divine Favor|divine favor]]*; 0 (at will)—*[[rangoric-srd/spells/Bleed|bleed]]* (DC 11), *[[rangoric-srd/spells/Detect Poison|detect poison]]*, *[[rangoric-srd/spells/Guidance|guidance]]*; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Death Domain|Death]], [[rangoric-srd/class-options/domains/Trickery Domain|Trickery]].
+**Cleric spells prepared** (CL 1st; concentration +2): 1st—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Disguise Self|disguise self]]_ <sup>D</sup>, _[[rangoric-srd/spells/Divine Favor|divine favor]]_; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 11), _[[rangoric-srd/spells/Detect Poison|detect poison]]_, _[[rangoric-srd/spells/Guidance|guidance]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Death Domain|Death]], [[rangoric-srd/class-options/domains/Trickery Domain|Trickery]].
 
-**Assassin spells known** (CL 2nd; concentration +4): 1st (2/day)—*[[rangoric-srd/spells/True Strike|true strike]]*, *[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]*, *[[rangoric-srd/spells/Disguise Self|disguise self]]*.
+**Assassin spells known** (CL 2nd; concentration +4): 1st (2/day)—_[[rangoric-srd/spells/True Strike|true strike]]_, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_, _[[rangoric-srd/spells/Disguise Self|disguise self]]_.

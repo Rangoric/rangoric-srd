@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Cloak of Shade
 
-*Abjuration*
+_Abjuration_
 
-  - **Level**: Drd 1, Hun 1, Rgr 1
-  - **Components**: V, S, M (a leaf from a shade tree)
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: One creature per level
-  - **Duration**: 1 hour/level (D)
-  - **Saving Throw**: Will negates (harmless)
-  - **Spell Resistance**: Yes (harmless)
+- **Level**: Drd 1, Hun 1, Rgr 1
+- **Components**: V, S, M (a leaf from a shade tree)
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: One creature per level
+- **Duration**: 1 hour/level (D)
+- **Saving Throw**: Will negates (harmless)
+- **Spell Resistance**: Yes (harmless)
 
-This spell provides the subject with some degree of protection from the harmful effects of the sun. The cloaked subject treats environmental heat due to sun exposure as one level less: severe heat is considered very hot conditions, while very hot is considered average temperature (see heat dangers). The *cloak of shade* also reduces any penalties from sunlight by 1. The spell does not, however, eliminate the effects of direct sunlight on creatures vulnerable to sunlight. *Cloak of shade* has no effect on environmental heat from sources other than the sun.
+This spell provides the subject with some degree of protection from the harmful effects of the sun. The cloaked subject treats environmental heat due to sun exposure as one level less: severe heat is considered very hot conditions, while very hot is considered average temperature (see heat dangers). The _cloak of shade_ also reduces any penalties from sunlight by 1. The spell does not, however, eliminate the effects of direct sunlight on creatures vulnerable to sunlight. _Cloak of shade_ has no effect on environmental heat from sources other than the sun.

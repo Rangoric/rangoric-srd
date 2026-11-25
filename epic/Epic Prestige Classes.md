@@ -13,19 +13,19 @@ tags: [rangoric, rangoric/overview]
 
 [[#Epic Arcane Archer|Arcane Archer]]  
 [[rangoric-srd/epic/Epic Prestige Classes|Epic Arcane Trickster]]  
-[[#Epic Assassin|Assassin]]  
+[[#Epic Assassin|Assassin]]
 
 [[#Epic Blackguard|Blackguard]]  
 [[#Epic Dragon Disciple|Dragon Disciple]]  
-[[#Epic Duelist|Duelist]]  
+[[#Epic Duelist|Duelist]]
 
 [[#Epic Stalwart Defender|Stalwart Defender]]  
 [[#Epic Eldritch Knight|Eldritch Knight]]  
-[[#Epic Horizon Walker|Horizon Walker]]  
+[[#Epic Horizon Walker|Horizon Walker]]
 
 [[#Epic Loremaster|Loremaster]]  
 [[#Epic Mystic Theurge|Mystic Theurge]]  
-[[#Epic Shadowdancer|Shadowdancer]]  
+[[#Epic Shadowdancer|Shadowdancer]]
 
 ### Epic Arcane Archer
 
@@ -46,15 +46,15 @@ Table: The Epic Arcane Archer
 | Level | Special           |
 | ----- | ----------------- |
 | 11th  | Enchant arrow +6  |
-| 12th  | -                |
+| 12th  | -                 |
 | 13th  | Enchant arrow +7  |
 | 14th  | Bonus feat        |
 | 15th  | Enchant arrow +8  |
-| 16th  | -                |
+| 16th  | -                 |
 | 17th  | Enchant arrow +9  |
 | 18th  | Bonus feat        |
 | 19th  | Enchant arrow +10 |
-| 20th  | -                |
+| 20th  | -                 |
 
 ### Epic Arcane Trickster
 
@@ -74,7 +74,7 @@ Bonus Feats: The epic arcane trickster gains a bonus feat selected from the list
 
 Epic Arcane Trickster Bonus Feat List: Automatic Silent Spell Automatic Still Spell, Blinding Speed, Epic Skill Focus, Improved Combat Casting, Improved Sneak Attack, Improved Spell Capacity, Lingering Damage, Self-Concealment, Sneak Attack of Opportunity, Spell Knowledge, Spell Opportunity, Spell Stowaway.
 
-Table: The Epic Arcane Trickster  
+Table: The Epic Arcane Trickster
 
 | Level | Special                       |
 | ----- | ----------------------------- |
@@ -111,17 +111,17 @@ Epic Assassin Bonus Feat List: Dexterous Fortitude, Dexterous Will, Improved Com
 
 Table: The Epic Assassin
 
-| Level | Special                             |
-| ----- | ----------------------------------- |
-| 11th  | Sneak attack +6d6                   |
+| Level | Special                            |
+| ----- | ---------------------------------- |
+| 11th  | Sneak attack +6d6                  |
 | 12th  | +6 save against poison             |
-| 13th  | Sneak attack +7d6                   |
+| 13th  | Sneak attack +7d6                  |
 | 14th  | +7 save against poison, bonus feat |
-| 15th  | Sneak attack +8d6                   |
+| 15th  | Sneak attack +8d6                  |
 | 16th  | +8 save against poison             |
-| 17th  | Sneak attack +9d6                   |
+| 17th  | Sneak attack +9d6                  |
 | 18th  | +9 save against poison, bonus feat |
-| 19th  | Sneak attack +10d6                  |
+| 19th  | Sneak attack +10d6                 |
 | 20th  | +10 save against poison            |
 
 ### Epic Blackguard
@@ -150,14 +150,14 @@ Table: The Epic Blackguard
 
 | Level | Special                       |
 | ----- | ----------------------------- |
-| 11th  | -                            |
-| 12th  | -                            |
+| 11th  | -                             |
+| 12th  | -                             |
 | 13th  | Sneak attack +4d6, bonus feat |
-| 14th  | -                            |
+| 14th  | -                             |
 | 15th  | Smite good 4/day              |
 | 16th  | Sneak attack +5d6, bonus feat |
-| 17th  | -                            |
-| 18th  | -                            |
+| 17th  | -                             |
+| 18th  | -                             |
 | 19th  | Sneak attack +6d6, bonus feat |
 | 20th  | Smite good 5/day              |
 
@@ -181,16 +181,16 @@ Table: The Epic Dragon Disciple
 
 | Level | Special                               |
 | ----- | ------------------------------------- |
-| 11th  | -                                    |
-| 12th  | -                                    |
+| 11th  | -                                     |
+| 12th  | -                                     |
 | 13th  | Breath weapon (8d8), natural armor +5 |
 | 14th  | Bonus feat                            |
-| 15th  | -                                    |
+| 15th  | -                                     |
 | 16th  | Natural armor +6                      |
 | 17th  | Breath weapon (10d8)                  |
 | 18th  | Bonus feat                            |
 | 19th  | Natural armor +7                      |
-| 20th  | -                                    |
+| 20th  | -                                     |
 
 ### Epic Duelist
 
@@ -210,14 +210,14 @@ Table: The Epic Duelist
 
 | Level | Special             |
 | ----- | ------------------- |
-| 11th  | -                  |
-| 12th  | -                  |
+| 11th  | -                   |
+| 12th  | -                   |
 | 13th  | Bonus feat          |
-| 14th  | -                  |
+| 14th  | -                   |
 | 15th  | Precise strike +3d6 |
 | 16th  | Bonus feat          |
-| 17th  | -                  |
-| 18th  | -                  |
+| 17th  | -                   |
+| 18th  | -                   |
 | 19th  | Bonus feat          |
 | 20th  | Precise strike +4d6 |
 
@@ -243,16 +243,16 @@ Table: The Epic Stalwart Defender
 
 | Level | AC Bonus | Special                            |
 | ----- | -------- | ---------------------------------- |
-| 11th  | +4      | Defensive stance 6/day             |
-| 12th  | +4      | Trap sense +3                      |
-| 13th  | +5      | Defensive stance 7/day             |
-| 14th  | +5      | Damage reduction 9/-               |
-| 15th  | +5      | Bonus feat, Defensive stance 8/day |
-| 16th  | +6      | Trap sense +4                      |
-| 17th  | +6      | Defensive stance 9/day             |
-| 18th  | +6      | Damage reduction 12/-              |
-| 19th  | +7      | Defensive stance 10/day            |
-| 20th  | +7      | Bonus feat, trap sense +5          |
+| 11th  | +4       | Defensive stance 6/day             |
+| 12th  | +4       | Trap sense +3                      |
+| 13th  | +5       | Defensive stance 7/day             |
+| 14th  | +5       | Damage reduction 9/-               |
+| 15th  | +5       | Bonus feat, Defensive stance 8/day |
+| 16th  | +6       | Trap sense +4                      |
+| 17th  | +6       | Defensive stance 9/day             |
+| 18th  | +6       | Damage reduction 12/-              |
+| 19th  | +7       | Defensive stance 10/day            |
+| 20th  | +7       | Bonus feat, trap sense +5          |
 
 ### Epic Eldritch Knight
 
@@ -270,16 +270,16 @@ Table: The Epic Eldritch Knight
 
 | Level | Special    |
 | ----- | ---------- |
-| 11th  | -         |
-| 12th  | -         |
-| 13th  | -         |
+| 11th  | -          |
+| 12th  | -          |
+| 13th  | -          |
 | 14th  | Bonus feat |
-| 15th  | -         |
-| 16th  | -         |
-| 17th  | -         |
+| 15th  | -          |
+| 16th  | -          |
+| 17th  | -          |
 | 18th  | Bonus feat |
-| 19th  | -         |
-| 20th  | -         |
+| 19th  | -          |
+| 20th  | -          |
 
 ### Epic Horizon Walker
 
@@ -324,20 +324,20 @@ Bonus Feats: The epic loremaster gains a bonus feat (selected from the list of e
 
 Epic Loremaster Bonus Feat List: Augmented Alchemy, Automatic Quicken Spell, Automatic Silent Spell, Automatic Still Spell, Craft Epic Magic Arms and Armor, Craft Epic Rod, Craft Epic Staff, Craft Epic Wondrous Item, Efficient Item Creation, Enhance Spell, Epic Spell Focus, Epic Spell Penetration, Epic Spellcasting, Forge Epic Ring, Ignore Material Components, Improved Combat Casting, Improved Heighten Spell, Improved Metamagic, Improved Spell Capacity, Intensify Spell, Master Staff, Master Wand, Multispell, Permanent Emanation, Polyglot, Scribe Epic Scroll, Spell Knowledge, Spell Stowaway, Spell Opportunity, Spontaneous Spell, Tenacious Magic. In addition to the feats on this list, the loremaster can select a loremaster secret instead of a bonus feat.
 
-Table: The Epic Loremaster   
+Table: The Epic Loremaster
 
 | Level | Special    |
 | ----- | ---------- |
-| 11th  | -         |
-| 12th  | -         |
+| 11th  | -          |
+| 12th  | -          |
 | 13th  | Bonus feat |
-| 14th  | -         |
-| 15th  | -         |
+| 14th  | -          |
+| 15th  | -          |
 | 16th  | Bonus feat |
-| 17th  | -         |
-| 18th  | -         |
+| 17th  | -          |
+| 18th  | -          |
 | 19th  | Bonus feat |
-| 20th  | -         |
+| 20th  | -          |
 
 ### Epic Mystic Theurge
 
@@ -355,16 +355,16 @@ Table: The Epic Mystic Theurge
 
 | Level | Special    |
 | ----- | ---------- |
-| 11th  | -         |
-| 12th  | -         |
-| 13th  | -         |
-| 14th  | -         |
-| 15th  | -         |
+| 11th  | -          |
+| 12th  | -          |
+| 13th  | -          |
+| 14th  | -          |
+| 15th  | -          |
 | 16th  | Bonus feat |
-| 17th  | -         |
-| 18th  | -         |
-| 19th  | -         |
-| 20th  | -         |
+| 17th  | -          |
+| 18th  | -          |
+| 19th  | -          |
+| 20th  | -          |
 
 ### Epic Shadowdancer
 
@@ -384,13 +384,13 @@ Table: The Epic Shadowdancer
 
 | Level | Special                                                    |
 | ----- | ---------------------------------------------------------- |
-| 11th  | -                                                         |
+| 11th  | -                                                          |
 | 12th  | Summon shadow (four of 9 HD each), shadow jump (320 ft.)   |
 | 13th  | Bonus feat                                                 |
 | 14th  | Shadow jump (640 ft.)                                      |
 | 15th  | Summon shadow (five of 11 HD each)                         |
 | 16th  | Shadow jump (1,280 ft.), bonus feat                        |
-| 17th  | -                                                         |
+| 17th  | -                                                          |
 | 18th  | Summon shadow (six of 13 HD each), shadow jump (2,560 ft.) |
 | 19th  | Bonus feat                                                 |
 | 20th  | Shadow jump (5,120 ft.)                                    |

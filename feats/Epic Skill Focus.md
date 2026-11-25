@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Epic Skill Focus
 
-Prerequisite: 17 ranks in the skill selected.  
+Prerequisite: 17 ranks in the skill selected.
 
 Benefit: The character gains a +10 bonus on all skill checks with that skill.
 

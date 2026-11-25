@@ -26,11 +26,11 @@ tags: [rangoric, rangoric/spell]
 
 # Invisibility Sphere
 
-*Illusion (Glamer)*
+_Illusion (Glamer)_
 
-  - **Level**: Brd 3, Mes 3, Occ 3, Psy 3, Skd 3, Sor/Wiz 3, SumU 3
-  - **Components**: V, S, M
-  - **Area**: 10-ft.-radius emanation around the creature or object touched
+- **Level**: Brd 3, Mes 3, Occ 3, Psy 3, Skd 3, Sor/Wiz 3, SumU 3
+- **Components**: V, S, M
+- **Area**: 10-ft.-radius emanation around the creature or object touched
 
 This spell functions like [[rangoric-srd/spells/Invisibility|invisibility]], except that this spell confers invisibility upon all creatures within 10 feet of the recipient. The center of the effect is mobile with the recipient.
 

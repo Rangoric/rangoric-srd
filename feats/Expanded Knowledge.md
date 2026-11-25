@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Expanded Knowledge
 
-You learn another power.  
+You learn another power.
 
 Prerequisites: Manifester level 3rd.
 

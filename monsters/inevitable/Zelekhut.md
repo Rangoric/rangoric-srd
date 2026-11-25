@@ -41,28 +41,28 @@ tags: [rangoric, rangoric/monster]
 
 # Zelekhut
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar, Inevitable, Lawful)
-  - **Hit Dice**: 10d10+60 (115 hp)
-  - **Initiative**: +9
-  - **Speed**: 50 ft. (10 squares), fly 60 ft. (average)
-  - **Armor Class**: 24 (+5 Dex, +1 dodge, +9 natural, –1 size), touch 15, flat-footed 18
-  - **Base Attack**: +10; **CMB**: +18; **CMD**: 34 (38 vs. trip)
-  - **Attack**: Chains +17 melee (2d6+7 plus 1d6 electricity and [[rangoric-srd/monsters/abilities/Trip|trip]])
-  - **Full Attack**: 2 chains +17 melee (2d6+7 plus 1d6 electricity and [[rangoric-srd/monsters/abilities/Trip|trip]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], *[[rangoric-srd/spells/True Seeing|true seeing]]*, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (chaotic), [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^inevitable|constructed]], chains, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/chaotic, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20
-  - **Saves**: Fort +10, Ref +8, Will +10
-  - **Abilities**: Str 25, Dex 20, Con 16, Int 10, Wis 17, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Athletics|Athletics]] +7 (+15 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Persuasion|Persuasion]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (chain), [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-  - **Environment**: Any land (lawful plane); a lawful-aligned plane
-  - **Organization**: Solitary
-  - **Challenge Rating**: 9
-  - **Treasure**: None
-  - **Alignment**: Always lawful neutral
-  - **Advancement**: 9–16 HD (Large); 17–24 HD (Huge)
-  - **Level Adjustment**: +7
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar, Inevitable, Lawful)
+- **Hit Dice**: 10d10+60 (115 hp)
+- **Initiative**: +9
+- **Speed**: 50 ft. (10 squares), fly 60 ft. (average)
+- **Armor Class**: 24 (+5 Dex, +1 dodge, +9 natural, –1 size), touch 15, flat-footed 18
+- **Base Attack**: +10; **CMB**: +18; **CMD**: 34 (38 vs. trip)
+- **Attack**: Chains +17 melee (2d6+7 plus 1d6 electricity and [[rangoric-srd/monsters/abilities/Trip|trip]])
+- **Full Attack**: 2 chains +17 melee (2d6+7 plus 1d6 electricity and [[rangoric-srd/monsters/abilities/Trip|trip]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], _[[rangoric-srd/spells/True Seeing|true seeing]]_, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (chaotic), [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^inevitable|constructed]], chains, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/chaotic, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20
+- **Saves**: Fort +10, Ref +8, Will +10
+- **Abilities**: Str 25, Dex 20, Con 16, Int 10, Wis 17, Cha 17
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Athletics|Athletics]] +7 (+15 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Persuasion|Persuasion]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20
+- **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (chain), [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+- **Environment**: Any land (lawful plane); a lawful-aligned plane
+- **Organization**: Solitary
+- **Challenge Rating**: 9
+- **Treasure**: None
+- **Alignment**: Always lawful neutral
+- **Advancement**: 9–16 HD (Large); 17–24 HD (Huge)
+- **Level Adjustment**: +7
 
 Zelekhuts are bounty hunters and executioners all rolled into one. They seek out those beings who continually evade justice—either through active flight, or through power and station—and bring law and justice to the multiverse's most notorious fugitives and criminals.
 
@@ -74,6 +74,6 @@ Zelekhuts communicate by [[rangoric-srd/monsters/Monster Types, Sybtypes, and Sp
 
 Once it has found its fugitive, a zelekhut uses its speed and its spell-like abilities to cover the most likely escape routes. Then it immobilizes any defenders while attempting to protect any innocent bystanders. Finally, it apprehends the fugitive with its spiked chains, [[rangoric-srd/combat/Combat Maneuvers#Trip|tripping]] or [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarming]] the foe as needed.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +13): Constant—*[[rangoric-srd/spells/True Seeing|true seeing]]*; At will—*[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]*, *[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]*, *[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, *[[rangoric-srd/spells/Fear|fear]]* (DC 17), *[[rangoric-srd/spells/Hold Person|hold person]]* (DC 16), *[[rangoric-srd/spells/Locate Creature|locate creature]]*; 3/day—*[[rangoric-srd/spells/Hold Monster|hold monster]]* (DC 18), *[[rangoric-srd/spells/Mark of Justice|mark of justice]]*; 1/week—*[[rangoric-srd/spells/Geas, Lesser|lesser geas]]* (DC 17).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +13): Constant—_[[rangoric-srd/spells/True Seeing|true seeing]]_; At will—_[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]_, _[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]_, _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Fear|fear]]_ (DC 17), _[[rangoric-srd/spells/Hold Person|hold person]]_ (DC 16), _[[rangoric-srd/spells/Locate Creature|locate creature]]_; 3/day—_[[rangoric-srd/spells/Hold Monster|hold monster]]_ (DC 18), _[[rangoric-srd/spells/Mark of Justice|mark of justice]]_; 1/week—_[[rangoric-srd/spells/Geas, Lesser|lesser geas]]_ (DC 17).
 
 **Chains (Ex)**: A zelekhut's arms end in long lengths of barbed metal. These chains deal slashing damage and 1d6 points of electricity damage with each hit.

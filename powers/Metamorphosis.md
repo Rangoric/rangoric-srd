@@ -27,7 +27,7 @@ Psychometabolism
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 min./level (D) for a creature; 1 hour/level (D) for an object  
-**Power Points:** 7  
+**Power Points:** 7
 
 You assume the form of a creature of the same type as your normal form, or any other type except construct, elemental, outsider, and undead. The assumed form can have as many Hit Dice as your manifester level, to a maximum of 15.
 

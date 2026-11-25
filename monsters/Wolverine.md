@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Wolverine
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 3d8+9 (22 hp)
-  - **Initiative**: +2
-  - **Speed**: 30 ft. (6 squares), burrow 10 ft., climb 10 ft.
-  - **Armor Class**: 14 (+2 Dex, +2 natural), touch 12, flat-footed 12
-  - **Base Attack**: +2; **CMB**: +4; **CMD**: 16 (20 vs. trip)
-  - **Attack**: Claw +4 melee (1d6+2) or bite +4 melee (1d4+2)
-  - **Full Attack**: 2 claws +4 melee (1d6+2) and bite +4 melee (1d4+2)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Rage
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +5, Ref +5, Will +2
-  - **Abilities**: Str 15, Dex 15, Con 15, Int 2, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +10
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Cold forests
-  - **Organization**: Solitary
-  - **Challenge Rating**: 2
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 4–5 HD (Large)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+- **Hit Dice**: 3d8+9 (22 hp)
+- **Initiative**: +2
+- **Speed**: 30 ft. (6 squares), burrow 10 ft., climb 10 ft.
+- **Armor Class**: 14 (+2 Dex, +2 natural), touch 12, flat-footed 12
+- **Base Attack**: +2; **CMB**: +4; **CMD**: 16 (20 vs. trip)
+- **Attack**: Claw +4 melee (1d6+2) or bite +4 melee (1d4+2)
+- **Full Attack**: 2 claws +4 melee (1d6+2) and bite +4 melee (1d4+2)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Rage
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+- **Saves**: Fort +5, Ref +5, Will +2
+- **Abilities**: Str 15, Dex 15, Con 15, Int 2, Wis 12, Cha 10
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +10
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]]
+- **Environment**: Cold forests
+- **Organization**: Solitary
+- **Challenge Rating**: 2
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 4–5 HD (Large)
+- **Level Adjustment**: —
 
 Wolverines are territorial, especially when it comes to food, and have been known to defend their kills against much larger predators, such as black bears. They are fearsome opponents, launching into a frenzy when wounded. They tend to give off a very strong, unpleasant musk smell when angry.
 

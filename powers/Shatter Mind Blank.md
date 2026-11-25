@@ -31,6 +31,6 @@ Telepathy
 **Duration:** Instantaneous  
 **Saving Throw:** Will negates  
 **Power Resistance:** Yes  
-**Power Points:** 9  
+**Power Points:** 9
 
 This power can negate a [[rangoric-srd/powers/Mind Blank, Psionic|psionic mind blank]] or a [[rangoric-srd/powers/Mind Blank, Personal|personal mind blank]] affecting the target. If the target fails its save and does not overcome your attempt with its power resistance, you can shatter the mind blank by making a successful check (1d20 + your manifester level, maximum +20) against a DC equal to 11 + the manifester level of the creator of the mind blank effect. If you succeed, the psionic mind blank or personal mind blank ends, allowing you to affect the target thereafter with mind-affecting powers.

@@ -27,28 +27,28 @@ tags: [rangoric, rangoric/spell]
 
 # Word of Chaos
 
-*Evocation \[Chaotic, Sonic\]*
+_Evocation \[Chaotic, Sonic\]_
 
-  - **Level**: Chaos 7, Clr 7, Inq 6
-  - **Components**: V
-  - **Casting Time**: 1 standard action
-  - **Range**: 40 ft.
-  - **Area**: Nonchaotic creatures in a 40-ft.- radius spread centered on you
-  - **Duration**: Instantaneous
-  - **Saving Throw**: None or Will negates; see text
-  - **Spell Resistance**: Yes
+- **Level**: Chaos 7, Clr 7, Inq 6
+- **Components**: V
+- **Casting Time**: 1 standard action
+- **Range**: 40 ft.
+- **Area**: Nonchaotic creatures in a 40-ft.- radius spread centered on you
+- **Duration**: Instantaneous
+- **Saving Throw**: None or Will negates; see text
+- **Spell Resistance**: Yes
 
 Any nonchaotic creature within the area who hears the word of chaos suffers the following ill effects.
 
 The effects are cumulative and concurrent. No saving throw is allowed against these effects.
 
-*Deafened*: The creature is [[rangoric-srd/rules/Special Abilities and Conditions|deafened]] for 1d4 rounds.
+_Deafened_: The creature is [[rangoric-srd/rules/Special Abilities and Conditions|deafened]] for 1d4 rounds.
 
-*Stunned*: The creature is [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round.
+_Stunned_: The creature is [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round.
 
-*Confused*: The creature is [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]], as by the confusion spell, for 1d10 minutes. This is a mind-affecting enchantment effect.
+_Confused_: The creature is [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]], as by the confusion spell, for 1d10 minutes. This is a mind-affecting enchantment effect.
 
-*Killed*: Living creatures die. Undead creatures are destroyed.
+_Killed_: Living creatures die. Undead creatures are destroyed.
 
 | HD                     | Effect                              |
 | ---------------------- | ----------------------------------- |

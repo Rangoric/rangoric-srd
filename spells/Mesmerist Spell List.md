@@ -18,458 +18,458 @@ The spells a [[rangoric-srd/classes/Mesmerist#^mesmerist-spells|mesmerist]] can 
 
 ##### 0-Level Mesmerist Spells (Knacks)
 
-| Spell Name | Brief Description |
-| --- | --- |
-| [[rangoric-srd/spells/Bleed\|Bleed]]: | Cause a stabilized creature to resume dying. |
-| [[rangoric-srd/spells/Dancing Lights\|Dancing Lights]]: | Creates torches or other lights. |
-| [[rangoric-srd/spells/Daze\|Daze]]: | Humanoid creature of 4 HD or less loses next action. |
-| [[rangoric-srd/spells/Detect Magic\|Detect Magic]]: | Detects spells and magic items within 60 ft. |
-| [[rangoric-srd/spells/Detect Poison\|Detect Poison]]: | Detects poison in one creature or small object. |
-| [[rangoric-srd/spells/Detect Psychic Significance\|Detect Psychic Significance]]: | Find psychically charged items. |
-| [[rangoric-srd/spells/Flare\|Flare]]: | Dazzles one creature (–1 on attack rolls). |
-| [[rangoric-srd/spells/Ghost Sound\|Ghost Sound]]: | Figment sounds. |
-| [[rangoric-srd/spells/Haunted Fey Aspect\|Haunted Fey Aspect]]: | You surround yourself with disturbing illusions. |
-| [[rangoric-srd/spells/Light\|Light]]: | Object shines like a torch. |
-| [[rangoric-srd/spells/Lullaby\|Lullaby]]: | Makes subject drowsy; –5 on [[rangoric-srd/skills/Perception\|Perception]] checks, –2 on Will saves against sleep. |
-| [[rangoric-srd/spells/Mage Hand\|Mage Hand]]: | 5-pound telekinesis. |
-| [[rangoric-srd/spells/Message\|Message]]: | Whispered conversation at distance. |
-| [[rangoric-srd/spells/Open-Close\|Open-Close]] (F): | Opens or closes small or light things. |
-| [[rangoric-srd/spells/Prestidigitation\|Prestidigitation]]: | Performs minor tricks. |
-| [[rangoric-srd/spells/Read Magic\|Read Magic]]: | Read scrolls and spellbooks. |
-| [[rangoric-srd/spells/Touch of Fatigue\|Touch of Fatigue]]: | Touch attack fatigues target. |
-| [[rangoric-srd/spells/Unwitting Ally\|Unwitting Ally]]: | Subject is considered ally for 1 round. |
+| Spell Name                                                                        | Brief Description                                                                                                  |
+| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| [[rangoric-srd/spells/Bleed\|Bleed]]:                                             | Cause a stabilized creature to resume dying.                                                                       |
+| [[rangoric-srd/spells/Dancing Lights\|Dancing Lights]]:                           | Creates torches or other lights.                                                                                   |
+| [[rangoric-srd/spells/Daze\|Daze]]:                                               | Humanoid creature of 4 HD or less loses next action.                                                               |
+| [[rangoric-srd/spells/Detect Magic\|Detect Magic]]:                               | Detects spells and magic items within 60 ft.                                                                       |
+| [[rangoric-srd/spells/Detect Poison\|Detect Poison]]:                             | Detects poison in one creature or small object.                                                                    |
+| [[rangoric-srd/spells/Detect Psychic Significance\|Detect Psychic Significance]]: | Find psychically charged items.                                                                                    |
+| [[rangoric-srd/spells/Flare\|Flare]]:                                             | Dazzles one creature (–1 on attack rolls).                                                                         |
+| [[rangoric-srd/spells/Ghost Sound\|Ghost Sound]]:                                 | Figment sounds.                                                                                                    |
+| [[rangoric-srd/spells/Haunted Fey Aspect\|Haunted Fey Aspect]]:                   | You surround yourself with disturbing illusions.                                                                   |
+| [[rangoric-srd/spells/Light\|Light]]:                                             | Object shines like a torch.                                                                                        |
+| [[rangoric-srd/spells/Lullaby\|Lullaby]]:                                         | Makes subject drowsy; –5 on [[rangoric-srd/skills/Perception\|Perception]] checks, –2 on Will saves against sleep. |
+| [[rangoric-srd/spells/Mage Hand\|Mage Hand]]:                                     | 5-pound telekinesis.                                                                                               |
+| [[rangoric-srd/spells/Message\|Message]]:                                         | Whispered conversation at distance.                                                                                |
+| [[rangoric-srd/spells/Open-Close\|Open-Close]] (F):                               | Opens or closes small or light things.                                                                             |
+| [[rangoric-srd/spells/Prestidigitation\|Prestidigitation]]:                       | Performs minor tricks.                                                                                             |
+| [[rangoric-srd/spells/Read Magic\|Read Magic]]:                                   | Read scrolls and spellbooks.                                                                                       |
+| [[rangoric-srd/spells/Touch of Fatigue\|Touch of Fatigue]]:                       | Touch attack fatigues target.                                                                                      |
+| [[rangoric-srd/spells/Unwitting Ally\|Unwitting Ally]]:                           | Subject is considered ally for 1 round.                                                                            |
 
 ##### 1st-Level Mesmerist Spells
 
-| Spell Name | Brief Description |
-| --- | --- |
-| [[rangoric-srd/spells/Adoration\|Adoration]]: | You gain a bonus on Persuasion checks and performance combat checks. |
-| [[rangoric-srd/spells/Animate Rope\|Animate Rope]]: | Makes a rope move at your command. |
-| [[rangoric-srd/spells/Anticipate Peril\|Anticipate Peril]]: | Target gains a bonus on one initiative check. |
-| [[rangoric-srd/spells/Aphasia\|Aphasia]]: | Prevent a target from understanding language. |
-| [[rangoric-srd/spells/Auditory Hallucination\|Auditory Hallucination]]: | Create a phantasm with auditory effects. |
-| [[rangoric-srd/spells/Bane\|Bane]]: | Enemies take –1 on attack rolls and saves against fear. |
-| [[rangoric-srd/spells/Beguiling Gift\|Beguiling Gift]] (F): | Subject immediately accepts an offered item and uses it. |
-| [[rangoric-srd/spells/Blend\|Blend]]: | You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to match that of your surroundings. |
-| [[rangoric-srd/spells/Blurred Movement\|Blurred Movement]]: | As blur, but only while you are moving. |
-| [[rangoric-srd/spells/Bungle\|Bungle]]: | Target takes a -20 penalty on its next attack roll or check. |
-| [[rangoric-srd/spells/Burst of Adrenaline\|Burst of Adrenaline]]: | Gain a +8 bonus to Str, Dex, or Con for one roll, then be fatigued for 1 round. |
-| [[rangoric-srd/spells/Burst of Insight\|Burst of Insight]]: | Gain a +8 bonus to Int, Wis, or Cha for one roll, then be dazed for 1 round. |
-| [[rangoric-srd/spells/Call Animal\|Call Animal]]: | Makes an animal come to you. |
-| [[rangoric-srd/spells/Cause Fear\|Cause Fear]]: | One creature of 5 HD or less flees for 1d4 rounds. |
-| [[rangoric-srd/spells/Charge Object\|Charge Object]]: | Infuse psychic energy and ownership history into an item. |
-| [[rangoric-srd/spells/Charm Person\|Charm Person]]: | Makes one person your friend. |
-| [[rangoric-srd/spells/Color Spray\|Color Spray]]: | Knocks [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious\|unconscious]], [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blinds]], and/or [[rangoric-srd/rules/Special Abilities and Conditions#^stunned\|stuns]] 1d6 weak creatures. |
-| [[rangoric-srd/spells/Command\|Command]]: | One subject obeys selected command for 1 round. |
-| [[rangoric-srd/spells/Compel Hostility\|Compel Hostility]] (M): | Compels opponents to attack you instead of your allies. |
-| [[rangoric-srd/spells/Comprehend Languages\|Comprehend Languages]]: | You understand all spoken and written languages. |
-| [[rangoric-srd/spells/Compulsive Liar\|Compulsive Liar]]: | Prevent target from speaking the truth. |
-| [[rangoric-srd/spells/Confusion, Lesser\|Confusion, Lesser]]: | One creature is confused for 1 round. |
-| [[rangoric-srd/spells/Crime of Opportunity\|Crime of Opportunity]] (M): | Compel a target to take a criminal action. |
-| [[rangoric-srd/spells/Decrepit Disguise\|Decrepit Disguise]]: | Make an object seem worthless. |
-| [[rangoric-srd/spells/Deja Vu\|Deja Vu]]: | Make a creature repeat its actions. |
-| [[rangoric-srd/spells/Delusional Pride\|Delusional Pride]]: | Target is penalized on attacks and checks but gains bonus against charms and compulsions. |
-| [[rangoric-srd/spells/Demand Offering\|Demand Offering]]: | Make a creature give you an object it’s holding. |
-| [[rangoric-srd/spells/Detect Secret Doors\|Detect Secret Doors]]: | Reveals hidden doors within 60 ft. |
-| [[rangoric-srd/spells/Detect Undead\|Detect Undead]]: | Reveals undead within 60 ft. |
-| [[rangoric-srd/spells/Diagnose Disease\|Diagnose Disease]]: | Detect and identify diseases. |
-| [[rangoric-srd/spells/Discern Next of Kin\|Discern Next of Kin]] (F): | Read the target's mind to learn about its family. |
-| [[rangoric-srd/spells/Disguise Self\|Disguise Self]]: | Changes your appearance. |
-| [[rangoric-srd/spells/Disguise Weapon\|Disguise Weapon]]: | Changes one weapon's appearance. |
-| [[rangoric-srd/spells/Doom\|Doom]]: | One subject takes –2 on attack rolls, damage rolls, saves, and checks. |
-| [[rangoric-srd/spells/Echo\|Echo]] (F): | Cause a sound to repeat itself |
-| [[rangoric-srd/spells/Expeditious Retreat\|Expeditious Retreat]]: | Your speed increases by 30 ft. |
-| [[rangoric-srd/spells/Faerie Fire\|Faerie Fire]]: | Outlines subjects with light, canceling blur, concealment, and the like. |
-| [[rangoric-srd/spells/Forbid Action\|Forbid Action]]: | Target obeys command to not do something. |
-| [[rangoric-srd/spells/Forced Quiet\|Forced Quiet]]: | Target cannot make loud noises. |
-| [[rangoric-srd/spells/Fumbletongue\|Fumbletongue]]: | Target cannot speak intelligently. |
-| [[rangoric-srd/spells/Grease\|Grease]]: | Makes 10-ft. square or one object slippery. |
-| [[rangoric-srd/spells/Healing Thief\|Healing Thief]] (M): | You siphon half of all magical healing that the targeted creature receives. |
-| [[rangoric-srd/spells/Heightened Awareness\|Heightened Awareness]] (M): | Your recall and ability to process information improve. |
-| [[rangoric-srd/spells/Hide Bruises\|Hide Bruises]] (M): | Disguise a creature's injuries, making them more difficult to heal |
-| [[rangoric-srd/spells/Hideous Laughter\|Hideous Laughter]]: | Subject loses actions for 1 round/level. |
-| [[rangoric-srd/spells/Hobble\|Hobble]] (M): | Reduce creature's speed |
-| [[rangoric-srd/spells/Hypnotism\|Hypnotism]]: | Fascinates 2d4 HD of creatures. |
-| [[rangoric-srd/spells/Ill Omen\|Ill Omen]] (M): | Target rolls twice for checks and attacks and uses worst roll. |
-| [[rangoric-srd/spells/Illusion of Calm\|Illusion of Calm]]: | You appear to be standing still, even when you take some actions. |
-| [[rangoric-srd/spells/Innocence\|Innocence]]: | Gain +10 on Deception checks to seem innocent. |
-| [[rangoric-srd/spells/Interrogation\|Interrogation]]: | Target answers questions or suffers pain. |
-| [[rangoric-srd/spells/Invigorate\|Invigorate]]: | Temporarily relieves fatigue or exhaustion. |
-| [[rangoric-srd/spells/Jitterbugs\|Jitterbugs]]: | You cause the target to perceive itself as being covered in creeping, crawling, stinging bugs. |
-| [[rangoric-srd/spells/Lock Gaze\|Lock Gaze]]: | Compels the target to look only at you for the duration of the spell. |
-| [[rangoric-srd/spells/Magic Aura\|Magic Aura]]: | Alters object’s magic aura. |
-| [[rangoric-srd/spells/Magic Mouth\|Magic Mouth]] (M): | Speaks once when triggered. |
-| [[rangoric-srd/spells/Memorize Page\|Memorize Page]] (F): | Target perfectly memorizes one page of information. |
-| [[rangoric-srd/spells/Memory Lapse\|Memory Lapse]]: | Subject forgets events back to last turn. |
-| [[rangoric-srd/spells/Mental Block\|Mental Block]]: | Prevent the target from using its skill ranks, spells, feats, and abilities. |
-| [[rangoric-srd/spells/Mindlink (Spell)\|Mindlink (Spell)]]: | Communicate a great deal of information in an instant. |
-| [[rangoric-srd/spells/Murderous Command\|Murderous Command]]: | Target is compelled to kill its ally. |
-| [[rangoric-srd/spells/Obscure Object\|Obscure Object]]: | Masks object against scrying. |
-| [[rangoric-srd/spells/Obscure Poison\|Obscure Poison]] (M): | Make it harder to detect a poison or venomous creature. |
-| [[rangoric-srd/spells/Obscuring Mist\|Obscuring Mist]]: | Fog surrounds you. |
-| [[rangoric-srd/spells/Paranoia\|Paranoia]]: | Target becomes hostile to all creatures. |
-| [[rangoric-srd/spells/Polypurpose Panacea\|Polypurpose Panacea]]: | Gain a relaxing or entertaining effect. |
-| [[rangoric-srd/spells/Psychic Reading\|Psychic Reading]]: | Read surface thoughts to learn information about a subject. |
-| [[rangoric-srd/spells/Quintessence (Spell)\|Quintessence (Spell)]]: | Mask any flaws of or damage to a creature or object. |
-| [[rangoric-srd/spells/Ray of Enfeeblement\|Ray of Enfeeblement]]: | Ray deals 1d6 +1 per two levels Str damage. |
-| [[rangoric-srd/spells/Ray of Sickening\|Ray of Sickening]] (M): | Ray makes subject sickened. |
-| [[rangoric-srd/spells/Recharge Innate Magic\|Recharge Innate Magic]]: | You channel magic energy into your own aura, recharging your innate magic abilities. |
-| [[rangoric-srd/spells/Remove Fear\|Remove Fear]]: | Suppresses fear or gives +4 on saves against fear for one subject + one per four levels. |
-| [[rangoric-srd/spells/Remove Sickness\|Remove Sickness]]: | Suppress disease, nausea, and the sickened condition. |
-| [[rangoric-srd/spells/Share Language\|Share Language]] (M): | Subject understands chosen language. |
-| [[rangoric-srd/spells/Silent Image\|Silent Image]]: | Creates minor illusion of your design. |
-| [[rangoric-srd/spells/Sleep\|Sleep]]: | Puts 4 HD of creatures into magical slumber. |
-| [[rangoric-srd/spells/Sow Thought\|Sow Thought]]: | You plant an idea, concept, or suspicion in the mind of the subject. |
-| [[rangoric-srd/spells/Telempathic Projection (Spell)\|Telempathic Projection (Spell)]]: | Alter the target’s attitude or give bonuses to those interacting with the target. |
-| [[rangoric-srd/spells/Theft Ward\|Theft Ward]]: | You ward a single object in your possession against theft. |
-| [[rangoric-srd/spells/Thought Echo\|Thought Echo]]: | Replace surface thoughts with a mental echo. |
-| [[rangoric-srd/spells/Touch of Gracelessness\|Touch of Gracelessness]]: | Subject loses 1d6 + 1 Dex/two levels and is prone to falling down. |
-| [[rangoric-srd/spells/Undetectable Alignment\|Undetectable Alignment]]: | Conceals alignment for 24 hours. |
-| [[rangoric-srd/spells/Unnatural Lust\|Unnatural Lust]]: | Target is compelled to kiss or caress another. |
-| [[rangoric-srd/spells/Unprepared Combatant\|Unprepared Combatant]]: | Target takes -4 on initiative and Reflex saves. |
-| [[rangoric-srd/spells/Unseen Servant\|Unseen Servant]]: | [[rangoric-srd/rules/conditions/Invisibility (Condition)\|Invisible]] force obeys your commands. |
-| [[rangoric-srd/spells/Vanish\|Vanish]]: | As invisibility for 1 round/level (5 max). |
-| [[rangoric-srd/spells/Ventriloquism\|Ventriloquism]]: | Throws voice for 1 min./level. |
-| [[rangoric-srd/spells/Vocal Alteration\|Vocal Alteration]]: | Disguise target's voice. |
-| [[rangoric-srd/spells/Wizened Appearance\|Wizened Appearance]]: | Make a target appear as an older version of itself. |
+| Spell Name                                                                              | Brief Description                                                                                                                                                                                                                                                      |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[rangoric-srd/spells/Adoration\|Adoration]]:                                           | You gain a bonus on Persuasion checks and performance combat checks.                                                                                                                                                                                                   |
+| [[rangoric-srd/spells/Animate Rope\|Animate Rope]]:                                     | Makes a rope move at your command.                                                                                                                                                                                                                                     |
+| [[rangoric-srd/spells/Anticipate Peril\|Anticipate Peril]]:                             | Target gains a bonus on one initiative check.                                                                                                                                                                                                                          |
+| [[rangoric-srd/spells/Aphasia\|Aphasia]]:                                               | Prevent a target from understanding language.                                                                                                                                                                                                                          |
+| [[rangoric-srd/spells/Auditory Hallucination\|Auditory Hallucination]]:                 | Create a phantasm with auditory effects.                                                                                                                                                                                                                               |
+| [[rangoric-srd/spells/Bane\|Bane]]:                                                     | Enemies take –1 on attack rolls and saves against fear.                                                                                                                                                                                                                |
+| [[rangoric-srd/spells/Beguiling Gift\|Beguiling Gift]] (F):                             | Subject immediately accepts an offered item and uses it.                                                                                                                                                                                                               |
+| [[rangoric-srd/spells/Blend\|Blend]]:                                                   | You draw upon your elven link to the wilderness to change the coloration of yourself and your equipment to match that of your surroundings.                                                                                                                            |
+| [[rangoric-srd/spells/Blurred Movement\|Blurred Movement]]:                             | As blur, but only while you are moving.                                                                                                                                                                                                                                |
+| [[rangoric-srd/spells/Bungle\|Bungle]]:                                                 | Target takes a -20 penalty on its next attack roll or check.                                                                                                                                                                                                           |
+| [[rangoric-srd/spells/Burst of Adrenaline\|Burst of Adrenaline]]:                       | Gain a +8 bonus to Str, Dex, or Con for one roll, then be fatigued for 1 round.                                                                                                                                                                                        |
+| [[rangoric-srd/spells/Burst of Insight\|Burst of Insight]]:                             | Gain a +8 bonus to Int, Wis, or Cha for one roll, then be dazed for 1 round.                                                                                                                                                                                           |
+| [[rangoric-srd/spells/Call Animal\|Call Animal]]:                                       | Makes an animal come to you.                                                                                                                                                                                                                                           |
+| [[rangoric-srd/spells/Cause Fear\|Cause Fear]]:                                         | One creature of 5 HD or less flees for 1d4 rounds.                                                                                                                                                                                                                     |
+| [[rangoric-srd/spells/Charge Object\|Charge Object]]:                                   | Infuse psychic energy and ownership history into an item.                                                                                                                                                                                                              |
+| [[rangoric-srd/spells/Charm Person\|Charm Person]]:                                     | Makes one person your friend.                                                                                                                                                                                                                                          |
+| [[rangoric-srd/spells/Color Spray\|Color Spray]]:                                       | Knocks [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious\|unconscious]], [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blinds]], and/or [[rangoric-srd/rules/Special Abilities and Conditions#^stunned\|stuns]] 1d6 weak creatures. |
+| [[rangoric-srd/spells/Command\|Command]]:                                               | One subject obeys selected command for 1 round.                                                                                                                                                                                                                        |
+| [[rangoric-srd/spells/Compel Hostility\|Compel Hostility]] (M):                         | Compels opponents to attack you instead of your allies.                                                                                                                                                                                                                |
+| [[rangoric-srd/spells/Comprehend Languages\|Comprehend Languages]]:                     | You understand all spoken and written languages.                                                                                                                                                                                                                       |
+| [[rangoric-srd/spells/Compulsive Liar\|Compulsive Liar]]:                               | Prevent target from speaking the truth.                                                                                                                                                                                                                                |
+| [[rangoric-srd/spells/Confusion, Lesser\|Confusion, Lesser]]:                           | One creature is confused for 1 round.                                                                                                                                                                                                                                  |
+| [[rangoric-srd/spells/Crime of Opportunity\|Crime of Opportunity]] (M):                 | Compel a target to take a criminal action.                                                                                                                                                                                                                             |
+| [[rangoric-srd/spells/Decrepit Disguise\|Decrepit Disguise]]:                           | Make an object seem worthless.                                                                                                                                                                                                                                         |
+| [[rangoric-srd/spells/Deja Vu\|Deja Vu]]:                                               | Make a creature repeat its actions.                                                                                                                                                                                                                                    |
+| [[rangoric-srd/spells/Delusional Pride\|Delusional Pride]]:                             | Target is penalized on attacks and checks but gains bonus against charms and compulsions.                                                                                                                                                                              |
+| [[rangoric-srd/spells/Demand Offering\|Demand Offering]]:                               | Make a creature give you an object it’s holding.                                                                                                                                                                                                                       |
+| [[rangoric-srd/spells/Detect Secret Doors\|Detect Secret Doors]]:                       | Reveals hidden doors within 60 ft.                                                                                                                                                                                                                                     |
+| [[rangoric-srd/spells/Detect Undead\|Detect Undead]]:                                   | Reveals undead within 60 ft.                                                                                                                                                                                                                                           |
+| [[rangoric-srd/spells/Diagnose Disease\|Diagnose Disease]]:                             | Detect and identify diseases.                                                                                                                                                                                                                                          |
+| [[rangoric-srd/spells/Discern Next of Kin\|Discern Next of Kin]] (F):                   | Read the target's mind to learn about its family.                                                                                                                                                                                                                      |
+| [[rangoric-srd/spells/Disguise Self\|Disguise Self]]:                                   | Changes your appearance.                                                                                                                                                                                                                                               |
+| [[rangoric-srd/spells/Disguise Weapon\|Disguise Weapon]]:                               | Changes one weapon's appearance.                                                                                                                                                                                                                                       |
+| [[rangoric-srd/spells/Doom\|Doom]]:                                                     | One subject takes –2 on attack rolls, damage rolls, saves, and checks.                                                                                                                                                                                                 |
+| [[rangoric-srd/spells/Echo\|Echo]] (F):                                                 | Cause a sound to repeat itself                                                                                                                                                                                                                                         |
+| [[rangoric-srd/spells/Expeditious Retreat\|Expeditious Retreat]]:                       | Your speed increases by 30 ft.                                                                                                                                                                                                                                         |
+| [[rangoric-srd/spells/Faerie Fire\|Faerie Fire]]:                                       | Outlines subjects with light, canceling blur, concealment, and the like.                                                                                                                                                                                               |
+| [[rangoric-srd/spells/Forbid Action\|Forbid Action]]:                                   | Target obeys command to not do something.                                                                                                                                                                                                                              |
+| [[rangoric-srd/spells/Forced Quiet\|Forced Quiet]]:                                     | Target cannot make loud noises.                                                                                                                                                                                                                                        |
+| [[rangoric-srd/spells/Fumbletongue\|Fumbletongue]]:                                     | Target cannot speak intelligently.                                                                                                                                                                                                                                     |
+| [[rangoric-srd/spells/Grease\|Grease]]:                                                 | Makes 10-ft. square or one object slippery.                                                                                                                                                                                                                            |
+| [[rangoric-srd/spells/Healing Thief\|Healing Thief]] (M):                               | You siphon half of all magical healing that the targeted creature receives.                                                                                                                                                                                            |
+| [[rangoric-srd/spells/Heightened Awareness\|Heightened Awareness]] (M):                 | Your recall and ability to process information improve.                                                                                                                                                                                                                |
+| [[rangoric-srd/spells/Hide Bruises\|Hide Bruises]] (M):                                 | Disguise a creature's injuries, making them more difficult to heal                                                                                                                                                                                                     |
+| [[rangoric-srd/spells/Hideous Laughter\|Hideous Laughter]]:                             | Subject loses actions for 1 round/level.                                                                                                                                                                                                                               |
+| [[rangoric-srd/spells/Hobble\|Hobble]] (M):                                             | Reduce creature's speed                                                                                                                                                                                                                                                |
+| [[rangoric-srd/spells/Hypnotism\|Hypnotism]]:                                           | Fascinates 2d4 HD of creatures.                                                                                                                                                                                                                                        |
+| [[rangoric-srd/spells/Ill Omen\|Ill Omen]] (M):                                         | Target rolls twice for checks and attacks and uses worst roll.                                                                                                                                                                                                         |
+| [[rangoric-srd/spells/Illusion of Calm\|Illusion of Calm]]:                             | You appear to be standing still, even when you take some actions.                                                                                                                                                                                                      |
+| [[rangoric-srd/spells/Innocence\|Innocence]]:                                           | Gain +10 on Deception checks to seem innocent.                                                                                                                                                                                                                         |
+| [[rangoric-srd/spells/Interrogation\|Interrogation]]:                                   | Target answers questions or suffers pain.                                                                                                                                                                                                                              |
+| [[rangoric-srd/spells/Invigorate\|Invigorate]]:                                         | Temporarily relieves fatigue or exhaustion.                                                                                                                                                                                                                            |
+| [[rangoric-srd/spells/Jitterbugs\|Jitterbugs]]:                                         | You cause the target to perceive itself as being covered in creeping, crawling, stinging bugs.                                                                                                                                                                         |
+| [[rangoric-srd/spells/Lock Gaze\|Lock Gaze]]:                                           | Compels the target to look only at you for the duration of the spell.                                                                                                                                                                                                  |
+| [[rangoric-srd/spells/Magic Aura\|Magic Aura]]:                                         | Alters object’s magic aura.                                                                                                                                                                                                                                            |
+| [[rangoric-srd/spells/Magic Mouth\|Magic Mouth]] (M):                                   | Speaks once when triggered.                                                                                                                                                                                                                                            |
+| [[rangoric-srd/spells/Memorize Page\|Memorize Page]] (F):                               | Target perfectly memorizes one page of information.                                                                                                                                                                                                                    |
+| [[rangoric-srd/spells/Memory Lapse\|Memory Lapse]]:                                     | Subject forgets events back to last turn.                                                                                                                                                                                                                              |
+| [[rangoric-srd/spells/Mental Block\|Mental Block]]:                                     | Prevent the target from using its skill ranks, spells, feats, and abilities.                                                                                                                                                                                           |
+| [[rangoric-srd/spells/Mindlink (Spell)\|Mindlink (Spell)]]:                             | Communicate a great deal of information in an instant.                                                                                                                                                                                                                 |
+| [[rangoric-srd/spells/Murderous Command\|Murderous Command]]:                           | Target is compelled to kill its ally.                                                                                                                                                                                                                                  |
+| [[rangoric-srd/spells/Obscure Object\|Obscure Object]]:                                 | Masks object against scrying.                                                                                                                                                                                                                                          |
+| [[rangoric-srd/spells/Obscure Poison\|Obscure Poison]] (M):                             | Make it harder to detect a poison or venomous creature.                                                                                                                                                                                                                |
+| [[rangoric-srd/spells/Obscuring Mist\|Obscuring Mist]]:                                 | Fog surrounds you.                                                                                                                                                                                                                                                     |
+| [[rangoric-srd/spells/Paranoia\|Paranoia]]:                                             | Target becomes hostile to all creatures.                                                                                                                                                                                                                               |
+| [[rangoric-srd/spells/Polypurpose Panacea\|Polypurpose Panacea]]:                       | Gain a relaxing or entertaining effect.                                                                                                                                                                                                                                |
+| [[rangoric-srd/spells/Psychic Reading\|Psychic Reading]]:                               | Read surface thoughts to learn information about a subject.                                                                                                                                                                                                            |
+| [[rangoric-srd/spells/Quintessence (Spell)\|Quintessence (Spell)]]:                     | Mask any flaws of or damage to a creature or object.                                                                                                                                                                                                                   |
+| [[rangoric-srd/spells/Ray of Enfeeblement\|Ray of Enfeeblement]]:                       | Ray deals 1d6 +1 per two levels Str damage.                                                                                                                                                                                                                            |
+| [[rangoric-srd/spells/Ray of Sickening\|Ray of Sickening]] (M):                         | Ray makes subject sickened.                                                                                                                                                                                                                                            |
+| [[rangoric-srd/spells/Recharge Innate Magic\|Recharge Innate Magic]]:                   | You channel magic energy into your own aura, recharging your innate magic abilities.                                                                                                                                                                                   |
+| [[rangoric-srd/spells/Remove Fear\|Remove Fear]]:                                       | Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.                                                                                                                                                                               |
+| [[rangoric-srd/spells/Remove Sickness\|Remove Sickness]]:                               | Suppress disease, nausea, and the sickened condition.                                                                                                                                                                                                                  |
+| [[rangoric-srd/spells/Share Language\|Share Language]] (M):                             | Subject understands chosen language.                                                                                                                                                                                                                                   |
+| [[rangoric-srd/spells/Silent Image\|Silent Image]]:                                     | Creates minor illusion of your design.                                                                                                                                                                                                                                 |
+| [[rangoric-srd/spells/Sleep\|Sleep]]:                                                   | Puts 4 HD of creatures into magical slumber.                                                                                                                                                                                                                           |
+| [[rangoric-srd/spells/Sow Thought\|Sow Thought]]:                                       | You plant an idea, concept, or suspicion in the mind of the subject.                                                                                                                                                                                                   |
+| [[rangoric-srd/spells/Telempathic Projection (Spell)\|Telempathic Projection (Spell)]]: | Alter the target’s attitude or give bonuses to those interacting with the target.                                                                                                                                                                                      |
+| [[rangoric-srd/spells/Theft Ward\|Theft Ward]]:                                         | You ward a single object in your possession against theft.                                                                                                                                                                                                             |
+| [[rangoric-srd/spells/Thought Echo\|Thought Echo]]:                                     | Replace surface thoughts with a mental echo.                                                                                                                                                                                                                           |
+| [[rangoric-srd/spells/Touch of Gracelessness\|Touch of Gracelessness]]:                 | Subject loses 1d6 + 1 Dex/two levels and is prone to falling down.                                                                                                                                                                                                     |
+| [[rangoric-srd/spells/Undetectable Alignment\|Undetectable Alignment]]:                 | Conceals alignment for 24 hours.                                                                                                                                                                                                                                       |
+| [[rangoric-srd/spells/Unnatural Lust\|Unnatural Lust]]:                                 | Target is compelled to kiss or caress another.                                                                                                                                                                                                                         |
+| [[rangoric-srd/spells/Unprepared Combatant\|Unprepared Combatant]]:                     | Target takes -4 on initiative and Reflex saves.                                                                                                                                                                                                                        |
+| [[rangoric-srd/spells/Unseen Servant\|Unseen Servant]]:                                 | [[rangoric-srd/rules/conditions/Invisibility (Condition)\|Invisible]] force obeys your commands.                                                                                                                                                                       |
+| [[rangoric-srd/spells/Vanish\|Vanish]]:                                                 | As invisibility for 1 round/level (5 max).                                                                                                                                                                                                                             |
+| [[rangoric-srd/spells/Ventriloquism\|Ventriloquism]]:                                   | Throws voice for 1 min./level.                                                                                                                                                                                                                                         |
+| [[rangoric-srd/spells/Vocal Alteration\|Vocal Alteration]]:                             | Disguise target's voice.                                                                                                                                                                                                                                               |
+| [[rangoric-srd/spells/Wizened Appearance\|Wizened Appearance]]:                         | Make a target appear as an older version of itself.                                                                                                                                                                                                                    |
 
 ##### 2nd-Level Mesmerist Spells
 
-| Spell Name | Brief Description |
-| --- | --- |
-| [[rangoric-srd/spells/Agonizing Rebuke\|Agonizing Rebuke]]: | With a word and a gesture, you instill such apprehension about attacking you in your target that doing so causes it mental distress and pain. |
-| [[rangoric-srd/spells/Alter Self\|Alter Self]]: | Assume form of a similar creature. |
-| [[rangoric-srd/spells/Animal Messenger\|Animal Messenger]]: | Sends a Tiny animal to a specific place. |
-| [[rangoric-srd/spells/Animal Trance\|Animal Trance]]: | Fascinates 2d6 HD of animals. |
-| [[rangoric-srd/spells/Anonymous Interaction\|Anonymous Interaction]]: | Creatures forget details about you and conversations with you. |
-| [[rangoric-srd/spells/Anticipate Thoughts\|Anticipate Thoughts]]: | Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature. |
-| [[rangoric-srd/spells/Apport Object\|Apport Object]]: | Send or receive a small object via teleportation. |
-| [[rangoric-srd/spells/Aversion (Spell)\|Aversion (Spell)]]: | Cause the target to avoid an object or location. |
-| [[rangoric-srd/spells/Babble\|Babble]]: | Target becomes nauseated and causes nearby creatures to become fascinated. |
-| [[rangoric-srd/spells/Bestow Insight\|Bestow Insight]]: | Target gains a +2 insight bonus on skill checks with a skill you have at least one rank in and is considered trained in that skill. |
-| [[rangoric-srd/spells/Blindness-Deafness\|Blindness-Deafness]]: | Makes subject blind or deaf. |
-| [[rangoric-srd/spells/Blistering Invective\|Blistering Invective]]: | Make an Intimidation check against all foes within 30 feet; those demoralized also take fire damage. |
-| [[rangoric-srd/spells/Blood in the Water\|Blood in the Water]]: | Enhance those with a blood frenzy. |
-| [[rangoric-srd/spells/Blur\|Blur]]: | Attacks miss subject 20% of the time. |
-| [[rangoric-srd/spells/Build Trust\|Build Trust]] (M): | Gain various bonuses when interacting with the target. |
-| [[rangoric-srd/spells/Burning Gaze\|Burning Gaze]] (M): | Inflict 1d6 fire damage to creature by looking at it. |
-| [[rangoric-srd/spells/Calm Emotions\|Calm Emotions]]: | Calms creatures, negating emotion effects. |
-| [[rangoric-srd/spells/Castigate\|Castigate]]: | Causes target to be shaken and cower. |
-| [[rangoric-srd/spells/Cat’s Grace\|Cat’s Grace]]: | Subject gains +4 to Dex for 1 min./level. |
-| [[rangoric-srd/spells/Catatonia\|Catatonia]]: | Make a willing target appear to be dead. |
-| [[rangoric-srd/spells/Codespeak\|Codespeak]] (M): | Speak, read, and Write a new code language. |
-| [[rangoric-srd/spells/Cognitive Block\|Cognitive Block]]: | Add a thought component to all of the target’s spells. |
-| [[rangoric-srd/spells/Commune with Birds\|Commune with Birds]]: | You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can understand the responses given by birds in the area. |
-| [[rangoric-srd/spells/Compassionate Ally\|Compassionate Ally]]: | Target is compelled to help injured ally. |
-| [[rangoric-srd/spells/Conditional Favor\|Conditional Favor]]: | Provide another spell whose effects reverse if the target breaks a restriction. |
-| [[rangoric-srd/spells/Confess\|Confess]]: | Creature answers question truthfully or takes 1d6 damage/two levels (max 5d6). |
-| [[rangoric-srd/spells/Daze Monster\|Daze Monster]]: | Living creature of 6 HD or less loses next action. |
-| [[rangoric-srd/spells/Deflect Blame\|Deflect Blame]]: | Blame someone else for your actions. |
-| [[rangoric-srd/spells/Delay Disease\|Delay Disease]]: | The target becomes temporarily immune to disease. |
-| [[rangoric-srd/spells/Delay Pain\|Delay Pain]]: | Ignore pain for 1 hour/level. |
-| [[rangoric-srd/spells/Delay Poison\|Delay Poison]]: | Stops poison from harming subject for 1 hour/ level. |
-| [[rangoric-srd/spells/Detect Anxieties\|Detect Anxieties]] (F): | Learn what makes a creautre anxious. |
-| [[rangoric-srd/spells/Detect Magic, Greater\|Detect Magic, Greater]]: | As detect magic, but learn more information. |
-| [[rangoric-srd/spells/Detect Mindscape\|Detect Mindscape]]: | Sense the presence and attributes of mindscapes. |
-| [[rangoric-srd/spells/Detect Thoughts\|Detect Thoughts]]: | Allows “listening” to surface thoughts. |
-| [[rangoric-srd/spells/Diminish Resistance\|Diminish Resistance]] (M): | Weaken a creature's resistance to one type of energy |
-| [[rangoric-srd/spells/Disfiguring Touch\|Disfiguring Touch]]: | Target becomes disfigured. |
-| [[rangoric-srd/spells/Eagle’s Splendor\|Eagle’s Splendor]]: | Subject gains +4 to Cha for 1 min./level. |
-| [[rangoric-srd/spells/Emotive Block\|Emotive Block]]: | Add an emotion component to all of the target’s spells. |
-| [[rangoric-srd/spells/Enshroud Thoughts\|Enshroud Thoughts]]: | Ward yourself against thought detection and memory alteration. |
-| [[rangoric-srd/spells/Enter Image\|Enter Image]] (M): | Transfers your consciousness to an object bearing your likeness. |
-| [[rangoric-srd/spells/Enthrall\|Enthrall]]: | Captivates all within 100 ft. + 10 ft./level. |
-| [[rangoric-srd/spells/Euphoric Cloud\|Euphoric Cloud]] (M): | Fog obscures vision and fascinates living creatures. |
-| [[rangoric-srd/spells/False Belief\|False Belief]] (M): | Temporarily plant a false memory. |
-| [[rangoric-srd/spells/False Life\|False Life]]: | Gain 1d10 temporary hp +1/level (max +10). |
-| [[rangoric-srd/spells/Focused Scrutiny\|Focused Scrutiny]]: | Gain skill bonuses when interacting with the target. |
-| [[rangoric-srd/spells/Ghostly Disguise\|Ghostly Disguise]]: | You look like a ghost of yourself. |
-| [[rangoric-srd/spells/Glitterdust\|Glitterdust]]: | [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|Blinds]] creatures, outlines [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]] creatures. |
-| [[rangoric-srd/spells/Haunting Mists\|Haunting Mists]]: | Creatures are shaken and take Wis damage. |
-| [[rangoric-srd/spells/Hidden Speech\|Hidden Speech]] (M): | Gain +10 on Deception to send secret messages. |
-| [[rangoric-srd/spells/Hold Animal\|Hold Animal]]: | Paralyzes one animal for 1 round/level. |
-| [[rangoric-srd/spells/Hold Person\|Hold Person]]: | Paralyzes one humanoid for 1 round/level. |
-| [[rangoric-srd/spells/Honeyed Tongue\|Honeyed Tongue]] (M): | Roll 2 dice when using Persuasion, take higher roll. |
-| [[rangoric-srd/spells/Hoodwink\|Hoodwink]] (M): | Distort all of the targets senses |
-| [[rangoric-srd/spells/Howling Agony\|Howling Agony]] (M): | Screaming pain limits the target's actions. |
-| [[rangoric-srd/spells/Hypnotic Pattern\|Hypnotic Pattern]]: | Fascinates (2d4 + level) HD of creatures. |
-| [[rangoric-srd/spells/Implant False Reading\|Implant False Reading]]: | Instill false psychic impressions into an object. |
-| [[rangoric-srd/spells/Inflict Pain (Spell)\|Inflict Pain (Spell)]]: | Target takes a –4 penalty on attack rolls, skill checks, and ability checks. |
-| [[rangoric-srd/spells/Instigate Psychic Duel\|Instigate Psychic Duel]]: | Start a psychic duel between yourself and another creature. |
-| [[rangoric-srd/spells/Investigative Mind\|Investigative Mind]]: | Roll twice and take the higher roll when using certain mental skills. |
-| [[rangoric-srd/spells/Invisibility\|Invisibility]]: | Subject is [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]] for 1 min./level or until it attacks. |
-| [[rangoric-srd/spells/Knock\|Knock]]: | Opens locked or magically sealed door. |
-| [[rangoric-srd/spells/Know Peerage\|Know Peerage]] (M): | Target uses your Society ranks. |
-| [[rangoric-srd/spells/Levitate\|Levitate]]: | Subject moves up and down at your direction. |
-| [[rangoric-srd/spells/Locate Object\|Locate Object]]: | Senses direction toward object (specific or type). |
-| [[rangoric-srd/spells/Mad Hallucination\|Mad Hallucination]]: | Target takes penalties to mental actions. |
-| [[rangoric-srd/spells/Mantle of Calm\|Mantle of Calm]]: | Neutralize the rage effects of those who have attacked you. |
-| [[rangoric-srd/spells/Matchmaker\|Matchmaker]] (M): | Cause two creatures to fall in love. |
-| [[rangoric-srd/spells/Mindlocked Messenger\|Mindlocked Messenger]]: | Target gains a message that can be given only to its intended recipient. |
-| [[rangoric-srd/spells/Minor Image\|Minor Image]]: | As silent image, plus some sound. |
-| [[rangoric-srd/spells/Mirror Image\|Mirror Image]]: | Creates decoy duplicates of you (1d4 +1 per three levels, max 8). |
-| [[rangoric-srd/spells/Misdirection\|Misdirection]]: | Misleads divinations for one creature or object. |
-| [[rangoric-srd/spells/Miserable Pity\|Miserable Pity]]: | Opponents cannot attack a pathetic creature. |
-| [[rangoric-srd/spells/Muffle Sound\|Muffle Sound]]: | Allies gain a bonus on Stealth checks but risk verbal spell failure. |
-| [[rangoric-srd/spells/Object Reading (Spell)\|Object Reading (Spell)]]: | Read psychic impressions left on an object. |
-| [[rangoric-srd/spells/Oneiric Horror\|Oneiric Horror]]: | Distract and fatigue the target with a creature from its nightmares. |
-| [[rangoric-srd/spells/Open Book\|Open Book]] (M): | Make it permanently easier to learn more about a target. |
-| [[rangoric-srd/spells/Oppressive Boredom\|Oppressive Boredom]]: | Target loses its next action. |
-| [[rangoric-srd/spells/Perceive Cues\|Perceive Cues]] (M): | +5 Perception and Sense Motive 10 min./level. |
-| [[rangoric-srd/spells/Phantasmal Affliction\|Phantasmal Affliction]] (M): | Convince a target hat it contracted an affliction. |
-| [[rangoric-srd/spells/Phantom Trap\|Phantom Trap]] (M): | Makes item seem trapped. |
-| [[rangoric-srd/spells/Pilfering Hand\|Pilfering Hand]]: | You may seize an object or manipulate it from afar. |
-| [[rangoric-srd/spells/Placebo Effect\|Placebo Effect]] (M): | Temporarily suppress an affliction or condition. |
-| [[rangoric-srd/spells/Pyrotechnics\|Pyrotechnics]]: | Turns fire into [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blinding]] light or choking smoke. |
-| [[rangoric-srd/spells/Qualm\|Qualm]]: | Target gains penalties on ability checks, skill checks, and concentration checks until it spends an entire round doing nothing. |
-| [[rangoric-srd/spells/Rage\|Rage]]: | Subjects gains +2 to Str and Con, +1 on Will saves, –2 to AC. |
-| [[rangoric-srd/spells/Reckless Infatuation\|Reckless Infatuation]]: | Target is compelled to stay near another. |
-| [[rangoric-srd/spells/Restoration, Lesser\|Restoration, Lesser]]: | Dispels magical ability penalty or repairs 1d4 [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged\|ability damage]]. |
-| [[rangoric-srd/spells/Scare\|Scare]]: | Panics creatures of less than 6 HD. |
-| [[rangoric-srd/spells/Shadow Anchor\|Shadow Anchor]]: | The target's shadow becomes a flexible tether to its current square. |
-| [[rangoric-srd/spells/Shamefully Overdressed\|Shamefully Overdressed]]: | Force target to remove equipment. |
-| [[rangoric-srd/spells/Share Language, Communal\|Share Language, Communal]] (M): | As share language, but you may divide the duration among creatures touched. |
-| [[rangoric-srd/spells/Share Memory\|Share Memory]]: | Share one memory with the target. |
-| [[rangoric-srd/spells/Shifted Steps\|Shifted Steps]]: | Make a target sound as if elsewhere. |
-| [[rangoric-srd/spells/Silence\|Silence]]: | Negates sound in 20-ft. radius. |
-| [[rangoric-srd/spells/Silent Table\|Silent Table]]: | Give yourself privacy by muffling sound leaving the area. |
-| [[rangoric-srd/spells/Steal Breath\|Steal Breath]]: | You pull the breath from a creature's lungs, dealing damage and leaving it unable to speak, use breath weapons, or cast spells with verbal components. |
-| [[rangoric-srd/spells/Steal Voice\|Steal Voice]]: | Target gains the croaking spellblight. |
-| [[rangoric-srd/spells/Stricken Heart\|Stricken Heart]]: | Touch attack deals 3d6 damage and staggers target. |
-| [[rangoric-srd/spells/Suggestion\|Suggestion]]: | Compels subject to follow stated course of action. |
-| [[rangoric-srd/spells/Symbol of Mirroring\|Symbol of Mirroring]] (M): | Triggered rune creates mirror images. |
-| [[rangoric-srd/spells/Tongues\|Tongues]]: | Speak any language. |
-| [[rangoric-srd/spells/Touch of Idiocy\|Touch of Idiocy]]: | Subject takes 1d6 points of Int, Wis, and Cha damage. |
-| [[rangoric-srd/spells/Twilight Haze\|Twilight Haze]]: | Illusory fog obscures vision. |
-| [[rangoric-srd/spells/Unadulterated Loathing\|Unadulterated Loathing]] (M): | Target is compelled to avoid another creature. |
-| [[rangoric-srd/spells/Unliving Rage\|Unliving Rage]]: | As rage, except affecting only undead. |
-| [[rangoric-srd/spells/Voluminous Vocabulary\|Voluminous Vocabulary]] (M): | Grant ability to speak, read, and write one or more languages for 8 hours. |
-| [[rangoric-srd/spells/Wartrain Mount\|Wartrain Mount]] (M): | Animal gains combat training. |
-| [[rangoric-srd/spells/Whispering Wind\|Whispering Wind]]: | Sends a short message 1 mile/level. |
+| Spell Name                                                                      | Brief Description                                                                                                                                                             |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[rangoric-srd/spells/Agonizing Rebuke\|Agonizing Rebuke]]:                     | With a word and a gesture, you instill such apprehension about attacking you in your target that doing so causes it mental distress and pain.                                 |
+| [[rangoric-srd/spells/Alter Self\|Alter Self]]:                                 | Assume form of a similar creature.                                                                                                                                            |
+| [[rangoric-srd/spells/Animal Messenger\|Animal Messenger]]:                     | Sends a Tiny animal to a specific place.                                                                                                                                      |
+| [[rangoric-srd/spells/Animal Trance\|Animal Trance]]:                           | Fascinates 2d6 HD of animals.                                                                                                                                                 |
+| [[rangoric-srd/spells/Anonymous Interaction\|Anonymous Interaction]]:           | Creatures forget details about you and conversations with you.                                                                                                                |
+| [[rangoric-srd/spells/Anticipate Thoughts\|Anticipate Thoughts]]:               | Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature.                                                                                      |
+| [[rangoric-srd/spells/Apport Object\|Apport Object]]:                           | Send or receive a small object via teleportation.                                                                                                                             |
+| [[rangoric-srd/spells/Aversion (Spell)\|Aversion (Spell)]]:                     | Cause the target to avoid an object or location.                                                                                                                              |
+| [[rangoric-srd/spells/Babble\|Babble]]:                                         | Target becomes nauseated and causes nearby creatures to become fascinated.                                                                                                    |
+| [[rangoric-srd/spells/Bestow Insight\|Bestow Insight]]:                         | Target gains a +2 insight bonus on skill checks with a skill you have at least one rank in and is considered trained in that skill.                                           |
+| [[rangoric-srd/spells/Blindness-Deafness\|Blindness-Deafness]]:                 | Makes subject blind or deaf.                                                                                                                                                  |
+| [[rangoric-srd/spells/Blistering Invective\|Blistering Invective]]:             | Make an Intimidation check against all foes within 30 feet; those demoralized also take fire damage.                                                                          |
+| [[rangoric-srd/spells/Blood in the Water\|Blood in the Water]]:                 | Enhance those with a blood frenzy.                                                                                                                                            |
+| [[rangoric-srd/spells/Blur\|Blur]]:                                             | Attacks miss subject 20% of the time.                                                                                                                                         |
+| [[rangoric-srd/spells/Build Trust\|Build Trust]] (M):                           | Gain various bonuses when interacting with the target.                                                                                                                        |
+| [[rangoric-srd/spells/Burning Gaze\|Burning Gaze]] (M):                         | Inflict 1d6 fire damage to creature by looking at it.                                                                                                                         |
+| [[rangoric-srd/spells/Calm Emotions\|Calm Emotions]]:                           | Calms creatures, negating emotion effects.                                                                                                                                    |
+| [[rangoric-srd/spells/Castigate\|Castigate]]:                                   | Causes target to be shaken and cower.                                                                                                                                         |
+| [[rangoric-srd/spells/Cat’s Grace\|Cat’s Grace]]:                               | Subject gains +4 to Dex for 1 min./level.                                                                                                                                     |
+| [[rangoric-srd/spells/Catatonia\|Catatonia]]:                                   | Make a willing target appear to be dead.                                                                                                                                      |
+| [[rangoric-srd/spells/Codespeak\|Codespeak]] (M):                               | Speak, read, and Write a new code language.                                                                                                                                   |
+| [[rangoric-srd/spells/Cognitive Block\|Cognitive Block]]:                       | Add a thought component to all of the target’s spells.                                                                                                                        |
+| [[rangoric-srd/spells/Commune with Birds\|Commune with Birds]]:                 | You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can understand the responses given by birds in the area.                 |
+| [[rangoric-srd/spells/Compassionate Ally\|Compassionate Ally]]:                 | Target is compelled to help injured ally.                                                                                                                                     |
+| [[rangoric-srd/spells/Conditional Favor\|Conditional Favor]]:                   | Provide another spell whose effects reverse if the target breaks a restriction.                                                                                               |
+| [[rangoric-srd/spells/Confess\|Confess]]:                                       | Creature answers question truthfully or takes 1d6 damage/two levels (max 5d6).                                                                                                |
+| [[rangoric-srd/spells/Daze Monster\|Daze Monster]]:                             | Living creature of 6 HD or less loses next action.                                                                                                                            |
+| [[rangoric-srd/spells/Deflect Blame\|Deflect Blame]]:                           | Blame someone else for your actions.                                                                                                                                          |
+| [[rangoric-srd/spells/Delay Disease\|Delay Disease]]:                           | The target becomes temporarily immune to disease.                                                                                                                             |
+| [[rangoric-srd/spells/Delay Pain\|Delay Pain]]:                                 | Ignore pain for 1 hour/level.                                                                                                                                                 |
+| [[rangoric-srd/spells/Delay Poison\|Delay Poison]]:                             | Stops poison from harming subject for 1 hour/ level.                                                                                                                          |
+| [[rangoric-srd/spells/Detect Anxieties\|Detect Anxieties]] (F):                 | Learn what makes a creautre anxious.                                                                                                                                          |
+| [[rangoric-srd/spells/Detect Magic, Greater\|Detect Magic, Greater]]:           | As detect magic, but learn more information.                                                                                                                                  |
+| [[rangoric-srd/spells/Detect Mindscape\|Detect Mindscape]]:                     | Sense the presence and attributes of mindscapes.                                                                                                                              |
+| [[rangoric-srd/spells/Detect Thoughts\|Detect Thoughts]]:                       | Allows “listening” to surface thoughts.                                                                                                                                       |
+| [[rangoric-srd/spells/Diminish Resistance\|Diminish Resistance]] (M):           | Weaken a creature's resistance to one type of energy                                                                                                                          |
+| [[rangoric-srd/spells/Disfiguring Touch\|Disfiguring Touch]]:                   | Target becomes disfigured.                                                                                                                                                    |
+| [[rangoric-srd/spells/Eagle’s Splendor\|Eagle’s Splendor]]:                     | Subject gains +4 to Cha for 1 min./level.                                                                                                                                     |
+| [[rangoric-srd/spells/Emotive Block\|Emotive Block]]:                           | Add an emotion component to all of the target’s spells.                                                                                                                       |
+| [[rangoric-srd/spells/Enshroud Thoughts\|Enshroud Thoughts]]:                   | Ward yourself against thought detection and memory alteration.                                                                                                                |
+| [[rangoric-srd/spells/Enter Image\|Enter Image]] (M):                           | Transfers your consciousness to an object bearing your likeness.                                                                                                              |
+| [[rangoric-srd/spells/Enthrall\|Enthrall]]:                                     | Captivates all within 100 ft. + 10 ft./level.                                                                                                                                 |
+| [[rangoric-srd/spells/Euphoric Cloud\|Euphoric Cloud]] (M):                     | Fog obscures vision and fascinates living creatures.                                                                                                                          |
+| [[rangoric-srd/spells/False Belief\|False Belief]] (M):                         | Temporarily plant a false memory.                                                                                                                                             |
+| [[rangoric-srd/spells/False Life\|False Life]]:                                 | Gain 1d10 temporary hp +1/level (max +10).                                                                                                                                    |
+| [[rangoric-srd/spells/Focused Scrutiny\|Focused Scrutiny]]:                     | Gain skill bonuses when interacting with the target.                                                                                                                          |
+| [[rangoric-srd/spells/Ghostly Disguise\|Ghostly Disguise]]:                     | You look like a ghost of yourself.                                                                                                                                            |
+| [[rangoric-srd/spells/Glitterdust\|Glitterdust]]:                               | [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|Blinds]] creatures, outlines [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]] creatures. |
+| [[rangoric-srd/spells/Haunting Mists\|Haunting Mists]]:                         | Creatures are shaken and take Wis damage.                                                                                                                                     |
+| [[rangoric-srd/spells/Hidden Speech\|Hidden Speech]] (M):                       | Gain +10 on Deception to send secret messages.                                                                                                                                |
+| [[rangoric-srd/spells/Hold Animal\|Hold Animal]]:                               | Paralyzes one animal for 1 round/level.                                                                                                                                       |
+| [[rangoric-srd/spells/Hold Person\|Hold Person]]:                               | Paralyzes one humanoid for 1 round/level.                                                                                                                                     |
+| [[rangoric-srd/spells/Honeyed Tongue\|Honeyed Tongue]] (M):                     | Roll 2 dice when using Persuasion, take higher roll.                                                                                                                          |
+| [[rangoric-srd/spells/Hoodwink\|Hoodwink]] (M):                                 | Distort all of the targets senses                                                                                                                                             |
+| [[rangoric-srd/spells/Howling Agony\|Howling Agony]] (M):                       | Screaming pain limits the target's actions.                                                                                                                                   |
+| [[rangoric-srd/spells/Hypnotic Pattern\|Hypnotic Pattern]]:                     | Fascinates (2d4 + level) HD of creatures.                                                                                                                                     |
+| [[rangoric-srd/spells/Implant False Reading\|Implant False Reading]]:           | Instill false psychic impressions into an object.                                                                                                                             |
+| [[rangoric-srd/spells/Inflict Pain (Spell)\|Inflict Pain (Spell)]]:             | Target takes a –4 penalty on attack rolls, skill checks, and ability checks.                                                                                                  |
+| [[rangoric-srd/spells/Instigate Psychic Duel\|Instigate Psychic Duel]]:         | Start a psychic duel between yourself and another creature.                                                                                                                   |
+| [[rangoric-srd/spells/Investigative Mind\|Investigative Mind]]:                 | Roll twice and take the higher roll when using certain mental skills.                                                                                                         |
+| [[rangoric-srd/spells/Invisibility\|Invisibility]]:                             | Subject is [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]] for 1 min./level or until it attacks.                                                        |
+| [[rangoric-srd/spells/Knock\|Knock]]:                                           | Opens locked or magically sealed door.                                                                                                                                        |
+| [[rangoric-srd/spells/Know Peerage\|Know Peerage]] (M):                         | Target uses your Society ranks.                                                                                                                                               |
+| [[rangoric-srd/spells/Levitate\|Levitate]]:                                     | Subject moves up and down at your direction.                                                                                                                                  |
+| [[rangoric-srd/spells/Locate Object\|Locate Object]]:                           | Senses direction toward object (specific or type).                                                                                                                            |
+| [[rangoric-srd/spells/Mad Hallucination\|Mad Hallucination]]:                   | Target takes penalties to mental actions.                                                                                                                                     |
+| [[rangoric-srd/spells/Mantle of Calm\|Mantle of Calm]]:                         | Neutralize the rage effects of those who have attacked you.                                                                                                                   |
+| [[rangoric-srd/spells/Matchmaker\|Matchmaker]] (M):                             | Cause two creatures to fall in love.                                                                                                                                          |
+| [[rangoric-srd/spells/Mindlocked Messenger\|Mindlocked Messenger]]:             | Target gains a message that can be given only to its intended recipient.                                                                                                      |
+| [[rangoric-srd/spells/Minor Image\|Minor Image]]:                               | As silent image, plus some sound.                                                                                                                                             |
+| [[rangoric-srd/spells/Mirror Image\|Mirror Image]]:                             | Creates decoy duplicates of you (1d4 +1 per three levels, max 8).                                                                                                             |
+| [[rangoric-srd/spells/Misdirection\|Misdirection]]:                             | Misleads divinations for one creature or object.                                                                                                                              |
+| [[rangoric-srd/spells/Miserable Pity\|Miserable Pity]]:                         | Opponents cannot attack a pathetic creature.                                                                                                                                  |
+| [[rangoric-srd/spells/Muffle Sound\|Muffle Sound]]:                             | Allies gain a bonus on Stealth checks but risk verbal spell failure.                                                                                                          |
+| [[rangoric-srd/spells/Object Reading (Spell)\|Object Reading (Spell)]]:         | Read psychic impressions left on an object.                                                                                                                                   |
+| [[rangoric-srd/spells/Oneiric Horror\|Oneiric Horror]]:                         | Distract and fatigue the target with a creature from its nightmares.                                                                                                          |
+| [[rangoric-srd/spells/Open Book\|Open Book]] (M):                               | Make it permanently easier to learn more about a target.                                                                                                                      |
+| [[rangoric-srd/spells/Oppressive Boredom\|Oppressive Boredom]]:                 | Target loses its next action.                                                                                                                                                 |
+| [[rangoric-srd/spells/Perceive Cues\|Perceive Cues]] (M):                       | +5 Perception and Sense Motive 10 min./level.                                                                                                                                 |
+| [[rangoric-srd/spells/Phantasmal Affliction\|Phantasmal Affliction]] (M):       | Convince a target hat it contracted an affliction.                                                                                                                            |
+| [[rangoric-srd/spells/Phantom Trap\|Phantom Trap]] (M):                         | Makes item seem trapped.                                                                                                                                                      |
+| [[rangoric-srd/spells/Pilfering Hand\|Pilfering Hand]]:                         | You may seize an object or manipulate it from afar.                                                                                                                           |
+| [[rangoric-srd/spells/Placebo Effect\|Placebo Effect]] (M):                     | Temporarily suppress an affliction or condition.                                                                                                                              |
+| [[rangoric-srd/spells/Pyrotechnics\|Pyrotechnics]]:                             | Turns fire into [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blinding]] light or choking smoke.                                                            |
+| [[rangoric-srd/spells/Qualm\|Qualm]]:                                           | Target gains penalties on ability checks, skill checks, and concentration checks until it spends an entire round doing nothing.                                               |
+| [[rangoric-srd/spells/Rage\|Rage]]:                                             | Subjects gains +2 to Str and Con, +1 on Will saves, –2 to AC.                                                                                                                 |
+| [[rangoric-srd/spells/Reckless Infatuation\|Reckless Infatuation]]:             | Target is compelled to stay near another.                                                                                                                                     |
+| [[rangoric-srd/spells/Restoration, Lesser\|Restoration, Lesser]]:               | Dispels magical ability penalty or repairs 1d4 [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged\|ability damage]].                                      |
+| [[rangoric-srd/spells/Scare\|Scare]]:                                           | Panics creatures of less than 6 HD.                                                                                                                                           |
+| [[rangoric-srd/spells/Shadow Anchor\|Shadow Anchor]]:                           | The target's shadow becomes a flexible tether to its current square.                                                                                                          |
+| [[rangoric-srd/spells/Shamefully Overdressed\|Shamefully Overdressed]]:         | Force target to remove equipment.                                                                                                                                             |
+| [[rangoric-srd/spells/Share Language, Communal\|Share Language, Communal]] (M): | As share language, but you may divide the duration among creatures touched.                                                                                                   |
+| [[rangoric-srd/spells/Share Memory\|Share Memory]]:                             | Share one memory with the target.                                                                                                                                             |
+| [[rangoric-srd/spells/Shifted Steps\|Shifted Steps]]:                           | Make a target sound as if elsewhere.                                                                                                                                          |
+| [[rangoric-srd/spells/Silence\|Silence]]:                                       | Negates sound in 20-ft. radius.                                                                                                                                               |
+| [[rangoric-srd/spells/Silent Table\|Silent Table]]:                             | Give yourself privacy by muffling sound leaving the area.                                                                                                                     |
+| [[rangoric-srd/spells/Steal Breath\|Steal Breath]]:                             | You pull the breath from a creature's lungs, dealing damage and leaving it unable to speak, use breath weapons, or cast spells with verbal components.                        |
+| [[rangoric-srd/spells/Steal Voice\|Steal Voice]]:                               | Target gains the croaking spellblight.                                                                                                                                        |
+| [[rangoric-srd/spells/Stricken Heart\|Stricken Heart]]:                         | Touch attack deals 3d6 damage and staggers target.                                                                                                                            |
+| [[rangoric-srd/spells/Suggestion\|Suggestion]]:                                 | Compels subject to follow stated course of action.                                                                                                                            |
+| [[rangoric-srd/spells/Symbol of Mirroring\|Symbol of Mirroring]] (M):           | Triggered rune creates mirror images.                                                                                                                                         |
+| [[rangoric-srd/spells/Tongues\|Tongues]]:                                       | Speak any language.                                                                                                                                                           |
+| [[rangoric-srd/spells/Touch of Idiocy\|Touch of Idiocy]]:                       | Subject takes 1d6 points of Int, Wis, and Cha damage.                                                                                                                         |
+| [[rangoric-srd/spells/Twilight Haze\|Twilight Haze]]:                           | Illusory fog obscures vision.                                                                                                                                                 |
+| [[rangoric-srd/spells/Unadulterated Loathing\|Unadulterated Loathing]] (M):     | Target is compelled to avoid another creature.                                                                                                                                |
+| [[rangoric-srd/spells/Unliving Rage\|Unliving Rage]]:                           | As rage, except affecting only undead.                                                                                                                                        |
+| [[rangoric-srd/spells/Voluminous Vocabulary\|Voluminous Vocabulary]] (M):       | Grant ability to speak, read, and write one or more languages for 8 hours.                                                                                                    |
+| [[rangoric-srd/spells/Wartrain Mount\|Wartrain Mount]] (M):                     | Animal gains combat training.                                                                                                                                                 |
+| [[rangoric-srd/spells/Whispering Wind\|Whispering Wind]]:                       | Sends a short message 1 mile/level.                                                                                                                                           |
 
 ##### 3rd-Level Mesmerist Spells
 
-| Spell Name | Brief Description |
-| --- | --- |
-| [[rangoric-srd/spells/Adjustable Disguise\|Adjustable Disguise]]: | As disguise self, but you can change the disguise as a swift action. |
-| [[rangoric-srd/spells/Alpha Instinct\|Alpha Instinct]] (M): | Gain bonuses when you're interacting with animals |
-| [[rangoric-srd/spells/Analyze Aura\|Analyze Aura]]: | Read a creature’s or an object’s alignment, emotion, health, and magic auras. |
-| [[rangoric-srd/spells/Apport Animal\|Apport Animal]]: | Send or receive a Tiny or smaller animal via teleportation. |
-| [[rangoric-srd/spells/Audiovisual Hallucination\|Audiovisual Hallucination]]: | Create a phantasm with auditory and visual effects. |
-| [[rangoric-srd/spells/Aura Alteration (Spell)\|Aura Alteration (Spell)]]: | Masks a creature’s or an object’s alignment, emotion, health, and magic auras. |
-| [[rangoric-srd/spells/Aura of the Unremarkable\|Aura of the Unremarkable]] (M): | Make actions seem mundane to nearby creatures. |
-| [[rangoric-srd/spells/Aura Sight\|Aura Sight]]: | Alignment auras become visible to you. |
-| [[rangoric-srd/spells/Bestow Curse\|Bestow Curse]]: | –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action. |
-| [[rangoric-srd/spells/Charm Monster\|Charm Monster]]: | Makes monster believe it is your ally. |
-| [[rangoric-srd/spells/Clairaudience-Clairvoyance\|Clairaudience-Clairvoyance]] (F): | Hear or see at a distance for 1 min./level. |
-| [[rangoric-srd/spells/Conditional Curse\|Conditional Curse]]: | Bestow a curse that is difficult to remove without fulfilling the condition. |
-| [[rangoric-srd/spells/Confusion\|Confusion]]: | Subjects behave oddly for 1 round/level. |
-| [[rangoric-srd/spells/Control Summoned Creature\|Control Summoned Creature]]: | Direct a summoned monster as if you had summoned it. |
-| [[rangoric-srd/spells/Crushing Despair\|Crushing Despair]]: | Subjects take –2 on attack rolls, damage rolls, saves, and checks. |
-| [[rangoric-srd/spells/Cup of Dust\|Cup of Dust]] (M): | Causes a creature to become dehydrated. |
-| [[rangoric-srd/spells/Curse of Disgust\|Curse of Disgust]]: | Target is sickened while viewing trigger. |
-| [[rangoric-srd/spells/Curse of Magic Negation\|Curse of Magic Negation]] (M): | Target gains the negated spellblight. |
-| [[rangoric-srd/spells/Deep Slumber\|Deep Slumber]]: | Puts 10 HD of creatures to sleep. |
-| [[rangoric-srd/spells/Demanding Message\|Demanding Message]] (F): | Send messages as per message with a suggestion for one creature. |
-| [[rangoric-srd/spells/Detect Desires\|Detect Desires]] (F): | Learn what a creatures desire. |
-| [[rangoric-srd/spells/Dispel Magic\|Dispel Magic]]: | Cancels magical spells and effects. |
-| [[rangoric-srd/spells/Displacement\|Displacement]]: | Attacks miss subject 50%. |
-| [[rangoric-srd/spells/Dominate Animal\|Dominate Animal]]: | Subject animal obeys silent mental commands. |
-| [[rangoric-srd/spells/Elemental Speech\|Elemental Speech]] (M): | Enables you to speak to elementals and some creatures. |
-| [[rangoric-srd/spells/Enchantment Foil\|Enchantment Foil]]: | Trick opponents who try to cast enchantments on you. |
-| [[rangoric-srd/spells/False Future\|False Future]] (M): | Cause divinations of the future to reveal the result you choose. |
-| [[rangoric-srd/spells/False Life, Greater\|False Life, Greater]] (M): | Gain 2d10 temporary hp + 1/level. |
-| [[rangoric-srd/spells/Fear\|Fear]]: | Subjects within cone flee for 1 round/level. |
-| [[rangoric-srd/spells/Fearsome Duplicate\|Fearsome Duplicate]]: | You create a larger and far more menacing version of yourself that you can send forth, manipulate like a puppet, and use to interact with others. |
-| [[rangoric-srd/spells/Geas, Lesser\|Geas, Lesser]]: | Commands subject of 7 HD or less. |
-| [[rangoric-srd/spells/Glibness\|Glibness]]: | You gain +30 bonus on [[rangoric-srd/skills/Deception\|Deception]] checks, and your lies can escape magical discernment. |
-| [[rangoric-srd/spells/Haunting Choir\|Haunting Choir]]: | Spirits cause wracking pain to listeners. |
-| [[rangoric-srd/spells/Hostile Levitation\|Hostile Levitation]] (M): | Levitates the targeted creature up off the ground. |
-| [[rangoric-srd/spells/Illusion of Treachery\|Illusion of Treachery]] (F): | Make it seem like another is responsible for your attacks. |
-| [[rangoric-srd/spells/Illusory Script\|Illusory Script]] (M): | Only intended reader can decipher. |
-| [[rangoric-srd/spells/Instant Fake\|Instant Fake]] (M): | Provide a short-term replica of an object. |
-| [[rangoric-srd/spells/Invigorate, Mass\|Invigorate, Mass]]: | As invigorate, but multiple creatures. |
-| [[rangoric-srd/spells/Invisibility Sphere\|Invisibility Sphere]]: | Makes everyone within 10 ft. [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]]. |
-| [[rangoric-srd/spells/Isolate\|Isolate]]: | Make a creature invisible and silent to their allies. |
-| [[rangoric-srd/spells/Jester’s Jaunt\|Jester’s Jaunt]]: | Teleport target within 30 ft. of itself. |
-| [[rangoric-srd/spells/Loathsome Veil\|Loathsome Veil]] (M): | Nauseates and/or sickens weak creatures. |
-| [[rangoric-srd/spells/Magic Aura, Greater\|Magic Aura, Greater]] (F): | As magic aura, but also affects creatures and allows more options. |
-| [[rangoric-srd/spells/Major Image\|Major Image]]: | As silent image, plus sound, smell and thermal effects. |
-| [[rangoric-srd/spells/Malicious Spite\|Malicious Spite]] (M): | Target is compelled to plot against another. |
-| [[rangoric-srd/spells/Marionette Possession\|Marionette Possession]] (F): | As magic jar, but limited to line of sight. |
-| [[rangoric-srd/spells/Mindscape Door\|Mindscape Door]]: | Create a portal allowing entry to and exit from a mindscape. |
-| [[rangoric-srd/spells/Minor Dream\|Minor Dream]]: | This spell functions as the dream spell, except as follows. |
-| [[rangoric-srd/spells/Nixie’s Lure\|Nixie’s Lure]]: | This spell creates an unearthly and infectious song that seductively summons all who hear it. |
-| [[rangoric-srd/spells/Node of Blasting\|Node of Blasting]]: | Place a trap on an object to mentally damage a creature that touches it. |
-| [[rangoric-srd/spells/Nondetection\|Nondetection]] (M): | Hides subject from divination, scrying. |
-| [[rangoric-srd/spells/Object Possession, Lesser\|Object Possession, Lesser]]: | Project your soul into an object, animating it. |
-| [[rangoric-srd/spells/Oneiric Horror, Greater\|Oneiric Horror, Greater]]: | As oneiric horror, plus Str damage. |
-| [[rangoric-srd/spells/Overwhelming Grief\|Overwhelming Grief]]: | Grieving target can take no actions and is denied its Dex bonus. |
-| [[rangoric-srd/spells/Ray of Exhaustion\|Ray of Exhaustion]]: | Ray makes subject [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted\|exhausted]]. |
-| [[rangoric-srd/spells/Remove Blindness-Deafness\|Remove Blindness-Deafness]]: | Cures normal or magical blindness or deafness. |
-| [[rangoric-srd/spells/Remove Curse\|Remove Curse]]: | Frees object or person from curse. |
-| [[rangoric-srd/spells/Resilient Reservoir\|Resilient Reservoir]]: | Creates a magical well of retribution that a caster can unleash with blinding speed. |
-| [[rangoric-srd/spells/Scrying\|Scrying]] (F): | Spies on subject from a distance. |
-| [[rangoric-srd/spells/Secret Page\|Secret Page]]: | Changes one page to hide its real content. |
-| [[rangoric-srd/spells/See Invisibility\|See Invisibility]]: | Reveals [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]] creatures or objects. |
-| [[rangoric-srd/spells/Seek Thoughts\|Seek Thoughts]] (M): | Detects thinking creatures' thoughts. |
-| [[rangoric-srd/spells/Sending\|Sending]]: | Delivers short message anywhere, instantly. |
-| [[rangoric-srd/spells/Smug Narcissism\|Smug Narcissism]] (M): | Target is distracted by its sense of self. |
-| [[rangoric-srd/spells/Spite\|Spite]] (M): | Inflict touch spell upon creature that attacks you. |
-| [[rangoric-srd/spells/Symbol of Laughter\|Symbol of Laughter]] (M): | Triggered rune makes nearby creatures lose actions for 1 round/level. |
-| [[rangoric-srd/spells/Synaptic Pulse\|Synaptic Pulse]]: | Stun creatures in a 30-ft. radius. |
-| [[rangoric-srd/spells/Synaptic Scramble\|Synaptic Scramble]]: | Prevent the target from communicating and cause it to act randomly. |
-| [[rangoric-srd/spells/Synesthesia\|Synesthesia]]: | Creature moves at half speed, takes penalties, and has trouble casting spells. |
-| [[rangoric-srd/spells/Terrible Remorse\|Terrible Remorse]]: | Creature is compelled to harm itself. |
-| [[rangoric-srd/spells/They Know\|They Know]] (M): | Convince target that a nearby creature knows her greatest secret. |
-| [[rangoric-srd/spells/Tongues, Communal\|Tongues, Communal]] (M): | As tongues, but you may divide the duration among creatures touched. |
-| [[rangoric-srd/spells/Trade Items\|Trade Items]]: | Swap a focus object with a target object. |
-| [[rangoric-srd/spells/Triggered Suggestion\|Triggered Suggestion]]: | As suggestion, but triggered only and target doesn't remember the suggestion. |
-| [[rangoric-srd/spells/Vampiric Touch\|Vampiric Touch]]: | Touch deals 1d6/two levels damage; caster gains damage as hp. |
-| [[rangoric-srd/spells/Vision of Hell\|Vision of Hell]] (M): | Illusory hellscape makes creatures shaken. |
-| [[rangoric-srd/spells/Witness\|Witness]]: | See through the target's eyes and ears. |
+| Spell Name                                                                          | Brief Description                                                                                                                                 |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[rangoric-srd/spells/Adjustable Disguise\|Adjustable Disguise]]:                   | As disguise self, but you can change the disguise as a swift action.                                                                              |
+| [[rangoric-srd/spells/Alpha Instinct\|Alpha Instinct]] (M):                         | Gain bonuses when you're interacting with animals                                                                                                 |
+| [[rangoric-srd/spells/Analyze Aura\|Analyze Aura]]:                                 | Read a creature’s or an object’s alignment, emotion, health, and magic auras.                                                                     |
+| [[rangoric-srd/spells/Apport Animal\|Apport Animal]]:                               | Send or receive a Tiny or smaller animal via teleportation.                                                                                       |
+| [[rangoric-srd/spells/Audiovisual Hallucination\|Audiovisual Hallucination]]:       | Create a phantasm with auditory and visual effects.                                                                                               |
+| [[rangoric-srd/spells/Aura Alteration (Spell)\|Aura Alteration (Spell)]]:           | Masks a creature’s or an object’s alignment, emotion, health, and magic auras.                                                                    |
+| [[rangoric-srd/spells/Aura of the Unremarkable\|Aura of the Unremarkable]] (M):     | Make actions seem mundane to nearby creatures.                                                                                                    |
+| [[rangoric-srd/spells/Aura Sight\|Aura Sight]]:                                     | Alignment auras become visible to you.                                                                                                            |
+| [[rangoric-srd/spells/Bestow Curse\|Bestow Curse]]:                                 | –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.                                               |
+| [[rangoric-srd/spells/Charm Monster\|Charm Monster]]:                               | Makes monster believe it is your ally.                                                                                                            |
+| [[rangoric-srd/spells/Clairaudience-Clairvoyance\|Clairaudience-Clairvoyance]] (F): | Hear or see at a distance for 1 min./level.                                                                                                       |
+| [[rangoric-srd/spells/Conditional Curse\|Conditional Curse]]:                       | Bestow a curse that is difficult to remove without fulfilling the condition.                                                                      |
+| [[rangoric-srd/spells/Confusion\|Confusion]]:                                       | Subjects behave oddly for 1 round/level.                                                                                                          |
+| [[rangoric-srd/spells/Control Summoned Creature\|Control Summoned Creature]]:       | Direct a summoned monster as if you had summoned it.                                                                                              |
+| [[rangoric-srd/spells/Crushing Despair\|Crushing Despair]]:                         | Subjects take –2 on attack rolls, damage rolls, saves, and checks.                                                                                |
+| [[rangoric-srd/spells/Cup of Dust\|Cup of Dust]] (M):                               | Causes a creature to become dehydrated.                                                                                                           |
+| [[rangoric-srd/spells/Curse of Disgust\|Curse of Disgust]]:                         | Target is sickened while viewing trigger.                                                                                                         |
+| [[rangoric-srd/spells/Curse of Magic Negation\|Curse of Magic Negation]] (M):       | Target gains the negated spellblight.                                                                                                             |
+| [[rangoric-srd/spells/Deep Slumber\|Deep Slumber]]:                                 | Puts 10 HD of creatures to sleep.                                                                                                                 |
+| [[rangoric-srd/spells/Demanding Message\|Demanding Message]] (F):                   | Send messages as per message with a suggestion for one creature.                                                                                  |
+| [[rangoric-srd/spells/Detect Desires\|Detect Desires]] (F):                         | Learn what a creatures desire.                                                                                                                    |
+| [[rangoric-srd/spells/Dispel Magic\|Dispel Magic]]:                                 | Cancels magical spells and effects.                                                                                                               |
+| [[rangoric-srd/spells/Displacement\|Displacement]]:                                 | Attacks miss subject 50%.                                                                                                                         |
+| [[rangoric-srd/spells/Dominate Animal\|Dominate Animal]]:                           | Subject animal obeys silent mental commands.                                                                                                      |
+| [[rangoric-srd/spells/Elemental Speech\|Elemental Speech]] (M):                     | Enables you to speak to elementals and some creatures.                                                                                            |
+| [[rangoric-srd/spells/Enchantment Foil\|Enchantment Foil]]:                         | Trick opponents who try to cast enchantments on you.                                                                                              |
+| [[rangoric-srd/spells/False Future\|False Future]] (M):                             | Cause divinations of the future to reveal the result you choose.                                                                                  |
+| [[rangoric-srd/spells/False Life, Greater\|False Life, Greater]] (M):               | Gain 2d10 temporary hp + 1/level.                                                                                                                 |
+| [[rangoric-srd/spells/Fear\|Fear]]:                                                 | Subjects within cone flee for 1 round/level.                                                                                                      |
+| [[rangoric-srd/spells/Fearsome Duplicate\|Fearsome Duplicate]]:                     | You create a larger and far more menacing version of yourself that you can send forth, manipulate like a puppet, and use to interact with others. |
+| [[rangoric-srd/spells/Geas, Lesser\|Geas, Lesser]]:                                 | Commands subject of 7 HD or less.                                                                                                                 |
+| [[rangoric-srd/spells/Glibness\|Glibness]]:                                         | You gain +30 bonus on [[rangoric-srd/skills/Deception\|Deception]] checks, and your lies can escape magical discernment.                          |
+| [[rangoric-srd/spells/Haunting Choir\|Haunting Choir]]:                             | Spirits cause wracking pain to listeners.                                                                                                         |
+| [[rangoric-srd/spells/Hostile Levitation\|Hostile Levitation]] (M):                 | Levitates the targeted creature up off the ground.                                                                                                |
+| [[rangoric-srd/spells/Illusion of Treachery\|Illusion of Treachery]] (F):           | Make it seem like another is responsible for your attacks.                                                                                        |
+| [[rangoric-srd/spells/Illusory Script\|Illusory Script]] (M):                       | Only intended reader can decipher.                                                                                                                |
+| [[rangoric-srd/spells/Instant Fake\|Instant Fake]] (M):                             | Provide a short-term replica of an object.                                                                                                        |
+| [[rangoric-srd/spells/Invigorate, Mass\|Invigorate, Mass]]:                         | As invigorate, but multiple creatures.                                                                                                            |
+| [[rangoric-srd/spells/Invisibility Sphere\|Invisibility Sphere]]:                   | Makes everyone within 10 ft. [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]].                                               |
+| [[rangoric-srd/spells/Isolate\|Isolate]]:                                           | Make a creature invisible and silent to their allies.                                                                                             |
+| [[rangoric-srd/spells/Jester’s Jaunt\|Jester’s Jaunt]]:                             | Teleport target within 30 ft. of itself.                                                                                                          |
+| [[rangoric-srd/spells/Loathsome Veil\|Loathsome Veil]] (M):                         | Nauseates and/or sickens weak creatures.                                                                                                          |
+| [[rangoric-srd/spells/Magic Aura, Greater\|Magic Aura, Greater]] (F):               | As magic aura, but also affects creatures and allows more options.                                                                                |
+| [[rangoric-srd/spells/Major Image\|Major Image]]:                                   | As silent image, plus sound, smell and thermal effects.                                                                                           |
+| [[rangoric-srd/spells/Malicious Spite\|Malicious Spite]] (M):                       | Target is compelled to plot against another.                                                                                                      |
+| [[rangoric-srd/spells/Marionette Possession\|Marionette Possession]] (F):           | As magic jar, but limited to line of sight.                                                                                                       |
+| [[rangoric-srd/spells/Mindscape Door\|Mindscape Door]]:                             | Create a portal allowing entry to and exit from a mindscape.                                                                                      |
+| [[rangoric-srd/spells/Minor Dream\|Minor Dream]]:                                   | This spell functions as the dream spell, except as follows.                                                                                       |
+| [[rangoric-srd/spells/Nixie’s Lure\|Nixie’s Lure]]:                                 | This spell creates an unearthly and infectious song that seductively summons all who hear it.                                                     |
+| [[rangoric-srd/spells/Node of Blasting\|Node of Blasting]]:                         | Place a trap on an object to mentally damage a creature that touches it.                                                                          |
+| [[rangoric-srd/spells/Nondetection\|Nondetection]] (M):                             | Hides subject from divination, scrying.                                                                                                           |
+| [[rangoric-srd/spells/Object Possession, Lesser\|Object Possession, Lesser]]:       | Project your soul into an object, animating it.                                                                                                   |
+| [[rangoric-srd/spells/Oneiric Horror, Greater\|Oneiric Horror, Greater]]:           | As oneiric horror, plus Str damage.                                                                                                               |
+| [[rangoric-srd/spells/Overwhelming Grief\|Overwhelming Grief]]:                     | Grieving target can take no actions and is denied its Dex bonus.                                                                                  |
+| [[rangoric-srd/spells/Ray of Exhaustion\|Ray of Exhaustion]]:                       | Ray makes subject [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted\|exhausted]].                                                  |
+| [[rangoric-srd/spells/Remove Blindness-Deafness\|Remove Blindness-Deafness]]:       | Cures normal or magical blindness or deafness.                                                                                                    |
+| [[rangoric-srd/spells/Remove Curse\|Remove Curse]]:                                 | Frees object or person from curse.                                                                                                                |
+| [[rangoric-srd/spells/Resilient Reservoir\|Resilient Reservoir]]:                   | Creates a magical well of retribution that a caster can unleash with blinding speed.                                                              |
+| [[rangoric-srd/spells/Scrying\|Scrying]] (F):                                       | Spies on subject from a distance.                                                                                                                 |
+| [[rangoric-srd/spells/Secret Page\|Secret Page]]:                                   | Changes one page to hide its real content.                                                                                                        |
+| [[rangoric-srd/spells/See Invisibility\|See Invisibility]]:                         | Reveals [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]] creatures or objects.                                               |
+| [[rangoric-srd/spells/Seek Thoughts\|Seek Thoughts]] (M):                           | Detects thinking creatures' thoughts.                                                                                                             |
+| [[rangoric-srd/spells/Sending\|Sending]]:                                           | Delivers short message anywhere, instantly.                                                                                                       |
+| [[rangoric-srd/spells/Smug Narcissism\|Smug Narcissism]] (M):                       | Target is distracted by its sense of self.                                                                                                        |
+| [[rangoric-srd/spells/Spite\|Spite]] (M):                                           | Inflict touch spell upon creature that attacks you.                                                                                               |
+| [[rangoric-srd/spells/Symbol of Laughter\|Symbol of Laughter]] (M):                 | Triggered rune makes nearby creatures lose actions for 1 round/level.                                                                             |
+| [[rangoric-srd/spells/Synaptic Pulse\|Synaptic Pulse]]:                             | Stun creatures in a 30-ft. radius.                                                                                                                |
+| [[rangoric-srd/spells/Synaptic Scramble\|Synaptic Scramble]]:                       | Prevent the target from communicating and cause it to act randomly.                                                                               |
+| [[rangoric-srd/spells/Synesthesia\|Synesthesia]]:                                   | Creature moves at half speed, takes penalties, and has trouble casting spells.                                                                    |
+| [[rangoric-srd/spells/Terrible Remorse\|Terrible Remorse]]:                         | Creature is compelled to harm itself.                                                                                                             |
+| [[rangoric-srd/spells/They Know\|They Know]] (M):                                   | Convince target that a nearby creature knows her greatest secret.                                                                                 |
+| [[rangoric-srd/spells/Tongues, Communal\|Tongues, Communal]] (M):                   | As tongues, but you may divide the duration among creatures touched.                                                                              |
+| [[rangoric-srd/spells/Trade Items\|Trade Items]]:                                   | Swap a focus object with a target object.                                                                                                         |
+| [[rangoric-srd/spells/Triggered Suggestion\|Triggered Suggestion]]:                 | As suggestion, but triggered only and target doesn't remember the suggestion.                                                                     |
+| [[rangoric-srd/spells/Vampiric Touch\|Vampiric Touch]]:                             | Touch deals 1d6/two levels damage; caster gains damage as hp.                                                                                     |
+| [[rangoric-srd/spells/Vision of Hell\|Vision of Hell]] (M):                         | Illusory hellscape makes creatures shaken.                                                                                                        |
+| [[rangoric-srd/spells/Witness\|Witness]]:                                           | See through the target's eyes and ears.                                                                                                           |
 
 ##### 4th-Level Mesmerist Spells
 
-| Spell Name | Brief Description |
-| --- | --- |
-| [[rangoric-srd/spells/Arcane Eye\|Arcane Eye]]: | [[rangoric-srd/rules/conditions/Invisibility (Condition)\|Invisible]] floating eye moves 30 ft./round. |
-| [[rangoric-srd/spells/Battlemind Link\|Battlemind Link]]: | You and an ally gain attack and AC bonuses. |
-| [[rangoric-srd/spells/Break Enchantment\|Break Enchantment]]: | Frees subjects from enchantments, alterations, curses, and petrification. |
-| [[rangoric-srd/spells/Charm Person, Mass\|Charm Person, Mass]]: | As charm person, but affects multiple creatures within 30 ft. |
-| [[rangoric-srd/spells/Command, Greater\|Command, Greater]]: | As command, but affects one subject/level. |
-| [[rangoric-srd/spells/Complex Hallucination\|Complex Hallucination]]: | Create a phantasm with effects for all senses. |
-| [[rangoric-srd/spells/Create Mindscape\|Create Mindscape]]: | Form an immersive mindscape. |
-| [[rangoric-srd/spells/Curse of the Outcast\|Curse of the Outcast]] (M): | Curse someone to rub people the wrong way. |
-| [[rangoric-srd/spells/Curse, Major\|Curse, Major]]: | As bestow curse, but harder to remove. |
-| [[rangoric-srd/spells/Daze, Mass\|Daze, Mass]]: | As daze, but affecting multiple creatures. |
-| [[rangoric-srd/spells/Deceitful Veneer\|Deceitful Veneer]]: | Make someone seem like an obvious liar. |
-| [[rangoric-srd/spells/Denounce\|Denounce]]: | Worsens creatures' attitudes. |
-| [[rangoric-srd/spells/Detect Scrying\|Detect Scrying]]: | Alerts you of magical eavesdropping. |
-| [[rangoric-srd/spells/Dimension Door\|Dimension Door]]: | Teleports you short distance. |
-| [[rangoric-srd/spells/Dominate Person\|Dominate Person]]: | Controls humanoid telepathically. |
-| [[rangoric-srd/spells/Dream\|Dream]]: | Sends message to anyone sleeping. |
-| [[rangoric-srd/spells/Enervation\|Enervation]]: | Subject gains 1d4 negative levels. |
-| [[rangoric-srd/spells/Envious Urge\|Envious Urge]]: | Targets steal from or disarm others. |
-| [[rangoric-srd/spells/Erase Impressions\|Erase Impressions]]: | Erase psychic impressions from an object. |
-| [[rangoric-srd/spells/Feast on Fear\|Feast on Fear]]: | Targets are panicked, and you gain temporary hit points. |
-| [[rangoric-srd/spells/Forbid Action, Greater\|Forbid Action, Greater]]: | As forbid action, but 1 creature/level. |
-| [[rangoric-srd/spells/Forgetful Slumber\|Forgetful Slumber]] (M): | Acts as the deeper slumber spell, but only affects one creature of 10 Hit Dice or fewer. |
-| [[rangoric-srd/spells/Freedom of Movement\|Freedom of Movement]]: | Subject moves normally despite impediments. |
-| [[rangoric-srd/spells/Hallucinatory Terrain\|Hallucinatory Terrain]]: | Makes one type of terrain appear like another (field into forest, or the like). |
-| [[rangoric-srd/spells/Hold Monster\|Hold Monster]]: | As hold person, but any creature. |
-| [[rangoric-srd/spells/Hostile Juxtaposition\|Hostile Juxtaposition]] (M): | You create a dimensional link with a targeted creature, and switch spots with it. |
-| [[rangoric-srd/spells/Illusion of Treachery, Greater\|Illusion of Treachery, Greater]] (F): | Make it seem like another is responsible for your attacks while concealing your own actions. |
-| [[rangoric-srd/spells/Illusory Wall\|Illusory Wall]]: | Wall, floor, or ceiling looks real, but anything can pass through. |
-| [[rangoric-srd/spells/Invisibility, Greater\|Invisibility, Greater]]: | As invisibility, but subject can attack and stay [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]]. |
-| [[rangoric-srd/spells/Locate Creature\|Locate Creature]]: | Indicates direction to familiar creature. |
-| [[rangoric-srd/spells/Majestic Image\|Majestic Image]] (M): | As enter image, but also gain bonuses on social skills while in the image. |
-| [[rangoric-srd/spells/Mind Probe (Spell)\|Mind Probe (Spell)]]: | Learn answers from a subject’s memories. |
-| [[rangoric-srd/spells/Mindwipe (Spell)\|Mindwipe (Spell)]]: | Erase a portion of the target’s mind and experiences, inflicting negative levels. |
-| [[rangoric-srd/spells/Minor Phantom Object\|Minor Phantom Object]]: | This spell functions as the minor creation spell, except the object created is a semi-real phantasm. |
-| [[rangoric-srd/spells/Modify Memory\|Modify Memory]]: | Changes 5 minutes of subject’s memories. |
-| [[rangoric-srd/spells/Nondetection, Communal\|Nondetection, Communal]] (M): | As nondetection, but you may divide the duration among creatures touched. |
-| [[rangoric-srd/spells/Old Salt’s Curse\|Old Salt’s Curse]] (M): | You inflict a curse of the roiling sea upon the target, making it permanently sickened. |
-| [[rangoric-srd/spells/Phantasmal Killer\|Phantasmal Killer]]: | Fearsome illusion kills subject or deals 3d6 damage. |
-| [[rangoric-srd/spells/Poison\|Poison]]: | Touch deals 1d10 Con damage, repeats in 1 min. |
-| [[rangoric-srd/spells/Primal Scream\|Primal Scream]]: | Free yourself from enchantments and paralysis effects. |
-| [[rangoric-srd/spells/Restoration\|Restoration]] (M): | Removes negative levels and ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained\|drain]]. |
-| [[rangoric-srd/spells/Riding Possession\|Riding Possession]]: | As possession, but you observe instead of control the subject. |
-| [[rangoric-srd/spells/Serenity\|Serenity]]: | Peaceful feelings harm those attempting violence. |
-| [[rangoric-srd/spells/Shadow Conjuration\|Shadow Conjuration]]: | Mimics conjuration below 4th level, but only 20% real. |
-| [[rangoric-srd/spells/Shocking Image\|Shocking Image]]: | As mirror image, but the duplicates emit electrical damage when destroyed. |
-| [[rangoric-srd/spells/Sleepwalk\|Sleepwalk]] (M): | Causes creature to move while asleep. |
-| [[rangoric-srd/spells/Solid Fog\|Solid Fog]]: | Blocks vision and slows movement. |
-| [[rangoric-srd/spells/Synapse Overload\|Synapse Overload]]: | Deal 1d6 points of damage per level and stagger target for 1 minute. |
-| [[rangoric-srd/spells/Synaptic Pulse, Greater\|Synaptic Pulse, Greater]]: | As synaptic pulse, but for 1d4 rounds. |
-| [[rangoric-srd/spells/Telepathic Bond\|Telepathic Bond]]: | Link lets allies communicate. |
-| [[rangoric-srd/spells/Telepathy\|Telepathy]]: | Communicate mentally with creatures within 100 ft. |
-| [[rangoric-srd/spells/Thoughtsense\|Thoughtsense]] (M): | Automatically detect nearby conscious creatures. |
-| [[rangoric-srd/spells/Truespeak\|Truespeak]]: | You can communicate with any creature that is not mindless. |
-| [[rangoric-srd/spells/Utter Contempt\|Utter Contempt]] (M): | Target's attitude worsens by two categories. |
-| [[rangoric-srd/spells/Vicarious View\|Vicarious View]]: | Plant a scrying sensor that you can use to spy on a creature, object, or location. |
-| [[rangoric-srd/spells/Vigilant Rest\|Vigilant Rest]] (M): | Cause a sleeping creature to retain some perception of its surroundings |
-| [[rangoric-srd/spells/Zone of Silence\|Zone of Silence]]: | Keeps eavesdroppers from overhearing conversations. |
+| Spell Name                                                                                  | Brief Description                                                                                                       |
+| ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [[rangoric-srd/spells/Arcane Eye\|Arcane Eye]]:                                             | [[rangoric-srd/rules/conditions/Invisibility (Condition)\|Invisible]] floating eye moves 30 ft./round.                  |
+| [[rangoric-srd/spells/Battlemind Link\|Battlemind Link]]:                                   | You and an ally gain attack and AC bonuses.                                                                             |
+| [[rangoric-srd/spells/Break Enchantment\|Break Enchantment]]:                               | Frees subjects from enchantments, alterations, curses, and petrification.                                               |
+| [[rangoric-srd/spells/Charm Person, Mass\|Charm Person, Mass]]:                             | As charm person, but affects multiple creatures within 30 ft.                                                           |
+| [[rangoric-srd/spells/Command, Greater\|Command, Greater]]:                                 | As command, but affects one subject/level.                                                                              |
+| [[rangoric-srd/spells/Complex Hallucination\|Complex Hallucination]]:                       | Create a phantasm with effects for all senses.                                                                          |
+| [[rangoric-srd/spells/Create Mindscape\|Create Mindscape]]:                                 | Form an immersive mindscape.                                                                                            |
+| [[rangoric-srd/spells/Curse of the Outcast\|Curse of the Outcast]] (M):                     | Curse someone to rub people the wrong way.                                                                              |
+| [[rangoric-srd/spells/Curse, Major\|Curse, Major]]:                                         | As bestow curse, but harder to remove.                                                                                  |
+| [[rangoric-srd/spells/Daze, Mass\|Daze, Mass]]:                                             | As daze, but affecting multiple creatures.                                                                              |
+| [[rangoric-srd/spells/Deceitful Veneer\|Deceitful Veneer]]:                                 | Make someone seem like an obvious liar.                                                                                 |
+| [[rangoric-srd/spells/Denounce\|Denounce]]:                                                 | Worsens creatures' attitudes.                                                                                           |
+| [[rangoric-srd/spells/Detect Scrying\|Detect Scrying]]:                                     | Alerts you of magical eavesdropping.                                                                                    |
+| [[rangoric-srd/spells/Dimension Door\|Dimension Door]]:                                     | Teleports you short distance.                                                                                           |
+| [[rangoric-srd/spells/Dominate Person\|Dominate Person]]:                                   | Controls humanoid telepathically.                                                                                       |
+| [[rangoric-srd/spells/Dream\|Dream]]:                                                       | Sends message to anyone sleeping.                                                                                       |
+| [[rangoric-srd/spells/Enervation\|Enervation]]:                                             | Subject gains 1d4 negative levels.                                                                                      |
+| [[rangoric-srd/spells/Envious Urge\|Envious Urge]]:                                         | Targets steal from or disarm others.                                                                                    |
+| [[rangoric-srd/spells/Erase Impressions\|Erase Impressions]]:                               | Erase psychic impressions from an object.                                                                               |
+| [[rangoric-srd/spells/Feast on Fear\|Feast on Fear]]:                                       | Targets are panicked, and you gain temporary hit points.                                                                |
+| [[rangoric-srd/spells/Forbid Action, Greater\|Forbid Action, Greater]]:                     | As forbid action, but 1 creature/level.                                                                                 |
+| [[rangoric-srd/spells/Forgetful Slumber\|Forgetful Slumber]] (M):                           | Acts as the deeper slumber spell, but only affects one creature of 10 Hit Dice or fewer.                                |
+| [[rangoric-srd/spells/Freedom of Movement\|Freedom of Movement]]:                           | Subject moves normally despite impediments.                                                                             |
+| [[rangoric-srd/spells/Hallucinatory Terrain\|Hallucinatory Terrain]]:                       | Makes one type of terrain appear like another (field into forest, or the like).                                         |
+| [[rangoric-srd/spells/Hold Monster\|Hold Monster]]:                                         | As hold person, but any creature.                                                                                       |
+| [[rangoric-srd/spells/Hostile Juxtaposition\|Hostile Juxtaposition]] (M):                   | You create a dimensional link with a targeted creature, and switch spots with it.                                       |
+| [[rangoric-srd/spells/Illusion of Treachery, Greater\|Illusion of Treachery, Greater]] (F): | Make it seem like another is responsible for your attacks while concealing your own actions.                            |
+| [[rangoric-srd/spells/Illusory Wall\|Illusory Wall]]:                                       | Wall, floor, or ceiling looks real, but anything can pass through.                                                      |
+| [[rangoric-srd/spells/Invisibility, Greater\|Invisibility, Greater]]:                       | As invisibility, but subject can attack and stay [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]]. |
+| [[rangoric-srd/spells/Locate Creature\|Locate Creature]]:                                   | Indicates direction to familiar creature.                                                                               |
+| [[rangoric-srd/spells/Majestic Image\|Majestic Image]] (M):                                 | As enter image, but also gain bonuses on social skills while in the image.                                              |
+| [[rangoric-srd/spells/Mind Probe (Spell)\|Mind Probe (Spell)]]:                             | Learn answers from a subject’s memories.                                                                                |
+| [[rangoric-srd/spells/Mindwipe (Spell)\|Mindwipe (Spell)]]:                                 | Erase a portion of the target’s mind and experiences, inflicting negative levels.                                       |
+| [[rangoric-srd/spells/Minor Phantom Object\|Minor Phantom Object]]:                         | This spell functions as the minor creation spell, except the object created is a semi-real phantasm.                    |
+| [[rangoric-srd/spells/Modify Memory\|Modify Memory]]:                                       | Changes 5 minutes of subject’s memories.                                                                                |
+| [[rangoric-srd/spells/Nondetection, Communal\|Nondetection, Communal]] (M):                 | As nondetection, but you may divide the duration among creatures touched.                                               |
+| [[rangoric-srd/spells/Old Salt’s Curse\|Old Salt’s Curse]] (M):                             | You inflict a curse of the roiling sea upon the target, making it permanently sickened.                                 |
+| [[rangoric-srd/spells/Phantasmal Killer\|Phantasmal Killer]]:                               | Fearsome illusion kills subject or deals 3d6 damage.                                                                    |
+| [[rangoric-srd/spells/Poison\|Poison]]:                                                     | Touch deals 1d10 Con damage, repeats in 1 min.                                                                          |
+| [[rangoric-srd/spells/Primal Scream\|Primal Scream]]:                                       | Free yourself from enchantments and paralysis effects.                                                                  |
+| [[rangoric-srd/spells/Restoration\|Restoration]] (M):                                       | Removes negative levels and ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained\|drain]].    |
+| [[rangoric-srd/spells/Riding Possession\|Riding Possession]]:                               | As possession, but you observe instead of control the subject.                                                          |
+| [[rangoric-srd/spells/Serenity\|Serenity]]:                                                 | Peaceful feelings harm those attempting violence.                                                                       |
+| [[rangoric-srd/spells/Shadow Conjuration\|Shadow Conjuration]]:                             | Mimics conjuration below 4th level, but only 20% real.                                                                  |
+| [[rangoric-srd/spells/Shocking Image\|Shocking Image]]:                                     | As mirror image, but the duplicates emit electrical damage when destroyed.                                              |
+| [[rangoric-srd/spells/Sleepwalk\|Sleepwalk]] (M):                                           | Causes creature to move while asleep.                                                                                   |
+| [[rangoric-srd/spells/Solid Fog\|Solid Fog]]:                                               | Blocks vision and slows movement.                                                                                       |
+| [[rangoric-srd/spells/Synapse Overload\|Synapse Overload]]:                                 | Deal 1d6 points of damage per level and stagger target for 1 minute.                                                    |
+| [[rangoric-srd/spells/Synaptic Pulse, Greater\|Synaptic Pulse, Greater]]:                   | As synaptic pulse, but for 1d4 rounds.                                                                                  |
+| [[rangoric-srd/spells/Telepathic Bond\|Telepathic Bond]]:                                   | Link lets allies communicate.                                                                                           |
+| [[rangoric-srd/spells/Telepathy\|Telepathy]]:                                               | Communicate mentally with creatures within 100 ft.                                                                      |
+| [[rangoric-srd/spells/Thoughtsense\|Thoughtsense]] (M):                                     | Automatically detect nearby conscious creatures.                                                                        |
+| [[rangoric-srd/spells/Truespeak\|Truespeak]]:                                               | You can communicate with any creature that is not mindless.                                                             |
+| [[rangoric-srd/spells/Utter Contempt\|Utter Contempt]] (M):                                 | Target's attitude worsens by two categories.                                                                            |
+| [[rangoric-srd/spells/Vicarious View\|Vicarious View]]:                                     | Plant a scrying sensor that you can use to spy on a creature, object, or location.                                      |
+| [[rangoric-srd/spells/Vigilant Rest\|Vigilant Rest]] (M):                                   | Cause a sleeping creature to retain some perception of its surroundings                                                 |
+| [[rangoric-srd/spells/Zone of Silence\|Zone of Silence]]:                                   | Keeps eavesdroppers from overhearing conversations.                                                                     |
 
 ##### 5th-Level Mesmerist Spells
 
-| Spell Name | Brief Description |
-| --- | --- |
-| [[rangoric-srd/spells/Appearance of Life, Greater\|Appearance of Life, Greater]] (M): | As appearance of life, but deceiveing all of the senses |
-| [[rangoric-srd/spells/Castigate, Mass\|Castigate, Mass]]: | As castigate, but affects multiple creatures. |
-| [[rangoric-srd/spells/Cloak of Dreams\|Cloak of Dreams]] (M): | Causes living creatures within 5 ft. to fall asleep. |
-| [[rangoric-srd/spells/Crime Wave\|Crime Wave]] (M): | Compel targets to commit criminal actions. |
-| [[rangoric-srd/spells/Dream Council\|Dream Council]]: | Communicate with multiple sleeping creatures. |
-| [[rangoric-srd/spells/Dream Scan\|Dream Scan]]: | Read a dreaming creature’s thoughts. |
-| [[rangoric-srd/spells/False Vision\|False Vision]] (M): | Fools scrying with an illusion. |
-| [[rangoric-srd/spells/Feeblemind\|Feeblemind]]: | Subject’s Int and Cha drop to 1. |
-| [[rangoric-srd/spells/Foe to Friend\|Foe to Friend]]: | Redirect an enemy creature's attack. |
-| [[rangoric-srd/spells/Foster Hatred\|Foster Hatred]]: | Cause creatures to hate one type of creature. |
-| [[rangoric-srd/spells/Inflict Pain, Mass\|Inflict Pain, Mass]]: | As inflict pain, but affecting one creature per level. |
-| [[rangoric-srd/spells/Joyful Rapture\|Joyful Rapture]]: | Negate harmful emotions. |
-| [[rangoric-srd/spells/Mage’s Decree\|Mage’s Decree]] (F): | Send a message to creatures within miles. |
-| [[rangoric-srd/spells/Mage’s Private Sanctum\|Mage’s Private Sanctum]]: | Prevents anyone from viewing or scrying an area for 24 hours. |
-| [[rangoric-srd/spells/Major Phantom Object\|Major Phantom Object]]: | This spell functions as the major creation spell, except as noted above and the object created is a semi-real phantasm. |
-| [[rangoric-srd/spells/Mind Fog\|Mind Fog]]: | Subjects in fog get –10 to Wis and Will checks. |
-| [[rangoric-srd/spells/Mind Swap\|Mind Swap]]: | Switch minds with another creature for 1 hour per level. |
-| [[rangoric-srd/spells/Mirage Arcana\|Mirage Arcana]]: | As hallucinatory terrain, plus structures. |
-| [[rangoric-srd/spells/Mislead\|Mislead]]: | Turns you [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]] and creates illusory double. |
-| [[rangoric-srd/spells/Nightmare (Spell)\|Nightmare (Spell)]]: | Sends vision dealing 1d10 damage, fatigue. |
-| [[rangoric-srd/spells/Object Possession\|Object Possession]]: | As lesser object possession, but with a larger object. |
-| [[rangoric-srd/spells/Passwall\|Passwall]]: | Creates passage through wood or stone wall. |
-| [[rangoric-srd/spells/Persistent Image\|Persistent Image]]: | As major image, but no concentration required. |
-| [[rangoric-srd/spells/Phantasmal Web\|Phantasmal Web]]: | Catches subjects in illusory web. |
-| [[rangoric-srd/spells/Possession\|Possession]]: | Project your soul into a creature’s body. |
-| [[rangoric-srd/spells/Pox of Rumors\|Pox of Rumors]] (M): | Curse a creature to attract nasty rumors. |
-| [[rangoric-srd/spells/Primal Regression\|Primal Regression]]: | Make a creature become bestial and unintelligent. |
-| [[rangoric-srd/spells/Prying Eyes\|Prying Eyes]]: | 1d4 +1/level floating eyes scout for you. |
-| [[rangoric-srd/spells/Psychic Asylum\|Psychic Asylum]]: | Perform a lengthy mental task in a private mindscape. |
-| [[rangoric-srd/spells/Psychic Surgery\|Psychic Surgery]] (M): | Cure all Int, Wis, and Cha damage and drain, plus remove other mental afflictions and conditions. |
-| [[rangoric-srd/spells/Repress Memory\|Repress Memory]]: | Remove a piece of knowledge from your mind. |
-| [[rangoric-srd/spells/Scripted Hallucination\|Scripted Hallucination]]: | As complex hallucination, but without concentration. |
-| [[rangoric-srd/spells/Secret Chest\|Secret Chest]] (F): | Hides expensive chest on Ethereal Plane; you retrieve it at will. |
-| [[rangoric-srd/spells/Seeming\|Seeming]]: | Changes appearance of one person per two levels. |
-| [[rangoric-srd/spells/Shadow Evocation\|Shadow Evocation]]: | Mimics evocation below 5th level, but only 20% real. |
-| [[rangoric-srd/spells/Shadow Walk\|Shadow Walk]]: | Step into shadow to travel rapidly. |
-| [[rangoric-srd/spells/Suggestion, Mass\|Suggestion, Mass]]: | As suggestion, plus one subject/level. |
-| [[rangoric-srd/spells/Symbol of Pain\|Symbol of Pain]] (M): | Triggered rune wracks nearby creatures with pain. |
-| [[rangoric-srd/spells/Symbol of Sleep\|Symbol of Sleep]] (M): | Triggered rune puts nearby creatures into catatonic slumber. |
-| [[rangoric-srd/spells/Synesthesia, Mass\|Synesthesia, Mass]]: | As synesthesia, but affecting multiple creatures. |
-| [[rangoric-srd/spells/Unwilling Shield\|Unwilling Shield]] (M): | Subject shares wounds you receive. |
-| [[rangoric-srd/spells/Vengeful Outrage\|Vengeful Outrage]]: | Target is compelled to destroy one enemy. |
-| [[rangoric-srd/spells/Village Veil\|Village Veil]]: | You throw an illusion over an area to make creatures that view or interact with it believe it has suffered some great catastrophe or calamity that renders it utterly worthless for their needs. |
-| [[rangoric-srd/spells/Waves of Fatigue\|Waves of Fatigue]]: | Several targets become [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued\|fatigued]]. |
+| Spell Name                                                                            | Brief Description                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[rangoric-srd/spells/Appearance of Life, Greater\|Appearance of Life, Greater]] (M): | As appearance of life, but deceiveing all of the senses                                                                                                                                          |
+| [[rangoric-srd/spells/Castigate, Mass\|Castigate, Mass]]:                             | As castigate, but affects multiple creatures.                                                                                                                                                    |
+| [[rangoric-srd/spells/Cloak of Dreams\|Cloak of Dreams]] (M):                         | Causes living creatures within 5 ft. to fall asleep.                                                                                                                                             |
+| [[rangoric-srd/spells/Crime Wave\|Crime Wave]] (M):                                   | Compel targets to commit criminal actions.                                                                                                                                                       |
+| [[rangoric-srd/spells/Dream Council\|Dream Council]]:                                 | Communicate with multiple sleeping creatures.                                                                                                                                                    |
+| [[rangoric-srd/spells/Dream Scan\|Dream Scan]]:                                       | Read a dreaming creature’s thoughts.                                                                                                                                                             |
+| [[rangoric-srd/spells/False Vision\|False Vision]] (M):                               | Fools scrying with an illusion.                                                                                                                                                                  |
+| [[rangoric-srd/spells/Feeblemind\|Feeblemind]]:                                       | Subject’s Int and Cha drop to 1.                                                                                                                                                                 |
+| [[rangoric-srd/spells/Foe to Friend\|Foe to Friend]]:                                 | Redirect an enemy creature's attack.                                                                                                                                                             |
+| [[rangoric-srd/spells/Foster Hatred\|Foster Hatred]]:                                 | Cause creatures to hate one type of creature.                                                                                                                                                    |
+| [[rangoric-srd/spells/Inflict Pain, Mass\|Inflict Pain, Mass]]:                       | As inflict pain, but affecting one creature per level.                                                                                                                                           |
+| [[rangoric-srd/spells/Joyful Rapture\|Joyful Rapture]]:                               | Negate harmful emotions.                                                                                                                                                                         |
+| [[rangoric-srd/spells/Mage’s Decree\|Mage’s Decree]] (F):                             | Send a message to creatures within miles.                                                                                                                                                        |
+| [[rangoric-srd/spells/Mage’s Private Sanctum\|Mage’s Private Sanctum]]:               | Prevents anyone from viewing or scrying an area for 24 hours.                                                                                                                                    |
+| [[rangoric-srd/spells/Major Phantom Object\|Major Phantom Object]]:                   | This spell functions as the major creation spell, except as noted above and the object created is a semi-real phantasm.                                                                          |
+| [[rangoric-srd/spells/Mind Fog\|Mind Fog]]:                                           | Subjects in fog get –10 to Wis and Will checks.                                                                                                                                                  |
+| [[rangoric-srd/spells/Mind Swap\|Mind Swap]]:                                         | Switch minds with another creature for 1 hour per level.                                                                                                                                         |
+| [[rangoric-srd/spells/Mirage Arcana\|Mirage Arcana]]:                                 | As hallucinatory terrain, plus structures.                                                                                                                                                       |
+| [[rangoric-srd/spells/Mislead\|Mislead]]:                                             | Turns you [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]] and creates illusory double.                                                                                     |
+| [[rangoric-srd/spells/Nightmare (Spell)\|Nightmare (Spell)]]:                         | Sends vision dealing 1d10 damage, fatigue.                                                                                                                                                       |
+| [[rangoric-srd/spells/Object Possession\|Object Possession]]:                         | As lesser object possession, but with a larger object.                                                                                                                                           |
+| [[rangoric-srd/spells/Passwall\|Passwall]]:                                           | Creates passage through wood or stone wall.                                                                                                                                                      |
+| [[rangoric-srd/spells/Persistent Image\|Persistent Image]]:                           | As major image, but no concentration required.                                                                                                                                                   |
+| [[rangoric-srd/spells/Phantasmal Web\|Phantasmal Web]]:                               | Catches subjects in illusory web.                                                                                                                                                                |
+| [[rangoric-srd/spells/Possession\|Possession]]:                                       | Project your soul into a creature’s body.                                                                                                                                                        |
+| [[rangoric-srd/spells/Pox of Rumors\|Pox of Rumors]] (M):                             | Curse a creature to attract nasty rumors.                                                                                                                                                        |
+| [[rangoric-srd/spells/Primal Regression\|Primal Regression]]:                         | Make a creature become bestial and unintelligent.                                                                                                                                                |
+| [[rangoric-srd/spells/Prying Eyes\|Prying Eyes]]:                                     | 1d4 +1/level floating eyes scout for you.                                                                                                                                                        |
+| [[rangoric-srd/spells/Psychic Asylum\|Psychic Asylum]]:                               | Perform a lengthy mental task in a private mindscape.                                                                                                                                            |
+| [[rangoric-srd/spells/Psychic Surgery\|Psychic Surgery]] (M):                         | Cure all Int, Wis, and Cha damage and drain, plus remove other mental afflictions and conditions.                                                                                                |
+| [[rangoric-srd/spells/Repress Memory\|Repress Memory]]:                               | Remove a piece of knowledge from your mind.                                                                                                                                                      |
+| [[rangoric-srd/spells/Scripted Hallucination\|Scripted Hallucination]]:               | As complex hallucination, but without concentration.                                                                                                                                             |
+| [[rangoric-srd/spells/Secret Chest\|Secret Chest]] (F):                               | Hides expensive chest on Ethereal Plane; you retrieve it at will.                                                                                                                                |
+| [[rangoric-srd/spells/Seeming\|Seeming]]:                                             | Changes appearance of one person per two levels.                                                                                                                                                 |
+| [[rangoric-srd/spells/Shadow Evocation\|Shadow Evocation]]:                           | Mimics evocation below 5th level, but only 20% real.                                                                                                                                             |
+| [[rangoric-srd/spells/Shadow Walk\|Shadow Walk]]:                                     | Step into shadow to travel rapidly.                                                                                                                                                              |
+| [[rangoric-srd/spells/Suggestion, Mass\|Suggestion, Mass]]:                           | As suggestion, plus one subject/level.                                                                                                                                                           |
+| [[rangoric-srd/spells/Symbol of Pain\|Symbol of Pain]] (M):                           | Triggered rune wracks nearby creatures with pain.                                                                                                                                                |
+| [[rangoric-srd/spells/Symbol of Sleep\|Symbol of Sleep]] (M):                         | Triggered rune puts nearby creatures into catatonic slumber.                                                                                                                                     |
+| [[rangoric-srd/spells/Synesthesia, Mass\|Synesthesia, Mass]]:                         | As synesthesia, but affecting multiple creatures.                                                                                                                                                |
+| [[rangoric-srd/spells/Unwilling Shield\|Unwilling Shield]] (M):                       | Subject shares wounds you receive.                                                                                                                                                               |
+| [[rangoric-srd/spells/Vengeful Outrage\|Vengeful Outrage]]:                           | Target is compelled to destroy one enemy.                                                                                                                                                        |
+| [[rangoric-srd/spells/Village Veil\|Village Veil]]:                                   | You throw an illusion over an area to make creatures that view or interact with it believe it has suffered some great catastrophe or calamity that renders it utterly worthless for their needs. |
+| [[rangoric-srd/spells/Waves of Fatigue\|Waves of Fatigue]]:                           | Several targets become [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued\|fatigued]].                                                                                              |
 
 ##### 6th-Level Mesmerist Spells
 
-| Spell Name | Brief Description |
-| --- | --- |
-| [[rangoric-srd/spells/Charm Monster, Mass\|Charm Monster, Mass]]: | As charm monster, but all within 30 ft. |
-| [[rangoric-srd/spells/Create Mindscape, Greater\|Create Mindscape, Greater]]: | As create mindscape, but affecting more creatures, having a longer duration, and allowing magic alteration. |
-| [[rangoric-srd/spells/Demand\|Demand]]: | As sending, plus you can send suggestion. |
-| [[rangoric-srd/spells/Demanding Message, Mass\|Demanding Message, Mass]] (F): | Send messages as per message with one suggestion for each creature. |
-| [[rangoric-srd/spells/Dream Travel (Spell)\|Dream Travel (Spell)]]: | Venture into the Dimension of Dreams to enter the dreams of a designated creature, then exit near that creature’s body on the plane where it lies sleeping. |
-| [[rangoric-srd/spells/Euphoric Tranquility\|Euphoric Tranquility]] (M): | Makes a creature friendly. |
-| [[rangoric-srd/spells/Eyebite\|Eyebite]]: | Target becomes [[rangoric-srd/rules/Special Abilities and Conditions#^panicked\|panicked]], [[rangoric-srd/rules/Special Abilities and Conditions#^sickened\|sickened]], and comatose. |
-| [[rangoric-srd/spells/False Vision, Greater\|False Vision, Greater]] (M): | As false vision, but moves with the target. |
-| [[rangoric-srd/spells/Geas-Quest\|Geas-Quest]]: | As lesser geas, but affects any creature. |
-| [[rangoric-srd/spells/Getaway\|Getaway]] (M): | Teleports you and select creatures to predetermined location. |
-| [[rangoric-srd/spells/Hold Person, Mass\|Hold Person, Mass]]: | As hold person, but all within 30 ft. |
-| [[rangoric-srd/spells/Hostile Juxtaposition, Greater\|Hostile Juxtaposition, Greater]] (M): | You may target one creature for every four of your caster levels. |
-| [[rangoric-srd/spells/Insanity (Spell)\|Insanity (Spell)]]: | Subject suffers continuous confusion. |
-| [[rangoric-srd/spells/Invisibility, Mass\|Invisibility, Mass]]: | As invisibility, but affects all in range. |
-| [[rangoric-srd/spells/Irresistible Dance\|Irresistible Dance]]: | Forces subject to dance. |
-| [[rangoric-srd/spells/Life of Crime\|Life of Crime]] (M): | Permanently turn someone into a crazed criminal. |
-| [[rangoric-srd/spells/Overwhelming Presence\|Overwhelming Presence]] (M): | Creatures bow before you as if you were divine. |
-| [[rangoric-srd/spells/Permanent Image\|Permanent Image]]: | Includes sight, sound, and smell. |
-| [[rangoric-srd/spells/Phantasmal Revenge\|Phantasmal Revenge]]: | Ghost from corpse hunts killer. |
-| [[rangoric-srd/spells/Power Word Blind\|Power Word Blind]]: | [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|Blinds]] creature with 200 hp or less. |
-| [[rangoric-srd/spells/Programmed Image\|Programmed Image]] (M): | As major image, plus triggered by event. |
-| [[rangoric-srd/spells/Project Image\|Project Image]]: | Illusory double can talk and cast spells. |
-| [[rangoric-srd/spells/Scrying, Greater\|Scrying, Greater]]: | As scrying, but faster and longer. |
-| [[rangoric-srd/spells/Symbol of Persuasion\|Symbol of Persuasion]] (M): | Triggered rune charms nearby creatures. |
-| [[rangoric-srd/spells/Triggered Hallucination\|Triggered Hallucination]] (M): | As scripted hallucination, but it only appears when triggered. |
-| [[rangoric-srd/spells/True Seeing\|True Seeing]] (M): | Lets you see all things as they really are. |
-| [[rangoric-srd/spells/Veil\|Veil]]: | Changes appearance of group of creatures. |
-| [[rangoric-srd/spells/Waves of Ecstasy\|Waves of Ecstasy]]: | Pleasure stuns and staggers creatures. |
-| [[rangoric-srd/spells/Waves of Exhaustion\|Waves of Exhaustion]]: | Several targets become [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted\|exhausted]]. |
+| Spell Name                                                                                  | Brief Description                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[rangoric-srd/spells/Charm Monster, Mass\|Charm Monster, Mass]]:                           | As charm monster, but all within 30 ft.                                                                                                                                                |
+| [[rangoric-srd/spells/Create Mindscape, Greater\|Create Mindscape, Greater]]:               | As create mindscape, but affecting more creatures, having a longer duration, and allowing magic alteration.                                                                            |
+| [[rangoric-srd/spells/Demand\|Demand]]:                                                     | As sending, plus you can send suggestion.                                                                                                                                              |
+| [[rangoric-srd/spells/Demanding Message, Mass\|Demanding Message, Mass]] (F):               | Send messages as per message with one suggestion for each creature.                                                                                                                    |
+| [[rangoric-srd/spells/Dream Travel (Spell)\|Dream Travel (Spell)]]:                         | Venture into the Dimension of Dreams to enter the dreams of a designated creature, then exit near that creature’s body on the plane where it lies sleeping.                            |
+| [[rangoric-srd/spells/Euphoric Tranquility\|Euphoric Tranquility]] (M):                     | Makes a creature friendly.                                                                                                                                                             |
+| [[rangoric-srd/spells/Eyebite\|Eyebite]]:                                                   | Target becomes [[rangoric-srd/rules/Special Abilities and Conditions#^panicked\|panicked]], [[rangoric-srd/rules/Special Abilities and Conditions#^sickened\|sickened]], and comatose. |
+| [[rangoric-srd/spells/False Vision, Greater\|False Vision, Greater]] (M):                   | As false vision, but moves with the target.                                                                                                                                            |
+| [[rangoric-srd/spells/Geas-Quest\|Geas-Quest]]:                                             | As lesser geas, but affects any creature.                                                                                                                                              |
+| [[rangoric-srd/spells/Getaway\|Getaway]] (M):                                               | Teleports you and select creatures to predetermined location.                                                                                                                          |
+| [[rangoric-srd/spells/Hold Person, Mass\|Hold Person, Mass]]:                               | As hold person, but all within 30 ft.                                                                                                                                                  |
+| [[rangoric-srd/spells/Hostile Juxtaposition, Greater\|Hostile Juxtaposition, Greater]] (M): | You may target one creature for every four of your caster levels.                                                                                                                      |
+| [[rangoric-srd/spells/Insanity (Spell)\|Insanity (Spell)]]:                                 | Subject suffers continuous confusion.                                                                                                                                                  |
+| [[rangoric-srd/spells/Invisibility, Mass\|Invisibility, Mass]]:                             | As invisibility, but affects all in range.                                                                                                                                             |
+| [[rangoric-srd/spells/Irresistible Dance\|Irresistible Dance]]:                             | Forces subject to dance.                                                                                                                                                               |
+| [[rangoric-srd/spells/Life of Crime\|Life of Crime]] (M):                                   | Permanently turn someone into a crazed criminal.                                                                                                                                       |
+| [[rangoric-srd/spells/Overwhelming Presence\|Overwhelming Presence]] (M):                   | Creatures bow before you as if you were divine.                                                                                                                                        |
+| [[rangoric-srd/spells/Permanent Image\|Permanent Image]]:                                   | Includes sight, sound, and smell.                                                                                                                                                      |
+| [[rangoric-srd/spells/Phantasmal Revenge\|Phantasmal Revenge]]:                             | Ghost from corpse hunts killer.                                                                                                                                                        |
+| [[rangoric-srd/spells/Power Word Blind\|Power Word Blind]]:                                 | [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|Blinds]] creature with 200 hp or less.                                                                                 |
+| [[rangoric-srd/spells/Programmed Image\|Programmed Image]] (M):                             | As major image, plus triggered by event.                                                                                                                                               |
+| [[rangoric-srd/spells/Project Image\|Project Image]]:                                       | Illusory double can talk and cast spells.                                                                                                                                              |
+| [[rangoric-srd/spells/Scrying, Greater\|Scrying, Greater]]:                                 | As scrying, but faster and longer.                                                                                                                                                     |
+| [[rangoric-srd/spells/Symbol of Persuasion\|Symbol of Persuasion]] (M):                     | Triggered rune charms nearby creatures.                                                                                                                                                |
+| [[rangoric-srd/spells/Triggered Hallucination\|Triggered Hallucination]] (M):               | As scripted hallucination, but it only appears when triggered.                                                                                                                         |
+| [[rangoric-srd/spells/True Seeing\|True Seeing]] (M):                                       | Lets you see all things as they really are.                                                                                                                                            |
+| [[rangoric-srd/spells/Veil\|Veil]]:                                                         | Changes appearance of group of creatures.                                                                                                                                              |
+| [[rangoric-srd/spells/Waves of Ecstasy\|Waves of Ecstasy]]:                                 | Pleasure stuns and staggers creatures.                                                                                                                                                 |
+| [[rangoric-srd/spells/Waves of Exhaustion\|Waves of Exhaustion]]:                           | Several targets become [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted\|exhausted]].                                                                                  |

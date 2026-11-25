@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Litany of Defense
 
-*Transmutation*
+_Transmutation_
 
-  - **Level**: Apl 2, Inq 2, Pal 2
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 swift action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 1 round
-  - **Saving Throw**: No
-  - **Spell Resistance**: Yes
+- **Level**: Apl 2, Inq 2, Pal 2
+- **Components**: V, S, DF
+- **Casting Time**: 1 swift action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 1 round
+- **Saving Throw**: No
+- **Spell Resistance**: Yes
 
 Invoking this litany strengthens your defenses. Any enhancement bonus your armor has is doubled and you are immune to fear.
 

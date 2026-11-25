@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/magic-item]
 
 When given a mental command the wearer of this bulbous helm with metallic fins on the sides and top is able to swim as if carrying 50 less pounds of gear. If they have no other encumbrance besides the helm they receive a +10 circumstance bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks to swim and the helm remains above water while activated.
 
-Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Levitate|levitate]]*; Price 1,100 gp.
+Faint transmutation; CL 3rd; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Levitate|levitate]]_; Price 1,100 gp.

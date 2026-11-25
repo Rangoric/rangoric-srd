@@ -27,6 +27,6 @@ Clairsentience
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 min./level  
-**Power Points:** 9  
+**Power Points:** 9
 
 As the [[rangoric-srd/spells/True Seeing|true seeing]] spell, except as noted here.

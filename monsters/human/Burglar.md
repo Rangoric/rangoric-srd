@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Burglar
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
-  - **Hit Dice**: 3d8+3 (16 hp)
-  - **Initiative**: +3
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 15 (+2 armor, +3 Dex), touch 13, flat-footed 12
-  - **Base Attack**: +2; **CMB**: +3; **CMD**: 16
-  - **Attack**: [[rangoric-srd/equipment/weapons/Sap|Sap]] +3 melee (1d6+3 nonlethal) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 melee (1d4+1/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +6 ranged (1d6+1/×3) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +5 ranged (1d4+1/19–20)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Sap|Sap]] +3 melee (1d6+3 nonlethal); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 melee (1d4+1/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +6 ranged (1d6+1/×3); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +5 ranged (1d4+1/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +2d6
-  - **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-evasion|Evasion]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +1, [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] ([[rangoric-srd/class-options/rogue-talents/Quick Disable (Rogue Talent)|quick disable]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (sap)
-  - **Saves**: Fort +2, Ref +6, Will +1
-  - **Abilities**: Str 13, Dex 17, Con 12, Int 14, Wis 10, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Appraise|Appraise]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Engineering|Engineering]] +14, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Imitation|Imitation]] +5, [[rangoric-srd/skills/Perception|Perception]] +9 (+10 to find traps), [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +9, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +12
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Engineering, Perception, Stealth)
-  - **Environment**: Any
-  - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
-  - **Challenge Rating**: 2
-  - **Treasure**: NPC gear (combat gear: potion of feather fall, potion of jump, tanglefoot bag; other gear: leather armor, dagger, sap, masterwork composite shortbow (+1 Str) with 20 arrows, universal solvent, climber's kit, 50-ft. silk rope with grappling hook, masterwork thieves' tools)
-  - **Alignment**: Neutral
-  - **Advancement**: By character class
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]]
+- **Hit Dice**: 3d8+3 (16 hp)
+- **Initiative**: +3
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 15 (+2 armor, +3 Dex), touch 13, flat-footed 12
+- **Base Attack**: +2; **CMB**: +3; **CMD**: 16
+- **Attack**: [[rangoric-srd/equipment/weapons/Sap|Sap]] +3 melee (1d6+3 nonlethal) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 melee (1d4+1/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +6 ranged (1d6+1/×3) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +5 ranged (1d4+1/19–20)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Sap|Sap]] +3 melee (1d6+3 nonlethal); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +3 melee (1d4+1/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Shortbow|composite shortbow]] +6 ranged (1d6+1/×3); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +5 ranged (1d4+1/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +2d6
+- **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-evasion|Evasion]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +1, [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] ([[rangoric-srd/class-options/rogue-talents/Quick Disable (Rogue Talent)|quick disable]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (sap)
+- **Saves**: Fort +2, Ref +6, Will +1
+- **Abilities**: Str 13, Dex 17, Con 12, Int 14, Wis 10, Cha 8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Appraise|Appraise]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Engineering|Engineering]] +14, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Imitation|Imitation]] +5, [[rangoric-srd/skills/Perception|Perception]] +9 (+10 to find traps), [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +9, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +12
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Engineering, Perception, Stealth)
+- **Environment**: Any
+- **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
+- **Challenge Rating**: 2
+- **Treasure**: NPC gear (combat gear: potion of feather fall, potion of jump, tanglefoot bag; other gear: leather armor, dagger, sap, masterwork composite shortbow (+1 Str) with 20 arrows, universal solvent, climber's kit, 50-ft. silk rope with grappling hook, masterwork thieves' tools)
+- **Alignment**: Neutral
+- **Advancement**: By character class
+- **Level Adjustment**: —
 
 A burglar is a [[rangoric-srd/monsters/human/Human|human]] with 3 levels of [[rangoric-srd/classes/Rogue|rogue]]. Burglars are prowlers of cities and towns, dancing cat-like along rooftops and slipping quietly into homes and shops by night.
 

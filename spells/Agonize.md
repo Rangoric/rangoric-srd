@@ -32,15 +32,15 @@ tags: [rangoric, rangoric/spell]
 
 # Agonize
 
-*Evocation \[Evil, Pain\]*
+_Evocation \[Evil, Pain\]_
 
-  - **Level**: Clr 3, Occ 3, Psy 4, Sor/Wiz 4, Sum 3, SumU 4
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One conjured outsider or elemental (see text)
-  - **Duration**: 1 round
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Clr 3, Occ 3, Psy 4, Sor/Wiz 4, Sum 3, SumU 4
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One conjured outsider or elemental (see text)
+- **Duration**: 1 round
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
-You afflict a creature you have conjured via *[[rangoric-srd/spells/Planar Ally|planar ally]]* (or a similar spell) with bolts of vicious energy. These foul energies inflict terrible pain upon the conjured creature, torturing it to make it more pliant to your will. The targeted creature must make a Fortitude save or take a –1 penalty for every 2 levels you possess (maximum –10) on all saves and checks made against you for the next hour. In addition, creatures that demand payment for their services reduce the payment by 20% for every 4 levels you possess (maximum 60% reduction). However, beings tortured by this spell quickly come to resent you, making them more likely to try to pervert your orders to malicious ends or try to seek retribution after their release. This spell has no effect on creatures that are immune to nonlethal damage.
+You afflict a creature you have conjured via _[[rangoric-srd/spells/Planar Ally|planar ally]]_ (or a similar spell) with bolts of vicious energy. These foul energies inflict terrible pain upon the conjured creature, torturing it to make it more pliant to your will. The targeted creature must make a Fortitude save or take a –1 penalty for every 2 levels you possess (maximum –10) on all saves and checks made against you for the next hour. In addition, creatures that demand payment for their services reduce the payment by 20% for every 4 levels you possess (maximum 60% reduction). However, beings tortured by this spell quickly come to resent you, making them more likely to try to pervert your orders to malicious ends or try to seek retribution after their release. This spell has no effect on creatures that are immune to nonlethal damage.

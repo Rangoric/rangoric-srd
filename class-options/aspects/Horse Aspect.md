@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Horse Aspect
 
-*A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the horse grants speed and maneuverability.*
+_A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the horse grants speed and maneuverability._
 
 **Minor Form**: You gain the [[rangoric-srd/feats/Endurance|Endurance]] feat as well as an enhancement bonus of +5 feet to your base speed.
 

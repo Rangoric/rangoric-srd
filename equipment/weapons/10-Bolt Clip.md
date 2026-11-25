@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/weapon]
 
 # 10-Bolt Clip
 
-*Ammunition (10).* Cost 2 gp; Weight 1 lb. ^stats
+_Ammunition (10)._ Cost 2 gp; Weight 1 lb. ^stats

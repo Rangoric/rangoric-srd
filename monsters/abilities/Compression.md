@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Compression
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “compression”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “compression”, on the Special Qualities line.
 
 The creature can move through an area as small as one-quarter its space without [[rangoric-srd/combat/Combat Movement|squeezing]] or one-eighth its space when squeezing.

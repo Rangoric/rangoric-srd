@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/feat]
 
 # Jack of All Trades
 
-Prerequisite: You must be at least 6th level.  
+Prerequisite: You must be at least 6th level.
 
 Benefit: You can use any skill untrained, even those that normally require training.

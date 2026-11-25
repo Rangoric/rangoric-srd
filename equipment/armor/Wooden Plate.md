@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/armor]
 
 # Wooden Plate
 
-*Medium armor.* Cost 50 gp; Armor Bonus +4; Maximum Dex Bonus +3; Armor Check Penalty –4; Arcane Spell Failure 22%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 25 lb. ^stats
+_Medium armor._ Cost 50 gp; Armor Bonus +4; Maximum Dex Bonus +3; Armor Check Penalty –4; Arcane Spell Failure 22%; Speed 20 ft. (30 ft.), 15 ft. (20 ft.); Weight 25 lb. ^stats
 
 Carved from thick wooden plates, this armor hinders movement and is typically limited only to inflexible areas of the body, such as the forearms, shins and chest.
 

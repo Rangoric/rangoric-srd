@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Instant Summons
 
-*Conjuration (Summoning)*
+_Conjuration (Summoning)_
 
-  - **Level**: Psy 7, Sor/Wiz 7, Wit 7
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: See text
-  - **Target**: One object weighing 10 lb. or less whose longest dimension is 6 ft. or less
-  - **Duration**: Permanent until discharged
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Psy 7, Sor/Wiz 7, Wit 7
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: See text
+- **Target**: One object weighing 10 lb. or less whose longest dimension is 6 ft. or less
+- **Duration**: Permanent until discharged
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 You call some nonliving item from virtually any location directly to your hand.
 
@@ -48,4 +48,4 @@ The inscription on the gem is [[rangoric-srd/rules/conditions/Invisibility (Cond
 
 The item can be summoned from another plane, but only if no other creature has claimed ownership of it.
 
-*Material Component*: A sapphire worth at least 1,000 gp.
+_Material Component_: A sapphire worth at least 1,000 gp.

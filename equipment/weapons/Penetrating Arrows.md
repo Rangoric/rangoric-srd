@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/weapon]
 
 # Penetrating Arrows
 
-*Ammunition (20) for bows.* Cost 3 gp; Critical 18-20/x3; Range Increment –30 ft.; Weight 9 lb.; Type Piercing. ^stats
+_Ammunition (20) for bows._ Cost 3 gp; Critical 18-20/x3; Range Increment –30 ft.; Weight 9 lb.; Type Piercing. ^stats
 
 This mithral arrow is weighted to rotate tightly in flight. The result is devastating, allowing a small band of archers to literally rip to shreds advancing columns of enemy troops. On a critical hit, the penetrating arrow does triple damage and rips right through the victim, continuing on its flight. The archer may make another attack roll to hit a second foe in the immediate flight path and not further than 10 ft. behind the first victim. The arrow cannot penetrate through a second victim, even if the attack roll should result in a second critical hit.
 

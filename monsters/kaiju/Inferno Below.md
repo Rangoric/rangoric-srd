@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Inferno Below
 
-  - Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Earth, Kaiju)
-  - **Hit Dice**: 30d10+450 (615 hp)
-  - **Initiative**: +9
-  - **Speed**: 100 ft. (20 squares), burrow 100 ft.
-  - **Armor Class**: 44 (+5 Dex, +37 natural, –8 size), touch 7, flat-footed 39
-  - **Base Attack**: +30; **CMB**: +56 (+60 bull rush, +60 grapple); **CMD**: 71 (73 vs. bull rush, 83 vs. trip)
-  - **Attack**: Claw +40 melee (4d6+18/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or sting +40 melee (3d6+18/19–20 plus 2d6 fire and [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Full Attack**: 2 claws +40 melee (4d6+18/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 3 stings +40 melee (3d6+18/19–20 plus 2d6 fire and [[rangoric-srd/monsters/abilities/Poison|poison]])
-  - **Space/Reach**: 50 ft./50 ft.
-  - **Special Attacks**: Burrowing charge, [[rangoric-srd/monsters/abilities/Constrict|constrict]] (4d6+27), heat beam, [[rangoric-srd/monsters/abilities/Hurl Foe|hurl foe]], [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Trample|trample]] (2d8+27, DC 43), [[rangoric-srd/monsters/abilities/Web|web]] (+27 ranged, DC 40, 30 hp)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 600 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 600 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 30, [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Recovery|recovery]], [[rangoric-srd/monsters/abilities/Massive|massive]], [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 20/epic, immunity to ability damage, ability drain, death effects, disease, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]], fear and fire, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 30, cold 30, electricity 30, negative energy 30 and sonic 30
-  - **Saves**: Fort +32, Ref +24, Will +20
-  - **Abilities**: Str 47, Dex 20, Con 40, Int 3, Wis 26, Cha 23
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +31, [[rangoric-srd/skills/Perception|Perception]] +37, [[rangoric-srd/skills/Stealth|Stealth]] +2 (+32 when burrowing)
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Greater Vital Strike|Greater Vital Strike]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (sting), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Lightning Reflexes|Improved Lightning Reflexes]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-  - **Environment**: Warm deserts
-  - **Organization**: Solitary (unique)
-  - **Challenge Rating**: 26
-  - **Treasure**: Incidental
-  - **Alignment**: Usually chaotic neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Earth, Kaiju)
+- **Hit Dice**: 30d10+450 (615 hp)
+- **Initiative**: +9
+- **Speed**: 100 ft. (20 squares), burrow 100 ft.
+- **Armor Class**: 44 (+5 Dex, +37 natural, –8 size), touch 7, flat-footed 39
+- **Base Attack**: +30; **CMB**: +56 (+60 bull rush, +60 grapple); **CMD**: 71 (73 vs. bull rush, 83 vs. trip)
+- **Attack**: Claw +40 melee (4d6+18/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or sting +40 melee (3d6+18/19–20 plus 2d6 fire and [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Full Attack**: 2 claws +40 melee (4d6+18/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 3 stings +40 melee (3d6+18/19–20 plus 2d6 fire and [[rangoric-srd/monsters/abilities/Poison|poison]])
+- **Space/Reach**: 50 ft./50 ft.
+- **Special Attacks**: Burrowing charge, [[rangoric-srd/monsters/abilities/Constrict|constrict]] (4d6+27), heat beam, [[rangoric-srd/monsters/abilities/Hurl Foe|hurl foe]], [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Trample|trample]] (2d8+27, DC 43), [[rangoric-srd/monsters/abilities/Web|web]] (+27 ranged, DC 40, 30 hp)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 600 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 600 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 30, [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Recovery|recovery]], [[rangoric-srd/monsters/abilities/Massive|massive]], [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 20/epic, immunity to ability damage, ability drain, death effects, disease, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]], fear and fire, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 30, cold 30, electricity 30, negative energy 30 and sonic 30
+- **Saves**: Fort +32, Ref +24, Will +20
+- **Abilities**: Str 47, Dex 20, Con 40, Int 3, Wis 26, Cha 23
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +31, [[rangoric-srd/skills/Perception|Perception]] +37, [[rangoric-srd/skills/Stealth|Stealth]] +2 (+32 when burrowing)
+- **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Greater Vital Strike|Greater Vital Strike]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (sting), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Lightning Reflexes|Improved Lightning Reflexes]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+- **Environment**: Warm deserts
+- **Organization**: Solitary (unique)
+- **Challenge Rating**: 26
+- **Treasure**: Incidental
+- **Alignment**: Usually chaotic neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 The Inferno Below dwells in the sands of a sparsely inhabited high-altitude desert found in the shadow of the world's largest mountain range. There, the 130-foot-long beast slumbers the centuries away until its cycle of wakefulness rouses it from its torpor and causes it to emerge from the sands in an eruption of fire and ash. The Inferno Below then begins its rampage, traveling in a straight line toward a heavily populated region bordering the great desert. Typically, the Inferno Below's rampage is limited to a single city, and never the same one twice in a row. After destroying no less than two-thirds of the city, it retreats back to the vast desert, burrows deep, and settles into a new sleep of ages.
 

@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Death Burst
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “death burst”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “death burst”, on the Special Attacks line.
 
 When a clockwork golem is reduced to 0 or fewer hit points, it explodes in a shower of razor-sharp gears and debris. All creatures within a 10-foot burst take 12d6 points of slashing damage—a DC 18 Reflex save results in half damage. The save DC is Constitution-based. The [[rangoric-srd/monsters/golem/Clockwork Golem|clockwork golem]] has it.

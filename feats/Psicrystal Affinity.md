@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Psicrystal Affinity
 
-You have created a psicrystal.  
+You have created a psicrystal.
 
 Prerequisites: Manifester level 1st.
 

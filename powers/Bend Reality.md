@@ -30,21 +30,21 @@ Target, Effect, or Area: See text
 Duration: See text  
 Saving Throw: None; see text  
 Power Resistance: Yes  
-Power Points: 15, XP  
+Power Points: 15, XP
 
 Bend reality lets you create nearly any type of effect. For example, bend reality can do any of the following:
 
-  - Duplicate any psion power of 6th level or lower, provided the power is not of a discipline prohibited to you.
+- Duplicate any psion power of 6th level or lower, provided the power is not of a discipline prohibited to you.
 
-  - Duplicate any other power (but not a spell) of 5th level or lower, provided the power is not of a discipline prohibited to you.
+- Duplicate any other power (but not a spell) of 5th level or lower, provided the power is not of a discipline prohibited to you.
 
-  - Duplicate any [[rangoric-srd/psionics/Psion and Wilder Power List|psion power]] of 5th level or lower, even if it’s of a prohibited discipline.
+- Duplicate any [[rangoric-srd/psionics/Psion and Wilder Power List|psion power]] of 5th level or lower, even if it’s of a prohibited discipline.
 
-  - Duplicate any other power (but not a spell) of 4th level or lower, even if it’s of a prohibited discipline.
+- Duplicate any other power (but not a spell) of 4th level or lower, even if it’s of a prohibited discipline.
 
-  - Undo the harmful effects of many powers, such as [[rangoric-srd/powers/Dominate, Psionic|psionic dominate]], [[rangoric-srd/spells/Geas-Quest|geas/quest]], or [[rangoric-srd/powers/Insanity (Power)|insanity]].
+- Undo the harmful effects of many powers, such as [[rangoric-srd/powers/Dominate, Psionic|psionic dominate]], [[rangoric-srd/spells/Geas-Quest|geas/quest]], or [[rangoric-srd/powers/Insanity (Power)|insanity]].
 
-  - Produce any other effect whose power level is in line with the above effects, such as a single creature automatically hitting on its next attack or taking a -8 penalty on its next saving throw.
+- Produce any other effect whose power level is in line with the above effects, such as a single creature automatically hitting on its next attack or taking a -8 penalty on its next saving throw.
 
 A duplicated power allows saving throws and power resistance as normal (but the save DC is for a 8th-level power).
 

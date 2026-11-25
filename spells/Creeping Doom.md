@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Creeping Doom
 
-*Conjuration (Summoning)*
+_Conjuration (Summoning)_
 
-  - **Level**: Drd 7, Sha 7, Sum 5, SumU 6
-  - **Components**: V, S
-  - **Casting Time**: 1 round
-  - **Range**: Close (25 ft. + 5 ft./2 levels)/ 100 ft.; see text
-  - **Effect**: One swarm of centipedes per two levels
-  - **Duration**: 1 min./level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Drd 7, Sha 7, Sum 5, SumU 6
+- **Components**: V, S
+- **Casting Time**: 1 round
+- **Range**: Close (25 ft. + 5 ft./2 levels)/ 100 ft.; see text
+- **Effect**: One swarm of centipedes per two levels
+- **Duration**: 1 min./level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 When you utter the spell of creeping doom, you call forth a mass of centipede swarms (one per two caster levels, to a maximum of ten swarms at 20th level), which need not appear adjacent to one another.
 

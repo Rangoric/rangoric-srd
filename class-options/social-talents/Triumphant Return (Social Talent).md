@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Triumphant Return
 
-*A [[rangoric-srd/classes/Vigilante#^vigilante-social-talent|social talent]] (Ex).*
+_A [[rangoric-srd/classes/Vigilante#^vigilante-social-talent|social talent]] (Ex)._
 
 The vigilante’s tales are never truly forgotten. This makes it easier to establish his renown in a place he has established it before. In any settlement where the vigilante previously gained renown, it takes only 3 days, rather than 1 week, to gain renown again.
 

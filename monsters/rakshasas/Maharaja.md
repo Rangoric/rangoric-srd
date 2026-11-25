@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Maharaja
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native, Rakshasa, Shapechanger)
-  - **Hit Dice**: 20d10+200 (310 hp)
-  - **Initiative**: +13
-  - **Speed**: 40 ft. (8 squares), fly 30 ft. (good)
-  - **Armor Class**: 37 (+4 deflection, +9 Dex, +1 dodge, +13 natural), touch 24, flat-footed 27
-  - **Base Attack**: +20; **CMB**: +28; **CMD**: 52
-  - **Attack**: +3 [[rangoric-srd/equipment/weapons/Falchion|falchion]] +31 melee (2d4+15/15–20) or bite +28 melee (1d6+4)
-  - **Full Attack**: +3 [[rangoric-srd/equipment/weapons/Falchion|falchion]] +31/+26/+21/+16 melee (2d4+15/15–20) and 4 bites +23 melee (1d6+4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Detect thoughts (DC 29), [[rangoric-srd/monsters/abilities/Extra Initiative|extra initiative]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (any humanoid; alter self), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 20/good and piercing, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 35
-  - **Saves**: Fort +16, Ref +21, Will +18
-  - **Abilities**: Str 27, Dex 28, Con 30, Int 25, Wis 22, Cha 29
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +31, [[rangoric-srd/skills/Appraise|Appraise]] +25, [[rangoric-srd/skills/Arcana|Arcana]] +25, [[rangoric-srd/skills/Athletics|Athletics]] +8 (+8 jumping), [[rangoric-srd/skills/Deception|Deception]] +35, [[rangoric-srd/skills/Imitation|Imitation]] +30, [[rangoric-srd/skills/Intimidation|Intimidation]] +30, [[rangoric-srd/skills/Investigation|Investigation]] +11, [[rangoric-srd/skills/Mysticism|Mysticism]] +25, [[rangoric-srd/skills/Perception|Perception]] +31, [[rangoric-srd/skills/Persuasion|Persuasion]] +30, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +27, [[rangoric-srd/skills/Society|Society]] +25, [[rangoric-srd/skills/Stealth|Stealth]] +30, [[rangoric-srd/skills/Theology|Theology]] +25
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (falchion), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Quicken Spell|Quicken Spell]], [[rangoric-srd/feats/Silent Spell|Silent Spell]], [[rangoric-srd/feats/Still Spell|Still Spell]]
-  - **Environment**: Any
-  - **Organization**: Solitary
-  - **Challenge Rating**: 20
-  - **Treasure**: Double (+3 falchion, other treasure)
-  - **Alignment**: Usually lawful evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native, Rakshasa, Shapechanger)
+- **Hit Dice**: 20d10+200 (310 hp)
+- **Initiative**: +13
+- **Speed**: 40 ft. (8 squares), fly 30 ft. (good)
+- **Armor Class**: 37 (+4 deflection, +9 Dex, +1 dodge, +13 natural), touch 24, flat-footed 27
+- **Base Attack**: +20; **CMB**: +28; **CMD**: 52
+- **Attack**: +3 [[rangoric-srd/equipment/weapons/Falchion|falchion]] +31 melee (2d4+15/15–20) or bite +28 melee (1d6+4)
+- **Full Attack**: +3 [[rangoric-srd/equipment/weapons/Falchion|falchion]] +31/+26/+21/+16 melee (2d4+15/15–20) and 4 bites +23 melee (1d6+4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: Detect thoughts (DC 29), [[rangoric-srd/monsters/abilities/Extra Initiative|extra initiative]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (any humanoid; alter self), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 20/good and piercing, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 35
+- **Saves**: Fort +16, Ref +21, Will +18
+- **Abilities**: Str 27, Dex 28, Con 30, Int 25, Wis 22, Cha 29
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +31, [[rangoric-srd/skills/Appraise|Appraise]] +25, [[rangoric-srd/skills/Arcana|Arcana]] +25, [[rangoric-srd/skills/Athletics|Athletics]] +8 (+8 jumping), [[rangoric-srd/skills/Deception|Deception]] +35, [[rangoric-srd/skills/Imitation|Imitation]] +30, [[rangoric-srd/skills/Intimidation|Intimidation]] +30, [[rangoric-srd/skills/Investigation|Investigation]] +11, [[rangoric-srd/skills/Mysticism|Mysticism]] +25, [[rangoric-srd/skills/Perception|Perception]] +31, [[rangoric-srd/skills/Persuasion|Persuasion]] +30, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +27, [[rangoric-srd/skills/Society|Society]] +25, [[rangoric-srd/skills/Stealth|Stealth]] +30, [[rangoric-srd/skills/Theology|Theology]] +25
+- **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (falchion), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Quicken Spell|Quicken Spell]], [[rangoric-srd/feats/Silent Spell|Silent Spell]], [[rangoric-srd/feats/Still Spell|Still Spell]]
+- **Environment**: Any
+- **Organization**: Solitary
+- **Challenge Rating**: 20
+- **Treasure**: Double (+3 falchion, other treasure)
+- **Alignment**: Usually lawful evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 All rakshasas aspire to power, but there are those for whom this hunger is more than an obsession: It's a birthright. Legends among the rakshasas tell of the maharajas—those rakshasas whose depredations and acts of cruelty have elevated them above others of their kind and allowed them to reincarnate as embodiments of every myth, fable, and cautionary tale involving the beast-headed fiends. Accorded the respect and deference of their lessers, maharajas inspire one emotion within the rakshasa race that few can: fear.
 
@@ -76,10 +76,10 @@ Maharajas speak Abyssal, Common, Infernal and Undercommon.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 18th; concentration +27): Constant—*[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]*, *[[rangoric-srd/spells/Tongues|tongues]]*; At will—*[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]*; 1/day—*[[rangoric-srd/spells/Dominate Monster|dominate monster]]* (DC 28).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 18th; concentration +27): Constant—_[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Tongues|tongues]]_; At will—_[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]_; 1/day—_[[rangoric-srd/spells/Dominate Monster|dominate monster]]_ (DC 28).
 
 **Spells**: A maharaja casts arcane spells as an 18th-level [[rangoric-srd/classes/Sorcerer|sorcerer]].
 
-**Spells known** (CL 18th; concentration +27): 9th (4/day)—*[[rangoric-srd/spells/Weird|weird]]* (DC 28); 8th (6/day)—*[[rangoric-srd/spells/Shadow Evocation, Greater|greater shadow evocation]], [[rangoric-srd/spells/Mind Blank|mind blank]]*; 7th (7/day)—*[[rangoric-srd/spells/Shadow Conjuration, Greater|greater shadow conjuration]], [[rangoric-srd/spells/Invisibility, Mass|mass invisibility]], [[rangoric-srd/spells/Spell Turning|spell turning]]*; 6th (7/day)—*[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Suggestion, Mass|mass suggestion]]* (DC 25), *[[rangoric-srd/spells/True Seeing|true seeing]]*; 5th (8/day)—*[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]* (DC 24), *[[rangoric-srd/spells/Feeblemind|feeblemind]]* (DC 24), *[[rangoric-srd/spells/Mind Fog|mind fog]]*(DC 24), *[[rangoric-srd/spells/Teleport|teleport]]*; 4th (8/day)—*[[rangoric-srd/spells/Charm Monster|charm monster]]* (DC 23), *[[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Globe of Invulnerability, Lesser|lesser globe of invulnerability]], [[rangoric-srd/spells/Scrying|scrying]]*; 3rd (8/day)—*[[rangoric-srd/spells/Dispel Magic|dispel magic]], [[rangoric-srd/spells/Nondetection|nondetection]], [[rangoric-srd/spells/Suggestion|suggestion]]* (DC 22), *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]* (DC 22); 2nd (8/day)—*[[rangoric-srd/spells/Darkness|darkness]], [[rangoric-srd/spells/Knock|knock]], [[rangoric-srd/spells/Misdirection|misdirection]]* (DC 21), *[[rangoric-srd/spells/Resist Energy|resist energy]], [[rangoric-srd/spells/See Invisibility|see invisibility]]*; 1st (9/day)—*[[rangoric-srd/spells/Charm Person|charm person]]* (DC 20), *[[rangoric-srd/spells/Identify|identify]], [[rangoric-srd/spells/Mage Armor|mage armor]], [[rangoric-srd/spells/Magic Missile|magic missile]], [[rangoric-srd/spells/Ventriloquism|ventriloquism]]* (DC 20); 0 (at will)—*[[rangoric-srd/spells/Arcane Mark|arcane mark]], [[rangoric-srd/spells/Bleed|bleed]]* (DC 19), *[[rangoric-srd/spells/Daze|daze]]*(DC 19), *[[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Ghost Sound|ghost sound]], [[rangoric-srd/spells/Mage Hand|mage hand]], [[rangoric-srd/spells/Message|message]], [[rangoric-srd/spells/Prestidigitation|prestidigitation]], [[rangoric-srd/spells/Read Magic|read magic]]*.
+**Spells known** (CL 18th; concentration +27): 9th (4/day)—_[[rangoric-srd/spells/Weird|weird]]_ (DC 28); 8th (6/day)—_[[rangoric-srd/spells/Shadow Evocation, Greater|greater shadow evocation]], [[rangoric-srd/spells/Mind Blank|mind blank]]_; 7th (7/day)—_[[rangoric-srd/spells/Shadow Conjuration, Greater|greater shadow conjuration]], [[rangoric-srd/spells/Invisibility, Mass|mass invisibility]], [[rangoric-srd/spells/Spell Turning|spell turning]]_; 6th (7/day)—_[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Suggestion, Mass|mass suggestion]]_ (DC 25), _[[rangoric-srd/spells/True Seeing|true seeing]]_; 5th (8/day)—_[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]_ (DC 24), _[[rangoric-srd/spells/Feeblemind|feeblemind]]_ (DC 24), _[[rangoric-srd/spells/Mind Fog|mind fog]]_(DC 24), _[[rangoric-srd/spells/Teleport|teleport]]_; 4th (8/day)—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 23), _[[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Globe of Invulnerability, Lesser|lesser globe of invulnerability]], [[rangoric-srd/spells/Scrying|scrying]]_; 3rd (8/day)—_[[rangoric-srd/spells/Dispel Magic|dispel magic]], [[rangoric-srd/spells/Nondetection|nondetection]], [[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 22), _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_ (DC 22); 2nd (8/day)—_[[rangoric-srd/spells/Darkness|darkness]], [[rangoric-srd/spells/Knock|knock]], [[rangoric-srd/spells/Misdirection|misdirection]]_ (DC 21), _[[rangoric-srd/spells/Resist Energy|resist energy]], [[rangoric-srd/spells/See Invisibility|see invisibility]]_; 1st (9/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 20), _[[rangoric-srd/spells/Identify|identify]], [[rangoric-srd/spells/Mage Armor|mage armor]], [[rangoric-srd/spells/Magic Missile|magic missile]], [[rangoric-srd/spells/Ventriloquism|ventriloquism]]_ (DC 20); 0 (at will)—_[[rangoric-srd/spells/Arcane Mark|arcane mark]], [[rangoric-srd/spells/Bleed|bleed]]_ (DC 19), _[[rangoric-srd/spells/Daze|daze]]_(DC 19), _[[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Ghost Sound|ghost sound]], [[rangoric-srd/spells/Mage Hand|mage hand]], [[rangoric-srd/spells/Message|message]], [[rangoric-srd/spells/Prestidigitation|prestidigitation]], [[rangoric-srd/spells/Read Magic|read magic]]_.
 
 **[[rangoric-srd/monsters/abilities/Extra Initiative|Extra Initiative]] (Su)**: When an encounter starts, a maharaja rolls twice for initiative. The maharaja acts normally on the higher of the two initiative counts each round. On the lower initiative count, the maharaja can take a single standard action.

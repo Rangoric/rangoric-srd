@@ -27,16 +27,16 @@ tags: [rangoric, rangoric/spell]
 
 # Deathwatch
 
-*Necromancy \[Evil\]*
+_Necromancy \[Evil\]_
 
-  - **Level**: Clr 1, Med 1, Spi 1
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: 30 ft.
-  - **Area**: Cone-shaped emanation
-  - **Duration**: 10 min./level
-  - **Saving Throw**: None
-  - **Spell Resistance**: No
+- **Level**: Clr 1, Med 1, Spi 1
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: 30 ft.
+- **Area**: Cone-shaped emanation
+- **Duration**: 10 min./level
+- **Saving Throw**: None
+- **Spell Resistance**: No
 
 Using the foul sight granted by the powers of unlife, you can determine the condition of creatures near death within the spell’s range. You instantly know whether each creature within the area is dead, fragile (alive and wounded, with 3 or fewer hit points left), fighting off death (alive with 4 or more hit points), undead, or neither alive nor dead (such as a construct).
 

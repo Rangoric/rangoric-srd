@@ -31,15 +31,15 @@ tags: [rangoric, rangoric/spell]
 
 # Eldritch Fever
 
-*Necromancy \[Curse, Disease, Evil\]*
+_Necromancy \[Curse, Disease, Evil\]_
 
-  - **Level**: Inq 3, Psy 3, Sor/Wiz 3, Wit 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: Instantaneous
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Inq 3, Psy 3, Sor/Wiz 3, Wit 3
+- **Components**: V, S
+- **Casting Time**: 1 standard
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: Instantaneous
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
 The target gains the [[rangoric-srd/rules/spellblights/Eldritch Ague|eldritch ague]] [[rangoric-srd/rules/spellblights/Spellblights|spellblight]].

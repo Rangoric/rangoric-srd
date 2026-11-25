@@ -24,6 +24,6 @@ This is a simple, unadorned spellbook. Notes on improving the efficiency of each
 
 ## Spells
 
-- **2nd**: *[[rangoric-srd/spells/Fox’s Cunning|fox's cunning]]*, *[[rangoric-srd/spells/Scorching Ray|scorching ray]]*
-- **1st**: *[[rangoric-srd/spells/Alarm|alarm]]*, *[[rangoric-srd/spells/Feather Fall|feather fall]]*, *[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]*, *[[rangoric-srd/spells/Mount|mount]]*, *[[rangoric-srd/spells/Shield|shield]]*, *[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]*, *[[rangoric-srd/spells/Silent Image|silent image]]*, *[[rangoric-srd/spells/Sleep|sleep]]*
-- **0**: standard plus *jolt*
+- **2nd**: _[[rangoric-srd/spells/Fox’s Cunning|fox's cunning]]_, _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_
+- **1st**: _[[rangoric-srd/spells/Alarm|alarm]]_, _[[rangoric-srd/spells/Feather Fall|feather fall]]_, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_, _[[rangoric-srd/spells/Mount|mount]]_, _[[rangoric-srd/spells/Shield|shield]]_, _[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]_, _[[rangoric-srd/spells/Silent Image|silent image]]_, _[[rangoric-srd/spells/Sleep|sleep]]_
+- **0**: standard plus _jolt_

@@ -27,15 +27,15 @@ tags: [rangoric, rangoric/spell]
 
 # Jester’s Jaunt
 
-*Conjuration (Teleportation)*
+_Conjuration (Teleportation)_
 
-  - **Level**: Brd 3, Mes 3, Skd 3
-  - **Components**: V, S
-  - **Casting Time**: 1 standard action
-  - **Range**: Touch
-  - **Target**: One living creature
-  - **Duration**: Instantiations
-  - **Saving Throw**: Will negates
-  - **Spell Resistance**: Yes
+- **Level**: Brd 3, Mes 3, Skd 3
+- **Components**: V, S
+- **Casting Time**: 1 standard action
+- **Range**: Touch
+- **Target**: One living creature
+- **Duration**: Instantiations
+- **Saving Throw**: Will negates
+- **Spell Resistance**: Yes
 
 You teleport the target to a space you can see within 30 feet of the target. The destination must be on solid ground, and the teleportation cannot end in a space that is by nature hazardous to the creature you are teleporting.

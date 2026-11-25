@@ -23,16 +23,16 @@ A lycanthrope in animal form fights like the animal it resembles, although its b
 
 Finally, a natural lycanthrope (or an afflicted lycanthrope that has become aware of its affliction) can assume a hybrid form that is a mix of its humanoid and animal forms. A hybrid has hands and can use weapons, but it can also attack with its teeth and claws. A hybrid can spread lycanthropy with its bite, and it has the same damage reduction that its animal form possesses.
 
-  - [[rangoric-srd/monsters/lycanthrope/Werebat|Werebat]]
-  - [[rangoric-srd/monsters/lycanthrope/Werebear|Werebear]]
-  - [[rangoric-srd/monsters/lycanthrope/Wereboar|Wereboar]]
-  - [[rangoric-srd/monsters/lycanthrope/Werecrocodile|Werecrocodile]]
-  - [[rangoric-srd/monsters/lycanthrope/Wererat|Wererat]]
-  - [[rangoric-srd/monsters/lycanthrope/Wereshark|Wereshark]]
-  - [[rangoric-srd/monsters/lycanthrope/Weretiger|Weretiger]]
-  - [[rangoric-srd/monsters/lycanthrope/Werewolf|Werewolf]]
-  - [[rangoric-srd/monsters/lycanthrope/Lycanthrope, Werewolf Lord|Lycanthrope, Werewolf Lord]]
-  - [[rangoric-srd/monsters/lycanthrope/Hill Giant Dire Wereboar|Hill Giant Dire Wereboar]]
+- [[rangoric-srd/monsters/lycanthrope/Werebat|Werebat]]
+- [[rangoric-srd/monsters/lycanthrope/Werebear|Werebear]]
+- [[rangoric-srd/monsters/lycanthrope/Wereboar|Wereboar]]
+- [[rangoric-srd/monsters/lycanthrope/Werecrocodile|Werecrocodile]]
+- [[rangoric-srd/monsters/lycanthrope/Wererat|Wererat]]
+- [[rangoric-srd/monsters/lycanthrope/Wereshark|Wereshark]]
+- [[rangoric-srd/monsters/lycanthrope/Weretiger|Weretiger]]
+- [[rangoric-srd/monsters/lycanthrope/Werewolf|Werewolf]]
+- [[rangoric-srd/monsters/lycanthrope/Lycanthrope, Werewolf Lord|Lycanthrope, Werewolf Lord]]
+- [[rangoric-srd/monsters/lycanthrope/Hill Giant Dire Wereboar|Hill Giant Dire Wereboar]]
 
 ### Creating a Lycanthrope
 
@@ -67,21 +67,21 @@ A lycanthrope uses either the base creature’s or the base animal’s statistic
 
 A lycanthrope’s hybrid form does not gain any special attacks of the base animal. A lycanthrope spellcaster cannot cast spells with verbal, somatic, or material components while in animal form, or spells with verbal components while in hybrid form.
 
-*Curse of Lycanthropy (Su)*: Any humanoid or giant hit by a natural lycanthrope’s bite attack in animal or hybrid form must succeed on a DC 15 Fortitude save or contract lycanthropy. If the victim’s size is not within one size category of the lycanthrope the victim cannot contract lycanthropy from that lycanthrope. Afflicted lycanthropes cannot pass on the curse of lycanthropy.
+_Curse of Lycanthropy (Su)_: Any humanoid or giant hit by a natural lycanthrope’s bite attack in animal or hybrid form must succeed on a DC 15 Fortitude save or contract lycanthropy. If the victim’s size is not within one size category of the lycanthrope the victim cannot contract lycanthropy from that lycanthrope. Afflicted lycanthropes cannot pass on the curse of lycanthropy.
 
 **Special Qualities**: A lycanthrope retains all the special qualities of the base creature and the base animal, and also gains those described below.
 
-*Alternate Form (Su)*: A lycanthrope can assume the form of a specific animal (as indicated in its entry). It does not assume the ability scores of the animal, but instead adds the animal’s physical ability score modifiers to its own ability scores. A lycanthrope also can assume a bipedal hybrid form with prehensile hands and animalistic features.
+_Alternate Form (Su)_: A lycanthrope can assume the form of a specific animal (as indicated in its entry). It does not assume the ability scores of the animal, but instead adds the animal’s physical ability score modifiers to its own ability scores. A lycanthrope also can assume a bipedal hybrid form with prehensile hands and animalistic features.
 
 Changing to or from animal or hybrid form is a standard action. A slain lycanthrope reverts to its humanoid form, although it remains dead. Separated body parts retain their animal form, however. Afflicted lycanthropes find this ability difficult to control (see Lycanthropy as an Affliction, below), but natural lycanthropes have full control over this power.
 
-*Damage Reduction (Ex)*: An afflicted lycanthrope in animal or hybrid form has [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/silver. A natural lycanthrope in animal or hybrid form has damage reduction 10/silver.
+_Damage Reduction (Ex)_: An afflicted lycanthrope in animal or hybrid form has [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/silver. A natural lycanthrope in animal or hybrid form has damage reduction 10/silver.
 
-*Lycanthropic Empathy (Ex)*: In any form, lycanthropes can communicate and empathize with normal or dire animals of their animal form. This gives them a +4 racial bonus on checks when influencing the animal’s attitude and allows the communication of simple concepts and (if the animal is friendly) commands, such as “friend,” “foe,” “flee,” and “attack.”
+_Lycanthropic Empathy (Ex)_: In any form, lycanthropes can communicate and empathize with normal or dire animals of their animal form. This gives them a +4 racial bonus on checks when influencing the animal’s attitude and allows the communication of simple concepts and (if the animal is friendly) commands, such as “friend,” “foe,” “flee,” and “attack.”
 
-*Low-Light Vision (Ex)*: A lycanthrope has low-light vision in any form.
+_Low-Light Vision (Ex)_: A lycanthrope has low-light vision in any form.
 
-*Scent (Ex)*: A lycanthrope has the [[rangoric-srd/monsters/abilities/Scent|scent]] ability in any form.
+_Scent (Ex)_: A lycanthrope has the [[rangoric-srd/monsters/abilities/Scent|scent]] ability in any form.
 
 **Base Save Bonuses**: Add the base save bonuses of the base animal to the base save bonuses of the base creature.
 
@@ -154,31 +154,31 @@ Becoming a lycanthrope usually changes a character’s alignment (see above). Th
 
 Lycanthrope characters possess the following racial traits.
 
-  - \+2 Wisdom. Physical abilities are increased by the animal form’s ability modifiers when a lycanthrope changes to its hybrid or animal forms.
+- \+2 Wisdom. Physical abilities are increased by the animal form’s ability modifiers when a lycanthrope changes to its hybrid or animal forms.
 
-  - Size same as the base creature or the base animal form.
+- Size same as the base creature or the base animal form.
 
-  - Low-light vision in any form.
+- Low-light vision in any form.
 
-  - [[rangoric-srd/monsters/abilities/Scent|Scent]] in any form.
+- [[rangoric-srd/monsters/abilities/Scent|Scent]] in any form.
 
-  - Racial Hit Dice: A lycanthrope adds the Hit Dice of its animal form to its base Hit Dice for race, level, and class. These additional Hit Dice modify the lycanthrope’s base attack bonus and base saving throw bonuses accordingly.
+- Racial Hit Dice: A lycanthrope adds the Hit Dice of its animal form to its base Hit Dice for race, level, and class. These additional Hit Dice modify the lycanthrope’s base attack bonus and base saving throw bonuses accordingly.
 
-  - Racial Skills: A lycanthrope adds skill points for its animal Hit Dice much as if it had multiclassed into the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|animal]] type. It gains skill points equal to (2 + Int modifier, minimum 1) per Hit Die of the animal form. Any skills that appear in the animal’s description are treated as class skills for the lycanthrope’s animal levels. The lycanthrope’s maximum skill ranks are equal to its animal form Hit Dice + its racial Hit Dice (if any) + its class levels. Any racial skill adjustments of the lycanthrope’s base race and its animal form (but not conditional adjustments) are added to its skill modifiers in any form.
+- Racial Skills: A lycanthrope adds skill points for its animal Hit Dice much as if it had multiclassed into the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|animal]] type. It gains skill points equal to (2 + Int modifier, minimum 1) per Hit Die of the animal form. Any skills that appear in the animal’s description are treated as class skills for the lycanthrope’s animal levels. The lycanthrope’s maximum skill ranks are equal to its animal form Hit Dice + its racial Hit Dice (if any) + its class levels. Any racial skill adjustments of the lycanthrope’s base race and its animal form (but not conditional adjustments) are added to its skill modifiers in any form.
 
-  - Racial Feats: Add the animal’s Hit Dice to the base character’s own Hit Dice to determine how many feats the character has. All lycanthropes gain [[rangoric-srd/feats/Iron Will|Iron Will]] as a bonus feat.
+- Racial Feats: Add the animal’s Hit Dice to the base character’s own Hit Dice to determine how many feats the character has. All lycanthropes gain [[rangoric-srd/feats/Iron Will|Iron Will]] as a bonus feat.
 
-  - \+2 natural armor bonus in any form.
+- \+2 natural armor bonus in any form.
 
-  - Special Qualities (see above): [[rangoric-srd/monsters/abilities/Alternate Form|Alternate form]], lycanthropic empathy, curse of lycanthropy (in animal or hybrid form only).
+- Special Qualities (see above): [[rangoric-srd/monsters/abilities/Alternate Form|Alternate form]], lycanthropic empathy, curse of lycanthropy (in animal or hybrid form only).
 
-  - Afflicted lycanthrope: [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/silver (in animal or hybrid form only).
+- Afflicted lycanthrope: [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/silver (in animal or hybrid form only).
 
-  - Natural lycanthrope: [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/silver (in animal or hybrid form only).
+- Natural lycanthrope: [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/silver (in animal or hybrid form only).
 
-  - Automatic Languages: As base creature.
+- Automatic Languages: As base creature.
 
-  - Level adjustment: Same as the base creature +2 (afflicted) or +3 (natural).
+- Level adjustment: Same as the base creature +2 (afflicted) or +3 (natural).
 
 ### Control Shape (Wis)
 
@@ -204,7 +204,7 @@ On a failed check, the character must remain in animal form until the next dawn,
 | Voluntary change to animal form (full moon)     | 15               |
 | Voluntary change to animal form (not full moon) | 20               |
 
-\* *For game purposes, the full moon lasts three days every month.*
+\* _For game purposes, the full moon lasts three days every month._
 
 **Retry (Voluntary Change)**: A character can retry voluntary changes to animal form or hybrid form as often as he likes. Each attempt is a standard action. However, on a failed check to return to humanoid form, the character must remain in animal or hybrid form until the next dawn, when he automatically returns to humanoid form.
 

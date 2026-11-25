@@ -31,7 +31,7 @@ Area: 30-ft.-radius burst
 Duration: Instantaneous  
 Saving Throw: Will negates; see text  
 Power Resistance: No  
-Power Points: 5  
+Power Points: 5
 
 You dismiss creatures, objects, or effects composed of ectoplasm, such as astral constructs or the [[rangoric-srd/powers/Ectoplasmic Cocoon|ectoplasmic cocoon]] power, or that were formerly composed of ectoplasm, such as items created by metacreativity (creation) powers.
 

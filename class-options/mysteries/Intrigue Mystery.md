@@ -15,11 +15,11 @@ tags: [rangoric, rangoric/class-option]
 
 # Intrigue Mystery
 
-*An [[rangoric-srd/classes/Oracle#^oracle-mystery|oracle mystery]].*
+_An [[rangoric-srd/classes/Oracle#^oracle-mystery|oracle mystery]]._
 
 **Class Skills**: An oracle with the intrigue mystery adds [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Imitation|Imitation]], [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]], and [[rangoric-srd/skills/Stealth|Stealth]] to her list of class skills.
 
-**Bonus Spells**: *[[rangoric-srd/spells/Charm Person|charm person]]* (2nd), *[[rangoric-srd/spells/False Belief|false belief]]* (4th), *[[rangoric-srd/spells/Suggestion|suggestion]]* (6th), *[[rangoric-srd/spells/Sending|sending]]* (8th), *[[rangoric-srd/spells/True Seeing|true seeing]]* (10th), *[[rangoric-srd/spells/Symbol of Persuasion|symbol of persuasion]]* (12th), *[[rangoric-srd/spells/Scrying, Greater|scrying, greater]]* (14th), *[[rangoric-srd/spells/Mind Blank|mind blank]]* (16th), *[[rangoric-srd/spells/Overwhelming Presence|overwhelming presence]]* (18th).
+**Bonus Spells**: _[[rangoric-srd/spells/Charm Person|charm person]]_ (2nd), _[[rangoric-srd/spells/False Belief|false belief]]_ (4th), _[[rangoric-srd/spells/Suggestion|suggestion]]_ (6th), _[[rangoric-srd/spells/Sending|sending]]_ (8th), _[[rangoric-srd/spells/True Seeing|true seeing]]_ (10th), _[[rangoric-srd/spells/Symbol of Persuasion|symbol of persuasion]]_ (12th), _[[rangoric-srd/spells/Scrying, Greater|scrying, greater]]_ (14th), _[[rangoric-srd/spells/Mind Blank|mind blank]]_ (16th), _[[rangoric-srd/spells/Overwhelming Presence|overwhelming presence]]_ (18th).
 
 ## Revelations
 

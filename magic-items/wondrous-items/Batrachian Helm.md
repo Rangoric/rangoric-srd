@@ -27,4 +27,4 @@ If the target is an unattended object weighing 250 pounds or less, it is pulled 
 
 If the target is a creature larger than the wearer, an unattended object weighing more than 250 pounds, or an immobile structure such as a wall, the wearer is pulled 20 feet toward the target. This movement does not provoke attacks of opportunity, and the object or creature stops if the movement would move it into a solid object or creature.
 
-Moderate transmutation; CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Telekinesis|telekinesis]]*; Price 26,000 gp; Cost 13,000 gp; Weight 3 lbs.
+Moderate transmutation; CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Telekinesis|telekinesis]]_; Price 26,000 gp; Cost 13,000 gp; Weight 3 lbs.

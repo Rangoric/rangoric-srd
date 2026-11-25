@@ -36,26 +36,26 @@ tags: [rangoric, rangoric/monster]
 
 # Devastation Beetle
 
-  - Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|Vermin]]
-  - **Hit Dice**: 128d8+2,304 (2,880 hp)
-  - **Initiative**: +10 (Dex)
-  - **Speed**: 70 ft.
-  - **Armor Class**: 72 (-8 size, +10 Dex, +60 natural)
-  - **Base Attack**: +96; **CMB**: +120; **CMD**: 140 (148 vs. trip)
-  - **Attack**: Bite +104 melee
-  - **Full Attack**: Bite 25d10+24
-  - **Space/Reach**: 50 ft./40 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] 30d10+24, acid cloud
-  - **Special Qualities**: Darkvision 300 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 60, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 20/-
-  - **Saves**: Fort +84, Ref +52, Will +42
-  - **Abilities**: Str 42, Dex 31, Con 46, Int -, Wis 10, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +146 (+162 jumping), [[rangoric-srd/skills/Perception|Perception]] +0
-  - **Climate/Terrain**: Any land
-  - **Organization**: Solitary or cluster (2-5)
-  - **Challenge Rating**: 50
-  - **Treasure**: None
-  - **Alignment**: Always neutral
-  - **Advancement**: None
+- Colossal [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|Vermin]]
+- **Hit Dice**: 128d8+2,304 (2,880 hp)
+- **Initiative**: +10 (Dex)
+- **Speed**: 70 ft.
+- **Armor Class**: 72 (-8 size, +10 Dex, +60 natural)
+- **Base Attack**: +96; **CMB**: +120; **CMD**: 140 (148 vs. trip)
+- **Attack**: Bite +104 melee
+- **Full Attack**: Bite 25d10+24
+- **Space/Reach**: 50 ft./40 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] 30d10+24, acid cloud
+- **Special Qualities**: Darkvision 300 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 60, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 20/-
+- **Saves**: Fort +84, Ref +52, Will +42
+- **Abilities**: Str 42, Dex 31, Con 46, Int -, Wis 10, Cha 9
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +146 (+162 jumping), [[rangoric-srd/skills/Perception|Perception]] +0
+- **Climate/Terrain**: Any land
+- **Organization**: Solitary or cluster (2-5)
+- **Challenge Rating**: 50
+- **Treasure**: None
+- **Alignment**: Always neutral
+- **Advancement**: None
 
 Trample (Ex): A devastation beetle can [[rangoric-srd/monsters/abilities/Trample|trample]] Gargantuan and smaller creatures for 30d10+24 points of damage. Opponents who do not make attacks of opportunity against the devastation beetle can attempt a Reflex save (DC 90) to halve the damage.
 

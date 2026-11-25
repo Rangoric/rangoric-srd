@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Musketeer
 
-*A [[rangoric-srd/classes/Cavalier#^cavalier-archetypes|cavalier]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]].*
+_A [[rangoric-srd/classes/Cavalier#^cavalier-archetypes|cavalier]] [[rangoric-srd/class-options/archetypes/Archetypes|archetype]]._
 
 Some cavaliers are entrusted by their masters with the care and use of expensive and powerful oddities—firearms. Capable of inflicting shocking amounts of destruction without the aid of magic, these musketeers lead the advance of their troops, firing devastating fusillades long before the enemy can prepare for the armed charge that follows.
 
@@ -28,7 +28,7 @@ Some cavaliers are entrusted by their masters with the care and use of expensive
 
 Beginning at 8th level, the musketeer can focus himself when wielding his gifted weapon. As a standard action, he can focus himself to gain a number of benefits for 1 minute per cavalier level. The musketeer can use this ability twice per day, plus one additional time per day for every four levels beyond 8th, to a total of five times per day at 20th level.
 
-At 8th level, the cavalier gains the benefit of the [[rangoric-srd/feats/Improved Critical|Improved Critical]] feat. At 11th level, he can reduce the misfire chance of his weapon by 1 (to a minimum of 1, as with the *[[rangoric-srd/magic-items/weapon-abilities/Reliable|reliable]]* firearm special ability), and at 17th level, the musketeer can double the range increment of his weapon (as the *[[rangoric-srd/magic-items/weapon-abilities/Distance|distance]]* special ability). These abilities do not stack with the magical weapon special abilities that they duplicate.
+At 8th level, the cavalier gains the benefit of the [[rangoric-srd/feats/Improved Critical|Improved Critical]] feat. At 11th level, he can reduce the misfire chance of his weapon by 1 (to a minimum of 1, as with the _[[rangoric-srd/magic-items/weapon-abilities/Reliable|reliable]]_ firearm special ability), and at 17th level, the musketeer can double the range increment of his weapon (as the _[[rangoric-srd/magic-items/weapon-abilities/Distance|distance]]_ special ability). These abilities do not stack with the magical weapon special abilities that they duplicate.
 
 Finally, at 20th level, during a period of such focus, the musketeer can engage in a flurry of gunfire. The cavalier can expend one of his daily [[rangoric-srd/classes/Cavalier#^cavalier-challenge|challenges]] to make a full attack with his firearm. The musketeer ignores the normal load times for his weapon, but must still expend enough doses of powder and enough bullets to complete each attack.
 

@@ -31,7 +31,7 @@ Area: 40-ft.-radius emanation centered on you
 Duration: Concentration, up to 1 minute (D)  
 Saving Throw: No  
 Power Resistance: No  
-Power Points: 1  
+Power Points: 1
 
 You sense the use of any effects of the teleportation subdiscipline within the area. You sense the use of these powers whether or not you have line of sight or line of effect (although a force effect prevents this detection). When you sense the use of an appropriate power, you know the direction in which the power was used, though not the distance or the exact effect.
 

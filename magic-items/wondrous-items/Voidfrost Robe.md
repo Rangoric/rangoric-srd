@@ -23,4 +23,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This blue and white silk robe gives the impression of ice and frozen fog forming over its surface. The robe grants the wearer cold [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy|resistance]] 5 and increases the wearer's caster level for all spells with the cold descriptor by +1. Once per day on command, the wearer of the robe can emit a 20-foot-radius burst of cold. Creatures other than the wearer within the area take 2d6 points of cold damage (Reflex DC 16 half).
 
-Moderate abjuration and evocation; CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Heighten Spell|Heighten Spell]], *[[rangoric-srd/spells/Resist Energy|resist energy]]*, *[[rangoric-srd/spells/Cone of Cold|cone of cold]]*; Price 11,000 gp; Cost 5,500 gp; Weight 1 lb.
+Moderate abjuration and evocation; CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Heighten Spell|Heighten Spell]], _[[rangoric-srd/spells/Resist Energy|resist energy]]_, _[[rangoric-srd/spells/Cone of Cold|cone of cold]]_; Price 11,000 gp; Cost 5,500 gp; Weight 1 lb.

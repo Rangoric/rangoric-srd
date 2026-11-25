@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Gug
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 15d8+60 (127 hp)
-  - **Initiative**: +1
-  - **Speed**: 40 ft. (8 squares), climb 20 ft.
-  - **Armor Class**: 24 (+1 Dex, +14 natural, –1 size), touch 10, flat-footed 23
-  - **Base Attack**: +11; **CMB**: +19; **CMD**: 30
-  - **Attack**: Bite +17 melee (1d8+7) or claw +17 melee (1d6+7)
-  - **Full Attack**: Bite +17 melee (1d8+7) and 4 claws +17 melee (1d6+7)
-  - **Space/Reach**: 10 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d6+10)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and poison
-  - **Saves**: Fort +9, Ref +6, Will +12
-  - **Abilities**: Str 25, Dex 12, Con 18, Int 11, Wis 16, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +10, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +13, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +21, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Stealth|Stealth]] +15
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Any underground
-  - **Organization**: Solitary, pair, or camp (3–10)
-  - **Challenge Rating**: 10
-  - **Treasure**: Standard
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 15d8+60 (127 hp)
+- **Initiative**: +1
+- **Speed**: 40 ft. (8 squares), climb 20 ft.
+- **Armor Class**: 24 (+1 Dex, +14 natural, –1 size), touch 10, flat-footed 23
+- **Base Attack**: +11; **CMB**: +19; **CMD**: 30
+- **Attack**: Bite +17 melee (1d8+7) or claw +17 melee (1d6+7)
+- **Full Attack**: Bite +17 melee (1d8+7) and 4 claws +17 melee (1d6+7)
+- **Space/Reach**: 10 ft./15 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d6+10)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and poison
+- **Saves**: Fort +9, Ref +6, Will +12
+- **Abilities**: Str 25, Dex 12, Con 18, Int 11, Wis 16, Cha 11
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +10, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +13, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +21, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Stealth|Stealth]] +15
+- **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+- **Environment**: Any underground
+- **Organization**: Solitary, pair, or camp (3–10)
+- **Challenge Rating**: 10
+- **Treasure**: Standard
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Gugs are inhuman monstrosities that dwell in the deep places of the world. Whether they were banished to the dark lands by ancient gods or the light-loving races they terrorized, or perhaps were brought to the deep realms by dark powers from some even more inhuman nightmare realm, is unknown, but gugs are loathed by other races for their carnal rites of slaughter.
 
@@ -67,6 +67,6 @@ Gugs are 16 feet tall and weigh nearly 2,000 pounds, but they move with an eerie
 
 Gugs are savage [[rangoric-srd/classes/Fighter|fighters]] when driven by a strong leader, but on their own may flee if brought to fewer than half their hit points, carrying off fresh meat for later feasting if they are able. They can subsist on fungi, slimes, and molds as well as carrion and even undead flesh—particularly that of [[rangoric-srd/monsters/ghoul/Ghoul|ghouls]].
 
-Some bloodthirsty gugs gain awful powers as gifts from their alien patrons. These monsters are known as savants. They have a Charisma of 18 and can use *[[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Spike Stones|spike stones]]*, *[[rangoric-srd/spells/Transmute Rock to Mud|transmute rock to mud]]*, and *[[rangoric-srd/spells/Unholy Blight|unholy blight]]* once per day each as spell-like abilities (CL 10th, concentration +14). Some become actual [[rangoric-srd/classes/Cleric|clerics]] or [[rangoric-srd/classes/Oracle|oracles]] of their mad gods—strange powers of darkness, insanity, and blood. Gug savants add +1 to their CR.
+Some bloodthirsty gugs gain awful powers as gifts from their alien patrons. These monsters are known as savants. They have a Charisma of 18 and can use _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Spike Stones|spike stones]]_, _[[rangoric-srd/spells/Transmute Rock to Mud|transmute rock to mud]]_, and _[[rangoric-srd/spells/Unholy Blight|unholy blight]]_ once per day each as spell-like abilities (CL 10th, concentration +14). Some become actual [[rangoric-srd/classes/Cleric|clerics]] or [[rangoric-srd/classes/Oracle|oracles]] of their mad gods—strange powers of darkness, insanity, and blood. Gug savants add +1 to their CR.
 
 Gugs speak Undercommon.

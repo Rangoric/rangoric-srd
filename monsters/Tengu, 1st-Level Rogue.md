@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Tengu, 1st-Level Rogue
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Tengu)
-  - **Hit Dice**: 1d8+1 (9 hp)
-  - **Initiative**: +7
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 15 (+2 armor, +3 Dex), touch 13, flat-footed 12
-  - **Base Attack**: +0; **CMB**: +1; **CMD**: 14
-  - **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +3 melee (1d4+1/19–20) or bite +3 melee (1d3) or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +3 ranged (1d6/×3)
-  - **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +3 melee (1d4+1/19–20) and bite –2 melee (1d3); or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +3 ranged (1d6/×3)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], gifted linguist, swordtrained, [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]]
-  - **Saves**: Fort +1, Ref +5, Will +2
-  - **Abilities**: Str 12, Dex 17, Con 12, Int 10, Wis 15, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Appraise|Appraise]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Deception|Deception]] +3, [[rangoric-srd/skills/Linguistics|Linguistics]] +8, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +9
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Temperate mountains or urban
-  - **Organization**: Solitary, pair, or conspiracy (3–12)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: NPC gear (leather armor, dagger, shortbow with 20 arrows, other treasure)
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Tengu)
+- **Hit Dice**: 1d8+1 (9 hp)
+- **Initiative**: +7
+- **Speed**: 30 ft. (6 squares)
+- **Armor Class**: 15 (+2 armor, +3 Dex), touch 13, flat-footed 12
+- **Base Attack**: +0; **CMB**: +1; **CMD**: 14
+- **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +3 melee (1d4+1/19–20) or bite +3 melee (1d3) or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +3 ranged (1d6/×3)
+- **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +3 melee (1d4+1/19–20) and bite –2 melee (1d3); or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +3 ranged (1d6/×3)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], gifted linguist, swordtrained, [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]]
+- **Saves**: Fort +1, Ref +5, Will +2
+- **Abilities**: Str 12, Dex 17, Con 12, Int 10, Wis 15, Cha 8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Appraise|Appraise]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Deception|Deception]] +3, [[rangoric-srd/skills/Linguistics|Linguistics]] +8, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+- **Environment**: Temperate mountains or urban
+- **Organization**: Solitary, pair, or conspiracy (3–12)
+- **Challenge Rating**: 1/2
+- **Treasure**: NPC gear (leather armor, dagger, shortbow with 20 arrows, other treasure)
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Tengus are a race of avian humanoids that resemble crows or ravens, and often bear much of the same stigma. Though they frequently choose to live among other races in densely populated cities, their society is tight and closed, and they rarely allow others to see its inner workings. Tengus often band together in small groups to create roosts in vacant warehouses or condemned buildings, and these raucous gathering places are generally assumed to be thieves' guilds by outsiders—an assumption that's correct roughly half the time.
 

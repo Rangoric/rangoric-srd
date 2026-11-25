@@ -32,7 +32,7 @@ Psychometabolism (Healing) \[Good\]
 **Duration:** Instantaneous  
 **Saving Throw:** None  
 **Power Resistance:** Yes (harmless)  
-**Power Points:** 9, XP  
+**Power Points:** 9, XP
 
 Psionic revivify lets a manifester reconnect a corpse’s psyche with its body, restoring life to a recently deceased creature. The power must be manifested within 1 round of the victim’s death. Before the psyche of the deceased has completely left the body, this power halts its journey while repairing somewhat the damage to the body.
 

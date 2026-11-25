@@ -38,27 +38,27 @@ tags: [rangoric, rangoric/monster]
 
 # Greater Jabberwock
 
-  - Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Fire)
-  - **Hit Dice**: 19d12+76 (209 hp)
-  - **Initiative**: +0
-  - **Speed**: 20 ft. (4 squares), fly 60 ft. (average)
-  - **Armor Class**: 24 (–4 size, +18 natural), touch 6, flat-footed 24
-  - **Base Attack**: +19; **CMB**: +31; **CMD**: 41
-  - **Attack**: Claw +8 melee (2d6+8)
-  - **Full Attack**: 2 claws +8 melee (2d6+8), bite +6 melee (4d6+4 plus acid), and tail slam +6 melee (2d8+4); or 4 claws +8 melee (2d6+8)
-  - **Space/Reach**: 20 ft./15 ft.
-  - **Special Attacks**: Acidic bite, [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]], [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]], [[rangoric-srd/monsters/abilities/Grab|improved grab]], snatch
-  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/magic, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
-  - **Saves**: Fort +7, Ref +6, Will +6
-  - **Abilities**: Str 27, Dex 11, Con 21, Int 10, Wis 15, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +0
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Critical|Improved Critical]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Any land
-  - **Organization**: Solitary
-  - **Challenge Rating**: 15
-  - **Treasure**: None
-  - **Alignment**: Chaotic evil
-  - **Advancement**: 20–22 HD (Gargantuan); 23–26 HD (Colossal)
+- Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] (Fire)
+- **Hit Dice**: 19d12+76 (209 hp)
+- **Initiative**: +0
+- **Speed**: 20 ft. (4 squares), fly 60 ft. (average)
+- **Armor Class**: 24 (–4 size, +18 natural), touch 6, flat-footed 24
+- **Base Attack**: +19; **CMB**: +31; **CMD**: 41
+- **Attack**: Claw +8 melee (2d6+8)
+- **Full Attack**: 2 claws +8 melee (2d6+8), bite +6 melee (4d6+4 plus acid), and tail slam +6 melee (2d8+4); or 4 claws +8 melee (2d6+8)
+- **Space/Reach**: 20 ft./15 ft.
+- **Special Attacks**: Acidic bite, [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]], [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]], [[rangoric-srd/monsters/abilities/Grab|improved grab]], snatch
+- **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/magic, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
+- **Saves**: Fort +7, Ref +6, Will +6
+- **Abilities**: Str 27, Dex 11, Con 21, Int 10, Wis 15, Cha 13
+- **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +0
+- **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Critical|Improved Critical]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+- **Environment**: Any land
+- **Organization**: Solitary
+- **Challenge Rating**: 15
+- **Treasure**: None
+- **Alignment**: Chaotic evil
+- **Advancement**: 20–22 HD (Gargantuan); 23–26 HD (Colossal)
 
 Mystery shrouds the origin of the greater jabberwock. It shares some characteristics with the [[rangoric-srd/monsters/jabberwock/Lesser Jabberwock|lesser jabberwock]], so some believe that the greater jabberwock is either the dominant creature, or it is a magically enhanced crossbreed. There are numerous theories about what creature from which it might be descended, though most favor dragons, [[rangoric-srd/monsters/Wyvern|wyverns]], or even the singularly deadly [[rangoric-srd/monsters/Tarrasque|tarrasque]].
 

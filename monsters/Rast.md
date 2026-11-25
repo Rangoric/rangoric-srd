@@ -37,30 +37,31 @@ change: modified
 pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
+
 # Rast
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar, Fire)
-  - **Hit Dice**: 6d10+18 (51 hp)
-  - **Initiative**: +5
-  - **Speed**: 5 ft. (1 square), fly 60 ft. (good)
-  - **Armor Class**: 18 (+1 Dex, +7 natural), touch 11, flat-footed 17
-  - **Base Attack**: +6; **CMB**: +8 (+12 grapple); **CMD**: 19 (can't be tripped)
-  - **Attack**: Bite +8 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +9 melee (1d4+2)
-  - **Full Attack**: Bite +8 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 4 claws +9 melee (1d4+2)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d2 Constitution), paralyzing [[rangoric-srd/monsters/abilities/Gaze|gaze]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, vulnerability to cold
-  - **Saves**: Fort +8, Ref +6, Will +3
-  - **Abilities**: Str 14, Dex 12, Con 17, Int 3, Wis 13, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +10
-  - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
-  - **Environment**: Any (Elemental Plane of Fire)
-  - **Organization**: Solitary, pair, cluster (3–6), or pack (7–15)
-  - **Challenge Rating**: 5
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: 5–6 HD (Medium); 7–12 HD (Large)
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar, Fire)
+- **Hit Dice**: 6d10+18 (51 hp)
+- **Initiative**: +5
+- **Speed**: 5 ft. (1 square), fly 60 ft. (good)
+- **Armor Class**: 18 (+1 Dex, +7 natural), touch 11, flat-footed 17
+- **Base Attack**: +6; **CMB**: +8 (+12 grapple); **CMD**: 19 (can't be tripped)
+- **Attack**: Bite +8 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +9 melee (1d4+2)
+- **Full Attack**: Bite +8 melee (1d6+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 4 claws +9 melee (1d4+2)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d2 Constitution), paralyzing [[rangoric-srd/monsters/abilities/Gaze|gaze]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, vulnerability to cold
+- **Saves**: Fort +8, Ref +6, Will +3
+- **Abilities**: Str 14, Dex 12, Con 17, Int 3, Wis 13, Cha 12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +10
+- **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
+- **Environment**: Any (Elemental Plane of Fire)
+- **Organization**: Solitary, pair, cluster (3–6), or pack (7–15)
+- **Challenge Rating**: 5
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: 5–6 HD (Medium); 7–12 HD (Large)
+- **Level Adjustment**: —
 
 Hailing from the barren wastes of the Elemental Plane of Fire, the rast is as dangerous as it is bizarre. Its body is a single tumorous sack that bulges with hidden organs and veins and bears no sensory apparatus beyond two miniscule eyes almost lost in the folds and wattles of its flesh. Instead, its defining feature is a mouth of flesh-ripping teeth and a wriggling mass of tangled legs. The exact number of legs on a particular rast is seemingly a random trait. Strangely, these tangled limbs do not support the creature, but rather hang twitching and waving beneath it as the rast floats through the air with an easy grace, only reaching out to manipulate objects or—more often—to slash at its prey.
 

@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Deathtrap Ooze
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]] (Shapechanger)
-  - **Hit Dice**: 12d8+72 (126 hp)
-  - **Initiative**: –4
-  - **Speed**: 20 ft. (4 squares), climb 20 ft.
-  - **Armor Class**: 10 (–4 Dex, +5 natural, –1 size), touch 5, flat-footed 10
-  - **Base Attack**: +9; **CMB**: +15 (+19 grapple); **CMD**: 21 (can't be tripped)
-  - **Attack**: Slam +13 melee (2d6+7 plus 2d6 acid and [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Full Attack**: Slam +13 melee (2d6+7 plus 2d6 acid and [[rangoric-srd/monsters/abilities/Grab|grab]])
-  - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d6+7 plus 2d6 acid)
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60ft, [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Trap Form|trap form]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]]
-  - **Saves**: Fort +10, Ref +0, Will –1
-  - **Abilities**: Str 20, Dex 3, Con 22, Int —, Wis 1, Cha 1
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13
-  - **Feats**: —
-  - **Environment**: Any underground
-  - **Organization**: Solitary
-  - **Challenge Rating**: 8
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]] (Shapechanger)
+- **Hit Dice**: 12d8+72 (126 hp)
+- **Initiative**: –4
+- **Speed**: 20 ft. (4 squares), climb 20 ft.
+- **Armor Class**: 10 (–4 Dex, +5 natural, –1 size), touch 5, flat-footed 10
+- **Base Attack**: +9; **CMB**: +15 (+19 grapple); **CMD**: 21 (can't be tripped)
+- **Attack**: Slam +13 melee (2d6+7 plus 2d6 acid and [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Full Attack**: Slam +13 melee (2d6+7 plus 2d6 acid and [[rangoric-srd/monsters/abilities/Grab|grab]])
+- **Space/Reach**: 10 ft./10 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d6+7 plus 2d6 acid)
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60ft, [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Trap Form|trap form]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]]
+- **Saves**: Fort +10, Ref +0, Will –1
+- **Abilities**: Str 20, Dex 3, Con 22, Int —, Wis 1, Cha 1
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13
+- **Feats**: —
+- **Environment**: Any underground
+- **Organization**: Solitary
+- **Challenge Rating**: 8
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A deathtrap ooze is a disgusting mass of brown-orange sludge that moves and hunts of its own volition. It exists only to feed. Thought to be related to ochre jellies, the deathtrap ooze is up to 12 feet wide and 6 inches deep in its normal, mobile form. While moving, it shrinks a foot or two in width, gaining about 6 inches of height, and rolls forward in a quivering mass.
 

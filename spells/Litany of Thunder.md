@@ -30,16 +30,16 @@ tags: [rangoric, rangoric/spell]
 
 # Litany of Thunder
 
-*Evocation \[Language-dependent, Sonic\]*
+_Evocation \[Language-dependent, Sonic\]_
 
-  - **Level**: Apl 4, Inq 5, Pal 4
-  - **Components**: V, S, DF
-  - **Casting Time**: 1 swift action
-  - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One creature
-  - **Duration**: 1 round
-  - **Saving Throw**: Fortitude negates
-  - **Spell Resistance**: Yes
+- **Level**: Apl 4, Inq 5, Pal 4
+- **Components**: V, S, DF
+- **Casting Time**: 1 swift action
+- **Range**: Close (25 ft. + 5 ft./2 levels)
+- **Target**: One creature
+- **Duration**: 1 round
+- **Saving Throw**: Fortitude negates
+- **Spell Resistance**: Yes
 
 You call down a thunderous boom upon your enemy. The target becomes deafened until the condition is removed, and is confused for 1 round.
 

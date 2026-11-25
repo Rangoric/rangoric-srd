@@ -61,7 +61,7 @@ Organization: Solitary or pair    
 Challenge Rating: 23      
 Treasure: Standard      
 Alignment: Chaotic evil      
-Advancement: 33-42 HD (Medium-size); 43-55 HD (Huge)     
+Advancement: 33-42 HD (Medium-size); 43-55 HD (Huge)   
 
 Lavawights speak Common and Infernal.
 
@@ -71,9 +71,9 @@ Rend (Ex): If the lavawight hits with both of its claws, it latches onto the opp
 
 Blazefire (Su): Living creatures taking Damage from a lavawight’s attack find themselves ignited with blaze-fire; they must succeed at a Fortitude save (DC 35) or permanently lose 4 hit points. The DC is Charisma-based. The opponent must continue to save every round for the next 6 rounds (7 rounds total) to avoid being permanently drained of 4 more hit points each round. The lavawight heals the same amount of Damage whenever a creature is drained of hit points, gaining any excess as temporary hit points. These temporary hit points last a maximum of 1 hour. If an opponent is slain by blazefire, only blackened ash remains of the victim. Hit points lost to the blazefire never heal naturally and cannot be magically restored - they are gone for good.
 
-Spell-Like Abilities: Caster level 22nd; save DC 19 + spell level. The DC is Charisma-based.  
+Spell-Like Abilities: Caster level 22nd; save DC 19 + spell level. The DC is Charisma-based.
 
-At will - [[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Flame Arrow|flame arrow]], [[rangoric-srd/spells/Spell Immunity|spell immunity]] ([[rangoric-srd/spells/Sleet Storm|sleet storm]]), [[rangoric-srd/spells/Fireball|fireball]], [[rangoric-srd/spells/Wall of Fire|wall of fire]].  
+At will - [[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Flame Arrow|flame arrow]], [[rangoric-srd/spells/Spell Immunity|spell immunity]] ([[rangoric-srd/spells/Sleet Storm|sleet storm]]), [[rangoric-srd/spells/Fireball|fireball]], [[rangoric-srd/spells/Wall of Fire|wall of fire]].
 
 Undead Traits: Immune to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death, effects, necromantic effects, mind-affecting effects, and any effect requiring a Fortitude save unless it also works on objects. Not subject to critical hits, subdual damage, ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]]. Negative energy heals. Not at risk of death from massive damage, but destroyed at 0 hit points or less. Darkvision 60 ft. Cannot be raised; resurrection works only if creature is willing.
 

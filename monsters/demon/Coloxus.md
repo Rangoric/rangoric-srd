@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Coloxus
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Demon, Evil, Extraplanar)
-  - **Hit Dice**: 16d10+80 (168 hp)
-  - **Initiative**: +13
-  - **Speed**: 30 ft. (6 squares), fly 60 ft. (good)
-  - **Armor Class**: 26 (+9 Dex, +7 natural), touch 19, flat-footed 17
-  - **Base Attack**: +16; **CMB**: +25; **CMD**: 39
-  - **Attack**: Bite +25 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Siphon|siphon]]) or slam +25 melee (1d4+4)
-  - **Full Attack**: Bite +25 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Siphon|siphon]]) and 2 slams +25 melee (1d4+4)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Droning Wings|Droning wings]], [[rangoric-srd/monsters/abilities/Siphon|siphon]], sneak attack +4d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, disease and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23
-  - **Saves**: Fort +15, Ref +19, Will +9
-  - **Abilities**: Str 19, Dex 28, Con 20, Int 17, Wis 18, Cha 23
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +28, [[rangoric-srd/skills/Appraise|Appraise]] +14, [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Deception|Deception]] +31, [[rangoric-srd/skills/Imitation|Imitation]] +17, [[rangoric-srd/skills/Knowledge|Knowledge]] +14, [[rangoric-srd/skills/Perception|Perception]] +31, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +17, [[rangoric-srd/skills/Society|Society]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +28, [[rangoric-srd/skills/Theology|Theology]] +14
-  - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (invisibility), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
-  - **Environment**: Urban (a chaotic evil-aligned plane: the Abyss)
-  - **Organization**: Solitary, pair, or swarm (3–8)
-  - **Challenge Rating**: 12
-  - **Treasure**: Double
-  - **Alignment**: Usually chaotic evil
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Demon, Evil, Extraplanar)
+- **Hit Dice**: 16d10+80 (168 hp)
+- **Initiative**: +13
+- **Speed**: 30 ft. (6 squares), fly 60 ft. (good)
+- **Armor Class**: 26 (+9 Dex, +7 natural), touch 19, flat-footed 17
+- **Base Attack**: +16; **CMB**: +25; **CMD**: 39
+- **Attack**: Bite +25 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Siphon|siphon]]) or slam +25 melee (1d4+4)
+- **Full Attack**: Bite +25 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Siphon|siphon]]) and 2 slams +25 melee (1d4+4)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Droning Wings|Droning wings]], [[rangoric-srd/monsters/abilities/Siphon|siphon]], sneak attack +4d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, disease and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23
+- **Saves**: Fort +15, Ref +19, Will +9
+- **Abilities**: Str 19, Dex 28, Con 20, Int 17, Wis 18, Cha 23
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +28, [[rangoric-srd/skills/Appraise|Appraise]] +14, [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Deception|Deception]] +31, [[rangoric-srd/skills/Imitation|Imitation]] +17, [[rangoric-srd/skills/Knowledge|Knowledge]] +14, [[rangoric-srd/skills/Perception|Perception]] +31, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +17, [[rangoric-srd/skills/Society|Society]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +28, [[rangoric-srd/skills/Theology|Theology]] +14
+- **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (invisibility), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
+- **Environment**: Urban (a chaotic evil-aligned plane: the Abyss)
+- **Organization**: Solitary, pair, or swarm (3–8)
+- **Challenge Rating**: 12
+- **Treasure**: Double
+- **Alignment**: Usually chaotic evil
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Coloxus demons, known also as fly demons, resemble humans with the head of a fly and twin pairs of gossamer wings. Even their smallest movements and gestures seem infused with manic quickness and alertness. A coloxus prefers to wear opulent clothing and jewels that would rival the wealthiest nobility of any race. A coloxus is 6 feet tall and weighs 150 pounds.
 
@@ -75,7 +75,7 @@ Coloxus speak Abyssal, Celestial, Common and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +18): Constant—*[[rangoric-srd/spells/Tongues|tongues]]*; At will—*[[rangoric-srd/spells/Contagion|contagion]]* (DC 20), *[[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Suggestion|suggestion]]* (DC 19); 3/day—*[[rangoric-srd/spells/Confusion|confusion]]* (DC 20), *[[rangoric-srd/spells/Haste|haste]]*, quickened *[[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Mind Fog|mind fog]]* (DC 21); 1/day—*[[rangoric-srd/spells/Giant Vermin|giant vermin]]*, *[[rangoric-srd/spells/Shadow Evocation|shadow evocation]]* (DC 21).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +18): Constant—_[[rangoric-srd/spells/Tongues|tongues]]_; At will—_[[rangoric-srd/spells/Contagion|contagion]]_ (DC 20), _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 19); 3/day—_[[rangoric-srd/spells/Confusion|confusion]]_ (DC 20), _[[rangoric-srd/spells/Haste|haste]]_, quickened _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Mind Fog|mind fog]]_ (DC 21); 1/day—_[[rangoric-srd/spells/Giant Vermin|giant vermin]]_, _[[rangoric-srd/spells/Shadow Evocation|shadow evocation]]_ (DC 21).
 
 **[[rangoric-srd/monsters/abilities/Droning Wings|Droning Wings]] (Ex)**: Once per day, when it flutters its wings as a standard action, a coloxus can create a mesmerizing display of color and a sound-dampening buzzing drone. All creatures within 30 feet that can see the coloxus must make a DC 24 Will save or be slowed for up to 6 rounds. Each subsequent round, the coloxus must take a swift action to maintain the effect or the effect ceases at the end of its turn. Additionally, the sound creates a buffer against sonic energy, granting the fly demon immunity to sonic attacks or effects while it continues to drone. The save DC is Charisma-based.
 

@@ -32,7 +32,7 @@ Range: Touch
 Target: One item of a volume no greater than 10 cu. ft./level (see text)  
 Duration: Permanent  
 Saving Throw: None  
-Spell Resistance: Yes (object)  
+Spell Resistance: Yes (object)
 
 This spell increases the hardness of materials.  For every two caster levels, increase by 1 the hardness of the material targeted by the spell. This hardness increase improves only the material’s resistance to damage. Nothing else is modified by the improvement.
 

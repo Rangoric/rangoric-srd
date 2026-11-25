@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Amphibious
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “amphibious”, on the Special Qualities line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “amphibious”, on the Special Qualities line.
 
 Creatures with this special quality have the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aquatic|aquatic subtype]], but they can breathe air and survive indefinitely on land.

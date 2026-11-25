@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Rod of Shadows
 
-This ebon rod is so dark it seems to absorb the light around it. The rod functions as a *+2 light mace*, and allows its wielder to see in darkness as if it had the [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]] ability. Three times per day, the wielder can use it to create a *[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]* effect (caster level 8th). To use this ability, the rod's wielder must touch the object affected, which is a standard action that provokes attacks of opportunity.
+This ebon rod is so dark it seems to absorb the light around it. The rod functions as a _+2 light mace_, and allows its wielder to see in darkness as if it had the [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]] ability. Three times per day, the wielder can use it to create a _[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_ effect (caster level 8th). To use this ability, the rod's wielder must touch the object affected, which is a standard action that provokes attacks of opportunity.
 
-Moderate abjuration; CL 8th; [[rangoric-srd/feats/Craft Rod|Craft Rod]], *[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]*, *[[rangoric-srd/spells/True Seeing|true seeing]]*; Price 64,305 gp; Cost 32,305 gp.
+Moderate abjuration; CL 8th; [[rangoric-srd/feats/Craft Rod|Craft Rod]], _[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_, _[[rangoric-srd/spells/True Seeing|true seeing]]_; Price 64,305 gp; Cost 32,305 gp.

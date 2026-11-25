@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Clamping
 
-Weapons imbued with the *clamping* quality can affix themselves to nearly any object, although typically they are clamped to the wielder’s hand. Characters using such weapons cannot be disarmed, nor can they accidentally drop them. A command word must be spoken to release a weapon once clamped.
+Weapons imbued with the _clamping_ quality can affix themselves to nearly any object, although typically they are clamped to the wielder’s hand. Characters using such weapons cannot be disarmed, nor can they accidentally drop them. A command word must be spoken to release a weapon once clamped.
 
-Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Spider Climb|spider climb]]*; Price +1 bonus.
+Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Spider Climb|spider climb]]_; Price +1 bonus.

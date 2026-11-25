@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Healing Blessing
 
-*A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Healing Domain|Healing domain]].*
+_A [[rangoric-srd/classes/Warpriest#^warpriest-blessings|warpriest blessing]], granted by deities that grant the [[rangoric-srd/class-options/domains/Healing Domain|Healing domain]]._
 
 **Powerful Healer (minor)**: At 1st level, you can add power to a cure spell as you cast it. As a swift action, you can treat any cure spell as if it were empowered (as the [[rangoric-srd/feats/Empower Spell|Empower Spell]] feat), causing it to heal 50% more damage (or deal 50% more damage if used against undead). This ability doesn’t stack with itself or the Empower Spell feat.
 

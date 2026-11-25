@@ -37,14 +37,14 @@ tags: [rangoric, rangoric/spell]
 
 # See Invisibility
 
-*Divination*
+_Divination_
 
-  - **Level**: Alc 2, Blr 2, Brd 3, Fhn 2, Fpk 2, Inq 2, Mes 3, Msl 2, Occ 2, Psy 2, Skd 3, Sor/Wiz 2, Spi 2, Sum 2, SumU 2, Wit 2
-  - **Components**: V, S, M
-  - **Casting Time**: 1 standard action
-  - **Range**: Personal
-  - **Target**: You
-  - **Duration**: 10 min./level (D)
+- **Level**: Alc 2, Blr 2, Brd 3, Fhn 2, Fpk 2, Inq 2, Mes 3, Msl 2, Occ 2, Psy 2, Skd 3, Sor/Wiz 2, Spi 2, Sum 2, SumU 2, Wit 2
+- **Components**: V, S, M
+- **Casting Time**: 1 standard action
+- **Range**: Personal
+- **Target**: You
+- **Duration**: 10 min./level (D)
 
 You can see any objects or beings that are [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] within your range of vision, as well as any that are ethereal, as if they were normally visible. Such creatures are visible to you as translucent shapes, allowing you easily to discern the difference between visible, invisible, and ethereal creatures.
 
@@ -52,4 +52,4 @@ The spell does not reveal the method used to obtain invisibility. It does not re
 
 See invisibility can be made permanent with a permanency spell.
 
-*Material Component*: A pinch of talc and a small sprinkling of powdered silver.
+_Material Component_: A pinch of talc and a small sprinkling of powdered silver.

@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Expanded Inspiration
 
-*An [[rangoric-srd/classes/Investigator#^investigator-investigator-talent|investigator talent]] (Ex).*
+_An [[rangoric-srd/classes/Investigator#^investigator-investigator-talent|investigator talent]] (Ex)._
 
 An investigator can use his inspiration ability when attempting [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Investigation|Investigation]], [[rangoric-srd/skills/Medicine|Medicine]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Profession|Profession]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks without expending uses of inspiration, provided he’s trained in the skill.

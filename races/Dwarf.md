@@ -59,17 +59,17 @@ Paragon Class: [[rangoric-srd/classes/Dwarf Paragon|Dwarf Paragon]]
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
 
 | Adulthood | Intuitive | Self-Taught | Trained |
-| --- | --- | --- | --- |
-| 40 years | +3d6 | +5d6 | +7d6 |
+| --------- | --------- | ----------- | ------- |
+| 40 years  | +3d6      | +5d6        | +7d6    |
 
-| Middle Age | Old | Venerable | Maximum Age |
-| --- | --- | --- | --- |
-| 125 years | 188 years | 250 years | +2d% years |
+| Middle Age | Old       | Venerable | Maximum Age |
+| ---------- | --------- | --------- | ----------- |
+| 125 years  | 188 years | 250 years | +2d% years  |
 
 | Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
-| --- | --- | --- | --- | --- |
-| Male | 3 ft. 9 in. | +2d4 | 150 lb. | × (2d6) lb. |
-| Female | 3 ft. 7 in. | +2d4 | 120 lb. | × (2d6) lb. |
+| ------ | ----------- | --------------- | ----------- | --------------- |
+| Male   | 3 ft. 9 in. | +2d4            | 150 lb.     | × (2d6) lb.     |
+| Female | 3 ft. 7 in. | +2d4            | 120 lb.     | × (2d6) lb.     |
 
 ### Description
 
@@ -115,24 +115,24 @@ While it is said that dwarves are not venturesome or inventive, it would be more
 
 A dwarf can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]). Not every dwarf lives close to the surface and trains to fight giants, and not every dwarf comes of age fighting goblins and orcs; dwarves raised facing other foes may have other racial traits.
 
-| Trait | Replaces |
-| --- | --- |
-| [[rangoric-srd/races/racial-traits/Ancient Enmity\|Ancient Enmity]] | Hatred |
-| [[rangoric-srd/races/racial-traits/Deep Warrior\|Deep Warrior]] | Defensive training |
-| [[rangoric-srd/races/racial-traits/Giant Hunter\|Giant Hunter]] | Hatred |
-| [[rangoric-srd/races/racial-traits/Lorekeeper\|Lorekeeper]] | Greed |
-| [[rangoric-srd/races/racial-traits/Magic Resistant\|Magic Resistant]] | Hardy |
-| [[rangoric-srd/races/racial-traits/Minesight\|Minesight]] | Darkvision |
-| [[rangoric-srd/races/racial-traits/Mountaineer (Racial Trait)\|Mountaineer]] | Stability |
-| [[rangoric-srd/races/racial-traits/Relentless\|Relentless]] | Stability |
-| [[rangoric-srd/races/racial-traits/Rock Stepper\|Rock Stepper]] | Stonecunning |
-| [[rangoric-srd/races/racial-traits/Saltbeard\|Saltbeard]] | Defensive training, hatred, and stonecunning |
-| [[rangoric-srd/races/racial-traits/Sky Sentinel\|Sky Sentinel]] | Defensive training, hatred, and stonecunning |
-| [[rangoric-srd/races/racial-traits/Stonesinger\|Stonesinger]] | Stonecunning |
-| [[rangoric-srd/races/racial-traits/Stubborn\|Stubborn]] | Hardy |
-| [[rangoric-srd/races/racial-traits/Surface Survivalist\|Surface Survivalist]] | Darkvision |
-| [[rangoric-srd/races/racial-traits/Wyrmscourged\|Wyrmscourged]] | Defensive training, hatred, and stonecunning |
-| [[rangoric-srd/races/racial-traits/Xenophobic\|Xenophobic]] | The dwarf's normal languages |
+| Trait                                                                         | Replaces                                     |
+| ----------------------------------------------------------------------------- | -------------------------------------------- |
+| [[rangoric-srd/races/racial-traits/Ancient Enmity\|Ancient Enmity]]           | Hatred                                       |
+| [[rangoric-srd/races/racial-traits/Deep Warrior\|Deep Warrior]]               | Defensive training                           |
+| [[rangoric-srd/races/racial-traits/Giant Hunter\|Giant Hunter]]               | Hatred                                       |
+| [[rangoric-srd/races/racial-traits/Lorekeeper\|Lorekeeper]]                   | Greed                                        |
+| [[rangoric-srd/races/racial-traits/Magic Resistant\|Magic Resistant]]         | Hardy                                        |
+| [[rangoric-srd/races/racial-traits/Minesight\|Minesight]]                     | Darkvision                                   |
+| [[rangoric-srd/races/racial-traits/Mountaineer (Racial Trait)\|Mountaineer]]  | Stability                                    |
+| [[rangoric-srd/races/racial-traits/Relentless\|Relentless]]                   | Stability                                    |
+| [[rangoric-srd/races/racial-traits/Rock Stepper\|Rock Stepper]]               | Stonecunning                                 |
+| [[rangoric-srd/races/racial-traits/Saltbeard\|Saltbeard]]                     | Defensive training, hatred, and stonecunning |
+| [[rangoric-srd/races/racial-traits/Sky Sentinel\|Sky Sentinel]]               | Defensive training, hatred, and stonecunning |
+| [[rangoric-srd/races/racial-traits/Stonesinger\|Stonesinger]]                 | Stonecunning                                 |
+| [[rangoric-srd/races/racial-traits/Stubborn\|Stubborn]]                       | Hardy                                        |
+| [[rangoric-srd/races/racial-traits/Surface Survivalist\|Surface Survivalist]] | Darkvision                                   |
+| [[rangoric-srd/races/racial-traits/Wyrmscourged\|Wyrmscourged]]               | Defensive training, hatred, and stonecunning |
+| [[rangoric-srd/races/racial-traits/Xenophobic\|Xenophobic]]                   | The dwarf's normal languages                 |
 
 ### Race Traits
 
@@ -169,9 +169,9 @@ A dwarf gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]]
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
 
-| Archetype | Class |
-| --- | --- |
-| [[rangoric-srd/class-options/archetypes/cleric/Forgemaster (Archetype)\|Forgemaster]] | [[rangoric-srd/classes/Cleric\|Cleric]] |
-| [[rangoric-srd/class-options/archetypes/inquisitor/Exarch (Archetype)\|Exarch]] | [[rangoric-srd/classes/Inquisitor (Class)\|Inquisitor]] |
-| [[rangoric-srd/class-options/archetypes/paladin/Stonelord (Archetype)\|Stonelord]] | [[rangoric-srd/classes/Paladin\|Paladin]] |
-| [[rangoric-srd/class-options/archetypes/fighter/Foehammer (Archetype)\|Foehammer]] | [[rangoric-srd/classes/Fighter\|Fighter]] |
+| Archetype                                                                             | Class                                                   |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| [[rangoric-srd/class-options/archetypes/cleric/Forgemaster (Archetype)\|Forgemaster]] | [[rangoric-srd/classes/Cleric\|Cleric]]                 |
+| [[rangoric-srd/class-options/archetypes/inquisitor/Exarch (Archetype)\|Exarch]]       | [[rangoric-srd/classes/Inquisitor (Class)\|Inquisitor]] |
+| [[rangoric-srd/class-options/archetypes/paladin/Stonelord (Archetype)\|Stonelord]]    | [[rangoric-srd/classes/Paladin\|Paladin]]               |
+| [[rangoric-srd/class-options/archetypes/fighter/Foehammer (Archetype)\|Foehammer]]    | [[rangoric-srd/classes/Fighter\|Fighter]]               |

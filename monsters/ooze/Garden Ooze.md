@@ -39,28 +39,28 @@ tags: [rangoric, rangoric/monster]
 
 # Garden Ooze
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]]
-  - **Hit Dice**: 3d8+6 (19 hp)
-  - **Initiative**: +3
-  - **Speed**: 20 ft. (4 squares), climb 20 ft.
-  - **Armor Class**: 14 (+3 Dex, +1 size), touch 14, flat-footed 11
-  - **Base Attack**: +2; **CMB**: +1; **CMD**: 14 (can't be tripped)
-  - **Attack**: Slam +3 melee (1d4 plus 1d8 acid)
-  - **Full Attack**: Slam +3 melee (1d4 plus 1d8 acid)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Acid (Garden Ooze)|Acid]], [[rangoric-srd/monsters/abilities/Stink|stink]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], [[rangoric-srd/monsters/abilities/Camouflage|camouflage]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to [[rangoric-srd/monsters/abilities/Acid (Garden Ooze)|acid]]
-  - **Saves**: Fort +3, Ref +4, Will –4
-  - **Abilities**: Str 11, Dex 16, Con 15, Int —, Wis 1, Cha 2
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8
-  - **Feats**: —
-  - **Environment**: Temperate forests, marshes, and urban
-  - **Organization**: Solitary, pair, or patch (3–5)
-  - **Challenge Rating**: 2
-  - **Treasure**: None
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|Ooze]]
+- **Hit Dice**: 3d8+6 (19 hp)
+- **Initiative**: +3
+- **Speed**: 20 ft. (4 squares), climb 20 ft.
+- **Armor Class**: 14 (+3 Dex, +1 size), touch 14, flat-footed 11
+- **Base Attack**: +2; **CMB**: +1; **CMD**: 14 (can't be tripped)
+- **Attack**: Slam +3 melee (1d4 plus 1d8 acid)
+- **Full Attack**: Slam +3 melee (1d4 plus 1d8 acid)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Acid (Garden Ooze)|Acid]], [[rangoric-srd/monsters/abilities/Stink|stink]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], [[rangoric-srd/monsters/abilities/Camouflage|camouflage]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to [[rangoric-srd/monsters/abilities/Acid (Garden Ooze)|acid]]
+- **Saves**: Fort +3, Ref +4, Will –4
+- **Abilities**: Str 11, Dex 16, Con 15, Int —, Wis 1, Cha 2
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8
+- **Feats**: —
+- **Environment**: Temperate forests, marshes, and urban
+- **Organization**: Solitary, pair, or patch (3–5)
+- **Challenge Rating**: 2
+- **Treasure**: None
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A garden ooze is an animate, acidic mass of protoplasmic goo that dwells among foliage and scavenges proteins in the form of carrion or small animals that blunder into its vicinity. Although garden oozes are occasionally found in underground regions near the surface—such as sewers, sinkholes, and shallow caves—these oozes prefer the outdoors. One reason for this is that garden oozes are attracted to large collections of organic material where other tiny creatures might come to scavenge.
 

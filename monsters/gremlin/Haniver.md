@@ -40,28 +40,28 @@ tags: [rangoric, rangoric/monster]
 
 # Haniver
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]] (Aquatic)
-  - **Hit Dice**: 1d6+1 (4 hp)
-  - **Initiative**: +5
-  - **Speed**: 10 ft. (2 squares), fly 20 ft. (average), swim 20 ft.
-  - **Armor Class**: 13 (+1 Dex, +2 size), touch 13, flat-footed 12
-  - **Base Attack**: +0; **CMB**: –1; **CMD**: 8
-  - **Attack**: Bite +1 melee (1d3–1)
-  - **Full Attack**: Bite +1 melee (1d3–1)
-  - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Misplacement|Misplacement]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 11
-  - **Saves**: Fort +1, Ref +3, Will +2
-  - **Abilities**: Str 9, Dex 13, Con 12, Int 8, Wis 11, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Engineering|Engineering]] +3, [[rangoric-srd/skills/Imitation|Imitation]] +5, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +13
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
-  - **Environment**: Temperate coasts
-  - **Organization**: Solitary, pair, or swarm (4–12)
-  - **Challenge Rating**: 1/2
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]] (Aquatic)
+- **Hit Dice**: 1d6+1 (4 hp)
+- **Initiative**: +5
+- **Speed**: 10 ft. (2 squares), fly 20 ft. (average), swim 20 ft.
+- **Armor Class**: 13 (+1 Dex, +2 size), touch 13, flat-footed 12
+- **Base Attack**: +0; **CMB**: –1; **CMD**: 8
+- **Attack**: Bite +1 melee (1d3–1)
+- **Full Attack**: Bite +1 melee (1d3–1)
+- **Space/Reach**: 2-1/2 ft./0 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Misplacement|Misplacement]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 11
+- **Saves**: Fort +1, Ref +3, Will +2
+- **Abilities**: Str 9, Dex 13, Con 12, Int 8, Wis 11, Cha 12
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Engineering|Engineering]] +3, [[rangoric-srd/skills/Imitation|Imitation]] +5, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +13
+- **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
+- **Environment**: Temperate coasts
+- **Organization**: Solitary, pair, or swarm (4–12)
+- **Challenge Rating**: 1/2
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 Haniver gremlins haunt the stories of sailors and fishing communities, featuring prominently in parables told to naughty children by disapproving parents. A thousand such tales exist, each a variation on a common theme—the gremlins flap up from the sea, startle nasty fishermen or disobedient youths, and make off with their trinkets. Yet as is rarely the case with such tales, nearly every word of these stories—no matter how unlikely or comic—proves near to the truth.
 

@@ -38,28 +38,28 @@ tags: [rangoric, rangoric/monster]
 
 # Dossenus
 
-  - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 2d8+4 (13 hp)
-  - **Initiative**: +0
-  - **Speed**: 30 ft. (6 squares), burrow 30 ft., climb 30 ft.
-  - **Armor Class**: 12 (+1 natural, +1 size), touch 11, flat-footed 12
-  - **Base Attack**: +1; **CMB**: +1; **CMD**: 11 (15 vs. trip)
-  - **Attack**: Bite +4 melee (1d6+3/19–20)
-  - **Full Attack**: Bite +4 melee (1d6+3/19–20)
-  - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Devastating Maw|Devastating maw]], sneak attack +1d6, [[rangoric-srd/monsters/abilities/Swarming|swarming]]
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Hydrophobia|hydrophobia]], [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
-  - **Saves**: Fort +2, Ref +0, Will +3
-  - **Abilities**: Str 12, Dex 11, Con 14, Int 3, Wis 10, Cha 5
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Perception|Perception]] +5
-  - **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (bite)
-  - **Environment**: Any underground (except water)
-  - **Organization**: Solitary, clutch (2–9), or infestation (10–20)
-  - **Challenge Rating**: 1
-  - **Treasure**: Incidental
-  - **Alignment**: Usually neutral
-  - **Advancement**: —
-  - **Level Adjustment**: —
+- Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+- **Hit Dice**: 2d8+4 (13 hp)
+- **Initiative**: +0
+- **Speed**: 30 ft. (6 squares), burrow 30 ft., climb 30 ft.
+- **Armor Class**: 12 (+1 natural, +1 size), touch 11, flat-footed 12
+- **Base Attack**: +1; **CMB**: +1; **CMD**: 11 (15 vs. trip)
+- **Attack**: Bite +4 melee (1d6+3/19–20)
+- **Full Attack**: Bite +4 melee (1d6+3/19–20)
+- **Space/Reach**: 5 ft./5 ft.
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Devastating Maw|Devastating maw]], sneak attack +1d6, [[rangoric-srd/monsters/abilities/Swarming|swarming]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Hydrophobia|hydrophobia]], [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
+- **Saves**: Fort +2, Ref +0, Will +3
+- **Abilities**: Str 12, Dex 11, Con 14, Int 3, Wis 10, Cha 5
+- **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Perception|Perception]] +5
+- **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (bite)
+- **Environment**: Any underground (except water)
+- **Organization**: Solitary, clutch (2–9), or infestation (10–20)
+- **Challenge Rating**: 1
+- **Treasure**: Incidental
+- **Alignment**: Usually neutral
+- **Advancement**: —
+- **Level Adjustment**: —
 
 A dossenus is a subterranean pack hunter that can digest almost anything. Its body is mostly head and face, dominated by a huge mouth with multiple rows of black, rocklike teeth. Two thin arms and four thin legs extend from its underdeveloped body; its front limbs end in crablike claws it can use to clumsily manipulate objects. A dossenus is just under 4 feet long and weighs 60 pounds.
 
