@@ -67,6 +67,9 @@ Mountain dwarves are the [[rangoric-srd/races/Dwarf#Subtypes|dwarf race]]'s moun
 These dwarves with class levels are described on their own:
 
   - Barbarians: [[rangoric-srd/monsters/dwarf/Dwarven Rager|Dwarven Rager]] (CR 1), [[rangoric-srd/monsters/dwarf/Sundering Axe|Sundering Axe]] (CR 6), [[rangoric-srd/monsters/dwarf/Giant Slayer|Giant Slayer]] (CR 11), [[rangoric-srd/monsters/dwarf/Scarred Wanderer|Scarred Wanderer]] (CR 19)
+  - Bards: [[rangoric-srd/monsters/dwarf/Gambler|Gambler]] (CR 6), [[rangoric-srd/monsters/dwarf/Tunnel Drummer|Tunnel Drummer]] (CR 13)
   - Fighters: [[rangoric-srd/monsters/dwarf/Spell Hunter|Spell Hunter]] (CR 6), [[rangoric-srd/monsters/dwarf/Shieldbreaker (Monster)|Shieldbreaker (Monster)]] (CR 11), [[rangoric-srd/monsters/dwarf/Dwarven Arbalester|Dwarven Arbalester]] (CR 15)
+  - Monks: [[rangoric-srd/monsters/dwarf/Steadfast Defender|Steadfast Defender]] (CR 8), [[rangoric-srd/monsters/dwarf/Improvised Hurler|Improvised Hurler]] (CR 14)
   - Paladins: [[rangoric-srd/monsters/dwarf/Hammer of Justice|Hammer of Justice]] (CR 4), [[rangoric-srd/monsters/dwarf/Forge Rider|Forge Rider]] (CR 11), [[rangoric-srd/monsters/dwarf/Axe Lord|Axe Lord]] (CR 16)
   - Rangers: [[rangoric-srd/monsters/dwarf/Mountaineer (Monster)|Mountaineer (Monster)]] (CR 6), [[rangoric-srd/monsters/dwarf/Golem-Breaker|Golem-Breaker]] (CR 17)
+  - Rogues: [[rangoric-srd/monsters/dwarf/Cave Stalker|Cave Stalker]] (CR 5), [[rangoric-srd/monsters/dwarf/Guildmaster|Guildmaster]] (CR 12)

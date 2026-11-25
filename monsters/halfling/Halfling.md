@@ -102,6 +102,9 @@ Deep halflings are a [[rangoric-srd/races/Halfling#Subtypes|subtype of the halfl
 These halflings with class levels are described on their own:
 
   - Barbarians: [[rangoric-srd/monsters/halfling/Dog Rider|Dog Rider]] (CR 3), [[rangoric-srd/monsters/halfling/Cannibalistic Hunter|Cannibalistic Hunter]] (CR 9)
+  - Bards: [[rangoric-srd/monsters/halfling/Taunting Comedian|Taunting Comedian]] (CR 3), [[rangoric-srd/monsters/halfling/Notorious Foil|Notorious Foil]] (CR 16)
   - Fighters: [[rangoric-srd/monsters/halfling/Murderous Halfling|Murderous Halfling]] (CR 3), [[rangoric-srd/monsters/halfling/Halfling Slinger|Halfling Slinger]] (CR 8), [[rangoric-srd/monsters/halfling/Arcane Pretender|Arcane Pretender]] (CR 13)
+  - Monks: [[rangoric-srd/monsters/halfling/Nimble Shuriken Thrower|Nimble Shuriken Thrower]] (CR 5), [[rangoric-srd/monsters/halfling/Little Fist|Little Fist]] (CR 13)
   - Paladins: [[rangoric-srd/monsters/halfling/Dog Rider Knight|Dog Rider Knight]] (CR 6), [[rangoric-srd/monsters/halfling/Furious Crusader|Furious Crusader]] (CR 17)
   - Rangers: [[rangoric-srd/monsters/halfling/Town Watcher|Town Watcher]] (CR 1), [[rangoric-srd/monsters/halfling/Pirate Queen|Pirate Queen]] (CR 9)
+  - Rogues: [[rangoric-srd/monsters/halfling/Guild Initiate|Guild Initiate]] (CR 4), [[rangoric-srd/monsters/halfling/Dagger Master|Dagger Master]] (CR 17)
