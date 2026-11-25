@@ -64,6 +64,18 @@ views:
       - property: file.name
         direction: ASC
   - type: table
+    name: "Campaign traits"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/traits/campaign-traits")
+    order:
+      - file.name
+      - note.book
+      - note.status
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
     name: "Race traits"
     filters:
       and:
