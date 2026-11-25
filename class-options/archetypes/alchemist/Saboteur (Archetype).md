@@ -29,7 +29,7 @@ This ability replaces [[rangoric-srd/classes/Alchemist#^alchemist-mutagen|mutage
 
 **Saboteur Discoveries**: The following new options may be taken as [[rangoric-srd/classes/Alchemist#^alchemist-discovery|discoveries]] by a saboteur.
 
-*Bore Bomb*\*: When the saboteur creates a bomb, he may choose to make it a bore bomb. If a bore bomb strikes a wall, gate, siege engine, or similar large, solid, inanimate structure, it ignores half the target's hardness and deals 1 point of damage per saboteur level. If a bore bomb reduces an inanimate target to half its hit points or fewer, it blows a hole 5 feet wide and 5 feet deep in the target.
+*Bore Bomb*\*: When the saboteur creates a bomb, he may choose to make it a bore bomb. If a bore bomb strikes a wall, gate, [[rangoric-srd/rules/Siege Engines|siege engine]], or similar large, solid, inanimate structure, it ignores half the target's hardness and deals 1 point of damage per saboteur level. If a bore bomb reduces an inanimate target to half its hit points or fewer, it blows a hole 5 feet wide and 5 feet deep in the target.
 
 *Complex Bomb*: When the saboteur creates a bomb, he can choose to have it modified by two different discoveries that modify a bomb's damage (those discoveries marked with an asterisk). Each discovery modifies half the bomb's damage dice, rounding down. For example, a concussive/frost bomb from a 9th-level saboteur deals 2d4 points of sonic damage + 2d6 points of frost damage. Creating a complex bomb counts as 2 daily uses of the bomb ability.
 

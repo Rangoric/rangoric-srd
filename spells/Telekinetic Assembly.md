@@ -31,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 *Transmutation*
 
   - **Level**: Mag 2, Occ 2, Psy 2, Sor/Wiz 2
-  - **Components**: V, S, F (a miniature of the target siege engine, costing 10 gp)
+  - **Components**: V, S, F (a miniature of the target [[rangoric-srd/rules/Siege Engines|siege engine]], costing 10 gp)
   - **Casting Time**: 1 minute
   - **Range**: Close (25 ft + 5 ft./2 levels)
   - **Target**: One disassembled siege engine

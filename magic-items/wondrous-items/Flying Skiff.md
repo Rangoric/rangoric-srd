@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Flying Skiff
 
-A flying skiff is a long, flat-bottomed vessel covered in metallic veins. Without a psychic pilot, it is in all ways a [[rangoric-srd/equipment/gear/Keelboat|keelboat]]. One Large direct-fire siege engine can be mounted on its front.
+A flying skiff is a long, flat-bottomed vessel covered in metallic veins. Without a psychic pilot, it is in all ways a [[rangoric-srd/equipment/gear/Keelboat|keelboat]]. One Large [[rangoric-srd/rules/Siege Engines#Direct-Fire Ranged Siege Engines|direct-fire siege engine]] can be mounted on its front.
 
 A control helmet that fits a Small, Medium or Large creature is linked by long, curling cables to the skiff's metal veins. Whenever a psychic creature (one with levels in an occult class, the [[rangoric-srd/feats/Psychic Sensitivity|Psychic Sensitivity]] feat or the ability to use psychic spell-like abilities) wears the helmet, the skiff gains these abilities:
 

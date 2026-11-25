@@ -37,7 +37,7 @@ The 3.5 SRD's layout, as copied:
 | `skills`, `feats` | One note per skill and feat |
 | `class-options` | One note per class option (bloodlines, and later rage powers, talents, hexes…), in a folder per kind (added 2026-11-02) |
 | `spells`, `powers` | One note per spell and psionic power, plus the class lists |
-| `equipment`, `magic-items` | Weapons and armor (one note each), gear, materials, herbs (`equipment/herbs`) and alchemical and herbal items (`equipment/alchemical-items`); one note per magic item in type folders |
+| `equipment`, `magic-items` | Weapons and armor (one note each), gear, materials, herbs (`equipment/herbs`) alchemical and herbal items (`equipment/alchemical-items`), and siege engines and their ammunition (`equipment/siege-engines`, rules in `rules/Siege Engines`); one note per magic item in type folders |
 | `monsters` | One note per creature, with group folders (angel, demon, dragon, ghoul…) |
 | `psionics`, `epic`, `divine` | The psionic, epic and divine rules, classes and items |
 | `unearthed-arcana` | Optional and variant rules |

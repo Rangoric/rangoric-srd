@@ -221,6 +221,6 @@ Creating fine or special items falls among the more uncommon activities for an a
 
 Finally, some alchemical activities, methods, and substances have such complexity and scope as to be extraordinarily rare. Some alchemists might perform these deeds only once, if ever, while others take them on with the knowledge that they can become rich if they succeed.
 
-- Among the rarest of activities for alchemists would be large-scale works, using alchemy in the building and repair of siege engines, iron golems, or even buildings and castles themselves.
+- Among the rarest of activities for alchemists would be large-scale works, using alchemy in the building and repair of [[rangoric-srd/rules/Siege Engines|siege engines]], iron golems, or even buildings and castles themselves.
 - Even larger-scale works would be for an alchemist to help build a castle from the start. This would be rewarding for alchemist and client alike, as new methods and enhancements could be custom-designed as needed and incorporated into mortars or infused in stone or metals before and during building. Given a large enough budget, an alchemist could treat city streets to not allow undead to walk upon them, make the mix for mud bricks nearly as strong as solid stone once set, etc.
 - The rarest—and most important—activity for alchemists are the Stonequests, spending all their time cooped up and focused on creating the greater alchana.

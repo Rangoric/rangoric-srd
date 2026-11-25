@@ -24,7 +24,7 @@ Certain events can drive a kaiju into a destructive frenzy. Powerful storms or n
 
 Upon arriving in such a location, the kaiju seeks out the source of whatever enraged it, or if no obvious source is apparent, it simply tramples a path of destruction through whatever city or fortress or locale happens to be in its way. Once a kaiju's rampage begins, it can last for weeks, with the monster periodically retreating between attacks into wildernesses or oceans near the source of the disturbance to rest or recuperate.
 
-Societies that are frequently plagued by kaiju attacks often build special magical siege engines designed to drive off the monster, or even seek to recruit the aid of other kaiju to battle the intruder. Unfortunately, the collateral damage caused by multiple kaiju is significant, and fighting fire with fire in this way may leave behind nothing but rubble.
+Societies that are frequently plagued by kaiju attacks often build special magical [[rangoric-srd/rules/Siege Engines|siege engines]] designed to drive off the monster, or even seek to recruit the aid of other kaiju to battle the intruder. Unfortunately, the collateral damage caused by multiple kaiju is significant, and fighting fire with fire in this way may leave behind nothing but rubble.
 
 All kaiju are Colossal, and have a space and reach of no less than 50 feet each. A bipedal kaiju typically stands between 100 and 200 feet in height; quadrupedal kaiju are half as tall. A kaiju's size makes a battle against one challenging to run. At the scale needed to track tactical movement for Medium creatures, a kaiju takes up a massive amount of space. When designing an encounter with a kaiju, plan ahead and prepare a larger area so that you can track the kaiju's movement effectively.
 

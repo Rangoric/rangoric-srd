@@ -1,0 +1,110 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/equipment/siege-engines")
+views:
+  - type: table
+    name: "All siege engines and ammunition"
+    order:
+      - file.name
+      - note.category
+      - note.size
+      - note.price
+    sort:
+      - property: note.category
+        direction: ASC
+      - property: note.price-gp
+        direction: ASC
+  - type: table
+    name: "Direct-fire engines"
+    filters:
+      and:
+        - note.category == "Direct-Fire"
+    order:
+      - file.name
+      - note.size
+      - note.price
+      - note.damage
+      - note.critical
+      - note.range
+      - note.damage-type
+      - note.crew
+      - note.aim
+      - note.load
+      - note.speed
+      - note.misfire
+      - note.hardness
+      - note.hp
+    sort:
+      - property: note.price-gp
+        direction: ASC
+  - type: table
+    name: "Indirect-fire engines"
+    filters:
+      and:
+        - note.category == "Indirect-Fire"
+    order:
+      - file.name
+      - note.size
+      - note.price
+      - note.damage
+      - note.critical
+      - note.range
+      - note.damage-type
+      - note.crew
+      - note.aim
+      - note.load
+      - note.speed
+      - note.targeting-dc
+      - note.misfire
+      - note.hardness
+      - note.hp
+    sort:
+      - property: note.price-gp
+        direction: ASC
+  - type: table
+    name: "Close assault engines"
+    filters:
+      and:
+        - note.category == "Close Assault"
+    order:
+      - file.name
+      - note.size
+      - note.price
+      - note.damage
+      - note.critical
+      - note.damage-type
+      - note.crew
+      - note.speed
+      - note.hardness
+      - note.hp
+    sort:
+      - property: note.price-gp
+        direction: ASC
+  - type: table
+    name: "Ammunition"
+    filters:
+      and:
+        - note.category == "Ammunition"
+    order:
+      - file.name
+      - note.price
+      - note.weight
+      - note.used-with
+    sort:
+      - property: note.price-gp
+        direction: ASC
+  - type: table
+    name: "Siege firearms"
+    filters:
+      and:
+        - note.firearm == "siege"
+    order:
+      - file.name
+      - note.size
+      - note.price
+      - note.damage
+      - note.range
+      - note.misfire
+    sort:
+      - property: note.price-gp
+        direction: ASC

@@ -25,7 +25,7 @@ tags: [rangoric, rangoric/class-option]
 
 While most gunslingers have favorite firearms, there are those rare ones who choose to specialize in one-handed firearms exclusively. These gunslingers are called pistoleros. While they lack the flexibility of being able to pick up any kind of firearm and use it with reasonable proficiency, they are crackerjack shots with pistols and similar firearms. Their skill and aim with these firearms at close range is second to none, and they rarely misfire with these weapons.
 
-**Weapon Proficiency**: Instead of proficiency with all [[rangoric-srd/equipment/Firearms|firearms]], a pistolero only gains proficiency with one-handed firearms. She must take [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (firearm) to gain proficiency with two-handed firearms and firearm siege engines.
+**Weapon Proficiency**: Instead of proficiency with all [[rangoric-srd/equipment/Firearms|firearms]], a pistolero only gains proficiency with one-handed firearms. She must take [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (firearm) to gain proficiency with two-handed firearms and firearm [[rangoric-srd/rules/Siege Engines|siege engines]].
 
 **Gunsmith**: A pistolero must take a [[rangoric-srd/equipment/weapons/Pistol|pistol]] when she chooses a battered firearm at 1st level (her [[rangoric-srd/classes/Gunslinger#^gunslinger-gunsmith|gunsmith]]).
 

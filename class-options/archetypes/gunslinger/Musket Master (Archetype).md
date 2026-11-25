@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/class-option]
 
 Pistols and other one-handed firearms are often easy to conceal and faster to load than other firearms, and do sufficient damage for most situations. But some gunslingers want a little more firepower and range. These are the musket masters; the best of these gunslingers can reload a musket with dazzling speed, potentially putting even their pistol-wielding brethren to shame.
 
-**Weapon Proficiency**: Instead of proficiency with all [[rangoric-srd/equipment/Firearms|firearms]], a musket master only gains proficiency with two-handed firearms. She must take the [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (firearm) feat to gain proficiency with one-handed firearms and firearm siege engines.
+**Weapon Proficiency**: Instead of proficiency with all [[rangoric-srd/equipment/Firearms|firearms]], a musket master only gains proficiency with two-handed firearms. She must take the [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (firearm) feat to gain proficiency with one-handed firearms and firearm [[rangoric-srd/rules/Siege Engines|siege engines]].
 
 **Gunsmith**: A musket master must take a [[rangoric-srd/equipment/weapons/Musket|musket]] when she chooses a battered firearm at 1st level (her [[rangoric-srd/classes/Gunslinger#^gunslinger-gunsmith|gunsmith]]).
 

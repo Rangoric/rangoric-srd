@@ -36,7 +36,7 @@ tags: [rangoric, rangoric/spell]
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch
-  - **Target**: One siege engine touched
+  - **Target**: One [[rangoric-srd/rules/Siege Engines|siege engine]] touched
   - **Duration**: 1 minute/level
   - **Saving Throw**: Will negates (harmless, object)
   - **Spell Resistance**: Yes (harmless, object)

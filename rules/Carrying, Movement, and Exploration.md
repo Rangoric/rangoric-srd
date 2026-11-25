@@ -322,7 +322,7 @@ Very large objects have separate hit point totals for different sections.
 
 *Energy Attacks*: Acid and sonic attacks deal damage to most objects just as they do to creatures; roll damage and apply it normally after a successful hit. Electricity and fire attacks deal half damage to most objects; divide the damage dealt by 2 before applying the hardness. Cold attacks deal one-quarter damage to most objects; divide the damage dealt by 4 before applying the hardness.
 
-*Ranged Weapon Damage*: Objects take half damage from ranged weapons (unless the weapon is a siege engine or something similar). Divide the damage dealt by 2 before applying the object’s hardness.
+*Ranged Weapon Damage*: Objects take half damage from ranged weapons (unless the weapon is a [[rangoric-srd/rules/Siege Engines|siege engine]] or something similar). Divide the damage dealt by 2 before applying the object’s hardness.
 
 *Ineffective Weapons*: Certain weapons just can’t effectively deal damage to certain objects.
 

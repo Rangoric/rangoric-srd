@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class]
 
 ### Ninja
 
-When the wealthy and the powerful need an enemy eliminated quietly and without fail, they call upon the ninja. When a general needs to sabotage the siege engines of his foes before they can reach the castle walls, he calls upon the ninja. And when fools dare to move against a ninja or her companions, they will find the ninja waiting for them while they sleep, ready to strike. These shadowy killers are masters of infiltration, sabotage, and assassination, using a wide variety of weapons, practiced skills, and mystical powers to achieve their goals.
+When the wealthy and the powerful need an enemy eliminated quietly and without fail, they call upon the ninja. When a general needs to sabotage the [[rangoric-srd/rules/Siege Engines|siege engines]] of his foes before they can reach the castle walls, he calls upon the ninja. And when fools dare to move against a ninja or her companions, they will find the ninja waiting for them while they sleep, ready to strike. These shadowy killers are masters of infiltration, sabotage, and assassination, using a wide variety of weapons, practiced skills, and mystical powers to achieve their goals.
 
 **Role**: The ninja spends almost all of her time honing her skills, practicing her art, or working on her next assignment. Even when not specifically working, the ninja is ever vigilant and ready for the situation to turn deadly. Her line of work earns her many enemies, but it is a list that she frequently reduces through assassination and misdirection. The ninja is an alternate class of the [[rangoric-srd/classes/Rogue|rogue]].
 

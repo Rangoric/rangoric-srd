@@ -16,6 +16,6 @@ Dungeoneering covers buildings, aqueducts, bridges, fortifications, dungeons, ca
 
 **Identifying Creatures**: Dungeoneering identifies aberrations and oozes; see [[rangoric-srd/skills/Identifying Creatures|Identifying Creatures]].
 
-How mechanisms, siege engines and clockwork work is [[rangoric-srd/skills/Engineering|Engineering]], not Dungeoneering.
+How mechanisms, [[rangoric-srd/rules/Siege Engines|siege engines]] and clockwork work is [[rangoric-srd/skills/Engineering|Engineering]], not Dungeoneering.
 
 **Unlocks**: Dungeoneering uses the Knowledge skills’ unlocks (in [[rangoric-srd/skills/Knowledge#Unlocks|Knowledge]]).

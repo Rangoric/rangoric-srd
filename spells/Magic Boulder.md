@@ -26,4 +26,4 @@ tags: [rangoric, rangoric/spell]
   - **Components**: 
   - **Target**: Up to three boulders touched
 
-This spell works like *[[rangoric-srd/spells/Magic Stone|magic stone]]*, except you transmute as many as three boulders (rocks up to two size categories smaller than yourself) to use with the rock throwing ability or as siege engine ammunition. The boulder's damage increases by one step, and the boulder gains a +1 enhancement bonus on attack and damage rolls.
+This spell works like *[[rangoric-srd/spells/Magic Stone|magic stone]]*, except you transmute as many as three boulders (rocks up to two size categories smaller than yourself) to use with the rock throwing ability or as [[rangoric-srd/rules/Siege Engines|siege engine]] ammunition. The boulder's damage increases by one step, and the boulder gains a +1 enhancement bonus on attack and damage rolls.
