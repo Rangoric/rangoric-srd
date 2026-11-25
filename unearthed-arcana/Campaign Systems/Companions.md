@@ -70,7 +70,7 @@ As with feats, you should decide what skills your animal companion learns, chose
 
 Ability score increases are straightforward when it comes to physical ability scores—training an animal to be stronger, more agile, or tougher are all reasonable tasks. Training an animal to be smarter, more intuitive, or more self-aware is less easy to justify—except in the context where people can cast spells and speak with animals.
 
-Because you're responsible for using the [[rangoric-srd/skills/Animal Handling|Animal Handling]] skill to teach your companion its tricks, you decide what tricks the companion learns. If you're not skilled at training animals or lack the time to do it yourself, you can hire an expert trainer to do it for you.
+Because you're responsible for using the [[rangoric-srd/skills/Animal Handling|Animal Handling]] skill to teach your companion its tricks, you decide what tricks the companion learns. If you're not skilled at training animals or lack the time to do it yourself, you can hire an expert trainer to do it for you or use the [[rangoric-srd/unearthed-arcana/Downtime/Downtime|downtime system]] to take care of this training.
 
 ### Cohort
 
@@ -148,7 +148,7 @@ A follower should be more than an acquaintance or an employee. A follower is dev
 
 Choosing followers gives you a network of loyal contacts who trust and respect you. Though they might not have the resources or backbone to fight on your behalf, they're always on the lookout for ways to help you in any way they can. In effect, they are trustworthy NPC contacts (Trust score 4; see Contacts). The city guard might invite you to gamble with the other guards or arrange to have your armor polished. The acolyte might have tips about an upcoming religious festival and the clergy's concerns about a nearby plague. The informant might have news about mysterious disappearances or volunteer to keep an eye on your rival. A thug might bully the truth out of a tight-lipped witness or provide inside information on her employer. The adept might send messages about strange events from the wildlands. The strange child might have precognitive visions, perhaps from budding magical powers.
 
-If you ever lose or dismiss your cohort, selecting a replacement from among your followers not only gives you an excuse to spend some time training that follower to become your new cohort, but rewards the loyalty of all the other followers, as they see that you treat them as near equals.
+If you ever lose or dismiss your cohort, selecting a replacement from among your followers not only gives you an excuse to spend some downtime training that follower to become your new cohort, but rewards the loyalty of all the other followers, as they see that you treat them as near equals.
 
 The GM should use these followers as plot hooks. Instead of having rumors from an unknown source reach your ears from no specific source, a named follower could present that information. Instead of having you hunt for information about a cataclysm prophesied to occur in 3 days, a scholarly follower could find a scroll or book about the prophecy and bring it to you. The desperate stable-boy follower can approach you about money to pay off his father's gambling debts to a crooked bookkeeper. The poor merchant can ask you for help dealing with a charismatic man trying to convince his daughter to become a prostitute. By using a follower for a plot hook, the GM lets the player know that the character can trust the follower's intentions, and keeps the PC's past involvement with that NPC relevant.
 
