@@ -32,7 +32,7 @@ The number of members in a crew assumes Medium creatures. A ram can be crewed by
 
 **Defense and Hit Points**: All siege engines are objects. A siege engine has a Dexterity of 0 (–5 penalty) and a further penalty based on its size. Each type of siege engine has its own hardness and hit points. Siege engines can be armored—treat the siege engine as a creature of its size to determine the cost of the armor. Masterwork siege engine armor can be enchanted for twice the normal cost to enchant armor. Armored siege engines have an armor bonus equal to that normally granted by the specific armor (shields have no effect on a siege engine), a hardness and hit points equal to that of the armor, and bonus hit points equal to the armor bonus × 5.
 
-**Moving Siege Engines**: Siege engines have a speed. The speed of a siege engine is the distance it can be moved if its full crew makes a move action to move it. Some siege engines have a speed of 0. If this is the case, the engine must be dissembled before movement is possible, or else mounted on a vehicle. Siege engines that are atop or mounted on vehicles move with those vehicles.
+**Moving Siege Engines**: Siege engines have a speed. The speed of a siege engine is the distance it can be moved if its full crew makes a move action to move it. Some siege engines have a speed of 0. If this is the case, the engine must be dissembled before movement is possible, or else mounted on a [[rangoric-srd/unearthed-arcana/Vehicles/Vehicles|vehicle]]. Siege engines that are atop or mounted on vehicles move with those vehicles.
 
 **Ranged Attacks**: Unlike normal ranged weapons, siege engines do not deal half damage when attacking objects.
 
