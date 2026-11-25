@@ -323,7 +323,9 @@ def check_headings(rel, body, r, out):
     def same(w, h):
         lvl = len(w) - len(w.lstrip('#'))
         text = w[lvl:].strip()
-        return h[0] == lvl and (h[1] in names if text == '(name)' else h[1] == text)
+        # a "/" or ":" a file name can't hold is "-" there: "Blindness-Deafness" is "# Blindness/Deafness" (NR 6)
+        return h[0] == lvl and ((h[1] in names or h[1].replace('/', '-').replace(':', '-') in names)
+                                if text == '(name)' else h[1] == text)
 
     i = 0
     for w in want:
