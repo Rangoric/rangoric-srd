@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-25 | Every folder has a Note Rules note saying what its notes look like (stubs for now: the README's rules apply) and listing its failing notes, from a new Failing view in its Index base. Class Options and Races get an Index base for it. | [[NR Batch 3 Changes]] | | [[Note Rules]] NR 3 |
 | 2026-11-25 | Arcane Archer names its base attack bonus and saves like the other classes (full, good Fortitude and Reflex, poor Will): the Base Attack Bonus and Saving Throws lines after its Hit Die and the `bab`, `fort`, `ref` and `will` properties replace its list of progressions, and "bad" is "poor". | [[rangoric-srd/prestige-classes/Arcane Archer\|Arcane Archer]] | | [[Fractional BAB and Saves]] |
 | 2026-11-25 | Every note is formatted by Prettier: tables lined up, `_` for emphasis, list markers at the margin. No words change. The Changelog is left as it is. | [[NR Batch 2 Changes]] | | [[Note Rules]] NR 2 |
 | 2026-11-25 | The README gains Note rules, what every note's frontmatter has, and the "Check notes" workflow checks them, each folder's Note Rules note, `sweep: failing` marks and frontmatter as the website reads it. `replaced` is listed as a status. | [[rangoric-srd/README\|README]], [[rangoric-srd/Rangoric SRD#Properties\|Rangoric SRD]], [[NR Batch 1 Changes]] | | [[Note Rules]] NR 1 |
