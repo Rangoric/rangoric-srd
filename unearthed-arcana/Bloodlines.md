@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/overview]
 [[#Troll|Troll]]  
 [[#Vampire|Vampire]]  
 
-[Random Bloodline Determination](%0A#random-bloodline-determination)  
+[[#Random Bloodline Determination]]  
 [[#Creating Other Bloodlines|Creating other Bloodlines]]  
 
 Every so often, an individual is born who stands out a little from the rest of his people. This individual displays characteristics associated with a different kind of creature, such as a dragon, giant, celestial, or demon. Such a character is said to have a bloodline.
@@ -477,7 +477,7 @@ Some arctic tribes have managed to bargain with nearby [[rangoric-srd/monsters/c
 
 ### Elemental, Air
 
-Similar to but less specific than a [djinni bloodline](%0A#djinni) (see below), the air elemental bloodline derives its power from a connection to the [[rangoric-srd/rules/Planes|Elemental Plane of Air]]. Characters with air elemental bloodlines tend to shift between emotions with surprising quickness, and may have hair or skin tinged with light blue.
+Similar to but less specific than a [[#Genie, Djinni|djinni bloodline]] (see below), the air elemental bloodline derives its power from a connection to the [[rangoric-srd/rules/Planes|Elemental Plane of Air]]. Characters with air elemental bloodlines tend to shift between emotions with surprising quickness, and may have hair or skin tinged with light blue.
 
 **Air Elemental Bloodline Traits**
 

@@ -58,7 +58,7 @@ The caster level for a standard potion is the minimum caster level needed to cas
 | 35    | —      | —     | [[rangoric-srd/spells/Sanctuary\|Sanctuary (potion)]]                                        | 50 gp        |
 | 36–38 | —      | —     | [[rangoric-srd/spells/Shield of Faith\|Shield of faith +2 (potion)]]                         | 50 gp        |
 | 39    | —      | —     | [[rangoric-srd/spells/Shillelagh\|Shillelagh (oil)]]                                         | 50 gp        |
-| 40–41 | 01–02  | —     | [Bless weapon (oil)](spellsAtoB.htlm#blass-weapon)                                             | 100 gp       |
+| 40–41 | 01–02  | —     | [[rangoric-srd/spells/Bless Weapon\|Bless weapon (oil)]]                                      | 100 gp       |
 | 42–44 | 03–04  | —     | [[rangoric-srd/spells/Enlarge Person\|Enlarge person (potion)]]                              | 250 gp       |
 | 45    | 05     | —     | [[rangoric-srd/spells/Reduce Person\|Reduce person (potion)]]                                | 250 gp       |
 | 46–47 | 06     | —     | [[rangoric-srd/spells/Aid\|Aid (potion)]]                                                    | 300 gp       |
@@ -83,7 +83,7 @@ The caster level for a standard potion is the minimum caster level needed to cas
 | 94–96 | 45–46  | —     | [[rangoric-srd/spells/Resist Energy\|Resist energy (type) 10 (potion)]]                      | 300 gp       |
 | 97    | 47–48  | 14    | [[rangoric-srd/spells/Shield of Faith\|Shield of faith +3 (potion)]]                         | 300 gp       |
 | 98–99 | 49     | —     | [[rangoric-srd/spells/Spider Climb\|Spider climb (potion)]]                                  | 300 gp       |
-| 100   | 50     | 15    | [Undetectable alignment (potion)](spells#TtoZ.html#undetectable-alignment)                     | 300 gp       |
+| 100   | 50     | 15    | [[rangoric-srd/spells/Undetectable Alignment\|Undetectable alignment (potion)]]              | 300 gp       |
 | —     | 51     | 16    | [[rangoric-srd/spells/Barkskin\|Barkskin +3 (potion)]]                                       | 600 gp       |
 | —     | 52     | 17–18 | [[rangoric-srd/spells/Shield of Faith\|Shield of faith +4 (potion)]]                         | 600 gp       |
 | —     | 53–55  | 19–20 | [[rangoric-srd/spells/Resist Energy\|Resist energy (type) 20 (potion)]]                      | 700 gp       |

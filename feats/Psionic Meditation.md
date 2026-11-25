@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 You can focus your mind faster than normal, even under duress.  
 
-Prerequisite: Wis 13, [[rangoric-srd/skills/Concentration|Concentration]] 7 ranks.
+Prerequisite: Wis 13, Concentration 7 ranks.
 
 Benefit: You can take a move action to become psionically focused.
 

@@ -17,10 +17,10 @@ tags: [rangoric, rangoric/trait]
 
 You have some distinctive physical feature such as a scar, a prominent nose, a limp, or some similar characteristic that is hard to disguise or conceal.
 
-**Benefit:** You gain a +1 bonus on Reputation checks (see [[rangoric-srd/unearthed-arcana/Reputation|Reputation]]).
+**Benefit:** You gain a +1 bonus on Reputation checks (see Reputation).
 
 **Drawback:** You take a -1 penalty on [[rangoric-srd/skills/Imitation|Imitation]] checks.
 
-**Special:** This trait is available only if your campaign includes the [[rangoric-srd/unearthed-arcana/Reputation|Reputation variant]].
+**Special:** This trait is available only if your campaign includes the Reputation variant.
 
 **Roleplaying Ideas:** Characters with this trait might be sensitive about it, or they might play up its presence to gather attention, sympathy, or notoriety.
