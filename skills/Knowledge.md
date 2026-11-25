@@ -5,7 +5,6 @@ key-ability: "Int"
 based-on:
   - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Knowledge|Knowledge (3.5)]]"
-  - "[[fantasy srd 3.5/skills/Spellcraft|Spellcraft (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
 status: draft
 change: modified
@@ -24,7 +23,7 @@ These rules apply to every Knowledge skill.
 
 **Check**: Answering a question within your field of study has a DC of 10 (for really easy questions), 15 (for basic questions), or 20 to 30 (for really tough questions).
 
-You can also use a Knowledge skill to identify creatures (see [[rangoric-srd/skills/Identifying Creatures|Identifying Creatures]]) and, with a Magic skill, magic (see [[rangoric-srd/skills/Identifying Magic|Identifying Magic]]).
+You can also use a Knowledge skill to identify creatures (see [[rangoric-srd/skills/Identifying Creatures|Identifying Creatures]]). Identifying spells, powers and magic items is [[rangoric-srd/skills/Mysticism|Mysticism]].
 
 **Action**: Usually none. In most cases, making a Knowledge skill check doesn’t take an action—you simply know the answer or you don’t.
 

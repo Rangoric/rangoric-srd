@@ -26,6 +26,7 @@ tags: [rangoric, rangoric/overview]
 |  |  |  | [[rangoric-srd/skills/Linguistics\|Linguistics]] |  |  |
 |  |  |  | [[rangoric-srd/skills/Lore\|Lore]] |  |  |
 |  |  |  | [[rangoric-srd/skills/Medicine\|Medicine]] |  |  |
+|  |  |  | [[rangoric-srd/skills/Mysticism\|Mysticism]] |  |  |
 |  |  |  | [[rangoric-srd/skills/Nature\|Nature]] |  |  |
 |  |  |  | [[rangoric-srd/skills/Psionics (Skill)\|Psionics]] |  |  |
 |  |  |  | [[rangoric-srd/skills/Psychic (Skill)\|Psychic]] |  |  |
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/overview]
 |  |  |  | [[rangoric-srd/skills/Tactics\|Tactics]] |  |  |
 |  |  |  | [[rangoric-srd/skills/Theology\|Theology]] |  |  |
 
-Psionics is the [[rangoric-srd/psionics/Psionic Skills|psionic skill]]. Concentration is a check now, not a skill; see [[rangoric-srd/spells/Magic Overview#Concentration|Concentration]].
+Psionics and [[rangoric-srd/skills/Mysticism|Mysticism]] are the [[rangoric-srd/psionics/Psionic Skills|psionic skills]]. Concentration is a check now, not a skill; see [[rangoric-srd/spells/Magic Overview#Concentration|Concentration]].
 
 ## Core and Background
 
@@ -56,6 +57,7 @@ Every skill is a Core skill or a Background skill; its tag (*core* or *backgroun
 | [[rangoric-srd/skills/Investigation\|Investigation]] |  |
 | [[rangoric-srd/skills/Medicine\|Medicine]] |  |
 | [[rangoric-srd/skills/Meditation\|Meditation]] |  |
+| [[rangoric-srd/skills/Mysticism\|Mysticism]] |  |
 | [[rangoric-srd/skills/Nature\|Nature]] |  |
 | [[rangoric-srd/skills/Perception\|Perception]] |  |
 | [[rangoric-srd/skills/Persuasion\|Persuasion]] |  |
@@ -97,7 +99,8 @@ Every skill is a Core skill or a Background skill; its tag (*core* or *backgroun
 [[rangoric-srd/skills/Lore|Lore]]
 
 [[rangoric-srd/skills/Medicine|Medicine]]  
-[[rangoric-srd/skills/Meditation|Meditation]]
+[[rangoric-srd/skills/Meditation|Meditation]]  
+[[rangoric-srd/skills/Mysticism|Mysticism]]
 
 [[rangoric-srd/skills/Nature|Nature]]
 
@@ -137,6 +140,7 @@ Every skill is a Core skill or a Background skill; its tag (*core* or *backgroun
   - [[rangoric-srd/skills/Lore|Lore]]
   - [[rangoric-srd/skills/Medicine|Medicine]]
   - [[rangoric-srd/skills/Meditation|Meditation]]
+  - [[rangoric-srd/skills/Mysticism|Mysticism]]
   - [[rangoric-srd/skills/Nature|Nature]]
   - [[rangoric-srd/skills/Perception|Perception]]
   - [[rangoric-srd/skills/Performance|Performance]]

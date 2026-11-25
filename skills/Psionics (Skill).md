@@ -4,21 +4,18 @@ section: "Skills"
 key-ability: "Int"
 based-on:
   - "[[fantasy srd 3.5/skills/Knowledge (Psionics)|Knowledge (Psionics) (3.5)]]"
-  - "[[fantasy srd 3.5/skills/Psicraft|Psicraft (3.5)]]"
 status: draft
 change: new
 pi-review: 2026-10-30
-tags: [rangoric, rangoric/skill, core, knowledge, magic]
+tags: [rangoric, rangoric/skill, core, knowledge]
 ---
 
 # Psionics
 
-Psionics covers ancient mysteries, psionic traditions, psychic symbols, cryptic phrases, astral constructs, and psionic races. It is a [[rangoric-srd/skills/Knowledge|Knowledge skill]], so its checks work as described there. It took in Psicraft.
+Psionics covers ancient mysteries, psionic traditions, psychic symbols, cryptic phrases, astral constructs, and psionic races. It is a [[rangoric-srd/skills/Knowledge|Knowledge skill]], so its checks work as described there.
 
 **Identifying Creatures**: Psionics identifies psionic monsters and their special powers or vulnerabilities; see [[rangoric-srd/skills/Identifying Creatures|Identifying Creatures]].
 
-**Magic Skill**: Psionics is the [[rangoric-srd/skills/Identifying Magic|Magic skill]] for psionic powers: those of psions, psychic warriors and wilders (psychic spells use [[rangoric-srd/skills/Psychic (Skill)|Psychic]]). Identifying powers as they are manifested, or powers already in place, is in [[rangoric-srd/skills/Identifying Magic#Psionic Powers|Identifying Magic]].
+**Identifying Magic**: Identifying a psionic power or effect is a [[rangoric-srd/skills/Mysticism|Mysticism]] check (see [[rangoric-srd/skills/Mysticism#Psionic Powers|Psionic Powers]]); Psionics is what you know about psionics and its traditions.
 
-**Special**: A [[rangoric-srd/psionics/Psion#Psionic Disciplines|psion]] is better at Psionics checks involving his discipline; see the psion.
-
-**Unlocks**: Psionics uses the Knowledge skills’ unlocks (in [[rangoric-srd/skills/Knowledge#Unlocks|Knowledge]]) and the Magic skills’ unlocks (in [[rangoric-srd/skills/Identifying Magic#Unlocks|Identifying Magic]]).
+**Unlocks**: Psionics uses the Knowledge skills’ unlocks (in [[rangoric-srd/skills/Knowledge#Unlocks|Knowledge]]).
