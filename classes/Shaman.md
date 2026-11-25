@@ -27,9 +27,7 @@ While some heroes speak to gods or consort with otherworldly muses, shamans comm
 
 ###### Class Skills
 
-The shaman’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), and [[rangoric-srd/skills/Theology|Theology]] (Int).
-
-**Magic Skill**: [[rangoric-srd/skills/Theology|Theology]] is the shaman’s [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]], used for the shaman’s Magic skill checks and wherever a rule says “your Magic skill”.
+The shaman’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), and [[rangoric-srd/skills/Theology|Theology]] (Int).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 

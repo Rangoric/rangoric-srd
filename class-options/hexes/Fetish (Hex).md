@@ -17,4 +17,4 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Ex).*
 
-The shaman receives [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]] as a bonus feat and gains a +4 insight bonus on [[rangoric-srd/skills/Identifying Magic|Magic skill]] checks to identify magic items permanently.
+The shaman receives [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]] as a bonus feat and gains a +4 insight bonus on [[rangoric-srd/skills/Mysticism|Mysticism]] checks to identify magic items permanently.

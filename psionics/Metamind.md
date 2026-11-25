@@ -19,7 +19,7 @@ Hit Die: d4.
 
 To qualify to become a metamind, a character must fulfill all the following criteria.  
 
-Skills: [[rangoric-srd/skills/Psionics (Skill)|Psionics]] 5 ranks.
+Skills: [[rangoric-srd/skills/Psionics (Skill)|Psionics]] 5 ranks, [[rangoric-srd/skills/Mysticism|Mysticism]] 1 rank.
 
 Feat: [[rangoric-srd/feats/Psicrystal Affinity|Psicrystal Affinity]].
 
@@ -27,7 +27,7 @@ Psionics: Manifester level 4th.
 
 ###### Class Skills
 
-The metamind’s class skills are [[rangoric-srd/skills/Meditation|Meditation]] (Wis) and [[rangoric-srd/skills/Psionics (Skill)|Psionics]].  
+The metamind’s class skills are [[rangoric-srd/skills/Meditation|Meditation]] (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Psionics (Skill)|Psionics]].  
 
 Skill Points at Each Level: 2 + Int modifier.
 

@@ -27,7 +27,7 @@ To qualify to become a thaumaturgist, a character must fulfill all the following
 
 ###### Class Skills
 
-The thaumaturgist's class skills (and the key ability for each skill) are [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), and [[rangoric-srd/skills/Theology|Theology]] (Int).
+The thaumaturgist's class skills (and the key ability for each skill) are [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), and [[rangoric-srd/skills/Theology|Theology]] (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 

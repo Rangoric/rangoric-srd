@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/class]
 
 To qualify to become an archmage, a character must fulfill all the following criteria.
 
-**Skills**: Arcana 12 ranks.
+**Skills**: Arcana 12 ranks, [[rangoric-srd/skills/Mysticism|Mysticism]] 12 ranks.
 
 **Feats**: Skill Focus (Arcana), Spell Focus in two schools of magic.
 
@@ -29,7 +29,7 @@ To qualify to become an archmage, a character must fulfill all the following cri
 
 ###### Class Skills
 
-The archmage's class skills (and the key ability for each skill) are [[rangoric-srd/skills/Investigation|Investigation]] (Int) and all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int).
+The archmage's class skills (and the key ability for each skill) are [[rangoric-srd/skills/Investigation|Investigation]] (Int), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), and [[rangoric-srd/skills/Mysticism|Mysticism]] (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 

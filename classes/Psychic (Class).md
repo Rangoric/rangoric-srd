@@ -30,9 +30,7 @@ Within the mind of any sentient being lies power to rival that of the greatest m
 
 ###### Class Skills
 
-The psychic’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Craft|Craft]] (Int), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Linguistics|Linguistics]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Profession|Profession]] (Wis), and [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis).
-
-**Magic Skill**: [[rangoric-srd/skills/Psychic (Skill)|Psychic]] is the psychic’s [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]], used for the psychic’s Magic skill checks and wherever a rule says “your Magic skill”.
+The psychic’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Craft|Craft]] (Int), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Linguistics|Linguistics]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Profession|Profession]] (Wis), and [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 

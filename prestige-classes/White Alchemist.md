@@ -39,7 +39,7 @@ To qualify to become a white alchemist, a character must fulfill all the followi
 
 ###### Class Skills
 
-The white alchemist’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), and [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis).
+The white alchemist’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), and [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 

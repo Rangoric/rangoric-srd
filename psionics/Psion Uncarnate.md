@@ -19,7 +19,7 @@ Hit Die: d4.
 
 To qualify to become a psion uncarnate, a character must fulfill all the following criteria.  
 
-Skills: [[rangoric-srd/skills/Psionics (Skill)|Psionics]] 5 ranks.
+Skills: [[rangoric-srd/skills/Psionics (Skill)|Psionics]] 5 ranks, [[rangoric-srd/skills/Mysticism|Mysticism]] 5 ranks.
 
 Feat: [[rangoric-srd/feats/Psionic Body|Psionic Body]].
 
@@ -29,7 +29,7 @@ Special: Must have had some instruction by another psion uncarnate.
 
 ###### Class Skills
 
-The psion uncarnate’s class skills are [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Imitation|Imitation]] (Int), [[rangoric-srd/skills/Meditation|Meditation]] (Wis), [[rangoric-srd/skills/Psionics (Skill)|Psionics]] (Int), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), and [[rangoric-srd/skills/Theology|Theology]] (Int).  
+The psion uncarnate’s class skills are [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Imitation|Imitation]] (Int), [[rangoric-srd/skills/Meditation|Meditation]] (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Psionics (Skill)|Psionics]] (Int), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), and [[rangoric-srd/skills/Theology|Theology]] (Int).  
 Skill Points at Each Level: 2 + Int modifier.  
 
 Table: The Psion Uncarnate     

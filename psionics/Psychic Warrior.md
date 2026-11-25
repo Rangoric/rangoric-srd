@@ -19,9 +19,8 @@ Hit Die: d8.
 
 ###### Class Skills
 
-The psychic warrior’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Meditation|Meditation]]\* (Wis), [[rangoric-srd/skills/Psionics (Skill)|Psionics]]\* (Int), and [[rangoric-srd/skills/Tactics|Tactics]] (Int).  
+The psychic warrior’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Meditation|Meditation]]\* (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Psionics (Skill)|Psionics]]\* (Int), and [[rangoric-srd/skills/Tactics|Tactics]] (Int).  
 
-**Magic Skill**: [[rangoric-srd/skills/Psionics (Skill)|Psionics]] is the psychic warrior’s [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]], used for the psychic warrior’s Magic skill checks and wherever a rule says “your Magic skill”.
 \*New skill or expanded use of existing skill.
 
 Skill Points at Each Level: 2 + Int modifier.

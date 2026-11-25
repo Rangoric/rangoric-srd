@@ -29,9 +29,7 @@ As their powers are influenced by their faith, all clerics must focus their wors
 
 ###### Class Skills
 
-The cleric’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Theology|Theology]] (Int).
-
-**Magic Skill**: [[rangoric-srd/skills/Theology|Theology]] is the cleric’s [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]], used for the cleric’s Magic skill checks and wherever a rule says “your Magic skill”.
+The cleric’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Theology|Theology]] (Int).
 
 **Domains and Class Skills**: A cleric who chooses the [[rangoric-srd/class-options/domains/Animal Domain|Animal]] or [[rangoric-srd/class-options/domains/Plant Domain|Plant]] domain adds [[rangoric-srd/skills/Nature|Nature]] (Int) to the cleric class skills listed above. A cleric who chooses the [[rangoric-srd/class-options/domains/Knowledge Domain|Knowledge]] domain adds all Knowledge skills to the list. A cleric who chooses the [[rangoric-srd/class-options/domains/Travel Domain|Travel]] domain adds [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis) to the list. A cleric who chooses the [[rangoric-srd/class-options/domains/Trickery Domain|Trickery]] domain adds [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Imitation|Imitation]] (Int), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex) to the list. See Deity, Domains, and Domain Spells, below, for more information.
 

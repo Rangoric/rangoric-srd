@@ -39,7 +39,7 @@ To qualify to become a red alchemist, a character must fulfill all the following
 
 ###### Class Skills
 
-The red alchemist’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), and [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis).
+The red alchemist’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), and [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 

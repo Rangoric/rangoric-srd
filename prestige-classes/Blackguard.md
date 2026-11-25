@@ -34,9 +34,7 @@ To qualify to become a blackguard, a character must fulfill all the following cr
 
 ###### Class Skills
 
-The blackguard's class skills (and the key ability for each skill) are [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Stealth|Stealth]] (Dex), [[rangoric-srd/skills/Tactics|Tactics]] (Int), and [[rangoric-srd/skills/Theology|Theology]] (Int).
-
-**Magic Skill**: [[rangoric-srd/skills/Theology|Theology]] is the blackguard’s [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]], used for the blackguard’s Magic skill checks and wherever a rule says “your Magic skill”.
+The blackguard's class skills (and the key ability for each skill) are [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Stealth|Stealth]] (Dex), [[rangoric-srd/skills/Tactics|Tactics]] (Int), and [[rangoric-srd/skills/Theology|Theology]] (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 

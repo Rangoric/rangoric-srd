@@ -32,9 +32,7 @@ The antipaladin is an alternate class of the [[rangoric-srd/classes/Paladin|pala
 
 ###### Class Skills
 
-The antipaladin’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Imitation|Imitation]] (Cha), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Stealth|Stealth]] (Dex), and [[rangoric-srd/skills/Theology|Theology]] (Int).
-
-**Magic Skill**: [[rangoric-srd/skills/Theology|Theology]] is the antipaladin’s [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]], used for the antipaladin’s Magic skill checks and wherever a rule says “your Magic skill”.
+The antipaladin’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Imitation|Imitation]] (Cha), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Stealth|Stealth]] (Dex), and [[rangoric-srd/skills/Theology|Theology]] (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 

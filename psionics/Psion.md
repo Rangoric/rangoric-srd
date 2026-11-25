@@ -18,9 +18,7 @@ Hit Die: d4.
 
 ###### Class Skills
 
-The psion’s class skills (and the key ability for each skill) are all [[rangoric-srd/skills/Knowledge|Knowledge skills]]\* (Int). In addition, a psion gains access to additional class skills based on his discipline:  
-
-**Magic Skill**: [[rangoric-srd/skills/Psionics (Skill)|Psionics]] is the psion’s [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]], used for the psion’s Magic skill checks and wherever a rule says “your Magic skill”.
+The psion’s class skills (and the key ability for each skill) are all [[rangoric-srd/skills/Knowledge|Knowledge skills]]\* (Int) and [[rangoric-srd/skills/Mysticism|Mysticism]] (Int). In addition, a psion gains access to additional class skills based on his discipline:  
 
 Seer (Clairsentience): [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha) and [[rangoric-srd/skills/Perception|Perception]] (Wis).
 

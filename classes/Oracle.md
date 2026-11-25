@@ -28,9 +28,7 @@ Although the gods work through many agents, perhaps none is more mysterious than
 
 ###### Class Skills
 
-The oracle’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Theology|Theology]] (Int). In addition, oracles receive additional class skills depending upon their [[rangoric-srd/class-options/mysteries/Mysteries|oracle mystery]].
-
-**Magic Skill**: [[rangoric-srd/skills/Theology|Theology]] is the oracle’s [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]], used for the oracle’s Magic skill checks and wherever a rule says “your Magic skill”.
+The oracle’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Theology|Theology]] (Int). In addition, oracles receive additional class skills depending upon their [[rangoric-srd/class-options/mysteries/Mysteries|oracle mystery]].
 
 **Skill Points at Each Level**: 4 + Int modifier.
 

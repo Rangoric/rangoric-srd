@@ -21,7 +21,7 @@ At some point in your family's history, one of your ancestors was tainted by the
 
 **Bonus Feats**: [[rangoric-srd/feats/Arcane Armor Mastery|Arcane Armor Mastery]], [[rangoric-srd/feats/Arcane Armor Training|Arcane Armor Training]], [[rangoric-srd/feats/Detect Expertise|Detect Expertise]], [[rangoric-srd/feats/Empower Spell|Empower Spell]], [[rangoric-srd/feats/Armor Proficiency (Light)|Armor Proficiency (Light)]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Imitation or Stealth).
 
-**Bloodline Arcana**: Add half your sorcerer level to the DC of the [[rangoric-srd/skills/Identifying Magic|Magic skill]] checks others make to identify spells you cast. If their checks fail by 5 or more, they mistakenly believe you are casting an entirely different spell (selected by you when you begin casting).
+**Bloodline Arcana**: Add half your sorcerer level to the DC of the [[rangoric-srd/skills/Mysticism|Mysticism]] checks others make to identify spells you cast. If their checks fail by 5 or more, they mistakenly believe you are casting an entirely different spell (selected by you when you begin casting).
 
 ## Bloodline Powers
 

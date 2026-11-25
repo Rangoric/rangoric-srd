@@ -31,7 +31,7 @@ Blood mages practice [[rangoric-srd/rules/blood-magic/Blood Magic|blood magic]].
 
 To qualify to become a blood mage, a character must fulfill all the following criteria.
 
-**Skills**: 5 ranks in a [[rangoric-srd/skills/Identifying Magic|Magic skill]].
+**Skills**: [[rangoric-srd/skills/Mysticism|Mysticism]] 5 ranks.
 
 **Feats**: [[rangoric-srd/feats/Blood Power|Blood Power]], [[rangoric-srd/feats/Toughness|Toughness]].
 
@@ -39,7 +39,7 @@ To qualify to become a blood mage, a character must fulfill all the following cr
 
 ###### Class Skills
 
-The blood mage’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int) and [[rangoric-srd/skills/Medicine|Medicine]] (Int).
+The blood mage’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), and [[rangoric-srd/skills/Mysticism|Mysticism]] (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 

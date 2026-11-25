@@ -33,9 +33,7 @@ Becoming a spiritualist is not a calling—it’s a phenomenon. When a creature 
 
 ###### Class Skills
 
-The spiritualist’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Craft|Craft]] (Int), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Linguistics|Linguistics]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Wis), [[rangoric-srd/skills/Profession|Profession]] (Wis), and [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis).
-
-**Magic Skill**: [[rangoric-srd/skills/Psychic (Skill)|Psychic]] is the spiritualist’s [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]], used for the spiritualist’s Magic skill checks and wherever a rule says “your Magic skill”.
+The spiritualist’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Craft|Craft]] (Int), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Linguistics|Linguistics]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Profession|Profession]] (Wis), and [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 

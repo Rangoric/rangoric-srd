@@ -58,7 +58,7 @@ tags: [rangoric, rangoric/class]
 
 **Hit Die:** d6. The Hit Dice column gives the nymph’s total Hit Dice: she gains her Hit Dice at the levels where the column changes (1d6 at 1st level, 9d6 by 20th).
 
-**Class Skills:** None are given for the racial class, so it has the skills of the monster [[rangoric-srd/monsters/nymph/Nymph|nymph]]: [[rangoric-srd/skills/Animal Handling|Animal Handling]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Escape Artist|Escape Artist]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Sense Motive|Sense Motive]], [[rangoric-srd/skills/Stealth|Stealth]].
+**Class Skills:** None are given for the racial class, so it has the skills of the monster [[rangoric-srd/monsters/nymph/Nymph|nymph]]: [[rangoric-srd/skills/Animal Handling|Animal Handling]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Escape Artist|Escape Artist]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Mysticism|Mysticism]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Sense Motive|Sense Motive]], [[rangoric-srd/skills/Stealth|Stealth]].
 
 **Skill Points at Each Level:** 6 + Int modifier, as the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|fey type]].
 

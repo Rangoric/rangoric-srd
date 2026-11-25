@@ -38,7 +38,7 @@ To qualify to become an arcane archer, a character must fulfill all the followin
 
 ###### Class Skills
 
-The arcane archer’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Perception|Perception]] (Wis), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
+The arcane archer’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 

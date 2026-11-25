@@ -44,7 +44,7 @@ To qualify to become a rune caster, a character must fulfill all the following c
 
 ###### Class Skills
 
-The rune caster’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Lore|Lore]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int).
+The rune caster’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Lore|Lore]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Nature|Nature]] (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 

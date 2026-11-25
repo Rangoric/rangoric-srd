@@ -29,9 +29,7 @@ While many who dabble in the arcane become adept at beckoning monsters from the 
 
 ###### Class Skills
 
-The summoner’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Engineering|Engineering]] (Int), and all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int).
-
-**Magic Skill**: [[rangoric-srd/skills/Arcana|Arcana]] is the summoner’s [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]], used for the summoner’s Magic skill checks and wherever a rule says “your Magic skill”.
+The summoner’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Engineering|Engineering]] (Int), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), and [[rangoric-srd/skills/Mysticism|Mysticism]] (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 

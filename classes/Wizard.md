@@ -28,9 +28,7 @@ Beyond the veil of the mundane hide the secrets of absolute power. The works of 
 
 ###### Class Skills
 
-The wizard’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Engineering|Engineering]] (Int), and all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int).
-
-**Magic Skill**: [[rangoric-srd/skills/Arcana|Arcana]] is the wizard’s [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]], used for the wizard’s Magic skill checks and wherever a rule says “your Magic skill”.
+The wizard’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Engineering|Engineering]] (Int), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), and [[rangoric-srd/skills/Mysticism|Mysticism]] (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 
@@ -119,7 +117,7 @@ A wizard that chooses to specialize in one school of magic must select two other
 
 Each arcane school gives the wizard a number of school powers. In addition, specialist wizards receive an additional spell slot of each spell level she can cast, from 1st on up. Each day, a wizard can prepare a spell from her specialty school in that slot. This spell must be in the wizard's spellbook. A wizard can select a spell modified by a metamagic feat to prepare in her school slot, but it uses up a higher-level spell slot. Wizards with the universalist school do not receive a school slot.
 
-A specialist also gains a +2 bonus on checks to learn the spells of her chosen school (see [[rangoric-srd/spells/Arcane Magic#Adding Spells to a Wizard’s Spellbook|Arcane Magic]]) and on Magic skill checks when dealing with a spell or effect from it, and takes a –5 penalty on Magic skill checks when dealing with a spell or effect from one of her opposition schools.
+A specialist also gains a +2 bonus on checks to learn the spells of her chosen school (see [[rangoric-srd/spells/Arcane Magic#Adding Spells to a Wizard’s Spellbook|Arcane Magic]]) and on Mysticism checks when dealing with a spell or effect from it, and takes a –5 penalty on Mysticism checks when dealing with a spell or effect from one of her opposition schools.
 
 The eight schools of arcane magic are abjuration, conjuration, divination, enchantment, evocation, illusion, necromancy, and transmutation. Spells that do not fall into any of these schools are called universal spells; universal is not a school, so it can be neither a specialty nor an opposition school.
 

@@ -29,7 +29,7 @@ Psionics: Must have a power point reserve of at least 1 power point.
 
 ###### Class Skills
 
-The psionic slayer’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Psionics (Skill)|Psionics]] (Int), and [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis).  
+The psionic slayer’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Psionics (Skill)|Psionics]] (Int), and [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis).  
 
 Skill Points at Each Level: 4 + Int modifier.
 

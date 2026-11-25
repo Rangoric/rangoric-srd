@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/class-option]
 
 *An [[rangoric-srd/classes/Investigator#^investigator-investigator-talent|investigator talent]] (Ex).*
 
-An investigator can use [[rangoric-srd/skills/Arcana|Arcana]] to [[rangoric-srd/skills/Identifying Magic|identify the properties and command words of magic items]] without the use of *[[rangoric-srd/spells/Detect Magic|detect magic]]* or similar spells. An investigator must be at least 7th level to take this talent.
+An investigator can use [[rangoric-srd/skills/Mysticism|Mysticism]] to [[rangoric-srd/skills/Mysticism#Advanced Uses|identify the properties and command words of magic items]] without the use of *[[rangoric-srd/spells/Detect Magic|detect magic]]* or similar spells. An investigator must be at least 7th level to take this talent.

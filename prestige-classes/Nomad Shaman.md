@@ -35,7 +35,7 @@ To qualify to become a nomad shaman, a character must fulfill all the following 
 
 ###### Class Skills
 
-The nomad shaman’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Craft|Craft]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), and [[rangoric-srd/skills/Profession|Profession]] (Wis).
+The nomad shaman’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Craft|Craft]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), and [[rangoric-srd/skills/Profession|Profession]] (Wis).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 
@@ -68,7 +68,7 @@ All of the following are class features of the nomad shaman prestige class.
 
 **Illuminated Familiar (Su)**: At 5th level, a nomad shaman's [[rangoric-srd/classes/Wizard#^familiar-basics|familiar]] gains 2 extra hit points per Hit Die and can cast 0-level spells from its master's list a number of times per day equal to her nomad shaman level. It knows a number of them equal to its Intelligence modifier (minimum 1). ^nomad-shaman-illuminated-familiar
 
-**Words of Wisdom (Ex)**: At 7th level, a nomad shaman can take 10 on any [[rangoric-srd/skills/Society|Society]] check or [[rangoric-srd/skills/Identifying Magic|Magic skill]] check. ^nomad-shaman-words-of-wisdom
+**Words of Wisdom (Ex)**: At 7th level, a nomad shaman can take 10 on any [[rangoric-srd/skills/Society|Society]] check or [[rangoric-srd/skills/Mysticism|Mysticism]] check. ^nomad-shaman-words-of-wisdom
 
 **Craft of the Ancients (Su)**: At 9th level, by giving up a prepared spell or unused spell slot of any level and taking a full-round action, a nomad shaman gains 7 ranks for 1 round in a skill in which she has no ranks. ^nomad-shaman-craft-of-the-ancients
 
