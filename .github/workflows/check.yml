@@ -1,6 +1,7 @@
 name: Check notes
 
-# Frontmatter loads as strict YAML (the website's build needs it) and links into the SRD have a target.
+# Frontmatter loads as strict YAML and as the website reads it, links into the SRD have a target, and notes meet
+# the written note rules (the README's "Note rules" and each folder's Note Rules note; see check_notes.py).
 # On a pull request, link problems fail only in the notes it changes; the rest show as warnings.
 on:
   pull_request:
@@ -30,4 +31,18 @@ jobs:
             git diff --name-only "${{ github.event.before }}" HEAD > "$RUNNER_TEMP/changed.txt" 2>/dev/null || : > "$RUNNER_TEMP/changed.txt"
           fi
           cat "$RUNNER_TEMP/changed.txt"
-      - run: python3 .github/scripts/check_notes.py . --changed "$RUNNER_TEMP/changed.txt"
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            git diff --name-only --diff-filter=A "origin/${{ github.base_ref }}...HEAD" > "$RUNNER_TEMP/added.txt"
+          else
+            : > "$RUNNER_TEMP/added.txt"
+          fi
+      - run: python3 .github/scripts/check_notes.py . --changed "$RUNNER_TEMP/changed.txt" --added "$RUNNER_TEMP/added.txt"
+      - uses: actions/setup-node@v5
+        with:
+          node-version: "22"
+      - name: Frontmatter as the website reads it
+        if: ${{ !cancelled() }}
+        # the versions in rangoric-srd-website's package-lock.json; keep them matching
+        run: |
+          npm install --prefix "$RUNNER_TEMP/fm" --no-save --no-package-lock --silent gray-matter@4.0.3 js-yaml@4.3.2
+          NODE_PATH="$RUNNER_TEMP/fm/node_modules" node .github/scripts/check_frontmatter.cjs .
