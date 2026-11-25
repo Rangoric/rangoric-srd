@@ -21,3 +21,16 @@ Spiders are eight-legged hunters and web-spinners. The giant ones are [[rangoric
   - [[rangoric-srd/monsters/spider/Ogre Spider|Ogre Spider]]
   - [[rangoric-srd/monsters/spider/Scarlet Spider|Scarlet Spider]]
   - [[rangoric-srd/monsters/spider/Spider Swarm|Spider Swarm]]
+
+**Species**
+
+Other species of giant spiders exist, as detailed below. The giant spider itself is the [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Medium|Medium monstrous spider]].
+
+| Species           | CR  | Size       | HD   |
+|-------------------|-----|------------|------|
+| [[rangoric-srd/monsters/spider/Scarlet Spider\|Scarlet spider]] | 1/4 | Tiny       | 1d8  |
+| [[rangoric-srd/monsters/spider/Giant Crab Spider\|Giant crab spider]] | 1/2 | Small      | 2d8  |
+| [[rangoric-srd/monsters/spider/Giant Black Widow\|Giant black widow]] | 3   | Large      | 5d8  |
+| [[rangoric-srd/monsters/spider/Ogre Spider\|Ogre spider]] | 5   | Huge       | 7d8  |
+| [[rangoric-srd/monsters/spider/Giant Tarantula\|Giant tarantula]] | 8   | Gargantuan | 10d8 |
+| [[rangoric-srd/monsters/spider/Goliath Spider\|Goliath spider]] | 11  | Colossal   | 14d8 |

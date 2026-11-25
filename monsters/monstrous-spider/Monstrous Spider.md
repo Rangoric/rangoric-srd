@@ -31,7 +31,7 @@ and secondary damage.
 | ---------- | ------- | ------- |
 | Tiny       | 10      | 1d2 Str |
 | Small      | 10      | 1d3 Str |
-| Medium     | 12      | 1d4 Str |
+| Medium     | see [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Medium\|Medium]] | — |
 | Large      | 13      | 1d6 Str |
 | Huge       | 16      | 1d8 Str |
 | Gargantuan | 20      | 2d6 Str |
@@ -51,7 +51,7 @@ A monstrous spider can move across its own web at its climb speed and can pinpoi
 | ---------- | ---------------- | -------- | ---------- |
 | Tiny       | 10               | 14       | 2          |
 | Small      | 10               | 14       | 4          |
-| Medium     | 12               | 16       | 6          |
+| Medium     | see [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Medium\|Medium]] | — | — |
 | Large      | 13               | 17       | 12         |
 | Huge       | 16               | 20       | 14         |
 | Gargantuan | 20               | 24       | 16         |

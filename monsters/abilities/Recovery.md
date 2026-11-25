@@ -1,0 +1,19 @@
+---
+srd-type: "monster-ability"
+section: "Monsters"
+ability-type: ["Ex"]
+kind: ["defense"]
+book: "Bestiary 4"
+based-on:
+  - "[[path srd 3.5/rules/bestiary-4/Kaiju Subtype|Kaiju Subtype (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-24
+tags: [rangoric, rangoric/monster-ability]
+---
+
+# Recovery
+
+*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “recovery”, on the Special Qualities line.
+
+Whenever a kaiju fails a saving throw against any mind-affecting, paralysis, petrification, polymorph, or immobilizing effect (including *[[rangoric-srd/spells/Binding|binding]]* and *[[rangoric-srd/spells/Temporal Stasis|temporal stasis]]* but not including *[[rangoric-srd/spells/Imprisonment|imprisonment]]*), it can attempt a new saving throw at the end of its turn to remove the effect. Doing so takes no action. A kaiju can attempt a new save to end the effect as often as it wishes, but can attempt to remove only one such effect per round. Once per year, if a kaiju takes an amount of damage that would normally kill it by reducing its hit points to a negative amount equal to its Constitution score, the damage instead heals the kaiju of twice the amount of damage—but this healing leaves the kaiju disoriented and demoralized. At this point, the creature becomes [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] and seeks only to return to its lair. Any amount of damage dealt to it by an external source before it reaches its lair, though, immediately negates the nauseated effect and allows the kaiju to end its retreat and attack. Creatures with the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^kaiju|kaiju subtype]] have it.

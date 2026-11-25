@@ -13,6 +13,7 @@ tags: [rangoric, rangoric/overview]
 
 ## Kobold - Lycanthrope
 
+  - [[rangoric-srd/monsters/kaiju/Kaiju|Kaiju]]
   - [[rangoric-srd/monsters/Kamadan|Kamadan]]
   - [[rangoric-srd/monsters/kamis/Kami|Kami]]
   - [[rangoric-srd/monsters/Kangaroo|Kangaroo]]
