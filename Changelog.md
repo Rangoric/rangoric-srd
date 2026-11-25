@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-25 | Class Options has written note rules: what a class option note's properties and heading are, and an overview's. | [[rangoric-srd/class-options/Class Options Note Rules\|Class Options Note Rules]], [[NR Batch 7 Changes]] | | [[Note Rules]] NR 7 |
 | 2026-11-25 | Spells has written note rules: what a spell note's properties and heading are, and an overview's. | [[rangoric-srd/spells/Spells Note Rules\|Spells Note Rules]], [[NR Batch 6 Changes]] | | [[Note Rules]] NR 6 |
 | 2026-11-25 | Feats has written note rules: what a feat note's properties and heading are, and an overview's. | [[rangoric-srd/feats/Feats Note Rules\|Feats Note Rules]], [[NR Batch 5 Changes]] | | [[Note Rules]] NR 5 |
 | 2026-11-25 | Actions has written note rules: what an action note's properties and heading are, and an overview's. | [[rangoric-srd/actions/Actions Note Rules\|Actions Note Rules]], [[NR Batch 4 Changes]] | | [[Note Rules]] NR 4 |
