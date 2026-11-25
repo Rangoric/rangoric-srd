@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d6"
+bab: weak
+fort: poor
+ref: poor
+will: good
 skill-points: "4 + Int modifier"
 based-on:
   - "[[fantasy srd 3.5/prestige-classes/Loremaster|Loremaster (3.5)]]"
@@ -26,6 +30,10 @@ The loremaster class holds little appeal for non-spellcasters—indeed, before o
 
 **Hit Die**: d6.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
+
 ###### Requirements
 
 To qualify to become a loremaster, a character must fulfill all the following criteria.
@@ -44,18 +52,18 @@ The loremaster’s class skills (and the key ability for each skill) are [[rango
 
 **Table: The Loremaster**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special        | Spells per Day              |
-| ----- | ----------------- | --------- | -------- | --------- | -------------- | --------------------------- |
-| 1st   | +0               | +0       | +0      | +2       | Secret         | +1 level of existing class |
-| 2nd   | +1               | +0       | +0      | +3       | Lore           | +1 level of existing class |
-| 3rd   | +1               | +1       | +1      | +3       | Secret         | +1 level of existing class |
-| 4th   | +2               | +1       | +1      | +4       | Bonus language | +1 level of existing class |
-| 5th   | +2               | +1       | +1      | +4       | Secret         | +1 level of existing class |
-| 6th   | +3               | +2       | +2      | +5       | Greater lore   | +1 level of existing class |
-| 7th   | +3               | +2       | +2      | +5       | Secret         | +1 level of existing class |
-| 8th   | +4               | +2       | +2      | +6       | Bonus language | +1 level of existing class |
-| 9th   | +4               | +3       | +3      | +6       | Secret         | +1 level of existing class |
-| 10th  | +5               | +3       | +3      | +7       | True lore      | +1 level of existing class |
+| Level | Special        | Spells per Day              |
+| ----- | -------------- | --------------------------- |
+| 1st   | Secret         | +1 level of existing class |
+| 2nd   | Lore           | +1 level of existing class |
+| 3rd   | Secret         | +1 level of existing class |
+| 4th   | Bonus language | +1 level of existing class |
+| 5th   | Secret         | +1 level of existing class |
+| 6th   | Greater lore   | +1 level of existing class |
+| 7th   | Secret         | +1 level of existing class |
+| 8th   | Bonus language | +1 level of existing class |
+| 9th   | Secret         | +1 level of existing class |
+| 10th  | True lore      | +1 level of existing class |
 
 ###### Class Features
 
@@ -80,7 +88,7 @@ All of the following are Class Features of the loremaster prestige class.
 | Level + Int Modifier | Secret                        | Effect                                                 |
 | -------------------- | ----------------------------- | ------------------------------------------------------ |
 | 1                    | Instant mastery               | 4 ranks of a skill in which the character has no ranks |
-| 2                    | Secret health                 | [[rangoric-srd/feats/Toughness|Toughness]] as a bonus feat |
+| 2                    | Secret health                 | [[rangoric-srd/feats/Toughness\|Toughness]] as a bonus feat |
 | 3                    | Secrets of inner strength     | +2 bonus on Will saves                                |
 | 4                    | The lore of true stamina      | +2 bonus on Fortitude saves                           |
 | 5                    | Secret knowledge of avoidance | +2 bonus on Reflex saves                              |

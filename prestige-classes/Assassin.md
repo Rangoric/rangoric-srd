@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d8"
+bab: medium
+fort: poor
+ref: good
+will: poor
 alignment: "Any evil"
 skill-points: "4 + Int modifier"
 based-on:
@@ -27,6 +31,10 @@ While nearly any class is capable of becoming an assassin, rogues suit the part 
 
 **Hit Die**: d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Reflex, poor Fortitude and Will.
+
 ###### Requirements
 
 To qualify to become an assassin, a character must fulfill all the following criteria.
@@ -45,18 +53,18 @@ The assassin's class skills (and the key ability for each skill) are [[rangoric-
 
 **Table: The Assassin**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                             | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th |
-| ----- | ----------------- | --------- | -------- | --------- | --------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| 1st   | +0               | +0       | +2      | +0       | Sneak attack +1d6, death attack, poison use, spells | 0                   | —                   | —                   | —                   |
-| 2nd   | +1               | +0       | +3      | +0       | +1 save against poison, uncanny dodge              | 1                   | —                   | —                   | —                   |
-| 3rd   | +2               | +1       | +3      | +1       | Sneak attack +2d6                                   | 2                   | 0                   | —                   | —                   |
-| 4th   | +3               | +1       | +4      | +1       | +2 save against poison, hidden weapons, true death                             | 3                   | 1                   | —                   | —                   |
-| 5th   | +3               | +1       | +4      | +1       | Improved uncanny dodge, sneak attack +3d6           | 3                   | 2                   | 0                   | —                   |
-| 6th   | +4               | +2       | +5      | +2       | +3 save against poison, quiet death                             | 3                   | 3                   | 1                   | —                   |
-| 7th   | +5               | +2       | +5      | +2       | Sneak attack +4d6                                   | 3                   | 3                   | 2                   | 0                   |
-| 8th   | +6               | +2       | +6      | +2       | +4 save against poison, hide in plain sight        | 3                   | 3                   | 3                   | 1                   |
-| 9th   | +6               | +3       | +6      | +3       | Sneak attack +5d6, swift death                                   | 3                   | 3                   | 3                   | 2                   |
-| 10th  | +7               | +3       | +7      | +3       | +5 save against poison, angel of death                             | 3                   | 3                   | 3                   | 3                   |
+| Level | Special                                             | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th |
+| ----- | --------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| 1st   | Sneak attack +1d6, death attack, poison use, spells | 0                   | —                   | —                   | —                   |
+| 2nd   | +1 save against poison, uncanny dodge              | 1                   | —                   | —                   | —                   |
+| 3rd   | Sneak attack +2d6                                   | 2                   | 0                   | —                   | —                   |
+| 4th   | +2 save against poison, hidden weapons, true death                             | 3                   | 1                   | —                   | —                   |
+| 5th   | Improved uncanny dodge, sneak attack +3d6           | 3                   | 2                   | 0                   | —                   |
+| 6th   | +3 save against poison, quiet death                             | 3                   | 3                   | 1                   | —                   |
+| 7th   | Sneak attack +4d6                                   | 3                   | 3                   | 2                   | 0                   |
+| 8th   | +4 save against poison, hide in plain sight        | 3                   | 3                   | 3                   | 1                   |
+| 9th   | Sneak attack +5d6, swift death                                   | 3                   | 3                   | 3                   | 2                   |
+| 10th  | +5 save against poison, angel of death                             | 3                   | 3                   | 3                   | 3                   |
 
 ###### Class Features
 

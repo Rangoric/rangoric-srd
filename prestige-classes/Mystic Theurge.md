@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d6"
+bab: weak
+fort: poor
+ref: poor
+will: good
 skill-points: "2 + Int modifier"
 based-on:
   - "[[fantasy srd 3.5/prestige-classes/Mystic Theurge|Mystic Theurge (3.5)]]"
@@ -26,6 +30,10 @@ Mystic theurges are drawn from multiclass spellcasters who can already cast both
 
 **Hit Die**: d6.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
+
 ###### Requirements
 
 To qualify to become a mystic theurge, a character must fulfill all the following criteria.
@@ -42,18 +50,18 @@ The mystic theurge’s class skills (and the key ability for each skill) are [[r
 
 **Table: The Mystic Theurge**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day                                                                                 |
-| ----- | ----------------- | --------- | -------- | --------- | ------- | ---------------------------------------------------------------------------------------------- |
-| 1st   | +0               | +0       | +0      | +2       | Combined spells (1st) | +1 level of existing arcane spellcasting class/+1 level of existing divine spellcasting class |
-| 2nd   | +1               | +0       | +0      | +3       |  | +1 level of existing arcane spellcasting class/+1 level of existing divine spellcasting class |
-| 3rd   | +1               | +1       | +1      | +3       | Combined spells (2nd) | +1 level of existing arcane spellcasting class/+1 level of existing divine spellcasting class |
-| 4th   | +2               | +1       | +1      | +4       |  | +1 level of existing arcane spellcasting class/+1 level of existing divine spellcasting class |
-| 5th   | +2               | +1       | +1      | +4       | Combined spells (3rd) | +1 level of existing arcane spellcasting class/+1 level of existing divine spellcasting class |
-| 6th   | +3               | +2       | +2      | +5       |  | +1 level of existing arcane spellcasting class/+1 level of existing divine spellcasting class |
-| 7th   | +3               | +2       | +2      | +5       | Combined spells (4th) | +1 level of existing arcane spellcasting class/+1 level of existing divine spellcasting class |
-| 8th   | +4               | +2       | +2      | +6       |  | +1 level of existing arcane spellcasting class/+1 level of existing divine spellcasting class |
-| 9th   | +4               | +3       | +3      | +6       | Combined spells (5th) | +1 level of existing arcane spellcasting class/+1 level of existing divine spellcasting class |
-| 10th  | +5               | +3       | +3      | +7       | Spell synthesis | +1 level of existing arcane spellcasting class/+1 level of existing divine spellcasting class |
+| Level | Special | Spells per Day                                                                                 |
+| ----- | ------- | ---------------------------------------------------------------------------------------------- |
+| 1st   | Combined spells (1st) | +1 level of existing arcane spellcasting class/+1 level of existing divine spellcasting class |
+| 2nd   |  | +1 level of existing arcane spellcasting class/+1 level of existing divine spellcasting class |
+| 3rd   | Combined spells (2nd) | +1 level of existing arcane spellcasting class/+1 level of existing divine spellcasting class |
+| 4th   |  | +1 level of existing arcane spellcasting class/+1 level of existing divine spellcasting class |
+| 5th   | Combined spells (3rd) | +1 level of existing arcane spellcasting class/+1 level of existing divine spellcasting class |
+| 6th   |  | +1 level of existing arcane spellcasting class/+1 level of existing divine spellcasting class |
+| 7th   | Combined spells (4th) | +1 level of existing arcane spellcasting class/+1 level of existing divine spellcasting class |
+| 8th   |  | +1 level of existing arcane spellcasting class/+1 level of existing divine spellcasting class |
+| 9th   | Combined spells (5th) | +1 level of existing arcane spellcasting class/+1 level of existing divine spellcasting class |
+| 10th  | Spell synthesis | +1 level of existing arcane spellcasting class/+1 level of existing divine spellcasting class |
 
 ###### Class Features
 

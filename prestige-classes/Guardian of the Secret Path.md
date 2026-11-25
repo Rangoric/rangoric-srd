@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d6"
+bab: medium
+fort: good
+ref: good
+will: good
 skill-points: "2 + Int modifier"
 book: "Encyclopaedia Arcane: Star Magic"
 based-on:
@@ -20,6 +24,10 @@ tags: [rangoric, rangoric/class]
 A guardian of the secret path is a star magus who stands watch at the edges of the world and turns back outsiders, good or evil, who would come into it, so that mortals keep their own destinies.
 
 **Hit Die**: d6.
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: All good.
 
 ###### Requirements
 
@@ -45,18 +53,18 @@ The guardian of the secret path’s class skills (and the key ability for each s
 
 **Table: The Guardian of the Secret Path** ^table-the-guardian-of-the-secret-path
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +2 | +2 | +2 | Detect outsider | — |
-| 2nd | +1 | +2 | +2 | +2 | Flare | +1 level of existing arcane spellcasting class |
-| 3rd | +2 | +3 | +3 | +3 | Infuse with starlight | — |
-| 4th | +3 | +3 | +3 | +3 | — | +1 level of existing arcane spellcasting class |
-| 5th | +3 | +4 | +4 | +4 | Detect teleport | — |
-| 6th | +4 | +4 | +4 | +4 | — | +1 level of existing arcane spellcasting class |
-| 7th | +5 | +5 | +5 | +5 | Detect gate | — |
-| 8th | +6 | +5 | +5 | +5 | — | +1 level of existing arcane spellcasting class |
-| 9th | +6 | +6 | +6 | +6 | Shield of light | — |
-| 10th | +7 | +6 | +6 | +6 | Ward of the stars | +1 level of existing arcane spellcasting class |
+| Level | Special | Spells per Day |
+| --- | --- | --- |
+| 1st | Detect outsider | — |
+| 2nd | Flare | +1 level of existing arcane spellcasting class |
+| 3rd | Infuse with starlight | — |
+| 4th | — | +1 level of existing arcane spellcasting class |
+| 5th | Detect teleport | — |
+| 6th | — | +1 level of existing arcane spellcasting class |
+| 7th | Detect gate | — |
+| 8th | — | +1 level of existing arcane spellcasting class |
+| 9th | Shield of light | — |
+| 10th | Ward of the stars | +1 level of existing arcane spellcasting class |
 
 ###### Class Features
 

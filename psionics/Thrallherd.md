@@ -1,6 +1,10 @@
 ---
 srd-type: "overview"
 section: "Psionics"
+bab: weak
+fort: poor
+ref: poor
+will: good
 based-on:
   - "[[fantasy srd 3.5/psionics/Thrallherd|Thrallherd (3.5)]]"
 status: draft
@@ -14,6 +18,10 @@ tags: [rangoric, rangoric/overview]
 ### Thrallherd
 
 Hit Die: d4.  
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
 
 ###### Requirements
 
@@ -33,19 +41,19 @@ Skill Points at Each Level: 2 + Int modifier.
 
 Table: The Thrallherd  
 
-|       |                   |           |          |           |                   |                                         |
-| ----- | ----------------- | --------- | -------- | --------- | ----------------- | --------------------------------------- |
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special           | Powers Known                            |
-| 1st   | +0               | +0       | +0      | +2       | Thrallherd        | -                                      |
-| 2nd   | +1               | +0       | +0      | +3       | -                | +1 level of existing manifesting class |
-| 3rd   | +1               | +1       | +1      | +3       | Psionic charm     | +1 level of existing manifesting class |
-| 4th   | +2               | +1       | +1      | +4       | -                | +1 level of existing manifesting class |
-| 5th   | +2               | +1       | +1      | +4       | Psionic dominate  | +1 level of existing manifesting class |
-| 6th   | +3               | +2       | +2      | +5       | -                | +1 level of existing manifesting class |
-| 7th   | +3               | +2       | +2      | +5       | Greater dominate  | +1 level of existing manifesting class |
-| 8th   | +4               | +2       | +2      | +6       | -                | +1 level of existing manifesting class |
-| 9th   | +4               | +3       | +3      | +6       | Superior dominate | +1 level of existing manifesting class |
-| 10th  | +5               | +3       | +3      | +7       | Twofold master    | -                                      |
+|       |                   |                                         |
+| ----- | ----------------- | --------------------------------------- |
+| Level | Special           | Powers Known                            |
+| 1st   | Thrallherd        | -                                      |
+| 2nd   | -                | +1 level of existing manifesting class |
+| 3rd   | Psionic charm     | +1 level of existing manifesting class |
+| 4th   | -                | +1 level of existing manifesting class |
+| 5th   | Psionic dominate  | +1 level of existing manifesting class |
+| 6th   | -                | +1 level of existing manifesting class |
+| 7th   | Greater dominate  | +1 level of existing manifesting class |
+| 8th   | -                | +1 level of existing manifesting class |
+| 9th   | Superior dominate | +1 level of existing manifesting class |
+| 10th  | Twofold master    | -                                      |
 
 ###### Class Features
 

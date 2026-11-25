@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d12"
+bab: medium
+fort: good
+ref: poor
+will: good
 skill-points: "2 + Int modifier"
 based-on:
   - "[[path srd 3.5/classes/Dragon Disciple|Dragon Disciple (PF1)]]"
@@ -27,6 +31,10 @@ Spellcasters who embrace their draconic heritage and learn to channel their abil
 
 **Hit Die**: d12.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Will, poor Reflex.
+
 ###### Requirements
 
 To qualify to become a dragon disciple, a character must fulfill all the following criteria.
@@ -49,18 +57,18 @@ The dragon disciple’s class skills (and the key ability for each skill) are [[
 
 **Table: The Dragon Disciple**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                             | Bonus Spells | Spells per Day |
-| ----- | ----------------- | --------- | -------- | --------- | --------------------------------------------------- | ------------ | -------------- |
-| 1st   | +0               | +2       | +0      | +2       | Blood of dragons, natural armor increase (+1)       | 1            | — |
-| 2nd   | +1               | +3       | +0      | +3       | Ability boost (Str +2), bloodline feat, claws and bite | 1            | +1 level of existing arcane spellcasting class |
-| 3rd   | +2               | +3       | +1      | +3       | Breath weapon                                       | 0            | +1 level of existing arcane spellcasting class |
-| 4th   | +3               | +4       | +1      | +4       | Ability boost (Str +2), natural armor increase (+2) | 1            | +1 level of existing arcane spellcasting class |
-| 5th   | +3               | +4       | +1      | +4       | Blindsense 30 ft., bloodline feat                   | 1            | — |
-| 6th   | +4               | +5       | +2      | +5       | Ability boost (Con +2), energy bite                 | 1            | +1 level of existing arcane spellcasting class |
-| 7th   | +5               | +5       | +2      | +5       | Dragon form (1/day), natural armor increase (+3) | 0            | +1 level of existing arcane spellcasting class |
-| 8th   | +6               | +6       | +2      | +6       | Ability boost (Int +2), bloodline feat              | 1            | +1 level of existing arcane spellcasting class |
-| 9th   | +6               | +6       | +3      | +6       | Wings                                               | 1            | — |
-| 10th  | +7               | +7       | +3      | +7       | Blindsense 60 ft., dragon apotheosis, dragon form (2/day) | 0            | +1 level of existing arcane spellcasting class |
+| Level | Special                                             | Bonus Spells | Spells per Day |
+| ----- | --------------------------------------------------- | ------------ | -------------- |
+| 1st   | Blood of dragons, natural armor increase (+1)       | 1            | — |
+| 2nd   | Ability boost (Str +2), bloodline feat, claws and bite | 1            | +1 level of existing arcane spellcasting class |
+| 3rd   | Breath weapon                                       | 0            | +1 level of existing arcane spellcasting class |
+| 4th   | Ability boost (Str +2), natural armor increase (+2) | 1            | +1 level of existing arcane spellcasting class |
+| 5th   | Blindsense 30 ft., bloodline feat                   | 1            | — |
+| 6th   | Ability boost (Con +2), energy bite                 | 1            | +1 level of existing arcane spellcasting class |
+| 7th   | Dragon form (1/day), natural armor increase (+3) | 0            | +1 level of existing arcane spellcasting class |
+| 8th   | Ability boost (Int +2), bloodline feat              | 1            | +1 level of existing arcane spellcasting class |
+| 9th   | Wings                                               | 1            | — |
+| 10th  | Blindsense 60 ft., dragon apotheosis, dragon form (2/day) | 0            | +1 level of existing arcane spellcasting class |
 
 ###### Class Features
 

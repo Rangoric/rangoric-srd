@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d10"
+bab: full
+fort: good
+ref: poor
+will: good
 skill-points: "2 + Int modifier"
 book: "Faeries"
 based-on:
@@ -20,6 +24,10 @@ tags: [rangoric, rangoric/class]
 Knights of the fey live to defend the inhabitants of the fey realm from any hostile threats. This simple duty has evolved into protecting visitors and natural wonders from the stray evils that haunt the realm from their dark holes. Knights of the fey are dedicated to their charge, and will defend their charges to the death. Knights of the fey belong to a close-knit organization that upholds the laws of the fey courts and enforces their will. They are loners by necessity, finding that the best way to maintain an acceptable level of peace in the fey realm is to patrol as much of it as they can.
 
 **Hit Die**: d10.
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Will, poor Reflex.
 
 ###### Requirements
 
@@ -43,18 +51,18 @@ The knight of the fey’s class skills (and the key ability for each skill) are 
 
 **Table: The Knight of the Fey** ^table-the-knight-of-the-fey
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-| --- | --- | --- | --- | --- | --- |
-| 1st | +1 | +2 | +0 | +2 | Blind-fight, Shining Beacon |
-| 2nd | +2 | +3 | +0 | +3 | Lucky hit 1/day |
-| 3rd | +3 | +3 | +1 | +3 | Luck of the Fey |
-| 4th | +4 | +4 | +1 | +4 | — |
-| 5th | +5 | +4 | +1 | +4 | Call Knight of the Fey |
-| 6th | +6 | +5 | +2 | +5 | Lucky hit 2/day |
-| 7th | +7 | +5 | +2 | +5 | Luck of the True Fey |
-| 8th | +8 | +6 | +2 | +6 | — |
-| 9th | +9 | +6 | +3 | +6 | Lucky hit 3/day |
-| 10th | +10 | +7 | +3 | +7 | Destined |
+| Level | Special |
+| --- | --- |
+| 1st | Blind-fight, Shining Beacon |
+| 2nd | Lucky hit 1/day |
+| 3rd | Luck of the Fey |
+| 4th | — |
+| 5th | Call Knight of the Fey |
+| 6th | Lucky hit 2/day |
+| 7th | Luck of the True Fey |
+| 8th | — |
+| 9th | Lucky hit 3/day |
+| 10th | Destined |
 
 ###### Class Features
 

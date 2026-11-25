@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d10"
+bab: medium
+fort: good
+ref: poor
+will: good
 skill-points: "4 + Int modifier"
 book: "Advanced Player's Guide"
 based-on:
@@ -26,6 +30,10 @@ Rage prophets are always [[rangoric-srd/classes/Barbarian|barbarian]]/[[rangoric
 
 **Hit Die**: d10.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Will, poor Reflex.
+
 ###### Requirements
 
 To qualify to become a rage prophet, a character must fulfill all the following criteria.
@@ -46,18 +54,18 @@ The rage prophet’s class skills (and the key ability for each skill) are [[ran
 
 **Table: The Rage Prophet**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                         | Spells per Day                  |
-| ----- | ----------------- | --------- | -------- | --------- | ------- | -------------------- |
-| 1st   | +0                | +1        | +0       | +1        | Savage seer, spirit guide                       | —                                     |
-| 2nd   | +1                | +1        | +1       | +1        | Rage prophet mystery, raging healer             | +1 level of divine spellcasting class |
-| 3rd   | +2                | +2        | +1       | +2        | Indomitable caster                              | +1 level of divine spellcasting class |
-| 4th   | +3                | +2        | +1       | +2        | Ragecaster (caster level), rage prophet mystery | +1 level of divine spellcasting class |
-| 5th   | +3                | +3        | +2       | +3        | Spirit guardian                                 | —                                     |
-| 6th   | +4                | +3        | +2       | +3        | Enduring rage, rage prophet mystery             | +1 level of divine spellcasting class |
-| 7th   | +5                | +4        | +2       | +4        | Ragecaster (save DC)                            | +1 level of divine spellcasting class |
-| 8th   | +6                | +4        | +3       | +4        | Rage prophet mystery, raging spellstrength      | —                                     |
-| 9th   | +6                | +5        | +3       | +5        | Spirit warrior                                  | +1 level of divine spellcasting class |
-| 10th  | +7                | +5        | +3       | +5        | Greater rage, rage prophet mystery              | +1 level of divine spellcasting class |
+| Level | Special                                         | Spells per Day                  |
+| ----- | ------- | -------------------- |
+| 1st   | Savage seer, spirit guide                       | —                                     |
+| 2nd   | Rage prophet mystery, raging healer             | +1 level of divine spellcasting class |
+| 3rd   | Indomitable caster                              | +1 level of divine spellcasting class |
+| 4th   | Ragecaster (caster level), rage prophet mystery | +1 level of divine spellcasting class |
+| 5th   | Spirit guardian                                 | —                                     |
+| 6th   | Enduring rage, rage prophet mystery             | +1 level of divine spellcasting class |
+| 7th   | Ragecaster (save DC)                            | +1 level of divine spellcasting class |
+| 8th   | Rage prophet mystery, raging spellstrength      | —                                     |
+| 9th   | Spirit warrior                                  | +1 level of divine spellcasting class |
+| 10th  | Greater rage, rage prophet mystery              | +1 level of divine spellcasting class |
 
 ###### Class Features
 

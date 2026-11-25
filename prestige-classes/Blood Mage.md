@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d6"
+bab: weak
+fort: good
+ref: poor
+will: good
 skill-points: "2 + Int modifier"
 book: "Spells & Magic"
 based-on:
@@ -27,6 +31,10 @@ Blood mages practice [[rangoric-srd/rules/blood-magic/Blood Magic|blood magic]].
 
 **Hit Die**: d6.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Will, poor Reflex.
+
 ###### Requirements
 
 To qualify to become a blood mage, a character must fulfill all the following criteria.
@@ -45,18 +53,18 @@ The blood mage’s class skills (and the key ability for each skill) are [[rango
 
 **Table: The Blood Mage** ^table-the-blood-mage
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +2 | +0 | +2 | Blood fuel I | +1 level of existing class |
-| 2nd | +1 | +3 | +0 | +3 | Ability fuel I | +1 level of existing class |
-| 3rd | +1 | +3 | +1 | +3 | Blood mixing, bonus blood feat | +1 level of existing class |
-| 4th | +2 | +4 | +1 | +4 | Blood mastery | +1 level of existing class |
-| 5th | +2 | +4 | +1 | +4 | Blood fuel II, Fortitude fuel | +1 level of existing class |
-| 6th | +3 | +5 | +2 | +5 | Ability fuel II | +1 level of existing class |
-| 7th | +3 | +5 | +2 | +5 | Bonus blood feat | +1 level of existing class |
-| 8th | +4 | +6 | +2 | +6 | Blood burn | +1 level of existing class |
-| 9th | +4 | +6 | +3 | +6 | Blood fuel III | +1 level of existing class |
-| 10th | +5 | +7 | +3 | +7 | Bonus blood feat | +1 level of existing class |
+| Level | Special | Spells per Day |
+| --- | --- | --- |
+| 1st | Blood fuel I | +1 level of existing class |
+| 2nd | Ability fuel I | +1 level of existing class |
+| 3rd | Blood mixing, bonus blood feat | +1 level of existing class |
+| 4th | Blood mastery | +1 level of existing class |
+| 5th | Blood fuel II, Fortitude fuel | +1 level of existing class |
+| 6th | Ability fuel II | +1 level of existing class |
+| 7th | Bonus blood feat | +1 level of existing class |
+| 8th | Blood burn | +1 level of existing class |
+| 9th | Blood fuel III | +1 level of existing class |
+| 10th | Bonus blood feat | +1 level of existing class |
 
 ###### Class Features
 

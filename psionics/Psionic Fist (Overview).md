@@ -3,6 +3,10 @@ srd-type: "overview"
 section: "Psionics"
 aliases:
   - "Psionic Fist"
+bab: medium
+fort: poor
+ref: good
+will: good
 based-on:
   - "[[fantasy srd 3.5/psionics/Psionic Fist (Overview)|Psionic Fist (Overview) (3.5)]]"
 status: draft
@@ -16,6 +20,10 @@ tags: [rangoric, rangoric/overview]
 ### Psionic Fist
 
 Hit Die: d6.  
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Reflex and Will, poor Fortitude.
 
 ###### Requirements
 
@@ -37,19 +45,19 @@ Skill Points at Each Level: 4 + Int modifier.
 
 Table: The Psionic Fist  
 
-|       |                   |           |          |           |                    |            |              |             |
-| ----- | ----------------- | --------- | -------- | --------- | ------------------ | ---------- | ------------ | ----------- |
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special            | Points/Day | Powers Known | Level Known |
-| 1st   | +0               | +0       | +2      | +2       | Monk abilities     | 1          | 1            | 1st         |
-| 2nd   | +1               | +0       | +3      | +3       | -                 | 3          | 2            | 1st         |
-| 3rd   | +2               | +1       | +3      | +3       | -                 | 6          | 3            | 2nd         |
-| 4th   | +3               | +1       | +4      | +4       | -                 | 10         | 4            | 2nd         |
-| 5th   | +3               | +1       | +4      | +4       | Bonus psionic feat | 15         | 5            | 3rd         |
-| 6th   | +4               | +2       | +5      | +5       | -                 | 23         | 6            | 3rd         |
-| 7th   | +5               | +2       | +5      | +5       | -                 | 31         | 7            | 4th         |
-| 8th   | +6               | +2       | +6      | +6       | -                 | 43         | 8            | 4th         |
-| 9th   | +6               | +3       | +6      | +6       | -                 | 55         | 9            | 5th         |
-| 10th  | +7               | +3       | +7      | +7       | Bonus psionic feat | 71         | 10           | 5th         |
+|       |                    |            |              |             |
+| ----- | ------------------ | ---------- | ------------ | ----------- |
+| Level | Special            | Points/Day | Powers Known | Level Known |
+| 1st   | Monk abilities     | 1          | 1            | 1st         |
+| 2nd   | -                 | 3          | 2            | 1st         |
+| 3rd   | -                 | 6          | 3            | 2nd         |
+| 4th   | -                 | 10         | 4            | 2nd         |
+| 5th   | Bonus psionic feat | 15         | 5            | 3rd         |
+| 6th   | -                 | 23         | 6            | 3rd         |
+| 7th   | -                 | 31         | 7            | 4th         |
+| 8th   | -                 | 43         | 8            | 4th         |
+| 9th   | -                 | 55         | 9            | 5th         |
+| 10th  | Bonus psionic feat | 71         | 10           | 5th         |
 
 ###### Class Features
 

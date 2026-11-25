@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d10"
+bab: full
+fort: good
+ref: good
+will: poor
 skill-points: "2 + Int modifier"
 book: "Faeries"
 based-on:
@@ -23,6 +27,10 @@ Many mortal slayers are rangers and bards, but fighters, rogues, sorcerers and w
 
 **Hit Die**: d10.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Reflex, poor Will.
+
 ###### Requirements
 
 To qualify to become a mortal slayer (abbreviated Msl), a character must fulfill all the following criteria.
@@ -43,18 +51,18 @@ The mortal slayer’s class skills (and the key ability for each skill) are [[ra
 
 **Table: The Mortal Slayer** ^table-the-mortal-slayer
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day: 1st | 2nd | 3rd | 4th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +1 | +2 | +2 | +0 | 1st Favored Enemy | 0 | — | — | — |
-| 2nd | +2 | +3 | +3 | +0 | — | 1 | — | — | — |
-| 3rd | +3 | +3 | +3 | +1 | Sneak Attack (+1d6) | 1 | 0 | — | — |
-| 4th | +4 | +4 | +4 | +1 | 2nd Favored Enemy | 1 | 1 | — | — |
-| 5th | +5 | +4 | +4 | +1 | — | 1 | 1 | 0 | — |
-| 6th | +6 | +5 | +5 | +2 | Sneak Attack (+2d6) | 1 | 1 | 1 | — |
-| 7th | +7 | +5 | +5 | +2 | 3rd Favored Enemy | 2 | 1 | 1 | 0 |
-| 8th | +8 | +6 | +6 | +2 | Unfurl the Mortal Coil | 2 | 1 | 1 | 1 |
-| 9th | +9 | +6 | +6 | +3 | Sneak Attack (+3d6), Fey Glade | 2 | 2 | 1 | 1 |
-| 10th | +10 | +7 | +7 | +3 | 4th Favored Enemy, Seal Doorway, Unfurl the Mortal Coil | 2 | 2 | 2 | 1 |
+| Level | Special | Spells per Day: 1st | 2nd | 3rd | 4th |
+| --- | --- | --- | --- | --- | --- |
+| 1st | 1st Favored Enemy | 0 | — | — | — |
+| 2nd | — | 1 | — | — | — |
+| 3rd | Sneak Attack (+1d6) | 1 | 0 | — | — |
+| 4th | 2nd Favored Enemy | 1 | 1 | — | — |
+| 5th | — | 1 | 1 | 0 | — |
+| 6th | Sneak Attack (+2d6) | 1 | 1 | 1 | — |
+| 7th | 3rd Favored Enemy | 2 | 1 | 1 | 0 |
+| 8th | Unfurl the Mortal Coil | 2 | 1 | 1 | 1 |
+| 9th | Sneak Attack (+3d6), Fey Glade | 2 | 2 | 1 | 1 |
+| 10th | 4th Favored Enemy, Seal Doorway, Unfurl the Mortal Coil | 2 | 2 | 2 | 1 |
 
 ###### Class Features
 

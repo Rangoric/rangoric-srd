@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d4"
+bab: medium
+fort: poor
+ref: poor
+will: good
 skill-points: "4 + Int modifier"
 book: "Spells & Magic"
 based-on:
@@ -25,6 +29,10 @@ Spellsingers practice [[rangoric-srd/rules/spellsinging/Spellsinging|spellsingin
 
 **Hit Die**: d4.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
+
 ###### Requirements
 
 To qualify to become a spellsinger, a character must fulfill all the following criteria.
@@ -45,18 +53,18 @@ The spellsinger’s class skills (and the key ability for each skill) are [[rang
 
 **Table: The Spellsinger** ^table-the-spellsinger
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +0 | +2 | Spellsinging, bardic performance | +1 level of existing class |
-| 2nd | +1 | +0 | +0 | +3 | Greater countersong | +1 level of existing class |
-| 3rd | +2 | +1 | +1 | +3 | Pierce silence | +1 level of existing class |
-| 4th | +3 | +1 | +1 | +4 | Singing radius I | +1 level of existing class |
-| 5th | +3 | +1 | +1 | +4 | Spell shout | +1 level of existing class |
-| 6th | +4 | +2 | +2 | +5 | Accompaniment | +1 level of existing class |
-| 7th | +5 | +2 | +2 | +5 | Singing radius II | +1 level of existing class |
-| 8th | +6/+1 | +2 | +2 | +6 | Pierce countersong | +1 level of existing class |
-| 9th | +6/+1 | +3 | +3 | +6 | Orchestrate spellsong | +1 level of existing class |
-| 10th | +7/+2 | +3 | +3 | +7 | Singing radius III | +1 level of existing class |
+| Level | Special | Spells per Day |
+| --- | --- | --- |
+| 1st | Spellsinging, bardic performance | +1 level of existing class |
+| 2nd | Greater countersong | +1 level of existing class |
+| 3rd | Pierce silence | +1 level of existing class |
+| 4th | Singing radius I | +1 level of existing class |
+| 5th | Spell shout | +1 level of existing class |
+| 6th | Accompaniment | +1 level of existing class |
+| 7th | Singing radius II | +1 level of existing class |
+| 8th | Pierce countersong | +1 level of existing class |
+| 9th | Orchestrate spellsong | +1 level of existing class |
+| 10th | Singing radius III | +1 level of existing class |
 
 ###### Class Features
 

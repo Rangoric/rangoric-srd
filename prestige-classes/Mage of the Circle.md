@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d4"
+bab: weak
+fort: poor
+ref: poor
+will: good
 skill-points: "4 + Int modifier"
 book: "Faeries"
 based-on:
@@ -21,6 +25,10 @@ Over the centuries, fey spellcasters deigned to teach others their unorthodox ma
 
 **Hit Die**: d4.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
+
 ###### Requirements
 
 To qualify to become a mage of the circle (abbreviated Moc), a character must fulfill all the following criteria.
@@ -39,18 +47,18 @@ The mage of the circle’s class skills (and the key ability for each skill) are
 
 **Table: The Mage of the Circle** ^table-the-mage-of-the-circle
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +0 | +2 | Encircle I | +1 level of existing class |
-| 2nd | +1 | +0 | +0 | +3 | Sand Circles | +1 level of existing class |
-| 3rd | +1 | +1 | +1 | +3 | — | +1 level of existing class |
-| 4th | +2 | +1 | +1 | +4 | Encircle II | +1 level of existing class |
-| 5th | +2 | +1 | +1 | +4 | Extra Slot | +1 level of existing class |
-| 6th | +3 | +2 | +2 | +5 | — | +1 level of existing class |
-| 7th | +3 | +2 | +2 | +5 | Encircle III | +1 level of existing class |
-| 8th | +4 | +2 | +2 | +6 | — | +1 level of existing class |
-| 9th | +4 | +3 | +3 | +6 | Extra Slot | +1 level of existing class |
-| 10th | +5 | +3 | +3 | +7 | Circle Mastery | +1 level of existing class |
+| Level | Special | Spells per Day |
+| --- | --- | --- |
+| 1st | Encircle I | +1 level of existing class |
+| 2nd | Sand Circles | +1 level of existing class |
+| 3rd | — | +1 level of existing class |
+| 4th | Encircle II | +1 level of existing class |
+| 5th | Extra Slot | +1 level of existing class |
+| 6th | — | +1 level of existing class |
+| 7th | Encircle III | +1 level of existing class |
+| 8th | — | +1 level of existing class |
+| 9th | Extra Slot | +1 level of existing class |
+| 10th | Circle Mastery | +1 level of existing class |
 
 ###### Class Features
 

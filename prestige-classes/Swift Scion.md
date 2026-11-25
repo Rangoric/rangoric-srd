@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d6"
+bab: medium
+fort: poor
+ref: good
+will: poor
 skill-points: "6 + Int modifier"
 book: ["Unearthed Arcana", "Arms & Armor v3.5"]
 based-on:
@@ -23,6 +27,10 @@ Swift scions wield their weapons for a wide variety of purposes. A rogue may use
 
 **Hit Die:** d6.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Reflex, poor Fortitude and Will.
+
 ###### Requirements
 
 To qualify to become a swift scion, a character must fulfill the criteria given in her particular weapon’s entry. (For an example, see [[rangoric-srd/magic-items/legendary-weapons/Nightphantom|Nightphantom]], below.)
@@ -35,18 +43,18 @@ The swift scion’s class skills (and the key ability for each skill) are [[rang
 
 **Table: The Swift Scion**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-| --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +2 | +0 | Bonus class skill, Weapon Finesse or Two-Weapon Fighting |
-| 2nd | +1 | +0 | +3 | +0 | Bonus special ability |
-| 3rd | +2 | +1 | +3 | +1 | — |
-| 4th | +3 | +1 | +4 | +1 | — |
-| 5th | +3 | +1 | +4 | +1 | Bonus class skill |
-| 6th | +4 | +2 | +5 | +2 | Bonus special ability |
-| 7th | +5 | +2 | +5 | +2 | — |
-| 8th | +6 | +2 | +6 | +2 | — |
-| 9th | +6 | +3 | +6 | +3 | Bonus class skill |
-| 10th | +7 | +3 | +7 | +3 | Bonus special ability |
+| Level | Special |
+| --- | --- |
+| 1st | Bonus class skill, Weapon Finesse or Two-Weapon Fighting |
+| 2nd | Bonus special ability |
+| 3rd | — |
+| 4th | — |
+| 5th | Bonus class skill |
+| 6th | Bonus special ability |
+| 7th | — |
+| 8th | — |
+| 9th | Bonus class skill |
+| 10th | Bonus special ability |
 
 ^table-the-swift-scion
 

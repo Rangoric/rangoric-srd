@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d10"
+bab: full
+fort: good
+ref: poor
+will: good
 skill-points: "4 + Int modifier"
 book: "Advanced Player's Guide"
 based-on:
@@ -23,6 +27,10 @@ In every army there are leaders who surpass the average cold-hearted mercenary, 
 
 **Hit Die**: d10.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Will, poor Reflex.
+
 ###### Requirements
 
 To qualify to become a battle herald, a character must fulfill all the following criteria.
@@ -41,18 +49,18 @@ The battle herald’s class skills (and the key ability for each skill) are [[ra
 
 **Table: The Battle Herald** ^table-the-battle-herald
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-| --- | --- | --- | --- | --- | --- |
-| 1st | +1 | +1 | +0 | +1 | 1st inspiring command (+1), improved leadership, voice of authority |
-| 2nd | +2 | +1 | +1 | +1 | Easy march |
-| 3rd | +3 | +2 | +1 | +2 | 2nd inspiring command |
-| 4th | +4 | +2 | +1 | +2 | Inspiring command (+2), inspire greatness |
-| 5th | +5 | +3 | +2 | +3 | 3rd inspiring command, banner |
-| 6th | +6 | +3 | +2 | +3 | Teamwork feat |
-| 7th | +7 | +4 | +2 | +4 | 4th inspiring command (+3), demanding challenge |
-| 8th | +8 | +4 | +3 | +4 | Persistent commands |
-| 9th | +9 | +5 | +3 | +5 | 5th inspiring command, inspire last stand |
-| 10th | +10 | +5 | +3 | +5 | Complex commands, inspiring command (+4) |
+| Level | Special |
+| --- | --- |
+| 1st | 1st inspiring command (+1), improved leadership, voice of authority |
+| 2nd | Easy march |
+| 3rd | 2nd inspiring command |
+| 4th | Inspiring command (+2), inspire greatness |
+| 5th | 3rd inspiring command, banner |
+| 6th | Teamwork feat |
+| 7th | 4th inspiring command (+3), demanding challenge |
+| 8th | Persistent commands |
+| 9th | 5th inspiring command, inspire last stand |
+| 10th | Complex commands, inspiring command (+4) |
 
 ###### Class Features
 

@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d4"
+bab: weak
+fort: poor
+ref: poor
+will: good
 skill-points: "2 + Int modifier"
 book: "Encyclopaedia Arcane: Star Magic"
 based-on:
@@ -20,6 +24,10 @@ tags: [rangoric, rangoric/class]
 An astrologer watches the night sky from her observatory and reads in the stars the causes behind events, and from them what is to come.
 
 **Hit Die**: d4.
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
 
 ###### Requirements
 
@@ -41,13 +49,13 @@ The astrologer’s class skills (and the key ability for each skill) are [[rango
 
 **Table: The Astrologer** ^table-the-astrologer
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +0 | +2 | Star vision, prediction | +1 level of existing arcane spellcasting class |
-| 2nd | +1 | +0 | +0 | +3 | — | +1 level of existing arcane spellcasting class |
-| 3rd | +1 | +1 | +1 | +3 | Astrological lore | +1 level of existing arcane spellcasting class |
-| 4th | +2 | +1 | +1 | +4 | Truths unknown | +1 level of existing arcane spellcasting class |
-| 5th | +2 | +1 | +1 | +4 | Unclouded vision | +1 level of existing arcane spellcasting class |
+| Level | Special | Spells per Day |
+| --- | --- | --- |
+| 1st | Star vision, prediction | +1 level of existing arcane spellcasting class |
+| 2nd | — | +1 level of existing arcane spellcasting class |
+| 3rd | Astrological lore | +1 level of existing arcane spellcasting class |
+| 4th | Truths unknown | +1 level of existing arcane spellcasting class |
+| 5th | Unclouded vision | +1 level of existing arcane spellcasting class |
 
 ###### Class Features
 

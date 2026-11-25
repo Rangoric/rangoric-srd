@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d4"
+bab: weak
+fort: poor
+ref: poor
+will: good
 skill-points: "2 + Int modifier"
 based-on:
   - "[[fantasy srd 3.5/prestige-classes/Archmage|Archmage (3.5)]]"
@@ -16,6 +20,10 @@ tags: [rangoric, rangoric/class]
 ### Archmage
 
 **Hit Die**: d4.
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
 
 ###### Requirements
 
@@ -35,13 +43,13 @@ The archmage's class skills (and the key ability for each skill) are [[rangoric-
 
 **Table: The Archmage**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special     | Spells per Day                                  |
-| ----- | ----------------- | --------- | -------- | --------- | ----------- | ----------------------------------------------- |
-| 1st   | +0               | +0       | +0      | +2       | High arcana | +1 level of existing arcane spellcasting class |
-| 2nd   | +1               | +0       | +0      | +3       | High arcana | +1 level of existing arcane spellcasting class |
-| 3rd   | +1               | +1       | +1      | +3       | High arcana | +1 level of existing arcane spellcasting class |
-| 4th   | +2               | +1       | +1      | +4       | High arcana | +1 level of existing arcane spellcasting class |
-| 5th   | +2               | +1       | +1      | +4       | High arcana | +1 level of existing arcane spellcasting class |
+| Level | Special     | Spells per Day                                  |
+| ----- | ----------- | ----------------------------------------------- |
+| 1st   | High arcana | +1 level of existing arcane spellcasting class |
+| 2nd   | High arcana | +1 level of existing arcane spellcasting class |
+| 3rd   | High arcana | +1 level of existing arcane spellcasting class |
+| 4th   | High arcana | +1 level of existing arcane spellcasting class |
+| 5th   | High arcana | +1 level of existing arcane spellcasting class |
 
 ###### Class Features
 

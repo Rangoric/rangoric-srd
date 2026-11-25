@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d4"
+bab: weak
+fort: poor
+ref: poor
+will: good
 skill-points: "4 + Int modifier"
 book: "Alchemy & Herbalists"
 based-on:
@@ -25,6 +29,10 @@ Apothecaries practise the medicinal side of [[rangoric-srd/rules/alchemy-and-her
 
 **Hit Die**: d4.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
+
 ###### Requirements
 
 To qualify to become an apothecary, a character must fulfill all the following criteria.
@@ -41,13 +49,13 @@ The apothecary’s class skills (and the key ability for each skill) are [[rango
 
 **Table: The Apothecary** ^table-the-apothecary
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Bonus Feat | 0 | 1st | 2nd |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +0 | +2 | [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Profession (apothecary)) | — | — | — |
-| 2nd | +1 | +0 | +0 | +3 | [[rangoric-srd/feats/Craft Herbal Restoratives|Craft Herbal Restoratives]] | 2/1 | — | — |
-| 3rd | +1 | +1 | +1 | +3 | [[rangoric-srd/feats/Bodily Awareness|Bodily Awareness]] | 3/1 | 1/1 | — |
-| 4th | +2 | +1 | +1 | +4 | [[rangoric-srd/feats/Diagnosis|Diagnosis]] | 4/2 | 2/1 | 1/1 |
-| 5th | +2 | +1 | +1 | +4 | [[rangoric-srd/feats/Craft Toxins|Craft Toxins]] | 5/3 | 3/2 | 2/1 |
+| Level | Bonus Feat | 0 | 1st | 2nd |
+| --- | --- | --- | --- | --- |
+| 1st | [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Profession (apothecary)) | — | — | — |
+| 2nd | [[rangoric-srd/feats/Craft Herbal Restoratives\|Craft Herbal Restoratives]] | 2/1 | — | — |
+| 3rd | [[rangoric-srd/feats/Bodily Awareness\|Bodily Awareness]] | 3/1 | 1/1 | — |
+| 4th | [[rangoric-srd/feats/Diagnosis\|Diagnosis]] | 4/2 | 2/1 | 1/1 |
+| 5th | [[rangoric-srd/feats/Craft Toxins\|Craft Toxins]] | 5/3 | 3/2 | 2/1 |
 
 Spells are given as spells known/spells per day.
 

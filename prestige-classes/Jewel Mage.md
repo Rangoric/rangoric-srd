@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d4"
+bab: weak
+fort: poor
+ref: poor
+will: good
 skill-points: "4 + Int modifier"
 book: "Spells & Magic"
 based-on:
@@ -27,6 +31,10 @@ The discipline and orderly mind needed to fully explore the mysteries of jewel m
 
 **Hit Die**: d4.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
+
 ###### Requirements
 
 To qualify to become a jewel mage, a character must fulfill all the following criteria.
@@ -45,18 +53,18 @@ The jewel mage’s class skills (and the key ability for each skill) are [[rango
 
 **Table: The Jewel Mage** ^table-the-jewel-mage
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +0 | +2 | Create attunement jewel, rebuke earth creatures | +1 level of existing class |
-| 2nd | +1 | +0 | +0 | +3 | — | +1 level of existing class |
-| 3rd | +1 | +1 | +1 | +3 | Create greater attunement jewel | +1 level of existing class |
-| 4th | +2 | +1 | +1 | +4 | — | +1 level of existing class |
-| 5th | +2 | +1 | +1 | +4 | Create encoded jewel | +1 level of existing class |
-| 6th | +3 | +2 | +2 | +5 | — | +1 level of existing class |
-| 7th | +3 | +2 | +2 | +5 | Create binding jewel | +1 level of existing class |
-| 8th | +4 | +2 | +2 | +6 | — | +1 level of existing class |
-| 9th | +4 | +3 | +3 | +6 | — | +1 level of existing class |
-| 10th | +5 | +3 | +3 | +7 | Soul gem | +1 level of existing class |
+| Level | Special | Spells per Day |
+| --- | --- | --- |
+| 1st | Create attunement jewel, rebuke earth creatures | +1 level of existing class |
+| 2nd | — | +1 level of existing class |
+| 3rd | Create greater attunement jewel | +1 level of existing class |
+| 4th | — | +1 level of existing class |
+| 5th | Create encoded jewel | +1 level of existing class |
+| 6th | — | +1 level of existing class |
+| 7th | Create binding jewel | +1 level of existing class |
+| 8th | — | +1 level of existing class |
+| 9th | — | +1 level of existing class |
+| 10th | Soul gem | +1 level of existing class |
 
 ###### Class Features
 

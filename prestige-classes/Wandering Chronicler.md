@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d8"
+bab: medium
+fort: poor
+ref: good
+will: good
 skill-points: "8 + Int modifier"
 based-on:
   - "[[path srd 3.5/classes/Pathfinder Chronicler|Pathfinder Chronicler (PF1)]]"
@@ -25,6 +29,10 @@ The wandering chronicler class attracts any who see the world as a great mystery
 
 **Hit Die**: d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Reflex and Will, poor Fortitude.
+
 ###### Requirements
 
 To qualify to become a wandering chronicler, a character must fulfill all the following criteria.
@@ -41,18 +49,18 @@ The wandering chronicler’s class skills (and the key ability for each skill) a
 
 **Table: The Wandering Chronicler**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                       |
-| ----- | ----------------- | --------- | -------- | --------- | ------- |
-| 1st   | +0                | +0        | +1       | +1        | Bardic knowledge, deep pockets, master scribe |
-| 2nd   | +1                | +1        | +1       | +1        | Live to tell the tale, pathfinding            |
-| 3rd   | +2                | +1        | +2       | +2        | Bardic music, improved aid                    |
-| 4th   | +3                | +1        | +2       | +2        | Epic tales                                    |
-| 5th   | +3                | +2        | +3       | +3        | Whispering campaign                           |
-| 6th   | +4                | +2        | +3       | +3        | Inspired action (move)                        |
-| 7th   | +5                | +2        | +4       | +4        | Call down the legends                         |
-| 8th   | +6                | +3        | +4       | +4        | Greater epic tales                            |
-| 9th   | +6                | +3        | +5       | +5        | Inspired action (standard)                    |
-| 10th  | +7                | +3        | +5       | +5        | Lay of the exalted dead                       |
+| Level | Special                                       |
+| ----- | ------- |
+| 1st   | Bardic knowledge, deep pockets, master scribe |
+| 2nd   | Live to tell the tale, pathfinding            |
+| 3rd   | Bardic music, improved aid                    |
+| 4th   | Epic tales                                    |
+| 5th   | Whispering campaign                           |
+| 6th   | Inspired action (move)                        |
+| 7th   | Call down the legends                         |
+| 8th   | Greater epic tales                            |
+| 9th   | Inspired action (standard)                    |
+| 10th  | Lay of the exalted dead                       |
 
 ###### Class Features
 

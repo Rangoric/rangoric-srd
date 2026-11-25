@@ -1,6 +1,10 @@
 ---
 srd-type: "overview"
 section: "Psionics"
+bab: weak
+fort: poor
+ref: poor
+will: good
 based-on:
   - "[[fantasy srd 3.5/psionics/Psion|Psion (3.5)]]"
 status: draft
@@ -15,6 +19,10 @@ tags: [rangoric, rangoric/overview]
 
 Alignment: Any.  
 Hit Die: d4.  
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
 
 ###### Class Skills
 
@@ -38,29 +46,29 @@ Skill Points at Each Level: 2 + Int modifier.
 
 Table: The Psion  
 
-|       |                   |           |          |           |                        |                  |              |                           |
-| ----- | ----------------- | --------- | -------- | --------- | ---------------------- | ---------------- | ------------ | ------------------------- |
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                | Power Points/Day | Powers Known | Maximum Power Level Known |
-| 1st   | +0               | +0       | +0      | +2       | Bonus feat, discipline | 2                | 3            | 1st                       |
-| 2nd   | +1               | +0       | +0      | +3       | -                     | 6                | 5            | 1st                       |
-| 3rd   | +1               | +1       | +1      | +3       | -                     | 11               | 7            | 2nd                       |
-| 4th   | +2               | +1       | +1      | +4       | -                     | 17               | 9            | 2nd                       |
-| 5th   | +2               | +1       | +1      | +4       | Bonus feat             | 25               | 11           | 3rd                       |
-| 6th   | +3               | +2       | +2      | +5       | -                     | 35               | 13           | 3rd                       |
-| 7th   | +3               | +2       | +2      | +5       | -                     | 46               | 15           | 4th                       |
-| 8th   | +4               | +2       | +2      | +6       | -                     | 58               | 17           | 4th                       |
-| 9th   | +4               | +3       | +3      | +6       | -                     | 72               | 19           | 5th                       |
-| 10th  | +5               | +3       | +3      | +7       | Bonus feat             | 88               | 21           | 5th                       |
-| 11th  | +5               | +3       | +3      | +7       | -                     | 106              | 22           | 6th                       |
-| 12th  | +6/+1            | +4       | +4      | +8       | -                     | 126              | 24           | 6th                       |
-| 13th  | +6/+1            | +4       | +4      | +8       | -                     | 147              | 25           | 7th                       |
-| 14th  | +7/+2            | +4       | +4      | +9       | -                     | 170              | 27           | 7th                       |
-| 15th  | +7/+2            | +5       | +5      | +9       | Bonus feat             | 195              | 28           | 8th                       |
-| 16th  | +8/+3            | +5       | +5      | +10      | -                     | 221              | 30           | 8th                       |
-| 17th  | +8/+3            | +5       | +5      | +10      | -                     | 250              | 31           | 9th                       |
-| 18th  | +9/+4            | +6       | +6      | +11      | -                     | 280              | 33           | 9th                       |
-| 19th  | +9/+4            | +6       | +6      | +11      | -                     | 311              | 34           | 9th                       |
-| 20th  | +10/+5           | +6       | +6      | +12      | Bonus feat             | 343              | 36           | 9th                       |
+|       |                        |                  |              |                           |
+| ----- | ---------------------- | ---------------- | ------------ | ------------------------- |
+| Level | Special                | Power Points/Day | Powers Known | Maximum Power Level Known |
+| 1st   | Bonus feat, discipline | 2                | 3            | 1st                       |
+| 2nd   | -                     | 6                | 5            | 1st                       |
+| 3rd   | -                     | 11               | 7            | 2nd                       |
+| 4th   | -                     | 17               | 9            | 2nd                       |
+| 5th   | Bonus feat             | 25               | 11           | 3rd                       |
+| 6th   | -                     | 35               | 13           | 3rd                       |
+| 7th   | -                     | 46               | 15           | 4th                       |
+| 8th   | -                     | 58               | 17           | 4th                       |
+| 9th   | -                     | 72               | 19           | 5th                       |
+| 10th  | Bonus feat             | 88               | 21           | 5th                       |
+| 11th  | -                     | 106              | 22           | 6th                       |
+| 12th  | -                     | 126              | 24           | 6th                       |
+| 13th  | -                     | 147              | 25           | 7th                       |
+| 14th  | -                     | 170              | 27           | 7th                       |
+| 15th  | Bonus feat             | 195              | 28           | 8th                       |
+| 16th  | -                     | 221              | 30           | 8th                       |
+| 17th  | -                     | 250              | 31           | 9th                       |
+| 18th  | -                     | 280              | 33           | 9th                       |
+| 19th  | -                     | 311              | 34           | 9th                       |
+| 20th  | Bonus feat             | 343              | 36           | 9th                       |
 
 ###### Class Features
 

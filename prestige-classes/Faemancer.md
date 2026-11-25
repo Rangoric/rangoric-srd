@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d4"
+bab: full
+fort: poor
+ref: good
+will: good
 skill-points: "4 + Int modifier"
 book: "Faeries"
 based-on:
@@ -25,6 +29,10 @@ Faemancers often come from the ranks of druids and barbarians, since these class
 
 **Hit Die**: d4.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Reflex and Will, poor Fortitude.
+
 ###### Requirements
 
 To qualify to become a faemancer (abbreviated Fmc), a character must fulfill all the following criteria.
@@ -47,18 +55,18 @@ The faemancer’s class skills (and the key ability for each skill) are [[rangor
 
 **Table: The Faemancer** ^table-the-faemancer
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day: 1st | 2nd | 3rd | 4th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +1 | +0 | +2 | +2 | Fey Companion (Grig), Life Bond | 1 | — | — | — |
-| 2nd | +2 | +0 | +3 | +3 | Fey Companion Advancement, Fey Friend | 2 | 0 | — | — |
-| 3rd | +3 | +1 | +3 | +3 | Domain, Luck of the Fey | 2 | 1 | — | — |
-| 4th | +4 | +1 | +4 | +4 | Fey Companion Adv., Fey Companion (Pixie) | 3 | 2 | 0 | — |
-| 5th | +5 | +1 | +4 | +4 | Spirit Bond | 3 | 2 | 1 | — |
-| 6th | +6 | +2 | +5 | +5 | Fey Companion Advancement | 3 | 3 | 2 | 0 |
-| 7th | +7 | +2 | +5 | +5 | Domain | 4 | 3 | 2 | 1 |
-| 8th | +8 | +2 | +6 | +6 | Fey Companion Advancement | 4 | 3 | 3 | 2 |
-| 9th | +9 | +3 | +6 | +6 | Domain | 4 | 4 | 3 | 2 |
-| 10th | +10 | +3 | +7 | +7 | Mutual Bond | 4 | 4 | 3 | 3 |
+| Level | Special | Spells per Day: 1st | 2nd | 3rd | 4th |
+| --- | --- | --- | --- | --- | --- |
+| 1st | Fey Companion (Grig), Life Bond | 1 | — | — | — |
+| 2nd | Fey Companion Advancement, Fey Friend | 2 | 0 | — | — |
+| 3rd | Domain, Luck of the Fey | 2 | 1 | — | — |
+| 4th | Fey Companion Adv., Fey Companion (Pixie) | 3 | 2 | 0 | — |
+| 5th | Spirit Bond | 3 | 2 | 1 | — |
+| 6th | Fey Companion Advancement | 3 | 3 | 2 | 0 |
+| 7th | Domain | 4 | 3 | 2 | 1 |
+| 8th | Fey Companion Advancement | 4 | 3 | 3 | 2 |
+| 9th | Domain | 4 | 4 | 3 | 2 |
+| 10th | Mutual Bond | 4 | 4 | 3 | 3 |
 
 ###### Class Features
 

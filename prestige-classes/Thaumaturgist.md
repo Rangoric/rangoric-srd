@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d4"
+bab: weak
+fort: poor
+ref: poor
+will: good
 skill-points: "2 + Int modifier"
 based-on:
   - "[[fantasy srd 3.5/prestige-classes/Thaumaturgist|Thaumaturgist (3.5)]]"
@@ -16,6 +20,10 @@ tags: [rangoric, rangoric/class]
 ### Thaumaturgist
 
 **Hit Die**: d4.
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
 
 ###### Requirements
 
@@ -33,13 +41,13 @@ The thaumaturgist's class skills (and the key ability for each skill) are [[rang
 
 **Table: The Thaumaturgist**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                | Spells per Day                           |
-| ----- | ----------------- | --------- | -------- | --------- | ---------------------- | ---------------------------------------- |
-| 1st   | +0               | +0       | +0      | +2       | Improved ally          | +1 level of existing spellcasting class |
-| 2nd   | +1               | +0       | +0      | +3       | Augment Summoning      | +1 level of existing spellcasting class |
-| 3rd   | +1               | +1       | +1      | +3       | Extended summoning     | +1 level of existing spellcasting class |
-| 4th   | +2               | +1       | +1      | +4       | Contingent conjuration | +1 level of existing spellcasting class |
-| 5th   | +2               | +1       | +1      | +4       | Planar cohort          | +1 level of existing spellcasting class |
+| Level | Special                | Spells per Day                           |
+| ----- | ---------------------- | ---------------------------------------- |
+| 1st   | Improved ally          | +1 level of existing spellcasting class |
+| 2nd   | Augment Summoning      | +1 level of existing spellcasting class |
+| 3rd   | Extended summoning     | +1 level of existing spellcasting class |
+| 4th   | Contingent conjuration | +1 level of existing spellcasting class |
+| 5th   | Planar cohort          | +1 level of existing spellcasting class |
 
 ###### Class Features
 

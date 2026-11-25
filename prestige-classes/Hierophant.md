@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d8"
+bab: weak
+fort: good
+ref: poor
+will: good
 skill-points: "2 + Int modifier"
 based-on:
   - "[[fantasy srd 3.5/prestige-classes/Hierophant|Hierophant (3.5)]]"
@@ -16,6 +20,10 @@ tags: [rangoric, rangoric/class]
 ### Hierophant
 
 **Hit Die**: d8.
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Will, poor Reflex.
 
 ###### Requirements
 
@@ -35,13 +43,13 @@ The hierophant’s class skills (and the key ability for each skill) are [[rango
 
 **Table: The Hierophant**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special         |
-| ----- | ----------------- | --------- | -------- | --------- | --------------- |
-| 1st   | +0               | +2       | +0      | +2       | Special ability |
-| 2nd   | +1               | +3       | +0      | +3       | Special ability |
-| 3rd   | +1               | +3       | +1      | +3       | Special ability |
-| 4th   | +2               | +4       | +1      | +4       | Special ability |
-| 5th   | +2               | +4       | +1      | +4       | Special ability |
+| Level | Special         |
+| ----- | --------------- |
+| 1st   | Special ability |
+| 2nd   | Special ability |
+| 3rd   | Special ability |
+| 4th   | Special ability |
+| 5th   | Special ability |
 
 ###### Class Features
 

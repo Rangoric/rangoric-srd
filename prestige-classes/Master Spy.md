@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d8"
+bab: medium
+fort: poor
+ref: good
+will: good
 skill-points: "6 + Int modifier"
 based-on:
   - "[[path srd 3.5/classes/Master Spy (Class)|Master Spy (PF1)]]"
@@ -25,6 +29,10 @@ Bards and rogues, with their wide range of skills, are particularly well suited 
 
 **Hit Die**: d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Reflex and Will, poor Fortitude.
+
 ###### Requirements
 
 To qualify to become a master spy, a character must fulfill all the following criteria.
@@ -41,18 +49,18 @@ The master spy’s class skills (and the key ability for each skill) are [[rango
 
 **Table: The Master Spy**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                                 |
-| ----- | ----------------- | --------- | -------- | --------- | ------- |
-| 1st   | +0                | +0        | +1       | +1        | Art of deception, master of disguise, sneak attack +1d6 |
-| 2nd   | +1                | +1        | +1       | +1        | Glib lie, mask alignment                                |
-| 3rd   | +2                | +1        | +2       | +2        | Nonmagical aura 2/day, superficial knowledge            |
-| 4th   | +3                | +1        | +2       | +2        | Concealed thoughts, quick change, sneak attack +2d6     |
-| 5th   | +3                | +2        | +3       | +3        | Elude detection, slippery mind                          |
-| 6th   | +4                | +2        | +3       | +3        | Shift alignment                                         |
-| 7th   | +5                | +2        | +4       | +4        | Sneak attack +3d6                                       |
-| 8th   | +6                | +3        | +4       | +4        | Death attack, fool casting                              |
-| 9th   | +6                | +3        | +5       | +5        | Hidden mind                                             |
-| 10th  | +7                | +3        | +5       | +5        | Assumption, sneak attack +4d6                           |
+| Level | Special                                                 |
+| ----- | ------- |
+| 1st   | Art of deception, master of disguise, sneak attack +1d6 |
+| 2nd   | Glib lie, mask alignment                                |
+| 3rd   | Nonmagical aura 2/day, superficial knowledge            |
+| 4th   | Concealed thoughts, quick change, sneak attack +2d6     |
+| 5th   | Elude detection, slippery mind                          |
+| 6th   | Shift alignment                                         |
+| 7th   | Sneak attack +3d6                                       |
+| 8th   | Death attack, fool casting                              |
+| 9th   | Hidden mind                                             |
+| 10th  | Assumption, sneak attack +4d6                           |
 
 ###### Class Features
 

@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d6"
+bab: weak
+fort: good
+ref: poor
+will: poor
 skill-points: "2 + Int modifier"
 book: "Spells & Magic"
 based-on:
@@ -29,6 +33,10 @@ Shadeseers walk [[rangoric-srd/rules/path-of-shades/The Path of Shades|the Path 
 
 **Hit Die**: d6.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude, poor Reflex and Will.
+
 ###### Requirements
 
 To qualify to become a Shadeseer, a character must fulfill all the following criteria.
@@ -47,18 +55,18 @@ The Shadeseer’s class skills (and the key ability for each skill) are [[rangor
 
 **Table: The Shadeseer** ^table-the-shadeseer
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +2 | +0 | +0 | Enhanced Shadehand feat | — |
-| 2nd | +1 | +3 | +0 | +0 | — | +1 level of existing class |
-| 3rd | +1 | +3 | +1 | +1 | Enhanced Shadetongue feat, energy drain attack 1/day | — |
-| 4th | +2 | +4 | +1 | +1 | — | +1 level of existing class |
-| 5th | +2 | +4 | +1 | +1 | Enhanced Shadecall feat | — |
-| 6th | +3 | +5 | +2 | +2 | — | +1 level of existing class |
-| 7th | +3 | +5 | +2 | +2 | Energy drain attack 2/day | — |
-| 8th | +4 | +6 | +2 | +2 | — | +1 level of existing class |
-| 9th | +4 | +6 | +3 | +3 | Undead servitor | — |
-| 10th | +5 | +7 | +3 | +3 | — | +1 level of existing class |
+| Level | Special | Spells per Day |
+| --- | --- | --- |
+| 1st | Enhanced Shadehand feat | — |
+| 2nd | — | +1 level of existing class |
+| 3rd | Enhanced Shadetongue feat, energy drain attack 1/day | — |
+| 4th | — | +1 level of existing class |
+| 5th | Enhanced Shadecall feat | — |
+| 6th | — | +1 level of existing class |
+| 7th | Energy drain attack 2/day | — |
+| 8th | — | +1 level of existing class |
+| 9th | Undead servitor | — |
+| 10th | — | +1 level of existing class |
 
 ###### Class Features
 

@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d12"
+bab: full
+fort: good
+ref: poor
+will: good
 alignment: "Any lawful"
 skill-points: "2 + Int modifier"
 based-on:
@@ -27,6 +31,10 @@ Most stalwart defenders come from the ranks of fighters, often those desiring to
 
 **Hit Die**: d12.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Will, poor Reflex.
+
 ###### Requirements
 
 To qualify to become a defender, a character must fulfill all the following criteria.
@@ -43,18 +51,18 @@ The defender’s class skills (and the key ability for each skill) are [[rangori
 
 **Table: The Stalwart Defender**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | AC Bonus | Special                                      |
-| ----- | ----------------- | --------- | -------- | --------- | -------- | -------------------------------------------- |
-| 1st   | +1               | +2       | +0      | +2       | +1      | Defensive stance 1/day                       |
-| 2nd   | +2               | +3       | +0      | +3       | +1      | Uncanny dodge, defensive power |
-| 3rd   | +3               | +3       | +1      | +3       | +1      | Defensive stance 2/day                       |
-| 4th   | +4               | +4       | +1      | +4       | +2      | Trap sense +1, defensive power |
-| 5th   | +5               | +4       | +1      | +4       | +2      | Defensive stance 3/day                       |
-| 6th   | +6               | +5       | +2      | +5       | +2      | Damage reduction 3/–, defensive power, improved uncanny dodge |
-| 7th   | +7               | +5       | +2      | +5       | +3      | Defensive stance 4/day                       |
-| 8th   | +8               | +6       | +2      | +6       | +3      | Defensive power, mobile defense, trap sense +2 |
-| 9th   | +9               | +6       | +3      | +6       | +3      | Defensive stance 5/day                       |
-| 10th  | +10              | +7       | +3      | +7       | +4      | Damage reduction 6/–, defensive power, last word |
+| Level | AC Bonus | Special                                      |
+| ----- | -------- | -------------------------------------------- |
+| 1st   | +1      | Defensive stance 1/day                       |
+| 2nd   | +1      | Uncanny dodge, defensive power |
+| 3rd   | +1      | Defensive stance 2/day                       |
+| 4th   | +2      | Trap sense +1, defensive power |
+| 5th   | +2      | Defensive stance 3/day                       |
+| 6th   | +2      | Damage reduction 3/–, defensive power, improved uncanny dodge |
+| 7th   | +3      | Defensive stance 4/day                       |
+| 8th   | +3      | Defensive power, mobile defense, trap sense +2 |
+| 9th   | +3      | Defensive stance 5/day                       |
+| 10th  | +4      | Damage reduction 6/–, defensive power, last word |
 
 ###### Class Features
 

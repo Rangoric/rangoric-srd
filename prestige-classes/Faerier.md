@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d4"
+bab: full
+fort: poor
+ref: poor
+will: good
 skill-points: "4 + Int modifier"
 book: "Faeries"
 based-on:
@@ -23,6 +27,10 @@ Those who wander the land sometimes encounter wild faeries. Few, however, notice
 Almost all faeriers come from the ranks of bards, druids, and rangers. A few rogues, and even a scattering of barbarians, have devoted themselves to the study of faerie ways. However, clerics, sorcerers, and wizards generally disdain the primitive magic of the fey. Fighters, monks and paladins rarely exhibit any sensitivity toward the world of the faeries.
 
 **Hit Die**: d4.
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
 
 ###### Requirements
 
@@ -48,18 +56,18 @@ The faerier’s class skills (and the key ability for each skill) are [[rangoric
 
 **Table: The Faerier** ^table-the-faerier
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-| --- | --- | --- | --- | --- | --- |
-| 1st | +1 | +0 | +0 | +2 | Fey Sense, 1st Fey Art |
-| 2nd | +2 | +0 | +0 | +3 | Fey Friend |
-| 3rd | +3 | +1 | +1 | +3 | Detect Doorways, 2nd Fey Art |
-| 4th | +4 | +1 | +1 | +4 | Create Doorways and Backroad |
-| 5th | +5 | +1 | +1 | +4 | Fey Form, 3rd Fey Art |
-| 6th | +6 | +2 | +2 | +5 | 4th Fey Art |
-| 7th | +7 | +2 | +2 | +5 | Timeless Body |
-| 8th | +8 | +2 | +2 | +6 | 5th Fey Art |
-| 9th | +9 | +3 | +3 | +6 | True Fey Form |
-| 10th | +10 | +3 | +3 | +7 | Create Doorway and Sideroad, 6th Fey Art |
+| Level | Special |
+| --- | --- |
+| 1st | Fey Sense, 1st Fey Art |
+| 2nd | Fey Friend |
+| 3rd | Detect Doorways, 2nd Fey Art |
+| 4th | Create Doorways and Backroad |
+| 5th | Fey Form, 3rd Fey Art |
+| 6th | 4th Fey Art |
+| 7th | Timeless Body |
+| 8th | 5th Fey Art |
+| 9th | True Fey Form |
+| 10th | Create Doorway and Sideroad, 6th Fey Art |
 
 ###### Class Features
 

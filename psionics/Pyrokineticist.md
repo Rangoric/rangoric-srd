@@ -1,6 +1,10 @@
 ---
 srd-type: "overview"
 section: "Psionics"
+bab: medium
+fort: good
+ref: good
+will: poor
 based-on:
   - "[[fantasy srd 3.5/psionics/Pyrokineticist|Pyrokineticist (3.5)]]"
 status: draft
@@ -14,6 +18,10 @@ tags: [rangoric, rangoric/overview]
 ### Pyrokineticist
 
 Hit Die: d8.  
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Reflex, poor Will.
 
 ###### Requirements
 
@@ -37,18 +45,18 @@ Skill Points at Each Level: 2 + Int modifier.
 
 Table: The Pyrokineticist   
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                     |
-| ----- | ----------------- | --------- | -------- | --------- | --------------------------- |
-| 1st   | +0               | +2       | +2      | +0       | Fire lash                   |
-| 2nd   | +1               | +3       | +3      | +0       | Fire adaptation, hand afire |
-| 3rd   | +2               | +3       | +3      | +1       | Bolt of fire                |
-| 4th   | +3               | +4       | +4      | +1       | Weapon afire                |
-| 5th   | +3               | +4       | +4      | +1       | Nimbus                      |
-| 6th   | +4               | +5       | +5      | +2       | Firewalk                    |
-| 7th   | +5               | +5       | +5      | +2       | Fear no fire                |
-| 8th   | +6               | +6       | +6      | +2       | Greater weapon afire        |
-| 9th   | +6               | +6       | +6      | +3       | Heat death                  |
-| 10th  | +7               | +7       | +7      | +3       | Conflagration               |
+| Level | Special                     |
+| ----- | --------------------------- |
+| 1st   | Fire lash                   |
+| 2nd   | Fire adaptation, hand afire |
+| 3rd   | Bolt of fire                |
+| 4th   | Weapon afire                |
+| 5th   | Nimbus                      |
+| 6th   | Firewalk                    |
+| 7th   | Fear no fire                |
+| 8th   | Greater weapon afire        |
+| 9th   | Heat death                  |
+| 10th  | Conflagration               |
 
 ###### Class Features
 

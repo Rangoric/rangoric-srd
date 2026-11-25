@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d6"
+bab: weak
+fort: good
+ref: good
+will: good
 skill-points: "4 + Int modifier"
 book: "Alchemy & Herbalists"
 based-on:
@@ -27,6 +31,10 @@ Red alchemists practise [[rangoric-srd/rules/alchemy-and-herbalism/Alchemy|alche
 
 **Hit Die**: d6.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: All good.
+
 ###### Requirements
 
 To qualify to become a red alchemist, a character must fulfill all the following criteria.
@@ -45,18 +53,18 @@ The red alchemist’s class skills (and the key ability for each skill) are [[ra
 
 **Table: The Red Alchemist** ^table-the-red-alchemist
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Bonus Feat | BI | CC | PD | T | U | CA | Spells per Day |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +0 | +2 | [[rangoric-srd/feats/Craft Chymicals|Craft Chymicals]] | +0 | +3 | +0 | +0 | +0 | +0 | +1 level of existing class |
-| 2nd | +1 | +0 | +0 | +3 | [[rangoric-srd/feats/Craft Powders & Dusts|Craft Powders & Dusts]] | +0 | +3 | +3 | +0 | +0 | +0 | +1 level of existing class |
-| 3rd | +1 | +1 | +1 | +3 | [[rangoric-srd/feats/Craft Toxins|Craft Toxins]] | +0 | +4 | +3 | +3 | +0 | +0 | +1 level of existing class |
-| 4th | +2 | +1 | +1 | +4 | [[rangoric-srd/feats/Brew Ingestibles|Brew Ingestibles]] | +3 | +4 | +4 | +3 | +0 | +0 | +1 level of existing class |
-| 5th | +2 | +2 | +2 | +4 | [[rangoric-srd/feats/Craft Unguents|Craft Unguents]] | +3 | +5 | +4 | +4 | +3 | +0 | +1 level of existing class |
-| 6th | +3 | +2 | +2 | +5 | — | +4 | +5 | +5 | +4 | +3 | +0 | +1 level of existing class |
-| 7th | +3 | +3 | +3 | +5 | [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]] | +4 | +6 | +5 | +5 | +4 | +0 | +1 level of existing class |
-| 8th | +4 | +3 | +3 | +6 | [[rangoric-srd/feats/Create Alchana|Create Alchana]] | +5 | +6 | +6 | +5 | +4 | +3 | +1 level of existing class |
-| 9th | +4 | +4 | +4 | +6 | [[rangoric-srd/feats/Perfect Materials|Perfect Materials]] | +5 | +7 | +6 | +6 | +5 | +3 | +1 level of existing class |
-| 10th | +5 | +4 | +4 | +7 | [[rangoric-srd/feats/Create Greater Alchana|Create Greater Alchana]] | +6 | +7 | +7 | +6 | +5 | +4 | +1 level of existing class |
+| Level | Bonus Feat | BI | CC | PD | T | U | CA | Spells per Day |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st | [[rangoric-srd/feats/Craft Chymicals\|Craft Chymicals]] | +0 | +3 | +0 | +0 | +0 | +0 | +1 level of existing class |
+| 2nd | [[rangoric-srd/feats/Craft Powders & Dusts\|Craft Powders & Dusts]] | +0 | +3 | +3 | +0 | +0 | +0 | +1 level of existing class |
+| 3rd | [[rangoric-srd/feats/Craft Toxins\|Craft Toxins]] | +0 | +4 | +3 | +3 | +0 | +0 | +1 level of existing class |
+| 4th | [[rangoric-srd/feats/Brew Ingestibles\|Brew Ingestibles]] | +3 | +4 | +4 | +3 | +0 | +0 | +1 level of existing class |
+| 5th | [[rangoric-srd/feats/Craft Unguents\|Craft Unguents]] | +3 | +5 | +4 | +4 | +3 | +0 | +1 level of existing class |
+| 6th | — | +4 | +5 | +5 | +4 | +3 | +0 | +1 level of existing class |
+| 7th | [[rangoric-srd/feats/Craft Wondrous Item\|Craft Wondrous Item]] | +4 | +6 | +5 | +5 | +4 | +0 | +1 level of existing class |
+| 8th | [[rangoric-srd/feats/Create Alchana\|Create Alchana]] | +5 | +6 | +6 | +5 | +4 | +3 | +1 level of existing class |
+| 9th | [[rangoric-srd/feats/Perfect Materials\|Perfect Materials]] | +5 | +7 | +6 | +6 | +5 | +3 | +1 level of existing class |
+| 10th | [[rangoric-srd/feats/Create Greater Alchana\|Create Greater Alchana]] | +6 | +7 | +7 | +6 | +5 | +4 | +1 level of existing class |
 
 BI: Brew Ingestibles; CC: Craft Chymicals; PD: Craft Powders & Dusts; T: Craft Toxins; U: Craft Unguents; CA: Create Alchana (the item creation bonuses).
 
