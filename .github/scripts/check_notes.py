@@ -15,7 +15,8 @@
     ("is not" too; any other "when ..." reads as no). Values is blank (anything), allowed words in backticks
     (`*` matches any text), `number`, `text`, `date`, `link to <folder>`, `list of ...`, or "list including
     `a` and `b`". A Values cell with other words in it is for Sweep to read, not checked here.
-    "Headings, in order:" then a numbered list of headings (`# (name)` is the note's own name), checked in
+    "Headings, in order:" then a numbered list of headings (`# (name)` is the note's own name, or that name less
+    a trailing "(...)" that only keeps file names unique), checked in
     order; one not listed is allowed unless the list ends with "(no others)".
   A folder whose Note Rules has a kind table holds every note in it to one of its kinds.
 - Marks: a note marked `sweep: failing` lists its problems in `sweep-issues`; a listed problem is a warning, one
@@ -315,10 +316,14 @@ def check_headings(rel, body, r, out):
     name = rel.rsplit('/', 1)[-1][:-3]
     have = [(len(h.group(1)), h.group(2).strip()) for h in map(HEADING.match, strip_code(body).split('\n')) if h]
 
+    # `# (name)` is the note's name, or the name without a trailing "(...)" that only keeps file names unique, as
+    # "Stabilize (Action)" titled "# Stabilize" (Wilson, Note Rules 4.p2, 2026-11-25)
+    names = {name, re.sub(r'\s*\([^()]*\)$', '', name)}
+
     def same(w, h):
         lvl = len(w) - len(w.lstrip('#'))
         text = w[lvl:].strip()
-        return h[0] == lvl and h[1] == (name if text == '(name)' else text)
+        return h[0] == lvl and (h[1] in names if text == '(name)' else h[1] == text)
 
     i = 0
     for w in want:
