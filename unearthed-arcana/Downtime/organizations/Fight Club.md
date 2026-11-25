@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/downtime-organization]
 # Fight Club
 
 - **Create**: 5 Goods, 7 Influence, 10 Labor (510 gp)
-- **Teams**: 1 Driver, 1 Guards, 1 Laborers, 1 Lackeys, 1 Scofflaws
+- **Teams**: 1 [[rangoric-srd/unearthed-arcana/Downtime/teams/Driver (Downtime)|Driver]], 1 [[rangoric-srd/unearthed-arcana/Downtime/teams/Guards|Guards]], 1 [[rangoric-srd/unearthed-arcana/Downtime/teams/Laborers|Laborers]], 1 [[rangoric-srd/unearthed-arcana/Downtime/teams/Lackeys|Lackeys]], 1 [[rangoric-srd/unearthed-arcana/Downtime/teams/Scofflaws|Scofflaws]]
 
 A possibly illegal association of boxing aficionados.

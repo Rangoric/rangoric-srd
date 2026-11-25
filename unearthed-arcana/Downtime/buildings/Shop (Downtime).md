@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/downtime-building]
 # Shop
 
 - **Create**: 14 Goods, 1 Influence, 12 Labor (550 gp)
-- **Rooms**: 1 Lavatory, 1 Office, 1 Storage, 1 Storefront
+- **Rooms**: 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Lavatory|Lavatory]], 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Office|Office]], 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Storage|Storage]], 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Storefront|Storefront]]
 
 A general store.

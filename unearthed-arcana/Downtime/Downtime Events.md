@@ -702,105 +702,105 @@ Unlike with buildings, there is no generic organization event table.
 
 | Room/Team | Create |
 | --- | --- |
-| Acolyte | 2 Goods, 2 Influence, 2 Labor, 3 Magic (440 gp) |
-| Alchemy Lab | 8 Goods, 1 Influence, 5 Labor, 1 Magic (390 gp) |
-| Altar | 2 Goods, 1 Influence, 2 Labor, 1 Magic (210 gp) |
-| Animal Pen | 6 Goods, 1 Influence, 5 Labor (250 gp) |
-| Apprentice | 2 Goods, 2 Influence, 1 Labor, 4 Magic (520 gp) |
-| Archers | 4 Goods, 3 Influence, 7 Labor (310 gp) |
-| Armory | 9 Goods, 3 Influence, 6 Labor (390 gp) |
-| Artisan's Workshop | 9 Goods, 9 Labor (360 gp) |
-| Auditorium | 19 Goods, 1 Influence, 25 Labor (910 gp) |
-| Ballroom | 19 Goods, 19 Labor (760 gp) |
-| Bar | 6 Goods, 1 Influence, 5 Labor (250 gp) |
-| Bath | 3 Goods, 1 Influence, 2 Labor (130 gp) |
-| Battle Ring | 18 Goods, 4 Influence, 16 Labor (800 gp) |
-| Bedroom | 8 Goods, 7 Labor (300 gp) |
-| Bell Tower | 11 Goods, 3 Influence, 7 Labor (450 gp) |
-| Book Repository | 8 Goods, 2 Influence, 7 Labor, 1 Magic (460 gp) |
-| Brewery | 9 Goods, 2 Influence, 7 Labor (380 gp) |
-| Bunks | 7 Goods, 4 Influence, 7 Labor (400 gp) |
-| Bureaucrats | 2 Goods, 4 Influence, 2 Labor (200 gp) |
-| Burial Ground | 4 Goods, 3 Influence, 4 Labor, 1 Magic (350 gp) |
-| Cavalry | 8 Goods, 3 Influence, 8 Labor (410 gp) |
-| Cavalry Archers | 9 Goods, 3 Influence, 10 Labor (470 gp) |
-| Cell | 5 Goods, 4 Labor (180 gp) |
-| Ceremonial Room | 16 Goods, 2 Influence, 15 Labor, 5 Magic (1,180 gp) |
-| Classroom | 6 Goods, 1 Influence, 5 Labor (250 gp) |
-| Clockwork Shop | 9 Goods, 9 Labor (360 gp) |
-| Common Room | 7 Goods, 8 Labor (300 gp) |
-| Confessional | 2 Goods, 3 Labor (100 gp) |
-| Courtyard | 4 Goods, 5 Labor (180 gp) |
-| Craftspeople | 3 Goods, 2 Influence, 4 Labor (200 gp) |
-| Crypt | 5 Goods, 3 Influence, 5 Labor, 2 Magic (490 gp) |
-| Cutpurses | 3 Influence, 1 Labor (110 gp) |
-| Defensive Wall | 5 Goods, 2 Influence, 5 Labor (260 gp) |
-| Dock | 7 Goods, 2 Influence, 6 Labor (320 gp) |
-| Dojo | 7 Goods, 1 Influence, 7 Labor (310 gp) |
-| Drawbridge | 8 Goods, 2 Influence, 5 Labor (320 gp) |
-| Driver | 2 Goods, 1 Influence, 1 Labor (90 gp) |
-| Elite Archers | 5 Goods, 4 Influence, 8 Labor (380 gp) |
-| Elite Guards | 3 Goods, 1 Influence, 4 Labor (170 gp) |
-| Elite Soldiers | 5 Goods, 3 Influence, 7 Labor (330 gp) |
-| Escape Route | 9 Goods, 9 Labor (360 gp) |
-| False Front | 4 Goods, 1 Influence, 4 Labor (190 gp) |
-| Farmland | 15 Goods, 15 Labor (600 gp) |
-| Forge | 9 Goods, 1 Influence, 8 Labor (370 gp) |
-| Fortification | 8 Goods, 7 Labor (300 gp) |
-| Furnishings | 9 Goods, 6 Labor (300 gp) |
-| Game Room | 8 Goods, 7 Labor (300 gp) |
-| Garden | 5 Goods, 4 Labor (180 gp) |
-| Gatehouse | 15 Goods, 3 Influence, 12 Labor (630 gp) |
-| Gauntlet | 4 Goods, 4 Labor (160 gp) |
-| Greenhouse | 8 Goods, 7 Labor (300 gp) |
-| Guard Post | 7 Goods, 2 Influence, 6 Labor (320 gp) |
-| Guards | 2 Goods, 3 Labor (100 gp) |
-| Habitat | 18 Goods, 3 Influence, 17 Labor (790 gp) |
-| Hatchery | 4 Goods, 1 Influence, 3 Labor (170 gp) |
-| Infirmary | 6 Goods, 1 Influence, 6 Labor, 1 Magic (370 gp) |
-| Kitchen | 4 Goods, 4 Labor (160 gp) |
-| Laborers | 1 Influence, 2 Labor (70 gp) |
-| Labyrinth | 15 Goods, 15 Labor (370 gp) |
-| Lackeys | 1 Goods, 2 Influence, 2 Labor (120 gp) |
-| Laundry | 3 Goods, 3 Labor (120 gp) |
-| Lavatory | 3 Goods, 3 Labor (120 gp) |
-| Leather Workshop | 7 Goods, 1 Influence, 7 Labor (310 gp) |
-| Lodging | 10 Goods, 1 Influence, 10 Labor (430 gp) |
-| Mage | 3 Goods, 2 Influence, 2 Labor, 8 Magic (960 gp) |
-| Magical Repository | 9 Goods, 3 Influence, 8 Labor, 3 Magic (730 gp) |
-| Mill Room | 8 Goods, 7 Labor (300 gp) |
-| Nursery | 6 Goods, 1 Influence, 5 Labor (250 gp) |
-| Observation Dome | 8 Goods, 9 Labor, 1 Magic (440 gp) |
-| Office | 3 Goods, 3 Labor (120 gp) |
-| Pit | 1 Goods, 1 Labor (40 gp) |
-| Priest | 3 Goods, 3 Influence, 3 Labor, 6 Magic (810 gp) |
-| Printer | 9 Goods, 2 Influence, 7 Labor (380 gp) |
-| Reliquary | 4 Goods, 4 Labor, 1 Magic (260 gp) |
-| Robbers | 1 Goods, 4 Influence, 3 Labor (200 gp) |
-| Sage | 5 Goods, 2 Influence, 2 Labor (200 gp) |
-| Sailors | 1 Goods, 1 Influence, 2 Labor (90 gp) |
-| Sanctum | 2 Goods, 1 Influence, 1 Labor, 1 Magic (190 gp) |
-| Sauna | 3 Goods, 3 Labor (120 gp) |
-| Scofflaws | 3 Influence, 2 Labor (130 gp) |
-| Scriptorium | 7 Goods, 2 Influence, 6 Labor (320 gp) |
-| Scrying Room | 6 Goods, 1 Influence, 5 Labor, 3 Magic (550 gp) |
-| Secret Room | 5 Goods, 6 Labor (220 gp) |
-| Sewer Access | 2 Goods, 1 Influence, 2 Labor (110 gp) |
-| Sewing Room | 8 Goods, 7 Labor (300 gp) |
-| Shack | 3 Goods, 2 Labor (100 gp) |
-| Sitting Room | 12 Goods, 12 Labor (480 gp) |
-| Soldiers | 3 Goods, 2 Influence, 5 Labor (220 gp) |
-| Sports Field | 17 Goods, 3 Influence, 18 Labor (790 gp) |
-| Stall | 6 Goods, 1 Influence, 5 Labor (250 gp) |
-| Statue | 1 Goods, 2 Labor (60 gp) |
-| Storage | 3 Goods, 3 Labor (120 gp) |
-| Storefront | 5 Goods, 1 Influence, 3 Labor (190 gp) |
-| Summoning Chamber | 11 Goods, 4 Influence, 10 Labor, 5 Magic (1,040 gp) |
-| Throne Room | 25 Goods, 5 Influence, 25 Labor, 5 Magic (1,650 gp) |
-| Tollbooth | 2 Goods, 1 Influence, 2 Labor (110 gp) |
-| Torture Chamber | 7 Goods, 3 Influence, 5 Labor (330 gp) |
-| Trap | Special |
-| Trophy Room | 6 Goods, 1 Influence, 5 Labor (250 gp) |
-| Vault | 8 Goods, 7 Labor (300 gp) |
-| War Room | 8 Goods, 7 Labor (300 gp) |
-| Workstation | 8 Goods, 7 Labor (300 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Acolyte (Downtime)\|Acolyte]] | 2 Goods, 2 Influence, 2 Labor, 3 Magic (440 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Alchemy Lab\|Alchemy Lab]] | 8 Goods, 1 Influence, 5 Labor, 1 Magic (390 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Altar\|Altar]] | 2 Goods, 1 Influence, 2 Labor, 1 Magic (210 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Animal Pen\|Animal Pen]] | 6 Goods, 1 Influence, 5 Labor (250 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Apprentice\|Apprentice]] | 2 Goods, 2 Influence, 1 Labor, 4 Magic (520 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Archers\|Archers]] | 4 Goods, 3 Influence, 7 Labor (310 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Armory\|Armory]] | 9 Goods, 3 Influence, 6 Labor (390 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Artisan's Workshop\|Artisan's Workshop]] | 9 Goods, 9 Labor (360 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Auditorium\|Auditorium]] | 19 Goods, 1 Influence, 25 Labor (910 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Ballroom\|Ballroom]] | 19 Goods, 19 Labor (760 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Bar\|Bar]] | 6 Goods, 1 Influence, 5 Labor (250 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Bath (Downtime)\|Bath]] | 3 Goods, 1 Influence, 2 Labor (130 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Battle Ring\|Battle Ring]] | 18 Goods, 4 Influence, 16 Labor (800 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Bedroom\|Bedroom]] | 8 Goods, 7 Labor (300 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Bell Tower\|Bell Tower]] | 11 Goods, 3 Influence, 7 Labor (450 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Book Repository\|Book Repository]] | 8 Goods, 2 Influence, 7 Labor, 1 Magic (460 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Brewery (Downtime)\|Brewery]] | 9 Goods, 2 Influence, 7 Labor (380 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Bunks\|Bunks]] | 7 Goods, 4 Influence, 7 Labor (400 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Bureaucrats\|Bureaucrats]] | 2 Goods, 4 Influence, 2 Labor (200 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Burial Ground\|Burial Ground]] | 4 Goods, 3 Influence, 4 Labor, 1 Magic (350 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Cavalry (Downtime)\|Cavalry]] | 8 Goods, 3 Influence, 8 Labor (410 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Cavalry Archers\|Cavalry Archers]] | 9 Goods, 3 Influence, 10 Labor (470 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Cell\|Cell]] | 5 Goods, 4 Labor (180 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Ceremonial Room\|Ceremonial Room]] | 16 Goods, 2 Influence, 15 Labor, 5 Magic (1,180 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Classroom\|Classroom]] | 6 Goods, 1 Influence, 5 Labor (250 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Clockwork Shop\|Clockwork Shop]] | 9 Goods, 9 Labor (360 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Common Room\|Common Room]] | 7 Goods, 8 Labor (300 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Confessional\|Confessional]] | 2 Goods, 3 Labor (100 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Courtyard\|Courtyard]] | 4 Goods, 5 Labor (180 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Craftspeople\|Craftspeople]] | 3 Goods, 2 Influence, 4 Labor (200 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Crypt\|Crypt]] | 5 Goods, 3 Influence, 5 Labor, 2 Magic (490 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Cutpurses\|Cutpurses]] | 3 Influence, 1 Labor (110 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Defensive Wall\|Defensive Wall]] | 5 Goods, 2 Influence, 5 Labor (260 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Dock\|Dock]] | 7 Goods, 2 Influence, 6 Labor (320 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Dojo\|Dojo]] | 7 Goods, 1 Influence, 7 Labor (310 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Drawbridge\|Drawbridge]] | 8 Goods, 2 Influence, 5 Labor (320 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Driver (Downtime)\|Driver]] | 2 Goods, 1 Influence, 1 Labor (90 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Elite Archers\|Elite Archers]] | 5 Goods, 4 Influence, 8 Labor (380 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Elite Guards\|Elite Guards]] | 3 Goods, 1 Influence, 4 Labor (170 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Elite Soldiers\|Elite Soldiers]] | 5 Goods, 3 Influence, 7 Labor (330 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Escape Route (Downtime)\|Escape Route]] | 9 Goods, 9 Labor (360 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/False Front\|False Front]] | 4 Goods, 1 Influence, 4 Labor (190 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Farmland\|Farmland]] | 15 Goods, 15 Labor (600 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Forge\|Forge]] | 9 Goods, 1 Influence, 8 Labor (370 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Fortification (Downtime)\|Fortification]] | 8 Goods, 7 Labor (300 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Furnishings\|Furnishings]] | 9 Goods, 6 Labor (300 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Game Room\|Game Room]] | 8 Goods, 7 Labor (300 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Garden\|Garden]] | 5 Goods, 4 Labor (180 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Gatehouse\|Gatehouse]] | 15 Goods, 3 Influence, 12 Labor (630 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Gauntlet (Downtime)\|Gauntlet]] | 4 Goods, 4 Labor (160 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Greenhouse\|Greenhouse]] | 8 Goods, 7 Labor (300 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Guard Post\|Guard Post]] | 7 Goods, 2 Influence, 6 Labor (320 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Guards\|Guards]] | 2 Goods, 3 Labor (100 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Habitat\|Habitat]] | 18 Goods, 3 Influence, 17 Labor (790 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Hatchery\|Hatchery]] | 4 Goods, 1 Influence, 3 Labor (170 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Infirmary\|Infirmary]] | 6 Goods, 1 Influence, 6 Labor, 1 Magic (370 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Kitchen\|Kitchen]] | 4 Goods, 4 Labor (160 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Laborers\|Laborers]] | 1 Influence, 2 Labor (70 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Labyrinth\|Labyrinth]] | 15 Goods, 15 Labor (370 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Lackeys\|Lackeys]] | 1 Goods, 2 Influence, 2 Labor (120 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Laundry (Downtime)\|Laundry]] | 3 Goods, 3 Labor (120 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Lavatory\|Lavatory]] | 3 Goods, 3 Labor (120 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Leather Workshop\|Leather Workshop]] | 7 Goods, 1 Influence, 7 Labor (310 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Lodging\|Lodging]] | 10 Goods, 1 Influence, 10 Labor (430 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Mage\|Mage]] | 3 Goods, 2 Influence, 2 Labor, 8 Magic (960 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Magical Repository\|Magical Repository]] | 9 Goods, 3 Influence, 8 Labor, 3 Magic (730 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Mill Room\|Mill Room]] | 8 Goods, 7 Labor (300 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Nursery\|Nursery]] | 6 Goods, 1 Influence, 5 Labor (250 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Observation Dome\|Observation Dome]] | 8 Goods, 9 Labor, 1 Magic (440 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Office\|Office]] | 3 Goods, 3 Labor (120 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Pit\|Pit]] | 1 Goods, 1 Labor (40 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Priest (Downtime)\|Priest]] | 3 Goods, 3 Influence, 3 Labor, 6 Magic (810 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Printer\|Printer]] | 9 Goods, 2 Influence, 7 Labor (380 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Reliquary\|Reliquary]] | 4 Goods, 4 Labor, 1 Magic (260 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Robbers\|Robbers]] | 1 Goods, 4 Influence, 3 Labor (200 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Sage (Downtime)\|Sage]] | 5 Goods, 2 Influence, 2 Labor (200 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Sailors\|Sailors]] | 1 Goods, 1 Influence, 2 Labor (90 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Sanctum\|Sanctum]] | 2 Goods, 1 Influence, 1 Labor, 1 Magic (190 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Sauna\|Sauna]] | 3 Goods, 3 Labor (120 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Scofflaws\|Scofflaws]] | 3 Influence, 2 Labor (130 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Scriptorium\|Scriptorium]] | 7 Goods, 2 Influence, 6 Labor (320 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Scrying Room\|Scrying Room]] | 6 Goods, 1 Influence, 5 Labor, 3 Magic (550 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Secret Room\|Secret Room]] | 5 Goods, 6 Labor (220 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Sewer Access\|Sewer Access]] | 2 Goods, 1 Influence, 2 Labor (110 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Sewing Room\|Sewing Room]] | 8 Goods, 7 Labor (300 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Shack\|Shack]] | 3 Goods, 2 Labor (100 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Sitting Room\|Sitting Room]] | 12 Goods, 12 Labor (480 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/teams/Soldiers\|Soldiers]] | 3 Goods, 2 Influence, 5 Labor (220 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Sports Field\|Sports Field]] | 17 Goods, 3 Influence, 18 Labor (790 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Stall\|Stall]] | 6 Goods, 1 Influence, 5 Labor (250 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Statue (Downtime)\|Statue]] | 1 Goods, 2 Labor (60 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Storage\|Storage]] | 3 Goods, 3 Labor (120 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Storefront\|Storefront]] | 5 Goods, 1 Influence, 3 Labor (190 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Summoning Chamber\|Summoning Chamber]] | 11 Goods, 4 Influence, 10 Labor, 5 Magic (1,040 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Throne Room\|Throne Room]] | 25 Goods, 5 Influence, 25 Labor, 5 Magic (1,650 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Tollbooth\|Tollbooth]] | 2 Goods, 1 Influence, 2 Labor (110 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Torture Chamber\|Torture Chamber]] | 7 Goods, 3 Influence, 5 Labor (330 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Trap\|Trap]] | Special |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Trophy Room\|Trophy Room]] | 6 Goods, 1 Influence, 5 Labor (250 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Vault (Downtime)\|Vault]] | 8 Goods, 7 Labor (300 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/War Room\|War Room]] | 8 Goods, 7 Labor (300 gp) |
+| [[rangoric-srd/unearthed-arcana/Downtime/rooms/Workstation\|Workstation]] | 8 Goods, 7 Labor (300 gp) |

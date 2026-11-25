@@ -1,0 +1,26 @@
+---
+srd-type: "downtime-room"
+section: "Unearthed Arcana"
+upgrade-from: "Gauntlet, Guard Post"
+resource-create: "15 Goods, 3 Influence, 12 Labor (630 gp)"
+benefit: "defenders get bonus on initiative and Perception checks"
+time: "40 days"
+size: "8-12 squares"
+book: "Ultimate Campaign"
+based-on:
+  - "[[path srd 3.5/downtime/Gatehouse|Gatehouse (PF1 Ultimate Campaign)]]"
+status: draft
+change: new
+pi-review: 2026-11-24
+tags: [rangoric, rangoric/downtime-room]
+---
+
+# Gatehouse
+
+- **Upgrade from**: [[rangoric-srd/unearthed-arcana/Downtime/rooms/Gauntlet (Downtime)|Gauntlet]], [[rangoric-srd/unearthed-arcana/Downtime/rooms/Guard Post|Guard Post]]
+- **Create**: 15 Goods, 3 Influence, 12 Labor (630 gp)
+- **Benefit**: defenders get bonus on initiative and [[rangoric-srd/skills/Perception|Perception]] checks
+- **Time**: 40 days
+- **Size**: 8-12 squares
+
+This defensive structure prevents access to a building. It is normally arranged so defenders have a clear line of sight to all room entrances or a clear view of all approaches to the building. It includes a strong wooden door with a good lock. You can improve this to an iron door for 500 gp. You can add a wooden portcullis for 500 gp or an iron portcullis for 1,000 gp. For an additional 80 gp, you can also count this room as a Gauntlet, allowing defenders to fall back and trap intruders here. You can construct this room in a tower layout (at no additional cost), which includes a second story that also counts as a Gatehouse. The listed price includes the cost of having unskilled employees as guards (1st-level commoners or experts with uniforms, but no armor or weapons). If the building has an Armory, these employees are armed and armored, but still mostly for show. If you want trained guards who can defend against dangerous intruders, hire professional guards or recruit a team of Guards or Soldiers. You can use a Gatehouse as a Tollbooth, which provides the same Earnings (gp or Goods +4). Any defender using the Gatehouse's defenses gains a +1 bonus on initiative checks and on [[rangoric-srd/skills/Perception|Perception]] checks against intruders at the Gatehouse.

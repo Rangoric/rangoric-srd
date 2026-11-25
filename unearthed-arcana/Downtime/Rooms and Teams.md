@@ -128,84 +128,84 @@ Instead of moving an entire organization, you can move just some of the teams wi
 
 You can use the following rooms to construct buildings.
 
-- Alchemy Lab
-- Altar
-- Animal Pen
-- Armory
-- Artisan's Workshop
-- Auditorium
-- Ballroom
-- Bar
-- Bath (Downtime)
-- Battle Ring
-- Bedroom
-- Bell Tower
-- Book Repository
-- Brewery (Downtime)
-- Bunks
-- Burial Ground
-- Cell
-- Ceremonial Room
-- Classroom
-- Clockwork Shop
-- Common Room
-- Confessional
-- Courtyard
-- Crypt
-- Defensive Wall
-- Dock
-- Dojo
-- Drawbridge
-- Escape Route (Downtime)
-- False Front
-- Farmland
-- Forge
-- Game Room
-- Garden
-- Gatehouse
-- Gauntlet (Downtime)
-- Greenhouse
-- Guard Post
-- Habitat
-- Hatchery
-- Infirmary
-- Kitchen
-- Labyrinth
-- Laundry (Downtime)
-- Lavatory
-- Leather Workshop
-- Lodging
-- Magical Repository
-- Mill Room
-- Nursery
-- Observation Dome
-- Office
-- Pit
-- Printer
-- Reliquary
-- Sanctum
-- Sauna
-- Scriptorium
-- Scrying Room
-- Secret Room
-- Sewer Access
-- Sewing Room
-- Shack
-- Sitting Room
-- Sports Field
-- Stall
-- Statue (Downtime)
-- Storage
-- Storefront
-- Summoning Chamber
-- Throne Room
-- Tollbooth
-- Torture Chamber
-- Trap
-- Trophy Room
-- Vault
-- War Room
-- Workstation
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Alchemy Lab|Alchemy Lab]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Altar|Altar]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Animal Pen|Animal Pen]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Armory|Armory]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Artisan's Workshop|Artisan's Workshop]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Auditorium|Auditorium]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Ballroom|Ballroom]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Bar|Bar]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Bath (Downtime)|Bath (Downtime)]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Battle Ring|Battle Ring]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Bedroom|Bedroom]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Bell Tower|Bell Tower]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Book Repository|Book Repository]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Brewery (Downtime)|Brewery (Downtime)]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Bunks|Bunks]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Burial Ground|Burial Ground]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Cell|Cell]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Ceremonial Room|Ceremonial Room]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Classroom|Classroom]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Clockwork Shop|Clockwork Shop]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Common Room|Common Room]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Confessional|Confessional]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Courtyard|Courtyard]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Crypt|Crypt]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Defensive Wall|Defensive Wall]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Dock|Dock]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Dojo|Dojo]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Drawbridge|Drawbridge]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Escape Route (Downtime)|Escape Route (Downtime)]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/False Front|False Front]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Farmland|Farmland]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Forge|Forge]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Game Room|Game Room]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Garden|Garden]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Gatehouse|Gatehouse]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Gauntlet (Downtime)|Gauntlet (Downtime)]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Greenhouse|Greenhouse]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Guard Post|Guard Post]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Habitat|Habitat]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Hatchery|Hatchery]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Infirmary|Infirmary]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Kitchen|Kitchen]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Labyrinth|Labyrinth]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Laundry (Downtime)|Laundry (Downtime)]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Lavatory|Lavatory]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Leather Workshop|Leather Workshop]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Lodging|Lodging]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Magical Repository|Magical Repository]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Mill Room|Mill Room]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Nursery|Nursery]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Observation Dome|Observation Dome]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Office|Office]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Pit|Pit]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Printer|Printer]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Reliquary|Reliquary]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Sanctum|Sanctum]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Sauna|Sauna]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Scriptorium|Scriptorium]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Scrying Room|Scrying Room]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Secret Room|Secret Room]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Sewer Access|Sewer Access]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Sewing Room|Sewing Room]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Shack|Shack]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Sitting Room|Sitting Room]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Sports Field|Sports Field]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Stall|Stall]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Statue (Downtime)|Statue (Downtime)]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Storage|Storage]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Storefront|Storefront]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Summoning Chamber|Summoning Chamber]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Throne Room|Throne Room]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Tollbooth|Tollbooth]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Torture Chamber|Torture Chamber]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Trap|Trap]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Trophy Room|Trophy Room]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Vault (Downtime)|Vault]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/War Room|War Room]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Workstation|Workstation]]
 
 ### Room Augmentations
 
@@ -213,33 +213,33 @@ Augmentations modify a room to be more productive, durable, or useful. Augmentat
 
 You can put more than one augmentation in a room, as long as they aren't the same augmentation.
 
-- Fortification
-- Furnishings
-- Trap
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Fortification (Downtime)|Fortification]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Furnishings|Furnishings]]
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Trap|Trap]]
 
 ### Teams
 
 You can recruit the following teams and combine them to create a variety of organizations.
 
-- Acolyte (Downtime)
-- Apprentice
-- Archers
-- Bureaucrats
-- Cavalry (Downtime)
-- Cavalry Archers
-- Craftspeople
-- Cutpurses
-- Driver (Downtime)
-- Elite Archers
-- Elite Guards
-- Elite Soldiers
-- Guards
-- Laborers
-- Lackeys
-- Mage
-- Priest (Downtime)
-- Robbers
-- Sage (Downtime)
-- Sailors
-- Scofflaws
-- Soldiers
+- [[rangoric-srd/unearthed-arcana/Downtime/teams/Acolyte (Downtime)|Acolyte (Downtime)]]
+- [[rangoric-srd/unearthed-arcana/Downtime/teams/Apprentice|Apprentice]]
+- [[rangoric-srd/unearthed-arcana/Downtime/teams/Archers|Archers]]
+- [[rangoric-srd/unearthed-arcana/Downtime/teams/Bureaucrats|Bureaucrats]]
+- [[rangoric-srd/unearthed-arcana/Downtime/teams/Cavalry (Downtime)|Cavalry (Downtime)]]
+- [[rangoric-srd/unearthed-arcana/Downtime/teams/Cavalry Archers|Cavalry Archers]]
+- [[rangoric-srd/unearthed-arcana/Downtime/teams/Craftspeople|Craftspeople]]
+- [[rangoric-srd/unearthed-arcana/Downtime/teams/Cutpurses|Cutpurses]]
+- [[rangoric-srd/unearthed-arcana/Downtime/teams/Driver (Downtime)|Driver (Downtime)]]
+- [[rangoric-srd/unearthed-arcana/Downtime/teams/Elite Archers|Elite Archers]]
+- [[rangoric-srd/unearthed-arcana/Downtime/teams/Elite Guards|Elite Guards]]
+- [[rangoric-srd/unearthed-arcana/Downtime/teams/Elite Soldiers|Elite Soldiers]]
+- [[rangoric-srd/unearthed-arcana/Downtime/teams/Guards|Guards]]
+- [[rangoric-srd/unearthed-arcana/Downtime/teams/Laborers|Laborers]]
+- [[rangoric-srd/unearthed-arcana/Downtime/teams/Lackeys|Lackeys]]
+- [[rangoric-srd/unearthed-arcana/Downtime/teams/Mage|Mage]]
+- [[rangoric-srd/unearthed-arcana/Downtime/teams/Priest (Downtime)|Priest (Downtime)]]
+- [[rangoric-srd/unearthed-arcana/Downtime/teams/Robbers|Robbers]]
+- [[rangoric-srd/unearthed-arcana/Downtime/teams/Sage (Downtime)|Sage (Downtime)]]
+- [[rangoric-srd/unearthed-arcana/Downtime/teams/Sailors|Sailors]]
+- [[rangoric-srd/unearthed-arcana/Downtime/teams/Scofflaws|Scofflaws]]
+- [[rangoric-srd/unearthed-arcana/Downtime/teams/Soldiers|Soldiers]]

@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/downtime-organization]
 # Hunting Party
 
 - **Create**: 5 Goods, 6 Influence, 11 Labor (500 gp)
-- **Teams**: 1 Archers, 1 Laborers, 1 Lackeys
+- **Teams**: 1 [[rangoric-srd/unearthed-arcana/Downtime/teams/Archers|Archers]], 1 [[rangoric-srd/unearthed-arcana/Downtime/teams/Laborers|Laborers]], 1 [[rangoric-srd/unearthed-arcana/Downtime/teams/Lackeys|Lackeys]]
 
 The necessary guides and assistants for sport hunting.

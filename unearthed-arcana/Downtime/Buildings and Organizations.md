@@ -51,7 +51,7 @@ Below are example buildings and their component rooms. Note that many of these b
 - [[rangoric-srd/unearthed-arcana/Downtime/buildings/Bardic College (Downtime)|Bardic College (Downtime)]]
 - [[rangoric-srd/unearthed-arcana/Downtime/buildings/Barracks (Downtime)|Barracks (Downtime)]]
 - [[rangoric-srd/unearthed-arcana/Downtime/buildings/Black Market (Downtime)|Black Market (Downtime)]]
-- Brewery (Downtime)
+- [[rangoric-srd/unearthed-arcana/Downtime/rooms/Brewery (Downtime)|Brewery (Downtime)]]
 - [[rangoric-srd/unearthed-arcana/Downtime/buildings/Bureau (Downtime)|Bureau (Downtime)]]
 - [[rangoric-srd/unearthed-arcana/Downtime/buildings/Caster's Tower (Downtime)|Caster's Tower (Downtime)]]
 - [[rangoric-srd/unearthed-arcana/Downtime/buildings/Castle (Downtime)|Castle (Downtime)]]

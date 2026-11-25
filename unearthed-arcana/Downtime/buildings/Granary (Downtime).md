@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/downtime-building]
 # Granary
 
 - **Create**: 30 Goods, 30 Labor (1,200 gp)
-- **Rooms**: 10 Storages
+- **Rooms**: 10 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Storage|Storages]]
 
 A place to store grain and food.

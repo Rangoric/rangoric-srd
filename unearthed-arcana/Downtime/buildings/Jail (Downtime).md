@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/downtime-building]
 # Jail
 
 - **Create**: 40 Goods, 5 Influence, 33 Labor (1,610 gp)
-- **Rooms**: 4 Cells, 1 Guard Post, 1 Office, 1 Storage, 1 Torture Chamber
+- **Rooms**: 4 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Cell|Cells]], 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Guard Post|Guard Post]], 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Office|Office]], 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Storage|Storage]], 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Torture Chamber|Torture Chamber]]
 
 A fortified structure for confining criminals.

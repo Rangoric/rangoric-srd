@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/downtime-building]
 # Stockyard
 
 - **Create**: 42 Goods, 4 Influence, 37 Labor (1,700 gp)
-- **Rooms**: 4 Animal Pens, 1 Lavatory, 1 Office, 1 Pit, 1 Storage, 1 Workstation
+- **Rooms**: 4 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Animal Pen|Animal Pens]], 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Lavatory|Lavatory]], 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Office|Office]], 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Pit|Pit]], 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Storage|Storage]], 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Workstation|Workstation]]
 
 Barns and pens where herd animals are stored and prepared for nearby slaughterhouses.

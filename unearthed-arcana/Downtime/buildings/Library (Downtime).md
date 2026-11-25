@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/downtime-building]
 # Library
 
 - **Create**: 29 Goods, 4 Influence, 28 Labor, 2 Magic (1,460 gp)
-- **Rooms**: 2 Book Repositories, 1 Common Room, 1 Office, 1 Storage
+- **Rooms**: 2 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Book Repository|Book Repositories]], 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Common Room|Common Room]], 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Office|Office]], 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Storage|Storage]]
 
 A large building containing an archive of books.
