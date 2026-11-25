@@ -23,9 +23,11 @@ Character traits are only for player characters. If you want an NPC to have trai
 
 ## Types of Traits
 
-There are four types of character traits to choose from: basic (split among four categories: Combat, Faith, Magic, and Social), race, regional, and religion. Drawbacks, below, are traits in reverse.
+There are five types of character traits to choose from: basic (split among four categories: Combat, Faith, Magic, and Social), campaign, race, regional, and religion. Drawbacks, below, are traits in reverse.
 
 **Basic Traits**: Basic traits are split among the categories of Combat, Faith, Magic, and Social. Note that each of these four categories roughly equates to the four modes of adventuring, but aren't tied to specific classes. It's perfectly possible to have a religious rogue, for example, or a magic-obsessed fighter. Basic traits are “generic,” and should be able to fit into any campaign setting with a minimum of customization.
+
+**Campaign Traits**: These traits are specifically tailored to give new characters an instant hook into a new campaign.
 
 **Race Traits**: Race traits are keyed to specific races or ethnicities, which your character must belong to in order to select the trait. If your race or ethnicity changes at some later point (perhaps as a result of polymorph magic or a *[[rangoric-srd/spells/Reincarnate|reincarnation]]* spell), the benefits gained by your race trait persist—only if your mind and memories change as well do you lose the benefits of a race trait.
 
@@ -66,6 +68,12 @@ These traits are associated with magic and focus on spellcasting and manipulatin
 Social traits are a sort of catch-all category—these traits reflect the social upbringing of your character, your background in high society or lack thereof, and your history with parents, siblings, friends, competitors, and enemies.
 
 ![[rangoric-srd/traits/Traits Index.base#Social traits]]
+
+## Campaign Traits
+
+Campaign traits are specifically designed to tie your character into a campaign's storyline, and often give you a built-in reason to begin the first adventure. For this reason, GMs usually create their own campaign traits for their PCs. If your GM uses campaign traits, one of your starting traits must be a campaign trait. Your other trait can be chosen from one of the other types of traits.
+
+![[rangoric-srd/traits/Traits Index.base#Campaign traits]]
 
 ## Race Traits
 
