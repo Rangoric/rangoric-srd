@@ -90,7 +90,7 @@ This category covers any piece of treasure with a magical enhancement or ability
 
 Each magical item has a unique energy defined, in part, by the purpose the item was created to serve. Magical armor, for example, is infused with energies devoted to protection and defense, while a *wand of fireballs* is clearly charged with destructive forces. These energy ‘signatures’ can actually change the resonance of the energy found in a dragon mage’s trove when the value of the objects that generate them reach certain, critical points.
 
-There are four main aspects to which a dragon mage’s trove can be attuned, each of which is represented by an aspect of a dragon’s nature: [[rangoric-srd/prestige-classes/Dragon Mage#Talons|talons]], [[rangoric-srd/prestige-classes/Dragon Mage#Scales|scales]], [[rangoric-srd/prestige-classes/Dragon Mage#Wings|wings]], and [[rangoric-srd/prestige-classes/Dragon Mage#Breath|breath]] (each detailed in the [[rangoric-srd/prestige-classes/Dragon Mage|dragon mage]] prestige class). When a trove is attuned to one of these aspects, the spells cast by the dragon mage that correspond to that attunement are enhanced in power, while those outside the energy’s area of influence are weakened. This effect forces dragon mages to be careful when adding magical items to their trove, to avoid losing an attunement they are comfortable with, or gain an attunement they do not want.
+There are four main aspects to which a dragon mage’s trove can be attuned, each of which is represented by an aspect of a dragon’s nature: [[rangoric-srd/prestige-classes/dragon-mage/Dragon Mage (Talons)|talons]], [[rangoric-srd/prestige-classes/dragon-mage/Dragon Mage (Scales)|scales]], [[rangoric-srd/prestige-classes/dragon-mage/Dragon Mage (Wings)|wings]], and [[rangoric-srd/prestige-classes/dragon-mage/Dragon Mage (Breath)|breath]] (each detailed in the [[rangoric-srd/prestige-classes/Dragon Mage|dragon mage]] prestige class). When a trove is attuned to one of these aspects, the spells cast by the dragon mage that correspond to that attunement are enhanced in power, while those outside the energy’s area of influence are weakened. This effect forces dragon mages to be careful when adding magical items to their trove, to avoid losing an attunement they are comfortable with, or gain an attunement they do not want.
 
 ### Adding to the Trove
 
@@ -110,7 +110,7 @@ Once an item is added to the trove, it is no longer truly an independent object,
 
 An alternative method is to ‘burn’ up the trove’s value by using dragon mage abilities, though this results in a corresponding decrease in the dragon mage’s abilities until the trove is replenished.
 
-A dragon mage spends the trove’s value on [[rangoric-srd/prestige-classes/Dragon Mage#^dragon-mage-healing-sacrifice|healing sacrifice]] and [[rangoric-srd/prestige-classes/Dragon Mage#^dragon-mage-siphon-magic|siphon magic]], as the [[rangoric-srd/prestige-classes/Dragon Mage#Trove Tables|tables]] in the dragon mage prestige class show.
+A dragon mage spends the trove’s value on [[rangoric-srd/prestige-classes/dragon-mage/Dragon Mage (Wings)#^dragon-mage-healing-sacrifice|healing sacrifice]] and [[rangoric-srd/prestige-classes/Dragon Mage#^dragon-mage-siphon-magic|siphon magic]], as the [[rangoric-srd/prestige-classes/Dragon Mage#Trove Tables|tables]] in the dragon mage prestige class show.
 
 ## Ways of the Dragon
 
