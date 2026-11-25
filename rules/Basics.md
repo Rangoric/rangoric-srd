@@ -127,7 +127,7 @@ You apply your character’s Intelligence modifier to:
 
   - The number of languages your character knows at the start of the game.
   - The number of skill points gained each level. (But your character always gets at least 1 skill point per level.)
-  - [[rangoric-srd/skills/Appraise|Appraise]], [[rangoric-srd/skills/Craft|Craft]], [[rangoric-srd/skills/Linguistics|Linguistics]], [[rangoric-srd/skills/Engineering|Engineering]], [[rangoric-srd/skills/Imitation|Imitation]], [[rangoric-srd/skills/Knowledge|Knowledge]], [[rangoric-srd/skills/Investigation|Investigation]], and [[rangoric-srd/skills/Identifying Magic|Magic skill]] checks. These are the skills that have Intelligence as their key ability.
+  - [[rangoric-srd/skills/Appraise|Appraise]], [[rangoric-srd/skills/Craft|Craft]], [[rangoric-srd/skills/Linguistics|Linguistics]], [[rangoric-srd/skills/Engineering|Engineering]], [[rangoric-srd/skills/Imitation|Imitation]], [[rangoric-srd/skills/Knowledge|Knowledge]], [[rangoric-srd/skills/Investigation|Investigation]], and [[rangoric-srd/skills/Mysticism|Mysticism]] checks. These are the skills that have Intelligence as their key ability.
 
 A [[rangoric-srd/classes/Wizard|wizard]] gains bonus spells based on her Intelligence score. The minimum Intelligence score needed to cast a wizard spell is 10 + the spell’s level.
 

@@ -35,7 +35,7 @@ You can take a 5-foot step as part of your readied action, but only if you don�
 
 **Distracting Spellcasters**: You can ready an attack against a spellcaster with the trigger “if she starts casting a spell.” If you damage the spellcaster, she may lose the spell she was trying to cast (as determined by her Concentration check result).
 
-**Readying to Counterspell**: You may ready a counterspell against a spellcaster (often with the trigger “if she starts casting a spell”). In this case, when the spellcaster starts a spell, you get a chance to identify it with a Magic skill check (DC 15 + spell level). If you do, and if you can cast that same spell (are able to cast it and have it prepared, if you prepare spells), you can cast the spell as a counterspell and automatically ruin the other spellcaster’s spell. Counterspelling works even if one spell is divine and the other arcane.
+**Readying to Counterspell**: You may ready a counterspell against a spellcaster (often with the trigger “if she starts casting a spell”). In this case, when the spellcaster starts a spell, you get a chance to identify it with a Mysticism check (DC 15 + spell level). If you do, and if you can cast that same spell (are able to cast it and have it prepared, if you prepare spells), you can cast the spell as a counterspell and automatically ruin the other spellcaster’s spell. Counterspelling works even if one spell is divine and the other arcane.
 
 A spellcaster can use dispel magic to counterspell another spellcaster, but it doesn’t always work.
 

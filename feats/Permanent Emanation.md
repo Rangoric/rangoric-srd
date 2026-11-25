@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Permanent Emanation
 
-Prerequisites: [[rangoric-srd/skills/Arcana|Arcana]], [[rangoric-srd/skills/Nature|Nature]] or [[rangoric-srd/skills/Theology|Theology]] 22 ranks, ability to cast the spell to be made permanent.  
+Prerequisites: [[rangoric-srd/skills/Mysticism|Mysticism]] 22 ranks, ability to cast the spell to be made permanent.  
 
 Benefit: Designate any one of the character’s spells whose area is an emanation from the character. This spell’s effect is permanent (though the character can dismiss or restart it as a free action). Effects that would normally dispel this spell instead suppress it for 2d4 rounds.
 

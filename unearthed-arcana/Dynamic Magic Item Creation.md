@@ -91,7 +91,7 @@ You must create or prepare an item to handle the magic you intend to instill wit
 
 **Forge a New Vessel**: [[rangoric-srd/skills/Craft|Craft]] (item's type) DC 15 + item's caster level
 
-**Mystical Preparations**: [[rangoric-srd/skills/Identifying Magic|Magic skill]] DC 15 + item's caster level
+**Mystical Preparations**: [[rangoric-srd/skills/Mysticism|Mysticism]] DC 15 + item's caster level
 
 **Results**
 
@@ -160,7 +160,7 @@ The item's components have mutated, and so has your item, evolving in strange ne
 
 **Tasks**
 
-**Alter Mutation**: [[rangoric-srd/skills/Identifying Magic|Magic skill]] DC 15 + item's caster level
+**Alter Mutation**: [[rangoric-srd/skills/Mysticism|Mysticism]] DC 15 + item's caster level
 
 **Analyze Mutation**: [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] DC 25
 
@@ -202,7 +202,7 @@ Two respected sources disagree vehemently on the next step in the process.
 
 **Discern the Sounder Choice**: [[rangoric-srd/skills/Arcana|Arcana]] DC 15 + item's caster level
 
-**Take a Middle Path**: [[rangoric-srd/skills/Identifying Magic|Magic skill]] DC 20 + item's caster level
+**Take a Middle Path**: [[rangoric-srd/skills/Mysticism|Mysticism]] DC 20 + item's caster level
 
 **Results**
 
@@ -302,7 +302,7 @@ A shady figure approaches you with an offer that would make completing your item
 
 **Discern True Worth**: [[rangoric-srd/skills/Sense Motive|Sense Motive]] DC 20
 
-**Incorporate Offer**: [[rangoric-srd/skills/Identifying Magic|Magic skill]] DC 20 + item's caster level
+**Incorporate Offer**: [[rangoric-srd/skills/Mysticism|Mysticism]] DC 20 + item's caster level
 
 **Results**
 
@@ -342,7 +342,7 @@ Your creation techniques have run across a challenging difficulty experienced by
 
 **Learn from History**: [[rangoric-srd/skills/Society|Society]] DC 25
 
-**Solve It Yourself**: [[rangoric-srd/skills/Identifying Magic|Magic skill]] DC 20 + item's caster level
+**Solve It Yourself**: [[rangoric-srd/skills/Mysticism|Mysticism]] DC 20 + item's caster level
 
 **Results**
 
@@ -402,7 +402,7 @@ Somehow, one or more of your item's components have developed a limited intellig
 
 **Coax Ingredients to Greater Performance**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] DC 30
 
-**Magically Force Ingredients into Order**: [[rangoric-srd/skills/Identifying Magic|Magic skill]] DC 15 + item's caster level
+**Magically Force Ingredients into Order**: [[rangoric-srd/skills/Mysticism|Mysticism]] DC 15 + item's caster level
 
 **Results**
 
@@ -460,7 +460,7 @@ The magical auras of several components thrum with a strange resonance whenever 
 
 **Tasks**
 
-**Analyze the Cause**: [[rangoric-srd/skills/Identifying Magic|Magic skill]] DC 15 + item's caster level
+**Analyze the Cause**: [[rangoric-srd/skills/Mysticism|Mysticism]] DC 15 + item's caster level
 
 **Follow the Rhythm**: [[rangoric-srd/skills/Performance|Performance]] (any) DC 15 + item's caster level
 
@@ -600,7 +600,7 @@ You are struck with a sudden stroke of brilliance and alter the creation process
 
 **Tasks**
 
-**Improve the Item**: [[rangoric-srd/skills/Identifying Magic|Magic skill]] DC 20 + item's caster level
+**Improve the Item**: [[rangoric-srd/skills/Mysticism|Mysticism]] DC 20 + item's caster level
 
 **Improve the Methodology**: [[rangoric-srd/skills/Arcana|Arcana]] DC 20 + item's caster level
 
@@ -757,7 +757,7 @@ A surge of beneficial power springs up from unknown depths within you.
 
 **Embrace the Power**: [[rangoric-srd/skills/Emulation|Emulation]] DC 20 + item's caster level
 
-**Focus the Surge**: [[rangoric-srd/skills/Identifying Magic|Magic skill]] DC 20 + item's caster level
+**Focus the Surge**: [[rangoric-srd/skills/Mysticism|Mysticism]] DC 20 + item's caster level
 
 **Results**
 

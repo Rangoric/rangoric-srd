@@ -23,7 +23,7 @@ To protect it from wrinkling or tearing, a scroll is rolled up from both ends to
 
 **Activation**: To activate a scroll, a spellcaster must read the spell written on it. Doing so involves several steps and conditions.
 
-*Decipher the Writing*: The writing on a scroll must be deciphered before a character can use it or know exactly what spell it contains. This requires a read magic spell or a successful Magic skill check (DC 20 + spell level).
+*Decipher the Writing*: The writing on a scroll must be deciphered before a character can use it or know exactly what spell it contains. This requires a read magic spell or a successful Mysticism check (DC 20 + spell level).
 
 Deciphering a scroll to determine its contents does not activate its magic unless it is a specially prepared cursed scroll. A character can decipher the writing on a scroll in advance so that he or she can proceed directly to the next step when the time comes to use the scroll.
 

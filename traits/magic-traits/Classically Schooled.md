@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/trait]
 
 **Category**: [[rangoric-srd/traits/Character Traits#Magic Traits|magic trait]].
 
-Your apprenticeship or early education was particularly focused on the direct application of magic. You gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on checks with your [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]], and your Magic skill is always a class skill for you.
+Your apprenticeship or early education was particularly focused on the direct application of magic. You gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on [[rangoric-srd/skills/Mysticism|Mysticism]] checks, and Mysticism is always a class skill for you.

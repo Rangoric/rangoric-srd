@@ -29,7 +29,7 @@ tags: [rangoric, rangoric/overview]
 
   - Good Will saves.
 
-  - Skill points equal to 4 + Int modifier (minimum 1) per Hit Die. Class skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Escape Artist|Escape Artist]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Intimidation|Intimidation]], one [[rangoric-srd/skills/Knowledge|Knowledge]] skill (any one), its Magic skill (see [[rangoric-srd/skills/Identifying Magic|Identifying Magic]]), [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Stealth|Stealth]].
+  - Skill points equal to 4 + Int modifier (minimum 1) per Hit Die. Class skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Escape Artist|Escape Artist]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Intimidation|Intimidation]], one [[rangoric-srd/skills/Knowledge|Knowledge]] skill (any one), [[rangoric-srd/skills/Mysticism|Mysticism]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Stealth|Stealth]].
 
 *Traits*: An aberration possesses the following traits (unless otherwise noted in a creature’s entry).
 
@@ -386,7 +386,7 @@ The [[rangoric-srd/monsters/dark-folk/Dark Creeper|dark creeper]] and [[rangoric
 
   - Good Fortitude, Reflex, and Will saves.
 
-  - Skill points equal to 6 + Int modifier (minimum 1) per Hit Die. Class skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Appraise|Appraise]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Craft|Craft]], [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Emulation|Emulation]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Intimidation|Intimidation]], every [[rangoric-srd/skills/Knowledge|Knowledge]] skill, [[rangoric-srd/skills/Linguistics|Linguistics]], its Magic skill (see [[rangoric-srd/skills/Identifying Magic|Identifying Magic]]), [[rangoric-srd/skills/Medicine|Medicine]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Sense Motive|Sense Motive]], [[rangoric-srd/skills/Stealth|Stealth]].
+  - Skill points equal to 6 + Int modifier (minimum 1) per Hit Die. Class skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Appraise|Appraise]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Craft|Craft]], [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Emulation|Emulation]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Intimidation|Intimidation]], every [[rangoric-srd/skills/Knowledge|Knowledge]] skill, [[rangoric-srd/skills/Linguistics|Linguistics]], [[rangoric-srd/skills/Mysticism|Mysticism]], [[rangoric-srd/skills/Medicine|Medicine]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Sense Motive|Sense Motive]], [[rangoric-srd/skills/Stealth|Stealth]].
 
 *Traits*: A dragon possesses the following traits (unless otherwise noted in the description of a particular kind).
 
@@ -1090,7 +1090,7 @@ It’s sometimes necessary to reroll until the right sort of item appears.
 
   - Good Will saves.
 
-  - Skill points equal to 4 + Int modifier (minimum 1) per Hit Die, if the undead creature has an Intelligence score. Many undead are mindless; they gain no feats, and get skill points as [[#^mindless|mindless creatures]] do. Class skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Arcana|Arcana]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Imitation|Imitation]], [[rangoric-srd/skills/Intimidation|Intimidation]], its Magic skill (see [[rangoric-srd/skills/Identifying Magic|Identifying Magic]]), [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Sense Motive|Sense Motive]], [[rangoric-srd/skills/Stealth|Stealth]], [[rangoric-srd/skills/Theology|Theology]].
+  - Skill points equal to 4 + Int modifier (minimum 1) per Hit Die, if the undead creature has an Intelligence score. Many undead are mindless; they gain no feats, and get skill points as [[#^mindless|mindless creatures]] do. Class skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Arcana|Arcana]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Imitation|Imitation]], [[rangoric-srd/skills/Intimidation|Intimidation]], [[rangoric-srd/skills/Mysticism|Mysticism]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Sense Motive|Sense Motive]], [[rangoric-srd/skills/Stealth|Stealth]], [[rangoric-srd/skills/Theology|Theology]].
 
 *Traits*: An undead creature possesses the following traits (unless otherwise noted in a creature’s entry).
 

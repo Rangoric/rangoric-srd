@@ -43,7 +43,7 @@ tags: [rangoric, rangoric/spell]
 
 A *teleport trace* allows creatures to track down the location of a creature that has used teleportation-based magic (*[[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Plane Shift|plane shift]], [[rangoric-srd/spells/Teleport|teleport]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]], [[rangoric-srd/spells/Word of Recall|word of recall]],* and other similar spells) by following the trail of magic to its source. The distance teleported is not a factor in determining a creature’s location, and *teleport trace* even reveals creatures that have left the plane. Time is a factor, though, and *teleport trace* is only effective for 5 minutes after teleportation magic has been used.
 
-The amount of information gained as a result of this spell is dependent upon a [[rangoric-srd/skills/Identifying Magic|Magic skill]] check.
+The amount of information gained as a result of this spell is dependent upon a [[rangoric-srd/skills/Mysticism|Mysticism]] check.
 
 **DC 15**: The general geographic region that was teleported to (‘*Upon the plains below the mountains to the north.’* or *‘Upon the plane of elemental fire.*’).
 
@@ -53,6 +53,6 @@ The amount of information gained as a result of this spell is dependent upon a [
 
 The spell does not reveal anything about the location itself or the condition of those that teleported. The library could be full of demons or the creatures could have been instantly incinerated by their entrance into the elemental plane of fire. Traditional scrying magic must be used to divine additional information.
 
-*Teleport trace* does give some casters the ability to try and follow creatures that have teleported away, but only through use of the *[[rangoric-srd/spells/Teleport|teleport]]* spell and only if the [[rangoric-srd/skills/Identifying Magic|Magic skill]] check resulted in 25 or greater. If after successfully locating the teleported creatures (DC 25+), the caster can then cast a *[[rangoric-srd/spells/Teleport|teleport]]* spell as if the area had been ‘seen casually.’ This isn’t the safest way to travel, but it wouldn’t be the first time that adventurers have charged blindly ahead into danger.
+*Teleport trace* does give some casters the ability to try and follow creatures that have teleported away, but only through use of the *[[rangoric-srd/spells/Teleport|teleport]]* spell and only if the [[rangoric-srd/skills/Mysticism|Mysticism]] check resulted in 25 or greater. If after successfully locating the teleported creatures (DC 25+), the caster can then cast a *[[rangoric-srd/spells/Teleport|teleport]]* spell as if the area had been ‘seen casually.’ This isn’t the safest way to travel, but it wouldn’t be the first time that adventurers have charged blindly ahead into danger.
 
 *Focus:* A *[[rangoric-srd/magic-items/wondrous-items/Crystal Ball|crystal ball]]* or similar scrying device. Druids can use a pool of natural water, clerics a basin of holy water, etc.

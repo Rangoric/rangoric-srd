@@ -37,7 +37,7 @@ These openings for daily spells are called spell slots. A spellcaster always has
 
 ##### Divine Magical Writings
 
-Divine spells can be written down and deciphered just as arcane spells can (see Arcane Magical Writings, above). Any character with the [[rangoric-srd/skills/Identifying Magic|Magic skill]] can attempt to decipher the divine magical writing and identify it. However, only characters who have the spell in question (in its divine form) on their class spell list can cast a divine spell from a scroll.
+Divine spells can be written down and deciphered just as arcane spells can (see Arcane Magical Writings, above). Any character with [[rangoric-srd/skills/Mysticism|Mysticism]] can attempt to decipher the divine magical writing and identify it. However, only characters who have the spell in question (in its divine form) on their class spell list can cast a divine spell from a scroll.
 
 ##### New Divine Spells
 

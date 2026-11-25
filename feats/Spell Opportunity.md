@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Spell Opportunity
 
-Prerequisites: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Quicken Spell|Quicken Spell]], [[rangoric-srd/skills/Arcana|Arcana]], [[rangoric-srd/skills/Nature|Nature]] or [[rangoric-srd/skills/Theology|Theology]] 22 ranks.  
+Prerequisites: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Quicken Spell|Quicken Spell]], [[rangoric-srd/skills/Mysticism|Mysticism]] 22 ranks.  
 
 Benefit: Whenever the character is allowed an attack of opportunity, he or she may cast (and attack with) a touch spell as the character’s attack of opportunity. This incurs attacks of opportunity just as if the character had cast the spell normally.
 

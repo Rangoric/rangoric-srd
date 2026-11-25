@@ -45,7 +45,7 @@ It is possible to cast any spell as a counterspell. By doing so, you are using t
 
 **How Counterspells Work**: To use a counterspell, you must select an opponent as the target of the counterspell. You do this by choosing the ready action. In doing so, you elect to wait to complete your action until your opponent tries to cast a spell. (You may still move your speed, since ready is a standard action.)
 
-If the target of your counterspell tries to cast a spell, make a [[rangoric-srd/skills/Identifying Magic|Magic skill]] check (DC 15 + the spell’s level). This check is a free action. If the check succeeds, you correctly identify the opponent’s spell and can attempt to counter it. If the check fails, you can’t do either of these things.
+If the target of your counterspell tries to cast a spell, make a [[rangoric-srd/skills/Mysticism|Mysticism]] check (DC 15 + the spell’s level). This check is a free action. If the check succeeds, you correctly identify the opponent’s spell and can attempt to counter it. If the check fails, you can’t do either of these things.
 
 To complete the action, you must then cast the correct spell. As a general rule, a spell can only counter itself. If you are able to cast the same spell and you have it prepared (if you prepare spells), you cast it, altering it slightly to create a counterspell effect. If the target is within range, both spells automatically negate each other with no other results.
 
@@ -119,7 +119,7 @@ A bonus that isn’t named stacks with any bonus.
 
 Psychic magic is a third type of magic beside arcane and divine, drawn from the caster’s own being (her mind and desires, her life force, her spirit) rather than from arcane formulae or prayers to distant powers. A psychic spell works like any other spell, and metamagic feats and other rules that change spells or are triggered by them can usually be used with psychic spells too (but see Psychic Components, below). Psychic spellcasters aren’t affected by effects that target only arcane or divine spellcasters, and can’t use scrolls or other items, or feats, that only arcane or divine spellcasters can use. ^psychic-magic
 
-A spell’s type goes by who casts it. Many spells are on both psychic and arcane or divine spell lists: such a spell is psychic when a psychic spellcaster casts it, and arcane or divine when an arcane or divine spellcaster does. Psychic spells are identified with the [[rangoric-srd/skills/Psychic (Skill)|Psychic]] skill; see [[rangoric-srd/skills/Identifying Magic|Identifying Magic]].
+A spell’s type goes by who casts it. Many spells are on both psychic and arcane or divine spell lists: such a spell is psychic when a psychic spellcaster casts it, and arcane or divine when an arcane or divine spellcaster does. Psychic spells are identified with [[rangoric-srd/skills/Mysticism|Mysticism]], as other spells are.
 
 ##### Psychic Components
 

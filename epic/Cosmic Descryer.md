@@ -31,7 +31,7 @@ Special: Must have previously traveled to any other plane of existence.
 
 Class Skills
 
-The cosmic descryer’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), and Theology (Int).
+The cosmic descryer’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), and Theology (Int).
 
 Skill Points at Each Level: 2 + Int modifier.
 

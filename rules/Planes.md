@@ -207,7 +207,7 @@ Failure on this check means that something strange happens; roll d% and consult 
 
 **Impeded Magic**: Particular spells and spell-like abilities are more difficult to cast on planes with this trait, often because the nature of the plane interferes with the spell.
 
-To cast an impeded spell, the caster must make a [[rangoric-srd/skills/Identifying Magic|Magic skill]] check (DC 20 + the level of the spell). If the check fails, the spell does not function but is still lost as a prepared spell or spell slot. If the check succeeds, the spell functions normally.
+To cast an impeded spell, the caster must make a [[rangoric-srd/skills/Mysticism|Mysticism]] check (DC 20 + the level of the spell). If the check fails, the spell does not function but is still lost as a prepared spell or spell slot. If the check succeeds, the spell functions normally.
 
 **Enhanced Magic**: Particular spells and spell-like abilities are easier to use or more powerful in effect on planes with this trait than they are on the Material Plane.
 
@@ -295,7 +295,7 @@ The Plane of Shadow has the following traits.
 
 Furthermore, specific spells become more powerful on the Plane of Shadow. Shadow conjuration and shadow evocation spells are 30% as powerful as the conjurations and evocations they mimic (as opposed to 20%). Greater shadow conjuration and greater shadow evocation are 70% as powerful (not 60%), and a shades spell conjures at 90% of the power of the original (not 80%).
 
-  - Impeded magic. Spells that use or generate light or fire may fizzle when cast on the Plane of Shadow. A spellcaster attempting a spell with the light or fire descriptor must succeed on a [[rangoric-srd/skills/Identifying Magic|Magic skill]] check (DC 20 + the level of the spell). Spells that produce light are less effective in general, because all light sources have their ranges halved on the Plane of Shadow.
+  - Impeded magic. Spells that use or generate light or fire may fizzle when cast on the Plane of Shadow. A spellcaster attempting a spell with the light or fire descriptor must succeed on a [[rangoric-srd/skills/Mysticism|Mysticism]] check (DC 20 + the level of the spell). Spells that produce light are less effective in general, because all light sources have their ranges halved on the Plane of Shadow.
 
 Despite the dark nature of the Plane of Shadow, spells that produce, use, or manipulate darkness are unaffected by the plane.
 

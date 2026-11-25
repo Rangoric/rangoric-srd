@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Gloves of Elvenkind
 
-These plain gray leather gloves grant a +5 competence bonus on [[rangoric-srd/skills/Identifying Magic|Magic skill]] checks and [[rangoric-srd/rules/Concentration (Check)|concentration checks]] made to cast a spell defensively. Both gloves must be worn for the magic to be effective.
+These plain gray leather gloves grant a +5 competence bonus on [[rangoric-srd/skills/Mysticism|Mysticism]] checks and [[rangoric-srd/rules/Concentration (Check)|concentration checks]] made to cast a spell defensively. Both gloves must be worn for the magic to be effective.
 
 Moderate transmutation; CL 8th; [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], creator must be an [[rangoric-srd/races/Elf|elf]]; Price 7,500 gp; Cost 3,750 gp.

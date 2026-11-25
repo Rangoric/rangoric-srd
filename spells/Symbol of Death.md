@@ -54,7 +54,7 @@ When scribing a symbol of death, you can specify a password or phrase that preve
 
 You also can attune any number of creatures to the symbol of death, but doing this can extend the casting time. Attuning one or two creatures takes negligible time, and attuning a small group (as many as ten creatures) extends the casting time to 1 hour. Attuning a large group (as many as twenty-five creatures) takes 24 hours. Attuning larger groups takes proportionately longer. Any creature attuned to a symbol of death cannot trigger it and is immune to its effects, even if within its radius when triggered. You are automatically considered attuned to your own symbols of death, and thus always ignore the effects and cannot inadvertently trigger them.
 
-Read magic allows you to identify a symbol of death with a DC 19 [[rangoric-srd/skills/Identifying Magic|Magic skill]] check. Of course, if the symbol of death is set to be triggered by reading it, this will trigger the symbol.
+Read magic allows you to identify a symbol of death with a DC 19 [[rangoric-srd/skills/Mysticism|Mysticism]] check. Of course, if the symbol of death is set to be triggered by reading it, this will trigger the symbol.
 
 A symbol of death can be removed by a successful dispel magic targeted solely on the rune. An erase spell has no effect on a symbol of death. Destruction of the surface where a symbol of death is inscribed destroys the symbol but also triggers it.
 

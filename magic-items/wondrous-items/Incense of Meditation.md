@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Incense of Meditation
 
-This small rectangular block of sweet smelling incense is visually indistinguishable from nonmagical incense until lit. When it is burning, the special fragrance and pearly-hued smoke of this special incense are recognizable by anyone making a DC 15 Magic skill check.
+This small rectangular block of sweet smelling incense is visually indistinguishable from nonmagical incense until lit. When it is burning, the special fragrance and pearly-hued smoke of this special incense are recognizable by anyone making a DC 15 Mysticism check.
 
 When a divine spellcaster lights a block of incense of meditation and then spends 8 hours praying and meditating nearby, the incense enables him to prepare all his spells as though affected by the Maximize Spell feat. However, all the spells prepared in this way are at their normal level, not at three levels higher (as with the regular metamagic feat).
 

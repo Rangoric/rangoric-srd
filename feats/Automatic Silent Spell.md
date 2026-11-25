@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Automatic Silent Spell
 
-Prerequisites: [[rangoric-srd/feats/Silent Spell|Silent Spell]], [[rangoric-srd/skills/Arcana|Arcana]], [[rangoric-srd/skills/Nature|Nature]] or [[rangoric-srd/skills/Theology|Theology]] 21 ranks, ability to cast 9th-level arcane or divine spells.
+Prerequisites: [[rangoric-srd/feats/Silent Spell|Silent Spell]], [[rangoric-srd/skills/Mysticism|Mysticism]] 21 ranks, ability to cast 9th-level arcane or divine spells.
 
 Benefit: The character may cast all 0-, 1st-, 2nd-, and 3rd-level spells as silent spells without using higher-level spell slots.
 

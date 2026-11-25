@@ -236,7 +236,7 @@ The following are the main free actions of this system.
 
 **Fight Defensively**: At the start of your turn, you can choose to fight defensively. When you do, you take a –4 penalty on all attack rolls, but gain a +2 dodge bonus to AC until the start of your next turn. If you have at least 3 ranks in [[rangoric-srd/skills/Acrobatics|Acrobatics]], the dodge bonus increases to +3.
 
-**Identify a Spell Being Cast**: You use [[rangoric-srd/skills/Identifying Magic|Magic skill]] to identify a spell being cast. Unlike other free actions, you can take this action even when it is not your turn.
+**Identify a Spell Being Cast**: You use [[rangoric-srd/skills/Mysticism|Mysticism]] to identify a spell being cast. Unlike other free actions, you can take this action even when it is not your turn.
 
 **Prepare Spell Components or a Spell Focus**: While casting a spell, you prepare a material spell component or a spell focus. If this component or spell focus is particularly large or unwieldy, your GM might rule that this instead takes a simple action, or even an advanced action.
 

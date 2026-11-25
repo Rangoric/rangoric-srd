@@ -41,7 +41,7 @@ When preparing spells for the day, a wizard can leave some of these spell slots 
 
 To record an arcane spell in written form, a character uses complex notation that describes the magical forces involved in the spell. The writer uses the same system no matter what her native language or culture. However, each character uses the system in her own way. Another person’s magical writing remains incomprehensible to even the most powerful wizard until she takes time to study and decipher it.
 
-To decipher an arcane magical writing (such as a single spell in written form in another’s spellbook or on a scroll), a character must make a Magic skill check; the DC, and how often it can be tried, are in [[rangoric-srd/skills/Identifying Magic|Identifying Magic]]. A read magic spell automatically deciphers a magical writing without a skill check. If the person who created the magical writing is on hand to help the reader, success is also automatic.
+To decipher an arcane magical writing (such as a single spell in written form in another’s spellbook or on a scroll), a character must make a Mysticism check; the DC, and how often it can be tried, are in [[rangoric-srd/skills/Mysticism|Mysticism]]. A read magic spell automatically deciphers a magical writing without a skill check. If the person who created the magical writing is on hand to help the reader, success is also automatic.
 
 Once a character deciphers a particular magical writing, she does not need to decipher it again. Deciphering a magical writing allows the reader to identify the spell and gives some idea of its effects (as explained in the spell description). If the magical writing was a scroll and the reader can cast arcane spells, she can attempt to use the scroll.
 

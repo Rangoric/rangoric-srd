@@ -31,4 +31,4 @@ Within the harder to find chambers of the cavern complex is a grotto of fragile 
 
 *Rare:* Due to the detail and completeness of information stored in the crystals, a person can learn skills and abilities traditionally requiring life experience to attain if given enough time.
 
-*Obscure:* The Crystal-keeper has developed a way to create crystalline spellbooks. She sometimes gifts these to especially helpful adventurers. With a successful [[rangoric-srd/skills/Identifying Magic|Identifying Magic]] check (DC 25), the owner can “read” or “write” a spell into the crystal using the normal duration for such tasks; once a caster learns how to use a crystal spellbook, no additional skill checks are needed to study its spells.
+*Obscure:* The Crystal-keeper has developed a way to create crystalline spellbooks. She sometimes gifts these to especially helpful adventurers. With a successful [[rangoric-srd/skills/Mysticism|Mysticism]] check (DC 25), the owner can “read” or “write” a spell into the crystal using the normal duration for such tasks; once a caster learns how to use a crystal spellbook, no additional skill checks are needed to study its spells.

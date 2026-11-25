@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/occult-ritual]
   - **Level**: 5
   - **Casting Time**: 50 minutes
   - **Components**: V, S, M (a small model of the settlement worth 500 gp and the sacrifice of one sentient creature that lives in the ritual’s area), F (magically treated ivy), SC (up to 8)
-  - **Skill Checks**: [[rangoric-srd/skills/Nature|Nature]] DC 29, 3 successes; [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] DC 29, 2 successes
+  - **Skill Checks**: [[rangoric-srd/skills/Nature|Nature]] DC 29, 2 successes; [[rangoric-srd/skills/Mysticism|Mysticism]] DC 29, 1 success; [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] DC 29, 2 successes
   - **Range**: touch
   - **Area**: 1,000-ft. radius/character level of the primary caster
   - **Duration**: 1 hour/character level of the primary caster

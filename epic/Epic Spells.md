@@ -31,11 +31,11 @@ For information on developing an epic spell completely from scratch, see Develop
 
 Once an epic spell is developed, the caster knows the spell. A developed epic spell becomes an indelible part of the caster and may be prepared without a spellbook (if a wizard is the caster). Characters who cast spells spontaneously, such as sorcerers, can cast a developed epic spell by using any open epic spell slot. Druids, clerics, and similar spellcasters can likewise prepare epic spells using epic spell slots.  
 
-A spellcaster can prepare or cast any epic spell he or she knows as many times per day as he or she has available epic spell slots. A spellcaster who can cast epic spells has a number of open epic spell slots per day equal to one-tenth his or her ranks in their [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]]. Arcana is appropriate for arcane casters, and Theology or Nature is appropriate for divine casters. The rules for rest between casting a day’s allotment of epic spells are the same as for rest required to prepare standard spells. If the caster doesn’t use up a day’s allotment of epic spell slots, the unused slots remain available whether or not the spellcaster receives appropriate rest.
+A spellcaster can prepare or cast any epic spell he or she knows as many times per day as he or she has available epic spell slots. A spellcaster who can cast epic spells has a number of open epic spell slots per day equal to one-tenth his or her ranks in [[rangoric-srd/skills/Arcana|Arcana]] (for an arcane caster) or [[rangoric-srd/skills/Theology|Theology]] or [[rangoric-srd/skills/Nature|Nature]] (for a divine caster). The rules for rest between casting a day’s allotment of epic spells are the same as for rest required to prepare standard spells. If the caster doesn’t use up a day’s allotment of epic spell slots, the unused slots remain available whether or not the spellcaster receives appropriate rest.
 
-Even if the epic spell has been developed and an epic spell slot is available, successfully casting an epic spell isn’t assured. The caster’s Magic skill modifier is vital for casting an epic spell. To cast an epic spell, a spellcaster makes a Magic skill check against the epic spell’s Casting DC. If the check succeeds, the spell is cast. If the caster fails the check, the epic spell fizzles and the epic spell slot is used for the day.
+Even if the epic spell has been developed and an epic spell slot is available, successfully casting an epic spell isn’t assured. The caster’s Mysticism modifier is vital for casting an epic spell. To cast an epic spell, a spellcaster makes a Mysticism check against the epic spell’s Casting DC. If the check succeeds, the spell is cast. If the caster fails the check, the epic spell fizzles and the epic spell slot is used for the day.
 
-Because epic spells require Magic skill checks, a spell is beyond the caster’s ability if the final Casting DC is greater than 20 + the spellcaster’s Magic skill modifier. Epic spells with DCs higher than 10 + the spellcaster’s Magic skill modifier are risky; a caster can take 10 when casting an epic spell, but he or she can’t take 20. When routinely casting epic spells, most spellcasters take 10 on their Magic skill checks.
+Because epic spells require Mysticism checks, a spell is beyond the caster’s ability if the final Casting DC is greater than 20 + the spellcaster’s Mysticism modifier. Epic spells with DCs higher than 10 + the spellcaster’s Mysticism modifier are risky; a caster can take 10 when casting an epic spell, but he or she can’t take 20. When routinely casting epic spells, most spellcasters take 10 on their Mysticism checks.
 
 Epic Spell Levels: Epic spells have no fixed level. However, for purposes of Concentration checks, spell resistance, and other possible situations where spell level is important, epic spells are all treated as if they were 10th-level spells.
 
@@ -65,7 +65,7 @@ The following formulas are important to epic spellcasters.
 
 Epic Spells Per Day: Arcana, Theology, or Nature ranks ÷ 10 (round down).
 
-To Cast an Epic Spell: Magic skill check (DC = epic spell’s Casting DC).
+To Cast an Epic Spell: Mysticism check (DC = epic spell’s Casting DC).
 
 Level of an Epic Spell: Epic spells are considered 10th level for the purpose of Concentration checks, spell resistance, and other determinations.
 
@@ -81,7 +81,7 @@ Antimagic field does not automatically suppress epic spells as it does standard 
 
 Each epic spell description follows the same format used for 0- to 9th-level spells. There are two additional entries for epic spells: Casting DC and To Develop.  
 
-Casting DC: This is the DC of the Magic skill check required to cast the epic spell. When casting an epic spell, you gain a +5 bonus on your Magic skill check if the base seed of the epic spell is from your arcane school specialty or primary psionic discipline. You take a –15 penalty if the epic spell seed is from your prohibited arcane school.
+Casting DC: This is the DC of the Mysticism check required to cast the epic spell. When casting an epic spell, you gain a +5 bonus on your Mysticism check if the base seed of the epic spell is from your arcane school specialty or primary psionic discipline. You take a –15 penalty if the epic spell seed is from your prohibited arcane school.
 
 To Develop: The first part of this entry shows the resources in gold, time, and experience points a character must expend to develop the spell shown. If the character expends the resources, he or she develops the spell if he or she has access to all the seeds. Spells containing the life or heal seed are typically only available to those with 21 or more ranks in Theology or Nature. The rest of the development entry details the seeds and factors used to create the epic spell. This information is provided as an example for characters when they attempt to create and develop their own unique epic spells.
 

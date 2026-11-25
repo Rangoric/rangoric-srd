@@ -34,4 +34,4 @@ Defenders against evil, those who favor Algiz work against the dark forces in th
 8. *[[rangoric-srd/spells/Holy Aura|holy aura]]*
 9. *[[rangoric-srd/spells/Soul Bind|soul bind]]*
 
-**Associated Skill Bonus**: +2 bonus on [[rangoric-srd/skills/Identifying Magic|Magic skill]] checks.
+**Associated Skill Bonus**: +2 bonus on [[rangoric-srd/skills/Mysticism|Mysticism]] checks.
