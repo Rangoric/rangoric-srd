@@ -1,0 +1,33 @@
+name: Check notes
+
+# Frontmatter loads as strict YAML (the website's build needs it) and links into the SRD have a target.
+# On a pull request, link problems fail only in the notes it changes; the rest show as warnings.
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      - name: Notes this change touches
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            git diff --name-only "origin/${{ github.base_ref }}...HEAD" > "$RUNNER_TEMP/changed.txt"
+          else
+            git diff --name-only "${{ github.event.before }}" HEAD > "$RUNNER_TEMP/changed.txt" 2>/dev/null || : > "$RUNNER_TEMP/changed.txt"
+          fi
+          cat "$RUNNER_TEMP/changed.txt"
+      - run: python3 .github/scripts/check_notes.py . --changed "$RUNNER_TEMP/changed.txt"
