@@ -320,6 +320,8 @@ tags: [rangoric, rangoric/overview]
 
 The [[rangoric-srd/monsters/dark-folk/Dark Creeper|dark creeper]] and [[rangoric-srd/monsters/dark-folk/Dark Stalker|dark stalker]] are dark folk.
 
+**Deep One Subtype**: This subtype is applied to [[rangoric-srd/monsters/mythos/Deep One|deep ones]] and creatures related to deep ones, such as [[rangoric-srd/races/Deep One Hybrid|deep one hybrids]]. Creatures with the deep one subtype have [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]. ^deep-one
+
 **Demodand Subtype**: Demodands are chaotic evil [[#^outsider|outsiders]] who stalk the Abyss. ^demodand
 
 *Traits*: A demodand has the following traits (unless otherwise noted in a creature's entry).
@@ -491,6 +493,26 @@ The [[rangoric-srd/monsters/dark-folk/Dark Creeper|dark creeper]] and [[rangoric
 **Goblinoid Subtype**: Goblinoids are stealthy humanoids who live by hunting and raiding and who all speak Goblin. [[rangoric-srd/skills/Stealth|Stealth]] is a class skill for goblinoids. ^goblinoid
 
 **Good Subtype**: A subtype usually applied only to outsiders native to the good-aligned Outer Planes. Most creatures that have this subtype also have good alignments; however, if their alignments change, they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a good alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the good subtype overcomes damage reduction as if its natural weapons and any weapons it wields were good-aligned (see Damage Reduction, above). ^good
+
+**Great Old One Subtype**: A Great Old One is a powerful, alien entity—a being from another world, from another dimension, or even from the distant past or future. All Great Old Ones are chaotic, and most of them are also evil. They can be any creature type, but most are [[#^aberration|aberrations]] or [[#^magical-beast|magical beasts]]. The Great Old Ones are listed under [[rangoric-srd/monsters/mythos/Mythos|Mythos creatures]]. ^great-old-one
+
+*Traits*: A Great Old One has the following traits.
+
+  - A Great Old One's natural weapons, as well as any weapon it wields, are treated as chaotic, epic, and mythic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
+
+  - Although Great Old Ones grant spells to their worshipers, they don't seem to be interested in their worshipers beyond their own inscrutable ends—a Great Old One is just as likely to destroy one of its cultists as it is to destroy a nonbeliever. A Great Old One grants access to four domains and four subdomains, and its cults have a favored weapon—the exact details vary for each Great Old One.
+
+  - **Immortality (Ex)**: A Great Old One does not need to eat, drink, or breathe, nor does it age. A Great Old One that is slain does not truly die—rather, it is forced into an extended period of dormancy that can last years, centuries, or longer. Exact details of this vary and are described in individual creature entries. Methods to permanently slay a Great Old One might exist, but such methods have yet to be learned by mortals.
+
+  - [[rangoric-srd/monsters/abilities/Immunity|Immunity]] to ability damage, ability drain, aging, cold, death effects, disease, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]], mind-affecting effects, paralysis, and petrification.
+
+  - **Insanity (Ex)**: Any creature that attempts to interact directly with a Great Old One's thoughts (such as via *[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]* or [[rangoric-srd/monsters/abilities/Telepathy|telepathy]]) must succeed at a Will save or be driven permanently insane. The save DC is equal to 10 + 1/2 the Great Old One's Hit Dice + the Great Old One's Charisma modifier. This duplicates the effect of the *[[rangoric-srd/spells/Insanity (Spell)|insanity]]* spell, or the [[rangoric-srd/rules/Afflictions#Insanity|insanity rules]] (in which case the save DC is also the ongoing insanity DC). A Great Old One using its telepathy to communicate doesn't activate this ability unless it spends a standard action to focus its mind on one opponent. This is a mind-affecting effect.
+
+  - **Mythic (Su)**: A Great Old One has mythic power (10/day, surge +1d12) and counts as a 10th-rank mythic creature. A Great Old One can use any of its spell-like abilities as the mythic versions of those spells (if a mythic version of that spell exists), expending mythic power as normal. It can also expend mythic power to use the augmented versions of these spell-like abilities.
+
+  - **Otherworldly Insight (Ex)**: All Great Old Ones gain a +10 insight bonus on Initiative checks and to AC.
+
+  - **Unspeakable Presence (Su)**: A Great Old One's aura inflicts intense mental anguish and torment upon all creatures within 300 feet who can see and hear the Great Old One. The exact effects caused by a Great Old One's unspeakable presence vary by type. A successful Will save (DC 10 + 1/2 the Great Old One's Hit Dice + the Great Old One's Charisma modifier) reduces or negates the effect. This is a mind-affecting effect.
 
 **Grippli Subtype**: A humanoid subtype for [[rangoric-srd/races/Grippli|gripplis]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^grippli
 

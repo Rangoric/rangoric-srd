@@ -2778,6 +2778,24 @@ Zombie, Juju from the Tome of Horrors, Revised, © 2002, Necromancer Games, Inc.
 
 Zombie, Juju from the Tome of Horrors, Revised. © 2002, Necromancer Games, Inc.; Author: Scott Greene, based on original material by Gary Gygax.
 
+###### Open Cthulhu Mythos SRD (Cthulhu Reborn)
+
+Legend, © 2011, Mongoose Publishing.
+
+Delta Green: Agent’s Handbook, © 2016, Dennis Detwiller, Christopher Gunning, Shane Ivey, and Greg Stolze.
+
+Delta Green: Handler’s Guide, © 2017, Dennis Detwiller, Adam Scott Glancy, Kenneth Hite, Shane Ivey, and Greg Stolze.
+
+APOCTHULHU Quickstart, © 2020, Dean Engelhardt, Chad Bowser, Jo Kreil, and Michelle Bernay-Rogers.
+
+APOCTHULHU Core Rules © 2020, Dean Engelhardt, Jo Kreil, Kevin Ross, Jeff Moeller, Chad Bowser, Dave Sokolowski, Christopher Smith Adair, Fred Behrendt, Emily O’Neil, Paul Franzese, and Michelle Bernay-Rogers.
+
+APOCTHULHU System Reference Document v0.666 © 2020, Dean Engelhardt, Jo Kreil, Kevin Ross, Jeff Moeller, Chad Bowser, Dave Sokolowski, Christopher Smith Adair, Fred Behrendt, Emily O’Neil, Paul Franzese, and Michelle Bernay-Rogers.
+
+Cthulhu Eternal System Reference Document v1.0 © 2021, Dean Engelhardt, Jo Kreil, Kevin Ross, Jeff Moeller, Chad Bowser, Dave Sokolowski, Christopher Smith Adair, Fred Behrendt, Emily O’Neil, Paul Franzese, and Michelle Bernay-Rogers.
+
+Open Cthulhu Mythos v1.0 © 2021–2023, Frank Dudenhausen, Julia Knobloch, Volker Rattel, Matt Wiseman, Dean Engelhardt (https://cthulhueternal.com/open-mythos/)
+
 ###### Other publishers
 
 %% possible duplicates (5) %%
@@ -2898,3 +2916,4 @@ Sources were processed in this order, and a line already listed by an earlier so
 | Starfinder (Foundry) | raw `foundry-starfinder.zip` → `OGL` | 19 | 17 |
 | Starfinder (Archives of Nethys) | raw `Archives of Nethys_ Starfinder RPG Database - Licenses.html` (saved as `aonsrd-15.txt`) | 108 | 93 |
 | Encyclopaedia Arcane: Star Magic | raw `11 Rules Summary.md`, p. 64 (OGL v 1.0, D20 System Rules & Content, the book) | 3 | 2 |
+| Open Cthulhu Mythos SRD v1.0 | the PDF's last page (p. 129) | 10 | 8 |

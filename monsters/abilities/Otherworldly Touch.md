@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 *[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “otherworldly touch”, on the Special Qualities line.
 
-The creature's natural attacks can strike incorporeal creatures as if they were ghost touch weapons. The [[rangoric-srd/monsters/Zoog|zoog]] has it.
+The creature's natural attacks can strike incorporeal creatures as if they were ghost touch weapons. The [[rangoric-srd/monsters/mythos/Zoog|zoog]] has it.
