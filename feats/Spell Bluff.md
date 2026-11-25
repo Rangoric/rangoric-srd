@@ -1,7 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-prerequisites: "Deception 5 ranks, 5 ranks in a Magic skill."
+prerequisites: "Deception 5 ranks, Mysticism 5 ranks."
 based-on:
   - "[[path srd 3.5/feats/Spell Bluff|Spell Bluff (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Spell Bluff|Spell Bluff (PF1)]]"
@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/feat]
 
 You know the principles of arcane dueling, and when fighting other spellcasters, you have learned to hide the true nature of your spells until the last possible moment.
 
-**Prerequisites**: [[rangoric-srd/skills/Deception|Deception]] 5 ranks, 5 ranks in a [[rangoric-srd/skills/Identifying Magic|Magic skill]].
+**Prerequisites**: [[rangoric-srd/skills/Deception|Deception]] 5 ranks, [[rangoric-srd/skills/Mysticism|Mysticism]] 5 ranks.
 
 **Benefit**: If another spellcaster tries to counterspell you, the DC of its check to identify your spell increases by 4.
 

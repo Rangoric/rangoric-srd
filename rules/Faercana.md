@@ -50,7 +50,7 @@ If a person obtains another’s true name, he can use it against them in spells.
 - Adds a +20 DC penalty to resist or counter the spell cast at them;
 - All normal saves against such a spell are reduced to a maximum of +1, though any supplemental saving throw bonuses still apply (not racial or ability bonuses).
 
-**Extracting a true name from a spell**: If a true name is used in the casting of a spell, it can be discerned by others with a [[rangoric-srd/skills/Identifying Magic|Magic skill]] check (DC 33).
+**Extracting a true name from a spell**: If a true name is used in the casting of a spell, it can be discerned by others with a [[rangoric-srd/skills/Mysticism|Mysticism]] check (DC 33).
 
 **Alternate Uses**: Obviously, knowing someone’s true name can be a very valuable tool. Often overlooked are the more mundane uses for such knowledge. A person can be held at bay out of fear that somehow their true name will be revealed to others. A person could also be blackmailed into performing certain tasks in exchange for not divulging a true name to other people.
 

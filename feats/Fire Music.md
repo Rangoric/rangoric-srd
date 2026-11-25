@@ -1,7 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-prerequisites: "5 ranks in a Magic skill, ability to cast bard spells, ability to cast an arcane fire spell from another spellcasting class."
+prerequisites: "Mysticism 5 ranks, ability to cast bard spells, ability to cast an arcane fire spell from another spellcasting class."
 based-on:
   - "[[path srd 3.5/feats/Fire Music|Fire Music (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Fire Music|Fire Music (PF1)]]"
@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/feat]
 
 Your ability to command fire and bardic music has created a strange blend of both magics.
 
-**Prerequisites**: 5 ranks in a [[rangoric-srd/skills/Identifying Magic|Magic skill]], ability to cast [[rangoric-srd/classes/Bard|bard]] spells, ability to cast an arcane fire spell from another spellcasting class.
+**Prerequisites**: [[rangoric-srd/skills/Mysticism|Mysticism]] 5 ranks, ability to cast [[rangoric-srd/classes/Bard|bard]] spells, ability to cast an arcane fire spell from another spellcasting class.
 
 **Benefit**: When you cast a bard spell that deals damage, you can change its damage to fire damage, or make half of it fire damage and half its normal type.
 

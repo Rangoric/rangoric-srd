@@ -29,7 +29,7 @@ The smallest and most common of the swathes, graftswathes are living plants fuse
 
 - They can alter the visual effect of a spell produced by the item to resemble a tangle of magical vines and leaves akin to those fused to the item’s exterior;
 - All fey, plants, and plant creatures gain a +2 circumstance to their Fortitude save against spells cast from items with graftswathes; and
-- Spells and spell-effects cast with a graftswathe are harder to counterspell or dispel due to additional natural magics and the changed appearance of the spell—+4 to [[rangoric-srd/skills/Identifying Magic|Magic skill]] DCs for counterspelling and +4 to the item’s caster levels vs. *dispel magic* effects.
+- Spells and spell-effects cast with a graftswathe are harder to counterspell or dispel due to additional natural magics and the changed appearance of the spell—+4 to [[rangoric-srd/skills/Mysticism|Mysticism]] DCs for counterspelling and +4 to the item’s caster levels vs. *dispel magic* effects.
 
 The costs for a graft swathe include the raw materials and preparatory liquids and processes to grow the graft, then the costs for preparing and treating the leather (or tougher) items both before and during the grafting process.
 

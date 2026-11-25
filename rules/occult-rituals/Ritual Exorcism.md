@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/occult-ritual]
   - **Level**: 4
   - **Casting Time**: 40 minutes
   - **Components**: V, S, M (vial of holy water), F (silver holy symbol), SC (up to 12)
-  - **Skill Checks**: [[rangoric-srd/skills/Theology|Theology]] DC 28, 2 successes; [[rangoric-srd/skills/Psychic (Skill)|Psychic]] DC 28, 2 successes
+  - **Skill Checks**: [[rangoric-srd/skills/Theology|Theology]] DC 28, 2 successes; [[rangoric-srd/skills/Mysticism|Mysticism]] DC 28, 2 successes
   - **Range**: close (25 ft. + 5 ft./character level of the primary caster)
   - **Target**: one [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] possessed creature or a restrained possessed object
   - **Duration**: instantaneous

@@ -11,6 +11,6 @@ tags: [rangoric, rangoric/feat, item-creation, epic]
 
 # Craft Epic Staff
 
-Prerequisites: [[rangoric-srd/feats/Craft Staff|Craft Staff]], [[rangoric-srd/skills/Arcana|Arcana]] 32 ranks.  
+Prerequisites: [[rangoric-srd/feats/Craft Staff|Craft Staff]], [[rangoric-srd/skills/Arcana|Arcana]] 32 ranks, [[rangoric-srd/skills/Mysticism|Mysticism]] 32 ranks.  
 
 Benefit: The character can craft staffs that exceed the normal limits for such items.

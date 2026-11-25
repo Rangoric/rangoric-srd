@@ -25,7 +25,7 @@ Created by a wizard from pure elemental fire, *Kaiein* is a conduit between the 
 
 *Alignment:* Any nonlawful.
 
-*Skills:* [[rangoric-srd/skills/Arcana|Arcana]] 7 ranks, [[rangoric-srd/skills/Theology|Theology]] 2 ranks.
+*Skills:* [[rangoric-srd/skills/Arcana|Arcana]] 2 ranks, [[rangoric-srd/skills/Theology|Theology]] 2 ranks, [[rangoric-srd/skills/Mysticism|Mysticism]] 7 ranks.
 
 *Feats:* [[rangoric-srd/feats/Empower Spell|Empower Spell]].
 

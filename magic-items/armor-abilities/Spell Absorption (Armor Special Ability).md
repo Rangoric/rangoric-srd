@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/magic-item]
 
 Adventurers everywhere covet armor and shields with this enchantment. *Spell absorption* items can absorb spells that are cast directly at the wearer (or wielder). These absorbed spells convert to pure magical energy and can be channeled to aid the wielder, either in attacking or in healing others.
 
-When targeted by a spell, the wielder is entitled to a check with her [[rangoric-srd/skills/Identifying Magic|Magic skill]] to identify the spell being cast. If successful, the wielder can then choose whether to absorb the spell effect or not. If the check fails, the spell is automatically absorbed.
+When targeted by a spell, the wielder is entitled to a [[rangoric-srd/skills/Mysticism|Mysticism]] check to identify the spell being cast. If successful, the wielder can then choose whether to absorb the spell effect or not. If the check fails, the spell is automatically absorbed.
 
 Once absorbing energy, the item must be discharged in one round. The wearer can use the charge to damage an opponent by making a melee touch attack. A hit deals 1d4 points of additional damage per spell level absorbed. Alternatively, charged armor can be used to heal the wielder for 1d4 hit points per spell level absorbed. Use of the healing power is a standard action.
 

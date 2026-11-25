@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/magic-item]
 
 Adventurers worlds over covet weapons that possess this enchantment. *Spell absorption* weapons can absorb spells that are cast directly at the wielder. The weapon converts absorbed spells into pure magical energy that can be channeled by the wielder to either boost attacks or to heal.
 
-When targeted by a spell, the wielder is entitled to a check with her [[rangoric-srd/skills/Identifying Magic|Magic skill]] to identify the spell being cast. If successful, the wielder can choose whether to absorb the spell effect or not. If the check fails, the spell is automatically absorbed.
+When targeted by a spell, the wielder is entitled to a [[rangoric-srd/skills/Mysticism|Mysticism]] check to identify the spell being cast. If successful, the wielder can choose whether to absorb the spell effect or not. If the check fails, the spell is automatically absorbed.
 
 Once absorbing energy, the weapon must be discharged in one round. A charged weapon deals 1d4 points of additional damage per spell level absorbed on a successful attack. Alternatively, a charged weapon can be used to heal the wielder for 1d4 hit points per spell level absorbed. Use of the healing power is a move action.
 

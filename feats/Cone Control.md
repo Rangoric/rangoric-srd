@@ -1,7 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-prerequisites: "The ability to use a breath weapon or cast an offensive spell with a cone area, 15 ranks in a Magic skill."
+prerequisites: "The ability to use a breath weapon or cast an offensive spell with a cone area, Mysticism 15 ranks."
 based-on:
   - "[[individual books/Spells & Magic v3.0/feats/Cone Control|Cone Control (Spells & Magic)]]"
 status: draft
@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/feat, metamagic]
 
 You are able to direct any spell or breath weapon with a cone area at specific targets rather than covering an area.
 
-**Prerequisites**: The ability to use a breath weapon or cast an offensive spell with a cone area; 15 ranks in a [[rangoric-srd/skills/Identifying Magic|Magic skill]].
+**Prerequisites**: The ability to use a breath weapon or cast an offensive spell with a cone area; [[rangoric-srd/skills/Mysticism|Mysticism]] 15 ranks.
 
 **Benefit**: When this feat is used, the prepared spell or breath weapon no longer has a cone area. Instead, the caster or breather may direct a blast of the attack at one target for every 5 feet of the cone’s maximum length. Thus, if a breath weapon had a maximum length of 25 feet, up to five creatures could be targeted with this feat. This feat does not increase the range of the spell or breath weapon: all targets must still be within the spell’s range.
 

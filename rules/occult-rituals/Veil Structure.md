@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/occult-ritual]
   - **Level**: 8
   - **Casting Time**: 80 minutes
   - **Components**: V, S, M (a half-gallon of water from a fresh spring and a potion of *[[rangoric-srd/spells/Invisibility|invisibility]]*), F (a pair of mithral pitchers and two golden aspergillums, worth 25,000 gp total), SC (at least 4 and up to 12)
-  - **Skill Checks**: [[rangoric-srd/skills/Nature|Nature]] or [[rangoric-srd/skills/Society|Society]] (see text) DC 32, 4 successes; [[rangoric-srd/skills/Arcana|Arcana]] DC 32, 2 successes; [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] DC 32, 2 successes
+  - **Skill Checks**: [[rangoric-srd/skills/Nature|Nature]] or [[rangoric-srd/skills/Society|Society]] (see text) DC 32, 4 successes; [[rangoric-srd/skills/Mysticism|Mysticism]] DC 32, 2 successes; [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] DC 32, 2 successes
   - **Range**: close (25 ft. + 5 ft./character level of the primary caster)
   - **Area**: one 20-ft. cube/character level of the primary caster
   - **Duration**: permanent (D)

@@ -40,7 +40,7 @@ You can sense the aura of death and necromantic energy.
 
 **Length Aura Lingers**: How long the aura lingers depends on its original strength: faint, 1d6 minutes; moderate, 1d6 × 10 minutes; strong, 1d6 hours; overwhelming, 1d6 days.
 
-This feat can penetrate some barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or earth blocks it. Intelligent undead creatures (those with at least 10 Int) detected by this feat can make an Intelligence check or a [[rangoric-srd/skills/Identifying Magic|Magic skill]] check (DC 20) to notice the faint touch of the shadetouched character’s mind, as if they were being affected by the *[[rangoric-srd/spells/Scrying|scrying]]* spell. A successful check reveals only that someone is observing the target.
+This feat can penetrate some barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or earth blocks it. Intelligent undead creatures (those with at least 10 Int) detected by this feat can make an Intelligence check or a [[rangoric-srd/skills/Mysticism|Mysticism]] check (DC 20) to notice the faint touch of the shadetouched character’s mind, as if they were being affected by the *[[rangoric-srd/spells/Scrying|scrying]]* spell. A successful check reveals only that someone is observing the target.
 
 Abilities granted by this feat are spell-like abilities. Using this feat causes 2 points of [[rangoric-srd/combat/Injury and Death#Nonlethal Damage|nonlethal damage]] per round. You may select other [[rangoric-srd/rules/path-of-shades/The Path of Shades#Shadetouched Feats|shadetouched feats]].
 

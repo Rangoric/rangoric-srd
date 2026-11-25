@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/occult-ritual]
   - **Level**: 4
   - **Casting Time**: 40 minutes
   - **Components**: V, M (a piece of rowan wood charcoal), F (a small silver mirror worth 50 gp)
-  - **Skill Checks**: [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] DC 30, 3 successes; [[rangoric-srd/skills/Arcana|Arcana]] DC 30, 1 success
+  - **Skill Checks**: [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] DC 30, 3 successes; [[rangoric-srd/skills/Mysticism|Mysticism]] DC 30, 1 success
   - **Range**: touch
   - **Target**: one dungeon door
   - **Duration**: 8 hours

@@ -39,4 +39,4 @@ tags: [rangoric, rangoric/constellation]
 
 Your memory opens like a written record you can search at will. You can take 10 on any [[rangoric-srd/skills/Knowledge|Knowledge]] check while the constellation lasts.
 
-**Higher call levels**: Each call level above 3rd gives you a +2 bonus on Knowledge checks and on checks with your [[rangoric-srd/skills/Identifying Magic|Magic skill]] while it lasts.
+**Higher call levels**: Each call level above 3rd gives you a +2 bonus on Knowledge checks and on [[rangoric-srd/skills/Mysticism|Mysticism]] checks while it lasts.

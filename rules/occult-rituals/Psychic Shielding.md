@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/occult-ritual]
   - **Level**: 6
   - **Casting Time**: 60 minutes
   - **Components**: V, S, M (diamond dust worth 500 gp), F (mithral mirrors worth a total of 10,000 gp and a lit lantern)
-  - **Skill Checks**: [[rangoric-srd/skills/Arcana|Arcana]] DC 33, 3 successes; [[rangoric-srd/skills/Psychic (Skill)|Psychic]] DC 33, 3 successes
+  - **Skill Checks**: [[rangoric-srd/skills/Arcana|Arcana]] DC 33, 3 successes; [[rangoric-srd/skills/Mysticism|Mysticism]] DC 33, 3 successes
   - **Range**: touch
   - **Target**: one creature
   - **Duration**: 1 day/character level of the caster

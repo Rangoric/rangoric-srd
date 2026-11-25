@@ -18,4 +18,4 @@ You are able to record and recall even the complex and intricate details of spel
 
 **Prerequisites**: [[rangoric-srd/skills/Arcana|Arcana]] 5 ranks, [[rangoric-srd/classes/Investigator#^investigator-keen-recollection|keen recollection]] class feature.
 
-**Benefit**: Once per day, you can record the formula for a spell that you saw being cast and [[rangoric-srd/skills/Identifying Magic|identified]] with [[rangoric-srd/skills/Arcana|Arcana]] in the past 24 hours. This spell must be on the [[rangoric-srd/spells/Alchemist Formula List|alchemist formula list]].
+**Benefit**: Once per day, you can record the formula for a spell that you saw being cast and identified with [[rangoric-srd/skills/Mysticism|Mysticism]] in the past 24 hours. This spell must be on the [[rangoric-srd/spells/Alchemist Formula List|alchemist formula list]].

@@ -137,7 +137,7 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Desperate Visitor**: A mysterious visitor arrives asking for magical help with a personal and time-sensitive matter. If you succeed at a DC 25 [[rangoric-srd/skills/Arcana|Arcana]] check, you discreetly deal with the problem; you gain 1d4 points of Influence, and there is a 10% chance that the visitor recommends you to someone with a similar problem and the building gains a +10 bonus on its next check to generate capital. If you fail this check, you are unable to help the visitor, word spreads of your ineptitude, and you lose 1d6 points of Influence.
 
-**Mysterious Item**: A mysterious magic item is discovered on your doorstep, is unearthed by one of your employees, or is delivered to you by a desperate adventurer. If you succeed at a DC 30 [[rangoric-srd/skills/Identifying Magic|Magic skill]] check, you identify it as a random magic item worth 500 gp or less, though its unusual history might give it a higher value. Failing this check means you are unable to identify it, or you detect traces of curse magic; either way, you must sell it quickly to someone else for 1d10 × 10 gp before it causes you any trouble.
+**Mysterious Item**: A mysterious magic item is discovered on your doorstep, is unearthed by one of your employees, or is delivered to you by a desperate adventurer. If you succeed at a DC 30 [[rangoric-srd/skills/Mysticism|Mysticism]] check, you identify it as a random magic item worth 500 gp or less, though its unusual history might give it a higher value. Failing this check means you are unable to identify it, or you detect traces of curse magic; either way, you must sell it quickly to someone else for 1d10 × 10 gp before it causes you any trouble.
 
 **Table: Castle Events**
 
@@ -314,7 +314,7 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 | 51–70 | Burglary |
 | 71–100 | Concerned citizens |
 
-**Burglary**: Thieves have attempted to break into your shop to steal your magic. You can immediately spend 1d6 points of Influence to negate this attempt. Otherwise, attempt a DC 25 [[rangoric-srd/skills/Perception|Perception]] or [[rangoric-srd/skills/Identifying Magic|Magic skill]] check. On a success, your building's defenses work, the thieves are caught, and you gain 1d2 points of Influence. On a failure, you lose 1d4 points of Goods and 2d4 points of Magic.
+**Burglary**: Thieves have attempted to break into your shop to steal your magic. You can immediately spend 1d6 points of Influence to negate this attempt. Otherwise, attempt a DC 25 [[rangoric-srd/skills/Perception|Perception]] or [[rangoric-srd/skills/Mysticism|Mysticism]] check. On a success, your building's defenses work, the thieves are caught, and you gain 1d2 points of Influence. On a failure, you lose 1d4 points of Goods and 2d4 points of Magic.
 
 **Clueless Adventurer**: An adventurer comes to the shop seeking to sell a magic item that she has misidentified or doesn't understand the true nature of. Most of the time, this item is relatively minor (worth less than 1,000 gp), but 10% of the time it's a randomly determined item of a greater value (up to 4,000 gp). The adventurer offers to sell the item to you for half of what she thinks its actual value is (for example, if she thinks a *potion of cure serious wounds* is actually a *potion of cure moderate wounds*, she asks for 150 gp instead of 375 gp). If you inform the adventurer of the item's actual abilities value before buying it (and adjust your buying price accordingly), word of your honesty gets around and you gain 2d6 points of Influence. There is a 50% chance the informed adventurer decides to keep the item and a 50% chance she decides to sell it to you anyway at your offered buying price.
 
@@ -341,7 +341,7 @@ Many events allow a skill check to affect the outcome of the event. If you're pr
 
 **Explosion**: Treat this as the explosion event for the Alchemist building.
 
-**Hazing Gone Wrong**: One of your students is the victim of a cruel prank at the hands of the other students. The hazing event is shameful and dangerous, and you lose 1d6 points of Influence as the community learns of it. You must succeed at a DC 20 [[rangoric-srd/skills/Medicine|Medicine]] or [[rangoric-srd/skills/Identifying Magic|Magic skill]] check to help the student. If you fail the check, the student dies or is permanently maimed, and you lose another 2d6 points of Influence, 1d6 points of Labor, and 1d3 points of Magic in dealing with the repercussions of the hazing.
+**Hazing Gone Wrong**: One of your students is the victim of a cruel prank at the hands of the other students. The hazing event is shameful and dangerous, and you lose 1d6 points of Influence as the community learns of it. You must succeed at a DC 20 [[rangoric-srd/skills/Medicine|Medicine]] or [[rangoric-srd/skills/Mysticism|Mysticism]] check to help the student. If you fail the check, the student dies or is permanently maimed, and you lose another 2d6 points of Influence, 1d6 points of Labor, and 1d3 points of Magic in dealing with the repercussions of the hazing.
 
 **Student Discovery**: A student makes an unexpected discovery. You gain 1d3 points of Magic.
 

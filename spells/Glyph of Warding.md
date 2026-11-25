@@ -44,7 +44,7 @@ You set the conditions of the ward. Typically, any creature entering the warded 
 
 When casting the spell, you weave a tracery of faintly glowing lines around the warding sigil. A glyph can be placed to conform to any shape up to the limitations of your total square footage. When the spell is completed, the glyph and tracery become nearly invisible.
 
-Glyphs cannot be affected or bypassed by such means as physical or magical probing, though they can be dispelled. Mislead, polymorph, and nondetection (and similar magical effects) can fool a glyph, though nonmagical disguises and the like can’t. Read magic allows you to identify a glyph of warding with a DC 13 [[rangoric-srd/skills/Identifying Magic|Magic skill]] check. Identifying the glyph does not discharge it and allows you to know the basic nature of the glyph (version, type of damage caused, what spell is stored).
+Glyphs cannot be affected or bypassed by such means as physical or magical probing, though they can be dispelled. Mislead, polymorph, and nondetection (and similar magical effects) can fool a glyph, though nonmagical disguises and the like can’t. Read magic allows you to identify a glyph of warding with a DC 13 [[rangoric-srd/skills/Mysticism|Mysticism]] check. Identifying the glyph does not discharge it and allows you to know the basic nature of the glyph (version, type of damage caused, what spell is stored).
 
 *Note*: Magic traps such as glyph of warding are hard to detect and disable. A rogue (only) can use the [[rangoric-srd/skills/Investigation|Investigation]] skill to find the glyph and [[rangoric-srd/skills/Engineering|Engineering]] to thwart it. The DC in each case is 25 + spell level, or 28 for glyph of warding.
 

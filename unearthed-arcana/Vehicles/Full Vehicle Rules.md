@@ -42,7 +42,7 @@ From canoes and large ships to winged gliders, vehicles propelled by currents ty
 
 **Weird Current**: Navigating currents of magical energy, burning magma, or the murky rivers of the Shadow Plane could use a number of skills, but likely use skills similar to those needed to operate water-current and air-current vehicles. Weird-current vehicles always have their driving check DCs increased by 10, and sometimes by 15 in more exotic locales and conditions. Weird-current vehicles typically move at the speed of water or air currents, depending on their nature, but have been known to move twice or even triple those speeds.
 
-**Magic**: Magic provides some of the most powerful and easy-to-use methods of propelling a vehicle, such as an elemental-powered juggernaut or an airship with an arcane device at its heart. Often simply identifying the properties of the magic item providing propulsion gives a creature the ability to use it, but sometimes more complicated magical devices require [[rangoric-srd/skills/Identifying Magic|Magic skill]] or [[rangoric-srd/skills/Emulation|Emulation]] to drive properly.
+**Magic**: Magic provides some of the most powerful and easy-to-use methods of propelling a vehicle, such as an elemental-powered juggernaut or an airship with an arcane device at its heart. Often simply identifying the properties of the magic item providing propulsion gives a creature the ability to use it, but sometimes more complicated magical devices require [[rangoric-srd/skills/Mysticism|Mysticism]] or [[rangoric-srd/skills/Emulation|Emulation]] to drive properly.
 
 ### Muscle
 

@@ -689,9 +689,9 @@ Land-based creatures can have considerable difficulty when fighting in water. Wa
 
 **Attacks from Land**: Characters swimming, floating, or treading water on the surface, or wading in water at least chest deep, have improved cover (+8 bonus to AC, +4 bonus on Reflex saves) from opponents on land. Landbound opponents who have freedom of movement effects ignore this cover when making melee attacks against targets in the water. A completely submerged creature has total cover against opponents on land unless those opponents have freedom of movement effects. Magical effects are unaffected except for those that require attack rolls (which are treated like any other effects) and fire effects.
 
-**Fire**: Nonmagical fire (including alchemist’s fire) does not burn underwater. Spells or spell-like effects with the fire descriptor are ineffective underwater unless the caster makes a [[rangoric-srd/skills/Identifying Magic|Magic skill]] check (DC 20 + spell level). If the check succeeds, the spell creates a bubble of steam instead of its usual fiery effect, but otherwise the spell works as described. A supernatural fire effect is ineffective underwater unless its description states otherwise.
+**Fire**: Nonmagical fire (including alchemist’s fire) does not burn underwater. Spells or spell-like effects with the fire descriptor are ineffective underwater unless the caster makes a [[rangoric-srd/skills/Mysticism|Mysticism]] check (DC 20 + spell level). If the check succeeds, the spell creates a bubble of steam instead of its usual fiery effect, but otherwise the spell works as described. A supernatural fire effect is ineffective underwater unless its description states otherwise.
 
-The surface of a body of water blocks line of effect for any fire spell. If the caster has made a Magic skill check to make the fire spell usable underwater, the surface still blocks the spell’s line of effect.
+The surface of a body of water blocks line of effect for any fire spell. If the caster has made a Mysticism check to make the fire spell usable underwater, the surface still blocks the spell’s line of effect.
 
 **Table: COMBAT ADJUSTMENTS UNDERWATER**
 

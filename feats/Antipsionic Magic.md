@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/feat]
 
 Your spells are more potent when used against psionic characters and creatures.  
 
-Prerequisite: [[rangoric-srd/skills/Arcana|Arcana]], [[rangoric-srd/skills/Nature|Nature]] or [[rangoric-srd/skills/Theology|Theology]] 2 ranks.
+Prerequisite: [[rangoric-srd/skills/Mysticism|Mysticism]] 2 ranks.
 
 Benefit: You get a get a +2 bonus on caster level checks made to overcome a psionic creature’s power resistance.
 

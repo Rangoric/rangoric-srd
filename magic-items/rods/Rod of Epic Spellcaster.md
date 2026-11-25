@@ -17,5 +17,5 @@ tags: [rangoric, rangoric/magic-item, epic]
 
 # Rod of Epic Spellcaster
 
-This magnificent adamantine rod grants its wielder a +10 insight bonus on Magic skill checks made to cast epic spells for as long as he or she holds or carries the rod.  
+This magnificent adamantine rod grants its wielder a +10 insight bonus on Mysticism checks made to cast epic spells for as long as he or she holds or carries the rod.  
 Caster Level: 21st; Prerequisites: Craft Rod, Craft Epic Rod; Market Price: 245,400 gp.

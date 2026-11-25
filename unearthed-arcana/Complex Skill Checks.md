@@ -215,7 +215,7 @@ Researching rare or lost knowledge is an excellent use of the complex skill chec
 
 To attempt a complex [[rangoric-srd/skills/Knowledge|Knowledge]] check, a character must have access to a library that the game master decides is sufficient for the task. The game master is also free to rule that several successful rolls in a complex Knowledge check exhaust a particular library or tome's resources and lead the character to another work or library. In this way, a complex Knowledge check can become an adventure in itself as the character searches out rare or lost volumes of information.
 
-Although use of the [[rangoric-srd/skills/Identifying Magic|Magic skill]] does not normally lend itself to complex skill checks, the game master is free to rule that examining a complicated magical effect might require a complex Magic skill check.
+Although use of [[rangoric-srd/skills/Mysticism|Mysticism]] does not normally lend itself to complex skill checks, the game master is free to rule that examining a complicated magical effect might require a complex Mysticism check.
 
 ###### Linguistics
 

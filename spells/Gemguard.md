@@ -38,7 +38,7 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: None
   - **Spell Resistance**: No
 
-You transform a gem into a scrying device/alarm. When the spell is cast, the two halves of the focus become linked, and when you hold one, you may scry on the other at will (as *[[rangoric-srd/spells/Scrying|scrying]]*). You can see everything within 50 ft. of the other half. Any creature with at least a 12 Intelligence can sense your attention with a [[rangoric-srd/skills/Identifying Magic|Magic skill]] check or an Intelligence check (DC 20).
+You transform a gem into a scrying device/alarm. When the spell is cast, the two halves of the focus become linked, and when you hold one, you may scry on the other at will (as *[[rangoric-srd/spells/Scrying|scrying]]*). You can see everything within 50 ft. of the other half. Any creature with at least a 12 Intelligence can sense your attention with a [[rangoric-srd/skills/Mysticism|Mysticism]] check or an Intelligence check (DC 20).
 
 Spells may be cast freely through the linking gem, and may target any creature within its sensor range. Area effect spells may damage the other half of the focus, which has a caster level equal to the caster’s level at the time the spell was cast, and has a hardness of 10 and 30 hit points.
 

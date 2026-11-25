@@ -34,4 +34,4 @@ Kenaz is the rune of vision and light, bringing forth illumination so knowledge 
 8. *[[rangoric-srd/spells/Vision|vision]]*
 9. *[[rangoric-srd/spells/Foresight|foresight]]*
 
-**Associated Skill Bonus**: +2 bonus on [[rangoric-srd/skills/Identifying Magic|Magic skill]] checks.
+**Associated Skill Bonus**: +2 bonus on [[rangoric-srd/skills/Mysticism|Mysticism]] checks.

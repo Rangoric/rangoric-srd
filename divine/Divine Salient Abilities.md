@@ -868,7 +868,7 @@ Suggested Portfolio Elements: Strength.
 
 ##### Instant Counterspell
 
-Benefit: When any spell is cast within the deity’s line of sight, the deity can counterspell it as a free action, provided that the deity is capable of casting the spell immediately or has it as a spell-like ability and makes the required [[rangoric-srd/skills/Identifying Magic|Magic skill]] check. The use of Instant Counterspell counts against the normal number of free actions the deity is allowed each round.  
+Benefit: When any spell is cast within the deity’s line of sight, the deity can counterspell it as a free action, provided that the deity is capable of casting the spell immediately or has it as a spell-like ability and makes the required [[rangoric-srd/skills/Mysticism|Mysticism]] check. The use of Instant Counterspell counts against the normal number of free actions the deity is allowed each round.  
 
 Suggested Portfolio Elements: Magic.
 
@@ -1069,7 +1069,7 @@ Suggested Portfolio Elements: Death, life, undead.
 
 Prerequisites: Magic domain.  
 
-Benefit: This ability is similar to a constant [[rangoric-srd/spells/Arcane Sight, Greater|greater arcane sight]] spell, except that it covers the whole area the deity can see, and the deity immediately knows the number of auras present along with their locations and strengths. The deity needs to make a [[rangoric-srd/skills/Identifying Magic|Magic skill]] check to identify the school of each aura, but most deities with this ability can use Magic skill as a free action.
+Benefit: This ability is similar to a constant [[rangoric-srd/spells/Arcane Sight, Greater|greater arcane sight]] spell, except that it covers the whole area the deity can see, and the deity immediately knows the number of auras present along with their locations and strengths. The deity needs to make a [[rangoric-srd/skills/Mysticism|Mysticism]] check to identify the school of each aura, but most deities with this ability can use Mysticism as a free action.
 
 Suggested Portfolio Elements: Magic.
 
