@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Neutral good, lawful neutral, neutral, chaotic neutral, or neutral evil"
 hit-die: "d8"
+bab: medium
+fort: good
+ref: poor
+will: good
 skill-points: "4 + Int modifier"
 based-on:
   - "[[path srd 3.5/classes/Druid|Druid (PF1)]]"
@@ -27,6 +31,10 @@ Within the purity of the elements and the order of the wilds lingers a power bey
 
 **Hit Die**: d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Will, poor Reflex.
+
 ###### Class Skills
 
 The druid’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), and [[rangoric-srd/skills/Society|Society]] (Int).
@@ -35,28 +43,28 @@ The druid’s class skills (and the key ability for each skill) are [[rangoric-s
 
 **Table: The Druid** ^table-the-druid
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                      | Spells per Day: 0 | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th | Spells per Day: 7th | Spells per Day: 8th | Spells per Day: 9th |
-| ----- | ----------------- | --------- | -------- | --------- | -------------------------------------------- | ----------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| 1st   | +0               | +2       | +0      | +2       | Nature bond, nature sense, orisons, wild empathy | 3 | 1 | — | — | — | — | — | — | — | — |
-| 2nd   | +1               | +3       | +0      | +3       | Woodland stride | 4 | 2 | — | — | — | — | — | — | — | — |
-| 3rd   | +2               | +3       | +1      | +3       | Trackless step | 4 | 2 | 1 | — | — | — | — | — | — | — |
-| 4th   | +3               | +4       | +1      | +4       | Resist nature’s lure, wild shape (1/day) | 5 | 3 | 2 | — | — | — | — | — | — | — |
-| 5th   | +3               | +4       | +1      | +4       | — | 5 | 3 | 2 | 1 | — | — | — | — | — | — |
-| 6th   | +4               | +5       | +2      | +5       | Wild shape (2/day) | 5 | 3 | 3 | 2 | — | — | — | — | — | — |
-| 7th   | +5               | +5       | +2      | +5       | — | 6 | 4 | 3 | 2 | 1 | — | — | — | — | — |
-| 8th   | +6/+1            | +6       | +2      | +6       | Wild shape (3/day) | 6 | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 9th   | +6/+1            | +6       | +3      | +6       | Venom immunity | 6 | 4 | 4 | 3 | 2 | 1 | — | — | — | — |
-| 10th  | +7/+2            | +7       | +3      | +7       | Wild shape (4/day) | 6 | 4 | 4 | 3 | 3 | 2 | — | — | — | — |
-| 11th  | +8/+3            | +7       | +3      | +7       | — | 6 | 5 | 4 | 4 | 3 | 2 | 1 | — | — | — |
-| 12th  | +9/+4            | +8       | +4      | +8       | Wild shape (5/day) | 6 | 5 | 4 | 4 | 3 | 3 | 2 | — | — | — |
-| 13th  | +9/+4            | +8       | +4      | +8       | A thousand faces | 6 | 5 | 5 | 4 | 4 | 3 | 2 | 1 | — | — |
-| 14th  | +10/+5           | +9       | +4      | +9       | Wild shape (6/day) | 6 | 5 | 5 | 4 | 4 | 3 | 3 | 2 | — | — |
-| 15th  | +11/+6/+1        | +9       | +5      | +9       | Timeless body | 6 | 5 | 5 | 5 | 4 | 4 | 3 | 2 | 1 | — |
-| 16th  | +12/+7/+2        | +10      | +5      | +10      | Wild shape (7/day) | 6 | 5 | 5 | 5 | 4 | 4 | 3 | 3 | 2 | — |
-| 17th  | +12/+7/+2        | +10      | +5      | +10      | — | 6 | 5 | 5 | 5 | 5 | 4 | 4 | 3 | 2 | 1 |
-| 18th  | +13/+8/+3        | +11      | +6      | +11      | Wild shape (8/day) | 6 | 5 | 5 | 5 | 5 | 4 | 4 | 3 | 3 | 2 |
-| 19th  | +14/+9/+4        | +11      | +6      | +11      | — | 6 | 5 | 5 | 5 | 5 | 5 | 4 | 4 | 3 | 3 |
-| 20th  | +15/+10/+5       | +12      | +6      | +12      | Wild shape (at will) | 6 | 5 | 5 | 5 | 5 | 5 | 4 | 4 | 4 | 4 |
+| Level | Special                                      | Spells per Day: 0 | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th | Spells per Day: 7th | Spells per Day: 8th | Spells per Day: 9th |
+| ----- | -------------------------------------------- | ----------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| 1st   | Nature bond, nature sense, orisons, wild empathy | 3 | 1 | — | — | — | — | — | — | — | — |
+| 2nd   | Woodland stride | 4 | 2 | — | — | — | — | — | — | — | — |
+| 3rd   | Trackless step | 4 | 2 | 1 | — | — | — | — | — | — | — |
+| 4th   | Resist nature’s lure, wild shape (1/day) | 5 | 3 | 2 | — | — | — | — | — | — | — |
+| 5th   | — | 5 | 3 | 2 | 1 | — | — | — | — | — | — |
+| 6th   | Wild shape (2/day) | 5 | 3 | 3 | 2 | — | — | — | — | — | — |
+| 7th   | — | 6 | 4 | 3 | 2 | 1 | — | — | — | — | — |
+| 8th   | Wild shape (3/day) | 6 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th   | Venom immunity | 6 | 4 | 4 | 3 | 2 | 1 | — | — | — | — |
+| 10th  | Wild shape (4/day) | 6 | 4 | 4 | 3 | 3 | 2 | — | — | — | — |
+| 11th  | — | 6 | 5 | 4 | 4 | 3 | 2 | 1 | — | — | — |
+| 12th  | Wild shape (5/day) | 6 | 5 | 4 | 4 | 3 | 3 | 2 | — | — | — |
+| 13th  | A thousand faces | 6 | 5 | 5 | 4 | 4 | 3 | 2 | 1 | — | — |
+| 14th  | Wild shape (6/day) | 6 | 5 | 5 | 4 | 4 | 3 | 3 | 2 | — | — |
+| 15th  | Timeless body | 6 | 5 | 5 | 5 | 4 | 4 | 3 | 2 | 1 | — |
+| 16th  | Wild shape (7/day) | 6 | 5 | 5 | 5 | 4 | 4 | 3 | 3 | 2 | — |
+| 17th  | — | 6 | 5 | 5 | 5 | 5 | 4 | 4 | 3 | 2 | 1 |
+| 18th  | Wild shape (8/day) | 6 | 5 | 5 | 5 | 5 | 4 | 4 | 3 | 3 | 2 |
+| 19th  | — | 6 | 5 | 5 | 5 | 5 | 5 | 4 | 4 | 3 | 3 |
+| 20th  | Wild shape (at will) | 6 | 5 | 5 | 5 | 5 | 5 | 4 | 4 | 4 | 4 |
 
 ###### Class Features
 

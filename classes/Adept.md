@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Classes"
 hit-die: "d6"
+bab: weak
+fort: poor
+ref: poor
+will: good
 skill-points: "2 + Int modifier"
 based-on:
   - "[[fantasy srd 3.5/classes/NPC Classes#Adept|NPC Classes (3.5)]]"
@@ -16,6 +20,10 @@ tags: [rangoric, rangoric/class]
 
 **Hit Die**: d6.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
+
 ## Class Skills
 
 The adept’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), and [[rangoric-srd/skills/Mysticism|Mysticism]] (Int).
@@ -24,28 +32,28 @@ The adept’s class skills (and the key ability for each skill) are [[rangoric-s
 
 **Table: The Adept**
 
-| NPC Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special         | Spells per Day: 0 | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th |
-| --------- | ----------------- | --------- | -------- | --------- | --------------- | ----------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| 1st       | +0               | +0       | +0      | +2       |                 | 3                 | 1                   | —                   | —                   | —                   | —                   |
-| 2nd       | +1               | +0       | +0      | +3       | Summon familiar | 3                 | 1                   | —                   | —                   | —                   | —                   |
-| 3rd       | +1               | +1       | +1      | +3       |                 | 3                 | 2                   | —                   | —                   | —                   | —                   |
-| 4th       | +2               | +1       | +1      | +4       |                 | 3                 | 2                   | 0                   | —                   | —                   | —                   |
-| 5th       | +2               | +1       | +1      | +4       |                 | 3                 | 2                   | 1                   | —                   | —                   | —                   |
-| 6th       | +3               | +2       | +2      | +5       |                 | 3                 | 2                   | 1                   | —                   | —                   | —                   |
-| 7th       | +3               | +2       | +2      | +5       |                 | 3                 | 3                   | 2                   | —                   | —                   | —                   |
-| 8th       | +4               | +2       | +2      | +6       |                 | 3                 | 3                   | 2                   | 0                   | —                   | —                   |
-| 9th       | +4               | +3       | +3      | +6       |                 | 3                 | 3                   | 2                   | 1                   | —                   | —                   |
-| 10th      | +5               | +3       | +3      | +7       |                 | 3                 | 3                   | 2                   | 1                   | —                   | —                   |
-| 11th      | +5               | +3       | +3      | +7       |                 | 3                 | 3                   | 3                   | 2                   | —                   | —                   |
-| 12th      | +6/+1            | +4       | +4      | +8       |                 | 3                 | 3                   | 3                   | 2                   | 0                   | —                   |
-| 13th      | +6/+1            | +4       | +4      | +8       |                 | 3                 | 3                   | 3                   | 2                   | 1                   | —                   |
-| 14th      | +7/+2            | +4       | +4      | +9       |                 | 3                 | 3                   | 3                   | 2                   | 1                   | —                   |
-| 15th      | +7/+2            | +5       | +5      | +9       |                 | 3                 | 3                   | 3                   | 3                   | 2                   | —                   |
-| 16th      | +8/+3            | +5       | +5      | +10      |                 | 3                 | 3                   | 3                   | 3                   | 2                   | 0                   |
-| 17th      | +8/+3            | +5       | +5      | +10      |                 | 3                 | 3                   | 3                   | 3                   | 2                   | 1                   |
-| 18th      | +9/+4            | +6       | +6      | +11      |                 | 3                 | 3                   | 3                   | 3                   | 2                   | 1                   |
-| 19th      | +9/+4            | +6       | +6      | +11      |                 | 3                 | 3                   | 3                   | 3                   | 3                   | 2                   |
-| 20th      | +10/+5           | +6       | +6      | +12      |                 | 3                 | 3                   | 3                   | 3                   | 3                   | 2                   |
+| NPC Level | Special         | Spells per Day: 0 | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th |
+| --------- | --------------- | ----------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| 1st       |                 | 3                 | 1                   | —                   | —                   | —                   | —                   |
+| 2nd       | Summon familiar | 3                 | 1                   | —                   | —                   | —                   | —                   |
+| 3rd       |                 | 3                 | 2                   | —                   | —                   | —                   | —                   |
+| 4th       |                 | 3                 | 2                   | 0                   | —                   | —                   | —                   |
+| 5th       |                 | 3                 | 2                   | 1                   | —                   | —                   | —                   |
+| 6th       |                 | 3                 | 2                   | 1                   | —                   | —                   | —                   |
+| 7th       |                 | 3                 | 3                   | 2                   | —                   | —                   | —                   |
+| 8th       |                 | 3                 | 3                   | 2                   | 0                   | —                   | —                   |
+| 9th       |                 | 3                 | 3                   | 2                   | 1                   | —                   | —                   |
+| 10th      |                 | 3                 | 3                   | 2                   | 1                   | —                   | —                   |
+| 11th      |                 | 3                 | 3                   | 3                   | 2                   | —                   | —                   |
+| 12th      |                 | 3                 | 3                   | 3                   | 2                   | 0                   | —                   |
+| 13th      |                 | 3                 | 3                   | 3                   | 2                   | 1                   | —                   |
+| 14th      |                 | 3                 | 3                   | 3                   | 2                   | 1                   | —                   |
+| 15th      |                 | 3                 | 3                   | 3                   | 3                   | 2                   | —                   |
+| 16th      |                 | 3                 | 3                   | 3                   | 3                   | 2                   | 0                   |
+| 17th      |                 | 3                 | 3                   | 3                   | 3                   | 2                   | 1                   |
+| 18th      |                 | 3                 | 3                   | 3                   | 3                   | 2                   | 1                   |
+| 19th      |                 | 3                 | 3                   | 3                   | 3                   | 3                   | 2                   |
+| 20th      |                 | 3                 | 3                   | 3                   | 3                   | 3                   | 2                   |
 
 ## Class Features
 

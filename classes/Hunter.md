@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any neutral"
 hit-die: "d8"
+bab: medium
+fort: good
+ref: good
+will: poor
 skill-points: "6 + Int modifier"
 book: "Advanced Class Guide"
 based-on:
@@ -28,6 +32,10 @@ Hunters are warriors of the wilds that have forged close bonds with trusted anim
 
 **Hit Die**: d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Reflex, poor Will.
+
 ###### Class Skills
 
 The hunter’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
@@ -36,28 +44,28 @@ The hunter’s class skills (and the key ability for each skill) are [[rangoric-
 
 **Table: The Hunter** ^table-the-hunter
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +2 | +2 | +0 | Animal companion, animal focus, nature training, orisons, wild empathy | 1 | — | — | — | — | — |
-| 2nd | +1 | +3 | +3 | +0 | Precise companion, track | 2 | — | — | — | — | — |
-| 3rd | +2 | +3 | +3 | +1 | Hunter tactics, teamwork feat | 3 | — | — | — | — | — |
-| 4th | +3 | +4 | +4 | +1 | Improved empathic link | 3 | 1 | — | — | — | — |
-| 5th | +3 | +4 | +4 | +1 | Woodland stride | 4 | 2 | — | — | — | — |
-| 6th | +4 | +5 | +5 | +2 | Teamwork feat | 4 | 3 | — | — | — | — |
-| 7th | +5 | +5 | +5 | +2 | Bonus trick | 4 | 3 | 1 | — | — | — |
-| 8th | +6/+1 | +6 | +6 | +2 | Second animal focus, swift tracker | 4 | 4 | 2 | — | — | — |
-| 9th | +6/+1 | +6 | +6 | +3 | Teamwork feat | 5 | 4 | 3 | — | — | — |
-| 10th | +7/+2 | +7 | +7 | +3 | Raise animal companion | 5 | 4 | 3 | 1 | — | — |
-| 11th | +8/+3 | +7 | +7 | +3 | Speak with master | 5 | 4 | 4 | 2 | — | — |
-| 12th | +9/+4 | +8 | +8 | +4 | Teamwork feat | 5 | 5 | 4 | 3 | — | — |
-| 13th | +9/+4 | +8 | +8 | +4 | Bonus trick | 5 | 5 | 4 | 3 | 1 | — |
-| 14th | +10/+5 | +9 | +9 | +4 | Greater empathic link | 5 | 5 | 4 | 4 | 2 | — |
-| 15th | +11/+6/+1 | +9 | +9 | +5 | Teamwork feat | 5 | 5 | 5 | 4 | 3 | — |
-| 16th | +12/+7/+2 | +10 | +10 | +5 | — | 5 | 5 | 5 | 4 | 3 | 1 |
-| 17th | +12/+7/+2 | +10 | +10 | +5 | One with the wild | 5 | 5 | 5 | 4 | 4 | 2 |
-| 18th | +13/+8/+3 | +11 | +11 | +6 | Teamwork feat | 5 | 5 | 5 | 5 | 4 | 3 |
-| 19th | +14/+9/+4 | +11 | +11 | +6 | Bonus trick | 5 | 5 | 5 | 5 | 5 | 4 |
-| 20th | +15/+10/+5 | +12 | +12 | +6 | Master hunter | 5 | 5 | 5 | 5 | 5 | 5 |
+| Level | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st | Animal companion, animal focus, nature training, orisons, wild empathy | 1 | — | — | — | — | — |
+| 2nd | Precise companion, track | 2 | — | — | — | — | — |
+| 3rd | Hunter tactics, teamwork feat | 3 | — | — | — | — | — |
+| 4th | Improved empathic link | 3 | 1 | — | — | — | — |
+| 5th | Woodland stride | 4 | 2 | — | — | — | — |
+| 6th | Teamwork feat | 4 | 3 | — | — | — | — |
+| 7th | Bonus trick | 4 | 3 | 1 | — | — | — |
+| 8th | Second animal focus, swift tracker | 4 | 4 | 2 | — | — | — |
+| 9th | Teamwork feat | 5 | 4 | 3 | — | — | — |
+| 10th | Raise animal companion | 5 | 4 | 3 | 1 | — | — |
+| 11th | Speak with master | 5 | 4 | 4 | 2 | — | — |
+| 12th | Teamwork feat | 5 | 5 | 4 | 3 | — | — |
+| 13th | Bonus trick | 5 | 5 | 4 | 3 | 1 | — |
+| 14th | Greater empathic link | 5 | 5 | 4 | 4 | 2 | — |
+| 15th | Teamwork feat | 5 | 5 | 5 | 4 | 3 | — |
+| 16th | — | 5 | 5 | 5 | 4 | 3 | 1 |
+| 17th | One with the wild | 5 | 5 | 5 | 4 | 4 | 2 |
+| 18th | Teamwork feat | 5 | 5 | 5 | 5 | 4 | 3 |
+| 19th | Bonus trick | 5 | 5 | 5 | 5 | 5 | 4 |
+| 20th | Master hunter | 5 | 5 | 5 | 5 | 5 | 5 |
 
 **Table: Hunter Spells Known** ^table-hunter-spells-known
 

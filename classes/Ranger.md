@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d10"
+bab: full
+fort: good
+ref: good
+will: poor
 skill-points: "6 + Int modifier"
 based-on:
   - "[[fantasy srd 3.5/classes/Ranger|Ranger (3.5)]]"
@@ -20,6 +24,10 @@ tags: [rangoric, rangoric/class]
 
 **Hit Die**: d10.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Reflex, poor Will.
+
 ###### Class Skills
 
 The ranger’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Society|Society]] (Int), [[rangoric-srd/skills/Stealth|Stealth]] (Dex), and [[rangoric-srd/skills/Tactics|Tactics]] (Int).
@@ -28,28 +36,28 @@ The ranger’s class skills (and the key ability for each skill) are [[rangoric-
 
 **Table: The Ranger** ^table-the-ranger
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th |
-| ----- | ----------------- | --------- | -------- | --------- | -------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| 1st   | +1               | +2       | +2      | +0       | 1st favored enemy, Track, wild empathy | — | — | — | — |
-| 2nd   | +2               | +3       | +3      | +0       | Combat style feat | — | — | — | — |
-| 3rd   | +3               | +3       | +3      | +1       | Endurance, 1st favored terrain | — | — | — | — |
-| 4th   | +4               | +4       | +4      | +1       | Hunter's bond | 0 | — | — | — |
-| 5th   | +5               | +4       | +4      | +1       | 2nd favored enemy | 1 | — | — | — |
-| 6th   | +6/+1            | +5       | +5      | +2       | Combat style feat | 1 | — | — | — |
-| 7th   | +7/+2            | +5       | +5      | +2       | Woodland stride | 1 | 0 | — | — |
-| 8th   | +8/+3            | +6       | +6      | +2       | Swift tracker, 2nd favored terrain | 1 | 1 | — | — |
-| 9th   | +9/+4            | +6       | +6      | +3       | Evasion | 2 | 1 | — | — |
-| 10th  | +10/+5           | +7       | +7      | +3       | 3rd favored enemy, combat style feat | 2 | 1 | 0 | — |
-| 11th  | +11/+6/+1        | +7       | +7      | +3       | Quarry | 2 | 1 | 1 | — |
-| 12th  | +12/+7/+2        | +8       | +8      | +4       | Camouflage | 2 | 2 | 1 | — |
-| 13th  | +13/+8/+3        | +8       | +8      | +4       | 3rd favored terrain | 3 | 2 | 1 | 0 |
-| 14th  | +14/+9/+4        | +9       | +9      | +4       | Combat style feat | 3 | 2 | 1 | 1 |
-| 15th  | +15/+10/+5       | +9       | +9      | +5       | 4th favored enemy | 3 | 2 | 2 | 1 |
-| 16th  | +16/+11/+6/+1    | +10      | +10     | +5       | Improved evasion | 3 | 3 | 2 | 1 |
-| 17th  | +17/+12/+7/+2    | +10      | +10     | +5       | Hide in plain sight | 4 | 3 | 2 | 1 |
-| 18th  | +18/+13/+8/+3    | +11      | +11     | +6       | 4th favored terrain, combat style feat | 4 | 3 | 2 | 2 |
-| 19th  | +19/+14/+9/+4    | +11      | +11     | +6       | Improved quarry | 4 | 3 | 3 | 2 |
-| 20th  | +20/+15/+10/+5   | +12      | +12     | +6       | 5th favored enemy, master hunter | 4 | 4 | 3 | 3 |
+| Level | Special                                | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th |
+| ----- | -------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| 1st   | 1st favored enemy, Track, wild empathy | — | — | — | — |
+| 2nd   | Combat style feat | — | — | — | — |
+| 3rd   | Endurance, 1st favored terrain | — | — | — | — |
+| 4th   | Hunter's bond | 0 | — | — | — |
+| 5th   | 2nd favored enemy | 1 | — | — | — |
+| 6th   | Combat style feat | 1 | — | — | — |
+| 7th   | Woodland stride | 1 | 0 | — | — |
+| 8th   | Swift tracker, 2nd favored terrain | 1 | 1 | — | — |
+| 9th   | Evasion | 2 | 1 | — | — |
+| 10th  | 3rd favored enemy, combat style feat | 2 | 1 | 0 | — |
+| 11th  | Quarry | 2 | 1 | 1 | — |
+| 12th  | Camouflage | 2 | 2 | 1 | — |
+| 13th  | 3rd favored terrain | 3 | 2 | 1 | 0 |
+| 14th  | Combat style feat | 3 | 2 | 1 | 1 |
+| 15th  | 4th favored enemy | 3 | 2 | 2 | 1 |
+| 16th  | Improved evasion | 3 | 3 | 2 | 1 |
+| 17th  | Hide in plain sight | 4 | 3 | 2 | 1 |
+| 18th  | 4th favored terrain, combat style feat | 4 | 3 | 2 | 2 |
+| 19th  | Improved quarry | 4 | 3 | 3 | 2 |
+| 20th  | 5th favored enemy, master hunter | 4 | 4 | 3 | 3 |
 
 ###### Class Features
 

@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d8"
+bab: medium
+fort: good
+ref: poor
+will: good
 skill-points: "2 + Int modifier"
 book: "Ultimate Magic"
 based-on:
@@ -26,6 +30,10 @@ There are those who spend their lives poring over ancient tomes and texts, unloc
 
 **Hit Die**: d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Will, poor Reflex.
+
 ###### Class Skills
 
 The magus’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Theology|Theology]] (Int).
@@ -34,28 +42,28 @@ The magus’s class skills (and the key ability for each skill) are [[rangoric-s
 
 **Table: The Magus** ^table-the-magus
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day: 0 | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +2 | +0 | +2 | Arcane pool, cantrips, spell combat | 3 | 1 | — | — | — | — | — |
-| 2nd | +1 | +3 | +0 | +3 | Spellstrike | 4 | 2 | — | — | — | — | — |
-| 3rd | +2 | +3 | +1 | +3 | Magus arcana | 4 | 3 | — | — | — | — | — |
-| 4th | +3 | +4 | +1 | +4 | Spell recall | 4 | 3 | 1 | — | — | — | — |
-| 5th | +3 | +4 | +1 | +4 | Bonus feat | 4 | 4 | 2 | — | — | — | — |
-| 6th | +4 | +5 | +2 | +5 | Magus arcana | 5 | 4 | 3 | — | — | — | — |
-| 7th | +5 | +5 | +2 | +5 | Knowledge pool, medium armor | 5 | 4 | 3 | 1 | — | — | — |
-| 8th | +6/+1 | +6 | +2 | +6 | Improved spell combat | 5 | 4 | 4 | 2 | — | — | — |
-| 9th | +6/+1 | +6 | +3 | +6 | Magus arcana | 5 | 5 | 4 | 3 | — | — | — |
-| 10th | +7/+2 | +7 | +3 | +7 | Fighter training | 5 | 5 | 4 | 3 | 1 | — | — |
-| 11th | +8/+3 | +7 | +3 | +7 | Bonus feat, improved spell recall | 5 | 5 | 4 | 4 | 2 | — | — |
-| 12th | +9/+4 | +8 | +4 | +8 | Magus arcana | 5 | 5 | 5 | 4 | 3 | — | — |
-| 13th | +9/+4 | +8 | +4 | +8 | Heavy armor | 5 | 5 | 5 | 4 | 3 | 1 | — |
-| 14th | +10/+5 | +9 | +4 | +9 | Greater spell combat | 5 | 5 | 5 | 4 | 4 | 2 | — |
-| 15th | +11/+6/+1 | +9 | +5 | +9 | Magus arcana | 5 | 5 | 5 | 5 | 4 | 3 | — |
-| 16th | +12/+7/+2 | +10 | +5 | +10 | Counterstrike | 5 | 5 | 5 | 5 | 4 | 3 | 1 |
-| 17th | +12/+7/+2 | +10 | +5 | +10 | Bonus feat | 5 | 5 | 5 | 5 | 4 | 4 | 2 |
-| 18th | +13/+8/+3 | +11 | +6 | +11 | Magus arcana | 5 | 5 | 5 | 5 | 5 | 4 | 3 |
-| 19th | +14/+9/+4 | +11 | +6 | +11 | Greater spell access | 5 | 5 | 5 | 5 | 5 | 5 | 4 |
-| 20th | +15/+10/+5 | +12 | +6 | +12 | True magus | 5 | 5 | 5 | 5 | 5 | 5 | 5 |
+| Level | Special | Spells per Day: 0 | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st | Arcane pool, cantrips, spell combat | 3 | 1 | — | — | — | — | — |
+| 2nd | Spellstrike | 4 | 2 | — | — | — | — | — |
+| 3rd | Magus arcana | 4 | 3 | — | — | — | — | — |
+| 4th | Spell recall | 4 | 3 | 1 | — | — | — | — |
+| 5th | Bonus feat | 4 | 4 | 2 | — | — | — | — |
+| 6th | Magus arcana | 5 | 4 | 3 | — | — | — | — |
+| 7th | Knowledge pool, medium armor | 5 | 4 | 3 | 1 | — | — | — |
+| 8th | Improved spell combat | 5 | 4 | 4 | 2 | — | — | — |
+| 9th | Magus arcana | 5 | 5 | 4 | 3 | — | — | — |
+| 10th | Fighter training | 5 | 5 | 4 | 3 | 1 | — | — |
+| 11th | Bonus feat, improved spell recall | 5 | 5 | 4 | 4 | 2 | — | — |
+| 12th | Magus arcana | 5 | 5 | 5 | 4 | 3 | — | — |
+| 13th | Heavy armor | 5 | 5 | 5 | 4 | 3 | 1 | — |
+| 14th | Greater spell combat | 5 | 5 | 5 | 4 | 4 | 2 | — |
+| 15th | Magus arcana | 5 | 5 | 5 | 5 | 4 | 3 | — |
+| 16th | Counterstrike | 5 | 5 | 5 | 5 | 4 | 3 | 1 |
+| 17th | Bonus feat | 5 | 5 | 5 | 5 | 4 | 4 | 2 |
+| 18th | Magus arcana | 5 | 5 | 5 | 5 | 5 | 4 | 3 |
+| 19th | Greater spell access | 5 | 5 | 5 | 5 | 5 | 5 | 4 |
+| 20th | True magus | 5 | 5 | 5 | 5 | 5 | 5 | 5 |
 
 ###### Class Features
 

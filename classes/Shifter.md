@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any neutral"
 hit-die: "d10"
+bab: full
+fort: good
+ref: good
+will: poor
 skill-points: "4 + Int modifier"
 book: "Ultimate Wilderness"
 based-on:
@@ -31,6 +35,10 @@ For those leaning toward the causes of law and good, the path of the shifter is 
 
 **Hit Die**: d10.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Reflex, poor Will.
+
 ###### Class Skills
 
 The shifter’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
@@ -39,28 +47,28 @@ The shifter’s class skills (and the key ability for each skill) are [[rangoric
 
 **Table: The Shifter** ^table-the-shifter
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-| --- | --- | --- | --- | --- | --- |
-| 1st | +1 | +2 | +2 | +0 | Shifter aspect, shifter claws, wild empathy |
-| 2nd | +2 | +3 | +3 | +0 | Defensive instinct, track |
-| 3rd | +3 | +3 | +3 | +1 | Woodland stride |
-| 4th | +4 | +4 | +4 | +1 | Wild shape |
-| 5th | +5 | +4 | +4 | +1 | Second aspect, trackless step |
-| 6th | +6/+1 | +5 | +5 | +2 | Shifter’s fury |
-| 7th | +7/+2 | +5 | +5 | +2 | — |
-| 8th | +8/+3 | +6 | +6 | +2 | — |
-| 9th | +9/+4 | +6 | +6 | +3 | Chimeric aspect |
-| 10th | +10/+5 | +7 | +7 | +3 | Third aspect |
-| 11th | +11/+6/+1 | +7 | +7 | +3 | — |
-| 12th | +12/+7/+2 | +8 | +8 | +4 | — |
-| 13th | +13/+8/+3 | +8 | +8 | +4 | — |
-| 14th | +14/+9/+4 | +9 | +9 | +4 | Greater chimeric aspect |
-| 15th | +15/+10/+5 | +9 | +9 | +5 | Fourth aspect |
-| 16th | +16/+11/+6/+1 | +10 | +10 | +5 | — |
-| 17th | +17/+12/+7/+2 | +10 | +10 | +5 | — |
-| 18th | +18/+13/+8/+3 | +11 | +11 | +6 | A thousand faces, timeless body |
-| 19th | +19/+14/+9/+4 | +11 | +11 | +6 | — |
-| 20th | +20/+15/+10/+5 | +12 | +12 | +6 | Final aspect |
+| Level | Special |
+| --- | --- |
+| 1st | Shifter aspect, shifter claws, wild empathy |
+| 2nd | Defensive instinct, track |
+| 3rd | Woodland stride |
+| 4th | Wild shape |
+| 5th | Second aspect, trackless step |
+| 6th | Shifter’s fury |
+| 7th | — |
+| 8th | — |
+| 9th | Chimeric aspect |
+| 10th | Third aspect |
+| 11th | — |
+| 12th | — |
+| 13th | — |
+| 14th | Greater chimeric aspect |
+| 15th | Fourth aspect |
+| 16th | — |
+| 17th | — |
+| 18th | A thousand faces, timeless body |
+| 19th | — |
+| 20th | Final aspect |
 
 ###### Class Features
 

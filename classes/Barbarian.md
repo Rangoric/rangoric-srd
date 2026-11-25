@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any nonlawful"
 hit-die: "d12"
+bab: full
+fort: good
+ref: poor
+will: poor
 skill-points: "4 + Int modifier"
 book: ["Core Rulebook", "Pathfinder Unchained", "Advanced Player's Guide", "Ultimate Combat"]
 based-on:
@@ -27,6 +31,10 @@ For some, there is only rage. In the ways of their people, in the fury of their 
 
 **Hit Die**: d12.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude, poor Reflex and Will.
+
 ###### Class Skills
 
 The barbarian’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), and [[rangoric-srd/skills/Perception|Perception]] (Wis).
@@ -35,28 +43,28 @@ The barbarian’s class skills (and the key ability for each skill) are [[rangor
 
 **Table: The Barbarian** ^table-the-barbarian
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                               |
-| ----- | ----------------- | --------- | -------- | --------- | ------------------------------------- |
-| 1st   | +1               | +2       | +0      | +0       | Fast movement, rage |
-| 2nd   | +2               | +3       | +0      | +0       | Rage power, uncanny dodge |
-| 3rd   | +3               | +3       | +1      | +1       | Trap sense +1 |
-| 4th   | +4               | +4       | +1      | +1       | Rage power |
-| 5th   | +5               | +4       | +1      | +1       | Improved uncanny dodge |
-| 6th   | +6/+1            | +5       | +2      | +2       | Rage power, trap sense +2 |
-| 7th   | +7/+2            | +5       | +2      | +2       | Damage reduction 1/— |
-| 8th   | +8/+3            | +6       | +2      | +2       | Rage power |
-| 9th   | +9/+4            | +6       | +3      | +3       | Trap sense +3 |
-| 10th  | +10/+5           | +7       | +3      | +3       | Damage reduction 2/—, rage power |
-| 11th  | +11/+6/+1        | +7       | +3      | +3       | Greater rage |
-| 12th  | +12/+7/+2        | +8       | +4      | +4       | Rage power, trap sense +4 |
-| 13th  | +13/+8/+3        | +8       | +4      | +4       | Damage reduction 3/— |
-| 14th  | +14/+9/+4        | +9       | +4      | +4       | Indomitable will, rage power |
-| 15th  | +15/+10/+5       | +9       | +5      | +5       | Trap sense +5 |
-| 16th  | +16/+11/+6/+1    | +10      | +5      | +5       | Damage reduction 4/—, rage power |
-| 17th  | +17/+12/+7/+2    | +10      | +5      | +5       | Tireless rage |
-| 18th  | +18/+13/+8/+3    | +11      | +6      | +6       | Rage power, trap sense +6 |
-| 19th  | +19/+14/+9/+4    | +11      | +6      | +6       | Damage reduction 5/— |
-| 20th  | +20/+15/+10/+5   | +12      | +6      | +6       | Mighty rage, rage power |
+| Level | Special                               |
+| ----- | ------------------------------------- |
+| 1st   | Fast movement, rage |
+| 2nd   | Rage power, uncanny dodge |
+| 3rd   | Trap sense +1 |
+| 4th   | Rage power |
+| 5th   | Improved uncanny dodge |
+| 6th   | Rage power, trap sense +2 |
+| 7th   | Damage reduction 1/— |
+| 8th   | Rage power |
+| 9th   | Trap sense +3 |
+| 10th  | Damage reduction 2/—, rage power |
+| 11th  | Greater rage |
+| 12th  | Rage power, trap sense +4 |
+| 13th  | Damage reduction 3/— |
+| 14th  | Indomitable will, rage power |
+| 15th  | Trap sense +5 |
+| 16th  | Damage reduction 4/—, rage power |
+| 17th  | Tireless rage |
+| 18th  | Rage power, trap sense +6 |
+| 19th  | Damage reduction 5/— |
+| 20th  | Mighty rage, rage power |
 
 ###### Class Features
 

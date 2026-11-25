@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d12"
+bab: full
+fort: good
+ref: poor
+will: good
 skill-points: "4 + Int modifier"
 book: "Unearthed Arcana"
 race: "[[rangoric-srd/monsters/half-dragon/Half-Dragon|half-dragons]]"
@@ -40,11 +44,11 @@ Half-dragons are a diverse lot. Their dragon parents differ in attitudes and abi
 
 **Table: The Half-Dragon Paragon**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                                                  |
-| ----- | ----------------- | --------- | -------- | --------- | ------------------------------------------------------------------------ |
-| 1st   | +1               | +2       | +0      | +2       | [[#^half-dragon-paragon-sorcerous-blood\|Sorcerous blood]]               |
-| 2nd   | +2               | +3       | +0      | +3       | [[#^half-dragon-paragon-natural-armor-increase\|Natural armor increase]] |
-| 3rd   | +3               | +3       | +1      | +3       | [[#^half-dragon-paragon-breath-weapon\|Breath weapon]] 3/day             |
+| Level | Special                                                                  |
+| ----- | ------------------------------------------------------------------------ |
+| 1st   | [[#^half-dragon-paragon-sorcerous-blood\|Sorcerous blood]]               |
+| 2nd   | [[#^half-dragon-paragon-natural-armor-increase\|Natural armor increase]] |
+| 3rd   | [[#^half-dragon-paragon-breath-weapon\|Breath weapon]] 3/day             |
 
 Half-dragon paragons have the following game statistics.
 
@@ -53,6 +57,10 @@ Half-dragon paragons have the following game statistics.
 **Alignment:** Any.
 
 **Hit Die:** d12.
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Will, poor Reflex.
 
 ###### Class Skills
 

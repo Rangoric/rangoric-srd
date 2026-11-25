@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d8"
+bab: medium
+fort: poor
+ref: good
+will: good
 skill-points: "6 + Int modifier"
 book: "Advanced Class Guide"
 based-on:
@@ -28,6 +32,10 @@ Whether on the trail of a fugitive, a long-lost treasure trove, or a criminal ma
 
 **Hit Die**: d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Reflex and Will, poor Fortitude.
+
 ###### Class Skills
 
 The investigator’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Imitation|Imitation]] (Int), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] (Dex), [[rangoric-srd/skills/Society|Society]] (Int), [[rangoric-srd/skills/Stealth|Stealth]] (Dex), and [[rangoric-srd/skills/Theology|Theology]] (Int).
@@ -36,28 +44,28 @@ The investigator’s class skills (and the key ability for each skill) are [[ran
 
 **Table: The Investigator** ^table-the-investigator
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Extracts per Day: 1st | Extracts per Day: 2nd | Extracts per Day: 3rd | Extracts per Day: 4th | Extracts per Day: 5th | Extracts per Day: 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +2 | +2 | Alchemy, inspiration, trapfinding | 1 | — | — | — | — | — |
-| 2nd | +1 | +0 | +3 | +3 | Poison lore, poison resistance +2 | 2 | — | — | — | — | — |
-| 3rd | +2 | +1 | +3 | +3 | Investigator talent, keen recollection, trap sense +1 | 3 | — | — | — | — | — |
-| 4th | +3 | +1 | +4 | +4 | Studied combat, studied strike +1d6, swift alchemy | 3 | 1 | — | — | — | — |
-| 5th | +3 | +1 | +4 | +4 | Investigator talent, poison resistance +4 | 4 | 2 | — | — | — | — |
-| 6th | +4 | +2 | +5 | +5 | Studied strike +2d6, trap sense +2 | 4 | 3 | — | — | — | — |
-| 7th | +5 | +2 | +5 | +5 | Investigator talent | 4 | 3 | 1 | — | — | — |
-| 8th | +6/+1 | +2 | +6 | +6 | Poison resistance +6, studied strike +3d6 | 4 | 4 | 2 | — | — | — |
-| 9th | +6/+1 | +3 | +6 | +6 | Investigator talent, trap sense +3 | 5 | 4 | 3 | — | — | — |
-| 10th | +7/+2 | +3 | +7 | +7 | Studied strike +4d6 | 5 | 4 | 3 | 1 | — | — |
-| 11th | +8/+3 | +3 | +7 | +7 | Investigator talent, poison immunity | 5 | 4 | 4 | 2 | — | — |
-| 12th | +9/+4 | +4 | +8 | +8 | Studied strike +5d6, trap sense +4 | 5 | 5 | 4 | 3 | — | — |
-| 13th | +9/+4 | +4 | +8 | +8 | Investigator talent | 5 | 5 | 4 | 3 | 1 | — |
-| 14th | +10/+5 | +4 | +9 | +9 | Studied strike +6d6 | 5 | 5 | 4 | 4 | 2 | — |
-| 15th | +11/+6/+1 | +5 | +9 | +9 | Investigator talent, trap sense +5 | 5 | 5 | 5 | 4 | 3 | — |
-| 16th | +12/+7/+2 | +5 | +10 | +10 | Studied strike +7d6 | 5 | 5 | 5 | 4 | 3 | 1 |
-| 17th | +12/+7/+2 | +5 | +10 | +10 | Investigator talent | 5 | 5 | 5 | 4 | 4 | 2 |
-| 18th | +13/+8/+3 | +6 | +11 | +11 | Studied strike +8d6, trap sense +6 | 5 | 5 | 5 | 5 | 4 | 3 |
-| 19th | +14/+9/+4 | +6 | +11 | +11 | Investigator talent | 5 | 5 | 5 | 5 | 5 | 4 |
-| 20th | +15/+10/+5 | +6 | +12 | +12 | Studied strike +9d6, true inspiration | 5 | 5 | 5 | 5 | 5 | 5 |
+| Level | Special | Extracts per Day: 1st | Extracts per Day: 2nd | Extracts per Day: 3rd | Extracts per Day: 4th | Extracts per Day: 5th | Extracts per Day: 6th |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st | Alchemy, inspiration, trapfinding | 1 | — | — | — | — | — |
+| 2nd | Poison lore, poison resistance +2 | 2 | — | — | — | — | — |
+| 3rd | Investigator talent, keen recollection, trap sense +1 | 3 | — | — | — | — | — |
+| 4th | Studied combat, studied strike +1d6, swift alchemy | 3 | 1 | — | — | — | — |
+| 5th | Investigator talent, poison resistance +4 | 4 | 2 | — | — | — | — |
+| 6th | Studied strike +2d6, trap sense +2 | 4 | 3 | — | — | — | — |
+| 7th | Investigator talent | 4 | 3 | 1 | — | — | — |
+| 8th | Poison resistance +6, studied strike +3d6 | 4 | 4 | 2 | — | — | — |
+| 9th | Investigator talent, trap sense +3 | 5 | 4 | 3 | — | — | — |
+| 10th | Studied strike +4d6 | 5 | 4 | 3 | 1 | — | — |
+| 11th | Investigator talent, poison immunity | 5 | 4 | 4 | 2 | — | — |
+| 12th | Studied strike +5d6, trap sense +4 | 5 | 5 | 4 | 3 | — | — |
+| 13th | Investigator talent | 5 | 5 | 4 | 3 | 1 | — |
+| 14th | Studied strike +6d6 | 5 | 5 | 4 | 4 | 2 | — |
+| 15th | Investigator talent, trap sense +5 | 5 | 5 | 5 | 4 | 3 | — |
+| 16th | Studied strike +7d6 | 5 | 5 | 5 | 4 | 3 | 1 |
+| 17th | Investigator talent | 5 | 5 | 5 | 4 | 4 | 2 |
+| 18th | Studied strike +8d6, trap sense +6 | 5 | 5 | 5 | 5 | 4 | 3 |
+| 19th | Investigator talent | 5 | 5 | 5 | 5 | 5 | 4 |
+| 20th | Studied strike +9d6, true inspiration | 5 | 5 | 5 | 5 | 5 | 5 |
 
 ###### Class Features
 

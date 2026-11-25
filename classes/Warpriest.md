@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Within one step of his deity’s"
 hit-die: "d8"
+bab: medium
+fort: good
+ref: poor
+will: good
 skill-points: "2 + Int modifier"
 book: "Advanced Class Guide"
 based-on:
@@ -28,6 +32,10 @@ Capable of calling upon the power of the gods in the form of blessings and spell
 
 **Hit Die**: d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Will, poor Reflex.
+
 ###### Class Skills
 
 The warpriest’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), and [[rangoric-srd/skills/Theology|Theology]] (Int).
@@ -36,28 +44,28 @@ The warpriest’s class skills (and the key ability for each skill) are [[rangor
 
 **Table: The Warpriest** ^table-the-warpriest
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Sacred Weapon Damage* | Spells per Day: 0 | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +2 | +0 | +2 | Aura, blessings (minor), focus weapon, orisons, sacred weapon | 1d6 | 3 | 1 | — | — | — | — | — |
-| 2nd | +1 | +3 | +0 | +3 | Fervor 1d6 | 1d6 | 4 | 2 | — | — | — | — | — |
-| 3rd | +2 | +3 | +1 | +3 | Bonus feat | 1d6 | 4 | 3 | — | — | — | — | — |
-| 4th | +3 | +4 | +1 | +4 | Channel energy, sacred weapon +1 | 1d6 | 4 | 3 | 1 | — | — | — | — |
-| 5th | +3 | +4 | +1 | +4 | Fervor 2d6 | 1d8 | 4 | 4 | 2 | — | — | — | — |
-| 6th | +4 | +5 | +2 | +5 | Bonus feat | 1d8 | 5 | 4 | 3 | — | — | — | — |
-| 7th | +5 | +5 | +2 | +5 | Sacred armor +1 | 1d8 | 5 | 4 | 3 | 1 | — | — | — |
-| 8th | +6/+1 | +6 | +2 | +6 | Fervor 3d6, sacred weapon +2 | 1d8 | 5 | 4 | 4 | 2 | — | — | — |
-| 9th | +6/+1 | +6 | +3 | +6 | Bonus feat | 1d8 | 5 | 5 | 4 | 3 | — | — | — |
-| 10th | +7/+2 | +7 | +3 | +7 | Blessings (major), sacred armor +2 | 1d10 | 5 | 5 | 4 | 3 | 1 | — | — |
-| 11th | +8/+3 | +7 | +3 | +7 | Fervor 4d6 | 1d10 | 5 | 5 | 4 | 4 | 2 | — | — |
-| 12th | +9/+4 | +8 | +4 | +8 | Bonus feat, sacred weapon +3 | 1d10 | 5 | 5 | 5 | 4 | 3 | — | — |
-| 13th | +9/+4 | +8 | +4 | +8 | Sacred armor +3 | 1d10 | 5 | 5 | 5 | 4 | 3 | 1 | — |
-| 14th | +10/+5 | +9 | +4 | +9 | Fervor 5d6 | 1d10 | 5 | 5 | 5 | 4 | 4 | 2 | — |
-| 15th | +11/+6/+1 | +9 | +5 | +9 | Bonus feat | 2d6 | 5 | 5 | 5 | 5 | 4 | 3 | — |
-| 16th | +12/+7/+2 | +10 | +5 | +10 | Sacred armor +4, sacred weapon +4 | 2d6 | 5 | 5 | 5 | 5 | 4 | 3 | 1 |
-| 17th | +12/+7/+2 | +10 | +5 | +10 | Fervor 6d6 | 2d6 | 5 | 5 | 5 | 5 | 4 | 4 | 2 |
-| 18th | +13/+8/+3 | +11 | +6 | +11 | Bonus feat | 2d6 | 5 | 5 | 5 | 5 | 5 | 4 | 3 |
-| 19th | +14/+9/+4 | +11 | +6 | +11 | Sacred armor +5 | 2d6 | 5 | 5 | 5 | 5 | 5 | 5 | 4 |
-| 20th | +15/+10/+5 | +12 | +6 | +12 | Aspect of war, fervor 7d6, sacred weapon +5 | 2d8 | 5 | 5 | 5 | 5 | 5 | 5 | 5 |
+| Level | Special | Sacred Weapon Damage* | Spells per Day: 0 | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st | Aura, blessings (minor), focus weapon, orisons, sacred weapon | 1d6 | 3 | 1 | — | — | — | — | — |
+| 2nd | Fervor 1d6 | 1d6 | 4 | 2 | — | — | — | — | — |
+| 3rd | Bonus feat | 1d6 | 4 | 3 | — | — | — | — | — |
+| 4th | Channel energy, sacred weapon +1 | 1d6 | 4 | 3 | 1 | — | — | — | — |
+| 5th | Fervor 2d6 | 1d8 | 4 | 4 | 2 | — | — | — | — |
+| 6th | Bonus feat | 1d8 | 5 | 4 | 3 | — | — | — | — |
+| 7th | Sacred armor +1 | 1d8 | 5 | 4 | 3 | 1 | — | — | — |
+| 8th | Fervor 3d6, sacred weapon +2 | 1d8 | 5 | 4 | 4 | 2 | — | — | — |
+| 9th | Bonus feat | 1d8 | 5 | 5 | 4 | 3 | — | — | — |
+| 10th | Blessings (major), sacred armor +2 | 1d10 | 5 | 5 | 4 | 3 | 1 | — | — |
+| 11th | Fervor 4d6 | 1d10 | 5 | 5 | 4 | 4 | 2 | — | — |
+| 12th | Bonus feat, sacred weapon +3 | 1d10 | 5 | 5 | 5 | 4 | 3 | — | — |
+| 13th | Sacred armor +3 | 1d10 | 5 | 5 | 5 | 4 | 3 | 1 | — |
+| 14th | Fervor 5d6 | 1d10 | 5 | 5 | 5 | 4 | 4 | 2 | — |
+| 15th | Bonus feat | 2d6 | 5 | 5 | 5 | 5 | 4 | 3 | — |
+| 16th | Sacred armor +4, sacred weapon +4 | 2d6 | 5 | 5 | 5 | 5 | 4 | 3 | 1 |
+| 17th | Fervor 6d6 | 2d6 | 5 | 5 | 5 | 5 | 4 | 4 | 2 |
+| 18th | Bonus feat | 2d6 | 5 | 5 | 5 | 5 | 5 | 4 | 3 |
+| 19th | Sacred armor +5 | 2d6 | 5 | 5 | 5 | 5 | 5 | 5 | 4 |
+| 20th | Aspect of war, fervor 7d6, sacred weapon +5 | 2d8 | 5 | 5 | 5 | 5 | 5 | 5 | 5 |
 
 *\*The values shown are for Medium warpriests. See the [[rangoric-srd/classes/Warpriest#^warpriest-sacred-weapon|sacred weapon]] class feature for Small and Large warpriests.*
 

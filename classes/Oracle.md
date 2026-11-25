@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d8"
+bab: medium
+fort: poor
+ref: poor
+will: good
 skill-points: "4 + Int modifier"
 book: "Advanced Player's Guide"
 based-on:
@@ -26,6 +30,10 @@ Although the gods work through many agents, perhaps none is more mysterious than
 
 **Hit Die**: d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
+
 ###### Class Skills
 
 The oracle’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Theology|Theology]] (Int). In addition, oracles receive additional class skills depending upon their [[rangoric-srd/class-options/mysteries/Mysteries|oracle mystery]].
@@ -34,28 +42,28 @@ The oracle’s class skills (and the key ability for each skill) are [[rangoric-
 
 **Table: The Oracle** ^table-the-oracle
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th | Spells per Day: 7th | Spells per Day: 8th | Spells per Day: 9th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +0 | +2 | Mystery, oracle's curse, orisons, revelation | 3 | — | — | — | — | — | — | — | — |
-| 2nd | +1 | +0 | +0 | +3 | Mystery spell | 4 | — | — | — | — | — | — | — | — |
-| 3rd | +2 | +1 | +1 | +3 | Revelation | 5 | — | — | — | — | — | — | — | — |
-| 4th | +3 | +1 | +1 | +4 | Mystery spell | 6 | 3 | — | — | — | — | — | — | — |
-| 5th | +3 | +1 | +1 | +4 | — | 6 | 4 | — | — | — | — | — | — | — |
-| 6th | +4 | +2 | +2 | +5 | Mystery spell | 6 | 5 | 3 | — | — | — | — | — | — |
-| 7th | +5 | +2 | +2 | +5 | Revelation | 6 | 6 | 4 | — | — | — | — | — | — |
-| 8th | +6/+1 | +2 | +2 | +6 | Mystery spell | 6 | 6 | 5 | 3 | — | — | — | — | — |
-| 9th | +6/+1 | +3 | +3 | +6 | — | 6 | 6 | 6 | 4 | — | — | — | — | — |
-| 10th | +7/+2 | +3 | +3 | +7 | Mystery spell | 6 | 6 | 6 | 5 | 3 | — | — | — | — |
-| 11th | +8/+3 | +3 | +3 | +7 | Revelation | 6 | 6 | 6 | 6 | 4 | — | — | — | — |
-| 12th | +9/+4 | +4 | +4 | +8 | Mystery spell | 6 | 6 | 6 | 6 | 5 | 3 | — | — | — |
-| 13th | +9/+4 | +4 | +4 | +8 | — | 6 | 6 | 6 | 6 | 6 | 4 | — | — | — |
-| 14th | +10/+5 | +4 | +4 | +9 | Mystery spell | 6 | 6 | 6 | 6 | 6 | 5 | 3 | — | — |
-| 15th | +11/+6/+1 | +5 | +5 | +9 | Revelation | 6 | 6 | 6 | 6 | 6 | 6 | 4 | — | — |
-| 16th | +12/+7/+2 | +5 | +5 | +10 | Mystery spell | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 | — |
-| 17th | +12/+7/+2 | +5 | +5 | +10 | — | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 4 | — |
-| 18th | +13/+8/+3 | +6 | +6 | +11 | Mystery spell | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 |
-| 19th | +14/+9/+4 | +6 | +6 | +11 | Revelation | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 4 |
-| 20th | +15/+10/+5 | +6 | +6 | +12 | Final revelation | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 |
+| Level | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th | Spells per Day: 7th | Spells per Day: 8th | Spells per Day: 9th |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st | Mystery, oracle's curse, orisons, revelation | 3 | — | — | — | — | — | — | — | — |
+| 2nd | Mystery spell | 4 | — | — | — | — | — | — | — | — |
+| 3rd | Revelation | 5 | — | — | — | — | — | — | — | — |
+| 4th | Mystery spell | 6 | 3 | — | — | — | — | — | — | — |
+| 5th | — | 6 | 4 | — | — | — | — | — | — | — |
+| 6th | Mystery spell | 6 | 5 | 3 | — | — | — | — | — | — |
+| 7th | Revelation | 6 | 6 | 4 | — | — | — | — | — | — |
+| 8th | Mystery spell | 6 | 6 | 5 | 3 | — | — | — | — | — |
+| 9th | — | 6 | 6 | 6 | 4 | — | — | — | — | — |
+| 10th | Mystery spell | 6 | 6 | 6 | 5 | 3 | — | — | — | — |
+| 11th | Revelation | 6 | 6 | 6 | 6 | 4 | — | — | — | — |
+| 12th | Mystery spell | 6 | 6 | 6 | 6 | 5 | 3 | — | — | — |
+| 13th | — | 6 | 6 | 6 | 6 | 6 | 4 | — | — | — |
+| 14th | Mystery spell | 6 | 6 | 6 | 6 | 6 | 5 | 3 | — | — |
+| 15th | Revelation | 6 | 6 | 6 | 6 | 6 | 6 | 4 | — | — |
+| 16th | Mystery spell | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 | — |
+| 17th | — | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 4 | — |
+| 18th | Mystery spell | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 |
+| 19th | Revelation | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 4 |
+| 20th | Final revelation | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 |
 
 **Table: Oracle Spells Known** ^table-oracle-spells-known
 

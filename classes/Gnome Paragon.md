@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d6"
+bab: medium
+fort: good
+ref: poor
+will: good
 skill-points: "4 + Int modifier"
 book: "Unearthed Arcana"
 race: "[[rangoric-srd/races/Gnome|gnomes]]"
@@ -40,11 +44,11 @@ Curious, intelligent, and likable, gnomes move easily through the societies and 
 
 **Table: The Gnome Paragon**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                                                                                | Spells per Day    |
-| ----- | ----------------- | --------- | -------- | --------- | ------------------------------------------------------------------------------------------------------ | ----------------- |
-| 1st   | +0               | +2       | +0      | +2       | [[#^gnome-paragon-illusion-aptitude\|Illusion aptitude]], [[#^gnome-paragon-keen-senses\|keen senses]] | —                 |
-| 2nd   | +1               | +3       | +0      | +3       | [[#^gnome-paragon-mirror-image\|Mirror image]]                                                         | +1 level of bard |
-| 3rd   | +2               | +3       | +1      | +3       | [[#^gnome-paragon-ability-boost\|Ability boost]] (Cha +2)                                              | +1 level of bard |
+| Level | Special                                                                                                | Spells per Day    |
+| ----- | ------------------------------------------------------------------------------------------------------ | ----------------- |
+| 1st   | [[#^gnome-paragon-illusion-aptitude\|Illusion aptitude]], [[#^gnome-paragon-keen-senses\|keen senses]] | —                 |
+| 2nd   | [[#^gnome-paragon-mirror-image\|Mirror image]]                                                         | +1 level of bard |
+| 3rd   | [[#^gnome-paragon-ability-boost\|Ability boost]] (Cha +2)                                              | +1 level of bard |
 
 Gnome paragons have the following game statistics.
 
@@ -53,6 +57,10 @@ Gnome paragons have the following game statistics.
 **Alignment:** Any.
 
 **Hit Die:** d6.
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Will, poor Reflex.
 
 ###### Class Skills
 

@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d10"
+bab: full
+fort: good
+ref: poor
+will: poor
 skill-points: "2 + Int modifier"
 book: "Unearthed Arcana"
 race: "[[rangoric-srd/races/Orc|orcs]]"
@@ -40,11 +44,11 @@ Aggressive, brutal, and often at odds with the other humanoid races, orcs view w
 
 **Table: The Orc Paragon**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                                                                                                                                     |
-| ----- | ----------------- | --------- | -------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st   | +1               | +2       | +0      | +0       | [[#^orc-paragon-improved-darkvision\|Improved darkvision]] (+30 ft.), [[#^orc-paragon-no-light-sensitivity\|no light sensitivity]] |
-| 2nd   | +2               | +3       | +0      | +0       | [[#^orc-paragon-elf-slayer\|Elf slayer]]                                                                                              |
-| 3rd   | +3               | +3       | +1      | +1       | [[#^orc-paragon-ability-boost\|Ability boost]] (Str +2)                                                                                                |
+| Level | Special                                                                                                                                                     |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st   | [[#^orc-paragon-improved-darkvision\|Improved darkvision]] (+30 ft.), [[#^orc-paragon-no-light-sensitivity\|no light sensitivity]] |
+| 2nd   | [[#^orc-paragon-elf-slayer\|Elf slayer]]                                                                                              |
+| 3rd   | [[#^orc-paragon-ability-boost\|Ability boost]] (Str +2)                                                                                                |
 
 Orc paragons have the following game statistics.
 
@@ -53,6 +57,10 @@ Orc paragons have the following game statistics.
 **Alignment:** Any.
 
 **Hit Die:** d10.
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude, poor Reflex and Will.
 
 ###### Class Skills
 

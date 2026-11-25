@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d8"
+bab: medium
+fort: poor
+ref: good
+will: good
 skill-points: "6 + Int modifier"
 book: "Ultimate Intrigue"
 based-on:
@@ -39,6 +43,10 @@ Not all vigilantes are out to make the world a better place. Some criminals hide
 
 **Hit Die**: d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Reflex and Will, poor Fortitude.
+
 ###### Class Skills
 
 The vigilante’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Imitation|Imitation]] (Int), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] (Dex), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
@@ -47,28 +55,28 @@ The vigilante’s class skills (and the key ability for each skill) are [[rangor
 
 **Table: The Vigilante** ^table-the-vigilante
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Hidden Strike (Stalker) | Special |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +2 | +2 | 1d8 | Dual identity, seamless guise, social talent, vigilante specialization |
-| 2nd | +1 | +0 | +3 | +3 | 1d8 | Vigilante talent |
-| 3rd | +2 | +1 | +3 | +3 | 2d8 | Social talent, unshakable |
-| 4th | +3 | +1 | +4 | +4 | 2d8 | Vigilante talent |
-| 5th | +3 | +1 | +4 | +4 | 3d8 | Social talent, startling appearance |
-| 6th | +4 | +2 | +5 | +5 | 3d8 | Vigilante talent |
-| 7th | +5 | +2 | +5 | +5 | 4d8 | Social talent |
-| 8th | +6/+1 | +2 | +6 | +6 | 4d8 | Vigilante talent |
-| 9th | +6/+1 | +3 | +6 | +6 | 5d8 | Social talent |
-| 10th | +7/+2 | +3 | +7 | +7 | 5d8 | Vigilante talent |
-| 11th | +8/+3 | +3 | +7 | +7 | 6d8 | Social talent, frightening appearance |
-| 12th | +9/+4 | +4 | +8 | +8 | 6d8 | Vigilante talent |
-| 13th | +9/+4 | +4 | +8 | +8 | 7d8 | Social talent |
-| 14th | +10/+5 | +4 | +9 | +9 | 7d8 | Vigilante talent |
-| 15th | +11/+6/+1 | +5 | +9 | +9 | 8d8 | Social talent |
-| 16th | +12/+7/+2 | +5 | +10 | +10 | 8d8 | Vigilante talent |
-| 17th | +12/+7/+2 | +5 | +10 | +10 | 9d8 | Social talent, stunning appearance |
-| 18th | +13/+8/+3 | +6 | +11 | +11 | 9d8 | Vigilante talent |
-| 19th | +14/+9/+4 | +6 | +11 | +11 | 10d8 | Social talent |
-| 20th | +15/+10/+5 | +6 | +12 | +12 | 10d8 | Vigilante talent, vengeance strike |
+| Level | Hidden Strike (Stalker) | Special |
+| --- | --- | --- |
+| 1st | 1d8 | Dual identity, seamless guise, social talent, vigilante specialization |
+| 2nd | 1d8 | Vigilante talent |
+| 3rd | 2d8 | Social talent, unshakable |
+| 4th | 2d8 | Vigilante talent |
+| 5th | 3d8 | Social talent, startling appearance |
+| 6th | 3d8 | Vigilante talent |
+| 7th | 4d8 | Social talent |
+| 8th | 4d8 | Vigilante talent |
+| 9th | 5d8 | Social talent |
+| 10th | 5d8 | Vigilante talent |
+| 11th | 6d8 | Social talent, frightening appearance |
+| 12th | 6d8 | Vigilante talent |
+| 13th | 7d8 | Social talent |
+| 14th | 7d8 | Vigilante talent |
+| 15th | 8d8 | Social talent |
+| 16th | 8d8 | Vigilante talent |
+| 17th | 9d8 | Social talent, stunning appearance |
+| 18th | 9d8 | Vigilante talent |
+| 19th | 10d8 | Social talent |
+| 20th | 10d8 | Vigilante talent, vengeance strike |
 
 An avenger uses his vigilante level as his base attack bonus instead (see [[rangoric-srd/classes/Vigilante#^vigilante-specialization|vigilante specialization]]).
 
@@ -142,7 +150,7 @@ The social talents are below; each has its own note in [[rangoric-srd/class-opti
 
 **Vigilante Specialization (Ex)**: At 1st level, a vigilante must choose to be either an avenger or a stalker. ^vigilante-specialization
 
-An **avenger** gains a base attack bonus equal to his vigilante level instead of using those listed on Table: The Vigilante. He adds this value to any other base attack bonus gained from other classes or racial Hit Dice as normal.
+An **avenger** gains a base attack bonus equal to his vigilante level instead of the medium base attack bonus in his Base Attack Bonus line. He adds this value to any other base attack bonus gained from other classes or racial Hit Dice as normal.
 
 A **stalker** gains an ability called **hidden strike**, which allows him to deal an extra 1d8 points of precision damage on melee attacks (or ranged attacks from within 30 feet) against foes who are unaware of his presence, who consider him an ally, or who are made [[rangoric-srd/rules/Special Abilities and Conditions#^flat-footed|flat-footed]] by [[rangoric-srd/classes/Vigilante#^vigilante-startling-appearance|startling appearance]]. This extra damage increases by 1d8 at 3rd level and every 2 vigilante levels thereafter. A stalker vigilante can also deal hidden strike damage to a target that he is flanking or that is denied its Dexterity bonus to AC, but in these cases, the damage dice are reduced to d4s. A stalker can deal hidden strike damage against targets with concealment (but not total concealment).
 

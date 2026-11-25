@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d10"
+bab: full
+fort: good
+ref: poor
+will: poor
 skill-points: "2 + Int modifier"
 book: "Unearthed Arcana"
 race: "[[rangoric-srd/races/Dwarf|dwarves]]"
@@ -44,11 +48,11 @@ Dwarf paragons, like other members of their race, consider the building of trust
 
 **Table: The Dwarf Paragon**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                                                                                                |
-| ----- | ----------------- | --------- | -------- | --------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 1st   | +1               | +2       | +0      | +0       | [[#^dwarf-paragon-craft-expertise\|Craft expertise]], [[#^dwarf-paragon-improved-stonecunning\|improved stonecunning]] |
-| 2nd   | +2               | +3       | +0      | +0       | [[#^dwarf-paragon-improved-darkvision\|Improved darkvision]] (+30 ft.), [[#^dwarf-paragon-save-bonus\|save bonus]]     |
-| 3rd   | +3               | +3       | +1      | +1       | [[#^dwarf-paragon-ability-boost\|Ability boost]] (Con +2)                                                              |
+| Level | Special                                                                                                                |
+| ----- | ---------------------------------------------------------------------------------------------------------------------- |
+| 1st   | [[#^dwarf-paragon-craft-expertise\|Craft expertise]], [[#^dwarf-paragon-improved-stonecunning\|improved stonecunning]] |
+| 2nd   | [[#^dwarf-paragon-improved-darkvision\|Improved darkvision]] (+30 ft.), [[#^dwarf-paragon-save-bonus\|save bonus]]     |
+| 3rd   | [[#^dwarf-paragon-ability-boost\|Ability boost]] (Con +2)                                                              |
 
 Dwarf paragons have the following game statistics.
 
@@ -57,6 +61,10 @@ Dwarf paragons have the following game statistics.
 **Alignment:** Any.
 
 **Hit Die:** d10.
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude, poor Reflex and Will.
 
 ###### Class Skills
 

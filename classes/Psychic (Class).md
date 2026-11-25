@@ -5,6 +5,10 @@ aliases:
   - "Psychic"
 alignment: "Any"
 hit-die: "d6"
+bab: weak
+fort: poor
+ref: poor
+will: good
 skill-points: "2 + Int modifier"
 book: "Occult Adventures"
 based-on:
@@ -28,6 +32,10 @@ Within the mind of any sentient being lies power to rival that of the greatest m
 
 **Hit Die**: d6.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
+
 ###### Class Skills
 
 The psychic’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Craft|Craft]] (Int), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Linguistics|Linguistics]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Profession|Profession]] (Wis), and [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis).
@@ -36,28 +44,28 @@ The psychic’s class skills (and the key ability for each skill) are [[rangoric
 
 **Table: The Psychic** ^table-the-psychic
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th | Spells per Day: 7th | Spells per Day: 8th | Spells per Day: 9th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +0 | +2 | Discipline power, discipline spell, knacks, phrenic amplification, phrenic pool, psychic discipline | 3 | — | — | — | — | — | — | — | — |
-| 2nd | +1 | +0 | +0 | +3 | Detect thoughts | 4 | — | — | — | — | — | — | — | — |
-| 3rd | +1 | +1 | +1 | +3 | Phrenic amplification | 5 | — | — | — | — | — | — | — | — |
-| 4th | +2 | +1 | +1 | +4 | Discipline spell | 6 | 3 | — | — | — | — | — | — | — |
-| 5th | +2 | +1 | +1 | +4 | Discipline power | 6 | 4 | — | — | — | — | — | — | — |
-| 6th | +3 | +2 | +2 | +5 | Discipline spell | 6 | 5 | 3 | — | — | — | — | — | — |
-| 7th | +3 | +2 | +2 | +5 | Phrenic amplification | 6 | 6 | 4 | — | — | — | — | — | — |
-| 8th | +4 | +2 | +2 | +6 | Discipline spell | 6 | 6 | 5 | 3 | — | — | — | — | — |
-| 9th | +4 | +3 | +3 | +6 | Telepathic bond | 6 | 6 | 6 | 4 | — | — | — | — | — |
-| 10th | +5 | +3 | +3 | +7 | Discipline spell | 6 | 6 | 6 | 5 | 3 | — | — | — | — |
-| 11th | +5 | +3 | +3 | +7 | Major amplifications, phrenic amplification | 6 | 6 | 6 | 6 | 4 | — | — | — | — |
-| 12th | +6/+1 | +4 | +4 | +8 | Discipline spell | 6 | 6 | 6 | 6 | 5 | 3 | — | — | — |
-| 13th | +6/+1 | +4 | +4 | +8 | Discipline power | 6 | 6 | 6 | 6 | 6 | 4 | — | — | — |
-| 14th | +7/+2 | +4 | +4 | +9 | Discipline spell | 6 | 6 | 6 | 6 | 6 | 5 | 3 | — | — |
-| 15th | +7/+2 | +5 | +5 | +9 | Phrenic amplification | 6 | 6 | 6 | 6 | 6 | 6 | 4 | — | — |
-| 16th | +8/+3 | +5 | +5 | +10 | Discipline spell | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 | — |
-| 17th | +8/+3 | +5 | +5 | +10 | Telepathy | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 4 | — |
-| 18th | +9/+4 | +6 | +6 | +11 | Discipline spell | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 |
-| 19th | +9/+4 | +6 | +6 | +11 | Phrenic amplification | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 4 |
-| 20th | +10/+5 | +6 | +6 | +12 | Remade self | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 |
+| Level | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th | Spells per Day: 7th | Spells per Day: 8th | Spells per Day: 9th |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st | Discipline power, discipline spell, knacks, phrenic amplification, phrenic pool, psychic discipline | 3 | — | — | — | — | — | — | — | — |
+| 2nd | Detect thoughts | 4 | — | — | — | — | — | — | — | — |
+| 3rd | Phrenic amplification | 5 | — | — | — | — | — | — | — | — |
+| 4th | Discipline spell | 6 | 3 | — | — | — | — | — | — | — |
+| 5th | Discipline power | 6 | 4 | — | — | — | — | — | — | — |
+| 6th | Discipline spell | 6 | 5 | 3 | — | — | — | — | — | — |
+| 7th | Phrenic amplification | 6 | 6 | 4 | — | — | — | — | — | — |
+| 8th | Discipline spell | 6 | 6 | 5 | 3 | — | — | — | — | — |
+| 9th | Telepathic bond | 6 | 6 | 6 | 4 | — | — | — | — | — |
+| 10th | Discipline spell | 6 | 6 | 6 | 5 | 3 | — | — | — | — |
+| 11th | Major amplifications, phrenic amplification | 6 | 6 | 6 | 6 | 4 | — | — | — | — |
+| 12th | Discipline spell | 6 | 6 | 6 | 6 | 5 | 3 | — | — | — |
+| 13th | Discipline power | 6 | 6 | 6 | 6 | 6 | 4 | — | — | — |
+| 14th | Discipline spell | 6 | 6 | 6 | 6 | 6 | 5 | 3 | — | — |
+| 15th | Phrenic amplification | 6 | 6 | 6 | 6 | 6 | 6 | 4 | — | — |
+| 16th | Discipline spell | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 | — |
+| 17th | Telepathy | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 4 | — |
+| 18th | Discipline spell | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 |
+| 19th | Phrenic amplification | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 4 |
+| 20th | Remade self | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 |
 
 **Table: Psychic Spells Known** ^table-psychic-spells-known
 

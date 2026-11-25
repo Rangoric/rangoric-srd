@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d6"
+bab: weak
+fort: poor
+ref: poor
+will: good
 skill-points: "2 + Int modifier"
 based-on:
   - "[[path srd 3.5/classes/Sorcerer|Sorcerer (PF1)]]"
@@ -21,6 +25,10 @@ tags: [rangoric, rangoric/class]
 
 **Hit Die**: d6.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
+
 ###### Class Skills
 
 The sorcerer’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), and [[rangoric-srd/skills/Mysticism|Mysticism]] (Int).
@@ -29,28 +37,28 @@ The sorcerer’s class skills (and the key ability for each skill) are [[rangori
 
 **Table: The Sorcerer** ^table-the-sorcerer
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special         | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th | Spells per Day: 7th | Spells per Day: 8th | Spells per Day: 9th |
-| ----- | ----------------- | --------- | -------- | --------- | --------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| 1st   | +0               | +0       | +0      | +2       | Bloodline power, cantrips, Eschew Materials, summon familiar | 3                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 2nd   | +1               | +0       | +0      | +3       |  | 4                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 3rd   | +1               | +1       | +1      | +3       | Bloodline power, bloodline spell | 5                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 4th   | +2               | +1       | +1      | +4       |  | 6                   | 3                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 5th   | +2               | +1       | +1      | +4       | Bloodline spell | 6                   | 4                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 6th   | +3               | +2       | +2      | +5       |  | 6                   | 5                   | 3                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 7th   | +3               | +2       | +2      | +5       | Bloodline feat, bloodline spell | 6                   | 6                   | 4                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 8th   | +4               | +2       | +2      | +6       |  | 6                   | 6                   | 5                   | 3                   | —                   | —                   | —                   | —                   | —                   |
-| 9th   | +4               | +3       | +3      | +6       | Bloodline power, bloodline spell | 6                   | 6                   | 6                   | 4                   | —                   | —                   | —                   | —                   | —                   |
-| 10th  | +5               | +3       | +3      | +7       |  | 6                   | 6                   | 6                   | 5                   | 3                   | —                   | —                   | —                   | —                   |
-| 11th  | +5               | +3       | +3      | +7       | Bloodline spell | 6                   | 6                   | 6                   | 6                   | 4                   | —                   | —                   | —                   | —                   |
-| 12th  | +6/+1            | +4       | +4      | +8       |  | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   | —                   | —                   | —                   |
-| 13th  | +6/+1            | +4       | +4      | +8       | Bloodline feat, bloodline spell | 6                   | 6                   | 6                   | 6                   | 6                   | 4                   | —                   | —                   | —                   |
-| 14th  | +7/+2            | +4       | +4      | +9       |  | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   | —                   | —                   |
-| 15th  | +7/+2            | +5       | +5      | +9       | Bloodline power, bloodline spell | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 4                   | —                   | —                   |
-| 16th  | +8/+3            | +5       | +5      | +10      |  | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   | —                   |
-| 17th  | +8/+3            | +5       | +5      | +10      | Bloodline spell | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 4                   | —                   |
-| 18th  | +9/+4            | +6       | +6      | +11      |  | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   |
-| 19th  | +9/+4            | +6       | +6      | +11      | Bloodline feat, bloodline spell | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 4                   |
-| 20th  | +10/+5           | +6       | +6      | +12      | Bloodline power | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   |
+| Level | Special         | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th | Spells per Day: 7th | Spells per Day: 8th | Spells per Day: 9th |
+| ----- | --------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| 1st   | Bloodline power, cantrips, Eschew Materials, summon familiar | 3                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 2nd   |  | 4                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 3rd   | Bloodline power, bloodline spell | 5                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 4th   |  | 6                   | 3                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 5th   | Bloodline spell | 6                   | 4                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 6th   |  | 6                   | 5                   | 3                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 7th   | Bloodline feat, bloodline spell | 6                   | 6                   | 4                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 8th   |  | 6                   | 6                   | 5                   | 3                   | —                   | —                   | —                   | —                   | —                   |
+| 9th   | Bloodline power, bloodline spell | 6                   | 6                   | 6                   | 4                   | —                   | —                   | —                   | —                   | —                   |
+| 10th  |  | 6                   | 6                   | 6                   | 5                   | 3                   | —                   | —                   | —                   | —                   |
+| 11th  | Bloodline spell | 6                   | 6                   | 6                   | 6                   | 4                   | —                   | —                   | —                   | —                   |
+| 12th  |  | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   | —                   | —                   | —                   |
+| 13th  | Bloodline feat, bloodline spell | 6                   | 6                   | 6                   | 6                   | 6                   | 4                   | —                   | —                   | —                   |
+| 14th  |  | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   | —                   | —                   |
+| 15th  | Bloodline power, bloodline spell | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 4                   | —                   | —                   |
+| 16th  |  | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   | —                   |
+| 17th  | Bloodline spell | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 4                   | —                   |
+| 18th  |  | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   |
+| 19th  | Bloodline feat, bloodline spell | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 4                   |
+| 20th  | Bloodline power | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   |
 
 **Table: Sorcerer Spells Known** ^table-sorcerer-spells-known
 

@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d10"
+bab: full
+fort: good
+ref: good
+will: poor
 skill-points: "4 + Int modifier"
 book: "Ultimate Combat"
 based-on:
@@ -27,6 +31,10 @@ Gunslingers are a bold and mysterious lot. While many treat the secrets of black
 
 **Hit Die**: d10.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Reflex, poor Will.
+
 ###### Class Skills
 
 The gunslinger’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] (Dex), and [[rangoric-srd/skills/Society|Society]] (Int).
@@ -35,28 +43,28 @@ The gunslinger’s class skills (and the key ability for each skill) are [[rango
 
 **Table: The Gunslinger** ^table-the-gunslinger
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-| --- | --- | --- | --- | --- | --- |
-| 1st | +1 | +2 | +2 | +0 | deeds, grit, gunsmith |
-| 2nd | +2 | +3 | +3 | +0 | nimble +1 |
-| 3rd | +3 | +3 | +3 | +1 | deeds |
-| 4th | +4 | +4 | +4 | +1 | bonus feat |
-| 5th | +5 | +4 | +4 | +1 | gun training 1 |
-| 6th | +6/+1 | +5 | +5 | +2 | nimble +2 |
-| 7th | +7/+2 | +5 | +5 | +2 | deeds |
-| 8th | +8/+3 | +6 | +6 | +2 | bonus feat |
-| 9th | +9/+4 | +6 | +6 | +3 | gun training 2 |
-| 10th | +10/+5 | +7 | +7 | +3 | nimble +3 |
-| 11th | +11/+6/+1 | +7 | +7 | +3 | deeds |
-| 12th | +12/+7/+2 | +8 | +8 | +4 | bonus feat |
-| 13th | +13/+8/+3 | +8 | +8 | +4 | gun training 3 |
-| 14th | +14/+9/+4 | +9 | +9 | +4 | nimble +4 |
-| 15th | +15/+10/+5 | +9 | +9 | +5 | deeds |
-| 16th | +16/+11/+6/+1 | +10 | +10 | +5 | bonus feat |
-| 17th | +17/+12/+7/+2 | +10 | +10 | +5 | gun training 4 |
-| 18th | +18/+13/+8/+3 | +11 | +11 | +6 | nimble +5 |
-| 19th | +19/+14/+9/+4 | +11 | +11 | +6 | deeds |
-| 20th | +20/+15/+10/+5 | +12 | +12 | +6 | bonus feat, true grit |
+| Level | Special |
+| --- | --- |
+| 1st | deeds, grit, gunsmith |
+| 2nd | nimble +1 |
+| 3rd | deeds |
+| 4th | bonus feat |
+| 5th | gun training 1 |
+| 6th | nimble +2 |
+| 7th | deeds |
+| 8th | bonus feat |
+| 9th | gun training 2 |
+| 10th | nimble +3 |
+| 11th | deeds |
+| 12th | bonus feat |
+| 13th | gun training 3 |
+| 14th | nimble +4 |
+| 15th | deeds |
+| 16th | bonus feat |
+| 17th | gun training 4 |
+| 18th | nimble +5 |
+| 19th | deeds |
+| 20th | bonus feat, true grit |
 
 ###### Class Features
 

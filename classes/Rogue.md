@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d8"
+bab: medium
+fort: poor
+ref: good
+will: poor
 skill-points: "8 + Int modifier"
 book: ["Core Rulebook", "Pathfinder Unchained", "Ultimate Combat"]
 based-on:
@@ -28,6 +32,10 @@ Life is an endless adventure for those who live by their wits. Ever just one ste
 
 **Hit Die**: d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Reflex, poor Fortitude and Will.
+
 ###### Class Skills
 
 The rogue’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Imitation|Imitation]] (Int), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Performance|Performance]] (Cha), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] (Dex), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
@@ -36,28 +44,28 @@ The rogue’s class skills (and the key ability for each skill) are [[rangoric-s
 
 **Table: The Rogue** ^table-the-rogue
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                             |
-| ----- | ----------------- | --------- | -------- | --------- | ----------------------------------- |
-| 1st   | +0               | +0       | +2      | +0       | Finesse training, sneak attack +1d6, trapfinding |
-| 2nd   | +1               | +0       | +3      | +0       | Evasion, rogue talent |
-| 3rd   | +2               | +1       | +3      | +1       | Danger sense +1, finesse training, sneak attack +2d6 |
-| 4th   | +3               | +1       | +4      | +1       | Debilitating injury, rogue talent, uncanny dodge |
-| 5th   | +3               | +1       | +4      | +1       | Rogue’s edge, sneak attack +3d6 |
-| 6th   | +4               | +2       | +5      | +2       | Danger sense +2, rogue talent |
-| 7th   | +5               | +2       | +5      | +2       | Sneak attack +4d6 |
-| 8th   | +6/+1            | +2       | +6      | +2       | Improved uncanny dodge, rogue talent |
-| 9th   | +6/+1            | +3       | +6      | +3       | Danger sense +3, sneak attack +5d6 |
-| 10th  | +7/+2            | +3       | +7      | +3       | Advanced talents, rogue talent, rogue’s edge |
-| 11th  | +8/+3            | +3       | +7      | +3       | Finesse training, sneak attack +6d6 |
-| 12th  | +9/+4            | +4       | +8      | +4       | Danger sense +4, rogue talent |
-| 13th  | +9/+4            | +4       | +8      | +4       | Sneak attack +7d6 |
-| 14th  | +10/+5           | +4       | +9      | +4       | Rogue talent |
-| 15th  | +11/+6/+1        | +5       | +9      | +5       | Danger sense +5, rogue’s edge, sneak attack +8d6 |
-| 16th  | +12/+7/+2        | +5       | +10     | +5       | Rogue talent |
-| 17th  | +12/+7/+2        | +5       | +10     | +5       | Sneak attack +9d6 |
-| 18th  | +13/+8/+3        | +6       | +11     | +6       | Danger sense +6, rogue talent |
-| 19th  | +14/+9/+4        | +6       | +11     | +6       | Finesse training, sneak attack +10d6 |
-| 20th  | +15/+10/+5       | +6       | +12     | +6       | Master strike, rogue talent, rogue’s edge |
+| Level | Special                             |
+| ----- | ----------------------------------- |
+| 1st   | Finesse training, sneak attack +1d6, trapfinding |
+| 2nd   | Evasion, rogue talent |
+| 3rd   | Danger sense +1, finesse training, sneak attack +2d6 |
+| 4th   | Debilitating injury, rogue talent, uncanny dodge |
+| 5th   | Rogue’s edge, sneak attack +3d6 |
+| 6th   | Danger sense +2, rogue talent |
+| 7th   | Sneak attack +4d6 |
+| 8th   | Improved uncanny dodge, rogue talent |
+| 9th   | Danger sense +3, sneak attack +5d6 |
+| 10th  | Advanced talents, rogue talent, rogue’s edge |
+| 11th  | Finesse training, sneak attack +6d6 |
+| 12th  | Danger sense +4, rogue talent |
+| 13th  | Sneak attack +7d6 |
+| 14th  | Rogue talent |
+| 15th  | Danger sense +5, rogue’s edge, sneak attack +8d6 |
+| 16th  | Rogue talent |
+| 17th  | Sneak attack +9d6 |
+| 18th  | Danger sense +6, rogue talent |
+| 19th  | Finesse training, sneak attack +10d6 |
+| 20th  | Master strike, rogue talent, rogue’s edge |
 
 ###### Class Features
 
