@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/downtime-organization]
 # Brute Squad
 
 - **Create**: 7 Goods, 8 Influence, 13 Labor (640 gp)
-- **Teams**: 1 Robbers, 2 Soldiers
+- **Teams**: 1 [[rangoric-srd/unearthed-arcana/Downtime/teams/Robbers|Robbers]], 2 [[rangoric-srd/unearthed-arcana/Downtime/teams/Soldiers|Soldiers]]
 
 A gang of well-armed professionals who throw their weight around on your behalf.

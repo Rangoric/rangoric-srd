@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/downtime-building]
 # Tavern
 
 - **Create**: 22 Goods, 1 Influence, 22 Labor (910 gp)
-- **Rooms**: 1 Bar, 1 Common Room, 1 Lavatory, 1 Office, 1 Storage
+- **Rooms**: 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Bar|Bar]], 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Common Room|Common Room]], 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Lavatory|Lavatory]], 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Office|Office]], 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Storage|Storage]]
 
 An eating or drinking establishment.

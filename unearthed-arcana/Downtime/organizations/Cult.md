@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/downtime-organization]
 # Cult
 
 - **Create**: 15 Goods, 11 Influence, 17 Labor, 18 Magic (2,770 gp)
-- **Teams**: 4 Acolytes, 2 Guards, 1 Priest
+- **Teams**: 4 [[rangoric-srd/unearthed-arcana/Downtime/teams/Acolyte (Downtime)|Acolytes]], 2 [[rangoric-srd/unearthed-arcana/Downtime/teams/Guards|Guards]], 1 [[rangoric-srd/unearthed-arcana/Downtime/teams/Priest (Downtime)|Priest]]
 
 A splinter religion or secret society that believes yours is the true faith.

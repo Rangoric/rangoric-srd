@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/downtime-organization]
 # Artisans' Guild
 
 - **Create**: 8 Goods, 10 Influence, 14 Labor (740 gp)
-- **Teams**: 1 Bureaucrats, 2 Craftspeople, 2 Laborers
+- **Teams**: 1 [[rangoric-srd/unearthed-arcana/Downtime/teams/Bureaucrats|Bureaucrats]], 2 [[rangoric-srd/unearthed-arcana/Downtime/teams/Craftspeople|Craftspeople]], 2 [[rangoric-srd/unearthed-arcana/Downtime/teams/Laborers|Laborers]]
 
 Artisans and assistants who create quality goods.

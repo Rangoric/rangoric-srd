@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/downtime-building]
 # Town Hall
 
 - **Create**: 23 Goods, 2 Influence, 23 Labor (980 gp)
-- **Rooms**: 1 Common Room, 1 Lavatory, 1 Office, 1 Scriptorium, 1 Storage
+- **Rooms**: 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Common Room|Common Room]], 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Lavatory|Lavatory]], 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Office|Office]], 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Scriptorium|Scriptorium]], 1 [[rangoric-srd/unearthed-arcana/Downtime/rooms/Storage|Storage]]
 
 A public venue for holding town meetings, with storage for town records.

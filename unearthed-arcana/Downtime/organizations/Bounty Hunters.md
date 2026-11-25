@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/downtime-organization]
 # Bounty Hunters
 
 - **Create**: 8 Goods, 8 Influence, 10 Labor (600 gp)
-- **Teams**: 1 Archers, 1 Bureaucrats, 1 Driver
+- **Teams**: 1 [[rangoric-srd/unearthed-arcana/Downtime/teams/Archers|Archers]], 1 [[rangoric-srd/unearthed-arcana/Downtime/teams/Bureaucrats|Bureaucrats]], 1 [[rangoric-srd/unearthed-arcana/Downtime/teams/Driver (Downtime)|Driver]]
 
 Fighters trained to find and capture criminals and escapees.
