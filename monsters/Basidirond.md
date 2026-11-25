@@ -69,7 +69,7 @@ The strange fungal basidirond is a deadly plant monster that feeds on mineral-ri
 
 | d6 | Hallucination |
 | --- | --- |
-| 1 | You're sinking in quicksand! Fall [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]] and spend 1 round flailing your arms and legs as if trying to swim. |
+| 1 | You're sinking in quicksand! Fall [[rangoric-srd/rules/Special Abilities and Conditions#^prone\|prone]] and spend 1 round flailing your arms and legs as if trying to swim. |
 | 2 | Attacked by a swarm of spiders! Spend a full-round action to attack the floor near you with your weapon. |
 | 3 | An item you hold has turned into a viper! Drop it and flee from the item at top speed for 1 round. |
 | 4 | You're suffocating! Stand in place, hold your breath, and clutch at your throat for 1 round. |

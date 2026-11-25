@@ -23,7 +23,9 @@ Equally important to the process is the attitude of the outsider toward its summ
 
 By their nature, outsider weapons are almost always intelligent. The Intelligence, Wisdom, and Charisma scores of the weapon are based on respective scores of the outsider that’s bound into the weapon. Thus a weapon that derives its power from a bound devil would have 11 Intelligence, 9 Wisdom, and 15 Charisma. The weapon’s alignment is likewise the same as that of the bound creature (Lawful Evil in this case).
 
-An outsider weapon’s ability to communicate with its wielder is similarly determined by its ability scores. | Communication | Ability Scores |
+An outsider weapon’s ability to communicate with its wielder is similarly determined by its ability scores.
+
+| Communication | Ability Scores |
 |---|---|
 | Semiempathy | Two ability scores 10 or higher, one 8 or higher |
 | Empathy | Two 12 or higher, one 10 or higher |

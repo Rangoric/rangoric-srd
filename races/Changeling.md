@@ -68,9 +68,9 @@ A changeling can take any of these in place of the traits they replace (see [[ra
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Mist Child|Mist Child]] | Hulking changeling |
-| [[rangoric-srd/races/racial-traits/Object of Desire|Object of Desire]] | Green widow |
-| [[rangoric-srd/races/racial-traits/Ocean's Daughter|Ocean's Daughter]] | Sea lungs |
+| [[rangoric-srd/races/racial-traits/Mist Child\|Mist Child]] | Hulking changeling |
+| [[rangoric-srd/races/racial-traits/Object of Desire\|Object of Desire]] | Green widow |
+| [[rangoric-srd/races/racial-traits/Ocean's Daughter\|Ocean's Daughter]] | Sea lungs |
 
 ### Class Bonuses
 

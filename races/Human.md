@@ -103,21 +103,21 @@ A human can take any of these in place of the traits they replace (see [[rangori
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Adoptive Parentage|Adoptive Parentage]] | Bonus feat |
-| [[rangoric-srd/races/racial-traits/Dual Talent|Dual Talent]] | +2 to one ability score, bonus feat, and skilled |
-| [[rangoric-srd/races/racial-traits/Eye for Talent|Eye for Talent]] | Bonus feat |
-| [[rangoric-srd/races/racial-traits/Focused Study|Focused Study]] | Bonus feat |
-| [[rangoric-srd/races/racial-traits/Heart of the Fields|Heart of the Fields]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Heart of the Mountains|Heart of the Mountains]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Heart of the Sea|Heart of the Sea]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Heart of the Slums|Heart of the Slums]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Heart of the Snows|Heart of the Snows]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Heart of the Streets|Heart of the Streets]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Heart of the Sun|Heart of the Sun]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Heart of the Wilderness|Heart of the Wilderness]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Heroic|Heroic]] | Bonus feat |
-| [[rangoric-srd/races/racial-traits/Mixed Heritage|Mixed Heritage]] | Bonus feat |
-| [[rangoric-srd/races/racial-traits/Silver Tongued|Silver Tongued]] | Skilled |
+| [[rangoric-srd/races/racial-traits/Adoptive Parentage\|Adoptive Parentage]] | Bonus feat |
+| [[rangoric-srd/races/racial-traits/Dual Talent\|Dual Talent]] | +2 to one ability score, bonus feat, and skilled |
+| [[rangoric-srd/races/racial-traits/Eye for Talent\|Eye for Talent]] | Bonus feat |
+| [[rangoric-srd/races/racial-traits/Focused Study\|Focused Study]] | Bonus feat |
+| [[rangoric-srd/races/racial-traits/Heart of the Fields\|Heart of the Fields]] | Skilled |
+| [[rangoric-srd/races/racial-traits/Heart of the Mountains\|Heart of the Mountains]] | Skilled |
+| [[rangoric-srd/races/racial-traits/Heart of the Sea\|Heart of the Sea]] | Skilled |
+| [[rangoric-srd/races/racial-traits/Heart of the Slums\|Heart of the Slums]] | Skilled |
+| [[rangoric-srd/races/racial-traits/Heart of the Snows\|Heart of the Snows]] | Skilled |
+| [[rangoric-srd/races/racial-traits/Heart of the Streets\|Heart of the Streets]] | Skilled |
+| [[rangoric-srd/races/racial-traits/Heart of the Sun\|Heart of the Sun]] | Skilled |
+| [[rangoric-srd/races/racial-traits/Heart of the Wilderness\|Heart of the Wilderness]] | Skilled |
+| [[rangoric-srd/races/racial-traits/Heroic\|Heroic]] | Bonus feat |
+| [[rangoric-srd/races/racial-traits/Mixed Heritage\|Mixed Heritage]] | Bonus feat |
+| [[rangoric-srd/races/racial-traits/Silver Tongued\|Silver Tongued]] | Skilled |
 
 ### Race Traits
 

@@ -80,8 +80,8 @@ A svirfneblin can take any of these in place of the traits they replace (see [[r
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Healthy|Healthy]] | Fortunate |
-| [[rangoric-srd/races/racial-traits/Stoneseer|Stoneseer]] | Svirfneblin magic |
+| [[rangoric-srd/races/racial-traits/Healthy\|Healthy]] | Fortunate |
+| [[rangoric-srd/races/racial-traits/Stoneseer\|Stoneseer]] | Svirfneblin magic |
 
 ### Class Bonuses
 

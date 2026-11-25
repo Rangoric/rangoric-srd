@@ -65,9 +65,9 @@ A gillman can take any of these in place of the traits they replace (see [[rango
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Riverfolk|Riverfolk]] | Water dependent |
-| [[rangoric-srd/races/racial-traits/Slimehunter|Slimehunter]] | Enchantment resistance |
-| [[rangoric-srd/races/racial-traits/Throwback|Throwback]] | Aquatic, amphibious, the swim speed and water dependent |
+| [[rangoric-srd/races/racial-traits/Riverfolk\|Riverfolk]] | Water dependent |
+| [[rangoric-srd/races/racial-traits/Slimehunter\|Slimehunter]] | Enchantment resistance |
+| [[rangoric-srd/races/racial-traits/Throwback\|Throwback]] | Aquatic, amphibious, the swim speed and water dependent |
 
 ### Class Bonuses
 

@@ -78,14 +78,14 @@ An ifrit can take any of these in place of the traits they replace (see [[rangor
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Desert Mirage|Desert Mirage]] | Fire affinity |
-| [[rangoric-srd/races/racial-traits/Efreeti Magic|Efreeti Magic]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Elemental Vitality|Fire in the Blood]] | Fire affinity |
-| [[rangoric-srd/races/racial-traits/Elemental Insight|Fire Insight]] | Fire affinity |
-| [[rangoric-srd/races/racial-traits/Fire-Starter|Fire-Starter]] | Fire affinity |
-| [[rangoric-srd/races/racial-traits/Forge-Hardened|Forge-Hardened]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Hypnotic|Hypnotic]] | Fire affinity |
-| [[rangoric-srd/races/racial-traits/Wildfire Heart|Wildfire Heart]] | Energy resistance |
+| [[rangoric-srd/races/racial-traits/Desert Mirage\|Desert Mirage]] | Fire affinity |
+| [[rangoric-srd/races/racial-traits/Efreeti Magic\|Efreeti Magic]] | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Elemental Vitality\|Fire in the Blood]] | Fire affinity |
+| [[rangoric-srd/races/racial-traits/Elemental Insight\|Fire Insight]] | Fire affinity |
+| [[rangoric-srd/races/racial-traits/Fire-Starter\|Fire-Starter]] | Fire affinity |
+| [[rangoric-srd/races/racial-traits/Forge-Hardened\|Forge-Hardened]] | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Hypnotic\|Hypnotic]] | Fire affinity |
+| [[rangoric-srd/races/racial-traits/Wildfire Heart\|Wildfire Heart]] | Energy resistance |
 
 ### Class Bonuses
 

@@ -68,12 +68,12 @@ Other species of giant crab exist as well, some smaller but most quite a bit lar
 
 | Species           | CR  | Size       | HD   |
 |-------------------|-----|------------|------|
-| [[rangoric-srd/monsters/King Crab|King crab]] | 1/4 | Tiny       | 1d8  |
+| [[rangoric-srd/monsters/King Crab\|King crab]] | 1/4 | Tiny       | 1d8  |
 | Coconut crab      | 1/2 | Small      | 1d8  |
 | Rock crab         | 4   | Large      | 5d8  |
-| [[rangoric-srd/monsters/Shark-Eating Crab|Shark-eating crab]] | 7   | Huge       | 8d8  |
+| [[rangoric-srd/monsters/Shark-Eating Crab\|Shark-eating crab]] | 7   | Huge       | 8d8  |
 | Great reef crab   | 10  | Gargantuan | 11d8 |
-| [[rangoric-srd/monsters/Shipwrecker Crab|Shipwrecker crab]] | 13  | Colossal   | 14d8 |
+| [[rangoric-srd/monsters/Shipwrecker Crab\|Shipwrecker crab]] | 13  | Colossal   | 14d8 |
 
 ### Combat
 

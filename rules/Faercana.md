@@ -80,7 +80,7 @@ Whenever *magic sand* is used in its raw form or in any refined crystalline form
 
 | d% | Wild Characteristic | Game Effect |
 | --- | --- | --- |
-| 01-03 | Allergy | Creature is allergic to his possessions for 1d4 hours. Suffers sneezing and coughing unless separated from them (+2 to the DC of [[rangoric-srd/rules/Concentration (Check)|concentration checks]]). |
+| 01-03 | Allergy | Creature is allergic to his possessions for 1d4 hours. Suffers sneezing and coughing unless separated from them (+2 to the DC of [[rangoric-srd/rules/Concentration (Check)\|concentration checks]]). |
 | 04-06 | Amorous | Creature falls in love with opponent. |
 | 07-09 | Amplified | All sounds the creature hears are amplified for 1d12 rounds. Effects that deafen during this time last for twice the normal duration. |
 | 10-12 | Balding | All the creature’s hair falls out. |
@@ -95,15 +95,15 @@ Whenever *magic sand* is used in its raw form or in any refined crystalline form
 | 37-39 | Dusty | Creature is coated in ordinary dust that billows from him as he moves. |
 | 40-42 | Extremity Enlargement | Roll d6 to determine affected extremity: 1 – right arm; 2 – left arm; 3 – right leg; 4 – left leg; 5 – head; 6 – roll again. (+1 Strength, -1 Dexterity, 1d12 rounds, no Ability effect on head) |
 | 43-45 | Extremity Reduction | Roll d6 to determine affected extremity: 1 – right arm; 2 – left arm; 3 – right leg; 4 – left leg; 5 – head; 6 – roll again. (-1 Strength, +1 Dexterity, 1d12 rounds, no Ability effect on head) |
-| 46-48 | Faerie Fire | Creature glows as if affected by a *[[rangoric-srd/spells/Faerie Fire|faerie fire]]* spell. |
+| 46-48 | Faerie Fire | Creature glows as if affected by a *[[rangoric-srd/spells/Faerie Fire\|faerie fire]]* spell. |
 | 49-51 | Flowering | Flower petals rain from the dust. |
 | 52-54 | Hairy | All hair on the creature grows a foot longer. |
-| 55-57 | Itch | Creature’s clothes itch (+1 to the DC of [[rangoric-srd/rules/Concentration (Check)|concentration checks]]) for 1d12 hours. |
-| 58-60 | Laughable | A particular race, when encountering the creature, snickers and giggles (affected by a reduced version of *[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]*). +10 to the DC of all [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Persuasion|Persuasion]] or [[rangoric-srd/skills/Intimidation|Intimidation]] checks with that race. |
+| 55-57 | Itch | Creature’s clothes itch (+1 to the DC of [[rangoric-srd/rules/Concentration (Check)\|concentration checks]]) for 1d12 hours. |
+| 58-60 | Laughable | A particular race, when encountering the creature, snickers and giggles (affected by a reduced version of *[[rangoric-srd/spells/Hideous Laughter\|hideous laughter]]*). +10 to the DC of all [[rangoric-srd/skills/Deception\|Deception]], [[rangoric-srd/skills/Persuasion\|Persuasion]] or [[rangoric-srd/skills/Intimidation\|Intimidation]] checks with that race. |
 | 61-63 | Mirrored | Creature suffers the same spell effects as the target creature. |
 | 64-66 | Musical | Musical notes fill the air. Roll 1d8 to determine instrument: 1 – flute; 2 – xylophone; 3 – tambourine; 4 – harp; 5 – drum; 6 - lute; 7 – violin; 8 – trumpet. |
 | 67-69 | Narrated | Speech, movement, and actions of the creature are narrated by a disembodied voice at normal speaking volume and heard by all creatures nearby. This effect lasts for 1d4 hours. |
-| 70-72 | Noisy | All sounds the creature makes for 1d12 rounds are intensified; footfalls sound like stomping, whispers are as loud as regular speech, regular speech sounds like yelling, and yelling is painful to those in earshot. Sonic spells are at +25% effectiveness during this time (such as *[[rangoric-srd/spells/Shout|shout]]*). |
+| 70-72 | Noisy | All sounds the creature makes for 1d12 rounds are intensified; footfalls sound like stomping, whispers are as loud as regular speech, regular speech sounds like yelling, and yelling is painful to those in earshot. Sonic spells are at +25% effectiveness during this time (such as *[[rangoric-srd/spells/Shout\|shout]]*). |
 | 73-75 | Odorous | Creature emits strong odors for 1d12 hours. Roll 1d4 to determine odor: 1 – sulfurous; 2 – skunk-like; 3 – pungent flowers; 4 – sickening sweet fruit. |
 | 76-78 | Rotating | Roll 1d4 to determine facing: 1 – rotate 90 degrees clockwise; 2 – rotate 90 degrees counter-clockwise; 3 – rotate 180 degrees; 4 – unchanged. |
 | 79-81 | Shifting | Creature shifts 5 feet in random direction (roll 1d8 for the direction). If space is occupied, reroll direction. |

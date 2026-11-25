@@ -117,22 +117,22 @@ A dwarf can take any of these in place of the traits they replace (see [[rangori
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Ancient Enmity|Ancient Enmity]] | Hatred |
-| [[rangoric-srd/races/racial-traits/Deep Warrior|Deep Warrior]] | Defensive training |
-| [[rangoric-srd/races/racial-traits/Giant Hunter|Giant Hunter]] | Hatred |
-| [[rangoric-srd/races/racial-traits/Lorekeeper|Lorekeeper]] | Greed |
-| [[rangoric-srd/races/racial-traits/Magic Resistant|Magic Resistant]] | Hardy |
-| [[rangoric-srd/races/racial-traits/Minesight|Minesight]] | Darkvision |
-| [[rangoric-srd/races/racial-traits/Mountaineer (Racial Trait)|Mountaineer]] | Stability |
-| [[rangoric-srd/races/racial-traits/Relentless|Relentless]] | Stability |
-| [[rangoric-srd/races/racial-traits/Rock Stepper|Rock Stepper]] | Stonecunning |
-| [[rangoric-srd/races/racial-traits/Saltbeard|Saltbeard]] | Defensive training, hatred, and stonecunning |
-| [[rangoric-srd/races/racial-traits/Sky Sentinel|Sky Sentinel]] | Defensive training, hatred, and stonecunning |
-| [[rangoric-srd/races/racial-traits/Stonesinger|Stonesinger]] | Stonecunning |
-| [[rangoric-srd/races/racial-traits/Stubborn|Stubborn]] | Hardy |
-| [[rangoric-srd/races/racial-traits/Surface Survivalist|Surface Survivalist]] | Darkvision |
-| [[rangoric-srd/races/racial-traits/Wyrmscourged|Wyrmscourged]] | Defensive training, hatred, and stonecunning |
-| [[rangoric-srd/races/racial-traits/Xenophobic|Xenophobic]] | The dwarf's normal languages |
+| [[rangoric-srd/races/racial-traits/Ancient Enmity\|Ancient Enmity]] | Hatred |
+| [[rangoric-srd/races/racial-traits/Deep Warrior\|Deep Warrior]] | Defensive training |
+| [[rangoric-srd/races/racial-traits/Giant Hunter\|Giant Hunter]] | Hatred |
+| [[rangoric-srd/races/racial-traits/Lorekeeper\|Lorekeeper]] | Greed |
+| [[rangoric-srd/races/racial-traits/Magic Resistant\|Magic Resistant]] | Hardy |
+| [[rangoric-srd/races/racial-traits/Minesight\|Minesight]] | Darkvision |
+| [[rangoric-srd/races/racial-traits/Mountaineer (Racial Trait)\|Mountaineer]] | Stability |
+| [[rangoric-srd/races/racial-traits/Relentless\|Relentless]] | Stability |
+| [[rangoric-srd/races/racial-traits/Rock Stepper\|Rock Stepper]] | Stonecunning |
+| [[rangoric-srd/races/racial-traits/Saltbeard\|Saltbeard]] | Defensive training, hatred, and stonecunning |
+| [[rangoric-srd/races/racial-traits/Sky Sentinel\|Sky Sentinel]] | Defensive training, hatred, and stonecunning |
+| [[rangoric-srd/races/racial-traits/Stonesinger\|Stonesinger]] | Stonecunning |
+| [[rangoric-srd/races/racial-traits/Stubborn\|Stubborn]] | Hardy |
+| [[rangoric-srd/races/racial-traits/Surface Survivalist\|Surface Survivalist]] | Darkvision |
+| [[rangoric-srd/races/racial-traits/Wyrmscourged\|Wyrmscourged]] | Defensive training, hatred, and stonecunning |
+| [[rangoric-srd/races/racial-traits/Xenophobic\|Xenophobic]] | The dwarf's normal languages |
 
 ### Race Traits
 

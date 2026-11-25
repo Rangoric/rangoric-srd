@@ -26,8 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 # Transport via Plants
 
-*Conjuration (Teleportation)  
-*
+*Conjuration (Teleportation)*
 
   - **Level**: Drd 6, Hun 6, Sha 7
   - **Components**: V, S

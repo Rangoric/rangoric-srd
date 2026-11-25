@@ -68,10 +68,10 @@ A grippli can take any of these in place of the traits they replace (see [[rango
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Glider|Glider]] | Swamp stride |
-| [[rangoric-srd/races/racial-traits/Jumper|Jumper]] | Camouflage |
-| [[rangoric-srd/races/racial-traits/Princely|Princely]] | Swamp stride and weapon familiarity |
-| [[rangoric-srd/races/racial-traits/Toxic Skin|Toxic Skin]] | Swamp stride and camouflage |
+| [[rangoric-srd/races/racial-traits/Glider\|Glider]] | Swamp stride |
+| [[rangoric-srd/races/racial-traits/Jumper\|Jumper]] | Camouflage |
+| [[rangoric-srd/races/racial-traits/Princely\|Princely]] | Swamp stride and weapon familiarity |
+| [[rangoric-srd/races/racial-traits/Toxic Skin\|Toxic Skin]] | Swamp stride and camouflage |
 
 ### Class Bonuses
 

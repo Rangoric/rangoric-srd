@@ -80,15 +80,15 @@ Though the rules on when to use wild magic are deliberately vague to give the GM
 | d%    | Surge Effect                                                                                                                                                                |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 01–02 | The caster takes 1d6 points of damage per spell level.                                                                                                                      |
-| 03–04 | The caster is affected by a *[[rangoric-srd/spells/Slow|slow]]* spell for 5 rounds.                                                                                                                      |
+| 03–04 | The caster is affected by a *[[rangoric-srd/spells/Slow\|slow]]* spell for 5 rounds.                                                                                                                      |
 | 05    | The spell takes effect at a random location within the spell's range.                                                                                                       |
-| 06    | The caster is confused for 1 round (as *[[rangoric-srd/spells/Confusion|confusion]]*).                                                                                                                        |
+| 06    | The caster is confused for 1 round (as *[[rangoric-srd/spells/Confusion\|confusion]]*).                                                                                                                        |
 | 07    | The caster takes 1 point of Constitution bleed.                                                                                                                             |
 | 08    | The caster takes 1 point of ability bleed that matches her spellcasting ability score (determine randomly if the creature isn't a spellcaster).                             |
 | 09–10 | The caster is dazed for 1 round (as *[[rangoric-srd/spells/Daze Monster\|daze monster]]*).                                                                                     |
 | 11–12 | The spell deals half as much damage as normal.                                                                                                                              |
 | 13    | The caster takes 1d4 points of bleed damage.                                                                                                                                |
-| 14    | The caster falls asleep for 1 minute (as *[[rangoric-srd/spells/Sleep|sleep]]*).                                                                                                                          |
+| 14    | The caster falls asleep for 1 minute (as *[[rangoric-srd/spells/Sleep\|sleep]]*).                                                                                                                          |
 | 15–16 | The caster can't cast or concentrate on spells for 1 round.                                                                                                                 |
 | 17    | The caster is affected by *[[rangoric-srd/spells/Reduce Person\|reduce person]]* for 1 minute.                                                                                 |
 | 18–19 | The caster becomes sickened for 5 rounds.                                                                                                                                   |
@@ -96,20 +96,20 @@ Though the rules on when to use wild magic are deliberately vague to give the GM
 | 21–29 | The caster is affected as if targeted by the spell.                                                                                                                         |
 | 30–32 | All targets of the spell are affected by *[[rangoric-srd/spells/Restoration, Lesser\|lesser restoration]]*.                                                                            |
 | 33–38 | All targets of the spell are healed of 1d8+1 points of damage. This is a positive energy effect.                                                                            |
-| 39–43 | The spell's area or the targets of the spell become affected by *[[rangoric-srd/spells/Silence|silence]]* for 3 rounds.                                                                                     |
-| 44–50 | All targets of the spell become invisible for 1 round (as *[[rangoric-srd/spells/Invisibility|invisibility]]*).                                                                                                  |
-| 51–58 | The area of the spell is filled with *[[rangoric-srd/spells/Daylight|daylight]]*.                                                                                                                            |
-| 59–64 | A *[[rangoric-srd/spells/Shatter|shatter]]* spell affects a 5-foot radius around each target of the spell (or the spell's area).                                                                            |
-| 65–71 | The spell's area is coated in *[[rangoric-srd/spells/Grease|grease]]*.                                                                                                                                     |
-| 72–74 | One random tree or animal targeted by the spell or in the spell's area is affected by *[[rangoric-srd/spells/Awaken|awaken]]*.                                                                             |
+| 39–43 | The spell's area or the targets of the spell become affected by *[[rangoric-srd/spells/Silence\|silence]]* for 3 rounds.                                                                                     |
+| 44–50 | All targets of the spell become invisible for 1 round (as *[[rangoric-srd/spells/Invisibility\|invisibility]]*).                                                                                                  |
+| 51–58 | The area of the spell is filled with *[[rangoric-srd/spells/Daylight\|daylight]]*.                                                                                                                            |
+| 59–64 | A *[[rangoric-srd/spells/Shatter\|shatter]]* spell affects a 5-foot radius around each target of the spell (or the spell's area).                                                                            |
+| 65–71 | The spell's area is coated in *[[rangoric-srd/spells/Grease\|grease]]*.                                                                                                                                     |
+| 72–74 | One random tree or animal targeted by the spell or in the spell's area is affected by *[[rangoric-srd/spells/Awaken\|awaken]]*.                                                                             |
 | 75–78 | An instrument appears adjacent to each target (as *[[rangoric-srd/spells/Summon Instrument\|summon instrument]]*).                                                             |
-| 79–80 | Every door within 100 feet of the caster is affected by a *[[rangoric-srd/spells/Knock|knock]]* spell.                                                                                                    |
+| 79–80 | Every door within 100 feet of the caster is affected by a *[[rangoric-srd/spells/Knock\|knock]]* spell.                                                                                                    |
 | 81–83 | The caster teleports to a square of her choice adjacent to the spell's target or within the spell's area.                                                                   |
 | 84–86 | The next spell targeting the caster is turned back, as *[[rangoric-srd/spells/Spell Turning\|spell turning]]*.                                                                 |
 | 87–90 | The caster gains 2d6 temporary hit points that last 1 hour and don't stack with any other temporary hit points.                                                             |
 | 91–92 | A random creature from the *[[rangoric-srd/spells/Summon Monster I\|summon monster I]]* list is summoned in a square adjacent to the caster. It is under the caster's control. |
-| 93–95 | The caster is affected by *[[rangoric-srd/spells/Tongues|tongues]]* for 10 minutes.                                                                                                                         |
-| 96–97 | The caster is affected by *[[rangoric-srd/spells/Haste|haste]]* for 5 rounds.                                                                                                                             |
+| 93–95 | The caster is affected by *[[rangoric-srd/spells/Tongues\|tongues]]* for 10 minutes.                                                                                                                         |
+| 96–97 | The caster is affected by *[[rangoric-srd/spells/Haste\|haste]]* for 5 rounds.                                                                                                                             |
 | 98    | The spell is extended.                                                                                                                                                      |
 | 99    | The spell is maximized.                                                                                                                                                     |
 | 100   | The spell slot used to cast the spell is not expended.                                                                                                                      |

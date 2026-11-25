@@ -67,9 +67,9 @@ Unlike its smaller cousins, the giant jellyfish is an active predator that seeks
 
 | Species                | CR  | Size       | HD  |
 |------------------------|-----|------------|-----|
-| [[rangoric-srd/monsters/jellyfish/Death's Head Jellyfish|Death's head jellyfish]] | 1   | Small      | 2   |
+| [[rangoric-srd/monsters/jellyfish/Death's Head Jellyfish\|Death's head jellyfish]] | 1   | Small      | 2   |
 | Crimson jellyfish      | 4   | Medium     | 5   |
-| [[rangoric-srd/monsters/jellyfish/Sapphire Jellyfish|Sapphire jellyfish]] | 11  | Huge       | 12  |
+| [[rangoric-srd/monsters/jellyfish/Sapphire Jellyfish\|Sapphire jellyfish]] | 11  | Huge       | 12  |
 | Vampire jellyfish      | 14  | Gargantuan | 16  |
 | Whaler jellyfish       | 17  | Colossal   | 20  |
 

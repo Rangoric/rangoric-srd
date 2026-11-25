@@ -75,15 +75,15 @@ A duergar can take any of these in place of the traits they replace. The four ma
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Blood Enmity|Blood Enmity]] | The invisibility spell-like ability |
-| [[rangoric-srd/races/racial-traits/Daysighted|Daysighted]] | Light sensitivity; modifies: superior darkvision |
-| [[rangoric-srd/races/racial-traits/Deep Magic|Deep Magic]] | The enlarge person and invisibility spell-like abilities |
-| [[rangoric-srd/races/racial-traits/Ironskinned|Ironskinned]] | The enlarge person spell-like ability |
-| [[rangoric-srd/races/racial-traits/Magic Resistant|Magic Resistant]] | Duergar immunities (through Dwarf Traits) |
-| [[rangoric-srd/races/racial-traits/Mountaineer (Racial Trait)|Mountaineer]] | Stability (through Dwarf Traits) |
-| [[rangoric-srd/races/racial-traits/Relentless|Relentless]] | Stability (through Dwarf Traits) |
-| [[rangoric-srd/races/racial-traits/Stubborn|Stubborn]] | Duergar immunities (through Dwarf Traits) |
-| [[rangoric-srd/races/racial-traits/Twilight-Touched|Twilight-Touched]] | The invisibility spell-like ability |
+| [[rangoric-srd/races/racial-traits/Blood Enmity\|Blood Enmity]] | The invisibility spell-like ability |
+| [[rangoric-srd/races/racial-traits/Daysighted\|Daysighted]] | Light sensitivity; modifies: superior darkvision |
+| [[rangoric-srd/races/racial-traits/Deep Magic\|Deep Magic]] | The enlarge person and invisibility spell-like abilities |
+| [[rangoric-srd/races/racial-traits/Ironskinned\|Ironskinned]] | The enlarge person spell-like ability |
+| [[rangoric-srd/races/racial-traits/Magic Resistant\|Magic Resistant]] | Duergar immunities (through Dwarf Traits) |
+| [[rangoric-srd/races/racial-traits/Mountaineer (Racial Trait)\|Mountaineer]] | Stability (through Dwarf Traits) |
+| [[rangoric-srd/races/racial-traits/Relentless\|Relentless]] | Stability (through Dwarf Traits) |
+| [[rangoric-srd/races/racial-traits/Stubborn\|Stubborn]] | Duergar immunities (through Dwarf Traits) |
+| [[rangoric-srd/races/racial-traits/Twilight-Touched\|Twilight-Touched]] | The invisibility spell-like ability |
 
 ### Class Bonuses
 

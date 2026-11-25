@@ -21,10 +21,10 @@ Your heavenly light can be used in a variety of ways.
 
 | Spell-Like Ability | Minimum Character Level |
 | --- | --- |
-| *[[rangoric-srd/spells/Flare Burst|Flare burst]]* | 1st |
-| *[[rangoric-srd/spells/Wake of Light|Wake of light]]* | 3rd |
-| *[[rangoric-srd/spells/Searing Light|Searing light]]* | 5th |
-| *[[rangoric-srd/spells/Wandering Star Motes|Wandering star motes]]* | 7th |
-| *[[rangoric-srd/spells/Sunbeam|Sunbeam]]* (one beam only) | 9th |
+| *[[rangoric-srd/spells/Flare Burst\|Flare burst]]* | 1st |
+| *[[rangoric-srd/spells/Wake of Light\|Wake of light]]* | 3rd |
+| *[[rangoric-srd/spells/Searing Light\|Searing light]]* | 5th |
+| *[[rangoric-srd/spells/Wandering Star Motes\|Wandering star motes]]* | 7th |
+| *[[rangoric-srd/spells/Sunbeam\|Sunbeam]]* (one beam only) | 9th |
 
 **Special**: You may take this feat multiple times. Each time you select it, you gain an additional use of *[[rangoric-srd/spells/Daylight|daylight]]* and may select another spell from the table.

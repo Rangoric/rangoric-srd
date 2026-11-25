@@ -67,11 +67,11 @@ A strix can take any of these in place of the traits they replace (see [[rangori
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Dayguard|Dayguard]] | Nocturnal |
-| [[rangoric-srd/races/racial-traits/Frightening|Frightening]] | Nocturnal |
-| [[rangoric-srd/races/racial-traits/Nimble|Nimble]] | Suspicious |
-| [[rangoric-srd/races/racial-traits/Tough|Tough]] | Suspicious |
-| [[rangoric-srd/races/racial-traits/Wing-Clipped|Wing-Clipped]] | Modifies: the fly speed |
+| [[rangoric-srd/races/racial-traits/Dayguard\|Dayguard]] | Nocturnal |
+| [[rangoric-srd/races/racial-traits/Frightening\|Frightening]] | Nocturnal |
+| [[rangoric-srd/races/racial-traits/Nimble\|Nimble]] | Suspicious |
+| [[rangoric-srd/races/racial-traits/Tough\|Tough]] | Suspicious |
+| [[rangoric-srd/races/racial-traits/Wing-Clipped\|Wing-Clipped]] | Modifies: the fly speed |
 
 ### Class Bonuses
 

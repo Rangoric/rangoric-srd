@@ -30,23 +30,23 @@ In general, herbalists and alchemists provide the necessary nonmagical substance
 
 | Item Type or Classification | Feats and Skills Involved in Creation |
 |---|---|
-| Special Items | [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (herbalist) (+R) if applicable |
-| Arms and Armor | [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]] (E) |
-| Potions | [[rangoric-srd/feats/Brew Potion|Brew Potion]] (E); [[rangoric-srd/feats/Brew Ingestibles|Brew Ingestibles]] (O) |
-| Rings | [[rangoric-srd/feats/Forge Ring|Forge Ring]] (E) |
-| Rods | [[rangoric-srd/feats/Craft Rod|Craft Rod]] (E) |
-| Staves | [[rangoric-srd/feats/Craft Staff|Craft Staff]] (E) |
-| Wands | [[rangoric-srd/feats/Craft Wand|Craft Wand]] (E) |
-| Wondrous Items | [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]] (E); [[rangoric-srd/feats/Create Alchana|Create Alchana]] (O) |
+| Special Items | [[rangoric-srd/skills/Craft\|Craft]] (alchemy) or [[rangoric-srd/skills/Profession\|Profession]] (herbalist) (+R) if applicable |
+| Arms and Armor | [[rangoric-srd/feats/Craft Magic Arms and Armor\|Craft Magic Arms and Armor]] (E) |
+| Potions | [[rangoric-srd/feats/Brew Potion\|Brew Potion]] (E); [[rangoric-srd/feats/Brew Ingestibles\|Brew Ingestibles]] (O) |
+| Rings | [[rangoric-srd/feats/Forge Ring\|Forge Ring]] (E) |
+| Rods | [[rangoric-srd/feats/Craft Rod\|Craft Rod]] (E) |
+| Staves | [[rangoric-srd/feats/Craft Staff\|Craft Staff]] (E) |
+| Wands | [[rangoric-srd/feats/Craft Wand\|Craft Wand]] (E) |
+| Wondrous Items | [[rangoric-srd/feats/Craft Wondrous Item\|Craft Wondrous Item]] (E); [[rangoric-srd/feats/Create Alchana\|Create Alchana]] (O) |
 | **Alchemical and Herbal Types** |  |
-| Alchana | [[rangoric-srd/skills/Craft|Craft]] (alchemy) (+R); Create Alchana (E) |
-| Alchana, Greater | [[rangoric-srd/skills/Craft|Craft]] (alchemy) (+R); [[rangoric-srd/feats/Create Greater Alchana|Create Greater Alchana]] (E) |
-| Chymicals | [[rangoric-srd/skills/Craft|Craft]] (alchemy) (+R); [[rangoric-srd/feats/Craft Chymicals|Craft Chymical]] (O) |
-| Erlcana | [[rangoric-srd/skills/Profession|Profession]] (herbalist) (+R); [[rangoric-srd/feats/Create Erlcana|Create Erlcana]] (E) |
-| Ingestibles | [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (herbalist) (+R); Brew Ingestibles (O) |
-| Powders / Dusts | [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (herbalist) (+R);[[rangoric-srd/feats/Craft Powders & Dusts|Craft Powders & Dust]] (O) |
-| Unguents | [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (herbalist) (+R);[[rangoric-srd/feats/Craft Unguents|Craft Unguents]] (O) |
-| Toxins | [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (herbalist) (+R); [[rangoric-srd/feats/Craft Toxins|Craft Toxins]] (O) |
+| Alchana | [[rangoric-srd/skills/Craft\|Craft]] (alchemy) (+R); Create Alchana (E) |
+| Alchana, Greater | [[rangoric-srd/skills/Craft\|Craft]] (alchemy) (+R); [[rangoric-srd/feats/Create Greater Alchana\|Create Greater Alchana]] (E) |
+| Chymicals | [[rangoric-srd/skills/Craft\|Craft]] (alchemy) (+R); [[rangoric-srd/feats/Craft Chymicals\|Craft Chymical]] (O) |
+| Erlcana | [[rangoric-srd/skills/Profession\|Profession]] (herbalist) (+R); [[rangoric-srd/feats/Create Erlcana\|Create Erlcana]] (E) |
+| Ingestibles | [[rangoric-srd/skills/Craft\|Craft]] (alchemy) or [[rangoric-srd/skills/Profession\|Profession]] (herbalist) (+R); Brew Ingestibles (O) |
+| Powders / Dusts | [[rangoric-srd/skills/Craft\|Craft]] (alchemy) or [[rangoric-srd/skills/Profession\|Profession]] (herbalist) (+R);[[rangoric-srd/feats/Craft Powders & Dusts\|Craft Powders & Dust]] (O) |
+| Unguents | [[rangoric-srd/skills/Craft\|Craft]] (alchemy) or [[rangoric-srd/skills/Profession\|Profession]] (herbalist) (+R);[[rangoric-srd/feats/Craft Unguents\|Craft Unguents]] (O) |
+| Toxins | [[rangoric-srd/skills/Craft\|Craft]] (alchemy) or [[rangoric-srd/skills/Profession\|Profession]] (herbalist) (+R); [[rangoric-srd/feats/Craft Toxins\|Craft Toxins]] (O) |
 
 
 The table is the short form to identify what’s absolutely necessary for the creation of certain types of alchemical or herbal items; individual items are detailed in the catalog.
@@ -159,23 +159,23 @@ Each alchemical and herbal item creation feat gives a bonus against the DC of th
 
 | Item Creation Feats | Creation Bonus vs. DC | Materials or Item Class to be Created |
 |---|---|---|
-| [[rangoric-srd/skills/Craft|Craft]] (alchemy) | By rank | Most alchemical substances not restricted by feat or magic use requirements |
-| [[rangoric-srd/feats/Brew Ingestibles|Brew Ingestibles]] | +3 | Any alchemical or herbal Ingestibles; Use as [[rangoric-srd/feats/Brew Potion|Brew Potion]] if feat prerequisites are met. |
+| [[rangoric-srd/skills/Craft\|Craft]] (alchemy) | By rank | Most alchemical substances not restricted by feat or magic use requirements |
+| [[rangoric-srd/feats/Brew Ingestibles\|Brew Ingestibles]] | +3 | Any alchemical or herbal Ingestibles; Use as [[rangoric-srd/feats/Brew Potion\|Brew Potion]] if feat prerequisites are met. |
 | Brew Potion | — | Any magical Potions (or other if prerequisites are met) |
-| [[rangoric-srd/feats/Craft Chymicals|Craft Chymicals]] | +3 | Any Chymicals and the many mundane or special compounds and materials used by others in spellcasting or other avenues. |
-| [[rangoric-srd/feats/Craft Herbal Restoratives|Craft Herbal Restorative]] | +3 | Any nonmagical medicinals and healers’ curatives |
-| [[rangoric-srd/feats/Craft Powders & Dusts|Craft Powders & Dust]] | +3 | Any nonmagical dusts or powers;Use for any magical dusts if [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]] prerequisites are met. |
-| [[rangoric-srd/feats/Craft Toxins|Craft Toxins]] | +3 | Any nonmagical poisons and toxins of all varieties |
-| [[rangoric-srd/feats/Craft Unguents|Craft Unguents]] | +3 | Any nonmagical unguents, salves, balms, etc.Use for magical unguents if Craft Wondrous Item prerequisites are met. |
+| [[rangoric-srd/feats/Craft Chymicals\|Craft Chymicals]] | +3 | Any Chymicals and the many mundane or special compounds and materials used by others in spellcasting or other avenues. |
+| [[rangoric-srd/feats/Craft Herbal Restoratives\|Craft Herbal Restorative]] | +3 | Any nonmagical medicinals and healers’ curatives |
+| [[rangoric-srd/feats/Craft Powders & Dusts\|Craft Powders & Dust]] | +3 | Any nonmagical dusts or powers;Use for any magical dusts if [[rangoric-srd/feats/Craft Wondrous Item\|Craft Wondrous Item]] prerequisites are met. |
+| [[rangoric-srd/feats/Craft Toxins\|Craft Toxins]] | +3 | Any nonmagical poisons and toxins of all varieties |
+| [[rangoric-srd/feats/Craft Unguents\|Craft Unguents]] | +3 | Any nonmagical unguents, salves, balms, etc.Use for magical unguents if Craft Wondrous Item prerequisites are met. |
 | Craft Wondrous Item | — | Any miscellaneous magical item; This does not include alchemical or herbal items unless stated in the item’s write-up. |
-| [[rangoric-srd/feats/Create Alchana|Create Alchana]] | — | Items created by advanced knowledge of alchemy AND magic; necessary step to Alchemical Stones. |
-| [[rangoric-srd/feats/Create Erlcana|Create Erlcana]] | — | Greater herbal swathes, erlmantles, erlixirs |
-| [[rangoric-srd/feats/Create Greater Alchana|Create Greater Alchana]] | — | The Five Alchemical Stones |
-| [[rangoric-srd/feats/Forge Ring|Forge Ring]] | — | Any magical rings |
-| [[rangoric-srd/feats/Grow Swathe|Grow Swathe]] | — | Any swathes except those listed as Greater Erlcana |
-| [[rangoric-srd/feats/Perfect Materials|Perfect Materials]] | — | Greater Temperant Baths (material strengthening) |
-| [[rangoric-srd/skills/Profession|Profession]] (apothecary) | By rank | Any medicinal herbs or herbal concoctions for use with Medicine. |
-| [[rangoric-srd/skills/Profession|Profession]] (herbalist) | By rank | Any herbal concoctions not limited by magic or other feat prerequisites. |
+| [[rangoric-srd/feats/Create Alchana\|Create Alchana]] | — | Items created by advanced knowledge of alchemy AND magic; necessary step to Alchemical Stones. |
+| [[rangoric-srd/feats/Create Erlcana\|Create Erlcana]] | — | Greater herbal swathes, erlmantles, erlixirs |
+| [[rangoric-srd/feats/Create Greater Alchana\|Create Greater Alchana]] | — | The Five Alchemical Stones |
+| [[rangoric-srd/feats/Forge Ring\|Forge Ring]] | — | Any magical rings |
+| [[rangoric-srd/feats/Grow Swathe\|Grow Swathe]] | — | Any swathes except those listed as Greater Erlcana |
+| [[rangoric-srd/feats/Perfect Materials\|Perfect Materials]] | — | Greater Temperant Baths (material strengthening) |
+| [[rangoric-srd/skills/Profession\|Profession]] (apothecary) | By rank | Any medicinal herbs or herbal concoctions for use with Medicine. |
+| [[rangoric-srd/skills/Profession\|Profession]] (herbalist) | By rank | Any herbal concoctions not limited by magic or other feat prerequisites. |
 
 ## What If I Know About…?
 

@@ -78,14 +78,14 @@ A sylph can take any of these in place of the traits they replace (see [[rangori
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Elemental Insight|Air Insight]] | Air affinity |
-| [[rangoric-srd/races/racial-traits/Breeze-Kissed|Breeze-Kissed]] | Air affinity |
-| [[rangoric-srd/races/racial-traits/Like the Wind|Like the Wind]] | Energy resistance |
-| [[rangoric-srd/races/racial-traits/Sky Speaker|Sky Speaker]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Elemental Vitality|Storm in the Blood]] | Air affinity |
-| [[rangoric-srd/races/racial-traits/Thunderous Resilience|Thunderous Resilience]] | Energy resistance |
-| [[rangoric-srd/races/racial-traits/Weather Savvy|Weather Savvy]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Whispering Wind (Racial Trait)|Whispering Wind]] | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Elemental Insight\|Air Insight]] | Air affinity |
+| [[rangoric-srd/races/racial-traits/Breeze-Kissed\|Breeze-Kissed]] | Air affinity |
+| [[rangoric-srd/races/racial-traits/Like the Wind\|Like the Wind]] | Energy resistance |
+| [[rangoric-srd/races/racial-traits/Sky Speaker\|Sky Speaker]] | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Elemental Vitality\|Storm in the Blood]] | Air affinity |
+| [[rangoric-srd/races/racial-traits/Thunderous Resilience\|Thunderous Resilience]] | Energy resistance |
+| [[rangoric-srd/races/racial-traits/Weather Savvy\|Weather Savvy]] | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Whispering Wind (Racial Trait)\|Whispering Wind]] | Spell-like ability |
 
 ### Class Bonuses
 

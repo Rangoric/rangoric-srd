@@ -168,7 +168,7 @@ Improvements are physical improvements you can make to your kingdom: founding ne
 | 51–100 | 2 | 10 | 7 | 4 |
 | 101–200 | 3 | 20 | 9 | 8 |
 | 201+ | 4 | No limit | 12 | 12 |
-| <sup>1</sup> Instead of creating a new settlement, your kingdom may create a new army unit (see [[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]), expand or equip an existing army unit, or bring an existing army unit back to full strength.<sup>2</sup> Upgrading a building (for example, from a Shrine to a Temple) or destroying a building counts toward this limit. The first House, Mansion, Noble Villa, or Tenement your kingdom builds each turn does not count against this number. |  |  |  |  |
+| <sup>1</sup> Instead of creating a new settlement, your kingdom may create a new army unit (see [[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat\|Mass Combat]]), expand or equip an existing army unit, or bring an existing army unit back to full strength.<sup>2</sup> Upgrading a building (for example, from a Shrine to a Temple) or destroying a building counts toward this limit. The first House, Mansion, Noble Villa, or Tenement your kingdom builds each turn does not count against this number. |  |  |  |  |
 
 ### Promotion Edicts
 

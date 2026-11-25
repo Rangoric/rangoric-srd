@@ -67,8 +67,8 @@ A vanara can take any of these in place of the traits they replace (see [[rangor
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Tree Stranger|Tree Stranger]] | The climb speed |
-| [[rangoric-srd/races/racial-traits/Whitecape|Whitecape]] | Prehensile tail |
+| [[rangoric-srd/races/racial-traits/Tree Stranger\|Tree Stranger]] | The climb speed |
+| [[rangoric-srd/races/racial-traits/Whitecape\|Whitecape]] | Prehensile tail |
 
 ### Class Bonuses
 

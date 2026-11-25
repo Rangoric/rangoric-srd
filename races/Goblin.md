@@ -93,13 +93,13 @@ A goblin can take any of these in place of the traits they replace (see [[rangor
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Cave Crawler|Cave Crawler]] | Fast |
-| [[rangoric-srd/races/racial-traits/City Scavenger|City Scavenger]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Eat Anything|Eat Anything]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Hard Head, Big Teeth|Hard Head, Big Teeth]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Over-Sized Ears|Over-Sized Ears]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Tree Runner|Tree Runner]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Weapon Familiarity (Goblin Trait)|Weapon Familiarity]] | Skilled |
+| [[rangoric-srd/races/racial-traits/Cave Crawler\|Cave Crawler]] | Fast |
+| [[rangoric-srd/races/racial-traits/City Scavenger\|City Scavenger]] | Skilled |
+| [[rangoric-srd/races/racial-traits/Eat Anything\|Eat Anything]] | Skilled |
+| [[rangoric-srd/races/racial-traits/Hard Head, Big Teeth\|Hard Head, Big Teeth]] | Skilled |
+| [[rangoric-srd/races/racial-traits/Over-Sized Ears\|Over-Sized Ears]] | Skilled |
+| [[rangoric-srd/races/racial-traits/Tree Runner\|Tree Runner]] | Skilled |
+| [[rangoric-srd/races/racial-traits/Weapon Familiarity (Goblin Trait)\|Weapon Familiarity]] | Skilled |
 
 ### Subtypes
 

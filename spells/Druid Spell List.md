@@ -338,7 +338,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Antiplant Shell\|Antiplant Shell]]:                 | Keeps animated plants at bay.                                                                                |
 | [[rangoric-srd/spells/Arboreal Hammer\|Arboreal Hammer]]: | Tree branches attack opponents. |
 | [[rangoric-srd/spells/Aspect of the Stag\|Aspect of the Stag]]: | +2 AC against attacks of opportunity and increases speed. |
-| [[rangoric-srd/spells/Atavism\|Atavism]]: | Animal gains [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced creature simple template]]. |
+| [[rangoric-srd/spells/Atavism\|Atavism]]: | Animal gains [[rangoric-srd/monsters/simple-templates/Advanced Creature\|advanced creature simple template]]. |
 | [[rangoric-srd/spells/Ball Lightning\|Ball Lightning]] (M): | Flying balls of lightning deal 3d6 electricity damage each. |
 | [[rangoric-srd/spells/Blight\|Blight]]:                                   | Withers one plant or deals 1d6/level damage to plant creature.                                               |
 | [[rangoric-srd/spells/Bloody Claws\|Bloody Claws]]: | Gives creature the ability to deal bleed damage with natural attacks. |
@@ -533,7 +533,7 @@ tags: [rangoric, rangoric/overview]
 | Spell Name                                                                      | Brief Description                                                                                                |
 | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | [[rangoric-srd/spells/Animal Shapes\|Animal Shapes]]:                         | One ally/level polymorphs into chosen animal.                                                                    |
-| [[rangoric-srd/spells/Atavism, Mass\|Atavism, Mass]]: | One animal/level gains [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced template]]. |
+| [[rangoric-srd/spells/Atavism, Mass\|Atavism, Mass]]: | One animal/level gains [[rangoric-srd/monsters/simple-templates/Advanced Creature\|advanced template]]. |
 | [[rangoric-srd/spells/Blood Mist\|Blood Mist]] (M): | Mist causes Wisdom damage and rage. |
 | [[rangoric-srd/spells/Control Plants\|Control Plants]]:                       | Control actions of one or more plant creatures.                                                                  |
 | [[rangoric-srd/spells/Create Doorway and Sideroad\|Create Doorway and Sideroad]] (M): | As *create doorway and backroad*, but the road leads to the fey realm. |

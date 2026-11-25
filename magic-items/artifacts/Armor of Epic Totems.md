@@ -22,25 +22,25 @@ This unique [[rangoric-srd/equipment/armor/Sap Hide|sap hide]] suit of armor was
 
 | d20 | Symbol | Effect |
 |---|---|---|
-| 1 | Ant | Wearer shrinks to 1/4 size and 1/10 weight (as the *[[rangoric-srd/magic-items/armor-abilities/Reduction|reduction]]* quality) but keeps full Strength. |
+| 1 | Ant | Wearer shrinks to 1/4 size and 1/10 weight (as the *[[rangoric-srd/magic-items/armor-abilities/Reduction\|reduction]]* quality) but keeps full Strength. |
 | 2 | Bear | +2 inherent Strength bonus |
 | 3 | Bull | +2 inherent Strength bonus, +2 circumstance bonus on saving throws against fear |
-| 4 | Camel | Endures temperatures from 40 to 90° F, +2 circumstance bonus against a djinni’s *[[rangoric-srd/spells/Whirlwind|whirlwind]]* attack and other wind and sand attacks (as the *[[rangoric-srd/magic-items/armor-abilities/Desert|desert]]* quality) |
-| 5 | Cat | +2 inherent Dexterity bonus, +2 circumstance bonus on [[rangoric-srd/skills/Stealth|Stealth]] and [[rangoric-srd/skills/Acrobatics|Acrobatics]] checks |
+| 4 | Camel | Endures temperatures from 40 to 90° F, +2 circumstance bonus against a djinni’s *[[rangoric-srd/spells/Whirlwind\|whirlwind]]* attack and other wind and sand attacks (as the *[[rangoric-srd/magic-items/armor-abilities/Desert\|desert]]* quality) |
+| 5 | Cat | +2 inherent Dexterity bonus, +2 circumstance bonus on [[rangoric-srd/skills/Stealth\|Stealth]] and [[rangoric-srd/skills/Acrobatics\|Acrobatics]] checks |
 | 6 | Deer | +2 inherent Charisma bonus |
-| 7 | Eel | Electricity resistance 10 (as *[[rangoric-srd/magic-items/armor-abilities/Electricity Resistance|electricity resistance]]*) |
-| 8 | Fish | +5 competence bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks to swim; the armor doesn’t count toward encumbrance while swimming |
+| 7 | Eel | Electricity resistance 10 (as *[[rangoric-srd/magic-items/armor-abilities/Electricity Resistance\|electricity resistance]]*) |
+| 8 | Fish | +5 competence bonus on [[rangoric-srd/skills/Athletics\|Athletics]] checks to swim; the armor doesn’t count toward encumbrance while swimming |
 | 9 | Fox | +2 inherent Dexterity bonus |
-| 10 | Ghost | On command the wearer can become ethereal (as *[[rangoric-srd/magic-items/armor-abilities/Etherealness (Armor Special Ability)|etherealness]]*) |
+| 10 | Ghost | On command the wearer can become ethereal (as *[[rangoric-srd/magic-items/armor-abilities/Etherealness (Armor Special Ability)\|etherealness]]*) |
 | 11 | Hawk | +2 inherent Intelligence bonus |
-| 12 | Octopus | The armor grows additional arms (as the *[[rangoric-srd/magic-items/armor-abilities/Tentacled|tentacled]]* quality) |
+| 12 | Octopus | The armor grows additional arms (as the *[[rangoric-srd/magic-items/armor-abilities/Tentacled\|tentacled]]* quality) |
 | 13 | Owl | +2 inherent Wisdom bonus |
-| 14 | Phoenix | If killed, the wearer is brought back to life (as the *[[rangoric-srd/magic-items/armor-abilities/Phoenix (Armor Special Ability)|phoenix]]* quality). This works on its own, without being called on. Its use destroys the remaining totem symbols on the armor, leaving *+2 sap hide armor*. |
-| 15 | Porcupine | Armor spikes appear and can be launched (as the *[[rangoric-srd/magic-items/armor-abilities/Steelspray|steelspray]]* quality) |
-| 16 | Raven | +2 inherent Intelligence bonus, +2 circumstance bonus on [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks (*[[rangoric-srd/magic-items/armor-abilities/Raven’s Armor|raven’s armor]]*) |
-| 17 | Rust Monster | Any metal weapon that touches the armor begins to rust (as the *[[rangoric-srd/magic-items/armor-abilities/Rusting (Armor Special Ability)|rusting]]* quality) |
+| 14 | Phoenix | If killed, the wearer is brought back to life (as the *[[rangoric-srd/magic-items/armor-abilities/Phoenix (Armor Special Ability)\|phoenix]]* quality). This works on its own, without being called on. Its use destroys the remaining totem symbols on the armor, leaving *+2 sap hide armor*. |
+| 15 | Porcupine | Armor spikes appear and can be launched (as the *[[rangoric-srd/magic-items/armor-abilities/Steelspray\|steelspray]]* quality) |
+| 16 | Raven | +2 inherent Intelligence bonus, +2 circumstance bonus on [[rangoric-srd/skills/Animal Handling\|Animal Handling]] checks (*[[rangoric-srd/magic-items/armor-abilities/Raven’s Armor\|raven’s armor]]*) |
+| 17 | Rust Monster | Any metal weapon that touches the armor begins to rust (as the *[[rangoric-srd/magic-items/armor-abilities/Rusting (Armor Special Ability)\|rusting]]* quality) |
 | 18 | Wolf | +2 inherent Constitution bonus |
-| 19 | Wolverine | +2 inherent Charisma bonus, +2 circumstance bonus on [[rangoric-srd/skills/Intimidation|Intimidation]] checks |
-| 20 | Yeti | Cold resistance 10 (as *[[rangoric-srd/magic-items/armor-abilities/Cold Resistance|cold resistance]]*) |
+| 19 | Wolverine | +2 inherent Charisma bonus, +2 circumstance bonus on [[rangoric-srd/skills/Intimidation\|Intimidation]] checks |
+| 20 | Yeti | Cold resistance 10 (as *[[rangoric-srd/magic-items/armor-abilities/Cold Resistance\|cold resistance]]*) |
 
 CL 20th; Weight 10 lb.

@@ -80,12 +80,12 @@ A catfolk can take any of these in place of the traits they replace (see [[rango
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Cat's Claws|Cat's Claws]] | Natural hunter |
-| [[rangoric-srd/races/racial-traits/Clever Cat|Clever Cat]] | Natural hunter |
-| [[rangoric-srd/races/racial-traits/Climber|Climber]] | Sprinter |
-| [[rangoric-srd/races/racial-traits/Curiosity|Curiosity]] | Natural hunter |
-| [[rangoric-srd/races/racial-traits/Nimble Faller|Nimble Faller]] | Sprinter |
-| [[rangoric-srd/races/racial-traits/Scent (Catfolk Trait)|Scent]] | Low-light vision |
+| [[rangoric-srd/races/racial-traits/Cat's Claws\|Cat's Claws]] | Natural hunter |
+| [[rangoric-srd/races/racial-traits/Clever Cat\|Clever Cat]] | Natural hunter |
+| [[rangoric-srd/races/racial-traits/Climber\|Climber]] | Sprinter |
+| [[rangoric-srd/races/racial-traits/Curiosity\|Curiosity]] | Natural hunter |
+| [[rangoric-srd/races/racial-traits/Nimble Faller\|Nimble Faller]] | Sprinter |
+| [[rangoric-srd/races/racial-traits/Scent (Catfolk Trait)\|Scent]] | Low-light vision |
 
 ### Class Bonuses
 

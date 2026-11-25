@@ -45,7 +45,7 @@ The 3.5 SRD's layout, as copied:
 | `design-notes` | Designer's references: advice on building new content, such as [[rangoric-srd/design-notes/Designing Spells\|Designing Spells]] (added 2026-11-23) |
 | `images` | Diagrams used by the facing and hex grid rules |
 | `actions` | One note per action anyone can take, with its action type or how long it takes (added 2026-10-31) |
-| `flavor` | Setting and flavor text from the open content sources, a folder per setting, places one note each ([[rangoric-srd/flavor/Flavor Overview|Flavor Overview]]; added 2026-11-11) |
+| `flavor` | Setting and flavor text from the open content sources, a folder per setting, places one note each ([[rangoric-srd/flavor/Flavor Overview\|Flavor Overview]]; added 2026-11-11) |
 
 Each folder has an Index base.
 

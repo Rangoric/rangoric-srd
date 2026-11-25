@@ -40,84 +40,84 @@ Thus, from the dozens of NPCs presented, the true number of characters and encou
 
 | Archetype | Class                  | CR  |
 |------------------------------------------------------------------|------------------------|-----|
-| [[rangoric-srd/monsters/human/Foot Soldier|Foot Soldier]]             | Warrior 1              | 1/3 |
-| [[rangoric-srd/monsters/human/Squire|Squire]]                         | Aristocrat 1           | 1/3 |
-| [[rangoric-srd/monsters/human/Village Idiot|Village Idiot]]           | Commoner 1             | 1/3 |
-| [[rangoric-srd/monsters/human/Acolyte|Acolyte]]             | Cleric 1               | 1/2 |
-| [[rangoric-srd/monsters/human/Bandit|Bandit]]               | Warrior 2              | 1/2 |
-| [[rangoric-srd/monsters/human/Barmaid|Barmaid]]                       | Commoner 2             | 1/2 |
-| [[rangoric-srd/monsters/human/Farmer|Farmer]]                         | Commoner 1/Expert 1    | 1/2 |
-| [[rangoric-srd/monsters/human/Pickpocket|Pickpocket]]                 | Rogue 1                | 1/2 |
-| [[rangoric-srd/monsters/human/Shipmate|Shipmate]]                     | Expert 1/Warrior 1     | 1/2 |
-| [[rangoric-srd/monsters/human/Beggar|Beggar]]                         | Commoner 1/Rogue 1     | 1   |
-| [[rangoric-srd/monsters/human/Cannibal|Cannibal]]                     | Barbarian 2            | 1   |
-| [[rangoric-srd/monsters/human/Caravan Guard|Caravan Guard]]           | Fighter 2              | 1   |
-| [[rangoric-srd/monsters/human/Doomsayer|Doomsayer]]                   | Adept 3                | 1   |
-| [[rangoric-srd/monsters/human/Drunkard|Drunkard]]                     | Commoner 1/Warrior 2   | 1   |
-| [[rangoric-srd/monsters/human/Guard (Monster)|Guard]]                           | Warrior 3              | 1   |
-| [[rangoric-srd/monsters/human/Initiate|Initiate]]                     | Monk 2                 | 1   |
-| [[rangoric-srd/monsters/human/Prostitute|Prostitute]]                 | Expert 1/Rogue 1       | 1   |
-| [[rangoric-srd/monsters/human/Shopkeep|Shopkeep]]                     | Expert 3               | 1   |
-| [[rangoric-srd/monsters/human/Storyteller|Storyteller]]               | Bard 2                 | 1   |
-| [[rangoric-srd/monsters/human/Street Thug|Street Thug]]               | Fighter 1/Rogue 1      | 1   |
-| [[rangoric-srd/monsters/human/Vagabond|Vagabond]]                     | Commoner 2/Warrior 1   | 1   |
-| [[rangoric-srd/monsters/human/Burglar|Burglar]]             | Rogue 3                | 2   |
-| [[rangoric-srd/monsters/human/Cultist|Cultist]]                       | Cleric 3               | 2   |
-| [[rangoric-srd/monsters/human/Wanderer|Wanderer]]                     | Bard 1/Rogue 2         | 2   |
-| [[rangoric-srd/monsters/human/Noble Scion|Noble Scion]]               | Aristocrat 4           | 2   |
-| [[rangoric-srd/monsters/human/Prisoner|Prisoner]]                     | Expert 4               | 2   |
-| [[rangoric-srd/monsters/human/Barkeep|Barkeep]]                       | Expert 4/Warrior 1     | 3   |
-| [[rangoric-srd/monsters/human/Dealer|Dealer]]                         | Expert 1/Rogue 3       | 3   |
-| [[rangoric-srd/monsters/human/Guard Officer|Guard Officer]]           | Fighter 4              | 3   |
-| [[rangoric-srd/monsters/human/Pilgrim|Pilgrim]]                       | Commoner 5             | 3   |
-| [[rangoric-srd/monsters/human/Slaver|Slaver]]                         | Fighter 2/Ranger 2     | 3   |
-| [[rangoric-srd/monsters/human/Trapper (Monster)|Trapper]]             | Ranger 4               | 3   |
-| [[rangoric-srd/monsters/human/Turnkey|Turnkey]]                       | Warrior 5              | 3   |
-| [[rangoric-srd/monsters/human/Battle Monk|Battle Monk]]               | Monk 5                 | 4   |
-| [[rangoric-srd/monsters/human/Hedge Wizard|Hedge Wizard]]             | Commoner 2/Wizard 3    | 4   |
-| [[rangoric-srd/monsters/human/Medium|Medium]]                         | Cleric 5               | 4   |
-| [[rangoric-srd/monsters/human/Battle Mage|Battle Mage]]               | Evoker 6               | 5   |
-| [[rangoric-srd/monsters/human/Cavalry|Cavalry]]             | Fighter 6              | 5   |
-| [[rangoric-srd/monsters/human/Fortune Teller|Fortune Teller]]         | Bard 3/Sorcerer 3      | 5   |
-| [[rangoric-srd/monsters/human/Gladiator|Gladiator]]         | Barbarian 3/Fighter 3  | 5   |
-| [[rangoric-srd/monsters/human/Minstrel|Minstrel]]                     | Bard 6                 | 5   |
-| [[rangoric-srd/monsters/human/Monster Hunter|Monster Hunter]]         | Ranger 6               | 5   |
-| [[rangoric-srd/monsters/human/Raider|Raider]]                         | Barbarian 6            | 5   |
-| [[rangoric-srd/monsters/human/Shaman (Monster)|Shaman]]               | Adept 7                | 5   |
-| [[rangoric-srd/monsters/human/Tomb Raider|Tomb Raider]]               | Rogue 6                | 5   |
-| [[rangoric-srd/monsters/human/Torturer|Torturer]]                     | Expert 5/Fighter 2     | 5   |
-| [[rangoric-srd/monsters/human/Traveling Merchant|Traveling Merchant]] | Expert 7               | 5   |
-| [[rangoric-srd/monsters/human/Archaeologist|Archaeologist]] | Rogue 7                | 6   |
-| [[rangoric-srd/monsters/human/Beast Master|Beast Master]]   | Ranger 7               | 6   |
-| [[rangoric-srd/monsters/human/Conjurist|Conjurist]]                   | Conjurer 7             | 6   |
-| [[rangoric-srd/monsters/human/Hermit|Hermit]]                         | Druid 7                | 6   |
-| [[rangoric-srd/monsters/human/Highwayman|Highwayman]]                 | Fighter 4/Rogue 3      | 6   |
-| [[rangoric-srd/monsters/human/Holy Warrior|Holy Warrior]]             | Paladin 7              | 6   |
-| [[rangoric-srd/monsters/human/Princess|Princess]]                     | Aristocrat 8           | 6   |
-| [[rangoric-srd/monsters/human/Watch Captain|Watch Captain]]           | Fighter 7              | 6   |
-| [[rangoric-srd/monsters/human/Guide|Guide]]                 | Expert 9               | 7   |
-| [[rangoric-srd/monsters/human/Knight|Knight]]                         | Aristocrat 2/Paladin 6 | 7   |
-| [[rangoric-srd/monsters/human/Sellsword|Sellsword]]                   | Fighter 8              | 7   |
-| [[rangoric-srd/monsters/human/Viking|Viking]]                         | Barbarian 2/Fighter 6  | 7   |
-| [[rangoric-srd/monsters/human/First Mate|First Mate]]                 | Expert 4/Fighter 5     | 8   |
-| [[rangoric-srd/monsters/human/Mayor|Mayor]]                           | Aristocrat 3/Expert 7  | 8   |
-| [[rangoric-srd/monsters/human/Noble|Noble]]                           | Aristocrat 10          | 8   |
-| [[rangoric-srd/monsters/human/Priest|Priest]]               | Cleric 9               | 8   |
-| [[rangoric-srd/monsters/human/Slayer (Monster)|Slayer]]               | Ranger 5/Assassin 4    | 8   |
-| [[rangoric-srd/monsters/human/Champion (Monster)|Champion]]           | Barbarian 5/Fighter 5  | 9   |
-| [[rangoric-srd/monsters/human/Merchant Prince|Merchant Prince]]       | Expert 4/Rogue 6       | 9   |
-| [[rangoric-srd/monsters/human/Celebrity Bard|Celebrity Bard]]         | Bard 11                | 10  |
-| [[rangoric-srd/monsters/human/Chieftain|Chieftain]]                   | Warrior 12             | 10  |
-| [[rangoric-srd/monsters/human/General|General]]                       | Fighter 11             | 10  |
-| [[rangoric-srd/monsters/human/Guild Master|Guild Master]]             | Rogue 11               | 10  |
-| [[rangoric-srd/monsters/human/Queen|Queen]]                           | Aristocrat 12          | 10  |
-| [[rangoric-srd/monsters/human/Bandit Lord|Bandit Lord]]               | Fighter 8/Rogue 4      | 11  |
-| [[rangoric-srd/monsters/human/Bounty Hunter|Bounty Hunter]] | Ranger 12              | 11  |
-| [[rangoric-srd/monsters/human/Captain|Captain]]             | Expert 3/Fighter 9     | 11  |
-| [[rangoric-srd/monsters/human/Cult Leader|Cult Leader]]     | Cleric 10/Rogue 2      | 11  |
-| [[rangoric-srd/monsters/human/Pirate Captain|Pirate Captain]]         | Fighter 7/Rogue 5      | 11  |
-| [[rangoric-srd/monsters/human/Sage|Sage]]                   | Expert 7/Abjurer 5     | 11  |
-| [[rangoric-srd/monsters/human/Saint|Saint]]                           | Paladin 12             | 11  |
-| [[rangoric-srd/monsters/human/High Priest|High Priest]]               | Cleric 13              | 12  |
-| [[rangoric-srd/monsters/human/King|King]]                             | Aristocrat 16          | 14  |
-| [[rangoric-srd/monsters/human/Master|Master]]                         | Monk 15                | 14  |
+| [[rangoric-srd/monsters/human/Foot Soldier\|Foot Soldier]]             | Warrior 1              | 1/3 |
+| [[rangoric-srd/monsters/human/Squire\|Squire]]                         | Aristocrat 1           | 1/3 |
+| [[rangoric-srd/monsters/human/Village Idiot\|Village Idiot]]           | Commoner 1             | 1/3 |
+| [[rangoric-srd/monsters/human/Acolyte\|Acolyte]]             | Cleric 1               | 1/2 |
+| [[rangoric-srd/monsters/human/Bandit\|Bandit]]               | Warrior 2              | 1/2 |
+| [[rangoric-srd/monsters/human/Barmaid\|Barmaid]]                       | Commoner 2             | 1/2 |
+| [[rangoric-srd/monsters/human/Farmer\|Farmer]]                         | Commoner 1/Expert 1    | 1/2 |
+| [[rangoric-srd/monsters/human/Pickpocket\|Pickpocket]]                 | Rogue 1                | 1/2 |
+| [[rangoric-srd/monsters/human/Shipmate\|Shipmate]]                     | Expert 1/Warrior 1     | 1/2 |
+| [[rangoric-srd/monsters/human/Beggar\|Beggar]]                         | Commoner 1/Rogue 1     | 1   |
+| [[rangoric-srd/monsters/human/Cannibal\|Cannibal]]                     | Barbarian 2            | 1   |
+| [[rangoric-srd/monsters/human/Caravan Guard\|Caravan Guard]]           | Fighter 2              | 1   |
+| [[rangoric-srd/monsters/human/Doomsayer\|Doomsayer]]                   | Adept 3                | 1   |
+| [[rangoric-srd/monsters/human/Drunkard\|Drunkard]]                     | Commoner 1/Warrior 2   | 1   |
+| [[rangoric-srd/monsters/human/Guard (Monster)\|Guard]]                           | Warrior 3              | 1   |
+| [[rangoric-srd/monsters/human/Initiate\|Initiate]]                     | Monk 2                 | 1   |
+| [[rangoric-srd/monsters/human/Prostitute\|Prostitute]]                 | Expert 1/Rogue 1       | 1   |
+| [[rangoric-srd/monsters/human/Shopkeep\|Shopkeep]]                     | Expert 3               | 1   |
+| [[rangoric-srd/monsters/human/Storyteller\|Storyteller]]               | Bard 2                 | 1   |
+| [[rangoric-srd/monsters/human/Street Thug\|Street Thug]]               | Fighter 1/Rogue 1      | 1   |
+| [[rangoric-srd/monsters/human/Vagabond\|Vagabond]]                     | Commoner 2/Warrior 1   | 1   |
+| [[rangoric-srd/monsters/human/Burglar\|Burglar]]             | Rogue 3                | 2   |
+| [[rangoric-srd/monsters/human/Cultist\|Cultist]]                       | Cleric 3               | 2   |
+| [[rangoric-srd/monsters/human/Wanderer\|Wanderer]]                     | Bard 1/Rogue 2         | 2   |
+| [[rangoric-srd/monsters/human/Noble Scion\|Noble Scion]]               | Aristocrat 4           | 2   |
+| [[rangoric-srd/monsters/human/Prisoner\|Prisoner]]                     | Expert 4               | 2   |
+| [[rangoric-srd/monsters/human/Barkeep\|Barkeep]]                       | Expert 4/Warrior 1     | 3   |
+| [[rangoric-srd/monsters/human/Dealer\|Dealer]]                         | Expert 1/Rogue 3       | 3   |
+| [[rangoric-srd/monsters/human/Guard Officer\|Guard Officer]]           | Fighter 4              | 3   |
+| [[rangoric-srd/monsters/human/Pilgrim\|Pilgrim]]                       | Commoner 5             | 3   |
+| [[rangoric-srd/monsters/human/Slaver\|Slaver]]                         | Fighter 2/Ranger 2     | 3   |
+| [[rangoric-srd/monsters/human/Trapper (Monster)\|Trapper]]             | Ranger 4               | 3   |
+| [[rangoric-srd/monsters/human/Turnkey\|Turnkey]]                       | Warrior 5              | 3   |
+| [[rangoric-srd/monsters/human/Battle Monk\|Battle Monk]]               | Monk 5                 | 4   |
+| [[rangoric-srd/monsters/human/Hedge Wizard\|Hedge Wizard]]             | Commoner 2/Wizard 3    | 4   |
+| [[rangoric-srd/monsters/human/Medium\|Medium]]                         | Cleric 5               | 4   |
+| [[rangoric-srd/monsters/human/Battle Mage\|Battle Mage]]               | Evoker 6               | 5   |
+| [[rangoric-srd/monsters/human/Cavalry\|Cavalry]]             | Fighter 6              | 5   |
+| [[rangoric-srd/monsters/human/Fortune Teller\|Fortune Teller]]         | Bard 3/Sorcerer 3      | 5   |
+| [[rangoric-srd/monsters/human/Gladiator\|Gladiator]]         | Barbarian 3/Fighter 3  | 5   |
+| [[rangoric-srd/monsters/human/Minstrel\|Minstrel]]                     | Bard 6                 | 5   |
+| [[rangoric-srd/monsters/human/Monster Hunter\|Monster Hunter]]         | Ranger 6               | 5   |
+| [[rangoric-srd/monsters/human/Raider\|Raider]]                         | Barbarian 6            | 5   |
+| [[rangoric-srd/monsters/human/Shaman (Monster)\|Shaman]]               | Adept 7                | 5   |
+| [[rangoric-srd/monsters/human/Tomb Raider\|Tomb Raider]]               | Rogue 6                | 5   |
+| [[rangoric-srd/monsters/human/Torturer\|Torturer]]                     | Expert 5/Fighter 2     | 5   |
+| [[rangoric-srd/monsters/human/Traveling Merchant\|Traveling Merchant]] | Expert 7               | 5   |
+| [[rangoric-srd/monsters/human/Archaeologist\|Archaeologist]] | Rogue 7                | 6   |
+| [[rangoric-srd/monsters/human/Beast Master\|Beast Master]]   | Ranger 7               | 6   |
+| [[rangoric-srd/monsters/human/Conjurist\|Conjurist]]                   | Conjurer 7             | 6   |
+| [[rangoric-srd/monsters/human/Hermit\|Hermit]]                         | Druid 7                | 6   |
+| [[rangoric-srd/monsters/human/Highwayman\|Highwayman]]                 | Fighter 4/Rogue 3      | 6   |
+| [[rangoric-srd/monsters/human/Holy Warrior\|Holy Warrior]]             | Paladin 7              | 6   |
+| [[rangoric-srd/monsters/human/Princess\|Princess]]                     | Aristocrat 8           | 6   |
+| [[rangoric-srd/monsters/human/Watch Captain\|Watch Captain]]           | Fighter 7              | 6   |
+| [[rangoric-srd/monsters/human/Guide\|Guide]]                 | Expert 9               | 7   |
+| [[rangoric-srd/monsters/human/Knight\|Knight]]                         | Aristocrat 2/Paladin 6 | 7   |
+| [[rangoric-srd/monsters/human/Sellsword\|Sellsword]]                   | Fighter 8              | 7   |
+| [[rangoric-srd/monsters/human/Viking\|Viking]]                         | Barbarian 2/Fighter 6  | 7   |
+| [[rangoric-srd/monsters/human/First Mate\|First Mate]]                 | Expert 4/Fighter 5     | 8   |
+| [[rangoric-srd/monsters/human/Mayor\|Mayor]]                           | Aristocrat 3/Expert 7  | 8   |
+| [[rangoric-srd/monsters/human/Noble\|Noble]]                           | Aristocrat 10          | 8   |
+| [[rangoric-srd/monsters/human/Priest\|Priest]]               | Cleric 9               | 8   |
+| [[rangoric-srd/monsters/human/Slayer (Monster)\|Slayer]]               | Ranger 5/Assassin 4    | 8   |
+| [[rangoric-srd/monsters/human/Champion (Monster)\|Champion]]           | Barbarian 5/Fighter 5  | 9   |
+| [[rangoric-srd/monsters/human/Merchant Prince\|Merchant Prince]]       | Expert 4/Rogue 6       | 9   |
+| [[rangoric-srd/monsters/human/Celebrity Bard\|Celebrity Bard]]         | Bard 11                | 10  |
+| [[rangoric-srd/monsters/human/Chieftain\|Chieftain]]                   | Warrior 12             | 10  |
+| [[rangoric-srd/monsters/human/General\|General]]                       | Fighter 11             | 10  |
+| [[rangoric-srd/monsters/human/Guild Master\|Guild Master]]             | Rogue 11               | 10  |
+| [[rangoric-srd/monsters/human/Queen\|Queen]]                           | Aristocrat 12          | 10  |
+| [[rangoric-srd/monsters/human/Bandit Lord\|Bandit Lord]]               | Fighter 8/Rogue 4      | 11  |
+| [[rangoric-srd/monsters/human/Bounty Hunter\|Bounty Hunter]] | Ranger 12              | 11  |
+| [[rangoric-srd/monsters/human/Captain\|Captain]]             | Expert 3/Fighter 9     | 11  |
+| [[rangoric-srd/monsters/human/Cult Leader\|Cult Leader]]     | Cleric 10/Rogue 2      | 11  |
+| [[rangoric-srd/monsters/human/Pirate Captain\|Pirate Captain]]         | Fighter 7/Rogue 5      | 11  |
+| [[rangoric-srd/monsters/human/Sage\|Sage]]                   | Expert 7/Abjurer 5     | 11  |
+| [[rangoric-srd/monsters/human/Saint\|Saint]]                           | Paladin 12             | 11  |
+| [[rangoric-srd/monsters/human/High Priest\|High Priest]]               | Cleric 13              | 12  |
+| [[rangoric-srd/monsters/human/King\|King]]                             | Aristocrat 16          | 14  |
+| [[rangoric-srd/monsters/human/Master\|Master]]                         | Monk 15                | 14  |

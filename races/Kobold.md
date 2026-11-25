@@ -83,10 +83,10 @@ A kobold can take any of these in place of the traits they replace (see [[rangor
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Beast Bond|Beast Bond]] | Crafty |
-| [[rangoric-srd/races/racial-traits/Dragon-Scaled|Dragon-Scaled]] | Armor |
-| [[rangoric-srd/races/racial-traits/Gliding Wings|Gliding Wings]] | Crafty |
-| [[rangoric-srd/races/racial-traits/Jester|Jester]] | Crafty |
+| [[rangoric-srd/races/racial-traits/Beast Bond\|Beast Bond]] | Crafty |
+| [[rangoric-srd/races/racial-traits/Dragon-Scaled\|Dragon-Scaled]] | Armor |
+| [[rangoric-srd/races/racial-traits/Gliding Wings\|Gliding Wings]] | Crafty |
+| [[rangoric-srd/races/racial-traits/Jester\|Jester]] | Crafty |
 
 ### Subtypes
 

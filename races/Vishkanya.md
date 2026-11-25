@@ -70,8 +70,8 @@ A vishkanya can take any of these in place of the traits they replace (see [[ran
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Sensual|Sensual]] | Keen senses |
-| [[rangoric-srd/races/racial-traits/Subtle Appearance|Subtle Appearance]] | Low-light vision |
+| [[rangoric-srd/races/racial-traits/Sensual\|Sensual]] | Keen senses |
+| [[rangoric-srd/races/racial-traits/Subtle Appearance\|Subtle Appearance]] | Low-light vision |
 
 ### Class Bonuses
 

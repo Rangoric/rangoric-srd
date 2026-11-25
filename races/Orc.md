@@ -88,10 +88,10 @@ An orc can take any of these in place of the traits they replace (see [[rangoric
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Dayrunner|Dayrunner]] | Light sensitivity |
-| [[rangoric-srd/races/racial-traits/Feral|Feral]] | Weapon familiarity and automatic languages |
-| [[rangoric-srd/races/racial-traits/Smeller|Smeller]] | Ferocity and weapon familiarity |
-| [[rangoric-srd/races/racial-traits/Squalid|Squalid]] | Ferocity |
+| [[rangoric-srd/races/racial-traits/Dayrunner\|Dayrunner]] | Light sensitivity |
+| [[rangoric-srd/races/racial-traits/Feral\|Feral]] | Weapon familiarity and automatic languages |
+| [[rangoric-srd/races/racial-traits/Smeller\|Smeller]] | Ferocity and weapon familiarity |
+| [[rangoric-srd/races/racial-traits/Squalid\|Squalid]] | Ferocity |
 
 ### Subtypes
 

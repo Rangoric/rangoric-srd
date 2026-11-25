@@ -425,7 +425,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Antiplant Shell\|Antiplant Shell]]: | Keeps animated plants at bay. |
 | [[rangoric-srd/spells/Arboreal Hammer\|Arboreal Hammer]]: | Tree branches attack opponents. |
 | [[rangoric-srd/spells/Aspect of the Wolf\|Aspect of the Wolf]]: | Subject gains +4 Str and Dex, and +2 bonus on trip attacks. |
-| [[rangoric-srd/spells/Atavism\|Atavism]]: | Animal gains [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced creature simple template]]. |
+| [[rangoric-srd/spells/Atavism\|Atavism]]: | Animal gains [[rangoric-srd/monsters/simple-templates/Advanced Creature\|advanced creature simple template]]. |
 | [[rangoric-srd/spells/Ball Lightning\|Ball Lightning]] (M): | Flying balls of lightning deal 3d6 electricity damage each. |
 | [[rangoric-srd/spells/Blessing of the Salamander\|Blessing of the Salamander]]: | Subject gets fast healing 5, fire resistance 20, +2 CMD. |
 | [[rangoric-srd/spells/Blight\|Blight]]: | Withers one plant or deals 1d6/level damage to plant creature. |
