@@ -1,10 +1,12 @@
 filters:
   and:
     - file.inFolder("rangoric-srd/monsters")
-    - file.hasTag("rangoric/monster")
 views:
   - type: table
     name: "All monsters"
+    filters:
+      and:
+        - file.hasTag("rangoric/monster")
     order:
       - file.name
       - note.size
@@ -21,6 +23,9 @@ views:
         direction: ASC
   - type: table
     name: "By type"
+    filters:
+      and:
+        - file.hasTag("rangoric/monster")
     groupBy:
       property: note.creature-type
       direction: ASC
@@ -36,6 +41,9 @@ views:
         direction: ASC
   - type: table
     name: "By challenge rating"
+    filters:
+      and:
+        - file.hasTag("rangoric/monster")
     groupBy:
       property: note.challenge-rating
       direction: ASC
@@ -45,6 +53,17 @@ views:
       - note.creature-type
       - note.hit-dice
       - note.environment
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Failing
+    filters:
+      and:
+        - note.sweep == "failing"
+    order:
+      - file.name
+      - note.sweep-issues
     sort:
       - property: file.name
         direction: ASC

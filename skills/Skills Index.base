@@ -1,11 +1,13 @@
 filters:
   and:
     - file.inFolder("rangoric-srd/skills")
-    - file.hasTag("rangoric/skill")
-    - note.status != "replaced"
 views:
   - type: table
     name: All skills
+    filters:
+      and:
+        - file.hasTag("rangoric/skill")
+        - note.status != "replaced"
     order:
       - file.name
       - key-ability
@@ -19,6 +21,8 @@ views:
     name: Core skills
     filters:
       and:
+        - file.hasTag("rangoric/skill")
+        - note.status != "replaced"
         - file.hasTag("core")
     order:
       - file.name
@@ -33,6 +37,8 @@ views:
     name: Background skills
     filters:
       and:
+        - file.hasTag("rangoric/skill")
+        - note.status != "replaced"
         - file.hasTag("background")
     order:
       - file.name
@@ -40,6 +46,17 @@ views:
       - trained-only
       - armor-check-penalty
       - source
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Failing
+    filters:
+      and:
+        - note.sweep == "failing"
+    order:
+      - file.name
+      - note.sweep-issues
     sort:
       - property: file.name
         direction: ASC

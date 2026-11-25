@@ -1,10 +1,12 @@
 filters:
   and:
     - file.inFolder("rangoric-srd/spells")
-    - file.hasTag("rangoric/spell")
 views:
   - type: table
     name: "All spells"
+    filters:
+      and:
+        - file.hasTag("rangoric/spell")
     order:
       - file.name
       - note.school
@@ -22,6 +24,9 @@ views:
         direction: ASC
   - type: table
     name: "By school"
+    filters:
+      and:
+        - file.hasTag("rangoric/spell")
     groupBy:
       property: note.school
       direction: ASC
@@ -32,6 +37,17 @@ views:
       - note.level
       - note.range
       - note.duration
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Failing
+    filters:
+      and:
+        - note.sweep == "failing"
+    order:
+      - file.name
+      - note.sweep-issues
     sort:
       - property: file.name
         direction: ASC

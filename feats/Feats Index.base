@@ -1,10 +1,12 @@
 filters:
   and:
     - file.inFolder("rangoric-srd/feats")
-    - file.hasTag("rangoric/feat")
 views:
   - type: table
     name: All feats
+    filters:
+      and:
+        - file.hasTag("rangoric/feat")
     order:
       - file.name
       - tags
@@ -16,6 +18,7 @@ views:
     name: fighter-bonus
     filters:
       and:
+        - file.hasTag("rangoric/feat")
         - file.hasTag("fighter-bonus")
     order:
       - file.name
@@ -27,6 +30,7 @@ views:
     name: item-creation
     filters:
       and:
+        - file.hasTag("rangoric/feat")
         - file.hasTag("item-creation")
     order:
       - file.name
@@ -38,6 +42,7 @@ views:
     name: metamagic
     filters:
       and:
+        - file.hasTag("rangoric/feat")
         - file.hasTag("metamagic")
     order:
       - file.name
@@ -49,6 +54,7 @@ views:
     name: epic
     filters:
       and:
+        - file.hasTag("rangoric/feat")
         - file.hasTag("epic")
     order:
       - file.name
@@ -60,6 +66,7 @@ views:
     name: divine
     filters:
       and:
+        - file.hasTag("rangoric/feat")
         - file.hasTag("divine")
     order:
       - file.name
@@ -71,6 +78,7 @@ views:
     name: wild
     filters:
       and:
+        - file.hasTag("rangoric/feat")
         - file.hasTag("wild")
     order:
       - file.name
@@ -82,6 +90,7 @@ views:
     name: psionic
     filters:
       and:
+        - file.hasTag("rangoric/feat")
         - file.hasTag("psionic")
     order:
       - file.name
@@ -93,6 +102,7 @@ views:
     name: metapsionic
     filters:
       and:
+        - file.hasTag("rangoric/feat")
         - file.hasTag("metapsionic")
     order:
       - file.name
@@ -104,6 +114,7 @@ views:
     name: spelltouched
     filters:
       and:
+        - file.hasTag("rangoric/feat")
         - file.hasTag("spelltouched")
     order:
       - file.name
@@ -115,6 +126,7 @@ views:
     name: hero-feat
     filters:
       and:
+        - file.hasTag("rangoric/feat")
         - file.hasTag("hero-feat")
     order:
       - file.name
@@ -126,6 +138,7 @@ views:
     name: performance
     filters:
       and:
+        - file.hasTag("rangoric/feat")
         - file.hasTag("performance")
     order:
       - file.name
@@ -137,10 +150,22 @@ views:
     name: performance-combat
     filters:
       and:
+        - file.hasTag("rangoric/feat")
         - file.hasTag("performance-combat")
     order:
       - file.name
       - prerequisites
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Failing
+    filters:
+      and:
+        - note.sweep == "failing"
+    order:
+      - file.name
+      - note.sweep-issues
     sort:
       - property: file.name
         direction: ASC

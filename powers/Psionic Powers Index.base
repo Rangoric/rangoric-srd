@@ -1,10 +1,12 @@
 filters:
   and:
     - file.inFolder("rangoric-srd/powers")
-    - file.hasTag("rangoric/power")
 views:
   - type: table
     name: "All powers"
+    filters:
+      and:
+        - file.hasTag("rangoric/power")
     order:
       - file.name
       - note.discipline
@@ -22,6 +24,9 @@ views:
         direction: ASC
   - type: table
     name: "By discipline"
+    filters:
+      and:
+        - file.hasTag("rangoric/power")
     groupBy:
       property: note.discipline
       direction: ASC
@@ -31,6 +36,17 @@ views:
       - note.descriptor
       - note.level
       - note.power-points
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Failing
+    filters:
+      and:
+        - note.sweep == "failing"
+    order:
+      - file.name
+      - note.sweep-issues
     sort:
       - property: file.name
         direction: ASC
