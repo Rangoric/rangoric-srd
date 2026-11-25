@@ -9,7 +9,33 @@ tags: [rangoric, rangoric/note-rules]
 
 # Equipment Note Rules
 
-What the notes in `equipment` look like. No folder rules yet: the whole-SRD rules in the [README](../README.md#note-rules) apply.
+What the notes in `equipment` look like. The whole-SRD rules are in the [README](../README.md#note-rules); Sweep and the "Check notes" workflow check both. Each subfolder's Note Rules expands on this one.
+
+## All notes
+
+| Key       | Required | Values      |
+| --------- | -------- | ----------- |
+| `section` | yes      | `Equipment` |
+
+## overview
+
+| Key        | Required | Values      |
+| ---------- | -------- | ----------- |
+| `srd-type` | yes      | `overview`  |
+| `section`  | yes      | `Equipment` |
+| `book`     | no       | `text`      |
+
+## rules
+
+| Key        | Required | Values      |
+| ---------- | -------- | ----------- |
+| `srd-type` | yes      | `rules`     |
+| `section`  | yes      | `Equipment` |
+| `book`     | yes      | `text`      |
+
+Headings, in order:
+
+1. `# (name)`
 
 ## Failing notes
 
