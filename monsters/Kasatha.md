@@ -90,7 +90,7 @@ Upon reaching adulthood, many kasathas leave their clans to search the world for
 
 **[[rangoric-srd/monsters/abilities/Desert Stride|Desert Stride]] (Ex)**: A kasatha moves through nonmagical difficult terrain in desert environments at normal speed.
 
-**[[rangoric-srd/monsters/abilities/Jumper|Jumper]] (Ex)**: A kasatha is always considered to have a running start when attempting Acrobatics checks to jump.
+**[[rangoric-srd/monsters/abilities/Jumper|Jumper]] (Ex)**: A kasatha is always considered to have a running start when attempting Athletics checks to jump.
 
 **[[rangoric-srd/monsters/abilities/Multi-Armed|Multi-Armed]] (Ex)**: A kasatha has four arms. One hand is considered its primary hand; all others are considered off hands. It can use any of its hands for other purposes that require free hands.
 

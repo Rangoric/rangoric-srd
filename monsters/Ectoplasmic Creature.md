@@ -94,6 +94,18 @@ Though these entities rarely coordinate complicated actions with others of their
 
 **Type**: The creature's type changes to undead. It retains any subtype except for alignment subtypes (such as evil) and subtypes that indicate kind (such as giant). It does not gain the augmented subtype. It uses all the base creature's statistics and special abilities except as noted in the following sections.
 
+**Armor Class**: The creature's natural armor bonus changes as follows:
+
+| Ectoplasm Size  | Natural Armor Bonus |
+|-----------------|---------------------|
+| Tiny or smaller | +0                  |
+| Small           | +1                  |
+| Medium          | +2                  |
+| Large           | +3                  |
+| Huge            | +4                  |
+| Gargantuan      | +6                  |
+| Colossal        | +8                  |
+
 **Hit Dice**: Drop HD gained from class levels (to a minimum of 1 HD) and change racial Hit Dice to d8s. Ectoplasmic creatures use their Charisma modifiers to determine bonus hit points (instead of Constitution).
 
 **Saves**: Base save bonuses for racial Hit Dice are Fort +1/3 HD, Ref +1/3 HD, and Will +1/2 HD + 2.
@@ -110,18 +122,6 @@ Though these entities rarely coordinate complicated actions with others of their
 
 **Feats**: An ectoplasmic creature loses all feats possessed by the base creature, and gains Toughness as a bonus feat.
 
-**Armor Class**: The creature's natural armor bonus changes as follows:
-
-| Ectoplasm Size  | Natural Armor Bonus |
-|-----------------|---------------------|
-| Tiny or smaller | +0                  |
-| Small           | +1                  |
-| Medium          | +2                  |
-| Large           | +3                  |
-| Huge            | +4                  |
-| Gargantuan      | +6                  |
-| Colossal        | +8                  |
-
 **Special Attacks (Su)**: An ectoplasmic creature retains all of the special attacks of the base creature. In addition, an ectoplasmic creature gains the following special attack.
 
 **Horrifying Ooze (Su)**: Any creature struck by an ectoplasmic creature's slam attack must succeed at a Will save (DC = 10 + 1/2 the ectoplasmic creature's Hit Dice + the ectoplasmic creature's Charisma modifier) or be [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1d4 rounds. ^horrifying-ooze
@@ -129,6 +129,7 @@ Though these entities rarely coordinate complicated actions with others of their
 **Special Abilities (Su)**: An ectoplasmic creature loses most special qualities of the base creature. It retains any extraordinary special qualities that improve its melee or ranged attacks. An ectoplasmic creature gains the following special ability:
 
 **Phase Lurch (Su)**: An ectoplasmic creature has the ability to pass through walls or material obstacles. In order to use this ability, the ectoplasmic creature must begin and end its turn outside of whatever wall or obstacle it's moving through. An ectoplasmic creature cannot move through corporeal creatures with this ability, and its movement speed is halved while moving through a wall or obstacle. Any surface it moves through is coated with a thin, silvery mucus that lingers for 1 minute. ^phase-lurch
+
 ### Combat
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st; concentration +1): Constant—*[[rangoric-srd/spells/Air Walk|air walk]]*.

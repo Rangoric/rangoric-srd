@@ -73,7 +73,7 @@ Dire corbies speak Undercommon.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Leap|Leap]] (Ex)**: A dire corby can perform a special kind of pounce attack by jumping into combat. When a dire corby charges, it can make a DC 20 Acrobatics check to jump into the air and land next to its enemies. If it succeeds at this Acrobatics check, it can make a full attack (two claw attacks, plus a rend attack if both claws hit) against foes in reach. If it fails, it can still make its one attack as normal for a charge.
+**[[rangoric-srd/monsters/abilities/Leap|Leap]] (Ex)**: A dire corby can perform a special kind of pounce attack by jumping into combat. When a dire corby charges, it can make a DC 20 Athletics check to jump into the air and land next to its enemies. If it succeeds at this Athletics check, it can make a full attack (two claw attacks, plus a rend attack if both claws hit) against foes in reach. If it fails, it can still make its one attack as normal for a charge.
 
 **Dread Corby**: These powerful dire corbies are the offspring of dire corbies and [[rangoric-srd/monsters/harpy/Harpy|harpies]]. They have the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced]] template and gain the following special attack.
 

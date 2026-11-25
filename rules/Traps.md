@@ -34,11 +34,11 @@ A character with the trap sense class feature who succeeds on a DC 21 (or higher
 
 Many spells can be used to create dangerous traps. Unless the spell or item description states otherwise, assume the following to be true.
 
-  - A successful [[rangoric-srd/skills/Investigation|Investigation]] check (DC 25 + spell level) made by a rogue (and only a rogue) detects a magic trap before it goes off. Other characters have no chance to find a magic trap with an Investigation check.
+  - A successful [[rangoric-srd/skills/Investigation|Investigation]] check (DC 25 + spell level) made by a character with [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] detects a magic trap before it goes off. Other characters have no chance to find a magic trap with an Investigation check.
 
   - Magic traps permit a saving throw in order to avoid the effect (DC 10 + spell level x 1.5).
 
-  - Magic traps may be disarmed by a rogue (and only a rogue) with a successful [[rangoric-srd/skills/Engineering|Engineering]] check (DC 25 + spell level).
+  - Magic traps may be disarmed by a character with [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] with a successful [[rangoric-srd/skills/Engineering|Engineering]] check (DC 25 + spell level).
 
 ##### Elements of a Trap
 
@@ -110,7 +110,7 @@ The builder sets the [[rangoric-srd/skills/Investigation|Investigation]] and [[r
 
 **Mechanical Trap**: The base DC for both Investigation and Engineering checks is 20. Raising or lowering either of these DCs affects the base cost (Table: Cost Modifiers for Mechanical Traps) and possibly the CR (Table: CR Modifiers for Mechanical Traps).
 
-**Magic Trap**: The DC for both Investigation and Engineering checks is equal to 25 + the spell level of the highest-level spell used. Only characters with the trap sense class feature can attempt an Investigation check or an Engineering check involving a magic trap. These DCs do not affect the trap’s cost or CR.
+**Magic Trap**: The DC for both Investigation and Engineering checks is equal to 25 + the spell level of the highest-level spell used. Only a character with [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] can attempt an Investigation check or an Engineering check involving a magic trap. These DCs do not affect the trap’s cost or CR.
 
 ###### Attack Bonus/Saving Throw DC
 
