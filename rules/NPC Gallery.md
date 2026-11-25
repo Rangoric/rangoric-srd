@@ -54,7 +54,7 @@ Thus, from the dozens of NPCs presented, the true number of characters and encou
 | [[rangoric-srd/monsters/human/Caravan Guard|Caravan Guard]]           | Fighter 2              | 1   |
 | [[rangoric-srd/monsters/human/Doomsayer|Doomsayer]]                   | Adept 3                | 1   |
 | [[rangoric-srd/monsters/human/Drunkard|Drunkard]]                     | Commoner 1/Warrior 2   | 1   |
-| Guard                           | Warrior 3              | 1   |
+| [[rangoric-srd/monsters/human/Guard (Monster)|Guard]]                           | Warrior 3              | 1   |
 | [[rangoric-srd/monsters/human/Initiate|Initiate]]                     | Monk 2                 | 1   |
 | [[rangoric-srd/monsters/human/Prostitute|Prostitute]]                 | Expert 1/Rogue 1       | 1   |
 | [[rangoric-srd/monsters/human/Shopkeep|Shopkeep]]                     | Expert 3               | 1   |
@@ -71,7 +71,7 @@ Thus, from the dozens of NPCs presented, the true number of characters and encou
 | [[rangoric-srd/monsters/human/Guard Officer|Guard Officer]]           | Fighter 4              | 3   |
 | [[rangoric-srd/monsters/human/Pilgrim|Pilgrim]]                       | Commoner 5             | 3   |
 | [[rangoric-srd/monsters/human/Slaver|Slaver]]                         | Fighter 2/Ranger 2     | 3   |
-| Trapper             | Ranger 4               | 3   |
+| [[rangoric-srd/monsters/human/Trapper (Monster)|Trapper]]             | Ranger 4               | 3   |
 | [[rangoric-srd/monsters/human/Turnkey|Turnkey]]                       | Warrior 5              | 3   |
 | [[rangoric-srd/monsters/human/Battle Monk|Battle Monk]]               | Monk 5                 | 4   |
 | [[rangoric-srd/monsters/human/Hedge Wizard|Hedge Wizard]]             | Commoner 2/Wizard 3    | 4   |
