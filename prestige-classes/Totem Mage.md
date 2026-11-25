@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d8"
+bab: weak
+fort: good
+ref: poor
+will: good
 skill-points: "4 + Int modifier"
 book: "Spells & Magic"
 based-on:
@@ -21,6 +25,10 @@ tags: [rangoric, rangoric/class]
 Totem mages spend their days trying to enhance their connection with their totems through meditation and mimicry of the totem, or merely roaming the wilderness. They are mostly found in the regions their totems naturally inhabit. They practice [[rangoric-srd/rules/totem-magic/Totem Magic|totem magic]].
 
 **Hit Die**: d8.
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Will, poor Reflex.
 
 ###### Requirements
 
@@ -42,18 +50,18 @@ The totem mage’s class skills (and the key ability for each skill) are [[rango
 
 **Table: The Totem Mage** ^table-the-totem-mage
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-| --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +2 | +0 | +2 | Totem shape (1/day), totem friendship, totem companion |
-| 2nd | +1 | +3 | +0 | +3 | Totem shape (2/day) |
-| 3rd | +1 | +3 | +1 | +3 | Totem fear |
-| 4th | +2 | +4 | +1 | +4 | Totem shape (3/day) |
-| 5th | +2 | +4 | +1 | +4 | Totem shape (dire), totem facet (1/day) |
-| 6th | +3 | +5 | +2 | +5 | Totem shape (4/day) |
-| 7th | +3 | +5 | +2 | +5 | Totem facet (2/day) |
-| 8th | +4 | +6 | +2 | +6 | Totem shape (5/day) |
-| 9th | +4 | +6 | +3 | +6 | Totem ability, totem facet (3/day) |
-| 10th | +5 | +7 | +3 | +7 | Totem shape (6/day) |
+| Level | Special |
+| --- | --- |
+| 1st | Totem shape (1/day), totem friendship, totem companion |
+| 2nd | Totem shape (2/day) |
+| 3rd | Totem fear |
+| 4th | Totem shape (3/day) |
+| 5th | Totem shape (dire), totem facet (1/day) |
+| 6th | Totem shape (4/day) |
+| 7th | Totem facet (2/day) |
+| 8th | Totem shape (5/day) |
+| 9th | Totem ability, totem facet (3/day) |
+| 10th | Totem shape (6/day) |
 
 ###### Class Features
 

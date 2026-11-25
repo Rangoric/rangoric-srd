@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d6"
+bab: weak
+fort: good
+ref: good
+will: good
 skill-points: "4 + Int modifier"
 book: "Alchemy & Herbalists"
 based-on:
@@ -27,6 +31,10 @@ White alchemists practise [[rangoric-srd/rules/alchemy-and-herbalism/Alchemy|alc
 
 **Hit Die**: d6.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: All good.
+
 ###### Requirements
 
 To qualify to become a white alchemist, a character must fulfill all the following criteria.
@@ -45,18 +53,18 @@ The white alchemist’s class skills (and the key ability for each skill) are [[
 
 **Table: The White Alchemist** ^table-the-white-alchemist
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +0 | +2 | [[rangoric-srd/feats/Craft Toxins|Craft Toxins]] | +1 level of existing class |
-| 2nd | +1 | +0 | +0 | +3 | — | +1 level of existing class |
-| 3rd | +1 | +1 | +1 | +3 | [[rangoric-srd/feats/Brew Ingestibles|Brew Ingestibles]] | +1 level of existing class |
-| 4th | +2 | +1 | +1 | +4 | — | +1 level of existing class |
-| 5th | +2 | +2 | +2 | +4 | [[rangoric-srd/feats/Craft Powders & Dusts|Craft Powders & Dusts]] | +1 level of existing class |
-| 6th | +3 | +2 | +2 | +5 | — | +1 level of existing class |
-| 7th | +3 | +3 | +3 | +5 | [[rangoric-srd/feats/Craft Unguents|Craft Unguents]] | +1 level of existing class |
-| 8th | +4 | +3 | +3 | +6 | Enhance medicinals | +1 level of existing class |
-| 9th | +4 | +4 | +4 | +6 | [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]] | +1 level of existing class |
-| 10th | +5 | +4 | +4 | +7 | Perfect medicinals | +1 level of existing class |
+| Level | Special | Spells per Day |
+| --- | --- | --- |
+| 1st | [[rangoric-srd/feats/Craft Toxins\|Craft Toxins]] | +1 level of existing class |
+| 2nd | — | +1 level of existing class |
+| 3rd | [[rangoric-srd/feats/Brew Ingestibles\|Brew Ingestibles]] | +1 level of existing class |
+| 4th | — | +1 level of existing class |
+| 5th | [[rangoric-srd/feats/Craft Powders & Dusts\|Craft Powders & Dusts]] | +1 level of existing class |
+| 6th | — | +1 level of existing class |
+| 7th | [[rangoric-srd/feats/Craft Unguents\|Craft Unguents]] | +1 level of existing class |
+| 8th | Enhance medicinals | +1 level of existing class |
+| 9th | [[rangoric-srd/feats/Craft Wondrous Item\|Craft Wondrous Item]] | +1 level of existing class |
+| 10th | Perfect medicinals | +1 level of existing class |
 
 ###### Class Features
 

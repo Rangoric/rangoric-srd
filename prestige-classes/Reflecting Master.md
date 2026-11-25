@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d8"
+bab: weak
+fort: poor
+ref: good
+will: good
 skill-points: "3 + Int modifier"
 book: "Spells & Magic"
 based-on:
@@ -21,6 +25,10 @@ The following prestige class opens the world of mirror magic to those who pursue
 
 **Hit Die**: d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Reflex and Will, poor Fortitude.
+
 ###### Requirements
 
 To qualify to become a reflecting master, a character must fulfill all the following criteria.
@@ -37,18 +45,18 @@ The reflecting master’s class skill (and its key ability) is [[rangoric-srd/sk
 
 **Table: The Reflecting Master** ^table-the-reflecting-master
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +2 | +2 | Mirror magic | +1 level of existing class |
-| 2nd | +1 | +0 | +3 | +3 | Enhanced proficiency | +1 level of existing class |
-| 3rd | +1 | +1 | +3 | +3 | Shatter darkness | +1 level of existing class |
-| 4th | +2 | +1 | +4 | +4 | Enhanced proficiency | +1 level of existing class |
-| 5th | +2 | +1 | +4 | +4 | Mirror dependence | +1 level of existing class |
-| 6th | +3 | +2 | +5 | +5 | Enhanced proficiency | +1 level of existing class |
-| 7th | +3 | +2 | +5 | +5 | Enduring spells | +1 level of existing class |
-| 8th | +4 | +2 | +6 | +6 | Enhanced proficiency | +1 level of existing class |
-| 9th | +4 | +3 | +6 | +6 | Bonded mirror | +1 level of existing class |
-| 10th | +5 | +3 | +7 | +7 | Enhanced proficiency | +1 level of existing class |
+| Level | Special | Spells per Day |
+| --- | --- | --- |
+| 1st | Mirror magic | +1 level of existing class |
+| 2nd | Enhanced proficiency | +1 level of existing class |
+| 3rd | Shatter darkness | +1 level of existing class |
+| 4th | Enhanced proficiency | +1 level of existing class |
+| 5th | Mirror dependence | +1 level of existing class |
+| 6th | Enhanced proficiency | +1 level of existing class |
+| 7th | Enduring spells | +1 level of existing class |
+| 8th | Enhanced proficiency | +1 level of existing class |
+| 9th | Bonded mirror | +1 level of existing class |
+| 10th | Enhanced proficiency | +1 level of existing class |
 
 ###### Class Features
 

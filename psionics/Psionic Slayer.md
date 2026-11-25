@@ -1,6 +1,10 @@
 ---
 srd-type: "overview"
 section: "Psionics"
+bab: full
+fort: poor
+ref: poor
+will: good
 based-on:
   - "[[fantasy srd 3.5/psionics/Slayer|Slayer (3.5)]]"
 status: draft
@@ -14,6 +18,10 @@ tags: [rangoric, rangoric/overview]
 ### Psionic Slayer
 
 Hit Die: d8.  
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
 
 ###### Requirements
 
@@ -35,18 +43,18 @@ Skill Points at Each Level: 4 + Int modifier.
 
 Table: The Psionic Slayer  
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                          | Powers Known                            |
-| ----- | ----------------- | --------- | -------- | --------- | -------------------------------- | --------------------------------------- |
-| 1st   | +1               | +0       | +0      | +2       | Favored enemy +2, enemy sense    | -                                      |
-| 2nd   | +2               | +0       | +0      | +3       | Brain nausea                     | +1 level of existing manifesting class |
-| 3rd   | +3               | +1       | +1      | +3       | Lucid buffer                     | +1 level of existing manifesting class |
-| 4th   | +4               | +1       | +1      | +4       | Favored enemy +4                 | +1 level of existing manifesting class |
-| 5th   | +5               | +1       | +1      | +4       | -                               | +1 level of existing manifesting class |
-| 6th   | +6               | +2       | +2      | +5       | Cerebral blind                   | +1 level of existing manifesting class |
-| 7th   | +7               | +2       | +2      | +5       | Favored enemy +6                 | +1 level of existing manifesting class |
-| 8th   | +8               | +2       | +2      | +6       | Breach power resistance          | +1 level of existing manifesting class |
-| 9th   | +9               | +3       | +3      | +6       | Cerebral immunity                | +1 level of existing manifesting class |
-| 10th  | +10              | +3       | +3      | +7       | Blast feedback, favored enemy +8 | +1 level of existing manifesting class |
+| Level | Special                          | Powers Known                            |
+| ----- | -------------------------------- | --------------------------------------- |
+| 1st   | Favored enemy +2, enemy sense    | -                                      |
+| 2nd   | Brain nausea                     | +1 level of existing manifesting class |
+| 3rd   | Lucid buffer                     | +1 level of existing manifesting class |
+| 4th   | Favored enemy +4                 | +1 level of existing manifesting class |
+| 5th   | -                               | +1 level of existing manifesting class |
+| 6th   | Cerebral blind                   | +1 level of existing manifesting class |
+| 7th   | Favored enemy +6                 | +1 level of existing manifesting class |
+| 8th   | Breach power resistance          | +1 level of existing manifesting class |
+| 9th   | Cerebral immunity                | +1 level of existing manifesting class |
+| 10th  | Blast feedback, favored enemy +8 | +1 level of existing manifesting class |
 
 ###### Class Features
 

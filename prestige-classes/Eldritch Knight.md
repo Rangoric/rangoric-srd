@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d10"
+bab: full
+fort: good
+ref: poor
+will: poor
 skill-points: "2 + Int modifier"
 based-on:
   - "[[fantasy srd 3.5/prestige-classes/Eldritch Knight|Eldritch Knight (3.5)]]"
@@ -26,6 +30,10 @@ Because the road to becoming an eldritch knight requires both martial prowess an
 
 **Hit Die**: d10.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude, poor Reflex and Will.
+
 ###### Requirements
 
 To qualify to become an eldritch knight, a character must fulfill all the following criteria.
@@ -42,18 +50,18 @@ The eldritch knight’s class skills (and the key ability for each skill) are [[
 
 **Table: The Eldritch Knight**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day                                  |
-| ----- | ----------------- | --------- | -------- | --------- | ------- | ----------------------------------------------- |
-| 1st   | +1               | +2       | +0      | +0       | Bonus feat, diverse training | —                                               |
-| 2nd   | +2               | +3       | +0      | +0       |  | +1 level of existing arcane spellcasting class |
-| 3rd   | +3               | +3       | +1      | +1       |  | +1 level of existing arcane spellcasting class |
-| 4th   | +4               | +4       | +1      | +1       |  | +1 level of existing arcane spellcasting class |
-| 5th   | +5               | +4       | +1      | +1       | Bonus feat | +1 level of existing arcane spellcasting class |
-| 6th   | +6               | +5       | +2      | +2       |  | +1 level of existing arcane spellcasting class |
-| 7th   | +7               | +5       | +2      | +2       |  | +1 level of existing arcane spellcasting class |
-| 8th   | +8               | +6       | +2      | +2       |  | +1 level of existing arcane spellcasting class |
-| 9th   | +9               | +6       | +3      | +3       | Bonus feat | +1 level of existing arcane spellcasting class |
-| 10th  | +10              | +7       | +3      | +3       | Spell critical | +1 level of existing arcane spellcasting class |
+| Level | Special | Spells per Day                                  |
+| ----- | ------- | ----------------------------------------------- |
+| 1st   | Bonus feat, diverse training | —                                               |
+| 2nd   |  | +1 level of existing arcane spellcasting class |
+| 3rd   |  | +1 level of existing arcane spellcasting class |
+| 4th   |  | +1 level of existing arcane spellcasting class |
+| 5th   | Bonus feat | +1 level of existing arcane spellcasting class |
+| 6th   |  | +1 level of existing arcane spellcasting class |
+| 7th   |  | +1 level of existing arcane spellcasting class |
+| 8th   |  | +1 level of existing arcane spellcasting class |
+| 9th   | Bonus feat | +1 level of existing arcane spellcasting class |
+| 10th  | Spell critical | +1 level of existing arcane spellcasting class |
 
 ###### Class Features
 

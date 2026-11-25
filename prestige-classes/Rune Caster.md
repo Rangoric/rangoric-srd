@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d6"
+bab: weak
+fort: good
+ref: poor
+will: good
 skill-points: "2 + Int modifier"
 book: "Spells & Magic"
 based-on:
@@ -30,6 +34,10 @@ Rune casters of all alignments can be found, but most lean in some fashion towar
 
 **Hit Die**: d6.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Will, poor Reflex.
+
 ###### Requirements
 
 To qualify to become a rune caster, a character must fulfill all the following criteria.
@@ -50,23 +58,23 @@ The rune caster’s class skills (and the key ability for each skill) are [[rang
 
 **Table: The Rune Caster** ^table-the-rune-caster
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-| --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +2 | +0 | +2 | Attune rune I, create runestone, runecasting |
-| 2nd | +1 | +3 | +0 | +3 | — |
-| 3rd | +1 | +3 | +1 | +3 | Inscribe rune |
-| 4th | +2 | +4 | +1 | +4 | — |
-| 5th | +2 | +4 | +1 | +4 | Attune rune II |
-| 6th | +3 | +5 | +2 | +5 | — |
-| 7th | +3 | +5 | +2 | +5 | — |
-| 8th | +4 | +6 | +2 | +6 | Draw rune |
-| 9th | +4 | +6 | +3 | +6 | — |
-| 10th | +5 | +7 | +3 | +7 | Attune rune III |
-| 11th | +5 | +7 | +3 | +7 | Create runestaff |
-| 12th | +6/+1 | +8 | +4 | +8 | Rune mastery I |
-| 13th | +6/+1 | +8 | +4 | +8 | — |
-| 14th | +7/+2 | +9 | +4 | +9 | — |
-| 15th | +7/+2 | +9 | +5 | +9 | Attune rune IV, rune mastery II |
+| Level | Special |
+| --- | --- |
+| 1st | Attune rune I, create runestone, runecasting |
+| 2nd | — |
+| 3rd | Inscribe rune |
+| 4th | — |
+| 5th | Attune rune II |
+| 6th | — |
+| 7th | — |
+| 8th | Draw rune |
+| 9th | — |
+| 10th | Attune rune III |
+| 11th | Create runestaff |
+| 12th | Rune mastery I |
+| 13th | — |
+| 14th | — |
+| 15th | Attune rune IV, rune mastery II |
 
 **Table: Rune Spells per Day** ^table-rune-spells-per-day
 

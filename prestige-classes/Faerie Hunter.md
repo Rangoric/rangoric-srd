@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d10"
+bab: full
+fort: poor
+ref: poor
+will: good
 skill-points: "2 + Int modifier"
 book: "Faeries"
 based-on:
@@ -25,6 +29,10 @@ Most faerie hunters are rangers who follow the nature of crueler predators. Barb
 
 **Hit Die**: d10.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
+
 ###### Requirements
 
 To qualify to become a faerie hunter (abbreviated Fhn), a character must fulfill all the following criteria.
@@ -47,18 +55,18 @@ The faerie hunter’s class skills (and the key ability for each skill) are [[ra
 
 **Table: The Faerie Hunter** ^table-the-faerie-hunter
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day: 1st | 2nd | 3rd | 4th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +1 | +0 | +0 | +2 | Fey Wary (+1), Sneak Attack (+1d6) | 0 | — | — | — |
-| 2nd | +2 | +0 | +0 | +3 | Faerie Fighter (+1), Fey Hunter (+1) | 1 | — | — | — |
-| 3rd | +3 | +1 | +1 | +3 | Smite Fey | 1 | 0 | — | — |
-| 4th | +4 | +1 | +1 | +4 | Fey Hunter (+2), Fey Wary (+2) | 1 | 1 | — | — |
-| 5th | +5 | +1 | +1 | +4 | Faerie Fighter (+2), Sneak Attack (+2d6) | 1 | 1 | 0 | — |
-| 6th | +6 | +2 | +2 | +5 | Anchor, Fey Hunter (+3) | 1 | 1 | 1 | — |
-| 7th | +7 | +2 | +2 | +5 | Fey Wary (+3), Slippery Mind | 2 | 1 | 1 | 0 |
-| 8th | +8 | +2 | +2 | +6 | Craft Blood Item, Fey Hunter (+4) | 2 | 1 | 1 | 1 |
-| 9th | +9 | +3 | +3 | +6 | Destroy Doorway | 2 | 2 | 1 | 1 |
-| 10th | +10 | +3 | +3 | +7 | Fey Hunter (+5), Fey Wary (+4) | 2 | 2 | 2 | 1 |
+| Level | Special | Spells per Day: 1st | 2nd | 3rd | 4th |
+| --- | --- | --- | --- | --- | --- |
+| 1st | Fey Wary (+1), Sneak Attack (+1d6) | 0 | — | — | — |
+| 2nd | Faerie Fighter (+1), Fey Hunter (+1) | 1 | — | — | — |
+| 3rd | Smite Fey | 1 | 0 | — | — |
+| 4th | Fey Hunter (+2), Fey Wary (+2) | 1 | 1 | — | — |
+| 5th | Faerie Fighter (+2), Sneak Attack (+2d6) | 1 | 1 | 0 | — |
+| 6th | Anchor, Fey Hunter (+3) | 1 | 1 | 1 | — |
+| 7th | Fey Wary (+3), Slippery Mind | 2 | 1 | 1 | 0 |
+| 8th | Craft Blood Item, Fey Hunter (+4) | 2 | 1 | 1 | 1 |
+| 9th | Destroy Doorway | 2 | 2 | 1 | 1 |
+| 10th | Fey Hunter (+5), Fey Wary (+4) | 2 | 2 | 2 | 1 |
 
 ###### Class Features
 

@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d10"
+bab: full
+fort: good
+ref: poor
+will: good
 skill-points: "2 + Int modifier"
 based-on:
   - "[[path srd 3.5/classes/Holy Vindicator|Holy Vindicator (PF1)]]"
@@ -25,6 +29,10 @@ Holy vindicators are usually clerics or fighter/clerics, though many paladins (o
 
 **Hit Die**: d10.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Will, poor Reflex.
+
 ###### Requirements
 
 To qualify to become a holy vindicator, a character must fulfill all the following criteria.
@@ -47,18 +55,18 @@ The holy vindicator’s class skills (and the key ability for each skill) are [[
 
 **Table: The Holy Vindicator**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                             | Spells per Day                  |
-| ----- | ----------------- | --------- | -------- | --------- | ------- | -------------------- |
-| 1st   | +1                | +1        | +0       | +1        | Channel energy, vindicator's shield | —                                     |
-| 2nd   | +2                | +1        | +1       | +1        | Stigmata                            | +1 level of divine spellcasting class |
-| 3rd   | +3                | +2        | +1       | +2        | Faith healing (empower)             | +1 level of divine spellcasting class |
-| 4th   | +4                | +2        | +1       | +2        | Divine wrath                        | +1 level of divine spellcasting class |
-| 5th   | +5                | +3        | +2       | +3        | Bloodfire, Channel Smite            | —                                     |
-| 6th   | +6                | +3        | +2       | +3        | Versatile channel                   | +1 level of divine spellcasting class |
-| 7th   | +7                | +4        | +2       | +4        | Divine judgment                     | +1 level of divine spellcasting class |
-| 8th   | +8                | +4        | +3       | +4        | Faith healing (maximize)            | +1 level of divine spellcasting class |
-| 9th   | +9                | +5        | +3       | +5        | Bloodrain                           | —                                     |
-| 10th  | +10               | +5        | +3       | +5        | Divine retribution                  | +1 level of divine spellcasting class |
+| Level | Special                             | Spells per Day                  |
+| ----- | ------- | -------------------- |
+| 1st   | Channel energy, vindicator's shield | —                                     |
+| 2nd   | Stigmata                            | +1 level of divine spellcasting class |
+| 3rd   | Faith healing (empower)             | +1 level of divine spellcasting class |
+| 4th   | Divine wrath                        | +1 level of divine spellcasting class |
+| 5th   | Bloodfire, Channel Smite            | —                                     |
+| 6th   | Versatile channel                   | +1 level of divine spellcasting class |
+| 7th   | Divine judgment                     | +1 level of divine spellcasting class |
+| 8th   | Faith healing (maximize)            | +1 level of divine spellcasting class |
+| 9th   | Bloodrain                           | —                                     |
+| 10th  | Divine retribution                  | +1 level of divine spellcasting class |
 
 ###### Class Features
 

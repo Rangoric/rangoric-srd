@@ -1,6 +1,10 @@
 ---
 srd-type: "overview"
 section: "Psionics"
+bab: medium
+fort: poor
+ref: good
+will: good
 based-on:
   - "[[fantasy srd 3.5/psionics/Soulknife|Soulknife (3.5)]]"
 status: draft
@@ -16,6 +20,10 @@ tags: [rangoric, rangoric/overview]
 Alignment: Any.  
 Hit Die: d10.  
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Reflex and Will, poor Fortitude.
+
 ###### Class Skills
 
 The soulknife’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Meditation|Meditation]]\* (Wis), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Psionics (Skill)|Psionics]]\* (Int), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).  
@@ -25,28 +33,28 @@ Skill Points at Each Level: 4 + Int modifier.
 
 Table: The Soulknife  
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                            |
-| ----- | ----------------- | --------- | -------- | --------- | -------------------------------------------------- |
-| 1st   | +0               | +0       | +2      | +2       | Mind blade, Weapon Focus (mind blade), Wild Talent |
-| 2nd   | +1               | +0       | +3      | +3       | Throw mind blade                                   |
-| 3rd   | +2               | +1       | +3      | +3       | Psychic strike +1d8                                |
-| 4th   | +3               | +1       | +4      | +4       | +1 mind blade                                     |
-| 5th   | +3               | +1       | +4      | +4       | Free draw, shape mind blade                        |
-| 6th   | +4               | +2       | +5      | +5       | Mind blade enhancement +1, Speed of Thought        |
-| 7th   | +5               | +2       | +5      | +5       | Psychic strike +2d8                                |
-| 8th   | +6/+1            | +2       | +6      | +6       | +2 mind blade                                     |
-| 9th   | +6/+1            | +3       | +6      | +6       | Bladewind, Greater Weapon Focus (mind blade)       |
-| 10th  | +7/+2            | +3       | +7      | +7       | Mind blade enhancement +2                          |
-| 11th  | +8/+3            | +3       | +7      | +7       | Psychic strike +3d8                                |
-| 12th  | +9/+4            | +4       | +8      | +8       | +3 mind blade                                     |
-| 13th  | +9/+4            | +4       | +8      | +8       | Knife to the soul                                  |
-| 14th  | +10/+5           | +4       | +9      | +9       | Mind blade enhancement +3                          |
-| 15th  | +11/+6/+1        | +5       | +9      | +9       | Psychic strike +4d8                                |
-| 16th  | +12/+7/+2        | +5       | +10     | +10      | +4 mind blade                                     |
-| 17th  | +12/+7/+2        | +5       | +10     | +10      | Multiple throw                                     |
-| 18th  | +13/+8/+3        | +6       | +11     | +11      | Mind blade enhancement +4                          |
-| 19th  | +14/+9/+4        | +6       | +11     | +11      | Psychic strike +5d8                                |
-| 20th  | +15/+10/+5       | +6       | +12     | +12      | +5 mind blade                                     |
+| Level | Special                                            |
+| ----- | -------------------------------------------------- |
+| 1st   | Mind blade, Weapon Focus (mind blade), Wild Talent |
+| 2nd   | Throw mind blade                                   |
+| 3rd   | Psychic strike +1d8                                |
+| 4th   | +1 mind blade                                     |
+| 5th   | Free draw, shape mind blade                        |
+| 6th   | Mind blade enhancement +1, Speed of Thought        |
+| 7th   | Psychic strike +2d8                                |
+| 8th   | +2 mind blade                                     |
+| 9th   | Bladewind, Greater Weapon Focus (mind blade)       |
+| 10th  | Mind blade enhancement +2                          |
+| 11th  | Psychic strike +3d8                                |
+| 12th  | +3 mind blade                                     |
+| 13th  | Knife to the soul                                  |
+| 14th  | Mind blade enhancement +3                          |
+| 15th  | Psychic strike +4d8                                |
+| 16th  | +4 mind blade                                     |
+| 17th  | Multiple throw                                     |
+| 18th  | Mind blade enhancement +4                          |
+| 19th  | Psychic strike +5d8                                |
+| 20th  | +5 mind blade                                     |
 
 ###### Class Features
 

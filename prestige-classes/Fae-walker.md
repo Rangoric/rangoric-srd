@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d8"
+bab: medium
+fort: poor
+ref: good
+will: poor
 skill-points: "6 + Int modifier"
 book: "Faeries"
 based-on:
@@ -25,6 +29,10 @@ Rogues, bards, and monks make excellent fae-walkers and find their abilities adv
 
 **Hit Die**: d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Reflex, poor Fortitude and Will.
+
 ###### Requirements
 
 To qualify to become a fae-walker (abbreviated Fwk), a character must fulfill all the following criteria.
@@ -45,18 +53,18 @@ The fae-walker’s class skills (and the key ability for each skill) are [[rango
 
 **Table: The Fae-walker** ^table-the-fae-walker
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-| --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +2 | +0 | Evasion, Step Sideways I |
-| 2nd | +1 | +0 | +3 | +0 | Low-light vision, Uncanny Dodge (Dex bonus to AC) |
-| 3rd | +2 | +1 | +3 | +1 | Slippery Mind |
-| 4th | +3 | +1 | +4 | +1 | Fae-walk (15 ft.) |
-| 5th | +4 | +1 | +4 | +1 | Step Sideways II, Uncanny Dodge (can’t be flanked) |
-| 6th | +4 | +2 | +5 | +2 | Defensive Jaunt, Fae-walk (30 ft.) |
-| 7th | +5 | +2 | +5 | +2 | Step Sideways III |
-| 8th | +6 | +2 | +6 | +2 | Fae-walk (60 ft.) |
-| 9th | +7 | +3 | +6 | +3 | Improved Evasion, Uncanny Dodge (+1 vs. traps) |
-| 10th | +8 | +3 | +7 | +3 | Fae-walk (120 ft.), Stray |
+| Level | Special |
+| --- | --- |
+| 1st | Evasion, Step Sideways I |
+| 2nd | Low-light vision, Uncanny Dodge (Dex bonus to AC) |
+| 3rd | Slippery Mind |
+| 4th | Fae-walk (15 ft.) |
+| 5th | Step Sideways II, Uncanny Dodge (can’t be flanked) |
+| 6th | Defensive Jaunt, Fae-walk (30 ft.) |
+| 7th | Step Sideways III |
+| 8th | Fae-walk (60 ft.) |
+| 9th | Improved Evasion, Uncanny Dodge (+1 vs. traps) |
+| 10th | Fae-walk (120 ft.), Stray |
 
 ###### Class Features
 

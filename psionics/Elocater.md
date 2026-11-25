@@ -1,6 +1,10 @@
 ---
 srd-type: "overview"
 section: "Psionics"
+bab: medium
+fort: poor
+ref: good
+will: good
 based-on:
   - "[[fantasy srd 3.5/psionics/Elocater|Elocater (3.5)]]"
 status: draft
@@ -14,6 +18,10 @@ tags: [rangoric, rangoric/overview]
 ### Elocater
 
 Hit Die: d6.  
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Reflex and Will, poor Fortitude.
 
 ###### Requirements
 
@@ -34,18 +42,18 @@ Skill Points at Each Level: 6 + Int modifier.
 
 Table: The Elocater  
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                      | Powers Known                            |
-| ----- | ----------------- | --------- | -------- | --------- | ---------------------------- | --------------------------------------- |
-| 1st   | +0               | +0       | +2      | +2       | Scorn earth, Sidestep Charge | +1 level of existing manifesting class |
-| 2nd   | +1               | +0       | +3      | +3       | Opportunistic strike +2      | -                                      |
-| 3rd   | +2               | +1       | +3      | +3       | Dimension step               | +1 level of existing manifesting class |
-| 4th   | +3               | +1       | +4      | +4       | Flanker                      | +1 level of existing manifesting class |
-| 5th   | +3               | +1       | +4      | +4       | Opportunistic strike +4      | -                                      |
-| 6th   | +4               | +2       | +5      | +5       | Transporter                  | +1 level of existing manifesting class |
-| 7th   | +5               | +2       | +5      | +5       | Capricious step              | +1 level of existing manifesting class |
-| 8th   | +6               | +2       | +6      | +6       | Opportunistic strike +6      | -                                      |
-| 9th   | +6               | +3       | +6      | +6       | Dimension spring attack      | +1 level of existing manifesting class |
-| 10th  | +7               | +3       | +7      | +7       | Accelerated action           | +1 level of existing manifesting class |
+| Level | Special                      | Powers Known                            |
+| ----- | ---------------------------- | --------------------------------------- |
+| 1st   | Scorn earth, Sidestep Charge | +1 level of existing manifesting class |
+| 2nd   | Opportunistic strike +2      | -                                      |
+| 3rd   | Dimension step               | +1 level of existing manifesting class |
+| 4th   | Flanker                      | +1 level of existing manifesting class |
+| 5th   | Opportunistic strike +4      | -                                      |
+| 6th   | Transporter                  | +1 level of existing manifesting class |
+| 7th   | Capricious step              | +1 level of existing manifesting class |
+| 8th   | Opportunistic strike +6      | -                                      |
+| 9th   | Dimension spring attack      | +1 level of existing manifesting class |
+| 10th  | Accelerated action           | +1 level of existing manifesting class |
 
 ###### Class Features
 

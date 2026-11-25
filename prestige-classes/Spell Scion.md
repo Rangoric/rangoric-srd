@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d6"
+bab: weak
+fort: poor
+ref: poor
+will: good
 skill-points: "2 + Int modifier"
 book: ["Unearthed Arcana", "Arms & Armor v3.5"]
 based-on:
@@ -27,6 +31,10 @@ Conversely, a spellstaff is the epitome of the magic staff: an item of great arc
 
 **Hit Die:** d6.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
+
 ###### Requirements
 
 To qualify to become a spell scion, a character must fulfill the criteria given in her particular weapon’s entry. (For an example, see [[rangoric-srd/magic-items/legendary-weapons/Kaiein, the Blazing Staff|Kaiein]], below.)
@@ -39,18 +47,18 @@ The spell scion’s class skills (and the key ability for each skill) are all [[
 
 **Table: The Spell Scion**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day/Spells Known |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +0 | +2 | Weapon Focus or Two-Weapon Fighting | +1 level of existing spellcasting class |
-| 2nd | +1 | +0 | +0 | +3 | — | +1 level of existing spellcasting class |
-| 3rd | +1 | +1 | +1 | +3 | — | +1 level of existing spellcasting class |
-| 4th | +2 | +1 | +1 | +4 | — | +1 level of existing spellcasting class |
-| 5th | +2 | +1 | +1 | +4 | — | +1 level of existing spellcasting class |
-| 6th | +3 | +2 | +2 | +5 | — | +1 level of existing spellcasting class |
-| 7th | +3 | +2 | +2 | +5 | — | +1 level of existing spellcasting class |
-| 8th | +4 | +2 | +2 | +6 | — | +1 level of existing spellcasting class |
-| 9th | +4 | +3 | +3 | +6 | — | +1 level of existing spellcasting class |
-| 10th | +5 | +3 | +3 | +7 | — | +1 level of existing spellcasting class |
+| Level | Special | Spells per Day/Spells Known |
+| --- | --- | --- |
+| 1st | Weapon Focus or Two-Weapon Fighting | +1 level of existing spellcasting class |
+| 2nd | — | +1 level of existing spellcasting class |
+| 3rd | — | +1 level of existing spellcasting class |
+| 4th | — | +1 level of existing spellcasting class |
+| 5th | — | +1 level of existing spellcasting class |
+| 6th | — | +1 level of existing spellcasting class |
+| 7th | — | +1 level of existing spellcasting class |
+| 8th | — | +1 level of existing spellcasting class |
+| 9th | — | +1 level of existing spellcasting class |
+| 10th | — | +1 level of existing spellcasting class |
 
 ^table-the-spell-scion
 

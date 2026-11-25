@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d10"
+bab: full
+fort: good
+ref: poor
+will: poor
 skill-points: "2 + Int modifier"
 book: ["Unearthed Arcana", "Arms & Armor v3.5"]
 based-on:
@@ -29,6 +33,10 @@ Sometimes a magic staff is not so much a device for storing spells as it is a ma
 
 **Hit Die:** d10.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude, poor Reflex and Will.
+
 ###### Requirements
 
 To qualify to become a battle scion, a character must fulfill the criteria given in his particular weapon’s entry. (For an example, see [[rangoric-srd/magic-items/legendary-weapons/Drakeblade|Drakeblade]], below.)
@@ -41,18 +49,18 @@ The battle scion’s class skills (and the key ability for each skill) are [[ran
 
 **Table: The Battle Scion**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-| --- | --- | --- | --- | --- | --- |
-| 1st | +1 | +2 | +0 | +0 | Bonus feat, Weapon Specialization or Two-Weapon Fighting |
-| 2nd | +2 | +3 | +0 | +0 | — |
-| 3rd | +3 | +3 | +1 | +1 | — |
-| 4th | +4 | +4 | +1 | +1 | Bonus feat |
-| 5th | +5 | +4 | +1 | +1 | — |
-| 6th | +6 | +5 | +2 | +2 | — |
-| 7th | +7 | +5 | +2 | +2 | Bonus feat |
-| 8th | +8 | +6 | +2 | +2 | — |
-| 9th | +9 | +6 | +3 | +3 | — |
-| 10th | +10 | +7 | +3 | +3 | Bonus feat |
+| Level | Special |
+| --- | --- |
+| 1st | Bonus feat, Weapon Specialization or Two-Weapon Fighting |
+| 2nd | — |
+| 3rd | — |
+| 4th | Bonus feat |
+| 5th | — |
+| 6th | — |
+| 7th | Bonus feat |
+| 8th | — |
+| 9th | — |
+| 10th | Bonus feat |
 
 ^table-the-battle-scion
 

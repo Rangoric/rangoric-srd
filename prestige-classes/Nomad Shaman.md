@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d6"
+bab: medium
+fort: good
+ref: poor
+will: poor
 skill-points: "4 + Int modifier"
 book: "Encyclopaedia Arcane: Star Magic"
 based-on:
@@ -20,6 +24,10 @@ tags: [rangoric, rangoric/class]
 A nomad shaman keeps star lore handed down by word of mouth among a wandering people, far older than any city's observatory, and is sworn to guide and defend her tribe.
 
 **Hit Die**: d6.
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude, poor Reflex and Will.
 
 ###### Requirements
 
@@ -41,18 +49,18 @@ The nomad shaman’s class skills (and the key ability for each skill) are [[ran
 
 **Table: The Nomad Shaman** ^table-the-nomad-shaman
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +2 | +0 | +0 | Spirit sight | +1 level of existing arcane spellcasting class |
-| 2nd | +1 | +3 | +0 | +0 | — | +1 level of existing arcane spellcasting class |
-| 3rd | +2 | +3 | +1 | +1 | Spirit walker | +1 level of existing arcane spellcasting class |
-| 4th | +3 | +4 | +1 | +1 | — | +1 level of existing arcane spellcasting class |
-| 5th | +3 | +4 | +1 | +1 | Illuminated familiar | +1 level of existing arcane spellcasting class |
-| 6th | +4 | +5 | +2 | +2 | — | +1 level of existing arcane spellcasting class |
-| 7th | +5 | +5 | +2 | +2 | Words of wisdom | +1 level of existing arcane spellcasting class |
-| 8th | +6 | +6 | +2 | +2 | — | +1 level of existing arcane spellcasting class |
-| 9th | +6 | +6 | +3 | +3 | Craft of the ancients | +1 level of existing arcane spellcasting class |
-| 10th | +7 | +7 | +3 | +3 | Master of destiny | +1 level of existing arcane spellcasting class |
+| Level | Special | Spells per Day |
+| --- | --- | --- |
+| 1st | Spirit sight | +1 level of existing arcane spellcasting class |
+| 2nd | — | +1 level of existing arcane spellcasting class |
+| 3rd | Spirit walker | +1 level of existing arcane spellcasting class |
+| 4th | — | +1 level of existing arcane spellcasting class |
+| 5th | Illuminated familiar | +1 level of existing arcane spellcasting class |
+| 6th | — | +1 level of existing arcane spellcasting class |
+| 7th | Words of wisdom | +1 level of existing arcane spellcasting class |
+| 8th | — | +1 level of existing arcane spellcasting class |
+| 9th | Craft of the ancients | +1 level of existing arcane spellcasting class |
+| 10th | Master of destiny | +1 level of existing arcane spellcasting class |
 
 ###### Class Features
 

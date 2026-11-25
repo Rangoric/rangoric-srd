@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d8"
+bab: medium
+fort: good
+ref: poor
+will: good
 skill-points: "2 + Int modifier"
 book: ["Unearthed Arcana", "Arms & Armor v3.5"]
 based-on:
@@ -27,6 +31,10 @@ A faith scion usually has high status within his religious order. His possession
 
 **Hit Die:** d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Will, poor Reflex.
+
 ###### Requirements
 
 To qualify to become a faith scion, a character must fulfill the criteria given in his particular weapon’s entry. (For an example, see [[rangoric-srd/magic-items/legendary-weapons/Hammer of the Dwarffather|Hammer of the Dwarffather]], below.)
@@ -41,18 +49,18 @@ The faith scion’s class skills (and the key ability for each skill) are [[rang
 
 **Table: The Faith Scion**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day/Spells Known |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +2 | +0 | +2 | Two-Weapon Fighting | +1 level of existing spellcasting class |
-| 2nd | +1 | +3 | +0 | +3 | — | +1 level of existing spellcasting class |
-| 3rd | +2 | +3 | +1 | +3 | — | +1 level of existing spellcasting class |
-| 4th | +3 | +4 | +1 | +4 | — | +1 level of existing spellcasting class |
-| 5th | +3 | +4 | +1 | +4 | — | +1 level of existing spellcasting class |
-| 6th | +4 | +5 | +2 | +5 | — | +1 level of existing spellcasting class |
-| 7th | +5 | +5 | +2 | +5 | — | +1 level of existing spellcasting class |
-| 8th | +6 | +6 | +2 | +6 | — | +1 level of existing spellcasting class |
-| 9th | +6 | +6 | +3 | +6 | — | +1 level of existing spellcasting class |
-| 10th | +7 | +7 | +3 | +7 | — | +1 level of existing spellcasting class |
+| Level | Special | Spells per Day/Spells Known |
+| --- | --- | --- |
+| 1st | Two-Weapon Fighting | +1 level of existing spellcasting class |
+| 2nd | — | +1 level of existing spellcasting class |
+| 3rd | — | +1 level of existing spellcasting class |
+| 4th | — | +1 level of existing spellcasting class |
+| 5th | — | +1 level of existing spellcasting class |
+| 6th | — | +1 level of existing spellcasting class |
+| 7th | — | +1 level of existing spellcasting class |
+| 8th | — | +1 level of existing spellcasting class |
+| 9th | — | +1 level of existing spellcasting class |
+| 10th | — | +1 level of existing spellcasting class |
 
 ^table-the-faith-scion
 

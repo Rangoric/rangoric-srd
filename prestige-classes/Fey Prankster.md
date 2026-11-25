@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d8"
+bab: medium
+fort: poor
+ref: good
+will: good
 skill-points: "6 + Int modifier"
 book: "Faeries"
 based-on:
@@ -20,6 +24,10 @@ tags: [rangoric, rangoric/class]
 Like many fey creatures, the fey prankster sees every day as another opportunity to trick the unwary, tease the deserving, and live life to its fullest. This carefree outlook on life entices many to become fey pranksters. Many see the fey lifestyle as the closest one can get to living out their truest thoughts and emotions. Fey pranksters often serve as ambassadors between mortals and the fey, and even among fractious or warring fey clans.
 
 **Hit Die**: d8.
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Reflex and Will, poor Fortitude.
 
 ###### Requirements
 
@@ -45,18 +53,18 @@ The fey prankster’s class skills (and the key ability for each skill) are [[ra
 
 **Table: The Fey Prankster** ^table-the-fey-prankster
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day: 1st | 2nd | 3rd | 4th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +2 | +2 | Prestidigitator | 1 | — | — | — |
-| 2nd | +1 | +0 | +3 | +3 | Mask of Fey | 2 | 0 | — | — |
-| 3rd | +2 | +1 | +3 | +3 | Luck of the Fey | 2 | 1 | — | — |
-| 4th | +3 | +1 | +4 | +4 | — | 3 | 2 | 0 | — |
-| 5th | +3 | +1 | +4 | +4 | Mask of Fey | 3 | 2 | 1 | — |
-| 6th | +4 | +2 | +5 | +5 | Luck of the True Fey | 3 | 3 | 2 | 0 |
-| 7th | +5 | +2 | +5 | +5 | Slippery Mind | 4 | 3 | 2 | 1 |
-| 8th | +6 | +2 | +6 | +6 | Mask of Fey | 4 | 3 | 3 | 2 |
-| 9th | +6 | +3 | +6 | +6 | — | 4 | 4 | 3 | 2 |
-| 10th | +7 | +3 | +7 | +7 | Destined | 4 | 4 | 3 | 3 |
+| Level | Special | Spells per Day: 1st | 2nd | 3rd | 4th |
+| --- | --- | --- | --- | --- | --- |
+| 1st | Prestidigitator | 1 | — | — | — |
+| 2nd | Mask of Fey | 2 | 0 | — | — |
+| 3rd | Luck of the Fey | 2 | 1 | — | — |
+| 4th | — | 3 | 2 | 0 | — |
+| 5th | Mask of Fey | 3 | 2 | 1 | — |
+| 6th | Luck of the True Fey | 3 | 3 | 2 | 0 |
+| 7th | Slippery Mind | 4 | 3 | 2 | 1 |
+| 8th | Mask of Fey | 4 | 3 | 3 | 2 |
+| 9th | — | 4 | 4 | 3 | 2 |
+| 10th | Destined | 4 | 4 | 3 | 3 |
 
 ###### Class Features
 

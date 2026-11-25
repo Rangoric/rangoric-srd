@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d4"
+bab: weak
+fort: poor
+ref: poor
+will: good
 skill-points: "2 + Int modifier"
 book: "Encyclopaedia Arcane: Star Magic"
 based-on:
@@ -21,6 +25,10 @@ A star magus has given her studies wholly to [[rangoric-srd/rules/star magic/Sta
 
 **Hit Die**: d4.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
+
 ###### Requirements
 
 To qualify to become a star magus, a character must fulfill all the following criteria.
@@ -39,13 +47,13 @@ The star magus’s class skills (and the key ability for each skill) are [[rango
 
 **Table: The Star Magus** ^table-the-star-magus
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +0 | +2 | Superior spell focus +2 | +1 level of existing arcane spellcasting class |
-| 2nd | +1 | +0 | +0 | +3 | Focused spell penetration +2 | +1 level of existing arcane spellcasting class |
-| 3rd | +1 | +1 | +1 | +3 | Superior spell focus +4, bonus feat | +1 level of existing arcane spellcasting class |
-| 4th | +2 | +1 | +1 | +4 | Focused spell penetration +4 | +1 level of existing arcane spellcasting class |
-| 5th | +2 | +1 | +1 | +4 | Superior spell focus +6 | +1 level of existing arcane spellcasting class |
+| Level | Special | Spells per Day |
+| --- | --- | --- |
+| 1st | Superior spell focus +2 | +1 level of existing arcane spellcasting class |
+| 2nd | Focused spell penetration +2 | +1 level of existing arcane spellcasting class |
+| 3rd | Superior spell focus +4, bonus feat | +1 level of existing arcane spellcasting class |
+| 4th | Focused spell penetration +4 | +1 level of existing arcane spellcasting class |
+| 5th | Superior spell focus +6 | +1 level of existing arcane spellcasting class |
 
 ###### Class Features
 

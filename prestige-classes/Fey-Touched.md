@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d6"
+bab: full
+fort: poor
+ref: poor
+will: good
 skill-points: "6 + Int modifier"
 book: "Faeries"
 based-on:
@@ -20,6 +24,10 @@ tags: [rangoric, rangoric/class]
 Mortal creatures that have visited the fey realm often find they have been deeply affected by the magic of the land. After spending an indeterminate time there, many assume a magical tie to it, and gain magical abilities and sensitivity to fey creatures as a result.
 
 **Hit Die**: d6.
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
 
 ###### Requirements
 
@@ -43,18 +51,18 @@ The fey-touched’s class skills (and the key ability for each skill) are [[rang
 
 **Table: The Fey-Touched** ^table-the-fey-touched
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-| --- | --- | --- | --- | --- | --- |
-| 1st | +1 | +0 | +0 | +2 | Fey Sense, Low-light Vision |
-| 2nd | +2 | +0 | +0 | +3 | Prestidigitator |
-| 3rd | +3 | +1 | +1 | +3 | Luck of the Fey |
-| 4th | +4 | +1 | +1 | +4 | Fey Friend |
-| 5th | +5 | +1 | +1 | +4 | — |
-| 6th | +6 | +2 | +2 | +5 | Luck of the True Fey |
-| 7th | +7 | +2 | +2 | +5 | Slippery Mind |
-| 8th | +8 | +2 | +2 | +6 | Timeless Body |
-| 9th | +9 | +3 | +3 | +6 | Destined |
-| 10th | +10 | +3 | +3 | +7 | Soul of Ages |
+| Level | Special |
+| --- | --- |
+| 1st | Fey Sense, Low-light Vision |
+| 2nd | Prestidigitator |
+| 3rd | Luck of the Fey |
+| 4th | Fey Friend |
+| 5th | — |
+| 6th | Luck of the True Fey |
+| 7th | Slippery Mind |
+| 8th | Timeless Body |
+| 9th | Destined |
+| 10th | Soul of Ages |
 
 ###### Class Features
 

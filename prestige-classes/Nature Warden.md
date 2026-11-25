@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d8"
+bab: medium
+fort: good
+ref: poor
+will: good
 skill-points: "4 + Int modifier"
 based-on:
   - "[[path srd 3.5/classes/Nature Warden|Nature Warden (PF1)]]"
@@ -25,6 +29,10 @@ Nature wardens are usually druids or ranger/druids, though occasional ranger/cle
 
 **Hit Die**: d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Will, poor Reflex.
+
 ###### Requirements
 
 To qualify to become a nature warden, a character must fulfill all the following criteria.
@@ -47,18 +55,18 @@ The nature warden’s class skills (and the key ability for each skill) are [[ra
 
 **Table: The Nature Warden**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                         | Spells per Day                  |
-| ----- | ----------------- | --------- | -------- | --------- | ------- | -------------------- |
-| 1st   | +0                | +1        | +0       | +1        | Companion bond, natural empathy | —                                     |
-| 2nd   | +1                | +1        | +1       | +1        | Mystic harmony, wild stride     | +1 level of divine spellcasting class |
-| 3rd   | +2                | +2        | +1       | +2        | Animal speech                   | +1 level of divine spellcasting class |
-| 4th   | +3                | +2        | +1       | +2        | Silverclaw                      | +1 level of divine spellcasting class |
-| 5th   | +3                | +3        | +2       | +3        | Favored terrain, survivalist    | —                                     |
-| 6th   | +4                | +3        | +2       | +3        | Woodforging                     | +1 level of divine spellcasting class |
-| 7th   | +5                | +4        | +2       | +4        | Companion walk, plant speech    | +1 level of divine spellcasting class |
-| 8th   | +6                | +4        | +3       | +4        | Ironpaw                         | +1 level of divine spellcasting class |
-| 9th   | +6                | +5        | +3       | +5        | Guarded lands                   | —                                     |
-| 10th  | +7                | +5        | +3       | +5        | Companion soul, favored terrain | +1 level of divine spellcasting class |
+| Level | Special                         | Spells per Day                  |
+| ----- | ------- | -------------------- |
+| 1st   | Companion bond, natural empathy | —                                     |
+| 2nd   | Mystic harmony, wild stride     | +1 level of divine spellcasting class |
+| 3rd   | Animal speech                   | +1 level of divine spellcasting class |
+| 4th   | Silverclaw                      | +1 level of divine spellcasting class |
+| 5th   | Favored terrain, survivalist    | —                                     |
+| 6th   | Woodforging                     | +1 level of divine spellcasting class |
+| 7th   | Companion walk, plant speech    | +1 level of divine spellcasting class |
+| 8th   | Ironpaw                         | +1 level of divine spellcasting class |
+| 9th   | Guarded lands                   | —                                     |
+| 10th  | Companion soul, favored terrain | +1 level of divine spellcasting class |
 
 ###### Class Features
 

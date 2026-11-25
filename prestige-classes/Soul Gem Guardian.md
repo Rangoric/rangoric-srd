@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d10"
+bab: full
+fort: good
+ref: poor
+will: good
 skill-points: "2 + Int modifier"
 book: "Spells & Magic"
 based-on:
@@ -27,6 +31,10 @@ Soul gem guardians serve [[rangoric-srd/rules/path-of-jewels/The Path of Jewels|
 
 **Hit Die**: d10.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Will, poor Reflex.
+
 ###### Requirements
 
 To qualify to become a soul gem guardian, a character must fulfill all the following criteria.
@@ -49,13 +57,13 @@ The soul gem guardian’s class skills (and the key ability for each skill) are 
 
 **Table: The Soul Gem Guardian** ^table-the-soul-gem-guardian
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-| --- | --- | --- | --- | --- | --- |
-| 1st | +1 | +2 | +0 | +2 | Initial bond, shared spells (three 1st-level) |
-| 2nd | +2 | +3 | +0 | +3 | Crystalline form 1/day |
-| 3rd | +3 | +3 | +1 | +3 | Shared spells (two 2nd-level) |
-| 4th | +4 | +4 | +1 | +4 | Crystalline form 2/day |
-| 5th | +5 | +4 | +1 | +4 | Final bond, shared spells (one 3rd-level) |
+| Level | Special |
+| --- | --- |
+| 1st | Initial bond, shared spells (three 1st-level) |
+| 2nd | Crystalline form 1/day |
+| 3rd | Shared spells (two 2nd-level) |
+| 4th | Crystalline form 2/day |
+| 5th | Final bond, shared spells (one 3rd-level) |
 
 ###### Class Features
 

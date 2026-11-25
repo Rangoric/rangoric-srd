@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d4"
+bab: weak
+fort: poor
+ref: poor
+will: good
 skill-points: "4 + Int modifier"
 book: "Faeries"
 based-on:
@@ -20,6 +24,10 @@ tags: [rangoric, rangoric/class]
 Characters who become fey guardians often seek to share the knowledge, gifts, and magic of the fey realm with the mortals of other worlds and planes. They frequently adopt one or two people—often people with little means and low status—and seek to change their lives in the most positive way through their abilities. Upon helping the person, they seek out their next “project” by observing the people surrounding them and selecting one who would benefit and most appreciate the help.
 
 **Hit Die**: d4.
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
 
 ###### Requirements
 
@@ -41,18 +49,18 @@ The fey guardian’s class skills (and the key ability for each skill) are [[ran
 
 **Table: The Fey Guardian** ^table-the-fey-guardian
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +0 | +2 | Luck of the Fey, Will of the Fey | +1 level of existing class |
-| 2nd | +1 | +0 | +0 | +3 | Polymorph Other | +1 level of existing class |
-| 3rd | +1 | +1 | +1 | +3 | Mote-form | +1 level of existing class |
-| 4th | +2 | +1 | +1 | +4 | Transfer | +1 level of existing class |
-| 5th | +2 | +1 | +1 | +4 | Permanency | +1 level of existing class |
-| 6th | +3 | +2 | +2 | +5 | — | +1 level of existing class |
-| 7th | +3 | +2 | +2 | +5 | Limited Wish | +1 level of existing class |
-| 8th | +4 | +2 | +2 | +6 | — | +1 level of existing class |
-| 9th | +4 | +3 | +3 | +6 | Polymorph Any Object | +1 level of existing class |
-| 10th | +5 | +3 | +3 | +7 | Wish | +1 level of existing class |
+| Level | Special | Spells per Day |
+| --- | --- | --- |
+| 1st | Luck of the Fey, Will of the Fey | +1 level of existing class |
+| 2nd | Polymorph Other | +1 level of existing class |
+| 3rd | Mote-form | +1 level of existing class |
+| 4th | Transfer | +1 level of existing class |
+| 5th | Permanency | +1 level of existing class |
+| 6th | — | +1 level of existing class |
+| 7th | Limited Wish | +1 level of existing class |
+| 8th | — | +1 level of existing class |
+| 9th | Polymorph Any Object | +1 level of existing class |
+| 10th | Wish | +1 level of existing class |
 
 ###### Class Features
 

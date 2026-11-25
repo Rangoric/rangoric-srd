@@ -1,6 +1,10 @@
 ---
 srd-type: "overview"
 section: "Psionics"
+bab: medium
+fort: good
+ref: poor
+will: poor
 based-on:
   - "[[fantasy srd 3.5/psionics/Psychic Warrior|Psychic Warrior (3.5)]]"
 status: draft
@@ -17,6 +21,10 @@ Alignment: Any.
 
 Hit Die: d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude, poor Reflex and Will.
+
 ###### Class Skills
 
 The psychic warrior’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Meditation|Meditation]]\* (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Psionics (Skill)|Psionics]]\* (Int), and [[rangoric-srd/skills/Tactics|Tactics]] (Int).  
@@ -27,28 +35,28 @@ Skill Points at Each Level: 2 + Int modifier.
 
 Table: The Psychic Warrior  
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special    | Power Points/Day | Powers Known | Maximum Power Level Known |
-| ----- | ----------------- | --------- | -------- | --------- | ---------- | ---------------- | ------------ | ------------------------- |
-| 1st   | +0               | +2       | +0      | +0       | Bonus feat | 0\*              | 1            | 1st                       |
-| 2nd   | +1               | +3       | +0      | +0       | Bonus feat | 1                | 2            | 1st                       |
-| 3rd   | +2               | +3       | +1      | +1       | -          | 3                | 3            | 1st                       |
-| 4th   | +3               | +4       | +1      | +1       | -          | 5                | 4            | 2nd                       |
-| 5th   | +3               | +4       | +1      | +1       | Bonus feat | 7                | 5            | 2nd                       |
-| 6th   | +4               | +5       | +2      | +2       | -          | 11               | 6            | 2nd                       |
-| 7th   | +5               | +5       | +2      | +2       | -          | 15               | 7            | 3rd                       |
-| 8th   | +6/+1            | +6       | +2      | +2       | Bonus feat | 19               | 8            | 3rd                       |
-| 9th   | +6/+1            | +6       | +3      | +3       | -          | 23               | 9            | 3rd                       |
-| 10th  | +7/+2            | +7       | +3      | +3       | -          | 27               | 10           | 4th                       |
-| 11th  | +8/+3            | +7       | +3      | +3       | Bonus feat | 35               | 11           | 4th                       |
-| 12th  | +9/+4            | +8       | +4      | +4       | -          | 43               | 12           | 4th                       |
-| 13th  | +9/+4            | +8       | +4      | +4       | -          | 51               | 13           | 5th                       |
-| 14th  | +10/+5           | +9       | +4      | +4       | Bonus feat | 59               | 14           | 5th                       |
-| 15th  | +11/+6/+1        | +9       | +5      | +5       | -         | 67               | 15           | 5th                       |
-| 16th  | +12/+7/+2        | +10      | +5      | +5       | -          | 79               | 16           | 6th                       |
-| 17th  | +12/+7/+2        | +10      | +5      | +5       | Bonus feat | 91               | 17           | 6th                       |
-| 18th  | +13/+8/+3        | +11      | +6      | +6       | -          | 103              | 18           | 6th                       |
-| 19th  | +14/+9/+4        | +11      | +6      | +6       | -          | 115              | 19           | 6th                       |
-| 20th  | +15/+10/+5       | +12      | +6      | +6       | Bonus feat | 127              | 20           | 6th                       |
+| Level | Special    | Power Points/Day | Powers Known | Maximum Power Level Known |
+| ----- | ---------- | ---------------- | ------------ | ------------------------- |
+| 1st   | Bonus feat | 0\*              | 1            | 1st                       |
+| 2nd   | Bonus feat | 1                | 2            | 1st                       |
+| 3rd   | -          | 3                | 3            | 1st                       |
+| 4th   | -          | 5                | 4            | 2nd                       |
+| 5th   | Bonus feat | 7                | 5            | 2nd                       |
+| 6th   | -          | 11               | 6            | 2nd                       |
+| 7th   | -          | 15               | 7            | 3rd                       |
+| 8th   | Bonus feat | 19               | 8            | 3rd                       |
+| 9th   | -          | 23               | 9            | 3rd                       |
+| 10th  | -          | 27               | 10           | 4th                       |
+| 11th  | Bonus feat | 35               | 11           | 4th                       |
+| 12th  | -          | 43               | 12           | 4th                       |
+| 13th  | -          | 51               | 13           | 5th                       |
+| 14th  | Bonus feat | 59               | 14           | 5th                       |
+| 15th  | -         | 67               | 15           | 5th                       |
+| 16th  | -          | 79               | 16           | 6th                       |
+| 17th  | Bonus feat | 91               | 17           | 6th                       |
+| 18th  | -          | 103              | 18           | 6th                       |
+| 19th  | -          | 115              | 19           | 6th                       |
+| 20th  | Bonus feat | 127              | 20           | 6th                       |
 
 \*The psychic warrior gains no power points from his class at 1st level. However, he does add any bonus power points he gains from a high Wisdom score, his race, and feats or other sources to his reserve. He can use these points (if any) to manifest his power.   
 

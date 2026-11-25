@@ -1,6 +1,10 @@
 ---
 srd-type: "overview"
 section: "Psionics"
+bab: weak
+fort: poor
+ref: poor
+will: good
 based-on:
   - "[[fantasy srd 3.5/psionics/Psion Uncarnate|Psion Uncarnate (3.5)]]"
 status: draft
@@ -14,6 +18,10 @@ tags: [rangoric, rangoric/overview]
 ### Psion Uncarnate
 
 Hit Die: d4.  
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
 
 ###### Requirements
 
@@ -34,19 +42,19 @@ Skill Points at Each Level: 2 + Int modifier.
 
 Table: The Psion Uncarnate     
 
-|       |                   |           |          |           |                                        |                                         |
-| ----- | ----------------- | --------- | -------- | --------- | -------------------------------------- | --------------------------------------- |
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                | Powers Known                            |
-| 1st   | +0               | +0       | +0      | +2       | Incorporeal touch 1d6, uncarnate armor | -                                      |
-| 2nd   | +1               | +0       | +0      | +3       | Shed body 1/day                        | +1 level of existing manifesting class |
-| 3rd   | +1               | +1       | +1      | +3       | Assume equipment                       | +1 level of existing manifesting class |
-| 4th   | +2               | +1       | +1      | +4       | Assume likeness                        | -                                      |
-| 5th   | +2               | +1       | +1      | +4       | Incorporeal touch 2d6                  | +1 level of existing manifesting class |
-| 6th   | +3               | +2       | +2      | +5       | Shed body 2/day                        | +1 level of existing manifesting class |
-| 7th   | +3               | +2       | +2      | +5       | Telekinetic force                      | -                                      |
-| 8th   | +4               | +2       | +2      | +6       | Uncarnate bridge                       | +1 level of existing manifesting class |
-| 9th   | +4               | +3       | +3      | +6       | Incorporeal touch 3d6                  | +1 level of existing manifesting class |
-| 10th  | +5               | +3       | +3      | +7       | Uncarnate                              | -                                      |
+|       |                                        |                                         |
+| ----- | -------------------------------------- | --------------------------------------- |
+| Level | Special                                | Powers Known                            |
+| 1st   | Incorporeal touch 1d6, uncarnate armor | -                                      |
+| 2nd   | Shed body 1/day                        | +1 level of existing manifesting class |
+| 3rd   | Assume equipment                       | +1 level of existing manifesting class |
+| 4th   | Assume likeness                        | -                                      |
+| 5th   | Incorporeal touch 2d6                  | +1 level of existing manifesting class |
+| 6th   | Shed body 2/day                        | +1 level of existing manifesting class |
+| 7th   | Telekinetic force                      | -                                      |
+| 8th   | Uncarnate bridge                       | +1 level of existing manifesting class |
+| 9th   | Incorporeal touch 3d6                  | +1 level of existing manifesting class |
+| 10th  | Uncarnate                              | -                                      |
 
 ###### Class Features
 

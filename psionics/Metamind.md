@@ -1,6 +1,10 @@
 ---
 srd-type: "overview"
 section: "Psionics"
+bab: weak
+fort: poor
+ref: poor
+will: good
 based-on:
   - "[[fantasy srd 3.5/psionics/Metamind|Metamind (3.5)]]"
 status: draft
@@ -14,6 +18,10 @@ tags: [rangoric, rangoric/overview]
 ### Metamind
 
 Hit Die: d4.  
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
 
 ###### Requirements
 
@@ -33,19 +41,19 @@ Skill Points at Each Level: 2 + Int modifier.
 
 Table: The Metamind  
 
-|       |                   |           |          |           |                                 |                                         |
-| ----- | ----------------- | --------- | -------- | --------- | ------------------------------- | --------------------------------------- |
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                         | Powers Known                            |
-| 1st   | +0               | +0       | +0      | +2       | Free manifesting 1st, 3/day     | -                                      |
-| 2nd   | +1               | +0       | +0      | +3       | Cognizance psicrystal 5 points  | +1 level of existing manifesting class |
-| 3rd   | +1               | +1       | +1      | +3       | Free manifesting 2nd, 3/day     | -                                      |
-| 4th   | +2               | +1       | +1      | +4       | Cognizance psicrystal 7 points  | +1 level of existing manifesting class |
-| 5th   | +2               | +1       | +1      | +4       | Free manifesting 3rd, 1/day     | -                                      |
-| 6th   | +3               | +2       | +2      | +5       | Cognizance psicrystal 9 points  | +1 level of existing manifesting class |
-| 7th   | +3               | +2       | +2      | +5       | Free manifesting 4th, 1/day     | -                                      |
-| 8th   | +4               | +2       | +2      | +6       | Cognizance psicrystal 11 points | +1 level of existing manifesting class |
-| 9th   | +4               | +3       | +3      | +6       | Free manifesting 5th, 1/day     | -                                      |
-| 10th  | +5               | +3       | +3      | +7       | Font of power                   | +1 level of existing manifesting class |
+|       |                                 |                                         |
+| ----- | ------------------------------- | --------------------------------------- |
+| Level | Special                         | Powers Known                            |
+| 1st   | Free manifesting 1st, 3/day     | -                                      |
+| 2nd   | Cognizance psicrystal 5 points  | +1 level of existing manifesting class |
+| 3rd   | Free manifesting 2nd, 3/day     | -                                      |
+| 4th   | Cognizance psicrystal 7 points  | +1 level of existing manifesting class |
+| 5th   | Free manifesting 3rd, 1/day     | -                                      |
+| 6th   | Cognizance psicrystal 9 points  | +1 level of existing manifesting class |
+| 7th   | Free manifesting 4th, 1/day     | -                                      |
+| 8th   | Cognizance psicrystal 11 points | +1 level of existing manifesting class |
+| 9th   | Free manifesting 5th, 1/day     | -                                      |
+| 10th  | Font of power                   | +1 level of existing manifesting class |
 
 ###### Class Features
 

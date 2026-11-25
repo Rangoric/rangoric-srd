@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d10"
+bab: full
+fort: good
+ref: poor
+will: poor
 alignment: "Any evil"
 skill-points: "2 + Int modifier"
 based-on:
@@ -17,6 +21,10 @@ tags: [rangoric, rangoric/class]
 ### Blackguard
 
 **Hit Die**: d10.
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude, poor Reflex and Will.
 
 ###### Requirements
 
@@ -40,18 +48,18 @@ The blackguard's class skills (and the key ability for each skill) are [[rangori
 
 **Table: The Blackguard**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                               | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th |
-| ----- | ----------------- | --------- | -------- | --------- | ------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| 1st   | +1               | +2       | 0        | 0         | Aura of evil, detect good, poison use | 0                   | —                   | —                   | —                   |
-| 2nd   | +2               | +3       | 0        | 0         | Dark blessing, smite good 1/day       | 1                   | —                   | —                   | —                   |
-| 3rd   | +3               | +3       | +1      | +1       | Command undead, aura of despair       | 1                   | 0                   | —                   | —                   |
-| 4th   | +4               | +4       | +1      | +1       | Sneak attack +1d6                     | 1                   | 1                   | —                   | —                   |
-| 5th   | +5               | +4       | +1      | +1       | Fiendish servant, smite good 2/day    | 1                   | 1                   | 0                   | —                   |
-| 6th   | +6               | +5       | +2      | +2       |                                       | 1                   | 1                   | 1                   | —                   |
-| 7th   | +7               | +5       | +2      | +2       | Sneak attack +2d6                     | 2                   | 1                   | 1                   | 0                   |
-| 8th   | +8               | +6       | +2      | +2       |                                       | 2                   | 1                   | 1                   | 1                   |
-| 9th   | +9               | +6       | +3      | +3       |                                       | 2                   | 2                   | 1                   | 1                   |
-| 10th  | +10              | +7       | +3      | +3       | Sneak attack +3d6, smite good 3/day   | 2                   | 2                   | 2                   | 1                   |
+| Level | Special                               | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th |
+| ----- | ------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| 1st   | Aura of evil, detect good, poison use | 0                   | —                   | —                   | —                   |
+| 2nd   | Dark blessing, smite good 1/day       | 1                   | —                   | —                   | —                   |
+| 3rd   | Command undead, aura of despair       | 1                   | 0                   | —                   | —                   |
+| 4th   | Sneak attack +1d6                     | 1                   | 1                   | —                   | —                   |
+| 5th   | Fiendish servant, smite good 2/day    | 1                   | 1                   | 0                   | —                   |
+| 6th   |                                       | 1                   | 1                   | 1                   | —                   |
+| 7th   | Sneak attack +2d6                     | 2                   | 1                   | 1                   | 0                   |
+| 8th   |                                       | 2                   | 1                   | 1                   | 1                   |
+| 9th   |                                       | 2                   | 2                   | 1                   | 1                   |
+| 10th  | Sneak attack +3d6, smite good 3/day   | 2                   | 2                   | 2                   | 1                   |
 
 ###### Class Features
 

@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d4"
+bab: weak
+fort: good
+ref: good
+will: good
 skill-points: "4 + Int modifier"
 book: "Alchemy & Herbalists"
 based-on:
@@ -25,6 +29,10 @@ Herbalists practise [[rangoric-srd/rules/alchemy-and-herbalism/Herbalism|herbali
 
 **Hit Die**: d4.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: All good.
+
 ###### Requirements
 
 To qualify to become an herbalist, a character must fulfill all the following criteria.
@@ -47,18 +55,18 @@ The herbalist’s class skills (and the key ability for each skill) are [[rangor
 
 **Table: The Herbalist** ^table-the-herbalist
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +0 | +2 | [[rangoric-srd/feats/Craft Toxins|Craft Toxins]] | — |
-| 2nd | +1 | +0 | +0 | +3 | — | +1 level of existing class |
-| 3rd | +1 | +1 | +1 | +3 | [[rangoric-srd/feats/Craft Herbal Restoratives|Craft Herbal Restoratives]] | — |
-| 4th | +2 | +1 | +1 | +4 | Bloomagic | +1 level of existing class |
-| 5th | +2 | +2 | +2 | +4 | [[rangoric-srd/feats/Craft Powders & Dusts|Craft Powders & Dusts]] | — |
-| 6th | +3 | +2 | +2 | +5 | Flourish spell | +1 level of existing class |
-| 7th | +3 | +3 | +3 | +5 | [[rangoric-srd/feats/Grow Swathe|Grow Swathe]] | — |
-| 8th | +4 | +3 | +3 | +6 | — | +1 level of existing class |
-| 9th | +4 | +4 | +4 | +6 | [[rangoric-srd/feats/Create Erlcana|Create Erlcana]] | — |
-| 10th | +5 | +4 | +4 | +7 | — | +1 level of existing class |
+| Level | Special | Spells per Day |
+| --- | --- | --- |
+| 1st | [[rangoric-srd/feats/Craft Toxins\|Craft Toxins]] | — |
+| 2nd | — | +1 level of existing class |
+| 3rd | [[rangoric-srd/feats/Craft Herbal Restoratives\|Craft Herbal Restoratives]] | — |
+| 4th | Bloomagic | +1 level of existing class |
+| 5th | [[rangoric-srd/feats/Craft Powders & Dusts\|Craft Powders & Dusts]] | — |
+| 6th | Flourish spell | +1 level of existing class |
+| 7th | [[rangoric-srd/feats/Grow Swathe\|Grow Swathe]] | — |
+| 8th | — | +1 level of existing class |
+| 9th | [[rangoric-srd/feats/Create Erlcana\|Create Erlcana]] | — |
+| 10th | — | +1 level of existing class |
 
 ###### Class Features
 

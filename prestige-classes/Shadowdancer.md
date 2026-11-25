@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d8"
+bab: medium
+fort: poor
+ref: good
+will: poor
 skill-points: "6 + Int modifier"
 based-on:
   - "[[fantasy srd 3.5/prestige-classes/Shadowdancer|Shadowdancer (3.5)]]"
@@ -26,6 +30,10 @@ Shadowdancers exist in the boundary between light and darkness, where they weave
 
 **Hit Die**: d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Reflex, poor Fortitude and Will.
+
 ###### Requirements
 
 To qualify to become a shadowdancer, a character must fulfill all the following criteria.
@@ -42,18 +50,18 @@ The shadowdancer’s class skills (and the key ability for each skill) are [[ran
 
 **Table: The Shadowdancer**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                |
-| ----- | ----------------- | --------- | -------- | --------- | -------------------------------------- |
-| 1st   | +0               | +0       | +2      | +0       | Hide in plain sight                    |
-| 2nd   | +1               | +0       | +3      | +0       | Evasion, darkvision, uncanny dodge     |
-| 3rd   | +2               | +1       | +3      | +1       | Rogue talent, shadow illusion, summon shadow         |
-| 4th   | +3               | +1       | +4      | +1       | Shadow call, shadow jump 40 ft. |
-| 5th   | +3               | +1       | +4      | +1       | Defensive roll, improved uncanny dodge |
-| 6th   | +4               | +2       | +5      | +2       | Rogue talent, shadow jump 80 ft., summon shadow |
-| 7th   | +5               | +2       | +5      | +2       | Slippery mind                          |
-| 8th   | +6               | +2       | +6      | +2       | Shadow jump 160 ft., shadow power |
-| 9th   | +6               | +3       | +6      | +3       | Rogue talent, summon shadow                          |
-| 10th  | +7               | +3       | +7      | +3       | Shadow jump 320 ft., improved evasion, shadow master |
+| Level | Special                                |
+| ----- | -------------------------------------- |
+| 1st   | Hide in plain sight                    |
+| 2nd   | Evasion, darkvision, uncanny dodge     |
+| 3rd   | Rogue talent, shadow illusion, summon shadow         |
+| 4th   | Shadow call, shadow jump 40 ft. |
+| 5th   | Defensive roll, improved uncanny dodge |
+| 6th   | Rogue talent, shadow jump 80 ft., summon shadow |
+| 7th   | Slippery mind                          |
+| 8th   | Shadow jump 160 ft., shadow power |
+| 9th   | Rogue talent, summon shadow                          |
+| 10th  | Shadow jump 320 ft., improved evasion, shadow master |
 
 ###### Class Features
 

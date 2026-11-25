@@ -1,6 +1,10 @@
 ---
 srd-type: "overview"
 section: "Psionics"
+bab: medium
+fort: poor
+ref: poor
+will: good
 based-on:
   - "[[fantasy srd 3.5/psionics/Wilder|Wilder (3.5)]]"
 status: draft
@@ -17,6 +21,10 @@ Alignment: Any.
 
 Hit Die: d6.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
+
 ###### Class Skills
 
 The wilder’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Meditation|Meditation]]\* (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Psionics (Skill)|Psionics]]\* (Int), and [[rangoric-srd/skills/Sense Motive|Sense Motive]](Wis).  
@@ -27,29 +35,29 @@ Skill Points at Each Level: 4 + Int modifier.
 
 Table: The Wilder  
 
-|       |                   |           |          |           |                                   |                  |              |                           |
-| ----- | ----------------- | --------- | -------- | --------- | --------------------------------- | ---------------- | ------------ | ------------------------- |
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                           | Power Points/Day | Powers Known | Maximum Power Level Known |
-| 1st   | +0               | +0       | +0      | +2       | Wild surge +1, psychic enervation | 2                | 1            | 1st                       |
-| 2nd   | +1               | +0       | +0      | +3       | Elude touch                       | 6                | 2            | 1st                       |
-| 3rd   | +2               | +1       | +1      | +3       | Wild surge +2                     | 11               | 2            | 1st                       |
-| 4th   | +3               | +1       | +1      | +4       | Surging euphoria +1               | 17               | 3            | 2nd                       |
-| 5th   | +3               | +1       | +1      | +4       | Volatile mind (1 power point)     | 25               | 3            | 2nd                       |
-| 6th   | +4               | +2       | +2      | +5       |                                   | 35               | 4            | 3rd                       |
-| 7th   | +5               | +2       | +2      | +5       | Wild surge +3                     | 46               | 4            | 3rd                       |
-| 8th   | +6/+1            | +2       | +2      | +6       |                                   | 58               | 5            | 4th                       |
-| 9th   | +6/+1            | +3       | +3      | +6       | Volatile mind (2 power points)    | 72               | 5            | 4th                       |
-| 10th  | +7/+2            | +3       | +3      | +7       |                                   | 88               | 6            | 5th                       |
-| 11th  | +8/+3            | +3       | +3      | +7       | Wild surge +4                     | 106              | 6            | 5th                       |
-| 12th  | +9/+4            | +4       | +4      | +8       | Surging euphoria +2               | 126              | 7            | 6th                       |
-| 13th  | +9/+4            | +4       | +4      | +8       | Volatile mind (3 power points)    | 147              | 7            | 6th                       |
-| 14th  | +10/+5           | +4       | +4      | +9       |                                   | 170              | 8            | 7th                       |
-| 15th  | +11/+6/+1        | +5       | +5      | +9       | Wild surge +5                     | 195              | 8            | 7th                       |
-| 16th  | +12/+7/+2        | +5       | +5      | +10      |                                   | 221              | 9            | 8th                       |
-| 17th  | +12/+7/+2        | +5       | +5      | +10      | Volatile mind (4 power points)    | 250              | 9            | 8th                       |
-| 18th  | +13/+8/+3        | +6       | +6      | +11      |                                   | 280              | 10           | 9th                       |
-| 19th  | +14/+9/+4        | +6       | +6      | +11      | Wild surge +6                     | 311              | 10           | 9th                       |
-| 20th  | +15/+10/+5       | +6       | +6      | +12      | Surging euphoria +3               | 343              | 11           | 9th                       |
+|       |                                   |                  |              |                           |
+| ----- | --------------------------------- | ---------------- | ------------ | ------------------------- |
+| Level | Special                           | Power Points/Day | Powers Known | Maximum Power Level Known |
+| 1st   | Wild surge +1, psychic enervation | 2                | 1            | 1st                       |
+| 2nd   | Elude touch                       | 6                | 2            | 1st                       |
+| 3rd   | Wild surge +2                     | 11               | 2            | 1st                       |
+| 4th   | Surging euphoria +1               | 17               | 3            | 2nd                       |
+| 5th   | Volatile mind (1 power point)     | 25               | 3            | 2nd                       |
+| 6th   |                                   | 35               | 4            | 3rd                       |
+| 7th   | Wild surge +3                     | 46               | 4            | 3rd                       |
+| 8th   |                                   | 58               | 5            | 4th                       |
+| 9th   | Volatile mind (2 power points)    | 72               | 5            | 4th                       |
+| 10th  |                                   | 88               | 6            | 5th                       |
+| 11th  | Wild surge +4                     | 106              | 6            | 5th                       |
+| 12th  | Surging euphoria +2               | 126              | 7            | 6th                       |
+| 13th  | Volatile mind (3 power points)    | 147              | 7            | 6th                       |
+| 14th  |                                   | 170              | 8            | 7th                       |
+| 15th  | Wild surge +5                     | 195              | 8            | 7th                       |
+| 16th  |                                   | 221              | 9            | 8th                       |
+| 17th  | Volatile mind (4 power points)    | 250              | 9            | 8th                       |
+| 18th  |                                   | 280              | 10           | 9th                       |
+| 19th  | Wild surge +6                     | 311              | 10           | 9th                       |
+| 20th  | Surging euphoria +3               | 343              | 11           | 9th                       |
 
 ###### Class Features
 

@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d10"
+bab: full
+fort: good
+ref: poor
+will: poor
 skill-points: "6 + Int modifier"
 based-on:
   - "[[path srd 3.5/classes/Horizon Walker|Horizon Walker (PF1)]]"
@@ -27,6 +31,10 @@ Though rangers are most likely to be attracted to the ever-wandering life common
 
 **Hit Die**: d10.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude, poor Reflex and Will.
+
 ###### Requirements
 
 To qualify to become a horizon walker, a character must fulfill all the following criteria.
@@ -43,18 +51,18 @@ The horizon walker’s class skills (and the key ability for each skill) are [[r
 
 **Table: The Horizon Walker**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                |
-| ----- | ----------------- | --------- | -------- | --------- | ---------------------- |
-| 1st   | +1               | +2       | +0      | +0       | Favored terrain |
-| 2nd   | +2               | +3       | +0      | +0       | Favored terrain, terrain mastery |
-| 3rd   | +3               | +3       | +1      | +1       | Terrain dominance |
-| 4th   | +4               | +4       | +1      | +1       | Favored terrain, terrain mastery |
-| 5th   | +5               | +4       | +1      | +1       | Favored terrain |
-| 6th   | +6               | +5       | +2      | +2       | Terrain dominance, terrain mastery |
-| 7th   | +7               | +5       | +2      | +2       | Favored terrain |
-| 8th   | +8               | +6       | +2      | +2       | Favored terrain, terrain mastery |
-| 9th   | +9               | +6       | +3      | +3       | Terrain dominance |
-| 10th  | +10              | +7       | +3      | +3       | Favored terrain, master of all lands |
+| Level | Special                |
+| ----- | ---------------------- |
+| 1st   | Favored terrain |
+| 2nd   | Favored terrain, terrain mastery |
+| 3rd   | Terrain dominance |
+| 4th   | Favored terrain, terrain mastery |
+| 5th   | Favored terrain |
+| 6th   | Terrain dominance, terrain mastery |
+| 7th   | Favored terrain |
+| 8th   | Favored terrain, terrain mastery |
+| 9th   | Terrain dominance |
+| 10th  | Favored terrain, master of all lands |
 
 ###### Class Features
 

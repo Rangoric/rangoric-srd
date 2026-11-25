@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d6"
+bab: weak
+fort: poor
+ref: good
+will: good
 alignment: "Any nonlawful"
 skill-points: "4 + Int modifier"
 based-on:
@@ -27,6 +31,10 @@ The path to becoming an arcane trickster is a natural progression for rogues who
 
 **Hit Die**: d6.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Reflex and Will, poor Fortitude.
+
 ###### Requirements
 
 To qualify to become an arcane trickster, a character must fulfill all of the following criteria.
@@ -47,18 +55,18 @@ The arcane trickster's class skills (and the key ability for each skill) are [[r
 
 **Table: The Arcane Trickster**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                      | Spells per Day              |
-| ----- | ----------------- | --------- | -------- | --------- | ---------------------------- | --------------------------- |
-| 1st   | +0               | +0       | +2      | +2       | Ranged legerdemain           | +1 level of existing class |
-| 2nd   | +1               | +0       | +3      | +3       | Sneak attack +1d6            | +1 level of existing class |
-| 3rd   | +1               | +1       | +3      | +3       | Impromptu sneak attack 1/day | +1 level of existing class |
-| 4th   | +2               | +1       | +4      | +4       | Sneak attack +2d6            | +1 level of existing class |
-| 5th   | +2               | +1       | +4      | +4       | Tricky spells 3/day          | +1 level of existing class |
-| 6th   | +3               | +2       | +5      | +5       | Sneak attack +3d6            | +1 level of existing class |
-| 7th   | +3               | +2       | +5      | +5       | Impromptu sneak attack 2/day, tricky spells 4/day | +1 level of existing class |
-| 8th   | +4               | +2       | +6      | +6       | Sneak attack +4d6            | +1 level of existing class |
-| 9th   | +4               | +3       | +6      | +6       | Invisible thief, tricky spells 5/day | +1 level of existing class |
-| 10th  | +5               | +3       | +7      | +7       | Sneak attack +5d6, surprise spells | +1 level of existing class |
+| Level | Special                      | Spells per Day              |
+| ----- | ---------------------------- | --------------------------- |
+| 1st   | Ranged legerdemain           | +1 level of existing class |
+| 2nd   | Sneak attack +1d6            | +1 level of existing class |
+| 3rd   | Impromptu sneak attack 1/day | +1 level of existing class |
+| 4th   | Sneak attack +2d6            | +1 level of existing class |
+| 5th   | Tricky spells 3/day          | +1 level of existing class |
+| 6th   | Sneak attack +3d6            | +1 level of existing class |
+| 7th   | Impromptu sneak attack 2/day, tricky spells 4/day | +1 level of existing class |
+| 8th   | Sneak attack +4d6            | +1 level of existing class |
+| 9th   | Invisible thief, tricky spells 5/day | +1 level of existing class |
+| 10th  | Sneak attack +5d6, surprise spells | +1 level of existing class |
 
 ###### Class Features
 

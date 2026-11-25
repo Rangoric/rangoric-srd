@@ -1,6 +1,10 @@
 ---
 srd-type: "overview"
 section: "Psionics"
+bab: full
+fort: good
+ref: good
+will: poor
 based-on:
   - "[[fantasy srd 3.5/psionics/War Mind|War Mind (3.5)]]"
 status: draft
@@ -14,6 +18,10 @@ tags: [rangoric, rangoric/overview]
 ### War Mind
 
 Hit Die: d10.  
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Reflex, poor Will.
 
 ###### Requirements
 
@@ -37,19 +45,19 @@ Skill Points at Each Level: 2 + Int modifier.
 
 Table: The War Mind     
 
-|       |                   |           |          |           |                                  |            |              |                           |
-| ----- | ----------------- | --------- | -------- | --------- | -------------------------------- | ---------- | ------------ | ------------------------- |
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                          | Points/Day | Powers Known | Maximum Power Level Known |
-| 1st   | +1               | +2       | +2      | +0       | Chain of personal superiority +2 | 2          | 1            | 1st                       |
-| 2nd   | +2               | +3       | +3      | +0       | Chain of defensive posture +2    | 5          | 2            | 1st                       |
-| 3rd   | +3               | +3       | +3      | +1       | Enduring body (DR 1/-)           | 9          | 2            | 1st                       |
-| 4th   | +4               | +4       | +4      | +1       | -                               | 14         | 3            | 2nd                       |
-| 5th   | +5               | +4       | +4      | +1       | Sweeping strike                  | 20         | 3            | 2nd                       |
-| 6th   | +6               | +5       | +5      | +2       | Enduring body (DR 2/-)           | 28         | 4            | 3rd                       |
-| 7th   | +7               | +5       | +5      | +2       | Chain of personal superiority +4 | 37         | 4            | 3rd                       |
-| 8th   | +8               | +6       | +6      | +2       | Chain of defensive posture +4    | 47         | 5            | 4th                       |
-| 9th   | +9               | +6       | +6      | +3       | Enduring body (DR 3/-)           | 58         | 5            | 4th                       |
-| 10th  | +10              | +7       | +7      | +3       | Chain of overwhelming force      | 70         | 6            | 5th                       |
+|       |                                  |            |              |                           |
+| ----- | -------------------------------- | ---------- | ------------ | ------------------------- |
+| Level | Special                          | Points/Day | Powers Known | Maximum Power Level Known |
+| 1st   | Chain of personal superiority +2 | 2          | 1            | 1st                       |
+| 2nd   | Chain of defensive posture +2    | 5          | 2            | 1st                       |
+| 3rd   | Enduring body (DR 1/-)           | 9          | 2            | 1st                       |
+| 4th   | -                               | 14         | 3            | 2nd                       |
+| 5th   | Sweeping strike                  | 20         | 3            | 2nd                       |
+| 6th   | Enduring body (DR 2/-)           | 28         | 4            | 3rd                       |
+| 7th   | Chain of personal superiority +4 | 37         | 4            | 3rd                       |
+| 8th   | Chain of defensive posture +4    | 47         | 5            | 4th                       |
+| 9th   | Enduring body (DR 3/-)           | 58         | 5            | 4th                       |
+| 10th  | Chain of overwhelming force      | 70         | 6            | 5th                       |
 
 ###### Class Features
 

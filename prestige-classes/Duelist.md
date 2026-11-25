@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d10"
+bab: full
+fort: poor
+ref: good
+will: poor
 skill-points: "4 + Int modifier"
 based-on:
   - "[[fantasy srd 3.5/prestige-classes/Duelist|Duelist (3.5)]]"
@@ -26,6 +30,10 @@ The path to the duelist is natural for rogues and bards, as those classes do not
 
 **Hit Die**: d10.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Reflex, poor Fortitude and Will.
+
 ###### Requirements
 
 To qualify to become a duelist, a character must fulfill all the following criteria.
@@ -44,18 +52,18 @@ The duelist’s class skills (and the key ability for each skill) are [[rangoric
 
 **Table: The Duelist**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special              |
-| ----- | ----------------- | --------- | -------- | --------- | -------------------- |
-| 1st   | +1               | +0       | +2      | +0       | Canny defense, precise strike |
-| 2nd   | +2               | +0       | +3      | +0       | Improved reaction +2, parry |
-| 3rd   | +3               | +1       | +3      | +1       | Enhanced mobility    |
-| 4th   | +4               | +1       | +4      | +1       | Combat Reflexes, grace |
-| 5th   | +5               | +1       | +4      | +1       | Precise strike +1d6, riposte |
-| 6th   | +6               | +2       | +5      | +2       | Acrobatic charge     |
-| 7th   | +7               | +2       | +5      | +2       | Elaborate parry      |
-| 8th   | +8               | +2       | +6      | +2       | Improved reaction +4 |
-| 9th   | +9               | +3       | +6      | +3       | Deflect Arrows, no retreat |
-| 10th  | +10              | +3       | +7      | +3       | Precise strike +2d6, crippling critical |
+| Level | Special              |
+| ----- | -------------------- |
+| 1st   | Canny defense, precise strike |
+| 2nd   | Improved reaction +2, parry |
+| 3rd   | Enhanced mobility    |
+| 4th   | Combat Reflexes, grace |
+| 5th   | Precise strike +1d6, riposte |
+| 6th   | Acrobatic charge     |
+| 7th   | Elaborate parry      |
+| 8th   | Improved reaction +4 |
+| 9th   | Deflect Arrows, no retreat |
+| 10th  | Precise strike +2d6, crippling critical |
 
 ###### Class Features
 

@@ -1,6 +1,10 @@
 ---
 srd-type: "overview"
 section: "Psionics"
+bab: weak
+fort: poor
+ref: poor
+will: good
 based-on:
   - "[[fantasy srd 3.5/psionics/Cerebremancer|Cerebremancer (3.5)]]"
 status: draft
@@ -14,6 +18,10 @@ tags: [rangoric, rangoric/overview]
 ### Cerebremancer
 
 Hit Die: d4.  
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
 
 ###### Requirements
 
@@ -33,18 +41,18 @@ Skill Points at Each Level: 2 + Int modifier.
 
 Table: The Cerebremancer  
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Spells per Day/Powers Known                                                            |
-| ----- | ----------------- | --------- | -------- | --------- | -------------------------------------------------------------------------------------- |
-| 1st   | +0               | +0       | +0      | +2       | +1 level of existing arcane spellcasting class/+1 level of existing manifesting class |
-| 2nd   | +1               | +0       | +0      | +3       | +1 level of existing arcane spellcasting class/+1 level of existing manifesting class |
-| 3rd   | +1               | +1       | +1      | +3       | +1 level of existing arcane spellcasting class/+1 level of existing manifesting class |
-| 4th   | +2               | +1       | +1      | +4       | +1 level of existing arcane spellcasting class/+1 level of existing manifesting class |
-| 5th   | +2               | +1       | +1      | +4       | +1 level of existing arcane spellcasting class/+1 level of existing manifesting class |
-| 6th   | +3               | +2       | +2      | +5       | +1 level of existing arcane spellcasting class/+1 level of existing manifesting class |
-| 7th   | +3               | +2       | +2      | +5       | +1 level of existing arcane spellcasting class/+1 level of existing manifesting class |
-| 8th   | +4               | +2       | +2      | +6       | +1 level of existing arcane spellcasting class/+1 level of existing manifesting class |
-| 9th   | +4               | +3       | +3      | +6       | +1 level of existing arcane spellcasting class/+1 level of existing manifesting class |
-| 10th  | +5               | +3       | +3      | +7       | +1 level of existing arcane spellcasting class/+1 level of existing manifesting class |
+| Level | Spells per Day/Powers Known                                                            |
+| ----- | -------------------------------------------------------------------------------------- |
+| 1st   | +1 level of existing arcane spellcasting class/+1 level of existing manifesting class |
+| 2nd   | +1 level of existing arcane spellcasting class/+1 level of existing manifesting class |
+| 3rd   | +1 level of existing arcane spellcasting class/+1 level of existing manifesting class |
+| 4th   | +1 level of existing arcane spellcasting class/+1 level of existing manifesting class |
+| 5th   | +1 level of existing arcane spellcasting class/+1 level of existing manifesting class |
+| 6th   | +1 level of existing arcane spellcasting class/+1 level of existing manifesting class |
+| 7th   | +1 level of existing arcane spellcasting class/+1 level of existing manifesting class |
+| 8th   | +1 level of existing arcane spellcasting class/+1 level of existing manifesting class |
+| 9th   | +1 level of existing arcane spellcasting class/+1 level of existing manifesting class |
+| 10th  | +1 level of existing arcane spellcasting class/+1 level of existing manifesting class |
 
 ###### Class Features
 

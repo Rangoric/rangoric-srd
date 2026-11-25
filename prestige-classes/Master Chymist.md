@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d10"
+bab: full
+fort: good
+ref: good
+will: poor
 skill-points: "2 + Int modifier"
 book: "Advanced Player's Guide"
 based-on:
@@ -26,6 +30,10 @@ Master chymists become two personalities sharing a single body. Both the hulking
 
 **Hit Die**: d10.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Reflex, poor Will.
+
 ###### Requirements
 
 To qualify to become a master chymist, a character must fulfill all the following criteria.
@@ -42,18 +50,18 @@ The master chymist’s class skills (and the key ability for each skill) are [[r
 
 **Table: The Master Chymist**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Extracts per Day |
-| ----- | ----------------- | --------- | -------- | --------- | ------- | ---------------- |
-| 1st | +1 | +1 | +1 | +0 | Bomb-thrower, mutagenic form, mutate 2/day | — |
-| 2nd | +2 | +1 | +1 | +1 | Advanced mutagen | +1 level of alchemist |
-| 3rd | +3 | +2 | +2 | +1 | Brutality (+2) | +1 level of alchemist |
-| 4th | +4 | +2 | +2 | +1 | Advanced mutagen | — |
-| 5th | +5 | +3 | +3 | +2 | Mutate 3/day | +1 level of alchemist |
-| 6th | +6 | +3 | +3 | +2 | Advanced mutagen | +1 level of alchemist |
-| 7th | +7 | +4 | +4 | +2 | Brutality (+4) | +1 level of alchemist |
-| 8th | +8 | +4 | +4 | +3 | Advanced mutagen, mutate 4/day | — |
-| 9th | +9 | +5 | +5 | +3 | Brutality (+6) | +1 level of alchemist |
-| 10th | +10 | +5 | +5 | +3 | Advanced mutagen, mutate 5/day | +1 level of alchemist |
+| Level | Special | Extracts per Day |
+| ----- | ------- | ---------------- |
+| 1st | Bomb-thrower, mutagenic form, mutate 2/day | — |
+| 2nd | Advanced mutagen | +1 level of alchemist |
+| 3rd | Brutality (+2) | +1 level of alchemist |
+| 4th | Advanced mutagen | — |
+| 5th | Mutate 3/day | +1 level of alchemist |
+| 6th | Advanced mutagen | +1 level of alchemist |
+| 7th | Brutality (+4) | +1 level of alchemist |
+| 8th | Advanced mutagen, mutate 4/day | — |
+| 9th | Brutality (+6) | +1 level of alchemist |
+| 10th | Advanced mutagen, mutate 5/day | +1 level of alchemist |
 
 ###### Class Features
 
