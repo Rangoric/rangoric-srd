@@ -17,8 +17,8 @@ special-attacks: "Merope consumption, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect secret doors, low-light vision, immunity to poison and sonic, resistance to acid 10, spell resistance 22"
 saves: "Fort +8, Ref +16, Will +15"
 abilities: "Str 14, Dex 20, Con 19, Int 19, Wis 22, Cha 27"
-skills: "Acrobatics +26, Arcana +18, Deception +22, Emulation +22, Perception +29, Persuasion +22, Sense Motive +20"
-skill-ranks: "Acrobatics 18, Arcana 11, Deception 11, Emulation 11, Perception 18, Persuasion 11, Sense Motive 15"
+skills: "Acrobatics +26, Arcana +18, Deception +22, Emulation +22, Mysticism +18, Perception +29, Persuasion +22, Sense Motive +20"
+skill-ranks: "Acrobatics 18, Arcana 11, Deception 11, Emulation 11, Mysticism 11, Perception 18, Persuasion 11, Sense Motive 15"
 feats: "Agile Maneuvers, Combat Casting, Combat Reflexes, Improved Two-Weapon Fighting, Lightning Reflexes, Two-Weapon Fighting, Skill Focus (Perception)"
 environment: "Any"
 organization: "Solitary, pair, or triad"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect secret doors, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison and sonic, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 22
   - **Saves**: Fort +8, Ref +16, Will +15
   - **Abilities**: Str 14, Dex 20, Con 19, Int 19, Wis 22, Cha 27
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +26, [[rangoric-srd/skills/Arcana|Arcana]] +18, [[rangoric-srd/skills/Deception|Deception]] +22, [[rangoric-srd/skills/Emulation|Emulation]] +22, [[rangoric-srd/skills/Perception|Perception]] +29, [[rangoric-srd/skills/Persuasion|Persuasion]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +26, [[rangoric-srd/skills/Arcana|Arcana]] +18, [[rangoric-srd/skills/Deception|Deception]] +22, [[rangoric-srd/skills/Emulation|Emulation]] +22, [[rangoric-srd/skills/Mysticism|Mysticism]] +18, [[rangoric-srd/skills/Perception|Perception]] +29, [[rangoric-srd/skills/Persuasion|Persuasion]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20
   - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
   - **Environment**: Any
   - **Organization**: Solitary, pair, or triad

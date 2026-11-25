@@ -18,8 +18,8 @@ special-attacks: "Roar, pounce, rake (2 claws +23, 1d6+8), spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, protective aura (20 ft.), lay on hands (7d6, 9/day, as a 14th-level paladin), damage reduction 10/evil and silver, immunity to electricity and petrification, resistance to cold 10 and sonic 10, spell resistance 23"
 saves: "Fort +14, Ref +12, Will +6"
 abilities: "Str 27, Dex 17, Con 20, Int 14, Wis 14, Cha 15"
-skills: "Acrobatics +24, Animal Handling +19, Arcana +16, Athletics +8 (+20 jumping), Intimidation +19, Knowledge +19, Perception +19, Sense Motive +19, Stealth +24"
-skill-ranks: "Acrobatics 14, Animal Handling 14, Arcana 11, Athletics 0, Intimidation 14, Knowledge 14, Perception 14, Sense Motive 14, Stealth 14"
+skills: "Acrobatics +24, Animal Handling +19, Athletics +8 (+20 jumping), Intimidation +19, Knowledge +19, Mysticism +16, Perception +19, Sense Motive +19, Stealth +24"
+skill-ranks: "Acrobatics 14, Animal Handling 14, Athletics 0, Intimidation 14, Knowledge 14, Mysticism 11, Perception 14, Sense Motive 14, Stealth 14"
 feats: "Ability Focus (roar), Dodge, Improved Initiative, Mobility, Spring Attack, Weapon Focus (bite, claw)"
 environment: "Lands of a neutral good-aligned plane"
 organization: "Solitary, pair, or pride (3–8)"
@@ -54,7 +54,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], protective aura (20 ft.), lay on hands (7d6, 9/day, as a 14th-level paladin), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil and silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and sonic 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23
   - **Saves**: Fort +14, Ref +12, Will +6
   - **Abilities**: Str 27, Dex 17, Con 20, Int 14, Wis 14, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +24, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +19, [[rangoric-srd/skills/Arcana|Arcana]] +16, [[rangoric-srd/skills/Athletics|Athletics]] +8 (+20 jumping), [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Knowledge|Knowledge]] +19, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +24
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +24, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +19, [[rangoric-srd/skills/Athletics|Athletics]] +8 (+20 jumping), [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Knowledge|Knowledge]] +19, [[rangoric-srd/skills/Mysticism|Mysticism]] +16, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +24
   - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (roar), [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite, claw)
   - **Environment**: Lands of a neutral good-aligned plane
   - **Organization**: Solitary, pair, or pride (3–8)

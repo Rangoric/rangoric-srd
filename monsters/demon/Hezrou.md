@@ -18,8 +18,8 @@ special-attacks: "Stench (DC 24, 10 rounds), nausea, spell-like abilities"
 special-qualities: "Darkvision 60 ft., telepathy 100 ft., amphibious, damage reduction 10/good, immunity to electricity and poison, resistance to acid 10, cold 10 and fire 10, spell resistance 22"
 saves: "Fort +16, Ref +3, Will +9"
 abilities: "Str 27, Dex 11, Con 29, Int 14, Wis 14, Cha 18"
-skills: "Arcana +15, Athletics +29, Escape Artist +10, Intimidation +14, Perception +23, Stealth +9"
-skill-ranks: "Arcana 10, Athletics 18, Escape Artist 7, Intimidation 7, Perception 10, Stealth 10"
+skills: "Arcana +15, Athletics +29, Escape Artist +10, Intimidation +14, Mysticism +15, Perception +23, Stealth +9"
+skill-ranks: "Arcana 10, Athletics 18, Escape Artist 7, Intimidation 7, Mysticism 10, Perception 10, Stealth 10"
 feats: "Blind-Fight, Cleave, Great Cleave, Improved Initiative, Power Attack"
 environment: "Swamps of a chaotic evil-aligned plane"
 organization: "Solitary or gang (2–4)"
@@ -54,7 +54,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 22
   - **Saves**: Fort +16, Ref +3, Will +9
   - **Abilities**: Str 27, Dex 11, Con 29, Int 14, Wis 14, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +29, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Stealth|Stealth]] +9
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +29, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Stealth|Stealth]] +9
   - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
   - **Environment**: Swamps of a chaotic evil-aligned plane
   - **Organization**: Solitary or gang (2–4)

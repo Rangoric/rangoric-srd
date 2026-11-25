@@ -17,9 +17,9 @@ special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision, soul focus, damage reduction 10/adamantine and magic, construct traits, spell resistance 23, cemented mind, susceptible to mind-affecting effects"
 saves: "Fort +5, Ref +6, Will +7"
 abilities: "Str 13, Dex 13, Con —, Int 20, Wis 10, Cha 13"
-skills: "Arcana +26, Craft (sculptures) +20, Emulation +16, Engineering +20, Imitation +16, Perception +15"
-skill-ranks: "Arcana 18, Craft (sculptures) 12, Emulation 12, Engineering 12, Imitation 12, Perception 12"
-feats: "Combat Casting, Craft Construct, Greater Spell Focus (conjuration), Improved Iron Will, Iron Will, Skill Focus (Arcana), Spell Focus (conjuration), Spell Focus (enchantment), Toughness"
+skills: "Arcana +20, Craft (sculptures) +20, Emulation +16, Engineering +20, Imitation +16, Mysticism +26, Perception +15"
+skill-ranks: "Arcana 12, Craft (sculptures) 12, Emulation 12, Engineering 12, Imitation 12, Mysticism 18, Perception 12"
+feats: "Combat Casting, Craft Construct, Greater Spell Focus (conjuration), Improved Iron Will, Iron Will, Skill Focus (Mysticism), Spell Focus (conjuration), Spell Focus (enchantment), Toughness"
 environment: "Any land"
 organization: "Solitary or workshop (1 plus 2–8 other constructs)"
 challenge-rating: 12
@@ -52,8 +52,8 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Soul Focus (Soulbound Shell)|soul focus]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine and magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23, [[rangoric-srd/monsters/abilities/Cemented Mind|cemented mind]], [[rangoric-srd/monsters/abilities/Susceptible to Mind-Affecting Effects|susceptible to mind-affecting effects]]
   - **Saves**: Fort +5, Ref +6, Will +7
   - **Abilities**: Str 13, Dex 13, Con —, Int 20, Wis 10, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +26, [[rangoric-srd/skills/Craft|Craft]] (sculptures) +20, [[rangoric-srd/skills/Emulation|Emulation]] +16, [[rangoric-srd/skills/Engineering|Engineering]] +20, [[rangoric-srd/skills/Imitation|Imitation]] +16, [[rangoric-srd/skills/Perception|Perception]] +15
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (conjuration), [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Arcana), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment), [[rangoric-srd/feats/Toughness|Toughness]]
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +20, [[rangoric-srd/skills/Craft|Craft]] (sculptures) +20, [[rangoric-srd/skills/Emulation|Emulation]] +16, [[rangoric-srd/skills/Engineering|Engineering]] +20, [[rangoric-srd/skills/Imitation|Imitation]] +16, [[rangoric-srd/skills/Mysticism|Mysticism]] +26, [[rangoric-srd/skills/Perception|Perception]] +15
+  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (conjuration), [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Mysticism), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment), [[rangoric-srd/feats/Toughness|Toughness]]
   - **Environment**: Any land
   - **Organization**: Solitary or workshop (1 plus 2–8 other constructs)
   - **Challenge Rating**: 12

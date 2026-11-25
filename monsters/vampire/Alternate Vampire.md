@@ -18,8 +18,8 @@ special-attacks: "Blood drain, children of the night, create spawn, dominate (DC
 special-qualities: "Darkvision 60 ft., fast healing 5, channel resistance +4, change shape (dire bat or wolf, beast shape II), gaseous form, shadowless, spider climb, damage reduction 10/magic and silver, undead traits, resistance to cold 10 and electricity 10, vampire weaknesses"
 saves: "Fort +13, Ref +11, Will +12"
 abilities: "Str 16, Dex 18, Con —, Int 14, Wis 16, Cha 26"
-skills: "Arcana +13, Deception +27, Emulation +19, Perception +22, Sense Motive +11, Stealth +12, Theology +10"
-skill-ranks: "Arcana 8, Deception 8, Emulation 8, Perception 7, Sense Motive 2, Stealth 0, Theology 5"
+skills: "Arcana +13, Deception +27, Emulation +19, Mysticism +13, Perception +22, Sense Motive +11, Stealth +12, Theology +10"
+skill-ranks: "Arcana 8, Deception 8, Emulation 8, Mysticism 8, Perception 7, Sense Motive 2, Stealth 0, Theology 5"
 feats: "Blind-Fight, Combat Casting, Combat Reflexes, Dodge, Eschew Materials, Extend Spell, Improved Initiative, Lightning Reflexes, Silent Spell, Still Spell, Toughness, Weapon Finesse, Skill Focus (Perception)"
 environment: "Any"
 organization: "Solitary or family (vampire plus 2–8 spawn)"
@@ -65,7 +65,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (dire bat or wolf, beast shape II), [[rangoric-srd/monsters/vampire/Alternate Vampire#^gaseous-form|gaseous form]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^shadowless|shadowless]], [[rangoric-srd/monsters/vampire/Alternate Vampire#^spider-climb|spider climb]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic and silver, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10, [[rangoric-srd/monsters/vampire/Alternate Vampire#^weaknesses|vampire weaknesses]]
   - **Saves**: Fort +13, Ref +11, Will +12
   - **Abilities**: Str 16, Dex 18, Con —, Int 14, Wis 16, Cha 26
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +13, [[rangoric-srd/skills/Deception|Deception]] +27, [[rangoric-srd/skills/Emulation|Emulation]] +19, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +10
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +13, [[rangoric-srd/skills/Deception|Deception]] +27, [[rangoric-srd/skills/Emulation|Emulation]] +19, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +10
   - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Extend Spell|Extend Spell]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Silent Spell|Silent Spell]], [[rangoric-srd/feats/Still Spell|Still Spell]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
   - **Environment**: Any
   - **Organization**: Solitary or family (vampire plus 2–8 spawn)

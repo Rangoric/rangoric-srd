@@ -18,8 +18,8 @@ special-attacks: "Hexes (evil eye [-2, 6 rounds], misfortune [1 round], mud witc
 special-qualities: "Darkvision 60 ft., witch's familiar (frog)"
 saves: "Fort +5, Ref +6, Will +7"
 abilities: "Str 6, Dex 17, Con 14, Int 16, Wis 12, Cha 8"
-skills: "Animal Handling +7, Arcana +12, Athletics +1, Craft (alchemy) +9, Intimidation +8, Perception +7, Stealth +17"
-skill-ranks: "Animal Handling 0, Arcana 6, Athletics 3, Craft (alchemy) 3, Intimidation 6, Perception 3, Stealth 3"
+skills: "Animal Handling +7, Athletics +1, Craft (alchemy) +9, Intimidation +8, Mysticism +12, Perception +7, Stealth +17"
+skill-ranks: "Animal Handling 0, Athletics 3, Craft (alchemy) 3, Intimidation 6, Mysticism 6, Perception 3, Stealth 3"
 feats: "Brew Potion, Extra Hex, Toughness"
 environment: "Temperate forest and plains (usually coastal regions)"
 organization: "Solitary, or with other goblins (see Goblin)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Witch#^witch-familiar|witch's familiar]] (frog)
   - **Saves**: Fort +5, Ref +6, Will +7
   - **Abilities**: Str 6, Dex 17, Con 14, Int 16, Wis 12, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +1, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +17
+  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +1, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +17
   - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Extra Hex|Extra Hex]], [[rangoric-srd/feats/Toughness|Toughness]]
   - **Environment**: Temperate forest and plains (usually coastal regions)
   - **Organization**: Solitary, or with other goblins (see [[rangoric-srd/monsters/goblin/Goblin|Goblin]])

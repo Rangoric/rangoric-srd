@@ -17,8 +17,8 @@ special-attacks: "Rend (2 claws, 2d6+7), poison"
 special-qualities: "Darkvision 60 ft., telepathy 100 feet, brain collection, strange knowledge, damage reduction 10/magic, immunity to confusion effects, spell resistance 19"
 saves: "Fort +9, Ref +6, Will +11"
 abilities: "Str 24, Dex 16, Con 23, Int 19, Wis 18, Cha 17"
-skills: "Acrobatics +15, Arcana +23, Dungeoneering +23, Emulation +16, Knowledge +23, Perception +17, Sense Motive +17, Stealth +12"
-skill-ranks: "Acrobatics 11, Arcana 16, Dungeoneering 16, Emulation 10, Knowledge 16, Perception 10, Sense Motive 10, Stealth 10"
+skills: "Acrobatics +15, Arcana +23, Dungeoneering +23, Emulation +16, Knowledge +23, Mysticism +17, Perception +17, Sense Motive +17, Stealth +12"
+skill-ranks: "Acrobatics 11, Arcana 16, Dungeoneering 16, Emulation 10, Knowledge 16, Mysticism 10, Perception 10, Sense Motive 10, Stealth 10"
 feats: "Arcane Strike, Extend Spell, Combat Reflexes, Eschew Materials, Improved Initiative, Power Attack"
 environment: "Any"
 organization: "Solitary"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 feet, brain collection, strange knowledge, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to confusion effects, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
   - **Saves**: Fort +9, Ref +6, Will +11
   - **Abilities**: Str 24, Dex 16, Con 23, Int 19, Wis 18, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Arcana|Arcana]] +23, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +23, [[rangoric-srd/skills/Emulation|Emulation]] +16, [[rangoric-srd/skills/Knowledge|Knowledge]] +23, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +12
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Arcana|Arcana]] +23, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +23, [[rangoric-srd/skills/Emulation|Emulation]] +16, [[rangoric-srd/skills/Knowledge|Knowledge]] +23, [[rangoric-srd/skills/Mysticism|Mysticism]] +17, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +12
   - **Feats**: [[rangoric-srd/feats/Arcane Strike|Arcane Strike]], [[rangoric-srd/feats/Extend Spell|Extend Spell]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
   - **Environment**: Any
   - **Organization**: Solitary

@@ -18,8 +18,8 @@ special-attacks: "Bardic performance (20 rounds/day), constrict (2d6+5), spell-l
 special-qualities: "Low-light vision, darkvision 60 ft., immunity to electricity, petrification and poison, resistance to cold 10 and fire 10"
 saves: "Fort +7, Ref +10, Will +10"
 abilities: "Str 20, Dex 17, Con 21, Int 14, Wis 16, Cha 19"
-skills: "Acrobatics +11, Deception +14, Fieldcraft +14, Nature +9, Perception +13, Performance (string instruments) +16, Persuasion +14, Sense Motive +13"
-skill-ranks: "Acrobatics 7, Deception 7, Fieldcraft 4, Nature 4, Perception 7, Performance (string instruments) 11, Persuasion 7, Sense Motive 7"
+skills: "Acrobatics +11, Deception +14, Fieldcraft +14, Mysticism +12, Nature +9, Perception +13, Performance (string instruments) +16, Persuasion +14, Sense Motive +13"
+skill-ranks: "Acrobatics 7, Deception 7, Fieldcraft 4, Mysticism 7, Nature 4, Perception 7, Performance (string instruments) 11, Persuasion 7, Sense Motive 7"
 feats: "Combat Casting, Hover, Iron Will, Lightning Reflexes"
 environment: "A chaotic good-aligned plane"
 organization: "Solitary, pair, choir (3–6), or covey (2–4)"
@@ -54,7 +54,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, petrification and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10
   - **Saves**: Fort +7, Ref +10, Will +10
   - **Abilities**: Str 20, Dex 17, Con 21, Int 14, Wis 16, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Performance|Performance]] (string instruments) +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Performance|Performance]] (string instruments) +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
   - **Environment**: A chaotic good-aligned plane
   - **Organization**: Solitary, pair, choir (3–6), or covey (2–4)

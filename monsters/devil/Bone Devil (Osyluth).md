@@ -18,8 +18,8 @@ special-attacks: "Fear aura (5 ft., DC 19, 1d6 rounds), poison, spell-like abili
 special-qualities: "Darkvision 60 ft., see in darkness, telepathy 100 ft., damage reduction 10/good, immunity to fire and poison, resistance to acid 10 and cold 10, spell resistance 20"
 saves: "Fort +12, Ref +12, Will +7"
 abilities: "Str 21, Dex 21, Con 20, Int 16, Wis 15, Cha 18"
-skills: "Acrobatics +21, Arcana +16, Deception +17, Intimidation +17, Perception +21, Persuasion +17, Sense Motive +15, Stealth +14, Theology +16"
-skill-ranks: "Acrobatics 15, Arcana 10, Deception 10, Intimidation 10, Perception 14, Persuasion 10, Sense Motive 14, Stealth 10, Theology 10"
+skills: "Acrobatics +21, Deception +17, Intimidation +17, Mysticism +16, Perception +21, Persuasion +17, Sense Motive +15, Stealth +14, Theology +16"
+skill-ranks: "Acrobatics 15, Deception 10, Intimidation 10, Mysticism 10, Perception 14, Persuasion 10, Sense Motive 14, Stealth 10, Theology 10"
 feats: "Combat Reflexes, Improved Initiative, Iron Will, Quicken Spell-Like Ability (invisibility), Skill Focus (Perception)"
 environment: "A lawful evil-aligned plane"
 organization: "Solitary, pair, inquisition (3–10), team (2–4), or squad (6–10)"
@@ -54,7 +54,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20
   - **Saves**: Fort +12, Ref +12, Will +7
   - **Abilities**: Str 21, Dex 21, Con 20, Int 16, Wis 15, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +21, [[rangoric-srd/skills/Arcana|Arcana]] +16, [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +14, [[rangoric-srd/skills/Theology|Theology]] +16
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +21, [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Mysticism|Mysticism]] +16, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +14, [[rangoric-srd/skills/Theology|Theology]] +16
   - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (invisibility), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
   - **Environment**: A lawful evil-aligned plane
   - **Organization**: Solitary, pair, inquisition (3–10), team (2–4), or squad (6–10)

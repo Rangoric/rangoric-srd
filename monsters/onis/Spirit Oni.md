@@ -18,8 +18,8 @@ special-attacks: "Poison, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect magic, fast healing 2, mask symbiosis"
 saves: "Fort +2, Ref +7, Will +4"
 abilities: "Str 6, Dex 19, Con 12, Int 13, Wis 12, Cha 15"
-skills: "Acrobatics +16, Arcana +7, Deception +8, Perception +7, Sense Motive +7, Stealth +17"
-skill-ranks: "Acrobatics 5, Arcana 3, Deception 3, Perception 3, Sense Motive 3, Stealth 2"
+skills: "Acrobatics +16, Arcana +7, Deception +8, Mysticism +4, Perception +7, Sense Motive +7, Stealth +17"
+skill-ranks: "Acrobatics 5, Arcana 3, Deception 3, Mysticism 1, Perception 3, Sense Motive 3, Stealth 2"
 feats: "Improved Initiative, Weapon Finesse"
 environment: "Any"
 organization: "Solitary, pair, or rack (3–12)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Mask Symbiosis|mask symbiosis]]
   - **Saves**: Fort +2, Ref +7, Will +4
   - **Abilities**: Str 6, Dex 19, Con 12, Int 13, Wis 12, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +17
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Mysticism|Mysticism]] +4, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +17
   - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
   - **Environment**: Any
   - **Organization**: Solitary, pair, or rack (3–12)

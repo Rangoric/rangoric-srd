@@ -15,8 +15,8 @@ full-attack: "2 claws +58 (4d6+16) melee, 1 bite +52 (4d8+8 +spell suck) melee, 
 space-reach: "10ft./10 ft."
 special-attacks: "Improved grab, spell suck, learned spell immunity, spell-like abilities, summon fiend"
 special-qualities: "Abomination traits, fast healing 15, regeneration 15, SR 38, DR 35/+7"
-skills: "Acrobatics +50, Athletics +59 (+79 jumping), Escape Artist +50, Arcana +49, Theology +49, Perception +57, Persuasion +52, Investigation +49, Sense Motive +51, Stealth +46"
-skill-ranks: "Acrobatics 40, Arcana 40, Athletics 40, Escape Artist 40, Investigation 40, Perception 40, Persuasion 40, Sense Motive 40, Stealth 40, Theology 40"
+skills: "Acrobatics +50, Athletics +59 (+79 jumping), Escape Artist +50, Arcana +49, Mysticism +49, Theology +49, Perception +57, Persuasion +52, Investigation +49, Sense Motive +51, Stealth +46"
+skill-ranks: "Acrobatics 40, Arcana 40, Athletics 40, Escape Artist 40, Investigation 40, Mysticism 40, Perception 40, Persuasion 40, Sense Motive 40, Stealth 40, Theology 40"
 feats: "Cleave, Great Cleave, Improved Initiative, Power Attack, Improved Sunder, Skill Focus (Perception), Weapon Focus (claw)"
 epic-feats: "Blinding Speed (x2), Epic Toughness, Epic Weapon Focus (bite), Epic Weapon Focus (claw), Tenacious Magic (greater invisibility), Tenacious Magic (blur)"
 saves: "Fort +31, Ref +29, Will +30"
@@ -49,7 +49,7 @@ Full Attack: 2 claws +58 (4d6+16) melee, 1 bite +52 (4d8+8 +spell suck) melee, 2
 Space/Reach: 10ft./10 ft.      
 Special Attacks: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], spell suck, learned spell immunity, spell-like abilities, summon fiend      
 Special Qualities: Abomination traits, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 15, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 15, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 38, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 35/+7      
-Skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +50, [[rangoric-srd/skills/Arcana|Arcana]] +49, [[rangoric-srd/skills/Athletics|Athletics]] +59 (+79 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +50, [[rangoric-srd/skills/Investigation|Investigation]] +49, [[rangoric-srd/skills/Perception|Perception]] +57, [[rangoric-srd/skills/Persuasion|Persuasion]] +52, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +51, [[rangoric-srd/skills/Stealth|Stealth]] +46, [[rangoric-srd/skills/Theology|Theology]] +49     
+Skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +50, [[rangoric-srd/skills/Arcana|Arcana]] +49, [[rangoric-srd/skills/Athletics|Athletics]] +59 (+79 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +50, [[rangoric-srd/skills/Investigation|Investigation]] +49, [[rangoric-srd/skills/Mysticism|Mysticism]] +49, [[rangoric-srd/skills/Perception|Perception]] +57, [[rangoric-srd/skills/Persuasion|Persuasion]] +52, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +51, [[rangoric-srd/skills/Stealth|Stealth]] +46, [[rangoric-srd/skills/Theology|Theology]] +49     
 **Unspent Skill Points**: 160
 Feats: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)      
 Epic Feats: [[rangoric-srd/feats/Blinding Speed|Blinding Speed]] (x2), [[rangoric-srd/feats/Epic Toughness|Epic Toughness]], [[rangoric-srd/feats/Epic Weapon Focus|Epic Weapon Focus]] (bite), [[rangoric-srd/feats/Epic Weapon Focus|Epic Weapon Focus]] (claw), [[rangoric-srd/feats/Tenacious Magic|Tenacious Magic]] (greater invisibility), [[rangoric-srd/feats/Tenacious Magic|Tenacious Magic]] (blur)      

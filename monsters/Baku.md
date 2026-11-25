@@ -17,8 +17,8 @@ special-attacks: "Mental drain, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, dream claws, damage reduction 10/cold iron, immunity to mind-affecting effects and sleep, spell resistance 19"
 saves: "Fort +11, Ref +12, Will +8"
 abilities: "Str 14, Dex 21, Con 18, Int 15, Wis 16, Cha 25"
-skills: "Acrobatics +18, Arcana +8, Perception +17, Persuasion +15, Sense Motive +11, Stealth +16"
-skill-ranks: "Acrobatics 10, Arcana 3, Perception 10, Persuasion 5, Sense Motive 7, Stealth 8"
+skills: "Acrobatics +18, Mysticism +8, Perception +17, Persuasion +15, Sense Motive +11, Stealth +16"
+skill-ranks: "Acrobatics 10, Mysticism 3, Perception 10, Persuasion 5, Sense Motive 7, Stealth 8"
 feats: "Flyby Attack, Improved Initiative, Iron Will, Weapon Finesse, Skill Focus (Perception)"
 environment: "Any"
 organization: "Solitary"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Dream Claws|dream claws]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects and sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
   - **Saves**: Fort +11, Ref +12, Will +8
   - **Abilities**: Str 14, Dex 21, Con 18, Int 15, Wis 16, Cha 25
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +16
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +16
   - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
   - **Environment**: Any
   - **Organization**: Solitary

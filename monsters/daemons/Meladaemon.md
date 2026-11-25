@@ -18,8 +18,8 @@ special-attacks: "Disease, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect good, detect magic, consumptive aura (20 ft.), telepathy 100 ft., damage reduction 10/good, immunity to acid, critical hits, death effects, disease, poison and sneak attack, resistance to cold 10, electricity 10 and fire 10, spell resistance 22"
 saves: "Fort +11, Ref +15, Will +14"
 abilities: "Str 22, Dex 22, Con 21, Int 21, Wis 17, Cha 18"
-skills: "Acrobatics +17, Arcana +22, Deception +21, Emulation +14, Fieldcraft +20, Intimidation +21, Medicine +11, Perception +20, Sense Motive +20, Stealth +19, Theology +22"
-skill-ranks: "Acrobatics 10, Arcana 14, Deception 14, Emulation 7, Fieldcraft 14, Intimidation 14, Medicine 5, Perception 14, Sense Motive 14, Stealth 14, Theology 14"
+skills: "Acrobatics +17, Deception +21, Emulation +14, Fieldcraft +20, Intimidation +21, Medicine +11, Mysticism +22, Perception +20, Sense Motive +20, Stealth +19, Theology +22"
+skill-ranks: "Acrobatics 10, Deception 14, Emulation 7, Fieldcraft 14, Intimidation 14, Medicine 5, Mysticism 14, Perception 14, Sense Motive 14, Stealth 14, Theology 14"
 feats: "Blind-Fight, Combat Reflexes, Great Fortitude, Improved Critical (bite), Iron Will, Quicken Spell-Like Ability (magic missile), Weapon Focus (bite)"
 environment: "Any (a neutral evil-aligned plane: Abaddon)"
 organization: "Solitary, pack (2–5), or cabal (6–12)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect good, detect magic, [[rangoric-srd/monsters/abilities/Consumptive Aura|consumptive aura]] (20 ft.), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, critical hits, death effects, disease, poison and sneak attack, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 22
   - **Saves**: Fort +11, Ref +15, Will +14
   - **Abilities**: Str 22, Dex 22, Con 21, Int 21, Wis 17, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Arcana|Arcana]] +22, [[rangoric-srd/skills/Deception|Deception]] +21, [[rangoric-srd/skills/Emulation|Emulation]] +14, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +21, [[rangoric-srd/skills/Medicine|Medicine]] +11, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20, [[rangoric-srd/skills/Stealth|Stealth]] +19, [[rangoric-srd/skills/Theology|Theology]] +22
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Deception|Deception]] +21, [[rangoric-srd/skills/Emulation|Emulation]] +14, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +21, [[rangoric-srd/skills/Medicine|Medicine]] +11, [[rangoric-srd/skills/Mysticism|Mysticism]] +22, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20, [[rangoric-srd/skills/Stealth|Stealth]] +19, [[rangoric-srd/skills/Theology|Theology]] +22
   - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (magic missile), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
   - **Environment**: Any (a neutral evil-aligned plane: Abaddon)
   - **Organization**: Solitary, pack (2–5), or cabal (6–12)

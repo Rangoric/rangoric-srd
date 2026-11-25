@@ -18,8 +18,8 @@ special-attacks: "Detect thoughts"
 special-qualities: "Darkvision 60 ft., change shape (any humanoid, alter self), damage reduction 15/good and piercing, spell resistance 25"
 saves: "Fort +9, Ref +12, Will +8"
 abilities: "Str 16, Dex 20, Con 22, Int 13, Wis 13, Cha 17"
-skills: "Deception +20, Imitation +24, Perception +14, Performance +16, Persuasion +16, Sense Motive +14, Stealth +18"
-skill-ranks: "Deception 10, Imitation 10, Perception 10, Performance 10, Persuasion 10, Sense Motive 10, Stealth 10"
+skills: "Deception +20, Imitation +24, Mysticism +16, Perception +14, Performance +16, Persuasion +16, Sense Motive +14, Stealth +18"
+skill-ranks: "Deception 10, Imitation 10, Mysticism 12, Perception 10, Performance 10, Persuasion 10, Sense Motive 10, Stealth 10"
 feats: "Combat Expertise, Dodge, Improved Critical (kukri), Improved Initiative, Weapon Finesse"
 environment: "Any"
 organization: "Solitary, pair, or cult (3–12)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (any humanoid, alter self), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/good and piercing, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25
   - **Saves**: Fort +9, Ref +12, Will +8
   - **Abilities**: Str 16, Dex 20, Con 22, Int 13, Wis 13, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Imitation|Imitation]] +24, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Performance|Performance]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +18
+  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Imitation|Imitation]] +24, [[rangoric-srd/skills/Mysticism|Mysticism]] +16, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Performance|Performance]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +18
   - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (kukri), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
   - **Environment**: Any
   - **Organization**: Solitary, pair, or cult (3–12)

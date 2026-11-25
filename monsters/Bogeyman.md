@@ -17,8 +17,8 @@ special-attacks: "Sneak attack +6d6, striking fear, spell-like abilities"
 special-qualities: "Low-light vision, terrible rejuvenation 5, deepest fear (30 ft., DC 25), damage reduction 15/cold iron, spell resistance 21"
 saves: "Fort +9, Ref +15, Will +13"
 abilities: "Str 12, Dex 21, Con 14, Int 15, Wis 16, Cha 25"
-skills: "Arcana +12, Deception +27, Engineering +15, Escape Artist +18, Intimidation +28, Perception +23, Persuasion +20, Sense Motive +23, Society +16, Stealth +35"
-skill-ranks: "Arcana 7, Deception 17, Engineering 7, Escape Artist 10, Intimidation 14, Perception 17, Persuasion 10, Sense Motive 17, Society 11, Stealth 23"
+skills: "Deception +27, Engineering +15, Escape Artist +18, Intimidation +28, Mysticism +12, Perception +23, Persuasion +20, Sense Motive +23, Society +16, Stealth +35"
+skill-ranks: "Deception 17, Engineering 7, Escape Artist 10, Intimidation 14, Mysticism 7, Perception 17, Persuasion 10, Sense Motive 17, Society 11, Stealth 23"
 feats: "Dodge, Great Fortitude, Improved Critical (claw), Improved Initiative, Mobility, Quicken Spell-Like Ability (phantasmal killer), Skill Focus (Stealth), Spring Attack, Weapon Finesse"
 environment: "Any"
 organization: "Solitary"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Terrible Rejuvenation|terrible rejuvenation]] 5, [[rangoric-srd/monsters/abilities/Deepest Fear|deepest fear]] (30 ft., DC 25), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
   - **Saves**: Fort +9, Ref +15, Will +13
   - **Abilities**: Str 12, Dex 21, Con 14, Int 15, Wis 16, Cha 25
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Deception|Deception]] +27, [[rangoric-srd/skills/Engineering|Engineering]] +15, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +18, [[rangoric-srd/skills/Intimidation|Intimidation]] +28, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Persuasion|Persuasion]] +20, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Society|Society]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +35
+  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +27, [[rangoric-srd/skills/Engineering|Engineering]] +15, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +18, [[rangoric-srd/skills/Intimidation|Intimidation]] +28, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Persuasion|Persuasion]] +20, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Society|Society]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +35
   - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (phantasmal killer), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
   - **Environment**: Any
   - **Organization**: Solitary

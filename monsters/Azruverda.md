@@ -17,8 +17,8 @@ special-attacks: "Acid spit, rend (1d10+11), spell-like abilities"
 special-qualities: "Darkvision 60 ft., tremorsense 100 ft., vermin master, damage reduction 10/magic and slashing, immunity to acid, resistance to cold 10"
 saves: "Fort +11, Ref +7, Will +15"
 abilities: "Str 32, Dex 15, Con 23, Int 14, Wis 16, Cha 25"
-skills: "Animal Handling +17, Arcana +15, Athletics +26, Dungeoneering +12, Fieldcraft +16, Intimidation +26, Nature +12, Perception +22, Sense Motive +13"
-skill-ranks: "Animal Handling 7, Arcana 10, Athletics 12, Dungeoneering 7, Fieldcraft 10, Intimidation 16, Nature 7, Perception 16, Sense Motive 7"
+skills: "Animal Handling +17, Athletics +26, Dungeoneering +12, Fieldcraft +16, Intimidation +26, Mysticism +15, Nature +12, Perception +22, Sense Motive +13"
+skill-ranks: "Animal Handling 7, Athletics 12, Dungeoneering 7, Fieldcraft 10, Intimidation 16, Mysticism 10, Nature 7, Perception 16, Sense Motive 7"
 feats: "Awesome Blow, Combat Reflexes, Greater Bull Rush, Improved Bull Rush, Iron Will, Point Blank Shot, Power Attack, Weapon Focus (acid spit)"
 environment: "Underground"
 organization: "Solitary, pair, or brood (3–7)"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 100 ft., [[rangoric-srd/monsters/abilities/Vermin Master|vermin master]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic and slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10
   - **Saves**: Fort +11, Ref +7, Will +15
   - **Abilities**: Str 32, Dex 15, Con 23, Int 14, Wis 16, Cha 25
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +17, [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +26, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +26, [[rangoric-srd/skills/Nature|Nature]] +12, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13
+  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +17, [[rangoric-srd/skills/Athletics|Athletics]] +26, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +26, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Nature|Nature]] +12, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13
   - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (acid spit)
   - **Environment**: Underground
   - **Organization**: Solitary, pair, or brood (3–7)

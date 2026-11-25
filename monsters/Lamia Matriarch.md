@@ -18,8 +18,8 @@ special-attacks: "Wisdom drain, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, change shape (fixed Medium humanoid form, alter self), undersized weapons, immunity to mind-affecting effects, spell resistance 19"
 saves: "Fort +7, Ref +12, Will +11"
 abilities: "Str 20, Dex 19, Con 17, Int 16, Wis 16, Cha 21"
-skills: "Acrobatics +8, Arcana +15, Athletics +13 (+17 jumping), Deception +21, Emulation +21, Imitation +11, Intimidation +20, Knowledge +15, Persuasion +11"
-skill-ranks: "Acrobatics 0, Arcana 9, Athletics 5, Deception 9, Emulation 9, Imitation 3, Intimidation 12, Knowledge 9, Persuasion 3"
+skills: "Acrobatics +8, Arcana +15, Athletics +13 (+17 jumping), Deception +21, Emulation +21, Imitation +11, Intimidation +20, Knowledge +15, Mysticism +15, Persuasion +11"
+skill-ranks: "Acrobatics 0, Arcana 9, Athletics 5, Deception 9, Emulation 9, Imitation 3, Intimidation 12, Knowledge 9, Mysticism 9, Persuasion 3"
 feats: "Double Slice, Extend Spell, Improved Critical (scimitar), Improved Two-Weapon Fighting, Two-Weapon Fighting, Weapon Focus (scimitar)"
 environment: "Any land"
 organization: "Solitary, pair, or cult (3–6)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (fixed Medium humanoid form, alter self), [[rangoric-srd/monsters/abilities/Undersized Weapons|undersized weapons]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
   - **Saves**: Fort +7, Ref +12, Will +11
   - **Abilities**: Str 20, Dex 19, Con 17, Int 16, Wis 16, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +13 (+17 jumping), [[rangoric-srd/skills/Deception|Deception]] +21, [[rangoric-srd/skills/Emulation|Emulation]] +21, [[rangoric-srd/skills/Imitation|Imitation]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Knowledge|Knowledge]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +11
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +13 (+17 jumping), [[rangoric-srd/skills/Deception|Deception]] +21, [[rangoric-srd/skills/Emulation|Emulation]] +21, [[rangoric-srd/skills/Imitation|Imitation]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Knowledge|Knowledge]] +15, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +11
   - **Feats**: [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Extend Spell|Extend Spell]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (scimitar), [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (scimitar)
   - **Environment**: Any land
   - **Organization**: Solitary, pair, or cult (3–6)

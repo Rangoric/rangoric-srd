@@ -22,8 +22,8 @@ special-attacks: "Spell-like abilities, stasis touch, chronal blast, time leach,
 special-qualities: "Abomination traits, null time field, time regression, fast healing 15, regeneration 15, SR 37, DR 15/epic, sonic immunity"
 saves: "Fort +31, Ref +29, Will +29"
 abilities: "Str -, Dex 25, Con 28, Int 24, Wis 16, Cha 33"
-skills: "Acrobatics +46, Athletics +39 (+59 jumping), Arcana +46, Theology +46, Perception +48, Persuasion +50, Investigation +46, Sense Motive +42, Stealth +42"
-skill-ranks: "Acrobatics 36, Arcana 36, Athletics 36, Investigation 36, Perception 36, Persuasion 36, Sense Motive 36, Stealth 36, Theology 36"
+skills: "Acrobatics +46, Athletics +39 (+59 jumping), Arcana +46, Mysticism +46, Theology +46, Perception +48, Persuasion +50, Investigation +46, Sense Motive +42, Stealth +42"
+skill-ranks: "Acrobatics 36, Arcana 36, Athletics 36, Investigation 36, Mysticism 36, Perception 36, Persuasion 36, Sense Motive 36, Stealth 36, Theology 36"
 feats: "Combat Reflexes, Dodge, Great Fortitude, Improved Initiative, Iron Will, Lightning Reflexes, Skill Focus (Perception), Weapon Focus (incorporeal touch)"
 epic-feats: "Blinding Speed, Epic Toughness (x2), Epic Will, Spell Stowaway (time stop)"
 environment: "Any land and underground"
@@ -56,7 +56,7 @@ Special Attacks: Spell-like abilities, stasis touch, chronal blast, time leach, 
 Special Qualities: Abomination traits, null time field, time regression, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 15, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 15, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 37, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/epic, sonic immunity      
 Saves: Fort +31, Ref +29, Will +29      
 Abilities: Str -, Dex 25, Con 28, Int 24, Wis 16, Cha 33      
-Skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +46, [[rangoric-srd/skills/Arcana|Arcana]] +46, [[rangoric-srd/skills/Athletics|Athletics]] +39 (+59 jumping), [[rangoric-srd/skills/Investigation|Investigation]] +46, [[rangoric-srd/skills/Perception|Perception]] +48, [[rangoric-srd/skills/Persuasion|Persuasion]] +50, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +42, [[rangoric-srd/skills/Stealth|Stealth]] +42, [[rangoric-srd/skills/Theology|Theology]] +46     
+Skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +46, [[rangoric-srd/skills/Arcana|Arcana]] +46, [[rangoric-srd/skills/Athletics|Athletics]] +39 (+59 jumping), [[rangoric-srd/skills/Investigation|Investigation]] +46, [[rangoric-srd/skills/Mysticism|Mysticism]] +46, [[rangoric-srd/skills/Perception|Perception]] +48, [[rangoric-srd/skills/Persuasion|Persuasion]] +50, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +42, [[rangoric-srd/skills/Stealth|Stealth]] +42, [[rangoric-srd/skills/Theology|Theology]] +46     
 **Unspent Skill Points**: 216
 Feats: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (incorporeal touch)      
 Epic Feats: [[rangoric-srd/feats/Blinding Speed|Blinding Speed]], [[rangoric-srd/feats/Epic Toughness|Epic Toughness]] (x2), [[rangoric-srd/feats/Epic Will|Epic Will]], [[rangoric-srd/feats/Spell Stowaway|Spell Stowaway]] (time stop)     

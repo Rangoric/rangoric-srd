@@ -18,8 +18,8 @@ special-attacks: "Dispel hostility, undo artifice, wild shape 5/day"
 special-qualities: "Ancient ways, hold breath, nature bond (Protection domain), nature sense, patience of nature, immunity to poison, protective ward (+12, 1/day)"
 saves: "Fort +15, Ref +7, Will +16 (+4 vs. enchantments)"
 abilities: "Str 10, Dex 11, Con 12, Int 12, Wis 20, Cha 15"
-skills: "Acrobatics +2, Animal Handling +11, Arcana +11, Athletics +15, Fieldcraft +16, Linguistics +2, Medicine +14, Nature +13, Perception +24, Perform (oratory) +15, Persuasion +23, Sense Motive +23"
-skill-ranks: "Acrobatics 0, Animal Handling 6, Arcana 7, Athletics 12, Fieldcraft 8, Linguistics 1, Medicine 6, Nature 9, Perception 14, Perform (oratory) 11, Persuasion 18, Sense Motive 19"
+skills: "Acrobatics +2, Animal Handling +11, Athletics +15, Fieldcraft +16, Linguistics +2, Medicine +14, Mysticism +11, Nature +13, Perception +24, Perform (oratory) +15, Persuasion +23, Sense Motive +23"
+skill-ranks: "Acrobatics 0, Animal Handling 6, Athletics 12, Fieldcraft 8, Linguistics 1, Medicine 6, Mysticism 7, Nature 9, Perception 14, Perform (oratory) 11, Persuasion 18, Sense Motive 19"
 feats: "Brew Potion, Improved Initiative, Natural Spell, Skill Focus (Persuasion, Perception), Toughness, Wild Speech"
 environment: "Temperate swamps"
 organization: "Solitary, or with other lizardfolk (see Lizardfolk)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/class-options/archetypes/druid/Ancient Guardian (Archetype)|Ancient ways]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]] ([[rangoric-srd/class-options/domains/Protection Domain|Protection domain]]), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/class-options/archetypes/druid/Ancient Guardian (Archetype)|patience of nature]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison, [[rangoric-srd/class-options/domains/Protection Domain|protective ward]] (+12, 1/day)
   - **Saves**: Fort +15, Ref +7, Will +16 (+4 vs. enchantments)
   - **Abilities**: Str 10, Dex 11, Con 12, Int 12, Wis 20, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16, [[rangoric-srd/skills/Linguistics|Linguistics]] +2, [[rangoric-srd/skills/Medicine|Medicine]] +14, [[rangoric-srd/skills/Nature|Nature]] +13, [[rangoric-srd/skills/Perception|Perception]] +24, Perform (oratory) +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +23, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16, [[rangoric-srd/skills/Linguistics|Linguistics]] +2, [[rangoric-srd/skills/Medicine|Medicine]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Nature|Nature]] +13, [[rangoric-srd/skills/Perception|Perception]] +24, Perform (oratory) +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +23, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23
   - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Natural Spell|Natural Spell]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion, Perception), [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Wild Speech|Wild Speech]]
   - **Environment**: Temperate swamps
   - **Organization**: Solitary, or with other lizardfolk (see [[rangoric-srd/monsters/lizardfolk/Lizardfolk|Lizardfolk]])

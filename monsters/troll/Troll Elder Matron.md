@@ -18,8 +18,8 @@ special-attacks: "Hexes (agony [10 rounds], cackle, evil eye [-4, 6 rounds], mis
 special-qualities: "Darkvision 60 ft., low-light vision, scent, regeneration 5 (acid or fire), witch's familiar (bat)"
 saves: "Fort +17, Ref +8, Will +12"
 abilities: "Str 19, Dex 14, Con 27, Int 16, Wis 11, Cha 8"
-skills: "Arcana +14, Athletics +9, Deception +7, Fieldcraft +8, Intimidation +14, Nature +11, Perception +16, Sense Motive +8, Stealth +8"
-skill-ranks: "Arcana 8, Athletics 2, Deception 5, Fieldcraft 5, Intimidation 12, Nature 5, Perception 13, Sense Motive 5, Stealth 7"
+skills: "Arcana +14, Athletics +9, Deception +7, Fieldcraft +8, Intimidation +14, Mysticism +11, Nature +11, Perception +16, Sense Motive +8, Stealth +8"
+skill-ranks: "Arcana 8, Athletics 2, Deception 5, Fieldcraft 5, Intimidation 12, Mysticism 5, Nature 5, Perception 13, Sense Motive 5, Stealth 7"
 feats: "Combat Casting, Craft Wondrous Item, Elemental Focus (fire), Greater Elemental Focus (fire), Improved Initiative, Improved Iron Will, Iron Will, Split Hex"
 environment: "Cold mountains"
 organization: "Solitary, or with other trolls (see Troll)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or fire), [[rangoric-srd/classes/Witch#^witch-familiar|witch's familiar]] (bat)
   - **Saves**: Fort +17, Ref +8, Will +12
   - **Abilities**: Str 19, Dex 14, Con 27, Int 16, Wis 11, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +8
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +8
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Elemental Focus|Elemental Focus]] (fire), [[rangoric-srd/feats/Greater Elemental Focus|Greater Elemental Focus]] (fire), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Split Hex|Split Hex]]
   - **Environment**: Cold mountains
   - **Organization**: Solitary, or with other trolls (see [[rangoric-srd/monsters/troll/Troll|Troll]])

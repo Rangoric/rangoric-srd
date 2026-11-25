@@ -20,8 +20,8 @@ special-attacks: "Psi-like abilities, steal essence"
 special-qualities: "Incorporeal traits, Undead traits, unnatural aura, vulnerability to sunlight"
 saves: "Fort +3, Ref +6, Will +9"
 abilities: "Str -, Dex 16, Con -, Int 14, Wis 14, Cha 15"
-skills: "Intimidation +16, Psionics +16, Perception +16, Investigation +16, Sense Motive +16, Stealth +13"
-skill-ranks: "Intimidation 11, Investigation 11, Perception 11, Psionics 11, Sense Motive 11, Stealth 11"
+skills: "Intimidation +16, Mysticism +16, Psionics +16, Perception +16, Investigation +16, Sense Motive +16, Stealth +13"
+skill-ranks: "Intimidation 11, Investigation 11, Mysticism 11, Perception 11, Psionics 11, Sense Motive 11, Stealth 11"
 feats: "Blind-Fight, Combat Reflexes, Improved Initiative, Weapon Finesse"
 environment: "Underground"
 organization: "Solitary"
@@ -53,7 +53,7 @@ Full **Attack:** 4 incorporeal touches +7 melee (2d6)   
 **Special Qualities:** [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|Incorporeal traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead traits]], unnatural aura, vulnerability to sunlight     
 **Saves:** Fort +3, Ref +6, Will +9     
 **Abilities:** Str -, Dex 16, Con -, Int 14, Wis 14, Cha 15     
-**Skills:** [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Investigation|Investigation]] +16, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Psionics (Skill)|Psionics]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +13     
+**Skills:** [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Investigation|Investigation]] +16, [[rangoric-srd/skills/Mysticism|Mysticism]] +16, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Psionics (Skill)|Psionics]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +13     
 **Feats:** [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]  
 **Environment:** Underground     
 **Organization:** Solitary     

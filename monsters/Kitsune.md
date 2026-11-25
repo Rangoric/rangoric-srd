@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Low-light vision, bloodline arcana (+2 DC for compulsion spells), change shape, kitsune magic"
 saves: "Fort –1, Ref +2, Will +4"
 abilities: "Str 8, Dex 15, Con 8, Int 12, Wis 14, Cha 17"
-skills: "Acrobatics +4, Arcana +5, Deception +7, Perception +3, Stealth +3"
-skill-ranks: "Acrobatics 0, Arcana 1, Deception 1, Perception 1, Stealth 1"
+skills: "Acrobatics +4, Deception +7, Mysticism +5, Perception +3, Stealth +3"
+skill-ranks: "Acrobatics 0, Deception 1, Mysticism 1, Perception 1, Stealth 1"
 feats: "Dodge, Eschew Materials"
 environment: "Temperate forests, hills, or mountains"
 organization: "Solitary, pair, or gang (3–8)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], bloodline arcana (+2 DC for compulsion spells), [[rangoric-srd/monsters/abilities/Change Shape|change shape]], kitsune magic
   - **Saves**: Fort –1, Ref +2, Will +4
   - **Abilities**: Str 8, Dex 15, Con 8, Int 12, Wis 14, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Arcana|Arcana]] +5, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +3
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +5, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +3
   - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]]
   - **Environment**: Temperate forests, hills, or mountains
   - **Organization**: Solitary, pair, or gang (3–8)

@@ -18,8 +18,8 @@ special-attacks: "Fire bolt (1d6+3 fire, 6/day), rage (7 rounds/day), rage power
 special-qualities: "Darkvision 90 ft., stench (30 ft., DC 14, 10 rounds), uncanny dodge, fast movement, lightfoot, nature bond (Fire domain), nature sense, tunnelrunner, wild empathy +7 (influence oozes, not magical beasts), resistance to fire 10"
 saves: "Fort +14, Ref +4, Will +10 (+2 vs. abilities of aberrations and oozes)"
 abilities: "Str 24, Dex 11, Con 17, Int 10, Wis 16, Cha 13"
-skills: "Arcana +9, Dungeoneering +2, Fieldcraft +5, Intimidation +10, Perception +12, Persuasion +7, Sense Motive +9, Stealth +3, Theology +6"
-skill-ranks: "Arcana 6, Dungeoneering 2, Fieldcraft 2, Intimidation 6, Perception 6, Persuasion 3, Sense Motive 3, Stealth 3, Theology 3"
+skills: "Dungeoneering +2, Fieldcraft +5, Intimidation +10, Mysticism +9, Perception +12, Persuasion +7, Sense Motive +9, Stealth +3, Theology +6"
+skill-ranks: "Dungeoneering 2, Fieldcraft 2, Intimidation 6, Mysticism 6, Perception 6, Persuasion 3, Sense Motive 3, Stealth 3, Theology 3"
 feats: "Combat Casting, Improved Initiative, Lightning Reflexes, Power Attack, Toughness"
 environment: "Any underground"
 organization: "Solitary, or with other troglodytes (see Troglodyte)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft., [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., DC 14, 10 rounds), [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/class-options/archetypes/druid/Cave Druid (Archetype)|lightfoot]], [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]] ([[rangoric-srd/class-options/domains/Fire Domain|Fire domain]]), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/class-options/archetypes/druid/Cave Druid (Archetype)|tunnelrunner]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +7 (influence oozes, not magical beasts), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
   - **Saves**: Fort +14, Ref +4, Will +10 (+2 vs. abilities of aberrations and oozes)
   - **Abilities**: Str 24, Dex 11, Con 17, Int 10, Wis 16, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +2, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +3, [[rangoric-srd/skills/Theology|Theology]] +6
+  - **Skills**: [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +2, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +9, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +3, [[rangoric-srd/skills/Theology|Theology]] +6
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]]
   - **Environment**: Any underground
   - **Organization**: Solitary, or with other troglodytes (see [[rangoric-srd/monsters/troglodyte/Troglodyte|Troglodyte]])

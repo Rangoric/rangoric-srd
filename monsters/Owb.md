@@ -18,8 +18,8 @@ special-attacks: "Burning cold, curse of darkness, spell-like abilities"
 special-qualities: "Darkvision 60 ft., see in darkness, fast healing 2, telepathy 100 ft., immunity to cold, light sensitivity"
 saves: "Fort +10, Ref +8, Will +8"
 abilities: "Str 18, Dex 22, Con 19, Int 11, Wis 15, Cha 16"
-skills: "Acrobatics +18, Arcana +7, Deception +12, Perception +13, Persuasion +11, Sense Motive +13, Stealth +17, Theology +11"
-skill-ranks: "Acrobatics 9, Arcana 4, Deception 6, Perception 8, Persuasion 5, Sense Motive 8, Stealth 8, Theology 8"
+skills: "Acrobatics +18, Deception +12, Mysticism +7, Perception +13, Persuasion +11, Sense Motive +13, Stealth +17, Theology +11"
+skill-ranks: "Acrobatics 9, Deception 6, Mysticism 4, Perception 8, Persuasion 5, Sense Motive 8, Stealth 8, Theology 8"
 feats: "Dodge, Flyby Attack, Improved Initiative, Point Blank Shot"
 environment: "Any land or underground (Plane of Shadow)"
 organization: "Solitary or cabal (2–4)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
   - **Saves**: Fort +10, Ref +8, Will +8
   - **Abilities**: Str 18, Dex 22, Con 19, Int 11, Wis 15, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +11
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +11
   - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]]
   - **Environment**: Any land or underground (Plane of Shadow)
   - **Organization**: Solitary or cabal (2–4)

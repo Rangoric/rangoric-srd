@@ -18,8 +18,8 @@ special-attacks: "Bardic performance 12 rounds/day (countersong, distraction, in
 special-qualities: "Darkvision 60 ft., ferocity, bardic knowledge +2, versatile performance (percussion), weapon familiarity, light sensitivity"
 saves: "Fort +1, Ref +6, Will +4 (+4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 17, Dex 12, Con 8, Int 12, Wis 8, Cha 14"
-skills: "Arcana +10, Deception +9, Intimidation +9, Perception +6, Perform (percussion) +11, Sense Motive +6"
-skill-ranks: "Arcana 6, Deception 4, Intimidation 4, Perception 4, Perform (percussion) 7, Sense Motive 4"
+skills: "Arcana +10, Deception +9, Intimidation +9, Mysticism +8, Perception +6, Perform (percussion) +11, Sense Motive +6"
+skill-ranks: "Arcana 6, Deception 4, Intimidation 4, Mysticism 4, Perception 4, Perform (percussion) 7, Sense Motive 4"
 feats: "Spell Focus (enchantment), Toughness"
 environment: "Temperate hills, mountains, or underground"
 organization: "Solitary, or with other orcs (see Orc)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/classes/Bard#^bardic-knowledge|bardic knowledge]] +2, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (percussion), [[rangoric-srd/races/Orc|weapon familiarity]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
   - **Saves**: Fort +1, Ref +6, Will +4 (+4 vs. bardic performance, language-dependent, and sonic)
   - **Abilities**: Str 17, Dex 12, Con 8, Int 12, Wis 8, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +6, Perform (percussion) +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +6, Perform (percussion) +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6
   - **Feats**: [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment), [[rangoric-srd/feats/Toughness|Toughness]]
   - **Environment**: Temperate hills, mountains, or underground
   - **Organization**: Solitary, or with other orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])

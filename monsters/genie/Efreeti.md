@@ -18,8 +18,8 @@ special-attacks: "Change size, heat, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect magic, telepathy 100 ft., change shape (humanoid or giant, alter self or giant form I), immunity to fire, vulnerability to cold"
 saves: "Fort +7, Ref +10, Will +9"
 abilities: "Str 23, Dex 17, Con 18, Int 12, Wis 14, Cha 15"
-skills: "Acrobatics +13, Arcana +14, Craft (any one) +14, Deception +21, Imitation +8, Intimidation +15, Perception +15, Sense Motive +15, Stealth +8"
-skill-ranks: "Acrobatics 9, Arcana 10, Craft (any one) 10, Deception 14, Imitation 5, Intimidation 10, Perception 10, Sense Motive 10, Stealth 6"
+skills: "Acrobatics +13, Craft (any one) +14, Deception +21, Imitation +8, Intimidation +15, Mysticism +14, Perception +15, Sense Motive +15, Stealth +8"
+skill-ranks: "Acrobatics 9, Craft (any one) 10, Deception 14, Imitation 5, Intimidation 10, Mysticism 10, Perception 10, Sense Motive 10, Stealth 6"
 feats: "Combat Casting, Combat Reflexes, Dodge, Improved Initiative, Quicken Spell-Like Ability (scorching ray), Skill Focus (Deception)"
 environment: "Any (Elemental Plane of Fire)"
 organization: "Solitary, pair, company (3–6), or band (7–12)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (humanoid or giant, alter self or giant form I), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
   - **Saves**: Fort +7, Ref +10, Will +9
   - **Abilities**: Str 23, Dex 17, Con 18, Int 12, Wis 14, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Craft|Craft]] (any one) +14, [[rangoric-srd/skills/Deception|Deception]] +21, [[rangoric-srd/skills/Imitation|Imitation]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +8
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Craft|Craft]] (any one) +14, [[rangoric-srd/skills/Deception|Deception]] +21, [[rangoric-srd/skills/Imitation|Imitation]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Mysticism|Mysticism]] +14, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +8
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (scorching ray), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
   - **Environment**: Any (Elemental Plane of Fire)
   - **Organization**: Solitary, pair, company (3–6), or band (7–12)

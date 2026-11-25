@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision, oracle's curse (lame), revelations (battlefield clarity 2/day, combat healer 2/day, iron skin 1/day, skill at arms, surprising charge 2/day, weapon mastery), damage reduction 10/adamantine (120 hit points), immunity to fatigue"
 saves: "Fort +14, Ref +8, Will +11"
 abilities: "Str 23, Dex 10, Con 21, Int 6, Wis 8, Cha 16"
-skills: "Arcana +4, Intimidation +16, Perception +17"
-skill-ranks: "Arcana 3, Intimidation 10, Perception 15"
+skills: "Intimidation +16, Mysticism +4, Perception +17"
+skill-ranks: "Intimidation 10, Mysticism 3, Perception 15"
 feats: "Critical Focus, Extra Revelation (Combat Healer), Extra Revelation (Iron Skin), Greater Weapon Focus (falchion), Improved Critical (falchion), Improved Initiative, Iron Will, Lightning Reflexes, Quicken Spell, Toughness, Weapon Focus (falchion)"
 environment: "Temperate or cold hills"
 organization: "Solitary, or with other ogres (see Ogre)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/classes/Oracle#^oracle-curse|oracle’s curse]] ([[rangoric-srd/class-options/curses/Lame Curse|lame]]), [[rangoric-srd/classes/Oracle#^oracle-revelation|revelations]] ([[rangoric-srd/class-options/revelations/Battlefield Clarity (Revelation)|battlefield clarity]] 2/day, [[rangoric-srd/class-options/revelations/Combat Healer (Revelation)|combat healer]] 2/day, [[rangoric-srd/class-options/revelations/Iron Skin (Revelation)|iron skin]] 1/day, [[rangoric-srd/class-options/revelations/Skill at Arms (Revelation)|skill at arms]], [[rangoric-srd/class-options/revelations/Surprising Charge (Revelation)|surprising charge]] 2/day, [[rangoric-srd/class-options/revelations/Weapon Mastery (Revelation)|weapon mastery]]), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine (120 hit points), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fatigue
   - **Saves**: Fort +14, Ref +8, Will +11
   - **Abilities**: Str 23, Dex 10, Con 21, Int 6, Wis 8, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +17
+  - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Mysticism|Mysticism]] +4, [[rangoric-srd/skills/Perception|Perception]] +17
   - **Feats**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Extra Revelation|Extra Revelation]] (Combat Healer), [[rangoric-srd/feats/Extra Revelation|Extra Revelation]] (Iron Skin), [[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]] (falchion), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (falchion), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Quicken Spell|Quicken Spell]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (falchion)
   - **Environment**: Temperate or cold hills
   - **Organization**: Solitary, or with other ogres (see [[rangoric-srd/monsters/ogre/Ogre|Ogre]])

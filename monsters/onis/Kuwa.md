@@ -18,8 +18,8 @@ special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, regeneration 5 (acid or fire), change shape (any human; alter self), spell resistance 15"
 saves: "Fort +7, Ref +4, Will +6"
 abilities: "Str 18, Dex 17, Con 16, Int 12, Wis 15, Cha 17"
-skills: "Arcana +8, Deception +11, Emulation +11, Imitation +7, Intimidation +11, Perception +10, Sense Motive +10, Stealth +4"
-skill-ranks: "Arcana 4, Deception 5, Emulation 5, Imitation 1, Intimidation 5, Perception 5, Sense Motive 5, Stealth 1"
+skills: "Arcana +8, Deception +11, Emulation +11, Imitation +7, Intimidation +11, Mysticism +5, Perception +10, Sense Motive +10, Stealth +4"
+skill-ranks: "Arcana 4, Deception 5, Emulation 5, Imitation 1, Intimidation 5, Mysticism 1, Perception 5, Sense Motive 5, Stealth 1"
 feats: "Cleave, Combat Reflexes, Power Attack"
 environment: "Any"
 organization: "Solitary or gang (1 plus 3–10 humans of 1st–3rd level)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or fire), [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (any human; alter self), [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 15
   - **Saves**: Fort +7, Ref +4, Will +6
   - **Abilities**: Str 18, Dex 17, Con 16, Int 12, Wis 15, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Emulation|Emulation]] +11, [[rangoric-srd/skills/Imitation|Imitation]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +4
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Emulation|Emulation]] +11, [[rangoric-srd/skills/Imitation|Imitation]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Mysticism|Mysticism]] +5, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +4
   - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]]
   - **Environment**: Any
   - **Organization**: Solitary or gang (1 plus 3–10 humans of 1st–3rd level)

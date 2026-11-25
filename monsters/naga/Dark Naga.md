@@ -17,8 +17,8 @@ special-attacks: "Poison"
 special-qualities: "Darkvision 60 ft., detect thoughts, guarded thoughts, immunity to poison"
 saves: "Fort +7, Ref +10, Will +9"
 abilities: "Str 14, Dex 21, Con 18, Int 16, Wis 15, Cha 17"
-skills: "Arcana +13, Deception +13, Escape Artist +11, Imitation +9, Intimidation +12, Perception +21, Persuasion +9, Sense Motive +8, Stealth +20"
-skill-ranks: "Arcana 7, Deception 7, Escape Artist 5, Imitation 3, Intimidation 6, Perception 14, Persuasion 3, Sense Motive 5, Stealth 14"
+skills: "Arcana +13, Deception +13, Escape Artist +11, Imitation +9, Intimidation +12, Mysticism +12, Perception +21, Persuasion +9, Sense Motive +8, Stealth +20"
+skill-ranks: "Arcana 7, Deception 7, Escape Artist 5, Imitation 3, Intimidation 6, Mysticism 6, Perception 14, Persuasion 3, Sense Motive 5, Stealth 14"
 feats: "Combat Casting, Dodge, Eschew Materials, Lightning Reflexes, Skill Focus (Perception, Stealth)"
 environment: "Any underground; temperate hills"
 organization: "Solitary or nest (2–4)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect thoughts, guarded thoughts, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison
   - **Saves**: Fort +7, Ref +10, Will +9
   - **Abilities**: Str 14, Dex 21, Con 18, Int 16, Wis 15, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +13, [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +11, [[rangoric-srd/skills/Imitation|Imitation]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +20
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +13, [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +11, [[rangoric-srd/skills/Imitation|Imitation]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +20
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Stealth)
   - **Environment**: Any underground; temperate hills
   - **Organization**: Solitary or nest (2–4)

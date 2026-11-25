@@ -18,8 +18,8 @@ special-attacks: "Starlight blast, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect evil, detect magic, low-light vision, traveler's friend, damage reduction 5/evil, immunity to electricity and petrification, resistance to cold 10 and fire 10"
 saves: "Fort +2, Ref +7, Will +6"
 abilities: "Str 5, Dex 19, Con 12, Int 14, Wis 17, Cha 20"
-skills: "Acrobatics +16, Arcana +5, Deception +11, Knowledge +8, Perception +9, Performance (any one) +11, Persuasion +11, Stealth +18"
-skill-ranks: "Acrobatics 5, Arcana 3, Deception 3, Knowledge 3, Perception 3, Performance (any one) 6, Persuasion 3, Stealth 3"
+skills: "Acrobatics +16, Deception +11, Knowledge +8, Mysticism +5, Perception +9, Performance (any one) +11, Persuasion +11, Stealth +18"
+skill-ranks: "Acrobatics 5, Deception 3, Knowledge 3, Mysticism 3, Perception 3, Performance (any one) 6, Persuasion 3, Stealth 3"
 feats: "Agile Maneuvers, Improved Initiative"
 environment: "Any (a chaotic good-aligned plane: Elysium)"
 organization: "Solitary, band (2–5), or company (6–24)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect evil, detect magic, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Traveler's Friend|traveler's friend]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10
   - **Saves**: Fort +2, Ref +7, Will +6
   - **Abilities**: Str 5, Dex 19, Con 12, Int 14, Wis 17, Cha 20
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Arcana|Arcana]] +5, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Knowledge|Knowledge]] +8, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Performance|Performance]] (any one) +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +18
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Knowledge|Knowledge]] +8, [[rangoric-srd/skills/Mysticism|Mysticism]] +5, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Performance|Performance]] (any one) +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +18
   - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
   - **Environment**: Any (a chaotic good-aligned plane: [[rangoric-srd/rules/planes/Elysium|Elysium]])
   - **Organization**: Solitary, band (2–5), or company (6–24)

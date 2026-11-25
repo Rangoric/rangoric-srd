@@ -18,8 +18,8 @@ special-attacks: "Devour soul, energy drain (1 level, DC 20), spell-like abiliti
 special-qualities: "Darkvision 60 ft., telepathy 100 ft., spell deflection, undead traits, spell resistance 22"
 saves: "Fort +9, Ref +7, Will +12"
 abilities: "Str 28, Dex 16, Con —, Int 19, Wis 16, Cha 21"
-skills: "Acrobatics +19, Arcana +21, Deception +19, Intimidation +19, Perception +20, Persuasion +14, Sense Motive +17, Stealth +6, Theology +18"
-skill-ranks: "Acrobatics 15, Arcana 14, Deception 11, Intimidation 11, Perception 14, Persuasion 6, Sense Motive 11, Stealth 4, Theology 11"
+skills: "Acrobatics +19, Arcana +21, Deception +19, Intimidation +19, Mysticism +21, Perception +20, Persuasion +14, Sense Motive +17, Stealth +6, Theology +18"
+skill-ranks: "Acrobatics 15, Arcana 14, Deception 11, Intimidation 11, Mysticism 14, Perception 14, Persuasion 6, Sense Motive 11, Stealth 4, Theology 11"
 feats: "Blind-Fight, Cleave, Combat Casting, Combat Expertise, Improved Initiative, Improved Sunder, Power Attack"
 environment: "Any"
 organization: "Solitary"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., spell deflection, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 22
   - **Saves**: Fort +9, Ref +7, Will +12
   - **Abilities**: Str 28, Dex 16, Con —, Int 19, Wis 16, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Arcana|Arcana]] +21, [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +6, [[rangoric-srd/skills/Theology|Theology]] +18
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Arcana|Arcana]] +21, [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Mysticism|Mysticism]] +21, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +6, [[rangoric-srd/skills/Theology|Theology]] +18
   - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Power Attack|Power Attack]]
   - **Environment**: Any
   - **Organization**: Solitary

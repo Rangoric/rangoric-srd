@@ -18,8 +18,8 @@ special-attacks: "Bleed (2d6), chained daggers, trap making, spell-like abilitie
 special-qualities: "Darkvision 60 ft., deathwatch, detect good, true seeing, telepathy 100 ft., damage reduction 10/good and silver, immunity to acid, bleed, death effects, disease and poison, resistance to cold 10, electricity 10 and fire 10, spell resistance 26"
 saves: "Fort +17, Ref +12, Will +13"
 abilities: "Str 28, Dex 21, Con 24, Int 16, Wis 17, Cha 29"
-skills: "Arcana +18, Craft (traps) +31, Deception +29, Emulation +19, Engineering +25, Escape Artist +5, Intimidation +29, Perception +23, Sense Motive +16, Stealth +31"
-skill-ranks: "Arcana 12, Craft (traps) 25, Deception 17, Emulation 7, Engineering 17, Escape Artist 2, Intimidation 17, Perception 17, Sense Motive 10, Stealth 21"
+skills: "Arcana +11, Craft (traps) +31, Deception +29, Emulation +19, Engineering +25, Escape Artist +5, Intimidation +29, Mysticism +18, Perception +23, Sense Motive +16, Stealth +31"
+skill-ranks: "Arcana 5, Craft (traps) 25, Deception 17, Emulation 7, Engineering 17, Escape Artist 2, Intimidation 17, Mysticism 12, Perception 17, Sense Motive 10, Stealth 21"
 feats: "Dodge, Improved Critical (daggers), Improved Initiative, Lightning Reflexes, Mobility, Spring Attack, Step Up, Weapon Focus (daggers), Skill Focus (Stealth)"
 environment: "Any (a neutral evil-aligned plane: Abaddon)"
 organization: "Solitary, pair, or inquisition (3–6)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., deathwatch, detect good, true seeing, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good and silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, bleed, death effects, disease and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 26
   - **Saves**: Fort +17, Ref +12, Will +13
   - **Abilities**: Str 28, Dex 21, Con 24, Int 16, Wis 17, Cha 29
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +18, [[rangoric-srd/skills/Craft|Craft]] (traps) +31, [[rangoric-srd/skills/Deception|Deception]] +29, [[rangoric-srd/skills/Emulation|Emulation]] +19, [[rangoric-srd/skills/Engineering|Engineering]] +25, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +29, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +31
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Craft|Craft]] (traps) +31, [[rangoric-srd/skills/Deception|Deception]] +29, [[rangoric-srd/skills/Emulation|Emulation]] +19, [[rangoric-srd/skills/Engineering|Engineering]] +25, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +29, [[rangoric-srd/skills/Mysticism|Mysticism]] +18, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +31
   - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (daggers), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (daggers), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
   - **Environment**: Any (a neutral evil-aligned plane: Abaddon)
   - **Organization**: Solitary, pair, or inquisition (3–6)

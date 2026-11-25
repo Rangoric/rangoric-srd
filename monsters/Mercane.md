@@ -18,8 +18,8 @@ special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., telepathy 100 ft., secret chest, spell resistance 20"
 saves: "Fort +8, Ref +4, Will +8"
 abilities: "Str 15, Dex 14, Con 16, Int 20, Wis 17, Cha 15"
-skills: "Appraise +14, Arcana +14, Deception +11, Intimidation +8, Perception +12, Persuasion +8, Profession (merchant) +9, Sense Motive +12, Sleight of Hand +11, Theology +14"
-skill-ranks: "Appraise 6, Arcana 6, Deception 6, Intimidation 3, Perception 6, Persuasion 3, Profession (merchant) 1, Sense Motive 6, Sleight of Hand 6, Theology 6"
+skills: "Appraise +14, Arcana +14, Deception +11, Intimidation +8, Mysticism +14, Perception +12, Persuasion +8, Profession (merchant) +9, Sense Motive +12, Sleight of Hand +11, Theology +14"
+skill-ranks: "Appraise 6, Arcana 6, Deception 6, Intimidation 3, Mysticism 6, Perception 6, Persuasion 3, Profession (merchant) 1, Sense Motive 6, Sleight of Hand 6, Theology 6"
 feats: "Combat Casting, Combat Expertise, Dodge"
 environment: "Any land or underground"
 organization: "Solitary, company (1–4 and 3–12 bodyguards of various races), or progression (1 mercane, 3 14th-level fighters, 1 21st-level fighter/2nd-level Union Sentinel)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., secret chest, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20
   - **Saves**: Fort +8, Ref +4, Will +8
   - **Abilities**: Str 15, Dex 14, Con 16, Int 20, Wis 17, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +14, [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Profession|Profession]] (merchant) +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +11, [[rangoric-srd/skills/Theology|Theology]] +14
+  - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +14, [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Mysticism|Mysticism]] +14, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Profession|Profession]] (merchant) +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +11, [[rangoric-srd/skills/Theology|Theology]] +14
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Dodge|Dodge]]
   - **Environment**: Any land or underground
   - **Organization**: Solitary, company (1–4 and 3–12 bodyguards of various races), or progression (1 mercane, 3 14th-level fighters, 1 21st-level fighter/2nd-level Union Sentinel)

@@ -18,8 +18,8 @@ special-attacks: "Rain of debris, spell-like abilities"
 special-qualities: "Darkvision 60 ft., see in darkness, telepathy 100 ft., deflect rays, damage reduction 10/cold iron and good, immunity to fire and poison, resistance to acid 10 and electricity 10, spell resistance 25"
 saves: "Fort +13, Ref +16, Will +15"
 abilities: "Str 25, Dex 20, Con 27, Int 19, Wis 19, Cha 22"
-skills: "Acrobatics +15, Arcana +22, Deception +24, Emulation +24, Intimidation +24, Perception +22, Sense Motive +20, Stealth +19, Theology +22"
-skill-ranks: "Acrobatics 9, Arcana 15, Deception 15, Emulation 15, Intimidation 15, Perception 15, Sense Motive 13, Stealth 15, Theology 15"
+skills: "Acrobatics +15, Arcana +19, Deception +24, Emulation +24, Intimidation +24, Mysticism +22, Perception +22, Sense Motive +20, Stealth +19, Theology +22"
+skill-ranks: "Acrobatics 9, Arcana 12, Deception 15, Emulation 15, Intimidation 15, Mysticism 15, Perception 15, Sense Motive 13, Stealth 15, Theology 15"
 feats: "Cleave, Combat Reflexes, Deflect Arrows, Improved Critical (falchion), Improved Initiative, Iron Will, Lightning Reflexes, Power Attack, Weapon Focus (falchion)"
 environment: "Any (a neutral evil-aligned plane: Abaddon)"
 organization: "Solitary"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Deflect Rays|deflect rays]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron and good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and electricity 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25
   - **Saves**: Fort +13, Ref +16, Will +15
   - **Abilities**: Str 25, Dex 20, Con 27, Int 19, Wis 19, Cha 22
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Arcana|Arcana]] +22, [[rangoric-srd/skills/Deception|Deception]] +24, [[rangoric-srd/skills/Emulation|Emulation]] +24, [[rangoric-srd/skills/Intimidation|Intimidation]] +24, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20, [[rangoric-srd/skills/Stealth|Stealth]] +19, [[rangoric-srd/skills/Theology|Theology]] +22
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Arcana|Arcana]] +19, [[rangoric-srd/skills/Deception|Deception]] +24, [[rangoric-srd/skills/Emulation|Emulation]] +24, [[rangoric-srd/skills/Intimidation|Intimidation]] +24, [[rangoric-srd/skills/Mysticism|Mysticism]] +22, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20, [[rangoric-srd/skills/Stealth|Stealth]] +19, [[rangoric-srd/skills/Theology|Theology]] +22
   - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Deflect Arrows|Deflect Arrows]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (falchion), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (falchion)
   - **Environment**: Any (a neutral evil-aligned plane: [[rangoric-srd/rules/planes/Abaddon|Abaddon]])
   - **Organization**: Solitary

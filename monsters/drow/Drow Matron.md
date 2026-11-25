@@ -18,8 +18,8 @@ special-attacks: "Demonic channel 7/day (DC 19, 8d6 plus sicken or special), han
 special-qualities: "Darkvision 120 ft., poison use, quasit familiar, immunity to sleep, spell resistance 26, light blindness"
 saves: "Fort +10, Ref +7, Will +18 (+2 vs. enchantment)"
 abilities: "Str 10, Dex 14, Con 12, Int 14, Wis 24, Cha 15"
-skills: "Arcana +13, Deception +10, Intimidation +12, Perception +19, Persuasion +9, Sense Motive +20, Society +9, Theology +15"
-skill-ranks: "Arcana 8, Deception 5, Intimidation 7, Perception 9, Persuasion 4, Sense Motive 10, Society 4, Theology 10"
+skills: "Arcana +9, Deception +10, Intimidation +12, Mysticism +13, Perception +19, Persuasion +9, Sense Motive +20, Society +9, Theology +15"
+skill-ranks: "Arcana 4, Deception 5, Intimidation 7, Mysticism 8, Perception 9, Persuasion 4, Sense Motive 10, Society 4, Theology 10"
 feats: "Combat Casting, Dodge, Extra Channel, Improved Initiative, Improved Iron Will, Iron Will, Spell Focus (necromancy), Toughness"
 environment: "Underground"
 organization: "Solitary, or with other drow (see Drow, 1st-Level Warrior)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/races/racial-traits/Poison Use|poison use]], [[rangoric-srd/monsters/demon/Quasit|quasit]] familiar, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 26, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
   - **Saves**: Fort +10, Ref +7, Will +18 (+2 vs. enchantment)
   - **Abilities**: Str 10, Dex 14, Con 12, Int 14, Wis 24, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +13, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20, [[rangoric-srd/skills/Society|Society]] +9, [[rangoric-srd/skills/Theology|Theology]] +15
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20, [[rangoric-srd/skills/Society|Society]] +9, [[rangoric-srd/skills/Theology|Theology]] +15
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (necromancy), [[rangoric-srd/feats/Toughness|Toughness]]
   - **Environment**: Underground
   - **Organization**: Solitary, or with other drow (see [[rangoric-srd/monsters/drow/Drow, 1st-Level Warrior|Drow, 1st-Level Warrior]])

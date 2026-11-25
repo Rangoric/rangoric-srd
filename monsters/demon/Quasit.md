@@ -18,8 +18,8 @@ special-attacks: "Poison, spell-like abilities"
 special-qualities: "Darkvision 60 ft., fast healing 2, telepathy touch, change shape (2 of the following forms: bat, Small centipede, toad, or wolf; polymorph), damage reduction 5/cold iron or good, immunity to electricity and poison, resistance to acid 10, cold 10 and fire 10"
 saves: "Fort +1, Ref +5, Will +4"
 abilities: "Str 8, Dex 14, Con 11, Int 11, Wis 12, Cha 11"
-skills: "Acrobatics +20, Deception +6, Intimidation +6, Perception +7, Stealth +16, Theology +6"
-skill-ranks: "Acrobatics 11, Deception 3, Intimidation 3, Perception 3, Stealth 3, Theology 3"
+skills: "Acrobatics +20, Deception +6, Intimidation +6, Mysticism +6, Perception +7, Stealth +16"
+skill-ranks: "Acrobatics 11, Deception 3, Intimidation 3, Mysticism 3, Perception 3, Stealth 3"
 feats: "Improved Initiative, Weapon Finesse"
 environment: "A chaotic evil-aligned plane"
 organization: "Solitary or flock (2–12)"
@@ -54,7 +54,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] touch, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (2 of the following forms: bat, Small centipede, toad, or wolf; polymorph), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron or good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and fire 10
   - **Saves**: Fort +1, Ref +5, Will +4
   - **Abilities**: Str 8, Dex 14, Con 11, Int 11, Wis 12, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +16, [[rangoric-srd/skills/Theology|Theology]] +6
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +16
   - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
   - **Environment**: A chaotic evil-aligned plane
   - **Organization**: Solitary or flock (2–12)

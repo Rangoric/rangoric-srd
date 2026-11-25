@@ -18,8 +18,8 @@ special-attacks: "Infernal wound, spell-like abilities"
 special-qualities: "Darkvision 60 ft., see in darkness, telepathy 100 ft., idol armor, devil mark, false divinity (Trickery), damage reduction 10/good and silver, immunity to cold, dismissal, electricity, fire, poison and sonic, resistance to acid 10, spell resistance 29"
 saves: "Fort +21, Ref +18, Will +13"
 abilities: "Str 34, Dex 25, Con 30, Int 23, Wis 25, Cha 24"
-skills: "Acrobatic +25 (+29 when jumping), Acrobatics +24, Arcana +27, Deception +28, Intimidation +28, Perception +28, Persuasion +28, Sense Motive +28, Stealth +20, Theology +27"
-skill-ranks: "Acrobatic 16, Acrobatics 18, Arcana 18, Deception 18, Intimidation 18, Perception 18, Persuasion 18, Sense Motive 18, Stealth 18, Theology 18"
+skills: "Acrobatic +25 (+29 when jumping), Acrobatics +24, Arcana +27, Deception +28, Intimidation +28, Mysticism +24, Perception +28, Persuasion +28, Sense Motive +28, Stealth +20, Theology +27"
+skill-ranks: "Acrobatic 16, Acrobatics 18, Arcana 18, Deception 18, Intimidation 18, Mysticism 15, Perception 18, Persuasion 18, Sense Motive 18, Stealth 18, Theology 18"
 feats: "Awesome Blow, Flyby Attack, Greater Bull Rush, Hover, Improved Bull Rush, Improved Initiative, Multiattack, Power Attack, Toughness"
 environment: "Any (a lawful evil-aligned plane: Hell)"
 organization: "Solitary or pantheon (2–5)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Idol Armor|idol armor]], [[rangoric-srd/monsters/abilities/Devil Mark|devil mark]], [[rangoric-srd/monsters/abilities/False Divinity|false divinity]] (Trickery), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good and silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, dismissal, electricity, fire, poison and sonic, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 29
   - **Saves**: Fort +21, Ref +18, Will +13
   - **Abilities**: Str 34, Dex 25, Con 30, Int 23, Wis 25, Cha 24
-  - **Skills**: Acrobatic +25 (+29 when jumping), [[rangoric-srd/skills/Acrobatics|Acrobatics]] +24, [[rangoric-srd/skills/Arcana|Arcana]] +27, [[rangoric-srd/skills/Deception|Deception]] +28, [[rangoric-srd/skills/Intimidation|Intimidation]] +28, [[rangoric-srd/skills/Perception|Perception]] +28, [[rangoric-srd/skills/Persuasion|Persuasion]] +28, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +28, [[rangoric-srd/skills/Stealth|Stealth]] +20, [[rangoric-srd/skills/Theology|Theology]] +27
+  - **Skills**: Acrobatic +25 (+29 when jumping), [[rangoric-srd/skills/Acrobatics|Acrobatics]] +24, [[rangoric-srd/skills/Arcana|Arcana]] +27, [[rangoric-srd/skills/Deception|Deception]] +28, [[rangoric-srd/skills/Intimidation|Intimidation]] +28, [[rangoric-srd/skills/Mysticism|Mysticism]] +24, [[rangoric-srd/skills/Perception|Perception]] +28, [[rangoric-srd/skills/Persuasion|Persuasion]] +28, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +28, [[rangoric-srd/skills/Stealth|Stealth]] +20, [[rangoric-srd/skills/Theology|Theology]] +27
   - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]]
   - **Environment**: Any (a lawful evil-aligned plane: Hell)
   - **Organization**: Solitary or pantheon (2–5)

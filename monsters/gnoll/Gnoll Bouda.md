@@ -18,8 +18,8 @@ special-attacks: "Hexes (blight [120 feet], bouda's eye, disguise [12 hours], ev
 special-qualities: "All-around vision, darkvision 60 ft., fetish, hyena shape"
 saves: "Fort +11, Ref +9, Will +14"
 abilities: "Str 12, Dex 12, Con 15, Int 18, Wis 14, Cha 8"
-skills: "Arcana +21, Fieldcraft +12, Intimidation +16, Investigation +8, Medicine +12, Perception +16, Sense Motive +16"
-skill-ranks: "Arcana 14, Fieldcraft 7, Intimidation 14, Medicine 7, Perception 11, Sense Motive 11"
+skills: "Arcana +21, Fieldcraft +12, Intimidation +16, Investigation +8, Medicine +12, Mysticism +21, Perception +16, Sense Motive +16"
+skill-ranks: "Arcana 14, Fieldcraft 7, Intimidation 14, Medicine 7, Mysticism 14, Perception 11, Sense Motive 11"
 feats: "Combat Casting, Improved Initiative, Improved Natural Armor, Iron Will, Lightning Reflexes, Spell Focus (enchantment), Toughness"
 environment: "Warm plains or desert"
 organization: "Solitary, or with other gnolls (see Gnoll)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/class-options/archetypes/witch/Bouda (Archetype)|fetish]], [[rangoric-srd/class-options/archetypes/witch/Bouda (Archetype)|hyena shape]]
   - **Saves**: Fort +11, Ref +9, Will +14
   - **Abilities**: Str 12, Dex 12, Con 15, Int 18, Wis 14, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +21, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Investigation|Investigation]] +8, [[rangoric-srd/skills/Medicine|Medicine]] +12, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +21, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Investigation|Investigation]] +8, [[rangoric-srd/skills/Medicine|Medicine]] +12, [[rangoric-srd/skills/Mysticism|Mysticism]] +21, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Natural Armor|Improved Natural Armor]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment), [[rangoric-srd/feats/Toughness|Toughness]]
   - **Environment**: Warm plains or desert
   - **Organization**: Solitary, or with other gnolls (see [[rangoric-srd/monsters/gnoll/Gnoll|Gnoll]])

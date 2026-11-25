@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy 7/day (DC 17, 6d6), might of the gods 
 special-qualities: "Darkvision 60 ft., damage reduction 10/adamantine (110 hp)"
 saves: "Fort +13, Ref +3, Will +13"
 abilities: "Str 18, Dex 8, Con 14, Int 8, Wis 16, Cha 14"
-skills: "Arcana +10, Perception +8"
-skill-ranks: "Arcana 8, Perception 2"
+skills: "Mysticism +10, Perception +8"
+skill-ranks: "Mysticism 8, Perception 2"
 feats: "Cleave, Combat Casting, Extra Channel, Iron Will, Power Attack, Selective Channeling, Weapon Focus (falchion)"
 environment: "Warm plains or desert"
 organization: "Solitary, or with other gnolls (see Gnoll)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine (110 hp)
   - **Saves**: Fort +13, Ref +3, Will +13
   - **Abilities**: Str 18, Dex 8, Con 14, Int 8, Wis 16, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Perception|Perception]] +8
+  - **Skills**: [[rangoric-srd/skills/Mysticism|Mysticism]] +10, [[rangoric-srd/skills/Perception|Perception]] +8
   - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Selective Channeling|Selective Channeling]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (falchion)
   - **Environment**: Warm plains or desert
   - **Organization**: Solitary, or with other gnolls (see [[rangoric-srd/monsters/gnoll/Gnoll|Gnoll]])

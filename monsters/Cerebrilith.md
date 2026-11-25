@@ -22,8 +22,8 @@ special-attacks: "Psi-like abilities, spell-like abilities, summon demon"
 special-qualities: "Damage reduction 10/good, darkvision 60 ft., immunity to electricity and poison, Outsidertraits, psionic traits, resistance to acid 10, cold 10, and fire 10, power resistance 20, telepathy 100 ft."
 saves: "Fort +13, Ref +7, Will +10"
 abilities: "Str 22, Dex 13, Con 25, Int 15, Wis 18, Cha 21"
-skills: "Athletics +18, Arcana +14, Psionics +14, Theology +14, Perception +24, Investigation +14, Sense Motive +16, Stealth +9"
-skill-ranks: "Arcana 9, Athletics 9, Investigation 9, Perception 9, Psionics 9, Sense Motive 9, Stealth 9, Theology 9"
+skills: "Athletics +18, Arcana +14, Mysticism +14, Psionics +14, Theology +14, Perception +24, Investigation +14, Sense Motive +16, Stealth +9"
+skill-ranks: "Arcana 9, Athletics 9, Investigation 9, Mysticism 9, Perception 9, Psionics 9, Sense Motive 9, Stealth 9, Theology 9"
 feats: "Power Attack, Quickened Focus, Psionic Fist, Unavoidable Strike, Wild Talent (B)"
 environment: "Chaotic Evil planes"
 organization: "Solitary or gang (2-4)"
@@ -55,7 +55,7 @@ Full **Attack:** Bite +14 melee (1d8+6) and 2 claws +9 melee (1d6+3)   
 **Special Qualities:** [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/good, darkvision 60 ft., immunity to electricity and poison, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]][[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|traits]], psionic traits, [[rangoric-srd/monsters/abilities/Resistance|resistance to acid]] 10, cold 10, and fire 10, power resistance 20, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft.     
 **Saves:** Fort +13, Ref +7, Will +10     
 **Abilities:** Str 22, Dex 13, Con 25, Int 15, Wis 18, Cha 21     
-**Skills:** [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Investigation|Investigation]] +14, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Psionics (Skill)|Psionics]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +9, [[rangoric-srd/skills/Theology|Theology]] +14     
+**Skills:** [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Investigation|Investigation]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +14, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Psionics (Skill)|Psionics]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +9, [[rangoric-srd/skills/Theology|Theology]] +14     
 **Unspent Skill Points**: 18
 **Feats:** [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quickened Focus|Quickened Focus]], [[rangoric-srd/feats/Psionic Fist (Feat)|Psionic Fist]], [[rangoric-srd/feats/Unavoidable Strike|Unavoidable Strike]], [[rangoric-srd/feats/Wild Talent|Wild Talent (B)]]     
 **Environment:** Chaotic Evil planes     

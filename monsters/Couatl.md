@@ -18,8 +18,8 @@ special-attacks: "Constrict (1d8+7), poison, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect chaos/evil/good/law, telepathy 100 ft."
 saves: "Fort +9, Ref +13, Will +14"
 abilities: "Str 20, Dex 16, Con 20, Int 17, Wis 19, Cha 17"
-skills: "Acrobatics +20, Arcana +15, Deception +9, Emulation +18, Fieldcraft +16, Perception +25, Persuasion +18, Sense Motive +13, Theology +12"
-skill-ranks: "Acrobatics 16, Arcana 9, Deception 3, Emulation 12, Fieldcraft 9, Perception 16, Persuasion 12, Sense Motive 8, Theology 6"
+skills: "Acrobatics +20, Arcana +9, Deception +9, Emulation +18, Fieldcraft +16, Mysticism +15, Perception +25, Persuasion +18, Sense Motive +13, Theology +12"
+skill-ranks: "Acrobatics 16, Arcana 3, Deception 3, Emulation 12, Fieldcraft 9, Mysticism 9, Perception 16, Persuasion 12, Sense Motive 8, Theology 6"
 feats: "Dodge, Empower Spell, Eschew Materials, Improved Initiative, Iron Will, Lightning Reflexes, Skill Focus (Perception)"
 environment: "Warm forests"
 organization: "Solitary, pair, or flight (3–6)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect chaos/evil/good/law, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft.
   - **Saves**: Fort +9, Ref +13, Will +14
   - **Abilities**: Str 20, Dex 16, Con 20, Int 17, Wis 19, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Emulation|Emulation]] +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Theology|Theology]] +12
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Emulation|Emulation]] +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Theology|Theology]] +12
   - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Empower Spell|Empower Spell]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
   - **Environment**: Warm forests
   - **Organization**: Solitary, pair, or flight (3–6)

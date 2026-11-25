@@ -17,8 +17,8 @@ special-attacks: "Disease (DC 15), paralysis (1d4+1 rounds, DC 15, elves are imm
 special-qualities: "Darkvision 60 ft., channel resistance +2, oracle's curse (tongues [Aklo]), revelations (crystal sight, earth glide, rock throwing, stone stability), undead traits"
 saves: "Fort +8, Ref +8, Will +13"
 abilities: "Str 20, Dex 18, Con —, Int 15, Wis 14, Cha 18"
-skills: "Arcana +17, Deception +16, Intimidation +19, Perception +17, Persuasion +19, Stealth +18"
-skill-ranks: "Arcana 12, Deception 9, Intimidation 12, Perception 12, Persuasion 12, Stealth 11"
+skills: "Deception +16, Intimidation +19, Mysticism +17, Perception +17, Persuasion +19, Stealth +18"
+skill-ranks: "Deception 9, Intimidation 12, Mysticism 12, Perception 12, Persuasion 12, Stealth 11"
 feats: "Combat Reflexes, Extra Rage, Greater Trip, Improved Natural Armor, Improved Trip, Power Attack, Quick Draw, Weapon Focus (claw)"
 environment: "Any land"
 organization: "Solitary, or with other ghouls (see Ghoul)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, oracle's [[rangoric-srd/classes/Oracle#^oracle-curse|curse]] ([[rangoric-srd/class-options/curses/Tongues Curse|tongues]] \[Aklo\]), [[rangoric-srd/classes/Oracle#^oracle-revelation|revelations]] ([[rangoric-srd/class-options/revelations/Crystal Sight (Revelation)|crystal sight]], [[rangoric-srd/class-options/revelations/Earth Glide (Revelation)|earth glide]], [[rangoric-srd/monsters/abilities/Rock Throwing|rock throwing]], [[rangoric-srd/class-options/revelations/Stone Stability (Revelation)|stone stability]]), [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
   - **Saves**: Fort +8, Ref +8, Will +13
   - **Abilities**: Str 20, Dex 18, Con —, Int 15, Wis 14, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +17, [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Persuasion|Persuasion]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +18
+  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Mysticism|Mysticism]] +17, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Persuasion|Persuasion]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +18
   - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Extra Rage|Extra Rage]], [[rangoric-srd/feats/Greater Trip|Greater Trip]], [[rangoric-srd/feats/Improved Natural Armor|Improved Natural Armor]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
   - **Environment**: Any land
   - **Organization**: Solitary, or with other ghouls (see [[rangoric-srd/monsters/ghoul/Ghoul|Ghoul]])

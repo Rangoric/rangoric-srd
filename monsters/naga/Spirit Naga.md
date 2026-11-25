@@ -17,8 +17,8 @@ special-attacks: "Charming gaze, poison"
 special-qualities: "Darkvision 60 ft."
 saves: "Fort +8, Ref +10, Will +10"
 abilities: "Str 18, Dex 20, Con 21, Int 12, Wis 17, Cha 17"
-skills: "Arcana +14, Athletics +12, Deception +13, Escape Artist +11, Intimidation +9, Perception +22, Stealth +16"
-skill-ranks: "Arcana 10, Athletics 5, Deception 7, Escape Artist 5, Intimidation 3, Perception 16, Stealth 11"
+skills: "Arcana +14, Athletics +12, Deception +13, Escape Artist +11, Intimidation +9, Mysticism +11, Perception +22, Stealth +16"
+skill-ranks: "Arcana 10, Athletics 5, Deception 7, Escape Artist 5, Intimidation 3, Mysticism 7, Perception 16, Stealth 11"
 feats: "Ability Focus (charming gaze), Combat Casting, Eschew Materials, Lightning Reflexes, Skill Focus (Perception, Stealth)"
 environment: "Temperate marshes"
 organization: "Solitary or nest (2–4)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
   - **Saves**: Fort +8, Ref +10, Will +10
   - **Abilities**: Str 18, Dex 20, Con 21, Int 12, Wis 17, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +16
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +16
   - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (charming gaze), [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Stealth)
   - **Environment**: Temperate marshes
   - **Organization**: Solitary or nest (2–4)

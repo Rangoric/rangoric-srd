@@ -18,8 +18,8 @@ special-attacks: "Blood frenzy, channel negative energy 5/day (DC 13, 4d6), dest
 special-qualities: "Blindsense 30 ft., darkvision 60 ft., agile feet (8/day), light blindness, freedom of movement (7 rounds/day), speak with sharks"
 saves: "Fort +13, Ref +6, Will +13"
 abilities: "Str 20, Dex 9, Con 26, Int 14, Wis 20, Cha 11"
-skills: "Arcana +14, Athletics +10, Intimidation +12, Perception +12, Sense Motive +17, Theology +14"
-skill-ranks: "Arcana 9, Athletics 2, Intimidation 9, Perception 4, Sense Motive 9, Theology 9"
+skills: "Athletics +10, Intimidation +12, Mysticism +14, Perception +12, Sense Motive +17, Theology +14"
+skill-ranks: "Athletics 2, Intimidation 9, Mysticism 9, Perception 4, Sense Motive 9, Theology 9"
 feats: "Combat Casting, Extra Channel, Improved Natural Attack (bite), Lightning Reflexes, Weapon Focus (spear)"
 environment: "Temperate or warm ocean"
 organization: "Solitary, or with other sahuagin (see Sahuagin)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/class-options/domains/Travel Domain|agile feet]] (8/day), [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]], [[rangoric-srd/class-options/domains/Travel Domain|freedom of movement]] (7 rounds/day), [[rangoric-srd/monsters/sahuagin/Sahuagin|speak with sharks]]
   - **Saves**: Fort +13, Ref +6, Will +13
   - **Abilities**: Str 20, Dex 9, Con 26, Int 14, Wis 20, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Theology|Theology]] +14
+  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Mysticism|Mysticism]] +14, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Theology|Theology]] +14
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]] (bite), [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spear)
   - **Environment**: Temperate or warm ocean
   - **Organization**: Solitary, or with other sahuagin (see [[rangoric-srd/monsters/sahuagin/Sahuagin|Sahuagin]])

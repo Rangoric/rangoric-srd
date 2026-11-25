@@ -18,8 +18,8 @@ special-attacks: "Rock throwing (120 ft.)"
 special-qualities: "Low-light vision, rock catching, icewalker, immunity to cold, vulnerability to fire"
 saves: "Fort +17, Ref +8, Will +11"
 abilities: "Str 26, Dex 11, Con 22, Int 14, Wis 14, Cha 16"
-skills: "Arcana +15, Athletics +21, Craft (alchemy) +15, Deception +12, Intimidation +16, Perception +25, Stealth +12 (+16 in snow)"
-skill-ranks: "Arcana 10, Athletics 10, Craft (alchemy) 10, Deception 6, Intimidation 10, Perception 20, Stealth 13"
+skills: "Arcana +15, Athletics +21, Craft (alchemy) +15, Deception +12, Intimidation +16, Mysticism +15, Perception +25, Stealth +12 (+16 in snow)"
+skill-ranks: "Arcana 10, Athletics 10, Craft (alchemy) 10, Deception 6, Intimidation 10, Mysticism 10, Perception 20, Stealth 13"
 feats: "Arcane Strike, Born of Frost, Chilled Rock, Combat Casting, Eschew Materials, Extend Spell, Improved Initiative, Improved Lightning Reflexes, Lightning Reflexes, Power Attack, Skill Focus (Stealth)"
 environment: "Cold mountains"
 organization: "Solitary, or with other frost giants (see Frost Giant)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/class-options/bloodlines/Boreal Bloodline|icewalker]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, vulnerability to fire
   - **Saves**: Fort +17, Ref +8, Will +11
   - **Abilities**: Str 26, Dex 11, Con 22, Int 14, Wis 14, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +21, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +15, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Stealth|Stealth]] +12 (+16 in snow)
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +21, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +15, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Stealth|Stealth]] +12 (+16 in snow)
   - **Feats**: [[rangoric-srd/feats/Arcane Strike|Arcane Strike]], [[rangoric-srd/feats/Born of Frost|Born of Frost]], [[rangoric-srd/feats/Chilled Rock|Chilled Rock]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Extend Spell|Extend Spell]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Lightning Reflexes|Improved Lightning Reflexes]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
   - **Environment**: Cold mountains
   - **Organization**: Solitary, or with other frost giants (see [[rangoric-srd/monsters/giant/Frost Giant|Frost Giant]])

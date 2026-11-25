@@ -17,8 +17,8 @@ special-attacks: "Breath weapon (40-ft. cone, 5d6 fire, Reflex DC 24 for half, u
 special-qualities: "Darkvision 60 ft., low-light vision, true seeing, regeneration 5 (acid), multi-headed, damage reduction 10/lawful, immunity to fire, paralysis, poison and sleep, spell resistance 26"
 saves: "Fort +16, Ref +14, Will +15"
 abilities: "Str 27, Dex 15, Con 22, Int 12, Wis 17, Cha 18"
-skills: "Acrobatics +7, Arcana +14, Athletics +24, Deception +17, Intimidation +17, Nature +14, Perception +23, Persuasion +17, Sense Motive +16, Stealth +14"
-skill-ranks: "Acrobatics 6, Arcana 10, Athletics 13, Deception 10, Intimidation 10, Nature 10, Perception 17, Persuasion 10, Sense Motive 10, Stealth 17"
+skills: "Acrobatics +7, Arcana +14, Athletics +24, Deception +17, Intimidation +17, Mysticism +14, Nature +14, Perception +23, Persuasion +17, Sense Motive +16, Stealth +14"
+skill-ranks: "Acrobatics 6, Arcana 10, Athletics 13, Deception 10, Intimidation 10, Mysticism 10, Nature 10, Perception 17, Persuasion 10, Sense Motive 10, Stealth 17"
 feats: "Awesome Blow, Combat Reflexes, Flyby Attack, Improved Bull Rush, Iron Will, Lightning Reflexes, Power Attack, Stand Still, Weapon Focus (bite)"
 environment: "Temperate forests"
 organization: "Solitary"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], true seeing, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid), [[rangoric-srd/monsters/abilities/Multi-Headed|multi-headed]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/lawful, immunity to fire, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], poison and sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 26
   - **Saves**: Fort +16, Ref +14, Will +15
   - **Abilities**: Str 27, Dex 15, Con 22, Int 12, Wis 17, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +24, [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Nature|Nature]] +14, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +14
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +24, [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Mysticism|Mysticism]] +14, [[rangoric-srd/skills/Nature|Nature]] +14, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +14
   - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Stand Still|Stand Still]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
   - **Environment**: Temperate forests
   - **Organization**: Solitary

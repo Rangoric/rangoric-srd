@@ -110,7 +110,7 @@ Table: Umbral Special Abilities
 - **CMB**: +17
 - **CMD**: 28 (32 vs. trip)
 - **Feats**: [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9 (flying), [[rangoric-srd/skills/Arcana|Arcana]] +17, [[rangoric-srd/skills/Society|Society]] +17, [[rangoric-srd/skills/Theology|Theology]] +17, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +11
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Mysticism|Mysticism]] +17, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9 (flying), [[rangoric-srd/skills/Arcana|Arcana]] +17, [[rangoric-srd/skills/Society|Society]] +17, [[rangoric-srd/skills/Theology|Theology]] +17, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Languages**: Abyssal, Common, Draconic, Undercommon
 - **Special qualities**: ghost bane, umbral scion
 
@@ -175,7 +175,7 @@ Table: Umbral Special Abilities
 - **CMB**: +27
 - **CMD**: 37 (41 vs. trip)
 - **Feats**: [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Snatch|Snatch]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +25, [[rangoric-srd/skills/Persuasion|Persuasion]] +25, [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16 (flying), [[rangoric-srd/skills/Arcana|Arcana]] +25, [[rangoric-srd/skills/Society|Society]] +25, [[rangoric-srd/skills/Theology|Theology]] +25, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +25, [[rangoric-srd/skills/Stealth|Stealth]] +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +25
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +25, [[rangoric-srd/skills/Mysticism|Mysticism]] +25, [[rangoric-srd/skills/Persuasion|Persuasion]] +25, [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16 (flying), [[rangoric-srd/skills/Arcana|Arcana]] +25, [[rangoric-srd/skills/Society|Society]] +25, [[rangoric-srd/skills/Theology|Theology]] +25, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +25, [[rangoric-srd/skills/Stealth|Stealth]] +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +25
 - **Languages**: Abyssal, Common, Draconic, Undercommon, 2 more
 - **Special qualities**: ghost bane, umbral scion
 
@@ -250,7 +250,7 @@ Table: Umbral Special Abilities
 - **CMB**: +41
 - **CMD**: 50 (54 vs. trip)
 - **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Greater Vital Strike|Greater Vital Strike]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Snatch|Snatch]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
-- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +35, [[rangoric-srd/skills/Deception|Deception]] +35, [[rangoric-srd/skills/Persuasion|Persuasion]] +35, [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13 (flying), [[rangoric-srd/skills/Arcana|Arcana]] +35, [[rangoric-srd/skills/Society|Society]] +35, [[rangoric-srd/skills/Theology|Theology]] +35, [[rangoric-srd/skills/Perception|Perception]] +35, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +35, [[rangoric-srd/skills/Stealth|Stealth]] +21, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +35
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +35, [[rangoric-srd/skills/Deception|Deception]] +35, [[rangoric-srd/skills/Mysticism|Mysticism]] +35, [[rangoric-srd/skills/Persuasion|Persuasion]] +35, [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13 (flying), [[rangoric-srd/skills/Arcana|Arcana]] +35, [[rangoric-srd/skills/Society|Society]] +35, [[rangoric-srd/skills/Theology|Theology]] +35, [[rangoric-srd/skills/Perception|Perception]] +35, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +35, [[rangoric-srd/skills/Stealth|Stealth]] +21, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +35
 - **Languages**: Abyssal, Common, Draconic, Undercommon, 4 more
 - **Special qualities**: ghost bane, umbral scion
 

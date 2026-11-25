@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Darkvision 60 ft., bloodline arcana, fire affinity, resistance to fire 5"
 saves: "Fort +1, Ref +3, Will +0"
 abilities: "Str 10, Dex 16, Con —, Int 13, Wis 6, Cha 17"
-skills: "Arcana +5, Deception +7"
-skill-ranks: "Arcana 1, Deception 1"
+skills: "Arcana +5, Deception +7, Mysticism +5"
+skill-ranks: "Arcana 1, Deception 1, Mysticism 1"
 feats: "Eschew Materials, Martial Weapon Proficiency (scimitar)"
 environment: "Any land"
 organization: "Solitary, pair, or gang (3–5)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., bloodline arcana, [[rangoric-srd/monsters/abilities/Fire Affinity|fire affinity]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 5
   - **Saves**: Fort +1, Ref +3, Will +0
   - **Abilities**: Str 10, Dex 16, Con —, Int 13, Wis 6, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +5, [[rangoric-srd/skills/Deception|Deception]] +7
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +5, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +5
   - **Feats**: [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (scimitar)
   - **Environment**: Any land
   - **Organization**: Solitary, pair, or gang (3–5)

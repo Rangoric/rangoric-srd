@@ -17,8 +17,8 @@ special-attacks: "Breath weapon (60-ft. cone, 1d6 Str drain plus mummy rot, Fort
 special-qualities: "Darkvision 120 ft., deathwatch, frightful presence (180 ft., DC 25), negative energy affinity, damage reduction 15/good and magic, immunity to paralysis, sleep and visual effects, resistance to acid 30, cold 30, electricity 30 and fire 30, spell resistance 29"
 saves: "Fort +21, Ref +12, Will +15"
 abilities: "Str 33, Dex 11, Con 25, Int 18, Wis 17, Cha 20"
-skills: "Acrobatics –12, Arcana +27, Deception +28, Emulation +28, Intimidation +28, Medicine +26, Perception +26, Sense Motive +26, Stealth +15, Theology +27"
-skill-ranks: "Acrobatics 0, Arcana 20, Deception 20, Emulation 20, Intimidation 20, Medicine 20, Perception 20, Sense Motive 20, Stealth 20, Theology 20"
+skills: "Acrobatics –12, Arcana +27, Deception +28, Emulation +28, Intimidation +28, Medicine +26, Mysticism +27, Perception +26, Sense Motive +26, Stealth +15, Theology +27"
+skill-ranks: "Acrobatics 0, Arcana 20, Deception 20, Emulation 20, Intimidation 20, Medicine 20, Mysticism 20, Perception 20, Sense Motive 20, Stealth 20, Theology 20"
 feats: "Cleave, Combat Reflexes, Critical Focus, Great Fortitude, Improved Initiative, Power Attack, Sickening Critical, Vital Strike, Weapon Focus (bite), Weapon Focus (claw)"
 environment: "Any land or underground"
 organization: "Solitary"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., deathwatch, [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (180 ft., DC 25), [[rangoric-srd/monsters/abilities/Negative Energy Affinity|negative energy affinity]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/good and magic, immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], sleep and visual effects, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 30, cold 30, electricity 30 and fire 30, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 29
   - **Saves**: Fort +21, Ref +12, Will +15
   - **Abilities**: Str 33, Dex 11, Con 25, Int 18, Wis 17, Cha 20
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –12, [[rangoric-srd/skills/Arcana|Arcana]] +27, [[rangoric-srd/skills/Deception|Deception]] +28, [[rangoric-srd/skills/Emulation|Emulation]] +28, [[rangoric-srd/skills/Intimidation|Intimidation]] +28, [[rangoric-srd/skills/Medicine|Medicine]] +26, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +26, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +27
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –12, [[rangoric-srd/skills/Arcana|Arcana]] +27, [[rangoric-srd/skills/Deception|Deception]] +28, [[rangoric-srd/skills/Emulation|Emulation]] +28, [[rangoric-srd/skills/Intimidation|Intimidation]] +28, [[rangoric-srd/skills/Medicine|Medicine]] +26, [[rangoric-srd/skills/Mysticism|Mysticism]] +27, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +26, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +27
   - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Sickening Critical|Sickening Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
   - **Environment**: Any land or underground
   - **Organization**: Solitary

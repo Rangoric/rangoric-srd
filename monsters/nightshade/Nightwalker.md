@@ -18,8 +18,8 @@ special-attacks: "Desecrating aura (30 ft.), channel energy (8d6, DC 29, 8/day),
 special-qualities: "Darksense, darkvision 60 ft., detect magic, low-light vision, telepathy 100 ft., damage reduction 15/good and silver, immunity to cold, undead traits, spell resistance 27, light aversion"
 saves: "Fort +14, Ref +11, Will +19"
 abilities: "Str 35, Dex 14, Con —, Int 20, Wis 21, Cha 21"
-skills: "Arcana +29, Athletics +33, Intimidation +29, Perception +29, Sense Motive +29, Stealth +18 (+26 in darkness), Theology +29"
-skill-ranks: "Arcana 21, Athletics 18, Intimidation 21, Perception 21, Sense Motive 21, Stealth 21, Theology 21"
+skills: "Arcana +29, Athletics +33, Intimidation +29, Mysticism +29, Perception +29, Sense Motive +29, Stealth +18 (+26 in darkness), Theology +29"
+skill-ranks: "Arcana 21, Athletics 18, Intimidation 21, Mysticism 21, Perception 21, Sense Motive 21, Stealth 21, Theology 21"
 feats: "Combat Expertise, Command Undead, Greater Sunder, Greater Vital Strike, Improved Critical (claws), Improved Disarm, Improved Sunder, Improved Vital Strike, Power Attack, Quicken Spell-Like Ability (unholy blight), Vital Strike"
 environment: "Any (Negative Energy Plane or Plane of Shadow)"
 organization: "Solitary, pair, or gang (3–4)"
@@ -54,7 +54,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^nightshade|Darksense]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/good and silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^nightshade|light aversion]]
   - **Saves**: Fort +14, Ref +11, Will +19
   - **Abilities**: Str 35, Dex 14, Con —, Int 20, Wis 21, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +29, [[rangoric-srd/skills/Athletics|Athletics]] +33, [[rangoric-srd/skills/Intimidation|Intimidation]] +29, [[rangoric-srd/skills/Perception|Perception]] +29, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +29, [[rangoric-srd/skills/Stealth|Stealth]] +18 (+26 in darkness), [[rangoric-srd/skills/Theology|Theology]] +29
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +29, [[rangoric-srd/skills/Athletics|Athletics]] +33, [[rangoric-srd/skills/Intimidation|Intimidation]] +29, [[rangoric-srd/skills/Mysticism|Mysticism]] +29, [[rangoric-srd/skills/Perception|Perception]] +29, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +29, [[rangoric-srd/skills/Stealth|Stealth]] +18 (+26 in darkness), [[rangoric-srd/skills/Theology|Theology]] +29
   - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Command Undead (Feat)|Command Undead]], [[rangoric-srd/feats/Greater Sunder|Greater Sunder]], [[rangoric-srd/feats/Greater Vital Strike|Greater Vital Strike]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claws), [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (unholy blight), [[rangoric-srd/feats/Vital Strike|Vital Strike]]
   - **Environment**: Any (Negative Energy Plane or Plane of Shadow)
   - **Organization**: Solitary, pair, or gang (3–4)

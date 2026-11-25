@@ -18,8 +18,8 @@ special-attacks: "Soul siphoning, spell-like abilities"
 special-qualities: "Darkvision 60 ft., deathwatch, fast healing 5, extension of all, void form, immunity to cold, critical hits and poison, resistance to electricity 10 and fire 10, spell resistance 23"
 saves: "Fort +17, Ref +11, Will +14"
 abilities: "Str 21, Dex 23, Con 26, Int 16, Wis 21, Cha 18"
-skills: "Acrobatics +2, Arcana +17, Deception +18, Intimidation +18, Medicine +19, Perception +19, Sense Motive +19, Stealth +20, Theology +22"
-skill-ranks: "Acrobatics 0, Arcana 11, Deception 11, Intimidation 11, Medicine 11, Perception 11, Sense Motive 11, Stealth 11, Theology 16"
+skills: "Acrobatics +2, Deception +18, Intimidation +18, Medicine +19, Mysticism +17, Perception +19, Sense Motive +19, Stealth +20, Theology +22"
+skill-ranks: "Acrobatics 0, Deception 11, Intimidation 11, Medicine 11, Mysticism 11, Perception 11, Sense Motive 11, Stealth 11, Theology 16"
 feats: "Combat Reflexes, Great Fortitude, Hover, Improved Initiative, Iron Will, Lightning Reflexes"
 environment: "Any (Outer Planes)"
 organization: "Solitary, pair, or collective (3–6)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., deathwatch, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, extension of all, [[rangoric-srd/monsters/abilities/Void Form (Void Yai)|void form]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, critical hits and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23
   - **Saves**: Fort +17, Ref +11, Will +14
   - **Abilities**: Str 21, Dex 23, Con 26, Int 16, Wis 21, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Arcana|Arcana]] +17, [[rangoric-srd/skills/Deception|Deception]] +18, [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Medicine|Medicine]] +19, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +20, [[rangoric-srd/skills/Theology|Theology]] +22
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Deception|Deception]] +18, [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Medicine|Medicine]] +19, [[rangoric-srd/skills/Mysticism|Mysticism]] +17, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +20, [[rangoric-srd/skills/Theology|Theology]] +22
   - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
   - **Environment**: Any (Outer Planes)
   - **Organization**: Solitary, pair, or collective (3–6)

@@ -17,8 +17,8 @@ special-attacks: "Blood drain (1d2 Constitution), spell-like abilities"
 special-qualities: "Darkvision 60 ft., separate, damage reduction 10/good or silver, undead traits, light sensitivity, vulnerable to light blades"
 saves: "Fort +7, Ref +8, Will +10"
 abilities: "Str 19, Dex 17, Con —, Int 12, Wis 16, Cha 19"
-skills: "Acrobatics +16, Arcana +6, Deception +19, Imitation +17, Perception +16, Sense Motive +11, Theology +11"
-skill-ranks: "Acrobatics 10, Arcana 2, Deception 11, Imitation 14, Perception 10, Sense Motive 5, Theology 7"
+skills: "Acrobatics +16, Deception +19, Imitation +17, Mysticism +6, Perception +16, Sense Motive +11, Theology +11"
+skill-ranks: "Acrobatics 10, Deception 11, Imitation 14, Mysticism 2, Perception 10, Sense Motive 5, Theology 7"
 feats: "Dodge, Flyby Attack, Lightning Reflexes, Weapon Focus (claws), Skill Focus (Deception)"
 environment: "Any land"
 organization: "Solitary or pack (2–6)"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Separate|separate]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good or silver, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]], [[rangoric-srd/monsters/abilities/Vulnerable to Light Blades|vulnerable to light blades]]
   - **Saves**: Fort +7, Ref +8, Will +10
   - **Abilities**: Str 19, Dex 17, Con —, Int 12, Wis 16, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Imitation|Imitation]] +17, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Theology|Theology]] +11
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Imitation|Imitation]] +17, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Theology|Theology]] +11
   - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claws), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
   - **Environment**: Any land
   - **Organization**: Solitary or pack (2–6)

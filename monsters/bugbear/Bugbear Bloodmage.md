@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Darkvision 60 ft., scent, bloodline arcana (change energy damage spells to fire), stalker, resistance to fire 20"
 saves: "Fort +8, Ref +11, Will +9"
 abilities: "Str 18, Dex 15, Con 16, Int 8, Wis 10, Cha 17"
-skills: "Arcana +12, Intimidation +6, Stealth +9"
-skill-ranks: "Arcana 10, Intimidation 3, Stealth 4"
+skills: "Intimidation +6, Mysticism +12, Stealth +9"
+skill-ranks: "Intimidation 3, Mysticism 10, Stealth 4"
 feats: "Combat Casting, Dodge, Empower Spell, Enlarge Spell, Eschew Materials, Improved Initiative, Lightning Reflexes, Point Blank Shot, Precise Shot"
 environment: "Temperate mountains"
 organization: "Solitary, or with other bugbears (see Bugbear)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/class-options/bloodlines/Elemental Bloodline|bloodline arcana]] (change energy damage spells to fire), [[rangoric-srd/monsters/bugbear/Bugbear|stalker]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 20
   - **Saves**: Fort +8, Ref +11, Will +9
   - **Abilities**: Str 18, Dex 15, Con 16, Int 8, Wis 10, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +9
+  - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +9
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Empower Spell|Empower Spell]], [[rangoric-srd/feats/Enlarge Spell|Enlarge Spell]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]]
   - **Environment**: Temperate mountains
   - **Organization**: Solitary, or with other bugbears (see [[rangoric-srd/monsters/bugbear/Bugbear|Bugbear]])

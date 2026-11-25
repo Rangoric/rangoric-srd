@@ -18,8 +18,8 @@ special-attacks: "Web (+24 ranged, DC 25, 15 hp), web weaponry, poison, spell-li
 special-qualities: "Arcane sight, darkvision 60 ft., low-light vision, tremorsense 60 ft., fast healing 10, immunity to cold, confusion and insanity effects, poison and sonic, spell resistance 25"
 saves: "Fort +17, Ref +18, Will +10"
 abilities: "Str 26, Dex 29, Con 26, Int 21, Wis 17, Cha 22"
-skills: "Acrobatics +27, Arcana +20, Athletics +34 (+38 jumping), Craft (traps) +20, Emulation +21, Knowledge +20, Perception +21"
-skill-ranks: "Acrobatics 15, Arcana 12, Athletics 23, Craft (traps) 12, Emulation 12, Knowledge 12, Perception 15"
+skills: "Acrobatics +27, Athletics +34 (+38 jumping), Craft (traps) +20, Emulation +21, Knowledge +20, Mysticism +20, Perception +21"
+skill-ranks: "Acrobatics 15, Athletics 23, Craft (traps) 12, Emulation 12, Knowledge 12, Mysticism 12, Perception 15"
 feats: "Combat Expertise, Combat Reflexes, Improved Initiative, Improved Trip, Iron Will, Point Blank Shot, Precise Shot, Vital Strike"
 environment: "Any"
 organization: "Solitary, pair, or cult (3–6)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: Arcane sight, [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, confusion and insanity effects, poison and sonic, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25
   - **Saves**: Fort +17, Ref +18, Will +10
   - **Abilities**: Str 26, Dex 29, Con 26, Int 21, Wis 17, Cha 22
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +27, [[rangoric-srd/skills/Arcana|Arcana]] +20, [[rangoric-srd/skills/Athletics|Athletics]] +34 (+38 jumping), [[rangoric-srd/skills/Craft|Craft]] (traps) +20, [[rangoric-srd/skills/Emulation|Emulation]] +21, [[rangoric-srd/skills/Knowledge|Knowledge]] +20, [[rangoric-srd/skills/Perception|Perception]] +21
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +27, [[rangoric-srd/skills/Athletics|Athletics]] +34 (+38 jumping), [[rangoric-srd/skills/Craft|Craft]] (traps) +20, [[rangoric-srd/skills/Emulation|Emulation]] +21, [[rangoric-srd/skills/Knowledge|Knowledge]] +20, [[rangoric-srd/skills/Mysticism|Mysticism]] +20, [[rangoric-srd/skills/Perception|Perception]] +21
   - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
   - **Environment**: Any
   - **Organization**: Solitary, pair, or cult (3–6)

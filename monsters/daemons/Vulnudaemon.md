@@ -18,8 +18,8 @@ special-attacks: "Bleed (1d4), sneak attack +1d6, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect good, detect magic, aura of doom (30 ft., DC 18), telepathy 100 ft., damage reduction 5/good or silver, immunity to acid, death effects, disease and poison, resistance to cold 10, electricity 10 and fire 10"
 saves: "Fort +6, Ref +5, Will +6"
 abilities: "Str 14, Dex 17, Con 13, Int 12, Wis 13, Cha 16"
-skills: "Acrobatics +11, Arcana +8, Deception +12, Perception +10, Persuasion +10, Sense Motive +10, Stealth +16, Theology +8"
-skill-ranks: "Acrobatics 3, Arcana 4, Deception 6, Perception 6, Persuasion 4, Sense Motive 6, Stealth 6, Theology 4"
+skills: "Acrobatics +11, Arcana +7, Deception +12, Mysticism +8, Perception +10, Persuasion +10, Sense Motive +10, Stealth +16, Theology +8"
+skill-ranks: "Acrobatics 3, Arcana 3, Deception 6, Mysticism 4, Perception 6, Persuasion 4, Sense Motive 6, Stealth 6, Theology 4"
 feats: "Ability Focus (aura of doom), Combat Casting, Weapon Finesse"
 environment: "Any (a neutral evil-aligned plane: Abaddon)"
 organization: "Solitary, pair, or murder (3–12)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect good, detect magic, [[rangoric-srd/monsters/abilities/Aura of Doom|aura of doom]] (30 ft., DC 18), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good or silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, death effects, disease and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, electricity 10 and fire 10
   - **Saves**: Fort +6, Ref +5, Will +6
   - **Abilities**: Str 14, Dex 17, Con 13, Int 12, Wis 13, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +16, [[rangoric-srd/skills/Theology|Theology]] +8
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +16, [[rangoric-srd/skills/Theology|Theology]] +8
   - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (aura of doom), [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
   - **Environment**: Any (a neutral evil-aligned plane: Abaddon)
   - **Organization**: Solitary, pair, or murder (3–12)

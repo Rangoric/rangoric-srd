@@ -18,8 +18,8 @@ special-attacks: "Hexes (cauldron)"
 special-qualities: "Darkvision 60 ft., hulking changeling, witch's familiar (spider)"
 saves: "Fort +1, Ref –1, Will +4"
 abilities: "Str 10, Dex 8, Con 12, Int 15, Wis 14, Cha 15"
-skills: "Arcana +6, Craft (alchemy) +10, Medicine +6"
-skill-ranks: "Arcana 1, Craft (alchemy) 5, Medicine 1"
+skills: "Arcana +6, Craft (alchemy) +10, Medicine +6, Mysticism +6"
+skill-ranks: "Arcana 1, Craft (alchemy) 5, Medicine 1, Mysticism 1"
 feats: "Brew Potion, Combat Casting"
 environment: "Any"
 organization: "Solitary"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., hulking changeling, witch's familiar (spider)
   - **Saves**: Fort +1, Ref –1, Will +4
   - **Abilities**: Str 10, Dex 8, Con 12, Int 15, Wis 14, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +10, [[rangoric-srd/skills/Medicine|Medicine]] +6
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +10, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Mysticism|Mysticism]] +6
   - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Combat Casting|Combat Casting]]
   - **Environment**: Any
   - **Organization**: Solitary

@@ -18,8 +18,8 @@ special-attacks: "Bleeding touch (6/day), channel negative energy (4/day, 2d6, D
 special-qualities: "Darkvision 120 ft., poison use, immunity to sleep, spell resistance 14, light blindness"
 saves: "Fort +4, Ref +4, Will +6"
 abilities: "Str 12, Dex 17, Con 12, Int 10, Wis 17, Cha 12"
-skills: "Arcana +6, Sense Motive +9, Theology +6"
-skill-ranks: "Arcana 3, Sense Motive 3, Theology 3"
+skills: "Mysticism +6, Sense Motive +9, Theology +6"
+skill-ranks: "Mysticism 3, Sense Motive 3, Theology 3"
 feats: "Channel Smite, Weapon Finesse"
 environment: ""
 organization: ""
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/races/racial-traits/Poison Use|poison use]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 14, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
   - **Saves**: Fort +4, Ref +4, Will +6
   - **Abilities**: Str 12, Dex 17, Con 12, Int 10, Wis 17, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Theology|Theology]] +6
+  - **Skills**: [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Theology|Theology]] +6
   - **Feats**: [[rangoric-srd/feats/Channel Smite|Channel Smite]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
   - **Environment**: 
   - **Organization**: 

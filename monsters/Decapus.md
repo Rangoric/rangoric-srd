@@ -17,8 +17,8 @@ special-attacks: "Constrict (2d4+4), spell-like abilities"
 special-qualities: "Darkvision 60 ft., sound mimicry (voices), tentacles"
 saves: "Fort +4, Ref +3, Will +5"
 abilities: "Str 16, Dex 13, Con 15, Int 10, Wis 11, Cha 12"
-skills: "Acrobatics +7 (-1 jump), Arcana +6, Athletics +16, Deception +7, Escape Artist +5, Intimidation +7, Perception +11, Stealth +9"
-skill-ranks: "Acrobatics 3, Arcana 3, Athletics 10, Deception 3, Escape Artist 1, Intimidation 3, Perception 4, Stealth 5"
+skills: "Acrobatics +7 (-1 jump), Athletics +16, Deception +7, Escape Artist +5, Intimidation +7, Mysticism +6, Perception +11, Stealth +9"
+skill-ranks: "Acrobatics 3, Athletics 10, Deception 3, Escape Artist 1, Intimidation 3, Mysticism 3, Perception 4, Stealth 5"
 feats: "Skill Focus (Deception), Toughness, Weapon Focus (tentacles)"
 environment: "Temperate forests or underground"
 organization: "Solitary or mated pair"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Sound Mimicry|sound mimicry]] (voices), [[rangoric-srd/monsters/abilities/Tentacles (Decapus)|tentacles]]
   - **Saves**: Fort +4, Ref +3, Will +5
   - **Abilities**: Str 16, Dex 13, Con 15, Int 10, Wis 11, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7 (-1 jump), [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +9
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7 (-1 jump), [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +9
   - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception), [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacles)
   - **Environment**: Temperate forests or underground
   - **Organization**: Solitary or mated pair

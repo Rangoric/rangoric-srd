@@ -18,8 +18,8 @@ special-attacks: "Constrict (1d4+2)"
 special-qualities: "All-around vision, darkvision 60 ft., amphibious, hibernation, limited starflight, no breath, immunity to cold, resistance to fire 10"
 saves: "Fort +8, Ref +4, Will +8"
 abilities: "Str 15, Dex 14, Con 19, Int 20, Wis 16, Cha 17"
-skills: "Acrobatics +4, Arcana +15, Athletics +20, Emulation +10, Engineering +9, Fieldcraft +13, Investigation +9, Medicine +10, Perception +13"
-skill-ranks: "Acrobatics 2, Arcana 7, Athletics 15, Emulation 4, Engineering 4, Fieldcraft 7, Medicine 4, Perception 7"
+skills: "Acrobatics +4, Arcana +12, Athletics +20, Emulation +10, Engineering +9, Fieldcraft +13, Investigation +9, Medicine +10, Mysticism +15, Perception +13"
+skill-ranks: "Acrobatics 2, Arcana 4, Athletics 15, Emulation 4, Engineering 4, Fieldcraft 7, Medicine 4, Mysticism 7, Perception 7"
 feats: "Combat Expertise, Combat Reflexes, Endurance, Great Fortitude"
 environment: "Any"
 organization: "Solitary, pair, pod (3–8), or expedition (9–16)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], hibernation, limited [[rangoric-srd/monsters/abilities/Starflight|starflight]], [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
   - **Saves**: Fort +8, Ref +4, Will +8
   - **Abilities**: Str 15, Dex 14, Con 19, Int 20, Wis 16, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Emulation|Emulation]] +10, [[rangoric-srd/skills/Engineering|Engineering]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +13, [[rangoric-srd/skills/Investigation|Investigation]] +9, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Perception|Perception]] +13
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Emulation|Emulation]] +10, [[rangoric-srd/skills/Engineering|Engineering]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +13, [[rangoric-srd/skills/Investigation|Investigation]] +9, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Perception|Perception]] +13
   - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]]
   - **Environment**: Any
   - **Organization**: Solitary, pair, pod (3–8), or expedition (9–16)

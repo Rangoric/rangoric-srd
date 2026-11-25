@@ -17,8 +17,8 @@ special-attacks: "Hypnosis, sneak attack +3d6, poison"
 special-qualities: "Darkvision 60 ft., low-light vision"
 saves: "Fort +6, Ref +8, Will +9"
 abilities: "Str 14, Dex 19, Con 18, Int 13, Wis 16, Cha 17"
-skills: "Arcana +8, Deception +7, Nature +9, Perception +14, Persuasion +7, Stealth +14"
-skill-ranks: "Arcana 4, Deception 1, Nature 5, Perception 8, Persuasion 1, Stealth 11"
+skills: "Arcana +5, Deception +7, Mysticism +8, Nature +9, Perception +14, Persuasion +7, Stealth +14"
+skill-ranks: "Arcana 1, Deception 1, Mysticism 4, Nature 5, Perception 8, Persuasion 1, Stealth 11"
 feats: "Combat Casting, Dodge, Eschew Materials, Lightning Reflexes, Skill Focus (Stealth)"
 environment: "Any land"
 organization: "Solitary or nest (2–4)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
   - **Saves**: Fort +6, Ref +8, Will +9
   - **Abilities**: Str 14, Dex 19, Con 18, Int 13, Wis 16, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +14
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +5, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +14
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
   - **Environment**: Any land
   - **Organization**: Solitary or nest (2–4)

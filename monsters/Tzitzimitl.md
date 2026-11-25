@@ -17,8 +17,8 @@ special-attacks: "Eclipse, energy drain (2 levels, DC 31), spell-like abilities"
 special-qualities: "Arcane sight, darkvision 60 ft., true seeing, fast healing 15, channel resistance +4, light to dark, damage reduction 15/bludgeoning and good, immunity to cold and electricity, undead traits, resistance to fire 15, spell resistance 30"
 saves: "Fort +17, Ref +14, Will +19"
 abilities: "Str 39, Dex 21, Con —, Int 20, Wis 23, Cha 30"
-skills: "Acrobatics +35, Arcana +28, Emulation +30, Fieldcraft +21, Nature +27, Perception +31, Sense Motive +31, Theology +30"
-skill-ranks: "Acrobatics 33, Arcana 20, Emulation 17, Fieldcraft 12, Nature 19, Perception 22, Sense Motive 22, Theology 22"
+skills: "Acrobatics +35, Arcana +28, Emulation +30, Fieldcraft +21, Mysticism +23, Nature +27, Perception +31, Sense Motive +31, Theology +30"
+skill-ranks: "Acrobatics 33, Arcana 20, Emulation 17, Fieldcraft 12, Mysticism 15, Nature 19, Perception 22, Sense Motive 22, Theology 22"
 feats: "Awesome Blow, Combat Reflexes, Improved Bull Rush, Improved Critical (claw), Improved Initiative, Lightning Reflexes, Point Blank Shot, Power Attack, Precise Shot, Vital Strike, Weapon Focus (claw)"
 environment: "Any"
 organization: "Solitary"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: Arcane sight, [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., true seeing, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 15, [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Light to Dark|light to dark]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/bludgeoning and good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and electricity, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 15, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 30
   - **Saves**: Fort +17, Ref +14, Will +19
   - **Abilities**: Str 39, Dex 21, Con —, Int 20, Wis 23, Cha 30
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +35, [[rangoric-srd/skills/Arcana|Arcana]] +28, [[rangoric-srd/skills/Emulation|Emulation]] +30, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +21, [[rangoric-srd/skills/Nature|Nature]] +27, [[rangoric-srd/skills/Perception|Perception]] +31, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +31, [[rangoric-srd/skills/Theology|Theology]] +30
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +35, [[rangoric-srd/skills/Arcana|Arcana]] +28, [[rangoric-srd/skills/Emulation|Emulation]] +30, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +21, [[rangoric-srd/skills/Mysticism|Mysticism]] +23, [[rangoric-srd/skills/Nature|Nature]] +27, [[rangoric-srd/skills/Perception|Perception]] +31, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +31, [[rangoric-srd/skills/Theology|Theology]] +30
   - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
   - **Environment**: Any
   - **Organization**: Solitary

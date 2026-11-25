@@ -18,8 +18,8 @@ special-attacks: "Breath weapon (60-foot line, 11d6 acid, DC 19, 1/day), claws (
 special-qualities: "Bloodline arcana (spells that deal acid damage deal +1 damage per die), hold breath, resistance to acid 10"
 saves: "Fort +10, Ref +7, Will +10"
 abilities: "Str 17, Dex 10, Con 15, Int 11, Wis 8, Cha 18"
-skills: "Acrobatics +6, Arcana +8, Athletics +13, Emulation +13, Intimidation +9, Linguistics +1, Nature +3, Perception +4"
-skill-ranks: "Acrobatics 2, Arcana 5, Athletics 7, Emulation 6, Intimidation 2, Linguistics 1, Nature 3, Perception 2"
+skills: "Acrobatics +6, Arcana +5, Athletics +13, Emulation +13, Intimidation +9, Linguistics +1, Mysticism +8, Nature +3, Perception +4"
+skill-ranks: "Acrobatics 2, Arcana 2, Athletics 7, Emulation 6, Intimidation 2, Linguistics 1, Mysticism 5, Nature 3, Perception 2"
 feats: "Combat Casting, Elemental Focus (acid), Eschew Materials, Improved Initiative, Iron Will, Lightning Reflexes, Reach Spell, Toughness, Weapon Focus (claw)"
 environment: "Temperate swamps"
 organization: "Solitary, or with other lizardfolk (see Lizardfolk)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|Bloodline arcana]] (spells that deal acid damage deal +1 damage per die), [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10
   - **Saves**: Fort +10, Ref +7, Will +10
   - **Abilities**: Str 17, Dex 10, Con 15, Int 11, Wis 8, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Emulation|Emulation]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Linguistics|Linguistics]] +1, [[rangoric-srd/skills/Nature|Nature]] +3, [[rangoric-srd/skills/Perception|Perception]] +4
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Arcana|Arcana]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Emulation|Emulation]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Linguistics|Linguistics]] +1, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Nature|Nature]] +3, [[rangoric-srd/skills/Perception|Perception]] +4
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Elemental Focus|Elemental Focus]] (acid), [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], Lightning Reflexes, [[rangoric-srd/feats/Reach Spell|Reach Spell]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
   - **Environment**: Temperate swamps
   - **Organization**: Solitary, or with other lizardfolk (see [[rangoric-srd/monsters/lizardfolk/Lizardfolk|Lizardfolk]])

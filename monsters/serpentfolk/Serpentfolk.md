@@ -17,8 +17,8 @@ special-attacks: "Poison, spell-like abilities"
 special-qualities: "Darkvision 60 ft., scent, telepathy 100 ft., immunity to mind-affecting effects, paralysis and poison, spell resistance 15"
 saves: "Fort +6, Ref +9, Will +6"
 abilities: "Str 8, Dex 21, Con 17, Int 18, Wis 15, Cha 16"
-skills: "Acrobatics +10, Arcana +9, Emulation +12, Escape Artist +18, Imitation +8, Perception +10, Sense Motive +7"
-skill-ranks: "Acrobatics 2, Arcana 2, Emulation 2, Escape Artist 2, Imitation 2, Perception 5, Sense Motive 2"
+skills: "Acrobatics +10, Arcana +9, Emulation +12, Escape Artist +18, Imitation +8, Mysticism +9, Perception +10, Sense Motive +7"
+skill-ranks: "Acrobatics 2, Arcana 2, Emulation 2, Escape Artist 2, Imitation 2, Mysticism 2, Perception 5, Sense Motive 2"
 feats: "Great Fortitude, Improved Initiative, Weapon Finesse"
 environment: "Any land (usually jungles or underground)"
 organization: "Solitary, pair, or cult (3–12)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., immunity to mind-affecting effects, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and poison, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 15
   - **Saves**: Fort +6, Ref +9, Will +6
   - **Abilities**: Str 8, Dex 21, Con 17, Int 18, Wis 15, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Emulation|Emulation]] +12, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +18, [[rangoric-srd/skills/Imitation|Imitation]] +8, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Emulation|Emulation]] +12, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +18, [[rangoric-srd/skills/Imitation|Imitation]] +8, [[rangoric-srd/skills/Mysticism|Mysticism]] +9, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7
   - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
   - **Environment**: Any land (usually jungles or underground)
   - **Organization**: Solitary, pair, or cult (3–12)

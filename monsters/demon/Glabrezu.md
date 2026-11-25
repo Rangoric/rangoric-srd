@@ -18,8 +18,8 @@ special-attacks: "Rend (2 pincers, 2d8+15), spell-like abilities"
 special-qualities: "Darkvision 60 ft., true seeing, telepathy 100 ft., damage reduction 10/good, immunity to electricity and poison, resistance to acid 10, cold 10 and fire 10, spell resistance 24"
 saves: "Fort +18, Ref +4, Will +11"
 abilities: "Str 31, Dex 11, Con 31, Int 16, Wis 16, Cha 20"
-skills: "Deception +28, Emulation +17, Intimidation +18, Perception +26, Persuasion +24, Sense Motive +18, Society +18, Stealth +7"
-skill-ranks: "Deception 12, Emulation 9, Intimidation 14, Perception 12, Persuasion 14, Sense Motive 12, Society 12, Stealth 12"
+skills: "Deception +28, Emulation +17, Intimidation +18, Mysticism +18, Perception +26, Persuasion +24, Sense Motive +18, Society +18, Stealth +7"
+skill-ranks: "Deception 12, Emulation 9, Intimidation 14, Mysticism 12, Perception 12, Persuasion 14, Sense Motive 12, Society 12, Stealth 12"
 feats: "Cleave, Great Cleave, Improved Critical (pincer), Power Attack, Vital Strike, Skill Focus (Persuasion)"
 environment: "A chaotic evil-aligned plane"
 organization: "Solitary or troop (1 glabrezu, 1 succubus, and 2–5 vrocks)"
@@ -54,7 +54,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., *[[rangoric-srd/spells/True Seeing|true seeing]]*, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 24
   - **Saves**: Fort +18, Ref +4, Will +11
   - **Abilities**: Str 31, Dex 11, Con 31, Int 16, Wis 16, Cha 20
-  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +28, [[rangoric-srd/skills/Emulation|Emulation]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Persuasion|Persuasion]] +24, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Society|Society]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +7
+  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +28, [[rangoric-srd/skills/Emulation|Emulation]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Mysticism|Mysticism]] +18, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Persuasion|Persuasion]] +24, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Society|Society]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +7
   - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (pincer), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion)
   - **Environment**: A chaotic evil-aligned plane
   - **Organization**: Solitary or troop (1 glabrezu, 1 succubus, and 2–5 vrocks)
