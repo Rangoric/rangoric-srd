@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Darkvision 60 ft., scent, oracle's curse (tongues), revelations (battlefield clarity 1/day, surprising charge 1/day), stalker"
 saves: "Fort +6, Ref +9, Will +6"
 abilities: "Str 16, Dex 16, Con 15, Int 12, Wis 8, Cha 14"
-skills: "Arcana +7, Fieldcraft +5, Intimidation +18, Perception +14, Stealth +18, Theology +7"
-skill-ranks: "Arcana 3, Fieldcraft 3, Intimidation 13, Perception 12, Stealth 12, Theology 3"
+skills: "Fieldcraft +5, Intimidation +18, Mysticism +7, Perception +14, Stealth +18, Theology +7"
+skill-ranks: "Fieldcraft 3, Intimidation 13, Mysticism 3, Perception 12, Stealth 12, Theology 3"
 feats: "Blind-Fight, Combat Casting, Dodge, Skill Focus (Perception), Spell Focus (necromancy)"
 environment: "Temperate mountains"
 organization: "Solitary, or with other bugbears (see Bugbear)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/classes/Oracle#^oracle-curse|oracle’s curse]] ([[rangoric-srd/class-options/curses/Tongues Curse|tongues]]), [[rangoric-srd/classes/Oracle#^oracle-revelation|revelations]] ([[rangoric-srd/class-options/revelations/Battlefield Clarity (Revelation)|battlefield clarity]] 1/day, [[rangoric-srd/class-options/revelations/Surprising Charge (Revelation)|surprising charge]] 1/day), [[rangoric-srd/monsters/bugbear/Bugbear|stalker]]
   - **Saves**: Fort +6, Ref +9, Will +6
   - **Abilities**: Str 16, Dex 16, Con 15, Int 12, Wis 8, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +18, [[rangoric-srd/skills/Theology|Theology]] +7
+  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +18, [[rangoric-srd/skills/Theology|Theology]] +7
   - **Feats**: Blind-Fight, [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (necromancy)
   - **Environment**: Temperate mountains
   - **Organization**: Solitary, or with other bugbears (see [[rangoric-srd/monsters/bugbear/Bugbear|Bugbear]])

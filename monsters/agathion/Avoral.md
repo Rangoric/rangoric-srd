@@ -18,8 +18,8 @@ special-attacks: "Fear aura (20 ft., DC 17), spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect magic, low-light vision, see invisibility, true seeing, lay on hands (4d6, 7/day, as a 9th-level paladin), damage reduction 10/evil or silver, immunity to electricity and petrification, resistance to cold 10 and sonic 10, spell resistance 20"
 saves: "Fort +11, Ref +12, Will +6"
 abilities: "Str 17, Dex 23, Con 20, Int 15, Wis 16, Cha 16"
-skills: "Acrobatics +22, Animal Handling +9, Arcana +11, Deception +10, Intimidation +15, Knowledge +14, Perception +23, Persuasion +7, Sense Motive +15, Stealth +18"
-skill-ranks: "Acrobatics 13, Animal Handling 3, Arcana 6, Deception 4, Intimidation 9, Knowledge 9, Perception 17, Persuasion 1, Sense Motive 9, Stealth 9"
+skills: "Acrobatics +22, Animal Handling +9, Deception +10, Intimidation +15, Knowledge +14, Mysticism +11, Perception +23, Persuasion +7, Sense Motive +15, Stealth +18"
+skill-ranks: "Acrobatics 13, Animal Handling 3, Deception 4, Intimidation 9, Knowledge 9, Mysticism 6, Perception 17, Persuasion 1, Sense Motive 9, Stealth 9"
 feats: "Dodge, Empower Spell-Like Ability (magic missile), Flyby Attack, Weapon Finesse, Weapon Focus (claw)"
 environment: "Air of a neutral good-aligned plane"
 organization: "Solitary, pair, or squad (3–6)"
@@ -54,7 +54,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], see invisibility, true seeing, lay on hands (4d6, 7/day, as a 9th-level paladin), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil or silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and sonic 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20
   - **Saves**: Fort +11, Ref +12, Will +6
   - **Abilities**: Str 17, Dex 23, Con 20, Int 15, Wis 16, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +22, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +9, [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Knowledge|Knowledge]] +14, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +18
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +22, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +9, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Knowledge|Knowledge]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +18
   - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Empower Spell-Like Ability|Empower Spell-Like Ability]] (magic missile), [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
   - **Environment**: Air of a neutral good-aligned plane
   - **Organization**: Solitary, pair, or squad (3–6)

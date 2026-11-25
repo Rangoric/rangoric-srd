@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy 5/day (DC 17, 5d6), scythe of evil (5 
 special-qualities: "Darkvision 60 ft., low-light vision, hold breath, priest-king, swamp stride, resistance to cold 10"
 saves: "Fort +14, Ref +6, Will +14"
 abilities: "Str 18, Dex 9, Con 16, Int 10, Wis 20, Cha 14"
-skills: "Acrobatics +0, Arcana +8, Athletics +10 (+26 jumping), Perception +9, Persuasion +8, Sense Motive +13, Stealth +0 (+8 in swamps), Theology +8"
-skill-ranks: "Acrobatics 1, Arcana 5, Athletics 3, Perception 1, Persuasion 3, Sense Motive 5, Stealth 1, Theology 5"
+skills: "Acrobatics +0, Athletics +10 (+26 jumping), Mysticism +8, Perception +9, Persuasion +8, Sense Motive +13, Stealth +0 (+8 in swamps), Theology +8"
+skill-ranks: "Acrobatics 1, Athletics 3, Mysticism 5, Perception 1, Persuasion 3, Sense Motive 5, Stealth 1, Theology 5"
 feats: "Brew Potion, Combat Casting, Craft Wand, Improved Initiative, Lightning Reflexes, Toughness, Weapon Focus (morningstar)"
 environment: "Temperate marshes"
 organization: "Solitary, or with other boggards (see Boggard)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/boggard/Boggard#^priest-kings|priest-king]], [[rangoric-srd/monsters/boggard/Boggard#^swamp-stride|swamp stride]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10
   - **Saves**: Fort +14, Ref +6, Will +14
   - **Abilities**: Str 18, Dex 9, Con 16, Int 10, Wis 20, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +0, [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+26 jumping), [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +0 (+8 in swamps), [[rangoric-srd/skills/Theology|Theology]] +8
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +0, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+26 jumping), [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +0 (+8 in swamps), [[rangoric-srd/skills/Theology|Theology]] +8
   - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Craft Wand|Craft Wand]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (morningstar)
   - **Environment**: Temperate marshes
   - **Organization**: Solitary, or with other boggards (see [[rangoric-srd/monsters/boggard/Boggard|Boggard]])

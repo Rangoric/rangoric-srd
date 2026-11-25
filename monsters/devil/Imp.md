@@ -18,8 +18,8 @@ special-attacks: "Poison, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect good, detect magic, see in darkness, fast healing 2, change shape (boar, giant spider, rat, or raven, beast shape I), damage reduction 5/good or silver, immunity to fire and poison, resistance to acid 10 and cold 10"
 saves: "Fort +1, Ref +6, Will +4"
 abilities: "Str 10, Dex 17, Con 10, Int 13, Wis 12, Cha 14"
-skills: "Acrobatics +21, Arcana +7, Deception +8, Perception +7, Theology +7"
-skill-ranks: "Acrobatics 11, Arcana 3, Deception 3, Perception 3, Theology 3"
+skills: "Acrobatics +21, Arcana +7, Deception +8, Mysticism +7, Perception +7, Theology +7"
+skill-ranks: "Acrobatics 11, Arcana 3, Deception 3, Mysticism 3, Perception 3, Theology 3"
 feats: "Dodge, Weapon Finesse"
 environment: "A lawful evil-aligned plane"
 organization: "Solitary, pair, or flock (3–10)"
@@ -54,7 +54,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., *[[rangoric-srd/spells/Detect Good|detect good]]*, *[[rangoric-srd/spells/Detect Magic|detect magic]]*, [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (boar, giant spider, rat, or raven, beast shape I), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good or silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10
   - **Saves**: Fort +1, Ref +6, Will +4
   - **Abilities**: Str 10, Dex 17, Con 10, Int 13, Wis 12, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +21, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Theology|Theology]] +7
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +21, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Theology|Theology]] +7
   - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
   - **Environment**: A lawful evil-aligned plane
   - **Organization**: Solitary, pair, or flock (3–10)

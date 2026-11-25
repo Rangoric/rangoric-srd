@@ -18,8 +18,8 @@ special-attacks: "Beckoning call, constrict (2d6+7), tresses, spell-like abiliti
 special-qualities: "Low-light vision, amphibious, damage reduction 15/cold iron, immunity to fire, spell resistance 23"
 saves: "Fort +12, Ref +18, Will +15"
 abilities: "Str 20, Dex 23, Con 19, Int 12, Wis 13, Cha 24"
-skills: "Acrobatics +14, Arcana +18, Athletics +31, Deception +24, Escape Artist +18, Nature +18, Perception +22, Perform (dance) +14, Perform (sing) +27, Persuasion +15, Sense Motive +15, Stealth +27"
-skill-ranks: "Acrobatics 5, Arcana 14, Athletics 23, Deception 14, Escape Artist 9, Nature 14, Perception 18, Perform (dance) 10, Perform (sing) 23, Persuasion 5, Sense Motive 11, Stealth 18"
+skills: "Acrobatics +14, Arcana +6, Athletics +31, Deception +24, Escape Artist +18, Mysticism +18, Nature +18, Perception +22, Perform (dance) +14, Perform (sing) +27, Persuasion +15, Sense Motive +15, Stealth +27"
+skill-ranks: "Acrobatics 5, Arcana 2, Athletics 23, Deception 14, Escape Artist 9, Mysticism 14, Nature 14, Perception 18, Perform (dance) 10, Perform (sing) 23, Persuasion 5, Sense Motive 11, Stealth 18"
 feats: "Agile Maneuvers, Combat Reflexes, Dodge, Great Fortitude, Improved Initiative, Iron Will, Quicken Spell-Like Ability (charm monster), Skill Focus (Perception), Skill Focus (Stealth), Weapon Finesse"
 environment: "Any water"
 organization: "Solitary, pair, or eddy (3–6)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23
   - **Saves**: Fort +12, Ref +18, Will +15
   - **Abilities**: Str 20, Dex 23, Con 19, Int 12, Wis 13, Cha 24
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Arcana|Arcana]] +18, [[rangoric-srd/skills/Athletics|Athletics]] +31, [[rangoric-srd/skills/Deception|Deception]] +24, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +18, [[rangoric-srd/skills/Nature|Nature]] +18, [[rangoric-srd/skills/Perception|Perception]] +22, Perform (dance) +14, Perform (sing) +27, [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +27
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +31, [[rangoric-srd/skills/Deception|Deception]] +24, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +18, [[rangoric-srd/skills/Mysticism|Mysticism]] +18, [[rangoric-srd/skills/Nature|Nature]] +18, [[rangoric-srd/skills/Perception|Perception]] +22, Perform (dance) +14, Perform (sing) +27, [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +27
   - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (charm monster), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
   - **Environment**: Any water
   - **Organization**: Solitary, pair, or eddy (3–6)

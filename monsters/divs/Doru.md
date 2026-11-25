@@ -18,8 +18,8 @@ special-attacks: "Poison, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect good, detect magic, see in darkness, telepathy 100 ft., damage reduction 10/cold iron or good, immunity to fire and poison, resistance to acid 10 and electricity 10, spell resistance 13"
 saves: "Fort +3, Ref +4, Will +4"
 abilities: "Str 8, Dex 17, Con 10, Int 10, Wis 12, Cha 14"
-skills: "Acrobatics +15, Arcana +6, Deception +8, Perception +7, Stealth +17, Theology +6"
-skill-ranks: "Acrobatics 5, Arcana 3, Deception 3, Perception 3, Stealth 3, Theology 3"
+skills: "Acrobatics +15, Arcana +6, Deception +8, Mysticism +6, Perception +7, Stealth +17, Theology +6"
+skill-ranks: "Acrobatics 5, Arcana 3, Deception 3, Mysticism 3, Perception 3, Stealth 3, Theology 3"
 feats: "Weapon Finesse, Weapon Focus (bite)"
 environment: "Any (a neutral evil-aligned plane: Abaddon)"
 organization: "Solitary"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect good, detect magic, [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron or good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and electricity 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 13
   - **Saves**: Fort +3, Ref +4, Will +4
   - **Abilities**: Str 8, Dex 17, Con 10, Int 10, Wis 12, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +6
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +6
   - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
   - **Environment**: Any (a neutral evil-aligned plane: [[rangoric-srd/rules/planes/Abaddon|Abaddon]])
   - **Organization**: Solitary

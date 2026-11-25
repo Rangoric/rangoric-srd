@@ -18,8 +18,8 @@ special-attacks: "Chilling touch, fascinating gaze, spell-like abilities"
 special-qualities: "Darkvision 60 ft., snowstorm (200 ft.), incorporeal, immunity to cold, undead traits, vulnerable to fire, snow dependency"
 saves: "Fort +9, Ref +7, Will +11"
 abilities: "Str —, Dex 18, Con —, Int 17, Wis 21, Cha 22"
-skills: "Acrobatics +12, Arcana +15, Deception +15, Fieldcraft +14, Intimidation +18, Perception +17, Sense Motive +17, Stealth +16"
-skill-ranks: "Acrobatics 5, Arcana 9, Deception 6, Fieldcraft 6, Intimidation 9, Perception 9, Sense Motive 9, Stealth 9"
+skills: "Acrobatics +12, Deception +15, Fieldcraft +14, Intimidation +18, Mysticism +15, Perception +17, Sense Motive +17, Stealth +16"
+skill-ranks: "Acrobatics 5, Deception 6, Fieldcraft 6, Intimidation 9, Mysticism 9, Perception 9, Sense Motive 9, Stealth 9"
 feats: "Combat Casting, Dodge, Improved Initiative, Mobility, Spring Attack"
 environment: "Any cold"
 organization: "Solitary"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Snowstorm|snowstorm]] (200 ft.), [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], vulnerable to fire, [[rangoric-srd/monsters/abilities/Snow Dependency|snow dependency]]
   - **Saves**: Fort +9, Ref +7, Will +11
   - **Abilities**: Str —, Dex 18, Con —, Int 17, Wis 21, Cha 22
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +16
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +16
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]]
   - **Environment**: Any cold
   - **Organization**: Solitary

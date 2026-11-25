@@ -18,8 +18,8 @@ special-attacks: "Fear aura (5 ft., DC 23), spell-like abilities"
 special-qualities: "Darkvision 60 ft., see in darkness, regeneration 5 (good weapons, good spells), telepathy 100 ft., damage reduction 10/good and silver, immunity to fire and poison, resistance to acid 10 and cold 10, spell resistance 27"
 saves: "Fort +18, Ref +17, Will +13"
 abilities: "Str 31, Dex 27, Con 28, Int 14, Wis 22, Cha 23"
-skills: "Acrobatics +15, Arcana +20, Deception +24, Intimidation +24, Perception +24, Persuasion +21, Sense Motive +21, Stealth +22, Theology +20"
-skill-ranks: "Acrobatics 6, Arcana 15, Deception 15, Intimidation 15, Perception 15, Persuasion 12, Sense Motive 12, Stealth 15, Theology 15"
+skills: "Acrobatics +15, Deception +24, Intimidation +24, Mysticism +20, Perception +24, Persuasion +21, Sense Motive +21, Stealth +22, Theology +20"
+skill-ranks: "Acrobatics 6, Deception 15, Intimidation 15, Mysticism 15, Perception 15, Persuasion 12, Sense Motive 12, Stealth 15, Theology 15"
 feats: "Improved Bull Rush, Improved Sunder, Improved Vital Strike, Iron Will, Multiattack, Power Attack, Vital Strike, Weapon Focus (spiked chain)"
 environment: "A lawful evil-aligned plane"
 organization: "Solitary, pair, wing (3–10), team (2–4), or squad (6–10)"
@@ -54,7 +54,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (good weapons, good spells), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good and silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27
   - **Saves**: Fort +18, Ref +17, Will +13
   - **Abilities**: Str 31, Dex 27, Con 28, Int 14, Wis 22, Cha 23
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Arcana|Arcana]] +20, [[rangoric-srd/skills/Deception|Deception]] +24, [[rangoric-srd/skills/Intimidation|Intimidation]] +24, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Persuasion|Persuasion]] +21, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +22, [[rangoric-srd/skills/Theology|Theology]] +20
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Deception|Deception]] +24, [[rangoric-srd/skills/Intimidation|Intimidation]] +24, [[rangoric-srd/skills/Mysticism|Mysticism]] +20, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Persuasion|Persuasion]] +21, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +22, [[rangoric-srd/skills/Theology|Theology]] +20
   - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spiked chain)
   - **Environment**: A lawful evil-aligned plane
   - **Organization**: Solitary, pair, wing (3–10), team (2–4), or squad (6–10)

@@ -19,8 +19,8 @@ special-attacks: "Breath weapon, improved grab, psi-like abilities, swallow whol
 special-qualities: "Blindsight 100 ft., damage reduction 5/-, power resistance 25"
 saves: "Fort +16, Ref +6, Will +16"
 abilities: "Str 30, Dex 7, Con 27, Int 16, Wis 15, Cha 20"
-skills: "Athletics +38, Psionics +31, Perception +30"
-skill-ranks: "Athletics 25, Perception 25, Psionics 25"
+skills: "Athletics +38, Mysticism +31, Psionics +31, Perception +30"
+skill-ranks: "Athletics 25, Mysticism 25, Perception 25, Psionics 25"
 feats: "Cleave, Improved Critical (tentacle rake), Improved Initiative, Power Attack, Psionic Endowment, Psionic Fist, Quickened Focus, Speed of Thought, Wild Talent"
 environment: "Underground"
 organization: "Solitary"
@@ -52,7 +52,7 @@ Full **Attack:** 4 tentacle rakes +24 melee (2d6+10/19-20)   
 **Special Qualities:** [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, power resistance 25     
 **Saves:** Fort +16, Ref +6, Will +16     
 **Abilities:** Str 30, Dex 7, Con 27, Int 16, Wis 15, Cha 20     
-**Skills:** [[rangoric-srd/skills/Athletics|Athletics]] +38, [[rangoric-srd/skills/Perception|Perception]] +30, [[rangoric-srd/skills/Psionics (Skill)|Psionics]] +31     
+**Skills:** [[rangoric-srd/skills/Athletics|Athletics]] +38, [[rangoric-srd/skills/Mysticism|Mysticism]] +31, [[rangoric-srd/skills/Perception|Perception]] +30, [[rangoric-srd/skills/Psionics (Skill)|Psionics]] +31     
 **Unspent Skill Points**: 50
 **Feats:** [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (tentacle rake), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Psionic Endowment|Psionic Endowment]], [[rangoric-srd/feats/Psionic Fist (Feat)|Psionic Fist]], [[rangoric-srd/feats/Quickened Focus|Quickened Focus]], [[rangoric-srd/feats/Speed of Thought|Speed of Thought]], [[rangoric-srd/feats/Wild Talent|Wild Talent]]     
 **Environment:** Underground     

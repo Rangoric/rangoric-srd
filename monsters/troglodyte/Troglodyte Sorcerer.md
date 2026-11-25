@@ -18,8 +18,8 @@ special-attacks: "Claws (1d6, 6 rounds/day)"
 special-qualities: "Darkvision 90 ft., stench (30 ft., DC 13, 10 rounds), bloodline arcana (summoned creatures gain DR 2/good), resistance to electricity 5"
 saves: "Fort +7, Ref +3, Will +6 (+2 vs. poison)"
 abilities: "Str 10, Dex 13, Con 14, Int 10, Wis 13, Cha 16"
-skills: "Arcana +7, Stealth +9 (+13 in rocky areas), Theology +4"
-skill-ranks: "Arcana 4, Stealth 5, Theology 1"
+skills: "Arcana +7, Mysticism +6, Stealth +9 (+13 in rocky areas), Theology +4"
+skill-ranks: "Arcana 4, Mysticism 3, Stealth 5, Theology 1"
 feats: "Combat Casting, Eschew Materials, Silent Spell, Spell Focus (evocation)"
 environment: "Any underground"
 organization: "Solitary, or with other troglodytes (see Troglodyte)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft., [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., DC 13, 10 rounds), [[rangoric-srd/class-options/bloodlines/Abyssal Bloodline|bloodline arcana]] (summoned creatures gain DR 2/good), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 5
   - **Saves**: Fort +7, Ref +3, Will +6 (+2 vs. poison)
   - **Abilities**: Str 10, Dex 13, Con 14, Int 10, Wis 13, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +9 (+13 in rocky areas), [[rangoric-srd/skills/Theology|Theology]] +4
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +9 (+13 in rocky areas), [[rangoric-srd/skills/Theology|Theology]] +4
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Silent Spell|Silent Spell]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (evocation)
   - **Environment**: Any underground
   - **Organization**: Solitary, or with other troglodytes (see [[rangoric-srd/monsters/troglodyte/Troglodyte|Troglodyte]])

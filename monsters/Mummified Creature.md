@@ -18,8 +18,8 @@ special-attacks: "Burst of vengeance, dust stroke, pounce, rake (2 claws +19, 3d
 special-qualities: "Darkvision 60 ft., detect magic, low-light vision, see invisibility, frightful presence (30 ft., DC 20, 1d6 rounds), damage reduction 5/-, undead traits, vulnerable to fire"
 saves: "Fort +12, Ref +9, Will +10"
 abilities: "Str 26, Dex 13, Con —, Int 16, Wis 19, Cha 19"
-skills: "Acrobatics +2, Arcana +11, Deception +12, Intimidation +12, Perception +23, Persuasion +12, Sense Motive +16, Society +5, Stealth +12, Theology +5"
-skill-ranks: "Acrobatics 3, Arcana 5, Deception 5, Intimidation 5, Perception 14, Persuasion 5, Sense Motive 11, Society 2, Stealth 8, Theology 2"
+skills: "Acrobatics +2, Deception +12, Intimidation +12, Mysticism +11, Perception +23, Persuasion +12, Sense Motive +16, Society +5, Stealth +12, Theology +5"
+skill-ranks: "Acrobatics 3, Deception 5, Intimidation 5, Mysticism 5, Perception 14, Persuasion 5, Sense Motive 11, Society 2, Stealth 8, Theology 2"
 feats: "Combat Casting, Hover, Improved Critical (claw), Improved Initiative, Improved Natural Attack (claw), Iron Will, Toughness, Skill Focus (Perception)"
 environment: "Warm ruins"
 organization: "Solitary"
@@ -55,7 +55,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], see invisibility, [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (30 ft., DC 20, 1d6 rounds), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], vulnerable to fire
   - **Saves**: Fort +12, Ref +9, Will +10
   - **Abilities**: Str 26, Dex 13, Con —, Int 16, Wis 19, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Persuasion|Persuasion]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +5
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Persuasion|Persuasion]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +5
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]] (claw), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
   - **Environment**: Warm ruins
   - **Organization**: Solitary

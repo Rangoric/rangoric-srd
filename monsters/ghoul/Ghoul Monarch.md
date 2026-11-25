@@ -17,8 +17,8 @@ special-attacks: "Disease (DC 23), paralysis (1d4+1 rounds, DC 23, elves are imm
 special-qualities: "Darkvision 60 ft., channel resistance +2, nondetection, bloodline arcana (heal when casting necromancy spells), undead traits, resistance to cold 10"
 saves: "Fort +10, Ref +12, Will +14"
 abilities: "Str 13, Dex 22, Con —, Int 15, Wis 16, Cha 22"
-skills: "Arcana +19, Deception +13, Intimidation +23, Perception +20, Stealth +28"
-skill-ranks: "Arcana 14, Deception 4, Intimidation 14, Perception 14, Stealth 19"
+skills: "Deception +13, Intimidation +23, Mysticism +19, Perception +20, Stealth +28"
+skill-ranks: "Deception 4, Intimidation 14, Mysticism 14, Perception 14, Stealth 19"
 feats: "Eschew Materials, Improved Initiative, Lightning Reflexes, Old as Dust, Quicken Spell, Sleeper, Toughness, Warren Digger, Weapon Finesse"
 environment: "Any land"
 organization: "Solitary, or with other ghouls (see Ghoul)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, nondetection, [[rangoric-srd/class-options/bloodlines/Ghoul Bloodline|bloodline arcana]] (heal when casting necromancy spells), [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10
   - **Saves**: Fort +10, Ref +12, Will +14
   - **Abilities**: Str 13, Dex 22, Con —, Int 15, Wis 16, Cha 22
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +19, [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +23, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Stealth|Stealth]] +28
+  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +23, [[rangoric-srd/skills/Mysticism|Mysticism]] +19, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Stealth|Stealth]] +28
   - **Feats**: [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Old as Dust|Old as Dust]], [[rangoric-srd/feats/Quicken Spell|Quicken Spell]], [[rangoric-srd/feats/Sleeper|Sleeper]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Warren Digger|Warren Digger]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
   - **Environment**: Any land
   - **Organization**: Solitary, or with other ghouls (see [[rangoric-srd/monsters/ghoul/Ghoul|Ghoul]])

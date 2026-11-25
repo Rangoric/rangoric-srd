@@ -17,8 +17,8 @@ special-attacks: "Accursed breath, soul corruption"
 special-qualities: "Darkvision 60 ft., low-light vision, speed surge, immunity to curses, energy drain, negative energy, paralysis and sleep"
 saves: "Fort +10, Ref +7, Will +6"
 abilities: "Str 22, Dex 12, Con 19, Int 10, Wis 11, Cha 15"
-skills: "Acrobatics +10, Arcana +10, Athletics +20, Emulation +13, Perception +11, Theology +10"
-skill-ranks: "Acrobatics 8, Arcana 7, Athletics 11, Emulation 8, Perception 8, Theology 7"
+skills: "Acrobatics +10, Arcana +10, Athletics +20, Emulation +13, Mysticism +10, Perception +11, Theology +10"
+skill-ranks: "Acrobatics 8, Arcana 7, Athletics 11, Emulation 8, Mysticism 7, Perception 8, Theology 7"
 feats: "Flyby Attack, Power Attack, Vital Strike, Wingover"
 environment: "Any hills"
 organization: "Solitary, pair, or rampage (3–12)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Speed Surge (Spire Drake)|speed surge]], immunity to curses, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]], negative energy, paralysis and sleep
   - **Saves**: Fort +10, Ref +7, Will +6
   - **Abilities**: Str 22, Dex 12, Con 19, Int 10, Wis 11, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Emulation|Emulation]] +13, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Theology|Theology]] +10
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Emulation|Emulation]] +13, [[rangoric-srd/skills/Mysticism|Mysticism]] +10, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Theology|Theology]] +10
   - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Wingover|Wingover]]
   - **Environment**: Any hills
   - **Organization**: Solitary, pair, or rampage (3–12)

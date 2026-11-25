@@ -17,8 +17,8 @@ special-attacks: "Despair, hunefer rot, spell-like abilities"
 special-qualities: "Blindsight 300 ft., DR 10/-, fast healing 30, SR 37, undead traits, fire vulnerability"
 saves: "Fort +18, Ref +30, Will +41"
 abilities: "Str 47, Dex 35, Con -, Int 18, Wis 38, Cha 36"
-skills: "Athletics +71 (+99 jumping), Theology +57, Perception +67, Investigation +57, Sense Motive +67"
-skill-ranks: "Athletics 50, Investigation 50, Perception 50, Sense Motive 50, Theology 50"
+skills: "Athletics +71 (+99 jumping), Mysticism +57, Theology +57, Perception +67, Investigation +57, Sense Motive +67"
+skill-ranks: "Athletics 50, Investigation 50, Mysticism 50, Perception 50, Sense Motive 50, Theology 50"
 feats: "Cleave, Combat Reflexes, Dodge, Expertise, Great Cleave, Great Fortitude, Improved Critical (slam), Improved Disarm, Improved Initiative, Lightning Reflexes, Mobility, Power Attack, Toughness, Weapon Focus (slam)"
 epic-feats: "Devastating Critical (slam), Overwhelming Critical (slam), Spell Stowaway (greater teleport)"
 environment: "Any"
@@ -51,7 +51,7 @@ Special Attacks: Despair, hunefer rot, spell-like abilities    
 Special Qualities: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 300 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/-, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 30, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 37, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|fire vulnerability]]      
 Saves: Fort +18, Ref +30, Will +41      
 Abilities: Str 47, Dex 35, Con -, Int 18, Wis 38, Cha 36      
-Skills: [[rangoric-srd/skills/Athletics|Athletics]] +71 (+99 jumping), [[rangoric-srd/skills/Investigation|Investigation]] +57, [[rangoric-srd/skills/Perception|Perception]] +67, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +67, [[rangoric-srd/skills/Theology|Theology]] +57     
+Skills: [[rangoric-srd/skills/Athletics|Athletics]] +71 (+99 jumping), [[rangoric-srd/skills/Investigation|Investigation]] +57, [[rangoric-srd/skills/Mysticism|Mysticism]] +57, [[rangoric-srd/skills/Perception|Perception]] +67, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +67, [[rangoric-srd/skills/Theology|Theology]] +57     
 **Unspent Skill Points**: 150
 Feats: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Feats All|Expertise]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (slam), [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)      
 Epic Feats: [[rangoric-srd/feats/Devastating Critical|Devastating Critical]] (slam), [[rangoric-srd/feats/Overwhelming Critical|Overwhelming Critical]] (slam), [[rangoric-srd/feats/Spell Stowaway|Spell Stowaway]] (greater teleport)      

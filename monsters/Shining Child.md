@@ -18,8 +18,8 @@ special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 120 ft., blinding light (60 feet), telepathy 120 ft., radiant armor, immunity to blindness, fire and poison, resistance to cold 10 and sonic 10"
 saves: "Fort +14, Ref +10, Will +10"
 abilities: "Str 10, Dex 17, Con 18, Int 15, Wis 11, Cha 24"
-skills: "Acrobatics +11, Arcana +21, Deception +26, Emulation +26, Intimidation +26, Perception +25, Persuasion +23, Theology +21"
-skill-ranks: "Acrobatics 5, Arcana 16, Deception 16, Emulation 16, Intimidation 16, Perception 22, Persuasion 13, Theology 16"
+skills: "Acrobatics +11, Arcana +21, Deception +26, Emulation +26, Intimidation +26, Mysticism +21, Perception +25, Persuasion +23, Theology +21"
+skill-ranks: "Acrobatics 5, Arcana 16, Deception 16, Emulation 16, Intimidation 16, Mysticism 16, Perception 22, Persuasion 13, Theology 16"
 feats: "Ability Focus (blinding light), Dodge, Improved Initiative, Lightning Reflexes, Mobility, Skill Focus (Perception), Spring Attack, Weapon Finesse"
 environment: "Any land (extraplanar)"
 organization: "Solitary, visitation (2–9), or incursion (11–20)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Blinding Light|blinding light]] (60 feet), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 120 ft., [[rangoric-srd/monsters/abilities/Radiant Armor|radiant armor]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to blindness, fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and sonic 10
   - **Saves**: Fort +14, Ref +10, Will +10
   - **Abilities**: Str 10, Dex 17, Con 18, Int 15, Wis 11, Cha 24
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +21, [[rangoric-srd/skills/Deception|Deception]] +26, [[rangoric-srd/skills/Emulation|Emulation]] +26, [[rangoric-srd/skills/Intimidation|Intimidation]] +26, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Persuasion|Persuasion]] +23, [[rangoric-srd/skills/Theology|Theology]] +21
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +21, [[rangoric-srd/skills/Deception|Deception]] +26, [[rangoric-srd/skills/Emulation|Emulation]] +26, [[rangoric-srd/skills/Intimidation|Intimidation]] +26, [[rangoric-srd/skills/Mysticism|Mysticism]] +21, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Persuasion|Persuasion]] +23, [[rangoric-srd/skills/Theology|Theology]] +21
   - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (blinding light), [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
   - **Environment**: Any land (extraplanar)
   - **Organization**: Solitary, visitation (2–9), or incursion (11–20)

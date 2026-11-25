@@ -18,8 +18,8 @@ special-attacks: "Detect thoughts (DC 18), energy bolts"
 special-qualities: "Darkvision 60 ft., change shape (any humanoid; alter self), damage reduction 10/good and piercing, spell resistance 23"
 saves: "Fort +8, Ref +11, Will +9"
 abilities: "Str 14, Dex 21, Con 20, Int 11, Wis 13, Cha 18"
-skills: "Acrobatics +14, Arcana +8, Athletics +7 (+11 jumping), Deception +20, Imitation +16, Perception +10, Sense Motive +12"
-skill-ranks: "Acrobatics 6, Arcana 5, Athletics 2, Deception 9, Imitation 1, Perception 6, Sense Motive 8"
+skills: "Acrobatics +14, Arcana +8, Athletics +7 (+11 jumping), Deception +20, Imitation +16, Mysticism +8, Perception +10, Sense Motive +12"
+skill-ranks: "Acrobatics 6, Arcana 5, Athletics 2, Deception 9, Imitation 1, Mysticism 5, Perception 6, Sense Motive 8"
 feats: "Dodge, Iron Will, Silent Spell, Still Spell, Weapon Finesse"
 environment: "Any"
 organization: "Solitary, pair, cult (3–12)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (any humanoid; alter self), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good and piercing, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23
   - **Saves**: Fort +8, Ref +11, Will +9
   - **Abilities**: Str 14, Dex 21, Con 20, Int 11, Wis 13, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +7 (+11 jumping), [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Imitation|Imitation]] +16, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +7 (+11 jumping), [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Imitation|Imitation]] +16, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12
   - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Silent Spell|Silent Spell]], [[rangoric-srd/feats/Still Spell|Still Spell]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
   - **Environment**: Any
   - **Organization**: Solitary, pair, cult (3–12)

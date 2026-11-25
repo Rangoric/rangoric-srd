@@ -18,8 +18,8 @@ special-attacks: "Destroy soul, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect chaos, detect law, true seeing, fast healing 10, fear aura (60 ft., DC 30), damage reduction 10/chaotic and silver, immunity to ability damage, ability drain, cold, death effects, disease, energy drain, negative energy and poison, resistance to acid 10 and fire 10, spell resistance 28"
 saves: "Fort +20, Ref +12, Will +19"
 abilities: "Str 21, Dex 20, Con 24, Int 17, Wis 22, Cha 29"
-skills: "Acrobatics +36, Arcana +28, Intimidation +34, Perception +31, Persuasion +34, Sense Motive +31, Stealth +26, Theology +28"
-skill-ranks: "Acrobatics 30, Arcana 22, Intimidation 22, Perception 22, Persuasion 22, Sense Motive 22, Stealth 22, Theology 22"
+skills: "Acrobatics +36, Intimidation +34, Mysticism +28, Perception +31, Persuasion +34, Sense Motive +31, Stealth +26, Theology +28"
+skill-ranks: "Acrobatics 30, Intimidation 22, Mysticism 22, Perception 22, Persuasion 22, Sense Motive 22, Stealth 22, Theology 22"
 feats: "Cleave, Combat Expertise, Combat Reflexes, Dodge, Improved Initiative, Mobility, Power Attack, Spring Attack, Stand Still, Weapon Focus (scythe), Whirlwind Attack"
 environment: "Any"
 organization: "Solitary"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect chaos, detect law, true seeing, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, [[rangoric-srd/monsters/abilities/Fear Aura|fear aura]] (60 ft., DC 30), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/chaotic and silver, immunity to ability damage, ability drain, cold, death effects, disease, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]], negative energy and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 28
   - **Saves**: Fort +20, Ref +12, Will +19
   - **Abilities**: Str 21, Dex 20, Con 24, Int 17, Wis 22, Cha 29
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +36, [[rangoric-srd/skills/Arcana|Arcana]] +28, [[rangoric-srd/skills/Intimidation|Intimidation]] +34, [[rangoric-srd/skills/Perception|Perception]] +31, [[rangoric-srd/skills/Persuasion|Persuasion]] +34, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +31, [[rangoric-srd/skills/Stealth|Stealth]] +26, [[rangoric-srd/skills/Theology|Theology]] +28
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +36, [[rangoric-srd/skills/Intimidation|Intimidation]] +34, [[rangoric-srd/skills/Mysticism|Mysticism]] +28, [[rangoric-srd/skills/Perception|Perception]] +31, [[rangoric-srd/skills/Persuasion|Persuasion]] +34, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +31, [[rangoric-srd/skills/Stealth|Stealth]] +26, [[rangoric-srd/skills/Theology|Theology]] +28
   - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Stand Still|Stand Still]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (scythe), [[rangoric-srd/feats/Whirlwind Attack|Whirlwind Attack]]
   - **Environment**: Any
   - **Organization**: Solitary

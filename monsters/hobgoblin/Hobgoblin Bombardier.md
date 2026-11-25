@@ -18,8 +18,8 @@ special-attacks: "Alchemical weapon (swift action), bomb 14/day (4d6+2 fire, DC 
 special-qualities: "Darkvision 60 ft., alchemy (alchemy crafting +8, identify potions), alternate racial features, discoveries (concussive bomb [4d4+2 sonic plus deafness], fast bombs, precise bombs [2 squares], smoke bomb, stink bomb), mutagen (+4/-2, +2 natural, 80 minutes), swift alchemy"
 saves: "Fort +9, Ref +10, Will +2"
 abilities: "Str 12, Dex 18, Con 16, Int 14, Wis 10, Cha 8"
-skills: "Arcana +13, Craft (alchemy) +15, Emulation +6, Engineering +8, Medicine +7, Nature +11, Perception +16"
-skill-ranks: "Arcana 8, Craft (alchemy) 10, Emulation 4, Engineering 3, Medicine 4, Nature 6, Perception 13"
+skills: "Arcana +11, Craft (alchemy) +15, Emulation +6, Engineering +8, Medicine +7, Mysticism +13, Nature +11, Perception +16"
+skill-ranks: "Arcana 6, Craft (alchemy) 10, Emulation 4, Engineering 3, Medicine 4, Mysticism 8, Nature 6, Perception 13"
 feats: "Point Blank Shot, Precise Shot, Throw Anything, Toughness, Weapon Focus (bomb)"
 environment: "Temperate hills"
 organization: "Solitary, or with other hobgoblins (see Hobgoblin)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Alchemist#^alchemist-alchemy|alchemy]] (alchemy crafting +8, identify potions), alternate racial features, [[rangoric-srd/classes/Alchemist#^alchemist-discovery|discoveries]] ([[rangoric-srd/class-options/discoveries/Concussive Bomb (Discovery)|concussive bomb]] \[4d4+2 sonic plus deafness\], [[rangoric-srd/class-options/discoveries/Fast Bombs (Discovery)|fast bombs]], [[rangoric-srd/class-options/discoveries/Precise Bombs (Discovery)|precise bombs]] \[2 squares\], [[rangoric-srd/class-options/discoveries/Smoke Bomb (Discovery)|smoke bomb]], [[rangoric-srd/class-options/discoveries/Stink Bomb (Discovery)|stink bomb]]), [[rangoric-srd/classes/Alchemist#^alchemist-mutagen|mutagen]] (+4/-2, +2 natural, 80 minutes), [[rangoric-srd/classes/Alchemist#^alchemist-swift-alchemy|swift alchemy]]
   - **Saves**: Fort +9, Ref +10, Will +2
   - **Abilities**: Str 12, Dex 18, Con 16, Int 14, Wis 10, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +13, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +15, [[rangoric-srd/skills/Emulation|Emulation]] +6, [[rangoric-srd/skills/Engineering|Engineering]] +8, [[rangoric-srd/skills/Medicine|Medicine]] +7, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +16
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +15, [[rangoric-srd/skills/Emulation|Emulation]] +6, [[rangoric-srd/skills/Engineering|Engineering]] +8, [[rangoric-srd/skills/Medicine|Medicine]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +16
   - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Throw Anything|Throw Anything]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bomb)
   - **Environment**: Temperate hills
   - **Organization**: Solitary, or with other hobgoblins (see [[rangoric-srd/monsters/hobgoblin/Hobgoblin|Hobgoblin]])

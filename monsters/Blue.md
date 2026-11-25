@@ -20,8 +20,8 @@ special-attacks: "Psionic powers"
 special-qualities: "Darkvision 60 ft."
 saves: "Fort +2, Ref +0, Will +3"
 abilities: "Str 6, Dex 13, Con 14, Int 17, Wis 12, Cha 8"
-skills: "Animal Handling +4 (+6 riding), Psionics +7, Perception +2, Stealth +10"
-skill-ranks: "Animal Handling 1, Perception 1, Psionics 1, Stealth 1"
+skills: "Animal Handling +4 (+6 riding), Mysticism +7, Perception +2, Stealth +10"
+skill-ranks: "Animal Handling 1, Mysticism 1, Perception 1, Stealth 1"
 feats: "Psionic Body, Psionic Dodge (B)"
 environment: "Temperate plains"
 organization: "Solitary, gang (1 plus 4-9 goblin warriors), band (2d10 plus 10-100 goblin warriors plus 100% noncombatants plus 1 3rd-level sergeant per 20 adults and 1 leader of 4th-6th level), warband (2d4 plus 10-24 goblin warriors with worg mounts), or tribe (4d10 plus 40-400 goblin warriors plus 100% noncombatants plus 1 3rd-level sergeant per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 leader of 6th-8th level, 10-24 worgs, and 2-4 dire wolves)"
@@ -54,7 +54,7 @@ Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^hu
 **Special Qualities:** Darkvision 60 ft.     
 **Saves:** Fort +2, Ref +0, Will +3    
 **Abilities:** Str 6, Dex 13, Con 14, Int 17, Wis 12, Cha 8    
-**Skills:** [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4 (+6 riding), [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Psionics (Skill)|Psionics]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +10        
+**Skills:** [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4 (+6 riding), [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +10        
 **Unspent Skill Points**: 1
 **Feats:** [[rangoric-srd/feats/Psionic Body|Psionic Body]], [[rangoric-srd/feats/Psionic Dodge|Psionic Dodge (B)]]     
 **Environment:** Temperate plains     

@@ -17,8 +17,8 @@ special-attacks: "Evisceration, grab, sneak attack +2d6"
 special-qualities: "Blindsight 30 ft., low-light vision, deceptive, item creation, no breath, starflight, damage reduction 5/slashing, immunity to cold, plant traits, resistance to electricity 10 and fire 10"
 saves: "Fort +10, Ref +7, Will +4"
 abilities: "Str 16, Dex 20, Con 21, Int 25, Wis 14, Cha 15"
-skills: "Acrobatics +9, Arcana +14, Deception +19, Engineering +12, Imitation +16, Medicine +9, Perception +12, Society +14, Stealth +15"
-skill-ranks: "Acrobatics 1, Arcana 4, Deception 9, Engineering 4, Imitation 9, Medicine 4, Perception 7, Society 4, Stealth 7"
+skills: "Acrobatics +9, Arcana +14, Deception +19, Engineering +12, Imitation +16, Medicine +9, Mysticism +14, Perception +12, Society +14, Stealth +15"
+skill-ranks: "Acrobatics 1, Arcana 4, Deception 9, Engineering 4, Imitation 9, Medicine 4, Mysticism 4, Perception 7, Society 4, Stealth 7"
 feats: "Combat Reflexes, Dodge, Weapon Finesse, Skill Focus (Deception)"
 environment: "Any"
 organization: "Solitary, pair, scouting party (3–9), or invasion (9–16)"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], deceptive, item creation, [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Starflight|starflight]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10 and fire 10
   - **Saves**: Fort +10, Ref +7, Will +4
   - **Abilities**: Str 16, Dex 20, Con 21, Int 25, Wis 14, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Engineering|Engineering]] +12, [[rangoric-srd/skills/Imitation|Imitation]] +16, [[rangoric-srd/skills/Medicine|Medicine]] +9, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Society|Society]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +15
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Engineering|Engineering]] +12, [[rangoric-srd/skills/Imitation|Imitation]] +16, [[rangoric-srd/skills/Medicine|Medicine]] +9, [[rangoric-srd/skills/Mysticism|Mysticism]] +14, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Society|Society]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +15
   - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
   - **Environment**: Any
   - **Organization**: Solitary, pair, scouting party (3–9), or invasion (9–16)

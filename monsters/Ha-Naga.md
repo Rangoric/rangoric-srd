@@ -17,8 +17,8 @@ special-attacks: "Charming gaze, poison, improved grab, constrict 4d6+12"
 special-qualities: "Flight, SR 30, DR 5/epic"
 saves: "Fort +17, Ref +22, Will +22"
 abilities: "Str 27, Dex 38, Con 32, Int 35, Wis 31, Cha 36"
-skills: "Appraise +35, Athletics +31 (+43 jumping), Deception +36, Escape Artist +37, Arcana +35, Society +35, Theology +35, Perception +33, Persuasion +36, Investigation +35, Sense Motive +33, Stealth +21"
-skill-ranks: "Appraise 20, Arcana 20, Athletics 20, Deception 20, Escape Artist 20, Investigation 20, Perception 20, Persuasion 20, Sense Motive 20, Society 20, Stealth 20, Theology 20"
+skills: "Appraise +35, Athletics +31 (+43 jumping), Deception +36, Escape Artist +37, Arcana +35, Mysticism +37, Society +35, Theology +35, Perception +33, Persuasion +36, Investigation +35, Sense Motive +33, Stealth +21"
+skill-ranks: "Appraise 20, Arcana 20, Athletics 20, Deception 20, Escape Artist 20, Investigation 20, Mysticism 22, Perception 20, Persuasion 20, Sense Motive 20, Society 20, Stealth 20, Theology 20"
 feats: "Dodge, Flyby Attack, Lightning Reflexes, Mobility, Multiattack, Quicken Spell, Weapon Finesse"
 environment: "Temperate and warm land or underground"
 organization: "Solitary or nest (2-4)"
@@ -50,7 +50,7 @@ Special Attacks: Charming [[rangoric-srd/monsters/abilities/Gaze|gaze]], [[rango
 Special Qualities: Flight, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 30, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 5/epic      
 Saves: Fort +17, Ref +22, Will +22      
 Abilities: Str 27, Dex 38, Con 32, Int 35, Wis 31, Cha 36      
-Skills: [[rangoric-srd/skills/Appraise|Appraise]] +35, [[rangoric-srd/skills/Arcana|Arcana]] +35, [[rangoric-srd/skills/Athletics|Athletics]] +31 (+43 jumping), [[rangoric-srd/skills/Deception|Deception]] +36, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +37, [[rangoric-srd/skills/Investigation|Investigation]] +35, [[rangoric-srd/skills/Perception|Perception]] +33, [[rangoric-srd/skills/Persuasion|Persuasion]] +36, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +33, [[rangoric-srd/skills/Society|Society]] +35, [[rangoric-srd/skills/Stealth|Stealth]] +21, [[rangoric-srd/skills/Theology|Theology]] +35     
+Skills: [[rangoric-srd/skills/Appraise|Appraise]] +35, [[rangoric-srd/skills/Arcana|Arcana]] +35, [[rangoric-srd/skills/Athletics|Athletics]] +31 (+43 jumping), [[rangoric-srd/skills/Deception|Deception]] +36, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +37, [[rangoric-srd/skills/Investigation|Investigation]] +35, [[rangoric-srd/skills/Mysticism|Mysticism]] +37, [[rangoric-srd/skills/Perception|Perception]] +33, [[rangoric-srd/skills/Persuasion|Persuasion]] +36, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +33, [[rangoric-srd/skills/Society|Society]] +35, [[rangoric-srd/skills/Stealth|Stealth]] +21, [[rangoric-srd/skills/Theology|Theology]] +35     
 **Unspent Skill Points**: 40
 Feats: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Quicken Spell|Quicken Spell]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]      
 Climate/Terrain: Temperate and warm land or underground      

@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy 6/day (DC 19, 5d6), staff of order (4 
 special-qualities: "Darkvision 60 ft."
 saves: "Fort +9, Ref +4, Will +10"
 abilities: "Str 14, Dex 10, Con 14, Int 10, Wis 16, Cha 16"
-skills: "Arcana +12, Medicine +15, Stealth –2, Theology +12"
-skill-ranks: "Arcana 9, Medicine 9, Stealth 0, Theology 9"
+skills: "Medicine +15, Mysticism +12, Stealth –2, Theology +12"
+skill-ranks: "Medicine 9, Mysticism 9, Stealth 0, Theology 9"
 feats: "Armor Proficiency (Heavy), Combat Casting, Improved Channel, Selective Channeling, Toughness, Weapon Focus (morningstar)"
 environment: "Temperate hills"
 organization: "Solitary, or with other hobgoblins (see Hobgoblin)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
   - **Saves**: Fort +9, Ref +4, Will +10
   - **Abilities**: Str 14, Dex 10, Con 14, Int 10, Wis 16, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Medicine|Medicine]] +15, [[rangoric-srd/skills/Stealth|Stealth]] –2, [[rangoric-srd/skills/Theology|Theology]] +12
+  - **Skills**: [[rangoric-srd/skills/Medicine|Medicine]] +15, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Stealth|Stealth]] –2, [[rangoric-srd/skills/Theology|Theology]] +12
   - **Feats**: [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Channel|Improved Channel]], [[rangoric-srd/feats/Selective Channeling|Selective Channeling]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (morningstar)
   - **Environment**: Temperate hills
   - **Organization**: Solitary, or with other hobgoblins (see [[rangoric-srd/monsters/hobgoblin/Hobgoblin|Hobgoblin]])

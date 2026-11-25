@@ -18,8 +18,8 @@ special-attacks: "Hexes (blight [90 feet], cackle, evil eye [-4, 4 rounds], misf
 special-qualities: "Darkvision 60 ft., ferocity, constitution dependent, fetish mask, hex scar, scarshield (+4, 9 min./day), weapon familiarity, light sensitivity"
 saves: "Fort +7, Ref +6, Will +10 (+2 vs. pain)"
 abilities: "Str 12, Dex 14, Con 16, Int 12, Wis 12, Cha 8"
-skills: "Arcana +13, Intimidation +12, Medicine +7, Perception +10"
-skill-ranks: "Arcana 9, Intimidation 10, Medicine 3, Perception 6"
+skills: "Intimidation +12, Medicine +7, Mysticism +13, Perception +10"
+skill-ranks: "Intimidation 10, Medicine 3, Mysticism 9, Perception 6"
 feats: "Accursed Hex, Combat Casting, Extra Hex, Iron Will, Toughness"
 environment: "Temperate hills, mountains, or underground"
 organization: "Solitary, or with other orcs (see Orc)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/class-options/archetypes/witch/Scarred Witch Doctor (Archetype)|constitution dependent]], [[rangoric-srd/class-options/archetypes/witch/Scarred Witch Doctor (Archetype)|fetish mask]], [[rangoric-srd/class-options/archetypes/witch/Scarred Witch Doctor (Archetype)|hex scar]], [[rangoric-srd/class-options/archetypes/witch/Scarred Witch Doctor (Archetype)|scarshield]] (+4, 9 min./day), [[rangoric-srd/races/Orc|weapon familiarity]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
   - **Saves**: Fort +7, Ref +6, Will +10 (+2 vs. pain)
   - **Abilities**: Str 12, Dex 14, Con 16, Int 12, Wis 12, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Medicine|Medicine]] +7, [[rangoric-srd/skills/Perception|Perception]] +10
+  - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Medicine|Medicine]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Perception|Perception]] +10
   - **Feats**: [[rangoric-srd/feats/Accursed Hex|Accursed Hex]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Extra Hex|Extra Hex]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Toughness|Toughness]]
   - **Environment**: Temperate hills, mountains, or underground
   - **Organization**: Solitary, or with other orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])

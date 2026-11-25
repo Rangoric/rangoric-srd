@@ -18,8 +18,8 @@ special-attacks: "Cunning reflexes, multiweapon mastery, perfect prediction, wou
 special-qualities: "Darkvision 60 ft., detect chaos, detect magic, low-light vision, true seeing, regeneration 10 (chaotic), shield of law (DC 23), constructed, perfect prediction, damage reduction 15/chaotic, immunity to energy spells, spell resistance 31"
 saves: "Fort +25, Ref +12, Will +22"
 abilities: "Str 31, Dex 13, Con 26, Int 14, Wis 21, Cha 20"
-skills: "Acrobatics +30, Arcana +24, Intimidation +30, Perception +34, Sense Motive +30, Society +24, Theology +27"
-skill-ranks: "Acrobatics 30, Arcana 19, Intimidation 22, Perception 22, Sense Motive 22, Society 19, Theology 22"
+skills: "Acrobatics +30, Arcana +24, Intimidation +30, Mysticism +24, Perception +34, Sense Motive +30, Society +24, Theology +27"
+skill-ranks: "Acrobatics 30, Arcana 19, Intimidation 22, Mysticism 19, Perception 22, Sense Motive 22, Society 19, Theology 22"
 feats: "Blind-Fight, Combat Expertise, Combat Reflexes, Greater Bull Rush, Greater Vital Strike, Improved Bull Rush, Improved Disarm, Improved Initiative, Improved Vital Strike, Power Attack, Vital Strike"
 environment: "Any"
 organization: "Solitary"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect chaos, detect magic, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], true seeing, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 10 (chaotic), [[rangoric-srd/spells/Shield of Law|shield of law]] (DC 23), constructed, [[rangoric-srd/monsters/abilities/Perfect Prediction|perfect prediction]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/chaotic, [[rangoric-srd/monsters/abilities/Immunity to Energy Spells|immunity to energy spells]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 31
   - **Saves**: Fort +25, Ref +12, Will +22
   - **Abilities**: Str 31, Dex 13, Con 26, Int 14, Wis 21, Cha 20
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +30, [[rangoric-srd/skills/Arcana|Arcana]] +24, [[rangoric-srd/skills/Intimidation|Intimidation]] +30, [[rangoric-srd/skills/Perception|Perception]] +34, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +30, [[rangoric-srd/skills/Society|Society]] +24, [[rangoric-srd/skills/Theology|Theology]] +27
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +30, [[rangoric-srd/skills/Arcana|Arcana]] +24, [[rangoric-srd/skills/Intimidation|Intimidation]] +30, [[rangoric-srd/skills/Mysticism|Mysticism]] +24, [[rangoric-srd/skills/Perception|Perception]] +34, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +30, [[rangoric-srd/skills/Society|Society]] +24, [[rangoric-srd/skills/Theology|Theology]] +27
   - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Greater Vital Strike|Greater Vital Strike]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
   - **Environment**: Any
   - **Organization**: Solitary

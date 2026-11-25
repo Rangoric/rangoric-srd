@@ -18,8 +18,8 @@ special-attacks: "Pounce, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect evil, low-light vision, calm emotions (30 ft.), bardic knowledge +7, lay on hands (3d6, 6/day, as a 7th-level paladin), damage reduction 10/evil or silver, immunity to electricity and petrification, resistance to cold 10 and sonic 10, spell resistance 17"
 saves: "Fort +5, Ref +10, Will +7"
 abilities: "Str 12, Dex 16, Con 17, Int 19, Wis 15, Cha 16"
-skills: "Acrobatics +10, Arcana +21, Athletics +1 (+9 jumping), Deception +13, Emulation +10, Knowledge +21, Perception +12, Performance (any one) +13, Stealth +17, Theology +21"
-skill-ranks: "Acrobatics 4, Arcana 14, Athletics 0, Deception 7, Emulation 4, Knowledge 14, Perception 7, Performance (any one) 6, Stealth 7, Theology 14"
+skills: "Acrobatics +10, Arcana +21, Athletics +1 (+9 jumping), Deception +13, Emulation +10, Knowledge +21, Mysticism +14, Perception +12, Performance (any one) +13, Stealth +17, Theology +21"
+skill-ranks: "Acrobatics 4, Arcana 14, Athletics 0, Deception 7, Emulation 4, Knowledge 14, Mysticism 7, Perception 7, Performance (any one) 6, Stealth 7, Theology 14"
 feats: "Combat Reflexes, Improved Initiative, Lightning Reflexes, Weapon Finesse"
 environment: "Any land (a neutral good-aligned plane: Nirvana)"
 organization: "Solitary, pair, or team (3–12)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect evil, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/spells/Calm Emotions|calm emotions]] (30 ft.), bardic knowledge +7, lay on hands (3d6, 6/day, as a 7th-level paladin), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil or silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and sonic 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
   - **Saves**: Fort +5, Ref +10, Will +7
   - **Abilities**: Str 12, Dex 16, Con 17, Int 19, Wis 15, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +21, [[rangoric-srd/skills/Athletics|Athletics]] +1 (+9 jumping), [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Emulation|Emulation]] +10, [[rangoric-srd/skills/Knowledge|Knowledge]] +21, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Performance|Performance]] (any one) +13, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +21
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +21, [[rangoric-srd/skills/Athletics|Athletics]] +1 (+9 jumping), [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Emulation|Emulation]] +10, [[rangoric-srd/skills/Knowledge|Knowledge]] +21, [[rangoric-srd/skills/Mysticism|Mysticism]] +14, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Performance|Performance]] (any one) +13, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +21
   - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
   - **Environment**: Any land (a neutral good-aligned plane: [[rangoric-srd/rules/planes/Nirvana|Nirvana]])
   - **Organization**: Solitary, pair, or team (3–12)

@@ -17,8 +17,8 @@ special-attacks: "Rend (2 tentacles, 1d6+9 plus Wisdom drain), spell-like abilit
 special-qualities: "Blindsight 90 ft., telepathy 300 ft., amorphous, compression, no breath, damage reduction 10/piercing or slashing, immunity to cold, gaze attacks, illusions and poison, resistance to electricity 30, spell resistance 22"
 saves: "Fort +9, Ref +9, Will +15"
 abilities: "Str 22, Dex 17, Con 20, Int 19, Wis 18, Cha 25"
-skills: "Arcana +21, Athletics +14, Emulation +21, Intimidation +24, Perception +21, Persuasion +14, Sense Motive +18, Stealth +24, Theology +18"
-skill-ranks: "Arcana 14, Athletics 5, Emulation 11, Intimidation 14, Perception 14, Persuasion 4, Sense Motive 11, Stealth 14, Theology 11"
+skills: "Arcana +11, Athletics +14, Emulation +21, Intimidation +24, Mysticism +21, Perception +21, Persuasion +14, Sense Motive +18, Stealth +24, Theology +18"
+skill-ranks: "Arcana 4, Athletics 5, Emulation 11, Intimidation 14, Mysticism 14, Perception 14, Persuasion 4, Sense Motive 11, Stealth 14, Theology 11"
 feats: "Combat Casting, Dodge, Improved Initiative, Iron Will, Lightning Reflexes, Mobility, Weapon Focus (tentacle)"
 environment: "Any land"
 organization: "Solitary, pair, or cabal (3–5)"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 90 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 300 ft., [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/piercing or slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, gaze attacks, illusions and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 30, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 22
   - **Saves**: Fort +9, Ref +9, Will +15
   - **Abilities**: Str 22, Dex 17, Con 20, Int 19, Wis 18, Cha 25
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +21, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Emulation|Emulation]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +24, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +24, [[rangoric-srd/skills/Theology|Theology]] +18
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Emulation|Emulation]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +24, [[rangoric-srd/skills/Mysticism|Mysticism]] +21, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +24, [[rangoric-srd/skills/Theology|Theology]] +18
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacle)
   - **Environment**: Any land
   - **Organization**: Solitary, pair, or cabal (3–5)

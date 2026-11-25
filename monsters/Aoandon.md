@@ -18,8 +18,8 @@ special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., true seeing, incorporeal"
 saves: "Fort +14, Ref +12, Will +12"
 abilities: "Str —, Dex 24, Con 19, Int 20, Wis 15, Cha 22"
-skills: "Acrobatics +40, Arcana +22, Deception +25, Intimidation +31, Perception +20, Persuasion +19, Sense Motive +20, Society +12, Stealth +22, Theology +18"
-skill-ranks: "Acrobatics 30, Arcana 14, Deception 16, Intimidation 22, Perception 15, Persuasion 10, Sense Motive 15, Society 4, Stealth 12, Theology 10"
+skills: "Acrobatics +40, Arcana +20, Deception +25, Intimidation +31, Mysticism +22, Perception +20, Persuasion +19, Sense Motive +20, Society +12, Stealth +22, Theology +18"
+skill-ranks: "Acrobatics 30, Arcana 12, Deception 16, Intimidation 22, Mysticism 14, Perception 15, Persuasion 10, Sense Motive 15, Society 4, Stealth 12, Theology 10"
 feats: "Combat Reflexes, Dodge, Mobility, Skill Focus (Acrobatics), Skill Focus (Intimidation), Spring Attack, Weapon Finesse, Weapon Focus (touch)"
 environment: "Any"
 organization: "Solitary"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., true seeing, [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]]
   - **Saves**: Fort +14, Ref +12, Will +12
   - **Abilities**: Str —, Dex 24, Con 19, Int 20, Wis 15, Cha 22
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +40, [[rangoric-srd/skills/Arcana|Arcana]] +22, [[rangoric-srd/skills/Deception|Deception]] +25, [[rangoric-srd/skills/Intimidation|Intimidation]] +31, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Persuasion|Persuasion]] +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20, [[rangoric-srd/skills/Society|Society]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +22, [[rangoric-srd/skills/Theology|Theology]] +18
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +40, [[rangoric-srd/skills/Arcana|Arcana]] +20, [[rangoric-srd/skills/Deception|Deception]] +25, [[rangoric-srd/skills/Intimidation|Intimidation]] +31, [[rangoric-srd/skills/Mysticism|Mysticism]] +22, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Persuasion|Persuasion]] +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20, [[rangoric-srd/skills/Society|Society]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +22, [[rangoric-srd/skills/Theology|Theology]] +18
   - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Intimidation), [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (touch)
   - **Environment**: Any
   - **Organization**: Solitary

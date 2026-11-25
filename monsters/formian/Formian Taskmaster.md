@@ -18,8 +18,8 @@ special-attacks: "Poison, spell-like abilities"
 special-qualities: "Blindsight 30 ft., darkvision 60 ft., hive mind, telepathy 120 ft., formian traits, mental motivator (20 rounds/day), resistance to sonic 10"
 saves: "Fort +6, Ref +9, Will +10"
 abilities: "Str 17, Dex 14, Con 16, Int 13, Wis 16, Cha 19"
-skills: "Appraise +6, Arcana +6, Athletics +16, Craft (armor) +14, Deception +17, Perception +16 (+20 with hive mind), Persuasion +14, Sense Motive +16"
-skill-ranks: "Appraise 5, Arcana 5, Athletics 10, Craft (armor) 10, Deception 10, Perception 10, Persuasion 10, Sense Motive 10"
+skills: "Appraise +6, Athletics +16, Craft (armor) +14, Deception +17, Mysticism +6, Perception +16 (+20 with hive mind), Persuasion +14, Sense Motive +16"
+skill-ranks: "Appraise 5, Athletics 10, Craft (armor) 10, Deception 10, Mysticism 5, Perception 10, Persuasion 10, Sense Motive 10"
 feats: "Combat Casting, Point Blank Shot, Quick Draw, Rapid Shot, Spell Focus (enchantment)"
 environment: "Warm or temperate land or underground; a lawful-aligned plane"
 organization: "Solitary, work crew (1 plus 6–12 workers), band (1 plus 3–15 workers and 5–8 warriors), embassy (2–6), or conscription team (2–4 plus 1 dominated creature per team member)"
@@ -54,7 +54,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/formian/Formian#^hive-mind|hive mind]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 120 ft., [[rangoric-srd/monsters/formian/Formian#^formian-traits|formian traits]], mental motivator (20 rounds/day), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to sonic 10
   - **Saves**: Fort +6, Ref +9, Will +10
   - **Abilities**: Str 17, Dex 14, Con 16, Int 13, Wis 16, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Craft|Craft]] (armor) +14, [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Perception|Perception]] +16 (+20 with hive mind), [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16
+  - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Craft|Craft]] (armor) +14, [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Perception|Perception]] +16 (+20 with hive mind), [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment)
   - **Environment**: Warm or temperate land or underground; a lawful-aligned plane
   - **Organization**: Solitary, work crew (1 plus 6–12 workers), band (1 plus 3–15 workers and 5–8 warriors), embassy (2–6), or conscription team (2–4 plus 1 dominated creature per team member)

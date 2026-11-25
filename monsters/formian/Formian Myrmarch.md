@@ -18,8 +18,8 @@ special-attacks: "Poison, spell-like abilities"
 special-qualities: "Blindsense 30 ft., darkvision 60 ft., hive mind, telepathy 150 ft., formian traits, inspire hive, undersized weapons, resistance to sonic 10"
 saves: "Fort +11, Ref +14, Will +13"
 abilities: "Str 20, Dex 19, Con 20, Int 17, Wis 16, Cha 17"
-skills: "Arcana +15, Athletics +20, Deception +18, Perception +18 (+22 with hive mind), Persuasion +15, Sense Motive +18, Stealth +15, Theology +18"
-skill-ranks: "Arcana 12, Athletics 12, Deception 12, Perception 12, Persuasion 12, Sense Motive 12, Stealth 12, Theology 12"
+skills: "Arcana +15, Athletics +20, Deception +18, Mysticism +15, Perception +18 (+22 with hive mind), Persuasion +15, Sense Motive +18, Stealth +15, Theology +18"
+skill-ranks: "Arcana 12, Athletics 12, Deception 12, Mysticism 12, Perception 12, Persuasion 12, Sense Motive 12, Stealth 12, Theology 12"
 feats: "Dodge, Improved Initiative, Mobility, Quick Draw, Spring Attack, Vital Strike"
 environment: "Warm or temperate land or underground; a lawful-aligned plane"
 organization: "Solitary, team (2–4), platoon (1 plus 7–18 warriors and 6–12 workers), or royal guard (4 plus 12–20 warriors)"
@@ -54,7 +54,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/formian/Formian#^hive-mind|hive mind]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 150 ft., [[rangoric-srd/monsters/formian/Formian#^formian-traits|formian traits]], inspire hive, [[rangoric-srd/monsters/abilities/Undersized Weapons|undersized weapons]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to sonic 10
   - **Saves**: Fort +11, Ref +14, Will +13
   - **Abilities**: Str 20, Dex 19, Con 20, Int 17, Wis 16, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Deception|Deception]] +18, [[rangoric-srd/skills/Perception|Perception]] +18 (+22 with hive mind), [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +18
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Deception|Deception]] +18, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Perception|Perception]] +18 (+22 with hive mind), [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +18
   - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
   - **Environment**: Warm or temperate land or underground; a lawful-aligned plane
   - **Organization**: Solitary, team (2–4), platoon (1 plus 7–18 warriors and 6–12 workers), or royal guard (4 plus 12–20 warriors)

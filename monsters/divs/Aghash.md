@@ -18,8 +18,8 @@ special-attacks: "Cursed gaze, sandstorm, spell-like abilities"
 special-qualities: "Darkvision 60 ft., see in darkness, telepathy 100 ft., damage reduction 5/cold iron or good, immunity to fire and poison, resistance to acid 10 and electricity 10, spell resistance 15"
 saves: "Fort +4, Ref +6, Will +7"
 abilities: "Str 14, Dex 15, Con 16, Int 13, Wis 13, Cha 18"
-skills: "Arcana +9, Deception +10, Imitation +12, Intimidation +10, Perception +12, Sense Motive +7, Stealth +10, Theology +7"
-skill-ranks: "Arcana 5, Deception 3, Imitation 5, Intimidation 3, Perception 7, Sense Motive 5, Stealth 5, Theology 3"
+skills: "Arcana +7, Deception +10, Imitation +12, Intimidation +10, Mysticism +9, Perception +12, Sense Motive +7, Stealth +10, Theology +7"
+skill-ranks: "Arcana 3, Deception 3, Imitation 5, Intimidation 3, Mysticism 5, Perception 7, Sense Motive 5, Stealth 5, Theology 3"
 feats: "Iron Will, Weapon Focus (claw), Skill Focus (Perception)"
 environment: "Any (a neutral evil-aligned plane: Abaddon)"
 organization: "Solitary"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron or good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and electricity 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 15
   - **Saves**: Fort +4, Ref +6, Will +7
   - **Abilities**: Str 14, Dex 15, Con 16, Int 13, Wis 13, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Imitation|Imitation]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +10, [[rangoric-srd/skills/Theology|Theology]] +7
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Imitation|Imitation]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +9, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +10, [[rangoric-srd/skills/Theology|Theology]] +7
   - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
   - **Environment**: Any (a neutral evil-aligned plane: [[rangoric-srd/rules/planes/Abaddon|Abaddon]])
   - **Organization**: Solitary

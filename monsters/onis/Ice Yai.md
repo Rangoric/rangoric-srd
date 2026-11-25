@@ -18,8 +18,8 @@ special-attacks: "Staggering strikes, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, regeneration 5 (fire or acid), change shape (Medium or Large humanoid; alter self or giant form I), immunity to cold, spell resistance 25, vulnerability to fire"
 saves: "Fort +17, Ref +7, Will +12"
 abilities: "Str 29, Dex 14, Con 25, Int 12, Wis 15, Cha 18"
-skills: "Acrobatics +25, Arcana +11, Deception +23, Emulation +14, Imitation +14, Intimidation +23, Perception +22, Sense Motive +13, Stealth +17 (+21 in snow)"
-skill-ranks: "Acrobatics 22, Arcana 7, Deception 16, Emulation 7, Imitation 7, Intimidation 16, Perception 17, Sense Motive 8, Stealth 16"
+skills: "Acrobatics +25, Arcana +11, Deception +23, Emulation +14, Imitation +14, Intimidation +23, Mysticism +8, Perception +22, Sense Motive +13, Stealth +17 (+21 in snow)"
+skill-ranks: "Acrobatics 22, Arcana 7, Deception 16, Emulation 7, Imitation 7, Intimidation 16, Mysticism 4, Perception 17, Sense Motive 8, Stealth 16"
 feats: "Cleave, Combat Reflexes, Dodge, Great Cleave, Mobility, Power Attack, Spring Attack, Vital Strike"
 environment: "Cold mountains"
 organization: "Solitary or gang (1 plus 4–16 frost giants)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (fire or acid), [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (Medium or Large humanoid; alter self or giant form I), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25, vulnerability to fire
   - **Saves**: Fort +17, Ref +7, Will +12
   - **Abilities**: Str 29, Dex 14, Con 25, Int 12, Wis 15, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +25, [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Deception|Deception]] +23, [[rangoric-srd/skills/Emulation|Emulation]] +14, [[rangoric-srd/skills/Imitation|Imitation]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +23, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +17 (+21 in snow)
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +25, [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Deception|Deception]] +23, [[rangoric-srd/skills/Emulation|Emulation]] +14, [[rangoric-srd/skills/Imitation|Imitation]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +23, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +17 (+21 in snow)
   - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
   - **Environment**: Cold mountains
   - **Organization**: Solitary or gang (1 plus 4–16 frost giants)

@@ -18,8 +18,8 @@ special-attacks: "Burn (2d6, DC 31), hellfire, spell-like abilities"
 special-qualities: "Darkvision 60 ft., true seeing, regeneration 5 (good weapons or good spells), telepathy 100 ft., damage reduction 15/good and silver, immunity to fire and poison, resistance to acid 10 and cold 10, spell resistance 30"
 saves: "Fort +23, Ref +19, Will +14"
 abilities: "Str 34, Dex 26, Con 35, Int 24, Wis 23, Cha 24"
-skills: "Acrobatics +31, Arcana +28, Deception +28, Engineering +28, Intimidation +28, Perception +27, Persuasion +28, Sense Motive +27, Society +25, Stealth +25, Theology +28"
-skill-ranks: "Acrobatics 22, Arcana 18, Deception 18, Engineering 18, Intimidation 18, Perception 18, Persuasion 18, Sense Motive 18, Society 15, Stealth 18, Theology 18"
+skills: "Acrobatics +31, Arcana +25, Deception +28, Engineering +28, Intimidation +28, Mysticism +28, Perception +27, Persuasion +28, Sense Motive +27, Society +25, Stealth +25, Theology +28"
+skill-ranks: "Acrobatics 22, Arcana 15, Deception 18, Engineering 18, Intimidation 18, Mysticism 18, Perception 18, Persuasion 18, Sense Motive 18, Society 15, Stealth 18, Theology 18"
 feats: "Blind-Fight, Blinding Critical, Combat Expertise, Combat Reflexes, Critical Focus, Iron Will, Multiattack, Power Attack, Stand Still"
 environment: "Any (a lawful evil-aligned plane: Hell)"
 organization: "Solitary, pair, or council (3–6)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., true seeing, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (good weapons or good spells), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/good and silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 30
   - **Saves**: Fort +23, Ref +19, Will +14
   - **Abilities**: Str 34, Dex 26, Con 35, Int 24, Wis 23, Cha 24
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +31, [[rangoric-srd/skills/Arcana|Arcana]] +28, [[rangoric-srd/skills/Deception|Deception]] +28, [[rangoric-srd/skills/Engineering|Engineering]] +28, [[rangoric-srd/skills/Intimidation|Intimidation]] +28, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Persuasion|Persuasion]] +28, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +27, [[rangoric-srd/skills/Society|Society]] +25, [[rangoric-srd/skills/Stealth|Stealth]] +25, [[rangoric-srd/skills/Theology|Theology]] +28
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +31, [[rangoric-srd/skills/Arcana|Arcana]] +25, [[rangoric-srd/skills/Deception|Deception]] +28, [[rangoric-srd/skills/Engineering|Engineering]] +28, [[rangoric-srd/skills/Intimidation|Intimidation]] +28, [[rangoric-srd/skills/Mysticism|Mysticism]] +28, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Persuasion|Persuasion]] +28, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +27, [[rangoric-srd/skills/Society|Society]] +25, [[rangoric-srd/skills/Stealth|Stealth]] +25, [[rangoric-srd/skills/Theology|Theology]] +28
   - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Blinding Critical|Blinding Critical]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Stand Still|Stand Still]]
   - **Environment**: Any (a lawful evil-aligned plane: Hell)
   - **Organization**: Solitary, pair, or council (3–6)

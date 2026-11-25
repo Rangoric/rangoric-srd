@@ -17,8 +17,8 @@ special-attacks: "Chilling blade, death's calling, summon mount"
 special-qualities: "Blindsight 60 ft., fast healing 5, frightful presence (30 ft., DC 19), channel resistance +4, undead traits, spell resistance 18"
 saves: "Fort +7, Ref +5, Will +12"
 abilities: "Str 20, Dex 14, Con —, Int 14, Wis 16, Cha 18"
-skills: "Animal Handling +14, Arcana +15, Intimidation +17, Perception +16, Stealth +10"
-skill-ranks: "Animal Handling 7, Arcana 10, Intimidation 10, Perception 10, Stealth 5"
+skills: "Animal Handling +14, Intimidation +17, Mysticism +15, Perception +16, Stealth +10"
+skill-ranks: "Animal Handling 7, Intimidation 10, Mysticism 10, Perception 10, Stealth 5"
 feats: "Iron Will, Mounted Combat, Ride-By Attack, Trample, Weapon Focus (longsword)"
 environment: "Any"
 organization: "Solitary"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (30 ft., DC 19), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 18
   - **Saves**: Fort +7, Ref +5, Will +12
   - **Abilities**: Str 20, Dex 14, Con —, Int 14, Wis 16, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +14, [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +10
+  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +10
   - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Trample|Trample]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
   - **Environment**: Any
   - **Organization**: Solitary

@@ -18,8 +18,8 @@ special-attacks: "Poison"
 special-qualities: "Darkvision 60 ft., amphibious"
 saves: "Fort +7, Ref +10, Will +9"
 abilities: "Str 20, Dex 23, Con 20, Int 11, Wis 17, Cha 18"
-skills: "Arcana +11, Athletics +13, Deception +8, Perception +17, Society +4, Stealth +16"
-skill-ranks: "Arcana 8, Athletics 5, Deception 1, Perception 11, Society 1, Stealth 11"
+skills: "Athletics +13, Deception +8, Mysticism +11, Perception +17, Society +4, Stealth +16"
+skill-ranks: "Athletics 5, Deception 1, Mysticism 8, Perception 11, Society 1, Stealth 11"
 feats: "Combat Casting, Eschew Materials, Lightning Reflexes, Skill Focus (Perception), Skill Focus (Stealth)"
 environment: "Temperate water"
 organization: "Solitary, pair, or nest (3–4)"
@@ -54,7 +54,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
   - **Saves**: Fort +7, Ref +10, Will +9
   - **Abilities**: Str 20, Dex 23, Con 20, Int 11, Wis 17, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +16
+  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +16
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
   - **Environment**: Temperate water
   - **Organization**: Solitary, pair, or nest (3–4)

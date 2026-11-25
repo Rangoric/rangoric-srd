@@ -18,8 +18,8 @@ special-attacks: "Hatred, swooping pounce, talon or wing"
 special-qualities: "Darkvision 60 ft., low-light vision, damage reduction 10/evil or magic, spell resistance 21"
 saves: "Fort +8, Ref +12, Will +9"
 abilities: "Str 16, Dex 21, Con 20, Int 15, Wis 14, Cha 17"
-skills: "Acrobatics +23, Arcana +13, Fieldcraft +13, Intimidation +21, Perception +20, Sense Motive +20, Stealth +19"
-skill-ranks: "Acrobatics 15, Arcana 8, Fieldcraft 8, Intimidation 11, Perception 11, Sense Motive 11, Stealth 11"
+skills: "Acrobatics +23, Fieldcraft +13, Intimidation +21, Mysticism +13, Perception +20, Sense Motive +20, Stealth +19"
+skill-ranks: "Acrobatics 15, Fieldcraft 8, Intimidation 11, Mysticism 8, Perception 11, Sense Motive 11, Stealth 11"
 feats: "Deadly Aim, Manyshot, Point Blank Shot, Power Attack, Precise Shot, Rapid Shot, Weapon Finesse"
 environment: "Tropical hills and mountains"
 organization: "Solitary, pair, or aerie (3–6)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil or magic, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
   - **Saves**: Fort +8, Ref +12, Will +9
   - **Abilities**: Str 16, Dex 21, Con 20, Int 15, Wis 14, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Arcana|Arcana]] +13, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +21, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20, [[rangoric-srd/skills/Stealth|Stealth]] +19
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +21, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20, [[rangoric-srd/skills/Stealth|Stealth]] +19
   - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Manyshot|Manyshot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
   - **Environment**: Tropical hills and mountains
   - **Organization**: Solitary, pair, or aerie (3–6)

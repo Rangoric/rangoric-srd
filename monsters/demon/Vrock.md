@@ -18,8 +18,8 @@ special-attacks: "Dance of ruin, spores, stunning screech, spell-like abilities"
 special-qualities: "Darkvision 60 ft., telepathy 100 ft., damage reduction 10/good, immunity to electricity and poison, resistance to acid 10, cold 10 and fire 10, spell resistance 20"
 saves: "Fort +13, Ref +10, Will +6"
 abilities: "Str 21, Dex 15, Con 25, Int 14, Wis 16, Cha 16"
-skills: "Acrobatics +12, Arcana +14, Fieldcraft +15, Intimidation +15, Perception +23, Sense Motive +15, Stealth +10, Theology +14"
-skill-ranks: "Acrobatics 9, Arcana 9, Fieldcraft 9, Intimidation 9, Perception 9, Sense Motive 9, Stealth 9, Theology 9"
+skills: "Acrobatics +12, Fieldcraft +15, Intimidation +15, Mysticism +14, Perception +23, Sense Motive +15, Stealth +10, Theology +14"
+skill-ranks: "Acrobatics 9, Fieldcraft 9, Intimidation 9, Mysticism 9, Perception 9, Sense Motive 9, Stealth 9, Theology 9"
 feats: "Cleave, Combat Reflexes, Improved Initiative, Lightning Reflexes, Power Attack"
 environment: "A chaotic evil-aligned plane"
 organization: "Solitary, pair, gang (3–10), or squad (6–10)"
@@ -54,7 +54,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20
   - **Saves**: Fort +13, Ref +10, Will +6
   - **Abilities**: Str 21, Dex 15, Con 25, Int 14, Wis 16, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +15, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +10, [[rangoric-srd/skills/Theology|Theology]] +14
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +15, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Mysticism|Mysticism]] +14, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +10, [[rangoric-srd/skills/Theology|Theology]] +14
   - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]]
   - **Environment**: A chaotic evil-aligned plane
   - **Organization**: Solitary, pair, gang (3–10), or squad (6–10)

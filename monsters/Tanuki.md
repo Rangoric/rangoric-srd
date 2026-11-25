@@ -18,8 +18,8 @@ special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect poison, low-light vision, change shape (raccoon; beast shape II), sake affinity"
 saves: "Fort +5, Ref +7, Will +6"
 abilities: "Str 14, Dex 17, Con 18, Int 13, Wis 14, Cha 19"
-skills: "Arcana +4, Deception +7, Nature +5, Perception +8, Perform (percussion) +8, Persuasion +6, Sense Motive +4, Stealth +10"
-skill-ranks: "Arcana 3, Deception 3, Nature 1, Perception 3, Perform (percussion) 4, Persuasion 2, Sense Motive 2, Stealth 4"
+skills: "Deception +7, Mysticism +4, Nature +5, Perception +8, Perform (percussion) +8, Persuasion +6, Sense Motive +4, Stealth +10"
+skill-ranks: "Deception 3, Mysticism 3, Nature 1, Perception 3, Perform (percussion) 4, Persuasion 2, Sense Motive 2, Stealth 4"
 feats: "Two-Weapon Defense, Two-Weapon Fighting, Weapon Focus (quarterstaff)"
 environment: "Temperate forests or urban"
 organization: "Solitary, pair, or gathering (3–8)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (raccoon; beast shape II), [[rangoric-srd/monsters/abilities/Sake Affinity|sake affinity]]
   - **Saves**: Fort +5, Ref +7, Will +6
   - **Abilities**: Str 14, Dex 17, Con 18, Int 13, Wis 14, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +4, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +8, Perform (percussion) +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +10
+  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +4, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +8, Perform (percussion) +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +10
   - **Feats**: [[rangoric-srd/feats/Two-Weapon Defense|Two-Weapon Defense]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (quarterstaff)
   - **Environment**: Temperate forests or urban
   - **Organization**: Solitary, pair, or gathering (3–8)

@@ -18,8 +18,8 @@ special-attacks: "Poison, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect magic, fast healing 2, change shape (any Small humanoid; alter self), elusive, damage reduction 5/cold iron or good, immunity to curse effects, disease and poison, resistance to acid 10 and electricity 10"
 saves: "Fort +4, Ref +3, Will +5"
 abilities: "Str 8, Dex 14, Con 12, Int 13, Wis 15, Cha 13"
-skills: "Acrobatics +8, Appraise +4, Arcana +4, Athletics –1 (–5 jumping), Deception +7, Escape Artist +8, Perception +10, Performance (dance) +5, Stealth +14, Theology +7"
-skill-ranks: "Acrobatics 3, Appraise 3, Arcana 3, Athletics 0, Deception 3, Escape Artist 0, Perception 1, Performance (dance) 1, Stealth 1, Theology 3"
+skills: "Acrobatics +8, Appraise +4, Arcana +4, Athletics –1 (–5 jumping), Deception +7, Escape Artist +8, Mysticism +4, Perception +10, Performance (dance) +5, Stealth +14, Theology +7"
+skill-ranks: "Acrobatics 3, Appraise 3, Arcana 3, Athletics 0, Deception 3, Escape Artist 0, Mysticism 3, Perception 1, Performance (dance) 1, Stealth 1, Theology 3"
 feats: "Dodge, Weapon Finesse"
 environment: "Any (a lawful evil-aligned plane: Hell)"
 organization: "Solitary, pair, or gang (3–10)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (any Small humanoid; alter self), [[rangoric-srd/monsters/abilities/Elusive (Tripurasura)|elusive]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron or good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to curse effects, disease and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and electricity 10
   - **Saves**: Fort +4, Ref +3, Will +5
   - **Abilities**: Str 8, Dex 14, Con 12, Int 13, Wis 15, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Appraise|Appraise]] +4, [[rangoric-srd/skills/Arcana|Arcana]] +4, [[rangoric-srd/skills/Athletics|Athletics]] –1 (–5 jumping), [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Performance|Performance]] (dance) +5, [[rangoric-srd/skills/Stealth|Stealth]] +14, [[rangoric-srd/skills/Theology|Theology]] +7
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Appraise|Appraise]] +4, [[rangoric-srd/skills/Arcana|Arcana]] +4, [[rangoric-srd/skills/Athletics|Athletics]] –1 (–5 jumping), [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Mysticism|Mysticism]] +4, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Performance|Performance]] (dance) +5, [[rangoric-srd/skills/Stealth|Stealth]] +14, [[rangoric-srd/skills/Theology|Theology]] +7
   - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
   - **Environment**: Any (a lawful evil-aligned plane: [[rangoric-srd/rules/planes/Hell|Hell]])
   - **Organization**: Solitary, pair, or gang (3–10)

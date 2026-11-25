@@ -18,8 +18,8 @@ special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., mucus cloud (5 feet)"
 saves: "Fort +8, Ref +5, Will +11"
 abilities: "Str 20, Dex 12, Con 22, Int 15, Wis 17, Cha 17"
-skills: "Arcana +13, Athletics +24, Deception +11, Intimidation +14, Knowledge +13, Perception +14"
-skill-ranks: "Arcana 8, Athletics 16, Deception 5, Intimidation 8, Knowledge 8, Perception 8"
+skills: "Athletics +24, Deception +11, Intimidation +14, Knowledge +13, Mysticism +13, Perception +14"
+skill-ranks: "Athletics 16, Deception 5, Intimidation 8, Knowledge 8, Mysticism 8, Perception 8"
 feats: "Improved Initiative, Iron Will, Lightning Reflexes, Weapon Focus (tentacle)"
 environment: "Any aquatic; underground"
 organization: "Solitary, pair, brood (3–6), shoal (7–19), or slaver brood (1d3+1 plus 7–12 skum)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., mucus cloud (5 feet)
   - **Saves**: Fort +8, Ref +5, Will +11
   - **Abilities**: Str 20, Dex 12, Con 22, Int 15, Wis 17, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +24, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Knowledge|Knowledge]] +13, [[rangoric-srd/skills/Perception|Perception]] +14
+  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +24, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Knowledge|Knowledge]] +13, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Perception|Perception]] +14
   - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacle)
   - **Environment**: Any aquatic; underground
   - **Organization**: Solitary, pair, brood (3–6), shoal (7–19), or slaver brood (1d3+1 plus 7–12 skum)

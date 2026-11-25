@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy 5/day (DC 15, 4d6), fury of the Abyss 
 special-qualities: "Darkvision 90 ft., stench (30 ft., DC 21, 10 rounds), bravery +1"
 saves: "Fort +17, Ref +6, Will +10 (+1 vs. fear)"
 abilities: "Str 20, Dex 15, Con 22, Int 14, Wis 20, Cha 14"
-skills: "Arcana +11, Intimidation +13, Perception +13, Sense Motive +16, Stealth +0 (+4 in rocky areas), Theology +13"
-skill-ranks: "Arcana 6, Intimidation 8, Perception 5, Sense Motive 8, Stealth 0, Theology 8"
+skills: "Intimidation +13, Mysticism +11, Perception +13, Sense Motive +16, Stealth +0 (+4 in rocky areas), Theology +13"
+skill-ranks: "Intimidation 8, Mysticism 6, Perception 5, Sense Motive 8, Stealth 0, Theology 8"
 feats: "Ability Focus (stench), Combat Casting, Lightning Reflexes, Power Attack, Quick Draw, Selective Channeling, Toughness, Weapon Focus (battleaxe)"
 environment: "Any underground"
 organization: "Solitary, or with other troglodytes (see Troglodyte)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft., [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., DC 21, 10 rounds), [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1
   - **Saves**: Fort +17, Ref +6, Will +10 (+1 vs. fear)
   - **Abilities**: Str 20, Dex 15, Con 22, Int 14, Wis 20, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +0 (+4 in rocky areas), [[rangoric-srd/skills/Theology|Theology]] +13
+  - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +0 (+4 in rocky areas), [[rangoric-srd/skills/Theology|Theology]] +13
   - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (stench), [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Selective Channeling|Selective Channeling]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (battleaxe)
   - **Environment**: Any underground
   - **Organization**: Solitary, or with other troglodytes (see [[rangoric-srd/monsters/troglodyte/Troglodyte|Troglodyte]])

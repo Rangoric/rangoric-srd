@@ -18,8 +18,8 @@ special-attacks: "Blood drain (1d4 Con damage), constrict (1d6+7), possession, s
 special-qualities: "Darkvision 60 ft., see in darkness, telepathy 100 ft., damage reduction 10/good and silver, immunity to fire and poison, resistance to acid 10 and cold 10, spell resistance 28"
 saves: "Fort +17, Ref +11, Will +20"
 abilities: "Str 24, Dex 23, Con 25, Int 25, Wis 26, Cha 24"
-skills: "Acrobatics +32, Appraise +24, Arcana +27, Deception +27, Intimidation +24, Knowledge +27, Perception +28, Persuasion +27, Sense Motive +28, Society +27, Stealth +22"
-skill-ranks: "Acrobatics 25, Appraise 14, Arcana 17, Deception 17, Intimidation 14, Knowledge 17, Perception 17, Persuasion 17, Sense Motive 17, Society 17, Stealth 17"
+skills: "Acrobatics +32, Appraise +24, Arcana +27, Deception +27, Intimidation +24, Knowledge +27, Mysticism +24, Perception +28, Persuasion +27, Sense Motive +28, Society +27, Stealth +22"
+skill-ranks: "Acrobatics 25, Appraise 14, Arcana 17, Deception 17, Intimidation 14, Knowledge 17, Mysticism 14, Perception 17, Persuasion 17, Sense Motive 17, Society 17, Stealth 17"
 feats: "Combat Expertise, Combat Reflexes, Greater Disarm, Greater Trip, Improved Critical (tongue), Improved Disarm, Improved Initiative, Improved Trip, Iron Will"
 environment: "Any (a lawful evil-aligned plane: Hell)"
 organization: "Solitary"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good and silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 28
   - **Saves**: Fort +17, Ref +11, Will +20
   - **Abilities**: Str 24, Dex 23, Con 25, Int 25, Wis 26, Cha 24
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +32, [[rangoric-srd/skills/Appraise|Appraise]] +24, [[rangoric-srd/skills/Arcana|Arcana]] +27, [[rangoric-srd/skills/Deception|Deception]] +27, [[rangoric-srd/skills/Intimidation|Intimidation]] +24, [[rangoric-srd/skills/Knowledge|Knowledge]] +27, [[rangoric-srd/skills/Perception|Perception]] +28, [[rangoric-srd/skills/Persuasion|Persuasion]] +27, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +28, [[rangoric-srd/skills/Society|Society]] +27, [[rangoric-srd/skills/Stealth|Stealth]] +22
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +32, [[rangoric-srd/skills/Appraise|Appraise]] +24, [[rangoric-srd/skills/Arcana|Arcana]] +27, [[rangoric-srd/skills/Deception|Deception]] +27, [[rangoric-srd/skills/Intimidation|Intimidation]] +24, [[rangoric-srd/skills/Knowledge|Knowledge]] +27, [[rangoric-srd/skills/Mysticism|Mysticism]] +24, [[rangoric-srd/skills/Perception|Perception]] +28, [[rangoric-srd/skills/Persuasion|Persuasion]] +27, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +28, [[rangoric-srd/skills/Society|Society]] +27, [[rangoric-srd/skills/Stealth|Stealth]] +22
   - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Greater Disarm|Greater Disarm]], [[rangoric-srd/feats/Greater Trip|Greater Trip]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (tongue), [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Iron Will|Iron Will]]
   - **Environment**: Any (a lawful evil-aligned plane: Hell)
   - **Organization**: Solitary

@@ -18,8 +18,8 @@ special-attacks: "Death throes, poison use, sneak attack +2d6, soul harvest, spe
 special-qualities: "Detect magic, see in darkness, magical knack, light blindness"
 saves: "Fort +2, Ref +8, Will +1"
 abilities: "Str 9, Dex 18, Con 12, Int 10, Wis 11, Cha 15"
-skills: "Arcana +7, Athletics +3, Emulation +12, Perception +4, Stealth +12"
-skill-ranks: "Arcana 4, Athletics 0, Emulation 7, Perception 0, Stealth 0"
+skills: "Athletics +3, Emulation +12, Mysticism +7, Perception +4, Stealth +12"
+skill-ranks: "Athletics 0, Emulation 7, Mysticism 4, Perception 0, Stealth 0"
 feats: "Skill Focus (Emulation), Weapon Finesse"
 environment: "Any underground"
 organization: "Solitary, gang (1 dark slayer and 2–5 dark stalkers), or clan (20–80 dark creepers plus 1 dark stalker or dark slayer per 20 dark creepers)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: Detect magic, [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Magical Knack|magical knack]], [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
   - **Saves**: Fort +2, Ref +8, Will +1
   - **Abilities**: Str 9, Dex 18, Con 12, Int 10, Wis 11, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Emulation|Emulation]] +12, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +12
+  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Emulation|Emulation]] +12, [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +12
   - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Emulation), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
   - **Environment**: Any underground
   - **Organization**: Solitary, gang (1 dark slayer and 2–5 dark stalkers), or clan (20–80 dark creepers plus 1 dark stalker or dark slayer per 20 dark creepers)
@@ -77,6 +77,6 @@ Dark slayers speak Dark Folk.
 
 **Death Throes (Su)**: When a dark slayer is slain, its body implodes violently into nothingness, leaving its gear in a heap on the ground. All creatures within a 10-foot burst take 1d8 points of sonic damage and must make a DC 13 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]] for 2d4 rounds. The save DC is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Magical Knack|Magical Knack]] (Ex)**: Arcana and Emulation are always class skills for dark slayers.
+**[[rangoric-srd/monsters/abilities/Magical Knack|Magical Knack]] (Ex)**: Emulation and [[rangoric-srd/skills/Mysticism|Mysticism]] are always class skills for dark slayers.
 
 **[[rangoric-srd/monsters/abilities/Soul Harvest|Soul Harvest]] (Su)**: When a dark slayer damages a flat-footed foe or a foe it is flanking with a melee touch spell or spell-like ability that deals hit point damage, the spell does an additional 1d6 points of damage and the dark slayer gains an equal amount of temporary hit points. These temporary hit points last for a maximum of 1 hour.

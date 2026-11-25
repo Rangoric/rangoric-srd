@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy 5/day (DC 16, 4d6, +8 against creature
 special-qualities: "Darkvision 60 ft., crafty, light sensitivity"
 saves: "Fort +6, Ref +5, Will +9"
 abilities: "Str 4, Dex 16, Con 10, Int 10, Wis 16, Cha 14"
-skills: "Arcana +11, Craft (trapmaking) +2, Medicine +14, Perception +5, Profession (miner) +5, Stealth +18"
-skill-ranks: "Arcana 8, Craft (trapmaking) 2, Medicine 8, Perception 0, Profession (miner) 2, Stealth 8"
+skills: "Craft (trapmaking) +2, Medicine +14, Mysticism +11, Perception +5, Profession (miner) +5, Stealth +18"
+skill-ranks: "Craft (trapmaking) 2, Medicine 8, Mysticism 8, Perception 0, Profession (miner) 2, Stealth 8"
 feats: "Channeled Shield Wall, Combat Casting, Selective Channeling, Toughness"
 environment: "Temperate underground or deep forest"
 organization: "Solitary, or with other kobolds (see Kobold)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Kobold|crafty]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
   - **Saves**: Fort +6, Ref +5, Will +9
   - **Abilities**: Str 4, Dex 16, Con 10, Int 10, Wis 16, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +2, [[rangoric-srd/skills/Medicine|Medicine]] +14, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Profession|Profession]] (miner) +5, [[rangoric-srd/skills/Stealth|Stealth]] +18
+  - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +2, [[rangoric-srd/skills/Medicine|Medicine]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Profession|Profession]] (miner) +5, [[rangoric-srd/skills/Stealth|Stealth]] +18
   - **Feats**: [[rangoric-srd/feats/Channeled Shield Wall|Channeled Shield Wall]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Selective Channeling|Selective Channeling]], [[rangoric-srd/feats/Toughness|Toughness]]
   - **Environment**: Temperate underground or deep forest
   - **Organization**: Solitary, or with other kobolds (see [[rangoric-srd/monsters/kobold/Kobold|Kobold]])

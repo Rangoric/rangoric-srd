@@ -18,8 +18,8 @@ special-attacks: "Pain redoubled, spell-like abilities"
 special-qualities: "Darkvision 60 ft., telepathy 100 ft., change shape (Small or Medium humanoid; alter self), damage reduction 10/cold iron or good, immunity to electricity and poison, resistance to acid 10, cold 10 and fire 10, spell resistance 17"
 saves: "Fort +10, Ref +6, Will +8"
 abilities: "Str 20, Dex 15, Con 18, Int 16, Wis 15, Cha 21"
-skills: "Acrobatics +13, Arcana +11, Deception +16, Escape Artist +6, Intimidation +24, Perception +21, Persuasion +16, Sense Motive +13, Stealth +11, Theology +14"
-skill-ranks: "Acrobatics 8, Arcana 5, Deception 8, Escape Artist 1, Intimidation 8, Perception 8, Persuasion 8, Sense Motive 8, Stealth 6, Theology 8"
+skills: "Acrobatics +13, Deception +16, Escape Artist +6, Intimidation +24, Mysticism +11, Perception +21, Persuasion +16, Sense Motive +13, Stealth +11, Theology +14"
+skill-ranks: "Acrobatics 8, Deception 8, Escape Artist 1, Intimidation 8, Mysticism 5, Perception 8, Persuasion 8, Sense Motive 8, Stealth 6, Theology 8"
 feats: "Flyby Attack, Lightning Reflexes, Power Attack, Vital Strike"
 environment: "Any (a chaotic evil-aligned plane: the Abyss)"
 organization: "Solitary, pair, or wing (2–8)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (Small or Medium humanoid; alter self), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron or good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
   - **Saves**: Fort +10, Ref +6, Will +8
   - **Abilities**: Str 20, Dex 15, Con 18, Int 16, Wis 15, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +24, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Persuasion|Persuasion]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +11, [[rangoric-srd/skills/Theology|Theology]] +14
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +24, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Persuasion|Persuasion]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +11, [[rangoric-srd/skills/Theology|Theology]] +14
   - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
   - **Environment**: Any (a chaotic evil-aligned plane: the Abyss)
   - **Organization**: Solitary, pair, or wing (2–8)

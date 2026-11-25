@@ -12,8 +12,8 @@ special-attacks: "Spell-like abilities, engulf, frightful presence"
 special-qualities: "Blindsight 300 ft., SR 36, discorporate, bonus hit points, immunities"
 saves: "Fort +11, Ref +14, Will +17"
 abilities: "Str 10, Dex 14 (18 with gloves), Con 13 (15 with Ioun stone), Int 20 (26 with headband), Wis 12, Cha 8"
-skills: "Craft (alchemy) +31, Arcana +31, Society +31, Nature +31, Theology +31, Perception +27, Stealth +28"
-skill-ranks: "Arcana 23, Craft (alchemy) 23, Nature 23, Perception 23, Society 23, Stealth 23, Theology 23"
+skills: "Craft (alchemy) +31, Arcana +31, Mysticism +31, Society +31, Nature +31, Theology +31, Perception +27, Stealth +28"
+skill-ranks: "Arcana 23, Craft (alchemy) 23, Mysticism 23, Nature 23, Perception 23, Society 23, Stealth 23, Theology 23"
 feats: "Brew Potion, Combat Casting, Craft Staff, Craft Wondrous Item, Heighten Spell, Improved Initiative, Lightning Reflexes, Maximize Spell, Quicken Spell, Scribe Scroll, Spell Penetration, Toughness"
 epic-feats: "Improved Spell Capacity (10th), Improved Spell Capacity (11th)"
 environment: "Any"
@@ -45,7 +45,7 @@ Special Attacks: Spell-like abilities, engulf, [[rangoric-srd/monsters/Monster T
 Special Qualities: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 300 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 36, discorporate, bonus hit points, immunities     
 Saves: Fort +11, Ref +14, Will +17      
 Abilities: Str 10, Dex 14 (18 with gloves), Con 13 (15 with Ioun stone), Int 20 (26 with headband), Wis 12, Cha 8     
-Skills: [[rangoric-srd/skills/Arcana|Arcana]] +31, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +31, [[rangoric-srd/skills/Nature|Nature]] +31, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Society|Society]] +31, [[rangoric-srd/skills/Stealth|Stealth]] +28, [[rangoric-srd/skills/Theology|Theology]] +31     
+Skills: [[rangoric-srd/skills/Arcana|Arcana]] +31, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +31, [[rangoric-srd/skills/Mysticism|Mysticism]] +31, [[rangoric-srd/skills/Nature|Nature]] +31, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Society|Society]] +31, [[rangoric-srd/skills/Stealth|Stealth]] +28, [[rangoric-srd/skills/Theology|Theology]] +31     
 Feats: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Craft Staff|Craft Staff]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Heighten Spell|Heighten Spell]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Maximize Spell|Maximize Spell]], [[rangoric-srd/feats/Quicken Spell|Quicken Spell]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Spell Penetration|Spell Penetration]], [[rangoric-srd/feats/Toughness|Toughness]]      
 Epic Feats: [[rangoric-srd/feats/Improved Spell Capacity|Improved Spell Capacity]] (10th), [[rangoric-srd/feats/Improved Spell Capacity|Improved Spell Capacity]] (11th)      
 Climate/Terrain: Any      

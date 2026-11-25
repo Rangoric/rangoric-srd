@@ -17,8 +17,8 @@ special-attacks: "Poison"
 special-qualities: "Darkvision 60 ft."
 saves: "Fort +9, Ref +12, Will +12"
 abilities: "Str 21, Dex 23, Con 20, Int 16, Wis 19, Cha 18"
-skills: "Arcana +18, Deception +16, Perception +25, Persuasion +16, Sense Motive +18, Stealth +17"
-skill-ranks: "Arcana 12, Deception 9, Perception 16, Persuasion 9, Sense Motive 13, Stealth 12"
+skills: "Arcana +18, Deception +16, Mysticism +18, Perception +25, Persuasion +16, Sense Motive +18, Stealth +17"
+skill-ranks: "Arcana 12, Deception 9, Mysticism 12, Perception 16, Persuasion 9, Sense Motive 13, Stealth 12"
 feats: "Blind-Fight, Combat Casting, Combat Expertise, Eschew Materials, Improved Trip, Lightning Reflexes, Skill Focus (Perception)"
 environment: "Temperate plains"
 organization: "Solitary, pair, or nest (3–6)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
   - **Saves**: Fort +9, Ref +12, Will +12
   - **Abilities**: Str 21, Dex 23, Con 20, Int 16, Wis 19, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +18, [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Persuasion|Persuasion]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +17
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +18, [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Mysticism|Mysticism]] +18, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Persuasion|Persuasion]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +17
   - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
   - **Environment**: Temperate plains
   - **Organization**: Solitary, pair, or nest (3–6)

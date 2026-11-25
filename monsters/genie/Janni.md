@@ -18,8 +18,8 @@ special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., telepathy 100 ft., elemental endurance, resistance to fire 10"
 saves: "Fort +6, Ref +7, Will +4"
 abilities: "Str 16, Dex 15, Con 12, Int 14, Wis 15, Cha 13"
-skills: "Acrobatics +14, Animal Handling +6, Appraise +11, Arcana +11, Craft (any one-usually weaponsmith) +11, Perception +11, Sense Motive +11, Stealth +6"
-skill-ranks: "Acrobatics 9, Animal Handling 1, Appraise 6, Arcana 6, Craft (any one-usually weaponsmith) 6, Perception 6, Sense Motive 6, Stealth 1"
+skills: "Acrobatics +14, Animal Handling +6, Appraise +11, Craft (any one-usually weaponsmith) +11, Mysticism +11, Perception +11, Sense Motive +11, Stealth +6"
+skill-ranks: "Acrobatics 9, Animal Handling 1, Appraise 6, Craft (any one-usually weaponsmith) 6, Mysticism 6, Perception 6, Sense Motive 6, Stealth 1"
 feats: "Combat Reflexes, Dodge, Improved Initiative, Mobility"
 environment: "Warm deserts"
 organization: "Solitary, pair, company (3–6), or band (7–12)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., elemental endurance, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
   - **Saves**: Fort +6, Ref +7, Will +4
   - **Abilities**: Str 16, Dex 15, Con 12, Int 14, Wis 15, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Appraise|Appraise]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Craft|Craft]] (any one-usually weaponsmith) +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +6
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Appraise|Appraise]] +11, [[rangoric-srd/skills/Craft|Craft]] (any one-usually weaponsmith) +11, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +6
   - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]]
   - **Environment**: Warm deserts
   - **Organization**: Solitary, pair, company (3–6), or band (7–12)

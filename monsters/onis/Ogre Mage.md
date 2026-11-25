@@ -18,8 +18,8 @@ special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, regeneration 5 (fire or acid), change shape (Small, Medium, or Large humanoid; alter self or giant form I), flight, spell resistance 19"
 saves: "Fort +12, Ref +5, Will +10"
 abilities: "Str 24, Dex 17, Con 23, Int 14, Wis 14, Cha 17"
-skills: "Acrobatics +5, Arcana +13, Deception +14, Emulation +14, Imitation +14, Intimidation +14, Perception +13, Sense Motive +13"
-skill-ranks: "Acrobatics 1, Arcana 8, Deception 8, Emulation 8, Imitation 8, Intimidation 8, Perception 8, Sense Motive 8"
+skills: "Acrobatics +5, Arcana +13, Deception +14, Emulation +14, Imitation +14, Intimidation +14, Mysticism +13, Perception +13, Sense Motive +13"
+skill-ranks: "Acrobatics 1, Arcana 8, Deception 8, Emulation 8, Imitation 8, Intimidation 8, Mysticism 8, Perception 8, Sense Motive 8"
 feats: "Combat Expertise, Combat Reflexes, Improved Initiative, Iron Will"
 environment: "Cold hills"
 organization: "Solitary, pair, or patrol (1–2 plus 2–4 ogres)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (fire or acid), [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (Small, Medium, or Large humanoid; alter self or giant form I), [[rangoric-srd/monsters/abilities/Flight|flight]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
   - **Saves**: Fort +12, Ref +5, Will +10
   - **Abilities**: Str 24, Dex 17, Con 23, Int 14, Wis 14, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Arcana|Arcana]] +13, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Emulation|Emulation]] +14, [[rangoric-srd/skills/Imitation|Imitation]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Arcana|Arcana]] +13, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Emulation|Emulation]] +14, [[rangoric-srd/skills/Imitation|Imitation]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13
   - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]]
   - **Environment**: Cold hills
   - **Organization**: Solitary, pair, or patrol (1–2 plus 2–4 ogres)
@@ -95,7 +95,7 @@ Ogre mage characters possess the following racial traits.
 
 - Racial Hit Dice: An ogre mage begins with eight levels of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|outsider]], which provide 8d10 Hit Dice, a base attack bonus of +8, and base saving throw bonuses of Fort +6, Ref +2, and Will +6.
 
-- Racial Skills: An ogre mage’s outsider levels give it skill points equal to 8 x (6 + Int modifier \[minimum 1\]). Its class skills are [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Arcana|Arcana]], [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Emulation|Emulation]], [[rangoric-srd/skills/Imitation|Imitation]], [[rangoric-srd/skills/Intimidation|Intimidation]], [[rangoric-srd/skills/Perception|Perception]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]].
+- Racial Skills: An ogre mage’s outsider levels give it skill points equal to 8 x (6 + Int modifier \[minimum 1\]). Its class skills are [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Arcana|Arcana]], [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Emulation|Emulation]], [[rangoric-srd/skills/Imitation|Imitation]], [[rangoric-srd/skills/Intimidation|Intimidation]], [[rangoric-srd/skills/Mysticism|Mysticism]], [[rangoric-srd/skills/Perception|Perception]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]].
 
 - Racial Feats: An ogre mage’s outsider levels give it four feats.
 

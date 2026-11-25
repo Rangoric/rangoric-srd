@@ -18,8 +18,8 @@ special-attacks: "Constrict (1d8+9), sucking wind, wind blast, spell-like abilit
 special-qualities: "Darkvision 60 ft., frightful presence (90 ft., DC 24), amorphous, deflecting winds, partial invisibility, damage reduction 10/magic and slashing, immunity to acid, cold and sonic, spell resistance 25, vulnerable to electricity"
 saves: "Fort +13, Ref +12, Will +16"
 abilities: "Str 28, Dex 15, Con 24, Int 19, Wis 20, Cha 21"
-skills: "Acrobatics +27, Arcana +25, Emulation +23, Engineering +22, Nature +22, Perception +26, Society +22, Stealth +15"
-skill-ranks: "Acrobatics 26, Arcana 18, Emulation 15, Engineering 15, Nature 15, Perception 18, Society 15, Stealth 18"
+skills: "Acrobatics +27, Emulation +23, Engineering +22, Mysticism +25, Nature +22, Perception +26, Society +22, Stealth +15"
+skill-ranks: "Acrobatics 26, Emulation 15, Engineering 15, Mysticism 18, Nature 15, Perception 18, Society 15, Stealth 18"
 feats: "Combat Reflexes, Dodge, Flyby Attack, Improved Critical (tentacle), Improved Initiative, Mobility, Power Attack, Vital Strike, Weapon Focus (tentacle)"
 environment: "Any"
 organization: "Solitary, pair, or storm (3–10)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (90 ft., DC 24), [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], deflecting winds, partial invisibility, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic and slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, cold and sonic, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25, vulnerable to electricity
   - **Saves**: Fort +13, Ref +12, Will +16
   - **Abilities**: Str 28, Dex 15, Con 24, Int 19, Wis 20, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +27, [[rangoric-srd/skills/Arcana|Arcana]] +25, [[rangoric-srd/skills/Emulation|Emulation]] +23, [[rangoric-srd/skills/Engineering|Engineering]] +22, [[rangoric-srd/skills/Nature|Nature]] +22, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Society|Society]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +15
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +27, [[rangoric-srd/skills/Emulation|Emulation]] +23, [[rangoric-srd/skills/Engineering|Engineering]] +22, [[rangoric-srd/skills/Mysticism|Mysticism]] +25, [[rangoric-srd/skills/Nature|Nature]] +22, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Society|Society]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +15
   - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (tentacle), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacle)
   - **Environment**: Any
   - **Organization**: Solitary, pair, or storm (3–10)

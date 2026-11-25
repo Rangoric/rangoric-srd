@@ -17,8 +17,8 @@ special-attacks: "—"
 special-qualities: "Low-light vision, bloodline arcana (+2 DC for compulsion spells)"
 saves: "Fort +0, Ref +3, Will +1"
 abilities: "Str 12, Dex 16, Con 11, Int 10, Wis 8, Cha 17"
-skills: "Acrobatics +1, Arcana +4"
-skill-ranks: "Acrobatics 0, Arcana 1"
+skills: "Acrobatics +1, Arcana +4, Mysticism +4"
+skill-ranks: "Acrobatics 0, Arcana 1, Mysticism 1"
 feats: "Dodge, Eschew Materials"
 environment: "Temperate forests or jungles"
 organization: "Solitary, flight (2–6), or grove (2–12)"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], bloodline arcana (+2 DC for compulsion spells)
   - **Saves**: Fort +0, Ref +3, Will +1
   - **Abilities**: Str 12, Dex 16, Con 11, Int 10, Wis 8, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +1, [[rangoric-srd/skills/Arcana|Arcana]] +4
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +1, [[rangoric-srd/skills/Arcana|Arcana]] +4, [[rangoric-srd/skills/Mysticism|Mysticism]] +4
   - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]]
   - **Environment**: Temperate forests or jungles
   - **Organization**: Solitary, flight (2–6), or grove (2–12)

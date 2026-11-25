@@ -17,8 +17,8 @@ special-attacks: "Mind-warping gaze, spell-like abilities"
 special-qualities: "Darkvision 60 ft., telepathy 100 ft., spell resistance 17"
 saves: "Fort +6, Ref +10, Will +10"
 abilities: "Str 12, Dex 19, Con 16, Int 17, Wis 19, Cha 18"
-skills: "Acrobatics +20, Arcana +12, Knowledge +12, Perception +16, Sense Motive +13, Stealth +16"
-skill-ranks: "Acrobatics 13, Arcana 6, Knowledge 6, Perception 9, Sense Motive 6, Stealth 9"
+skills: "Acrobatics +20, Knowledge +12, Mysticism +12, Perception +16, Sense Motive +13, Stealth +16"
+skill-ranks: "Acrobatics 13, Knowledge 6, Mysticism 6, Perception 9, Sense Motive 6, Stealth 9"
 feats: "Agile Maneuvers, Blind-Fight, Flyby Attack, Improved Initiative, Weapon Finesse"
 environment: "Any land"
 organization: "Solitary"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
   - **Saves**: Fort +6, Ref +10, Will +10
   - **Abilities**: Str 12, Dex 19, Con 16, Int 17, Wis 19, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Knowledge|Knowledge]] +12, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +16
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Knowledge|Knowledge]] +12, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +16
   - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
   - **Environment**: Any land
   - **Organization**: Solitary

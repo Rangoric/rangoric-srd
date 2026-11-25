@@ -18,8 +18,8 @@ special-attacks: "Desecrating aura (30 ft.), channel energy (7d6, DC 28, 8/day),
 special-qualities: "Darksense, darkvision 60 ft., detect magic, low-light vision, telepathy 100 ft., damage reduction 15/good and silver, immunity to cold, undead traits, spell resistance 25, light aversion"
 saves: "Fort +12, Ref +11, Will +17"
 abilities: "Str 31, Dex 18, Con —, Int 18, Wis 21, Cha 21"
-skills: "Acrobatics +24, Arcana +24, Athletics +27, Perception +25, Sense Motive +25, Stealth +16 (+24 in darkness), Theology +24"
-skill-ranks: "Acrobatics 21, Arcana 17, Athletics 14, Perception 17, Sense Motive 17, Stealth 17, Theology 17"
+skills: "Acrobatics +24, Arcana +24, Athletics +27, Mysticism +24, Perception +25, Sense Motive +25, Stealth +16 (+24 in darkness), Theology +24"
+skill-ranks: "Acrobatics 21, Arcana 17, Athletics 14, Mysticism 17, Perception 17, Sense Motive 17, Stealth 17, Theology 17"
 feats: "Cleave, Combat Reflexes, Command Undead, Great Cleave, Improved Critical (bite), Improved Initiative, Improved Sunder, Power Attack, Snatch"
 environment: "Any (Negative Energy Plane or Plane of Shadow)"
 organization: "Solitary, pair, or flight (3–6)"
@@ -54,7 +54,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^nightshade|Darksense]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/good and silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^nightshade|light aversion]]
   - **Saves**: Fort +12, Ref +11, Will +17
   - **Abilities**: Str 31, Dex 18, Con —, Int 18, Wis 21, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +24, [[rangoric-srd/skills/Arcana|Arcana]] +24, [[rangoric-srd/skills/Athletics|Athletics]] +27, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +25, [[rangoric-srd/skills/Stealth|Stealth]] +16 (+24 in darkness), [[rangoric-srd/skills/Theology|Theology]] +24
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +24, [[rangoric-srd/skills/Arcana|Arcana]] +24, [[rangoric-srd/skills/Athletics|Athletics]] +27, [[rangoric-srd/skills/Mysticism|Mysticism]] +24, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +25, [[rangoric-srd/skills/Stealth|Stealth]] +16 (+24 in darkness), [[rangoric-srd/skills/Theology|Theology]] +24
   - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Command Undead (Feat)|Command Undead]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Snatch|Snatch]]
   - **Environment**: Any (Negative Energy Plane or Plane of Shadow)
   - **Organization**: Solitary, pair, or flight (3–6)

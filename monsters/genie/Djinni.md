@@ -18,8 +18,8 @@ special-attacks: "Air mastery, whirlwind (1/10 minutes, 10-50 ft. tall, 1d8+4 da
 special-qualities: "Darkvision 60 ft., telepathy 100 ft., immunity to acid"
 saves: "Fort +4, Ref +9, Will +7"
 abilities: "Str 18, Dex 19, Con 14, Int 14, Wis 15, Cha 15"
-skills: "Acrobatics +20, Appraise +12, Arcana +12, Craft (any one) +12, Perception +12, Sense Motive +12, Stealth +10, Theology +12"
-skill-ranks: "Acrobatics 15, Appraise 7, Arcana 7, Craft (any one) 7, Perception 7, Sense Motive 7, Stealth 7, Theology 7"
+skills: "Acrobatics +20, Appraise +12, Craft (any one) +12, Mysticism +12, Perception +12, Sense Motive +12, Stealth +10, Theology +12"
+skill-ranks: "Acrobatics 15, Appraise 7, Craft (any one) 7, Mysticism 7, Perception 7, Sense Motive 7, Stealth 7, Theology 7"
 feats: "Combat Casting, Combat Reflexes, Dodge, Improved Initiative, Wind Stance"
 environment: "Any (Elemental Plane of Air)"
 organization: "Solitary, pair, company (3–6), or band (7–10)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid
   - **Saves**: Fort +4, Ref +9, Will +7
   - **Abilities**: Str 18, Dex 19, Con 14, Int 14, Wis 15, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Appraise|Appraise]] +12, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Craft|Craft]] (any one) +12, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +10, [[rangoric-srd/skills/Theology|Theology]] +12
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Appraise|Appraise]] +12, [[rangoric-srd/skills/Craft|Craft]] (any one) +12, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +10, [[rangoric-srd/skills/Theology|Theology]] +12
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Wind Stance|Wind Stance]]
   - **Environment**: Any (Elemental Plane of Air)
   - **Organization**: Solitary, pair, company (3–6), or band (7–10)

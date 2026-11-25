@@ -18,8 +18,8 @@ special-attacks: "Dream haunting, disease, spell-like abilities"
 special-qualities: "Darkvision 60 ft., change shape (any humanoid, alter self), heartstone, damage reduction 10/cold iron and magic, immunity to charm, cold, fear, fire and sleep, spell resistance 24"
 saves: "Fort +14, Ref +8, Will +11"
 abilities: "Str 21, Dex 19, Con 22, Int 18, Wis 16, Cha 17"
-skills: "Animal Handling +15, Arcana +15, Deception +17, Imitation +14, Intimidation +14, Perception +17, Persuasion +11, Sense Motive +14, Theology +15"
-skill-ranks: "Animal Handling 8, Arcana 8, Deception 10, Imitation 10, Intimidation 8, Perception 10, Persuasion 5, Sense Motive 10, Theology 8"
+skills: "Animal Handling +15, Arcana +12, Deception +17, Imitation +14, Intimidation +14, Mysticism +15, Perception +17, Persuasion +11, Sense Motive +14, Theology +15"
+skill-ranks: "Animal Handling 8, Arcana 5, Deception 10, Imitation 10, Intimidation 8, Mysticism 8, Perception 10, Persuasion 5, Sense Motive 10, Theology 8"
 feats: "Combat Casting, Mounted Combat, Skill Focus (Deception, Perception)"
 environment: "Any evil-aligned plane"
 organization: "Solitary, mounted (1 and 1 nightmare), coven (3 hags of any type), or covey (3, on nightmares)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (any humanoid, alter self), heartstone, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron and magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to charm, cold, fear, fire and sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 24
   - **Saves**: Fort +14, Ref +8, Will +11
   - **Abilities**: Str 21, Dex 19, Con 22, Int 18, Wis 16, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +15, [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Imitation|Imitation]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Theology|Theology]] +15
+  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +15, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Imitation|Imitation]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Theology|Theology]] +15
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Perception)
   - **Environment**: Any evil-aligned plane
   - **Organization**: Solitary, mounted (1 and 1 nightmare), coven (3 hags of any type), or covey (3, on nightmares)

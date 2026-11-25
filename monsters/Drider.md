@@ -17,8 +17,8 @@ special-attacks: "Web (+7 ranged, DC 18, hp 9), poison, spell-like abilities"
 special-qualities: "Darkvision 120 ft., detect good, detect law, detect magic, undersized weapons, immunity to sleep, spell resistance 18"
 saves: "Fort +7, Ref +5, Will +9"
 abilities: "Str 15, Dex 15, Con 18, Int 15, Wis 16, Cha 16"
-skills: "Arcana +14, Athletics +22, Intimidation +15, Perception +15, Stealth +14"
-skill-ranks: "Arcana 9, Athletics 17, Intimidation 9, Perception 9, Stealth 9"
+skills: "Arcana +14, Athletics +22, Intimidation +15, Mysticism +14, Perception +15, Stealth +14"
+skill-ranks: "Arcana 9, Athletics 17, Intimidation 9, Mysticism 9, Perception 9, Stealth 9"
 feats: "Blind-Fight, Dodge, Combat Casting, Weapon Focus (bite, mace)"
 environment: "Any underground"
 organization: "Solitary, pair, group (3–8), or troupe (1–2 plus 7–12 Medium monstrous spiders)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., detect good, detect law, detect magic, [[rangoric-srd/monsters/abilities/Undersized Weapons|undersized weapons]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 18
   - **Saves**: Fort +7, Ref +5, Will +9
   - **Abilities**: Str 15, Dex 15, Con 18, Int 15, Wis 16, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +14
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Mysticism|Mysticism]] +14, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +14
   - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite, mace)
   - **Environment**: Any underground
   - **Organization**: Solitary, pair, group (3–8), or troupe (1–2 plus 7–12 Medium monstrous spiders)

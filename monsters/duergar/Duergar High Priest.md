@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy 4/day (DC 17, 7d6), spell-like abiliti
 special-qualities: "Darkvision 120 ft., slow and steady, stability, immunity to paralysis, phantasms and poison, light sensitivity"
 saves: "Fort +10, Ref +4, Will +13 (+2 vs. spells)"
 abilities: "Str 13, Dex 10, Con 14, Int 8, Wis 20, Cha 12"
-skills: "Arcana +9, Perception +18, Theology +8"
-skill-ranks: "Arcana 7, Perception 10, Theology 6"
+skills: "Mysticism +9, Perception +18, Theology +8"
+skill-ranks: "Mysticism 7, Perception 10, Theology 6"
 feats: "Combat Casting, Gray Dwarf Magic (ironskin), Giant Steps, Innate Flexibility, Tough as Iron, Toughness, Weapon Focus (heavy mace)"
 environment: "Any underground"
 organization: "Solitary, or with other duergar (see Duergar, 1st-Level Warrior)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., slow and steady, stability, immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], phantasms and poison, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
   - **Saves**: Fort +10, Ref +4, Will +13 (+2 vs. spells)
   - **Abilities**: Str 13, Dex 10, Con 14, Int 8, Wis 20, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Theology|Theology]] +8
+  - **Skills**: [[rangoric-srd/skills/Mysticism|Mysticism]] +9, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Theology|Theology]] +8
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Gray Dwarf Magic|Gray Dwarf Magic]] (ironskin), [[rangoric-srd/feats/Giant Steps|Giant Steps]], [[rangoric-srd/feats/Innate Flexibility|Innate Flexibility]], [[rangoric-srd/feats/Tough as Iron|Tough as Iron]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (heavy mace)
   - **Environment**: Any underground
   - **Organization**: Solitary, or with other duergar (see [[rangoric-srd/monsters/duergar/Duergar, 1st-Level Warrior|Duergar, 1st-Level Warrior]])

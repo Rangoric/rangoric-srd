@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Darkvision 90 ft., stench (30 ft., DC 13, 10 rounds), nature bond (Animal domain), nature sense, speak with animals (6 rounds/day), trackless step, wild empathy +5, woodland stride, speak with animals (1/day)"
 saves: "Fort +8, Ref +3, Will +5"
 abilities: "Str 10, Dex 11, Con 14, Int 10, Wis 15, Cha 15"
-skills: "Arcana +6, Athletics +8, Fieldcraft +10, Medicine +7, Nature +2, Perception +10, Stealth +7 (+11 in rocky areas)"
-skill-ranks: "Arcana 3, Athletics 5, Fieldcraft 5, Medicine 2, Nature 2, Perception 5, Stealth 4"
+skills: "Athletics +8, Fieldcraft +10, Medicine +7, Mysticism +6, Nature +2, Perception +10, Stealth +7 (+11 in rocky areas)"
+skill-ranks: "Athletics 5, Fieldcraft 5, Medicine 2, Mysticism 3, Nature 2, Perception 5, Stealth 4"
 feats: "Combat Casting, Improved Initiative, Lightning Reflexes"
 environment: "Any underground"
 organization: "Solitary, or with other troglodytes (see Troglodyte)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft., [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., DC 13, 10 rounds), [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]] ([[rangoric-srd/class-options/domains/Animal Domain|Animal domain]]), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/class-options/domains/Animal Domain|speak with animals]] (6 rounds/day), [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +5, [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]], [[rangoric-srd/class-options/domains/Animal Domain|speak with animals]] (1/day)
   - **Saves**: Fort +8, Ref +3, Will +5
   - **Abilities**: Str 10, Dex 11, Con 14, Int 10, Wis 15, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Medicine|Medicine]] +7, [[rangoric-srd/skills/Nature|Nature]] +2, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +7 (+11 in rocky areas)
+  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Medicine|Medicine]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Nature|Nature]] +2, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +7 (+11 in rocky areas)
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
   - **Environment**: Any underground
   - **Organization**: Solitary, or with other troglodytes (see [[rangoric-srd/monsters/troglodyte/Troglodyte|Troglodyte]])

@@ -18,8 +18,8 @@ special-attacks: "Unholy nimbus, spell-like abilities"
 special-qualities: "Darkvision 60 ft., true seeing, unholy aura (DC 23), telepathy 100 ft., damage reduction 10/good, immunity to electricity and poison, resistance to acid 10, cold 10 and fire 10, spell resistance 25"
 saves: "Fort +22, Ref +9, Will +21"
 abilities: "Str 32, Dex 13, Con 29, Int 23, Wis 22, Cha 20"
-skills: "Acrobatics +10, Arcana +23, Deception +22, Emulation +22, Intimidation +19, Knowledge +20, Perception +31, Persuasion +22, Sense Motive +23, Stealth +10, Theology +23"
-skill-ranks: "Acrobatics 10, Arcana 14, Deception 14, Emulation 14, Intimidation 11, Knowledge 11, Perception 22, Persuasion 14, Sense Motive 14, Stealth 14, Theology 14"
+skills: "Acrobatics +10, Arcana +23, Deception +22, Emulation +22, Intimidation +19, Knowledge +20, Mysticism +23, Perception +31, Persuasion +22, Sense Motive +23, Stealth +10, Theology +23"
+skill-ranks: "Acrobatics 10, Arcana 14, Deception 14, Emulation 14, Intimidation 11, Knowledge 11, Mysticism 14, Perception 22, Persuasion 14, Sense Motive 14, Stealth 14, Theology 14"
 feats: "Awesome Blow, Cleave, Improved Bull Rush, Improved Critical (bite), Improved Initiative, Iron Will, Power Attack"
 environment: "A chaotic evil-aligned plane"
 organization: "Solitary or warband (1 nalfeshnee, 1 hezrou, and 2–5 vrocks)"
@@ -54,7 +54,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., *[[rangoric-srd/spells/True Seeing|true seeing]]*, [[rangoric-srd/spells/Unholy Aura|unholy aura]] (DC 23), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25
   - **Saves**: Fort +22, Ref +9, Will +21
   - **Abilities**: Str 32, Dex 13, Con 29, Int 23, Wis 22, Cha 20
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +23, [[rangoric-srd/skills/Deception|Deception]] +22, [[rangoric-srd/skills/Emulation|Emulation]] +22, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Knowledge|Knowledge]] +20, [[rangoric-srd/skills/Perception|Perception]] +31, [[rangoric-srd/skills/Persuasion|Persuasion]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Stealth|Stealth]] +10, [[rangoric-srd/skills/Theology|Theology]] +23
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +23, [[rangoric-srd/skills/Deception|Deception]] +22, [[rangoric-srd/skills/Emulation|Emulation]] +22, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Knowledge|Knowledge]] +20, [[rangoric-srd/skills/Mysticism|Mysticism]] +23, [[rangoric-srd/skills/Perception|Perception]] +31, [[rangoric-srd/skills/Persuasion|Persuasion]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Stealth|Stealth]] +10, [[rangoric-srd/skills/Theology|Theology]] +23
   - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
   - **Environment**: A chaotic evil-aligned plane
   - **Organization**: Solitary or warband (1 nalfeshnee, 1 hezrou, and 2–5 vrocks)

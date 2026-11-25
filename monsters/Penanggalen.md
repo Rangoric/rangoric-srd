@@ -18,8 +18,8 @@ special-attacks: "Blood drain (1d4 Constitution), create spawn, disease (filth f
 special-qualities: "Darkvision 60 ft., fast healing 5, channel resistance +4, separate, witch's familiar (centipede), damage reduction 5/silver and slashing, undead traits, resistance to cold 10 and fire 10, light sensitivity, penanggalen weaknesses"
 saves: "Fort +4, Ref +5, Will +7"
 abilities: "Str 18, Dex 18, Con —, Int 17, Wis 16, Cha 16"
-skills: "Acrobatics +20, Arcana +19, Deception +11, Emulation +11, Nature +7, Perception +16, Sense Motive +14, Stealth +20"
-skill-ranks: "Acrobatics 5, Arcana 13, Deception 0, Emulation 5, Nature 1, Perception 2, Sense Motive 3, Stealth 5"
+skills: "Acrobatics +20, Arcana +19, Deception +11, Emulation +11, Mysticism +11, Nature +7, Perception +16, Sense Motive +14, Stealth +20"
+skill-ranks: "Acrobatics 5, Arcana 13, Deception 0, Emulation 5, Mysticism 5, Nature 1, Perception 2, Sense Motive 3, Stealth 5"
 feats: "Dodge, Eschew Materials, Spell Focus (enchantment), Toughness"
 environment: "Any"
 organization: "Solitary"
@@ -58,7 +58,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Separate|separate]], witch's familiar (centipede), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/silver and slashing, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]], penanggalen weaknesses
   - **Saves**: Fort +4, Ref +5, Will +7
   - **Abilities**: Str 18, Dex 18, Con —, Int 17, Wis 16, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Arcana|Arcana]] +19, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Emulation|Emulation]] +11, [[rangoric-srd/skills/Nature|Nature]] +7, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +20
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Arcana|Arcana]] +19, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Emulation|Emulation]] +11, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Nature|Nature]] +7, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +20
   - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment), [[rangoric-srd/feats/Toughness|Toughness]]
   - **Environment**: Any
   - **Organization**: Solitary

@@ -17,8 +17,8 @@ special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., channel resistance +4, rejuvenation, create trap, resetter, damage reduction 5/-, undead traits"
 saves: "Fort +5, Ref +7, Will +7"
 abilities: "Str 6, Dex 17, Con —, Int 15, Wis 14, Cha 17"
-skills: "Acrobatics +20, Arcana +10, Craft (traps) +17, Engineering +10, Perception +12, Stealth +24"
-skill-ranks: "Acrobatics 10, Arcana 5, Craft (traps) 12, Engineering 4, Perception 7, Stealth 10"
+skills: "Acrobatics +20, Craft (traps) +17, Engineering +10, Mysticism +10, Perception +12, Stealth +24"
+skill-ranks: "Acrobatics 10, Craft (traps) 12, Engineering 4, Mysticism 5, Perception 7, Stealth 10"
 feats: "Flyby Attack, Improved Initiative, Lightning Reflexes, Skill Focus (Stealth)"
 environment: "Any urban or underground"
 organization: "Solitary or gang (2–6)"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Rejuvenation (Gearghost)|rejuvenation]], [[rangoric-srd/monsters/abilities/Create Trap|create trap]], [[rangoric-srd/monsters/abilities/Resetter|resetter]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
   - **Saves**: Fort +5, Ref +7, Will +7
   - **Abilities**: Str 6, Dex 17, Con —, Int 15, Wis 14, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Craft|Craft]] (traps) +17, [[rangoric-srd/skills/Engineering|Engineering]] +10, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +24
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Craft|Craft]] (traps) +17, [[rangoric-srd/skills/Engineering|Engineering]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +10, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +24
   - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
   - **Environment**: Any urban or underground
   - **Organization**: Solitary or gang (2–6)

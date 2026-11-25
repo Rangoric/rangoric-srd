@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy 1/day (DC 9, 1d6), rebuke undead, feat
 special-qualities: "Darkvision 60 ft., low-light vision, insanity 1"
 saves: "Fort +11, Ref –1, Will +6"
 abilities: "Str 25, Dex 6, Con 19, Int 8, Wis 12, Cha 7"
-skills: "Arcana +4, Perception +6"
-skill-ranks: "Arcana 2, Perception 3"
+skills: "Mysticism +4, Perception +6"
+skill-ranks: "Mysticism 2, Perception 3"
 feats: "Combat Casting, Iron Will, Power Attack"
 environment: "Temperate or cold hills"
 organization: "Solitary, or with other ogres (see Ogre)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/class-options/domains/Madness Domain|insanity]] 1
   - **Saves**: Fort +11, Ref –1, Will +6
   - **Abilities**: Str 25, Dex 6, Con 19, Int 8, Wis 12, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +4, [[rangoric-srd/skills/Perception|Perception]] +6
+  - **Skills**: [[rangoric-srd/skills/Mysticism|Mysticism]] +4, [[rangoric-srd/skills/Perception|Perception]] +6
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
   - **Environment**: Temperate or cold hills
   - **Organization**: Solitary, or with other ogres (see [[rangoric-srd/monsters/ogre/Ogre|Ogre]])

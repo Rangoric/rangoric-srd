@@ -18,8 +18,8 @@ special-attacks: "Burn (2d6, DC 23), whirlwind dance, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, smoke sight, telepathy 100 ft., damage reduction 10/cold iron and evil, immunity to electricity and fire, resistance to acid 10 and cold 10, spell resistance 25"
 saves: "Fort +12, Ref +18, Will +17"
 abilities: "Str 22, Dex 24, Con 19, Int 21, Wis 19, Cha 26"
-skills: "Acrobatics +33, Arcana +27, Medicine +23, Perception +26, Performance (any one) +30, Persuasion +30, Sense Motive +26, Stealth +29, Theology +27"
-skill-ranks: "Acrobatics 23, Arcana 19, Medicine 16, Perception 19, Performance (any one) 22, Persuasion 19, Sense Motive 19, Stealth 19, Theology 19"
+skills: "Acrobatics +33, Medicine +23, Mysticism +27, Perception +26, Performance (any one) +30, Persuasion +30, Sense Motive +26, Stealth +29, Theology +27"
+skill-ranks: "Acrobatics 23, Medicine 16, Mysticism 19, Perception 19, Performance (any one) 22, Persuasion 19, Sense Motive 19, Stealth 19, Theology 19"
 feats: "Combat Expertise, Combat Reflexes, Dodge, Great Fortitude, Improved Disarm, Iron Will, Mobility, Power Attack, Spring Attack, Whirlwind Attack"
 environment: "Any good-aligned plane"
 organization: "Solitary or pair"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Smoke Sight|smoke sight]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron and evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and fire, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25
   - **Saves**: Fort +12, Ref +18, Will +17
   - **Abilities**: Str 22, Dex 24, Con 19, Int 21, Wis 19, Cha 26
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +33, [[rangoric-srd/skills/Arcana|Arcana]] +27, [[rangoric-srd/skills/Medicine|Medicine]] +23, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Performance|Performance]] (any one) +30, [[rangoric-srd/skills/Persuasion|Persuasion]] +30, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +26, [[rangoric-srd/skills/Stealth|Stealth]] +29, [[rangoric-srd/skills/Theology|Theology]] +27
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +33, [[rangoric-srd/skills/Medicine|Medicine]] +23, [[rangoric-srd/skills/Mysticism|Mysticism]] +27, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Performance|Performance]] (any one) +30, [[rangoric-srd/skills/Persuasion|Persuasion]] +30, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +26, [[rangoric-srd/skills/Stealth|Stealth]] +29, [[rangoric-srd/skills/Theology|Theology]] +27
   - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Whirlwind Attack|Whirlwind Attack]]
   - **Environment**: Any good-aligned plane
   - **Organization**: Solitary or pair

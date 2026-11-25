@@ -18,8 +18,8 @@ special-attacks: "Blood frenzy, channel negative energy 3/day (DC 12, 2d6), dest
 special-qualities: "Blindsense 30 ft., darkvision 60 ft., light blindness, speak with sharks"
 saves: "Fort +7, Ref +4, Will +11 (+2 vs. good)"
 abilities: "Str 18, Dex 10, Con 17, Int 14, Wis 18, Cha 11"
-skills: "Animal Handling +4, Arcana +11, Athletics +16, Perception +13, Sense Motive +13, Theology +11"
-skill-ranks: "Animal Handling 1, Arcana 6, Athletics 9, Perception 6, Sense Motive 6, Theology 6"
+skills: "Animal Handling +4, Athletics +16, Mysticism +11, Perception +13, Sense Motive +13, Theology +11"
+skill-ranks: "Animal Handling 1, Athletics 9, Mysticism 6, Perception 6, Sense Motive 6, Theology 6"
 feats: "Brew Potion, Combat Casting, Toughness"
 environment: "Temperate or warm ocean"
 organization: "Solitary, or with other sahuagin (see Sahuagin)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]], [[rangoric-srd/monsters/sahuagin/Sahuagin|speak with sharks]]
   - **Saves**: Fort +7, Ref +4, Will +11 (+2 vs. good)
   - **Abilities**: Str 18, Dex 10, Con 17, Int 14, Wis 18, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4, [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Theology|Theology]] +11
+  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Theology|Theology]] +11
   - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Toughness|Toughness]]
   - **Environment**: Temperate or warm ocean
   - **Organization**: Solitary, or with other sahuagin (see [[rangoric-srd/monsters/sahuagin/Sahuagin|Sahuagin]])

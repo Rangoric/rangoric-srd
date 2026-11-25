@@ -18,8 +18,8 @@ special-attacks: "Sneak attack +3d6, spawn undead, poison, spell-like abilities"
 special-qualities: "Darkvision 60 ft., deathwatch, detect good, detect magic, change shape (porcupine, beast shape II), immunity to poison"
 saves: "Fort +7, Ref +10, Will +10"
 abilities: "Str 14, Dex 18, Con 19, Int 15, Wis 14, Cha 19"
-skills: "Arcana +11, Deception +10, Medicine +10, Perception +13, Stealth +16, Theology +11"
-skill-ranks: "Arcana 6, Deception 3, Medicine 5, Perception 8, Stealth 5, Theology 6"
+skills: "Arcana +11, Deception +10, Medicine +10, Mysticism +11, Perception +13, Stealth +16, Theology +11"
+skill-ranks: "Arcana 6, Deception 3, Medicine 5, Mysticism 6, Perception 8, Stealth 5, Theology 6"
 feats: "Dodge, Iron Will, Mobility, Weapon Finesse, Weapon Focus (quill)"
 environment: "Temperate forests, hills, or mountains"
 organization: "Solitary, pair, or cult (3–10)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., deathwatch, detect good, detect magic, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (porcupine, beast shape II), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison
   - **Saves**: Fort +7, Ref +10, Will +10
   - **Abilities**: Str 14, Dex 18, Con 19, Int 15, Wis 14, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +16, [[rangoric-srd/skills/Theology|Theology]] +11
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +16, [[rangoric-srd/skills/Theology|Theology]] +11
   - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (quill)
   - **Environment**: Temperate forests, hills, or mountains
   - **Organization**: Solitary, pair, or cult (3–10)

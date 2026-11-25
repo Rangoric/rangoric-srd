@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy 4/day (DC 14, 2d6), fury of the Abyss 
 special-qualities: "Darkvision 90 ft., stench (30 ft., DC 14, 10 rounds)"
 saves: "Fort +7, Ref +0, Will +5"
 abilities: "Str 20, Dex 9, Con 12, Int 10, Wis 15, Cha 13"
-skills: "Arcana +5, Medicine +7, Sense Motive +7, Stealth +1 (+5 in rocky areas), Theology +6"
-skill-ranks: "Arcana 2, Medicine 2, Sense Motive 2, Stealth 2, Theology 3"
+skills: "Medicine +7, Mysticism +5, Sense Motive +7, Stealth +1 (+5 in rocky areas), Theology +6"
+skill-ranks: "Medicine 2, Mysticism 2, Sense Motive 2, Stealth 2, Theology 3"
 feats: "Combat Casting, Improved Channel, Weapon Focus (spiked gauntlet)"
 environment: "Any underground"
 organization: "Solitary, or with other troglodytes (see Troglodyte)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft., [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., DC 14, 10 rounds)
   - **Saves**: Fort +7, Ref +0, Will +5
   - **Abilities**: Str 20, Dex 9, Con 12, Int 10, Wis 15, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +5, [[rangoric-srd/skills/Medicine|Medicine]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +1 (+5 in rocky areas), [[rangoric-srd/skills/Theology|Theology]] +6
+  - **Skills**: [[rangoric-srd/skills/Medicine|Medicine]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +1 (+5 in rocky areas), [[rangoric-srd/skills/Theology|Theology]] +6
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Channel|Improved Channel]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spiked gauntlet)
   - **Environment**: Any underground
   - **Organization**: Solitary, or with other troglodytes (see [[rangoric-srd/monsters/troglodyte/Troglodyte|Troglodyte]])

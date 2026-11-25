@@ -18,8 +18,8 @@ special-attacks: "Spell-like abilities"
 special-qualities: "Blindsense 60 ft., regeneration 10 (good spells, good weapons), telepathy 100 ft., amorphous, compression, corrupt ally, no breath, damage reduction 15/-, immunity to acid, bludgeoning damage, electricity, mind-affecting effects and piercing damage, ooze traits, resistance to cold 30"
 saves: "Fort +16, Ref +9, Will +11"
 abilities: "Str 20, Dex 17, Con 26, Int 21, Wis 20, Cha 21"
-skills: "Acrobatics +3, Arcana +25, Intimidation +25, Perception +25, Sense Motive +25, Society +25, Theology +25"
-skill-ranks: "Acrobatics 0, Arcana 17, Intimidation 17, Perception 17, Sense Motive 17, Society 17, Theology 17"
+skills: "Acrobatics +3, Arcana +25, Intimidation +25, Mysticism +25, Perception +25, Sense Motive +25, Society +25, Theology +25"
+skill-ranks: "Acrobatics 0, Arcana 17, Intimidation 17, Mysticism 17, Perception 17, Sense Motive 17, Society 17, Theology 17"
 feats: "Ability Focus (charm person), Combat Casting, Dodge, Great Fortitude, Hover, Improved Great Fortitude, Improved Initiative, Quicken Spell-Like Ability (charm person), Toughness, Weapon Focus (slam)"
 environment: "Any ruins or underground"
 organization: "Solitary or cult (1 plus 3–12 worshipers or juju zombies)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 10 (good spells, good weapons), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Corrupt Ally|corrupt ally]], [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, bludgeoning damage, electricity, mind-affecting effects and piercing damage, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 30
   - **Saves**: Fort +16, Ref +9, Will +11
   - **Abilities**: Str 20, Dex 17, Con 26, Int 21, Wis 20, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Arcana|Arcana]] +25, [[rangoric-srd/skills/Intimidation|Intimidation]] +25, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +25, [[rangoric-srd/skills/Society|Society]] +25, [[rangoric-srd/skills/Theology|Theology]] +25
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Arcana|Arcana]] +25, [[rangoric-srd/skills/Intimidation|Intimidation]] +25, [[rangoric-srd/skills/Mysticism|Mysticism]] +25, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +25, [[rangoric-srd/skills/Society|Society]] +25, [[rangoric-srd/skills/Theology|Theology]] +25
   - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (charm person), [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Great Fortitude|Improved Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (charm person), [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
   - **Environment**: Any ruins or underground
   - **Organization**: Solitary or cult (1 plus 3–12 worshipers or juju zombies)

@@ -17,8 +17,8 @@ special-attacks: "Devour soul, spell-like abilities"
 special-qualities: "Darkvision 60 ft., true seeing, channel resistance +5, rejuvenation, unholy grace, damage reduction 20/-, immunity to acid, cold, electricity, magic and polymorph, undead traits, torpor, vorpal susceptibility"
 saves: "Fort +15, Ref +15, Will +21"
 abilities: "Str 6, Dex 17, Con —, Int 21, Wis 20, Cha 21"
-skills: "Acrobatics +23, Arcana +23, Deception +20, Dungeoneering +20, Perception +29, Sense Motive +23, Society +15, Stealth +24, Theology +18"
-skill-ranks: "Acrobatics 13, Arcana 15, Deception 12, Dungeoneering 12, Perception 19, Sense Motive 19, Society 7, Stealth 10, Theology 10"
+skills: "Acrobatics +23, Arcana +23, Deception +20, Dungeoneering +20, Mysticism +23, Perception +29, Sense Motive +23, Society +15, Stealth +24, Theology +18"
+skill-ranks: "Acrobatics 13, Arcana 15, Deception 12, Dungeoneering 12, Mysticism 15, Perception 19, Sense Motive 19, Society 7, Stealth 10, Theology 10"
 feats: "Ability Focus (devour soul), Defensive Combat Training, Dodge, Flyby Attack, Improved Initiative, Iron Will, Lightning Reflexes, Mobility, Skill Focus (Perception)"
 environment: "Any"
 organization: "Solitary"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., true seeing, [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +5, rejuvenation, unholy grace, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 20/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, cold, electricity, magic and polymorph, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], torpor, vorpal susceptibility
   - **Saves**: Fort +15, Ref +15, Will +21
   - **Abilities**: Str 6, Dex 17, Con —, Int 21, Wis 20, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Arcana|Arcana]] +23, [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +20, [[rangoric-srd/skills/Perception|Perception]] +29, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Society|Society]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +24, [[rangoric-srd/skills/Theology|Theology]] +18
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Arcana|Arcana]] +23, [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +20, [[rangoric-srd/skills/Mysticism|Mysticism]] +23, [[rangoric-srd/skills/Perception|Perception]] +29, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Society|Society]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +24, [[rangoric-srd/skills/Theology|Theology]] +18
   - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (devour soul), [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
   - **Environment**: Any
   - **Organization**: Solitary

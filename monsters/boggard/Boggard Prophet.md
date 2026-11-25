@@ -18,8 +18,8 @@ special-attacks: "Claws (1d6+5, 5 rounds/day), terrifying croak (DC 15)"
 special-qualities: "Darkvision 60 ft., low-light vision, bloodline arcana (summoned creatures gain DR 2/good), hold breath, swamp stride, resistance to electricity 5"
 saves: "Fort +8, Ref +2, Will +5 (+2 vs. poison)"
 abilities: "Str 20, Dex 9, Con 16, Int 10, Wis 9, Cha 14"
-skills: "Acrobatics +2, Arcana +7, Athletics +13 (+29 jumping), Emulation +9, Intimidation +6, Perception +3, Stealth +0 (+8 in swamps), Theology +5"
-skill-ranks: "Acrobatics 3, Arcana 4, Athletics 5, Emulation 4, Intimidation 1, Perception 1, Stealth 1, Theology 2"
+skills: "Acrobatics +2, Athletics +13 (+29 jumping), Emulation +9, Intimidation +6, Mysticism +7, Perception +3, Stealth +0 (+8 in swamps), Theology +5"
+skill-ranks: "Acrobatics 3, Athletics 5, Emulation 4, Intimidation 1, Mysticism 4, Perception 1, Stealth 1, Theology 2"
 feats: "Combat Casting, Eschew Materials, Improved Initiative, Toughness, Weapon Focus (claw)"
 environment: "Temperate marshes"
 organization: "Solitary, or with other boggards (see Boggard)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/class-options/bloodlines/Abyssal Bloodline|bloodline arcana]] (summoned creatures gain DR 2/good), [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/boggard/Boggard#^swamp-stride|swamp stride]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 5
   - **Saves**: Fort +8, Ref +2, Will +5 (+2 vs. poison)
   - **Abilities**: Str 20, Dex 9, Con 16, Int 10, Wis 9, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +13 (+29 jumping), [[rangoric-srd/skills/Emulation|Emulation]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +0 (+8 in swamps), [[rangoric-srd/skills/Theology|Theology]] +5
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Athletics|Athletics]] +13 (+29 jumping), [[rangoric-srd/skills/Emulation|Emulation]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +0 (+8 in swamps), [[rangoric-srd/skills/Theology|Theology]] +5
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
   - **Environment**: Temperate marshes
   - **Organization**: Solitary, or with other boggards (see [[rangoric-srd/monsters/boggard/Boggard|Boggard]])

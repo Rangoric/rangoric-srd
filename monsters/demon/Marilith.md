@@ -18,8 +18,8 @@ special-attacks: "Constrict (tail slap, 2d6+10 plus crushing coils), infuse weap
 special-qualities: "Darkvision 60 ft., true seeing, unholy aura (DC 25), telepathy 100 ft., damage reduction 10/cold iron and good, immunity to electricity and poison, resistance to acid 10, cold 10 and fire 10, spell resistance 28"
 saves: "Fort +25, Ref +18, Will +13"
 abilities: "Str 25, Dex 19, Con 32, Int 18, Wis 18, Cha 25"
-skills: "Acrobatics +23, Deception +26, Emulation +26, Engineering +20, Intimidation +26, Perception +31, Persuasion +26, Sense Motive +23, Stealth +19"
-skill-ranks: "Acrobatics 16, Deception 16, Emulation 16, Engineering 13, Intimidation 16, Perception 16, Persuasion 16, Sense Motive 16, Stealth 16"
+skills: "Acrobatics +23, Deception +26, Emulation +26, Engineering +20, Intimidation +26, Mysticism +23, Perception +31, Persuasion +26, Sense Motive +23, Stealth +19"
+skill-ranks: "Acrobatics 16, Deception 16, Emulation 16, Engineering 13, Intimidation 16, Mysticism 16, Perception 16, Persuasion 16, Sense Motive 16, Stealth 16"
 feats: "Bleeding Critical, Combat Expertise, Combat Reflexes, Critical Focus, Improved Critical (longsword), Improved Disarm, Power Attack, Weapon Focus (longsword)"
 environment: "A chaotic evil-aligned plane"
 organization: "Solitary, pair, or platoon (1 marilith, 1–3 glabrezus, and 3–14 babaus)"
@@ -54,7 +54,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., *[[rangoric-srd/spells/True Seeing|true seeing]]*, [[rangoric-srd/spells/Unholy Aura|unholy aura]] (DC 25), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron and good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 28
   - **Saves**: Fort +25, Ref +18, Will +13
   - **Abilities**: Str 25, Dex 19, Con 32, Int 18, Wis 18, Cha 25
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Deception|Deception]] +26, [[rangoric-srd/skills/Emulation|Emulation]] +26, [[rangoric-srd/skills/Engineering|Engineering]] +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +26, [[rangoric-srd/skills/Perception|Perception]] +31, [[rangoric-srd/skills/Persuasion|Persuasion]] +26, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Stealth|Stealth]] +19
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Deception|Deception]] +26, [[rangoric-srd/skills/Emulation|Emulation]] +26, [[rangoric-srd/skills/Engineering|Engineering]] +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +26, [[rangoric-srd/skills/Mysticism|Mysticism]] +23, [[rangoric-srd/skills/Perception|Perception]] +31, [[rangoric-srd/skills/Persuasion|Persuasion]] +26, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Stealth|Stealth]] +19
   - **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (longsword), [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
   - **Environment**: A chaotic evil-aligned plane
   - **Organization**: Solitary, pair, or platoon (1 marilith, 1–3 glabrezus, and 3–14 babaus)

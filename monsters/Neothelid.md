@@ -17,8 +17,8 @@ special-attacks: "Breath weapon (50-ft. cone, 14d10 acid, Reflex DC 27 half, onc
 special-qualities: "Blindsight 100 ft., trace teleport 60 ft., telepathy 100 ft., damage reduction 10/cold iron, spell resistance 26"
 saves: "Fort +15, Ref +4, Will +16"
 abilities: "Str 30, Dex 7, Con 24, Int 16, Wis 15, Cha 21"
-skills: "Acrobatics –4, Arcana +26, Athletics +33, Deception +25, Intimidation +28, Perception +25, Persuasion +25"
-skill-ranks: "Acrobatics 1, Arcana 20, Athletics 20, Deception 17, Intimidation 20, Perception 20, Persuasion 17"
+skills: "Acrobatics –4, Arcana +26, Athletics +33, Deception +25, Intimidation +28, Mysticism +26, Perception +25, Persuasion +25"
+skill-ranks: "Acrobatics 1, Arcana 20, Athletics 20, Deception 17, Intimidation 20, Mysticism 20, Perception 20, Persuasion 17"
 feats: "Cleave, Great Cleave, Great Fortitude, Improved Bull Rush, Improved Critical (tongue), Improved Initiative, Improved Overrun, Iron Will, Power Attack, Quicken Spell-Like Ability (suggestion)"
 environment: "Any underground"
 organization: "Solitary, pair, or cult (3–5 plus 4–12 charmed slaves of various races)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 100 ft., trace teleport 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 26
   - **Saves**: Fort +15, Ref +4, Will +16
   - **Abilities**: Str 30, Dex 7, Con 24, Int 16, Wis 15, Cha 21
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –4, [[rangoric-srd/skills/Arcana|Arcana]] +26, [[rangoric-srd/skills/Athletics|Athletics]] +33, [[rangoric-srd/skills/Deception|Deception]] +25, [[rangoric-srd/skills/Intimidation|Intimidation]] +28, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Persuasion|Persuasion]] +25
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –4, [[rangoric-srd/skills/Arcana|Arcana]] +26, [[rangoric-srd/skills/Athletics|Athletics]] +33, [[rangoric-srd/skills/Deception|Deception]] +25, [[rangoric-srd/skills/Intimidation|Intimidation]] +28, [[rangoric-srd/skills/Mysticism|Mysticism]] +26, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Persuasion|Persuasion]] +25
   - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (tongue), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (suggestion)
   - **Environment**: Any underground
   - **Organization**: Solitary, pair, or cult (3–5 plus 4–12 charmed slaves of various races)
