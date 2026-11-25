@@ -25,7 +25,7 @@ Monstrous centipedes tend to attack anything that resembles food, biting with th
 | ---------- | ------- | ------- |
 | Tiny       | 10      | 1 Dex   |
 | Small      | 10      | 1d2 Dex |
-| Medium     | 10      | 1d3 Dex |
+| Medium     | see [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede, Medium\|Medium]] | — |
 | Large      | 11      | 1d4 Dex |
 | Huge       | 14      | 1d6 Dex |
 | Gargantuan | 17      | 1d8 Dex |

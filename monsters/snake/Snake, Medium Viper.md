@@ -1,58 +1,73 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-group: "[[rangoric-srd/monsters/snake/Viper Snake|Viper Snake]]"
 size: "Medium"
 creature-type: "Animal"
-hit-dice: "2d8 (9 hp)"
-initiative: "+7"
+hit-dice: "2d8+4 (13 hp)"
+initiative: "+5"
 speed: "20 ft. (4 squares), climb 20 ft., swim 20 ft."
-armor-class: "16 (+3 Dex, +3 natural), touch 13, flat-footed 13"
+armor-class: "14 (+1 Dex, +3 natural), touch 11, flat-footed 13"
 base-attack: "+1"
 cmb: "+0"
-cmd: "13 (can't be tripped)"
-attack: "Bite +4 melee (1d4–1 plus poison)"
-full-attack: "Bite +4 melee (1d4–1 plus poison)"
+cmd: "11 (can't be tripped)"
+attack: "Bite +2 melee (1d4–1 plus poison)"
+full-attack: "Bite +2 melee (1d4–1 plus poison)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Poison"
-special-qualities: "Scent"
-saves: "Fort +3, Ref +6, Will +1"
-abilities: "Str 8, Dex 17, Con 11, Int 1, Wis 12, Cha 2"
-skills: "Acrobatics +11, Athletics +3 (+11 climbing, +11 swimming), Perception +5, Stealth +12"
-skill-ranks: "Acrobatics 0, Athletics 0, Perception 0, Stealth 2"
-feats: "Improved Initiative, Weapon Finesse (B)"
-environment: "Temperate marshes"
-organization: "Solitary"
+special-qualities: "Low-light vision, scent"
+saves: "Fort +5, Ref +4, Will +1"
+abilities: "Str 8, Dex 13, Con 14, Int 1, Wis 13, Cha 2"
+skills: "Acrobatics +9, Athletics +9, Perception +9, Stealth +9"
+skill-ranks: "Acrobatics 0, Athletics 7, Perception 1, Stealth 1"
+feats: "Improved Initiative, Weapon Finesse"
+environment: "Any temperate or warm"
+organization: "Solitary, pair, or nest (3–8)"
 challenge-rating: 1
+treasure: "None"
+alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
+group: "[[rangoric-srd/monsters/snake/Viper Snake|Viper Snake]]"
+book: "Bestiary"
+aliases: ["Venomous Snake"]
 based-on:
+  - "[[path srd 3.5/monsters/Snake, Venomous|Snake, Venomous (PF1)]]"
   - "[[fantasy srd 3.5/monsters/snake/Snake, Medium Viper|Snake, Medium Viper (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-24
 tags: [rangoric, rangoric/monster]
 ---
 
 # Snake, Medium Viper
 
-  - Medium Animal
-  - **Hit Dice**: 2d8 (9 hp)
-  - **Initiative**: +7
+  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+  - **Hit Dice**: 2d8+4 (13 hp)
+  - **Initiative**: +5
   - **Speed**: 20 ft. (4 squares), climb 20 ft., swim 20 ft.
-  - **Armor Class**: 16 (+3 Dex, +3 natural), touch 13, flat-footed 13
-  - **Base Attack**: +1; **CMB**: +0; **CMD**: 13 (can't be tripped)
-  - **Attack**: Bite +4 melee (1d4–1 plus poison)
-  - **Full Attack**: Bite +4 melee (1d4–1 plus poison)
+  - **Armor Class**: 14 (+1 Dex, +3 natural), touch 11, flat-footed 13
+  - **Base Attack**: +1; **CMB**: +0; **CMD**: 11 (can't be tripped)
+  - **Attack**: Bite +2 melee (1d4–1 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+  - **Full Attack**: Bite +2 melee (1d4–1 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Poison
-  - **Special Qualities**: Scent
-  - **Saves**: Fort +3, Ref +6, Will +1
-  - **Abilities**: Str 8, Dex 17, Con 11, Int 1, Wis 12, Cha 2
-  - **Skills**: Acrobatics +11, Athletics +3 (+11 climbing, +11 swimming), Perception +5, Stealth +12
-  - **Feats**: Improved Initiative, Weapon Finesse (B)
-  - **Environment**: Temperate marshes
-  - **Organization**: Solitary
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+  - **Saves**: Fort +5, Ref +4, Will +1
+  - **Abilities**: Str 8, Dex 13, Con 14, Int 1, Wis 13, Cha 2
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +9
+  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+  - **Environment**: Any temperate or warm
+  - **Organization**: Solitary, pair, or nest (3–8)
   - **Challenge Rating**: 1
+  - **Treasure**: None
+  - **Alignment**: Usually neutral
   - **Advancement**: —
   - **Level Adjustment**: —
+
+Countless species of poisonous snakes dwell in the wild, their bites capable of bringing down creatures much larger than themselves. Snakes of the size presented here are thankfully rarer than their smaller kin, but many species of rattlesnake, cobra, and similar reptiles can grow to this size.
+
+Venomous snakes are generally far more aggressive than constrictor snakes, and even larger variants do exist: you can create stats for a king cobra, for example, by applying the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced]] and [[rangoric-srd/monsters/simple-templates/Giant Creature|giant]] simple templates to the stats given above.
+
+### Combat
+
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Snake Venom|Snake Venom]]: Bite—injury; *save* Fort DC 13; *frequency* 1/round for 6 rounds; *effect* 1d2 Con damage; *cure* 1 save.

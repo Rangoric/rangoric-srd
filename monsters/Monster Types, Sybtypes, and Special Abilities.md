@@ -552,6 +552,30 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|In
 
   - *Truespeech (Su)*: An inevitable can speak with any creature that has a language, as if using a *[[rangoric-srd/spells/Tongues|tongues]]* spell (caster level 14th). This ability is always active.
 
+**Kaiju Subtype**: These Colossal creatures inhabit the most desolate places of a world. When they are not slumbering, they roam the world, leaving destruction in their wake. The kaiju are described under [[rangoric-srd/monsters/kaiju/Kaiju|kaiju]]. ^kaiju
+
+*Traits*: A kaiju has the following traits (unless otherwise noted in a creature's entry).
+
+  - A kaiju's natural attacks count as epic and magic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
+
+  - [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 20/epic.
+
+  - [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 600 feet.
+
+  - [[rangoric-srd/monsters/abilities/Fast Healing|Fast healing]] 30.
+
+  - [[rangoric-srd/monsters/abilities/Ferocity|Ferocity]].
+
+  - [[rangoric-srd/monsters/abilities/Hurl Foe|Hurl foe]].
+
+  - [[rangoric-srd/monsters/abilities/Immunity|Immunity]] to ability damage, ability drain, death effects, disease, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]], and fear.
+
+  - [[rangoric-srd/monsters/abilities/Massive|Massive]].
+
+  - [[rangoric-srd/monsters/abilities/Recovery|Recovery]].
+
+  - [[rangoric-srd/monsters/abilities/Resistance|Resistance]] 30 against acid, cold, electricity, fire, negative energy, and sonic.
+
 **Kami Subtype**: Kami are a race of native [[#^outsider|outsiders]] who serve to protect what they refer to as “wards”—animals, plants, objects, and even locations—from being harmed or dishonored. All kami are outsiders with the [[#^native|native subtype]]. ^kami
 
 *Traits*: A kami has the following traits (unless otherwise noted in a creature's entry).

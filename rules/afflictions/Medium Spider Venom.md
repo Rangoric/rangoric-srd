@@ -10,6 +10,7 @@ frequency: "1/round for 4 rounds"
 effect: "1d2 Str"
 cure: "1 save"
 price: "150 gp"
+aliases: ["Giant Spider Venom"]
 based-on:
   - "[[path srd 3.5/afflictions/Medium Spider Venom|Medium Spider Venom (PF1)]]"
   - "[[path srd 3.5/rules/ultimate-equipment/gear/Poisons|Poisons (PF1)]]"
@@ -22,7 +23,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Medium Spider Venom
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]].
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is also the venom of the [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider, Medium|giant spider]]'s bite.
 
 - **Type**: poison, injury
 - **Save**: Fortitude DC 14

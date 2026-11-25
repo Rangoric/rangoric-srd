@@ -32,7 +32,7 @@ Monstrous scorpions are likely to attack any creature that approaches, and they 
 | Tiny       | 12      | 1 Con    |
 | Small      | 12      | 1d2 Con  |
 | Medium     | 13      | 1d3 Con  |
-| Large      | 14      | 1d4 Con  |
+| Large      | see [[rangoric-srd/monsters/monstrous-scorpion/Monstrous Scorpion, Large\|Large]] | — |
 | Huge       | 18      | 1d6 Con  |
 | Gargantuan | 23      | 1d8 Con  |
 | Colossal   | 33      | 1d10 Con |

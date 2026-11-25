@@ -40,6 +40,6 @@ Viper snakes rely on their venomous bite to kill prey and defend themselves.
 | ------ | ------- |
 | Tiny   | 10      |
 | Small  | 10      |
-| Medium | 11      |
+| Medium | see [[rangoric-srd/monsters/snake/Snake, Medium Viper\|Medium]] |
 | Large  | 11      |
 | Huge   | 14      |
