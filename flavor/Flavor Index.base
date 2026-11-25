@@ -1,10 +1,12 @@
 filters:
   and:
     - file.inFolder("rangoric-srd/flavor")
-    - file.hasTag("flavor")
 views:
   - type: table
     name: "All flavor"
+    filters:
+      and:
+        - file.hasTag("flavor")
     order:
       - file.name
       - file.folder
@@ -19,6 +21,7 @@ views:
     name: "Places"
     filters:
       and:
+        - file.hasTag("flavor")
         - note.place-kind != null
     groupBy:
       property: file.folder
@@ -31,8 +34,20 @@ views:
     name: "Personalities"
     filters:
       and:
+        - file.hasTag("flavor")
         - file.folder.contains("personalities")
     order:
       - file.name
       - file.folder
       - note.wanderer
+  - type: table
+    name: Failing
+    filters:
+      and:
+        - note.sweep == "failing"
+    order:
+      - file.name
+      - note.sweep-issues
+    sort:
+      - property: file.name
+        direction: ASC

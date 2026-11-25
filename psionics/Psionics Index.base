@@ -15,3 +15,14 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: Failing
+    filters:
+      and:
+        - note.sweep == "failing"
+    order:
+      - file.name
+      - note.sweep-issues
+    sort:
+      - property: file.name
+        direction: ASC
