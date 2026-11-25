@@ -33,4 +33,4 @@ tags: [rangoric, rangoric/designer-reference]
 | 91–92 | 1 [[rangoric-srd/monsters/Purple Worm\|purple worm]] | 12 |
 | 93–96 | 1d4 [[rangoric-srd/monsters/Roper\|ropers]] | 14 |
 | 97–98 | 1 [[rangoric-srd/monsters/Neothelid\|neothelid]] | 15 |
-| 99–100 | 1 shoggoth | 19 |
+| 99–100 | 1 [[rangoric-srd/monsters/mythos/Shoggoth\|shoggoth]] | 19 |

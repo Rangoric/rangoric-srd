@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 *[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “slippery”, on the Special Qualities line.
 
-The creature's scales seep slippery slime. This grants the creature a +8 bonus on all Escape Artist checks and to its CMD against grapples, and imparts a –5 penalty on all Animal Handling checks made by creatures attempting to ride the creature. The [[rangoric-srd/monsters/Shantak|shantak]] has it.
+The creature's scales seep slippery slime. This grants the creature a +8 bonus on all Escape Artist checks and to its CMD against grapples, and imparts a –5 penalty on all Animal Handling checks made by creatures attempting to ride the creature. The [[rangoric-srd/monsters/mythos/Shantak|shantak]] has it.

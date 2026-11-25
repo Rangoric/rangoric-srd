@@ -62,7 +62,7 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: 5–12 HD (Large)
   - **Level Adjustment**: —
 
-Disgusting, loathsome, and hungry—these are the only words that properly describe the gibbering mouther. A foul beast that lurks in underground caves, sewers, and nightmares, mouthers have no societal, ecological or religious significance other than their ability to drive those that listen to them mad. Some scholars believe that gibbering mouthers are a lesser variant of the much more dangerous shoggoth, while others theorize they are a punishment by some powerful being or deity inflicted on those who have offended it.
+Disgusting, loathsome, and hungry—these are the only words that properly describe the gibbering mouther. A foul beast that lurks in underground caves, sewers, and nightmares, mouthers have no societal, ecological or religious significance other than their ability to drive those that listen to them mad. Some scholars believe that gibbering mouthers are a lesser variant of the much more dangerous [[rangoric-srd/monsters/mythos/Shoggoth|shoggoth]], while others theorize they are a punishment by some powerful being or deity inflicted on those who have offended it.
 
 A gibbering mouther is a horrible creature seemingly drawn from a lunatic’s nightmares. Although not evil, it thirsts after bodily fluids and seems to prefer the blood of intelligent creatures.
 

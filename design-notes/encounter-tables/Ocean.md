@@ -39,4 +39,4 @@ tags: [rangoric, rangoric/designer-reference]
 | 96–97 | 1 [[rangoric-srd/monsters/elemental/Water Elemental, Elder\|elder water elemental]] | 11 |
 | 98 | 1 [[rangoric-srd/monsters/Sea Serpent\|sea serpent]] | 12 |
 | 99 | 1 [[rangoric-srd/monsters/Kraken\|kraken]] | 18 |
-| 100 | 1 shoggoth | 19 |
+| 100 | 1 [[rangoric-srd/monsters/mythos/Shoggoth\|shoggoth]] | 19 |
