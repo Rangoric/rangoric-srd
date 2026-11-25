@@ -17,4 +17,4 @@ You possess a long pedigree of ruthless generals and military tacticians, and an
 
 **Prerequisites**: [[rangoric-srd/races/Hobgoblin|Hobgoblin]].
 
-**Benefit**: When serving as a commander using the mass combat rules, you can add your class level to your army's Morale checks in place of your Charisma modifier.
+**Benefit**: When serving as a commander using the [[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|mass combat rules]], you can add your class level to your army's Morale checks in place of your Charisma modifier.
