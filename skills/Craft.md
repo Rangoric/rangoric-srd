@@ -98,7 +98,7 @@ The character can craft items more quickly than normal.
 
 *Quick Creation*: A character can voluntarily increase the DC of crafting an item by any multiple of 10. This allows the character to create an item more quickly (since he or she will be multiplying this higher DC by his or her skill check result to determine progress). The character must decide the increase to the DC before making the check.
 
-*Quick Identification*: A character with Craft (alchemy) can identify an alchemical substance or potion in the field as a full-round action, without an alchemical lab or any cost, with a DC 50 check. The character can’t retry this check (or take 20); if he or she fails, the character must identify the substance in an alchemical lab, as normal. (This was a Spellcraft use.)
+*Quick Identification*: A character with Craft (alchemy) can identify an alchemical substance or potion in the field as a full-round action, without an alchemical lab or any cost, with a DC 50 check. The character can’t retry this check (or take 20); if he or she fails, the character must identify the substance in an alchemical lab, as normal. (Mysticism identifies potions too.)
 
 | Task                       | DC (or DC Modifier) |
 | -------------------------- | ------------------- |

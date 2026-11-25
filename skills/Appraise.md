@@ -40,7 +40,7 @@ The character can sense magical auras in objects.
 | ------------ | -- |
 | Detect magic | 50 |
 
-*Detect Magic*: The character can sense if an item has a magical aura. He or she can then use Magic skill to learn more about the item as if he or she had already cast detect magic on the item. This requires a full-round action.
+*Detect Magic*: The character can sense if an item has a magical aura. He or she can then use [[rangoric-srd/skills/Mysticism|Mysticism]] to learn more about the item as if he or she had already cast detect magic on the item. This requires a full-round action.
 
 ## Unlocks
 

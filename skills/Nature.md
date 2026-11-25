@@ -4,11 +4,10 @@ section: "Skills"
 key-ability: "Int"
 based-on:
   - "[[fantasy srd 3.5/skills/Knowledge|Knowledge (3.5)]]"
-  - "[[fantasy srd 3.5/skills/Spellcraft|Spellcraft (3.5)]]"
 status: draft
 change: new
 pi-review: 2026-10-30
-tags: [rangoric, rangoric/skill, core, knowledge, magic]
+tags: [rangoric, rangoric/skill, core, knowledge]
 ---
 
 # Nature
@@ -28,6 +27,6 @@ It is a [[rangoric-srd/skills/Knowledge|Knowledge skill]], so its checks work as
 
 **Identifying Creatures**: Nature identifies animals, fey, giants, monstrous humanoids, plants and vermin; see [[rangoric-srd/skills/Identifying Creatures|Identifying Creatures]].
 
-**Magic Skill**: Nature is the [[rangoric-srd/skills/Identifying Magic|Magic skill]] for divine spells that come from nature: those of druids and rangers; see [[rangoric-srd/skills/Identifying Magic|Identifying Magic]].
+**Identifying Magic**: Identifying a nature spell or effect is a [[rangoric-srd/skills/Mysticism|Mysticism]] check; Nature is what you know about nature magic and its traditions.
 
-**Unlocks**: Nature uses the Knowledge skills’ unlocks (in [[rangoric-srd/skills/Knowledge#Unlocks|Knowledge]]) and the Magic skills’ unlocks (in [[rangoric-srd/skills/Identifying Magic#Unlocks|Identifying Magic]]).
+**Unlocks**: Nature uses the Knowledge skills’ unlocks (in [[rangoric-srd/skills/Knowledge#Unlocks|Knowledge]]).

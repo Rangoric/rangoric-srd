@@ -6,13 +6,19 @@ based-on:
   - "[[fantasy srd 3.5/skills/Spellcraft|Spellcraft (3.5)]]"
   - "[[fantasy srd 3.5/skills/Psicraft|Psicraft (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
-status: draft
-change: new
+replaced-by: "[[rangoric-srd/skills/Mysticism|Mysticism]]"
+status: replaced
+change: modified
 pi-review: 2026-10-30
 tags: [rangoric, rangoric/overview]
 ---
 
 # Identifying Magic
+
+> [!note] Replaced by [[rangoric-srd/skills/Mysticism|Mysticism]]
+> Identifying magic became the Mysticism skill (2026-11-25): one skill identifies spells and powers of every kind, and Arcana, Theology, Nature, Psionics and Psychic are Knowledge skills again. The original text is kept below for reference.
+
+## Original text
 
 The five **Magic skills** (the [[rangoric-srd/Tag Register|tag]] *magic*) identify magic, each its own kind: [[rangoric-srd/skills/Arcana|Arcana]] arcane spells, [[rangoric-srd/skills/Theology|Theology]] divine spells from gods, [[rangoric-srd/skills/Nature|Nature]] divine spells from nature, [[rangoric-srd/skills/Psionics (Skill)|Psionics]] psionic powers, and [[rangoric-srd/skills/Psychic (Skill)|Psychic]] [[rangoric-srd/spells/Magic Overview#Psychic Magic|psychic spells]]. A **Magic skill check** is a check with whichever of these skills fits:
 
@@ -49,7 +55,7 @@ Learning a spell from a spellbook or scroll, and preparing a spell from a borrow
 
 Additionally, certain spells allow you to gain information about magic, provided that you make a successful Magic skill check as detailed in the spell description.
 
-## Psionic Powers
+### Psionic Powers
 
 Use Psionics to identify powers as they are manifested or powers already in place.
 
@@ -69,7 +75,7 @@ Additionally, certain powers allow you to gain information about psionic effects
 
 **Special**: A [[rangoric-srd/psionics/Psion#Psionic Disciplines|psion]] is better at Psionics checks involving his discipline; see the psion.
 
-## Advanced Uses
+### Advanced Uses
 
 You can identify the properties of a magic item, with the Magic skill for the item’s prerequisite spells.
 
@@ -82,7 +88,7 @@ You can identify the properties of a magic item, with the Magic skill for the it
 
 *Identify All Properties of Magic Item*: This requires one minute of inspection, and reveals all properties of a single magic item (including command words and charges remaining). A character can’t attempt this on the same item more than once. If an item has different caster levels for different properties, use the highest caster level.
 
-## Each class’s Magic skill
+### Each class’s Magic skill
 
 A class that casts spells or manifests powers lists its Magic skill. Wherever a rule says “your Magic skill”, it means that one.
 
@@ -96,7 +102,7 @@ A class that casts spells or manifests powers lists its Magic skill. Wherever a 
 
 A prestige class lists a Magic skill only if it has spellcasting of its own. One that advances another class’s casting, such as the mystic theurge, uses the Magic skills of the classes it advances.
 
-## Unlocks
+### Unlocks
 
 You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill]] or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]; see [[rangoric-srd/skills/Skills Overview#^skill-unlocks|Skill Unlocks]]. These are shared by every Magic skill, and each Magic skill counts as its own skill for them. They came from Pathfinder’s Spellcraft.
 

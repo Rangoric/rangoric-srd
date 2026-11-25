@@ -1,6 +1,7 @@
 ---
 tags: [rangoric, rangoric/overview]
 started: 2026-10-30
+change: modified
 ---
 
 # Tag Register
@@ -25,10 +26,10 @@ Every game tag used in `rangoric-srd`: what it means, what it goes on, and how m
 
 | Tag | Goes on | Means | Home | Notes | Status |
 | --- | --- | --- | --- | --- | --- |
-| `core` | Skills | Generally useful to an adventurer; bought with core points | [[rangoric-srd/skills/Skills Overview\|Skills Overview]] | 27 skills | In use (2026-10-30) |
+| `core` | Skills | Generally useful to an adventurer; bought with core points | [[rangoric-srd/skills/Skills Overview\|Skills Overview]] | 28 skills | In use (2026-10-30) |
 | `background` | Skills | Useful to a normal person; 1 background point per level, and the first one picked is a class skill | [[rangoric-srd/skills/Skills Overview\|Skills Overview]] | 7 skills (Craft, Profession, Performance, Appraise, Animal Handling, Linguistics, Lore) | In use (2026-10-30) |
 | `knowledge` | Skills | A knowledge skill. Rules can say "any Knowledge skill" or "all Knowledge skills" | [[rangoric-srd/skills/Knowledge\|Knowledge]] | 9 skills (Arcana, Dungeoneering, Lore, Nature, Psionics, Psychic, Society, Tactics, Theology) | In use (2026-10-30) |
-| `magic` | Skills | A Magic skill: Arcana, Theology, Nature, Psionics, Psychic. A "Magic skill check" uses whichever one fits (Identifying Magic), and each casting class lists its own | [[rangoric-srd/skills/Identifying Magic\|Identifying Magic]] | 5 skills | In use (2026-10-30) |
+| `magic` | Skills | The Mysticism skill, which identifies magic of every kind (2026-11-25; before that the five Magic skills) | [[rangoric-srd/skills/Mysticism\|Mysticism]] | 1 skill | In use (2026-10-30) |
 | `first-aid` | Actions | A First Aid action: either Fieldcraft or Medicine can make the check | [[rangoric-srd/actions/First Aid\|First Aid]] | 8 actions | In use (2026-10-31) |
 | `fighter-bonus` | Feats | A fighter can take it as a bonus feat, including the epic fighter's list. Pathfinder's Combat type will be a tag of its own | [[rangoric-srd/feats/Feats Overview#Fighter Bonus Feats\|Feats Overview]] | 626 feats | In use (2026-11-01) |
 | `item-creation` | Feats | An item creation feat: lets its owner make a kind of magic or psionic item | [[rangoric-srd/feats/Feats Overview#Item Creation Feats\|Feats Overview]] | 40 feats | In use (2026-11-01) |
@@ -43,7 +44,7 @@ Every game tag used in `rangoric-srd`: what it means, what it goes on, and how m
 | `epic` | Feats, magic items | An epic feat: taken only at 21st level or higher. An epic magic item: its `item-type` starts with Epic (made with the epic item creation feats, or an epic artifact) | [[rangoric-srd/epic/Epic Feats#Acquiring Epic Feats\|Epic Feats]], [[rangoric-srd/epic/Epic Magic Items\|Epic Magic Items]] | 158 feats, 119 magic items | In use (2026-11-01; magic items 2026-11-11) |
 | `divine` | Feats | A divine feat: needs the ability to turn or rebuke undead, and spends uses of [[rangoric-srd/combat/Combat Special Attacks#^channel-energy\|channel energy]] | [[rangoric-srd/epic/Epic Feats#Divine Feats\|Epic Feats]] | 5 feats | In use (2026-11-01) |
 | `wild` | Feats | A wild feat: needs wild shape, and usually spends uses of it | [[rangoric-srd/epic/Epic Feats#Wild Feats\|Epic Feats]] | 22 feats | In use (2026-11-01) |
-| `psionic` | Feats | A psionic feat: only for manifesters; many use psionic focus | [[rangoric-srd/psionics/Psionic Feats\|Psionic Feats]] | 46 feats | In use (2026-11-01) |
+| `psionic` | Feats, Skills | A psionic feat: only for manifesters; many use psionic focus. On a skill, one that identifies powers ([[rangoric-srd/skills/Mysticism\|Mysticism]]) | [[rangoric-srd/psionics/Psionic Feats\|Psionic Feats]] | 46 feats, 1 skill | In use (2026-11-01) |
 | `metapsionic` | Feats | A metapsionic feat: changes a power, at a higher power point cost | [[rangoric-srd/psionics/Psionic Feats#Metapsionic Feats\|Psionic Feats]] | 13 feats | In use (2026-11-01) |
 | `spelltouched` | Feats | A spelltouched feat: open only to someone affected by its spell | [[rangoric-srd/unearthed-arcana/Spelltouched Feats\|Spelltouched Feats]] | 17 feats | In use (2026-11-01) |
 | `shadetouched` | Feats | A shadetouched feat: draws on necromantic energy, with uses per day and a cost in hit points | [[rangoric-srd/rules/path-of-shades/The Path of Shades#Shadetouched Feats\|The Path of Shades]] | 5 feats | In use (2026-11-10) |
