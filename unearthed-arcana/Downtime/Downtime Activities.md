@@ -73,7 +73,7 @@ You can use downtime to help others rest and recover using the [[rangoric-srd/sk
 
 **Treat Disease**: Spending a day of downtime allows you to treat up to 50 patients of this type. You may combine this option with the treat wounds from caltrops, caring for up to 50 patients total per day.
 
-**Lead Your Kingdom**: If you are using the kingdom-building rules and have a leadership role in the kingdom, you must spend 7 days per month performing various leadership duties. In the downtime system, performing leadership duties for a day costs 1 day of downtime. You can't perform any other downtime activities on a day you perform kingdom leadership duties.
+**Lead Your Kingdom**: If you are using the [[rangoric-srd/unearthed-arcana/Kingdom Building/Kingdom Building|kingdom-building rules]] and have a leadership role in the kingdom, you must spend 7 days per month performing various leadership duties. In the downtime system, performing leadership duties for a day costs 1 day of downtime. You can't perform any other downtime activities on a day you perform kingdom leadership duties.
 
 ## Promote a Business
 

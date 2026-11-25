@@ -42,7 +42,7 @@ If you intend for your building or organization to generate capital, you must ex
 
 ### Buildings
 
-Below are example buildings and their component rooms. Note that many of these buildings can also be found in the kingdom-building rules.
+Below are example buildings and their component rooms. Note that many of these buildings can also be found in the [[rangoric-srd/unearthed-arcana/Kingdom Building/Kingdom Building|kingdom-building rules]].
 
 - [[rangoric-srd/unearthed-arcana/Downtime/buildings/Academy (Downtime)|Academy (Downtime)]]
 - [[rangoric-srd/unearthed-arcana/Downtime/buildings/Alchemist (Downtime)|Alchemist (Downtime)]]
