@@ -318,14 +318,20 @@ def check_headings(rel, body, r, out):
 
     # `# (name)` is the note's name, or the name without a trailing "(...)" that only keeps file names unique, as
     # "Stabilize (Action)" titled "# Stabilize" (Wilson, Note Rules 4.p2, 2026-11-25)
-    names = {name, re.sub(r'\s*\([^()]*\)$', '', name)}
+    # the name, without its trailing "(…)" differentiator, or with it as a plain word: "Tornado (Blessing)" may be
+    # "# Tornado" or "# Tornado Blessing" (NR 7)
+    names = {name, re.sub(r'\s*\([^()]*\)$', '', name), re.sub(r'\s*\(([^()]*)\)$', r' \1', name)}
+
+    def norm(s):
+        # a "/" or ":" a file name can't hold is "-" there: "Blindness-Deafness" is "# Blindness/Deafness" (NR 6);
+        # a curly apostrophe matches a straight one (NR 7)
+        return s.replace('\u2019', "'").replace('/', '-').replace(':', '-')
+    names |= {norm(x) for x in names}
 
     def same(w, h):
         lvl = len(w) - len(w.lstrip('#'))
         text = w[lvl:].strip()
-        # a "/" or ":" a file name can't hold is "-" there: "Blindness-Deafness" is "# Blindness/Deafness" (NR 6)
-        return h[0] == lvl and ((h[1] in names or h[1].replace('/', '-').replace(':', '-') in names)
-                                if text == '(name)' else h[1] == text)
+        return h[0] == lvl and ((h[1] in names or norm(h[1]) in names) if text == '(name)' else h[1] == text)
 
     i = 0
     for w in want:
