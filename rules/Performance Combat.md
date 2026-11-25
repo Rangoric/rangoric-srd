@@ -28,7 +28,7 @@ When creating a performance combat, it is important to determine the goals and r
 
 **To the Death**: Only the [[rangoric-srd/combat/Injury and Death#^death|death]] of one side ends these bouts. Sometimes the crowd's reaction is secondary to the desperate battle on display, but other times the crowd's reaction can have an effect on the actual outcome of the fight. Some blood sports demand that combatants hold off on the killing blow until the crowd gets a chance to voice its pleasure or displeasure, usually with a roar of applause or with a thumbs-up or thumbs-down gesture. A thumbs-up gesture allows the vanquished combatant to live and fight another day; a thumbs-down gesture ends the melee with a grotesque spray of blood.
 
-**Toward a Goal**: Often these are elaborate affairs that may reproduce a historical battle, or just pit combatants against terrain and challenges that feature a variety of hazards and traps. These types of battles can be races (maybe mixing them with rules for vehicles), or may present capture-the-flag-like objectives, but all test the ability of the combatants to achieve a predetermined goal.
+**Toward a Goal**: Often these are elaborate affairs that may reproduce a historical battle, or just pit combatants against terrain and challenges that feature a variety of hazards and traps. These types of battles can be races (maybe mixing them with [[rangoric-srd/unearthed-arcana/Vehicles/Vehicles|rules for vehicles]]), or may present capture-the-flag-like objectives, but all test the ability of the combatants to achieve a predetermined goal.
 
 ### Crowd Attitudes
 
