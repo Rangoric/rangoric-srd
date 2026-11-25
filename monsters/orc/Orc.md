@@ -115,3 +115,10 @@ Orc characters use the [[rangoric-srd/races/Orc|orc]] race, which has their raci
 These orc–human crossbreeds can be found in either orc or human society (where their status varies according to local sentiments), or in communities of their own. Half-orcs usually inherit a good blend of the physical characteristics of their parents. They are as tall as humans and a little heavier, thanks to their muscle. They have greenish pigmentation, sloping foreheads, jutting jaws, prominent teeth, and coarse body hair. Half-orcs who have lived among or near orcs have scars, in keeping with orcish tradition.
 
 Half-orc characters use the [[rangoric-srd/races/Half-Orc|half-orc]] race, which has their racial traits.
+
+These half-orcs with class levels are described on their own:
+
+  - Barbarians: [[rangoric-srd/monsters/orc/Axe Warrior|Axe Warrior]] (CR 2), [[rangoric-srd/monsters/orc/Double Axe Fury|Double Axe Fury]] (CR 10), [[rangoric-srd/monsters/orc/Undead Hunter|Undead Hunter]] (CR 15), [[rangoric-srd/monsters/orc/Death Dealer|Death Dealer]] (CR 18)
+  - Fighters: [[rangoric-srd/monsters/orc/Traitorous Brigand|Traitorous Brigand]] (CR 2), [[rangoric-srd/monsters/orc/Brutal Warlord|Brutal Warlord]] (CR 12), [[rangoric-srd/monsters/orc/Failed Disciple|Failed Disciple]] (CR 17)
+  - Paladins: [[rangoric-srd/monsters/orc/Honorable Outcast|Honorable Outcast]] (CR 1), [[rangoric-srd/monsters/orc/Saintly Knight|Saintly Knight]] (CR 8)
+  - Rangers: [[rangoric-srd/monsters/orc/Border Guard|Border Guard]] (CR 3), [[rangoric-srd/monsters/orc/Desert Stalker|Desert Stalker]] (CR 13), [[rangoric-srd/monsters/orc/Angel Slayer|Angel Slayer]] (CR 14)

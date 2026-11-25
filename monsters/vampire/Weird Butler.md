@@ -56,14 +56,14 @@ tags: [rangoric, rangoric/monster]
   - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Athletics|Athletics]] –1, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +12, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Theology|Theology]] +9
   - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lucky Halfling|Lucky Halfling]]
   - **Environment**: Any
-  - **Organization**: Solitary, or with other vampire servants (see [[rangoric-srd/monsters/Halfling|Halfling]])
+  - **Organization**: Solitary, or with other vampire servants (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])
   - **Challenge Rating**: 4
   - **Treasure**: NPC gear (combat gear: potion of invisibility, scrolls of dread bolt (2), scroll of helping hand, scroll of hide from undead, scroll of lesser animate dead, scroll of protective penumbra, scroll of silence, scroll of status, unholy water (4); other gear: +1 chain shirt, dagger, masterwork dagger, spell component pouch, sunrods (2), silver dust (worth 50 gp), 92 gp)
   - **Alignment**: Usually chaotic evil
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-A weird butler is a [[rangoric-srd/monsters/Halfling|halfling]] with 5 levels of [[rangoric-srd/classes/Oracle|oracle]]. A vampire often needs mortal minions—especially during the day, when it must retreat to its coffin for safety.
+A weird butler is a [[rangoric-srd/monsters/halfling/Halfling|halfling]] with 5 levels of [[rangoric-srd/classes/Oracle|oracle]]. A vampire often needs mortal minions—especially during the day, when it must retreat to its coffin for safety.
 
 The highest-ranked mortal servant of a vampire, the butler is responsible for maintaining order among the other servants. He knows all his master's secrets and guards them well. He's responsible for disposing bodies that result from his master's deadlier feeding sessions.
 

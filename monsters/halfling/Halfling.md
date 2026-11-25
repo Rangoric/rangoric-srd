@@ -96,3 +96,12 @@ These halflings are shorter and stockier than the more common lightfeet.
 Deep halflings are about 2-1/2 tall and weigh between 30 and 35 pounds. Deep halflings speak Dwarven fluently.
 
 Deep halflings are a [[rangoric-srd/races/Halfling#Subtypes|subtype of the halfling race]], which has their traits.
+
+### NPCs
+
+These halflings with class levels are described on their own:
+
+  - Barbarians: [[rangoric-srd/monsters/halfling/Dog Rider|Dog Rider]] (CR 3), [[rangoric-srd/monsters/halfling/Cannibalistic Hunter|Cannibalistic Hunter]] (CR 9)
+  - Fighters: [[rangoric-srd/monsters/halfling/Murderous Halfling|Murderous Halfling]] (CR 3), [[rangoric-srd/monsters/halfling/Halfling Slinger|Halfling Slinger]] (CR 8), [[rangoric-srd/monsters/halfling/Arcane Pretender|Arcane Pretender]] (CR 13)
+  - Paladins: [[rangoric-srd/monsters/halfling/Dog Rider Knight|Dog Rider Knight]] (CR 6), [[rangoric-srd/monsters/halfling/Furious Crusader|Furious Crusader]] (CR 17)
+  - Rangers: [[rangoric-srd/monsters/halfling/Town Watcher|Town Watcher]] (CR 1), [[rangoric-srd/monsters/halfling/Pirate Queen|Pirate Queen]] (CR 9)

@@ -56,14 +56,14 @@ tags: [rangoric, rangoric/monster]
   - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +10
   - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
   - **Environment**: Any
-  - **Organization**: Solitary, or with other vampire servants (see [[rangoric-srd/monsters/Elf|Elf]])
+  - **Organization**: Solitary, or with other vampire servants (see [[rangoric-srd/monsters/elf/Elf|Elf]])
   - **Challenge Rating**: 3
   - **Treasure**: NPC gear (combat gear: potion of cat's grace, potion of cure moderate wounds, potion of protective penumbra, scroll of animal messenger, scroll of longstrider; other gear: masterwork chain shirt, masterwork composite longbow with 20 arrows, masterwork rapiers (2), sunrods (5), 9 gp)
   - **Alignment**: Usually neutral evil
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-A coffin guard is an [[rangoric-srd/monsters/Elf|elf]] with 4 levels of [[rangoric-srd/classes/Ranger|ranger]]. A vampire often needs mortal minions—especially during the day, when it must retreat to its coffin for safety.
+A coffin guard is an [[rangoric-srd/monsters/elf/Elf|elf]] with 4 levels of [[rangoric-srd/classes/Ranger|ranger]]. A vampire often needs mortal minions—especially during the day, when it must retreat to its coffin for safety.
 
 Only the most trusted of servants are given the position of a vampire's coffin guard. This mortal stands watch over the vampire while his master is resting.
 

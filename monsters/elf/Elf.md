@@ -91,6 +91,13 @@ Half-elves are not truly an elf subrace, but they are often mistaken for elves. 
 
 Half-elf characters use the [[rangoric-srd/races/Half-Elf|half-elf]] race, which has their racial traits.
 
+These half-elves with class levels are described on their own:
+
+  - Barbarians: [[rangoric-srd/monsters/elf/Wild Lancer|Wild Lancer]] (CR 4), [[rangoric-srd/monsters/elf/Raging Swimmer|Raging Swimmer]] (CR 8)
+  - Fighters: [[rangoric-srd/monsters/elf/Adventuring Blacksmith|Adventuring Blacksmith]] (CR 5), [[rangoric-srd/monsters/elf/Pirate King|Pirate King]] (CR 14)
+  - Paladins: [[rangoric-srd/monsters/elf/Haughty Avenger|Haughty Avenger]] (CR 2), [[rangoric-srd/monsters/elf/Rider of the Steppe|Rider of the Steppe]] (CR 13), [[rangoric-srd/monsters/elf/Mithral Master|Mithral Master]] (CR 18)
+  - Rangers: [[rangoric-srd/monsters/elf/Novice Scout|Novice Scout]] (CR 1/2), [[rangoric-srd/monsters/elf/Swampwalker|Swampwalker]] (CR 8), [[rangoric-srd/monsters/elf/Fiendslayer|Fiendslayer]] (CR 12)
+
 #### Aquatic Elf
 
 Also called sea elves, these creatures are waterbreathing cousins to land-dwelling elves.
@@ -132,3 +139,12 @@ Wild elves are a [[rangoric-srd/races/Elf#Subtypes|subtype of the elf race]], wh
 Their hair color ranges from yellow to a coppery red, and they are more muscular than other elves. Their clothing is in dark shades of green and earth tones to better blend in with their natural surroundings.
 
 Wood elves are a [[rangoric-srd/races/Elf#Subtypes|subtype of the elf race]], which has their traits.
+
+### NPCs
+
+These elves with class levels are described on their own:
+
+  - Barbarians: [[rangoric-srd/monsters/elf/Forest Guardian|Forest Guardian]] (CR 5), [[rangoric-srd/monsters/elf/Graceful Slayer|Graceful Slayer]] (CR 16)
+  - Fighters: [[rangoric-srd/monsters/elf/Cautious Archer|Cautious Archer]] (CR 4), [[rangoric-srd/monsters/elf/Griffon Rider|Griffon Rider]] (CR 9), [[rangoric-srd/monsters/elf/Elven Recluse|Elven Recluse]] (CR 16)
+  - Paladins: [[rangoric-srd/monsters/elf/Holy Archer|Holy Archer]] (CR 5), [[rangoric-srd/monsters/elf/Elven Honorblade|Elven Honorblade]] (CR 10)
+  - Rangers: [[rangoric-srd/monsters/elf/Orc Slayer|Orc Slayer]] (CR 7), [[rangoric-srd/monsters/elf/Daredevil Hunter|Daredevil Hunter]] (CR 16)
