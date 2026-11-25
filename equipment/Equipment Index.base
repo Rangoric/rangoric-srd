@@ -22,3 +22,87 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: Failing alchemical-items
+    filters:
+      and:
+        - note.sweep == "failing"
+        - file.inFolder("rangoric-srd/equipment/alchemical-items")
+    order:
+      - file.name
+      - note.sweep-issues
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Failing armor
+    filters:
+      and:
+        - note.sweep == "failing"
+        - file.inFolder("rangoric-srd/equipment/armor")
+    order:
+      - file.name
+      - note.sweep-issues
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Failing gear
+    filters:
+      and:
+        - note.sweep == "failing"
+        - file.inFolder("rangoric-srd/equipment/gear")
+    order:
+      - file.name
+      - note.sweep-issues
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Failing herbs
+    filters:
+      and:
+        - note.sweep == "failing"
+        - file.inFolder("rangoric-srd/equipment/herbs")
+    order:
+      - file.name
+      - note.sweep-issues
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Failing siege-engines
+    filters:
+      and:
+        - note.sweep == "failing"
+        - file.inFolder("rangoric-srd/equipment/siege-engines")
+    order:
+      - file.name
+      - note.sweep-issues
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Failing spellbooks
+    filters:
+      and:
+        - note.sweep == "failing"
+        - file.inFolder("rangoric-srd/equipment/spellbooks")
+    order:
+      - file.name
+      - note.sweep-issues
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Failing weapons
+    filters:
+      and:
+        - note.sweep == "failing"
+        - file.inFolder("rangoric-srd/equipment/weapons")
+    order:
+      - file.name
+      - note.sweep-issues
+    sort:
+      - property: file.name
+        direction: ASC
