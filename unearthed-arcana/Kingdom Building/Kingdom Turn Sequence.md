@@ -90,7 +90,7 @@ The Improvement Edicts table tells you the maximum number of terrain improvement
 
 You may construct a building in any settlement in your kingdom. When a building is completed, apply its modifiers to your kingdom sheet. The Improvement Edicts table tells you the maximum number of buildings you can construct in your kingdom per turn. The first House, Mansion, Noble Villa, or Tenement your kingdom builds each turn does not count against that limit.
 
-**Step 6-Create Army Units**: You may create, expand, equip, or repair army units (see Mass Combat).
+**Step 6-Create Army Units**: You may create, expand, equip, or repair army units (see [[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]).
 
 **Step 7-Issue Edicts**: Select or adjust your edict levels (see Edicts).
 
@@ -168,7 +168,7 @@ Improvements are physical improvements you can make to your kingdom: founding ne
 | 51–100 | 2 | 10 | 7 | 4 |
 | 101–200 | 3 | 20 | 9 | 8 |
 | 201+ | 4 | No limit | 12 | 12 |
-| <sup>1</sup> Instead of creating a new settlement, your kingdom may create a new army unit (see Mass Combat), expand or equip an existing army unit, or bring an existing army unit back to full strength.<sup>2</sup> Upgrading a building (for example, from a Shrine to a Temple) or destroying a building counts toward this limit. The first House, Mansion, Noble Villa, or Tenement your kingdom builds each turn does not count against this number. |  |  |  |  |
+| <sup>1</sup> Instead of creating a new settlement, your kingdom may create a new army unit (see [[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|Mass Combat]]), expand or equip an existing army unit, or bring an existing army unit back to full strength.<sup>2</sup> Upgrading a building (for example, from a Shrine to a Temple) or destroying a building counts toward this limit. The first House, Mansion, Noble Villa, or Tenement your kingdom builds each turn does not count against this number. |  |  |  |  |
 
 ### Promotion Edicts
 
@@ -214,7 +214,7 @@ If your kingdom is reduced to 0 hexes—whether through Unrest, a natural disast
 
 Terrain improvements are changes to a hex that improve the land for your kingdom's use, such as cultivating fields, digging mines, and clearing forests for lumber. The following list describes common improvements. An improvement marked with an asterisk (\*) can share the same hex as other improvements.
 
-Some terrain improvements affect a settlement's Defense, which is used in the mass combat rules.
+Some terrain improvements affect a settlement's Defense, which is used in the [[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|mass combat rules]].
 
 **Terrain**: This indicates what kind of hex you can build this terrain improvement in.
 
@@ -380,7 +380,7 @@ The placement of buildings in your district is up to you—you can start in the 
 
 ### Defense
 
-A settlement's Defense is used with the mass combat rules. It otherwise has no effect unless the settlement is attacked. You can increase a settlement's Defense by building certain structures (such as City Walls).
+A settlement's Defense is used with the [[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|mass combat rules]]. It otherwise has no effect unless the settlement is attacked. You can increase a settlement's Defense by building certain structures (such as City Walls).
 
 **Table: Settlement Size and Base Value**
 
@@ -453,7 +453,7 @@ The third way is to spend BP (1 BP = 2,000 gp) to purchase the item. If you take
 
 ## Buildings
 
-You improve settlements by constructing buildings, which provide bonuses to the kingdom in general and the settlement in particular. Some buildings also intersect with the mass combat rules, notably with fortifications and reserve armies.
+You improve settlements by constructing buildings, which provide bonuses to the kingdom in general and the settlement in particular. Some buildings also intersect with the [[rangoric-srd/unearthed-arcana/Mass Combat/Mass Combat|mass combat rules]], notably with fortifications and reserve armies.
 
 **Demolition**: If a lot has a building, you can clear it for new construction. Doing so costs 1 BP. You may construct a building on a lot the same turn you demolish the old building there. You do not regain BP for a demolished building (but see Rebuilding, below).
 
