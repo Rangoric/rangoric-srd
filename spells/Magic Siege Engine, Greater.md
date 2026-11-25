@@ -37,7 +37,7 @@ tags: [rangoric, rangoric/spell]
   - **Components**: V, S, M/DF (black powder)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One siege engine touched
+  - **Target**: One [[rangoric-srd/rules/Siege Engines|siege engine]] touched
   - **Duration**: 1 hour/level
   - **Saving Throw**: Will negates (harmless, object)
   - **Spell Resistance**: Yes (harmless, object)

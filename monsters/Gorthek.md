@@ -65,6 +65,6 @@ The gorthek is, without a doubt, one of the crankiest beasts found roaming in th
 
 Gortheks tend to travel in small herds, grazing across remote temperate grasslands or sparsely wooded hills. When a gorthek perceives a threat—which to the gorthek includes just about everything, often even other gortheks—it launches itself into a full charge, intent on sending the enemy flying.
 
-Orc tribes have made a practice of raising the beasts from infancy to serve as living siege engines during warfare. Future gorthek riders bond with the creatures from a very young age, and if possible use *[[rangoric-srd/magic-items/wondrous-items/Gorthek Masks|gorthek masks]]* to make that bond stronger. When riding into battle, one orc sits astride the gorthek in a specially crafted saddle secured behind its massive horns and guides the beast using spiked reins.
+Orc tribes have made a practice of raising the beasts from infancy to serve as living [[rangoric-srd/rules/Siege Engines|siege engines]] during warfare. Future gorthek riders bond with the creatures from a very young age, and if possible use *[[rangoric-srd/magic-items/wondrous-items/Gorthek Masks|gorthek masks]]* to make that bond stronger. When riding into battle, one orc sits astride the gorthek in a specially crafted saddle secured behind its massive horns and guides the beast using spiked reins.
 
 An adult male gorthek stands about 7 feet high at the shoulder and weighs around 9,000 pounds.

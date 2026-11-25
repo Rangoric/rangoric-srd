@@ -35,7 +35,7 @@ tags: [rangoric, rangoric/spell]
   - **Components**: V, S, M (a ball of pitch)
   - **Casting Time**: 10 minutes
   - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One siege engine of any size
+  - **Target**: One [[rangoric-srd/rules/Siege Engines|siege engine]] of any size
   - **Duration**: 10 minute/level
   - **Saving Throw**: Fortitude negates (harmless, object)
   - **Spell Resistance**: Yes (harmless/object)

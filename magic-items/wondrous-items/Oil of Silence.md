@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Oil of Silence
 
-When applied to a one-handed or two-handed firearm, this strange grayish oil renders that firearm silent for 1 hour. Five vials of *oil of silence* can be used in conjunction to silence a Large firearm siege engine, and 10 can be used to silence a Huge firearm siege engine. The oil does not work on firearm siege engines that are larger than Huge.
+When applied to a one-handed or two-handed firearm, this strange grayish oil renders that firearm silent for 1 hour. Five vials of *oil of silence* can be used in conjunction to silence a Large firearm [[rangoric-srd/rules/Siege Engines|siege engine]], and 10 can be used to silence a Huge firearm siege engine. The oil does not work on firearm siege engines that are larger than Huge.
 
 Faint illusion; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Silence|silence]]*; Price 250 gp.

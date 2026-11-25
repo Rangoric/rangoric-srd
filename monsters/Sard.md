@@ -65,7 +65,7 @@ The sard is an ancient elm, oak, or pine tree that has been infused with lightni
 
 A sard can pass for an old dead tree—especially when the creature uses its *[[rangoric-srd/spells/Tree Shape|tree shape]]* spell-like ability. Yet despite its enormous size and ungainly shape, the sard is in fact a swift and agile monster. It can move with unsettling grace and speed, crawling across the ground on long spidery roots like an immense insect. It attacks either with a single slam of its immense trunk or by launching volleys of foot-long thorns that inject the creature's poisonous, electrified sap.
 
-Sards are nearly as intelligent as most humans, but few actually use this intelligence for productive purposes—the first sards were created as a form of living siege engine, and they quite enjoy this destructive role, often seeking out fortresses or even towns to systematically destroy.
+Sards are nearly as intelligent as most humans, but few actually use this intelligence for productive purposes—the first sards were created as a form of living [[rangoric-srd/rules/Siege Engines|siege engine]], and they quite enjoy this destructive role, often seeking out fortresses or even towns to systematically destroy.
 
 Sards speak Aklo and Sylvan.
 

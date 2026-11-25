@@ -22,7 +22,7 @@ When ships themselves become a part of a combat, things get more unusual. The fo
 
 ## Attacks
 
-Crew members in excess of the ship's minimum crew requirement can be allocated to man siege engines. Siege engines attack on the captain's initiative count.
+Crew members in excess of the ship's minimum crew requirement can be allocated to man [[rangoric-srd/rules/Siege Engines|siege engines]]. Siege engines attack on the captain's initiative count.
 
 A ship can also attempt to ram a target if it has its minimum crew. To ram a target, the ship must move at least 30 feet and end with its bow in a square adjacent to the target. The ship's captain then makes a [[rangoric-srd/skills/Profession|Profession]] (sailor) check—if this check equals or exceeds the target's AC, the ship hits its target, inflicting damage as indicated on the ship statistics table to the target, as well as minimum damage to the ramming ship. A ship outfitted with an actual ram siege engine inflicts an additional 3d6 points of damage to the target (the ramming vessel suffers no additional damage).
 
@@ -44,7 +44,7 @@ A vast variety of boats and ships exist in the real world, from small rafts and 
 
 **Arms**: The number of siege engines that can be fitted on the ship. A ram uses one of these slots, and only one ram may be fitted to a ship.
 
-**Ram**: The amount of damage the ship inflicts on a successful ramming attack (without a ram siege engine).
+**Ram**: The amount of damage the ship inflicts on a successful ramming attack (without a [[rangoric-srd/equipment/siege-engines/Ram, Large|ram siege engine]]).
 
 **Squares**: The number of squares the ship takes up on the battle mat. A ship's width is always considered to be one square.
 

@@ -768,6 +768,8 @@ The majority of a city guard force is made up of [[rangoric-srd/classes/Warrior|
 
 Siege engines are large weapons, temporary structures, or pieces of equipment traditionally used in besieging a castle or fortress.  
 
+Fuller siege engine rules, with more engines and their ammunition, are in [[rangoric-srd/rules/Siege Engines|Siege Engines]]; where the two differ, use those.
+
 Table: Siege Engines   
 
 | Item            | Cost     | Damage  | Critical | Range Increment           | Typical Crew |
