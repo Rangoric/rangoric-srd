@@ -192,7 +192,7 @@ As a further variant of this system, all spellcasters gain bonus spell points ba
 
 A second optional variant would allow a spellcaster to exceed his normal pool of spell points, but at great personal risk. Doing so successfully requires a [[rangoric-srd/spells/Magic Overview#Concentration|Concentration]] check (DC 20 + spell level). Each time a character casts a spell for which he does not have sufficient spell points and subsequently fails the Concentration check, he takes both lethal and nonlethal damage equal to the level of the spell cast. A desperate (or unwary) spellcaster can literally cast himself into unconsciousness in this manner.
 
-##### [](behind-the-curtain-spell-points)BEHIND THE CURTAIN: SPELL POINTS
+##### BEHIND THE CURTAIN: SPELL POINTS
 
 The spell point system dramatically expands the versality of a spellcaster. Since she's no longer tied to using a specific number of spell slots, she can much more easily adapt to situations. In effect, spell points make all classes work more like the sorcerer, and make the sorcerer (or bard) work even more like the sorcerer. In general, spellcasters become more powerful - though they aren't capable of casting any spell they couldn't cast before, they are now capable of casting more high-level spells per day and more of whichever spells they need. If a 15th-level cleric needs to cast [[rangoric-srd/spells/Heal (Spell)|heal]] a dozen times during an adventure, he can do that (though not much else).
 

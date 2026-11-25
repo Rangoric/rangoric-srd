@@ -123,7 +123,7 @@ The druid grows gills, enabling her to breathe underwater (while retaining her a
 
 ###### Elemental Air
 
-The druids body becomes gaseous (as the [[rangoric-srd/spells/Gaseous Form|gaseous form]] spell, except that she can fly at a speed of 100 feet with perfect maneuverability and doesn't lose her supernatural abilities while in this form). While in this form, the druid has immunity to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], and [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], as well as any other immunities provided by the gaseous form spell. The druid cannot cast spells while this aspect is in effect. She can't combine this aspect with any other aspect except for [agility](%0A#agility) and [endurance](%0A#endurance). Prerequisite: Druid level 16th.
+The druids body becomes gaseous (as the [[rangoric-srd/spells/Gaseous Form|gaseous form]] spell, except that she can fly at a speed of 100 feet with perfect maneuverability and doesn't lose her supernatural abilities while in this form). While in this form, the druid has immunity to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], and [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], as well as any other immunities provided by the gaseous form spell. The druid cannot cast spells while this aspect is in effect. She can't combine this aspect with any other aspect except for [[#Agility|agility]] and [[#Endurance|endurance]]. Prerequisite: Druid level 16th.
 
 ###### Elemental Earth
 
@@ -147,7 +147,7 @@ The druid grows wings feathery or batlike, at her option) that enable her to fly
 
 ###### Plant
 
-The druid's body becomes plantlike. While in this form, the druid gains a +10 bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks made in areas of forest, overgrowth, or similar terrain. She gains immunity to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], and [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]]. She gains a slam attack that deals bludgeoning damage equal to a light mace of the druid's size (1d6 for Medium druids, 1d4 for Small druids). Her natural armor bonus becomes 4 (replacing any other natural armor bonus the druid has, though enhancement bonuses to natural armor still apply normally). She can't combine this aspect with any other aspect except for [vigor](%0A#vigor). Prerequisite: Druid level 12th.
+The druid's body becomes plantlike. While in this form, the druid gains a +10 bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks made in areas of forest, overgrowth, or similar terrain. She gains immunity to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], and [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]]. She gains a slam attack that deals bludgeoning damage equal to a light mace of the druid's size (1d6 for Medium druids, 1d4 for Small druids). Her natural armor bonus becomes 4 (replacing any other natural armor bonus the druid has, though enhancement bonuses to natural armor still apply normally). She can't combine this aspect with any other aspect except for [[#Vigor|vigor]]. Prerequisite: Druid level 12th.
 
 ###### Poison
 

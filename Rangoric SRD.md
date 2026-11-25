@@ -21,7 +21,7 @@ My combined rules: one version of each rule, starting from the whole 3.5 SRD and
 ## How it gets built
 
 - **Start from a complete base.** The whole 3.5 SRD was copied in on 2026-10-15 (everything except the website's `tools` pages). Changes are made to the copy; the processed notes stay as reference.
-- **Adjust piecemeal.** Pull in improvements from the other sources one area at a time, starting with what the [[Shared Core]] of the rogue-like and auto-battler needs.
+- **Adjust piecemeal.** Pull in improvements from the other sources one area at a time, starting with what the shared core of the rogue-like and auto-battler needs.
 - **Every entry links back.** Each note's `based-on` property names the notes it came from, so the original text is one click away. When an entry changes, set `change: modified` and log it in the [[Changelog]].
 - **The copy is a fork.** Later fixes to the processed 3.5 notes don't flow into this folder; apply them here too, or re-copy notes that are still `status: base`.
 
@@ -78,5 +78,4 @@ Topic tags go in the same `tags` list, lowercase and with no prefix, such as `co
 ## Related
 
 - [[Changelog]]: departures from the SRD, one line each
-- [[Game Plans]]: what each game needs from this
 - [[rangoric-srd/legal/Legal|Legal]]: the OGL with every source's Section 15 notice; include it with anything published

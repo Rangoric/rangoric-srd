@@ -90,7 +90,7 @@ Changes, additions, or subtractions to the class's special features, including s
 
 ###### Multiclassing And Variant Classes
 
-Multiclassing between variants of the same class is a tricky subject. In cases where a single class offers a variety of paths (such as the [[#Totem Barbarian|totem barbarian]] or the monk [fighting styles](%0A#fighting-styles)), the easiest solution is simply to bar multiclassing between different versions of the same class (just as a character can't multiclass between different versions of specialist wizards). For variants that are wholly separate from the character class - such as the [[#Bard Variant: Bardic Sage|bardic sage]] or the [[#Urban Ranger|urban ranger]] - multiclassing, even into multiple variants of the same class, is probably okay. Identical class features should stack if gained from multiple versions of the same class (except for spellcasting, which is always separate).
+Multiclassing between variants of the same class is a tricky subject. In cases where a single class offers a variety of paths (such as the [[#Totem Barbarian|totem barbarian]] or the monk [[#Fighting Styles|fighting styles]]), the easiest solution is simply to bar multiclassing between different versions of the same class (just as a character can't multiclass between different versions of specialist wizards). For variants that are wholly separate from the character class - such as the [[#Bard Variant: Bardic Sage|bardic sage]] or the [[#Urban Ranger|urban ranger]] - multiclassing, even into multiple variants of the same class, is probably okay. Identical class features should stack if gained from multiple versions of the same class (except for spellcasting, which is always separate).
 
 Under no circumstances does spellcasting ability from multiple classes (even variants of the same class) stack. A character with levels of bard and levels of [[#Bard Variant: Bardic Sage|bardic sage]] has two separate caster levels and two separate sets of spells per day, even though the classes are very similar.
 
@@ -878,7 +878,7 @@ An urban ranger does not gain this ability.
 
 ###### Swift Tracker (Ex)
 
-Beginning at 8th level, am urban ranger may make a [[rangoric-srd/skills/Persuasion|Persuasion]] check for his [Urban Tracking](%0A#urban-tracking) feat every half hour without taking the normal -5 penalty.
+Beginning at 8th level, am urban ranger may make a [[rangoric-srd/skills/Persuasion|Persuasion]] check for his [[#Urban Tracking (General)|Urban Tracking]] feat every half hour without taking the normal -5 penalty.
 
 ###### Camouflage
 

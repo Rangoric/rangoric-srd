@@ -26,7 +26,7 @@ tags: [rangoric, rangoric/action]
 
 The text says what the action does, what the check is (if there is one), and any special cases.
 
-The [[rangoric-srd/actions/Actions Index|Actions Index]] lists every action with its type, skills and whether it provokes.
+The [[rangoric-srd/actions/Actions Index.base|Actions Index]] lists every action with its type, skills and whether it provokes.
 
 ## Action types
 
