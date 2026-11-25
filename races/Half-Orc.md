@@ -123,22 +123,22 @@ A half-orc can take any of these in place of the traits they replace (see [[rang
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Darkvision (Racial Trait)|Acute Darkvision]] | Orc ferocity |
-| [[rangoric-srd/races/racial-traits/Beastmaster|Beastmaster]] | Orc ferocity |
-| [[rangoric-srd/races/racial-traits/Bestial|Bestial]] | Orc ferocity |
-| [[rangoric-srd/races/racial-traits/Cavewight|Cavewight]] | Intimidating |
-| [[rangoric-srd/races/racial-traits/Chain Fighter|Chain Fighter]] | Weapon familiarity |
-| [[rangoric-srd/races/racial-traits/City-Raised|City-Raised]] | Weapon familiarity |
-| [[rangoric-srd/races/racial-traits/Forest Walker|Forest Walker]] | Darkvision |
-| [[rangoric-srd/races/racial-traits/Gatecrasher|Gatecrasher]] | Orc ferocity |
-| [[rangoric-srd/races/racial-traits/Plagueborn|Plagueborn]] | Intimidating and orc ferocity |
-| [[rangoric-srd/races/racial-traits/Rock Climber|Rock Climber]] | Intimidating |
-| [[rangoric-srd/races/racial-traits/Sacred Tattoo|Sacred Tattoo]] | Orc ferocity |
-| [[rangoric-srd/races/racial-traits/Scavenger|Scavenger]] | Intimidating |
-| [[rangoric-srd/races/racial-traits/Shaman's Apprentice|Shaman's Apprentice]] | Intimidating |
-| [[rangoric-srd/races/racial-traits/Skilled|Skilled]] | Darkvision |
-| [[rangoric-srd/races/racial-traits/Squalid|Squalid]] | Orc ferocity |
-| [[rangoric-srd/races/racial-traits/Toothy|Toothy]] | Orc ferocity |
+| [[rangoric-srd/races/racial-traits/Darkvision (Racial Trait)\|Acute Darkvision]] | Orc ferocity |
+| [[rangoric-srd/races/racial-traits/Beastmaster\|Beastmaster]] | Orc ferocity |
+| [[rangoric-srd/races/racial-traits/Bestial\|Bestial]] | Orc ferocity |
+| [[rangoric-srd/races/racial-traits/Cavewight\|Cavewight]] | Intimidating |
+| [[rangoric-srd/races/racial-traits/Chain Fighter\|Chain Fighter]] | Weapon familiarity |
+| [[rangoric-srd/races/racial-traits/City-Raised\|City-Raised]] | Weapon familiarity |
+| [[rangoric-srd/races/racial-traits/Forest Walker\|Forest Walker]] | Darkvision |
+| [[rangoric-srd/races/racial-traits/Gatecrasher\|Gatecrasher]] | Orc ferocity |
+| [[rangoric-srd/races/racial-traits/Plagueborn\|Plagueborn]] | Intimidating and orc ferocity |
+| [[rangoric-srd/races/racial-traits/Rock Climber\|Rock Climber]] | Intimidating |
+| [[rangoric-srd/races/racial-traits/Sacred Tattoo\|Sacred Tattoo]] | Orc ferocity |
+| [[rangoric-srd/races/racial-traits/Scavenger\|Scavenger]] | Intimidating |
+| [[rangoric-srd/races/racial-traits/Shaman's Apprentice\|Shaman's Apprentice]] | Intimidating |
+| [[rangoric-srd/races/racial-traits/Skilled\|Skilled]] | Darkvision |
+| [[rangoric-srd/races/racial-traits/Squalid\|Squalid]] | Orc ferocity |
+| [[rangoric-srd/races/racial-traits/Toothy\|Toothy]] | Orc ferocity |
 
 ### Race Traits
 

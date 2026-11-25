@@ -82,4 +82,4 @@ Flail snails speak Flail Snail (sign language, slime writing, cannot speak).
 | 1–3 | Spell misfires. For the next 1d4 rounds, the caster must make a DC 15 concentration check to successfully cast spells. |
 | 4–6 | Spell misfires. The creature nearest the flail snail is affected as if the spell had been cast on it instead. |
 | 7–9 | Spell fails. Nothing happens. |
-| 10  | Spell rebounds on caster (as *[[rangoric-srd/spells/Spell Turning|spell turning]]*). |
+| 10  | Spell rebounds on caster (as *[[rangoric-srd/spells/Spell Turning\|spell turning]]*). |

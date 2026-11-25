@@ -80,11 +80,11 @@ A fetchling can take any of these in place of the traits they replace or modify 
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Emissary|Emissary]] | Shadow blending |
-| [[rangoric-srd/races/racial-traits/Gloom Shimmer|Gloom Shimmer]] | Modifies: spell-like abilities |
-| [[rangoric-srd/races/racial-traits/Shadow Magic|Shadow Magic]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Subtle Manipulator|Subtle Manipulator]] | Modifies: spell-like abilities |
-| [[rangoric-srd/races/racial-traits/World Walker|World Walker]] | Modifies: skilled |
+| [[rangoric-srd/races/racial-traits/Emissary\|Emissary]] | Shadow blending |
+| [[rangoric-srd/races/racial-traits/Gloom Shimmer\|Gloom Shimmer]] | Modifies: spell-like abilities |
+| [[rangoric-srd/races/racial-traits/Shadow Magic\|Shadow Magic]] | Skilled |
+| [[rangoric-srd/races/racial-traits/Subtle Manipulator\|Subtle Manipulator]] | Modifies: spell-like abilities |
+| [[rangoric-srd/races/racial-traits/World Walker\|World Walker]] | Modifies: skilled |
 
 ### Class Bonuses
 

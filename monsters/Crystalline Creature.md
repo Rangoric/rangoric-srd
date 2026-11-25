@@ -35,12 +35,12 @@ Most crystalline creatures occupy this state temporarily, but for some it become
 
 | Hit Dice or Level | Spell-Like Abilities |
 | --- | --- |
-| 1–3 | *[[rangoric-srd/spells/Flare|flare]]* 3/day |
-| 4–6 | *[[rangoric-srd/spells/Color Spray|color spray]]* |
-| 7–9 | *[[rangoric-srd/spells/Hypnotic Pattern|hypnotic pattern]]* |
-| 10–12 | *[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]* |
-| 13–15 | *[[rangoric-srd/spells/Rainbow Pattern|rainbow pattern]]* |
-| 16+ | *[[rangoric-srd/spells/Prismatic Spray|prismatic spray]]* |
+| 1–3 | *[[rangoric-srd/spells/Flare\|flare]]* 3/day |
+| 4–6 | *[[rangoric-srd/spells/Color Spray\|color spray]]* |
+| 7–9 | *[[rangoric-srd/spells/Hypnotic Pattern\|hypnotic pattern]]* |
+| 10–12 | *[[rangoric-srd/spells/Blindness-Deafness\|blindness/deafness]]* |
+| 13–15 | *[[rangoric-srd/spells/Rainbow Pattern\|rainbow pattern]]* |
+| 16+ | *[[rangoric-srd/spells/Prismatic Spray\|prismatic spray]]* |
 
 **Special Qualities**: A crystalline creature keeps any special qualities that the base creature had, and is now an elemental, granting it immunity to poison, sleep, paralysis, and stunning. It is no longer subject to critical hits, and gains darkvision out to 60 feet. It also has resistance to cold 10 and fire 10. It has no metabolism, and therefore needs no food, water, or air.
 

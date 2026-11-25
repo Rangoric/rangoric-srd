@@ -70,9 +70,9 @@ A merfolk can take any of these in place of the traits they replace (see [[rango
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Darkvision (Racial Trait)|Darkvision]] | Low-light vision |
-| [[rangoric-srd/races/racial-traits/Seasinger|Seasinger]] | Low-light vision |
-| [[rangoric-srd/races/racial-traits/Strongtail|Strongtail]] | Slow speed |
+| [[rangoric-srd/races/racial-traits/Darkvision (Racial Trait)\|Darkvision]] | Low-light vision |
+| [[rangoric-srd/races/racial-traits/Seasinger\|Seasinger]] | Low-light vision |
+| [[rangoric-srd/races/racial-traits/Strongtail\|Strongtail]] | Slow speed |
 
 ### Class Bonuses
 

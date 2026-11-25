@@ -24,8 +24,8 @@ Whenever the oath taker for a particular weapon is killed, that weapon permanent
 
 | Oath Takers Killed | Additional Effect |
 |---|---|
-| 3 or more | [[rangoric-srd/rules/Afflictions#Poison|Poison]] (Fortitude DC 18, 1d6 Str/1d6 Str) |
-| 6 or more | *[[rangoric-srd/spells/Dimensional Anchor|Dimensional anchor]]* (Will DC 19) |
+| 3 or more | [[rangoric-srd/rules/Afflictions#Poison\|Poison]] (Fortitude DC 18, 1d6 Str/1d6 Str) |
+| 6 or more | *[[rangoric-srd/spells/Dimensional Anchor\|Dimensional anchor]]* (Will DC 19) |
 | 9 | Death (Fortitude DC 22; on a success, still 3d6+19 points of additional damage) |
 
 If the last oath taker for a weapon in a set is killed, the weapon vanishes, leaving the oath forever unfulfilled. If the oath can no longer be accomplished due to the death of the targeted individual by other means, the weapons still remain and receive their full powers until all oath takers have passed away.

@@ -79,15 +79,15 @@ A hobgoblin can take any of these in place of the traits they replace (see [[ran
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Bandy-Legged|Bandy-Legged]] | Normal speed |
-| [[rangoric-srd/races/racial-traits/Battle-Hardened|Battle-Hardened]] | Sneaky |
-| [[rangoric-srd/races/racial-traits/Engineer|Engineer]] | Sneaky |
-| [[rangoric-srd/races/racial-traits/Fearsome|Fearsome]] | Sneaky |
-| [[rangoric-srd/races/racial-traits/Magehunter|Magehunter]] | Sneaky |
-| [[rangoric-srd/races/racial-traits/Pit Boss|Pit Boss]] | Sneaky |
-| [[rangoric-srd/races/racial-traits/Scarred|Scarred]] | Darkvision |
-| [[rangoric-srd/races/racial-traits/Slave Hunter|Slave Hunter]] | Sneaky |
-| [[rangoric-srd/races/racial-traits/Unfit|Unfit]] | Sneaky |
+| [[rangoric-srd/races/racial-traits/Bandy-Legged\|Bandy-Legged]] | Normal speed |
+| [[rangoric-srd/races/racial-traits/Battle-Hardened\|Battle-Hardened]] | Sneaky |
+| [[rangoric-srd/races/racial-traits/Engineer\|Engineer]] | Sneaky |
+| [[rangoric-srd/races/racial-traits/Fearsome\|Fearsome]] | Sneaky |
+| [[rangoric-srd/races/racial-traits/Magehunter\|Magehunter]] | Sneaky |
+| [[rangoric-srd/races/racial-traits/Pit Boss\|Pit Boss]] | Sneaky |
+| [[rangoric-srd/races/racial-traits/Scarred\|Scarred]] | Darkvision |
+| [[rangoric-srd/races/racial-traits/Slave Hunter\|Slave Hunter]] | Sneaky |
+| [[rangoric-srd/races/racial-traits/Unfit\|Unfit]] | Sneaky |
 
 ### Subtypes
 

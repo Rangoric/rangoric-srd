@@ -69,8 +69,8 @@ A kitsune can take any of these in place of the traits they replace (see [[rango
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Fast Shifter|Fast Shifter]] | Kitsune magic |
-| [[rangoric-srd/races/racial-traits/Gregarious|Gregarious]] | Agile |
+| [[rangoric-srd/races/racial-traits/Fast Shifter\|Fast Shifter]] | Kitsune magic |
+| [[rangoric-srd/races/racial-traits/Gregarious\|Gregarious]] | Agile |
 
 ### Class Bonuses
 

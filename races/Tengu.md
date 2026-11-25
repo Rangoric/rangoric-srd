@@ -77,10 +77,10 @@ A tengu can take any of these in place of the traits they replace (see [[rangori
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Carrion Sense|Carrion Sense]] | Gifted linguist |
-| [[rangoric-srd/races/racial-traits/Claw Attack|Claw Attack]] | Swordtrained |
-| [[rangoric-srd/races/racial-traits/Exotic Weapon Training|Exotic Weapon Training]] | Swordtrained |
-| [[rangoric-srd/races/racial-traits/Gliding Wings|Glide]] | Gifted linguist |
+| [[rangoric-srd/races/racial-traits/Carrion Sense\|Carrion Sense]] | Gifted linguist |
+| [[rangoric-srd/races/racial-traits/Claw Attack\|Claw Attack]] | Swordtrained |
+| [[rangoric-srd/races/racial-traits/Exotic Weapon Training\|Exotic Weapon Training]] | Swordtrained |
+| [[rangoric-srd/races/racial-traits/Gliding Wings\|Glide]] | Gifted linguist |
 
 ### Class Bonuses
 

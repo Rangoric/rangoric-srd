@@ -87,15 +87,15 @@ An undine can take any of these in place of the traits they replace (see [[rango
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Acid Breath|Acid Breath]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Amphibious|Amphibious]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Deepsight (Racial Trait)|Deepsight]] | Darkvision |
-| [[rangoric-srd/races/racial-traits/Flesh Chameleon|Flesh Chameleon]] | Energy resistance |
-| [[rangoric-srd/races/racial-traits/Hydrated Vitality|Hydrated Vitality]] | Water affinity |
-| [[rangoric-srd/races/racial-traits/Nereid Fascination|Nereid Fascination]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Ooze Breath|Ooze Breath]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Terrain Chameleon|Terrain Chameleon]] | Energy resistance |
-| [[rangoric-srd/races/racial-traits/Water Sense|Water Sense]] | Energy resistance |
+| [[rangoric-srd/races/racial-traits/Acid Breath\|Acid Breath]] | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Amphibious\|Amphibious]] | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Deepsight (Racial Trait)\|Deepsight]] | Darkvision |
+| [[rangoric-srd/races/racial-traits/Flesh Chameleon\|Flesh Chameleon]] | Energy resistance |
+| [[rangoric-srd/races/racial-traits/Hydrated Vitality\|Hydrated Vitality]] | Water affinity |
+| [[rangoric-srd/races/racial-traits/Nereid Fascination\|Nereid Fascination]] | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Ooze Breath\|Ooze Breath]] | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Terrain Chameleon\|Terrain Chameleon]] | Energy resistance |
+| [[rangoric-srd/races/racial-traits/Water Sense\|Water Sense]] | Energy resistance |
 
 ### Class Bonuses
 

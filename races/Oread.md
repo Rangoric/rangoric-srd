@@ -79,14 +79,14 @@ An oread can take any of these in place of the traits they replace (see [[rangor
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Crystalline Form|Crystalline Form]] | Earth affinity |
-| [[rangoric-srd/races/racial-traits/Elemental Insight|Earth Insight]] | Earth affinity |
-| [[rangoric-srd/races/racial-traits/Ferrous Growth|Ferrous Growth]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Fertile Soil|Fertile Soil]] | Earth affinity |
-| [[rangoric-srd/races/racial-traits/Granite Skin|Granite Skin]] | Energy resistance |
-| [[rangoric-srd/races/racial-traits/Mountain-Born|Mountain-Born]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Elemental Vitality|Stone in the Blood]] | Earth affinity |
-| [[rangoric-srd/races/racial-traits/Treacherous Earth|Treacherous Earth]] | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Crystalline Form\|Crystalline Form]] | Earth affinity |
+| [[rangoric-srd/races/racial-traits/Elemental Insight\|Earth Insight]] | Earth affinity |
+| [[rangoric-srd/races/racial-traits/Ferrous Growth\|Ferrous Growth]] | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Fertile Soil\|Fertile Soil]] | Earth affinity |
+| [[rangoric-srd/races/racial-traits/Granite Skin\|Granite Skin]] | Energy resistance |
+| [[rangoric-srd/races/racial-traits/Mountain-Born\|Mountain-Born]] | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Elemental Vitality\|Stone in the Blood]] | Earth affinity |
+| [[rangoric-srd/races/racial-traits/Treacherous Earth\|Treacherous Earth]] | Spell-like ability |
 
 ### Class Bonuses
 

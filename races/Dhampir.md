@@ -86,9 +86,9 @@ A dhampir can take any of these in place of the traits they replace (see [[rango
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Dayborn|Dayborn]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Fangs|Fangs]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Vampiric Empathy|Vampiric Empathy]] | Manipulative |
+| [[rangoric-srd/races/racial-traits/Dayborn\|Dayborn]] | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Fangs\|Fangs]] | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Vampiric Empathy\|Vampiric Empathy]] | Manipulative |
 
 ### Class Bonuses
 

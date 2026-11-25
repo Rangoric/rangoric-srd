@@ -122,19 +122,19 @@ A halfling can take any of these in place of the traits they replace (see [[rang
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Adaptable Luck|Adaptable Luck]] | Halfling luck |
-| [[rangoric-srd/races/racial-traits/Craven|Craven]] | Fearless and halfling luck |
-| [[rangoric-srd/races/racial-traits/Fleet of Foot|Fleet of Foot]] | Slow speed and sure-footed (Acrobatics and Athletics only) |
-| [[rangoric-srd/races/racial-traits/Ingratiating|Ingratiating]] | Keen senses and sure-footed (Acrobatics and Athletics only) |
-| [[rangoric-srd/races/racial-traits/Low Blow|Low Blow]] | Keen senses |
-| [[rangoric-srd/races/racial-traits/Outrider|Outrider]] | Sure-footed (Acrobatics and Athletics only) |
-| [[rangoric-srd/races/racial-traits/Polyglot|Polyglot]] | Keen senses, and changes languages |
-| [[rangoric-srd/races/racial-traits/Practicality|Practicality]] | Fearless and sure-footed (Acrobatics and Athletics only) |
-| [[rangoric-srd/races/racial-traits/Shiftless|Shiftless]] | Sure-footed (Acrobatics and Athletics only) |
-| [[rangoric-srd/races/racial-traits/Swift as Shadows|Swift as Shadows]] | Sure-footed (Acrobatics and Athletics only) |
-| [[rangoric-srd/races/racial-traits/Underfoot|Underfoot]] | Halfling luck |
-| [[rangoric-srd/races/racial-traits/Wanderlust|Wanderlust]] | Fearless and halfling luck |
-| [[rangoric-srd/races/racial-traits/Warslinger|Warslinger]] | Sure-footed (Acrobatics and Athletics only) |
+| [[rangoric-srd/races/racial-traits/Adaptable Luck\|Adaptable Luck]] | Halfling luck |
+| [[rangoric-srd/races/racial-traits/Craven\|Craven]] | Fearless and halfling luck |
+| [[rangoric-srd/races/racial-traits/Fleet of Foot\|Fleet of Foot]] | Slow speed and sure-footed (Acrobatics and Athletics only) |
+| [[rangoric-srd/races/racial-traits/Ingratiating\|Ingratiating]] | Keen senses and sure-footed (Acrobatics and Athletics only) |
+| [[rangoric-srd/races/racial-traits/Low Blow\|Low Blow]] | Keen senses |
+| [[rangoric-srd/races/racial-traits/Outrider\|Outrider]] | Sure-footed (Acrobatics and Athletics only) |
+| [[rangoric-srd/races/racial-traits/Polyglot\|Polyglot]] | Keen senses, and changes languages |
+| [[rangoric-srd/races/racial-traits/Practicality\|Practicality]] | Fearless and sure-footed (Acrobatics and Athletics only) |
+| [[rangoric-srd/races/racial-traits/Shiftless\|Shiftless]] | Sure-footed (Acrobatics and Athletics only) |
+| [[rangoric-srd/races/racial-traits/Swift as Shadows\|Swift as Shadows]] | Sure-footed (Acrobatics and Athletics only) |
+| [[rangoric-srd/races/racial-traits/Underfoot\|Underfoot]] | Halfling luck |
+| [[rangoric-srd/races/racial-traits/Wanderlust\|Wanderlust]] | Fearless and halfling luck |
+| [[rangoric-srd/races/racial-traits/Warslinger\|Warslinger]] | Sure-footed (Acrobatics and Athletics only) |
 
 ### Race Traits
 

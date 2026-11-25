@@ -121,19 +121,19 @@ An elf can take any of these in place of the traits they replace (see [[rangoric
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Arcane Focus|Arcane Focus]] | Weapon familiarity |
-| [[rangoric-srd/races/racial-traits/Darkvision (Racial Trait)|Darkvision]] | Low-light vision |
-| [[rangoric-srd/races/racial-traits/Desert Runner|Desert Runner]] | Elven magic |
-| [[rangoric-srd/races/racial-traits/Dreamspeaker|Dreamspeaker]] | Elven immunities |
-| [[rangoric-srd/races/racial-traits/Elemental Resistance|Elemental Resistance]] | Elven immunities |
-| [[rangoric-srd/races/racial-traits/Envoy|Envoy]] | Elven magic |
-| [[rangoric-srd/races/racial-traits/Eternal Grudge|Eternal Grudge]] | Elven magic |
-| [[rangoric-srd/races/racial-traits/Fleet-Footed|Fleet-Footed]] | Keen senses and weapon familiarity |
-| [[rangoric-srd/races/racial-traits/Lightbringer|Lightbringer]] | Elven immunities and elven magic |
-| [[rangoric-srd/races/racial-traits/Silent Hunter|Silent Hunter]] | Elven magic |
-| [[rangoric-srd/races/racial-traits/Spirit of the Waters|Spirit of the Waters]] | Elven magic and weapon familiarity |
-| [[rangoric-srd/races/racial-traits/Urbanite|Urbanite]] | Keen senses |
-| [[rangoric-srd/races/racial-traits/Woodcraft|Woodcraft]] | Elven magic |
+| [[rangoric-srd/races/racial-traits/Arcane Focus\|Arcane Focus]] | Weapon familiarity |
+| [[rangoric-srd/races/racial-traits/Darkvision (Racial Trait)\|Darkvision]] | Low-light vision |
+| [[rangoric-srd/races/racial-traits/Desert Runner\|Desert Runner]] | Elven magic |
+| [[rangoric-srd/races/racial-traits/Dreamspeaker\|Dreamspeaker]] | Elven immunities |
+| [[rangoric-srd/races/racial-traits/Elemental Resistance\|Elemental Resistance]] | Elven immunities |
+| [[rangoric-srd/races/racial-traits/Envoy\|Envoy]] | Elven magic |
+| [[rangoric-srd/races/racial-traits/Eternal Grudge\|Eternal Grudge]] | Elven magic |
+| [[rangoric-srd/races/racial-traits/Fleet-Footed\|Fleet-Footed]] | Keen senses and weapon familiarity |
+| [[rangoric-srd/races/racial-traits/Lightbringer\|Lightbringer]] | Elven immunities and elven magic |
+| [[rangoric-srd/races/racial-traits/Silent Hunter\|Silent Hunter]] | Elven magic |
+| [[rangoric-srd/races/racial-traits/Spirit of the Waters\|Spirit of the Waters]] | Elven magic and weapon familiarity |
+| [[rangoric-srd/races/racial-traits/Urbanite\|Urbanite]] | Keen senses |
+| [[rangoric-srd/races/racial-traits/Woodcraft\|Woodcraft]] | Elven magic |
 
 ### Race Traits
 

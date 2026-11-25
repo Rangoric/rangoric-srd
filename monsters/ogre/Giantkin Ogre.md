@@ -28,7 +28,7 @@ Blessed with the blood of greater giants, giantkin ogres are larger and stronger
 
 | Crossbreed | Special Abilities                           |
 | --- | --- |
-| Fireblood  | [[rangoric-srd/monsters/abilities/Resistance|Resist fire]] 10                              |
-| Frostblood | [[rangoric-srd/monsters/abilities/Resistance|Resist cold]] 10                              |
+| Fireblood  | [[rangoric-srd/monsters/abilities/Resistance\|Resist fire]] 10                              |
+| Frostblood | [[rangoric-srd/monsters/abilities/Resistance\|Resist cold]] 10                              |
 | Hillblood  | Increase natural armor by 2                 |
-| Stoneblood | [[rangoric-srd/monsters/abilities/Rock Catching|Rock catching]], [[rangoric-srd/monsters/abilities/Rock Throwing|rock throwing]] (1d8, 120 ft.) |
+| Stoneblood | [[rangoric-srd/monsters/abilities/Rock Catching\|Rock catching]], [[rangoric-srd/monsters/abilities/Rock Throwing\|rock throwing]] (1d8, 120 ft.) |

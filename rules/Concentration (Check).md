@@ -33,7 +33,7 @@ In this table, *level* is the level of the spell you're casting or the power you
 | Distracted by a spell or power in some other way | its save DC + level |
 | [[rangoric-srd/rules/conditions/Grappled (Condition)\|Grappled]] or [[rangoric-srd/rules/conditions/Pinned (Condition)\|pinned]] | 20 + level |
 | Casting a spell with a somatic component while grappled | 50 + level |
-| Casting a spell with a [[rangoric-srd/spells/Magic Overview#^thought-component|thought component]] | The distraction’s DC + 10 |
+| Casting a spell with a [[rangoric-srd/spells/Magic Overview#^thought-component\|thought component]] | The distraction’s DC + 10 |
 | Vigorous motion | 10 + level |
 | Violent motion | 15 + level |
 | High wind carrying blinding rain or sleet | 5 + level |

@@ -128,11 +128,11 @@ As adventurers equip themselves for the trials and tribulations that lie ahead o
 | --- | --- | --- |
 | Enchanted armor | *+2 studded leather* | Adds to Armor Class |
 | Shield | Heavy steel shield | Adds to Armor Class |
-| Bracers (1) | *[[rangoric-srd/magic-items/wondrous-items/Bracers of Armor +1|bracers of armor]] +10* | Adds to Armor Class |
-| Natural armor | *[[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor +1|amulet of natural armor]] +6* | Adds to Armor Class |
+| Bracers (1) | *[[rangoric-srd/magic-items/wondrous-items/Bracers of Armor +1\|bracers of armor]] +10* | Adds to Armor Class |
+| Natural armor | *[[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor +1\|amulet of natural armor]] +6* | Adds to Armor Class |
 | Damage reduction | Barbarian ability | Stacks with armor DR |
-| Magic item | *[[rangoric-srd/magic-items/rings/Ring of Ironskin|ring of ironskin]]* | Separate; DR 15/adamantine |
-| Spell | *[[rangoric-srd/spells/Mage Armor|mage armor]]* | Adds to Armor Class (2) |
+| Magic item | *[[rangoric-srd/magic-items/rings/Ring of Ironskin\|ring of ironskin]]* | Separate; DR 15/adamantine |
+| Spell | *[[rangoric-srd/spells/Mage Armor\|mage armor]]* | Adds to Armor Class (2) |
 
 1 *Wearing bracers adds to Armor Class, making a creature tougher to hit but not adding any other bonus that actual armor grants under these rules. Bracers of armor +5 don’t grant the DR that chainmail does, for instance; they only add +5 to Armor Class.*
 

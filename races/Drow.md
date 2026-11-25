@@ -89,12 +89,12 @@ A drow can take any of these in place of the traits they replace (see [[rangoric
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Ambitious Schemer|Ambitious Schemer]] | Keen senses |
-| [[rangoric-srd/races/racial-traits/Ancestral Grudge|Ancestral Grudge]] | Poison use |
-| [[rangoric-srd/races/racial-traits/Blasphemous Covenant|Blasphemous Covenant]] | Keen senses and poison use |
-| [[rangoric-srd/races/racial-traits/Deep Stalker|Deep Stalker]] | Spell-like abilities |
-| [[rangoric-srd/races/racial-traits/Seducer|Seducer]] | Drow immunities |
-| [[rangoric-srd/races/racial-traits/Surface Infiltrator|Surface Infiltrator]] | Darkvision and light blindness |
+| [[rangoric-srd/races/racial-traits/Ambitious Schemer\|Ambitious Schemer]] | Keen senses |
+| [[rangoric-srd/races/racial-traits/Ancestral Grudge\|Ancestral Grudge]] | Poison use |
+| [[rangoric-srd/races/racial-traits/Blasphemous Covenant\|Blasphemous Covenant]] | Keen senses and poison use |
+| [[rangoric-srd/races/racial-traits/Deep Stalker\|Deep Stalker]] | Spell-like abilities |
+| [[rangoric-srd/races/racial-traits/Seducer\|Seducer]] | Drow immunities |
+| [[rangoric-srd/races/racial-traits/Surface Infiltrator\|Surface Infiltrator]] | Darkvision and light blindness |
 
 ### Class Bonuses
 

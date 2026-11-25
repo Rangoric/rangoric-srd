@@ -128,18 +128,18 @@ A gnome can take any of these in place of the traits they replace (see [[rangori
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Academician|Academician]] | Obsessive |
-| [[rangoric-srd/races/racial-traits/Bond to the Land|Bond to the Land]] | Defensive training and hatred |
-| [[rangoric-srd/races/racial-traits/Darkvision (Racial Trait)|Darkvision]] | Low-light vision and keen senses |
-| [[rangoric-srd/races/racial-traits/Eternal Hope|Eternal Hope]] | Defensive training and hatred |
-| [[rangoric-srd/races/racial-traits/Explorer|Explorer]] | Hatred and obsessive |
-| [[rangoric-srd/races/racial-traits/Fell Magic|Fell Magic]] | Gnome magic |
-| [[rangoric-srd/races/racial-traits/Gift of Tongues|Gift of Tongues]] | Defensive training and hatred |
-| [[rangoric-srd/races/racial-traits/Knack with Poison|Knack with Poison]] | Illusion resistance and obsessive |
-| [[rangoric-srd/races/racial-traits/Magical Linguist|Magical Linguist]] | Gnome magic and illusion resistance |
-| [[rangoric-srd/races/racial-traits/Master Tinker|Master Tinker]] | Defensive training and hatred |
-| [[rangoric-srd/races/racial-traits/Pyromaniac|Pyromaniac]] | Gnome magic and illusion resistance |
-| [[rangoric-srd/races/racial-traits/Warden of Nature|Warden of Nature]] | Defensive training and hatred |
+| [[rangoric-srd/races/racial-traits/Academician\|Academician]] | Obsessive |
+| [[rangoric-srd/races/racial-traits/Bond to the Land\|Bond to the Land]] | Defensive training and hatred |
+| [[rangoric-srd/races/racial-traits/Darkvision (Racial Trait)\|Darkvision]] | Low-light vision and keen senses |
+| [[rangoric-srd/races/racial-traits/Eternal Hope\|Eternal Hope]] | Defensive training and hatred |
+| [[rangoric-srd/races/racial-traits/Explorer\|Explorer]] | Hatred and obsessive |
+| [[rangoric-srd/races/racial-traits/Fell Magic\|Fell Magic]] | Gnome magic |
+| [[rangoric-srd/races/racial-traits/Gift of Tongues\|Gift of Tongues]] | Defensive training and hatred |
+| [[rangoric-srd/races/racial-traits/Knack with Poison\|Knack with Poison]] | Illusion resistance and obsessive |
+| [[rangoric-srd/races/racial-traits/Magical Linguist\|Magical Linguist]] | Gnome magic and illusion resistance |
+| [[rangoric-srd/races/racial-traits/Master Tinker\|Master Tinker]] | Defensive training and hatred |
+| [[rangoric-srd/races/racial-traits/Pyromaniac\|Pyromaniac]] | Gnome magic and illusion resistance |
+| [[rangoric-srd/races/racial-traits/Warden of Nature\|Warden of Nature]] | Defensive training and hatred |
 
 ### Race Traits
 

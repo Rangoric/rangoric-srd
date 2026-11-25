@@ -112,15 +112,15 @@ A half-elf can take any of these in place of the traits they replace (see [[rang
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Ancestral Arms|Ancestral Arms]] | Adaptability |
-| [[rangoric-srd/races/racial-traits/Arcane Training|Arcane Training]] | Adaptability |
-| [[rangoric-srd/races/racial-traits/Drow Magic|Drow Magic]] | Adaptability |
-| [[rangoric-srd/races/racial-traits/Drow-Blooded|Drow-Blooded]] | Low-light vision |
-| [[rangoric-srd/races/racial-traits/Dual Minded|Dual Minded]] | Adaptability |
-| [[rangoric-srd/races/racial-traits/Integrated|Integrated]] | Adaptability |
-| [[rangoric-srd/races/racial-traits/Sociable|Sociable]] | Adaptability |
-| [[rangoric-srd/races/racial-traits/Wary|Wary]] | Keen senses |
-| [[rangoric-srd/races/racial-traits/Water Child|Water Child]] | Adaptability |
+| [[rangoric-srd/races/racial-traits/Ancestral Arms\|Ancestral Arms]] | Adaptability |
+| [[rangoric-srd/races/racial-traits/Arcane Training\|Arcane Training]] | Adaptability |
+| [[rangoric-srd/races/racial-traits/Drow Magic\|Drow Magic]] | Adaptability |
+| [[rangoric-srd/races/racial-traits/Drow-Blooded\|Drow-Blooded]] | Low-light vision |
+| [[rangoric-srd/races/racial-traits/Dual Minded\|Dual Minded]] | Adaptability |
+| [[rangoric-srd/races/racial-traits/Integrated\|Integrated]] | Adaptability |
+| [[rangoric-srd/races/racial-traits/Sociable\|Sociable]] | Adaptability |
+| [[rangoric-srd/races/racial-traits/Wary\|Wary]] | Keen senses |
+| [[rangoric-srd/races/racial-traits/Water Child\|Water Child]] | Adaptability |
 
 ### Race Traits
 

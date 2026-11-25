@@ -98,7 +98,7 @@ The table above determines how many lesser and greater powers an intelligent ite
 | 37–40  | Item has 10 ranks in Investigation                                | +5,000 gp          |
 | 41–45  | Item has 10 ranks in Perception                                  | +5,000 gp          |
 | 46–50  | Item has 10 ranks in Perception                                | +5,000 gp          |
-| 51–54  | Item has 10 ranks in [[rangoric-srd/skills/Arcana|Arcana]], [[rangoric-srd/skills/Nature|Nature]] or [[rangoric-srd/skills/Theology|Theology]]                            | +5,000 gp          |
+| 51–54  | Item has 10 ranks in [[rangoric-srd/skills/Arcana\|Arcana]], [[rangoric-srd/skills/Nature\|Nature]] or [[rangoric-srd/skills/Theology\|Theology]]                            | +5,000 gp          |
 | 55–60  | Item has 10 ranks in Sense Motive                          | +5,000 gp          |
 | 61–66  | Item has 10 ranks in Deception                                 | +5,000 gp          |
 | 67–72  | Item has 10 ranks in Persuasion                             | +5,000 gp          |

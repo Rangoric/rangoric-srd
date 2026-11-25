@@ -82,15 +82,15 @@ An aasimar can take any of these in place of the traits they replace (see [[rang
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Celestial Crusader|Celestial Crusader]] | Celestial resistance and skilled |
-| [[rangoric-srd/races/racial-traits/Deathless Spirit|Deathless Spirit]] | Celestial resistance |
-| [[rangoric-srd/races/racial-traits/Exalted Resistance|Exalted Resistance]] | Celestial resistance |
-| [[rangoric-srd/races/racial-traits/Halo|Halo]] | Darkvision |
-| [[rangoric-srd/races/racial-traits/Heavenborn|Heavenborn]] | Skilled and spell-like ability |
-| [[rangoric-srd/races/racial-traits/Immortal Spark|Immortal Spark]] | Skilled and spell-like ability |
-| [[rangoric-srd/races/racial-traits/Incorruptible|Incorruptible]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Scion of Humanity|Scion of Humanity]] | The Celestial language, and alters the native subtype |
-| [[rangoric-srd/races/racial-traits/Truespeaker|Truespeaker]] | Skilled |
+| [[rangoric-srd/races/racial-traits/Celestial Crusader\|Celestial Crusader]] | Celestial resistance and skilled |
+| [[rangoric-srd/races/racial-traits/Deathless Spirit\|Deathless Spirit]] | Celestial resistance |
+| [[rangoric-srd/races/racial-traits/Exalted Resistance\|Exalted Resistance]] | Celestial resistance |
+| [[rangoric-srd/races/racial-traits/Halo\|Halo]] | Darkvision |
+| [[rangoric-srd/races/racial-traits/Heavenborn\|Heavenborn]] | Skilled and spell-like ability |
+| [[rangoric-srd/races/racial-traits/Immortal Spark\|Immortal Spark]] | Skilled and spell-like ability |
+| [[rangoric-srd/races/racial-traits/Incorruptible\|Incorruptible]] | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Scion of Humanity\|Scion of Humanity]] | The Celestial language, and alters the native subtype |
+| [[rangoric-srd/races/racial-traits/Truespeaker\|Truespeaker]] | Skilled |
 
 ### Class Bonuses
 

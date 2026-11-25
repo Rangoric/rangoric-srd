@@ -89,13 +89,13 @@ A tiefling can take any of these in place of the traits they replace (see [[rang
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Beguiling Liar|Beguiling Liar]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Sprinter|Fiendish Sprinter]] | Skilled |
-| [[rangoric-srd/races/racial-traits/Maw or Claw|Maw or Claw]] | Spell-like ability |
-| [[rangoric-srd/races/racial-traits/Prehensile Tail|Prehensile Tail]] | Fiendish sorcery |
-| [[rangoric-srd/races/racial-traits/Scaled Skin|Scaled Skin]] | Fiendish resistance |
-| [[rangoric-srd/races/racial-traits/Soul Seer|Soul Seer]] | Spell-like ability and fiendish sorcery |
-| [[rangoric-srd/races/racial-traits/Vestigial Wings|Vestigial Wings]] | Skilled |
+| [[rangoric-srd/races/racial-traits/Beguiling Liar\|Beguiling Liar]] | Skilled |
+| [[rangoric-srd/races/racial-traits/Sprinter\|Fiendish Sprinter]] | Skilled |
+| [[rangoric-srd/races/racial-traits/Maw or Claw\|Maw or Claw]] | Spell-like ability |
+| [[rangoric-srd/races/racial-traits/Prehensile Tail\|Prehensile Tail]] | Fiendish sorcery |
+| [[rangoric-srd/races/racial-traits/Scaled Skin\|Scaled Skin]] | Fiendish resistance |
+| [[rangoric-srd/races/racial-traits/Soul Seer\|Soul Seer]] | Spell-like ability and fiendish sorcery |
+| [[rangoric-srd/races/racial-traits/Vestigial Wings\|Vestigial Wings]] | Skilled |
 
 ### Class Bonuses
 

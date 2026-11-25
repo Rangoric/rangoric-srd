@@ -35,30 +35,30 @@ When called to randomly determine a spellblight, roll on the appropriate table.
 
 | d10 | Spellblight |
 | --- | --- |
-| 1 | [[rangoric-srd/rules/spellblights/Caster Blank|Caster Blank]] |
-| 2 | [[rangoric-srd/rules/spellblights/Caster Croak|Caster Croak]] |
-| 3 | [[rangoric-srd/rules/spellblights/Confounded Casting|Confounded Casting]] |
-| 4 | [[rangoric-srd/rules/spellblights/Disassociation|Disassociation]] |
-| 5 | [[rangoric-srd/rules/spellblights/Ebon Eyes|Ebon Eyes]] |
-| 6 | [[rangoric-srd/rules/spellblights/Eldritch Ague|Eldritch Ague]] |
-| 7 | [[rangoric-srd/rules/spellblights/Hemoculysis|Hemoculysis]] |
-| 8 | [[rangoric-srd/rules/spellblights/Lassitude|Lassitude]] |
-| 9 | [[rangoric-srd/rules/spellblights/Ritualistic Obsession|Ritualistic Obsession]] |
-| 10 | [[rangoric-srd/rules/spellblights/Spell Addiction|Spell Addiction]] |
+| 1 | [[rangoric-srd/rules/spellblights/Caster Blank\|Caster Blank]] |
+| 2 | [[rangoric-srd/rules/spellblights/Caster Croak\|Caster Croak]] |
+| 3 | [[rangoric-srd/rules/spellblights/Confounded Casting\|Confounded Casting]] |
+| 4 | [[rangoric-srd/rules/spellblights/Disassociation\|Disassociation]] |
+| 5 | [[rangoric-srd/rules/spellblights/Ebon Eyes\|Ebon Eyes]] |
+| 6 | [[rangoric-srd/rules/spellblights/Eldritch Ague\|Eldritch Ague]] |
+| 7 | [[rangoric-srd/rules/spellblights/Hemoculysis\|Hemoculysis]] |
+| 8 | [[rangoric-srd/rules/spellblights/Lassitude\|Lassitude]] |
+| 9 | [[rangoric-srd/rules/spellblights/Ritualistic Obsession\|Ritualistic Obsession]] |
+| 10 | [[rangoric-srd/rules/spellblights/Spell Addiction\|Spell Addiction]] |
 
 **Table: Random Major Spellblights** ^table-major-spellblights
 
 | d10 | Spellblight |
 | --- | --- |
-| 1 | [[rangoric-srd/rules/spellblights/Eldritch Cataracts|Eldritch Cataracts]] |
-| 2 | [[rangoric-srd/rules/spellblights/Nameless Dread|Nameless Dread]] |
-| 3 | [[rangoric-srd/rules/spellblights/Negated|Negated]] |
-| 4 | [[rangoric-srd/rules/spellblights/Obsessive Fixation|Obsessive Fixation]] |
-| 5 | [[rangoric-srd/rules/spellblights/Phase Blight|Phase Blight]] |
-| 6 | [[rangoric-srd/rules/spellblights/Spell Burn|Spell Burn]] |
-| 7 | [[rangoric-srd/rules/spellblights/Spell Sap|Spell Sap]] |
-| 8 | [[rangoric-srd/rules/spellblights/Transference Block|Transference Block]] |
-| 9 | [[rangoric-srd/rules/spellblights/Vertigo|Vertigo]] |
+| 1 | [[rangoric-srd/rules/spellblights/Eldritch Cataracts\|Eldritch Cataracts]] |
+| 2 | [[rangoric-srd/rules/spellblights/Nameless Dread\|Nameless Dread]] |
+| 3 | [[rangoric-srd/rules/spellblights/Negated\|Negated]] |
+| 4 | [[rangoric-srd/rules/spellblights/Obsessive Fixation\|Obsessive Fixation]] |
+| 5 | [[rangoric-srd/rules/spellblights/Phase Blight\|Phase Blight]] |
+| 6 | [[rangoric-srd/rules/spellblights/Spell Burn\|Spell Burn]] |
+| 7 | [[rangoric-srd/rules/spellblights/Spell Sap\|Spell Sap]] |
+| 8 | [[rangoric-srd/rules/spellblights/Transference Block\|Transference Block]] |
+| 9 | [[rangoric-srd/rules/spellblights/Vertigo\|Vertigo]] |
 | 10 | Roll twice on the minor spellblight table. The spellcaster is afflicted with both spellblights. |
 
 ## Concentration Checks
