@@ -59,4 +59,4 @@ The CMB an CMD before the driver modifies it with his driving check modifier.
 
 **Decks**: The number of decks and any important information about those decks is given in this section.
 
-**Weapons**: Some vehicles can be equipped with siege weapons. This is the number of siege or vehicle weapons that a vehicle can have.
+**Weapons**: Some vehicles can be equipped with [[rangoric-srd/rules/Siege Engines|siege weapons]]. This is the number of siege or vehicle weapons that a vehicle can have.
