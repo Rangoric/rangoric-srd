@@ -18,8 +18,8 @@ special-attacks: "Breath weapon (60-foot line, 10d6 acid, DC 20, 1/day), claws (
 special-qualities: "Darkvision 60 ft., orc ferocity, bloodline arcana (acid spells deal +1 damage per die), orc blood, weapon familiarity, damage reduction 10/adamantine, resistance to acid 10"
 saves: "Fort +8, Ref +5, Will +7"
 abilities: "Str 14, Dex 12, Con 14, Int 10, Wis 8, Cha 20"
-skills: "Acrobatics +9, Arcana +7, Intimidation +15, Linguistics +1, Perception +7"
-skill-ranks: "Acrobatics 5, Arcana 4, Intimidation 7, Linguistics 1, Perception 5"
+skills: "Acrobatics +9, Intimidation +15, Linguistics +1, Mysticism +7, Perception +7"
+skill-ranks: "Acrobatics 5, Intimidation 7, Linguistics 1, Mysticism 4, Perception 5"
 feats: "Combat Casting, Eschew Materials, Great Fortitude, Greater Spell Focus (evocation), Improved Initiative, Quicken Spell, Spell Focus (evocation)"
 environment: "Temperate hills, mountains, or underground"
 organization: "Solitary, or with other half-orcs (see Orc)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|bloodline arcana]] (acid spells deal +1 damage per die), [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/races/Half-Orc|weapon familiarity]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10
 - **Saves**: Fort +8, Ref +5, Will +7
 - **Abilities**: Str 14, Dex 12, Con 14, Int 10, Wis 8, Cha 20
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Linguistics|Linguistics]] +1, [[rangoric-srd/skills/Perception|Perception]] +7
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Linguistics|Linguistics]] +1, [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Perception|Perception]] +7
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (evocation), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Quicken Spell|Quicken Spell]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (evocation)
 - **Environment**: Temperate hills, mountains, or underground
 - **Organization**: Solitary, or with other half-orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])

@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy 6/day (DC 23, 9d6), scythe of evil (8 
 special-qualities: "Aura"
 saves: "Fort +13, Ref +7, Will +18 (+1 vs. good)"
 abilities: "Str 16, Dex 12, Con 14, Int 8, Wis 20, Cha 16"
-skills: "Arcana +19, Sense Motive +16"
-skill-ranks: "Arcana 17, Sense Motive 8"
+skills: "Arcana +11, Mysticism +19, Sense Motive +16"
+skill-ranks: "Arcana 9, Mysticism 17, Sense Motive 8"
 feats: "Armor Proficiency (Heavy), Bleeding Critical, Combat Casting, Critical Focus, Improved Channel, Improved Critical (greataxe), Improved Initiative, Improved Vital Strike, Iron Will, Vital Strike, Weapon Focus (greataxe)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Cleric#^cleric-aura|Aura]]
 - **Saves**: Fort +13, Ref +7, Will +18 (+1 vs. good)
 - **Abilities**: Str 16, Dex 12, Con 14, Int 8, Wis 20, Cha 16
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Mysticism|Mysticism]] +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16
 - **Feats**: [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]], [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Channel|Improved Channel]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (greataxe), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greataxe)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

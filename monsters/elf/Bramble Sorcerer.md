@@ -18,8 +18,8 @@ special-attacks: "Claws (2, 1d4, treated as magic, 7 rounds/day)"
 special-qualities: "Low-light vision, bloodline arcana (acid spells deal +1 damage per die), elf blood, resistance to acid 5 and fire 10"
 saves: "Fort +3, Ref +6, Will +4 (+2 vs. enchantments)"
 abilities: "Str 10, Dex 14, Con 12, Int 13, Wis 8, Cha 18"
-skills: "Arcana +7, Emulation +13, Intimidation +10, Perception +7"
-skill-ranks: "Arcana 3, Emulation 6, Intimidation 3, Perception 5"
+skills: "Arcana +7, Emulation +13, Intimidation +10, Mysticism +7, Perception +7"
+skill-ranks: "Arcana 3, Emulation 6, Intimidation 3, Mysticism 3, Perception 5"
 feats: "Combat Casting, Dodge, Eschew Materials, Lightning Reflexes, Skill Focus (Emulation)"
 environment: "Temperate forests"
 organization: "Solitary, or with other half-elves (see Elf)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|bloodline arcana]] (acid spells deal +1 damage per die), [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5 and fire 10
 - **Saves**: Fort +3, Ref +6, Will +4 (+2 vs. enchantments)
 - **Abilities**: Str 10, Dex 14, Con 12, Int 13, Wis 8, Cha 18
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Emulation|Emulation]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +7
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Emulation|Emulation]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Perception|Perception]] +7
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Emulation)
 - **Environment**: Temperate forests
 - **Organization**: Solitary, or with other half-elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])

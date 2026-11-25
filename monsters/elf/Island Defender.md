@@ -18,8 +18,8 @@ special-attacks: "Wild shape 2/day, rebuke water creatures, turn fire creatures 
 special-qualities: "Low-light vision, elven magic, nature bond (Water domain), nature sense, trackless step, weapon familiarity, wild empathy +6, woodland stride, immunity to sleep, resistance to cold 10"
 saves: "Fort +6, Ref +6, Will +8 (+2 vs. enchantments, +4 vs. fey and plant-targeted effects)"
 abilities: "Str 10, Dex 14, Con 12, Int 15, Wis 16, Cha 8"
-skills: "Acrobatics +4, Animal Handling +5, Arcana +11 (+13 to identify magic item properties), Athletics +5, Fieldcraft +14, Linguistics +3, Medicine +11, Nature +14, Perception +15, Society +4"
-skill-ranks: "Acrobatics 2, Animal Handling 3, Arcana 6, Athletics 2, Fieldcraft 8, Linguistics 1, Medicine 5, Nature 9, Perception 9, Society 2"
+skills: "Acrobatics +4, Animal Handling +5, Athletics +5, Fieldcraft +14, Linguistics +3, Medicine +11, Mysticism +11, Nature +14, Perception +15, Society +4"
+skill-ranks: "Acrobatics 2, Animal Handling 3, Athletics 2, Fieldcraft 8, Linguistics 1, Medicine 5, Mysticism 6, Nature 9, Perception 9, Society 2"
 feats: "Combat Casting, Improved Initiative, Lightning Reflexes, Natural Spell"
 environment: "Temperate forest"
 organization: "Solitary, or with other elves (see Elf)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]] ([[rangoric-srd/class-options/domains/Water Domain|Water domain]]), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +6, [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10
 - **Saves**: Fort +6, Ref +6, Will +8 (+2 vs. enchantments, +4 vs. fey and plant-targeted effects)
 - **Abilities**: Str 10, Dex 14, Con 12, Int 15, Wis 16, Cha 8
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Arcana|Arcana]] +11 (+13 to identify magic item properties), [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Linguistics|Linguistics]] +3, [[rangoric-srd/skills/Medicine|Medicine]] +11, [[rangoric-srd/skills/Nature|Nature]] +14, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Society|Society]] +4
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Linguistics|Linguistics]] +3, [[rangoric-srd/skills/Medicine|Medicine]] +11, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Nature|Nature]] +14, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Society|Society]] +4
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Natural Spell|Natural Spell]]
 - **Environment**: Temperate forest
 - **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])

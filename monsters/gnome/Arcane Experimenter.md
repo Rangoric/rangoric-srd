@@ -18,8 +18,8 @@ special-attacks: "+1 on attack rolls against goblinoid and reptilian humanoids, 
 special-qualities: "Low-light vision, defensive training (+4 dodge bonus to AC vs. giants), improved uncanny dodge, indomitable will, trap sense +4, fast movement, damage reduction 3/-, immunity to frightened, nauseated, shaken and sickened"
 saves: "Fort +16, Ref +8, Will +9 (+2 vs. illusions, +4 vs. enchantments)"
 abilities: "Str 20, Dex 17, Con 22, Int 8, Wis 12, Cha 12"
-skills: "Acrobatics +17, Arcana +0, Athletics +6, Craft (alchemy) +5, Emulation +18, Fieldcraft +5, Perception +20, Stealth +5"
-skill-ranks: "Acrobatics 11, Arcana 1, Athletics 1, Craft (alchemy) 3, Emulation 14, Fieldcraft 1, Perception 16, Stealth 0"
+skills: "Acrobatics +17, Arcana +0, Athletics +6, Craft (alchemy) +5, Emulation +18, Fieldcraft +5, Mysticism +0, Perception +20, Stealth +5"
+skill-ranks: "Acrobatics 11, Arcana 1, Athletics 1, Craft (alchemy) 3, Emulation 14, Fieldcraft 1, Mysticism 1, Perception 16, Stealth 0"
 feats: "Double Slice, Improved Critical (gnome hooked hammer), Improved Two-Weapon Fighting, Power Attack, Skill Focus (Emulation), Two-Weapon Fighting, Two-Weapon Rend"
 environment: "Temperate hills"
 organization: "Solitary, or with other gnomes (see Gnome)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Gnome#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-indomitable-will|indomitable will]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +4, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/classes/Barbarian#^barbarian-damage-reduction|damage reduction]] 3/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to frightened, nauseated, shaken and sickened
 - **Saves**: Fort +16, Ref +8, Will +9 (+2 vs. illusions, +4 vs. enchantments)
 - **Abilities**: Str 20, Dex 17, Con 22, Int 8, Wis 12, Cha 12
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Arcana|Arcana]] +0, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +5, [[rangoric-srd/skills/Emulation|Emulation]] +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Stealth|Stealth]] +5
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Arcana|Arcana]] +0, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +5, [[rangoric-srd/skills/Emulation|Emulation]] +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Mysticism|Mysticism]] +0, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Stealth|Stealth]] +5
 - **Feats**: [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (gnome hooked hammer), [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Emulation), [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Two-Weapon Rend|Two-Weapon Rend]]
 - **Environment**: Temperate hills
 - **Organization**: Solitary, or with other gnomes (see [[rangoric-srd/monsters/gnome/Gnome|Gnome]])

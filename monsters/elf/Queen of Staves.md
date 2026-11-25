@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Low-light vision, bravery +1, arcane bond (+1 quarterstaff), diverse training, elven magic, protective ward (2 rounds, +2 deflection, 5/day), weapon familiarity, immunity to sleep, resistance to fire 5"
 saves: "Fort +11, Ref +5, Will +7 (+2 vs. enchantments, +1 vs. fear)"
 abilities: "Str 16, Dex 16, Con 12, Int 14, Wis 10, Cha 8"
-skills: "Animal Handling +7, Arcana +12 (+14 to identify magic item properties), Perception +11, Sense Motive +5, Society +6, Stealth +8, Theology +6"
-skill-ranks: "Animal Handling 1, Arcana 7, Perception 8, Sense Motive 2, Society 1, Stealth 2, Theology 1"
+skills: "Animal Handling +7, Arcana +10 (+14 to identify magic item properties), Mysticism +12, Perception +11, Sense Motive +5, Society +6, Stealth +8, Theology +6"
+skill-ranks: "Animal Handling 1, Arcana 5, Mysticism 7, Perception 8, Sense Motive 2, Society 1, Stealth 2, Theology 1"
 feats: "Arcane Armor Training, Craft Wand, Dodge, Great Fortitude, Improved Iron Will, Iron Will, Scribe Scroll, Toughness, Weapon Focus (quarterstaff), Weapon Specialization (quarterstaff)"
 environment: "Temperate forest"
 organization: "Solitary, or with other elves (see Elf)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] (+1 quarterstaff), [[rangoric-srd/prestige-classes/Eldritch Knight|diverse training]], [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/class-options/arcane-schools/Abjuration School|protective ward]] (2 rounds, +2 deflection, 5/day), [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/class-options/arcane-schools/Abjuration School|resistance]] to fire 5
 - **Saves**: Fort +11, Ref +5, Will +7 (+2 vs. enchantments, +1 vs. fear)
 - **Abilities**: Str 16, Dex 16, Con 12, Int 14, Wis 10, Cha 8
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Arcana|Arcana]] +12 (+14 to identify magic item properties), [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +8, [[rangoric-srd/skills/Theology|Theology]] +6
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Arcana|Arcana]] +10 (+14 to identify magic item properties), [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +8, [[rangoric-srd/skills/Theology|Theology]] +6
 - **Feats**: [[rangoric-srd/feats/Arcane Armor Training|Arcane Armor Training]], [[rangoric-srd/feats/Craft Wand|Craft Wand]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (quarterstaff), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (quarterstaff)
 - **Environment**: Temperate forest
 - **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])

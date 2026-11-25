@@ -18,8 +18,8 @@ special-attacks: "Claws (2, 1d4, 5 rounds/day)"
 special-qualities: "Low-light vision, bloodline arcana (cold spells deal +1 damage per die), elven magic, weapon familiarity, immunity to sleep, resistance to cold 5"
 saves: "Fort +2, Ref +5, Will +2 (+2 vs. enchantments)"
 abilities: "Str 10, Dex 14, Con 12, Int 15, Wis 8, Cha 15"
-skills: "Arcana +8, Intimidation +8, Perception +7"
-skill-ranks: "Arcana 3, Intimidation 3, Perception 5"
+skills: "Arcana +8, Intimidation +8, Mysticism +8, Perception +7"
+skill-ranks: "Arcana 3, Intimidation 3, Mysticism 3, Perception 5"
 feats: "Combat Casting, Eschew Materials, Lightning Reflexes"
 environment: "Temperate forest"
 organization: "Solitary, or with other elves (see Elf)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|bloodline arcana]] (cold spells deal +1 damage per die), [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 5
 - **Saves**: Fort +2, Ref +5, Will +2 (+2 vs. enchantments)
 - **Abilities**: Str 10, Dex 14, Con 12, Int 15, Wis 8, Cha 15
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +7
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +7
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
 - **Environment**: Temperate forest
 - **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])

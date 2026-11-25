@@ -18,8 +18,8 @@ special-attacks: "+1 on attack rolls against goblinoid and orc humanoids, intens
 special-qualities: "Defensive training (+4 dodge bonus to AC vs. giants), arcane bond (bat), immunity to fire (108 points)"
 saves: "Fort +8, Ref +2, Will +9 (+2 vs. poison, spells, and spell-like abilities)"
 abilities: "Str 12, Dex 8, Con 20, Int 18, Wis 16, Cha 8"
-skills: "Acrobatics +6, Appraise +15 (+17 to assess nonmagical metals or gemstones), Arcana +16, Athletics +4, Craft (alchemy) +12, Dungeoneering +16, Engineering +12, Investigation +4 (+6 to notice unusual stonework), Perception +12, Sense Motive +4"
-skill-ranks: "Acrobatics 4, Appraise 8, Arcana 9, Athletics 3, Craft (alchemy) 5, Dungeoneering 9, Engineering 5, Perception 6, Sense Motive 1"
+skills: "Acrobatics +6, Appraise +15 (+17 to assess nonmagical metals or gemstones), Arcana +16, Athletics +4, Craft (alchemy) +12, Dungeoneering +16, Engineering +12, Investigation +4 (+6 to notice unusual stonework), Mysticism +16, Perception +12, Sense Motive +4"
+skill-ranks: "Acrobatics 4, Appraise 8, Arcana 9, Athletics 3, Craft (alchemy) 5, Dungeoneering 9, Engineering 5, Mysticism 9, Perception 6, Sense Motive 1"
 feats: "Combat Casting, Empower Spell, Improved Initiative, Scribe Scroll, Spell Focus (evocation), Spell Penetration, Toughness"
 environment: "Temperate mountains"
 organization: "Solitary, or with other dwarves (see Dwarf)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/races/Dwarf#^defensive-training|Defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] (bat), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire (108 points)
 - **Saves**: Fort +8, Ref +2, Will +9 (+2 vs. poison, spells, and spell-like abilities)
 - **Abilities**: Str 12, Dex 8, Con 20, Int 18, Wis 16, Cha 8
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Appraise|Appraise]] +15 (+17 to assess nonmagical metals or gemstones), [[rangoric-srd/skills/Arcana|Arcana]] +16, [[rangoric-srd/skills/Athletics|Athletics]] +4, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +12, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +16, [[rangoric-srd/skills/Engineering|Engineering]] +12, [[rangoric-srd/skills/Investigation|Investigation]] +4 (+6 to notice unusual stonework), [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Appraise|Appraise]] +15 (+17 to assess nonmagical metals or gemstones), [[rangoric-srd/skills/Arcana|Arcana]] +16, [[rangoric-srd/skills/Athletics|Athletics]] +4, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +12, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +16, [[rangoric-srd/skills/Engineering|Engineering]] +12, [[rangoric-srd/skills/Investigation|Investigation]] +4 (+6 to notice unusual stonework), [[rangoric-srd/skills/Mysticism|Mysticism]] +16, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Empower Spell|Empower Spell]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (evocation), [[rangoric-srd/feats/Spell Penetration|Spell Penetration]], [[rangoric-srd/feats/Toughness|Toughness]]
 - **Environment**: Temperate mountains
 - **Organization**: Solitary, or with other dwarves (see [[rangoric-srd/monsters/dwarf/Dwarf|Dwarf]])

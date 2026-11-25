@@ -18,8 +18,8 @@ special-attacks: "Wild shape 8/day, rebuke plant creatures (3/day)"
 special-qualities: "A thousand faces, bramble armor (1d6+9, 18 rounds/day), nature bond (Plant domain), nature sense, timeless body, trackless step, wild empathy +18, woodland stride, immunity to poison"
 saves: "Fort +18, Ref +13, Will +20 (+2 vs. fear, +4 vs. fey and plant-targeted effects)"
 abilities: "Str 8, Dex 16, Con 16, Int 12, Wis 20, Cha 10"
-skills: "Acrobatics +12, Animal Handling +9, Arcana +19, Athletics +8 (–4 jumping), Fieldcraft +19, Linguistics +5, Medicine +13, Nature +16, Perception +24, Society +14"
-skill-ranks: "Acrobatics 4, Animal Handling 3, Arcana 15, Athletics 6, Fieldcraft 11, Linguistics 1, Medicine 5, Nature 12, Perception 16, Society 10"
+skills: "Acrobatics +12, Animal Handling +9, Athletics +8 (–4 jumping), Fieldcraft +19, Linguistics +5, Medicine +13, Mysticism +19, Nature +16, Perception +24, Society +14"
+skill-ranks: "Acrobatics 4, Animal Handling 3, Athletics 6, Fieldcraft 11, Linguistics 1, Medicine 5, Mysticism 15, Nature 12, Perception 16, Society 10"
 feats: "Augment Summoning, Combat Casting, Combat Reflexes, Dodge, Empower Spell, Natural Spell, Spell Focus (conjuration), Vital Strike, Weapon Focus (quarterstaff)"
 environment: "Warm plains"
 organization: "Solitary, or with other halflings (see Halfling)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Druid#^druid-a-thousand-faces|A thousand faces]], [[rangoric-srd/class-options/domains/Plant Domain|bramble armor]] (1d6+9, 18 rounds/day), [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]] ([[rangoric-srd/class-options/domains/Plant Domain|Plant domain]]), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/classes/Druid#^druid-timeless-body|timeless body]], [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +18, [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]], [[rangoric-srd/classes/Druid#^druid-venom-immunity|immunity to poison]]
 - **Saves**: Fort +18, Ref +13, Will +20 (+2 vs. fear, +4 vs. fey and plant-targeted effects)
 - **Abilities**: Str 8, Dex 16, Con 16, Int 12, Wis 20, Cha 10
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +9, [[rangoric-srd/skills/Arcana|Arcana]] +19, [[rangoric-srd/skills/Athletics|Athletics]] +8 (–4 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +19, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Medicine|Medicine]] +13, [[rangoric-srd/skills/Nature|Nature]] +16, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Society|Society]] +14
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +8 (–4 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +19, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Medicine|Medicine]] +13, [[rangoric-srd/skills/Mysticism|Mysticism]] +19, [[rangoric-srd/skills/Nature|Nature]] +16, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Society|Society]] +14
 - **Feats**: [[rangoric-srd/feats/Augment Summoning|Augment Summoning]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Empower Spell|Empower Spell]], [[rangoric-srd/feats/Natural Spell|Natural Spell]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration), [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (quarterstaff)
 - **Environment**: Warm plains
 - **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])

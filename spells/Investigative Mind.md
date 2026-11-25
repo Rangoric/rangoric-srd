@@ -42,6 +42,6 @@ _Enchantment (Compulsion) \[Mind-affecting\]_
 - **Target**: You
 - **Duration**: 10 minutes/level or until discharged
 
-Your mind is able to correlate information effectively. When attempting an Appraise, Knowledge, Linguistics, or Arcana check, you can roll twice and take the higher result. If you have an ability that allows you to roll twice, you cannot use that ability and this benefit on the same roll.
+Your mind is able to correlate information effectively. When attempting an Appraise, Knowledge, Linguistics, or Mysticism check, you can roll twice and take the higher result. If you have an ability that allows you to roll twice, you cannot use that ability and this benefit on the same roll.
 
 The spell is discharged once you have used its benefit a number of times equal to your caster level.

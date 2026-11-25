@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Darkvision 60 ft., orc ferocity, bloodline arcana (change energy damage spells to fire), orc blood, weapon familiarity, resistance to fire 10"
 saves: "Fort +3, Ref +3, Will +7"
 abilities: "Str 16, Dex 12, Con 13, Int 8, Wis 10, Cha 16"
-skills: "Arcana +4, Intimidation +11, Linguistics +0, Perception +7"
-skill-ranks: "Arcana 2, Intimidation 5, Linguistics 1, Perception 4"
+skills: "Arcana +3, Intimidation +11, Linguistics +0, Mysticism +4, Perception +7"
+skill-ranks: "Arcana 1, Intimidation 5, Linguistics 1, Mysticism 2, Perception 4"
 feats: "Combat Casting, Eschew Materials, Iron Will, Power Attack, Spell Focus (evocation), Toughness"
 environment: "Temperate hills, mountains, or underground"
 organization: "Solitary, or with other half-orcs (see Orc)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/class-options/bloodlines/Elemental Bloodline|bloodline arcana]] (change energy damage spells to fire), [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/races/Half-Orc|weapon familiarity]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
 - **Saves**: Fort +3, Ref +3, Will +7
 - **Abilities**: Str 16, Dex 12, Con 13, Int 8, Wis 10, Cha 16
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Linguistics|Linguistics]] +0, [[rangoric-srd/skills/Perception|Perception]] +7
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +3, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Linguistics|Linguistics]] +0, [[rangoric-srd/skills/Mysticism|Mysticism]] +4, [[rangoric-srd/skills/Perception|Perception]] +7
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (evocation), [[rangoric-srd/feats/Toughness|Toughness]]
 - **Environment**: Temperate hills, mountains, or underground
 - **Organization**: Solitary, or with other half-orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])

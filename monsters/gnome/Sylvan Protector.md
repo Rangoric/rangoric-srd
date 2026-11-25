@@ -18,8 +18,8 @@ special-attacks: "+1 on attack rolls against goblinoid and reptilian humanoids, 
 special-qualities: "Low-light vision, defensive training (+4 dodge bonus to AC vs. giants), nature bond (Air domain), nature sense, wild empathy +5, woodland stride, trackless step"
 saves: "Fort +5, Ref +3, Will +5 (+2 vs. illusions)"
 abilities: "Str 6, Dex 14, Con 15, Int 10, Wis 15, Cha 14"
-skills: "Animal Handling +7, Arcana +6, Fieldcraft +10, Medicine +6, Nature +6, Perception +8, Stealth +8"
-skill-ranks: "Animal Handling 2, Arcana 3, Fieldcraft 5, Medicine 1, Nature 3, Perception 3, Stealth 2"
+skills: "Animal Handling +7, Fieldcraft +10, Medicine +6, Mysticism +6, Nature +6, Perception +8, Stealth +8"
+skill-ranks: "Animal Handling 2, Fieldcraft 5, Medicine 1, Mysticism 3, Nature 3, Perception 3, Stealth 2"
 feats: "Augment Summoning, Spell Focus (conjuration)"
 environment: "Temperate hills"
 organization: "Solitary, or with other gnomes (see Gnome)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Gnome#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]] ([[rangoric-srd/class-options/domains/Air Domain|Air domain]]), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +5, [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]], [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]]
 - **Saves**: Fort +5, Ref +3, Will +5 (+2 vs. illusions)
 - **Abilities**: Str 6, Dex 14, Con 15, Int 10, Wis 15, Cha 14
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Nature|Nature]] +6, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +8
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Nature|Nature]] +6, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +8
 - **Feats**: [[rangoric-srd/feats/Augment Summoning|Augment Summoning]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration)
 - **Environment**: Temperate hills
 - **Organization**: Solitary, or with other gnomes (see [[rangoric-srd/monsters/gnome/Gnome|Gnome]])

@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy 8/day (DC 21, 6d6), rebuke undead, cha
 special-qualities: "Aura"
 saves: "Fort +12, Ref +9, Will +14"
 abilities: "Str 8, Dex 15, Con 16, Int 10, Wis 20, Cha 16"
-skills: "Arcana +6, Deception +11, Intimidation +8, Medicine +14, Perception +11, Persuasion +17"
-skill-ranks: "Arcana 3, Deception 5, Intimidation 2, Medicine 6, Perception 3, Persuasion 11"
+skills: "Deception +11, Intimidation +8, Medicine +14, Mysticism +6, Perception +11, Persuasion +17"
+skill-ranks: "Deception 5, Intimidation 2, Medicine 6, Mysticism 3, Perception 3, Persuasion 11"
 feats: "Extra Channel, Greater Spell Focus (enchantment), Improved Channel, Improved Initiative, Lightning Reflexes, Selective Channeling, Spell Focus (enchantment)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Cleric#^cleric-aura|Aura]]
 - **Saves**: Fort +12, Ref +9, Will +14
 - **Abilities**: Str 8, Dex 15, Con 16, Int 10, Wis 20, Cha 16
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Medicine|Medicine]] +14, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +17
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Medicine|Medicine]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +17
 - **Feats**: [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (enchantment), [[rangoric-srd/feats/Improved Channel|Improved Channel]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Selective Channeling|Selective Channeling]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

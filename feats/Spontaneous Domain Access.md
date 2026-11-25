@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, epic]
 
 # Spontaneous Domain Access
 
-Prerequisites: Wis 25, [[rangoric-srd/skills/Nature|Nature]] or [[rangoric-srd/skills/Theology|Theology]] 27 ranks, ability to cast 9th-level divine spells.
+Prerequisites: Wis 25, [[rangoric-srd/skills/Mysticism|Mysticism]] 27 ranks, ability to cast 9th-level divine spells.
 
 Benefit: Select a domain the character has access to. The character may spontaneously convert any prepared cleric spell (except a domain spell) into a domain spell of the same level in the selected domain, just as a cleric channels energy to convert spells into cure spells.
 

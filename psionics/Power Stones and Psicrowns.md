@@ -19,7 +19,7 @@ Physical Description: A power stone is a thumb-sized chunk of crystal that posse
 
 Activation: To activate a power stone, a manifester must mentally address it, as described below. Once the power is known, the power stone is treated as a power completion item, except as noted below.
 
-Addressing the Stone: A power stone must be “addressed” before a character can use it or know exactly what power it contains. Doing this requires a successful [[rangoric-srd/skills/Psionics (Skill)|Psionics]] check (DC 15 + power level). Once a particular power stone has been addressed, it is not necessary to do so again. Addressing a power stone in advance lets a character proceed directly to the next step when the time comes to use it.
+Addressing the Stone: A power stone must be “addressed” before a character can use it or know exactly what power it contains. Doing this requires a successful [[rangoric-srd/skills/Mysticism|Mysticism]] check (DC 15 + power level). Once a particular power stone has been addressed, it is not necessary to do so again. Addressing a power stone in advance lets a character proceed directly to the next step when the time comes to use it.
 
 Using a stone’s stored power after addressing the stone requires holding the stone and willing the power’s manifestation, as if manifesting a power normally (a standard action). Activating a power stone is subject to disruption just as manifesting a power normally would be.
 

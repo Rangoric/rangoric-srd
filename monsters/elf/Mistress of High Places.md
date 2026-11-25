@@ -18,8 +18,8 @@ special-attacks: "Wild shape 4/day, rebuke air creatures, turn earth creatures (
 special-qualities: "Low-light vision, elf blood, nature bond (Air domain), nature sense, trackless step, wild empathy +11, woodland stride, immunity to poison, resistance to electricity 10"
 saves: "Fort +10, Ref +5, Will +13 (+2 vs. enchantments, +4 vs. fey and plant-targeted effects)"
 abilities: "Str 12, Dex 13, Con 15, Int 8, Wis 20, Cha 10"
-skills: "Acrobatics +6, Animal Handling +6, Arcana +5, Fieldcraft +18, Linguistics +2, Medicine +9, Nature +9, Perception +14, Perform (dance) +2, Theology +3"
-skill-ranks: "Acrobatics 2, Animal Handling 3, Arcana 3, Fieldcraft 10, Linguistics 3, Medicine 1, Nature 7, Perception 6, Perform (dance) 3, Theology 1"
+skills: "Acrobatics +6, Animal Handling +6, Fieldcraft +18, Linguistics +2, Medicine +9, Mysticism +5, Nature +9, Perception +14, Perform (dance) +2, Theology +3"
+skill-ranks: "Acrobatics 2, Animal Handling 3, Fieldcraft 10, Linguistics 3, Medicine 1, Mysticism 3, Nature 7, Perception 6, Perform (dance) 3, Theology 1"
 feats: "Dodge, Improved Initiative, Mobility, Natural Spell, Skill Focus (Fieldcraft), Spell Focus (evocation), Vital Strike"
 environment: "Temperate forests"
 organization: "Solitary, or with other half-elves (see Elf)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]] ([[rangoric-srd/class-options/domains/Air Domain|Air domain]]), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +11, [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]], [[rangoric-srd/classes/Druid#^druid-venom-immunity|immunity to poison]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10
 - **Saves**: Fort +10, Ref +5, Will +13 (+2 vs. enchantments, +4 vs. fey and plant-targeted effects)
 - **Abilities**: Str 12, Dex 13, Con 15, Int 8, Wis 20, Cha 10
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Arcana|Arcana]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +18, [[rangoric-srd/skills/Linguistics|Linguistics]] +2, [[rangoric-srd/skills/Medicine|Medicine]] +9, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +14, Perform (dance) +2, [[rangoric-srd/skills/Theology|Theology]] +3
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +18, [[rangoric-srd/skills/Linguistics|Linguistics]] +2, [[rangoric-srd/skills/Medicine|Medicine]] +9, [[rangoric-srd/skills/Mysticism|Mysticism]] +5, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +14, Perform (dance) +2, [[rangoric-srd/skills/Theology|Theology]] +3
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Natural Spell|Natural Spell]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (evocation), [[rangoric-srd/feats/Vital Strike|Vital Strike]]
 - **Environment**: Temperate forests
 - **Organization**: Solitary, or with other half-elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])

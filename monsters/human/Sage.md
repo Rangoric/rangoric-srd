@@ -17,13 +17,13 @@ special-attacks: "—"
 special-qualities: "Protective ward 10/day (+2 deflection, 7 rounds), resistance, arcane bond (ring of sustenance)"
 saves: "Fort +5, Ref +4, Will +12"
 abilities: "Str 8, Dex 10, Con 12, Int 24, Wis 14, Cha 13"
-skills: "Appraise +14, Arcana +28, Emulation +22, Knowledge +28, Linguistics +22, Medicine +6, Perception +10, Persuasion +6, Profession (scribe) +10, Sense Motive +7"
-skill-ranks: "Appraise 4, Arcana 16, Emulation 22, Knowledge 18, Linguistics 12, Medicine 1, Perception 5, Persuasion 2, Profession (scribe) 3, Sense Motive 2"
+skills: "Appraise +14, Emulation +22, Knowledge +28, Linguistics +22, Medicine +6, Mysticism +28, Perception +10, Persuasion +6, Profession (scribe) +10, Sense Motive +7"
+skill-ranks: "Appraise 4, Emulation 22, Knowledge 18, Linguistics 12, Medicine 1, Mysticism 16, Perception 5, Persuasion 2, Profession (scribe) 3, Sense Motive 2"
 feats: "Arcane Strike, Craft Wand, Craft Wondrous Item, Defensive Combat Training, Scribe Scroll, Skill Focus (Arcana, Knowledge [history]), Skill Focus (Emulation), Spell Mastery"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
 challenge-rating: 11
-treasure: "NPC gear (combat gear: wands of acid arrow (50 charges), cure light wounds (50 charges), identify (50 charges), light (50 charges); other gear: quarterstaff, darts (2), brooch of shielding, broom of flying, cloak of resistance +1, headband of vast intelligence +4 (Spellcraft, Use Magic Device), ring of sustenance, magnifying glass, merchant's scale)"
+treasure: "NPC gear (combat gear: wands of acid arrow (50 charges), cure light wounds (50 charges), identify (50 charges), light (50 charges); other gear: quarterstaff, darts (2), brooch of shielding, broom of flying, cloak of resistance +1, headband of vast intelligence +4 (Mysticism, Emulation), ring of sustenance, magnifying glass, merchant's scale)"
 alignment: "Neutral"
 advancement: "By character class"
 level-adjustment: "—"
@@ -52,12 +52,12 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/class-options/arcane-schools/Abjuration School|Protective ward]] 10/day (+2 deflection, 7 rounds), [[rangoric-srd/class-options/arcane-schools/Abjuration School|resistance]], [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] (ring of sustenance)
 - **Saves**: Fort +5, Ref +4, Will +12
 - **Abilities**: Str 8, Dex 10, Con 12, Int 24, Wis 14, Cha 13
-- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +14, [[rangoric-srd/skills/Arcana|Arcana]] +28, [[rangoric-srd/skills/Emulation|Emulation]] +22, [[rangoric-srd/skills/Knowledge|Knowledge]] +28, [[rangoric-srd/skills/Linguistics|Linguistics]] +22, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +6, [[rangoric-srd/skills/Profession|Profession]] (scribe) +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +14, [[rangoric-srd/skills/Emulation|Emulation]] +22, [[rangoric-srd/skills/Knowledge|Knowledge]] +28, [[rangoric-srd/skills/Linguistics|Linguistics]] +22, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Mysticism|Mysticism]] +28, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +6, [[rangoric-srd/skills/Profession|Profession]] (scribe) +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7
 - **Feats**: [[rangoric-srd/feats/Arcane Strike|Arcane Strike]], [[rangoric-srd/feats/Craft Wand|Craft Wand]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Arcana, Knowledge \[history\]), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Emulation), [[rangoric-srd/feats/Spell Mastery|Spell Mastery]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
 - **Challenge Rating**: 11
-- **Treasure**: NPC gear (combat gear: wands of acid arrow (50 charges), cure light wounds (50 charges), identify (50 charges), light (50 charges); other gear: quarterstaff, darts (2), brooch of shielding, broom of flying, cloak of resistance +1, headband of vast intelligence +4 (Spellcraft, Use Magic Device), ring of sustenance, magnifying glass, merchant's scale)
+- **Treasure**: NPC gear (combat gear: wands of acid arrow (50 charges), cure light wounds (50 charges), identify (50 charges), light (50 charges); other gear: quarterstaff, darts (2), brooch of shielding, broom of flying, cloak of resistance +1, headband of vast intelligence +4 (Mysticism, Emulation), ring of sustenance, magnifying glass, merchant's scale)
 - **Alignment**: Neutral
 - **Advancement**: By character class
 - **Level Adjustment**: —

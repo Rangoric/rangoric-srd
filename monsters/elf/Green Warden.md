@@ -18,8 +18,8 @@ special-attacks: "Enhance arrows (magic), imbue arrow, weapon training (bows +1)
 special-qualities: "Low-light vision, bravery +1, arcane bond (masterwork composite longbow), armor training 1, elven magic, summoner's charm (1 round), weapon familiarity, damage reduction 10/magic (ranged weapon attack only; 30 points), immunity to sleep"
 saves: "Fort +9, Ref +11, Will +9 (+2 vs. enchantments, +1 vs. fear)"
 abilities: "Str 14, Dex 21, Con 10, Int 12, Wis 13, Cha 8"
-skills: "Arcana +9, Athletics +10, Nature +9, Perception +14, Stealth +14"
-skill-ranks: "Arcana 5, Athletics 5, Nature 5, Perception 10, Stealth 6"
+skills: "Arcana +9, Athletics +10, Mysticism +9, Nature +9, Perception +14, Stealth +14"
+skill-ranks: "Arcana 5, Athletics 5, Mysticism 5, Nature 5, Perception 10, Stealth 6"
 feats: "Arcane Armor Training, Iron Will, Manyshot, Point Blank Shot, Precise Shot, Rapid Shot, Scribe Scroll, Weapon Focus (longbow), Weapon Specialization (longbow)"
 environment: "Temperate forest"
 organization: "Solitary, or with other elves (see Elf)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] (masterwork composite longbow), [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/class-options/arcane-schools/Conjuration School|summoner's charm]] (1 round), [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic (ranged weapon attack only; 30 points), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
 - **Saves**: Fort +9, Ref +11, Will +9 (+2 vs. enchantments, +1 vs. fear)
 - **Abilities**: Str 14, Dex 21, Con 10, Int 12, Wis 13, Cha 8
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +14
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +9, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Arcane Armor Training|Arcane Armor Training]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Manyshot|Manyshot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longbow), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (longbow)
 - **Environment**: Temperate forest
 - **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])

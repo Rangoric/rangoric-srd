@@ -17,8 +17,8 @@ special-attacks: "Intense spells +3"
 special-qualities: "Arcane bond (wand)"
 saves: "Fort +3, Ref +4, Will +5"
 abilities: "Str 9, Dex 14, Con 12, Int 17, Wis 10, Cha 13"
-skills: "Acrobatics +11, Animal Handling +6, Arcana +12, Craft (Armor) +10, Craft (Weapons) +10, Engineering +7, Perception +6, Society +7"
-skill-ranks: "Acrobatics 6, Animal Handling 1, Arcana 6, Craft (Armor) 4, Craft (Weapons) 4, Engineering 1, Perception 3, Society 1"
+skills: "Acrobatics +11, Animal Handling +6, Arcana +12, Craft (Armor) +10, Craft (Weapons) +10, Engineering +7, Mysticism +12, Perception +6, Society +7"
+skill-ranks: "Acrobatics 6, Animal Handling 1, Arcana 6, Craft (Armor) 4, Craft (Weapons) 4, Engineering 1, Mysticism 6, Perception 3, Society 1"
 feats: "Combat Casting, Craft Wand, Defensive Combat Training, Improved Initiative, Scribe Scroll, Spell Focus (evocation)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|Arcane bond]] (wand)
 - **Saves**: Fort +3, Ref +4, Will +5
 - **Abilities**: Str 9, Dex 14, Con 12, Int 17, Wis 10, Cha 13
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Craft|Craft]] (Armor) +10, [[rangoric-srd/skills/Craft|Craft]] (Weapons) +10, [[rangoric-srd/skills/Engineering|Engineering]] +7, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Society|Society]] +7
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Craft|Craft]] (Armor) +10, [[rangoric-srd/skills/Craft|Craft]] (Weapons) +10, [[rangoric-srd/skills/Engineering|Engineering]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Society|Society]] +7
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Craft Wand|Craft Wand]], [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (evocation)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

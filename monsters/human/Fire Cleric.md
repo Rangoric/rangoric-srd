@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy 7/day (DC 19, 6d6), staff of order (5 
 special-qualities: "Aura, resistance to electricity 20 and fire 10"
 saves: "Fort +9, Ref +5, Will +13"
 abilities: "Str 13, Dex 8, Con 12, Int 10, Wis 21, Cha 14"
-skills: "Arcana +8, Intimidation +7, Linguistics +5, Perception +11, Sense Motive +13, Society +6, Theology +7"
-skill-ranks: "Arcana 5, Intimidation 2, Linguistics 2, Perception 3, Sense Motive 5, Society 3, Theology 4"
+skills: "Intimidation +7, Linguistics +5, Mysticism +8, Perception +11, Sense Motive +13, Society +6, Theology +7"
+skill-ranks: "Intimidation 2, Linguistics 2, Mysticism 5, Perception 3, Sense Motive 5, Society 3, Theology 4"
 feats: "Extra Channel, Greater Spell Focus (evocation), Improved Channel, Improved Initiative, Lightning Reflexes, Selective Channeling, Spell Focus (evocation)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Cleric#^cleric-aura|Aura]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 20 and fire 10
 - **Saves**: Fort +9, Ref +5, Will +13
 - **Abilities**: Str 13, Dex 8, Con 12, Int 10, Wis 21, Cha 14
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Theology|Theology]] +7
+- **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Theology|Theology]] +7
 - **Feats**: [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (evocation), [[rangoric-srd/feats/Improved Channel|Improved Channel]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Selective Channeling|Selective Channeling]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (evocation)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

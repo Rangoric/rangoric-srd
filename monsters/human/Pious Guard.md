@@ -18,8 +18,8 @@ special-attacks: "Channel positive energy (DC 17, 5d6), smite evil 4/day (+2 att
 special-qualities: "Aura of courage (10 ft.), aura of resolve (10 ft.), aura, code of conduct, divine bond (weapon +2, 2/day), lay on hands (5d6, 7/day), mercies (cursed, nauseated, shaken), immunity to charm, disease, fear and poison, special mount, remove disease 2/week"
 saves: "Fort +11, Ref +4, Will +9"
 abilities: "Str 20, Dex 8, Con 14, Int 14, Wis 10, Cha 14"
-skills: "Arcana +10, Intimidation +7, Perception +10, Persuasion +10, Sense Motive +13, Society +10, Theology +10"
-skill-ranks: "Arcana 5, Intimidation 2, Perception 7, Persuasion 5, Sense Motive 10, Society 5, Theology 5"
+skills: "Intimidation +7, Mysticism +10, Perception +10, Persuasion +10, Sense Motive +13, Society +10, Theology +10"
+skill-ranks: "Intimidation 2, Mysticism 5, Perception 7, Persuasion 5, Sense Motive 10, Society 5, Theology 5"
 feats: "Cleave, Combat Expertise, Greater Disarm, Improved Disarm, Power Attack, Weapon Focus (ranseur)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Paladin#^paladin-aura-of-courage|Aura of courage]] (10 ft.), [[rangoric-srd/classes/Paladin#^paladin-aura-of-resolve|aura of resolve]] (10 ft.), [[rangoric-srd/classes/Paladin|aura]], [[rangoric-srd/classes/Paladin#^paladin-code-of-conudct|code of conduct]], [[rangoric-srd/classes/Paladin#^paladin-divine-bond|divine bond]] (weapon +2, 2/day), [[rangoric-srd/classes/Paladin#^paladin-lay-on-hands|lay on hands]] (5d6, 7/day), [[rangoric-srd/classes/Paladin#^paladin-mercy|mercies]] ([[rangoric-srd/class-options/mercies/Cursed (Mercy)|cursed]], [[rangoric-srd/class-options/mercies/Nauseated (Mercy)|nauseated]], [[rangoric-srd/class-options/mercies/Shaken (Mercy)|shaken]]), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to charm, disease, fear and poison, [[rangoric-srd/classes/Paladin#^paladin-special-mount|special mount]], [[rangoric-srd/classes/Paladin#^paladin-remove-disease|remove disease]] 2/week
 - **Saves**: Fort +11, Ref +4, Will +9
 - **Abilities**: Str 20, Dex 8, Con 14, Int 14, Wis 10, Cha 14
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Theology|Theology]] +10
+- **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +10, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Theology|Theology]] +10
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Greater Disarm|Greater Disarm]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (ranseur)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

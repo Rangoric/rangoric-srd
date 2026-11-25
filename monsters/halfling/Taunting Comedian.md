@@ -18,8 +18,8 @@ special-attacks: "Bardic performance 14 rounds/day (countersong, distraction, fa
 special-qualities: "Bardic knowledge +2, versatile performance (comedy)"
 saves: "Fort +2, Ref +8, Will +4 (+2 vs. fear, +4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 11, Dex 16, Con 10, Int 12, Wis 8, Cha 18"
-skills: "Acrobatics +11, Arcana +6, Athletics +1 (–3 jumping), Deception +11, Emulation +10, Intimidation +9, Perception +1, Perform (comedy) +11, Persuasion +8, Sense Motive +4, Society +10, Stealth +9"
-skill-ranks: "Acrobatics 5, Arcana 2, Athletics 1, Deception 4, Emulation 3, Intimidation 2, Perception 2, Perform (comedy) 7, Persuasion 1, Sense Motive 2, Society 6, Stealth 0"
+skills: "Acrobatics +11, Athletics +1 (–3 jumping), Deception +11, Emulation +10, Intimidation +9, Mysticism +6, Perception +1, Perform (comedy) +11, Persuasion +8, Sense Motive +4, Society +10, Stealth +9"
+skill-ranks: "Acrobatics 5, Athletics 1, Deception 4, Emulation 3, Intimidation 2, Mysticism 2, Perception 2, Perform (comedy) 7, Persuasion 1, Sense Motive 2, Society 6, Stealth 0"
 feats: "Arcane Strike, Weapon Finesse"
 environment: "Warm plains"
 organization: "Solitary, or with other halflings (see Halfling)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Bard|Bardic knowledge]] +2, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (comedy)
 - **Saves**: Fort +2, Ref +8, Will +4 (+2 vs. fear, +4 vs. bardic performance, language-dependent, and sonic)
 - **Abilities**: Str 11, Dex 16, Con 10, Int 12, Wis 8, Cha 18
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +1 (–3 jumping), [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Emulation|Emulation]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +1, Perform (comedy) +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +1 (–3 jumping), [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Emulation|Emulation]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Perception|Perception]] +1, Perform (comedy) +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Arcane Strike|Arcane Strike]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
 - **Environment**: Warm plains
 - **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])

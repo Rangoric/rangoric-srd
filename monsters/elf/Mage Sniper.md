@@ -18,8 +18,8 @@ special-attacks: "Intense spells (+7 damage)"
 special-qualities: "Darkvision 60 ft., low-light vision, see invisibility, nondetection, spell turning, arcane bond (ring of protection +2), elf blood, resistance to electricity 30 and fire 30"
 saves: "Fort +7, Ref +10, Will +11 (+2 vs. enchantments)"
 abilities: "Str 12, Dex 18, Con 13, Int 22, Wis 10, Cha 8"
-skills: "Acrobatics +17, Animal Handling +4, Arcana +23, Athletics +11, Fieldcraft +10, Nature +15, Perception +27, Society +19, Stealth +18"
-skill-ranks: "Acrobatics 10, Animal Handling 2, Arcana 14, Athletics 7, Fieldcraft 7, Nature 6, Perception 24, Society 10, Stealth 11"
+skills: "Acrobatics +17, Animal Handling +4, Arcana +23, Athletics +11, Fieldcraft +10, Mysticism +23, Nature +15, Perception +27, Society +19, Stealth +18"
+skill-ranks: "Acrobatics 10, Animal Handling 2, Arcana 14, Athletics 7, Fieldcraft 7, Mysticism 14, Nature 6, Perception 24, Society 10, Stealth 11"
 feats: "Craft Wondrous Item, Enlarge Spell, Greater Spell Focus (evocation), Maximize Spell, Point Blank Shot, Precise Shot, Scribe Scroll, Skill Focus (Perception), Spell Focus (evocation, transmutation), Spell Penetration"
 environment: "Temperate forests"
 organization: "Solitary, or with other half-elves (see Elf)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], _[[rangoric-srd/spells/See Invisibility|see invisibility]]_, _[[rangoric-srd/spells/Nondetection|nondetection]]_, _[[rangoric-srd/spells/Spell Turning|spell turning]]_, [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] (ring of protection +2), [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 30 and fire 30
 - **Saves**: Fort +7, Ref +10, Will +11 (+2 vs. enchantments)
 - **Abilities**: Str 12, Dex 18, Con 13, Int 22, Wis 10, Cha 8
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4, [[rangoric-srd/skills/Arcana|Arcana]] +23, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Nature|Nature]] +15, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Society|Society]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +18
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4, [[rangoric-srd/skills/Arcana|Arcana]] +23, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +23, [[rangoric-srd/skills/Nature|Nature]] +15, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Society|Society]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +18
 - **Feats**: [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Enlarge Spell|Enlarge Spell]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (evocation), [[rangoric-srd/feats/Maximize Spell|Maximize Spell]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (evocation, transmutation), [[rangoric-srd/feats/Spell Penetration|Spell Penetration]]
 - **Environment**: Temperate forests
 - **Organization**: Solitary, or with other half-elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])

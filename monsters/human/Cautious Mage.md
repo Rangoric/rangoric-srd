@@ -18,8 +18,8 @@ special-attacks: "Hand of the apprentice (6/day)"
 special-qualities: "Arcane bond (raven)"
 saves: "Fort +2, Ref +1, Will +3"
 abilities: "Str 10, Dex 13, Con 14, Int 17, Wis 12, Cha 8"
-skills: "Arcana +7, Linguistics +7, Perception +5, Sense Motive +1, Society +7, Theology +7"
-skill-ranks: "Arcana 1, Linguistics 1, Perception 3, Sense Motive 2, Society 1, Theology 1"
+skills: "Arcana +7, Linguistics +7, Mysticism +7, Perception +5, Sense Motive +1, Society +7, Theology +7"
+skill-ranks: "Arcana 1, Linguistics 1, Mysticism 1, Perception 3, Sense Motive 2, Society 1, Theology 1"
 feats: "Combat Casting, Improved Initiative, Scribe Scroll, Skill Focus (Perception)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|Arcane bond]] (raven)
 - **Saves**: Fort +2, Ref +1, Will +3
 - **Abilities**: Str 10, Dex 13, Con 14, Int 17, Wis 12, Cha 8
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Linguistics|Linguistics]] +7, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +1, [[rangoric-srd/skills/Society|Society]] +7, [[rangoric-srd/skills/Theology|Theology]] +7
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Linguistics|Linguistics]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +1, [[rangoric-srd/skills/Society|Society]] +7, [[rangoric-srd/skills/Theology|Theology]] +7
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

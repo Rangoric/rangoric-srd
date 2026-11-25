@@ -18,8 +18,8 @@ special-attacks: "Breath weapon (30-foot cone, 13d6 acid, DC 22, 2/day), claws (
 special-qualities: "Blood of dragons, bloodline arcana (acid spells deal +1 damage per die), resistance to acid 10"
 saves: "Fort +11, Ref +10, Will +13"
 abilities: "Str 16, Dex 14, Con 15, Int 10, Wis 8, Cha 22"
-skills: "Acrobatics +6, Arcana +8, Athletics +4, Intimidation +19, Linguistics +1, Perception +12, Stealth +9"
-skill-ranks: "Acrobatics 1, Arcana 5, Athletics 1, Intimidation 10, Linguistics 1, Perception 10, Stealth 4"
+skills: "Acrobatics +6, Arcana +8, Athletics +4, Intimidation +19, Linguistics +1, Mysticism +7, Perception +12, Stealth +9"
+skill-ranks: "Acrobatics 1, Arcana 5, Athletics 1, Intimidation 10, Linguistics 1, Mysticism 4, Perception 10, Stealth 4"
 feats: "Combat Casting, Dodge, Eschew Materials, Greater Spell Focus (conjuration), Improved Initiative, Iron Will, Lightning Reflexes, Quicken Spell, Spell Focus (conjuration, enchantment), Toughness"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/prestige-classes/Dragon Disciple|Blood of dragons]], [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|bloodline arcana]] (acid spells deal +1 damage per die), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10
 - **Saves**: Fort +11, Ref +10, Will +13
 - **Abilities**: Str 16, Dex 14, Con 15, Int 10, Wis 8, Cha 22
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Linguistics|Linguistics]] +1, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +9
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Linguistics|Linguistics]] +1, [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (conjuration), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Quicken Spell|Quicken Spell]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration, enchantment), [[rangoric-srd/feats/Toughness|Toughness]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

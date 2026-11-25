@@ -18,8 +18,8 @@ special-attacks: "Wild shape 1/day, rebuke earth creatures, turn air creatures (
 special-qualities: "Low-light vision, elf blood, nature bond (Earth domain), nature sense, trackless step, wild empathy +5, woodland stride"
 saves: "Fort +6, Ref +6, Will +9 (+2 vs. enchantments, +4 vs. fey and plant-targeted effects)"
 abilities: "Str 8, Dex 14, Con 13, Int 12, Wis 18, Cha 10"
-skills: "Acrobatics +4, Animal Handling +6, Arcana +7, Athletics +1, Dungeoneering +6, Fieldcraft +15, Medicine +10, Nature +11, Perception +11"
-skill-ranks: "Acrobatics 2, Animal Handling 3, Arcana 3, Athletics 2, Dungeoneering 2, Fieldcraft 8, Medicine 3, Nature 7, Perception 4"
+skills: "Acrobatics +4, Animal Handling +6, Athletics +1, Dungeoneering +6, Fieldcraft +15, Medicine +10, Mysticism +7, Nature +11, Perception +11"
+skill-ranks: "Acrobatics 2, Animal Handling 3, Athletics 2, Dungeoneering 2, Fieldcraft 8, Medicine 3, Mysticism 3, Nature 7, Perception 4"
 feats: "Dodge, Lightning Reflexes, Natural Spell, Skill Focus (Fieldcraft)"
 environment: "Temperate forests"
 organization: "Solitary, or with other half-elves (see Elf)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]] ([[rangoric-srd/class-options/domains/Earth Domain|Earth domain]]), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +5, [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]]
 - **Saves**: Fort +6, Ref +6, Will +9 (+2 vs. enchantments, +4 vs. fey and plant-targeted effects)
 - **Abilities**: Str 8, Dex 14, Con 13, Int 12, Wis 18, Cha 10
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +1, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +15, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +1, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +15, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +11
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Natural Spell|Natural Spell]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft)
 - **Environment**: Temperate forests
 - **Organization**: Solitary, or with other half-elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])

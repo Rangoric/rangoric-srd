@@ -18,8 +18,8 @@ special-attacks: "Wild shape 2/day, rebuke air creatures, turn earth creatures (
 special-qualities: "Nature bond (Air domain), nature sense, trackless step, wild empathy +6, woodland stride, resistance to electricity 10"
 saves: "Fort +7, Ref +7, Will +8 (+2 vs. fear, +4 vs. fey and plant-targeted effects)"
 abilities: "Str 10, Dex 18, Con 13, Int 10, Wis 14, Cha 10"
-skills: "Acrobatics +4, Arcana +7, Athletics +3 (–1 jumping), Deception +2, Fieldcraft +13, Medicine +6, Nature +6, Perception +9, Sense Motive +4, Stealth +14"
-skill-ranks: "Acrobatics 0, Arcana 4, Athletics 3, Deception 2, Fieldcraft 8, Medicine 1, Nature 3, Perception 4, Sense Motive 2, Stealth 1"
+skills: "Acrobatics +4, Athletics +3 (–1 jumping), Deception +2, Fieldcraft +13, Medicine +6, Mysticism +7, Nature +6, Perception +9, Sense Motive +4, Stealth +14"
+skill-ranks: "Acrobatics 0, Athletics 3, Deception 2, Fieldcraft 8, Medicine 1, Mysticism 4, Nature 3, Perception 4, Sense Motive 2, Stealth 1"
 feats: "Augment Summoning, Extend Spell, Spell Focus (conjuration)"
 environment: "Warm plains"
 organization: "Solitary, or with other halflings (see Halfling)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Druid#^druid-nature-bond|Nature bond]] (Air domain), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +6, [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10
 - **Saves**: Fort +7, Ref +7, Will +8 (+2 vs. fear, +4 vs. fey and plant-targeted effects)
 - **Abilities**: Str 10, Dex 18, Con 13, Int 10, Wis 14, Cha 10
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +3 (–1 jumping), [[rangoric-srd/skills/Deception|Deception]] +2, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +13, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Nature|Nature]] +6, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +14
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +3 (–1 jumping), [[rangoric-srd/skills/Deception|Deception]] +2, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +13, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Nature|Nature]] +6, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Augment Summoning|Augment Summoning]], [[rangoric-srd/feats/Extend Spell|Extend Spell]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration)
 - **Environment**: Warm plains
 - **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])

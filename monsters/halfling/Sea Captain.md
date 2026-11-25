@@ -18,8 +18,8 @@ special-attacks: "Wild shape 3/day"
 special-qualities: "Nature bond (Weather domain), nature sense, trackless step, wild empathy +8, woodland stride"
 saves: "Fort +9, Ref +7, Will +12 (+2 vs. fear, +4 vs. fey and plant-targeted effects)"
 abilities: "Str 16, Dex 16, Con 12, Int 10, Wis 18, Cha 10"
-skills: "Acrobatics +6 (–3 when jumping), Animal Handling +5, Arcana +7, Athletics +8, Fieldcraft +13, Medicine +11, Nature +10, Perception +15"
-skill-ranks: "Acrobatics 1, Animal Handling 2, Arcana 4, Athletics 2, Fieldcraft 6, Medicine 4, Nature 7, Perception 8"
+skills: "Acrobatics +6 (–3 when jumping), Animal Handling +5, Athletics +8, Fieldcraft +13, Medicine +11, Mysticism +7, Nature +10, Perception +15"
+skill-ranks: "Acrobatics 1, Animal Handling 2, Athletics 2, Fieldcraft 6, Medicine 4, Mysticism 4, Nature 7, Perception 8"
 feats: "Improved Initiative, Natural Spell, Toughness, Weapon Finesse"
 environment: "Warm plains"
 organization: "Solitary, or with other halflings (see Halfling)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Druid#^druid-nature-bond|Nature bond]] (Weather domain), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +8, [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]]
 - **Saves**: Fort +9, Ref +7, Will +12 (+2 vs. fear, +4 vs. fey and plant-targeted effects)
 - **Abilities**: Str 16, Dex 16, Con 12, Int 10, Wis 18, Cha 10
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6 (–3 when jumping), [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +13, [[rangoric-srd/skills/Medicine|Medicine]] +11, [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +15
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6 (–3 when jumping), [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +13, [[rangoric-srd/skills/Medicine|Medicine]] +11, [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +15
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Natural Spell|Natural Spell]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
 - **Environment**: Warm plains
 - **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])

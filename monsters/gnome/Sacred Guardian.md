@@ -18,8 +18,8 @@ special-attacks: "Channel positive energy 5/day (DC 19, 7d6), +1 on attack rolls
 special-qualities: "Low-light vision, aura, aura of protection (+2 deflection, energy resistance 10, 14 rounds/day), good fortune (2/day), immunity to fire (120 points), good fortune (1/day)"
 saves: "Fort +16, Ref +9, Will +18 (+2 vs. illusions)"
 abilities: "Str 8, Dex 14, Con 18, Int 13, Wis 22, Cha 10"
-skills: "Arcana +8, Craft (armor) +3, Craft (jewelry) +6, Medicine +15, Perception +22, Persuasion +9, Sense Motive +12, Society +6, Theology +10"
-skill-ranks: "Arcana 4, Craft (armor) 2, Craft (jewelry) 2, Medicine 6, Perception 13, Persuasion 6, Sense Motive 3, Society 2, Theology 6"
+skills: "Arcana +6, Craft (armor) +3, Craft (jewelry) +6, Medicine +15, Mysticism +8, Perception +22, Persuasion +9, Sense Motive +12, Society +6, Theology +10"
+skill-ranks: "Arcana 2, Craft (armor) 2, Craft (jewelry) 2, Medicine 6, Mysticism 4, Perception 13, Persuasion 6, Sense Motive 3, Society 2, Theology 6"
 feats: "Combat Casting, Dodge, Extra Channel, Improved Channel, Improved Initiative, Selective Channeling, Turn Undead"
 environment: "Temperate hills"
 organization: "Solitary, or with other gnomes (see Gnome)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Cleric#^cleric-aura|aura]], [[rangoric-srd/class-options/domains/Protection Domain|aura of protection]] (+2 deflection, energy [[rangoric-srd/monsters/abilities/Resistance|resistance]] 10, 14 rounds/day), [[rangoric-srd/class-options/domains/Luck Domain|good fortune]] (2/day), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire (120 points), [[rangoric-srd/class-options/domains/Luck Domain|good fortune]] (1/day)
 - **Saves**: Fort +16, Ref +9, Will +18 (+2 vs. illusions)
 - **Abilities**: Str 8, Dex 14, Con 18, Int 13, Wis 22, Cha 10
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Craft|Craft]] (armor) +3, [[rangoric-srd/skills/Craft|Craft]] (jewelry) +6, [[rangoric-srd/skills/Medicine|Medicine]] +15, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Theology|Theology]] +10
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Craft|Craft]] (armor) +3, [[rangoric-srd/skills/Craft|Craft]] (jewelry) +6, [[rangoric-srd/skills/Medicine|Medicine]] +15, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Theology|Theology]] +10
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Improved Channel|Improved Channel]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Selective Channeling|Selective Channeling]], [[rangoric-srd/feats/Turn Undead|Turn Undead]]
 - **Environment**: Temperate hills
 - **Organization**: Solitary, or with other gnomes (see [[rangoric-srd/monsters/gnome/Gnome|Gnome]])

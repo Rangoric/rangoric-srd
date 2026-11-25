@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Bloodline arcana (+2 DC for charm spells), infernal resistances, on dark wings, damage reduction 10/adamantine (150 points), resistance to fire 10"
 saves: "Fort +7, Ref +11, Will +15 (+4 vs. poison)"
 abilities: "Str 8, Dex 14, Con 10, Int 12, Wis 14, Cha 23"
-skills: "Acrobatics +10, Arcana +9, Deception +19, Intimidation +19, Perception +12, Persuasion +25, Theology +6"
-skill-ranks: "Acrobatics 5, Arcana 5, Deception 10, Intimidation 14, Perception 7, Persuasion 14, Theology 2"
+skills: "Acrobatics +10, Arcana +9, Deception +19, Intimidation +19, Mysticism +9, Perception +12, Persuasion +25, Theology +6"
+skill-ranks: "Acrobatics 5, Arcana 5, Deception 10, Intimidation 14, Mysticism 5, Perception 7, Persuasion 14, Theology 2"
 feats: "Combat Casting, Dodge, Eschew Materials, Extend Spell, Improved Initiative, Improved Iron Will, Iron Will, Lightning Reflexes, Quicken Spell, Skill Focus (Persuasion), Spell Focus (evocation), Spell Penetration"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/class-options/bloodlines/Infernal Bloodline|Bloodline arcana]] (+2 DC for charm spells), [[rangoric-srd/class-options/bloodlines/Infernal Bloodline|infernal resistances]], [[rangoric-srd/class-options/bloodlines/Infernal Bloodline|on dark wings]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine (150 points), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
 - **Saves**: Fort +7, Ref +11, Will +15 (+4 vs. poison)
 - **Abilities**: Str 8, Dex 14, Con 10, Int 12, Wis 14, Cha 23
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +25, [[rangoric-srd/skills/Theology|Theology]] +6
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Mysticism|Mysticism]] +9, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +25, [[rangoric-srd/skills/Theology|Theology]] +6
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Extend Spell|Extend Spell]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Quicken Spell|Quicken Spell]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (evocation), [[rangoric-srd/feats/Spell Penetration|Spell Penetration]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

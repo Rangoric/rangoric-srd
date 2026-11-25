@@ -18,8 +18,8 @@ special-attacks: "Bardic performance 29 rounds/day (move action; countersong, di
 special-qualities: "Darkvision 60 ft., orc ferocity, bardic knowledge +5, jack-of-all-trades (use any skill), lore master 2/day, orc blood, versatile performance (act, dance, oratory), weapon familiarity"
 saves: "Fort +4, Ref +8, Will +7 (+4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 18, Dex 13, Con 12, Int 10, Wis 10, Cha 17"
-skills: "Arcana +9, Athletics +9, Intimidation +12, Perception +9, Perform (act, dance, oratory) +19, Sense Motive +6, Society +12, Stealth +13"
-skill-ranks: "Arcana 6, Athletics 2, Intimidation 6, Perception 6, Perform (act, dance, oratory) 16, Sense Motive 3, Society 9, Stealth 9"
+skills: "Arcana +9, Athletics +9, Intimidation +12, Mysticism +6, Perception +9, Perform (act, dance, oratory) +19, Sense Motive +6, Society +12, Stealth +13"
+skill-ranks: "Arcana 6, Athletics 2, Intimidation 6, Mysticism 3, Perception 6, Perform (act, dance, oratory) 16, Sense Motive 3, Society 9, Stealth 9"
 feats: "Arcane Strike, Dazzling Display, Dodge, Improved Sunder, Power Attack, Weapon Focus (falchion)"
 environment: "Temperate hills, mountains, or underground"
 organization: "Solitary, or with other half-orcs (see Orc)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/classes/Bard|bardic knowledge]] +5, [[rangoric-srd/classes/Bard#^bard-jack-of-all-trades|jack-of-all-trades]] (use any skill), [[rangoric-srd/classes/Bard#^bard-lore-master|lore master]] 2/day, [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (act, dance, oratory), [[rangoric-srd/races/Half-Orc|weapon familiarity]]
 - **Saves**: Fort +4, Ref +8, Will +7 (+4 vs. bardic performance, language-dependent, and sonic)
 - **Abilities**: Str 18, Dex 13, Con 12, Int 10, Wis 10, Cha 17
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +9, Perform (act, dance, oratory) +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Society|Society]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +13
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Perception|Perception]] +9, Perform (act, dance, oratory) +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Society|Society]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Arcane Strike|Arcane Strike]], [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (falchion)
 - **Environment**: Temperate hills, mountains, or underground
 - **Organization**: Solitary, or with other half-orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])

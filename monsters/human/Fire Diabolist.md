@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy 6/day (DC 23, 10d6), hand of the acoly
 special-qualities: "Aura, immunity to fire"
 saves: "Fort +18, Ref +10, Will +23"
 abilities: "Str 13, Dex 10, Con 14, Int 13, Wis 21, Cha 16"
-skills: "Arcana +14, Deception +13, Intimidation +13, Perception +20, Persuasion +16, Sense Motive +18, Theology +14"
-skill-ranks: "Arcana 10, Deception 7, Intimidation 7, Perception 12, Persuasion 10, Sense Motive 10, Theology 10"
+skills: "Arcana +9, Deception +13, Intimidation +13, Mysticism +14, Perception +20, Persuasion +16, Sense Motive +18, Theology +14"
+skill-ranks: "Arcana 5, Deception 7, Intimidation 7, Mysticism 10, Perception 12, Persuasion 10, Sense Motive 10, Theology 10"
 feats: "Alignment Channel (evil), Augment Summoning, Combat Casting, Greater Spell Focus (evocation), Improved Initiative, Improved Iron Will, Iron Will, Shield Focus, Spell Focus (conjuration), Spell Focus (evocation), Spell Penetration"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Cleric#^cleric-aura|Aura]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire
 - **Saves**: Fort +18, Ref +10, Will +23
 - **Abilities**: Str 13, Dex 10, Con 14, Int 13, Wis 21, Cha 16
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Persuasion|Persuasion]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Theology|Theology]] +14
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Mysticism|Mysticism]] +14, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Persuasion|Persuasion]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Theology|Theology]] +14
 - **Feats**: [[rangoric-srd/feats/Alignment Channel|Alignment Channel]] (evil), [[rangoric-srd/feats/Augment Summoning|Augment Summoning]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (evocation), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Shield Focus|Shield Focus]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (evocation), [[rangoric-srd/feats/Spell Penetration|Spell Penetration]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

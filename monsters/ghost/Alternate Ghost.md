@@ -117,6 +117,6 @@ The original items remain behind, just as the ghost's physical remains do. If an
 
 **Abilities**: Cha +4; as an incorporeal undead creature, a ghost has no Strength or Constitution score.
 
-**Skills**: Ghosts have a +8 racial bonus on Perception and Stealth skill checks. A ghost always treats Athletics, Imitation, Acrobatics, Intimidation, Arcana, Theology, Perception, Sense Motive, and Stealth as class skills. Otherwise, skills are the same as the base creature.
+**Skills**: Ghosts have a +8 racial bonus on Perception and Stealth skill checks. A ghost always treats Athletics, Imitation, Acrobatics, Intimidation, Arcana, Theology, Perception, Sense Motive, Mysticism, and Stealth as class skills. Otherwise, skills are the same as the base creature.
 
 Ghosts speak Common.

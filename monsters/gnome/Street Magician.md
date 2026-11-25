@@ -18,8 +18,8 @@ special-attacks: "+1 on attack rolls against goblinoid and reptilian humanoids"
 special-qualities: "Low-light vision, defensive training (+4 dodge bonus to AC vs. giants), arcane bond (amulet), enchanting smile"
 saves: "Fort +2, Ref +1, Will +2 (+2 vs. illusions)"
 abilities: "Str 12, Dex 13, Con 14, Int 15, Wis 8, Cha 12"
-skills: "Arcana +6, Deception +3, Perception +2, Society +7"
-skill-ranks: "Arcana 1, Deception 2, Perception 3, Society 2"
+skills: "Arcana +6, Deception +3, Mysticism +6, Perception +2, Society +7"
+skill-ranks: "Arcana 1, Deception 2, Mysticism 1, Perception 3, Society 2"
 feats: "Dodge, Scribe Scroll"
 environment: "Temperate hills"
 organization: "Solitary, or with other gnomes (see Gnome)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Gnome#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] (amulet), [[rangoric-srd/class-options/arcane-schools/Enchantment School|enchanting smile]]
 - **Saves**: Fort +2, Ref +1, Will +2 (+2 vs. illusions)
 - **Abilities**: Str 12, Dex 13, Con 14, Int 15, Wis 8, Cha 12
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Deception|Deception]] +3, [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Society|Society]] +7
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Deception|Deception]] +3, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Society|Society]] +7
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]]
 - **Environment**: Temperate hills
 - **Organization**: Solitary, or with other gnomes (see [[rangoric-srd/monsters/gnome/Gnome|Gnome]])

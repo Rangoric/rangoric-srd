@@ -43,6 +43,6 @@ This spell functions as the planar travel function of _[[rangoric-srd/spells/Gat
 
 This spell forms a circular portal between 5 and 20 feet in diameter (your choice) oriented in the direction you desire when it comes into being (typically vertical and facing you). The portal is full of gray fog that blocks line of sight.
 
-Anyone or anything that moves through the portal to enter the First World is shunted instantly to a random point on that plane (the same point for everything traveling via a particular casting). At the end of the spell's duration, the caster can attempt a DC 30 Arcana check. On a success, the portal remains open for 1d4+1 days. Creatures exiting the First World through a fey _[[rangoric-srd/spells/Gate|gate]]_ always arrive at the location the spell was cast.
+Anyone or anything that moves through the portal to enter the First World is shunted instantly to a random point on that plane (the same point for everything traveling via a particular casting). At the end of the spell's duration, the caster can attempt a DC 30 Mysticism check. On a success, the portal remains open for 1d4+1 days. Creatures exiting the First World through a fey _[[rangoric-srd/spells/Gate|gate]]_ always arrive at the location the spell was cast.
 
 While the spell always deposits travelers on solid ground in the First World, it conveys no protections against whatever creatures or environmental hazards may be present there.

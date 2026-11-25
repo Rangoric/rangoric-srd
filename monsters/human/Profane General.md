@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy 4/day (DC 15, 7d6), might of the gods 
 special-qualities: "Aura, damage reduction 10/adamantine (150 points)"
 saves: "Fort +13, Ref +5, Will +14"
 abilities: "Str 20, Dex 10, Con 18, Int 12, Wis 17, Cha 8"
-skills: "Animal Handling –1, Arcana +9, Engineering +6, Intimidation +4, Medicine +11, Perception +16, Persuasion +7, Society +9, Theology +9"
-skill-ranks: "Animal Handling 0, Arcana 5, Engineering 2, Intimidation 2, Medicine 5, Perception 10, Persuasion 5, Society 5, Theology 5"
+skills: "Animal Handling –1, Engineering +6, Intimidation +4, Medicine +11, Mysticism +9, Perception +16, Persuasion +7, Society +9, Theology +9"
+skill-ranks: "Animal Handling 0, Engineering 2, Intimidation 2, Medicine 5, Mysticism 5, Perception 10, Persuasion 5, Society 5, Theology 5"
 feats: "Armor Proficiency (Heavy), Cleave, Combat Casting, Extra Channel, Improved Critical (greatsword), Iron Will, Power Attack, Vital Strike, Weapon Focus (greatsword)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Cleric#^cleric-aura|Aura]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine (150 points)
 - **Saves**: Fort +13, Ref +5, Will +14
 - **Abilities**: Str 20, Dex 10, Con 18, Int 12, Wis 17, Cha 8
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] –1, [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Engineering|Engineering]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Medicine|Medicine]] +11, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Society|Society]] +9, [[rangoric-srd/skills/Theology|Theology]] +9
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] –1, [[rangoric-srd/skills/Engineering|Engineering]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Medicine|Medicine]] +11, [[rangoric-srd/skills/Mysticism|Mysticism]] +9, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Society|Society]] +9, [[rangoric-srd/skills/Theology|Theology]] +9
 - **Feats**: [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (greatsword), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatsword)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

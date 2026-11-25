@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Low-light vision, elven magic, weapon familiarity, immunity to sleep"
 saves: "Fort +1, Ref +2, Will +5 (+2 vs. enchantments)"
 abilities: "Str 9, Dex 10, Con 8, Int 14, Wis 12, Cha 13"
-skills: "Appraise +11, Arcana +5 (+7 to identify magic item properties), Deception +5, Intimidation +5, Perception +12, Sense Motive +7, Society +4"
-skill-ranks: "Appraise 6, Arcana 3, Deception 1, Intimidation 1, Perception 7, Sense Motive 5, Society 2"
+skills: "Appraise +11, Deception +5, Intimidation +5, Mysticism +5, Perception +12, Sense Motive +7, Society +4"
+skill-ranks: "Appraise 6, Deception 1, Intimidation 1, Mysticism 3, Perception 7, Sense Motive 5, Society 2"
 feats: "Iron Will, Skill Focus (Appraise, Perception)"
 environment: "Temperate forest"
 organization: "Solitary, or with other elves (see Elf)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
 - **Saves**: Fort +1, Ref +2, Will +5 (+2 vs. enchantments)
 - **Abilities**: Str 9, Dex 10, Con 8, Int 14, Wis 12, Cha 13
-- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +5 (+7 to identify magic item properties), [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Society|Society]] +4
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +11, [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Mysticism|Mysticism]] +5, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Society|Society]] +4
 - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Appraise, Perception)
 - **Environment**: Temperate forest
 - **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])

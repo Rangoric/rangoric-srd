@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Arcane bond (ring of protection +1), forewarned"
 saves: "Fort +2, Ref +3, Will +5"
 abilities: "Str 8, Dex 14, Con 13, Int 18, Wis 12, Cha 10"
-skills: "Arcana +11, Intimidation +4, Perception +5, Persuasion +4, Sense Motive +5, Society +10, Theology +8"
-skill-ranks: "Arcana 4, Intimidation 1, Perception 1, Persuasion 1, Sense Motive 1, Society 3, Theology 1"
+skills: "Arcana +10, Intimidation +4, Mysticism +11, Perception +5, Persuasion +4, Sense Motive +5, Society +10, Theology +8"
+skill-ranks: "Arcana 3, Intimidation 1, Mysticism 4, Perception 1, Persuasion 1, Sense Motive 1, Society 3, Theology 1"
 feats: "Combat Casting, Dodge, Improved Initiative, Scribe Scroll"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|Arcane bond]] (ring of protection +1), [[rangoric-srd/class-options/arcane-schools/Divination School|forewarned]]
 - **Saves**: Fort +2, Ref +3, Will +5
 - **Abilities**: Str 8, Dex 14, Con 13, Int 18, Wis 12, Cha 10
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +4, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Theology|Theology]] +8
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +4, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Theology|Theology]] +8
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

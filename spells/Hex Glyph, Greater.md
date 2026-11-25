@@ -31,4 +31,4 @@ _Abjuration_
 
 This spell functions as _[[rangoric-srd/spells/Hex Glyph|hex glyph]]_, except you can store a hex or a major hex (but not a grand hex). You trace the glyph with incense, which must first be sprinkled with powdered diamond (as noted in the material line).
 
-_[[rangoric-srd/spells/Read Magic|Read magic]]_ allows its caster to identify a _greater hex glyph_ with a DC 16 Arcana check.
+_[[rangoric-srd/spells/Read Magic|Read magic]]_ allows its caster to identify a _greater hex glyph_ with a DC 16 Mysticism check.

@@ -18,8 +18,8 @@ special-attacks: "Claws (2, 1d6+7 plus 1d6 fire, treated as magic weapons, 7 rou
 special-qualities: "Darkvision 60 ft., orc ferocity, added summonings, bloodline arcana (summoned creatures gain DR 9/good), orc blood, strength of the Abyss, weapon familiarity, damage reduction 10/adamantine (150 points), resistance to electricity 10"
 saves: "Fort +11, Ref +9, Will +13 (+4 vs. poison)"
 abilities: "Str 16, Dex 14, Con 14, Int 8, Wis 12, Cha 24"
-skills: "Acrobatics +6, Arcana +3, Intimidation +14, Linguistics +0, Perception +10, Theology +5"
-skill-ranks: "Acrobatics 1, Arcana 1, Intimidation 4, Linguistics 1, Perception 6, Theology 3"
+skills: "Acrobatics +6, Arcana +3, Intimidation +14, Linguistics +0, Mysticism +3, Perception +10, Theology +5"
+skill-ranks: "Acrobatics 1, Arcana 1, Intimidation 4, Linguistics 1, Mysticism 1, Perception 6, Theology 3"
 feats: "Augment Summoning, Combat Casting, Dodge, Empower Spell, Eschew Materials, Extend Spell, Great Fortitude, Greater Spell Focus (conjuration), Improved Initiative, Quicken Spell, Spell Focus (conjuration), Toughness"
 environment: "Temperate hills, mountains, or underground"
 organization: "Solitary, or with other half-orcs (see Orc)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/class-options/bloodlines/Abyssal Bloodline|added summonings]], [[rangoric-srd/class-options/bloodlines/Abyssal Bloodline|bloodline arcana]] (summoned creatures gain DR 9/good), [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/class-options/bloodlines/Abyssal Bloodline|strength of the Abyss]], [[rangoric-srd/races/Half-Orc|weapon familiarity]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine (150 points), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10
 - **Saves**: Fort +11, Ref +9, Will +13 (+4 vs. poison)
 - **Abilities**: Str 16, Dex 14, Con 14, Int 8, Wis 12, Cha 24
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Arcana|Arcana]] +3, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Linguistics|Linguistics]] +0, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Theology|Theology]] +5
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Arcana|Arcana]] +3, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Linguistics|Linguistics]] +0, [[rangoric-srd/skills/Mysticism|Mysticism]] +3, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Augment Summoning|Augment Summoning]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Empower Spell|Empower Spell]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Extend Spell|Extend Spell]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (conjuration), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Quicken Spell|Quicken Spell]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration), [[rangoric-srd/feats/Toughness|Toughness]]
 - **Environment**: Temperate hills, mountains, or underground
 - **Organization**: Solitary, or with other half-orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])

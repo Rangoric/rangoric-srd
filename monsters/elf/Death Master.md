@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy 4/day (DC 11, 3d6), hand of the acolyt
 special-qualities: "Low-light vision, aura, arcane bond (staff of swarming insects), combined spells (4th), elf blood, immunity to charm monster, fireball, lightning bolt and sleep"
 saves: "Fort +14, Ref +7, Will +21 (+2 vs. enchantments)"
 abilities: "Str 12, Dex 10, Con 18, Int 16, Wis 20, Cha 8"
-skills: "Animal Handling +0, Arcana +16, Dungeoneering +11, Intimidation +9, Medicine +13, Perception +28, Society +11, Theology +16"
-skill-ranks: "Animal Handling 0, Arcana 10, Dungeoneering 5, Intimidation 7, Medicine 5, Perception 20, Society 5, Theology 10"
+skills: "Animal Handling +0, Arcana +16, Dungeoneering +11, Intimidation +9, Medicine +13, Mysticism +16, Perception +28, Society +11, Theology +16"
+skill-ranks: "Animal Handling 0, Arcana 10, Dungeoneering 5, Intimidation 7, Medicine 5, Mysticism 10, Perception 20, Society 5, Theology 10"
 feats: "Arcane Armor Mastery, Arcane Armor Training, Combat Casting, Command Undead, Craft Magic Arms and Armor, Craft Wondrous Item, Extra Channel, Improved Initiative, Scribe Scroll, Skill Focus (Perception), Still Spell, Toughness"
 environment: "Temperate forests"
 organization: "Solitary, or with other half-elves (see Elf)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Cleric#^cleric-aura|aura]], [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] (staff of [[rangoric-srd/monsters/abilities/Swarming|swarming]] insects), [[rangoric-srd/prestige-classes/Mystic Theurge|combined spells]] (4th), [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to charm monster, _[[rangoric-srd/spells/Fireball|fireball]]_, lightning bolt and sleep
 - **Saves**: Fort +14, Ref +7, Will +21 (+2 vs. enchantments)
 - **Abilities**: Str 12, Dex 10, Con 18, Int 16, Wis 20, Cha 8
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +0, [[rangoric-srd/skills/Arcana|Arcana]] +16, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Medicine|Medicine]] +13, [[rangoric-srd/skills/Perception|Perception]] +28, [[rangoric-srd/skills/Society|Society]] +11, [[rangoric-srd/skills/Theology|Theology]] +16
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +0, [[rangoric-srd/skills/Arcana|Arcana]] +16, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Medicine|Medicine]] +13, [[rangoric-srd/skills/Mysticism|Mysticism]] +16, [[rangoric-srd/skills/Perception|Perception]] +28, [[rangoric-srd/skills/Society|Society]] +11, [[rangoric-srd/skills/Theology|Theology]] +16
 - **Feats**: [[rangoric-srd/feats/Arcane Armor Mastery|Arcane Armor Mastery]], [[rangoric-srd/feats/Arcane Armor Training|Arcane Armor Training]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Command Undead (Feat)|Command Undead]], [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Still Spell|Still Spell]], [[rangoric-srd/feats/Toughness|Toughness]]
 - **Environment**: Temperate forests
 - **Organization**: Solitary, or with other half-elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])

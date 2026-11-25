@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Low-light vision, bloodline arcana (change energy damage spells to electricity), elven magic, weapon familiarity, immunity to sleep, resistance to electricity 10"
 saves: "Fort +4, Ref +5, Will +7 (+2 vs. enchantments)"
 abilities: "Str 8, Dex 15, Con 12, Int 12, Wis 12, Cha 16"
-skills: "Acrobatics +10, Arcana +10 (+12 to identify magic item properties), Linguistics +2, Perception +4"
-skill-ranks: "Acrobatics 5, Arcana 6, Linguistics 1, Perception 3"
+skills: "Acrobatics +10, Arcana +9 (+12 to identify magic item properties), Linguistics +2, Mysticism +10, Perception +4"
+skill-ranks: "Acrobatics 5, Arcana 5, Linguistics 1, Mysticism 6, Perception 3"
 feats: "Dodge, Eschew Materials, Improved Initiative, Spell Focus (evocation)"
 environment: "Temperate forest"
 organization: "Solitary, or with other elves (see Elf)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/class-options/bloodlines/Elemental Bloodline|bloodline arcana]] (change energy damage spells to electricity), [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10
 - **Saves**: Fort +4, Ref +5, Will +7 (+2 vs. enchantments)
 - **Abilities**: Str 8, Dex 15, Con 12, Int 12, Wis 12, Cha 16
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +10 (+12 to identify magic item properties), [[rangoric-srd/skills/Linguistics|Linguistics]] +2, [[rangoric-srd/skills/Perception|Perception]] +4
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +9 (+12 to identify magic item properties), [[rangoric-srd/skills/Linguistics|Linguistics]] +2, [[rangoric-srd/skills/Mysticism|Mysticism]] +10, [[rangoric-srd/skills/Perception|Perception]] +4
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (evocation)
 - **Environment**: Temperate forest
 - **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])

@@ -18,8 +18,8 @@ special-attacks: "Channel positive energy 6/day (DC 12 [DC 14 against undead], 2
 special-qualities: "Aura, bloodline arcana (summoned creatures gain DR 2/evil), combined spells (1st), resistance to acid 5 and cold 5"
 saves: "Fort +7, Ref +3, Will +13"
 abilities: "Str 22, Dex 10, Con 14, Int 8, Wis 14, Cha 12"
-skills: "Arcana +5, Perception +8, Persuasion +7, Society +4, Theology +5"
-skill-ranks: "Arcana 3, Perception 3, Persuasion 3, Society 2, Theology 3"
+skills: "Arcana +5, Mysticism +3, Perception +8, Persuasion +7, Society +4, Theology +5"
+skill-ranks: "Arcana 3, Mysticism 1, Perception 3, Persuasion 3, Society 2, Theology 3"
 feats: "Arcane Armor Mastery, Arcane Armor Training, Combat Casting, Eschew Materials, Extra Channel, Toughness, Weapon Focus (spear)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Cleric#^cleric-aura|Aura]], [[rangoric-srd/class-options/bloodlines/Celestial Bloodline|bloodline arcana]] (summoned creatures gain DR 2/evil), [[rangoric-srd/prestige-classes/Mystic Theurge|combined spells]] (1st), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5 and cold 5
 - **Saves**: Fort +7, Ref +3, Will +13
 - **Abilities**: Str 22, Dex 10, Con 14, Int 8, Wis 14, Cha 12
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +5, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Theology|Theology]] +5
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +5, [[rangoric-srd/skills/Mysticism|Mysticism]] +3, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Arcane Armor Mastery|Arcane Armor Mastery]], [[rangoric-srd/feats/Arcane Armor Training|Arcane Armor Training]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spear)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

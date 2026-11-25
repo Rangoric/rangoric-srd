@@ -17,8 +17,8 @@ special-attacks: "Channel negative energy 5/day (DC 15, 5d6), scythe of evil (5 
 special-qualities: "Evasion, aura, healer's blessing, rogue talent (combat trick), trapfinding, finesse training"
 saves: "Fort +10, Ref +9, Will +13"
 abilities: "Str 12, Dex 14, Con 14, Int 8, Wis 21, Cha 10"
-skills: "Arcana +10, Deception +5, Linguistics +5, Medicine +10, Perception +10, Persuasion +5, Profession (any one) +10, Sense Motive +10, Society +3, Theology +10"
-skill-ranks: "Arcana 8, Deception 2, Linguistics 3, Medicine 2, Perception 2, Persuasion 2, Profession (any one) 8, Sense Motive 2, Society 1, Theology 8"
+skills: "Deception +5, Linguistics +5, Medicine +10, Mysticism +10, Perception +10, Persuasion +5, Profession (any one) +10, Sense Motive +10, Society +3, Theology +10"
+skill-ranks: "Deception 2, Linguistics 3, Medicine 2, Mysticism 8, Perception 2, Persuasion 2, Profession (any one) 8, Sense Motive 2, Society 1, Theology 8"
 feats: "Channel Smite, Combat Casting, Command Undead, Craft Magic Arms and Armor, Craft Wondrous Item, Extra Channel, Forge Ring, Vital Strike"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Rogue#^rogue-evasion|Evasion]], [[rangoric-srd/classes/Cleric#^cleric-aura|aura]], [[rangoric-srd/class-options/domains/Healing Domain|healer's blessing]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] ([[rangoric-srd/class-options/rogue-talents/Combat Trick (Rogue Talent)|combat trick]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]], [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]]
 - **Saves**: Fort +10, Ref +9, Will +13
 - **Abilities**: Str 12, Dex 14, Con 14, Int 8, Wis 21, Cha 10
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Profession|Profession]] (any one) +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Society|Society]] +3, [[rangoric-srd/skills/Theology|Theology]] +10
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +10, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Profession|Profession]] (any one) +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Society|Society]] +3, [[rangoric-srd/skills/Theology|Theology]] +10
 - **Feats**: [[rangoric-srd/feats/Channel Smite|Channel Smite]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Command Undead (Feat)|Command Undead]], [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Forge Ring|Forge Ring]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
