@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Prestige Classes"
 hit-die: "d10"
+bab: full
+fort: good
+ref: good
+will: poor
 skill-points: "4 + Int modifier"
 based-on:
   - "[[fantasy srd 3.5/prestige-classes/Arcane Archer|Arcane Archer (3.5)]]"
@@ -26,6 +30,10 @@ Those who have trained as both rangers and wizards excel as arcane archers, alth
 
 **Hit Die**: d10.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Reflex, poor Will.
+
 ###### Requirements
 
 To qualify to become an arcane archer, a character must fulfill all the following criteria.
@@ -41,11 +49,6 @@ To qualify to become an arcane archer, a character must fulfill all the followin
 The arcane archer’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
 
 **Skill Points at Each Level**: 4 + Int modifier.
-
-- BAB: Good
-- Fort: Good
-- Ref: Good
-- Will: Bad
 
 **Table: The Arcane Archer** ^table-the-arcane-archer
 
