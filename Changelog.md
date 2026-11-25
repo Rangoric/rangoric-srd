@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-25 | Combat, Divine, Epic, Design Notes and Psionics have written note rules: what each kind of note's properties and heading are. | [[rangoric-srd/combat/Combat Note Rules\|Combat Note Rules]], [[rangoric-srd/divine/Divine Note Rules\|Divine Note Rules]], [[rangoric-srd/epic/Epic Note Rules\|Epic Note Rules]], [[rangoric-srd/design-notes/Design Notes Note Rules\|Design Notes Note Rules]], [[rangoric-srd/psionics/Psionics Note Rules\|Psionics Note Rules]], [[NR Batch 11 Changes]] | | [[Note Rules]] NR 11 |
 | 2026-11-25 | Equipment has written note rules: what each kind of note's properties and heading are. | [[rangoric-srd/equipment/Equipment Note Rules\|Equipment Note Rules]], [[NR Batch 10 Changes]] | | [[Note Rules]] NR 10 |
 | 2026-11-25 | Monsters has written note rules: what each kind of note's properties and heading are. | [[rangoric-srd/monsters/Monsters Note Rules\|Monsters Note Rules]], [[NR Batch 9 Changes]] | | [[Note Rules]] NR 9 |
 | 2026-11-25 | Magic Items has written note rules: what each kind of note's properties and heading are. | [[rangoric-srd/magic-items/Magic Items Note Rules\|Magic Items Note Rules]], [[NR Batch 8 Changes]] | | [[Note Rules]] NR 8 |

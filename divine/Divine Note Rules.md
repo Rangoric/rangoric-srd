@@ -9,7 +9,25 @@ tags: [rangoric, rangoric/note-rules]
 
 # Divine Note Rules
 
-What the notes in `divine` look like. No folder rules yet: the whole-SRD rules in the [README](../README.md#note-rules) apply.
+What the notes in `divine` look like. The whole-SRD rules are in the [README](../README.md#note-rules); Sweep and the "Check notes" workflow check both.
+
+## overview
+
+| Key        | Required | Values     |
+| ---------- | -------- | ---------- |
+| `srd-type` | yes      | `overview` |
+| `section`  | yes      | `Divine`   |
+
+## rule
+
+| Key        | Required | Values   |
+| ---------- | -------- | -------- |
+| `srd-type` | yes      | `rule`   |
+| `section`  | yes      | `Divine` |
+
+Headings, in order:
+
+1. `# (name)`
 
 ## Failing notes
 
