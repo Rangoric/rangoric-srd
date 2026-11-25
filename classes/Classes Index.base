@@ -8,6 +8,10 @@ views:
       - file.name
       - srd-type
       - hit-die
+      - bab
+      - fort
+      - ref
+      - will
       - alignment
       - skill-points
       - source
