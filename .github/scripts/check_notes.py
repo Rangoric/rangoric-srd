@@ -1,24 +1,57 @@
 """Check rangoric-srd's notes before the website builds them.
 
-  python3 .github/scripts/check_notes.py [root] [--changed <file listing changed paths>]
+  python3 .github/scripts/check_notes.py [root] [--changed <file>] [--added <file>]
+  python3 .github/scripts/check_notes.py [root] --baseline [--folder <folder>]
 
 - Frontmatter: every note's loads as strict YAML (a set of keys, no duplicate key), as the website's build needs.
+  (check_frontmatter.mjs also parses it the way the website does.)
 - Links: every link into the SRD has a target, by path ([[rangoric-srd/...]]) or by name ([[Note]]), in a note's
   body and in its frontmatter. Links into the sources (based-on's paths, the Changelog's source and workshop
   columns) aren't checked, nor is the Changelog's body: it is history, and links to notes since renamed stay.
+- Note rules: the README's "## Note rules" (every note but the root notes and legal/), then the folder's
+  `<Folder> Note Rules.md`, then the subfolder's, each read from its tables and heading lists:
+    `| Key | Required | Values |` under a heading naming a kind of note (its srd-type), or under "All notes"
+    (every note in the folder) or the README's "Note rules". Required is yes, no, or "when `key` is `value`"
+    ("is not" too; any other "when ..." reads as no). Values is blank (anything), allowed words in backticks
+    (`*` matches any text), `number`, `text`, `date`, `link to <folder>`, `list of ...`, or "list including
+    `a` and `b`". A Values cell with other words in it is for Sweep to read, not checked here.
+    "Headings, in order:" then a numbered list of headings (`# (name)` is the note's own name), checked in
+    order; one not listed is allowed unless the list ends with "(no others)".
+  A folder whose Note Rules has a kind table holds every note in it to one of its kinds.
+- Marks: a note marked `sweep: failing` lists its problems in `sweep-issues`; a listed problem is a warning, one
+  not listed still fails. A marked note with no problems left, or a listed issue that's gone, is a warning. A note
+  added by the change (--added) can't be marked.
 
 With --changed, a link problem fails the check only in a changed note; the rest are printed as warnings, so a PR
-is held to its own notes. Frontmatter problems fail anywhere. Exit 1 on a failure.
+is held to its own notes. Frontmatter and note-rule problems fail anywhere. Exit 1 on a failure.
+
+--baseline marks every note (in --folder only, if given) that breaks a rule, and drops the marks from notes with
+no problems left, writing frontmatter through frontmatter.py (a copy of the workshop's tools/frontmatter.py), so a
+new rule starts green. Note Rules plan, NR 1 (2026-11-25).
 """
-import os, re, sys
+import datetime, fnmatch, json, os, re, sys
 import yaml
 
-args = [a for a in sys.argv[1:]]
-CHANGED = None
-if '--changed' in args:
-    i = args.index('--changed')
-    CHANGED = {l.strip() for l in open(args[i + 1], encoding='utf-8') if l.strip()}
-    del args[i:i + 2]
+sys.dont_write_bytecode = True   # no __pycache__ beside the notes
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import frontmatter as F
+
+args = sys.argv[1:]
+
+
+def opt(name, has_value=True):
+    if name not in args:
+        return None
+    i = args.index(name)
+    v = args[i + 1] if has_value else True
+    del args[i:i + (2 if has_value else 1)]
+    return v
+
+
+changed_file, added_file = opt('--changed'), opt('--added')
+BASELINE, FOLDER = opt('--baseline', False), opt('--folder')
+CHANGED = {l.strip() for l in open(changed_file, encoding='utf-8') if l.strip()} if changed_file else None
+ADDED = {l.strip() for l in open(added_file, encoding='utf-8') if l.strip()} if added_file else set()
 ROOT = args[0] if args else '.'
 PREFIX = 'rangoric-srd/'
 
@@ -61,31 +94,329 @@ def exists(target):
     return t.lower() in names
 
 
-problems, warnings = [], []
+def read(rel):
+    return open(os.path.join(ROOT, rel), encoding='utf-8').read().replace('\r\n', '\n')
 
+
+def split(text):
+    """(frontmatter text or None, body, error)"""
+    if not text.startswith('---\n'):
+        return None, text, None
+    end = text.find('\n---', 3)
+    if end == -1:
+        return None, text, 'frontmatter has no closing ---'
+    return text[4:end], text[end + 4:], None
+
+
+def strip_code(body):
+    body = re.sub(r'```.*?```', '', body, flags=re.S)
+    return re.sub(r'`[^`\n]*`', '', body)
+
+
+# ---- the written rules ----
+
+ROW = re.compile(r'^\|(.*)\|\s*$')
+HEADING = re.compile(r'^(#{1,6})\s+(.*?)\s*$')
+TICKS = re.compile(r'`([^`]*)`')
+ITEM = re.compile(r'^\s*(\d+\.|\(no others\))')
+
+
+def cells(line):
+    return [c.strip() for c in re.split(r'(?<!\\)\|', ROW.match(line).group(1))]
+
+
+def new_kind():
+    return {'keys': {}, 'headings': None, 'only': False}
+
+
+def parse_rules(text, top_section=None):
+    """{kind: {'keys': {key: (required, values)}, 'headings': [...] or None, 'only': bool}} from a Note Rules note,
+    or from the README's top_section (read as the "all" kind). Under a Note Rules note's headings, one whose text is
+    a single srd-type word (in backticks or not) names a kind; "All notes" is the "all" kind."""
+    _, body, _ = split(text)
+    lines = re.sub(r'```.*?```', '', body, flags=re.S).split('\n')
+    rules, kind, inside = {}, None, top_section is None
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        h = HEADING.match(line)
+        if h:
+            title = h.group(2).strip().strip('`').strip()
+            if top_section is not None and len(h.group(1)) <= 2:
+                inside = title.lower() == top_section.lower()
+                kind = 'all' if inside else None
+            elif inside and top_section is None:
+                if title.lower() == 'all notes':
+                    kind = 'all'
+                elif re.fullmatch(r'[a-z0-9][a-z0-9-]*', title):
+                    kind = title
+                else:
+                    kind = None
+            i += 1
+            continue
+        if inside and kind and ROW.match(line) and [c.lower() for c in cells(line)][:3] == ['key', 'required', 'values']:
+            r = rules.setdefault(kind, new_kind())
+            i += 2   # the header and its --- line
+            while i < len(lines) and ROW.match(lines[i]):
+                c = cells(lines[i]) + ['', '']
+                key = c[0].strip('`').strip()
+                if key:
+                    r['keys'][key] = (c[1], c[2])
+                i += 1
+            continue
+        if inside and kind and re.fullmatch(r'Headings, in order:?', line.strip()):
+            r = rules.setdefault(kind, new_kind())
+            r['headings'] = []
+            i += 1
+            while i < len(lines):
+                s = lines[i].strip()
+                if not s:
+                    if r['headings'] and not (i + 1 < len(lines) and ITEM.match(lines[i + 1])):
+                        break
+                elif ITEM.match(s):
+                    item = re.sub(r'^\d+\.\s*', '', s)
+                    if item.startswith('(no others)'):
+                        r['only'] = True
+                    else:
+                        m = TICKS.search(item)
+                        r['headings'].append((m.group(1) if m else item).strip())
+                else:
+                    break
+                i += 1
+            continue
+        i += 1
+    return rules
+
+
+def merge(*sets):
+    """Rules of later sets (a subfolder's) expand on earlier ones (its folder's), key by key."""
+    out = {}
+    for s in sets:
+        for kind, r in s.items():
+            o = out.setdefault(kind, new_kind())
+            o['keys'].update(r['keys'])
+            if r['headings'] is not None:
+                o['headings'], o['only'] = r['headings'], r['only']
+    return out
+
+
+README_RULES = parse_rules(read('README.md'), 'Note rules') if 'README.md' in files else {}
+NOTE_RULES = {}   # folder path -> its Note Rules
+for rel in files:
+    if rel.endswith(' Note Rules.md') and '/' in rel:
+        NOTE_RULES[rel.rsplit('/', 1)[0]] = parse_rules(read(rel))
+
+
+def folder_rules(rel):
+    parts = rel.split('/')[:-1]
+    return merge(*[NOTE_RULES[p] for p in ('/'.join(parts[:n]) for n in range(1, len(parts) + 1)) if p in NOTE_RULES])
+
+
+def exempt(rel):
+    """The root notes (README, Changelog, Rangoric SRD, Tag Register) and legal/ (Note Rules plan, Decision 5)."""
+    return '/' not in rel or rel.startswith('legal/')
+
+
+def is_date(v):
+    if isinstance(v, (datetime.date, datetime.datetime)):
+        return True
+    return isinstance(v, str) and bool(re.fullmatch(r'\d{4}-\d{2}-\d{2}([ T].*)?', v.strip()))
+
+
+def show(v):
+    s = v if isinstance(v, str) else json.dumps(v, default=str)
+    return s if len(s) <= 40 else s[:37] + '...'
+
+
+def match_one(v, spec):
+    """None if v matches a single-value spec (a Values cell, not a list form), else a short reason."""
+    s = spec.strip()
+    if not s:
+        return None
+    m = re.fullmatch(r'(?:a\s+)?links?\s+to\s+(\S+)', s)
+    if m:
+        folder = m.group(1).strip('`').rstrip('/')
+        targets = [x.group(1) for x in WIKI.finditer(v)] if isinstance(v, str) else []
+        if not targets:
+            return 'not a link'
+        for t in targets:
+            t = t[len(PREFIX):] if t.startswith(PREFIX) else t
+            hits = [t] if '/' in t else [p[:-3] for p in names.get(t.lower(), [])]
+            if not any(h.startswith(folder + '/') for h in hits):
+                return f'not a link to {folder}'
+        return None
+    words, rest = TICKS.findall(s), TICKS.sub('', s)
+    if not words and rest.strip().lower() in ('number', 'text', 'date'):
+        words, rest = [rest.strip().lower()], ''
+    if words and re.fullmatch(r'[\s,]*(?:(?:or|and)[\s,]*)*', rest):
+        for w in words:
+            if w == 'number' and isinstance(v, (int, float)) and not isinstance(v, bool):
+                return None
+            if w == 'text' and isinstance(v, str):
+                return None
+            if w == 'date' and is_date(v):
+                return None
+            if w in ('true', 'false') and isinstance(v, bool) and str(v).lower() == w:
+                return None
+            if isinstance(v, (str, int, float)) and not isinstance(v, bool) and fnmatch.fnmatchcase(str(v), w):
+                return None
+        return 'not allowed'
+    return None   # prose: Sweep reads it
+
+
+def check_value(key, v, spec):
+    s = spec.strip()
+    m = re.fullmatch(r'list\s+including\s+(.*)', s)
+    if m:
+        if not isinstance(v, list):
+            return f'{key} not a list'
+        missing = [w for w in TICKS.findall(m.group(1)) if not any(fnmatch.fnmatchcase(str(x), w) for x in v)]
+        return f'{key} lacks {", ".join(missing)}' if missing else None
+    m = re.fullmatch(r'list\s+of\s+(.*)', s)
+    if m:
+        if not isinstance(v, list):
+            return f'{key} not a list'
+        inner = re.sub(r'^(numbers|texts|dates)$', lambda x: x.group(1)[:-1], m.group(1).strip())
+        for x in v:
+            why = match_one(x, inner)
+            if why:
+                return f'{key} item {why}: {show(x)}'
+        return None
+    why = match_one(v, s)
+    if why == 'not allowed':
+        return f'{key} not allowed: {show(v)}'
+    return f'{key} {why}' if why else None
+
+
+def required(req, data):
+    if req.strip().lower() == 'yes':
+        return True
+    m = re.fullmatch(r'when\s+`([^`]+)`\s+is\s+(not\s+)?`([^`]*)`', req.strip(), flags=re.I)
+    if m:
+        return (m.group(1) in data and str(data[m.group(1)]) == m.group(3)) != bool(m.group(2))
+    return False
+
+
+def apply_table(keys, data, out):
+    for key, (req, spec) in keys.items():
+        if key not in data or data[key] is None:
+            if required(req, data):
+                out.append(f'no {key}')
+            continue
+        why = check_value(key, data[key], spec)
+        if why:
+            out.append(why)
+
+
+def check_headings(rel, body, r, out):
+    want = r['headings']
+    if want is None:
+        return
+    name = rel.rsplit('/', 1)[-1][:-3]
+    have = [(len(h.group(1)), h.group(2).strip()) for h in map(HEADING.match, strip_code(body).split('\n')) if h]
+
+    def same(w, h):
+        lvl = len(w) - len(w.lstrip('#'))
+        text = w[lvl:].strip()
+        return h[0] == lvl and h[1] == (name if text == '(name)' else text)
+
+    i = 0
+    for w in want:
+        j = next((k for k in range(i, len(have)) if same(w, have[k])), None)
+        shown = w.replace('(name)', name)
+        if j is None:
+            out.append(f'heading out of order: {shown}' if any(same(w, h) for h in have) else f'no heading {shown}')
+            continue
+        if r['only']:
+            out.extend(f'heading not in Note Rules: {"#" * h[0]} {h[1]}' for h in have[i:j])
+        i = j + 1
+    if r['only']:
+        out.extend(f'heading not in Note Rules: {"#" * h[0]} {h[1]}' for h in have[i:]
+                   if not any(same(w, h) for w in want))
+
+
+def rule_problems(rel, data, body):
+    """The note's problems against the written rules, in the checker's words (also its sweep-issues lines)."""
+    if exempt(rel):
+        return []
+    out = []
+    folder = folder_rules(rel)
+    data = {k: v for k, v in data.items() if k not in ('sweep', 'sweep-issues')}
+    if 'all' in README_RULES:
+        apply_table(README_RULES['all']['keys'], data, out)
+    if 'all' in folder:
+        apply_table(folder['all']['keys'], data, out)
+        check_headings(rel, body, folder['all'], out)
+    kinds = [k for k in folder if k != 'all']
+    kind = data.get('srd-type')
+    if kinds and kind is not None and kind != 'note-rules':   # a Note Rules note is held to the README only
+        if str(kind) in folder:
+            apply_table(folder[str(kind)]['keys'], data, out)
+            check_headings(rel, body, folder[str(kind)], out)
+        else:
+            out.append(f'srd-type not in Note Rules: {show(kind)}')
+    return list(dict.fromkeys(out))
+
+
+def yaml_item(s):
+    """A sweep-issues line as a YAML list item: plain where it loads back as itself, else double quoted."""
+    try:
+        if yaml.safe_load(s) == s and not re.search(r':\s|\s#', s):
+            return s
+    except yaml.YAMLError:
+        pass
+    return json.dumps(s, ensure_ascii=False)
+
+
+# ---- the check ----
+
+problems, warnings = [], []
+marks = {}   # rel -> its problems, for --baseline
 
 for rel in sorted(f for f in files if f.endswith('.md')):
-    text = open(os.path.join(ROOT, rel), encoding='utf-8').read().replace('\r\n', '\n')
-    body = text
+    if FOLDER and not rel.startswith(FOLDER.rstrip('/') + '/'):
+        continue
+    text = read(rel)
     links = problems if CHANGED is None or rel in CHANGED else warnings
-    if text.startswith('---\n'):
-        end = text.find('\n---', 3)
-        if end == -1:
-            problems.append(f'{rel}: frontmatter has no closing ---'); continue
-        fm, body = text[4:end], text[end + 4:]
+    fm, body, err = split(text)
+    data = {}
+    if err:
+        problems.append(f'{rel}: {err}'); continue
+    if fm is not None:
         try:
-            data = yaml.load(fm, Loader=Strict) if fm.strip() else {}
-            if data is not None and not isinstance(data, dict):
-                problems.append(f'{rel}: frontmatter is not a set of keys')
+            data = (yaml.load(fm, Loader=Strict) if fm.strip() else {}) or {}
+            if not isinstance(data, dict):
+                problems.append(f'{rel}: frontmatter is not a set of keys'); continue
         except yaml.YAMLError as e:
-            problems.append(f'{rel}: frontmatter: {str(e).splitlines()[0]}')
+            problems.append(f'{rel}: frontmatter: {str(e).splitlines()[0]}'); continue
         for m in WIKI.finditer(fm):   # only links into the SRD; based-on points at the sources
             if m.group(1).startswith(PREFIX) and not exists(m.group(1)):
                 links.append(f'{rel}: frontmatter link has no target: [[{m.group(1)}]]')
-    body = re.sub(r'```.*?```', '', body, flags=re.S)
-    body = re.sub(r'`[^`\n]*`', '', body)
+
+    found = rule_problems(rel, data, body)
+    marked = data.get('sweep') == 'failing'
+    listed = data.get('sweep-issues') or []
+    listed = [str(x) for x in listed] if isinstance(listed, list) else [str(listed)]
+    if BASELINE:
+        if found != (listed if marked else []) or ('sweep' in data and not marked) or ('sweep-issues' in data and not found):
+            marks[rel] = found
+    else:
+        if 'sweep' in data and not marked:
+            problems.append(f'{rel}: sweep is {show(data["sweep"])}; the only mark is `failing`')
+        if 'sweep-issues' in data and not marked:
+            problems.append(f'{rel}: sweep-issues without sweep: failing')
+        if marked and rel in ADDED:
+            problems.append(f'{rel}: a note this change adds can\'t be marked sweep: failing; fix it instead')
+        for p in found:
+            (warnings if marked and p in listed else problems).append(f'{rel}: {p}' + (' (marked failing)' if marked and p in listed else ''))
+        if marked and not found:
+            warnings.append(f'{rel}: no problems left; drop sweep and sweep-issues')
+        elif marked:
+            warnings.extend(f'{rel}: fixed, drop it from sweep-issues: {p}' for p in listed if p not in found)
+
     if rel == 'Changelog.md':
         continue
+    body = strip_code(body)
     for m in WIKI.finditer(body):
         t = m.group(1)
         if not t or ('/' in t and not t.startswith(PREFIX)):
@@ -101,10 +432,28 @@ for rel in sorted(f for f in files if f.endswith('.md')):
         if p not in files and p + '.md' not in files:
             links.append(f'{rel}: link has no target: ({t})')
 
+if BASELINE:
+    added = dropped = 0
+    for rel, found in sorted(marks.items()):
+        text = read(rel)
+        if not text.startswith('---\n'):
+            text = '---\n---\n' + text
+        if found:
+            text = F.set_key(text, 'sweep', 'failing', name=rel)
+            text = F.set_key(text, 'sweep-issues', '\n' + '\n'.join(f'  - {yaml_item(p)}' for p in found), name=rel)
+            added += 1
+        else:
+            text = F.remove_key(F.remove_key(text, 'sweep-issues', rel), 'sweep', rel)
+            dropped += 1
+        with open(os.path.join(ROOT, rel), 'w', encoding='utf-8', newline='\n') as fh:
+            fh.write(text)
+        print(f'marked {rel}: {"; ".join(found)}' if found else f'unmarked {rel}')
+    print(f'baseline: {added} note(s) marked, {dropped} unmarked')
+    sys.exit(0)
+
 for w in warnings:
     print(f'::warning::{w}')
 for p in problems:
     print(f'::error::{p}')
-print(f'{len(problems)} problem(s); {len(warnings)} warning(s) in notes this change left alone; '
-      f'{len([f for f in files if f.endswith(".md")])} notes')
+print(f'{len(problems)} problem(s); {len(warnings)} warning(s); {len([f for f in files if f.endswith(".md")])} notes')
 sys.exit(1 if problems else 0)

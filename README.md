@@ -10,3 +10,21 @@ and [legal/Source Product Identity.md](legal/Source%20Product%20Identity.md).
 
 Changes arrive as pull requests, one per batch of work, each reviewed before it's merged. Every departure from the
 source rules is listed in the [Changelog](Changelog.md).
+
+## Note rules
+
+Every note has these, except the root notes (this README, the Changelog, Rangoric SRD and the Tag Register) and
+`legal/`. What each key means is in [Rangoric SRD's Properties](Rangoric%20SRD.md#properties). Each folder's
+`<Folder> Note Rules.md` says what its own notes look like, and the "Check notes" workflow checks both. A note that
+doesn't meet them yet is marked `sweep: failing`, with one line per problem under `sweep-issues`, and its folder's
+Note Rules note lists it.
+
+| Key | Required | Values |
+| --- | --- | --- |
+| `srd-type` | yes | `text` |
+| `status` | yes | `base`, `draft`, `playtest`, `settled`, `replaced` |
+| `change` | yes | `copied`, `modified`, `new` |
+| `pi-review` | yes | |
+| `tags` | yes | list including `rangoric` and `rangoric/*` |
+| `based-on` | when `change` is not `new` | |
+| `replaced-by` | when `status` is `replaced` | |

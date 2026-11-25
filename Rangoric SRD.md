@@ -56,7 +56,7 @@ Every copied note keeps the SRD's own properties (`srd-type`, `school`, `level`,
 ```yaml
 based-on:                  # links to the notes it came from
   - "[[fantasy srd 3.5/feats/Power Attack|Power Attack (3.5)]]"
-status: base               # base (unchanged copy), draft, playtest, settled
+status: base               # base (unchanged copy), draft, playtest, settled, replaced (with replaced-by)
 change: copied             # copied, modified, new
 pi-review: scanned 2026-10-15   # scanned (scanner clean, not read), flagged (see pi-flags), or a date (reviewed in full)
 tags: [rangoric, rangoric/feat]
