@@ -9,7 +9,29 @@ tags: [rangoric, rangoric/note-rules]
 
 # Feats Note Rules
 
-What the notes in `feats` look like. No folder rules yet: the whole-SRD rules in the [README](../README.md#note-rules) apply.
+What the notes in `feats` look like. The whole-SRD rules are in the [README](../README.md#note-rules); Sweep and the "Check notes" workflow check both.
+
+## feat
+
+| Key             | Required | Values                                  |
+| --------------- | -------- | --------------------------------------- |
+| `srd-type`      | yes      | `feat`                                  |
+| `section`       | yes      | `Feats`                                 |
+| `prerequisites` | no       | `text`                                  |
+| `feat-type`     | no       | `General`, `Metamagic`, `Item Creation` |
+| `book`          | no       | `text`                                  |
+
+Headings, in order:
+
+1. `# (name)`
+
+## overview
+
+| Key        | Required | Values     |
+| ---------- | -------- | ---------- |
+| `srd-type` | yes      | `overview` |
+| `section`  | yes      | `Feats`    |
+| `book`     | no       |            |
 
 ## Failing notes
 
