@@ -102,12 +102,17 @@ Deep halflings are a [[rangoric-srd/races/Halfling#Subtypes|subtype of the halfl
 These halflings with class levels are described on their own:
 
   - Adepts: [[rangoric-srd/monsters/halfling/Healer|Healer]] (CR 7)
+  - Arcane tricksters: [[rangoric-srd/monsters/halfling/Arcanothief|Arcanothief]] (CR 12)
   - Barbarians: [[rangoric-srd/monsters/halfling/Dog Rider|Dog Rider]] (CR 3), [[rangoric-srd/monsters/halfling/Cannibalistic Hunter|Cannibalistic Hunter]] (CR 9)
   - Bards: [[rangoric-srd/monsters/halfling/Taunting Comedian|Taunting Comedian]] (CR 3), [[rangoric-srd/monsters/halfling/Notorious Foil|Notorious Foil]] (CR 16)
   - Clerics: [[rangoric-srd/monsters/halfling/Carousing Champion|Carousing Champion]] (CR 5), [[rangoric-srd/monsters/halfling/Elemental Priest|Elemental Priest]] (CR 15)
   - Druids: [[rangoric-srd/monsters/halfling/Evasive Slip|Evasive Slip]] (CR 5), [[rangoric-srd/monsters/halfling/Sea Captain|Sea Captain]] (CR 7), [[rangoric-srd/monsters/halfling/Dark Nature Priest|Dark Nature Priest]] (CR 17)
   - Fighters: [[rangoric-srd/monsters/halfling/Murderous Halfling|Murderous Halfling]] (CR 3), [[rangoric-srd/monsters/halfling/Halfling Slinger|Halfling Slinger]] (CR 8), [[rangoric-srd/monsters/halfling/Arcane Pretender|Arcane Pretender]] (CR 13)
+  - Loremasters: [[rangoric-srd/monsters/halfling/Divine Loremaster|Divine Loremaster]] (CR 8)
   - Monks: [[rangoric-srd/monsters/halfling/Nimble Shuriken Thrower|Nimble Shuriken Thrower]] (CR 5), [[rangoric-srd/monsters/halfling/Little Fist|Little Fist]] (CR 13)
+  - Mystic theurges: [[rangoric-srd/monsters/halfling/Sound Warrior|Sound Warrior]] (CR 12)
   - Paladins: [[rangoric-srd/monsters/halfling/Dog Rider Knight|Dog Rider Knight]] (CR 6), [[rangoric-srd/monsters/halfling/Furious Crusader|Furious Crusader]] (CR 17)
   - Rangers: [[rangoric-srd/monsters/halfling/Town Watcher|Town Watcher]] (CR 1), [[rangoric-srd/monsters/halfling/Pirate Queen|Pirate Queen]] (CR 9)
   - Rogues: [[rangoric-srd/monsters/halfling/Guild Initiate|Guild Initiate]] (CR 4), [[rangoric-srd/monsters/halfling/Dagger Master|Dagger Master]] (CR 17)
+  - Sorcerers: [[rangoric-srd/monsters/halfling/Lucky Mage|Lucky Mage]] (CR 10), [[rangoric-srd/monsters/halfling/Natural Arcanist|Natural Arcanist]] (CR 15)
+  - Wizards: [[rangoric-srd/monsters/halfling/Thunder Wizard|Thunder Wizard]] (CR 6)
