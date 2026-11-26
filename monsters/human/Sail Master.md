@@ -16,7 +16,7 @@ full-attack: "Masterwork club +5 melee (1d6+3); or shortspear +2 ranged (1d6+3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Nature bond (Weather domain), nature sense, wild empathy +2, woodland stride"
-saves: "Fort +5, Ref +1, Will +4"
+defenses: "Fort 15, Ref 11, Will 14"
 abilities: "Str 17, Dex 13, Con 14, Int 8, Wis 12, Cha 10"
 skills: "Animal Handling +5, Athletics +5, Fieldcraft +7, Medicine +5, Nature +1, Perception +5, Profession (sailor) +5, Society +3"
 skill-ranks: "Animal Handling 2, Athletics 2, Fieldcraft 3, Medicine 1, Nature 2, Perception 1, Profession (sailor) 3, Society 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/classes/Druid#^druid-nature-bond|Nature bond]] (Weather domain), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +2, [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]]
-- **Saves**: Fort +5, Ref +1, Will +4
+- **Defenses**: Fort 15, Ref 11, Will 14
 - **Abilities**: Str 17, Dex 13, Con 14, Int 8, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Medicine|Medicine]] +5, [[rangoric-srd/skills/Nature|Nature]] +1, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Profession|Profession]] (sailor) +5, [[rangoric-srd/skills/Society|Society]] +3
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Shield Focus|Shield Focus]]
@@ -71,4 +71,4 @@ A sail master speaks Common and Druidic.
 
 **Domain Spell-Like Abilities** (CL 2nd; concentration +3): 4/day—_[[rangoric-srd/class-options/domains/Weather Domain|storm burst]]_.
 
-**Druid spells prepared** (CL 2nd; concentration +3): 1st—_[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]], [[rangoric-srd/spells/Jump (Spell)|jump]]_, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_ <sup>D</sup>, _[[rangoric-srd/spells/Shillelagh|shillelagh]]_; 0 (at will)—_[[rangoric-srd/spells/Flare|flare]]_ (DC 11), _[[rangoric-srd/spells/Know Direction|know direction]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_; <sup>D</sup> domain spell; **Domain**: [[rangoric-srd/class-options/domains/Weather Domain|Weather]].
+**Druid spells prepared** (CL 2nd; concentration +3): 1st—_[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]], [[rangoric-srd/spells/Jump (Spell)|jump]]_, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_ <sup>D</sup>, _[[rangoric-srd/spells/Shillelagh|shillelagh]]_; 0 (at will)—_[[rangoric-srd/spells/Flare|flare]]_ (+1 vs Fortitude), _[[rangoric-srd/spells/Know Direction|know direction]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_; <sup>D</sup> domain spell; **Domain**: [[rangoric-srd/class-options/domains/Weather Domain|Weather]].

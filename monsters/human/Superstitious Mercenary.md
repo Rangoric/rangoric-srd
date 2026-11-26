@@ -16,7 +16,7 @@ full-attack: "Longsword +4 melee (1d8+3/19–20); or cold iron dagger +4 melee (
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +3, Ref +2, Will +3"
+defenses: "Fort 13, Ref 12, Will 13"
 abilities: "Str 17, Dex 14, Con 12, Int 8, Wis 13, Cha 10"
 skills: "Fieldcraft +5, Medicine +2, Perception +2"
 skill-ranks: "Fieldcraft 1, Medicine 1, Perception 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +3, Ref +2, Will +3
+- **Defenses**: Fort 13, Ref 12, Will 13
 - **Abilities**: Str 17, Dex 14, Con 12, Int 8, Wis 13, Cha 10
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Medicine|Medicine]] +2, [[rangoric-srd/skills/Perception|Perception]] +2
 - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]]

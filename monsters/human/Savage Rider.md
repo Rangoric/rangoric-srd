@@ -16,7 +16,7 @@ full-attack: "+1 lance +21/+16/+11 melee (1d8+8/×3); or masterwork composite lo
 space-reach: "5 ft./5 ft. (10 ft. with lance)"
 special-attacks: "Greater rage (32 rounds/day), rage powers (guarded stance +3, mighty swing, renewed vigor 3d8+10, rolling dodge +3, strength surge +13, superstition +5)"
 special-qualities: "Improved uncanny dodge, trap sense +4, fast movement, damage reduction 3/—"
-saves: "Fort +16, Ref +6, Will +9 (+5 vs. spells and spell-like or supernatural abilities)"
+defenses: "Fort 26, Ref 16, Will 19 (+5 vs. spells and spell-like or supernatural abilities)"
 abilities: "Str 24, Dex 13, Con 24, Int 10, Wis 12, Cha 8"
 skills: "Acrobatics +11, Animal Handling +22, Athletics +10, Fieldcraft +13, Nature +10, Perception +17"
 skill-ranks: "Acrobatics 7, Animal Handling 22, Athletics 3, Fieldcraft 9, Nature 7, Perception 13"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with lance)
 - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-greater-rage|Greater rage]] (32 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Guarded Stance (Rage Power)|guarded stance]] +3, [[rangoric-srd/class-options/rage-powers/Mighty Swing (Rage Power)|mighty swing]], [[rangoric-srd/class-options/rage-powers/Renewed Vigor (Rage Power)|renewed vigor]] 3d8+10, [[rangoric-srd/class-options/rage-powers/Rolling Dodge (Rage Power)|rolling dodge]] +3, [[rangoric-srd/class-options/rage-powers/Strength Surge (Rage Power)|strength surge]] +13, [[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] +5)
 - **Special Qualities**: [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|Improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +4, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/classes/Barbarian#^barbarian-damage-reduction|damage reduction]] 3/—
-- **Saves**: Fort +16, Ref +6, Will +9 (+5 vs. spells and spell-like or supernatural abilities)
+- **Defenses**: Fort 26, Ref 16, Will 19 (+5 vs. spells and spell-like or supernatural abilities)
 - **Abilities**: Str 24, Dex 13, Con 24, Int 10, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +22, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +13, [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +17
 - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling), [[rangoric-srd/feats/Spirited Charge|Spirited Charge]], [[rangoric-srd/feats/Unseat|Unseat]]

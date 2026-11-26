@@ -16,7 +16,7 @@ full-attack: "Masterwork scimitar +6 melee (1d6+1/18–20); or masterwork heavy 
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +4, Ref +4, Will +0"
+defenses: "Fort 14, Ref 14, Will 10"
 abilities: "Str 12, Dex 16, Con 11, Int 10, Wis 8, Cha 9"
 skills: "Acrobatics +6, Athletics +17, Intimidation +6, Profession (sailor) +3"
 skill-ranks: "Acrobatics 3, Athletics 13, Intimidation 4, Profession (sailor) 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +4, Ref +4, Will +0
+- **Defenses**: Fort 14, Ref 14, Will 10
 - **Abilities**: Str 12, Dex 16, Con 11, Int 10, Wis 8, Cha 9
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Profession|Profession]] (sailor) +3
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Toughness|Toughness]]

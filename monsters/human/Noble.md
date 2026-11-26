@@ -15,7 +15,7 @@ full-attack: "Masterwork rapier +10/+5 melee (1d6–1/18–20); or silver dagger
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +5, Ref +6, Will +8"
+defenses: "Fort 15, Ref 16, Will 18"
 abilities: "Str 8, Dex 14, Con 12, Int 10, Wis 10, Cha 13"
 skills: "Animal Handling +6, Deception +16, Imitation +10, Intimidation +11, Linguistics +6, Perception +5, Perform (dance) +10, Perform (sing) +10, Perform (string) +10, Persuasion +23, Sense Motive +10, Society +10"
 skill-ranks: "Animal Handling 1, Deception 12, Imitation 6, Intimidation 6, Linguistics 3, Perception 2, Perform (dance) 7, Perform (sing) 7, Perform (string) 7, Persuasion 23, Sense Motive 7, Society 7"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +5, Ref +6, Will +8
+- **Defenses**: Fort 15, Ref 16, Will 18
 - **Abilities**: Str 8, Dex 14, Con 12, Int 10, Wis 10, Cha 13
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Imitation|Imitation]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Linguistics|Linguistics]] +6, [[rangoric-srd/skills/Perception|Perception]] +5, Perform (dance) +10, Perform (sing) +10, Perform (string) +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +23, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Society|Society]] +10
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion, Intimidation), [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

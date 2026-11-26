@@ -15,7 +15,7 @@ full-attack: "Scimitar +2 melee (1d6+1/18–20); or dagger +2 melee (1d4+1/19–
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: ""
-saves: "Fort +3, Ref +1, Will +2"
+defenses: "Fort 13, Ref 11, Will 12"
 abilities: "Str 13, Dex 13, Con 12, Int 8, Wis 10, Cha 9"
 skills: "Acrobatics +5, Athletics +5, Craft (ships) +3, Fieldcraft +4, Perception +4, Profession (fisherman) +4, Profession (sailor) +8"
 skill-ranks: "Acrobatics 1, Athletics 1, Craft (ships) 1, Fieldcraft 1, Perception 1, Profession (fisherman) 2, Profession (sailor) 6"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**:
-- **Saves**: Fort +3, Ref +1, Will +2
+- **Defenses**: Fort 13, Ref 11, Will 12
 - **Abilities**: Str 13, Dex 13, Con 12, Int 8, Wis 10, Cha 9
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Craft|Craft]] (ships) +3, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Profession|Profession]] (fisherman) +4, [[rangoric-srd/skills/Profession|Profession]] (sailor) +8
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Profession \[sailor\])

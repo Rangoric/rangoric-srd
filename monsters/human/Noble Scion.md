@@ -15,7 +15,7 @@ full-attack: "Masterwork longsword +5 melee (1d8+1/19–20); or masterwork lance
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +1, Ref +2, Will +3"
+defenses: "Fort 11, Ref 12, Will 13"
 abilities: "Str 12, Dex 12, Con 11, Int 10, Wis 8, Cha 13"
 skills: "Animal Handling +6, Deception +5, Intimidation +8, Linguistics +5, Perception +3, Perform (dance) +5, Persuasion +8, Sense Motive +3, Society +5"
 skill-ranks: "Animal Handling 2, Deception 1, Intimidation 4, Linguistics 2, Perception 1, Perform (dance) 2, Persuasion 4, Sense Motive 1, Society 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +1, Ref +2, Will +3
+- **Defenses**: Fort 11, Ref 12, Will 13
 - **Abilities**: Str 12, Dex 12, Con 11, Int 10, Wis 8, Cha 13
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Perception|Perception]] +3, Perform (dance) +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +3, [[rangoric-srd/skills/Society|Society]] +5
 - **Feats**: [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Trample|Trample]]

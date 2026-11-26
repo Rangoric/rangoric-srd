@@ -15,7 +15,7 @@ full-attack: "Dagger +1 melee (1d4–1/19–20); or dagger +2 ranged (1d4–1/19
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +1, Ref +1, Will +4"
+defenses: "Fort 11, Ref 11, Will 14"
 abilities: "Str 9, Dex 10, Con 10, Int 11, Wis 13, Cha 12"
 skills: "Appraise +6, Deception +10, Imitation +4, Linguistics +6, Perception +9, Persuasion +7, Profession (merchant) +10, Sense Motive +7, Society +6"
 skill-ranks: "Appraise 3, Deception 5, Imitation 2, Linguistics 3, Perception 4, Persuasion 3, Profession (merchant) 7, Sense Motive 5, Society 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +1, Ref +1, Will +4
+- **Defenses**: Fort 11, Ref 11, Will 14
 - **Abilities**: Str 9, Dex 10, Con 10, Int 11, Wis 13, Cha 12
 - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Imitation|Imitation]] +4, [[rangoric-srd/skills/Linguistics|Linguistics]] +6, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Profession|Profession]] (merchant) +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Society|Society]] +6
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Perception, Profession \[merchant\])

@@ -15,7 +15,7 @@ full-attack: "Dagger +4 melee (1d4–1/19–20); or masterwork light crossbow +5
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +2, Ref +1, Will +5"
+defenses: "Fort 12, Ref 11, Will 15"
 abilities: "Str 8, Dex 9, Con 10, Int 14, Wis 11, Cha 14"
 skills: "Animal Handling +10, Appraise +12, Deception +15, Imitation +4, Intimidation +2, Linguistics +12, Perception +13, Persuasion +13, Profession (merchant) +13, Sense Motive +10, Society +10"
 skill-ranks: "Animal Handling 5, Appraise 7, Deception 9, Imitation 1, Intimidation 2, Linguistics 7, Perception 9, Persuasion 7, Profession (merchant) 8, Sense Motive 9, Society 5"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +2, Ref +1, Will +5
+- **Defenses**: Fort 12, Ref 11, Will 15
 - **Abilities**: Str 8, Dex 9, Con 10, Int 14, Wis 11, Cha 14
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Appraise|Appraise]] +12, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Imitation|Imitation]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +2, [[rangoric-srd/skills/Linguistics|Linguistics]] +12, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Persuasion|Persuasion]] +13, [[rangoric-srd/skills/Profession|Profession]] (merchant) +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Society|Society]] +10
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Perception, Persuasion, Profession \[merchant\])

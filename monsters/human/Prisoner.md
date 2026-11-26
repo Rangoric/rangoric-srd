@@ -15,7 +15,7 @@ full-attack: "Improvised dagger +2 melee (1d4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +3, Ref +0, Will +5"
+defenses: "Fort 13, Ref 10, Will 15"
 abilities: "Str 9, Dex 8, Con 14, Int 13, Wis 12, Cha 10"
 skills: "Athletics +5, Craft (choose one) +8, Dungeoneering +8, Engineering +8, Escape Artist +5, Fieldcraft +8, Perception +8, Profession (choose one) +8, Sleight of Hand +5"
 skill-ranks: "Athletics 3, Craft (choose one) 4, Dungeoneering 4, Engineering 4, Escape Artist 3, Fieldcraft 4, Perception 4, Profession (choose one) 4, Sleight of Hand 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +3, Ref +0, Will +5
+- **Defenses**: Fort 13, Ref 10, Will 15
 - **Abilities**: Str 9, Dex 8, Con 14, Int 13, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Craft|Craft]] (choose one) +8, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +8, [[rangoric-srd/skills/Engineering|Engineering]] +8, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Profession|Profession]] (choose one) +8, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5
 - **Feats**: [[rangoric-srd/feats/Catch Off-Guard|Catch Off-Guard]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]]

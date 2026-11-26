@@ -16,7 +16,7 @@ full-attack: "Dagger +1 melee (1d4/19–20); or dagger +3 ranged (1d4/19–20)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Bardic performance 9 rounds/day (countersong, distraction, fascinate, inspire courage +1)"
 special-qualities: "Bardic knowledge +1, versatile performance (wind)"
-saves: "Fort +1, Ref +5, Will +4 (+4 vs. bardic performance, language-dependent, and sonic)"
+defenses: "Fort 11, Ref 15, Will 14 (+4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 10, Dex 14, Con 13, Int 8, Wis 12, Cha 17"
 skills: "Acrobatics +5, Animal Handling +8, Deception +7, Perception +5, Perform (wind) +8, Persuasion +8, Sense Motive +5, Sleight of Hand +7, Society +4, Stealth +5"
 skill-ranks: "Acrobatics 3, Animal Handling 2, Deception 1, Perception 1, Perform (wind) 6, Persuasion 2, Sense Motive 1, Sleight of Hand 2, Society 2, Stealth 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Bard#^bardic-music|Bardic performance]] 9 rounds/day (countersong, distraction, fascinate, inspire courage +1)
 - **Special Qualities**: [[rangoric-srd/classes/Bard|Bardic knowledge]] +1, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (wind)
-- **Saves**: Fort +1, Ref +5, Will +4 (+4 vs. bardic performance, language-dependent, and sonic)
+- **Defenses**: Fort 11, Ref 15, Will 14 (+4 vs. bardic performance, language-dependent, and sonic)
 - **Abilities**: Str 10, Dex 14, Con 13, Int 8, Wis 12, Cha 17
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Perception|Perception]] +5, Perform (wind) +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +7, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +5
 - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]]
@@ -71,4 +71,4 @@ A street performer speaks Common.
 
 **During Combat**: The bard stays at a safe distance, supporting allies with music and using spells to deter fights.
 
-**Bard spells known** (CL 2nd; concentration +5): 1st (3/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 14), _[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]_, _[[rangoric-srd/spells/Sleep|sleep]]_ (DC 14); 0 (at will)—_[[rangoric-srd/spells/Daze|daze]]_ (DC 13), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Flare|flare]]_ (DC 13), _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 13), _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_.
+**Bard spells known** (CL 2nd; concentration +5): 1st (3/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (+4 vs Will), _[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]_, _[[rangoric-srd/spells/Sleep|sleep]]_ (+4 vs Will); 0 (at will)—_[[rangoric-srd/spells/Daze|daze]]_ (+3 vs Will), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Flare|flare]]_ (+3 vs Fortitude), _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+3 vs Will), _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_.

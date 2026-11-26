@@ -16,7 +16,7 @@ full-attack: "+1 rapier +19/+14/+9 melee (1d6+8/15–20) and masterwork dagger +
 space-reach: "5 ft./5 ft."
 special-attacks: "Weapon training (light blades +2, bows +1)"
 special-qualities: "Bravery +3, armor training 3"
-saves: "Fort +10, Ref +10, Will +6 (+3 vs. fear)"
+defenses: "Fort 20, Ref 20, Will 16 (+3 vs. fear)"
 abilities: "Str 16, Dex 23, Con 14, Int 13, Wis 10, Cha 8"
 skills: "Acrobatics +17, Athletics +15, Deception +10, Perform (sing) +5, Sense Motive +9, Society +5"
 skill-ranks: "Acrobatics 8, Athletics 9, Deception 8, Perform (sing) 1, Sense Motive 6, Society 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (light blades +2, bows +1)
 - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +3, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 3
-- **Saves**: Fort +10, Ref +10, Will +6 (+3 vs. fear)
+- **Defenses**: Fort 20, Ref 20, Will 16 (+3 vs. fear)
 - **Abilities**: Str 16, Dex 23, Con 14, Int 13, Wis 10, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Deception|Deception]] +10, Perform (sing) +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Society|Society]] +5
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (rapier), [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Sickening Critical|Sickening Critical]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Two-Weapon Rend|Two-Weapon Rend]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (rapier), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (rapier)

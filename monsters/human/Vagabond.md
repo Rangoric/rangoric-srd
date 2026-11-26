@@ -15,7 +15,7 @@ full-attack: "Battleaxe +3 melee (1d8+1/×3); or dagger +3 melee (1d4+1/19–20)
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: ""
-saves: "Fort +3, Ref +1, Will –1"
+defenses: "Fort 13, Ref 11, Will 9"
 abilities: "Str 13, Dex 13, Con 12, Int 10, Wis 8, Cha 9"
 skills: "Animal Handling +3, Athletics +3, Fieldcraft +1, Perception +8, Sense Motive +0, Society +1"
 skill-ranks: "Animal Handling 1, Athletics 2, Fieldcraft 2, Perception 5, Sense Motive 3, Society 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**:
-- **Saves**: Fort +3, Ref +1, Will –1
+- **Defenses**: Fort 13, Ref 11, Will 9
 - **Abilities**: Str 13, Dex 13, Con 12, Int 10, Wis 8, Cha 9
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +3, [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +1, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +0, [[rangoric-srd/skills/Society|Society]] +1
 - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

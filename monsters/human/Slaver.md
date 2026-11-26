@@ -15,7 +15,7 @@ full-attack: "Masterwork guisarme +9 melee (2d4+4/×3); or masterwork sap +8 mel
 space-reach: "5 ft./5 ft. (10 ft. with guisarme)"
 special-attacks: "Favored enemy (humans +2)"
 special-qualities: "Bravery +1, track +1, wild empathy +1"
-saves: "Fort +8, Ref +5, Will +1 (+1 vs. fear)"
+defenses: "Fort 18, Ref 15, Will 11 (+1 vs. fear)"
 abilities: "Str 17, Dex 14, Con 14, Int 10, Wis 12, Cha 8"
 skills: "Animal Handling +7, Athletics +12, Fieldcraft +8 (+9 to follow tracks), Perception +8, Society +4, Stealth +9"
 skill-ranks: "Animal Handling 2, Athletics 6, Fieldcraft 4, Perception 4, Society 1, Stealth 4"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with guisarme)
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (humans +2)
 - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +1, [[rangoric-srd/classes/Ranger#^ranger-track|track]] +1, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +1
-- **Saves**: Fort +8, Ref +5, Will +1 (+1 vs. fear)
+- **Defenses**: Fort 18, Ref 15, Will 11 (+1 vs. fear)
 - **Abilities**: Str 17, Dex 14, Con 14, Int 10, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8 (+9 to follow tracks), [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (bolas), [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bolas), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (guisarme)

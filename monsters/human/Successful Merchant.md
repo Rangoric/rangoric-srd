@@ -16,7 +16,7 @@ full-attack: "Masterwork silver dagger +5 melee (1d4–1/19–20); or masterwork
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +3, Ref +2, Will +9"
+defenses: "Fort 13, Ref 12, Will 19"
 abilities: "Str 9, Dex 8, Con 10, Int 14, Wis 12, Cha 13"
 skills: "Animal Handling +9, Appraise +15, Deception +11, Fieldcraft +2, Intimidation +9, Perception +14, Persuasion +14, Profession (merchant) +11, Sense Motive +11, Society +12"
 skill-ranks: "Animal Handling 7, Appraise 10, Deception 7, Fieldcraft 1, Intimidation 7, Perception 9, Persuasion 9, Profession (merchant) 6, Sense Motive 9, Society 7"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +3, Ref +2, Will +9
+- **Defenses**: Fort 13, Ref 12, Will 19
 - **Abilities**: Str 9, Dex 8, Con 10, Int 14, Wis 12, Cha 13
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +9, [[rangoric-srd/skills/Appraise|Appraise]] +15, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +2, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Profession|Profession]] (merchant) +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Society|Society]] +12
 - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Appraise, Intimidation, Perception, Persuasion)

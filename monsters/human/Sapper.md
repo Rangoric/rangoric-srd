@@ -16,7 +16,7 @@ full-attack: "Masterwork dagger +3 melee (1d4–1/19–20); or masterwork dagger
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +1, Ref +4, Will +4"
+defenses: "Fort 11, Ref 14, Will 14"
 abilities: "Str 8, Dex 12, Con 10, Int 16, Wis 11, Cha 9"
 skills: "Acrobatics +9, Arcana +11, Athletics +7, Craft (alchemy) +11, Engineering +14, Escape Artist +9, Perception +8, Society +11, Stealth +12"
 skill-ranks: "Acrobatics 5, Arcana 5, Athletics 5, Craft (alchemy) 5, Engineering 8, Escape Artist 5, Perception 5, Society 5, Stealth 8"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +1, Ref +4, Will +4
+- **Defenses**: Fort 11, Ref 14, Will 14
 - **Abilities**: Str 8, Dex 12, Con 10, Int 16, Wis 11, Cha 9
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +11, [[rangoric-srd/skills/Engineering|Engineering]] +14, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Society|Society]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Knowledge \[engineering\], Stealth)
