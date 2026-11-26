@@ -14,7 +14,7 @@ manifesting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./ level)"
 target: "One creature"
 duration: "1 min./level"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "1"
 based-on:
@@ -34,7 +34,7 @@ Telepathy (Charm) \[Mind-Affecting\]
 **Range:** Medium (100 ft. + 10 ft./ level)  
 **Target:** One creature  
 **Duration:** 1 min./level  
-**Saving Throw:** Will negates  
+**Defense:** Will  
 **Power Resistance:** Yes  
 **Power Points:** 1
 

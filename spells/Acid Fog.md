@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "Fog spreads in 20-ft. radius, 20 ft. high"
 duration: "1 round/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Acid Fog|Acid Fog (3.5)]]"
@@ -38,7 +38,7 @@ _Conjuration (Creation) \[Acid\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: Fog spreads in 20-ft. radius, 20 ft. high
 - **Duration**: 1 round/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 Acid fog creates a billowing mass of misty vapors similar to that produced by a solid fog spell. In addition to slowing creatures down and obscuring sight, this spell’s vapors are highly acidic. Each round on your turn, starting when you cast the spell, the fog deals 2d6 points of acid damage to each creature and object within it.

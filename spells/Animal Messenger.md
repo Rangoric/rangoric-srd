@@ -23,7 +23,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One Tiny animal"
 duration: "One day/level"
-saving-throw: "None; see text"
+defense: "None; see text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Animal Messenger|Animal Messenger (3.5)]]"
@@ -43,7 +43,7 @@ _Enchantment (Compulsion) \[Mind-Affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One Tiny animal
 - **Duration**: One day/level
-- **Saving Throw**: None; see text
+- **Defense**: None; see text
 - **Spell Resistance**: Yes
 
 You compel a Tiny animal to go to a spot you designate. The most common use for this spell is to get an animal to carry a message to your allies. The animal cannot be one tamed or trained by someone else, including such creatures as familiars and animal companions.

@@ -11,7 +11,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "1-ft.-diameter/level sphere, centered around creatures or objects"
 duration: "1 min./level (D)"
-saving-throw: "Reflex negates (object)"
+defense: "Reflex (object)"
 power-resistance: "Yes (object)"
 power-points: "15"
 based-on:
@@ -31,7 +31,7 @@ Psychokinesis \[Force\]
 **Range:** Close (25 ft. + 5 ft./2 levels)  
 **Effect:** 1-ft.-diameter/level sphere, centered around creatures or objects  
 **Duration:** 1 min./level (D)  
-**Saving Throw:** Reflex negates (object)  
+**Defense:** Reflex (object)  
 **Power Resistance:** Yes (object)  
 **Power Points:** 15
 

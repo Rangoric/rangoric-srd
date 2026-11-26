@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature or object"
 duration: "Concentration, up to 1 round/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Occult Adventures"
 based-on:
@@ -36,7 +36,7 @@ _Divination_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature or object
 - **Duration**: Concentration, up to 1 round/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You peer into the aura of one target creature or object, gaining valuable information about its condition and nature. Each round, choose one of the target's four [[rangoric-srd/rules/Auras|auras]]. This spell functions similarly to the [[rangoric-srd/skills/Perception#Read Aura|read aura]] occult skill unlock, but doesn't require checks and returns results on all the target's auras in an instant.

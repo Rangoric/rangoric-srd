@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "Up to one willing creature per level, all within 30 ft. of each other"
 duration: "1 hour/level (D)"
-saving-throw: "None; see text"
+defense: "None; see text"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Animal Shapes|Animal Shapes (3.5)]]"
@@ -34,7 +34,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Targets**: Up to one willing creature per level, all within 30 ft. of each other
 - **Duration**: 1 hour/level (D)
-- **Saving Throw**: None; see text
+- **Defense**: None; see text
 - **Spell Resistance**: Yes (harmless)
 
 You transform up to one willing creature per caster level into an animal of your choice; the spell has no effect on unwilling creatures. Use the [[rangoric-srd/monsters/abilities/Alternate Form|alternate form]] special ability to determine each target’s new abilities. All creatures must take the same kind of animal form. Recipients remain in the animal form until the spell expires or until you dismiss it for all recipients. In addition, an individual subject may choose to resume its normal form as a full-round action; doing so ends the spell for that subject alone. The maximum HD of an assumed form is equal to the subject’s HD or your caster level, whichever is lower, to a maximum of 20 HD at 20th level.

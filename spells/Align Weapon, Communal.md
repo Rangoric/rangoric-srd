@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Weapons or projectiles touched"
 duration: "1 minute/level"
-saving-throw: "Will negates (harmless, object)"
+defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
 book: "Advanced Class Guide"
 based-on:
@@ -34,7 +34,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Weapons or projectiles touched
 - **Duration**: 1 minute/level
-- **Saving Throw**: Will negates (harmless, object)
+- **Defense**: Will (harmless, object)
 - **Spell Resistance**: Yes (harmless, object)
 
 This spell functions as _[[rangoric-srd/spells/Align Weapon|align weapon]]_, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-minute increments between any number of touched weapons. Every group of up to 50 projectiles (which must be together at the time of casting) counts as one weapon for the purpose of dividing the spell's duration.

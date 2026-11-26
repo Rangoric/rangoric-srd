@@ -22,7 +22,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 hour/level or until discharged"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "No"
 book: "Ultimate Combat"
 based-on:
@@ -43,7 +43,7 @@ _Conjuration (Creation) \[Force\]_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 hour/level or until discharged
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: No
 
 Invisible layers of solid force surround and protect the target, granting that target a +2 armor bonus to AC. Additionally, the first 5 points of lethal damage the target takes from each attack are converted into nonlethal damage. Against attacks that already deal nonlethal damage, the target gains DR 5/—. Once this spell has converted 5 points of damage to nonlethal damage per caster level (maximum 50 points), the spell is discharged.

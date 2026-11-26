@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One corpse"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -39,7 +39,7 @@ _Necromancy \[Evil\]_
 - **Range**: Touch
 - **Target**: One corpse
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell functions as _[[rangoric-srd/spells/Animate Dead|animate dead]]_, except you can only create a single Small or Medium skeleton or zombie. You cannot create variant skeletons or zombies with this spell.

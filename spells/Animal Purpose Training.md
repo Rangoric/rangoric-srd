@@ -25,7 +25,7 @@ casting-time: "1 minute"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One indifferent or friendly animal"
 duration: "1 hour/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Advanced Class Guide"
 based-on:
@@ -46,7 +46,7 @@ _Enchantment (Compulsion) \[Mind-affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One indifferent or friendly animal
 - **Duration**: 1 hour/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 You instill the target animal with a general purpose (see the Animal Handling skill), which can be any purpose except combat training—fighting, guarding, heavy labor, hunting, performance, or riding. This purpose supersedes the animal's previous trained purpose and any tricks it knows. When the spell ends, the animal reverts to its previous trained purpose and known tricks.

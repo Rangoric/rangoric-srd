@@ -9,7 +9,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "One Medium or smaller creature, or one object weighing 300 lb. or less"
 duration: "1 round/level; see text"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "5"
 based-on:
@@ -29,7 +29,7 @@ Psychoportation
 **Range:** Close (25 ft. + 5 ft./2 levels)  
 **Targets:** One Medium or smaller creature, or one object weighing 300 lb. or less  
 **Duration:** 1 round/level; see text  
-**Saving Throw:** Will negates  
+**Defense:** Will  
 **Power Resistance:** Yes  
 **Power Points:** 5
 

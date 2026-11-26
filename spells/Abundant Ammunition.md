@@ -19,7 +19,7 @@ components:
 casting-time: "1 standard action"
 target: "One container touched"
 duration: "1 minute/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Combat"
 based-on:
@@ -39,7 +39,7 @@ _Conjuration (Summoning)_
 - **Casting Time**: 1 standard action
 - **Target**: One container touched
 - **Duration**: 1 minute/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 When cast on a container such as a quiver or a pouch that contains nonmagical ammunition or shuriken (including masterwork ammunition or shuriken), at the start of each round this spell replaces any ammunition taken from the container the round before. The ammunition taken from the container the round before vanishes. If, after casting this spell, you cast a spell that enhances projectiles, such as _[[rangoric-srd/spells/Align Weapon|align weapon]]_ or _[[rangoric-srd/spells/Magic Weapon, Greater|greater magic weapon]]_, on the same container, all projectiles this spell conjures are affected by that spell.

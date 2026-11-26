@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "One missile of acid"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Acid Splash|Acid Splash (3.5)]]"
@@ -38,7 +38,7 @@ _Conjuration (Creation) \[Acid\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: One missile of acid
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You fire a small orb of acid at the target. You must succeed on a ranged touch attack to hit your target. The orb deals 1d3 points of acid damage.

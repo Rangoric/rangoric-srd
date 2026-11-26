@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One musical instrument"
 duration: "1 hour/level (D)"
-saving-throw: "Fortitude negates (object)"
+defense: "Fortitude (object)"
 spell-resistance: "Yes (object)"
 book: "Advanced Class Guide"
 based-on:
@@ -38,7 +38,7 @@ _Illusion (Figment)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One musical instrument
 - **Duration**: 1 hour/level (D)
-- **Saving Throw**: Fortitude negates (object)
+- **Defense**: Fortitude (object)
 - **Spell Resistance**: Yes (object)
 
 You alter an instrument so it sounds like a different kind of instrument you are familiar with. The change could be minor (such as making a lute sound like a guitar) or major (making a keyboard sound like drums). All other aspects of the instrument—such as volume, pitch, and how it is played—are unchanged. For example, a piccolo made to sound like an organ is no louder than a normal piccolo, can produce only high notes in the piccolo range, and is a wind instrument.

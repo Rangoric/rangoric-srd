@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Object touched, weighing up to 5 lbs./level"
 duration: "Instantaneous"
-saving-throw: "Will negates (object)"
+defense: "Will (object)"
 spell-resistance: "Yes (object)"
 book: "Advanced Player's Guide"
 based-on:
@@ -34,7 +34,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Object touched, weighing up to 5 lbs./level
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates (object)
+- **Defense**: Will (object)
 - **Spell Resistance**: Yes (object)
 
 You can transform one object, weighing up to 5 lbs. per caster level, into an edible substance that any living creature can chew, swallow, and safely digest. This _allfood_ always has a bland taste and slightly gooey consistency when chewed regardless of its original nature. One pound of _allfood_ provides enough sustenance to support a Medium creature for an entire day.

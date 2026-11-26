@@ -13,7 +13,7 @@ manifesting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./ level)"
 target: "One creature"
 duration: "Concentration, up to 1 round/level"
-saving-throw: "None"
+defense: "None"
 power-resistance: "Yes"
 power-points: "7"
 based-on:
@@ -33,10 +33,10 @@ Psychokinesis \[Force\]
 **Range:** Medium (100 ft. + 10 ft./ level)  
 **Target:** One creature  
 **Duration:** Concentration, up to 1 round/level  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** Yes  
 **Power Points:** 7
 
-You can affect a foe by concentrating your mind upon its current status and the status you desire, once per round. You can perform a [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]], a [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]], a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] (including a pin), or a [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]]. Resolve these attempts as normal, except that they don’t provoke attacks of opportunity, you use your manifester level in place of your [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|Combat Maneuver Bonus]], and you add your Intelligence modifier in place of your Strength or Dexterity modifier. No save is allowed against these attempts, but power resistance applies normally.
+You can affect a foe by concentrating your mind upon its current status and the status you desire, once per round. You can perform a [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]], a [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]], a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] (including a pin), or a [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]]. Resolve these attempts as normal, except that they don’t provoke attacks of opportunity, you use your manifester level in place of your [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|Combat Maneuver Bonus]], and you add your Intelligence modifier in place of your Strength or Dexterity modifier. These attempts don’t attack a defense, but power resistance applies normally.
 
 **Augment:** For every 2 additional power points you spend, this power grants a +1 bonus on your checks involving bull rush, disarm, grapple, or trip attempts.

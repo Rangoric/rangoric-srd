@@ -11,7 +11,7 @@ casting-time: "1 hour"
 range: "Personal"
 target: "You"
 duration: "24 hours"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Occult Adventures"
 based-on:
@@ -32,7 +32,7 @@ _Necromancy_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 24 hours
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You create a perfect record of your physical body in the Akashic Record at the time the spell is cast. This record includes your current hit point total, physical ability scores (Strength, Dexterity, and Constitution), and any conditional modifiers or conditions such as ability damage to physical ability scores, disease, negative levels, and poison. If at any point within the duration of the spell you are reduced to fewer than 0 hit points or are slain by a death effect that is not mind-affecting, you can immediately let your current physical body die and assume the record of your physical body on your next turn. When this happens, your corpse disappears, and you can either resume the place of your dead body (already wearing any clothing still attached to the corpse) or appear in any place you've been within 500 feet of where your corpse lies (but without any of your gear).

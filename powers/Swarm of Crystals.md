@@ -10,7 +10,7 @@ manifesting-time: "1 standard action"
 range: "15 ft."
 area: "Cone-shaped spread"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "3"
 based-on:
@@ -30,7 +30,7 @@ Metacreativity (Creation)
 **Range:** 15 ft.  
 **Area:** Cone-shaped spread  
 **Duration:** Instantaneous  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** No  
 **Power Points:** 3
 

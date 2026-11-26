@@ -22,7 +22,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Living creature touched"
 duration: "1 min./level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Aid|Aid (3.5)]]"
@@ -42,7 +42,7 @@ _Enchantment (Compulsion) \[Mind-Affecting\]_
 - **Range**: Touch
 - **Target**: Living creature touched
 - **Duration**: 1 min./level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes (harmless)
 
-Aid grants the target a +1 morale bonus on attack rolls and saves against fear effects, plus temporary hit points equal to 1d8 + caster level (to a maximum of 1d8+10 temporary hit points at caster level 10th).
+Aid grants the target a +1 morale bonus on attack rolls and defenses against fear effects, plus temporary hit points equal to 1d8 + caster level (to a maximum of 1d8+10 temporary hit points at caster level 10th).

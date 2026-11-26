@@ -13,7 +13,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 hour/level or until completed"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "3"
 based-on:
@@ -33,7 +33,7 @@ Telepathy (Compulsion) \[Mind-Affecting, Language-Dependent\]
 **Range:** Close (25 ft. + 5 ft./2 levels)  
 **Target:** One creature  
 **Duration:** 1 hour/level or until completed  
-**Saving Throw:** Will negates  
+**Defense:** Will  
 **Power Resistance:** Yes  
 **Power Points:** 3
 

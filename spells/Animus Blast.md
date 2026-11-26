@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "300 ft."
 area: "20-ft.-radius hemisphere burst"
 duration: "Instantaneous"
-saving-throw: "Reflex half"
+defense: "Reflex half"
 spell-resistance: "Yes"
 to-develop: "450,000 gp; 9 days; 18,000 XP. Seeds: energy (DC 19), animate dead (DC 23). Factors: set undead type to skeleton (-12 DC), 1-action casting time (+20 DC)."
 based-on:
@@ -32,7 +32,7 @@ Casting Time: 1 standard action
 Range: 300 ft.  
 Area: 20-ft.-radius hemisphere burst  
 Duration: Instantaneous  
-Saving Throw: Reflex half  
+Defense: Reflex half  
 Spell Resistance: Yes  
 To Develop: 450,000 gp; 9 days; 18,000 XP. Seeds: energy (DC 19), animate dead (DC 23). Factors: set undead type to skeleton (-12 DC), 1-action casting time (+20 DC).
 

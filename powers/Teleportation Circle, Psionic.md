@@ -10,7 +10,7 @@ manifesting-time: "10 minutes"
 range: "0 ft."
 effect: "5-ft.-radius circle that teleports those who activate it"
 duration: "10 min./level (D)"
-saving-throw: "None"
+defense: "None"
 power-resistance: "Yes"
 power-points: "17"
 based-on:
@@ -30,7 +30,7 @@ Psychoportation (Teleportation)
 **Range:** 0 ft.  
 **Effect:** 5-ft.-radius circle that teleports those who activate it  
 **Duration:** 10 min./level (D)  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** Yes  
 **Power Points:** 17
 

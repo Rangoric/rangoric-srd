@@ -9,7 +9,7 @@ manifesting-time: "1 standard action"
 range: "20 ft."
 area: "Cone-shaped spread"
 duration: "Instantaneous"
-saving-throw: "Reflex negates"
+defense: "Reflex"
 power-resistance: "No"
 power-points: "1"
 based-on:
@@ -29,7 +29,7 @@ Psychokinesis
 **Range:** 20 ft.  
 **Area:** Cone-shaped spread  
 **Duration:** Instantaneous  
-**Saving Throw:** Reflex negates  
+**Defense:** Reflex  
 **Power Resistance:** No  
 **Power Points:** 1
 

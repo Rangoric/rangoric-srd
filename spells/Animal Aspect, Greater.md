@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 minute/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes (harmless)"
 book: "Ultimate Combat"
 based-on:
@@ -42,14 +42,14 @@ _Transmutation (Polymorph)_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 minute/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes (harmless)
 
 This spell functions like _[[rangoric-srd/spells/Animal Aspect|animal aspect]]_, except you can either gain two aspects at once or one aspect that adds effects to the aspects that _[[rangoric-srd/spells/Animal Aspect|animal aspect]]_ grants, as described below.
 
 _Frog:_ You gain a Swim speed equal to half your normal speed, and all the benefits of having a swim speed.
 
-_Gorilla:_ You gain a +2 competence bonus on Perception checks, and a +1 competence bonus on Fortitude saves.
+_Gorilla:_ You gain a +2 competence bonus on Perception checks, and a +1 competence bonus on Fortitude Defense.
 
 _Monkey:_ You gain a +4 competence bonus on Acrobatics checks.
 
