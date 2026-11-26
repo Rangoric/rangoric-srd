@@ -11,7 +11,7 @@ casting-time: "1 round"
 range: "Personal"
 target: "You and Your Familiar"
 duration: "1 round/level"
-saving-throw: "Will negates (harmless), special (see below)"
+defense: "Will (harmless), special (see below)"
 spell-resistance: "Yes"
 book: "Spells & Magic"
 based-on:
@@ -32,12 +32,12 @@ _Transmutation_
 - **Range**: Personal
 - **Target**: You and Your Familiar
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates (harmless), special (see below)
+- **Defense**: Will (harmless), special (see below)
 - **Spell Resistance**: Yes
 
 Casting _gestalt_ can be disorienting for a caster and her familiar, but the benefits are beyond question. The effect of this spell is to meld the two beings into one powerful form.
 
-Immediately upon casting the spell, the caster and the familiar must make Will saves against this spell’s base DC. If both master and familiar fail their saves, the spell fails and they are stunned for 1d4 rounds. If one fails, the spell succeeds but the caster is stunned for 1 round. If both make the save, the spell succeeds without penalty.
+Immediately upon casting the spell, the caster and the familiar must each make a Will check (1d20 + Will save bonus; DC 10 + this spell’s attack bonus). If both master and familiar fail their checks, the spell fails and they are stunned for 1d4 rounds. If one fails, the spell succeeds but the caster is stunned for 1 round. If both succeed, the spell succeeds without penalty.
 
 Once melded with her familiar, the caster gains the following bonuses:
 

@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1d3 days"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -35,7 +35,7 @@ _Necromancy \[Disease\]_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1d3 days
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 You coat the target in necrotic fungus that makes its flesh soft and fragile. Toadstools, ringworm, and other disgusting fungal growths sprout from its skin. The target takes 1d3 points of Charisma damage. Any physical attack against the target automatically adds 1d6 points of bleed damage.

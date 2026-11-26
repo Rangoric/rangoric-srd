@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature or object"
 duration: "1 hour (D)"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Class Guide"
 based-on:
@@ -37,7 +37,7 @@ _Evocation (Air)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature or object
 - **Duration**: 1 hour (D)
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
-You create a light wind that blows only against the target, from a direction of your choice. The breeze grants the target a +2 circumstance bonus on saves against very hot conditions, severe heat, and saves against clouds, vapors, and gases (such as _[[rangoric-srd/spells/Cloudkill|cloudkill]]_, _[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_, and inhaled poisons). There must be air present to use this spell.
+You create a light wind that blows only against the target, from a direction of your choice. The breeze grants the target a +2 circumstance bonus on defenses against very hot conditions, severe heat, and on defenses against clouds, vapors, and gases (such as _[[rangoric-srd/spells/Cloudkill|cloudkill]]_, _[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_, and inhaled poisons). There must be air present to use this spell.

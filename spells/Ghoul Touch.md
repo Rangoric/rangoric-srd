@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Living humanoid touched"
 duration: "1d6+2 rounds"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Ghoul Touch|Ghoul Touch (3.5)]]"
@@ -34,11 +34,11 @@ _Necromancy_
 - **Range**: Touch
 - **Target**: Living humanoid touched
 - **Duration**: 1d6+2 rounds
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 Imbuing you with negative energy, this spell allows you to [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyze]] a single living humanoid for the duration of the spell with a successful melee touch attack.
 
-Additionally, the paralyzed subject exudes a carrion stench that causes all living creatures (except you) in a 10-foot-radius spread to become [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] (Fortitude negates). A neutralize poison spell removes the effect from a sickened creature, and creatures immune to poison are unaffected by the stench.
+Additionally, the paralyzed subject exudes a carrion stench that causes all living creatures (except you) in a 10-foot-radius spread to become [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] (vs Fortitude). A neutralize poison spell removes the effect from a sickened creature, and creatures immune to poison are unaffected by the stench.
 
 _Material Component_: A small scrap of cloth taken from clothing worn by a ghoul, or a pinch of earth from a ghoul’s lair.

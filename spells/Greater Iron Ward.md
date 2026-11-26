@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 round/level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Faeries"
 based-on:
@@ -34,7 +34,7 @@ _Abjuration_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 Like _[[rangoric-srd/spells/Lesser Iron Ward|lesser iron ward]]_, except the spell protects the creature against non-magical metal and metal enchanted up to bonuses of +3.

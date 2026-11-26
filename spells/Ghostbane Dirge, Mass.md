@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One incorporeal creature/level, no two of which can be more than 30 ft. apart"
 duration: "1 round/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -40,7 +40,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One incorporeal creature/level, no two of which can be more than 30 ft. apart
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 This spell functions as _[[rangoric-srd/spells/Ghostbane Dirge|ghostbane dirge]]_, except that it affects multiple targets.

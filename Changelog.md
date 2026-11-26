@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-26 | Saving throws as defenses, spells (DF 40): Forest Aria to Harvest Breath of Life attack a defense instead of allowing a save; new saves make the spell attack again, and stat lines in prose read Defense. | [[DF Batch 40 Changes]] | | [[Saving Throws as Defenses]] DF 40 |
 | 2026-11-26 | Saving throws as defenses, spells (DF 39): Faerie Fire to Foresight attack a defense instead of allowing a save, and fixed DCs become attack bonuses. | [[DF Batch 39 Changes]] | | [[Saving Throws as Defenses]] DF 39 |
 | 2026-11-26 | Saving throws as defenses, spells (DF 38): Earth Tremor to Faerie Dance attack a defense instead of allowing a save; new saves make the spell attack again, and fixed DCs become attack bonuses. | [[DF Batch 38 Changes]] | | [[Saving Throws as Defenses]] DF 38 |
 | 2026-11-26 | Saving throws as defenses, spells (DF 37): Detect Aberration to Earth Glide and the Druid spell list attack a defense instead of allowing a save; new saves make the spell attack again, and effects with no save hit automatically. | [[DF Batch 37 Changes]] | | [[Saving Throws as Defenses]] DF 37 |

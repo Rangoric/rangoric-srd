@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "5-foot radius burst"
 duration: "1 round/2 levels"
-saving-throw: "Fortitude partial"
+defense: "Fortitude partial"
 spell-resistance: "Yes"
 book: "Ultimate Combat"
 based-on:
@@ -37,7 +37,7 @@ _Evocation (Cold)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Area**: 5-foot radius burst
 - **Duration**: 1 round/2 levels
-- **Saving Throw**: Fortitude partial
+- **Defense**: Fortitude partial
 - **Spell Resistance**: Yes
 
-The area of this spell is covered in chilling frost, dealing 2d6 points of cold damage to all creatures within it. Creatures that the spell initially damages must succeed at a Fortitude save or become staggered for 1 round. The area remains chilled for the spell's duration. Any creature that starts your turn within the spell's area takes 1d6 points of cold damage (Fortitude saving throw for half) but does not become staggered even on a failed saving throw.
+The area of this spell is covered in chilling frost, dealing 2d6 points of cold damage to all creatures within it. Creatures that the spell initially damages are attacked against Fortitude, and staggered for 1 round on a hit. The area remains chilled for the spell's duration. Any creature that starts your turn within the spell's area takes 1d6 points of cold damage (vs Fortitude; a miss halves) but does not become staggered even on a hit.

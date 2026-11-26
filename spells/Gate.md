@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "See text"
 duration: "Instantaneous or concentration (up to 1 round/level); see text"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Gate|Gate (3.5)]]"
@@ -36,7 +36,7 @@ _Conjuration (Creation or Calling)_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: See text
 - **Duration**: Instantaneous or concentration (up to 1 round/level); see text
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 Casting a gate spell has two effects. First, it creates an interdimensional connection between your plane of existence and a plane you specify, allowing travel between those two planes in either direction.

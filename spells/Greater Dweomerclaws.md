@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Your Familiar"
 duration: "2 rounds/level (d)"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes"
 book: "Spells & Magic"
 based-on:
@@ -33,7 +33,7 @@ _Evocation_
 - **Range**: Touch
 - **Target**: Your Familiar
 - **Duration**: 2 rounds/level (d)
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes
 
 Similar to _[[rangoric-srd/spells/Dweomerclaws|dweomerclaws]]_, save that the bonus granted is +1 per 3 full caster levels. This bonus can also be divided up into equivalent abilities equal to the total bonus allowed by the spell.

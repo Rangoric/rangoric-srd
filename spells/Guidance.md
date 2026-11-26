@@ -22,7 +22,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 minute or until discharged"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Guidance|Guidance (3.5)]]"
@@ -42,7 +42,7 @@ _Divination_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 minute or until discharged
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes
 
-This spell imbues the subject with a touch of divine guidance. The creature gets a +1 competence bonus on a single attack roll, saving throw, or skill check. It must choose to use the bonus before making the roll to which it applies.
+This spell imbues the subject with a touch of divine guidance. The creature gets a +1 competence bonus on a single attack roll or skill check, or to one defense against one attack. It must choose to use the bonus before making the roll to which it applies.

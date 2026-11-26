@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 minute/level"
-saving-throw: "Fortitude negates (harmless)"
+defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Race Guide"
 based-on:
@@ -38,7 +38,7 @@ _Transmutation \[Earth\]_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 minute/level
-- **Saving Throw**: Fortitude negates (harmless)
+- **Defense**: Fortitude (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 This spell allows the target to cause the ground to rise up beneath him. As a swift action, the target can cause the ground to rise 5 feet, while all adjacent squares are treated as steep slopes. The _groundswell_ precludes flanking from creatures standing at lower elevations than the target. If the target moves after creating a _groundswell_, the ground returns to its normal elevation at the end of his turn; otherwise, it remains in place until the target moves or uses a swift action to return the ground to normal. A _groundswell_ cannot increase elevation of the ground beyond 5 feet.

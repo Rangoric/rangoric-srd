@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "60 ft."
 effect: "Line-shaped gust of severe wind emanating out from you to the extreme of the range"
 duration: "1 round"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Gust of Wind|Gust of Wind (3.5)]]"
@@ -38,7 +38,7 @@ _Evocation \[Air\]_
 - **Range**: 60 ft.
 - **Effect**: Line-shaped gust of severe wind emanating out from you to the extreme of the range
 - **Duration**: 1 round
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 This spell creates a severe blast of air (approximately 50 mph) that originates from you, affecting all creatures in its path.

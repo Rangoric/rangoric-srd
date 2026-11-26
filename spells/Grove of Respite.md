@@ -17,7 +17,7 @@ casting-time: "10 minutes"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "20-ft.-radius grove"
 duration: "2 hours/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Advanced Player's Guide"
 based-on:
@@ -38,7 +38,7 @@ _Conjuration (Creation)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: 20-ft.-radius grove
 - **Duration**: 2 hours/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You conjure a sheltered grove of trees surrounding a shallow spring. The grove appears from nowhere even in the most barren, rocky soil regardless of season, but the spell must be cast outside on open ground.

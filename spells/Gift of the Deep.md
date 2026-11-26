@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One non-mutated sahuagin/level, no two of which can be more than 30 ft. apart"
 duration: "1 minute/level (D)"
-saving-throw: "Fortitude negate (harmless)"
+defense: "Fortitude negate (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Monster Codex"
 based-on:
@@ -35,7 +35,7 @@ _Transmutation (Polymorph)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One non-mutated sahuagin/level, no two of which can be more than 30 ft. apart
 - **Duration**: 1 minute/level (D)
-- **Saving Throw**: Fortitude negate (harmless)
+- **Defense**: Fortitude negate (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 You give the targets the appearance and many of the abilities of sahuagin mutants, with effects as described below. Choose one benefit for all targets of this spell. This spell has no effect on sahuagin that are already mutants or already under the effects of _gift of the deep_ .

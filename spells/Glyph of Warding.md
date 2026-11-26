@@ -14,7 +14,7 @@ casting-time: "10 minutes"
 range: "Touch"
 target-or-area: "Object touched or up to 5 sq. ft./level"
 duration: "Permanent until discharged (D)"
-saving-throw: "See text"
+defense: "See text"
 spell-resistance: "No (object) and Yes; see text"
 based-on:
   - "[[fantasy srd 3.5/spells/Glyph of Warding|Glyph of Warding (3.5)]]"
@@ -35,7 +35,7 @@ _Abjuration_
 
 **Target or Area**: Object touched or up to 5 sq. ft./level  
 **Duration**: Permanent until discharged (D)  
-**Saving Throw**: See text  
+**Defense**: See text  
 **Spell Resistance**: No (object) and Yes; see text
 
 This powerful inscription harms those who enter, pass, or open the warded area or object. A glyph of warding can guard a bridge or passage, ward a portal, trap a chest or box, and so on.
@@ -50,8 +50,8 @@ _Note_: Magic traps such as glyph of warding are hard to detect and disable. A r
 
 Depending on the version selected, a glyph either blasts the intruder or activates a spell.
 
-_Blast Glyph_: A blast glyph deals 1d8 points of damage per two caster levels (maximum 5d8) to the intruder and to all within 5 feet of him or her. This damage is acid, cold, fire, electricity, or sonic (caster’s choice, made at time of casting). Each creature affected can attempt a Reflex save to take half damage. Spell resistance applies against this effect.
+_Blast Glyph_: A blast glyph deals 1d8 points of damage per two caster levels (maximum 5d8) to the intruder and to all within 5 feet of him or her. This damage is acid, cold, fire, electricity, or sonic (caster’s choice, made at time of casting). The glyph attacks each affected creature’s Reflex, and a miss halves the damage. Spell resistance applies against this effect.
 
-_Spell Glyph_: You can store any harmful spell of 3rd level or lower that you know. All level-dependent features of the spell are based on your caster level at the time of casting the glyph. If the spell has a target, it targets the intruder. If the spell has an area or an amorphous effect the area or effect is centered on the intruder. If the spell summons creatures, they appear as close as possible to the intruder and attack. Saving throws and spell resistance operate as normal, except that the DC is based on the level of the spell stored in the glyph.
+_Spell Glyph_: You can store any harmful spell of 3rd level or lower that you know. All level-dependent features of the spell are based on your caster level at the time of casting the glyph. If the spell has a target, it targets the intruder. If the spell has an area or an amorphous effect the area or effect is centered on the intruder. If the spell summons creatures, they appear as close as possible to the intruder and attack. Attacks against defenses and spell resistance operate as normal, except that the attack bonus is based on the level of the spell stored in the glyph.
 
 _Material Component_: You trace the glyph with incense, which must first be sprinkled with powdered diamond worth at least 200 gp.

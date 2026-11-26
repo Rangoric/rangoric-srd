@@ -20,7 +20,7 @@ casting-time: "1 round"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One living creature"
 duration: "1 minute/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Advanced Race Guide"
 based-on:
@@ -41,7 +41,7 @@ _Enchantment (Compulsion) \[Mind-affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One living creature
 - **Duration**: 1 minute/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 This spell acts as the _deeper slumber_ spell, but only affects one creature of 10 Hit Dice or fewer. In addition, a creature affected by this spell awakens with no knowledge of the events that led to the spell's casting. The target loses all memory from the 5 minutes prior to falling asleep. No effect short of a _[[rangoric-srd/spells/Miracle|miracle]]_ or _[[rangoric-srd/spells/Wish|wish]]_ can restore memories lost by this spell.

@@ -16,7 +16,7 @@ casting-time: "1 week (8 hours/day)"
 range: "180 ft."
 effect: "A demiplane on the Ethereal Plane centered on your location"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Genesis (Spell)|Genesis (Spell) (3.5)]]"
@@ -35,7 +35,7 @@ Casting Time: 1 week (8 hours/day)
 Range: 180 ft.  
 Effect: A demiplane on the Ethereal Plane centered on your location  
 Duration: Instantaneous  
-Saving Throw: None  
+Defense: None  
 Spell Resistance: No
 
 This spell creates an immobile, finite plane with limited access - a demi-plane.

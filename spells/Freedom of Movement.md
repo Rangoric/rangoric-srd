@@ -26,7 +26,7 @@ casting-time: "1 standard action"
 range: "Personal or touch"
 target: "You or creature touched"
 duration: "10 min./level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Freedom of Movement|Freedom of Movement (3.5)]]"
@@ -47,7 +47,7 @@ _Abjuration_
 - **Range**: Personal or touch
 - **Target**: You or creature touched
 - **Duration**: 10 min./level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 This spell enables you or a creature you touch to move and attack normally for the duration of the spell, even under the influence of magic that usually impedes movement, such as paralysis, solid fog, slow, and web. All [[rangoric-srd/combat/Combat Maneuvers#Grapple|combat maneuver checks made to grapple]] the target automatically fail. The subject automatically succeeds on any combat maneuver checks and [[rangoric-srd/skills/Escape Artist|Escape Artist]] checks made to escape a grapple or a pin.

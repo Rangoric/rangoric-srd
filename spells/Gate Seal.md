@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One *doorway*, *gate*, or *portal*"
 duration: "Permanent"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Faeries"
 based-on:
@@ -38,7 +38,7 @@ _Abjuration_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One _doorway_, _gate_, or _portal_
 - **Duration**: Permanent
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You permanently seal one _[[rangoric-srd/rules/Fey Roads and Doorways#Doorways|doorway]]_ of any type, _[[rangoric-srd/spells/Gate|gate]]_, or portal, so that nothing can pass through it. The seal can be dispelled, and _[[rangoric-srd/spells/Open Doorway|open doorway]]_ negates it for a short time.

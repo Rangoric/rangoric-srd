@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "12,000 ft."
 target: "One creature, or up to a 10-foot cube of nonliving matter"
 duration: "Instantaneous"
-saving-throw: "Fortitude half"
+defense: "Fortitude half"
 spell-resistance: "Yes"
 to-develop: "531,000 gp; 11 days; 21,240 XP. Seed: destroy (DC 29). Factors: increase damage to 35d6 (+30 DC), 1- action casting time (+20 DC).Mitigating factor: burn 2,000 XP (-20 DC)."
 based-on:
@@ -31,7 +31,7 @@ Casting Time: 1 standard action
 Range: 12,000 ft.  
 Target: One creature, or up to a 10-foot cube of nonliving matter  
 Duration: Instantaneous  
-Saving Throw: Fortitude half  
+Defense: Fortitude half  
 Spell Resistance: Yes  
 To Develop: 531,000 gp; 11 days; 21,240 XP. Seed: destroy (DC 29). Factors: increase damage to 35d6 (+30 DC), 1- action casting time (+20 DC).Mitigating factor: burn 2,000 XP (-20 DC).
 

@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "Illusory sounds"
 duration: "1 round/level (D)"
-saving-throw: "Will disbelief (if interacted with)"
+defense: "Will disbelief (if interacted with)"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Ghost Sound|Ghost Sound (3.5)]]"
@@ -40,7 +40,7 @@ _Illusion (Figment)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: Illusory sounds
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: Will disbelief (if interacted with)
+- **Defense**: Will disbelief (if interacted with)
 - **Spell Resistance**: No
 
 Ghost sound allows you to create a volume of sound that rises, recedes, approaches, or remains at a fixed place. You choose what type of sound ghost sound creates when casting it and cannot thereafter change the sound’s basic character.
