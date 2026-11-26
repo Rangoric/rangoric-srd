@@ -15,7 +15,7 @@ full-attack: "Masterwork trident +13/+8 melee (1d8+5); or masterwork trident +11
 space-reach: "5 ft./5 ft."
 special-attacks: "Rage (9 rounds/day), rage powers (knockback)"
 special-qualities: "Bravery +1, trap sense +1, uncanny dodge, armor training 1, fast movement"
-saves: "Fort +9, Ref +5, Will +5 (+1 vs. fear)"
+defenses: "Fort 19, Ref 15, Will 15 (+1 vs. fear)"
 abilities: "Str 20, Dex 16, Con 17, Int 8, Wis 12, Cha 10"
 skills: "Acrobatics +10, Athletics +8 (+12 jumping), Intimidation +5, Perception +10"
 skill-ranks: "Acrobatics 4, Athletics 3, Intimidation 2, Perception 6"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (9 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Knockback (Rage Power)|knockback]])
 - **Special Qualities**: [[rangoric-srd/classes/Fighter#^fighter-bravery|Bravery]] +1, [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +1, [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]]
-- **Saves**: Fort +9, Ref +5, Will +5 (+1 vs. fear)
+- **Defenses**: Fort 19, Ref 15, Will 15 (+1 vs. fear)
 - **Abilities**: Str 20, Dex 16, Con 17, Int 8, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +8 (+12 jumping), [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +10
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Improved Shield Bash|Improved Shield Bash]], [[rangoric-srd/feats/Shield Focus|Shield Focus]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (trident)

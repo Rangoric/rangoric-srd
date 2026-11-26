@@ -14,9 +14,9 @@ cmd: "15"
 attack: "Masterwork longsword +8 melee (1d8+3/19–20)"
 full-attack: "Masterwork longsword +8 melee (1d8+3/19–20)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Channel positive energy 6/day (DC 13, 3d6), turn undead"
+special-attacks: "Channel positive energy 6/day (+3 vs Will, 3d6), turn undead"
 special-qualities: "Aura"
-saves: "Fort +7, Ref +1, Will +9"
+defenses: "Fort 17, Ref 11, Will 19"
 abilities: "Str 17, Dex 8, Con 14, Int 10, Wis 14, Cha 12"
 skills: "Medicine +6, Perception +6, Persuasion +9, Society +6, Theology +5"
 skill-ranks: "Medicine 1, Perception 1, Persuasion 5, Society 3, Theology 2"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +8 melee (1d8+3/19–20)
 - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +8 melee (1d8+3/19–20)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel positive energy]] 6/day (DC 13, 3d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|turn undead]]
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel positive energy]] 6/day (+3 vs Will, 3d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|turn undead]]
 - **Special Qualities**: [[rangoric-srd/classes/Cleric#^cleric-aura|Aura]]
-- **Saves**: Fort +7, Ref +1, Will +9
+- **Defenses**: Fort 17, Ref 11, Will 19
 - **Abilities**: Str 17, Dex 8, Con 14, Int 10, Wis 14, Cha 12
 - **Skills**: [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Shield Bash|Improved Shield Bash]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
@@ -77,4 +77,4 @@ A noble crusader speaks Common.
 
 **Domain Spell-Like Abilities** (CL 5th; concentration +7): 5/day—[[rangoric-srd/class-options/domains/Law Domain|touch of law]]; 5/day—[[rangoric-srd/class-options/domains/War Domain|battle rage]] (+2 damage).
 
-**Cleric spells prepared** (CL 5th; concentration +7): 3rd—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Magic Vestment|magic vestment]]_ <sup>D</sup>, _[[rangoric-srd/spells/Searing Light|searing light]]_; 2nd—_[[rangoric-srd/spells/Align Weapon|align weapon]]_ (law only)<sup>D</sup>, _[[rangoric-srd/spells/Enthrall|enthrall]]_ (DC 14), _[[rangoric-srd/spells/Resist Energy|resist energy]]_ (DC 14), _[[rangoric-srd/spells/Sound Burst|sound burst]]_ (DC 14); 1st—_[[rangoric-srd/spells/Command|command]]_ (DC 13), _[[rangoric-srd/spells/Divine Favor|divine favor]]_, _[[rangoric-srd/spells/Magic Weapon|magic weapon]]_ <sup>D</sup>, _[[rangoric-srd/spells/Shield of Faith|shield of faith]]_, _[[rangoric-srd/spells/Summon Monster I|summon monster I]]_; 0 (at will)—_[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]_, _[[rangoric-srd/spells/Resistance|resistance]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Law Domain|Law]], [[rangoric-srd/class-options/domains/War Domain|War]].
+**Cleric spells prepared** (CL 5th; concentration +7): 3rd—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Magic Vestment|magic vestment]]_ <sup>D</sup>, _[[rangoric-srd/spells/Searing Light|searing light]]_; 2nd—_[[rangoric-srd/spells/Align Weapon|align weapon]]_ (law only)<sup>D</sup>, _[[rangoric-srd/spells/Enthrall|enthrall]]_ (+4 vs Will), _[[rangoric-srd/spells/Resist Energy|resist energy]]_ (+4 vs Fortitude), _[[rangoric-srd/spells/Sound Burst|sound burst]]_ (+4 vs Fortitude); 1st—_[[rangoric-srd/spells/Command|command]]_ (+3 vs Will), _[[rangoric-srd/spells/Divine Favor|divine favor]]_, _[[rangoric-srd/spells/Magic Weapon|magic weapon]]_ <sup>D</sup>, _[[rangoric-srd/spells/Shield of Faith|shield of faith]]_, _[[rangoric-srd/spells/Summon Monster I|summon monster I]]_; 0 (at will)—_[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]_, _[[rangoric-srd/spells/Resistance|resistance]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Law Domain|Law]], [[rangoric-srd/class-options/domains/War Domain|War]].

@@ -15,7 +15,7 @@ full-attack: "Masterwork shortspear +7/+2 melee (1d6); or dagger +6/+1 melee (1d
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +3, Ref +5, Will +8"
+defenses: "Fort 13, Ref 15, Will 18"
 abilities: "Str 10, Dex 14, Con 10, Int 11, Wis 14, Cha 8"
 skills: "Animal Handling +16, Athletics +8, Fieldcraft +17, Linguistics +9, Nature +5, Perception +14, Society +12, Stealth +13"
 skill-ranks: "Animal Handling 10, Athletics 5, Fieldcraft 12, Linguistics 6, Nature 2, Perception 9, Society 9, Stealth 8"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +3, Ref +5, Will +8
+- **Defenses**: Fort 13, Ref 15, Will 18
 - **Abilities**: Str 10, Dex 14, Con 10, Int 11, Wis 14, Cha 8
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +16, [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +17, [[rangoric-srd/skills/Linguistics|Linguistics]] +9, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Society|Society]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Far Shot|Far Shot]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling, Fieldcraft)

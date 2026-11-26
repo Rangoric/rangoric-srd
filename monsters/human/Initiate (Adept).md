@@ -16,7 +16,7 @@ full-attack: "Spear +1 melee (1d8/×3); or masterwork cold iron dagger +2 melee 
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Summon familiar (toad)"
-saves: "Fort +4, Ref +1, Will +4 (+2 vs. good)"
+defenses: "Fort 14, Ref 11, Will 14 (+2 vs. good)"
 abilities: "Str 10, Dex 11, Con 12, Int 8, Wis 13, Cha 11"
 skills: "Arcana +3, Mysticism +5, Society +3, Theology +5"
 skill-ranks: "Arcana 1, Mysticism 3, Society 1, Theology 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/classes/Adept|Summon familiar]] (toad)
-- **Saves**: Fort +4, Ref +1, Will +4 (+2 vs. good)
+- **Defenses**: Fort 14, Ref 11, Will 14 (+2 vs. good)
 - **Abilities**: Str 10, Dex 11, Con 12, Int 8, Wis 13, Cha 11
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +3, [[rangoric-srd/skills/Mysticism|Mysticism]] +5, [[rangoric-srd/skills/Society|Society]] +3, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]]
@@ -73,6 +73,6 @@ An initiate (adept) speaks Common.
 
 **During Combat**: The adept casts burning hands whenever she can catch two or more foes in the area. When she runs out of spells, scrolls, and acid, she fights with her spear.
 
-**Base Statistics**: Without protection from good, the adept's statistics are **AC** no bonus vs. good; **Saves** no bonus vs. good.
+**Base Statistics**: Without protection from good, the adept's statistics are **AC** no bonus vs. good; **Defenses** no bonus vs. good.
 
-**Adept spells prepared** (CL 3rd; concentration +4): 1st—_[[rangoric-srd/spells/Burning Hands|burning hands]]_ (DC 12), _[[rangoric-srd/spells/Detect Good|detect good]]_, _[[rangoric-srd/spells/Protection from Good|protection from good]]_; 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_.
+**Adept spells prepared** (CL 3rd; concentration +4): 1st—_[[rangoric-srd/spells/Burning Hands|burning hands]]_ (+2 vs Reflex), _[[rangoric-srd/spells/Detect Good|detect good]]_, _[[rangoric-srd/spells/Protection from Good|protection from good]]_; 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_.

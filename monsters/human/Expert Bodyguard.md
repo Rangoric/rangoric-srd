@@ -16,7 +16,7 @@ full-attack: "+1 longsword +10/+5 melee (1d8+2/19–20); or kukri +8/+3 melee (1
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +7, Ref +1, Will +5"
+defenses: "Fort 17, Ref 11, Will 15"
 abilities: "Str 13, Dex 9, Con 14, Int 10, Wis 12, Cha 8"
 skills: "Intimidation +9, Perception +8, Sense Motive +8"
 skill-ranks: "Intimidation 7, Perception 4, Sense Motive 4"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +7, Ref +1, Will +5
+- **Defenses**: Fort 17, Ref 11, Will 15
 - **Abilities**: Str 13, Dex 9, Con 14, Int 10, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +8
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Stand Still|Stand Still]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)

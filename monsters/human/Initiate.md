@@ -13,9 +13,9 @@ cmd: "18"
 attack: "Unarmed strike +3 melee (1d6+2) or unarmed strike flurry of blows +2 melee (1d6+2) or masterwork shortspear +4 melee (1d6+2) or masterwork light crossbow +4 ranged (1d8/19–20) or masterwork shortspear +4 ranged (1d6+2)"
 full-attack: "Unarmed strike +3 melee (1d6+2); or unarmed strike flurry of blows +2/+2 melee (1d6+2); or masterwork shortspear +4 melee (1d6+2); or masterwork light crossbow +4 ranged (1d8/19–20); or masterwork shortspear +4 ranged (1d6+2)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Flurry of blows, stunning fist (2/day, DC 13)"
+special-attacks: "Flurry of blows, stunning fist (2/day, +3 vs Fortitude)"
 special-qualities: "Evasion"
-saves: "Fort +4, Ref +5, Will +5"
+defenses: "Fort 14, Ref 15, Will 15"
 abilities: "Str 15, Dex 14, Con 12, Int 10, Wis 15, Cha 8"
 skills: "Acrobatics +7, Athletics +6, Escape Artist +7, Perception +7, Sense Motive +7, Stealth +6"
 skill-ranks: "Acrobatics 2, Athletics 1, Escape Artist 2, Perception 2, Sense Motive 2, Stealth 1"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +3 melee (1d6+2) or unarmed strike flurry of blows +2 melee (1d6+2) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +4 melee (1d6+2) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +4 ranged (1d8/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +4 ranged (1d6+2)
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +3 melee (1d6+2); or unarmed strike flurry of blows +2/+2 melee (1d6+2); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +4 melee (1d6+2); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +4 ranged (1d8/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +4 ranged (1d6+2)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (2/day, DC 13)
+- **Special Attacks**: [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|Flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (2/day, +3 vs Fortitude)
 - **Special Qualities**: [[rangoric-srd/classes/Monk#^monk-evasion|Evasion]]
-- **Saves**: Fort +4, Ref +5, Will +5
+- **Defenses**: Fort 14, Ref 15, Will 15
 - **Abilities**: Str 15, Dex 14, Con 12, Int 10, Wis 15, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Deflect Arrows|Deflect Arrows]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Stand Still|Stand Still]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]]

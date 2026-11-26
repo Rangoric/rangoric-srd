@@ -16,7 +16,7 @@ full-attack: "Masterwork club +7 melee (1d6+6); or dagger +3 ranged (1d4+4/19–
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Summon familiar (weasel)"
-saves: "Fort +2, Ref +5, Will +7"
+defenses: "Fort 12, Ref 15, Will 17"
 abilities: "Str 18, Dex 12, Con 11, Int 9, Wis 14, Cha 8"
 skills: "Intimidation +4, Perception +4, Society +4, Theology +3"
 skill-ranks: "Intimidation 2, Perception 2, Society 2, Theology 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/classes/Adept|Summon familiar]] (weasel)
-- **Saves**: Fort +2, Ref +5, Will +7
+- **Defenses**: Fort 12, Ref 15, Will 17
 - **Abilities**: Str 18, Dex 12, Con 11, Int 9, Wis 14, Cha 8
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Society|Society]] +4, [[rangoric-srd/skills/Theology|Theology]] +3
 - **Feats**: [[rangoric-srd/feats/Armor Proficiency (Light)|Armor Proficiency (Light)]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]]
@@ -75,4 +75,4 @@ An enforcer (monster) speaks Common.
 
 **Base Statistics**: Without bull's strength, the adept's statistics are **Melee** masterwork club +5 (1d6+3); **Ranged** dagger +3 (1d4+2/19-20); **Str** 14; **CMB** +4; **CMD** 15.
 
-**Adept spells prepared** (CL 5th; concentration +7): 2nd—_[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Mirror Image|mirror image]]_; 1st—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (DC 13), _[[rangoric-srd/spells/Command|command]]_ (DC 13), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_; 0 (at will)—_[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 12), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_.
+**Adept spells prepared** (CL 5th; concentration +7): 2nd—_[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Mirror Image|mirror image]]_; 1st—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (+3 vs Will), _[[rangoric-srd/spells/Command|command]]_ (+3 vs Will), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_; 0 (at will)—_[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+2 vs Will), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_.

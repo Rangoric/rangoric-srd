@@ -15,7 +15,7 @@ full-attack: "Masterwork battleaxe +10/+5 melee (1d8+3/×3); or dagger +9/+4 mel
 space-reach: "5 ft./5 ft."
 special-attacks: "Favored enemy (magical beasts +4, monstrous humanoids +2)"
 special-qualities: "Hunter's bond (animal companion [hawk]), favored terrain (forest +2), track +3, wild empathy +5"
-saves: "Fort +6, Ref +8, Will +3"
+defenses: "Fort 16, Ref 18, Will 13"
 abilities: "Str 16, Dex 16, Con 13, Int 10, Wis 12, Cha 8"
 skills: "Animal Handling +11, Athletics +11, Fieldcraft +13 (+15 to follow tracks), Medicine +6, Nature +5, Perception +10, Stealth +11"
 skill-ranks: "Animal Handling 5, Athletics 5, Fieldcraft 8, Medicine 4, Nature 2, Perception 6, Stealth 5"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (magical beasts +4, monstrous humanoids +2)
 - **Special Qualities**: [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|Hunter's bond]] (animal companion \[hawk\]), [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (forest +2), [[rangoric-srd/classes/Ranger#^ranger-track|track]] +3, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +5
-- **Saves**: Fort +6, Ref +8, Will +3
+- **Defenses**: Fort 16, Ref 18, Will 13
 - **Abilities**: Str 16, Dex 16, Con 13, Int 10, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +13 (+15 to follow tracks), [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Precise Shot|Improved Precise Shot]], [[rangoric-srd/feats/Mounted Archery|Mounted Archery]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft), [[rangoric-srd/feats/Track|Track]]

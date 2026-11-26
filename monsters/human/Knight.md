@@ -13,9 +13,9 @@ cmd: "22"
 attack: "Masterwork lance +12 melee (1d8+4/×3) or +1 longsword +12 melee (1d8+5/19–20) or dagger +11 melee (1d4+4/19–20) or dagger +8 ranged (1d4+4/19–20)"
 full-attack: "Masterwork lance +12/+7 melee (1d8+4/×3); or +1 longsword +12/+7 melee (1d8+5/19–20); or dagger +11/+6 melee (1d4+4/19–20); or dagger +8 ranged (1d4+4/19–20)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Channel positive energy (DC 15, 3d6), smite evil 2/day (+2 attack and AC, +6 damage), spell-like abilities, turn undead"
+special-attacks: "Channel positive energy (+5 vs Will, 3d6), smite evil 2/day (+2 attack and AC, +6 damage), spell-like abilities, turn undead"
 special-qualities: "Aura of courage (10 ft.), divine grace +2, aura of good, divine bond (heavy horse), lay on hands (3d6, 5/day), mercies (fatigued, shaken), immunity to disease and fear, special mount, remove disease 1/week"
-saves: "Fort +9, Ref +5, Will +9"
+defenses: "Fort 19, Ref 15, Will 19"
 abilities: "Str 18, Dex 12, Con 14, Int 10, Wis 8, Cha 14"
 skills: "Animal Handling +8, Fieldcraft +5, Linguistics +5, Medicine +5, Perception +5, Persuasion +10, Society +5"
 skill-ranks: "Animal Handling 3, Fieldcraft 3, Linguistics 2, Medicine 3, Perception 3, Persuasion 5, Society 2"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Lance|lance]] +12 melee (1d8+4/×3) or +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +12 melee (1d8+5/19–20) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +11 melee (1d4+4/19–20) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +8 ranged (1d4+4/19–20)
 - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Lance|lance]] +12/+7 melee (1d8+4/×3); or +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +12/+7 melee (1d8+5/19–20); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +11/+6 melee (1d4+4/19–20); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +8 ranged (1d4+4/19–20)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Paladin#^paladin-channel-positive-energy|Channel positive energy]] (DC 15, 3d6), [[rangoric-srd/classes/Paladin#^paladin-smite-evil|smite evil]] 2/day (+2 attack and AC, +6 damage), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]], [[rangoric-srd/classes/Paladin#^paladin-turn-undead|turn undead]]
+- **Special Attacks**: [[rangoric-srd/classes/Paladin#^paladin-channel-positive-energy|Channel positive energy]] (+5 vs Will, 3d6), [[rangoric-srd/classes/Paladin#^paladin-smite-evil|smite evil]] 2/day (+2 attack and AC, +6 damage), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]], [[rangoric-srd/classes/Paladin#^paladin-turn-undead|turn undead]]
 - **Special Qualities**: [[rangoric-srd/classes/Paladin#^paladin-aura-of-courage|Aura of courage]] (10 ft.), [[rangoric-srd/classes/Paladin#^paladin-divine-grace|divine grace]] +2, [[rangoric-srd/classes/Paladin|aura of good]], [[rangoric-srd/classes/Paladin#^paladin-divine-bond|divine bond]] (heavy horse), [[rangoric-srd/classes/Paladin#^paladin-lay-on-hands|lay on hands]] (3d6, 5/day), [[rangoric-srd/classes/Paladin#^paladin-mercy|mercies]] ([[rangoric-srd/class-options/mercies/Fatigued (Mercy)|fatigued]], [[rangoric-srd/class-options/mercies/Shaken (Mercy)|shaken]]), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and fear, [[rangoric-srd/classes/Paladin#^paladin-special-mount|special mount]], [[rangoric-srd/classes/Paladin#^paladin-remove-disease|remove disease]] 1/week
-- **Saves**: Fort +9, Ref +5, Will +9
+- **Defenses**: Fort 19, Ref 15, Will 19
 - **Abilities**: Str 18, Dex 12, Con 14, Int 10, Wis 8, Cha 14
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Medicine|Medicine]] +5, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +10, [[rangoric-srd/skills/Society|Society]] +5
 - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Unseat|Unseat]]

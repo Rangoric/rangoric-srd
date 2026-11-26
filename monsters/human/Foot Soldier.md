@@ -15,7 +15,7 @@ full-attack: "Longspear +3 melee (1d8+3/×3); or greatsword +3 melee (2d6+3/19�
 space-reach: "5 ft./5 ft. (10 ft. with longspear)"
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +2, Ref +1, Will +0"
+defenses: "Fort 12, Ref 11, Will 10"
 abilities: "Str 15, Dex 12, Con 11, Int 8, Wis 10, Cha 9"
 skills: "Craft (weapons) +3, Fieldcraft +1, Profession (soldier) +4"
 skill-ranks: "Craft (weapons) 1, Fieldcraft 1, Profession (soldier) 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with longspear)
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +2, Ref +1, Will +0
+- **Defenses**: Fort 12, Ref 11, Will 10
 - **Abilities**: Str 15, Dex 12, Con 11, Int 8, Wis 10, Cha 9
 - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (weapons) +3, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +1, [[rangoric-srd/skills/Profession|Profession]] (soldier) +4
 - **Feats**: [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Toughness|Toughness]]

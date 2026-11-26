@@ -16,7 +16,7 @@ full-attack: "Masterwork heavy flail +9/+4 melee (1d10+3/19–20); or masterwork
 space-reach: "5 ft./5 ft. (10 ft. with longspear)"
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +7, Ref +3, Will +3"
+defenses: "Fort 17, Ref 13, Will 13"
 abilities: "Str 14, Dex 10, Con 12, Int 9, Wis 11, Cha 8"
 skills: "Animal Handling +3, Athletics +0, Intimidation +6, Perception +4, Society +0"
 skill-ranks: "Animal Handling 1, Athletics 0, Intimidation 4, Perception 1, Society 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with longspear)
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +7, Ref +3, Will +3
+- **Defenses**: Fort 17, Ref 13, Will 13
 - **Abilities**: Str 14, Dex 10, Con 12, Int 9, Wis 11, Cha 8
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +3, [[rangoric-srd/skills/Athletics|Athletics]] +0, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Society|Society]] +0
 - **Feats**: [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]]

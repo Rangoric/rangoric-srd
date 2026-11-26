@@ -16,7 +16,7 @@ full-attack: "Masterwork longsword +8/+3 melee (1d8–1/19–20); or light mace 
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +6, Ref +4, Will +10"
+defenses: "Fort 16, Ref 14, Will 20"
 abilities: "Str 8, Dex 11, Con 10, Int 14, Wis 10, Cha 14"
 skills: "Animal Handling +6, Deception +10, Intimidation +10, Linguistics +9, Perception +11, Perform (dance) +6, Perform (oratory) +10, Persuasion +21, Sense Motive +13, Society +15, Theology +8"
 skill-ranks: "Animal Handling 3, Deception 5, Intimidation 7, Linguistics 4, Perception 7, Perform (dance) 1, Perform (oratory) 5, Persuasion 14, Sense Motive 14, Society 10, Theology 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +6, Ref +4, Will +10
+- **Defenses**: Fort 16, Ref 14, Will 20
 - **Abilities**: Str 8, Dex 11, Con 10, Int 14, Wis 10, Cha 14
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Linguistics|Linguistics]] +9, [[rangoric-srd/skills/Perception|Perception]] +11, Perform (dance) +6, Perform (oratory) +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +21, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Society|Society]] +15, [[rangoric-srd/skills/Theology|Theology]] +8
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Persuasion), [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)

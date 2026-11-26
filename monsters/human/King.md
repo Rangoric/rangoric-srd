@@ -15,7 +15,7 @@ full-attack: "+1 longsword +14/+9/+4 melee (1d8+2/19–20); or masterwork dagger
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +7, Ref +5, Will +10"
+defenses: "Fort 17, Ref 15, Will 20"
 abilities: "Str 12, Dex 10, Con 10, Int 14, Wis 10, Cha 17"
 skills: "Animal Handling +14, Deception +15, Intimidation +28, Linguistics +8, Perception +14, Perform (oratory) +22, Persuasion +28, Sense Motive +19, Society +15"
 skill-ranks: "Animal Handling 11, Deception 9, Intimidation 20, Linguistics 3, Perception 10, Perform (oratory) 17, Persuasion 26, Sense Motive 20, Society 10"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +7, Ref +5, Will +10
+- **Defenses**: Fort 17, Ref 15, Will 20
 - **Abilities**: Str 12, Dex 10, Con 10, Int 14, Wis 10, Cha 17
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +14, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Intimidation|Intimidation]] +28, [[rangoric-srd/skills/Linguistics|Linguistics]] +8, [[rangoric-srd/skills/Perception|Perception]] +14, Perform (oratory) +22, [[rangoric-srd/skills/Persuasion|Persuasion]] +28, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +19, [[rangoric-srd/skills/Society|Society]] +15
 - **Feats**: [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Great Fortitude|Improved Great Fortitude]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion, Intimidation, Perception), [[rangoric-srd/feats/Vital Strike|Vital Strike]]

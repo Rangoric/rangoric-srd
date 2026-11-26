@@ -13,9 +13,9 @@ cmd: "13"
 attack: "Light mace +2 melee (1d6–1) or dart +4 ranged (1d4–1)"
 full-attack: "Light mace +2 melee (1d6–1); or dart +4 ranged (1d4–1)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Channel positive energy 7/day (DC 14, 3d6), turn undead, calm emotions (1/day), death touch (5d6, 1/day)"
+special-attacks: "Channel positive energy 7/day (+4 vs Will, 3d6), turn undead, calm emotions (1/day), death touch (5d6, 1/day)"
 special-qualities: "—"
-saves: "Fort +5, Ref +3, Will +8"
+defenses: "Fort 15, Ref 13, Will 18"
 abilities: "Str 8, Dex 12, Con 10, Int 14, Wis 17, Cha 14"
 skills: "Medicine +11, Mysticism +6, Perception +9, Persuasion +12, Profession (midwife) +9, Sense Motive +11, Theology +9"
 skill-ranks: "Medicine 5, Mysticism 1, Perception 2, Persuasion 5, Profession (midwife) 4, Sense Motive 7, Theology 4"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/weapons/Light Mace|Light mace]] +2 melee (1d6–1) or [[rangoric-srd/equipment/weapons/Dart|dart]] +4 ranged (1d4–1)
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Light Mace|Light mace]] +2 melee (1d6–1); or [[rangoric-srd/equipment/weapons/Dart|dart]] +4 ranged (1d4–1)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel positive energy]] 7/day (DC 14, 3d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|turn undead]], _[[rangoric-srd/spells/Calm Emotions|calm emotions]]_ (1/day, [[rangoric-srd/class-options/domains/Community Domain|Community domain]]), [[rangoric-srd/class-options/domains/Repose Domain|death touch]] (5d6, 1/day)
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel positive energy]] 7/day (+4 vs Will, 3d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|turn undead]], _[[rangoric-srd/spells/Calm Emotions|calm emotions]]_ (1/day, [[rangoric-srd/class-options/domains/Community Domain|Community domain]]), [[rangoric-srd/class-options/domains/Repose Domain|death touch]] (5d6, 1/day)
 - **Special Qualities**: —
-- **Saves**: Fort +5, Ref +3, Will +8
+- **Defenses**: Fort 15, Ref 13, Will 18
 - **Abilities**: Str 8, Dex 12, Con 10, Int 14, Wis 17, Cha 14
 - **Skills**: [[rangoric-srd/skills/Medicine|Medicine]] +11, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +12, [[rangoric-srd/skills/Profession|Profession]] (midwife) +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Theology|Theology]] +9
 - **Feats**: [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Shield Focus|Shield Focus]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Turn Undead|Turn Undead]]
@@ -74,4 +74,4 @@ A medium speaks Celestial, Common, and Infernal.
 
 **Domain Spell-Like Abilities** (CL 5th; concentration +8): 6/day—[[rangoric-srd/class-options/domains/Community Domain|calming touch]] (1d6+5 nonlethal), [[rangoric-srd/class-options/domains/Repose Domain|gentle rest]].
 
-**Cleric spells prepared** (CL 5th; concentration +8): 3rd—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_(DC 16), _[[rangoric-srd/spells/Helping Hand|helping hand]]_, *[[rangoric-srd/spells/Speak with Dead|speak with dead]]*D; 2nd—_[[rangoric-srd/spells/Augury|augury]]_, *[[rangoric-srd/spells/Gentle Repose|gentle repose]]*D, _[[rangoric-srd/spells/Silence|silence]]_(DC 15), _[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]_; 1st—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Command|command]]_(DC 14), _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, *[[rangoric-srd/spells/Deathwatch|deathwatch]]*D, _[[rangoric-srd/spells/Sanctuary|sanctuary]]_(DC 14); 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Community Domain|Community]], [[rangoric-srd/class-options/domains/Repose Domain|Repose]].
+**Cleric spells prepared** (CL 5th; concentration +8): 3rd—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_(+6 vs Will), _[[rangoric-srd/spells/Helping Hand|helping hand]]_, *[[rangoric-srd/spells/Speak with Dead|speak with dead]]*D; 2nd—_[[rangoric-srd/spells/Augury|augury]]_, *[[rangoric-srd/spells/Gentle Repose|gentle repose]]*D, _[[rangoric-srd/spells/Silence|silence]]_(+5 vs Will), _[[rangoric-srd/spells/Spiritual Weapon|spiritual weapon]]_; 1st—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Command|command]]_(+4 vs Will), _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, *[[rangoric-srd/spells/Deathwatch|deathwatch]]*D, _[[rangoric-srd/spells/Sanctuary|sanctuary]]_(+4 vs Will); 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Community Domain|Community]], [[rangoric-srd/class-options/domains/Repose Domain|Repose]].

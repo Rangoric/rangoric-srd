@@ -14,9 +14,9 @@ cmd: "34 (36 vs. overrun)"
 attack: "+1 holy lance +24 melee (1d8+7/19–20/×3) or *+1 heavy mace* +23 melee (1d8+7)"
 full-attack: "+1 holy lance +24/+19/+14/+9 melee (1d8+7/19–20/×3); or *+1 heavy mace* +23/+18/+13/+8 melee (1d8+7)"
 space-reach: "5 ft./5 ft. (10 ft. with lance)"
-special-attacks: "Channel positive energy (DC 20, 8d6), smite evil 6/day (+2 attack and AC, +16 damage), turn undead"
+special-attacks: "Channel positive energy (+10 vs Will, 8d6), smite evil 6/day (+2 attack and AC, +16 damage), turn undead"
 special-qualities: "Aura of courage (10 ft.), aura of faith (10 ft.), aura of justice (10 ft.), aura of resolve (10 ft.), aura, code of conduct, divine bond (weapon +4, 3/day), lay on hands (8d6, 10/day), mercies (fatigued, frightened, paralyzed, shaken, staggered), immunity to charm, disease, fear and poison, resistance to fire 30, special mount, remove disease 4/week"
-saves: "Fort +17, Ref +10, Will +13"
+defenses: "Fort 27, Ref 20, Will 23"
 abilities: "Str 22, Dex 12, Con 16, Int 10, Wis 8, Cha 14"
 skills: "Animal Handling +15 (+17 to stay in the saddle), Intimidation +10, Medicine +6, Perception +15, Sense Motive +10"
 skill-ranks: "Animal Handling 11, Intimidation 5, Medicine 4, Perception 13, Sense Motive 8"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: +1 holy lance +24 melee (1d8+7/19–20/×3) or _+1 heavy mace_ +23 melee (1d8+7)
 - **Full Attack**: +1 holy lance +24/+19/+14/+9 melee (1d8+7/19–20/×3); or _+1 heavy mace_ +23/+18/+13/+8 melee (1d8+7)
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with lance)
-- **Special Attacks**: [[rangoric-srd/classes/Paladin#^paladin-channel-positive-energy|Channel positive energy]] (DC 20, 8d6), [[rangoric-srd/classes/Paladin#^paladin-smite-evil|smite evil]] 6/day (+2 attack and AC, +16 damage), [[rangoric-srd/classes/Paladin#^paladin-turn-undead|turn undead]]
+- **Special Attacks**: [[rangoric-srd/classes/Paladin#^paladin-channel-positive-energy|Channel positive energy]] (+10 vs Will, 8d6), [[rangoric-srd/classes/Paladin#^paladin-smite-evil|smite evil]] 6/day (+2 attack and AC, +16 damage), [[rangoric-srd/classes/Paladin#^paladin-turn-undead|turn undead]]
 - **Special Qualities**: [[rangoric-srd/classes/Paladin#^paladin-aura-of-courage|Aura of courage]] (10 ft.), [[rangoric-srd/classes/Paladin#^paladin-aura-of-faith|aura of faith]] (10 ft.), [[rangoric-srd/classes/Paladin#^paladin-aura-of-justice|aura of justice]] (10 ft.), [[rangoric-srd/classes/Paladin#^paladin-aura-of-resolve|aura of resolve]] (10 ft.), [[rangoric-srd/classes/Paladin|aura]], [[rangoric-srd/classes/Paladin#^paladin-code-of-conudct|code of conduct]], [[rangoric-srd/classes/Paladin#^paladin-divine-bond|divine bond]] (weapon +4, 3/day), [[rangoric-srd/classes/Paladin#^paladin-lay-on-hands|lay on hands]] (8d6, 10/day), [[rangoric-srd/classes/Paladin#^paladin-mercy|mercies]] ([[rangoric-srd/class-options/mercies/Fatigued (Mercy)|fatigued]], [[rangoric-srd/class-options/mercies/Frightened (Mercy)|frightened]], [[rangoric-srd/class-options/mercies/Paralyzed (Mercy)|paralyzed]], [[rangoric-srd/class-options/mercies/Shaken (Mercy)|shaken]], [[rangoric-srd/class-options/mercies/Staggered (Mercy)|staggered]]), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to charm, disease, fear and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 30, [[rangoric-srd/classes/Paladin#^paladin-special-mount|special mount]], [[rangoric-srd/classes/Paladin#^paladin-remove-disease|remove disease]] 4/week
-- **Saves**: Fort +17, Ref +10, Will +13
+- **Defenses**: Fort 27, Ref 20, Will 23
 - **Abilities**: Str 22, Dex 12, Con 16, Int 10, Wis 8, Cha 14
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +15 (+17 to stay in the saddle), [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10
 - **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (lance), [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Spirited Charge|Spirited Charge]], [[rangoric-srd/feats/Trample|Trample]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (lance)

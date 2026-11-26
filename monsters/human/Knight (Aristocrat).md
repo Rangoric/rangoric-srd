@@ -16,7 +16,7 @@ full-attack: "Masterwork lance +12/+7 melee (1d8+5/×3); or *+1 longsword* +12/+
 space-reach: "5 ft./5 ft. (10 ft. with lance)"
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +6, Ref +4, Will +5"
+defenses: "Fort 16, Ref 14, Will 15"
 abilities: "Str 20, Dex 12, Con 16, Int 10, Wis 8, Cha 9"
 skills: "Animal Handling +10, Intimidation +11, Perception +5, Persuasion +11, Sense Motive +5, Society +12"
 skill-ranks: "Animal Handling 6, Intimidation 9, Perception 3, Persuasion 9, Sense Motive 3, Society 9"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with lance)
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +6, Ref +4, Will +5
+- **Defenses**: Fort 16, Ref 14, Will 15
 - **Abilities**: Str 20, Dex 12, Con 16, Int 10, Wis 8, Cha 9
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Society|Society]] +12
 - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling), [[rangoric-srd/feats/Spirited Charge|Spirited Charge]], [[rangoric-srd/feats/Unseat|Unseat]]
