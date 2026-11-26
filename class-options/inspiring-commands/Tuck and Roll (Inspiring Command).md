@@ -17,4 +17,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/prestige-classes/Battle Herald#^battle-herald-inspiring-command|battle herald inspiring command]] (Ex)._
 
-Allies apply the battle herald's inspiring command bonus on Reflex saves and [[rangoric-srd/skills/Acrobatics|Acrobatics]] checks.
+Allies apply the battle herald's inspiring command bonus on Reflex Defense and [[rangoric-srd/skills/Acrobatics|Acrobatics]] checks.

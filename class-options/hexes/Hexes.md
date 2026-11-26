@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/overview]
 
 # Hexes
 
-The [[rangoric-srd/classes/Witch|witch]]’s and the [[rangoric-srd/classes/Shaman|shaman]]’s hexes, one note each. The class notes have the rules: when each gains them, the action to use one and the save DC (the witch’s [[rangoric-srd/classes/Witch#^witch-hex|Hex]] and the shaman’s [[rangoric-srd/classes/Shaman#^shaman-hex|Hex]]), and when the witch’s major and grand hexes open up ([[rangoric-srd/classes/Witch#^witch-major-hex|Major Hex]], [[rangoric-srd/classes/Witch#^witch-grand-hex|Grand Hex]]). Each note has a `hex-type` property (hex, major hex or grand hex), the `class` or classes that can take it, the `book` it comes from and, for a spirit’s hexes, its `spirit`.
+The [[rangoric-srd/classes/Witch|witch]]’s and the [[rangoric-srd/classes/Shaman|shaman]]’s hexes, one note each. The class notes have the rules: when each gains them, the action to use one and the attack bonus (the witch’s [[rangoric-srd/classes/Witch#^witch-hex|Hex]] and the shaman’s [[rangoric-srd/classes/Shaman#^shaman-hex|Hex]]), and when the witch’s major and grand hexes open up ([[rangoric-srd/classes/Witch#^witch-major-hex|Major Hex]], [[rangoric-srd/classes/Witch#^witch-grand-hex|Grand Hex]]). Each note has a `hex-type` property (hex, major hex or grand hex), the `class` or classes that can take it, the `book` it comes from and, for a spirit’s hexes, its `spirit`.
 
 The witch’s hexes come first, by type; the shaman’s are under [[#Shaman Hexes]]. ^witch-hexes
 

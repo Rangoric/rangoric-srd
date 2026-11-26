@@ -17,4 +17,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/prestige-classes/Battle Herald#^battle-herald-inspiring-command|battle herald inspiring command]] (Ex)._
 
-Allies affected by a [[rangoric-srd/rules/Special Abilities and Conditions#Fear|fear]] effect may attempt a new saving throw against each fear effect on them; this new save has a bonus equal to the battle herald's inspiring command bonus.
+Allies affected by a [[rangoric-srd/rules/Special Abilities and Conditions#Fear|fear]] effect may make each fear effect on them attack them again, a miss ending it; they gain a bonus to their defenses against these attacks equal to the battle herald's inspiring command bonus.

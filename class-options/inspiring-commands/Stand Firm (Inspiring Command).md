@@ -17,4 +17,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/prestige-classes/Battle Herald#^battle-herald-inspiring-command|battle herald inspiring command]] (Ex)._
 
-Allies apply the battle herald's inspiring command bonus to [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] and on Fortitude saves.
+Allies apply the battle herald's inspiring command bonus to [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] and Fortitude Defense.

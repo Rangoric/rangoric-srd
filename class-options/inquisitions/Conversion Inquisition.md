@@ -23,4 +23,4 @@ You are a powerful persuader. A honeyed tongue empowered by divine argumentation
 
 **Charm of Wisdom (Ex)**: You use your Wisdom modifier instead of your Charisma modifier when making Deception, Persuasion, and Intimidation checks.
 
-**Swaying Word (Sp)**: At 8th level, once per day you may speak a word of divinely inspired wisdom that causes a single creature to switch its alliance to you. The target must be within line of sight and able to hear you. If he fails his Will save, he is affected by _[[rangoric-srd/spells/Dominate Person|dominate person]]_, except the duration is only 1 minute.
+**Swaying Word (Sp)**: At 8th level, once per day you may speak a word of divinely inspired wisdom that causes a single creature to switch its alliance to you. The target must be within line of sight and able to hear you. If it hits his Will, he is affected by _[[rangoric-srd/spells/Dominate Person|dominate person]]_, except the duration is only 1 minute.

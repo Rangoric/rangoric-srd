@@ -25,4 +25,4 @@ Often it is hard to tell heretics from the faithful. You use duplicity, stealth,
 
 **Blessed Infiltration (Ex)**: At 4th level, when you make a Deception, Persuasion, or Stealth check, you may roll twice and take the more favorable result. You can use this ability a number of times per day equal to your Wisdom bonus.
 
-**Word of Anathema (Sp)**: At 8th level, once per day, you can speak a word of anathema against a single creature within 60 feet (Will negates). This acts as _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ and lasts for 1 minute, giving the target a –4 penalty on attack rolls, saves, ability checks, and skill checks.
+**Word of Anathema (Sp)**: At 8th level, once per day, you can speak a word of anathema against a single creature within 60 feet (vs Will). This acts as _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ and lasts for 1 minute, giving the target a –4 penalty on attack rolls, defenses, ability checks, and skill checks.

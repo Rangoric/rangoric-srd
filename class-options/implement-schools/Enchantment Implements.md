@@ -30,7 +30,7 @@ Enchantment implements allow the occultist to befuddle the mind and charm his fo
 
 **Base Focus Power**: All occultists who learn to use enchantment implements gain the following [[rangoric-srd/classes/Occultist#^occultist-focus-powers|focus power]].
 
-**Cloud Mind (Su)**: As a standard action, you can expend 1 point of mental focus to cloud the mind of one foe within 30 feet. That foe is [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1 round if the number of Hit Dice it possesses is less than or equal to your occultist level. If it has more Hit Dice than your occultist level, it is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1 round instead. The foe can attempt a Will saving throw to negate the effect. Whether or not it succeeds at the save, the target is then immune to this effect for 1 day. This is a mind-affecting effect. ^enchantment-base-focus-power
+**Cloud Mind (Su)**: As a standard action, you can expend 1 point of mental focus to cloud the mind of one foe within 30 feet. That foe is [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1 round if the number of Hit Dice it possesses is less than or equal to your occultist level. If it has more Hit Dice than your occultist level, it is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1 round instead. It attacks the foe’s Will, and a miss negates the effect. Whether it hits or misses, the target is then immune to this effect for 1 day. This is a mind-affecting effect. ^enchantment-base-focus-power
 
 ## Focus Powers
 

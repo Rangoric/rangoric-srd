@@ -17,4 +17,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Witch#^witch-major-hex|major hex]] (Su)._
 
-The target's wounds become infected (Fortitude negates). The target takes 1 point of Constitution damage per day. After the first day, the target may save once per day to cure the infection. This is a disease effect.
+The target's wounds become infected (vs Fortitude). The target takes 1 point of Constitution damage per day. After the first day, the infection attacks the target again once per day, and a miss cures it. This is a disease effect.
