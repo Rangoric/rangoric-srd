@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “dark curse”, on the Special Attacks line.
 
-As a standard action, a dark dancer can make a touch attack against a foe and curse it. The foe must succeed at a DC 12 Will saving throw to resist the effects. Creatures that fail the saving throw take a -2 penalty on all Dexterity and Charisma-based skill checks. This curse is permanent, but the victim of this curse can attempt a new saving throw each day. The [[rangoric-srd/monsters/dark-folk/Dark Dancer|dark dancer]] has it.
+As a standard action, a dark dancer can make a touch attack against a foe and curse it. The curse attacks the foe at +2 vs Will, and a miss resists the effects. Creatures it hits take a -2 penalty on all Dexterity and Charisma-based skill checks. This curse is permanent, but it attacks the victim again each day, and a miss ends it. The [[rangoric-srd/monsters/dark-folk/Dark Dancer|dark dancer]] has it.
