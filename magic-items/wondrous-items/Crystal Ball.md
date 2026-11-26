@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Crystal Ball
 
-This is the most common form of scrying device, a crystal sphere about 6 inches in diameter. A character can use the device to see over virtually any distance or into other planes of existence, as with the spell scrying (Will DC 16 negates).
+This is the most common form of scrying device, a crystal sphere about 6 inches in diameter. A character can use the device to see over virtually any distance or into other planes of existence, as with the spell scrying (+6 vs Will).
 
 Certain crystal balls have additional powers that can be used through the crystal ball on the target viewed.
 

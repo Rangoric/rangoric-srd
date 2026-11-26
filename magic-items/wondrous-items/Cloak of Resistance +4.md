@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Cloak of Resistance +4
 
-These garments offer magic protection in the form of a +1 to +5 resistance bonus on all saving throws (Fortitude, Reflex, and Will).
+These garments offer magic protection in the form of a +1 to +5 resistance bonus on all defenses (Fortitude, Reflex, and Will).
 
 Faint abjuration; CL 5th; Craft Wondrous Item, resistance, creator’s caster level must be at least three times the cloak’s bonus; Price 16,000 gp; Weight 1 lb.

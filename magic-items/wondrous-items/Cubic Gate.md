@@ -21,6 +21,6 @@ This item is fashioned from carnelian. Each of the six sides of the cube is keye
 
 If a side of the cubic gate is pressed once, it opens a gate to a random point on the plane keyed to that side. There is a 10% chance per minute that an outsider from that plane (determine randomly) comes through it looking for food, fun, or trouble. Pressing the side a second time closes the gate. It is impossible to open more than one gate at a time.
 
-If a side is pressed twice in quick succession, the character so doing is transported to a random point on the other plane, along with all creatures in adjacent squares. (The other creatures may avoid this fate by succeeding on DC 23 Will saves).
+If a side is pressed twice in quick succession, the character so doing is transported to a random point on the other plane, along with all creatures in adjacent squares. (The gate attacks the other creatures’ Will at +13, and a miss lets them avoid this fate).
 
 Strong conjuration; CL 13th; Craft Wondrous Item, plane shift; Price 164,000 gp.

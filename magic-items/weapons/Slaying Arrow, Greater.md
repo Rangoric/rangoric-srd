@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Slaying Arrow, Greater
 
-This +1 arrow is keyed to a particular type or subtype of creature. If it strikes such a creature, the target must make a DC 20 Fortitude save or die (or, in the case of unliving targets, be destroyed) instantly. Note that even creatures normally exempt from Fortitude saves (undead and constructs) are subject to this attack. When keyed to a living creature, this is a death effect (and thus death ward protects a target). To determine the type or subtype of creature the arrow is keyed to, roll on the table below.
+This +1 arrow is keyed to a particular type or subtype of creature. If it strikes such a creature, the arrow attacks the target’s Fortitude at +10, and on a hit it dies (or, in the case of unliving targets, is destroyed) instantly. Note that even creatures normally immune to effects that attack Fortitude (undead and constructs) are subject to this attack. When keyed to a living creature, this is a death effect (and thus death ward protects a target). To determine the type or subtype of creature the arrow is keyed to, roll on the table below.
 
 A greater slaying arrow functions just like a normal slaying arrow, but the DC to avoid the death effect is 23.
 

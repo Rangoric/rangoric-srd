@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Cap of the Free Thinker
 
-This soft cap helps the wearer free herself from outside influences. Once per day when the wearer fails a saving throw against a mind-affecting effect, she can reroll the save and take the second result.
+This soft cap helps the wearer free herself from outside influences. Once per day when a mind-affecting effect hits the wearer, she can make it reroll its attack. The attack must take the result of the reroll, even if it is better.
 
 Moderate abjuration; CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Mind Blank|mind blank]]_; Price 12,000 gp; Cost 6,000 gp.

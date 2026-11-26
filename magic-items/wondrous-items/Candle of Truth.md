@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Candle of Truth
 
-This white tallow candle, when burned, calls into place a zone of truth spell (Will DC 13 negates) in a 5-foot radius centered on the candle. The zone lasts for 1 hour, as the candle burns. If the candle is snuffed before that time, the effect is canceled and the candle ruined.
+This white tallow candle, when burned, calls into place a zone of truth spell (+3 vs Will) in a 5-foot radius centered on the candle. The zone lasts for 1 hour, as the candle burns. If the candle is snuffed before that time, the effect is canceled and the candle ruined.
 
 Faint enchantment; CL 3rd; Craft Wondrous Item, zone of truth; Price 2,500 gp;Weight 1/2 lb.

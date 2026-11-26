@@ -23,7 +23,7 @@ A _soulcleanser_ glows brightly and shrieks violently whenever it is within 30 f
 
 To a paladin, the sword confers [[rangoric-srd/rules/Special Abilities and Conditions#Spell Resistance|spell resistance]] 20 against all hostile magical effects emanating from undead sources, including spells cast and magical devices used by undead creatures.
 
-The following spell-like powers are also usable by the sword’s wielder: _[[rangoric-srd/spells/Holy Smite|holy smite]]_ (3/day, save DC 17), _[[rangoric-srd/spells/Sunbeam|sunbeam]]_ (1/day, save DC 20), and _[[rangoric-srd/spells/Restoration, Greater|greater restoration]]_ (1/day). Also, once per day the sword can weave a holy aura around its wielder, granting him a +4 enhancement bonus to Strength and a +2 resistance bonus to all saving throws. This aura remains for 10 minutes.
+The following spell-like powers are also usable by the sword’s wielder: _[[rangoric-srd/spells/Holy Smite|holy smite]]_ (3/day, +7), _[[rangoric-srd/spells/Sunbeam|sunbeam]]_ (1/day, +10), and _[[rangoric-srd/spells/Restoration, Greater|greater restoration]]_ (1/day). Also, once per day the sword can weave a holy aura around its wielder, granting him a +4 enhancement bonus to Strength and a +2 resistance bonus to all defenses. This aura remains for 10 minutes.
 
 Upon command, the sword can _[[rangoric-srd/spells/Polymorph|polymorph]]_ itself into an item required to destroy a specific undead creature, such as a [[rangoric-srd/equipment/weapons/Wooden Stake|wooden stake]] for a vampire. In addition to all other powers of the _soulcleanser_, any non-good creature that wields one is dealt 1d6 points of sacred damage per round of contact.
 

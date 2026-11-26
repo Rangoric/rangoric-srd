@@ -23,6 +23,6 @@ tags: [rangoric, rangoric/magic-item]
 
 This crown of steel and gold projects an aura of menacing power. The wearer gains a +4 competence bonus on [[rangoric-srd/skills/Intimidation|Intimidation]] checks, and whenever he confirms a critical hit, the crown creates a _[[rangoric-srd/spells/Prayer|prayer]]_ effect centered on the crown's wearer (caster level 5th).
 
-If the wearer of the crown has the [[rangoric-srd/feats/Leadership|Leadership]] feat, he gains a +1 bonus to his Leadership score and any follower or cohort of the wearer gains a +1 bonus on attack rolls and saving throws against fear effects while within line of sight of the wearer.
+If the wearer of the crown has the [[rangoric-srd/feats/Leadership|Leadership]] feat, he gains a +1 bonus to his Leadership score and any follower or cohort of the wearer gains a +1 bonus on attack rolls and defenses against fear effects while within line of sight of the wearer.
 
 Moderate enchantment; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Eagle’s Splendor|eagle's splendor]]_, _[[rangoric-srd/spells/Prayer|prayer]]_; Price 24,600 gp; Cost 12,300 gp; Weight 3 lbs.

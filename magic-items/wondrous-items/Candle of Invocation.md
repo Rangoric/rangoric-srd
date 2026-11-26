@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Candle of Invocation
 
-Each of these special tapers is dedicated to one of the nine alignments. Simply burning the candle generates a favorable aura for the individual so doing if the candle’s alignment matches that of the character. Characters of the same alignment as the burning candle add a +2 morale bonus on attack rolls, saving throws, and skill checks while within 30 feet of the flame.
+Each of these special tapers is dedicated to one of the nine alignments. Simply burning the candle generates a favorable aura for the individual so doing if the candle’s alignment matches that of the character. Characters of the same alignment as the burning candle add a +2 morale bonus on attack rolls, defenses, and skill checks while within 30 feet of the flame.
 
 A cleric whose alignment matches the candle’s operates as if two levels higher for purposes of determining spells per day if he burns the candle during or just prior to his spell preparation time. He can even cast spells normally unavailable to him, as if he were of that higher level, but only so long as the candle continues to burn. Except in special cases (see below), a candle burns for 4 hours.
 
