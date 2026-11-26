@@ -23,7 +23,7 @@ These two books are part of a set held together with a leather strap. The covers
 
 **Opposition Schools**: Divination, necromancy
 
-**Protection**: Sepia snake sigil (Reflex DC 16)
+**Protection**: Sepia snake sigil (_attack_ +6 vs Reflex)
 
 **Value**: 4,520 gp (6,320 gp with the preparation ritual)
 
@@ -38,4 +38,4 @@ These two books are part of a set held together with a leather strap. The covers
 
 ## Preparation Ritual
 
-**Sturdy Summoning (Su)**: A creature you summon gains augmented defenses for a short time. Spend this boon effect as a free action when you cast a conjuration (summoning) wizard spell. The creature you summon with that spell gains a number of temporary hit points equal to your caster level, and as long as the summoned creature has at least 1 of these hit points, it gains a +2 circumstance bonus on saving throws.
+**Sturdy Summoning (Su)**: A creature you summon gains augmented defenses for a short time. Spend this boon effect as a free action when you cast a conjuration (summoning) wizard spell. The creature you summon with that spell gains a number of temporary hit points equal to your caster level, and as long as the summoned creature has at least 1 of these hit points, it gains a +2 circumstance bonus on defenses.

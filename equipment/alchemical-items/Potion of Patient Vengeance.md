@@ -26,7 +26,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 _Ingestible/Toxin; Special_
 
-An advanced form of the [[rangoric-srd/equipment/alchemical-items/Lurking Menace Toxin|lurking menace]], the potion of patient vengeance mimics the effects of any one potion as per normal. However, should the imbiber use any other ingested magics or alchemical or herbal drinks (i.e. potions or ingestibles) within the next 12 hours, the residues from this potion turns the magical fluid into acids that inflict 1d8 pts of damage per Caster Level of the mimicked potion. Those so wounded may make a Fortitude save (DC 18) for half damage.
+An advanced form of the [[rangoric-srd/equipment/alchemical-items/Lurking Menace Toxin|lurking menace]], the potion of patient vengeance mimics the effects of any one potion as per normal. However, should the imbiber use any other ingested magics or alchemical or herbal drinks (i.e. potions or ingestibles) within the next 12 hours, the residues from this potion turns the magical fluid into acids that inflict 1d8 pts of damage per Caster Level of the mimicked potion. The acid attacks the Fortitude of those so wounded at +8, and a miss halves the damage.
 
 **Construction**: Variable aura; CL 12th; [[rangoric-srd/feats/Brew Ingestibles|Brew Ingestibles]] or [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Craft Toxins|Craft Toxins]], knowledge of potion’s spell; DC: 28; Price: 400 gp/potion
 

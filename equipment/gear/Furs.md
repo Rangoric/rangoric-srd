@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/gear]
 
 # Furs
 
-The most basic of cold-weather gear, animal furs serve to keep their wearers warm. Wearing enough fur to cover the body provides a +2 bonus on Fortitude saves to resist cold weather. This does not stack with any bonuses gained from the [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] skill.
+The most basic of cold-weather gear, animal furs serve to keep their wearers warm. Wearing enough fur to cover the body provides a +2 bonus on Fortitude Defense against cold weather. This does not stack with any bonuses gained from the [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] skill.
 
 Price 12 gp; Weight 5 lb.

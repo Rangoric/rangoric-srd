@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/gear]
 
 # Marbles
 
-Like [[rangoric-srd/equipment/gear/Caltrops|caltrops]], marbles can be used to slow down opponents. One 2-pound bag of marbles covers an area 5 feet square. A creature entering a square with marbles scattered on it must make a DC 10 Reflex save or fall [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]] (the creature's stability bonus to trip applies to this save). Any creature moving at half speed or slower can pick its way through a square of marbles with no trouble.
+Like [[rangoric-srd/equipment/gear/Caltrops|caltrops]], marbles can be used to slow down opponents. One 2-pound bag of marbles covers an area 5 feet square. The marbles attack the Reflex of a creature entering a square with marbles scattered on it at +0, and on a hit it falls [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]] (the creature's stability bonus to trip applies to its Reflex Defense against this). Any creature moving at half speed or slower can pick its way through a square of marbles with no trouble.
 
 Price 1 sp; Weight 2 lb.

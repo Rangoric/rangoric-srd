@@ -14,8 +14,8 @@ dc: "18"
 price: "225 gp/oz"
 affliction-type: "poison"
 delivery: "injury"
-save: "Fortitude DC 18"
-save-dc: 18
+attack: "+8 vs Fortitude"
+attack-bonus: 8
 frequency: "1/round for 1d4 rounds"
 effect: "1 Str drain/1d8 damage"
 based-on:
@@ -30,12 +30,12 @@ tags: [rangoric, rangoric/alchemical-item]
 
 _Unguent/Toxin; Special_
 
-This oddly named oil is utterly harmless if touched, eaten, or sprayed onto items. If it is exposed to blood (whether by contact or injury), the oil becomes highly acidic and causes immense burning in blood and in connected muscles and skin. Its initial activation creates a lot of heat and can permanently damage muscles, so the first Fort save (DC 18) must be successful to prevent the permanent loss of 1 point of Strength. The “ichorage” also induces 1d8 points of damage per round for 1d4 rounds, unless the character makes a successful Fort save (DC 18) each round for the duration. Unless magically healed, oil of ichorage leaves angry red welts as permanent scars at its wound points.
+This oddly named oil is utterly harmless if touched, eaten, or sprayed onto items. If it is exposed to blood (whether by contact or injury), the oil becomes highly acidic and causes immense burning in blood and in connected muscles and skin. Its initial activation creates a lot of heat and can permanently damage muscles, so its first attack (+8 vs Fortitude) causes the permanent loss of 1 point of Strength on a hit. The “ichorage” also attacks the character’s Fortitude each round for 1d4 rounds at +8, inducing 1d8 points of damage on each hit. Unless magically healed, oil of ichorage leaves angry red welts as permanent scars at its wound points.
 
 **Poison**: As an [[rangoric-srd/rules/Afflictions#The Affliction Block|affliction]]:
 
 - **Type**: poison, injury
-- **Save**: Fortitude DC 18
+- **Attack**: +8 vs Fortitude
 - **Frequency**: 1/round for 1d4 rounds
 - **Effect**: 1 Str drain/1d8 damage
 

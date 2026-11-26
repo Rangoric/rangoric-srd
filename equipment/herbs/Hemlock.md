@@ -8,8 +8,8 @@ harvest: "Biennial"
 cost: "15 sp/oz. of juice or per 4 oz. of dried leaves and roots"
 affliction-type: "poison"
 delivery: "ingested"
-save: "Fortitude DC 15"
-save-dc: 15
+attack: "+5 vs Fortitude"
+attack-bonus: 5
 frequency: "1/minute for 2 minutes"
 effect: "paralyzed for 1d2 hours/1d2 Con damage and 1d4 Str damage"
 based-on:
@@ -26,12 +26,12 @@ tags: [rangoric, rangoric/herb]
 - **Environment**: Any temperate forests or marshlands
 - **Harvest**: Biennial
 - **Cost**: 15 sp/oz. of juice or per 4 oz. of dried leaves and roots
-- **Game Use**: Component (Spells), Medicine (cure-all), Poison (DC 15, Paralysis for 1d2 hours/1d2 Con +1d4 Str)
+- **Game Use**: Component (Spells), Medicine (cure-all), Poison (+5 vs Fortitude, Paralysis for 1d2 hours/1d2 Con +1d4 Str)
 
 **Poison**: As an [[rangoric-srd/rules/Afflictions#The Affliction Block|affliction]]:
 
 - **Type**: poison, ingested
-- **Save**: Fortitude DC 15
+- **Attack**: +5 vs Fortitude
 - **Frequency**: 1/minute for 2 minutes
 - **Effect**: [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 1d2 hours/1d2 Con damage and 1d4 Str damage
 

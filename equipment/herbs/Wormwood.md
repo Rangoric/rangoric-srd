@@ -8,8 +8,8 @@ harvest: "Perennial"
 cost: "5 cp/ 1 oz. of dried leaves and stems"
 affliction-type: "poison"
 delivery: "ingested"
-save: "Fortitude DC 11"
-save-dc: 11
+attack: "+1 vs Fortitude"
+attack-bonus: 1
 frequency: "1/minute for 2 minutes"
 effect: "nauseated for 1 minute/1d3 nonlethal damage"
 based-on:
@@ -26,12 +26,12 @@ tags: [rangoric, rangoric/herb]
 - **Environment**: Any temperate to warm hills and plains
 - **Harvest**: Perennial
 - **Cost**: 5 cp/ 1 oz. of dried leaves and stems
-- **Game Use**: Herb/Food, Medicine (Infusions used as digestive agents and to help expel internal parasites), Poison (DC 11, Nausea/1d3 nonlethal)
+- **Game Use**: Herb/Food, Medicine (Infusions used as digestive agents and to help expel internal parasites), Poison (+1 vs Fortitude, Nausea/1d3 nonlethal)
 
 **Poison**: As an [[rangoric-srd/rules/Afflictions#The Affliction Block|affliction]]:
 
 - **Type**: poison, ingested
-- **Save**: Fortitude DC 11
+- **Attack**: +1 vs Fortitude
 - **Frequency**: 1/minute for 2 minutes
 - **Effect**: [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 minute/1d3 nonlethal damage
 

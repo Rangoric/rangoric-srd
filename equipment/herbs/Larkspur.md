@@ -8,8 +8,8 @@ harvest: "Annual"
 cost: "7 sp/oz. of flowers, dried or fresh or 1/8 oz. dried seeds or seed powder"
 affliction-type: "poison"
 delivery: "ingested"
-save: "Fortitude DC 14"
-save-dc: 14
+attack: "+4 vs Fortitude"
+attack-bonus: 4
 effect: "nauseated for 1d4 hours"
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/herbs/Larkspur|Larkspur (Alchemy & Herbalists)]]"
@@ -25,12 +25,12 @@ tags: [rangoric, rangoric/herb]
 - **Environment**: Any temperate fields
 - **Harvest**: Annual
 - **Cost**: 7 sp/oz. of flowers, dried or fresh or 1/8 oz. dried seeds or seed powder
-- **Game Use**: Decoration, Poison (DC 14; Nausea 1d4 hours)
+- **Game Use**: Decoration, Poison (+4 vs Fortitude; Nausea 1d4 hours)
 
 **Poison**: As an [[rangoric-srd/rules/Afflictions#The Affliction Block|affliction]]:
 
 - **Type**: poison, ingested
-- **Save**: Fortitude DC 14
+- **Attack**: +4 vs Fortitude
 - **Effect**: [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d4 hours
 
 Larkspur grows up to three feet tall, with tiny oblong leaves and blue to purple blossoms through the summer that lead to the flattened black seeds by autumn. The flowers are pretty and abundant enough to lead to cuttings used as decoration, but most simply wait until after the autumnal equinox and harvest the black seeds for use as an emetic poison.

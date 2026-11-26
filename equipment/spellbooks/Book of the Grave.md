@@ -23,7 +23,7 @@ This tome reeks of decomposing flesh or some even fouler stench. Grave mold clin
 
 **Opposition Schools**: Enchantment, transmutation
 
-**Protection**: The edges of the first three pages are coated with nitharit poison (contact; save Fort DC 13; frequency 1/minute for 6 minutes; effect 1d3 Con damage; cure 1 save).
+**Protection**: The edges of the first three pages are coated with nitharit poison (contact; _attack_ +3 vs Fortitude; frequency 1/minute for 6 minutes; effect 1d3 Con damage; cure 1 miss).
 
 **Value**: 780 gp (1,230 gp with the preparation ritual)
 
@@ -36,4 +36,4 @@ This tome reeks of decomposing flesh or some even fouler stench. Grave mold clin
 
 ## Preparation Ritual
 
-**Breath of the Grave (Su)**: As a swift action, spend this boon's effect to breathe a 15-foot cone of rotting stench. Creatures within the cone must succeed at a Fortitude saving throw (DC 10 + your highest caster level in a class that prepares spells) or be sickened for 1 round. This spends the boon. After this boon has been spent, you take a –4 penalty on Diplomacy and Stealth checks until you prepare spells again.
+**Breath of the Grave (Su)**: As a swift action, spend this boon's effect to breathe a 15-foot cone of rotting stench. The stench attacks the Fortitude of creatures within the cone, its attack bonus your highest caster level in a class that prepares spells; those it hits are sickened for 1 round. This spends the boon. After this boon has been spent, you take a –4 penalty on Diplomacy and Stealth checks until you prepare spells again.

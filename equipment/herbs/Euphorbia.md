@@ -8,8 +8,8 @@ harvest: "Biennial"
 cost: "15 sp/1 oz. of euphorbia “milk” or 3 oz. dried leaves"
 affliction-type: "poison"
 delivery: "ingested"
-save: "Fortitude DC 12"
-save-dc: 12
+attack: "+2 vs Fortitude"
+attack-bonus: 2
 frequency: "1/minute for 2 minutes"
 effect: "nauseated for 1 minute/1d3 Str damage"
 based-on:
@@ -26,12 +26,12 @@ tags: [rangoric, rangoric/herb]
 - **Environment**: Any temperate
 - **Harvest**: Biennial
 - **Cost**: 15 sp/1 oz. of euphorbia “milk” or 3 oz. dried leaves
-- **Game Use**: Components (Items), Poison (DC 12; Nausea/ 1d3 Str), Special (rub fresh leaves against skin to severely irritate and cause rash and weeping blisters)
+- **Game Use**: Components (Items), Poison (+2 vs Fortitude; Nausea/ 1d3 Str), Special (rub fresh leaves against skin to severely irritate and cause rash and weeping blisters)
 
 **Poison**: As an [[rangoric-srd/rules/Afflictions#The Affliction Block|affliction]]:
 
 - **Type**: poison, ingested
-- **Save**: Fortitude DC 12
+- **Attack**: +2 vs Fortitude
 - **Frequency**: 1/minute for 2 minutes
 - **Effect**: [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 minute/1d3 Str damage
 

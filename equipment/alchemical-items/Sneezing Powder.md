@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Sneezing Powder
 
-This coarse yellowish-red powder is a splash weapon that causes uncontrollable sneezing for 1d4+1 rounds. Anyone standing in the square of impact must succeed on a DC 12 Fortitude save to resist the powder, while those in adjacent squares must make DC 8 Fortitude saves. Creatures affected by sneezing powder must make a DC 10 Fortitude save every round for the duration or be [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] until their next turn.
+This coarse yellowish-red powder is a splash weapon that causes uncontrollable sneezing for 1d4+1 rounds. The powder attacks the Fortitude of anyone standing in the square of impact at +2, and of those in adjacent squares at –2. Sneezing powder attacks the Fortitude of creatures it affects every round for the duration at +0, and on a hit they are [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] until their next turn.
 
 [[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 25; Price 60 gp/pouch; Weight 2 lb.

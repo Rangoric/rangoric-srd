@@ -13,8 +13,8 @@ dc: "18"
 price: "265 gp/ oz"
 affliction-type: "poison"
 delivery: "inhaled"
-save: "Fortitude DC 18"
-save-dc: 18
+attack: "+8 vs Fortitude"
+attack-bonus: 8
 frequency: "1/minute for 2 minutes"
 effect: "unable to speak or use vocal abilities for 1d3 hours/unconscious for 1d12 minutes"
 based-on:
@@ -29,14 +29,14 @@ tags: [rangoric, rangoric/alchemical-item]
 
 _Powder/Toxin; Special_
 
-Always bottled in a tiny purple glass tube shaped like a screaming humanoid face, silentscent powder is an inhaled toxin blown into the face of a victim. The inhaled dust deadens their vocal cords and tightens the throat, making it impossible to speak or use any vocal abilities, assuming the person fails the Fort save (DC 18). This powder can also induce unconsciousness, if a person fails a second Fort save (DC 18) and passes out for 1d12 minutes due to throat constriction and lack of air.
+Always bottled in a tiny purple glass tube shaped like a screaming humanoid face, silentscent powder is an inhaled toxin blown into the face of a victim. The inhaled dust deadens their vocal cords and tightens the throat, making it impossible to speak or use any vocal abilities, assuming the powder hits (_attack_ +8 vs Fortitude). This powder can also induce unconsciousness: if a second attack (+8 vs Fortitude) hits, the person passes out for 1d12 minutes due to throat constriction and lack of air.
 
 While seemingly harmless to most, wizards (and politicians) fear this toxin as it robs them of their source of power—their voices. Over the centuries, many have died in wizards’ duels as a hired assassin blew this powder into a contestant’s face just before the duels were to begin, rendering the spellcaster powerless.
 
 **Poison**: As an [[rangoric-srd/rules/Afflictions#The Affliction Block|affliction]]:
 
 - **Type**: poison, inhaled
-- **Save**: Fortitude DC 18
+- **Attack**: +8 vs Fortitude
 - **Frequency**: 1/minute for 2 minutes
 - **Effect**: unable to speak or use vocal abilities for 1d3 hours/[[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] for 1d12 minutes
 

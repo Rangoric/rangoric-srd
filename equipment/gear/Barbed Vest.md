@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/gear]
 
 # Barbed Vest
 
-Thin leather flaps keep the hundreds of tiny, fishhook-like needles dotting the surface of this black vest from harming you while you wear it. However, any creature that injures you with a natural or unarmed attack must make a DC 15 Reflex save or take 1 point of damage. If a creature swallows you it takes 1 point of damage each round until it either spits you up, you escape, or you die (at which point the vest has sustained enough damage to no longer serve as a threat). The vest can only be worn over light armor or no armor.
+Thin leather flaps keep the hundreds of tiny, fishhook-like needles dotting the surface of this black vest from harming you while you wear it. However, the needles attack the Reflex of any creature that injures you with a natural or unarmed attack at +5, and on a hit it takes 1 point of damage. If a creature swallows you it takes 1 point of damage each round until it either spits you up, you escape, or you die (at which point the vest has sustained enough damage to no longer serve as a threat). The vest can only be worn over light armor or no armor.
 
 Price 10 gp; Weight 4 lb.
