@@ -16,7 +16,7 @@ full-attack: "Masterwork greataxe +10 melee (1d12+9/×3) and bite +4 melee (1d6+
 space-reach: "5 ft./5 ft."
 special-attacks: "Rage (9 rounds/day)"
 special-qualities: "Darkvision 60 ft., uncanny dodge, fast movement"
-saves: "Fort +11, Ref +1, Will +3"
+defenses: "Fort 21, Ref 11, Will 13"
 abilities: "Str 23, Dex 13, Con 20, Int 8, Wis 12, Cha 6"
 skills: "Acrobatics +3, Athletics +8, Fieldcraft +6, Perception +6"
 skill-ranks: "Acrobatics 2, Athletics 2, Fieldcraft 2, Perception 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (9 rounds/day)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]]
-- **Saves**: Fort +11, Ref +1, Will +3
+- **Defenses**: Fort 21, Ref 11, Will 13
 - **Abilities**: Str 23, Dex 13, Con 20, Int 8, Wis 12, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +6
 - **Feats**: [[rangoric-srd/feats/Coordinated Reposition|Coordinated Reposition]], [[rangoric-srd/feats/Snapping Jaws|Snapping Jaws]], [[rangoric-srd/feats/Step Up|Step Up]]

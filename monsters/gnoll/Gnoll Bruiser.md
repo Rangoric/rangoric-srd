@@ -16,7 +16,7 @@ full-attack: "Greatclub +6 melee (1d10+6); or javelin +4 ranged (1d6+4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +1d6"
 special-qualities: "Darkvision 60 ft., trapfinding +1, finesse training"
-saves: "Fort +7, Ref +4, Will +1"
+defenses: "Fort 17, Ref 14, Will 11"
 abilities: "Str 19, Dex 14, Con 15, Int 6, Wis 12, Cha 8"
 skills: "Acrobatics +9, Fieldcraft +8, Perception +5"
 skill-ranks: "Acrobatics 4, Fieldcraft 4, Perception 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]]
-- **Saves**: Fort +7, Ref +4, Will +1
+- **Defenses**: Fort 17, Ref 14, Will 11
 - **Abilities**: Str 19, Dex 14, Con 15, Int 6, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Perception|Perception]] +5
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

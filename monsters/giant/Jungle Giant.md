@@ -16,7 +16,7 @@ full-attack: "2 slams +17 melee (2d6+8); or masterwork composite longbow +15/+10
 space-reach: "15 ft./15 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, rock catching, spell storing, warding tattoos, archery expert, immunity to disease and poison"
-saves: "Fort +9, Ref +13, Will +7"
+defenses: "Fort 19, Ref 23, Will 17"
 abilities: "Str 26, Dex 19, Con 19, Int 10, Wis 14, Cha 11"
 skills: "Athletics +12, Craft (bows) +8, Fieldcraft +10, Perception +15, Stealth +12 (+20 in forests)"
 skill-ranks: "Athletics 0, Craft (bows) 5, Fieldcraft 5, Perception 10, Stealth 13"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Spell Storing|spell storing]], [[rangoric-srd/monsters/abilities/Warding Tattoos|warding tattoos]], [[rangoric-srd/monsters/abilities/Archery Expert|archery expert]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and poison
-- **Saves**: Fort +9, Ref +13, Will +7
+- **Defenses**: Fort 19, Ref 23, Will 17
 - **Abilities**: Str 26, Dex 19, Con 19, Int 10, Wis 14, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Craft|Craft]] (bows) +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +12 (+20 in forests)
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (longbow), [[rangoric-srd/feats/Improved Precise Shot|Improved Precise Shot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longbow)

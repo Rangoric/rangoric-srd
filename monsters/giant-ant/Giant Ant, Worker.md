@@ -16,7 +16,7 @@ full-attack: "Bite +1 melee (1d6)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Improved grab"
 special-qualities: "Scent, vermin traits"
-saves: "Fort +3, Ref +0, Will +0"
+defenses: "Fort 13, Ref 10, Will 10"
 abilities: "Str 10, Dex 10, Con 10, Int —, Wis 11, Cha 9"
 skills: "Athletics +5 (+13 climbing)"
 skill-ranks: "Athletics 2"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Improved grab
 - **Special Qualities**: Scent, vermin traits
-- **Saves**: Fort +3, Ref +0, Will +0
+- **Defenses**: Fort 13, Ref 10, Will 10
 - **Abilities**: Str 10, Dex 10, Con 10, Int —, Wis 11, Cha 9
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +5 (+13 climbing)
 - **Feats**: TrackB

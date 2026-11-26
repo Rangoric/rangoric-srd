@@ -16,7 +16,7 @@ full-attack: "+1 flaming warhammer +27/+22/+17 melee (2d6+13/×3); or rock +15/+
 space-reach: "10 ft./10 ft."
 special-attacks: "Heated rock, rock throwing (120 ft.)"
 special-qualities: "Low-light vision, bravery +1, rock catching, armor training 1, immunity to fire, vulnerability to cold"
-saves: "Fort +16, Ref +7, Will +11 (+1 vs. fear)"
+defenses: "Fort 26, Ref 17, Will 21 (+1 vs. fear)"
 abilities: "Str 35, Dex 13, Con 19, Int 12, Wis 16, Cha 10"
 skills: "Athletics +22, Craft (weapons) +9, Intimidation +21, Perception +24"
 skill-ranks: "Athletics 7, Craft (weapons) 5, Intimidation 18, Perception 18"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/giant/Fire Giant|Heated rock]], [[rangoric-srd/monsters/abilities/Rock Throwing|rock throwing]] (120 ft.)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, vulnerability to cold
-- **Saves**: Fort +16, Ref +7, Will +11 (+1 vs. fear)
+- **Defenses**: Fort 26, Ref 17, Will 21 (+1 vs. fear)
 - **Abilities**: Str 35, Dex 13, Con 19, Int 12, Wis 16, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Craft|Craft]] (weapons) +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +21, [[rangoric-srd/skills/Perception|Perception]] +24
 - **Feats**: [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Impact Critical Shot|Impact Critical Shot]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Smoking Boulder|Smoking Boulder]], [[rangoric-srd/feats/Target of Opportunity|Target of Opportunity]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (warhammer)

@@ -16,7 +16,7 @@ full-attack: "Masterwork greatsword +27/+22/+17 melee (4d6+21/17–20); or 2 sla
 space-reach: "15 ft./15 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Low-light vision, rock catching, militant, water breathing, immunity to electricity"
-saves: "Fort +17, Ref +8, Will +13"
+defenses: "Fort 27, Ref 18, Will 23"
 abilities: "Str 39, Dex 14, Con 23, Int 16, Wis 20, Cha 15"
 skills: "Acrobatics +18, Athletics +22, Craft (any one) +13, Intimidation +20, Perception +27, Performance (sing) +12, Sense Motive +24"
 skill-ranks: "Acrobatics 13, Athletics 5, Craft (any one) 7, Intimidation 15, Perception 19, Perform (sing) 6, Sense Motive 16"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], militant, [[rangoric-srd/monsters/abilities/Water Breathing|water breathing]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity
-- **Saves**: Fort +17, Ref +8, Will +13
+- **Defenses**: Fort 27, Ref 18, Will 23
 - **Abilities**: Str 39, Dex 14, Con 23, Int 16, Wis 20, Cha 15
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Craft|Craft]] (any one) +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Performance|Performance]] (sing) +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +24
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (greatsword), [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -76,7 +76,7 @@ Storm giants speak Auran, Common, Draconic and Giant.
 
 Storm giants use weapons and spell-like abilities instead of throwing rocks. Their composite longbows have a range increment of 180 feet.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 15th): Constant—_[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_; 2/day—_[[rangoric-srd/spells/Control Weather|control weather]]_, _[[rangoric-srd/spells/Levitate|levitate]]_; 1/day—_[[rangoric-srd/spells/Call Lightning|call lightning]]_ (DC 15), _[[rangoric-srd/spells/Chain Lightning|chain lightning]]_ (DC 18).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 15th): Constant—_[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_; 2/day—_[[rangoric-srd/spells/Control Weather|control weather]]_, _[[rangoric-srd/spells/Levitate|levitate]]_; 1/day—_[[rangoric-srd/spells/Call Lightning|call lightning]]_ (+5 vs Reflex), _[[rangoric-srd/spells/Chain Lightning|chain lightning]]_ (+8 vs Reflex).
 
 **Militant (Ex)**: Storm giants are proficient with all simple and all martial weapons.
 

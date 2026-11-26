@@ -16,7 +16,7 @@ full-attack: "Masterwork greatclub +24/+19/+14 melee (3d8+19) and gore +18 melee
 space-reach: "15 ft./15 ft."
 special-attacks: "Powerful charge (gore, 4d8+24), rock throwing (120 ft.)"
 special-qualities: "Low-light vision, flash of brutality"
-saves: "Fort +12, Ref +6, Will +14"
+defenses: "Fort 22, Ref 16, Will 24"
 abilities: "Str 36, Dex 13, Con 25, Int 7, Wis 14, Cha 8"
 skills: "Perception +22"
 skill-ranks: "Perception 17"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (gore, 4d8+24), [[rangoric-srd/monsters/abilities/Rock Throwing|rock throwing]] (120 ft.)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Flash of Brutality|flash of brutality]]
-- **Saves**: Fort +12, Ref +6, Will +14
+- **Defenses**: Fort 22, Ref 16, Will 24
 - **Abilities**: Str 36, Dex 13, Con 25, Int 7, Wis 14, Cha 8
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +22
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Sickening Critical|Sickening Critical]]

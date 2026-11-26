@@ -16,7 +16,7 @@ full-attack: "Battleaxe +12/+7 melee (2d6+9/×3); or 2 slams +11 melee (1d8+6); 
 space-reach: "10 ft./10 ft."
 special-attacks: "Rock throwing (100 ft.)"
 special-qualities: "Darkvision 120 ft., low-light vision, ferocity, rock catching, axe wielder, light sensitivity"
-saves: "Fort +9, Ref +3, Will +3"
+defenses: "Fort 19, Ref 13, Will 13"
 abilities: "Str 23, Dex 10, Con 17, Int 6, Wis 10, Cha 7"
 skills: "Athletics +7, Intimidation +7, Perception +5"
 skill-ranks: "Athletics 1, Intimidation 6, Perception 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (100 ft.)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Axe Wielder|axe wielder]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +9, Ref +3, Will +3
+- **Defenses**: Fort 19, Ref 13, Will 13
 - **Abilities**: Str 23, Dex 10, Con 17, Int 6, Wis 10, Cha 7
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +5
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (battleaxe)

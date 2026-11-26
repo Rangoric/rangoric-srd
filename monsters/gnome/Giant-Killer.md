@@ -16,7 +16,7 @@ full-attack: "+1 gnome hooked hammer +13/+8/+3 melee (1d6+3/19–20/×3) and mas
 space-reach: "5 ft./5 ft."
 special-attacks: "+1 on attack rolls against goblinoid and reptilian humanoids, favored enemy (earth outsiders +2, giants +6, oozes +2)"
 special-qualities: "Low-light vision, defensive training (+4 dodge bonus to AC vs. giants), evasion, favored terrain (mountain +2, underground +4), hunter's bond (companions), quarry, swift tracker, track +5, wild empathy +11, woodland stride, immunity to poison, resistance to fire 20"
-saves: "Fort +12, Ref +10, Will +6 (+2 vs. illusions)"
+defenses: "Fort 22, Ref 20, Will 16 (+2 vs. illusions)"
 abilities: "Str 14, Dex 14, Con 18, Int 10, Wis 14, Cha 10"
 skills: "Acrobatics +17, Athletics +8 (+4 jumping), Dungeoneering +5, Fieldcraft +16, Linguistics +1, Nature +8, Perception +18, Society +8, Stealth +19"
 skill-ranks: "Acrobatics 12, Athletics 3, Dungeoneering 2, Fieldcraft 11, Linguistics 1, Nature 5, Perception 13, Society 5, Stealth 10"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/races/Gnome|+1 on attack rolls against goblinoid and reptilian humanoids]], [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (earth outsiders +2, giants +6, oozes +2)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Gnome#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Ranger#^ranger-evasion|evasion]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (mountain +2, underground +4), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/classes/Ranger#^ranger-quarry|quarry]], [[rangoric-srd/classes/Ranger#^ranger-swift-tracker|swift tracker]], [[rangoric-srd/classes/Ranger#^ranger-track|track]] +5, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +11, [[rangoric-srd/classes/Ranger#^ranger-woodland-stride|woodland stride]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 20
-- **Saves**: Fort +12, Ref +10, Will +6 (+2 vs. illusions)
+- **Defenses**: Fort 22, Ref 20, Will 16 (+2 vs. illusions)
 - **Abilities**: Str 14, Dex 14, Con 18, Int 10, Wis 14, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Athletics|Athletics]] +8 (+4 jumping), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +5, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16, [[rangoric-srd/skills/Linguistics|Linguistics]] +1, [[rangoric-srd/skills/Nature|Nature]] +8, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +19
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (gnome hooked hammer), [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Two-Weapon Rend|Two-Weapon Rend]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]

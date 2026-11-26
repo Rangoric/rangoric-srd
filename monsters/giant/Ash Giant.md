@@ -16,7 +16,7 @@ full-attack: "Huge club +20/+15 melee (2d6+11 plus disease) and slam +15 melee (
 space-reach: "10 ft./10 ft."
 special-attacks: "Disease, rock throwing (120 ft.)"
 special-qualities: "Low-light vision, rock catching, oversized weapon, vermin empathy +14, immunity to disease and poison"
-saves: "Fort +15, Ref +6, Will +5"
+defenses: "Fort 25, Ref 16, Will 15"
 abilities: "Str 33, Dex 14, Con 23, Int 9, Wis 12, Cha 10"
 skills: "Athletics +14, Fieldcraft +10, Intimidation +6, Medicine +5, Perception +8"
 skill-ranks: "Athletics 3, Fieldcraft 5, Intimidation 3, Medicine 3, Perception 4"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]], [[rangoric-srd/monsters/abilities/Rock Throwing|rock throwing]] (120 ft.)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Oversized Weapon|oversized weapon]], [[rangoric-srd/monsters/abilities/Vermin Empathy|vermin empathy]] +14, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and poison
-- **Saves**: Fort +15, Ref +6, Will +5
+- **Defenses**: Fort 25, Ref 16, Will 15
 - **Abilities**: Str 33, Dex 14, Con 23, Int 9, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Medicine|Medicine]] +5, [[rangoric-srd/skills/Perception|Perception]] +8
 - **Feats**: [[rangoric-srd/feats/Catch Off-Guard|Catch Off-Guard]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft)
@@ -73,7 +73,7 @@ Ash giants speak Common and Giant.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Su)**: While ash giants are immune to disease, they carry a contagious form of leprosy. Any creature struck by an ash giant's attacks is exposed to this virulent sickness. [[rangoric-srd/rules/afflictions/Ash Leprosy|Ash Leprosy]]: injury; _save_ Fort DC 23; _onset_ 1 minute; _frequency_ 1/day; _effect_ 1d2 Con damage, 1d2 Cha drain; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Su)**: While ash giants are immune to disease, they carry a contagious form of leprosy. Any creature struck by an ash giant's attacks is exposed to this virulent sickness. [[rangoric-srd/rules/afflictions/Ash Leprosy|Ash Leprosy]]: injury; _attack_ +13 vs Fortitude; _onset_ 1 minute; _frequency_ 1/day; _effect_ 1d2 Con damage, 1d2 Cha drain; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Oversized Weapon|Oversized Weapon]] (Ex)**: An ash giant can wield Huge weapons without penalty.
 

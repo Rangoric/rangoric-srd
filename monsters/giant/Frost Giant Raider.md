@@ -16,7 +16,7 @@ full-attack: "+1 greataxe +27/+22/+17 melee (3d6+22/×3); or rock +11 ranged (1d
 space-reach: "10 ft./10 ft."
 special-attacks: "Rage (13 rounds/day), rage powers (knockback), rock throwing (120 ft.)"
 special-qualities: "Low-light vision, rock catching, uncanny dodge, fast movement, immunity to cold, vulnerability to fire"
-saves: "Fort +22, Ref +5, Will +10"
+defenses: "Fort 32, Ref 15, Will 20"
 abilities: "Str 39, Dex 11, Con 28, Int 10, Wis 16, Cha 8"
 skills: "Athletics +20, Intimidation +32, Perception +22, Stealth –5 (-1 in snow)"
 skill-ranks: "Athletics 3, Intimidation 30, Perception 16, Stealth 0"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (13 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Knockback (Rage Power)|knockback]]), [[rangoric-srd/monsters/abilities/Rock Throwing|rock throwing]] (120 ft.)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, vulnerability to fire
-- **Saves**: Fort +22, Ref +5, Will +10
+- **Defenses**: Fort 32, Ref 15, Will 20
 - **Abilities**: Str 39, Dex 11, Con 28, Int 10, Wis 16, Cha 8
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +32, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Stealth|Stealth]] –5 (-1 in snow)
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Shatter Defenses|Shatter Defenses]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greataxe)

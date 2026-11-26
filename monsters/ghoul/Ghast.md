@@ -16,7 +16,7 @@ full-attack: "Bite +5 melee (1d8+3 plus paralysis) and 2 claws +3 melee (1d4+1 p
 space-reach: "5 ft./5 ft."
 special-attacks: "Ghoul fever, paralyis, stench"
 special-qualities: "Darkvision 60 ft., undead traits, +2 turn resistance"
-saves: "Fort +1, Ref +4, Will +6"
+defenses: "Fort 11, Ref 14, Will 16"
 abilities: "Str 17, Dex 17, Con —, Int 13, Wis 14, Cha 16"
 skills: "Acrobatics +10, Athletics +10, Perception +9, Stealth +10"
 skill-ranks: "Acrobatics 4, Athletics 4, Perception 4, Stealth 4"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Ghoul fever, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyis]], stench
 - **Special Qualities**: Darkvision 60 ft., undead traits, +2 turn resistance
-- **Saves**: Fort +1, Ref +4, Will +6
+- **Defenses**: Fort 11, Ref 14, Will 16
 - **Abilities**: Str 17, Dex 17, Con —, Int 13, Wis 14, Cha 16
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Unspent Skill Points**: 4
@@ -66,8 +66,8 @@ Although these creatures look just like their lesser kin, they are far more dead
 
 ### Combat
 
-**Ghoul Fever (Su)**: [[rangoric-srd/rules/Afflictions#Disease|Disease]] - bite, Fortitude DC 15, incubation period 1 day, damage 1d3 Con and 1d3 Dex. The save DC is Charisma-based.
+**Ghoul Fever (Su)**: [[rangoric-srd/rules/Afflictions#Disease|Disease]] - bite, +5 vs Fortitude, incubation period 1 day, damage 1d3 Con and 1d3 Dex. The attack bonus is Charisma-based.
 
-**Paralysis (Ex)**: Those hit by a ghast’s bite or claw attack must succeed on a DC 15 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 1d4+1 rounds. Even elves can be affected by this paralysis. The save DC is Charisma-based.
+**Paralysis (Ex)**: Those hit by a ghast’s bite or claw attack are attacked at +5 vs Fortitude, and on a hit are [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 1d4+1 rounds. Even elves can be affected by this paralysis. The attack bonus is Charisma-based.
 
-**Stench (Ex)**: The stink of death and corruption surrounding these creatures is overwhelming. Living creatures within 10 feet must succeed on a DC 15 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d6+4 minutes. A creature that successfully saves cannot be affected again by the same ghast’s stench for 24 hours. A [[rangoric-srd/spells/Spells D to E|delay poison]] or [[rangoric-srd/spells/Neutralize Poison|neutralize poison]] spell removes the effect from a sickened creature. Creatures with immunity to poison are unaffected, and creatures resistant to poison receive their normal bonus on their saving throws. The save DC is Charisma-based.
+**Stench (Ex)**: The stink of death and corruption surrounding these creatures is overwhelming. The stench attacks living creatures within 10 feet at +5 vs Fortitude, and those it hits are [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d6+4 minutes. A creature the stench misses cannot be affected again by the same ghast’s stench for 24 hours. A [[rangoric-srd/spells/Spells D to E|delay poison]] or [[rangoric-srd/spells/Neutralize Poison|neutralize poison]] spell removes the effect from a sickened creature. Creatures with immunity to poison are unaffected, and creatures resistant to poison receive their normal bonus to their defenses. The attack bonus is Charisma-based.

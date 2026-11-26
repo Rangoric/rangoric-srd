@@ -16,7 +16,7 @@ full-attack: "Morningstar +22/+17/+12 melee (4d6+18); or 2 slams +22 melee (2d6+
 space-reach: "15 ft./15 ft."
 special-attacks: "Rock throwing (140 ft.), spell-like abilities"
 special-qualities: "Low-light vision, scent, rock catching, oversized weapon"
-saves: "Fort +16, Ref +6, Will +10"
+defenses: "Fort 26, Ref 16, Will 20"
 abilities: "Str 35, Dex 13, Con 23, Int 12, Wis 16, Cha 12"
 skills: "Athletics +19, Craft (any one) +10, Intimidation +26, Perception +17, Performance (string instruments) +8, Persuasion +9"
 skill-ranks: "Athletics 4, Craft (any one) 6, Intimidation 22, Perception 11, Perform (string instruments) 4, Persuasion 5"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (140 ft.), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], oversized weapon
-- **Saves**: Fort +16, Ref +6, Will +10
+- **Defenses**: Fort 26, Ref 16, Will 20
 - **Abilities**: Str 35, Dex 13, Con 23, Int 12, Wis 16, Cha 12
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Craft|Craft]] (any one) +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +26, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Performance|Performance]] (string instruments) +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +9
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]

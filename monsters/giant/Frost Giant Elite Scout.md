@@ -16,7 +16,7 @@ full-attack: "+1 spear +24/+19/+14 melee (2d6+16/×3); or rock +16 ranged (1d8+1
 space-reach: "10 ft./10 ft."
 special-attacks: "Combat style (archery), favored enemy (humans +2), rock throwing (120 ft.)"
 special-qualities: "Low-light vision, rock catching, favored terrain (cold +2), hunter's bond (companions), track +2, wild empathy +3, immunity to cold, vulnerability to fire"
-saves: "Fort +19, Ref +11, Will +10"
+defenses: "Fort 29, Ref 21, Will 20"
 abilities: "Str 31, Dex 16, Con 22, Int 14, Wis 16, Cha 8"
 skills: "Acrobatics +11, Animal Handling +11, Athletics +21 (+25 jumping), Fieldcraft +15, Nature +14, Perception +30, Society +9, Stealth +30 (+34 in snow)"
 skill-ranks: "Acrobatics 5, Animal Handling 9, Athletics 8, Fieldcraft 9, Nature 9, Perception 24, Society 4, Stealth 28"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (archery), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (humans +2), [[rangoric-srd/monsters/abilities/Rock Throwing|rock throwing]] (120 ft.)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (cold +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/classes/Ranger|track]] +2, [[rangoric-srd/classes/Ranger|wild empathy]] +3, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, vulnerability to fire
-- **Saves**: Fort +19, Ref +11, Will +10
+- **Defenses**: Fort 29, Ref 21, Will 20
 - **Abilities**: Str 31, Dex 16, Con 22, Int 14, Wis 16, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +21 (+25 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +15, [[rangoric-srd/skills/Nature|Nature]] +14, [[rangoric-srd/skills/Perception|Perception]] +30, [[rangoric-srd/skills/Society|Society]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +30 (+34 in snow)
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Track|Track]]

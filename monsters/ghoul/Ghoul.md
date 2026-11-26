@@ -13,9 +13,9 @@ cmd: "14"
 attack: "Bite +3 melee (1d6+1 plus disease and paralysis) or claw +3 melee (1d6+1 plus paralysis)"
 full-attack: "Bite +3 melee (1d6+1 plus disease and paralysis) and 2 claws +3 melee (1d6+1 plus paralysis)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Paralysis (1d4+1 rounds, DC 13, elves are immune to this effect), disease"
+special-attacks: "Paralysis (1d4+1 rounds, +3 vs Fortitude, elves are immune to this effect), disease"
 special-qualities: "Darkvision 60 ft., channel resistance +2, undead traits"
-saves: "Fort +2, Ref +2, Will +5"
+defenses: "Fort 12, Ref 12, Will 15"
 abilities: "Str 13, Dex 15, Con —, Int 13, Wis 14, Cha 14"
 skills: "Acrobatics +4, Athletics +6, Perception +7, Stealth +7"
 skill-ranks: "Acrobatics 2, Athletics 2, Perception 2, Stealth 2"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +3 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]) or claw +3 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
 - **Full Attack**: Bite +3 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]) and 2 claws +3 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Paralysis|Paralysis]] (1d4+1 rounds, DC 13, elves are immune to this effect), [[rangoric-srd/monsters/abilities/Disease|disease]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Paralysis|Paralysis]] (1d4+1 rounds, +3 vs Fortitude, elves are immune to this effect), [[rangoric-srd/monsters/abilities/Disease|disease]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +2, Ref +2, Will +5
+- **Defenses**: Fort 12, Ref 12, Will 15
 - **Abilities**: Str 13, Dex 15, Con —, Int 13, Wis 14, Cha 14
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -92,7 +92,7 @@ Not all ghouls live in dark warrens under cemeteries, however. In some remote re
 
 Aquatic ghouls, called lacedons, live within secluded reefs and underground caves near communities of underwater humanoids like [[rangoric-srd/monsters/Grindylow|grindylows]], locathahs, or merfolk. Lacedons are as notorious in the folktales of undersea peoples as ghouls are in those of surface races. Lacedons who prefer easier targets to prey upon primarily dwell near shores or along trade routes, where they suffer through hunger for long stretches of time until a shipwreck provides them with a glorious, gory feast. Lacedons are also more mobile than other ghouls. If they catch the taste of humanoid blood carried by the currents, they can trace it for miles back to the source.
 
-**Ghast**: Ghasts are ghouls with the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced monster template]]. A ghast's paralysis even affects elves. Ghasts roam in packs of their own kind or lead groups of common ghouls. The stink of death and corruption surrounding these creatures is overwhelming, granting them the stench extraordinary ability (10-foot radius, Fort DC 15 negates, [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d6+4 minutes).
+**Ghast**: Ghasts are ghouls with the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced monster template]]. A ghast's paralysis even affects elves. Ghasts roam in packs of their own kind or lead groups of common ghouls. The stink of death and corruption surrounding these creatures is overwhelming, granting them the stench extraordinary ability (10-foot radius, +5 vs Fortitude, [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d6+4 minutes).
 
 **Lacedon**: These aquatic cousins of the ghoul lurk near hidden reefs or other places where ships are likely to meet their ends. Lacedons have a base land speed of 30 feet and a swim speed of 30 feet.
 
@@ -100,6 +100,6 @@ Aquatic ghouls, called lacedons, live within secluded reefs and underground cave
 
 Ghouls try to attack with surprise whenever possible. They strike from behind tombstones and burst from shallow graves.
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Su)**: [[rangoric-srd/rules/afflictions/Ghoul Fever|Ghoul Fever]]: Bite—injury; _save_ Fort DC 13; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d3 Con and 1d3 Dex damage; _cure_ 2 consecutive saves. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Su)**: [[rangoric-srd/rules/afflictions/Ghoul Fever|Ghoul Fever]]: Bite—injury; _attack_ +3 vs Fortitude; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d3 Con and 1d3 Dex damage; _cure_ 2 consecutive misses. The attack bonus is Charisma-based.
 
 A humanoid who dies of ghoul fever rises as a ghoul at the next midnight. A humanoid who becomes a ghoul in this way retains none of the abilities it possessed in life. It is not under the control of any other ghouls, but it hungers for the flesh of the living and behaves like a normal ghoul in all respects. A humanoid of 4 Hit Dice or more rises as a ghast.

@@ -14,9 +14,9 @@ cmd: "15"
 attack: "Masterwork longsword +7 melee (1d6+1/19–20) or masterwork longbow +8 ranged (1d6/×3)"
 full-attack: "Masterwork longsword +7 melee (1d6+1/19–20); or masterwork longbow +8 ranged (1d6/×3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "+1 on attack rolls against goblinoid and reptilian humanoids, channel positive energy (DC 16, 2d6), smite evil 2/day (+4 attack and AC, +4 damage), turn undead"
+special-attacks: "+1 on attack rolls against goblinoid and reptilian humanoids, channel positive energy (+6 vs Will, 2d6), smite evil 2/day (+4 attack and AC, +4 damage), turn undead"
 special-qualities: "Low-light vision, aura of courage (10 ft.), defensive training (+4 dodge bonus to AC vs. giants), aura, code of conduct, lay on hands (2d6, 6/day), mercy (fatigued), immunity to disease and fear"
-saves: "Fort +11, Ref +7, Will +8 (+2 vs. illusions)"
+defenses: "Fort 21, Ref 17, Will 18 (+2 vs. illusions)"
 abilities: "Str 12, Dex 12, Con 15, Int 10, Wis 8, Cha 18"
 skills: "Animal Handling +8, Perception +5, Persuasion +8, Stealth +6"
 skill-ranks: "Animal Handling 1, Perception 3, Persuasion 1, Stealth 1"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +7 melee (1d6+1/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Longbow|longbow]] +8 ranged (1d6/×3)
 - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +7 melee (1d6+1/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Longbow|longbow]] +8 ranged (1d6/×3)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/races/Gnome|+1 on attack rolls against goblinoid and reptilian humanoids]], [[rangoric-srd/classes/Paladin#^paladin-channel-positive-energy|channel positive energy]] (DC 16, 2d6), [[rangoric-srd/classes/Paladin#^paladin-smite-evil|smite evil]] 2/day (+4 attack and AC, +4 damage), [[rangoric-srd/classes/Paladin#^paladin-turn-undead|turn undead]]
+- **Special Attacks**: [[rangoric-srd/races/Gnome|+1 on attack rolls against goblinoid and reptilian humanoids]], [[rangoric-srd/classes/Paladin#^paladin-channel-positive-energy|channel positive energy]] (+6 vs Will, 2d6), [[rangoric-srd/classes/Paladin#^paladin-smite-evil|smite evil]] 2/day (+4 attack and AC, +4 damage), [[rangoric-srd/classes/Paladin#^paladin-turn-undead|turn undead]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Paladin#^paladin-aura-of-courage|aura of courage]] (10 ft.), [[rangoric-srd/races/Gnome#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Paladin|aura]], [[rangoric-srd/classes/Paladin#^paladin-code-of-conudct|code of conduct]], [[rangoric-srd/classes/Paladin#^paladin-lay-on-hands|lay on hands]] (2d6, 6/day), [[rangoric-srd/classes/Paladin#^paladin-mercy|mercy]] (fatigued), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and fear
-- **Saves**: Fort +11, Ref +7, Will +8 (+2 vs. illusions)
+- **Defenses**: Fort 21, Ref 17, Will 18 (+2 vs. illusions)
 - **Abilities**: Str 12, Dex 12, Con 15, Int 10, Wis 8, Cha 18
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longbow)

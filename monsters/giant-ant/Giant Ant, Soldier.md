@@ -16,7 +16,7 @@ full-attack: "Bite +3 melee (2d4+3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Improved grab, acid sting"
 special-qualities: "Scent, vermin traits"
-saves: "Fort +4, Ref +0, Will +1"
+defenses: "Fort 14, Ref 10, Will 11"
 abilities: "Str 14, Dex 10, Con 13, Int —, Wis 13, Cha 11"
 skills: "Athletics +7 (+15 climbing)"
 skill-ranks: "Athletics 2"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Improved grab, acid sting
 - **Special Qualities**: Scent, vermin traits
-- **Saves**: Fort +4, Ref +0, Will +1
+- **Defenses**: Fort 14, Ref 10, Will 11
 - **Abilities**: Str 14, Dex 10, Con 13, Int —, Wis 13, Cha 11
 - **Skills**: Athletics +7 (+15 climbing)
 - **Feats**: TrackB
