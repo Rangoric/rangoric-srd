@@ -26,7 +26,7 @@ _Alchana; Special_
 
 This powerful solvent temporarily reduces the break DC on any materials save glass by -15 without affecting its innate nature or essence. Thus, it becomes easy to crush or break materials for processing and using in alchemical works. A flask can be thrown as a grenade-like missile (treat as a flask of acid in all ways but damage) and its effects are as follows:
 
-- There are no saving throws against the Alkahest’s effects (which is why it is so highly sought).
+- The Alkahest’s effects make no attack against a defense (which is why it is so highly sought).
 - Solid materials break up into a gravelly powder, and each 6-ounce flask can reduce up to six pounds of material to a granular form (starting with the object at the point of impact, which absorbs half the effect);
 - Organic materials (living plants or animals or people) suffer serious burns to exposed skin— 2d6 points of damage on a direct hit and 1d4 points by splash (though the splash is limited to a three-foot radius from the point of impact, not the usual five). Bear in mind that a person at the direct point of impact only suffers splash effects if the Alkahest hits armor first (most likely destroying the armor or rendering it useless at the point of impact).
 - Undead organic materials have truly spectacular reactions to the Alkahest—the solvent treats them as inorganic matter and crystallizes them, but the necromancy that animates the undead becomes unstable as a result and undead (all those within the splash radius) suffer double the damage taken by living creatures above.

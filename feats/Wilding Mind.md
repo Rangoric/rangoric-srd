@@ -16,4 +16,4 @@ You can push your conscious mind aside for a primal state that helps you resist 
 
 **Prerequisites**: Wis 13, [[rangoric-srd/feats/Wilding|Wilding]].
 
-**Benefit**: Whenever you fail a saving throw against a fear or mind-affecting effect, you can take 1d3 points of Intelligence damage as an immediate action to reroll the save. This damage can't be reduced or avoided in any way. You must take the new result, even if it is worse.
+**Benefit**: Whenever a fear or mind-affecting effect hits your defense, you can take 1d3 points of Intelligence damage as an immediate action to make it reroll the attack. This damage can't be reduced or avoided in any way. You must take the new result, even if it is worse.

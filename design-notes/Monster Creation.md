@@ -25,29 +25,29 @@ The first step in creating a new monster is to define its concept and role in th
 
 **Table: Monster Statistics by CR**
 
-| CR  | Hit Points | Armor Class | High Attack | Low Attack | Average Damage High | Average Damage Low | Primary Ability DC | Secondary Ability DC | Good Save | Poor Save |
-| --- | ---------- | ----------- | ----------- | ---------- | ------------------- | ------------------ | ------------------ | -------------------- | --------- | --------- |
-| 1/2 | 10         | 11          | 1           | 0          | 4                   | 3                  | 11                 | 8                    | 3         | 0         |
-| 1   | 15         | 12          | 2           | 1          | 7                   | 5                  | 12                 | 9                    | 4         | 1         |
-| 2   | 20         | 14          | 4           | 3          | 10                  | 7                  | 13                 | 9                    | 5         | 1         |
-| 3   | 30         | 15          | 6           | 4          | 13                  | 9                  | 14                 | 10                   | 6         | 2         |
-| 4   | 40         | 17          | 8           | 6          | 16                  | 12                 | 15                 | 10                   | 7         | 3         |
-| 5   | 55         | 18          | 10          | 7          | 20                  | 15                 | 15                 | 11                   | 8         | 4         |
-| 6   | 70         | 19          | 12          | 8          | 25                  | 18                 | 16                 | 11                   | 9         | 5         |
-| 7   | 85         | 20          | 13          | 10         | 30                  | 22                 | 17                 | 12                   | 10        | 6         |
-| 8   | 100        | 21          | 15          | 11         | 35                  | 26                 | 18                 | 12                   | 11        | 7         |
-| 9   | 115        | 23          | 17          | 12         | 40                  | 30                 | 18                 | 13                   | 12        | 8         |
-| 10  | 130        | 24          | 18          | 13         | 45                  | 33                 | 19                 | 13                   | 13        | 9         |
-| 11  | 145        | 25          | 19          | 14         | 50                  | 37                 | 20                 | 14                   | 14        | 10        |
-| 12  | 160        | 27          | 21          | 15         | 55                  | 41                 | 21                 | 15                   | 15        | 11        |
-| 13  | 180        | 28          | 22          | 16         | 60                  | 45                 | 21                 | 15                   | 16        | 12        |
-| 14  | 200        | 29          | 23          | 17         | 65                  | 48                 | 22                 | 16                   | 17        | 12        |
-| 15  | 220        | 30          | 24          | 18         | 70                  | 52                 | 23                 | 16                   | 18        | 13        |
-| 16  | 240        | 31          | 26          | 19         | 80                  | 60                 | 24                 | 17                   | 19        | 14        |
-| 17  | 270        | 32          | 27          | 20         | 90                  | 67                 | 24                 | 18                   | 20        | 15        |
-| 18  | 300        | 33          | 28          | 21         | 100                 | 75                 | 25                 | 18                   | 20        | 16        |
-| 19  | 330        | 34          | 29          | 22         | 110                 | 82                 | 26                 | 19                   | 21        | 16        |
-| 20  | 370        | 36          | 30          | 23         | 120                 | 90                 | 27                 | 20                   | 22        | 17        |
+| CR  | Hit Points | Armor Class | High Attack | Low Attack | Average Damage High | Average Damage Low | Primary Ability Attack | Secondary Ability Attack | Good Defense | Poor Defense |
+| --- | ---------- | ----------- | ----------- | ---------- | ------------------- | ------------------ | ---------------------- | ------------------------ | ------------ | ------------ |
+| 1/2 | 10         | 11          | 1           | 0          | 4                   | 3                  | 1                      | –2                       | 13           | 10           |
+| 1   | 15         | 12          | 2           | 1          | 7                   | 5                  | 2                      | –1                       | 14           | 11           |
+| 2   | 20         | 14          | 4           | 3          | 10                  | 7                  | 3                      | –1                       | 15           | 11           |
+| 3   | 30         | 15          | 6           | 4          | 13                  | 9                  | 4                      | 0                        | 16           | 12           |
+| 4   | 40         | 17          | 8           | 6          | 16                  | 12                 | 5                      | 0                        | 17           | 13           |
+| 5   | 55         | 18          | 10          | 7          | 20                  | 15                 | 5                      | 1                        | 18           | 14           |
+| 6   | 70         | 19          | 12          | 8          | 25                  | 18                 | 6                      | 1                        | 19           | 15           |
+| 7   | 85         | 20          | 13          | 10         | 30                  | 22                 | 7                      | 2                        | 20           | 16           |
+| 8   | 100        | 21          | 15          | 11         | 35                  | 26                 | 8                      | 2                        | 21           | 17           |
+| 9   | 115        | 23          | 17          | 12         | 40                  | 30                 | 8                      | 3                        | 22           | 18           |
+| 10  | 130        | 24          | 18          | 13         | 45                  | 33                 | 9                      | 3                        | 23           | 19           |
+| 11  | 145        | 25          | 19          | 14         | 50                  | 37                 | 10                     | 4                        | 24           | 20           |
+| 12  | 160        | 27          | 21          | 15         | 55                  | 41                 | 11                     | 5                        | 25           | 21           |
+| 13  | 180        | 28          | 22          | 16         | 60                  | 45                 | 11                     | 5                        | 26           | 22           |
+| 14  | 200        | 29          | 23          | 17         | 65                  | 48                 | 12                     | 6                        | 27           | 22           |
+| 15  | 220        | 30          | 24          | 18         | 70                  | 52                 | 13                     | 6                        | 28           | 23           |
+| 16  | 240        | 31          | 26          | 19         | 80                  | 60                 | 14                     | 7                        | 29           | 24           |
+| 17  | 270        | 32          | 27          | 20         | 90                  | 67                 | 14                     | 8                        | 30           | 25           |
+| 18  | 300        | 33          | 28          | 21         | 100                 | 75                 | 15                     | 8                        | 30           | 26           |
+| 19  | 330        | 34          | 29          | 22         | 110                 | 82                 | 16                     | 9                        | 31           | 26           |
+| 20  | 370        | 36          | 30          | 23         | 120                 | 90                 | 17                     | 10                       | 32           | 27           |
 
 ## Step 2: Target Statistics
 
@@ -55,7 +55,7 @@ Once you have a creature's type and CR determined, use Table: Monster Statistics
 
 **CR**: This is the approximate CR of the monster. This number might change as design progresses.
 
-**Hit Points**: This is the approximate hit point total for the monster. Note that creatures with particularly high Armor Classes or saving throws, or a number of resistances, might have a lower number. Outsiders and constructs typically have lower hit point totals.
+**Hit Points**: This is the approximate hit point total for the monster. Note that creatures with particularly high Armor Classes or defenses, or a number of resistances, might have a lower number. Outsiders and constructs typically have lower hit point totals.
 
 **Armor Class**: This is the average Armor Class for a creature of this CR. When it comes time to design the creature's protections, keep this number in mind. Creatures with hit points above the average often have lower Armor Class values to compensate.
 
@@ -71,15 +71,15 @@ A creature that relies on melee or ranged weapons in combat should have average 
 
 A creature with higher than normal attack bonuses will often deal lower damage, while a creature with lower than normal attack bonuses will often deal higher damage.
 
-**Primary Ability DC**: This is the average difficulty class (DC) for any spells, spell-like abilities, and special abilities (such as breath weapons) possessed by a creature of this CR that relies on such attacks in combat. If an ability is particularly powerful, it might have a lower DC to compensate.
+**Primary Ability Attack**: This is the average attack bonus for any spells, spell-like abilities, and special abilities (such as breath weapons) possessed by a creature of this CR that relies on such attacks in combat. If an ability is particularly powerful, it might have a lower attack bonus to compensate.
 
-**Secondary Ability DC**: This is the average DC for spells and special abilities for a creature that does not rely on such attacks in combat. Generally, a DC should not be lower than this number.
+**Secondary Ability Attack**: This is the average attack bonus for spells and special abilities for a creature that does not rely on such attacks in combat. Generally, an attack bonus should not be lower than this number.
 
-**Good Save**: This is the average saving throw bonus for a creature of this CR if the saving throw is one of the creature's good saving throws.
+**Good Defense**: This is the average defense for a creature of this CR if the defense is one of the creature's good saves (10 + the save bonus).
 
-### Poor Save
+### Poor Defense
 
-This is the average saving throw bonus for a creature of this CR if the saving throw is one of the creature's poor saving throws.
+This is the average defense for a creature of this CR if the defense is one of the creature's poor saves.
 
 **Table: Average Die Results**
 
@@ -95,7 +95,7 @@ This is the average saving throw bonus for a creature of this CR if the saving t
 
 ## Step 3: Hit Dice
 
-The next step in creating a monster is to determine the approximate number of Hit Dice it has. Hit Dice determine a wide variety of other statistics, including the creature's feats, skills, hit points, attack bonuses, and special ability DCs.
+The next step in creating a monster is to determine the approximate number of Hit Dice it has. Hit Dice determine a wide variety of other statistics, including the creature's feats, skills, hit points, attack bonuses, and special ability attack bonuses.
 
 A creature's total number of Hit Dice depends on a number of factors, but the two most important are its CR and its type. Table: Creature Hit Dice lists the average number of Hit Dice for each creature type, depending on its CR. While many of the existing monsters are close to these values, some are not. This is because they have higher or lower average hit points to balance out their Armor Class or resistances.
 
@@ -141,7 +141,7 @@ Now that you have the creature's average statistics, it's time to pick its size.
 
 ## Step 5: Abilities
 
-Once you have determined a creature's size, type, and Hit Dice, it's time to move on to its ability scores. The bonuses granted from these ability scores should increase a creature's hit points, attack bonuses, and saving throws to the approximate values presented on Table: Monster Statistics by CR.
+Once you have determined a creature's size, type, and Hit Dice, it's time to move on to its ability scores. The bonuses granted from these ability scores should increase a creature's hit points, attack bonuses, and defenses to the approximate values presented on Table: Monster Statistics by CR.
 
 A creature's physical ability scores (Strength, Dexterity, and Constitution) should be relatively close to the base values presented on Table: Size, depending on its size. Creatures with a few Hit Dice but a high average hit point total should have a higher than normal Constitution.
 
@@ -198,7 +198,7 @@ When determining a creature's attack bonuses, refer to the guidelines from Table
 
 Use Table: Average Die Results to determine the number of damage dice, combined with damage bonuses, that the creature needs to reach the average damage for its CR. The creature might need additional or more damaging attacks to approach the average. Remember that creatures that primarily deal damage with other abilities, such as spells, do not need to meet the average damage for their attacks. You can also use Table: Average Die Results to determine a creature's average hit points. Remember that PC class levels provide the maximum number of hit points at 1st level.
 
-Repeat this process for a creature's saving throws. If the saving throws are too high, consider altering the ability scores on which they are based.
+Repeat this process for a creature's defenses. If the defenses are too high, consider altering the ability scores on which they are based.
 
 When determining a creature's speed, first decide if it has any alternative modes of movement, such as burrow, climb, fly, or swim. Most Medium creatures have a base speed of 30 feet. Quadrupeds and Large creatures increase this by 10 feet each. Smaller creatures decrease this base speed by 10 feet. If a creature is particularly fast or slow, modify the base speed by 10 feet. Burrow and climb speeds are usually half a creature's base speed, while flying speeds are roughly double. Remember to give a creature the appropriate skills for any unusual movement methods.
 
@@ -225,7 +225,7 @@ When determining a creature's speed, first decide if it has any alternative mode
 
 Monsters are different from characters in that they can have all sorts of different special abilities and qualities. Each of these is tied closely to the creature's concept, allowing it to fill a specific role in the game. For examples, look at the existing monsters. Monsters should use abilities from the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|Universal Monster Rules]] whenever possible, instead of creating new yet similar abilities—when you do create new abilities, use the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|Universal Monster Rules]] as a template for how to present and create the new abilities.
 
-Most special abilities that cause damage, such as breath weapons, give a save (Fortitude, Reflex, or Will depending on the ability). The DC for almost all special abilities is equal to 10 + 1/2 the creature's Hit Dice + a relevant ability modifier (usually Constitution or Charisma depending on the ability). Special abilities that add to melee and ranged attacks generally do not allow a save, as they rely on the attacks hitting to be useful.
+Most special abilities that cause damage, such as breath weapons, attack a defense (Fortitude, Reflex, or Will depending on the ability). The attack bonus for almost all special abilities is equal to 1/2 the creature's Hit Dice + a relevant ability modifier (usually Constitution or Charisma depending on the ability). Special abilities that add to melee and ranged attacks generally do not attack a defense, as they rely on the attacks hitting to be useful.
 
 Special senses and resistances to certain energy types are common in creatures of CR 5 and lower. Damage reduction, energy immunities, and regeneration are more common in creatures above CR 5. Spell resistance and immunities become more common above CR 10. As a general rule a creature's spell resistance should equal its CR + 11.
 

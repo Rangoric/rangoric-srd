@@ -173,7 +173,7 @@ _Blocking_: When you use this weapon to [[rangoric-srd/combat/Combat Actions#Att
 
 _Brace_: If you use a ready action to set a brace weapon against a charge, you deal double damage on a successful hit against a charging creature. ^weapon-brace
 
-_Deadly_: When this weapon delivers a [[rangoric-srd/combat/Combat Modifiers|coup de grace]], it gains +4 to damage when calculating the DC of the Fortitude saving throw to see whether the target of the coup de grace dies from the attack. The bonus is not added to the actual damage of the coup de grace attack. ^weapon-deadly
+_Deadly_: When this weapon delivers a [[rangoric-srd/combat/Combat Modifiers|coup de grace]], it gains +4 to damage when calculating the attack bonus of the Fortitude attack to see whether the target of the coup de grace dies from the attack. The bonus is not added to the actual damage of the coup de grace attack. ^weapon-deadly
 
 _Disarm_: You get a +2 bonus on combat maneuver checks made to [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] an opponent with this weapon. ^weapon-disarm
 

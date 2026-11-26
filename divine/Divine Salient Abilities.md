@@ -147,7 +147,7 @@ Benefit: What the ability enables the deity to do. If a deity has the same abili
 
 Notes: Additional facts about the ability that may be helpful when using the ability in play.
 
-Rest: Some abilities require the deity to rest afterward. If no rest is required, the entry is absent. A resting deity can engage in light activities such as talking or walking at half speed. When attempting anything more strenuous than that, the deity can only take partial actions and suffers a -6 penalty on all attack rolls, saves, and checks. The deity cannot use another ability that requires rest until its current rest requirement is fulfilled. Any time the deity spends performing strenuous activities does not count toward the required rest time.
+Rest: Some abilities require the deity to rest afterward. If no rest is required, the entry is absent. A resting deity can engage in light activities such as talking or walking at half speed. When attempting anything more strenuous than that, the deity can only take partial actions and suffers a -6 penalty on all attack rolls, defenses, and checks. The deity cannot use another ability that requires rest until its current rest requirement is fulfilled. Any time the deity spends performing strenuous activities does not count toward the required rest time.
 
 Suggested Portfolio Elements: This entry gives one or more portfolio elements that are associated with the salient divine ability in question. The information is provided as guidance and should not be taken as a rule.
 
@@ -162,7 +162,7 @@ Prerequisite: [[#Alter Size|Alter Size]] salient divine ability.
 Benefit: As a move-equivalent action, the deity can alter its form, including clothing and equipment. The assumed form must be corporeal. The deity’s body can undergo a limited physical transmutation, including adding or subtracting one or two limbs. If the form selected has wings, the deity can fly. Likewise, the deity can swim if the form has fins, breathe water if the form has gills, and so on.  
 The deity can remain in the altered form indefinitely, but resumes its own form if slain.
 
-Notes: The deity’s attack bonus, Armor Class, and saves do not change. The deity does not gain any of the assumed form’s special abilities, attack forms, defenses, ability scores, or mannerisms. The deity can change physical qualities (such as hair color, hair texture, skin color, and gender). The deity can use this ability to create disguises, gaining a bonus of +10 on its [[rangoric-srd/skills/Imitation|Imitation]] checks. The deity can use its [[#Alter Size|Alter Size]] ability simultaneously along with this one to become taller, shorter, thinner, or heavier.
+Notes: The deity’s attack bonus, Armor Class, and defenses do not change. The deity does not gain any of the assumed form’s special abilities, attack forms, defenses, ability scores, or mannerisms. The deity can change physical qualities (such as hair color, hair texture, skin color, and gender). The deity can use this ability to create disguises, gaining a bonus of +10 on its [[rangoric-srd/skills/Imitation|Imitation]] checks. The deity can use its [[#Alter Size|Alter Size]] ability simultaneously along with this one to become taller, shorter, thinner, or heavier.
 
 Suggested Portfolio Elements: Nature, secrets, thieves.
 
@@ -172,7 +172,7 @@ Prerequisite: Cha 29.
 
 Benefit: This ability is similar to the [[rangoric-srd/spells/Wish|wish]] spell. The deity merely thinks of something and then makes it so. Doing this requires at least a standard action.
 
-Notes: The deity can duplicate any spell of 9th level or lower as a standard action. The duplicated spell has no material or XP component, and the DC of its saving throw (if one is allowed) is 20 + the deity’s rank + the deity’s Charisma modifier.  
+Notes: The deity can duplicate any spell of 9th level or lower as a standard action. The duplicated spell has no material or XP component, and its attack bonus (if it attacks a defense) is 10 + the deity’s rank + the deity’s Charisma modifier.  
 The deity also can duplicate a spell with any [[rangoric-srd/feats/Feats Metamagic|metamagic feat]] (so long as the metamagic feat is available to characters of 20th level or lower). This use of the ability requires the deity to rest for 1 round for each level that the feat would normally add to the spell. It still takes a standard action to use this ability, so there is no point in using the ability to duplicate a quickened spell.  
 The deity can render a magical or supernatural effect permanent. The rest requirement varies with the effect: 10 minutes per level of the effect times the number of subjects affected, 10 minutes per total Hit Dice of creatures affected, or 10 minutes per 10-foot cube affected. Use the highest applicable value.  
 The deity can create temporary, nonmagical objects. This works like the [[#Create Object|Create Object]] ability (including the required rest period), except that the items last one day per rank.  
@@ -194,7 +194,7 @@ Suggested Portfolio Elements: Any.
 
 Prerequisites: Divine rank 11, base attack bonus +20, Str 25.
 
-Benefit: When the deity strikes with a weapon or natural weapon, the opponent struck might be obliterated. Creatures, attended objects, and magic items must make Fortitude saves (DC 20 + the deity’s rank + the damage dealt) or be killed outright. Unattended, nonmagical objects are obliterated. The deity can destroy up to 1,000 cubic feet (a 10-foot cube) of nonliving matter per rank, so the ability destroys only part of any very large object or structure targeted.
+Benefit: When the deity strikes with a weapon or natural weapon, the opponent struck might be obliterated. It attacks the Fortitude of creatures, attended objects, and magic items, its attack bonus 10 + the deity’s rank + the damage dealt, and those it hits are killed outright. Unattended, nonmagical objects are obliterated. The deity can destroy up to 1,000 cubic feet (a 10-foot cube) of nonliving matter per rank, so the ability destroys only part of any very large object or structure targeted.
 
 Notes: Deities with a rank equal to or greater than the attacking deity are not subject to this ability. This ability has no effect on objects or effects that are not subject to physical attacks.
 
@@ -236,7 +236,7 @@ Prerequisites: Divine rank 6, Cha 29.
 
 Benefit: An avatar serves as a deity’s alter ego, effectively allowing the deity to be in two or more places at the same time. An avatar is an extension of a deity. The deity senses and knows everything the avatar senses and knows and vice versa. Each avatar counts as a remote location where the deity is sensing and communicating. A lesser deity can have up to five avatars at once, an intermediate deity can have up to ten, and a greater deity can have up to twenty avatars at once. It takes a deity one year to create an avatar or replace a destroyed avatar. The process does not require any special effort on the deity’s part. An avatar must be created in the deity’s own realm. If the deity has the [[#Divine Creation|Divine Creation]] salient divine ability, the deity can use it to create a new avatar anywhere. However, the deity must rest afterward as noted in the Divine Creation ability description. An avatar is a less powerful version of a deity, created by modifying the deity’s statistics, that has the following characteristics.
 
-Divine Rank: The avatar’s divine rank is half that of the deity (round down). This decrease in divine rank affects many of the avatar’s statistics and abilities, including bonuses to attack rolls, damage, saves, checks, and Armor Class, damage reduction, resistances, number of salient divine abilities and bonus salient divine abilities, uses per day of domain powers, saving throw DCs against spell-like abilities, range of senses, automatic actions, magic items it can create, and extent of divine aura. The deity’s ability scores, speed, class levels, and Hit Dice are unchanged.
+Divine Rank: The avatar’s divine rank is half that of the deity (round down). This decrease in divine rank affects many of the avatar’s statistics and abilities, including bonuses to attack rolls, damage, defenses, checks, and Armor Class, damage reduction, resistances, number of salient divine abilities and bonus salient divine abilities, uses per day of domain powers, saving throw DCs against spell-like abilities, range of senses, automatic actions, magic items it can create, and extent of divine aura. The deity’s ability scores, speed, class levels, and Hit Dice are unchanged.
 
 Divine Abilities: The avatar has salient divine abilities according to its own divine rank. The deity chooses which of its abilities the avatar has when creating the avatar. The avatar cannot have a salient divine ability that is not available to a deity of its own rank, nor can it use a salient divine ability if it doesn’t meet the prerequisites. An avatar cannot have the Avatar or [[#Possess Mortal|Possess Mortal]] salient divine abilities.  
 An avatar does not have any remote sensing or remote communication powers.
@@ -300,7 +300,7 @@ Suggested Portfolio Elements: Agriculture, earth, fertility.
 
 ##### Control Creatures
 
-Benefit: The deity can command some kind of creature as noted in the deity’s description. This ability is similar to the [[rangoric-srd/spells/Dominate Monster|dominate monster]] spell, but it is not a mind-affecting ability (the deity seizes direct control over the creature’s body). Each day the deity can attempt to control a number of creature equal to its divine rank. The deity can attempt to take control of that number all at once, or in smaller numbers. All creatures to be affected must be within the deity’s line of sight when first affected. Once control is established, distance is not a factor and the deity can maintain control remotely, even across planes and through wards or barriers (except [[#Divine Shield|divine shields]] and warding spells cast by deities of higher rank than the deity using the ability). The subject is allowed a Will save (DC 10 + the deity’s rank + the deity’s Charisma modifier) to resist and is allowed a new save if the deity commands the subject to do something against its nature.  
+Benefit: The deity can command some kind of creature as noted in the deity’s description. This ability is similar to the [[rangoric-srd/spells/Dominate Monster|dominate monster]] spell, but it is not a mind-affecting ability (the deity seizes direct control over the creature’s body). Each day the deity can attempt to control a number of creature equal to its divine rank. The deity can attempt to take control of that number all at once, or in smaller numbers. All creatures to be affected must be within the deity’s line of sight when first affected. Once control is established, distance is not a factor and the deity can maintain control remotely, even across planes and through wards or barriers (except [[#Divine Shield|divine shields]] and warding spells cast by deities of higher rank than the deity using the ability). It attacks the subject’s Will, its attack bonus the deity’s rank + the deity’s Charisma modifier, and a miss resists it; it attacks again if the deity commands the subject to do something against its nature.  
 At any given time, the deity cannot have more creatures under its control than 10 times its divine rank. If the deity already has the maximum number of creatures under its control, it can still attempt to take control of other creatures, but must first release one or more creatures already under its control.
 
 Notes: A deity can have this ability multiple times, choosing a different kind of creature each time.
@@ -371,9 +371,9 @@ Benefit: This ability has several benefits:
 
 - The deity can use any bardic music inspiration ability as a standard action. The inspiration takes effect immediately after the deity concludes the action.
 
-- The deity’s bardic music abilities can affect even those normally immune to mind-affecting effects. However, such creatures gain a +10 bonus on their Will saves to resist such effects.
+- The deity’s bardic music abilities can affect even those normally immune to mind-affecting effects. However, such creatures gain a +10 bonus on Will Defense against such effects.
 
-- The effects of all the deity’s bardic music abilities are doubled. Inspire courage grants a +8 morale bonus on saving throws against charm and fear effects and a +8 morale bonus on attack and damage rolls; inspire competence grants a +4 competence bonus on skill checks; inspire greatness grants +4d10 Hit Dice, a +4 competence bonus on attack rolls, and a +2 competence bonus on Fortitude saves, and inspire heroics grants a +8 morale bonus on saving throws and a +8 dodge bonus to AC. The number of allies the deity can affect with inspire competence, inspire greatness, and inspire heroics doubles. When inspiring competence in multiple allies, the deity can choose different skills to inspire for different allies.
+- The effects of all the deity’s bardic music abilities are doubled. Inspire courage grants a +8 morale bonus on defenses against charm and fear effects and a +8 morale bonus on attack and damage rolls; inspire competence grants a +4 competence bonus on skill checks; inspire greatness grants +4d10 Hit Dice, a +4 competence bonus on attack rolls, and a +2 competence bonus on Fortitude Defense, and inspire heroics grants a +8 morale bonus on defenses and a +8 dodge bonus to AC. The number of allies the deity can affect with inspire competence, inspire greatness, and inspire heroics doubles. When inspiring competence in multiple allies, the deity can choose different skills to inspire for different allies.
 
 - The effects of the deity’s bardic music inspiration abilities last for ten times as long as normal after the deity stops singing. This has no effect on inspiration abilities that have no duration after the bard stops singing.
 
@@ -393,7 +393,7 @@ Suggested Portfolio Elements: Justice, vengeance, war.
 
 Prerequisite: Cha 29.
 
-Benefit: The deity can use this ability a number of times per day equal to 3 + its Charisma bonus. The ray created can extend up to one mile per rank (the deity chooses the length). Targets the ray strikes take 1d12 points of damage per rank of the deity, plus 1d12 points of damage per point of Charisma bonus the deity has. There is no saving throw, but the deity must make a ranged touch attack to hit a target. The deity can make the ray look, sound, smell, and feel like any-thing it desires. Despite the appearance of the ray, the damage it deals results directly from divine power and is therefore not subject to being reduced by protection from elements and similar magic.
+Benefit: The deity can use this ability a number of times per day equal to 3 + its Charisma bonus. The ray created can extend up to one mile per rank (the deity chooses the length). Targets the ray strikes take 1d12 points of damage per rank of the deity, plus 1d12 points of damage per point of Charisma bonus the deity has. There is no attack against a defense, but the deity must make a ranged touch attack to hit a target. The deity can make the ray look, sound, smell, and feel like any-thing it desires. Despite the appearance of the ray, the damage it deals results directly from divine power and is therefore not subject to being reduced by protection from elements and similar magic.
 
 Notes: The ray destroys a [[rangoric-srd/spells/Wall of Force|wall of force]], [[rangoric-srd/spells/Prismatic Wall|prismatic wall]], or [[rangoric-srd/spells/Prismatic Sphere|prismatic sphere]] it hits (all layers in a prismatic effect are destroyed). The ray itself is unaffected and can strike a target behind the wall of force or prismatic effect.  
 A [[#Divine Shield|divine shield]] can stop the ray.
@@ -439,7 +439,7 @@ Prerequisite: Dex 29.
 
 Benefit: Any physical attack or individually targeted spell directed at the deity has a percent miss chance equal to 50 + the deity’s rank. Area effects that include the deity have a similar chance to be ineffective.
 
-Notes: The ability is similar to the [[rangoric-srd/spells/Blink|blink]] spell, except that it is defensive only and the deity does not move to the Ethereal Plane, but simply exits from reality for a brief moment. This ability never interferes with the deity’s own attacks. If an attack overcomes the miss chance, the deity still gets the benefit of a saving throw (if one is allowed).
+Notes: The ability is similar to the [[rangoric-srd/spells/Blink|blink]] spell, except that it is defensive only and the deity does not move to the Ethereal Plane, but simply exits from reality for a brief moment. This ability never interferes with the deity’s own attacks. If an attack overcomes the miss chance, the attack must still hit the deity’s defense (if it attacks one).
 
 Suggested Portfolio Elements: Agility, gambling, luck, protection.
 
@@ -486,7 +486,7 @@ Suggested Portfolio Elements: Fire.
 
 Prerequisites: Cha 29, [[rangoric-srd/skills/Deception|Deception]] 37 ranks, Trickery domain.
 
-Benefit: As a full-round action, the deity can speak and convince others to take some course of action. This works like a [[rangoric-srd/spells/Suggestion, Mass|mass suggestion]] spell cast at a level equal to 10 + the deity’s divine rank, except that it affects up to (10 + divine rank) creatures, no two of which can be more than (10 ×divine rank) feet apart. The save DC is 10 + the deity’s Charisma modifier + the deity’s divine rank.
+Benefit: As a full-round action, the deity can speak and convince others to take some course of action. This works like a [[rangoric-srd/spells/Suggestion, Mass|mass suggestion]] spell cast at a level equal to 10 + the deity’s divine rank, except that it affects up to (10 + divine rank) creatures, no two of which can be more than (10 ×divine rank) feet apart. The attack bonus is the deity’s Charisma modifier + the deity’s divine rank.
 
 Suggested Portfolio Elements: Commerce, lies, thieves.
 
@@ -494,19 +494,19 @@ Suggested Portfolio Elements: Commerce, lies, thieves.
 
 Benefit: The deity can enchant creatures to create a specific emotion. The deity can affect one creature per divine rank at once, and up to the same number each day. All must be within the deity’s line of sight when first affected. The specific effects depend on the emotional state induced.
 
-Courage: The enchanted creatures become immune to fear effects and receive a +2 morale bonus on attack rolls, weapon damage rolls, skill checks, and Will saves.
+Courage: The enchanted creatures become immune to fear effects and receive a +2 morale bonus on attack rolls, weapon damage rolls, skill checks, and Will Defense.
 
-Despair: The enchanted creatures are affected as by an improved version of the [[rangoric-srd/spells/Crushing Despair|crushing despair]] spell: affected creatures suffer a -4 penalty on attack rolls, damage rolls, saves, and checks unless they make a successful Will save (DC 10 + deity’s Charisma modifier + deity’s divine rank). The effect lasts one day.
+Despair: The enchanted creatures are affected as by an improved version of the [[rangoric-srd/spells/Crushing Despair|crushing despair]] spell: it attacks the Will of each enchanted creature, its attack bonus the deity’s Charisma modifier + the deity’s divine rank, and those it hits suffer a -4 penalty on attack rolls, damage rolls, defenses, and checks. The effect lasts one day.
 
-Dread: The enchanted creatures must make successful Wisdom checks (DC = the deity’s divine rank) to attack or fight. If the check fails, the creature flees in panic for 1d4 rounds. If the check succeeds, the creature does not have to check again for 10 minutes. The enchanted creatures also suffer a -2 morale penalty on attack rolls, weapon damage rolls, skill checks, and Will saves.
+Dread: The enchanted creatures must make successful Wisdom checks (DC = the deity’s divine rank) to attack or fight. If the check fails, the creature flees in panic for 1d4 rounds. If the check succeeds, the creature does not have to check again for 10 minutes. The enchanted creatures also suffer a -2 morale penalty on attack rolls, weapon damage rolls, skill checks, and Will Defense.
 
-Frenzy: Frenzied creatures spend themselves in drinking, feasting, and dancing unless provoked or incited to violence. Frenzied creatures turn violent if they are attacked or perceive a threat to their safety. Frenzied creatures receive a +4 morale bonus to Strength and Dexterity, a -4 penalty to Wisdom, and a -2 penalty to AC. Subjects can attempt Will saves (DC 10 + deity’s Charisma modifier + deity’s divine rank) to resist the effect. This is a mind-affecting compulsion.
+Frenzy: Frenzied creatures spend themselves in drinking, feasting, and dancing unless provoked or incited to violence. Frenzied creatures turn violent if they are attacked or perceive a threat to their safety. Frenzied creatures receive a +4 morale bonus to Strength and Dexterity, a -4 penalty to Wisdom, and a -2 penalty to AC. It attacks each subject’s Will, its attack bonus the deity’s Charisma modifier + the deity’s divine rank, and a miss resists the effect. This is a mind-affecting compulsion.
 
-Hope: The enchanted creatures gain a +4 morale bonus on saving throws, attack rolls, ability checks, skill checks, and weapon damage rolls.
+Hope: The enchanted creatures gain a +4 morale bonus on defenses, attack rolls, ability checks, skill checks, and weapon damage rolls.
 
-Rage: The enchanted creatures receive a +4 morale bonus to Strength and Constitution scores, a +2 morale bonus on Will saves, and a -2 penalty to AC. They are compelled to fight heedless of danger. Subjects can attempt Will saves (DC 10 + deity’s Charisma modifier + deity’s divine rank) to resist the effect. This is a mind-affecting compulsion.
+Rage: The enchanted creatures receive a +4 morale bonus to Strength and Constitution scores, a +2 morale bonus on Will Defense, and a -2 penalty to AC. They are compelled to fight heedless of danger. It attacks each subject’s Will, its attack bonus the deity’s Charisma modifier + the deity’s divine rank, and a miss resists the effect. This is a mind-affecting compulsion.
 
-Love and Desire: A love effect causes the target to fall in love with the specified creature, seeking every opportunity to be near that creature and making every effort to win the creature’s affection. A desire effect is similar, but the target seeks any opportunity to become physically intimate with the specified creature. Subjects can attempt Will saves (DC 10 + deity’s Charisma modifier + deity’s divine rank) to resist the effect. This is a mind-affecting compulsion effect.
+Love and Desire: A love effect causes the target to fall in love with the specified creature, seeking every opportunity to be near that creature and making every effort to win the creature’s affection. A desire effect is similar, but the target seeks any opportunity to become physically intimate with the specified creature. It attacks each subject’s Will, its attack bonus the deity’s Charisma modifier + the deity’s divine rank, and a miss resists the effect. This is a mind-affecting compulsion effect.
 
 Suggested Portfolio Elements: Any.
 
@@ -523,7 +523,7 @@ Suggested Portfolio Elements: Law.
 
 Prerequisites: [[rangoric-srd/classes/Paladin|Paladin]] level 20th.
 
-Benefit: The deity’s aura of courage grants a +8 morale bonus on saving throws against fear effects and extends to all allies within 100 feet of the deity.  
+Benefit: The deity’s aura of courage grants a +8 morale bonus on defenses against fear effects and extends to all allies within 100 feet of the deity.  
 The deity’s special mount, if any, gains the [[rangoric-srd/monsters/celestial-creature/Celestial Creature|celestial template]].  
 The deity can smite evil ten times per day, and gets an extra 3 points of damage per class level on a successful smite attempt.
 
@@ -533,7 +533,7 @@ Suggested Portfolio Elements: Good, justice, law, nobility, war.
 
 Prerequisite: Good alignment, Sun domain.
 
-Benefit: The deity can shed light in a (10 feet ×divine rank) emanation from its body. This light counters and dispels all darkness effects (unless created by a deity of higher rank) and causes pain and damage to undead creatures, who take 2d8 points of damage per round with no save. As a full attack action, the deity can generate up to three rays of scorching light that can strike targets up to a number of miles away equal to the deity’s divine rank. Each ray deals 1d6 points of damage per 2 divine ranks. Undead take 1d12 points of damage per 2 divine ranks.
+Benefit: The deity can shed light in a (10 feet ×divine rank) emanation from its body. This light counters and dispels all darkness effects (unless created by a deity of higher rank) and causes pain and damage to undead creatures, who take 2d8 points of damage per round with no attack against their defense. As a full attack action, the deity can generate up to three rays of scorching light that can strike targets up to a number of miles away equal to the deity’s divine rank. Each ray deals 1d6 points of damage per 2 divine ranks. Undead take 1d12 points of damage per 2 divine ranks.
 
 Suggested Portfolio Elements: Good, light, sun.
 
@@ -541,7 +541,7 @@ Suggested Portfolio Elements: Good, light, sun.
 
 Prerequisite: [[rangoric-srd/classes/Barbarian|Barbarian]] level 20th.
 
-Benefit: This ability is similar to the barbarian’s rage ability (and it replaces the barbarian rage ability for the deity). The deity can activate this ability only after suffering damage from a weapon, and can use it a number of times per day equal to its divine rank. Once used, the ability lasts 1 hour (though the deity can end the rage at will). While raging, the deity gains +10 to Strength, +10 to Constitution, and a +5 morale bonus on Will saves. The deity’s [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] and [[rangoric-srd/monsters/abilities/Resistance|energy resistances]] each increase by +10. The deity also can make one extra attack, at its full attack bonus, whenever it uses the full attack action. While raging, the deity suffers a -5 penalty to Armor Class and cannot perform acts that require patience and concentration, such as moving silently, casting spells, and using salient divine abilities.
+Benefit: This ability is similar to the barbarian’s rage ability (and it replaces the barbarian rage ability for the deity). The deity can activate this ability only after suffering damage from a weapon, and can use it a number of times per day equal to its divine rank. Once used, the ability lasts 1 hour (though the deity can end the rage at will). While raging, the deity gains +10 to Strength, +10 to Constitution, and a +5 morale bonus on Will Defense. The deity’s [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] and [[rangoric-srd/monsters/abilities/Resistance|energy resistances]] each increase by +10. The deity also can make one extra attack, at its full attack bonus, whenever it uses the full attack action. While raging, the deity suffers a -5 penalty to Armor Class and cannot perform acts that require patience and concentration, such as moving silently, casting spells, and using salient divine abilities.
 
 Suggested Portfolio Elements: Destruction, rage, strength, war.
 
@@ -572,7 +572,7 @@ Suggested Portfolio Elements: Knowledge.
 
 Prerequisites: [[rangoric-srd/classes/Rogue|Rogue]] level 20th, [[rangoric-srd/feats/Dodge|Dodge]], improved evasion, defensive roll.
 
-Benefit: When struck by an attack from an opponent the deity has designated as its dodge target, the deity may make a Reflex save (DC 10 + damage dealt) to negate all damage from the attack.  
+Benefit: When struck by an attack from an opponent the deity has designated as its dodge target, the blow attacks the deity’s Reflex, its attack bonus the damage dealt, and a miss negates all damage from the attack.  
 If the deity passes within 5 feet of a trap, the deity is entitled to an [[rangoric-srd/skills/Investigation|Investigation]] check to notice it as if the deity were actively looking for it.  
 The deity can assess the exact value of any treasure it can see.  
 The deity also can immediately determine what any creature is carrying and where each carried item is.
@@ -614,7 +614,7 @@ Suggested Portfolio Elements: Thieves.
 
 Prerequisites: [[rangoric-srd/feats/Spell Focus|Spell Focus]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]].
 
-Benefit: The deity chooses one school of magic. The save DC for any spell of that school increases by one-half the deity’s divine rank. This bonus overlaps (does not stack with) the bonus from Spell Focus or Greater Spell Focus.
+Benefit: The deity chooses one school of magic. The attack bonus of any spell of that school increases by one-half the deity’s divine rank. This bonus overlaps (does not stack with) the bonus from Spell Focus or Greater Spell Focus.
 
 Notes: A deity can have this ability multiple times, choosing a different school of magic each time.
 
@@ -674,7 +674,7 @@ Table: Divine Spellcasting
 
 Prerequisites: Divine rank 16, Cha 26.
 
-Benefit: Any mortal who approaches within 10 feet per divine rank of the deity in its natural form dies immediately, with no saving throw.
+Benefit: Any mortal who approaches within 10 feet per divine rank of the deity in its natural form dies immediately, with no attack against its defense.
 
 Suggested Portfolio Elements: Supreme.
 
@@ -683,8 +683,8 @@ Suggested Portfolio Elements: Supreme.
 Prerequisite: Divine rank 11.
 
 Benefit: The deity can surround itself with a vortex of holy or unholy force that manifests in different forms depending on the deity. The vortex extends from the deity in an emanation with a radius of 10 feet per divine rank. The effect stops attacks with thrown weapons and projectiles (they fail if made by creatures inside the area, or targeted at creatures within the area, or if their paths take them through the area).  
-In addition, the force expels creatures whose alignment on the ethical (lawful-chaotic) axis is opposite the deity’s. If the deity’s ethical alignment is neutral (neutral good or neutral evil), the force does not expel any creatures. Affected creatures in the area must make Fortitude saves (DC 10 + the deity’s Charisma modifier + the deity’s divine rank) or be picked up and thrown out, regardless of size. Such creatures suffer 1d6 points of damage for each 10 feet they travel. Creatures that make successful saves are not affected by the vortex for one day, although the vortex still stops their thrown weapons and projectiles. Creatures that fail their saves can attempt to reenter the area, but must attempt new saves.  
-The force damages creatures whose alignment on the moral (good-evil) axis is opposite the deity’s. If the deity’s moral alignment is neutral (lawful neutral or chaotic neutral), the force does not damage any creatures. Affected creatures in the area must make Fortitude saves (DC 10 + the deity’s Charisma modifier + the deity’s divine rank) each round or suffer 1 point of holy damage per divine rank. A successful save negates the damage, but the creature must save again the next round if it is still within the area.  
+In addition, the force expels creatures whose alignment on the ethical (lawful-chaotic) axis is opposite the deity’s. If the deity’s ethical alignment is neutral (neutral good or neutral evil), the force does not expel any creatures. The vortex attacks the Fortitude of affected creatures in the area, its attack bonus the deity’s Charisma modifier + the deity’s divine rank, and those it hits are picked up and thrown out, regardless of size. Such creatures suffer 1d6 points of damage for each 10 feet they travel. Creatures it misses are not affected by the vortex for one day, although the vortex still stops their thrown weapons and projectiles. Creatures it hits can attempt to reenter the area, but it attacks them again.  
+The force damages creatures whose alignment on the moral (good-evil) axis is opposite the deity’s. If the deity’s moral alignment is neutral (lawful neutral or chaotic neutral), the force does not damage any creatures. It attacks the Fortitude of affected creatures in the area each round, its attack bonus the deity’s Charisma modifier + the deity’s divine rank, and those it hits suffer 1 point of holy damage per divine rank. A miss negates the damage, but it attacks the creature again the next round if it is still within the area.  
 Creatures whose alignment is diametrically opposed to the deity’s are subject to both effects.
 
 Suggested Portfolio Elements: War.
@@ -695,7 +695,7 @@ Prerequisites: Water domain.
 
 Benefit: The deity gains a competence bonus on attack, damage, and Armor Class equal to its divine rank if both the deity and its foe are touching the same body of water.  
 The deity gains a swim speed commensurate with its size (see Divine Characteristics).  
-At will, as a full-round action, the deity can create a devastating tidal wave of water. On land, the wave has effects similar to a flash flood: Creatures caught in the water must make a Fortitude save (DC 15). Large or smaller creatures that fail the save are swept away, taking 1d6 points of subdual damage per round (1d3 points on a successful [[rangoric-srd/skills/Athletics|Athletics]] check against DC 20). Huge creatures that fail are [[rangoric-srd/rules/Special Abilities and Conditions#^knocked-down|knocked down]], while Gargantuan and Colossal creatures are [[rangoric-srd/rules/Special Abilities and Conditions#^checked|checked]]. The wave destroys all wooden buildings and 25% of the stone buildings it comes into contact with. At sea, the tidal wave capsizes ships and crushes them to splinters. The wave affects a number of miles of coastland up to the deity’s divine rank.  
+At will, as a full-round action, the deity can create a devastating tidal wave of water. On land, the wave has effects similar to a flash flood: The wave attacks the Fortitude of creatures caught in the water at +5. Large or smaller creatures it hits are swept away, taking 1d6 points of subdual damage per round (1d3 points on a successful [[rangoric-srd/skills/Athletics|Athletics]] check against DC 20). Huge creatures that fail are [[rangoric-srd/rules/Special Abilities and Conditions#^knocked-down|knocked down]], while Gargantuan and Colossal creatures are [[rangoric-srd/rules/Special Abilities and Conditions#^checked|checked]]. The wave destroys all wooden buildings and 25% of the stone buildings it comes into contact with. At sea, the tidal wave capsizes ships and crushes them to splinters. The wave affects a number of miles of coastland up to the deity’s divine rank.  
 When touching water, the deity can automatically sense the location of anything within 10 feet per divine rank that is in contact with the same body of water.
 
 Suggested Portfolio Elements: Water.
@@ -731,7 +731,7 @@ Suggested Portfolio Elements: War.
 
 ##### Energy Burst
 
-Benefit: The deity can create an emanation of a specific type of energy (acid, cold, electricity, fire, or sonic energy, specified in the deity’s description) with a radius of 10 feet per divine rank. Anything in the area takes 1d8 points of the appropriate energy damage per divine rank. Damage is halved for those who make successful saving throws (Reflex for acid, cold, electricity, or fire, or Fortitude for sonic energy; DC 10 + the deity’s divine rank + the deity’s Constitution modifier).
+Benefit: The deity can create an emanation of a specific type of energy (acid, cold, electricity, fire, or sonic energy, specified in the deity’s description) with a radius of 10 feet per divine rank. Anything in the area takes 1d8 points of the appropriate energy damage per divine rank. Damage is halved on a miss (it attacks Reflex for acid, cold, electricity, or fire, or Fortitude for sonic energy; its attack bonus the deity’s divine rank + the deity’s Constitution modifier).
 
 Notes: A deity can have this ability multiple times, choosing a different type of energy each time.
 
@@ -786,7 +786,7 @@ Suggested Portfolio Elements: Any.
 
 Prerequisites: Travel domain.
 
-Benefit: The deity can sap the energy from living creatures so that they feel tired. It can affect up to one creature per divine rank at once, but no more than one creature per divine rank each day. All must be within the deity’s line of sight when first affected. Subjects can attempt Fortitude saves (DC 10 + deity’s Charisma modifier + deity’s divine rank). Creatures who fail their saves become [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] and their speed is reduced by half. Furthermore, any mount or vehicle they ride is likewise slowed. The effect lasts one day.
+Benefit: The deity can sap the energy from living creatures so that they feel tired. It can affect up to one creature per divine rank at once, but no more than one creature per divine rank each day. All must be within the deity’s line of sight when first affected. It attacks each subject’s Fortitude, its attack bonus the deity’s Charisma modifier + the deity’s divine rank. Creatures it hits become [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] and their speed is reduced by half. Furthermore, any mount or vehicle they ride is likewise slowed. The effect lasts one day.
 
 Suggested Portfolio Elements: Travel.
 
@@ -802,7 +802,7 @@ Suggested Portfolio Elements: Travel.
 
 Prerequisites: Cha 24.
 
-Benefit: Whenever the deity performs a specific action specified in the deity’s description (usually attacking, but sometimes making an intimidating gesture), foes within a 30-foot-radius burst must make Will saves (DC 10 + deity’s Charisma modifier + deity’s divine rank). Foes within the burst, but not the deity’s immediate target, become [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 3d6 rounds if they fail their saves. Creatures the deity attacks when it activates the ability become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 3d6 rounds if they fail their saves. Foes who make successful saving throws are unaffected by this ability for one day.
+Benefit: Whenever the deity performs a specific action specified in the deity’s description (usually attacking, but sometimes making an intimidating gesture), it attacks the Will of foes within a 30-foot-radius burst, its attack bonus the deity’s Charisma modifier + the deity’s divine rank. Foes within the burst, but not the deity’s immediate target, become [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 3d6 rounds if it hits them. Creatures the deity attacks when it activates the ability become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 3d6 rounds if it hits them. Foes it misses are unaffected by this ability for one day.
 
 Suggested Portfolio Elements: Destruction, war.
 
@@ -828,7 +828,7 @@ Suggested Portfolio Elements: Nature.
 
 Benefit: The deity points to any mortal within the deity’s sensory range and snuffs out its life. There must be an unbroken line of effect between the deity and the target.
 
-Notes: This ability works like the [[rangoric-srd/spells/Destruction|destruction]] spell, except that there is no material component. The mortal is allowed a Fortitude saving throw with a DC of 20 + the deity’s Charisma bonus + the deity’s divine rank. Even if the save succeeds, the subject takes 10d6 points of damage, which may kill it anyway. If the attack kills the mortal (either through a failed saving throw or through damage), the mortal cannot be raised or resurrected afterward, except by a deity of equal or higher rank using the [[#Gift of Life|Gift of Life]], [[#Life and Death|Life and Death]], or [[#Mass Life and Death|Mass Life and Death]] salient divine ability.
+Notes: This ability works like the [[rangoric-srd/spells/Destruction|destruction]] spell, except that there is no material component. It attacks the mortal’s Fortitude, its attack bonus 10 + the deity’s Charisma bonus + the deity’s divine rank. Even on a miss, the subject takes 10d6 points of damage, which may kill it anyway. If the attack kills the mortal (either through a hit or through damage), the mortal cannot be raised or resurrected afterward, except by a deity of equal or higher rank using the [[#Gift of Life|Gift of Life]], [[#Life and Death|Life and Death]], or [[#Mass Life and Death|Mass Life and Death]] salient divine ability.
 
 Suggested Portfolio Elements: Death.
 
@@ -884,7 +884,7 @@ Suggested Portfolio Elements: Travel.
 
 Prerequisites: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] and [[rangoric-srd/feats/Improved Critical|Improved Critical]] with the selected melee weapon.
 
-Benefit: When the deity makes a melee attack with the chosen weapon against a creature, resolve the attack as a melee touch attack (the weapon blow ignores armor and natural armor bonuses). If the weapon hits, the creature struck must make a Fortitude save (DC 10 + the deity’s Constitution modifier + the deity’s divine rank) or be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d10 rounds.  
+Benefit: When the deity makes a melee attack with the chosen weapon against a creature, resolve the attack as a melee touch attack (the weapon blow ignores armor and natural armor bonuses). If the weapon hits, it also attacks the struck creature’s Fortitude, its attack bonus the deity’s Constitution modifier + the deity’s divine rank, and on a hit the creature is [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d10 rounds.  
 The deity’s attacks with the chosen weapons are considered to be adamantine for purposes of bypassing damage reduction and hardness.
 
 Notes: A deity can have this ability multiple times, choosing a different kind of weapon each time.
@@ -896,15 +896,15 @@ Suggested Portfolio Elements: War.
 Prerequisites: [[rangoric-srd/skills/Performance|Performance]] 37 ranks.  
 Benefit: When the deity sings, plays a musical instrument, tells jokes, recites verse, or engages in any other type of performance as a full-round action, the deity has the option to create any of the following effects. The deity can use this ability a number of times per day equal to its divine rank. It affects up to one creature per divine rank within a burst with a radius of 10 feet per divine rank, centered on the deity.
 
-- Affected creatures become unable to take actions; instead, they dance, observe the performance with rapt attention, laugh, or applaud at the deity’s option. The affected creatures also suffer a -4 penalty to Armor Class, cannot succeed at Reflex saves (except on a roll of 20), and cannot use shields. Creatures can resist this mind effect with a successful Will save (DC 10 + the deity’s Charisma modifier + the deity’s divine rank). The effects last for as long as the deity performs and for up to 1 round per divine rank thereafter.
+- Affected creatures become unable to take actions; instead, they dance, observe the performance with rapt attention, laugh, or applaud at the deity’s option. The affected creatures also suffer a -4 penalty to Armor Class, are hit by every attack against their Reflex Defense, and cannot use shields. The performance attacks each creature’s Will, its attack bonus the deity’s Charisma modifier + the deity’s divine rank, and a miss resists this mind effect. The effects last for as long as the deity performs and for up to 1 round per divine rank thereafter.
 
 - Affected creatures become blissfully calm. They are immune to fear and compulsion effects except for those created by deities of higher rank than the performing deity and any such effects already operating on affected creatures are countered and [[rangoric-srd/spells/Dispel Magic|dispelled]]. This ability also counters and dispels rage effects except for those created by deities of higher rank than the performing deity. Immunity to fear and compulsion last for as long as the deity performs and for up to 1 round per divine rank thereafter.
 
-- Affected creatures fall asleep. This works like the [[rangoric-srd/spells/Sleep|sleep]] spell, except that any living creature can be affected. Creatures can resist this mind effect with Will saves (DC 10 + the deity’s Charisma modifier + the deity’s divine rank). Affected creatures sleep for up to 1 hour per divine rank or until awakened. The deity can end the effect at will.
+- Affected creatures fall asleep. This works like the [[rangoric-srd/spells/Sleep|sleep]] spell, except that any living creature can be affected. The performance attacks each creature’s Will, its attack bonus the deity’s Charisma modifier + the deity’s divine rank, and a miss resists this mind effect. Affected creatures sleep for up to 1 hour per divine rank or until awakened. The deity can end the effect at will.
 
-- Affected creatures are so deeply moved that they simply die. Only living creatures with Hit Dice equal to or less than the deity’s divine rank are affected. Creatures can resist the effect with Fortitude saves (DC 10 + the deity’s Charisma modifier + the deity’s divine rank).
+- Affected creatures are so deeply moved that they simply die. Only living creatures with Hit Dice equal to or less than the deity’s divine rank are affected. The performance attacks each creature’s Fortitude, its attack bonus the deity’s Charisma modifier + the deity’s divine rank, and a miss resists the effect.
 
-Once a creature makes a successful save against one of the deity’s performances, the creature cannot be affected again for one day.
+Once one of the deity’s performances misses a creature, the creature cannot be affected again for one day.
 
 Note: Not all deities with this ability can create all the mentioned effects, as specified in the deity descriptions.
 
@@ -920,13 +920,13 @@ Suggested Portfolio Elements: Death.
 
 No secrets can be kept from the deity.
 
-Benefit: The deity can learn a creature’s entire history (including any embarrassing or vital secrets it might know) just by looking at it. This ability is similar to the [[rangoric-srd/spells/Legend Lore|legend lore]] spell, except that it delivers instant results and the subject is allowed a Will save (DC 10 + the deity’s Charisma modifier + the deity’s divine rank) to avoid the effect.
+Benefit: The deity can learn a creature’s entire history (including any embarrassing or vital secrets it might know) just by looking at it. This ability is similar to the [[rangoric-srd/spells/Legend Lore|legend lore]] spell, except that it delivers instant results and it attacks the subject’s Will, its attack bonus the deity’s Charisma modifier + the deity’s divine rank, a miss avoiding the effect.
 
 Suggested Portfolio Elements: Knowledge, secrets.
 
 ##### Lay Curse
 
-Benefit: This ability works like the [[rangoric-srd/spells/Bestow Curse|bestow curse]] spell, except that mortals get no save. Deities of equal or lesser rank are subject to this ability, but are allowed Will saves (DC 10 + the deity’s Charisma modifier + the deity’s divine rank) to resist. The curse can be removed only by a deity of equal or higher rank than the cursing deity.  
+Benefit: This ability works like the [[rangoric-srd/spells/Bestow Curse|bestow curse]] spell, except that it makes no attack against a mortal’s defense. Deities of equal or lesser rank are subject to this ability, but it attacks their Will, its attack bonus the deity’s Charisma modifier + the deity’s divine rank, and a miss resists it. The curse can be removed only by a deity of equal or higher rank than the cursing deity.  
 The deity can affect up to one creature per divine rank at once, but no more than that number each day. All must be within the deity’s line of sight when first affected.
 
 Suggested Portfolio Elements: Evil.
@@ -943,7 +943,7 @@ Prerequisites: Divine rank 6, [[#Gift of Life|Gift of Life]] or [[#Hand of Death
 
 Benefit: The deity designates any mortal and snuffs out its life. Or the deity can designate any dead mortal and restore it to life.
 
-Notes: This ability works across planar boundaries and penetrates any barrier except a [[#Divine Shield|divine shield]]. However, the subject must be in a location the deity can sense, either within the deity’s sense range or in a location the deity can perceive through its remote sensing ability. If the deity cannot see the subject, the deity must unambiguously identify the subject in some fashion. If the deity chooses to kill a mortal, the ability works like the [[rangoric-srd/spells/Destruction|destruction]] spell, except that there is no material component or saving throw. The mortal cannot be raised or resurrected afterward, except by a deity of equal or higher rank using the [[#Gift of Life|Gift of Life]] or Life and Death salient divine ability.  
+Notes: This ability works across planar boundaries and penetrates any barrier except a [[#Divine Shield|divine shield]]. However, the subject must be in a location the deity can sense, either within the deity’s sense range or in a location the deity can perceive through its remote sensing ability. If the deity cannot see the subject, the deity must unambiguously identify the subject in some fashion. If the deity chooses to kill a mortal, the ability works like the [[rangoric-srd/spells/Destruction|destruction]] spell, except that there is no material component or attack against a defense. The mortal cannot be raised or resurrected afterward, except by a deity of equal or higher rank using the [[#Gift of Life|Gift of Life]] or Life and Death salient divine ability.  
 If the deity restores life to a mortal, this ability works like the [[rangoric-srd/spells/True Resurrection|true resurrection]] spell, except that there is no material component and the amount of time the subject has been dead is irrelevant.  
 This ability cannot restore a creature to life against its will, but it can resurrect an elemental or outsider. It can resurrect a creature whose soul is trapped, provided the soul is not held by a deity of higher rank than the one using this ability.  
 This ability cannot restore life to a creature that has been slain by the [[#Hand of Death|Hand of Death]], Life and Death, or [[#Mass Life and Death|Mass Life and Death]] ability of a deity with a higher rank.
@@ -957,7 +957,7 @@ Suggested Portfolio Elements: Death, supreme.
 
 Prerequisites: Death domain.
 
-Benefit: As a free action, the deity can generate a cloud of darkness that rises from its body in a spread with a radius of 10 feet per divine rank and 10 feet high. The cloud blocks sight as a [[rangoric-srd/spells/Deeper Darkness|deeper darkness]] spell does, except that it cannot be countered by light effects (other than those cast by deities of higher rank). Living creatures must make Will saves (DC 10 + the deity’s Charisma modifier + the deity’s divine rank) or die. Even with a successful save, living creatures still gain two [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative levels]] (the save DC to remove the negative levels is the same as the first Will save). A single creature can be drained by the cloud only once per day, but the cloud’s darkness remains effective.
+Benefit: As a free action, the deity can generate a cloud of darkness that rises from its body in a spread with a radius of 10 feet per divine rank and 10 feet high. The cloud blocks sight as a [[rangoric-srd/spells/Deeper Darkness|deeper darkness]] spell does, except that it cannot be countered by light effects (other than those cast by deities of higher rank). The cloud attacks the Will of living creatures, its attack bonus the deity’s Charisma modifier + the deity’s divine rank, and those it hits die. Even on a miss, living creatures still gain two [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative levels]] (which attack again each day with the same attack bonus). A single creature can be drained by the cloud only once per day, but the cloud’s darkness remains effective.
 
 Suggested Portfolio Elements: Death, undead.
 
@@ -995,7 +995,7 @@ Suggested Portfolio Elements: Crafts, creation.
 The deity can make plants and animals sentient, and it can reduce sentient creatures to animal or plant form.
 
 Benefit: The deity can grant humanlike sentience to trees or animals. This sentience lasts a maximum of one day, and the sentient tree or animal obeys the deity’s commands to the best of its ability. The deity can affect up to one creature per divine rank at once, but no more than that number each day. All must be within the deity’s line of sight when first affected.  
-Also, the deity can transmute any creature into a plant or animal of approximately the same size or up to two size categories smaller. The subject is allowed a Fortitude save (DC 10 + the deity’s Charisma modifier + the deity’s divine rank) to resist. Subjects turned into plants become objects. Subjects turned into animals have the same abilities and statistics of the kind of animal the deity chooses.  
+Also, the deity can transmute any creature into a plant or animal of approximately the same size or up to two size categories smaller. It attacks the subject’s Fortitude, its attack bonus the deity’s Charisma modifier + the deity’s divine rank, and a miss resists it. Subjects turned into plants become objects. Subjects turned into animals have the same abilities and statistics of the kind of animal the deity chooses.  
 The [[#Alter Reality|Alter Reality]] ability can make either effect permanent.
 
 Suggested Portfolio Elements: Nature.
@@ -1004,7 +1004,7 @@ Suggested Portfolio Elements: Nature.
 
 Prerequisites: Cha 29.
 
-Benefit: The deity can possess any mortal in any location the deity can sense. Unwilling mortals can attempt Will saves (DC 10 + the deity’s Charisma modifier + the deity’s rank).
+Benefit: The deity can possess any mortal in any location the deity can sense. It attacks the Will of unwilling mortals, its attack bonus the deity’s Charisma modifier + the deity’s rank.
 
 Notes: Spells that prevent possession block this ability if the mortal is unwilling. Likewise, spells that end possession drive out the deity if the mortal is unwilling. If the mortal is willing, however, the deity cannot be blocked or driven out, except by a [[#Divine Shield|divine shield]] or the use of the [[#Alter Reality|Alter Reality]] salient divine ability by a deity of higher rank.  
 The possessed mortal effectively becomes an avatar of the deity. The deity can draw on all the possessed mortal’s memories, and the deity senses what the mortal senses. Each mortal possessed counts as a remote location where the deity is sensing and communicating. A demigod can possess up to two mortals at a time, a lesser deity can possess up to five mortals at once, an intermediate deity can possess up to ten, and a greater deity can possess up to twenty mortals at once.  
@@ -1018,7 +1018,7 @@ Armor Class: The mortal gains a divine bonus to Armor Class equal to half the de
 
 Ability Scores: Strength, Dexterity, and Constitution are unchanged. Intelligence, Wisdom, and Charisma become 5 points lower than the deity’s (or remain as the mortal’s scores if they are higher).
 
-Saves: Fortitude and Reflex same as the mortal; Will adjusted if necessary for the mortal’s new Wisdom score.
+Defenses: Fortitude and Reflex same as the mortal; Will adjusted if necessary for the mortal’s new Wisdom score.
 
 Skills: The mortal can use its own skills and the deity’s skills. If the mortal and the deity have the same skill, use the skill of whichever has more ranks in the skill. Use the mortal’s effective ability scores to determine skill modifiers.
 
@@ -1028,7 +1028,7 @@ Suggested Portfolio Elements: Supreme.
 
 Prerequisites: Luck domain.
 
-Benefit: The deity can give creatures good or bad fortune. The deity can affect up to one creature per divine rank at once, but no more than that number each day. All must be within the deity’s line of sight when first affected. Subjects receive a luck bonus of +1 per divine rank or a luck penalty of -1 per divine rank on attack rolls, saves, and checks for one day. Any creature that attacks the deity automatically suffers the luck penalty, and this does not count against the deity’s daily uses of this ability.
+Benefit: The deity can give creatures good or bad fortune. The deity can affect up to one creature per divine rank at once, but no more than that number each day. All must be within the deity’s line of sight when first affected. Subjects receive a luck bonus of +1 per divine rank or a luck penalty of -1 per divine rank on attack rolls, defenses, and checks for one day. Any creature that attacks the deity automatically suffers the luck penalty, and this does not count against the deity’s daily uses of this ability.
 
 Suggested Portfolio Elements: Fate, gambling, luck.
 
@@ -1050,7 +1050,7 @@ Suggested Portfolio Elements: Nature, sea, weather.
 
 ##### Power of Truth
 
-Benefit: The deity knows when anyone (other than a deity of equal or higher rank) deliberately lies. This ability works like the [[rangoric-srd/spells/Discern Lies|discern lies]] spell, except that it works continuously and applies to any creature the deity can perceive. The deity also can enchant creatures so they become truthful. The deity can affect up to one creature per divine rank at once, but no more than that number each day. All must be within the deity’s line of sight when first affected. The enchanted creatures become unable to utter any deliberate falsehoods or evasions of truth for one day. The subject is allowed a Will save (DC 10 + the deity’s Charisma modifier + the deity’s divine rank) to resist. Subjects who make successful saves become immune to this ability for one day.
+Benefit: The deity knows when anyone (other than a deity of equal or higher rank) deliberately lies. This ability works like the [[rangoric-srd/spells/Discern Lies|discern lies]] spell, except that it works continuously and applies to any creature the deity can perceive. The deity also can enchant creatures so they become truthful. The deity can affect up to one creature per divine rank at once, but no more than that number each day. All must be within the deity’s line of sight when first affected. The enchanted creatures become unable to utter any deliberate falsehoods or evasions of truth for one day. It attacks the subject’s Will, its attack bonus the deity’s Charisma modifier + the deity’s divine rank, and a miss resists it. Subjects it misses become immune to this ability for one day.
 
 Suggested Portfolio Elements: Justice, law, truth.
 
@@ -1097,7 +1097,7 @@ Benefit: The deity can assume the form of another creature. The forms a deity ca
 
 Notes: The deity acquires the physical, natural, and extraordinary abilities of the form it has assumed (but not spell-like or supernatural abilities) while retaining its own mind. Physical abilities include natural size and Strength, Dexterity, and Constitution scores. Natural abilities include armor, natural weapons (such as claws, bite, swoop and [[rangoric-srd/monsters/abilities/Rake|rake]], and [[rangoric-srd/monsters/abilities/Constrict|constriction]]; but not [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapons]], [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]], energy effect, and the like), and similar gross physical qualities (presence or absence of wings, number of extremities, and so on). A body with extra limbs does not allow the deity to make more attacks (or more advantageous two-weapon attacks) than normal. Natural abilities also include mundane movement capabilities, such as walking, swimming, and flight with wings. The deity’s speed is that of the assumed form or the deity’s normal speed, whichever is higher.  
 In general, any part of the body or piece of equipment that is separated from the whole reverts to its original form. However, if the assumed form has an extraordinary ability that allows it to produce a substance or shed part of its body, then this ability also grants that ability.  
-The deity retains its Intelligence, Wisdom, and Charisma scores, level and class, hit points (despite any change in its Constitution score), alignment, base attack bonus, and base saves. (New Strength, Dexterity, and Constitution scores may affect final attack and save bonuses.) The deity retains its outsider type, extraordinary abilities, spells, and spell-like abilities, but not its supernatural abilities.  
+The deity retains its Intelligence, Wisdom, and Charisma scores, level and class, hit points (despite any change in its Constitution score), alignment, base attack bonus, and base saves. (New Strength, Dexterity, and Constitution scores may affect final attack bonuses and defenses.) The deity retains its outsider type, extraordinary abilities, spells, and spell-like abilities, but not its supernatural abilities.  
 The deity also retains its divine Armor Class bonus and divine qualities and abilities, provided they are not supernatural.  
 The deity can cast spells for which it has components. It needs a voice like that of a humanoid for verbal components and hands like those of a humanoid for somatic components, Likewise, the deity needs hands to use many of its powers, such as creating objects related to its portfolio.  
 When the shape shift occurs, the deity’s equipment, if any, transforms to match the new form. If the new form is a creature that does not use equipment (aberration, animal, beast, magical beast, construct, dragon, elemental, ooze, some outsiders, plant, some undead creatures, some shapechangers, or vermin), the equipment melds into the new form and becomes nonfunctional.  
@@ -1137,7 +1137,7 @@ Suggested Portfolio Elements: Travel.
 
 ##### Sunder and Disjoin
 
-Benefit: If any weapon or item is used against the deity in combat, the deity can destroy it with a touch. Treat a successful touch as a combination of a [[rangoric-srd/spells/Disintegrate|disintegrate]] spell and a [[rangoric-srd/spells/Mage’s Disjunction|disjunction]] spell, both targeted exclusively at the touched item. The save DC for both effects is 19 + the deity’s Charisma modifier. An item remains vulnerable to this ability for up to one day after being used against the deity.
+Benefit: If any weapon or item is used against the deity in combat, the deity can destroy it with a touch. Treat a successful touch as a combination of a [[rangoric-srd/spells/Disintegrate|disintegrate]] spell and a [[rangoric-srd/spells/Mage’s Disjunction|disjunction]] spell, both targeted exclusively at the touched item. The attack bonus for both effects is 9 + the deity’s Charisma modifier. An item remains vulnerable to this ability for up to one day after being used against the deity.
 
 Suggested Portfolio Elements: Victory, war.
 
@@ -1202,7 +1202,7 @@ Benefit: The deity gains the qualities of the undead type:
 
 - Cannot heal damage on its own if it has no Intelligence score, although it can be healed. Negative energy can heal undead creatures. The [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] special quality works regardless of the creature’s Intelligence score.
 
-- Immunity to any effect that requires a Fortitude save (unless the effect also works on objects or is harmless).
+- Immunity to any effect that attacks Fortitude (unless the effect also works on objects or is harmless).
 
 - Uses its Charisma modifier for [[rangoric-srd/spells/Magic Overview#Concentration|Concentration]] checks.
 
@@ -1218,7 +1218,7 @@ Suggested Portfolio Elements: Death, undead.
 
 Prerequisites: Chaotic alignment.
 
-Benefit: The deity can create a wave of mental force that extends from the deity in a spread with a radius of 10 feet per divine rank. Creatures within the spread must make Will saves (DC 10 + the deity’s Charisma modifier + the deity’s divine rank) or be forced to act unpredictably. This ability works like a [[rangoric-srd/spells/Confusion|confusion]] spell cast by a sorcerer of level 10 + the deity’s divine rank.
+Benefit: The deity can create a wave of mental force that extends from the deity in a spread with a radius of 10 feet per divine rank. The spread attacks the Will of creatures within it, its attack bonus the deity’s Charisma modifier + the deity’s divine rank, and those it hits are forced to act unpredictably. This ability works like a [[rangoric-srd/spells/Confusion|confusion]] spell cast by a sorcerer of level 10 + the deity’s divine rank.
 
 Suggested Portfolio Elements: Chaos.
 

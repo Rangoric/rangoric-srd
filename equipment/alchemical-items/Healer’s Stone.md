@@ -23,9 +23,9 @@ tags: [rangoric, rangoric/alchemical-item]
 
 _Alchana, Greater; Special_
 
-One of the Five Great Alchana Stones, the Healer’s Stone is among the greatest feats of creation for white alchemists, as its powers exemplify their quest for perfection as exhibited in living matter. Wearing or holding the stone adds a +6 competence bonus on any [[rangoric-srd/skills/Medicine|Medicine]] checks and provides an automatic +2 to all Fortitude saves. It also has a primary power to create elixirs either wholly or when submerged in a quart of aqua clarissima (see table below; the aqua is absorbed and made part of the elixir, speeding up the process).
+One of the Five Great Alchana Stones, the Healer’s Stone is among the greatest feats of creation for white alchemists, as its powers exemplify their quest for perfection as exhibited in living matter. Wearing or holding the stone adds a +6 competence bonus on any [[rangoric-srd/skills/Medicine|Medicine]] checks and provides an automatic +2 to Fortitude Defense. It also has a primary power to create elixirs either wholly or when submerged in a quart of aqua clarissima (see table below; the aqua is absorbed and made part of the elixir, speeding up the process).
 
-The Healer’s Stone is a white, opalescent stone with a dull shine like a pearl lit from within. If the item is used only to boost [[rangoric-srd/skills/Medicine|Medicine]] checks and saving throws, it can last the lifetime of its user or longer. However, using it to create elixirs costs some of its strength. A Healer’s Stone only carries 5d20 charges for such uses, and the charges are used up as per the table below.
+The Healer’s Stone is a white, opalescent stone with a dull shine like a pearl lit from within. If the item is used only to boost [[rangoric-srd/skills/Medicine|Medicine]] checks and Fortitude Defense, it can last the lifetime of its user or longer. However, using it to create elixirs costs some of its strength. A Healer’s Stone only carries 5d20 charges for such uses, and the charges are used up as per the table below.
 
 **Table: Elixir List**
 

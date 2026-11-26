@@ -28,7 +28,7 @@ _Ingestible; Special_
 An advanced version of [[rangoric-srd/equipment/alchemical-items/Universal Antivenom|universal antivenom]], this potion is a universal antidote against all kinds of poisons, regardless of how they are administered or created.
 
 - If drunk within 10 minutes of the poison entering the system, the antidote removes any damage (nonlethal or real) done by the poison, though it will not restore life to a person already killed by the poison. It further flushes the poison from the person’s system as inert moisture.
-- If drunk before toxins or poisons are administered, this antidote provides a +6 circumstance bonus for all Fortitude saves related to poisons and toxins for the next 2d4 hours.
+- If drunk before toxins or poisons are administered, this antidote provides a +6 circumstance bonus to Fortitude Defense against poisons and toxins for the next 2d4 hours.
 
 This liquid comes in a gold-threaded leathern pouch like an elixir or a paste, and its thickness demands it be squeezed into the mouth. However, once inside the warm mouth it becomes less viscous and flows easily down the throat, even if the victim is unconscious.
 

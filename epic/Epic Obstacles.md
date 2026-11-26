@@ -91,23 +91,23 @@ In addition to the antimagic field’s effects, magic items that come into conta
 
 On the first round of contact, the slime can be scraped off a creature, but after that it must be frozen, burned, or cut away (dealing damage to the victim as well). Extreme cold, heat, or sunlight destroys a patch of flux slime.
 
-When destroyed, a patch of slime releases the byproducts of its magical digestion in a dangerous burst that radiates out 50 feet. All creatures caught in this burst are subject to some random and permanent transmutation effect, as generated on the table below. Each burst generates one of these effects. Creatures may resist this effect with a Fortitude saving throw (DC 29).
+When destroyed, a patch of slime releases the byproducts of its magical digestion in a dangerous burst that radiates out 50 feet. All creatures caught in this burst are subject to some random and permanent transmutation effect, as generated on the table below. Each burst generates one of these effects. The burst attacks the Fortitude of each creature at +19, and a miss resists the effect.
 
-| d%     | Result                                                                                                                  |
-| ------ | ----------------------------------------------------------------------------------------------------------------------- |
-| 01-10  | Blindness (as blindness/deafness spell)                                                                                 |
-| 11-16  | Cursed (as bestow curse spell; -4 enhancement penalty on attack rolls, saving throws, ability checks, and skill checks) |
-| 17-26  | Deafness (as blindness/deafness spell)                                                                                  |
-| 27-32  | Disintegrate (subject is destroyed by a disintegrate spell)                                                             |
-| 33-40  | Etherealness (as etherealness spell)                                                                                    |
-| 41-48  | Gaseous (as gaseous form spell)                                                                                         |
-| 49-54  | Iron body (as iron body spell)                                                                                          |
-| 55-60  | Petrification (as flesh to stone spell)                                                                                 |
-| 61-68  | Plane shift (subject instantly transports to a random plane)                                                            |
-| 69-74  | Polymorph (as polymorph other spell; choose form randomly)                                                              |
-| 75-80  | Reverse gravity (flux slime becomes the center of a reverse gravity spell).                                             |
-| 81-88  | Teleport (each subject teleports to a different,  random location)                                                      |
-| 89-94  | Temporal stasis (as temporal stasis spell)                                                                              |
-| 95-100 | Reverse aging (subject gets younger each year, disappearing at moment of “birth”)                                       |
+| d%     | Result                                                                                                             |
+| ------ | ------------------------------------------------------------------------------------------------------------------ |
+| 01-10  | Blindness (as blindness/deafness spell)                                                                            |
+| 11-16  | Cursed (as bestow curse spell; -4 enhancement penalty on attack rolls, defenses, ability checks, and skill checks) |
+| 17-26  | Deafness (as blindness/deafness spell)                                                                             |
+| 27-32  | Disintegrate (subject is destroyed by a disintegrate spell)                                                        |
+| 33-40  | Etherealness (as etherealness spell)                                                                               |
+| 41-48  | Gaseous (as gaseous form spell)                                                                                    |
+| 49-54  | Iron body (as iron body spell)                                                                                     |
+| 55-60  | Petrification (as flesh to stone spell)                                                                            |
+| 61-68  | Plane shift (subject instantly transports to a random plane)                                                       |
+| 69-74  | Polymorph (as polymorph other spell; choose form randomly)                                                         |
+| 75-80  | Reverse gravity (flux slime becomes the center of a reverse gravity spell).                                        |
+| 81-88  | Teleport (each subject teleports to a different,  random location)                                                 |
+| 89-94  | Temporal stasis (as temporal stasis spell)                                                                         |
+| 95-100 | Reverse aging (subject gets younger each year, disappearing at moment of “birth”)                                  |
 
 After the burst, the extradimensional origin point is sealed.

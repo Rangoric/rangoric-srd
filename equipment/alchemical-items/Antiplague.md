@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/alchemical-item]
 
 # Antiplague
 
-If you drink a vial of this foul-tasting, milky tonic, you gain a +5 alchemical bonus on Fortitude saving throws against disease for the next hour. If already infected, you may also make two saving throws (without the +5 bonus) that day and use the better result.
+If you drink a vial of this foul-tasting, milky tonic, you gain a +5 alchemical bonus on Fortitude Defense against disease for the next hour. If already infected, the disease rolls twice (without the +5 bonus) when it attacks you that day and takes the worse result.
 
 [[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 25; Price 50 gp/vial.

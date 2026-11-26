@@ -42,7 +42,7 @@ Granted Power: The character can boost his or her Charisma by 4 points once per 
 | 1 [[rangoric-srd/spells/Charm Person\|Charm Person]]         | Makes one person your friend.                                                                            |
 | 2 [[rangoric-srd/spells/Calm Emotions\|Calm Emotions]]       | Calms creatures, negating emotion effects.                                                               |
 | 3 [[rangoric-srd/spells/Suggestion\|Suggestion]]             | Compels subject to follow stated course of action.                                                       |
-| 4 [[rangoric-srd/spells/Heroism\|Heroism]]                   | Gives +2 on attack rolls, saves, skill checks.                                                           |
+| 4 [[rangoric-srd/spells/Heroism\|Heroism]]                   | Gives +2 on attack rolls, defenses, skill checks.                                                        |
 | 5 [[rangoric-srd/spells/Charm Monster\|Charm Monster]]       | Makes monster believe it is your ally.                                                                   |
 | 6 [[rangoric-srd/spells/Geas-Quest\|Geas/Quest]]             | As lesser geas, plus it affects any creature.                                                            |
 | 7 [[rangoric-srd/spells/Insanity (Spell)\|Insanity]]         | Subject suffers continuous [[rangoric-srd/rules/Special Abilities and Conditions#^confused\|confusion]]. |
@@ -57,7 +57,7 @@ Granted Power: The character can boost his or her Charisma by 4 points once per 
 
 | Spell Name                                                 | Brief Description                                            |
 | ---------------------------------------------------------- | ------------------------------------------------------------ |
-| 1 [[rangoric-srd/spells/Bless\|Bless]]                     | Allies gain +1 on attack rolls and saves against fear.       |
+| 1 [[rangoric-srd/spells/Bless\|Bless]]                     | Allies gain +1 on attack rolls and defenses against fear.    |
 | 2 [[rangoric-srd/spells/Status\|Status]]                   | Monitors condition, position of allies.                      |
 | 3 [[rangoric-srd/spells/Prayer\|Prayer]]                   | Allies +1 bonus on most rolls, enemies –1 penalty.           |
 | 4 [[rangoric-srd/spells/Status, Greater\|Greater Status]]  | Monitors condition, position of allies.                      |
@@ -125,26 +125,26 @@ Granted Power: Free Blind-Fight feat.
 
 ##### Liberation Domain
 
-Granted Power: The character gains a +2 morale bonus on all saving throws against enchantment spells or effects.
+Granted Power: The character gains a +2 morale bonus on all defenses against enchantment spells or effects.
 
 ###### Liberation Domain Spells
 
-| Spell Name                                                            | Brief Description                                                                        |
-| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| 1 [[rangoric-srd/spells/Remove Fear\|Remove Fear]]                    | Suppresses fear or gives +4 on saves against fear for one subject + one per four levels. |
-| 2 [[rangoric-srd/spells/Remove Paralysis\|Remove Paralysis]]          | Frees one or more creatures from paralysis or slow effect.                               |
-| 3 [[rangoric-srd/spells/Remove Curse\|Remove Curse]]                  | Frees object or person from curse.                                                       |
-| 4 [[rangoric-srd/spells/Freedom of Movement\|Freedom of Movement]]    | Subject moves normally despite impediments.                                              |
-| 5 [[rangoric-srd/spells/Break Enchantment\|Break Enchantment]]        | Frees subjects from enchantments, alterations, curses, and petrification.                |
-| 6 [[rangoric-srd/spells/Dispel Magic, Greater\|Greater Dispel Magic]] | As dispel magic, but up to +20 on check.                                                 |
-| 7 [[rangoric-srd/spells/Refuge\|Refuge]]                              | Alters item to transport its possessor to you.                                           |
-| 8 [[rangoric-srd/spells/Mind Blank\|Mind Blank]]                      | Subject is immune to mental/emotional magic and scrying.                                 |
-| 9 [[rangoric-srd/spells/Freedom\|Freedom]]                            | Releases creature from imprisonment.                                                     |
+| Spell Name                                                            | Brief Description                                                                           |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| 1 [[rangoric-srd/spells/Remove Fear\|Remove Fear]]                    | Suppresses fear or gives +4 on defenses against fear for one subject + one per four levels. |
+| 2 [[rangoric-srd/spells/Remove Paralysis\|Remove Paralysis]]          | Frees one or more creatures from paralysis or slow effect.                                  |
+| 3 [[rangoric-srd/spells/Remove Curse\|Remove Curse]]                  | Frees object or person from curse.                                                          |
+| 4 [[rangoric-srd/spells/Freedom of Movement\|Freedom of Movement]]    | Subject moves normally despite impediments.                                                 |
+| 5 [[rangoric-srd/spells/Break Enchantment\|Break Enchantment]]        | Frees subjects from enchantments, alterations, curses, and petrification.                   |
+| 6 [[rangoric-srd/spells/Dispel Magic, Greater\|Greater Dispel Magic]] | As dispel magic, but up to +20 on check.                                                    |
+| 7 [[rangoric-srd/spells/Refuge\|Refuge]]                              | Alters item to transport its possessor to you.                                              |
+| 8 [[rangoric-srd/spells/Mind Blank\|Mind Blank]]                      | Subject is immune to mental/emotional magic and scrying.                                    |
+| 9 [[rangoric-srd/spells/Freedom\|Freedom]]                            | Releases creature from imprisonment.                                                        |
 
 ##### Madness Domain
 
-Granted Power: The character gains an Insanity score equal to half his or her class level. For spellcasting (determining bonus spells and DCs), the character uses his or her Wisdom score plus his or her Insanity score in place of Wisdom alone.  
-For all other purposes, such as skills and saves, use Wisdom minus Insanity in place of Wisdom.  
+Granted Power: The character gains an Insanity score equal to half his or her class level. For spellcasting (determining bonus spells and attack bonuses), the character uses his or her Wisdom score plus his or her Insanity score in place of Wisdom alone.  
+For all other purposes, such as skills and defenses, use Wisdom minus Insanity in place of Wisdom.  
 Once per day, the character can see and act with the clarity of true madness. Use the character’s Insanity score as a positive rather than a negative modifier on a single roll involving Wisdom. Choose to use this power before the roll is made.
 
 ###### Madness Domain Spells
@@ -153,7 +153,7 @@ Once per day, the character can see and act with the clarity of true madness. Us
 | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 [[rangoric-srd/spells/Confusion, Lesser\|Confusion, Lesser]]       | One creature acts randomly for one round.                                                                                              |
 | 2 [[rangoric-srd/spells/Touch Of Madness\|Touch of Madness]]         | [[rangoric-srd/rules/Special Abilities and Conditions#^dazed\|Dazes]] touched target for 1 round per caster level.                     |
-| 3 [[rangoric-srd/divine/Divine Spells (new)\|Rage]]                  | Blood frenzy grants target +4 Str, +4 Con and +2 on Will saves.                                                                        |
+| 3 [[rangoric-srd/divine/Divine Spells (new)\|Rage]]                  | Blood frenzy grants target +4 Str, +4 Con and +2 on Will Defense.                                                                      |
 | 4 [[rangoric-srd/spells/Confusion\|Confusion]]                       | Subjects behave oddly for 1 round/level.                                                                                               |
 | 5 [[rangoric-srd/spells/Bolts Of Bedevilment\|Bolts of Bedevilment]] | One ray attack per round. Affected creatures are [[rangoric-srd/rules/Special Abilities and Conditions#^dazed\|dazed]] for 1d3 rounds. |
 | 6 [[rangoric-srd/spells/Phantasmal Killer\|Phantasmal Killer]]       | Fearsome illusion kills subject or deals 3d6 damage.                                                                                   |
@@ -163,7 +163,7 @@ Once per day, the character can see and act with the clarity of true madness. Us
 
 ##### Nobility Domain
 
-Granted Power: The character has the spell-like ability to inspire allies, giving them a +2 morale bonus on saving throws, attack rolls, ability checks, skill checks, and weapon damage rolls. Allies must be able to hear the character speak for 1 round. Using this ability is a standard action. It lasts a number of rounds equal to the character’s Charisma bonus and can be used once per day.
+Granted Power: The character has the spell-like ability to inspire allies, giving them a +2 morale bonus on defenses, attack rolls, ability checks, skill checks, and weapon damage rolls. Allies must be able to hear the character speak for 1 round. Using this ability is a standard action. It lasts a number of rounds equal to the character’s Charisma bonus and can be used once per day.
 
 ###### Nobility Domain Spells
 

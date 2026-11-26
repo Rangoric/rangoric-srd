@@ -40,8 +40,8 @@ In essence, herbalists have created and taught swathes to be semi-independent an
 
 **Cocoon Swathe of Greengifting** This is the rarest cocoon swathe, and for good reason—its sole purpose is to bestow the Greengift onto animals and people and make them [[rangoric-srd/monsters/Kin o’ the Green|kin o’ the green]]. While not exactly the same, the aerated gel within this cocoon mimics the effects of an [[rangoric-srd/equipment/alchemical-items/Erlixir of Greengifting|erlixir of greengifting]], with three differences:
 
-- Within moments of having it close around them, subjects of this cocoon must make a Fortitude save at a cumulative -1 per round vs. a DC 17 sleep effect (so eventually a person inside this cocoon either breaks out or falls asleep);
-- Regardless of the subject’s knowledge or saving throws, the cocoon swathe aids the transition from animal to half-plant and guides the body past the potential death and into plant life while he or she sleeps; and
+- Within moments of having it close around them, a sleep effect attacks the Fortitude of subjects of this cocoon each round at +7, with a cumulative +1 per round, (so eventually a person inside this cocoon either breaks out or falls asleep);
+- Regardless of the subject’s knowledge or defenses, the cocoon swathe aids the transition from animal to half-plant and guides the body past the potential death and into plant life while he or she sleeps; and
 - Instead of taking 1d6 days for the initial effects and many more days beyond that to manifest into the first stage, the cocoon swathe remains around its sleeping target for 12d12 hours, providing all of its nourishment and protection. At the end of this time, the cocoon opens and the subject emerges as a first stage kin o’ the green.
 
 **Construction**: No aura; CL 16th; [[rangoric-srd/feats/Grow Swathe|Grow Swathe]], [[rangoric-srd/feats/Create Erlcana|Create Erlcana]]; DC: 34; Price: 100,000 gp

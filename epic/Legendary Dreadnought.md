@@ -62,7 +62,7 @@ Its CMD against a [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]], 
 
 A Strength check against any effect that would move the character either physically or magically.
 
-Any one saving throw. If an effect that would move the character either physically or magically does not normally allow a saving throw, the legendary dreadnought can use this ability to gain a Will saving throw. He or she still gains the +20 bonus on the saving throw in such a case.  
+Any one defense against a single attack. If an effect that would move the character either physically or magically does not normally attack a defense, the legendary dreadnought can use this ability to have it attack his or her Will Defense. He or she still gains the +20 bonus on that defense in such a case.  
 
 Shrug off Punishment (Ex): The legendary dreadnought gains 12 bonus hit points at 3rd level and 12 more every five levels thereafter.
 
