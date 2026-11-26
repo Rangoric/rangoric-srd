@@ -15,7 +15,7 @@ full-attack: "—"
 space-reach: "1 ft./0 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision"
-saves: "Fort +0, Ref +5, Will +1"
+defenses: "Fort 10, Ref 15, Will 11"
 abilities: "Str 1, Dex 16, Con 6, Int 2, Wis 12, Cha 7"
 skills: "Athletics +6, Stealth +19"
 skill-ranks: "Athletics 7, Stealth 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 1 ft./0 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-- **Saves**: Fort +0, Ref +5, Will +1
+- **Defenses**: Fort 10, Ref 15, Will 11
 - **Abilities**: Str 1, Dex 16, Con 6, Int 2, Wis 12, Cha 7
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +19
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Athletics)

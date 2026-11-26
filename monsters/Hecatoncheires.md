@@ -19,7 +19,7 @@ full-attack: "100 greatswords +73 (2d6+20/17-20) melee; or 100 boulders +55 (2d8
 space-reach: "15 ft./15 ft."
 special-attacks: "Superior multiweapon fighting, spell-like abilities, summon hecatoncheires"
 special-qualities: "Abomination traits, electricity immunity, regeneration 40, fast healing 50, SR 70, DR 20/Good and Epic and Cold Iron"
-saves: "Fort +39, Ref +30, Will +27"
+defenses: "Fort 49, Ref 40, Will 37"
 abilities: "Str 50, Dex 15, Con 32, Int 10, Wis 8, Cha 24"
 skills: "Athletics +75 (+103 jumping), Fieldcraft +54, Intimidation +62, Society +55, Perception +104, Persuasion +62, Investigation +105, Sense Motive +54, Stealth –12"
 skill-ranks: "Athletics 52, Fieldcraft 52, Intimidation 52, Investigation 52, Perception 52, Persuasion 52, Sense Motive 52, Society 52, Stealth 0"
@@ -53,7 +53,7 @@ Full Attack: 100 greatswords +73 (2d6+20/17-20) melee; or 100 boulders +55 (2d8+
 Space/Reach: 15 ft./15 ft.      
 Special Attacks: Superior multiweapon fighting, spell-like abilities, summon hecatoncheires      
 Special Qualities: Abomination traits, electricity immunity, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 40, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 50, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 70, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 20/Good and Epic and Cold Iron      
-Saves: Fort +39, Ref +30, Will +27      
+Defenses: Fort 49, Ref 40, Will 37      
 Abilities: Str 50, Dex 15, Con 32, Int 10, Wis 8, Cha 24      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +75 (+103 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +54, [[rangoric-srd/skills/Intimidation|Intimidation]] +62, [[rangoric-srd/skills/Investigation|Investigation]] +105, [[rangoric-srd/skills/Perception|Perception]] +104, [[rangoric-srd/skills/Persuasion|Persuasion]] +62, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +54, [[rangoric-srd/skills/Society|Society]] +55, [[rangoric-srd/skills/Stealth|Stealth]] –12     
 Feats: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (greatsword), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (boulder), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/monsters/Monster Feats|Multidexterity]], [[rangoric-srd/feats/Multiweapon Fighting|Multiweapon Fighting]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatsword), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (boulder)      
@@ -73,7 +73,7 @@ Superior Multiweapon Fighting (Ex): A hecatoncheires fights with a greatsword or
 
 Skills: A hecatoncheires’ fifty heads give it a +50 racial bonus on [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Investigation|Investigation]] checks.
 
-Spell-Like Abilities: Caster level 50th; save DC 17 + spell level. The DC is Charisma-based.
+Spell-Like Abilities: Caster level 50th; attack bonus +7 + spell level. The attack bonus is Charisma-based.
 
 At will - [[rangoric-srd/spells/Spells F to G|greater magic weapon]], [[rangoric-srd/spells/Fly|fly]], [[rangoric-srd/spells/Shield|shield]].
 

@@ -16,7 +16,7 @@ full-attack: "2 slams +12 melee (2d6+4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., natural invisibility, improved tracking, elemental traits"
-saves: "Fort +11, Ref +11, Will +4"
+defenses: "Fort 21, Ref 21, Will 14"
 abilities: "Str 18, Dex 19, Con 22, Int 14, Wis 15, Cha 11"
 skills: "Acrobatics +22, Deception +10, Fieldcraft +12, Perception +12, Sense Motive +12, Stealth +14, Theology +12"
 skill-ranks: "Acrobatics 15, Deception 7, Fieldcraft 7, Perception 7, Sense Motive 7, Stealth 7, Theology 7"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Natural Invisibility|natural invisibility]], improved tracking, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-- **Saves**: Fort +11, Ref +11, Will +4
+- **Defenses**: Fort 21, Ref 21, Will 14
 - **Abilities**: Str 18, Dex 19, Con 22, Int 14, Wis 15, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +22, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +14, [[rangoric-srd/skills/Theology|Theology]] +12
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)

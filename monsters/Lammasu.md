@@ -15,7 +15,7 @@ full-attack: "2 claws +14 melee (1d8+6) and 2 wings +9 melee (1d6+3)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Pounce, rake (2 claws +14; 1d8+6), spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, magic circle against evil (20 ft.)"
-saves: "Fort +11, Ref +9, Will +8"
+defenses: "Fort 21, Ref 19, Will 18"
 abilities: "Str 23, Dex 12, Con 21, Int 16, Wis 17, Cha 14"
 skills: "Acrobatics +11, Arcana +12, Perception +15, Persuasion +11, Sense Motive +12"
 skill-ranks: "Acrobatics 9, Arcana 6, Perception 9, Persuasion 6, Sense Motive 6"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +14; 1d8+6), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]] (20 ft.)
-- **Saves**: Fort +11, Ref +9, Will +8
+- **Defenses**: Fort 21, Ref 19, Will 18
 - **Abilities**: Str 23, Dex 12, Con 21, Int 16, Wis 17, Cha 14
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]]
@@ -76,6 +76,6 @@ A lammasu attacks with spells or its razor-sharp claws. It almost always enters 
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +11): 3/day—_[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]_; 1/day—_[[rangoric-srd/spells/Dimension Door|dimension door]]_.
 
-**Spells known** (CL 7th; concentration +9): 3rd (4/day)—_[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]_, _[[rangoric-srd/spells/Searing Light|searing light]]_; 2nd (7/day)—_[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]], [[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_; 1st (7/day)—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Command|command]]_ (DC 13), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Detect Evil|detect evil]]_, _[[rangoric-srd/spells/Divine Favor|divine favor]]_; 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Detect Poison|detect poison]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]_, _[[rangoric-srd/spells/Resistance|resistance]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_.
+**Spells known** (CL 7th; concentration +9): 3rd (4/day)—_[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]_, _[[rangoric-srd/spells/Searing Light|searing light]]_; 2nd (7/day)—_[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]], [[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_; 1st (7/day)—_[[rangoric-srd/spells/Bless|bless]]_, _[[rangoric-srd/spells/Command|command]]_ (+3 vs Will), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Detect Evil|detect evil]]_, _[[rangoric-srd/spells/Divine Favor|divine favor]]_; 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Detect Poison|detect poison]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]_, _[[rangoric-srd/spells/Resistance|resistance]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_.
 
 **Spells**: A lammasu casts spells as a 7th-level oracle, but does not gain any other class abilities possessed by an oracle. It ignores all divine focus material components for spells it casts.

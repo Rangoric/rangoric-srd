@@ -15,7 +15,7 @@ full-attack: "2 claws +4 melee (1d4+1 plus disease)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Disease"
 special-qualities: "Darkvision 60 ft., faithlessness (30 ft.), false humanity, damage reduction 5/magic or silver, undead traits"
-saves: "Fort +2, Ref +3, Will +4"
+defenses: "Fort 12, Ref 13, Will 14"
 abilities: "Str 13, Dex 14, Con —, Int 4, Wis 12, Cha 12"
 skills: "Perception +5, Stealth +7"
 skill-ranks: "Perception 1, Stealth 2"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., faithlessness (30 ft.), [[rangoric-srd/monsters/abilities/False Humanity|false humanity]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic or silver, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +2, Ref +3, Will +4
+- **Defenses**: Fort 12, Ref 13, Will 14
 - **Abilities**: Str 13, Dex 14, Con —, Int 4, Wis 12, Cha 12
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
@@ -71,8 +71,8 @@ Huecuvas speak Common.
 
 ### Combat
 
-**Aura of Faithlessness (Su)**: The huecuva and all undead creatures within 30 feet receive a +2 profane bonus on Will saves made to resist channeled energy and positive energy effects.
+**Aura of Faithlessness (Su)**: The huecuva and all undead creatures within 30 feet receive a +2 profane bonus on Will Defense against channeled energy and positive energy effects.
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Filth Fever (Huecuva)|Filth Fever]]: injury; _save_ Fort DC 12; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d3 Dex damage and 1d3 Str damage; _cure_ 2 consecutive saves. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Filth Fever (Huecuva)|Filth Fever]]: injury; _attack_ +2 vs Fortitude; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d3 Dex damage and 1d3 Str damage; _cure_ 2 consecutive misses. The attack bonus is Charisma-based.
 
-**[[rangoric-srd/monsters/abilities/False Humanity|False Humanity]] (Su)**: During the day, a huecuva is cloaked in an illusion that makes it look, sound, and feel like the living creature it once was. This effect functions similarly to disguise self—if a creature interacts directly with a huecuva, it can attempt a DC 12 Will save to see through the illusion. Regardless, the huecuva's scent never changes—it always exudes a faint stench of grave dust and decay. Creatures with the scent ability receive a +4 bonus on any Will saving throw made to see through this illusion. At night (regardless of whether the huecuva itself knows night has fallen) this illusion fades and reveals the creature for what it truly is. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/False Humanity|False Humanity]] (Su)**: During the day, a huecuva is cloaked in an illusion that makes it look, sound, and feel like the living creature it once was. This effect functions similarly to disguise self—if a creature interacts directly with a huecuva, the illusion attacks it at +2 vs Will, and it sees through the illusion on a miss. Regardless, the huecuva's scent never changes—it always exudes a faint stench of grave dust and decay. Creatures with the scent ability receive a +4 bonus to Will Defense against this illusion. At night (regardless of whether the huecuva itself knows night has fallen) this illusion fades and reveals the creature for what it truly is. The attack bonus is Charisma-based.

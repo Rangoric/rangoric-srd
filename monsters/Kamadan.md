@@ -13,9 +13,9 @@ cmd: "22 (26 vs. trip)"
 attack: "Bite +12 melee (1d6+3) or claw +12 melee (1d3+3) or snakes +2 melee (1d4+1)"
 full-attack: "Bite +7 melee (1d6+3) and 2 claws +7 melee (1d3+3) and snakes +2 melee (1d4+1)"
 space-reach: "10 ft./5 ft. (10 ft. with snakes)"
-special-attacks: "Breath weapon (30-ft. cone, sleep, Fortitude DC 15 negates, usable every 1d4 rounds), pounce"
+special-attacks: "Breath weapon (30-ft. cone, sleep, +5 vs Fortitude, usable every 1d4 rounds), pounce"
 special-qualities: "Darkvision 60 ft., low-light vision, scent"
-saves: "Fort +7, Ref +6, Will +2"
+defenses: "Fort 17, Ref 16, Will 12"
 abilities: "Str 17, Dex 15, Con 16, Int 5, Wis 12, Cha 9"
 skills: "Acrobatics +6, Athletics +3 (+7 jumping), Perception +8, Stealth +6"
 skill-ranks: "Acrobatics 0, Athletics 0, Perception 4, Stealth 1"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +12 melee (1d6+3) or claw +12 melee (1d3+3) or snakes +2 melee (1d4+1)
 - **Full Attack**: Bite +7 melee (1d6+3) and 2 claws +7 melee (1d3+3) and snakes +2 melee (1d4+1)
 - **Space/Reach**: 10 ft./5 ft. (10 ft. with snakes)
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (30-ft. cone, sleep, Fortitude DC 15 negates, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Pounce|pounce]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (30-ft. cone, sleep, +5 vs Fortitude, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Pounce|pounce]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +7, Ref +6, Will +2
+- **Defenses**: Fort 17, Ref 16, Will 12
 - **Abilities**: Str 17, Dex 15, Con 16, Int 5, Wis 12, Cha 9
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +3 (+7 jumping), [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]]
@@ -69,7 +69,7 @@ Kamadans prefer underground lairs, but settle for rocky outcroppings or dens ins
 
 Though the above statistics represent the most common breed of kamadan, two rarer but more dangerous variants are detailed in brief below.
 
-**Dusk Kamadan (CR +1)**: A dusk kamadan has midnight black fur and snakes bearing black and red ring patterns on their bodies. A dusk kamadan has the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced creature template]], and its snakes have a poisonous bite. _Dusk Kamadan Snake Venom_: Snakes—injury; _save_ Fort DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con; _cure_ 2 consecutive saves.
+**Dusk Kamadan (CR +1)**: A dusk kamadan has midnight black fur and snakes bearing black and red ring patterns on their bodies. A dusk kamadan has the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced creature template]], and its snakes have a poisonous bite. _Dusk Kamadan Snake Venom_: Snakes—injury; _attack_ +7 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con; _cure_ 2 consecutive misses.
 
 **Polar Kamadan (CR +2)**: A polar kamadan has white fur with black spots like a snow leopard. Its snakes are furred as well. A polar kamadan has the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced creature template]] and batlike wings that grant it a fly speed of 60 ft. (average). The breath weapon of a polar kamadan is particularly cold—those who succumb to it also suffer 1d4 points of Dexterity damage from numbness.
 
@@ -77,6 +77,6 @@ Kamadans speak Aklo.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Breath Weapon|Breath Weapon]] (Su)**: A kamadan can exhale a cone of gas that makes living creatures fall asleep for 5 minutes (Fortitude DC 15 negates). Slapping or wounding awakens a creature put to sleep by this attack, but normal noise does not. This is a sleep effect. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Breath Weapon|Breath Weapon]] (Su)**: A kamadan can exhale a cone of gas that makes living creatures fall asleep for 5 minutes (+5 vs Fortitude). Slapping or wounding awakens a creature put to sleep by this attack, but normal noise does not. This is a sleep effect. The attack bonus is Constitution-based.
 
 **Snakes (Ex)**: A kamadan's snakes attack simultaneously; this is always a secondary attack.

@@ -16,7 +16,7 @@ full-attack: "2 arms +26 melee (2d6+10/19–20 plus grab) and 8 tentacles +24 me
 space-reach: "20 ft./20 ft. (60 ft. with arm, 40 ft. with tentacle)"
 special-attacks: "Constrict (tentacles, 1d8+10), ink cloud, rend ship, spell-like abilities"
 special-qualities: "Darkvision 120 ft., low-light vision, tenacious grapple, immunity to cold, mind-affecting effects and poison"
-saves: "Fort +21, Ref +12, Will +11"
+defenses: "Fort 31, Ref 22, Will 21"
 abilities: "Str 30, Dex 10, Con 29, Int 21, Wis 20, Cha 21"
 skills: "Athletics +41, Emulation +25, Intimidation +25, Nature +25, Perception +28, Society +25, Stealth +11"
 skill-ranks: "Athletics 28, Emulation 17, Intimidation 17, Nature 17, Perception 20, Society 17, Stealth 20"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 20 ft./20 ft. (60 ft. with arm, 40 ft. with tentacle)
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (tentacles, 1d8+10), ink cloud, [[rangoric-srd/monsters/abilities/Rend|rend]] ship, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], tenacious grapple, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, mind-affecting effects and poison
-- **Saves**: Fort +21, Ref +12, Will +11
+- **Defenses**: Fort 31, Ref 22, Will 21
 - **Abilities**: Str 30, Dex 10, Con 29, Int 21, Wis 20, Cha 21
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +41, [[rangoric-srd/skills/Emulation|Emulation]] +25, [[rangoric-srd/skills/Intimidation|Intimidation]] +25, [[rangoric-srd/skills/Nature|Nature]] +25, [[rangoric-srd/skills/Perception|Perception]] +28, [[rangoric-srd/skills/Society|Society]] +25, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (arm), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]]
@@ -75,11 +75,11 @@ Krakens speak Common and Aquan.
 
 Krakens strike their opponents with their barbed arms, then [[rangoric-srd/combat/Combat Maneuvers#Grapple|grab]] and crush with their tentacles or drag victims into their huge jaws. An opponent can make [[rangoric-srd/combat/Combat Maneuvers#Sunder|sunder]] attempts against a kraken’s arms or tentacles as if they were weapons. A kraken’s arms have 20 hit points, and its tentacles have 10 hit points. If a kraken is currently [[rangoric-srd/rules/conditions/Grappled (Condition)|grappling]] a target with one arm or tentacle, it usually uses another limb to make its attack of opportunity against the sunder attempt. Severing a kraken’s arm or tentacle deals damage to the kraken equal to half the limb’s full normal hit points. A kraken usually withdraws from combat if it loses both arms or three of its tentacles. A kraken regrows severed limbs in 1d10+10 days.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 15th): 1/day—_[[rangoric-srd/spells/Control Weather|control weather]], [[rangoric-srd/spells/Control Winds|control winds]], [[rangoric-srd/spells/Dominate Monster|dominate monster]]_ (DC 24, animal only), _[[rangoric-srd/spells/Resist Energy|resist energy]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 15th): 1/day—_[[rangoric-srd/spells/Control Weather|control weather]], [[rangoric-srd/spells/Control Winds|control winds]], [[rangoric-srd/spells/Dominate Monster|dominate monster]]_ (+14 vs Will, animal only), _[[rangoric-srd/spells/Resist Energy|resist energy]]_.
 
-**Ink Cloud (Ex)**: A kraken can emit a cloud of black, venomous ink in an 80-foot spread once per minute as a free action while underwater. This cloud provides total concealment, which the kraken can use to escape a fight that is going badly. Creatures within the cloud are considered to be in darkness. In addition, the ink is toxic, functioning as contact poison against all creatures caught within it ([[rangoric-srd/rules/afflictions/Kraken Ink Cloud|Kraken Ink Cloud]]: contact; _save_ Fort DC 29; _frequency_ 1/round for 10 rounds; _effect_ 1 Str damage plus [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nausea]]; _cure_ 2 consecutive saves). The ink cloud persists for 1 minute before dispersing. The save DC against the poison effect is Constitution-based.
+**Ink Cloud (Ex)**: A kraken can emit a cloud of black, venomous ink in an 80-foot spread once per minute as a free action while underwater. This cloud provides total concealment, which the kraken can use to escape a fight that is going badly. Creatures within the cloud are considered to be in darkness. In addition, the ink is toxic, functioning as contact poison against all creatures caught within it ([[rangoric-srd/rules/afflictions/Kraken Ink Cloud|Kraken Ink Cloud]]: contact; _attack_ +19 vs Fortitude; _frequency_ 1/round for 10 rounds; _effect_ 1 Str damage plus [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nausea]]; _cure_ 2 consecutive misses). The ink cloud persists for 1 minute before dispersing. The attack bonus against the poison effect is Constitution-based.
 
-_Kraken Ink Cloud_: contact; _save_ Fort DC 29; _frequency_ 1/round for 10 rounds; _effect_ 1 Str damage plus nausea; _cure_ 2 consecutive saves.
+_Kraken Ink Cloud_: contact; _attack_ +19 vs Fortitude; _frequency_ 1/round for 10 rounds; _effect_ 1 Str damage plus nausea; _cure_ 2 consecutive misses.
 
 **Jet (Ex)**: A kraken can jet backward as a full-round action, at a speed of 280 feet. It must move in a straight line, but does not provoke attacks of opportunity while jetting.
 

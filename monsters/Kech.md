@@ -15,7 +15,7 @@ full-attack: "Bite +5 melee (1d6+1) and 2 claws +5 melee (1d4+1); or longbow +6 
 space-reach: "5 ft./5 ft."
 special-attacks: "Rend (2 claws 1d4 +1), spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision"
-saves: "Fort +2, Ref +6, Will +5"
+defenses: "Fort 12, Ref 16, Will 15"
 abilities: "Str 13, Dex 15, Con 12, Int 10, Wis 12, Cha 11"
 skills: "Acrobatics +6, Athletics +16 (+20 jumping), Perception +10, Stealth +13 (+19 in forests and jungles)"
 skill-ranks: "Acrobatics 1, Athletics 12, Perception 4, Stealth 4"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws 1d4 +1), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-- **Saves**: Fort +2, Ref +6, Will +5
+- **Defenses**: Fort 12, Ref 16, Will 15
 - **Abilities**: Str 13, Dex 15, Con 12, Int 10, Wis 12, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +16 (+20 jumping), [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +13 (+19 in forests and jungles)
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]]

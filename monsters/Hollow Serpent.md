@@ -13,9 +13,9 @@ cmd: "43 (can't be tripped)"
 attack: "Bite +23 melee (4d10+10 plus grab)"
 full-attack: "2 bites +23 melee (4d10+10 plus grab)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Channel negative energy (8d6, DC 24, 9/day), constrict (4d10+10 plus energy drain), energy drain (1 level, DC 26), life-draining coils, spell-like abilities"
-special-qualities: "Darkvision 60 ft., lifesense, fast healing 10, desiccation aura (30 ft., DC 26), telepathy 100 ft., channel resistance +4, freedom of movement, swift strike, damage reduction 10/magic and silver, undead traits, spell resistance 27"
-saves: "Fort +14, Ref +17, Will +18"
+special-attacks: "Channel negative energy (8d6, +14 vs Will, 9/day), constrict (4d10+10 plus energy drain), energy drain (1 level, +16 vs Fortitude), life-draining coils, spell-like abilities"
+special-qualities: "Darkvision 60 ft., lifesense, fast healing 10, desiccation aura (30 ft., +16 vs Fortitude), telepathy 100 ft., channel resistance +4, freedom of movement, swift strike, damage reduction 10/magic and silver, undead traits, spell resistance 27"
+defenses: "Fort 24, Ref 27, Will 28"
 abilities: "Str 25, Dex 29, Con —, Int 6, Wis 19, Cha 22"
 skills: "Athletics +28, Escape Artist +19, Perception +17, Stealth +18"
 skill-ranks: "Athletics 18, Escape Artist 7, Perception 10, Stealth 10"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +23 melee (4d10+10 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Full Attack**: 2 bites +23 melee (4d10+10 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Space/Reach**: 10 ft./10 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Channel Negative Energy|Channel negative energy]] (8d6, DC 24, 9/day), constrict (4d10+10 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]), [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (1 level, DC 26), [[rangoric-srd/monsters/abilities/Life-Draining Coils|life-draining coils]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Lifesense|lifesense]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, [[rangoric-srd/monsters/abilities/Desiccation Aura|desiccation aura]] (30 ft., DC 26), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, freedom of movement, [[rangoric-srd/monsters/abilities/Swift Strike|swift strike]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic and silver, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27
-- **Saves**: Fort +14, Ref +17, Will +18
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Channel Negative Energy|Channel negative energy]] (8d6, +14 vs Will, 9/day), constrict (4d10+10 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]), [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (1 level, +16 vs Fortitude), [[rangoric-srd/monsters/abilities/Life-Draining Coils|life-draining coils]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Lifesense|lifesense]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, [[rangoric-srd/monsters/abilities/Desiccation Aura|desiccation aura]] (30 ft., +16 vs Fortitude), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, freedom of movement, [[rangoric-srd/monsters/abilities/Swift Strike|swift strike]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic and silver, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27
+- **Defenses**: Fort 24, Ref 27, Will 28
 - **Abilities**: Str 25, Dex 29, Con —, Int 6, Wis 19, Cha 22
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +28, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +19, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +18
 - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Channel Smite|Channel Smite]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -71,11 +71,11 @@ Hollow serpents speak Aklo.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 16th; concentration +22): Constant—_[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_; 1/day—_[[rangoric-srd/spells/Horrid Wilting|horrid wilting]]_ (DC 24), _[[rangoric-srd/spells/Waves of Exhaustion|waves of exhaustion]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 16th; concentration +22): Constant—_[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_; 1/day—_[[rangoric-srd/spells/Horrid Wilting|horrid wilting]]_ (+14 vs Fortitude), _[[rangoric-srd/spells/Waves of Exhaustion|waves of exhaustion]]_.
 
-**[[rangoric-srd/monsters/abilities/Channel Negative Energy|Channel Negative Energy]] (Su)**: As a standard action, a hollow serpent can channel negative energy in a 30-foot burst as a 16th-level evil cleric. This ability requires no divine focus. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Channel Negative Energy|Channel Negative Energy]] (Su)**: As a standard action, a hollow serpent can channel negative energy in a 30-foot burst as a 16th-level evil cleric. This ability requires no divine focus. The attack bonus is Charisma-based.
 
-**[[rangoric-srd/monsters/abilities/Desiccation Aura|Desiccation Aura]] (Su)**: A cloud of moisture-draining dust fills the air in a 30-foot radius around a hollow serpent. Living creatures within this area must make a DC 26 Fortitude save or take 1d6 points of Strength damage as water is leached from their flesh. Whether or not the save is successful, a creature cannot be affected again by the same hollow serpent's desiccation aura for 24 hours. Creatures without fleshy bodies are immune to this aura, while creatures with the aquatic or water subtypes take a –4 penalty on the saving throw. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Desiccation Aura|Desiccation Aura]] (Su)**: A cloud of moisture-draining dust fills the air in a 30-foot radius around a hollow serpent. The aura attacks living creatures within this area at +16 vs Fortitude, and those it hits take 1d6 points of Strength damage as water is leached from their flesh. Whether the attack hits or misses, a creature cannot be affected again by the same hollow serpent's desiccation aura for 24 hours. Creatures without fleshy bodies are immune to this aura, while creatures with the aquatic or water subtypes take a –4 penalty to their Fortitude Defense against it. The attack bonus is Charisma-based.
 
 **[[rangoric-srd/monsters/abilities/Life-Draining Coils|Life-Draining Coils]] (Su)**: A hollow serpent seethes with negative energy capable of sapping the life force of creatures trapped within its coils. Every time a creature takes constriction damage from a hollow serpent, it gains one negative level. The hollow serpent also gains 5 temporary hit points for each negative level it bestows.
 

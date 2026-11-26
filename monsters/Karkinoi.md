@@ -16,7 +16,7 @@ full-attack: "Claw +13 melee (1d10+9/19–20 plus grab) and slam +13 melee (1d6+
 space-reach: "10 ft./10 ft."
 special-attacks: "Constrict 1d10+6"
 special-qualities: "Darkvision 60 ft., water dependency"
-saves: "Fort +6, Ref +6, Will +6"
+defenses: "Fort 16, Ref 16, Will 16"
 abilities: "Str 22, Dex 10, Con 16, Int 6, Wis 10, Cha 7"
 skills: "Athletics +21, Intimidation +9, Perception +11"
 skill-ranks: "Athletics 12, Intimidation 8, Perception 8"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] 1d10+6
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Water Dependency|water dependency]]
-- **Saves**: Fort +6, Ref +6, Will +6
+- **Defenses**: Fort 16, Ref 16, Will 16
 - **Abilities**: Str 22, Dex 10, Con 16, Int 6, Wis 10, Cha 7
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +11
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]

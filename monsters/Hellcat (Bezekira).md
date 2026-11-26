@@ -16,7 +16,7 @@ full-attack: "Bite +13 melee (1d8+5) and 2 claws +13 melee (1d6+5/19–20 plus g
 space-reach: "10 ft./5 ft."
 special-attacks: "Pounce, rake (2 claws +13, 1d6+5/19-20)"
 special-qualities: "Darkvision 60 ft., scent, telepathy 100 ft., invisible in light, damage reduction 5/good, resistance to fire 10, spell resistance 18"
-saves: "Fort +10, Ref +13, Will +5"
+defenses: "Fort 20, Ref 23, Will 15"
 abilities: "Str 21, Dex 21, Con 19, Int 10, Wis 14, Cha 10"
 skills: "Acrobatics +17, Athletics +17 (+21 jumping), Fieldcraft +14, Perception +18, Stealth +17"
 skill-ranks: "Acrobatics 9, Athletics 9, Fieldcraft 9, Perception 9, Stealth 9"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +13, 1d6+5/19-20)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., invisible in light, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 18
-- **Saves**: Fort +10, Ref +13, Will +5
+- **Defenses**: Fort 20, Ref 23, Will 15
 - **Abilities**: Str 21, Dex 21, Con 19, Int 10, Wis 14, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Athletics|Athletics]] +17 (+21 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +17
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]]

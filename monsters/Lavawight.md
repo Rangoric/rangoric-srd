@@ -21,7 +21,7 @@ skills: "Athletics +56 (+68 jumping), Theology +35, Perception +41, Investigatio
 skill-ranks: "Athletics 32, Investigation 32, Perception 32, Theology 32"
 feats: "Cleave, Great Cleave, Great Fortitude, Improved Critical (claw), Improved Initiative, Power Attack, Weapon Focus (claw)"
 epic-feats: "Blinding Speed (x2), Epic Weapon Focus (claw), Overwhelming Critical (claw)"
-saves: "Fort +12, Ref +18, Will +24"
+defenses: "Fort 22, Ref 28, Will 34"
 abilities: "Str 52, Dex 27, Con -, Int 10, Wis 22, Cha 28"
 environment: "Any"
 organization: "Solitary or pair"
@@ -54,7 +54,7 @@ Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special 
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +56 (+68 jumping), [[rangoric-srd/skills/Investigation|Investigation]] +35, [[rangoric-srd/skills/Perception|Perception]] +41, [[rangoric-srd/skills/Theology|Theology]] +35     
 Feats: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)      
 Epic Feats: [[rangoric-srd/feats/Blinding Speed|Blinding Speed]] (x2), [[rangoric-srd/feats/Epic Weapon Focus|Epic Weapon Focus]] (claw), [[rangoric-srd/feats/Overwhelming Critical|Overwhelming Critical]] (claw)      
-Saves: Fort +12, Ref +18, Will +24      
+Defenses: Fort 22, Ref 28, Will 34      
 Abilities: Str 52, Dex 27, Con -, Int 10, Wis 22, Cha 28      
 Climate/Terrain: Any      
 Organization: Solitary or pair      
@@ -69,13 +69,13 @@ Lavawights speak Common and Infernal.
 
 Rend (Ex): If the lavawight hits with both of its claws, it latches onto the opponent’s body and tears the flesh. This attack automatically deals an additional 6d8+31 points of Damage.
 
-Blazefire (Su): Living creatures taking Damage from a lavawight’s attack find themselves ignited with blaze-fire; they must succeed at a Fortitude save (DC 35) or permanently lose 4 hit points. The DC is Charisma-based. The opponent must continue to save every round for the next 6 rounds (7 rounds total) to avoid being permanently drained of 4 more hit points each round. The lavawight heals the same amount of Damage whenever a creature is drained of hit points, gaining any excess as temporary hit points. These temporary hit points last a maximum of 1 hour. If an opponent is slain by blazefire, only blackened ash remains of the victim. Hit points lost to the blazefire never heal naturally and cannot be magically restored - they are gone for good.
+Blazefire (Su): Living creatures taking Damage from a lavawight’s attack find themselves ignited with blaze-fire; the blazefire attacks them at +25 vs Fortitude, and on a hit they permanently lose 4 hit points. The attack bonus is Charisma-based. It attacks the opponent again every round for the next 6 rounds (7 rounds total), and each hit permanently drains 4 more hit points. The lavawight heals the same amount of Damage whenever a creature is drained of hit points, gaining any excess as temporary hit points. These temporary hit points last a maximum of 1 hour. If an opponent is slain by blazefire, only blackened ash remains of the victim. Hit points lost to the blazefire never heal naturally and cannot be magically restored - they are gone for good.
 
-Spell-Like Abilities: Caster level 22nd; save DC 19 + spell level. The DC is Charisma-based.
+Spell-Like Abilities: Caster level 22nd; attack bonus +9 + spell level. The attack bonus is Charisma-based.
 
 At will - [[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Flame Arrow|flame arrow]], [[rangoric-srd/spells/Spell Immunity|spell immunity]] ([[rangoric-srd/spells/Sleet Storm|sleet storm]]), [[rangoric-srd/spells/Fireball|fireball]], [[rangoric-srd/spells/Wall of Fire|wall of fire]].
 
-Undead Traits: Immune to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death, effects, necromantic effects, mind-affecting effects, and any effect requiring a Fortitude save unless it also works on objects. Not subject to critical hits, subdual damage, ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]]. Negative energy heals. Not at risk of death from massive damage, but destroyed at 0 hit points or less. Darkvision 60 ft. Cannot be raised; resurrection works only if creature is willing.
+Undead Traits: Immune to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death, effects, necromantic effects, mind-affecting effects, and any effect that attacks Fortitude unless it also works on objects. Not subject to critical hits, subdual damage, ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]]. Negative energy heals. Not at risk of death from massive damage, but destroyed at 0 hit points or less. Darkvision 60 ft. Cannot be raised; resurrection works only if creature is willing.
 
 Heat Aura (Su): A 10-foot-radius spread heat aura surrounds a lavawight. All creatures of the fire subtype in the field (including the lavawight) are treated as if having [[rangoric-srd/monsters/abilities/Channel Resistance|turn resistance]] +6 (if undead) and [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10. Creatures subject to fire Damage take 2d10 points of fire Damage each round they remain within the heat aura.
 

@@ -16,7 +16,7 @@ full-attack: "Bite +4 melee (1d4+3) and tail slap –1 melee (1d4+1)"
 space-reach: "10 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, water dependency"
-saves: "Fort +5, Ref +2, Will +1"
+defenses: "Fort 15, Ref 12, Will 11"
 abilities: "Str 16, Dex 9, Con 15, Int 2, Wis 12, Cha 11"
 skills: "Athletics +11, Perception +6"
 skill-ranks: "Athletics 5, Perception 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Water Dependency|water dependency]]
-- **Saves**: Fort +5, Ref +2, Will +1
+- **Defenses**: Fort 15, Ref 12, Will 11
 - **Abilities**: Str 16, Dex 9, Con 15, Int 2, Wis 12, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +6
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]]

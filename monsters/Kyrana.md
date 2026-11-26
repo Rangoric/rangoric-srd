@@ -14,9 +14,9 @@ cmd: "19 (23 vs. trip)"
 attack: "Bite +8 melee (1d4+3) or claw +7 melee (1d3+3)"
 full-attack: "Bite +8 melee (1d4+3) and 2 claws +7 melee (1d3+3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Breath weapon (20-ft. line, 3d6 fire damage, Reflex DC 13 half, usable every 1d4 rounds)"
+special-attacks: "Breath weapon (20-ft. line, 3d6 fire damage, +3 vs Reflex; a miss halves, usable every 1d4 rounds)"
 special-qualities: "Darkvision 60 ft., low-light vision, fiery regeneration, immunity to fire, paralysis and sleep, dragon traits, vulnerable to cold"
-saves: "Fort +5, Ref +6, Will +3"
+defenses: "Fort 15, Ref 16, Will 13"
 abilities: "Str 16, Dex 15, Con 12, Int 3, Wis 9, Cha 6"
 skills: "Athletics +10, Perception +9"
 skill-ranks: "Athletics 4, Perception 7"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +8 melee (1d4+3) or claw +7 melee (1d3+3)
 - **Full Attack**: Bite +8 melee (1d4+3) and 2 claws +7 melee (1d3+3)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (20-ft. line, 3d6 fire damage, Reflex DC 13 half, usable every 1d4 rounds)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (20-ft. line, 3d6 fire damage, +3 vs Reflex; a miss halves, usable every 1d4 rounds)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fiery Regeneration|fiery regeneration]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, paralysis, and sleep, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|dragon traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
-- **Saves**: Fort +5, Ref +6, Will +3
+- **Defenses**: Fort 15, Ref 16, Will 13
 - **Abilities**: Str 16, Dex 15, Con 12, Int 3, Wis 9, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +9
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)

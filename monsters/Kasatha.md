@@ -14,9 +14,9 @@ cmd: "19"
 attack: "Sai +3 melee (1d4+1) or unarmed strike +3 melee (1d6+1) or flurry of blows +2 melee (1d6+1)"
 full-attack: "Sai +3 melee (1d4+1); or unarmed strike +3 melee (1d6+1); or flurry of blows +2/+2 melee (1d6+1)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Flurry of blows, stunning fist (1/day, DC 13)"
+special-attacks: "Flurry of blows, stunning fist (1/day, +3 vs Fortitude)"
 special-qualities: "Desert runner, desert stride, jumper, multi-armed, stalker"
-saves: "Fort +3, Ref +5, Will +5"
+defenses: "Fort 13, Ref 15, Will 15"
 abilities: "Str 13, Dex 17, Con 12, Int 10, Wis 16, Cha 8"
 skills: "Acrobatics +7, Athletics +5, Escape Artist +7, Fieldcraft +4"
 skill-ranks: "Acrobatics 1, Athletics 1, Escape Artist 1, Fieldcraft 1"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/weapons/Sai|Sai]] +3 melee (1d4+1) or [[rangoric-srd/equipment/weapons/Unarmed Strike|unarmed strike]] +3 melee (1d6+1) or flurry of blows +2 melee (1d6+1)
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Sai|Sai]] +3 melee (1d4+1); or [[rangoric-srd/equipment/weapons/Unarmed Strike|unarmed strike]] +3 melee (1d6+1); or flurry of blows +2/+2 melee (1d6+1)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: Flurry of blows, stunning fist (1/day, DC 13)
+- **Special Attacks**: Flurry of blows, stunning fist (1/day, +3 vs Fortitude)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Desert Runner|Desert runner]], [[rangoric-srd/monsters/abilities/Desert Stride|desert stride]], [[rangoric-srd/monsters/abilities/Jumper|jumper]], [[rangoric-srd/monsters/abilities/Multi-Armed|multi-armed]], [[rangoric-srd/monsters/abilities/Stalker|stalker]]
-- **Saves**: Fort +3, Ref +5, Will +5
+- **Defenses**: Fort 13, Ref 15, Will 15
 - **Abilities**: Str 13, Dex 17, Con 12, Int 10, Wis 16, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -86,7 +86,7 @@ Upon reaching adulthood, many kasathas leave their clans to search the world for
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Desert Runner|Desert Runner]] (Ex)**: A kasatha has a +4 racial bonus on Constitution checks and Fortitude saves to avoid fatigue, exhaustion, and other ill effects from running, forced marches, starvation, thirst, and hot or cold environments.
+**[[rangoric-srd/monsters/abilities/Desert Runner|Desert Runner]] (Ex)**: A kasatha has a +4 racial bonus on Constitution checks and to Fortitude Defense against fatigue, exhaustion, and other ill effects from running, forced marches, starvation, thirst, and hot or cold environments.
 
 **[[rangoric-srd/monsters/abilities/Desert Stride|Desert Stride]] (Ex)**: A kasatha moves through nonmagical difficult terrain in desert environments at normal speed.
 

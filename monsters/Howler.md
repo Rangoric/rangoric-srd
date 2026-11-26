@@ -16,7 +16,7 @@ full-attack: "Bite +8 melee (1d8+4) and quills +3 melee (1d4+2 plus pain)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Howl"
 special-qualities: "Darkvision 60 ft., quill defense"
-saves: "Fort +6, Ref +6, Will +3"
+defenses: "Fort 16, Ref 16, Will 13"
 abilities: "Str 18, Dex 15, Con 15, Int 6, Wis 14, Cha 11"
 skills: "Acrobatics +10, Athletics +12 (+24 jumping), Perception +13, Stealth +6"
 skill-ranks: "Acrobatics 5, Athletics 5, Perception 8, Stealth 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: Howl
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., quill defense
-- **Saves**: Fort +6, Ref +6, Will +3
+- **Defenses**: Fort 16, Ref 16, Will 13
 - **Abilities**: Str 18, Dex 15, Con 15, Int 6, Wis 14, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +12 (+24 jumping), [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -75,10 +75,10 @@ Howlers attack in groups, for they are cowardly and cruel. They prefer to [[rang
 
 Although intelligent, a howler requires training before it can bear a rider in combat. To be trained, a howler must have a friendly attitude toward the trainer (this can be achieved through a successful [[rangoric-srd/skills/Persuasion|Persuasion]] check). Training a friendly howler requires six weeks of work and a DC 25 [[rangoric-srd/skills/Animal Handling|Animal Handling]] check. Riding a howler requires an exotic saddle. A howler can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on an [[rangoric-srd/skills/Animal Handling|Animal Handling]] check.
 
-**Howl (Su)**: A howler's constant howling is a grating, exhausting baying that can drive listeners insane. All beings other than outsiders within 120 feet of a howling howler must succeed on a DC 12 Will save or become cursed by the creature's howl. Once a creature becomes cursed in this way, she takes no additional penalty for being exposed to additional howlers' howls until the current howler curse is lifted. This is a sonic mind-affecting effect. The save DC is Charisma-based.
+**Howl (Su)**: A howler's constant howling is a grating, exhausting baying that can drive listeners insane. All beings other than outsiders within 120 feet of a howling howler are attacked at +2 vs Will, and on a hit become cursed by the creature's howl. Once a creature becomes cursed in this way, she takes no additional penalty for being exposed to additional howlers' howls until the current howler curse is lifted. This is a sonic mind-affecting effect. The attack bonus is Charisma-based.
 
-[[rangoric-srd/rules/afflictions/Howler Howl|Howler Howl]]: Howl—curse; _save_ Fort DC 12 negates; _frequency_ 1/hour; _effect_ 1 Wis damage; _cure_ 1 save. The save DC is Charisma-based.
+[[rangoric-srd/rules/afflictions/Howler Howl|Howler Howl]]: Howl—curse; _attack_ +2 vs Fortitude negates; _frequency_ 1/hour; _effect_ 1 Wis damage; _cure_ 1 miss. The attack bonus is Charisma-based.
 
-**Pain (Ex)**: Whenever a creature takes damage from a howler's quill attack or its quill defense, that creature must make a DC 14 Reflex save or a quill breaks off in its flesh, causing the target to become [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] until the quill is removed. Removing one quill requires a DC 15 Medicine check made as a full-round action. For every 5 by which the check is exceeded, one additional quill can be removed. On a failed check, a quill is still removed, but the process deals 1d4+1 points of damage to the victim. The save DC is Dexterity-based.
+**Pain (Ex)**: Whenever a creature takes damage from a howler's quill attack or its quill defense, the quill attacks that creature at +4 vs Reflex, and on a hit breaks off in its flesh, causing the target to become [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] until the quill is removed. Removing one quill requires a DC 15 Medicine check made as a full-round action. For every 5 by which the check is exceeded, one additional quill can be removed. On a failed check, a quill is still removed, but the process deals 1d4+1 points of damage to the victim. The attack bonus is Dexterity-based.
 
 **Quill Defense (Ex)**: Any creature that strikes a howler with a non-reach melee weapon, unarmed strike, or natural weapon takes 1d4+1 points of piercing damage from the howler's quills and suffers from the howler's pain attack.

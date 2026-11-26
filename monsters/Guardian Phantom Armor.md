@@ -15,7 +15,7 @@ full-attack: "Masterwork longsword +5 melee (1d8+2/19–20); or 2 slams +4 melee
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., channel resistance +2, freeze (suit of armor), undead traits"
-saves: "Fort +1, Ref +2, Will +3"
+defenses: "Fort 11, Ref 12, Will 13"
 abilities: "Str 14, Dex 13, Con —, Int 7, Wis 11, Cha 10"
 skills: "Perception +6, Stealth +7"
 skill-ranks: "Perception 3, Stealth 3"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Freeze|freeze]] (suit of armor), [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +1, Ref +2, Will +3
+- **Defenses**: Fort 11, Ref 12, Will 13
 - **Abilities**: Str 14, Dex 13, Con —, Int 7, Wis 11, Cha 10
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]

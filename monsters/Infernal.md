@@ -19,7 +19,7 @@ skills: "Acrobatics +50, Athletics +59 (+79 jumping), Escape Artist +50, Arcana 
 skill-ranks: "Acrobatics 40, Arcana 40, Athletics 40, Escape Artist 40, Investigation 40, Mysticism 40, Perception 40, Persuasion 40, Sense Motive 40, Stealth 40, Theology 40"
 feats: "Cleave, Great Cleave, Improved Initiative, Power Attack, Improved Sunder, Skill Focus (Perception), Weapon Focus (claw)"
 epic-feats: "Blinding Speed (x2), Epic Toughness, Epic Weapon Focus (bite), Epic Weapon Focus (claw), Tenacious Magic (greater invisibility), Tenacious Magic (blur)"
-saves: "Fort +31, Ref +29, Will +30"
+defenses: "Fort 41, Ref 39, Will 40"
 abilities: "Str 43, Dex 25, Con 28, Int 22, Wis 26, Cha 29"
 environment: "Any"
 organization: "Solitary or hell brigade (1 infernal and 1d4 balors, or 1 infernal and 1d4 pit fiends)"
@@ -53,7 +53,7 @@ Skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +50, [[rangoric-srd/skills
 **Unspent Skill Points**: 160
 Feats: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)      
 Epic Feats: [[rangoric-srd/feats/Blinding Speed|Blinding Speed]] (x2), [[rangoric-srd/feats/Epic Toughness|Epic Toughness]], [[rangoric-srd/feats/Epic Weapon Focus|Epic Weapon Focus]] (bite), [[rangoric-srd/feats/Epic Weapon Focus|Epic Weapon Focus]] (claw), [[rangoric-srd/feats/Tenacious Magic|Tenacious Magic]] (greater invisibility), [[rangoric-srd/feats/Tenacious Magic|Tenacious Magic]] (blur)      
-Saves: Fort +31, Ref +29, Will +30      
+Defenses: Fort 41, Ref 39, Will 40      
 Abilities: Str 43, Dex 25, Con 28, Int 22, Wis 26, Cha 29      
 Climate/Terrain: Any      
 Organization: Solitary or hell brigade (1 infernal and 1d4 balors, or 1 infernal and 1d4 pit fiends)      
@@ -72,7 +72,7 @@ Spell Suck (Su): If an infernal bites a foe, the foe loses one of its highest-le
 
 Learned Spell Immunity (Su): If an infernal is affected by a spell cast by a particular spellcaster, the infernal thereafter becomes immune to that spell when cast by that spellcaster.
 
-Spell-Like Abilities: Caster level 26th; save DC 19 + spell level. The DCs are Charisma-based.
+Spell-Like Abilities: Caster level 26th; attack bonus +9 + spell level. The attack bonuses are Charisma-based.
 
 At will - [[rangoric-srd/spells/Animate Dead|animate dead]], [[rangoric-srd/spells/Blasphemy|blasphemy]], [[rangoric-srd/spells/Blur|blur]], [[rangoric-srd/spells/Charm Person|charm person]], [[rangoric-srd/spells/Create Undead|create undead]], [[rangoric-srd/spells/Darkness|darkness]], [[rangoric-srd/spells/Deeper Darkness|deeper darkness]], [[rangoric-srd/spells/Desecrate|desecrate]], [[rangoric-srd/spells/Detect Chaos|detect chaos]], [[rangoric-srd/spells/Detect Good|detect good]], [[rangoric-srd/spells/Detect Law|detect law]], [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Fear|fear]], [[rangoric-srd/spells/Fireball|fireball]], [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Hold Person|hold person]], [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]], [[rangoric-srd/spells/Magic Circle against Good|magic circle against good]], [[rangoric-srd/spells/Major Image|major image]], [[rangoric-srd/spells/Produce Flame|produce flame]], [[rangoric-srd/spells/Polymorph|polymorph]], [[rangoric-srd/spells/Pyrotechnics|pyrotechnics]], [[rangoric-srd/spells/Read Magic|read magic]], [[rangoric-srd/spells/Scrying|scrying]], [[rangoric-srd/spells/Suggestion|suggestion]], [[rangoric-srd/spells/Symbol of Death|symbol of death]], [[rangoric-srd/spells/Telekinesis|telekinesis]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]] (self plus 1,000 pounds), [[rangoric-srd/spells/Unholy Aura|unholy aura]], [[rangoric-srd/spells/Unholy Blight|unholy blight]], [[rangoric-srd/spells/Unhallow|unhallow]], [[rangoric-srd/spells/Wall of Fire|wall of fire]];
 

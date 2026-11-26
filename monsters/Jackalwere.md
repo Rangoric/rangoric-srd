@@ -16,7 +16,7 @@ full-attack: "Masterwork battleaxe +6 melee (1d8+2/×3) and bite +0 melee (1d6+1
 space-reach: "5 ft./5 ft."
 special-attacks: "Sleep gaze, weapon intuition"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, change shape (human, hybrid, and jackal; polymorph), jackal empathy, damage reduction 5/cold iron"
-saves: "Fort +5, Ref +6, Will +2"
+defenses: "Fort 15, Ref 16, Will 12"
 abilities: "Str 15, Dex 17, Con 15, Int 12, Wis 12, Cha 12"
 skills: "Acrobatics +7, Deception +6, Fieldcraft +6, Perception +8, Sense Motive +1, Stealth +7"
 skill-ranks: "Acrobatics 1, Deception 3, Fieldcraft 3, Perception 3, Sense Motive 2, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Sleep [[rangoric-srd/monsters/abilities/Gaze|gaze]], [[rangoric-srd/monsters/abilities/Weapon Intuition|weapon intuition]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (human, hybrid, and jackal; polymorph), [[rangoric-srd/monsters/abilities/Jackal Empathy|jackal empathy]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron
-- **Saves**: Fort +5, Ref +6, Will +2
+- **Defenses**: Fort 15, Ref 16, Will 12
 - **Abilities**: Str 15, Dex 17, Con 15, Int 12, Wis 12, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +1, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -74,6 +74,6 @@ Jackalweres speak Common.
 
 **[[rangoric-srd/monsters/abilities/Jackal Empathy|Jackal Empathy]] (Ex)**: A jackalwere can communicate and empathize with jackals (use stats for Small dog), and can use Deception as if it were Diplomacy to change a jackal's attitude, receiving a +4 racial bonus to do so.
 
-**Sleep (Su)**: Sleep for 3 minutes (a standard action rouses the creature, as does damage), 30 feet, Will DC 12 negates. A creature that succeeds at the saving throw cannot be affected by the same jackalwere's sleep gaze for 24 hours. This is a sleep effect. The save DC is Charisma-based.
+**Sleep (Su)**: Sleep for 3 minutes (a standard action rouses the creature, as does damage), 30 feet, +2 vs Will. A creature the gaze misses cannot be affected by the same jackalwere's sleep gaze for 24 hours. This is a sleep effect. The attack bonus is Charisma-based.
 
 **[[rangoric-srd/monsters/abilities/Weapon Intuition|Weapon Intuition]] (Ex)**: A jackalwere is proficient with simple and martial melee weapons.

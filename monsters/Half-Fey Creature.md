@@ -41,7 +41,7 @@ When fey venture into the mortal worlds in search of adventure, they sometimes b
 
 **Special Qualities**: A half-fey creature retains all of the base creature’s extraordinary, supernatural, and spell-like abilities, plus [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]. Half-fey are resistant to illusion and enchantment spells. This imparts them with a +1 racial bonus to resist spells and spell-like abilities of this nature, increasing by +1 for every four levels the half-fey attains.
 
-**Saves**: Same as the base creature.
+**Defenses**: Same as the base creature.
 
 **Abilities**: Increase from the base creature as follows: Str +2, Dex +6, Con +2, Int +2, Wis +2, Cha +6.
 
@@ -84,7 +84,7 @@ This example uses a [[rangoric-srd/monsters/goblin/Goblin|goblin]] as the base c
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Prestidigitation, spell-like abilities
 - **Special Qualities**: Low-light vision, half-fey traits
-- **Saves**: Fort +2, Ref +1, Will +0
+- **Defenses**: Fort 12, Ref 11, Will 10
 - **Abilities**: Str 10, Dex 19, Con 13, Int 12, Wis 13, Cha 14
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

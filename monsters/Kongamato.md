@@ -13,9 +13,9 @@ cmd: "45 (49 vs. trip)"
 attack: "Bite +28 melee (2d6+12) or claw +28 melee (1d8+12) or tail slap +31 melee (2d6+6) or wing +31 melee (1d8+6)"
 full-attack: "Bite +28 melee (2d6+12) and 2 claws +28 melee (1d8+12) and tail slap +26 melee (2d6+6) and 2 wings +26 melee (1d8+6)"
 space-reach: "15 ft./15 ft."
-special-attacks: "Wailing dive, breath weapon (50-ft. cone, 14d6 sonic damage, Reflex DC 27 for half, usable every 1d4 rounds)"
+special-attacks: "Wailing dive, breath weapon (50-ft. cone, 14d6 sonic damage, +17 vs Reflex; a miss halves, usable every 1d4 rounds)"
 special-qualities: "Darkvision 60 ft., low-light vision, compression, piercing beak, damage reduction 10/magic, immunity to magic paralysis and sleep, resistance to acid 10, cold 10, electricity 10 and fire 10, spell resistance 26"
-saves: "Fort +19, Ref +16, Will +13"
+defenses: "Fort 29, Ref 26, Will 23"
 abilities: "Str 34, Dex 17, Con 26, Int 9, Wis 14, Cha 17"
 skills: "Acrobatics +20, Athletics +19, Fieldcraft +20, Intimidation +16, Perception +23, Sense Motive +15, Stealth +13"
 skill-ranks: "Acrobatics 18, Athletics 4, Fieldcraft 15, Intimidation 10, Perception 18, Sense Motive 10, Stealth 15"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +28 melee (2d6+12) or claw +28 melee (1d8+12) or tail slap +31 melee (2d6+6) or wing +31 melee (1d8+6)
 - **Full Attack**: Bite +28 melee (2d6+12) and 2 claws +28 melee (1d8+12) and tail slap +26 melee (2d6+6) and 2 wings +26 melee (1d8+6)
 - **Space/Reach**: 15 ft./15 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Wailing Dive|Wailing dive]], [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]] (50-ft. cone, 14d6 sonic damage, Reflex DC 27 for half, usable every 1d4 rounds)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Wailing Dive|Wailing dive]], [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]] (50-ft. cone, 14d6 sonic damage, +17 vs Reflex; a miss halves, usable every 1d4 rounds)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Piercing Beak|piercing beak]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, immunity to magic [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 26
-- **Saves**: Fort +19, Ref +16, Will +13
+- **Defenses**: Fort 29, Ref 26, Will 23
 - **Abilities**: Str 34, Dex 17, Con 26, Int 9, Wis 14, Cha 17
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Snatch|Snatch]], [[rangoric-srd/feats/Wingover|Wingover]]

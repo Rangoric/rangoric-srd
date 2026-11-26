@@ -15,7 +15,7 @@ full-attack: "Bite +6 melee (1d6+3 plus grab) and 2 claws +6 melee (1d3+3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Pounce, rake (2 claws +6, 1d3+3)"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +5, Ref +7, Will +2"
+defenses: "Fort 15, Ref 17, Will 12"
 abilities: "Str 16, Dex 19, Con 15, Int 2, Wis 13, Cha 6"
 skills: "Acrobatics +8, Athletics +11, Perception +5, Stealth +11 (+15 in undergrowth)"
 skill-ranks: "Acrobatics 1, Athletics 5, Perception 1, Stealth 4"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +6, 1d3+3)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +5, Ref +7, Will +2
+- **Defenses**: Fort 15, Ref 17, Will 12
 - **Abilities**: Str 16, Dex 19, Con 15, Int 2, Wis 13, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +11 (+15 in undergrowth)
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

@@ -16,7 +16,7 @@ full-attack: "2 claws +5 melee (1d3+1 plus grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Grab (Medium), rake (2 claws +5, 1d3+1)"
 special-qualities: "Darkvision 60 ft., amphibious, resistance to acid 5 and cold 5, head bowl"
-saves: "Fort +4, Ref +6, Will +5"
+defenses: "Fort 14, Ref 16, Will 15"
 abilities: "Str 12, Dex 17, Con 13, Int 8, Wis 15, Cha 10"
 skills: "Athletics +9, Escape Artist +10, Medicine +5, Sense Motive +5"
 skill-ranks: "Athletics 5, Escape Artist 3, Medicine 3, Sense Motive 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Grab]] (Medium), [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +5, 1d3+1)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5 and cold 5, [[rangoric-srd/monsters/abilities/Head Bowl|head bowl]]
-- **Saves**: Fort +4, Ref +6, Will +5
+- **Defenses**: Fort 14, Ref 16, Will 15
 - **Abilities**: Str 12, Dex 17, Con 13, Int 8, Wis 15, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Medicine|Medicine]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]]

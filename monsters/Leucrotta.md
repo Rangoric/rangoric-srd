@@ -15,7 +15,7 @@ full-attack: "Bite +10 melee (2d6+7/19–20) and 2 hooves +5 melee (1d6+2)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Lure, powerful bite"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, sound mimicry (voices), immunity to disease and poison"
-saves: "Fort +9, Ref +6, Will +4"
+defenses: "Fort 19, Ref 16, Will 14"
 abilities: "Str 21, Dex 12, Con 18, Int 11, Wis 14, Cha 17"
 skills: "Athletics +13, Deception +12, Stealth +9"
 skill-ranks: "Athletics 5, Deception 6, Stealth 9"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Lure|Lure]], [[rangoric-srd/monsters/abilities/Powerful Bite|powerful bite]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Sound Mimicry|sound mimicry]] (voices), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and poison
-- **Saves**: Fort +9, Ref +6, Will +4
+- **Defenses**: Fort 19, Ref 16, Will 14
 - **Abilities**: Str 21, Dex 12, Con 18, Int 11, Wis 14, Cha 17
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
@@ -75,6 +75,6 @@ Leucrottas speak Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Lure|Lure]] (Su)**: At any point that a leucrotta's targets are unaware of it (for example, if the leucrotta is hiding or concealed in darkness), the leucrotta can call out to the targets, who must be in line of sight and within 60 feet. When the leucrotta calls out, the targets must make a DC 16 Will save or fall under the effects of a suggestion to approach the sound of the leucrotta's voice. This effect functions identically to a mass suggestion spell with a caster level equal to the leucrotta's Hit Dice. A creature that saves cannot be affected again by the same leucrotta's lure for 24 hours. The lure is a language-dependent effect, and if the leucrotta uses the victim's name during the lure, the victim takes a –4 penalty on its saving throw. This is a sonic mind-affecting charm effect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Lure|Lure]] (Su)**: At any point that a leucrotta's targets are unaware of it (for example, if the leucrotta is hiding or concealed in darkness), the leucrotta can call out to the targets, who must be in line of sight and within 60 feet. When the leucrotta calls out, the lure attacks the targets at +6 vs Will, and those it hits fall under the effects of a suggestion to approach the sound of the leucrotta's voice. This effect functions identically to a mass suggestion spell with a caster level equal to the leucrotta's Hit Dice. A creature the lure misses cannot be affected again by the same leucrotta's lure for 24 hours. The lure is a language-dependent effect, and if the leucrotta uses the victim's name during the lure, the victim takes a –4 penalty to its Will Defense against it. This is a sonic mind-affecting charm effect. The attack bonus is Charisma-based.
 
 **[[rangoric-srd/monsters/abilities/Powerful Bite|Powerful Bite]] (Ex)**: A leucrotta's bite attack always applies 1-1/2 times its Strength modifier on damage rolls and threatens a critical hit on a roll of 19–20. When a leucrotta bites an object, its bite treats the object as having a hardness of 5 less than the object's actual hardness rating.

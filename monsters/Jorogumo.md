@@ -16,7 +16,7 @@ full-attack: "Bite +20 melee (1d4+6/19–20 plus poison) and 2 claws +20 melee (
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +3d6, web (+18 ranged, DC 23, 14 hp), poison, spell-like abilities"
 special-qualities: "Darkvision 60 ft., change shape (giant spider; vermin shape I), spider empathy +21, swift shapechanger, damage reduction 10/cold iron and magic, immunity to poison"
-saves: "Fort +10, Ref +13, Will +14"
+defenses: "Fort 20, Ref 23, Will 24"
 abilities: "Str 22, Dex 19, Con 22, Int 15, Wis 17, Cha 24"
 skills: "Acrobatics +14, Athletics +29 (+37 with spider legs), Deception +19, Perception +18, Perform (string) +10, Persuasion +18, Sense Motive +15, Stealth +19"
 skill-ranks: "Acrobatics 7, Athletics 20, Deception 9, Perception 12, Perform (string) 5, Persuasion 8, Sense Motive 9, Stealth 12"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Sneak attack +3d6, [[rangoric-srd/monsters/abilities/Web|web]] (+18 ranged, DC 23, 14 hp), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (giant spider; vermin shape I), [[rangoric-srd/monsters/abilities/Spider Empathy|spider empathy]] +21, [[rangoric-srd/monsters/abilities/Swift Shapechanger|swift shapechanger]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron and magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison
-- **Saves**: Fort +10, Ref +13, Will +14
+- **Defenses**: Fort 20, Ref 23, Will 24
 - **Abilities**: Str 22, Dex 19, Con 22, Int 15, Wis 17, Cha 24
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +29 (+37 with spider legs), [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Perception|Perception]] +18, Perform (string) +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +19
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Spring Attack|Spring Attack]]
@@ -68,9 +68,9 @@ Jorogumos speak Aklo, Common and Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +19): At will—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 18), _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 19); 3/day—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (DC 21), _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 20); 1/day—_[[rangoric-srd/spells/Hold Monster|hold monster]]_ (DC 22), _[[rangoric-srd/spells/Summon Nature’s Ally V|summon nature's ally V]]_ (1 ogre spider or 1d3 giant black widow spiders or 1d4+1 giant spiders).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +19): At will—_[[rangoric-srd/spells/Charm Person|charm person]]_ (+8 vs Will), _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (+9 vs Will); 3/day—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (+11 vs Will), _[[rangoric-srd/spells/Suggestion|suggestion]]_ (+10 vs Will); 1/day—_[[rangoric-srd/spells/Hold Monster|hold monster]]_ (+12 vs Will), _[[rangoric-srd/spells/Summon Nature’s Ally V|summon nature's ally V]]_ (1 ogre spider or 1d3 giant black widow spiders or 1d4+1 giant spiders).
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Jorogumo Venom|Jorogumo Venom]]: Bite—injury; _save_ Fort DC 23; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Wis damage; _cure_ 3 saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Jorogumo Venom|Jorogumo Venom]]: Bite—injury; _attack_ +13 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Wis damage; _cure_ 3 misses.
 
 **[[rangoric-srd/monsters/abilities/Spider Empathy|Spider Empathy]] (Ex)**: This ability functions as a druid's wild empathy, save that it works only on spiders. A jorogumo uses her Hit Dice (normally 14) as her effective druid level. Spiders are normally mindless, but this empathic communication imparts upon them a modicum of implanted intelligence, allowing the jorogumo to train them and use them as guardians (though it does not grant them skills or feats).
 

@@ -68,7 +68,7 @@ _See in Darkness (Ex)_: The high fey creature gains the darkvision ability to a 
 
 _Spell Resistance (Ex)_: The high fey creature has [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 12.
 
-**Saves**: Each of the base creature’s saves increases by +2.
+**Defenses**: Each of the base creature’s defenses increases by +2.
 
 **Abilities**: Increase from the base creature as follows: Str +2, Dex +10, Con +2, Int +4, Wis +6, Cha +10.
 
@@ -105,7 +105,7 @@ This example uses a [[rangoric-srd/monsters/Pegasus|pegasus]] as the base creatu
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: Bad luck of the fey, charming presence
 - **Special Qualities**: Scent, spell-like abilities
-- **Saves**: Fort +9, Ref +8, Will +6
+- **Defenses**: Fort 19, Ref 18, Will 16
 - **Abilities**: Str 20, Dex 25, Con 18, Int 14, Wis 19, Cha 23
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11
 - **Feats**: [[rangoric-srd/feats/Blood of the Fey|Blood of the Fey]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Iron Will|Iron Will]]

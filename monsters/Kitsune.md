@@ -16,7 +16,7 @@ full-attack: "Bite –1 melee (1d4–1) and masterwork quarterstaff –5 melee (
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, bloodline arcana (+2 DC for compulsion spells), change shape, kitsune magic"
-saves: "Fort –1, Ref +2, Will +4"
+defenses: "Fort 9, Ref 12, Will 14"
 abilities: "Str 8, Dex 15, Con 8, Int 12, Wis 14, Cha 17"
 skills: "Acrobatics +4, Deception +7, Mysticism +5, Perception +3, Stealth +3"
 skill-ranks: "Acrobatics 0, Deception 1, Mysticism 1, Perception 1, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], bloodline arcana (+2 DC for compulsion spells), [[rangoric-srd/monsters/abilities/Change Shape|change shape]], kitsune magic
-- **Saves**: Fort –1, Ref +2, Will +4
+- **Defenses**: Fort 9, Ref 12, Will 14
 - **Abilities**: Str 8, Dex 15, Con 8, Int 12, Wis 14, Cha 17
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +5, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +3
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]]
@@ -72,11 +72,11 @@ Kitsunes speak Common, Elven and Sylvan.
 
 ### Combat
 
-**Sorcerer spells known** (CL 1st; concentration +4): 1st (4/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 15), _[[rangoric-srd/spells/Sleep|sleep]]_(DC 17); 0 (at will)—_[[rangoric-srd/spells/Daze|daze]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Fey Bloodline|fey]].
+**Sorcerer spells known** (CL 1st; concentration +4): 1st (4/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (+5 vs Will), _[[rangoric-srd/spells/Sleep|sleep]]_(+7 vs Will); 0 (at will)—_[[rangoric-srd/spells/Daze|daze]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Fey Bloodline|fey]].
 
 **[[rangoric-srd/monsters/abilities/Change Shape|Change Shape]] (Su)**: A kitsune can assume the appearance of a specific single human form of the same sex. The kitsune always takes this specific form when she uses this ability. A kitsune in human form cannot use her bite attack, but gains a +10 racial bonus on Imitation checks made to appear human. This ability otherwise functions as alter self, except that the kitsune does not adjust her ability scores.
 
-**Kitsune Magic (Ex/Sp)**: Kitsune add 1 to the DC of any saving throws of enchantment spells they cast. Kitsune with a Charisma score of 11 or higher gain the following spell-like ability: 3/day—dancing lights.
+**Kitsune Magic (Ex/Sp)**: Kitsune add 1 to the attack bonus of enchantment spells they cast. Kitsune with a Charisma score of 11 or higher gain the following spell-like ability: 3/day—dancing lights.
 
 ### Kitsune as Characters
 

@@ -13,9 +13,9 @@ cmd: "42 (can't be tripped)"
 attack: "Slam +24 melee (4d6+19 plus wounding)"
 full-attack: "Slam +24 melee (4d6+19 plus wounding)"
 space-reach: "20 ft./5 ft."
-special-attacks: "Soul-powered, vicious trample (8d6+38 plus wounding, DC 30), spell-like abilities"
+special-attacks: "Soul-powered, vicious trample (8d6+38 plus wounding, +20 vs Reflex), spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, fast healing 5, keyed domains (Death, War), shrine, damage reduction 10/adamantine, construct traits, spell resistance 22, faith-bound"
-saves: "Fort +5, Ref +5, Will +9"
+defenses: "Fort 15, Ref 15, Will 19"
 abilities: "Str 36, Dex 11, Con —, Int —, Wis 18, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +24 melee (4d6+19 plus wounding)
 - **Full Attack**: Slam +24 melee (4d6+19 plus wounding)
 - **Space/Reach**: 20 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Soul-Powered|Soul-powered]], [[rangoric-srd/monsters/abilities/Vicious Trample|vicious trample]] (8d6+38 plus wounding, DC 30), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Soul-Powered|Soul-powered]], [[rangoric-srd/monsters/abilities/Vicious Trample|vicious trample]] (8d6+38 plus wounding, +20 vs Reflex), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, keyed domains (Death, War), [[rangoric-srd/monsters/abilities/Shrine|shrine]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 22, faith-bound
-- **Saves**: Fort +5, Ref +5, Will +9
+- **Defenses**: Fort 15, Ref 15, Will 19
 - **Abilities**: Str 36, Dex 11, Con —, Int —, Wis 18, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -63,7 +63,7 @@ tags: [rangoric, rangoric/monster]
 
 Juggernauts protect locations dedicated to a particular faith, their massive forms infused with divine energy that animates them and infuses them with their deity's power. Some faiths use a juggernaut as a mobile shrine, anointing it with sacred materials and offering prayers to the divine.
 
-A juggernaut gain special abilities from two domains granted by the deity to which the juggernaut is dedicated. If an ability requires a saving throw, the save DC is Wisdom-based (DC 19 for most juggernauts). The caster level is equal to the juggernaut's Hit Dice (CL 15th for most juggernauts).
+A juggernaut gain special abilities from two domains granted by the deity to which the juggernaut is dedicated. If an ability attacks a defense, the attack bonus is Wisdom-based (+9 for most juggernauts). The caster level is equal to the juggernaut's Hit Dice (CL 15th for most juggernauts).
 
 The sample juggernaut is keyed to the domains of Death and War—a juggernaut dedicated to some other deity has abilities based on that deity's domains.
 
@@ -89,7 +89,7 @@ The sample juggernaut is keyed to the domains of Death and War—a juggernaut de
 
 **[[rangoric-srd/class-options/domains/Charm Domain|Charm]] (Sp)**: _Friendship_ —The juggernaut can cast _[[rangoric-srd/spells/Charm Monster|charm monster]]_ three times per day. A charmed creature follows the juggernaut and attacks what it attacks.
 
-**[[rangoric-srd/class-options/domains/Community Domain|Community]] (Su)**: _Powerful Allies_ —All creatures within 60 feet of the juggernaut that share the juggernaut's alignment gain a +1 sacred bonus on attack rolls and to AC, and a +2 sacred bonus on saving throws (these are profane bonuses if the juggernaut is evil).
+**[[rangoric-srd/class-options/domains/Community Domain|Community]] (Su)**: _Powerful Allies_ —All creatures within 60 feet of the juggernaut that share the juggernaut's alignment gain a +1 sacred bonus on attack rolls and to AC, and a +2 sacred bonus on defenses (these are profane bonuses if the juggernaut is evil).
 
 **[[rangoric-srd/class-options/domains/Darkness Domain|Darkness]] (Sp)**: _[[rangoric-srd/spells/Deeper Darkness|Deeper Darkness]]_—The juggernaut can cast _[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_ three times per day.
 
@@ -103,13 +103,13 @@ The sample juggernaut is keyed to the domains of Death and War—a juggernaut de
 
 **[[rangoric-srd/class-options/domains/Fire Domain|Fire]] (Su)**: _Flaming Burst_—The juggernaut's slam attack gains the _[[rangoric-srd/magic-items/weapon-abilities/Flaming Burst|flaming burst]]_ weapon special ability. Its vicious trample attack deals an additional 1d6 points of fire damage.
 
-**[[rangoric-srd/class-options/domains/Glory Domain|Glory]] (Su)**: _Grandeur_ —The juggernaut inspires all allies within 30 feet, granting them a +2 morale bonus on attack rolls, saving throws, and skill checks.
+**[[rangoric-srd/class-options/domains/Glory Domain|Glory]] (Su)**: _Grandeur_ —The juggernaut inspires all allies within 30 feet, granting them a +2 morale bonus on attack rolls, defenses, and skill checks.
 
 **[[rangoric-srd/class-options/domains/Good Domain|Good]] (Su)**: _Good Attacks_ —The juggernaut's slam and vicious trample attacks are treated as good-aligned. Its vicious trample deals an additional 2d6 points of damage to evil targets.
 
 **[[rangoric-srd/class-options/domains/Healing Domain|Healing]] (Su)**: _Resurgence_ —Five times per day, the juggernaut can remove the [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]], [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]], [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]], [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]], or [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] condition from an ally within 30 feet.
 
-**[[rangoric-srd/class-options/domains/Knowledge Domain|Knowledge]] (Su)**: _Absorb Thoughts_ —When the juggernaut confirms a critical hit with its slam, the target must succeed at a Will save or take 1d8 points of Intelligence damage.
+**[[rangoric-srd/class-options/domains/Knowledge Domain|Knowledge]] (Su)**: _Absorb Thoughts_ —When the juggernaut confirms a critical hit with its slam, the ability attacks the target's Will, and on a hit the target takes 1d8 points of Intelligence damage.
 
 **[[rangoric-srd/class-options/domains/Law Domain|Law]] (Su)**: _Lawful Attacks_ —The juggernaut's slam and vicious trample are treated as lawful-aligned. Its vicious trample deals an additional 2d6 points of damage to chaotic targets.
 
@@ -125,7 +125,7 @@ The sample juggernaut is keyed to the domains of Death and War—a juggernaut de
 
 **[[rangoric-srd/class-options/domains/Plant Domain|Plant]] (Sp)**: _Hedge_ —The juggernaut can cast _[[rangoric-srd/spells/Wall of Thorns|wall of thorns]]_ three times per day.
 
-**[[rangoric-srd/class-options/domains/Protection Domain|Protection]] (Su)**: _Guardian_—The juggernaut and all allies within 30 feet gain a +2 bonus on all saving throws and a +2 deflection bonus to AC.
+**[[rangoric-srd/class-options/domains/Protection Domain|Protection]] (Su)**: _Guardian_—The juggernaut and all allies within 30 feet gain a +2 bonus on all defenses and a +2 deflection bonus to AC.
 
 **[[rangoric-srd/class-options/domains/Repose Domain|Repose]] (Su)**: _[[rangoric-srd/spells/Rest Eternal|Rest Eternal]]_—Damage dealt by the juggernaut resists magical healing. Attempting to use such healing to cure this damage requires a successful caster level check against a DC = 11 + the juggernaut's caster level. This ability does not affect natural healing or healing provided by extraordinary abilities.
 

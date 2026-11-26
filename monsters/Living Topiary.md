@@ -15,7 +15,7 @@ full-attack: "2 slams +6 melee (1d6+4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision, assimilate, move through hedges, sculpt shape, damage reduction 5/slashing, plant traits, vulnerable to fire"
-saves: "Fort +10, Ref +3, Will +1"
+defenses: "Fort 20, Ref 13, Will 11"
 abilities: "Str 17, Dex 14, Con 19, Int 6, Wis 10, Cha 9"
 skills: "Escape Artist +10, Perception +6, Stealth +9 (+15 in undergrowth)"
 skill-ranks: "Escape Artist 0, Perception 3, Stealth 2"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Assimilate|assimilate]], [[rangoric-srd/monsters/abilities/Move through Hedges|move through hedges]], [[rangoric-srd/monsters/abilities/Sculpt Shape|sculpt shape]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], vulnerable to fire
-- **Saves**: Fort +10, Ref +3, Will +1
+- **Defenses**: Fort 20, Ref 13, Will 11
 - **Abilities**: Str 17, Dex 14, Con 19, Int 6, Wis 10, Cha 9
 - **Skills**: [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +9 (+15 in undergrowth)
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]

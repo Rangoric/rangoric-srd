@@ -15,7 +15,7 @@ full-attack: "2 slams +44 (3d6+18/19-20 (+1d6 on critical hit) plus hunefer rot)
 space-reach: "5 ft./5 ft."
 special-attacks: "Despair, hunefer rot, spell-like abilities"
 special-qualities: "Blindsight 300 ft., DR 10/-, fast healing 30, SR 37, undead traits, fire vulnerability"
-saves: "Fort +18, Ref +30, Will +41"
+defenses: "Fort 28, Ref 40, Will 51"
 abilities: "Str 47, Dex 35, Con -, Int 18, Wis 38, Cha 36"
 skills: "Athletics +71 (+99 jumping), Mysticism +57, Theology +57, Perception +67, Investigation +57, Sense Motive +67"
 skill-ranks: "Athletics 50, Investigation 50, Mysticism 50, Perception 50, Sense Motive 50, Theology 50"
@@ -49,7 +49,7 @@ Full Attack: 2 slams +44 (3d6+18/19-20 (+1d6 on critical hit) plus hunefer rot)�
 Space/Reach: 5 ft./5 ft.      
 Special Attacks: Despair, hunefer rot, spell-like abilities      
 Special Qualities: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 300 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/-, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 30, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 37, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|fire vulnerability]]      
-Saves: Fort +18, Ref +30, Will +41      
+Defenses: Fort 28, Ref 40, Will 51      
 Abilities: Str 47, Dex 35, Con -, Int 18, Wis 38, Cha 36      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +71 (+99 jumping), [[rangoric-srd/skills/Investigation|Investigation]] +57, [[rangoric-srd/skills/Mysticism|Mysticism]] +57, [[rangoric-srd/skills/Perception|Perception]] +67, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +67, [[rangoric-srd/skills/Theology|Theology]] +57     
 **Unspent Skill Points**: 150
@@ -66,14 +66,14 @@ Hunefers speak all spoken languages, though it takes one 1d4 rounds to switch be
 
 #### Combat
 
-Despair (Su): The mere sight of a hunefer requires viewers to succeed at a Will saving throw (DC 48) or be paralyzed with [[rangoric-srd/spells/Fear|fear]] for 1d4 rounds. Regardless of the outcome of the save, a subject is not again vulnerable to that hunefer’s despair ability for 24 hours. The DC is Charisma-based.
+Despair (Su): The mere sight of a hunefer attacks viewers at +38 vs Will, and those it hits are paralyzed with [[rangoric-srd/spells/Fear|fear]] for 1d4 rounds. Whether the attack hits or misses, a subject is not again vulnerable to that hunefer’s despair ability for 24 hours. The attack bonus is Charisma-based.
 
-Hunefer Rot (Su): Supernatural disease-slam, Fort save (DC 35), incubation period instantaneous; Damage 1d6 temporary Con. Unlike normal diseases, hunefer rot requires a victim to make a successful saving throw every round or take another 1d6 points of temporary Constitution Damage. The rot continues until the victim reaches Constitution 0 (and dies) or receives a [[rangoric-srd/spells/Remove Disease|remove disease]] spell or similar magic. An afflicted creature that dies shrivels away into sand unless both remove disease and [[rangoric-srd/spells/Raise Dead|raise dead]] (or better) are cast on the remains within 2 rounds. If the remains are not so treated, on the third round the dust swirls and forms an 18 HD mummy with the dead foe’s equipment under the hunefer’s command. (The [[rangoric-srd/spells/Mummy Dust|mummy dust]] epic spell has statistics for an 18 HD mummy.)
+Hunefer Rot (Su): Supernatural disease-slam, +25 vs Fortitude, incubation period instantaneous; Damage 1d6 temporary Con. Unlike normal diseases, hunefer rot attacks a victim's Fortitude every round, and on a hit the victim takes another 1d6 points of temporary Constitution Damage. The rot continues until the victim reaches Constitution 0 (and dies) or receives a [[rangoric-srd/spells/Remove Disease|remove disease]] spell or similar magic. An afflicted creature that dies shrivels away into sand unless both remove disease and [[rangoric-srd/spells/Raise Dead|raise dead]] (or better) are cast on the remains within 2 rounds. If the remains are not so treated, on the third round the dust swirls and forms an 18 HD mummy with the dead foe’s equipment under the hunefer’s command. (The [[rangoric-srd/spells/Mummy Dust|mummy dust]] epic spell has statistics for an 18 HD mummy.)
 
-Spell-Like Abilities: Caster level 27th; save DC 23 + spell level. The DC is Charisma-based.
+Spell-Like Abilities: Caster level 27th; attack bonus +13 + spell level. The attack bonus is Charisma-based.
 
 At will - [[rangoric-srd/spells/Chain Lightning|chain lightning]], [[rangoric-srd/spells/Displacement|displacement]], [[rangoric-srd/spells/Haste|haste]], [[rangoric-srd/spells/Knock|knock]], [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Passwall|passwall]], [[rangoric-srd/spells/Scrying|scrying]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]], [[rangoric-srd/spells/True Seeing|true seeing]], [[rangoric-srd/spells/Unholy Aura|unholy aura]], [[rangoric-srd/spells/Weird|weird]];
 
 1/day - [[rangoric-srd/spells/Ruin|ruin]] (epic spell).
 
-Undead Traits: Immune to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death, effects, necromantic effects, mind-affecting effects, and any effect requiring a Fortitude save unless it also works on objects. Not subject to critical hits, subdual damage, ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]]. Negative energy heals. Not at risk of death from massive damage, but destroyed at 0 hit points or less. Darkvision 60 ft. Cannot be raised; resurrection works only if creature is willing.
+Undead Traits: Immune to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death, effects, necromantic effects, mind-affecting effects, and any effect that attacks Fortitude unless it also works on objects. Not subject to critical hits, subdual damage, ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]]. Negative energy heals. Not at risk of death from massive damage, but destroyed at 0 hit points or less. Darkvision 60 ft. Cannot be raised; resurrection works only if creature is willing.

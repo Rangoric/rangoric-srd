@@ -15,7 +15,7 @@ full-attack: "Stinger +3 melee (1d4+1 plus poison)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Poison, seed"
 special-qualities: "Low-light vision, plant traits"
-saves: "Fort +6, Ref +3, Will +1"
+defenses: "Fort 16, Ref 13, Will 11"
 abilities: "Str 12, Dex 16, Con 17, Int 1, Wis 13, Cha 4"
 skills: "Acrobatics +9, Perception +5"
 skill-ranks: "Acrobatics 1, Perception 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Seed|seed]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-- **Saves**: Fort +6, Ref +3, Will +1
+- **Defenses**: Fort 16, Ref 13, Will 11
 - **Abilities**: Str 12, Dex 16, Con 17, Int 1, Wis 13, Cha 4
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Perception|Perception]] +5
 - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]]
@@ -73,6 +73,6 @@ Leaf rays change color in depending on the season, but they do not die off durin
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Sting—injury; _save_ Fort DC 14; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Dex; _cure_ 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Sting—injury; _attack_ +4 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Dex; _cure_ 1 miss.
 
-**[[rangoric-srd/monsters/abilities/Seed|Seed]] (Ex)**: Once per day, a leaf ray can implant a seed into a [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] target with its stinger. As a full-round action, the leaf ray stings its victim, depositing a seed into the victim's flesh. This process deals 1 hit point of damage to the victim, but the implanted creature isn't subject to the leaf ray's poison in this process. The seed germinates inside the victim, making it [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] while it harbors the leaf ray seed, and dealing 1d2 points of Constitution damage to the victim each day the seed grows within. This damage is negated with a successful DC 14 Fortitude save. The seed feeds off the victim's body and only grows into a new leaf ray tree when the victim dies from Constitution damage. Removing an implanted seed requires a successful DC 20 Medicine check (a full-round action); each attempt deals 1 hit point of damage. Although immunity to disease offers no special protection against a leaf ray seed's implantation, remove disease, heal, or similar effects automatically destroy any implanted seeds.
+**[[rangoric-srd/monsters/abilities/Seed|Seed]] (Ex)**: Once per day, a leaf ray can implant a seed into a [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] target with its stinger. As a full-round action, the leaf ray stings its victim, depositing a seed into the victim's flesh. This process deals 1 hit point of damage to the victim, but the implanted creature isn't subject to the leaf ray's poison in this process. The seed germinates inside the victim, making it [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] while it harbors the leaf ray seed, and dealing 1d2 points of Constitution damage to the victim each day the seed grows within. It attacks at +4 vs Fortitude, and a miss negates this damage. The seed feeds off the victim's body and only grows into a new leaf ray tree when the victim dies from Constitution damage. Removing an implanted seed requires a successful DC 20 Medicine check (a full-round action); each attempt deals 1 hit point of damage. Although immunity to disease offers no special protection against a leaf ray seed's implantation, remove disease, heal, or similar effects automatically destroy any implanted seeds.
