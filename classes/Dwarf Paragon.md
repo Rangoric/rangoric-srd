@@ -51,7 +51,7 @@ Dwarf paragons, like other members of their race, consider the building of trust
 | Level | Special                                                                                                                |
 | ----- | ---------------------------------------------------------------------------------------------------------------------- |
 | 1st   | [[#^dwarf-paragon-craft-expertise\|Craft expertise]], [[#^dwarf-paragon-improved-stonecunning\|improved stonecunning]] |
-| 2nd   | [[#^dwarf-paragon-improved-darkvision\|Improved darkvision]] (+30 ft.), [[#^dwarf-paragon-save-bonus\|save bonus]]     |
+| 2nd   | [[#^dwarf-paragon-improved-darkvision\|Improved darkvision]] (+30 ft.), [[#^dwarf-paragon-save-bonus\|defense bonus]]  |
 | 3rd   | [[#^dwarf-paragon-ability-boost\|Ability boost]] (Con +2)                                                              |
 
 Dwarf paragons have the following game statistics.
@@ -84,6 +84,6 @@ All of the following are class features of the dwarf paragon class.
 
 **Improved Darkvision (Ex):** At 2nd level, a dwarf paragon's darkvision range increases by 30 feet. ^dwarf-paragon-improved-darkvision
 
-**Save Bonus (Ex):** A 2nd-level dwarf paragon's racial bonus on saves against [[rangoric-srd/rules/Afflictions#Poison|poison]] and against spells and spell-like effects increases by 1. ^dwarf-paragon-save-bonus
+**Defense Bonus (Ex):** A 2nd-level dwarf paragon's racial bonus on defenses against [[rangoric-srd/rules/Afflictions#Poison|poison]] and against spells and spell-like effects increases by 1. ^dwarf-paragon-save-bonus
 
 **Ability Boost (Ex):** At 3rd level, a dwarf paragon's Constitution score increases by 2 points. ^dwarf-paragon-ability-boost

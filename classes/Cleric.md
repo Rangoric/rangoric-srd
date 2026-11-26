@@ -83,7 +83,7 @@ A cleric who chooses the [[rangoric-srd/class-options/domains/War Domain|War]] d
 
 **Spells**: A cleric casts divine spells, which are drawn from the [[rangoric-srd/spells/Cleric Spell List|cleric spell list]]. However, his alignment may restrict him from casting certain spells opposed to his moral or ethical beliefs; see Chaotic, Evil, Good, and Lawful Spells, below. A cleric must choose and prepare his spells in advance (see below). ^cleric-spells
 
-To prepare or cast a spell, a cleric must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a cleric’s spell is 10 + the spell level + the cleric’s Wisdom modifier.
+To prepare or cast a spell, a cleric must have a Wisdom score equal to at least 10 + the spell level. The attack bonus of a cleric’s spell is the spell level + the cleric’s Wisdom modifier.
 
 Like other spellcasters, a cleric can cast only a certain number of spells of each spell level per day. His base daily spell allotment is given on Table: The Cleric. In addition, he receives bonus spells per day if he has a high Wisdom score. A cleric also gets one domain spell of each spell level he can cast, starting at 1st level. When a cleric prepares a spell in a domain spell slot, it must come from one of his two domains (see Deities, Domains, and Domain Spells, below).
 

@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/racial-trait, racial-trait/offense, racial-trait/stand
 
 **Race**: [[rangoric-srd/races/Dwarf|Dwarf]]. **Replaces**: defensive training, hatred, and stonecunning.
 
-Dwarves with this racial trait gain a +1 bonus on attack rolls and a +2 dodge bonus to AC and on saving throws against the exceptional, supernatural, and spell-like abilities of dragons. They also gain a +2 racial bonus on [[rangoric-srd/skills/Arcana|Arcana]] checks to identify dragons and can make such checks untrained.
+Dwarves with this racial trait gain a +1 bonus on attack rolls and a +2 dodge bonus to AC and other defenses against the exceptional, supernatural, and spell-like abilities of dragons. They also gain a +2 racial bonus on [[rangoric-srd/skills/Arcana|Arcana]] checks to identify dragons and can make such checks untrained.

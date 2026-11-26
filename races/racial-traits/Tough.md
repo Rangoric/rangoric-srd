@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 **Race**: [[rangoric-srd/races/Strix|Strix]]. **Replaces**: suspicious.
 
-The strix receives a +1 racial bonus on Fortitude saves.
+The strix receives a +1 racial bonus on Fortitude Defense.

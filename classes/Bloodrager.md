@@ -125,13 +125,13 @@ Bloodrage counts as the barbarian’s rage class feature for the purpose of feat
 
 If a bloodrager already possesses uncanny dodge from a different class, he automatically gains [[rangoric-srd/classes/Bloodrager#^bloodrager-improved-uncanny-dodge|improved uncanny dodge]] instead.
 
-**Blood Sanctuary (Su)**: At 3rd level, due to the power of his blood, a bloodrager can stand confidently amid the effects of spells cast by himself or his allies. He gains a +2 bonus on saving throws against spells that he or an ally casts. ^bloodrager-blood-sanctuary
+**Blood Sanctuary (Su)**: At 3rd level, due to the power of his blood, a bloodrager can stand confidently amid the effects of spells cast by himself or his allies. He gains a +2 bonus on defenses against spells that he or an ally casts. ^bloodrager-blood-sanctuary
 
 **Blood Casting (Su)**: At 4th level, the bloodrager gains the ability to cast spells even while bloodraging. He can also cast these spells defensively and can make [[rangoric-srd/rules/Concentration (Check)|concentration checks]] for these spells while bloodraging. While bloodraging, he can cast and concentrate on only [[rangoric-srd/classes/Bloodrager#^bloodrager-spells|his bloodrager spells]]; spells from other classes cannot be cast during this state. He can also apply metamagic feats to his bloodrager spells while bloodraging, although rage otherwise bars metamagic feats. ^bloodrager-blood-casting
 
 **Eschew Materials**: At 4th level, the bloodrager gains [[rangoric-srd/feats/Eschew Materials|Eschew Materials]] as a bonus feat. ^bloodrager-eschew-materials
 
-**Spells**: Beginning at 4th level, a bloodrager gains the ability to cast a small number of arcane spells drawn from the [[rangoric-srd/spells/Bloodrager Spell List|bloodrager spell list]]. To learn or cast a spell, a bloodrager must have a Charisma score equal to at least 10 + the spell level. He can cast spells he knows without preparing them ahead of time. The saving throw DC against a bloodrager’s spell is 10 + the spell level + the bloodrager’s Charisma modifier. ^bloodrager-spells
+**Spells**: Beginning at 4th level, a bloodrager gains the ability to cast a small number of arcane spells drawn from the [[rangoric-srd/spells/Bloodrager Spell List|bloodrager spell list]]. To learn or cast a spell, a bloodrager must have a Charisma score equal to at least 10 + the spell level. He can cast spells he knows without preparing them ahead of time. The attack bonus of a bloodrager’s spell is the spell level + the bloodrager’s Charisma modifier. ^bloodrager-spells
 
 Like other spellcasters, a bloodrager can cast only a certain number of spells of each level per day. His base daily spell allotment is given on [[rangoric-srd/classes/Bloodrager#^table-the-bloodrager|Table: The Bloodrager]]. In addition, he receives bonus spells per day if he has a high Charisma score. The bloodrager does not need to prepare these spells in advance; he can cast any spell he knows at any time, assuming he hasn’t yet used up his allotment of spells per day for the spell’s level.
 
@@ -147,7 +147,7 @@ If a character already has uncanny dodge from another class, the levels from the
 
 Greater bloodrage counts as the barbarian’s greater rage ability for the purposes of feat prerequisites, feat abilities, magic item abilities, and spell effects.
 
-**Indomitable Will (Ex)**: At 14th level, a bloodrager gains a +4 bonus on Will saves to resist enchantment spells while bloodraging. This bonus stacks with all other modifiers, including the morale bonus on Will saves he also receives during his bloodrage. ^bloodrager-indomitable-will
+**Indomitable Will (Ex)**: At 14th level, a bloodrager gains a +4 bonus on Will Defense against enchantment spells while bloodraging. This bonus stacks with all other modifiers, including the morale bonus on Will Defense he also receives during his bloodrage. ^bloodrager-indomitable-will
 
 **Tireless Bloodrage (Su)**: At 17th level, a bloodrager’s bloodrage works as the barbarian’s [[rangoric-srd/classes/Barbarian#^barbarian-tireless-rage|tireless rage]]: he no longer becomes [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] at the end of his bloodrage. ^bloodrager-tireless-bloodrage
 

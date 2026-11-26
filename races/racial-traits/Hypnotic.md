@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/racial-trait, racial-trait/magical, racial-trait/stand
 
 **Race**: [[rangoric-srd/races/Ifrit|Ifrit]]. **Replaces**: fire affinity.
 
-Ifrits with this racial trait evoke the entrancing nature of flame, adding +1 to the DC for all saving throws against spells or effects they cast that inflict the [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinated]] condition. Once per day, when a creature rolls a saving throw against such an effect from the ifrit, the ifrit can spend an immediate action to force that creature to reroll the saving throw and use the second result, even if it is worse. The ifrit must announce he is using this ability before the results of the first roll are revealed.
+Ifrits with this racial trait evoke the entrancing nature of flame, adding +1 to the attack bonus of spells or effects they cast that inflict the [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinated]] condition. Once per day, when such an effect from the ifrit misses a creature, the ifrit can spend an immediate action to reroll the attack and use the second result, even if it is worse.
