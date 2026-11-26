@@ -53,18 +53,18 @@ The assassin's class skills (and the key ability for each skill) are [[rangoric-
 
 **Table: The Assassin**
 
-| Level | Special                                             | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th |
-| ----- | --------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| 1st   | Sneak attack +1d6, death attack, poison use, spells | 0                   | —                   | —                   | —                   |
-| 2nd   | +1 save against poison, uncanny dodge               | 1                   | —                   | —                   | —                   |
-| 3rd   | Sneak attack +2d6                                   | 2                   | 0                   | —                   | —                   |
-| 4th   | +2 save against poison, hidden weapons, true death  | 3                   | 1                   | —                   | —                   |
-| 5th   | Improved uncanny dodge, sneak attack +3d6           | 3                   | 2                   | 0                   | —                   |
-| 6th   | +3 save against poison, quiet death                 | 3                   | 3                   | 1                   | —                   |
-| 7th   | Sneak attack +4d6                                   | 3                   | 3                   | 2                   | 0                   |
-| 8th   | +4 save against poison, hide in plain sight         | 3                   | 3                   | 3                   | 1                   |
-| 9th   | Sneak attack +5d6, swift death                      | 3                   | 3                   | 3                   | 2                   |
-| 10th  | +5 save against poison, angel of death              | 3                   | 3                   | 3                   | 3                   |
+| Level | Special                                               | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th |
+| ----- | ----------------------------------------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| 1st   | Sneak attack +1d6, death attack, poison use, spells   | 0                   | —                   | —                   | —                   |
+| 2nd   | +1 defense against poison, uncanny dodge              | 1                   | —                   | —                   | —                   |
+| 3rd   | Sneak attack +2d6                                     | 2                   | 0                   | —                   | —                   |
+| 4th   | +2 defense against poison, hidden weapons, true death | 3                   | 1                   | —                   | —                   |
+| 5th   | Improved uncanny dodge, sneak attack +3d6             | 3                   | 2                   | 0                   | —                   |
+| 6th   | +3 defense against poison, quiet death                | 3                   | 3                   | 1                   | —                   |
+| 7th   | Sneak attack +4d6                                     | 3                   | 3                   | 2                   | 0                   |
+| 8th   | +4 defense against poison, hide in plain sight        | 3                   | 3                   | 3                   | 1                   |
+| 9th   | Sneak attack +5d6, swift death                        | 3                   | 3                   | 3                   | 2                   |
+| 10th  | +5 defense against poison, angel of death             | 3                   | 3                   | 3                   | 3                   |
 
 ###### Class Features
 
@@ -74,13 +74,13 @@ All of the following are Class Features of the assassin prestige class.
 
 **Sneak Attack**: This is exactly like the rogue ability of the same name. The extra damage dealt increases by +1d6 every other level (2nd, 4th, 6th, 8th, and 10th). If an assassin gets a sneak attack bonus from another source the bonuses on damage stack.
 
-**Death Attack**: If an assassin studies his victim for 3 rounds and then makes a sneak attack with a melee weapon that successfully deals damage, the sneak attack has the additional effect of possibly either paralyzing or killing the target (assassin's choice). While studying the victim, the assassin can undertake other actions so long as his attention stays focused on the target and the target does not detect the assassin or recognize the assassin as an enemy. If the victim of such an attack fails a Fortitude save (DC 10 + the assassin's class level + the assassin's Int modifier) against the kill effect, she dies. If the saving throw fails against the paralysis effect, the victim is rendered helpless and unable to act for 1d6 rounds plus 1 round per level of the assassin. If the victim’s saving throw succeeds, the attack is just a normal sneak attack. Once the assassin has completed the 3 rounds of study, he must make the death attack within the next 3 rounds.
+**Death Attack**: If an assassin studies his victim for 3 rounds and then makes a sneak attack with a melee weapon that successfully deals damage, the sneak attack has the additional effect of possibly either paralyzing or killing the target (assassin's choice). While studying the victim, the assassin can undertake other actions so long as his attention stays focused on the target and the target does not detect the assassin or recognize the assassin as an enemy. The death attack then attacks the victim’s Fortitude, its attack bonus the assassin's class level + the assassin's Int modifier. On a hit with the kill effect, she dies. On a hit with the paralysis effect, the victim is rendered helpless and unable to act for 1d6 rounds plus 1 round per level of the assassin. If it misses, the attack is just a normal sneak attack. Once the assassin has completed the 3 rounds of study, he must make the death attack within the next 3 rounds.
 
-If a death attack is attempted and fails (the victim makes her save) or if the assassin does not launch the attack within 3 rounds of completing the study, 3 new rounds of study are required before he can attempt another death attack.
+If a death attack is attempted and fails (it misses the victim’s Fortitude) or if the assassin does not launch the attack within 3 rounds of completing the study, 3 new rounds of study are required before he can attempt another death attack.
 
 **Poison Use**: An assassin has [[rangoric-srd/rules/Afflictions#^poison-use|poison use]].
 
-**Spells**: Beginning at 1st level, an assassin gains the ability to cast a number of arcane spells. To cast a spell, an assassin must have an Intelligence score of at least 10 + the spell’s level, so an assassin with an Intelligence of 10 or lower cannot cast these spells. Assassin bonus spells are based on Intelligence, and saving throws against these spells have a DC of 10 + spell level + the assassin's Intelligence bonus. When the assassin gets 0 spells per day of a given spell level he gains only the bonus spells he would be entitled to based on his Intelligence score for that spell level.
+**Spells**: Beginning at 1st level, an assassin gains the ability to cast a number of arcane spells. To cast a spell, an assassin must have an Intelligence score of at least 10 + the spell’s level, so an assassin with an Intelligence of 10 or lower cannot cast these spells. Assassin bonus spells are based on Intelligence, and the attack bonus of these spells is the spell level + the assassin's Intelligence bonus. When the assassin gets 0 spells per day of a given spell level he gains only the bonus spells he would be entitled to based on his Intelligence score for that spell level.
 
 The assassin's spell list appears below. An assassin casts spells just as a bard does.
 
@@ -103,7 +103,7 @@ Upon reaching 6th level, at every even-numbered level after that (8th and 10th),
 
 1 _Provided the assassin has sufficient Intelligence to have a bonus spell of this level._
 
-**Save Bonus against Poison**: The assassin gains a natural saving throw bonus to all poisons gained at 2nd level that increases by +1 for every two additional levels the assassin gains.
+**Defense Bonus against Poison**: The assassin gains a natural bonus on his defenses against all poisons at 2nd level that increases by +1 for every two additional levels the assassin gains.
 
 **Uncanny Dodge (Ex)**: Starting at 2nd level, an assassin retains his Dexterity bonus to AC (if any) regardless of being caught flat-footed or struck by an invisible attacker. (He still loses any Dexterity bonus to AC if immobilized.)
 
@@ -125,7 +125,7 @@ He cannot, however, hide in his own shadow.
 
 **Swift Death (Ex)**: At 9th level, once per day, an assassin can make a death attack against a foe without studying the foe beforehand. He must still sneak attack his foe using a melee weapon that deals damage.
 
-**Angel of Death (Su)**: At 10th level, the assassin becomes a master of death. Once per day, when the assassin makes a successful death attack, he can cause the target’s body to crumble to dust. This prevents [[rangoric-srd/spells/Raise Dead|raise dead]] and [[rangoric-srd/spells/Resurrection|resurrection]] (although [[rangoric-srd/spells/True Resurrection|true resurrection]] works as normal). The assassin must declare the use of this ability before the attack is made. If the attack misses or the target successfully saves against the death attack, this ability is wasted with no effect.
+**Angel of Death (Su)**: At 10th level, the assassin becomes a master of death. Once per day, when the assassin makes a successful death attack, he can cause the target’s body to crumble to dust. This prevents [[rangoric-srd/spells/Raise Dead|raise dead]] and [[rangoric-srd/spells/Resurrection|resurrection]] (although [[rangoric-srd/spells/True Resurrection|true resurrection]] works as normal). The assassin must declare the use of this ability before the attack is made. If the attack misses or the death attack misses the target’s Fortitude, this ability is wasted with no effect.
 
 ###### Assassin Spell List
 

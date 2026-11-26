@@ -76,7 +76,7 @@ All of the following are class features of the guardian of the secret path prest
 
 **Detect Outsider (Sp)**: A guardian can detect outsiders at will. This works like the _detect_ spells, such as _[[rangoric-srd/spells/Detect Evil|detect evil]]_, but finds outsiders. ^guardian-detect-outsider
 
-**Flare (Sp)**: At 2nd level, four times per day, a guardian can take a free action (no more than once per round) to strike one outsider within 30 feet with starlight for 1d6 points of damage. There is no save, but spell resistance applies, with only her guardian level as her caster level. ^guardian-flare
+**Flare (Sp)**: At 2nd level, four times per day, a guardian can take a free action (no more than once per round) to strike one outsider within 30 feet with starlight for 1d6 points of damage. There is no defense, but spell resistance applies, with only her guardian level as her caster level. ^guardian-flare
 
 **Infuse with Starlight (Sp)**: At 3rd level, once per round as a free action, a guardian can give up a prepared spell or unused spell slot to fill a weapon in her hands with starlight. The weapon gains a bonus on attack and damage rolls equal to the spell's level (maximum +5) for a number of minutes equal to her guardian level. It works on melee and ranged weapons, but not on a weapon that is already magical. ^guardian-infuse-with-starlight
 

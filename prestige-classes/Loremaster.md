@@ -89,9 +89,9 @@ All of the following are Class Features of the loremaster prestige class.
 | -------------------- | ----------------------------- | ----------------------------------------------------------- |
 | 1                    | Instant mastery               | 4 ranks of a skill in which the character has no ranks      |
 | 2                    | Secret health                 | [[rangoric-srd/feats/Toughness\|Toughness]] as a bonus feat |
-| 3                    | Secrets of inner strength     | +2 bonus on Will saves                                      |
-| 4                    | The lore of true stamina      | +2 bonus on Fortitude saves                                 |
-| 5                    | Secret knowledge of avoidance | +2 bonus on Reflex saves                                    |
+| 3                    | Secrets of inner strength     | +2 bonus on Will Defense                                    |
+| 4                    | The lore of true stamina      | +2 bonus on Fortitude Defense                               |
+| 5                    | Secret knowledge of avoidance | +2 bonus on Reflex Defense                                  |
 | 6                    | Weapon trick                  | +1 bonus on attack rolls                                    |
 | 7                    | Dodge trick                   | +1 dodge bonus to AC                                        |
 | 8                    | Applicable knowledge          | Any one feat                                                |

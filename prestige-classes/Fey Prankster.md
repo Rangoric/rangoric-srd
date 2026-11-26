@@ -84,7 +84,7 @@ All of the following are class features of the fey prankster prestige class.
 
 **Destined (Ex)**: At 10th level, the fey prankster gains [[rangoric-srd/prestige-classes/Fey Class Features#^destined|destined]]. ^fey-prankster-destined
 
-**Spells**: A fey prankster casts arcane spells from the fey prankster spell list (below), with the spells per day shown on the table. She casts them as she casts the arcane spells of the class that qualified her for this prestige class: they use that class’s key ability score (for bonus spells, save DCs and the score needed to cast a spell), and she prepares them or casts them spontaneously as that class does. A character with more than one arcane spellcasting class chooses one when she takes her first fey prankster level. ^fey-prankster-spells
+**Spells**: A fey prankster casts arcane spells from the fey prankster spell list (below), with the spells per day shown on the table. She casts them as she casts the arcane spells of the class that qualified her for this prestige class: they use that class’s key ability score (for bonus spells, attack bonuses and the score needed to cast a spell), and she prepares them or casts them spontaneously as that class does. A character with more than one arcane spellcasting class chooses one when she takes her first fey prankster level. ^fey-prankster-spells
 
 ###### Fey Prankster Spell List
 

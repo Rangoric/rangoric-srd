@@ -81,7 +81,7 @@ At 8th level, the bonus increases to +4. This bonus stacks with the benefit prov
 
 **Combat Reflexes**: At 4th level, a duelist gains the benefit of the [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]] feat when using a light or one-handed piercing weapon.
 
-**Grace (Ex)**: At 4th level, a duelist gains an additional +2 competence bonus on all Reflex saving throws. This ability functions for a duelist only when she is wearing light or no armor and not using a shield.
+**Grace (Ex)**: At 4th level, a duelist gains an additional +2 competence bonus on Reflex Defense. This ability functions for a duelist only when she is wearing light or no armor and not using a shield.
 
 **Precise Strike (Ex)**: A duelist gains the ability to strike precisely with a light or one-handed piercing weapon, adding her duelist level to her damage roll. At 5th level, a precise strike also deals an extra 1d6 damage.
 
@@ -97,4 +97,4 @@ When making a precise strike, a duelist cannot attack with a weapon in her other
 
 **No Retreat (Ex)**: At 9th level, enemies adjacent to the duelist that take a withdraw action provoke an attack of opportunity from the duelist.
 
-**Crippling Critical (Ex)**: At 10th level, when a duelist confirms a critical hit using a light or one-handed piercing weapon, she can apply one of the following penalties in addition to the damage dealt: reduce all of the target’s speeds by 10 feet (minimum 5 feet), 1d4 points of Strength or Dexterity damage, –4 penalty on all saving throws, –4 penalty to Armor Class, or 2d6 points of [[rangoric-srd/rules/conditions/Bleed (Condition)|bleed]] damage. These penalties last for 1 minute, except for ability damage, which must be healed normally, and bleed damage, which lasts until it is stopped.
+**Crippling Critical (Ex)**: At 10th level, when a duelist confirms a critical hit using a light or one-handed piercing weapon, she can apply one of the following penalties in addition to the damage dealt: reduce all of the target’s speeds by 10 feet (minimum 5 feet), 1d4 points of Strength or Dexterity damage, –4 penalty on all defenses, –4 penalty to Armor Class, or 2d6 points of [[rangoric-srd/rules/conditions/Bleed (Condition)|bleed]] damage. These penalties last for 1 minute, except for ability damage, which must be healed normally, and bleed damage, which lasts until it is stopped.

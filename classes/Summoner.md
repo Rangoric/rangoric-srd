@@ -99,7 +99,7 @@ All of the following are class features of the summoner.
 
 **Spells**: A summoner casts arcane spells drawn from the [[rangoric-srd/spells/Summoner Spell List|summoner spell list]]. He can cast any spell he knows without preparing it ahead of time, assuming he has not yet used up his allotment of spells per day for the spell’s level. ^summoner-spells
 
-To learn or cast a spell, a summoner must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a summoner’s spell is 10 + the spell level + the summoner’s Charisma modifier.
+To learn or cast a spell, a summoner must have a Charisma score equal to at least 10 + the spell level. The attack bonus of a summoner’s spell is the spell level + the summoner’s Charisma modifier.
 
 A summoner can cast only a certain number of spells of each spell level each day. His base daily spell allotment is given on [[rangoric-srd/classes/Summoner#^table-the-summoner|Table: The Summoner]]. In addition, he receives bonus spells per day if he has a high Charisma score.
 
@@ -125,7 +125,7 @@ In addition, the eidolon and the summoner must remain within 100 feet of one ano
 
 **Bond Senses (Su)**: Starting at 2nd level, a summoner can, as a standard action, share the senses of his eidolon, hearing, seeing, smelling, tasting, and touching everything the eidolon does. He can use this ability a number of rounds per day equal to his summoner level. There is no range to this effect, but the eidolon and the summoner must be on the same plane. The summoner can end this effect as a free action. ^summoner-bond-senses
 
-**Shield Ally (Ex)**: At 4th level, whenever a summoner is within his eidolon’s reach, the summoner receives a +2 shield bonus to his Armor Class and a +2 circumstance bonus on his saving throws. This bonus does not apply if the eidolon is grappled, helpless, paralyzed, stunned, or unconscious. ^summoner-shield-ally
+**Shield Ally (Ex)**: At 4th level, whenever a summoner is within his eidolon’s reach, the summoner receives a +2 shield bonus to his Armor Class and a +2 circumstance bonus on his defenses. This bonus does not apply if the eidolon is grappled, helpless, paralyzed, stunned, or unconscious. ^summoner-shield-ally
 
 **Maker’s Call (Su)**: At 6th level, as a standard action, a summoner can call his eidolon to his side. This functions as _[[rangoric-srd/spells/Dimension Door|dimension door]]_, using the summoner’s caster level. When used, the eidolon appears adjacent to the summoner (or as close as possible if all adjacent spaces are occupied). If the eidolon is out of range, the ability is wasted. The summoner can use this ability once per day at 6th level, plus one additional time per day for every four levels beyond 6th. ^summoner-makers-call
 
@@ -133,7 +133,7 @@ In addition, the eidolon and the summoner must remain within 100 feet of one ano
 
 **Aspect (Su)**: At 10th level, a summoner can divert up to 2 points from his eidolon’s evolution pool to add evolutions to himself. He cannot select any evolution that the eidolon could not possess, and he must be able to meet the requirements as well. He cannot select the [[rangoric-srd/class-options/evolutions/Ability Increase (Evolution)|ability increase]] evolution through this ability. Any points spent in this way are taken from the eidolon’s evolution pool (reducing the total number available to the eidolon). The summoner can change the evolutions he receives from these points any time he can change the eidolon’s evolutions. ^summoner-aspect
 
-**Greater Shield Ally (Su)**: At 12th level, whenever an ally is within an eidolon’s reach, the ally receives a +2 shield bonus to its Armor Class and a +2 circumstance bonus on its saving throws. If this ally is the summoner, these bonuses increase to +4. This bonus does not apply if the eidolon is grappled, helpless, paralyzed, stunned, or unconscious. ^summoner-greater-shield-ally
+**Greater Shield Ally (Su)**: At 12th level, whenever an ally is within an eidolon’s reach, the ally receives a +2 shield bonus to its Armor Class and a +2 circumstance bonus on its defenses. If this ally is the summoner, these bonuses increase to +4. This bonus does not apply if the eidolon is grappled, helpless, paralyzed, stunned, or unconscious. ^summoner-greater-shield-ally
 
 **Life Bond (Su)**: At 14th level, a summoner’s life becomes linked to his eidolon’s. As long as the eidolon has 1 or more hit points, the summoner is protected from harm. Damage in excess of that which would reduce the summoner to fewer than 0 hit points is instead transferred to the eidolon. This damage is transferred 1 point at a time, meaning that as soon as the eidolon is reduced to a number of negative hit points equal to its Constitution score, all excess damage remains with the summoner. Effects that cause death but not damage are unaffected by this ability. This ability does not affect spells like _[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]_, _[[rangoric-srd/spells/Flesh to Stone|flesh to stone]]_, or _[[rangoric-srd/spells/Imprisonment|imprisonment]]_, or other spells that do not cause actual damage. ^summoner-life-bond
 
@@ -187,15 +187,15 @@ An eidolon’s abilities are determined by the summoner’s level and by the cho
 
 **Share Spells (Ex)**: The summoner may cast a spell with a target of “you” on his eidolon (as a spell with a range of touch) instead of on himself. A summoner may cast spells on his eidolon even if the spells normally do not affect creatures of the eidolon’s type (outsider). Spells cast in this way must come from the summoner spell list. This ability does not allow the eidolon to share abilities that are not spells, even if they function like spells. ^eidolon-share-spells
 
-**[[rangoric-srd/rules/Special Abilities and Conditions#Evasion and Improved Evasion|Evasion]] (Ex)**: If an eidolon is subjected to an attack that normally allows a Reflex save for half damage, it takes no damage if it makes a successful saving throw. ^eidolon-evasion
+**[[rangoric-srd/rules/Special Abilities and Conditions#Evasion and Improved Evasion|Evasion]] (Ex)**: If an eidolon is subjected to an attack against its Reflex Defense that normally deals half damage on a miss, it takes no damage on a miss. ^eidolon-evasion
 
 **Ability Score Increase (Ex)**: The eidolon adds +1 to one of its ability scores. ^eidolon-ability-score-increase
 
-**Devotion (Ex)**: An eidolon gains a +4 morale bonus on Will saves against enchantment spells and effects. ^eidolon-devotion
+**Devotion (Ex)**: An eidolon gains a +4 morale bonus on Will Defense against enchantment spells and effects. ^eidolon-devotion
 
 **[[rangoric-srd/feats/Multiattack|Multiattack]]**: An eidolon gains Multiattack as a bonus feat if it has 3 or more natural attacks and does not already have that feat. If it does not have the requisite 3 or more natural attacks (or it is reduced to less than 3 attacks), the eidolon instead gains a second attack with one of its natural weapons, albeit at a –5 penalty. If the eidolon later gains 3 or more natural attacks, it loses this additional attack and instead gains Multiattack. ^eidolon-multiattack
 
-**Improved Evasion (Ex)**: When subjected to an attack that allows a Reflex saving throw for half damage, an eidolon takes no damage if it makes a successful saving throw and only half damage if the saving throw fails. ^eidolon-improved-evasion
+**Improved Evasion (Ex)**: When subjected to an attack against its Reflex Defense that deals half damage on a miss, an eidolon takes no damage on a miss and only half damage on a hit. ^eidolon-improved-evasion
 
 **Table: Eidolon Base Statistics** ^table-eidolon-base-statistics
 

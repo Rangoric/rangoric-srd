@@ -72,7 +72,7 @@ All of the following are class features of the witch.
 
 **Spells**: A witch casts arcane spells drawn from the [[rangoric-srd/spells/Witch Spell List|witch spell list]]. A witch must choose and prepare her spells ahead of time. ^witch-spells
 
-To learn or cast a spell, a witch must have an Intelligence score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a witch's spell is 10 + the spell level + the witch's Intelligence modifier.
+To learn or cast a spell, a witch must have an Intelligence score equal to at least 10 + the spell level. The attack bonus of a witch's spell is the spell level + the witch's Intelligence modifier.
 
 A witch can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is given on Table: The Witch. In addition, she receives bonus spells per day if she has a high Intelligence score.
 
@@ -82,7 +82,7 @@ A witch may know any number of spells. She must choose and prepare her spells ah
 
 **Hex**: Witches learn a number of magic tricks, called [[rangoric-srd/class-options/hexes/Hexes|hexes]], that grant them powers or weaken foes. At 1st level, a witch gains one hex of her choice. She gains an additional hex at 2nd level and for every 2 levels attained after 2nd level, as noted on Table: The Witch. A witch cannot select an individual hex more than once.
 
-Unless otherwise noted, using a hex is a standard action that does not provoke an attack of opportunity. The save to resist a hex is equal to 10 + 1/2 the witch's level + the witch's Intelligence modifier. ^witch-hex
+Unless otherwise noted, using a hex is a standard action that does not provoke an attack of opportunity. The attack bonus of a hex is 1/2 the witch's level + the witch's Intelligence modifier. ^witch-hex
 
 **Witch’s Familiar (Ex)**: At 1st level, a witch forms a close bond with a familiar, a creature that teaches her magic and helps to guide her along her path. Familiars also aid a witch by granting her skill bonuses, additional spells, and help with some types of magic. This functions like the wizard’s [[rangoric-srd/classes/Wizard#Familiars|familiar]], except as noted in [[#Witch’s Familiar]], below.
 

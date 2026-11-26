@@ -72,7 +72,7 @@ All of the following are class features of the knight of the fey prestige class.
 
 **Blind-Fight**: A knight of the fey gains [[rangoric-srd/feats/Blind-Fight|Blind-Fight]] as a bonus feat at 1st level. ^knight-of-the-fey-blind-fight
 
-**Shining Beacon (Ex)**: The knight of the fey is the physical and spiritual embodiment of the noble fey and feeorin. Any fey allies get a +4 morale bonus on saves against fear effects when they stand within 10 feet of the knight of the fey. If the knight is held, unconscious, or otherwise rendered helpless, his allies lose this bonus. ^knight-of-the-fey-shining-beacon
+**Shining Beacon (Ex)**: The knight of the fey is the physical and spiritual embodiment of the noble fey and feeorin. Any fey allies get a +4 morale bonus on defenses against fear effects when they stand within 10 feet of the knight of the fey. If the knight is held, unconscious, or otherwise rendered helpless, his allies lose this bonus. ^knight-of-the-fey-shining-beacon
 
 **Lucky Hit (Ex)**: At 2nd level, a knight of the fey gains the ability to add his prestige class level as an attack bonus to a missed attack roll once per day. At 6th level, this ability can be used twice per day. At 9th level, this ability can be used three times per day. This stacks with all attack bonuses. ^knight-of-the-fey-lucky-hit
 
