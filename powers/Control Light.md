@@ -11,7 +11,7 @@ manifesting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 area: "Nine 10-ft. cubes + three 10-ft. cubes/level"
 duration: "Concentration, up to 1 min./level, or 1 round; see text"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "1"
 based-on:
@@ -31,7 +31,7 @@ Manifesting Time: 1 standard action
 Range: Medium (100 ft. + 10 ft./level)  
 Area: Nine 10-ft. cubes + three 10-ft. cubes/level  
 Duration: Concentration, up to 1 min./level, or 1 round; see text  
-Saving Throw: None  
+Defense: None  
 Power Resistance: No  
 Power Points: 1
 

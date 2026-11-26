@@ -10,7 +10,7 @@ manifesting-time: "1 standard action"
 range: "60 ft."
 area: "Cone -shaped emanation centered on you"
 duration: "Concentration, up to 1 min./level (D)"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "1"
 based-on:
@@ -30,7 +30,7 @@ Manifesting Time: 1 standard action
 Range: 60 ft.  
 Area: Cone -shaped emanation centered on you  
 Duration: Concentration, up to 1 min./level (D)  
-Saving Throw: None  
+Defense: None  
 Power Resistance: No  
 Power Points: 1
 

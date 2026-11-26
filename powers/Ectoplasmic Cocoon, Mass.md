@@ -7,7 +7,7 @@ level:
 range: "Medium (100 ft. + 10 ft./level)"
 area: "20-ft.-radius burst"
 duration: "1 hour/level (D)"
-saving-throw: "Reflex negates"
+defense: "Reflex"
 power-resistance: "No"
 power-points: "13"
 based-on:
@@ -25,7 +25,7 @@ Level: Shaper 7
 Range: Medium (100 ft. + 10 ft./level)  
 Area: 20-ft.-radius burst  
 Duration: 1 hour/level (D)  
-Saving Throw: Reflex negates  
+Defense: Reflex  
 Power Resistance: No  
 Power Points: 13
 

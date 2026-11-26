@@ -10,7 +10,7 @@ manifesting-time: "1 standard action"
 range: "See text"
 area: "See text"
 duration: "Up to 1 min./level; see text (D)"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "9"
 based-on:
@@ -30,7 +30,7 @@ Manifesting Time: 1 standard action
 Range: See text  
 Area: See text  
 Duration: Up to 1 min./level; see text (D)  
-Saving Throw: None  
+Defense: None  
 Power Resistance: No  
 Power Points: 9
 

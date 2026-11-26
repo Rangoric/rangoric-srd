@@ -11,7 +11,7 @@ manifesting-time: "1 standard action"
 range: "30 ft."
 area: "30-ft.-radius spread centered on you"
 duration: "Concentration, up to 1 min./level (D)"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "1"
 based-on:
@@ -31,7 +31,7 @@ Manifesting Time: 1 standard action
 Range: 30 ft.  
 Area: 30-ft.-radius spread centered on you  
 Duration: Concentration, up to 1 min./level (D)  
-Saving Throw: None  
+Defense: None  
 Power Resistance: No  
 Power Points: 1
 

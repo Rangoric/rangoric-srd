@@ -10,7 +10,7 @@ manifesting-time: "1 standard action"
 range: "See text"
 effect: "Psionic sensor"
 duration: "1 min./level (D)"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "3"
 based-on:
@@ -30,7 +30,7 @@ Manifesting Time: 1 standard action
 Range: See text  
 Effect: Psionic sensor  
 Duration: 1 min./level (D)  
-Saving Throw: None  
+Defense: None  
 Power Resistance: No  
 Power Points: 3
 

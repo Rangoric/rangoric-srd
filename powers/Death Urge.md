@@ -12,7 +12,7 @@ manifesting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./ level)"
 target: "One living creature"
 duration: "1 round"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "7"
 based-on:
@@ -32,7 +32,7 @@ Manifesting Time: 1 standard action
 Range: Medium (100 ft. + 10 ft./ level)  
 Target: One living creature  
 Duration: 1 round  
-Saving Throw: Will negates  
+Defense: Will  
 Power Resistance: Yes  
 Power Points: 7
 
@@ -42,4 +42,4 @@ If armed, the subject attacks itself as a full-round action. The attack automati
 
 If the subject is unarmed and no enemy is nearby, the subject simply does nothing at all. A subject close to an immediate and lethal hazard such as a cliff or a fire might hurl itself off the cliff or into the fire instead of striking itself with a weapon.
 
-Augment: For every 4 additional power points you spend, this power’s save DC increases by 2 and its duration increases by 1 round.
+Augment: For every 4 additional power points you spend, this power’s attack bonus increases by 2 and its duration increases by 1 round.

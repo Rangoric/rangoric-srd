@@ -10,7 +10,7 @@ manifesting-time: "1 standard action"
 range: "Personal or close (25 ft. + 5 ft./2 levels); see text"
 target: "You or one willing creature or one object (object weighing up to 100 lb./level); see text"
 duration: "1 hour/level (D)"
-saving-throw: "None"
+defense: "None"
 power-resistance: "Yes (harmless, object)"
 power-points: "11"
 based-on:
@@ -30,7 +30,7 @@ Manifesting Time: 1 standard action
 Range: Personal or close (25 ft. + 5 ft./2 levels); see text  
 Target: You or one willing creature or one object (object weighing up to 100 lb./level); see text  
 Duration: 1 hour/level (D)  
-Saving Throw: None  
+Defense: None  
 Power Resistance: Yes (harmless, object)  
 Power Points: 11
 

@@ -12,7 +12,7 @@ manifesting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./ level)"
 target: "One creature"
 duration: "Concentration, up to 1 round/level"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "11"
 based-on:
@@ -32,7 +32,7 @@ Manifesting Time: 1 standard action
 Range: Medium (100 ft. + 10 ft./ level)  
 Target: One creature  
 Duration: Concentration, up to 1 round/level  
-Saving Throw: Will negates  
+Defense: Will  
 Power Resistance: Yes  
 Power Points: 11
 

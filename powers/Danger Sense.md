@@ -30,6 +30,6 @@ Target: You
 Duration: 1 hour/level (D)  
 Power Points: 5
 
-You can sense the presence of danger before your senses would normally allow it. Your intuitive sense alerts you to danger from traps, giving you a +4 insight bonus on Reflex saves to avoid traps and a +4 insight bonus to Armor Class against attacks by traps.
+You can sense the presence of danger before your senses would normally allow it. Your intuitive sense alerts you to danger from traps, giving you a +4 insight bonus on Reflex Defense to avoid traps and a +4 insight bonus to Armor Class against attacks by traps.
 
 Augment: If you spend 3 additional power points, this power also gives you the [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]] ability; if you spend 6 additional power points, this power gives you the [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]] ability as well.

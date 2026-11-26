@@ -10,7 +10,7 @@ manifesting-time: "1 standard action"
 range: "0 ft."
 effect: "A normal bolt, arrow, or sling bullet"
 duration: "1 min./level"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "1"
 based-on:
@@ -30,7 +30,7 @@ Manifesting Time: 1 standard action
 Range: 0 ft.  
 Effect: A normal bolt, arrow, or sling bullet  
 Duration: 1 min./level  
-Saving Throw: None  
+Defense: None  
 Power Resistance: No  
 Power Points: 1
 

@@ -8,7 +8,7 @@ display: "Visual"
 manifesting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 duration: "Instantaneous or 1d4 rounds; see text"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "5"
 based-on:
@@ -28,7 +28,7 @@ Manifesting Time: 1 standard action
 Range: Medium (100 ft. + 10 ft./level)  
 Target or Area: One manifester, creature, or object; or 20-ft.-radius burst  
 Duration: Instantaneous or 1d4 rounds; see text  
-Saving Throw: None  
+Defense: None  
 Power Resistance: No  
 Power Points: 5
 

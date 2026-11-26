@@ -8,7 +8,7 @@ manifesting-time: "1 standard action"
 range: "Touch"
 targets: "You and one other touched willing creature/three levels; all targets must be joined by linked hands"
 duration: "1 min./level (D)"
-saving-throw: "None"
+defense: "None"
 power-resistance: "Yes (harmless)"
 power-points: "17"
 based-on:
@@ -27,7 +27,7 @@ Psychoportation
 **Range:** Touch  
 **Targets:** You and one other touched willing creature/three levels; all targets must be joined by linked hands  
 **Duration:** 1 min./level (D)  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** Yes (harmless)  
 **Power Points:** 17
 

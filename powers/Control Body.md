@@ -9,7 +9,7 @@ manifesting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One Medium or smaller creature with humanoid physiology"
 duration: "Concentration, up to 1 min./level"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 power-resistance: "Yes"
 power-points: "7"
 based-on:
@@ -29,7 +29,7 @@ Manifesting Time: 1 standard action
 Range: Medium (100 ft. + 10 ft./level)  
 Target: One Medium or smaller creature with humanoid physiology  
 Duration: Concentration, up to 1 min./level  
-Saving Throw: Fortitude negates  
+Defense: Fortitude  
 Power Resistance: Yes  
 Power Points: 7
 

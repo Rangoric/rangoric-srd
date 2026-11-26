@@ -10,7 +10,7 @@ manifesting-time: "1 round"
 range: "Long (400 ft. + 40 ft./level)"
 effect: "One ectoplasmic manifestation of a size equal to ten 10-ft. cubes (S)"
 duration: "1 min./level"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "9"
 based-on:
@@ -30,7 +30,7 @@ Manifesting Time: 1 round
 Range: Long (400 ft. + 40 ft./level)  
 Effect: One ectoplasmic manifestation of a size equal to ten 10-ft. cubes (S)  
 Duration: 1 min./level  
-Saving Throw: None  
+Defense: None  
 Power Resistance: No  
 Power Points: 9
 

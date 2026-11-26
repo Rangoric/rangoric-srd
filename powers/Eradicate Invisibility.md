@@ -9,7 +9,7 @@ manifesting-time: "1 standard action"
 range: "50 ft."
 targets: "You and all invisible creatures and objects in a 50-ft.-radius burst centered on you"
 duration: "Instantaneous"
-saving-throw: "Reflex negates"
+defense: "Reflex"
 power-resistance: "No"
 power-points: "5"
 based-on:
@@ -29,7 +29,7 @@ Psychokinesis
 **Range:** 50 ft.  
 **Targets:** You and all invisible creatures and objects in a 50-ft.-radius burst centered on you  
 **Duration:** Instantaneous  
-**Saving Throw:** Reflex negates  
+**Defense:** Reflex  
 **Power Resistance:** No  
 **Power Points:** 5
 

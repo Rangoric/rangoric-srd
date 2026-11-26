@@ -9,7 +9,7 @@ manifesting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 area: "50-ft.-radius spread"
 duration: "Concentration, up to 1 min./level"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "3"
 based-on:
@@ -29,7 +29,7 @@ Manifesting Time: 1 standard action
 Range: Long (400 ft. + 40 ft./level)  
 Area: 50-ft.-radius spread  
 Duration: Concentration, up to 1 min./level  
-Saving Throw: None  
+Defense: None  
 Power Resistance: No  
 Power Points: 3
 

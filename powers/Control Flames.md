@@ -11,7 +11,7 @@ manifesting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 area: "One nonmagical fire source; see text"
 duration: "Concentration, up to 1 min./level"
-saving-throw: "See text"
+defense: "See text"
 power-resistance: "No"
 power-points: "1"
 based-on:
@@ -31,17 +31,17 @@ Manifesting Time: 1 standard action
 Range: Medium (100 ft. + 10 ft./level)  
 Area: One nonmagical fire source; see text  
 Duration: Concentration, up to 1 min./level  
-Saving Throw: See text  
+Defense: See text  
 Power Resistance: No  
 Power Points: 1
 
-You pyrokinetically control the intensity or movements of one fire source. A nonmagical fire source can be controlled if it is equal to or smaller than the maximum size of fire you can control according to your manifester level, as noted on the accompanying table. You can freely switch control between fire sources, or change the nature of your control, while you maintain concentration, but only one specified change (keeping a fire burning, animating it, or altering its size) can be made to one fire source in a round. When your control over a fire source lapses, that fire immediately returns to its original state (or goes out if it has no fuel or has been moved away from its original location). With this power, you can artificially keep a fire burning that would normally expire for lack of fuel; even dousing a controlled flame with water does not put it out (though completely submerging the flame would). Normally, a creature at risk of catching on fire can avoid this fate by making a DC 15 Reflex saving throw, with success indicating that the fire has gone out. If the fire is one that has been kept burning by the use of control flames, then the DC of the Reflex save needed to put out the flames increases to 25.
+You pyrokinetically control the intensity or movements of one fire source. A nonmagical fire source can be controlled if it is equal to or smaller than the maximum size of fire you can control according to your manifester level, as noted on the accompanying table. You can freely switch control between fire sources, or change the nature of your control, while you maintain concentration, but only one specified change (keeping a fire burning, animating it, or altering its size) can be made to one fire source in a round. When your control over a fire source lapses, that fire immediately returns to its original state (or goes out if it has no fuel or has been moved away from its original location). With this power, you can artificially keep a fire burning that would normally expire for lack of fuel; even dousing a controlled flame with water does not put it out (though completely submerging the flame would). Normally, fire attacks the Reflex of a creature at risk of catching on fire at +5, and a miss means that the fire has gone out. If the fire is one that has been kept burning by the use of control flames, then its attack bonus against Reflex increases to +15.
 
 This power also enables you to make a fire move as if it were a living creature. You can animate only a naturally burning fire; if you attempt to animate one that has been increased or decreased in size by your augmentation of this power, the fire immediately returns to its original size. An animated fire moves at a speed of 30 feet. A fire that moves away from its fuel or its original location dies as soon as your control over it lapses.
 
-An animated fire can enter any square, even if a creature already occupies it. If an animated fire enters a square occupied by a creature, that creature can make a Reflex save to get out of the way (DC 11 + the number of dice of damage the fire does + your Int modifier if you are a psion or your Cha modifier if you are a wilder). A successful Reflex save moves the creature to the nearest unoccupied square. The flames deal the indicated damage to any creature that is either on fire or surrounded by the flames (in the fire’s space); see the accompanying table).
+An animated fire can enter any square, even if a creature already occupies it. If an animated fire enters a square occupied by a creature, the fire attacks that creature’s Reflex (attack bonus 1 + the number of dice of damage the fire does + your Int modifier if you are a psion or your Cha modifier if you are a wilder). A miss moves the creature to the nearest unoccupied square. The flames deal the indicated damage to any creature that is either on fire or surrounded by the flames (in the fire’s space); see the accompanying table).
 
-At the start of your turn, the animated fire deals damage to any creature in its space, and the creature catches on fire unless it makes a Reflex save (DC as noted above). A victim on fire takes 1d6 points of damage each round. Additional rounds in the same space as the animated fire occupies mean additional chances of ignition. The damage from multiple normal fires stacks, but the victim gets a saving throw each round to negate each fire. It is possible to switch control from the animated fire (causing it to disappear) to intensify flames that are already burning (thus denying the foe Reflex saves after the first).
+At the start of your turn, the animated fire deals damage to any creature in its space, and attacks its Reflex (attack bonus as noted above), and on a hit the creature catches on fire. A victim on fire takes 1d6 points of damage each round. Additional rounds in the same space as the animated fire occupies mean additional chances of ignition. The damage from multiple normal fires stacks, but each fire attacks the victim’s Reflex each round, and a miss negates that fire. It is possible to switch control from the animated fire (causing it to disappear) to intensify flames that are already burning (so that after the first attack the flames keep burning without attacking the foe’s Reflex again).
 
 Control Flames
 

@@ -12,7 +12,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One humanoid creature that has 4 HD or less"
 duration: "1 round"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "1"
 based-on:
@@ -32,7 +32,7 @@ Manifesting Time: 1 standard action
 Range: Close (25 ft. + 5 ft./2 levels)  
 Target: One humanoid creature that has 4 HD or less  
 Duration: 1 round  
-Saving Throw: Will negates  
+Defense: Will  
 Power Resistance: Yes  
 Power Points: 1
 

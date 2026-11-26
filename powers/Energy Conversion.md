@@ -11,7 +11,7 @@ manifesting-time: "1 standard action"
 range: "Personal and close (25 ft. + 5 ft./2 levels); see text"
 effect: "Ray; see text"
 duration: "10 min./level"
-saving-throw: "None"
+defense: "None"
 power-resistance: "Yes"
 power-points: "13"
 based-on:
@@ -31,7 +31,7 @@ Psychometabolism \[see text\]
 **Range:** Personal and close (25 ft. + 5 ft./2 levels); see text  
 **Effect:** Ray; see text  
 **Duration:** 10 min./level  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** Yes  
 **Power Points:** 13
 

@@ -10,7 +10,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One Medium or smaller creature"
 duration: "5 rounds"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "1"
 based-on:
@@ -30,7 +30,7 @@ Metacreativity (Creation)
 **Range:** Close (25 ft. + 5 ft./2 levels)  
 **Target:** One Medium or smaller creature  
 **Duration:** 5 rounds  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** No  
 **Power Points:** 1
 

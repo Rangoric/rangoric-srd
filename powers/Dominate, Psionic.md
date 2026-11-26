@@ -12,7 +12,7 @@ manifesting-time: "1 round"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One humanoid"
 duration: "Concentration"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "7"
 based-on:
@@ -32,7 +32,7 @@ Manifesting Time: 1 round
 Range: Medium (100 ft. + 10 ft./level)  
 Target: One humanoid  
 Duration: Concentration  
-Saving Throw: Will negates  
+Defense: Will  
 Power Resistance: Yes  
 Power Points: 7
 
@@ -48,4 +48,4 @@ Augment: You can augment this power in one or more of the following ways.
 
 4\. If you spend 1 additional power point, this power's duration is 1 hour rather than concentration. If you spend 2 additional power points, this power's duration is 1 day rather than concentration. If you spend 4 additional power points, this power's duration is 1 day per manifester level rather than concentration.
 
-In addition, for every 2 additional power points you spend to achieve any of these effects, this power’s save DC increases by 1.
+In addition, for every 2 additional power points you spend to achieve any of these effects, this power’s attack bonus increases by 1.

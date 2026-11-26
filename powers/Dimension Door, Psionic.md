@@ -10,7 +10,7 @@ display: "Visual"
 manifesting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 duration: "Instantaneous"
-saving-throw: "None and Will negates (object)"
+defense: "None and Will (object)"
 power-resistance: "No and Yes (object)"
 power-points: "7"
 based-on:
@@ -30,7 +30,7 @@ Manifesting Time: 1 standard action
 Range: Long (400 ft. + 40 ft./level)  
 Target or Targets: You and touched objects or other touched willing creatures  
 Duration: Instantaneous  
-Saving Throw: None and Will negates (object)  
+Defense: None and Will (object)  
 Power Resistance: No and Yes (object)  
 Power Points: 7
 

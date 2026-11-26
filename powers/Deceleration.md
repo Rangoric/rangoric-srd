@@ -9,7 +9,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./level)"
 target: "One Medium or smaller creature"
 duration: "1 min./level"
-saving-throw: "Reflex negates"
+defense: "Reflex"
 power-resistance: "Yes"
 power-points: "1"
 based-on:
@@ -29,7 +29,7 @@ Manifesting Time: 1 standard action
 Range: Close (25 ft. + 5 ft./level)  
 Target: One Medium or smaller creature  
 Duration: 1 min./level  
-Saving Throw: Reflex negates  
+Defense: Reflex  
 Power Resistance: Yes  
 Power Points: 1
 

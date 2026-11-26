@@ -11,7 +11,7 @@ manifesting-time: "10 minutes"
 range: "See text"
 target: "One creature with an Intelligence score of 3 or higher"
 duration: "1 round/level"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "7"
 based-on:
@@ -31,7 +31,7 @@ Manifesting Time: 10 minutes
 Range: See text  
 Target: One creature with an Intelligence score of 3 or higher  
 Duration: 1 round/level  
-Saving Throw: None  
+Defense: None  
 Power Resistance: No  
 Power Points: 7
 

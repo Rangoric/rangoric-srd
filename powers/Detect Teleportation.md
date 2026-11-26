@@ -9,7 +9,7 @@ manifesting-time: "1 standard action"
 range: "40 ft."
 area: "40-ft.-radius emanation centered on you"
 duration: "Concentration, up to 1 minute (D)"
-saving-throw: "No"
+defense: "No"
 power-resistance: "No"
 power-points: "1"
 based-on:
@@ -29,7 +29,7 @@ Manifesting Time: 1 standard action
 Range: 40 ft.  
 Area: 40-ft.-radius emanation centered on you  
 Duration: Concentration, up to 1 minute (D)  
-Saving Throw: No  
+Defense: No  
 Power Resistance: No  
 Power Points: 1
 
