@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One mirror"
 duration: "1 hour/level (D)"
-saving-throw: "Yes (object)"
+defense: "Yes (object)"
 spell-resistance: "Yes (object)"
 book: "Advanced Class Guide"
 based-on:
@@ -37,7 +37,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: One mirror
 - **Duration**: 1 hour/level (D)
-- **Saving Throw**: Yes (object)
+- **Defense**: Yes (object)
 - **Spell Resistance**: Yes (object)
 
 This spell functions as _[[rangoric-srd/spells/Mirror Hideaway|mirror hideaway]]_, except any creature that enters the target mirror can spend a swift action to exit through another mirror within 500 feet as if using _[[rangoric-srd/spells/Dimension Door|dimension door]]_; this is a one-way transport. The creature can exit through a mirror only if it could fit through an opening the same size as the mirror. Each transport through the target mirror reduces the spell's duration by 1 hour.

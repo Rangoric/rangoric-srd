@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One creature"
 duration: "8 hour(s)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Villain Codex"
 based-on:
@@ -40,7 +40,7 @@ _Divination_
 - **Range**: Touch
 - **Target**: One creature
 - **Duration**: 8 hour(s)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 The target instinctively knows the shortest, easiest, and fastest way through the wilderness. For the purpose of determining overland speed, the target treats any trackless terrain as though there were a trail or road, and any terrain with a road or trail as though there were a highway. Up to one creature per caster level traveling with the target can also benefit from the effect. The spell functions only outdoors and does not function in magically altered terrain.

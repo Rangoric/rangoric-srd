@@ -23,7 +23,7 @@ casting-time: "1 standard action"
 range: "10 ft."
 target: "One object of up to 1 lb."
 duration: "Instantaneous"
-saving-throw: "Will negates (harmless, object)"
+defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Mending|Mending (3.5)]]"
@@ -43,7 +43,7 @@ _Transmutation_
 - **Range**: 10 ft.
 - **Target**: One object of up to 1 lb.
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates (harmless, object)
+- **Defense**: Will (harmless, object)
 - **Spell Resistance**: Yes (harmless, object)
 
 Mending repairs small breaks or tears in objects (but not warps, such as might be caused by a warp wood spell). It will weld broken metallic objects such as a ring, a chain link, a medallion, or a slender dagger, providing but one break exists.

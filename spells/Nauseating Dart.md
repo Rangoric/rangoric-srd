@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "One poisonous stinger"
 duration: "Instantaneous"
-saving-throw: "Fortitude partial (see text)"
+defense: "Fortitude partial (see text)"
 spell-resistance: "No"
 book: "Advanced Class Guide"
 based-on:
@@ -37,7 +37,7 @@ _Conjuration (Creation) \[Poison\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: One poisonous stinger
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude partial (see text)
+- **Defense**: Fortitude partial (see text)
 - **Spell Resistance**: No
 
-You spit a poisonous stinger around the size of a quill at a creature within range, as though you had fired a dart from a blowgun. You must succeed at a ranged attack to hit your target. The stinger deals 1d2 points of piercing damage and poisons the target, causing it to become nauseated for 1 round unless it succeeds at a Fortitude save.
+You spit a poisonous stinger around the size of a quill at a creature within range, as though you had fired a dart from a blowgun. You must succeed at a ranged attack to hit your target. The stinger deals 1d2 points of piercing damage and poisons the target; the poison attacks its Fortitude and nauseates it for 1 round on a hit.

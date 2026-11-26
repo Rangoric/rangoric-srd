@@ -24,7 +24,7 @@ casting-time: "10 minutes"
 range: "Unlimited"
 target: "One living creature"
 duration: "Instantaneous"
-saving-throw: "Will negates; see text"
+defense: "Will; see text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Nightmare (Spell)|Nightmare (Spell) (3.5)]]"
@@ -44,29 +44,29 @@ _Illusion (Phantasm) \[Mind-Affecting, Evil\]_
 - **Range**: Unlimited
 - **Target**: One living creature
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates; see text
+- **Defense**: Will; see text
 - **Spell Resistance**: Yes
 
 You send a hideous and unsettling phantasmal vision to a specific creature that you name or otherwise specifically designate.
 
 The nightmare prevents restful sleep and causes 1d10 points of damage. The nightmare leaves the subject [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] and unable to regain arcane spells for the next 24 hours.
 
-The difficulty of the save depends on how well you know the subject and what sort of physical connection (if any) you have to that creature.
+The subject’s Will Defense modifier depends on how well you know the subject and what sort of physical connection (if any) you have to that creature.
 
-| Knowledge                                  | Will Save Modifier |
-| ------------------------------------------ | ------------------ |
-| None (1)                                   | +10                |
-| Secondhand (you have heard of the subject) | +5                 |
-| Firsthand (you have met the subject)       | +0                 |
-| Familiar (you know the subject well)       | –5                 |
+| Knowledge                                  | Will Defense Modifier |
+| ------------------------------------------ | --------------------- |
+| None (1)                                   | +10                   |
+| Secondhand (you have heard of the subject) | +5                    |
+| Firsthand (you have met the subject)       | +0                    |
+| Familiar (you know the subject well)       | –5                    |
 
 1 _You must have some sort of connection to a creature you have no knowledge of._
 
-| Connection                                 | Will Save Modifier |
-| ------------------------------------------ | ------------------ |
-| Likeness or picture                        | –2                 |
-| Possession or garment                      | –4                 |
-| Body part, lock of hair, bit of nail, etc. | –10                |
+| Connection                                 | Will Defense Modifier |
+| ------------------------------------------ | --------------------- |
+| Likeness or picture                        | –2                    |
+| Possession or garment                      | –4                    |
+| Body part, lock of hair, bit of nail, etc. | –10                   |
 
 Dispel evil cast on the subject while you are casting the spell dispels the nightmare and causes you to be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 10 minutes per caster level of the dispel evil.
 
@@ -74,6 +74,6 @@ If the recipient is awake when the spell begins, you can choose to cease casting
 
 If you choose to enter a trance, you are not aware of your surroundings or the activities around you while in the trance.
 
-You are defenseless, both physically and mentally, while in the trance. (You always fail any saving throw, for example.)
+You are defenseless, both physically and mentally, while in the trance. (Attacks against your defenses always hit, for example.)
 
 Creatures who don’t sleep (such as elves, but not half-elves) or dream are immune to this spell.

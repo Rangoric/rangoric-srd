@@ -18,28 +18,28 @@ The spells a [[rangoric-srd/classes/Medium (Class)#^medium-spells|medium]] can l
 
 ##### 0-Level Medium Spells (Knacks)
 
-| Spell Name                                                                        | Brief Description                                    |
-| --------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| [[rangoric-srd/spells/Bleed\|Bleed]]:                                             | Cause a stabilized creature to resume dying.         |
-| [[rangoric-srd/spells/Dancing Lights\|Dancing Lights]]:                           | Creates torches or other lights.                     |
-| [[rangoric-srd/spells/Daze\|Daze]]:                                               | Humanoid creature of 4 HD or less loses next action. |
-| [[rangoric-srd/spells/Detect Magic\|Detect Magic]]:                               | Detects spells and magic items within 60 ft.         |
-| [[rangoric-srd/spells/Detect Psychic Significance\|Detect Psychic Significance]]: | Find psychically charged items.                      |
-| [[rangoric-srd/spells/Flare\|Flare]]:                                             | Dazzles one creature (–1 on attack rolls).           |
-| [[rangoric-srd/spells/Ghost Sound\|Ghost Sound]]:                                 | Figment sounds.                                      |
-| [[rangoric-srd/spells/Grave Words\|Grave Words]]:                                 | Force a corpse to babble.                            |
-| [[rangoric-srd/spells/Guidance\|Guidance]]:                                       | +1 on one attack roll, saving throw, or skill check. |
-| [[rangoric-srd/spells/Haunted Fey Aspect\|Haunted Fey Aspect]]:                   | You surround yourself with disturbing illusions.     |
-| [[rangoric-srd/spells/Light\|Light]]:                                             | Object shines like a torch.                          |
-| [[rangoric-srd/spells/Mage Hand\|Mage Hand]]:                                     | 5-pound telekinesis.                                 |
-| [[rangoric-srd/spells/Message\|Message]]:                                         | Whispered conversation at distance.                  |
-| [[rangoric-srd/spells/Open-Close\|Open-Close]] (F):                               | Opens or closes small or light things.               |
-| [[rangoric-srd/spells/Prestidigitation\|Prestidigitation]]:                       | Performs minor tricks.                               |
-| [[rangoric-srd/spells/Read Magic\|Read Magic]]:                                   | Read scrolls and spellbooks.                         |
-| [[rangoric-srd/spells/Resistance\|Resistance]]:                                   | Subject gains +1 on saving throws.                   |
-| [[rangoric-srd/spells/Sift\|Sift]]:                                               | See area as though examining it.                     |
-| [[rangoric-srd/spells/Stabilize (Spell)\|Stabilize (Spell)]]:                     | Cause a dying creature to stabilize.                 |
-| [[rangoric-srd/spells/Virtue\|Virtue]]:                                           | Subject gains 1 temporary hp.                        |
+| Spell Name                                                                        | Brief Description                                        |
+| --------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| [[rangoric-srd/spells/Bleed\|Bleed]]:                                             | Cause a stabilized creature to resume dying.             |
+| [[rangoric-srd/spells/Dancing Lights\|Dancing Lights]]:                           | Creates torches or other lights.                         |
+| [[rangoric-srd/spells/Daze\|Daze]]:                                               | Humanoid creature of 4 HD or less loses next action.     |
+| [[rangoric-srd/spells/Detect Magic\|Detect Magic]]:                               | Detects spells and magic items within 60 ft.             |
+| [[rangoric-srd/spells/Detect Psychic Significance\|Detect Psychic Significance]]: | Find psychically charged items.                          |
+| [[rangoric-srd/spells/Flare\|Flare]]:                                             | Dazzles one creature (–1 on attack rolls).               |
+| [[rangoric-srd/spells/Ghost Sound\|Ghost Sound]]:                                 | Figment sounds.                                          |
+| [[rangoric-srd/spells/Grave Words\|Grave Words]]:                                 | Force a corpse to babble.                                |
+| [[rangoric-srd/spells/Guidance\|Guidance]]:                                       | +1 on one attack roll or skill check, or to one defense. |
+| [[rangoric-srd/spells/Haunted Fey Aspect\|Haunted Fey Aspect]]:                   | You surround yourself with disturbing illusions.         |
+| [[rangoric-srd/spells/Light\|Light]]:                                             | Object shines like a torch.                              |
+| [[rangoric-srd/spells/Mage Hand\|Mage Hand]]:                                     | 5-pound telekinesis.                                     |
+| [[rangoric-srd/spells/Message\|Message]]:                                         | Whispered conversation at distance.                      |
+| [[rangoric-srd/spells/Open-Close\|Open-Close]] (F):                               | Opens or closes small or light things.                   |
+| [[rangoric-srd/spells/Prestidigitation\|Prestidigitation]]:                       | Performs minor tricks.                                   |
+| [[rangoric-srd/spells/Read Magic\|Read Magic]]:                                   | Read scrolls and spellbooks.                             |
+| [[rangoric-srd/spells/Resistance\|Resistance]]:                                   | Subject gains +1 on defenses.                            |
+| [[rangoric-srd/spells/Sift\|Sift]]:                                               | See area as though examining it.                         |
+| [[rangoric-srd/spells/Stabilize (Spell)\|Stabilize (Spell)]]:                     | Cause a dying creature to stabilize.                     |
+| [[rangoric-srd/spells/Virtue\|Virtue]]:                                           | Subject gains 1 temporary hp.                            |
 
 ##### 1st-Level Medium Spells
 
@@ -85,14 +85,14 @@ The spells a [[rangoric-srd/classes/Medium (Class)#^medium-spells|medium]] can l
 | [[rangoric-srd/spells/Object Reading (Spell)\|Object Reading (Spell)]]:     | Read psychic impressions left on an object.                                                      |
 | [[rangoric-srd/spells/Oneiric Horror\|Oneiric Horror]]:                     | Distract and fatigue the target with a creature from its nightmares.                             |
 | [[rangoric-srd/spells/Paranoia\|Paranoia]]:                                 | Target becomes hostile to all creatures.                                                         |
-| [[rangoric-srd/spells/Protection from Chaos\|Protection from Chaos]]:       | +2 to AC and saves, plus additional protection against selected alignment.                       |
-| [[rangoric-srd/spells/Protection from Evil\|Protection from Evil]]:         | +2 to AC and saves, counter mind control, hedge out elementals and outsiders.                    |
-| [[rangoric-srd/spells/Protection from Good\|Protection from Good]]:         | +2 to AC and saves, counter mind control, hedge out elementals and outsiders.                    |
-| [[rangoric-srd/spells/Protection from Law\|Protection from Law]]:           | +2 to AC and saves, counter mind control, hedge out elementals and outsiders.                    |
+| [[rangoric-srd/spells/Protection from Chaos\|Protection from Chaos]]:       | +2 to AC and defenses, plus additional protection against selected alignment.                    |
+| [[rangoric-srd/spells/Protection from Evil\|Protection from Evil]]:         | +2 to AC and defenses, counter mind control, hedge out elementals and outsiders.                 |
+| [[rangoric-srd/spells/Protection from Good\|Protection from Good]]:         | +2 to AC and defenses, counter mind control, hedge out elementals and outsiders.                 |
+| [[rangoric-srd/spells/Protection from Law\|Protection from Law]]:           | +2 to AC and defenses, counter mind control, hedge out elementals and outsiders.                 |
 | [[rangoric-srd/spells/Psychic Reading\|Psychic Reading]]:                   | Read surface thoughts to learn information about a subject.                                      |
 | [[rangoric-srd/spells/Quintessence (Spell)\|Quintessence (Spell)]]:         | Mask any flaws of or damage to a creature or object.                                             |
 | [[rangoric-srd/spells/Reduce Person\|Reduce Person]]:                       | Humanoid creature halves in size.                                                                |
-| [[rangoric-srd/spells/Remove Fear\|Remove Fear]]:                           | Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.         |
+| [[rangoric-srd/spells/Remove Fear\|Remove Fear]]:                           | Suppresses fear or gives +4 on defenses against fear for one subject + one per four levels.      |
 | [[rangoric-srd/spells/Restore Corpse\|Restore Corpse]]:                     | Skeletal corpse grows flesh.                                                                     |
 | [[rangoric-srd/spells/Rumormonger\|Rumormonger]]:                           | Follow a rumor to see where it spreads.                                                          |
 | [[rangoric-srd/spells/Share Language\|Share Language]] (M):                 | Subject understands chosen language.                                                             |
@@ -101,7 +101,7 @@ The spells a [[rangoric-srd/classes/Medium (Class)#^medium-spells|medium]] can l
 | [[rangoric-srd/spells/Summon Monster I\|Summon Monster I]]:                 | Calls extraplanar creature to fight for you.                                                     |
 | [[rangoric-srd/spells/True Strike\|True Strike]]:                           | +20 on your next attack roll.                                                                    |
 | [[rangoric-srd/spells/Unerring Weapon\|Unerring Weapon]]:                   | Grants a +2 bonus, +1 per four caster levels, on attack rolls to confirm a critical hit.         |
-| [[rangoric-srd/spells/Unprepared Combatant\|Unprepared Combatant]]:         | Target takes -4 on initiative and Reflex saves.                                                  |
+| [[rangoric-srd/spells/Unprepared Combatant\|Unprepared Combatant]]:         | Target takes -4 on initiative and Reflex Defense.                                                |
 | [[rangoric-srd/spells/Unseen Servant\|Unseen Servant]]:                     | [[rangoric-srd/rules/conditions/Invisibility (Condition)\|Invisible]] force obeys your commands. |
 | [[rangoric-srd/spells/Ventriloquism\|Ventriloquism]]:                       | Throws voice for 1 min./level.                                                                   |
 | [[rangoric-srd/spells/Vocal Alteration\|Vocal Alteration]]:                 | Disguise target's voice.                                                                         |
@@ -113,7 +113,7 @@ The spells a [[rangoric-srd/classes/Medium (Class)#^medium-spells|medium]] can l
 
 | Spell Name                                                                          | Brief Description                                                                                                                   |
 | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| [[rangoric-srd/spells/Aid\|Aid]]:                                                   | +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10).                                                     |
+| [[rangoric-srd/spells/Aid\|Aid]]:                                                   | +1 on attack rolls and defenses against fear, 1d8 temporary hp +1/level (max +10).                                                  |
 | [[rangoric-srd/spells/Alpha Instinct\|Alpha Instinct]] (M):                         | Gain bonuses when you're interacting with animals                                                                                   |
 | [[rangoric-srd/spells/Alter Self\|Alter Self]]:                                     | Assume form of a similar creature.                                                                                                  |
 | [[rangoric-srd/spells/Analyze Aura\|Analyze Aura]]:                                 | Read a creature’s or an object’s alignment, emotion, health, and magic auras.                                                       |
@@ -122,7 +122,7 @@ The spells a [[rangoric-srd/classes/Medium (Class)#^medium-spells|medium]] can l
 | [[rangoric-srd/spells/Augury\|Augury]] (M F):                                       | Learns whether an action will be good or bad.                                                                                       |
 | [[rangoric-srd/spells/Aura of the Unremarkable\|Aura of the Unremarkable]] (M):     | Make actions seem mundane to nearby creatures.                                                                                      |
 | [[rangoric-srd/spells/Bear’s Endurance\|Bear’s Endurance]]:                         | Subject gains +4 to Con for 1 min./level.                                                                                           |
-| [[rangoric-srd/spells/Bestow Curse\|Bestow Curse]]:                                 | –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.                                 |
+| [[rangoric-srd/spells/Bestow Curse\|Bestow Curse]]:                                 | –6 to an ability score; –4 on attack rolls, defenses, and checks; or 50% chance of losing each action.                              |
 | [[rangoric-srd/spells/Bestow Insight\|Bestow Insight]]:                             | Target gains a +2 insight bonus on skill checks with a skill you have at least one rank in and is considered trained in that skill. |
 | [[rangoric-srd/spells/Bestow Weapon Proficiency\|Bestow Weapon Proficiency]] (M):   | Grants a creature proficiency in a single weapon for short period of time.                                                          |
 | [[rangoric-srd/spells/Blood Biography\|Blood Biography]] (M):                       | Learn about a creature with its blood.                                                                                              |
@@ -153,9 +153,9 @@ The spells a [[rangoric-srd/classes/Medium (Class)#^medium-spells|medium]] can l
 | [[rangoric-srd/spells/Fox’s Cunning\|Fox’s Cunning]]:                               | Subject gains +4 Int for 1 min./level.                                                                                              |
 | [[rangoric-srd/spells/Gentle Repose\|Gentle Repose]]:                               | Preserves one corpse.                                                                                                               |
 | [[rangoric-srd/spells/Ghostly Disguise\|Ghostly Disguise]]:                         | You look like a ghost of yourself.                                                                                                  |
-| [[rangoric-srd/spells/Haste\|Haste]]:                                               | One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.                                                          |
+| [[rangoric-srd/spells/Haste\|Haste]]:                                               | One creature/level moves faster, +1 on attack rolls, AC, and Reflex Defense.                                                        |
 | [[rangoric-srd/spells/Helping Hand\|Helping Hand]]:                                 | Ghostly hand leads subject to you.                                                                                                  |
-| [[rangoric-srd/spells/Heroism\|Heroism]]:                                           | Gives +2 bonus on attack rolls, saves, skill checks.                                                                                |
+| [[rangoric-srd/spells/Heroism\|Heroism]]:                                           | Gives +2 bonus on attack rolls, defenses, skill checks.                                                                             |
 | [[rangoric-srd/spells/Hidden Speech\|Hidden Speech]] (M):                           | Gain +10 on Deception to send secret messages.                                                                                      |
 | [[rangoric-srd/spells/Hideous Laughter\|Hideous Laughter]]:                         | Subject loses actions for 1 round/level.                                                                                            |
 | [[rangoric-srd/spells/Hold Person\|Hold Person]]:                                   | Paralyzes one humanoid for 1 round/level.                                                                                           |

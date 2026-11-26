@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creatures or objects touched"
 duration: "1 hour/level"
-saving-throw: "Will negates (harmless, object)"
+defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
 book: "Ultimate Combat"
 based-on:
@@ -37,7 +37,7 @@ _Abjuration_
 - **Range**: Touch
 - **Target**: Creatures or objects touched
 - **Duration**: 1 hour/level
-- **Saving Throw**: Will negates (harmless, object)
+- **Defense**: Will (harmless, object)
 - **Spell Resistance**: Yes (harmless, object)
 
 This spell functions like _[[rangoric-srd/spells/Nondetection|nondetection]]_, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-hour increments among the creatures or objects touched.

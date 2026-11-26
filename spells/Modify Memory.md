@@ -18,7 +18,7 @@ casting-time: "1 round; see text"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One living creature"
 duration: "Permanent"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Modify Memory|Modify Memory (3.5)]]"
@@ -38,7 +38,7 @@ _Enchantment (Compulsion) \[Mind-Affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One living creature
 - **Duration**: Permanent
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 You reach into the subject’s mind and modify as many as 5 minutes of its memories in one of the following ways.
@@ -51,6 +51,6 @@ You reach into the subject’s mind and modify as many as 5 minutes of its memor
 
 - Implant a memory of an event the subject never experienced.
 
-Casting the spell takes 1 round. If the subject fails to save, you proceed with the spell by spending as much as 5 minutes (a period of time equal to the amount of memory time you want to modify) visualizing the memory you wish to modify in the subject. If your concentration is disturbed before the visualization is complete, or if the subject is ever beyond the spell’s range during this time, the spell is lost.
+Casting the spell takes 1 round. If the spell hits the subject, you proceed with the spell by spending as much as 5 minutes (a period of time equal to the amount of memory time you want to modify) visualizing the memory you wish to modify in the subject. If your concentration is disturbed before the visualization is complete, or if the subject is ever beyond the spell’s range during this time, the spell is lost.
 
 A modified memory does not necessarily affect the subject’s actions, particularly if it contradicts the creature’s natural inclinations. An illogical modified memory is dismissed by the creature as a bad dream or a memory muddied by too much wine.

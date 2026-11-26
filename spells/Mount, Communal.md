@@ -18,7 +18,7 @@ casting-time: "1 round"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "Up to six mounts"
 duration: "2 hours/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Combat"
 based-on:
@@ -39,7 +39,7 @@ _Conjuration (Summoning)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: Up to six mounts
 - **Duration**: 2 hours/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell functions like _[[rangoric-srd/spells/Mount|mount]]_, except you can summon up to six light horses or ponies, and you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 2-hour increments among the steeds summoned.

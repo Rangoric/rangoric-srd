@@ -17,7 +17,7 @@ casting-time: "1 round"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "1 ally/level"
 duration: "1 minute/level (D)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Advanced Class Guide"
 based-on:
@@ -38,7 +38,7 @@ _Illusion (Glamer)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Targets**: 1 ally/level
 - **Duration**: 1 minute/level (D)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 You suppress sounds made by the targets, granting them a +4 bonus on Stealth checks. The targets have a 20% chance of spell failure when casting spells with verbal components or using abilities that have audible components (such as some bardic performances). This spell does not hamper the targets' ability to hear other sounds and provides no protection against language-dependent or sonic spells and effects.

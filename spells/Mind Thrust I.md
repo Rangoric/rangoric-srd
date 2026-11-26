@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "Instantaneous"
-saving-throw: "Will half"
+defense: "Will half"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -33,7 +33,7 @@ _Divination \[Mind-Affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: Instantaneous
-- **Saving Throw**: Will half
+- **Defense**: Will half
 - **Spell Resistance**: Yes
 
-You divine the most vulnerable portions of your opponent's mind and overload it with a glut of psychic information. This attack deals 1d6 points of damage per caster level (maximum 5d6). The target receives a Will save for half damage. This attack has no effect on creatures without an Intelligence score.
+You divine the most vulnerable portions of your opponent's mind and overload it with a glut of psychic information. This attack deals 1d6 points of damage per caster level (maximum 5d6). The spell attacks the target’s Will, and a miss halves the damage. This attack has no effect on creatures without an Intelligence score.

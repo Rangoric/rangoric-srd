@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Your familiar or spirit animal; see text"
 duration: "Caster level hour(s)"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Ultimate Wilderness"
 based-on:
@@ -33,7 +33,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Your familiar or spirit animal; see text
 - **Duration**: Caster level hour(s)
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 As long as the target is at least one size category smaller than you are, it can merge harmlessly into your body while under the effect of this spell. For the duration of this spell, you and the target can separate or merge at will as a move action. While merged, your familiar or spirit animal can't be targeted or affected by most attacks and effects, though it still suffers from ongoing effects and their durations continue. It can be the recipient of effects that originate from you.

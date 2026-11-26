@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Personal or touch"
 target: "You or one creature"
 duration: "1–4 hours (see text)"
-saving-throw: "No or Will negates"
+defense: "No or Will"
 spell-resistance: "No or Yes"
 book: "Faeries"
 based-on:
@@ -40,12 +40,12 @@ _Enchantment (Compulsion) \[Mind-Affecting\]_
 - **Range**: Personal or touch
 - **Target**: You or one creature
 - **Duration**: 1–4 hours (see text)
-- **Saving Throw**: No or Will negates
+- **Defense**: No or Will
 - **Spell Resistance**: No or Yes
 
-This spell allows the recipient to more readily prepare his mind and body by halving the amount of sleep time needed. Each hour of _nap_ counts as two hours of full sleep. Once the caster has slept for four hours, spells can be prepared as normal. The physical and mental strain suffered due to lack of natural sleep followed by the preparation of spells manifests in 1 point of Constitution damage per hour and a –1 penalty to Will saves for every two hours of the _nap_ (usually −4 Con and −2 Will). Con damage suffered in this way can only be regained through sleep and rest—_[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]_ and _[[rangoric-srd/spells/Restoration, Greater|greater restoration]]_ have no effect. Will saves are only restored by fully returning to a full Constitution score.
+This spell allows the recipient to more readily prepare his mind and body by halving the amount of sleep time needed. Each hour of _nap_ counts as two hours of full sleep. Once the caster has slept for four hours, spells can be prepared as normal. The physical and mental strain suffered due to lack of natural sleep followed by the preparation of spells manifests in 1 point of Constitution damage per hour and a –1 penalty to Will Defense for every two hours of the _nap_ (usually −4 Con and −2 Will). Con damage suffered in this way can only be regained through sleep and rest—_[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]_ and _[[rangoric-srd/spells/Restoration, Greater|greater restoration]]_ have no effect. Will Defense is only restored by fully returning to a full Constitution score.
 
-If this spell is invoked again before the caster gets any natural sleep, the penalties stack with the previous penalties. If used a second time before full rest, the recipient suffers under a total penalty of −10 Con and −5 to Will saves. Three castings without rest sees the recipient suffering under a cumulative −16 Con and −9 Will. Casting a 4th time without rest generally sends a recipient into a comatose state until he naturally rests and restores his original Constitution score; this effect occurs if the recipient ever reaches 0 Con as well.
+If this spell is invoked again before the caster gets any natural sleep, the penalties stack with the previous penalties. If used a second time before full rest, the recipient suffers under a total penalty of −10 Con and −5 to Will Defense. Three castings without rest sees the recipient suffering under a cumulative −16 Con and −9 Will. Casting a 4th time without rest generally sends a recipient into a comatose state until he naturally rests and restores his original Constitution score; this effect occurs if the recipient ever reaches 0 Con as well.
 
 _Material Component_: A candle lit at both ends and a down feather from a pillow or bed.
 

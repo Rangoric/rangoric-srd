@@ -10,7 +10,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "Instantaneous"
-saving-throw: "Will half"
+defense: "Will half"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -31,7 +31,7 @@ _Divination_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: Instantaneous
-- **Saving Throw**: Will half
+- **Defense**: Will half
 - **Spell Resistance**: Yes
 
-This functions as _[[rangoric-srd/spells/Mind Thrust IV|mind thrust IV]]_, but the target is also exhausted for 1 round if it fails its save and fatigued for 1 round if it succeeds at its save. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].
+This functions as _[[rangoric-srd/spells/Mind Thrust IV|mind thrust IV]]_, but the target is also exhausted for 1 round on a hit and fatigued for 1 round on a miss. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].
