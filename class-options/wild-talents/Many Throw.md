@@ -26,6 +26,6 @@ _A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|
 - **Burn**: 4
 - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Extended Range|extended range]]
 - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Telekinetic Blast|telekinesis]]
-- **Saving Throw**: none
+- **Defense**: none
 
 You grab a large number of objects and throw them all at once. You can use your [[rangoric-srd/class-options/wild-talents/Telekinetic Blast|telekinetic blast]] to make attack rolls against a number of targets equal to your kineticist level within 120 feet, but no two targets can be more than 30 feet apart.

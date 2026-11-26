@@ -10,7 +10,7 @@ manifesting-time: "1 hour"
 range: "Touch"
 target: "Creature touched"
 duration: "See text"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 power-resistance: "Yes (harmless)"
 power-points: "1"
 based-on:
@@ -30,7 +30,7 @@ Manifesting Time: 1 hour
 Range: Touch  
 Target: Creature touched  
 Duration: See text  
-Saving Throw: Will negates (harmless)  
+Defense: Will (harmless)  
 Power Resistance: Yes (harmless)  
 Power Points: 1
 

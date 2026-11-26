@@ -24,7 +24,7 @@ _A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|u
 - **Type**: utility (Sp)
 - **Level**: 1
 - **Burn**: 0
-- **Saving Throw**: none
+- **Defense**: none
 - **Spell Resistance**: yes
 
 When you whisper, you can have the wind carry your voice to the ears of anyone you can see within 120 feet, as if they were one of the targets of a _[[rangoric-srd/spells/Message|message]]_ spell you cast. Alternatively, you can send your voice to a distant location as if casting _[[rangoric-srd/spells/Whispering Wind|whispering wind]]_.

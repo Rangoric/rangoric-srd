@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/overview]
 
 # Wild Talents
 
-Kineticists’ wild talents shape the expression of their powers. How a [[rangoric-srd/classes/Kineticist|kineticist]] learns and uses them, their effective spell levels and save DCs are in her [[rangoric-srd/classes/Kineticist#^kineticist-wild-talents|wild talents]] class feature; which ones she can choose depends on her [[rangoric-srd/class-options/elements/Elements|element]]. Each wild talent has its own note, listed below.
+Kineticists’ wild talents shape the expression of their powers. How a [[rangoric-srd/classes/Kineticist|kineticist]] learns and uses them, their effective spell levels and attack bonuses are in her [[rangoric-srd/classes/Kineticist#^kineticist-wild-talents|wild talents]] class feature; which ones she can choose depends on her [[rangoric-srd/class-options/elements/Elements|element]]. Each wild talent has its own note, listed below.
 
 ## Kinetic Blasts
 

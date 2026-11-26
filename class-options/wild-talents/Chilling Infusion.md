@@ -25,6 +25,6 @@ _A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|
 - **Level**: 5
 - **Burn**: 3
 - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Blizzard Blast|blizzard]], [[rangoric-srd/class-options/wild-talents/Cold Blast|cold]], [[rangoric-srd/class-options/wild-talents/Ice Blast|ice]]
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 
 Your kinetic blast chills your foes to the bone, making their movements sluggish. Whenever an infused blast deals cold damage to a foe, that foe is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1 round.

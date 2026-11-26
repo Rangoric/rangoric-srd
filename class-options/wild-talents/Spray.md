@@ -25,6 +25,6 @@ _A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|
 - **Level**: 4
 - **Burn**: 3
 - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Charged Water Blast|charged water]], [[rangoric-srd/class-options/wild-talents/Water Blast|water]]
-- **Saving Throw**: Reflex half
+- **Defense**: Reflex half
 
-You diffuse your kinetic blast to spray out wildly. All creatures and objects in a 30-foot cone take half your normal amount of blast damage. The saving throw DC is Dexterity-based.
+You diffuse your kinetic blast to spray out wildly. All creatures and objects in a 30-foot cone take half your normal amount of blast damage. The attack bonus is Dexterity-based.

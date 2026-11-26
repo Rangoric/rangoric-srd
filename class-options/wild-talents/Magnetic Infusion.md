@@ -25,6 +25,6 @@ _A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|
 - **Level**: 3
 - **Burn**: 2
 - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Charged Water Blast|charged water]], [[rangoric-srd/class-options/wild-talents/Electric Blast|electric]], [[rangoric-srd/class-options/wild-talents/Metal Blast|metal]], [[rangoric-srd/class-options/wild-talents/Plasma Blast|plasma]], [[rangoric-srd/class-options/wild-talents/Thunderstorm Blast|thunderstorm]]
-- **Saving Throw**: none
+- **Defense**: none
 
-Your kinetic blast causes your foes to become mildly magnetic. Whenever an infused blast deals damage to a foe, attacks made with metal weapons (including metal kinetic blasts) against that foe receive a +4 bonus until the end of your next turn, and the foe takes a –4 penalty on Reflex saving throws to avoid metallic objects.
+Your kinetic blast causes your foes to become mildly magnetic. Whenever an infused blast deals damage to a foe, attacks made with metal weapons (including metal kinetic blasts) against that foe receive a +4 bonus until the end of your next turn, and the foe takes a –4 penalty on Reflex Defense to avoid metallic objects.

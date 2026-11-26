@@ -25,6 +25,6 @@ _A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|
 - **Level**: 3
 - **Burn**: 2
 - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Gravity Blast|gravity]], [[rangoric-srd/class-options/wild-talents/Negative Blast|negative]], [[rangoric-srd/class-options/wild-talents/Void Blast|void]]
-- **Saving Throw**: none
+- **Defense**: none
 
 Your kinetic blast creates darkness. Treat each square of the path of your ranged attack kinetic blast, the target square of your melee attack kinetic blast, or the area of your area of effect kinetic blast as the center of a _[[rangoric-srd/spells/Darkness|darkness]]_ effect that lasts until the end of your next turn. This effect counts as a 3rd-level darkness spell.

@@ -25,6 +25,6 @@ _A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|
 - **Level**: 4
 - **Burn**: 3
 - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Autumn Blast|autumn]], [[rangoric-srd/class-options/wild-talents/Spring Blast|spring]], [[rangoric-srd/class-options/wild-talents/Summer Blast|summer]], [[rangoric-srd/class-options/wild-talents/Verdant Blast|verdant]], [[rangoric-srd/class-options/wild-talents/Winter Blast|winter]], [[rangoric-srd/class-options/wild-talents/Wood Blast|wood]]
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 
 The plants in your blast are mildly toxic. All creatures that take piercing or slashing damage from your blast are [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1 round.

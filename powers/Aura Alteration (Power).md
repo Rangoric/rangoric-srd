@@ -37,7 +37,7 @@ You can use this power in one of two ways: to disguise the subject’s aura (ali
 
 Disguise: If you use this power to disguise the subject’s alignment and level, the power has a duration of 10 minutes per level. You can change the subject’s alignment by only one step. You can adjust the subject’s apparent level up or down by a number equal to one-half your own level (rounded down) or less.
 
-Remove Compulsion: If you use this power to attempt to cleanse the subject’s aura of a baleful or controlling effect, the duration is instantaneous. This power can remove the compulsion of a curse or a geas/quest effect. It can also negate any charm and compulsion powers of 6th level or lower, such as [[rangoric-srd/powers/Crisis of Breath|crisis of breath]] or [[rangoric-srd/powers/Death Urge|death urge]]. When aura alteration is manifested for this purpose, the subject gains another saving throw to remove the compulsion afflicting it against the original save DC, but with a +2 bonus.
+Remove Compulsion: If you use this power to attempt to cleanse the subject’s aura of a baleful or controlling effect, the duration is instantaneous. This power can remove the compulsion of a curse or a geas/quest effect. It can also negate any charm and compulsion powers of 6th level or lower, such as [[rangoric-srd/powers/Crisis of Breath|crisis of breath]] or [[rangoric-srd/powers/Death Urge|death urge]]. When aura alteration is manifested for this purpose, the subject can make the compulsion afflicting it attack it again, with the original attack bonus but a +2 bonus to its defense, and a miss removes the compulsion.
 
 Augment: You can augment this power in one or both of the following ways.
 

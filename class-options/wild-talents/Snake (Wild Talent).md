@@ -26,6 +26,6 @@ _A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|
 - **Burn**: 2
 - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Extended Range|extended range]]
 - **Associated Blasts**: any
-- **Saving Throw**: none
+- **Defense**: none
 
 You have fine control over your kinetic blast, allowing you to alter its path to avoid obstacles. You can trace out any path no more than 120 feet long for your blast, potentially allowing you to avoid cover (even total cover). You can choose a path that leads into squares you cannot see.

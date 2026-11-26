@@ -26,6 +26,6 @@ _A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|
 - **Burn**: 2
 - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Extended Range|extended range]]
 - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Blue Flame Blast|blue flame]], [[rangoric-srd/class-options/wild-talents/Fire Blast|fire]], [[rangoric-srd/class-options/wild-talents/Magma Blast|magma]], [[rangoric-srd/class-options/wild-talents/Steam Blast|steam]]
-- **Saving Throw**: Reflex half
+- **Defense**: Reflex half
 
-Your kinetic blast erupts from the ground in a pillar centered anywhere within 120 feet of you. The pillar affects all creatures and objects in a 10-foot-radius cylinder that extends 40 feet above the ground. An energy blast infused with eruption deals its normal damage to each target, while a physical blast deals half its normal amount of damage. The saving throw DC is Dexterity-based.
+Your kinetic blast erupts from the ground in a pillar centered anywhere within 120 feet of you. The pillar affects all creatures and objects in a 10-foot-radius cylinder that extends 40 feet above the ground. An energy blast infused with eruption deals its normal damage to each target, while a physical blast deals half its normal amount of damage. The attack bonus is Dexterity-based.

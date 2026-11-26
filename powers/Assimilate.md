@@ -9,7 +9,7 @@ manifesting-time: "1 standard action"
 range: "Touch"
 target: "One living creature touched"
 duration: "Instantaneous and 1 hour; see text"
-saving-throw: "Fortitude half"
+defense: "Fortitude half"
 power-resistance: "Yes"
 power-points: "17"
 based-on:
@@ -29,7 +29,7 @@ Manifesting Time: 1 standard action
 Range: Touch  
 Target: One living creature touched  
 Duration: Instantaneous and 1 hour; see text  
-Saving Throw: Fortitude half  
+Defense: Fortitude half  
 Power Resistance: Yes  
 Power Points: 17
 

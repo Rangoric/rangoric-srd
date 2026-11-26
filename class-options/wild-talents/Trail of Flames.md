@@ -24,7 +24,7 @@ _A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|u
 - **Type**: utility (Sp)
 - **Level**: 5
 - **Burn**: 0
-- **Saving Throw**: none
+- **Defense**: none
 - **Spell Resistance**: yes
 
 When you take the withdraw or run action, you can leave a _[[rangoric-srd/spells/Wall of Fire|wall of fire]]_ in all squares you exit that lasts for 1 round.

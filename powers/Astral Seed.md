@@ -9,7 +9,7 @@ manifesting-time: "10 minutes"
 range: "0 ft."
 effect: "One storage crystal"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "15"
 based-on:
@@ -29,7 +29,7 @@ Manifesting Time: 10 minutes
 Range: 0 ft.  
 Effect: One storage crystal  
 Duration: Instantaneous  
-Saving Throw: None  
+Defense: None  
 Power Resistance: No  
 Power Points: 15
 

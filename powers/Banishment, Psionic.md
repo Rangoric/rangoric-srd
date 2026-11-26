@@ -9,7 +9,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "One or more extraplanar creatures, no two of which can be more than 30 ft. apart"
 duration: "Instantaneous"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "11"
 based-on:
@@ -29,7 +29,7 @@ Manifesting Time: 1 standard action
 Range: Close (25 ft. + 5 ft./2 levels)  
 Targets: One or more extraplanar creatures, no two of which can be more than 30 ft. apart  
 Duration: Instantaneous  
-Saving Throw: Will negates  
+Defense: Will  
 Power Resistance: Yes  
 Power Points: 11
 
@@ -37,4 +37,4 @@ As the [[rangoric-srd/spells/Banishment|banishment]] spell, except as noted here
 
 Psions gain no benefit from presenting objects or substances that the target hates, fears, or otherwise opposes.
 
-Augment: For every 2 additional power points you spend, this power’s save DC increases by 1 and your manifester level increases by 1 for the purpose of overcoming power resistance.
+Augment: For every 2 additional power points you spend, this power’s attack bonus increases by 1 and your manifester level increases by 1 for the purpose of overcoming power resistance.

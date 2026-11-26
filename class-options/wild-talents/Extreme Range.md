@@ -26,6 +26,6 @@ _A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|
 - **Burn**: 2
 - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Extended Range|extended range]]
 - **Associated Blasts**: any
-- **Saving Throw**: none
+- **Defense**: none
 
 Your kinetic blast can strike any target within 480 feet.

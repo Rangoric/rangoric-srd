@@ -25,6 +25,6 @@ _A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|
 - **Level**: 7
 - **Burn**: 4
 - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Blue Flame Blast|blue flame]]
-- **Saving Throw**: none
+- **Defense**: none
 
 You open a direct conduit to the purest elemental fire and send it surging forth. Your infused blast ignores [[rangoric-srd/rules/Special Abilities and Conditions#Spell Resistance|spell resistance]].

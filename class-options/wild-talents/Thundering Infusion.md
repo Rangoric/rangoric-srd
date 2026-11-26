@@ -25,6 +25,6 @@ _A [[rangoric-srd/class-options/wild-talents/Wild Talents#Infusion Wild Talents|
 - **Level**: 1
 - **Burn**: 1
 - **Associated Blasts**: [[rangoric-srd/class-options/wild-talents/Electric Blast|electric]], [[rangoric-srd/class-options/wild-talents/Thunderstorm Blast|thunderstorm]]
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 
 Your lightning brings with it a peal of thunder. Whenever your infused blast hits a foe and penetrates [[rangoric-srd/rules/Special Abilities and Conditions#Spell Resistance|spell resistance]], that foe becomes [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]], even if the blast doesn’t deal damage.
