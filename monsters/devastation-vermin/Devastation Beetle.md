@@ -16,7 +16,7 @@ full-attack: "Bite 25d10+24"
 space-reach: "50 ft./40 ft."
 special-attacks: "Trample 30d10+24, acid cloud"
 special-qualities: "Darkvision 300 ft., SR 60, DR 20/-"
-saves: "Fort +84, Ref +52, Will +42"
+defenses: "Fort 94, Ref 62, Will 52"
 abilities: "Str 42, Dex 31, Con 46, Int -, Wis 10, Cha 9"
 skills: "Athletics +146 (+162 jumping), Perception +0"
 skill-ranks: "Athletics 128, Perception 0"
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 50 ft./40 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] 30d10+24, acid cloud
 - **Special Qualities**: Darkvision 300 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 60, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 20/-
-- **Saves**: Fort +84, Ref +52, Will +42
+- **Defenses**: Fort 94, Ref 62, Will 52
 - **Abilities**: Str 42, Dex 31, Con 46, Int -, Wis 10, Cha 9
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +146 (+162 jumping), [[rangoric-srd/skills/Perception|Perception]] +0
 - **Climate/Terrain**: Any land
@@ -57,6 +57,6 @@ tags: [rangoric, rangoric/monster]
 - **Alignment**: Always neutral
 - **Advancement**: None
 
-Trample (Ex): A devastation beetle can [[rangoric-srd/monsters/abilities/Trample|trample]] Gargantuan and smaller creatures for 30d10+24 points of damage. Opponents who do not make attacks of opportunity against the devastation beetle can attempt a Reflex save (DC 90) to halve the damage.
+Trample (Ex): A devastation beetle can [[rangoric-srd/monsters/abilities/Trample|trample]] Gargantuan and smaller creatures for 30d10+24 points of damage. Opponents who do not make attacks of opportunity against the devastation beetle are attacked at +80 vs Reflex, and a miss halves the damage.
 
 Acid Cloud (Ex): A devastation beetle exudes a constant vapor that radiates outward in every direction for 60 feet. This vapor deals 6d6 points of acid damage each round to anyone caught in the cloud.

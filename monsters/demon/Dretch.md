@@ -16,7 +16,7 @@ full-attack: "2 claws +4 melee (1d4+1) and bite +4 melee (1d4+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., telepathy 100 ft. limited to Abyssal-speaking targets, damage reduction 5/cold iron or good, immunity to electricity and poison, resistance to acid 10, cold 10 and fire 10"
-saves: "Fort +5, Ref +0, Will +3"
+defenses: "Fort 15, Ref 10, Will 13"
 abilities: "Str 12, Dex 10, Con 14, Int 5, Wis 11, Cha 11"
 skills: "Escape Artist +5, Perception +5, Stealth +9"
 skill-ranks: "Escape Artist 2, Perception 2, Stealth 2"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft. limited to Abyssal-speaking targets, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron or good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and fire 10
-- **Saves**: Fort +5, Ref +0, Will +3
+- **Defenses**: Fort 15, Ref 10, Will 13
 - **Abilities**: Str 12, Dex 10, Con 14, Int 5, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]
@@ -78,4 +78,4 @@ Dretches cannot speak but can communicate telepathically.
 
 Dretches are slow, stupid, and not very effective combatants. In one-on-one combat, they rely on their damage reduction to keep them alive. In groups, they depend on sheer numbers to overcome foes and immediately summon other dretches to improve the odds in battle. They flee at the first sign of adversity unless more powerful demons are present to intimidate them into fighting. Dretches’ fear of their greater kin is stronger than even their fear of death.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 2nd): 1/day—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (DC 11), _[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_ (DC 13), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 1, 1 [[rangoric-srd/monsters/demon/Dretch|dretch]] 35%).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 2nd): 1/day—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (+1 vs Will), _[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_ (+3 vs Fortitude), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 1, 1 [[rangoric-srd/monsters/demon/Dretch|dretch]] 35%).

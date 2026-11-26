@@ -16,7 +16,7 @@ full-attack: "Bite +101 (18d10+19 plus poison) melee"
 space-reach: "50 ft./40 ft."
 special-attacks: "Poison"
 special-qualities: "Darkvision 300 ft., SR 50, DR 10/-"
-saves: "Fort +76, Ref +56, Will +42"
+defenses: "Fort 86, Ref 66, Will 52"
 abilities: "Str 37, Dex 39, Con 30, Int -, Wis 10, Cha 2"
 skills: "Athletics +144 (+152 climbing, +156 jumping), Perception +8 (+12), Stealth +2 (–2)"
 skill-ranks: "Athletics 128, Perception 0, Stealth 0"
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 50 ft./40 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: Darkvision 300 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 50, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/-
-- **Saves**: Fort +76, Ref +56, Will +42
+- **Defenses**: Fort 86, Ref 66, Will 52
 - **Abilities**: Str 37, Dex 39, Con 30, Int -, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +144 (+152 climbing, +156 jumping), [[rangoric-srd/skills/Perception|Perception]] +8 (+12), [[rangoric-srd/skills/Stealth|Stealth]] +2 (–2)
 - **Climate/Terrain**: Any land
@@ -57,7 +57,7 @@ tags: [rangoric, rangoric/monster]
 - **Alignment**: Always neutral
 - **Advancement**: None
 
-Poison (Ex): Bite, Fort save (DC 94); initial and secondary damage 2d12 temporary Con.
+Poison (Ex): Bite, +84 vs Fortitude; initial and secondary damage 2d12 temporary Con.
 
 Web (Ex): A single web strand is strong enough to support the spider and one creature of Gargantuan size. Web-spinning devastation spiders can cast a web eight times per day. This is similar to an attack with a [[rangoric-srd/equipment/weapons/Net|net]] but has a maximum range of 150 feet, with a range increment of 30 feet, and is effective against targets of up to Gargantuan size. The web anchors the target in place, allowing no movement. An [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] creature can escape with a successful [[rangoric-srd/skills/Escape Artist|Escape Artist]] check (DC 38) or burst it with a Strength check (DC 44). Both are standard actions. Web-spinning spiders often create sheets of sticky webbing about 1,000 feet square. They usually position these sheets to snare flying creatures but can also try to trap prey on the ground. Approaching creatures must succeed at a [[rangoric-srd/skills/Perception|Perception]] check (DC 20) to notice a web; otherwise, they stumble into it and become trapped as though by a successful web attack. Attempts to escape or burst the webbing gain a +5 bonus if the trapped creature has something to walk on or grab while pulling free. Each 5-foot section has 24 hit points, and sheet webs have [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 20/fire. A devastation spider can move across its own sheet web at its climb speed and can determine the exact location of any creature caught in the web.
 

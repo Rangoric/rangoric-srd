@@ -13,9 +13,9 @@ cmd: "24 (28 vs. trip)"
 attack: "Tail slap +8 melee (2d6+9)"
 full-attack: "Tail slap +8 melee (2d6+9)"
 space-reach: "15 ft./15 ft."
-special-attacks: "Trample (2d6+9; DC 19)"
+special-attacks: "Trample (2d6+9; +9 vs Reflex)"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +8, Ref +7, Will +3"
+defenses: "Fort 18, Ref 17, Will 13"
 abilities: "Str 23, Dex 14, Con 17, Int 2, Wis 13, Cha 10"
 skills: "Perception +13"
 skill-ranks: "Perception 9"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Tail slap +8 melee (2d6+9)
 - **Full Attack**: Tail slap +8 melee (2d6+9)
 - **Space/Reach**: 15 ft./15 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (2d6+9; DC 19)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (2d6+9; +9 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +8, Ref +7, Will +3
+- **Defenses**: Fort 18, Ref 17, Will 13
 - **Abilities**: Str 23, Dex 14, Con 17, Int 2, Wis 13, Cha 10
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +13
 - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

@@ -16,7 +16,7 @@ full-attack: "Bite +5 melee (1d6 plus 1d6 acid and disease)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Disease, spell-like abilities"
 special-qualities: "Darkvision 60 ft., telepathy 100 ft., infernal eye, damage reduction 5/good or silver, immunity to fire and poison, resistance to acid 10 and cold 10"
-saves: "Fort +6, Ref +10, Will +3"
+defenses: "Fort 16, Ref 20, Will 13"
 abilities: "Str 11, Dex 18, Con 14, Int 9, Wis 15, Cha 12"
 skills: "Acrobatics +21, Deception +8, Perception +9, Stealth +15, Theology +6"
 skill-ranks: "Acrobatics 12, Deception 4, Perception 4, Stealth 4, Theology 4"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Infernal Eye|infernal eye]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good or silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10
-- **Saves**: Fort +6, Ref +10, Will +3
+- **Defenses**: Fort 16, Ref 20, Will 13
 - **Abilities**: Str 11, Dex 18, Con 14, Int 9, Wis 15, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +21, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +6
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
@@ -77,6 +77,6 @@ Accuser devils speak Celestial, Draconic and Infernal.
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +9): At will—_[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 3/day—_[[rangoric-srd/spells/Grease|grease]]_, _[[rangoric-srd/spells/Summon Swarm|summon swarm]]_, _[[rangoric-srd/spells/Whispering Wind|whispering wind]]_; 1/day—[[rangoric-srd/monsters/abilities/Summon|summon]] (level 3, 1 zebub or 1d4 lemures, 40%).
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Devil Chills|Devil Chills]]: Bite—injury; _save_ Fort DC 14; _onset_ 1d4 days; _frequency_ 1 day; _effect_ 1d4 Str damage; _cure_ 3 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Devil Chills|Devil Chills]]: Bite—injury; _attack_ +4 vs Fortitude; _onset_ 1d4 days; _frequency_ 1 day; _effect_ 1d4 Str damage; _cure_ 3 consecutive misses.
 
 **[[rangoric-srd/monsters/abilities/Infernal Eye|Infernal Eye]] (Su)**: A zebub records all that it sees and may pass its visions on to another creature. By remaining in contact with a willing creature, it can replay up to 24 hours of witnessed events, or shorter incidents if it so chooses. It takes a zebub 1 round to replay 1 hour of recorded images, which the target receives in a flash of information, without sound or other sensory information. After relaying its findings, the zebub cannot replay its visions of those events again. A zebub cannot replay its visions for an unwilling creature or as an attack, no matter how horrific the events it might have witnessed.

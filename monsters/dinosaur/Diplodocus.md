@@ -13,9 +13,9 @@ cmd: "50 (52 vs. bull rush, 54 vs. trip)"
 attack: "Tail lashes +22 melee (4d6+15/19–20)"
 full-attack: "2 tail lashes +22 melee (4d6+15/19–20)"
 space-reach: "30 ft./60 ft."
-special-attacks: "Trample (2d8+22, DC 35)"
+special-attacks: "Trample (2d8+22, +25 vs Reflex)"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +17, Ref +14, Will +11"
+defenses: "Fort 27, Ref 24, Will 21"
 abilities: "Str 40, Dex 14, Con 21, Int 2, Wis 17, Cha 11"
 skills: "Perception +32"
 skill-ranks: "Perception 26"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Tail lashes +22 melee (4d6+15/19–20)
 - **Full Attack**: 2 tail lashes +22 melee (4d6+15/19–20)
 - **Space/Reach**: 30 ft./60 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (2d8+22, DC 35)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (2d8+22, +25 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +17, Ref +14, Will +11
+- **Defenses**: Fort 27, Ref 24, Will 21
 - **Abilities**: Str 40, Dex 14, Con 21, Int 2, Wis 17, Cha 11
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +32
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (tail lash), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Staggering Critical|Staggering Critical]]

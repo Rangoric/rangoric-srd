@@ -16,7 +16,7 @@ full-attack: "2 claws +2 melee (1d4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., see in darkness, damage reduction 5/good or silver, immunity to fire, mind-affecting effects and poison, resistance to acid 10 and cold 10"
-saves: "Fort +4, Ref +3, Will +0"
+defenses: "Fort 14, Ref 13, Will 10"
 abilities: "Str 11, Dex 10, Con 12, Int —, Wis 11, Cha 5"
 skills: "—"
 skill-ranks: ""
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good or silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, mind-affecting effects and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10
-- **Saves**: Fort +4, Ref +3, Will +0
+- **Defenses**: Fort 14, Ref 13, Will 10
 - **Abilities**: Str 11, Dex 10, Con 12, Int —, Wis 11, Cha 5
 - **Skills**: —
 - **Feats**: —

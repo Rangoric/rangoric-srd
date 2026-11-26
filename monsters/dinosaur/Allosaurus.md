@@ -15,7 +15,7 @@ full-attack: "Bite +14 melee (2d6+8/19–20 plus grab) and 2 claws +14 melee (1d
 space-reach: "15 ft./15 ft."
 special-attacks: "Pounce, rake (2 talons +14, 1d8+8)"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +11, Ref +8, Will +7"
+defenses: "Fort 21, Ref 18, Will 17"
 abilities: "Str 26, Dex 13, Con 19, Int 2, Wis 15, Cha 10"
 skills: "Perception +32"
 skill-ranks: "Perception 17"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 talons +14, 1d8+8)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +11, Ref +8, Will +7
+- **Defenses**: Fort 21, Ref 18, Will 17
 - **Abilities**: Str 26, Dex 13, Con 19, Int 2, Wis 15, Cha 10
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +32
 - **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

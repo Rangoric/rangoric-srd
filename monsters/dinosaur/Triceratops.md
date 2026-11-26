@@ -13,9 +13,9 @@ cmd: "29 (33 vs. trip)"
 attack: "Gore +17 melee (2d10+12/19–20)"
 full-attack: "Gore +17 melee (2d10+12/19–20)"
 space-reach: "15 ft./15 ft."
-special-attacks: "Powerful charge (gore, 4d10+16), trample (1d8+12, DC 25)"
+special-attacks: "Powerful charge (gore, 4d10+16), trample (1d8+12, +15 vs Reflex)"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +15, Ref +8, Will +5"
+defenses: "Fort 25, Ref 18, Will 15"
 abilities: "Str 26, Dex 9, Con 19, Int 2, Wis 12, Cha 7"
 skills: "Perception +24"
 skill-ranks: "Perception 20"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Gore +17 melee (2d10+12/19–20)
 - **Full Attack**: Gore +17 melee (2d10+12/19–20)
 - **Space/Reach**: 15 ft./15 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (gore, 4d10+16), [[rangoric-srd/monsters/abilities/Trample|trample]] (1d8+12, DC 25)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (gore, 4d10+16), [[rangoric-srd/monsters/abilities/Trample|trample]] (1d8+12, +15 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +15, Ref +8, Will +5
+- **Defenses**: Fort 25, Ref 18, Will 15
 - **Abilities**: Str 26, Dex 9, Con 19, Int 2, Wis 12, Cha 7
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +24
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (gore), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (gore)

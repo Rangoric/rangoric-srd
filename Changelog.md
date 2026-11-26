@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-26 | Saving throws as defenses, monsters (DF 68): dark-folk to dinosaur attack a defense instead of allowing a save. | [[DF Batch 68 Changes]] | | [[Saving Throws as Defenses]] DF 68 |
 | 2026-11-26 | Saving throws as defenses, monsters (DF 67): asuras to dark-folk attack a defense instead of allowing a save. | [[DF Batch 67 Changes]] | | [[Saving Throws as Defenses]] DF 67 |
 | 2026-11-26 | Saving throws as defenses, monster abilities and monsters (DF 66): Touch of Madness to Writhing Snakes, and aeons to astral-construct, attack a defense instead of allowing a save. | [[DF Batch 66 Changes]] | | [[Saving Throws as Defenses]] DF 66 |
 | 2026-11-26 | Saving throws as defenses, monster abilities (DF 65): Seed to Token of Fortune attack a defense instead of allowing a save. | [[DF Batch 65 Changes]] | | [[Saving Throws as Defenses]] DF 65 |

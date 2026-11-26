@@ -15,7 +15,7 @@ full-attack: "Gore +8 melee (2d6+9)"
 space-reach: "10 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, scent, ferocity"
-saves: "Fort +7, Ref +4, Will +2"
+defenses: "Fort 17, Ref 14, Will 12"
 abilities: "Str 23, Dex 10, Con 17, Int 2, Wis 13, Cha 8"
 skills: "Perception +12"
 skill-ranks: "Perception 8"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]]
-- **Saves**: Fort +7, Ref +4, Will +2
+- **Defenses**: Fort 17, Ref 14, Will 12
 - **Abilities**: Str 23, Dex 10, Con 17, Int 2, Wis 13, Cha 8
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +12
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]]

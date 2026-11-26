@@ -15,7 +15,7 @@ full-attack: "Bite +8 melee (1d8+7/19–20)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Tearing bite"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +8, Ref +6, Will +2"
+defenses: "Fort 18, Ref 16, Will 12"
 abilities: "Str 20, Dex 15, Con 18, Int 1, Wis 12, Cha 3"
 skills: "Perception +6, Stealth +3"
 skill-ranks: "Perception 2, Stealth 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: Tearing bite
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +8, Ref +6, Will +2
+- **Defenses**: Fort 18, Ref 16, Will 12
 - **Abilities**: Str 20, Dex 15, Con 18, Int 1, Wis 12, Cha 3
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +3
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)

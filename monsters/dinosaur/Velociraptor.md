@@ -15,7 +15,7 @@ full-attack: "Bite +6 melee (1d4+1) and 2 talons +6 melee (1d6+1/19–20)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Leaping charge"
 special-qualities: "Low-light vision, scent, evasion"
-saves: "Fort +6, Ref +6, Will +3"
+defenses: "Fort 16, Ref 16, Will 13"
 abilities: "Str 13, Dex 17, Con 17, Int 2, Wis 14, Cha 14"
 skills: "Acrobatics +11, Athletics +1 (+13 jumping), Perception +10, Stealth +15"
 skill-ranks: "Acrobatics 1, Athletics 0, Perception 1, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Leaping charge
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]]
-- **Saves**: Fort +6, Ref +6, Will +3
+- **Defenses**: Fort 16, Ref 16, Will 13
 - **Abilities**: Str 13, Dex 17, Con 17, Int 2, Wis 14, Cha 14
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +1 (+13 jumping), [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +15
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
