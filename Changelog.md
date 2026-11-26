@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-26 | Saving throws as defenses, spells (DF 34): Black Tentacles to Calm Animals and the Bloodrager spell list attack a defense instead of allowing a save; new saves make the spell attack again, and objects and other things with no save are hit automatically. | [[DF Batch 34 Changes]] | | [[Saving Throws as Defenses]] DF 34 |
 | 2026-11-26 | Saving throws as defenses, spells (DF 33): Ant Haul to Black Mark and the Antipaladin and Bard spell lists attack a defense instead of allowing a save; new saves make the spell attack again, and the spell lists' save bonuses are on defenses. | [[DF Batch 33 Changes]] | | [[Saving Throws as Defenses]] DF 33 |
 | 2026-11-26 | Saving throws as defenses, powers and spells (DF 32): the last psionic powers and the first spells attack a defense instead of allowing a save; the Saving Throw lines become Defense, and save DCs become attack bonuses. | [[DF Batch 32 Changes]] | | [[Saving Throws as Defenses]] DF 32 |
 | 2026-11-26 | Saving throws as defenses, powers (DF 31): Exhalation of the Black Dragon to Skate attack a defense instead of allowing a save; repeated saves make the power attack again, rerolls make the attack reroll, and Remote Viewing's modifiers are on Will Defense. | [[DF Batch 31 Changes]] | | [[Saving Throws as Defenses]] DF 31 |
