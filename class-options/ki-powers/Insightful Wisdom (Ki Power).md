@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Unchained Monk#^unchained-monk-ki-powers|ki power]] (Su)._
 
-A monk with this ability can spend 2 ki points as an immediate action to give another ally within 30 feet just the right word of advice to prevent disaster. If the ally can hear the monk, she can reroll a single attack roll or saving throw. The ally must take the second result, even if it is worse. A monk must be at least 8th level before selecting this ki power.
+A monk with this ability can spend 2 ki points as an immediate action to give another ally within 30 feet just the right word of advice to prevent disaster. If the ally can hear the monk, she can reroll a single attack roll or make a single attack against her defense reroll. The second result stands, even if it is worse for the ally. A monk must be at least 8th level before selecting this ki power.

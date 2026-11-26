@@ -26,7 +26,7 @@ Abjuration implements are objects associated with protection and wards.
 
 **Resonant Power**: Each time the occultist invests [[rangoric-srd/classes/Occultist#^occultist-mental-focus|mental focus]] into an abjuration implement, the implement grants the following resonant power. The implement’s bearer gains the benefits of this power until the occultist refreshes his focus.
 
-**Warding Talisman (Su)**: The implement wards against adverse effects. Whoever wears (or holds, for bells) the implement gains a +1 resistance bonus on saving throws for every 2 points of mental focus invested in the implement, to a maximum bonus of 1 + 1 for every 4 occultist levels you possess. ^abjuration-resonant-power
+**Warding Talisman (Su)**: The implement wards against adverse effects. Whoever wears (or holds, for bells) the implement gains a +1 resistance bonus on defenses for every 2 points of mental focus invested in the implement, to a maximum bonus of 1 + 1 for every 4 occultist levels you possess. ^abjuration-resonant-power
 
 **Base Focus Power**: All occultists who learn to use abjuration implements gain the following [[rangoric-srd/classes/Occultist#^occultist-focus-powers|focus power]].
 

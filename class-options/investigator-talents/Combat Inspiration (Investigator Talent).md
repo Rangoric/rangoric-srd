@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/class-option]
 
 _An [[rangoric-srd/classes/Investigator#^investigator-investigator-talent|investigator talent]] (Ex)._
 
-When an investigator uses [[rangoric-srd/classes/Investigator#^investigator-inspiration|inspiration]] on an attack roll or saving throw, he expends one use of inspiration instead of two. An investigator must be at least 9th level to select this talent.
+When an investigator uses [[rangoric-srd/classes/Investigator#^investigator-inspiration|inspiration]] on an attack roll or defense, he expends one use of inspiration instead of two. An investigator must be at least 9th level to select this talent.

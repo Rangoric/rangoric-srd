@@ -17,4 +17,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/prestige-classes/Battle Herald#^battle-herald-inspiring-command|battle herald inspiring command]] (Ex); it affects only a certain number of allies._
 
-One ally subject to an ongoing condition may attempt a new saving throw to negate the effects with a bonus equal to the battle herald's inspiring command bonus. This ability does not help against instantaneous effects, effects that require recurring saving throws to avoid additional penalties (such as diseases and poisons), or effects that do not allow a saving throw.
+One ally subject to an ongoing condition may make the condition attack it again, with a bonus to its defense equal to the battle herald's inspiring command bonus, and a miss negates the effects. This ability does not help against instantaneous effects, effects that attack again and again to impose additional penalties (such as diseases and poisons), or effects that do not attack a defense.

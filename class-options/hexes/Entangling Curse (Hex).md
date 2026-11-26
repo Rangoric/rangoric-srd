@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Shaman#^shaman-hex|shaman hex]] (Su) of the [[rangoric-srd/class-options/spirits/Nature Spirit|nature spirit]]._
 
-The shaman entangles a creature within 30 feet for a number of rounds equal to the shaman's Charisma modifier (minimum 1). A successful Reflex saving throw negates this effect. Whether or not the save is successful, the creature cannot be the target of this hex again for 24 hours.
+The shaman entangles a creature within 30 feet for a number of rounds equal to the shaman's Charisma modifier (minimum 1). It attacks Reflex, and a miss negates this effect. Whether it hits or misses, the creature cannot be the target of this hex again for 24 hours.
