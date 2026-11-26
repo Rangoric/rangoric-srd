@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One humanoid"
 duration: "Concentration + 2 rounds or until triggered"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -36,7 +36,7 @@ _Enchantment (Compulsion)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One humanoid
 - **Duration**: Concentration + 2 rounds or until triggered
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 The target takes a –20 penalty on its next attack roll or check that requires a d20 roll. The action must be one deliberately taken by the target on its turn. Creatures with more than 10 HD are unaffected by this spell.

@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "40 ft."
 area: "Nonevil creatures in a 40-ft.-radius spread centered on you"
 duration: "Instantaneous"
-saving-throw: "None or Will negates; see text"
+defense: "None or Will; see text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Blasphemy|Blasphemy (3.5)]]"
@@ -35,7 +35,7 @@ _Evocation \[Evil, Sonic\]_
 - **Range**: 40 ft.
 - **Area**: Nonevil creatures in a 40-ft.-radius spread centered on you
 - **Duration**: Instantaneous
-- **Saving Throw**: None or Will negates; see text
+- **Defense**: None or Will; see text
 - **Spell Resistance**: Yes
 
 Any nonevil creature within the area of a blasphemy spell suffers the following ill effects.
@@ -49,7 +49,7 @@ Any nonevil creature within the area of a blasphemy spell suffers the following 
 
 The effects are cumulative and concurrent.
 
-No saving throw is allowed against these effects.
+These effects hit automatically, with no attack against a defense.
 
 _Dazed_: The creature can take no actions for 1 round, though it defends itself normally.
 
@@ -59,6 +59,6 @@ _Paralyzed_: The creature is paralyzed and [[rangoric-srd/rules/Special Abilitie
 
 _Killed_: Living creatures die. Undead creatures are destroyed.
 
-Furthermore, if you are on your home plane when you cast this spell, nonevil extraplanar creatures within the area are instantly banished back to their home planes. Creatures so banished cannot return for at least 24 hours. This effect takes place regardless of whether the creatures hear the blasphemy. The banishment effect allows a Will save (at a –4 penalty) to negate.
+Furthermore, if you are on your home plane when you cast this spell, nonevil extraplanar creatures within the area are instantly banished back to their home planes. Creatures so banished cannot return for at least 24 hours. This effect takes place regardless of whether the creatures hear the blasphemy. The banishment effect attacks Will, with a –4 penalty to the creature’s Will Defense, and a miss negates it.
 
 Creatures whose Hit Dice exceed your caster level are unaffected by blasphemy.

@@ -13,7 +13,7 @@ casting-time: "One action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "Ray"
 duration: "1 round/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Bolts Of Bedevilment|Bolts Of Bedevilment (3.5)]]"
@@ -32,7 +32,7 @@ Casting Time: One action
 Range: Medium (100 ft. + 10 ft./level)  
 Effect: Ray  
 Duration: 1 round/level  
-Saving Throw: Will negates  
+Defense: Will  
 Spell Resistance: Yes
 
 This spell grants the caster the ability to make one ray attack per round. The ray [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazes]] one living creature, clouding its mind so that it takes no action for 1d3 rounds. The creature is not [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] (so attackers get no special advantage against it), but it can’t move, cast spells, use mental abilities, and so on.

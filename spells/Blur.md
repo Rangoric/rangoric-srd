@@ -23,7 +23,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 min./level (D)"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Blur|Blur (3.5)]]"
@@ -43,7 +43,7 @@ _Illusion (Glamer)_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 min./level (D)
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 The subject’s outline appears blurred, shifting and wavering. This distortion grants the subject concealment (20% miss chance).

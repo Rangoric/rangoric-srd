@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./level)"
 target: "Your Familiar"
 duration: "1 hour/level (d)"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes"
 book: "Spells & Magic"
 based-on:
@@ -33,7 +33,7 @@ _Necromancy_
 - **Range**: Close (25 ft. + 5 ft./level)
 - **Target**: Your Familiar
 - **Duration**: 1 hour/level (d)
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes
 
 _Bolster familiar_ strengthens the life force of a familiar, allowing them to surpass their normal strength and endurance.

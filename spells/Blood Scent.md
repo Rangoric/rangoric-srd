@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 targets: "One creature/2 levels, no two of which can be more than 30 ft. apart"
 duration: "1 minute/level (D)"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Race Guide"
 based-on:
@@ -42,7 +42,7 @@ _Transmutation_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Targets**: One creature/2 levels, no two of which can be more than 30 ft. apart
 - **Duration**: 1 minute/level (D)
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 You greatly magnify the target's ability to smell the presence of blood. The target is considered to have the scent universal monster ability, but only for purposes of detecting and pinpointing injured creatures (below full hit points). Creatures below half their full hit points or suffering bleed damage are considered strong scents for this ability.

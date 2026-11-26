@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "10-ft.-radius burst"
 duration: "Instantaneous"
-saving-throw: "Reflex half"
+defense: "Reflex half"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -35,7 +35,7 @@ _Conjuration \[Acid\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Area**: 10-ft.-radius burst
 - **Duration**: Instantaneous
-- **Saving Throw**: Reflex half
+- **Defense**: Reflex half
 - **Spell Resistance**: Yes
 
-You release a burst of barbed, acid-filled nettles. Creatures caught in the burst take 3d6 points of damage plus 1d6 points of acid damage on the next round. Those that save take half damage from the initial burst and no damage on the next round.
+You release a burst of barbed, acid-filled nettles. Creatures caught in the burst take 3d6 points of damage plus 1d6 points of acid damage on the next round. Those it misses take half damage from the initial burst and no damage on the next round.

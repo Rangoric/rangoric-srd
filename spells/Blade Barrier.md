@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "Wall of whirling blades up to 20 ft. long/ level, or a ringed wall of whirling blades with a radius of up to 5 ft. per two levels; either form 20 ft. high"
 duration: "1 min./level (D)"
-saving-throw: "Reflex half or Reflex negates; see text"
+defense: "Reflex half or Reflex; see text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Blade Barrier|Blade Barrier (3.5)]]"
@@ -38,11 +38,11 @@ _Evocation \[Force\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: Wall of whirling blades up to 20 ft. long/ level, or a ringed wall of whirling blades with a radius of up to 5 ft. per two levels; either form 20 ft. high
 - **Duration**: 1 min./level (D)
-- **Saving Throw**: Reflex half or Reflex negates; see text
+- **Defense**: Reflex half or Reflex; see text
 - **Spell Resistance**: Yes
 
-An immobile, vertical curtain of whirling blades shaped of pure force springs into existence. Any creature passing through the wall takes 1d6 points of damage per caster level (maximum 15d6), with a Reflex save for half damage.
+An immobile, vertical curtain of whirling blades shaped of pure force springs into existence. Any creature passing through the wall takes 1d6 points of damage per caster level (maximum 15d6); the wall attacks Reflex, and a miss halves the damage.
 
-If you evoke the barrier so that it appears where creatures are, each creature takes damage as if passing through the wall. Each such creature can avoid the wall (ending up on the side of its choice) and thus take no damage by making a successful Reflex save.
+If you evoke the barrier so that it appears where creatures are, each creature takes damage as if passing through the wall. The wall attacks the Reflex of each such creature, and on a miss the creature avoids the wall (ending up on the side of its choice) and thus takes no damage.
 
-A blade barrier provides cover (+4 bonus to AC, +2 bonus on Reflex saves) against attacks made through it.
+A blade barrier provides cover (+4 bonus to AC, +2 bonus on Reflex Defense) against attacks made through it.

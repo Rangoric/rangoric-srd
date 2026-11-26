@@ -15,7 +15,7 @@ casting-time: "1 round"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "1 creature/level"
 duration: "1 minute/level"
-saving-throw: "None (harmless)"
+defense: "None (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Ultimate Magic"
 based-on:
@@ -36,7 +36,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Area**: 1 creature/level
 - **Duration**: 1 minute/level
-- **Saving Throw**: None (harmless)
+- **Defense**: None (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 The targets gain darkvision 30 feet and a +2 competence bonus on Stealth checks.

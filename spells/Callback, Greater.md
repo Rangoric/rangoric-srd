@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "1 mi."
 target: "Your familiar or spirit animal"
 duration: "1 hour/level or until expended"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Ultimate Wilderness"
 based-on:
@@ -35,7 +35,7 @@ _Conjuration (Teleportation)_
 - **Range**: 1 mi.
 - **Target**: Your familiar or spirit animal
 - **Duration**: 1 hour/level or until expended
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 This spell functions as [[rangoric-srd/spells/Callback|callback]], except as noted above.

@@ -15,7 +15,7 @@ range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "One creature or object"
 area: "5 ft. wide to the target"
 duration: "Instantaneous"
-saving-throw: "Reflex negates"
+defense: "Reflex"
 spell-resistance: "Yes"
 book: "Spells & Magic"
 based-on:
@@ -37,7 +37,7 @@ _Evocation \[Electricity\]_
 - **Targets**: One creature or object
 - **Area**: 5 ft. wide to the target
 - **Duration**: Instantaneous
-- **Saving Throw**: Reflex negates
+- **Defense**: Reflex
 - **Spell Resistance**: Yes
 
 _Brilliant arc_ creates a ray of electricity extending from the caster’s fingertip to one creature or object within range. The ray inflicts 1d4 hit points of electrical damage per 2 caster levels (maximum 5d4) to this target. The ray deals 1 hit point of electrical damage per 2 caster levels (maximum 5 points) to all other targets within the area.

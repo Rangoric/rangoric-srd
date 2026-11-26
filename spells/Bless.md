@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "50 ft."
 area: "The caster and all allies within a 50-ft. burst, centered on the caster"
 duration: "1 min./level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Bless|Bless (3.5)]]"
@@ -38,9 +38,9 @@ _Enchantment (Compulsion) \[Mind-Affecting\]_
 - **Range**: 50 ft.
 - **Area**: The caster and all allies within a 50-ft. burst, centered on the caster
 - **Duration**: 1 min./level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes (harmless)
 
-Bless fills your allies with courage. Each ally gains a +1 morale bonus on attack rolls and on saving throws against fear effects.
+Bless fills your allies with courage. Each ally gains a +1 morale bonus on attack rolls and on defenses against fear effects.
 
 Bless counters and dispels bane.

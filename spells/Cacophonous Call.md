@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 round/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -37,7 +37,7 @@ _Enchantment (Compulsion) \[Mind-affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-You fill your target's mind with a blaring cacophony of discordant sounds, making it hard for the target to act and concentrate. The creature gains the nauseated condition for the duration of the spell if it fails its Will save.
+You fill your target's mind with a blaring cacophony of discordant sounds, making it hard for the target to act and concentrate. The creature gains the nauseated condition for the duration of the spell if the spell hits its Will.

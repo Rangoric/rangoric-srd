@@ -14,7 +14,7 @@ casting-time: "1 immediate action"
 range: "Personal"
 target: "You"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Occult Adventures"
 based-on:
@@ -35,7 +35,7 @@ _Transmutation_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You plumb the depths of your mind for insight, leaving you momentarily frazzled. When you are about to make a d20 roll based on Intelligence, Wisdom, or Charisma, you can cast this spell to gain a +8 enhancement bonus to Intelligence, Wisdom, or Charisma for that roll, but you are dazed for 1 round afterward.

@@ -16,7 +16,7 @@ casting-time: "1 round"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "One or more 30-ft.-long vertical lines of lightning"
 duration: "1 min./level"
-saving-throw: "Reflex half"
+defense: "Reflex half"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Call Lightning|Call Lightning (3.5)]]"
@@ -36,7 +36,7 @@ _Evocation \[Electricity\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: One or more 30-ft.-long vertical lines of lightning
 - **Duration**: 1 min./level
-- **Saving Throw**: Reflex half
+- **Defense**: Reflex half
 - **Spell Resistance**: Yes
 
 Immediately upon completion of the spell, and once per round thereafter, you may call down a 5-foot-wide, 30-foot-long, vertical bolt of lightning that deals 3d6 points of electricity damage. The bolt of lightning flashes down in a vertical stroke at whatever target point you choose within the spell’s range (measured from your position at the time). Any creature in the target square or in the path of the bolt is affected.

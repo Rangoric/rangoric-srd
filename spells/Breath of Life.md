@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "Instantaneous"
-saving-throw: "Will negates (harmless) or Will half, see text"
+defense: "Will (harmless) or Will half, see text"
 spell-resistance: "Yes (harmless) or yes, see text"
 book: "Core Rulebook"
 based-on:
@@ -35,7 +35,7 @@ _Conjuration (Healing)_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates (harmless) or Will half, see text
+- **Defense**: Will (harmless) or Will half, see text
 - **Spell Resistance**: Yes (harmless) or yes, see text
 
 This spell cures 5d8 points of damage + 1 point per caster level (maximum +25).

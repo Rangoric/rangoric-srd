@@ -24,7 +24,7 @@ casting-time: "1 minute"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "Up to one creature per level, all within 30 ft. of each other"
 duration: "Instantaneous"
-saving-throw: "See text"
+defense: "See text"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Break Enchantment|Break Enchantment (3.5)]]"
@@ -45,7 +45,7 @@ _Abjuration_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Targets**: Up to one creature per level, all within 30 ft. of each other
 - **Duration**: Instantaneous
-- **Saving Throw**: See text
+- **Defense**: See text
 - **Spell Resistance**: No
 
 This spell frees victims from enchantments, transmutations, and curses. Break enchantment can reverse even an instantaneous effect. For each such effect, you make a caster level check (1d20 + caster level, maximum +15) against a DC of 11 + caster level of the effect. Success means that the creature is free of the spell, curse, or effect. For a curse with a DC of its own, such as a cursed magic item or a [[rangoric-srd/rules/Afflictions#Curse|curse affliction]], the DC is equal to the DC of the curse.
