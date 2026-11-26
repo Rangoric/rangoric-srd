@@ -17,5 +17,5 @@ tags: [rangoric, rangoric/magic-item]
 
 # Mirror of Mind Switch
 
-This small hand mirror manifests its power once per day against a creature that sees its reflection within it, as a gaze attack with a range of 30 feet. Potential victims can attempt to avert their eyes or look away as they would from a normal gaze attack. A creature meeting its own gaze in the mirror must succeed on a DC 19 Will save, or its mind and the mind of the mirror’s wielder switch, as if by the [[rangoric-srd/powers/Mind Switch|mind switch]] power. Because the mirror is small, only a single creature can meet its own gaze. The wielder of the mirror is not affected by seeing himself.  
+This small hand mirror manifests its power once per day against a creature that sees its reflection within it, as a gaze attack with a range of 30 feet. Potential victims can attempt to avert their eyes or look away as they would from a normal gaze attack. The mirror attacks the Will of a creature meeting its own gaze in it at +9, and on a hit its mind and the mind of the mirror’s wielder switch, as if by the [[rangoric-srd/powers/Mind Switch|mind switch]] power. Because the mirror is small, only a single creature can meet its own gaze. The wielder of the mirror is not affected by seeing himself.  
 Moderate telepathy; ML 11th; Craft Universal Item, mind switch; Price 19,800 gp; Weight 1/2 lb.

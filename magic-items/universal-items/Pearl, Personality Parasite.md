@@ -16,5 +16,5 @@ tags: [rangoric, rangoric/magic-item]
 
 # Pearl, Personality Parasite
 
-This tiny pearly sphere speeds toward its target when hurled by its owner. He can hurl the pearl at any target within 130 feet that he can see and to which he has line of effect. If the target fails a DC 16 Will saving throw, the pearl seems to impact and then enter the flesh of the target. The target is affected as if by [[rangoric-srd/powers/Personality Parasite|personality parasite]] for 5 rounds. The use destroys the item.  
+This tiny pearly sphere speeds toward its target when hurled by its owner. He can hurl the pearl at any target within 130 feet that he can see and to which he has line of effect. If the pearl hits the target’s Will (+6), the pearl seems to impact and then enter the flesh of the target. The target is affected as if by [[rangoric-srd/powers/Personality Parasite|personality parasite]] for 5 rounds. The use destroys the item.  
 Faint telepathy; ML 7th; Craft Universal Item, personality parasite; Price 1,400 gp.

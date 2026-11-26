@@ -17,5 +17,5 @@ tags: [rangoric, rangoric/magic-item]
 
 # Skin of the Hero
 
-This psychoactive skin continually grants the wearer a +3 deflection bonus to Armor Class, a +3 resistance bonus on all saving throws, and a +3 enhancement bonus on attack rolls.  
+This psychoactive skin continually grants the wearer a +3 deflection bonus to Armor Class, a +3 resistance bonus on all defenses, and a +3 enhancement bonus on attack rolls.  
 Strong psychometabolism; ML 18th; Craft Universal Item, bend reality; Price 77,500 gp; Weight 2 lb.

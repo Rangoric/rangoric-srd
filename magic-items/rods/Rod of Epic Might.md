@@ -21,9 +21,9 @@ tags: [rangoric, rangoric/magic-item, epic]
 This rod is similar to a rod of lordly might, although it is far more powerful. It is larger than its normal counterpart, and it is constructed of adamantine rather than normal metal. It has six buttons, several spell-like functions, and several mundane uses, and it can also be used as a magic weapon of various sorts.  
 The following spell-like functions of the rod can each be used once per day.
 
-- Dominate Person: Touched foe is recipient of a dominate person spell, if the wielder so commands (Will save DC 24). The wielder must choose to use this power and then succeed with a melee touch attack to activate the power. If the attack fails, the effect is lost.
-- Stun: Upon command, all enemies viewing the rod are stunned, as per the power word, stun spell (10-foot maximum range, Will save DC 24). Invoking this power is a standard action.
-- Damage: Upon command, the rod deals 10d8 points of damage to an opponent on a successful touch attack and cures the wielder of a like amount of damage (Will save DC 26). The wielder must choose to use this power before attacking, as with dominate person.
+- Dominate Person: Touched foe is recipient of a dominate person spell, if the wielder so commands (+14 vs Will). The wielder must choose to use this power and then succeed with a melee touch attack to activate the power. If the attack fails, the effect is lost.
+- Stun: Upon command, all enemies viewing the rod are stunned, as per the power word, stun spell (10-foot maximum range, +14 vs Will). Invoking this power is a standard action.
+- Damage: Upon command, the rod deals 10d8 points of damage to an opponent on a successful touch attack and cures the wielder of a like amount of damage (+16 vs Will). The wielder must choose to use this power before attacking, as with dominate person.
 
 The following weapon uses of the rod have no limits on their use.
 

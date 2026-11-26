@@ -16,5 +16,5 @@ tags: [rangoric, rangoric/magic-item]
 
 # Eyes of Expanded Vision
 
-These crystal lenses fit over the user’s eyes to expand his field of vision. Flanking opponents gain only a +1 bonus when attacking the user instead of +2 (rogues still get their full sneak attack damage because the wearer is still flanked). The wearer gains a +1 enhancement bonus on Perception checks but takes a -2 penalty on saves against gaze attacks.  
+These crystal lenses fit over the user’s eyes to expand his field of vision. Flanking opponents gain only a +1 bonus when attacking the user instead of +2 (rogues still get their full sneak attack damage because the wearer is still flanked). The wearer gains a +1 enhancement bonus on Perception checks but takes a -2 penalty on defenses against gaze attacks.  
 Faint clairsentience; ML 1st; Craft Universal Item, ubiquitous vision; Price 3,000 gp.

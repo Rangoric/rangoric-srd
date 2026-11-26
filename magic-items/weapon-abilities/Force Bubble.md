@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Force Bubble
 
-This enchantment can only be added to ammunition. Any creature hit by a _force bubble_ missile must make a Reflex save (DC 17) or be surrounded by an impenetrable bubble of force for 2d4 rounds, similar to a _[[rangoric-srd/spells/Resilient Sphere|resilient sphere]]_ spell.
+This enchantment can only be added to ammunition. The missile attacks the Reflex of any creature it hits at +7, and on a hit it is surrounded by an impenetrable bubble of force for 2d4 rounds, similar to a _[[rangoric-srd/spells/Resilient Sphere|resilient sphere]]_ spell.
 
 Moderate evocation [force]; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Resilient Sphere|resilient sphere]]_; Price +2 bonus.

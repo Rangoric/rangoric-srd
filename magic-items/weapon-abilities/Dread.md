@@ -16,5 +16,5 @@ tags: [rangoric, rangoric/magic-item, epic]
 
 # Dread
 
-A dread weapon excels at attacking one type of creature. Against its designated foe, its effective enhancement bonus is +4 better than its normal enhancement bonus. Further, it deals +4d6 points of bonus damage against the foe, and if it scores a successful critical hit against the foe, that creature must make a Fortitude save (DC 27) or be destroyed instantly and turned to dust. (This even affects creatures immune to critical hits or death magic.) To randomly determine a dread weapon’s designated foe, roll on the following table.  
+A dread weapon excels at attacking one type of creature. Against its designated foe, its effective enhancement bonus is +4 better than its normal enhancement bonus. Further, it deals +4d6 points of bonus damage against the foe, and if it scores a successful critical hit against the foe, the weapon attacks that creature’s Fortitude at +17, and on a hit it is destroyed instantly and turned to dust. (This even affects creatures immune to critical hits or death magic.) To randomly determine a dread weapon’s designated foe, roll on the following table.  
 Caster Level: 22nd; Prerequisites: Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, summon monster IX; Market Price: +7 bonus.

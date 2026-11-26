@@ -21,6 +21,6 @@ These iron or steel studs can be attached to the outer surface of a warrior’s 
 
 Magical gadlings are quite common amongst those who can afford them. In most tournaments and other kinds of ritual combat, they are expressly frowned upon. Only one type of magical gadling may be worked into a single gauntlet. Magical gadlings can be added to magical gauntlets, allowing both enchantments to still function. The following are but a few of the many types of available magical gadlings:
 
-**Mirrored Gadlings**: These are highly polished and enchanted gadlings that serve to blind one’s opponent in battle. Once per day, the wearer may invoke their magic, causing a painful burst of light that can be aimed straight at a designated foe, who must make a successful Reflex save (DC 15) or be blinded for 1d4 rounds.
+**Mirrored Gadlings**: These are highly polished and enchanted gadlings that serve to blind one’s opponent in battle. Once per day, the wearer may invoke their magic, causing a painful burst of light that can be aimed straight at a designated foe; it attacks that foe’s Reflex at +5, and on a hit the foe is blinded for 1d4 rounds.
 
 Faint evocation [light]; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Daylight|daylight]]_; Price 10,880 gp; Cost 5,400 gp + 432 XP.

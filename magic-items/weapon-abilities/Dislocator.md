@@ -16,5 +16,5 @@ tags: [rangoric, rangoric/magic-item]
 
 # Dislocator
 
-The wielder of this kind of weapon can attempt to dislocate a designated foe up to three times per day. On a successful hit, the foe must succeed on a DC 17 Will save or be [[rangoric-srd/powers/Teleport, Psionic|teleported]] 1-100 miles in a random direction. If the weapon misses, the use is wasted. Bows, crossbows, and slings bestow this ability on their ammunition.  
+The wielder of this kind of weapon can attempt to dislocate a designated foe up to three times per day. On a successful hit, the weapon attacks the foe’s Will at +7, and on a hit it is [[rangoric-srd/powers/Teleport, Psionic|teleported]] 1-100 miles in a random direction. If the weapon misses, the use is wasted. Bows, crossbows, and slings bestow this ability on their ammunition.  
 Strong psychoportation; ML 12th; Craft Psionic Arms and Armor, psionic teleport; Price +3 bonus.

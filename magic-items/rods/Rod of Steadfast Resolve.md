@@ -19,8 +19,8 @@ tags: [rangoric, rangoric/magic-item]
 
 # Rod of Steadfast Resolve
 
-This rod functions as a _+2 light mace_. It takes the form of a light mace with a head in the shape of a clenched fist. While a creature wields this rod, it grants all its allies within a 20-foot-radius burst a +2 morale bonus on saving throws against fear and emotion effects, or a +4 morale bonus on such saves if the ally has the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^human|human subtype]].
+This rod functions as a _+2 light mace_. It takes the form of a light mace with a head in the shape of a clenched fist. While a creature wields this rod, it grants all its allies within a 20-foot-radius burst a +2 morale bonus on defenses against fear and emotion effects, or a +4 morale bonus on such defenses if the ally has the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^human|human subtype]].
 
-Also, once per day as an immediate action, the wielder can activate the rod to allow himself or a single ally within the rod's aura to reroll a failed saving throw against a spell or effect with the fear or emotion descriptor. The affected creature must take the result of the reroll, even if it is worse.
+Also, once per day as an immediate action, the wielder can activate the rod to make a spell or effect with the fear or emotion descriptor that hit himself or a single ally within the rod's aura reroll its attack. The attack must take the result of the reroll, even if it is better.
 
 Moderate abjuration; CL 9th; [[rangoric-srd/feats/Craft Rod|Craft Rod]], _[[rangoric-srd/spells/Bless|bless]]_, calm emotion, the creator must have the human subtype; Price 38,305 gp; Cost 19,305 gp.

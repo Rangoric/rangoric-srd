@@ -16,5 +16,5 @@ tags: [rangoric, rangoric/magic-item]
 
 # Dominate
 
-The wearer of a third eye dominate can attempt to dominate a subject as with the power [[rangoric-srd/powers/Dominate, Psionic|psionic dominate]], augmented to target any creature type it can affect, once per day (save DC 18).  
+The wearer of a third eye dominate can attempt to dominate a subject as with the power [[rangoric-srd/powers/Dominate, Psionic|psionic dominate]], augmented to target any creature type it can affect, once per day (attack bonus +8).  
 Strong telepathy; ML 15th; Craft Universal Item, psionic dominate; Price 120,000 gp.

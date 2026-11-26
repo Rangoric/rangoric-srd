@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Metamagic Rod, Concussive, Lesser
 
-Up to three times per day the wielder can cast a spell with the sonic descriptor that causes those who take damage from that spell to take a –2 penalty on attack rolls, saving throws, skill checks, and ability checks for a number of rounds equal to the actual spell level of the spell cast as though using the [[rangoric-srd/feats/Concussive Spell|Concussive Spell]] feat.
+Up to three times per day the wielder can cast a spell with the sonic descriptor that causes those who take damage from that spell to take a –2 penalty on attack rolls, defenses, skill checks, and ability checks for a number of rounds equal to the actual spell level of the spell cast as though using the [[rangoric-srd/feats/Concussive Spell|Concussive Spell]] feat.
 
 Strong (no school); CL 17th; [[rangoric-srd/feats/Craft Rod|Craft Rod]], [[rangoric-srd/feats/Concussive Spell|Concussive Spell]]; Price 9,000 gp; Cost 4,500 gp.

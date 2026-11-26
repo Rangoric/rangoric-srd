@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Rod of Withering
 
-A rod of withering acts as a +1 light mace that deals no hit point damage. Instead, the wielder deals 1d4 points of Strength damage and 1d4 points of Constitution damage to any creature she touches with the rod (by making a melee touch attack). If she scores a critical hit, the damage from that hit is permanent ability drain. In either case, the defender negates the effect with a DC 17 Fortitude save.
+A rod of withering acts as a +1 light mace that deals no hit point damage. Instead, the wielder deals 1d4 points of Strength damage and 1d4 points of Constitution damage to any creature she touches with the rod (by making a melee touch attack). If she scores a critical hit, the damage from that hit is permanent ability drain. In either case, the rod attacks the defender’s Fortitude at +7, and a miss negates the effect.
 
 Strong necromancy; CL 13th; Craft Rod, Craft Magic Arms and Armor, contagion; Price 25,000 gp.

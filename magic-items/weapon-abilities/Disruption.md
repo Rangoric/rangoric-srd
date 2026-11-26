@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Disruption
 
-A weapon of disruption is the bane of all undead. Any undead creature struck in combat must succeed on a DC 14 Will save or be destroyed. A weapon of disruption must be a bludgeoning weapon. (If you roll this property randomly for a piercing or slashing weapon, reroll.)
+A weapon of disruption is the bane of all undead. The weapon attacks the Will of any undead creature struck in combat at +4, and on a hit it is destroyed. A weapon of disruption must be a bludgeoning weapon. (If you roll this property randomly for a piercing or slashing weapon, reroll.)
 
 Strong conjuration; CL 14th; Craft Magic Arms and Armor, heal; Price +2 bonus.

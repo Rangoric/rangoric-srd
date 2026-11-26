@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Rod of Destruction
 
-This rod is jet black with narrow silver bands every inch along its length. It functions as a +1 light mace in addition to all of its other functions. On a confirmed critical hit, this rod does not inflict any damage. Instead, the target must make a Fortitude Save or be disintegrated. On a successful saving throw, the rod instead deals 5d6 damage to the target. This power affects many creatures not subject to critical hits, such as corporeal undead and constructs.
+This rod is jet black with narrow silver bands every inch along its length. It functions as a +1 light mace in addition to all of its other functions. On a confirmed critical hit, this rod does not inflict any damage. Instead, the rod attacks the target’s Fortitude, and on a hit the target is disintegrated. On a miss, the rod instead deals 5d6 damage to the target. This power affects many creatures not subject to critical hits, such as corporeal undead and constructs.
 
 Once per week, this rod may be used to disintegrate a single, inanimate object of not more than 1000 cu. ft.
 

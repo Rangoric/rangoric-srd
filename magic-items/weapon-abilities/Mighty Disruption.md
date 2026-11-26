@@ -16,5 +16,5 @@ tags: [rangoric, rangoric/magic-item, epic]
 
 # Mighty Disruption
 
-Any undead creature struck in combat must succeed at a Fortitude save (DC 21) or be destroyed. A weapon of mighty disruption must be a bludgeoning weapon. (If this property is rolled for a piercing or slashing weapon, reroll.)  
+The weapon attacks the Fortitude of any undead creature struck in combat at +11, and on a hit it is destroyed. A weapon of mighty disruption must be a bludgeoning weapon. (If this property is rolled for a piercing or slashing weapon, reroll.)  
 Caster Level: 21st; Prerequisites: Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, true resurrection; Market Price: +6 bonus.
