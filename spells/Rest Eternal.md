@@ -19,7 +19,7 @@ casting-time: "1 round"
 range: "Touch"
 target: "One dead creature touched"
 duration: "Permanent"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Advanced Player's Guide"
 based-on:
@@ -40,7 +40,7 @@ _Necromancy \[Curse\]_
 - **Range**: Touch
 - **Target**: One dead creature touched
 - **Duration**: Permanent
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You place a curse upon a dead creature that bars its spirit from returning. Anyone casting a spell that would communicate with the dead creature, return it to life, or turn it into an undead creature must succeed on a caster level check with a DC of 11 plus your caster level. _Rest eternal_ cannot be dispelled, but it can be negated with _[[rangoric-srd/spells/Remove Curse|remove curse]]_ or _[[rangoric-srd/spells/Break Enchantment|break enchantment]]_.

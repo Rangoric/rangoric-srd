@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "1 hour/level"
-saving-throw: "Fortitude negates (harmless)"
+defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Player's Guide"
 based-on:
@@ -34,7 +34,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Targets**: One creature/level, no two of which can be more than 30 ft. apart
 - **Duration**: 1 hour/level
-- **Saving Throw**: Fortitude negates (harmless)
+- **Defense**: Fortitude (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 You, or a willing creature you touch, lay down a trail of scents that only the creatures you designate at the time of casting can detect. These creatures find it very easy to follow this trail. They gain a +20 competence bonus on any Fieldcraft checks made for the purpose of tracking the creature laying this trail. Subject creatures with the scent special ability gain a +10 competence bonus on Wisdom or Fieldcraft checks to follow the trail.

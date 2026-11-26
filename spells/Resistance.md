@@ -28,7 +28,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 minute"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Resistance|Resistance (3.5)]]"
@@ -48,10 +48,10 @@ _Abjuration_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 minute
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
-You imbue the subject with magical energy that protects it from harm, granting it a +1 resistance bonus on saves.
+You imbue the subject with magical energy that protects it from harm, granting it a +1 resistance bonus on defenses.
 
 Resistance can be made permanent with a permanency spell.
 

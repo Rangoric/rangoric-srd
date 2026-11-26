@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "Sandstorm in 20-ft. radius, 20 ft. high"
 duration: "1 round/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes (see text)"
 book: "Ultimate Magic"
 based-on:
@@ -37,7 +37,7 @@ _Evocation \[Air, Earth\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: Sandstorm in 20-ft. radius, 20 ft. high
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes (see text)
 
 This spell brings forth a windstorm of stinging sand that blocks all vision. You can move the storm up to 30 feet each round as a move action.

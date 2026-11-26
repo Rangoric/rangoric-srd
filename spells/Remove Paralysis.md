@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "Up to four creatures, no two of which can be more than 30 ft. apart"
 duration: "Instantaneous"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Remove Paralysis|Remove Paralysis (3.5)]]"
@@ -36,9 +36,9 @@ _Conjuration (Healing)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Targets**: Up to four creatures, no two of which can be more than 30 ft. apart
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
-You can free one or more creatures from the effects of any temporary paralysis or related magic, including a ghoul’s touch or a slow spell. If the spell is cast on one creature, the paralysis is negated. If cast on two creatures, each receives another save with a +4 resistance bonus against the effect that afflicts it. If cast on three or four creatures, each receives another save with a +2 resistance bonus.
+You can free one or more creatures from the effects of any temporary paralysis or related magic, including a ghoul’s touch or a slow spell. If the spell is cast on one creature, the paralysis is negated. If cast on two creatures, the effect that afflicts each attacks it again, with a +4 resistance bonus to its defense, and a miss ends it. If cast on three or four creatures, the effect that afflicts each attacks it again, with a +2 resistance bonus to its defense.
 
 The spell does not restore ability scores reduced by penalties, [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], or [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]].

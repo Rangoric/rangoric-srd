@@ -18,7 +18,7 @@ casting-time: "1 minute"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature of your faith"
 duration: "Permanent"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -39,7 +39,7 @@ _Transmutation \[Curse\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature of your faith
 - **Duration**: Permanent
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 You cast the target out of your religion as a curse and punishment for acts or misdeeds against the tenets of your faith. This has three effects.
@@ -50,6 +50,6 @@ Second, the target is no longer affected by helpful spells cast by the faithful 
 
 Third, if the target is a divine spellcaster, a member of a prestige class of your faith, or otherwise has some ability because the target belongs to your faith, it cannot use those abilities while the mark remains in place. For example, a paladin of your faith would be unable to cast paladin spells or use lay on hands or other class abilities. The target can join another faith to regain the use of these abilities, but the mark remains visible to those of your faith, even if those of the new faith accept the target.
 
-This powerful spell with no saving throw is used to punish severe transgressions that do not deserve death or when you prefer to be merciful rather than meting out a more severe punishment. However, the spell has one drawback that prevents it from being overused. If the target did not commit any acts or misdeeds against your faith, the spell does not affect it but affects you instead, even if you are innocent of the charges. This potential backlash prevents inquisitions run by corrupt members of the faith, and it means that most accusations of misconduct are carefully investigated (and usually verified with magic) before this sentence is handed down.
+This powerful spell, which hits automatically with no attack against a defense, is used to punish severe transgressions that do not deserve death or when you prefer to be merciful rather than meting out a more severe punishment. However, the spell has one drawback that prevents it from being overused. If the target did not commit any acts or misdeeds against your faith, the spell does not affect it but affects you instead, even if you are innocent of the charges. This potential backlash prevents inquisitions run by corrupt members of the faith, and it means that most accusations of misconduct are carefully investigated (and usually verified with magic) before this sentence is handed down.
 
 This mark can be removed like any other curse effect. In addition, a member of your faith can use _[[rangoric-srd/spells/Atonement|atonement]]_ to break the curse if he makes a caster level check against your caster level; _[[rangoric-srd/spells/Remove Curse|remove curse]]_ also requires a caster of your faith and a caster level check to end the _reprobation_.

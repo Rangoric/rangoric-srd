@@ -23,7 +23,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One weapon that can be thrown"
 duration: "1 minute/level"
-saving-throw: "Will negates (harmless, object)"
+defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
 book: "Ultimate Combat"
 based-on:
@@ -44,7 +44,7 @@ _Conjuration (Teleportation)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One weapon that can be thrown
 - **Duration**: 1 minute/level
-- **Saving Throw**: Will negates (harmless, object)
+- **Defense**: Will (harmless, object)
 - **Spell Resistance**: Yes (harmless, object)
 
 For the duration of the spell, the target weapon acts as if it had the _[[rangoric-srd/magic-items/weapon-abilities/Returning|returning]]_ weapon special ability.

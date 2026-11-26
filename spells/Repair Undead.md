@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One undead creature touched (see text)"
 duration: "Instantaneous"
-saving-throw: "Will half (harmless)"
+defense: "Will half (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Class Guide"
 based-on:
@@ -32,7 +32,7 @@ _Necromancy_
 - **Range**: Touch
 - **Target**: One undead creature touched (see text)
 - **Duration**: Instantaneous
-- **Saving Throw**: Will half (harmless)
+- **Defense**: Will half (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 When you touch an undead creature, you channel negative energy that heals 1d8 points of damage + 1 point per caster level (maximum +5). This spell has no effect on living creatures, except those that are healed by negative energy are also healed by the spell.

@@ -15,7 +15,7 @@ casting-time: "1 round"
 range: "Touch; see text"
 target: "Creature touched"
 duration: "10 minutes/level (D)"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Player's Guide"
 based-on:
@@ -36,7 +36,7 @@ _Conjuration (Healing)_
 - **Range**: Touch; see text
 - **Target**: Creature touched
 - **Duration**: 10 minutes/level (D)
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 To use this spell, you first touch the intended recipient, creating a sympathetic field of healing energies between you. Once the spell has been cast, you and the target may cast conjuration (healing) spells with a range of touch upon each other so long as you are within close range (25 ft. + 5 ft./2 levels). Should either you or the target remove your bracelet, the spell immediately ends.

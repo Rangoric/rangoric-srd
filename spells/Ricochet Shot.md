@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One projectile weapon"
 duration: "1 round/level or until discharged"
-saving-throw: "Will negates (harmless, object)"
+defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
 book: "Ultimate Combat"
 based-on:
@@ -35,7 +35,7 @@ _Evocation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One projectile weapon
 - **Duration**: 1 round/level or until discharged
-- **Saving Throw**: Will negates (harmless, object)
+- **Defense**: Will (harmless, object)
 - **Spell Resistance**: Yes (harmless, object)
 
 You imbue a projectile weapon with the ability to ricochet any projectiles that hit one target so that they also hit another. When the wielder ricochets a projectile, she selects a primary target to attack. If she hits the primary target, the projectile ricochets instead of being destroyed. The wielder can then select a secondary target that is within 20 feet of the primary target. She makes an attack roll against the secondary target at the same base attack bonus, but does not gain the benefit from any enhancement bonuses or magic qualities on the projectile. If the shot comes from a [[rangoric-srd/equipment/Firearms|firearm]], the ricochet targets normal AC rather than touch AC.

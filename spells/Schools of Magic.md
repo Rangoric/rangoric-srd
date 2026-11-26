@@ -101,11 +101,11 @@ A figment’s AC is equal to 10 + its size modifier.
 
 **Shadow**: A shadow spell creates something that is partially real from extradimensional energy. Such illusions can have real effects. Damage dealt by a shadow illusion is real.
 
-**Saving Throws and Illusions (Disbelief)**: Creatures encountering an illusion usually do not receive saving throws to recognize it as illusory until they study it carefully or interact with it in some fashion.
+**Attacks and Illusions (Disbelief)**: An illusion usually does not attack the Will of creatures encountering it, to be recognized as illusory, until they study it carefully or interact with it in some fashion.
 
-A successful saving throw against an illusion reveals it to be false, but a figment or phantasm remains as a translucent outline.
+An illusion’s miss against a creature’s Will reveals it to be false, but a figment or phantasm remains as a translucent outline.
 
-A failed saving throw indicates that a character fails to notice something is amiss. A character faced with proof that an illusion isn’t real needs no saving throw. If any viewer successfully disbelieves an illusion and communicates this fact to others, each such viewer gains a saving throw with a +4 bonus.
+A hit indicates that a character fails to notice something is amiss. A character faced with proof that an illusion isn’t real disbelieves it automatically, with no attack. If any viewer successfully disbelieves an illusion and communicates this fact to others, the illusion attacks the Will of each such viewer again, with a +4 bonus to its Will Defense.
 
 ###### Necromancy
 

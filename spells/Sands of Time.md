@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Touched creature or object"
 duration: "10 minutes/level or instantaneous (see text)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -38,7 +38,7 @@ _Necromancy_
 - **Range**: Touch
 - **Target**: Touched creature or object
 - **Duration**: 10 minutes/level or instantaneous (see text)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 You temporarily age the target, immediately advancing it to the next age category. The target immediately takes the age penalties to Strength, Dexterity, and Constitution for its new age category, but does not gain the bonuses for that category. A creature whose age is unknown is treated as if the spell advances it to middle age. Ageless or immortal creatures are immune to this spell.

@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One living creature touched"
 duration: "Caster level day(s)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Villain Codex"
 based-on:
@@ -34,7 +34,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: One living creature touched
 - **Duration**: Caster level day(s)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 If the target doesn't eat on the day this spell is cast on it, the DC to avoid taking nonlethal damage from starvation on the following day doesn't increase by 1. This spell fails if the target hasn't already attempted at least one Constitution check to avoid starvation.

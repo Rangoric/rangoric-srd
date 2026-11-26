@@ -14,7 +14,7 @@ casting-time: "1 immediate action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One living creature"
 duration: "Instantaneous"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Player's Guide"
 based-on:
@@ -35,7 +35,7 @@ _Evocation \[Mind-affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One living creature
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
-You must have a bardic performance in effect to cast this spell. With a flourish, you can immediately end your bardic performance when a creature within range affected by your bardic performance fails a saving throw, allowing the subject to immediately reroll the failed saving throw.
+You must have a bardic performance in effect to cast this spell. With a flourish, you can immediately end your bardic performance when an attack against the defense of a creature within range affected by your bardic performance hits it, making the attacker immediately reroll that attack.

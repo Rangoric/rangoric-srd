@@ -25,7 +25,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 targets: "One living creature per three levels, no two of which can be more than 30 ft. apart"
 duration: "1 round/level or 1 round; see text for cause fear"
-saving-throw: "Will partial"
+defense: "Will partial"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Scare|Scare (3.5)]]"
@@ -45,7 +45,7 @@ _Necromancy \[Fear, Mind-Affecting\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Targets**: One living creature per three levels, no two of which can be more than 30 ft. apart
 - **Duration**: 1 round/level or 1 round; see text for cause fear
-- **Saving Throw**: Will partial
+- **Defense**: Will partial
 - **Spell Resistance**: Yes
 
 This spell functions like [[rangoric-srd/spells/Cause Fear|cause fear]], except that it causes all targeted creatures of less than 6 HD to become [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]].
