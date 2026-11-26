@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-26 | Saving throws as defenses, spells (DF 37): Detect Aberration to Earth Glide and the Druid spell list attack a defense instead of allowing a save; new saves make the spell attack again, and effects with no save hit automatically. | [[DF Batch 37 Changes]] | | [[Saving Throws as Defenses]] DF 37 |
 | 2026-11-26 | Saving throws as defenses, spells (DF 36): Countless Eyes to Destruction attack a defense instead of allowing a save; new saves make the spell attack again, and save DCs become attack bonuses. | [[DF Batch 36 Changes]] | | [[Saving Throws as Defenses]] DF 36 |
 | 2026-11-26 | Saving throws as defenses, spells (DF 35): Calm Emotions to Counterbalancing Aura and the Cleric spell list attack a defense instead of allowing a save; new saves make the spell attack again, and Contagion's diseases list attack bonuses. | [[DF Batch 35 Changes]] | | [[Saving Throws as Defenses]] DF 35 |
 | 2026-11-26 | Saving throws as defenses, spells (DF 34): Black Tentacles to Calm Animals and the Bloodrager spell list attack a defense instead of allowing a save; new saves make the spell attack again, and objects and other things with no save are hit automatically. | [[DF Batch 34 Changes]] | | [[Saving Throws as Defenses]] DF 34 |
