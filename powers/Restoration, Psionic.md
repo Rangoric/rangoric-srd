@@ -10,7 +10,7 @@ manifesting-time: "3 rounds"
 range: "Touch"
 target: "Creature touched"
 duration: "Instantaneous"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 power-resistance: "Yes (harmless)"
 power-points: "11"
 based-on:
@@ -30,7 +30,7 @@ Psychometabolism (Healing)
 **Range:** Touch  
 **Target:** Creature touched  
 **Duration:** Instantaneous  
-**Saving Throw:** Will negates (harmless)  
+**Defense:** Will (harmless)  
 **Power Resistance:** Yes (harmless)  
 **Power Points:** 11
 

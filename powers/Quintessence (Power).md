@@ -12,7 +12,7 @@ manifesting-time: "1 round"
 range: "0 ft."
 effect: "1-inch-diameter dollop of quintessence; see text"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "7"
 based-on:
@@ -32,7 +32,7 @@ Metacreativity (Creation)
 **Range:** 0 ft.  
 **Effect:** 1-inch-diameter dollop of quintessence; see text  
 **Duration:** Instantaneous  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** No  
 **Power Points:** 7
 
@@ -42,4 +42,4 @@ Objects sealed within quintessence are protected from the effects of time; in pr
 
 Quintessence can be manually scraped away from a protected object, freeing it to rejoin the time stream. When you do this, there is a 75% chance that the quintessence evaporates back into the continuum. Otherwise, it coalesces again into a 1-inch-diameter bead, available for later use.
 
-Large quantities of quintessence could theoretically be gathered to preserve large items or structures (or even a complete living creature; if completely immersed, a living creature would not take the damage associated with partial contact). However, psionic characters and creatures are generally loath to do so because accumulations of quintessence weighing 1 pound or more hinder psionic activity within a 5-foot radius of the accumulation: Powers require twice as many power points to manifest, unless the manifester makes a successful DC 16 Will save each time he or she attempts to manifest a power. Also in these circumstances, manifesting a psi-like ability that is usable at will is a full-round action rather than a standard action.
+Large quantities of quintessence could theoretically be gathered to preserve large items or structures (or even a complete living creature; if completely immersed, a living creature would not take the damage associated with partial contact). However, psionic characters and creatures are generally loath to do so because accumulations of quintessence weighing 1 pound or more hinder psionic activity within a 5-foot radius of the accumulation: Powers require twice as many power points to manifest, unless the quintessence misses the manifester’s Will, which it attacks at +6 each time he or she attempts to manifest a power. Also in these circumstances, manifesting a psi-like ability that is usable at will is a full-round action rather than a standard action.

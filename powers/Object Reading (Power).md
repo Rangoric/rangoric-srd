@@ -11,7 +11,7 @@ manifesting-time: "1 minute"
 range: "Touch"
 target: "Object touched"
 duration: "Concentration, up to 10 min./level (D)"
-saving-throw: "None"
+defense: "None"
 power-resistance: "Yes"
 power-points: "3"
 based-on:
@@ -31,7 +31,7 @@ Clairsentience
 **Range:** Touch  
 **Target:** Object touched  
 **Duration:** Concentration, up to 10 min./level (D)  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** Yes  
 **Power Points:** 3
 

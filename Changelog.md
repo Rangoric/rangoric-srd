@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-26 | Saving throws as defenses, powers (DF 31): Exhalation of the Black Dragon to Skate attack a defense instead of allowing a save; repeated saves make the power attack again, rerolls make the attack reroll, and Remote Viewing's modifiers are on Will Defense. | [[DF Batch 31 Changes]] | | [[Saving Throws as Defenses]] DF 31 |
 | 2026-11-26 | Saving throws as defenses, powers (DF 30): Bend Reality to Evade Burst attack a defense instead of allowing a save; the bold Saving Throw line becomes Defense, Augment save DCs become attack bonuses, and the energy powers' cold forms attack Fortitude. | [[DF Batch 30 Changes]] | | [[Saving Throws as Defenses]] DF 30 |
 | 2026-11-26 | Saving throws as defenses, class options and powers (DF 29): vigilante talents, wild talents and the first psionic powers attack a defense instead of allowing a save; the powers' Saving Throw line becomes Defense, and save DCs become attack bonuses. | [[DF Batch 29 Changes]] | | [[Saving Throws as Defenses]] DF 29 |
 | 2026-11-26 | Saving throws as defenses, class options (DF 28): rage powers, ranger traps, revelations, rogue talents, slayer talents and spirits attack a defense instead of allowing a save; class formula DCs become attack bonuses, repeated saves make the effect attack again, and own rolls with nothing attacking are checks. | [[DF Batch 28 Changes]] | | [[Saving Throws as Defenses]] DF 28 |

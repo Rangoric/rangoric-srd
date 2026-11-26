@@ -8,7 +8,7 @@ display: "Material"
 manifesting-time: "2 rounds"
 range: "See text"
 duration: "Permanent; see text"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "9, XP"
 based-on:
@@ -28,7 +28,7 @@ Metacreativity
 **Range:** See text  
 Target, Effect, or **Area:** See text  
 **Duration:** Permanent; see text  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** No  
 **Power Points:** 9, XP
 

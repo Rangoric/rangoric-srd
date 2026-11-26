@@ -9,7 +9,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "2 sq. ft. of surface area of an object or creature"
 duration: "Concentration, up to 1 min./level"
-saving-throw: "None"
+defense: "None"
 power-resistance: "Yes"
 power-points: "1"
 based-on:
@@ -29,7 +29,7 @@ Psychokinesis
 **Range:** Close (25 ft. + 5 ft./2 levels)  
 **Area:** 2 sq. ft. of surface area of an object or creature  
 **Duration:** Concentration, up to 1 min./level  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** Yes  
 **Power Points:** 1
 

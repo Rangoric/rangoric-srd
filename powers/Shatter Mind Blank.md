@@ -9,7 +9,7 @@ manifesting-time: "1 standard action"
 range: "30 ft."
 area: "30-ft.-radius burst centered on you"
 duration: "Instantaneous"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "9"
 based-on:
@@ -29,8 +29,8 @@ Telepathy
 **Range:** 30 ft.  
 **Area:** 30-ft.-radius burst centered on you  
 **Duration:** Instantaneous  
-**Saving Throw:** Will negates  
+**Defense:** Will  
 **Power Resistance:** Yes  
 **Power Points:** 9
 
-This power can negate a [[rangoric-srd/powers/Mind Blank, Psionic|psionic mind blank]] or a [[rangoric-srd/powers/Mind Blank, Personal|personal mind blank]] affecting the target. If the target fails its save and does not overcome your attempt with its power resistance, you can shatter the mind blank by making a successful check (1d20 + your manifester level, maximum +20) against a DC equal to 11 + the manifester level of the creator of the mind blank effect. If you succeed, the psionic mind blank or personal mind blank ends, allowing you to affect the target thereafter with mind-affecting powers.
+This power can negate a [[rangoric-srd/powers/Mind Blank, Psionic|psionic mind blank]] or a [[rangoric-srd/powers/Mind Blank, Personal|personal mind blank]] affecting the target. If the power hits the target and the target does not overcome your attempt with its power resistance, you can shatter the mind blank by making a successful check (1d20 + your manifester level, maximum +20) against a DC equal to 11 + the manifester level of the creator of the mind blank effect. If you succeed, the psionic mind blank or personal mind blank ends, allowing you to affect the target thereafter with mind-affecting powers.

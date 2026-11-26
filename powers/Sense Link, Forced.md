@@ -6,7 +6,7 @@ descriptor:
   - "Mind-Affecting"
 level:
   - "Psion/wilder 2"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "3"
 based-on:
@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/power]
 
 Telepathy \[Mind-Affecting\]  
 **Level:** Psion/wilder 2  
-**Saving Throw:** Will negates  
+**Defense:** Will  
 **Power Resistance:** Yes  
 **Power Points:** 3
 

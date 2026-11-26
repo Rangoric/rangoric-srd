@@ -10,7 +10,7 @@ manifesting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./ level)"
 area: "20-ft.-radius burst"
 duration: "Instantaneous"
-saving-throw: "Reflex half"
+defense: "Reflex half"
 power-resistance: "No"
 power-points: "9"
 based-on:
@@ -30,7 +30,7 @@ Metacreativity (Creation)
 **Range:** Medium (100 ft. + 10 ft./ level)  
 **Area:** 20-ft.-radius burst  
 **Duration:** Instantaneous  
-**Saving Throw:** Reflex half  
+**Defense:** Reflex half  
 **Power Resistance:** No  
 **Power Points:** 9
 

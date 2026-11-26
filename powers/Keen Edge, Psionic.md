@@ -10,7 +10,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "One weapon or fifty projectiles, all of which must be in contact with each other at the time of manifestation"
 duration: "10 min./level"
-saving-throw: "Will negates (harmless, object)"
+defense: "Will (harmless, object)"
 power-resistance: "Yes (harmless, object)"
 power-points: "5"
 based-on:
@@ -30,7 +30,7 @@ Metacreativity
 **Range:** Close (25 ft. + 5 ft./2 levels)  
 **Targets:** One weapon or fifty projectiles, all of which must be in contact with each other at the time of manifestation  
 **Duration:** 10 min./level  
-**Saving Throw:** Will negates (harmless, object)  
+**Defense:** Will (harmless, object)  
 **Power Resistance:** Yes (harmless, object)  
 **Power Points:** 5
 

@@ -7,7 +7,7 @@ descriptor:
 level:
   - "Telepath 4"
 duration: "10 min./level (D)"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "7"
 based-on:
@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/power]
 Telepathy \[Mind-Affecting\]  
 **Level:** Telepath 4  
 **Duration:** 10 min./level (D)  
-**Saving Throw:** Will negates  
+**Defense:** Will  
 **Power Resistance:** Yes  
 **Power Points:** 7
 
@@ -31,4 +31,4 @@ As [[rangoric-srd/powers/Mindlink (Power)|mindlink]], except that if the target 
 
 Borrowing the subject’s power is a separate standard action that provokes an attack of opportunity. If that attack succeeds, the mental communication provided by this power ends immediately. The borrowed power fades from the subject’s awareness and appears within your own. You can now spend power points to manifest the borrowed power just as if it were one of your powers known. You maintain knowledge of the borrowed power until the duration of your thieving mindlink expires, at which time you lose knowledge of the power and the power reappears in the mind of the subject, no matter how far from you the subject is. Even if the subject is slain, you lose knowledge of the borrowed power when this power’s duration expires.
 
-**Augment:** For every 2 additional power points you spend, this power’s save DC increases by 1.
+**Augment:** For every 2 additional power points you spend, this power’s attack bonus increases by 1.

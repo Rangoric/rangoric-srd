@@ -9,7 +9,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "A nonmagical, unattended object weighing up to 5 lb."
 duration: "Concentration, up to 1 min."
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "1"
 based-on:
@@ -29,7 +29,7 @@ Psychokinesis
 **Range:** Close (25 ft. + 5 ft./2 levels)  
 **Target:** A nonmagical, unattended object weighing up to 5 lb.  
 **Duration:** Concentration, up to 1 min.  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** No  
 **Power Points:** 1
 

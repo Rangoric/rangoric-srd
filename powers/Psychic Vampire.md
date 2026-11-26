@@ -10,7 +10,7 @@ manifesting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "Instantaneous"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 power-resistance: "Yes"
 power-points: "7"
 based-on:
@@ -30,13 +30,13 @@ Psychometabolism
 **Range:** Touch  
 **Target:** Creature touched  
 **Duration:** Instantaneous  
-**Saving Throw:** Fortitude negates  
+**Defense:** Fortitude  
 **Power Resistance:** Yes  
 **Power Points:** 7
 
 This power shrouds your hand or a natural weapon you possess with darkness that you can use to drain an opponent’s power.
 
-If you manifest this power to affect your hand, the next successful melee touch attack you make (if the victim fails its Fortitude save) drains 2 power points from your foe for every manifester level you have. The drained points simply dissipate. Your touch attack, charged with psionic power, is treated as an armed attack.
+If you manifest this power to affect your hand, the next successful melee touch attack you make (if the power also hits the victim’s Fortitude) drains 2 power points from your foe for every manifester level you have. The drained points simply dissipate. Your touch attack, charged with psionic power, is treated as an armed attack.
 
 If you manifest this power to affect a natural weapon you possess, you must make a successful melee attack with the weapon to gain the power’s benefit.
 

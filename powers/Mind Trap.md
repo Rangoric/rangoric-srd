@@ -11,7 +11,7 @@ manifesting-time: "1 immediate action"
 range: "Personal"
 target: "You"
 duration: "1 round"
-saving-throw: "None"
+defense: "None"
 power-resistance: "Yes (harmless)"
 power-points: "5"
 based-on:
@@ -31,7 +31,7 @@ Telepathy \[Mind-Affecting\]
 **Range:** Personal  
 **Target:** You  
 **Duration:** 1 round  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** Yes (harmless)  
 **Power Points:** 5
 

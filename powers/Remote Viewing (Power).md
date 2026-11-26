@@ -12,7 +12,7 @@ manifesting-time: "1 hour"
 range: "See text"
 effect: "Quasi-real viewpoint"
 duration: "1 min./level (D)"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "7, XP"
 based-on:
@@ -32,29 +32,29 @@ Clairsentience (Scrying; see text)
 **Range:** See text  
 **Effect:** Quasi-real viewpoint  
 **Duration:** 1 min./level (D)  
-**Saving Throw:** Will negates  
+**Defense:** Will  
 **Power Resistance:** Yes  
 **Power Points:** 7, XP
 
-You send your mind across space and dimensions, forming it into a quasireal viewpoint from which you can see and hear some creature located at any distance from you, even if planar boundaries separate you. If the subject succeeds on a Will save, the remote viewing attempt fails, and you can’t attempt to view that creature again for at least 24 hours. The difficulty of the save depends on how well you know the subject and what sort of physical connection (if any) you have to that creature. Furthermore, if the subject is on another plane, it gets a +5 bonus on its Will save.
+You send your mind across space and dimensions, forming it into a quasireal viewpoint from which you can see and hear some creature located at any distance from you, even if planar boundaries separate you. The power attacks the subject’s Will, and on a miss the remote viewing attempt fails, and you can’t attempt to view that creature again for at least 24 hours. The subject’s Will Defense modifier depends on how well you know the subject and what sort of physical connection (if any) you have to that creature. Furthermore, if the subject is on another plane, it gets a +5 bonus to its Will Defense.
 
-| Knowledge                                  | Will Save Modifier |
-| ------------------------------------------ | ------------------ |
-| None (1)                                   | +10                |
-| Secondhand (you have heard of the subject) | +5                 |
-| Firsthand (you have met the subject)       | +0                 |
-| Familiar (you know the subject well)       | –5                 |
+| Knowledge                                  | Will Defense Modifier |
+| ------------------------------------------ | --------------------- |
+| None (1)                                   | +10                   |
+| Secondhand (you have heard of the subject) | +5                    |
+| Firsthand (you have met the subject)       | +0                    |
+| Familiar (you know the subject well)       | –5                    |
 
 1 _You must have some sort of connection to a creature you have no knowledge of._
 
-| Connection                                 | Will Save Modifier |
-| ------------------------------------------ | ------------------ |
-| Likeness or picture                        | –2                 |
-| Possession or garment                      | –4                 |
-| Body part, lock of hair, bit of nail, etc. | –10                |
-| Subject on another plane                   | +5                 |
+| Connection                                 | Will Defense Modifier |
+| ------------------------------------------ | --------------------- |
+| Likeness or picture                        | –2                    |
+| Possession or garment                      | –4                    |
+| Body part, lock of hair, bit of nail, etc. | –10                   |
+| Subject on another plane                   | +5                    |
 
-If the subject fails its Will save, your mind coalesces a quasi-real viewpoint near enough to the subject to see and hear the subject and its immediate surroundings (up 30 feet in all directions away from the subject).
+If the power hits, your mind coalesces a quasi-real viewpoint near enough to the subject to see and hear the subject and its immediate surroundings (up 30 feet in all directions away from the subject).
 
 While the remote viewing lasts, your real body remains unmoving and unaware of your actual surroundings. On the other hand, your quasi-real viewpoint is treated in some ways as if it were an [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] ectoplasmic form of yourself, except as follows. This power is of the Scrying subdiscipline, but use the following information in place of the standard scrying sensor. As a quasi-real viewpoint, you can speak (though your voice is whispery).
 

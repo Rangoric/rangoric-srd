@@ -11,7 +11,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. +5 ft./2 levels)"
 target: "One creature"
 duration: "Instantaneous"
-saving-throw: "Will partial; see text"
+defense: "Will partial; see text"
 power-resistance: "Yes"
 power-points: "9"
 based-on:
@@ -31,10 +31,10 @@ Telepathy \[Mind-Affecting\]
 **Range:** Close (25 ft. +5 ft./2 levels)  
 **Target:** One creature  
 **Duration:** Instantaneous  
-**Saving Throw:** Will partial; see text  
+**Defense:** Will partial; see text  
 **Power Resistance:** Yes  
 **Power Points:** 9
 
-Your will abruptly and brutally crushes the mental essence of any one creature, debilitating its acumen. The target must make a Will save with a +4 bonus or collapse [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] and [[rangoric-srd/rules/Special Abilities and Conditions#^dying|dying]] at -1 hit points. If the target succeeds on the save, it takes 3d6 points of damage.
+Your will abruptly and brutally crushes the mental essence of any one creature, debilitating its acumen. It attacks the target’s Will, which gets a +4 bonus against it, and on a hit the target collapses [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] and [[rangoric-srd/rules/Special Abilities and Conditions#^dying|dying]] at -1 hit points. If it misses, the target takes 3d6 points of damage.
 
 **Augment:** For every 2 additional power points you spend, this power’s damage increases by 1d6 points.

@@ -9,7 +9,7 @@ manifesting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 min./level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 power-resistance: "Yes (harmless)"
 power-points: "9"
 based-on:
@@ -29,7 +29,7 @@ Clairsentience
 **Range:** Touch  
 **Target:** Creature touched  
 **Duration:** 1 min./level  
-**Saving Throw:** Will negates (harmless)  
+**Defense:** Will (harmless)  
 **Power Resistance:** Yes (harmless)  
 **Power Points:** 9
 

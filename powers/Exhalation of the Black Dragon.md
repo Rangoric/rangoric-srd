@@ -11,7 +11,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "Ray"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 power-resistance: "Yes"
 power-points: "5"
 based-on:
@@ -31,7 +31,7 @@ Psychometabolism \[Acid\]
 **Range:** Close (25 ft. + 5 ft./2 levels)  
 **Effect:** Ray  
 **Duration:** Instantaneous  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** Yes  
 **Power Points:** 5
 

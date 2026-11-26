@@ -9,7 +9,7 @@ manifesting-time: "One day"
 range: "Touch"
 target: "One touched object"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "3"
 based-on:
@@ -29,7 +29,7 @@ Clairsentience
 **Range:** Touch  
 **Target:** One touched object  
 **Duration:** Instantaneous  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** No  
 **Power Points:** 3
 

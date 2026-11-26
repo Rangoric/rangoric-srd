@@ -9,7 +9,7 @@ manifesting-time: "1 standard action"
 range: "0 ft."
 effect: "Ethereal 5-ft. by 8-ft. opening, 10 ft. deep + 5 ft. deep per three levels"
 duration: "One usage per two levels"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "13"
 based-on:
@@ -29,7 +29,7 @@ Psychoportation
 **Range:** 0 ft.  
 **Effect:** Ethereal 5-ft. by 8-ft. opening, 10 ft. deep + 5 ft. deep per three levels  
 **Duration:** One usage per two levels  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** No  
 **Power Points:** 13
 

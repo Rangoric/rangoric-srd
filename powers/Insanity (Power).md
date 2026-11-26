@@ -14,7 +14,7 @@ manifesting-time: "1 standardaction"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One creature"
 duration: "Instantaneous"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "13"
 based-on:
@@ -34,7 +34,7 @@ Telepathy (Compulsion) \[Mind-Affecting\]
 **Range:** Medium (100 ft. + 10 ft./level)  
 **Target:** One creature  
 **Duration:** Instantaneous  
-**Saving Throw:** Will negates  
+**Defense:** Will  
 **Power Resistance:** Yes  
 **Power Points:** 13
 
@@ -52,4 +52,4 @@ Creatures affected by this power are permanently [[rangoric-srd/rules/Special Ab
 
 Only [[rangoric-srd/powers/Psychic Chirurgery|psychic chirurgery]], [[rangoric-srd/powers/Reality Revision|reality revision]], and other similarly extreme measures can restore the subject’s sanity.
 
-**Augment:** For every 2 additional power points you spend, this power’s save DC increases by 1, and the power can affect an additional target. Any additional target cannot be more than 15 feet from another target of the power.
+**Augment:** For every 2 additional power points you spend, this power’s attack bonus increases by 1, and the power can affect an additional target. Any additional target cannot be more than 15 feet from another target of the power.

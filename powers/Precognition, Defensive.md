@@ -32,7 +32,7 @@ Clairsentience
 
 Your awareness extends a fraction of a second into the future, allowing you to better evade an opponent’s blows.
 
-You gain a +1 insight bonus to AC and on all saving throws. If caught in a situation where your Dexterity bonus isn’t applied to your Armor Class, this bonus to AC and saving throws does not apply.
+You gain a +1 insight bonus to AC and all defenses. If caught in a situation where your Dexterity bonus isn’t applied to your Armor Class, this bonus to AC and defenses does not apply.
 
 **Augment:** You can augment this power in one or both of the following ways.
 

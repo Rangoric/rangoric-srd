@@ -13,7 +13,7 @@ manifesting-time: "1 standard action"
 range: "Touch"
 target: "One touched Medium or smaller humanoid"
 duration: "Instantaneous; see text"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "15, XP"
 based-on:
@@ -33,7 +33,7 @@ Telepathy (Compulsion) \[Evil, Mind-Affecting\]
 **Range:** Touch  
 **Target:** One touched Medium or smaller humanoid  
 **Duration:** Instantaneous; see text  
-**Saving Throw:** Will negates  
+**Defense:** Will  
 **Power Resistance:** Yes  
 **Power Points:** 15, XP
 

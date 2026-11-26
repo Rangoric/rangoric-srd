@@ -13,7 +13,7 @@ display: "Material"
 manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 power-resistance: "Yes"
 power-points: "17"
 based-on:
@@ -33,7 +33,7 @@ Telepathy (Compulsion) \[Mind-Affecting\]
 **Range:** Close (25 ft. + 5 ft./2 levels)  
 Target or Area: One creature; or one or more creatures within a 15-ft.-radius sphere  
 **Duration:** Instantaneous  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** Yes  
 **Power Points:** 17
 

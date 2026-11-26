@@ -11,7 +11,7 @@ manifesting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./ level)"
 target: "One Medium or smaller humanoid"
 duration: "1 round/level (D)"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "7"
 based-on:
@@ -31,7 +31,7 @@ Telepathy \[Mind-Affecting\]
 **Range:** Medium (100 ft. + 10 ft./ level)  
 **Target:** One Medium or smaller humanoid  
 **Duration:** 1 round/level (D)  
-**Saving Throw:** Will negates  
+**Defense:** Will  
 **Power Resistance:** Yes  
 **Power Points:** 7
 
@@ -41,6 +41,6 @@ The parasitic personality manifests powers using the subject’s power point res
 
 The parasitic personality actively attempts to manifest powers that negatively impact the subject, using the highest-level powers possible (so as to deplete the subject’s power point reserve), and the most deadly to the subject. You do not have control over what the parasitic personality does, though it always works against the interest of the subject.
 
-Both minds communicate with each other telepathically. If a creature is targeted by a compulsion or charm effect while under the effect of this power, it can make a second saving throw if the first one fails. If both saving throws fail, then this power ends and the creature is affected by the charm or compulsion effect.
+Both minds communicate with each other telepathically. If a creature is targeted by a compulsion or charm effect while under the effect of this power, it can make the effect attack it a second time if the first attack hits. If both attacks hit, then this power ends and the creature is affected by the charm or compulsion effect.
 
 The parasitic personality does not gain any advantages if the main personality is subjected to a [[rangoric-srd/spells/Haste|haste]] or [[rangoric-srd/powers/Schism|schism]] effect.

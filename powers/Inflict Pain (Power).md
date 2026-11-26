@@ -13,7 +13,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 round/level"
-saving-throw: "Will partial; see text"
+defense: "Will partial; see text"
 power-resistance: "Yes"
 power-points: "3"
 based-on:
@@ -33,10 +33,10 @@ Telepathy \[Mind-Affecting\]
 **Range:** Close (25 ft. + 5 ft./2 levels)  
 **Target:** One creature  
 **Duration:** 1 round/level  
-**Saving Throw:** Will partial; see text  
+**Defense:** Will partial; see text  
 **Power Resistance:** Yes  
 **Power Points:** 3
 
-You telepathically stab the mind of your foe, causing horrible agony. The subject suffers wracking pain that imposes a -4 penalty on attack rolls, skill checks, and ability checks. If the target makes its save, it takes only a -2 penalty.
+You telepathically stab the mind of your foe, causing horrible agony. The subject suffers wracking pain that imposes a -4 penalty on attack rolls, skill checks, and ability checks. If the power misses, the target takes only a -2 penalty.
 
-**Augment:** For every 2 additional power points you spend, this power’s save DC increases by 1, and the power can affect an additional target. Any additional target cannot be more than 15 feet from another target of the power.
+**Augment:** For every 2 additional power points you spend, this power’s attack bonus increases by 1, and the power can affect an additional target. Any additional target cannot be more than 15 feet from another target of the power.

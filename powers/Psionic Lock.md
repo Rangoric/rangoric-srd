@@ -9,7 +9,7 @@ manifesting-time: "1 standard action"
 range: "Touch"
 target: "Door, chest, or portal touched, up to 30 sq. ft./level in size"
 duration: "Permanent"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "3"
 based-on:
@@ -29,7 +29,7 @@ Psychoportation
 **Range:** Touch  
 **Target:** Door, chest, or portal touched, up to 30 sq. ft./level in size  
 **Duration:** Permanent  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** No  
 **Power Points:** 3
 
