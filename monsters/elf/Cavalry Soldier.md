@@ -16,7 +16,7 @@ full-attack: "+1 lance +13/+8 melee (1d8+5/×3); or masterwork heavy pick +13/+8
 space-reach: "5 ft./5 ft. (10 ft. with lance)"
 special-attacks: "—"
 special-qualities: "Low-light vision, elf blood"
-saves: "Fort +7, Ref +3, Will +4 (+2 vs. enchantments)"
+defenses: "Fort 17, Ref 13, Will 14 (+2 vs. enchantments)"
 abilities: "Str 16, Dex 10, Con 12, Int 11, Wis 8, Cha 10"
 skills: "Animal Handling +8, Perception +8"
 skill-ranks: "Animal Handling 5, Perception 6"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with lance)
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]]
-- **Saves**: Fort +7, Ref +3, Will +4 (+2 vs. enchantments)
+- **Defenses**: Fort 17, Ref 13, Will 14 (+2 vs. enchantments)
 - **Abilities**: Str 16, Dex 10, Con 12, Int 11, Wis 8, Cha 10
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Perception|Perception]] +8
 - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mounted Archery|Mounted Archery]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Spirited Charge|Spirited Charge]]

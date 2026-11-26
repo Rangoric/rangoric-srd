@@ -16,7 +16,7 @@ full-attack: "Masterwork light mace +3 melee (1d6); or 2 claws +2 melee (1d4); o
 space-reach: "5 ft./5 ft."
 special-attacks: "Claws (2, 1d4, treated as magic, 7 rounds/day)"
 special-qualities: "Low-light vision, bloodline arcana (acid spells deal +1 damage per die), elf blood, resistance to acid 5 and fire 10"
-saves: "Fort +3, Ref +6, Will +4 (+2 vs. enchantments)"
+defenses: "Fort 13, Ref 16, Will 14 (+2 vs. enchantments)"
 abilities: "Str 10, Dex 14, Con 12, Int 13, Wis 8, Cha 18"
 skills: "Arcana +7, Emulation +13, Intimidation +10, Mysticism +7, Perception +7"
 skill-ranks: "Arcana 3, Emulation 6, Intimidation 3, Mysticism 3, Perception 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|Claws]] (2, 1d4, treated as magic, 7 rounds/day)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|bloodline arcana]] (acid spells deal +1 damage per die), [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 5 and fire 10
-- **Saves**: Fort +3, Ref +6, Will +4 (+2 vs. enchantments)
+- **Defenses**: Fort 13, Ref 16, Will 14 (+2 vs. enchantments)
 - **Abilities**: Str 10, Dex 14, Con 12, Int 13, Wis 8, Cha 18
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Emulation|Emulation]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Perception|Perception]] +7
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Emulation)
@@ -75,4 +75,4 @@ A bramble sorcerer speaks Common, Draconic, and Elven.
 
 **Base Statistics**: Without mage armor and resist energy, the sorcerer's statistics are **AC** 14, touch 13, flat-footed 11; **Resist** acid 5.
 
-**Sorcerer spells known** (CL 5th; concentration +9): 2nd (5/day)—_[[rangoric-srd/spells/Acid Arrow|acid arrow]]_, _[[rangoric-srd/spells/Mirror Image|mirror image]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_; 1st (7/day)—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (DC 15), _[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 15), _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_ (DC 15); 0 (at will)—_[[rangoric-srd/spells/Acid Splash|acid splash]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 14), _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Message|message]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|draconic (green)]].
+**Sorcerer spells known** (CL 5th; concentration +9): 2nd (5/day)—_[[rangoric-srd/spells/Acid Arrow|acid arrow]]_, _[[rangoric-srd/spells/Mirror Image|mirror image]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_; 1st (7/day)—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (+5 vs Will), _[[rangoric-srd/spells/Charm Person|charm person]]_ (+5 vs Will), _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_ (+5); 0 (at will)—_[[rangoric-srd/spells/Acid Splash|acid splash]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+4 vs Will), _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Message|message]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|draconic (green)]].

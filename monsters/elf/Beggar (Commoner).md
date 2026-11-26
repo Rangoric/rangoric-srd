@@ -16,7 +16,7 @@ full-attack: "Dagger –1 melee (1d4–1/19–20)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, elf blood, immunity to sleep"
-saves: "Fort +1, Ref +2, Will –1 (+2 vs. enchantments)"
+defenses: "Fort 11, Ref 12, Will 9 (+2 vs. enchantments)"
 abilities: "Str 8, Dex 14, Con 13, Int 11, Wis 9, Cha 10"
 skills: "Deception +4, Imitation +2, Perception +5"
 skill-ranks: "Deception 1, Imitation 2, Perception 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
-- **Saves**: Fort +1, Ref +2, Will –1 (+2 vs. enchantments)
+- **Defenses**: Fort 11, Ref 12, Will 9 (+2 vs. enchantments)
 - **Abilities**: Str 8, Dex 14, Con 13, Int 11, Wis 9, Cha 10
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +4, [[rangoric-srd/skills/Imitation|Imitation]] +2, [[rangoric-srd/skills/Perception|Perception]] +5
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)

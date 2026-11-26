@@ -16,7 +16,7 @@ full-attack: "Masterwork elven curve blade +8 melee (1d10+3/18–20); or masterw
 space-reach: "5 ft./5 ft."
 special-attacks: "Weapon training (bows +1)"
 special-qualities: "Low-light vision, bravery +1, armor training 1, elven magic, weapon familiarity, immunity to sleep"
-saves: "Fort +7, Ref +6, Will +1 (+2 vs. enchantments, +1 vs. fear)"
+defenses: "Fort 17, Ref 16, Will 11 (+2 vs. enchantments, +1 vs. fear)"
 abilities: "Str 14, Dex 18, Con 14, Int 15, Wis 8, Cha 10"
 skills: "Animal Handling +8, Athletics +5, Craft (bows) +8, Fieldcraft +3, Perception +6, Stealth +6"
 skill-ranks: "Animal Handling 5, Athletics 3, Craft (bows) 3, Fieldcraft 1, Perception 4, Stealth 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (bows +1)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
-- **Saves**: Fort +7, Ref +6, Will +1 (+2 vs. enchantments, +1 vs. fear)
+- **Defenses**: Fort 17, Ref 16, Will 11 (+2 vs. enchantments, +1 vs. fear)
 - **Abilities**: Str 14, Dex 18, Con 14, Int 15, Wis 8, Cha 10
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Craft|Craft]] (bows) +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (composite longbow), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (composite longbow)

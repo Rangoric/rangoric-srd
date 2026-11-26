@@ -14,9 +14,9 @@ cmd: "22"
 attack: "Slam +9 melee (1d6+3)"
 full-attack: "Slam +9 melee (1d6+3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Whirlwind (DC 14)"
+special-attacks: "Whirlwind (+4 vs Reflex)"
 special-qualities: "Darkvision 60 ft., air mastery, elemental traits"
-saves: "Fort +6, Ref +9, Will +1"
+defenses: "Fort 16, Ref 19, Will 11"
 abilities: "Str 14, Dex 21, Con 14, Int 4, Wis 11, Cha 11"
 skills: "Acrobatics +17, Escape Artist +9, Perception +7, Stealth +10, Theology +1"
 skill-ranks: "Acrobatics 9, Escape Artist 1, Perception 4, Stealth 2, Theology 1"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +9 melee (1d6+3)
 - **Full Attack**: Slam +9 melee (1d6+3)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Whirlwind|Whirlwind]] (DC 14)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Whirlwind|Whirlwind]] (+4 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/elemental/Air Elemental#^air-mastery|air mastery]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-- **Saves**: Fort +6, Ref +9, Will +1
+- **Defenses**: Fort 16, Ref 19, Will 11
 - **Abilities**: Str 14, Dex 21, Con 14, Int 4, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +10, [[rangoric-srd/skills/Theology|Theology]] +1
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

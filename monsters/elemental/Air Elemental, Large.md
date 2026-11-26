@@ -14,9 +14,9 @@ cmd: "31"
 attack: "Slam +14 melee (1d8+4)"
 full-attack: "2 slams +14 melee (1d8+4)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Whirlwind (DC 18)"
+special-attacks: "Whirlwind (+8 vs Reflex)"
 special-qualities: "Darkvision 60 ft., air mastery, damage reduction 5/-, elemental traits"
-saves: "Fort +9, Ref +13, Will +2"
+defenses: "Fort 19, Ref 23, Will 12"
 abilities: "Str 18, Dex 25, Con 16, Int 6, Wis 11, Cha 11"
 skills: "Acrobatics +21, Escape Artist +15, Perception +11, Stealth +11, Theology +5"
 skill-ranks: "Acrobatics 13, Escape Artist 5, Perception 8, Stealth 5, Theology 4"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +14 melee (1d8+4)
 - **Full Attack**: 2 slams +14 melee (1d8+4)
 - **Space/Reach**: 10 ft./10 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Whirlwind|Whirlwind]] (DC 18)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Whirlwind|Whirlwind]] (+8 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/elemental/Air Elemental#^air-mastery|air mastery]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-- **Saves**: Fort +9, Ref +13, Will +2
+- **Defenses**: Fort 19, Ref 23, Will 12
 - **Abilities**: Str 18, Dex 25, Con 16, Int 6, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +21, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +15, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +11, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

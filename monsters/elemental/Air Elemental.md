@@ -28,7 +28,7 @@ Their rapid speed makes air elementals useful on vast battlefields or in extende
 
 **Air Mastery (Ex)**: Airborne creatures take a –1 penalty on attack and damage rolls against an air elemental. ^air-mastery
 
-**Whirlwind (Su)**: An air elemental can become a [[rangoric-srd/monsters/abilities/Whirlwind|whirlwind]]. Its save DC is in each air elemental's stat block, and its height in the table below.
+**Whirlwind (Su)**: An air elemental can become a [[rangoric-srd/monsters/abilities/Whirlwind|whirlwind]]. Its attack bonus is in each air elemental's stat block, and its height in the table below.
 
 **Air Elemental Sizes**
 

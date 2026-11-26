@@ -14,9 +14,9 @@ cmd: "11 (can't be tripped)"
 attack: "Slam +4 melee (1d4+1 plus 1d3 cold)"
 full-attack: "Slam +4 melee (1d4+1 plus 1d3 cold)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Numbing cold (DC 12)"
+special-attacks: "Numbing cold (+2 vs Fortitude)"
 special-qualities: "Darkvision 60 ft., snow vision, ice glide, icewalking, immunity to cold, elemental traits, vulnerable to fire"
-saves: "Fort +4, Ref +2, Will +0"
+defenses: "Fort 14, Ref 12, Will 10"
 abilities: "Str 12, Dex 8, Con 13, Int 4, Wis 11, Cha 11"
 skills: "Athletics +9, Perception +5, Stealth +8, Theology +2"
 skill-ranks: "Athletics 5, Perception 2, Stealth 2, Theology 2"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +4 melee (1d4+1 plus 1d3 cold)
 - **Full Attack**: Slam +4 melee (1d4+1 plus 1d3 cold)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/elemental/Ice Elemental#^numbing-cold|Numbing cold]] (DC 12)
+- **Special Attacks**: [[rangoric-srd/monsters/elemental/Ice Elemental#^numbing-cold|Numbing cold]] (+2 vs Fortitude)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Snow Vision|snow vision]], [[rangoric-srd/monsters/elemental/Ice Elemental#^ice-glide|ice glide]], [[rangoric-srd/monsters/abilities/Icewalking|icewalking]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], vulnerable to fire
-- **Saves**: Fort +4, Ref +2, Will +0
+- **Defenses**: Fort 14, Ref 12, Will 10
 - **Abilities**: Str 12, Dex 8, Con 13, Int 4, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +8, [[rangoric-srd/skills/Theology|Theology]] +2
 - **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]]

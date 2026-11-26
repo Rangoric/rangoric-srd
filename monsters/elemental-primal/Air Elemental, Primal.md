@@ -19,7 +19,7 @@ full-attack: "2 Slams +57 (4d8+16) melee"
 space-reach: "30 ft./30 ft."
 special-attacks: "Air mastery, whirlwind"
 special-qualities: "Elemental traits, DR 10/­-, SR 42"
-saves: "Fort +42, Ref +52, Will +28"
+defenses: "Fort 52, Ref 62, Will 38"
 abilities: "Str 32, Dex 43, Con 28, Int 8, Wis 13, Cha 13"
 skills: "Perception +74"
 skill-ranks: "Perception 64"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 30 ft./30 ft.
 - **Special Attacks**: Air mastery, whirlwind
 - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|Elemental traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/­-, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 42
-- **Saves**: Fort +42, Ref +52, Will +28
+- **Defenses**: Fort 52, Ref 62, Will 38
 - **Abilities**: Str 32, Dex 43, Con 28, Int 8, Wis 13, Cha 13
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +74
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)

@@ -28,7 +28,7 @@ Fire elementals speak Ignan, though they rarely choose to do so.
 
 A fire elemental is a fierce opponent that attacks its enemies directly and savagely. It takes joy in burning the creatures and objects of the Material Plane to ashes.
 
-**Burn (Ex)**: A fire elemental’s slam attack sets those it hits alight ([[rangoric-srd/monsters/abilities/Burn|burn]]). The damage and save DC are in each fire elemental's stat block.
+**Burn (Ex)**: A fire elemental’s slam attack sets those it hits alight ([[rangoric-srd/monsters/abilities/Burn|burn]]). The damage and attack bonus are in each fire elemental's stat block.
 
 **Fire Elemental Sizes**
 

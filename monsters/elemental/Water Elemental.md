@@ -34,7 +34,7 @@ A water elemental can be a serious threat to a ship that crosses its path. An el
 
 **Drench (Ex)**: The elemental's touch puts out nonmagical flames of Large size or smaller. The creature can dispel magical fire it touches as _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_ (caster level equals elemental's HD). ^drench
 
-**Vortex (Su)**: A water elemental can create a whirlpool as a standard action, at will. This ability functions identically to the [[rangoric-srd/monsters/abilities/Whirlwind|whirlwind]] special attack, but can only form underwater and cannot leave the water. Its save DC is in each water elemental's stat block, and its height in the table below. ^vortex
+**Vortex (Su)**: A water elemental can create a whirlpool as a standard action, at will. This ability functions identically to the [[rangoric-srd/monsters/abilities/Whirlwind|whirlwind]] special attack, but can only form underwater and cannot leave the water. Its attack bonus is in each water elemental's stat block, and its height in the table below. ^vortex
 
 **Skills**: Like any creature with a [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^movement-modes|swim speed]], a water elemental is better at swimming.
 

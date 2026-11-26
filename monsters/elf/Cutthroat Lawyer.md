@@ -16,7 +16,7 @@ full-attack: "Masterwork rapier +6/+1 melee (1d6–1/18–20)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, elf blood"
-saves: "Fort +3, Ref +2, Will +9 (+2 vs. enchantments)"
+defenses: "Fort 13, Ref 12, Will 19 (+2 vs. enchantments)"
 abilities: "Str 9, Dex 8, Con 10, Int 12, Wis 12, Cha 16"
 skills: "Deception +21, Intimidation +22, Linguistics +6, Mysticism +8, Perception +13, Persuasion +21, Profession (barrister) +13, Sense Motive +13, Society +9"
 skill-ranks: "Deception 15, Intimidation 14, Linguistics 2, Mysticism 4, Perception 8, Persuasion 17, Profession (barrister) 9, Sense Motive 11, Society 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]]
-- **Saves**: Fort +3, Ref +2, Will +9 (+2 vs. enchantments)
+- **Defenses**: Fort 13, Ref 12, Will 19 (+2 vs. enchantments)
 - **Abilities**: Str 9, Dex 8, Con 10, Int 12, Wis 12, Cha 16
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +22, [[rangoric-srd/skills/Linguistics|Linguistics]] +6, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Persuasion|Persuasion]] +21, [[rangoric-srd/skills/Profession|Profession]] (barrister) +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Society|Society]] +9
 - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (rapier), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Persuasion, Intimidation, Perception)

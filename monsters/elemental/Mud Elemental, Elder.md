@@ -14,9 +14,9 @@ cmd: "44"
 attack: "Slam +24 melee (2d10+10/19–20 plus entrap)"
 full-attack: "2 slams +24 melee (2d10+10/19–20 plus entrap)"
 space-reach: "15 ft./15 ft."
-special-attacks: "Entrap (DC 22, 10 minutes, hardness 5, hp 15)"
+special-attacks: "Entrap (+12 vs Fortitude, 10 minutes, hardness 5, hp 15)"
 special-qualities: "Darkvision 60 ft., tremorsense 30 ft., damage reduction 10/-, immunity to acid, elemental traits"
-saves: "Fort +14, Ref +17, Will +5"
+defenses: "Fort 24, Ref 27, Will 15"
 abilities: "Str 30, Dex 20, Con 19, Int 10, Wis 11, Cha 11"
 skills: "Athletics +29, Escape Artist +24, Intimidation +19, Perception +19, Stealth +16, Theology +19"
 skill-ranks: "Athletics 16, Escape Artist 16, Intimidation 16, Perception 16, Stealth 16, Theology 16"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +24 melee (2d10+10/19–20 plus [[rangoric-srd/monsters/abilities/Entrap|entrap]])
 - **Full Attack**: 2 slams +24 melee (2d10+10/19–20 plus [[rangoric-srd/monsters/abilities/Entrap|entrap]])
 - **Space/Reach**: 15 ft./15 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Entrap|Entrap]] (DC 22, 10 minutes, hardness 5, hp 15)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Entrap|Entrap]] (+12 vs Fortitude, 10 minutes, hardness 5, hp 15)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-- **Saves**: Fort +14, Ref +17, Will +5
+- **Defenses**: Fort 24, Ref 27, Will 15
 - **Abilities**: Str 30, Dex 20, Con 19, Int 10, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +29, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +24, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +16, [[rangoric-srd/skills/Theology|Theology]] +19
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (slams), [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]]

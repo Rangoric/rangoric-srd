@@ -14,9 +14,9 @@ cmd: "38"
 attack: "Slam +17 melee (2d6+6)"
 full-attack: "2 slams +17 melee (2d6+6)"
 space-reach: "15 ft./15 ft."
-special-attacks: "Whirlwind (DC 21)"
+special-attacks: "Whirlwind (+11 vs Reflex)"
 special-qualities: "Darkvision 60 ft., air mastery, damage reduction 5/-, elemental traits"
-saves: "Fort +11, Ref +16, Will +5"
+defenses: "Fort 21, Ref 26, Will 15"
 abilities: "Str 22, Dex 29, Con 18, Int 6, Wis 11, Cha 11"
 skills: "Acrobatics +23, Escape Artist +18, Perception +13, Stealth +9, Theology +7"
 skill-ranks: "Acrobatics 15, Escape Artist 6, Perception 10, Stealth 5, Theology 6"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +17 melee (2d6+6)
 - **Full Attack**: 2 slams +17 melee (2d6+6)
 - **Space/Reach**: 15 ft./15 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Whirlwind|Whirlwind]] (DC 21)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Whirlwind|Whirlwind]] (+11 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/elemental/Air Elemental#^air-mastery|air mastery]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-- **Saves**: Fort +11, Ref +16, Will +5
+- **Defenses**: Fort 21, Ref 26, Will 15
 - **Abilities**: Str 22, Dex 29, Con 18, Int 6, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +18, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +9, [[rangoric-srd/skills/Theology|Theology]] +7
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

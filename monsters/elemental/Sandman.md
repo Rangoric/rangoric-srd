@@ -15,8 +15,8 @@ attack: "Slam +6 melee (1d6+3 plus sleep)"
 full-attack: "Slam +6 melee (1d6+3 plus sleep)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
-special-qualities: "Darkvision 60 ft., tremorsense 30 ft., sleep (20 ft., DC 14), amorphous, compression, sand form, damage reduction 10/bludgeoning, elemental traits"
-saves: "Fort +6, Ref +5, Will +3"
+special-qualities: "Darkvision 60 ft., tremorsense 30 ft., sleep (20 ft., +4 vs Will), amorphous, compression, sand form, damage reduction 10/bludgeoning, elemental traits"
+defenses: "Fort 16, Ref 15, Will 13"
 abilities: "Str 14, Dex 13, Con 15, Int 10, Wis 11, Cha 10"
 skills: "Acrobatics +8, Athletics +9, Perception +7, Sense Motive +7, Stealth +8 (+12 in sand), Theology +7"
 skill-ranks: "Acrobatics 4, Athletics 4, Perception 4, Sense Motive 4, Stealth 4, Theology 4"
@@ -50,8 +50,8 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: Slam +6 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Sleep (Sandman)|sleep]])
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
-- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Sleep (Sandman)|sleep]] (20 ft., DC 14), [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Sand Form|sand form]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/bludgeoning, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-- **Saves**: Fort +6, Ref +5, Will +3
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Sleep (Sandman)|sleep]] (20 ft., +4 vs Will), [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Sand Form|sand form]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/bludgeoning, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
+- **Defenses**: Fort 16, Ref 15, Will 13
 - **Abilities**: Str 14, Dex 13, Con 15, Int 10, Wis 11, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+12 in sand), [[rangoric-srd/skills/Theology|Theology]] +7
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]]
@@ -75,6 +75,6 @@ Sandmans speak Terran.
 
 **[[rangoric-srd/monsters/abilities/Sand Form|Sand Form]] (Su)**: As a standard action, a sandman can cause its humanoid form to collapse into a pile of animated sand. In this form, treat the sandman as if it were a Small earth elemental made out of sand. The sandman retains its compression and sleep aura abilities when in sand form, but loses its sleep attack and its damage reduction, as its sandy body in this form is much more compact and easier to scatter with solid weapon blows.
 
-**[[rangoric-srd/monsters/abilities/Sleep (Sandman)|Sleep]] (Su)**: A creature struck by a sandman's slam attack must succeed on a DC 14 Will save or immediately fall asleep, as if affected by a sleep spell (caster level 8th). There is no limit to the number of Hit Dice a sandman can affect with this ability. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Sleep (Sandman)|Sleep]] (Su)**: A creature struck by a sandman's slam attack is attacked at +4 vs Will, and on a hit immediately falls asleep, as if affected by a sleep spell (caster level 8th). There is no limit to the number of Hit Dice a sandman can affect with this ability. The attack bonus is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Sleep Aura|Sleep Aura]] (Su)**: A sandman radiates a 20-foot-radius spread that puts creatures to sleep. Any creature in the area must succeed on a DC 14 Will save or fall asleep, as if affected by a sleep spell (caster level 8th). There is no limit to the number of Hit Dice a sandman can affect with this ability. A creature that successfully saves is immune to that sandman's sleep aura for 24 hours. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Sleep Aura|Sleep Aura]] (Su)**: A sandman radiates a 20-foot-radius spread that puts creatures to sleep. The aura attacks any creature in the area at +4 vs Will, and on a hit it falls asleep, as if affected by a sleep spell (caster level 8th). There is no limit to the number of Hit Dice a sandman can affect with this ability. A creature the aura misses is immune to that sandman's sleep aura for 24 hours. The attack bonus is Constitution-based.

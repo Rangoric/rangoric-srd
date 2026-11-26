@@ -16,7 +16,7 @@ full-attack: "2 slams +17 melee (2d8+9)"
 space-reach: "15 ft./15 ft."
 special-attacks: "Earth mastery"
 special-qualities: "Darkvision 60 ft., tremorsense 60 ft., damage reduction 5/-, elemental traits"
-saves: "Fort +11, Ref +2, Will +7"
+defenses: "Fort 21, Ref 12, Will 17"
 abilities: "Str 28, Dex 8, Con 19, Int 6, Wis 11, Cha 11"
 skills: "Appraise +6, Athletics +18, Dungeoneering +4, Perception +13, Stealth +4, Theology +7"
 skill-ranks: "Appraise 5, Athletics 6, Dungeoneering 3, Perception 10, Stealth 10, Theology 6"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/elemental/Earth Elemental#^earth-mastery|Earth mastery]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-- **Saves**: Fort +11, Ref +2, Will +7
+- **Defenses**: Fort 21, Ref 12, Will 17
 - **Abilities**: Str 28, Dex 8, Con 19, Int 6, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +4, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +4, [[rangoric-srd/skills/Theology|Theology]] +7
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Power Attack|Power Attack]]

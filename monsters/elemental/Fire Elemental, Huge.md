@@ -14,9 +14,9 @@ cmd: "34"
 attack: "Slam +15 melee (2d6+4 plus burn)"
 full-attack: "2 slams +15 melee (2d6+4 plus burn)"
 space-reach: "15 ft./15 ft."
-special-attacks: "Burn (2d6, DC 18)"
+special-attacks: "Burn (2d6, +8 vs Reflex)"
 special-qualities: "Darkvision 60 ft., damage reduction 5/-, immunity to fire, elemental traits, vulnerability to cold"
-saves: "Fort +10, Ref +14, Will +5"
+defenses: "Fort 20, Ref 24, Will 15"
 abilities: "Str 18, Dex 25, Con 16, Int 6, Wis 11, Cha 11"
 skills: "Acrobatics +16, Athletics +13, Escape Artist +16, Intimidation +9, Perception +13, Theology +7"
 skill-ranks: "Acrobatics 6, Athletics 6, Escape Artist 6, Intimidation 6, Perception 10, Theology 6"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +15 melee (2d6+4 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
 - **Full Attack**: 2 slams +15 melee (2d6+4 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
 - **Space/Reach**: 15 ft./15 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (2d6, DC 18)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (2d6, +8 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability]] to cold
-- **Saves**: Fort +10, Ref +14, Will +5
+- **Defenses**: Fort 20, Ref 24, Will 15
 - **Abilities**: Str 18, Dex 25, Con 16, Int 6, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Theology|Theology]] +7
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

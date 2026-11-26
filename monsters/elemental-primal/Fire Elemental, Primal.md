@@ -19,7 +19,7 @@ full-attack: "2 slams +55 (4d8+16 plus 4d8 fire) melee"
 space-reach: "30 ft./30 ft."
 special-attacks: "Burn"
 special-qualities: "Elemental traits, DR 10/-, SR 42, fire immunity, cold vulnerability"
-saves: "Fort +32, Ref +50, Will +28"
+defenses: "Fort 42, Ref 60, Will 38"
 abilities: "Str 32, Dex 39, Con 28, Int 8, Wis 13, Cha 13"
 skills: "Athletics +24 (+32 jumping), Perception +64"
 skill-ranks: "Athletics 10, Perception 54"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 30 ft./30 ft.
 - **Special Attacks**: Burn
 - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|Elemental traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/-, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 42, fire immunity, [[rangoric-srd/monsters/abilities/Vulnerabilities|cold vulnerability]]
-- **Saves**: Fort +32, Ref +50, Will +28
+- **Defenses**: Fort 42, Ref 60, Will 38
 - **Abilities**: Str 32, Dex 39, Con 28, Int 8, Wis 13, Cha 13
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +24 (+32 jumping), [[rangoric-srd/skills/Perception|Perception]] +64
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]],  [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)

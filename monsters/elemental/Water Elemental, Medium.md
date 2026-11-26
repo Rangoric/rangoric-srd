@@ -14,9 +14,9 @@ cmd: "18"
 attack: "Slam +7 melee (1d8+4)"
 full-attack: "Slam +7 melee (1d8+4)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Drench, vortex (DC 15), water mastery"
+special-attacks: "Drench, vortex (+5 vs Reflex), water mastery"
 special-qualities: "Darkvision 60 ft., elemental traits"
-saves: "Fort +6, Ref +5, Will +1"
+defenses: "Fort 16, Ref 15, Will 11"
 abilities: "Str 16, Dex 12, Con 15, Int 4, Wis 11, Cha 11"
 skills: "Acrobatics +6, Athletics +16, Escape Artist +6, Perception +5, Stealth +6, Theology +2"
 skill-ranks: "Acrobatics 2, Athletics 10, Escape Artist 2, Perception 2, Stealth 2, Theology 2"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +7 melee (1d8+4)
 - **Full Attack**: Slam +7 melee (1d8+4)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/elemental/Water Elemental#^drench|Drench]], [[rangoric-srd/monsters/elemental/Water Elemental#^vortex|vortex]] (DC 15), [[rangoric-srd/monsters/elemental/Water Elemental#^water-mastery|water mastery]]
+- **Special Attacks**: [[rangoric-srd/monsters/elemental/Water Elemental#^drench|Drench]], [[rangoric-srd/monsters/elemental/Water Elemental#^vortex|vortex]] (+5 vs Reflex), [[rangoric-srd/monsters/elemental/Water Elemental#^water-mastery|water mastery]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-- **Saves**: Fort +6, Ref +5, Will +1
+- **Defenses**: Fort 16, Ref 15, Will 11
 - **Abilities**: Str 16, Dex 12, Con 15, Int 4, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +6, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +6, [[rangoric-srd/skills/Theology|Theology]] +2
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Power Attack|Power Attack]]

@@ -16,7 +16,7 @@ full-attack: "Elven curve blade +10/+5 melee (1d10+3/18–20); or +1 composite l
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, elven magic, weapon familiarity, immunity to sleep"
-saves: "Fort +6, Ref +4, Will +2 (+2 vs. enchantments)"
+defenses: "Fort 16, Ref 14, Will 12 (+2 vs. enchantments)"
 abilities: "Str 14, Dex 14, Con 10, Int 10, Wis 10, Cha 9"
 skills: "Perception +10, Stealth +5"
 skill-ranks: "Perception 7, Stealth 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
-- **Saves**: Fort +6, Ref +4, Will +2 (+2 vs. enchantments)
+- **Defenses**: Fort 16, Ref 14, Will 12 (+2 vs. enchantments)
 - **Abilities**: Str 14, Dex 14, Con 10, Int 10, Wis 10, Cha 9
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +5
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (composite longbow)

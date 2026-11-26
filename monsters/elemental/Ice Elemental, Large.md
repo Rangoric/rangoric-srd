@@ -14,9 +14,9 @@ cmd: "25 (can't be tripped)"
 attack: "Slam +12 melee (1d8+5 plus 1d6 cold)"
 full-attack: "2 slams +12 melee (1d8+5 plus 1d6 cold)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Numbing cold (DC 17)"
+special-attacks: "Numbing cold (+7 vs Fortitude)"
 special-qualities: "Darkvision 60 ft., snow vision, ice glide, icewalking, damage reduction 5/-, immunity to cold, elemental traits, vulnerable to fire"
-saves: "Fort +9, Ref +7, Will +2"
+defenses: "Fort 19, Ref 17, Will 12"
 abilities: "Str 20, Dex 12, Con 17, Int 6, Wis 11, Cha 11"
 skills: "Athletics +13, Intimidation +11, Perception +11, Stealth +8, Theology +9"
 skill-ranks: "Athletics 5, Intimidation 8, Perception 8, Stealth 8, Theology 8"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +12 melee (1d8+5 plus 1d6 cold)
 - **Full Attack**: 2 slams +12 melee (1d8+5 plus 1d6 cold)
 - **Space/Reach**: 10 ft./10 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/elemental/Ice Elemental#^numbing-cold|Numbing cold]] (DC 17)
+- **Special Attacks**: [[rangoric-srd/monsters/elemental/Ice Elemental#^numbing-cold|Numbing cold]] (+7 vs Fortitude)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Snow Vision|snow vision]], [[rangoric-srd/monsters/elemental/Ice Elemental#^ice-glide|ice glide]], [[rangoric-srd/monsters/abilities/Icewalking|icewalking]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], vulnerable to fire
-- **Saves**: Fort +9, Ref +7, Will +2
+- **Defenses**: Fort 19, Ref 17, Will 12
 - **Abilities**: Str 20, Dex 12, Con 17, Int 6, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +8, [[rangoric-srd/skills/Theology|Theology]] +9
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]

@@ -14,9 +14,9 @@ cmd: "27"
 attack: "Slam +12 melee (1d8+2 plus burn)"
 full-attack: "2 slams +12 melee (1d8+2 plus burn)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Burn (1d8, DC 16)"
+special-attacks: "Burn (1d8, +6 vs Reflex)"
 special-qualities: "Darkvision 60 ft., damage reduction 5/-, immunity to fire, elemental traits, vulnerability to cold"
-saves: "Fort +8, Ref +11, Will +4"
+defenses: "Fort 18, Ref 21, Will 14"
 abilities: "Str 14, Dex 21, Con 14, Int 6, Wis 11, Cha 11"
 skills: "Acrobatics +14, Athletics +9, Escape Artist +12, Intimidation +9, Perception +11, Theology +5"
 skill-ranks: "Acrobatics 6, Athletics 4, Escape Artist 4, Intimidation 6, Perception 8, Theology 4"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +12 melee (1d8+2 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
 - **Full Attack**: 2 slams +12 melee (1d8+2 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
 - **Space/Reach**: 10 ft./10 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d8, DC 16)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d8, +6 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability]] to cold
-- **Saves**: Fort +8, Ref +11, Will +4
+- **Defenses**: Fort 18, Ref 21, Will 14
 - **Abilities**: Str 14, Dex 21, Con 14, Int 6, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

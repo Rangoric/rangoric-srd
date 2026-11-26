@@ -16,7 +16,7 @@ full-attack: "2 slams +16 melee (2d6+5 plus 1d8 electricity)"
 space-reach: "15 ft./15 ft."
 special-attacks: "Metal mastery, spark leap"
 special-qualities: "Darkvision 60 ft., damage reduction 5/-, immunity to electricity, elemental traits"
-saves: "Fort +10, Ref +15, Will +5"
+defenses: "Fort 20, Ref 25, Will 15"
 abilities: "Str 20, Dex 27, Con 16, Int 6, Wis 11, Cha 11"
 skills: "Acrobatics +21, Escape Artist +21, Perception +13, Theology +11"
 skill-ranks: "Acrobatics 10, Escape Artist 10, Perception 10, Theology 10"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/elemental/Lightning Elemental#^metal-mastery|Metal mastery]], [[rangoric-srd/monsters/elemental/Lightning Elemental#^spark-leap|spark leap]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-- **Saves**: Fort +10, Ref +15, Will +5
+- **Defenses**: Fort 20, Ref 25, Will 15
 - **Abilities**: Str 20, Dex 27, Con 16, Int 6, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +21, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +21, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Theology|Theology]] +11
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
