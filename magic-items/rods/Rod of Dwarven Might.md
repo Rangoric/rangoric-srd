@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Rod of Dwarven Might
 
-This dwarven version of the more famous _[[rangoric-srd/magic-items/rods/Rod of Lordly Might|rod of lordly might]]_ has no spell-like powers; however, when wielded by a dwarf, it increases all AC, attack roll, CMD, CMB, and saving throw bonuses from a [[rangoric-srd/races/Dwarf|dwarf]]'s racial traits by +1. The rod shares the mundane powers of a _[[rangoric-srd/magic-items/rods/Rod of Lordly Might|rod of lordly might]]_, but its magical weapon forms are tailored to dwarven preferences.
+This dwarven version of the more famous _[[rangoric-srd/magic-items/rods/Rod of Lordly Might|rod of lordly might]]_ has no spell-like powers; however, when wielded by a dwarf, it increases all AC, attack roll, CMD, CMB, and defense bonuses from a [[rangoric-srd/races/Dwarf|dwarf]]'s racial traits by +1. The rod shares the mundane powers of a _[[rangoric-srd/magic-items/rods/Rod of Lordly Might|rod of lordly might]]_, but its magical weapon forms are tailored to dwarven preferences.
 
 - In its normal form, the rod can be used as a _+1 returning light hammer_.
 - When button 1 is pushed, the rod becomes a _+3 [[rangoric-srd/equipment/weapons/Dwarven Longhammer|dwarven longhammer]]_.

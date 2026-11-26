@@ -17,5 +17,5 @@ tags: [rangoric, rangoric/magic-item]
 
 # Crystal Mask of Mindarmor
 
-A crystal mask of mindarmor grants the wearer a +4 insight bonus on all Will saving throws.  
+A crystal mask of mindarmor grants the wearer a +4 insight bonus on Will Defense.  
 Faint telepathy; ML 5th; Craft Universal Item, conceal thoughts; Price 10,667 gp; Weight 1/2 lb.

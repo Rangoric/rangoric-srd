@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 Two times per day on command, the wearer of this ring can produce a horrific smell affecting all living creatures other than the wearer within a 10-foot radius. Once created, the smell remains, centered on the wearer, until she dismisses it as a free action. This is a poison effect.
 
-Any creature affected by the disgusting aroma produced by the ring must succeed at a DC 14 Fortitude saving throw when it starts its turn in the ring's stench radius. Those that fail a saving throw become [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1 round. If they are already sickened, they become [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round instead.
+Any creature affected by the disgusting aroma produced by the ring is attacked against its Fortitude at +4 when it starts its turn in the ring's stench radius. Those it hits become [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1 round. If they are already sickened, they become [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round instead.
 
 Faint conjuration; CL 5th; [[rangoric-srd/feats/Forge Ring|Forge Ring]], _[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_; Price 12,000 gp; Cost 6,000 gp.

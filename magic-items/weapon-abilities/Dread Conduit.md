@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Dread Conduit
 
-Each of these weapons is attuned to a particular evil power of the lower planes. When a critical hit is scored with one of these weapons the target must immediately roll a Fortitude save (DC 17 + the magical bonus of the weapon). If successful, the target suffers the regular critical damage for that weapon. If the target fails its save, their soul (life force) is drawn out and they die. Souls absorbed by the weapon are siphoned directly to the dark entity that the weapon is linked to. Only a _[[rangoric-srd/spells/True Resurrection|true resurrection]]_ spell can retrieve the lost soul.
+Each of these weapons is attuned to a particular evil power of the lower planes. When a critical hit is scored with one of these weapons the weapon immediately attacks the target’s Fortitude (+7 + the magical bonus of the weapon). On a miss, the target suffers the regular critical damage for that weapon. On a hit, their soul (life force) is drawn out and they die. Souls absorbed by the weapon are siphoned directly to the dark entity that the weapon is linked to. Only a _[[rangoric-srd/spells/True Resurrection|true resurrection]]_ spell can retrieve the lost soul.
 
 Adding this property automatically makes the weapon evil in nature and any good-aligned creature that wields the weapon gains two [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative levels]]. These negative levels remain only as long as the weapon is in hand. These negative levels cannot be overcome by any means while the weapon is wielded.
 

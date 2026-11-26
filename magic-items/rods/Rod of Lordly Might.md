@@ -22,11 +22,11 @@ This rod has functions that are spell-like, and it can also be used as a magic w
 
 The following spell-like functions of the rod can each be used once per day.
 
-- Hold person upon touch, if the wielder so commands (Will DC 14 negates). The wielder must choose to use this power and then succeed on a melee touch attack to activate the power. If the attack fails, the effect is lost.
+- Hold person upon touch, if the wielder so commands (+4 vs Will). The wielder must choose to use this power and then succeed on a melee touch attack to activate the power. If the attack fails, the effect is lost.
 
-- Fear upon all enemies viewing it, if the wielder so desires (10-foot maximum range, Will DC 16 partial). Invoking this power is a standard action.
+- Fear upon all enemies viewing it, if the wielder so desires (10-foot maximum range, +6 vs Will, partial on a miss). Invoking this power is a standard action.
 
-- Deal 2d4 hit points of damage to an opponent on a successful touch attack (Will DC 17 half ) and cure the wielder of a like amount of damage. The wielder must choose to use this power before attacking, as with hold person.
+- Deal 2d4 hit points of damage to an opponent on a successful touch attack (+7 vs Will; a miss halves) and cure the wielder of a like amount of damage. The wielder must choose to use this power before attacking, as with hold person.
 
 The following weapon functions of the rod have no limit on the number of times they can be employed.
 

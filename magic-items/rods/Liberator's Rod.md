@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Liberator's Rod
 
-This bronze rod is capped with a hollow head formed by sweeping aquiline wings shielding a _continual flame_. A _liberator's rod_ can be used as a _+1 merciful light mace_, but while its merciful property is suppressed by the wielder so is the _continual flame_. On command, the wielder of a _liberator's rod_ may touch a creature that has failed a save against a charm, compulsion, or possession effect. Doing so grants that creature a new saving throw to end the effect. If this new save fails, the effect remains and the rod's touch cannot further affect it.
+This bronze rod is capped with a hollow head formed by sweeping aquiline wings shielding a _continual flame_. A _liberator's rod_ can be used as a _+1 merciful light mace_, but while its merciful property is suppressed by the wielder so is the _continual flame_. On command, the wielder of a _liberator's rod_ may touch a creature that a charm, compulsion, or possession effect has hit. Doing so makes the effect attack that creature again, and a miss ends it. If this new attack hits, the effect remains and the rod's touch cannot further affect it.
 
 Once per day on command, the wielder can use _[[rangoric-srd/spells/Break Enchantment|break enchantment]]_, as the spell.
 

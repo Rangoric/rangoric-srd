@@ -17,5 +17,5 @@ tags: [rangoric, rangoric/magic-item]
 
 # Boots of Stomping
 
-These boots allow the wearer to use [[rangoric-srd/powers/Stomp|stomp]] as the power three times per day (Reflex save DC 13) when the wearer stomps her feet.  
+These boots allow the wearer to use [[rangoric-srd/powers/Stomp|stomp]] as the power three times per day (+3 vs Reflex) when the wearer stomps her feet.  
 Faint psychokinesis; ML 3rd; Craft Universal Item, stomp; Price 600 gp; Weight 1 lb.
