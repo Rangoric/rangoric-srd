@@ -14,7 +14,7 @@ components:
   - "V"
   - "S"
   - "M"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Advanced Class Guide"
 based-on:
@@ -31,7 +31,7 @@ _Enchantment (Charm) \[Mind-affecting\]_
 
 - **Level**: Mes 3, Occ 3, Sor/Wiz 4, Wit 4
 - **Components**: V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 1,000 gp)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 This spell functions as _[[rangoric-srd/spells/Symbol of Death|symbol of death]]_, except that all creatures within 60 feet are affected with uncontrollable laughter (as _[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]_) for 1 round per caster level.

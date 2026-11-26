@@ -25,7 +25,7 @@ casting-time: "1 round"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "One summoned creature"
 duration: "1 round/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Summon Monster I|Summon Monster I (3.5)]]"
@@ -45,7 +45,7 @@ _Conjuration (Summoning) \[see text\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: One summoned creature
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell summons an extraplanar creature (typically an outsider, elemental, or magical beast native to another plane). It appears where you designate and acts immediately, on your turn. It attacks your opponents to the best of its ability. If you can communicate with the creature, you can direct it not to attack, to attack particular enemies, or to perform other actions.

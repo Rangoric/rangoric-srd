@@ -17,7 +17,7 @@ casting-time: "10 minutes"
 range: "0 ft.; see text"
 effect: "One symbol"
 duration: "See text"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -38,7 +38,7 @@ _Divination \[Death\]_
 - **Range**: 0 ft.; see text
 - **Effect**: One symbol
 - **Duration**: See text
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 This spell functions as _[[rangoric-srd/spells/Symbol of Death|symbol of death]]_, except it is only activated by invisible creatures, creatures affected by an illusion (glamer) effect, creatures with the shapechanger subtype, or creatures that have magically changed their shape. These creatures are outlined by a pale light that functions like _[[rangoric-srd/spells/Faerie Fire|faerie fire]]_, except it lasts for 10 minutes per caster level; the symbol does not otherwise reveal their true form. Once triggered, a _symbol of revelation_ remains active for 10 minutes per caster level.

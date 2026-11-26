@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 area: "One 5-foot square"
 duration: "1 round/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Monster Codex"
 based-on:
@@ -38,7 +38,7 @@ _Conjuration (Creation)_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Area**: One 5-foot square
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell functions like _[[rangoric-srd/spells/Black Tentacles|black tentacles]]_, except it creates a Large decapitated snake, which erupts from the ground and grapples a creature you specify within its 5-foot reach. As a standard action, you can command the snake to release its grappled target and direct it to attack a different creature.

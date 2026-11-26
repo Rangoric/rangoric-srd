@@ -21,7 +21,7 @@ casting-time: "1 round"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "One summoned creature"
 duration: "1 round/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Faeries"
 based-on:
@@ -42,7 +42,7 @@ _Conjuration (Summoning) \[see text\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: One summoned creature
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell summons a creature of the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|fey]] type from the fey realm that attacks your enemies. It appears where you designate and acts immediately, on your turn. It attacks your opponents to the best of its ability. If you can communicate with the fey creature, you can direct it not to attack, to attack particular enemies, or to perform other actions. Summoned fey act normally on the last round of the spell, and disappear at the end of their turn.

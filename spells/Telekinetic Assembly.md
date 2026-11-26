@@ -15,7 +15,7 @@ casting-time: "1 minute"
 range: "Close (25 ft + 5 ft./2 levels)"
 target: "One disassembled siege engine"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Combat"
 based-on:
@@ -36,7 +36,7 @@ _Transmutation_
 - **Range**: Close (25 ft + 5 ft./2 levels)
 - **Target**: One disassembled siege engine
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You assemble a siege engine, using up to one fewer worker per two caster levels you possess. You can do without one additional worker if you have any ranks in Engineering, plus one additional worker per 5 ranks you have in that skill. If your caster level combined with Engineering fails to eliminate the need for workers, this spell fails.

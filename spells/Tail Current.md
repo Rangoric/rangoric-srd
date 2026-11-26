@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "120 ft."
 target: "One or more creatures, no two of which can be more than 120 feet apart"
 duration: "Caster level hour(s)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Wilderness"
 based-on:
@@ -42,7 +42,7 @@ _Transmutation \[Water\]_
 - **Range**: 120 ft.
 - **Target**: One or more creatures, no two of which can be more than 120 feet apart
 - **Duration**: Caster level hour(s)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 This spell functions as [[rangoric-srd/spells/Tailwind|tailwind]] except it creates a helpful current in water instead of in the air. It grants free movement while swimming rather than while flying and functions only underwater.

@@ -18,7 +18,7 @@ casting-time: "10 minutes"
 range: "0 ft.; see text"
 effect: "One symbol"
 duration: "See text"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -39,7 +39,7 @@ _Divination (Scrying) \[Death\]_
 - **Range**: 0 ft.; see text
 - **Effect**: One symbol
 - **Duration**: See text
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell functions as _[[rangoric-srd/spells/Symbol of Death|symbol of death]]_, except that, when triggered, it creates a scrying sensor linked to you and centered on the symbol, even if you are on a different plane than the symbol. You are immediately aware that the symbol has been triggered if you are conscious, and are awakened from normal sleep if sleeping. The symbol does not otherwise disturb your concentration. You may observe the area through the symbol as if using a _[[rangoric-srd/spells/Scrying|scrying]]_ spell with the sensor as the target creature. Once triggered, the symbol remains active for 10 minutes per caster level.

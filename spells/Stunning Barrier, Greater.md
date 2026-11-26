@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 round/level or until discharged"
-saving-throw: "None and Will negates (see text)"
+defense: "None and Will (see text)"
 spell-resistance: "No and yes (see text)"
 book: "Advanced Class Guide"
 based-on:
@@ -36,7 +36,7 @@ _Abjuration_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 round/level or until discharged
-- **Saving Throw**: None and Will negates (see text)
+- **Defense**: None and Will (see text)
 - **Spell Resistance**: No and yes (see text)
 
-This spell functions as _[[rangoric-srd/spells/Stunning Barrier|stunning barrier]]_, except as noted above, and it provides a +2 bonus to AC and on saving throws. It is not discharged until it has stunned a number of creatures equal to your caster level.
+This spell functions as _[[rangoric-srd/spells/Stunning Barrier|stunning barrier]]_, except as noted above, and it provides a +2 bonus to AC and defenses. It is not discharged until it has stunned a number of creatures equal to your caster level.

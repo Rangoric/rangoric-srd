@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "1-ft.-diameter/level sphere, centered around creatures or objects"
 duration: "1 min./level (D)"
-saving-throw: "Reflex negates (object)"
+defense: "Reflex (object)"
 spell-resistance: "Yes (object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Telekinetic Sphere|Telekinetic Sphere (3.5)]]"
@@ -35,7 +35,7 @@ _Evocation \[Force\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: 1-ft.-diameter/level sphere, centered around creatures or objects
 - **Duration**: 1 min./level (D)
-- **Saving Throw**: Reflex negates (object)
+- **Defense**: Reflex (object)
 - **Spell Resistance**: Yes (object)
 
 This spell functions like [[rangoric-srd/spells/Resilient Sphere|resilient sphere]],with the addition that the creatures or objects inside the globe are nearly weightless. Anything contained within an telekinetic sphere weighs only one-sixteenth of its normal weight. You can telekinetically lift anything in the sphere that normally weighs 5,000 pounds or less. The telekinetic control extends from you out to medium range (100 feet + 10 feet per caster level) after the sphere has succeeded in encapsulating its contents.

@@ -18,7 +18,7 @@ casting-time: "10 minutes"
 range: "0 ft.; see text"
 effect: "One symbol"
 duration: "See text"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -39,7 +39,7 @@ _Enchantment (Compulsion) \[Mind-affecting\]_
 - **Range**: 0 ft.; see text
 - **Effect**: One symbol
 - **Duration**: See text
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 This spell functions as _[[rangoric-srd/spells/Symbol of Death|symbol of death]]_, except all creatures within the radius of a _symbol of strife_ are compelled to attack the nearest conscious creature for 1 round per caster level (similar to the “attack nearest creature” result of the _[[rangoric-srd/spells/Confusion|confusion]]_ spell), even after leaving the symbol's area of effect. If no other creatures are visible, an affected creature can act normally. Once triggered, the symbol remains active for 10 minutes per caster level.

@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "30 ft."
 area: "30-ft.-radius spread centered on you"
 duration: "1 round"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -35,7 +35,7 @@ _Enchantment (Compulsion) \[Mind-Affecting\]_
 - **Range**: 30 ft.
 - **Area**: 30-ft.-radius spread centered on you
 - **Duration**: 1 round
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 You emit a pulsating mental blast that stuns all creatures in range of your psychic shriek for 1 round.

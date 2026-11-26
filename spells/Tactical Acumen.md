@@ -24,7 +24,7 @@ casting-time: "1 standard action"
 range: "30 ft."
 area: "The caster and all allies within a 30-ft.-radius burst, centered on the caster"
 duration: "1 round/level (D)"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Ultimate Combat"
 based-on:
@@ -45,7 +45,7 @@ _Enchantment (Compulsion) \[Mind-affecting\]_
 - **Range**: 30 ft.
 - **Area**: The caster and all allies within a 30-ft.-radius burst, centered on the caster
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 _Tactical acumen_ grants you and your allies a mastery of battlefield tactics. Whenever you would gain a bonus on attack rolls or to AC due to battlefield position, such as flanking, higher ground, or cover, you gain an additional +1 insight bonus. This bonus increases by +1 for every five caster levels above 5th you possess (maximum +4).
