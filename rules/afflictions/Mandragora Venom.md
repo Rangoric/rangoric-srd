@@ -4,11 +4,11 @@ section: "Rules"
 book: "Bestiary 2"
 affliction-type: "poison"
 delivery: "injury"
-save: "Fortitude DC 15"
-save-dc: 15
+attack: "+5 vs Fortitude"
+attack-bonus: 5
 frequency: "1/round for 4 rounds"
 effect: "confusion and fatigue"
-cure: "no saves, but an “act normally” result on the confusion behavior table ends the effect"
+cure: "no number of misses, but an “act normally” result on the confusion behavior table ends the effect"
 based-on:
   - "[[path srd 3.5/monsters/Mandragora|Mandragora (PF1)]]"
 status: draft
@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/affliction]
 A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/Mandragora|mandragora]]'s slam.
 
 - **Type**: poison, injury
-- **Save**: Fortitude DC 15
+- **Attack**: +5 vs Fortitude
 - **Frequency**: 1/round for 4 rounds
 - **Effect**: confusion and fatigue
-- **Cure**: no saves, but an “act normally” result on the confusion behavior table ends the effect
+- **Cure**: no number of misses, but an “act normally” result on the confusion behavior table ends the effect

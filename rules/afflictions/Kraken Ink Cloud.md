@@ -4,11 +4,11 @@ section: "Rules"
 book: "Bestiary"
 affliction-type: "poison"
 delivery: "contact"
-save: "Fortitude DC 29"
-save-dc: 29
+attack: "+19 vs Fortitude"
+attack-bonus: 19
 frequency: "1/round for 10 rounds"
 effect: "1 Str plus nausea"
-cure: "2 consecutive saves"
+cure: "2 consecutive misses"
 based-on:
   - "[[path srd 3.5/monsters/Kraken|Kraken (PF1)]]"
 status: draft
@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/affliction]
 A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the ink of the [[rangoric-srd/monsters/Kraken|kraken]], which spreads it as a cloud.
 
 - **Type**: poison, contact
-- **Save**: Fortitude DC 29
+- **Attack**: +19 vs Fortitude
 - **Frequency**: 1/round for 10 rounds
 - **Effect**: 1 Str damage plus [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nausea]]
-- **Cure**: 2 consecutive saves
+- **Cure**: 2 consecutive misses

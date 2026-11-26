@@ -4,11 +4,11 @@ section: "Rules"
 book: "Bestiary"
 affliction-type: "poison"
 delivery: "injury"
-save: "Fortitude DC 17"
-save-dc: 17
+attack: "+7 vs Fortitude"
+attack-bonus: 7
 frequency: "1/round for 6 rounds"
 effect: "1d3 Con and staggered"
-cure: "2 saves"
+cure: "2 misses"
 based-on:
   - "[[path srd 3.5/monsters/Spider, Giant Black Widow|Spider, Giant Black Widow (PF1)]]"
 status: draft
@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/affliction]
 A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/spider/Giant Black Widow|giant black widow]]'s bite.
 
 - **Type**: poison, injury
-- **Save**: Fortitude DC 17
+- **Attack**: +7 vs Fortitude
 - **Frequency**: 1/round for 6 rounds
 - **Effect**: 1d3 Constitution damage and staggered
-- **Cure**: 2 saves
+- **Cure**: 2 misses

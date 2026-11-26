@@ -4,11 +4,11 @@ section: "Rules"
 book: "Bestiary 4"
 affliction-type: "poison"
 delivery: "inhaled"
-save: "Fortitude DC 13"
-save-dc: 13
+attack: "+3 vs Fortitude"
+attack-bonus: 3
 frequency: "1/round for 6 rounds"
 effect: "1d2 Wis and 1d2 Cha (or intoxication)"
-cure: "2 consecutive saves"
+cure: "2 consecutive misses"
 based-on:
   - "[[path srd 3.5/monsters/Pooka|Pooka (PF1)]]"
 status: draft
@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/affliction]
 A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the intoxicating dust the [[rangoric-srd/monsters/Pooka|pooka]] blows from its palm.
 
 - **Type**: poison, inhaled
-- **Save**: Fortitude DC 13
+- **Attack**: +3 vs Fortitude
 - **Frequency**: 1/round for 6 rounds
 - **Effect**: 1d2 Wisdom and 1d2 Charisma damage (or intoxication)
-- **Cure**: 2 consecutive saves
+- **Cure**: 2 consecutive misses

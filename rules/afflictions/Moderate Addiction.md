@@ -4,11 +4,11 @@ section: "Rules"
 book: "Game Mastery Guide"
 affliction-type: "disease"
 delivery: "drug"
-save: "per drug"
+attack: "per drug"
 onset: "1 day"
 frequency: "1/day"
 effect: "–2 Con and Str"
-cure: "3 consecutive saves"
+cure: "3 consecutive misses"
 based-on:
   - "[[path srd 3.5/afflictions/Moderate Addiction|Moderate Addiction (PF1)]]"
   - "[[path srd 3.5/rules/game-mastery-guide/drugs-and-addiction/Addiction|Addiction (PF1)]]"
@@ -23,8 +23,8 @@ tags: [rangoric, rangoric/affliction]
 A disease, caught from a drug; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]], and how an addiction is contracted, held off and cured is in [[rangoric-srd/rules/Afflictions#Drugs and Addiction|drugs and addiction]].
 
 - **Type**: disease, drug
-- **Save**: Fortitude, per drug (the [[rangoric-srd/rules/Afflictions#Drugs and Addiction|addiction DC]] of the drug that caused it)
+- **Attack**: per drug, vs Fortitude (the [[rangoric-srd/rules/Afflictions#Drugs and Addiction|addiction attack bonus]] of the drug that caused it)
 - **Onset**: 1 day
 - **Frequency**: 1/day
 - **Effect**: –2 penalty to Con and Str, target cannot naturally heal ability damage caused by the drug that caused this addiction
-- **Cure**: 3 consecutive saves
+- **Cure**: 3 consecutive misses

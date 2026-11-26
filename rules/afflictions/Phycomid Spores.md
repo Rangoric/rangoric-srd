@@ -4,11 +4,11 @@ section: "Rules"
 book: "Bestiary 2"
 affliction-type: "disease"
 delivery: "injury or ingested"
-save: "Fortitude DC 15"
-save-dc: 15
+attack: "+5 vs Fortitude"
+attack-bonus: 5
 frequency: "1/round for 6 rounds"
 effect: "1d2 Con"
-cure: "1 save"
+cure: "1 miss"
 based-on:
   - "[[path srd 3.5/monsters/Phycomid|Phycomid (PF1)]]"
 status: draft
@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/affliction]
 A disease; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the spores of the [[rangoric-srd/monsters/fungus/Phycomid|phycomid]]; a disease whose course runs as fast as a poison's, and which like a poison burns out after a time.
 
 - **Type**: disease, injury or ingested
-- **Save**: Fortitude DC 15
+- **Attack**: +5 vs Fortitude
 - **Frequency**: 1/round for 6 rounds
 - **Effect**: 1d2 Constitution damage
-- **Cure**: 1 save
+- **Cure**: 1 miss

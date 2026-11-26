@@ -4,11 +4,11 @@ section: "Rules"
 book: "Bestiary"
 affliction-type: "poison"
 delivery: "injury"
-save: "Fortitude DC 13"
-save-dc: 13
+attack: "+3 vs Fortitude"
+attack-bonus: 3
 frequency: "1/round for 4 rounds"
 effect: "1 Str"
-cure: "1 save"
+cure: "1 miss"
 based-on:
   - "[[path srd 3.5/monsters/Scorpion, Ghost|Scorpion, Ghost (PF1)]]"
 status: draft
@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/affliction]
 A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the [[rangoric-srd/monsters/scorpion/Ghost Scorpion|ghost scorpion]]'s sting.
 
 - **Type**: poison, injury
-- **Save**: Fortitude DC 13
+- **Attack**: +3 vs Fortitude
 - **Frequency**: 1/round for 4 rounds
 - **Effect**: 1 Strength damage
-- **Cure**: 1 save
+- **Cure**: 1 miss

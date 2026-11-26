@@ -4,11 +4,11 @@ section: "Rules"
 book: "Bestiary 2"
 affliction-type: "poison"
 delivery: "injury"
-save: "Fortitude DC 22"
-save-dc: 22
+attack: "+12 vs Fortitude"
+attack-bonus: 12
 frequency: "1/round for 6 rounds"
 effect: "1d2 Con plus staggered for 1 round"
-cure: "2 consecutive saves"
+cure: "2 consecutive misses"
 based-on:
   - "[[path srd 3.5/monsters/Daemon, Piscodaemon|Piscodaemon (PF1)]]"
 status: draft
@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/affliction]
 A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the venom of the tentacles of the [[rangoric-srd/monsters/daemons/Piscodaemon|piscodaemon]].
 
 - **Type**: poison, injury
-- **Save**: Fortitude DC 22
+- **Attack**: +12 vs Fortitude
 - **Frequency**: 1/round for 6 rounds
 - **Effect**: 1d2 Constitution damage plus staggered for 1 round
-- **Cure**: 2 consecutive saves
+- **Cure**: 2 consecutive misses

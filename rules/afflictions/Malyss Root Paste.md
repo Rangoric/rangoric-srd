@@ -4,12 +4,12 @@ section: "Rules"
 book: ["Core Rulebook", "Ultimate Equipment"]
 affliction-type: "poison"
 delivery: "contact"
-save: "Fortitude DC 16"
-save-dc: 16
+attack: "+6 vs Fortitude"
+attack-bonus: 6
 onset: "1 minute"
 frequency: "1/minute for 6 minutes"
 effect: "1d2 Dex"
-cure: "1 save"
+cure: "1 miss"
 price: "250 gp"
 aliases:
   - "Malyass Root Paste"
@@ -28,9 +28,9 @@ tags: [rangoric, rangoric/affliction]
 A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]].
 
 - **Type**: poison, contact
-- **Save**: Fortitude DC 16
+- **Attack**: +6 vs Fortitude
 - **Onset**: 1 minute
 - **Frequency**: 1/minute for 6 minutes
 - **Effect**: 1d2 Dex damage
-- **Cure**: 1 save
+- **Cure**: 1 miss
 - **Price**: 250 gp
