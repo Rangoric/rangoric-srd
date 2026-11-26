@@ -22,7 +22,7 @@ _Flight_: The creature gains a fly speed of 30 feet (clumsy).
 
 _Grab and Constrict_: The creature's tentacle attack gains grab and constrict. The creature's constrict damage is equal to its slam damage plus its Strength bonus.
 
-_Poison_: One claw or tentacle attack is replaced with a sting attack (same damage as the replaced attack) plus [[rangoric-srd/monsters/abilities/Poison|poison]]. Sting—injury; _save_ Fort DC 19; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Strength damage; _cure_ 1 save. The save DC is Constitution-based.
+_Poison_: One claw or tentacle attack is replaced with a sting attack (same damage as the replaced attack) plus [[rangoric-srd/monsters/abilities/Poison|poison]]. Sting—injury; _attack_ +9 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Strength damage; _cure_ 1 miss. The attack bonus is Constitution-based.
 
 _Pounce and Rake_: The creature gains pounce and rake (2 claws +14, 1d8+7).
 

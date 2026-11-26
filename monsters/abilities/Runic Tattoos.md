@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “runic tattoos”, on the Special Qualities line.
 
-The tattoos scribed on a maftet's body power its spell-like abilities and glow when those abilities are used. A maftet can activate up to two of its spell-like abilities as a standard action. It may make a Fortitude save to resist the effects of an erase spell cast on its tattoos, but if it fails, it loses access to its spell-like abilities for 24 hours. The [[rangoric-srd/monsters/Maftet|maftet]] has it.
+The tattoos scribed on a maftet's body power its spell-like abilities and glow when those abilities are used. A maftet can activate up to two of its spell-like abilities as a standard action. An erase spell cast on its tattoos attacks its Fortitude, and on a hit it loses access to its spell-like abilities for 24 hours. The [[rangoric-srd/monsters/Maftet|maftet]] has it.

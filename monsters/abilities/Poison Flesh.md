@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “poison flesh”, on the Special Qualities line.
 
-Any creature that bites a ningyo or swallows any part of it becomes poisoned. [[rangoric-srd/rules/afflictions/Ningyo Flesh|Ningyo Flesh]]: Ingested; save Fort DC 12; onset 1 minute; frequency 1/minute for 4 minutes; effect 1d2 Int damage; cure 2 saves. The [[rangoric-srd/monsters/Ningyo|ningyo]] has it.
+Any creature that bites a ningyo or swallows any part of it becomes poisoned. [[rangoric-srd/rules/afflictions/Ningyo Flesh|Ningyo Flesh]]: Ingested; attack +2 vs Fortitude; onset 1 minute; frequency 1/minute for 4 minutes; effect 1d2 Int damage; cure 2 misses. The [[rangoric-srd/monsters/Ningyo|ningyo]] has it.
