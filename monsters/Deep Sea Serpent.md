@@ -16,7 +16,7 @@ full-attack: "Bite +33 melee (6d10+14/19–20 plus grab) and tail slap +33 melee
 space-reach: "20 ft./20 ft."
 special-attacks: "Capsize, constrict (6d8+21), powerful tail, swallow whole (10d6+21 bludgeoning damage, AC 21, 33 hp)"
 special-qualities: "Darkvision 120 ft., low-light vision, elusive, immunity to cold, resistance to fire 30"
-saves: "Fort +22, Ref +20, Will +12"
+defenses: "Fort 32, Ref 30, Will 22"
 abilities: "Str 39, Dex 20, Con 28, Int 2, Wis 17, Cha 11"
 skills: "Athletics +22, Perception +23, Stealth +8"
 skill-ranks: "Athletics 5, Perception 17, Stealth 12"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 20 ft./20 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Capsize|Capsize]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] (6d8+21), [[rangoric-srd/monsters/abilities/Powerful Tail|powerful tail]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (10d6+21 bludgeoning damage, AC 21, 33 hp)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Elusive|elusive]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 30
-- **Saves**: Fort +22, Ref +20, Will +12
+- **Defenses**: Fort 32, Ref 30, Will 22
 - **Abilities**: Str 39, Dex 20, Con 28, Int 2, Wis 17, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Stealth|Stealth]] +8
 - **Feats**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (tail slap), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Vital Strike|Vital Strike]]

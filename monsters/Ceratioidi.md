@@ -16,7 +16,7 @@ full-attack: "2 shortspears +8 melee (1d6+3); or 2 slams +7 melee (1d4+3); or 2 
 space-reach: "5 ft./5 ft."
 special-attacks: "Lure"
 special-qualities: "Darkvision 60 ft., low-light vision, dual mind, primitive amphibian, immunity to mind-affecting effects"
-saves: "Fort +3, Ref +4, Will +6"
+defenses: "Fort 13, Ref 14, Will 16"
 abilities: "Str 17, Dex 10, Con 15, Int 15, Wis 14, Cha 12"
 skills: "Athletics +18, Deception +5, Intimidation +8, Perception +9, Sense Motive +6, Stealth +7"
 skill-ranks: "Athletics 12, Deception 1, Intimidation 4, Perception 4, Sense Motive 1, Stealth 4"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Lure|Lure]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Dual Mind|dual mind]], [[rangoric-srd/monsters/abilities/Primitive Amphibian|primitive amphibian]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +3, Ref +4, Will +6
+- **Defenses**: Fort 13, Ref 14, Will 16
 - **Abilities**: Str 17, Dex 10, Con 15, Int 15, Wis 14, Cha 12
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (lure), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (shortspear)
@@ -72,6 +72,6 @@ Ceratioidis speak Aquan and Common.
 
 **[[rangoric-srd/monsters/abilities/Dual Mind|Dual Mind]] (Ex)**: The fact that each ceratioidi is actually two creatures sharing the same body gives it a number of unique abilities. A ceratioidi can delegate various actions and physical processes to the individual minds, allowing it to fight with two weapons simultaneously without any penalties. It can also select two favored classes. The telepathic tangle between its twin consciousnesses makes a ceratioidi impervious to mind-affecting effects.
 
-**[[rangoric-srd/monsters/abilities/Lure|Lure]] (Su)**: As a free action, a ceratioidi can light the dangling lure on its forehead, forcing all non-ceratioidi within a 20-foot radius to make a DC 15 Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinated]] for 1 round. Regardless of the preceding interaction between the ceratioidi and its target, a creature affected by this ability does not view the ceratioidi who has fascinated it as a potential threat until that ceratioidi actually attacks—allowing it to approach without breaking the fascination. Once a creature successfully saves against this effect, it is immune to the same ceratioidi's lure ability for 24 hours. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Lure|Lure]] (Su)**: As a free action, a ceratioidi can light the dangling lure on its forehead, forcing all non-ceratioidi within a 20-foot radius and attacks them at +5 vs Will, and on a hit they become [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinated]] for 1 round. Regardless of the preceding interaction between the ceratioidi and its target, a creature affected by this ability does not view the ceratioidi who has fascinated it as a potential threat until that ceratioidi actually attacks—allowing it to approach without breaking the fascination. Once this effect misses a creature, it is immune to the same ceratioidi's lure ability for 24 hours. The attack bonus is Charisma-based.
 
 **[[rangoric-srd/monsters/abilities/Primitive Amphibian|Primitive Amphibian]] (Ex)**: Ceratioidi have rudimentary lungs capable of breathing air indefinitely, but their skin must be bathed in salt water regularly or it begins drying out painfully. They can go for a number of hours equal to twice their Constitution score (30 hours for most ceratioidi) before they need to be bathed in salt water—if they don't, they take 1 point of Constitution damage per hour. Any Constitution damage accrued is reversed after they spend at least 10 minutes immersed in salt water.

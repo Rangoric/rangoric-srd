@@ -15,7 +15,7 @@ full-attack: "2 slams +18 melee (2d6+7 plus dazing strike)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Dazing gaze"
 special-qualities: "Darkvision 60 ft., low-light vision, shatter weapon, statue form, construct traits, spell resistance 20"
-saves: "Fort +4, Ref +6, Will +5"
+defenses: "Fort 14, Ref 16, Will 15"
 abilities: "Str 25, Dex 14, Con —, Int —, Wis 12, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Dazing Gaze|Dazing gaze]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Shatter Weapon|shatter weapon]], [[rangoric-srd/monsters/abilities/Statue Form|statue form]], [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20
-- **Saves**: Fort +4, Ref +6, Will +5
+- **Defenses**: Fort 14, Ref 16, Will 15
 - **Abilities**: Str 25, Dex 14, Con —, Int —, Wis 12, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -69,9 +69,9 @@ A typical cephalophore stands 10 to 15 feet tall and weighs 4,000 pounds. Cephal
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Dazing Gaze|Dazing Gaze]] (Su)**: A cephalophore can make a gaze attack that affects all seeing creatures within a 60-foot radius. These creatures must succeed at a DC 16 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round. Creatures that successfully save are instead [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1 round. This is a mind-affecting fear effect, and the save DC is Wisdom-based.
+**[[rangoric-srd/monsters/abilities/Dazing Gaze|Dazing Gaze]] (Su)**: A cephalophore can make a gaze attack that affects all seeing creatures within a 60-foot radius. These creatures are attacked at +6 vs Will, and on a hit are [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round. Creatures it misses are instead [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1 round. This is a mind-affecting fear effect, and the attack bonus is Wisdom-based.
 
-**Dazing Strike (Su)**: A creature struck by the cephalophore's slam attack must succeed at a DC 16 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1 round. Those who save are instead [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1 round. This is a mind-affecting fear effect, and the save DC is Wisdom-based.
+**Dazing Strike (Su)**: A creature struck by the cephalophore's slam attack is attacked at +6 vs Will, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1 round. Those it misses are instead [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1 round. This is a mind-affecting fear effect, and the attack bonus is Wisdom-based.
 
 **[[rangoric-srd/monsters/abilities/Shatter Weapon|Shatter Weapon]] (Ex)**: When a character strikes a cephalophore with a weapon, the weapon takes 3d6 points of damage (apply its hardness normally). A weapon that takes damage in excess of its hardness gains the broken condition.
 

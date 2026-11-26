@@ -15,7 +15,7 @@ full-attack: "2 claws +13 melee (1d8+8) and bite +8 melee (2d6+4)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Improved grab"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +10, Ref +7, Will +3"
+defenses: "Fort 20, Ref 17, Will 13"
 abilities: "Str 27, Dex 13, Con 19, Int 2, Wis 12, Cha 6"
 skills: "Athletics +12 (+20 swimming), Perception +10, Stealth +1*"
 skill-ranks: "Athletics 1, Perception 6, Stealth 1"
@@ -46,7 +46,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: Improved grab
 - **Special Qualities**: Low-light vision, scent
-- **Saves**: Fort +10, Ref +7, Will +3
+- **Defenses**: Fort 20, Ref 17, Will 13
 - **Abilities**: Str 27, Dex 13, Con 19, Int 2, Wis 12, Cha 6
 - **Skills**: Athletics +12 (+20 swimming), Perception +10, Stealth +1\*
 - **Feats**: Endurance, Run, Track

@@ -16,7 +16,7 @@ full-attack: "Bite +7 melee (1d2–1 plus poison) and tentacles +5 melee (grab)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Poison"
 special-qualities: "Low-light vision, ink cloud"
-saves: "Fort +2, Ref +7, Will +1"
+defenses: "Fort 12, Ref 17, Will 11"
 abilities: "Str 8, Dex 21, Con 10, Int 2, Wis 13, Cha 3"
 skills: "Athletics +13, Escape Artist +15, Stealth +25"
 skill-ranks: "Athletics 11, Escape Artist 0, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Ink Cloud|ink cloud]]
-- **Saves**: Fort +2, Ref +7, Will +1
+- **Defenses**: Fort 12, Ref 17, Will 11
 - **Abilities**: Str 8, Dex 21, Con 10, Int 2, Wis 13, Cha 3
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +25
 - **Feats**: [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -70,4 +70,4 @@ Blue-ringed octopuses are aquatic animals capable of a surprising amount of cunn
 
 **[[rangoric-srd/monsters/abilities/Jet|Jet]] (Ex)**: The octopus can jet 60 feet in a straight line as a full-round action. This does not provoke attacks of opportunity.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _save_ Fort DC 10; _frequency_ 1/round for 6 rounds; _effect_ 1 Str; _cure_ 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _attack_ +0 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1 Str; _cure_ 1 miss.

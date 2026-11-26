@@ -14,9 +14,9 @@ cmd: "38 (40 vs. disarm, can't be tripped)"
 attack: "Bite +23 melee (2d8+12 plus grab) or tentacle +26 melee (1d8+6 plus grab)"
 full-attack: "Bite +23 melee (2d8+12 plus grab) and 4 tentacles +21 melee (1d8+6 plus grab)"
 space-reach: "20 ft./20 ft. (40 ft. with tentacles)"
-special-attacks: "Breath weapon (80-ft. line, 12d6 acid damage, Reflex DC 27 half, usable every 1d4 rounds), swallow whole (4d6 acid damage plus absorb essence; AC 22, 23 hp), transfer"
+special-attacks: "Breath weapon (80-ft. line, 12d6 acid damage, −8 vs Reflex7 half, usable every 1d4 rounds), swallow whole (4d6 acid damage plus absorb essence; AC 22, 23 hp), transfer"
 special-qualities: "Low-light vision, telepathy 1, vexing vines, spawn pod creature, immunity to sonic, plant traits, resistance to cold 20"
-saves: "Fort +19, Ref +1, Will +11"
+defenses: "Fort 29, Ref 11, Will 21"
 abilities: "Str 34, Dex 1, Con 25, Int 21, Wis 16, Cha 14"
 skills: "Imitation +27, Nature +31, Perception +32, Sense Motive +23, Society +20"
 skill-ranks: "Imitation 17, Nature 23, Perception 24, Sense Motive 21, Society 12"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +23 melee (2d8+12 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tentacle +26 melee (1d8+6 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Full Attack**: Bite +23 melee (2d8+12 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 4 tentacles +21 melee (1d8+6 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Space/Reach**: 20 ft./20 ft. (40 ft. with tentacles)
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (80-ft. line, 12d6 acid damage, Reflex DC 27 half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (4d6 acid damage plus absorb essence; AC 22, 23 hp), [[rangoric-srd/monsters/abilities/Transfer|transfer]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (80-ft. line, 12d6 acid damage, −8 vs Reflex7 half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (4d6 acid damage plus absorb essence; AC 22, 23 hp), [[rangoric-srd/monsters/abilities/Transfer|transfer]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 1, [[rangoric-srd/monsters/abilities/Vexing Vines|vexing vines]], [[rangoric-srd/monsters/abilities/Spawn Pod Creature|spawn pod creature]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sonic, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 20
-- **Saves**: Fort +19, Ref +1, Will +11
+- **Defenses**: Fort 29, Ref 11, Will 21
 - **Abilities**: Str 34, Dex 1, Con 25, Int 21, Wis 16, Cha 14
 - **Skills**: [[rangoric-srd/skills/Imitation|Imitation]] +27, [[rangoric-srd/skills/Nature|Nature]] +31, [[rangoric-srd/skills/Perception|Perception]] +32, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Society|Society]] +20
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Greater Disarm|Greater Disarm]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Knowledge \[nature\], Perception)
@@ -72,7 +72,7 @@ Bodythiefs speak Common, Dwarven, Elven, Orc and Sylvan (can't speak any languag
 
 ### Combat
 
-**Absorb Essence (Su)**: Creatures in a bodythief's stomach gain 4 negative levels (Fortitude DC 27 half) each round at the start of the bodythief's turn. A check to remove a negative level gained in this way is also DC 27. If the creature dies from the negative levels, its body disintegrates and the bodythief absorbs its life essence. This is a death effect.
+**Absorb Essence (Su)**: Creatures in a bodythief's stomach gain 4 negative levels (+17 vs Fortitude; a miss halves) each round at the start of the bodythief's turn. A check to remove a negative level gained in this way is also DC 27. If the creature dies from the negative levels, its body disintegrates and the bodythief absorbs its life essence. This is a death effect.
 
 **[[rangoric-srd/monsters/abilities/Spawn Pod Creature|Spawn Pod Creature]] (Su)**: Once a bodythief has absorbed the life essence of a Large or smaller creature, it can begin growing a duplicate of that creature as a free action. Growing a Tiny or smaller duplicate takes 1 round, a Small duplicate 3 rounds, a Medium duplicate 5 rounds, and a Large duplicate 10 rounds. Duplicates are identical to the creature whose life essence has been devoured, but they are [[rangoric-srd/monsters/Pod-Spawned Creature|pod-spawned]]. They closely resemble the original creature and retain all its memories. The newly created spawn has none of the original creature's equipment, though the bodythief can vomit forth any surviving swallowed gear as a move action. As the duplicate hatches, the bodythief makes an Imitation check to determine the resemblance to the original. The duplicate must be grown within 24 hours of the original's digestion, or its essence and memories dissipate. Only a single duplicate can made of any given creature.
 

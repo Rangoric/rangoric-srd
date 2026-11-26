@@ -15,7 +15,7 @@ full-attack: "Bite +7 melee (1d6+3) and tentacles +8 melee (2d4+3 plus grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Constrict (2d4+4), spell-like abilities"
 special-qualities: "Darkvision 60 ft., sound mimicry (voices), tentacles"
-saves: "Fort +4, Ref +3, Will +5"
+defenses: "Fort 14, Ref 13, Will 15"
 abilities: "Str 16, Dex 13, Con 15, Int 10, Wis 11, Cha 12"
 skills: "Acrobatics +7 (-1 jump), Athletics +16, Deception +7, Escape Artist +5, Intimidation +7, Mysticism +6, Perception +11, Stealth +9"
 skill-ranks: "Acrobatics 3, Athletics 10, Deception 3, Escape Artist 1, Intimidation 3, Mysticism 3, Perception 4, Stealth 5"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d4+4), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Sound Mimicry|sound mimicry]] (voices), [[rangoric-srd/monsters/abilities/Tentacles (Decapus)|tentacles]]
-- **Saves**: Fort +4, Ref +3, Will +5
+- **Defenses**: Fort 14, Ref 13, Will 15
 - **Abilities**: Str 16, Dex 13, Con 15, Int 10, Wis 11, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7 (-1 jump), [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception), [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacles)
@@ -73,6 +73,6 @@ A typical decapus has a legspan of 8 feet and weighs 200 pounds.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +7): At will—_[[rangoric-srd/spells/Minor Image|minor image]]_ (DC 13).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +7): At will—_[[rangoric-srd/spells/Minor Image|minor image]]_ (+3 vs Will).
 
 **[[rangoric-srd/monsters/abilities/Tentacles (Decapus)|Tentacles]] (Ex)**: A decapus's tentacles must all strike at a single target, but they do so as a primary attack.

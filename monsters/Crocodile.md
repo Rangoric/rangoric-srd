@@ -15,7 +15,7 @@ full-attack: "Bite +5 melee (1d8+4 plus grab) and tail slap +0 melee (1d12+2)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Death roll (1d8+6 plus trip)"
 special-qualities: "Low-light vision, hold breath"
-saves: "Fort +6, Ref +4, Will +2"
+defenses: "Fort 16, Ref 14, Will 12"
 abilities: "Str 19, Dex 12, Con 17, Int 1, Wis 12, Cha 2"
 skills: "Athletics +12, Perception +8, Stealth +5 (+13 in water)"
 skill-ranks: "Athletics 5, Perception 4, Stealth 5"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: Death roll (1d8+6 plus [[rangoric-srd/monsters/abilities/Trip|trip]])
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]]
-- **Saves**: Fort +6, Ref +4, Will +2
+- **Defenses**: Fort 16, Ref 14, Will 12
 - **Abilities**: Str 19, Dex 12, Con 17, Int 1, Wis 12, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +5 (+13 in water)
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Stealth)

@@ -15,7 +15,7 @@ full-attack: "Bite +6 melee (1d4+1 plus grab) and 2 claws +6 melee (1d3+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Chupar, pounce"
 special-qualities: "Darkvision 60 ft., low-light vision"
-saves: "Fort +6, Ref +7, Will +3"
+defenses: "Fort 16, Ref 17, Will 13"
 abilities: "Str 13, Dex 16, Con 14, Int 3, Wis 15, Cha 6"
 skills: "Acrobatics +7, Athletics +1 (+5 jumping), Perception +6, Stealth +16"
 skill-ranks: "Acrobatics 1, Athletics 0, Perception 1, Stealth 2"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Chupar|Chupar]], [[rangoric-srd/monsters/abilities/Pounce|pounce]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-- **Saves**: Fort +6, Ref +7, Will +3
+- **Defenses**: Fort 16, Ref 17, Will 13
 - **Abilities**: Str 13, Dex 16, Con 14, Int 3, Wis 15, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +1 (+5 jumping), [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]

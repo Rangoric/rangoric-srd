@@ -13,9 +13,9 @@ cmd: "18 (22 vs. trip)"
 attack: "Bite +6 melee (2d8+6)"
 full-attack: "Bite +6 melee (2d8+6)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Breath weapon (15-ft. cone, 2d4 acid damage, Reflex DC 14 half, usable once every 1d4 rounds), trample (1d6+6, DC 16)"
+special-attacks: "Breath weapon (15-ft. cone, 2d4 acid damage, −9 vs Reflex4 half, usable once every 1d4 rounds), trample (1d6+6, +6 vs Reflex)"
 special-qualities: "Darkvision 60 ft., immunity to acid and mind-affecting effects, light sensitivity"
-saves: "Fort +6, Ref +1, Will +1"
+defenses: "Fort 16, Ref 11, Will 11"
 abilities: "Str 18, Dex 11, Con 15, Int —, Wis 11, Cha 6"
 skills: "—"
 skill-ranks: ""
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +6 melee (2d8+6)
 - **Full Attack**: Bite +6 melee (2d8+6)
 - **Space/Reach**: 10 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (15-ft. cone, 2d4 acid damage, Reflex DC 14 half, usable once every 1d4 rounds), [[rangoric-srd/monsters/abilities/Trample|trample]] (1d6+6, DC 16)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (15-ft. cone, 2d4 acid damage, −9 vs Reflex4 half, usable once every 1d4 rounds), [[rangoric-srd/monsters/abilities/Trample|trample]] (1d6+6, +6 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and mind-affecting effects, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +6, Ref +1, Will +1
+- **Defenses**: Fort 16, Ref 11, Will 11
 - **Abilities**: Str 18, Dex 11, Con 15, Int —, Wis 11, Cha 6
 - **Skills**: —
 - **Feats**: —

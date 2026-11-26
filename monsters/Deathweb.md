@@ -15,7 +15,7 @@ full-attack: "Bite +15 melee (2d8+12)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Web (+9 ranged, DC 15, 11 hp)"
 special-qualities: "Darkvision 60 ft., infestation (5 ft., 1d6 plus poison), compression, undead traits"
-saves: "Fort +5, Ref +5, Will +8"
+defenses: "Fort 15, Ref 15, Will 18"
 abilities: "Str 26, Dex 14, Con —, Int 7, Wis 13, Cha 15"
 skills: "Athletics +16, Perception +15, Stealth +16"
 skill-ranks: "Athletics 5, Perception 11, Stealth 11"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Web|Web]] (+9 ranged, DC 15, 11 hp)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Infestation (Deathweb)|infestation]] (5 ft., 1d6 plus poison), [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +5, Ref +5, Will +8
+- **Defenses**: Fort 15, Ref 15, Will 18
 - **Abilities**: Str 26, Dex 14, Con —, Int 7, Wis 13, Cha 15
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -71,6 +71,6 @@ Deathwebs lair where they can build webs to trap passersby, such as among thick 
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Deathweb Venom|Deathweb Venom]]: Infestation—injury; _save_ Fort DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Str damage; _cure_ 2 consecutive saves. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Deathweb Venom|Deathweb Venom]]: Infestation—injury; _attack_ +7 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Str damage; _cure_ 2 consecutive misses. The attack bonus is Charisma-based.
 
-**[[rangoric-srd/monsters/abilities/Infestation (Deathweb)|Infestation]] (Su)**: An infestation of poisonous spiders, which nest within this creature's exoskeleton, constantly surrounds a deathweb, to a radius of 5 feet. Any creature within the infestation takes 1d6 points of damage at the end of each round it remains in the area. A creature that takes this damage must make a DC 17 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round. In addition, those damaged by this infestation are poisoned as well. Any area effect attack that deals 10 or more points of damage to a deathweb destroys its infesting spiders, removing its aura for 3 rounds, after which a new batch of spiders swarms out of the undead's body to replenish the infestation. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Infestation (Deathweb)|Infestation]] (Su)**: An infestation of poisonous spiders, which nest within this creature's exoskeleton, constantly surrounds a deathweb, to a radius of 5 feet. Any creature within the infestation takes 1d6 points of damage at the end of each round it remains in the area. A creature that takes this damage is attacked at +7 vs Fortitude, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round. In addition, those damaged by this infestation are poisoned as well. Any area effect attack that deals 10 or more points of damage to a deathweb destroys its infesting spiders, removing its aura for 3 rounds, after which a new batch of spiders swarms out of the undead's body to replenish the infestation. The attack bonus is Charisma-based.

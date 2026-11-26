@@ -13,9 +13,9 @@ cmd: "24"
 attack: "Bite +11 melee (2d8+6 plus poison) or electrical jolt +8 ranged touch (4d6 electricity)"
 full-attack: "Bite +11 melee (2d8+6 plus poison); or electrical jolt +8 ranged touch (4d6 electricity)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Breath weapon (30-ft. line, 8d6 acid damage, Reflex DC 17 for half, usable every 1d4 rounds), poison"
+special-attacks: "Breath weapon (30-ft. line, 8d6 acid damage, −9 vs Reflex7 for half, usable every 1d4 rounds), poison"
 special-qualities: "Darkvision 60 ft., low-light vision, tremorsense 60 ft., corrosive blood, venomous skin, immunity to acid, electricity and poison"
-saves: "Fort +9, Ref +7, Will +4"
+defenses: "Fort 19, Ref 17, Will 14"
 abilities: "Str 18, Dex 13, Con 16, Int 3, Wis 11, Cha 5"
 skills: "Perception +11, Stealth –3 (+13 in deserts)"
 skill-ranks: "Perception 8, Stealth 0"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +11 melee (2d8+6 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or electrical jolt +8 ranged touch (4d6 electricity)
 - **Full Attack**: Bite +11 melee (2d8+6 plus [[rangoric-srd/monsters/abilities/Poison|poison]]); or electrical jolt +8 ranged touch (4d6 electricity)
 - **Space/Reach**: 10 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (30-ft. line, 8d6 acid damage, Reflex DC 17 for half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Poison|poison]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (30-ft. line, 8d6 acid damage, −9 vs Reflex7 for half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Corrosive Blood|corrosive blood]], [[rangoric-srd/monsters/abilities/Venomous Skin|venomous skin]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, electricity and poison
-- **Saves**: Fort +9, Ref +7, Will +4
+- **Defenses**: Fort 19, Ref 17, Will 14
 - **Abilities**: Str 18, Dex 13, Con 16, Int 3, Wis 11, Cha 5
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] –3 (+13 in deserts)
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
@@ -69,10 +69,10 @@ Death worms speak Terran.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Corrosive Blood|Corrosive Blood]] (Ex)**: A death worm's blood can corrode metal on contact. If a creature damages a death worm with a piercing or slashing weapon made of metal, the creature's blood deals 3d6 points of acid damage to the metal weapon (unlike most forms of energy damage, this damage is not halved when applied to a metal object, although it does still have to penetrate the metal's hardness). The weapon's wielder can halve the damage the weapon takes by making a successful DC 17 Reflex save. Creatures made of metal that deal slashing or piercing damage to a death worm with a natural attack take 3d6 points of acid damage (a DC 17 Reflex save halves this damage). The corrosive elements of the blood fade 1 round after it leaves the worm's body or the worm dies. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Corrosive Blood|Corrosive Blood]] (Ex)**: A death worm's blood can corrode metal on contact. If a creature damages a death worm with a piercing or slashing weapon made of metal, the creature's blood deals 3d6 points of acid damage to the metal weapon (unlike most forms of energy damage, this damage is not halved when applied to a metal object, although it does still have to penetrate the metal's hardness). The acid attacks the weapon's wielder at +7 vs Reflex, and a miss halves the damage the weapon takes. Creatures made of metal that deal slashing or piercing damage to a death worm with a natural attack take 3d6 points of acid damage (+7 vs Reflex; a miss halves). The corrosive elements of the blood fade 1 round after it leaves the worm's body or the worm dies. The attack bonus is Constitution-based.
 
 **Electrical Jolt (Su)**: A death worm can fire a jolt of electricity from its mouth as a standard action. The range increment for this ranged touch attack is 60 feet.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Death Worm Venom|Death Worm Venom]]: Bite—injury, or skin—contact; _save_ Fort DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage; _cure_ 2 saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Death Worm Venom|Death Worm Venom]]: Bite—injury, or skin—contact; _attack_ +7 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage; _cure_ 2 misses.
 
 **[[rangoric-srd/monsters/abilities/Venomous Skin|Venomous Skin]] (Ex)**: A death worm's skin secretes a noxious, waxy substance. This venomous sheen poisons any creature that touches a death worm, either by making a successful attack with an unarmed strike or natural weapon or with a touch attack. A creature that grapples a death worm is also exposed to the creature's venomous skin.

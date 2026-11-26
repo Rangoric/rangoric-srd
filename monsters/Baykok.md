@@ -15,7 +15,7 @@ full-attack: "2 claws +14 melee (1d6+3); or +1 composite longbow +19/+14/+9 rang
 space-reach: "5 ft./5 ft."
 special-attacks: "Devour soul, dread howl, infused arrows"
 special-qualities: "Darkvision 60 ft., undead traits"
-saves: "Fort +7, Ref +11, Will +9"
+defenses: "Fort 17, Ref 21, Will 19"
 abilities: "Str 17, Dex 22, Con —, Int 11, Wis 10, Cha 15"
 skills: "Acrobatics +28, Intimidation +20, Perception +18, Stealth +24"
 skill-ranks: "Acrobatics 19, Intimidation 15, Perception 15, Stealth 15"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Devour Soul|Devour soul]], [[rangoric-srd/monsters/abilities/Dread Howl|dread howl]], [[rangoric-srd/monsters/abilities/Infused Arrows|infused arrows]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +7, Ref +11, Will +9
+- **Defenses**: Fort 17, Ref 21, Will 19
 - **Abilities**: Str 17, Dex 22, Con —, Int 11, Wis 10, Cha 15
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +28, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +24
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (composite longbow), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (composite longbow)
@@ -69,8 +69,8 @@ Baykoks speak Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Devour Soul|Devour Soul]] (Su)**: A baykok can take a standard action to devour the soul of an adjacent dead or dying creature. A dying creature can resist this attack with a DC 19 Fortitude save. If it fails, the target is instantly slain. If the creature is already dead, it does not make a saving throw, although the body cannot be more than 1 hour dead. A creature subjected to this attack cannot be brought back to life via raise dead (resurrection and more powerful effects work normally). When a baykok devours a soul in this way, it heals 5d6+10 points of damage and becomes hasted for 4 rounds (as if affected by haste). This is a death effect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Devour Soul|Devour Soul]] (Su)**: A baykok can take a standard action to devour the soul of an adjacent dead or dying creature. The baykok attacks a dying creature at +9 vs Fortitude, and a miss resists it. On a hit, the target is instantly slain. If the creature is already dead, the attack hits automatically, although the body cannot be more than 1 hour dead. A creature subjected to this attack cannot be brought back to life via raise dead (resurrection and more powerful effects work normally). When a baykok devours a soul in this way, it heals 5d6+10 points of damage and becomes hasted for 4 rounds (as if affected by haste). This is a death effect. The attack bonus is Charisma-based.
 
-**[[rangoric-srd/monsters/abilities/Dread Howl|Dread Howl]] (Su)**: Once per day, a baykok can unleash a blood-curdling howl. Any living creature within a 30-foot-radius burst becomes [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] with fear for 1 round unless it resists with a DC 19 Will save. Any creature that makes this saving throw is instead [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round. This is a fear effect. The DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Dread Howl|Dread Howl]] (Su)**: Once per day, a baykok can unleash a blood-curdling howl. Any living creature within a 30-foot-radius burst becomes [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] with fear for 1 round if the burst hits it at +9 vs Will. Any creature it misses is instead [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round. This is a fear effect. The attack bonus is Charisma-based.
 
-**[[rangoric-srd/monsters/abilities/Infused Arrows|Infused Arrows]] (Su)**: A baykok creates arrows of bone as it fires its bow—it need not carry arrows as ammunition. These bone arrows do normal damage for arrows fired from the bow, but gain a +1 enhancement bonus on attack and damage rolls. In addition, each arrow deals an additional 1d6 points of negative energy on a hit. Further, the first creature struck in a round by a baykok's arrow must make a DC 19 Fortitude save to avoid being [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 1d3 rounds. A baykok can fire normal arrows from its bow if it wishes—such arrows, however, do not gain the special negative energy damage or paralysis effects. The DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Infused Arrows|Infused Arrows]] (Su)**: A baykok creates arrows of bone as it fires its bow—it need not carry arrows as ammunition. These bone arrows do normal damage for arrows fired from the bow, but gain a +1 enhancement bonus on attack and damage rolls. In addition, each arrow deals an additional 1d6 points of negative energy on a hit. Further, the first creature struck in a round by a baykok's arrow is attacked at +9 vs Fortitude, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 1d3 rounds. A baykok can fire normal arrows from its bow if it wishes—such arrows, however, do not gain the special negative energy damage or paralysis effects. The attack bonus is Charisma-based.

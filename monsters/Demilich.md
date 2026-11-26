@@ -15,7 +15,7 @@ full-attack: "—"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Devour soul, spell-like abilities"
 special-qualities: "Darkvision 60 ft., true seeing, channel resistance +5, rejuvenation, unholy grace, damage reduction 20/-, immunity to acid, cold, electricity, magic and polymorph, undead traits, torpor, vorpal susceptibility"
-saves: "Fort +15, Ref +15, Will +21"
+defenses: "Fort 25, Ref 25, Will 31"
 abilities: "Str 6, Dex 17, Con —, Int 21, Wis 20, Cha 21"
 skills: "Acrobatics +23, Arcana +23, Deception +20, Dungeoneering +20, Mysticism +23, Perception +29, Sense Motive +23, Society +15, Stealth +24, Theology +18"
 skill-ranks: "Acrobatics 13, Arcana 15, Deception 12, Dungeoneering 12, Mysticism 15, Perception 19, Sense Motive 19, Society 7, Stealth 10, Theology 10"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: Devour soul, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., true seeing, [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +5, rejuvenation, unholy grace, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 20/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, cold, electricity, magic and polymorph, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], torpor, vorpal susceptibility
-- **Saves**: Fort +15, Ref +15, Will +21
+- **Defenses**: Fort 25, Ref 25, Will 31
 - **Abilities**: Str 6, Dex 17, Con —, Int 21, Wis 20, Cha 21
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +23, [[rangoric-srd/skills/Arcana|Arcana]] +23, [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +20, [[rangoric-srd/skills/Mysticism|Mysticism]] +23, [[rangoric-srd/skills/Perception|Perception]] +29, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Society|Society]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +24, [[rangoric-srd/skills/Theology|Theology]] +18
 - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (devour soul), [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -77,25 +77,25 @@ Demiliches speak Abyssal, Aklo, Common, Draconic, Giant and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +25): Constant—_[[rangoric-srd/spells/True Seeing|true seeing]]_; At will—_greater bestow curse_ (DC 21), _[[rangoric-srd/spells/Telekinesis|telekinesis]]_ (DC 20), _[[rangoric-srd/spells/Wail of the Banshee|wail of the banshee]]_ (20-ft.-radius spread centered on the demilich; DC 24).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +25): Constant—_[[rangoric-srd/spells/True Seeing|true seeing]]_; At will—_greater bestow curse_ (+11 vs Will), _[[rangoric-srd/spells/Telekinesis|telekinesis]]_ (+10 vs Will), _[[rangoric-srd/spells/Wail of the Banshee|wail of the banshee]]_ (20-ft.-radius spread centered on the demilich; +14 vs Fortitude).
 
-**Devour Soul (Su)**: As a standard action with a range of 300 feet, a demilich can imprison the soul of a living creature within one of 10 special gems embedded in its skull. If the target succeeds at a DC 24 Fortitude save, it gains two permanent negative levels. If it fails, its soul is immediately drawn into one of the gems in the demilich's skull. The soul remains trapped within the gem, visible as but a gleam except under true seeing. The soulless body corrupts and decays rapidly, reducing to dust in a single round. As long as the dead creature's soul remains trapped in the gemstone, it cannot be restored to life via any means save direct divine intervention. Gems with souls trapped in them can be retrieved from a destroyed demilich, at which point they can either be crushed to release any souls within to their afterlife or used in the place of the usual material components to restore the soul and body with resurrection or true resurrection. After 24 hours, the demilich can choose to consume any soul trapped in a gem, healing it 1d6 hit points per Hit Die of the soul, at which point only miracle or wish can restore the dead creature to life. The save DC is Charisma-based, and includes a +2 bonus for the Ability Focus feat.
+**Devour Soul (Su)**: As a standard action with a range of 300 feet, a demilich can imprison the soul of a living creature within one of 10 special gems embedded in its skull. The demilich attacks the target at +14 vs Fortitude, and on a miss it gains two permanent negative levels. On a hit, its soul is immediately drawn into one of the gems in the demilich's skull. The soul remains trapped within the gem, visible as but a gleam except under true seeing. The soulless body corrupts and decays rapidly, reducing to dust in a single round. As long as the dead creature's soul remains trapped in the gemstone, it cannot be restored to life via any means save direct divine intervention. Gems with souls trapped in them can be retrieved from a destroyed demilich, at which point they can either be crushed to release any souls within to their afterlife or used in the place of the usual material components to restore the soul and body with resurrection or true resurrection. After 24 hours, the demilich can choose to consume any soul trapped in a gem, healing it 1d6 hit points per Hit Die of the soul, at which point only miracle or wish can restore the dead creature to life. The attack bonus is Charisma-based, and includes a +2 bonus for the Ability Focus feat.
 
-**Greater Bestow Curse (Sp)**: This spell-like ability functions like bestow curse, but can have one of the following effects: –12 to one ability score; –6 to two ability scores; –8 penalty on attack rolls, saves, and checks; or a 25% chance to act normally. This ability is treated as a 6th-level spell.
+**Greater Bestow Curse (Sp)**: This spell-like ability functions like bestow curse, but can have one of the following effects: –12 to one ability score; –6 to two ability scores; –8 penalty on attack rolls, defenses, and checks; or a 25% chance to act normally. This ability is treated as a 6th-level spell.
 
 **Immunity to Magic (Su)**: A demilich is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells function differently against the creature, as noted below.
 
-- A _[[rangoric-srd/spells/Dispel Evil|dispel evil]]_ spell deals 2d6 points of damage, with no saving throw.
+- A _[[rangoric-srd/spells/Dispel Evil|dispel evil]]_ spell deals 2d6 points of damage, with no attack against a defense.
 - _[[rangoric-srd/spells/Holy Smite|Holy smite]]_ affects a demilich normally.
-- A _[[rangoric-srd/spells/Power Word Kill|power word kill]]_ spoken by an ethereal caster deals 50 points of damage to the demilich if it fails a Fortitude save (with a DC determined as though the spell allowed a saving throw).
-- A _[[rangoric-srd/spells/Shatter|shatter]]_ spell deals 1d6 points of damage per two caster levels (maximum 10d6), with no saving throw.
+- A _[[rangoric-srd/spells/Power Word Kill|power word kill]]_ spoken by an ethereal caster deals 50 points of damage to the demilich if it hits the demilich’s Fortitude (with an attack bonus determined as though the spell attacked a defense).
+- A _[[rangoric-srd/spells/Shatter|shatter]]_ spell deals 1d6 points of damage per two caster levels (maximum 10d6), with no attack against a defense.
 
 **Rejuvenation (Su)**: A destroyed demilich reforms in 2d6 days. To permanently destroy a demilich, holy water must be poured over its remains within the area of a _[[rangoric-srd/spells/Hallow|hallow]]_ spell. To complete the destruction, _[[rangoric-srd/spells/Holy Word|holy word]]_ or _[[rangoric-srd/spells/Dispel Evil|dispel evil]]_ must be cast. If the caster succeeds at a caster level check with a DC equal to 10 + the demilich's Hit Dice, the demilich is permanently destroyed.
 
-**Telekinetic Storm (Su)**: As a special use of its _[[rangoric-srd/spells/Telekinesis|telekinesis]]_ spell-like ability, a demilich can churn up its treasure, dust, bones, and other loose debris in the area into a whirling storm about its skull. The storm obscures vision as a _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_ within a 20-foot spread centered on the demilich's skull. Creatures within the storm take 12d6 points of bludgeoning damage per round on the demilich's turn (Reflex DC 20 for half damage). The demilich can maintain the storm indefinitely by concentrating.
+**Telekinetic Storm (Su)**: As a special use of its _[[rangoric-srd/spells/Telekinesis|telekinesis]]_ spell-like ability, a demilich can churn up its treasure, dust, bones, and other loose debris in the area into a whirling storm about its skull. The storm obscures vision as a _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_ within a 20-foot spread centered on the demilich's skull. Creatures within the storm take 12d6 points of bludgeoning damage per round on the demilich's turn (+10 vs Reflex; a miss halves damage). The demilich can maintain the storm indefinitely by concentrating.
 
 **Torpor (Ex)**: A demilich takes no actions against intruders unless its remains or treasure are disturbed.
 
-**Unholy Grace (Su)**: A demilich gains a bonus on saves and a profane bonus to AC equal to its Charisma modifier.
+**Unholy Grace (Su)**: A demilich gains a bonus on defenses and a profane bonus to AC equal to its Charisma modifier.
 
 **Vorpal Susceptibility (Ex)**: _[[rangoric-srd/magic-items/weapon-abilities/Vorpal|Vorpal]]_ weapons of any kind ignore a demilich's damage reduction.

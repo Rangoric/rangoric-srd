@@ -17,7 +17,7 @@ full-attack: "Bite +5 melee (1d3-4)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Cascade flu, psi-like abilities"
 special-qualities: "Low-light vision, power conversion, scent"
-saves: "Fort +0, Ref +4, Will +2"
+defenses: "Fort 10, Ref 14, Will 12"
 abilities: "Str 2, Dex 14, Con 7, Int 2, Wis 14, Cha 11"
 skills: "Perception +9, Stealth +14"
 skill-ranks: "Perception 1, Stealth 0"
@@ -50,7 +50,7 @@ Full **Attack:** Bite +5 melee (1d3-4)   
 **Space/Reach:** 2-1/2 ft./0 ft.     
 **Special Attacks:** Cascade flu, psi-like abilities     
 **Special Qualities:** Low-light vision, power conversion, [[rangoric-srd/monsters/abilities/Scent|scent]]  
-**Saves:** Fort +0, Ref +4, Will +2     
+**Defenses:** Fort 10, Ref 14, Will 12     
 **Abilities:** Str 2, Dex 14, Con 7, Int 2, Wis 14, Cha 11     
 **Skills:** [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +14     
 **Feats:** [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse (B)]]  
@@ -70,9 +70,9 @@ Brain moles eat small insects when they can’t get psionic energy.
 
 Brain moles hunger for psionic energy. They hide in loose dirt and detritus on forest floors, watching for the approach of psionic creatures with their detect psionics power. When a suitable target comes in range, the brain moles then attack with their power leech ability. The moles remain hidden as long as possible. If threatened, they use aversion and mind thrust to discourage attackers, using their bite only as a last resort.
 
-Cascade Flu (Ex): Disease-bite; Fortitude DC 9, incubation period one day, damage psionic cascade (every time an afflicted character manifests a power, she must make a DC 16 Concentration check; on a failed check, a psionic cascade is triggered \[see Psionic Maladies\]). The save DC is Constitution-based.
+Cascade Flu (Ex): Disease-bite; −1 vs Fortitude, incubation period one day, damage psionic cascade (every time an afflicted character manifests a power, she must make a DC 16 Concentration check; on a failed check, a psionic cascade is triggered \[see Psionic Maladies\]). The attack bonus is Constitution-based.
 
-Psi-Like **Abilities:** At will - [[rangoric-srd/powers/Detect Psionics|detect psionics]], [[rangoric-srd/powers/Power Leech|power leech]] (ML 5th, DC 14); 3/day - [[rangoric-srd/powers/Aversion (Power)|aversion]] (DC 12), [[rangoric-srd/powers/Mind Thrust|mind thrust]] (DC 11). Manifester level 1st. The save DCs are Charisma-based.
+Psi-Like **Abilities:** At will - [[rangoric-srd/powers/Detect Psionics|detect psionics]], [[rangoric-srd/powers/Power Leech|power leech]] (ML 5th, +4 vs Will); 3/day - [[rangoric-srd/powers/Aversion (Power)|aversion]] (+2 vs Will), [[rangoric-srd/powers/Mind Thrust|mind thrust]] (+1 vs Will). Manifester level 1st. The attack bonuses are Charisma-based.
 
 Hide Mind (Su): A brain mole cannot be identified as psionic by divination spells or clairsentience powers.
 

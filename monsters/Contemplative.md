@@ -15,7 +15,7 @@ full-attack: "2 claws +2 melee (1d4–2)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Blindsight 60 ft., darkvision 60 ft., telepathy 100 ft., immunity to mind-affecting effects"
-saves: "Fort +0, Ref +5, Will +7"
+defenses: "Fort 10, Ref 15, Will 17"
 abilities: "Str 6, Dex 13, Con 8, Int 24, Wis 17, Cha 21"
 skills: "Acrobatics +9, Animal Handling +9, Arcana +11, Deception +9, Emulation +9, Linguistics +11, Mysticism +11, Perception +10, Persuasion +9, Sense Motive +7, Society +11, Theology +11"
 skill-ranks: "Acrobatics 5, Animal Handling 1, Arcana 1, Deception 1, Emulation 1, Linguistics 1, Mysticism 1, Perception 4, Persuasion 1, Sense Motive 1, Society 1, Theology 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +0, Ref +5, Will +7
+- **Defenses**: Fort 10, Ref 15, Will 17
 - **Abilities**: Str 6, Dex 13, Con 8, Int 24, Wis 17, Cha 21
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +9, [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Emulation|Emulation]] +9, [[rangoric-srd/skills/Linguistics|Linguistics]] +11, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Society|Society]] +11, [[rangoric-srd/skills/Theology|Theology]] +11
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]]
@@ -69,4 +69,4 @@ A typical contemplative weighs roughly 100 pounds and measures 4 feet in diamete
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +9): Constant—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_, _[[rangoric-srd/spells/Tongues|tongues]]_; At will—_[[rangoric-srd/spells/Daze|daze]]_ (DC 15), _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 17), _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 15), _[[rangoric-srd/spells/Magic Missile|magic missile]]_; 1/day—_[[rangoric-srd/spells/Telekinesis|telekinesis]]_ (DC 20).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +9): Constant—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_, _[[rangoric-srd/spells/Tongues|tongues]]_; At will—_[[rangoric-srd/spells/Daze|daze]]_ (+5 vs Will), _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (+7 vs Will), _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+5 vs Will), _[[rangoric-srd/spells/Magic Missile|magic missile]]_; 1/day—_[[rangoric-srd/spells/Telekinesis|telekinesis]]_ (+10 vs Will).

@@ -15,7 +15,7 @@ full-attack: "2 bites +4 melee (1d8+1 plus disease and trip)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Disease"
 special-qualities: "Darkvision 60 ft., low-light vision, scent"
-saves: "Fort +4, Ref +5, Will +2"
+defenses: "Fort 14, Ref 15, Will 12"
 abilities: "Str 13, Dex 15, Con 13, Int 4, Wis 12, Cha 6"
 skills: "Fieldcraft +4, Perception +7, Stealth +4"
 skill-ranks: "Fieldcraft 1, Perception 1, Stealth 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +4, Ref +5, Will +2
+- **Defenses**: Fort 14, Ref 15, Will 12
 - **Abilities**: Str 13, Dex 15, Con 13, Int 4, Wis 12, Cha 6
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +4
 - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -75,4 +75,4 @@ Death dogs understand Goblin but can't speak.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Su)**: [[rangoric-srd/rules/afflictions/Wormpox|Wormpox]]: Bite—injury; _save_ Fort DC 12; _onset_ 1 day; _frequency_ 1 day; _effect_ 1 Con damage; _cure_ 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Su)**: [[rangoric-srd/rules/afflictions/Wormpox|Wormpox]]: Bite—injury; _attack_ +2 vs Fortitude; _onset_ 1 day; _frequency_ 1 day; _effect_ 1 Con damage; _cure_ 2 consecutive misses.

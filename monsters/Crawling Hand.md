@@ -15,7 +15,7 @@ full-attack: "Claw +5 melee (1d1+1 plus grab)"
 space-reach: "1 ft./0 ft."
 special-attacks: "Mark quarry, strangle"
 special-qualities: "Blindsense 30 ft., darkvision 60 ft., undead traits"
-saves: "Fort +2, Ref +0, Will +2"
+defenses: "Fort 12, Ref 10, Will 12"
 abilities: "Str 13, Dex 11, Con —, Int 2, Wis 11, Cha 14"
 skills: "Athletics +9, Fieldcraft +4, Perception +4, Stealth +12"
 skill-ranks: "Athletics 5, Fieldcraft 0, Perception 1, Stealth 0"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 1 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Mark Quarry|Mark quarry]], [[rangoric-srd/monsters/abilities/Strangle|strangle]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +2, Ref +0, Will +2
+- **Defenses**: Fort 12, Ref 10, Will 12
 - **Abilities**: Str 13, Dex 11, Con —, Int 2, Wis 11, Cha 14
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]

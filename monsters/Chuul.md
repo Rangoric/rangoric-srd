@@ -16,7 +16,7 @@ full-attack: "2 claws +14 melee (2d6+7 plus grab)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Constrict (2d6+7), paralytic tentacles"
 special-qualities: "Darkvision 60 ft., amphibious, immunity to poison"
-saves: "Fort +7, Ref +6, Will +9"
+defenses: "Fort 17, Ref 16, Will 19"
 abilities: "Str 25, Dex 16, Con 18, Int 10, Wis 14, Cha 5"
 skills: "Athletics +28, Nature +8, Perception +21, Sense Motive +7, Stealth +9"
 skill-ranks: "Athletics 18, Nature 5, Perception 14, Sense Motive 4, Stealth 7"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d6+7), paralytic tentacles
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison
-- **Saves**: Fort +7, Ref +6, Will +9
+- **Defenses**: Fort 17, Ref 16, Will 19
 - **Abilities**: Str 25, Dex 16, Con 18, Int 10, Wis 14, Cha 5
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +28, [[rangoric-srd/skills/Nature|Nature]] +8, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -79,4 +79,4 @@ Chuuls speak Common (or Undercommon, for the underground variety).
 
 A chuul prefers to wait by the shore, submerged in murky water, until it hears nearby prey (in or out of the water) that it can attack with surprise. A chuul [[rangoric-srd/combat/Combat Maneuvers#Grapple|grabs]] with its claws and [[rangoric-srd/monsters/abilities/Constrict|constricts]] its foe, then passes the opponent to its paralytic tentacles. It tries to always have one claw free, so if it faces a large number of opponents, it drops a [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] or [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] victim and continues attempting to grab, constrict, and paralyze the rest.
 
-**Paralytic Tentacles (Ex)**: A chuul can transfer a grappled victim from a claw to its tentacles as a move action. The tentacles grapple with the same strength as the claw but deal no damage, instead exuding a paralytic secretion. Anyone held in the tentacles must succeed on a DC 19 Fortitude save each round on the chuul's turn or be [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 6 rounds. The save DC is Constitution-based. While held in the tentacles, paralyzed or not, a victim automatically takes 1d8+7 points of damage each round from the creature's mandibles.
+**Paralytic Tentacles (Ex)**: A chuul can transfer a grappled victim from a claw to its tentacles as a move action. The tentacles grapple with the same strength as the claw but deal no damage, instead exuding a paralytic secretion. Anyone held in the tentacles is attacked at +9 vs Fortitude each round on the chuul's turn, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 6 rounds. The attack bonus is Constitution-based. While held in the tentacles, paralyzed or not, a victim automatically takes 1d8+7 points of damage each round from the creature's mandibles.

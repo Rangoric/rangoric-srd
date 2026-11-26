@@ -16,7 +16,7 @@ full-attack: "Sting +7 melee (2d6+3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Shard spike +7 (3d6, range increment 60 ft.), spell-like abilities"
 special-qualities: "Darkvision 60 ft., crystal sense, damage reduction 5/bludgeoning, immunity to cold and fire, resistance to electricity 10"
-saves: "Fort +7, Ref +8, Will +2"
+defenses: "Fort 17, Ref 18, Will 12"
 abilities: "Str 15, Dex 14, Con 13, Int 6, Wis 13, Cha 14"
 skills: "Acrobatics +9, Athletics +9, Perception +11, Stealth +13 (+15 in rocky areas)"
 skill-ranks: "Acrobatics 4, Athletics 4, Perception 7, Stealth 4"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Shard spike +7 (3d6, range increment 60 ft.), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., crystal sense, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and fire, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10
-- **Saves**: Fort +7, Ref +8, Will +2
+- **Defenses**: Fort 17, Ref 18, Will 12
 - **Abilities**: Str 15, Dex 14, Con 13, Int 6, Wis 13, Cha 14
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +13 (+15 in rocky areas)
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -75,7 +75,7 @@ The psionic version is [[rangoric-srd/monsters/Crysmal, Psionic|Crysmal, Psionic
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +6): At will—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 12), _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Silent Image|silent image]]_ (DC 13); 3/day—_[[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Sanctuary|sanctuary]]_ (DC 13), _[[rangoric-srd/spells/Touch of Idiocy|touch of idiocy]]_ (DC 14).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +6): At will—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+2 vs Will), _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Silent Image|silent image]]_ (+3 vs Will); 3/day—_[[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Sanctuary|sanctuary]]_ (+3 vs Will), _[[rangoric-srd/spells/Touch of Idiocy|touch of idiocy]]_ (+4).
 
 **Crystal Sense (Sp)**: Crysmals can sense the presence of any crystals or gems within 30 feet as if using the scent ability.
 

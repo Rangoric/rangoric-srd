@@ -18,7 +18,7 @@ full-attack: "4 incorporeal touches +7 melee (2d6)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Psi-like abilities, steal essence"
 special-qualities: "Incorporeal traits, Undead traits, unnatural aura, vulnerability to sunlight"
-saves: "Fort +3, Ref +6, Will +9"
+defenses: "Fort 13, Ref 16, Will 19"
 abilities: "Str -, Dex 16, Con -, Int 14, Wis 14, Cha 15"
 skills: "Intimidation +16, Mysticism +16, Psionics +16, Perception +16, Investigation +16, Sense Motive +16, Stealth +13"
 skill-ranks: "Intimidation 11, Investigation 11, Mysticism 11, Perception 11, Psionics 11, Sense Motive 11, Stealth 11"
@@ -51,7 +51,7 @@ Full **Attack:** 4 incorporeal touches +7 melee (2d6)   
 **Space/Reach:** 10 ft./10 ft.     
 **Special Attacks:** Psi-like abilities, steal essence     
 **Special Qualities:** [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|Incorporeal traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead traits]], unnatural aura, vulnerability to sunlight     
-**Saves:** Fort +3, Ref +6, Will +9     
+**Defenses:** Fort 13, Ref 16, Will 19     
 **Abilities:** Str -, Dex 16, Con -, Int 14, Wis 14, Cha 15     
 **Skills:** [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Investigation|Investigation]] +16, [[rangoric-srd/skills/Mysticism|Mysticism]] +16, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Psionics (Skill)|Psionics]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +13     
 **Feats:** [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]  
@@ -69,11 +69,11 @@ Callers in darkness rarely speak, but when they do, they speak Common.
 
 #### Combat
 
-Psi-Like **Abilities:**At will - [[rangoric-srd/powers/Clairvoyant Sense|clairvoyant sense]], [[rangoric-srd/powers/Concussion Blast|concussion blast]] (two targets, 3d6\*), [[rangoric-srd/powers/Detect Psionics|detect psionics]], [[rangoric-srd/powers/Ego Whip|ego whip]] (2d4, DC 16\*), [[rangoric-srd/powers/Mind Thrust|mind thrust]] (7d10, DC 16\*); 3/day - [[rangoric-srd/powers/Death Urge|death urge]] (DC 16), [[rangoric-srd/powers/Psychic Crush|psychic crush]] (DC 13\*\*), [[rangoric-srd/powers/Powers Q to W|psionic suggestion]] (three targets, DC 14\*); 1/ day - [[rangoric-srd/powers/Co-Opt Concentration|co-opt concentration]] (DC 18). Manifester level 7th. The save DCs are Charisma-based.
+Psi-Like **Abilities:**At will - [[rangoric-srd/powers/Clairvoyant Sense|clairvoyant sense]], [[rangoric-srd/powers/Concussion Blast|concussion blast]] (two targets, 3d6\*), [[rangoric-srd/powers/Detect Psionics|detect psionics]], [[rangoric-srd/powers/Ego Whip|ego whip]] (2d4, +6 vs Will\*), [[rangoric-srd/powers/Mind Thrust|mind thrust]] (7d10, +6 vs Will\*); 3/day - [[rangoric-srd/powers/Death Urge|death urge]] (+6 vs Will), [[rangoric-srd/powers/Psychic Crush|psychic crush]] (+3 vs Will\*\*), [[rangoric-srd/powers/Powers Q to W|psionic suggestion]] (three targets, +4\*); 1/ day - [[rangoric-srd/powers/Co-Opt Concentration|co-opt concentration]] (+8 vs Will). Manifester level 7th. The attack bonuses are Charisma-based.
 
 \*Includes augmentation for the caller’s manifester level.
 
-\*\*Includes the inherent +4 save adjustment described in the power.
+\*\*Includes the inherent +4 attack bonus adjustment described in the power.
 
 Steal Essence (Su): Any living, intelligent creature slain by a caller in darkness’s touch attack is mentally absorbed into the monster’s consciousness. (The physical body of the victim remains intact). Stealing a victim’s essence is a free action; it grants the caller 12 temporary hit points, and a permanent new screaming face appears within its cloud.
 
@@ -81,8 +81,8 @@ A caller in darkness can also steal the essence of living, intelligent creatures
 
 Incorporeal Traits: A caller in darkness is harmed only by other incorporeal creatures, magic weapons, spells, spell-like abilities, and supernatural abilities. It has a 50% chance to ignore any damage from a corporeal source, except for force effects or attacks made with ghost touch weapons. It can pass through solid objects, but not force effects, at will. Its attacks ignore natural armor, armor, and shields, but deflection bonuses and force effects work normally against them. The creature always moves silently and cannot be heard with [[rangoric-srd/skills/Perception|Perception]] checks if it doesn’t wish to be.
 
-Undead Traits: A caller in darkness is immune to mind-affecting effects, [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death effects, and any effect that requires a Fortitude save unless it also works on objects or is harmless. It is not subject to critical hits, nonlethal damage, [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]] to its physical ability scores, [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|ability drain]], [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]], [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigue]], [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhaustion]], or death from massive damage. It cannot be raised, and resurrection works only if it is willing. It has darkvision out to 60 feet.
+Undead Traits: A caller in darkness is immune to mind-affecting effects, [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death effects, and any effect that attacks Fortitude unless it also works on objects or is harmless. It is not subject to critical hits, nonlethal damage, [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]] to its physical ability scores, [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|ability drain]], [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]], [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigue]], [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhaustion]], or death from massive damage. It cannot be raised, and resurrection works only if it is willing. It has darkvision out to 60 feet.
 
-Unnatural Aura (Su): Animals can sense the unnatural presence of a caller in darkness. Any animal within 30 feet must make a DC 17 Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] until it is no longer within 30 feet of the caller in darkness. A panicked creature that is cornered begins cowering. The save DC is Charisma-based.
+Unnatural Aura (Su): Animals can sense the unnatural presence of a caller in darkness. The aura attacks any animal within 30 feet at +7 vs Will, and on a hit it becomes [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] until it is no longer within 30 feet of the caller in darkness. A panicked creature that is cornered begins cowering. The attack bonus is Charisma-based.
 
 Vulnerability to Sunlight (Ex): Callers in darkness are utterly powerless in natural sunlight (not merely a daylight spell) and flee from it. A caller caught in sunlight cannot attack and can take only a single move action or standard action each turn, but  not both (nor can it take full-round actions).

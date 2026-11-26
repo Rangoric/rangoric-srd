@@ -16,7 +16,7 @@ full-attack: "Bite +13 melee (1d6+3 plus 1d6 cold) and 4 claws +14 melee (1d4+3)
 space-reach: "5 ft./5 ft."
 special-attacks: "Black bile"
 special-qualities: "Darkvision 120 ft., ferocity, amphibious, cold vigor, overwhelming, immunity to cold and poison"
-saves: "Fort +7, Ref +10, Will +7"
+defenses: "Fort 17, Ref 20, Will 17"
 abilities: "Str 16, Dex 15, Con 19, Int 11, Wis 12, Cha 8"
 skills: "Athletics +18, Fieldcraft +10, Intimidation +6, Perception +13, Stealth +18, Theology +4"
 skill-ranks: "Athletics 12, Fieldcraft 6, Intimidation 4, Perception 9, Stealth 9, Theology 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Black Bile|Black bile]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Cold Vigor|cold vigor]], [[rangoric-srd/monsters/abilities/Overwhelming|overwhelming]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and poison
-- **Saves**: Fort +7, Ref +10, Will +7
+- **Defenses**: Fort 17, Ref 20, Will 17
 - **Abilities**: Str 16, Dex 15, Con 19, Int 11, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +18, [[rangoric-srd/skills/Theology|Theology]] +4
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
@@ -72,7 +72,7 @@ Chardas speak Aklo and Undercommon.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Black Bile|Black Bile]] (Su)**: A charda's body seethes with freezing black bile. Its supernaturally cold, black bile is the source of the additional cold damage when a charda bites a creature. As a standard action, a charda can expel its full store of bile as a breath weapon that can take the form of a 60-foot line or a 30-foot cone. All creatures in this area take 8d6 points of cold damage (DC 18 Reflex half). A charda can use this breath weapon once every 1d4 rounds—while its black bile is recharging, it does not deal additional cold damage with its bite. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Black Bile|Black Bile]] (Su)**: A charda's body seethes with freezing black bile. Its supernaturally cold, black bile is the source of the additional cold damage when a charda bites a creature. As a standard action, a charda can expel its full store of bile as a breath weapon that can take the form of a 60-foot line or a 30-foot cone. All creatures in this area take 8d6 points of cold damage (+8 vs Reflex; a miss halves). A charda can use this breath weapon once every 1d4 rounds—while its black bile is recharging, it does not deal additional cold damage with its bite. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Cold Vigor|Cold Vigor]] (Ex)**: When a charda is in a cold environment, it becomes more animated and gains a +1 racial bonus on attack rolls and weapon damage rolls.
 

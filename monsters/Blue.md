@@ -18,7 +18,7 @@ full-attack: "Quarterstaff -2 melee (1d4-2) or light crossbow +1 ranged (1d6/19-
 space-reach: "5 ft./5 ft."
 special-attacks: "Psionic powers"
 special-qualities: "Darkvision 60 ft."
-saves: "Fort +2, Ref +0, Will +3"
+defenses: "Fort 12, Ref 10, Will 13"
 abilities: "Str 6, Dex 13, Con 14, Int 17, Wis 12, Cha 8"
 skills: "Animal Handling +4 (+6 riding), Mysticism +7, Perception +2, Stealth +10"
 skill-ranks: "Animal Handling 1, Mysticism 1, Perception 1, Stealth 1"
@@ -52,7 +52,7 @@ Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^hu
 **Space/Reach:** 5 ft./5 ft.     
 **Special Attacks:** Psionic powers     
 **Special Qualities:** Darkvision 60 ft.     
-**Saves:** Fort +2, Ref +0, Will +3    
+**Defenses:** Fort 12, Ref 10, Will 13    
 **Abilities:** Str 6, Dex 13, Con 14, Int 17, Wis 12, Cha 8    
 **Skills:** [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4 (+6 riding), [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +10        
 **Unspent Skill Points**: 1
@@ -77,9 +77,9 @@ Blues support goblin warriors in combat and are often called upon to lead a gang
 
 Psionic Powers: The blue described here is a 1st-level psion.
 
-Typical Psion Powers Known (power points 3\*; save DC 13 + power level): 1st - [[rangoric-srd/powers/Inertial Armor|inertial armor]], [[rangoric-srd/powers/Mind Thrust|mind thrust]] (DC 14), [[rangoric-srd/powers/Charm, Psionic|psionic charm]] (DC 14).
+Typical Psion Powers Known (power points 3\*; attack bonus +3 + power level): 1st - [[rangoric-srd/powers/Inertial Armor|inertial armor]], [[rangoric-srd/powers/Mind Thrust|mind thrust]] (+4 vs Will), [[rangoric-srd/powers/Charm, Psionic|psionic charm]] (+4 vs Will).
 
-Manifester level 1st. The save DCs are Intelligence-based.
+Manifester level 1st. The attack bonuses are Intelligence-based.
 
 \*The blue shown here has already manifested inertial armor; its reserve is normally 4 power points.
 

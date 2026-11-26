@@ -13,9 +13,9 @@ cmd: "29 (can't be tripped)"
 attack: "Bite +15 melee (2d6+9 plus grab)"
 full-attack: "Bite +15 melee (2d6+9 plus grab)"
 space-reach: "15 ft./10 ft."
-special-attacks: "Breath weapon (20-foot line, 7d6 electricity damage, Reflex DC 20 for half, usable every 1d4 rounds), constrict (2d6+9), rake (6 claws +14, 1d4+6), swallow whole (2d8+9 bludgeoning damage, AC 16, 10 hp)"
+special-attacks: "Breath weapon (20-foot line, 7d6 electricity damage, −8 vs Reflex0 for half, usable every 1d4 rounds), constrict (2d6+9), rake (6 claws +14, 1d4+6), swallow whole (2d8+9 bludgeoning damage, AC 16, 10 hp)"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, immunity to electricity"
-saves: "Fort +12, Ref +8, Will +5"
+defenses: "Fort 22, Ref 18, Will 15"
 abilities: "Str 23, Dex 12, Con 21, Int 7, Wis 14, Cha 12"
 skills: "Athletics +14, Perception +9, Stealth +5"
 skill-ranks: "Athletics 5, Perception 3, Stealth 9"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +15 melee (2d6+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Full Attack**: Bite +15 melee (2d6+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Space/Reach**: 15 ft./10 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (20-foot line, 7d6 electricity damage, Reflex DC 20 for half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Constrict|constrict]] (2d6+9), [[rangoric-srd/monsters/abilities/Rake|rake]] (6 claws +14, 1d4+6), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d8+9 bludgeoning damage, AC 16, 10 hp)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (20-foot line, 7d6 electricity damage, −8 vs Reflex0 for half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Constrict|constrict]] (2d6+9), [[rangoric-srd/monsters/abilities/Rake|rake]] (6 claws +14, 1d4+6), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d8+9 bludgeoning damage, AC 16, 10 hp)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity
-- **Saves**: Fort +12, Ref +8, Will +5
+- **Defenses**: Fort 22, Ref 18, Will 15
 - **Abilities**: Str 23, Dex 12, Con 21, Int 7, Wis 14, Cha 12
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +5
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

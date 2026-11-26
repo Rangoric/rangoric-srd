@@ -16,7 +16,7 @@ full-attack: "Bite +12 melee (1d6+2) and 2 claws +12 melee (1d6+2) and 2 wings +
 space-reach: "10 ft./10 ft."
 special-attacks: "Smoke claws"
 special-qualities: "Darkvision 60 ft., smoke form, damage reduction 5/—"
-saves: "Fort +9, Ref +11, Will +2"
+defenses: "Fort 19, Ref 21, Will 12"
 abilities: "Str 14, Dex 21, Con 17, Int 6, Wis 11, Cha 10"
 skills: "Acrobatics +22, Perception +11, Stealth +16"
 skill-ranks: "Acrobatics 16, Perception 8, Stealth 8"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: Smoke claws
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., smoke form, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/—
-- **Saves**: Fort +9, Ref +11, Will +2
+- **Defenses**: Fort 19, Ref 21, Will 12
 - **Abilities**: Str 14, Dex 21, Con 17, Int 6, Wis 11, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +22, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -75,6 +75,6 @@ Belkers speak Auran.
 
 In most cases, a belker fights with its nasty claws and painful bite.
 
-**Smoke Claws (Ex)**: A belker using its smoke form ability can enter a target's square as a standard action that does not provoke attacks of opportunity. The target must make a DC 17 Fortitude save or inhale part of the creature. Smoke inside the victim solidifies into a claw and attacks the target from within, dealing 3d4 points of damage per round as a swift action. If the target moves, the belker may automatically move with the target (this movement does not count toward the belker's movement and does not provoke attacks of opportunity against the belker). Each round, the target can attempt another DC 17 Fortitude to cough out the belker's smoke, which ends the smoke claws attack and forces the belker into an adjacent square. Creatures that do not need to breathe are immune to this attack. The save DC is Constitution-based.
+**Smoke Claws (Ex)**: A belker using its smoke form ability can enter a target's square as a standard action that does not provoke attacks of opportunity. The smoke attacks the target at +7 vs Fortitude, and on a hit it inhales part of the creature. Smoke inside the victim solidifies into a claw and attacks the target from within, dealing 3d4 points of damage per round as a swift action. If the target moves, the belker may automatically move with the target (this movement does not count toward the belker's movement and does not provoke attacks of opportunity against the belker). Each round, the smoke attacks the target again at +7 vs Fortitude, and on a miss the target coughs out the belker's smoke, which ends the smoke claws attack and forces the belker into an adjacent square. Creatures that do not need to breathe are immune to this attack. The attack bonus is Constitution-based.
 
 **Smoke Form (Su)**: A belker can switch from its normal form to one of pure smoke or back again a swift action. It can spend up to 20 rounds per day in smoke form. In smoke form, the belker acts as if under the effects of a _[[rangoric-srd/spells/Gaseous Form|gaseous form]]_ spell, except that it retains its natural fly speed of 50 feet (perfect).

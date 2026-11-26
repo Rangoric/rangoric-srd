@@ -15,7 +15,7 @@ full-attack: "Slam +3 melee (1d4 plus grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Constrict (1d4+4), grab (any size), spell-like abilities"
 special-qualities: "Blindsight 90 ft, darkvision 60 ft., low-light vision"
-saves: "Fort +5, Ref +3, Will +0"
+defenses: "Fort 15, Ref 13, Will 10"
 abilities: "Str 11, Dex 15, Con 14, Int 2, Wis 11, Cha 10"
 skills: "Acrobatics +5, Perception +4, Stealth +10"
 skill-ranks: "Acrobatics 1, Perception 0, Stealth 0"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d4+4), [[rangoric-srd/monsters/abilities/Grab|grab]] (any size), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 90 ft, [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-- **Saves**: Fort +5, Ref +3, Will +0
+- **Defenses**: Fort 15, Ref 13, Will 10
 - **Abilities**: Str 11, Dex 15, Con 14, Int 2, Wis 11, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]

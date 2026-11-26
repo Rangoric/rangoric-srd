@@ -13,9 +13,9 @@ cmd: "29 (33 vs. trip)"
 attack: "Bite +18 melee (3d6+5) or gore +18 melee (2d8+5/19–20) or hoof +21 melee (1d8+2)"
 full-attack: "Bite +18 melee (3d6+5) and gore +18 melee (2d8+5/19–20) and 2 hooves +16 melee (1d8+2)"
 space-reach: "15 ft./15 ft."
-special-attacks: "Breath weapon (60-ft. cone, poison, Fortitude DC 23, usable every 1d4 rounds), trample (4d6+7, DC 22)"
-special-qualities: "Darkvision 60 ft., low-light vision, stench (30 ft., DC 23, 10 rounds), spell resistance 23"
-saves: "Fort +15, Ref +8, Will +8"
+special-attacks: "Breath weapon (60-ft. cone, poison, +13 vs Fortitude, usable every 1d4 rounds), trample (4d6+7, +12 vs Reflex)"
+special-qualities: "Darkvision 60 ft., low-light vision, stench (30 ft., +13 vs Fortitude, 10 rounds), spell resistance 23"
+defenses: "Fort 25, Ref 18, Will 18"
 abilities: "Str 20, Dex 8, Con 22, Int 5, Wis 15, Cha 10"
 skills: "Athletics +13, Perception +25"
 skill-ranks: "Athletics 5, Perception 20"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +18 melee (3d6+5) or gore +18 melee (2d8+5/19–20) or hoof +21 melee (1d8+2)
 - **Full Attack**: Bite +18 melee (3d6+5) and gore +18 melee (2d8+5/19–20) and 2 hooves +16 melee (1d8+2)
 - **Space/Reach**: 15 ft./15 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (60-ft. cone, poison, Fortitude DC 23, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Trample|trample]] (4d6+7, DC 22)
-- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., DC 23, 10 rounds), [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23
-- **Saves**: Fort +15, Ref +8, Will +8
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (60-ft. cone, poison, +13 vs Fortitude, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Trample|trample]] (4d6+7, +12 vs Reflex)
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Stench|stench]] (30 ft., +13 vs Fortitude, 10 rounds), [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23
+- **Defenses**: Fort 25, Ref 18, Will 18
 - **Abilities**: Str 20, Dex 8, Con 22, Int 5, Wis 15, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +25
 - **Feats**: [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (gore), [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -73,4 +73,4 @@ Catoblepas speak Aklo.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Catoblepas Venom|Catoblepas Venom]]: Breath—contact; _save_ Fort DC 23; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Con; _cure_ 3 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Catoblepas Venom|Catoblepas Venom]]: Breath—contact; _attack_ +13 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Con; _cure_ 3 consecutive misses. The attack bonus is Constitution-based.
