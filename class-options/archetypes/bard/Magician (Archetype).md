@@ -46,4 +46,4 @@ A magician dabbles in performance, but sees it as a means to tap into universal 
 
 **Arcane Bond (Ex)**: At 5th level, a magician gains the [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] ability as a [[rangoric-srd/classes/Wizard|wizard]]. He may not choose a familiar or a weapon as a bonded item. This ability replaces [[rangoric-srd/classes/Bard#^bard-lore-master|lore master]].
 
-**Wand Mastery (Ex)**: At 10th level, when a magician uses a wand containing a spell on his spell list, he uses his Charisma bonus to set the wand's save DC. At 16th level, when using such a wand, he uses his caster level in place of the wand's caster level. This ability replaces [[rangoric-srd/classes/Bard#^bard-jack-of-all-trades|jack of all trades]].
+**Wand Mastery (Ex)**: At 10th level, when a magician uses a wand containing a spell on his spell list, he uses his Charisma bonus to set the wand's attack bonus. At 16th level, when using such a wand, he uses his caster level in place of the wand's caster level. This ability replaces [[rangoric-srd/classes/Bard#^bard-jack-of-all-trades|jack of all trades]].

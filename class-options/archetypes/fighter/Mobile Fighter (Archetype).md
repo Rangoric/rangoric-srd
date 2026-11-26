@@ -23,7 +23,7 @@ _A [[rangoric-srd/classes/Fighter#^fighter-archetypes|fighter]] [[rangoric-srd/c
 
 Where some fighters focus on strength and raw power, the mobile fighter relies on swiftness and mobility, gliding across the battlefield like a steel whirlwind and leaving destruction in his wake.
 
-**Agility (Ex)**: At 2nd level, a mobile fighter gains a +1 bonus on saving throws made against effects that cause him to become [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]], slowed, or [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]]. This bonus increases by +1 for every four levels beyond 2nd. This ability replaces [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]].
+**Agility (Ex)**: At 2nd level, a mobile fighter gains a +1 bonus on defenses against effects that cause him to become [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]], slowed, or [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]]. This bonus increases by +1 for every four levels beyond 2nd. This ability replaces [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]].
 
 **Leaping Attack (Ex)**: At 5th level, when a mobile fighter moves at least 5 feet prior to attacking, he gains a +1 bonus on attack and damage rolls. This bonus increases by +1 for every four levels beyond 5th. This ability replaces [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] 1, 2, 3, and 4.
 

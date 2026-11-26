@@ -33,7 +33,7 @@ While many druids keep to the wilderness, some make their way within settlements
 
 **Lorekeeper (Ex)**: At 2nd level, an urban druid adds [[rangoric-srd/skills/Persuasion|Persuasion]] and [[rangoric-srd/skills/Society|Society]] to her list of class skills. She also receives a +2 bonus on these skill checks. This ability replaces a druid's [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]] and [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]] abilities.
 
-**Resist Temptation (Ex)**: At 4th level, an urban druid gains a +2 bonus on saves vs. divinations and [[rangoric-srd/rules/Special Abilities and Conditions#Charm and Compulsion|enchantments]]. This replaces the [[rangoric-srd/classes/Druid#^druid-resist-natures-lure|resist nature's lure]] ability.
+**Resist Temptation (Ex)**: At 4th level, an urban druid gains a +2 bonus on defenses vs. divinations and [[rangoric-srd/rules/Special Abilities and Conditions#Charm and Compulsion|enchantments]]. This replaces the [[rangoric-srd/classes/Druid#^druid-resist-natures-lure|resist nature's lure]] ability.
 
 **A Thousand Faces (Su)**: An urban druid gains [[rangoric-srd/classes/Druid#^druid-a-thousand-faces|this ability]] at 6th level.
 

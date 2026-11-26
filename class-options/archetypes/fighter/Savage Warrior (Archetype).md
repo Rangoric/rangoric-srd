@@ -22,7 +22,7 @@ _A [[rangoric-srd/classes/Fighter#^fighter-archetypes|fighter]] [[rangoric-srd/c
 
 Warriors' might is not measured only by their skill with steel, but also by their ability to inflict death with fang and claw, horn and hoof, and every exotic appendage the natural and unnatural world has to offer.
 
-**Spark of Life (Ex)**: At 2nd level, a savage warrior gains a +1 bonus on saving throws made against [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|energy drain]] and [[rangoric-srd/rules/Special Abilities and Conditions#Death Attacks|death effects]]. This bonus increases by +1 for every four levels beyond 2nd. This ability replaces [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]].
+**Spark of Life (Ex)**: At 2nd level, a savage warrior gains a +1 bonus on defenses against [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|energy drain]] and [[rangoric-srd/rules/Special Abilities and Conditions#Death Attacks|death effects]]. This bonus increases by +1 for every four levels beyond 2nd. This ability replaces [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]].
 
 **Natural Savagery (Ex)**: At 5th level, a savage warrior gains a +1 bonus on attack and damage rolls with natural weapons. This bonus also applies to [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|CMB]] and [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] for [[rangoric-srd/combat/Combat Maneuvers#Grapple|grappling]]. This bonus increases by +1 for every four levels beyond 5th. This ability replaces [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] 1.
 
