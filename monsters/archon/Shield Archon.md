@@ -15,8 +15,8 @@ attack: "+3 shortspear +16 melee (1d8+10)"
 full-attack: "+3 shortspear +16/+11 melee (1d8+10)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Transpose ally, spell-like abilities"
-special-qualities: "Darkvision 60 ft., low-light vision, aura of menace (DC 18), magic circle against evil, spear and shield, stability, damage reduction 10/evil, immunity to electricity and petrification, spell resistance 21"
-saves: "Fort +13, Ref +7, Will +8"
+special-qualities: "Darkvision 60 ft., low-light vision, aura of menace (+8 vs Will), magic circle against evil, spear and shield, stability, damage reduction 10/evil, immunity to electricity and petrification, spell resistance 21"
+defenses: "Fort 23, Ref 17, Will 18"
 abilities: "Str 20, Dex 13, Con 25, Int 14, Wis 16, Cha 15"
 skills: "Acrobatics +0, Fieldcraft +15, Intimidation +14, Perception +15, Persuasion +14, Sense Motive +15, Stealth –6, Theology +14"
 skill-ranks: "Acrobatics 1, Fieldcraft 9, Intimidation 9, Perception 9, Persuasion 9, Sense Motive 9, Stealth 0, Theology 9"
@@ -49,8 +49,8 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: +3 [[rangoric-srd/equipment/weapons/Shortspear|shortspear]] +16/+11 melee (1d8+10)
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Transpose Ally|Transpose ally]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], aura of menace (DC 18), [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], [[rangoric-srd/monsters/abilities/Spear and Shield|spear and shield]], [[rangoric-srd/monsters/abilities/Stability|stability]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
-- **Saves**: Fort +13, Ref +7, Will +8
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], aura of menace (+8 vs Will), [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], [[rangoric-srd/monsters/abilities/Spear and Shield|spear and shield]], [[rangoric-srd/monsters/abilities/Stability|stability]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
+- **Defenses**: Fort 23, Ref 17, Will 18
 - **Abilities**: Str 20, Dex 13, Con 25, Int 14, Wis 16, Cha 15
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +0, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +15, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] –6, [[rangoric-srd/skills/Theology|Theology]] +14
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Shield Focus|Shield Focus]], [[rangoric-srd/feats/Stand Still|Stand Still]], [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (shortspear)

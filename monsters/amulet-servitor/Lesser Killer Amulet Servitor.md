@@ -18,7 +18,7 @@ full-attack: "2 claws +5 melee (1d6); or gore +5 melee (1d8 plus poison)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Poison"
 special-qualities: "Construct traits, damage reduction 10/magic"
-saves: "Fort +2, Ref +4, Will +2"
+defenses: "Fort 12, Ref 14, Will 12"
 abilities: "Str 10, Dex 15, Con —, Int —, Wis 10, Cha 1"
 skills: "—"
 feats: "—"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Poison
 - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic
-- **Saves**: Fort +2, Ref +4, Will +2
+- **Defenses**: Fort 12, Ref 14, Will 12
 - **Abilities**: Str 10, Dex 15, Con —, Int —, Wis 10, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -68,4 +68,4 @@ In amulet form, a lesser killer amulet servitor is a two-pound disk of intertwin
 
 A killer amulet servitor attacks its designated target to the exclusion of all others, ignoring other threats in an effort to kill its prey. Once rendering its target helpless, it spends a full-round action to deliver a [[rangoric-srd/combat/Combat Modifiers#Helpless Defenders|coup de grace]] to the target. After the target is dead, the servitor simply defends it from attacks unless the amulet’s owner designates a second target.
 
-**[[rangoric-srd/rules/Afflictions#Poison|Poison]] (Ex):** A killer amulet servitor has a potent poison in its horn designed to speed the death of its targets. Injury, Fortitude DC 16, initial and secondary damage 1d4 Con.
+**[[rangoric-srd/rules/Afflictions#Poison|Poison]] (Ex):** A killer amulet servitor has a potent poison in its horn designed to speed the death of its targets. Injury, +6 vs Fortitude, initial and secondary damage 1d4 Con.

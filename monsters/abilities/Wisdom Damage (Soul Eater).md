@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “wisdom damage”, on the Special Attacks line.
 
-A creature hit by a soul eater's claw must succeed on a DC 17 Fortitude save or take 1d6 points of Wisdom damage. The save DC is Constitution-based. The [[rangoric-srd/monsters/Soul Eater|soul eater]] has it.
+A creature hit by a soul eater's claw is attacked at +7 vs Fortitude, and on a hit takes 1d6 points of Wisdom damage. The attack bonus is Constitution-based. The [[rangoric-srd/monsters/Soul Eater|soul eater]] has it.

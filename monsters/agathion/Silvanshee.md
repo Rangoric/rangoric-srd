@@ -16,7 +16,7 @@ full-attack: "Bite +6 melee (1d3–4) and 2 claws +6 melee (1d2–4)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Heroic strength, pounce, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, cat's luck, flight, lay on hands (1d6, 1/day, always as a 2nd-level paladin), spectral mist, damage reduction 5/evil or silver, immunity to electricity and petrification, resistance to cold 10 and sonic 10, spell resistance 13"
-saves: "Fort +5, Ref +6, Will +2"
+defenses: "Fort 15, Ref 16, Will 12"
 abilities: "Str 3, Dex 15, Con 12, Int 10, Wis 12, Cha 13"
 skills: "Acrobatics +11, Arcana +5, Athletics +7, Perception +10, Stealth +19, Theology +5"
 skill-ranks: "Acrobatics 2, Arcana 2, Athletics 8, Perception 2, Stealth 2, Theology 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Heroic Strength|Heroic strength]], [[rangoric-srd/monsters/abilities/Pounce|pounce]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Cat's Luck (Silvanshee)|cat's luck]], [[rangoric-srd/monsters/abilities/Flight|flight]], lay on hands (1d6, 1/day, always as a 2nd-level paladin), [[rangoric-srd/monsters/abilities/Spectral Mist|spectral mist]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/evil or silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and sonic 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 13
-- **Saves**: Fort +5, Ref +6, Will +2
+- **Defenses**: Fort 15, Ref 16, Will 12
 - **Abilities**: Str 3, Dex 15, Con 12, Int 10, Wis 12, Cha 13
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +19, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -74,7 +74,7 @@ Silvanshees speak Celestial, Draconic and Infernal.
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 2nd; concentration +3): Constant—_[[rangoric-srd/spells/Know Direction|know direction]]_, _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_; At will—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_; 1/day—_[[rangoric-srd/spells/Dimension Door|dimension door]]_ (self plus 5 lbs. of objects only); 1/week—_[[rangoric-srd/spells/Commune|commune]]_ (6 questions, CL 12th).
 
-**[[rangoric-srd/monsters/abilities/Cat's Luck (Silvanshee)|Cat's Luck]] (Su)**: A silvanshee adds its Charisma modifier as a luck bonus on all its saving throws. Once per day as a standard action, it can also grant this bonus to one ally within 30 feet for 10 minutes.
+**[[rangoric-srd/monsters/abilities/Cat's Luck (Silvanshee)|Cat's Luck]] (Su)**: A silvanshee adds its Charisma modifier as a luck bonus to all its defenses. Once per day as a standard action, it can also grant this bonus to one ally within 30 feet for 10 minutes.
 
 **[[rangoric-srd/monsters/abilities/Heroic Strength|Heroic Strength]] (Su)**: Once per day, a silvanshee can grant itself a +8 enhancement bonus to Strength for 1 minute.
 

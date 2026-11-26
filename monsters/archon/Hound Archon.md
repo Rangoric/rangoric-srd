@@ -15,8 +15,8 @@ attack: "Bite +8 melee (1d8+3) or slam +8 melee (1d4+1) or masterwork greatsword
 full-attack: "Bite +8 melee (1d8+3) and slam +8 melee (1d4+1); or masterwork greatsword +9/+4 melee (2d6+3) and bite +3 melee (1d8+2)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
-special-qualities: "Darkvision 60 ft., detect evil, low-light vision, scent, aura of menace (DC 16), magic circle against evil, change shape (beast shape II), damage reduction 10/evil, immunity to electricity and petrification, spell resistance 15"
-saves: "Fort +6, Ref +5, Will +5"
+special-qualities: "Darkvision 60 ft., detect evil, low-light vision, scent, aura of menace (+6 vs Will), magic circle against evil, change shape (beast shape II), damage reduction 10/evil, immunity to electricity and petrification, spell resistance 15"
+defenses: "Fort 16, Ref 15, Will 15"
 abilities: "Str 15, Dex 10, Con 13, Int 10, Wis 13, Cha 12"
 skills: "Acrobatics +9, Fieldcraft +14, Intimidation +10, Perception +10, Sense Motive +10, Stealth +13"
 skill-ranks: "Acrobatics 6, Fieldcraft 6, Intimidation 6, Perception 6, Sense Motive 6, Stealth 6"
@@ -51,8 +51,8 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: Bite +8 melee (1d8+3) and slam +8 melee (1d4+1); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Greatsword|greatsword]] +9/+4 melee (2d6+3) and bite +3 melee (1d8+2)
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., _[[rangoric-srd/spells/Detect Evil|detect evil]]_, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], aura of menace (DC 16), [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (beast shape II), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 15
-- **Saves**: Fort +6, Ref +5, Will +5
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., _[[rangoric-srd/spells/Detect Evil|detect evil]]_, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], aura of menace (+6 vs Will), [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (beast shape II), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 15
+- **Defenses**: Fort 16, Ref 15, Will 15
 - **Abilities**: Str 15, Dex 10, Con 13, Int 10, Wis 13, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]

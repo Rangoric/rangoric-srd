@@ -16,7 +16,7 @@ full-attack: "2 slams +20 melee (1d8+12)"
 space-reach: "10 ft./10 ft."
 special-attacks: "-"
 special-qualities: "One ability from Menu C, construct traits, damage reduction 10/magic, darkvision 60 ft., low-light vision"
-saves: "Fort +4, Ref +5, Will +4"
+defenses: "Fort 14, Ref 15, Will 14"
 abilities: "Str 35, Dex 13, Con -, Int -, Wis 11, Cha 10"
 skills: "Athletics +28"
 skill-ranks: "Athletics 13"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: -
 - **Special Qualities**: One ability from Menu C, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, darkvision 60 ft., low-light vision
-- **Saves**: Fort +4, Ref +5, Will +4
+- **Defenses**: Fort 14, Ref 15, Will 14
 - **Abilities**: Str 35, Dex 13, Con -, Int -, Wis 11, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +28
 - **Feats**: -

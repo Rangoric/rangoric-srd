@@ -15,7 +15,7 @@ attack: "Claw blade +5 melee (1d8+1)"
 full-attack: "2 claw blades +5 melee (1d8+1)"
 space-reach: "5 ft./5 ft."
 special-qualities: "Construct traits, cure minor wounds, damage reduction 10/magic, guard"
-saves: "Fort +2, Ref +3, Will +2"
+defenses: "Fort 12, Ref 13, Will 12"
 abilities: "Str 13, Dex 13, Con —, Int —, Wis 10, Cha 1"
 skills: "—"
 feats: "—"
@@ -46,7 +46,7 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: 2 claw blades +5 melee (1d8+1)
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], cure minor wounds, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, guard
-- **Saves**: Fort +2, Ref +3, Will +2
+- **Defenses**: Fort 12, Ref 13, Will 12
 - **Abilities**: Str 13, Dex 13, Con —, Int —, Wis 10, Cha 1
 - **Skills**: —
 - **Feats**: —

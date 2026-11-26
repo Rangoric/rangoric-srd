@@ -42,7 +42,7 @@ Objects with two legs (statues, ladders) or a similar shape that allows faster m
 
 Objects might have additional modes of movement. A wooden object can float and has a swim speed equal to half its land speed. A rope or similar sinuous object has a climb speed equal to half its land speed. A sheetlike object can fly (clumsy maneuverability) at half its normal speed.
 
-**Trample (Ex)**: An animated object of at least Large size and with a hardness of at least 10 can [[rangoric-srd/combat/Combat Special Attacks|trample]] creatures two or more sizes smaller than itself, dealing damage equal to the object’s slam damage + 1-1/2 times its Strength bonus. Opponents who do not make attacks of opportunity against the object can attempt Reflex saves (DC 10 + 1/2 object’s HD + object’s Str modifier) to halve the damage.
+**Trample (Ex)**: An animated object of at least Large size and with a hardness of at least 10 can [[rangoric-srd/combat/Combat Special Attacks|trample]] creatures two or more sizes smaller than itself, dealing damage equal to the object’s slam damage + 1-1/2 times its Strength bonus. The trample attacks the Reflex of opponents who do not make attacks of opportunity against the object (attack bonus 1/2 object’s HD + object’s Str modifier), and a miss halves the damage.
 
 ### Construction
 
