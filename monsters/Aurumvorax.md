@@ -15,7 +15,7 @@ full-attack: "Bite +18 melee (1d6+5 plus grab) and 4 claws +18 melee (1d4+5 plus
 space-reach: "5 ft./5 ft."
 special-attacks: "Rake (4 claws +18, 1d4+5)"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, ferocity, damage reduction 10/piercing or slashing, immunity to poison, resistance to fire 10"
-saves: "Fort +14, Ref +12, Will +7"
+defenses: "Fort 24, Ref 22, Will 17"
 abilities: "Str 21, Dex 18, Con 18, Int 2, Wis 13, Cha 11"
 skills: "Perception +13, Stealth +17"
 skill-ranks: "Perception 9, Stealth 6"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rake|Rake]] (4 claws +18, 1d4+5)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/piercing or slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
-- **Saves**: Fort +14, Ref +12, Will +7
+- **Defenses**: Fort 24, Ref 22, Will 17
 - **Abilities**: Str 21, Dex 18, Con 18, Int 2, Wis 13, Cha 11
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +17
 - **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

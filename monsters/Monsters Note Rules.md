@@ -31,6 +31,7 @@ What the notes in `monsters` look like. The whole-SRD rules are in the [README](
 | `special-attacks`   | no       | `text`         |
 | `special-qualities` | no       | `text`         |
 | `saves`             | no       | `text`         |
+| `defenses`          | no       | `text`         |
 | `abilities`         | no       | `text`         |
 | `skills`            | no       | `text`         |
 | `attack`            | no       | `text`         |

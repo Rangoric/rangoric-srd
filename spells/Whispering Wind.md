@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "1 mile/level"
 area: "10-ft.-radius spread"
 duration: "No more than 1 hour/level or until discharged (destination is reached)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Whispering Wind|Whispering Wind (3.5)]]"
@@ -39,7 +39,7 @@ _Transmutation \[Air\]_
 - **Range**: 1 mile/level
 - **Area**: 10-ft.-radius spread
 - **Duration**: No more than 1 hour/level or until discharged (destination is reached)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You send a message or sound on the wind to a designated spot. The whispering wind travels to a specific location within range that is familiar to you, provided that it can find a way to the location. A whispering wind is as gentle and unnoticed as a zephyr until it reaches the location. It then delivers its whisper-quiet message or other sound. Note that the message is delivered regardless of whether anyone is present to hear it. The wind then dissipates.

@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "Caster level minute(s)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Wilderness"
 based-on:
@@ -41,7 +41,7 @@ _Abjuration \[Air\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: Caster level minute(s)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 You create eddies in the air around the subject that protect it from being checked or blown away. The target can't be moved by winds of less than windstorm force unless it wishes to be.

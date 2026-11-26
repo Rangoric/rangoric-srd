@@ -16,7 +16,7 @@ full-attack: "Bite +21 melee (3d6+8/19–20 plus grab) and tail slap +15 melee (
 space-reach: "15 ft./15 ft."
 special-attacks: "Constrict (2d6+12), endless coils, spell-like abilities"
 special-qualities: "Arcane sight, darkvision 60 ft., low-light vision, eldritch gizzard, wave rider, spell resistance 21 (in water only)"
-saves: "Fort +14, Ref +12, Will +8"
+defenses: "Fort 24, Ref 22, Will 18"
 abilities: "Str 26, Dex 16, Con 21, Int 17, Wis 14, Cha 17"
 skills: "Arcana +17, Athletics +16, Mysticism +17, Nature +17, Perception +19, Stealth +12 (+24 in water)"
 skill-ranks: "Arcana 11, Athletics 5, Mysticism 11, Nature 11, Perception 14, Stealth 14"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d6+12), [[rangoric-srd/monsters/abilities/Endless Coils|endless coils]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: Arcane sight, [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Eldritch Gizzard|eldritch gizzard]], [[rangoric-srd/monsters/abilities/Wave Rider|wave rider]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21 (in water only)
-- **Saves**: Fort +14, Ref +12, Will +8
+- **Defenses**: Fort 24, Ref 22, Will 18
 - **Abilities**: Str 26, Dex 16, Con 21, Int 17, Wis 14, Cha 17
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +17, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Mysticism|Mysticism]] +17, [[rangoric-srd/skills/Nature|Nature]] +17, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +12 (+24 in water)
 - **Feats**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
@@ -68,7 +68,7 @@ Abaias speak Aquan and Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 14th; concentration +17): Constant—_[[rangoric-srd/spells/Arcane Sight|arcane sight]]_, _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_; At will—_[[rangoric-srd/spells/Control Water|control water]]_, _[[rangoric-srd/spells/Hydraulic Torrent|hydraulic torrent]]_, _[[rangoric-srd/spells/Rainbow Pattern|rainbow pattern]]_ (DC 17); 1/day—_[[rangoric-srd/spells/Control Weather|control weather]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 14th; concentration +17): Constant—_[[rangoric-srd/spells/Arcane Sight|arcane sight]]_, _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_; At will—_[[rangoric-srd/spells/Control Water|control water]]_, _[[rangoric-srd/spells/Hydraulic Torrent|hydraulic torrent]]_, _[[rangoric-srd/spells/Rainbow Pattern|rainbow pattern]]_ (+7 vs Will); 1/day—_[[rangoric-srd/spells/Control Weather|control weather]]_.
 
 **[[rangoric-srd/monsters/abilities/Eldritch Gizzard|Eldritch Gizzard]] (Su)**: An abaia can activate arcane spell trigger items as if it were a 14th-level sorcerer. It can store items in a special compartment within its stomach and activate them as if it were holding them. It can swallow or regurgitate an item as a standard action.
 

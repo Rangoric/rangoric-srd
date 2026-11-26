@@ -16,7 +16,7 @@ full-attack: "4 tentacles +10 melee (1d6+5 plus slime)"
 space-reach: "15 ft./15 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., mucus cloud (5 feet)"
-saves: "Fort +8, Ref +5, Will +11"
+defenses: "Fort 18, Ref 15, Will 21"
 abilities: "Str 20, Dex 12, Con 22, Int 15, Wis 17, Cha 17"
 skills: "Athletics +24, Deception +11, Intimidation +14, Knowledge +13, Mysticism +13, Perception +14"
 skill-ranks: "Athletics 16, Deception 5, Intimidation 8, Knowledge 8, Mysticism 8, Perception 8"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., mucus cloud (5 feet)
-- **Saves**: Fort +8, Ref +5, Will +11
+- **Defenses**: Fort 18, Ref 15, Will 21
 - **Abilities**: Str 20, Dex 12, Con 22, Int 15, Wis 17, Cha 17
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +24, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Knowledge|Knowledge]] +13, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Perception|Perception]] +14
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacle)
@@ -75,8 +75,8 @@ Aboleths speak their own language, as well as Aklo, Aquan, and Undercommon.
 
 An aboleth attacks by flailing with its long, slimy tentacles, though it prefers to fight from a distance using its illusion powers.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 16th): At will—_[[rangoric-srd/spells/Hypnotic Pattern|hypnotic pattern]]_ (DC 15), _[[rangoric-srd/spells/Illusory Wall|illusory wall]]_ (DC 17), _[[rangoric-srd/spells/Mirage Arcana|mirage arcana]]_ (DC 18), _[[rangoric-srd/spells/Persistent Image|persistent image]]_ (DC 18), _[[rangoric-srd/spells/Programmed Image|programmed image]]_ (DC 19), _[[rangoric-srd/spells/Project Image|project image]]_ (DC 20), _[[rangoric-srd/spells/Veil|veil]]_ (DC 19); 3/day—_[[rangoric-srd/spells/Dominate Monster|dominate monster]]_ (DC 22).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 16th): At will—_[[rangoric-srd/spells/Hypnotic Pattern|hypnotic pattern]]_ (+5 vs Will), _[[rangoric-srd/spells/Illusory Wall|illusory wall]]_ (+7 vs Will), _[[rangoric-srd/spells/Mirage Arcana|mirage arcana]]_ (+8 vs Will), _[[rangoric-srd/spells/Persistent Image|persistent image]]_ (+8), _[[rangoric-srd/spells/Programmed Image|programmed image]]_ (+9 vs Will), _[[rangoric-srd/spells/Project Image|project image]]_ (+10 vs Will), _[[rangoric-srd/spells/Veil|veil]]_ (+9 vs Will); 3/day—_[[rangoric-srd/spells/Dominate Monster|dominate monster]]_ (+12 vs Will).
 
-**Mucus Cloud (Ex)**: While underwater, an aboleth exudes a cloud of transparent slime. All creatures adjacent to an aboleth must succeed on a DC 20 Fortitude save each round or lose the ability to breathe air (but gain the ability to breathe water) for 3 hours. Renewed contact with an aboleth's mucus cloud and failing another save extends the effect for another 3 hours. The save DC is Constitution-based.
+**Mucus Cloud (Ex)**: While underwater, an aboleth exudes a cloud of transparent slime. All creatures adjacent to an aboleth are attacked at +10 vs Fortitude each round, and on a hit lose the ability to breathe air (but gain the ability to breathe water) for 3 hours. Renewed contact with an aboleth's mucus cloud and another hit extends the effect for another 3 hours. The attack bonus is Constitution-based.
 
-**Slime (Ex)**: A creature hit by an aboleth's tentacle must succeed on a DC 20 Fortitude save or his skin and flesh transform into a clear, slimy membrane over the course of 1d4 rounds. The creature's new “flesh” is soft and tender, reducing its Constitution score by 4 as long as it persists. If the creature's flesh isn't kept moist, it dries quickly and the victim takes 1d12 points of damage every 10 minutes. Remove disease and similar effects can restore an afflicted creature to normal, but immunity to disease offers no protection from this attack. The save DC is Constitution-based.
+**Slime (Ex)**: A creature hit by an aboleth's tentacle is attacked at +10 vs Fortitude, and on a hit his skin and flesh transform into a clear, slimy membrane over the course of 1d4 rounds. The creature's new “flesh” is soft and tender, reducing its Constitution score by 4 as long as it persists. If the creature's flesh isn't kept moist, it dries quickly and the victim takes 1d12 points of damage every 10 minutes. Remove disease and similar effects can restore an afflicted creature to normal, but immunity to disease offers no protection from this attack. The attack bonus is Constitution-based.

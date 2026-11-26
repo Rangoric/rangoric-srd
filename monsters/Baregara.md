@@ -16,7 +16,7 @@ full-attack: "Bite +23 melee (1d8+8) and 2 claws +23 melee (1d10+8 plus grab) an
 space-reach: "10 ft./10 ft."
 special-attacks: "Devouring grapple, monstrous challenge, one-armed hold, spell-like abilities"
 special-qualities: "Darkvision 60 ft., telepathy 100 ft., damage reduction 10/good, immunity to electricity and poison, resistance to acid 10, cold 10 and fire 10, spell resistance 23"
-saves: "Fort +15, Ref +14, Will +10"
+defenses: "Fort 25, Ref 24, Will 20"
 abilities: "Str 26, Dex 19, Con 20, Int 15, Wis 16, Cha 17"
 skills: "Acrobatics +15, Athletics +27, Deception +14, Fieldcraft +19, Intimidation +30, Nature +10, Perception +22, Persuasion +11, Sense Motive +14, Stealth +19, Theology +13"
 skill-ranks: "Acrobatics 8, Athletics 16, Deception 8, Fieldcraft 13, Intimidation 24, Nature 5, Perception 16, Persuasion 5, Sense Motive 8, Stealth 16, Theology 8"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Devouring grapple|Devouring grapple]], [[rangoric-srd/monsters/abilities/Monstrous Challenge|monstrous challenge]], [[rangoric-srd/monsters/abilities/One-Armed Hold|one-armed hold]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23
-- **Saves**: Fort +15, Ref +14, Will +10
+- **Defenses**: Fort 25, Ref 24, Will 20
 - **Abilities**: Str 26, Dex 19, Con 20, Int 15, Wis 16, Cha 17
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +27, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +19, [[rangoric-srd/skills/Intimidation|Intimidation]] +30, [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +19, [[rangoric-srd/skills/Theology|Theology]] +13
 - **Feats**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (hold person), [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Throw Anything|Throw Anything]]
@@ -72,7 +72,7 @@ Baregaras speak Abyssal, Celestial, Common and Draconic.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 16th; concentration +19): Constant—_[[rangoric-srd/spells/See Invisibility|see invisibility]]_; At will—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Teleport|teleport]]_ (self plus 50 lbs. of objects only); 3/day—quickened _[[rangoric-srd/spells/Hold Person|hold person]]_ (DC 16); 1/day—[[rangoric-srd/monsters/abilities/Summon|summon]] (level 4, 1d4 dire apes 50% or 1d2 girallons 35%), _[[rangoric-srd/spells/Unholy Blight|unholy blight]]_ (DC 17).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 16th; concentration +19): Constant—_[[rangoric-srd/spells/See Invisibility|see invisibility]]_; At will—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Teleport|teleport]]_ (self plus 50 lbs. of objects only); 3/day—quickened _[[rangoric-srd/spells/Hold Person|hold person]]_ (+6 vs Will); 1/day—[[rangoric-srd/monsters/abilities/Summon|summon]] (level 4, 1d4 dire apes 50% or 1d2 girallons 35%), _[[rangoric-srd/spells/Unholy Blight|unholy blight]]_ (+7 vs Will).
 
 **[[rangoric-srd/monsters/abilities/Devouring grapple|Devouring grapple]] (Ex)**: The mouth at the center of a baregara's chest automatically deals 2d8+4 points of damage per round to any creature the baregara successfully grapples.
 

@@ -20,7 +20,7 @@ range: "Personal"
 target: "You"
 area: "5-foot-radius emanation centered on you"
 duration: "1 round/level"
-saving-throw: "Reflex half (special, see below)"
+defense: "Reflex half (special, see below)"
 spell-resistance: "No (special, see below)"
 book: "Ultimate Combat"
 based-on:
@@ -42,7 +42,7 @@ _Abjuration_
 - **Target**: You
 - **Area**: 5-foot-radius emanation centered on you
 - **Duration**: 1 round/level
-- **Saving Throw**: Reflex half (special, see below)
+- **Defense**: Reflex half (special, see below)
 - **Spell Resistance**: No (special, see below)
 
 The daggers serving as focus of this spell take on a deadly sharpness as they animate and spin around you, creating a 5-foot-radius emanation of spinning mithral blades that moves with you. Any creature that starts its turn within the area of the spinning blades takes 1d4 points of damage for every two caster levels (maximum 10d4 at 20th level) and the damage bypasses DR/silver.

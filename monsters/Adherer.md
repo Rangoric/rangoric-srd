@@ -15,7 +15,7 @@ full-attack: "2 slams +6 melee (1d6+2 plus grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Grab (Large)"
 special-qualities: "Darkvision 60 ft., adhesive, damage reduction 5/-, spell resistance 14"
-saves: "Fort +3, Ref +7, Will +5"
+defenses: "Fort 13, Ref 17, Will 15"
 abilities: "Str 14, Dex 16, Con 15, Int 4, Wis 13, Cha 11"
 skills: "Athletics +10, Craft (cloth) +3, Craft (traps) +1, Perception +5, Stealth +11"
 skill-ranks: "Athletics 5, Craft (cloth) 3, Craft (traps) 1, Perception 1, Stealth 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Grab]] (Large)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Adhesive|adhesive]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 14
-- **Saves**: Fort +3, Ref +7, Will +5
+- **Defenses**: Fort 13, Ref 17, Will 15
 - **Abilities**: Str 14, Dex 16, Con 15, Int 4, Wis 13, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Craft|Craft]] (cloth) +3, [[rangoric-srd/skills/Craft|Craft]] (traps) +1, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]]
@@ -69,4 +69,4 @@ Adherers speak Aklo.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Adhesive|Adhesive]] (Su)**: A weapon that strikes an adherer becomes stuck fast to the creature's adhesive flesh unless the wielder succeeds at a DC 14 Reflex save. A creature adjacent to the adherer can attempt to pry off a stuck weapon with a DC 17 Strength check, but doing so provokes an attack of opportunity from the adherer. The adherer's adhesive flesh gives it a +8 racial bonus on grapple checks. It can attempt to grapple a foe without spending an action whenever a creature successfully hits it with a natural attack or an unarmed strike. An adherer does not gain the grappled condition when it grapples a foe, nor does it provoke attacks of opportunity when it attempts to do so. Fire can temporarily burn away an adherer's adhesive coating—whenever an adherer takes at least 10 points of fire damage, it loses its adhesive special quality for 1d4 rounds. Universal solvent, alchemical solvent, or a similar fluid removes an adherer's adhesive quality for 1 hour if it fails a DC 15 Reflex save, or for 1d4 rounds if it makes the save. The adherer's skin loses its adhesive quality 1 hour after the adherer dies. An adherer can release anything stuck to it as a free action. The save DCs are Constitution-based.
+**[[rangoric-srd/monsters/abilities/Adhesive|Adhesive]] (Su)**: A weapon that strikes an adherer becomes stuck fast to the creature's adhesive flesh if the adherer hits the wielder at +4 vs Reflex. A creature adjacent to the adherer can attempt to pry off a stuck weapon with a DC 17 Strength check, but doing so provokes an attack of opportunity from the adherer. The adherer's adhesive flesh gives it a +8 racial bonus on grapple checks. It can attempt to grapple a foe without spending an action whenever a creature successfully hits it with a natural attack or an unarmed strike. An adherer does not gain the grappled condition when it grapples a foe, nor does it provoke attacks of opportunity when it attempts to do so. Fire can temporarily burn away an adherer's adhesive coating—whenever an adherer takes at least 10 points of fire damage, it loses its adhesive special quality for 1d4 rounds. Universal solvent, alchemical solvent, or a similar fluid removes an adherer's adhesive quality for 1 hour if the fluid hits its Reflex at +5, or for 1d4 rounds on a miss. The adherer's skin loses its adhesive quality 1 hour after the adherer dies. An adherer can release anything stuck to it as a free action. The attack bonuses are Constitution-based.

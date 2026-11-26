@@ -15,7 +15,7 @@ full-attack: "Bite +10 melee (1d8+4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Gaze"
 special-qualities: "Darkvision 60 ft., low-light vision"
-saves: "Fort +9, Ref +4, Will +5"
+defenses: "Fort 19, Ref 14, Will 15"
 abilities: "Str 16, Dex 8, Con 15, Int 2, Wis 13, Cha 11"
 skills: "Perception +10, Stealth +10"
 skill-ranks: "Perception 6, Stealth 4"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Gaze|Gaze]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-- **Saves**: Fort +9, Ref +4, Will +5
+- **Defenses**: Fort 19, Ref 14, Will 15
 - **Abilities**: Str 16, Dex 8, Con 15, Int 2, Wis 13, Cha 11
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -76,4 +76,4 @@ For unknown reasons, weasels and ferrets are immune to the basilisk's stare, and
 
 A basilisk relies on its [[rangoric-srd/monsters/abilities/Gaze|gaze attack]], biting only when opponents come within reach. Though it has eight legs, its slow metabolism renders it relatively sluggish, so it does not expend energy unnecessarily. Intruders who flee a basilisk rather than fight can expect, at best, a halfhearted pursuit. These creatures tend to spend most of their time lying in wait for prey, which includes small mammals, birds, reptiles, and similar creatures.
 
-**Gaze (Ex)**: [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|Turn to stone]] permanently (as flesh to stone), range 30 feet, Fortitude DC 15 negates. A creature [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrified]] in this matter that is then coated (not just splashed) with fresh basilisk blood (taken from a basilisk no more than 1 hour dead) is instantly restored to flesh. A single basilisk contains enough blood to coat 1d3 Medium creatures in this manner. The save DC is Constitution-based.
+**Gaze (Ex)**: [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|Turn to stone]] permanently (as flesh to stone), range 30 feet, +5 vs Fortitude. A creature [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrified]] in this matter that is then coated (not just splashed) with fresh basilisk blood (taken from a basilisk no more than 1 hour dead) is instantly restored to flesh. A single basilisk contains enough blood to coat 1d3 Medium creatures in this manner. The attack bonus is Constitution-based.

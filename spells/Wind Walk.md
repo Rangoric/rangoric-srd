@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Touch"
 targets: "You and one touched creature per three levels"
 duration: "1 hour/level (D); see text"
-saving-throw: "No and Will negates (harmless)"
+defense: "No and Will (harmless)"
 spell-resistance: "No and Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Wind Walk|Wind Walk (3.5)]]"
@@ -37,7 +37,7 @@ _Transmutation \[Air\]_
 - **Range**: Touch
 - **Targets**: You and one touched creature per three levels
 - **Duration**: 1 hour/level (D); see text
-- **Saving Throw**: No and Will negates (harmless)
+- **Defense**: No and Will (harmless)
 - **Spell Resistance**: No and Yes (harmless)
 
 You alter the substance of your body to a cloudlike vapor (as the gaseous form spell) and move through the air, possibly at great speed. You can take other creatures with you, each of which acts independently.

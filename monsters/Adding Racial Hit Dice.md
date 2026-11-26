@@ -12,7 +12,7 @@ tags: [rangoric, rangoric/overview]
 
 # Adding Racial Hit Dice
 
-Adding racial Hit Dice to a monster is a similar process to building a monster from scratch. As additional Hit Dice are added, other abilities increase in power as well. Additional Hit Dice usually results in better attack bonuses, saves, hit points, and skills, as well as more feats. It can also include additional spellcasting capability and other powers.
+Adding racial Hit Dice to a monster is a similar process to building a monster from scratch. As additional Hit Dice are added, other abilities increase in power as well. Additional Hit Dice usually results in better attack bonuses, defenses, hit points, and skills, as well as more feats. It can also include additional spellcasting capability and other powers.
 
 ## Step 1: Plan the Monster
 
@@ -80,7 +80,7 @@ Next, give the creature additional feats. Creatures gain one feat at 1 Hit Die a
 
 ## Step 5: Statistics
 
-Next, adjust the creature's derived statistics, such as its initiative, AC, saving throws, melee and ranged attack bonuses, BAB, CMB, and CMD. Adjust any special attacks or qualities that are based on the creature's size, Hit Dice, or ability scores. If the creature changed in size, be sure to adjust its AC, attack, CMB, and CMD accordingly (as noted on [[#^size-bonuses-and-penalties|Table: Size Bonuses and Penalties]]). [[#^monster-advancement|Table: Monster Advancement]] also tracks the average change to the creature's AC, attack rolls, and damage rolls. Add up these values for each step of change between the creature's original and new CR. If the creature changed size, make sure to make changes to its natural armor bonus, as noted on [[rangoric-srd/monsters/Improving Monsters#Size Increases|Table: Changes to Statistics by Size]]. If the creature does not meet these averages, you should consider adjusting its ability scores or Hit Dice to get it closer to the target.
+Next, adjust the creature's derived statistics, such as its initiative, AC, defenses, melee and ranged attack bonuses, BAB, CMB, and CMD. Adjust any special attacks or qualities that are based on the creature's size, Hit Dice, or ability scores. If the creature changed in size, be sure to adjust its AC, attack, CMB, and CMD accordingly (as noted on [[#^size-bonuses-and-penalties|Table: Size Bonuses and Penalties]]). [[#^monster-advancement|Table: Monster Advancement]] also tracks the average change to the creature's AC, attack rolls, and damage rolls. Add up these values for each step of change between the creature's original and new CR. If the creature changed size, make sure to make changes to its natural armor bonus, as noted on [[rangoric-srd/monsters/Improving Monsters#Size Increases|Table: Changes to Statistics by Size]]. If the creature does not meet these averages, you should consider adjusting its ability scores or Hit Dice to get it closer to the target.
 
 ## Step 6: Comparison
 

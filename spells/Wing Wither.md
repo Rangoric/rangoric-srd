@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "1 round/level"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Faeries"
 based-on:
@@ -37,9 +37,9 @@ _Transmutation_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One creature/level, no two of which can be more than 30 ft. apart
 - **Duration**: 1 round/level
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
-_Wing wither_ strikes a target flying creature’s wing endurance and strength, reducing the maneuverability and flying speed of the target creature. A target must succeed on a Fortitude save or suffer a two step reduction in maneuverability (to a minimum of clumsy) and a 50% reduction in speed.
+_Wing wither_ strikes a target flying creature’s wing endurance and strength, reducing the maneuverability and flying speed of the target creature. The spell attacks a target’s Fortitude, and on a hit the target suffers a two step reduction in maneuverability (to a minimum of clumsy) and a 50% reduction in speed.
 
 _Material Component_: A dried turkey wing.

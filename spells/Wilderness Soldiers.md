@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "30 ft."
 area: "30-ft.-radius emanation, centered on you"
 duration: "1 round/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Combat"
 based-on:
@@ -34,7 +34,7 @@ _Transmutation_
 - **Range**: 30 ft.
 - **Area**: 30-ft.-radius emanation, centered on you
 - **Duration**: 1 round/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You call on the plants nearby to aid you in combat. This spell is ineffective if no plants you can direct are within the area. You can spend a swift action and/or a standard action on each of your turns to direct one of the following attacks. The attack bonus or CMB for these attacks equals your base attack bonus + your Wisdom modifier. You grant a +1 bonus per three caster levels (maximum +5) on damage rolls due to this spell. Your _wilderness soldiers_ never provoke attacks of opportunity, and they do not count as allies for flanking or other purposes.

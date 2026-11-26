@@ -16,7 +16,7 @@ full-attack: "Masterwork warhammer +4 melee (1d8+1/×3 plus 1d6 fire); or light 
 space-reach: "5 ft./5 ft."
 special-attacks: "Heat (1d6 fire)"
 special-qualities: "Darkvision 60 ft., immunity to fire, spell resistance 13, vulnerability to cold"
-saves: "Fort +5, Ref +1, Will +4"
+defenses: "Fort 15, Ref 11, Will 14"
 abilities: "Str 13, Dex 12, Con 15, Int 12, Wis 12, Cha 9"
 skills: "Acrobatics +0, Appraise +6, Athletics +3, Craft (any two) +6, Perception +6, Society +6"
 skill-ranks: "Acrobatics 0, Appraise 2, Athletics 2, Craft (any two) 2, Perception 2, Society 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Heat|Heat]] (1d6 fire)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 13, vulnerability to cold
-- **Saves**: Fort +5, Ref +1, Will +4
+- **Defenses**: Fort 15, Ref 11, Will 14
 - **Abilities**: Str 13, Dex 12, Con 15, Int 12, Wis 12, Cha 9
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +0, [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Craft|Craft]] (any two) +6, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Society|Society]] +6
 - **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]]

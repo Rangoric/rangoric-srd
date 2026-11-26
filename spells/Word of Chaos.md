@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "40 ft."
 area: "Nonchaotic creatures in a 40-ft.- radius spread centered on you"
 duration: "Instantaneous"
-saving-throw: "None or Will negates; see text"
+defense: "None or Will; see text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Word of Chaos|Word of Chaos (3.5)]]"
@@ -35,12 +35,12 @@ _Evocation \[Chaotic, Sonic\]_
 - **Range**: 40 ft.
 - **Area**: Nonchaotic creatures in a 40-ft.- radius spread centered on you
 - **Duration**: Instantaneous
-- **Saving Throw**: None or Will negates; see text
+- **Defense**: None or Will; see text
 - **Spell Resistance**: Yes
 
 Any nonchaotic creature within the area who hears the word of chaos suffers the following ill effects.
 
-The effects are cumulative and concurrent. No saving throw is allowed against these effects.
+The effects are cumulative and concurrent. These effects hit automatically, with no attack against a defense.
 
 _Deafened_: The creature is [[rangoric-srd/rules/Special Abilities and Conditions|deafened]] for 1d4 rounds.
 
@@ -57,6 +57,6 @@ _Killed_: Living creatures die. Undead creatures are destroyed.
 | Up to caster level –5  | Confused, stunned, deafened         |
 | Up to caster level –10 | Killed, confused, stunned, deafened |
 
-Furthermore, if you are on your home plane when you cast this spell, nonchaotic extraplanar creatures within the area are instantly banished back to their home planes. Creatures so banished cannot return for at least 24 hours. This effect takes place regardless of whether the creatures hear the word of chaos. The banishment effect allows a Will save (at a –4 penalty) to negate.
+Furthermore, if you are on your home plane when you cast this spell, nonchaotic extraplanar creatures within the area are instantly banished back to their home planes. Creatures so banished cannot return for at least 24 hours. This effect takes place regardless of whether the creatures hear the word of chaos. The banishment effect attacks Will, with a –4 penalty to the creature’s Will Defense, and a miss negates it.
 
 Creatures whose HD exceed your caster level are unaffected by word of chaos.

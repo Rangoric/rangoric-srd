@@ -15,7 +15,7 @@ full-attack: "Bite +5 melee (1d8+6)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Sudden charge"
 special-qualities: "Low-light vision"
-saves: "Fort +6, Ref +6, Will +1"
+defenses: "Fort 16, Ref 16, Will 11"
 abilities: "Str 18, Dex 17, Con 16, Int 2, Wis 11, Cha 10"
 skills: "Perception +9"
 skill-ranks: "Perception 6"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Sudden Charge|Sudden charge]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-- **Saves**: Fort +6, Ref +6, Will +1
+- **Defenses**: Fort 16, Ref 16, Will 11
 - **Abilities**: Str 18, Dex 17, Con 16, Int 2, Wis 11, Cha 10
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +9
 - **Feats**: [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

@@ -15,7 +15,7 @@ full-attack: "2 claws +7 melee (1d6+5) and bite +2 melee (1d6+2)"
 space-reach: "10 ft./10 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +6, Ref +6, Will +2"
+defenses: "Fort 16, Ref 16, Will 12"
 abilities: "Str 21, Dex 15, Con 14, Int 2, Wis 12, Cha 7"
 skills: "Athletics +9 (+17 climbing), Perception +10"
 skill-ranks: "Athletics 1, Perception 3"
@@ -46,7 +46,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: —
 - **Special Qualities**: Low-light vision, scent
-- **Saves**: Fort +6, Ref +6, Will +2
+- **Defenses**: Fort 16, Ref 16, Will 12
 - **Abilities**: Str 21, Dex 15, Con 14, Int 2, Wis 12, Cha 7
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9 (+17 climbing), Perception +10
 - **Feats**: Skill Focus (Perception), Toughness

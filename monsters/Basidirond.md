@@ -15,7 +15,7 @@ full-attack: "Slam +10 melee (1d8+7 plus spores)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Hallucination cloud, spores"
 special-qualities: "Low-light vision, tremorsense, immunity to cold, plant traits, cold lethargy"
-saves: "Fort +8, Ref +3, Will +2"
+defenses: "Fort 18, Ref 13, Will 12"
 abilities: "Str 20, Dex 13, Con 16, Int —, Wis 11, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Hallucination cloud, spores
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], cold lethargy
-- **Saves**: Fort +8, Ref +3, Will +2
+- **Defenses**: Fort 18, Ref 13, Will 12
 - **Abilities**: Str 20, Dex 13, Con 16, Int —, Wis 11, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -65,7 +65,7 @@ The strange fungal basidirond is a deadly plant monster that feeds on mineral-ri
 
 ### Combat
 
-**Hallucination Cloud (Ex)**: As a standard action once per minute, a basidirond can release a cloud of invisible spores in a 20-foot radius. All creatures within the area must succeed on a DC 16 Fortitude save or be affected by powerful hallucinations as long as they remain in the cloud plus 1d4 rounds after leaving the area. A new save must be made each round a creature remains within the affected area. A hallucination cloud persists for 5 rounds before dispersing—a strong wind causes it to disperse immediately. The save DC is Constitution-based. To determine what hallucination is suffered each round, roll 1d6 and consult the following table.
+**Hallucination Cloud (Ex)**: As a standard action once per minute, a basidirond can release a cloud of invisible spores in a 20-foot radius. All creatures within the area are attacked at +6 vs Fortitude, and on a hit are affected by powerful hallucinations as long as they remain in the cloud plus 1d4 rounds after leaving the area. The cloud attacks again each round a creature remains within the affected area. A hallucination cloud persists for 5 rounds before dispersing—a strong wind causes it to disperse immediately. The attack bonus is Constitution-based. To determine what hallucination is suffered each round, roll 1d6 and consult the following table.
 
 | d6  | Hallucination                                                                                                                                                               |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -76,8 +76,8 @@ The strange fungal basidirond is a deadly plant monster that feeds on mineral-ri
 | 5   | You've shrunk to 1/10th your normal size! Take no actions for 1 round and monsters won't see you.                                                                           |
 | 6   | You're melting! Grasp hold of yourself in an attempt to hold yourself together, and take no actions for 1 round.                                                            |
 
-**Spores (Ex)**: Any creature struck by a basidirond's slam attack is coated with spores. The creature struck must make a DC 16 Fortitude save or these spores take root in his flesh, and particularly in his lungs. The save DC is Constitution-based.
+**Spores (Ex)**: Any creature struck by a basidirond's slam attack is coated with spores. The creature struck is attacked at +6 vs Fortitude, and on a hit these spores take root in his flesh, and particularly in his lungs. The attack bonus is Constitution-based.
 
-[[rangoric-srd/rules/afflictions/Basidirond Spores|Basidirond Spores]]: Disease—inhaled; _save_ Fort DC 16; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage; _cure_ 1 save.
+[[rangoric-srd/rules/afflictions/Basidirond Spores|Basidirond Spores]]: Disease—inhaled; _attack_ +6 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage; _cure_ 1 miss.
 
 **Cold Lethargy (Ex)**: Although a basidirond is immune to cold damage, any cold effect it is exposed to slows it for 1d4 rounds. During this time, the basidirond cannot use its hallucination cloud or spores.

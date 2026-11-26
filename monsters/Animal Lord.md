@@ -16,7 +16,7 @@ full-attack: "Bite +15 melee (1d6+5 plus grab) and 2 claws +15 melee (1d3+5); or
 space-reach: "5 ft./5 ft."
 special-attacks: "Favored enemy (evil outsiders +6, giants +2, undead +2), pounce, rake (2 claws +15, 1d3+5), spell-like abilities"
 special-qualities: "Low-light vision, scent, evasion, change shape (leopard; shapechange), favored terrain (jungle +4, plains +2), hunter's bond (leopard), swift tracker, track +5, wild empathy +12, woodland stride, damage reduction 10/silver"
-saves: "Fort +13, Ref +14, Will +7"
+defenses: "Fort 23, Ref 24, Will 17"
 abilities: "Str 20, Dex 24, Con 22, Int 12, Wis 18, Cha 14"
 skills: "Acrobatics +17, Animal Handling +15, Athletics +26 (+31 jumping), Fieldcraft +17, Nature +14, Perception +17, Sense Motive +14, Stealth +20 (+24 in undergrowth)"
 skill-ranks: "Acrobatics 7, Animal Handling 10, Athletics 18, Fieldcraft 10, Nature 10, Perception 10, Sense Motive 7, Stealth 10"
@@ -64,7 +64,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Favored Enemy|Favored enemy]] (evil outsiders +6, giants +2, undead +2), [[rangoric-srd/monsters/abilities/Pounce|pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +15, 1d3+5), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/classes/Ranger#^ranger-evasion|evasion]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (leopard; shapechange), [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (jungle +4, plains +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (leopard), [[rangoric-srd/classes/Ranger#^ranger-swift-tracker|swift tracker]], [[rangoric-srd/classes/Ranger#^ranger-track|track]] +5, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +12, [[rangoric-srd/monsters/abilities/Woodland Stride|woodland stride]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/silver
-- **Saves**: Fort +13, Ref +14, Will +7
+- **Defenses**: Fort 23, Ref 24, Will 17
 - **Abilities**: Str 20, Dex 24, Con 22, Int 12, Wis 18, Cha 14
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +26 (+31 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +17, [[rangoric-srd/skills/Nature|Nature]] +14, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +20 (+24 in undergrowth)
 - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Shot on the Run|Shot on the Run]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -94,7 +94,7 @@ Animal lords speak Common and Sylvan.
 
 **Alignment**: Any neutral.
 
-**Type**: The base creature's type changes to outsider (native, shapechanger). Do not recalculate class Hit Dice, BAB, or saves.
+**Type**: The base creature's type changes to outsider (native, shapechanger). Do not recalculate class Hit Dice, BAB, or defenses.
 
 **Senses**: An animal lord gains the senses of both the base creature and the base animal in both of its forms.
 
@@ -150,7 +150,7 @@ Crocodile lords have reptilian eyes, sharp teeth, and a scaly ridge along the sp
 
 A dinosaur lord tends to have sharp teeth, scaly skin, and a booming voice. Dinosaur lords gain the following additional ability.
 
-**Primeval Mind (Ex)**: A dinosaur lord is immune to charm effects and gains a +2 bonus on all Will saves. ^primeval-mind
+**Primeval Mind (Ex)**: A dinosaur lord is immune to charm effects and gains a +2 bonus on Will Defense. ^primeval-mind
 
 ##### Raptor Lord (Eagle, Falcon)
 
@@ -162,7 +162,7 @@ Raptor lords have feathery-looking and brightly colored hair, wide searching eye
 
 Rat lords have pointed chins and pointed ears, and move with quick, jittery motions. Rat lords gain the following additional ability.
 
-**Hearty (Ex)**: Rat lords are immune to disease and gain a +2 bonus on all Fortitude saves. ^hearty
+**Hearty (Ex)**: Rat lords are immune to disease and gain a +2 bonus on Fortitude Defense. ^hearty
 
 ##### Shark Lord (Shark)
 
@@ -178,6 +178,6 @@ Serpent lords tend to have unusual skin colors, often with stripes or other patt
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +12): At will—_[[rangoric-srd/spells/Charm Animal|charm animal]]_ (cats only, DC 13).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +12): At will—_[[rangoric-srd/spells/Charm Animal|charm animal]]_ (cats only, +3 vs Will).
 
-**Ranger spells prepared** (CL 7th; concentration +11): 3rd—_[[rangoric-srd/spells/Magic Fang, Greater|greater magic fang]]_; 2nd—_[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/Hold Animal|hold animal]]_ (DC 16); 1st—_[[rangoric-srd/spells/Charm Animal|charm animal]]_ (DC 15), _[[rangoric-srd/spells/Longstrider|longstrider]]_, _[[rangoric-srd/spells/Pass without Trace|pass without trace]]_.
+**Ranger spells prepared** (CL 7th; concentration +11): 3rd—_[[rangoric-srd/spells/Magic Fang, Greater|greater magic fang]]_; 2nd—_[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/Hold Animal|hold animal]]_ (+6 vs Will); 1st—_[[rangoric-srd/spells/Charm Animal|charm animal]]_ (+5 vs Will), _[[rangoric-srd/spells/Longstrider|longstrider]]_, _[[rangoric-srd/spells/Pass without Trace|pass without trace]]_.

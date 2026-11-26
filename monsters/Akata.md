@@ -15,7 +15,7 @@ full-attack: "Bite +2 melee (1d6+1 plus void bite) and 2 tentacles –3 melee (1
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 120 ft., scent, no breath, hibernation, immunity to cold, disease and poison, resistance to fire 30, deaf, vulnerable to salt water"
-saves: "Fort +3, Ref +2, Will +4"
+defenses: "Fort 13, Ref 12, Will 14"
 abilities: "Str 12, Dex 15, Con 16, Int 3, Wis 12, Cha 11"
 skills: "Acrobatics +6, Athletics +9 (+13 jumping), Stealth +10"
 skill-ranks: "Acrobatics 1, Athletics 5, Stealth 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Hibernation|hibernation]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, disease and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 30, [[rangoric-srd/monsters/abilities/Deaf|deaf]], [[rangoric-srd/monsters/abilities/Vulnerable to Salt|vulnerable to salt]] water
-- **Saves**: Fort +3, Ref +2, Will +4
+- **Defenses**: Fort 13, Ref 12, Will 14
 - **Abilities**: Str 12, Dex 15, Con 16, Int 3, Wis 12, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +9 (+13 jumping), [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
@@ -73,7 +73,7 @@ Akatas hail from a strange, distant planet that long ago succumbed to a cataclys
 
 **Void Bite (Ex)**: Akatas hold hundreds of invisibly small larval young within their mouths, spreading these parasitic creatures to hosts through their bite. Only humanoids make suitable hosts for akata young—all other creature types are immune to this parasitic infection. The disease itself is known as void death.
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Void Death|Void Death]]: Bite—injury; _save_ Fort DC 12; _onset_ 1 hour; _frequency_ 1/day; _effect_ 1d2 Dex damage and 1d2 Con damage; an infected creature who dies rises as a void zombie 2d4 hours later (see below); _cure_ 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Void Death|Void Death]]: Bite—injury; _attack_ +2 vs Fortitude; _onset_ 1 hour; _frequency_ 1/day; _effect_ 1d2 Dex damage and 1d2 Con damage; an infected creature who dies rises as a void zombie 2d4 hours later (see below); _cure_ 2 consecutive misses.
 
 **Void Zombie (CR +1)**: A humanoid killed by [[rangoric-srd/rules/afflictions/Void Death|void death]] becomes a void zombie. A void zombie is a [[rangoric-srd/monsters/zombie/Alternate Zombie#Fast Zombie|fast zombie]] that gains a secondary “tongue” attack (actually the larval akata's feeding tendril), dealing 1d6 points of damage. A void zombie also gains the following special attack.
 

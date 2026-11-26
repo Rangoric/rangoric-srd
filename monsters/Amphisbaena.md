@@ -15,7 +15,7 @@ full-attack: "2 bites +8 melee (1d8+2 plus poison)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Poison"
 special-qualities: "All-around vision, darkvision 60 ft., low-light vision, scent, split, immunity to petrification, resistance to cold 10"
-saves: "Fort +6, Ref +7, Will +3"
+defenses: "Fort 16, Ref 17, Will 13"
 abilities: "Str 14, Dex 15, Con 13, Int 2, Wis 13, Cha 4"
 skills: "Acrobatics +10, Athletics +10 (+6 jumping), Investigation +0, Perception +11, Stealth +11"
 skill-ranks: "Acrobatics 0, Athletics 5, Perception 3, Stealth 6"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Split|split]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to petrification, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10
-- **Saves**: Fort +6, Ref +7, Will +3
+- **Defenses**: Fort 16, Ref 17, Will 13
 - **Abilities**: Str 14, Dex 15, Con 13, Int 2, Wis 13, Cha 4
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+6 jumping), [[rangoric-srd/skills/Investigation|Investigation]] +0, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
@@ -71,6 +71,6 @@ Amphisbaenas reproduce infrequently, laying small clutches of up to a dozen dark
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Amphisbaena Venom|Amphisbaena Venom]]: Bite—injury; _save_ Fort DC 14; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Con; _cure_ 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Amphisbaena Venom|Amphisbaena Venom]]: Bite—injury; _attack_ +4 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Con; _cure_ 1 miss.
 
 **[[rangoric-srd/monsters/abilities/Split|Split]] (Su)**: An amphisbaena functions normally even if cut in half. If dealt a critical hit with a slashing weapon, the creature is cut in half but continues to function as two separate creatures, each with half the original amphisbaena's current hit points (rounded down) after the damage from the critical hit is applied. Once split, an amphisbaena cannot be split again. If left alone for 1 minute, the split amphisbaena can rejoin its two halves and become a single whole creature again (add the two creatures' hit points together). If one of the split creatures is slain, the amphisbaena can regrow the lost portion over the course of 1d3 weeks.

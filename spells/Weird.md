@@ -27,4 +27,4 @@ _Illusion (Phantasm) \[Fear, Mind-Affecting\]_
 
 This spell functions like [[rangoric-srd/spells/Phantasmal Killer|phantasmal killer]], except it can affect more than one creature. Only the affected creatures see the phantasmal creatures attacking them, though you see the attackers as shadowy shapes.
 
-If a subject’s Fortitude save succeeds, it still takes 3d6 points of damage and is [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round. The subject also takes 1d4 points of temporary Strength damage.
+If the spell misses a subject’s Fortitude, it still takes 3d6 points of damage and is [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round. The subject also takes 1d4 points of temporary Strength damage.
