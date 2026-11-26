@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 min./level (D)"
-saving-throw: "See text"
+defense: "See text"
 spell-resistance: "No"
 based-on:
   - "[[path srd 3.5/spells/Form Of The Dragon I|Form Of The Dragon I (PF1)]]"
@@ -35,10 +35,10 @@ _Transmutation (Polymorph)_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 min./level (D)
-- **Saving Throw**: See text
+- **Defense**: See text
 - **Spell Resistance**: No
 
-You become a Medium chromatic or metallic dragon. You gain a +4 size bonus to Strength, a +2 size bonus to Constitution, a +4 natural armor bonus, fly 60 feet (poor), darkvision 60 feet, a breath weapon, and resistance to one element. You also gain one bite (1d8), two claws (1d6), and two wing attacks (1d4). Your breath weapon and resistance depend on the type of dragon. You can only use the breath weapon once per casting of this spell. All breath weapons deal 6d8 points of damage and allow a Reflex save for half damage. In addition, some of the dragon types grant additional abilities, as noted below.
+You become a Medium chromatic or metallic dragon. You gain a +4 size bonus to Strength, a +2 size bonus to Constitution, a +4 natural armor bonus, fly 60 feet (poor), darkvision 60 feet, a breath weapon, and resistance to one element. You also gain one bite (1d8), two claws (1d6), and two wing attacks (1d4). Your breath weapon and resistance depend on the type of dragon. You can only use the breath weapon once per casting of this spell. All breath weapons deal 6d8 points of damage and attack Reflex, a miss halving the damage. In addition, some of the dragon types grant additional abilities, as noted below.
 
 | Dragon | Breath weapon               | Resistance and other abilities                                                     |
 | ------ | --------------------------- | ---------------------------------------------------------------------------------- |

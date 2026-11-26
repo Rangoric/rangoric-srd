@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One incorporeal creature"
 duration: "1 round/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -40,7 +40,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One incorporeal creature
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 The target coalesces into a semi-physical form for a short period of time. While subject to the spell, the incorporeal creature takes half damage (50%) from nonmagical attack forms, and full damage from magic weapons, spells, spell-like effects, and supernatural effects.

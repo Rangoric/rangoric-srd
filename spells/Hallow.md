@@ -19,7 +19,7 @@ casting-time: "24 hours"
 range: "Touch"
 area: "40-ft. radius emanating from the touched point"
 duration: "Instantaneous"
-saving-throw: "See text"
+defense: "See text"
 spell-resistance: "See text"
 based-on:
   - "[[fantasy srd 3.5/spells/Hallow|Hallow (3.5)]]"
@@ -39,7 +39,7 @@ _Evocation \[Good\]_
 - **Range**: Touch
 - **Area**: 40-ft. radius emanating from the touched point
 - **Duration**: Instantaneous
-- **Saving Throw**: See text
+- **Defense**: See text
 - **Spell Resistance**: See text
 
 Hallow makes a particular site, building, or structure a holy site. This has four major effects.
@@ -52,7 +52,7 @@ Third, any [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] bo
 
 Finally, you may choose to fix a single spell effect to the hallowed site. The spell effect lasts for one year and functions throughout the entire site, regardless of the normal duration and area or effect. You may designate whether the effect applies to all creatures, creatures who share your faith or alignment, or creatures who adhere to another faith or alignment. At the end of the year, the chosen effect lapses, but it can be renewed or replaced simply by casting hallow again.
 
-Spell effects that may be tied to a hallowed site include aid, bane, bless, cause fear, darkness, daylight, death ward, deeper darkness, detect evil, detect magic, dimensional anchor, discern lies, dispel magic, endure elements, freedom of movement, invisibility purge, protection from energy, remove fear, resist energy, silence, tongues, and zone of truth. Saving throws and spell resistance might apply to these spells’ effects. (See the individual spell descriptions for details.)
+Spell effects that may be tied to a hallowed site include aid, bane, bless, cause fear, darkness, daylight, death ward, deeper darkness, detect evil, detect magic, dimensional anchor, discern lies, dispel magic, endure elements, freedom of movement, invisibility purge, protection from energy, remove fear, resist energy, silence, tongues, and zone of truth. Attacks against defenses and spell resistance might apply to these spells’ effects. (See the individual spell descriptions for details.)
 
 An area can receive only one hallow spell (and its associated spell effect) at a time. Hallow counters but does not dispel unhallow.
 

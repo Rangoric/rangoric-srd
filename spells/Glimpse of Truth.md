@@ -23,7 +23,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 round(s)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Intrigue"
 based-on:
@@ -44,7 +44,7 @@ _Divination_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 round(s)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 This spell functions like [[rangoric-srd/spells/True Seeing|true seeing]], except as noted above.

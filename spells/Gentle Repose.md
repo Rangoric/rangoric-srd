@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Corpse touched"
 duration: "One day/level"
-saving-throw: "Will negates (object)"
+defense: "Will (object)"
 spell-resistance: "Yes (object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Gentle Repose|Gentle Repose (3.5)]]"
@@ -38,7 +38,7 @@ _Necromancy_
 - **Range**: Touch
 - **Target**: Corpse touched
 - **Duration**: One day/level
-- **Saving Throw**: Will negates (object)
+- **Defense**: Will (object)
 - **Spell Resistance**: Yes (object)
 
 You preserve the remains of a [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] creature so that they do not decay. Doing so effectively extends the time limit on raising that creature from the dead (see raise dead). Days spent under the influence of this spell don’t count against the time limit. Additionally, this spell makes transporting a fallen comrade more pleasant.

@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Personal or Touch"
 target: "1 creature"
 duration: "10 min./level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Spells & Magic"
 based-on:
@@ -36,7 +36,7 @@ _Illusion (Glamour)_
 - **Range**: Personal or Touch
 - **Target**: 1 creature
 - **Duration**: 10 min./level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell is similar to the 2nd level wizard spell _[[rangoric-srd/spells/Invisibility|invisibility]]_. It allows a druid or ranger to become invisible in a forested or natural surrounding that offers cover. The creature vanishes from all normal sight, including Darkvision.

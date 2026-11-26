@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "Cloud spreads 30 ft. high, 20 ft. wide"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Faeries"
 based-on:
@@ -35,7 +35,7 @@ _Conjuration (Creation, Calling)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: Cloud spreads 30 ft. high, 20 ft. wide
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell enables the caster to create a fork in the _[[rangoric-srd/rules/Fey Roads and Doorways#Paths|fey path]]_ laid before him. The newly created path is considered a _fey path_ for future travel in the fey realm. The caster sprinkles the material components along the edge of the path, delineating the direction the new path should head.

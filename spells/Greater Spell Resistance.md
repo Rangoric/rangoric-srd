@@ -11,7 +11,7 @@ casting-time: "1 minute"
 range: "Touch"
 target: "Creature touched"
 duration: "20 hours"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 to-develop: "405,000 gp; 9 days; 16,200 XP. Seed: fortify (DC 27). Factor: +10 additional SR (+40 DC). Mitigating factor: two additional casters contributing 6th-level spell slots (-22 DC)."
 based-on:
@@ -31,7 +31,7 @@ Casting Time: 1 minute
 Range: Touch  
 Target: Creature touched  
 Duration: 20 hours  
-Saving Throw: Will negates (harmless)  
+Defense: Will (harmless)  
 Spell Resistance: Yes (harmless)  
 To Develop: 405,000 gp; 9 days; 16,200 XP. Seed: fortify (DC 27). Factor: +10 additional SR (+40 DC). Mitigating factor: two additional casters contributing 6th-level spell slots (-22 DC).
 

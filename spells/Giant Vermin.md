@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "Up to three vermin, no two of which can be more than 30 ft. apart"
 duration: "1 min./level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Giant Vermin|Giant Vermin (3.5)]]"
@@ -36,7 +36,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Targets**: Up to three vermin, no two of which can be more than 30 ft. apart
 - **Duration**: 1 min./level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 You turn three normal-sized centipedes, two normal-sized spiders, or a single normal-sized scorpion into larger forms. Only one type of vermin can be transmuted (so a single casting cannot affect both a centipede and a spider), and all must be grown to the same size. The size to which the vermin can be grown depends on your level; see the table below.

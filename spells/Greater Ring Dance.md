@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "2 creatures/level"
 duration: "Instantaneous"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Faeries"
 based-on:
@@ -35,7 +35,7 @@ _Evocation_
 - **Range**: Touch
 - **Target**: 2 creatures/level
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 As _[[rangoric-srd/spells/Lesser Ring Dance|lesser ring dance]]_, except the number of ring dance participants increases to two for every caster level.

@@ -12,7 +12,7 @@ casting-time: "1 action"
 range: "Touch"
 target: "One item of a volume no greater than 10 cu. ft./level (see text)"
 duration: "Permanent"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes (object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Hardening|Hardening (3.5)]]"
@@ -31,7 +31,7 @@ Casting Time: 1 action
 Range: Touch  
 Target: One item of a volume no greater than 10 cu. ft./level (see text)  
 Duration: Permanent  
-Saving Throw: None  
+Defense: None  
 Spell Resistance: Yes (object)
 
 This spell increases the hardness of materials.  For every two caster levels, increase by 1 the hardness of the material targeted by the spell. This hardness increase improves only the material’s resistance to damage. Nothing else is modified by the improvement.

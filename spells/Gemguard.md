@@ -14,7 +14,7 @@ casting-time: "1 hour"
 range: "See text"
 effect: "Transforms gem into magical sensor"
 duration: "1 hour/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Spells & Magic"
 based-on:
@@ -35,7 +35,7 @@ _Transmutation_
 - **Range**: See text
 - **Effect**: Transforms gem into magical sensor
 - **Duration**: 1 hour/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You transform a gem into a scrying device/alarm. When the spell is cast, the two halves of the focus become linked, and when you hold one, you may scry on the other at will (as _[[rangoric-srd/spells/Scrying|scrying]]_). You can see everything within 50 ft. of the other half. Any creature with at least a 12 Intelligence can sense your attention with a [[rangoric-srd/skills/Mysticism|Mysticism]] check or an Intelligence check (DC 20).

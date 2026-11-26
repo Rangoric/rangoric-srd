@@ -20,7 +20,7 @@ casting-time: "1 hour"
 range: "Touch"
 target: "Willing half-orc touched"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Advanced Race Guide"
 based-on:
@@ -41,7 +41,7 @@ _Transmutation (Polymorph)_
 - **Range**: Touch
 - **Target**: Willing half-orc touched
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You transform the target half-orc into a full-blooded orc. The target loses all of its half-orc racial traits and gains the orc racial traits.

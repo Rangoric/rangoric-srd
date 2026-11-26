@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "Up to five creatures, no two of which can be more than 15 ft. apart"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Faeries"
 based-on:
@@ -35,7 +35,7 @@ _Conjuration (Creation)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Targets**: Up to five creatures, no two of which can be more than 15 ft. apart
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 As the tiny ball of sap leaves the caster’s hands, it grows to a large glob over a foot in diameter. The caster must make a ranged touch attack to see if she succeeds in hitting the target creature. A creature hit by the sap is hindered in such a way that all attacks, physical skills and the like are at a –2 penalty. If the victim is sitting or leaning on something, he will be glued to it for the duration of the sap’s presence (10 minutes/level). The caster gains an additional glob of sap for every two levels to a maximum of five globs at 11th level.

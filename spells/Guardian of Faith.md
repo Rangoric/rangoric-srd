@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One ally"
 duration: "1 minute/level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "No"
 book: "Advanced Class Guide"
 based-on:
@@ -34,7 +34,7 @@ _Abjuration_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One ally
 - **Duration**: 1 minute/level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: No
 
 The target gains the benefit of _[[rangoric-srd/spells/Shield of Faith|shield of faith]]_ and your choice of _[[rangoric-srd/spells/Protection from Chaos|protection from chaos]]_, _evil_, _good_, or _law_. As a move action, the target can transfer this spell to a touched ally, who becomes the new target of the spell.

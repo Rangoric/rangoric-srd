@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "Ray of needle-like shards of iron"
 duration: "1 round/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Faeries"
 based-on:
@@ -38,7 +38,7 @@ _Conjuration (Creation) \[Cold Iron\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: Ray of needle-like shards of iron
 - **Duration**: 1 round/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 You unleash a small spray of iron shards from your hand directly along your line of sight at your target. You must make a single ranged attack to hit a single target. If you miss, there is no damage due to scattering shards. If you have three or more dice, the shards can be split among additional targets, provided they are within the path of the spell and along the same line of sight. Each target requires a separate ranged attack roll, regardless of how many shards fly toward each target. If the attack roll misses, the target suffers no damage.
