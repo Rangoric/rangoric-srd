@@ -15,7 +15,7 @@ full-attack: "Sting +6 melee (1d3–2 plus poison) and bite +6 melee (1d2–2)"
 space-reach: "2-1/2 ft./0 ft. (5 ft. with tail)"
 special-attacks: "Poison"
 special-qualities: "Blindsense 60 ft., darkvision 60 ft., low-light vision, telepathy 60 ft., immunity to paralysis and sleep, spell resistance 12"
-saves: "Fort +4, Ref +5, Will +4"
+defenses: "Fort 14, Ref 15, Will 14"
 abilities: "Str 7, Dex 15, Con 13, Int 10, Wis 12, Cha 10"
 skills: "Acrobatics +15, Fieldcraft +6, Perception +6, Persuasion +5, Sense Motive +6, Stealth +19 (+23 in forests)"
 skill-ranks: "Acrobatics 6, Fieldcraft 2, Perception 2, Persuasion 2, Sense Motive 2, Stealth 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft. (5 ft. with tail)
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 60 ft., immunity to [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 12
-- **Saves**: Fort +4, Ref +5, Will +4
+- **Defenses**: Fort 14, Ref 15, Will 14
 - **Abilities**: Str 7, Dex 15, Con 13, Int 10, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +19 (+23 in forests)
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -74,4 +74,4 @@ Pseudodragons speak Draconic.
 
 A pseudodragon can deliver a vicious bite, but its principal weapon is its sting-equipped tail.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Pseudodragon Venom|Pseudodragon Venom]]: Sting—injury; _save_ Fort DC 14; _frequency_ 1/minute for 10 minutes; _effect_ sleep for 1 minute; _cure_ 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Pseudodragon Venom|Pseudodragon Venom]]: Sting—injury; _attack_ +4 vs Fortitude; _frequency_ 1/minute for 10 minutes; _effect_ sleep for 1 minute; _cure_ 1 miss. The attack bonus is Constitution-based and includes a +2 racial bonus.

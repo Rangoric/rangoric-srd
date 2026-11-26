@@ -15,7 +15,7 @@ full-attack: "Short sword +10 melee (1d4–1/19–20)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +1d6"
 special-qualities: "Low-light vision, evasion, natural invisibility, supernatural speed, uncanny dodge, poison use, damage reduction 5/cold iron, slow susceptibility"
-saves: "Fort +2, Ref +11, Will +6"
+defenses: "Fort 12, Ref 21, Will 16"
 abilities: "Str 8, Dex 24, Con 13, Int 15, Wis 15, Cha 14"
 skills: "Acrobatics +14, Athletics –1 (+35 jumping), Craft (any one) +9, Deception +9, Emulation +7, Escape Artist +14, Fieldcraft +4, Mysticism +6, Perception +9, Stealth +18"
 skill-ranks: "Acrobatics 4, Athletics 0, Craft (any one) 4, Deception 4, Emulation 2, Escape Artist 4, Fieldcraft 2, Mysticism 1, Perception 4, Stealth 4"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Sneak attack +1d6
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], evasion, [[rangoric-srd/monsters/abilities/Natural Invisibility (Quickling)|natural invisibility]], [[rangoric-srd/monsters/abilities/Supernatural Speed|supernatural speed]], uncanny dodge, [[rangoric-srd/monsters/abilities/Poison|poison]] use, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Slow Susceptibility|slow susceptibility]]
-- **Saves**: Fort +2, Ref +11, Will +6
+- **Defenses**: Fort 12, Ref 21, Will 16
 - **Abilities**: Str 8, Dex 24, Con 13, Int 15, Wis 15, Cha 14
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] –1 (+35 jumping), [[rangoric-srd/skills/Craft|Craft]] (any one) +9, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Emulation|Emulation]] +7, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +14, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +18
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

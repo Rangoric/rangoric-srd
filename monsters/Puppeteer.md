@@ -17,7 +17,7 @@ full-attack: "Bite +4 melee (1d2-5)"
 space-reach: "1/2 ft./0 ft."
 special-attacks: "Enthrall, psi-like abilities"
 special-qualities: "Blindsight 60 ft., host protection, telepathy 20 ft."
-saves: "Fort +2, Ref +4, Will +5"
+defenses: "Fort 12, Ref 14, Will 15"
 abilities: "Str 1, Dex 15, Con 11, Int 14, Wis 16, Cha 14"
 skills: "Perception +7, Sense Motive +7, Stealth +22"
 skill-ranks: "Perception 1, Sense Motive 1, Stealth 1"
@@ -50,7 +50,7 @@ Full **Attack:** Bite +4 melee (1d2-5)   
 **Space/Reach:** 1/2 ft./0 ft.     
 **Special Attacks:** Enthrall, psi-like abilities     
 **Special Qualities:** [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., host protection, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 20 ft.      
-**Saves:** Fort +2, Ref +4, Will +5     
+**Defenses:** Fort 12, Ref 14, Will 15     
 **Abilities:** Str 1, Dex 15, Con 11, Int 14, Wis 16, Cha 14     
 **Skills:** [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +22     
 **Unspent Skill Points**: 1
@@ -71,12 +71,12 @@ Puppeteers use their psionic powers in conjunction with their enthrall ability t
 
 Enthrall (Ex): If a puppeteer is in physical contact with a person it has [[rangoric-srd/powers/Charm, Psionic|charmed]] (the puppeteer establishes a physical hold by means of slender infiltrating tendrils), the subject acts as if [[rangoric-srd/skills/Skills Constitution-based|dominated]]. (Puppeteers often seek to charm victims first and then “ask” to be picked up.) So long as the puppeteer remains in contact with the victim, the domination remains in effect, even if a check would normally indicate that the effect is broken.
 
-Psi-Like **Abilities:** 3/day - [[rangoric-srd/powers/Detect Psionics|detect psionics]], [[rangoric-srd/powers/Mental Barrier|mental barrier]], [[rangoric-srd/powers/Charm, Psionic|psionic charm]] (DC 13). Manifester level 1st. The save DCs are Charisma-based.
+Psi-Like **Abilities:** 3/day - [[rangoric-srd/powers/Detect Psionics|detect psionics]], [[rangoric-srd/powers/Mental Barrier|mental barrier]], [[rangoric-srd/powers/Charm, Psionic|psionic charm]] (+3 vs Will). Manifester level 1st. The attack bonuses are Charisma-based.
 
 Blindsight (Ex): A puppeteer can ascertain creatures by nonvisual means within 60 feet.
 
 Hide Mind (Su): A puppeteer cannot be identified as psionic by divination spells or clairsentience powers.
 
-Host Protection (Ex): A puppeteer in control of a host is treated as an attended magic item for the purpose of making saving throws, even if the puppeteer is specifically targeted. A puppeteer that is attached to its host is treated as a creature in a [[rangoric-srd/rules/conditions/Grappled (Condition)|grapple]] for the purpose of striking at the puppeteer instead of the host (but the host is not considered grappled in turn).
+Host Protection (Ex): A puppeteer in control of a host is treated as an attended magic item for the purpose of attacks against its defenses, even if the puppeteer is specifically targeted. A puppeteer that is attached to its host is treated as a creature in a [[rangoric-srd/rules/conditions/Grappled (Condition)|grapple]] for the purpose of striking at the puppeteer instead of the host (but the host is not considered grappled in turn).
 
 Telepathy (Su): A puppeteer can communicate telepathically with any creature within 20 feet that has a language.

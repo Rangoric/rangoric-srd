@@ -16,7 +16,7 @@ full-attack: "Club +8 melee (1d6+9); or slam +8 melee (1d4+9); or rock +5 ranged
 space-reach: "5 ft./5 ft."
 special-attacks: "Rock throwing (120 ft.)"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, pungency, woodland stride"
-saves: "Fort +4, Ref +5, Will +1"
+defenses: "Fort 14, Ref 15, Will 11"
 abilities: "Str 22, Dex 15, Con 16, Int 9, Wis 10, Cha 11"
 skills: "Fieldcraft +11, Medicine +0, Perception +5, Stealth +10 (+14 in forested areas)"
 skill-ranks: "Fieldcraft 3, Medicine 2, Perception 1, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (120 ft.)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Pungency|pungency]], [[rangoric-srd/monsters/abilities/Woodland Stride|woodland stride]]
-- **Saves**: Fort +4, Ref +5, Will +1
+- **Defenses**: Fort 14, Ref 15, Will 11
 - **Abilities**: Str 22, Dex 15, Con 16, Int 9, Wis 10, Cha 11
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Medicine|Medicine]] +0, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +10 (+14 in forested areas)
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft, Stealth)

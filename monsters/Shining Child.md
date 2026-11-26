@@ -16,7 +16,7 @@ full-attack: "2 touches +19 melee (4d10 fire plus burning touch); or searing ray
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 120 ft., blinding light (60 feet), telepathy 120 ft., radiant armor, immunity to blindness, fire and poison, resistance to cold 10 and sonic 10"
-saves: "Fort +14, Ref +10, Will +10"
+defenses: "Fort 24, Ref 20, Will 20"
 abilities: "Str 10, Dex 17, Con 18, Int 15, Wis 11, Cha 24"
 skills: "Acrobatics +11, Arcana +21, Deception +26, Emulation +26, Intimidation +26, Mysticism +21, Perception +25, Persuasion +23, Theology +21"
 skill-ranks: "Acrobatics 5, Arcana 16, Deception 16, Emulation 16, Intimidation 16, Mysticism 16, Perception 22, Persuasion 13, Theology 16"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Blinding Light|blinding light]] (60 feet), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 120 ft., [[rangoric-srd/monsters/abilities/Radiant Armor|radiant armor]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to blindness, fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and sonic 10
-- **Saves**: Fort +14, Ref +10, Will +10
+- **Defenses**: Fort 24, Ref 20, Will 20
 - **Abilities**: Str 10, Dex 17, Con 18, Int 15, Wis 11, Cha 24
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +21, [[rangoric-srd/skills/Deception|Deception]] +26, [[rangoric-srd/skills/Emulation|Emulation]] +26, [[rangoric-srd/skills/Intimidation|Intimidation]] +26, [[rangoric-srd/skills/Mysticism|Mysticism]] +21, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Persuasion|Persuasion]] +23, [[rangoric-srd/skills/Theology|Theology]] +21
 - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (blinding light), [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -70,9 +70,9 @@ Shining childs speak telepathy 120 ft.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +19): At will—_[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Major Image|major image]]_ (DC 20); 3/day—_[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]_, _[[rangoric-srd/spells/Mirage Arcana|mirage arcana]]_ (DC 20), _[[rangoric-srd/spells/Rainbow Pattern|rainbow pattern]]_ (DC 22), _[[rangoric-srd/spells/Spell Turning|spell turning]]_, _[[rangoric-srd/spells/Sunbeam|sunbeam]]_, _[[rangoric-srd/spells/Wall of Force|wall of force]]_; 1/day—_[[rangoric-srd/spells/Scintillating Pattern|scintillating pattern]]_ (DC 25), _[[rangoric-srd/spells/Screen|screen]]_ (DC 25), _[[rangoric-srd/spells/Symbol of Insanity|symbol of insanity]]_ (DC 25).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +19): At will—_[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Major Image|major image]]_ (+10 vs Will); 3/day—_[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]_, _[[rangoric-srd/spells/Mirage Arcana|mirage arcana]]_ (+10 vs Will), _[[rangoric-srd/spells/Rainbow Pattern|rainbow pattern]]_ (+12 vs Will), _[[rangoric-srd/spells/Spell Turning|spell turning]]_, _[[rangoric-srd/spells/Sunbeam|sunbeam]]_, _[[rangoric-srd/spells/Wall of Force|wall of force]]_; 1/day—_[[rangoric-srd/spells/Scintillating Pattern|scintillating pattern]]_ (+15), _[[rangoric-srd/spells/Screen|screen]]_ (+15 vs Will), _[[rangoric-srd/spells/Symbol of Insanity|symbol of insanity]]_ (+15 vs Will).
 
-**[[rangoric-srd/monsters/abilities/Blinding Light|Blinding Light]] (Ex)**: A shining child can radiate a 60-foot-radius aura of blinding light as a free action. Creatures within the affected area must succeed on a DC 25 Fortitude save or be permanently [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]]. A creature that successfully saves cannot be affected again by the same shining child's aura for 24 hours. The save is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Blinding Light|Blinding Light]] (Ex)**: A shining child can radiate a 60-foot-radius aura of blinding light as a free action. Creatures within the affected area are attacked at +15 vs Fortitude, and on a hit are permanently [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]]. A creature the aura misses cannot be affected again by the same shining child's aura for 24 hours. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Burning Touch|Burning Touch]] (Su)**: A shining child corrupts the positive energy within a living creature into an unnatural burning light. For the next 5 rounds after a successful touch attack by a shining child, the target takes 2d6 points of fire damage. The burning light can be “extinguished” by casting darkness or deeper darkness on the target, or by entering an area of natural darkness (not counting the light from the burning target).
 

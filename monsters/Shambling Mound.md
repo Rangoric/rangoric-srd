@@ -15,7 +15,7 @@ full-attack: "2 slams +11 melee (2d6+5 plus grab)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Constrict (2d6+7)"
 special-qualities: "Darkvision 60 ft., low-light vision, plant traits, electric fortitude, immunity to electricity, resistance to fire 10"
-saves: "Fort +9, Ref +5, Will +5"
+defenses: "Fort 19, Ref 15, Will 15"
 abilities: "Str 21, Dex 10, Con 17, Int 7, Wis 10, Cha 9"
 skills: "Athletics +13, Perception +11, Stealth +8 (+16 in swamps or forest)"
 skill-ranks: "Athletics 5, Perception 4, Stealth 5"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d6+7)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], electric fortitude, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
-- **Saves**: Fort +9, Ref +5, Will +5
+- **Defenses**: Fort 19, Ref 15, Will 15
 - **Abilities**: Str 21, Dex 10, Con 17, Int 7, Wis 10, Cha 9
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+16 in swamps or forest)
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)

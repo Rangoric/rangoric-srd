@@ -15,7 +15,7 @@ full-attack: "Bite +4 melee (1d3–4 plus attach)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Attach, death throes, irritant"
 special-qualities: "Darkvision 60 ft., opportune, damage reduction 5/bludgeoning, undead traits"
-saves: "Fort +1, Ref +1, Will +4"
+defenses: "Fort 11, Ref 11, Will 14"
 abilities: "Str 3, Dex 13, Con —, Int 4, Wis 12, Cha 13"
 skills: "Deception +2 (+10 when playing dead), Stealth +13"
 skill-ranks: "Deception 1, Stealth 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Attach|Attach]], death throes, [[rangoric-srd/monsters/abilities/Irritant|irritant]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Opportune|opportune]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +1, Ref +1, Will +4
+- **Defenses**: Fort 11, Ref 11, Will 14
 - **Abilities**: Str 3, Dex 13, Con —, Int 4, Wis 12, Cha 13
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +2 (+10 when playing dead), [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -71,8 +71,8 @@ Pickled punks speak Common.
 
 **[[rangoric-srd/monsters/abilities/Attach|Attach]] (Ex)**: When a pickled punk hits with a bite attack, it automatically grapples its foe, though the target is not considered to be grappling the punk. Each round the pickled punk is grappling its foe, it automatically deals bite damage each round.
 
-**Death Throes (Ex)**: When a pickled punk is destroyed, it discorporates into a fleshy sludge. Any creatures adjacent to a pickled punk when it is destroyed must succeed at a DC 12 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round.
+**Death Throes (Ex)**: When a pickled punk is destroyed, it discorporates into a fleshy sludge. Any creatures adjacent to a pickled punk when it is destroyed are attacked at +2 vs Fortitude, and on a hit are [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round.
 
-**[[rangoric-srd/monsters/abilities/Irritant|Irritant]] (Ex)**: The water in a pickled punk's jar is highly irritating to all living creatures. A creature damaged by a pickled punk's bite that deals damage to pickled punk with a natural weapon or unarmed attack, or that otherwise comes into contact with a pickled punk or the water in its jar, must succeed at a DC 12 Fortitude save or break out in an itching rash. A creature affected by this rash takes a -2 penalty to Dexterity and Charisma for 24 hours (multiple allergic reactions do not stack). Remove disease or any magical healing removes the rash instantly. This is a disease effect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Irritant|Irritant]] (Ex)**: The water in a pickled punk's jar is highly irritating to all living creatures. A creature damaged by a pickled punk's bite that deals damage to pickled punk with a natural weapon or unarmed attack, or that otherwise comes into contact with a pickled punk or the water in its jar, is attacked at +2 vs Fortitude, and on a hit breaks out in an itching rash. A creature affected by this rash takes a -2 penalty to Dexterity and Charisma for 24 hours (multiple allergic reactions do not stack). Remove disease or any magical healing removes the rash instantly. This is a disease effect. The attack bonus is Charisma-based.
 
 **[[rangoric-srd/monsters/abilities/Opportune|Opportune]] (Ex)**: Though Tiny, a pickled punk can extend its deformed limbs to make attacks of opportunity as if it had a reach of 5 feet. This ability doesn't allow a pickled punk to attack adjacent creatures as if it truly had a reach of 5 feet.

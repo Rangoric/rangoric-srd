@@ -15,7 +15,7 @@ full-attack: "2 slams +25 melee (4d10+16/19–20 plus 4d6 electricity); or 4 tho
 space-reach: "30 ft./30 ft."
 special-attacks: "Poison, spell-like abilities"
 special-qualities: "Blindsight 30 ft., darkvision 60 ft., low-light vision, tremorsense 30 ft., fast healing 10, death throes, electrical jolt, planar acclimation, damage reduction 15/cold iron and slashing, immunity to electricity, plant traits, resistance to cold 30 and fire 30, spell resistance 30, vulnerable to sonic"
-saves: "Fort +23, Ref +17, Will +13"
+defenses: "Fort 33, Ref 27, Will 23"
 abilities: "Str 42, Dex 27, Con 30, Int 9, Wis 22, Cha 25"
 skills: "Athletics +24, Perception +32"
 skill-ranks: "Athletics 5, Perception 23"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 30 ft./30 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, death throes, [[rangoric-srd/monsters/abilities/Electrical Jolt|electrical jolt]], [[rangoric-srd/monsters/abilities/Planar Acclimation|planar acclimation]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/cold iron and slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 30 and fire 30, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 30, vulnerable to sonic
-- **Saves**: Fort +23, Ref +17, Will +13
+- **Defenses**: Fort 33, Ref 27, Will 23
 - **Abilities**: Str 42, Dex 27, Con 30, Int 9, Wis 22, Cha 25
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +24, [[rangoric-srd/skills/Perception|Perception]] +32
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (slam), [[rangoric-srd/feats/Improved Lightning Reflexes|Improved Lightning Reflexes]], [[rangoric-srd/feats/Improved Precise Shot|Improved Precise Shot]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (lightning bolt), [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -71,14 +71,14 @@ Sards speak Aklo and Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +27): At will—_[[rangoric-srd/spells/Control Weather|control weather]]_, _[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_ (DC 20), _[[rangoric-srd/spells/Tree Shape|tree shape]]_ (Colossal tree), _[[rangoric-srd/spells/Transport via Plants|transport via plants]]_; 3/day—_[[rangoric-srd/spells/Chain Lightning|chain lightning]]_ (DC 23), quickened _[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_ (DC 20); 1/day—_[[rangoric-srd/spells/Storm of Vengeance|storm of vengeance]]_ (DC 26), _[[rangoric-srd/spells/Whirlwind|whirlwind]]_ (DC 25).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +27): At will—_[[rangoric-srd/spells/Control Weather|control weather]]_, _[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_ (+10 vs Reflex), _[[rangoric-srd/spells/Tree Shape|tree shape]]_ (Colossal tree), _[[rangoric-srd/spells/Transport via Plants|transport via plants]]_; 3/day—_[[rangoric-srd/spells/Chain Lightning|chain lightning]]_ (+13 vs Reflex), quickened _[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_ (+10 vs Reflex); 1/day—_[[rangoric-srd/spells/Storm of Vengeance|storm of vengeance]]_ (+16), _[[rangoric-srd/spells/Whirlwind|whirlwind]]_ (+15 vs Reflex).
 
-**Death Throes (Su)**: When a sard dies, its remains explode with a blast of lightning into razor-sharp splinters of wood. All creatures within 30 feet of a sard when it explodes in this manner take 12d6 points of electricity damage and 12d6 points of piercing damage. A DC 31 Reflex save halves this damage. The save DC is Constitution-based.
+**Death Throes (Su)**: When a sard dies, its remains explode with a blast of lightning into razor-sharp splinters of wood. All creatures within 30 feet of a sard when it explodes in this manner take 12d6 points of electricity damage and 12d6 points of piercing damage. It attacks at +21 vs Reflex, and a miss halves this damage. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Electrical Jolt|Electrical Jolt]] (Su)**: Every time a creature strikes a sard with a metal melee weapon, arcs of electricity deal 1d10 points of damage to the attacker.
 
 **[[rangoric-srd/monsters/abilities/Planar Acclimation|Planar Acclimation]] (Ex)**: A sard is always considered to be on its home plane, regardless of what plane it finds itself upon. It never gains the extraplanar subtype.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Sard Venom|Sard Venom]]: Thorn—injury; _save_ Fort DC 31; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Dex and 4d6 electricity; _cure_ 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Sard Venom|Sard Venom]]: Thorn—injury; _attack_ +21 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Dex and 4d6 electricity; _cure_ 2 consecutive misses.
 
 **Thorns (Ex)**: A sard's thorns have a range of 180 feet with no range increment.

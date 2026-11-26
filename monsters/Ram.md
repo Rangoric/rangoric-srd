@@ -15,7 +15,7 @@ full-attack: "Gore +3 melee (1d4+3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Powerful charge (gore, 1d8+3)"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +4, Ref +5, Will +2"
+defenses: "Fort 14, Ref 15, Will 12"
 abilities: "Str 14, Dex 15, Con 13, Int 2, Wis 14, Cha 7"
 skills: "Acrobatics +13, Athletics +2 (+6 jumping), Perception +6"
 skill-ranks: "Acrobatics 4, Athletics 0, Perception 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (gore, 1d8+3)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +4, Ref +5, Will +2
+- **Defenses**: Fort 14, Ref 15, Will 12
 - **Abilities**: Str 14, Dex 15, Con 13, Int 2, Wis 14, Cha 7
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +2 (+6 jumping), [[rangoric-srd/skills/Perception|Perception]] +6
 - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics)

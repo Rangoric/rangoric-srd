@@ -15,7 +15,7 @@ full-attack: "Bite +1 melee (1d4–1) and tentacle +1 melee (1d4–1)"
 space-reach: "2-1/2 ft./2-1/2 ft."
 special-attacks: "Baleful whinny, lashing strike"
 special-qualities: "Darkvision 60 ft., flight"
-saves: "Fort +3, Ref +4, Will +2"
+defenses: "Fort 13, Ref 14, Will 12"
 abilities: "Str 8, Dex 15, Con 17, Int 6, Wis 11, Cha 14"
 skills: "Acrobatics +14, Perception +4, Stealth +14"
 skill-ranks: "Acrobatics 5, Perception 1, Stealth 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./2-1/2 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Baleful Whinny|Baleful whinny]], [[rangoric-srd/monsters/abilities/Lashing Strike|lashing strike]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Flight|flight]]
-- **Saves**: Fort +3, Ref +4, Will +2
+- **Defenses**: Fort 13, Ref 14, Will 12
 - **Abilities**: Str 8, Dex 15, Con 17, Int 6, Wis 11, Cha 14
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
@@ -71,7 +71,7 @@ A sagari is 3 feet long from mouth to tentacle and weighs 30 pounds.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Baleful Whinny|Baleful Whinny]] (Su)**: As a standard action, a sagari can emit a monstrous whinny. Any creature within 60 feet must succeed at a DC 12 Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d4 rounds by the hideous sound. This is a sonic, mind-affecting effect. Whether or not the save is successful, the affected creature is immune to the same sagari's baleful whinny for 24 hours. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Baleful Whinny|Baleful Whinny]] (Su)**: As a standard action, a sagari can emit a monstrous whinny. Any creature within 60 feet is attacked at +2 vs Will, and on a hit becomes [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d4 rounds by the hideous sound. This is a sonic, mind-affecting effect. Whether the attack hits or misses, the affected creature is immune to the same sagari's baleful whinny for 24 hours. The attack bonus is Charisma-based.
 
 **[[rangoric-srd/monsters/abilities/Flight|Flight]] (Su)**: A sagari's flight is supernatural in nature.
 

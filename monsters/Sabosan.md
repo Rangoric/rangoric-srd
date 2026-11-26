@@ -15,7 +15,7 @@ full-attack: "Bite +10 melee (1d6+3 plus bleed) and 2 claws +10 melee (1d6+3 plu
 space-reach: "5 ft./5 ft."
 special-attacks: "Bleed (1d4), blood drain (1 Constitution), dust cloud, fell shriek, powerful charge (claw, 2d6+6)"
 special-qualities: "Blindsense 60 ft., darkvision 60 ft., scent"
-saves: "Fort +4, Ref +9, Will +6"
+defenses: "Fort 14, Ref 19, Will 16"
 abilities: "Str 16, Dex 18, Con 15, Int 9, Wis 13, Cha 10"
 skills: "Acrobatics +11, Perception +14, Stealth +14"
 skill-ranks: "Acrobatics 4, Perception 10, Stealth 7"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d4), [[rangoric-srd/monsters/abilities/Blood Drain|blood drain]] (1 Constitution), [[rangoric-srd/monsters/abilities/Dust Cloud|dust cloud]], [[rangoric-srd/monsters/abilities/Fell Shriek|fell shriek]], [[rangoric-srd/monsters/abilities/Powerful Charge|powerful charge]] (claw, 2d6+6)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +4, Ref +9, Will +6
+- **Defenses**: Fort 14, Ref 19, Will 16
 - **Abilities**: Str 16, Dex 18, Con 15, Int 9, Wis 13, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -75,4 +75,4 @@ Sabosans speak Abyssal.
 
 **[[rangoric-srd/monsters/abilities/Dust Cloud|Dust Cloud]] (Ex)**: A sabosan gains Hover as a bonus feat, and can use this feat to create a dust cloud even though it is not Large. The resulting dust cloud has only a 30-foot radius.
 
-**[[rangoric-srd/monsters/abilities/Fell Shriek|Fell Shriek]] (Su)**: As a standard action, a sabosan can emit a deafening cry in a 30-foot cone. Creatures in this area must make a successful DC 15 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]] for 1 minute. Sabosan are immune to this ability. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Fell Shriek|Fell Shriek]] (Su)**: As a standard action, a sabosan can emit a deafening cry in a 30-foot cone. Creatures in this area are attacked at +5 vs Fortitude, and on a hit are [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]] for 1 minute. Sabosan are immune to this ability. The attack bonus is Constitution-based.

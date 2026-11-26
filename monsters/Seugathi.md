@@ -15,7 +15,7 @@ full-attack: "Masterwork short sword +11/+6 melee (1d8+3/19–20) and bite +5 me
 space-reach: "10 ft./10 ft."
 special-attacks: "Confusion command, poison, spell-like abilities"
 special-qualities: "Darkvision 120 ft., detect thoughts, tremorsense 30 ft., fast healing 5, madness (30 ft.), telepathy 100 ft., item use, damage reduction 10/slashing or piercing, immunity to mind-affecting effects and poison, spell resistance 17"
-saves: "Fort +6, Ref +8, Will +9"
+defenses: "Fort 16, Ref 18, Will 19"
 abilities: "Str 16, Dex 20, Con 17, Int 14, Wis 17, Cha 19"
 skills: "Emulation +16, Escape Artist +17, Perception +15, Sense Motive +12, Stealth +13, Theology +14"
 skill-ranks: "Emulation 9, Escape Artist 9, Perception 9, Sense Motive 6, Stealth 9, Theology 9"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Confusion Command|Confusion command]], [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., detect thoughts, [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, madness (30 ft.), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Item Use|item use]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/slashing or piercing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects and poison, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
-- **Saves**: Fort +6, Ref +8, Will +9
+- **Defenses**: Fort 16, Ref 18, Will 19
 - **Abilities**: Str 16, Dex 20, Con 17, Int 14, Wis 17, Cha 19
 - **Skills**: [[rangoric-srd/skills/Emulation|Emulation]] +16, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +17, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +13, [[rangoric-srd/skills/Theology|Theology]] +14
 - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (aura of madness), [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -67,12 +67,12 @@ Seugathis speak Aklo and Undercommon.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +10): Constant—_[[rangoric-srd/spells/Mage Armor|mage armor]]_; At will—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 16), _[[rangoric-srd/spells/Levitate|levitate]]_; 3/day—_[[rangoric-srd/spells/Confusion|confusion]]_ (DC 18), _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 17); 1/day—_[[rangoric-srd/spells/Mind Fog|mind fog]]_ (DC 19), _[[rangoric-srd/spells/Phantasmal Killer|phantasmal killer]]_ (DC 18).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +10): Constant—_[[rangoric-srd/spells/Mage Armor|mage armor]]_; At will—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (+6 vs Will), _[[rangoric-srd/spells/Levitate|levitate]]_; 3/day—_[[rangoric-srd/spells/Confusion|confusion]]_ (+8 vs Will), _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_ (+7 vs Will); 1/day—_[[rangoric-srd/spells/Mind Fog|mind fog]]_ (+9 vs Will), _[[rangoric-srd/spells/Phantasmal Killer|phantasmal killer]]_ (+8).
 
-**Aura of Madness (Su)**: Any sane being within 30 feet of a conscious seugathi must make a DC 20 Will save each round or become [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1 round. A creature that fails 5 saves in a row becomes permanently insane, as per the insanity spell. A seugathi can suppress or activate this aura as a free action. This is a mind-affecting effect. The save DC is Charisma-based.
+**Aura of Madness (Su)**: Any sane being within 30 feet of a conscious seugathi is attacked at +10 vs Will each round, and on a hit becomes [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1 round. A creature the aura hits 5 times in a row becomes permanently insane, as per the insanity spell. A seugathi can suppress or activate this aura as a free action. This is a mind-affecting effect. The attack bonus is Charisma-based.
 
 **[[rangoric-srd/monsters/abilities/Confusion Command|Confusion Command]] (Su)**: As an immediate action, a seugathi can issue a telepathic command to a [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] creature within 30 feet. This allows the seugathi to pick a result from the confusion behavior table, rather than the confused creature rolling randomly for its actions that round.
 
 **[[rangoric-srd/monsters/abilities/Item Use|Item Use]] (Ex)**: A seugathi can utilize spell trigger devices as if it were a spellcaster of the appropriate class. As a free action by touch, it can identify all spell trigger properties an item has. Emulation is a class skill for seugathis.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Seugathi Venom|Seugathi Venom]]: Bite—injury; _save_ Fort DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Wis and deafness; _cure_ 2 consecutive saves. Deafness persists as long as the ability damage caused by the poison lasts. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Seugathi Venom|Seugathi Venom]]: Bite—injury; _attack_ +7 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Wis and deafness; _cure_ 2 consecutive misses. Deafness persists as long as the ability damage caused by the poison lasts. The attack bonus is Constitution-based.

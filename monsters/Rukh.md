@@ -15,7 +15,7 @@ full-attack: "2 bites +23 melee (2d8+12 plus grab) and 2 talons +23 melee (2d6+1
 space-reach: "20 ft./15 ft."
 special-attacks: "Swallow whole (2d8+12 bludgeoning and 1d6 acid damage, AC 17, 14 hp)"
 special-qualities: "Low-light vision"
-saves: "Fort +14, Ref +11, Will +7"
+defenses: "Fort 24, Ref 21, Will 17"
 abilities: "Str 34, Dex 15, Con 20, Int 2, Wis 13, Cha 11"
 skills: "Acrobatics –4, Perception +32"
 skill-ranks: "Acrobatics 0, Perception 20"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 20 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Swallow Whole|Swallow whole]] (2d8+12 bludgeoning and 1d6 acid damage, AC 17, 14 hp)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-- **Saves**: Fort +14, Ref +11, Will +7
+- **Defenses**: Fort 24, Ref 21, Will 17
 - **Abilities**: Str 34, Dex 15, Con 20, Int 2, Wis 13, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –4, [[rangoric-srd/skills/Perception|Perception]] +32
 - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Snatch|Snatch]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (talon), [[rangoric-srd/feats/Wingover|Wingover]]

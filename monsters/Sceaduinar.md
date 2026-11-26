@@ -14,9 +14,9 @@ cmd: "28"
 attack: "Bite +14 melee (1d6+3 plus 1d6 negative energy and energy drain) or wing +14 melee (1d6+1 plus 1d6 negative energy)"
 full-attack: "Bite +14 melee (1d6+3 plus 1d6 negative energy and energy drain) and 2 wings +9 melee (1d6+1 plus 1d6 negative energy)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Energy drain (1 level, DC 17), entropic touch, spell-like abilities"
+special-attacks: "Energy drain (1 level, +7 vs Fortitude), entropic touch, spell-like abilities"
 special-qualities: "Darkvision 120 ft., lifesense, low-light vision, entropic flesh, negative energy affinity, void child, damage reduction 10/adamantine or good, immunity to cold, death effects, disease, energy drain and poison, resistance to acid 10, electricity 10 and sonic 10, spell resistance 18"
-saves: "Fort +10, Ref +11, Will +5"
+defenses: "Fort 20, Ref 21, Will 15"
 abilities: "Str 17, Dex 20, Con 18, Int 13, Wis 14, Cha 17"
 skills: "Acrobatics +9, Escape Artist +17, Intimidation +15, Nature +13, Perception +17, Sense Motive +14, Stealth +25, Theology +17"
 skill-ranks: "Acrobatics 1, Escape Artist 9, Intimidation 9, Nature 9, Perception 12, Sense Motive 9, Stealth 9, Theology 13"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +14 melee (1d6+3 plus 1d6 negative energy and [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) or wing +14 melee (1d6+1 plus 1d6 negative energy)
 - **Full Attack**: Bite +14 melee (1d6+3 plus 1d6 negative energy and [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) and 2 wings +9 melee (1d6+1 plus 1d6 negative energy)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Energy Drain|Energy drain]] (1 level, DC 17), [[rangoric-srd/monsters/abilities/Entropic Touch|entropic touch]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Energy Drain|Energy drain]] (1 level, +7 vs Fortitude), [[rangoric-srd/monsters/abilities/Entropic Touch|entropic touch]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Lifesense|lifesense]], [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Entropic Flesh|entropic flesh]], [[rangoric-srd/monsters/abilities/Negative Energy Affinity|negative energy affinity]], [[rangoric-srd/monsters/abilities/Void Child|void child]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine or good, immunity to cold, death effects, disease, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, electricity 10 and sonic 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 18
-- **Saves**: Fort +10, Ref +11, Will +5
+- **Defenses**: Fort 20, Ref 21, Will 15
 - **Abilities**: Str 17, Dex 20, Con 18, Int 13, Wis 14, Cha 17
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Nature|Nature]] +13, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +25, [[rangoric-srd/skills/Theology|Theology]] +17
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -68,7 +68,7 @@ In a way, their hatred parallels that of another native of the Negative Energy P
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +12): Constant—_[[rangoric-srd/spells/Entropic Shield|entropic shield]]_, _[[rangoric-srd/spells/Hide from Undead|hide from undead]]_ (DC 14); At will—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 13), _[[rangoric-srd/spells/Dimension Door|dimension door]]_ (self only), _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_; 3/day—_[[rangoric-srd/spells/Death Knell|death knell]]_ (DC 15), _[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_, _[[rangoric-srd/spells/Enervation|enervation]]_, _[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]_ (DC 16), _[[rangoric-srd/spells/Silence|silence]]_; 1/day—_[[rangoric-srd/spells/Antilife Shell|antilife shell]]_, _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Harm|harm]]_ (DC 19), _[[rangoric-srd/spells/Slay Living|slay living]]_ (DC 18).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +12): Constant—_[[rangoric-srd/spells/Entropic Shield|entropic shield]]_, _[[rangoric-srd/spells/Hide from Undead|hide from undead]]_ (+4 vs Will); At will—_[[rangoric-srd/spells/Bleed|bleed]]_ (+3 vs Will), _[[rangoric-srd/spells/Dimension Door|dimension door]]_ (self only), _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_; 3/day—_[[rangoric-srd/spells/Death Knell|death knell]]_ (+5 vs Will), _[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_, _[[rangoric-srd/spells/Enervation|enervation]]_, _[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]_ (+6 vs Will), _[[rangoric-srd/spells/Silence|silence]]_; 1/day—_[[rangoric-srd/spells/Antilife Shell|antilife shell]]_, _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Harm|harm]]_ (+9 vs Will), _[[rangoric-srd/spells/Slay Living|slay living]]_ (+8 vs Fortitude).
 
 **[[rangoric-srd/monsters/abilities/Entropic Flesh|Entropic Flesh]] (Ex)**: Any creature that hits a sceaduinar with a melee attack takes 1d6 points of negative energy damage. Attacking with a weapon that provides reach allows a creature to avoid taking this damage.
 

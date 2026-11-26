@@ -15,7 +15,7 @@ full-attack: "2 hooves –3 melee (1d3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, scent, docile"
-saves: "Fort +5, Ref +4, Will +0"
+defenses: "Fort 15, Ref 14, Will 10"
 abilities: "Str 13, Dex 13, Con 14, Int 2, Wis 11, Cha 4"
 skills: "Perception +5"
 skill-ranks: "Perception 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Docile|docile]]
-- **Saves**: Fort +5, Ref +4, Will +0
+- **Defenses**: Fort 15, Ref 14, Will 10
 - **Abilities**: Str 13, Dex 13, Con 14, Int 2, Wis 11, Cha 4
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +5
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Run|Run]]

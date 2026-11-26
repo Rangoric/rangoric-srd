@@ -14,9 +14,9 @@ cmd: "39 (47 vs. trip)"
 attack: "Bite +25 melee (4d6+15/19–20) or sonic beams +17 ranged (5d6 sonic)"
 full-attack: "Bite +25 melee (4d6+15/19–20); or 3 sonic beams +17 ranged (5d6 sonic)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Staggering gaze, trample (1d10+15, DC 28), spell-like abilities"
+special-attacks: "Staggering gaze, trample (1d10+15, +18 vs Reflex), spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, cacophony (100 ft., DC 22), false heads, water dependency, immunity to mind-affecting effects, resistance to fire 10 and sonic 10"
-saves: "Fort +16, Ref +12, Will +8"
+defenses: "Fort 26, Ref 22, Will 18"
 abilities: "Str 30, Dex 15, Con 22, Int 11, Wis 16, Cha 19"
 skills: "Athletics +18, Deception +12, Perception +17, Stealth +17 (+21 in water)"
 skill-ranks: "Athletics 5, Deception 5, Perception 11, Stealth 16"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +25 melee (4d6+15/19–20) or sonic beams +17 ranged (5d6 sonic)
 - **Full Attack**: Bite +25 melee (4d6+15/19–20); or 3 sonic beams +17 ranged (5d6 sonic)
 - **Space/Reach**: 10 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Staggering Gaze|Staggering gaze]], [[rangoric-srd/monsters/abilities/Trample|trample]] (1d10+15, DC 28), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Staggering Gaze|Staggering gaze]], [[rangoric-srd/monsters/abilities/Trample|trample]] (1d10+15, +18 vs Reflex), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Cacophony|cacophony]] (100 ft., DC 22), [[rangoric-srd/monsters/abilities/False Heads|false heads]], [[rangoric-srd/monsters/abilities/Water Dependency|water dependency]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10 and sonic 10
-- **Saves**: Fort +16, Ref +12, Will +8
+- **Defenses**: Fort 26, Ref 22, Will 18
 - **Abilities**: Str 30, Dex 15, Con 22, Int 11, Wis 16, Cha 19
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +17 (+21 in water)
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Deafening Critical|Deafening Critical]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (confusion), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -68,7 +68,7 @@ Seaweed sirens speak Aklo.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 16th; concentration +19): At will—_[[rangoric-srd/spells/Shatter|shatter]]_ (DC 16); 3/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 18), quickened _[[rangoric-srd/spells/Confusion|confusion]]_ (DC 18); 1/day—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (DC 18, ranged touch attack, 30 ft.).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 16th; concentration +19): At will—_[[rangoric-srd/spells/Shatter|shatter]]_ (+6); 3/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (+8 vs Will), quickened _[[rangoric-srd/spells/Confusion|confusion]]_ (+8 vs Will); 1/day—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (+8 vs Will, ranged touch attack, 30 ft.).
 
 **[[rangoric-srd/monsters/abilities/Cacophony|Cacophony]] (Su)**: A seaweed siren's noises disrupt spellcasting; casting within 100 feet of a seaweed siren requires a concentration check (DC 15 + the level of the spell being cast). All other concentration checks and Perception checks involving hearing made inside the aura have their DCs increased by 5. A siren can begin or end this ability as a free action. This is a sonic effect.
 
@@ -76,6 +76,6 @@ Seaweed sirens speak Aklo.
 
 **Sonic Beams (Su)**: Each of the siren's false heads can fire a beam at a range of 60 feet, dealing 4d6 points of sonic damage.
 
-**[[rangoric-srd/monsters/abilities/Staggering Gaze|Staggering Gaze]] (Su)**: Staggered 1d6 rounds, 30 feet, Will DC 22 negates. This is a mind-affecting effect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Staggering Gaze|Staggering Gaze]] (Su)**: Staggered 1d6 rounds, 30 feet, +12 vs Will. This is a mind-affecting effect. The attack bonus is Charisma-based.
 
 **[[rangoric-srd/monsters/abilities/Water Dependency|Water Dependency]] (Ex)**: A seaweed siren can survive out of the water for 1 hour per point of Constitution (typically 22 rounds). Beyond this limit, a seaweed siren begins to suffocate.

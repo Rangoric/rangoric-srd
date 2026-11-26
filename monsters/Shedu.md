@@ -13,9 +13,9 @@ cmd: "36 (38 vs. bull rush, 40 vs. trip)"
 attack: "Gore +17 melee (2d8+7/19–20) or hoof +17 melee (1d6+3) or wing +17 melee (1d6+3)"
 full-attack: "Gore +17 melee (2d8+7/19–20) and 2 hooves +12 melee (1d6+3) and 2 wings +12 melee (1d6+3)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Trample (2d6+10, DC 22), spell-like abilities"
+special-attacks: "Trample (2d6+10, +12 vs Reflex), spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect chaos, detect evil, low-light vision, true seeing, fast healing 5, telepathy 100 ft., prescience, damage reduction 10/evil, resistance to electricity 10 and fire 10, spell resistance 20"
-saves: "Fort +12, Ref +14, Will +11"
+defenses: "Fort 22, Ref 24, Will 21"
 abilities: "Str 24, Dex 13, Con 20, Int 19, Wis 22, Cha 19"
 skills: "Acrobatics +17, Perception +20, Persuasion +15, Sense Motive +17, Theology +15"
 skill-ranks: "Acrobatics 15, Perception 11, Persuasion 8, Sense Motive 8, Theology 8"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Gore +17 melee (2d8+7/19–20) or hoof +17 melee (1d6+3) or wing +17 melee (1d6+3)
 - **Full Attack**: Gore +17 melee (2d8+7/19–20) and 2 hooves +12 melee (1d6+3) and 2 wings +12 melee (1d6+3)
 - **Space/Reach**: 10 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (2d6+10, DC 22), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (2d6+10, +12 vs Reflex), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect chaos, detect evil, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], true seeing, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Prescience|prescience]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20
-- **Saves**: Fort +12, Ref +14, Will +11
+- **Defenses**: Fort 22, Ref 24, Will 21
 - **Abilities**: Str 24, Dex 13, Con 20, Int 19, Wis 22, Cha 19
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Theology|Theology]] +15
 - **Feats**: [[rangoric-srd/feats/Empower Spell-Like Ability|Empower Spell-Like Ability]] (cure moderate wounds), [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (gore), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
@@ -69,6 +69,6 @@ Shedus speak Auran, Celestial and Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +16): Constant- _[[rangoric-srd/spells/Detect Chaos|detect chaos]]_, _[[rangoric-srd/spells/Detect Evil|detect evil]]_, _[[rangoric-srd/spells/True Seeing|true seeing]]_; 3/day-empowered _[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]], [[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]]_, _[[rangoric-srd/spells/Remove Disease|remove disease]]_, _[[rangoric-srd/spells/Shield Other|shield other]]_; 1/day—_[[rangoric-srd/spells/Dismissal|dismissal]]_ (DC 19), _[[rangoric-srd/spells/Flame Strike|flame strike]]_ (DC 19), _[[rangoric-srd/spells/Restoration|restoration]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +16): Constant- _[[rangoric-srd/spells/Detect Chaos|detect chaos]]_, _[[rangoric-srd/spells/Detect Evil|detect evil]]_, _[[rangoric-srd/spells/True Seeing|true seeing]]_; 3/day-empowered _[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]], [[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]]_, _[[rangoric-srd/spells/Remove Disease|remove disease]]_, _[[rangoric-srd/spells/Shield Other|shield other]]_; 1/day—_[[rangoric-srd/spells/Dismissal|dismissal]]_ (+9 vs Will), _[[rangoric-srd/spells/Flame Strike|flame strike]]_ (+9 vs Reflex), _[[rangoric-srd/spells/Restoration|restoration]]_.
 
-**[[rangoric-srd/monsters/abilities/Prescience|Prescience]] (Su)**: A shedu can see all the possible outcomes of any of its own futures. This grants the creature an insight bonus to its AC and on initiative checks and Reflex saves equal to its Wisdom bonus (+6 for most shedus).
+**[[rangoric-srd/monsters/abilities/Prescience|Prescience]] (Su)**: A shedu can see all the possible outcomes of any of its own futures. This grants the creature an insight bonus to its AC and on initiative checks and to Reflex Defense equal to its Wisdom bonus (+6 for most shedus).

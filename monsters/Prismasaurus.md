@@ -15,7 +15,7 @@ full-attack: "Bite +72 melee (8d10+11/ 19-20 (+1d6 on critical hit)), tail +67 (
 space-reach: "15 ft./10 ft."
 special-attacks: "Prismatic emanations"
 special-qualities: "Immunities, prismatic blur, SR 38, DR 10/-"
-saves: "Fort +41, Ref +39, Will +24"
+defenses: "Fort 51, Ref 49, Will 34"
 abilities: "Str 32, Dex 25, Con 29, Int 4, Wis 19, Cha 10"
 skills: "Perception +73"
 skill-ranks: "Perception 60"
@@ -49,7 +49,7 @@ Full Attack: Bite +72 melee (8d10+11/ 19-20 (+1d6 on critical hit)), tail +67 (1
 Space/Reach: 15 ft./10 ft.      
 Special Attacks: Prismatic emanations      
 Special Qualities: Immunities, prismatic blur, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 38, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/-      
-Saves: Fort +41, Ref +39, Will +24      
+Defenses: Fort 51, Ref 49, Will 34      
 Abilities: Str 32, Dex 25, Con 29, Int 4, Wis 19, Cha 10      
 Skills: [[rangoric-srd/skills/Perception|Perception]] +73     
 Feats: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]],  [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tail)  
@@ -63,7 +63,7 @@ Advancement: 61-90 HD (Huge); 91-150 HD (Gargantuan)   
 
 #### Combat
 
-Prismatic Emanations (Su): The reflected and refracted light from the prismasaurus’s crystalline ridge functions very similarly to the [[rangoric-srd/spells/Prismatic Spray|prismatic spray]] spell. Any creature of less than 8 HD that is within 30 feet of the creature is automatically [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 2d4 rounds. In addition, any creature within 20 feet of the prismasaurus is randomly struck by one or more rays of light, as determined by the table that accompanies the prismatic spray spell. This effect is as the prismatic spray spell in a 30-foot-radius spread, but is otherwise as cast by a 20th-level caster. The save DC for the prismatic spray effects is 49.
+Prismatic Emanations (Su): The reflected and refracted light from the prismasaurus’s crystalline ridge functions very similarly to the [[rangoric-srd/spells/Prismatic Spray|prismatic spray]] spell. Any creature of less than 8 HD that is within 30 feet of the creature is automatically [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 2d4 rounds. In addition, any creature within 20 feet of the prismasaurus is randomly struck by one or more rays of light, as determined by the table that accompanies the prismatic spray spell. This effect is as the prismatic spray spell in a 30-foot-radius spread, but is otherwise as cast by a 20th-level caster. The attack bonus for the prismatic spray effects is 49.
 
 Immunities (Su): It is immune to [[rangoric-srd/rules/Afflictions#Poison|poison]], gases, [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], and mind-affecting attacks.
 

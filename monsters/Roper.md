@@ -15,7 +15,7 @@ full-attack: "6 strands +10 ranged touch (1d6 Strength); or bite +20 melee (4d8+
 space-reach: "10 ft./10 ft."
 special-attacks: "Pull (strand, 5 feet), strands"
 special-qualities: "Darkvision 60 ft., low-light vision, immunity to electricity, resistance to cold 10, spell resistance 27, vulnerability to fire"
-saves: "Fort +13, Ref +5, Will +13"
+defenses: "Fort 23, Ref 15, Will 23"
 abilities: "Str 34, Dex 13, Con 29, Int 13, Wis 16, Cha 12"
 skills: "Athletics +27, Dungeoneering +16, Perception +24, Stealth +18 (+26 in stony or icy areas), Theology +13"
 skill-ranks: "Athletics 12, Dungeoneering 12, Perception 18, Stealth 18, Theology 9"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pull|Pull]] (strand, 5 feet), strands
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27, vulnerability to fire
-- **Saves**: Fort +13, Ref +5, Will +13
+- **Defenses**: Fort 23, Ref 15, Will 23
 - **Abilities**: Str 34, Dex 13, Con 29, Int 13, Wis 16, Cha 12
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +27, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +16, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Stealth|Stealth]] +18 (+26 in stony or icy areas), [[rangoric-srd/skills/Theology|Theology]] +13
 - **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (strand)
@@ -76,4 +76,4 @@ Ropers speak Aklo, Terran, and Undercommon.
 
 A roper hunts by standing very still and imitating a bit of rock. This tactic often allows it to attack with surprise. When prey comes within reach, it lashes out with its strands. In melee, it bites adjacent opponents with its powerful maw.
 
-**Strands (Ex)**: A roper can extend up to six thin, sticky strands from its body at a time, launching them to a maximum range of 50 feet. A roper's attacks with its strands resolve as ranged touch attacks. These strands are quite strong, but can be severed by any amount of slashing damage (a strand is AC 20). A creature struck by a strand is numbed and weakened by the strange material, and must make a DC 25 Fortitude save or take 1d6 points of Strength damage. The save DC is Constitution-based.
+**Strands (Ex)**: A roper can extend up to six thin, sticky strands from its body at a time, launching them to a maximum range of 50 feet. A roper's attacks with its strands resolve as ranged touch attacks. These strands are quite strong, but can be severed by any amount of slashing damage (a strand is AC 20). A creature struck by a strand is numbed and weakened by the strange material, and the strand attacks it at +15 vs Fortitude, and on a hit it takes 1d6 points of Strength damage. The attack bonus is Constitution-based.

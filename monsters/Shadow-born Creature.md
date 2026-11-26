@@ -43,7 +43,7 @@ Ordinary creatures and monsters that have the dubious fortune of being born in t
 
 **Special Qualities**: A shadow-born creature retains all of the base creature’s extraordinary, supernatural, and spell-like abilities, plus darkvision. Shadow-born creatures gain fey traits granting them resistance to illusion and enchantment spells. This imparts them with a +1 racial bonus to resist spells and spell-like abilities of this nature, increasing by +1 for every four levels the creature attains.
 
-**Saves**: Each of the base creature’s saves increases by +1.
+**Defenses**: Each of the base creature’s defenses increases by +1.
 
 **Abilities**: Increase from the base creature as follows: Str +2, Dex +4, Con +2, Int +4, Wis +4, Cha +4.
 
@@ -84,7 +84,7 @@ This example uses a gnarl as the base creature.
 - **Space/Reach**: 10 ft./15 ft.
 - **Special Attacks**: Improved grab, spell-like abilities
 - **Special Qualities**: Darkvision 60 ft., fey traits
-- **Saves**: Fort +9, Ref +12, Will +8
+- **Defenses**: Fort 19, Ref 22, Will 18
 - **Abilities**: Str 26, Dex 22, Con 22, Int 12, Wis 15, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +22*, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +21*
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]]
@@ -107,4 +107,4 @@ A shadow-born gnarl is quite familiar with the innate abilities it has gained fr
 
 **Skills**: Gnarls receive a +8 terrain bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks to climb and on [[rangoric-srd/skills/Stealth|Stealth]] checks while in mountains or hills (included in the stat block, marked \*).
 
-**Spell-Like Abilities (Sp)**: At will—_[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_; 1/day—_[[rangoric-srd/spells/Bad Luck|bad luck]]_, _[[rangoric-srd/spells/Disrobe|disrobe]]_, _[[rangoric-srd/spells/Fitful Sleep|fitful sleep]]_, _[[rangoric-srd/spells/Antilife Filter|anti-life filter]]_, _sleepless curse_. These abilities are as the spells cast by a 10th level sorcerer (save DC 10 + spell level).
+**Spell-Like Abilities (Sp)**: At will—_[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_; 1/day—_[[rangoric-srd/spells/Bad Luck|bad luck]]_, _[[rangoric-srd/spells/Disrobe|disrobe]]_, _[[rangoric-srd/spells/Fitful Sleep|fitful sleep]]_, _[[rangoric-srd/spells/Antilife Filter|anti-life filter]]_, _sleepless curse_. These abilities are as the spells cast by a 10th level sorcerer (attack bonus +0 + spell level).

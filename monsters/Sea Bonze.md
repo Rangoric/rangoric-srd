@@ -14,9 +14,9 @@ cmd: "40 (can't be tripped)"
 attack: "Slam +22 melee (4d10+10)"
 full-attack: "2 slams +22 melee (4d10+10)"
 space-reach: "20 ft./20 ft."
-special-attacks: "Capsize, dooming gaze (60 ft., DC 27)"
+special-attacks: "Capsize, dooming gaze (60 ft., +17 vs Will)"
 special-qualities: "Blindsight 120 ft., damage reduction 10/magic and slashing, immunity to cold and electricity, undead traits, resistance to acid 10 and fire 10"
-saves: "Fort +13, Ref +9, Will +19"
+defenses: "Fort 23, Ref 19, Will 29"
 abilities: "Str 30, Dex 11, Con —, Int 13, Wis 18, Cha 23"
 skills: "Athletics +47, Intimidation +41, Perception +35, Sense Motive +29, Stealth +13"
 skill-ranks: "Athletics 30, Intimidation 32, Perception 26, Sense Motive 26, Stealth 22"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +22 melee (4d10+10)
 - **Full Attack**: 2 slams +22 melee (4d10+10)
 - **Space/Reach**: 20 ft./20 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Capsize|Capsize]], [[rangoric-srd/monsters/abilities/Dooming Gaze|dooming gaze]] (60 ft., DC 27)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Capsize|Capsize]], [[rangoric-srd/monsters/abilities/Dooming Gaze|dooming gaze]] (60 ft., +17 vs Will)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 120 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic and slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and electricity, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and fire 10
-- **Saves**: Fort +13, Ref +9, Will +19
+- **Defenses**: Fort 23, Ref 19, Will 29
 - **Abilities**: Str 30, Dex 11, Con —, Int 13, Wis 18, Cha 23
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +47, [[rangoric-srd/skills/Intimidation|Intimidation]] +41, [[rangoric-srd/skills/Perception|Perception]] +35, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +29, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Stand Still|Stand Still]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -72,4 +72,4 @@ Sea bonzes speak Aquan and Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Dooming Gaze|Dooming Gaze]] (Su)**: Paralyzed with fear for 1 round, 60 feet, Will DC 27 negates. A creature that is already [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] by this gaze attack and fails a saving throw to resist being paralyzed for 1 more round gains 1 negative level (Fortitude DC 27 to remove after 24 hours). The paralysis effect of this gaze is a mind-affecting fear effect, but the negative level is not. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Dooming Gaze|Dooming Gaze]] (Su)**: Paralyzed with fear for 1 round, 60 feet, +17 vs Will. A creature that is already [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] by this gaze attack and is hit again, paralyzed for 1 more round, gains 1 negative level (+17 vs Fortitude to remove after 24 hours). The paralysis effect of this gaze is a mind-affecting fear effect, but the negative level is not. The attack bonus is Charisma-based.

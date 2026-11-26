@@ -15,7 +15,7 @@ full-attack: "-"
 space-reach: "1 ft./0 ft."
 special-attacks: "-"
 special-qualities: "Constructtraits, hardness 8, psicrystal granted abilities (improved evasion, personality, self-propulsion, share powers, sighted, telepathic link)"
-saves: "As master’s saves"
+defenses: "As master’s saves"
 abilities: "Str 1*, Dex 15*, Con -, Int 6, Wis 10, Cha 10"
 skills: "Athletics +6* (+14 climbing), Perception +7, Investigation +2, Stealth +18"
 feats: "Skill Focus (Perception)"
@@ -47,7 +47,7 @@ Full **Attack:** -   
 **Space/Reach:** 1 ft./0 ft.     
 **Special Attacks:** -     
 **Special Qualities:** [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]][[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|traits]], hardness 8, psicrystal granted abilities (improved evasion, personality, self-propulsion, share powers, sighted, telepathic link)     
-**Saves:** As master’s saves     
+**Defenses:** As master’s defenses     
 **Abilities:** Str 1\*, Dex 15\*, Con -, Int 6, Wis 10, Cha 10     
 **Skills:** [[rangoric-srd/skills/Athletics|Athletics]] +6\* (+14 climbing), [[rangoric-srd/skills/Investigation|Investigation]] +2, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +18     
 **Feats:** [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)     
@@ -65,9 +65,9 @@ The psicrystal described here is that of a 1st-level manifester.
 
 #### Combat
 
-A psicrystal’s characteristics depend on its master. Its Hit Dice are equal to its master’s Hit Dice (counting only levels in psion or wilder), its hit points are equal to half its master’s, and its saving throw bonuses are the same as its master’s.
+A psicrystal’s characteristics depend on its master. Its Hit Dice are equal to its master’s Hit Dice (counting only levels in psion or wilder), its hit points are equal to half its master’s, and its defenses are the same as its master’s.
 
-Construct Traits: A psicrystal has immunity to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep effects, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death effects, necromancy effects, mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects), and any effect that requires a Fortitude save unless it also works on objects or is harmless. It is not subject to critical hits, nonlethal damage, [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]], [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|ability drain]], [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigue]], [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhaustion]], or [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]]. It cannot heal damage, but it can be repaired. Psicrystals do not have the usual Construct traits of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|darkvision]] and [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]].
+Construct Traits: A psicrystal has immunity to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep effects, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death effects, necromancy effects, mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects), and any effect that attacks Fortitude unless it also works on objects or is harmless. It is not subject to critical hits, nonlethal damage, [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]], [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|ability drain]], [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigue]], [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhaustion]], or [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]]. It cannot heal damage, but it can be repaired. Psicrystals do not have the usual Construct traits of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|darkvision]] and [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]].
 
 Psicrystal Granted **Abilities:** The psicrystal described here has the special abilities of self-propulsion, keen senses, improved evasion, share powers, telepathic link, sighted, and personality (If its master chooses not to activate the self-propulsion ability, the psicrystal reverts to a speed of 0 feet and has no Strength score and no Dexterity score.)
 

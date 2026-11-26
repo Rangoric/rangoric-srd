@@ -15,9 +15,9 @@ cmd: "—"
 attack: "Swarm (5d6)"
 full-attack: "Swarm (5d6)"
 space-reach: "10 ft./0 ft."
-special-attacks: "Blinding, distraction (DC 45)"
+special-attacks: "Blinding, distraction (+35 vs Fortitude)"
 special-qualities: "Blindsense, fast healing 15, swarm traits, vermin traits"
-saves: "Fort +37, Ref +34, Will +22"
+defenses: "Fort 47, Ref 44, Will 32"
 abilities: "Str 3, Dex 42, Con 30, Int-, Wis 23, Cha 32"
 skills: "Athletics +49 (+57 climbing)"
 skill-ranks: "Athletics 50"
@@ -48,9 +48,9 @@ Base Attack: +37; CMB: —; CMD: —   
 Attack: Swarm (5d6)     
 Full Attack: Swarm (5d6)     
 Space/Reach: 10 ft./0 ft.     
-Special Attacks: Blinding, distraction (DC 45)     
+Special Attacks: Blinding, distraction (+35 vs Fortitude)     
 Special Qualities: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 15, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|vermin traits]]     
-Saves: Fort +37, Ref +34, Will +22     
+Defenses: Fort 47, Ref 44, Will 32     
 Abilities: Str 3, Dex 42, Con 30, Int-, Wis 23, Cha 32     
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +49 (+57 climbing)     
 Feats: -     
@@ -63,15 +63,15 @@ Advancement: None   
 
 #### Combat
 
-Blinding (Ex): Any living creature that begins its turn with a ruin swarm in its space must make a Fortitude save (DC 51) or be [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for one round. The save DC is Dexterity-based.
+Blinding (Ex): Any living creature that begins its turn with a ruin swarm in its space is attacked at +41 vs Fortitude, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for one round. The attack bonus is Dexterity-based.
 
 Blindsense (Ex): The ruin swarm notices and locates creatures within 200 ft. Opponents still have 100% concealment against the swarm (but swarm attacks ignore concealment).
 
-Distraction (Ex): Any living creature vulnerable to the swarm’s damage that begins its turn with a swarm in its square is [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round; a DC 45 Fortitude save negates the effect. Even with a successful save, spellcasting or concentrating on spells within the area of a swarm requires a [[rangoric-srd/spells/Magic Overview#Concentration|Concentration]] check (DC 20 + spell level). Using skills requiring patience and concentration requires a [[rangoric-srd/spells/Magic Overview#Concentration|Concentration]] check (DC 20). The save DC is Constitution-based.
+Distraction (Ex): Any living creature vulnerable to the swarm’s damage that begins its turn with a swarm in its square is [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round; it attacks at +35 vs Fortitude, and a miss negates the effect. Even on a miss, spellcasting or concentrating on spells within the area of a swarm requires a [[rangoric-srd/spells/Magic Overview#Concentration|Concentration]] check (DC 20 + spell level). Using skills requiring patience and concentration requires a [[rangoric-srd/spells/Magic Overview#Concentration|Concentration]] check (DC 20). The attack bonus is Constitution-based.
 
 Swarm Traits: A swarm has no clear front or back and no discernable anatomy, so it is not subject to critical hits or flanking. A swarm made up of Tiny creatures takes half damage from slashing and piercing weapons.  
 Reducing a swarm to 0 hit points or fewer causes the swarm to break up, though damage taken until that point does not degrade its ability to attack or resist attack. Swarms are never [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] or reduced to a [[rangoric-srd/rules/Special Abilities and Conditions#^dying|dying]] state by damage. Also, they cannot be [[rangoric-srd/combat/Combat Maneuvers#Trip|tripped]], [[rangoric-srd/combat/Combat Maneuvers#Grapple|grappled]], or [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rushed]], and they cannot grapple another.  
-A swarm is immune to any spell or effect that targets a specific number of creatures (including single-target spells such as [[rangoric-srd/spells/Disintegrate|disintegrate]]), with the exception of mind-affecting effects if the swarm has an intelligence score and a hive mind. A swarm takes a -10 penalty on saving throws against spells or effects that affect an area, such as many evocation spells or grenadelike weapons. If the area effect attack does not allow a saving throw, the swarm takes double damage instead.  
+A swarm is immune to any spell or effect that targets a specific number of creatures (including single-target spells such as [[rangoric-srd/spells/Disintegrate|disintegrate]]), with the exception of mind-affecting effects if the swarm has an intelligence score and a hive mind. A swarm takes a -10 penalty on defenses against spells or effects that affect an area, such as many evocation spells or grenadelike weapons. If the area effect does not attack a defense, the swarm takes double damage instead.  
 A swarm rendered [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] by means of subdual damage becomes disorganized and dispersed, and does not re-form until its hit points exceed its subdual damage.
 
 Vermin Traits: A ruin swarm is immune to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects). It also has darkvision (60-foot range).

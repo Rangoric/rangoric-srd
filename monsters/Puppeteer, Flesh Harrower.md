@@ -17,7 +17,7 @@ full-attack: "Bite +6 melee (1d6+2) and 2 tail blades +1 melee (1d4+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Psi-like abilities"
 special-qualities: "Blindsight 60 ft., telepathy 20 ft."
-saves: "Fort +8, Ref +6, Will +4"
+defenses: "Fort 18, Ref 16, Will 14"
 abilities: "Str 14, Dex 17, Con 21, Int 11, Wis 12, Cha 12"
 skills: "Perception +10, Stealth +13"
 skill-ranks: "Perception 3, Stealth 3"
@@ -50,7 +50,7 @@ Full **Attack:** Bite +6 melee (1d6+2) and 2 tail blades +1 melee (1d4+1)   
 **Space/Reach:** 5 ft./5 ft.     
 **Special Attacks:** Psi-like abilities     
 **Special Qualities:** [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 20 ft.     
-**Saves:** Fort +8, Ref +6, Will +4     
+**Defenses:** Fort 18, Ref 16, Will 14     
 **Abilities:** Str 14, Dex 17, Con 21, Int 11, Wis 12, Cha 12     
 **Skills:** [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +13     
 **Feats:** [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)     

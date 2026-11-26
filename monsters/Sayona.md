@@ -13,9 +13,9 @@ cmd: "29"
 attack: "Bite +18 melee (2d6+1 plus bleed and paralysis) or claw +18 melee (2d6+1 plus bleed and paralysis)"
 full-attack: "Bite +18 melee (2d6+1 plus bleed and paralysis) and 2 claws +18 melee (2d6+1 plus bleed and paralysis)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Absorb blood, blood drain (1d4 Con), fear cone (60 ft., DC 23), paralysis (1d4 rounds, DC 23), staggering gaze, spell-like abilities"
+special-attacks: "Absorb blood, blood drain (1d4 Con), fear cone (60 ft., +13 vs Will), paralysis (1d4 rounds, +13 vs Fortitude), staggering gaze, spell-like abilities"
 special-qualities: "Darkvision 60 ft., lifesense, fast healing 5 (see living form), channel resistance +4, create spawn, living form, undead traits, resistance to cold 30"
-saves: "Fort +10, Ref +12, Will +13"
+defenses: "Fort 20, Ref 22, Will 23"
 abilities: "Str 13, Dex 20, Con —, Int 11, Wis 12, Cha 21"
 skills: "Deception +14, Imitation +17, Perception +21, Persuasion +14, Sense Motive +12, Society +8, Stealth +16"
 skill-ranks: "Deception 6, Imitation 9, Perception 17, Persuasion 6, Sense Motive 8, Society 5, Stealth 8"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +18 melee (2d6+1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]) or claw +18 melee (2d6+1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
 - **Full Attack**: Bite +18 melee (2d6+1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]) and 2 claws +18 melee (2d6+1 plus [[rangoric-srd/monsters/abilities/Bleed|bleed]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Absorb Blood|Absorb blood]], [[rangoric-srd/monsters/abilities/Blood Drain|blood drain]] (1d4 Con), [[rangoric-srd/monsters/abilities/Fear|fear]] cone (60 ft., DC 23), [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] (1d4 rounds, DC 23), [[rangoric-srd/monsters/abilities/Staggering Gaze|staggering gaze]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Absorb Blood|Absorb blood]], [[rangoric-srd/monsters/abilities/Blood Drain|blood drain]] (1d4 Con), [[rangoric-srd/monsters/abilities/Fear|fear]] cone (60 ft., +13 vs Will), [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] (1d4 rounds, +13 vs Fortitude), [[rangoric-srd/monsters/abilities/Staggering Gaze|staggering gaze]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Lifesense|lifesense]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5 (see living form), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Create Spawn|create spawn]], [[rangoric-srd/monsters/abilities/Living Form|living form]], [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 30
-- **Saves**: Fort +10, Ref +12, Will +13
+- **Defenses**: Fort 20, Ref 22, Will 23
 - **Abilities**: Str 13, Dex 20, Con —, Int 11, Wis 12, Cha 21
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Imitation|Imitation]] +17, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
@@ -69,7 +69,7 @@ Sayonas speak Abyssal, Common and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +17): 3/day—_[[rangoric-srd/spells/Command Undead|command undead]]_ (DC 17), _[[rangoric-srd/spells/Dominate Person|dominate person]]_ (DC 20), _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_, _[[rangoric-srd/spells/Gaseous Form|gaseous form]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +17): 3/day—_[[rangoric-srd/spells/Command Undead|command undead]]_ (+7 vs Will), _[[rangoric-srd/spells/Dominate Person|dominate person]]_ (+10 vs Will), _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_, _[[rangoric-srd/spells/Gaseous Form|gaseous form]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_.
 
 **[[rangoric-srd/monsters/abilities/Absorb Blood|Absorb Blood]] (Su)**: A sayona adjacent to a bleeding creature automatically accelerates the bleeding, dealing 1 point of Con damage to that creature once per round on its turn and absorbing the blood through its skin.
 
@@ -77,4 +77,4 @@ Sayonas speak Abyssal, Common and Infernal.
 
 **[[rangoric-srd/monsters/abilities/Living Form|Living Form]] (Su)**: As a standard action, a sayona can transform into a young, beautiful person for 24 hours. It can only use this ability if it has absorbed or drained blood in the past hour. In this form, the sayona has the aura of a living creature instead of an undead (for the purpose of detect undead and similar effects), its fast healing increases to 10, positive energy attacks (such as channel energy) deal half damage to it, and it cannot use its fear cone or gaze attack. Exposure to holy water or positive energy attacks in this form reduces the duration of this transformation by 1d4 hours.
 
-**[[rangoric-srd/monsters/abilities/Staggering Gaze|Staggering Gaze]] (Su)**: Staggered for 1d4 rounds, 30 feet, Fortitude DC 23 negates. This is a mind-affecting effect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Staggering Gaze|Staggering Gaze]] (Su)**: Staggered for 1d4 rounds, 30 feet, +13 vs Fortitude. This is a mind-affecting effect. The attack bonus is Charisma-based.

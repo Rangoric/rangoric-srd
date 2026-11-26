@@ -15,7 +15,7 @@ full-attack: "Bite +10 melee (1d2–5)"
 space-reach: "1 ft./0 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, compression"
-saves: "Fort +2, Ref +6, Will +1"
+defenses: "Fort 12, Ref 16, Will 11"
 abilities: "Str 1, Dex 16, Con 9, Int 14, Wis 11, Cha 14"
 skills: "Arcana +5, Athletics +7, Perception +5, Sense Motive +2, Stealth +19, Theology +5"
 skill-ranks: "Arcana 3, Athletics 9, Perception 2, Sense Motive 2, Stealth 1, Theology 3"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 1 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Compression|compression]]
-- **Saves**: Fort +2, Ref +6, Will +1
+- **Defenses**: Fort 12, Ref 16, Will 11
 - **Abilities**: Str 1, Dex 16, Con 9, Int 14, Wis 11, Cha 14
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +19, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -75,4 +75,4 @@ Pipefoxes speak Common and Draconic.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +5): Constant—_[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_; 3/day—_[[rangoric-srd/spells/Augury|augury]]_, _[[rangoric-srd/spells/Vanish|vanish]]_; 1/day—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (DC 14), _[[rangoric-srd/spells/Divination|divination]]_, _[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]_ (self only).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +5): Constant—_[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_; 3/day—_[[rangoric-srd/spells/Augury|augury]]_, _[[rangoric-srd/spells/Vanish|vanish]]_; 1/day—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_ (+4 vs Will), _[[rangoric-srd/spells/Divination|divination]]_, _[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]_ (self only).
