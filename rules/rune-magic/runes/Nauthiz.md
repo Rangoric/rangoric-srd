@@ -19,7 +19,7 @@ _A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[ra
 
 Nauthiz is the rune of conflict and confusion, spreading strife and pain in its wake. It is not a widely favored rune because it does not spare the rune caster from its influence. Those attuned to Nauthiz tend to be argumentative and difficult, sometimes even betraying their friends for the sake of creating conflict. A rune caster attuned to Nauthiz may be attuned to Teiwaz at the same time.
 
-**Special Power**: While attuned to the Nauthiz rune, the rune caster gains a +2 enhancement bonus to all saving throws against spells with the lawful descriptor.
+**Special Power**: While attuned to the Nauthiz rune, the rune caster gains a +2 enhancement bonus to all defenses against spells with the lawful descriptor.
 
 **Spells Available** (by level; see [[rangoric-srd/rules/rune-magic/Rune Magic#The Runes|the runes]]):
 

@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "20-ft.-radius spread"
 duration: "Concentration"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Shadow|Shadow (Star Magic)]]"
@@ -32,7 +32,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Area**: 20-ft.-radius spread
 - **Duration**: Concentration
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 The shadows in the area grow and leap at your will, spoiling sight and aim. Choose one creature in the area per call level: as long as you concentrate, those creatures can't score critical threats (a natural roll in their threat range is just a hit).

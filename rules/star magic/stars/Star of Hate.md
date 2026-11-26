@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "10-ft.-radius spread"
 duration: "10 min./level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Hate|Hate (Star Magic)]]"
@@ -34,9 +34,9 @@ _[[rangoric-srd/rules/star magic/Star Magic|Star]]_ \[Mind-Affecting\]
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Area**: 10-ft.-radius spread
 - **Duration**: 10 min./level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-Each creature in the area that fails its save is filled with a murderous rage and turns on the nearest target it can justify attacking. A creature that succeeds feels only a flash of bitterness.
+Each creature in the area that fails its save is filled with a murderous rage and turns on the nearest target it can justify attacking. A creature it misses feels only a flash of bitterness.
 
 A raging creature's [[rangoric-srd/skills/Persuasion#Influencing NPC Attitudes|attitude]] becomes hostile, and no skill can improve it while the star lasts. At the 2nd call level and higher, raging creatures gain a +1 bonus per call level above 1st on damage rolls against the targets of their rage.

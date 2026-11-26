@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One creature touched per round"
 duration: "1 round/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Compassion|Compassion (Star Magic)]]"
@@ -32,7 +32,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 - **Range**: Touch
 - **Target**: One creature touched per round
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 While the star's light fills you, you can touch one creature each round and learn about its state. The creature must have an Intelligence of 3 or more and can't be an outsider. Touching an unwilling creature takes a touch attack.

@@ -12,7 +12,7 @@ range: "Touch"
 target: "One object"
 area: "15-ft.-radius around the object (see text)"
 duration: "12 hours"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Fire|Fire (Star Magic)]]"
@@ -34,7 +34,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 - **Target**: One object
 - **Area**: 15-ft.-radius around the object (see text)
 - **Duration**: 12 hours
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 The object you touch gives off as much warmth as a campfire for 12 hours. It sheds no light and is safe to touch.

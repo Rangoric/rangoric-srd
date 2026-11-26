@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One creature"
 duration: "1 hour/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Spinning Wheel|The Spinning Wheel (Star Magic)]]"
@@ -35,7 +35,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 - **Range**: Touch
 - **Target**: One creature
 - **Duration**: 1 hour/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 The target is dressed in a fine outfit of dark cloth, cut and decorated as you choose, which vanishes when the constellation ends. While wearing it, the target gains a +4 deflection bonus to AC and a +5 circumstance bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks, and has a 25% chance to turn a critical hit or sneak attack into a normal hit, as [[rangoric-srd/magic-items/armor-abilities/Fortification|light fortification]].

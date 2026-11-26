@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One creature"
 duration: "1 week"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Hammer|The Hammer (Star Magic)]]"
@@ -35,7 +35,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 - **Range**: Touch
 - **Target**: One creature
 - **Duration**: 1 week
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 The target can work long hours without tiring or losing focus. When it works out its week's progress with [[rangoric-srd/skills/Craft|Craft]], it doubles its check result before multiplying it by the item's DC.

@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "2 rounds + 1 round/level"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Death|Death (Star Magic)]]"
@@ -32,7 +32,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: 2 rounds + 1 round/level
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
-The star's light falls on one creature. If it fails its save, it takes 3 points of damage per call level at the start of each of its turns until the star's duration ends. On a successful save it feels only a moment of dread.
+The star's light falls on one creature. If it fails its save, it takes 3 points of damage per call level at the start of each of its turns until the star's duration ends. On a miss it feels only a moment of dread.

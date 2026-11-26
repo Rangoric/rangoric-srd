@@ -25,7 +25,7 @@ _Illusion (Glamer); [[rangoric-srd/rules/occult-rituals/Occult Rituals|occult ri
 - **Range**: close (25 ft. + 5 ft./character level of the primary caster)
 - **Area**: one 20-ft. cube/character level of the primary caster
 - **Duration**: permanent (D)
-- **Saving Throw**: Will disbelief (if interacted with)
+- **Defense**: Will disbelief (if interacted with)
 - **Spell Resistance**: no
 - **Backlash**: The primary caster gains 1 permanent [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative level]].
 - **Failure**: For 1 year, no caster can be targeted by any beneficial glamer effect (such as _invisibility_). This is a [[rangoric-srd/rules/Special Abilities and Conditions#Curses|curse effect]], and can be removed with _[[rangoric-srd/spells/Remove Curse|remove curse]]_ and similar effects.

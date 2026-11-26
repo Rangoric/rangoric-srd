@@ -18,7 +18,7 @@ range: "Medium (100 ft. + 10 ft./level)"
 area: "25-ft.-radius"
 effect: "1d6 hezrou"
 duration: "Until the battle ends (see text)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Trumpet|The Trumpet (Star Magic)]]"
@@ -40,7 +40,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 - **Area**: 25-ft.-radius
 - **Effect**: 1d6 hezrou
 - **Duration**: Until the battle ends (see text)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 A note rings out across the planes, and within 1 round 1d6 [[rangoric-srd/monsters/demon/Hezrou|hezrou]] appear in the area, eager for battle. They attack the creatures you point them at and kill as many as they can. If you call them when no battle is under way, they attack you, your companions and everyone else nearby until they are slain.

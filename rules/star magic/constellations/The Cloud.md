@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "500-ft.-radius spread"
 duration: "5 rounds/level"
-saving-throw: "Reflex half (see text)"
+defense: "Reflex half (see text)"
 spell-resistance: "No"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Cloud|The Cloud (Star Magic)]]"
@@ -34,7 +34,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Area**: 500-ft.-radius spread
 - **Duration**: 5 rounds/level
-- **Saving Throw**: Reflex half (see text)
+- **Defense**: Reflex half (see text)
 - **Spell Resistance**: No
 
 The sky over the area darkens at once, and black thunderclouds roll and rumble across it. At the 3rd call level they do nothing more: no rain, no harm, and they vanish when the constellation ends.

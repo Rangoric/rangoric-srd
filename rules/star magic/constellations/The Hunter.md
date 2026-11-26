@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "5 rounds/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Hunter|The Hunter (Star Magic)]]"
@@ -37,7 +37,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 5 rounds/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You draw a +5 [[rangoric-srd/magic-items/weapon-abilities/Distance|distance]] longbow and a quiver of forty +3 [[rangoric-srd/magic-items/weapon-abilities/Brilliant Energy|brilliant energy]] arrows out of the starlight, and you're proficient with longbows while they last. If you try to share the bow or the arrows with anyone, they vanish at once.

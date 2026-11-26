@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "15 ft."
 target: "You and one creature/level, all within a 15-ft.-radius"
 duration: "1 round/level"
-saving-throw: "Reflex negates (harmless)"
+defense: "Reflex (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Wind|Wind (Star Magic)]]"
@@ -32,7 +32,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 - **Range**: 15 ft.
 - **Target**: You and one creature/level, all within a 15-ft.-radius
 - **Duration**: 1 round/level
-- **Saving Throw**: Reflex negates (harmless)
+- **Defense**: Reflex (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 The winds rise around you and your companions. Each target gains a +3 bonus per call level on [[rangoric-srd/skills/Acrobatics|Acrobatics]] checks and on [[rangoric-srd/skills/Athletics#Jumping|Athletics]] checks to jump, ignores the height limits on its jumps, and gains a +5-foot bonus to its speed (this bonus doesn't grow with call level).

@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Personal"
 area: "5-ft./level-radius emanation centered on you"
 duration: "3 rounds/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Revelation|Revelation (Star Magic)]]"
@@ -32,7 +32,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 - **Range**: Personal
 - **Area**: 5-ft./level-radius emanation centered on you
 - **Duration**: 3 rounds/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 Clear, colorless light surrounds you and brings out details that would otherwise go unseen, without hiding any color or texture. You gain a +3 bonus per call level on [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Investigation|Investigation]] checks.

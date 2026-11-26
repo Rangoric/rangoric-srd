@@ -15,7 +15,7 @@ range: "Personal"
 target: "You"
 area: "20-ft.-radius emanation centered on you"
 duration: "1 round/level"
-saving-throw: "Fortitude negates (thrown out only)"
+defense: "Fortitude (thrown out only)"
 spell-resistance: "Yes"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Bridge of Birds|The Bridge of Birds (Star Magic)]]"
@@ -37,13 +37,13 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 - **Target**: You
 - **Area**: 20-ft.-radius emanation centered on you
 - **Duration**: 1 round/level
-- **Saving Throw**: Fortitude negates (thrown out only)
+- **Defense**: Fortitude (thrown out only)
 - **Spell Resistance**: Yes
 
 A windstorm whirls around you and lifts you into the air.
 
 - No ranged attack can hit a creature inside the windstorm.
-- A creature in the area that takes a hostile action, friend or foe, must succeed on a Fortitude save or be thrown out of the area.
+- A creature in the area that takes a hostile action, friend or foe, has its Fortitude attacked and, if it fails its save, is thrown out of the area.
 - The wind carries you through the air toward a point you choose, at 20 feet per round.
 
 **Higher call levels**: You move 20 feet per round faster for each call level above 5th.

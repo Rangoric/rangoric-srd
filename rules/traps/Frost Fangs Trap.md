@@ -23,4 +23,4 @@ A sample trap; how traps work, and what each line means, is in [[rangoric-srd/ru
 - **Trigger**: location
 - **Reset**: none
 - **Duration**: 3 rounds
-- **Effect**: jets of freezing water (3d6 cold damage, DC 20 Reflex save for half damage); multiple targets (all targets in a 40-ft.-square chamber)
+- **Effect**: jets of freezing water (3d6 cold damage, +10 vs Reflex half); multiple targets (all targets in a 40-ft.-square chamber)

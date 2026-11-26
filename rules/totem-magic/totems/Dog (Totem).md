@@ -26,4 +26,4 @@ _A totem of [[rangoric-srd/rules/totem-magic/Totem Magic|totem magic]], for the 
 4. _[[rangoric-srd/spells/Discern Lies|discern lies]]_
 5. _[[rangoric-srd/spells/Atonement|atonement]]_
 
-**Totem Ability**: The totem mage receives a +1 luck bonus on all saving throws.
+**Totem Ability**: The totem mage receives a +1 luck bonus on all defenses.

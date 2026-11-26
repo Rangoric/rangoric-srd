@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "Two creatures"
 duration: "Instantaneous (bonuses: 1 hour/level)"
-saving-throw: "Fortitude negates (see text)"
+defense: "Fortitude (see text)"
 spell-resistance: "Yes"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Scale|The Scale (Star Magic)]]"
@@ -37,9 +37,9 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: Two creatures
 - **Duration**: Instantaneous (bonuses: 1 hour/level)
-- **Saving Throw**: Fortitude negates (see text)
+- **Defense**: Fortitude (see text)
 - **Spell Resistance**: Yes
 
-You take life force from one target and give it to the other. The first gains 1d4 [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative levels]] (Fortitude negates); the save to remove them a day later uses this constellation's DC.
+You take life force from one target and give it to the other. The first gains 1d4 [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative levels]] (Fortitude); their daily attack, from a day later, uses this constellation's attack bonus.
 
-For each negative level the first target gains, the second gains 1 Hit Die and a +1 competence bonus on attack rolls, saving throws, skill checks, ability checks and effective level, for 1 hour per caster level.
+For each negative level the first target gains, the second gains 1 Hit Die and a +1 competence bonus on attack rolls, defenses, skill checks, ability checks and effective level, for 1 hour per caster level.

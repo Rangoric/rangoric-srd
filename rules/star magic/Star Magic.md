@@ -86,9 +86,9 @@ Calling a star or constellation works like casting a spell, unless its own note 
 - Calling while distracted takes a [[rangoric-srd/rules/Concentration (Check)|caster level check]], as casting a spell does.
 - A constellation can be called only by a caster who knows every one of its stars; calling it doesn't spend or need the stars themselves.
 
-### Saves, Spell Resistance and Damage
+### Defenses, Spell Resistance and Damage
 
-- The save DC of a star or constellation is that of a spell of its call level: a star called with a 4th-level slot has a 4th-level spell's DC.
+- The attack bonus of a star or constellation is that of a spell of its call level: a star called with a 4th-level slot has a 4th-level spell's attack bonus.
 - Spell resistance applies as it does to spells, and [[rangoric-srd/feats/Spell Penetration|Spell Penetration]] helps against it.
 - Damage has the type its note gives, and resistances to that type apply.
 

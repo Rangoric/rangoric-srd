@@ -18,7 +18,7 @@ The Positive Energy Plane has the following traits (what each means is in [[rang
 
 - **Subjective Directional Gravity**
 - **Major Positive-Dominant**: Some regions of the plane have the minor positive-dominant trait instead, and those islands tend to be inhabited.
-- **Enhanced Magic**: Spells and spell-like abilities that use positive energy are enhanced. Class abilities that use positive energy, such as channel positive energy, gain a +4 bonus to the save DC to resist the ability.
+- **Enhanced Magic**: Spells and spell-like abilities that use positive energy are enhanced. Class abilities that use positive energy, such as channel positive energy, gain a +4 bonus to the ability’s attack bonus.
 - **Impeded Magic**: Spells and spell-like abilities that use negative energy (including inflict spells) are impeded.
 
 [[rangoric-srd/rules/Planes|Planes]] describes this plane too: see [[rangoric-srd/rules/Planes#Positive Energy Plane|Positive Energy Plane]].

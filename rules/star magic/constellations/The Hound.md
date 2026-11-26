@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "1 mile/level"
 effect: "One incorporeal hound"
 duration: "Concentration"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Hound|The Hound (Star Magic)]]"
@@ -36,7 +36,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 - **Range**: 1 mile/level
 - **Effect**: One incorporeal hound
 - **Duration**: Concentration
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 A waist-high hound of pale blue light appears and shares its senses with you. It goes wherever you will it at a speed of 100 feet, can pass through walls less than 1 foot thick, and has [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] to 100 feet, a +15 bonus on [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Investigation|Investigation]] and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks, [[rangoric-srd/rules/Special Abilities and Conditions#Scent|scent]] and the [[rangoric-srd/feats/Track|Track]] feat.

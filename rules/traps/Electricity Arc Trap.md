@@ -22,4 +22,4 @@ A sample trap; how traps work, and what each line means, is in [[rangoric-srd/ru
 - **[[rangoric-srd/skills/Engineering|Engineering]]**: DC 20 to disable
 - **Trigger**: touch
 - **Reset**: none
-- **Effect**: electricity arc (4d6 electricity damage, DC 20 Reflex save for half damage); multiple targets (all targets in a 30-ft. line)
+- **Effect**: electricity arc (4d6 electricity damage, +10 vs Reflex half); multiple targets (all targets in a 30-ft. line)

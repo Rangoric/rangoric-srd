@@ -26,7 +26,7 @@ _Necromancy \[Evil\]; [[rangoric-srd/rules/occult-rituals/Occult Rituals|occult 
 - **Range**: touch
 - **Target**: caster
 - **Duration**: instantaneous
-- **Saving Throw**: none
+- **Defense**: none
 - **Spell Resistance**: no
 - **Backlash**: The caster is reduced to –1 hit points.
 - **Failure**: The caster is slain.

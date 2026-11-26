@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Freedom|Freedom (Star Magic)]]"
@@ -32,7 +32,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
-The light frees a mind. The target at once gets a new saving throw against each mind-affecting spell or effect that controls its actions. At the 2nd call level and higher it gains a +2 bonus on these saves per call level above 1st.
+The light frees a mind. Each mind-affecting spell or effect that controls the target's actions at once attacks it again, and ends if it misses. At the 2nd call level and higher the target gains a +2 bonus on its defense against these attacks per call level above 1st.

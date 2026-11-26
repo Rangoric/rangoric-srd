@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "One horse/2 levels"
 duration: "One journey (see text)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Steed|The Steed (Star Magic)]]"
@@ -36,7 +36,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: One horse/2 levels
 - **Duration**: One journey (see text)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You call up one steed per 2 caster levels. Each is a [[rangoric-srd/monsters/horse/Warhorse, Heavy|heavy warhorse]] with 10 Hit Dice and the [[rangoric-srd/monsters/celestial-creature/Celestial Creature|celestial]] template, fully saddled and harnessed, and carries one rider. Together they make one journey to a single destination you choose when they set out, covering a mile each minute, and then vanish. If every rider is good, the steeds fight beside them and help in other ways if needed.

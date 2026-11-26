@@ -19,7 +19,7 @@ _A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[ra
 
 Isa is commonly known as the rune of ice, but it also has influence over challenges and obstacles. Woodcutters, explorers, and those who enjoy a good challenge in the wilderness favor it. Those attuned to Isa can be distant and unfriendly, but they are always up for a challenge or contest.
 
-**Special Power**: While attuned to the Isa rune, the character receives a +2 enhancement bonus to any saving throws against spells with the cold descriptor.
+**Special Power**: While attuned to the Isa rune, the character receives a +2 enhancement bonus to its defenses against spells with the cold descriptor.
 
 **Spells Available** (by level; see [[rangoric-srd/rules/rune-magic/Rune Magic#The Runes|the runes]]):
 
