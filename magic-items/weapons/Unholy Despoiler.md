@@ -17,5 +17,5 @@ tags: [rangoric, rangoric/magic-item, epic]
 
 # Unholy Despoiler
 
-In the hands of any character other than a blackguard, this sword performs as a +3 unholy longsword. In the hands of a blackguard, this weapon functions as a +7 longsword of unholy power and grants a +5 profane bonus on the wielder’s saving throws against spells with the good descriptor or spells cast by good characters. If a blackguard wielder smites good with the unholy despoiler, he or she adds twice his or her blackguard level to damage (rather than his or her blackguard level).  
+In the hands of any character other than a blackguard, this sword performs as a +3 unholy longsword. In the hands of a blackguard, this weapon functions as a +7 longsword of unholy power and grants a +5 profane bonus on the wielder’s defenses against spells with the good descriptor or spells cast by good characters. If a blackguard wielder smites good with the unholy despoiler, he or she adds twice his or her blackguard level to damage (rather than his or her blackguard level).  
 Caster Level: 23rd; Prerequisites: Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, blasphemy, unholy aura, unholy blight; Market Price: 4,650,315 gp; Cost to Create: 2,325,315 gp + 56,500 XP.

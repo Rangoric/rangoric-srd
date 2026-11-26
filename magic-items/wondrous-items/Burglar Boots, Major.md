@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Burglar Boots, Major
 
-These boots look and act as the _minor burglar boots_, but grant a +10 competence bonus on Perception checks and to AC and on Reflex saves. Also, once per day on command, these boots grant the wearer the ability to use _[[rangoric-srd/spells/Find Traps|find traps]]_ as the spell.
+These boots look and act as the _minor burglar boots_, but grant a +10 competence bonus on Perception checks and to AC and Reflex Defense. Also, once per day on command, these boots grant the wearer the ability to use _[[rangoric-srd/spells/Find Traps|find traps]]_ as the spell.
 
 Moderate divination; CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Find Traps|find traps]]_, creator must have at least 12 ranks in Perception; Price 46,000 gp; Cost 23,000 gp; Weight 1/2 lb.

@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Sword of Life Stealing
 
-This black iron +2 longsword bestows a negative level when it deals a critical hit. The sword wielder gains 1d6 temporary hit points each time a negative level is bestowed on another. These temporary hit points last for 24 hours. One day after being struck, subjects must make a DC 16 Fortitude save for each negative level or the negative level becomes [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent]].
+This black iron +2 longsword bestows a negative level when it deals a critical hit. The sword wielder gains 1d6 temporary hit points each time a negative level is bestowed on another. These temporary hit points last for 24 hours. Each day the negative levels attack the subject’s Fortitude again at +6, as [[rangoric-srd/rules/Special Abilities and Conditions#^negative-level-save|temporary negative levels]] do.
 
 Strong necromancy; CL 17th; Craft Magic Arms and Armor, enervation; Price 25,715 gp; Cost 12,857 gp and 5 sp + 1,029 XP.

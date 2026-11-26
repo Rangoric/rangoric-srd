@@ -17,5 +17,5 @@ tags: [rangoric, rangoric/magic-item, epic]
 
 # Cloak of Epic Resistance +10
 
-These garments offer magic protection in the form of a +6 or higher resistance bonus on all saving throws (Fortitude, Reflex, and Will).  
+These garments offer magic protection in the form of a +6 or higher resistance bonus on all defenses (Fortitude, Reflex, and Will).  
 Caster Level: 20th; Prerequisites: Craft Wondrous Item, Craft Epic Wondrous Item, resistance, creator’s caster level must be three times the cloak’s bonus; Market Price: 1,000,000 gp; Weight: 1 lb.
