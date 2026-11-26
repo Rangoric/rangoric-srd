@@ -16,7 +16,7 @@ full-attack: "Shortspear +7 melee (1d6+5) and bite +2 melee (1d4+2)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, bravery +1, deformities (oversized maw, weak mind)"
-saves: "Fort +7, Ref +1, Will +1"
+defenses: "Fort 17, Ref 11, Will 11"
 abilities: "Str 21, Dex 13, Con 18, Int 8, Wis 12, Cha 6"
 skills: "Athletics +10"
 skill-ranks: "Athletics 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], bravery +1, deformities (oversized maw, weak mind)
-- **Saves**: Fort +7, Ref +1, Will +1
+- **Defenses**: Fort 17, Ref 11, Will 11
 - **Abilities**: Str 21, Dex 13, Con 18, Int 8, Wis 12, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
@@ -87,7 +87,7 @@ The result of an unfortunate union between an ogre and a humanoid, the ogrekin (
 
 2: _Oversized Maw_: The ogrekin gains a bite attack (1d4).
 
-5: _Quick Metabolism_: The ogrekin gains a +2 racial bonus on Fortitude saves.
+5: _Quick Metabolism_: The ogrekin gains a +2 racial bonus on Fortitude Defense.
 
 4: _Thick Skin_: Improve natural armor bonus by +2.
 
@@ -107,6 +107,6 @@ The result of an unfortunate union between an ogre and a humanoid, the ogrekin (
 
 5: _Stunted Legs_: The ogrekin's base speed is reduced by 10 feet (minimum base speed of 5 feet).
 
-6: _Weak Mind_: The ogrekin's head is huge and misshapen. It gains a –2 penalty on Will saving throws.
+6: _Weak Mind_: The ogrekin's head is huge and misshapen. It gains a –2 penalty on Will Defense.
 
 Ogrekins speak Giant.

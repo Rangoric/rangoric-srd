@@ -16,7 +16,7 @@ full-attack: "Light hammer +4 melee (1d4+1); or light hammer +3 ranged (1d4+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., orc ferocity, orc blood, weapon familiarity"
-saves: "Fort +2, Ref +1, Will +3"
+defenses: "Fort 12, Ref 11, Will 13"
 abilities: "Str 13, Dex 10, Con 12, Int 12, Wis 8, Cha 11"
 skills: "Acrobatics +6, Athletics +6, Craft (carpentry) +11, Deception +5, Engineering +8, Escape Artist +2, Intimidation +9, Perception +4, Persuasion +5, Society +8"
 skill-ranks: "Acrobatics 3, Athletics 2, Craft (carpentry) 7, Deception 2, Engineering 4, Escape Artist 2, Intimidation 6, Perception 2, Persuasion 2, Society 4"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/races/Half-Orc|weapon familiarity]]
-- **Saves**: Fort +2, Ref +1, Will +3
+- **Defenses**: Fort 12, Ref 11, Will 13
 - **Abilities**: Str 13, Dex 10, Con 12, Int 12, Wis 8, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Craft|Craft]] (carpentry) +11, [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Engineering|Engineering]] +8, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +2, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Society|Society]] +8
 - **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft \[carpentry\])

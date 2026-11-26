@@ -14,9 +14,9 @@ cmd: "21 (can't be tripped)"
 attack: "Slam +14 melee (2d6+13 plus 2d6 grab, and burn)"
 full-attack: "Slam +14 melee (2d6+13 plus 2d6 grab, and burn)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Burn (2d6, DC 19), constrict (2d6+13 plus burn)"
+special-attacks: "Burn (2d6, +9 vs Reflex), constrict (2d6+13 plus burn)"
 special-qualities: "Blindsight 60 ft., split (cold and slashing, 8 hp), lava body, immunity to fire, ooze traits, vulnerability to cold, vulnerability to water"
-saves: "Fort +8, Ref –2, Will –2"
+defenses: "Fort 18, Ref 8, Will 8"
 abilities: "Str 28, Dex 1, Con 21, Int —, Wis 1, Cha 1"
 skills: "Athletics +17"
 skill-ranks: "Athletics 5"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +14 melee (2d6+13 plus 2d6 grab, and burn)
 - **Full Attack**: Slam +14 melee (2d6+13 plus 2d6 grab, and burn)
 - **Space/Reach**: 10 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (2d6, DC 19), [[rangoric-srd/monsters/abilities/Constrict|constrict]] (2d6+13 plus burn)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (2d6, +9 vs Reflex), [[rangoric-srd/monsters/abilities/Constrict|constrict]] (2d6+13 plus burn)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Split|split]] (cold and slashing, 8 hp), [[rangoric-srd/monsters/abilities/Lava Body|lava body]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], vulnerability to cold, [[rangoric-srd/monsters/abilities/Vulnerable to Water|vulnerability to water]]
-- **Saves**: Fort +8, Ref –2, Will –2
+- **Defenses**: Fort 18, Ref 8, Will 8
 - **Abilities**: Str 28, Dex 1, Con 21, Int —, Wis 1, Cha 1
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17
 - **Feats**: —
@@ -75,10 +75,10 @@ Differing types of molten stone and the nature of the magic that created them ca
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Lava Body|Lava Body]] (Ex)**: The magma ooze is formed of molten rock. Whenever a creature strikes a magma ooze with a weapon, that weapon takes 4d6 points of fire damage unless the attacker makes a DC 19 Fortitude save. Damage caused to weapons in this manner is not halved, but hardness does help prevent some of the damage dealt. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Lava Body|Lava Body]] (Ex)**: The magma ooze is formed of molten rock. Whenever a creature strikes a magma ooze with a weapon, the heat attacks the attacker at +9 vs Fortitude, and on a hit that weapon takes 4d6 points of fire damage. Damage caused to weapons in this manner is not halved, but hardness does help prevent some of the damage dealt. The attack bonus is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Vulnerable to Water|Vulnerability to Water]] (Ex)**: A significant amount of water, such as that created by a create water spell, the contents of a large bucket, or a blow from a water elemental, that strikes a magma ooze forces the creature to make a DC 20 Fortitude save to avoid being [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 2d4 rounds. A magma ooze that is immersed in water must make a DC 20 Fortitude save each round (this DC increases by +1 each subsequent round) or become [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrified]], reverting once the water is gone.
+**[[rangoric-srd/monsters/abilities/Vulnerable to Water|Vulnerability to Water]] (Ex)**: A significant amount of water, such as that created by a create water spell, the contents of a large bucket, or a blow from a water elemental, that strikes a magma ooze attacks the creature at +10 vs Fortitude, and on a hit it is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 2d4 rounds. A magma ooze that is immersed in water is attacked by the water at +10 vs Fortitude each round (this attack bonus increases by +1 each subsequent round), and on a hit becomes [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrified]], reverting once the water is gone.
 
 **Poisonous**: Whether from toxic metals or magical contamination, these oozes are deadly poison in addition to mobile burning death. A poisonous ooze is +1 CR.
 
-_Magma Ooze Poison_: Slam—injury; _save_ Fort DC 19; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con; _cure_ 2 consecutive saves.
+_Magma Ooze Poison_: Slam—injury; _attack_ +9 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con; _cure_ 2 consecutive misses.

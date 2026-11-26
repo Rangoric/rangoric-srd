@@ -16,7 +16,7 @@ full-attack: "+1 orc double axe +19/+14 melee (1d8+9/19–20/×3); or +1 orc dou
 space-reach: "5 ft./5 ft."
 special-attacks: "Weapon training (axes +2, bows +1)"
 special-qualities: "Darkvision 60 ft., bravery +3, ferocity, armor training 2, weapon familiarity, light sensitivity"
-saves: "Fort +9, Ref +6, Will +1 (+3 vs. fear)"
+defenses: "Fort 19, Ref 16, Will 11 (+3 vs. fear)"
 abilities: "Str 18, Dex 16, Con 14, Int 8, Wis 6, Cha 10"
 skills: "Intimidation +12, Perception +3"
 skill-ranks: "Intimidation 9, Perception 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (axes +2, bows +1)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +3, [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 2, [[rangoric-srd/races/Orc|weapon familiarity]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +9, Ref +6, Will +1 (+3 vs. fear)
+- **Defenses**: Fort 19, Ref 16, Will 11 (+3 vs. fear)
 - **Abilities**: Str 18, Dex 16, Con 14, Int 8, Wis 6, Cha 10
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +3
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]] (orc double axe), [[rangoric-srd/feats/Grudge Fighter|Grudge Fighter]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (orc double axe), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Orc Weapon Expertise|Orc Weapon Expertise]] (killer), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (orc double axe)

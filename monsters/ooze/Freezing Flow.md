@@ -16,7 +16,7 @@ full-attack: "Slam +6 melee (2d4+6/19–20 plus 1d6 cold and grab)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Constrict (2d4+6 plus 1d6 cold), jagged slam, numbing touch"
 special-qualities: "Blindsense 60 ft., crystalline, immunity to cold, ooze traits, vulnerable to fire"
-saves: "Fort +6, Ref +3, Will –4"
+defenses: "Fort 16, Ref 13, Will 6"
 abilities: "Str 18, Dex 16, Con 20, Int —, Wis 1, Cha 1"
 skills: "Athletics +12"
 skill-ranks: "Athletics 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d4+6 plus 1d6 cold), [[rangoric-srd/monsters/abilities/Jagged Slam|jagged slam]], [[rangoric-srd/monsters/abilities/Numbing Touch|numbing touch]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 60 ft., [[rangoric-srd/monsters/abilities/Crystalline|crystalline]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], vulnerable to fire
-- **Saves**: Fort +6, Ref +3, Will –4
+- **Defenses**: Fort 16, Ref 13, Will 6
 - **Abilities**: Str 18, Dex 16, Con 20, Int —, Wis 1, Cha 1
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12
 - **Feats**: —
@@ -77,4 +77,4 @@ When hungry, the only things freezing flows avoid are fire and high temperatures
 
 **[[rangoric-srd/monsters/abilities/Jagged Slam|Jagged Slam]] (Ex)**: A freezing flow's slam attack is a slashing tendril of crystalline ice. It deals slashing damage instead of bludgeoning damage and has a critical range of 19-20.
 
-**[[rangoric-srd/monsters/abilities/Numbing Touch|Numbing Touch]] (Ex)**: Each time a freezing flow deals cold damage with its slam attack or constrict ability, the target must succeed at a DC 17 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] with numbing cold for 1 round. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Numbing Touch|Numbing Touch]] (Ex)**: Each time a freezing flow deals cold damage with its slam attack or constrict ability, the cold attacks the target at +7 vs Fortitude, and on a hit the target is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] with numbing cold for 1 round. The attack bonus is Constitution-based.

@@ -16,7 +16,7 @@ full-attack: "Masterwork falchion +7 melee (2d4+4/18–20); or masterwork heavy 
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., orc ferocity, bloodline arcana (change energy damage spells to fire), orc blood, weapon familiarity, resistance to fire 10"
-saves: "Fort +3, Ref +3, Will +7"
+defenses: "Fort 13, Ref 13, Will 17"
 abilities: "Str 16, Dex 12, Con 13, Int 8, Wis 10, Cha 16"
 skills: "Arcana +3, Intimidation +11, Linguistics +0, Mysticism +4, Perception +7"
 skill-ranks: "Arcana 1, Intimidation 5, Linguistics 1, Mysticism 2, Perception 4"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/class-options/bloodlines/Elemental Bloodline|bloodline arcana]] (change energy damage spells to fire), [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/races/Half-Orc|weapon familiarity]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
-- **Saves**: Fort +3, Ref +3, Will +7
+- **Defenses**: Fort 13, Ref 13, Will 17
 - **Abilities**: Str 16, Dex 12, Con 13, Int 8, Wis 10, Cha 16
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +3, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Linguistics|Linguistics]] +0, [[rangoric-srd/skills/Mysticism|Mysticism]] +4, [[rangoric-srd/skills/Perception|Perception]] +7
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (evocation), [[rangoric-srd/feats/Toughness|Toughness]]
@@ -77,4 +77,4 @@ A bloodfire sorcerer speaks Common, Ignan, and Orc.
 
 **Bloodline Spell-Like Abilities** (CL 7th; concentration +10): 6/day—[[rangoric-srd/class-options/bloodlines/Elemental Bloodline|elemental ray]] (1d6+3 fire).
 
-**Sorcerer spells known** (CL 7th; concentration +10): 3rd (5/day)—_[[rangoric-srd/spells/Fireball|fireball]]_ (DC 17), _[[rangoric-srd/spells/Haste|haste]]_, _[[rangoric-srd/spells/Protection from Energy|protection from energy]]_; 2nd (7/day)—_[[rangoric-srd/spells/Blur|blur]], [[rangoric-srd/spells/False Life|false life]]_, _[[rangoric-srd/spells/Glitterdust|glitterdust]]_ (DC 15), _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_; 1st (7/day)—_[[rangoric-srd/spells/Burning Hands|burning hands]]_ (DC 15), _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Magic Weapon|magic weapon]]_, _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_ (DC 14), _[[rangoric-srd/spells/Shield|shield]]_; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 13), _[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Flare|flare]]_ (DC 14), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Ray of Frost|ray of frost]]_ (fire), _[[rangoric-srd/spells/Read Magic|read magic]]_; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Elemental Bloodline|elemental (fire)]].
+**Sorcerer spells known** (CL 7th; concentration +10): 3rd (5/day)—_[[rangoric-srd/spells/Fireball|fireball]]_ (+7 vs Reflex), _[[rangoric-srd/spells/Haste|haste]]_, _[[rangoric-srd/spells/Protection from Energy|protection from energy]]_; 2nd (7/day)—_[[rangoric-srd/spells/Blur|blur]], [[rangoric-srd/spells/False Life|false life]]_, _[[rangoric-srd/spells/Glitterdust|glitterdust]]_ (+5 vs Will), _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_; 1st (7/day)—_[[rangoric-srd/spells/Burning Hands|burning hands]]_ (+5 vs Reflex), _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Magic Weapon|magic weapon]]_, _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_ (+4), _[[rangoric-srd/spells/Shield|shield]]_; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (+3 vs Will), _[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Flare|flare]]_ (+4 vs Fortitude), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Ray of Frost|ray of frost]]_ (fire), _[[rangoric-srd/spells/Read Magic|read magic]]_; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Elemental Bloodline|elemental (fire)]].

@@ -16,7 +16,7 @@ full-attack: "Masterwork greatclub +10 melee (1d10+6); or 2 claws +9 melee (1d6+
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, regeneration 5 (acid or fire), change shape (any human; alter self), spell resistance 15"
-saves: "Fort +7, Ref +4, Will +6"
+defenses: "Fort 17, Ref 14, Will 16"
 abilities: "Str 18, Dex 17, Con 16, Int 12, Wis 15, Cha 17"
 skills: "Arcana +8, Deception +11, Emulation +11, Imitation +7, Intimidation +11, Mysticism +5, Perception +10, Sense Motive +10, Stealth +4"
 skill-ranks: "Arcana 4, Deception 5, Emulation 5, Imitation 1, Intimidation 5, Mysticism 1, Perception 5, Sense Motive 5, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or fire), [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (any human; alter self), [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 15
-- **Saves**: Fort +7, Ref +4, Will +6
+- **Defenses**: Fort 17, Ref 14, Will 16
 - **Abilities**: Str 18, Dex 17, Con 16, Int 12, Wis 15, Cha 17
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Emulation|Emulation]] +11, [[rangoric-srd/skills/Imitation|Imitation]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Mysticism|Mysticism]] +5, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +4
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]]
@@ -72,4 +72,4 @@ Kuwas speak Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 5th; concentration +8): 3/day—_[[rangoric-srd/spells/Darkness|darkness]]_, _[[rangoric-srd/spells/Fly|fly]]_; 1/day—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 14), _[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (DC 16), _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 5th; concentration +8): 3/day—_[[rangoric-srd/spells/Darkness|darkness]]_, _[[rangoric-srd/spells/Fly|fly]]_; 1/day—_[[rangoric-srd/spells/Charm Person|charm person]]_ (+4 vs Will), _[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (+6 vs Will), _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only).

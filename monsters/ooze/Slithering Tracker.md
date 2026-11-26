@@ -15,7 +15,7 @@ full-attack: "2 slams +7 melee (1d6+3 plus grab and paralysis)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Blood drain (1d2 Constitution), grab (Colossal)"
 special-qualities: "Blindsense 60 ft., transparent, immunity to mind-affecting effects, ooze traits"
-saves: "Fort +7, Ref +5, Will +1"
+defenses: "Fort 17, Ref 15, Will 11"
 abilities: "Str 16, Dex 18, Con 23, Int 11, Wis 10, Cha 1"
 skills: "Athletics +11, Perception +7, Stealth +20"
 skill-ranks: "Athletics 5, Perception 4, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d2 Constitution), [[rangoric-srd/monsters/abilities/Grab|grab]] (Colossal)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 60 ft., [[rangoric-srd/monsters/abilities/Transparent|transparent]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]]
-- **Saves**: Fort +7, Ref +5, Will +1
+- **Defenses**: Fort 17, Ref 15, Will 11
 - **Abilities**: Str 16, Dex 18, Con 23, Int 11, Wis 10, Cha 1
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +20
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
@@ -72,6 +72,6 @@ Although intelligent and cunning, slithering trackers are entirely alien creatur
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Paralysis|Paralysis]] (Ex)**: Any creature that is hit by a slithering tracker's slam attack comes into contact with the anesthetizing slime it secretes. The opponent must succeed on a DC 18 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]]—at the end of each round thereafter, the paralyzed victim can attempt a new Fortitude save to recover from this paralysis. When a victim recovers from a slithering tracker's paralysis, the victim is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1d6 rounds. This DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Paralysis|Paralysis]] (Ex)**: Any creature that is hit by a slithering tracker's slam attack comes into contact with the anesthetizing slime it secretes. The slime attacks the opponent at +8 vs Fortitude, and on a hit it is [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]]—at the end of each round thereafter, the slime attacks the paralyzed victim again, and a miss ends the paralysis. When a victim recovers from a slithering tracker's paralysis, the victim is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1d6 rounds. This attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Transparent|Transparent]] (Ex)**: Because of its lack of coloration, a slithering tracker is difficult to discern from its surroundings in most environments. The slithering tracker gains a +8 racial bonus on Stealth checks as a result, and can move at full speed without taking a penalty on Stealth checks. A creature that fails to notice a slithering tracker and walks into it automatically takes damage as if struck by the slithering tracker's slam attack and is immediately subject to a grab attempt and paralysis by the ooze.

@@ -16,7 +16,7 @@ full-attack: "Greatsword +14/+9 melee (3d6+10); or composite longbow +10 ranged 
 space-reach: "10 ft./10 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, regeneration 5 (fire or acid), change shape (Small, Medium, or Large humanoid; alter self or giant form I), flight, spell resistance 19"
-saves: "Fort +12, Ref +5, Will +10"
+defenses: "Fort 22, Ref 15, Will 20"
 abilities: "Str 24, Dex 17, Con 23, Int 14, Wis 14, Cha 17"
 skills: "Acrobatics +5, Arcana +13, Deception +14, Emulation +14, Imitation +14, Intimidation +14, Mysticism +13, Perception +13, Sense Motive +13"
 skill-ranks: "Acrobatics 1, Arcana 8, Deception 8, Emulation 8, Imitation 8, Intimidation 8, Mysticism 8, Perception 8, Sense Motive 8"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (fire or acid), [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (Small, Medium, or Large humanoid; alter self or giant form I), [[rangoric-srd/monsters/abilities/Flight|flight]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
-- **Saves**: Fort +12, Ref +5, Will +10
+- **Defenses**: Fort 22, Ref 15, Will 20
 - **Abilities**: Str 24, Dex 17, Con 23, Int 14, Wis 14, Cha 17
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Arcana|Arcana]] +13, [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Emulation|Emulation]] +14, [[rangoric-srd/skills/Imitation|Imitation]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]]
@@ -110,4 +110,4 @@ Ogre mage characters possess the following racial traits.
 
 - Level adjustment +7.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th): Constant—_[[rangoric-srd/spells/Fly|fly]]_; At will—_[[rangoric-srd/spells/Darkness|darkness]], [[rangoric-srd/spells/Invisibility|invisibility]]_; 1/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 17), _[[rangoric-srd/spells/Cone of Cold|cone of cold]]_ (DC 18), _[[rangoric-srd/spells/Gaseous Form|gaseous form]], [[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (DC 16).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th): Constant—_[[rangoric-srd/spells/Fly|fly]]_; At will—_[[rangoric-srd/spells/Darkness|darkness]], [[rangoric-srd/spells/Invisibility|invisibility]]_; 1/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (+7 vs Will), _[[rangoric-srd/spells/Cone of Cold|cone of cold]]_ (+8 vs Reflex), _[[rangoric-srd/spells/Gaseous Form|gaseous form]], [[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (+6 vs Will).

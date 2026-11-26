@@ -16,7 +16,7 @@ full-attack: "Masterwork greataxe +5 melee (1d12+3/×3); or shortbow +1 ranged (
 space-reach: "5 ft./5 ft."
 special-attacks: "Smite evil 1/day (+1 attack and AC, +2 damage)"
 special-qualities: "Darkvision 60 ft., orc ferocity, aura, code of conduct, lay on hands (1d6, 2/day), orc blood, weapon familiarity"
-saves: "Fort +7, Ref +0, Will +5"
+defenses: "Fort 17, Ref 10, Will 15"
 abilities: "Str 15, Dex 8, Con 16, Int 10, Wis 12, Cha 13"
 skills: "Intimidation +3, Medicine +5, Perception +2, Sense Motive +6"
 skill-ranks: "Intimidation 2, Medicine 1, Perception 1, Sense Motive 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Paladin#^paladin-smite-evil|Smite evil]] 1/day (+1 attack and AC, +2 damage)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/classes/Paladin|aura]], [[rangoric-srd/classes/Paladin#^paladin-code-of-conudct|code of conduct]], [[rangoric-srd/classes/Paladin#^paladin-lay-on-hands|lay on hands]] (1d6, 2/day), [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/races/Half-Orc|weapon familiarity]]
-- **Saves**: Fort +7, Ref +0, Will +5
+- **Defenses**: Fort 17, Ref 10, Will 15
 - **Abilities**: Str 15, Dex 8, Con 16, Int 10, Wis 12, Cha 13
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +3, [[rangoric-srd/skills/Medicine|Medicine]] +5, [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6
 - **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]]

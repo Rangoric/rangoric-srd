@@ -16,7 +16,7 @@ full-attack: "Bite +7 melee (1d6+5 plus trip) and 2 claws +7 melee (1d4+5)"
 space-reach: "10 ft./10 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision, regeneration 5 (acid or fire), ogre blood"
-saves: "Fort +6, Ref +2, Will +3"
+defenses: "Fort 16, Ref 12, Will 13"
 abilities: "Str 20, Dex 13, Con 14, Int 5, Wis 10, Cha 5"
 skills: "Athletics +9, Perception +6, Stealth +1 (+5 in dim light or darkness)"
 skill-ranks: "Athletics 1, Perception 3, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (acid or fire), [[rangoric-srd/monsters/abilities/Ogre Blood|ogre blood]]
-- **Saves**: Fort +6, Ref +2, Will +3
+- **Defenses**: Fort 16, Ref 12, Will 13
 - **Abilities**: Str 20, Dex 13, Con 14, Int 5, Wis 10, Cha 5
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +1 (+5 in dim light or darkness)
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Night Stalker|Night Stalker]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)

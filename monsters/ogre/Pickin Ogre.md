@@ -20,6 +20,6 @@ These tall, bone-thin ogres have thick, bark-like skin and spiked growths all ov
 
 **Challenge Rating**: As base creature +0.
 
-**Quick Rules**: +2 on AC, –1 hp/HD, and –1 on Fortitude saves and Constitution checks; gains 2 claw attacks (1d6); +4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks in forests.
+**Quick Rules**: +2 on AC, –1 hp/HD, and –1 to Fortitude Defense and on Constitution checks; gains 2 claw attacks (1d6); +4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks in forests.
 
 **Rebuild Rules**: **Ability Scores** –2 Constitution, +2 natural armor bonus; **Attacks** gains 2 claw attacks (1d6); **Special** +4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks in forests.

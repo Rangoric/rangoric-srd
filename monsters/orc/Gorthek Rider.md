@@ -16,7 +16,7 @@ full-attack: "+1 lance +12/+7 melee (1d8+7/×3); or javelin +7/+2 ranged (1d6+4)
 space-reach: "5 ft./5 ft."
 special-attacks: "Banner +2/+1, cavalier's charge, challenge (+7, +2, 3/day)"
 special-qualities: "Darkvision 60 ft., ferocity, expert trainer +3, mount (gorthek), order of the cockatrice (braggart), tactician (2/day, 6 rounds, standard action), weapon familiarity, light sensitivity"
-saves: "Fort +8, Ref +3, Will +3"
+defenses: "Fort 18, Ref 13, Will 13"
 abilities: "Str 19, Dex 10, Con 14, Int 6, Wis 10, Cha 12"
 skills: "Animal Handling +10, Intimidation +13, Perception +6"
 skill-ranks: "Animal Handling 5, Intimidation 9, Perception 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Cavalier#^cavalier-banner|Banner]] +2/+1, [[rangoric-srd/classes/Cavalier#^cavalier-cavaliers-charge|cavalier's charge]], [[rangoric-srd/classes/Cavalier#^cavalier-challenge|challenge]] (+7, +2, 3/day)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/classes/Cavalier#^cavalier-expert-trainer|expert trainer]] +3, [[rangoric-srd/classes/Cavalier#^cavalier-mount|mount]] ([[rangoric-srd/monsters/Gorthek|gorthek]]), [[rangoric-srd/class-options/orders/Order of the Cockatrice|order of the cockatrice]] ([[rangoric-srd/class-options/orders/Order of the Cockatrice|braggart]]), [[rangoric-srd/classes/Cavalier#^cavalier-tactician|tactician]] (2/day, 6 rounds, standard action), [[rangoric-srd/races/Orc|weapon familiarity]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +8, Ref +3, Will +3
+- **Defenses**: Fort 18, Ref 13, Will 13
 - **Abilities**: Str 19, Dex 10, Con 14, Int 6, Wis 10, Cha 12
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +6
 - **Feats**: [[rangoric-srd/feats/Beast Rider|Beast Rider]] (gorthek), [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Horde Charge|Horde Charge]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling)

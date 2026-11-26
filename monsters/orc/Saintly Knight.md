@@ -14,9 +14,9 @@ cmd: "22"
 attack: "+1 lance +14 melee (1d8+5/×3) or +1 heavy mace +14 melee (1d8+5) or masterwork heavy crossbow +9 ranged (1d10/19–20)"
 full-attack: "+1 lance +14/+9 melee (1d8+5/×3); or +1 heavy mace +14/+9 melee (1d8+5); or masterwork heavy crossbow +9 ranged (1d10/19–20)"
 space-reach: "5 ft./5 ft. (10 ft. with lance)"
-special-attacks: "Channel positive energy (DC 16, 5d6), smite evil 3/day (+2 attack and AC, +9 damage), turn undead"
+special-attacks: "Channel positive energy (+6 vs Will, 5d6), smite evil 3/day (+2 attack and AC, +9 damage), turn undead"
 special-qualities: "Darkvision 60 ft., aura of courage (10 ft.), aura of resolve (10 ft.), orc ferocity, aura, code of conduct, divine bond (weapon +2, 2/day), lay on hands (4d6, 6/day), mercies (frightened, shaken, staggered), orc blood, weapon familiarity, immunity to charm, disease and fear, resistance to fire 10, special mount, remove disease 2/week"
-saves: "Fort +10, Ref +5, Will +12"
+defenses: "Fort 20, Ref 15, Will 22"
 abilities: "Str 18, Dex 8, Con 12, Int 10, Wis 13, Cha 15"
 skills: "Animal Handling +6, Intimidation +4, Perception +9, Society +1, Theology +5"
 skill-ranks: "Animal Handling 1, Intimidation 2, Perception 5, Society 1, Theology 2"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: +1 [[rangoric-srd/equipment/weapons/Lance|lance]] +14 melee (1d8+5/×3) or +1 [[rangoric-srd/equipment/weapons/Heavy Mace|heavy mace]] +14 melee (1d8+5) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +9 ranged (1d10/19–20)
 - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Lance|lance]] +14/+9 melee (1d8+5/×3); or +1 [[rangoric-srd/equipment/weapons/Heavy Mace|heavy mace]] +14/+9 melee (1d8+5); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]] +9 ranged (1d10/19–20)
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with lance)
-- **Special Attacks**: [[rangoric-srd/classes/Paladin#^paladin-channel-positive-energy|Channel positive energy]] (DC 16, 5d6), [[rangoric-srd/classes/Paladin#^paladin-smite-evil|smite evil]] 3/day (+2 attack and AC, +9 damage), [[rangoric-srd/classes/Paladin#^paladin-turn-undead|turn undead]]
+- **Special Attacks**: [[rangoric-srd/classes/Paladin#^paladin-channel-positive-energy|Channel positive energy]] (+6 vs Will, 5d6), [[rangoric-srd/classes/Paladin#^paladin-smite-evil|smite evil]] 3/day (+2 attack and AC, +9 damage), [[rangoric-srd/classes/Paladin#^paladin-turn-undead|turn undead]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Paladin#^paladin-aura-of-courage|aura of courage]] (10 ft.), [[rangoric-srd/classes/Paladin#^paladin-aura-of-resolve|aura of resolve]] (10 ft.), [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/classes/Paladin|aura]], [[rangoric-srd/classes/Paladin#^paladin-code-of-conudct|code of conduct]], [[rangoric-srd/classes/Paladin#^paladin-divine-bond|divine bond]] (weapon +2, 2/day), [[rangoric-srd/classes/Paladin#^paladin-lay-on-hands|lay on hands]] (4d6, 6/day), [[rangoric-srd/classes/Paladin#^paladin-mercy|mercies]] ([[rangoric-srd/class-options/mercies/Frightened (Mercy)|frightened]], [[rangoric-srd/class-options/mercies/Shaken (Mercy)|shaken]], [[rangoric-srd/class-options/mercies/Staggered (Mercy)|staggered]]), [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/races/Half-Orc|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to charm, disease and fear, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10, [[rangoric-srd/classes/Paladin#^paladin-special-mount|special mount]], [[rangoric-srd/classes/Paladin#^paladin-remove-disease|remove disease]] 2/week
-- **Saves**: Fort +10, Ref +5, Will +12
+- **Defenses**: Fort 20, Ref 15, Will 22
 - **Abilities**: Str 18, Dex 8, Con 12, Int 10, Wis 13, Cha 15
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Society|Society]] +1, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Spirited Charge|Spirited Charge]]

@@ -14,8 +14,8 @@ attack: "Tentacle +13 melee touch (1d6 electricity plus neural pulse)"
 full-attack: "2 tentacles +13 melee touch (1d6 electricity plus neural pulse)"
 space-reach: "2-1/2 feet/0 ft."
 special-attacks: "Spell-like abilities"
-special-qualities: "Blindsight 60 ft., psychic noise (10 ft., DC 19), telepathy 100 ft., evasion, prescience, ooze traits"
-saves: "Fort +6, Ref +9, Will +6"
+special-qualities: "Blindsight 60 ft., psychic noise (10 ft., +9 vs Will), telepathy 100 ft., evasion, prescience, ooze traits"
+defenses: "Fort 16, Ref 19, Will 16"
 abilities: "Str 4, Dex 19, Con 16, Int 15, Wis 12, Cha 19"
 skills: "Acrobatics +25, Deception +10, Perception +11, Persuasion +5, Sense Motive +11, Stealth +15"
 skill-ranks: "Acrobatics 14, Deception 3, Perception 7, Persuasion 1, Sense Motive 7, Stealth 3"
@@ -49,8 +49,8 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: 2 tentacles +13 melee touch (1d6 electricity plus neural pulse)
 - **Space/Reach**: 2-1/2 feet/0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Psychic Noise|psychic noise]] (10 ft., DC 19), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., evasion, [[rangoric-srd/monsters/abilities/Prescience (Brain Ooze)|prescience]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]]
-- **Saves**: Fort +6, Ref +9, Will +6
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Psychic Noise|psychic noise]] (10 ft., +9 vs Will), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., evasion, [[rangoric-srd/monsters/abilities/Prescience (Brain Ooze)|prescience]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]]
+- **Defenses**: Fort 16, Ref 19, Will 16
 - **Abilities**: Str 4, Dex 19, Con 16, Int 15, Wis 12, Cha 19
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +25, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +15
 - **Feats**: [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -74,10 +74,10 @@ Brain oozes understand Aklo but can't speak.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +14): Constant—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_; At will—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 18), _[[rangoric-srd/spells/Dominate Animal|dominate animal]]_ (DC 17), _[[rangoric-srd/spells/Dominate Person|dominate person]]_ (DC 19); 3/day—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Modify Memory|modify memory]]_ (DC 18).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +14): Constant—_[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_; At will—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (+8 vs Will), _[[rangoric-srd/spells/Dominate Animal|dominate animal]]_ (+7 vs Will), _[[rangoric-srd/spells/Dominate Person|dominate person]]_ (+9 vs Will); 3/day—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Modify Memory|modify memory]]_ (+8 vs Will).
 
-**Neural Pulse (Su)**: Creatures hit by a brain ooze's tentacle must succeed at a DC 18 Fortitude save or take 1d6 points of Intelligence damage and be [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1d4 rounds. Each time a brain ooze causes Intelligence damage, it gains 5 temporary hit points. The save DC is Constitution-based.
+**Neural Pulse (Su)**: Creatures hit by a brain ooze's tentacle is attacked at +8 vs Fortitude, and on a hit takes 1d6 points of Intelligence damage and be [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1d4 rounds. Each time a brain ooze causes Intelligence damage, it gains 5 temporary hit points. The attack bonus is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Prescience (Brain Ooze)|Prescience]] (Su)**: Limited precognitive abilities grant a brain ooze a +2 insight bonus on initiative checks, on Reflex saves, and to its Armor Class. Brain oozes are never surprised or flat-footed.
+**[[rangoric-srd/monsters/abilities/Prescience (Brain Ooze)|Prescience]] (Su)**: Limited precognitive abilities grant a brain ooze a +2 insight bonus on initiative checks, to Reflex Defense, and to its Armor Class. Brain oozes are never surprised or flat-footed.
 
-**[[rangoric-srd/monsters/abilities/Psychic Noise|Psychic Noise]] (Su)**: The discordant psychic noise emitted by a brain ooze dazes nearby creatures for 1d4 rounds. When a creature begins its turn within the aura, it must succeed at a DC 19 Will save to negate this effect. Whether or not the save is successful, that creature cannot be affected again by the same brain ooze's psychic noise for 24 hours. An affected creature may attempt a new save to shake off the effect at the end of each of its turns. This is a mind-affecting effect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Psychic Noise|Psychic Noise]] (Su)**: The discordant psychic noise emitted by a brain ooze dazes nearby creatures for 1d4 rounds. When a creature begins its turn within the aura, the aura attacks it at +9 vs Will, and a miss negates this effect. Whether the attack hits or misses, that creature cannot be affected again by the same brain ooze's psychic noise for 24 hours. The aura attacks an affected creature again at the end of each of its turns, and a miss shakes off the effect. This is a mind-affecting effect. The attack bonus is Charisma-based.

@@ -15,7 +15,7 @@ full-attack: "Slam +17 melee (8d6+19 plus 1d4 Con drain and grab)"
 space-reach: "30 ft./30 ft."
 special-attacks: "Absorb flesh, constrict (8d6+19 plus 1d4 Con drain)"
 special-qualities: "Blindsight 60 ft., tremorsense 120 ft., reactive strike, split (sonic or slashing, 32 hp), damage reduction 10/-; Immune acid, ooze traits, resistance to electricity 30 and fire 30, vulnerable to cold"
-saves: "Fort +12, Ref +5, Will +0"
+defenses: "Fort 22, Ref 15, Will 10"
 abilities: "Str 36, Dex 11, Con 24, Int —, Wis 1, Cha 1"
 skills: "Athletics +21"
 skill-ranks: "Athletics 5"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 30 ft./30 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Absorb Flesh|Absorb flesh]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] (8d6+19 plus 1d4 Con drain)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 120 ft., [[rangoric-srd/monsters/abilities/Reactive Strike|reactive strike]], [[rangoric-srd/monsters/abilities/Split|split]] (sonic or slashing, 32 hp), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-; Immune acid, ooze traits, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 30 and fire 30, vulnerable to cold
-- **Saves**: Fort +12, Ref +5, Will +0
+- **Defenses**: Fort 22, Ref 15, Will 10
 - **Abilities**: Str 36, Dex 11, Con 24, Int —, Wis 1, Cha 1
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +21
 - **Feats**: —

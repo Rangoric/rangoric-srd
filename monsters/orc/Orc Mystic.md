@@ -14,9 +14,9 @@ cmd: "14"
 attack: "Battleaxe +5 melee (1d8+3/×3) or javelin +1 ranged (1d6+3)"
 full-attack: "Battleaxe +5 melee (1d8+3/×3); or javelin +1 ranged (1d6+3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Channel negative energy 4/day (DC 12, 2d6), rebuke undead"
+special-attacks: "Channel negative energy 4/day (+2 vs Will, 2d6), rebuke undead"
 special-qualities: "Darkvision 60 ft., ferocity, weapon familiarity, light sensitivity"
-saves: "Fort +5, Ref +1, Will +5"
+defenses: "Fort 15, Ref 11, Will 15"
 abilities: "Str 17, Dex 8, Con 12, Int 8, Wis 13, Cha 12"
 skills: "Perception +2, Stealth +4, Theology +4"
 skill-ranks: "Perception 1, Stealth 2, Theology 2"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/weapons/Battleaxe|Battleaxe]] +5 melee (1d8+3/×3) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +1 ranged (1d6+3)
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Battleaxe|Battleaxe]] +5 melee (1d8+3/×3); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +1 ranged (1d6+3)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 4/day (DC 12, 2d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]]
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 4/day (+2 vs Will, 2d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/races/Orc|weapon familiarity]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +5, Ref +1, Will +5
+- **Defenses**: Fort 15, Ref 11, Will 15
 - **Abilities**: Str 17, Dex 8, Con 12, Int 8, Wis 13, Cha 12
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +4, [[rangoric-srd/skills/Theology|Theology]] +4
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
@@ -79,4 +79,4 @@ An orc mystic speaks Common and Orc.
 
 **Domain Spell-Like Abilities** (CL 3rd; concentration +4): 4/day—[[rangoric-srd/class-options/domains/Trickery Domain|copycat]] (3 rounds), [[rangoric-srd/class-options/domains/Evil Domain|touch of evil]] (1 rounds).
 
-**Cleric spells prepared** (CL 3rd; concentration +4): 2nd—_[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_ <sup>D</sup>; 1st—_[[rangoric-srd/spells/Bane|bane]]_ (DC 12), _[[rangoric-srd/spells/Magic Weapon|magic weapon]]_, _[[rangoric-srd/spells/Murderous Command|murderous command]]_ (DC 12), _[[rangoric-srd/spells/Protection from Good|protection from good]]_ <sup>D</sup>; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 11), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Evil Domain|Evil]], [[rangoric-srd/class-options/domains/Trickery Domain|Trickery]].
+**Cleric spells prepared** (CL 3rd; concentration +4): 2nd—_[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_ <sup>D</sup>; 1st—_[[rangoric-srd/spells/Bane|bane]]_ (+2 vs Will), _[[rangoric-srd/spells/Magic Weapon|magic weapon]]_, _[[rangoric-srd/spells/Murderous Command|murderous command]]_ (+2 vs Will), _[[rangoric-srd/spells/Protection from Good|protection from good]]_ <sup>D</sup>; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (+1 vs Will), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Evil Domain|Evil]], [[rangoric-srd/class-options/domains/Trickery Domain|Trickery]].

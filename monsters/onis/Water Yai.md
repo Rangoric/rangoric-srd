@@ -16,7 +16,7 @@ full-attack: "Masterwork spear +35/+30/+25/+20 melee (3d6+21/19–20/×3); or 2 
 space-reach: "15 ft./15 ft. (20 ft. with spear)"
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, regeneration 10 (fire or good spells), freedom of movement, amphibious, change shape (Medium, Large, or Huge humanoid; alter self or giant form II), immunity to acid, spell resistance 29"
-saves: "Fort +21, Ref +10, Will +18"
+defenses: "Fort 31, Ref 20, Will 28"
 abilities: "Str 39, Dex 17, Con 27, Int 16, Wis 20, Cha 22"
 skills: "Acrobatics +24, Arcana +24, Athletics +43 (+48 jumping), Deception +30, Imitation +30, Intimidation +30, Mysticism +21, Perception +26, Performance (sing) +24, Sense Motive +26"
 skill-ranks: "Acrobatics 22, Arcana 18, Athletics 26, Deception 21, Imitation 21, Intimidation 21, Mysticism 15, Perception 18, Performance (sing) 18, Sense Motive 18"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft. (20 ft. with spear)
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 10 (fire or good spells), freedom of movement, [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (Medium, Large, or Huge humanoid; alter self or giant form II), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 29
-- **Saves**: Fort +21, Ref +10, Will +18
+- **Defenses**: Fort 31, Ref 20, Will 28
 - **Abilities**: Str 39, Dex 17, Con 27, Int 16, Wis 20, Cha 22
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +24, [[rangoric-srd/skills/Arcana|Arcana]] +24, [[rangoric-srd/skills/Athletics|Athletics]] +43 (+48 jumping), [[rangoric-srd/skills/Deception|Deception]] +30, [[rangoric-srd/skills/Imitation|Imitation]] +30, [[rangoric-srd/skills/Intimidation|Intimidation]] +30, [[rangoric-srd/skills/Mysticism|Mysticism]] +21, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Performance|Performance]] (sing) +24, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +26
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (spear), [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
@@ -68,9 +68,9 @@ Water yais speak Common and Giant.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 18th; concentration +24): Constant—_[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_, _[[rangoric-srd/spells/Water Walk|water walk]]_; At will—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only), _liquid form_, _[[rangoric-srd/spells/Water Breathing|water breathing]]_; 3/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 20), _[[rangoric-srd/spells/Cone of Cold|cone of cold]]_ (DC 21), _[[rangoric-srd/spells/Control Water|control water]]_, _[[rangoric-srd/spells/Polar Ray|polar ray]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 18th; concentration +24): Constant—_[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_, _[[rangoric-srd/spells/Water Walk|water walk]]_; At will—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only), _liquid form_, _[[rangoric-srd/spells/Water Breathing|water breathing]]_; 3/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (+10 vs Will), _[[rangoric-srd/spells/Cone of Cold|cone of cold]]_ (+11 vs Reflex), _[[rangoric-srd/spells/Control Water|control water]]_, _[[rangoric-srd/spells/Polar Ray|polar ray]]_.
 
-**Acidic Missile (Su)**: As a swift action, a water yai can launch a bolt of acid from its third eye. Any creature struck by this bolt must also make a DC 29 Fortitude save to avoid becoming [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round by the overwhelming stench of the acid. This attack has a range of 180 feet with no range increment. The save DC is Constitution-based.
+**Acidic Missile (Su)**: As a swift action, a water yai can launch a bolt of acid from its third eye. Any creature struck by this bolt is also attacked at +19 vs Fortitude, and on a hit becomes [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round by the overwhelming stench of the acid. This attack has a range of 180 feet with no range increment. The attack bonus is Constitution-based.
 
 **Flowing Robes (Su)**: A water yai wears a special silk kimono infused with magical water. This kimono grants a +6 armor bonus. These robes function as armor only for water yai.
 

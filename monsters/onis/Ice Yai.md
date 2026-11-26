@@ -16,7 +16,7 @@ full-attack: "4 slams +24 melee (2d8+9); or icy missile +17 ranged touch (4d6 co
 space-reach: "10 ft./10 ft."
 special-attacks: "Staggering strikes, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, regeneration 5 (fire or acid), change shape (Medium or Large humanoid; alter self or giant form I), immunity to cold, spell resistance 25, vulnerability to fire"
-saves: "Fort +17, Ref +7, Will +12"
+defenses: "Fort 27, Ref 17, Will 22"
 abilities: "Str 29, Dex 14, Con 25, Int 12, Wis 15, Cha 18"
 skills: "Acrobatics +25, Arcana +11, Deception +23, Emulation +14, Imitation +14, Intimidation +23, Mysticism +8, Perception +22, Sense Motive +13, Stealth +17 (+21 in snow)"
 skill-ranks: "Acrobatics 22, Arcana 7, Deception 16, Emulation 7, Imitation 7, Intimidation 16, Mysticism 4, Perception 17, Sense Motive 8, Stealth 16"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Staggering Strikes|Staggering strikes]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (fire or acid), [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (Medium or Large humanoid; alter self or giant form I), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25, vulnerability to fire
-- **Saves**: Fort +17, Ref +7, Will +12
+- **Defenses**: Fort 27, Ref 17, Will 22
 - **Abilities**: Str 29, Dex 14, Con 25, Int 12, Wis 15, Cha 18
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +25, [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Deception|Deception]] +23, [[rangoric-srd/skills/Emulation|Emulation]] +14, [[rangoric-srd/skills/Imitation|Imitation]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +23, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +17 (+21 in snow)
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -70,8 +70,8 @@ Ice yais speak Common and Giant.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 18th; concentration +22): Constant—_[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_; At will—_[[rangoric-srd/spells/Darkness|darkness]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 3/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 18), _[[rangoric-srd/spells/Cone of Cold|cone of cold]]_ (DC 19), _[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (DC 17), _[[rangoric-srd/spells/Gaseous Form|gaseous form]]_ (self only); 1/day—_[[rangoric-srd/spells/Polar Ray|polar ray]]_, _[[rangoric-srd/spells/Solid Fog|solid fog]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 18th; concentration +22): Constant—_[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_; At will—_[[rangoric-srd/spells/Darkness|darkness]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 3/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (+8 vs Will), _[[rangoric-srd/spells/Cone of Cold|cone of cold]]_ (+9 vs Reflex), _[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (+7 vs Will), _[[rangoric-srd/spells/Gaseous Form|gaseous form]]_ (self only); 1/day—_[[rangoric-srd/spells/Polar Ray|polar ray]]_, _[[rangoric-srd/spells/Solid Fog|solid fog]]_.
 
 **Icy Missile (Su)**: As a swift action, the ice yai can fire a dart of ice from its third eye. This dart is a ranged touch attack (+20 attack bonus), dealing 4d6 points of cold damage on a hit. This attack has a range of 180 feet with no range increment.
 
-**[[rangoric-srd/monsters/abilities/Staggering Strikes|Staggering Strikes]] (Ex)**: An ice yai can strike twice per round with its two slam attacks. A creature struck by more than two of these slam attacks in a round must make a DC 27 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1 round. The save DC is Strength-based.
+**[[rangoric-srd/monsters/abilities/Staggering Strikes|Staggering Strikes]] (Ex)**: An ice yai can strike twice per round with its two slam attacks. A creature struck by more than two of these slam attacks in a round is attacked at +17 vs Fortitude, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1 round. The attack bonus is Strength-based.
