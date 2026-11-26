@@ -24,7 +24,7 @@ Angels speak Celestial, Infernal, and Draconic, though they can speak with almos
 
 In combat, most angels make full use of their mobility and their ability to attack at a distance.
 
-Angels have the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^angel|angel subtype]]: darkvision and low-light vision, immunity to acid, cold and petrification, resistance to electricity and fire, a bonus on saves against poison, a protective aura, and truespeech.
+Angels have the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^angel|angel subtype]]: darkvision and low-light vision, immunity to acid, cold and petrification, resistance to electricity and fire, a bonus on defenses against poison, a protective aura, and truespeech.
 
 - [[rangoric-srd/monsters/angel/Angel, Cassisian|Angel, Cassisian]]
 - [[rangoric-srd/monsters/angel/Angel, Movanic Deva|Angel, Movanic Deva]]

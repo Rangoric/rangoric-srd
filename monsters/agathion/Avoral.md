@@ -14,9 +14,9 @@ cmd: "29"
 attack: "Claw +16 melee (2d6+3) or wing +15 melee (2d6+1)"
 full-attack: "2 claws +16 melee (2d6+3) and 2 wings +10 melee (2d6+1)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Fear aura (20 ft., DC 17), spell-like abilities"
+special-attacks: "Fear aura (20 ft., +7 vs Will), spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect magic, low-light vision, see invisibility, true seeing, lay on hands (4d6, 7/day, as a 9th-level paladin), damage reduction 10/evil or silver, immunity to electricity and petrification, resistance to cold 10 and sonic 10, spell resistance 20"
-saves: "Fort +11, Ref +12, Will +6"
+defenses: "Fort 21, Ref 22, Will 16"
 abilities: "Str 17, Dex 23, Con 20, Int 15, Wis 16, Cha 16"
 skills: "Acrobatics +22, Animal Handling +9, Deception +10, Intimidation +15, Knowledge +14, Mysticism +11, Perception +23, Persuasion +7, Sense Motive +15, Stealth +18"
 skill-ranks: "Acrobatics 13, Animal Handling 3, Deception 4, Intimidation 9, Knowledge 9, Mysticism 6, Perception 17, Persuasion 1, Sense Motive 9, Stealth 9"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Claw +16 melee (2d6+3) or wing +15 melee (2d6+1)
 - **Full Attack**: 2 claws +16 melee (2d6+3) and 2 wings +10 melee (2d6+1)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Fear|Fear]] aura (20 ft., DC 17), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Fear|Fear]] aura (20 ft., +7 vs Will), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], see invisibility, true seeing, lay on hands (4d6, 7/day, as a 9th-level paladin), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil or silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and sonic 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20
-- **Saves**: Fort +11, Ref +12, Will +6
+- **Defenses**: Fort 21, Ref 22, Will 16
 - **Abilities**: Str 17, Dex 23, Con 20, Int 15, Wis 16, Cha 16
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +22, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +9, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Knowledge|Knowledge]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +18
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Empower Spell-Like Ability|Empower Spell-Like Ability]] (magic missile), [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
@@ -76,6 +76,6 @@ Avorals speak Celestial, Infernal, and Draconic, but can speak with almost any c
 
 On the ground, an avoral can lash out with its wings to deliver punishing blows. However, it prefers to meet its foes in the air, where it can employ its talons and make full use of its aerial speed and agility.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +12): Constant—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/See Invisibility|see invisibility]]_, _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_; At will—_[[rangoric-srd/spells/Aid|aid]]_, _[[rangoric-srd/spells/Blur|blur]]_ (self only), _[[rangoric-srd/spells/Command|command]]_ (DC 14), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Gust of Wind|gust of wind]]_ (DC 15), _[[rangoric-srd/spells/Hold Person|hold person]]_ (DC 16), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]]_ (self only); 3/day—_[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_ (DC 16), empowered _[[rangoric-srd/spells/Magic Missile|magic missile]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +12): Constant—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/See Invisibility|see invisibility]]_, _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_; At will—_[[rangoric-srd/spells/Aid|aid]]_, _[[rangoric-srd/spells/Blur|blur]]_ (self only), _[[rangoric-srd/spells/Command|command]]_ (+4 vs Will), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Gust of Wind|gust of wind]]_ (+5 vs Fortitude), _[[rangoric-srd/spells/Hold Person|hold person]]_ (+6 vs Will), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]]_ (self only); 3/day—_[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_ (+6 vs Reflex), empowered _[[rangoric-srd/spells/Magic Missile|magic missile]]_.
 
 **True Seeing (Su)**: This ability works like the spell (caster level 14th), except it only affects the avoral, the avoral must concentrate for 1 full round before it takes effect, and it remains as long as the avoral concentrates.

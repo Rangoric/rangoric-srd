@@ -16,7 +16,7 @@ full-attack: "3 blades +4 melee (1d4–1)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Wrath, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect evil, low-light vision, disassemble, minor archon, damage reduction 5/evil, immunity to electricity and petrification"
-saves: "Fort +1, Ref +5, Will +4"
+defenses: "Fort 11, Ref 15, Will 14"
 abilities: "Str 6, Dex 15, Con 11, Int 10, Wis 13, Cha 12"
 skills: "Acrobatics +20, Perception +7, Persuasion +7, Sense Motive +7, Theology +6"
 skill-ranks: "Acrobatics 11, Perception 3, Persuasion 3, Sense Motive 3, Theology 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Wrath (Harbinger Archon)|Wrath]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect evil, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Disassemble|disassemble]], [[rangoric-srd/monsters/abilities/Minor Archon|minor archon]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification
-- **Saves**: Fort +1, Ref +5, Will +4
+- **Defenses**: Fort 11, Ref 15, Will 14
 - **Abilities**: Str 6, Dex 15, Con 11, Int 10, Wis 13, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Theology|Theology]] +6
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
@@ -80,4 +80,4 @@ Most harbinger archons form from souls that led simple lives of wisdom and piety
 
 **[[rangoric-srd/monsters/abilities/Minor Archon|Minor Archon]] (Ex)**: Harbinger archons lack the aura of menace and teleport abilities of more powerful archons.
 
-**[[rangoric-srd/monsters/abilities/Wrath (Harbinger Archon)|Wrath]] (Su)**: Once per minute, a harbinger archon can emit a blast of energy that deals 2d6 points of force damage to adjacent creatures. A DC 12 Reflex save halves this damage. The harbinger can choose to omit any target from this blast that it desires, damaging only those foes it chooses. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Wrath (Harbinger Archon)|Wrath]] (Su)**: Once per minute, a harbinger archon can emit a blast of energy that deals 2d6 points of force damage to adjacent creatures. It attacks at +2 vs Reflex, and a miss halves this damage. The harbinger can choose to omit any target from this blast that it desires, damaging only those foes it chooses. The attack bonus is Charisma-based.

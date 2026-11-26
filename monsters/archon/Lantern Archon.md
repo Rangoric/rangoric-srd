@@ -15,8 +15,8 @@ attack: "2 light rays +3 ranged touch (1d6)"
 full-attack: "2 light rays +3 ranged touch (1d6)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
-special-qualities: "Darkvision 60 ft., low-light vision, aura of menace (DC 13), magic circle against evil, gestalt, damage reduction 10/evil, immunity to electricity and petrification"
-saves: "Fort +4, Ref +3, Will +0"
+special-qualities: "Darkvision 60 ft., low-light vision, aura of menace (+3 vs Will), magic circle against evil, gestalt, damage reduction 10/evil, immunity to electricity and petrification"
+defenses: "Fort 14, Ref 13, Will 10"
 abilities: "Str 1, Dex 11, Con 12, Int 6, Wis 11, Cha 10"
 skills: "Acrobatics +14, Perception +4, Persuasion +5, Sense Motive +5, Theology +3"
 skill-ranks: "Acrobatics 9, Perception 1, Persuasion 2, Sense Motive 2, Theology 2"
@@ -51,8 +51,8 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: 2 light rays +3 ranged touch (1d6)
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], aura of menace (DC 13), [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], gestalt, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification
-- **Saves**: Fort +4, Ref +3, Will +0
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], aura of menace (+3 vs Will), [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], gestalt, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification
+- **Defenses**: Fort 14, Ref 13, Will 10
 - **Abilities**: Str 1, Dex 11, Con 12, Int 6, Wis 11, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Theology|Theology]] +3
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
@@ -76,6 +76,6 @@ A lantern archon has little reason to get within melee range. It usually hovers 
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd): Constant—_[[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]]_; At Will—_[[rangoric-srd/spells/Aid|aid]]_, _[[rangoric-srd/spells/Continual Flame|continual flame]]_, _[[rangoric-srd/spells/Detect Evil|detect evil]]_, _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only).
 
-**Gestalt (Su)**: Nine lantern archons can fuse together as a full-round action, becoming a single Large entity that is more powerful than the individual archons that make up its parts. Looking like a whirlwind of dancing firefly lights, the gestalt has all the powers and abilities of a Large air elemental plus the following: archon, good, and lawful subtypes; archon traits (aura of menace DC 16); 2 light rays (2d6); DR 5/evil and magic. The archons can remain in this form for 2d4 rounds. When the gestalt separates back into individual lantern archons, its remaining hit points are divided evenly among them; if it had less than 9 hit points, some of the component archons die when the gestalt ends.
+**Gestalt (Su)**: Nine lantern archons can fuse together as a full-round action, becoming a single Large entity that is more powerful than the individual archons that make up its parts. Looking like a whirlwind of dancing firefly lights, the gestalt has all the powers and abilities of a Large air elemental plus the following: archon, good, and lawful subtypes; archon traits (aura of menace +6 vs Will); 2 light rays (2d6); DR 5/evil and magic. The archons can remain in this form for 2d4 rounds. When the gestalt separates back into individual lantern archons, its remaining hit points are divided evenly among them; if it had less than 9 hit points, some of the component archons die when the gestalt ends.
 
 **Light Ray (Ex)**: A lantern archon can fire beams of light to damage foes. These light rays have a maximum range of 30 feet. This attack overcomes damage reduction of any type.

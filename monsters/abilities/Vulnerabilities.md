@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “vulnerability to fire”, on the Special Qualities line.
 
-Some creatures have vulnerability to a certain kind of energy effect (typically either cold or fire). Such a creature takes half again as much (+50%) damage as normal from the effect, regardless of whether a saving throw is allowed, or if the save is a success or failure.
+Some creatures have vulnerability to a certain kind of energy effect (typically either cold or fire). Such a creature takes half again as much (+50%) damage as normal from the effect, regardless of whether the effect attacks a defense, or whether that attack hits or misses.
 
-Creatures with a vulnerability that is not an energy type instead take a –4 penalty on saves against spells and effects that cause or use the listed vulnerability (such as spells with the light descriptor). Some creatures might have additional effects, as noted in their entries.
+Creatures with a vulnerability that is not an energy type instead take a –4 penalty on defenses against spells and effects that cause or use the listed vulnerability (such as spells with the light descriptor). Some creatures might have additional effects, as noted in their entries.

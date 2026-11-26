@@ -16,7 +16,7 @@ full-attack: "Bite +11 melee (1d4+1) and 2 claws +11 melee (1d3+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Pounce, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect evil, low-light vision, calm emotions (30 ft.), bardic knowledge +7, lay on hands (3d6, 6/day, as a 7th-level paladin), damage reduction 10/evil or silver, immunity to electricity and petrification, resistance to cold 10 and sonic 10, spell resistance 17"
-saves: "Fort +5, Ref +10, Will +7"
+defenses: "Fort 15, Ref 20, Will 17"
 abilities: "Str 12, Dex 16, Con 17, Int 19, Wis 15, Cha 16"
 skills: "Acrobatics +10, Arcana +21, Athletics +1 (+9 jumping), Deception +13, Emulation +10, Knowledge +21, Mysticism +14, Perception +12, Performance (any one) +13, Stealth +17, Theology +21"
 skill-ranks: "Acrobatics 4, Arcana 14, Athletics 0, Deception 7, Emulation 4, Knowledge 14, Mysticism 7, Perception 7, Performance (any one) 6, Stealth 7, Theology 14"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect evil, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/spells/Calm Emotions|calm emotions]] (30 ft.), bardic knowledge +7, lay on hands (3d6, 6/day, as a 7th-level paladin), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil or silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and sonic 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
-- **Saves**: Fort +5, Ref +10, Will +7
+- **Defenses**: Fort 15, Ref 20, Will 17
 - **Abilities**: Str 12, Dex 16, Con 17, Int 19, Wis 15, Cha 16
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +21, [[rangoric-srd/skills/Athletics|Athletics]] +1 (+9 jumping), [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Emulation|Emulation]] +10, [[rangoric-srd/skills/Knowledge|Knowledge]] +21, [[rangoric-srd/skills/Mysticism|Mysticism]] +14, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Performance|Performance]] (any one) +13, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +21
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -72,6 +72,6 @@ Vulpinals speak Celestial, Common, Draconic and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +10): Constant—_[[rangoric-srd/spells/Detect Evil|detect evil]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_; At will—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 3/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 17), _[[rangoric-srd/spells/Dispel Evil|dispel evil]]_ (DC 18), _[[rangoric-srd/spells/Flame Arrow|flame arrow]]_, _[[rangoric-srd/spells/Holy Smite|holy smite]]_ (DC 17), _[[rangoric-srd/spells/Dimension Door|dimension door]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Remove Disease|remove disease]]_; 1/day—_[[rangoric-srd/spells/Major Image|major image]]_ (DC 16).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +10): Constant—_[[rangoric-srd/spells/Detect Evil|detect evil]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_; At will—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 3/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (+7 vs Will), _[[rangoric-srd/spells/Dispel Evil|dispel evil]]_ (+8), _[[rangoric-srd/spells/Flame Arrow|flame arrow]]_, _[[rangoric-srd/spells/Holy Smite|holy smite]]_ (+7 vs Will), _[[rangoric-srd/spells/Dimension Door|dimension door]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Remove Disease|remove disease]]_; 1/day—_[[rangoric-srd/spells/Major Image|major image]]_ (+6 vs Will).
 
-**Calm Emotions Aura (Su)**: A vulpinal's aura acts like a calm emotions spell with a radius of 30 feet. Any creature entering this area must make a Will save (DC 16) to resist the effect. A creature that makes its save is immune to that vulpinal's aura for 24 hours. The save DC is Charisma-based.
+**Calm Emotions Aura (Su)**: A vulpinal's aura acts like a calm emotions spell with a radius of 30 feet. The aura attacks any creature entering this area at +6 vs Will, and a miss resists the effect. A creature the aura misses is immune to that vulpinal's aura for 24 hours. The attack bonus is Charisma-based.

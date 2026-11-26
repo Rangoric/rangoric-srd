@@ -19,7 +19,7 @@ full-attack: "Electricity ray +19 ranged touch (2d8) or bite +20 melee (2d6+9)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Electricity ray"
 special-qualities: "Darkvision 60 ft., immunity to acid, electricity, and poison, resistance to cold 10 and fire 10"
-saves: "Fort +12, Ref +14, Will +10"
+defenses: "Fort 22, Ref 24, Will 20"
 abilities: "Str 22, Dex 21, Con 16, Int 10, Wis 13, Cha 13"
 skills: "Escape Artist +23, Fieldcraft +19 (+21 following tracks, +21 Plane of Air, +21 involving bindings), Theology +18, Perception +25, Persuasion +19, Investigation +18, Sense Motive +19, Stealth +19"
 skill-ranks: "Escape Artist 15, Fieldcraft 15, Investigation 15, Perception 15, Persuasion 15, Sense Motive 15, Stealth 15, Theology 15"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: Electricity [[rangoric-srd/monsters/abilities/Ray|ray]]
 - **Special Qualities**: Darkvision 60 ft., immunity to acid, electricity, and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance to cold]] 10 and fire 10
-- **Saves**: Fort +12, Ref +14, Will +10
+- **Defenses**: Fort 22, Ref 24, Will 20
 - **Abilities**: Str 22, Dex 21, Con 16, Int 10, Wis 13, Cha 13
 - **Skills**: [[rangoric-srd/skills/Escape Artist|Escape Artist]] +23, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +19 (+21 following tracks, +21 Plane of Air, +21 involving bindings), [[rangoric-srd/skills/Investigation|Investigation]] +18, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Persuasion|Persuasion]] +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +19, [[rangoric-srd/skills/Theology|Theology]] +18
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite) (B)

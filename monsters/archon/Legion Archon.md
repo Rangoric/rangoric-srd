@@ -15,8 +15,8 @@ attack: "+1 flaming burst greatsword +13 melee (2d6+5/17–20 plus 1d6 fire) or 
 full-attack: "+1 flaming burst greatsword +13/+8 melee (2d6+5/17–20 plus 1d6 fire); or +1 flaming javelin +10 ranged (1d6+4 plus 1d6 fire)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Flames of faith, spell-like abilities"
-special-qualities: "Darkvision 60 ft. detect evil, low-light vision, aura of menace (DC 17), second skin, damage reduction 10/evil, immunity to electricity and petrification, spell resistance 18"
-saves: "Fort +10, Ref +3, Will +8"
+special-qualities: "Darkvision 60 ft. detect evil, low-light vision, aura of menace (+7 vs Will), second skin, damage reduction 10/evil, immunity to electricity and petrification, spell resistance 18"
+defenses: "Fort 20, Ref 13, Will 18"
 abilities: "Str 16, Dex 12, Con 19, Int 10, Wis 15, Cha 17"
 skills: "Acrobatics +12, Fieldcraft +9, Intimidation +14, Perception +13, Persuasion +14, Sense Motive +9, Theology +11"
 skill-ranks: "Acrobatics 8, Fieldcraft 4, Intimidation 8, Perception 8, Persuasion 8, Sense Motive 4, Theology 8"
@@ -49,8 +49,8 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: +1 flaming burst greatsword +13/+8 melee (2d6+5/17–20 plus 1d6 fire); or +1 flaming javelin +10 ranged (1d6+4 plus 1d6 fire)
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Flames of Faith|Flames of faith]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft. detect evil, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], aura of menace (DC 17), [[rangoric-srd/monsters/abilities/Second Skin|second skin]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 18
-- **Saves**: Fort +10, Ref +3, Will +8
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft. detect evil, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], aura of menace (+7 vs Will), [[rangoric-srd/monsters/abilities/Second Skin|second skin]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 18
+- **Defenses**: Fort 20, Ref 13, Will 18
 - **Abilities**: Str 16, Dex 12, Con 19, Int 10, Wis 15, Cha 17
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Theology|Theology]] +11
 - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (greatsword), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatsword), [[rangoric-srd/feats/Whirlwind Attack|Whirlwind Attack]]

@@ -18,7 +18,7 @@ full-attack: "4 claws +17 melee (1d10+6) and gore +12 melee (1d12+3 plus poison)
 space-reach: "10 ft./10 ft."
 special-attacks: "Activation attack, constrict 2d10+12, improved grab, poison"
 special-qualities: "Construct traits, damage reduction 50/magic, haste, soul bind, spell resistance 30"
-saves: "Fort +5, Ref +4, Will +5"
+defenses: "Fort 15, Ref 14, Will 15"
 abilities: "Str 22, Dex 8, Con —, Int —, Wis 10, Cha 1"
 skills: "—"
 feats: "—"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: Activation attack, constrict 2d10+12, improved grab, poison
 - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 50/magic, haste, soul bind, spell resistance 30
-- **Saves**: Fort +5, Ref +4, Will +5
+- **Defenses**: Fort 15, Ref 14, Will 15
 - **Abilities**: Str 22, Dex 8, Con —, Int —, Wis 10, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -74,8 +74,8 @@ A greater killer amulet servitor, like its lesser cousin, concentrates all of it
 
 **Constrict (Ex):** A successfully grappled foe takes 2d10+12 points of constriction damage.
 
-**[[rangoric-srd/rules/Afflictions#Poison|Poison]] (Ex):** The poison in a greater killer amulet servitor’s horn is extremely deadly. Injury, Fortitude DC 21, initial and secondary damage 1d8 Con.
+**[[rangoric-srd/rules/Afflictions#Poison|Poison]] (Ex):** The poison in a greater killer amulet servitor’s horn is extremely deadly. Injury, +11 vs Fortitude, initial and secondary damage 1d8 Con.
 
 **_Haste_ (Sp):** Once per combat as a free action, a greater killer amulet servitor may cast _[[rangoric-srd/spells/Haste|haste]]_ upon itself as if cast by a sorcerer of level equal to the construct’s Hit Dice.
 
-**Soul Bind (Sp):** As a standard action, a greater killer amulet servitor may cast _[[rangoric-srd/spells/Soul Bind|soul bind]]_ upon a slain victim. A Will save (DC 21) negates the effect.
+**Soul Bind (Sp):** As a standard action, a greater killer amulet servitor may cast _[[rangoric-srd/spells/Soul Bind|soul bind]]_ upon a slain victim. It attacks at +11 vs Will, and a miss negates the effect.

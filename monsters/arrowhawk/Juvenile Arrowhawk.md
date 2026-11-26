@@ -19,7 +19,7 @@ full-attack: "Electricity ray +9 ranged touch (2d6) or bite +9 melee (1d6+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Electricity ray"
 special-qualities: "Darkvision 60 ft., immunity to acid, electricity, and poison, resistance to cold 10 and fire 10"
-saves: "Fort +4, Ref +8, Will +4"
+defenses: "Fort 14, Ref 18, Will 14"
 abilities: "Str 12, Dex 21, Con 12, Int 10, Wis 13, Cha 13"
 skills: "Escape Artist +11, Fieldcraft +7 (+9 following tracks, +9 Plane of Air, +9 with bindings), Theology +6, Perception +7, Persuasion +7, Investigation +6, Sense Motive +7, Stealth +15"
 skill-ranks: "Escape Artist 3, Fieldcraft 3, Investigation 3, Perception 3, Persuasion 3, Sense Motive 3, Stealth 3, Theology 3"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Electricity [[rangoric-srd/monsters/abilities/Ray|ray]]
 - **Special Qualities**: Darkvision 60 ft., immunity to acid, electricity, and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance to cold]] 10 and fire 10
-- **Saves**: Fort +4, Ref +8, Will +4
+- **Defenses**: Fort 14, Ref 18, Will 14
 - **Abilities**: Str 12, Dex 21, Con 12, Int 10, Wis 13, Cha 13
 - **Skills**: [[rangoric-srd/skills/Escape Artist|Escape Artist]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7 (+9 following tracks, +9 Plane of Air, +9 with bindings), [[rangoric-srd/skills/Investigation|Investigation]] +6, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +6
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
