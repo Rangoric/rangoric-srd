@@ -26,7 +26,7 @@ At 8th level and every 5 levels thereafter (13th and 18th levels), the phantom g
 
 _Usurp Spell_: At 8th level, while using usurp manifestation, the phantom can leech spell slots from the haunted to increase its own power. The phantom can reach through the [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-etheric-tether|etheric tether]] as a swift action to drain the nauseated haunted's psychic spell energy, effectively taking any touch spell or spell with a target of "you" that the haunted knows and casting it on itself (assuming the haunted has not yet used up her allotment of spells per day for the spell's level). This ability consumes two of the haunted's spell slots of the appropriate level and otherwise follows the rules for the phantom's share spells and [[rangoric-srd/classes/Spiritualist (Class)#^spiritualist-deliver-touch-spells|deliver touch spells]] abilities.
 
-_Teleplasmic Surge_: At 13th level, when using usurp manifestation, the phantom gains a +2 morale bonus on attack rolls, saving throws, and skill checks.
+_Teleplasmic Surge_: At 13th level, when using usurp manifestation, the phantom gains a +2 morale bonus on attack rolls, defenses, and skill checks.
 
 _Ferocious Phantom_: At 18th level, when using usurp manifestation the phantom gains [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|DR]] 10/slashing and [[rangoric-srd/rules/Special Abilities and Conditions#Spell Resistance|spell resistance]] equal to 11 + the haunted's spiritualist level (this spell resistance doesn't apply to spells originating from the spiritualist or from the usurp spell ability).
 

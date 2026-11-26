@@ -30,4 +30,4 @@ Some oracles are possessed by spirits, demons, or similar beings. Instead of the
 
 **Revelations**: A possessed oracle must take the following [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] at 1st level.
 
-**Two Minds (Su)**: You gain a +2 bonus on Will saves against enchantment spells or effects. At 7th level, you may reroll a failed Will save once per day as an immediate action. You must take the second result, even if it is worse.
+**Two Minds (Su)**: You gain a +2 bonus on Will Defense against enchantment spells or effects. At 7th level, you may make an attack that hit your Will reroll once per day as an immediate action, keeping the result better for you. You must take the second result, even if it is worse.

@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The spider is a patient hunter, sensing foes that struggle in its webs._
 
-**Minor Form**: You gain a +2 competence bonus on Athletics checks to climb, Stealth checks, saving throws against web effects (magical or otherwise), and checks to break free of webs.
+**Minor Form**: You gain a +2 competence bonus on Athletics checks to climb, Stealth checks, defenses against web effects (magical or otherwise), and checks to break free of webs.
 
 This bonus increases to +4 at 8th level and +6 at 15th level.
 

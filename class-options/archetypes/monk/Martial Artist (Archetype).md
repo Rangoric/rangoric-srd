@@ -55,4 +55,4 @@ This ability replaces [[rangoric-srd/classes/Monk#^monk-ki-pool|*ki* pool]].
 
 **Quivering Palm**: A martial artist may use this ability ([[rangoric-srd/classes/Monk#^monk-quivering-palm|quivering palm]]) one additional time per day per level above 15th, but may not have more than one in effect at a time.
 
-**Greater Defensive Roll (Ex)**: At 19th level, a martial artist suffers no damage on a successful defensive roll, and only half damage if the Reflex saving throw fails. This ability replaces [[rangoric-srd/classes/Monk#^monk-empty-body|empty body]].
+**Greater Defensive Roll (Ex)**: At 19th level, a martial artist suffers no damage on a successful defensive roll, and only half damage if the Reflex check fails. This ability replaces [[rangoric-srd/classes/Monk#^monk-empty-body|empty body]].

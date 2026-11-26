@@ -38,11 +38,11 @@ The following class abilities function differently for synthesist summoners.
 
 **Fused Link (Su)**: Starting at 1st level, the synthesist forms a close bond with his eidolon. Whenever the temporary hit points from his eidolon would be reduced to 0, the summoner can, as a free action, sacrifice any number of his own hit points. Each hit point sacrificed this way prevents 1 point of damage done to the eidolon (thus preventing the loss of the summoner's temporary hit points), preventing the eidolon from being killed and sent back to its home plane. This ability replaces [[rangoric-srd/classes/Summoner#^summoner-life-link|life link]].
 
-**Shielded Meld (Ex)**: At 4th level, whenever the synthesist is fused with his eidolon, he gains a +2 shield bonus to his Armor Class and a +2 circumstance bonus on his saving throws. This ability replaces [[rangoric-srd/classes/Summoner#^summoner-shield-ally|shield ally]].
+**Shielded Meld (Ex)**: At 4th level, whenever the synthesist is fused with his eidolon, he gains a +2 shield bonus to his Armor Class and a +2 circumstance bonus to his defenses. This ability replaces [[rangoric-srd/classes/Summoner#^summoner-shield-ally|shield ally]].
 
 **Maker's Jump (Sp)**: At 6th level, whenever the synthesist is fused with his eidolon, the synthesist can cast _[[rangoric-srd/spells/Dimension Door|dimension door]]_ as a spell-like ability using his caster level. This ability only affects the fused synthesist and eidolon. The synthesist can use this ability once per day at 6th level, plus one additional time per day for every six levels beyond 6th. This ability replaces [[rangoric-srd/classes/Summoner#^summoner-makers-call|maker’s call]] and [[rangoric-srd/classes/Summoner#^summoner-transposition|transposition]].
 
-**Greater Shielded Meld (Ex)**: At 12th level, whenever the synthesist is fused with his eidolon, he gains a +4 shield bonus to his Armor Class and a +4 circumstance bonus on his saving throws. This ability replaces [[rangoric-srd/classes/Summoner#^summoner-greater-shield-ally|greater shield ally]].
+**Greater Shielded Meld (Ex)**: At 12th level, whenever the synthesist is fused with his eidolon, he gains a +4 shield bonus to his Armor Class and a +4 circumstance bonus to his defenses. This ability replaces [[rangoric-srd/classes/Summoner#^summoner-greater-shield-ally|greater shield ally]].
 
 **Split Forms (Su)**: At 16th level, as a swift action, the synthesist and his fused eidolon can split into two creatures: the synthesist and the eidolon. Both have the same evolutions. The synthesist emerges in a square adjacent to the eidolon if possible. All effects and spells currently targeting the fused synthesist-eidolon affect both the synthesist and the eidolon.
 

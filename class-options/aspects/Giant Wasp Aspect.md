@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Shifter#^shifter-aspect|shifter aspect]] (Su). The aspect of the wasp grants flight and a venomous sting, as well as great mental resistance._
 
-**Minor Form**: You gain a +4 bonus on Will saves against mind-affecting effects.
+**Minor Form**: You gain a +4 bonus on Will Defense against mind-affecting effects.
 
 This bonus increases to +6 at 8th level and +8 at 15th level.
 
@@ -24,7 +24,7 @@ This bonus increases to +6 at 8th level and +8 at 15th level.
 
 At 8th level, this fly speed increases to 60 feet (average), and you gain a sting attack usable a number of times per day equal to 3 + your Wisdom modifier, which applies the following [[rangoric-srd/rules/Afflictions#Poison|poison]].
 
-> _Wasp Venom (Ex)_ Sting—injury; save Fort DC = 10 + half your shifter level + your Constitution modifier; frequency 1/round for 4 rounds; effect 1d3 Dex damage; cure 2 consecutive saves.
+> _Wasp Venom (Ex)_ Sting—injury; attack half your shifter level + your Constitution modifier vs Fortitude; frequency 1/round for 4 rounds; effect 1d3 Dex damage; cure 2 consecutive misses.
 
 At 15th level, your fly speed increases to 80 feet (good), and you can attempt to gain control of a mindless swarm as a full-round action. To gain control of the swarm, you must succeed at a Charisma check against a DC of 10 + the swarm’s CR. You can direct the swarm to disperse, remain in a designated location, or attack an opponent. This control lasts for a number of rounds equal to half your shifter level.
 

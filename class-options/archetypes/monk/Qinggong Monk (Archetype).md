@@ -44,7 +44,7 @@ _Ki_ powers are abilities that draw on the power of a monk's _ki_. The standard 
 
 **Activation**: Most _ki_ powers require the monk to spend _ki_ points; the exact amount is listed after the _ki_ power. _Ki_ powers that cost 0 _ki_ do not require the monk to have any _ki_ points in her _ki_ pool to use the ability.
 
-The saving throw against a monk's _ki_ power, if any, is equal to 10 + 1/2 the monk's level + the monk's Wisdom bonus.
+The attack bonus of a monk's _ki_ power, if any, is equal to 1/2 the monk's level + the monk's Wisdom bonus.
 
 Feats marked with a dagger (†) are _ki_ powers that can be activated as an immediate action. ^qinggong-ki-powers
 
