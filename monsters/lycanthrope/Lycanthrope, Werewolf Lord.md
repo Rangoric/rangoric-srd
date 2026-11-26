@@ -14,7 +14,7 @@ full-attack: "+2 bastard sword +21/+16/+11 melee (1d10+8/17-20) or masterwork co
 space-reach: "5 ft./5 ft. / 10 ft./5 ft. / 10 ft./10 ft."
 special-attacks: "- / Curse of lycanthropy"
 special-qualities: "Alternate form, wolf empathy, low-light vision, scent / Alternate form, wolf empathy, damage reduction 10/silver, low-light vision, scent"
-saves: "Fort +16, Ref +12, Will +13 / Fort +17, Ref +12, Will +11"
+defenses: "Fort 26, Ref 22, Will 23 / Fort 27, Ref 22, Will 21"
 abilities: "Str 18, Dex 14, Con 14 Int 10, Wis 12, Cha 12 / Str 32, Dex 18, Con 20 Int 10, Wis 12, Cha 12"
 skills: "Animal Handling +20, Fieldcraft +18, Perception +20, Stealth +12 / Animal Handling +20, Fieldcraft +18*, Perception +20, Stealth +14"
 skill-ranks: "Animal Handling 16, Fieldcraft 14, Perception 10, Stealth 2"
@@ -55,7 +55,7 @@ tags: [rangoric, rangoric/monster]
 | **Space/Reach:** | 5 ft./5 ft. | | 10 ft./5 ft. | | 10 ft./10 ft. |
 | **Special Attacks:** | - | | Curse of lycanthropy | | Curse of lycanthropy |
 | **Special Qualities:** | [[rangoric-srd/monsters/abilities/Alternate Form\|Alternate form]], wolf empathy, low-light vision, [[rangoric-srd/monsters/abilities/Scent\|scent]] | | [[rangoric-srd/monsters/abilities/Alternate Form\|Alternate form]], wolf empathy, [[rangoric-srd/monsters/abilities/Damage Reduction\|damage reduction]] 10/silver, low-light vision, [[rangoric-srd/monsters/abilities/Scent\|scent]] | | [[rangoric-srd/monsters/abilities/Alternate Form\|Alternate form]], wolf empathy, [[rangoric-srd/monsters/abilities/Damage Reduction\|damage reduction]] 10/silver, low-light vision, [[rangoric-srd/monsters/abilities/Scent\|scent]] |
-| **Saves:** | Fort +16, Ref +12, Will +13 | | Fort +17, Ref +12, Will +11 | | Fort +17, Ref +12, Will +11 |
+| **Defenses:** | Fort 26, Ref 22, Will 23 | | Fort 27, Ref 22, Will 21 | | Fort 27, Ref 22, Will 21 |
 | **Abilities:** | Str 18, Dex 14, Con 14 Int 10, Wis 12, Cha 12 | | Str 32, Dex 18, Con 20 Int 10, Wis 12, Cha 12 | | Str 32, Dex 18, Con 20 Int 10, Wis 12, Cha 12 |
 | **Skills:** | [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +20, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +18, [[rangoric-srd/skills/Perception\|Perception]] +20, [[rangoric-srd/skills/Stealth\|Stealth]] +12 | | [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +20, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +18\*, [[rangoric-srd/skills/Perception\|Perception]] +20, [[rangoric-srd/skills/Stealth\|Stealth]] +14 | | [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +20, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +18\*, [[rangoric-srd/skills/Perception\|Perception]] +20, [[rangoric-srd/skills/Stealth\|Stealth]] +14 |
 | **Feats:** | [[rangoric-srd/feats/Cleave\|Cleave]], [[rangoric-srd/feats/Combat Reflexes\|Combat Reflexes]], [[rangoric-srd/feats/Exotic Weapon Proficiency\|Exotic Weapon Proficiency]] (bastard Sword), [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bastard sword), [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Natural Armor\|Improved Natural Armor]], [[rangoric-srd/feats/Improved Natural Attack\|Improved Natural Attack]] (bite), [[rangoric-srd/feats/Iron Will\|Iron Will (B)]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Run\|Run]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Stealth), [[rangoric-srd/feats/Track\|Track (B)]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bastard sword), [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Specialization\|Weapon Specialization]] (bastard sword) | | (same as human form) | | (same as human form) |
@@ -77,7 +77,7 @@ Werewolf lords can assume a hybrid form as well as an animal form. In dire wolf 
 
 Alternate Form (Su): A werewolf lord can assume a bipedal hybrid form or the form of a [[rangoric-srd/monsters/dire-animal/Dire Wolf|dire wolf]].
 
-Curse of Lycanthropy (Su): Any humanoid or giant hit by a werewolf lord’s bite attack in wolf or hybrid form must succeed on a DC 15 Fortitude save or contract lycanthropy.
+Curse of Lycanthropy (Su): Any humanoid or giant hit by a werewolf lord’s bite attack in wolf or hybrid form is attacked at +5 vs Fortitude, and on a hit contracts lycanthropy.
 
 Trip (Ex): A werewolf lord in dire wolf form that hits with a bite attack can attempt to [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] the opponent (+15 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the werewolf lord.
 

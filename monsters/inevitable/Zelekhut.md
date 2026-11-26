@@ -16,7 +16,7 @@ full-attack: "2 chains +17 melee (2d6+7 plus 1d6 electricity and trip)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, true seeing, regeneration 5 (chaotic), constructed, chains, damage reduction 10/chaotic, spell resistance 20"
-saves: "Fort +10, Ref +8, Will +10"
+defenses: "Fort 20, Ref 18, Will 20"
 abilities: "Str 25, Dex 20, Con 16, Int 10, Wis 17, Cha 17"
 skills: "Acrobatics +18, Athletics +7 (+15 jumping), Fieldcraft +16, Perception +20, Persuasion +16, Sense Motive +20"
 skill-ranks: "Acrobatics 10, Athletics 0, Fieldcraft 10, Perception 10, Persuasion 10, Sense Motive 10"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], _[[rangoric-srd/spells/True Seeing|true seeing]]_, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (chaotic), [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^inevitable|constructed]], chains, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/chaotic, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20
-- **Saves**: Fort +10, Ref +8, Will +10
+- **Defenses**: Fort 20, Ref 18, Will 20
 - **Abilities**: Str 25, Dex 20, Con 16, Int 10, Wis 17, Cha 17
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Athletics|Athletics]] +7 (+15 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Persuasion|Persuasion]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (chain), [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -74,6 +74,6 @@ Zelekhuts communicate by [[rangoric-srd/monsters/Monster Types, Sybtypes, and Sp
 
 Once it has found its fugitive, a zelekhut uses its speed and its spell-like abilities to cover the most likely escape routes. Then it immobilizes any defenders while attempting to protect any innocent bystanders. Finally, it apprehends the fugitive with its spiked chains, [[rangoric-srd/combat/Combat Maneuvers#Trip|tripping]] or [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarming]] the foe as needed.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +13): Constant—_[[rangoric-srd/spells/True Seeing|true seeing]]_; At will—_[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]_, _[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]_, _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Fear|fear]]_ (DC 17), _[[rangoric-srd/spells/Hold Person|hold person]]_ (DC 16), _[[rangoric-srd/spells/Locate Creature|locate creature]]_; 3/day—_[[rangoric-srd/spells/Hold Monster|hold monster]]_ (DC 18), _[[rangoric-srd/spells/Mark of Justice|mark of justice]]_; 1/week—_[[rangoric-srd/spells/Geas, Lesser|lesser geas]]_ (DC 17).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +13): Constant—_[[rangoric-srd/spells/True Seeing|true seeing]]_; At will—_[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]_, _[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]_, _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Fear|fear]]_ (+7 vs Will), _[[rangoric-srd/spells/Hold Person|hold person]]_ (+6 vs Will), _[[rangoric-srd/spells/Locate Creature|locate creature]]_; 3/day—_[[rangoric-srd/spells/Hold Monster|hold monster]]_ (+8 vs Will), _[[rangoric-srd/spells/Mark of Justice|mark of justice]]_; 1/week—_[[rangoric-srd/spells/Geas, Lesser|lesser geas]]_ (+7 vs Will).
 
 **Chains (Ex)**: A zelekhut's arms end in long lengths of barbed metal. These chains deal slashing damage and 1d6 points of electricity damage with each hit.

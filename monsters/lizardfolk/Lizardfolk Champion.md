@@ -16,7 +16,7 @@ full-attack: "+1 lance +17/+12 melee (1d8+8/19–20/×3); or claw +15 melee (1d6
 space-reach: "5 ft./5 ft."
 special-attacks: "Banner +2/+1, cavalier's charge, challenge (+9, +3, 3/day)"
 special-qualities: "Expert trainer +4, greater tactician (2/day, 7 rounds, swift action), hold breath, mount (styracosaurus), order of the dragon (aid allies, strategy)"
-saves: "Fort +12, Ref +3, Will +4"
+defenses: "Fort 22, Ref 13, Will 14"
 abilities: "Str 21, Dex 10, Con 17, Int 7, Wis 12, Cha 12"
 skills: "Animal Handling +5, Athletics +11, Perception +13"
 skill-ranks: "Animal Handling 2, Athletics 3, Perception 9"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Cavalier#^cavalier-banner|Banner]] +2/+1, [[rangoric-srd/classes/Cavalier#^cavalier-cavaliers-charge|cavalier's charge]], [[rangoric-srd/classes/Cavalier#^cavalier-challenge|challenge]] (+9, +3, 3/day)
 - **Special Qualities**: [[rangoric-srd/classes/Cavalier#^cavalier-expert-trainer|Expert trainer]] +4, [[rangoric-srd/classes/Cavalier#^cavalier-greater-tactician|greater tactician]] (2/day, 7 rounds, swift action), [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/classes/Cavalier#^cavalier-mount|mount]] ([[rangoric-srd/monsters/dinosaur/Styracosaurus|styracosaurus]]), [[rangoric-srd/class-options/orders/Order of the Dragon|order of the dragon]] ([[rangoric-srd/class-options/orders/Order of the Dragon|aid allies]], [[rangoric-srd/class-options/orders/Order of the Dragon|strategy]])
-- **Saves**: Fort +12, Ref +3, Will +4
+- **Defenses**: Fort 22, Ref 13, Will 14
 - **Abilities**: Str 21, Dex 10, Con 17, Int 7, Wis 12, Cha 12
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +13
 - **Feats**: [[rangoric-srd/feats/Duck and Cover|Duck and Cover]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (lance), [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]] (claw), [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Shield Wall|Shield Wall]], [[rangoric-srd/feats/Trample|Trample]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (lance)

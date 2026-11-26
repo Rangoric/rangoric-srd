@@ -13,9 +13,9 @@ cmd: "26 (30 vs. trip)"
 attack: "Gore +14 melee (4d8+13)"
 full-attack: "Gore +14 melee (4d8+13)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Powerful charge (4d8+13), trample (2d8+13, DC 23)"
+special-attacks: "Powerful charge (4d8+13), trample (2d8+13, +13 vs Reflex)"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +13, Ref +6, Will +4"
+defenses: "Fort 23, Ref 16, Will 14"
 abilities: "Str 28, Dex 10, Con 21, Int 2, Wis 13, Cha 3"
 skills: "Perception +13"
 skill-ranks: "Perception 9"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Gore +14 melee (4d8+13)
 - **Full Attack**: Gore +14 melee (4d8+13)
 - **Space/Reach**: 10 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (4d8+13), [[rangoric-srd/monsters/abilities/Trample|trample]] (2d8+13, DC 23)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (4d8+13), [[rangoric-srd/monsters/abilities/Trample|trample]] (2d8+13, +13 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +13, Ref +6, Will +4
+- **Defenses**: Fort 23, Ref 16, Will 14
 - **Abilities**: Str 28, Dex 10, Con 21, Int 2, Wis 13, Cha 3
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +13
 - **Feats**: [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Power Attack|Power Attack]]

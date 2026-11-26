@@ -16,7 +16,7 @@ full-attack: "2 claws +13 melee (1d6+4) and bite +7 melee (1d4+2) and tail slap 
 space-reach: "5 ft./5 ft."
 special-attacks: "Combat style (natural weapon), favored enemy (humans +4, reptilian humanoids +2)"
 special-qualities: "Favored terrain (swamp +2), hold breath, hunter's bond (companions), track +3, wild empathy +6, woodland stride"
-saves: "Fort +11, Ref +6, Will +3"
+defenses: "Fort 21, Ref 16, Will 13"
 abilities: "Str 18, Dex 12, Con 17, Int 9, Wis 12, Cha 8"
 skills: "Acrobatics +5, Animal Handling +3, Athletics +19, Fieldcraft +12, Medicine +6, Nature +6, Perception +12, Stealth +11"
 skill-ranks: "Acrobatics 0, Animal Handling 1, Athletics 12, Fieldcraft 8, Medicine 2, Nature 4, Perception 8, Stealth 7"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (natural weapon), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (humans +4, reptilian humanoids +2)
 - **Special Qualities**: [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|Favored terrain]] (swamp +2), [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/classes/Ranger|track]] +3, [[rangoric-srd/classes/Ranger|wild empathy]] +6, [[rangoric-srd/classes/Ranger#^ranger-woodland-stride|woodland stride]]
-- **Saves**: Fort +11, Ref +6, Will +3
+- **Defenses**: Fort 21, Ref 16, Will 13
 - **Abilities**: Str 18, Dex 12, Con 17, Int 9, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +3, [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Nature|Nature]] +6, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Aquatic Adaption|Aquatic Adaption]], [[rangoric-srd/feats/Dangerous Tail|Dangerous Tail]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]] (claw), [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Swift Swimmer|Swift Swimmer]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)

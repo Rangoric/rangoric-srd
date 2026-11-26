@@ -16,7 +16,7 @@ full-attack: "Bite +2 melee (1d6) and 2 claws +2 melee (1d3); or puffball +4 ran
 space-reach: "5 ft./5 ft."
 special-attacks: "Spores, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, change shape (Small fungus; tree shape), verdant burst, immunity to electricity and sonic, plant traits"
-saves: "Fort +6, Ref +2, Will +2"
+defenses: "Fort 16, Ref 12, Will 12"
 abilities: "Str 10, Dex 15, Con 16, Int 7, Wis 14, Cha 15"
 skills: "Fieldcraft +3 (+7 in swamps and underground), Stealth +10 (+14 in swamps and underground)"
 skill-ranks: "Fieldcraft 1, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spores (Fungus Leshy)|Spores]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (Small fungus; tree shape), verdant burst, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and sonic, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-- **Saves**: Fort +6, Ref +2, Will +2
+- **Defenses**: Fort 16, Ref 12, Will 12
 - **Abilities**: Str 10, Dex 15, Con 16, Int 7, Wis 14, Cha 15
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3 (+7 in swamps and underground), [[rangoric-srd/skills/Stealth|Stealth]] +10 (+14 in swamps and underground)
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]]
@@ -77,7 +77,7 @@ Fungus leshys speak Druidic and Sylvan.
 
 **Puffball (Ex)**: A fungus leshy can spit a puffball as a standard action. If it hits, this attack deals 1 point of damage (this damage is not modified by Strength) and affects the target struck (but not adjacent targets) with the fungus leshy's spores. The puffball has a range increment of 20 feet.
 
-**[[rangoric-srd/monsters/abilities/Spores (Fungus Leshy)|Spores]] (Ex)**: A fungus leshy is riddled with molds and spores. Anytime a fungus leshy takes damage, a cloud of spores bursts from its body, forcing all adjacent creatures to make a DC 14 Fortitude save or have their vision reduced to 10 feet for 1 minute. Spending a full-round action to wash one's eyes with water ends this effect. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Spores (Fungus Leshy)|Spores]] (Ex)**: A fungus leshy is riddled with molds and spores. Anytime a fungus leshy takes damage, a cloud of spores bursts from its body, which attacks all adjacent creatures at +4 vs Fortitude; on a hit their vision is reduced to 10 feet for 1 minute. Spending a full-round action to wash one's eyes with water ends this effect. The attack bonus is Constitution-based.
 
 ### Creation
 

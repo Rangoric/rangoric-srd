@@ -16,7 +16,7 @@ full-attack: "2 tentacles +3 melee (1d3+1 plus poison)"
 space-reach: "5 ft./10 ft."
 special-attacks: "Poison"
 special-qualities: "Darkvision 60 ft., amorphous, compression, damage reduction 5/piercing or slashing, immunity to mind-affecting effects"
-saves: "Fort +6, Ref +3, Will +0"
+defenses: "Fort 16, Ref 13, Will 10"
 abilities: "Str 12, Dex 17, Con 16, Int —, Wis 10, Cha 1"
 skills: "Athletics +9"
 skill-ranks: "Athletics 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/piercing or slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +6, Ref +3, Will +0
+- **Defenses**: Fort 16, Ref 13, Will 10
 - **Abilities**: Str 12, Dex 17, Con 16, Int —, Wis 10, Cha 1
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9
 - **Feats**: —
@@ -63,10 +63,10 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: —
 - **Level Adjustment**: —
 
-If a creature fails two consecutive saving throws, its jaw locks, its tongue swells, and its lips pull back, making speech impossible. This condition ends when the Charisma damage is healed.
+If the poison hits a creature twice in a row, its jaw locks, its tongue swells, and its lips pull back, making speech impossible. This condition ends when the Charisma damage is healed.
 
 Most common in warm or temperate waters, the death's head jellyfish is an aggressive predator. The creature derives its name from the pattern on its 4-foot-wide bell and from the poison it delivers with its tentacles. Those unfortunate enough to be subjected to this toxin develop rigor of the facial muscles that results in a wide-eyed grimace if left untreated.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Death's Head Jellyfish Venom|Death's Head Jellyfish Venom]]: Tentacle—injury; _save_ Fort DC 14; _frequency_ 1/round for 6 rounds; _effect_ 1 Con and 1 Cha; _cure_ 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Death's Head Jellyfish Venom|Death's Head Jellyfish Venom]]: Tentacle—injury; _attack_ +4 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1 Con and 1 Cha; _cure_ 2 consecutive misses.

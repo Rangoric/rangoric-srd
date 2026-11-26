@@ -14,9 +14,9 @@ cmd: "—"
 attack: "Swarm (3d6 plus poison)"
 full-attack: "Swarm (3d6 plus poison)"
 space-reach: "10 ft./0 ft."
-special-attacks: "Distraction (DC 16), poison"
+special-attacks: "Distraction (+6 vs Fortitude), poison"
 special-qualities: "Darkvision 60 ft., immunity to weapon damage, swarm traits"
-saves: "Fort +8, Ref +5, Will +4"
+defenses: "Fort 18, Ref 15, Will 14"
 abilities: "Str 1, Dex 13, Con 10, Int —, Wis 10, Cha 2"
 skills: "Athletics +9, Stealth +29"
 skill-ranks: "Athletics 11, Stealth 13"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Swarm (3d6 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Full Attack**: Swarm (3d6 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Space/Reach**: 10 ft./0 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (DC 16), [[rangoric-srd/monsters/abilities/Poison|poison]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (+6 vs Fortitude), [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to weapon damage, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]]
-- **Saves**: Fort +8, Ref +5, Will +4
+- **Defenses**: Fort 18, Ref 15, Will 14
 - **Abilities**: Str 1, Dex 13, Con 10, Int —, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +29
 - **Feats**: —
@@ -67,4 +67,4 @@ Jellyfish often cluster together during springtime or when environmental conditi
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Jellyfish Swarm Venom|Jellyfish Swarm Venom]]: Swarm—injury; _save_ Fort DC 16; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Dex; _cure_ 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Jellyfish Swarm Venom|Jellyfish Swarm Venom]]: Swarm—injury; _attack_ +6 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Dex; _cure_ 2 consecutive misses.

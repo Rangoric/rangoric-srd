@@ -16,7 +16,7 @@ full-attack: "Spear +1 melee (1d6–1); or sling +3 ranged (1d3–1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., crafty, light sensitivity"
-saves: "Fort +2, Ref +1, Will –1"
+defenses: "Fort 12, Ref 11, Will 9"
 abilities: "Str 9, Dex 13, Con 10, Int 10, Wis 9, Cha 8"
 skills: "Craft (trapmaking) +6, Perception +5, Stealth +5"
 skill-ranks: "Craft (trapmaking) 3, Perception 1, Stealth 0"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., crafty, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +2, Ref +1, Will –1
+- **Defenses**: Fort 12, Ref 11, Will 9
 - **Abilities**: Str 9, Dex 13, Con 10, Int 10, Wis 9, Cha 8
 - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +6, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +5
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

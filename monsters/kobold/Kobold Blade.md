@@ -16,7 +16,7 @@ full-attack: "Masterwork rapier +11 melee (1d4+2/18–20); or masterwork light c
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., bravery +1, armor training 1, crafty, light sensitivity"
-saves: "Fort +4, Ref +5, Will +1 (+1 vs. fear)"
+defenses: "Fort 14, Ref 15, Will 11 (+1 vs. fear)"
 abilities: "Str 10, Dex 18, Con 10, Int 13, Wis 10, Cha 8"
 skills: "Craft (trapmaking) +3, Dungeoneering +8, Intimidation +6, Perception +2, Profession (miner) +2, Stealth +13"
 skill-ranks: "Craft (trapmaking) 2, Dungeoneering 4, Intimidation 4, Perception 2, Profession (miner) 1, Stealth 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, [[rangoric-srd/races/Kobold|crafty]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +4, Ref +5, Will +1 (+1 vs. fear)
+- **Defenses**: Fort 14, Ref 15, Will 11 (+1 vs. fear)
 - **Abilities**: Str 10, Dex 18, Con 10, Int 13, Wis 10, Cha 8
 - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +3, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Profession|Profession]] (miner) +2, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Improved Dirty Trick|Improved Dirty Trick]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (rapier), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (rapier)

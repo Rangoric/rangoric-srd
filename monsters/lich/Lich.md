@@ -23,7 +23,7 @@ Liches speak Common plus any other languages they knew in life.
 
 A lich has all the base creature’s statistics and special abilities except as noted here.
 
-**Size and Type**: The creature’s type changes to [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead]]. Do not recalculate base attack bonus, saves, or skill points. Size is unchanged.
+**Size and Type**: The creature’s type changes to [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead]]. Do not recalculate base attack bonus, defenses, or skill points. Size is unchanged.
 
 **Hit Dice**: Increase all current and future Hit Dice to d12s.
 
@@ -33,13 +33,13 @@ A lich has all the base creature’s statistics and special abilities except as 
 
 **Full Attack**: A lich fighting without weapons uses either its touch attack (see above) or its natural weapons (if it has any). If armed with a weapon, it usually uses the weapon as its primary attack along with a touch as a natural secondary attack, provided it has a way to make that attack (either a free hand or a natural weapon that it can use as a secondary attack).
 
-**Damage**: A lich without natural weapons has a touch attack that uses negative energy to deal 1d8+5 points of damage to living creatures; a Will save (DC 10 + 1/2 lich’s HD + lich’s Cha modifier) halves the damage. A lich with natural weapons can use its touch attack or its natural weaponry, as it prefers. If it chooses the latter, it deals 1d8+5 points of extra damage on one natural weapon attack.
+**Damage**: A lich without natural weapons has a touch attack that uses negative energy to deal 1d8+5 points of damage to living creatures; it attacks Will (attack bonus 1/2 the lich’s HD + the lich’s Cha modifier), and a miss halves the damage. A lich with natural weapons can use its touch attack or its natural weaponry, as it prefers. If it chooses the latter, it deals 1d8+5 points of extra damage on one natural weapon attack.
 
-**Special Attacks**: A lich retains all the base creature’s special attacks and gains those described below. Save DCs are equal to 10 + 1/2 lich’s HD + lich’s Cha modifier unless otherwise noted.
+**Special Attacks**: A lich retains all the base creature’s special attacks and gains those described below. Attack bonuses are 1/2 lich’s HD + lich’s Cha modifier unless otherwise noted.
 
-_Fear Aura (Su)_: Liches are shrouded in a dreadful aura of death and evil. Creatures of less than 5 HD in a 60-foot radius that look at the lich must succeed on a Will save or be affected as though by a [[rangoric-srd/spells/Fear|fear]] spell from a sorcerer of the lich’s level. A creature that successfully saves cannot be affected again by the same lich’s aura for 24 hours.
+_Fear Aura (Su)_: Liches are shrouded in a dreadful aura of death and evil. Creatures of less than 5 HD in a 60-foot radius that look at the lich are attacked against Will, and on a hit are affected as though by a [[rangoric-srd/spells/Fear|fear]] spell from a sorcerer of the lich’s level. A creature the aura misses cannot be affected again by the same lich’s aura for 24 hours.
 
-_Paralyzing Touch (Su)_: Any living creature a lich hits with its touch attack must succeed on a Fortitude save or be permanently [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]]. [[rangoric-srd/spells/Remove Paralysis|Remove paralysis]] or any spell that can remove a curse can free the victim (see the [[rangoric-srd/spells/Bestow Curse|bestow curse]] spell description). The effect cannot be [[rangoric-srd/spells/Dispel Magic|dispelled]]. Anyone paralyzed by a lich seems dead, though a DC 20 [[rangoric-srd/skills/Perception|Perception]] check or a DC 15 [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] check reveals that the victim is still alive.
+_Paralyzing Touch (Su)_: Any living creature a lich hits with its touch attack is attacked against Fortitude, and on a hit is permanently [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]]. [[rangoric-srd/spells/Remove Paralysis|Remove paralysis]] or any spell that can remove a curse can free the victim (see the [[rangoric-srd/spells/Bestow Curse|bestow curse]] spell description). The effect cannot be [[rangoric-srd/spells/Dispel Magic|dispelled]]. Anyone paralyzed by a lich seems dead, though a DC 20 [[rangoric-srd/skills/Perception|Perception]] check or a DC 15 [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] check reveals that the victim is still alive.
 
 _Spells_: A lich can cast any spells it could cast while alive.
 

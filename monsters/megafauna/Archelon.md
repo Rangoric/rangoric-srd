@@ -15,7 +15,7 @@ full-attack: "Bite +10 melee (2d8+9)"
 space-reach: "15 ft./10 ft."
 special-attacks: "Capsize (DC 25)"
 special-qualities: "Low-light vision, scent, hold breath"
-saves: "Fort +9, Ref +6, Will +5"
+defenses: "Fort 19, Ref 16, Will 15"
 abilities: "Str 22, Dex 13, Con 19, Int 2, Wis 12, Cha 6"
 skills: "Athletics +18, Perception +10"
 skill-ranks: "Athletics 9, Perception 6"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Capsize|Capsize]] (DC 25)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]]
-- **Saves**: Fort +9, Ref +6, Will +5
+- **Defenses**: Fort 19, Ref 16, Will 15
 - **Abilities**: Str 22, Dex 13, Con 19, Int 2, Wis 12, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Perception|Perception]] +10
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)

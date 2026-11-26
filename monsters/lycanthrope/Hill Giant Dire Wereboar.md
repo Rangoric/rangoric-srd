@@ -14,7 +14,7 @@ full-attack: "Greatclub +21/+16 melee (2d8+10) or 2 slams +20 melee (1d4+7) or r
 space-reach: "10 ft./10 ft. / 10 ft./5 ft."
 special-attacks: "Rock throwing / Curse of lycanthropy"
 special-qualities: "Alternate form, boar empathy, ferocity, low-light vision, rock catching, scent / Alternate form, boar empathy, damage reduction 10/silver, ferocity, low-light vision, scent"
-saves: "Fort +17, Ref +8, Will +12 / Fort +20, Ref +8, Will +12"
+defenses: "Fort 27, Ref 18, Will 22 / Fort 30, Ref 18, Will 22"
 abilities: "Str 25, Dex 8, Con 19, Int 6, Wis 12, Cha 7 / Str 41, Dex 8, Con 25, Int 6, Wis 12, Cha 7"
 skills: "Athletics +17, Perception +16 / Athletics +28 (+32 jumping), Perception +16 / Athletics +28 (+32 jumping), Perception +16"
 skill-ranks: "Athletics 10, Perception 9"
@@ -54,7 +54,7 @@ tags: [rangoric, rangoric/monster]
 | **Space/Reach:** | 10 ft./10 ft. | | 10 ft./5 ft. | | 10 ft./10 ft. |
 | **Special Attacks:** | Rock throwing | | Curse of lycanthropy | | Curse of lycanthropy |
 | **Special Qualities:** | [[rangoric-srd/monsters/abilities/Alternate Form\|Alternate form]], boar empathy, ferocity, low-light vision, rock catching, [[rangoric-srd/monsters/abilities/Scent\|scent]] | | [[rangoric-srd/monsters/abilities/Alternate Form\|Alternate form]], boar empathy, [[rangoric-srd/monsters/abilities/Damage Reduction\|damage reduction]] 10/silver, ferocity, low-light vision, [[rangoric-srd/monsters/abilities/Scent\|scent]] | | [[rangoric-srd/monsters/abilities/Alternate Form\|Alternate form]], boar empathy, [[rangoric-srd/monsters/abilities/Damage Reduction\|damage reduction]] 10/silver, ferocity, low-light vision, [[rangoric-srd/monsters/abilities/Scent\|scent]] |
-| **Saves:** | Fort +17, Ref +8, Will +12 | | Fort +20, Ref +8, Will +12 | | Fort +20, Ref +8, Will +12 |
+| **Defenses:** | Fort 27, Ref 18, Will 22 | | Fort 30, Ref 18, Will 22 | | Fort 30, Ref 18, Will 22 |
 | **Abilities:** | Str 25, Dex 8, Con 19, Int 6, Wis 12, Cha 7 | | Str 41, Dex 8, Con 25, Int 6, Wis 12, Cha 7 | | Str 41, Dex 8, Con 25, Int 6, Wis 12, Cha 7 |
 | **Skills:** | [[rangoric-srd/skills/Athletics\|Athletics]] +17, [[rangoric-srd/skills/Perception\|Perception]] +16 | | [[rangoric-srd/skills/Athletics\|Athletics]] +28 (+32 jumping), [[rangoric-srd/skills/Perception\|Perception]] +16 | | [[rangoric-srd/skills/Athletics\|Athletics]] +28 (+32 jumping), [[rangoric-srd/skills/Perception\|Perception]] +16 |
 | **Feats:** | [[rangoric-srd/feats/Cleave\|Cleave]], [[rangoric-srd/feats/Endurance\|Endurance]], [[rangoric-srd/feats/Improved Bull Rush\|Improved Bull Rush]], [[rangoric-srd/feats/Improved Sunder\|Improved Sunder]], [[rangoric-srd/feats/Iron Will\|Iron Will (B)]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception) (B), [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (greatclub) | | (same as giant form) | | (same as giant form) |
@@ -76,6 +76,6 @@ Dire wereboars anger quickly. They usually begin a battle in giant form, then sw
 
 **Boar Empathy (Ex)**: Communicate with boars and dire boars, and +4 racial bonus on Charisma-based checks against boars and dire boars.
 
-**Curse of Lycanthropy (Su)**: Any humanoid or giant hit by a dire wereboar’s bite attack in animal or hybrid form must succeed on a DC 15 Fortitude save or contract lycanthropy.
+**Curse of Lycanthropy (Su)**: Any humanoid or giant hit by a dire wereboar’s bite attack in animal or hybrid form is attacked at +5 vs Fortitude, and on a hit contracts lycanthropy.
 
 **Ferocity (Ex)**: A dire wereboar is such a tenacious combatant that it continues to fight without penalty even while [[rangoric-srd/rules/Special Abilities and Conditions#^disabled|disabled]] or [[rangoric-srd/rules/Special Abilities and Conditions#^dying|dying]].

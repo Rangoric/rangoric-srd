@@ -16,7 +16,7 @@ full-attack: "Slam +4 melee (1d6); or water jet +5 ranged touch (1 plus blind)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +1d6, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, air cyst, amphibious, change shape (Small seaweed; tree shape), verdant burst, immunity to electricity and sonic, plant traits"
-saves: "Fort +6, Ref +2, Will +3"
+defenses: "Fort 16, Ref 12, Will 13"
 abilities: "Str 10, Dex 13, Con 14, Int 9, Wis 15, Cha 12"
 skills: "Athletics +8, Fieldcraft +3 (+7 in water), Perception +7, Stealth +9 (+13 in water)"
 skill-ranks: "Athletics 5, Fieldcraft 1, Perception 2, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Sneak attack +1d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Air Cyst|air cyst]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (Small seaweed; tree shape), verdant burst, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and sonic, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-- **Saves**: Fort +6, Ref +2, Will +3
+- **Defenses**: Fort 16, Ref 12, Will 13
 - **Abilities**: Str 10, Dex 13, Con 14, Int 9, Wis 15, Cha 12
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3 (+7 in water), [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +9 (+13 in water)
 - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (water jet), [[rangoric-srd/feats/Toughness|Toughness]]
@@ -73,11 +73,11 @@ Seaweed leshys speak Druidic and Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +9): Constant—_[[rangoric-srd/spells/Pass without Trace|pass without trace]]_; 1/day—_[[rangoric-srd/spells/Entangle|entangle]]_ (in water only, DC 12).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +9): Constant—_[[rangoric-srd/spells/Pass without Trace|pass without trace]]_; 1/day—_[[rangoric-srd/spells/Entangle|entangle]]_ (in water only, +2 vs Reflex).
 
 **[[rangoric-srd/monsters/abilities/Air Cyst|Air Cyst]] (Su)**: Seaweed leshys constantly grow small bulbs filled with air. As a move action, they can detach a bulb and give it to another creature. If consumed as a standard action, this air cyst grants water breathing (as the spell) for 10 minutes. Seaweed leshys can have a maximum of four usable air cysts at any one time, and air cysts regrow at a rate of one per 24 hours.
 
-**Water Jet (Ex)**: A seaweed leshy can expel a high-pressure jet of water from its mouth to a range of 30 feet. It must make a ranged touch attack to strike a target—if it hits, the blast deals 1 point of bludgeoning damage (this damage is not modified by Strength). In addition, the creature hit must make a DC 15 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] by the water for 1 round. The save DC is Dexterity-based.
+**Water Jet (Ex)**: A seaweed leshy can expel a high-pressure jet of water from its mouth to a range of 30 feet. It must make a ranged touch attack to strike a target—if it hits, the blast deals 1 point of bludgeoning damage (this damage is not modified by Strength). In addition, the creature hit is attacked at +5 vs Fortitude, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] by the water for 1 round. The attack bonus is Dexterity-based.
 
 ### Creation
 

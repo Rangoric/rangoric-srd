@@ -16,7 +16,7 @@ full-attack: "Masterwork trident +9 melee (1d8+3) / Masterwork trident +9 melee 
 space-reach: "5 ft./5 ft. / 5 ft./5 ft."
 special-attacks: "— / —"
 special-qualities: "Low-light vision, scent, bravery +1, armor training 1, change shape (human, hybrid, and shark; polymorph), lycanthropic empathy (sharks and dire sharks) / Blindsense 30 ft., low-light vision, keen scent, bravery +1, armor training 1, change shape (human, hybrid, and shark; polymorph), lycanthropic empathy (sharks and dire sharks), damage reduction 10/silver"
-saves: "Fort +5, Ref +2, Will +3 / Fort +6, Ref +2, Will +3"
+defenses: "Fort 15, Ref 12, Will 13 / Fort 16, Ref 12, Will 13"
 abilities: "Str 17, Dex 12, Con 14, Int 8, Wis 15, Cha 8 / Str 19, Dex 12, Con 16, Int 8, Wis 15, Cha 8"
 skills: "Athletics +10, Fieldcraft +8 / Athletics +11, Fieldcraft +8"
 skill-ranks: "Athletics 4, Fieldcraft 3"
@@ -54,7 +54,7 @@ tags: [rangoric, rangoric/monster]
 | **Space/Reach:** | 5 ft./5 ft. | | 5 ft./5 ft. |
 | **Special Attacks:** | — | | — |
 | **Special Qualities:** | [[rangoric-srd/monsters/abilities/Low-Light Vision\|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent\|scent]], [[rangoric-srd/classes/Fighter#^fighter-bravery\|bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training\|armor training]] 1, [[rangoric-srd/monsters/abilities/Change Shape\|change shape]] (human, hybrid, and shark; polymorph), [[rangoric-srd/monsters/abilities/Lycanthropic Empathy\|lycanthropic empathy]] (sharks and dire sharks) | | [[rangoric-srd/monsters/abilities/Blindsense\|Blindsense]] 30 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision\|low-light vision]], [[rangoric-srd/monsters/abilities/Keen Scent\|keen scent]], [[rangoric-srd/classes/Fighter#^fighter-bravery\|bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training\|armor training]] 1, [[rangoric-srd/monsters/abilities/Change Shape\|change shape]] (human, hybrid, and shark; polymorph), [[rangoric-srd/monsters/abilities/Lycanthropic Empathy\|lycanthropic empathy]] (sharks and dire sharks), [[rangoric-srd/monsters/abilities/Damage Reduction\|damage reduction]] 10/silver |
-| **Saves:** | Fort +5, Ref +2, Will +3 | | Fort +6, Ref +2, Will +3 |
+| **Defenses:** | Fort 15, Ref 12, Will 13 | | Fort 16, Ref 12, Will 13 |
 | **Abilities:** | Str 17, Dex 12, Con 14, Int 8, Wis 15, Cha 8 | | Str 19, Dex 12, Con 16, Int 8, Wis 15, Cha 8 |
 | **Skills:** | [[rangoric-srd/skills/Athletics\|Athletics]] +10, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +8 | | [[rangoric-srd/skills/Athletics\|Athletics]] +11, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +8 |
 | **Feats:** | [[rangoric-srd/feats/Cleave\|Cleave]], [[rangoric-srd/feats/Great Cleave\|Great Cleave]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Toughness\|Toughness]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (trident) | | [[rangoric-srd/feats/Cleave\|Cleave]], [[rangoric-srd/feats/Great Cleave\|Great Cleave]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Toughness\|Toughness]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (trident) |

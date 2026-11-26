@@ -16,7 +16,7 @@ full-attack: "Masterwork morningstar +8 melee (1d8+5) and bite +5 melee (1d6+2);
 space-reach: "5 ft./5 ft."
 special-attacks: "Rage (6 rounds/day)"
 special-qualities: "Fast movement, hold breath"
-saves: "Fort +9, Ref +2, Will +3"
+defenses: "Fort 19, Ref 12, Will 13"
 abilities: "Str 21, Dex 14, Con 19, Int 9, Wis 12, Cha 8"
 skills: "Acrobatics +10, Athletics +18 (+22 jumping), Fieldcraft +5, Perception +6"
 skill-ranks: "Acrobatics 5, Athletics 10, Fieldcraft 1, Perception 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (6 rounds/day)
 - **Special Qualities**: [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|Fast movement]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]]
-- **Saves**: Fort +9, Ref +2, Will +3
+- **Defenses**: Fort 19, Ref 12, Will 13
 - **Abilities**: Str 21, Dex 14, Con 19, Int 9, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +18 (+22 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Perception|Perception]] +6
 - **Feats**: [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]]

@@ -16,7 +16,7 @@ full-attack: "+2 bastard sword +20/+15/+10 melee (1d10+8/19–20) and slam +13 m
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, regeneration 5 (chaotic), constructed, damage reduction 10/chaotic, spell resistance 23"
-saves: "Fort +14, Ref +10, Will +11"
+defenses: "Fort 24, Ref 20, Will 21"
 abilities: "Str 22, Dex 19, Con 23, Int 10, Wis 17, Cha 16"
 skills: "Fieldcraft +18, Imitation +22, Perception +24, Persuasion +22, Sense Motive +18, Theology +15"
 skill-ranks: "Fieldcraft 12, Imitation 12, Perception 16, Persuasion 12, Sense Motive 16, Theology 12"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (chaotic), [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^inevitable|constructed]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/chaotic, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23
-- **Saves**: Fort +14, Ref +10, Will +11
+- **Defenses**: Fort 24, Ref 20, Will 21
 - **Abilities**: Str 22, Dex 19, Con 23, Int 10, Wis 17, Cha 16
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +18, [[rangoric-srd/skills/Imitation|Imitation]] +22, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Persuasion|Persuasion]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Theology|Theology]] +15
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (suggestion), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -78,4 +78,4 @@ Like all inevitables, a kolyarut is patient enough to study a target before stri
 
 A kolyarut’s favorite tactic is to use [[rangoric-srd/spells/Invisibility|invisibility]] or [[rangoric-srd/spells/Disguise Self|disguise self]] to sneak close, then eliminate the quarry with its vampiric touch ability before it can react. A kolyarut has no compunctions about using its vampiric touch ability on allies to increase its own power, if doing so helps it complete its mission.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +15): At will—_[[rangoric-srd/spells/Discern Lies|discern lies]]_ (DC 17), _[[rangoric-srd/spells/Disguise Self|disguise self]]_, _[[rangoric-srd/spells/Enervation|enervation]]_, _[[rangoric-srd/spells/Fear|fear]]_ (DC 17), _[[rangoric-srd/spells/Hold Person|hold person]]_ (DC 16), _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only), _[[rangoric-srd/spells/Locate Creature|locate creature]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 16), _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_; 3/day—_[[rangoric-srd/spells/Hold Monster|hold monster]]_ (DC 18), _[[rangoric-srd/spells/Mark of Justice|mark of justice]]_, quickened _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 16); 1/week—_[[rangoric-srd/spells/Geas-Quest|geas/quest]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +15): At will—_[[rangoric-srd/spells/Discern Lies|discern lies]]_ (+7 vs Will), _[[rangoric-srd/spells/Disguise Self|disguise self]]_, _[[rangoric-srd/spells/Enervation|enervation]]_, _[[rangoric-srd/spells/Fear|fear]]_ (+7 vs Will), _[[rangoric-srd/spells/Hold Person|hold person]]_ (+6 vs Will), _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only), _[[rangoric-srd/spells/Locate Creature|locate creature]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_ (+6 vs Will), _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_; 3/day—_[[rangoric-srd/spells/Hold Monster|hold monster]]_ (+8 vs Will), _[[rangoric-srd/spells/Mark of Justice|mark of justice]]_, quickened _[[rangoric-srd/spells/Suggestion|suggestion]]_ (+6 vs Will); 1/week—_[[rangoric-srd/spells/Geas-Quest|geas/quest]]_.

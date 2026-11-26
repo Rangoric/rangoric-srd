@@ -15,7 +15,7 @@ full-attack: "2 claws +4 melee (2d6+4), bite +2 melee (2d8+2), and tail slam +2 
 space-reach: "15 ft./10 ft."
 special-attacks: "Acid spray, frightful presence, improved grab, snatch"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, spell resistance 18"
-saves: "Fort +7, Ref +6, Will +6"
+defenses: "Fort 17, Ref 16, Will 16"
 abilities: "Str 19, Dex 13, Con 17, Int 6, Wis 12, Cha 9"
 skills: "Intimidation +9, Perception +14, Stealth +3"
 skill-ranks: "Intimidation 7, Perception 7, Stealth 7"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./10 ft.
 - **Special Attacks**: Acid spray, [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]], [[rangoric-srd/monsters/abilities/Grab|improved grab]], snatch
 - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 18
-- **Saves**: Fort +7, Ref +6, Will +6
+- **Defenses**: Fort 17, Ref 16, Will 16
 - **Abilities**: Str 19, Dex 13, Con 17, Int 6, Wis 12, Cha 9
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +3
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Multiattack|Multiattack]]
@@ -66,9 +66,9 @@ Lesser jabberwocks, as the winged branch of the jabberwock family tree, prefer t
 
 The lesser jabberwock is a brutal monster but more cunning than its larger cousin. If alone, it fights like a [[rangoric-srd/monsters/jabberwock/Greater Jabberwock|greater jabberwock]], but in pairs or greater numbers, lesser jabberwocks use pack tactics to herd their prey and separate out easy targets from those that put up resistance.
 
-**Acidic Spray (Ex)**: The saliva of a lesser jabberwock is acidic, and it can spray this in a cone dealing 4d8 points of damage. A lesser jabberwock that uses this ability cannot use it again for 1d4 rounds. A successful Fortitude save (DC 17) reduces this damage by half.
+**Acidic Spray (Ex)**: The saliva of a lesser jabberwock is acidic, and it can spray this in a cone dealing 4d8 points of damage. A lesser jabberwock that uses this ability cannot use it again for 1d4 rounds. It attacks at +7 vs Fortitude, and a miss reduces this damage by half.
 
-**Frightful Presence (Ex)**: Any creature that encounters a lesser jabberwock becomes [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] if it fails a DC 15 Will save.
+**Frightful Presence (Ex)**: Any creature that encounters a lesser jabberwock is attacked at +5 vs Will, and becomes [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] on a hit.
 
 **Improved Grab (Ex)**: To use this ability, the lesser jabberwock must hit with one of its claw attacks.
 
