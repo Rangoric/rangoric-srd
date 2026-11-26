@@ -21,7 +21,7 @@ _A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [
 
 This power replaces the [[rangoric-srd/class-options/domains/Charm Domain#Granted Powers|dazing touch]] power of the [[rangoric-srd/class-options/domains/Charm Domain|Charm]] domain.
 
-**Adoration (Su)**: As an immediate action, you can attempt to thwart a melee or ranged attack that targets you. This ability functions as _[[rangoric-srd/spells/Sanctuary|sanctuary]]_, but only against one individual attack. You must use the ability after the attack is declared but before the roll is made. The creature attacking you receives a Will save to negate this effect. If a creature has more than one attack, this ability only affects one of the attacks. You can use the ability a number of times per day equal to 3 + your Wisdom modifier. This is a mind-affecting effect.
+**Adoration (Su)**: As an immediate action, you can attempt to thwart a melee or ranged attack that targets you. This ability functions as _[[rangoric-srd/spells/Sanctuary|sanctuary]]_, but only against one individual attack. You must use the ability after the attack is declared but before the roll is made. It attacks the Will of the creature attacking you, and a miss negates this effect. If a creature has more than one attack, this ability only affects one of the attacks. You can use the ability a number of times per day equal to 3 + your Wisdom modifier. This is a mind-affecting effect.
 
 ## Replacement Domain Spells
 

@@ -23,7 +23,7 @@ _A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]]._
 
 You have pledged your life and soul to goodness and purity.
 
-**Touch of Good (Sp)**: You can touch a creature as a standard action, granting a sacred bonus on attack rolls, skill checks, ability checks, and saving throws equal to half your cleric level (minimum 1) for 1 round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+**Touch of Good (Sp)**: You can touch a creature as a standard action, granting a sacred bonus on attack rolls, skill checks, ability checks, and defenses equal to half your cleric level (minimum 1) for 1 round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 **Holy Lance (Su)**: At 8th level, you can give a weapon you touch the _[[rangoric-srd/magic-items/weapon-abilities/Holy|holy]]_ special weapon quality for a number of rounds equal to 1/2 your cleric level. You can use this ability once per day at 8th level, and an additional time per day for every four levels beyond 8th.
 
@@ -35,8 +35,8 @@ Where a level has two spells, the cleric prepares [[rangoric-srd/class-options/d
 
 | Level | Spell                                                                                    | Brief Description                                                                                    |
 | ----- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 1st   | [[rangoric-srd/spells/Protection from Evil\|Protection from Evil]]                       | +2 to AC and saves, counter mind control, hedge out elementals and outsiders.                        |
-| 2nd   | [[rangoric-srd/spells/Aid\|Aid]]                                                         | +1 on attack rolls, +1 on saves against fear, 1d8 temporary hp +1/level (max +10).                   |
+| 1st   | [[rangoric-srd/spells/Protection from Evil\|Protection from Evil]]                       | +2 to AC and defenses, counter mind control, hedge out elementals and outsiders.                     |
+| 2nd   | [[rangoric-srd/spells/Aid\|Aid]]                                                         | +1 on attack rolls, +1 on defenses against fear, 1d8 temporary hp +1/level (max +10).                |
 | 2nd   | [[rangoric-srd/spells/Align Weapon\|Align Weapon]] (good only)                           | Weapon becomes good, evil, lawful, or chaotic.                                                       |
 | 3rd   | [[rangoric-srd/spells/Magic Circle against Evil\|Magic Circle against Evil]]             | As protection spells, but 10-ft. radius and 10 min./level.                                           |
 | 4th   | [[rangoric-srd/spells/Holy Smite\|Holy Smite]]                                           | Damages and [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blinds]] evil creatures. |

@@ -22,7 +22,7 @@ You see the perfection of nature in the spindly limbs and strange forms of all v
 
 **Vermin Whisperer (Su)**: You can use your wild empathy ability on vermin. When you do so, you impart a modicum of implanted intelligence on the vermin, allowing you to interact with vermin as if they were animals. Vermin whisperer functions only on vermin that are mindless or have an Intelligence score of 2 or lower.
 
-**Sudden Sting (Su)**: At 8th level, you can inflict a lingering, painful sting as a swift action that requires a successful melee touch attack. This sting deals 1d4 points of piercing damage plus 1 point for every 2 druid levels you have, and the target must succeed at a Fortitude save (DC = 10 + half your druid level + your Constitution modifier) or become staggered for 1 round. This is a pain effect. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+**Sudden Sting (Su)**: At 8th level, you can inflict a lingering, painful sting as a swift action that requires a successful melee touch attack. This sting deals 1d4 points of piercing damage plus 1 point for every 2 druid levels you have, and it attacks the target’s Fortitude at half your druid level + your Constitution modifier, and on a hit the target becomes staggered for 1 round. This is a pain effect. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 ## Domain Spells
 

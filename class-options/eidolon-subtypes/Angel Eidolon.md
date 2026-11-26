@@ -24,7 +24,7 @@ _Base Form_: Biped (limbs [arms], limbs [legs], slam).
 
 _Base Evolutions_:
 
-- At 1st level, angel eidolons gain the resistance (acid) and [[rangoric-srd/class-options/evolutions/Resistance (Evolution)|resistance]] (cold) evolutions. They also gain a +4 bonus on saving throws against poison.
+- At 1st level, angel eidolons gain the resistance (acid) and [[rangoric-srd/class-options/evolutions/Resistance (Evolution)|resistance]] (cold) evolutions. They also gain a +4 bonus on defenses against poison.
 - At 4th level, angel eidolons gain electricity resistance 10 and fire resistance 10.
 - At 8th level, angel eidolons grow large, feathery wings, gaining the [[rangoric-srd/class-options/evolutions/Flight (Evolution)|flight]] evolution.
 - At 12th level, angel eidolons gain DR 5/evil. They also gain immunity to petrification and the truespeech ability (see the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^angel|angel subtype]]).

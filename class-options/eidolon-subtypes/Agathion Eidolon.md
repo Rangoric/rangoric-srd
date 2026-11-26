@@ -24,7 +24,7 @@ _Base Form_: Biped (claws, limbs [arms], limbs [legs]) or quadruped (limbs [legs
 
 _Base Evolutions_:
 
-- Starting at 1st level, agathion eidolons gain the [[rangoric-srd/class-options/evolutions/Resistance (Evolution)|resistance]] (electricity) evolution. They also gain a +4 bonus on saving throws against poison and petrification.
+- Starting at 1st level, agathion eidolons gain the [[rangoric-srd/class-options/evolutions/Resistance (Evolution)|resistance]] (electricity) evolution. They also gain a +4 bonus on defenses against poison and petrification.
 - At 4th level, agathion eidolons gain cold resistance 10 and sonic resistance 10.
 - At 8th level, agathion eidolons gain [[rangoric-srd/classes/Paladin#^paladin-lay-on-hands|lay on hands]] as paladins with levels equal to their Hit Dice.
 - At 12th level, agathion eidolons gain DR 5/evil. They also gain immunity to petrification and the truespeech ability (see the agathion subtype).

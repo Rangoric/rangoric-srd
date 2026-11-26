@@ -21,7 +21,7 @@ _A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [
 
 This power replaces the [[rangoric-srd/class-options/domains/Artifice Domain#Granted Powers|dancing weapons]] power of the [[rangoric-srd/class-options/domains/Artifice Domain|Artifice]] domain.
 
-**Aura of Repetition (Su)**: At 8th level, you can emit a 30-foot aura of repetition for a number of rounds per day equal to your cleric level. All enemies within this aura must make a Will save each round or repeat their action from the previous round (if possible). Creatures that attacked on the previous round attack again on the following round, although they may change their target. Creatures that moved the previous round must take the same move action again, although they may change their route. Creatures that drank a potion must do so again, even they can only drink from an empty bottle. Actions that cannot be repeated are wasted. These rounds do not need to be consecutive.
+**Aura of Repetition (Su)**: At 8th level, you can emit a 30-foot aura of repetition for a number of rounds per day equal to your cleric level. The aura attacks the Will of all enemies within it each round, and on a hit they repeat their action from the previous round (if possible). Creatures that attacked on the previous round attack again on the following round, although they may change their target. Creatures that moved the previous round must take the same move action again, although they may change their route. Creatures that drank a potion must do so again, even they can only drink from an empty bottle. Actions that cannot be repeated are wasted. These rounds do not need to be consecutive.
 
 ## Replacement Domain Spells
 

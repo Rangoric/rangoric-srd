@@ -27,8 +27,8 @@ This power replaces the [[rangoric-srd/class-options/domains/Chaos Domain#Grante
 
 Each spell takes the place of that domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell                                                                | Brief Description                                                      |
-| ----- | -------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| 1st   | [[rangoric-srd/spells/Doom\|Doom]]                                   | One subject takes –2 on attack rolls, damage rolls, saves, and checks. |
-| 3rd   | [[rangoric-srd/spells/Rage\|Rage]]                                   | Subjects gains +2 to Str and Con, +1 on Will saves, –2 to AC.          |
-| 6th   | [[rangoric-srd/spells/Planar Binding\|Planar Binding]] (demons only) | As lesser planar binding, but up to 12 HD.                             |
+| Level | Spell                                                                | Brief Description                                                         |
+| ----- | -------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 1st   | [[rangoric-srd/spells/Doom\|Doom]]                                   | One subject takes –2 on attack rolls, damage rolls, defenses, and checks. |
+| 3rd   | [[rangoric-srd/spells/Rage\|Rage]]                                   | Subjects gains +2 to Str and Con, +1 to Will Defense, –2 to AC.           |
+| 6th   | [[rangoric-srd/spells/Planar Binding\|Planar Binding]] (demons only) | As lesser planar binding, but up to 12 HD.                                |

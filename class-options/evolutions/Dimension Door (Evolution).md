@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A 4-point evolution (Sp) for a [[rangoric-srd/classes/Summoner|summoner]]’s or [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon._
 
-An eidolon learns to cast _[[rangoric-srd/spells/Dimension Door|dimension door]]_ as a spell-like ability once per day. The caster level for this evolution is equal to the eidolon’s Hit Dice. The save DC for this spell is 10 + 1/2 the eidolon’s HD + the eidolon’s Charisma modifier. The eidolon must have a Charisma score of at least 14 to take this evolution. The summoner must be at least 13th level before selecting this evolution.
+An eidolon learns to cast _[[rangoric-srd/spells/Dimension Door|dimension door]]_ as a spell-like ability once per day. The caster level for this evolution is equal to the eidolon’s Hit Dice. The attack bonus for this spell is 1/2 the eidolon’s HD + the eidolon’s Charisma modifier. The eidolon must have a Charisma score of at least 14 to take this evolution. The summoner must be at least 13th level before selecting this evolution.

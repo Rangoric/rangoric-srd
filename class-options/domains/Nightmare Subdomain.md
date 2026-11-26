@@ -21,7 +21,7 @@ _A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [
 
 This power replaces the [[rangoric-srd/class-options/domains/Madness Domain#Granted Powers|vision of madness]] power of the [[rangoric-srd/class-options/domains/Madness Domain|Madness]] domain.
 
-**Fearful Touch (Su)**: As a standard action, you can make a melee touch attack against a creature, causing it to experience terrible hallucinations for 1 round. During this time, the creature loses any immunity to fear effects it might possess and takes a –2 penalty on attack rolls made against you. In addition, the creature takes a penalty on Will saves made against fear effects equal to 1/2 your cleric level (minimum –1). This power is a mind-affecting effect. You can use this ability for a number of times per day equal to 3 + your Wisdom modifier.
+**Fearful Touch (Su)**: As a standard action, you can make a melee touch attack against a creature, causing it to experience terrible hallucinations for 1 round. During this time, the creature loses any immunity to fear effects it might possess and takes a –2 penalty on attack rolls made against you. In addition, the creature takes a penalty on Will Defense against fear effects equal to 1/2 your cleric level (minimum –1). This power is a mind-affecting effect. You can use this ability for a number of times per day equal to 3 + your Wisdom modifier.
 
 ## Replacement Domain Spells
 

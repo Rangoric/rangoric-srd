@@ -26,8 +26,8 @@ _Good Saves_: Fortitude and Reflex.
 
 **Ruthless Combatant (Su)**: The phantom threatens a critical hit with its slam attacks on a roll of 19–20. When the spiritualist reaches 11th level, the phantom’s critical modifier with slam attacks increases to ×3. This doesn’t stack with [[rangoric-srd/feats/Improved Critical|Improved Critical]] or similar effects.
 
-**Determination Aura (Su)**: When the spiritualist reaches 7th level, as a swift action, the phantom can emit a 20-foot-radius aura that grants its zeal to nearby allies. Allies within the aura gain a +2 competence bonus on attack rolls and saving throws. The phantom can use this ability in either ectoplasmic or incorporeal form.
+**Determination Aura (Su)**: When the spiritualist reaches 7th level, as a swift action, the phantom can emit a 20-foot-radius aura that grants its zeal to nearby allies. Allies within the aura gain a +2 competence bonus on attack rolls and defenses. The phantom can use this ability in either ectoplasmic or incorporeal form.
 
 **Steadfast Servant (Su)**: When the spiritualist reaches 12th level, the phantom can stay manifested even when its spiritualist master is unconscious or asleep.
 
-**Zeal’s Resolve (Su)**: When the spiritualist reaches 17th level, three times per day as a free action, when the phantom misses with an attack roll or fails a saving throw, it can reroll the failed attack or saving throw. It must take the new result, even if that result is worse.
+**Zeal’s Resolve (Su)**: When the spiritualist reaches 17th level, three times per day as a free action, when the phantom misses with an attack roll or an attack hits its defense, it can reroll the failed attack or make the attack against it reroll, keeping the result better for it. It must take the new result, even if that result is worse.

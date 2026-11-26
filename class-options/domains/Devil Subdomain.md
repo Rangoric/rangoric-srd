@@ -21,7 +21,7 @@ _A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [
 
 This power replaces the [[rangoric-srd/class-options/domains/Evil Domain#Granted Powers|touch of evil]] power of the [[rangoric-srd/class-options/domains/Evil Domain|Evil]] domain or the [[rangoric-srd/class-options/domains/Law Domain#Granted Powers|touch of law]] power of the [[rangoric-srd/class-options/domains/Law Domain|Law]] domain. Devils are a race of lawful evil outsiders.
 
-**Hell's Corruption (Su)**: You can cause a creature to become more susceptible to corruption as a melee touch attack. Creatures touched take a –2 penalty on all saving throws and must roll all opposed skill checks twice, taking the worse result. This effect lasts for a number of rounds equal to 1/2 your cleric level (minimum 1). You can use this ability for a number of times per day equal to 3 + your Wisdom modifier.
+**Hell's Corruption (Su)**: You can cause a creature to become more susceptible to corruption as a melee touch attack. Creatures touched take a –2 penalty on all defenses and must roll all opposed skill checks twice, taking the worse result. This effect lasts for a number of rounds equal to 1/2 your cleric level (minimum 1). You can use this ability for a number of times per day equal to 3 + your Wisdom modifier.
 
 ## Replacement Domain Spells
 

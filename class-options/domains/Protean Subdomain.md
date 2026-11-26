@@ -21,7 +21,7 @@ _A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [
 
 This power replaces the [[rangoric-srd/class-options/domains/Chaos Domain#Granted Powers|chaos blade]] power of the [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]] domain. Proteans are a race of chaotic neutral outsiders.
 
-**Aura of Chaos (Su)**: At 8th level, you can surround yourself with a field wild energies. Thee energies manifest as a 30-foot aura of chaos for a number of rounds per day equal to your cleric level. All enemies within this aura must declare one type of action at the start of their turn (attack, cast a spell, move, use an item, or activate a special ability) and make a Will save. Creatures that fail the Will save must take an action other than their declared action. If they succeed, they must take the declared action. Creatures cannot select actions that they cannot perform.
+**Aura of Chaos (Su)**: At 8th level, you can surround yourself with a field wild energies. Thee energies manifest as a 30-foot aura of chaos for a number of rounds per day equal to your cleric level. All enemies within this aura must declare one type of action at the start of their turn (attack, cast a spell, move, use an item, or activate a special ability) and the aura attacks their Will. Creatures it hits must take an action other than their declared action. If it misses, they must take the declared action. Creatures cannot select actions that they cannot perform.
 
 ## Replacement Domain Spells
 

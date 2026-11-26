@@ -27,7 +27,7 @@ This power replaces the [[rangoric-srd/class-options/domains/Strength Domain#Gra
 
 Each spell takes the place of the domain’s spells at its level (both, where it lists two); its spells at the other levels stay.
 
-| Level | Spell                                                               | Brief Description                                             |
-| ----- | ------------------------------------------------------------------- | ------------------------------------------------------------- |
-| 3rd   | [[rangoric-srd/spells/Rage\|Rage]]                                  | Subjects gains +2 to Str and Con, +1 on Will saves, –2 to AC. |
-| 6th   | [[rangoric-srd/spells/Bull’s Strength, Mass\|Mass Bull’s Strength]] | As bull’s strength, affects one subject/level.                |
+| Level | Spell                                                               | Brief Description                                               |
+| ----- | ------------------------------------------------------------------- | --------------------------------------------------------------- |
+| 3rd   | [[rangoric-srd/spells/Rage\|Rage]]                                  | Subjects gains +2 to Str and Con, +1 to Will Defense, –2 to AC. |
+| 6th   | [[rangoric-srd/spells/Bull’s Strength, Mass\|Mass Bull’s Strength]] | As bull’s strength, affects one subject/level.                  |

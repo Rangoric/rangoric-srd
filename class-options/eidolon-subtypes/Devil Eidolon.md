@@ -24,7 +24,7 @@ _Base Form_: Biped (claws, limbs [arms], limbs [legs]).
 
 _Base Evolutions_:
 
-- Starting at 1st level, devil eidolons gain the [[rangoric-srd/class-options/evolutions/Resistance (Evolution)|resistance]] (fire) evolution and the [[rangoric-srd/class-options/evolutions/Skilled (Evolution)|skilled]] (Deception) evolution. They also gain a +4 bonus on saving throws against poison.
+- Starting at 1st level, devil eidolons gain the [[rangoric-srd/class-options/evolutions/Resistance (Evolution)|resistance]] (fire) evolution and the [[rangoric-srd/class-options/evolutions/Skilled (Evolution)|skilled]] (Deception) evolution. They also gain a +4 bonus on defenses against poison.
 - At 4th level, devil eidolons gain acid resistance 10 and cold resistance 10.
 - At 8th level, devil eidolons gain the skilled (Persuasion) evolution and gain immunity to poison.
 - At 12th level, devil eidolons gain DR 5/good. They also gain [[rangoric-srd/class-options/evolutions/See in Darkness (Evolution)|see in darkness]].

@@ -21,7 +21,7 @@ _A [[rangoric-srd/class-options/domains/Domains#^subdomains|subdomain]] of the [
 
 This power replaces the [[rangoric-srd/class-options/domains/Madness Domain#Granted Powers|vision of madness]] power of the [[rangoric-srd/class-options/domains/Madness Domain|Madness]] domain.
 
-**Insane Focus (Su)**: You can touch a willing creature as a standard action, granting it a +4 bonus on all saving throws made against mind-affecting effects and immunity to confusion. This bonus lasts for 1 minute. If the creature fails a saving throw against a mind-affecting effect during this period, it loses its immunity to confusion and is immediately confused for one round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
+**Insane Focus (Su)**: You can touch a willing creature as a standard action, granting it a +4 bonus on all defenses against mind-affecting effects and immunity to confusion. This bonus lasts for 1 minute. If a mind-affecting effect hits the creature during this period, it loses its immunity to confusion and is immediately confused for one round. You can use this ability a number of times per day equal to 3 + your Wisdom modifier.
 
 ## Replacement Domain Spells
 
