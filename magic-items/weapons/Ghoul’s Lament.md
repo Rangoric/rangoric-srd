@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Ghoul’s Lament
 
-This massive _+1 ghost touch disrupting warhammer_ is crafted from a single piece of metal. Its surface has no blemishes or distinguishing marks, and its haft is wrapped in dry, leathery, ancient skin. Three times per day as a free action, when used to strike an undead creature, that creature must succeed at a DC 20 Fortitude save or be knocked [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]].
+This massive _+1 ghost touch disrupting warhammer_ is crafted from a single piece of metal. Its surface has no blemishes or distinguishing marks, and its haft is wrapped in dry, leathery, ancient skin. Three times per day as a free action, when used to strike an undead creature, the hammer attacks that creature’s Fortitude at +10, and on a hit it is knocked [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]].
 
 Moderate evocation; CL 11th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Heal (Spell)|heal]]_, _[[rangoric-srd/spells/Plane Shift|plane shift]]_; Price 35,312 gp; Cost 17,812 gp.

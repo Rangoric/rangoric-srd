@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Life-Drinker
 
-This +1 greataxe is favored by undead and constructs, who do not suffer its drawback. A life-drinker bestows two negative levels on its target whenever it deals damage, just as if its target had been struck by an undead creature. One day after being struck, subjects must make a DC 16 Fortitude save for each negative level or the negative level becomes [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent]].
+This +1 greataxe is favored by undead and constructs, who do not suffer its drawback. A life-drinker bestows two negative levels on its target whenever it deals damage, just as if its target had been struck by an undead creature. Each day the negative levels attack the subject’s Fortitude again at +6, as [[rangoric-srd/rules/Special Abilities and Conditions#^negative-level-save|temporary negative levels]] do.
 
 Each time a life-drinker deals damage to a foe, it also bestows one negative level on the wielder. Any negative level gained by the wielder in this fashion lasts for 1 hour.
 

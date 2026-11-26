@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Javelin of Lightning
 
-This javelin becomes a 5d6 lightning bolt when thrown (Reflex DC 14 half ). It is consumed in the attack.
+This javelin becomes a 5d6 lightning bolt when thrown (+4 vs Reflex; a miss halves). It is consumed in the attack.
 
 Faint evocation; CL 5th; Craft Magic Arms and Armor, lightning bolt; Price 1,500 gp; Cost 750 gp + 30 XP.

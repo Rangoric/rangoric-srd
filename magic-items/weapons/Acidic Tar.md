@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Acidic Tar
 
-This thin glass flask contains a quantity of sticky acidic tar from the fabled tar beast. If hurled at a target, the flask breaks open, and the acid tar inflicts 1d6 points of damage per round, remaining effective for 1d4 rounds or until washed off. If struck characters are wearing armor, the armor must also make a Reflex saving throw (DC 12) or be destroyed.
+This thin glass flask contains a quantity of sticky acidic tar from the fabled tar beast. If hurled at a target, the flask breaks open, and the acid tar inflicts 1d6 points of damage per round, remaining effective for 1d4 rounds or until washed off. If struck characters are wearing armor, the tar also attacks the armor’s Reflex at +2, and on a hit the armor is destroyed.
 
 Creatures not directly struck within five feet of the point of impact take 1d4 points of damage from splashes. These creatures are in no danger of losing equipment to the acid.
 

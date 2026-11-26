@@ -16,5 +16,5 @@ tags: [rangoric, rangoric/magic-item]
 
 # Soulbreaker
 
-This weapon has a special ability that functions only upon scoring a successful critical hit. On a successful critical hit, a soulbreaker weapon bestows one negative level on the foe. One day after being struck, if the negative levels have not been purged, the subject must succeed on a DC 18 Fortitude save for each negative level or the negative level becomes [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent]].  
+This weapon has a special ability that functions only upon scoring a successful critical hit. On a successful critical hit, a soulbreaker weapon bestows one negative level on the foe. Each day the negative level attacks the subject’s Fortitude again at +8, as [[rangoric-srd/rules/Special Abilities and Conditions#^negative-level-save|temporary negative levels]] do.  
 Strong telepathy; ML 12th; Craft Psionic Arms and Armor, mindwipe; Price +3 bonus.
