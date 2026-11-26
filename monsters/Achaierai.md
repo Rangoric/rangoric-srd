@@ -16,7 +16,7 @@ full-attack: "Bite +10 melee (2d6+4) and 2 claws +10 melee (1d6+4)"
 space-reach: "10 ft./10 ft. with claw"
 special-attacks: "Black cloud"
 special-qualities: "Darkvision 60 ft., spell resistance 20"
-saves: "Fort +7, Ref +6, Will +4"
+defenses: "Fort 17, Ref 16, Will 14"
 abilities: "Str 19, Dex 13, Con 14, Int 11, Wis 14, Cha 16"
 skills: "Acrobatics +11, Athletics +14 (+22 jumping), Perception +12, Sense Motive +12, Stealth +7"
 skill-ranks: "Acrobatics 7, Athletics 7, Perception 7, Sense Motive 7, Stealth 7"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft. with claw
 - **Special Attacks**: Black cloud
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20
-- **Saves**: Fort +7, Ref +6, Will +4
+- **Defenses**: Fort 17, Ref 16, Will 14
 - **Abilities**: Str 19, Dex 13, Con 14, Int 11, Wis 14, Cha 16
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +14 (+22 jumping), [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]]
@@ -73,4 +73,4 @@ Achaierais speak Infernal.
 
 In close combat, an achaierai lashes out with two of its four legs and snaps with its powerful beak. It makes frequent use of its [[rangoric-srd/feats/Spring Attack|Spring Attack]] feat to strike quickly and then retreat out of range before an enemy can counterattack.
 
-**Black Cloud (Su)**: An achaierai can exhale a cloud of choking, toxic smoke three times per day. All creatures within 10 feet of the achaierai immediately take 2d6 points of damage as their flesh melts and rots away. The cloud erodes sanity as well as flesh, and anyone who takes damage from the black cloud must also make a DC 15 Fortitude save or become [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]]. Every round, the victim may attempt another DC 15 Fortitude save to recover from the confusion; otherwise it persists, lasting indefinitely until the condition is removed or the victim eventually makes her saving throw. The confusion element of a black cloud is a mind-affecting effect. The save DC is Constitution-based. This is a poison effect. Achaierais are immune to this ability.
+**Black Cloud (Su)**: An achaierai can exhale a cloud of choking, toxic smoke three times per day. All creatures within 10 feet of the achaierai immediately take 2d6 points of damage as their flesh melts and rots away. The cloud erodes sanity as well as flesh, and anyone who takes damage from the black cloud is also attacked at +5 vs Fortitude, and on a hit becomes [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]]. Every round, the cloud attacks the victim again at +5 vs Fortitude, and a miss ends the confusion; otherwise it persists, lasting indefinitely until the condition is removed or an attack misses. The confusion element of a black cloud is a mind-affecting effect. The attack bonus is Constitution-based. This is a poison effect. Achaierais are immune to this ability.

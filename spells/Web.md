@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "Webs in a 20-ft.-radius spread"
 duration: "10 min./level (D)"
-saving-throw: "Reflex negates; see text"
+defense: "Reflex; see text"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Web|Web (3.5)]]"
@@ -35,12 +35,12 @@ _Conjuration (Creation)_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: Webs in a 20-ft.-radius spread
 - **Duration**: 10 min./level (D)
-- **Saving Throw**: Reflex negates; see text
+- **Defense**: Reflex; see text
 - **Spell Resistance**: No
 
 Web creates a many-layered mass of strong, sticky strands. These strands trap those caught in them. The strands are similar to spider webs but far larger and tougher. These masses must be anchored to two or more solid and diametrically opposed points or else the web collapses upon itself and disappears. Creatures caught within a web become [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] among the gluey fibers. Attacking a creature in a web won’t cause you to become entangled.
 
-Anyone in the effect’s area when the spell is cast must make a Reflex save. If this save succeeds, the creature is entangled, but not prevented from moving, though moving is more difficult than normal for being entangled (see below). If the save fails, the creature is entangled and can’t move from its space, but can break loose by spending 1 round and making a DC 20 Strength check or a DC 25 [[rangoric-srd/skills/Escape Artist|Escape Artist]] check. Once loose (either by making the initial Reflex save or a later Strength check or Escape Artist check), a creature remains entangled, but may move through the web very slowly. Each round devoted to moving allows the creature to make a new Strength check or Escape Artist check. The creature moves 5 feet for each full 5 points by which the check result exceeds 10.
+The spell attacks the Reflex of anyone in the effect’s area when it is cast. If it misses, the creature is entangled, but not prevented from moving, though moving is more difficult than normal for being entangled (see below). If it hits, the creature is entangled and can’t move from its space, but can break loose by spending 1 round and making a DC 20 Strength check or a DC 25 [[rangoric-srd/skills/Escape Artist|Escape Artist]] check. Once loose (either because the first attack missed or by a later Strength check or Escape Artist check), a creature remains entangled, but may move through the web very slowly. Each round devoted to moving allows the creature to make a new Strength check or Escape Artist check. The creature moves 5 feet for each full 5 points by which the check result exceeds 10.
 
 If you have at least 5 feet of web between you and an opponent, it provides cover. If you have at least 20 feet of web between you, it provides total cover.
 

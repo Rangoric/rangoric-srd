@@ -14,9 +14,9 @@ cmd: "17"
 attack: "Incorporeal touch +4 melee (1d4 Wisdom damage)"
 full-attack: "Incorporeal touch +4 melee (1d4 Wisdom damage)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Babble (60 ft., DC 15), touch of insanity"
+special-attacks: "Babble (60 ft., +5 vs Will), touch of insanity"
 special-qualities: "Darkvision 60 ft., channel resistance +2, incorporeal, madness, undead traits"
-saves: "Fort +4, Ref +4, Will +4"
+defenses: "Fort 14, Ref 14, Will 14"
 abilities: "Str —, Dex 12, Con —, Int 11, Wis 11, Cha 16"
 skills: "Acrobatics +16, Intimidation +10, Perception +7, Stealth +8"
 skill-ranks: "Acrobatics 12, Intimidation 4, Perception 4, Stealth 4"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Incorporeal touch +4 melee (1d4 Wisdom damage)
 - **Full Attack**: Incorporeal touch +4 melee (1d4 Wisdom damage)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: Babble (60 ft., DC 15), touch of insanity
+- **Special Attacks**: Babble (60 ft., +5 vs Will), touch of insanity
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], madness, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +4, Ref +4, Will +4
+- **Defenses**: Fort 14, Ref 14, Will 14
 - **Abilities**: Str —, Dex 12, Con —, Int 11, Wis 11, Cha 16
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +8
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
@@ -75,8 +75,8 @@ An allip cannot speak intelligibly.
 
 An allip is unable to cause physical harm, although it doesn’t appear to know that. It keeps flailing away at enemies, yet it inflicts no wounds.
 
-**Babble (Su)**: An allip constantly mutters to itself, creating a hypnotic effect. All sane creatures within 60 feet of the allip must succeed at a DC 15 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinated]] for 2d4 rounds. While a target is fascinated, the allip can approach it without breaking the effect, but an attack by the allip does end the effect. Creatures that successfully save cannot be affected by the same allip's babble for 24 hours. This is a sonic, mind-affecting compulsion effect. The save DC is Charisma-based.
+**Babble (Su)**: An allip constantly mutters to itself, creating a hypnotic effect. All sane creatures within 60 feet of the allip are attacked at +5 vs Will, and on a hit are [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinated]] for 2d4 rounds. While a target is fascinated, the allip can approach it without breaking the effect, but an attack by the allip does end the effect. Creatures the babble misses cannot be affected by the same allip's babble for 24 hours. This is a sonic, mind-affecting compulsion effect. The attack bonus is Charisma-based.
 
 **Madness (Su)**: Anyone targeting an allip with a thought detection, mind control, or telepathic effect makes direct contact with its tortured mind and takes 1d4 points of Wisdom damage.
 
-**Touch of Insanity (Su)**: The touch of an allip deals 1d4 points of Wisdom damage (DC 15 Will negates). A successful critical hit causes 1d4 points of Wisdom damage and 1 point of Wisdom drain (instead of double Wisdom damage). With each successful attack, an allip gains 5 temporary hit points. The save DC is Charisma-based.
+**Touch of Insanity (Su)**: The touch of an allip deals 1d4 points of Wisdom damage (+5 vs Will). A successful critical hit causes 1d4 points of Wisdom damage and 1 point of Wisdom drain (instead of double Wisdom damage). With each successful attack, an allip gains 5 temporary hit points. The attack bonus is Charisma-based.

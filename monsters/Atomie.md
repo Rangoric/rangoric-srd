@@ -15,7 +15,7 @@ full-attack: "Rapier +8 melee (1d2–2/18–20)"
 space-reach: "1 ft./0 ft."
 special-attacks: "Sneak attack +1d6, spell-like abilities"
 special-qualities: "Low-light vision, damage reduction 2/cold iron"
-saves: "Fort +1, Ref +6, Will +5"
+defenses: "Fort 11, Ref 16, Will 15"
 abilities: "Str 6, Dex 17, Con 13, Int 11, Wis 14, Cha 18"
 skills: "Acrobatics +18, Athletics –2 (–16 jumping), Deception +9, Escape Artist +7, Perception +7, Sense Motive +6, Stealth +20"
 skill-ranks: "Acrobatics 6, Athletics 0, Deception 2, Escape Artist 1, Perception 2, Sense Motive 1, Stealth 2"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 1 ft./0 ft.
 - **Special Attacks**: Sneak attack +1d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/cold iron
-- **Saves**: Fort +1, Ref +6, Will +5
+- **Defenses**: Fort 11, Ref 16, Will 15
 - **Abilities**: Str 6, Dex 17, Con 13, Int 11, Wis 14, Cha 18
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Athletics|Athletics]] –2 (–16 jumping), [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +20
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -73,4 +73,4 @@ Atomies speak Common and Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +10): Constant—_[[rangoric-srd/spells/Speak with Animals|speak with animals]]_; At will—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Reduce Person|reduce person]]_ (DC 15); 3/day—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 1/day—_[[rangoric-srd/spells/Shrink Item|shrink item]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +10): Constant—_[[rangoric-srd/spells/Speak with Animals|speak with animals]]_; At will—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Reduce Person|reduce person]]_ (+5 vs Fortitude); 3/day—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 1/day—_[[rangoric-srd/spells/Shrink Item|shrink item]]_.

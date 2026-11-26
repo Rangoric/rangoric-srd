@@ -16,7 +16,7 @@ full-attack: "Bite +27 melee (4d8+15/15–20 plus 4d6 cold and grab)"
 space-reach: "15 ft./10 ft."
 special-attacks: "Savage bite, shore storming, swallow whole (2d8+15 bludgeoning damage plus 4d6 cold, AC 19, 18 hp), spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, snow vision, change shape (orca; beast shape III), hold breath, snow walking, damage reduction 15/magic, immunity to cold, vulnerability to fire"
-saves: "Fort +16, Ref +13, Will +10"
+defenses: "Fort 26, Ref 23, Will 20"
 abilities: "Str 31, Dex 15, Con 20, Int 4, Wis 15, Cha 6"
 skills: "Acrobatics +2, Athletics +18 (+22 jumping), Perception +14, Stealth +16 (+28 in snow)"
 skill-ranks: "Acrobatics 0, Athletics 5, Perception 5, Stealth 19"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Savage Bite (Akhlut)|Savage bite]], [[rangoric-srd/monsters/abilities/Shore Storming|shore storming]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d8+15 bludgeoning damage plus 4d6 cold, AC 19, 18 hp), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Snow Vision|snow vision]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (orca; beast shape III), [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/abilities/Snow Walking|snow walking]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, vulnerability to fire
-- **Saves**: Fort +16, Ref +13, Will +10
+- **Defenses**: Fort 26, Ref 23, Will 20
 - **Abilities**: Str 31, Dex 15, Con 20, Int 4, Wis 15, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Athletics|Athletics]] +18 (+22 jumping), [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +16 (+28 in snow)
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)

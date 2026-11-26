@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 target: "One living creature"
 duration: "1 minute/level (D)"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Ultimate Magic"
 based-on:
@@ -40,7 +40,7 @@ _Divination (Scrying)_
 - **Range**: Long (400 ft. + 40 ft./level)
 - **Target**: One living creature
 - **Duration**: 1 minute/level (D)
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 You link your senses to the target, allowing you to see and hear through its eyes and ears. As a move action you can shift your senses from yourself to the target or back again. When using the target's senses, you are blind and deaf. When perceiving through the target, you use its normal and special senses (such as darkvision), not your own.

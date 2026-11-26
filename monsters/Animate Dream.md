@@ -16,7 +16,7 @@ full-attack: "Incorporeal touch +16 melee (6d8 negative energy plus nightmare cu
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., telepathy 100 ft., incorporeal, spell resistance 19"
-saves: "Fort +10, Ref +8, Will +12"
+defenses: "Fort 20, Ref 18, Will 22"
 abilities: "Str —, Dex 18, Con 15, Int 10, Wis 15, Cha 21"
 skills: "Acrobatics +12, Deception +20, Intimidation +20, Perception +17, Sense Motive +17, Stealth +19, Theology +15"
 skill-ranks: "Acrobatics 5, Deception 12, Intimidation 12, Perception 12, Sense Motive 12, Stealth 12, Theology 12"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
-- **Saves**: Fort +10, Ref +8, Will +12
+- **Defenses**: Fort 20, Ref 18, Will 22
 - **Abilities**: Str —, Dex 18, Con 15, Int 10, Wis 15, Cha 21
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +19, [[rangoric-srd/skills/Theology|Theology]] +15
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]]
@@ -72,6 +72,6 @@ Animate dreams speak telepathy 100 ft.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +17): 3/day—_[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (DC 18), _[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]_ (DC 20); 1/day—_[[rangoric-srd/spells/Confusion|confusion]]_ (DC 19), _[[rangoric-srd/spells/Fear|fear]]_ (DC 19), _[[rangoric-srd/spells/Phantasmal Killer|phantasmal killer]]_ (DC 19).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +17): 3/day—_[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (+8 vs Will), _[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]_ (+10 vs Will); 1/day—_[[rangoric-srd/spells/Confusion|confusion]]_ (+9 vs Will), _[[rangoric-srd/spells/Fear|fear]]_ (+9 vs Will), _[[rangoric-srd/spells/Phantasmal Killer|phantasmal killer]]_ (+9).
 
-**[[rangoric-srd/monsters/abilities/Nightmare Curse|Nightmare Curse]] (Ex)**: An animate dream's touch puts horrifying visions in the target's mind. [[rangoric-srd/rules/afflictions/Animate Dream's Touch|Animate Dream's Touch]]: incorporeal touch; _save_ Will DC 21; _frequency_ 1/day; _effect_ 1d4 Wis drain and target is fatigued; _cure_ 3 consecutive saves or dispel evil, dream, or remove curse.
+**[[rangoric-srd/monsters/abilities/Nightmare Curse|Nightmare Curse]] (Ex)**: An animate dream's touch puts horrifying visions in the target's mind. [[rangoric-srd/rules/afflictions/Animate Dream's Touch|Animate Dream's Touch]]: incorporeal touch; _attack_ +11 vs Will; _frequency_ 1/day; _effect_ 1d4 Wis drain and target is fatigued; _cure_ 3 consecutive misses or dispel evil, dream, or remove curse.

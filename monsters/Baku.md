@@ -15,7 +15,7 @@ full-attack: "2 claws +15 melee (1d4+2) and gore +15 melee (1d6+2)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Mental drain, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, dream claws, damage reduction 10/cold iron, immunity to mind-affecting effects and sleep, spell resistance 19"
-saves: "Fort +11, Ref +12, Will +8"
+defenses: "Fort 21, Ref 22, Will 18"
 abilities: "Str 14, Dex 21, Con 18, Int 15, Wis 16, Cha 25"
 skills: "Acrobatics +18, Mysticism +8, Perception +17, Persuasion +15, Sense Motive +11, Stealth +16"
 skill-ranks: "Acrobatics 10, Mysticism 3, Perception 10, Persuasion 5, Sense Motive 7, Stealth 8"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Mental Drain|Mental drain]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Dream Claws|dream claws]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects and sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
-- **Saves**: Fort +11, Ref +12, Will +8
+- **Defenses**: Fort 21, Ref 22, Will 18
 - **Abilities**: Str 14, Dex 21, Con 18, Int 15, Wis 16, Cha 25
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -71,10 +71,10 @@ Bakus speak Aklo, Celestial and Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +17): At will—_[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Lullaby|lullaby]]_, _[[rangoric-srd/spells/Sleep|sleep]]_ (DC 18); 3/day—_[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (DC 20), _[[rangoric-srd/spells/Dream|dream]]_; 1/day—_[[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]]_, _[[rangoric-srd/spells/Modify Memory|modify memory]]_ (DC 21).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +17): At will—_[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Lullaby|lullaby]]_, _[[rangoric-srd/spells/Sleep|sleep]]_ (+8 vs Will); 3/day—_[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (+10 vs Will), _[[rangoric-srd/spells/Dream|dream]]_; 1/day—_[[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]]_, _[[rangoric-srd/spells/Modify Memory|modify memory]]_ (+11 vs Will).
 
 **[[rangoric-srd/monsters/abilities/Dream Claws|Dream Claws]] (Ex)**: A baku's claws are treated as cold iron and magic for purposes of overcoming damage reduction.
 
-**Dream Eating (Su)**: A baku can feed upon the dreams of any single sleeping creature within 100 feet. Alternatively, the baku can feed upon the dreams of a creature that it manages to contact with its dream spell-like ability. A creature can resist this effect with a DC 22 Will save. When a baku feeds in this way, it can elect to consume only nightmares or all dreams. If it only consumes nightmares, the target creature is immune to the effects of the nightmare spell, the dream haunting ability of the night hag, and other similar attacks for that period of sleep. If the baku instead feeds on all of the creature's dreams, that creature is [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] upon waking and does not gain any benefits it would have received from sleep, such as natural healing or the ability to regain spells after resting. This is a mind-affecting sleep effect. The save DC is Charisma-based.
+**Dream Eating (Su)**: A baku can feed upon the dreams of any single sleeping creature within 100 feet. Alternatively, the baku can feed upon the dreams of a creature that it manages to contact with its dream spell-like ability. This effect attacks the creature at +12 vs Will, and a miss resists it. When a baku feeds in this way, it can elect to consume only nightmares or all dreams. If it only consumes nightmares, the target creature is immune to the effects of the nightmare spell, the dream haunting ability of the night hag, and other similar attacks for that period of sleep. If the baku instead feeds on all of the creature's dreams, that creature is [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] upon waking and does not gain any benefits it would have received from sleep, such as natural healing or the ability to regain spells after resting. This is a mind-affecting sleep effect. The attack bonus is Charisma-based.
 
-**[[rangoric-srd/monsters/abilities/Mental Drain|Mental Drain]] (Su)**: When a baku attacks with a claw, it can choose, as a swift action, to deal 1d4 points of Intelligence damage on that attack. A DC 22 Will save negates this ability damage. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Mental Drain|Mental Drain]] (Su)**: When a baku attacks with a claw, it can choose, as a swift action, to deal 1d4 points of Intelligence damage on that attack. The claw attacks at +12 vs Will, and a miss negates this ability damage. The attack bonus is Charisma-based.

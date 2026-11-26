@@ -16,7 +16,7 @@ full-attack: "Spear +8 melee (1d8+4/×3 plus poison) and bite +2 melee (1d6+1); 
 space-reach: "5 ft./5 ft."
 special-attacks: "Rain frenzy, poison"
 special-qualities: "Blindsense 30 ft., darkvision 60 ft., low-light vision, keen scent, amphibious, poison use"
-saves: "Fort +3, Ref +7, Will +5"
+defenses: "Fort 13, Ref 17, Will 15"
 abilities: "Str 16, Dex 17, Con 14, Int 10, Wis 13, Cha 13"
 skills: "Athletics +18, Intimidation +8, Perception +8, Stealth +10"
 skill-ranks: "Athletics 12, Intimidation 4, Perception 4, Stealth 4"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rain Frenzy|Rain frenzy]], [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Keen Scent|keen scent]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/races/racial-traits/Poison Use|poison use]]
-- **Saves**: Fort +3, Ref +7, Will +5
+- **Defenses**: Fort 13, Ref 17, Will 15
 - **Abilities**: Str 16, Dex 17, Con 14, Int 10, Wis 13, Cha 13
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spear)
@@ -74,7 +74,7 @@ Adaros speak Aquan and Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Adaros favor a paralytic toxin secreted by the flying nettlefin pufferfish—a sticky venom that doesn't wash away in water. [[rangoric-srd/rules/afflictions/Nettlefin Toxin|Nettlefin Toxin]]: Spear—injury; _save_ Fort DC 15; _frequency_ 1/minute for 4 minutes; _effect_ paralyzed for 1 minute; _cure_ 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Adaros favor a paralytic toxin secreted by the flying nettlefin pufferfish—a sticky venom that doesn't wash away in water. [[rangoric-srd/rules/afflictions/Nettlefin Toxin|Nettlefin Toxin]]: Spear—injury; _attack_ +5 vs Fortitude; _frequency_ 1/minute for 4 minutes; _effect_ paralyzed for 1 minute; _cure_ 2 consecutive misses.
 
 **[[rangoric-srd/races/racial-traits/Poison Use|Poison Use]] (Ex)**: Adaros are skilled in the use of poison and never risk accidentally poisoning themselves.
 

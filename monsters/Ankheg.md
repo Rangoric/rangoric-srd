@@ -15,7 +15,7 @@ full-attack: "Bite +5 melee (2d6+4 plus 1d4 acid and grab)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Spit acid"
 special-qualities: "Darkvision 60 ft., low-light vision, tremorsense 60 ft"
-saves: "Fort +6, Ref +3, Will +2"
+defenses: "Fort 16, Ref 13, Will 12"
 abilities: "Str 16, Dex 10, Con 17, Int 1, Wis 13, Cha 6"
 skills: "Athletics +8, Perception +8"
 skill-ranks: "Athletics 2, Perception 4"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: Spit acid
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft
-- **Saves**: Fort +6, Ref +3, Will +2
+- **Defenses**: Fort 16, Ref 13, Will 12
 - **Abilities**: Str 16, Dex 10, Con 17, Int 1, Wis 13, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +8
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]]
@@ -78,4 +78,4 @@ An ankheg usually lies 5 to 10 feet below the surface until its antennae detect 
 
 Clusters of ankhegs share the same territory but do not cooperate.
 
-**Spit Acid (Ex)**: Once every 6 hours, an ankheg can spit a 30-foot line of acid. Creatures struck by this acid take 4d4 points of acid damage (Reflex DC 14 halves). Once an ankheg uses this attack, it must wait 6 hours before using it again. Additionally, during this time period, its bite attack does not inflict any additional acid damage. As a result, an ankheg does not use this ability unless it is desperate or frustrated, most often spitting acid when reduced to fewer than half its full normal hit points or when it cannot not successfully grab an opponent. The save DC is Constitution-based.
+**Spit Acid (Ex)**: Once every 6 hours, an ankheg can spit a 30-foot line of acid. Creatures struck by this acid take 4d4 points of acid damage (+4 vs Reflex; a miss halves). Once an ankheg uses this attack, it must wait 6 hours before using it again. Additionally, during this time period, its bite attack does not inflict any additional acid damage. As a result, an ankheg does not use this ability unless it is desperate or frustrated, most often spitting acid when reduced to fewer than half its full normal hit points or when it cannot not successfully grab an opponent. The attack bonus is Constitution-based.

@@ -16,7 +16,7 @@ full-attack: "3 bites +25 melee (2d8+9 plus poison)"
 space-reach: "15 ft./15 ft."
 special-attacks: "Confusing critical, poison"
 special-qualities: "Darkvision 120 ft., low-light vision, demon-souled, find master, guard, shield other, damage reduction 10/-, construct traits, resistance to acid 10, cold 10, electricity 10 and fire 10, spell resistance 24"
-saves: "Fort +6, Ref +9, Will +10"
+defenses: "Fort 16, Ref 19, Will 20"
 abilities: "Str 28, Dex 17, Con —, Int —, Wis 19, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Confusing Critical|Confusing critical]], [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Demon-Souled|demon-souled]], [[rangoric-srd/monsters/abilities/Find Master|find master]], [[rangoric-srd/monsters/abilities/Guard|guard]], [[rangoric-srd/monsters/abilities/Shield Other|shield other]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 24
-- **Saves**: Fort +6, Ref +9, Will +10
+- **Defenses**: Fort 16, Ref 19, Will 20
 - **Abilities**: Str 28, Dex 17, Con —, Int —, Wis 19, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -66,7 +66,7 @@ Demonic spirits imbue this serpentine construct with the unnatural power to prot
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Confusing Critical|Confusing Critical]] (Sp)**: If an abrakarn viper confirms a critical hit against an opponent with its bite attack, the opponent must succeed at a DC 23 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1 round (as lesser confusion). The save DC is Charisma-based and includes a +9 racial bonus.
+**[[rangoric-srd/monsters/abilities/Confusing Critical|Confusing Critical]] (Sp)**: If an abrakarn viper confirms a critical hit against an opponent with its bite attack, it attacks the opponent at +13 vs Will, and on a hit the opponent is [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1 round (as lesser confusion). The attack bonus is Charisma-based and includes a +9 racial bonus.
 
 **[[rangoric-srd/monsters/abilities/Demon-Souled|Demon-Souled]] (Ex)**: Bound demonic life force animates the viper, giving it the chaotic and evil subtypes.
 
@@ -76,7 +76,7 @@ Demonic spirits imbue this serpentine construct with the unnatural power to prot
 
 **[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: An abrakarn viper's bite injects poison from a hidden reservoir within its body. The creator must refill this reservoir manually. The reservoir holds enough poison for three successful bite attacks, after which the creature merely deals bite damage. Refilling the reservoir takes 5 rounds and provokes attacks of opportunity. The creator can fill the reservoir with any injury poison (typically drow poison).
 
-**[[rangoric-srd/monsters/abilities/Shield Other|Shield Other]] (Sp)**: The wearer of an abrakarn viper's diadem can activate this ability as a standard action when within 100 feet of the viper. This ability transfers half the damage that would be dealt to the diadem's wearer to the viper (this ability does not provide the bonuses to AC or on saving throws granted by the spell of the same name). Damage transferred in this way bypasses any defensive abilities the viper possesses (such as immunity or damage reduction).
+**[[rangoric-srd/monsters/abilities/Shield Other|Shield Other]] (Sp)**: The wearer of an abrakarn viper's diadem can activate this ability as a standard action when within 100 feet of the viper. This ability transfers half the damage that would be dealt to the diadem's wearer to the viper (this ability does not provide the bonuses to AC or to defenses granted by the spell of the same name). Damage transferred in this way bypasses any defensive abilities the viper possesses (such as immunity or damage reduction).
 
 ### Construction
 

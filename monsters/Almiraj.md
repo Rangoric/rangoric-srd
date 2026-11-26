@@ -15,7 +15,7 @@ full-attack: "+1 gore +6 melee (2d4–1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Magic horn"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, hex-prone"
-saves: "Fort +4, Ref +5, Will +0"
+defenses: "Fort 14, Ref 15, Will 10"
 abilities: "Str 6, Dex 15, Con 12, Int 5, Wis 11, Cha 6"
 skills: "Acrobatics +6, Athletics –2 (+6 jumping), Perception +4, Stealth +14"
 skill-ranks: "Acrobatics 1, Athletics 0, Perception 0, Stealth 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Magic Horn|Magic horn]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Hex-Prone|hex-prone]]
-- **Saves**: Fort +4, Ref +5, Will +0
+- **Defenses**: Fort 14, Ref 15, Will 10
 - **Abilities**: Str 6, Dex 15, Con 12, Int 5, Wis 11, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] –2 (+6 jumping), [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -75,6 +75,6 @@ Almirajs understand Sylvan but can't speak.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Hex-Prone|Hex-Prone]] (Su)**: An almiraj takes a -2 penalty on all saving throws against harmful witch hexes. The duration of any beneficial hexes longer than 1 round that affect an almiraj is increased by 50%.
+**[[rangoric-srd/monsters/abilities/Hex-Prone|Hex-Prone]] (Su)**: An almiraj takes a -2 penalty on all defenses against harmful witch hexes. The duration of any beneficial hexes longer than 1 round that affect an almiraj is increased by 50%.
 
-**[[rangoric-srd/monsters/abilities/Magic Horn|Magic Horn]] (Su)**: While on the creature's head, an almiraj's horn is treated as a +1 weapon. Any living creature slain by an almiraj's gore attack immediately turns to stone (as if by the flesh to stone spell, with no saving throw, and the creature is still dead). A severed almiraj horn retains a wisp of its former magic, and counts as a masterwork weapon if used to create a magical dagger or similar small piercing weapon.
+**[[rangoric-srd/monsters/abilities/Magic Horn|Magic Horn]] (Su)**: While on the creature's head, an almiraj's horn is treated as a +1 weapon. Any living creature slain by an almiraj's gore attack immediately turns to stone (as if by the flesh to stone spell, with no attack against a defense, and the creature is still dead). A severed almiraj horn retains a wisp of its former magic, and counts as a masterwork weapon if used to create a magical dagger or similar small piercing weapon.

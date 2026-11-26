@@ -22,7 +22,7 @@ skills: "Athletics +53 (+65 jumping)"
 skill-ranks: "Athletics 38"
 feats: "Blind-Fight, Cleave, Great Cleave, Improved Bull Rush, Improved Critical (blade), Improved Initiative, Improved Sunder, Power Attack, Weapon Focus (blade)"
 epic-feats: "Devastating Critical (blade), Epic Toughness, Epic Weapon Focus (blade), Overwhelming Critical (blade)"
-saves: "Fort +12, Ref +19, Will +17"
+defenses: "Fort 22, Ref 29, Will 27"
 abilities: "Str 35, Dex 25, Con -, Int 10, Wis 20, Cha 20"
 environment: "Any"
 organization: "Solitary, binary (pair), or command line (2-5 anaxims and 5-12 iron golems)"
@@ -56,7 +56,7 @@ Skills: [[rangoric-srd/skills/Athletics|Athletics]] +53 (+65 jumping)  
 **Unspent Skill Points**: 38
 Feats: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (blade), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (blade)    
 Epic Feats: [[rangoric-srd/feats/Devastating Critical|Devastating Critical]] (blade), [[rangoric-srd/feats/Epic Toughness|Epic Toughness]], [[rangoric-srd/feats/Epic Weapon Focus|Epic Weapon Focus]] (blade), [[rangoric-srd/feats/Overwhelming Critical|Overwhelming Critical]] (blade)    
-Saves: Fort +12, Ref +19, Will +17     
+Defenses: Fort 22, Ref 29, Will 27     
 Abilities: Str 35, Dex 25, Con -, Int 10, Wis 20, Cha 20     
 Climate/Terrain: Any     
 Organization: Solitary, binary (pair), or command line (2-5 anaxims and 5-12 iron golems)     
@@ -69,17 +69,17 @@ An anaxim’s natural weapons are treated as epic and lawful-aligned for the pur
 
 #### Combat
 
-Sonic Blast (Ex): As a standard action, an anaxim can emit a 60-foot cone of sonic energy that deals 20d6 points of sonic damage to all creatures that fail a Reflex save (DC 29); those that succeed take half damage.  
-The save DC is Constitution-based
+Sonic Blast (Ex): As a standard action, an anaxim can emit a 60-foot cone of sonic energy that attacks the Reflex of all creatures in it at +19, dealing 20d6 points of sonic damage; those it misses take half damage.  
+The attack bonus is Constitution-based
 
 Rend (Ex): If the anaxim hits with both spinning blades, it slices particularly well. This attack automatically deals an additional 4d6+18 points of damage.
 
-Spell-Like Abilities: Caster level 22nd. The save DCs are Charisma-based.
+Spell-Like Abilities: Caster level 22nd. The attack bonuses are Charisma-based.
 
-At will - [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Displacement|displacement]] (DC 18), [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]] (DC 19), [[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]].
+At will - [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Displacement|displacement]] (+8 vs Will), [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]] (+9 vs Will), [[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]].
 
 Summon Iron Golem (Sp): An anaxim can summon an [[rangoric-srd/monsters/golem/Iron Golem|iron golem]] up to four times per day.
 
 Abomination Traits: Immune to polymorphing, [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], and other form-altering attacks; not subject to [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], or death from massive damage; immune to mind-affecting effects; [[rangoric-srd/monsters/abilities/Resistance|fire resistance]] 20; [[rangoric-srd/monsters/abilities/Resistance|cold resistance]] 20; [[rangoric-srd/spells/Nondetection|nondetection]]; [[rangoric-srd/spells/True Seeing|true seeing]] at will; [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 500 ft.; telepathy out to 1,000 ft.
 
-Construct Traits: Immune to mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects), and to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death effects, necromantic effects, and any effect that requires a Fortitude save unless it also works on objects. Cannot heal damage (though [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] and [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] still apply, if present). Not subject to critical hits, subdual damage, ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]]. Not at risk of death from massive damage, but destroyed when reduced to 0 hit points or less; cannot be raised or resurrected. Darkvision 60 ft.
+Construct Traits: Immune to mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects), and to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death effects, necromantic effects, and any effect that attacks Fortitude unless it also works on objects. Cannot heal damage (though [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] and [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] still apply, if present). Not subject to critical hits, subdual damage, ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]]. Not at risk of death from massive damage, but destroyed when reduced to 0 hit points or less; cannot be raised or resurrected. Darkvision 60 ft.

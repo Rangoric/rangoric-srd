@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "See text"
 target-effect-or-area: "See text"
 duration: "See text"
-saving-throw: "See text"
+defense: "See text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Wish|Wish (3.5)]]"
@@ -34,7 +34,7 @@ _Universal_
 
 Target, Effect, or Area: See text  
 Duration: See text  
-Saving Throw: See text  
+Defense: See text  
 Spell Resistance: Yes
 
 Wish is the mightiest spell a wizard or sorcerer can cast. By simply speaking aloud, you can alter reality to better suit you.
@@ -63,13 +63,13 @@ A wish can produce any one of the following effects.
 
 - Revive the dead. A wish can bring a [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] creature back to life by duplicating a resurrection spell. A wish can revive a dead creature whose body has been destroyed, but the task takes two wishes, one to recreate the body and another to infuse the body with life again. A wish cannot prevent a character who was brought back to life from gaining a [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent negative level]].
 
-- Transport travelers. A wish can lift one creature per caster level from anywhere on any plane and place those creatures anywhere else on any plane regardless of local conditions. An unwilling target gets a Will save to negate the effect, and spell resistance (if any) applies.
+- Transport travelers. A wish can lift one creature per caster level from anywhere on any plane and place those creatures anywhere else on any plane regardless of local conditions. The spell attacks the Will of an unwilling target, and a miss negates the effect, and spell resistance (if any) applies.
 
-- Undo misfortune. A wish can undo a single recent event. The wish forces a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a wish could undo an opponent’s successful save, a foe’s successful critical hit (either the attack roll or the critical roll), a friend’s failed save, and so on. The reroll, however, may be as bad as or worse than the original roll. An unwilling target gets a Will save to negate the effect, and spell resistance (if any) applies.
+- Undo misfortune. A wish can undo a single recent event. The wish forces a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a wish could undo an attack that missed an opponent, a foe’s successful critical hit (either the attack roll or the critical roll), an attack that hit a friend, and so on. The reroll, however, may be as bad as or worse than the original roll. The spell attacks the Will of an unwilling target, and a miss negates the effect, and spell resistance (if any) applies.
 
 You may try to use a wish to produce greater effects than these, but doing so is dangerous. (The wish may pervert your intent into a literal but undesirable fulfillment or only a partial fulfillment.)
 
-Duplicated spells allow saves and spell resistance as normal (but save DCs are for 9th-level spells).
+Duplicated spells attack defenses and allow spell resistance as normal (but their attack bonuses are for 9th-level spells).
 
 _Material Component_: When a wish duplicates a spell with a material component that costs more than 10,000 gp, you must provide that component.
 

@@ -14,8 +14,8 @@ attack: "Vines +20 melee (1d10+7 plus grab and bleed)"
 full-attack: "4 vines +20 melee (1d10+7 plus grab and bleed)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Bleed (2d6), constrict (1d10+10), feed, spell-like abilities"
-special-qualities: "Low-light vision, calming fragrance (60 ft., DC 24), plant traits, spell resistance 24"
-saves: "Fort +17, Ref +9, Will +11"
+special-qualities: "Low-light vision, calming fragrance (60 ft., +14 vs Will), plant traits, spell resistance 24"
+defenses: "Fort 27, Ref 19, Will 21"
 abilities: "Str 24, Dex 13, Con 22, Int 10, Wis 17, Cha 21"
 skills: "Deception +17, Imitation +7, Nature +9, Perception +18, Sense Motive +12"
 skill-ranks: "Deception 8, Imitation 1, Nature 6, Perception 11, Sense Motive 8"
@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: 4 vines +20 melee (1d10+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Bleed|bleed]])
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (2d6), [[rangoric-srd/monsters/abilities/Constrict|constrict]] (1d10+10), [[rangoric-srd/monsters/abilities/Feed|feed]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Calming Fragrance|calming fragrance]] (60 ft., DC 24), [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 24
-- **Saves**: Fort +17, Ref +9, Will +11
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Calming Fragrance|calming fragrance]] (60 ft., +14 vs Will), [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 24
+- **Defenses**: Fort 27, Ref 19, Will 21
 - **Abilities**: Str 24, Dex 13, Con 22, Int 10, Wis 17, Cha 21
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Imitation|Imitation]] +7, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (glitterdust), [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Perception)
@@ -71,8 +71,8 @@ Alraunes speak Aklo, Common, Elven and Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 13th; concentration +18): At will—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 19), _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_(DC 17), _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 18); 3/day-quickened _[[rangoric-srd/spells/Glitterdust|glitterdust]]_ (DC 17), _[[rangoric-srd/spells/Hold Monster|hold monster]]_ (DC 20); 1/day—_[[rangoric-srd/spells/Commune with Nature|commune with nature]], [[rangoric-srd/spells/Mind Fog|mind fog]], [[rangoric-srd/spells/Wall of Thorns|wall of thorns]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 13th; concentration +18): At will—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (+9 vs Will), _[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]_(+7 vs Will), _[[rangoric-srd/spells/Suggestion|suggestion]]_ (+8 vs Will); 3/day-quickened _[[rangoric-srd/spells/Glitterdust|glitterdust]]_ (+7 vs Will), _[[rangoric-srd/spells/Hold Monster|hold monster]]_ (+10 vs Will); 1/day—_[[rangoric-srd/spells/Commune with Nature|commune with nature]], [[rangoric-srd/spells/Mind Fog|mind fog]], [[rangoric-srd/spells/Wall of Thorns|wall of thorns]]_.
 
-**[[rangoric-srd/monsters/abilities/Calming Fragrance|Calming Fragrance]] (Su)**: A supernaturally sweet perfume that calms the nerves and blunts aggression constantly surrounds an alraune to a radius of 60 feet. Any creature in this area of effect must make a DC 24 Will save at the start of its turn to avoid falling under the effects of calm emotions for 1 round. Creatures that could be attracted to the alraune's current apparent gender take a –2 penalty on this Will save, while all other creatures gain a +2 bonus on the save. This is a mind-affecting effect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Calming Fragrance|Calming Fragrance]] (Su)**: A supernaturally sweet perfume that calms the nerves and blunts aggression constantly surrounds an alraune to a radius of 60 feet. The fragrance attacks the Will of any creature in this area of effect at +14 at the start of its turn, and on a hit it falls under the effects of calm emotions for 1 round. Creatures that could be attracted to the alraune's current apparent gender take a –2 penalty to their Will Defense against it, while all other creatures gain a +2 bonus to theirs. This is a mind-affecting effect. The attack bonus is Charisma-based.
 
 **[[rangoric-srd/monsters/abilities/Feed|Feed]] (Ex)**: An alraune's roots can feed on a [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] or willing target. At the end of an hour of feeding, the victim takes 1d6 points of both Constitution and Intelligence drain, and the alraune heals 3d6 points of damage.

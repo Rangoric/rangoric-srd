@@ -15,7 +15,7 @@ full-attack: "Bite +9 melee (1d4–1 plus steal breath) and touch +4 melee touch
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., sobs (10 ft.), undead traits"
-saves: "Fort +5, Ref +6, Will +8"
+defenses: "Fort 15, Ref 16, Will 18"
 abilities: "Str 9, Dex 19, Con —, Int 14, Wis 16, Cha 17"
 skills: "Athletics +8, Deception +9, Perception +12, Society +8, Stealth +17"
 skill-ranks: "Athletics 6, Deception 3, Perception 6, Society 3, Stealth 6"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., sobs (10 ft.), [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +5, Ref +6, Will +8
+- **Defenses**: Fort 15, Ref 16, Will 18
 - **Abilities**: Str 9, Dex 19, Con —, Int 14, Wis 16, Cha 17
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +17
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -71,8 +71,8 @@ Attic whisperers speak Common (plus any 2d4 from victims).
 
 ### Combat
 
-**Aura of Sobs (Su)**: All of the voices that an attic whisperer steals linger around it in an invisible but audible aura of unnerving childlike whimpers, songs, and sobs. Any living creature that enters this area loses the benefit of all bardic performances affecting it and takes a –1 penalty on all attack rolls, damage rolls, and Will saving throws. The attic whisperer can suppress or reactivate its aura as a free action. This aura is a sonic, mind-affecting effect.
+**Aura of Sobs (Su)**: All of the voices that an attic whisperer steals linger around it in an invisible but audible aura of unnerving childlike whimpers, songs, and sobs. Any living creature that enters this area loses the benefit of all bardic performances affecting it and takes a –1 penalty on all attack rolls and damage rolls and to Will Defense. The attic whisperer can suppress or reactivate its aura as a free action. This aura is a sonic, mind-affecting effect.
 
-**Steal Breath (Su)**: A creature bit by an attic whisperer must make a DC 16 Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] for 1 hour. A fatigued creature that is bitten is instead [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]] for 1 hour, and an exhausted creature falls asleep for 1 hour if bitten. The sleeper can only be roused by killing the attic whisperer or by using dispel magic, remove curse, or similar effects. The save DC is Charisma-based.
+**Steal Breath (Su)**: A creature bit by an attic whisperer is attacked at +6 vs Will, and on a hit becomes [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] for 1 hour. A fatigued creature that is bitten is instead [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]] for 1 hour, and an exhausted creature falls asleep for 1 hour if bitten. The sleeper can only be roused by killing the attic whisperer or by using dispel magic, remove curse, or similar effects. The attack bonus is Charisma-based.
 
-**Steal Voice (Su)**: Any creature hit by an attic whisperer's touch must make a DC 16 Will save or lose its ability to speak for 1 hour. During that time, the creature cannot talk, cast spells with verbal components, use auditory bardic performances, or use any other ability that requires speech. Once an attic whisperer has stolen a creature's voice, it can perfectly mimic that voice at any time, even after its victim's voice has returned, and while using that voice can speak any languages the victim knew. Those familiar with an individual's voice can make a Sense Motive check opposed by the attic whisperer's Deception check to realize a mimicked voice is inauthentic. The save DC is Charisma-based.
+**Steal Voice (Su)**: Any creature hit by an attic whisperer's touch is attacked at +6 vs Will, and on a hit loses its ability to speak for 1 hour. During that time, the creature cannot talk, cast spells with verbal components, use auditory bardic performances, or use any other ability that requires speech. Once an attic whisperer has stolen a creature's voice, it can perfectly mimic that voice at any time, even after its victim's voice has returned, and while using that voice can speak any languages the victim knew. Those familiar with an individual's voice can make a Sense Motive check opposed by the attic whisperer's Deception check to realize a mimicked voice is inauthentic. The attack bonus is Charisma-based.

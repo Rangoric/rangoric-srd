@@ -13,9 +13,9 @@ cmd: "19 (23 vs. trip)"
 attack: "Gore +7 melee (1d8+9)"
 full-attack: "Gore +7 melee (1d8+9)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Stampede, trample (2d6+9, DC 17)"
+special-attacks: "Stampede, trample (2d6+9, +7 vs Reflex)"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +6, Ref +3, Will +1"
+defenses: "Fort 16, Ref 13, Will 11"
 abilities: "Str 23, Dex 10, Con 17, Int 2, Wis 11, Cha 4"
 skills: "Perception +9"
 skill-ranks: "Perception 6"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Gore +7 melee (1d8+9)
 - **Full Attack**: Gore +7 melee (1d8+9)
 - **Space/Reach**: 10 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Stampede|Stampede]], [[rangoric-srd/monsters/abilities/Trample|trample]] (2d6+9, DC 17)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Stampede|Stampede]], [[rangoric-srd/monsters/abilities/Trample|trample]] (2d6+9, +7 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +6, Ref +3, Will +1
+- **Defenses**: Fort 16, Ref 13, Will 11
 - **Abilities**: Str 23, Dex 10, Con 17, Int 2, Wis 11, Cha 4
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +9
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -65,4 +65,4 @@ Aurochs (both singular and plural) are large herd animals similar to domesticate
 
 ### Combat
 
-**Stampede (Ex)**: A stampede occurs if three or more creatures with stampede make a trample attack while remaining adjacent to each other. While stampeding, the creatures can trample foes of their size or smaller, and the trample's save DC increases by +2.
+**Stampede (Ex)**: A stampede occurs if three or more creatures with stampede make a trample attack while remaining adjacent to each other. While stampeding, the creatures can trample foes of their size or smaller, and the trample's attack bonus increases by +2.

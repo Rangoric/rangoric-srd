@@ -16,7 +16,7 @@ full-attack: "+1 spear +17/+12/+7 melee (1d8+7/×3) and bite +10 melee (1d6+2 pl
 space-reach: "5 ft./5 ft."
 special-attacks: "Frozen breath, spell-like abilities"
 special-qualities: "Low-light vision, scent, arctic stride, immunity to cold, vulnerability to fire"
-saves: "Fort +9, Ref +17, Will +8"
+defenses: "Fort 19, Ref 27, Will 18"
 abilities: "Str 18, Dex 26, Con 18, Int 13, Wis 17, Cha 13"
 skills: "Acrobatics +13, Animal Handling +9, Athletics +12 (+16 jumping), Fieldcraft +22, Medicine +3, Perception +13, Stealth +13 (+21 in snow)"
 skill-ranks: "Acrobatics 2, Animal Handling 5, Athletics 5, Fieldcraft 14, Medicine 2, Perception 7, Stealth 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Frozen Breath|Frozen breath]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Arctic Stride|arctic stride]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, vulnerability to fire
-- **Saves**: Fort +9, Ref +17, Will +8
+- **Defenses**: Fort 19, Ref 27, Will 18
 - **Abilities**: Str 18, Dex 26, Con 18, Int 13, Wis 17, Cha 13
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +12 (+16 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +22, [[rangoric-srd/skills/Medicine|Medicine]] +3, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +13 (+21 in snow)
 - **Feats**: [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spear), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft)
@@ -74,4 +74,4 @@ Adlets speak Adlet and Common.
 
 **[[rangoric-srd/monsters/abilities/Arctic Stride|Arctic Stride]] (Ex)**: An adlet can move through any sort of difficult terrain at its normal speed while within arctic or snowy terrain. Magically altered terrain affects an adlet normally.
 
-**[[rangoric-srd/monsters/abilities/Frozen Breath|Frozen Breath]] (Su)**: An adlet's breath is supernaturally cold, and deals an additional 1d6 points of cold damage with its bite as a result. Once every 1d4 rounds as a swift action, it can exhale, filling a 10-foot-radius spread around it with frigid air that deals 2d6 points of cold damage and staggers those in the area with numbing cold for 1d6 rounds. A DC 21 Fortitude save negates the [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] effect but not the cold damage. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Frozen Breath|Frozen Breath]] (Su)**: An adlet's breath is supernaturally cold, and deals an additional 1d6 points of cold damage with its bite as a result. Once every 1d4 rounds as a swift action, it can exhale, filling a 10-foot-radius spread around it with frigid air that deals 2d6 points of cold damage and staggers those in the area with numbing cold for 1d6 rounds. The breath attacks at +11 vs Fortitude, and a miss negates the [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] effect but not the cold damage. The attack bonus is Constitution-based.

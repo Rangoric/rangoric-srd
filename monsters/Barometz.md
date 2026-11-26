@@ -13,9 +13,9 @@ cmd: "45 (47 vs. bull rush or overrun, 49 vs. trip)"
 attack: "Gore +23 melee (5d10+15/19–20)"
 full-attack: "Gore +23 melee (5d10+15/19–20)"
 space-reach: "20 ft./20 ft."
-special-attacks: "Powerful charge (gore, 10d10+15), trample (5d10+15, DC 31)"
+special-attacks: "Powerful charge (gore, 10d10+15), trample (5d10+15, +21 vs Reflex)"
 special-qualities: "Low-light vision, immunity to electricity, plant traits"
-saves: "Fort +20, Ref +12, Will +11"
+defenses: "Fort 30, Ref 22, Will 21"
 abilities: "Str 30, Dex 21, Con 24, Int 2, Wis 15, Cha 9"
 skills: "Perception +27"
 skill-ranks: "Perception 22"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Gore +23 melee (5d10+15/19–20)
 - **Full Attack**: Gore +23 melee (5d10+15/19–20)
 - **Space/Reach**: 20 ft./20 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (gore, 10d10+15), [[rangoric-srd/monsters/abilities/Trample|trample]] (5d10+15, DC 31)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (gore, 10d10+15), [[rangoric-srd/monsters/abilities/Trample|trample]] (5d10+15, +21 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-- **Saves**: Fort +20, Ref +12, Will +11
+- **Defenses**: Fort 30, Ref 22, Will 21
 - **Abilities**: Str 30, Dex 21, Con 24, Int 2, Wis 15, Cha 9
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +27
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Greater Overrun|Greater Overrun]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (gore), [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (gore)

@@ -16,7 +16,7 @@ full-attack: "Touch of madness +19 melee touch (10d6)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., true seeing, incorporeal"
-saves: "Fort +14, Ref +12, Will +12"
+defenses: "Fort 24, Ref 22, Will 22"
 abilities: "Str —, Dex 24, Con 19, Int 20, Wis 15, Cha 22"
 skills: "Acrobatics +40, Arcana +20, Deception +25, Intimidation +31, Mysticism +22, Perception +20, Persuasion +19, Sense Motive +20, Society +12, Stealth +22, Theology +18"
 skill-ranks: "Acrobatics 30, Arcana 12, Deception 16, Intimidation 22, Mysticism 14, Perception 15, Persuasion 10, Sense Motive 15, Society 4, Stealth 12, Theology 10"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., true seeing, [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]]
-- **Saves**: Fort +14, Ref +12, Will +12
+- **Defenses**: Fort 24, Ref 22, Will 22
 - **Abilities**: Str —, Dex 24, Con 19, Int 20, Wis 15, Cha 22
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +40, [[rangoric-srd/skills/Arcana|Arcana]] +20, [[rangoric-srd/skills/Deception|Deception]] +25, [[rangoric-srd/skills/Intimidation|Intimidation]] +31, [[rangoric-srd/skills/Mysticism|Mysticism]] +22, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Persuasion|Persuasion]] +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20, [[rangoric-srd/skills/Society|Society]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +22, [[rangoric-srd/skills/Theology|Theology]] +18
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Intimidation), [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (touch)
@@ -68,8 +68,8 @@ Aoandons speak Abyssal, Celestial, Common, Draconic, Giant and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 16th; concentration +22): Constant—_[[rangoric-srd/spells/True Seeing|true seeing]]_; At will—_[[rangoric-srd/spells/Darkness|darkness]]_; 3/day—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (DC 20), _[[rangoric-srd/spells/Suffocation|suffocation]]_ (DC 21); 1/day—_[[rangoric-srd/spells/Pain Strike, Mass|mass pain strike]]_ (DC 21), _[[rangoric-srd/spells/Waves of Fatigue|waves of fatigue]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 16th; concentration +22): Constant—_[[rangoric-srd/spells/True Seeing|true seeing]]_; At will—_[[rangoric-srd/spells/Darkness|darkness]]_; 3/day—_[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (+10 vs Will), _[[rangoric-srd/spells/Suffocation|suffocation]]_ (+11 vs Fortitude); 1/day—_[[rangoric-srd/spells/Pain Strike, Mass|mass pain strike]]_ (+11 vs Fortitude), _[[rangoric-srd/spells/Waves of Fatigue|waves of fatigue]]_.
 
-**[[rangoric-srd/monsters/abilities/Touch of Madness (Aoandon)|Touch of Madness]] (Su)**: The touch of an aoandon causes maddening fear. As a standard action it can make an incorporeal touch attack that deals 10d6 damage. Any living creature damaged by an aoandon's touch attack must succeed at a DC 24 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1d4 rounds. A creature that succeeds at this saving throw can't be confused again by this aoandon's touch of madness for 10 minutes. This is a mind-affecting fear effect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Touch of Madness (Aoandon)|Touch of Madness]] (Su)**: The touch of an aoandon causes maddening fear. As a standard action it can make an incorporeal touch attack that deals 10d6 damage. Any living creature damaged by an aoandon's touch attack is attacked at +14 vs Will, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1d4 rounds. A creature the touch misses can't be confused again by this aoandon's touch of madness for 10 minutes. This is a mind-affecting fear effect. The attack bonus is Charisma-based.
 
 **Calling an Aoandon**: Calling an aoandon requires a paper lantern inscribed with runes and fueled by oils costing no less than 5,000 gp. Three or more creatures must chant the creature's name for 1 minute, then extinguish the lantern. There's a 1% chance per Hit Die the callers collectively possess that the aoandon is called. Relatives of the aoandon count as triple their normal Hit Dice. The aoandon isn't under the control of its conjurers, and can return to where she came from only after she has murdered at least one person she feels is responsible for her anguish.

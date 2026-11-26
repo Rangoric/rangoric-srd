@@ -15,7 +15,7 @@ full-attack: "Slam +7 melee (1d8+7 plus grab)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Constrict (1d8+7), entangle"
 special-qualities: "Blindsight 30 ft., low-light vision, camouflage, immunity to electricity, plant traits, resistance to cold 10 and fire 10"
-saves: "Fort +7, Ref +1, Will +2"
+defenses: "Fort 17, Ref 11, Will 12"
 abilities: "Str 20, Dex 10, Con 16, Int —, Wis 13, Cha 9"
 skills: "—"
 skill-ranks: ""
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d8+7), entangle
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], camouflage, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10
-- **Saves**: Fort +7, Ref +1, Will +2
+- **Defenses**: Fort 17, Ref 11, Will 12
 - **Abilities**: Str 20, Dex 10, Con 16, Int —, Wis 13, Cha 9
 - **Skills**: —
 - **Feats**: —
@@ -78,4 +78,4 @@ An assassin vine uses its entangle ability both to catch prey and to deter count
 
 **Camouflage (Ex)**: Since an assassin vine looks like a normal plant when at rest, a DC 20 Perception check is required to notice it before it attacks for the first time. Anyone with ranks in Fieldcraft or Nature can use either of those skills instead of Perception to notice the plant. Dwarves can use [[rangoric-srd/races/Dwarf#^dwarf-stonecunning|stonecunning]] to notice the subterranean version.
 
-**Entangle (Su)**: An assassin vine can, as a free action, cause plants within 30 feet of it to animate and grasp at foes. This ability is otherwise similar to [[rangoric-srd/spells/Entangle|entangle]] (CL 4th, DC 13). The save DC is Wisdom-based.
+**Entangle (Su)**: An assassin vine can, as a free action, cause plants within 30 feet of it to animate and grasp at foes. This ability is otherwise similar to [[rangoric-srd/spells/Entangle|entangle]] (CL 4th, +3 vs Reflex). The attack bonus is Wisdom-based.

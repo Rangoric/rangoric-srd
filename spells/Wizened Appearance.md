@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "Caster level hour(s)"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Ultimate Intrigue"
 based-on:
@@ -41,7 +41,7 @@ _Transmutation (Polymorph)_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: Caster level hour(s)
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 You polymorph your target to look like an older version of itself. You select how much older (for example, "10 years older" or "as an adult"). You can't otherwise change the target's appearance other than those details directly associated with aging (for example, a target's hair might turn gray or the target might develop liver spots). This spell allows children of creatures that are Medium or smaller when fully grown to grow one size category to the normal, adult size of that type of creature, but otherwise the selected age increase doesn't alter the creature's size. A change in size doesn't alter the target's ability scores. This spell doesn't affect or cause any age-based modifications to ability scores or other age-related effects like dragon age categories or natural metamorphoses. _Wizened appearance_ and _youthful_ appearance counter and dispel each other.

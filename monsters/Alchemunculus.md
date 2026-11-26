@@ -17,7 +17,7 @@ full-attack: "2 claws +3 melee (1d2–1 plus poison)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Leaping, poison"
 special-qualities: "Construct traits, spider climb"
-saves: "Fort +0, Ref +3, Will +0"
+defenses: "Fort 10, Ref 13, Will 10"
 abilities: "Str 9, Dex 16, Con —, Int 8, Wis 9, Cha 8 (at least; or half the creator’s scores)"
 skills: "—"
 feats: "Improved Initiative (innate)"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: Leaping, [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], spider climb
-- **Saves**: Fort +0, Ref +3, Will +0
+- **Defenses**: Fort 10, Ref 13, Will 10
 - **Abilities**: Str 9, Dex 16, Con —, Int 8, Wis 9, Cha 8 (at least; or half the creator’s scores)
 - **Skills**: —
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]] (innate)
@@ -75,7 +75,7 @@ Alchemunculi tend to hide and leap out at any foes who threaten their creators, 
 
 **Spider Climb (Ex)**: Due to various adhesives within the chymicals for its construction, alchemunculi can move as if under the effects of a _[[rangoric-srd/spells/Spider Climb|spider climb]]_ at will and they move at their full speed, not half speed as per the spell.
 
-**Poison (Ex)**: The alchemunculus’ claws seep an alchemical toxin: injury, Fortitude DC 10, initial damage [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nausea]] for 1 minute, secondary damage sleep for 1d4 minutes.
+**Poison (Ex)**: The alchemunculus’ claws seep an alchemical toxin: injury, +0 vs Fortitude, initial damage [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nausea]] for 1 minute, secondary damage sleep for 1d4 minutes.
 
 ### Construction
 
