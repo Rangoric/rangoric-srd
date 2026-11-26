@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "15-ft.-radius burst"
 duration: "Instantaneous plus 1 round (see text)"
-saving-throw: "Will negates; see text"
+defense: "Will; see text"
 spell-resistance: "Yes"
 book: "Planar Adventures"
 based-on:
@@ -39,7 +39,7 @@ _Necromancy_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Area**: 15-ft.-radius burst
 - **Duration**: Instantaneous plus 1 round (see text)
-- **Saving Throw**: Will negates; see text
+- **Defense**: Will; see text
 - **Spell Resistance**: Yes
 
-This spell functions like [[rangoric-srd/spells/Positive Pulse|positive pulse]], except that the damage dealt increases to 3d6 plus your caster level, and the bonus on saving throws increases to +8.
+This spell functions like [[rangoric-srd/spells/Positive Pulse|positive pulse]], except that the damage dealt increases to 3d6 plus your caster level, and the bonus on defenses increases to +8.

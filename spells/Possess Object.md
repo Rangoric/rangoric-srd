@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One object; see text"
 duration: "1 hour/level or until you return to your body"
-saving-throw: "Will negates; see text"
+defense: "Will; see text"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -34,7 +34,7 @@ _Necromancy_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One object; see text
 - **Duration**: 1 hour/level or until you return to your body
-- **Saving Throw**: Will negates; see text
+- **Defense**: Will; see text
 - **Spell Resistance**: Yes
 
 This spell functions as _[[rangoric-srd/spells/Magic Jar|magic jar]]_, except you transfer your mind to a single object, animating it as if using _[[rangoric-srd/spells/Animate Objects|animate objects]]_, except your mind controls the object as if it were your own body. You cannot speak or cast spells while possessing the object. Because your original body is effectively dead while under the effect of this spell, this temporarily suspends disease, poisons, and other afflictions affecting you.

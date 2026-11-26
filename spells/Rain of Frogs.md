@@ -23,7 +23,7 @@ casting-time: "1 round"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "One swarm of poisonous frogs"
 duration: "Concentration + 2 rounds"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -44,7 +44,7 @@ _Conjuration (Summoning)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: One swarm of poisonous frogs
 - **Duration**: Concentration + 2 rounds
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell functions as _[[rangoric-srd/spells/Summon Swarm|summon swarm]]_, except you summon a swarm of poisonous frogs. This swarm has the statistics of a centipede swarm, except it has the animal type and its poison deals Constitution damage instead of Dexterity damage.

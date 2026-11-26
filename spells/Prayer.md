@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "40 ft."
 area: "All allies and foes within a 40-ft.-radius burst centered on you"
 duration: "1 round/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Prayer|Prayer (3.5)]]"
@@ -37,7 +37,7 @@ _Enchantment (Compulsion) \[Mind-Affecting\]_
 - **Range**: 40 ft.
 - **Area**: All allies and foes within a 40-ft.-radius burst centered on you
 - **Duration**: 1 round/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
-You bring special favor upon yourself and your allies while bringing disfavor to your enemies. You and your each of your allies gain a +1 luck bonus on attack rolls, weapon damage rolls, saves, and skill checks, while each of your foes takes a –1 penalty on such rolls.
+You bring special favor upon yourself and your allies while bringing disfavor to your enemies. You and your each of your allies gain a +1 luck bonus on attack rolls, weapon damage rolls, defenses, and skill checks, while each of your foes takes a –1 penalty on such rolls.

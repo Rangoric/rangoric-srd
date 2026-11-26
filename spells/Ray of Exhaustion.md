@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "Ray"
 duration: "1 min./level"
-saving-throw: "Fortitude partial; see text"
+defense: "Fortitude partial; see text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Ray of Exhaustion|Ray of Exhaustion (3.5)]]"
@@ -37,12 +37,12 @@ _Necromancy_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: Ray
 - **Duration**: 1 min./level
-- **Saving Throw**: Fortitude partial; see text
+- **Defense**: Fortitude partial; see text
 - **Spell Resistance**: Yes
 
 A black ray projects from your pointing finger. You must succeed on a ranged touch attack with the ray to strike a target.
 
-The subject is immediately [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]] for the spell’s duration. A successful Fortitude save means the creature is only [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]].
+The subject is immediately [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]] for the spell’s duration. A miss against Fortitude means the creature is only [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]].
 
 A character that is already fatigued instead becomes exhausted.
 

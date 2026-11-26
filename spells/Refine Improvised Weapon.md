@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One improvised weapon"
 duration: "1 hour/level (D)"
-saving-throw: "Will negates (harmless, object)"
+defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
 book: "Advanced Class Guide"
 based-on:
@@ -38,7 +38,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: One improvised weapon
 - **Duration**: 1 hour/level (D)
-- **Saving Throw**: Will negates (harmless, object)
+- **Defense**: Will (harmless, object)
 - **Spell Resistance**: Yes (harmless, object)
 
 You transform an improvised weapon into an equivalent simple or martial weapon of masterwork quality. This effect does not alter the weapon's shape or appearance in any way. For example, if this spell is cast on a chair leg, a butter knife, or a pitchfork, the items function as a masterwork club, a masterwork dagger, or a masterwork trident, respectively, but the items look no different than they did before the spell was cast.

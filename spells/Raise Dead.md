@@ -17,7 +17,7 @@ casting-time: "1 minute"
 range: "Touch"
 target: "Dead creature touched"
 duration: "Instantaneous"
-saving-throw: "None; see text"
+defense: "None; see text"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Raise Dead|Raise Dead (3.5)]]"
@@ -38,10 +38,10 @@ _Conjuration (Healing)_
 - **Range**: Touch
 - **Target**: Dead creature touched
 - **Duration**: Instantaneous
-- **Saving Throw**: None; see text
+- **Defense**: None; see text
 - **Spell Resistance**: Yes (harmless)
 
-You restore life to a deceased creature. You can raise a creature that has been [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] for no longer than one day per caster level. In addition, the subject’s soul must be free and willing to return. If the subject’s soul is not willing to return, the spell does not work; therefore, a subject that wants to return receives no saving throw.
+You restore life to a deceased creature. You can raise a creature that has been [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] for no longer than one day per caster level. In addition, the subject’s soul must be free and willing to return. If the subject’s soul is not willing to return, the spell does not work; therefore, the spell hits a subject that wants to return automatically.
 
 Coming back from the dead is an ordeal. The subject of the spell gains two [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent negative levels]] when it is raised, just as if it had been hit by an energy-draining creature. If the subject is 1st level, it takes 2 points of [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|Constitution drain]] instead (if this would reduce its Con to 0 or less, it can’t be raised). A character who died with spells prepared has a 50% chance of losing any given spell upon being raised. A spellcasting creature that doesn’t prepare spells (such as a sorcerer) has a 50% chance of losing any given unused spell slot as if it had been used to cast a spell.
 

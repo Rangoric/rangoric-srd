@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "Instantaneous"
-saving-throw: "Will partial and Fortitude partial; see text"
+defense: "Will partial and Fortitude partial; see text"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -33,7 +33,7 @@ _Necromancy \[Mind-Affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: Instantaneous
-- **Saving Throw**: Will partial and Fortitude partial; see text
+- **Defense**: Will partial and Fortitude partial; see text
 - **Spell Resistance**: Yes
 
-This functions as _[[rangoric-srd/spells/Psychic Crush I|psychic crush I]]_, but on a successful Fortitude save, the target takes 5d6 points of damage + 1 point of damage per caster level. In addition, the target receives a +4 circumstance bonus on the Fortitude save only if it is at full hit points; otherwise, it gains a +2 bonus if it has more than half its total hit points remaining. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].
+This functions as _[[rangoric-srd/spells/Psychic Crush I|psychic crush I]]_, but if the Fortitude attack misses, the target takes 5d6 points of damage + 1 point of damage per caster level. In addition, the target receives a +4 circumstance bonus to its Fortitude Defense only if it is at full hit points; otherwise, it gains a +2 bonus if it has more than half its total hit points remaining. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].

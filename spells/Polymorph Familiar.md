@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. +5 ft./2 levels)"
 target: "Your familiar"
 duration: "1 minute/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Class Guide"
 based-on:
@@ -35,7 +35,7 @@ _Transmutation (Polymorph)_
 - **Range**: Close (25 ft. +5 ft./2 levels)
 - **Target**: Your familiar
 - **Duration**: 1 minute/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes (harmless)
 
 This spell functions as _[[rangoric-srd/spells/Beast Shape I|beast shape I]]_, except it grants your familiar the form of any Small animal. Your familiar retains all of its special abilities and continues to grant you the special ability associated with its normal shape (such as a bat familiar's bonus on Acrobatics checks).

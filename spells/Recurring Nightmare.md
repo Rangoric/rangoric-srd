@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One creature"
 duration: "Permanent"
-saving-throw: "See text"
+defense: "See text"
 spell-resistance: "Yes"
 book: "Faeries"
 based-on:
@@ -42,10 +42,10 @@ _Illusion (Phantasm) \[Mind-Affecting\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One creature
 - **Duration**: Permanent
-- **Saving Throw**: See text
+- **Defense**: See text
 - **Spell Resistance**: Yes
 
-Hideous creatures haunt the victim’s dreams. Each night the target sleeps, he gains 1d2 [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative levels]] unless the victim manages a successful Will save to temporarily stave off the effects for that night. If the number of negative levels ever equals or exceeds his HD, he dies.
+Hideous creatures haunt the victim’s dreams. Each night the target sleeps, he gains 1d2 [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative levels]] if the spell hits his Will; a miss staves off the effects for that night. If the number of negative levels ever equals or exceeds his HD, he dies.
 
 _Recurring nightmare_ cannot be dispelled, but it can be removed with a _[[rangoric-srd/spells/Break Enchantment|break enchantment]]_, _[[rangoric-srd/spells/Limited Wish|limited wish]]_, _[[rangoric-srd/spells/Miracle|miracle]]_, _[[rangoric-srd/spells/Remove Curse|remove curse]]_, or _[[rangoric-srd/spells/Wish|wish]]_ spell.
 

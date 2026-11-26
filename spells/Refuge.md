@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Object touched"
 duration: "Permanent until discharged"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Refuge|Refuge (3.5)]]"
@@ -36,7 +36,7 @@ _Conjuration (Teleportation)_
 - **Range**: Touch
 - **Target**: Object touched
 - **Duration**: Permanent until discharged
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You create powerful magic in some specially prepared object. This object contains the power to instantly transport its possessor across any distance within the same plane to your abode. Once the item is transmuted, you must give it willingly to a creature and at the same time inform it of a command word to be spoken when the item is used. To make use of the item, the subject speaks the command word at the same time that it rends or breaks the item (a standard action). When this is done, the individual and all objects it is wearing and carrying (to a maximum of the character’s heavy load) are instantly transported to your abode. No other creatures are affected (aside from a familiar that is touching the subject).

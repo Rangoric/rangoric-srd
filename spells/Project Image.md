@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "One shadow duplicate"
 duration: "1 round/level (D)"
-saving-throw: "Will disbelief (if interacted with)"
+defense: "Will disbelief (if interacted with)"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Project Image|Project Image (3.5)]]"
@@ -38,7 +38,7 @@ _Illusion (Shadow)_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: One shadow duplicate
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: Will disbelief (if interacted with)
+- **Defense**: Will disbelief (if interacted with)
 - **Spell Resistance**: No
 
 You tap energy from the Plane of Shadow to create a quasi-real, illusory version of yourself. The projected image looks, sounds, and smells like you but is intangible. The projected image mimics your actions (including speech) unless you direct it to act differently (which is a move action).
@@ -47,7 +47,7 @@ You can see through its eyes and hear through its ears as if you were standing w
 
 If you desire, any spell you cast whose range is touch or greater can originate from the projected image instead of from you. The projected image can’t cast any spells on itself except for illusion spells. The spells affect other targets normally, despite originating from the projected image.
 
-Objects are affected by the projected image as if they had succeeded on their Will save.
+Objects are affected by the projected image as if it had missed their Will.
 
 You must maintain line of effect to the projected image at all times. If your line of effect is obstructed, the spell ends. If you use dimension door, teleport, plane shift, or a similar spell that breaks your line of effect, even momentarily, the spell ends.
 

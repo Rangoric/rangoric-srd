@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "0 ft."
 effect: "Flame in your palm"
 duration: "1 min./level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Produce Flame|Produce Flame (3.5)]]"
@@ -36,7 +36,7 @@ _Evocation \[Fire\]_
 - **Range**: 0 ft.
 - **Effect**: Flame in your palm
 - **Duration**: 1 min./level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 Flames as bright as a torch appear in your open hand. The flames harm neither you nor your equipment.
