@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One siege engine touched"
 duration: "1 minute/level"
-saving-throw: "Will negates (harmless, object)"
+defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
 book: "Ultimate Combat"
 based-on:
@@ -38,7 +38,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: One [[rangoric-srd/rules/Siege Engines|siege engine]] touched
 - **Duration**: 1 minute/level
-- **Saving Throw**: Will negates (harmless, object)
+- **Defense**: Will (harmless, object)
 - **Spell Resistance**: Yes (harmless, object)
 
 This spell permits an indirect fire siege engine to bombard its targets with greater accuracy, delivering more damage. The siege weapon receives a +1 enhancement bonus on targeting rolls and damage rolls. If used on a direct fire siege weapon, this spell acts a _[[rangoric-srd/spells/Magic Weapon|magic weapon]]_.

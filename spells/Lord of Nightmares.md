@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "75 ft."
 effect: "One summoned creature"
 duration: "20 rounds"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 to-develop: "450,000 gp; 9 days; 18,000 XP. Seed: summon (DC 14). Factors: summon CR 31 creature (+58 DC), allow creature to possess body and act at its own discretion (ad hoc -20 DC), 1-action casting time (+20 DC). Mitigating factors: 12d6 backlash (-12 DC), burn 1,000 XP (-10 DC)."
 based-on:
@@ -32,7 +32,7 @@ Casting Time: 1 standard action
 Range: 75 ft.  
 Effect: One summoned creature  
 Duration: 20 rounds  
-Saving Throw: None  
+Defense: None  
 Spell Resistance: No  
 To Develop: 450,000 gp; 9 days; 18,000 XP. Seed: summon (DC 14). Factors: summon CR 31 creature (+58 DC), allow creature to possess body and act at its own discretion (ad hoc -20 DC), 1-action casting time (+20 DC). Mitigating factors: 12d6 backlash (-12 DC), burn 1,000 XP (-10 DC).
 

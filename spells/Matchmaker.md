@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "Two living creatures"
 duration: "Caster level hour(s)"
-saving-throw: "Will partial, see text"
+defense: "Will partial, see text"
 spell-resistance: "Yes"
 book: "Ultimate Intrigue"
 based-on:
@@ -39,7 +39,7 @@ _Enchantment (Charm) \[MindAffecting\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: Two living creatures
 - **Duration**: Caster level hour(s)
-- **Saving Throw**: Will partial, see text
+- **Defense**: Will partial, see text
 - **Spell Resistance**: Yes
 
-You entice the target creatures to become romantically interested in one another. Each creature saves and applies spell resistance separately. Both must be affected for the spell to have an effect. If either creatures has a prior unfriendly or hostile attitude toward the other, it receives a +4 bonus on its saving throw. This spell doesn't override the targets' normal sexual preferences or other limitations. If romantic feelings are incompatible for this reason, the creature instead feels an intimate platonic bond with the other.
+You entice the target creatures to become romantically interested in one another. The spell attacks each creature’s Will and checks spell resistance separately. Both must be affected for the spell to have an effect. If either creatures has a prior unfriendly or hostile attitude toward the other, it receives a +4 bonus to its Will Defense against the spell. This spell doesn't override the targets' normal sexual preferences or other limitations. If romantic feelings are incompatible for this reason, the creature instead feels an intimate platonic bond with the other.

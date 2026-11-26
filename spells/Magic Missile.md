@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 targets: "Up to five creatures, no two of which can be more than 15 ft. apart"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Magic Missile|Magic Missile (3.5)]]"
@@ -36,7 +36,7 @@ _Evocation \[Force\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Targets**: Up to five creatures, no two of which can be more than 15 ft. apart
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 A missile of magical energy darts forth from your fingertip and strikes its target, dealing 1d4+1 points of force damage.

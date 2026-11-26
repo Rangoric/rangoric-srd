@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "See text"
 target-effect-or-area: "See text"
 duration: "See text"
-saving-throw: "None; see text"
+defense: "None; see text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Limited Wish|Limited Wish (3.5)]]"
@@ -34,7 +34,7 @@ _Universal_
 
 Target, Effect, or Area: See text  
 Duration: See text  
-Saving Throw: None; see text  
+Defense: None; see text  
 Spell Resistance: Yes
 
 A limited wish lets you create nearly any type of effect. For example, a limited wish can do any of the following things.
@@ -49,8 +49,8 @@ A limited wish lets you create nearly any type of effect. For example, a limited
 
 - Undo the harmful effects of many spells, such as geas/quest or insanity.
 
-- Produce any other effect whose power level is in line with the above effects, such as a single creature automatically hitting on its next attack or taking a –7 penalty on its next saving throw.
+- Produce any other effect whose power level is in line with the above effects, such as a single creature automatically hitting on its next attack or taking a –7 penalty to its defense against the next attack against one.
 
-A duplicated spell allows saving throws and spell resistance as normal (but the save DC is for a 7th-level spell). When a limited wish duplicates a spell that has an XP cost, you must pay that cost or 300 XP, whichever is more. When a limited wish spell duplicates a spell with a material component that costs more than 1,000 gp, you must provide that component.
+A duplicated spell attacks defenses and allows spell resistance as normal (but its attack bonus is for a 7th-level spell). When a limited wish duplicates a spell that has an XP cost, you must pay that cost or 300 XP, whichever is more. When a limited wish spell duplicates a spell with a material component that costs more than 1,000 gp, you must provide that component.
 
 _XP Cost_: 300 XP or more (see above).

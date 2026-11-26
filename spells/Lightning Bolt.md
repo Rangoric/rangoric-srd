@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "120 ft."
 area: "120-ft. line"
 duration: "Instantaneous"
-saving-throw: "Reflex half"
+defense: "Reflex half"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Lightning Bolt|Lightning Bolt (3.5)]]"
@@ -38,7 +38,7 @@ _Evocation \[Electricity\]_
 - **Range**: 120 ft.
 - **Area**: 120-ft. line
 - **Duration**: Instantaneous
-- **Saving Throw**: Reflex half
+- **Defense**: Reflex half
 - **Spell Resistance**: Yes
 
 You release a powerful stroke of electrical energy that deals 1d6 points of electricity damage per caster level (maximum 10d6) to each creature within its area. The bolt begins at your fingertips.

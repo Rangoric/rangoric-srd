@@ -14,7 +14,7 @@ casting-time: "1 swift action"
 range: "Personal"
 target: "You"
 duration: "1 round"
-saving-throw: "No"
+defense: "No"
 spell-resistance: "Yes"
 book: "Ultimate Combat"
 based-on:
@@ -35,7 +35,7 @@ _Divination_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 round
-- **Saving Throw**: No
+- **Defense**: No
 - **Spell Resistance**: Yes
 
 This litany reveals the unseen to you. You can see invisible creatures and objects within 30 feet.

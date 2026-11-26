@@ -10,7 +10,7 @@ casting-time: "1 standard action"
 range: "300 ft."
 area: "40-ft.-radius hemisphere"
 duration: "Permanent"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 to-develop: "495,000 gp; 10 days; 19,800 XP. Seed: transform (DC 21). Factors: change target to area of 20-ft. hemisphere (+10 DC), increase area by 100% (+4 DC), 1 action casting time (+20 DC)."
 based-on:
@@ -30,7 +30,7 @@ Casting Time: 1 standard action
 Range: 300 ft.  
 Area: 40-ft.-radius hemisphere  
 Duration: Permanent  
-Saving Throw: Fortitude negates  
+Defense: Fortitude  
 Spell Resistance: Yes  
 To Develop: 495,000 gp; 10 days; 19,800 XP. Seed: transform (DC 21). Factors: change target to area of 20-ft. hemisphere (+10 DC), increase area by 100% (+4 DC), 1 action casting time (+20 DC).
 

@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One touched creature with negative energy affinity"
 duration: "1 minute/level"
-saving-throw: "Fortitude negates (harmless)"
+defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Race Guide"
 based-on:
@@ -32,7 +32,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: One touched creature with negative energy affinity
 - **Duration**: 1 minute/level
-- **Saving Throw**: Fortitude negates (harmless)
+- **Defense**: Fortitude (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 When cast on a creature with negative energy affinity, the target is able to convert channeled positive energy into temporary hit points. When subject to an effect that heals hit points only to living creatures (such as _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_ or channel positive energy), the target gains a number of temporary hit points equal to half the number of hit points that the positive energy would normally heal. These temporary hit points go away at the end of this spell's duration.

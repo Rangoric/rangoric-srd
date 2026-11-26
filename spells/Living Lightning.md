@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "300 ft. or 150 ft."
 area: "A bolt 5 ft. wide by 300 ft. long, or 10 ft. wide by 150 ft. long"
 duration: "Instantaneous"
-saving-throw: "Reflex half"
+defense: "Reflex half"
 spell-resistance: "Yes"
 to-develop: "1,260,000 gp; 26 days; 50,400 XP. Seeds: life (DC 27), energy (DC 19). Factors: 1-action casting time (+20 DC), no verbal or somatic components (+4 DC), giving life to a spell (ad hoc x2 DC)."
 based-on:
@@ -31,7 +31,7 @@ Casting Time: 1 standard action
 Range: 300 ft. or 150 ft.  
 Area: A bolt 5 ft. wide by 300 ft. long, or 10 ft. wide by 150 ft. long  
 Duration: Instantaneous  
-Saving Throw: Reflex half  
+Defense: Reflex half  
 Spell Resistance: Yes  
 To Develop: 1,260,000 gp; 26 days; 50,400 XP. Seeds: life (DC 27), energy (DC 19). Factors: 1-action casting time (+20 DC), no verbal or somatic components (+4 DC), giving life to a spell (ad hoc x2 DC).
 

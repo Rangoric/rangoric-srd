@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One nonmagical, unattended object weighing up to 5 lb."
 duration: "Concentration"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Mage Hand|Mage Hand (3.5)]]"
@@ -41,7 +41,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One nonmagical, unattended object weighing up to 5 lb.
 - **Duration**: Concentration
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You point your finger at an object and can lift it and move it at will from a distance. As a move action, you can propel the object as far as 15 feet in any direction, though the spell ends if the distance between you and the object ever exceeds the spell’s range.

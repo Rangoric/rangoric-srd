@@ -13,7 +13,7 @@ casting-time: "1 minute"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "One creature/level"
 duration: "Concentration"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Class Guide"
 based-on:
@@ -34,7 +34,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Targets**: One creature/level
 - **Duration**: Concentration
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 You invigorate your allies, who can hustle as long as you continue to sing or chant (which requires your concentration). This movement counts as a walk (not a hustle) for the purpose of accruing nonlethal damage and fatigue.

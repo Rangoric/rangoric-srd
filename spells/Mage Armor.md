@@ -23,7 +23,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 hour/level (D)"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Mage Armor|Mage Armor (3.5)]]"
@@ -43,7 +43,7 @@ _Conjuration (Creation) \[Force\]_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 hour/level (D)
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: No
 
 An [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] but tangible field of force surrounds the subject of a mage armor spell, providing a +4 armor bonus to AC.

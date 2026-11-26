@@ -23,7 +23,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Weapon touched"
 duration: "1 min./level"
-saving-throw: "Will negates (harmless, object)"
+defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Magic Weapon|Magic Weapon (3.5)]]"
@@ -43,7 +43,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Weapon touched
 - **Duration**: 1 min./level
-- **Saving Throw**: Will negates (harmless, object)
+- **Defense**: Will (harmless, object)
 - **Spell Resistance**: Yes (harmless, object)
 
 Magic weapon gives a weapon a +1 enhancement bonus on attack and damage rolls. (An enhancement bonus does not stack with a masterwork weapon’s +1 bonus on attack rolls.)

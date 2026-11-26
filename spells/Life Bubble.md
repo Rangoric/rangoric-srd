@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creatures touched, up to one/level"
 duration: "2 hours/level; see text"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Player's Guide"
 based-on:
@@ -40,7 +40,7 @@ _Abjuration_
 - **Range**: Touch
 - **Target**: Creatures touched, up to one/level
 - **Duration**: 2 hours/level; see text
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 You surround the touched creatures with a constant and moveable 1-inch shell of tolerable living conditions. This shell enables the subjects to breathe freely, even underwater or in a vacuum, as well as making them immune to harmful gases and vapors, including inhaled diseases and poisons and spells like _[[rangoric-srd/spells/Cloudkill|cloudkill]]_ and _[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_. In addition, the shell protects subjects from extremes of temperature (per _[[rangoric-srd/spells/Endure Elements|endure elements]]_) as well as extremes of pressure.

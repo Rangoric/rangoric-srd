@@ -23,7 +23,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "One reroll"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Faeries"
 based-on:
@@ -44,7 +44,7 @@ _Enchantment (Compulsion) \[Mind-Affecting\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: One reroll
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 This spell allows the caster to choose one die roll and reroll it, taking the newly rolled number instead. The spellcaster can choose to reroll one roll that she, another character, or another creature has just made. The targeted creature must take the results of the reroll, even if they are worse.

@@ -15,7 +15,7 @@ casting-time: "10 minutes"
 range: "Touch"
 target: "Creature touched"
 duration: "Permanent; see text"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Mark of Justice|Mark of Justice (3.5)]]"
@@ -35,7 +35,7 @@ _Necromancy_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: Permanent; see text
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 You draw an indelible mark on the subject and state some behavior on the part of the subject that will activate the mark. When activated, the mark curses the subject. Typically, you designate some sort of criminal behavior that activates the mark, but you can pick any act you please. The effect of the mark is identical with the effect of bestow curse.

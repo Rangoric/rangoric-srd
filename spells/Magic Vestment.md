@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Armor or shield touched"
 duration: "1 hour/level"
-saving-throw: "Will negates (harmless, object)"
+defense: "Will (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Magic Vestment|Magic Vestment (3.5)]]"
@@ -37,7 +37,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Armor or shield touched
 - **Duration**: 1 hour/level
-- **Saving Throw**: Will negates (harmless, object)
+- **Defense**: Will (harmless, object)
 - **Spell Resistance**: Yes (harmless, object)
 
 You imbue a suit of armor or a shield with an enhancement bonus of +1 per four caster levels (maximum +5 at 20th level).

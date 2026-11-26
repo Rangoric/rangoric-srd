@@ -17,7 +17,7 @@ casting-time: "1 swift action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 or more rounds (see below)"
-saving-throw: "No, see below"
+defense: "No, see below"
 spell-resistance: "Yes"
 book: "Ultimate Combat"
 based-on:
@@ -38,9 +38,9 @@ _Enchantment (Charm) \[Language-dependent, Mind-affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: 1 or more rounds (see below)
-- **Saving Throw**: No, see below
+- **Defense**: No, see below
 - **Spell Resistance**: Yes
 
-This litany is a sermon of madness. The target is confused. At the start of each of its turns, it can make a Will saving throw against the confused effect (DC of the spell). If the target fails the save, it continues to be confused. If it makes the save, the effect ends.
+This litany is a sermon of madness. The target is confused. At the start of each of its turns, it can make the confused effect attack its Will again (with the spell’s attack bonus). On a hit, it continues to be confused. On a miss, the effect ends.
 
 While subject to this spell, the target cannot be the target of another spell that has the word "litany" in the title.

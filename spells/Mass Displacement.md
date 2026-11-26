@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 targets: "Any number of creatures, no two of which can be more than 180 ft. apart"
 duration: "1 round/level (D)"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Faeries"
 based-on:
@@ -34,7 +34,7 @@ _Conjuration (Creation)_
 - **Range**: Long (400 ft. + 40 ft./level)
 - **Targets**: Any number of creatures, no two of which can be more than 180 ft. apart
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 As _[[rangoric-srd/spells/Displacement|displacement]]_, except the effect is mobile with the group. Any individual who moves more than 180 feet from the nearest member of the group loses the benefits of the spell. (If only two individuals are affected, the one moving away from the other one loses its displacement. If both are moving away from each other, the displacement effect ceases for both when the distance between them exceeds 180 feet.)

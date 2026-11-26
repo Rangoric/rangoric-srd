@@ -18,7 +18,7 @@ casting-time: "1 swift action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 round"
-saving-throw: "No"
+defense: "No"
 spell-resistance: "Yes"
 book: "Ultimate Combat"
 based-on:
@@ -39,7 +39,7 @@ _Enchantment (Charm) \[Language-dependent, Mind-affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: 1 round
-- **Saving Throw**: No
+- **Defense**: No
 - **Spell Resistance**: Yes
 
 Your litany is a fascinating diatribe of grace, causing your target to do nothing but listen. The target is fascinated.

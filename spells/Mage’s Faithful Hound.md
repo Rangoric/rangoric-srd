@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "Phantom watchdog"
 duration: "1 hour/caster level or until discharged, then 1 round/caster level; see text"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Mage’s Faithful Hound|Mage’s Faithful Hound (3.5)]]"
@@ -36,7 +36,7 @@ _Conjuration (Creation)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: Phantom watchdog
 - **Duration**: 1 hour/caster level or until discharged, then 1 round/caster level; see text
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You conjure up a phantom watchdog that is [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] to everyone but yourself. It then guards the area where it was conjured (it does not move). The hound immediately starts barking loudly if any Small or larger creature approaches within 30 feet of it. (Those within 30 feet of the hound when it is conjured may move about in the area, but if they leave and return, they activate the barking.) The hound sees invisible and ethereal creatures. It does not react to figments, but it does react to shadow illusions.

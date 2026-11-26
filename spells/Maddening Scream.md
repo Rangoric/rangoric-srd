@@ -14,7 +14,7 @@ casting-time: "One action"
 range: "Touch"
 target: "Living creature touched"
 duration: "1d4+1 rounds"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Maddening Scream|Maddening Scream (3.5)]]"
@@ -33,9 +33,9 @@ Casting Time: One action
 Range: Touch  
 Target: Living creature touched  
 Duration: 1d4+1 rounds  
-Saving Throw: None  
+Defense: None  
 Spell Resistance: Yes
 
 The subject cannot keep him or herself from behaving as though completely mad. This spell makes it impossible for the victim to do anything other than race about caterwauling.
 
-The effect worsens the Armor Class of the creature by 4, makes Reflex saving throws impossible except on a roll of 20, and makes it impossible to use a shield.
+The effect worsens the Armor Class of the creature by 4, makes every attack against its Reflex hit unless the attack roll is a natural 1, and makes it impossible to use a shield.

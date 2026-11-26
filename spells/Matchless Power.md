@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 minute/level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Spells & Magic"
 based-on:
@@ -33,9 +33,9 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 minute/level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
-The subject of this spell gains a +6 enhancement bonus to Strength and a +2 enhancement bonus to Dexterity and Constitution. In addition, any creature struck in melee combat by the subject must make a Fortitude Save (DC 14) or be stunned for one round (stunning from multiple attacks does not stack).
+The subject of this spell gains a +6 enhancement bonus to Strength and a +2 enhancement bonus to Dexterity and Constitution. In addition, any creature struck in melee combat by the subject is attacked at +4 against Fortitude, and on a hit is stunned for one round (stunning from multiple attacks does not stack).
 
 _Arcane focus:_ a figurine of a stag beetle, made of gold and malachite and worth approximately 50 gp.
