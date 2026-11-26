@@ -4,7 +4,7 @@ section: "Psionic Powers"
 discipline: "Clairsentience"
 level:
   - "Psion/wilder 9"
-saving-throw: "See text"
+defense: "See text"
 power-resistance: "See text"
 power-points: "17, XP"
 based-on:
@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/power]
 
 Clairsentience  
 **Level:** Psion/wilder 9  
-**Saving Throw:** See text  
+**Defense:** See text  
 **Power Resistance:** See text  
 **Power Points:** 17, XP
 
@@ -44,12 +44,12 @@ As [[rangoric-srd/powers/Bend Reality|bend reality]], but with more farreaching 
 
 - Revive the dead. Reality revision can bring a dead creature back to life by duplicating a [[rangoric-srd/spells/Resurrection|resurrection]] spell. This power can revive a dead creature whose body has been destroyed, but the task takes two manifestations of reality revision, one to recreate the body and another to infuse the body with life again. Reality revision cannot prevent a character who is brought back to life from gaining a [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent negative level]].
 
-- Transport travelers. This power can lift one creature per manifester level from anywhere on any plane and place those creatures anywhere else on any plane regardless of local conditions. An unwilling target gets a Will save to negate the effect, and power resistance (if any) applies.
+- Transport travelers. This power can lift one creature per manifester level from anywhere on any plane and place those creatures anywhere else on any plane regardless of local conditions. It attacks the Will of an unwilling target, a miss negating the effect, and power resistance (if any) applies.
 
-- Undo misfortune. Reality revision can undo a single recent event. Manifesting the power forces a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. The reroll, however, may be as bad as or worse than the original roll. An unwilling target gets a Will save to negate the effect, and power resistance (if any) applies.
+- Undo misfortune. Reality revision can undo a single recent event. Manifesting the power forces a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. The reroll, however, may be as bad as or worse than the original roll. It attacks the Will of an unwilling target, a miss negating the effect, and power resistance (if any) applies.
 
 You can try to use reality revision to produce more powerful effects than these, but doing so is dangerous. The manifestation may pervert your intent into a literal but undesirable fulfillment or only a partial fulfillment.
 
-Duplicated powers allow saves and power resistance as normal (but save DCs are calculated as though the power is 9th level).
+Duplicated powers attack defenses and face power resistance as normal (but their attack bonuses are calculated as though the power is 9th level).
 
 _XP Cost:_ The minimum XP cost for manifesting reality revision is 5,000 XP. When a manifestation duplicates a power that has an XP cost, you must pay 5,000 XP or that cost, whichever is more. When a manifestation creates or improves a psionic item, you must pay twice the normal XP cost for crafting or improving the item, plus an additional 5,000 XP.

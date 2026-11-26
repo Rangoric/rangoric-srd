@@ -7,7 +7,7 @@ level:
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 round/level (D)"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 power-resistance: "Yes"
 power-points: "5"
 based-on:
@@ -25,7 +25,7 @@ Psychometabolism
 **Range:** Close (25 ft. + 5 ft./2 levels)  
 **Target:** One creature  
 **Duration:** 1 round/level (D)  
-**Saving Throw:** Fortitude negates  
+**Defense:** Fortitude  
 **Power Resistance:** Yes  
 **Power Points:** 5
 
@@ -33,4 +33,4 @@ As [[rangoric-srd/powers/Share Pain|share pain]], except as noted here.
 
 You attempt to force the sharing of your wounds with an unwilling creature, and for less time. If you are immune to the type of damage dealt, or if you convert lethal damage into nonlethal damage, the target takes no damage.
 
-**Augment:** For every 2 additional power points you spend, this power’s save DC increases by 1.
+**Augment:** For every 2 additional power points you spend, this power’s attack bonus increases by 1.

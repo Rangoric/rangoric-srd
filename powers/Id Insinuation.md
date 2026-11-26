@@ -12,7 +12,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. +5 ft./2 levels)"
 target: "One creature"
 duration: "Concentration + 1 round"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "3"
 based-on:
@@ -32,7 +32,7 @@ Telepathy (Compulsion) \[Mind-Affecting\]
 **Range:** Close (25 ft. +5 ft./2 levels)  
 **Target:** One creature  
 **Duration:** Concentration + 1 round  
-**Saving Throw:** Will negates  
+**Defense:** Will  
 **Power Resistance:** Yes  
 **Power Points:** 3
 
@@ -48,4 +48,4 @@ Swift tendrils of thought disrupt the unconscious mind of any one creature, sapp
 | 51–70  | Flee from manifester at top possible speed.                                                           |
 | 71–100 | Attack nearest creature (for this purpose, a psicrystal counts as part of the subject’s self).        |
 
-**Augment:** For every 2 additional power points you spend, this power’s save DC increases by 1, and the power can affect an additional target. Any additional target cannot be more than 15 feet from another target of the power.
+**Augment:** For every 2 additional power points you spend, this power’s attack bonus increases by 1, and the power can affect an additional target. Any additional target cannot be more than 15 feet from another target of the power.

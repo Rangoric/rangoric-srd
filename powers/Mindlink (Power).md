@@ -13,7 +13,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels); see text"
 targets: "You and one other willing creature within range that has an Intelligence score of 3 or higher"
 duration: "10 min./level"
-saving-throw: "None; see text"
+defense: "None; see text"
 power-resistance: "Yes (harmless)"
 power-points: "1"
 based-on:
@@ -33,7 +33,7 @@ Telepathy \[Mind-Affecting\]
 **Range:** Close (25 ft. + 5 ft./2 levels); see text  
 **Targets:** You and one other willing creature within range that has an Intelligence score of 3 or higher  
 **Duration:** 10 min./level  
-**Saving Throw:** None; see text  
+**Defense:** None; see text  
 **Power Resistance:** Yes (harmless)  
 **Power Points:** 1
 
@@ -41,6 +41,6 @@ You forge a telepathic bond with your target. You can communicate telepathically
 
 **Augment:** You can augment this power in one or both of the following ways.
 
-1\. If you spend 4 additional power points, you can attempt to create a telepathic bond with a creature that is not willing (Will save negates).
+1\. If you spend 4 additional power points, you can attempt to create a telepathic bond with a creature that is not willing (vs Will).
 
 2\. For every additional power point you spend, this power can affect an additional target. Any additional target cannot be more than 15 feet from another target of the power.

@@ -29,6 +29,6 @@ Clairsentience
 **Duration:** Instantaneous  
 **Power Points:** 13
 
-Your limited omniscience allows you to reroll a saving throw, attack roll, or skill check. Whatever the result of the reroll, you must use it even if it is worse than the original roll.
+Your limited omniscience allows you to reroll an attack roll or skill check, or to make an attack against your defense reroll, keeping the result better for you. Whatever the result of the reroll, you must use it even if it is worse than the original roll.
 
-You can manifest this power instantly, quickly enough to gain its benefits in an emergency. Manifesting this power is an immediate action. If you use the power to reroll a saving throw, you can manifest this power even when it is not your turn.
+You can manifest this power instantly, quickly enough to gain its benefits in an emergency. Manifesting this power is an immediate action. If you use the power to make an attack against your defense reroll, you can manifest this power even when it is not your turn.

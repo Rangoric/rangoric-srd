@@ -12,7 +12,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "Any psionic creature"
 duration: "Concentration, up to 1 round/level; see text"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "7"
 based-on:
@@ -32,7 +32,7 @@ Telepathy (Compulsion) \[Mind-Affecting\]
 **Range:** Close (25 ft. + 5 ft./2 levels)  
 **Target:** Any psionic creature  
 **Duration:** Concentration, up to 1 round/level; see text  
-**Saving Throw:** Will negates  
+**Defense:** Will  
 **Power Resistance:** Yes  
 **Power Points:** 7
 

@@ -11,7 +11,7 @@ manifesting-time: "1 round"
 range: "Long (400 ft. + 40 ft./level)"
 target: "One creature"
 duration: "Concentration, up to 1 min./level (D)"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "5"
 based-on:
@@ -31,7 +31,7 @@ Telepathy \[Mind-Affecting\]
 **Range:** Long (400 ft. + 40 ft./level)  
 **Target:** One creature  
 **Duration:** Concentration, up to 1 min./level (D)  
-**Saving Throw:** Will negates  
+**Defense:** Will  
 **Power Resistance:** Yes  
 **Power Points:** 5
 

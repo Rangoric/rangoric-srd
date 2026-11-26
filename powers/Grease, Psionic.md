@@ -9,7 +9,7 @@ display: "Visual and olfactory"
 manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 duration: "1 round/level (D)"
-saving-throw: "See spell text"
+defense: "See spell text"
 power-resistance: "No"
 power-points: "1"
 based-on:
@@ -29,7 +29,7 @@ Metacreativity (Creation)
 **Range:** Close (25 ft. + 5 ft./2 levels)  
 Target or **Area:** One object or a 10-ft. square  
 **Duration:** 1 round/level (D)  
-**Saving Throw:** See spell text  
+**Defense:** See spell text  
 **Power Resistance:** No  
 **Power Points:** 1
 

@@ -8,7 +8,7 @@ level:
   - "Telepath 9"
 manifesting-time: "1 minute"
 duration: "Instantaneous"
-saving-throw: "Will negates; see text"
+defense: "Will; see text"
 power-resistance: "Yes"
 power-points: "17, XP"
 based-on:
@@ -25,7 +25,7 @@ Telepathy \[Mind-Affecting\]
 **Level:** Telepath 9  
 **Manifesting Time:** 1 minute  
 **Duration:** Instantaneous  
-**Saving Throw:** Will negates; see text  
+**Defense:** Will; see text  
 **Power Resistance:** Yes  
 **Power Points:** 17, XP
 

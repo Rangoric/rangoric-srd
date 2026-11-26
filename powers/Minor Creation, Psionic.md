@@ -10,7 +10,7 @@ manifesting-time: "1 minute"
 range: "0 ft."
 effect: "Unattended, nonpsionic, nonmagical object of nonliving plant matter, up to 1 cu. ft./level"
 duration: "1 hour/level (D)"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "1"
 based-on:
@@ -30,7 +30,7 @@ Metacreativity (Creation)
 **Range:** 0 ft.  
 **Effect:** Unattended, nonpsionic, nonmagical object of nonliving plant matter, up to 1 cu. ft./level  
 **Duration:** 1 hour/level (D)  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** No  
 **Power Points:** 1
 

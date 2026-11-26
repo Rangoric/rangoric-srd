@@ -11,7 +11,7 @@ manifesting-time: "1 standard action"
 range: "10 ft."
 area: "10-ft.-radius spread centered on you"
 duration: "Instantaneous"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "3"
 based-on:
@@ -31,14 +31,14 @@ Telepathy \[Mind-Affecting\]
 **Range:** 10 ft.  
 **Area:** 10-ft.-radius spread centered on you  
 **Duration:** Instantaneous  
-**Saving Throw:** Will negates  
+**Defense:** Will  
 **Power Resistance:** Yes  
 **Power Points:** 3
 
-You generate a mental wave of confusion that instantly sweeps out from your location. All creatures you designate in the affected area (you can choose certain creatures to be unaffected) must make a Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1 round.
+You generate a mental wave of confusion that instantly sweeps out from your location. All creatures you designate in the affected area (you can choose certain creatures to be unaffected) are attacked against Will, and on a hit become [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1 round.
 
 **Augment:** You can augment this power in one or both of the following ways.
 
-1\. For every 2 additional power points you spend, this power’s save DC increases by 1.
+1\. For every 2 additional power points you spend, this power’s attack bonus increases by 1.
 
 2\. For every 2 additional power points you spend, this power’s range and the radius of its area both increase by 5 feet.

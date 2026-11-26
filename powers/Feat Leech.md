@@ -10,7 +10,7 @@ manifesting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 min./level"
-saving-throw: "Will negates; see text"
+defense: "Will; see text"
 power-resistance: "Yes"
 power-points: "3"
 based-on:
@@ -30,7 +30,7 @@ Clairsentience
 **Range:** Touch  
 **Target:** Creature touched  
 **Duration:** 1 min./level  
-**Saving Throw:** Will negates; see text  
+**Defense:** Will; see text  
 **Power Resistance:** Yes  
 **Power Points:** 3
 
@@ -38,8 +38,8 @@ You can use another’s psionic or metapsionic feats for yourself. You make a me
 
 While the power lasts, you are treated as if you possessed the stolen feats, despite the fact that you have more feats than normally allowed. During this same period, the target can make no use of the stolen feats. When the power’s duration expires, you lose access to the feats, and the target gains immediate use of them. This transfer occurs regardless of the distance between you and the target.
 
-If the duration of feat leech is extended by the use of a metapsionic feat, the target gains a Will saving throw every 10 minutes beyond the normal duration. If this save succeeds, the power’s duration ends. If the target is killed before the duration expires, you immediately lose the benefit of the stolen feats.
+If the duration of feat leech is extended by the use of a metapsionic feat, the power attacks the target’s Will again every 10 minutes beyond the normal duration. If it misses, the power’s duration ends. If the target is killed before the duration expires, you immediately lose the benefit of the stolen feats.
 
 You cannot steal a feat for which you do not meet the prerequisites, if any. However, you can use a stolen feat as the prerequisite for another stolen feat.
 
-Augment: For every 2 additional power points you spend, this power’s save DC increases by 1.
+Augment: For every 2 additional power points you spend, this power’s attack bonus increases by 1.

@@ -10,7 +10,7 @@ manifesting-time: "1 standard action"
 range: "Personal or touch; see text"
 target: "You or one willing creature or one unattended object (total weight up to 100 lb./level); see text"
 duration: "1 min./level (D)"
-saving-throw: "None"
+defense: "None"
 power-resistance: "Yes (harmless, object)"
 power-points: "1"
 based-on:
@@ -30,7 +30,7 @@ Psychoportation
 **Range:** Personal or touch; see text  
 **Target:** You or one willing creature or one unattended object (total weight up to 100 lb./level); see text  
 **Duration:** 1 min./level (D)  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** Yes (harmless, object)  
 **Power Points:** 1
 

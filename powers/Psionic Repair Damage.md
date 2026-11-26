@@ -9,7 +9,7 @@ manifesting-time: "1 standard action"
 range: "Touch"
 target: "Construct touched"
 duration: "Instantaneous"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 power-resistance: "Yes (harmless)"
 power-points: "3"
 based-on:
@@ -29,7 +29,7 @@ Metacreativity
 **Range:** Touch  
 **Target:** Construct touched  
 **Duration:** Instantaneous  
-**Saving Throw:** Will negates (harmless)  
+**Defense:** Will (harmless)  
 **Power Resistance:** Yes (harmless)  
 **Power Points:** 3
 

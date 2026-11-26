@@ -11,7 +11,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "One day"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 power-resistance: "Yes (harmless)"
 power-points: "15"
 based-on:
@@ -31,7 +31,7 @@ Telepathy \[Mind-Affecting\]
 **Range:** Close (25 ft. + 5 ft./2 levels)  
 **Target:** One creature  
 **Duration:** One day  
-**Saving Throw:** Will negates (harmless)  
+**Defense:** Will (harmless)  
 **Power Resistance:** Yes (harmless)  
 **Power Points:** 15
 

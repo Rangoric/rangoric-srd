@@ -9,7 +9,7 @@ display: "Auditory and material"
 manifesting-time: "1 swift action"
 range: "Touch"
 duration: "1 round"
-saving-throw: "None"
+defense: "None"
 power-resistance: "Yes"
 power-points: "1"
 based-on:
@@ -28,7 +28,7 @@ Psychometabolism
 **Manifesting Time:** 1 swift action  
 **Range:** Touch  
 **Duration:** 1 round  
-Saving Throw: None  
+Defense: None  
 Power Resistance: Yes  
 **Power Points:** 1
 

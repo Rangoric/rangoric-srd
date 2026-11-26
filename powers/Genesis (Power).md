@@ -12,7 +12,7 @@ manifesting-time: "One week (8 hours/day)"
 range: "180 ft.; see text"
 effect: "A demiplane coterminous with the Astral Plane, centered on your location"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "17, XP"
 based-on:
@@ -32,7 +32,7 @@ Metacreativity (Creation)
 **Range:** 180 ft.; see text  
 **Effect:** A demiplane coterminous with the Astral Plane, centered on your location  
 **Duration:** Instantaneous  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** No  
 **Power Points:** 17, XP
 

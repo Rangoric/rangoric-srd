@@ -9,7 +9,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "Any two living creatures that are initially no more than 30 ft. apart."
 duration: "10 min./level"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "5"
 based-on:
@@ -29,12 +29,12 @@ Clairsentience
 **Range:** Close (25 ft. + 5 ft./2 levels)  
 **Target:** Any two living creatures that are initially no more than 30 ft. apart.  
 **Duration:** 10 min./level  
-**Saving Throw:** Will negates  
+**Defense:** Will  
 **Power Resistance:** Yes  
 **Power Points:** 5
 
-You temporarily link the fates of any two creatures, if both fail their saving throws. If either linked creature experiences pain, both feel it. When one loses hit points, the other loses the same amount. If one takes nonlethal damage, so does the other. If one creature is subjected to an effect to which it is immune (such as a type of energy damage), the linked creature is not subjected to it either. If one dies, the other must immediately succeed on a Fortitude save against this power’s save DC or gain two [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|negative levels]].
+You temporarily link the fates of any two creatures, if the power hits both. If either linked creature experiences pain, both feel it. When one loses hit points, the other loses the same amount. If one takes nonlethal damage, so does the other. If one creature is subjected to an effect to which it is immune (such as a type of energy damage), the linked creature is not subjected to it either. If one dies, the power immediately attacks the other’s Fortitude with its attack bonus, and on a hit that creature gains two [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|negative levels]].
 
 No other effects are transferred by the fate link.
 
-Augment: For every 2 additional power points you spend, this power’s save DC increases by 1.
+Augment: For every 2 additional power points you spend, this power’s attack bonus increases by 1.

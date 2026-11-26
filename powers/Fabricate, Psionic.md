@@ -10,7 +10,7 @@ manifesting-time: "See spell text"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "Up to 10 cu. ft./level; see spell text"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "7"
 based-on:
@@ -30,7 +30,7 @@ Metacreativity (Creation)
 **Range:** Close (25 ft. + 5 ft./2 levels)  
 **Target:** Up to 10 cu. ft./level; see spell text  
 **Duration:** Instantaneous  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** No  
 **Power Points:** 7
 

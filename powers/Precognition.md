@@ -33,4 +33,4 @@ Precognition allows your mind to glimpse fragments of potential future events - 
 
 In practice, manifesting this power grants you a “precognitive edge.” Normally, you can have only a single precognitive edge at one time. You must use your edge within a period of no more than 10 minutes per level, at which time your preknowledge fades and you lose your edge.
 
-You can use your precognitive edge in a variety of ways. Essentially, the edge translates into a +2 insight bonus that you can apply at any time to either an attack roll, a damage roll, a saving throw, or a skill check. You can elect to apply the bonus to the roll after you determine that your unmodified roll is lower than desired.
+You can use your precognitive edge in a variety of ways. Essentially, the edge translates into a +2 insight bonus that you can apply at any time to either an attack roll, a damage roll, a defense, or a skill check. You can elect to apply the bonus to the roll after you determine that your unmodified roll is lower than desired.

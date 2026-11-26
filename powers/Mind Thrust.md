@@ -11,7 +11,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "Instantaneous"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "1"
 based-on:
@@ -31,10 +31,10 @@ Telepathy \[Mind-Affecting\]
 **Range:** Close (25 ft. + 5 ft./2 levels)  
 **Target:** One creature  
 **Duration:** Instantaneous  
-**Saving Throw:** Will negates  
+**Defense:** Will  
 **Power Resistance:** Yes  
 **Power Points:** 1
 
 You instantly deliver a massive assault on the thought pathways of any one creature, dealing 1d10 points of damage to it.
 
-**Augment:** For every additional power point you spend, this power’s damage increases by 1d10 points. For each extra 2d10 points of damage, this power’s save DC increases by 1.
+**Augment:** For every additional power point you spend, this power’s damage increases by 1d10 points. For each extra 2d10 points of damage, this power’s attack bonus increases by 1.

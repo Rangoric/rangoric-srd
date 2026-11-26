@@ -37,6 +37,6 @@ Your second mind can manifest powers using your power point reserve, but only as
 
 Your second mind takes its first action on your turn in the round after schism is manifested.
 
-Both your minds communicate with each other telepathically. If you are subject to a compulsion or charm effect while you are of two minds, make a second saving throw if you fail the first. If you fail both, then the schism ends and you are affected normally by the power. If you fail just one, the schism ends immediately, but you are not subject to the compulsion or charm.
+Both your minds communicate with each other telepathically. If you are subject to a compulsion or charm effect while you are of two minds, make the effect attack you a second time if the first attack hits. If you fail both, then the schism ends and you are affected normally by the power. If you fail just one, the schism ends immediately, but you are not subject to the compulsion or charm.
 
 Your second mind does not gain any advantages if you are subject to a [[rangoric-srd/spells/Haste|haste]] effect, although you gain the overall standard benefits.

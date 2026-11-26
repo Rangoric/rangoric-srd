@@ -11,7 +11,7 @@ manifesting-time: "10 minutes"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "Instantaneous"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "17, XP; see text"
 based-on:
@@ -31,13 +31,13 @@ Telepathy \[Mind-Affecting\]
 **Range:** Close (25 ft. + 5 ft./2 levels)  
 **Target:** One creature  
 **Duration:** Instantaneous  
-**Saving Throw:** Will negates  
+**Defense:** Will  
 **Power Resistance:** Yes  
 **Power Points:** 17, XP; see text
 
 You can repair psychic damage or grant another creature knowledge of powers you know, depending on the version of this power you manifest.
 
-Repair Psychic Damage: You can remove any compulsions and charms affecting the subject. In fact, you can remove any instantaneous or permanent effect caused by a psychic power with psychic chirurgery. Unlike with [[rangoric-srd/powers/Aura Alteration (Power)|aura alteration]], these effects end or are negated as soon as this power is manifested, with no need for another saving throw.
+Repair Psychic Damage: You can remove any compulsions and charms affecting the subject. In fact, you can remove any instantaneous or permanent effect caused by a psychic power with psychic chirurgery. Unlike with [[rangoric-srd/powers/Aura Alteration (Power)|aura alteration]], these effects end or are negated as soon as this power is manifested, with no need for another attack against a defense.
 
 You can remove all [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative levels]] affecting the subject, temporary and permanent, regardless of how it gained them.
 

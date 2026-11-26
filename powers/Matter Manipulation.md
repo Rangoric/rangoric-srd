@@ -9,7 +9,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "1 cu. ft./level of inanimate material"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 power-resistance: "Yes"
 power-points: "15, XP"
 based-on:
@@ -29,7 +29,7 @@ Metacreativity
 **Range:** Close (25 ft. + 5 ft./2 levels)  
 **Area:** 1 cu. ft./level of inanimate material  
 **Duration:** Instantaneous  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** Yes  
 **Power Points:** 15, XP
 

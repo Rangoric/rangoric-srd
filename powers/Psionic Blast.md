@@ -11,7 +11,7 @@ manifesting-time: "1 standard action"
 range: "30 ft."
 area: "30-ft. cone-shaped burst"
 duration: "Instantaneous"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "5"
 based-on:
@@ -31,7 +31,7 @@ Telepathy \[Mind-Affecting\]
 **Range:** 30 ft.  
 **Area:** 30-ft. cone-shaped burst  
 **Duration:** Instantaneous  
-**Saving Throw:** Will negates  
+**Defense:** Will  
 **Power Resistance:** Yes  
 **Power Points:** 5
 

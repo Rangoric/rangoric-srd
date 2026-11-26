@@ -9,7 +9,7 @@ manifesting-time: "1 immediate action"
 range: "20 ft."
 area: "20-ft.-radius spread centered on you"
 duration: "1 round"
-saving-throw: "None"
+defense: "None"
 power-resistance: "Yes"
 power-points: "7"
 based-on:
@@ -29,7 +29,7 @@ Psychokinesis
 **Range:** 20 ft.  
 **Area:** 20-ft.-radius spread centered on you  
 **Duration:** 1 round  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** Yes  
 **Power Points:** 7
 

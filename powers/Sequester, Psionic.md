@@ -9,7 +9,7 @@ manifesting-time: "1 standard action"
 range: "Touch"
 target: "One willing creature or one object (up to a 2-ft. cube/level) touched"
 duration: "One day/level (D)"
-saving-throw: "None or Will negates (object)"
+defense: "None or Will (object)"
 power-resistance: "No or Yes (object)"
 power-points: "13, XP"
 based-on:
@@ -29,7 +29,7 @@ Clairsentience
 **Range:** Touch  
 **Target:** One willing creature or one object (up to a 2-ft. cube/level) touched  
 **Duration:** One day/level (D)  
-**Saving Throw:** None or Will negates (object)  
+**Defense:** None or Will (object)  
 **Power Resistance:** No or Yes (object)  
 **Power Points:** 13, XP
 

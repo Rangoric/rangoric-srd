@@ -11,7 +11,7 @@ manifesting-time: "1 standard action"
 range: "Touch"
 target: "Dead creature touched"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 power-resistance: "Yes (harmless)"
 power-points: "9, XP"
 based-on:
@@ -30,7 +30,7 @@ Psychometabolism (Healing) \[Good\]
 **Range:** Touch  
 **Target:** Dead creature touched  
 **Duration:** Instantaneous  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** Yes (harmless)  
 **Power Points:** 9, XP
 

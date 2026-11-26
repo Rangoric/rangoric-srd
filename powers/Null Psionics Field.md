@@ -9,7 +9,7 @@ manifesting-time: "1 standard action"
 range: "10 ft."
 area: "10-ft.-radius emanation centered on you"
 duration: "10 min./level (D)"
-saving-throw: "None"
+defense: "None"
 power-resistance: "See text"
 power-points: "11"
 based-on:
@@ -29,7 +29,7 @@ Psychokinesis
 **Range:** 10 ft.  
 **Area:** 10-ft.-radius emanation centered on you  
 **Duration:** 10 min./level (D)  
-**Saving Throw:** None  
+**Defense:** None  
 **Power Resistance:** See text  
 **Power Points:** 11
 
