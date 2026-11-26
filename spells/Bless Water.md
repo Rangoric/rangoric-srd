@@ -16,7 +16,7 @@ casting-time: "1 minute"
 range: "Touch"
 target: "Flask of water touched"
 duration: "Instantaneous"
-saving-throw: "Will negates (object)"
+defense: "Will (object)"
 spell-resistance: "Yes (object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Bless Water|Bless Water (3.5)]]"
@@ -36,7 +36,7 @@ _Transmutation \[Good\]_
 - **Range**: Touch
 - **Target**: Flask of water touched
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates (object)
+- **Defense**: Will (object)
 - **Spell Resistance**: Yes (object)
 
 This transmutation imbues a flask (1 pint) of water with positive energy, turning it into holy water.

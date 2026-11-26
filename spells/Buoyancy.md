@@ -15,7 +15,7 @@ casting-time: "1 immediate action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "One Medium or smaller object or creature/level, no two of which can be more than 20 ft. apart"
 duration: "Up to 1 round/level (see text)"
-saving-throw: "Will negates (harmless) or Will negates (object)"
+defense: "Will (harmless) or Will (object)"
 spell-resistance: "Yes (object)"
 book: "Advanced Class Guide"
 based-on:
@@ -36,7 +36,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Targets**: One Medium or smaller object or creature/level, no two of which can be more than 20 ft. apart
 - **Duration**: Up to 1 round/level (see text)
-- **Saving Throw**: Will negates (harmless) or Will negates (object)
+- **Defense**: Will (harmless) or Will (object)
 - **Spell Resistance**: Yes (object)
 
 The affected targets become incredibly buoyant, floating naturally on any water at least 1 foot deep. An affected creature that deliberately tries to submerge must succeed at a DC 20 Athletics check every round to stay underwater. If a target spends at least 1 round on dry land, the spell ends for that creature only.

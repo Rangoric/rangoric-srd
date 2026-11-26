@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 minute/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Advanced Class Guide"
 based-on:
@@ -35,7 +35,7 @@ _Transmutation \[Good\]_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 minute/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 The target is considered to be armed even when unarmed, so it doesn't provoke attacks of opportunity when it attacks foes with unarmed strikes. Its unarmed strikes can deal lethal or nonlethal damage (target's choice). If the target already has this ability (such as from the monk unarmed strike ability or the Improved Unarmed Strike feat), its unarmed strikes gain a +1 enhancement bonus on attack rolls and damage rolls, and they count as good-aligned weapons for the purposes of overcoming damage reduction.

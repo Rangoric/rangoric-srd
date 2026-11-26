@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One Medium or smaller object"
 duration: "Instantaneous"
-saving-throw: "Fortitude negates (object)"
+defense: "Fortitude (object)"
 spell-resistance: "Yes (object)"
 book: "Advanced Player's Guide"
 based-on:
@@ -36,7 +36,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One Medium or smaller object
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude negates (object)
+- **Defense**: Fortitude (object)
 - **Spell Resistance**: Yes (object)
 
-You can attempt to break or at least damage any one Medium or smaller object within range. If the target fails its Fortitude saving throw, it gains the [[rangoric-srd/rules/conditions/Broken (Condition)|broken]] condition. If cast on a broken item, that item is destroyed on a failed save.
+You can attempt to break or at least damage any one Medium or smaller object within range. If the spell hits the target’s Fortitude, it gains the [[rangoric-srd/rules/conditions/Broken (Condition)|broken]] condition. If cast on a broken item, that item is destroyed on a hit.

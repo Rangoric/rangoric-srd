@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Your fiendish boon weapon"
 duration: "1 minute/level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -34,7 +34,7 @@ _Transmutation \[Evil\]_
 - **Range**: Touch
 - **Target**: Your fiendish boon weapon
 - **Duration**: 1 minute/level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: No
 
 You strengthen the bond between your fiendish boon weapon and its unholy spirit. The weapon gains the _[[rangoric-srd/magic-items/weapon-abilities/Ghost Touch (Weapon Special Ability)|ghost touch]]_ property. You may change your weapon's damage type (bludgeoning, piercing, slashing) as a swift action. You gain a profane bonus to your CMD against disarm and sunder attacks directed at your boon weapon; this bonus is equal to half your caster level.

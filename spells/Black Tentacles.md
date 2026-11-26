@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 area: "20-ft.-radius spread"
 duration: "1 round/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Black Tentacles|Black Tentacles (3.5)]]"
@@ -41,7 +41,7 @@ _Conjuration (Creation)_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Area**: 20-ft.-radius spread
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell conjures a field of rubbery black tentacles, each 10 feet long. These waving members seem to spring forth from the earth, floor, or whatever surface is underfoot—including water. They grasp and entwine around creatures that enter the area, holding them fast and crushing them with great strength.

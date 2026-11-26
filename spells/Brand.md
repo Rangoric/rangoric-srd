@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 day/level"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -35,7 +35,7 @@ _Transmutation \[Curse\]_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 day/level
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 _Brand_ etches an indelible rune or mark of no more than 6 characters onto a creature, inflicting 1 point of damage. The mark may be placed on any exposed portion of the creature, typically the head or forearm. A _brand_ can be hidden by clothing or removed by scraping it away (causing 1d6 points of damage), though the _brand_ returns if the damage is healed.

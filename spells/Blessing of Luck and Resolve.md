@@ -36,4 +36,4 @@ _Enchantment (Compulsion) \[Mind-affecting\]_
 - **Target**: One living creature touched
 - **Duration**: 1 minute/level (D), special see below
 
-A favored blessing of halfling clerics, this spell grants its target a +2 morale bonus on saving throws against fear effects. If the target has the fearless racial trait, it is immune to fear instead. If the target fails a saving throw against fear, it can end the spell as an immediate action to reroll the save with a +4 morale bonus, and must take the new result, even if it is worse.
+A favored blessing of halfling clerics, this spell grants its target a +2 morale bonus on defenses against fear effects. If the target has the fearless racial trait, it is immune to fear instead. If a fear effect hits the target, it can end the spell as an immediate action to make the effect attack it again, with a +4 morale bonus to its defense, and must take the new result, even if it is worse.

@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "One or more rays of light"
 duration: "Instantaneous (see text)"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Advanced Race Guide"
 based-on:
@@ -38,7 +38,7 @@ _Evocation \[Good, Light\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: One or more rays of light
 - **Duration**: Instantaneous (see text)
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
-You blast your enemies with blinding rays of sunlight. You may fire one ray, plus one additional ray for every four levels beyond 3rd (to a maximum of three rays at 11th level). Each ray requires a ranged touch attack to hit. If a ray hits, it explodes into powerful motes of light, and the target must save or be blinded for 1 round. If the target has light blindness, light sensitivity, or is otherwise vulnerable to bright light, it instead must save or be blinded for 1d4 rounds and take 1d4 points of damage per two caster levels (maximum 5d4). Any creature blinded by a ray sheds light as a sunrod for the duration of its blindness. The rays may be fired at the same or different targets, but all rays must be aimed at targets within 30 feet of each other and fired simultaneously.
+You blast your enemies with blinding rays of sunlight. You may fire one ray, plus one additional ray for every four levels beyond 3rd (to a maximum of three rays at 11th level). Each ray requires a ranged touch attack to hit. If a ray hits, it explodes into powerful motes of light, and it attacks the target’s Fortitude; on a hit the target is blinded for 1 round. If the target has light blindness, light sensitivity, or is otherwise vulnerable to bright light, a hit instead blinds it for 1d4 rounds and deals 1d4 points of damage per two caster levels (maximum 5d4). Any creature blinded by a ray sheds light as a sunrod for the duration of its blindness. The rays may be fired at the same or different targets, but all rays must be aimed at targets within 30 feet of each other and fired simultaneously.

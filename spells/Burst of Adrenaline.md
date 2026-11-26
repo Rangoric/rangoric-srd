@@ -13,7 +13,7 @@ casting-time: "1 immediate action"
 range: "Personal"
 target: "You"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Occult Adventures"
 based-on:
@@ -34,7 +34,7 @@ _Transmutation_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You draw upon your body's inner reserves of strength, leaving you winded. When you are about to make a d20 roll based on Strength, Dexterity, or Constitution, you can cast this spell to gain a +8 enhancement bonus to Strength, Dexterity, or Constitution for that roll, but you are fatigued for 1 round afterward.

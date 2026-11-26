@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "One creature/round"
 duration: "1 round/level"
-saving-throw: "Will partial (see text)"
+defense: "Will partial (see text)"
 spell-resistance: "Yes"
 book: "Spells & Magic"
 based-on:
@@ -33,7 +33,7 @@ _Enchantment \[Fire\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Targets**: One creature/round
 - **Duration**: 1 round/level
-- **Saving Throw**: Will partial (see text)
+- **Defense**: Will partial (see text)
 - **Spell Resistance**: Yes
 
-This spell causes the caster’s eyes to glow dull red and allows the caster to make a single gaze attack, as a standard action. The target of this gaze attack automatically suffers 1 hit point of fire damage per level of the caster and must make a successful Will save or be blinded for 1d4 rounds + 1 round per 3 caster levels. Blindness inflicted by a successful gaze attack can last beyond the duration of this spell.
+This spell causes the caster’s eyes to glow dull red and allows the caster to make a single gaze attack, as a standard action. The target of this gaze attack automatically suffers 1 hit point of fire damage per level of the caster, and the gaze attacks its Will; on a hit it is blinded for 1d4 rounds + 1 round per 3 caster levels. Blindness inflicted by a successful gaze attack can last beyond the duration of this spell.

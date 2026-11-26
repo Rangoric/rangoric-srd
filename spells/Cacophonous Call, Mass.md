@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature/level (all of which must be within 30 feet)"
 duration: "1 round/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -37,7 +37,7 @@ _Enchantment (Compulsion) \[Mind-affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature/level (all of which must be within 30 feet)
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 This spell functions as _[[rangoric-srd/spells/Cacophonous Call|cacophonous call]]_, except that it affects multiple creatures.

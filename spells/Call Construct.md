@@ -16,7 +16,7 @@ casting-time: "10 minutes"
 range: "Touch"
 target: "Construct touched"
 duration: "Permanent until discharged"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -37,7 +37,7 @@ _Conjuration (Teleportation)_
 - **Range**: Touch
 - **Target**: Construct touched
 - **Duration**: Permanent until discharged
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell functions as _[[rangoric-srd/spells/Instant Summons|instant summons]]_, except it can only summon a construct you control. For constructs such as golems that are immune to magic, the value of the specially inscribed sapphire must be at least 5,000 gp. For other constructs, a 1,000 gp sapphire suffices.

@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 targets: "One creature per three levels, no two of which may be more than 30 ft. apart"
 duration: "Concentration + 1 round/level (D)"
-saving-throw: "Fortitude negates (see text)"
+defense: "Fortitude (see text)"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -38,7 +38,7 @@ _Transmutation_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Targets**: One creature per three levels, no two of which may be more than 30 ft. apart
 - **Duration**: Concentration + 1 round/level (D)
-- **Saving Throw**: Fortitude negates (see text)
+- **Defense**: Fortitude (see text)
 - **Spell Resistance**: Yes
 
 The blood of the targeted creatures begins to boil. If a target fails its save, it takes 1 point of fire damage per round. This spell has no effect on creatures that don't have blood.

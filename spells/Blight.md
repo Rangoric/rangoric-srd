@@ -15,7 +15,7 @@ components:
 casting-time: "1 standard action"
 range: "Touch"
 duration: "Instantaneous"
-saving-throw: "Fortitude half; see text"
+defense: "Fortitude half; see text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Blight|Blight (3.5)]]"
@@ -34,9 +34,9 @@ _Necromancy_
 - **Casting Time**: 1 standard action
 - **Range**: Touch
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude half; see text
+- **Defense**: Fortitude half; see text
 - **Spell Resistance**: Yes
 
-This spell withers a single plant of any size. An affected plant creature takes 1d6 points of damage per level (maximum 15d6) and may attempt a Fortitude saving throw for half damage. A plant that isn’t a creature doesn’t receive a save and immediately withers and dies.
+This spell withers a single plant of any size. An affected plant creature takes 1d6 points of damage per level (maximum 15d6); the spell attacks Fortitude, and a miss halves the damage. The spell hits a plant that isn’t a creature automatically, and it immediately withers and dies.
 
 This spell has no effect on the soil or surrounding plant life.

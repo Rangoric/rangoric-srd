@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Living creature touched"
 duration: "Instantaneous and 1 minute/level (see text)"
-saving-throw: "Fortitude negates or Reflex half (see text)"
+defense: "Fortitude or Reflex half (see text)"
 spell-resistance: "Yes"
 book: "Advanced Class Guide"
 based-on:
@@ -37,7 +37,7 @@ _Necromancy \[Acid, Death\]_
 - **Range**: Touch
 - **Target**: Living creature touched
 - **Duration**: Instantaneous and 1 minute/level (see text)
-- **Saving Throw**: Fortitude negates or Reflex half (see text)
+- **Defense**: Fortitude or Reflex half (see text)
 - **Spell Resistance**: Yes
 
-The target creature dies if it fails a Fortitude saving throw and its Hit Dice are no more than half your caster level. If it dies, its corpse rapidly putrefies. The next creature to touch the corpse within 1 minute per level of the target's death causes the corpse to explode in a 10-foot-radius burst, dealing 3d6 points of acid damage (Reflex half).
+The target creature dies if the spell hits its Fortitude and its Hit Dice are no more than half your caster level. If it dies, its corpse rapidly putrefies. The next creature to touch the corpse within 1 minute per level of the target's death causes the corpse to explode in a 10-foot-radius burst, dealing 3d6 points of acid damage (vs Reflex; a miss halves).
