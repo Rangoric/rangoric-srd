@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-26 | Saving throws as defenses, spells (DF 50): Stray From Path to Telekinetic Storm attack a defense instead of allowing a save; new saves make the spell attack again. | [[DF Batch 50 Changes]] | | [[Saving Throws as Defenses]] DF 50 |
 | 2026-11-26 | Saving throws as defenses, spells (DF 49): Sirocco to Strangling Hair and the Sorcerer and Wizard spell list attack a defense instead of allowing a save; new saves make the spell attack again. | [[DF Batch 49 Changes]] | | [[Saving Throws as Defenses]] DF 49 |
 | 2026-11-26 | Saving throws as defenses, spells (DF 48): Scripted Hallucination to Sinister Web attack a defense instead of allowing a save; new saves make the spell attack again. | [[DF Batch 48 Changes]] | | [[Saving Throws as Defenses]] DF 48 |
 | 2026-11-26 | Saving throws as defenses, spells (DF 47): Reincarnate Spy to Screen and Schools of Magic attack a defense instead of allowing a save; new saves make the spell attack again. | [[DF Batch 47 Changes]] | | [[Saving Throws as Defenses]] DF 47 |
