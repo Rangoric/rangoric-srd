@@ -16,7 +16,7 @@ casting-time: "10 minutes"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One siege engine of any size"
 duration: "10 minute/level"
-saving-throw: "Fortitude negates (harmless, object)"
+defense: "Fortitude (harmless, object)"
 spell-resistance: "Yes (harmless/object)"
 book: "Ultimate Combat"
 based-on:
@@ -37,7 +37,7 @@ _Transmutation \[Variable\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One [[rangoric-srd/rules/Siege Engines|siege engine]] of any size
 - **Duration**: 10 minute/level
-- **Saving Throw**: Fortitude negates (harmless, object)
+- **Defense**: Fortitude (harmless, object)
 - **Spell Resistance**: Yes (harmless/object)
 
 This spell functions like energy shot, except it can target siege engines of any size, not just Large siege engines.

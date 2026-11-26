@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 minute/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Occult Adventures"
 based-on:
@@ -32,7 +32,7 @@ _Transmutation_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 minute/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 Your hands reach simultaneously into the Ethereal and Material planes, allowing you to deal normal damage with claws, unarmed strikes, and touch spells or effects to ethereal creatures. Miss chance due to etherealness (such as from the _[[rangoric-srd/spells/Blink|blink]]_ spell) doesn't apply, though miss chance based on concealment does.

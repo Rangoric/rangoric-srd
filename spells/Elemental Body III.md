@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 min./level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[path srd 3.5/spells/Elemental Body III|Elemental Body III (PF1)]]"
@@ -36,7 +36,7 @@ _Transmutation (Polymorph)_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 min./level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell functions as [[rangoric-srd/spells/Elemental Body II|elemental body II]], except that it also allows you to assume the form of a Large air, earth, fire, or water elemental. The abilities you gain depend upon the type of elemental into which you change. You are also immune to critical hits and sneak attacks while in elemental form.

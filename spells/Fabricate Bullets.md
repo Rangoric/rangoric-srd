@@ -12,7 +12,7 @@ casting-time: "1 round"
 range: "Touch"
 target: "1 pound of soft metal"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Combat"
 based-on:
@@ -33,7 +33,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: 1 pound of soft metal
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You convert 1 pound of lead into bullets. When you cast this spell, you decide whether you create normal sling bullets, [[rangoric-srd/equipment/weapons/Firearm Bullet|firearm bullets]], or firearm [[rangoric-srd/equipment/weapons/Pellets|pellets]]. The spell creates two sling bullets, 30 firearm bullets, or 10 uses of pellets.

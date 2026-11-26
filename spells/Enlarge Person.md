@@ -22,7 +22,7 @@ casting-time: "1 round"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One humanoid creature"
 duration: "1 min./level (D)"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Enlarge Person|Enlarge Person (3.5)]]"
@@ -42,7 +42,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One humanoid creature
 - **Duration**: 1 min./level (D)
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 This spell causes instant growth of a humanoid creature, doubling its height and multiplying its weight by 8. This increase changes the creature’s size category to the next larger one. The target gains a +2 size bonus to Strength, a –2 size penalty to Dexterity (to a minimum of 1), and a –1 penalty on attack rolls and AC due to its increased size.

@@ -10,7 +10,7 @@ components:
   - "V"
   - "S"
 casting-time: "No action"
-saving-throw: "Reflex negates"
+defense: "Reflex"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -28,9 +28,9 @@ _Evocation_
 - **Level**: Mag 6, Psy 5, Sor/Wiz 6
 - **Components**: V, S
 - **Casting Time**: No action
-- **Saving Throw**: Reflex negates
+- **Defense**: Reflex
 - **Spell Resistance**: Yes
 
-You cause incredible pressure to build in the target's head; this spell works only on a creature that has a head and would die from the loss of a head. The spell kills any such target that has 20 hit points or fewer, exploding its head and spreading debris in a 10-foot radius. Each creature in the area must succeed at a Reflex saving throw or take 2d6 points of slashing damage from the flying debris.
+You cause incredible pressure to build in the target's head; this spell works only on a creature that has a head and would die from the loss of a head. The spell kills any such target that has 20 hit points or fewer, exploding its head and spreading debris in a 10-foot radius. Each creature in the area is attacked against Reflex, and on a hit takes 2d6 points of slashing damage from the flying debris.
 
-A target with more than 20 hit points takes 1d6 points of damage per caster level (maximum 20d6), but can attempt a Fortitude save to take only half damage. If this damage would cause the target to become disabled or dying, the target dies and its head explodes as described above.
+A target with more than 20 hit points takes 1d6 points of damage per caster level (maximum 20d6), but the spell attacks its Fortitude, and a miss halves the damage. If this damage would cause the target to become disabled or dying, the target dies and its head explodes as described above.

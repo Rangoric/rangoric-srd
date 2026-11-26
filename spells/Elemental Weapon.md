@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "1 weapon"
 duration: "1 round/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Spells & Magic"
 based-on:
@@ -35,7 +35,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: 1 weapon
 - **Duration**: 1 round/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 Casting this spell sheaths one weapon in an elemental energy of the caster’s choice. For the duration of the spell, the enchanted weapon deals an additional 1d6 damage of the elemental type chosen on a successful hit. The elemental energy imbued does not harm the caster, but it may affect surrounding objects (for example, a flaming sword could be used to ignite a pool of oil).

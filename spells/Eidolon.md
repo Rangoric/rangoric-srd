@@ -14,7 +14,7 @@ casting-time: "1 minute"
 range: "5 ft."
 effect: "One duplicate of caster"
 duration: "8 hours"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 to-develop: "711,000 gp; 15 days; 28,440 XP. Seed: conjure (to make base substance) (DC 21), transform (DC 21), transport (to move part of caster’s soul into duplicate) (DC 27). Factors: nonliving substance to humanoid (+10 DC), transform into specific individual (+25 DC). Mitigating factor: burn 2,500 XP (-25 DC)."
 based-on:
@@ -34,7 +34,7 @@ Casting Time: 1 minute
 Range: 5 ft.  
 Effect: One duplicate of caster  
 Duration: 8 hours  
-Saving Throw: None  
+Defense: None  
 Spell Resistance: No  
 To Develop: 711,000 gp; 15 days; 28,440 XP. Seed: conjure (to make base substance) (DC 21), transform (DC 21), transport (to move part of caster’s soul into duplicate) (DC 27). Factors: nonliving substance to humanoid (+10 DC), transform into specific individual (+25 DC). Mitigating factor: burn 2,500 XP (-25 DC).
 

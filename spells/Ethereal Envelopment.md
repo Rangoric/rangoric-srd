@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 hour/level (D)"
-saving-throw: "Will negates, see text"
+defense: "Will, see text"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -34,9 +34,9 @@ _Conjuration (Teleportation)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: 1 hour/level (D)
-- **Saving Throw**: Will negates, see text
+- **Defense**: Will, see text
 - **Spell Resistance**: Yes
 
-This spell is similar to _[[rangoric-srd/spells/Ethereal Envelope|ethereal envelope]]_, but it allows you to shunt an unwilling creature to the Ethereal Plane and seal it there within a cocoon of misty ethereal fibers. If the target fails its save, it's forced into a cataleptic meditative state as if unconscious. However, each round at the end of its turn, it can attempt a Will save to awaken itself from this meditation. Once the target awakens, it is considered [[rangoric-srd/rules/conditions/Pinned (Condition)|pinned]], treating your caster level as your CMB and your CMD as 10 + your caster level + your ability modifier for your primary spellcasting ability score. A successful grapple combat maneuver check or [[rangoric-srd/skills/Escape Artist|Escape Artist]] check leaves the creature grappled rather than pinned but doesn't allow it to escape. However, a trapped creature can attack the cocoon as described in the _[[rangoric-srd/spells/Ethereal Envelope|ethereal envelope]]_ spell description.
+This spell is similar to _[[rangoric-srd/spells/Ethereal Envelope|ethereal envelope]]_, but it allows you to shunt an unwilling creature to the Ethereal Plane and seal it there within a cocoon of misty ethereal fibers. If the target fails its save, it's forced into a cataleptic meditative state as if unconscious. However, each round at the end of its turn, it can make the spell attack its Will again, and on a miss it awakens itself from this meditation. Once the target awakens, it is considered [[rangoric-srd/rules/conditions/Pinned (Condition)|pinned]], treating your caster level as your CMB and your CMD as 10 + your caster level + your ability modifier for your primary spellcasting ability score. A successful grapple combat maneuver check or [[rangoric-srd/skills/Escape Artist|Escape Artist]] check leaves the creature grappled rather than pinned but doesn't allow it to escape. However, a trapped creature can attack the cocoon as described in the _[[rangoric-srd/spells/Ethereal Envelope|ethereal envelope]]_ spell description.
 
 If the creature breaks free of the _ethereal envelopment_ or you dismiss the spell, the target is returned to its prior location on the Material Plane, as described for _[[rangoric-srd/spells/Ethereal Envelope|ethereal envelope]]_, but if the target is conscious at the time, it doesn't spend a round asleep or staggered.

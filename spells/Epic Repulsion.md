@@ -10,7 +10,7 @@ casting-time: "10 minutes"
 range: "Touch"
 target: "Object or creature touched"
 duration: "Permanent"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 to-develop: "468,000 gp; 10 days; 18,720 XP. Seed: ward (DC 14). Factor: permanent 5 DC). Mitigating factor: increase casting time by 9 minutes (-18 DC)."
 based-on:
@@ -30,7 +30,7 @@ Casting Time: 10 minutes
 Range: Touch  
 Target: Object or creature touched  
 Duration: Permanent  
-Saving Throw: None  
+Defense: None  
 Spell Resistance: Yes  
 To Develop: 468,000 gp; 10 days; 18,720 XP. Seed: ward (DC 14). Factor: permanent 5 DC). Mitigating factor: increase casting time by 9 minutes (-18 DC).
 

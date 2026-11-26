@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "Fog spreads in 20-ft. radius, 20 ft. high"
 duration: "1 round/level"
-saving-throw: "Fortitude negates (see text)"
+defense: "Fortitude (see text)"
 spell-resistance: "No"
 book: "Advanced Class Guide"
 based-on:
@@ -42,7 +42,7 @@ _Conjuration (Creation) \[Poison\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: Fog spreads in 20-ft. radius, 20 ft. high
 - **Duration**: 1 round/level
-- **Saving Throw**: Fortitude negates (see text)
+- **Defense**: Fortitude (see text)
 - **Spell Resistance**: No
 
-You create a bank of fog similar to that created by _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_ except its vapors are intoxicating. Living creatures in the cloud become fascinated. This condition lasts as long as a creature is in the cloud and for 1d4+1 rounds after it leaves. Any creature that succeeds at its save but remains in the cloud must continue to save each round on your turn.
+You create a bank of fog similar to that created by _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_ except its vapors are intoxicating. Living creatures in the cloud become fascinated. This condition lasts as long as a creature is in the cloud and for 1d4+1 rounds after it leaves. The cloud attacks the Fortitude of any creature it missed that remains in it again each round on your turn.

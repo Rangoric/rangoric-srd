@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "Caster"
 duration: "1 round/ 2 levels"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Spells & Magic"
 based-on:
@@ -34,7 +34,7 @@ _Abjuration_
 - **Range**: Personal
 - **Target**: Caster
 - **Duration**: 1 round/ 2 levels
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell converts every successful attack a ranger makes against one of his chosen enemies into a critical hit. If the attack is made with a ranged weapon, the weapon’s critical modifier is increased by 1 (x2 becomes x3, x3 becomes x4, etc.)
