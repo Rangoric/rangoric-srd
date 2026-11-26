@@ -15,7 +15,7 @@ full-attack: "Dagger +7 melee (1d2/19–20)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Poison, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, fast healing 2, telepathy by touch only, change shape (2 of the following forms: cat, goat, rabbit [use stats for raccoon], or raven; polymorph), damage reduction 5/cold iron or silver, spell resistance 13"
-saves: "Fort +2, Ref +7, Will +5"
+defenses: "Fort 12, Ref 17, Will 15"
 abilities: "Str 10, Dex 16, Con 13, Int 11, Wis 12, Cha 13"
 skills: "Acrobatics +18, Deception +8, Emulation +6, Perception +8, Persuasion +8, Sense Motive +6, Stealth +18"
 skill-ranks: "Acrobatics 8, Deception 4, Emulation 2, Perception 4, Persuasion 4, Sense Motive 2, Stealth 4"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] by touch only, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (2 of the following forms: cat, goat, rabbit \[use stats for raccoon\], or raven; polymorph), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron or silver, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 13
-- **Saves**: Fort +2, Ref +7, Will +5
+- **Defenses**: Fort 12, Ref 17, Will 15
 - **Abilities**: Str 10, Dex 16, Con 13, Int 11, Wis 12, Cha 13
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Emulation|Emulation]] +6, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +18
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -77,6 +77,6 @@ A non-lawful spellcaster of at least 7th level who takes the Improved Familiar f
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +7): At will—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 3/day—_[[rangoric-srd/spells/Minor Image|minor image]]_ (DC 13),_[[rangoric-srd/spells/Sleep|sleep]]_ (DC 12); 1/day—_[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 13).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +7): At will—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 3/day—_[[rangoric-srd/spells/Minor Image|minor image]]_ (+3 vs Will),_[[rangoric-srd/spells/Sleep|sleep]]_ (+2 vs Will); 1/day—_[[rangoric-srd/spells/Suggestion|suggestion]]_ (+3 vs Will).
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Su)**: As a standard action, a pooka can blow across her palm and create a 5-foot-diameter cloud of intoxicating dust. The pooka decides when she uses this ability whether the dust acts as an inhaled poison or a mild intoxicant (equivalent to 1-2 glasses of beer). [[rangoric-srd/rules/afflictions/Pooka Dust|Pooka Dust]]: inhaled; _save_ Fort DC 13; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Wis and 1d2 Cha damage (or intoxication); _cure_ 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Su)**: As a standard action, a pooka can blow across her palm and create a 5-foot-diameter cloud of intoxicating dust. The pooka decides when she uses this ability whether the dust acts as an inhaled poison or a mild intoxicant (equivalent to 1-2 glasses of beer). [[rangoric-srd/rules/afflictions/Pooka Dust|Pooka Dust]]: inhaled; _attack_ +3 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Wis and 1d2 Cha damage (or intoxication); _cure_ 2 consecutive misses.

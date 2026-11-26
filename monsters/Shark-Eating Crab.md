@@ -16,7 +16,7 @@ full-attack: "2 claws +13 melee (1d8+9 plus grab)"
 space-reach: "15 ft./15 ft."
 special-attacks: "Constrict (1d8+9), darting claw"
 special-qualities: "Darkvision 60 ft., water dependency, immunity to mind-affecting effects"
-saves: "Fort +12, Ref +4, Will +3"
+defenses: "Fort 22, Ref 14, Will 13"
 abilities: "Str 29, Dex 14, Con 22, Int —, Wis 12, Cha 2"
 skills: "Athletics +17, Perception +5"
 skill-ranks: "Athletics 5, Perception 0"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d8+9), [[rangoric-srd/monsters/abilities/Darting Claw|darting claw]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Water Dependency|water dependency]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +12, Ref +4, Will +3
+- **Defenses**: Fort 22, Ref 14, Will 13
 - **Abilities**: Str 29, Dex 14, Con 22, Int —, Wis 12, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Perception|Perception]] +5
 - **Feats**: —

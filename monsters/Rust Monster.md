@@ -15,7 +15,7 @@ full-attack: "Bite +6 melee (1d3) and antennae +6 melee touch (rust)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., scent metals 90 ft."
-saves: "Fort +2, Ref +4, Will +5"
+defenses: "Fort 12, Ref 14, Will 15"
 abilities: "Str 10, Dex 17, Con 13, Int 2, Wis 13, Cha 8"
 skills: "Athletics +8, Perception +12"
 skill-ranks: "Athletics 5, Perception 8"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]] metals 90 ft.
-- **Saves**: Fort +2, Ref +4, Will +5
+- **Defenses**: Fort 12, Ref 14, Will 15
 - **Abilities**: Str 10, Dex 17, Con 13, Int 2, Wis 13, Cha 8
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +12
 - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (rust), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -76,6 +76,6 @@ A rust monster can scent a metal object from up to 90 feet away. When it detects
 
 The creature targets the largest metal object available, striking first at armor, then at shields and smaller items. It prefers ferrous metals (steel or iron) over precious metals (such as gold or silver) but will devour the latter if given the opportunity.
 
-**Rust (Su)**: A rust monster's antennae are a primary touch attack that causes any metal object they touch to swiftly rust and corrode. The object touched takes half its maximum hp in damage and gains the broken condition—a second hit destroys the item. A rust monster never provokes attacks of opportunity by attempting to strike a weapon with its antennae. Against creatures made of metal, a rust monster's antennae deal 3d6+5 points of damage. An attended object, any magic object, or a metal creature can attempt a DC 15 Reflex save to negate this effect. The save DC is Constitution-based.
+**Rust (Su)**: A rust monster's antennae are a primary touch attack that causes any metal object they touch to swiftly rust and corrode. The object touched takes half its maximum hp in damage and gains the broken condition—a second hit destroys the item. A rust monster never provokes attacks of opportunity by attempting to strike a weapon with its antennae. Against creatures made of metal, a rust monster's antennae deal 3d6+5 points of damage. The rust attacks an attended object, any magic object, or a metal creature at +5 vs Reflex, and a miss negates this effect. The attack bonus is Constitution-based.
 
 **Scent Metals (Ex)**: This ability functions much the same as the scent ability, except that the range is 90 feet and the rust monster can only use it to sense metal objects (including creatures wearing or carrying metal objects).

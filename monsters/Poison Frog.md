@@ -15,7 +15,7 @@ full-attack: "Bite +3 melee (1 plus poison)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Poison"
 special-qualities: "Low-light vision"
-saves: "Fort +2, Ref +3, Will –1"
+defenses: "Fort 12, Ref 13, Will 9"
 abilities: "Str 2, Dex 12, Con 11, Int 1, Wis 9, Cha 10"
 skills: "Acrobatics +5, Athletics –4 (–8 jumping), Perception +3, Stealth +13"
 skill-ranks: "Acrobatics 0, Athletics 0, Perception 1, Stealth 0"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-- **Saves**: Fort +2, Ref +3, Will –1
+- **Defenses**: Fort 12, Ref 13, Will 9
 - **Abilities**: Str 2, Dex 12, Con 11, Int 1, Wis 9, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] –4 (–8 jumping), [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -67,4 +67,4 @@ You can make a larger poison frog either by applying the [[rangoric-srd/monsters
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Frog Poison|Frog Poison]]: injury; _save_ Fort DC 10; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage; _cure_ 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Frog Poison|Frog Poison]]: injury; _attack_ +0 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage; _cure_ 1 miss.

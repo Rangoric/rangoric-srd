@@ -15,7 +15,7 @@ full-attack: "Tail slap +2 melee (1d3)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, quills"
-saves: "Fort +3, Ref +5, Will –1"
+defenses: "Fort 13, Ref 15, Will 9"
 abilities: "Str 11, Dex 12, Con 12, Int 2, Wis 9, Cha 5"
 skills: "Athletics +5, Stealth +9 (+13 in grass)"
 skill-ranks: "Athletics 2, Stealth 0"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Quills|quills]]
-- **Saves**: Fort +3, Ref +5, Will –1
+- **Defenses**: Fort 13, Ref 15, Will 9
 - **Abilities**: Str 11, Dex 12, Con 12, Int 2, Wis 9, Cha 5
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +9 (+13 in grass)
 - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]

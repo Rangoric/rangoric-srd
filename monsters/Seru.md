@@ -15,7 +15,7 @@ full-attack: "Bite +6 melee (1d4–2 plus poison); or spit venom +6 ranged touch
 space-reach: "5 ft./5 ft."
 special-attacks: "Poison, spit venom"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, telepathy 60 ft."
-saves: "Fort +5, Ref +5, Will +2"
+defenses: "Fort 15, Ref 15, Will 12"
 abilities: "Str 6, Dex 15, Con 14, Int 11, Wis 13, Cha 10"
 skills: "Acrobatics +4, Deception +7, Perception +10, Stealth +10 (+14 in rocky areas)"
 skill-ranks: "Acrobatics 0, Deception 3, Perception 2, Stealth 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Spit Venom|spit venom]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 60 ft.
-- **Saves**: Fort +5, Ref +5, Will +2
+- **Defenses**: Fort 15, Ref 15, Will 12
 - **Abilities**: Str 6, Dex 15, Con 14, Int 11, Wis 13, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +10 (+14 in rocky areas)
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -73,6 +73,6 @@ Serus understand Aklo and Common but can't speak.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite or spit venom—injury; _save_ Fort DC 15; _frequency_ 1/minute for 6 minutes; _effect_ 1 Con damage plus blindness for 1 minute; _cure_ 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite or spit venom—injury; _attack_ +5 vs Fortitude; _frequency_ 1/minute for 6 minutes; _effect_ 1 Con damage plus blindness for 1 minute; _cure_ 1 miss.
 
 **[[rangoric-srd/monsters/abilities/Spit Venom|Spit Venom]] (Ex)**: As a standard action, a seru can spit venom up to 30 feet. This is a ranged touch attack with no range increment. Any opponent hit by this attack is exposed to the seru's poison.

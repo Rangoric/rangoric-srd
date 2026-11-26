@@ -15,7 +15,7 @@ full-attack: "Bite +3 melee (1d3–2 plus bleed 1)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Sneak attack +1d6, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect magic, low-light vision, evasion, scroll use, immunity to disease and poison"
-saves: "Fort +4, Ref +5, Will +1"
+defenses: "Fort 14, Ref 15, Will 11"
 abilities: "Str 6, Dex 15, Con 13, Int 12, Wis 10, Cha 13"
 skills: "Athletics +6, Perception +6, Stealth +16, Theology +4"
 skill-ranks: "Athletics 5, Perception 3, Stealth 3, Theology 3"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: Sneak attack +1d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], evasion, [[rangoric-srd/monsters/abilities/Scroll Use|scroll use]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and poison
-- **Saves**: Fort +4, Ref +5, Will +1
+- **Defenses**: Fort 14, Ref 15, Will 11
 - **Abilities**: Str 6, Dex 15, Con 13, Int 12, Wis 10, Cha 13
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +16, [[rangoric-srd/skills/Theology|Theology]] +4
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]]
@@ -77,6 +77,6 @@ Ratlings speak Aklo.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +7): Constant—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_, _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_ (rodents only), _[[rangoric-srd/spells/Spider Climb|spider climb]]_, _[[rangoric-srd/spells/Tongues|tongues]]_; 3/day—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (DC 12), _[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 1/day—_[[rangoric-srd/spells/Summon Swarm|summon swarm]]_ (rat swarm only); 1/week—_[[rangoric-srd/spells/Commune|commune]]_ (only when serving as a familiar; 6 questions, CL 12th).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +7): Constant—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_, _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_ (rodents only), _[[rangoric-srd/spells/Spider Climb|spider climb]]_, _[[rangoric-srd/spells/Tongues|tongues]]_; 3/day—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (+2 vs Will), _[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 1/day—_[[rangoric-srd/spells/Summon Swarm|summon swarm]]_ (rat swarm only); 1/week—_[[rangoric-srd/spells/Commune|commune]]_ (only when serving as a familiar; 6 questions, CL 12th).
 
 **[[rangoric-srd/monsters/abilities/Scroll Use|Scroll Use]] (Ex)**: A ratling can cast spells from any magic scroll as if it had the spell on its spell list.

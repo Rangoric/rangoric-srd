@@ -16,7 +16,7 @@ full-attack: "Bite +8 melee (1d6+2 plus grab) and 4 claws +9 melee (1d4+2)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Blood drain (1d2 Constitution), paralyzing gaze"
 special-qualities: "Darkvision 60 ft., immunity to fire, vulnerability to cold"
-saves: "Fort +8, Ref +6, Will +3"
+defenses: "Fort 18, Ref 16, Will 13"
 abilities: "Str 14, Dex 12, Con 17, Int 3, Wis 13, Cha 12"
 skills: "Acrobatics +5, Perception +10, Stealth +10"
 skill-ranks: "Acrobatics 1, Perception 6, Stealth 6"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d2 Constitution), paralyzing [[rangoric-srd/monsters/abilities/Gaze|gaze]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, vulnerability to cold
-- **Saves**: Fort +8, Ref +6, Will +3
+- **Defenses**: Fort 18, Ref 16, Will 13
 - **Abilities**: Str 14, Dex 12, Con 17, Int 3, Wis 13, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
@@ -75,6 +75,6 @@ Rasts understand Ignan but can't speak.
 
 Rasts paralyze as many of their foes as possible, then attack any that are still moving.
 
-**Paralyzing Gaze (Su)**: Paralyzed for 1d6 rounds, 30 feet, Fortitude (DC 14) negates. The save DC is Charisma-based.
+**Paralyzing Gaze (Su)**: Paralyzed for 1d6 rounds, 30 feet, +4 vs Fortitude. The attack bonus is Charisma-based.
 
 **Flight (Su)**: A rast can cease or resume flight as a free action. A rast that loses this ability falls and can perform only a single action (either a move action or an attack action) each round.

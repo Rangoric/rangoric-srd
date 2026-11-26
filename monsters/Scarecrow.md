@@ -15,7 +15,7 @@ full-attack: "2 slams +8 melee (1d8+3 plus fear)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Fascinating gaze"
 special-qualities: "Darkvision 60 ft., low-light vision, freeze, immunity to cold, construct traits, vulnerability to fire"
-saves: "Fort +1, Ref +1, Will +1"
+defenses: "Fort 11, Ref 11, Will 11"
 abilities: "Str 16, Dex 10, Con —, Int —, Wis 11, Cha 14"
 skills: "—"
 skill-ranks: ""
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Fascinating Gaze|Fascinating gaze]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Freeze|freeze]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], vulnerability to fire
-- **Saves**: Fort +1, Ref +1, Will +1
+- **Defenses**: Fort 11, Ref 11, Will 11
 - **Abilities**: Str 16, Dex 10, Con —, Int —, Wis 11, Cha 14
 - **Skills**: —
 - **Feats**: —
@@ -69,9 +69,9 @@ In combat, a scarecrow uses its fascinating gaze, then chooses the largest foe t
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Fascinating Gaze|Fascinating Gaze]] (Su)**: Target is [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinated]], 30 feet, Will DC 14 negates. Fascination lasts as long as the scarecrow remains within 300 feet of the fascinated creature. The approach or animation of the scarecrow does not count as an obvious threat to the victim of this particular fascination effect (although the scarecrow's attack does count as an obvious threat and ends the fascination immediately). This is a mind-affecting effect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Fascinating Gaze|Fascinating Gaze]] (Su)**: Target is [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinated]], 30 feet, +4 vs Will. Fascination lasts as long as the scarecrow remains within 300 feet of the fascinated creature. The approach or animation of the scarecrow does not count as an obvious threat to the victim of this particular fascination effect (although the scarecrow's attack does count as an obvious threat and ends the fascination immediately). This is a mind-affecting effect. The attack bonus is Charisma-based.
 
-**[[rangoric-srd/monsters/abilities/Fear|Fear]] (Su)**: A scarecrow's touch infuses its target with overwhelming waves of fear. If the victim fails a DC 14 Will save, she cowers and can take no actions other than attempting a new DC 14 Will save at the end of the following round (and each round thereafter) to end this fear. A successful first save leaves the victim [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round. This is a mind-affecting fear effect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Fear|Fear]] (Su)**: A scarecrow's touch infuses its target with overwhelming waves of fear. The touch attacks the victim at +4 vs Will; on a hit she cowers and can take no actions, and at the end of the following round (and each round thereafter) it attacks again, a miss ending this fear. A first miss leaves the victim [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round. This is a mind-affecting fear effect. The attack bonus is Charisma-based.
 
 ### Construction
 

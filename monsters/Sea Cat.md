@@ -15,7 +15,7 @@ full-attack: "Bite +8 melee (1d8+3) and 2 claws +9 melee (1d4+3)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Rend (2 claws, 1d4+4)"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, hold breath"
-saves: "Fort +7, Ref +6, Will +5"
+defenses: "Fort 17, Ref 16, Will 15"
 abilities: "Str 19, Dex 12, Con 15, Int 2, Wis 13, Cha 10"
 skills: "Athletics +17, Perception +10"
 skill-ranks: "Athletics 10, Perception 6"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d4+4)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]]
-- **Saves**: Fort +7, Ref +6, Will +5
+- **Defenses**: Fort 17, Ref 16, Will 15
 - **Abilities**: Str 19, Dex 12, Con 15, Int 2, Wis 13, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Perception|Perception]] +10
 - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)

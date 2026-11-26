@@ -15,7 +15,7 @@ full-attack: "Bite +23 melee (3d8+15/19–20 plus poison)"
 space-reach: "15 ft./15 ft."
 special-attacks: "Poison"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, acid blood, liquefaction, immunity to acid and poison"
-saves: "Fort +14, Ref +11, Will +6"
+defenses: "Fort 24, Ref 21, Will 16"
 abilities: "Str 30, Dex 14, Con 21, Int 2, Wis 11, Cha 11"
 skills: "Perception +17, Stealth +11"
 skill-ranks: "Perception 10, Stealth 10"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Acid Blood|acid blood]], [[rangoric-srd/monsters/abilities/Liquefaction|liquefaction]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid and poison
-- **Saves**: Fort +14, Ref +11, Will +6
+- **Defenses**: Fort 24, Ref 21, Will 16
 - **Abilities**: Str 30, Dex 14, Con 21, Int 2, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
@@ -67,8 +67,8 @@ An adult seps is 30 feet long and weighs 1,500 pounds.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Acid Blood|Acid Blood]] (Ex)**: A metal, wooden, or natural weapon that deals piercing or slashing damage to a seps takes 4d6 points of acid damage unless the weapon's wielder succeeds at a DC 22 Reflex save at the listed DC. The DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Acid Blood|Acid Blood]] (Ex)**: A metal, wooden, or natural weapon that deals piercing or slashing damage to a seps takes 4d6 points of acid damage if the acid hits the weapon's wielder at +12 vs Reflex. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Liquefaction|Liquefaction]] (Su)**: Any creature killed by seps poison dissolves into an acidic liquid that deals 2d6 points of acid damage per round to anything in its square (including the dead creature's equipment).
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _save_ Fort DC 22; _frequency_ 1/round for 10 rounds; _effect_ 1d8 acid damage and 1d4 Con drain; _cure_ 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _attack_ +12 vs Fortitude; _frequency_ 1/round for 10 rounds; _effect_ 1d8 acid damage and 1d4 Con drain; _cure_ 2 consecutive misses.

@@ -16,7 +16,7 @@ full-attack: "Bite +11/+6 melee (2d6+9)"
 space-reach: "10 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Blindsense 30 ft., low-light vision, scent, devotion, evasion, link"
-saves: "Fort +10, Ref +10, Will +6"
+defenses: "Fort 20, Ref 20, Will 16"
 abilities: "Str 22, Dex 14, Con 19, Int 3, Wis 12, Cha 2"
 skills: "Athletics +18, Perception +12"
 skill-ranks: "Athletics 9, Perception 8"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/class-options/companion-features/Devotion (Companion Feature)|devotion]], [[rangoric-srd/class-options/companion-features/Evasion (Companion Feature)|evasion]], [[rangoric-srd/class-options/companion-features/Link (Companion Feature)|link]]
-- **Saves**: Fort +10, Ref +10, Will +6
+- **Defenses**: Fort 20, Ref 20, Will 16
 - **Abilities**: Str 22, Dex 14, Con 19, Int 3, Wis 12, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Perception|Perception]] +12
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]] (bite), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Toughness|Toughness]]

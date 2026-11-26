@@ -15,7 +15,7 @@ full-attack: "Bite +25 melee (4d8+12/19–20 plus grab) and sting +25 melee (2d8
 space-reach: "20 ft./15 ft."
 special-attacks: "Swallow whole (4d8+18 bludgeoning damage, AC 21, 20 hp), poison"
 special-qualities: "Darkvision 60 ft., tremorsense 60 ft"
-saves: "Fort +17, Ref +8, Will +4"
+defenses: "Fort 27, Ref 18, Will 14"
 abilities: "Str 35, Dex 6, Con 25, Int 1, Wis 8, Cha 8"
 skills: "Athletics +20, Perception +18"
 skill-ranks: "Athletics 5, Perception 16"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 20 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Swallow Whole|Swallow whole]] (4d8+18 bludgeoning damage, AC 21, 20 hp), [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft
-- **Saves**: Fort +17, Ref +8, Will +4
+- **Defenses**: Fort 27, Ref 18, Will 14
 - **Abilities**: Str 35, Dex 6, Con 25, Int 1, Wis 8, Cha 8
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Perception|Perception]] +18
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite, sting)
@@ -76,4 +76,4 @@ The body of a mature purple worm is 5 feet in diameter and 80 feet long, weighin
 
 In battle, a purple worm forms into a coil 20 feet in diameter, biting and stinging anything within reach.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Purple Worm Poison|Purple Worm Poison]]: Sting—injury; _save_ Fort DC 25; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Str damage; _cure_ 3 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Purple Worm Poison|Purple Worm Poison]]: Sting—injury; _attack_ +15 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Str damage; _cure_ 3 consecutive misses. The attack bonus is Constitution-based.

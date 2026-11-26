@@ -16,7 +16,7 @@ full-attack: "Bite +19 melee (1d8+6 plus grab) and 4 claws +19 melee (2d6+6/19�
 space-reach: "15 ft./15 ft."
 special-attacks: "Eye rays (+16 ranged touch), spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, fast healing 5, construct traits, relentless"
-saves: "Fort +7, Ref +10, Will +5"
+defenses: "Fort 17, Ref 20, Will 15"
 abilities: "Str 22, Dex 16, Con —, Int 3, Wis 11, Cha 1"
 skills: "Perception +15"
 skill-ranks: "Perception 12"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: Eye rays (+16 ranged touch), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], relentless
-- **Saves**: Fort +7, Ref +10, Will +5
+- **Defenses**: Fort 17, Ref 20, Will 15
 - **Abilities**: Str 22, Dex 16, Con —, Int 3, Wis 11, Cha 1
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +15
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]]
@@ -79,14 +79,14 @@ Retrievers attack with four claws, but their eye rays are far more deadly.
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th): At will—_[[rangoric-srd/spells/Discern Location|discern location]]_.
 
-**Eye Rays (Su)**: A retriever's eyes can produce four different magical rays, each with a range of 100 feet. Each round, it can fire one ray as a free action. A particular ray is usable only once every 4 rounds. A retriever can fire an eye ray in the same round that it makes physical attacks—firing an eye ray does not provoke attacks of opportunity. The save DC for eye rays is 19—the save DC is Constitution-based, and includes a +2 racial bonus. The eye ray effects are the following.
+**Eye Rays (Su)**: A retriever's eyes can produce four different magical rays, each with a range of 100 feet. Each round, it can fire one ray as a free action. A particular ray is usable only once every 4 rounds. A retriever can fire an eye ray in the same round that it makes physical attacks—firing an eye ray does not provoke attacks of opportunity. The attack bonus for eye rays is 19—the attack bonus is Constitution-based, and includes a +2 racial bonus. The eye ray effects are the following.
 
-_Fire_: Deals 12d6 fire damage (Reflex half).
+_Fire_: Deals 12d6 fire damage (vs Reflex; a miss halves).
 
-_Cold_: Deals 12d6 cold damage (Reflex half).
+_Cold_: Deals 12d6 cold damage (vs Reflex; a miss halves).
 
-_Electricity_: Deals 12d6 electricity damage (Reflex half).
+_Electricity_: Deals 12d6 electricity damage (vs Reflex; a miss halves).
 
-_Petrification_: Target must succeed on a Fortitude save or turn to stone permanently.
+_Petrification_: Attacks the target's Fortitude, and on a hit it turns to stone permanently.
 
 **Relentless (Su)**: A retriever is constantly under the effects of _[[rangoric-srd/spells/Spider Climb|spider climb]]_ and _[[rangoric-srd/spells/Water Walk|water walk]]_; these abilities cannot be dispelled.

@@ -16,7 +16,7 @@ full-attack: "2 claws +2 melee (1d4 plus grab and poison)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Death frenzy, constrict (1d4), poison"
 special-qualities: "Darkvision 60 ft., low-light vision, ferocity, amphibious, resistance to cold 5"
-saves: "Fort +2, Ref +1, Will +4"
+defenses: "Fort 12, Ref 11, Will 14"
 abilities: "Str 10, Dex 13, Con 14, Int 5, Wis 12, Cha 13"
 skills: "Athletics +8, Perception +6"
 skill-ranks: "Athletics 5, Perception 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Death Frenzy|Death frenzy]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] (1d4), [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 5
-- **Saves**: Fort +2, Ref +1, Will +4
+- **Defenses**: Fort 12, Ref 11, Will 14
 - **Abilities**: Str 10, Dex 13, Con 14, Int 5, Wis 12, Cha 13
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +6
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
@@ -78,4 +78,4 @@ Reefclaws understand Common but can't speak.
 
 **[[rangoric-srd/monsters/abilities/Grab|Grab]] (Ex)**: A reefclaw can use its grab ability on a target of any size. Reefclaws have a +8 racial bonus on grapple checks; this bonus replaces the normal +4 bonus a creature with grab receives.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Reefclaw Venom|Reefclaw Venom]]: Claw—injury; _save_ Fort DC 13; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Str; _cure_ 1 save. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Reefclaw Venom|Reefclaw Venom]]: Claw—injury; _attack_ +3 vs Fortitude; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Str; _cure_ 1 miss. The attack bonus is Constitution-based.

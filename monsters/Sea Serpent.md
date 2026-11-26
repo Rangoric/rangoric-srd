@@ -16,7 +16,7 @@ full-attack: "Bite +23 melee (4d8+22/19–20 plus grab) and tail slap +18 melee 
 space-reach: "20 ft./20 ft."
 special-attacks: "Capsize, constrict (3d6+18), swallow whole (4d8+18 bludgeoning damage, AC 18, hp 18)"
 special-qualities: "Darkvision 120 ft., low-light vision, elusive, immunity to cold, resistance to fire 30"
-saves: "Fort +16, Ref +13, Will +7"
+defenses: "Fort 26, Ref 23, Will 17"
 abilities: "Str 34, Dex 14, Con 25, Int 2, Wis 11, Cha 11"
 skills: "Athletics +20, Perception +8, Stealth +9"
 skill-ranks: "Athletics 5, Perception 5, Stealth 20"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 20 ft./20 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Capsize|Capsize]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] (3d6+18), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (4d8+18 bludgeoning damage, AC 18, hp 18)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], elusive, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 30
-- **Saves**: Fort +16, Ref +13, Will +7
+- **Defenses**: Fort 26, Ref 23, Will 17
 - **Abilities**: Str 34, Dex 14, Con 25, Int 2, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Escape Artist, Stealth)

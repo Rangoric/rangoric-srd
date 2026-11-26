@@ -16,7 +16,7 @@ full-attack: "Bite +10 melee (1d8+4 plus trip) and tail slap +5 melee (1d6+2)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Bay"
 special-qualities: "Darkvision 60 ft., scent, shadow blend"
-saves: "Fort +8, Ref +7, Will +5"
+defenses: "Fort 18, Ref 17, Will 15"
 abilities: "Str 19, Dex 15, Con 17, Int 4, Wis 12, Cha 13"
 skills: "Fieldcraft +10, Perception +10, Stealth +11"
 skill-ranks: "Fieldcraft 6, Perception 6, Stealth 6"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Bay
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], shadow blend
-- **Saves**: Fort +8, Ref +7, Will +5
+- **Defenses**: Fort 18, Ref 17, Will 15
 - **Abilities**: Str 19, Dex 15, Con 17, Int 4, Wis 12, Cha 13
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
@@ -77,6 +77,6 @@ Shadow mastiffs cannot speak, but they understand Common.
 
 Shadow mastiffs prefer fighting in shadows or dark conditions, which gives them a great advantage. If a magical light source negates the shadows around them, shadow mastiffs are cunning enough to either move out of the light or back off and break up the opposition with their baying. They have been known to seize and carry off items enspelled with [[rangoric-srd/spells/Daylight|daylight]] spells.
 
-**Bay (Su)**: When a shadow mastiff howls or barks, all creatures within a 300-foot spread except evil outsiders must succeed at a DC 16 Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 1d4 rounds. This is a sonic, mind-affecting fear effect. A creature that successfully saves cannot be affected by the same mastiff's bay for 24 hours. This is a mind-affecting fear effect. The save DC is Charisma-based and includes a +2 racial bonus.
+**Bay (Su)**: When a shadow mastiff howls or barks, all creatures within a 300-foot spread except evil outsiders are attacked at +6 vs Will, and on a hit become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 1d4 rounds. This is a sonic, mind-affecting fear effect. A creature the bay misses cannot be affected by the same mastiff's bay for 24 hours. This is a mind-affecting fear effect. The attack bonus is Charisma-based and includes a +2 racial bonus.
 
 **Shadow Blend (Su)**: In any condition of illumination other than full daylight, a shadow mastiff disappears into the shadows, giving it concealment (50% miss chance). Artificial illumination, even a _[[rangoric-srd/spells/Light|light]]_ or _[[rangoric-srd/spells/Continual Flame|continual flame]]_ spell, does not negate this ability; a _[[rangoric-srd/spells/Daylight|daylight]]_ spell, however, does. A shadow mastiff can suspend or resume this ability as a free action.

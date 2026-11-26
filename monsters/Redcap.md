@@ -15,7 +15,7 @@ full-attack: "Medium scythe +10 melee (2d4+10/×4) and kick +4 melee (1d4+6)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, fast healing 3, boot stomp, heavy weapons, red cap, damage reduction 10/cold iron, irreligious"
-saves: "Fort +6, Ref +10, Will +7"
+defenses: "Fort 16, Ref 20, Will 17"
 abilities: "Str 18, Dex 19, Con 18, Int 16, Wis 13, Cha 15"
 skills: "Acrobatics +15, Athletics +15 (+27 jumping), Deception +13, Escape Artist +15, Intimidation +10, Nature +14, Perception +12, Sense Motive +12, Stealth +19"
 skill-ranks: "Acrobatics 8, Athletics 8, Deception 8, Escape Artist 8, Intimidation 5, Nature 8, Perception 8, Sense Motive 8, Stealth 8"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 3, [[rangoric-srd/monsters/abilities/Boot Stomp|boot stomp]], [[rangoric-srd/monsters/abilities/Heavy Weapons|heavy weapons]], [[rangoric-srd/monsters/abilities/Red Cap|red cap]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Irreligious|irreligious]]
-- **Saves**: Fort +6, Ref +10, Will +7
+- **Defenses**: Fort 16, Ref 20, Will 17
 - **Abilities**: Str 18, Dex 19, Con 18, Int 16, Wis 13, Cha 15
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +15 (+27 jumping), [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +15, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Nature|Nature]] +14, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +19
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (scythe)
@@ -71,6 +71,6 @@ Redcaps speak Aklo, Common, Giant and Sylvan.
 
 **[[rangoric-srd/monsters/abilities/Heavy Weapons|Heavy Weapons]] (Ex)**: A redcap can wield weapons sized for Medium creatures without penalty.
 
-**[[rangoric-srd/monsters/abilities/Irreligious|Irreligious]] (Ex)**: Bitter and blasphemous, redcaps cannot stand the symbols of good-aligned religions. If a foe spends a standard action presenting such a holy symbol, any redcap that can see the creature must make a DC 15 Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] for 1 minute and attempt to flee. A redcap who successfully saves is [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 minute.
+**[[rangoric-srd/monsters/abilities/Irreligious|Irreligious]] (Ex)**: Bitter and blasphemous, redcaps cannot stand the symbols of good-aligned religions. If a foe spends a standard action presenting such a holy symbol, any redcap that can see the creature is attacked at +5 vs Will, and on a hit becomes [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] for 1 minute and attempt to flee. A redcap it misses is [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 minute.
 
 **[[rangoric-srd/monsters/abilities/Red Cap|Red Cap]] (Su)**: A redcap wears a tiny, shapeless woolen hat, dyed over and over with the blood of its victims. While wearing this cap, a redcap gains a +4 bonus on damage rolls (included in the above totals) and fast healing 3. These benefits are lost if the cap is removed or destroyed. Caps are not transferable, even between redcaps. A redcap can create a new cap to replace a lost cap with 10 minutes of work, although until the redcap takes a standard action to dip the cap in the blood of a foe the redcap helped to kill, the cap does not grant its bonuses.

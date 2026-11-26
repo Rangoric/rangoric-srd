@@ -15,7 +15,7 @@ full-attack: "Dagger +6 melee (1d4+2/19–20) and horns +1 melee (1d6+1); or sho
 space-reach: "5 ft./5 ft."
 special-attacks: "Pipes, spell-like abilities"
 special-qualities: "Low-light vision, damage reduction 5/cold iron"
-saves: "Fort +4, Ref +8, Will +8"
+defenses: "Fort 14, Ref 18, Will 18"
 abilities: "Str 14, Dex 15, Con 15, Int 12, Wis 14, Cha 19"
 skills: "Deception +15, Fieldcraft +7, Imitation +9, Intimidation +9, Nature +10, Perception +18, Performance (wind instruments) +19, Persuasion +15, Stealth +17"
 skill-ranks: "Deception 8, Fieldcraft 2, Imitation 2, Intimidation 2, Nature 6, Perception 9, Performance (wind instruments) 15, Persuasion 8, Stealth 8"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Pipes, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron
-- **Saves**: Fort +4, Ref +8, Will +8
+- **Defenses**: Fort 14, Ref 18, Will 18
 - **Abilities**: Str 14, Dex 15, Con 15, Int 12, Wis 14, Cha 19
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Imitation|Imitation]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Performance|Performance]] (wind instruments) +19, [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +17
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -79,9 +79,9 @@ The keen senses of a satyr make it almost impossible to surprise one in the wild
 
 Once engaged in battle, an unarmed satyr attacks with a powerful head butt. A satyr expecting trouble is likely to be armed with a bow and a dagger and typically looses arrows from hiding, weakening an enemy before closing.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th): At will—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 15), _[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 14), _[[rangoric-srd/spells/Sleep|sleep]]_ (DC 15), _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 17); 1/day—_[[rangoric-srd/spells/Fear|fear]]_ (DC 18), _[[rangoric-srd/spells/Summon Nature’s Ally III|summon nature's ally III]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th): At will—_[[rangoric-srd/spells/Charm Person|charm person]]_ (+5 vs Will), _[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+4 vs Will), _[[rangoric-srd/spells/Sleep|sleep]]_ (+5 vs Will), _[[rangoric-srd/spells/Suggestion|suggestion]]_ (+7 vs Will); 1/day—_[[rangoric-srd/spells/Fear|fear]]_ (+8 vs Will), _[[rangoric-srd/spells/Summon Nature’s Ally III|summon nature's ally III]]_.
 
-**Pipes (Su)**: A satyr can focus and empower his magic by playing haunting melodies on his panpipes. When he plays, all creatures within a 60-foot radius must make a DC 18 Will save or be affected by _[[rangoric-srd/spells/Charm Person|charm person]]_, _[[rangoric-srd/spells/Fear|fear]]_, _[[rangoric-srd/spells/Sleep|sleep]]_, or _[[rangoric-srd/spells/Suggestion|suggestion]]_, depending on what tune the satyr chooses. A creature that successfully saves against any of the pipes' effects cannot be affected by the same set of pipes for 24 hours, but can still be affected by the satyr's other spell-like abilities as normal. The satyr's use of his pipes does not count toward his uses per day of his spell-like abilities, and if separated from them he may continue to use his standard abilities. The pipes themselves are masterwork, and a satyr can craft a replacement with 1 week of labor. The save DC is Charisma-based.
+**Pipes (Su)**: A satyr can focus and empower his magic by playing haunting melodies on his panpipes. When he plays, all creatures within a 60-foot radius are attacked at +8 vs Will, and on a hit are affected by _[[rangoric-srd/spells/Charm Person|charm person]]_, _[[rangoric-srd/spells/Fear|fear]]_, _[[rangoric-srd/spells/Sleep|sleep]]_, or _[[rangoric-srd/spells/Suggestion|suggestion]]_, depending on what tune the satyr chooses. A creature any of the pipes' effects misses cannot be affected by the same set of pipes for 24 hours, but can still be affected by the satyr's other spell-like abilities as normal. The satyr's use of his pipes does not count toward his uses per day of his spell-like abilities, and if separated from them he may continue to use his standard abilities. The pipes themselves are masterwork, and a satyr can craft a replacement with 1 week of labor. The attack bonus is Charisma-based.
 
 ### Satyrkin
 

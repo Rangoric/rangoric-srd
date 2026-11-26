@@ -15,7 +15,7 @@ full-attack: "2 slams +10 melee (1d6+5)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Needle cone"
 special-qualities: "Low-light vision, regeneration 5 (fire), needle hide, freeze, produce water, plant traits"
-saves: "Fort +9, Ref +8, Will +4"
+defenses: "Fort 19, Ref 18, Will 14"
 abilities: "Str 20, Dex 18, Con 18, Int 7, Wis 15, Cha 11"
 skills: "Fieldcraft +5, Perception +11, Sense Motive +3"
 skill-ranks: "Fieldcraft 3, Perception 5, Sense Motive 3"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Needle Cone|Needle cone]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (fire), [[rangoric-srd/monsters/abilities/Needle Hide|needle hide]], [[rangoric-srd/monsters/abilities/Freeze|freeze]], [[rangoric-srd/monsters/abilities/Produce Water|produce water]], [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-- **Saves**: Fort +9, Ref +8, Will +4
+- **Defenses**: Fort 19, Ref 18, Will 14
 - **Abilities**: Str 20, Dex 18, Con 18, Int 7, Wis 15, Cha 11
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +3
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -69,7 +69,7 @@ Saguarois speak Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Needle Cone|Needle Cone]] (Ex)**: Three times per day, as a standard action a saguaroi can eject a barrage of needles from its body. This effect creates a 15-foot-cone burst of needles that deals 4d6 points of piercing damage to all creatures in the area (Reflex DC 20 for half). The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Needle Cone|Needle Cone]] (Ex)**: Three times per day, as a standard action a saguaroi can eject a barrage of needles from its body. This effect creates a 15-foot-cone burst of needles that deals 4d6 points of piercing damage to all creatures in the area (+10 vs Reflex; a miss halves). The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Needle Hide|Needle Hide]] (Ex)**: A saguaroi is covered with needles and spines, and its slam attacks deal both bludgeoning and piercing damage. Any creature grappling a saguaroi or attacking it with a natural attack or unarmed strike takes 1d4 points of piercing damage (manufactured weapons with the reach special feature do not endanger the user this way). A creature grappling a saguaroi takes this damage each round of the grapple.
 

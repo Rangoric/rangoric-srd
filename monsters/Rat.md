@@ -15,7 +15,7 @@ full-attack: "Bite +4 melee (1d3–4)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +2, Ref +4, Will +1"
+defenses: "Fort 12, Ref 14, Will 11"
 abilities: "Str 2, Dex 15, Con 11, Int 2, Wis 13, Cha 2"
 skills: "Athletics +10, Stealth +18"
 skill-ranks: "Athletics 11, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +2, Ref +4, Will +1
+- **Defenses**: Fort 12, Ref 14, Will 11
 - **Abilities**: Str 2, Dex 15, Con 11, Int 2, Wis 13, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +18
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

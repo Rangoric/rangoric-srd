@@ -16,7 +16,7 @@ full-attack: "Bite +10 melee (1d8+6) and 2 claws +10 melee (1d6+4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Powerful blows (bite), shake"
 special-qualities: "Darkvision 60 ft., scent, change shape (any Small or Medium humanoid; alter self), echo of reason, hold breath, resistance to cold 10"
-saves: "Fort +4, Ref +8, Will +5"
+defenses: "Fort 14, Ref 18, Will 15"
 abilities: "Str 18, Dex 17, Con 14, Int 13, Wis 10, Cha 19"
 skills: "Athletics +21, Deception +13, Imitation +8, Perception +9, Sense Motive +4, Stealth +10"
 skill-ranks: "Athletics 14, Deception 5, Imitation 3, Perception 6, Sense Motive 1, Stealth 4"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Powerful blows (bite), [[rangoric-srd/monsters/abilities/Shake|shake]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (any Small or Medium humanoid; alter self), [[rangoric-srd/monsters/abilities/Echo of Reason|echo of reason]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10
-- **Saves**: Fort +4, Ref +8, Will +5
+- **Defenses**: Fort 14, Ref 18, Will 15
 - **Abilities**: Str 18, Dex 17, Con 14, Int 13, Wis 10, Cha 19
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +21, [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Imitation|Imitation]] +8, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
@@ -74,4 +74,4 @@ Selkies speak Aquan and Common.
 
 **[[rangoric-srd/monsters/abilities/Echo of Reason|Echo of Reason]] (Su)**: A selkie can instinctively alter the intonation of its voice to make anything it says sound more pleasing to those who understand it. When using the Deception skill, a selkie treats its lies as one step more believable for the purposes of bonuses or penalties on the check.
 
-**[[rangoric-srd/monsters/abilities/Shake|Shake]] (Ex)**: On a successful critical hit with its bite attack, a selkie automatically violently shakes a Large or smaller target. The target must succeed at a DC 15 Fortitude save or it is [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1 round. Even on a successful save, the target still takes a -2 penalty on all attack rolls and skill checks for the next 2 rounds. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Shake|Shake]] (Ex)**: On a successful critical hit with its bite attack, a selkie automatically violently shakes a Large or smaller target. It attacks the target at +5 vs Fortitude, and on a hit the target is [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1 round. Even on a miss, the target still takes a -2 penalty on all attack rolls and skill checks for the next 2 rounds. The attack bonus is Constitution-based.

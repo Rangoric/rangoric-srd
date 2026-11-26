@@ -16,7 +16,7 @@ full-attack: "+2 longsword +19/+14 melee (1d8+10/17–20); or masterwork light c
 space-reach: "5 ft./5 ft."
 special-attacks: "Weapon training (heavy blades +2, crossbows +1)"
 special-qualities: "Low-light vision, bravery +2, armor training 2, mimic, plant traits"
-saves: "Fort +8, Ref +4, Will +4"
+defenses: "Fort 18, Ref 14, Will 14"
 abilities: "Str 19, Dex 13, Con 14, Int 10, Wis 12, Cha 4"
 skills: "Animal Handling +10, Athletics +13, Perception +4, Sense Motive +1"
 skill-ranks: "Animal Handling 6, Athletics 6, Perception 2, Sense Motive 2"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (heavy blades +2, crossbows +1)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +2, [[rangoric-srd/monsters/abilities/Armor Training|armor training]] 2, [[rangoric-srd/monsters/Pod-Spawned Creature#^mimic|mimic]], [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-- **Saves**: Fort +8, Ref +4, Will +4
+- **Defenses**: Fort 18, Ref 14, Will 14
 - **Abilities**: Str 19, Dex 13, Con 14, Int 10, Wis 12, Cha 4
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +1
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]] (longsword), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (longsword), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (longsword), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -79,7 +79,7 @@ Pod-spawned creatures speak Common.
 
 **Challenge Rating**: For creatures with no class levels or only NPC class levels, this is the same as that of the base creature. For creatures with PC class levels, this is the same as that of the base creature –1. Creatures with a significant number of spells, spell-like abilities, or supernatural abilities have their CR further reduced by 1.
 
-**Type**: Type changes to plant. Do not recalculate BAB, hit points, saves, or skill ranks.
+**Type**: Type changes to plant. Do not recalculate BAB, hit points, defenses, or skill ranks.
 
 **Alignment**: Alignment changes to lawful evil.
 

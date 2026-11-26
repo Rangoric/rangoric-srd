@@ -15,7 +15,7 @@ full-attack: "Bite +13 melee (3d6+9 plus grab)"
 space-reach: "15 ft./15 ft."
 special-attacks: "Heat, swallow whole (2d6+9 plus 8d6 fire, AC 15, hp 9)"
 special-qualities: "Darkvision 60 ft., low-light vision, tremorsense 60 ft, immunity to fire and cold"
-saves: "Fort +11, Ref +7, Will +4"
+defenses: "Fort 21, Ref 17, Will 14"
 abilities: "Str 22, Dex 13, Con 21, Int 5, Wis 12, Cha 10"
 skills: "Perception +16"
 skill-ranks: "Perception 12"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Heat|Heat]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d6+9 plus 8d6 fire, AC 15, hp 9)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and cold
-- **Saves**: Fort +11, Ref +7, Will +4
+- **Defenses**: Fort 21, Ref 17, Will 14
 - **Abilities**: Str 22, Dex 13, Con 21, Int 5, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +16
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -76,4 +76,4 @@ A remorhaz is whitish-blue in color but pulses with a reddish glow from the heat
 
 Remorhazes hide under the snow and ice until they hear movement above them, then attack from below and surprise prey.
 
-**Heat (Su)**: An enraged remorhaz generates heat so intense that anything touching its body takes 8d6 points of fire damage. Creatures striking a remorhaz with natural attacks or unarmed strikes are subject to this damage, but creatures striking with melee weapons are not. The heat can melt or burn weapons; any weapon that strikes a remorhaz is allowed a DC 19 Fortitude save to avoid taking damage. The save DC is Constitution-based.
+**Heat (Su)**: An enraged remorhaz generates heat so intense that anything touching its body takes 8d6 points of fire damage. Creatures striking a remorhaz with natural attacks or unarmed strikes are subject to this damage, but creatures striking with melee weapons are not. The heat can melt or burn weapons; the heat attacks any weapon that strikes a remorhaz at +9 vs Fortitude, and a miss avoids the damage. The attack bonus is Constitution-based.

@@ -15,7 +15,7 @@ full-attack: "5 bites +11 melee (1d4+1 plus disease)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Disease, plaguebringer"
 special-qualities: "Darkvision 60 ft., low-light vision, critical hits, flanking, effects that target a specific number of creatures, compression, speak with rats"
-saves: "Fort +9, Ref +9, Will +4"
+defenses: "Fort 19, Ref 19, Will 14"
 abilities: "Str 12, Dex 19, Con 18, Int 5, Wis 14, Cha 11"
 skills: "Athletics +9, Perception +11, Persuasion +0 (+4 when influencing rats), Society –2, Stealth +13"
 skill-ranks: "Athletics 5, Perception 6, Persuasion 0, Society 1, Stealth 2"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]], [[rangoric-srd/monsters/abilities/Plaguebringer|plaguebringer]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], critical hits, flanking, effects that target a specific number of creatures, [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Speak with Rats|speak with rats]]
-- **Saves**: Fort +9, Ref +9, Will +4
+- **Defenses**: Fort 19, Ref 19, Will 14
 - **Abilities**: Str 12, Dex 19, Con 18, Int 5, Wis 14, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +0 (+4 when influencing rats), [[rangoric-srd/skills/Society|Society]] –2, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -71,7 +71,7 @@ A rat king is approximately 3 feet across and weighs 15 pounds.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Bubonic Plague|Bubonic Plague]]: Inhaled or bite—injury; _save_ Fort DC 19; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d4 Str damage, 1 Cha damage, and fatigue; _cure_ 2 consecutive saves. The save DC is Constitution-based and includes the +2 from the rat king's plaguebringer ability.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Bubonic Plague|Bubonic Plague]]: Inhaled or bite—injury; _attack_ +9 vs Fortitude; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d4 Str damage, 1 Cha damage, and fatigue; _cure_ 2 consecutive misses. The attack bonus is Constitution-based and includes the +2 from the rat king's plaguebringer ability.
 
 **[[rangoric-srd/monsters/abilities/Plaguebringer|Plaguebringer]] (Ex)**: A rat king increases the disease DC of rats (including rat kings, rat swarms, and dire rats) within 100 feet by +2.
 

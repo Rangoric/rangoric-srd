@@ -15,7 +15,7 @@ full-attack: "2 slams +20 melee (2d10+10)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Dispel psionics"
 special-qualities: "Constructtraits, damage reduction 10/adamantine, darkvision 60 ft., immunity to psionics, low-light vision"
-saves: "Fort +5, Ref +5, Will +5"
+defenses: "Fort 15, Ref 15, Will 15"
 abilities: "Str 31, Dex 10, Con -, Int -, Wis 11, Cha 1"
 skills: "Athletics +28"
 skill-ranks: "Athletics 15"
@@ -48,7 +48,7 @@ Full **Attack:** 2 slams +20 melee (2d10+10)   
 **Space/Reach:** 10 ft./10 ft.     
 **Special Attacks:** [[rangoric-srd/powers/Dispel Psionics|Dispel psionics]]     
 **Special Qualities:** [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]][[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine, darkvision 60 ft., immunity to psionics, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]     
-**Saves:** Fort +5, Ref +5, Will +5     
+**Defenses:** Fort 15, Ref 15, Will 15     
 **Abilities:** Str 31, Dex 10, Con -, Int -, Wis 11, Cha 1     
 **Skills:** [[rangoric-srd/skills/Athletics|Athletics]] +28     
 **Feats:** -     
@@ -70,7 +70,7 @@ A psion-killer’s creator can command it if the psion-killer is within 60 feet 
 
 Dispel Psionics (Su): A psion-killer can use [[rangoric-srd/powers/Dispel Psionics|dispel psionics]] as a free action once per round. The effect is as an area dispel in a 30-foot-radius burst. The dispel check is 1d20+10.
 
-Construct Traits: A psion-killer has immunity to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep effects, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death effects, necromancy effects, mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects), and any effect that requires a Fortitude save unless it also works on objects or is harmless. It is not subject to critical hits, nonlethal damage, [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]], [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|ability drain]], [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigue]], [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhaustion]], or [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]]. It cannot heal damage, but it can be repaired.
+Construct Traits: A psion-killer has immunity to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep effects, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death effects, necromancy effects, mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects), and any effect that attacks Fortitude unless it also works on objects or is harmless. It is not subject to critical hits, nonlethal damage, [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]], [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|ability drain]], [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigue]], [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhaustion]], or [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]]. It cannot heal damage, but it can be repaired.
 
 Immunity to Psionics (Ex): Psion-killers completely resist psionic effects that are subject to power resistance.
 

@@ -14,8 +14,8 @@ attack: "Bite +19 melee (2d6+9) or roots +12 melee (1d6+4 plus pull)"
 full-attack: "Bite +14 melee (2d6+9) and 3 roots +12 melee (1d6+4 plus pull)"
 space-reach: "5 ft./15 ft. (60 ft. with root)"
 special-attacks: "Pull (root, 10 ft.)"
-special-qualities: "Darkvision 120 ft., low-light vision, oaksight, fear aura (variable distance, DC 20), spell absorption, immunity to electricity and fire, plant traits, spell resistance 19 (see spell absorption)"
-saves: "Fort +12, Ref +2, Will +5"
+special-qualities: "Darkvision 120 ft., low-light vision, oaksight, fear aura (variable distance, +10 vs Will), spell absorption, immunity to electricity and fire, plant traits, spell resistance 19 (see spell absorption)"
+defenses: "Fort 22, Ref 12, Will 15"
 abilities: "Str 29, Dex 8, Con 21, Int 12, Wis 15, Cha 12"
 skills: "Nature +11, Perception +21, Stealth +4 (+8 in forests)"
 skill-ranks: "Nature 7, Perception 16, Stealth 10"
@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: Bite +14 melee (2d6+9) and 3 roots +12 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Pull|pull]])
 - **Space/Reach**: 5 ft./15 ft. (60 ft. with root)
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pull|Pull]] (root, 10 ft.)
-- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Oaksight|oaksight]], [[rangoric-srd/monsters/abilities/Fear Aura (Quickwood)|fear aura]] (variable distance, DC 20), [[rangoric-srd/monsters/abilities/Spell Absorption|spell absorption]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and fire, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19 (see spell absorption)
-- **Saves**: Fort +12, Ref +2, Will +5
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Oaksight|oaksight]], [[rangoric-srd/monsters/abilities/Fear Aura (Quickwood)|fear aura]] (variable distance, +10 vs Will), [[rangoric-srd/monsters/abilities/Spell Absorption|spell absorption]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and fire, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19 (see spell absorption)
+- **Defenses**: Fort 22, Ref 12, Will 15
 - **Abilities**: Str 29, Dex 8, Con 21, Int 12, Wis 15, Cha 12
 - **Skills**: [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +4 (+8 in forests)
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -67,7 +67,7 @@ Quickwoods speak Common and Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Fear Aura (Quickwood)|Fear Aura]] (Su)**: A quickwood with stored magical energy can activate its fear aura as a standard action. The aura has a radius of 10 feet per spell level of the effect and lasts for 1 round (Will DC 20 negates). Creatures that fail their saving throws become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 1 minute. The DC is Charisma-based and includes a +4 racial bonus.
+**[[rangoric-srd/monsters/abilities/Fear Aura (Quickwood)|Fear Aura]] (Su)**: A quickwood with stored magical energy can activate its fear aura as a standard action. The aura has a radius of 10 feet per spell level of the effect and lasts for 1 round (+10 vs Will). Creatures it hits become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 1 minute. The attack bonus is Charisma-based and includes a +4 racial bonus.
 
 **[[rangoric-srd/monsters/abilities/Oaksight|Oaksight]] (Su)**: A quickwood may observe the area surrounding any oak tree within 360 feet as if using clairaudience/clairvoyance. It can use this ability on any number of oak trees in the area. Although the quickwood does not need line of sight to establish this link, if it does have line of sight to even a single oak tree, it can't be [[rangoric-srd/combat/Combat Modifiers#Flanking|flanked]].
 

@@ -16,7 +16,7 @@ full-attack: "2 claws +14 melee (1d4+2 plus poison); or 2 quills +15 ranged (1d4
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +3d6, spawn undead, poison, spell-like abilities"
 special-qualities: "Darkvision 60 ft., deathwatch, detect good, detect magic, change shape (porcupine, beast shape II), immunity to poison"
-saves: "Fort +7, Ref +10, Will +10"
+defenses: "Fort 17, Ref 20, Will 20"
 abilities: "Str 14, Dex 18, Con 19, Int 15, Wis 14, Cha 19"
 skills: "Arcana +11, Deception +10, Medicine +10, Mysticism +11, Perception +13, Stealth +16, Theology +11"
 skill-ranks: "Arcana 6, Deception 3, Medicine 5, Mysticism 6, Perception 8, Stealth 5, Theology 6"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Sneak attack +3d6, [[rangoric-srd/monsters/abilities/Spawn Undead|spawn undead]], [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., deathwatch, detect good, detect magic, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (porcupine, beast shape II), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison
-- **Saves**: Fort +7, Ref +10, Will +10
+- **Defenses**: Fort 17, Ref 20, Will 20
 - **Abilities**: Str 14, Dex 18, Con 19, Int 15, Wis 14, Cha 19
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +16, [[rangoric-srd/skills/Theology|Theology]] +11
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (quill)
@@ -72,10 +72,10 @@ Pukwudgies speak Common, Draconic and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +14): Constant—_[[rangoric-srd/spells/Deathwatch|deathwatch]], [[rangoric-srd/spells/Detect Good|detect good]], [[rangoric-srd/spells/Detect Magic|detect magic]]_; At will—_[[rangoric-srd/spells/Command Undead|command undead]]_ (DC 16), _[[rangoric-srd/spells/Produce Flame|produce flame]]_; 3/day—_[[rangoric-srd/spells/Animate Dead|animate dead]]_, _[[rangoric-srd/spells/Death Knell|death knell]]_ (DC 16), _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_ (DC 15), _[[rangoric-srd/spells/Scare|scare]]_ (DC 16); 1/day—_[[rangoric-srd/spells/Nondetection|nondetection]]_ (DC 17).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +14): Constant—_[[rangoric-srd/spells/Deathwatch|deathwatch]], [[rangoric-srd/spells/Detect Good|detect good]], [[rangoric-srd/spells/Detect Magic|detect magic]]_; At will—_[[rangoric-srd/spells/Command Undead|command undead]]_ (+6 vs Will), _[[rangoric-srd/spells/Produce Flame|produce flame]]_; 3/day—_[[rangoric-srd/spells/Animate Dead|animate dead]]_, _[[rangoric-srd/spells/Death Knell|death knell]]_ (+6 vs Will), _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_ (+5), _[[rangoric-srd/spells/Scare|scare]]_ (+6 vs Will); 1/day—_[[rangoric-srd/spells/Nondetection|nondetection]]_ (+7 vs Will).
 
-**[[rangoric-srd/monsters/abilities/Spawn Undead|Spawn Undead]] (Su)**: Any creature slain by a pukwudgie's poisonous quills rises in 24 hours as a zombie. Undead created by this ability are not immediately under the control of a pukwudgie, but they receive a –4 penalty on saves against a pukwudgie's control undead spell-like ability.
+**[[rangoric-srd/monsters/abilities/Spawn Undead|Spawn Undead]] (Su)**: Any creature slain by a pukwudgie's poisonous quills rises in 24 hours as a zombie. Undead created by this ability are not immediately under the control of a pukwudgie, but they receive a –4 penalty on defenses against a pukwudgie's control undead spell-like ability.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Su)**: [[rangoric-srd/rules/afflictions/Pukwudgie Venom|Pukwudgie Venom]]: Claw or quill—injury; _save_ Fort DC 18; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Con damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Su)**: [[rangoric-srd/rules/afflictions/Pukwudgie Venom|Pukwudgie Venom]]: Claw or quill—injury; _attack_ +8 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Con damage; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Quills|Quills]] (Ex)**: A pukwudgie can fire two of its quills as a ranged attack as a standard action. These quills have a range increment of 40 feet. Any creature attacking a pukwudgie with light or one-handed melee weapons, natural weapons, or an unarmed strike takes 1d3 points of piercing damage. A creature that grapples a pukwudgie takes 2d4 points of piercing damage. Anyone who takes damage from these quills is also exposed to the pukwudgie's poison.

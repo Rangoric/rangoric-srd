@@ -15,7 +15,7 @@ full-attack: "2 talons +18 melee (2d6+9/19–20 plus grab) and bite +17 melee (2
 space-reach: "20 ft./15 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision"
-saves: "Fort +13, Ref +14, Will +8"
+defenses: "Fort 23, Ref 24, Will 18"
 abilities: "Str 28, Dex 15, Con 17, Int 2, Wis 12, Cha 11"
 skills: "Acrobatics +7, Perception +15"
 skill-ranks: "Acrobatics 8, Perception 11"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 20 ft./15 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-- **Saves**: Fort +13, Ref +14, Will +8
+- **Defenses**: Fort 23, Ref 24, Will 18
 - **Abilities**: Str 28, Dex 15, Con 17, Int 2, Wis 12, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Perception|Perception]] +15
 - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (talons), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (talons)

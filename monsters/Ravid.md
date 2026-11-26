@@ -17,7 +17,7 @@ full-attack: "Tail slap +4 melee (1d6+1 plus positive energy) and claw +2 melee 
 space-reach: "5 ft./5 ft."
 special-attacks: "Positive energy lash, animate objects"
 special-qualities: "Darkvision 60 ft., flight, immunity to fire"
-saves: "Fort +4, Ref +3, Will +4"
+defenses: "Fort 14, Ref 13, Will 14"
 abilities: "Str 13, Dex 10, Con 13, Int 7, Wis 12, Cha 14"
 skills: "Escape Artist +6, Fieldcraft +7 (+9 with bindings), Perception +7, Stealth +6"
 skill-ranks: "Escape Artist 3, Fieldcraft 3, Perception 3, Stealth 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Positive energy lash, [[rangoric-srd/spells/Animate Objects|animate objects]]
 - **Special Qualities**: Darkvision 60 ft., flight, immunity to fire
-- **Saves**: Fort +4, Ref +3, Will +4
+- **Defenses**: Fort 14, Ref 13, Will 14
 - **Abilities**: Str 13, Dex 10, Con 13, Int 7, Wis 12, Cha 14
 - **Skills**: [[rangoric-srd/skills/Escape Artist|Escape Artist]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7 (+9 with bindings), [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Unspent Skill Points**: 6

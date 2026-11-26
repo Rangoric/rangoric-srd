@@ -16,7 +16,7 @@ full-attack: "Masterwork falchion +8 melee (2d4+4/18–20 plus 1d6 cold); or tou
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, amorphous, blur, immunity to cold"
-saves: "Fort +8, Ref +7, Will +7"
+defenses: "Fort 18, Ref 17, Will 17"
 abilities: "Str 16, Dex 22, Con 18, Int 21, Wis 13, Cha 17"
 skills: "Acrobatics +13, Arcana +9, Deception +10, Emulation +10, Imitation +10, Intimidation +7, Perception +8, Persuasion +10, Sense Motive +8, Stealth +13 (+23 in regions of low light or darkness), Theology +12"
 skill-ranks: "Acrobatics 4, Arcana 1, Deception 4, Emulation 4, Imitation 4, Intimidation 1, Perception 4, Persuasion 4, Sense Motive 4, Stealth 4, Theology 4"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], blur, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold
-- **Saves**: Fort +8, Ref +7, Will +7
+- **Defenses**: Fort 18, Ref 17, Will 17
 - **Abilities**: Str 16, Dex 22, Con 18, Int 21, Wis 13, Cha 17
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Emulation|Emulation]] +10, [[rangoric-srd/skills/Imitation|Imitation]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +13 (+23 in regions of low light or darkness), [[rangoric-srd/skills/Theology|Theology]] +12
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Iron Will|Iron Will]]
@@ -72,7 +72,7 @@ Shaes speak Aklo, Common and Shae.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +7): Constant—_[[rangoric-srd/spells/Blur|blur]]_; At will—_[[rangoric-srd/monsters/abilities/Lesser Shadow Evocation|lesser shadow evocation]]_ (DC 16).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +7): Constant—_[[rangoric-srd/spells/Blur|blur]]_; At will—_[[rangoric-srd/monsters/abilities/Lesser Shadow Evocation|lesser shadow evocation]]_ (+6 vs Will).
 
 **[[rangoric-srd/monsters/abilities/Cold (Shae)|Cold]] (Su)**: A shae's touch saps heat from living creatures, leaving patches of colorless flesh rather than physical wounds. A shae can deal 1d6 points of cold damage with a touch. It adds +1d6 points of cold damage to any melee weapon damage it deals.
 
