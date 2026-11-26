@@ -21,4 +21,4 @@ _A [[rangoric-srd/class-options/ranger-traps/Ranger Traps|ranger trap]] (Ex or S
 
 - **Type**: mechanical or magic
 - **Trigger**: location; **Reset**: none; [[rangoric-srd/class-options/ranger-traps/Ranger Traps#^ranger-traps-dc|DCs]] and [[rangoric-srd/class-options/ranger-traps/Ranger Traps#^ranger-traps-duration|duration]] as for every ranger trap
-- **Effect**: This simple pit is covered over with leaves or appropriate materials for the area. It’s 5 feet deep plus 5 feet for every 4 ranger levels. A victim that succeeds at a Reflex save doesn’t [[rangoric-srd/rules/Wilderness, Weather, and Environment#Falling|fall]] into the pit. If it is an extraordinary trap, the ranger can set this trap only in terrain with soft ground.
+- **Effect**: This simple pit is covered over with leaves or appropriate materials for the area. It’s 5 feet deep plus 5 feet for every 4 ranger levels. The trap attacks the victim’s Reflex, and on a miss the victim doesn’t [[rangoric-srd/rules/Wilderness, Weather, and Environment#Falling|fall]] into the pit. If it is an extraordinary trap, the ranger can set this trap only in terrain with soft ground.

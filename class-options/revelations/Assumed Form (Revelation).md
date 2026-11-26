@@ -19,7 +19,7 @@ _A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Sp) of the [[r
 
 You can change your appearance at will, as _[[rangoric-srd/spells/Disguise Self|disguise self]]_ with a caster level equal to your oracle level.
 
-At 7th level, you can choose to actually transform, which works the same way but counts as a polymorph effect instead of an illusion and doesn’t allow a Will save to disbelieve.
+At 7th level, you can choose to actually transform, which works the same way but counts as a polymorph effect instead of an illusion and can’t be disbelieved.
 
 At 11th level, the ability lasts until you dismiss it or use it again, allowing you to even keep it active while you sleep.
 

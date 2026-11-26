@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Outer Dark Mystery|outer dark]] mystery._
 
-As a standard action, you can perform a melee touch attack that deals 1d6 points of cold damage + 1 point for every two oracle levels you possess. At 7th level, the touched creature must also make a Fortitude saving throw or be fatigued for a number of rounds equal to 1/2 your oracle level. This has no effect on a creature that is already fatigued. You can use this ability a number of times per day equal to 3 + your Charisma modifier.
+As a standard action, you can perform a melee touch attack that deals 1d6 points of cold damage + 1 point for every two oracle levels you possess. At 7th level, the touch also attacks the creature’s Fortitude, and on a hit the creature is fatigued for a number of rounds equal to 1/2 your oracle level. This has no effect on a creature that is already fatigued. You can use this ability a number of times per day equal to 3 + your Charisma modifier.

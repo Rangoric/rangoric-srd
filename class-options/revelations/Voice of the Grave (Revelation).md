@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Bones Mystery|bones]] and [[rangoric-srd/class-options/mysteries/Ancestor Mystery|ancestor]] mysteries._
 
-You can _[[rangoric-srd/spells/Speak with Dead|speak with dead]]_, as per the spell, for a number of rounds per day equal to your oracle level. These rounds do not need to be consecutive. At 5th level, and every five levels thereafter, the dead creature takes a cumulative –2 penalty on its Will save to resist this effect.
+You can _[[rangoric-srd/spells/Speak with Dead|speak with dead]]_, as per the spell, for a number of rounds per day equal to your oracle level. These rounds do not need to be consecutive. At 5th level, and every five levels thereafter, the dead creature takes a cumulative –2 penalty to its Will Defense against this effect.

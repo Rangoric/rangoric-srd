@@ -34,7 +34,7 @@ A shaman who chooses the flame spirit as her [[rangoric-srd/classes/Shaman#^sham
 
 A shaman who chooses the flame spirit as her spirit or wandering spirit gains the following ability upon having access to the greater version of that spirit.
 
-**Fiery Soul (Su)**: The shaman gains fire resistance 10. In addition, as a standard action she can unleash a 15-foot cone of flame from her mouth, dealing 1d4 points of fire damage per shaman level she possesses. A successful Reflex saving throw halves this damage. The shaman can use this ability three times per day, but she must wait 1d4 rounds between each use.
+**Fiery Soul (Su)**: The shaman gains fire resistance 10. In addition, as a standard action she can unleash a 15-foot cone of flame from her mouth, dealing 1d4 points of fire damage per shaman level she possesses. It attacks Reflex, and a miss halves this damage. The shaman can use this ability three times per day, but she must wait 1d4 rounds between each use.
 
 ## True Spirit Ability
 

@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/class-option]
 
 _A [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]] (Su) of the [[rangoric-srd/class-options/mysteries/Life Mystery|life]] mystery._
 
-Once per day as an immediate action, whenever you fail a saving throw against a disease or poison, you may ignore its effects for 1 hour per level. At 7th and 15th level, you can use this ability one additional time per day.
+Once per day as an immediate action, whenever a disease or poison hits you, you may ignore its effects for 1 hour per level. At 7th and 15th level, you can use this ability one additional time per day.

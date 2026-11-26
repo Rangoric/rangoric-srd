@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/overview]
 
 # Revelations
 
-The [[rangoric-srd/classes/Oracle|oracle]]’s revelations, one note each, with the mysteries that offer each one in brackets. An oracle chooses hers from her own [[rangoric-srd/class-options/mysteries/Mysteries|mystery]]’s list; the class note’s [[rangoric-srd/classes/Oracle#^oracle-revelation|Revelation]] feature has the rules. Unless a revelation says otherwise, using it is a standard action, its save DC is 10 + 1/2 the oracle’s level + her Charisma modifier, and effects that duplicate spells use her oracle level as the caster level.
+The [[rangoric-srd/classes/Oracle|oracle]]’s revelations, one note each, with the mysteries that offer each one in brackets. An oracle chooses hers from her own [[rangoric-srd/class-options/mysteries/Mysteries|mystery]]’s list; the class note’s [[rangoric-srd/classes/Oracle#^oracle-revelation|Revelation]] feature has the rules. Unless a revelation says otherwise, using it is a standard action, its attack bonus is 1/2 the oracle’s level + her Charisma modifier, and effects that duplicate spells use her oracle level as the caster level.
 
 - [[rangoric-srd/class-options/revelations/Absence of Body (Revelation)|Absence of Body]] (ascetic)
 - [[rangoric-srd/class-options/revelations/Absence of Form (Revelation)|Absence of Form]] (ascetic)
