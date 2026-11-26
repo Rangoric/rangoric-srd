@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "10 minutes/level; see text"
-saving-throw: "Fortitude negates (see text)"
+defense: "Fortitude (see text)"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -39,7 +39,7 @@ _Necromancy \[Cold\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: 10 minutes/level; see text
-- **Saving Throw**: Fortitude negates (see text)
+- **Defense**: Fortitude (see text)
 - **Spell Resistance**: Yes
 
-The target is filled with an unshakable chill for the duration of the spell, and suffers from the effects of severe cold. Severe cold means if the initial saving throw fails, the target takes 1d6 points of nonlethal cold damage and must save every 10 minutes (using the DC of severe cold instead of this spell's DC) or take additional damage.
+The target is filled with an unshakable chill for the duration of the spell, and suffers from the effects of severe cold. Severe cold means if the spell hits, the target takes 1d6 points of nonlethal cold damage and the cold attacks its Fortitude every 10 minutes (using the attack bonus of severe cold instead of this spell's), dealing additional damage on a hit.

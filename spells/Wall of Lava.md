@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "Lava wall whose area is up to one 5-ft. square/level (S)"
 duration: "1 round/level (D)"
-saving-throw: "See text"
+defense: "See text"
 spell-resistance: "No"
 book: "Advanced Player's Guide"
 based-on:
@@ -39,7 +39,7 @@ _Conjuration (Creation) \[Earth, Fire\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: Lava wall whose area is up to one 5-ft. square/level (S)
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: See text
+- **Defense**: See text
 - **Spell Resistance**: No
 
 This spell creates a vertical _wall of lava_ that is 1 inch thick for every 4 caster levels and composed of up to one 5-foot square per level. A _wall of lava's_ maximum height cannot exceed half of its width (with a minimum height of 5 feet). The wall cannot be conjured so that it occupies the same space as a creature or object. A section of a _wall of lava_ can be destroyed by damage (hardness 4, hp 90), but if a section is destroyed, the remaining lava in the wall immediately fills in any such hole created, reducing the wall's overall size by one 5-foot square but remaining a contiguous barrier. Each time a weapon strikes a _wall of lava_, it takes 2d6 points of fire damage (or the creature who strikes the wall takes 2d6 fire damage if the attack was via an unarmed strike or natural attack).

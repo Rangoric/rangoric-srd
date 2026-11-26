@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Living creature touched"
 duration: "Instantaneous"
-saving-throw: "Fortitude negates (see text)"
+defense: "Fortitude (see text)"
 spell-resistance: "Yes"
 book: "Faeries"
 based-on:
@@ -35,7 +35,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Living creature touched
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude negates (see text)
+- **Defense**: Fortitude (see text)
 - **Spell Resistance**: Yes
 
-Touching a living creature, you unleash supernatural energies within the victim, wrenching the living spirit from his mortal body. The energies deal 2d6 points of Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]] immediately and another 2d6 points of Constitution drain a minute later. Each instance of damage can be negated by a Fortitude save (DC 10 + half the caster’s level + caster’s Wis or Int modifier (whichever is higher)).
+Touching a living creature, you unleash supernatural energies within the victim, wrenching the living spirit from his mortal body. The energies deal 2d6 points of Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]] immediately and another 2d6 points of Constitution drain a minute later. Each instance of damage attacks Fortitude (attack bonus half the caster’s level + caster’s Wis or Int modifier (whichever is higher)), and a miss negates it.

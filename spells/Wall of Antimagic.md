@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "Wall whose area is up to one 10ft. square/level or a sphere or hemisphere with a radius of up to 1 ft./level"
 duration: "1 minute/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Spells & Magic"
 based-on:
@@ -32,7 +32,7 @@ _Abjuration_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: Wall whose area is up to one 10ft. square/level or a sphere or hemisphere with a radius of up to 1 ft./level
 - **Duration**: 1 minute/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell creates a shimmering wall that completely blocks any magical effect. Anything encountering the wall behaves as if it had encountered an _[[rangoric-srd/spells/Antimagic Field|antimagic field]]_, except that nonpermanent effects are dispelled, not suppressed. As an _[[rangoric-srd/spells/Antimagic Field|antimagic field]]_, _wall of antimagic_ is not subject to _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_.

@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "10 ft. cube"
 duration: "11 rounds (D)"
-saving-throw: "Reflex partial"
+defense: "Reflex partial"
 spell-resistance: "No"
 book: "Spells & Magic"
 based-on:
@@ -32,10 +32,10 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Area**: 10 ft. cube
 - **Duration**: 11 rounds (D)
-- **Saving Throw**: Reflex partial
+- **Defense**: Reflex partial
 - **Spell Resistance**: No
 
-This spell creates a shimmering, 2foot diameter sphere. On the round that it is created, the sphere pulls into itself all creatures and unattended objects of tiny size or smaller. Creatures are allowed a Reflex save to avoid being drawn into the sphere. A successful save indicates that the creature has found something stable to hold onto or has avoided the effect in some other way.
+This spell creates a shimmering, 2foot diameter sphere. On the round that it is created, the sphere pulls into itself all creatures and unattended objects of tiny size or smaller. The sphere attacks the Reflex of creatures, and a miss avoids being drawn into it. A miss indicates that the creature has found something stable to hold onto or has avoided the effect in some other way.
 
 The vacuous sphere consumes any number objects and has no volume limit. The objects are held in an extradimensional space for the duration of the spell. The caster can study the objects and creatures within the space as a standard action, and if desired, draw forth one creature or object per round from the sphere as a free action. Items become chaotically separated when initially drawn into the sphere, unless they were fastened together.
 

@@ -14,7 +14,7 @@ casting-time: "1 swift action"
 range: "0 ft."
 target: "One arrow or bolt"
 duration: "Instantaneous"
-saving-throw: "Fortitude negates; see text"
+defense: "Fortitude; see text"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -35,7 +35,7 @@ _Necromancy \[Poison\]_
 - **Range**: 0 ft.
 - **Target**: One arrow or bolt
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude negates; see text
+- **Defense**: Fortitude; see text
 - **Spell Resistance**: Yes
 
 You infuse a single arrow or crossbow bolt with natural venom as you fire it. In addition to its normal damage, anyone struck by this arrow or bolt is affected as if by the _[[rangoric-srd/spells/Poison|poison]]_ spell. If the arrow is not fired immediately, the spell ends with no effect.

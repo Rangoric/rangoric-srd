@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "5-ft. radius/level or creature touched (see text)"
 duration: "10 minutes/level"
-saving-throw: "None"
+defense: "None"
 book: "Spells & Magic"
 based-on:
   - "[[individual books/Spells & Magic v3.0/spells/Veil of Frost|Veil of Frost (Spells & Magic)]]"
@@ -33,12 +33,12 @@ _Conjuration (Creation)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Area**: 5-ft. radius/level or creature touched (see text)
 - **Duration**: 10 minutes/level
-- **Saving Throw**: None
+- **Defense**: None
 
 You cause a person or small area to be covered in crystalline lattices of magical frost, concealing features or lowering temperature.
 
 _Area Veil:_ An area enspelled with a _veil of frost_ is strung with webs of glittering ice, lowering the temperature by 10 degrees. The frost (while pretty to look at) covers everything, causing a –1 circumstance penalty to any [[rangoric-srd/skills/Investigation|Investigation]] checks performed in the area. Additionally, the veil grants a +1 enhancement bonus to the DC of any spell with the cold descriptor (or any cold-based spell-like or supernatural ability) used within the area.
 
-_Person Veil:_ Tiny fingers of pale, blue-white frost cover the character’s entire body, though it does not interfere with arcane spell casting or add encumbrance. While covered by a _veil of frost_, the character gains a +2 enhancement bonus to the DC of any spell with the cold descriptor that they cast, as well as a +2 bonus to all Fortitude Saves against fire effects. Any fire-based attack that does damage equal to or greater than the caster’s level automatically negates this version of the spell.
+_Person Veil:_ Tiny fingers of pale, blue-white frost cover the character’s entire body, though it does not interfere with arcane spell casting or add encumbrance. While covered by a _veil of frost_, the character gains a +2 enhancement bonus to the attack bonus of any spell with the cold descriptor that they cast, as well as a +2 bonus to Fortitude Defense against fire effects. Any fire-based attack that does damage equal to or greater than the caster’s level automatically negates this version of the spell.
 
 _Material Component:_ A drop of water from melted snow.

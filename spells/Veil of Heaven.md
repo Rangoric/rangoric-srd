@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Personal or 5 ft.; see text"
 target: "You or all creatures within 5 ft.; see text"
 duration: "10 minutes/level (D)"
-saving-throw: "Will half"
+defense: "Will half"
 spell-resistance: "None"
 book: "Advanced Race Guide"
 based-on:
@@ -35,7 +35,7 @@ _Abjuration \[Good\]_
 - **Range**: Personal or 5 ft.; see text
 - **Target**: You or all creatures within 5 ft.; see text
 - **Duration**: 10 minutes/level (D)
-- **Saving Throw**: Will half
+- **Defense**: Will half
 - **Spell Resistance**: None
 
-You surround yourself with a veil of positive energy, making it harder for evil outsiders to harm you. For the duration of this spell, you gain a +2 sacred bonus to AC and on saves. Both of these bonuses apply only against attacks or effects created by outsiders with the evil subtype. You can dismiss this spell as a swift action to deal 1d8 points of damage + 1 point per paladin level to all such outsiders within 5 feet. A Will save halves this damage.
+You surround yourself with a veil of positive energy, making it harder for evil outsiders to harm you. For the duration of this spell, you gain a +2 sacred bonus to AC and to defenses. Both of these bonuses apply only against attacks or effects created by outsiders with the evil subtype. You can dismiss this spell as a swift action to deal 1d8 points of damage + 1 point per paladin level to all such outsiders within 5 feet. This damage attacks Will, and a miss halves it.

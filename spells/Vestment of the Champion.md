@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Armor or shield touched"
 duration: "1 minute/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -33,7 +33,7 @@ _Abjuration_
 - **Range**: Touch
 - **Target**: Armor or shield touched
 - **Duration**: 1 minute/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This functions as _[[rangoric-srd/spells/Magic Vestment|magic vestment]]_, except it only affects armor or a shield you are wearing or carrying. If the armor or shield is worn or carried by anyone other than you, the spell has no effect, but resumes its effect when you are wearing or carrying it again.

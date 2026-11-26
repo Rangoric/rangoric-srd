@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "Cloud spreads in 20-ft. radius, 20 ft. high"
 duration: "Caster level round(s)"
-saving-throw: "Fortitude negates (see text)"
+defense: "Fortitude (see text)"
 spell-resistance: "No"
 book: "Villain Codex"
 based-on:
@@ -37,7 +37,7 @@ _Necromancy_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: Cloud spreads in 20-ft. radius, 20 ft. high
 - **Duration**: Caster level round(s)
-- **Saving Throw**: Fortitude negates (see text)
+- **Defense**: Fortitude (see text)
 - **Spell Resistance**: No
 
-_Virulent miasma_ creates fog like _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_, except that the vapors carry the taint of disease. Living creatures take a -4 penalty on saving throws against disease effects as long as they remain within the cloud and for 1d4+1 rounds after leaving. This effect of the spell allows a Fortitude save to negate it, and it is subject to spell resistance. A creature that succeeds at its saving throw against the fog (or ignores the fog due to spell resistance) is not affected and need not make further saves even if it remains in the fog.
+_Virulent miasma_ creates fog like _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_, except that the vapors carry the taint of disease. Living creatures take a -4 penalty on defenses against disease effects as long as they remain within the cloud and for 1d4+1 rounds after leaving. This effect of the spell attacks Fortitude, a miss negating it, and it is subject to spell resistance. A creature the fog misses (or that ignores the fog due to spell resistance) is not affected and the fog does not attack it again even if it remains in the fog.

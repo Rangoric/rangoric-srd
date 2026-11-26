@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One humanoid creature"
 duration: "1 minute/level"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -41,7 +41,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One humanoid creature
 - **Duration**: 1 minute/level
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 You alter the target's voice to something else. For example, you could make the target's voice high-pitched, husky, or nasal, or change its accent to an accent you are familiar with. If this spell is used as part of a disguise, the target gets a +10 bonus on the Imitation check when trying to fool a listener.

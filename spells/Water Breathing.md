@@ -23,7 +23,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Living creatures touched"
 duration: "2 hours/level; see text"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Water Breathing|Water Breathing (3.5)]]"
@@ -43,7 +43,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Living creatures touched
 - **Duration**: 2 hours/level; see text
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 The transmuted creatures can breathe water freely. Divide the duration evenly among all the creatures you touch.

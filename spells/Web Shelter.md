@@ -21,7 +21,7 @@ casting-time: "1 minute"
 range: "Close (25 ft. + 5 ft./two levels)"
 effect: "5 ft.–10 ft. diameter web sphere or 5 ft.–20 ft. hemisphere"
 duration: "1 hour/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Ultimate Magic"
 based-on:
@@ -42,7 +42,7 @@ _Conjuration (Creation)_
 - **Range**: Close (25 ft. + 5 ft./two levels)
 - **Effect**: 5 ft.–10 ft. diameter web sphere or 5 ft.–20 ft. hemisphere
 - **Duration**: 1 hour/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You create a shelter of slightly sticky webbing. The shelter has a hinged door large enough to accommodate a Medium creature. The opaque walls of the shelter measure 1 inch thick and provide total cover to anyone within it.

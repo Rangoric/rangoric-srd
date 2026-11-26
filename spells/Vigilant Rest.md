@@ -23,7 +23,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "1 living creature touched"
 duration: "8 hour(s)"
-saving-throw: "Will"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Wilderness"
 based-on:
@@ -44,7 +44,7 @@ _Abjuration_
 - **Range**: Touch
 - **Target**: 1 living creature touched
 - **Duration**: 8 hour(s)
-- **Saving Throw**: Will
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 While the target of this spell is asleep, she retains some of her normal powers of perception. While she tunes out harmless sounds such as the crackling of the campfire, crickets, or light breezes, she does not take the normal +10 modifier to the DC of Perception checks she attempts while asleep.
