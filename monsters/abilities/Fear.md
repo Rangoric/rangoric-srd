@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/monster-ability]
 
 # Fear
 
-_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su) or [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Spell-like]] (Sp). In a stat block_: “fear aura (30 ft., DC 17)”, on the Special Attacks line.
+_[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su) or [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Spell-like]] (Sp). In a stat block_: “fear aura (30 ft., +7 vs Will)”, on the Special Attacks line.
 
 Fear attacks can have various effects.
 
@@ -23,6 +23,6 @@ _Fear Aura (Su)_: The use of this ability is a free action. The aura can freeze 
 
 _Fear Cones (Sp) and Rays (Su)_: These effects usually work like the fear spell.
 
-If a fear effect allows a saving throw, it is a Will save (DC 10 + 1/2 fearsome creature’s racial HD + creature’s Cha modifier; the exact DC is given in the creature’s descriptive text). All fear attacks are mind-affecting fear effects.
+If a fear effect attacks a defense, it attacks Will (attack bonus 1/2 fearsome creature’s racial HD + creature’s Cha modifier; the exact bonus is given in the creature’s descriptive text). All fear attacks are mind-affecting fear effects.
 
 Also see [[rangoric-srd/rules/Special Abilities and Conditions#Fear|Fear]] under Special Abilities.

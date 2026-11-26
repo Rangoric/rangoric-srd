@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “fear aura”, on the Special Qualities line.
 
-A quickwood with stored magical energy can activate its fear aura as a standard action. The aura has a radius of 10 feet per spell level of the effect and lasts for 1 round (Will DC 20 negates). Creatures that fail their saving throws become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 1 minute. The DC is Charisma-based and includes a +4 racial bonus. The [[rangoric-srd/monsters/Quickwood|quickwood]] has it.
+A quickwood with stored magical energy can activate its fear aura as a standard action. The aura has a radius of 10 feet per spell level of the effect and lasts for 1 round (+10 vs Will). Creatures it hits become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 1 minute. The attack bonus is Charisma-based and includes a +4 racial bonus. The [[rangoric-srd/monsters/Quickwood|quickwood]] has it.

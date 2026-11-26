@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “frightening gaze”, on the Special Attacks line.
 
-Any creature within a 10-ft. radius upon whom Spring-Heeled Jack's gaze falls is [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 1d6 rounds. A successful DC 13 Will save negates. The save DC is Charisma-based. The [[rangoric-srd/monsters/Spring-Heeled Jack|spring-heeled jack]] has it.
+Any creature within a 10-ft. radius upon whom Spring-Heeled Jack's gaze falls is [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 1d6 rounds. It attacks at +3 vs Will, and a miss negates. The attack bonus is Charisma-based. The [[rangoric-srd/monsters/Spring-Heeled Jack|spring-heeled jack]] has it.
