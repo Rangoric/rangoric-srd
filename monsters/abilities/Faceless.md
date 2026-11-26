@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “faceless”, on the Special Qualities line.
 
-In its natural form, a faceless stalker has no discernible facial features. It gains a +4 bonus on saving throws made to resist attacks or effects that target the senses. This includes gaze attacks, odor-based attacks, sonic attacks and similar attacks. This bonus does not apply to illusions. The [[rangoric-srd/monsters/Faceless Stalker|faceless stalker]] has it.
+In its natural form, a faceless stalker has no discernible facial features. It gains a +4 bonus on defenses against attacks or effects that target the senses. This includes gaze attacks, odor-based attacks, sonic attacks and similar attacks. This bonus does not apply to illusions. The [[rangoric-srd/monsters/Faceless Stalker|faceless stalker]] has it.

@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “hydrophobia”, on the Special Qualities line.
 
-A dossenus cannot swim and always fails Athletics checks. If a dossenus becomes completely submerged in water, it must succeed at a DC 15 Will save on its turn each round or be [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] with fear until it is no longer submerged. The [[rangoric-srd/monsters/Dossenus|dossenus]] has it.
+A dossenus cannot swim and always fails Athletics checks. If a dossenus becomes completely submerged in water, the water attacks it at +5 vs Will on its turn each round, and on a hit it is [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] with fear until it is no longer submerged. The [[rangoric-srd/monsters/Dossenus|dossenus]] has it.
