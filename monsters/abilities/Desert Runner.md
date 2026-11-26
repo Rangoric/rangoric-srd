@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “desert runner”, on the Special Qualities line.
 
-A kasatha has a +4 racial bonus on Constitution checks and Fortitude saves to avoid fatigue, exhaustion, and other ill effects from running, forced marches, starvation, thirst, and hot or cold environments. The [[rangoric-srd/monsters/Kasatha|kasatha]] has it.
+A kasatha has a +4 racial bonus on Constitution checks and to Fortitude Defense against fatigue, exhaustion, and other ill effects from running, forced marches, starvation, thirst, and hot or cold environments. The [[rangoric-srd/monsters/Kasatha|kasatha]] has it.

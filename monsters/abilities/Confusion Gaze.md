@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “confusion gaze”, on the Special Attacks line.
 
-Confusion for 1d4 rounds, 30 feet, Fortitude DC 24 negates. The save DC is Charisma-based. The [[rangoric-srd/monsters/aeons/Bythos|bythos]] has it.
+Confusion for 1d4 rounds, 30 feet, +14 vs Fortitude. The attack bonus is Charisma-based. The [[rangoric-srd/monsters/aeons/Bythos|bythos]] has it.

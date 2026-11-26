@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block_: “cat's luck”, on the Special Qualities line.
 
-Once per day when a catfolk makes a Reflex saving throw, it can roll the saving throw twice and take the better result. It must decide to use this ability before the saving throw is attempted. The [[rangoric-srd/monsters/Catfolk|catfolk]] has it.
+Once per day when an attack targets a catfolk’s Reflex Defense, it can make the attacker roll twice and take the worse result. It must decide to use this ability before the attack is rolled. The [[rangoric-srd/monsters/Catfolk|catfolk]] has it.

@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “digest magic”, on the Special Attacks line.
 
-A magic item swallowed by the creature must make a DC 22 Fortitude save after an hour or become permanently nonmagical. Artifacts are immune to this effect. The save DC is Constitution-based. The [[rangoric-srd/monsters/Lukwata|lukwata]] has it.
+After an hour, the creature attacks a magic item it swallowed at +12 vs Fortitude, and on a hit the item becomes permanently nonmagical. Artifacts are immune to this effect. The attack bonus is Constitution-based. The [[rangoric-srd/monsters/Lukwata|lukwata]] has it.

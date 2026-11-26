@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “cerberus's jaws”, on the Special Attacks line.
 
-Curse—bite; save Fort DC 18; effect dimensional anchoring. A creature affected by this curse cannot utilize extradimensional travel such as teleport, as if it were under the effect of a dimensional anchor spell. The save DC is Constitution-based. The [[rangoric-srd/monsters/Cerberi|cerberi]] has it.
+Curse—bite; attack +8 vs Fortitude; effect dimensional anchoring. A creature affected by this curse cannot utilize extradimensional travel such as teleport, as if it were under the effect of a dimensional anchor spell. The attack bonus is Constitution-based. The [[rangoric-srd/monsters/Cerberi|cerberi]] has it.
