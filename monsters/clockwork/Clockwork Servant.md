@@ -16,7 +16,7 @@ full-attack: "Slam +6 melee (1d4+6); or net +4"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision, fast healing 2, repair clockwork, swift reactions, winding, construct traits, vulnerable to electricity"
-saves: "Fort +0, Ref +4, Will +0"
+defenses: "Fort 10, Ref 14, Will 10"
 abilities: "Str 19, Dex 14, Con —, Int —, Wis 11, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Repair Clockwork|repair clockwork]], swift reactions, winding, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], vulnerable to electricity
-- **Saves**: Fort +0, Ref +4, Will +0
+- **Defenses**: Fort 10, Ref 14, Will 10
 - **Abilities**: Str 19, Dex 14, Con —, Int —, Wis 11, Cha 1
 - **Skills**: —
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]

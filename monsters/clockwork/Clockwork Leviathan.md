@@ -14,9 +14,9 @@ cmd: "45 (can't be tripped)"
 attack: "Bite +25 melee (2d6+11 plus grab) or slam +25 melee (1d8+11 plus grab)"
 full-attack: "Bite +25 melee (2d6+11 plus grab) and 2 slam +25 melee (1d8+11 plus grab)"
 space-reach: "15 ft./15 ft."
-special-attacks: "Breath weapon (60-ft. line, 12d8 fire damage, DC 18 for half, usable every 1d4 rounds, 3/day), grind, swallow whole (2d8+16 slashing damage plus 2d6 fire damage, AC 17, 12 hp)"
+special-attacks: "Breath weapon (60-ft. line, 12d8 fire damage, +8 vs Reflex, a miss halves, usable every 1d4 rounds, 3/day), grind, swallow whole (2d8+16 slashing damage plus 2d6 fire damage, AC 17, 12 hp)"
 special-qualities: "Darkvision 60 ft., low-light vision, swift reactions, winding, damage reduction 10/adamantine, immunity to fire, construct traits, vulnerable to electricity"
-saves: "Fort +5, Ref +11, Will +5"
+defenses: "Fort 15, Ref 21, Will 15"
 abilities: "Str 33, Dex 18, Con —, Int —, Wis 11, Cha 1"
 skills: "Athletics +19, Stealth +8 (+12 in water)"
 skill-ranks: "Athletics 5, Stealth 0"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +25 melee (2d6+11 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or slam +25 melee (1d8+11 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Full Attack**: Bite +25 melee (2d6+11 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 slam +25 melee (1d8+11 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Space/Reach**: 15 ft./15 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (60-ft. line, 12d8 fire damage, DC 18 for half, usable every 1d4 rounds, 3/day), [[rangoric-srd/monsters/abilities/Grind (Clockwork Leviathan)|grind]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d8+16 slashing damage plus 2d6 fire damage, AC 17, 12 hp)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (60-ft. line, 12d8 fire damage, +8 vs Reflex, a miss halves, usable every 1d4 rounds, 3/day), [[rangoric-srd/monsters/abilities/Grind (Clockwork Leviathan)|grind]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d8+16 slashing damage plus 2d6 fire damage, AC 17, 12 hp)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], swift reactions, winding, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], vulnerable to electricity
-- **Saves**: Fort +5, Ref +11, Will +5
+- **Defenses**: Fort 15, Ref 21, Will 15
 - **Abilities**: Str 33, Dex 18, Con —, Int —, Wis 11, Cha 1
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+12 in water)
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]

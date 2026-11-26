@@ -14,9 +14,9 @@ cmd: "18"
 attack: "Masterwork morningstar +9 melee (1d8+6) or tongue +7 melee touch (sticky tongue) or masterwork javelin +5 ranged (1d6+4)"
 full-attack: "Masterwork morningstar +9 melee (1d8+6) and tongue +2 melee touch (sticky tongue); or masterwork javelin +5 ranged (1d6+4)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Terrifying croak (DC 13)"
+special-attacks: "Terrifying croak (+3 vs Will)"
 special-qualities: "Darkvision 60 ft., low-light vision, hold breath, swamp stride"
-saves: "Fort +8, Ref +2, Will +2"
+defenses: "Fort 18, Ref 12, Will 12"
 abilities: "Str 19, Dex 13, Con 16, Int 6, Wis 13, Cha 10"
 skills: "Acrobatics +4, Athletics +12 (+28 jumping), Intimidation +9, Perception +5, Stealth +0 (+8 in swamps)"
 skill-ranks: "Acrobatics 3, Athletics 5, Intimidation 6, Perception 1, Stealth 0"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Morningstar|morningstar]] +9 melee (1d8+6) or tongue +7 melee touch (sticky tongue) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Javelin|javelin]] +5 ranged (1d6+4)
 - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Morningstar|morningstar]] +9 melee (1d8+6) and tongue +2 melee touch (sticky tongue); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Javelin|javelin]] +5 ranged (1d6+4)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/boggard/Boggard#^terrifying-croak|Terrifying croak]] (DC 13)
+- **Special Attacks**: [[rangoric-srd/monsters/boggard/Boggard#^terrifying-croak|Terrifying croak]] (+3 vs Will)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/boggard/Boggard#^swamp-stride|swamp stride]]
-- **Saves**: Fort +8, Ref +2, Will +2
+- **Defenses**: Fort 18, Ref 12, Will 12
 - **Abilities**: Str 19, Dex 13, Con 16, Int 6, Wis 13, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +12 (+28 jumping), [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +0 (+8 in swamps)
 - **Feats**: [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (morningstar)

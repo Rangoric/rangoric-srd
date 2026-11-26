@@ -14,9 +14,9 @@ cmd: "29 (33 vs. trip)"
 attack: "Bite +14 melee (1d8+7) or hoof +14 melee (1d6+3)"
 full-attack: "Bite +14 melee (1d8+7) and 2 hooves +9 melee (1d6+3)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Powerful kick, trample (1d6+7, DC 21)"
+special-attacks: "Powerful kick, trample (1d6+7, +11 vs Reflex)"
 special-qualities: "Darkvision 60 ft., low-light vision, difficult to create, swift reactions, winding, construct traits, vulnerable to electricity"
-saves: "Fort +2, Ref +5, Will +2"
+defenses: "Fort 12, Ref 15, Will 12"
 abilities: "Str 24, Dex 13, Con —, Int —, Wis 10, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +14 melee (1d8+7) or hoof +14 melee (1d6+3)
 - **Full Attack**: Bite +14 melee (1d8+7) and 2 hooves +9 melee (1d6+3)
 - **Space/Reach**: 10 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Kick|Powerful kick]], [[rangoric-srd/monsters/abilities/Trample|trample]] (1d6+7, DC 21)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Kick|Powerful kick]], [[rangoric-srd/monsters/abilities/Trample|trample]] (1d6+7, +11 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], difficult to create, swift reactions, winding, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], vulnerable to electricity
-- **Saves**: Fort +2, Ref +5, Will +2
+- **Defenses**: Fort 12, Ref 15, Will 12
 - **Abilities**: Str 24, Dex 13, Con —, Int —, Wis 10, Cha 1
 - **Skills**: —
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]

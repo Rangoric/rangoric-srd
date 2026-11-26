@@ -16,7 +16,7 @@ full-attack: "2 masterwork kukris +15/+10 melee (1d4+5/18–20) and 2 claws +9 m
 space-reach: "5 ft./5 ft."
 special-attacks: "Dance of disaster, spell-like abilities"
 special-qualities: "All-around vision, darkvision 60 ft., regeneration 5 (good weapons, good spells), elusive (30 ft.), telepathy 100 ft., damage reduction 5/good, immunity to curse effects, disease, flanking and poison, resistance to acid 10 and electricity 10, spell resistance 18"
-saves: "Fort +6, Ref +11, Will +9"
+defenses: "Fort 16, Ref 21, Will 19"
 abilities: "Str 20, Dex 17, Con 17, Int 13, Wis 16, Cha 16"
 skills: "Acrobatics +15, Athletics +5 (+9 jumping), Deception +15, Escape Artist +21, Intimidation +11, Investigation +5, Perception +19, Performance (dance) +14, Stealth +15, Theology +9"
 skill-ranks: "Acrobatics 9, Athletics 0, Deception 9, Escape Artist 9, Intimidation 5, Perception 9, Performance (dance) 10, Stealth 9, Theology 5"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Dance of Disaster|Dance of disaster]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (good weapons, good spells), elusive (30 ft.), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to curse effects, disease, flanking and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and electricity 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 18
-- **Saves**: Fort +6, Ref +11, Will +9
+- **Defenses**: Fort 16, Ref 21, Will 19
 - **Abilities**: Str 20, Dex 17, Con 17, Int 13, Wis 16, Cha 16
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +5 (+9 jumping), [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Investigation|Investigation]] +5, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Performance|Performance]] (dance) +14, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +9
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]]
@@ -78,4 +78,4 @@ Adhukaits speak Common and Infernal.
 
 **[[rangoric-srd/monsters/abilities/Dance of Disaster|Dance of Disaster]] (Su)**: Whenever an adhukait hits with a melee attack during a full-attack action, it can move 10 feet before making its next attack. The adhukait's normal speed does not limit this movement—it can move 10 feet after any successful hit among its four attacks, as long as it has another attack to make.
 
-**[[rangoric-srd/monsters/abilities/Dual Mind|Dual Mind]] (Su)**: An adhukait is a single creature with two distinct minds, so it can attempt two saving throws against mind-affecting effects. If either saving throw succeeds, the mind-affecting effect fails to affect the adhukait.
+**[[rangoric-srd/monsters/abilities/Dual Mind|Dual Mind]] (Su)**: An adhukait is a single creature with two distinct minds, so a mind-affecting effect that attacks it rolls twice and takes the worse result.

@@ -16,7 +16,7 @@ full-attack: "Bite +14 melee (1d8+6) and 2 claws +14 melee (1d6+6)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., scent, change shape (goblin or wolf, polymorph), damage reduction 10/magic"
-saves: "Fort +9, Ref +10, Will +10"
+defenses: "Fort 19, Ref 20, Will 20"
 abilities: "Str 23, Dex 15, Con 19, Int 18, Wis 18, Cha 18"
 skills: "Acrobatics +14, Athletics +15, Deception +16, Fieldcraft +16, Intimidation +16, Perception +16, Persuasion +16, Sense Motive +16, Stealth +10"
 skill-ranks: "Acrobatics 9, Athletics 6, Deception 9, Fieldcraft 9, Intimidation 9, Perception 9, Persuasion 9, Sense Motive 9, Stealth 9"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (goblin or wolf, polymorph), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic
-- **Saves**: Fort +9, Ref +10, Will +10
+- **Defenses**: Fort 19, Ref 20, Will 20
 - **Abilities**: Str 23, Dex 15, Con 19, Int 18, Wis 18, Cha 18
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
@@ -72,4 +72,4 @@ Greater barghests speak Common, Goblin and Infernal.
 
 Occasionally, a greater barghest uses a magic two-handed weapon in combat instead of its claws. It can also make one bite attack each round.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th): At will—_[[rangoric-srd/spells/Blink|blink]]_, _[[rangoric-srd/spells/Invisibility Sphere|invisibility sphere]]_, _[[rangoric-srd/spells/Levitate|levitate]]_, _[[rangoric-srd/spells/Misdirection|misdirection]]_; 1/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 18), _[[rangoric-srd/spells/Crushing Despair|crushing despair]]_ (DC 18), _[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Bull’s Strength, Mass|mass bull's strength]]_, _[[rangoric-srd/spells/Enlarge Person, Mass|mass enlarge person]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th): At will—_[[rangoric-srd/spells/Blink|blink]]_, _[[rangoric-srd/spells/Invisibility Sphere|invisibility sphere]]_, _[[rangoric-srd/spells/Levitate|levitate]]_, _[[rangoric-srd/spells/Misdirection|misdirection]]_; 1/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (+8 vs Will), _[[rangoric-srd/spells/Crushing Despair|crushing despair]]_ (+8 vs Will), _[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Bull’s Strength, Mass|mass bull's strength]]_, _[[rangoric-srd/spells/Enlarge Person, Mass|mass enlarge person]]_.

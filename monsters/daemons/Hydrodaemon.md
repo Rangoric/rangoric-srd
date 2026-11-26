@@ -16,7 +16,7 @@ full-attack: "Bite +13 melee (1d8+4 plus grab) and 2 claws +13 melee (1d6+4); or
 space-reach: "10 ft./10 ft."
 special-attacks: "Rake (2 claws +13, 1d6+4), spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect magic, telepathy 100 ft., amphibious, glide, damage reduction 10/cold iron or silver, immunity to acid, death effects, disease, poison and waters of the River Styx, resistance to cold 10, electricity 10 and fire 10, spell resistance 19"
-saves: "Fort +11, Ref +9, Will +3"
+defenses: "Fort 21, Ref 19, Will 13"
 abilities: "Str 18, Dex 15, Con 18, Int 9, Wis 11, Cha 14"
 skills: "Acrobatics +0, Athletics +21, Intimidation +14, Perception +15, Sense Motive +12, Stealth +10, Theology +10"
 skill-ranks: "Acrobatics 0, Athletics 14, Intimidation 9, Perception 12, Sense Motive 9, Stealth 9, Theology 8"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rake|Rake]] (2 claws +13, 1d6+4), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Glide (Hydrodaemon)|glide]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron or silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, death effects, disease, poison and waters of the River Styx, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
-- **Saves**: Fort +11, Ref +9, Will +3
+- **Defenses**: Fort 21, Ref 19, Will 13
 - **Abilities**: Str 18, Dex 15, Con 18, Int 9, Wis 11, Cha 14
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +0, [[rangoric-srd/skills/Athletics|Athletics]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +10, [[rangoric-srd/skills/Theology|Theology]] +10
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -75,4 +75,4 @@ Hydrodaemons speak Abyssal and Infernal.
 
 **[[rangoric-srd/monsters/abilities/Glide (Hydrodaemon)|Glide]] (Ex)**: A hydrodaemon can launch itself into the air and glide along for 1 minute, gaining a fly speed of 40 feet with average maneuverability. While gliding, the hydrodaemon gains the pounce ability.
 
-**Sleep Spittle (Su)**: A hydrodaemon can spit at a single target within 20 feet, making a ranged touch attack as a standard action. A target hit by this spittle must succeed on a DC 19 Will save or fall asleep for 6 rounds. The save DC is Constitution-based.
+**Sleep Spittle (Su)**: A hydrodaemon can spit at a single target within 20 feet, making a ranged touch attack as a standard action. A target hit by this spittle is attacked at +9 vs Will, and on a hit falls asleep for 6 rounds. The attack bonus is Constitution-based.

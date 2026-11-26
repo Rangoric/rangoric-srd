@@ -16,7 +16,7 @@ full-attack: "Masterwork falchion +11 melee (2d4+9/18–20) and bite +5 melee (1
 space-reach: "5 ft./5 ft."
 special-attacks: "Rage (8 rounds/day), rage powers (animal fury)"
 special-qualities: "Darkvision 60 ft., scent, uncanny dodge, fast movement, stalker"
-saves: "Fort +9, Ref +8, Will +3"
+defenses: "Fort 19, Ref 18, Will 13"
 abilities: "Str 22, Dex 19, Con 18, Int 10, Wis 9, Cha 10"
 skills: "Fieldcraft +4, Intimidation +17, Perception +9, Stealth +11"
 skill-ranks: "Fieldcraft 2, Intimidation 14, Perception 7, Stealth 4"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (8 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Animal Fury (Rage Power)|animal fury]])
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/monsters/bugbear/Bugbear|stalker]]
-- **Saves**: Fort +9, Ref +8, Will +3
+- **Defenses**: Fort 19, Ref 18, Will 13
 - **Abilities**: Str 22, Dex 19, Con 18, Int 10, Wis 9, Cha 10
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Hurtful|Hurtful]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

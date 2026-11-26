@@ -14,9 +14,9 @@ cmd: "23"
 attack: "+1 terbutje +15 melee (1d8+9) or tongue +12 melee touch (sticky tongue) or masterwork javelin +9 ranged (1d6+5)"
 full-attack: "+1 terbutje +15/+10 melee (1d8+9) and tongue +7 melee touch (sticky tongue); or masterwork javelin +9 ranged (1d6+5)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Terrifying croak (DC 12), weapon training (heavy blades +1)"
+special-attacks: "Terrifying croak (+2 vs Will), weapon training (heavy blades +1)"
 special-qualities: "Darkvision 60 ft., low-light vision, bravery +1, armor training 1, hold breath, swamp stride"
-saves: "Fort +10, Ref +5, Will +3 (+1 vs. fear)"
+defenses: "Fort 20, Ref 15, Will 13 (+1 vs. fear)"
 abilities: "Str 20, Dex 13, Con 16, Int 8, Wis 13, Cha 8"
 skills: "Acrobatics +2, Athletics +10 (+26 jumping), Fieldcraft +8, Intimidation +6, Perception +5, Stealth +0 (+8 in swamps)"
 skill-ranks: "Acrobatics 1, Athletics 2, Fieldcraft 4, Intimidation 4, Perception 1, Stealth 0"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: +1 [[rangoric-srd/equipment/weapons/Terbutje|terbutje]] +15 melee (1d8+9) or tongue +12 melee touch (sticky tongue) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Javelin|javelin]] +9 ranged (1d6+5)
 - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Terbutje|terbutje]] +15/+10 melee (1d8+9) and tongue +7 melee touch (sticky tongue); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Javelin|javelin]] +9 ranged (1d6+5)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/boggard/Boggard#^terrifying-croak|Terrifying croak]] (DC 12), [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (heavy blades +1)
+- **Special Attacks**: [[rangoric-srd/monsters/boggard/Boggard#^terrifying-croak|Terrifying croak]] (+2 vs Will), [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (heavy blades +1)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/boggard/Boggard#^swamp-stride|swamp stride]]
-- **Saves**: Fort +10, Ref +5, Will +3 (+1 vs. fear)
+- **Defenses**: Fort 20, Ref 15, Will 13 (+1 vs. fear)
 - **Abilities**: Str 20, Dex 13, Con 16, Int 8, Wis 13, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+26 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +0 (+8 in swamps)
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (terbutje), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (terbutje)

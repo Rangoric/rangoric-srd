@@ -16,7 +16,7 @@ full-attack: "+1 falchion +15/+10 melee (2d6+13/18–20); or masterwork javelin 
 space-reach: "10 ft./10 ft."
 special-attacks: "Rage (16 rounds/day), rage powers (animal fury, powerful blow)"
 special-qualities: "Darkvision 60 ft., scent, improved uncanny dodge, trap sense +1, fast movement, stalker"
-saves: "Fort +12, Ref +8, Will +5"
+defenses: "Fort 22, Ref 18, Will 15"
 abilities: "Str 26, Dex 17, Con 22, Int 10, Wis 10, Cha 10"
 skills: "Fieldcraft +10, Intimidation +23, Perception +14, Stealth +10"
 skill-ranks: "Fieldcraft 7, Intimidation 20, Perception 11, Stealth 8"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (16 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Animal Fury (Rage Power)|animal fury]], [[rangoric-srd/class-options/rage-powers/Powerful Blow (Rage Power)|powerful blow]])
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +1, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/monsters/bugbear/Bugbear|stalker]]
-- **Saves**: Fort +12, Ref +8, Will +5
+- **Defenses**: Fort 22, Ref 18, Will 15
 - **Abilities**: Str 26, Dex 17, Con 22, Int 10, Wis 10, Cha 10
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +23, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Hurtful|Hurtful]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Pile On|Pile On]], [[rangoric-srd/feats/Power Attack|Power Attack]]

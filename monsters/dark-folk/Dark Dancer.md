@@ -16,7 +16,7 @@ full-attack: "Club +2 melee (1d4); or dagger +6 melee (1d3/19–20 plus poison)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Bardic performance (7 rounds), dark curse, death throes, sneak attack +1d6, poison"
 special-qualities: "See in darkness, poison use, light blindness"
-saves: "Fort +2, Ref +7, Will +0"
+defenses: "Fort 12, Ref 17, Will 10"
 abilities: "Str 11, Dex 19, Con 14, Int 8, Wis 10, Cha 13"
 skills: "Athletics +4, Perception +4, Performance (dance) +2, Sleight of Hand +5, Stealth +12"
 skill-ranks: "Athletics 0, Perception 0, Performance (dance) 3, Sleight of Hand 1, Stealth 0"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bardic Performance|Bardic performance]] (7 rounds), [[rangoric-srd/monsters/abilities/Dark Curse|dark curse]], death throes, sneak attack +1d6, [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/See in Darkness|See in darkness]], [[rangoric-srd/monsters/abilities/Poison|poison]] use, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
-- **Saves**: Fort +2, Ref +7, Will +0
+- **Defenses**: Fort 12, Ref 17, Will 10
 - **Abilities**: Str 11, Dex 19, Con 14, Int 8, Wis 10, Cha 13
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +4, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Performance|Performance]] (dance) +2, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -75,6 +75,6 @@ Dark dancers speak Dark Folk.
 
 **[[rangoric-srd/monsters/abilities/Bardic Performance|Bardic Performance]] (Su)**: A dark dancer can use its dancing to help its allies. A dark dancer can use bardic performance as a 2nd-level bard, but only for distraction and inspire courage effects.
 
-**[[rangoric-srd/monsters/abilities/Dark Curse|Dark Curse]] (Su)**: As a standard action, a dark dancer can make a touch attack against a foe and curse it. The foe must succeed at a DC 12 Will saving throw to resist the effects. Creatures that fail the saving throw take a -2 penalty on all Dexterity and Charisma-based skill checks. This curse is permanent, but the victim of this curse can attempt a new saving throw each day.
+**[[rangoric-srd/monsters/abilities/Dark Curse|Dark Curse]] (Su)**: As a standard action, a dark dancer can make a touch attack against a foe and curse it. The curse attacks the foe at +2 vs Will, and a miss resists the effects. Creatures it hits take a -2 penalty on all Dexterity and Charisma-based skill checks. This curse is permanent, but it attacks the victim again each day, and a miss ends it.
 
-**Death Throes (Su)**: When a dark dancer is slain, its body combusts in a flash of bright white light, leaving its gear in a heap on the ground. All creatures within a 10-foot burst must succeed at a DC 13 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] for 1d6 rounds. Other dark folk within 20 feet must succeed at a DC 13 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round. The save DC is Constitution-based.
+**Death Throes (Su)**: When a dark dancer is slain, its body combusts in a flash of bright white light, leaving its gear in a heap on the ground. All creatures within a 10-foot burst are attacked at +3 vs Fortitude, and on a hit are [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] for 1d6 rounds. Other dark folk within 20 feet are attacked at +3 vs Will, and on a hit are [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round. The attack bonus is Constitution-based.

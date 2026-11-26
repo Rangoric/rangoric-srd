@@ -16,7 +16,7 @@ full-attack: "2 slams +99 (12d6+35) melee"
 space-reach: "30 ft./30 ft."
 special-attacks: "Breath weapon"
 special-qualities: "Construct traits, magic immunity, antimagic field, rustproof, DR 20/Epic and adamantine"
-saves: "Fort +32, Ref +30, Will +33"
+defenses: "Fort 42, Ref 40, Will 43"
 abilities: "Str 80, Dex 7, Con -,Int 9, Wis 12, Cha 1"
 skills: "Athletics +134 (+142 jumping)"
 skill-ranks: "Athletics 96"
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 30 ft./30 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]]
 - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], magic immunity, [[rangoric-srd/spells/Antimagic Field|antimagic field]], rustproof, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 20/Epic and adamantine
-- **Saves**: Fort +32, Ref +30, Will +33
+- **Defenses**: Fort 42, Ref 40, Will 43
 - **Abilities**: Str 80, Dex 7, Con -,Int 9, Wis 12, Cha 1
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +134 (+142 jumping)
 - **Climate/Terrain**: Any
@@ -57,7 +57,7 @@ tags: [rangoric, rangoric/monster]
 - **Alignment**: Usually neutral
 - **Advancement**: 97-288 HD (Colossal)
 
-Breath Weapon (Su): Cone of poisonous gas, 80 feet, as a free action every 1d4 rounds, initial damage 3d6 temporary Con, secondary damage 2d6 temporary Con, Fort half (DC 58). The DC is Constitution-based.
+Breath Weapon (Su): Cone of poisonous gas, 80 feet, as a free action every 1d4 rounds, initial damage 3d6 temporary Con, secondary damage 2d6 temporary Con, +48 vs Fortitude; a miss halves. The attack bonus is Constitution-based.
 
 Magic Immunity (Ex): An iron colossus is immune to all magical and supernatural effects, except as follows. An electricity effect restores 1 hit point to the iron colossus for each 3 points of damage it would otherwise deal.
 

@@ -16,7 +16,7 @@ full-attack: "Battleaxe +9 melee (1d8+7/×3); or javelin +7 ranged (1d6+5)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., scent, thuggery, trackless step, resistance to cold 5"
-saves: "Fort +4, Ref +8, Will +3"
+defenses: "Fort 14, Ref 18, Will 13"
 abilities: "Str 20, Dex 17, Con 15, Int 12, Wis 13, Cha 12"
 skills: "Athletics +11, Fieldcraft +7, Intimidation +11, Perception +11, Stealth +16"
 skill-ranks: "Athletics 3, Fieldcraft 3, Intimidation 3, Perception 3, Stealth 6"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Thuggery|thuggery]], [[rangoric-srd/monsters/abilities/Trackless|trackless]] step, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 5
-- **Saves**: Fort +4, Ref +8, Will +3
+- **Defenses**: Fort 14, Ref 18, Will 13
 - **Abilities**: Str 20, Dex 17, Con 15, Int 12, Wis 13, Cha 12
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (battleaxe), [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Power Attack|Power Attack]]

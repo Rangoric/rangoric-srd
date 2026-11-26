@@ -14,9 +14,9 @@ cmd: "26"
 attack: "+1 handaxe +14 melee (1d6+6/19–20/×3) or tongue +14 melee touch (sticky tongue) or javelin +10 ranged (1d6+5)"
 full-attack: "+1 handaxe +14/+9 melee (1d6+6/19–20/×3) and +1 handaxe +14/+9 melee (1d6+6/19–20/×3) and tongue +9 melee touch (sticky tongue); or javelin +10 ranged (1d6+5)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Combat style (two-weapon), favored enemy (dragons +2, humans +4), terrifying croak (DC 12)"
+special-attacks: "Combat style (two-weapon), favored enemy (dragons +2, humans +4), terrifying croak (+2 vs Will)"
 special-qualities: "Darkvision 60 ft., low-light vision, favored terrain (swamp +2), hold breath, hunter's bond (companions), swamp stride, track +3, wild empathy +6, woodland stride"
-saves: "Fort +12, Ref +8, Will +5"
+defenses: "Fort 22, Ref 18, Will 15"
 abilities: "Str 20, Dex 13, Con 16, Int 8, Wis 13, Cha 8"
 skills: "Acrobatics +5, Animal Handling +4, Athletics +17 (+33 jumping), Fieldcraft +14, Nature +5, Perception +18, Stealth +14 (+22 in swamps)"
 skill-ranks: "Acrobatics 1, Animal Handling 2, Athletics 9, Fieldcraft 10, Nature 3, Perception 14, Stealth 10"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: +1 [[rangoric-srd/equipment/weapons/Handaxe|handaxe]] +14 melee (1d6+6/19–20/×3) or tongue +14 melee touch (sticky tongue) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +10 ranged (1d6+5)
 - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Handaxe|handaxe]] +14/+9 melee (1d6+6/19–20/×3) and +1 [[rangoric-srd/equipment/weapons/Handaxe|handaxe]] +14/+9 melee (1d6+6/19–20/×3) and tongue +9 melee touch (sticky tongue); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +10 ranged (1d6+5)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (two-weapon), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (dragons +2, humans +4), [[rangoric-srd/monsters/boggard/Boggard#^terrifying-croak|terrifying croak]] (DC 12)
+- **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (two-weapon), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (dragons +2, humans +4), [[rangoric-srd/monsters/boggard/Boggard#^terrifying-croak|terrifying croak]] (+2 vs Will)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (swamp +2), [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/monsters/boggard/Boggard#^swamp-stride|swamp stride]], [[rangoric-srd/classes/Ranger#^ranger-track|track]] +3, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +6, [[rangoric-srd/classes/Ranger#^ranger-woodland-stride|woodland stride]]
-- **Saves**: Fort +12, Ref +8, Will +5
+- **Defenses**: Fort 22, Ref 18, Will 15
 - **Abilities**: Str 20, Dex 13, Con 16, Int 8, Wis 13, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +17 (+33 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +14 (+22 in swamps)
 - **Feats**: [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (handaxe), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (handaxe)

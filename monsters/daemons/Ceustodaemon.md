@@ -14,9 +14,9 @@ cmd: "24"
 attack: "Bite +11 melee (2d6+4) or claw +11 melee (1d6+4)"
 full-attack: "Bite +11 melee (2d6+4) and 2 claws +11 melee (1d6+4)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Breath weapon (30-ft. cone; 6d6 fire damage; Reflex DC 17 for half; usable once every 1d4 rounds), spell-like abilities"
+special-attacks: "Breath weapon (30-ft. cone; 6d6 fire damage; +7 vs Reflex; a miss halves; usable once every 1d4 rounds), spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect good, detect magic, see invisibility, telepathy 100 ft., drawn to service, damage reduction 10/good or silver, immunity to acid, death effects, disease, mind-affecting effects, paralysis, poison, polymorph effects and sleep effects, resistance to cold 10, electricity 10 and fire 10"
-saves: "Fort +9, Ref +3, Will +8"
+defenses: "Fort 19, Ref 13, Will 18"
 abilities: "Str 18, Dex 13, Con 16, Int 11, Wis 14, Cha 15"
 skills: "Deception +13, Fieldcraft +9, Intimidation +11, Perception +16, Sense Motive +13, Stealth +8, Theology +9"
 skill-ranks: "Deception 8, Fieldcraft 4, Intimidation 6, Perception 10, Sense Motive 10, Stealth 8, Theology 6"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +11 melee (2d6+4) or claw +11 melee (1d6+4)
 - **Full Attack**: Bite +11 melee (2d6+4) and 2 claws +11 melee (1d6+4)
 - **Space/Reach**: 10 ft./10 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (30-ft. cone; 6d6 fire damage; Reflex DC 17 for half; usable once every 1d4 rounds), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (30-ft. cone; 6d6 fire damage; +7 vs Reflex; a miss halves; usable once every 1d4 rounds), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect good, detect magic, see invisibility, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Drawn to Service|drawn to service]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good or silver, immunity to acid, death effects, disease, mind-affecting effects, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]], poison, polymorph effects and sleep effects, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, electricity 10 and fire 10
-- **Saves**: Fort +9, Ref +3, Will +8
+- **Defenses**: Fort 19, Ref 13, Will 18
 - **Abilities**: Str 18, Dex 13, Con 16, Int 11, Wis 14, Cha 15
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +8, [[rangoric-srd/skills/Theology|Theology]] +9
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -75,6 +75,6 @@ Ceustodaemons speak Abyssal and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +10): Constant—_[[rangoric-srd/spells/Detect Good|detect good]], [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/See Invisibility|see invisibility]]_; At will—_[[rangoric-srd/spells/Dimension Door|dimension door]]_; 3/day—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Fly|fly]]_; 1/day—_[[rangoric-srd/spells/Hold Monster|hold monster]]_ (DC 17), _[[rangoric-srd/spells/Slow|slow]]_ (DC 15).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +10): Constant—_[[rangoric-srd/spells/Detect Good|detect good]], [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/See Invisibility|see invisibility]]_; At will—_[[rangoric-srd/spells/Dimension Door|dimension door]]_; 3/day—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Fly|fly]]_; 1/day—_[[rangoric-srd/spells/Hold Monster|hold monster]]_ (+7 vs Will), _[[rangoric-srd/spells/Slow|slow]]_ (+5 vs Will).
 
-**[[rangoric-srd/monsters/abilities/Drawn to Service|Drawn to Service]] (Su)**: When brought to another plane with a planar binding or planar ally spell (or any similar calling effect), ceustodaemons take a –5 penalty on the initial Will save and on their Charisma check to refuse service. Ceustodaemons also take a –5 penalty on saves against binding, planar binding, and other spells designed to bind a creature to a particular plane as long as the daemon is commanded to serve as a guardian for a single area or small complex.
+**[[rangoric-srd/monsters/abilities/Drawn to Service|Drawn to Service]] (Su)**: When brought to another plane with a planar binding or planar ally spell (or any similar calling effect), ceustodaemons take a –5 penalty to Will Defense against the spell's first attack and on their Charisma check to refuse service. Ceustodaemons also take a –5 penalty on defenses against binding, planar binding, and other spells designed to bind a creature to a particular plane as long as the daemon is commanded to serve as a guardian for a single area or small complex.

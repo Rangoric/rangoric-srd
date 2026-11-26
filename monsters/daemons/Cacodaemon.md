@@ -16,7 +16,7 @@ full-attack: "Bite +6 melee (1d4+1 plus disease)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Soul lock, disease, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect good, detect magic, fast healing 2, telepathy 100 ft., change shape (2 of the following forms: lizard, octopus, Small scorpion, venomous snake, polymorph), damage reduction 5/good or silver, immunity to acid, death effects, disease and poison, resistance to cold 10, electricity 10 and fire 10"
-saves: "Fort +2, Ref +5, Will +4"
+defenses: "Fort 12, Ref 15, Will 14"
 abilities: "Str 12, Dex 11, Con 13, Int 8, Wis 13, Cha 12"
 skills: "Acrobatics +18, Deception +7, Perception +7, Stealth +14, Theology +5"
 skill-ranks: "Acrobatics 11, Deception 3, Perception 3, Stealth 3, Theology 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Soul Lock|Soul lock]], [[rangoric-srd/monsters/abilities/Disease|disease]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect good, detect magic, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (2 of the following forms: lizard, octopus, Small scorpion, venomous snake, polymorph), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good or silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, death effects, disease and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, electricity 10 and fire 10
-- **Saves**: Fort +2, Ref +5, Will +4
+- **Defenses**: Fort 12, Ref 15, Will 14
 - **Abilities**: Str 12, Dex 11, Con 13, Int 8, Wis 13, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +14, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
@@ -69,9 +69,9 @@ Cacodaemons speak Abyssal, Common and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +7): Constant—_[[rangoric-srd/spells/Detect Good|detect good]], [[rangoric-srd/spells/Detect Magic|detect magic]]_; At will—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 3/day—_[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]_ (DC 12); 1/week—_[[rangoric-srd/spells/Commune|commune]]_ (CL 12th, six questions).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +7): Constant—_[[rangoric-srd/spells/Detect Good|detect good]], [[rangoric-srd/spells/Detect Magic|detect magic]]_; At will—_[[rangoric-srd/spells/Invisibility|invisibility]]_ (self only); 3/day—_[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]_ (+2); 1/week—_[[rangoric-srd/spells/Commune|commune]]_ (CL 12th, six questions).
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Su)**: [[rangoric-srd/rules/afflictions/Cacodaemonia|Cacodaemonia]]: Bite—injury; _save_ Fort DC 12; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d2 Wis damage; _cure_ 2 consecutive saves. In addition to the normal effects of the disease, as long as a victim is infected, the cacodaemon can telepathically communicate with the creature over any distance (as long as they remain on the same plane).
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Su)**: [[rangoric-srd/rules/afflictions/Cacodaemonia|Cacodaemonia]]: Bite—injury; _attack_ +2 vs Fortitude; _onset_ 1 day; _frequency_ 1/day; _effect_ 1d2 Wis damage; _cure_ 2 consecutive misses. In addition to the normal effects of the disease, as long as a victim is infected, the cacodaemon can telepathically communicate with the creature over any distance (as long as they remain on the same plane).
 
 **[[rangoric-srd/monsters/abilities/Soul Lock|Soul Lock]] (Su)**: Once per day as a full-round action, a cacodaemon can ingest the spirit of any sentient creature that has died within the last minute. This causes a soul gem to grow inside of the cacodaemon's gut, which it can regurgitate as a standard action. A soul gem is a fine-sized object with 1 hit point and hardness 2. Destroying a soul gem frees the soul within, though it does not return the deceased creature to life. This is a death effect. Any attempt to resurrect a body whose soul is trapped in a soul gem requires a DC 12 caster level check. Failure results in the spell having no effect, while success shatters the victim's soul gem and returns the creature to life as normal. If the soul gem rests in an unholy location, such as that created by the spell unhallow, the DC of this caster level check increases by +2. The caster level check DC is Charisma-based.
 

@@ -14,9 +14,9 @@ cmd: "—"
 attack: "Swarm (2d6 plus poison)"
 full-attack: "Swarm (2d6 plus poison)"
 space-reach: "10 ft./0 ft."
-special-attacks: "Distraction (DC 13), poison"
+special-attacks: "Distraction (+3 vs Fortitude), poison"
 special-qualities: "Darkvision 60 ft., tremorsense 30 ft, swarm traits, immunity to weapon damage"
-saves: "Fort +5, Ref +7, Will +3"
+defenses: "Fort 15, Ref 17, Will 13"
 abilities: "Str 1, Dex 19, Con 8, Int —, Wis 10, Cha 2"
 skills: "Athletics +12, Perception +4"
 skill-ranks: "Athletics 14, Perception 0"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Swarm (2d6 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Full Attack**: Swarm (2d6 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Space/Reach**: 10 ft./0 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (DC 13), [[rangoric-srd/monsters/abilities/Poison|poison]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Distraction|Distraction]] (+3 vs Fortitude), [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to weapon damage
-- **Saves**: Fort +5, Ref +7, Will +3
+- **Defenses**: Fort 15, Ref 17, Will 13
 - **Abilities**: Str 1, Dex 19, Con 8, Int —, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Perception|Perception]] +4
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -68,4 +68,4 @@ tags: [rangoric, rangoric/monster]
 
 A centipede swarm seeks to surround and attack any living prey it encounters.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Centipede Swarm Venom|Centipede Swarm Venom]]: Bite—injury; _save_ Fort DC 13; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Dex damage; _cure_ 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Centipede Swarm Venom|Centipede Swarm Venom]]: Bite—injury; _attack_ +3 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Dex damage; _cure_ 1 miss. The attack bonus is Constitution-based and includes a +2 racial bonus.

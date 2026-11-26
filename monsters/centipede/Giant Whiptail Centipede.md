@@ -15,7 +15,7 @@ full-attack: "Bite +8 melee (2d6+7 plus poison) and tail slap +3 melee (1d3 nonl
 space-reach: "15 ft./15 ft. (20 ft. with tail slap)"
 special-attacks: "Poison"
 special-qualities: "Darkvision 60 ft., compression, immunity to mind-affecting effects"
-saves: "Fort +9, Ref +1, Will +1"
+defenses: "Fort 19, Ref 11, Will 11"
 abilities: "Str 25, Dex 11, Con 21, Int —, Wis 10, Cha 2"
 skills: "Athletics +15, Perception +4, Stealth +0"
 skill-ranks: "Athletics 5, Perception 0, Stealth 0"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft. (20 ft. with tail slap)
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +9, Ref +1, Will +1
+- **Defenses**: Fort 19, Ref 11, Will 11
 - **Abilities**: Str 25, Dex 11, Con 21, Int —, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +0
 - **Feats**: —
@@ -66,6 +66,6 @@ Whiptail centipedes are carrion eaters, though corpses large enough to satiate t
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Whiptail Centipede Venom|Giant Whiptail Centipede Venom]]: Bite—injury; _save_ Fort DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Dex; _cure_ 1 save. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Whiptail Centipede Venom|Giant Whiptail Centipede Venom]]: Bite—injury; _attack_ +7 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Dex; _cure_ 1 miss. The attack bonus is Constitution-based.
 
 **Tail Slap (Ex)**: A giant whiptail centipede's tail slap deals nonlethal damage and gains no bonus from its Strength score on damage dealt.

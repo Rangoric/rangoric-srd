@@ -14,9 +14,9 @@ cmd: "18"
 attack: "Masterwork greatclub +12 melee (1d10+9) or tongue +10 melee touch (sticky tongue) or javelin +4 ranged (1d6+6)"
 full-attack: "Masterwork greatclub +12 melee (1d10+9) and tongue +5 melee touch (sticky tongue); or javelin +4 ranged (1d6+6)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Rage (10 rounds/day), rage powers (no escape), terrifying croak (DC 12)"
+special-attacks: "Rage (10 rounds/day), rage powers (no escape), terrifying croak (+2 vs Will)"
 special-qualities: "Darkvision 60 ft., low-light vision, uncanny dodge, fast movement, hold breath, swamp stride"
-saves: "Fort +12, Ref +3, Will +4"
+defenses: "Fort 22, Ref 13, Will 14"
 abilities: "Str 23, Dex 11, Con 22, Int 8, Wis 13, Cha 8"
 skills: "Acrobatics +6, Athletics +19 (+35 jumping), Intimidation +4, Perception +10, Stealth +0 (+8 in swamps)"
 skill-ranks: "Acrobatics 3, Athletics 10, Intimidation 2, Perception 6, Stealth 0"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greatclub|greatclub]] +12 melee (1d10+9) or tongue +10 melee touch (sticky tongue) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +4 ranged (1d6+6)
 - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Greatclub|greatclub]] +12 melee (1d10+9) and tongue +5 melee touch (sticky tongue); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +4 ranged (1d6+6)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (10 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/No Escape (Rage Power)|no escape]]), [[rangoric-srd/monsters/boggard/Boggard#^terrifying-croak|terrifying croak]] (DC 12)
+- **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (10 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/No Escape (Rage Power)|no escape]]), [[rangoric-srd/monsters/boggard/Boggard#^terrifying-croak|terrifying croak]] (+2 vs Will)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/boggard/Boggard#^swamp-stride|swamp stride]]
-- **Saves**: Fort +12, Ref +3, Will +4
+- **Defenses**: Fort 22, Ref 13, Will 14
 - **Abilities**: Str 23, Dex 11, Con 22, Int 8, Wis 13, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +19 (+35 jumping), [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +0 (+8 in swamps)
 - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatclub)

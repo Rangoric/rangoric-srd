@@ -18,7 +18,7 @@ full-attack: "2 claws +29 (4d8+10) melee, bite +24 (3d10+5) melee"
 space-reach: "20 ft./20 ft."
 special-attacks: "Rend 8d8+20"
 special-qualities: "Scent, SR 30"
-saves: "Fort +24, Ref +20, Will +16"
+defenses: "Fort 34, Ref 30, Will 26"
 abilities: "Str 31, Dex 26, Con 35 Int 6, Wis 15, Cha 12"
 skills: "Acrobatics +32, Athletics +34 (+42 climbing, +46 jumping), Intimidation +25, Perception +26, Stealth +24"
 skill-ranks: "Acrobatics 21, Athletics 21, Intimidation 21, Perception 21, Stealth 21"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 20 ft./20 ft.
 - **Special Attacks**: Rend 8d8+20
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Scent|Scent]], [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 30
-- **Saves**: Fort +24, Ref +20, Will +16
+- **Defenses**: Fort 34, Ref 30, Will 26
 - **Abilities**: Str 31, Dex 26, Con 35 Int 6, Wis 15, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +32, [[rangoric-srd/skills/Athletics|Athletics]] +34 (+42 climbing, +46 jumping), [[rangoric-srd/skills/Intimidation|Intimidation]] +25, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Stealth|Stealth]] +24
 - **Unspent Skill Points**: 21

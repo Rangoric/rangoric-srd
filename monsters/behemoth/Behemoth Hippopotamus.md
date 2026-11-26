@@ -13,9 +13,9 @@ cmd: "30 (34 vs. trip)"
 attack: "Bite +17 melee (4d8+13/19–20 plus grab)"
 full-attack: "Bite +17 melee (4d8+13/19–20 plus grab)"
 space-reach: "15 ft./15 ft."
-special-attacks: "Capsize, trample (2d6+13, DC 26)"
+special-attacks: "Capsize, trample (2d6+13, +16 vs Reflex)"
 special-qualities: "Low-light vision, sweat, hold breath"
-saves: "Fort +14, Ref +8, Will +7"
+defenses: "Fort 24, Ref 18, Will 17"
 abilities: "Str 29, Dex 8, Con 20, Int 2, Wis 13, Cha 5"
 skills: "Athletics +13, Perception +12, Stealth +2 (+12 underwater)"
 skill-ranks: "Athletics 1, Perception 8, Stealth 8"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +17 melee (4d8+13/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Full Attack**: Bite +17 melee (4d8+13/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Space/Reach**: 15 ft./15 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Capsize|Capsize]], [[rangoric-srd/monsters/abilities/Trample|trample]] (2d6+13, DC 26)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Capsize|Capsize]], [[rangoric-srd/monsters/abilities/Trample|trample]] (2d6+13, +16 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Sweat|sweat]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]]
-- **Saves**: Fort +14, Ref +8, Will +7
+- **Defenses**: Fort 24, Ref 18, Will 17
 - **Abilities**: Str 29, Dex 8, Con 20, Int 2, Wis 13, Cha 5
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +2 (+12 underwater)
 - **Feats**: [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

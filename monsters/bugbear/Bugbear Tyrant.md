@@ -14,9 +14,9 @@ cmd: "30"
 attack: "+2 falchion +22 melee (2d4+9/18–20) or masterwork javelin +16 ranged (1d6+5)"
 full-attack: "+2 falchion +22/+17/+12 melee (2d4+9/18–20); or masterwork javelin +16 ranged (1d6+5)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Channel negative energy (DC 18, 6d6), smite good 4/day (+2 attack and AC, +12 damage)"
+special-attacks: "Channel negative energy (+8 vs Will, 6d6), smite good 4/day (+2 attack and AC, +12 damage)"
 special-qualities: "Darkvision 60 ft., scent, aura of cowardice (10 ft.), aura of despair (10 ft.), aura of vengeance (10 ft.), cruelties (dazed, frightened, panicked), feed on fear (6 hp), fiendish boon (weapon +3, 2/day), stalker, immunity to disease"
-saves: "Fort +15, Ref +11, Will +11"
+defenses: "Fort 25, Ref 21, Will 21"
 abilities: "Str 20, Dex 12, Con 16, Int 12, Wis 8, Cha 15"
 skills: "Intimidation +26, Perception +11, Stealth +15"
 skill-ranks: "Intimidation 21, Perception 9, Stealth 11"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: +2 [[rangoric-srd/equipment/weapons/Falchion|falchion]] +22 melee (2d4+9/18–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Javelin|javelin]] +16 ranged (1d6+5)
 - **Full Attack**: +2 [[rangoric-srd/equipment/weapons/Falchion|falchion]] +22/+17/+12 melee (2d4+9/18–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Javelin|javelin]] +16 ranged (1d6+5)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Antipaladin#^antipaladin-channel-negative-energy|Channel negative energy]] (DC 18, 6d6), [[rangoric-srd/classes/Antipaladin#^antipaladin-smite-good|smite good]] 4/day (+2 attack and AC, +12 damage)
+- **Special Attacks**: [[rangoric-srd/classes/Antipaladin#^antipaladin-channel-negative-energy|Channel negative energy]] (+8 vs Will, 6d6), [[rangoric-srd/classes/Antipaladin#^antipaladin-smite-good|smite good]] 4/day (+2 attack and AC, +12 damage)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/classes/Antipaladin#^antipaladin-aura-of-cowardice|aura of cowardice]] (10 ft.), [[rangoric-srd/classes/Antipaladin#^antipaladin-aura-of-despair|aura of despair]] (10 ft.), [[rangoric-srd/classes/Antipaladin#^antipaladin-aura-of-vengeance|aura of vengeance]] (10 ft.), [[rangoric-srd/classes/Antipaladin#^antipaladin-cruelty|cruelties]] ([[rangoric-srd/class-options/cruelties/Dazed (Cruelty)|dazed]], [[rangoric-srd/class-options/cruelties/Frightened (Cruelty)|frightened]], [[rangoric-srd/class-options/archetypes/antipaladin/Fearmonger (Archetype)|panicked]]), [[rangoric-srd/class-options/archetypes/antipaladin/Fearmonger (Archetype)|feed on fear]] (6 hp), [[rangoric-srd/classes/Antipaladin#^antipaladin-fiendish-boon|fiendish boon]] (weapon +3, 2/day), [[rangoric-srd/monsters/bugbear/Bugbear|stalker]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease
-- **Saves**: Fort +15, Ref +11, Will +11
+- **Defenses**: Fort 25, Ref 21, Will 21
 - **Abilities**: Str 20, Dex 12, Con 16, Int 12, Wis 8, Cha 15
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +26, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +15
 - **Feats**: Cruel Opportunist, [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Hurtful|Hurtful]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Pile On|Pile On]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Visceral Threat|Visceral Threat]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (falchion)
@@ -79,4 +79,4 @@ A bugbear tyrant speaks Abyssal, Common, and Goblin.
 
 **Antipaladin Spell-Like Abilities** (CL 12th; concentration +14): At will—_[[rangoric-srd/spells/Detect Good|detect good]]_.
 
-**Antipaladin spells prepared** (CL 9th; concentration +11): 3rd—_[[rangoric-srd/spells/Isolate|isolate]]_ (DC 15); 2nd—_[[rangoric-srd/spells/Corruption Resistance|corruption resistance]]_, _[[rangoric-srd/spells/Litany of Warding|litany of warding]]_, _[[rangoric-srd/spells/Scare|scare]]_ (DC 14); 1st—_[[rangoric-srd/spells/Disguise Self|disguise self]]_, _[[rangoric-srd/spells/Litany of Sloth|litany of sloth]]_, _[[rangoric-srd/spells/Litany of Weakness|litany of weakness]]_.
+**Antipaladin spells prepared** (CL 9th; concentration +11): 3rd—_[[rangoric-srd/spells/Isolate|isolate]]_ (+5 vs Will); 2nd—_[[rangoric-srd/spells/Corruption Resistance|corruption resistance]]_, _[[rangoric-srd/spells/Litany of Warding|litany of warding]]_, _[[rangoric-srd/spells/Scare|scare]]_ (+4 vs Will); 1st—_[[rangoric-srd/spells/Disguise Self|disguise self]]_, _[[rangoric-srd/spells/Litany of Sloth|litany of sloth]]_, _[[rangoric-srd/spells/Litany of Weakness|litany of weakness]]_.

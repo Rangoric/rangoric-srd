@@ -14,9 +14,9 @@ cmd: "17"
 attack: "Masterwork club +8 melee (1d6+3) or tongue +6 melee touch (sticky tongue)"
 full-attack: "Masterwork club +8 melee (1d6+3) and tongue +1 melee touch (sticky tongue)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Icicle (1d6+1 cold damage, 5/day), terrifying croak (DC 14)"
+special-attacks: "Icicle (1d6+1 cold damage, 5/day), terrifying croak (+4 vs Will)"
 special-qualities: "Darkvision 60 ft., low-light vision, hold breath, nature bond (Swamp domain), nature sense, swamp stride, trackless step, wild empathy +4, woodland stride"
-saves: "Fort +8, Ref +4, Will +7"
+defenses: "Fort 18, Ref 14, Will 17"
 abilities: "Str 15, Dex 13, Con 12, Int 10, Wis 15, Cha 12"
 skills: "Acrobatics +4, Animal Handling +7, Athletics +10 (+26 jumping), Fieldcraft +10, Medicine +8, Nature +8, Perception +12, Stealth +0 (+8 in swamps)"
 skill-ranks: "Acrobatics 3, Animal Handling 3, Athletics 5, Fieldcraft 5, Medicine 3, Nature 5, Perception 7, Stealth 0"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Club|club]] +8 melee (1d6+3) or tongue +6 melee touch (sticky tongue)
 - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Club|club]] +8 melee (1d6+3) and tongue +1 melee touch (sticky tongue)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/class-options/domains/Water Domain|Icicle]] (1d6+1 cold damage, 5/day), [[rangoric-srd/monsters/boggard/Boggard#^terrifying-croak|terrifying croak]] (DC 14)
+- **Special Attacks**: [[rangoric-srd/class-options/domains/Water Domain|Icicle]] (1d6+1 cold damage, 5/day), [[rangoric-srd/monsters/boggard/Boggard#^terrifying-croak|terrifying croak]] (+4 vs Will)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]] ([[rangoric-srd/class-options/domains/Swamp Domain|Swamp domain]]), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/monsters/boggard/Boggard#^swamp-stride|swamp stride]], [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +4, [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]]
-- **Saves**: Fort +8, Ref +4, Will +7
+- **Defenses**: Fort 18, Ref 14, Will 17
 - **Abilities**: Str 15, Dex 13, Con 12, Int 10, Wis 15, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+26 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Medicine|Medicine]] +8, [[rangoric-srd/skills/Nature|Nature]] +8, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +0 (+8 in swamps)
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (club)
@@ -71,4 +71,4 @@ A boggard swampseer speaks Boggard and Druidic.
 
 ### Combat
 
-**Druid spells prepared** (CL 3rd; concentration +5): 2nd—_[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Burst of Nettles|burst of nettles]]_ <sup>D</sup>, _[[rangoric-srd/spells/Summon Swarm|summon swarm]]_; 1st—_[[rangoric-srd/spells/Entangle|entangle]]_ (DC 13), _[[rangoric-srd/spells/Hydraulic Push|hydraulic push]]_, _[[rangoric-srd/spells/Longstrider|longstrider]]_, _[[rangoric-srd/spells/Shillelagh|shillelagh]]_; 0 (at will)—_[[rangoric-srd/spells/Flare|flare]]_ (DC 12), _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Resistance|resistance]]_; <sup>D</sup> domain spell; **Domain**: [[rangoric-srd/class-options/domains/Swamp Domain|Swamp]].
+**Druid spells prepared** (CL 3rd; concentration +5): 2nd—_[[rangoric-srd/spells/Bull’s Strength|bull's strength]]_, _[[rangoric-srd/spells/Burst of Nettles|burst of nettles]]_ <sup>D</sup>, _[[rangoric-srd/spells/Summon Swarm|summon swarm]]_; 1st—_[[rangoric-srd/spells/Entangle|entangle]]_ (+3 vs Reflex), _[[rangoric-srd/spells/Hydraulic Push|hydraulic push]]_, _[[rangoric-srd/spells/Longstrider|longstrider]]_, _[[rangoric-srd/spells/Shillelagh|shillelagh]]_; 0 (at will)—_[[rangoric-srd/spells/Flare|flare]]_ (+2 vs Fortitude), _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Resistance|resistance]]_; <sup>D</sup> domain spell; **Domain**: [[rangoric-srd/class-options/domains/Swamp Domain|Swamp]].

@@ -16,7 +16,7 @@ full-attack: "Morningstar +5 melee (1d8+3); or javelin +3 ranged (1d6+3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., scent, stalker"
-saves: "Fort +2, Ref +4, Will +1"
+defenses: "Fort 12, Ref 14, Will 11"
 abilities: "Str 16, Dex 13, Con 13, Int 10, Wis 10, Cha 9"
 skills: "Intimidation +7, Perception +8, Stealth +10"
 skill-ranks: "Intimidation 1, Perception 5, Stealth 2"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], stalker
-- **Saves**: Fort +2, Ref +4, Will +1
+- **Defenses**: Fort 12, Ref 14, Will 11
 - **Abilities**: Str 16, Dex 13, Con 13, Int 10, Wis 10, Cha 9
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

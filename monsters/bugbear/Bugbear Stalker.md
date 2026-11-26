@@ -16,7 +16,7 @@ full-attack: "Masterwork scimitar +9 melee (1d6+3/18–20); or +1 composite long
 space-reach: "5 ft./5 ft."
 special-attacks: "Favored enemy (humans +2)"
 special-qualities: "Darkvision 60 ft., scent, favored terrain (forest +2), stalker, track +1, wild empathy +1"
-saves: "Fort +6, Ref +9, Will +4"
+defenses: "Fort 16, Ref 19, Will 14"
 abilities: "Str 16, Dex 17, Con 15, Int 12, Wis 14, Cha 6"
 skills: "Fieldcraft +11, Intimidation +11, Perception +11, Stealth +13"
 skill-ranks: "Fieldcraft 6, Intimidation 10, Perception 6, Stealth 7"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (humans +2)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (forest +2), [[rangoric-srd/monsters/bugbear/Bugbear|stalker]], [[rangoric-srd/classes/Ranger|track]] +1, [[rangoric-srd/classes/Ranger|wild empathy]] +1
-- **Saves**: Fort +6, Ref +9, Will +4
+- **Defenses**: Fort 16, Ref 19, Will 14
 - **Abilities**: Str 16, Dex 17, Con 15, Int 12, Wis 14, Cha 6
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Far Shot|Far Shot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longbow)

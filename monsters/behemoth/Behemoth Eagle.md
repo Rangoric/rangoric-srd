@@ -18,7 +18,7 @@ full-attack: "2 claws +25 (5d10+7) melee, bite +20 (4d12+3) melee"
 space-reach: "30ft./20 ft."
 special-attacks: "-"
 special-qualities: "Evasion, SR 30"
-saves: "Fort +18, Ref +26, Will +16"
+defenses: "Fort 28, Ref 36, Will 26"
 abilities: "Str 25, Dex 34, Con 23 Int 17, Wis 19, Cha 16"
 skills: "Athletics +31 (+25 jumping), Fieldcraft +28, Society +27, Nature +27, Theology +27, Perception +42, Persuasion +27, Investigation +27, Sense Motive +28"
 skill-ranks: "Athletics 21, Fieldcraft 21, Investigation 21, Nature 21, Perception 21, Persuasion 21, Sense Motive 21, Society 21, Theology 21"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 30ft./20 ft.
 - **Special Attacks**: -
 - **Special Qualities**: Evasion, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 30
-- **Saves**: Fort +18, Ref +26, Will +16
+- **Defenses**: Fort 28, Ref 36, Will 26
 - **Abilities**: Str 25, Dex 34, Con 23 Int 17, Wis 19, Cha 16
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +31 (+25 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +28, [[rangoric-srd/skills/Investigation|Investigation]] +27, [[rangoric-srd/skills/Nature|Nature]] +27, [[rangoric-srd/skills/Perception|Perception]] +42, [[rangoric-srd/skills/Persuasion|Persuasion]] +27, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +28, [[rangoric-srd/skills/Society|Society]] +27, [[rangoric-srd/skills/Theology|Theology]] +27
 - **Unspent Skill Points**: 42
