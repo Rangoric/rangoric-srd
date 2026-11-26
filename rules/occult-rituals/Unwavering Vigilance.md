@@ -25,7 +25,7 @@ _Conjuration (Teleportation) and Divination; [[rangoric-srd/rules/occult-rituals
 - **Range**: close (25 ft. + 5 ft./character level of the primary caster)
 - **Target**: all casters
 - **Duration**: 1 day/character level of the primary caster
-- **Saving Throw**: none (harmless)
+- **Defense**: none (harmless)
 - **Spell Resistance**: no
 - **Backlash**: All casters take 6d6 points of damage, gain 1 temporary [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative level]] and become [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]].
 - **Failure**: All casters gain 1 permanent [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative level]].

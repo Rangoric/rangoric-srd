@@ -25,7 +25,7 @@ _Conjuration (Healing); [[rangoric-srd/rules/occult-rituals/Occult Rituals|occul
 - **Range**: touch
 - **Target**: one dead creature
 - **Duration**: instantaneous
-- **Saving Throw**: none
+- **Defense**: none
 - **Spell Resistance**: no
 - **Backlash**: The caster and secondary casters become [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]].
 - **Failure**: All casters are affected by the ouroboros’s ruinous blood special attack. The dead body can’t be the target of this ritual in the future.

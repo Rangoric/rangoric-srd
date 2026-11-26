@@ -4,8 +4,8 @@ section: "Rules"
 book: ["Core Rulebook", "Ultimate Equipment"]
 affliction-type: "poison"
 delivery: "contact"
-save: "Fortitude DC 22"
-save-dc: 22
+attack: "+12 vs Fortitude"
+attack-bonus: 12
 onset: "1 minute"
 frequency: "1/minute for 6 minutes"
 effect: "1d6 Con and paralyzed for 1 minute"
@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/affliction]
 A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]].
 
 - **Type**: poison, contact
-- **Save**: Fortitude DC 22
+- **Attack**: +12 vs Fortitude
 - **Onset**: 1 minute
 - **Frequency**: 1/minute for 6 minutes
 - **Effect**: 1d6 Con damage and [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 1 minute

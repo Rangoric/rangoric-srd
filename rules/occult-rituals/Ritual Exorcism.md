@@ -24,9 +24,9 @@ _Abjuration; [[rangoric-srd/rules/occult-rituals/Occult Rituals|occult ritual]] 
 - **Range**: close (25 ft. + 5 ft./character level of the primary caster)
 - **Target**: one [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] possessed creature or a restrained possessed object
 - **Duration**: instantaneous
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: yes
 - **Backlash**: All casters become [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]].
-- **Failure**: All casters gain 1 temporary [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative level]] (DC = 16 + the primary caster’s Charisma bonus to remove after the first day), and the primary caster takes 4d6 points of damage.
+- **Failure**: All casters gain 1 temporary [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative level]] (attacking again each day after the first at +6 + the primary caster’s Charisma bonus), and the primary caster takes 4d6 points of damage.
 
-You force the life force of a possessing creature to leave its host. When the ritual is complete, the [[rangoric-srd/rules/Possession (Rules)|possessing]] creature attempts a Will save. If it fails, it is expelled, as if the duration of the spell or effect it used to possess the target had expired. If it succeeds, it stays within the host creature or object, though the ritual can be attempted again as long as the possessed creature is helpless or the object restrained.
+You force the life force of a possessing creature to leave its host. When the ritual is complete, it attacks the Will of the [[rangoric-srd/rules/Possession (Rules)|possessing]] creature. On a hit, the creature is expelled, as if the duration of the spell or effect it used to possess the target had expired. On a miss, it stays within the host creature or object, though the ritual can be attempted again as long as the possessed creature is helpless or the object restrained.

@@ -25,11 +25,11 @@ _Conjuration (Calling); [[rangoric-srd/rules/occult-rituals/Occult Rituals|occul
 - **Range**: primary caster
 - **Effect**: calls the spirit of a single deceased creature or a psychic entity
 - **Duration**: concentration of the primary caster
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: no
-- **Backlash**: All casters become [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]] and gain 1 temporary [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative level]] (DC = 16 + the primary caster’s Charisma bonus to remove after the first day).
+- **Backlash**: All casters become [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]] and gain 1 temporary [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative level]] (attacking again each day after the first at +6 + the primary caster’s Charisma bonus).
 - **Failure**: All casters gain 1 permanent [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative level]] and are [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]] until that negative level is removed.
 
-The primary caster compels the spirit of a specific individual, or a psychic entity, to manifest from its final rest or extraplanar location. An unwilling spirit or entity can resist with a successful Will save; it then doesn’t manifest, but the ritual still counts as a success. A spirit or entity that fails or forgoes the save is summoned into the primary caster’s body and speaks through the caster’s voice, which takes on an otherworldly timbre. It has no further control of that caster’s mind or body, and can’t use any spells, spell-like abilities or purely mental supernatural abilities it has. It must leave the primary caster when that caster ends his concentration.
+The primary caster compels the spirit of a specific individual, or a psychic entity, to manifest from its final rest or extraplanar location. The ritual attacks an unwilling spirit or entity’s Will; on a miss it doesn’t manifest, but the ritual still counts as a success. A spirit or entity that fails its save or lowers its defense is summoned into the primary caster’s body and speaks through the caster’s voice, which takes on an otherworldly timbre. It has no further control of that caster’s mind or body, and can’t use any spells, spell-like abilities or purely mental supernatural abilities it has. It must leave the primary caster when that caster ends his concentration.
 
 While the spirit speaks through the primary caster, the secondary casters can ask it questions, at most 1 question per round (however many secondary casters there are). The spirit or entity speaks in a language it knows (or knew in life), and can refuse to answer or try to deceive its questioners and the primary caster with [[rangoric-srd/skills/Deception|Deception]]. It is not otherwise beholden to the casters.

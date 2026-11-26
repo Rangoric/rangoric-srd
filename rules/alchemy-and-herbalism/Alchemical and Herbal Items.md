@@ -320,7 +320,7 @@ However, there are some general benchmarks in regard to CLs vs. DCs:
 
 ## Herbal Restoratives
 
-While not specifically a subcategory of ingestibles or any other creations, the feat that allows apothecaries and herbalists to create curatives needs to be addressed. All Tonics, Teas/Tisanes, Ingestibles, Powders, Unguents, or comparable concoctions that provide a saving throw, aid hit point restoration, cancel poisons or nonlethal damage, etc. should be considered as Herbal Restoratives and the feat should be noted among their prerequisites unless otherwise restricted.
+While not specifically a subcategory of ingestibles or any other creations, the feat that allows apothecaries and herbalists to create curatives needs to be addressed. All Tonics, Teas/Tisanes, Ingestibles, Powders, Unguents, or comparable concoctions that force a poison or disease to attack again to keep working on the person, aid hit point restoration, cancel poisons or nonlethal damage, etc. should be considered as Herbal Restoratives and the feat should be noted among their prerequisites unless otherwise restricted.
 
 ## Item Categories and Definitions
 
@@ -430,13 +430,13 @@ Unlike the other categories, there are no set standards or forms for poisons, no
 
 Also, while they may be listed under other types, the ability to create any of them comes only from the [[rangoric-srd/feats/Craft Toxins|Craft Toxins]] feat. Only the generic poisons of the core rules can be created with the [[rangoric-srd/skills/Profession|Profession]] (herbalist) or [[rangoric-srd/skills/Craft|Craft]] (alchemy) skills unless otherwise noted.
 
-Each toxin is an [[rangoric-srd/rules/Afflictions#The Affliction Block|affliction]], given in its note and on the [[rangoric-srd/equipment/alchemical-items/Alchemical Toxins and Poisons|toxins list]] as the core [[rangoric-srd/rules/Afflictions#Poison|poison]] rules give it (type, save, onset, frequency, effect and cure). The list adds three columns. The prices for said toxins and poisons are in the core rules or in the catalog.
+Each toxin is an [[rangoric-srd/rules/Afflictions#The Affliction Block|affliction]], given in its note and on the [[rangoric-srd/equipment/alchemical-items/Alchemical Toxins and Poisons|toxins list]] as the core [[rangoric-srd/rules/Afflictions#Poison|poison]] rules give it (type, attack, onset, frequency, effect and cure). The list adds three columns. The prices for said toxins and poisons are in the core rules or in the catalog.
 
 _Category:_ The toxin’s classification in the catalog.
 
 _CL:_ The toxin’s caster level.
 
-_DC to Make:_ The DC of the [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (herbalist) check to create the substance: its save DC, +10 for one made as a potion, as [[rangoric-srd/rules/Afflictions#^making-poison|Making Poison]] says. A natural 1 on the check exposes a crafter without [[rangoric-srd/rules/Afflictions#^poison-use|poison use]].
+_DC to Make:_ The DC of the [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (herbalist) check to create the substance: 10 + its attack bonus, +10 for one made as a potion, as [[rangoric-srd/rules/Afflictions#^making-poison|Making Poison]] says. A natural 1 on the check exposes a crafter without [[rangoric-srd/rules/Afflictions#^poison-use|poison use]].
 
 The core poisons the skills can make are listed after the toxins and poison herbs. They can replace any of those rolled up on other category random tables.
 

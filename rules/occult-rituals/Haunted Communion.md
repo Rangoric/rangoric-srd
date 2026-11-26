@@ -24,7 +24,7 @@ _Necromancy; [[rangoric-srd/rules/occult-rituals/Occult Rituals|occult ritual]] 
 - **Range**: touch
 - **Target**: one haunt within 60 feet
 - **Duration**: 1 hour and 10 rounds (D); see text
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: yes
 - **Backlash**: The primary caster is [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]].
 - **Failure**: The casters gain 1 permanent [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative level]] and a –4 penalty on all skill and ability checks for as long as the negative level lasts.

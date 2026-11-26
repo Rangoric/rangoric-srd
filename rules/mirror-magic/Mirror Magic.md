@@ -65,7 +65,7 @@ Normally found in a cellar or cavern, the immersion pool of a reflecting master 
 
 Apprentices are expected to spend at least three hours each day in the immersion pool. While in the pool, the apprentice is covered with a thick, perfectly clear fluid that can be breathed as easily as air. The fluid holds the student just above the floor of the reflecting pool and allows them to float weightlessly within the hemisphere of reflections. During their time in the pool, the student is subjected to a relentless outpouring of knowledge from the reflecting master, who waits outside the pool and suspends his own mirrors over the student. The reflections between the master’s mirror and those on the surface of the pool focus the knowledge so that the student cannot help but grasp the concepts being taught.
 
-Each pool is a unique reflection of the master who creates it and cannot be used by another to instruct a student. This is one of the reasons that reflecting masters do their best to hide their laboratories and study chambers—if forced to flee, all the effort that went into creating the immersion pool is lost and another must be constructed. More worrisome, from the master’s point of view, is the fact that a considerable amount of his own essence is contained within the mirrors of the reflecting pool. An enemy master with sufficient knowledge could use that residual energy to cause him a great deal of trouble. (If any spellcaster obtains a piece of a reflecting pool, the save DC of any _[[rangoric-srd/spells/Scrying|scrying]]_ they use to magically spy on the creating reflecting master is 5 higher. Older rules gave a +5 circumstance bonus on a scrying check instead.)
+Each pool is a unique reflection of the master who creates it and cannot be used by another to instruct a student. This is one of the reasons that reflecting masters do their best to hide their laboratories and study chambers—if forced to flee, all the effort that went into creating the immersion pool is lost and another must be constructed. More worrisome, from the master’s point of view, is the fact that a considerable amount of his own essence is contained within the mirrors of the reflecting pool. An enemy master with sufficient knowledge could use that residual energy to cause him a great deal of trouble. (If any spellcaster obtains a piece of a reflecting pool, the attack bonus of any _[[rangoric-srd/spells/Scrying|scrying]]_ they use to magically spy on the creating reflecting master is 5 higher. Older rules gave a +5 circumstance bonus on a scrying check instead.)
 
 ### Reflecting Chambers of Insight
 
@@ -75,7 +75,7 @@ Unlike the mirrors used by the first reflecting masters, these are designed to a
 
 No reflecting master ever leaves behind a reflecting chamber of insight if he is forced to flee. The chambers are equipped with magical or mechanical devices that destroy the mirrors if the master must depart in haste. While the reflecting chamber presents no more danger to the master than his immersion pools, the chamber of insight holds residual images of every apprentice to pass through it, giving an enemy many more targets to attack. Enemies entering a master’s reflecting chamber should expect great gouts of fire hot enough to melt glass, shortly after their intrusion is detected.
 
-The save DC of any _[[rangoric-srd/spells/Scrying|scrying]]_ used within a reflecting chamber is 5 higher if the target of the scrying attempt created, or ever used, the reflecting chamber. (Older rules gave a +5 circumstance bonus on a scrying check instead.)
+The attack bonus of any _[[rangoric-srd/spells/Scrying|scrying]]_ used within a reflecting chamber is 5 higher if the target of the scrying attempt created, or ever used, the reflecting chamber. (Older rules gave a +5 circumstance bonus on a scrying check instead.)
 
 ## The Art of Glass and Silver
 
@@ -228,7 +228,7 @@ _Example_: A reflecting master is targeted by an enemy evoker, who casts _[[rang
 
 If there are not enough levels stored within the mirror to fully reflect a spell, then a portion of it gets through to affect the reflecting master. To determine how much of the spell gets through, divide the remaining levels of the incoming spell by the original spell level. For damaging spells, the reflecting master and the spell’s caster each take their proportional fraction of the damage. For nondamaging spells, the reflecting master and the spell’s caster each have a proportional chance of being affected.
 
-A mirror suffers 1 hit point of damage for each spell level that exceeds the maximum number of levels it can reflect. Hardness is ignored in this case—the damage to the mirror comes from within as the spells attempt to fit within the magical matrix formed by the reflective surface. If the mirror is reduced to 0 hit points or fewer, it is destroyed and all spells contained within are released in a violent explosion. This causes 1d6 points of damage per inch of the mirror’s physical diameter to all within a 10-foot radius of the spellcaster (Reflex save with a DC of 10 + 1/inch of the mirror’s physical diameter for half damage).
+A mirror suffers 1 hit point of damage for each spell level that exceeds the maximum number of levels it can reflect. Hardness is ignored in this case—the damage to the mirror comes from within as the spells attempt to fit within the magical matrix formed by the reflective surface. If the mirror is reduced to 0 hit points or fewer, it is destroyed and all spells contained within are released in a violent explosion. This causes 1d6 points of damage per inch of the mirror’s physical diameter to all within a 10-foot radius of the spellcaster (an attack against Reflex at +1 per inch of the mirror’s physical diameter, half damage on a miss).
 
 Note that a spell that has been reflected by a mirror mage may not be reflected again and is not affected by the _[[rangoric-srd/spells/Spell Turning|spell turning]]_ spell in any way. Touch attacks cannot be reflected.
 
@@ -246,7 +246,7 @@ As if sensing her thoughts, the evoker casts another _[[rangoric-srd/spells/Powe
 
 Then a nearby enemy cleric targets her with an _[[rangoric-srd/spells/Energy Drain|energy drain]]_ spell. Desperate to avoid its effects, she snaps her mirror up and attempts to absorb the incoming spell. Though she succeeds, the power of the absorbed spell is too much for her mirror: it only had space for 3 more spell levels (she had already absorbed 5 of the 8 levels the mirror could hold) and the _[[rangoric-srd/spells/Energy Drain|energy drain]]_ spell provides an additional 4 levels of power. The mirror takes 1 hit point of damage from the excess level, and a fine tracery of cracks spreads across its surface.
 
-If an absorption attempt fails, the reflecting master is not allowed a save against the incoming spell. Magical or mundane protections that offer resistance to magic can protect the mirror mage, but he otherwise suffers the full effects of the spell.
+If an absorption attempt fails, the reflecting master has no defense against the incoming spell. Magical or mundane protections that offer resistance to magic can protect the mirror mage, but he otherwise suffers the full effects of the spell.
 
 ## Glass Shadows
 
@@ -277,7 +277,7 @@ A glass shadow is not truly intelligent, though its unique situation does provid
 
 Note that this reduction occurs after the spell has already been successfully deflected or absorbed—the glass shadow simply uses its own innate power to protect its mirror from the excess spell levels. The glass shadow may only protect its mirror in this way once per day.
 
-The glass shadow may be instructed to destroy itself and its mirror at the command of the master who created it. When this occurs, the mirror detonates in a magical conflagration that causes 1d6 points of damage per level (or Hit Dice) possessed by the glass shadow before its death. This damage erupts out in a burst with a radius equal to ten times the mirror’s diameter in feet; creatures caught within the blast are allowed a Reflex save (DC 10 + the inches of the mirror’s physical diameter) for half damage.
+The glass shadow may be instructed to destroy itself and its mirror at the command of the master who created it. When this occurs, the mirror detonates in a magical conflagration that causes 1d6 points of damage per level (or Hit Dice) possessed by the glass shadow before its death. This damage erupts out in a burst with a radius equal to ten times the mirror’s diameter in feet; the blast attacks the Reflex of creatures caught within it at +1 per inch of the mirror’s physical diameter, dealing half damage on a miss.
 
 If a mirror that contains a glass shadow is destroyed, by any means, the glass shadow is instantly destroyed as well.
 
