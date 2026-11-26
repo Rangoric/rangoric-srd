@@ -17,4 +17,4 @@ You can draw upon an inner reserve to resist diseases, poisons, and other grievo
 
 **Prerequisites**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]].
 
-**Benefit**: Once per day, you can reroll a Fortitude save. You must decide to do so before the result is revealed, and you must take the second roll, even if it is worse.
+**Benefit**: Once per day, you can make an attack against your Fortitude Defense be rerolled. You must decide to do so before the result is revealed, and you must take the second roll, even if it is worse.

@@ -17,4 +17,4 @@ Your painful stare fatigues your opponent.
 
 **Prerequisites**: Mesmerist level 7th, [[rangoric-srd/classes/Mesmerist#^mesmerist-painful-stare|painful stare]] class feature.
 
-**Benefit**: When a target takes damage from your painful stare, it must succeed at a Fortitude saving throw (DC = 10 + 1/2 your mesmerist level + your Charisma modifier) or become [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] for 1 round. This can’t cause the target to become exhausted, even if the target is already fatigued.
+**Benefit**: When a target takes damage from your painful stare, the stare attacks its Fortitude, its attack bonus 1/2 your mesmerist level + your Charisma modifier; on a hit, it becomes [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] for 1 round. This can’t cause the target to become exhausted, even if the target is already fatigued.

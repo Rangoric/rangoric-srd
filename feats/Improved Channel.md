@@ -17,4 +17,4 @@ Your channeled energy is harder to resist.
 
 **Prerequisites**: [[rangoric-srd/combat/Combat Special Attacks#^channel-energy|Channel energy]] class feature.
 
-**Benefit**: The save DC against your channel energy is 2 higher.
+**Benefit**: The attack bonus of your channel energy is 2 higher.

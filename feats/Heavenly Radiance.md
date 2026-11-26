@@ -17,7 +17,7 @@ Your heavenly light can be used in a variety of ways.
 
 **Prerequisites**: [[rangoric-srd/races/Aasimar|Aasimar]], _[[rangoric-srd/spells/Daylight|daylight]]_ spell-like ability, sufficiently high level (see below).
 
-**Benefit**: You gain one additional use per day of _[[rangoric-srd/spells/Daylight|daylight]]_. Choose one spell from the table below; by expending a use of _[[rangoric-srd/spells/Daylight|daylight]]_, you may use this spell as a spell-like ability. To select a spell, you must meet the minimum character level for its listing in the table. The save DC for this spell is Charisma-based.
+**Benefit**: You gain one additional use per day of _[[rangoric-srd/spells/Daylight|daylight]]_. Choose one spell from the table below; by expending a use of _[[rangoric-srd/spells/Daylight|daylight]]_, you may use this spell as a spell-like ability. To select a spell, you must meet the minimum character level for its listing in the table. The attack bonus of this spell is Charisma-based.
 
 | Spell-Like Ability                                                   | Minimum Character Level |
 | -------------------------------------------------------------------- | ----------------------- |

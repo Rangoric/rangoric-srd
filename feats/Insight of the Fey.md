@@ -16,6 +16,6 @@ You are the distant relative of a fey, and have tapped into the mental insight t
 
 **Prerequisites**: Base Will save +3.
 
-**Benefit**: You gain a +3 bonus on saving throws against illusion spells and spell-like abilities. Add +2 to the save DCs of illusion spells you cast.
+**Benefit**: You gain a +3 bonus on defenses against illusion spells and spell-like abilities. Add +2 to the attack bonuses of illusion spells you cast.
 
 **Special**: You can take this feat only at 1st level, and only if you aren’t a fey. You can’t have both this feat and [[rangoric-srd/feats/Blood of the Fey|Blood of the Fey]].

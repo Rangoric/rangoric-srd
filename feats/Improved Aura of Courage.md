@@ -13,4 +13,4 @@ tags: [rangoric, rangoric/feat, epic]
 
 Prerequisite: Cha 25, aura of courage class ability.
 
-Benefit: The character’s aura of courage grants a +8 morale bonus on saving throws against fear effects.
+Benefit: The character’s aura of courage grants a +8 morale bonus on defenses against fear effects.

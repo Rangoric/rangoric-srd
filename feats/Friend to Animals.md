@@ -16,4 +16,4 @@ You show great respect for all living things, and they sense and return the gest
 
 **Prerequisites**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Nature or Fieldcraft), [[rangoric-srd/skills/Animal Handling|Animal Handling]] 3 ranks.
 
-**Benefit**: As a standard action, you can make all animals within 30 feet attempt a Will save (DC 10 + half your character level + your Charisma modifier). Those that fail can’t attack you unless you attack them or one of their allies first.
+**Benefit**: As a standard action, you can attack the Will of all animals within 30 feet, your attack bonus half your character level + your Charisma modifier. Those you hit can’t attack you unless you attack them or one of their allies first.

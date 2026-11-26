@@ -17,4 +17,4 @@ You have a knack for avoiding danger all around you.
 
 **Prerequisites**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]].
 
-**Benefit**: Once per day, you can reroll a Reflex save. You must decide to do so before the result is revealed, and you must take the second roll, even if it is worse.
+**Benefit**: Once per day, you can make an attack against your Reflex Defense be rerolled. You must decide to do so before the result is revealed, and you must take the second roll, even if it is worse.

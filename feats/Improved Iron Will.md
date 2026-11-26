@@ -17,4 +17,4 @@ Your clarity of thought allows you to resist mental attacks.
 
 **Prerequisites**: [[rangoric-srd/feats/Iron Will|Iron Will]].
 
-**Benefit**: Once per day, you can reroll a Will save. You must decide to do so before the result is revealed, and you must take the second roll, even if it is worse.
+**Benefit**: Once per day, you can make an attack against your Will Defense be rerolled. You must decide to do so before the result is revealed, and you must take the second roll, even if it is worse.

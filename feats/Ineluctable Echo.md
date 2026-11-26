@@ -16,6 +16,6 @@ Those who use words of power around you hear the sound of their own voices.
 
 **Prerequisite:** Exposure to [[rangoric-srd/spells/Wail of the Banshee|wail of the banshee]] or any [[rangoric-srd/spells/Power Word Blind|power word]] spell.
 
-**Benefit:** When you are targeted by a [[rangoric-srd/spells/Power Word Blind|power word]] spell, whoever speaks the power word is also affected by it (as if he had cast it on himself). Likewise, when you're within the area of a [[rangoric-srd/spells/Wail of the Banshee|wail of the banshee]] spell, the caster of the spell also hears the wail and must succeed on a Fortitude save (using his own save DC) or die.
+**Benefit:** When you are targeted by a [[rangoric-srd/spells/Power Word Blind|power word]] spell, whoever speaks the power word is also affected by it (as if he had cast it on himself). Likewise, when you're within the area of a [[rangoric-srd/spells/Wail of the Banshee|wail of the banshee]] spell, the caster of the spell also hears the wail, and it attacks the caster’s Fortitude with its own attack bonus; on a hit, the caster dies.
 
 Possessing the Ineluctable Echo feat doesn't protect you against power word or wail of the banshee spells. You experience their effects normally.

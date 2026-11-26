@@ -16,4 +16,4 @@ You have trained your mind to resist fey magic--both that cast by fey creatures 
 
 **Prerequisites**: [[rangoric-srd/skills/Nature|Nature]] or [[rangoric-srd/skills/Theology|Theology]] 3 ranks.
 
-**Benefit**: You gain a +2 morale bonus on saving throws against enchantment and illusion spells and spell-like abilities of fey.
+**Benefit**: You gain a +2 morale bonus on defenses against enchantment and illusion spells and spell-like abilities of fey.
