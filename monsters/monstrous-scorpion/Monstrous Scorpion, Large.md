@@ -15,7 +15,7 @@ full-attack: "2 claws +6 melee (1d6+4 plus grab) and sting +6 melee (1d6+4 plus 
 space-reach: "10 ft./10 ft."
 special-attacks: "Constrict (1d6+4), poison"
 special-qualities: "Darkvision 60 ft., tremorsense 60 ft., immunity to mind-affecting effects"
-saves: "Fort +7, Ref +1, Will +1"
+defenses: "Fort 17, Ref 11, Will 11"
 abilities: "Str 19, Dex 10, Con 16, Int —, Wis 10, Cha 2"
 skills: "Athletics +8, Perception +4, Stealth +0"
 skill-ranks: "Athletics 0, Perception 0, Stealth 0"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d6+4), [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +7, Ref +1, Will +1
+- **Defenses**: Fort 17, Ref 11, Will 11
 - **Abilities**: Str 19, Dex 10, Con 16, Int —, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +0
 - **Feats**: —
@@ -80,4 +80,4 @@ Other species of giant scorpion are listed under [[rangoric-srd/monsters/scorpio
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Large Scorpion Venom|Giant Scorpion Venom]]: Sting—injury; _save_ Fort DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Str damage; _cure_ 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Large Scorpion Venom|Giant Scorpion Venom]]: Sting—injury; _attack_ +7 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Str damage; _cure_ 1 miss. The attack bonus is Constitution-based and includes a +2 racial bonus.

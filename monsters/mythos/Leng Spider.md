@@ -16,7 +16,7 @@ full-attack: "Masterwork flail +22/+17/+12 melee (3d6+8) and bite +16 melee (2d6
 space-reach: "15 ft./15 ft."
 special-attacks: "Web (+24 ranged, DC 25, 15 hp), web weaponry, poison, spell-like abilities"
 special-qualities: "Arcane sight, darkvision 60 ft., low-light vision, tremorsense 60 ft., fast healing 10, immunity to cold, confusion and insanity effects, poison and sonic, spell resistance 25"
-saves: "Fort +17, Ref +18, Will +10"
+defenses: "Fort 27, Ref 28, Will 20"
 abilities: "Str 26, Dex 29, Con 26, Int 21, Wis 17, Cha 22"
 skills: "Acrobatics +27, Athletics +34 (+38 jumping), Craft (traps) +20, Emulation +21, Knowledge +20, Mysticism +20, Perception +21"
 skill-ranks: "Acrobatics 15, Athletics 23, Craft (traps) 12, Emulation 12, Knowledge 12, Mysticism 12, Perception 15"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Web|Web]] (+24 ranged, DC 25, 15 hp), [[rangoric-srd/monsters/abilities/Web|web]] weaponry, [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: Arcane sight, [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, confusion and insanity effects, poison and sonic, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25
-- **Saves**: Fort +17, Ref +18, Will +10
+- **Defenses**: Fort 27, Ref 28, Will 20
 - **Abilities**: Str 26, Dex 29, Con 26, Int 21, Wis 17, Cha 22
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +27, [[rangoric-srd/skills/Athletics|Athletics]] +34 (+38 jumping), [[rangoric-srd/skills/Craft|Craft]] (traps) +20, [[rangoric-srd/skills/Emulation|Emulation]] +21, [[rangoric-srd/skills/Knowledge|Knowledge]] +20, [[rangoric-srd/skills/Mysticism|Mysticism]] +20, [[rangoric-srd/skills/Perception|Perception]] +21
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -72,8 +72,8 @@ Leng spiders speak Aklo.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 15th; concentration +21): Constant—_[[rangoric-srd/spells/Arcane Sight|arcane sight]]_, _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_, _[[rangoric-srd/spells/Tongues|tongues]]_; At will—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Fabricate|fabricate]]_ (webs only); 3/day—_[[rangoric-srd/spells/Air Walk|air walk]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Major Image|major image]]_ (DC 19); 1/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 20), _[[rangoric-srd/spells/Insanity (Spell)|insanity]]_ (DC 23), _[[rangoric-srd/spells/Mirage Arcana|mirage arcana]]_ (DC 21), _[[rangoric-srd/spells/Veil|veil]]_ (DC 22).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 15th; concentration +21): Constant—_[[rangoric-srd/spells/Arcane Sight|arcane sight]]_, _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_, _[[rangoric-srd/spells/Tongues|tongues]]_; At will—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Fabricate|fabricate]]_ (webs only); 3/day—_[[rangoric-srd/spells/Air Walk|air walk]]_, _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Major Image|major image]]_ (+9 vs Will); 1/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (+10 vs Will), _[[rangoric-srd/spells/Insanity (Spell)|insanity]]_ (+13 vs Will), _[[rangoric-srd/spells/Mirage Arcana|mirage arcana]]_ (+11 vs Will), _[[rangoric-srd/spells/Veil|veil]]_ (+12 vs Will).
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Su)**: [[rangoric-srd/rules/afflictions/Leng Spider Venom|Leng Spider Venom]]: Bite—injury; _save_ Fort DC 25; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Con plus confusion for 1 round; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Su)**: [[rangoric-srd/rules/afflictions/Leng Spider Venom|Leng Spider Venom]]: Bite—injury; _attack_ +15 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Con plus confusion for 1 round; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.
 
 **Web Weaponry (Ex)**: A Leng spider is talented at using its webs to construct masterwork weapons. This technique of weapon creation allows the spider to effectively create a flail or bolas by attaching a heavy object such as a rock or chunk of metal to a cord of webbing. The spider attaches one end of this webbing to a leg and can then wield the weighted cord as a masterwork flail or a masterwork bolas. It can only wield one such weapon at a time—it must use its other legs to walk. If a Leng spider drops or loses a web weapon, it can create a new one as a full-round action, provided it has access to heavy-weight objects of the correct size (such as loose rocks or skulls).

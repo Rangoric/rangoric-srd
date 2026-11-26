@@ -16,7 +16,7 @@ full-attack: "Bite +5 melee (1d3–4 plus poison)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Poison, web"
 special-qualities: "Darkvision 60 ft., tremorsense 60 ft., vermin traits"
-saves: "Fort +2, Ref +3, Will +0"
+defenses: "Fort 12, Ref 13, Will 10"
 abilities: "Str 3, Dex 17, Con 10, Int —, Wis 10, Cha 2"
 skills: "Athletics +13* (+21 climbing, +7 jumping), Perception +4*, Stealth +15*"
 skill-ranks: "Athletics 1, Perception 0, Stealth 0"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: Poison, web
 - **Special Qualities**: Darkvision 60 ft., tremorsense 60 ft., vermin traits
-- **Saves**: Fort +2, Ref +3, Will +0
+- **Defenses**: Fort 12, Ref 13, Will 10
 - **Abilities**: Str 3, Dex 17, Con 10, Int —, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13\* (+21 climbing, +7 jumping), Perception +4\*, Stealth +15\*
 - **Feats**: Weapon FinesseB

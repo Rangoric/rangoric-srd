@@ -15,7 +15,7 @@ full-attack: "Bite +2 melee (1d6 plus poison)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Web (+5 ranged, DC 12, hp 2), poison"
 special-qualities: "Darkvision 60 ft., tremorsense 60 ft., immunity to mind-affecting effects"
-saves: "Fort +4, Ref +4, Will +1"
+defenses: "Fort 14, Ref 14, Will 11"
 abilities: "Str 11, Dex 17, Con 12, Int —, Wis 10, Cha 2"
 skills: "Athletics +16, Perception +4 (+8 in webs), Stealth +7 (+11 in webs)"
 skill-ranks: "Athletics 0, Perception 0, Stealth 0"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Web|Web]] (+5 ranged, DC 12, hp 2), [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +4, Ref +4, Will +1
+- **Defenses**: Fort 14, Ref 14, Will 11
 - **Abilities**: Str 11, Dex 17, Con 12, Int —, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Perception|Perception]] +4 (+8 in webs), [[rangoric-srd/skills/Stealth|Stealth]] +7 (+11 in webs)
 - **Feats**: —
@@ -64,10 +64,10 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: —
 - **Level Adjustment**: —
 
-The statistics above are for a web-spinning spider. Hunting spiders lose the web ability but gain a +8 racial modifier on Acrobatics checks. All giant spiders have a +2 racial bonus on poison save DCs.
+The statistics above are for a web-spinning spider. Hunting spiders lose the web ability but gain a +8 racial modifier on Acrobatics checks. All giant spiders have a +2 racial bonus on poison attack bonuses.
 
 Other species of giant spider are listed under [[rangoric-srd/monsters/spider/Spider|spiders]].
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Medium Spider Venom|Giant Spider Venom]]: Bite—injury; _save_ Fort DC 14; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Str damage; _cure_ 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Medium Spider Venom|Giant Spider Venom]]: Bite—injury; _attack_ +4 vs Fortitude; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Str damage; _cure_ 1 miss.

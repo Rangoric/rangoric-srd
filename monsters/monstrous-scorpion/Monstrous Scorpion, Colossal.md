@@ -16,7 +16,7 @@ full-attack: "2 claws +34 melee (2d8+12) and sting +29 melee (2d8+6 plus poison)
 space-reach: "40 ft./30 ft."
 special-attacks: "Constrict 2d8+12, improved grab, poison"
 special-qualities: "Darkvision 60 ft., tremorsense 60 ft., vermin traits"
-saves: "Fort +25, Ref +12, Will +13"
+defenses: "Fort 35, Ref 22, Will 23"
 abilities: "Str 35, Dex 8, Con 16, Int —, Wis 10, Cha 2"
 skills: "Athletics +59, Perception +4, Stealth –12"
 skill-ranks: "Athletics 40, Perception 0, Stealth 0"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 40 ft./30 ft.
 - **Special Attacks**: Constrict 2d8+12, improved grab, poison
 - **Special Qualities**: Darkvision 60 ft., tremorsense 60 ft., vermin traits
-- **Saves**: Fort +25, Ref +12, Will +13
+- **Defenses**: Fort 35, Ref 22, Will 23
 - **Abilities**: Str 35, Dex 8, Con 16, Int —, Wis 10, Cha 2
 - **Skills**: Athletics +59, Perception +4, Stealth –12
 - **Feats**: —

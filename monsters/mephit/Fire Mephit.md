@@ -19,7 +19,7 @@ full-attack: "2 claws +4 melee (1d3 and 1d4 fire)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Breath weapon, spell-like abilities, summon mephit"
 special-qualities: "Damage reduction 5/magic, darkvision 60 ft., immunity to fire, fast healing 2, vulnerability to cold"
-saves: "Fort +3, Ref +4, Will +3"
+defenses: "Fort 13, Ref 14, Will 13"
 abilities: "Str 10, Dex 13, Con 10, Int 6, Wis 11, Cha 15"
 skills: "Deception +8, Escape Artist +7, Fieldcraft +6 (+9 with bindings), Imitation +4 (+6 acting), Perception +6, Persuasion +2, Stealth +11"
 skill-ranks: "Deception 3, Escape Artist 3, Fieldcraft 3, Imitation 3, Perception 3, Persuasion 0, Stealth 3"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], spell-like abilities, summon mephit
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/magic, darkvision 60 ft., immunity to fire, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
-- **Saves**: Fort +3, Ref +4, Will +3
+- **Defenses**: Fort 13, Ref 14, Will 13
 - **Abilities**: Str 10, Dex 13, Con 10, Int 6, Wis 11, Cha 15
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6 (+9 with bindings), [[rangoric-srd/skills/Imitation|Imitation]] +4 (+6 acting), [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Feats All|Improved Initiative]]
@@ -72,12 +72,12 @@ Fire mephits speak Common and Ignan.
 
 ## Combat
 
-**Breath Weapon (Su)**: 15-foot cone, damage 1d8 fire, Reflex half DC 12. The save DC is Constitution-based and includes a +1 racial adjustment.
+**Breath Weapon (Su)**: 15-foot cone, damage 1d8 fire, +2 vs Reflex; a miss halves. The attack bonus is Constitution-based and includes a +1 racial adjustment.
 
-**Spell-Like Abilities**: Caster level 6th. The save DC is Charisma-based.
+**Spell-Like Abilities**: Caster level 6th. The attack bonus is Charisma-based.
 
-1/hour - [[rangoric-srd/spells/Scorching Ray|scorching ray]] (DC 14) as the spell cast by a 3rd-level sorcerer;
+1/hour - [[rangoric-srd/spells/Scorching Ray|scorching ray]] (+4) as the spell cast by a 3rd-level sorcerer;
 
-1/day - [[rangoric-srd/spells/Heat Metal|heat metal]] (DC 14).
+1/day - [[rangoric-srd/spells/Heat Metal|heat metal]] (+4 vs Will).
 
 **Fast Healing (Ex)**: A fire mephit heals only if it is touching a flame at least as large as a torch.

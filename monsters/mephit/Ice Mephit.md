@@ -20,7 +20,7 @@ full-attack: "2 claws +4 melee (1d3 plus 1d4 cold)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Breath weapon, spell-like abilities, summon mephit"
 special-qualities: "Damage reduction 5/magic, darkvision 60 ft., fast healing 2, immunity to cold, vulnerability to fire"
-saves: "Fort +3, Ref +6, Will +3"
+defenses: "Fort 13, Ref 16, Will 13"
 abilities: "Str 10, Dex 17, Con 10, Int 6, Wis 11, Cha 15"
 skills: "Deception +8, Escape Artist +9, Fieldcraft +6 (+11 with bindings), Imitation +4 (+6 acting), Perception +6, Persuasion +2, Stealth +13"
 skill-ranks: "Deception 3, Escape Artist 3, Fieldcraft 3, Imitation 3, Perception 3, Persuasion 0, Stealth 3"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], spell-like abilities, summon mephit
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/magic, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, immunity to cold, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]]
-- **Saves**: Fort +3, Ref +6, Will +3
+- **Defenses**: Fort 13, Ref 16, Will 13
 - **Abilities**: Str 10, Dex 17, Con 10, Int 6, Wis 11, Cha 15
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6 (+11 with bindings), [[rangoric-srd/skills/Imitation|Imitation]] +4 (+6 acting), [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
@@ -73,12 +73,12 @@ Ice mephits speak Common and Auran.
 
 ## Combat
 
-**Breath Weapon (Su)**: 10-foot cone of ice shards, damage 1d4 cold, Reflex DC 12 half. Living creatures that fail their saves are tormented by frostbitten skin and frozen eyes unless they have immunity to cold or are otherwise protected. This effect imposes a –4 penalty to AC and a –2 penalty on attack rolls for 3 rounds. The save DC is Constitution-based and includes a +1 racial bonus.
+**Breath Weapon (Su)**: 10-foot cone of ice shards, damage 1d4 cold, +2 vs Reflex; a miss halves. Living creatures the breath hits are tormented by frostbitten skin and frozen eyes unless they have immunity to cold or are otherwise protected. This effect imposes a –4 penalty to AC and a –2 penalty on attack rolls for 3 rounds. The attack bonus is Constitution-based and includes a +1 racial bonus.
 
-**Spell-Like Abilities**: The save DC is Charisma-based.
+**Spell-Like Abilities**: The attack bonus is Charisma-based.
 
 1/hour - [[rangoric-srd/spells/Magic Missile|magic missile]] (caster level 3rd);
 
-1/day - [[rangoric-srd/spells/Chill Metal|chill metal]] (DC 14, caster level 6th).
+1/day - [[rangoric-srd/spells/Chill Metal|chill metal]] (+4 vs Will, caster level 6th).
 
 **Fast Healing (Ex)**: An ice mephit heals only if it is touching a piece of ice of at least Tiny size or if the ambient temperature is 32°F. or below.

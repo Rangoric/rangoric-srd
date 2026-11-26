@@ -19,7 +19,7 @@ full-attack: "2 claws +6 melee (1d3+2)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Breath weapon, spell-like abilities, summon mephit"
 special-qualities: "Damage reduction 5/magic, darkvision 60 ft., fast healing 2"
-saves: "Fort +4, Ref +3, Will +3"
+defenses: "Fort 14, Ref 13, Will 13"
 abilities: "Str 14, Dex 10, Con 13, Int 6, Wis 11, Cha 15"
 skills: "Athletics +8 (+16 swimming), Deception +8, Escape Artist +6, Fieldcraft +6 (+8 with bindings), Imitation –2 (+0 acting), Perception +6, Persuasion +2, Stealth +10"
 skill-ranks: "Athletics 3, Deception 3, Escape Artist 3, Fieldcraft 3, Imitation 0, Perception 3, Persuasion 0, Stealth 3"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], spell-like abilities, summon mephit
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/magic, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2
-- **Saves**: Fort +4, Ref +3, Will +3
+- **Defenses**: Fort 14, Ref 13, Will 13
 - **Abilities**: Str 14, Dex 10, Con 13, Int 6, Wis 11, Cha 15
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8 (+16 swimming), [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6 (+8 with bindings), [[rangoric-srd/skills/Imitation|Imitation]] –2 (+0 acting), [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]]
@@ -72,9 +72,9 @@ Water mephits speak Common and Aquan.
 
 ## Combat
 
-**Breath Weapon (Su)**: 15-foot cone of caustic liquid, damage 1d8 acid, Reflex DC 13 half. The save DC is Constitution-based and includes a +1 racial bonus.
+**Breath Weapon (Su)**: 15-foot cone of caustic liquid, damage 1d8 acid, +3 vs Reflex; a miss halves. The attack bonus is Constitution-based and includes a +1 racial bonus.
 
-**Spell-Like Abilities**: Once per hour a water mephit can hurl an acidic blob that functions like [[rangoric-srd/spells/Acid Arrow|acid arrow]] (caster level 3rd). Once per day it can create a mass of smelly fog that duplicates the effect of a [[rangoric-srd/spells/Stinking Cloud|stinking cloud]] spell (DC 15, caster level 6th). The save DC is Charisma-based.
+**Spell-Like Abilities**: Once per hour a water mephit can hurl an acidic blob that functions like [[rangoric-srd/spells/Acid Arrow|acid arrow]] (caster level 3rd). Once per day it can create a mass of smelly fog that duplicates the effect of a [[rangoric-srd/spells/Stinking Cloud|stinking cloud]] spell (+5 vs Fortitude, caster level 6th). The attack bonus is Charisma-based.
 
 **Fast Healing (Ex)**: A water mephit heals only if it is exposed to rain or submerged up to its waist in water.
 

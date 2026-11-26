@@ -16,7 +16,7 @@ full-attack: "2 claws +5 melee (1d4+3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision, [[rangoric-srd/monsters/abilities/Deep Dweller|deep dweller]], [[rangoric-srd/monsters/abilities/Immortal|immortal]], amphibious, devoted, item use, resistance to cold 5"
-saves: "Fort +5, Ref +2, Will +5"
+defenses: "Fort 15, Ref 12, Will 15"
 abilities: "Str 17, Dex 9, Con 16, Int 12, Wis 15, Cha 10"
 skills: "Athletics +16, Fieldcraft +7, Intimidation +5, Perception +7, Stealth +4 (+8 underwater), Theology +6"
 skill-ranks: "Athletics 10, Fieldcraft 2, Intimidation 2, Perception 2, Stealth 2, Theology 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Deep Dweller|deep dweller]], [[rangoric-srd/monsters/abilities/Immortal|immortal]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], devoted, [[rangoric-srd/monsters/abilities/Item Use (Deep One)|item use]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 5
-- **Saves**: Fort +5, Ref +2, Will +5
+- **Defenses**: Fort 15, Ref 12, Will 15
 - **Abilities**: Str 17, Dex 9, Con 16, Int 12, Wis 15, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +4 (+8 underwater), [[rangoric-srd/skills/Theology|Theology]] +6
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]]

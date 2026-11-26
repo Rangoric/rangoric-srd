@@ -15,7 +15,7 @@ full-attack: "Masterwork dagger +9 melee (1d4/19–20); or masterwork sling +9 r
 space-reach: "5 ft./5 ft."
 special-attacks: "Weep, spell-like abilities"
 special-qualities: "Darkvision 90 ft., low-light vision, insane beauty (30 ft.), guarded, damage reduction 5/cold iron"
-saves: "Fort +6, Ref +10, Will +8"
+defenses: "Fort 16, Ref 20, Will 18"
 abilities: "Str 10, Dex 21, Con 18, Int 14, Wis 17, Cha 21"
 skills: "Dungeoneering +9, Emulation +15, Linguistics +3, Mysticism +9, Nature +12, Perception +16, Perform (sing) +9, Persuasion +13, Sense Motive +13, Stealth +15"
 skill-ranks: "Dungeoneering 4, Emulation 7, Linguistics 1, Mysticism 4, Nature 7, Perception 9, Perform (sing) 4, Persuasion 5, Sense Motive 9, Stealth 7"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Weep|Weep]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Insane Beauty|insane beauty]] (30 ft.), [[rangoric-srd/monsters/abilities/Guarded|guarded]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron
-- **Saves**: Fort +6, Ref +10, Will +8
+- **Defenses**: Fort 16, Ref 20, Will 18
 - **Abilities**: Str 10, Dex 21, Con 18, Int 14, Wis 17, Cha 21
 - **Skills**: [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +9, [[rangoric-srd/skills/Emulation|Emulation]] +15, [[rangoric-srd/skills/Linguistics|Linguistics]] +3, [[rangoric-srd/skills/Mysticism|Mysticism]] +9, [[rangoric-srd/skills/Nature|Nature]] +12, [[rangoric-srd/skills/Perception|Perception]] +16, Perform (sing) +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +15
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -76,6 +76,6 @@ Just as nymphs guard nature's purest places and dryads protect their sacred tree
 
 **[[rangoric-srd/monsters/abilities/Guarded|Guarded]] (Su)**: A lampad adds her Charisma modifier as a deflection bonus to her Armor Class.
 
-**[[rangoric-srd/monsters/abilities/Insane Beauty|Insane Beauty]] (Su)**: This ability affects all humanoids within 30 feet who are viewing a lampad in conditions brighter than dim light. Those who look directly upon the lampad must succeed at a DC 18 Will save or gain the [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] condition for 1d6 rounds. A creature that succeeds at the save is immune to the same lampad's insane beauty for 24 hours. A lampad can suppress or resume this ability as a free action. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Insane Beauty|Insane Beauty]] (Su)**: This ability affects all humanoids within 30 feet who are viewing a lampad in conditions brighter than dim light. Those who look directly upon the lampad are attacked at +8 vs Will, and on a hit gain the [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] condition for 1d6 rounds. A creature the challenge misses is immune to the same lampad's insane beauty for 24 hours. A lampad can suppress or resume this ability as a free action. The attack bonus is Charisma-based.
 
-**[[rangoric-srd/monsters/abilities/Weep|Weep]] (Su)**: As a standard action, a lampad can unsettle those near her when she cries. Any creature within 30 feet who can hear a lampad weeping becomes [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] unless it succeeds at a DC 18 Will saving throw. This ability can't cause a creature to become [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] or [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]]. This is a mind-affecting fear effect that relies on audible components. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Weep|Weep]] (Su)**: As a standard action, a lampad can unsettle those near her when she cries. Any creature within 30 feet who can hear a lampad weeping is attacked at +8 vs Will, and on a hit becomes [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]]. This ability can't cause a creature to become [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] or [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]]. This is a mind-affecting fear effect that relies on audible components. The attack bonus is Charisma-based.

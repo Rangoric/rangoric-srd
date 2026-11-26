@@ -15,7 +15,7 @@ full-attack: "Bite +10 melee (2d6+6 plus poison)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Charming gaze, poison"
 special-qualities: "Darkvision 60 ft."
-saves: "Fort +8, Ref +10, Will +10"
+defenses: "Fort 18, Ref 20, Will 20"
 abilities: "Str 18, Dex 20, Con 21, Int 12, Wis 17, Cha 17"
 skills: "Arcana +14, Athletics +12, Deception +13, Escape Artist +11, Intimidation +9, Mysticism +11, Perception +22, Stealth +16"
 skill-ranks: "Arcana 10, Athletics 5, Deception 7, Escape Artist 5, Intimidation 3, Mysticism 7, Perception 16, Stealth 11"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: Charming [[rangoric-srd/monsters/abilities/Gaze|gaze]], [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
-- **Saves**: Fort +8, Ref +10, Will +10
+- **Defenses**: Fort 18, Ref 20, Will 20
 - **Abilities**: Str 18, Dex 20, Con 21, Int 12, Wis 17, Cha 17
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (charming gaze), [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Stealth)
@@ -79,8 +79,8 @@ Spirit nagas meet foes boldly so as to use their [[rangoric-srd/monsters/abiliti
 
 **Spells**: A spirit naga casts spells as a 7th-level [[rangoric-srd/classes/Sorcerer|sorcerer]], and can cast spells from the [[rangoric-srd/classes/Cleric|cleric]] list as well as those normally available to a sorcerer. It can also cast spells from the [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]] and [[rangoric-srd/class-options/domains/Evil Domain|Evil]] domains. Cleric and domain spells are considered arcane spells for a spirit naga, so it needs no divine focus to cast them.
 
-**Spells known** (CL 7th): 3rd (5/day)—_[[rangoric-srd/spells/Displacement|displacement]], [[rangoric-srd/spells/Fireball|fireball]]_ (DC 16); 2nd (7/day)—_[[rangoric-srd/spells/Cat’s Grace|cat's grace]], [[rangoric-srd/spells/Invisibility|invisibility]], [[rangoric-srd/spells/Summon Swarm|summon swarm]]_; 1st (7/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 14), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]], [[rangoric-srd/spells/Divine Favor|divine favor]], [[rangoric-srd/spells/Magic Missile|magic missile]], [[rangoric-srd/spells/Shield of Faith|shield of faith]]_; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]], [[rangoric-srd/spells/Daze|daze]]_ (DC 13), _[[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Mage Hand|mage hand]], [[rangoric-srd/spells/Open-Close|open/close]], [[rangoric-srd/spells/Ray of Frost|ray of frost]], [[rangoric-srd/spells/Read Magic|read magic]]_.
+**Spells known** (CL 7th): 3rd (5/day)—_[[rangoric-srd/spells/Displacement|displacement]], [[rangoric-srd/spells/Fireball|fireball]]_ (+6 vs Reflex); 2nd (7/day)—_[[rangoric-srd/spells/Cat’s Grace|cat's grace]], [[rangoric-srd/spells/Invisibility|invisibility]], [[rangoric-srd/spells/Summon Swarm|summon swarm]]_; 1st (7/day)—_[[rangoric-srd/spells/Charm Person|charm person]]_ (+4 vs Will), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]], [[rangoric-srd/spells/Divine Favor|divine favor]], [[rangoric-srd/spells/Magic Missile|magic missile]], [[rangoric-srd/spells/Shield of Faith|shield of faith]]_; 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]], [[rangoric-srd/spells/Daze|daze]]_ (+3 vs Will), _[[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Mage Hand|mage hand]], [[rangoric-srd/spells/Open-Close|open/close]], [[rangoric-srd/spells/Ray of Frost|ray of frost]], [[rangoric-srd/spells/Read Magic|read magic]]_.
 
-**Charming Gaze (Su)**: As charm person, 30 feet, Will DC 20 negates. The save DC is Charisma-based.
+**Charming Gaze (Su)**: As charm person, 30 feet, +10 vs Will. The attack bonus is Charisma-based.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Spirit Naga Venom|Spirit Naga Venom]]: Bite—injury; _save_ Fort DC 20; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Con damage; _cure_ 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Spirit Naga Venom|Spirit Naga Venom]]: Bite—injury; _attack_ +10 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Con damage; _cure_ 1 miss.

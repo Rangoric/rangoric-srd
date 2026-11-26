@@ -19,7 +19,7 @@ full-attack: "2 claws +4 melee (1d3 plus 1d4 fire)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Breath weapon, spell-like abilities, summon mephit"
 special-qualities: "Damage reduction 5/magic, darkvision 60 ft., fast healing 2, immunity to fire, vulnerability to cold"
-saves: "Fort +3, Ref +4, Will +3"
+defenses: "Fort 13, Ref 14, Will 13"
 abilities: "Str 10, Dex 13, Con 10, Int 6, Wis 11, Cha 15"
 skills: "Deception +8, Escape Artist +7, Fieldcraft +6 (+9 with bindings), Imitation +4 (+6 acting), Perception +6, Persuasion +2, Stealth +11"
 skill-ranks: "Deception 3, Escape Artist 3, Fieldcraft 3, Imitation 3, Perception 3, Persuasion 0, Stealth 3"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], spell-like abilities, summon mephit
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/magic, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, immunity to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|vulnerability to cold]]
-- **Saves**: Fort +3, Ref +4, Will +3
+- **Defenses**: Fort 13, Ref 14, Will 13
 - **Abilities**: Str 10, Dex 13, Con 10, Int 6, Wis 11, Cha 15
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6 (+9 with bindings), [[rangoric-srd/skills/Imitation|Imitation]] +4 (+6 acting), [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
@@ -74,8 +74,8 @@ Steam mephits speak Common and Ignan.
 
 Unlike other mephits, steam mephits rush into combat eagerly, driven by an oversized ego.
 
-**Breath Weapon (Su)**: 10-foot cone of steam, damage 1d4 fire, Reflex DC 12 half. Living creatures that fail their saves are tormented by burned skin and seared eyes unless they have immunity to fire or are otherwise protected. This effect imposes a –4 penalty to AC and a –2 penalty on attack rolls for 3 rounds. The save DC is Constitution-based and includes a +1 racial bonus.
+**Breath Weapon (Su)**: 10-foot cone of steam, damage 1d4 fire, +2 vs Reflex; a miss halves. Living creatures the breath hits are tormented by burned skin and seared eyes unless they have immunity to fire or are otherwise protected. This effect imposes a –4 penalty to AC and a –2 penalty on attack rolls for 3 rounds. The attack bonus is Constitution-based and includes a +1 racial bonus.
 
-**Spell-Like Abilities**: Once per hour a steam mephit can surround itself with a plume of vapor, duplicating the effect of a [[rangoric-srd/spells/Blur|blur]] spell (caster level 3rd). Once per day it can create a rainstorm of boiling water that affects a 20-foot-square area. Living creatures caught in the storm take 2d6 points of fire damage (Reflex DC 14 half; caster level 6th). This ability is the equivalent of a 2nd-level spell. The save DCs are Charisma-based.
+**Spell-Like Abilities**: Once per hour a steam mephit can surround itself with a plume of vapor, duplicating the effect of a [[rangoric-srd/spells/Blur|blur]] spell (caster level 3rd). Once per day it can create a rainstorm of boiling water that affects a 20-foot-square area. Living creatures caught in the storm take 2d6 points of fire damage (+4 vs Reflex; a miss halves; caster level 6th). This ability is the equivalent of a 2nd-level spell. The attack bonuses are Charisma-based.
 
 **Fast Healing (Ex)**: A steam mephit heals only if it is touching boiling water or is in a hot, humid area.
