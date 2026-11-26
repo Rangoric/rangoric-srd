@@ -19,7 +19,7 @@ full-attack: "2 slams +57 (4d10+24/19-20) melee"
 space-reach: "30 ft./30 ft."
 special-attacks: "Earth mastery, push"
 special-qualities: "Elemental traits, DR 15/-, SR 42"
-saves: "Fort +46, Ref +21, Will +28"
+defenses: "Fort 56, Ref 31, Will 38"
 abilities: "Str 43, Dex 8, Con 31, Int 8, Wis 13, Cha 13"
 skills: "Athletics +29 (+23 jumping), Perception +64"
 skill-ranks: "Athletics 10, Perception 54"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 30 ft./30 ft.
 - **Special Attacks**: Earth mastery, push
 - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|Elemental traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/-, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 42
-- **Saves**: Fort +46, Ref +21, Will +28
+- **Defenses**: Fort 56, Ref 31, Will 38
 - **Abilities**: Str 43, Dex 8, Con 31, Int 8, Wis 13, Cha 13
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +29 (+23 jumping), [[rangoric-srd/skills/Perception|Perception]] +64
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (slam), [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)

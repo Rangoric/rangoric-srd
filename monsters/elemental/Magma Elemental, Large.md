@@ -14,9 +14,9 @@ cmd: "22"
 attack: "Slam +11 melee (1d8+4 plus burn)"
 full-attack: "2 slams +11 melee (1d8+4 plus burn)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Burn (1d6, DC 14), lava puddle"
+special-attacks: "Burn (1d6, +4 vs Reflex), lava puddle"
 special-qualities: "Darkvision 60 ft., damage reduction 5/-, immunity to fire, elemental traits, vulnerable to cold"
-saves: "Fort +8, Ref +5, Will +2"
+defenses: "Fort 18, Ref 15, Will 12"
 abilities: "Str 18, Dex 8, Con 15, Int 6, Wis 11, Cha 11"
 skills: "Athletics +15, Dungeoneering +9, Perception +11, Stealth +6"
 skill-ranks: "Athletics 8, Dungeoneering 8, Perception 8, Stealth 8"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +11 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
 - **Full Attack**: 2 slams +11 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
 - **Space/Reach**: 10 ft./10 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d6, DC 14), [[rangoric-srd/monsters/elemental/Magma Elemental#^lava-puddle|lava puddle]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d6, +4 vs Reflex), [[rangoric-srd/monsters/elemental/Magma Elemental#^lava-puddle|lava puddle]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], vulnerable to cold
-- **Saves**: Fort +8, Ref +5, Will +2
+- **Defenses**: Fort 18, Ref 15, Will 12
 - **Abilities**: Str 18, Dex 8, Con 15, Int 6, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +9, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]

@@ -16,7 +16,7 @@ full-attack: "+1 warhammer +12/+7 melee (1d8+7/×3); or warhammer +8 ranged (1d8
 space-reach: "5 ft./5 ft."
 special-attacks: "Weapon training (hammers +1)"
 special-qualities: "Low-light vision, bravery +2, armor training 1, elf blood, immunity to sleep"
-saves: "Fort +8, Ref +1, Will +3 (+2 vs. enchantments, +2 vs. fear)"
+defenses: "Fort 18, Ref 11, Will 13 (+2 vs. enchantments, +2 vs. fear)"
 abilities: "Str 16, Dex 8, Con 16, Int 13, Wis 12, Cha 10"
 skills: "Appraise +7, Craft (armor) +10, Craft (weapons) +17, Perception +3"
 skill-ranks: "Appraise 3, Craft (armor) 6, Craft (weapons) 13, Perception 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (hammers +1)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +2, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
-- **Saves**: Fort +8, Ref +1, Will +3 (+2 vs. enchantments, +2 vs. fear)
+- **Defenses**: Fort 18, Ref 11, Will 13 (+2 vs. enchantments, +2 vs. fear)
 - **Abilities**: Str 16, Dex 8, Con 16, Int 13, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +7, [[rangoric-srd/skills/Craft|Craft]] (armor) +10, [[rangoric-srd/skills/Craft|Craft]] (weapons) +17, [[rangoric-srd/skills/Perception|Perception]] +3
 - **Feats**: [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Master Craftsman|Master Craftsman]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft \[weapons\]), [[rangoric-srd/feats/Throw Anything|Throw Anything]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (warhammer), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (warhammer)

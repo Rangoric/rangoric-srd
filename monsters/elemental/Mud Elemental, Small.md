@@ -14,9 +14,9 @@ cmd: "12"
 attack: "Slam +5 melee (1d4+3 plus entrap)"
 full-attack: "Slam +5 melee (1d4+3 plus entrap)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Entrap (DC 12, 10 minutes, hardness 5, hp 5)"
+special-attacks: "Entrap (+2 vs Fortitude, 10 minutes, hardness 5, hp 5)"
 special-qualities: "Darkvision 60 ft., tremorsense 30 ft., immunity to acid, elemental traits"
-saves: "Fort +4, Ref +2, Will +0"
+defenses: "Fort 14, Ref 12, Will 10"
 abilities: "Str 14, Dex 8, Con 13, Int 4, Wis 11, Cha 11"
 skills: "Athletics +10, Escape Artist +3, Perception +5, Stealth +7, Theology +1"
 skill-ranks: "Athletics 5, Escape Artist 1, Perception 2, Stealth 1, Theology 1"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +5 melee (1d4+3 plus [[rangoric-srd/monsters/abilities/Entrap|entrap]])
 - **Full Attack**: Slam +5 melee (1d4+3 plus [[rangoric-srd/monsters/abilities/Entrap|entrap]])
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Entrap|Entrap]] (DC 12, 10 minutes, hardness 5, hp 5)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Entrap|Entrap]] (+2 vs Fortitude, 10 minutes, hardness 5, hp 5)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-- **Saves**: Fort +4, Ref +2, Will +0
+- **Defenses**: Fort 14, Ref 12, Will 10
 - **Abilities**: Str 14, Dex 8, Con 13, Int 4, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +3, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +7, [[rangoric-srd/skills/Theology|Theology]] +1
 - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]]

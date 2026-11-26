@@ -14,9 +14,9 @@ cmd: "43"
 attack: "Slam +21 melee (2d8+7)"
 full-attack: "2 slams +21 melee (2d8+7)"
 space-reach: "15 ft./15 ft."
-special-attacks: "Whirlwind (DC 23)"
+special-attacks: "Whirlwind (+13 vs Reflex)"
 special-qualities: "Darkvision 60 ft., air mastery, damage reduction 10/-, elemental traits"
-saves: "Fort +12, Ref +18, Will +6"
+defenses: "Fort 22, Ref 28, Will 16"
 abilities: "Str 24, Dex 31, Con 18, Int 8, Wis 11, Cha 11"
 skills: "Acrobatics +27, Escape Artist +23, Perception +16, Stealth +15, Theology +12"
 skill-ranks: "Acrobatics 18, Escape Artist 10, Perception 13, Stealth 10, Theology 10"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +21 melee (2d8+7)
 - **Full Attack**: 2 slams +21 melee (2d8+7)
 - **Space/Reach**: 15 ft./15 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Whirlwind|Whirlwind]] (DC 23)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Whirlwind|Whirlwind]] (+13 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/elemental/Air Elemental#^air-mastery|air mastery]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-- **Saves**: Fort +12, Ref +18, Will +6
+- **Defenses**: Fort 22, Ref 28, Will 16
 - **Abilities**: Str 24, Dex 31, Con 18, Int 8, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +27, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +23, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +12
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

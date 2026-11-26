@@ -14,9 +14,9 @@ cmd: "15"
 attack: "Slam +6 melee (1d6+3 plus burn)"
 full-attack: "Slam +6 melee (1d6+3 plus burn)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Burn (1d4, DC 12), lava puddle"
+special-attacks: "Burn (1d4, +2 vs Reflex), lava puddle"
 special-qualities: "Darkvision 60 ft., immunity to fire, elemental traits, vulnerable to cold"
-saves: "Fort +6, Ref +3, Will +1"
+defenses: "Fort 16, Ref 13, Will 11"
 abilities: "Str 14, Dex 8, Con 15, Int 4, Wis 11, Cha 11"
 skills: "Dungeoneering +4, Perception +7, Stealth +6"
 skill-ranks: "Dungeoneering 4, Perception 4, Stealth 4"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +6 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
 - **Full Attack**: Slam +6 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d4, DC 12), [[rangoric-srd/monsters/elemental/Magma Elemental#^lava-puddle|lava puddle]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d4, +2 vs Reflex), [[rangoric-srd/monsters/elemental/Magma Elemental#^lava-puddle|lava puddle]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], vulnerable to cold
-- **Saves**: Fort +6, Ref +3, Will +1
+- **Defenses**: Fort 16, Ref 13, Will 11
 - **Abilities**: Str 14, Dex 8, Con 15, Int 4, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +4, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]

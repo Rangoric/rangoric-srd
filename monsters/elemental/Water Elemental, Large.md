@@ -14,9 +14,9 @@ cmd: "27"
 attack: "Slam +12 melee (1d8+5)"
 full-attack: "2 slams +12 melee (1d8+5)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Drench, vortex (DC 19), water mastery"
+special-attacks: "Drench, vortex (+9 vs Reflex), water mastery"
 special-qualities: "Darkvision 60 ft., damage reduction 5/-, elemental traits"
-saves: "Fort +9, Ref +8, Will +2"
+defenses: "Fort 19, Ref 18, Will 12"
 abilities: "Str 20, Dex 14, Con 17, Int 6, Wis 11, Cha 11"
 skills: "Acrobatics +9, Athletics +24, Escape Artist +11, Perception +9, Stealth +5, Theology +5"
 skill-ranks: "Acrobatics 4, Athletics 16, Escape Artist 6, Perception 6, Stealth 4, Theology 4"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +12 melee (1d8+5)
 - **Full Attack**: 2 slams +12 melee (1d8+5)
 - **Space/Reach**: 10 ft./10 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/elemental/Water Elemental#^drench|Drench]], [[rangoric-srd/monsters/elemental/Water Elemental#^vortex|vortex]] (DC 19), [[rangoric-srd/monsters/elemental/Water Elemental#^water-mastery|water mastery]]
+- **Special Attacks**: [[rangoric-srd/monsters/elemental/Water Elemental#^drench|Drench]], [[rangoric-srd/monsters/elemental/Water Elemental#^vortex|vortex]] (+9 vs Reflex), [[rangoric-srd/monsters/elemental/Water Elemental#^water-mastery|water mastery]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-- **Saves**: Fort +9, Ref +8, Will +2
+- **Defenses**: Fort 19, Ref 18, Will 12
 - **Abilities**: Str 20, Dex 14, Con 17, Int 6, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +24, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +11, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +5, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Power Attack|Power Attack]]

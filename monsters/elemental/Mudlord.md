@@ -14,9 +14,9 @@ cmd: "25 (can't be tripped)"
 attack: "Slam +13 melee (2d6+3 plus grab) or mudball +12 ranged touch (blindness)"
 full-attack: "2 slams +13 melee (2d6+3 plus grab); or mudball +12 ranged touch (blindness)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Engulf (DC 17, 1d6+3 bludgeoning and smother), smother"
+special-attacks: "Engulf (+7 vs Reflex, 1d6+3 bludgeoning and smother), smother"
 special-qualities: "Darkvision 60 ft., tremorsense 30 ft., amorphous, compression, freeze (mud puddle), damage reduction 10/magic, elemental traits, spell resistance 17, vulnerable to magic"
-saves: "Fort +8, Ref +9, Will +4"
+defenses: "Fort 18, Ref 19, Will 14"
 abilities: "Str 17, Dex 16, Con 14, Int 10, Wis 13, Cha 7"
 skills: "Acrobatics +15, Athletics +17, Escape Artist +15, Intimidation +10, Perception +13, Stealth +18, Theology +6"
 skill-ranks: "Acrobatics 9, Athletics 11, Escape Artist 9, Intimidation 9, Perception 9, Stealth 12, Theology 3"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +13 melee (2d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or mudball +12 ranged touch (blindness)
 - **Full Attack**: 2 slams +13 melee (2d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]); or mudball +12 ranged touch (blindness)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: Engulf (DC 17, 1d6+3 bludgeoning and [[rangoric-srd/monsters/abilities/Smother|smother]]), [[rangoric-srd/monsters/abilities/Smother|smother]]
+- **Special Attacks**: Engulf (+7 vs Reflex, 1d6+3 bludgeoning and [[rangoric-srd/monsters/abilities/Smother|smother]]), [[rangoric-srd/monsters/abilities/Smother|smother]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Freeze|freeze]] (mud puddle), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17, [[rangoric-srd/monsters/abilities/Vulnerable to Magic|vulnerable to magic]]
-- **Saves**: Fort +8, Ref +9, Will +4
+- **Defenses**: Fort 18, Ref 19, Will 14
 - **Abilities**: Str 17, Dex 16, Con 14, Int 10, Wis 13, Cha 7
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +15, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +18, [[rangoric-srd/skills/Theology|Theology]] +6
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
@@ -79,6 +79,6 @@ Mudlords speak Terran.
 
 **[[rangoric-srd/monsters/abilities/Engulf|Engulf]] (Su)**: A mudlord can engulf no more than one Medium or two Small or smaller creatures at a time.
 
-**[[rangoric-srd/monsters/abilities/Mudball (Mudlord)|Mudball]] (Ex)**: A mudlord can throw a ball of sticky mud up to 30 feet at an opponent's face as a ranged touch attack. It if hits, the target is [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]]. Each round on its turn, the target can attempt a DC 16 Reflex save as a free action; if successful, the target shakes off the mud. The target or an adjacent creature can wipe off the mud as a standard action. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Mudball (Mudlord)|Mudball]] (Ex)**: A mudlord can throw a ball of sticky mud up to 30 feet at an opponent's face as a ranged touch attack. It if hits, the target is [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]]. Each round on its turn, the target can attempt a DC 16 Reflex check (1d20 + Reflex save bonus) as a free action; if successful, the target shakes off the mud. The target or an adjacent creature can wipe off the mud as a standard action. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Vulnerable to Magic|Vulnerable to Magic]] (Ex)**: A transmute mud to rock spell deals 1d6 points of damage per caster level to any mudlord in the area and automatically staggers it for 2d6 rounds.

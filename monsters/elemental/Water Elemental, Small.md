@@ -14,9 +14,9 @@ cmd: "13"
 attack: "Slam +5 melee (1d6+3)"
 full-attack: "Slam +5 melee (1d6+3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Drench, vortex (DC 13), water mastery"
+special-attacks: "Drench, vortex (+3 vs Reflex), water mastery"
 special-qualities: "Darkvision 60 ft., elemental traits"
-saves: "Fort +4, Ref +3, Will +0"
+defenses: "Fort 14, Ref 13, Will 10"
 abilities: "Str 14, Dex 10, Con 13, Int 4, Wis 11, Cha 11"
 skills: "Acrobatics +4, Athletics +14, Escape Artist +4, Perception +4, Stealth +8, Theology +1"
 skill-ranks: "Acrobatics 1, Athletics 9, Escape Artist 1, Perception 1, Stealth 1, Theology 1"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +5 melee (1d6+3)
 - **Full Attack**: Slam +5 melee (1d6+3)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/elemental/Water Elemental#^drench|Drench]], [[rangoric-srd/monsters/elemental/Water Elemental#^vortex|vortex]] (DC 13), [[rangoric-srd/monsters/elemental/Water Elemental#^water-mastery|water mastery]]
+- **Special Attacks**: [[rangoric-srd/monsters/elemental/Water Elemental#^drench|Drench]], [[rangoric-srd/monsters/elemental/Water Elemental#^vortex|vortex]] (+3 vs Reflex), [[rangoric-srd/monsters/elemental/Water Elemental#^water-mastery|water mastery]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-- **Saves**: Fort +4, Ref +3, Will +0
+- **Defenses**: Fort 14, Ref 13, Will 10
 - **Abilities**: Str 14, Dex 10, Con 13, Int 4, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +4, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +8, [[rangoric-srd/skills/Theology|Theology]] +1
 - **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]]

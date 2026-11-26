@@ -16,7 +16,7 @@ full-attack: "4 tentacles +14 melee (1d4+1 plus grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Deadly embrace"
 special-qualities: "Darkvision 60 ft., wind defense, gaseous, damage reduction 10/magic, immunity to electricity, elemental traits, spell resistance 19, susceptible to cold"
-saves: "Fort +12, Ref +12, Will +4"
+defenses: "Fort 22, Ref 22, Will 14"
 abilities: "Str 12, Dex 23, Con 23, Int 14, Wis 14, Cha 13"
 skills: "Acrobatics +21, Deception +12, Escape Artist +17, Perception +13, Sense Motive +13, Stealth +17, Theology +13"
 skill-ranks: "Acrobatics 12, Deception 8, Escape Artist 8, Perception 8, Sense Motive 8, Stealth 8, Theology 8"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Deadly Embrace|Deadly embrace]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Wind Defense|wind defense]], [[rangoric-srd/monsters/abilities/Gaseous|gaseous]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19, [[rangoric-srd/monsters/abilities/Susceptible to Cold|susceptible to cold]]
-- **Saves**: Fort +12, Ref +12, Will +4
+- **Defenses**: Fort 22, Ref 22, Will 14
 - **Abilities**: Str 12, Dex 23, Con 23, Int 14, Wis 14, Cha 13
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +21, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +17, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +13
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -75,6 +75,6 @@ Mihstus speak Auran.
 
 **[[rangoric-srd/monsters/abilities/Deadly Embrace|Deadly Embrace]] (Ex)**: A mihstu that pins an opponent completely surrounds that creature and deals 1d2 Constitution damage every round as it siphons away blood, tears, and other vital fluids. Maintaining a pin is a free action for a mihstu and it does not gain the grappled condition (allowing it to attack other creatures with its tentacles).
 
-**[[rangoric-srd/monsters/abilities/Susceptible to Cold|Susceptible to Cold]] (Ex)**: Magical cold stuns a mihstu rather than damaging it. If the creature fails its save against a magical cold effect, it is [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round and then [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for an additional 1d4 rounds.
+**[[rangoric-srd/monsters/abilities/Susceptible to Cold|Susceptible to Cold]] (Ex)**: Magical cold stuns a mihstu rather than damaging it. If a magical cold effect hits the creature, it is [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round and then [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for an additional 1d4 rounds.
 
 **[[rangoric-srd/monsters/abilities/Wind Defense|Wind Defense]] (Ex)**: The churning winds of a mihstu's body automatically deflect nonmagical projectiles (such as arrows, bolts, and sling stones). All other ranged weapons (including magical projectiles and thrown weapons) have a 20% miss chance. Weapons of significant size, such as giant-thrown boulders, [[rangoric-srd/rules/Siege Engines|siege engine]] projectiles, and other massive ranged weapons are not affected by this ability.

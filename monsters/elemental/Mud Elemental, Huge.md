@@ -14,9 +14,9 @@ cmd: "33"
 attack: "Slam +15 melee (2d6+7 plus entrap)"
 full-attack: "2 slams +15 melee (2d6+7 plus entrap)"
 space-reach: "15 ft./15 ft."
-special-attacks: "Entrap (DC 19, 10 minutes, hardness 5, hp 15)"
+special-attacks: "Entrap (+9 vs Fortitude, 10 minutes, hardness 5, hp 15)"
 special-qualities: "Darkvision 60 ft., tremorsense 30 ft., damage reduction 5/-, immunity to acid, elemental traits"
-saves: "Fort +11, Ref +10, Will +3"
+defenses: "Fort 21, Ref 20, Will 13"
 abilities: "Str 24, Dex 16, Con 19, Int 6, Wis 11, Cha 11"
 skills: "Athletics +17, Escape Artist +13, Perception +13, Stealth +8, Theology +7"
 skill-ranks: "Athletics 7, Escape Artist 7, Perception 10, Stealth 10, Theology 6"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +15 melee (2d6+7 plus [[rangoric-srd/monsters/abilities/Entrap|entrap]])
 - **Full Attack**: 2 slams +15 melee (2d6+7 plus [[rangoric-srd/monsters/abilities/Entrap|entrap]])
 - **Space/Reach**: 15 ft./15 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Entrap|Entrap]] (DC 19, 10 minutes, hardness 5, hp 15)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Entrap|Entrap]] (+9 vs Fortitude, 10 minutes, hardness 5, hp 15)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-- **Saves**: Fort +11, Ref +10, Will +3
+- **Defenses**: Fort 21, Ref 20, Will 13
 - **Abilities**: Str 24, Dex 16, Con 19, Int 6, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +13, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +8, [[rangoric-srd/skills/Theology|Theology]] +7
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]]

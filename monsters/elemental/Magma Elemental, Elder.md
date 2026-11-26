@@ -14,9 +14,9 @@ cmd: "35"
 attack: "Slam +22 melee (3d6+8 plus burn)"
 full-attack: "2 slams +22 melee (3d6+8 plus burn)"
 space-reach: "15 ft./15 ft."
-special-attacks: "Burn (3d6, DC 20), lava puddle"
+special-attacks: "Burn (3d6, +10 vs Reflex), lava puddle"
 special-qualities: "Darkvision 60 ft., damage reduction 10/-, immunity to fire, elemental traits, vulnerable to cold"
-saves: "Fort +14, Ref +9, Will +5"
+defenses: "Fort 24, Ref 19, Will 15"
 abilities: "Str 26, Dex 8, Con 19, Int 10, Wis 11, Cha 11"
 skills: "Athletics +27, Dungeoneering +19, Intimidation +19, Perception +19, Stealth +10, Theology +19"
 skill-ranks: "Athletics 16, Dungeoneering 16, Intimidation 16, Perception 16, Stealth 16, Theology 16"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +22 melee (3d6+8 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
 - **Full Attack**: 2 slams +22 melee (3d6+8 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
 - **Space/Reach**: 15 ft./15 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (3d6, DC 20), [[rangoric-srd/monsters/elemental/Magma Elemental#^lava-puddle|lava puddle]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (3d6, +10 vs Reflex), [[rangoric-srd/monsters/elemental/Magma Elemental#^lava-puddle|lava puddle]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], vulnerable to cold
-- **Saves**: Fort +14, Ref +9, Will +5
+- **Defenses**: Fort 24, Ref 19, Will 15
 - **Abilities**: Str 26, Dex 8, Con 19, Int 10, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +27, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +19, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +10, [[rangoric-srd/skills/Theology|Theology]] +19
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Greater Bull Rush|Greater Bull Rush]], [[rangoric-srd/feats/Greater Overrun|Greater Overrun]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]

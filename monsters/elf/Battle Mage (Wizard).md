@@ -16,7 +16,7 @@ full-attack: "Masterwork rapier +3 melee (1d6/18–20); or masterwork longbow +4
 space-reach: "5 ft./5 ft."
 special-attacks: "Hand of the apprentice (6/day)"
 special-qualities: "Low-light vision, arcane bond (rapier), elven magic, weapon familiarity, immunity to sleep"
-saves: "Fort +2, Ref +3, Will +3 (+2 vs. enchantments)"
+defenses: "Fort 12, Ref 13, Will 13 (+2 vs. enchantments)"
 abilities: "Str 12, Dex 15, Con 12, Int 17, Wis 10, Cha 8"
 skills: "Acrobatics +4, Arcana +9, Athletics +2, Mysticism +9, Perception +5, Society +7, Stealth +4"
 skill-ranks: "Acrobatics 2, Arcana 3, Athletics 1, Mysticism 3, Perception 2, Society 1, Stealth 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/class-options/arcane-schools/Universalist School|Hand of the apprentice]] (6/day)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] (rapier), [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
-- **Saves**: Fort +2, Ref +3, Will +3 (+2 vs. enchantments)
+- **Defenses**: Fort 12, Ref 13, Will 13 (+2 vs. enchantments)
 - **Abilities**: Str 12, Dex 15, Con 12, Int 17, Wis 10, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +2, [[rangoric-srd/skills/Mysticism|Mysticism]] +9, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Society|Society]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +4
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]]
@@ -75,4 +75,4 @@ A battle mage (wizard) speaks Common, Draconic, Elven, Orc, and Sylvan.
 
 **Base Statistics**: Without mage armor, the wizard's statistics are **AC** 12, touch 12, flat-footed 10.
 
-**Wizard spells prepared** (CL 3rd; concentration +6): 2nd—_[[rangoric-srd/spells/Mirror Image|mirror image]]_, _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_; 1st—_[[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Shield|shield]]_, _[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]_; 0 (at will)—_[[rangoric-srd/spells/Daze|daze]]_ (DC 13), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Resistance|resistance]]_.
+**Wizard spells prepared** (CL 3rd; concentration +6): 2nd—_[[rangoric-srd/spells/Mirror Image|mirror image]]_, _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_; 1st—_[[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Shield|shield]]_, _[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]_; 0 (at will)—_[[rangoric-srd/spells/Daze|daze]]_ (+3 vs Will), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Resistance|resistance]]_.

@@ -14,9 +14,9 @@ cmd: "46"
 attack: "Slam +23 melee (2d8+8 plus burn)"
 full-attack: "2 slams +23 melee (2d8+8 plus burn)"
 space-reach: "15 ft./15 ft."
-special-attacks: "Burn (2d10, DC 22)"
+special-attacks: "Burn (2d10, +12 vs Reflex)"
 special-qualities: "Darkvision 60 ft., damage reduction 10/-, immunity to fire, elemental traits, vulnerability to cold"
-saves: "Fort +14, Ref +19, Will +7"
+defenses: "Fort 24, Ref 29, Will 17"
 abilities: "Str 26, Dex 29, Con 18, Int 10, Wis 11, Cha 11"
 skills: "Acrobatics +28, Athletics +27, Escape Artist +28, Intimidation +19, Perception +19, Theology +19"
 skill-ranks: "Acrobatics 16, Athletics 16, Escape Artist 16, Intimidation 16, Perception 16, Theology 16"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +23 melee (2d8+8 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
 - **Full Attack**: 2 slams +23 melee (2d8+8 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
 - **Space/Reach**: 15 ft./15 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (2d10, DC 22)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (2d10, +12 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability]] to cold
-- **Saves**: Fort +14, Ref +19, Will +7
+- **Defenses**: Fort 24, Ref 29, Will 17
 - **Abilities**: Str 26, Dex 29, Con 18, Int 10, Wis 11, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +28, [[rangoric-srd/skills/Athletics|Athletics]] +27, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +28, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Theology|Theology]] +19
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Stance|Lightning Stance]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Wind Stance|Wind Stance]]
