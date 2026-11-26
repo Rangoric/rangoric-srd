@@ -16,4 +16,4 @@ You relish hot climates, as the equatorial heat does not sap your strength.
 
 **Prerequisites**: [[rangoric-srd/feats/Desert Dweller|Desert Dweller]] or [[rangoric-srd/feats/Jungle Survivalist|Jungle Survivalist]].
 
-**Benefit**: You treat [[rangoric-srd/rules/Wilderness, Weather, and Environment#Heat Dangers|hot environments]] as though they were one step less severe; if you have a similar ability from another feat (like [[rangoric-srd/feats/Desert Dweller|Desert Dweller]]), the benefits stack and you treat hot conditions as if they were two steps less severe. You do not take the penalty on saving throws against heat for wearing armor.
+**Benefit**: You treat [[rangoric-srd/rules/Wilderness, Weather, and Environment#Heat Dangers|hot environments]] as though they were one step less severe; if you have a similar ability from another feat (like [[rangoric-srd/feats/Desert Dweller|Desert Dweller]]), the benefits stack and you treat hot conditions as if they were two steps less severe. You do not take the penalty on defenses against heat for wearing armor.

@@ -17,4 +17,4 @@ Fear passes quickly while you are raging.
 
 **Prerequisites**: [[rangoric-srd/races/Orc|Orc]], [[rangoric-srd/classes/Barbarian#^barbarian-rage|rage]] class feature.
 
-**Benefit**: While raging, when under the effect of a fear effect that allows a saving throw, you can make a new saving throw against that fear effect at the start of each of your turns before acting. If you make the new save, the fear effect ends.
+**Benefit**: While raging, when under the effect of a fear effect that attacks a defense, you can make that fear effect attack you again at the start of each of your turns before acting. If it misses, the fear effect ends.
