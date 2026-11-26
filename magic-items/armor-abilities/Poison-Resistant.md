@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Poison-Resistant
 
-A suit of armor or shield with this special ability grants the wearer a +3 resistance bonus on saving throws against poison.
+A suit of armor or shield with this special ability grants the wearer a +3 resistance bonus on defenses against poison.
 
 Moderate conjuration; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]_; Price +2,250 gp.

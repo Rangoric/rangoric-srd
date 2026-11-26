@@ -16,5 +16,5 @@ tags: [rangoric, rangoric/magic-item, epic]
 
 # Armor of the Abyssal Horde
 
-This+6 full plate armor’s clawed gauntlets are effectively +4 keen weapons (1d10/19-20) that afflict the target as if she had been struck by an energy drain spell (Fortitude negates DC 23). The armor bestows two negative levels on any nonevil creature wearing it. These negative levels persist as long as the armor is worn and disappear when the armor is removed. The negative levels never result in actual level loss, but they cannot be overcome in any way (including restoration spells) while the armor is worn.  
+This+6 full plate armor’s clawed gauntlets are effectively +4 keen weapons (1d10/19-20) that afflict the target as if she had been struck by an energy drain spell (_attack_ +13 vs Fortitude). The armor bestows two negative levels on any nonevil creature wearing it. These negative levels persist as long as the armor is worn and disappear when the armor is removed. The negative levels never result in actual level loss, but they cannot be overcome in any way (including restoration spells) while the armor is worn.  
 Caster Level: 20th; Prerequisites: Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, creator must be evil, energy drain; Market Price: 768,260 gp; Cost to Create: 385,260 gp + 17,660 XP.

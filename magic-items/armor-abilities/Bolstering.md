@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Bolstering
 
-Anytime the wearer of _bolstering_ armor damages a creature with a melee or ranged attack, he gains a +2 competence bonus on saving throws against that creature's abilities until the start of his next turn. The _bolstering_ ability can be applied to medium armor, heavy armor, light shields, heavy shields, and tower shields, but not light armor or bucklers.
+Anytime the wearer of _bolstering_ armor damages a creature with a melee or ranged attack, he gains a +2 competence bonus on defenses against that creature's abilities until the start of his next turn. The _bolstering_ ability can be applied to medium armor, heavy armor, light shields, heavy shields, and tower shields, but not light armor or bucklers.
 
 Faint enchantment; CL 5th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Heroism|heroism]]_; Price +1 bonus.

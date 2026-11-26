@@ -23,7 +23,7 @@ The title of this book is embossed into the scaly cover. Inside, the pages spark
 
 **Opposition Schools**: Evocation, necromancy
 
-**Protection**: The entire book is warded with illusory script (Will DC 16; on failure, the suggestion is for the reader to “Close the book and leave”).
+**Protection**: The entire book is warded with illusory script (_attack_ +6 vs Will; on a hit, the suggestion is for the reader to “Close the book and leave”).
 
 **Value**: 1,005 gp (1,705 gp with the preparation ritual)
 
@@ -36,4 +36,4 @@ The title of this book is embossed into the scaly cover. Inside, the pages spark
 
 ## Preparation Ritual
 
-**Glittering Eyes (Su)**: When casting an illusion spell, you gain expanded sight. Spend this boon's effect as a free action when you cast an illusion spell. You gain darkvision 60 feet and a +4 bonus on saving throws to disbelieve illusions, with both benefits lasting for 1 minute.
+**Glittering Eyes (Su)**: When casting an illusion spell, you gain expanded sight. Spend this boon's effect as a free action when you cast an illusion spell. You gain darkvision 60 feet and a +4 bonus on defenses to disbelieve illusions, with both benefits lasting for 1 minute.

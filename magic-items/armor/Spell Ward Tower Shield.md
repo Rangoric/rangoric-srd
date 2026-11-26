@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Spell Ward Tower Shield
 
-This _+2 spell resistance (13) tower shield_ grants a +4 resistance bonus on Reflex saving throws against spells and spell-like abilities. Once per day, when the wearer succeeds at a saving throw against a spell or spell-like ability that allows a Reflex saving throw for half damage, she may spend an immediate action to instead take no damage from that spell or spell-like ability.
+This _+2 spell resistance (13) tower shield_ grants a +4 resistance bonus on Reflex Defense against spells and spell-like abilities. Once per day, when a spell or spell-like ability that attacks Reflex for half damage misses the wearer, she may spend an immediate action to instead take no damage from that spell or spell-like ability.
 
 Strong abjuration; CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Cat’s Grace|cat's grace]]_, _[[rangoric-srd/spells/Spell Resistance|spell resistance]]_; Price 25,180 gp; Cost 12,680 gp.

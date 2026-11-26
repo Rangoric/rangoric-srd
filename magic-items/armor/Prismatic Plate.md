@@ -28,7 +28,7 @@ This resplendent suit of _+3 full plate_ shimmers and shifts between all the col
 | Yellow | Resist electricity 30                                                                       |
 | Green  | Immunity to poison                                                                          |
 | Blue   | Immunity to petrification                                                                   |
-| Indigo | +8 resistance bonus on saving throws against mind-affecting effects                         |
+| Indigo | +8 resistance bonus on defenses against mind-affecting effects                              |
 | Violet | Protected by _[[rangoric-srd/spells/Dimensional Anchor\|dimensional anchor]]_, as the spell |
 
 Strong abjuration; CL 13th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]_, _[[rangoric-srd/spells/Mind Blank|mind blank]]_, _[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_, _[[rangoric-srd/spells/Stone to Flesh|stone to flesh]]_, and _[[rangoric-srd/spells/Prismatic Sphere|prismatic sphere]]_, _[[rangoric-srd/spells/Prismatic Spray|prismatic spray]]_, or _[[rangoric-srd/spells/Prismatic Wall|prismatic wall]]_; Price 160,650 gp; Cost 81,150 gp.

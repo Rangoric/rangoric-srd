@@ -23,7 +23,7 @@ These three well-made books are covered with runes of warding against outsiders 
 
 **Opposition Schools**: Illusion, necromancy
 
-**Protection**: Explosive runes (Reflex DC 16) and fire trap (Reflex DC 17)
+**Protection**: Explosive runes (_attack_ +6 vs Reflex) and fire trap (_attack_ +7 vs Reflex)
 
 **Value**: 10,665 gp (13,665 gp with the preparation ritual)
 

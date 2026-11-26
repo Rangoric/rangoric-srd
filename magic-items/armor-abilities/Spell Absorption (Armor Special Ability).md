@@ -25,6 +25,6 @@ When targeted by a spell, the wielder is entitled to a [[rangoric-srd/skills/Mys
 
 Once absorbing energy, the item must be discharged in one round. The wearer can use the charge to damage an opponent by making a melee touch attack. A hit deals 1d4 points of additional damage per spell level absorbed. Alternatively, charged armor can be used to heal the wielder for 1d4 hit points per spell level absorbed. Use of the healing power is a standard action.
 
-If the wielder does not use the absorbed magical energy within one round, or if she attacks a creature but fails to hit, she immediately suffers 1d4 points of damage per spell level (Fortitude save; DC 22 for half) as the armor discharges the energy contained within it. _Spell absorption_ armor can absorb up to 10 spell levels per day.
+If the wielder does not use the absorbed magical energy within one round, or if she attacks a creature but fails to hit, she immediately suffers 1d4 points of damage per spell level (+12 vs Fortitude; a miss halves) as the armor discharges the energy contained within it. _Spell absorption_ armor can absorb up to 10 spell levels per day.
 
 Strong abjuration; CL 15th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], _[[rangoric-srd/spells/Spell Turning|spell turning]]_; Price +4 bonus.

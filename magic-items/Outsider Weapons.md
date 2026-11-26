@@ -58,7 +58,7 @@ The costs associated with outsider weapons depend on how long the crafter intend
 | 6 months       | 50% of normal         |
 | 1 year         | 75% of normal         |
 
-Any binding of an outsider into a weapon for a period of more than one year costs the normal amount of gold and experience. If an attempt is made to make the binding permanent, the cost increases to 150% for both experience and gold and the outsider is allowed a Will save to sunder the binding and escape.
+Any binding of an outsider into a weapon for a period of more than one year costs the normal amount of gold and experience. If an attempt is made to make the binding permanent, the cost increases to 150% for both experience and gold and the binding attacks the outsider’s Will; on a miss, it sunders the binding and escapes.
 
 In addition to gold and experience points, when forging an outsider weapon, the crafter must possess the item creation feat [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]]. He must also have a masterwork weapon into which he (or the summoner, if it is a different person) will bind the outsider. Nothing less than a masterwork weapon will suffice. He does not have to possess the prerequisites for the abilities he adds to the weapon; they derive their power solely from the outsider.
 
