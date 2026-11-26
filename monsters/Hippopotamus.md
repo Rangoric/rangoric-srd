@@ -13,9 +13,9 @@ cmd: "20 (24 vs. trip)"
 attack: "Bite +8 melee (2d8+5)"
 full-attack: "Bite +8 melee (2d8+5)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Capsize, trample (1d8+6, DC 17)"
+special-attacks: "Capsize, trample (1d8+6, +7 vs Reflex)"
 special-qualities: "Low-light vision, scent, sweat, hold breath"
-saves: "Fort +8, Ref +5, Will +3"
+defenses: "Fort 18, Ref 15, Will 13"
 abilities: "Str 19, Dex 10, Con 16, Int 2, Wis 13, Cha 5"
 skills: "Athletics +11, Perception +8, Stealth +1 (+11 underwater)"
 skill-ranks: "Athletics 4, Perception 4, Stealth 2"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +8 melee (2d8+5)
 - **Full Attack**: Bite +8 melee (2d8+5)
 - **Space/Reach**: 10 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Capsize|Capsize]], [[rangoric-srd/monsters/abilities/Trample|trample]] (1d8+6, DC 17)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Capsize|Capsize]], [[rangoric-srd/monsters/abilities/Trample|trample]] (1d8+6, +7 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Sweat|sweat]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]]
-- **Saves**: Fort +8, Ref +5, Will +3
+- **Defenses**: Fort 18, Ref 15, Will 13
 - **Abilities**: Str 19, Dex 10, Con 16, Int 2, Wis 13, Cha 5
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +1 (+11 underwater)
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -67,4 +67,4 @@ The ill-tempered “river horse” has a well-earned reputation for hostility, d
 
 **Capsize (Ex)**: A hippopotamus can overturn a boat of its size or smaller by ramming it as a charge attack and making a CMB check. The DC of this check is 25 or the result of the boat captain's Profession (sailor) check, whichever is higher.
 
-**Sweat (Ex)**: A hippo's reddish sweat protects it from nonlethal damage from hot environments, and grants it a +2 racial bonus on saving throws against nonmagical disease.
+**Sweat (Ex)**: A hippo's reddish sweat protects it from nonlethal damage from hot environments, and grants it a +2 racial bonus on defenses against nonmagical disease.

@@ -15,7 +15,7 @@ full-attack: "Bite +3 melee (1d6+1 plus poison)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Poison"
 special-qualities: "Darkvision 60 ft., low-light vision, find target, damage reduction 5/—, construct traits, spell resistance 13"
-saves: "Fort +0, Ref +2, Will +0"
+defenses: "Fort 10, Ref 12, Will 10"
 abilities: "Str 12, Dex 15, Con —, Int —, Wis 11, Cha 1"
 skills: "Stealth +12"
 skill-ranks: "Stealth 0"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], find target, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/—, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 13
-- **Saves**: Fort +0, Ref +2, Will +0
+- **Defenses**: Fort 10, Ref 12, Will 10
 - **Abilities**: Str 12, Dex 15, Con —, Int —, Wis 11, Cha 1
 - **Skills**: [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: —
@@ -81,4 +81,4 @@ CL 7th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/
 
 **Find Target (Su)**: Once per day, an iron cobra's creator can order it to find and kill a specific creature within 1 mile, which it does as if guided by _[[rangoric-srd/spells/Discern Location|discern location]]_. The creator must have seen or be holding an item from the specified creature for this order to function.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: An iron cobra's bite injects poison from a hidden reservoir within its body. Because it is a construct, the cobra does not naturally produce this poison, and its creator must refill this reservoir manually. The reservoir holds enough poison for 3 successful bite attacks, after which the creature merely deals bite damage. Refilling the reservoir takes 5 rounds and provokes attacks of opportunity. The creator can fill the reservoir with any injury poison (typically black adder venom), though acid, alchemical substances, and even stranger liquids have been used. [[rangoric-srd/rules/afflictions/Black Adder Venom|Black Adder Venom]]: Bite—injury; _save_ Fort DC 11; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage; _cure_ 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: An iron cobra's bite injects poison from a hidden reservoir within its body. Because it is a construct, the cobra does not naturally produce this poison, and its creator must refill this reservoir manually. The reservoir holds enough poison for 3 successful bite attacks, after which the creature merely deals bite damage. Refilling the reservoir takes 5 rounds and provokes attacks of opportunity. The creator can fill the reservoir with any injury poison (typically black adder venom), though acid, alchemical substances, and even stranger liquids have been used. [[rangoric-srd/rules/afflictions/Black Adder Venom|Black Adder Venom]]: Bite—injury; _attack_ +1 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con damage; _cure_ 1 miss.

@@ -15,7 +15,7 @@ full-attack: "Coil whip +21 (4d6+8) melee, sting +19 (2d8+4 plus poison) melee, 
 space-reach: "30 ft./ 20 ft."
 special-attacks: "Charming gaze, poison, improved grab, constrict 4d6+12"
 special-qualities: "Flight, SR 30, DR 5/epic"
-saves: "Fort +17, Ref +22, Will +22"
+defenses: "Fort 27, Ref 32, Will 32"
 abilities: "Str 27, Dex 38, Con 32, Int 35, Wis 31, Cha 36"
 skills: "Appraise +35, Athletics +31 (+43 jumping), Deception +36, Escape Artist +37, Arcana +35, Mysticism +37, Society +35, Theology +35, Perception +33, Persuasion +36, Investigation +35, Sense Motive +33, Stealth +21"
 skill-ranks: "Appraise 20, Arcana 20, Athletics 20, Deception 20, Escape Artist 20, Investigation 20, Mysticism 22, Perception 20, Persuasion 20, Sense Motive 20, Society 20, Stealth 20, Theology 20"
@@ -48,7 +48,7 @@ Full Attack: Coil whip +21 (4d6+8) melee, sting +19 (2d8+4 plus poison) melee, b
 Space/Reach: 30 ft./ 20 ft.      
 Special Attacks: Charming [[rangoric-srd/monsters/abilities/Gaze|gaze]], [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Grab|improved grab]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] 4d6+12      
 Special Qualities: Flight, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 30, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 5/epic      
-Saves: Fort +17, Ref +22, Will +22      
+Defenses: Fort 27, Ref 32, Will 32      
 Abilities: Str 27, Dex 38, Con 32, Int 35, Wis 31, Cha 36      
 Skills: [[rangoric-srd/skills/Appraise|Appraise]] +35, [[rangoric-srd/skills/Arcana|Arcana]] +35, [[rangoric-srd/skills/Athletics|Athletics]] +31 (+43 jumping), [[rangoric-srd/skills/Deception|Deception]] +36, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +37, [[rangoric-srd/skills/Investigation|Investigation]] +35, [[rangoric-srd/skills/Mysticism|Mysticism]] +37, [[rangoric-srd/skills/Perception|Perception]] +33, [[rangoric-srd/skills/Persuasion|Persuasion]] +36, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +33, [[rangoric-srd/skills/Society|Society]] +35, [[rangoric-srd/skills/Stealth|Stealth]] +21, [[rangoric-srd/skills/Theology|Theology]] +35     
 **Unspent Skill Points**: 40
@@ -66,7 +66,7 @@ A ha-naga’s natural weapons are treated as epic for the purpose of overcoming 
 
 Flight (Su): As per the fly spell, 120 ft. (perfect). This ability gives the ha-naga a +6 circumstance bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks.
 
-Charming Gaze (Su): As [[rangoric-srd/spells/Charm Monster, Mass|mass charm monster]], 90 ft., Will save (DC 33). The DC is Charisma-based.
+Charming Gaze (Su): As [[rangoric-srd/spells/Charm Monster, Mass|mass charm monster]], 90 ft., +23 vs Will. The attack bonus is Charisma-based.
 
 Chameleon Ability (Ex): Ha-nagas can blend in with their surroundings, giving them a +8 circumstance bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks.
 
@@ -74,6 +74,6 @@ Improved Grab (Ex): To use this ability, the ha-naga must hit with its coil whip
 
 Constrict (Ex): A ha-naga deals 4d6+12 points Damage with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] attack against Huge or smaller opponents.
 
-Poison (Ex): Sting, Fort save (DC 31); initial and secondary Damage 2d8 temporary Con.  The DC is Constitution-based.
+Poison (Ex): Sting, +21 vs Fortitude; initial and secondary Damage 2d8 temporary Con.  The attack bonus is Constitution-based.
 
-Spells: Ha-nagas can cast spells as 21st-level sorcerers, and can also cast [[rangoric-srd/spells/Cleric Spell List|cleric spells]] and spells from the domains of [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]] and [[rangoric-srd/class-options/domains/Evil Domain|Evil]] as [[rangoric-srd/spells/Sorcerer and Wizards Spell List|arcane spells]] (save DC 33 + spell level). The DC is Charisma-based.
+Spells: Ha-nagas can cast spells as 21st-level sorcerers, and can also cast [[rangoric-srd/spells/Cleric Spell List|cleric spells]] and spells from the domains of [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]] and [[rangoric-srd/class-options/domains/Evil Domain|Evil]] as [[rangoric-srd/spells/Sorcerer and Wizards Spell List|arcane spells]] (attack bonus +23 + spell level). The attack bonus is Charisma-based.

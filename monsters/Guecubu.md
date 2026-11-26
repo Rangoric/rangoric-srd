@@ -16,7 +16,7 @@ full-attack: "Bite +14 melee (1d8+6 plus misfortune) and 2 slams +14 melee (1d6+
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., tremorsense 60 ft., fast healing 5, broken ground (30 ft., DC 20), channel resistance +2, damage reduction 5/bludgeoning, immunity to electricity, undead traits, resistance to cold 10"
-saves: "Fort +8, Ref +7, Will +11"
+defenses: "Fort 18, Ref 17, Will 21"
 abilities: "Str 22, Dex 18, Con —, Int 13, Wis 18, Cha 21"
 skills: "Acrobatics +15, Nature +12, Perception +18, Sense Motive +18, Stealth +18"
 skill-ranks: "Acrobatics 8, Nature 8, Perception 11, Sense Motive 11, Stealth 11"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, [[rangoric-srd/monsters/abilities/Broken Ground|broken ground]] (30 ft., DC 20), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10
-- **Saves**: Fort +8, Ref +7, Will +11
+- **Defenses**: Fort 18, Ref 17, Will 21
 - **Abilities**: Str 22, Dex 18, Con —, Int 13, Wis 18, Cha 21
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Nature|Nature]] +12, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +18
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Whirlwind Attack|Whirlwind Attack]]
@@ -72,8 +72,8 @@ Guecubus speak Abyssal and Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +13): At will—_[[rangoric-srd/spells/Stone Shape|stone shape]]_; 3/day—_[[rangoric-srd/spells/Soften Earth and Stone|soften earth and stone]]_, _[[rangoric-srd/spells/Spike Growth|spike growth]]_ (DC 18); 1/day—_[[rangoric-srd/spells/Spike Stones|spike stones]]_ (DC 19), _[[rangoric-srd/spells/Transmute Mud to Rock|transmute mud to rock]]_ (DC 20), _[[rangoric-srd/spells/Transmute Rock to Mud|transmute rock to mud]]_ (DC 20).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +13): At will—_[[rangoric-srd/spells/Stone Shape|stone shape]]_; 3/day—_[[rangoric-srd/spells/Soften Earth and Stone|soften earth and stone]]_, _[[rangoric-srd/spells/Spike Growth|spike growth]]_ (+8 vs Reflex); 1/day—_[[rangoric-srd/spells/Spike Stones|spike stones]]_ (+9 vs Reflex), _[[rangoric-srd/spells/Transmute Mud to Rock|transmute mud to rock]]_ (+10), _[[rangoric-srd/spells/Transmute Rock to Mud|transmute rock to mud]]_ (+10).
 
 **[[rangoric-srd/monsters/abilities/Broken Ground|Broken Ground]] (Su)**: The ground in a 30-foot radius around a guecubu ripples and shudders unnaturally. This transforms the area surrounding a guecubu into difficult terrain. A guecubu can move through this area with no penalty. Consecrated ground cannot be affected by this ability, nor can any area warded by a magic circle against chaos or a magic circle against evil.
 
-**Misfortune (Su)**: A creature struck by a guecubu must make a DC 20 Will save or become permanently cursed with misfortune. The victim of this curse takes a –4 penalty on all attack rolls, saving throws, and skill checks, and any critical threat against the victim automatically confirms. If a guecubu hits a creature already suffering from this curse, the victim must make a DC 20 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1 round. This is a curse effect. The save DC is Charisma-based.
+**Misfortune (Su)**: A guecubu attacks a creature it strikes at +10 vs Will, and on a hit the creature becomes permanently cursed with misfortune. The victim of this curse takes a –4 penalty on all attack rolls, defenses, and skill checks, and any critical threat against the victim automatically confirms. If a guecubu hits a creature already suffering from this curse, it attacks the victim at +10 vs Will, and on a hit the victim is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1 round. This is a curse effect. The attack bonus is Charisma-based.

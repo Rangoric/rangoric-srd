@@ -16,7 +16,7 @@ full-attack: "2 claws +10 melee (2d4+3) and bite +10 melee (2d6+3) and gore +10 
 space-reach: "5 ft./5 ft."
 special-attacks: "Disorienting gaze, spell-like abilities"
 special-qualities: "Low-light vision, change shape (elk, beast shape II), hide in plain sight"
-saves: "Fort +8, Ref +13, Will +13"
+defenses: "Fort 18, Ref 23, Will 23"
 abilities: "Str 16, Dex 15, Con 18, Int 15, Wis 19, Cha 22"
 skills: "Animal Handling +20, Arcana +16, Escape Artist +19, Fieldcraft +18, Intimidation +20, Nature +19, Perception +21, Stealth +19"
 skill-ranks: "Animal Handling 11, Arcana 11, Escape Artist 14, Fieldcraft 11, Intimidation 11, Nature 14, Perception 14, Stealth 14"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Disorienting Gaze|Disorienting gaze]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (elk, beast shape II), [[rangoric-srd/monsters/abilities/Hide in Plain Sight|hide in plain sight]]
-- **Saves**: Fort +8, Ref +13, Will +13
+- **Defenses**: Fort 18, Ref 23, Will 23
 - **Abilities**: Str 16, Dex 15, Con 18, Int 15, Wis 19, Cha 22
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +20, [[rangoric-srd/skills/Arcana|Arcana]] +16, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +19, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +18, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Nature|Nature]] +19, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +19
 - **Feats**: [[rangoric-srd/feats/Acrobatic Steps|Acrobatic Steps]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]]
@@ -68,8 +68,8 @@ Few can honestly claim to have ever seen an ijiraq's true face, as the creatures
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 14th; concentration +20): At will—_[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Hallucinatory Terrain|hallucinatory terrain]]_ (DC 20); 3/day—_[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]_ (DC 21), _[[rangoric-srd/spells/Control Winds|control winds]]_, _[[rangoric-srd/spells/Cure Critical Wounds|cure critical wounds]]_ (DC 20), _[[rangoric-srd/spells/Ice Storm|ice storm]]_ (DC 20), _[[rangoric-srd/spells/Sleet Storm|sleet storm]]_ (DC 19), _[[rangoric-srd/spells/Summon Nature’s Ally IV|summon nature's ally IV]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 14th; concentration +20): At will—_[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Hallucinatory Terrain|hallucinatory terrain]]_ (+10 vs Will); 3/day—_[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]_ (+11), _[[rangoric-srd/spells/Control Winds|control winds]]_, _[[rangoric-srd/spells/Cure Critical Wounds|cure critical wounds]]_ (+10), _[[rangoric-srd/spells/Ice Storm|ice storm]]_ (+10), _[[rangoric-srd/spells/Sleet Storm|sleet storm]]_ (+9), _[[rangoric-srd/spells/Summon Nature’s Ally IV|summon nature's ally IV]]_.
 
-**[[rangoric-srd/monsters/abilities/Disorienting Gaze|Disorienting Gaze]] (Su)**: An ijiraq can level an icy stare at a creature within 30 feet. That creature takes a -20 penalty on Perception checks and Fieldcraft checks for 24 hours (Fortitude DC 23 negates). The save DC is Charisma-based. An ijiraq can use this ability while in the shape of an elk.
+**[[rangoric-srd/monsters/abilities/Disorienting Gaze|Disorienting Gaze]] (Su)**: An ijiraq can level an icy stare at a creature within 30 feet. That creature takes a -20 penalty on Perception checks and Fieldcraft checks for 24 hours (+13 vs Fortitude). The attack bonus is Charisma-based. An ijiraq can use this ability while in the shape of an elk.
 
 **[[rangoric-srd/monsters/abilities/Hide in Plain Sight|Hide in Plain Sight]] (Su)**: An ijiraq can use the Stealth skill even while being observed. As long as it's standing in terrain covered in ice or snow, an ijiraq can hide itself from view in the open without actually hiding behind anything. An ijiraq can't use this ability while flying, and the ability has no effect when the ijiraq isn't in icy terrain.

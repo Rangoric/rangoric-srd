@@ -15,7 +15,7 @@ full-attack: "Slam +7 melee (1d6+4) and tail slap +7 melee (1d6+4 plus 1d4 Cha d
 space-reach: "5 ft./5 ft."
 special-attacks: "Lashing tail, manipulate luck, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect snares and pits, low-light vision, scent, regeneration 3 (acid or fire), immunity to charm effects and compulsion effects, resistance to cold 10"
-saves: "Fort +4, Ref +8, Will +7"
+defenses: "Fort 14, Ref 18, Will 17"
 abilities: "Str 19, Dex 17, Con 14, Int 12, Wis 14, Cha 19"
 skills: "Deception +17, Emulation +14, Escape Artist +13, Imitation +14, Nature +11, Perception +12, Stealth +13"
 skill-ranks: "Deception 9, Emulation 7, Escape Artist 7, Imitation 9, Nature 7, Perception 7, Stealth 7"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Lashing Tail|Lashing tail]], [[rangoric-srd/monsters/abilities/Manipulate Luck|manipulate luck]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect snares and pits, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 3 (acid or fire), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to charm effects and compulsion effects, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10
-- **Saves**: Fort +4, Ref +8, Will +7
+- **Defenses**: Fort 14, Ref 18, Will 17
 - **Abilities**: Str 19, Dex 17, Con 14, Int 12, Wis 14, Cha 19
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Emulation|Emulation]] +14, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +13, [[rangoric-srd/skills/Imitation|Imitation]] +14, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception)
@@ -69,8 +69,8 @@ Huldras sometimes become enamored of woodcutters or others who adventure outdoor
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +8): Constant—_[[rangoric-srd/spells/Detect Snares and Pits|detect snares and pits]]_, _[[rangoric-srd/spells/Endure Elements|endure elements]]_, _[[rangoric-srd/spells/Pass without Trace|pass without trace]]_; 3/day—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 15), _[[rangoric-srd/spells/Daze Monster|daze monster]]_ (DC 16), _[[rangoric-srd/spells/Wood Shape|wood shape]]_; 1/day—_[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (DC 17).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +8): Constant—_[[rangoric-srd/spells/Detect Snares and Pits|detect snares and pits]]_, _[[rangoric-srd/spells/Endure Elements|endure elements]]_, _[[rangoric-srd/spells/Pass without Trace|pass without trace]]_; 3/day—_[[rangoric-srd/spells/Charm Person|charm person]]_ (+5 vs Will), _[[rangoric-srd/spells/Daze Monster|daze monster]]_ (+6 vs Will), _[[rangoric-srd/spells/Wood Shape|wood shape]]_; 1/day—_[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (+7 vs Will).
 
-**[[rangoric-srd/monsters/abilities/Lashing Tail|Lashing Tail]] (Su)**: A huldra's tail slap is a primary attack. In addition, each time a huldra damages a creature with her tail slap, she deals 1d4 points of Charisma damage, causing her target to grow progressively more deformed and ugly with each strike. A successful DC 15 Fortitude save negates the Charisma damage. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Lashing Tail|Lashing Tail]] (Su)**: A huldra's tail slap is a primary attack. In addition, each time a huldra damages a creature with her tail slap, she deals 1d4 points of Charisma damage, causing her target to grow progressively more deformed and ugly with each strike. It attacks at +5 vs Fortitude, and a miss negates the Charisma damage. The attack bonus is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Manipulate Luck|Manipulate Luck]] (Su)**: Once per day, a huldra can manipulate another creature's luck by spending a full-round action, during which the huldra must remain in physical contact with the target creature. When the huldra uses this ability, she must choose whether she is imparting good luck or bad luck. A creature granted good luck gains a +2 luck bonus on all saving throws, attack rolls, and skill checks, while a creature afflicted with bad luck takes a -4 penalty on all saving throws, attack rolls, and skill checks. A successful DC 17 Will save negates the effect. Huldras cannot be the target of this ability. This effect lasts for 24 hours and is a curse effect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Manipulate Luck|Manipulate Luck]] (Su)**: Once per day, a huldra can manipulate another creature's luck by spending a full-round action, during which the huldra must remain in physical contact with the target creature. When the huldra uses this ability, she must choose whether she is imparting good luck or bad luck. A creature granted good luck gains a +2 luck bonus on all defenses, attack rolls, and skill checks, while a creature afflicted with bad luck takes a -4 penalty on all defenses, attack rolls, and skill checks. It attacks at +7 vs Will, and a miss negates the effect. Huldras cannot be the target of this ability. This effect lasts for 24 hours and is a curse effect. The attack bonus is Charisma-based.

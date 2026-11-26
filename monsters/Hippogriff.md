@@ -15,7 +15,7 @@ full-attack: "Bite +4 melee (1d6+2) and 2 claws +4 melee (1d4+2)"
 space-reach: "10 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision, scent"
-saves: "Fort +5, Ref +5, Will +2"
+defenses: "Fort 15, Ref 15, Will 12"
 abilities: "Str 15, Dex 15, Con 14, Int 2, Wis 12, Cha 9"
 skills: "Acrobatics +5, Perception +9"
 skill-ranks: "Acrobatics 2, Perception 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +5, Ref +5, Will +2
+- **Defenses**: Fort 15, Ref 15, Will 12
 - **Abilities**: Str 15, Dex 15, Con 14, Int 2, Wis 12, Cha 9
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Perception|Perception]] +9
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Wingover|Wingover]]

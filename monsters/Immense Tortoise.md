@@ -13,9 +13,9 @@ cmd: "39 (43 vs. trip)"
 attack: "Bite +15 melee (4d6+22/19–20)"
 full-attack: "Bite +15 melee (4d6+22/19–20)"
 space-reach: "30 ft./30 ft."
-special-attacks: "Trample (2d8 + 22, DC 30)"
+special-attacks: "Trample (2d8 + 22, +20 vs Reflex)"
 special-qualities: "Low-light vision, buoyant, shell, slow and steady"
-saves: "Fort +16, Ref +5, Will +3"
+defenses: "Fort 26, Ref 15, Will 13"
 abilities: "Str 40, Dex 7, Con 24, Int 2, Wis 11, Cha 9"
 skills: "Perception +14 (+10 for sound–based checks)"
 skill-ranks: "Perception 11"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +15 melee (4d6+22/19–20)
 - **Full Attack**: Bite +15 melee (4d6+22/19–20)
 - **Space/Reach**: 30 ft./30 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (2d8 + 22, DC 30)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (2d8 + 22, +20 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Buoyant|buoyant]], [[rangoric-srd/monsters/abilities/Shell|shell]], [[rangoric-srd/monsters/abilities/Slow and Steady|slow and steady]]
-- **Saves**: Fort +16, Ref +5, Will +3
+- **Defenses**: Fort 26, Ref 15, Will 13
 - **Abilities**: Str 40, Dex 7, Con 24, Int 2, Wis 11, Cha 9
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +14 (+10 for sound–based checks)
 - **Feats**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Great Fortitude|Improved Great Fortitude]], [[rangoric-srd/feats/Power Attack|Power Attack]]

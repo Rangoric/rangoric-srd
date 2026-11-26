@@ -15,7 +15,7 @@ full-attack: "Slam +6 melee (1d2–3) and 2 wings +6 melee (1d1–3 plus daze)"
 space-reach: "1 ft./0 ft."
 special-attacks: "Daze, tears of anguish"
 special-qualities: "Darkvision 60 ft., visual sensor, undead traits"
-saves: "Fort +0, Ref +1, Will +5"
+defenses: "Fort 10, Ref 11, Will 15"
 abilities: "Str 4, Dex 13, Con —, Int 7, Wis 14, Cha 11"
 skills: "Acrobatics +15, Perception +7, Stealth +18"
 skill-ranks: "Acrobatics 5, Perception 2, Stealth 2"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 1 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Daze|Daze]], [[rangoric-srd/monsters/abilities/Tears of Anguish|tears of anguish]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Visual Sensor|visual sensor]], [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +0, Ref +1, Will +5
+- **Defenses**: Fort 10, Ref 11, Will 15
 - **Abilities**: Str 4, Dex 13, Con —, Int 7, Wis 14, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +18
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -73,8 +73,8 @@ Isitoqs understand Common but can't speak.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Daze|Daze]] (Ex)**: An isitoq's nerves form grotesque wings. Any creature struck by the creature's wings must succeed at a DC 11 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1 round as the target's mind is flooded with images of the last seconds of the isitoq's existence as a living creature. This is a mind-affecting fear effect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Daze|Daze]] (Ex)**: An isitoq's nerves form grotesque wings. Any creature struck by the creature's wings is attacked at +1 vs Will, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1 round as the target's mind is flooded with images of the last seconds of the isitoq's existence as a living creature. This is a mind-affecting fear effect. The attack bonus is Charisma-based.
 
-**[[rangoric-srd/monsters/abilities/Tears of Anguish|Tears of Anguish]] (Su)**: As a full-round action, an isitoq can make a ranged touch attack to squirt tears into the eyes of a creature within 30 feet. If the target fails a DC 11 saving throw, it experiences the effect of the isitoq's daze ability. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Tears of Anguish|Tears of Anguish]] (Su)**: As a full-round action, an isitoq can make a ranged touch attack to squirt tears into the eyes of a creature within 30 feet. If the touch attack hits, the tears attack the target at +1 vs Will, and on a hit it experiences the effect of the isitoq's daze ability. The attack bonus is Charisma-based.
 
 **[[rangoric-srd/monsters/abilities/Visual Sensor|Visual Sensor]] (Su)**: An isitoq's creator or master can see through its eye at a range of 60 feet, using the eye's normal vision and darkvision. The following spells have a 5% chance per caster level of the isitoq's creator of operating through the isitoq: detect chaos, detect evil, detect good, detect law, detect magic, and message. If the creator is 15th level or higher, the following spells have the same chance of functioning through the isitoq: read magic and tongues.

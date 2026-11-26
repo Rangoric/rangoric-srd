@@ -17,7 +17,7 @@ full-attack: "Large greatsword +4 melee (3d6+3/19-20) or Large javelin +0 ranged
 space-reach: "5 ft./5 ft."
 special-attacks: "Psi-like abilities"
 special-qualities: "Fire acclimated, Giant’s stature, low-light vision"
-saves: "Fort +4, Ref -1, Will -1"
+defenses: "Fort 14, Ref 9, Will 9"
 abilities: "Str 15, Dex 9, Con 14, Int 10, Wis 9, Cha 8"
 skills: "Perception +3"
 skill-ranks: "Perception 1"
@@ -51,7 +51,7 @@ Full **Attack:** Large greatsword +4 melee (3d6+3/19-20) or Large javelin +0 ran
 **Space/Reach:** 5 ft./5 ft.     
 **Special Attacks:** Psi-like abilities     
 **Special Qualities:** Fire acclimated, Giant’s stature, low-light vision     
-**Saves:** Fort +4, Ref -1, Will -1     
+**Defenses:** Fort 14, Ref 9, Will 9     
 **Abilities:** Str 15, Dex 9, Con 14, Int 10, Wis 9, Cha 8     
 **Skills:** [[rangoric-srd/skills/Perception|Perception]] +3     
 **Unspent Skill Points**: 1
@@ -72,9 +72,9 @@ Half-giants speak Common. Many also learn giant.
 
 Because of their giant ancestry, half-giants are able to use weapons sized for creatures larger than normal humans. They gain considerable satisfaction in using these large weapons in combat against their foes.
 
-Psi-Like Abilities: 1/day: [[rangoric-srd/powers/Stomp|stomp]] (DC 10). Manifester level equal to 1/2 HD (minimum 1st). The save DC is Charisma-based.
+Psi-Like Abilities: 1/day: [[rangoric-srd/powers/Stomp|stomp]] (+0 vs Reflex). Manifester level equal to 1/2 HD (minimum 1st). The attack bonus is Charisma-based.
 
-Fire Acclimated (Ex): Half-giants have a +2 racial bonus on saving throws against all fire spells and effects.
+Fire Acclimated (Ex): Half-giants have a +2 racial bonus on defenses against all fire spells and effects.
 
 Powerful Build (Ex): The physical stature of half-giants lets them function in many ways as if they were one size category larger. Whenever a half-giant is subject to a size modifier or special size modifier for an opposed check or a [[rangoric-srd/combat/Combat Maneuvers|combat maneuver]] (such as its CMB and CMD for a grapple, bull rush or trip), the half-giant is treated as one size larger if doing so is advantageous to him. A half-giant is also considered to be one size larger when determining whether a creature’s special attacks based on size (such as [[rangoric-srd/monsters/abilities/Grab|improved grab]] or [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]]) can affect him. A half-giant can use weapons designed for a creature one size larger without penalty. However, his space and reach remain those of a creature of his actual size. The benefits of this racial trait stack with the effects of powers, abilities, and spells that change the subject’s size category.
 
@@ -94,7 +94,7 @@ Half-Giant characters possess the following racial traits.
 
 - Naturally Psionic: Half-Giants gain 2 bonus power points at 1st level, regardless of whether they choose a psionic class.
 
-- Fire Acclimated: Half-Giants have a +2 racial bonus on saving throws against all fire spells and effects.
+- Fire Acclimated: Half-Giants have a +2 racial bonus on defenses against all fire spells and effects.
 
 - Powerful build (see above).
 

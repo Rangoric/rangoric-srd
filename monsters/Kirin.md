@@ -14,9 +14,9 @@ cmd: "31 (35 vs. trip)"
 attack: "Gore +14 melee (1d8+5) or hoof +13 melee (1d6+2)"
 full-attack: "Gore +14 melee (1d8+5) and 2 hooves +8 melee (1d6+2)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Breath weapon (15-ft. cone, 5d6 fire damage, Reflex DC 18 for half, usable every 1d4 rounds), powerful charge (gore, 2d8+14), spell-like abilities"
+special-attacks: "Breath weapon (15-ft. cone, 5d6 fire damage, +8 vs Reflex; a miss halves, usable every 1d4 rounds), powerful charge (gore, 2d8+14), spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect evil, low-light vision, scent, telepathy 100 ft., resistance to cold 10, electricity 30 and fire 10, spell resistance 18"
-saves: "Fort +10, Ref +12, Will +10"
+defenses: "Fort 20, Ref 22, Will 20"
 abilities: "Str 20, Dex 23, Con 18, Int 18, Wis 21, Cha 23"
 skills: "Acrobatics +20, Perception +17, Perform (sing) +15, Persuasion +15, Sense Motive +14, Society +13"
 skill-ranks: "Acrobatics 13, Perception 9, Perform (sing) 8, Persuasion 6, Sense Motive 6, Society 6"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Gore +14 melee (1d8+5) or hoof +13 melee (1d6+2)
 - **Full Attack**: Gore +14 melee (1d8+5) and 2 hooves +8 melee (1d6+2)
 - **Space/Reach**: 10 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (15-ft. cone, 5d6 fire damage, Reflex DC 18 for half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Powerful Charge|powerful charge]] (gore, 2d8+14), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (15-ft. cone, 5d6 fire damage, +8 vs Reflex; a miss halves, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Powerful Charge|powerful charge]] (gore, 2d8+14), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect evil, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, electricity 30 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 18
-- **Saves**: Fort +10, Ref +12, Will +10
+- **Defenses**: Fort 20, Ref 22, Will 20
 - **Abilities**: Str 20, Dex 23, Con 18, Int 18, Wis 21, Cha 23
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Perception|Perception]] +17, Perform (sing) +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Society|Society]] +13
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (gore)
@@ -82,6 +82,6 @@ Kirins speak Abyssal, Auran, Celestial, Common and Draconic.
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +15): Constant—_[[rangoric-srd/spells/Detect Evil|detect evil]], [[rangoric-srd/spells/Water Walk|water walk]]_; At will—_[[rangoric-srd/spells/Gaseous Form|gaseous form]]_, _[[rangoric-srd/spells/Gust of Wind|gust of wind]]_; 1/day—_[[rangoric-srd/spells/Break Enchantment|break enchantment]]_, _[[rangoric-srd/spells/Create Food and Water|create food and water]]_, _[[rangoric-srd/spells/Major Creation|major creation]], [[rangoric-srd/spells/Wind Walk|wind walk]]_ (self only).
 
-**Spells known** (CL 6th; concentration +12): 3rd (4/day)—_[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_ (DC 19); 2nd (7/day)—_[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]_, _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_; 1st (8/day)—_[[rangoric-srd/spells/Color Spray|color spray]]_ (DC 17),_[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Disguise Self|disguise self]]_, _[[rangoric-srd/spells/Remove Fear|remove fear]]_, _[[rangoric-srd/spells/Sanctuary|sanctuary]]_ (DC 17); 0 (at will)—_[[rangoric-srd/spells/Arcane Mark|arcane mark]]_, _[[rangoric-srd/spells/Create Water|create water]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_.
+**Spells known** (CL 6th; concentration +12): 3rd (4/day)—_[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_ (+9 vs Reflex); 2nd (7/day)—_[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]_, _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_; 1st (8/day)—_[[rangoric-srd/spells/Color Spray|color spray]]_ (+7 vs Will),_[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Disguise Self|disguise self]]_, _[[rangoric-srd/spells/Remove Fear|remove fear]]_, _[[rangoric-srd/spells/Sanctuary|sanctuary]]_ (+7 vs Will); 0 (at will)—_[[rangoric-srd/spells/Arcane Mark|arcane mark]]_, _[[rangoric-srd/spells/Create Water|create water]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Mending|mending]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_.
 
 **Spells**: A kirin casts spells as a 6th-level [[rangoric-srd/classes/Sorcerer|sorcerer]], and can cast spells from the [[rangoric-srd/classes/Cleric|cleric]] list as well as those normally available to a sorcerer. Cleric spells are considered arcane spells for a kirin, meaning that the creature does not need a divine focus to cast them.

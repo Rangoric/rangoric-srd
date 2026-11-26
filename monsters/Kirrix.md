@@ -15,7 +15,7 @@ full-attack: "Bite +7 melee (1d8+6)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Expel pathogens"
 special-qualities: "Blindsense 10 ft., darkvision 60 ft., low-light vision, scent, compression, harbor pathogens, immunity to disease"
-saves: "Fort +7, Ref +6, Will +2"
+defenses: "Fort 17, Ref 16, Will 12"
 abilities: "Str 18, Dex 15, Con 17, Int 5, Wis 12, Cha 8"
 skills: "Athletics +12, Perception +9, Stealth +3"
 skill-ranks: "Athletics 5, Perception 5, Stealth 2"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Expel Pathogens|Expel pathogens]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 10 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Harbor Pathogens|harbor pathogens]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease
-- **Saves**: Fort +7, Ref +6, Will +2
+- **Defenses**: Fort 17, Ref 16, Will 12
 - **Abilities**: Str 18, Dex 15, Con 17, Int 5, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +3
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

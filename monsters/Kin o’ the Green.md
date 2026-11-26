@@ -48,7 +48,7 @@ Kin o’ the green is a template that can be applied to any humanoid or monstrou
 - 2nd stage: [[rangoric-srd/monsters/abilities/Regeneration|Regeneration]] 5 (Greenkin can regrow or reattach any lost limbs, provided damage is not from fire. Death cannot occur unless the head is destroyed by fire.)
 - 3rd stage: Speak with Plants (Su) as a constant ability. Also see Advancement below.
 
-**Saves**: Same as base creature.
+**Defenses**: Same as base creature.
 
 **Abilities**: Increase these as follows immediately upon gaining the 1st stage: Str -1, Dex +1, Con -1, Int -1, Wis +1, Cha +1.
 
@@ -85,7 +85,7 @@ Just as a vampire can no longer walk in sunlight, kin o’ the green cannot oper
 
 - A kin o’ the green cannot cast any spells from the following groups or types: Cleric Domain—Death, Cleric Domain—Fire, Necromancy.
 - A kin o’ the green cannot use any spells evoking fire as either a component or an effect (_burning hands, fireball_, etc.)
-- As holy symbols keep vampires at bay, fire tends to do the same for greenkin. They are unable, due to ingrained fears, to cross over or enter an area that has large open flames. Torches make them nervous but waving one at greenkin will not be enough to repel them from an area, though a line of flaming oil will be an effective barrier. Kin o’ the green PCs can attempt to overcome these fears by making a Will save against them (see [[rangoric-srd/rules/Special Abilities and Conditions#^fear-shaken|fear]]). Success leaves them [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] (unless the save is made by more than 10), while failure leads automatically to [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] or worse.
+- As holy symbols keep vampires at bay, fire tends to do the same for greenkin. They are unable, due to ingrained fears, to cross over or enter an area that has large open flames. Torches make them nervous but waving one at greenkin will not be enough to repel them from an area, though a line of flaming oil will be an effective barrier. Kin o’ the green PCs can attempt to overcome these fears by making a Will check (1d20 + Will save bonus) against them (see [[rangoric-srd/rules/Special Abilities and Conditions#^fear-shaken|fear]]). Success leaves them [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] (unless the check succeeds by more than 10), while failure leads automatically to [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] or worse.
 - Greenkin suffer any fire-based spells as if they were cast with a Maximize Spell metamagic feat (the effects are doubled if that feat was actually used).
 - A greenkin suffers any plant-affecting spell as if they were cast with the Empower Spell metamagic feat (the effects are doubled if that feat was actually used).
 - 1st stage greenkin still consume the same food as the base creature, but they need twice as much water as normal.
@@ -108,7 +108,7 @@ This example uses a 5th-level human fighter as the base creature. Its CMD includ
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: None
 - **Special Qualities**: [[rangoric-srd/classes/Druid#^druid-woodland-stride|Woodland stride]]
-- **Saves**: Fort +7, Ref +3, Will +2
+- **Defenses**: Fort 17, Ref 13, Will 12
 - **Abilities**: Str 16, Dex 15, Con 16, Int 12, Wis 12, Cha 14
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Craft|Craft]] (weaponsmithing) +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Investigation|Investigation]] +6, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +10
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (scimitar), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (scimitar)

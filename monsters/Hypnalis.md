@@ -16,7 +16,7 @@ full-attack: "Bite +13 melee (1d6+9 plus grab and poison)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Constrict (1d6+9), poison, sneak attack +2d6"
 special-qualities: "Darkvision 60 ft., ghost touch fangs, phasing"
-saves: "Fort +5, Ref +7, Will +6"
+defenses: "Fort 15, Ref 17, Will 16"
 abilities: "Str 22, Dex 15, Con 16, Int 7, Wis 13, Cha 10"
 skills: "Acrobatics +10, Deception +10, Perception +11, Sense Motive +10, Stealth +15"
 skill-ranks: "Acrobatics 5, Deception 7, Perception 7, Sense Motive 6, Stealth 10"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d6+9), [[rangoric-srd/monsters/abilities/Poison|poison]], sneak attack +2d6
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Ghost Touch Fangs|ghost touch fangs]], [[rangoric-srd/monsters/abilities/Phasing (Hypnalis)|phasing]]
-- **Saves**: Fort +5, Ref +7, Will +6
+- **Defenses**: Fort 15, Ref 17, Will 16
 - **Abilities**: Str 22, Dex 15, Con 16, Int 7, Wis 13, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +15
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Shadow Strike|Shadow Strike]]
@@ -76,4 +76,4 @@ Hypnalis speak Aklo.
 
 **[[rangoric-srd/monsters/abilities/Phasing (Hypnalis)|Phasing]] (Su)**: A hypnalis can shift from the Ethereal Plane to the Material Plane as a free action and shift back again as a move action (or part of a move action). The ability is otherwise identical to ethereal jaunt (CL 15th).
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Su)**: If a hypnalis poisons an ethereal creature while on the Ethereal Plane (including creatures under the effects of spells or effects that grant etherealness such as ethereal jaunt), the creature is immediately forced onto the Material Plane and takes the specified Constitution damage. Creatures on the Material Plane are affected by this poison as normal. [[rangoric-srd/rules/afflictions/Hypnalis Venom|Hypnalis Venom]]: Bite—injury; save Fort DC 16; frequency 1/round for 6 rounds; effect 1d3 Con and effects listed above; cure 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Su)**: If a hypnalis poisons an ethereal creature while on the Ethereal Plane (including creatures under the effects of spells or effects that grant etherealness such as ethereal jaunt), the creature is immediately forced onto the Material Plane and takes the specified Constitution damage. Creatures on the Material Plane are affected by this poison as normal. [[rangoric-srd/rules/afflictions/Hypnalis Venom|Hypnalis Venom]]: Bite—injury; attack +6 vs Fortitude; frequency 1/round for 6 rounds; effect 1d3 Con and effects listed above; cure 2 consecutive misses. The attack bonus is Constitution-based.

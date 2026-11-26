@@ -16,7 +16,7 @@ full-attack: "2 slams +6 melee (1d6+2 plus grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Captivating lure"
 special-qualities: "Low-light vision, telepathy 1 mile, amphibious, change shape (hippocampus or horse, beast shape IV; Small or Medium humanoid, alter self), resistance to fire 10"
-saves: "Fort +4, Ref +8, Will +6"
+defenses: "Fort 14, Ref 18, Will 16"
 abilities: "Str 15, Dex 16, Con 15, Int 8, Wis 12, Cha 17"
 skills: "Athletics +10, Deception +16, Imitation +13, Perception +14, Sense Motive +11, Stealth +13"
 skill-ranks: "Athletics 5, Deception 9, Imitation 9, Perception 9, Sense Motive 9, Stealth 7"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Captivating Lure|Captivating lure]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 1 mile, [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (hippocampus or horse, beast shape IV; Small or Medium humanoid, alter self), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10
-- **Saves**: Fort +4, Ref +8, Will +6
+- **Defenses**: Fort 14, Ref 18, Will 16
 - **Abilities**: Str 15, Dex 16, Con 15, Int 8, Wis 12, Cha 17
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Imitation|Imitation]] +13, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Perception)
@@ -72,4 +72,4 @@ Kelpies speak Aquan, Common and Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Captivating Lure|Captivating Lure]] (Su)**: Once per day, a kelpie can use a powerful mental attack to lure in a single creature within 60 feet. The target must make a DC 16 Will saving throw or become captivated by the kelpie, thinking it is a desirable woman in mortal danger or (if in hippocampus or horse form) a valuable steed. A victim under the effects of the captivating lure moves toward the kelpie using the most direct means available. If the path leads it into a dangerous area such as through fire or off a cliff, that creature receives a second saving throw to end the effect before moving into peril; the victim does not consider water a dangerous area, and will enter the water even if it cannot swim or breathe. A captivated creature can take no actions other than to move toward the kelpie and defend itself, even if it is drowning. A victim within 5 feet of the kelpie simply stands and offers no resistance to its attacks. This effect continues as long as the kelpie is alive and the victim is within 1 mile of the kelpie. This is a mind-affecting charm effect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Captivating Lure|Captivating Lure]] (Su)**: Once per day, a kelpie can use a powerful mental attack to lure in a single creature within 60 feet. The lure attacks the target at +6 vs Will, and on a hit the target becomes captivated by the kelpie, thinking it is a desirable woman in mortal danger or (if in hippocampus or horse form) a valuable steed. A victim under the effects of the captivating lure moves toward the kelpie using the most direct means available. If the path leads it into a dangerous area such as through fire or off a cliff, the lure attacks that creature again, and a miss ends the effect, before it moves into peril; the victim does not consider water a dangerous area, and will enter the water even if it cannot swim or breathe. A captivated creature can take no actions other than to move toward the kelpie and defend itself, even if it is drowning. A victim within 5 feet of the kelpie simply stands and offers no resistance to its attacks. This effect continues as long as the kelpie is alive and the victim is within 1 mile of the kelpie. This is a mind-affecting charm effect. The attack bonus is Charisma-based.

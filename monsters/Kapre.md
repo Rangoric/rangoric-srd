@@ -14,8 +14,8 @@ attack: "Slam +17 melee (2d6+12)"
 full-attack: "2 slams +17 melee (2d6+12)"
 space-reach: "15 ft./15 ft."
 special-attacks: "Blow smoke"
-special-qualities: "Darkvision 60 ft., low-light vision, confounding (100 ft., DC 21), tree meld, damage reduction 10/slashing, plant traits"
-saves: "Fort +12, Ref +9, Will +9"
+special-qualities: "Darkvision 60 ft., low-light vision, confounding (100 ft., +11 vs Will), tree meld, damage reduction 10/slashing, plant traits"
+defenses: "Fort 22, Ref 19, Will 19"
 abilities: "Str 26, Dex 15, Con 17, Int 12, Wis 15, Cha 18"
 skills: "Athletics +20, Engineering +11, Fieldcraft +9, Perception +23, Sense Motive +7, Stealth +18"
 skill-ranks: "Athletics 9, Engineering 6, Fieldcraft 4, Perception 9, Sense Motive 4, Stealth 13"
@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: 2 slams +17 melee (2d6+12)
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blow Smoke|Blow smoke]]
-- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], confounding (100 ft., DC 21), [[rangoric-srd/monsters/abilities/Tree Meld|tree meld]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/slashing, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-- **Saves**: Fort +12, Ref +9, Will +9
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], confounding (100 ft., +11 vs Will), [[rangoric-srd/monsters/abilities/Tree Meld|tree meld]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/slashing, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
+- **Defenses**: Fort 22, Ref 19, Will 19
 - **Abilities**: Str 26, Dex 15, Con 17, Int 12, Wis 15, Cha 18
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Engineering|Engineering]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +18
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -69,8 +69,8 @@ Kapres speak Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Blow Smoke|Blow Smoke]] (Su)**: Smoke constantly drifts from a kapre's mouth, and as a standard action it can exhale a 30-foot cone of smoke. Any creature in the area must succeed at a DC 20 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round. This is a poison effect, and the save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Blow Smoke|Blow Smoke]] (Su)**: Smoke constantly drifts from a kapre's mouth, and as a standard action it can exhale a 30-foot cone of smoke. Any creature in the area is attacked at +10 vs Fortitude, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round. This is a poison effect, and the attack bonus is Constitution-based.
 
-**Confounding Aura (Su)**: A magical aura surrounds a kapre, confusing and distracting its foes. Within a kapre's aura, the DC of all Fieldcraft checks is increased by 15, and creatures trained in Fieldcraft are no longer able to automatically determine true north. On top of this, any creature within a kapre's aura must succeed at a DC 21 Will saving throw when it enters the area or take a -4 penalty on concentration checks, initiative checks, and skill checks. A kapre can suppress this aura at will.
+**Confounding Aura (Su)**: A magical aura surrounds a kapre, confusing and distracting its foes. Within a kapre's aura, the DC of all Fieldcraft checks is increased by 15, and creatures trained in Fieldcraft are no longer able to automatically determine true north. On top of this, any creature within a kapre's aura is attacked at +11 vs Will when it enters the area, and on a hit takes a -4 penalty on concentration checks, initiative checks, and skill checks. A kapre can suppress this aura at will.
 
 **[[rangoric-srd/monsters/abilities/Tree Meld|Tree Meld]] (Su)**: A kapre can meld with any tree, similar to how the spell meld with stone functions. It can remain melded with a tree as long as it wishes.

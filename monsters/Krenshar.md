@@ -15,7 +15,7 @@ full-attack: "Bite +2 melee (1d6) and 2 claws +2 melee (1d4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Skullface"
 special-qualities: "Darkvision 60 ft., low-light vision, scent"
-saves: "Fort +4, Ref +5, Will +1"
+defenses: "Fort 14, Ref 15, Will 11"
 abilities: "Str 11, Dex 14, Con 13, Int 6, Wis 12, Cha 13"
 skills: "Intimidation +1 (+5 to demoralize), Perception +5, Stealth +10"
 skill-ranks: "Intimidation 0, Perception 1, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Skullface
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +4, Ref +5, Will +1
+- **Defenses**: Fort 14, Ref 15, Will 11
 - **Abilities**: Str 11, Dex 14, Con 13, Int 6, Wis 12, Cha 13
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +1 (+5 to demoralize), [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
@@ -76,4 +76,4 @@ Krenshars understand Sylvan but can't speak.
 
 Krenshars use solitary scouts to drive prey into the waiting clutches of the pride. The scout appears from hiding, uses its scare ability, then chases the fleeing target to join the attack.
 
-**Skullface (Su)**: As a standard action, a krenshar can pull the skin back from its face, revealing the musculature and bony structures of its skull. This counts as using Intimidation to demoralize an opponent, and is an extraordinary ability. The krenshar can emit a loud screech while peeling back its skin, causing potent fear in a single creature within 100 feet that can see the krenshar. The targeted creature must make a DC 12 Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] (if the target has 6 or fewer Hit Dice) or [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] (if the target has more than 6 Hit Dice) for 1d4 rounds. A creature that successfully saves cannot be affected again by the same krenshar's skullface ability for 24 hours. This is a sonic, mind-affecting fear effect. The save DC is Charisma-based.
+**Skullface (Su)**: As a standard action, a krenshar can pull the skin back from its face, revealing the musculature and bony structures of its skull. This counts as using Intimidation to demoralize an opponent, and is an extraordinary ability. The krenshar can emit a loud screech while peeling back its skin, causing potent fear in a single creature within 100 feet that can see the krenshar. The targeted creature is attacked at +2 vs Will, and on a hit becomes [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] (if the target has 6 or fewer Hit Dice) or [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] (if the target has more than 6 Hit Dice) for 1d4 rounds. A creature the skullface misses cannot be affected again by the same krenshar's skullface ability for 24 hours. This is a sonic, mind-affecting fear effect. The attack bonus is Charisma-based.

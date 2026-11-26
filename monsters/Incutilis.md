@@ -16,7 +16,7 @@ full-attack: "2 tentacles +2 melee (1d4+2 plus grab)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Puppetmaster"
 special-qualities: "Darkvision 60 ft., telepathy 30 ft., amphibious"
-saves: "Fort +1, Ref +3, Will +5"
+defenses: "Fort 11, Ref 13, Will 15"
 abilities: "Str 15, Dex 15, Con 11, Int 12, Wis 13, Cha 8"
 skills: "Athletics +17, Deception +3, Imitation +3, Perception +8, Stealth +17"
 skill-ranks: "Athletics 12, Deception 1, Imitation 1, Perception 4, Stealth 4"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Puppetmaster|Puppetmaster]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 30 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
-- **Saves**: Fort +1, Ref +3, Will +5
+- **Defenses**: Fort 11, Ref 13, Will 15
 - **Abilities**: Str 15, Dex 15, Con 11, Int 12, Wis 13, Cha 8
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Deception|Deception]] +3, [[rangoric-srd/skills/Imitation|Imitation]] +3, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +17
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Step Up|Step Up]]

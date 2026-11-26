@@ -17,7 +17,7 @@ full-attack: "5 slams +54 (2d6+21/19-20) melee"
 space-reach: "10 ft./10 ft."
 special-attacks: "Psionics, destabilize form"
 special-qualities: "Alter shape, DR 10/epic, darkvision 120 ft., immunities, regeneration 50, spell resistance 39"
-saves: "Fort +40, Ref +39, Will +32"
+defenses: "Fort 50, Ref 49, Will 42"
 abilities: "Str 53, Dex 37, Con 39, Int 20, Wis 23, Cha 34"
 skills: "Athletics +68 (+76 jumping), Deception +59, Imitation +52, Intimidation +59, Perception +59, Persuasion +54, Sense Motive +32, Stealth +38"
 skill-ranks: "Athletics 44, Deception 44, Imitation 44, Intimidation 44, Perception 44, Persuasion 39, Sense Motive 23, Stealth 26"
@@ -51,7 +51,7 @@ Full Attack: 5 slams +54 (2d6+21/19-20) melee   
 Space/Reach: 10 ft./10 ft.      
 Special Attacks: Psionics, destabilize form      
 Special Qualities: Alter shape, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic, darkvision 120 ft., immunities, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 50, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 39      
-Saves: Fort +40, Ref +39, Will +32      
+Defenses: Fort 50, Ref 49, Will 42      
 Abilities: Str 53, Dex 37, Con 39, Int 20, Wis 23, Cha 34      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +68 (+76 jumping), [[rangoric-srd/skills/Deception|Deception]] +59, [[rangoric-srd/skills/Imitation|Imitation]] +52, [[rangoric-srd/skills/Intimidation|Intimidation]] +59, [[rangoric-srd/skills/Perception|Perception]] +59, [[rangoric-srd/skills/Persuasion|Persuasion]] +54, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +32, [[rangoric-srd/skills/Stealth|Stealth]] +38     
 Feats: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)      
@@ -67,7 +67,7 @@ A hagunemnon’s natural weapons are treated as epic for the purpose of overcomi
 
 #### Combat
 
-Psionics (Sp): Caster level 20th, save DC 22.
+Psionics (Sp): Caster level 20th, attack bonus +12.
 
 At will - [[rangoric-srd/spells/Detect Thoughts|detect thoughts]], [[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]], [[rangoric-srd/spells/Knock|knock]], [[rangoric-srd/spells/Nondetection|nondetection]], [[rangoric-srd/spells/Plane Shift|plane shift]], [[rangoric-srd/spells/Suggestion|suggestion]]. 
 

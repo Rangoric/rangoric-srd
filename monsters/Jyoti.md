@@ -14,9 +14,9 @@ cmd: "29"
 attack: "+1 ghost touch spear +14 melee (1d8+4/×3 plus 1d6 fire) or bite +13 melee (1d6+1 plus 1d6 fire) or ray +16 ranged touch (by spell)"
 full-attack: "+1 ghost touch spear +14/+9/+4 melee (1d8+4/×3 plus 1d6 fire) and bite +8 melee (1d6+1 plus 1d6 fire); or ray +16 ranged touch (by spell)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Breath weapon (60-ft. cone, 11d6 fire, Reflex DC 19 half, usable once every 1d4 rounds), positive energy, spell-like abilities"
+special-attacks: "Breath weapon (60-ft. cone, 11d6 fire, +9 vs Reflex; a miss halves, usable once every 1d4 rounds), positive energy, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, fast healing 10, divine aversion, positive energy affinity, immunity to death attacks, disease, energy drain and poison, resistance to acid 10, cold 10, electricity 10, fire 10 and sonic 10, spell resistance 20"
-saves: "Fort +11, Ref +8, Will +11"
+defenses: "Fort 21, Ref 18, Will 21"
 abilities: "Str 14, Dex 20, Con 19, Int 12, Wis 15, Cha 15"
 skills: "Acrobatics +9, Intimidation +16, Medicine +16, Perception +20, Sense Motive +16, Stealth +19, Theology +19"
 skill-ranks: "Acrobatics 1, Intimidation 11, Medicine 11, Perception 11, Sense Motive 11, Stealth 11, Theology 15"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: +1 ghost touch spear +14 melee (1d8+4/×3 plus 1d6 fire) or bite +13 melee (1d6+1 plus 1d6 fire) or ray +16 ranged touch (by spell)
 - **Full Attack**: +1 ghost touch spear +14/+9/+4 melee (1d8+4/×3 plus 1d6 fire) and bite +8 melee (1d6+1 plus 1d6 fire); or ray +16 ranged touch (by spell)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (60-ft. cone, 11d6 fire, Reflex DC 19 half, usable once every 1d4 rounds), [[rangoric-srd/monsters/abilities/Positive Energy|positive energy]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (60-ft. cone, 11d6 fire, +9 vs Reflex; a miss halves, usable once every 1d4 rounds), [[rangoric-srd/monsters/abilities/Positive Energy|positive energy]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, [[rangoric-srd/monsters/abilities/Divine Aversion|divine aversion]], [[rangoric-srd/monsters/abilities/Positive Energy Affinity (Jyoti)|positive energy affinity]], immunity to death attacks, disease, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10, electricity 10, fire 10 and sonic 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20
-- **Saves**: Fort +11, Ref +8, Will +11
+- **Defenses**: Fort 21, Ref 18, Will 21
 - **Abilities**: Str 14, Dex 20, Con 19, Int 12, Wis 15, Cha 15
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Medicine|Medicine]] +16, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +19, [[rangoric-srd/skills/Theology|Theology]] +19
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Wind Stance|Wind Stance]]
@@ -74,7 +74,7 @@ Jyotis speak Aquan, Auran, Common, Ignan and Terran.
 
 **[[rangoric-srd/monsters/abilities/Breath Weapon|Breath Weapon]] (Su)**: A jyoti's breath weapon is a focused burst of searing fire infused with positive energy. Undead in the area take 11d8 damage rather than 11d6.
 
-**[[rangoric-srd/monsters/abilities/Divine Aversion|Divine Aversion]] (Su)**: Jyoti dislike deities and are never divine spellcasters. Jyoti gain a +2 racial bonus on saves against divine magical effects.
+**[[rangoric-srd/monsters/abilities/Divine Aversion|Divine Aversion]] (Su)**: Jyoti dislike deities and are never divine spellcasters. Jyoti gain a +2 racial bonus on defenses against divine magical effects.
 
 **[[rangoric-srd/monsters/abilities/Positive Energy|Positive Energy]] (Su)**: A jyoti's natural weapons and any weapons it wields strike as if they were ghost touch weapons. In addition, any weapon (natural or manufactured) a jyoti uses deals +1d6 fire damage on a hit.
 

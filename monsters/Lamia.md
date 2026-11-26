@@ -15,7 +15,7 @@ full-attack: "+1 dagger +13/+8 melee (1d4+4/19–20) and touch +7 melee (1d4 Wis
 space-reach: "10 ft./5 ft."
 special-attacks: "Wisdom drain, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, undersized weapons"
-saves: "Fort +7, Ref +9, Will +11"
+defenses: "Fort 17, Ref 19, Will 21"
 abilities: "Str 18, Dex 16, Con 14, Int 13, Wis 17, Cha 13"
 skills: "Deception +9, Fieldcraft +12, Imitation +6, Intimidation +10, Perception +15, Persuasion +4, Stealth +15, Theology +4"
 skill-ranks: "Deception 1, Fieldcraft 6, Imitation 2, Intimidation 6, Perception 9, Persuasion 3, Stealth 9, Theology 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: Wisdom drain, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Undersized Weapons|undersized weapons]]
-- **Saves**: Fort +7, Ref +9, Will +11
+- **Defenses**: Fort 17, Ref 19, Will 21
 - **Abilities**: Str 18, Dex 16, Con 14, Int 13, Wis 17, Cha 13
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12, [[rangoric-srd/skills/Imitation|Imitation]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +4
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]]
@@ -76,7 +76,7 @@ Lamias speak Abyssal and Common.
 
 Though a lamia is powerful and dangerous in close combat, it has no stomach for a fair fight. It uses its illusion abilities to lure heroes into perilous situations, and then uses its [[rangoric-srd/feats/Spring Attack|Spring Attack]] feat to bound out of the shadows and drain Wisdom from its opponents. When it has sapped the will of its victim, it uses its enchantment abilities to beguile and ensnare the unfortunate soul. A lamia forced into physical combat attacks with a dagger in one of its human hands and a pair of lion-like claws.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th): At will—_[[rangoric-srd/spells/Disguise Self|disguise self]], [[rangoric-srd/spells/Ventriloquism|ventriloquism]]_; 3/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (DC 15),_[[rangoric-srd/spells/Major Image|major image]]_ (DC 14), _[[rangoric-srd/spells/Mirror Image|mirror image]], [[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 14); 1/day—_[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (DC 14).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th): At will—_[[rangoric-srd/spells/Disguise Self|disguise self]], [[rangoric-srd/spells/Ventriloquism|ventriloquism]]_; 3/day—_[[rangoric-srd/spells/Charm Monster|charm monster]]_ (+5 vs Will),_[[rangoric-srd/spells/Major Image|major image]]_ (+4 vs Will), _[[rangoric-srd/spells/Mirror Image|mirror image]], [[rangoric-srd/spells/Suggestion|suggestion]]_ (+4 vs Will); 1/day—_[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (+4 vs Will).
 
 **Undersized Weapons (Ex)**: Although a lamia is Large, its upper torso is the same size as that of a Medium humanoid. As a result, lamias wield weapons as if they were one size category smaller than their actual size (Medium for most lamias).
 

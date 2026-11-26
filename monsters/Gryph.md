@@ -15,7 +15,7 @@ full-attack: "Bite +5 melee (1d6/×3) and claw +5 melee (grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Implant eggs"
 special-qualities: "Darkvision 60 ft., low-light vision"
-saves: "Fort +5, Ref +5, Will +1"
+defenses: "Fort 15, Ref 15, Will 11"
 abilities: "Str 11, Dex 15, Con 14, Int 2, Wis 12, Cha 7"
 skills: "Acrobatics +8, Perception +5, Stealth +10"
 skill-ranks: "Acrobatics 1, Perception 1, Stealth 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Implant Eggs|Implant eggs]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-- **Saves**: Fort +5, Ref +5, Will +1
+- **Defenses**: Fort 15, Ref 15, Will 11
 - **Abilities**: Str 11, Dex 15, Con 14, Int 2, Wis 12, Cha 7
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

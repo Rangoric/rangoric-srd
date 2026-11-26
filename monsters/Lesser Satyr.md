@@ -15,7 +15,7 @@ full-attack: "2 hooves +3 melee (1d4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Trample"
 special-qualities: "Jump, scent"
-saves: "Fort +1, Ref +6, Will +6"
+defenses: "Fort 11, Ref 16, Will 16"
 abilities: "Str 9, Dex 13, Con 10, Int 12, Wis 15, Cha 14"
 skills: "Athletics +6, Perception +12, Stealth +8"
 skill-ranks: "Athletics 4, Perception 4, Stealth 4"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]]
 - **Special Qualities**: Jump, [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +1, Ref +6, Will +6
+- **Defenses**: Fort 11, Ref 16, Will 16
 - **Abilities**: Str 9, Dex 13, Con 10, Int 12, Wis 15, Cha 14
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +8
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]]

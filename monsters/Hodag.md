@@ -15,7 +15,7 @@ full-attack: "Bite +11 melee (1d8+4) and 2 claws +11 melee (1d6+4) and tail slap
 space-reach: "10 ft./10 ft."
 special-attacks: "Spiked tail, toss"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, ferocity, trackless"
-saves: "Fort +8, Ref +8, Will +5"
+defenses: "Fort 18, Ref 18, Will 15"
 abilities: "Str 19, Dex 14, Con 15, Int 7, Wis 12, Cha 10"
 skills: "Athletics +10, Perception +7, Stealth +2"
 skill-ranks: "Athletics 3, Perception 3, Stealth 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spiked Tail|Spiked tail]], [[rangoric-srd/monsters/abilities/Toss|toss]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Trackless|trackless]]
-- **Saves**: Fort +8, Ref +8, Will +5
+- **Defenses**: Fort 18, Ref 18, Will 15
 - **Abilities**: Str 19, Dex 14, Con 15, Int 7, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +2
 - **Feats**: [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]

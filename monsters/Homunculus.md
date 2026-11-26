@@ -15,7 +15,7 @@ full-attack: "Bite +3 melee (1d4–1 plus poison)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Poison"
 special-qualities: "Darkvision 60 ft., low-light vision, construct traits, telepathic link"
-saves: "Fort +0, Ref +4, Will +1"
+defenses: "Fort 10, Ref 14, Will 11"
 abilities: "Str 8, Dex 15, Con —, Int 10, Wis 12, Cha 7"
 skills: "Acrobatics +10, Perception +3, Stealth +12"
 skill-ranks: "Acrobatics 1, Perception 2, Stealth 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], telepathic link
-- **Saves**: Fort +0, Ref +4, Will +1
+- **Defenses**: Fort 10, Ref 14, Will 11
 - **Abilities**: Str 8, Dex 15, Con —, Int 10, Wis 12, Cha 7
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
@@ -80,6 +80,6 @@ Homunculi land on their victims and bite with their venomous fangs.
 
 [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/spells/Arcane Eye|arcane eye]], [[rangoric-srd/spells/Mirror Image|mirror image]], [[rangoric-srd/spells/Mending|mending]], caster must be at least 4th level; Price — (never sold); Cost 1,050 gp + 78 XP.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _save_ Fort DC 13; _frequency_ 1/minute for 60 minutes; _effect_ sleep for 1 minute; _cure_ 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _attack_ +3 vs Fortitude; _frequency_ 1/minute for 60 minutes; _effect_ sleep for 1 minute; _cure_ 1 miss. The attack bonus is Constitution-based and includes a +2 racial bonus.
 
 **Telepathic Link (Su)**: A homunculus cannot speak, but the process of creating one links it telepathically with its creator. A homunculus knows what its master knows and can convey to him or her everything it sees and hears, out to a distance of 1,500 feet.
