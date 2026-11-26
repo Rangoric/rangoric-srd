@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 area: "100-ft.-radius emanation"
 duration: "10 min./level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Jewel of the Sky|The Jewel of the Sky (Star Magic)]]"
@@ -35,7 +35,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 - **Range**: Long (400 ft. + 40 ft./level)
 - **Area**: 100-ft.-radius emanation
 - **Duration**: 10 min./level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 Pure white light fills the area. An [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] creature in it shows as a faint shimmer in the air: everyone in the area knows exactly where it is, though it keeps its concealment and miss chance.

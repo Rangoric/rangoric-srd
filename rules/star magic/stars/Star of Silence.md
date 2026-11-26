@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 hour/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Silence|Silence (Star Magic)]]"
@@ -32,7 +32,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 hour/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 Quiet wraps around you. You gain a +4 circumstance bonus per call level on [[rangoric-srd/skills/Stealth|Stealth]] checks to avoid being heard. While the star lasts you can't speak or cast spells with verbal components, which includes calling stars. You can end it as a free action.

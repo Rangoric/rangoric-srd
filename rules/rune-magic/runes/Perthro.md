@@ -19,7 +19,7 @@ _A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[ra
 
 Rune casters who favor Perthro are interested in secrets and mysteries, particularly those that deal with the occult or supernatural. They seek knowledge mortals were not meant to know despite the dangers in doing so. Those attuned to Perthro become very curious, even about matters in which curiosity may prove dangerous.
 
-**Special Power**: By spending five minutes talking with another person, be it a social discussion or interrogation, a rune caster attuned to Perthro may attempt to compel the person to tell the rune caster a single secret. The rune caster cannot force a specific secret to be revealed, but it is valuable to the rune caster in some way. The rune caster and his target make opposed Will saves. If the rune caster wins, the secret is revealed.
+**Special Power**: By spending five minutes talking with another person, be it a social discussion or interrogation, a rune caster attuned to Perthro may attempt to compel the person to tell the rune caster a single secret. The rune caster cannot force a specific secret to be revealed, but it is valuable to the rune caster in some way. The rune caster and his target make opposed rolls, each adding its Will save bonus. If the rune caster wins, the secret is revealed.
 
 **Spells Available** (by level; see [[rangoric-srd/rules/rune-magic/Rune Magic#The Runes|the runes]]):
 

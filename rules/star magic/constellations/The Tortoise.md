@@ -14,7 +14,7 @@ range: "Personal"
 target: "You"
 effect: "A vision of the future"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Tortoise|The Tortoise (Star Magic)]]"
@@ -36,7 +36,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 - **Target**: You
 - **Effect**: A vision of the future
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You see a brief vision of what may happen to you in the next few days. It is confused, broken and usually symbolic.

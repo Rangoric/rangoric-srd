@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 area: "10-ft.-radius + 5 ft./level spread, centered on a fixed point"
 duration: "1 hour/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Darkness|Darkness (Star Magic)]]"
@@ -32,7 +32,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Area**: 10-ft.-radius + 5 ft./level spread, centered on a fixed point
 - **Duration**: 1 hour/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 A ball of blackness goes to a fixed point you choose within range and drinks the light around it. The light in the area is dimmed by 30% per call level, and everyone in the area has [[rangoric-srd/combat/Combat Modifiers#Concealment|concealment]] with a miss chance equal to the dimming, up to total concealment at 100%.

@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You (see text)"
 duration: "1 day/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Compass|The Compass (Star Magic)]]"
@@ -36,7 +36,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 - **Range**: Personal
 - **Target**: You (see text)
 - **Duration**: 1 day/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 Name one creature, place or object. For the duration you know which way to go to reach it, even across planar boundaries. Protections such as _[[rangoric-srd/spells/Nondetection|nondetection]]_ are contested as usual. A target in an area without arcane magic (an _[[rangoric-srd/spells/Antimagic Field|antimagic field]]_, a plane where arcane magic doesn't work) is out of reach. The constellation shows the way but gives no means of travel.

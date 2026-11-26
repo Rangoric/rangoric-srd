@@ -19,7 +19,7 @@ _A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[ra
 
 Dagaz is the rune of beginnings, endings, and awakenings. It is popular amongst a number of groups because its area of influence is so large. Those attuned to Dagaz always see things through to the end, but after finishing one quest are left yearning to start another.
 
-**Special Power**: While attuned to the Dagaz rune, the character receives a +2 enhancement bonus to any saving throws against mind-affecting spells or spell-like abilities.
+**Special Power**: While attuned to the Dagaz rune, the character receives a +2 enhancement bonus to its defenses against mind-affecting spells or spell-like abilities.
 
 **Spells Available** (by level; see [[rangoric-srd/rules/rune-magic/Rune Magic#The Runes|the runes]]):
 

@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 area: "60-ft.-radius burst"
 duration: "1 round/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Gate|The Gate (Star Magic)]]"
@@ -37,7 +37,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 - **Range**: Long (400 ft. + 40 ft./level)
 - **Area**: 60-ft.-radius burst
 - **Duration**: 1 round/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 A wave of power that undoes arcane magic floods the area. It works as an area _[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]_ on everything in it. For the duration, any spell cast into or within the area is countered at once, as if by a counterspell with _greater dispel magic_.

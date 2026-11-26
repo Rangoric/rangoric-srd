@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "10-ft.-radius burst"
 duration: "5 rounds + 1 round/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Protection|Protection (Star Magic)]]"
@@ -32,7 +32,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Area**: 10-ft.-radius burst
 - **Duration**: 5 rounds + 1 round/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 Every creature in the area gains a +2 bonus per call level to its Armor Class.

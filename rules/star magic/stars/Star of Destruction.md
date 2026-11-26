@@ -12,7 +12,7 @@ range: "10 ft."
 target: "All hostile creatures in the area"
 area: "10-ft.-radius emanation centered on you"
 duration: "Instantaneous"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Destruction|Destruction (Star Magic)]]"
@@ -34,7 +34,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 - **Target**: All hostile creatures in the area
 - **Area**: 10-ft.-radius emanation centered on you
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 A wave of light bursts out from you. Each hostile creature in the area takes 1d4 points of force damage per caster level, to a maximum of 5d4 at the 1st call level. Each call level above 1st raises the maximum by 2d4.

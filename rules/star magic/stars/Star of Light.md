@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 area: "20-ft.-radius burst"
 duration: "Instantaneous (light: 1 day/level)"
-saving-throw: "Reflex half"
+defense: "Reflex half"
 spell-resistance: "Yes"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Light|Light (Star Magic)]]"
@@ -32,7 +32,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Area**: 20-ft.-radius burst
 - **Duration**: Instantaneous (light: 1 day/level)
-- **Saving Throw**: Reflex half
+- **Defense**: Reflex half
 - **Spell Resistance**: Yes
 
 Light bursts from a point you choose. The burst deals 1d8 points of damage per call level to each undead creature in the area and to each spellcaster in it who has a necromancy spell prepared or known.

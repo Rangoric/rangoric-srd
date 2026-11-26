@@ -18,8 +18,8 @@ The Negative Energy Plane has the following traits (what each means is in [[rang
 
 - **Subjective Directional Gravity**
 - **Major Negative-Dominant**: Some areas within the plane have only the minor negative-dominant trait, and these islands tend to be inhabited.
-- **Enhanced Magic**: Spells and spell-like abilities that use negative energy are enhanced. Class abilities that use negative energy, such as channel negative energy, gain a +4 bonus to the save DC to resist the ability.
-- **Impeded Magic**: Spells and spell-like abilities that use positive energy (including cure spells) are impeded. Characters on this plane take a –10 penalty on saving throws made to remove negative levels bestowed by an energy drain attack.
+- **Enhanced Magic**: Spells and spell-like abilities that use negative energy are enhanced. Class abilities that use negative energy, such as channel negative energy, gain a +4 bonus to the ability’s attack bonus.
+- **Impeded Magic**: Spells and spell-like abilities that use positive energy (including cure spells) are impeded. Characters on this plane take a –10 penalty on Fortitude Defense against the daily attacks of negative levels bestowed by an energy drain attack.
 
 [[rangoric-srd/rules/Planes|Planes]] describes this plane too: see [[rangoric-srd/rules/Planes#Negative Energy Plane|Negative Energy Plane]].
 

@@ -19,7 +19,7 @@ _A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[ra
 
 The rune of storm and earthquake, Hagalaz represents the anger of nature. A popular rune with Warriors, this rune is a powerful if clumsy force. Those attuned to Hagalaz are violent and destructive but also respectful toward nature.
 
-**Special Power**: While attuned to the Hagalaz rune, the rune caster receives a +4 enhancement bonus to all saving throws made to resist damage from exposure to the environment.
+**Special Power**: While attuned to the Hagalaz rune, the rune caster receives a +4 enhancement bonus to all defenses against damage from exposure to the environment.
 
 **Spells Available** (by level; see [[rangoric-srd/rules/rune-magic/Rune Magic#The Runes|the runes]]):
 

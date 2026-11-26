@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 area: "10-ft.-radius burst"
 duration: "Instantaneous (see text)"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Thunder|Thunder (Star Magic)]]"
@@ -32,7 +32,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 - **Range**: Long (400 ft. + 40 ft./level)
 - **Area**: 10-ft.-radius burst
 - **Duration**: Instantaneous (see text)
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 The light hangs for an instant and then bursts with a thunderclap. Every creature in the area, friend or foe, that fails its save can take no actions for a number of rounds equal to the call level. It isn't stunned and suffers nothing else, and the effect ends at once if it takes damage of any kind.

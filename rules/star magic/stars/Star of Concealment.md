@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "You and one creature or object/level, touching"
 duration: "5 min./level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Concealment|Concealment (Star Magic)]]"
@@ -32,7 +32,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 - **Range**: Touch
 - **Target**: You and one creature or object/level, touching
 - **Duration**: 5 min./level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes
 
 You and those you share the light with gain a +2 circumstance bonus per call level on [[rangoric-srd/skills/Stealth|Stealth]] checks.

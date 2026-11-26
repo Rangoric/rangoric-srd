@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Two willing creatures"
 duration: "Permanent"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Lovers|The Lovers (Star Magic)]]"
@@ -36,12 +36,12 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 - **Range**: Touch
 - **Target**: Two willing creatures
 - **Duration**: Permanent
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 You touch two willing creatures and bind them together for good.
 
 - **Sense**: Either one can sense the other's hit points, general condition, and distance and direction (not exact location) as a free action.
 - **Share**: Within 40 feet of each other, either one can transfer hit points to the other as a standard action: the giver loses 2 hit points for each 1 the other regains, and the receiver can't go above its maximum.
-- **Shield**: Within 20 feet of each other, both use the better of their two bonuses on any saving throw.
-- **Loss**: If one of them dies, the other loses 1d4 levels and must succeed on a Will save against the constellation's DC or fall into a coma and die within 1d4 days, unless saved by _[[rangoric-srd/spells/Miracle|miracle]]_, _[[rangoric-srd/spells/Wish|wish]]_ or similar magic.
+- **Shield**: Within 20 feet of each other, both use the better of their two values for each defense.
+- **Loss**: If one of them dies, the other loses 1d4 levels, and the constellation attacks its Will; on a hit it falls into a coma and dies within 1d4 days, unless saved by _[[rangoric-srd/spells/Miracle|miracle]]_, _[[rangoric-srd/spells/Wish|wish]]_ or similar magic.

@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One object or spot"
 duration: "1 hour/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Water|Water (Star Magic)]]"
@@ -32,7 +32,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 - **Range**: Touch
 - **Target**: One object or spot
 - **Duration**: 1 hour/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 Pure water wells up from the object or spot you touch at 1 gallon per minute, until its container or space is full or the star ends. Anyone making a [[rangoric-srd/skills/Medicine|Medicine]] check to treat someone who has drunk the water gains a +1 bonus per call level.

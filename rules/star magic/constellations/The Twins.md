@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "1 mile/level"
 target: "One creature you have met"
 duration: "Instantaneous"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Twins|The Twins (Star Magic)]]"
@@ -34,7 +34,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 - **Range**: 1 mile/level
 - **Target**: One creature you have met
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 You learn the direction and distance to a creature you have met, and its condition: alive or dead, hurt, sick or well, and its mood.

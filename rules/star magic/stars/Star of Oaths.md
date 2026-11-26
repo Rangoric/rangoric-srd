@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One creature"
 duration: "Until the deed is done or 2 hours"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Oaths|Oaths (Star Magic)]]"
@@ -32,7 +32,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 - **Range**: Touch
 - **Target**: One creature
 - **Duration**: Until the deed is done or 2 hours
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes
 
 The target swears to do one specific deed that takes no more than 2 hours, though it needn't start at once. While doing it, the target gains a +1 morale bonus per call level on rolls made to do it.

@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 area: "30-ft.-radius burst"
 duration: "Instantaneous"
-saving-throw: "Reflex half (see text)"
+defense: "Reflex half (see text)"
 spell-resistance: "Yes"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Great Darkness|The Great Darkness (Star Magic)]]"
@@ -37,9 +37,9 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 - **Range**: Long (400 ft. + 40 ft./level)
 - **Area**: 30-ft.-radius burst
 - **Duration**: Instantaneous
-- **Saving Throw**: Reflex half (see text)
+- **Defense**: Reflex half (see text)
 - **Spell Resistance**: Yes
 
-Freezing darkness swallows the area. Every unattended object in it is destroyed. Every creature in it takes 10d6 points of cold damage and 10d6 points of damage; a successful save cuts each to 5d6.
+Freezing darkness swallows the area. Every unattended object in it is destroyed. Every creature in it takes 10d6 points of cold damage and 10d6 points of damage; a miss cuts each to 5d6.
 
-Calling it is dangerous: you must succeed on a [[rangoric-srd/rules/Concentration (Check)|caster level check]] against the constellation's save DC or take 5d6 points of damage yourself.
+Calling it is dangerous: you must succeed on a [[rangoric-srd/rules/Concentration (Check)|caster level check]] against 10 + the constellation's attack bonus or take 5d6 points of damage yourself.

@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "10 ft."
 target: "One creature/level, all within a 10-ft.-radius"
 duration: "1 day/call level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Life|Life (Star Magic)]]"
@@ -32,7 +32,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 - **Range**: 10 ft.
 - **Target**: One creature/level, all within a 10-ft.-radius
 - **Duration**: 1 day/call level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 For 1 day per call level, the targets don't need to sleep and don't become [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] from work, travel or other effort. Magic, poison and the like can still fatigue or exhaust them.

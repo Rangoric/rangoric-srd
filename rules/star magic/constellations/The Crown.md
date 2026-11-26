@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "60 ft."
 target: "One creature/round"
 duration: "2 rounds/level"
-saving-throw: "Will negates (see text)"
+defense: "Will (see text)"
 spell-resistance: "Yes"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Crown|The Crown (Star Magic)]]"
@@ -40,7 +40,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_ \[Mind-Affecting\]
 - **Range**: 60 ft.
 - **Target**: One creature/round
 - **Duration**: 2 rounds/level
-- **Saving Throw**: Will negates (see text)
+- **Defense**: Will (see text)
 - **Spell Resistance**: Yes
 
 For the duration, you can use a standard action each round to start a contest of wills with a creature you can see within range. You must first overcome its spell resistance. You and the creature each roll 1d20 + your Will save bonus; if it loses, it obeys your unspoken commands without question until the constellation ends. A command that would get it killed outright starts another contest.

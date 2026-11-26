@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 area: "40-ft.-radius spread"
 duration: "Concentration + 1 round/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Great Bear|The Great Bear (Star Magic)]]"
@@ -38,9 +38,9 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_ \[Mind-Affecting\]
 - **Range**: Long (400 ft. + 40 ft./level)
 - **Area**: 40-ft.-radius spread
 - **Duration**: Concentration + 1 round/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-Wavering lights pour down over the area. Each creature in it with fewer Hit Dice than your caster level must succeed on a Will save or be hypnotized, as _[[rangoric-srd/spells/Hypnotism|hypnotism]]_, until the constellation ends.
+Wavering lights pour down over the area. The constellation attacks the Will of each creature in it with fewer Hit Dice than your caster level, and a creature it hits is hypnotized, as _[[rangoric-srd/spells/Hypnotism|hypnotism]]_, until the constellation ends.
 
-**Higher call levels**: At the 8th call level, a creature coming out of the hypnosis must make a second Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1d4 rounds. At the 9th, the effect lasts 3 rounds per caster level after you stop concentrating, instead of 1.
+**Higher call levels**: At the 8th call level, the constellation attacks the Will of a creature coming out of the hypnosis a second time, and on a hit it is [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1d4 rounds. At the 9th, the effect lasts 3 rounds per caster level after you stop concentrating, instead of 1.

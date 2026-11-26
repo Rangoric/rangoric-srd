@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "One summoned dove"
 duration: "1 day/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Dove|The Dove (Star Magic)]]"
@@ -34,7 +34,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: One summoned dove
 - **Duration**: 1 day/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 A small dove appears in your hand. It can't fight, and it can't be harmed, stopped or slowed by mundane means or most magic, though _[[rangoric-srd/spells/Dispel Magic|dispel magic]]_ or another effect that ends magic ends it as usual.

@@ -22,4 +22,4 @@ A sample trap; how traps work, and what each line means, is in [[rangoric-srd/ru
 - **[[rangoric-srd/skills/Engineering|Engineering]]**: DC 31 to disable
 - **Trigger**: proximity (_[[rangoric-srd/spells/Alarm|alarm]]_)
 - **Reset**: none
-- **Effect**: spell effect (_[[rangoric-srd/spells/Fireball|fireball]]_, 60 fire damage, DC 14 Reflex save for half damage); multiple targets (all targets in a 20-ft.-radius burst)
+- **Effect**: spell effect (_[[rangoric-srd/spells/Fireball|fireball]]_, 60 fire damage, +4 vs Reflex half); multiple targets (all targets in a 20-ft.-radius burst)

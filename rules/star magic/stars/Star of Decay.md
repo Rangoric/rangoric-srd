@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One object/level, all within a 40-ft.-radius"
 duration: "1 round/level"
-saving-throw: "Will negates (object)"
+defense: "Will (object)"
 spell-resistance: "No"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/stars/Decay|Decay (Star Magic)]]"
@@ -32,7 +32,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Star]]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One object/level, all within a 40-ft.-radius
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates (object)
+- **Defense**: Will (object)
 - **Spell Resistance**: No
 
-The light makes things fall apart. Each target object takes damage equal to the call level every round. Unattended objects get no save and start decaying at once; an object held, worn or in use gets its owner's saving throw.
+The light makes things fall apart. Each target object takes damage equal to the call level every round. Unattended objects have no defense and start decaying at once; an object held, worn or in use uses its owner's defense.

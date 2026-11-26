@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 day"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Scroll|The Scroll (Star Magic)]]"
@@ -34,7 +34,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 day
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 Your memory opens like a written record you can search at will. You can take 10 on any [[rangoric-srd/skills/Knowledge|Knowledge]] check while the constellation lasts.

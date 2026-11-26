@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Personal"
 effect: "A longsword"
 duration: "5 rounds/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[individual books/Encyclopaedia Arcane Star Magic/constellations/The Sword|The Sword (Star Magic)]]"
@@ -35,7 +35,7 @@ _[[rangoric-srd/rules/star magic/Star Magic|Constellation]]_
 - **Range**: Personal
 - **Effect**: A longsword
 - **Duration**: 5 rounds/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 A +2 [[rangoric-srd/magic-items/weapon-abilities/Keen|keen]] [[rangoric-srd/magic-items/weapon-abilities/Shining|shining]] longsword appears in your hand. You're proficient with it while it lasts, if you weren't already. It vanishes if it leaves your hands for more than 1 round.

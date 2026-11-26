@@ -19,7 +19,7 @@ _A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[ra
 
 The rune of joy, Wunjo is associated with celebrations and fellowship. Wunjo is considered the rune of the common people who take such joy in the things it symbolizes. Those attuned to Wunjo are upbeat and always willing to help a friend. They also work well as part of a team.
 
-**Special Power**: While attuned to the Wunjo rune, the rune caster receives a +4 bonus to all saving throws against fear or fearlike effects.
+**Special Power**: While attuned to the Wunjo rune, the rune caster receives a +4 bonus to all defenses against fear or fearlike effects.
 
 **Spells Available** (by level; see [[rangoric-srd/rules/rune-magic/Rune Magic#The Runes|the runes]]):
 
