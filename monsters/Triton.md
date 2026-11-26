@@ -16,7 +16,7 @@ full-attack: "Masterwork trident +5 melee (1d8+1); or heavy crossbow +3 ranged (
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision"
-saves: "Fort +4, Ref +1, Will +4"
+defenses: "Fort 14, Ref 11, Will 14"
 abilities: "Str 12, Dex 10, Con 12, Int 13, Wis 13, Cha 11"
 skills: "Animal Handling +6, Athletics +9, Craft (any one) +7, Fieldcraft +7, Perception +7, Persuasion +6, Sense Motive +7, Stealth +6"
 skill-ranks: "Animal Handling 3, Athletics 5, Craft (any one) 3, Fieldcraft 3, Perception 3, Persuasion 3, Sense Motive 3, Stealth 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-- **Saves**: Fort +4, Ref +1, Will +4
+- **Defenses**: Fort 14, Ref 11, Will 14
 - **Abilities**: Str 12, Dex 10, Con 12, Int 13, Wis 13, Cha 11
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Craft|Craft]] (any one) +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Feats**: [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]]

@@ -15,7 +15,7 @@ full-attack: "Slam +17 melee (3d6+15 plus grab)"
 space-reach: "15 ft./10 ft."
 special-attacks: "Constrict (3d6+15), smother"
 special-qualities: "Blindsense 10 ft., darkvision 60 ft., scent, amorphous, damage reduction 10/piercing or slashing, resistance to cold 10 and fire 10, light sensitivity"
-saves: "Fort +10, Ref +5, Will +11"
+defenses: "Fort 20, Ref 15, Will 21"
 abilities: "Str 30, Dex 12, Con 19, Int 14, Wis 17, Cha 13"
 skills: "Athletics +18, Dungeoneering +15, Fieldcraft +15, Perception +25, Sense Motive +16, Sleight of Hand +14, Stealth +19 (+27 in rocky areas)"
 skill-ranks: "Athletics 5, Dungeoneering 10, Fieldcraft 9, Perception 19, Sense Motive 10, Sleight of Hand 10, Stealth 19"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (3d6+15), [[rangoric-srd/monsters/abilities/Smother|smother]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 10 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/piercing or slashing, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +10, Ref +5, Will +11
+- **Defenses**: Fort 20, Ref 15, Will 21
 - **Abilities**: Str 30, Dex 12, Con 19, Int 14, Wis 17, Cha 13
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +15, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +19 (+27 in rocky areas)
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Toughness|Toughness]]

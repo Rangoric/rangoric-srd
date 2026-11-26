@@ -15,7 +15,7 @@ full-attack: "Bite +6 melee (1d4) and 2 claws +6 melee (1d4 plus grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Constrict (1d4), control body, enshroud, grab (Medium), spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect undead, amorphous, compression, undead traits"
-saves: "Fort +2, Ref +3, Will +4"
+defenses: "Fort 12, Ref 13, Will 14"
 abilities: "Str 10, Dex 15, Con —, Int 6, Wis 10, Cha 13"
 skills: "Acrobatics +4, Perception +7, Stealth +13"
 skill-ranks: "Acrobatics 0, Perception 4, Stealth 4"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d4), [[rangoric-srd/monsters/abilities/Control Body|control body]], [[rangoric-srd/monsters/abilities/Enshroud|enshroud]], [[rangoric-srd/monsters/abilities/Grab|grab]] (Medium), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect undead, [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +2, Ref +3, Will +4
+- **Defenses**: Fort 12, Ref 13, Will 14
 - **Abilities**: Str 10, Dex 15, Con —, Int 6, Wis 10, Cha 13
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -69,7 +69,7 @@ Shredskins understand Common but can't speak.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +4): Constant—_[[rangoric-srd/spells/Detect Undead|detect undead]]_; 1/day—_[[rangoric-srd/spells/Command Undead|command undead]]_ (DC 13).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +4): Constant—_[[rangoric-srd/spells/Detect Undead|detect undead]]_; 1/day—_[[rangoric-srd/spells/Command Undead|command undead]]_ (+3 vs Will).
 
 **[[rangoric-srd/monsters/abilities/Control Body|Control Body]] (Su)**: A shredskin can wrap itself around a corpse (or a corporeal undead it controls using command undead). When wrapping a host body in this way, the shredskin gains Strength 14 or the host body's Strength, whichever is higher, but cannot use its grab or enshroud abilities which doing so. Attacks targeted at the shredskin deal half damage to it and half damage to the host body; area attacks deal normal damage to both the shredskin and its host. If the host is destroyed, the shredskin unwraps itself as a free action on its next turn. A typical Medium corpse has 15 hit points for this purpose, while a Small corpse has 10 hit points. A shredskin can only use this ability on a generally humanoid-shaped creature (two arms, one head, humanoid torso) of Medium or Small size.
 

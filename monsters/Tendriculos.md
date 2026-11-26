@@ -13,9 +13,9 @@ cmd: "24 (can't be tripped)"
 attack: "Bite +11 melee (2d6+7 plus grab) or tentacle +11 melee (1d6+3 plus grab)"
 full-attack: "Bite +11 melee (2d6+7 plus grab) and 2 tentacles +6 melee (1d6+3 plus grab)"
 space-reach: "15 ft./15 ft."
-special-attacks: "Paralysis (3d6 rounds, DC 18), swallow whole (2d6 acid damage plus paralysis, AC 15, 7 hp)"
+special-attacks: "Paralysis (3d6 rounds, +8 vs Fortitude), swallow whole (2d6 acid damage plus paralysis, AC 15, 7 hp)"
 special-qualities: "Low-light vision, regeneration 10 (bludgeoning or fire), immunity to acid, plant traits"
-saves: "Fort +10, Ref +4, Will +4"
+defenses: "Fort 20, Ref 14, Will 14"
 abilities: "Str 24, Dex 9, Con 18, Int 3, Wis 8, Cha 3"
 skills: "Perception +7, Stealth +1 (+9 in undergrowth)"
 skill-ranks: "Perception 5, Stealth 7"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +11 melee (2d6+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tentacle +11 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Full Attack**: Bite +11 melee (2d6+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 tentacles +6 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Space/Reach**: 15 ft./15 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Paralysis|Paralysis]] (3d6 rounds, DC 18), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d6 acid damage plus paralysis, AC 15, 7 hp)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Paralysis|Paralysis]] (3d6 rounds, +8 vs Fortitude), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d6 acid damage plus paralysis, AC 15, 7 hp)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 10 (bludgeoning or fire), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-- **Saves**: Fort +10, Ref +4, Will +4
+- **Defenses**: Fort 20, Ref 14, Will 14
 - **Abilities**: Str 24, Dex 9, Con 18, Int 3, Wis 8, Cha 3
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +1 (+9 in undergrowth)
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)

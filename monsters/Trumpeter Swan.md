@@ -15,7 +15,7 @@ full-attack: "Bite +1 melee (1d4) and 2 wings –4 melee (1d3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision"
-saves: "Fort +3, Ref +4, Will +1"
+defenses: "Fort 13, Ref 14, Will 11"
 abilities: "Str 10, Dex 15, Con 12, Int 2, Wis 13, Cha 5"
 skills: "Acrobatics +4, Perception +8"
 skill-ranks: "Acrobatics 0, Perception 4"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
-- **Saves**: Fort +3, Ref +4, Will +1
+- **Defenses**: Fort 13, Ref 14, Will 11
 - **Abilities**: Str 10, Dex 15, Con 12, Int 2, Wis 13, Cha 5
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Perception|Perception]] +8
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

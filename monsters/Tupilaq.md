@@ -15,7 +15,7 @@ full-attack: "Bite +15 melee (1d8+10/19–20 plus grab) and 2 claws +15 melee (1
 space-reach: "5 ft./5 ft."
 special-attacks: "Seek target, shearing jaws, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, scrimshaw magic, damage reduction 10/bludgeoning, construct traits"
-saves: "Fort +3, Ref +7, Will +3"
+defenses: "Fort 13, Ref 17, Will 13"
 abilities: "Str 21, Dex 18, Con —, Int —, Wis 11, Cha 5"
 skills: "Athletics +13"
 skill-ranks: "Athletics 5"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Seek Target|Seek target]], [[rangoric-srd/monsters/abilities/Shearing Jaws|shearing jaws]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scrimshaw Magic|scrimshaw magic]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/bludgeoning, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]]
-- **Saves**: Fort +3, Ref +7, Will +3
+- **Defenses**: Fort 13, Ref 17, Will 13
 - **Abilities**: Str 21, Dex 18, Con —, Int —, Wis 11, Cha 5
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13
 - **Feats**: —
@@ -69,7 +69,7 @@ Tupilaqs must be created in secrecy—if any other person discovers the tupilaq 
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +4): 3/day—_[[rangoric-srd/spells/Invisibility|invisibility]]_.
 
-**[[rangoric-srd/monsters/abilities/Scrimshaw Magic|Scrimshaw Magic]] (Sp)**: When a tupilaq is created, its creator can inscribe a single spell he knows (as long as that spell is no higher than 2nd level and requires no material components) into the tupilaq as a complex scrimshaw design. The tupilaq gains the ability to use that spell as a spell-like ability (CL 7th) three times per day. The tupilaq's creator can inscribe a new spell onto the tupilaq if he wishes, replacing the previous scrimshaw. Inscribing a new scrimshaw requires 24 hours of work and an expenditure of 500 gp in materials. The tupilaq presented here utilizes invisibility in this manner. Erase can destroy a tupilaq's scrimshaw if it fails a Fortitude save against the spell. If a tupilaq's scrimshaw is removed in this manner, it loses access to the spell as a spell-like ability, and seeks out its creator to attack and kill him. The tupilaq's creator becomes the target of the tupilaq's seek target ability in this case. If a tupilaq's creator is already dead, the tupilaq instead seeks out the nearest living creature and attacks this new target on sight, continuing this spree of murder until it is itself destroyed.
+**[[rangoric-srd/monsters/abilities/Scrimshaw Magic|Scrimshaw Magic]] (Sp)**: When a tupilaq is created, its creator can inscribe a single spell he knows (as long as that spell is no higher than 2nd level and requires no material components) into the tupilaq as a complex scrimshaw design. The tupilaq gains the ability to use that spell as a spell-like ability (CL 7th) three times per day. The tupilaq's creator can inscribe a new spell onto the tupilaq if he wishes, replacing the previous scrimshaw. Inscribing a new scrimshaw requires 24 hours of work and an expenditure of 500 gp in materials. The tupilaq presented here utilizes invisibility in this manner. Erase can destroy a tupilaq's scrimshaw if the spell hits its Fortitude. If a tupilaq's scrimshaw is removed in this manner, it loses access to the spell as a spell-like ability, and seeks out its creator to attack and kill him. The tupilaq's creator becomes the target of the tupilaq's seek target ability in this case. If a tupilaq's creator is already dead, the tupilaq instead seeks out the nearest living creature and attacks this new target on sight, continuing this spree of murder until it is itself destroyed.
 
 **[[rangoric-srd/monsters/abilities/Seek Target|Seek Target]] (Su)**: A tupilaq's creator can place a drop of blood, lock of hair, or other portion of a creature's body in the tupilaq's maw as a standard action. From that point on, the tupilaq constantly knows what direction that creature is located in, and gains a +20 insight bonus on all Perception checks made to locate the creature. A new target cannot be assigned to a tupilaq in this manner until its previous target is dead.
 

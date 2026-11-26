@@ -15,7 +15,7 @@ full-attack: "Bite +4 melee (1d4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Shock"
 special-qualities: "Darkvision 60 ft., electricity sense, low-light vision, immunity to electricity"
-saves: "Fort +4, Ref +5, Will +2"
+defenses: "Fort 14, Ref 15, Will 12"
 abilities: "Str 10, Dex 15, Con 13, Int 2, Wis 13, Cha 6"
 skills: "Athletics +8, Perception +8, Stealth +17"
 skill-ranks: "Athletics 5, Perception 2, Stealth 4"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Shock
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., electricity sense, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity
-- **Saves**: Fort +4, Ref +5, Will +2
+- **Defenses**: Fort 14, Ref 15, Will 12
 - **Abilities**: Str 10, Dex 15, Con 13, Int 2, Wis 13, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +17
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
@@ -74,4 +74,4 @@ Many have attempted to capture and tame shocker lizards, but this often proves a
 
 **Electricity Sense (Ex)**: Shocker lizards automatically detect any electrical discharges within 100 feet.
 
-**Shock (Su)**: Shocker lizards can deliver an electrical shock to a single opponent within 5 feet. This attack deals 1d8 points of nonlethal electricity damage to living opponents (Reflex DC 12 half). This save DC is Constitution-based. Additionally, if two or more shocker lizards are within 20 feet of each other, they can work together to create a lethal shock once every 1d4 rounds. This effect has a radius of 20 feet, centered on any one contributing lizard. All creatures within that radius take 2d8 points of lethal electricity damage for each lizard contributing to the shock, to a maximum of 12d8. A Reflex save (DC 10 + the number of lizards contributing) halves the damage.
+**Shock (Su)**: Shocker lizards can deliver an electrical shock to a single opponent within 5 feet. This attack deals 1d8 points of nonlethal electricity damage to living opponents (+2 vs Reflex; a miss halves). This attack bonus is Constitution-based. Additionally, if two or more shocker lizards are within 20 feet of each other, they can work together to create a lethal shock once every 1d4 rounds. This effect has a radius of 20 feet, centered on any one contributing lizard. All creatures within that radius take 2d8 points of lethal electricity damage for each lizard contributing to the shock, to a maximum of 12d8. It attacks Reflex (attack bonus equal to the number of lizards contributing), and a miss halves the damage.

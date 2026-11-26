@@ -15,7 +15,7 @@ full-attack: "Bite +4 melee (1d3–4) and 2 claws +4 melee (1d2–4); or spray +
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Musk"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +1, Ref +4, Will +1"
+defenses: "Fort 11, Ref 14, Will 11"
 abilities: "Str 3, Dex 15, Con 9, Int 2, Wis 12, Cha 6"
 skills: "Perception +5"
 skill-ranks: "Perception 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Musk|Musk]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +1, Ref +4, Will +1
+- **Defenses**: Fort 11, Ref 14, Will 11
 - **Abilities**: Str 3, Dex 15, Con 9, Int 2, Wis 12, Cha 6
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +5
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -65,4 +65,4 @@ These small mammals are well known to humanoids and forest creatures alike, with
 
 ### Combat
 
-**Musk (Ex)**: Up to twice per day, a skunk can spray a stream of noxious musk at a single target within 10 feet as a standard action. With a successful ranged touch attack, the creature struck by this spray must make a DC 11 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d4 rounds and then [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d4 minutes by the horrific stench. A successful save reduces the effect to only 1d4 rounds of being sickened. A creature cannot use the scent ability as long as it is affected by this musk. The save DC is Constitution-based, and includes a +2 racial bonus.
+**Musk (Ex)**: Up to twice per day, a skunk can spray a stream of noxious musk at a single target within 10 feet as a standard action. With a successful ranged touch attack, the spray attacks the creature struck at +1 vs Fortitude, and on a hit it is [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d4 rounds and then [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d4 minutes by the horrific stench. A miss reduces the effect to only 1d4 rounds of being sickened. A creature cannot use the scent ability as long as it is affected by this musk. The attack bonus is Constitution-based, and includes a +2 racial bonus.

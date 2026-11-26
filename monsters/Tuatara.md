@@ -15,7 +15,7 @@ full-attack: "Bite +3 melee (1d3–4 plus attach)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision"
-saves: "Fort +3, Ref +3, Will +0"
+defenses: "Fort 13, Ref 13, Will 10"
 abilities: "Str 2, Dex 13, Con 12, Int 1, Wis 10, Cha 5"
 skills: "Acrobatics +5, Athletics +9 (+5 jumping), Fieldcraft +4, Perception +4"
 skill-ranks: "Acrobatics 1, Athletics 10, Fieldcraft 0, Perception 0"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-- **Saves**: Fort +3, Ref +3, Will +0
+- **Defenses**: Fort 13, Ref 13, Will 10
 - **Abilities**: Str 2, Dex 13, Con 12, Int 1, Wis 10, Cha 5
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +9 (+5 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +4
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

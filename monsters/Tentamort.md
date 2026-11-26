@@ -15,7 +15,7 @@ full-attack: "Sting +6 melee (1d6+2 plus poison) and tentacle +2 melee (1d6+1 pl
 space-reach: "5 ft./10 ft."
 special-attacks: "Constrict (1d6+1), poison"
 special-qualities: "All-around vision, blindsense 30 ft., darkvision 60 ft."
-saves: "Fort +4, Ref +5, Will +7"
+defenses: "Fort 14, Ref 15, Will 17"
 abilities: "Str 15, Dex 13, Con 14, Int 1, Wis 14, Cha 6"
 skills: "Athletics +10, Investigation –1, Perception +11"
 skill-ranks: "Athletics 5, Perception 6"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d6+1), [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/monsters/abilities/Blindsense|blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft.
-- **Saves**: Fort +4, Ref +5, Will +7
+- **Defenses**: Fort 14, Ref 15, Will 17
 - **Abilities**: Str 15, Dex 13, Con 14, Int 1, Wis 14, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Investigation|Investigation]] –1, [[rangoric-srd/skills/Perception|Perception]] +11
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacle)
@@ -61,7 +61,7 @@ tags: [rangoric, rangoric/monster]
 - **Advancement**: —
 - **Level Adjustment**: —
 
-Tentamorts are eerie ambush predators, preferring to let prey come to them rather than seeking food out, and relying on their excellent senses to warn them of approaching meals. A tentamort possesses several tentacles, most of which are used for locomotion but two of which have evolved for singular purposes in securing food. One of these longer tentacles is covered with tiny, sticky nodules and is capable of constricting prey, while the other ends in a long, thin stinger. The tentamort's method of attack is to grab its prey with its constricting tentacle and sting the grappled target with the other. Tentamort poison is particularly horrific, as it swiftly liquefies the creature's internal organs into a rancid slurry the monster can then drink with the same stinger, siphoning out the fluid with foul sucking sounds. Larger creatures often require multiple stings (and multiple failed saving throws against the venom) before they can be fully absorbed by a tentamort. Tentamorts are almost mindless, possessing just enough intellect to make crude animal judgments about peril and food. Once a tentamort has grabbed prey, it tends to focus entirely on that creature, ignoring attacks upon it from other sources as long as its current victim remains a source of nutrition. After a tentamort finishes consuming a creature, all that typically remains are the bones and skin.
+Tentamorts are eerie ambush predators, preferring to let prey come to them rather than seeking food out, and relying on their excellent senses to warn them of approaching meals. A tentamort possesses several tentacles, most of which are used for locomotion but two of which have evolved for singular purposes in securing food. One of these longer tentacles is covered with tiny, sticky nodules and is capable of constricting prey, while the other ends in a long, thin stinger. The tentamort's method of attack is to grab its prey with its constricting tentacle and sting the grappled target with the other. Tentamort poison is particularly horrific, as it swiftly liquefies the creature's internal organs into a rancid slurry the monster can then drink with the same stinger, siphoning out the fluid with foul sucking sounds. Larger creatures often require multiple stings (and multiple hits from the venom) before they can be fully absorbed by a tentamort. Tentamorts are almost mindless, possessing just enough intellect to make crude animal judgments about peril and food. Once a tentamort has grabbed prey, it tends to focus entirely on that creature, ignoring attacks upon it from other sources as long as its current victim remains a source of nutrition. After a tentamort finishes consuming a creature, all that typically remains are the bones and skin.
 
 A well-fed tentamort uses the hollow corpse of its meal as a sort of incubator for its eggs, injecting the body with a caviar-like mass of black eggs that mature in the rotting carcass for several weeks until a dozen or so hand-sized tentamorts hatch and crawl out of their host's orifices. Depending upon the availability of other prey, anywhere from one to six of these may survive, feeding on rats and Tiny vermin, until they eventually grow to adulthood. Tentamort young look like dark blue starfish with a single red eye in the center—they do not possess their longer, specialized tentacles until they mature. A young tentamort often attaches itself to a larger predator, clinging to it much the same way a remora clings to a shark, dropping off to feed innocuously on its host's kills while the creature sleeps.
 
@@ -69,4 +69,4 @@ Some tentamorts grow much larger than their human-sized kin. Known as greater te
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Tentamort Venom|Tentamort Venom]]: Sting—injury; _save_ Fort DC 15; _frequency_ 2 rounds; _effect_ 1d4 Con plus nausea; _cure_ 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Tentamort Venom|Tentamort Venom]]: Sting—injury; _attack_ +5 vs Fortitude; _frequency_ 2 rounds; _effect_ 1d4 Con plus nausea; _cure_ 1 miss.

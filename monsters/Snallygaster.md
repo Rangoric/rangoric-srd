@@ -15,7 +15,7 @@ full-attack: "Bite +6 melee (1d8+3/×3 plus bleed) and 2 claws +6 melee (1d4+3) 
 space-reach: "5 ft./5 ft."
 special-attacks: "Aerial charge, bleed (1d6), sucking tentacles"
 special-qualities: "Darkvision 60 ft., scent"
-saves: "Fort +4, Ref +3, Will +6"
+defenses: "Fort 14, Ref 13, Will 16"
 abilities: "Str 17, Dex 15, Con 16, Int 5, Wis 14, Cha 9"
 skills: "Acrobatics +10, Perception +7, Stealth +9 (+13 in forests)"
 skill-ranks: "Acrobatics 5, Perception 2, Stealth 4"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Aerial Charge (Snallygaster)|Aerial charge]], [[rangoric-srd/monsters/abilities/Bleed|bleed]] (1d6), [[rangoric-srd/monsters/abilities/Sucking Tentacles|sucking tentacles]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +4, Ref +3, Will +6
+- **Defenses**: Fort 14, Ref 13, Will 16
 - **Abilities**: Str 17, Dex 15, Con 16, Int 5, Wis 14, Cha 9
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +9 (+13 in forests)
 - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)

@@ -15,7 +15,7 @@ full-attack: "Bite +4 melee (2d6+3); or slime squirt +4 ranged touch"
 space-reach: "5 ft./5 ft."
 special-attacks: "Belly grease, slime"
 special-qualities: "Darkvision 60 ft., hunker"
-saves: "Fort +6, Ref +5, Will +0"
+defenses: "Fort 16, Ref 15, Will 10"
 abilities: "Str 15, Dex 14, Con 17, Int 3, Wis 10, Cha 10"
 skills: "Acrobatics +16, Athletics +14, Escape Artist +6"
 skill-ranks: "Acrobatics 1, Athletics 9, Escape Artist 0"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Belly Grease|Belly grease]], [[rangoric-srd/monsters/abilities/Slime|slime]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Hunker|hunker]]
-- **Saves**: Fort +6, Ref +5, Will +0
+- **Defenses**: Fort 16, Ref 15, Will 10
 - **Abilities**: Str 15, Dex 14, Con 17, Int 3, Wis 10, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +6
 - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]]

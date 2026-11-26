@@ -15,7 +15,7 @@ full-attack: "2 slams +51 (10d6+19/19-20 (+1d6 on a critical hit)) melee"
 space-reach: "30 ft./30 ft."
 special-attacks: "Animate trees, trample, triple Damage against objects, spell-like abilities"
 special-qualities: "Plant traits, SR 29, DR 10/-"
-saves: "Fort +45, Ref +17, Will +33"
+defenses: "Fort 55, Ref 27, Will 43"
 abilities: "Str 48, Dex 8, Con 42, Int 19, Wis 33, Cha 35"
 skills: "Athletics +40 (+52 jumping), Fieldcraft +54, Intimidation +65, Knowledge skill (any one) +57, Perception +70, Persuasion +62, Sense Motive +59, Stealth –12"
 skill-ranks: "Athletics 18, Fieldcraft 40, Intimidation 50, Knowledge skill (any one) 50, Perception 50, Persuasion 47, Sense Motive 45, Stealth 0"
@@ -51,7 +51,7 @@ Damage: Slam 10d6+19/19-20    
 Space/Reach: 30 ft./30 ft.      
 Special Attacks: Animate trees, [[rangoric-srd/monsters/abilities/Trample|trample]], triple Damage against objects, spell-like abilities      
 Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 29, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/-      
-Saves: Fort +45, Ref +17, Will +33      
+Defenses: Fort 55, Ref 27, Will 43      
 Abilities: Str 48, Dex 8, Con 42, Int 19, Wis 33, Cha 35      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +40 (+52 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +54, [[rangoric-srd/skills/Intimidation|Intimidation]] +65, [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +57, [[rangoric-srd/skills/Perception|Perception]] +70, [[rangoric-srd/skills/Persuasion|Persuasion]] +62, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +59, [[rangoric-srd/skills/Stealth|Stealth]] –12     
 Feats: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (slam), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)      
@@ -69,7 +69,7 @@ Elder treants speak the language of treants, plus Common and Sylvan.
 
 Animate Trees (Sp): An elder treant can animate trees within 500 feet at will, controlling up to six trees at a time. It takes a full round for a normal tree to uproot itself. Thereafter it moves and fights as a [[rangoric-srd/monsters/Treant|treant]] in all physical respects. Animated trees lose their ability to move if the elder treant who animated them is incapacitated or moves out of range.
 
-Trample (Ex): An elder treant can [[rangoric-srd/monsters/abilities/Trample|trample]] Gargantuan or smaller creatures for 8d20+40 points of Damage. Opponents who do not make attacks of opportunity against the elder treant can attempt a Reflex save (DC 54) to halve the Damage. The save DC is Strength-based.
+Trample (Ex): An elder treant can [[rangoric-srd/monsters/abilities/Trample|trample]] Gargantuan or smaller creatures for 8d20+40 points of Damage. Opponents who do not make attacks of opportunity against the elder treant are attacked at +44 vs Reflex, and a miss halves the Damage. The attack bonus is Strength-based.
 
 Triple Damage against Objects (Ex): An elder treant that makes a full attack against an object or structure deals triple Damage.
 
@@ -77,7 +77,7 @@ Plant Traits: Immune to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep,
 
 Skills: Elder treants receive skills as though they were [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|fey]]. \*They have a +24 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks made in forested areas.
 
-Spell-Like Abilities: Caster level 23rd; save DC 22 + spell level. The save DCs are Charisma-based.
+Spell-Like Abilities: Caster level 23rd; attack bonus +12 + spell level. The attack bonuses are Charisma-based.
 
 At will - [[rangoric-srd/spells/Animal Messenger|animal messenger]], [[rangoric-srd/spells/Command Plants|command plants]], [[rangoric-srd/spells/Speak with Plants|speak with plants]], [[rangoric-srd/spells/Stone Tell|stone tell]];
 

@@ -15,7 +15,7 @@ full-attack: "2 forelimbs +36 (0 plus ability drain) melee touch, 2 antennae +30
 space-reach: "5 ft./5 ft."
 special-attacks: "Ability drain, energy drain, cocoon"
 special-qualities: "DR 10/epic, darkvision 240 ft., scent, SR 34, fire resistance 30"
-saves: "Fort +21, Ref +25, Will +25"
+defenses: "Fort 31, Ref 35, Will 35"
 abilities: "Str 22, Dex 38, Con 34, Int 25, Wis 29, Cha 31"
 skills: "Athletics +38 (+54 jumping), Deception +42, Escape Artist +46, Fieldcraft +41, Intimidation +42, Perception +41, Persuasion +42, Stealth +46"
 skill-ranks: "Athletics 29, Deception 29, Escape Artist 29, Fieldcraft 29, Intimidation 29, Perception 29, Persuasion 29, Stealth 29"
@@ -49,7 +49,7 @@ Full Attack: 2 forelimbs +36 (0 plus ability drain) melee touch, 2 antennae +30 
 Space/Reach: 5 ft./5 ft.      
 Special Attacks: [[rangoric-srd/monsters/abilities/Ability Damage and Drain|Ability drain]], [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]], cocoon      
 Special Qualities: [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic, darkvision 240 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 34, [[rangoric-srd/monsters/abilities/Resistance|fire resistance]] 30      
-Saves: Fort +21, Ref +25, Will +25      
+Defenses: Fort 31, Ref 35, Will 35      
 Abilities: Str 22, Dex 38, Con 34, Int 25, Wis 29, Cha 31      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +38 (+54 jumping), [[rangoric-srd/skills/Deception|Deception]] +42, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +46, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +41, [[rangoric-srd/skills/Intimidation|Intimidation]] +42, [[rangoric-srd/skills/Perception|Perception]] +41, [[rangoric-srd/skills/Persuasion|Persuasion]] +42, [[rangoric-srd/skills/Stealth|Stealth]] +46     
 **Unspent Skill Points**: 29
@@ -72,4 +72,4 @@ Cocoon (Ex): A thorciasid can eject a stream of noxious goo that hardens on cont
 
 Ability Drain (Su): On a successful melee touch attack with a forelimb, the thorciasid permanently [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drains]] 1d4+1 points of Strength, 1d4+1 points of Dexterity, and 1 point of Constitution from the victim. The thorciasid regains 20 lost hit points with each successful ability drain.
 
-Energy Drain (Su): On a successful melee touch attack with an antenna, the thorciasid gives the victim one [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative level]]. Each negative level bestowed upon a victim gives the thorciasid +1 bonus to its Constitution that lasts for 24 hours. The negative levels similarly last for 24 hours, at which time the victim must make a Fortitude saving throw (DC 34) to keep each negative level from becoming [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent]]. The save DC is Charisma-based.
+Energy Drain (Su): On a successful melee touch attack with an antenna, the thorciasid gives the victim one [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative level]]. Each negative level bestowed upon a victim gives the thorciasid +1 bonus to its Constitution that lasts for 24 hours. The negative levels similarly last for 24 hours, at which time each negative level attacks the victim at +24 vs Fortitude, and on a hit becomes [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent]]. The attack bonus is Charisma-based.

@@ -15,7 +15,7 @@ full-attack: "Warhammer +7 melee (2d6+7/×3)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Frenzy, rage (6 rounds/day)"
 special-qualities: "Darkvision 60 ft., fast movement, grabbing appendages"
-saves: "Fort +6, Ref +1, Will +2"
+defenses: "Fort 16, Ref 11, Will 12"
 abilities: "Str 25, Dex 13, Con 18, Int 8, Wis 10, Cha 6"
 skills: "Athletics +11, Fieldcraft +4, Intimidation +2"
 skill-ranks: "Athletics 1, Fieldcraft 1, Intimidation 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Frenzy|Frenzy]], rage (6 rounds/day)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., fast movement, [[rangoric-srd/monsters/abilities/Grabbing Appendages|grabbing appendages]]
-- **Saves**: Fort +6, Ref +1, Will +2
+- **Defenses**: Fort 16, Ref 11, Will 12
 - **Abilities**: Str 25, Dex 13, Con 18, Int 8, Wis 10, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +2
 - **Feats**: [[rangoric-srd/feats/Improved Grapple|Improved Grapple]], [[rangoric-srd/feats/Power Attack|Power Attack]]

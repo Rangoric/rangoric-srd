@@ -15,7 +15,7 @@ full-attack: "Ranseur +3 melee (2d4+1/×3) and bite –2 melee (1d6 plus sinful 
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., sin-scent, martial proficiency, immunity to mind-affecting effects, spell resistance 13"
-saves: "Fort +3, Ref +2, Will +4"
+defenses: "Fort 13, Ref 12, Will 14"
 abilities: "Str 13, Dex 13, Con 14, Int 10, Wis 13, Cha 12"
 skills: "Fieldcraft +7, Intimidation +7, Perception +7, Stealth +7"
 skill-ranks: "Fieldcraft 3, Intimidation 3, Perception 3, Stealth 3"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Sin-Scent|sin-scent]], [[rangoric-srd/monsters/abilities/Martial Proficiency|martial proficiency]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 13
-- **Saves**: Fort +3, Ref +2, Will +4
+- **Defenses**: Fort 13, Ref 12, Will 14
 - **Abilities**: Str 13, Dex 13, Con 14, Int 10, Wis 13, Cha 12
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
@@ -87,4 +87,4 @@ Sinspawn speak Aklo.
 
 **[[rangoric-srd/monsters/abilities/Sin-Scent|Sin-Scent]] (Su)**: Sinspawn have scent against creatures whose nature reflects the sinspawn's sin. For example, wrathful sinspawn can scent creatures using rage effects. The GM should adjudicate what creatures a particular sinspawn can scent.
 
-**Sinful Bite (Su)**: A creature bitten by a sinspawn is overwhelmed with sinful thoughts (DC 12 Will save negates). These emotions are so powerful that the target becomes [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d6 minutes. An affected target that is bitten a second time is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1 round if it fails its saving throw. [[rangoric-srd/spells/Calm Emotions|Calm emotions]], [[rangoric-srd/spells/Remove Curse|remove curse]], or [[rangoric-srd/spells/Break Enchantment|break enchantment]] negates the effects of sinful bite. The save DC is Charisma-based. This is a mind-affecting effect.
+**Sinful Bite (Su)**: A creature bitten by a sinspawn is overwhelmed with sinful thoughts (+2 vs Will). These emotions are so powerful that the target becomes [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d6 minutes. An affected target that is bitten a second time is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1 round if the bite hits it. [[rangoric-srd/spells/Calm Emotions|Calm emotions]], [[rangoric-srd/spells/Remove Curse|remove curse]], or [[rangoric-srd/spells/Break Enchantment|break enchantment]] negates the effects of sinful bite. The attack bonus is Charisma-based. This is a mind-affecting effect.

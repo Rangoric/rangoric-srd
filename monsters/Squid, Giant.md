@@ -16,7 +16,7 @@ full-attack: "Bite +14 melee (2d6+7) and 2 arms +14 melee (1d6+7) and tentacles 
 space-reach: "15 ft./15 ft. (30 ft. with arms and tentacles)"
 special-attacks: "Constrict (4d6+10)"
 special-qualities: "Low-light vision, ink cloud (20-ft. radius)"
-saves: "Fort +14, Ref +13, Will +5"
+defenses: "Fort 24, Ref 23, Will 15"
 abilities: "Str 25, Dex 17, Con 19, Int 2, Wis 12, Cha 2"
 skills: "Athletics +15, Perception +22"
 skill-ranks: "Athletics 5, Perception 18"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft. (30 ft. with arms and tentacles)
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (4d6+10)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], ink cloud (20-ft. radius)
-- **Saves**: Fort +14, Ref +13, Will +5
+- **Defenses**: Fort 24, Ref 23, Will 15
 - **Abilities**: Str 25, Dex 17, Con 19, Int 2, Wis 12, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Perception|Perception]] +22
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (tentacle), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

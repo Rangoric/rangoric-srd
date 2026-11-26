@@ -15,7 +15,7 @@ full-attack: "2 slams +19 melee (3d8+8)"
 space-reach: "15 ft./15 ft."
 special-attacks: "Corrosive strikes, shockwave"
 special-qualities: "Darkvision 60 ft., low-light vision, spell trap, damage reduction 10/adamantine and bludgeoning, immunity to acid, construct traits, resistance to electricity 30, spell resistance 24"
-saves: "Fort +4, Ref +4, Will +4"
+defenses: "Fort 14, Ref 14, Will 14"
 abilities: "Str 26, Dex 11, Con —, Int —, Wis 11, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Corrosive Strikes|Corrosive strikes]], [[rangoric-srd/monsters/abilities/Shockwave|shockwave]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Spell Trap|spell trap]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine and bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 30, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 24
-- **Saves**: Fort +4, Ref +4, Will +4
+- **Defenses**: Fort 14, Ref 14, Will 14
 - **Abilities**: Str 26, Dex 11, Con —, Int —, Wis 11, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -69,9 +69,9 @@ Its stone body is filled with an acidic blue alchemical liquid that channels ele
 
 **[[rangoric-srd/monsters/abilities/Corrosive Strikes|Corrosive Strikes]] (Ex)**: A tiberolith reduced to 30 or fewer hit points leaks acid, and deals an additional 1d6 points of acid damage with its slam attacks.
 
-**[[rangoric-srd/monsters/abilities/Shockwave|Shockwave]] (Su)**: Three times per day, a tiberolith can unleash a burst of electricity. This blast deals 12d6 points of electricity damage to all creatures within 30 feet (Reflex DC 16 half). A tiberolith is immune to its shockwave and that of other tiberoliths. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Shockwave|Shockwave]] (Su)**: Three times per day, a tiberolith can unleash a burst of electricity. This blast deals 12d6 points of electricity damage to all creatures within 30 feet (+6 vs Reflex; a miss halves). A tiberolith is immune to its shockwave and that of other tiberoliths. The attack bonus is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Spell Trap|Spell Trap]] (Su)**: When a tiberolith is targeted by a spell that allows spell resistance and its spell resistance fails to protect it against that spell, the spell instead becomes trapped in the tiberolith's magical runes. The runes can only trap one spell at a time; if a second spell would become trapped, the first spell affects the tiberolith normally (including allowing a saving throw, if appropriate) and the second spell is trapped. A trapped spell dissipates harmlessly after 24 hours.
+**[[rangoric-srd/monsters/abilities/Spell Trap|Spell Trap]] (Su)**: When a tiberolith is targeted by a spell that allows spell resistance and its spell resistance fails to protect it against that spell, the spell instead becomes trapped in the tiberolith's magical runes. The runes can only trap one spell at a time; if a second spell would become trapped, the first spell affects the tiberolith normally (including attacking a defense, if appropriate) and the second spell is trapped. A trapped spell dissipates harmlessly after 24 hours.
 
 ### Construction
 

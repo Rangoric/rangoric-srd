@@ -15,7 +15,7 @@ full-attack: "2 claws +52 (2d8+11) melee, 3 bites +47 (2d6+5) melee, sting +39 (
 space-reach: "20 ft./15 ft."
 special-attacks: "Pounce, improved grab, rake 4d6+15"
 special-qualities: "SR 34, DR 10/epic"
-saves: "Fort +31, Ref +38, Will +22"
+defenses: "Fort 41, Ref 48, Will 32"
 abilities: "Str 32, Dex 48, Con 34, Int 14, Wis 32, Cha 19"
 skills: "Athletics +48 (+76 jumping), Perception +48, Stealth +44"
 skill-ranks: "Athletics 34, Perception 34, Stealth 34"
@@ -49,7 +49,7 @@ Full Attack: 2 claws +52 (2d8+11) melee, 3 bites +47 (2d6+5) melee, sting +39 (3
 Space/Reach: 20 ft./15 ft.      
 Special Attacks: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Grab|improved grab]], [[rangoric-srd/monsters/abilities/Rake|rake]] 4d6+15      
 Special Qualities: [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 34, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic      
-Saves: Fort +31, Ref +38, Will +22      
+Defenses: Fort 41, Ref 48, Will 32      
 Abilities: Str 32, Dex 48, Con 34, Int 14, Wis 32, Cha 19      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +48 (+76 jumping), [[rangoric-srd/skills/Perception|Perception]] +48, [[rangoric-srd/skills/Stealth|Stealth]] +44     
 **Unspent Skill Points**: 34
@@ -66,7 +66,7 @@ A tayellah’s natural weapons are treated as epic for the purpose of overcoming
 
 #### Combat
 
-Poison (Ex): Sting, Fort save (DC 39); initial and secondary Damage 2d10 temporary Con. The save DC is Constitution-based.
+Poison (Ex): Sting, +29 vs Fortitude; initial and secondary Damage 2d10 temporary Con. The attack bonus is Constitution-based.
 
 Pounce (Ex): If a tayellah leaps upon a foe during the first round of combat, it can make a full attack even if it has already taken a move action.
 

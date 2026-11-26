@@ -16,7 +16,7 @@ full-attack: "+1 longsword +9/+6 melee (1d8+4/19–20)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Bane, quickened spell strike, sneak attack +3d6, spell-like abilities"
 special-qualities: "Darkvision 120 ft., low-light vision, damage reduction 10/cold iron, resistance to cold 10 and electricity 10, spell resistance 19, light blindness"
-saves: "Fort +6, Ref +13, Will +12"
+defenses: "Fort 16, Ref 23, Will 22"
 abilities: "Str 12, Dex 21, Con 17, Int 18, Wis 14, Cha 21"
 skills: "Acrobatics +21, Athletics +1 (+5 jumping), Deception +21, Escape Artist +27, Intimidation +18, Nature +20, Perception +18, Sense Motive +18, Sleight of Hand +21, Stealth +27, Theology +17"
 skill-ranks: "Acrobatics 13, Athletics 0, Deception 13, Escape Artist 17, Intimidation 10, Nature 13, Perception 13, Sense Motive 13, Sleight of Hand 13, Stealth 23, Theology 10"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bane|Bane]], [[rangoric-srd/monsters/abilities/Quickened Spell Strike|quickened spell strike]], sneak attack +3d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
-- **Saves**: Fort +6, Ref +13, Will +12
+- **Defenses**: Fort 16, Ref 23, Will 22
 - **Abilities**: Str 12, Dex 21, Con 17, Int 18, Wis 14, Cha 21
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +21, [[rangoric-srd/skills/Athletics|Athletics]] +1 (+5 jumping), [[rangoric-srd/skills/Deception|Deception]] +21, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +27, [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Nature|Nature]] +20, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +27, [[rangoric-srd/skills/Theology|Theology]] +17
 - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Escape Artist, Stealth), [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
@@ -70,7 +70,7 @@ Svartalfars seem to feel no love or real friendship. All of their actions are co
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 13th; concentration +18): At will—_[[rangoric-srd/spells/Chill Touch|chill touch]]_ (DC 16), _[[rangoric-srd/spells/Corrosive Touch|corrosive touch]]_; 3/day—_[[rangoric-srd/spells/Frigid Touch|frigid touch]]_, _[[rangoric-srd/spells/Shadow Step|shadow step]]_, _[[rangoric-srd/spells/Vanish|vanish]]_; 1/day—_[[rangoric-srd/spells/Force Punch|force punch]]_ (DC 18), _[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]_, _[[rangoric-srd/spells/Ray of Exhaustion|ray of exhaustion]]_ (DC 18).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 13th; concentration +18): At will—_[[rangoric-srd/spells/Chill Touch|chill touch]]_ (+6), _[[rangoric-srd/spells/Corrosive Touch|corrosive touch]]_; 3/day—_[[rangoric-srd/spells/Frigid Touch|frigid touch]]_, _[[rangoric-srd/spells/Shadow Step|shadow step]]_, _[[rangoric-srd/spells/Vanish|vanish]]_; 1/day—_[[rangoric-srd/spells/Force Punch|force punch]]_ (+8 vs Fortitude), _[[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]_, _[[rangoric-srd/spells/Ray of Exhaustion|ray of exhaustion]]_ (+8 vs Fortitude).
 
 **[[rangoric-srd/monsters/abilities/Bane|Bane]] (Su)**: Once per day as a swift action, a svartalfar can imbue one of its weapons with the bane weapon special ability. It must select one creature type (and subtype, if choosing humanoid or outsider) when it uses this ability. This lasts for 1 hour. This ability only functions while the svartalfar wields the weapon.
 

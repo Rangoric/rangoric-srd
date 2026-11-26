@@ -15,7 +15,7 @@ full-attack: "2 talons +11 melee (1d6)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Bardic performance, siren's song, sneak attack +2d6, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, immunity to mind-affecting effects"
-saves: "Fort +7, Ref +11, Will +6"
+defenses: "Fort 17, Ref 21, Will 16"
 abilities: "Str 10, Dex 17, Con 12, Int 14, Wis 19, Cha 21"
 skills: "Acrobatics +7, Perception +15, Perform (sing) +13, Society +10, Stealth +14"
 skill-ranks: "Acrobatics 1, Perception 8, Perform (sing) 8, Society 5, Stealth 8"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bardic Performance|Bardic performance]], [[rangoric-srd/monsters/abilities/Siren Song|siren's song]], sneak attack +2d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +7, Ref +11, Will +6
+- **Defenses**: Fort 17, Ref 21, Will 16
 - **Abilities**: Str 10, Dex 17, Con 12, Int 14, Wis 19, Cha 21
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Perception|Perception]] +15, Perform (sing) +13, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -71,11 +71,11 @@ Sirens speak Auran and Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +12): 3/day—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (DC 16), _[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 16), _[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (DC 18), _[[rangoric-srd/spells/Shout|shout]]_ (DC 19).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +12): 3/day—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (+6 vs Will), _[[rangoric-srd/spells/Charm Person|charm person]]_ (+6 vs Will), _[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (+8 vs Will), _[[rangoric-srd/spells/Shout|shout]]_ (+9).
 
 **[[rangoric-srd/monsters/abilities/Bardic Performance|Bardic Performance]] (Su)**: A siren may use bardic performance as a 4th-level bard (9 rounds/day), and can use countersong, distraction, fascinate, inspire competence, and inspire courage. Levels in the bard class stack with this ability.
 
-**[[rangoric-srd/monsters/abilities/Siren Song|Siren Song]] (Su)**: When a siren sings, all non-sirens within a 300-foot spread must succeed on a DC 19 Will save or become enthralled (see below). The effect depends on the type of song the siren chooses, and continues for as long as the siren sings and for 1 round thereafter. A creature that successfully saves cannot be affected again by any of that siren's songs for 1 hour. These are sonic, mind-affecting effects. The save DC is Charisma-based. Enthralled creatures behave in one of the following four ways, which the siren chooses when she begins singing.
+**[[rangoric-srd/monsters/abilities/Siren Song|Siren Song]] (Su)**: When a siren sings, all non-sirens within a 300-foot spread are attacked at +9 vs Will, and on a hit become enthralled (see below). The effect depends on the type of song the siren chooses, and continues for as long as the siren sings and for 1 round thereafter. A creature the song misses cannot be affected again by any of that siren's songs for 1 hour. These are sonic, mind-affecting effects. The attack bonus is Charisma-based. Enthralled creatures behave in one of the following four ways, which the siren chooses when she begins singing.
 
 - _Captivation_: This functions exactly like a harpy's captivating song.
 - _Fascination_: Affected creatures are [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinated]].

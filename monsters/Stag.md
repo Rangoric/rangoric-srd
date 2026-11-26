@@ -15,7 +15,7 @@ full-attack: "Gore +2 melee (1d6+1) and 2 hooves –3 melee (1d4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +6, Ref +6, Will +2"
+defenses: "Fort 16, Ref 16, Will 12"
 abilities: "Str 13, Dex 17, Con 16, Int 2, Wis 15, Cha 8"
 skills: "Acrobatics +10, Perception +6"
 skill-ranks: "Acrobatics 4, Perception 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +6, Ref +6, Will +2
+- **Defenses**: Fort 16, Ref 16, Will 12
 - **Abilities**: Str 13, Dex 17, Con 16, Int 2, Wis 15, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Perception|Perception]] +6
 - **Feats**: [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics)

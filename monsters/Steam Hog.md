@@ -13,9 +13,9 @@ cmd: "28 (32 vs. trip)"
 attack: "Gore +14 melee (2d6+7 plus 1d6 fire) or hoof +14 melee (1d8+3)"
 full-attack: "Gore +14 melee (2d6+7 plus 1d6 fire) and 2 hooves +9 melee (1d8+3)"
 space-reach: "15 ft./10 ft."
-special-attacks: "Steam cloud, trample (1d8+10, DC 21)"
+special-attacks: "Steam cloud, trample (1d8+10, +11 vs Reflex)"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, ferocity, damage reduction 2/-, resistance to fire 15"
-saves: "Fort +10, Ref +6, Will +6"
+defenses: "Fort 20, Ref 16, Will 16"
 abilities: "Str 24, Dex 11, Con 18, Int 1, Wis 12, Cha 9"
 skills: "Athletics +10, Perception +10"
 skill-ranks: "Athletics 3, Perception 6"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Gore +14 melee (2d6+7 plus 1d6 fire) or hoof +14 melee (1d8+3)
 - **Full Attack**: Gore +14 melee (2d6+7 plus 1d6 fire) and 2 hooves +9 melee (1d8+3)
 - **Space/Reach**: 15 ft./10 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Steam Cloud|Steam cloud]], [[rangoric-srd/monsters/abilities/Trample|trample]] (1d8+10, DC 21)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Steam Cloud|Steam cloud]], [[rangoric-srd/monsters/abilities/Trample|trample]] (1d8+10, +11 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/-, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 15
-- **Saves**: Fort +10, Ref +6, Will +6
+- **Defenses**: Fort 20, Ref 16, Will 16
 - **Abilities**: Str 24, Dex 11, Con 18, Int 1, Wis 12, Cha 9
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +10
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]]
@@ -69,4 +69,4 @@ Steam hogs average 16 feet long from snout to tail and 8 feet tall at the should
 
 ### Combat
 
-**Steam Cloud (Ex)**: As a standard action, a steam hog can emit a cloud of steam from its snout in a 10-foot-radius spread. The initial burst of steam deals 2d6 points of fire damage to any creature in the area. The cloud remains for 1d4 rounds once created, acting as a 10-foot-radius obscuring mist . Any creature that begins its turn in the area of the steam must succeed at a DC 18 Fortitude save or take 1d6 points of fire damage. A steam hog can use its steam cloud only once every 1d6 rounds. The save DC is Constitution-based.
+**Steam Cloud (Ex)**: As a standard action, a steam hog can emit a cloud of steam from its snout in a 10-foot-radius spread. The initial burst of steam deals 2d6 points of fire damage to any creature in the area. The cloud remains for 1d4 rounds once created, acting as a 10-foot-radius obscuring mist . Any creature that begins its turn in the area of the steam is attacked at +8 vs Fortitude, and on a hit takes 1d6 points of fire damage. A steam hog can use its steam cloud only once every 1d6 rounds. The attack bonus is Constitution-based.

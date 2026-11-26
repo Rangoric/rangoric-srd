@@ -13,9 +13,9 @@ cmd: "32 (36 vs. trip)"
 attack: "Bite +21 melee (2d6+8 plus grab) or slam +21 melee (1d6+8)"
 full-attack: "Bite +21 melee (2d6+8 plus grab) and 2 slams +21 melee (1d6+8)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Swallow whole (no damage [see below], AC 18, 40 hp), trample (2d6+12, DC 25)"
+special-attacks: "Swallow whole (no damage [see below], AC 18, 40 hp), trample (2d6+12, +15 vs Reflex)"
 special-qualities: "Darkvision 60 ft., low-light vision, conductive, damage reduction 5/adamantine, immunity to fire, construct traits"
-saves: "Fort +4, Ref +3, Will +5"
+defenses: "Fort 14, Ref 13, Will 15"
 abilities: "Str 26, Dex 8, Con —, Int —, Wis 12, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +21 melee (2d6+8 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or slam +21 melee (1d6+8)
 - **Full Attack**: Bite +21 melee (2d6+8 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 slams +21 melee (1d6+8)
 - **Space/Reach**: 10 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Swallow Whole|Swallow whole]] (no damage \[see below\], AC 18, 40 hp), [[rangoric-srd/monsters/abilities/Trample|trample]] (2d6+12, DC 25)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Swallow Whole|Swallow whole]] (no damage \[see below\], AC 18, 40 hp), [[rangoric-srd/monsters/abilities/Trample|trample]] (2d6+12, +15 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Conductive|conductive]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]]
-- **Saves**: Fort +4, Ref +3, Will +5
+- **Defenses**: Fort 14, Ref 13, Will 15
 - **Abilities**: Str 26, Dex 8, Con —, Int —, Wis 12, Cha 1
 - **Skills**: —
 - **Feats**: —

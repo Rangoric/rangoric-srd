@@ -13,9 +13,9 @@ cmd: "66"
 attack: "Bite +37 melee (4d8+15/15–20/×3 plus grab) or claw +37 melee (1d12+15) or gore +37 melee (1d10+15) or tail slap +37 melee (3d8+7) or spine +25 ranged (2d10+15/×3)"
 full-attack: "Bite +37 melee (4d8+15/15–20/×3 plus grab) and 2 claws +37 melee (1d12+15) and 2 gores +37 melee (1d10+15) and tail slap +32 melee (3d8+7); or 6 spines +25 ranged (2d10+15/×3)"
 space-reach: "30 ft./30 ft. (60 ft. with tail slap)"
-special-attacks: "Frightful presence (300 ft., DC 27), rush, spines, swallow whole (6d6+22 plus 6d6 acid, AC 27, hp 52)"
+special-attacks: "Frightful presence (300 ft., +17 vs Will), rush, spines, swallow whole (6d6+22 plus 6d6 acid, AC 27, hp 52)"
 special-qualities: "Low-light vision, scent, regeneration 40, carapace, powerful leaper, damage reduction 15/epic, immunity to ability damage, acid, bleed, disease, energy drain, fire, mind-affecting effects, paralysis, permanent wounds, petrification, poison and polymorph, spell resistance 36"
-saves: "Fort +31, Ref +22, Will +12"
+defenses: "Fort 41, Ref 32, Will 22"
 abilities: "Str 41, Dex 16, Con 34, Int 3, Wis 15, Cha 14"
 skills: "Acrobatics +3, Athletics +15 (+43 jumping), Perception +43"
 skill-ranks: "Acrobatics 0, Athletics 0, Perception 30"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +37 melee (4d8+15/15–20/×3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +37 melee (1d12+15) or gore +37 melee (1d10+15) or tail slap +37 melee (3d8+7) or spine +25 ranged (2d10+15/×3)
 - **Full Attack**: Bite +37 melee (4d8+15/15–20/×3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +37 melee (1d12+15) and 2 gores +37 melee (1d10+15) and tail slap +32 melee (3d8+7); or 6 spines +25 ranged (2d10+15/×3)
 - **Space/Reach**: 30 ft./30 ft. (60 ft. with tail slap)
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Frightful Presence|Frightful presence]] (300 ft., DC 27), rush, spines, [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (6d6+22 plus 6d6 acid, AC 27, hp 52)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Frightful Presence|Frightful presence]] (300 ft., +17 vs Will), rush, spines, [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (6d6+22 plus 6d6 acid, AC 27, hp 52)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 40, carapace, powerful leaper, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/epic, immunity to ability damage, acid, bleed, disease, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]], fire, mind-affecting effects, paralysis, permanent wounds, petrification, poison and polymorph, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 36
-- **Saves**: Fort +31, Ref +22, Will +12
+- **Defenses**: Fort 41, Ref 32, Will 22
 - **Abilities**: Str 41, Dex 16, Con 34, Int 3, Wis 15, Cha 14
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Athletics|Athletics]] +15 (+43 jumping), [[rangoric-srd/skills/Perception|Perception]] +43
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]]
@@ -78,7 +78,7 @@ The tarrasque’s natural weapons are treated as epic weapons for the purpose of
 
 **Powerful Leaper (Ex)**: The tarrasque has a +24 racial bonus on Athletics checks made to jump.
 
-**Regeneration (Ex)**: No form of attack can suppress the tarrasque's regeneration—it regenerates even if disintegrated or slain by a death effect. If the tarrasque fails a save against an effect that would kill it instantly, it rises from death 3 rounds later with 1 hit point if no further damage is inflicted upon its remains. It can be banished or otherwise transported as a means to save a region, but the method to truly kill it has yet to be discovered.
+**Regeneration (Ex)**: No form of attack can suppress the tarrasque's regeneration—it regenerates even if disintegrated or slain by a death effect. If an effect that would kill it instantly hits the tarrasque, it rises from death 3 rounds later with 1 hit point if no further damage is inflicted upon its remains. It can be banished or otherwise transported as a means to save a region, but the method to truly kill it has yet to be discovered.
 
 If the tarrasque loses a limb or body part, the lost portion regrows in 1d6 minutes (the detached piece dies and decays normally). The creature can reattach the severed member instantly by holding it to the stump.
 

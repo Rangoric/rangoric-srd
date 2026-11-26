@@ -15,7 +15,7 @@ full-attack: "Bite +8 melee (1d6+1 plus poison) and 4 claws +8 melee (1d4+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Slowing toxin, web (+8 ranged, DC 14, 7 hp), poison"
 special-qualities: "Darkvision 60 ft., tremorsense 60 ft., regeneration 3 (fire), ferocity, immunity to mind-affecting effects, fear of fire, vulnerable to fire"
-saves: "Fort +5, Ref +5, Will +6"
+defenses: "Fort 15, Ref 15, Will 16"
 abilities: "Str 13, Dex 17, Con 12, Int 3, Wis 12, Cha 2"
 skills: "Athletics +15, Perception +12"
 skill-ranks: "Athletics 11, Perception 4"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Slowing Toxin|Slowing toxin]], [[rangoric-srd/monsters/abilities/Web|web]] (+8 ranged, DC 14, 7 hp), [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 3 (fire), [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, [[rangoric-srd/monsters/abilities/Fear of Fire|fear of fire]], vulnerable to fire
-- **Saves**: Fort +5, Ref +5, Will +6
+- **Defenses**: Fort 15, Ref 15, Will 16
 - **Abilities**: Str 13, Dex 17, Con 12, Int 3, Wis 12, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Perception|Perception]] +12
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -71,8 +71,8 @@ Shriezyxes speak Aklo.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Fear of Fire|Fear of Fire]] (Ex)**: A shriezyx within 30 feet of a fire the size of a torch or larger becomes [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] as long as it remains within that range. If damaged by fire, a shriezyx must make a successful Will save (DC equals the amount of fire damage dealt) or become [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] for 1 round.
+**[[rangoric-srd/monsters/abilities/Fear of Fire|Fear of Fire]] (Ex)**: A shriezyx within 30 feet of a fire the size of a torch or larger becomes [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] as long as it remains within that range. If damaged by fire, the fire attacks a shriezyx's Will (attack bonus equal to the amount of fire damage dealt – 10), and on a hit it becomes [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] for 1 round.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; save Fort DC 14; frequency 1/round for 6 rounds; effect 1d2 Str; cure 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; attack +4 vs Fortitude; frequency 1/round for 6 rounds; effect 1d2 Str; cure 1 miss.
 
-**[[rangoric-srd/monsters/abilities/Slowing Toxin|Slowing Toxin]] (Su)**: A shriezyx's web is coated with a supernatural toxin that numbs and deadens the nerves on contact. Any creature struck by a shriezyx's web must succeed at a DC 14 Fortitude save or become slowed (as the slow spell) for 1 minute. Each round, a victim may attempt a new DC 14 Fortitude save to end the effect early. This toxin fades quickly from spun webs—it can only affect targets on the round the web is spun. Existing webs remain sticky and tangled, but do not have this slowing effect. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Slowing Toxin|Slowing Toxin]] (Su)**: A shriezyx's web is coated with a supernatural toxin that numbs and deadens the nerves on contact. Any creature struck by a shriezyx's web is attacked at +4 vs Fortitude, and on a hit becomes slowed (as the slow spell) for 1 minute. Each round, the toxin attacks a victim again, and a miss ends the effect early. This toxin fades quickly from spun webs—it can only affect targets on the round the web is spun. Existing webs remain sticky and tangled, but do not have this slowing effect. The attack bonus is Constitution-based.

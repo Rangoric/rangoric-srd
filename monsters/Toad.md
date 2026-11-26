@@ -15,7 +15,7 @@ full-attack: "—"
 space-reach: "1 ft./0 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +0, Ref +3, Will +2"
+defenses: "Fort 10, Ref 13, Will 12"
 abilities: "Str 1, Dex 12, Con 6, Int 1, Wis 15, Cha 4"
 skills: "Perception +5, Stealth +21"
 skill-ranks: "Perception 3, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 1 ft./0 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +0, Ref +3, Will +2
+- **Defenses**: Fort 10, Ref 13, Will 12
 - **Abilities**: Str 1, Dex 12, Con 6, Int 1, Wis 15, Cha 4
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +21
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

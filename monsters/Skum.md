@@ -16,7 +16,7 @@ full-attack: "Trident +4 melee (1d8+2) and claw +2 melee (1d4+1) and bite +2 mel
 space-reach: "5 ft./5 ft."
 special-attacks: "Rake (2 claws +2, 1d4+1, while swimming)"
 special-qualities: "Darkvision 60 ft., amphibious, resistance to cold 10"
-saves: "Fort +3, Ref +4, Will +3"
+defenses: "Fort 13, Ref 14, Will 13"
 abilities: "Str 15, Dex 13, Con 17, Int 10, Wis 10, Cha 6"
 skills: "Athletics +15, Intimidation +3, Perception +5 (+9 underwater), Stealth +6 (+10 underwater)"
 skill-ranks: "Athletics 10, Intimidation 2, Perception 2, Stealth 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rake|Rake]] (2 claws +2, 1d4+1, while swimming)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10
-- **Saves**: Fort +3, Ref +4, Will +3
+- **Defenses**: Fort 13, Ref 14, Will 13
 - **Abilities**: Str 15, Dex 13, Con 17, Int 10, Wis 10, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Intimidation|Intimidation]] +3, [[rangoric-srd/skills/Perception|Perception]] +5 (+9 underwater), [[rangoric-srd/skills/Stealth|Stealth]] +6 (+10 underwater)
 - **Feats**: [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Toughness|Toughness]]

@@ -17,7 +17,7 @@ full-attack: "Colossal +5 warhammer +87/+82/+77/+72 (4d8+30/19-20 (+2d6 on criti
 space-reach: "30 ft./30 ft."
 special-attacks: "Spell-like abilities, spells"
 special-qualities: "DR 20/epic, SR 40"
-saves: "Fort +47, Ref +37, Will +50"
+defenses: "Fort 57, Ref 47, Will 60"
 abilities: "Str 45, Dex 10, Con 31, Int 33, Wis 37, Cha 26"
 skills: "Athletics +90 (+138 jumping), Craft (any five) +84, Intimidation +81, all Knowledge skills +84, Arcana +90, Linguistics +84 (any five), Mysticism +115, Perception +86, Persuasion +87, Sense Motive +86"
 skill-ranks: "Arcana 70, Athletics 70, Craft (any five) 70, Intimidation 70, all Knowledge skills 70, Linguistics 70, Mysticism 95, Perception 70, Persuasion 70, Sense Motive 70"
@@ -51,7 +51,7 @@ Full Attack: Colossal +5 warhammer +87/+82/+77/+72 (4d8+30/19-20 (+2d6 on critic
 Space/Reach: 30 ft./30 ft.      
 Special Attacks: Spell-like abilities, spells      
 Special Qualities: [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 20/epic, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 40      
-Saves: Fort +47, Ref +37, Will +50      
+Defenses: Fort 57, Ref 47, Will 60      
 Abilities: Str 45, Dex 10, Con 31, Int 33, Wis 37, Cha 26      
 Skills: [[rangoric-srd/skills/Arcana|Arcana]] +90, [[rangoric-srd/skills/Athletics|Athletics]] +90 (+138 jumping), [[rangoric-srd/skills/Craft|Craft]] (any five) +84, [[rangoric-srd/skills/Intimidation|Intimidation]] +81, all [[rangoric-srd/skills/Knowledge|Knowledge skills]] +84, [[rangoric-srd/skills/Linguistics|Linguistics]] +84 (any five), [[rangoric-srd/skills/Mysticism|Mysticism]] +115, [[rangoric-srd/skills/Perception|Perception]] +86, [[rangoric-srd/skills/Persuasion|Persuasion]] +87, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +86     
 **Unspent Skill Points**: 420
@@ -68,7 +68,7 @@ An elder titan’s natural weapons are treated as epic for the purpose of overco
 
 #### Combat
 
-Spell-Like Abilities: Caster level 29th; save DC 18 + spell level. The save DCs are Charisma-based.
+Spell-Like Abilities: Caster level 29th; attack bonus +8 + spell level. The attack bonuses are Charisma-based.
 
 At will - [[rangoric-srd/spells/Alter Self|alter self]], [[rangoric-srd/spells/Analyze Dweomer|analyze dweomer]], [[rangoric-srd/spells/Commune with Nature|commune with nature]], [[rangoric-srd/spells/Cure Critical Wounds|cure critical wounds]], [[rangoric-srd/spells/Eyebite|eyebite]], [[rangoric-srd/spells/Freedom of Movement|freedom of movement]], [[rangoric-srd/spells/Fly|fly]], [[rangoric-srd/spells/Fog Cloud|fog cloud]], [[rangoric-srd/spells/Produce Flame|produce flame]], [[rangoric-srd/spells/Protection from Energy|protection from energy]], [[rangoric-srd/spells/Read Magic|read magic]], [[rangoric-srd/spells/Remove Curse|remove curse]], [[rangoric-srd/spells/Sanctuary|sanctuary]], [[rangoric-srd/spells/Sending|sending]], [[rangoric-srd/spells/Speak with Animals|speak with animals]], [[rangoric-srd/spells/Soften Earth and Stone|soften earth and stone]], [[rangoric-srd/spells/Speak with Plants|speak with plants]], [[rangoric-srd/spells/Summon Monster VI|summon monster VI]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]], [[rangoric-srd/spells/Wind Wall|wind wall]];
 

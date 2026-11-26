@@ -15,7 +15,7 @@ full-attack: "Bite +9 melee (1d8+5) and 2 pincers +4 melee (1d6+2) and sting +9 
 space-reach: "10 ft./5 ft."
 special-attacks: "Implant, poison, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, freedom of movement"
-saves: "Fort +9, Ref +6, Will +2"
+defenses: "Fort 19, Ref 16, Will 12"
 abilities: "Str 21, Dex 14, Con 21, Int 3, Wis 12, Cha 10"
 skills: "Acrobatics +8, Perception +15"
 skill-ranks: "Acrobatics 5, Perception 7"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: Implant, [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], freedom of movement
-- **Saves**: Fort +9, Ref +6, Will +2
+- **Defenses**: Fort 19, Ref 16, Will 12
 - **Abilities**: Str 21, Dex 14, Con 21, Int 3, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Perception|Perception]] +15
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -78,7 +78,7 @@ A spider eater attacks with its venomous sting and powerful mandibles. Its usual
 
 **Implant (Ex)**: A spider eater grows its eggs inside of a living host. Implanting an egg in a host is a full-round action that provokes attacks of opportunity, and the target must be [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] but alive. Once an egg is implanted, it exudes paralytic enzymes that not only keep the victim in state of perpetual paralysis, but also keep it nourished and alive in its comatose but fully aware state. This condition lasts until the egg hatches in 1d6 weeks, at which point the young spider eater consumes most of its host, killing it. An egg can be surgically removed with a DC 25 Medicine check (this check deals 2d6 points of damage to the host regardless of success), at which point the host recovers from the paralysis in 1d6 rounds. Any magical effect that removes paralysis or disease (such as remove paralysis, remove disease, or heal) also destroys the egg, but mere immunity to paralysis or disease does not offer protection.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Spider Eater Venom|Spider Eater Venom]]: Sting—injury; _save_ Fort DC 17; _frequency_ 1/minute for 6 minutes; _effect_ paralysis for 1 minute; _cure_ 1 save. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Spider Eater Venom|Spider Eater Venom]]: Sting—injury; _attack_ +7 vs Fortitude; _frequency_ 1/minute for 6 minutes; _effect_ paralysis for 1 minute; _cure_ 1 miss. The attack bonus is Constitution-based.
 
 ### Training a Spider Eater
 

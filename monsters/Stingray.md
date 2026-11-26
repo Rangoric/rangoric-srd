@@ -16,7 +16,7 @@ full-attack: "Sting +1 melee (1d4 plus poison)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Poison"
 special-qualities: "Blindsense 30 ft., low-light vision"
-saves: "Fort +5, Ref +4, Will +1"
+defenses: "Fort 15, Ref 14, Will 11"
 abilities: "Str 10, Dex 13, Con 15, Int 1, Wis 13, Cha 2"
 skills: "Athletics +8, Perception +8, Stealth +5 (+13 in sand or mud)"
 skill-ranks: "Athletics 5, Perception 4, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-- **Saves**: Fort +5, Ref +4, Will +1
+- **Defenses**: Fort 15, Ref 14, Will 11
 - **Abilities**: Str 10, Dex 13, Con 15, Int 1, Wis 13, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +5 (+13 in sand or mud)
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -68,4 +68,4 @@ The stingray presented here is a relatively large member of the species; for sma
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Stingray Venom|Stingray Venom]]: Sting—injury; _save_ Fort DC 13; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Dex and 1 Con; _cure_ 1 save. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Stingray Venom|Stingray Venom]]: Sting—injury; _attack_ +3 vs Fortitude; _frequency_ 1/round for 4 rounds; _effect_ 1d2 Dex and 1 Con; _cure_ 1 miss. The attack bonus is Constitution-based.

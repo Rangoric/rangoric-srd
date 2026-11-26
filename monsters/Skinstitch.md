@@ -15,7 +15,7 @@ full-attack: "Longsword +7 melee (2d6+4/19–20) and slam +2 melee (2d6+4)"
 space-reach: "10 ft./10 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision, nest, repair, damage reduction 5/slashing, construct traits, resistance to cold 10 and electricity 10, vulnerable to fire"
-saves: "Fort +1, Ref +1, Will +1"
+defenses: "Fort 11, Ref 11, Will 11"
 abilities: "Str 19, Dex 10, Con —, Int —, Wis 11, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Nest|nest]], [[rangoric-srd/monsters/abilities/Repair|repair]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/slashing, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and electricity 10, vulnerable to fire
-- **Saves**: Fort +1, Ref +1, Will +1
+- **Defenses**: Fort 11, Ref 11, Will 11
 - **Abilities**: Str 19, Dex 10, Con —, Int —, Wis 11, Cha 1
 - **Skills**: —
 - **Feats**: —
