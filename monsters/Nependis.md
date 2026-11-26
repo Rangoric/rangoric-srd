@@ -15,7 +15,7 @@ full-attack: "2 claws +21 melee (1d6+10 plus grab) and gore +21 melee (2d6+10)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Abduct, roar"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, ferocity"
-saves: "Fort +10, Ref +10, Will +11"
+defenses: "Fort 20, Ref 20, Will 21"
 abilities: "Str 31, Dex 15, Con 18, Int 7, Wis 12, Cha 6"
 skills: "Acrobatics +3, Athletics +18 (+26 jumping), Fieldcraft +6, Perception +15, Stealth +17"
 skill-ranks: "Acrobatics 0, Athletics 5, Fieldcraft 2, Perception 11, Stealth 16"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Abduct|Abduct]], [[rangoric-srd/monsters/abilities/Roar|roar]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]]
-- **Saves**: Fort +10, Ref +10, Will +11
+- **Defenses**: Fort 20, Ref 20, Will 21
 - **Abilities**: Str 31, Dex 15, Con 18, Int 7, Wis 12, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Athletics|Athletics]] +18 (+26 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +17
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
@@ -73,4 +73,4 @@ Nependis speak Giant.
 
 **[[rangoric-srd/monsters/abilities/Abduct|Abduct]] (Ex)**: When a nependis successfully grabs a Medium or smaller opponent, on that turn it can spend a swift action to move up to its speed. This movement provokes attacks of opportunity as normal. A nependis that succeeds at a second grapple check against the opponent can move up to its full speed as a swift action instead of up to half its speed.
 
-**[[rangoric-srd/monsters/abilities/Roar|Roar]] (Su)**: A nependis can let out a savage roar. Nependises within 60 feet gain a +2 morale bonus on attack rolls, saving throws, and weapon damage rolls for 1d4 rounds. All other creatures other within range of the roar become [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1d4 rounds (Will DC 14 negates); this is a mind-affecting sonic fear effect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Roar|Roar]] (Su)**: A nependis can let out a savage roar. Nependises within 60 feet gain a +2 morale bonus on attack rolls, defenses, and weapon damage rolls for 1d4 rounds. All other creatures other within range of the roar become [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1d4 rounds (+4 vs Will); this is a mind-affecting sonic fear effect. The attack bonus is Charisma-based.

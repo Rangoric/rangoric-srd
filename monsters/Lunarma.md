@@ -13,9 +13,9 @@ cmd: "20"
 attack: "Claw +9 melee (1d8+3 plus grab) or bite +10 melee (1d6+3)"
 full-attack: "3 claws +9 melee (1d8+3 plus grab) and bite +10 melee (1d6+3)"
 space-reach: "5 ft./5 ft. (10 ft. with claws)"
-special-attacks: "Breath weapon (30-ft. line, 2d6 acid damage plus recurring damage, Reflex DC 18 half, usable every 1d4 rounds), constrict (1d8+3), implant eggs"
+special-attacks: "Breath weapon (30-ft. line, 2d6 acid damage plus recurring damage, +8 vs Reflex; a miss halves, usable every 1d4 rounds), constrict (1d8+3), implant eggs"
 special-qualities: "All-around vision, darkvision 60 ft., telepathy 120 ft. other lunarma only, barbed carapace, no breath, immunity to cold and poison, resistance to electricity 5 and fire 5"
-saves: "Fort +9, Ref +4, Will +9"
+defenses: "Fort 19, Ref 14, Will 19"
 abilities: "Str 16, Dex 12, Con 19, Int 5, Wis 12, Cha 10"
 skills: "Acrobatics +5, Investigation +1, Perception +10, Stealth +7"
 skill-ranks: "Acrobatics 1, Perception 6, Stealth 3"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Claw +9 melee (1d8+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or bite +10 melee (1d6+3)
 - **Full Attack**: 3 claws +9 melee (1d8+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and bite +10 melee (1d6+3)
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with claws)
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (30-ft. line, 2d6 acid damage plus recurring damage, Reflex DC 18 half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Constrict|constrict]] (1d8+3), [[rangoric-srd/monsters/abilities/Implant Eggs|implant eggs]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (30-ft. line, 2d6 acid damage plus recurring damage, +8 vs Reflex; a miss halves, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Constrict|constrict]] (1d8+3), [[rangoric-srd/monsters/abilities/Implant Eggs|implant eggs]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 120 ft. other lunarma only, [[rangoric-srd/monsters/abilities/Barbed Carapace|barbed carapace]], [[rangoric-srd/monsters/abilities/No Breath|no breath]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 5 and fire 5
-- **Saves**: Fort +9, Ref +4, Will +9
+- **Defenses**: Fort 19, Ref 14, Will 19
 - **Abilities**: Str 16, Dex 12, Con 19, Int 5, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Investigation|Investigation]] +1, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)

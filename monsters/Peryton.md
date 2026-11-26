@@ -15,7 +15,7 @@ full-attack: "Gore +9 melee (1d6+3/18–20) and 2 hooves +3 melee (1d4+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Horrific critical, shadow mark"
 special-qualities: "Darkvision 60 ft., low-light vision, damage reduction 5/magic"
-saves: "Fort +7, Ref +7, Will +3"
+defenses: "Fort 17, Ref 17, Will 13"
 abilities: "Str 17, Dex 16, Con 17, Int 11, Wis 14, Cha 12"
 skills: "Acrobatics +12, Perception +10, Stealth +9"
 skill-ranks: "Acrobatics 6, Perception 5, Stealth 3"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Horrific Critical|Horrific critical]], [[rangoric-srd/monsters/abilities/Shadow Mark|shadow mark]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic
-- **Saves**: Fort +7, Ref +7, Will +3
+- **Defenses**: Fort 17, Ref 17, Will 13
 - **Abilities**: Str 17, Dex 16, Con 17, Int 11, Wis 14, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (gore)
@@ -73,6 +73,6 @@ Perytons speak Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Horrific Critical|Horrific Critical]] (Ex)**: A peryton's gore attack threatens a critical hit on an 18–20. If a peryton kills a humanoid foe with a critical hit, it can tear out the victim's heart with its wolf-like teeth as a free action. Any creature that witnesses this savage event must make a DC 13 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round. This is a mind-affecting fear effect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Horrific Critical|Horrific Critical]] (Ex)**: A peryton's gore attack threatens a critical hit on an 18–20. If a peryton kills a humanoid foe with a critical hit, it can tear out the victim's heart with its wolf-like teeth as a free action. Any creature that witnesses this savage event is attacked at +3 vs Fortitude, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round. This is a mind-affecting fear effect. The attack bonus is Charisma-based.
 
-**[[rangoric-srd/monsters/abilities/Shadow Mark|Shadow Mark]] (Su)**: As a free action, a peryton can make a ranged touch attack by flying over a humanoid target—the maximum range of this attack is 300 feet. If the peryton hits, its shadow transforms to match the shadow of the creature struck. Once a peryton has established this link, it gains a +2 morale bonus on attack rolls and damage rolls made against that target, and every time the peryton hits that target with an attack, the creature must make a DC 13 Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] for 1 round. This is a mind-affecting fear effect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Shadow Mark|Shadow Mark]] (Su)**: As a free action, a peryton can make a ranged touch attack by flying over a humanoid target—the maximum range of this attack is 300 feet. If the peryton hits, its shadow transforms to match the shadow of the creature struck. Once a peryton has established this link, it gains a +2 morale bonus on attack rolls and damage rolls made against that target, and every time the peryton hits that target with an attack, the link attacks the creature at +3 vs Will, and on a hit it becomes [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] for 1 round. This is a mind-affecting fear effect. The attack bonus is Charisma-based.

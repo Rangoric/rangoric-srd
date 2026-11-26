@@ -13,9 +13,9 @@ cmd: "31 (33 vs. bull rush, 35 vs. trip)"
 attack: "Bite +18 melee (2d6+8) or claw +18 melee (1d6+8) or tail slap +18 melee (3d6+4 plus poison)"
 full-attack: "Bite +18 melee (2d6+8) and 2 claws +18 melee (1d6+8) and tail slap +13 melee (3d6+4 plus poison)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Breath weapon (50-ft. line, 6d6 fire damage, Reflex DC 20 half, usable every 1d4 rounds), poison, quill barrage"
+special-attacks: "Breath weapon (50-ft. line, 6d6 fire damage, +10 vs Reflex; a miss halves, usable every 1d4 rounds), poison, quill barrage"
 special-qualities: "Darkvision 60 ft., low-light vision, ferocity, quills, damage reduction 5/magic, immunity to fire, paralysis and sleep, spell resistance 21, vulnerable tail"
-saves: "Fort +14, Ref +8, Will +11"
+defenses: "Fort 24, Ref 18, Will 21"
 abilities: "Str 27, Dex 12, Con 21, Int 6, Wis 15, Cha 12"
 skills: "Athletics +30, Intimidation +15, Perception +16, Stealth +10"
 skill-ranks: "Athletics 19, Intimidation 11, Perception 11, Stealth 10"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +18 melee (2d6+8) or claw +18 melee (1d6+8) or tail slap +18 melee (3d6+4 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Full Attack**: Bite +18 melee (2d6+8) and 2 claws +18 melee (1d6+8) and tail slap +13 melee (3d6+4 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Space/Reach**: 10 ft./10 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (50-ft. line, 6d6 fire damage, Reflex DC 20 half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Quill Barrage|quill barrage]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (50-ft. line, 6d6 fire damage, +10 vs Reflex; a miss halves, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Quill Barrage|quill barrage]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Quills|quills]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic, immunity to fire, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21, [[rangoric-srd/monsters/abilities/Vulnerable Tail|vulnerable tail]]
-- **Saves**: Fort +14, Ref +8, Will +11
+- **Defenses**: Fort 24, Ref 18, Will 21
 - **Abilities**: Str 27, Dex 12, Con 21, Int 6, Wis 15, Cha 12
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +30, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]]
@@ -69,9 +69,9 @@ Peludas speak Draconic.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Peluda Quills|Peluda Quills]]: Quill—injury; _save_ Fort DC 20; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Con damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Peluda Quills|Peluda Quills]]: Quill—injury; _attack_ +10 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Con damage; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Quill Barrage|Quill Barrage]] (Ex)**: Three times per day, a peluda can fire dozens of spearlike barbs in all directions. All creatures within 15 feet take 6d6 points of piercing damage (Reflex DC 20 half) and are subject to its poison quills. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Quill Barrage|Quill Barrage]] (Ex)**: Three times per day, a peluda can fire dozens of spearlike barbs in all directions. All creatures within 15 feet take 6d6 points of piercing damage (+10 vs Reflex; a miss halves) and are subject to its poison quills. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Quills|Quills]] (Ex)**: A peluda's back and tail are covered in sharp black quills. A creature that strikes a peluda with a melee weapon, an unarmed attack, or a natural weapon takes 1d6 points of piercing damage from the peluda's quills and risks being poisoned. Weapons with reach do not endanger an attacker in this way. Any creature that grapples a peluda takes 3d6 points of piercing damage and risks being poisoned on its turn each round.
 

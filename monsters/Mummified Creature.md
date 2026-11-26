@@ -15,8 +15,8 @@ attack: "Claw +19 melee (3d6+8/19–20)"
 full-attack: "2 claws +19 melee (3d6+8/19–20)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Burst of vengeance, dust stroke, pounce, rake (2 claws +19, 3d6+8/19–20), spell-like abilities"
-special-qualities: "Darkvision 60 ft., detect magic, low-light vision, see invisibility, frightful presence (30 ft., DC 20, 1d6 rounds), damage reduction 5/-, undead traits, vulnerable to fire"
-saves: "Fort +12, Ref +9, Will +10"
+special-qualities: "Darkvision 60 ft., detect magic, low-light vision, see invisibility, frightful presence (30 ft., +10 vs Will, 1d6 rounds), damage reduction 5/-, undead traits, vulnerable to fire"
+defenses: "Fort 22, Ref 19, Will 20"
 abilities: "Str 26, Dex 13, Con —, Int 16, Wis 19, Cha 19"
 skills: "Acrobatics +2, Deception +12, Intimidation +12, Mysticism +11, Perception +23, Persuasion +12, Sense Motive +16, Society +5, Stealth +12, Theology +5"
 skill-ranks: "Acrobatics 3, Deception 5, Intimidation 5, Mysticism 5, Perception 14, Persuasion 5, Sense Motive 11, Society 2, Stealth 8, Theology 2"
@@ -52,8 +52,8 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: 2 claws +19 melee (3d6+8/19–20)
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/Mummified Creature#^burst-of-vengeance|Burst of vengeance]], [[rangoric-srd/monsters/Mummified Creature#^dust-stroke|dust stroke]], [[rangoric-srd/monsters/abilities/Pounce|pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +19, 3d6+8/19–20), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], see invisibility, [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (30 ft., DC 20, 1d6 rounds), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], vulnerable to fire
-- **Saves**: Fort +12, Ref +9, Will +10
+- **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], see invisibility, [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (30 ft., +10 vs Will, 1d6 rounds), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], vulnerable to fire
+- **Defenses**: Fort 22, Ref 19, Will 20
 - **Abilities**: Str 26, Dex 13, Con —, Int 16, Wis 19, Cha 19
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Persuasion|Persuasion]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Society|Society]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]] (claw), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -83,7 +83,7 @@ To create a mummified creature, a corpse must be prepared through embalming, wit
 
 **Alignment**: Any evil.
 
-**Type**: The creature's type changes to undead (augmented). It retains any other subtypes as well, except for alignment subtypes and subtypes that indicate kind. Do not recalculate class HD, BAB, saves, or skill points.
+**Type**: The creature's type changes to undead (augmented). It retains any other subtypes as well, except for alignment subtypes and subtypes that indicate kind. Do not recalculate class HD, BAB, defenses, or skill points.
 
 **Senses**: A mummified creature gains darkvision 60 feet.
 
@@ -127,4 +127,4 @@ Mummified creatures speak Common, Draconic and Sphinx.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +16): Constant—_[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_, _[[rangoric-srd/spells/See Invisibility|see invisibility]]_; 3/day—_[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]_; 1/day—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Legend Lore|legend lore]]_, _[[rangoric-srd/spells/Locate Object|locate object]]_, _[[rangoric-srd/spells/Remove Curse|remove curse]]_; 1/week-any one of the following, with a maximum duration of 1 week: _[[rangoric-srd/spells/Symbol of Fear|symbol of fear]]_ (DC 20), _[[rangoric-srd/spells/Symbol of Pain|symbol of pain]]_ (DC 19), _[[rangoric-srd/spells/Symbol of Persuasion|symbol of persuasion]]_ (DC 20), _[[rangoric-srd/spells/Symbol of Sleep|symbol of sleep]]_ (DC 19), _[[rangoric-srd/spells/Symbol of Stunning|symbol of stunning]]_ (DC 21).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +16): Constant—_[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_, _[[rangoric-srd/spells/See Invisibility|see invisibility]]_; 3/day—_[[rangoric-srd/spells/Clairaudience-Clairvoyance|clairaudience/clairvoyance]]_; 1/day—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Legend Lore|legend lore]]_, _[[rangoric-srd/spells/Locate Object|locate object]]_, _[[rangoric-srd/spells/Remove Curse|remove curse]]_; 1/week-any one of the following, with a maximum duration of 1 week: _[[rangoric-srd/spells/Symbol of Fear|symbol of fear]]_ (+10 vs Will), _[[rangoric-srd/spells/Symbol of Pain|symbol of pain]]_ (+9 vs Fortitude), _[[rangoric-srd/spells/Symbol of Persuasion|symbol of persuasion]]_ (+10 vs Will), _[[rangoric-srd/spells/Symbol of Sleep|symbol of sleep]]_ (+9 vs Will), _[[rangoric-srd/spells/Symbol of Stunning|symbol of stunning]]_ (+11 vs Will).

@@ -15,7 +15,7 @@ full-attack: "Masterwork scimitar +11/+11/+6/+6 melee (1d6+3/18–20)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Paired weapons, raptor dive, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, runic tattoos"
-saves: "Fort +5, Ref +9, Will +8"
+defenses: "Fort 15, Ref 19, Will 18"
 abilities: "Str 16, Dex 17, Con 16, Int 10, Wis 15, Cha 11"
 skills: "Acrobatics +10, Perception +13, Society +8, Stealth +18"
 skill-ranks: "Acrobatics 4, Perception 8, Society 5, Stealth 8"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Paired Weapons|Paired weapons]], [[rangoric-srd/monsters/abilities/Raptor Dive|raptor dive]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Runic Tattoos|runic tattoos]]
-- **Saves**: Fort +5, Ref +9, Will +8
+- **Defenses**: Fort 15, Ref 19, Will 18
 - **Abilities**: Str 16, Dex 17, Con 16, Int 10, Wis 15, Cha 11
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +18
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (scimitar)
@@ -79,4 +79,4 @@ Maftets speak Common and Sphinx.
 
 **[[rangoric-srd/monsters/abilities/Raptor Dive|Raptor Dive]] (Ex)**: When airborne, a maftet can swoop down and strike at lightning speed. This is equivalent to an aerial charge, but it must move downward at least 10 feet and may dive at twice its normal flying speed. Doing so grants the maftet a +2 bonus on its attack rolls and allows it to make a full attack at the end of the raptor dive.
 
-**[[rangoric-srd/monsters/abilities/Runic Tattoos|Runic Tattoos]] (Su)**: The tattoos scribed on a maftet's body power its spell-like abilities and glow when those abilities are used. A maftet can activate up to two of its spell-like abilities as a standard action. It may make a Fortitude save to resist the effects of an erase spell cast on its tattoos, but if it fails, it loses access to its spell-like abilities for 24 hours.
+**[[rangoric-srd/monsters/abilities/Runic Tattoos|Runic Tattoos]] (Su)**: The tattoos scribed on a maftet's body power its spell-like abilities and glow when those abilities are used. A maftet can activate up to two of its spell-like abilities as a standard action. An erase spell cast on its tattoos attacks its Fortitude, and on a hit it loses access to its spell-like abilities for 24 hours.

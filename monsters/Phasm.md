@@ -17,7 +17,7 @@ full-attack: "Slam +12 melee (1d3+1)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Alternate form, amorphous, resilient, scent, telepathy 100 ft., tremorsense 60 ft."
-saves: "Fort +11, Ref +11, Will +11"
+defenses: "Fort 21, Ref 21, Will 21"
 abilities: "Str 12, Dex 15, Con 15, Int 16, Wis 15, Cha 14"
 skills: "Athletics +10, Craft (any one) +15, Deception +20, Fieldcraft +11, Imitation +21 (+23 acting)*, Intimidation +2, Knowledge skill (any one) +21, Perception +16, Persuasion +6"
 skill-ranks: "Athletics 6, Craft (any one) 9, Deception 15, Fieldcraft 6, Imitation 15, Intimidation 0, Knowledge skill (any one) 15, Perception 8, Persuasion 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Alternate Form|Alternate form]], amorphous, resilient, [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft.
-- **Saves**: Fort +11, Ref +11, Will +11
+- **Defenses**: Fort 21, Ref 21, Will 21
 - **Abilities**: Str 12, Dex 15, Con 15, Int 16, Wis 15, Cha 14
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Craft|Craft]] (any one) +15, [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Imitation|Imitation]] +21 (+23 acting)\*, [[rangoric-srd/skills/Intimidation|Intimidation]] +2, [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +21, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +6
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Feats All|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -74,7 +74,7 @@ If pursued or harassed, a phasm transforms into the most fearsome creature it kn
 
 **Amorphous (Ex)**: A phasm in its natural form has immunity to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], polymorph, and [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]] effects. It is not subject to critical hits and, having no clear front or back, cannot be flanked.
 
-**Resilient (Ex)**: A phasm has a +4 racial bonus on Fortitude and Reflex saves (included in the statistics block).
+**Resilient (Ex)**: A phasm has a +4 racial bonus to Fortitude and Reflex Defense (included in the statistics block).
 
 **Alternate Form (Su)**: A phasm can assume any form of Large size or smaller as a standard action. This ability functions as a [[rangoric-srd/spells/Polymorph|polymorph]] spell cast on itself (caster level 15th), except that the phasm does not regain hit points for changing form. A phasm can remain in its alternate form until it chooses to assume a new one or return to its natural form.
 

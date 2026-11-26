@@ -16,7 +16,7 @@ full-attack: "Longspear +2 melee (1d8/×3); or light crossbow +2 ranged (1d8/19�
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, amphibious"
-saves: "Fort +3, Ref +1, Will +1"
+defenses: "Fort 13, Ref 11, Will 11"
 abilities: "Str 10, Dex 12, Con 10, Int 13, Wis 13, Cha 11"
 skills: "Athletics +8, Craft (any one) +6, Fieldcraft +6, Perception +3"
 skill-ranks: "Athletics 5, Craft (any one) 2, Fieldcraft 2, Perception 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
-- **Saves**: Fort +3, Ref +1, Will +1
+- **Defenses**: Fort 13, Ref 11, Will 11
 - **Abilities**: Str 10, Dex 12, Con 10, Int 13, Wis 13, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Craft|Craft]] (any one) +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +3
 - **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longspear)

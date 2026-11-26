@@ -16,7 +16,7 @@ full-attack: "Trident +2 melee (1d8+1); or heavy crossbow +2 ranged (1d10/19–2
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, amphibious"
-saves: "Fort +4, Ref +1, Will –1"
+defenses: "Fort 14, Ref 11, Will 9"
 abilities: "Str 13, Dex 13, Con 14, Int 10, Wis 9, Cha 10"
 skills: "Athletics +13, Perception +3"
 skill-ranks: "Athletics 9, Perception 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
-- **Saves**: Fort +4, Ref +1, Will –1
+- **Defenses**: Fort 14, Ref 11, Will 9
 - **Abilities**: Str 13, Dex 13, Con 14, Int 10, Wis 9, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +3
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

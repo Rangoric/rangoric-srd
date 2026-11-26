@@ -16,7 +16,7 @@ full-attack: "Masterwork heavy pick +9 melee (1d4+6/×4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Earth mastery, pech magic, stone knowledge, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, damage reduction 5/cold iron, immunity to petrification, spell resistance 14, light blindness"
-saves: "Fort +5, Ref +6, Will +6"
+defenses: "Fort 15, Ref 16, Will 16"
 abilities: "Str 19, Dex 12, Con 13, Int 12, Wis 13, Cha 12"
 skills: "Athletics +13, Craft (stonemasonry) +14, Dungeoneering +10, Engineering +10, Perception +10, Profession (miner) +14, Stealth +14"
 skill-ranks: "Athletics 6, Craft (stonemasonry) 10, Dungeoneering 6, Engineering 6, Perception 6, Profession (miner) 10, Stealth 6"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Earth Mastery|Earth mastery]], [[rangoric-srd/monsters/abilities/Pech Magic|pech magic]], [[rangoric-srd/monsters/abilities/Stone Knowledge|stone knowledge]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to petrification, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 14, [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
-- **Saves**: Fort +5, Ref +6, Will +6
+- **Defenses**: Fort 15, Ref 16, Will 16
 - **Abilities**: Str 19, Dex 12, Con 13, Int 12, Wis 13, Cha 12
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Craft|Craft]] (stonemasonry) +14, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +10, [[rangoric-srd/skills/Engineering|Engineering]] +10, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Profession|Profession]] (miner) +14, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Power Attack|Power Attack]]
@@ -74,6 +74,6 @@ The typical pech stands only 3-1/2 feet tall, but its dense flesh gives it a wei
 
 **[[rangoric-srd/monsters/abilities/Earth Mastery|Earth Mastery]] (Ex)**: A pech gains a +1 bonus on attack and damage rolls if both it and its foes are touching the ground. If an opponent is airborne or waterborne, the pech takes a –4 penalty on attack and damage rolls. These modifiers are not precalculated into the statistics here.
 
-**[[rangoric-srd/monsters/abilities/Pech Magic|Pech Magic]] (Sp)**: Four pechs working together can cast wall of stone once per day. Eight pechs working together can cast stone to flesh (DC 17) once per day. These spell-like abilities function at CL 10th. Each pech must use a full-round action to take part in the casting. The save DCs are modified by the highest Charisma modifier in the group.
+**[[rangoric-srd/monsters/abilities/Pech Magic|Pech Magic]] (Sp)**: Four pechs working together can cast wall of stone once per day. Eight pechs working together can cast stone to flesh (+7 vs Fortitude) once per day. These spell-like abilities function at CL 10th. Each pech must use a full-round action to take part in the casting. The attack bonuses are modified by the highest Charisma modifier in the group.
 
 **[[rangoric-srd/monsters/abilities/Stone Knowledge|Stone Knowledge]] (Ex)**: A pech's knowledge of earth and stone grants a +1 racial bonus on attack and damage rolls and the benefits of the Improved Critical feat against creatures and objects made of stone or earth or with the earth subtype. Dungeoneering, Engineering and Profession (miner) are always class skills for a pech.

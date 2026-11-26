@@ -15,7 +15,7 @@ full-attack: "Bite +7 melee (1d8+4 plus disease) and 2 tentacles +3 melee (1d6+2
 space-reach: "10 ft./10 ft. (15 ft. with tentacle)"
 special-attacks: "Constrict (tentacle, 1d6+2), disease"
 special-qualities: "Darkvision 60 ft., scent, immunity to disease"
-saves: "Fort +3, Ref +2, Will +6"
+defenses: "Fort 13, Ref 12, Will 16"
 abilities: "Str 18, Dex 10, Con 13, Int 5, Wis 13, Cha 6"
 skills: "Perception +10, Stealth +2 (+10 in lair)"
 skill-ranks: "Perception 5, Stealth 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft. (15 ft. with tentacle)
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (tentacle, 1d6+2), [[rangoric-srd/monsters/abilities/Disease|disease]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease
-- **Saves**: Fort +3, Ref +2, Will +6
+- **Defenses**: Fort 13, Ref 12, Will 16
 - **Abilities**: Str 18, Dex 10, Con 13, Int 5, Wis 13, Cha 6
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +2 (+10 in lair)
 - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (tentacle), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -76,4 +76,4 @@ Otyughs speak Common.
 
 An otyugh attacks living creatures if it feels threatened or if it is hungry; otherwise it is content to remain hidden. Otyughs slash and squeeze opponents with their tentacles, which they also use to drag prey into their mouths.
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Filth Fever|Filth Fever]]: Bite—injury; _save_ Fort DC 14; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d3 Dex damage and 1d3 Con damage; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Filth Fever|Filth Fever]]: Bite—injury; _attack_ +4 vs Fortitude; _onset_ 1d3 days; _frequency_ 1/day; _effect_ 1d3 Dex damage and 1d3 Con damage; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.

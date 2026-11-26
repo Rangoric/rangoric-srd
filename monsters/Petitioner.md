@@ -16,7 +16,7 @@ full-attack: "Slam +2 melee (1d4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., petitioner traits, immunity to mind-affecting effects"
-saves: "Fort +4, Ref +3, Will +0"
+defenses: "Fort 14, Ref 13, Will 10"
 abilities: "Str 11, Dex 10, Con 13, Int 10, Wis 11, Cha 10"
 skills: "Craft (any two) +5, Perception +5, Sense Motive +5, Stealth +5, Theology +5"
 skill-ranks: "Craft (any two) 2, Perception 2, Sense Motive 2, Stealth 2, Theology 2"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., petitioner traits, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +4, Ref +3, Will +0
+- **Defenses**: Fort 14, Ref 13, Will 10
 - **Abilities**: Str 11, Dex 10, Con 13, Int 10, Wis 11, Cha 10
 - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (any two) +5, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +5, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]
@@ -91,7 +91,7 @@ Another version of the petitioner template, for the souls in a deity's service, 
 
 **Hit Dice**: Petitioners lose all racial and class-based Hit Dice and gain 2d10 racial Hit Dice as outsiders.
 
-**Saves**: Petitioners have good Fortitude and Reflex saves; a petitioner's base saves are Fort +3, Ref +3, Will +0.
+**Defenses**: Petitioners have good Fortitude and Reflex saves; a petitioner's base defenses are Fort 13, Ref 13, Will 10.
 
 **Defensive Abilities**: Petitioners lose all the defensive abilities of the base creature. Petitioners are immune to mind-affecting effects.
 
@@ -105,7 +105,7 @@ Another version of the petitioner template, for the souls in a deity's service, 
 
 **Skills**: Petitioners lose all skill ranks they possessed as mortals. As a 2 HD outsider, a petitioner has 12 skill ranks it can spend on skills (with a maximum of 2 ranks in any one skill), and gains bonus skill ranks as appropriate for its Intelligence. Unlike most outsiders, petitioners do not gain an additional 4 class skills beyond those available to all outsiders.
 
-**Special Qualities**: Petitioners lose all special qualities, along with all abilities granted by class levels (including increases on saving throws and to HD and BAB).
+**Special Qualities**: Petitioners lose all special qualities, along with all abilities granted by class levels (including increases to defenses and to HD and BAB).
 
 #### Petitioner Traits
 
@@ -119,7 +119,7 @@ A petitioner gains additional traits based on its home plane.
 
 **[[rangoric-srd/rules/planes/Heaven|Heaven]] (Lawful Good)**: The “elect” appear similar to their mortal forms, save that they possess a golden halo and feathered wings. After spending enough time aiding heavenly tasks, the elect become archons. They gain a fly speed equal to their base speed (average mobility).
 
-**[[rangoric-srd/rules/planes/Hell|Hell]] (Lawful Evil)**: The “damned” retain their mortal forms, but are heavily scarred by various tortures. Those who endure the torments of Hell long enough may eventually be approved for transformation into devils. The damned gain immunity to fire (but not immunity to the pain caused by fire—whenever one of the damned takes fire damage, it must make a DC 15 Fortitude save to resist being [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] by the pain for 1d4 rounds).
+**[[rangoric-srd/rules/planes/Hell|Hell]] (Lawful Evil)**: The “damned” retain their mortal forms, but are heavily scarred by various tortures. Those who endure the torments of Hell long enough may eventually be approved for transformation into devils. The damned gain immunity to fire (but not immunity to the pain caused by fire—whenever one of the damned takes fire damage, the pain attacks it at +5 vs Fortitude, and on a hit it is [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] by the pain for 1d4 rounds).
 
 **[[rangoric-srd/rules/planes/Limbo|Limbo]] (Chaotic Neutral)**: The “shapeless“ retain their basic forms, but these forms constantly waver and shimmer, as if they were ghosts in peril of dissolving away. After wallowing in the chaos of Limbo for long enough, they can transform into proteans. The shapeless have the incorporeal subtype, an incorporeal touch attack, and all advantages granted by that defensive ability.
 

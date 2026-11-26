@@ -15,7 +15,7 @@ full-attack: "Club +4 melee (1d6+3); or slam +4 melee (1d4+3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision, sound mimicry (voices)"
-saves: "Fort +2, Ref +4, Will +4"
+defenses: "Fort 12, Ref 14, Will 14"
 abilities: "Str 14, Dex 13, Con 15, Int 10, Wis 12, Cha 7"
 skills: "Athletics +6, Fieldcraft +5, Perception +6, Sleight of Hand +7, Stealth +13"
 skill-ranks: "Athletics 1, Fieldcraft 1, Perception 2, Sleight of Hand 2, Stealth 5"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Sound Mimicry|sound mimicry]] (voices)
-- **Saves**: Fort +2, Ref +4, Will +4
+- **Defenses**: Fort 12, Ref 14, Will 14
 - **Abilities**: Str 14, Dex 13, Con 15, Int 10, Wis 12, Cha 7
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)

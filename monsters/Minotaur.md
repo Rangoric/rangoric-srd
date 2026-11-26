@@ -15,7 +15,7 @@ full-attack: "Greataxe +9/+4 melee (3d6+6/×3) and gore +4 melee (1d6+2)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Powerful charge (gore +11, 2d6+6)"
 special-qualities: "Darkvision 60 ft., scent, natural cunning"
-saves: "Fort +6, Ref +5, Will +5"
+defenses: "Fort 16, Ref 15, Will 15"
 abilities: "Str 19, Dex 10, Con 15, Int 7, Wis 10, Cha 8"
 skills: "Fieldcraft +10, Intimidation +5, Perception +10, Stealth +2"
 skill-ranks: "Fieldcraft 3, Intimidation 3, Perception 3, Stealth 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (gore +11, 2d6+6)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], natural cunning
-- **Saves**: Fort +6, Ref +5, Will +5
+- **Defenses**: Fort 16, Ref 15, Will 15
 - **Abilities**: Str 19, Dex 10, Con 15, Int 7, Wis 10, Cha 8
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +2
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]]

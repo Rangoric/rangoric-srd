@@ -15,7 +15,7 @@ full-attack: "2 hooves +4 melee (1d4+3)"
 space-reach: "10 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +6, Ref +4, Will +1"
+defenses: "Fort 16, Ref 14, Will 11"
 abilities: "Str 16, Dex 13, Con 17, Int 2, Wis 11, Cha 6"
 skills: "Perception +9"
 skill-ranks: "Perception 3"
@@ -46,7 +46,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: Low-light vision, scent
-- **Saves**: Fort +6, Ref +4, Will +1
+- **Defenses**: Fort 16, Ref 14, Will 11
 - **Abilities**: Str 16, Dex 13, Con 17, Int 2, Wis 11, Cha 6
 - **Skills**: Perception +9
 - **Feats**: Endurance, Skill Focus (Perception)

@@ -15,7 +15,7 @@ full-attack: "Bite +6 melee (2d6+4)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Screech"
 special-qualities: "Blindsense 120 ft., low-light vision"
-saves: "Fort +7, Ref +6, Will +2"
+defenses: "Fort 17, Ref 16, Will 12"
 abilities: "Str 17, Dex 15, Con 16, Int 6, Wis 13, Cha 6"
 skills: "Acrobatics +8, Perception +6 (+10 when using blindsense), Stealth +5"
 skill-ranks: "Acrobatics 5, Perception 2, Stealth 4"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Screech|Screech]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
-- **Saves**: Fort +7, Ref +6, Will +2
+- **Defenses**: Fort 17, Ref 16, Will 12
 - **Abilities**: Str 17, Dex 15, Con 16, Int 6, Wis 13, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Perception|Perception]] +6 (+10 when using blindsense), [[rangoric-srd/skills/Stealth|Stealth]] +5
 - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
@@ -69,4 +69,4 @@ Mobats understand Undercommon but can't speak.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Screech|Screech]] (Su)**: Once per day as a standard action, a mobat can produce an ear-splitting screech that stuns non-mobats in a 20-foot-radius burst. All creatures within the area must make a DC 15 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1d3 rounds. Other mobats and urdefhans are immune to this effect. This is a sonic mind-affecting effect. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Screech|Screech]] (Su)**: Once per day as a standard action, a mobat can produce an ear-splitting screech that stuns non-mobats in a 20-foot-radius burst. All creatures within the area are attacked at +5 vs Fortitude, and on a hit are [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1d3 rounds. Other mobats and urdefhans are immune to this effect. This is a sonic mind-affecting effect. The attack bonus is Constitution-based.

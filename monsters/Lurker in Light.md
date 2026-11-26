@@ -16,7 +16,7 @@ full-attack: "2 claws +9 melee (1d3+1); or dagger +9 melee (1d3+1/19–20 plus p
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +3d6, poison, spell-like abilities"
 special-qualities: "Low-light vision, blend with light, daylight door, poison use, ritual gate, damage reduction 5/cold iron, immunity to blindness"
-saves: "Fort +4, Ref +10, Will +9"
+defenses: "Fort 14, Ref 20, Will 19"
 abilities: "Str 13, Dex 18, Con 15, Int 14, Wis 16, Cha 17"
 skills: "Acrobatics +17, Arcana +10, Escape Artist +15, Fieldcraft +11, Perception +17, Stealth +19, Theology +10"
 skill-ranks: "Acrobatics 8, Arcana 5, Escape Artist 8, Fieldcraft 5, Perception 10, Stealth 8, Theology 5"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Sneak attack +3d6, [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Blend With Light|blend with light]], [[rangoric-srd/monsters/abilities/Daylight Door|daylight door]], [[rangoric-srd/monsters/abilities/Poison|poison]] use, [[rangoric-srd/monsters/abilities/Ritual Gate|ritual gate]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to blindness
-- **Saves**: Fort +4, Ref +10, Will +9
+- **Defenses**: Fort 14, Ref 20, Will 19
 - **Abilities**: Str 13, Dex 18, Con 15, Int 14, Wis 16, Cha 17
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +19, [[rangoric-srd/skills/Theology|Theology]] +10
 - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -74,12 +74,12 @@ Lurker in lights speak Aklo, Common and Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +11): At will—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Flare|flare]]_ (DC 13), _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 13), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_; 3/day—_[[rangoric-srd/spells/Daylight|daylight]]_, _[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_ (DC 16).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +11): At will—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Flare|flare]]_ (+3 vs Fortitude), _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+3 vs Will), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_; 3/day—_[[rangoric-srd/spells/Daylight|daylight]]_, _[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_ (+6 vs Fortitude).
 
 **[[rangoric-srd/monsters/abilities/Blend With Light|Blend With Light]] (Su)**: In areas of bright light, lurkers are invisible. As with greater invisibility, they may attack and still remain invisible. In shadowy illumination, a lurker loses this invisibility, though like all creatures in shadows, they have concealment unless the viewer has darkvision. If the lurker is flying, its fluttering wings partially negate this effect, giving it only partial concealment (20%) rather than total concealment.
 
 **[[rangoric-srd/monsters/abilities/Daylight Door|Daylight Door]] (Sp)**: Once per day, a lurker can use dimension door, transporting only itself and up to 50 pounds of material. The start and end points of the teleport must be in areas of bright light; if the destination lacks sufficient light, the teleport fails but does not expend the ability for the day.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Shadow Essence|Shadow Essence]]: injury; _save_ Fort DC 17; _frequency_ 1/round for 6 rounds; _initial effect_ 1 Strength Drain; _secondary effect_ 1d3 Strength Damage; _cure_ 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Shadow Essence|Shadow Essence]]: injury; _attack_ +7 vs Fortitude; _frequency_ 1/round for 6 rounds; _initial effect_ 1 Strength Drain; _secondary effect_ 1d3 Strength Damage; _cure_ 1 miss.
 
 **[[rangoric-srd/monsters/abilities/Ritual Gate|Ritual Gate]] (Su)**: By sacrificing one or more humanoid victims, a lurker or group of lurkers can create a gate to the Material Plane, one of the Elemental Planes, or the realm of the fey, either to return home or to conjure allies. Creating a gate for travel requires the sacrifice of five victims—the gate created remains open for 1 minute. Creating a gate to bring allies to the Material Plane requires one sacrifice for every HD of the creature intended to pass through the gate (so five sacrifices can bring a lurker or a Medium air elemental, eight can bring a Large earth elemental, and so on). The sacrifices do not need to be simultaneous; as long all sacrifices occur at some point during the hour-long ritual, the magic continues to build until it reaches the required total.

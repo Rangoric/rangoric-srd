@@ -15,7 +15,7 @@ full-attack: "Bite +10 melee (1d8+5) and 2 claws +10 melee (2d4+5); or 4 spikes 
 space-reach: "10 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision, scent"
-saves: "Fort +9, Ref +7, Will +3"
+defenses: "Fort 19, Ref 17, Will 13"
 abilities: "Str 20, Dex 15, Con 18, Int 7, Wis 12, Cha 9"
 skills: "Acrobatics –3, Fieldcraft +4 (+8 tracking), Perception +9"
 skill-ranks: "Acrobatics 0, Fieldcraft 3, Perception 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +9, Ref +7, Will +3
+- **Defenses**: Fort 19, Ref 17, Will 13
 - **Abilities**: Str 20, Dex 15, Con 18, Int 7, Wis 12, Cha 9
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –3, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4 (+8 tracking), [[rangoric-srd/skills/Perception|Perception]] +9
 - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spikes)

@@ -18,7 +18,7 @@ full-attack: "Longsword +3 melee (1d8+1/19-20) or longbow +1 ranged (1d8/x3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Psi-like abilities"
 special-qualities: "Outburst"
-saves: "Fort +3, Ref +0, Will -1"
+defenses: "Fort 13, Ref 10, Will 9"
 abilities: "Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8"
 skills: "Athletics +5"
 skill-ranks: "Athletics 1"
@@ -52,7 +52,7 @@ Full **Attack:** Longsword +3 melee (1d8+1/19-20) or longbow +1 ranged (1d8/x3)�
 **Space/Reach:** 5 ft./5 ft.     
 **Special Attacks:** Psi-like abilities     
 **Special Qualities:** Outburst     
-**Saves:** Fort +3, Ref +0, Will -1      
+**Defenses:** Fort 13, Ref 10, Will 9      
 **Abilities:** Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8     
 **Skills:** [[rangoric-srd/skills/Athletics|Athletics]] +5     
 **Unspent Skill Points**: 1
@@ -73,7 +73,7 @@ Maenads speak their own language and Common.
 
 #### Combat
 
-Psi-Like **Abilities:** 1/day - [[rangoric-srd/powers/Energy Ray|energy ray]]. A maenad can deal only sonic damage with this ability. Manifester level equal to 1/2 Hit Dice (minimum 1st). The save DC is Charisma-based.
+Psi-Like **Abilities:** 1/day - [[rangoric-srd/powers/Energy Ray|energy ray]]. A maenad can deal only sonic damage with this ability. Manifester level equal to 1/2 Hit Dice (minimum 1st). The attack bonus is Charisma-based.
 
 Outburst (Ex): Once per day for up to 4 rounds a maenad can subjugate his mentality. He takes a -2 penalty to Intelligence and Wisdom but gains a +2 bonus to Strength.
 

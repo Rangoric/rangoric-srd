@@ -15,7 +15,7 @@ full-attack: "Bite +5 melee (2d6+3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Blindsight 30 ft., low-light vision, tremorsense 60 ft., phantom flesh, plant traits"
-saves: "Fort +7, Ref +1, Will +1"
+defenses: "Fort 17, Ref 11, Will 11"
 abilities: "Str 15, Dex 10, Con 16, Int 2, Wis 11, Cha 9"
 skills: "Athletics +10, Perception +10, Stealth +7"
 skill-ranks: "Athletics 5, Perception 7, Stealth 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., phantom flesh, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-- **Saves**: Fort +7, Ref +1, Will +1
+- **Defenses**: Fort 17, Ref 11, Will 11
 - **Abilities**: Str 15, Dex 10, Con 16, Int 2, Wis 11, Cha 9
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)

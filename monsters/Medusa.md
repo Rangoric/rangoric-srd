@@ -15,7 +15,7 @@ full-attack: "Masterwork longbow +11/+6 ranged (1d8/×3); or dagger +10/+5 melee
 space-reach: "5 ft./5 ft."
 special-attacks: "Petrifying gaze, poison"
 special-qualities: "All-around vision, darkvision 60 ft."
-saves: "Fort +6, Ref +8, Will +7"
+defenses: "Fort 16, Ref 18, Will 17"
 abilities: "Str 10, Dex 15, Con 18, Int 12, Wis 13, Cha 15"
 skills: "Deception +10, Imitation +10, Intimidation +13, Investigation +5, Perception +16, Stealth +13"
 skill-ranks: "Deception 5, Imitation 5, Intimidation 8, Perception 8, Stealth 8"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Petrifying [[rangoric-srd/monsters/abilities/Gaze|gaze]], [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft.
-- **Saves**: Fort +6, Ref +8, Will +7
+- **Defenses**: Fort 16, Ref 18, Will 17
 - **Abilities**: Str 10, Dex 15, Con 18, Int 12, Wis 13, Cha 15
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Imitation|Imitation]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Investigation|Investigation]] +5, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -78,6 +78,6 @@ A medusa tries to disguise its true nature until the intended victim is within r
 
 **All-Around Vision (Ex)**: A medusa's snake-hair allows her to see in all directions. Medusas gain a +4 racial bonus on Perception and Investigation checks and can't be [[rangoric-srd/combat/Combat Modifiers#Flanking|flanked]].
 
-**Petrifying Gaze (Su)**: [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|Turn to stone]] permanently, 30 feet, Fortitude DC 16 negates. The save DC is Charisma-based.
+**Petrifying Gaze (Su)**: [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|Turn to stone]] permanently, 30 feet, +6 vs Fortitude. The attack bonus is Charisma-based.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Medusa Venom|Medusa Venom]]: Bite—injury; _save_ Fort DC 18; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Str; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Medusa Venom|Medusa Venom]]: Bite—injury; _attack_ +8 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d3 Str; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.

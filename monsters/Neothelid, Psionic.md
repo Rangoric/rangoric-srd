@@ -17,7 +17,7 @@ full-attack: "4 tentacle rakes +24 melee (2d6+10/19-20)"
 space-reach: "30 ft./30 ft."
 special-attacks: "Breath weapon, improved grab, psi-like abilities, swallow whole"
 special-qualities: "Blindsight 100 ft., damage reduction 5/-, power resistance 25"
-saves: "Fort +16, Ref +6, Will +16"
+defenses: "Fort 26, Ref 16, Will 26"
 abilities: "Str 30, Dex 7, Con 27, Int 16, Wis 15, Cha 20"
 skills: "Athletics +38, Mysticism +31, Psionics +31, Perception +30"
 skill-ranks: "Athletics 25, Mysticism 25, Perception 25, Psionics 25"
@@ -50,7 +50,7 @@ Full **Attack:** 4 tentacle rakes +24 melee (2d6+10/19-20)   
 **Space/Reach:** 30 ft./30 ft.     
 **Special Attacks:** [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], [[rangoric-srd/monsters/abilities/Grab|improved grab]], psi-like abilities, [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]]     
 **Special Qualities:** [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, power resistance 25     
-**Saves:** Fort +16, Ref +6, Will +16     
+**Defenses:** Fort 26, Ref 16, Will 26     
 **Abilities:** Str 30, Dex 7, Con 27, Int 16, Wis 15, Cha 20     
 **Skills:** [[rangoric-srd/skills/Athletics|Athletics]] +38, [[rangoric-srd/skills/Mysticism|Mysticism]] +31, [[rangoric-srd/skills/Perception|Perception]] +30, [[rangoric-srd/skills/Psionics (Skill)|Psionics]] +31     
 **Unspent Skill Points**: 50
@@ -69,15 +69,15 @@ A mature neothelid is a gigantic worm scores of feet long and weighing tens of t
 
 This is the psionic neothelid, with psi-like abilities; the [[rangoric-srd/monsters/Neothelid|standard neothelid]] has spell-like abilities instead.
 
-Breath Weapon (Su): Cone of acid 50 feet long, once every 1d4 rounds; damage 14d10 acid, Reflex half DC 30.
+Breath Weapon (Su): Cone of acid 50 feet long, once every 1d4 rounds; damage 14d10 acid, +20 vs Reflex, a miss halves.
 
 Improved Grab (Ex): To use this ability, a neothelid must hit a creature with two tentacles during the same attack. If it gets a hold, it automatically deals tentacle damage and can attempt to swallow the foe.
 
-Psi-Like **Abilities:** At will - [[rangoric-srd/powers/Body Equilibrium|body equilibrium]], [[rangoric-srd/powers/Charm, Psionic|psionic charm]] (all targets, duration 15 days, DC 21\*), [[rangoric-srd/powers/Clairvoyant Sense|clairvoyant sense]], [[rangoric-srd/powers/Levitate, Psionic|psionic levitate]], [[rangoric-srd/powers/Read Thoughts|read thoughts]] (DC 17\*), [[rangoric-srd/powers/Suggestion, Psionic|psionic suggestion]] (seven targets, DC 17\*), [[rangoric-srd/powers/Telekinetic Force|telekinetic force]] (500 lb., DC 18\*), [[rangoric-srd/powers/Telekinetic Maneuver (Power)|telekinetic maneuver]] (+4 bonus, DC 19\*), [[rangoric-srd/powers/Telekinetic Thrust|telekinetic thrust]] (500 lb., DC 18\*), [[rangoric-srd/powers/Teleport, Psionic|psionic teleport]], [[rangoric-srd/powers/Trace Teleport|trace teleport]], [[rangoric-srd/powers/Truevenom|truevenom]] (DC 19); 3/day - [[rangoric-srd/powers/Mind Thrust|mind thrust]] (15d10, DC 23\*), [[rangoric-srd/powers/Powers G to P|psychic thrust]] (6d6, DC 16\*\*). Manifester level 15th. The save DCs are Charisma-based.
+Psi-Like **Abilities:** At will - [[rangoric-srd/powers/Body Equilibrium|body equilibrium]], [[rangoric-srd/powers/Charm, Psionic|psionic charm]] (all targets, duration 15 days, +11 vs Will\*), [[rangoric-srd/powers/Clairvoyant Sense|clairvoyant sense]], [[rangoric-srd/powers/Levitate, Psionic|psionic levitate]], [[rangoric-srd/powers/Read Thoughts|read thoughts]] (+7 vs Will\*), [[rangoric-srd/powers/Suggestion, Psionic|psionic suggestion]] (seven targets, +7 vs Will\*), [[rangoric-srd/powers/Telekinetic Force|telekinetic force]] (500 lb., +8 vs Will\*), [[rangoric-srd/powers/Telekinetic Maneuver (Power)|telekinetic maneuver]] (+4 bonus, +9\*), [[rangoric-srd/powers/Telekinetic Thrust|telekinetic thrust]] (500 lb., +8 vs Will\*), [[rangoric-srd/powers/Teleport, Psionic|psionic teleport]], [[rangoric-srd/powers/Trace Teleport|trace teleport]], [[rangoric-srd/powers/Truevenom|truevenom]] (+9 vs Fortitude); 3/day - [[rangoric-srd/powers/Mind Thrust|mind thrust]] (15d10, +13 vs Will\*), [[rangoric-srd/powers/Powers G to P|psychic thrust]] (6d6, +6\*\*). Manifester level 15th. The attack bonuses are Charisma-based.
 
 \*Includes augmentation for the neothelid’s manifester level.
 
-\*\*Includes the inherent +4 save adjustment described in the power.
+\*\*Includes the inherent +4 attack bonus adjustment described in the power.
 
 Swallow Whole (Ex): A neothelid can try to swallow a grabbed opponent of a smaller size than itself by making a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check. Once inside, the opponent takes 2d8+15 points of crushing damage plus 2d6 points of acid damage per round from stomach secretions. A swallowed creature can cut its way out by using a light slashing or piercing weapon to deal 25 points of damage to the stomach (AC 22). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out. A neothelid’s interior can hold 1 Huge, 2 Large, 8 Medium, 32 Small, 128 Tiny, or 512 Diminutive or smaller opponents.
 

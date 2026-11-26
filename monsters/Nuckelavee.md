@@ -14,9 +14,9 @@ cmd: "30 (34 vs. trip)"
 attack: "Masterwork longsword +11 melee (1d8+9/19–20) or bite +15 melee (1d8+6 plus disease) or hoof +10 melee (1d6+3 plus disease)"
 full-attack: "Masterwork longsword +11 melee (1d8+9/19–20) and bite +10 melee (1d8+6 plus disease) and 2 hooves +5 melee (1d6+3 plus disease)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Breath weapon (30-ft. cone, 10d6 damage plus disease, Reflex DC 21 for half, usable every 1d4 rounds), trample (1d6+9, DC 21), spell-like abilities"
-special-qualities: "Low-light vision, frightful presence (30 ft., DC 20), amphibious, undersized weapons, damage reduction 10/cold iron, immunity to disease and poison"
-saves: "Fort +9, Ref +16, Will +10"
+special-attacks: "Breath weapon (30-ft. cone, 10d6 damage plus disease, +11 vs Reflex; a miss halves, usable every 1d4 rounds), trample (1d6+9, +11 vs Reflex), spell-like abilities"
+special-qualities: "Low-light vision, frightful presence (30 ft., +10 vs Will), amphibious, undersized weapons, damage reduction 10/cold iron, immunity to disease and poison"
+defenses: "Fort 19, Ref 26, Will 20"
 abilities: "Str 22, Dex 24, Con 22, Int 13, Wis 17, Cha 21"
 skills: "Acrobatics +21, Athletics +28 (+36 jumping), Escape Artist +21, Intimidation +16, Nature +15, Perception +17, Stealth +17"
 skill-ranks: "Acrobatics 11, Athletics 19, Escape Artist 11, Intimidation 8, Nature 11, Perception 11, Stealth 11"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +11 melee (1d8+9/19–20) or bite +15 melee (1d8+6 plus [[rangoric-srd/monsters/abilities/Disease|disease]]) or hoof +10 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
 - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Longsword|longsword]] +11 melee (1d8+9/19–20) and bite +10 melee (1d8+6 plus [[rangoric-srd/monsters/abilities/Disease|disease]]) and 2 hooves +5 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Disease|disease]])
 - **Space/Reach**: 10 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (30-ft. cone, 10d6 damage plus disease, Reflex DC 21 for half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Trample|trample]] (1d6+9, DC 21), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
-- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (30 ft., DC 20), [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Undersized Weapons|undersized weapons]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and poison
-- **Saves**: Fort +9, Ref +16, Will +10
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (30-ft. cone, 10d6 damage plus disease, +11 vs Reflex; a miss halves, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Trample|trample]] (1d6+9, +11 vs Reflex), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]] (30 ft., +10 vs Will), [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Undersized Weapons|undersized weapons]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to disease and poison
+- **Defenses**: Fort 19, Ref 26, Will 20
 - **Abilities**: Str 22, Dex 24, Con 22, Int 13, Wis 17, Cha 21
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +21, [[rangoric-srd/skills/Athletics|Athletics]] +28 (+36 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Nature|Nature]] +15, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +17
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Lightning Stance|Lightning Stance]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Wind Stance|Wind Stance]]
@@ -74,6 +74,6 @@ Nuckelavees speak Aklo, Common and Sylvan.
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +14): 3/day—_[[rangoric-srd/spells/Control Water|control water]]_, _[[rangoric-srd/spells/Diminish Plants|diminish plants]]_, _[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]_.
 
-**[[rangoric-srd/monsters/abilities/Breath Weapon|Breath Weapon]] (Su)**: A nuckelavee's breath weapon is a cone of withering foulness that causes painful welts, cramps, and bleeding, and only harms living creatures—this damage bypasses all energy resistance and damage reduction. Non-creature plants in the area are affected as if by a blight spell. Any creature that fails its Reflex save against the breath weapon must make a DC 21 Fortitude save or contract [[rangoric-srd/rules/afflictions/Mortasheen|mortasheen]] (see below). The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Breath Weapon|Breath Weapon]] (Su)**: A nuckelavee's breath weapon is a cone of withering foulness that causes painful welts, cramps, and bleeding, and only harms living creatures—this damage bypasses all energy resistance and damage reduction. Non-creature plants in the area are affected as if by a blight spell. Any creature the breath weapon hits is also attacked at +11 vs Fortitude, and on a hit contracts [[rangoric-srd/rules/afflictions/Mortasheen|mortasheen]] (see below). The attack bonus is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Su)**: [[rangoric-srd/rules/afflictions/Mortasheen|Mortasheen]]: contact; _save_ Fort DC 21; _onset_ immediate; _frequency_ 1/day; _effect_ 1d4 Con and target is fatigued; _cure_ 2 consecutive saves. Animals take a –2 penalty on their saves against this disease. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Disease|Disease]] (Su)**: [[rangoric-srd/rules/afflictions/Mortasheen|Mortasheen]]: contact; _attack_ +11 vs Fortitude; _onset_ immediate; _frequency_ 1/day; _effect_ 1d4 Con and target is fatigued; _cure_ 2 consecutive misses. Animals take a –2 penalty to their defenses against this disease. The attack bonus is Constitution-based.
