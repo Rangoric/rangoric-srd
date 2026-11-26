@@ -25,6 +25,6 @@ A battle standard is a cloth flag or standard, typically 2 feet wide and 4 feet 
 
 A battle standard may be carried (on foot or mounted) or planted. In the latter case, the standard does not need a bearer, but if it is toppled or touched by an enemy, it loses its effectiveness until reclaimed and replanted by allies of its owner.
 
-**Ferocity**: Allies of the bearer of a _hobgoblin battle standard of ferocity_ gain a +2 morale bonus on attack rolls, weapon damage rolls, and saving throws against mind-affecting effects as long as they are within 60 feet of the banner.
+**Ferocity**: Allies of the bearer of a _hobgoblin battle standard of ferocity_ gain a +2 morale bonus on attack rolls, weapon damage rolls, and defenses against mind-affecting effects as long as they are within 60 feet of the banner.
 
 Moderate enchantment; CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Rage|rage]]_; Price 60,000 gp; Cost 30,000 gp; Weight 3 lbs.

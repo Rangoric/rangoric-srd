@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Dust of Illusion
 
-This unremarkable powder resembles chalk dust or powdered graphite. Stare at it, however, and the dust changes color and form. Put dust of illusion on a creature, and that creature is affected as if by a disguise self glamer, with the individual who sprinkles the dust envisioning the illusion desired. An unwilling target is allowed a DC 11 Reflex save to avoid the dust. The glamer lasts for 2 hours.
+This unremarkable powder resembles chalk dust or powdered graphite. Stare at it, however, and the dust changes color and form. Put dust of illusion on a creature, and that creature is affected as if by a disguise self glamer, with the individual who sprinkles the dust envisioning the illusion desired. The dust attacks an unwilling target’s Reflex at +1, and a miss avoids it. The glamer lasts for 2 hours.
 
 Faint illusion; CL 6th; Craft Wondrous Item, disguise self; Price 1,200 gp.

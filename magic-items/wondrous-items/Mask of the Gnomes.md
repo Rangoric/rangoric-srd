@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Mask of the Gnomes
 
-Gnomes design their masks more for protection during tinkering and crafting than during combat. These sturdy masks are airtight, and the air supply for the wearer is magically created, protecting him from poison gasses and other airborne hazards, as well as allowing him to breathe underwater. The wearer’s eyes are protected with sturdy lenses that automatically shut and darken when appropriate, preventing the wearer from being hampered or blinded by light effects, and offering a +4 circumstance bonus to saving throws vs. gaze attacks.
+Gnomes design their masks more for protection during tinkering and crafting than during combat. These sturdy masks are airtight, and the air supply for the wearer is magically created, protecting him from poison gasses and other airborne hazards, as well as allowing him to breathe underwater. The wearer’s eyes are protected with sturdy lenses that automatically shut and darken when appropriate, preventing the wearer from being hampered or blinded by light effects, and offering a +4 circumstance bonus to defenses vs. gaze attacks.
 
 This is one of the [[rangoric-srd/magic-items/Racial Masks|racial masks]].
 

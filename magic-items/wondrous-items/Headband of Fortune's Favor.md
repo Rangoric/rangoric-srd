@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Headband of Fortune's Favor
 
-This multicolored headband with beaded tassels tips luck in the wearer's favor. The wearer gains a +1 luck bonus on saving throws.
+This multicolored headband with beaded tassels tips luck in the wearer's favor. The wearer gains a +1 luck bonus on defenses.
 
 Any effect that gives the wearer a luck bonus (such as a _[[rangoric-srd/spells/Divine Favor|divine favor]]_ or _[[rangoric-srd/spells/Prayer|prayer]]_ spell) or explicitly increases the wearer's good luck (such as a [[rangoric-srd/classes/Witch#^witch-hex|witch]]'s [[rangoric-srd/class-options/hexes/Fortune (Hex)|fortune]] hex, the [[rangoric-srd/class-options/domains/Luck Domain|Luck domain]]'s bit of luck domain power, and so on) lasts for 1 round longer than normal on the wearer. Abilities without a time-based duration (such as carrying a _[[rangoric-srd/magic-items/wondrous-items/Stone of Good Luck (Luckstone)|stone of good luck]]_) are unaffected by the headband.
 

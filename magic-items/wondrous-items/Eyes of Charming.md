@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Eyes of Charming
 
-These two crystal lenses fit over the user’s eyes. The wearer is able to use charm person (one target per round) merely by meeting a target’s gaze. Those failing a DC 16 Will save are charmed as per the spell. If the wearer has only one lens, the DC of the saving throw is reduced to 10.
+These two crystal lenses fit over the user’s eyes. The wearer is able to use charm person (one target per round) merely by meeting a target’s gaze. The gaze attacks the target’s Will at +6, and on a hit it is charmed as per the spell. If the wearer has only one lens, the attack bonus is reduced to +0.
 
 Moderate enchantment; CL 7th; Craft Wondrous Item, Heighten Spell, charm person; Price 56,000 gp for a pair.

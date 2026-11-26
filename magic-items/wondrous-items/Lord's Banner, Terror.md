@@ -25,6 +25,6 @@ A _lord's banner_ is a cloth flag or standard, typically at least 2 feet wide an
 
 A _lord's banner_ may be carried (on foot or mounted) or planted. In the latter case, the banner does not need a bearer, but if it is toppled or touched by an enemy, it loses its effectiveness until reclaimed and replanted by allies of its owner.
 
-**Terror**: Enemies of the bearer of a _lord's banner of terror_, while within 30 feet and able to see the banner, must make a Will saving throw (DC 16) or become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]], fleeing as quickly as possible for as long as they can see the banner. Those that succeed on the save are [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]]. A creature that makes its saving throw is immune to the banner's effects for 1 day.
+**Terror**: Enemies of the bearer of a _lord's banner of terror_, while within 30 feet and able to see the banner, are attacked against their Will at +6, and on a hit become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]], fleeing as quickly as possible for as long as they can see the banner. Those it misses are [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]]. A creature the banner misses is immune to the banner's effects for 1 day.
 
 Moderate (various schools); CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Fear|fear]]_; Price 56,000 gp; Cost 28,000 gp; Weight 3 lbs.

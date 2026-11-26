@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Mindmaster's Eyes
 
-This pair of thin and faceted ruby crystals fit over the wearer's eyes. On command, the wearer can use _[[rangoric-srd/spells/Charm Monster|charm monster]]_ (Will DC 19 to negate), or once per day the wearer can use _[[rangoric-srd/spells/Dominate Person|dominate person]]_ (Will DC 20 to negate) instead.
+This pair of thin and faceted ruby crystals fit over the wearer's eyes. On command, the wearer can use _[[rangoric-srd/spells/Charm Monster|charm monster]]_ (+9 vs Will), or once per day the wearer can use _[[rangoric-srd/spells/Dominate Person|dominate person]]_ (+10 vs Will) instead.
 
 Strong enchantment; CL 11th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Charm Monster|charm monster]]_, _[[rangoric-srd/spells/Dominate Person|dominate person]]_; Price 95,000 gp; Cost 47,500 gp.

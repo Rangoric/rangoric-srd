@@ -22,6 +22,6 @@ tags: [rangoric, rangoric/magic-item]
 
 When wrapped around the neck and jaw, this swath of black cloth lets its wearer see normally in a [[rangoric-srd/rules/Wilderness, Weather, and Environment#Sandstorms|sandstorm]] (her vision isn't reduced, nor does she take the –4 penalty on [[rangoric-srd/skills/Perception|Perception]] checks) and avoid taking nonlethal damage from the storm.
 
-Once per day on command, the shawl's wearer can emit a strange cackling. Enemies within 30 feet of the shawl's wearer who can hear the cackling must succeed at a DC 16 Will saving throw or become [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] for 1 round. Those who succeed at the saving throw are [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1d4 rounds instead. Both of the cackle's effects are sonic mind-affecting fear effects.
+Once per day on command, the shawl's wearer can emit a strange cackling. Enemies within 30 feet of the shawl's wearer who can hear the cackling are attacked against their Will at +6, and on a hit become [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] for 1 round. Those it misses are [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1d4 rounds instead. Both of the cackle's effects are sonic mind-affecting fear effects.
 
 Moderate abjuration and necromancy; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Fear|fear]]_; Price 11,000 gp; Cost 5,500 gp.

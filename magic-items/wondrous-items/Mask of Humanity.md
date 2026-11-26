@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Mask of Humanity
 
-Human craftsmen create their masks to impress both friend and foe alike. The Charisma score of anyone wearing one of these masks receives an enhancement bonus of +4. Additionally, the wearer receives a +4 morale bonus to all fear-based saving throws.
+Human craftsmen create their masks to impress both friend and foe alike. The Charisma score of anyone wearing one of these masks receives an enhancement bonus of +4. Additionally, the wearer receives a +4 morale bonus on all defenses against fear.
 
 This is one of the [[rangoric-srd/magic-items/Racial Masks|racial masks]].
 

@@ -20,6 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Goggles of Brilliant Light
 
-These sturdy goggles have a mirror sheen on the outside of their lenses, a wrapping of leather holding them snugly in place. This tint blocks a considerable amount of natural light. Twice per day, the goggles' wearer can emit bright light on command to a range of 30 feet. Any creature within that area must succeed at a DC 13 Fortitude saving throw or be [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1 hour. In addition, the wearer also gains a +2 resistance bonus on saving throws against visual effects.
+These sturdy goggles have a mirror sheen on the outside of their lenses, a wrapping of leather holding them snugly in place. This tint blocks a considerable amount of natural light. Twice per day, the goggles' wearer can emit bright light on command to a range of 30 feet. Any creature within that area is attacked against its Fortitude at +3, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1 hour. In addition, the wearer also gains a +2 resistance bonus on defenses against visual effects.
 
 Faint evocation; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_; Price 8,800 gp; Cost 4,400 gp.

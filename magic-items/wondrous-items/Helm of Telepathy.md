@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Helm of Telepathy
 
-The wearer can use detect thoughts at will. Furthermore, he can send a telepathic message to anyone whose surface thoughts he is reading (allowing two-way communication). Once per day, the wearer of the helm can implant a suggestion (as the spell, Will DC 14 negates) along with his telepathic message.
+The wearer can use detect thoughts at will. Furthermore, he can send a telepathic message to anyone whose surface thoughts he is reading (allowing two-way communication). Once per day, the wearer of the helm can implant a suggestion (as the spell, +4 vs Will) along with his telepathic message.
 
 Faint divination and enchantment; CL 5th; Craft Wondrous Item, detect thoughts, suggestion; Price 27,000 gp;Weight 3 lb.

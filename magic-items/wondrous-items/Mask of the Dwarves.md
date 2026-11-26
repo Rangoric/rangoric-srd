@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Mask of the Dwarves
 
-Dwarves use their masks to augment their physical toughness with magical resistance. This mask provides its wearer with spell resistance of 15 and a luck bonus of +3 on all Will saving throws.
+Dwarves use their masks to augment their physical toughness with magical resistance. This mask provides its wearer with spell resistance of 15 and a luck bonus of +3 on Will Defense.
 
 This is one of the [[rangoric-srd/magic-items/Racial Masks|racial masks]].
 

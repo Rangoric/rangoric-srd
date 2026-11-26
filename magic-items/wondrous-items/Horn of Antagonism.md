@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Horn of Antagonism
 
-Carved from the bone of some giant beast, this large horn emits an eerie, heart-lurching moan when sounded. A creature with the [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] class feature may blow the horn as a standard action to daze one type of favored enemy within 90 feet for 1d4 rounds (DC 13 Will save negates). Creatures suffer a penalty on this save equal to the [[rangoric-srd/classes/Ranger|ranger]]'s favored enemy bonus against that type of creature. This is a sonic, mind-affecting effect; creatures that cannot hear the horn are immune to its magic. The horn's magic works once per day.
+Carved from the bone of some giant beast, this large horn emits an eerie, heart-lurching moan when sounded. A creature with the [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] class feature may blow the horn as a standard action to daze one type of favored enemy within 90 feet for 1d4 rounds (+3 vs Will). Creatures suffer a penalty on this defense equal to the [[rangoric-srd/classes/Ranger|ranger]]'s favored enemy bonus against that type of creature. This is a sonic, mind-affecting effect; creatures that cannot hear the horn are immune to its magic. The horn's magic works once per day.
 
 Faint enchantment; CL 3rd; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], _[[rangoric-srd/spells/Daze Monster|daze monster]]_; Price 20,000 gp; Cost 10,000 gp; Weight 4 lbs.
