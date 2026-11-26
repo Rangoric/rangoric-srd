@@ -13,4 +13,4 @@ tags: [rangoric, rangoric/feat, epic]
 
 Prerequisite: Con 25, [[rangoric-srd/feats/Great Fortitude|Great Fortitude]].
 
-Benefit: The character is immune to all nonmagical diseases, as well as to all poisons whose Fortitude save DC is 25 or less.
+Benefit: The character is immune to all nonmagical diseases, as well as to all poisons whose attack bonus against Fortitude is +15 or less.

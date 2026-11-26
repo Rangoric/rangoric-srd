@@ -17,4 +17,4 @@ Your critical hits cause opponents to slow down.
 
 **Prerequisites**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], base attack bonus +13.
 
-**Benefit**: Whenever you score a [[rangoric-srd/combat/Combat Actions#^critical-hits|critical hit]], your opponent becomes [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1d4+1 rounds. A successful Fortitude save reduces the duration to 1 round. The DC of this Fortitude save is equal to 10 + your base attack bonus. The effects of this feat do not stack. Additional hits instead add to the duration.
+**Benefit**: Whenever you score a [[rangoric-srd/combat/Combat Actions#^critical-hits|critical hit]], your opponent becomes [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1d4+1 rounds. This attacks its Fortitude, its attack bonus your base attack bonus; on a miss, the duration is 1 round instead. The effects of this feat do not stack. Additional hits instead add to the duration.

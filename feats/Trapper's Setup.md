@@ -17,4 +17,4 @@ You have an instinct for waiting until just the right moment to spring a hazard 
 
 **Prerequisites**: [[rangoric-srd/skills/Craft|Craft]] (traps) 5 ranks.
 
-**Benefit**: When you trigger a [[rangoric-srd/rules/Traps|trap]] by hand against opponents, it gains either a +2 circumstance bonus on melee attack rolls or a +2 circumstance bonus to its save DC.
+**Benefit**: When you trigger a [[rangoric-srd/rules/Traps|trap]] by hand against opponents, it gains either a +2 circumstance bonus on melee attack rolls or a +2 circumstance bonus on its attacks against defenses.

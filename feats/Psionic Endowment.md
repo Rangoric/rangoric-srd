@@ -13,4 +13,4 @@ tags: [rangoric, rangoric/feat, psionic]
 
 You can endow your manifestations with more concentrated focus.
 
-Benefit: To use this feat, you must expend your psionic focus. You add 1 to the save DC of a power you manifest.
+Benefit: To use this feat, you must expend your psionic focus. You add 1 to the attack bonus of a power you manifest.

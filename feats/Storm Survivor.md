@@ -16,4 +16,4 @@ You know how to survive, and even thrive, in the stormiest weather.
 
 **Prerequisites**: [[rangoric-srd/skills/Nature|Nature]] 2 ranks, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] 2 ranks.
 
-**Benefit**: While you are in a storm of any kind (see [[rangoric-srd/rules/Wilderness, Weather, and Environment#Storms|Storms]]), you gain a +2 circumstance bonus on [[rangoric-srd/skills/Perception|Perception]] checks, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks, and saving throws against the storm's own effects. If you have 10 or more ranks in Perception or Fieldcraft, the bonus on checks with that skill increases to +4.
+**Benefit**: While you are in a storm of any kind (see [[rangoric-srd/rules/Wilderness, Weather, and Environment#Storms|Storms]]), you gain a +2 circumstance bonus on [[rangoric-srd/skills/Perception|Perception]] checks, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks, and defenses against the storm's own effects. If you have 10 or more ranks in Perception or Fieldcraft, the bonus on checks with that skill increases to +4.

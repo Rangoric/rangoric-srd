@@ -14,4 +14,4 @@ tags: [rangoric, rangoric/feat]
 
 You rely on your assuredness and sense of self to help keep your mind clear.
 
-**Benefit**: You gain an insight bonus equal to your Charisma modifier (minimum 0) on Will saves against mind-affecting effects.
+**Benefit**: You gain an insight bonus equal to your Charisma modifier (minimum 0) on Will Defense against mind-affecting effects.

@@ -17,6 +17,6 @@ You focus your ki in order to quell the influence of outside spirits on you.
 
 **Prerequisites**: [[rangoric-srd/classes/Monk#^monk-ki-pool|Ki pool]] class feature, [[rangoric-srd/classes/Monk#^monk-still-mind|still mind]] class feature.
 
-**Benefit**: The saving throw bonus from your still mind class feature applies against [[rangoric-srd/rules/Possession (Rules)|possession]] effects, and as an immediate action you can spend 1 point from your ki pool to double the saving throw bonus provided by still mind.
+**Benefit**: The bonus on defenses from your still mind class feature applies against [[rangoric-srd/rules/Possession (Rules)|possession]] effects, and as an immediate action you can spend 1 point from your ki pool to double the bonus on defenses provided by still mind.
 
 **Normal**: Your still mind class feature applies only against enchantment spells and effects.
