@@ -28,7 +28,7 @@ If your hit point total is negative, but not equal to or greater than your Const
 
 When your negative hit point total is equal to or greater than your Constitution score, you’re dead.
 
-**Massive Damage**: If you ever sustain a single attack that deals damage equal to half your total hit points or more (minimum 50 points of damage) and it doesn’t kill you outright, you must make a DC 15 Fortitude save. If this saving throw fails, you die regardless of your current hit points. If you take that much damage from multiple attacks, no one of which dealt that much by itself, the massive damage rule does not apply. ^massive-damage
+**Massive Damage**: If you ever sustain a single attack that deals damage equal to half your total hit points or more (minimum 50 points of damage) and it doesn’t kill you outright, the damage attacks your Fortitude at +5. If it hits, you die regardless of your current hit points. If you take that much damage from multiple attacks, no one of which dealt that much by itself, the massive damage rule does not apply. ^massive-damage
 
 ##### Disabled (0 Hit Points)
 

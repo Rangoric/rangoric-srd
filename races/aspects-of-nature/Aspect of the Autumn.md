@@ -30,7 +30,7 @@ How these effects work is in [[rangoric-srd/races/aspects-of-nature/Aspects of N
 
 | Facet             | Bonus                          | Penalty                          |
 | ----------------- | ------------------------------ | -------------------------------- |
-| Autumnal Splendor | +1 to Reflex saving throws     | -1 to Fortitude saving throws    |
+| Autumnal Splendor | +1 to Reflex Defense           | -1 to Fortitude Defense          |
 | Darkening Skies   | capable spellcasting (acid)    | crude spellcasting (electricity) |
 | Falling Leaves    | effective spellcasting (sonic) | ineffective spellcasting (force) |
 | The Harvest       | +1 to Attack rolls 3x/day      | -1 to AC 3x/day                  |

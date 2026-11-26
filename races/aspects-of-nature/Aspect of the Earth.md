@@ -31,7 +31,7 @@ How these effects work is in [[rangoric-srd/races/aspects-of-nature/Aspects of N
 | Facet        | Bonus                         | Penalty                          |
 | ------------ | ----------------------------- | -------------------------------- |
 | The Caverns  | practiced spell               | amateur spell                    |
-| Fertile Soil | +1 to Fortitude saving throws | -1 to Reflex saving throws       |
+| Fertile Soil | +1 to Fortitude Defense       | -1 to Reflex Defense             |
 | Mud          | effective spellcasting (cold) | ineffective spellcasting (fire)  |
 | Ooze         | +1 to Attack rolls 3x/day     | -1 to Damage rolls 3x/day        |
 | Stone        | capable spellcasting (acid)   | crude spellcasting (electricity) |

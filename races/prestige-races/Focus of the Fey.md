@@ -32,7 +32,7 @@ Those who undertake the Focus of the Fey yearn to use their minds and fey gifts 
 
 **Details:** A centered creature has evolved a broader mind that allows him to understand life’s mysteries. He is able to guard his own thought processes from outside influences and opposing forces.
 
-**Game Effects:** Immune to charm effects. Gain a +4 insight bonus to all saving throws vs. fear and compulsion effects. Gain a +4 insight bonus on [[rangoric-srd/rules/Concentration (Check)|concentration checks]].
+**Game Effects:** Immune to charm effects. Gain a +4 insight bonus to all defenses vs. fear and compulsion effects. Gain a +4 insight bonus on [[rangoric-srd/rules/Concentration (Check)|concentration checks]].
 
 ### Fair Creature
 
@@ -56,7 +56,7 @@ Those who undertake the Focus of the Fey yearn to use their minds and fey gifts 
 
 **Details:** A discerning creature has evolved a sharpened intellect allowing him to more easily see through illusions and resist enchantments.
 
-**Game Effects:** Gain +2 racial adjustment to Wisdom. Gain the feat [[rangoric-srd/feats/Iron Will|Iron Will]] and a +4 insight bonus to Will saving throws versus illusions and enchantment effects. Gain a +4 insight bonus on all [[rangoric-srd/skills/Deception|Deception]] checks to pass secret messages and on all [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks.
+**Game Effects:** Gain +2 racial adjustment to Wisdom. Gain the feat [[rangoric-srd/feats/Iron Will|Iron Will]] and a +4 insight bonus to Will Defense versus illusions and enchantment effects. Gain a +4 insight bonus on all [[rangoric-srd/skills/Deception|Deception]] checks to pass secret messages and on all [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks.
 
 ### Fey Creature
 

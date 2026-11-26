@@ -82,13 +82,13 @@ _Restore Vitality_: You suppress [[rangoric-srd/rules/Special Abilities and Cond
 
 _Suspend Affliction_: You treat one [[rangoric-srd/rules/Afflictions#Curse|curse]], [[rangoric-srd/rules/Afflictions#Disease|disease]] or [[rangoric-srd/rules/Afflictions#Poison|poison]] affecting a creature. You enter a deep trance for 1 hour while you treat the subject, then attempt your Medicine check. If you succeed, you suspend the affliction’s effects for 1 hour, plus 1 hour for every 5 by which you exceed the DC. This time doesn’t count against the effect’s duration (if any). The affliction can still be cured by other means while it’s suspended.
 
-_Remove Affliction_: You can try to remove an affliction permanently in an 8-hour ceremony, after which you attempt a Medicine check. If your result is at least double the affliction’s DC, the sufferer can attempt another saving throw against the original DC to cast off the effect permanently.
+_Remove Affliction_: You can try to remove an affliction permanently in an 8-hour ceremony, after which you attempt a Medicine check. If your result is at least double 10 + the affliction’s attack bonus, the affliction attacks the sufferer once more with its original attack bonus, and is cast off permanently if it misses.
 
-| Task               | DC                              |
-| ------------------ | ------------------------------- |
-| Restore vitality   | Effect’s save DC                |
-| Suspend affliction | Affliction’s save DC            |
-| Remove affliction  | Double the affliction’s save DC |
+| Task               | DC                                          |
+| ------------------ | ------------------------------------------- |
+| Restore vitality   | 10 + the effect’s attack bonus              |
+| Suspend affliction | 10 + the affliction’s attack bonus          |
+| Remove affliction  | Double (10 + the affliction’s attack bonus) |
 
 **Action**: Restoring vitality and suspending an affliction each take 1 hour in a quiet place. Removing an affliction permanently takes 8 hours of heavy activity.
 

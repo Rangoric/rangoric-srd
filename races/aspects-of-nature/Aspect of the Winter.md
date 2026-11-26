@@ -28,10 +28,10 @@ Those who take up the Aspect of the Winter feel that the winter process of hiber
 
 How these effects work is in [[rangoric-srd/races/aspects-of-nature/Aspects of Nature#Aspect of Nature Effects|Aspect of Nature Effects]].
 
-| Facet             | Bonus                           | Penalty                       |
-| ----------------- | ------------------------------- | ----------------------------- |
-| The Howling Winds | +1 to Attack rolls 3x/day       | -1 AC 3x/day                  |
-| The Ice           | +1 to Will saving throws        | -1 to Fortitude saving throws |
-| The Snowdrifts    | spell resistant (electricity)   | spell vulnerable (sonic)      |
-| Stormy Skies      | capable spellcasting (darkness) | crude spellcasting (light)    |
-| Winter’s Grip     | spell resistant (cold)          | spell vulnerable (fire)       |
+| Facet             | Bonus                           | Penalty                    |
+| ----------------- | ------------------------------- | -------------------------- |
+| The Howling Winds | +1 to Attack rolls 3x/day       | -1 AC 3x/day               |
+| The Ice           | +1 to Will Defense              | -1 to Fortitude Defense    |
+| The Snowdrifts    | spell resistant (electricity)   | spell vulnerable (sonic)   |
+| Stormy Skies      | capable spellcasting (darkness) | crude spellcasting (light) |
+| Winter’s Grip     | spell resistant (cold)          | spell vulnerable (fire)    |

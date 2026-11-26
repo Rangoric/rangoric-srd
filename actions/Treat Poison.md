@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/action, first-aid]
 
 A [[rangoric-srd/actions/First Aid|First Aid]] action: make a [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] or [[rangoric-srd/skills/Medicine|Medicine]] check.
 
-**DC**: The poison’s save DC.
+**DC**: 10 + the poison’s attack bonus.
 
-You tend a single character who has been poisoned and who is going to take more damage from the poison (or suffer some other effect). Every time the poisoned character makes a saving throw against the poison, you make a check. If your check exceeds the poison’s DC, the character gets a +4 competence bonus on that saving throw.
+You tend a single character who has been poisoned and who is going to take more damage from the poison (or suffer some other effect). Every time the poison attacks the poisoned character, you make a check. If your check exceeds 10 + the poison’s attack bonus, the character gets a +4 competence bonus on its defense against that attack.

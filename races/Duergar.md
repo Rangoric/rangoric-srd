@@ -25,7 +25,7 @@ Perks:
 - -4 Charisma
 - Slow and Steady: A duergar's speed is never modified by armor or encumbrance.
 - Superior Darkvision: Duergar can see in the dark up to 120 feet; see [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] for how it works.
-- Duergar Immunities: Duergar are immune to paralysis, phantasms, and poison. They gain a +2 racial bonus on saving throws against spells and spell-like abilities.
+- Duergar Immunities: Duergar are immune to paralysis, phantasms, and poison. They gain a +2 racial bonus on defenses against spells and spell-like abilities.
 - Stability: Duergar have the [[rangoric-srd/races/Dwarf|dwarf]]'s [[rangoric-srd/races/Dwarf#^stability|stability]].
 - Spell-Like Abilities: Duergar can use _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ and _[[rangoric-srd/spells/Invisibility|invisibility]]_ once each per day as spell-like abilities, affecting only themselves (caster level equal to the duergar's character level).
 - Light Sensitivity: Duergar have [[rangoric-srd/rules/Special Abilities and Conditions#Light Sensitivity|light sensitivity]].

@@ -22,7 +22,7 @@ Perks:
 - +2 Charisma
 - -2 Wisdom
 - Low-Light Vision: Catfolk have [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]].
-- Cat's Luck: Once per day when a catfolk makes a Reflex saving throw, he can roll the saving throw twice and take the better result. He must decide to use this ability before the saving throw is attempted.
+- Cat's Luck: Once per day when an effect attacks a catfolk’s Reflex Defense, he can make the attacker roll twice and take the worse result. He must decide to use this ability before the attack is rolled.
 - Natural Hunter: +2 racial bonus on [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Stealth|Stealth]], and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks.
 - Sprinter: Catfolk have [[rangoric-srd/races/racial-traits/Sprinter|sprinter]].
 

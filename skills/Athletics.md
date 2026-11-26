@@ -91,7 +91,7 @@ If you have ranks in Athletics and you succeed on an Athletics check, you land o
 
 _Long Athletics_: A long jump is a horizontal jump, made across a gap like a chasm or stream. At the midpoint of the jump, you attain a vertical height equal to one-quarter of the horizontal distance. The DC for the jump is equal to the distance jumped (in feet).
 
-If your check succeeds, you land on your feet at the far end. If you fail the check by less than 5, you don’t clear the distance, but you can make a DC 15 Reflex save to grab the far edge of the gap. You end your movement grasping the far edge. If that leaves you dangling over a chasm or gap, getting up requires a move action and a DC 15 Athletics check.
+If your check succeeds, you land on your feet at the far end. If you fail the check by less than 5, you don’t clear the distance, but you can make a DC 15 Reflex check (1d20 + your Reflex save bonus) to grab the far edge of the gap. You end your movement grasping the far edge. If that leaves you dangling over a chasm or gap, getting up requires a move action and a DC 15 Athletics check.
 
 | Long Athletics Distance | Athletics DC (1) |
 | ----------------------- | ---------------- |

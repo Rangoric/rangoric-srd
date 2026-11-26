@@ -24,7 +24,7 @@ Perks:
 - +2 Charisma
 - -2 Constitution
 - Darkvision: Drow can see in the dark up to 120 feet; see [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] for how it works.
-- Drow Immunities: Drow are immune to magic sleep effects and gain a +2 racial bonus on saving throws against enchantment spells and effects.
+- Drow Immunities: Drow are immune to magic sleep effects and gain a +2 racial bonus on defenses against enchantment spells and effects.
 - Keen Senses: +2 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
 - Light Blindness: Drow have [[rangoric-srd/rules/Special Abilities and Conditions#Light Blindness|light blindness]].
 - Poison Use: Drow have [[rangoric-srd/races/racial-traits/Poison Use|poison use]].

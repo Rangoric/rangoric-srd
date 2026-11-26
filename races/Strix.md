@@ -24,7 +24,7 @@ Perks:
 - Senses: Strix have [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]] and can see in the dark up to 60 feet (see [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]]).
 - Hatred: Strix receive a +1 racial bonus on attack rolls against humanoid creatures with the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^human|human subtype]] because of their special training against these hated foes.
 - Nocturnal: Strix gain a +2 racial bonus on [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Stealth|Stealth]] checks in dim light or darkness.
-- Suspicious: Strix receive a +2 racial bonus on saving throws against illusion spells and effects.
+- Suspicious: Strix receive a +2 racial bonus on defenses against illusion spells and effects.
 
 Languages:
 

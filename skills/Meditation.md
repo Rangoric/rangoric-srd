@@ -39,9 +39,9 @@ Memorize: You can attempt to memorize a long string of numbers, a long passage o
 
 Resist Dying: You can attempt to subconsciously prevent yourself from [[rangoric-srd/rules/Special Abilities and Conditions#^dying|dying]]. If you have negative hit points and are losing hit points (at 1 per round, 1 per hour), you can substitute a DC 20 Meditation check for your d% roll to see if you become [[rangoric-srd/rules/Special Abilities and Conditions#^stable|stable]]. If the check is successful, you stop losing hit points (you do not gain any hit points, however, as a result of the check). You can substitute this check for the d% roll in later rounds if you are initially unsuccessful.
 
-Resist Fear: In response to any fear effect, you make a saving throw normally. If you fail the saving throw, you can make a Meditation check on your next round even while overcome by fear. If your Meditation check meets or beats the DC for the fear effect, you shrug off the fear. On a failed check, the fear affects you normally, and you gain no further attempts to shrug off that particular fear effect.
+Resist Fear: A fear effect attacks you normally. If it hits, you can make a Meditation check on your next round even while overcome by fear. If your Meditation check meets or beats 10 + the fear effect’s attack bonus, you shrug off the fear. On a failed check, the fear affects you normally, and you gain no further attempts to shrug off that particular fear effect.
 
-Tolerate Poison: You can choose to substitute a Meditation check for any saving throw against a poison after the first. This skill has no effect on the first saving throw against a poison.
+Tolerate Poison: You can choose to use 10 + your Meditation bonus in place of your Fortitude Defense against any attack of a poison after the first. This skill has no effect on a poison’s first attack.
 
 Willpower: If reduced to 0 hit points ([[rangoric-srd/rules/Special Abilities and Conditions#^disabled|disabled]]), you can make a Meditation check. If successful, you can take a normal action while at 0 hit points without taking 1 point of damage. You must make a check for each strenuous action you want to take. A failed Meditation check in this circumstance carries no direct penalty - you can choose not to take the strenuous action and thus avoid the hit point loss. If you do so anyway, you drop to -1 hit points, as normal when disabled.
 
@@ -60,9 +60,9 @@ Try Again: Yes, for memorize and willpower uses, though a success doesn’t canc
 The character has trained his or her mind to ignore poison, resist mental influence, and convince his or her body that he or she is tougher than normal.  
 Mortal wounds are less lethal for the character.
 
-Ignore Poison Damage: When poisoned, the character can make a Meditation check on his or her next action. A successful check indicates the character ignores the poison’s next saving throw and its effect.
+Ignore Poison Damage: When poisoned, the character can make a Meditation check on his or her next action. A successful check indicates the character ignores the poison’s next attack and its effect.
 
-Resist Mind-Affecting Effect: If a failed saving throw indicates the character is affected by any mind-affecting powers, spells, or spell-like effects, a successful Meditation check allows an immediate second saving throw to resist the effect. If the mind-affecting effect normally does not allow a saving throw, a successful Meditation check allows a saving throw.
+Resist Mind-Affecting Effect: If the character fails its save against any mind-affecting powers, spells, or spell-like effects, a successful Meditation check makes the effect attack again at once, and the character resists it on a miss. If the mind-affecting effect normally has no defense, a successful Meditation check makes it attack the character’s Will, and the character resists it on a miss.
 
 Temporary Hit Points: With a successful Meditation check, the character gains temporary hit points equal to 10 + his or her Wisdom modifier. The temporary hit points persist until lost. A character cannot check for temporary hit points more than once per day. Temporary hit points gained through Meditation do not stack with temporary hit points gained through any other source
 

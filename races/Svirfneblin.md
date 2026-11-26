@@ -26,12 +26,12 @@ Perks:
 - -4 Charisma
 - Defensive Training: Svirfneblin have [[rangoric-srd/races/racial-traits/Defensive Training (Svirfneblin Trait)|their own defensive training]].
 - Senses: Svirfneblin can see in the dark up to 120 feet (see [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]]) and have [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]].
-- Fortunate: +2 racial bonus on all saving throws.
+- Fortunate: +2 racial bonus on all defenses.
 - Skilled: +2 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks, which improves to +4 underground, and +2 racial bonus on [[rangoric-srd/skills/Craft|Craft]] (alchemy) and [[rangoric-srd/skills/Perception|Perception]] checks.
 - Hatred: +1 bonus on attack rolls against humanoid creatures of the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^reptilian|reptilian]] and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dwarf|dwarf]] subtypes.
 - Stonecunning: Svirfneblin have the [[rangoric-srd/races/Dwarf|dwarf]]'s [[rangoric-srd/races/Dwarf#^dwarf-stonecunning|stonecunning]].
 - Spell Resistance: Svirfneblin have [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] equal to 11 plus their class levels.
-- Svirfneblin Magic: Add +1 to the Difficulty Class for all saving throws against illusion spells cast by svirfneblin. Svirfneblin also have the following spell-like abilities: Constant—_[[rangoric-srd/spells/Nondetection|nondetection]]_; 1/day—_[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_, _[[rangoric-srd/spells/Blur|blur]]_, _[[rangoric-srd/spells/Disguise Self|disguise self]]_ (caster level equal to the svirfneblin's character level).
+- Svirfneblin Magic: Add +1 to the attack bonus of all illusion spells cast by svirfneblin. Svirfneblin also have the following spell-like abilities: Constant—_[[rangoric-srd/spells/Nondetection|nondetection]]_; 1/day—_[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_, _[[rangoric-srd/spells/Blur|blur]]_, _[[rangoric-srd/spells/Disguise Self|disguise self]]_ (caster level equal to the svirfneblin's character level).
 - Weapon Familiarity: Svirfneblin treat any weapon with the word “gnome” in its name as a martial weapon.
 
 Languages:

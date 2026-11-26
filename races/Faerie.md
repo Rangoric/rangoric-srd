@@ -23,7 +23,7 @@ Perks:
 - -2 Wisdom
 - -2 Strength
 - Ageless: Faeries do not age like mortals, and cannot die from old age. Upon reaching adulthood by roughly 20 human years, they gain the ability to halt their physical aging at any point. Since the appearances of faeries differ considerably, many halt their aging at a point where they feel most comfortable with their appearance.
-- Fey Blood: Faeries have a +1 racial bonus on saving throws against illusion and enchantment spells and spell-like abilities, which increases by +1 for every four levels they attain (see [[rangoric-srd/races/racial-traits/Fey Blood|fey blood]]).
+- Fey Blood: Faeries have a +1 racial bonus on defenses against illusion and enchantment spells and spell-like abilities, which increases by +1 for every four levels they attain (see [[rangoric-srd/races/racial-traits/Fey Blood|fey blood]]).
 - Low-Light Vision: Faeries have [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]].
 - Weapon Familiarity: Given their nature of sneaking about, faeries are adept at using weapons that do not interfere with stealth. Faeries are proficient with the short sword and the shortbow.
 - Faerie Traits: At 3rd level, a faerie may pick one ECL point’s worth of [[rangoric-srd/races/Faerie#Faerie Traits|faerie traits]] (including spell-like abilities). Every three levels after that, a faerie can select another half ECL point’s worth of traits, or save them to buy more expensive traits later.

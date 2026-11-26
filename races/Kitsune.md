@@ -24,7 +24,7 @@ Perks:
 - Low-Light Vision: Kitsune have [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]].
 - Change Shape (Su): A kitsune can assume the appearance of a specific single human form of the same sex. The kitsune always takes this specific form when she uses this ability. A kitsune in human form cannot use her bite attack, but gains a +10 racial bonus on [[rangoric-srd/skills/Imitation|Imitation]] checks made to appear human. Changing shape is a standard action. This ability otherwise functions as _[[rangoric-srd/spells/Alter Self|alter self]]_, except that the kitsune does not adjust her ability scores and the form lasts 1 hour per character level.
 - Agile: +2 racial bonus on [[rangoric-srd/skills/Acrobatics|Acrobatics]] checks.
-- Kitsune Magic: Kitsune add +1 to the DC of any saving throws against enchantment spells that they cast. Kitsune with a Charisma score of 11 or higher gain the following spell-like ability: 3/day—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_ (caster level equal to the kitsune's character level).
+- Kitsune Magic: Kitsune add +1 to the attack bonus of enchantment spells that they cast. Kitsune with a Charisma score of 11 or higher gain the following spell-like ability: 3/day—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_ (caster level equal to the kitsune's character level).
 - Natural Weapon: In her natural form, a kitsune has a bite attack that deals 1d4 points of damage (see [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^natural-weapons|natural weapons]]).
 
 Languages:

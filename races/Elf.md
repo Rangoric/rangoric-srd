@@ -27,7 +27,7 @@ Perks:
 - +2 Dexterity
 - +2 Intelligence
 - -2 Constitution
-- Elven Immunities: Immunity to magic sleep effects, and a +2 racial saving throw bonus against enchantment spells or effects. ^elf-elven-immunities
+- Elven Immunities: Immunity to magic sleep effects, and a +2 racial bonus on defenses against enchantment spells or effects. ^elf-elven-immunities
 - Elven Magic: +2 racial bonus on caster level checks made to overcome spell resistance, and a +2 racial bonus on skill checks made to identify the properties of magic items.
 - Keen Senses: +2 racial bonus on [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Investigation|Investigation]] checks. An elf who merely passes within 5 feet of a secret or concealed door is entitled to an Investigation check to notice it as if she were actively looking for it.
 - Low-Light Vision: Elves have [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]]. ^elf-low-light-vision

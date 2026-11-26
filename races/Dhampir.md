@@ -23,11 +23,11 @@ Perks:
 - -2 Constitution
 - Senses: Dhampirs have [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]] and can see in the dark up to 60 feet; see [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] for how it works.
 - Manipulative: +2 racial bonus on [[rangoric-srd/skills/Deception|Deception]] and [[rangoric-srd/skills/Perception|Perception]] checks.
-- Undead Resistance: +2 racial bonus on saving throws against disease and mind-affecting effects.
+- Undead Resistance: +2 racial bonus on defenses against disease and mind-affecting effects.
 - Light Sensitivity: Dhampirs have [[rangoric-srd/rules/Special Abilities and Conditions#Light Sensitivity|light sensitivity]].
 - Negative Energy Affinity: Though a living creature, a dhampir has [[rangoric-srd/monsters/abilities/Negative Energy Affinity|negative energy affinity]].
 - Spell-Like Ability: Dhampirs can use _[[rangoric-srd/spells/Detect Undead|detect undead]]_ three times per day as a spell-like ability (caster level equal to the dhampir's character level).
-- Resist Level Drain: A dhampir takes no penalties from [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|energy drain]] effects, though he can still be killed if he accrues more negative levels than he has Hit Dice. After 24 hours, any negative levels a dhampir takes are removed without the need for an additional saving throw.
+- Resist Level Drain: A dhampir takes no penalties from [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|energy drain]] effects, though he can still be killed if he accrues more negative levels than he has Hit Dice. After 24 hours, any negative levels a dhampir takes are removed without another attack.
 
 Languages:
 

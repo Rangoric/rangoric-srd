@@ -21,7 +21,7 @@ Perks:
 - -2 Dexterity
 - -1 Charisma
 - Ageless: Bogies do not age like mortals, and cannot die from old age. They look grizzled and wrinkled at birth, and while growing slowly larger, they never really seem to grow older.
-- Fey Blood: Bogies have a +1 racial bonus on saving throws against illusion and enchantment spells and spell-like abilities, which increases by +1 for every three levels they attain (see [[rangoric-srd/races/racial-traits/Fey Blood|fey blood]]).
+- Fey Blood: Bogies have a +1 racial bonus on defenses against illusion and enchantment spells and spell-like abilities, which increases by +1 for every three levels they attain (see [[rangoric-srd/races/racial-traits/Fey Blood|fey blood]]).
 - Darkvision: Bogies are creatures of late night darkness and can see in the dark up to 90 feet; see [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] for how it works.
 - Faerie Traits: At 3rd level, a bogie may pick one ECL point’s worth of [[rangoric-srd/races/Faerie#Faerie Traits|faerie traits]] (including spell-like abilities). Every four levels after that, a bogie can select another half ECL point’s worth of traits, or save them to buy more expensive traits later.
 - Spell-Like Abilities: 3/day—_[[rangoric-srd/spells/Good Luck|good luck]]_ or _[[rangoric-srd/spells/Bad Luck|bad luck]]_ (its choice each time), _[[rangoric-srd/spells/Invisibility|invisibility]]_; 1/day—_[[rangoric-srd/spells/Charm Person|charm person]]_ (caster level equal to the bogie’s character level).

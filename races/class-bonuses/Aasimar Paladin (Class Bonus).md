@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/class-bonus]
 
 _An [[rangoric-srd/races/Aasimar|aasimar]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Paladin#^paladin-class-bonuses|paladin]] level._
 
-Add +1/6 to the morale bonus on saving throws provided by the paladin's auras.
+Add +1/6 to the morale bonus on defenses provided by the paladin's auras.

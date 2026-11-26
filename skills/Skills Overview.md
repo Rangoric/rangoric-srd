@@ -37,7 +37,7 @@ tags: [rangoric, rangoric/overview]
 
 **1d20 + skill modifier (Skill modifier = skill rank + ability modifier + class skill bonus + miscellaneous modifiers)**
 
-This roll works just like an attack roll or a saving throw— the higher the roll, the better. Either you’re trying to match or exceed a certain Difficulty Class (DC), or you’re trying to beat another character’s check result.
+This roll works just like an attack roll— the higher the roll, the better. Either you’re trying to match or exceed a certain Difficulty Class (DC), or you’re trying to beat another character’s check result.
 
 **Ability Modifier**: The ability modifier used in a skill check is the modifier for the skill’s key ability (the ability associated with the skill’s use). The key ability of each skill is noted in its description.
 
@@ -55,7 +55,7 @@ Even near-magical uses of skills are exceptional abilities (unless noted otherwi
 
 A skill check takes into account a character’s training (skill rank), natural talent (ability modifier), and luck (the die roll). It may also take into account his or her race’s knack for doing certain things (racial bonus) or what armor he or she is wearing (armor check penalty), or a certain feat the character possesses, among other things.
 
-To make a skill check, roll 1d20 and add your character’s skill modifier for that skill. The skill modifier incorporates the character’s ranks in that skill and the ability modifier for that skill’s key ability, plus any other miscellaneous modifiers that may apply, including racial bonuses and armor check penalties. The higher the result, the better. Unlike with attack rolls and saving throws, a natural roll of 20 on the d20 is not an automatic success, and a natural roll of 1 is not an automatic failure.
+To make a skill check, roll 1d20 and add your character’s skill modifier for that skill. The skill modifier incorporates the character’s ranks in that skill and the ability modifier for that skill’s key ability, plus any other miscellaneous modifiers that may apply, including racial bonuses and armor check penalties. The higher the result, the better. Unlike with attack rolls against Armor Class, a natural roll of 20 on the d20 is not an automatic success, and a natural roll of 1 is not an automatic failure.
 
 ###### Difficulty Class
 

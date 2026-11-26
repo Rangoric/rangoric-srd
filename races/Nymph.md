@@ -23,7 +23,7 @@ Perks:
 - -1 Constitution
 - Spell-Like Abilities: A nymph gains her spellcasting and spell-like abilities from the [[rangoric-srd/classes/Nymph (Racial Class)|Nymph (Racial Class)]].
 - Ageless: Nymphs do not age like mortals, and cannot die from old age. Upon reaching young adulthood (roughly 20 human years), nymphs cease to age. Unlike other fey species, they have no control over this part of their physiology.
-- Fey Blood: Nymphs have a +2 racial bonus on saving throws against illusion and enchantment spells and spell-like abilities, which increases by +1 for every two levels they attain (see [[rangoric-srd/races/racial-traits/Fey Blood|fey blood]]).
+- Fey Blood: Nymphs have a +2 racial bonus on defenses against illusion and enchantment spells and spell-like abilities, which increases by +1 for every two levels they attain (see [[rangoric-srd/races/racial-traits/Fey Blood|fey blood]]).
 - Low-Light Vision: Nymphs have [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]].
 
 Languages:

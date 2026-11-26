@@ -69,17 +69,17 @@ When making a melee attack against an adjacent target, your target has cover if 
 
 **Cover and Attacks of Opportunity**: You can’t execute an attack of opportunity against an opponent with cover relative to you.
 
-**Cover and Reflex Saves**: Cover grants you a +2 bonus on Reflex saves against attacks that originate or burst out from a point on the other side of the cover from you. Note that spread effects can extend around corners and thus negate this cover bonus.
+**Cover and Reflex Defense**: Cover grants you a +2 bonus on Reflex Defense against attacks that originate or burst out from a point on the other side of the cover from you. Note that spread effects can extend around corners and thus negate this cover bonus.
 
 **Cover and Stealth Checks**: You can use cover to make a Stealth check. Without cover, you usually need concealment (see below) to make a Stealth check.
 
-**Soft Cover**: Creatures, even your enemies, can provide you with cover against ranged attacks, giving you a +4 bonus to AC. However, such soft cover provides no bonus on Reflex saves, nor does soft cover allow you to make a Stealth check.
+**Soft Cover**: Creatures, even your enemies, can provide you with cover against ranged attacks, giving you a +4 bonus to AC. However, such soft cover provides no bonus on Reflex Defense, nor does soft cover allow you to make a Stealth check.
 
 **Big Creatures and Cover**: Any creature with a space larger than 5 feet (1 square) determines cover against melee attacks slightly differently than smaller creatures do. Such a creature can choose any square that it occupies to determine if an opponent has cover against its melee attacks. Similarly, when making a melee attack against such a creature, you can pick any of the squares it occupies to determine if it has cover against you.
 
 **Total Cover**: If you don’t have line of effect to your target he is considered to have total cover from you. You can’t make an attack against a target that has total cover.
 
-**Varying Degrees of Cover**: In some cases, cover may provide a greater bonus to AC and Reflex saves. In such situations the normal cover bonuses to AC and Reflex saves can be doubled (to +8 and +4, respectively). A creature with this improved cover effectively gains improved evasion against any attack to which the Reflex save bonus applies. Furthermore, improved cover provides a +10 bonus on Stealth checks.
+**Varying Degrees of Cover**: In some cases, cover may provide a greater bonus to AC and Reflex Defense. In such situations the normal cover bonuses to AC and Reflex Defense can be doubled (to +8 and +4, respectively). A creature with this improved cover effectively gains improved evasion against any attack to which the Reflex Defense bonus applies. Furthermore, improved cover provides a +10 bonus on Stealth checks.
 
 ##### Concealment
 
@@ -119,7 +119,7 @@ A helpless opponent is someone who is bound, sleeping, paralyzed, unconscious, o
 
 **Regular Attack**: A helpless character takes a –4 penalty to AC against melee attacks, but no penalty to AC against ranged attacks. A helpless defender can’t use any Dexterity bonus to AC. In fact, his Dexterity score is treated as if it were 0 and his Dexterity modifier to AC as if it were –5 (and a rogue can sneak attack him).
 
-**Coup de Grace**: As a full-round action, you can use a melee weapon to deliver a coup de grace to a helpless opponent. You can also use a bow or crossbow, provided you are adjacent to the target. You automatically hit and score a critical hit. If the defender survives the damage, he must make a Fortitude save (DC 10 + damage dealt) or die. A rogue also gets her extra sneak attack damage against a helpless opponent when delivering a coup de grace.
+**Coup de Grace**: As a full-round action, you can use a melee weapon to deliver a coup de grace to a helpless opponent. You can also use a bow or crossbow, provided you are adjacent to the target. You automatically hit and score a critical hit. If the defender survives the damage, the coup de grace attacks his Fortitude, with an attack bonus equal to the damage dealt, and he dies on a hit. A rogue also gets her extra sneak attack damage against a helpless opponent when delivering a coup de grace.
 
 Delivering a coup de grace provokes attacks of opportunity from threatening opponents.
 

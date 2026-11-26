@@ -39,6 +39,6 @@ You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill
 
 **10 Ranks**: When you successfully identify a creature, you gain a +1 competence bonus on attack rolls, opposed ability checks, skill checks, and caster level checks against creatures of that kind (e.g., glabrezu demons, but not other demons or evil outsiders) for 1 minute. This bonus increases by 1 for every 5 ranks beyond 10 you possess in that Knowledge skill.
 
-**15 Ranks**: When you fail a Knowledge check, you can reroll the check at a –10 penalty. The competence bonus above also applies to saving throws against exceptional, spell-like, or supernatural abilities used by creatures you identify.
+**15 Ranks**: When you fail a Knowledge check, you can reroll the check at a –10 penalty. The competence bonus above also applies to defenses against exceptional, spell-like, or supernatural abilities used by creatures you identify.
 
 **20 Ranks**: Whenever you attempt a Knowledge check, you can roll twice and take the better result.

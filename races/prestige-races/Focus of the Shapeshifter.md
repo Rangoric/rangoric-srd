@@ -45,7 +45,7 @@ Beings adopting the Focus of the Shapeshifter truly embody the spirit and power 
 
 **Details:** Boneknit creatures have evolved a faster healing rate to accommodate the supernatural stresses they put themselves through.
 
-**Game Effects:** The character gains [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 and a +2 resistance bonus to Fortitude saving throws.
+**Game Effects:** The character gains [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 and a +2 resistance bonus to Fortitude Defense.
 
 ### Flexible Creature
 
@@ -69,7 +69,7 @@ Beings adopting the Focus of the Shapeshifter truly embody the spirit and power 
 
 **Details:** A Sizeshifter creature has the ability to change their size at will up or down one size class. While in their natural form, they benefit from a toughened skin that provides a slight armor benefit and their bodily control provides them with better reflexes.
 
-**Game Effects:** A creature gains a +2 enhancement bonus to Reflex saving throws and a +2 inherent bonus to Constitution due to control over natural form. The creature can increase or reduce their size by one class. Regardless of the starting size, a creature shifts to the median size of the adjacent size class (Medium creatures to 3 foot tall Small or 12 foot tall Large, etc.). In most other respects, this ability is an at-will spell-like ability mimicking _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ or _[[rangoric-srd/spells/Reduce Person|reduce person]]_ spells. This ability manifests as a shifting of the physical structure of the creature, and cannot be dispelled. If a creature is killed while in the form of someone or something else, they revert to their natural form at death.
+**Game Effects:** A creature gains a +2 enhancement bonus to Reflex Defense and a +2 inherent bonus to Constitution due to control over natural form. The creature can increase or reduce their size by one class. Regardless of the starting size, a creature shifts to the median size of the adjacent size class (Medium creatures to 3 foot tall Small or 12 foot tall Large, etc.). In most other respects, this ability is an at-will spell-like ability mimicking _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ or _[[rangoric-srd/spells/Reduce Person|reduce person]]_ spells. This ability manifests as a shifting of the physical structure of the creature, and cannot be dispelled. If a creature is killed while in the form of someone or something else, they revert to their natural form at death.
 
 ### Shapeshifter Creature
 
@@ -81,4 +81,4 @@ Beings adopting the Focus of the Shapeshifter truly embody the spirit and power 
 
 **Details:** A Shapeshifter creature has the ability to change their shape at will into nearly any other creature. While in their natural form, they benefit from a toughened skin and form that provides a slight armor and health benefit.
 
-**Game Effects:** The creature gains the spell-like ability _[[rangoric-srd/spells/Polymorph|polymorph]]_ for use at will, targeting only itself. This ability manifests as a shifting of the physical structure of the creature, and cannot be dispelled. If a creature is killed while in the form of someone or something else, they revert to their natural form at death. Gains a +2 enhancement bonus to Fortitude saving throws and a +2 natural bonus to AC.
+**Game Effects:** The creature gains the spell-like ability _[[rangoric-srd/spells/Polymorph|polymorph]]_ for use at will, targeting only itself. This ability manifests as a shifting of the physical structure of the creature, and cannot be dispelled. If a creature is killed while in the form of someone or something else, they revert to their natural form at death. Gains a +2 enhancement bonus to Fortitude Defense and a +2 natural bonus to AC.

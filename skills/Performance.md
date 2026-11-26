@@ -60,7 +60,7 @@ You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill
 
 **5 Ranks**: Whenever you attempt a Deception, Persuasion, Animal Handling, or Intimidation check, you can attempt a DC 20 Performance check to gain a +2 circumstance bonus on the check.
 
-**10 Ranks**: Whenever you cast a spell with the emotion or language-dependent descriptor, you can attempt a DC 25 Performance check to increase the save DC by 1.
+**10 Ranks**: Whenever you cast a spell with the emotion or language-dependent descriptor, you can attempt a DC 25 Performance check to increase the attack bonus by 1.
 
 **15 Ranks**: Whenever you cast a spell with the emotion or language-dependent descriptor, you can attempt a DC 30 Performance check to increase your caster level by 1. You must choose whether to use this ability or the ability unlocked at 10 ranks when casting the spell.
 

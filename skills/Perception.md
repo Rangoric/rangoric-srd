@@ -85,7 +85,7 @@ The character can pinpoint the location of an invisible creature, or detect an i
 
 _Invisible Creatures_: A high enough Perception check can reveal an [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] creature and even pinpoint where it is; the DCs are with invisibility.
 
-_Defeat Illusion_: The character can automatically detect any illusion with a visual or auditory component for what it truly is. No Will save is required, and the character doesn’t have to interact with the illusion (but he or she must be able to see it or hear its auditory component).
+_Defeat Illusion_: The character can automatically detect any illusion with a visual or auditory component for what it truly is. It needs no attack against the character’s Will, and the character doesn’t have to interact with the illusion (but he or she must be able to see it or hear its auditory component).
 
 _Using Perception to Read Lips_
 

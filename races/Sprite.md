@@ -21,7 +21,7 @@ Perks:
 - -2 Strength
 - -1 Intelligence
 - Ageless: Sprites do not age like mortals, and cannot die from old age. Sprites cease to age upon reaching physical maturity as young adults. Like half-fey, they have no control over this part of their physiology.
-- Fey Blood: Sprites have a +1 racial bonus on saving throws against illusion and enchantment spells and spell-like abilities, which increases by +1 for every four levels they attain (see [[rangoric-srd/races/racial-traits/Fey Blood|fey blood]]).
+- Fey Blood: Sprites have a +1 racial bonus on defenses against illusion and enchantment spells and spell-like abilities, which increases by +1 for every four levels they attain (see [[rangoric-srd/races/racial-traits/Fey Blood|fey blood]]).
 - Low-Light Vision: Sprites have [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]].
 - Magic Item Affinity: Sprites are magical creatures by nature, and have an uncanny supernatural ability to operate magic items: [[rangoric-srd/skills/Emulation|Emulation]] is always a class skill for them.
 - Faerie Traits: At 3rd level, a sprite may pick one ECL point’s worth of [[rangoric-srd/races/Faerie#Faerie Traits|faerie traits]] (including spell-like abilities). Every three levels after that, a sprite can select another half ECL point’s worth of traits, or save them to buy more expensive traits later.
