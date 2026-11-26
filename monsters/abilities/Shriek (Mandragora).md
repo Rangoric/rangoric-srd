@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “shriek”, on the Special Attacks line.
 
-Once per day as a standard action, a mandragora can give voice to an unsettling shriek. All creatures within a 30-foot spread of a shrieking mandragora must make a DC 15 Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d4 rounds. This is a sonic, mind-affecting ability. The save DC is Constitution-based. The [[rangoric-srd/monsters/Mandragora|mandragora]] has it.
+Once per day as a standard action, a mandragora can give voice to an unsettling shriek. All creatures within a 30-foot spread of a shrieking mandragora are attacked at +5 vs Will, and on a hit become [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d4 rounds. This is a sonic, mind-affecting ability. The attack bonus is Constitution-based. The [[rangoric-srd/monsters/Mandragora|mandragora]] has it.

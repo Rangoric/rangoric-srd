@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 _[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block_: “stymie channeling”, on the Special Qualities line.
 
-A monaciello gremlin is surrounded by an aura of blasphemy. Any creatures channeling energy within 20 feet of a monaciello must succeed at a DC 12 Will save or be unable to channel for that round. The use is not lost, but the action is wasted. The [[rangoric-srd/monsters/gremlin/Monaciello|monaciello]] has it.
+A monaciello gremlin is surrounded by an aura of blasphemy. Any creatures channeling energy within 20 feet of a monaciello are attacked at +2 vs Will, and on a hit are unable to channel for that round. The use is not lost, but the action is wasted. The [[rangoric-srd/monsters/gremlin/Monaciello|monaciello]] has it.
