@@ -11,7 +11,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./level)"
 target: "One living creature"
 duration: "Instantaneous"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 power-resistance: "Yes"
 power-points: "13"
 based-on:
@@ -31,7 +31,7 @@ Manifesting Time: 1 standard action
 Range: Close (25 ft. + 5 ft./level)  
 Target: One living creature  
 Duration: Instantaneous  
-Saving Throw: Fortitude negates  
+Defense: Fortitude  
 Power Resistance: Yes  
 Power Points: 13
 

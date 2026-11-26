@@ -12,7 +12,7 @@ manifesting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./ level)"
 area: "An opaque sheet of energy up to 20 ft. long/level or a ring of energy with a radius of up to 5 ft./2 levels"
 duration: "Concentration + 1 round/ level"
-saving-throw: "Reflex half or Fortitude half; see text"
+defense: "Reflex half or Fortitude half; see text"
 power-resistance: "No"
 power-points: "5"
 based-on:
@@ -32,7 +32,7 @@ Metacreativity (Creation) \[see text\]
 **Range:** Medium (100 ft. + 10 ft./ level)  
 **Area:** An opaque sheet of energy up to 20 ft. long/level or a ring of energy with a radius of up to 5 ft./2 levels  
 **Duration:** Concentration + 1 round/ level  
-**Saving Throw:** Reflex half or Fortitude half; see text  
+**Defense:** Reflex half or Fortitude half; see text  
 **Power Resistance:** No  
 **Power Points:** 5
 
@@ -42,9 +42,9 @@ If you manifest the wall so that it appears where creatures are, each creature t
 
 If you manifest this power in the form of a ring of energy, you choose whether the waves of energy radiate inward or outward from the ring.
 
-Cold: A sheet of this energy type deals +1 point of damage per die. The saving throw to reduce damage from a cold wall is a Fortitude save instead of a Reflex save.
+Cold: A sheet of this energy type deals +1 point of damage per die. A cold wall attacks Fortitude instead of Reflex.
 
-Electricity: Manifesting a sheet of this energy type provides a +2 bonus to the save DC and a +2 bonus on manifester level checks for the purpose of overcoming power resistance.
+Electricity: Manifesting a sheet of this energy type provides +2 to the attack bonus and a +2 bonus on manifester level checks for the purpose of overcoming power resistance.
 
 Fire: A sheet of this energy type deals +1 point of damage per die.
 

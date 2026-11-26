@@ -12,7 +12,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One humanoid"
 duration: "1 hour/level"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "1"
 based-on:
@@ -32,7 +32,7 @@ Manifesting Time: 1 standard action
 Range: Close (25 ft. + 5 ft./2 levels)  
 Target: One humanoid  
 Duration: 1 hour/level  
-Saving Throw: Will negates  
+Defense: Will  
 Power Resistance: Yes  
 Power Points: 1
 
@@ -46,4 +46,4 @@ Augment: You can augment this power in one or more of the following ways.
 
 3\. If you spend 4 additional power points, this power’s duration increases to one day per level.
 
-In addition, for every 2 additional power points you spend to achieve any of these effects, this power’s save DC increases by 1.
+In addition, for every 2 additional power points you spend to achieve any of these effects, this power’s attack bonus increases by 1.

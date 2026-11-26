@@ -11,7 +11,7 @@ manifesting-time: "1 standard action"
 range: "Medium (100 ft. +10 ft./level)"
 target: "One creature"
 duration: "Instantaneous"
-saving-throw: "Will half; see text"
+defense: "Will half; see text"
 power-resistance: "Yes"
 power-points: "3"
 based-on:
@@ -31,10 +31,10 @@ Manifesting Time: 1 standard action
 Range: Medium (100 ft. +10 ft./level)  
 Target: One creature  
 Duration: Instantaneous  
-Saving Throw: Will half; see text  
+Defense: Will half; see text  
 Power Resistance: Yes  
 Power Points: 3
 
-Your rapid mental lashings assault the ego of your enemy, debilitating its confidence. The target takes 1d4 points of Charisma [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], or half that amount (minimum 1 point) on a successful save. A target that fails its save is also [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1 round.
+Your rapid mental lashings assault the ego of your enemy, debilitating its confidence. The target takes 1d4 points of Charisma [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], or half that amount (minimum 1 point) on a miss. A target that fails its save is also [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1 round.
 
-Augment: For every 4 additional power points you spend, this power’s Charisma damage increases by 1d4 points and its save DC increases by 2.
+Augment: For every 4 additional power points you spend, this power’s Charisma damage increases by 1d4 points and its attack bonus increases by 2.

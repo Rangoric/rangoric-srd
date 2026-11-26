@@ -12,7 +12,7 @@ manifesting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./ level)"
 target: "One breathing humanoid"
 duration: "1 round/level"
-saving-throw: "Will negates, Fortitude partial; see text"
+defense: "Will, Fortitude partial; see text"
 power-resistance: "Yes"
 power-points: "5"
 based-on:
@@ -32,17 +32,17 @@ Manifesting Time: 1 standard action
 Range: Medium (100 ft. + 10 ft./ level)  
 Target: One breathing humanoid  
 Duration: 1 round/level  
-Saving Throw: Will negates, Fortitude partial; see text  
+Defense: Will, Fortitude partial; see text  
 Power Resistance: Yes  
 Power Points: 5
 
 You compel the subject to purge its entire store of air in one explosive exhalation, and thereby disrupt the subject’s autonomic breathing cycle. The subject’s lungs do not automatically function again while the power’s duration lasts.
 
-If the target succeeds on a Will save when crisis of breath is manifested, it is unaffected by this power. If it fails its Will save, it can still continue to breathe by taking a standard action in each round to gasp for breath.
+If crisis of breath misses the target’s Will when it is manifested, the target is unaffected by this power. If it hits, the target can still continue to breathe by taking a standard action in each round to gasp for breath.
 
-An affected creature can attempt to take actions normally (instead of consciously controlling its breathing), but each round it does so, beginning in the round when it failed its Will save, the subject risks blacking out from lack of oxygen. It must succeed on a Fortitude save at the end of any of its turns in which it did not consciously take a breath. The DC of this save increases by 1 in every consecutive round after the first one that goes by without a breath; the DC drops back to its original value if the subject spends an action to take a breath.
+An affected creature can attempt to take actions normally (instead of consciously controlling its breathing), but each round it does so, beginning in the round when the power hit its Will, the subject risks blacking out from lack of oxygen. The power attacks its Fortitude at the end of any of its turns in which it did not consciously take a breath. This attack bonus increases by 1 in every consecutive round after the first one that goes by without a breath; it drops back to its original value if the subject spends an action to take a breath.
 
-If a subject fails a Fortitude save, it is [[rangoric-srd/rules/Special Abilities and Conditions#^disabled|disabled]] (0 hp). In the following round, it drops to -1 hit points and is [[rangoric-srd/rules/Special Abilities and Conditions#^dying|dying]]. Curing powers or spells can revive a dying subject normally, so long as this power’s duration has expired; if the power is still in effect, a revived creature is still subject to Fortitude saves in each round when it does not consciously breathe.
+If the power hits a subject’s Fortitude, it is [[rangoric-srd/rules/Special Abilities and Conditions#^disabled|disabled]] (0 hp). In the following round, it drops to -1 hit points and is [[rangoric-srd/rules/Special Abilities and Conditions#^dying|dying]]. Curing powers or spells can revive a dying subject normally, so long as this power’s duration has expired; if the power is still in effect, a revived creature is still subject to attacks against its Fortitude in each round when it does not consciously breathe.
 
 Augment: You can augment this power in one or more of the following ways.
 
@@ -52,4 +52,4 @@ Augment: You can augment this power in one or more of the following ways.
 
 3\. If you spend 6 additional power points, this power can affect up to four creatures all within a 20-ft.-radius burst.
 
-In addition, for every 2 additional power points you spend to achieve any of these effects, this power’s save DC increases by 1.
+In addition, for every 2 additional power points you spend to achieve any of these effects, this power’s attack bonus increases by 1.

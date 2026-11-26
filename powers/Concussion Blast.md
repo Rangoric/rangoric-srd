@@ -11,7 +11,7 @@ manifesting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./ level)"
 target: "One creature or object"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 power-resistance: "Yes"
 power-points: "3"
 based-on:
@@ -31,7 +31,7 @@ Manifesting Time: 1 standard action
 Range: Medium (100 ft. + 10 ft./ level)  
 Target: One creature or object  
 Duration: Instantaneous  
-Saving Throw: None  
+Defense: None  
 Power Resistance: Yes  
 Power Points: 3
 

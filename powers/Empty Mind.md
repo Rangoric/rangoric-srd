@@ -32,8 +32,8 @@ Telepathy \[Mind-Affecting\]
 **Duration:** 1 round  
 **Power Points:** 1
 
-You empty your mind of all transitory and distracting thoughts, improving your self-control. You gain a +2 bonus on all Will saves until your next action.
+You empty your mind of all transitory and distracting thoughts, improving your self-control. You gain a +2 bonus on Will Defense until your next action.
 
 You can manifest this power instantly, quickly enough to gain its benefit in an emergency. Manifesting this power is an immediate action, like manifesting a quickened power, and it counts toward the normal limit of one quickened power per round. You can use this power even when it is not your turn.
 
-Augment: For every 2 additional power points you spend, the bonus on your Will saves increases by 1.
+Augment: For every 2 additional power points you spend, the bonus on your Will Defense increases by 1.

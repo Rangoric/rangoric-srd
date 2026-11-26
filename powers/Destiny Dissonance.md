@@ -9,7 +9,7 @@ manifesting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 round/level"
-saving-throw: "None"
+defense: "None"
 power-resistance: "Yes"
 power-points: "1"
 based-on:
@@ -29,7 +29,7 @@ Manifesting Time: 1 standard action
 Range: Touch  
 Target: Creature touched  
 Duration: 1 round/level  
-Saving Throw: None  
+Defense: None  
 Power Resistance: Yes  
 Power Points: 1
 

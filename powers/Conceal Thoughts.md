@@ -12,7 +12,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One willing creature"
 duration: "1 hour/level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 power-resistance: "Yes (harmless)"
 power-points: "1"
 based-on:
@@ -32,8 +32,8 @@ Manifesting Time: 1 standard action
 Range: Close (25 ft. + 5 ft./2 levels)  
 Target: One willing creature  
 Duration: 1 hour/level  
-Saving Throw: Will negates (harmless)  
+Defense: Will (harmless)  
 Power Resistance: Yes (harmless)  
 Power Points: 1
 
-You protect the subject’s thoughts from analysis. While the duration lasts, the subject gains a +10 circumstance bonus on [[rangoric-srd/skills/Deception|Deception]] checks against those attempting to discern its true intentions with [[rangoric-srd/skills/Sense Motive|Sense Motive]]. It also gains a +4 bonus on its saving throw against any power or spell used to read its mind (such as [[rangoric-srd/powers/Read Thoughts|read thoughts]] or [[rangoric-srd/powers/Mind Probe (Power)|mind probe]]).
+You protect the subject’s thoughts from analysis. While the duration lasts, the subject gains a +10 circumstance bonus on [[rangoric-srd/skills/Deception|Deception]] checks against those attempting to discern its true intentions with [[rangoric-srd/skills/Sense Motive|Sense Motive]]. It also gains a +4 bonus to its defense against any power or spell used to read its mind (such as [[rangoric-srd/powers/Read Thoughts|read thoughts]] or [[rangoric-srd/powers/Mind Probe (Power)|mind probe]]).

@@ -9,7 +9,7 @@ manifesting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./ level)"
 effect: "Ray"
 duration: "1 min./level"
-saving-throw: "None"
+defense: "None"
 power-resistance: "Yes (object)"
 power-points: "7"
 based-on:
@@ -29,7 +29,7 @@ Manifesting Time: 1 standard action
 Range: Medium (100 ft. + 10 ft./ level)  
 Effect: Ray  
 Duration: 1 min./level  
-Saving Throw: None  
+Defense: None  
 Power Resistance: Yes (object)  
 Power Points: 7
 

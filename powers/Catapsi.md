@@ -12,7 +12,7 @@ manifesting-time: "1 standard action"
 range: "30 ft."
 area: "30-ft.-radius emanation centered on you"
 duration: "1 round/level"
-saving-throw: "Will negates; see text"
+defense: "Will; see text"
 power-resistance: "Yes"
 power-points: "9"
 based-on:
@@ -32,11 +32,11 @@ Manifesting Time: 1 standard action
 Range: 30 ft.  
 Area: 30-ft.-radius emanation centered on you  
 Duration: 1 round/level  
-Saving Throw: Will negates; see text  
+Defense: Will; see text  
 Power Resistance: Yes  
 Power Points: 9
 
-By manifesting this power, you generate psychic static, interfering with the ability of other psionic characters to manifest their powers or use psi-like abilities (you are not affected by your own catapsi manifestation). All psionic activity within the area requires 4 more power points to manifest than normal, unless a character makes a Will save each time he attempts to manifest a power. Using a psi-like ability becomes a full-round action, instead of a standard action, in a catapsi field. If two or more fields of catapsi overlap, the effects are not cumulative.
+By manifesting this power, you generate psychic static, interfering with the ability of other psionic characters to manifest their powers or use psi-like abilities (you are not affected by your own catapsi manifestation). All psionic activity within the area requires 4 more power points to manifest than normal: the field attacks a character’s Will each time he attempts to manifest a power, and only a miss spares him the extra cost. Using a psi-like ability becomes a full-round action, instead of a standard action, in a catapsi field. If two or more fields of catapsi overlap, the effects are not cumulative.
 
 The limit on the number of power points a subject can spend on a power remains in effect; thus, a subject may not be able to manifest its highest-level powers. If manifesting a power would cause the manifester to exceed his available power points or his spending limits, the manifestation fails automatically, but no power points are expended.
 

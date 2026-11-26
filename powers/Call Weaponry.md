@@ -10,7 +10,7 @@ manifesting-time: "1 round"
 range: "0 ft."
 effect: "One weapon; see text"
 duration: "1 min./level; see text (D)"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "1"
 based-on:
@@ -30,7 +30,7 @@ Manifesting Time: 1 round
 Range: 0 ft.  
 Effect: One weapon; see text  
 Duration: 1 min./level; see text (D)  
-Saving Throw: None  
+Defense: None  
 Power Resistance: No  
 Power Points: 1
 

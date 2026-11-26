@@ -11,7 +11,7 @@ manifesting-time: "1 standard action"
 range: "Touch"
 targets: "You and touched creature or creatures (up to one/level)"
 duration: "1 hour/level (D)"
-saving-throw: "Will negates"
+defense: "Will"
 power-resistance: "Yes"
 power-points: "13"
 based-on:
@@ -31,7 +31,7 @@ Manifesting Time: 1 standard action
 Range: Touch  
 Targets: You and touched creature or creatures (up to one/level)  
 Duration: 1 hour/level (D)  
-Saving Throw: Will negates  
+Defense: Will  
 Power Resistance: Yes  
 Power Points: 13
 
@@ -43,4 +43,4 @@ Dream travel can also be used to travel to other planes that contain creatures t
 
 Any creatures that come along when dream travel is manifested also make the transition to the borders of unconscious thought. A creature separated from you wanders off into the dreamscape. When the duration ends, all affected creatures return to the waking world as much as 1,000 miles (d%x10) from their starting point. If a creature remains in the dreamscape, it is powerless to leave unless it can manifest the dream travel power itself or someone who manifests the power seeks out the lost creature.
 
-Augment: For every 2 additional power points you spend, this power’s save DC increases by 1.
+Augment: For every 2 additional power points you spend, this power’s attack bonus increases by 1.

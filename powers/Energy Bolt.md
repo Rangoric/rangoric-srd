@@ -11,7 +11,7 @@ manifesting-time: "1 standard action"
 range: "120 ft."
 area: "120-ft. line"
 duration: "Instantaneous"
-saving-throw: "Reflex half or Fortitude half; see text"
+defense: "Reflex half or Fortitude half; see text"
 power-resistance: "Yes"
 power-points: "5"
 based-on:
@@ -31,15 +31,15 @@ Level: Psion/wilder 3
 **Range:** 120 ft.  
 **Area:** 120-ft. line  
 **Duration:** Instantaneous  
-**Saving Throw:** Reflex half or Fortitude half; see text  
+**Defense:** Reflex half or Fortitude half; see text  
 **Power Resistance:** Yes  
 **Power Points:** 5
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You release a powerful stroke of energy of the chosen type that deals 5d6 points of damage to every creature or object within the area. The beam begins at your fingertips.
 
-Cold: A bolt of this energy type deals +1 point of damage per die. The saving throw to reduce damage from a cold bolt is a Fortitude save instead of a Reflex save.
+Cold: A bolt of this energy type deals +1 point of damage per die. A cold bolt attacks Fortitude instead of Reflex.
 
-Electricity: Manifesting a bolt of this energy type provides a +2 bonus to the save DC and a +2 bonus on manifester level checks for the purpose of overcoming power resistance.
+Electricity: Manifesting a bolt of this energy type provides +2 to the attack bonus and a +2 bonus on manifester level checks for the purpose of overcoming power resistance.
 
 Fire: A bolt of this energy type deals +1 point of damage per die.
 
@@ -47,4 +47,4 @@ Sonic: A bolt of this energy type deals -1 point of damage per die and ignores a
 
 This power’s subtype is the same as the type of energy you manifest.
 
-Augment: For every additional power point you spend, this power’s damage increases by one die (d6). For each extra two dice of damage, this power’s save DC increases by 1.
+Augment: For every additional power point you spend, this power’s damage increases by one die (d6). For each extra two dice of damage, this power’s attack bonus increases by 1.

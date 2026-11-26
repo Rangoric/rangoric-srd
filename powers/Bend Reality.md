@@ -8,7 +8,7 @@ display: "Visual"
 manifesting-time: "1 standard action"
 range: "See text"
 duration: "See text"
-saving-throw: "None; see text"
+defense: "None; see text"
 power-resistance: "Yes"
 power-points: "15, XP"
 based-on:
@@ -28,7 +28,7 @@ Manifesting Time: 1 standard action
 Range: See text  
 Target, Effect, or Area: See text  
 Duration: See text  
-Saving Throw: None; see text  
+Defense: None; see text  
 Power Resistance: Yes  
 Power Points: 15, XP
 
@@ -44,9 +44,9 @@ Bend reality lets you create nearly any type of effect. For example, bend realit
 
 - Undo the harmful effects of many powers, such as [[rangoric-srd/powers/Dominate, Psionic|psionic dominate]], [[rangoric-srd/spells/Geas-Quest|geas/quest]], or [[rangoric-srd/powers/Insanity (Power)|insanity]].
 
-- Produce any other effect whose power level is in line with the above effects, such as a single creature automatically hitting on its next attack or taking a -8 penalty on its next saving throw.
+- Produce any other effect whose power level is in line with the above effects, such as a single creature automatically hitting on its next attack or taking a -8 penalty to its defense against the next attack on one.
 
-A duplicated power allows saving throws and power resistance as normal (but the save DC is for a 8th-level power).
+A duplicated power attacks defenses and faces power resistance as normal (but its attack bonus is for an 8th-level power).
 
 When bend reality duplicates a power that has an XP cost, you must pay that cost or 300 XP, whichever is more. When bend reality duplicates a spell with a material component, you must pay additional XP equal to the value of the material component divided by 5.
 

@@ -11,7 +11,7 @@ manifesting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./ level)"
 targets: "Up to five creatures or objects; no two targets can be more than 15 ft. apart."
 duration: "Instantaneous"
-saving-throw: "Reflex half or Fortitude half; see text"
+defense: "Reflex half or Fortitude half; see text"
 power-resistance: "Yes"
 power-points: "3"
 based-on:
@@ -31,15 +31,15 @@ Psychokinesis \[see text\]
 **Range:** Medium (100 ft. + 10 ft./ level)  
 **Targets:** Up to five creatures or objects; no two targets can be more than 15 ft. apart.  
 **Duration:** Instantaneous  
-**Saving Throw:** Reflex half or Fortitude half; see text  
+**Defense:** Reflex half or Fortitude half; see text  
 **Power Resistance:** Yes  
 **Power Points:** 3
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You release a powerful missile of energy of the chosen type at your foe. The missile deals 3d6 points of damage to each creature or object you target, to the maximum of five targets. You cannot hit the same target multiple times with the same manifestation of this power.
 
-Cold: A missile of this energy type deals +1 point of damage per die. The saving throw to reduce damage from a cold missile is a Fortitude save instead of a Reflex save.
+Cold: A missile of this energy type deals +1 point of damage per die. A cold missile attacks Fortitude instead of Reflex.
 
-Electricity: Manifesting a missile of this energy type provides a +2 bonus to the save DC and a +2 bonus on manifester level checks for the purpose of overcoming power resistance.
+Electricity: Manifesting a missile of this energy type provides +2 to the attack bonus and a +2 bonus on manifester level checks for the purpose of overcoming power resistance.
 
 Fire: A missile of this energy type deals +1 point of damage per die.
 
@@ -47,4 +47,4 @@ Sonic: A missile of this energy type deals -1 point of damage per die and ignore
 
 This power’s subtype is the same as the type of energy you manifest.
 
-Augment: For every additional power point you spend, this power’s damage increases by one die (d6) and its save DC increases by 1.
+Augment: For every additional power point you spend, this power’s damage increases by one die (d6) and its attack bonus increases by 1.

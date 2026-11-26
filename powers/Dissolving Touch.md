@@ -11,7 +11,7 @@ manifesting-time: "1 standard action"
 range: "Touch"
 target: "Creature or object touched"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "3"
 based-on:
@@ -31,7 +31,7 @@ Manifesting Time: 1 standard action
 Range: Touch  
 Target: Creature or object touched  
 Duration: Instantaneous  
-Saving Throw: None  
+Defense: None  
 Power Resistance: No  
 Power Points: 3
 

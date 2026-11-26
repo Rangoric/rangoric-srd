@@ -11,7 +11,7 @@ manifesting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./ level)"
 target: "One sound or mixture of related sounds"
 duration: "Concentration, up to 1 min./level; see text"
-saving-throw: "None"
+defense: "None"
 power-resistance: "No"
 power-points: "3"
 based-on:
@@ -31,7 +31,7 @@ Manifesting Time: 1 standard action
 Range: Medium (100 ft. + 10 ft./ level)  
 Target: One sound or mixture of related sounds  
 Duration: Concentration, up to 1 min./level; see text  
-Saving Throw: None  
+Defense: None  
 Power Resistance: No  
 Power Points: 3
 

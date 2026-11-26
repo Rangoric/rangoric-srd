@@ -12,7 +12,7 @@ manifesting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "Cone-shaped burst centered on you"
 duration: "Instantaneous"
-saving-throw: "Reflex half"
+defense: "Reflex half"
 power-resistance: "Yes"
 power-points: "11"
 based-on:
@@ -32,7 +32,7 @@ Manifesting Time: 1 standard action
 Range: Close (25 ft. + 5 ft./2 levels)  
 Area: Cone-shaped burst centered on you  
 Duration: Instantaneous  
-Saving Throw: Reflex half  
+Defense: Reflex half  
 Power Resistance: Yes  
 Power Points: 11
 

@@ -9,7 +9,7 @@ manifesting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./ level)"
 target: "One Medium or smaller creature"
 duration: "1 round/level (D)"
-saving-throw: "Reflex negates"
+defense: "Reflex"
 power-resistance: "No"
 power-points: "5"
 based-on:
@@ -29,7 +29,7 @@ Manifesting Time: 1 standard action
 Range: Medium (100 ft. + 10 ft./ level)  
 Target: One Medium or smaller creature  
 Duration: 1 round/level (D)  
-Saving Throw: Reflex negates  
+Defense: Reflex  
 Power Resistance: No  
 Power Points: 5
 
@@ -43,6 +43,6 @@ A creature that is cocooned while aloft begins to fall immediately, and a creatu
 
 Augment: You can augment this power in one or both of the following ways.
 
-1\. For every 2 additional power points you spend, this power’s save DC increases by 1.
+1\. For every 2 additional power points you spend, this power’s attack bonus increases by 1.
 
 2\. For every 2 additional power points you spend, this power can affect a target one size category larger.
