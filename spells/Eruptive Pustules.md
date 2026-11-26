@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 minute/level (D)"
-saving-throw: "Fortitude partial (see text)"
+defense: "Fortitude partial (see text)"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -37,7 +37,7 @@ _Transmutation \[Acid\]_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 minute/level (D)
-- **Saving Throw**: Fortitude partial (see text)
+- **Defense**: Fortitude partial (see text)
 - **Spell Resistance**: Yes
 
-Your skin erupts in swollen, pus-filled bumps that burst open if you are struck. Any creature that strikes you with its body or a handheld weapon deals normal damage, but at the same time the attacker takes 1d6 points of acid damage and must save or be sickened for 1 round. If the attack against you is a critical hit, the attacker must save or be nauseated instead of sickened. This damage can harm a swarm.
+Your skin erupts in swollen, pus-filled bumps that burst open if you are struck. Any creature that strikes you with its body or a handheld weapon deals normal damage, but at the same time the attacker takes 1d6 points of acid damage and the pustules attack its Fortitude; on a hit it is sickened for 1 round. If the attack against you is a critical hit, a hit nauseates the attacker instead of sickening it. This damage can harm a swarm.

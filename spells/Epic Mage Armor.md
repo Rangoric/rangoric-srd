@@ -13,7 +13,7 @@ casting-time: "1 minute"
 range: "Touch"
 target: "Creature touched"
 duration: "24 hours (D)"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 to-develop: "414,000 gp; 9 days; 16,560 XP. Seed: armor (DC 14). Factor: +16 additional armor bonus (+32 DC)."
 based-on:
@@ -33,7 +33,7 @@ Casting Time: 1 minute
 Range: Touch  
 Target: Creature touched  
 Duration: 24 hours (D)  
-Saving Throw: Will negates (harmless)  
+Defense: Will (harmless)  
 Spell Resistance: Yes (harmless)  
 To Develop: 414,000 gp; 9 days; 16,560 XP. Seed: armor (DC 14). Factor: +16 additional armor bonus (+32 DC).
 

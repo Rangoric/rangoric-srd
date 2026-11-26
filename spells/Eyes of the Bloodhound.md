@@ -13,7 +13,7 @@ components:
 casting-time: "1 standard action"
 area: "Touch"
 duration: "1 hour/level"
-saving-throw: "None (harmless)"
+defense: "None (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Spells & Magic"
 based-on:
@@ -33,7 +33,7 @@ _Transmutation_
 - **Casting Time**: 1 standard action
 - **Area**: Touch
 - **Duration**: 1 hour/level
-- **Saving Throw**: None (harmless)
+- **Defense**: None (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 The subject gains the ability to ‘see’ scents and odors and understand them. These scents appear as nebulous, colored trails in the air to a maximum range of 30 feet. Invisible creatures can be seen by their scent (if any), and these creatures have only half concealment against the subject. If the subject does not have the [[rangoric-srd/feats/Track|Track]] feat, he or she gains it for the duration of this spell.

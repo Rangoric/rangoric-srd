@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 round/level (D)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -37,7 +37,7 @@ _Enchantment (Compulsion) \[Emotion, Mind-Affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 You create an emotional block in the target's mind, adding an [[rangoric-srd/spells/Magic Overview#^emotion-component|emotion component]] to each spell or spell-like ability he uses. This is in addition to any other components the spell already requires, and doesn't replace the somatic component. The target's spell-like abilities require this emotion component, even though they normally don't need spell components. As usual with emotion components, the target can't cast spells (or use spell-like abilities, in this case) while affected by a non-harmless emotion or fear effect.

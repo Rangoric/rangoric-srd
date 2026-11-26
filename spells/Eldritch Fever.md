@@ -18,7 +18,7 @@ casting-time: "1 standard"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "Instantaneous"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -39,7 +39,7 @@ _Necromancy \[Curse, Disease, Evil\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 The target gains the [[rangoric-srd/rules/spellblights/Eldritch Ague|eldritch ague]] [[rangoric-srd/rules/spellblights/Spellblights|spellblight]].

@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "Incorporeal creature or haunt"
 duration: "1 hour/level (D)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -36,7 +36,7 @@ _Necromancy_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: Incorporeal creature or haunt
 - **Duration**: 1 hour/level (D)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-You trap the target in the mirror used as the spell's focus. The target cannot be affected by any means while inside the mirror. If the mirror is destroyed, any incorporeal creature within is immediately freed and any haunt within returns to its original location. Creatures that assumed incorporeal form through a spell or other means remain incorporeal while trapped, even if the duration of the effect that rendered them incorporeal expires. If your focus mirror belonged to the target, the target takes a -2 penalty on its saving throw.
+You trap the target in the mirror used as the spell's focus. The target cannot be affected by any means while inside the mirror. If the mirror is destroyed, any incorporeal creature within is immediately freed and any haunt within returns to its original location. Creatures that assumed incorporeal form through a spell or other means remain incorporeal while trapped, even if the duration of the effect that rendered them incorporeal expires. If your focus mirror belonged to the target, the target takes a -2 penalty to its defense against the spell.

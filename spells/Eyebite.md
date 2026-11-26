@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One living creature"
 duration: "1 round per three levels; see text"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Eyebite|Eyebite (3.5)]]"
@@ -39,7 +39,7 @@ _Necromancy \[Evil\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One living creature
 - **Duration**: 1 round per three levels; see text
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 Each round, you may target a single living creature, striking it with waves of evil power. Depending on the target’s HD, this attack has as many as three effects.
@@ -52,7 +52,7 @@ Each round, you may target a single living creature, striking it with waves of e
 
 The effects are cumulative and concurrent.
 
-_Sickened_: Sudden pain and fever sweeps over the subject’s body. A sickened creature takes a –2 penalty on attack rolls, weapon damage rolls, saving throws, skill checks, and ability checks. A creature affected by this spell remains sickened for 10 minutes per caster level. The effects cannot be negated by a remove disease or heal spell, but a remove curse is effective.
+_Sickened_: Sudden pain and fever sweeps over the subject’s body. A sickened creature takes a –2 penalty on attack rolls, weapon damage rolls, defenses, skill checks, and ability checks. A creature affected by this spell remains sickened for 10 minutes per caster level. The effects cannot be negated by a remove disease or heal spell, but a remove curse is effective.
 
 _Panicked_: The subject becomes panicked for 1d4 rounds. Even after the panic ends, the creature remains [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 10 minutes per caster level, and it automatically becomes panicked again if it comes within sight of you during that time. This is a fear effect.
 

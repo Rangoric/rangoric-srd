@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One scroll or two pages"
 duration: "Instantaneous"
-saving-throw: "See text"
+defense: "See text"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Erase|Erase (3.5)]]"
@@ -35,7 +35,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One scroll or two pages
 - **Duration**: Instantaneous
-- **Saving Throw**: See text
+- **Defense**: See text
 - **Spell Resistance**: No
 
 Erase removes writings of either magical or mundane nature from a scroll or from one or two pages of paper, parchment, or similar surfaces. With this spell, you can remove explosive runes, a glyph of warding, a sepia snake sigil, or an arcane mark, but not illusory script or a symbol spell. Nonmagical writing is automatically erased if you touch it and no one else is holding it. Otherwise, the chance of erasing nonmagical writing is 90%.

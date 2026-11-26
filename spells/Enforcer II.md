@@ -19,4 +19,4 @@ _Transmutation_
 
 - **Level**: Sor/Wiz 6
 
-As _[[rangoric-srd/spells/Enforcer I|enforcer I]]_, except that the spell level is considered to be 7 for purposes of determining the save DC, if any. This spell does not affect spells of 8th level or higher.
+As _[[rangoric-srd/spells/Enforcer I|enforcer I]]_, except that the spell level is considered to be 7 for purposes of determining the attack bonus, if any. This spell does not affect spells of 8th level or higher.

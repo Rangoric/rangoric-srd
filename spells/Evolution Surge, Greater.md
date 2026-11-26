@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Your eidolon"
 duration: "1 minute/level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "No"
 book: "Advanced Player's Guide"
 based-on:
@@ -34,7 +34,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Your eidolon
 - **Duration**: 1 minute/level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: No
 
 This spell functions as _lesser evolution surge_, except that you can grant any two evolutions whose total cost does not exceed 6 evolution points.

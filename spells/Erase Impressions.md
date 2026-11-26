@@ -15,7 +15,7 @@ casting-time: "1 round"
 range: "Touch"
 target: "Object touched"
 duration: "Instantaneous"
-saving-throw: "Will negates (object)"
+defense: "Will (object)"
 spell-resistance: "Yes (object)"
 book: "Occult Adventures"
 based-on:
@@ -36,7 +36,7 @@ _Abjuration_
 - **Range**: Touch
 - **Target**: Object touched
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates (object)
+- **Defense**: Will (object)
 - **Spell Resistance**: Yes (object)
 
 You banish psychic impressions from the object touched, rendering it devoid of recent history. You choose how much time to erase, up to a maximum of 1 day per caster level. You must _erase impressions_ from the present time back; you cannot choose to leave recent events untouched. Impressions erased in this manner cannot be recovered via _[[rangoric-srd/spells/Object Reading (Spell)|object reading]]_, _[[rangoric-srd/spells/Legend Lore|legend lore]]_, or similar measures. Casting _erase impressions_ on a corpse removes recent psychic impressions from when the creature was alive as well, making those memories unavailable to _[[rangoric-srd/spells/Speak with Dead|speak with dead]]_. For example, a 5th-level caster casting the spell on a 2-day-old corpse could erase the past 2 days of psychic impressions from the corpse and 3 additional days of information from just before the creature died.

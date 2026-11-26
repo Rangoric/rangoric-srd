@@ -10,7 +10,7 @@ casting-time: "1 standard action"
 range: "300 ft."
 target: "One creature or object"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 to-develop: "621,000 gp; 13 days; 24,840 XP. Seed: dispel (DC 19). Factors: +30 to dispel check (+30 DC), 1-action casting time (+20 DC)."
 based-on:
@@ -30,7 +30,7 @@ Casting Time: 1 standard action
 Range: 300 ft.  
 Target: One creature or object  
 Duration: Instantaneous  
-Saving Throw: None  
+Defense: None  
 Spell Resistance: No  
 To Develop: 621,000 gp; 13 days; 24,840 XP. Seed: dispel (DC 19). Factors: +30 to dispel check (+30 DC), 1-action casting time (+20 DC).
 

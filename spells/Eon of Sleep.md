@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One creature"
 duration: "Permanent"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Faeries"
 based-on:
@@ -36,9 +36,9 @@ _Enchantment (Compulsion)_
 - **Range**: Touch
 - **Target**: One creature
 - **Duration**: Permanent
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 _Eon of sleep_ plunges the victim into a deep and dreamless sleep that lasts for years. Upon casting, the spellcaster specifies a particular condition that allows a person to wake up—the kiss of a princess, 100 years of sleep, an enemy to be dead for 5 years, etc. A sleeping person ages only one year for every five that they sleep.
 
-Every year, on the anniversary of the casting of _eon of sleep_, the victim gets another Will saving throw at the initial DC +1 for each year spent asleep. If the save succeeds, the victim is aware of his sleeping state and can choose to wake up despite the preconditions set by the caster or remain in the magical slumber for another year or more.
+Every year, on the anniversary of the casting of _eon of sleep_, the spell attacks the victim’s Will again, at its initial attack bonus +1 for each year spent asleep. If it misses, the victim is aware of his sleeping state and can choose to wake up despite the preconditions set by the caster or remain in the magical slumber for another year or more.

@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 hour/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Occult Adventures"
 based-on:
@@ -34,7 +34,7 @@ _Conjuration (Teleportation)_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 hour/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You place yourself into a cataleptic meditative state and shunt yourself to the Ethereal Plane, where your body is cocooned within a folded ripple of misty space, with total cover from creatures on the Ethereal Plane. While inside your _ethereal envelope_, you are treated as being asleep for most purposes. You can choose an amount of time within the duration when casting this spell, and you automatically dismiss the spell when that time elapses. Your _ethereal envelope_ counts as an object of your size with AC 10, hardness 5, and hit points equal to twice your level, and it is immune to bludgeoning damage. An attacker must be on the Ethereal Plane or have a way to see ethereal objects in order to detect your _ethereal envelope_. The envelope can also be broken open with a successful Strength check with a DC equal to 15 + your caster level (to a maximum DC of 30). If the _ethereal envelope_ is destroyed, the spell ends immediately.

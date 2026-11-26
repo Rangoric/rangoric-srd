@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 round/level"
-saving-throw: "Will partial"
+defense: "Will partial"
 spell-resistance: "Yes"
 book: "Occult Adventures"
 based-on:
@@ -35,7 +35,7 @@ _Enchantment (Compulsion) \[Emotion, Mind-Affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: 1 round/level
-- **Saving Throw**: Will partial
+- **Defense**: Will partial
 - **Spell Resistance**: Yes
 
-This functions as _[[rangoric-srd/spells/Ego Whip I|ego whip I]]_, but the target takes a -6 penalty to the chosen ability score and is staggered for 1d6 rounds on a failed Will save. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].
+This functions as _[[rangoric-srd/spells/Ego Whip I|ego whip I]]_, but the target takes a -6 penalty to the chosen ability score and is staggered for 1d6 rounds on a hit. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].

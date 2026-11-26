@@ -28,4 +28,4 @@ _Transmutation_
 - **Range**: Personal
 - **Duration**: See text
 
-Casting this spell is a free action, like casting a _[[rangoric-srd/feats/Quicken Spell|quickened]]_ spell, and it counts toward the normal limit of one _[[rangoric-srd/feats/Quicken Spell|quickened]]_ spell per round. If the caster casts another spell in the same round, the level of that spell is considered to be 5 for purposes of determining the save DC, if any. This spell does not affect spells of 6th level or higher.
+Casting this spell is a free action, like casting a _[[rangoric-srd/feats/Quicken Spell|quickened]]_ spell, and it counts toward the normal limit of one _[[rangoric-srd/feats/Quicken Spell|quickened]]_ spell per round. If the caster casts another spell in the same round, the level of that spell is considered to be 5 for purposes of determining the attack bonus, if any. This spell does not affect spells of 6th level or higher.

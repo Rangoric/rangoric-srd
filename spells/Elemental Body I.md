@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 min./level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[path srd 3.5/spells/Elemental Body I|Elemental Body I (PF1)]]"
@@ -37,7 +37,7 @@ _Transmutation (Polymorph)_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 min./level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 When you cast this spell, you can assume the form of a Small air, earth, fire, or water elemental. The abilities you gain depend upon the type of elemental into which you change. Elemental abilities based on size, such as burn, vortex, and whirlwind, use the size of the elemental you transform into to determine their effect.

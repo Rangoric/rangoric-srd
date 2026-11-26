@@ -13,7 +13,7 @@ casting-time: "1 hour"
 range: "Touch"
 target: "Your Familiar"
 duration: "Instantaneous"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes"
 book: "Spells & Magic"
 based-on:
@@ -34,7 +34,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Your Familiar
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes
 
 Casting _enlightenment_ transforms the target familiar into a fully sentient member of its gender and the caster’s race. The bond between the caster and the familiar remains as strong as before, but there are some changes.

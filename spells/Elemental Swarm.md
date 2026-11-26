@@ -20,7 +20,7 @@ casting-time: "10 minutes"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "Two or more summoned creatures, no two of which can be more than 30 ft. apart"
 duration: "10 min./level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Elemental Swarm|Elemental Swarm (3.5)]]"
@@ -40,7 +40,7 @@ _Conjuration (Summoning) \[see text\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: Two or more summoned creatures, no two of which can be more than 30 ft. apart
 - **Duration**: 10 min./level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell opens a portal to an Elemental Plane and summons elementals from it. A druid can choose the plane (Air, Earth, Fire, or Water); a cleric opens a portal to the plane matching his domain.

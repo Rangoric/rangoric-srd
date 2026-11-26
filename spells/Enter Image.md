@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "50 ft./level"
 effect: "Transfer consciousness to any object bearing your likeness"
 duration: "Concentration"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Advanced Player's Guide"
 based-on:
@@ -41,12 +41,12 @@ _Transmutation_
 - **Range**: 50 ft./level
 - **Effect**: Transfer consciousness to any object bearing your likeness
 - **Duration**: Concentration
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You gain a dim impression of the activities around any object bearing your face or form and can also project your consciousness into one such object at a time, allowing you to observe or even interact with nearby creatures. This spell allows you to leave your body and subconsciously monitor the immediate area around any depiction of your image whether one, hundreds, or even thousands. Each such image has the full range of your normal senses (sight, hearing, smell, etc.) and you can make a Perception check to notice anything occurring nearby. The DC of this check is always 10 greater than what it would be if you were actually present at that location, so even if you would normally notice something automatically (such as talking, normally a DC of 0), you would need to make a DC 10 Perception check to notice it.
 
-You may, at any time, choose to fill one specific image within range with your consciousness. While inside an image you lose the ability to monitor any other images within range but remain fully aware of your own body's surroundings. Your body is defenseless and helpless (always failing any saving throw) while your consciousness is filling an image, but you can return to it at any time as an immediate action.
+You may, at any time, choose to fill one specific image within range with your consciousness. While inside an image you lose the ability to monitor any other images within range but remain fully aware of your own body's surroundings. Your body is defenseless and helpless (attacks against its defenses always hit) while your consciousness is filling an image, but you can return to it at any time as an immediate action.
 
 When you fill an image with your consciousness it gains a limited form of animation. Statues and similar three-dimensional representations can move their heads, make gestures, and talk, but cannot attack or leave their square without assistance. Portraits or similar two-dimensional representations bearing your likeness can also talk and your image can move anywhere within the picture or even temporarily alter it (such as by picking a flower in the painting). You cannot use any spells or other abilities while within an image.
 

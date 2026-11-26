@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 round/level (D)"
-saving-throw: "See text"
+defense: "See text"
 spell-resistance: "No"
 book: "Advanced Player's Guide"
 based-on:
@@ -41,16 +41,16 @@ _Evocation \[Acid, Cold, Electricity, Fire\]_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: See text
+- **Defense**: See text
 - **Spell Resistance**: No
 
 Upon completing the casting of this spell, elemental energy infuses your hands. Choose an energy type: acid, cold, electricity, or fire. You gain a melee touch attack causing 1d6 points of damage of that energy type, along with a special effect described below. You also deal energy damage and the related special effect when you attack with your hands using an unarmed strike, a single claw, or a single slam attack. This bonus damage can never apply to multiple weapons.
 
-**Acid**: Your touch attack causes 1 point of ongoing acid damage per round for 1 round per three caster levels. The target must make a Fortitude save or be sickened for the duration of the ongoing acid damage.
+**Acid**: Your touch attack causes 1 point of ongoing acid damage per round for 1 round per three caster levels. The spell attacks the target’s Fortitude, and on a hit it is sickened for the duration of the ongoing acid damage.
 
-**Cold**: The target must make a Fortitude save or be fatigued. A creature that is already fatigued suffers no additional effect.
+**Cold**: The spell attacks the target’s Fortitude, and on a hit it is fatigued. A creature that is already fatigued suffers no additional effect.
 
-**Electricity**: The target must make a Fortitude save or be staggered for 1 round.
+**Electricity**: The spell attacks the target’s Fortitude, and on a hit it is staggered for 1 round.
 
 ## Fire
 
