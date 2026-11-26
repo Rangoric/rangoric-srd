@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-26 | Saving throws as defenses, spells and monsters (DF 53): Web to Zone of Truth and Abaia to Basilisk attack a defense instead of allowing a save; monster stat blocks show defense numbers. | [[DF Batch 53 Changes]] | | [[Saving Throws as Defenses]] DF 53 |
 | 2026-11-26 | Saving throws as defenses, spells (DF 52): Unerring Weapon to Web Shelter attack a defense instead of allowing a save; new saves make the spell attack again. | [[DF Batch 52 Changes]] | | [[Saving Throws as Defenses]] DF 52 |
 | 2026-11-26 | Saving throws as defenses, spells (DF 51): Telempathic Projection to Undine’s Curse attack a defense instead of allowing a save; new saves make the spell attack again. | [[DF Batch 51 Changes]] | | [[Saving Throws as Defenses]] DF 51 |
 | 2026-11-26 | Saving throws as defenses, spells (DF 50): Stray From Path to Telekinetic Storm attack a defense instead of allowing a save; new saves make the spell attack again. | [[DF Batch 50 Changes]] | | [[Saving Throws as Defenses]] DF 50 |
