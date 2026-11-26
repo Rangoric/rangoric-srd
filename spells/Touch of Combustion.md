@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature or object touched"
 duration: "Instantaneous"
-saving-throw: "Reflex negates; see text"
+defense: "Reflex; see text"
 spell-resistance: "Yes"
 book: "Advanced Race Guide"
 based-on:
@@ -41,7 +41,7 @@ _Evocation \[Fire\]_
 - **Range**: Touch
 - **Target**: Creature or object touched
 - **Duration**: Instantaneous
-- **Saving Throw**: Reflex negates; see text
+- **Defense**: Reflex; see text
 - **Spell Resistance**: Yes
 
-Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6 points of fire damage. If it fails its saving throw, the target also catches on fire . If the target catches fire, on the first round thereafter, creatures adjacent to it (including you) must each succeed at a Reflex save or take 1d4 points of fire damage.
+Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6 points of fire damage. If the spell hits, the target also catches on fire. If the target catches fire, on the first round thereafter, creatures adjacent to it (including you) are each attacked against Reflex, and on a hit take 1d4 points of fire damage.

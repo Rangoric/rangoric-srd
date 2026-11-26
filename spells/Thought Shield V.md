@@ -10,7 +10,7 @@ casting-time: "1 immediate action"
 range: "Personal"
 target: "You"
 duration: "1 round/level; see text"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Occult Adventures"
 based-on:
@@ -31,7 +31,7 @@ _Abjuration_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 round/level; see text
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
-This functions as _[[rangoric-srd/spells/Thought Shield IV|thought shield IV]]_, except as noted above. This spell immediately ends if you fail a Will saving throw against a mind-affecting effect. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].
+This functions as _[[rangoric-srd/spells/Thought Shield IV|thought shield IV]]_, except as noted above. This spell immediately ends if a mind-affecting effect hits your Will. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].

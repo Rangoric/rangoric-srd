@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 round/level"
-saving-throw: "Fortitude half (see text)"
+defense: "Fortitude half (see text)"
 spell-resistance: "No"
 book: "Monster Codex"
 based-on:
@@ -39,7 +39,7 @@ _Evocation \[Acid, Fire\]_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 round/level
-- **Saving Throw**: Fortitude half (see text)
+- **Defense**: Fortitude half (see text)
 - **Spell Resistance**: No
 
-The target creature is covered in burning acid that deals 1d6 points of acid damage and 1d6 points of fire damage each round. The subject can attempt a Fortitude saving throw each round to reduce the damage by half. Dousing the target in water ends the effect (both the acid and the fire), but rolling on the ground does not extinguish the fire or affect the acid.
+The target creature is covered in burning acid that deals 1d6 points of acid damage and 1d6 points of fire damage each round. The spell attacks the subject’s Fortitude each round, and a miss halves the damage. Dousing the target in water ends the effect (both the acid and the fire), but rolling on the ground does not extinguish the fire or affect the acid.

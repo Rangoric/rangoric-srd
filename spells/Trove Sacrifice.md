@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Personal"
 targets: "Self"
 duration: "1 round/level (D)"
-saving-throw: "No"
+defense: "No"
 spell-resistance: "No"
 book: "Spells & Magic"
 based-on:
@@ -33,7 +33,7 @@ _Abjuration_
 - **Range**: Personal
 - **Targets**: Self
 - **Duration**: 1 round/level (D)
-- **Saving Throw**: No
+- **Defense**: No
 - **Spell Resistance**: No
 
 This spell is used only in the direst of straits as it can quickly deplete any trove. When cast, this spell surrounds the caster with a glittering skin of golden light. This light is a direct connection to the caster’s [[rangoric-srd/rules/dragon-magic/Dragon Magic#The Trove|trove]] and provides protection to the character at the cost of destroying the trove.

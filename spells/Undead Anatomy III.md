@@ -38,7 +38,7 @@ _Transmutation (Polymorph)_
 
 This spell functions as _[[rangoric-srd/spells/Undead Anatomy II|undead anatomy II]]_, except it also allows you to assume the form of a Diminutive or Huge corporeal creature of the undead type. If the form you assume has any of the following abilities, you gain the listed ability: burrow 30 feet, climb 90 feet, fly 90 feet (good maneuverability), swim 90 feet, all-around vision, blindsense 30 feet, darkvision 60 feet, low-light vision, scent, constrict, disease, DR 5/—, fear aura, grab, jet, natural cunning, overwhelming, poison, pounce, rake, trample, trip, unnatural aura, and web.
 
-If the creature has immunity or resistance to any energy types, you gain resistance 20 to those energy types. If the creature has vulnerability to an energy type, you gain that vulnerability. In this form, you gain a +8 bonus on saves against mind-affecting effects, disease, poison, sleep, and stunning. If the form has a vulnerability to an attack (such as sunlight), you gain that vulnerability.
+If the creature has immunity or resistance to any energy types, you gain resistance 20 to those energy types. If the creature has vulnerability to an energy type, you gain that vulnerability. In this form, you gain a +8 bonus on defenses against mind-affecting effects, disease, poison, sleep, and stunning. If the form has a vulnerability to an attack (such as sunlight), you gain that vulnerability.
 
 _Diminutive undead_: If the form you take is that of a Diminutive undead, you gain a +6 size bonus to your Dexterity, a –4 penalty to your Strength, and a +1 natural armor bonus.
 

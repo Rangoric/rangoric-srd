@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You and touched objects or other touched willing creatures"
 duration: "Instantaneous"
-saving-throw: "None and Will negates (object)"
+defense: "None and Will (object)"
 spell-resistance: "No"
 book: "Ultimate Intrigue"
 based-on:
@@ -41,7 +41,7 @@ _Conjuration (Teleportation) \[Ruse\]_
 - **Range**: Personal
 - **Target**: You and touched objects or other touched willing creatures
 - **Duration**: Instantaneous
-- **Saving Throw**: None and Will negates (object)
+- **Defense**: None and Will (object)
 - **Spell Resistance**: No
 
 This spell functions as [[rangoric-srd/spells/Teleport|teleport]] except that you can opt to intentionally cause any number of the creatures traveling with you to suffer a mishap or arrive in a specific different location you visualize simultaneously with the original destination, or both. Attempts to identify treacherous _[[rangoric-srd/spells/Teleport|teleport]]_ with a skill check incorrectly identify it as _[[rangoric-srd/spells/Teleport|teleport]]_.

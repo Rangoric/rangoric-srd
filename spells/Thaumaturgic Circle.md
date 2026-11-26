@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Touch"
 area: "10-ft.-radius emanation from touched creature"
 duration: "10 * caster level minute(s)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "No"
 book: "Occult Adventures"
 based-on:
@@ -40,7 +40,7 @@ _Abjuration_
 - **Range**: Touch
 - **Area**: 10-ft.-radius emanation from touched creature
 - **Duration**: 10 \* caster level minute(s)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: No
 
 This spell functions as [[rangoric-srd/spells/Magic Circle against Evil|magic circle against chaos, evil, good, or law]], but rather than stipulating an alignment descriptor, you can designate any one non-alignment subtype of outsider, including air, earth, fire, and water, as well as outsider races such as angels and d*evil*s.

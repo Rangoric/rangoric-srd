@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 area: "All metal objects within a 40-ft.-radius burst"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes (object; see text)"
 based-on:
   - "[[fantasy srd 3.5/spells/Transmute Metal to Wood|Transmute Metal to Wood (3.5)]]"
@@ -32,7 +32,7 @@ _Transmutation_
 - **Range**: Long (400 ft. + 40 ft./level)
 - **Area**: All metal objects within a 40-ft.-radius burst
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes (object; see text)
 
 This spell enables you to change all metal objects within its area to wood. Weapons, armor, and other metal objects carried by creatures are affected as well. A magic object made of metal effectively has spell resistance equal to 20 + its caster level against this spell. Artifacts cannot be transmuted. Weapons converted from metal to wood take a –2 penalty on attack and damage rolls. The armor bonus of any armor converted from metal to wood is reduced by 2. Weapons changed by this spell splinter and break on any natural attack roll of 1 or 2, and armor changed by this spell loses an additional point of armor bonus every time it is struck with a natural attack roll of 19 or 20.

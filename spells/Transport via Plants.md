@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Unlimited"
 target: "You and touched objects or other touched willing creatures"
 duration: "1 round"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Transport via Plants|Transport via Plants (3.5)]]"
@@ -34,7 +34,7 @@ _Conjuration (Teleportation)_
 - **Range**: Unlimited
 - **Target**: You and touched objects or other touched willing creatures
 - **Duration**: 1 round
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You can enter any normal plant (Medium or larger) and pass any distance to a plant of the same kind in a single round, regardless of the distance separating the two. The entry plant must be alive. The destination plant need not be familiar to you, but it also must be alive. If you are uncertain of the location of a particular kind of destination plant, you need merely designate direction and distance and the transport via plants spell moves you as close as possible to the desired location. If a particular destination plant is desired but the plant is not living, the spell fails and you are ejected from the entry plant.

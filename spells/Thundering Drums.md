@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "15 ft."
 area: "Cone-shaped burst"
 duration: "Instantaneous"
-saving-throw: "Fortitude partial"
+defense: "Fortitude partial"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -35,7 +35,7 @@ _Evocation \[Sonic\]_
 - **Range**: 15 ft.
 - **Area**: Cone-shaped burst
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude partial
+- **Defense**: Fortitude partial
 - **Spell Resistance**: Yes
 
-You strike the ground in front of you, filling the area in front of you with the thunder of pounding drums. Any creature in the area takes 1d8 points of sonic damage per caster level (maximum 5d8) and is knocked prone. A successful Fortitude save halves the damage and negates being knocked prone.
+You strike the ground in front of you, filling the area in front of you with the thunder of pounding drums. Any creature in the area takes 1d8 points of sonic damage per caster level (maximum 5d8) and is knocked prone. A miss against Fortitude halves the damage and negates being knocked prone.

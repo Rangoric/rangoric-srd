@@ -16,7 +16,7 @@ casting-time: "10 minutes"
 range: "0 ft."
 effect: "Unattended, nonmagical object of nonliving matter, up to 1 cu. ft./level"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/True Creation (Spell)|True Creation (Spell) (3.5)]]"
@@ -35,7 +35,7 @@ Casting Time: 10 minutes
 Range: 0 ft.  
 Effect: Unattended, nonmagical object of nonliving matter, up to 1 cu. ft./level  
 Duration: Instantaneous  
-Saving Throw: None  
+Defense: None  
 Spell Resistance: No
 
 The caster creates a nonmagical, unattended object of any sort of matter. Items created are permanent and cannot be negated by dispelling magics or negating powers. For all intents and purposes, these items are completely real. The volume of the item created cannot exceed 1 cubic foot per caster level. The caster must succeed at an appropriate skill check to make a complex item.

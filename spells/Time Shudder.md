@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "30 ft."
 area: "30-ft.-radius emanation centered on you"
 duration: "1 round"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Advanced Class Guide"
 based-on:
@@ -37,7 +37,7 @@ _Transmutation_
 - **Range**: 30 ft.
 - **Area**: 30-ft.-radius emanation centered on you
 - **Duration**: 1 round
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 You cause a ripple in time that affects all creatures in the area. At the start of each creature's turn, there is a 50% chance the creature is hasted (as haste); otherwise it is slowed (as slow).

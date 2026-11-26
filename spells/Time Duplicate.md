@@ -11,7 +11,7 @@ components:
 casting-time: "1 free action"
 effect: "You"
 duration: "1 round (see text)"
-saving-throw: "None (harmless)"
+defense: "None (harmless)"
 spell-resistance: "None (harmless)"
 to-develop: "639,000 gp; 13 days; 25,560 XP. Seed: transport (to move future you back in time 1 round) (DC 27). Factors: move to time stream (+8 DC), stretch the base temporal effect (ad hoc +8 DC), quickened (+28 DC)."
 based-on:
@@ -30,7 +30,7 @@ Components: V, S
 Casting Time: 1 free action  
 Effect: You  
 Duration: 1 round (see text)  
-Saving Throw: None (harmless)  
+Defense: None (harmless)  
 Spell Resistance: None (harmless)  
 To Develop: 639,000 gp; 13 days; 25,560 XP. Seed: transport (to move future you back in time 1 round) (DC 27). Factors: move to time stream (+8 DC), stretch the base temporal effect (ad hoc +8 DC), quickened (+28 DC).
 

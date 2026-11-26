@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 area: "Up to two 10-ft. cubes/level (S)"
 duration: "Permanent"
-saving-throw: "See text"
+defense: "See text"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Transmute Mud to Rock|Transmute Mud to Rock (3.5)]]"
@@ -37,12 +37,12 @@ _Transmutation \[Earth\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Area**: Up to two 10-ft. cubes/level (S)
 - **Duration**: Permanent
-- **Saving Throw**: See text
+- **Defense**: See text
 - **Spell Resistance**: No
 
 This spell transforms normal mud or quicksand of any depth into soft stone (sandstone or a similar mineral) permanently.
 
-Any creature in the mud is allowed a Reflex save to escape before the area is hardened to stone.
+The spell attacks the Reflex of any creature in the mud, and on a miss it escapes before the area is hardened to stone.
 
 Transmute mud to rock counters and dispels transmute rock to mud.
 
