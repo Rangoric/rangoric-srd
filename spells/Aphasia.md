@@ -19,7 +19,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "Caster level round(s)"
-saving-throw: "Will negates (see text)"
+defense: "Will (see text)"
 spell-resistance: "Yes"
 book: "Ultimate Intrigue"
 based-on:
@@ -40,7 +40,7 @@ _Enchantment (Compulsion) \[MindAffecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: Caster level round(s)
-- **Saving Throw**: Will negates (see text)
+- **Defense**: Will (see text)
 - **Spell Resistance**: Yes
 
-You render the target unable to understand any language, including spoken language, written language, sign language, gestures attempting to mimic a crude language, or even truespeech and telepathy. The affected creature is unable to communicate, use command words, cast spells with verbal components, or use any other abilities that requires language. At the end of each of its turns, the subject can attempt a new saving throw to end the effect. _[[rangoric-srd/spells/Tongues|Tongues]]_ counters and dispels _aphasia_, and a creature with the _[[rangoric-srd/spells/Tongues|tongues]]_ spell active is immune to _aphasia_. [[rangoric-srd/classes/Oracle|Oracles]] with the [[rangoric-srd/class-options/curses/Tongues Curse|tongues curse]] ignore _aphasia_ in combat.
+You render the target unable to understand any language, including spoken language, written language, sign language, gestures attempting to mimic a crude language, or even truespeech and telepathy. The affected creature is unable to communicate, use command words, cast spells with verbal components, or use any other abilities that requires language. At the end of each of its turns, the subject can make the spell attack it again, and a miss ends the effect. _[[rangoric-srd/spells/Tongues|Tongues]]_ counters and dispels _aphasia_, and a creature with the _[[rangoric-srd/spells/Tongues|tongues]]_ spell active is immune to _aphasia_. [[rangoric-srd/classes/Oracle|Oracles]] with the [[rangoric-srd/class-options/curses/Tongues Curse|tongues curse]] ignore _aphasia_ in combat.

@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One weapon/3 levels"
 duration: "Concentration"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Ultimate Magic"
 based-on:
@@ -37,7 +37,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One weapon/3 levels
 - **Duration**: Concentration
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 This functions like _[[rangoric-srd/spells/Keen Edge|keen edge]]_, except it affects multiple weapons and requires your concentration. You select the weapons to be affected, and can only affect one weapon per creature. If a creature's weapon exceeds the spell's range, the spell ends for that weapon.

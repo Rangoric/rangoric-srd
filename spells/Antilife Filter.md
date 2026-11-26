@@ -17,7 +17,7 @@ casting-time: "1 round"
 range: "10 ft."
 area: "10 ft. radius emanation centered on you"
 duration: "10 minutes/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Faeries"
 based-on:
@@ -38,7 +38,7 @@ _Abjuration_
 - **Range**: 10 ft.
 - **Area**: 10 ft. radius emanation centered on you
 - **Duration**: 10 minutes/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 As _[[rangoric-srd/spells/Antilife Shell|antilife shell]]_ or _[[rangoric-srd/spells/Antiplant Shell|antiplant shell]]_, except you bring into being a mobile shell that specifically hedges out and prevents the entrance of one particular creature type.

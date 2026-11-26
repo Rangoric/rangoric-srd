@@ -18,7 +18,7 @@ casting-time: "10 minutes"
 range: "Unlimited"
 effect: "Magical sensor"
 duration: "1 min./level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Arcane Eye|Arcane Eye (3.5)]]"
@@ -38,7 +38,7 @@ _Divination (Scrying)_
 - **Range**: Unlimited
 - **Effect**: Magical sensor
 - **Duration**: 1 min./level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You create an [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] magical sensor that sends you visual information. You can create the arcane eye at any point you can see, but it can then travel outside your line of sight without hindrance. An arcane eye travels at 30 feet per round (300 feet per minute) if viewing an area ahead as a human would (primarily looking at the floor) or 10 feet per round (100 feet per minute) if examining the ceiling and walls as well as the floor ahead. It sees exactly as you would see if you were there.

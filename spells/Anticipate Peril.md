@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 minute/level or until activated"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -42,7 +42,7 @@ _Divination_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 minute/level or until activated
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 A creature affected by _anticipate peril_ gains a preternatural sense of danger. The first time during this spell's duration that the target has to make an initiative check, the creature adds an insight bonus on that initiative check equal to the spell's caster level (maximum +5). Once this bonus applies, the effects of the spell end.

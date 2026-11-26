@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "Caster level hour(s)"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Planar Adventures"
 based-on:
@@ -41,7 +41,7 @@ _Evocation_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: Caster level hour(s)
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 This spell draws upon the latent planar energy of the caster's surroundings, allowing her to temporarily infuse a creature with the plane's power.

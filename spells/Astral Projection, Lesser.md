@@ -14,7 +14,7 @@ casting-time: "30 minutes"
 range: "Touch"
 targets: "You plus one additional willing creature touched per two caster levels"
 duration: "See text"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -35,7 +35,7 @@ _Necromancy_
 - **Range**: Touch
 - **Targets**: You plus one additional willing creature touched per two caster levels
 - **Duration**: See text
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 This spell functions as _[[rangoric-srd/spells/Astral Projection|astral projection]]_, except you cannot leave the Astral Plane and explore other planes (though you can still return to the plane you were on when you cast this spell).

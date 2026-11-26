@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "10 ft."
 area: "10-ft.-radius emanation, centered on you"
 duration: "10 min./level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "See text"
 based-on:
   - "[[fantasy srd 3.5/spells/Antimagic Field|Antimagic Field (3.5)]]"
@@ -37,7 +37,7 @@ _Abjuration_
 - **Range**: 10 ft.
 - **Area**: 10-ft.-radius emanation, centered on you
 - **Duration**: 10 min./level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: See text
 
 An [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] barrier surrounds you and moves with you. The space within this barrier is impervious to most magical effects, including spells, spell-like abilities, and supernatural abilities. Likewise, it prevents the functioning of any magic items or spells within its confines.

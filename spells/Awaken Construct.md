@@ -16,7 +16,7 @@ casting-time: "24 hours"
 range: "Touch"
 target: "Mindless construct touched"
 duration: "Instantaneous"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "No"
 book: "Occult Adventures"
 based-on:
@@ -37,7 +37,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Mindless construct touched
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: No
 
 You amplify the animating force of a construct to more closely resemble a true soul, granting the construct humanlike sentience. To do so, you must succeed at a Mysticism check (DC = 15 + the construct's current Hit Dice). If the construct's master (if any) is present, this is an opposed Mysticism check. You have no special empathy or connection with a creature you awaken-it is a free-willed creature. Golems previously under another creature's control, either as shield guardians or a golem crafter's creations, break all connections with that creature.

@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "30 ft."
 area: "Cone-shaped burst"
 duration: "Instantaneous and 1 round/level (see text)"
-saving-throw: "Reflex half and Will negates (see text)"
+defense: "Reflex half and Will (see text)"
 spell-resistance: "Yes"
 book: "Advanced Class Guide"
 based-on:
@@ -39,7 +39,7 @@ _Necromancy \[Death, Fear, Mind-affecting, Sonic\]_
 - **Range**: 30 ft.
 - **Area**: Cone-shaped burst
 - **Duration**: Instantaneous and 1 round/level (see text)
-- **Saving Throw**: Reflex half and Will negates (see text)
+- **Defense**: Reflex half and Will (see text)
 - **Spell Resistance**: Yes
 
-You create a cone of spectral energy resembling screaming elven ghosts that deals 1d4 points of damage per caster level (maximum 15d4); a successful Reflex save halves this damage. Any creature that fails its Reflex save must succeed at a Will save or become panicked for 1 round/level.
+You create a cone of spectral energy resembling screaming elven ghosts that deals 1d4 points of damage per caster level (maximum 15d4); it attacks Reflex, and a miss halves this damage. The spell then attacks the Will of any creature it hit, and on a hit the creature becomes panicked for 1 round/level.

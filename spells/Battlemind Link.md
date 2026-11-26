@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Personal and close (25 ft. + 5 ft./2 levels)"
 target: "You and 1 ally"
 duration: "1 minute/level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Ultimate Magic"
 based-on:
@@ -39,7 +39,7 @@ _Divination \[Mind-affecting\]_
 - **Range**: Personal and close (25 ft. + 5 ft./2 levels)
 - **Target**: You and 1 ally
 - **Duration**: 1 minute/level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 You fuse your thoughts with an ally's, allowing the two of you to fight in tandem, perfectly coordinated. You and the ally each roll initiative in combat and use the higher die result before adding modifiers. This has three effects.
@@ -48,6 +48,6 @@ _Melee_: If you both make melee attacks against the same creature, you both make
 
 _Ranged_: If you both make ranged attacks against the same creature, you both make attack rolls and both use the higher of the two dice for your attack roll (plus bonuses).
 
-_Spell_: If you both cast spells and target the same area or same creature, affected creatures take a –2 penalty on their saving throw against the spells.
+_Spell_: If you both cast spells and target the same area or same creature, affected creatures take a –2 penalty to their defenses against the spells.
 
 You and the target lose these benefits if you cannot see each other or if you or the target is unconscious or helpless.

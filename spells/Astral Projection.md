@@ -16,7 +16,7 @@ casting-time: "30 minutes"
 range: "Touch"
 targets: "You plus one additional willing creature touched per two caster levels"
 duration: "See text"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Astral Projection|Astral Projection (3.5)]]"
@@ -36,7 +36,7 @@ _Necromancy_
 - **Range**: Touch
 - **Targets**: You plus one additional willing creature touched per two caster levels
 - **Duration**: See text
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 By freeing your spirit from your physical body, this spell allows you to project an astral body onto another plane altogether.

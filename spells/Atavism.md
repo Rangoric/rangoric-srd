@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One animal"
 duration: "1 minute/level"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -33,7 +33,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One animal
 - **Duration**: 1 minute/level
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 By bringing forth the primeval ancestry of the target animal, you awaken a savage engine of destruction. The animal immediately gains the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced creature simple template]]. It gains a +2 bonus on all rolls, including damage rolls and special ability DCs, a +4 bonus to AC and CMD, and +2 hit points per HD. The animal's primal instincts take hold for the duration of this spell—if the animal knows tricks granted by the Animal Handling skill, it loses access to all of those tricks save for “attack.” This spell has no effect on animals that already have the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced creature template]].
