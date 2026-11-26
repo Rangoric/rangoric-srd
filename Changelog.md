@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-26 | Saving throws as defenses, monsters (DF 59): Pickled Punk to Shining Child show defense numbers, and their abilities attack a defense instead of allowing a save. | [[DF Batch 59 Changes]] | | [[Saving Throws as Defenses]] DF 59 |
 | 2026-11-26 | Saving throws as defenses, monsters (DF 58): Living Wall to Phrenic Creature show defense numbers, and their abilities attack a defense instead of allowing a save. | [[DF Batch 58 Changes]] | | [[Saving Throws as Defenses]] DF 58 |
 | 2026-11-26 | Saving throws as defenses, monsters (DF 57): Gryph to Living Vault show defense numbers, and their abilities attack a defense instead of allowing a save. | [[DF Batch 57 Changes]] | | [[Saving Throws as Defenses]] DF 57 |
 | 2026-11-26 | Saving throws as defenses, monsters (DF 56): Gashadokuro to Grootslang show defense numbers, and their abilities attack a defense instead of allowing a save. | [[DF Batch 56 Changes]] | | [[Saving Throws as Defenses]] DF 56 |
