@@ -16,7 +16,7 @@ full-attack: "Slam –1 melee (1d3–2 plus ensnare); or seed +3 ranged (1 plus 
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +1d6, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, change shape (Small gourd; tree shape), keepsake, verdant burst, immunity to electricity and sonic, plant traits"
-saves: "Fort +4, Ref +2, Will +0"
+defenses: "Fort 14, Ref 12, Will 10"
 abilities: "Str 6, Dex 15, Con 14, Int 6, Wis 11, Cha 15"
 skills: "Fieldcraft +0 (+4 in plains and undergrowth), Perception +4, Stealth +6 (+10 in plains and undergrowth)"
 skill-ranks: "Fieldcraft 0, Perception 1, Stealth 0"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Sneak attack +1d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (Small gourd; tree shape), [[rangoric-srd/monsters/abilities/Keepsake|keepsake]], verdant burst, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and sonic, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-- **Saves**: Fort +4, Ref +2, Will +0
+- **Defenses**: Fort 14, Ref 12, Will 10
 - **Abilities**: Str 6, Dex 15, Con 14, Int 6, Wis 11, Cha 15
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +0 (+4 in plains and undergrowth), [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +6 (+10 in plains and undergrowth)
 - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]]
@@ -75,7 +75,7 @@ Gourd leshys speak Druidic and Sylvan.
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 2nd; concentration +4): Constant—_[[rangoric-srd/spells/Pass without Trace|pass without trace]]_.
 
-**Ensnare (Ex)**: The seeds and slam attack of a gourd leshy entangle the target in vines for 2d4 rounds unless the target makes a DC 12 Reflex save. The target can attempt to burst these entangling vines before the duration expires with a DC 12 Strength check as a full-round action. The save and burst DCs are Constitution-based.
+**Ensnare (Ex)**: The seeds and slam attack of a gourd leshy attack the target at +2 vs Reflex, and on a hit entangle it in vines for 2d4 rounds. The target can attempt to burst these entangling vines before the duration expires with a DC 12 Strength check as a full-round action. The attack bonus and the burst DC are Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Keepsake|Keepsake]] (Su)**: Gourd leshys can pop off the top of their heads and store a single Fine-sized object such as a dagger or potion inside. While within the leshy's head, the item is warded by nondetection. In addition, after 24 hours, the item within is cleaned and polished, and, if damaged, repaired as if by a mending spell. Both spell effects have a caster level equal to twice the leshy's Hit Dice (CL 2nd for most gourd leshys).
 

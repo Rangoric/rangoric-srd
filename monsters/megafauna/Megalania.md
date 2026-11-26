@@ -15,7 +15,7 @@ full-attack: "Bite +14 melee (2d8+12 plus grab and poison)"
 space-reach: "15 ft./10 ft."
 special-attacks: "Swallow whole (2d8+12 bludgeoning damage, AC 16, 8 hp), poison"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +11, Ref +8, Will +7"
+defenses: "Fort 21, Ref 18, Will 17"
 abilities: "Str 27, Dex 13, Con 19, Int 2, Wis 14, Cha 6"
 skills: "Athletics +16, Perception +10, Stealth +10 (+14 in rocks or undergrowth)"
 skill-ranks: "Athletics 5, Perception 5, Stealth 10"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Swallow Whole|Swallow whole]] (2d8+12 bludgeoning damage, AC 16, 8 hp), [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +11, Ref +8, Will +7
+- **Defenses**: Fort 21, Ref 18, Will 17
 - **Abilities**: Str 27, Dex 13, Con 19, Int 2, Wis 14, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +10 (+14 in rocks or undergrowth)
 - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
@@ -68,4 +68,4 @@ A megalania is 20 feet long and weighs 2,000 pounds.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Megalania Venom|Megalania Venom]]: Bite—injury; _save_ Fort DC 19; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Dex damage; _cure_ 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Megalania Venom|Megalania Venom]]: Bite—injury; _attack_ +9 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Dex damage; _cure_ 2 consecutive misses.

@@ -16,7 +16,7 @@ full-attack: "2 claws +29 (2d6+11) melee, bite +24 (2d8+5) melee"
 space-reach: "10 ft./5 ft."
 special-attacks: "Pounce, improved grab, rake 2d6+5"
 special-qualities: "Scent"
-saves: "Fort +22, Ref +19, Will +12"
+defenses: "Fort 32, Ref 29, Will 22"
 abilities: "Str 32, Dex 18, Con 24, Int 2, Wis 14, Cha 10"
 skills: "Athletics +20 (+28 jumping), Perception +16, Stealth +18"
 skill-ranks: "Athletics 3, Perception 8, Stealth 15"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Grab|improved grab]], [[rangoric-srd/monsters/abilities/Rake|rake]] 2d6+5
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Scent|Scent]]
-- **Saves**: Fort +22, Ref +19, Will +12
+- **Defenses**: Fort 32, Ref 29, Will 22
 - **Abilities**: Str 32, Dex 18, Con 24, Int 2, Wis 14, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +20 (+28 jumping), [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +18
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Athletics), [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]](x2), [[rangoric-srd/feats/Track|Track]]

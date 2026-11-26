@@ -14,7 +14,7 @@ full-attack: "Battleaxe +4 melee (1d8+1/x3) or javelin +3 ranged (1d6+1) / Gore 
 space-reach: "5 ft./5 ft."
 special-attacks: "— / Curse of lycanthropy"
 special-qualities: "Alternate form, boar empathy, ferocity, low-light vision, scent / Alternate form, boar empathy, damage reduction 10/silver, ferocity, low-light vision, scent"
-saves: "Fort +6, Ref +3, Will +3 / Fort +9, Ref +3, Will +3"
+defenses: "Fort 16, Ref 13, Will 13 / Fort 19, Ref 13, Will 13"
 abilities: "Str 13, Dex 11, Con 12, Int 10, Wis 11, Cha 8 / Str 17, Dex 11, Con 18, Int 10, Wis 11, Cha 8"
 skills: "Animal Handling +6, Intimidation +6, Perception +7 / Animal Handling +6, Intimidation +6, Perception +7"
 skill-ranks: "Animal Handling 4, Intimidation 4, Perception 1"
@@ -55,7 +55,7 @@ tags: [rangoric, rangoric/monster]
 | **Space/Reach:** | 5 ft./5 ft. | | 5 ft./5 ft. | | 5 ft./5 ft. |
 | **Special Attacks:** | — | | Curse of lycanthropy | | Curse of lycanthropy |
 | **Special Qualities:** | [[rangoric-srd/monsters/abilities/Alternate Form\|Alternate form]], boar empathy, ferocity, low-light vision, [[rangoric-srd/monsters/abilities/Scent\|scent]] | | [[rangoric-srd/monsters/abilities/Alternate Form\|Alternate form]], boar empathy, [[rangoric-srd/monsters/abilities/Damage Reduction\|damage reduction]] 10/silver, ferocity, low-light vision, [[rangoric-srd/monsters/abilities/Scent\|scent]] | | [[rangoric-srd/monsters/abilities/Alternate Form\|Alternate form]], boar empathy, [[rangoric-srd/monsters/abilities/Damage Reduction\|damage reduction]] 10/silver, ferocity, low-light vision, [[rangoric-srd/monsters/abilities/Scent\|scent]] |
-| **Saves:** | Fort +6, Ref +3, Will +3 | | Fort +9, Ref +3, Will +3 | | Fort +9, Ref +3, Will +3 |
+| **Defenses:** | Fort 16, Ref 13, Will 13 | | Fort 19, Ref 13, Will 13 | | Fort 19, Ref 13, Will 13 |
 | **Abilities:** | Str 13, Dex 11, Con 12, Int 10, Wis 11, Cha 8 | | Str 17, Dex 11, Con 18, Int 10, Wis 11, Cha 8 | | Str 17, Dex 11, Con 18, Int 10, Wis 11, Cha 8 |
 | **Skills:** | [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +6, [[rangoric-srd/skills/Intimidation\|Intimidation]] +6, [[rangoric-srd/skills/Perception\|Perception]] +7 | | [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +6, [[rangoric-srd/skills/Intimidation\|Intimidation]] +6, [[rangoric-srd/skills/Perception\|Perception]] +7 | | [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +6, [[rangoric-srd/skills/Intimidation\|Intimidation]] +6, [[rangoric-srd/skills/Perception\|Perception]] +7 |
 | **Feats:** | [[rangoric-srd/feats/Improved Bull Rush\|Improved Bull Rush]], [[rangoric-srd/feats/Iron Will\|Iron Will (B)]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception) (B), [[rangoric-srd/feats/Toughness\|Toughness]] | | (same as human form) | | (same as human form) |
@@ -77,7 +77,7 @@ In any form, wereboars are as ferocious as normal boars. When in hybrid form, th
 
 **Boar Empathy (Ex)**: Communicate with boars and dire boars, and +4 racial bonus on Charisma-based checks against boars and dire boars.
 
-**Curse of Lycanthropy (Su)**: Any humanoid or giant hit by the wereboar’s gore attack in animal or hybrid form must succeed on a DC 15 Fortitude save or contract lycanthropy.
+**Curse of Lycanthropy (Su)**: Any humanoid or giant hit by the wereboar’s gore attack in animal or hybrid form is attacked at +5 vs Fortitude, and on a hit contracts lycanthropy.
 
 **Ferocity (Ex)**: A wereboar is such a tenacious combatant that it continues to fight without penalty even while [[rangoric-srd/rules/Special Abilities and Conditions#^disabled|disabled]] or [[rangoric-srd/rules/Special Abilities and Conditions#^dying|dying]].
 

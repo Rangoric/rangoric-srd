@@ -16,7 +16,7 @@ full-attack: "Masterwork trident +9 melee (2d6+3) and bite +5 melee (1d8+1); or 
 space-reach: "10 ft./10 ft."
 special-attacks: "Blood rage"
 special-qualities: "Hold breath, lizardfolk blood"
-saves: "Fort +7, Ref +2, Will +3"
+defenses: "Fort 17, Ref 12, Will 13"
 abilities: "Str 16, Dex 11, Con 14, Int 9, Wis 12, Cha 11"
 skills: "Athletics +14, Perception +5"
 skill-ranks: "Athletics 8, Perception 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Rage|Blood rage]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Hold Breath|Hold breath]], [[rangoric-srd/monsters/abilities/Lizardfolk Blood|lizardfolk blood]]
-- **Saves**: Fort +7, Ref +2, Will +3
+- **Defenses**: Fort 17, Ref 12, Will 13
 - **Abilities**: Str 16, Dex 11, Con 14, Int 9, Wis 12, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Perception|Perception]] +5
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (trident)

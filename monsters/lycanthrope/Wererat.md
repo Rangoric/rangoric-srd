@@ -14,7 +14,7 @@ full-attack: "Rapier +2 melee (1d6+1/18–20) or light crossbow +1 ranged (1d8/1
 space-reach: "5 ft./5 ft."
 special-attacks: "— / Curse of lycanthropy, disease"
 special-qualities: "Alternate form, rat empathy, low-light vision, scent / Alternate form, rat empathy, damage reduction 10/silver, low-light vision, scent"
-saves: "Fort +5, Ref +2, Will +4 / Fort +6, Ref +5, Will +4"
+defenses: "Fort 15, Ref 12, Will 14 / Fort 16, Ref 15, Will 14"
 abilities: "Str 13, Dex 11, Con 12, Int 10, Wis 11, Cha 8 / Str 13, Dex 17, Con 14, Int 10, Wis 11, Cha 8"
 skills: "Animal Handling +4, Athletics +9, Perception +8, Stealth +4 / Animal Handling +4, Athletics +11 (+19 climbing), Perception +8, Stealth +11 / Animal Handling +4, Athletics +9, Perception +8, Stealth +8"
 skill-ranks: "Animal Handling 2, Athletics 0, Perception 2, Stealth 1"
@@ -55,7 +55,7 @@ tags: [rangoric, rangoric/monster]
 | **Space/Reach:** | 5 ft./5 ft. | | 5 ft./5 ft. | | 5 ft./5 ft. |
 | **Special Attacks:** | — | | Curse of lycanthropy, disease | | Curse of lycanthropy, disease |
 | **Special Qualities:** | [[rangoric-srd/monsters/abilities/Alternate Form\|Alternate form]], rat empathy, low-light vision, [[rangoric-srd/monsters/abilities/Scent\|scent]] | | [[rangoric-srd/monsters/abilities/Alternate Form\|Alternate form]], rat empathy, [[rangoric-srd/monsters/abilities/Damage Reduction\|damage reduction]] 10/silver, low-light vision, [[rangoric-srd/monsters/abilities/Scent\|scent]] | | [[rangoric-srd/monsters/abilities/Alternate Form\|Alternate form]], rat empathy, [[rangoric-srd/monsters/abilities/Damage Reduction\|damage reduction]] 10/silver, low-light vision, [[rangoric-srd/monsters/abilities/Scent\|scent]] |
-| **Saves:** | Fort +5, Ref +2, Will +4 | | Fort +6, Ref +5, Will +4 | | Fort +6, Ref +5, Will +4 |
+| **Defenses:** | Fort 15, Ref 12, Will 14 | | Fort 16, Ref 15, Will 14 | | Fort 16, Ref 15, Will 14 |
 | **Abilities:** | Str 13, Dex 11, Con 12, Int 10, Wis 11, Cha 8 | | Str 13, Dex 17, Con 14, Int 10, Wis 11, Cha 8 | | Str 13, Dex 17, Con 14, Int 10, Wis 11, Cha 8 |
 | **Skills:** | [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +4, [[rangoric-srd/skills/Athletics\|Athletics]] +9, [[rangoric-srd/skills/Perception\|Perception]] +8, [[rangoric-srd/skills/Stealth\|Stealth]] +4 | | [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +4, Athletics +11 (+19 climbing), [[rangoric-srd/skills/Perception\|Perception]] +8, [[rangoric-srd/skills/Stealth\|Stealth]] +11 | | [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +4, Athletics +9, [[rangoric-srd/skills/Perception\|Perception]] +8, [[rangoric-srd/skills/Stealth\|Stealth]] +8 |
 | **Feats:** | [[rangoric-srd/feats/Dodge\|Dodge]], [[rangoric-srd/feats/Iron Will\|Iron Will (B)]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Finesse\|Weapon Finesse (B)]] | | (same as human form) | | (same as human form) |
@@ -75,9 +75,9 @@ In animal form, wererats avoid combat, preferring to use their dire rat shape fo
 
 **Alternate Form (Su)**: A wererat can assume a bipedal hybrid form or the form of a [[rangoric-srd/monsters/dire-animal/Dire Rat|dire rat]].
 
-**Curse of Lycanthropy (Su)**: Any humanoid or giant hit by a wererat’s bite attack in animal or hybrid form must succeed on a DC 15 Fortitude save or contract lycanthropy.
+**Curse of Lycanthropy (Su)**: Any humanoid or giant hit by a wererat’s bite attack in animal or hybrid form is attacked at +5 vs Fortitude, and on a hit contracts lycanthropy.
 
-**Disease (Ex)**: Filth fever; bite, Fortitude DC 12, incubation period 1d3 days, damage 1d3 Dex and 1d3 Con. The save DC is Constitution-based.
+**Disease (Ex)**: Filth fever; bite, +2 vs Fortitude, incubation period 1d3 days, damage 1d3 Dex and 1d3 Con. The attack bonus is Constitution-based.
 
 **Rat Empathy (Ex)**: Communicate with rats and dire rats, and +4 racial bonus on Charisma-based checks against rats and dire rats.
 

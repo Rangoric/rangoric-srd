@@ -67,7 +67,7 @@ A lycanthrope uses either the base creature’s or the base animal’s statistic
 
 A lycanthrope’s hybrid form does not gain any special attacks of the base animal. A lycanthrope spellcaster cannot cast spells with verbal, somatic, or material components while in animal form, or spells with verbal components while in hybrid form.
 
-_Curse of Lycanthropy (Su)_: Any humanoid or giant hit by a natural lycanthrope’s bite attack in animal or hybrid form must succeed on a DC 15 Fortitude save or contract lycanthropy. If the victim’s size is not within one size category of the lycanthrope the victim cannot contract lycanthropy from that lycanthrope. Afflicted lycanthropes cannot pass on the curse of lycanthropy.
+_Curse of Lycanthropy (Su)_: Any humanoid or giant hit by a natural lycanthrope’s bite attack in animal or hybrid form is attacked at +5 vs Fortitude, and on a hit contracts lycanthropy. If the victim’s size is not within one size category of the lycanthrope the victim cannot contract lycanthropy from that lycanthrope. Afflicted lycanthropes cannot pass on the curse of lycanthropy.
 
 **Special Qualities**: A lycanthrope retains all the special qualities of the base creature and the base animal, and also gains those described below.
 
@@ -128,7 +128,7 @@ The character’s actions during this first episode are dictated by the alignmen
 
 Thereafter, the character is subject to involuntary transformation under the full moon and whenever damaged in combat. He or she feels an overwhelming rage building up and must succeed on a Control Shape check (see below) to resist changing into animal form. Any player character not yet aware of his or her lycanthropic condition temporarily becomes an NPC during an involuntary change, and acts according to the alignment of his or her animal form.
 
-A character with awareness of his condition retains his identity and does not lose control of his actions if he changes. However, each time he changes to his animal form, he must make a Will save (DC 15 + number of times he has been in animal form) or permanently assume the alignment of his animal form in all shapes.
+A character with awareness of his condition retains his identity and does not lose control of his actions if he changes. However, each time he changes to his animal form, the curse attacks his Will (attack bonus 5 + the number of times he has been in animal form), and on a hit he permanently assumes the alignment of his animal form in all shapes.
 
 Once a character becomes aware of his affliction, he can now voluntarily attempt to change to animal or hybrid form, using the appropriate Control Shape check DC. An attempt is a standard action and can be made each round. Any voluntary change to animal or hybrid form immediately and permanently changes the character’s alignment to that of the appropriate lycanthrope.
 
@@ -138,13 +138,13 @@ Changing form is a standard action. If the change is involuntary, the character 
 
 #### Curing Lycanthropy
 
-An afflicted character who eats a sprig of belladonna (also called wolfsbane) within 1 hour of a lycanthrope’s attack can attempt a DC 20 Fortitude save to shake off the affliction. If a healer administers the herb, use the character’s save bonus or the healer’s [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] modifier, whichever is higher. The character gets only one chance, no matter how much belladonna is consumed. The belladonna must be reasonably fresh (picked within the last week).
+An afflicted character who eats a sprig of belladonna (also called wolfsbane) within 1 hour of a lycanthrope’s attack makes the curse attack the character again at +10 vs Fortitude, and a miss shakes off the affliction. If a healer administers the herb, use the character’s Fortitude Defense or 10 + the healer’s [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] modifier, whichever is higher. The character gets only one chance, no matter how much belladonna is consumed. The belladonna must be reasonably fresh (picked within the last week).
 
-However, fresh or not, belladonna is toxic. The character must succeed on a DC 13 Fortitude save or take 1d6 points of Strength damage. One minute later, the character must succeed on a second DC 13 save or take an additional 2d6 points of Strength damage.
+However, fresh or not, belladonna is toxic. It attacks the character at +3 vs Fortitude, and on a hit the character takes 1d6 points of Strength damage. One minute later, it attacks again at +3, and on a hit the character takes an additional 2d6 points of Strength damage.
 
 A [[rangoric-srd/spells/Remove Disease|remove disease]] or [[rangoric-srd/spells/Heal (Spell)|heal]] spell cast by a cleric of 12th level or higher also cures the affliction, provided the character receives the spell within three days of the lycanthrope’s attack.
 
-The only other way to remove the affliction is to cast [[rangoric-srd/spells/Remove Curse|remove curse]] or [[rangoric-srd/spells/Break Enchantment|break enchantment]] on the character during one of the three days of the full moon. After receiving the spell, the character must succeed on a DC 20 Will save to break the curse (the caster knows if the spell works). If the save fails, the process must be repeated. Characters undergoing this cure are often kept bound or confined in cages until the cure takes effect.
+The only other way to remove the affliction is to cast [[rangoric-srd/spells/Remove Curse|remove curse]] or [[rangoric-srd/spells/Break Enchantment|break enchantment]] on the character during one of the three days of the full moon. After receiving the spell, the curse attacks the character at +10 vs Will, and a miss breaks it (the caster knows if the spell works). On a hit, the process must be repeated. Characters undergoing this cure are often kept bound or confined in cages until the cure takes effect.
 
 Only afflicted lycanthropes can be cured of lycanthropy.
 

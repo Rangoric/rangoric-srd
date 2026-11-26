@@ -16,7 +16,7 @@ full-attack: "Shortspear +2 melee (1d4–2/19–20); or seedpods +2 ranged touch
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, change shape (Small tree; tree shape), verdant burst, immunity to electricity and sonic, plant traits"
-saves: "Fort +3, Ref +1, Will +1"
+defenses: "Fort 13, Ref 11, Will 11"
 abilities: "Str 6, Dex 13, Con 12, Int 5, Wis 12, Cha 13"
 skills: "Acrobatics –1, Fieldcraft +1 (+5 in forests and jungles), Stealth +5 (+9 in forests and jungles)"
 skill-ranks: "Acrobatics 0, Fieldcraft 0, Stealth 0"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (Small tree; tree shape), verdant burst, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and sonic, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-- **Saves**: Fort +3, Ref +1, Will +1
+- **Defenses**: Fort 13, Ref 11, Will 11
 - **Abilities**: Str 6, Dex 13, Con 12, Int 5, Wis 12, Cha 13
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –1, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +1 (+5 in forests and jungles), [[rangoric-srd/skills/Stealth|Stealth]] +5 (+9 in forests and jungles)
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -75,7 +75,7 @@ Leaf leshys speak Druidic and Sylvan.
 
 **[[rangoric-srd/monsters/abilities/Glide|Glide]] (Ex)**: A leaf leshy cannot use its fly speed to hover. When flying, a leaf leshy must end its movement at least 5 feet lower in elevation than it started.
 
-**Seedpods (Ex)**: Leaf leshys sprout explosive acorns, pine cones, or other seedpods, and can hurl these as ranged attacks. A seedpod has a range increment of 10 feet and detonates on contact to deal 1 point of bludgeoning damage (this damage is not modified by Strength). Anyone struck by a seedpod must succeed at a DC 11 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]] for 1 round. The save DC is Constitution-based.
+**Seedpods (Ex)**: Leaf leshys sprout explosive acorns, pine cones, or other seedpods, and can hurl these as ranged attacks. A seedpod has a range increment of 10 feet and detonates on contact to deal 1 point of bludgeoning damage (this damage is not modified by Strength). A seedpod attacks anyone it strikes at +1 vs Fortitude, and on a hit they are [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]] for 1 round. The attack bonus is Constitution-based.
 
 ### Creation
 

@@ -15,7 +15,7 @@ full-attack: "Bite +23 melee (4d6+15/19–20 plus grab) and tail slap +18 melee 
 space-reach: "20 ft./20 ft."
 special-attacks: "Swallow whole (4d6+15 bludgeoning damage, AC 20, 16 hp)"
 special-qualities: "Blindsense 60 ft., low-light vision, hold breath"
-saves: "Fort +17, Ref +11, Will +7"
+defenses: "Fort 27, Ref 21, Will 17"
 abilities: "Str 41, Dex 12, Con 21, Int 2, Wis 11, Cha 6"
 skills: "Athletics +31, Perception +25"
 skill-ranks: "Athletics 13, Perception 18"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 20 ft./20 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Swallow Whole|Swallow whole]] (4d6+15 bludgeoning damage, AC 20, 16 hp)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]]
-- **Saves**: Fort +17, Ref +11, Will +7
+- **Defenses**: Fort 27, Ref 21, Will 17
 - **Abilities**: Str 41, Dex 12, Con 21, Int 2, Wis 11, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +31, [[rangoric-srd/skills/Perception|Perception]] +25
 - **Feats**: [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Vital Strike|Vital Strike]]

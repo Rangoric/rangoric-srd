@@ -15,7 +15,7 @@ full-attack: "Gore +7 melee (2d6+5) and 2 hooves +2 melee (1d4+2)"
 space-reach: "10 ft./5 ft."
 special-attacks: "Powerful charge (4d6+7)"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +8, Ref +8, Will +3"
+defenses: "Fort 18, Ref 18, Will 13"
 abilities: "Str 20, Dex 15, Con 18, Int 2, Wis 15, Cha 5"
 skills: "Perception +9"
 skill-ranks: "Perception 4"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (4d6+7)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +8, Ref +8, Will +3
+- **Defenses**: Fort 18, Ref 18, Will 13
 - **Abilities**: Str 20, Dex 15, Con 18, Int 2, Wis 15, Cha 5
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +9
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Run|Run]]

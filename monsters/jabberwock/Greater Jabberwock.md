@@ -15,7 +15,7 @@ full-attack: "2 claws +8 melee (2d6+8), bite +6 melee (4d6+4 plus acid), and tai
 space-reach: "20 ft./15 ft."
 special-attacks: "Acidic bite, breath weapon, frightful presence, improved grab, snatch"
 special-qualities: "Darkvision 60 ft., damage reduction 15/magic, low-light vision, spell resistance 21"
-saves: "Fort +7, Ref +6, Will +6"
+defenses: "Fort 17, Ref 16, Will 16"
 abilities: "Str 27, Dex 11, Con 21, Int 10, Wis 15, Cha 13"
 skills: "Intimidation +15, Perception +22, Stealth +0"
 skill-ranks: "Intimidation 11, Perception 11, Stealth 9"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 20 ft./15 ft.
 - **Special Attacks**: Acidic bite, [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]], [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]], [[rangoric-srd/monsters/abilities/Grab|improved grab]], snatch
 - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/magic, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
-- **Saves**: Fort +7, Ref +6, Will +6
+- **Defenses**: Fort 17, Ref 16, Will 16
 - **Abilities**: Str 27, Dex 11, Con 21, Int 10, Wis 15, Cha 13
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +0
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Critical|Improved Critical]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]]
@@ -66,11 +66,11 @@ Mystery shrouds the origin of the greater jabberwock. It shares some characteris
 
 The greater jabberwock is a ferocious creature and attacks any creature it encounters. Their favorite tactics are to wander the mundane roads and paths of the fey realm attacking anything that resembles food—and to a jabberwock, everything that moves is food.
 
-**Acidic Bite (Ex)**: The saliva left behind by the bite of a jabberwock is acidic, causing 2d8 points of damage. A successful Fortitude save (DC 16) reduces this damage by half.
+**Acidic Bite (Ex)**: The saliva left behind by the bite of a jabberwock is acidic, causing 2d8 points of damage. It attacks at +6 vs Fortitude, and a miss reduces this damage by half.
 
-**Breath Weapon (Su)**: A greater jabberwock possesses the ability to breathe a cone of fire dealing 12d8 points of fire damage. Victims need a successful Reflex save to halve this damage (DC 25). This ability is a standard action and once used, cannot be used again for 1d4 rounds.
+**Breath Weapon (Su)**: A greater jabberwock possesses the ability to breathe a cone of fire dealing 12d8 points of fire damage. It attacks victims at +15 vs Reflex, and a miss halves this damage. This ability is a standard action and once used, cannot be used again for 1d4 rounds.
 
-**Frightful Presence (Ex)**: Any creature that encounters a greater jabberwock becomes [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] if it fails a DC 20 Will save.
+**Frightful Presence (Ex)**: Any creature that encounters a greater jabberwock is attacked at +10 vs Will, and becomes [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] on a hit.
 
 **Improved Grab (Ex)**: To use this ability, the greater jabberwock must hit with one of its claw attacks.
 

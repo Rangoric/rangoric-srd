@@ -14,7 +14,7 @@ full-attack: "Greataxe +6 melee (1d12+1/x3) or throwing axe +5 ranged (1d6+1) / 
 space-reach: "5 ft./5 ft. / 10 ft./5 ft. / 10 ft./10 ft."
 special-attacks: "— / Improved grab, curse of lycanthropy / Curse of lycanthropy"
 special-qualities: "Alternate form, bear empathy, low-light vision, scent / Alternate form, bear empathy, damage reduction 10/silver, low-light vision, scent"
-saves: "Fort +8, Ref +5, Will +4 / Fort +12, Ref +6, Will +4"
+defenses: "Fort 18, Ref 15, Will 14 / Fort 22, Ref 16, Will 14"
 abilities: "Str 13, Dex 11, Con 12, Int 10, Wis 11, Cha 8 / Str 29, Dex 13, Con 20, Int 10, Wis 11, Cha 8"
 skills: "Animal Handling +9, Athletics +8, Perception +7 / Animal Handling +9, Athletics +20, Perception +7 / Animal Handling +9, Athletics +16, Perception +8"
 skill-ranks: "Animal Handling 7, Athletics 4, Perception 4"
@@ -55,7 +55,7 @@ tags: [rangoric, rangoric/monster]
 | **Space/Reach:** | 5 ft./5 ft. | | 10 ft./5 ft. | | 10 ft./10 ft. |
 | **Special Attacks:** | — | | [[rangoric-srd/monsters/abilities/Grab\|Improved grab]], curse of lycanthropy | | Curse of lycanthropy |
 | **Special Qualities:** | [[rangoric-srd/monsters/abilities/Alternate Form\|Alternate form]], bear empathy, low-light vision, [[rangoric-srd/monsters/abilities/Scent\|scent]] | | [[rangoric-srd/monsters/abilities/Alternate Form\|Alternate form]], bear empathy, [[rangoric-srd/monsters/abilities/Damage Reduction\|damage reduction]] 10/silver, low-light vision, [[rangoric-srd/monsters/abilities/Scent\|scent]] | | [[rangoric-srd/monsters/abilities/Alternate Form\|Alternate form]], bear empathy, [[rangoric-srd/monsters/abilities/Damage Reduction\|damage reduction]] 10/silver, low-light vision, [[rangoric-srd/monsters/abilities/Scent\|scent]] |
-| **Saves:** | Fort +8, Ref +5, Will +4 | | Fort +12, Ref +6, Will +4 | | Fort +12, Ref +6, Will +4 |
+| **Defenses:** | Fort 18, Ref 15, Will 14 | | Fort 22, Ref 16, Will 14 | | Fort 22, Ref 16, Will 14 |
 | **Abilities:** | Str 13, Dex 11, Con 12, Int 10, Wis 11, Cha 8 | | Str 29, Dex 13, Con 20, Int 10, Wis 11, Cha 8 | | Str 29, Dex 13, Con 20, Int 10, Wis 11, Cha 8 |
 | **Skills:** | [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +9, [[rangoric-srd/skills/Athletics\|Athletics]] +8, [[rangoric-srd/skills/Perception\|Perception]] +7 | | [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +9, [[rangoric-srd/skills/Athletics\|Athletics]] +20, [[rangoric-srd/skills/Perception\|Perception]] +7 | | [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +9, [[rangoric-srd/skills/Athletics\|Athletics]] +16, [[rangoric-srd/skills/Perception\|Perception]] +8 |
 | **Feats:** | [[rangoric-srd/feats/Endurance\|Endurance]], [[rangoric-srd/feats/Iron Will\|Iron Will (B)]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Run\|Run]], [[rangoric-srd/feats/Track\|Track (B)]] | | (same as human form) | | (same as human form) |
@@ -77,7 +77,7 @@ Werebears fight just as brown bears do in animal form. In humanoid or hybrid for
 
 **Bear Empathy (Ex)**: Communicate with bears and dire bears, and +4 racial bonus on Charisma-based checks against bears and dire bears.
 
-**Curse of Lycanthropy (Su)**: Any humanoid or giant hit by a werebear’s bite attack in animal or hybrid form must succeed on a DC 15 Fortitude save or contract lycanthropy.
+**Curse of Lycanthropy (Su)**: Any humanoid or giant hit by a werebear’s bite attack in animal or hybrid form is attacked at +5 vs Fortitude, and on a hit contracts lycanthropy.
 
 **Improved Grab (Ex)**: To use this ability, a werebear must be in bear form and must hit with a claw attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity.
 

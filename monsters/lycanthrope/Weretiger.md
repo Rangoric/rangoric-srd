@@ -14,7 +14,7 @@ full-attack: "Glaive +6 melee (1d10+1/x3) or composite longbow (+1 Str bonus) +5
 space-reach: "5 ft./5 ft. (10 ft. with glaive) / 10 ft./5 ft. / 10 ft./10 ft."
 special-attacks: "— / Pounce, Improved grab, rake, curse of lycanthropy / Curse of lycanthropy"
 special-qualities: "Alternate form, tiger empathy, low-light vision, scent / Alternate form, tiger empathy, damage reduction 10/silver, low-light vision, scent"
-saves: "Fort +8, Ref +5, Will +4 / Fort +10, Ref +7, Will +4"
+defenses: "Fort 18, Ref 15, Will 14 / Fort 20, Ref 17, Will 14"
 abilities: "Str 13, Dex 11, Con 12, Int 10, Wis 11, Cha 8 / Str 25, Dex 15, Con 16, Int 10, Wis 11, Cha 8"
 skills: "Acrobatics +10, Animal Handling +6, Athletics +1, Perception +10, Stealth +0 / Acrobatics +16, Animal Handling +6, Athletics +12, Perception +10, Stealth +8* / Acrobatics +16, Animal Handling +6, Athletics +12, Perception +10, Stealth +8"
 skill-ranks: "Acrobatics 7, Animal Handling 4, Athletics 0, Perception 4, Stealth 0"
@@ -55,7 +55,7 @@ tags: [rangoric, rangoric/monster]
 | **Space/Reach:** | 5 ft./5 ft. (10 ft. with glaive) | | 10 ft./5 ft. | | 10 ft./10 ft. |
 | **Special Attacks:** | — | | [[rangoric-srd/monsters/abilities/Pounce\|Pounce]], [[rangoric-srd/monsters/abilities/Grab\|Improved grab]], [[rangoric-srd/monsters/abilities/Rake\|rake]], curse of lycanthropy | | Curse of lycanthropy |
 | **Special Qualities:** | [[rangoric-srd/monsters/abilities/Alternate Form\|Alternate form]], tiger empathy, low-light vision, [[rangoric-srd/monsters/abilities/Scent\|scent]] | | [[rangoric-srd/monsters/abilities/Alternate Form\|Alternate form]], tiger empathy, [[rangoric-srd/monsters/abilities/Damage Reduction\|damage reduction]] 10/silver, low-light vision, [[rangoric-srd/monsters/abilities/Scent\|scent]] | | [[rangoric-srd/monsters/abilities/Alternate Form\|Alternate form]], tiger empathy, [[rangoric-srd/monsters/abilities/Damage Reduction\|damage reduction]] 10/silver, low-light vision, [[rangoric-srd/monsters/abilities/Scent\|scent]] |
-| **Saves:** | Fort +8, Ref +5, Will +4 | | Fort +10, Ref +7, Will +4 | | Fort +10, Ref +7, Will +4 |
+| **Defenses:** | Fort 18, Ref 15, Will 14 | | Fort 20, Ref 17, Will 14 | | Fort 20, Ref 17, Will 14 |
 | **Abilities:** | Str 13, Dex 11, Con 12, Int 10, Wis 11, Cha 8 | | Str 25, Dex 15, Con 16, Int 10, Wis 11, Cha 8 | | Str 25, Dex 15, Con 16, Int 10, Wis 11, Cha 8 |
 | **Skills:** | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +10, [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +6, [[rangoric-srd/skills/Athletics\|Athletics]] +1, [[rangoric-srd/skills/Perception\|Perception]] +10, [[rangoric-srd/skills/Stealth\|Stealth]] +0 | | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +16, [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +6, [[rangoric-srd/skills/Athletics\|Athletics]] +12, [[rangoric-srd/skills/Perception\|Perception]] +10, [[rangoric-srd/skills/Stealth\|Stealth]] +8\* | | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +16, [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +6, [[rangoric-srd/skills/Athletics\|Athletics]] +12, [[rangoric-srd/skills/Perception\|Perception]] +10, [[rangoric-srd/skills/Stealth\|Stealth]] +8 |
 | **Feats:** | [[rangoric-srd/feats/Combat Reflexes\|Combat Reflexes]], [[rangoric-srd/feats/Feats All\|Improved Initiative]], [[rangoric-srd/feats/Improved Natural Attack\|Improved Natural Attack]] (bite, claw), [[rangoric-srd/feats/Iron Will\|Iron Will (B)]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception) (B) | | (same as human form) | | (same as human form) |
@@ -75,7 +75,7 @@ Weretigers can assume a hybrid form as well as an animal form. In tiger form, th
 
 **Alternate Form (Su)**: A weretiger can assume a bipedal hybrid form or the form of a [[rangoric-srd/monsters/Tiger|tiger]].
 
-**Curse of Lycanthropy (Su)**: Any humanoid or giant hit by a weretiger’s bite attack in animal or hybrid form must succeed on a DC 15 Fortitude save or contract lycanthropy.
+**Curse of Lycanthropy (Su)**: Any humanoid or giant hit by a weretiger’s bite attack in animal or hybrid form is attacked at +5 vs Fortitude, and on a hit contracts lycanthropy.
 
 **Improved Grab (Ex)**: To use this ability, a weretiger in tiger form must hit with a claw or bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can rake.
 

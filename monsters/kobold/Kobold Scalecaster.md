@@ -16,7 +16,7 @@ full-attack: "2 claws –2 melee (1d3–3); or light crossbow +4 ranged (1d6/19�
 space-reach: "5 ft./5 ft."
 special-attacks: "Claws (1d3-3, 5 rounds/day)"
 special-qualities: "Darkvision 60 ft., bloodline arcana (fire spells deal +1 damage per die), crafty, light sensitivity"
-saves: "Fort +0, Ref +3, Will +3"
+defenses: "Fort 10, Ref 13, Will 13"
 abilities: "Str 4, Dex 16, Con 10, Int 10, Wis 13, Cha 15"
 skills: "Craft (trapmaking) +2, Emulation +6, Perception +3, Profession (miner) +3, Stealth +11"
 skill-ranks: "Craft (trapmaking) 2, Emulation 1, Perception 2, Profession (miner) 3, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|Claws]] (1d3-3, 5 rounds/day)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|bloodline arcana]] (fire spells deal +1 damage per die), [[rangoric-srd/races/Kobold|crafty]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +0, Ref +3, Will +3
+- **Defenses**: Fort 10, Ref 13, Will 13
 - **Abilities**: Str 4, Dex 16, Con 10, Int 10, Wis 13, Cha 15
 - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +2, [[rangoric-srd/skills/Emulation|Emulation]] +6, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Profession|Profession]] (miner) +3, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
@@ -69,4 +69,4 @@ A kobold scalecaster speaks Draconic.
 
 ### Combat
 
-**Sorcerer spells known** (CL 1st; concentration +3): 1st (4/day)—_[[rangoric-srd/spells/Burning Hands|burning hands]]_ (DC 13), _[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 13); 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Flare|flare]]_ (DC 12), _[[rangoric-srd/spells/Ray of Frost|ray of frost]]_; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|draconic (gold)]].
+**Sorcerer spells known** (CL 1st; concentration +3): 1st (4/day)—_[[rangoric-srd/spells/Burning Hands|burning hands]]_ (+3 vs Reflex), _[[rangoric-srd/spells/Charm Person|charm person]]_ (+3 vs Will); 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Flare|flare]]_ (+2 vs Fortitude), _[[rangoric-srd/spells/Ray of Frost|ray of frost]]_; **Bloodline**: [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|draconic (gold)]].

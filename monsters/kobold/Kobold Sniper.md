@@ -16,7 +16,7 @@ full-attack: "Short sword +1 melee (1d4–1/19–20); or masterwork light crossb
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., crafty, light sensitivity"
-saves: "Fort +3, Ref +3, Will +1"
+defenses: "Fort 13, Ref 13, Will 11"
 abilities: "Str 9, Dex 17, Con 12, Int 10, Wis 12, Cha 8"
 skills: "Acrobatics +3, Craft (trapmaking) +2, Perception +4, Profession (miner) +3"
 skill-ranks: "Acrobatics 0, Craft (trapmaking) 2, Perception 3, Profession (miner) 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Kobold|crafty]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
-- **Saves**: Fort +3, Ref +3, Will +1
+- **Defenses**: Fort 13, Ref 13, Will 11
 - **Abilities**: Str 9, Dex 17, Con 12, Int 10, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +2, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Profession|Profession]] (miner) +3
 - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]]

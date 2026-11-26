@@ -16,7 +16,7 @@ full-attack: "2 claws +9 melee (1d3+2)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Distracting gaze, sneak attack +2d6, spell-like abilities"
 special-qualities: "Darkvision 60 ft., fast healing 3, telepathy 100 ft., merge with ward, ward (wild trees), damage reduction 5/cold iron, immunity to bleed, mind-affecting effects, petrification and polymorph, resistance to acid 10, electricity 10 and fire 10, spell resistance 16"
-saves: "Fort +10, Ref +6, Will +4"
+defenses: "Fort 20, Ref 16, Will 14"
 abilities: "Str 14, Dex 13, Con 16, Int 11, Wis 14, Cha 17"
 skills: "Athletics +11, Escape Artist +10, Fieldcraft +11, Perception +11, Sense Motive +11, Stealth +14"
 skill-ranks: "Athletics 6, Escape Artist 6, Fieldcraft 6, Perception 6, Sense Motive 6, Stealth 6"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Distracting Gaze|Distracting gaze]], sneak attack +2d6, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 3, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., merge with [[rangoric-srd/monsters/abilities/Ward|ward]], [[rangoric-srd/monsters/abilities/Ward|ward]] (wild trees), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to bleed, mind-affecting effects, petrification and polymorph, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 16
-- **Saves**: Fort +10, Ref +6, Will +4
+- **Defenses**: Fort 20, Ref 16, Will 14
 - **Abilities**: Str 14, Dex 13, Con 16, Int 11, Wis 14, Cha 17
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Power Attack|Power Attack]]
@@ -74,6 +74,6 @@ Kodamas speak Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +9): At will—_[[rangoric-srd/spells/Speak with Plants|speak with plants]]_ (trees only), _[[rangoric-srd/spells/Tree Shape|tree shape]]_; 3/day—_[[rangoric-srd/spells/Charm Animal|charm animal]]_ (DC 14), _[[rangoric-srd/spells/Entangle|entangle]]_ (DC 14), _[[rangoric-srd/spells/Tree Stride|tree stride]]_ (self plus 50 lbs. of objects only).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +9): At will—_[[rangoric-srd/spells/Speak with Plants|speak with plants]]_ (trees only), _[[rangoric-srd/spells/Tree Shape|tree shape]]_; 3/day—_[[rangoric-srd/spells/Charm Animal|charm animal]]_ (+4 vs Will), _[[rangoric-srd/spells/Entangle|entangle]]_ (+4 vs Reflex), _[[rangoric-srd/spells/Tree Stride|tree stride]]_ (self plus 50 lbs. of objects only).
 
-**[[rangoric-srd/monsters/abilities/Distracting Gaze|Distracting Gaze]] (Su)**: Staggered for 1d4 rounds, 30 feet, Will DC 16 negates. This is a mind-affecting effect that requires the kodama to be visible to those it wishes to affect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Distracting Gaze|Distracting Gaze]] (Su)**: Staggered for 1d4 rounds, 30 feet, +6 vs Will. This is a mind-affecting effect that requires the kodama to be visible to those it wishes to affect. The attack bonus is Charisma-based.

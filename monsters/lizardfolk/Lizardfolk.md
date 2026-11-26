@@ -16,7 +16,7 @@ full-attack: "Morningstar +2 melee (1d8+1) and bite +0 melee (1d4); or claw +2 m
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Hold breath"
-saves: "Fort +4, Ref +0, Will +0"
+defenses: "Fort 14, Ref 10, Will 10"
 abilities: "Str 13, Dex 10, Con 13, Int 9, Wis 10, Cha 10"
 skills: "Acrobatics +2, Athletics +8, Perception +1"
 skill-ranks: "Acrobatics 0, Athletics 4, Perception 1"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Hold Breath|Hold breath]]
-- **Saves**: Fort +4, Ref +0, Will +0
+- **Defenses**: Fort 14, Ref 10, Will 10
 - **Abilities**: Str 13, Dex 10, Con 13, Int 9, Wis 10, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Perception|Perception]] +1
 - **Feats**: [[rangoric-srd/feats/Multiattack|Multiattack]]

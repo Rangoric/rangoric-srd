@@ -16,7 +16,7 @@ full-attack: "4 tentacles +9 melee (1d6+4 plus poison)"
 space-reach: "10 ft./15 ft."
 special-attacks: "Poison"
 special-qualities: "Darkvision 60 ft., amorphous, compression, damage reduction 10/piercing or slashing, immunity to mind-affecting effects"
-saves: "Fort +12, Ref +5, Will +3"
+defenses: "Fort 22, Ref 15, Will 13"
 abilities: "Str 18, Dex 15, Con 22, Int —, Wis 11, Cha 1"
 skills: "Athletics +12"
 skill-ranks: "Athletics 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/piercing or slashing, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +12, Ref +5, Will +3
+- **Defenses**: Fort 22, Ref 15, Will 13
 - **Abilities**: Str 18, Dex 15, Con 22, Int —, Wis 11, Cha 1
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12
 - **Feats**: —
@@ -77,4 +77,4 @@ Table: Jellyfish Types
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Jellyfish Venom|Giant Jellyfish Venom]]: Tentacles—injury; _save_ Fort DC 17; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Con; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Jellyfish Venom|Giant Jellyfish Venom]]: Tentacles—injury; _attack_ +7 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Con; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.

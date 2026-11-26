@@ -16,7 +16,7 @@ full-attack: "Improvised weapon +4 melee (1d4+2/×3); or improvised weapon +6 ra
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 60 ft., fast healing 2, improvised weapon mastery, merge with ward, ward (minor works of civilization), damage reduction 5/cold iron, immunity to bleed, mind-affecting effects, petrification and polymorph, resistance to acid 10, electricity 10 and fire 10"
-saves: "Fort +4, Ref +2, Will +8"
+defenses: "Fort 14, Ref 12, Will 18"
 abilities: "Str 8, Dex 13, Con 12, Int 11, Wis 17, Cha 14"
 skills: "Fieldcraft +9, Medicine +9, Nature +6, Perception +12, Sense Motive +9, Stealth +15"
 skill-ranks: "Fieldcraft 3, Medicine 3, Nature 3, Perception 5, Sense Motive 5, Stealth 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Improvised Weapon Mastery (Shikigami)|improvised weapon mastery]], merge with [[rangoric-srd/monsters/abilities/Ward|ward]], [[rangoric-srd/monsters/abilities/Ward|ward]] (minor works of civilization), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to bleed, mind-affecting effects, petrification and polymorph, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, electricity 10 and fire 10
-- **Saves**: Fort +4, Ref +2, Will +8
+- **Defenses**: Fort 14, Ref 12, Will 18
 - **Abilities**: Str 8, Dex 13, Con 12, Int 11, Wis 17, Cha 14
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9, [[rangoric-srd/skills/Medicine|Medicine]] +9, [[rangoric-srd/skills/Nature|Nature]] +6, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +15
 - **Feats**: [[rangoric-srd/feats/Catch Off-Guard|Catch Off-Guard]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Throw Anything|Throw Anything]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

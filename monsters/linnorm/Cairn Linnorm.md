@@ -15,7 +15,7 @@ full-attack: "Bite +29 melee (3d8+13/19–20 plus poison) and 2 claws +29 melee 
 space-reach: "20 ft./20 ft."
 special-attacks: "Breath weapon, constrict (tail, 2d6+19), death curse, poison"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, true seeing, regeneration 10 (cold iron), freedom of movement, damage reduction 15/cold iron, immunity to acid, curse effects, energy drain, mind-affecting effects, negative energy, paralysis, poison and sleep, spell resistance 29"
-saves: "Fort +20, Ref +21, Will +17"
+defenses: "Fort 30, Ref 31, Will 27"
 abilities: "Str 37, Dex 24, Con 26, Int 5, Wis 20, Cha 27"
 skills: "Acrobatics +13, Athletics +33, Perception +24, Stealth +26"
 skill-ranks: "Acrobatics 9, Athletics 17, Perception 16, Stealth 20"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 20 ft./20 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] (tail, 2d6+19), [[rangoric-srd/monsters/abilities/Death Curse|death curse]], [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], true seeing, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 10 (cold iron), freedom of movement, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/cold iron, immunity to acid, curse effects, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]], mind-affecting effects, negative energy, paralysis, poison and sleep, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 29
-- **Saves**: Fort +20, Ref +21, Will +17
+- **Defenses**: Fort 30, Ref 31, Will 27
 - **Abilities**: Str 37, Dex 24, Con 26, Int 5, Wis 20, Cha 27
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +33, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Stealth|Stealth]] +26
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -70,8 +70,8 @@ Cairn linnorms speak Aklo, Draconic and Sylvan.
 
 ### Combat
 
-**Breath Weapon (Su)**: Once every 1d4 rounds as a standard action, a cairn linnorm can expel a 60-foot cone of acidic bile, dealing 18d8 points of acid damage to all creatures struck. In addition, this bile is infused with negative energy, and inflicts 1d4 negative levels on all creatures struck by it. A successful DC 28 Reflex save halves the damage and completely negates the negative levels. The save DC is Constitution-based.
+**Breath Weapon (Su)**: Once every 1d4 rounds as a standard action, a cairn linnorm can expel a 60-foot cone of acidic bile, dealing 18d8 points of acid damage to all creatures struck. In addition, this bile is infused with negative energy, and inflicts 1d4 negative levels on all creatures struck by it. It attacks at +18 vs Reflex, and a miss halves the damage and completely negates the negative levels. The attack bonus is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Death Curse|Death Curse]] (Su)**: When a creature slays a cairn linnorm, the slayer is affected by the curse of decay, which the [[rangoric-srd/class-options/rage-powers/Linnorm Death Curse, Cairn (Rage Power)|linnorm death curse, cairn]] rage power also bestows. _Curse of Decay_: _save_ Will DC 28; _effect_ the creature takes 1 point of Constitution damage per day, and ages at an accelerated rate of 1 year per day, eventually incurring all of the penalties of old age but none of the benefits.
+**[[rangoric-srd/monsters/abilities/Death Curse|Death Curse]] (Su)**: When a creature slays a cairn linnorm, the slayer is affected by the curse of decay, which the [[rangoric-srd/class-options/rage-powers/Linnorm Death Curse, Cairn (Rage Power)|linnorm death curse, cairn]] rage power also bestows. _Curse of Decay_: _attack_ +18 vs Will; _effect_ the creature takes 1 point of Constitution damage per day, and ages at an accelerated rate of 1 year per day, eventually incurring all of the penalties of old age but none of the benefits.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _save_ Fort DC 28; _frequency_ 1/round for 10 rounds; _effect_ 4d6 acid damage and 1d6 Con drain; _cure_ 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _attack_ +18 vs Fortitude; _frequency_ 1/round for 10 rounds; _effect_ 4d6 acid damage and 1d6 Con drain; _cure_ 2 consecutive misses.

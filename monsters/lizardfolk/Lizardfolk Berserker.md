@@ -16,7 +16,7 @@ full-attack: "Masterwork morningstar +12 melee (1d8+6) and bite +9 melee (1d6+3)
 space-reach: "5 ft./5 ft."
 special-attacks: "Rage (12 rounds/day), rage powers (scent, knockdown)"
 special-qualities: "Trap sense +1, uncanny dodge, fast movement, hold breath"
-saves: "Fort +11, Ref +3, Will +4"
+defenses: "Fort 21, Ref 13, Will 14"
 abilities: "Str 22, Dex 14, Con 19, Int 9, Wis 12, Cha 8"
 skills: "Acrobatics +12, Athletics +21 (+25 jumping), Fieldcraft +7, Perception +10"
 skill-ranks: "Acrobatics 7, Athletics 12, Fieldcraft 3, Perception 6"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (12 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/class-options/rage-powers/Knockdown Stance (Rage Power)|knockdown]])
 - **Special Qualities**: [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|Trap sense]] +1, [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]]
-- **Saves**: Fort +11, Ref +3, Will +4
+- **Defenses**: Fort 21, Ref 13, Will 14
 - **Abilities**: Str 22, Dex 14, Con 19, Int 9, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +21 (+25 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Perception|Perception]] +10
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (morningstar)

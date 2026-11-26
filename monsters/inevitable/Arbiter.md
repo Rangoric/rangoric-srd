@@ -16,7 +16,7 @@ full-attack: "Short sword +7 melee (1d3/19–20)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Electrical burst, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect chaos, low-light vision, regeneration 2 (chaotic), constant vigilance, constructed, locate inevitable, spell resistance 13"
-saves: "Fort +5, Ref +3, Will +3"
+defenses: "Fort 15, Ref 13, Will 13"
 abilities: "Str 11, Dex 16, Con 14, Int 11, Wis 11, Cha 14"
 skills: "Acrobatics +12, Perception +5, Persuasion +7, Sense Motive +5, Stealth +16, Theology +5"
 skill-ranks: "Acrobatics 2, Perception 2, Persuasion 2, Sense Motive 2, Stealth 2, Theology 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Electrical Burst|Electrical burst]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect chaos, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 2 (chaotic), [[rangoric-srd/monsters/abilities/Constant Vigilance|constant vigilance]], constructed, [[rangoric-srd/monsters/abilities/Locate Inevitable|locate inevitable]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 13
-- **Saves**: Fort +5, Ref +3, Will +3
+- **Defenses**: Fort 15, Ref 13, Will 13
 - **Abilities**: Str 11, Dex 16, Con 14, Int 11, Wis 11, Cha 14
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +16, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -74,10 +74,10 @@ Arbiters speak truespeech.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 2nd; concentration +4): Constant—_[[rangoric-srd/spells/Detect Chaos|detect chaos]]_; 3/day—_[[rangoric-srd/spells/Command|command]]_ (DC 13), _[[rangoric-srd/spells/Make Whole|make whole]]_, _[[rangoric-srd/spells/Protection from Chaos|protection from chaos]]_; 1/week—_[[rangoric-srd/spells/Commune|commune]]_ (CL 12th, 6 questions).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 2nd; concentration +4): Constant—_[[rangoric-srd/spells/Detect Chaos|detect chaos]]_; 3/day—_[[rangoric-srd/spells/Command|command]]_ (+3 vs Will), _[[rangoric-srd/spells/Make Whole|make whole]]_, _[[rangoric-srd/spells/Protection from Chaos|protection from chaos]]_; 1/week—_[[rangoric-srd/spells/Commune|commune]]_ (CL 12th, 6 questions).
 
 **[[rangoric-srd/monsters/abilities/Constant Vigilance|Constant Vigilance]] (Su)**: An arbiter gains a +4 bonus to recognize and disbelieve illusions created by creatures with the chaotic subtype or possessing the chaotic descriptor.
 
-**[[rangoric-srd/monsters/abilities/Electrical Burst|Electrical Burst]] (Ex)**: An arbiter can release electrical energy from its body in a 10-foot-radius burst that deals 3d6 electricity damage (DC 13 Reflex half). Immediately following such a burst, the arbiter becomes [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 24 hours. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Electrical Burst|Electrical Burst]] (Ex)**: An arbiter can release electrical energy from its body in a 10-foot-radius burst that deals 3d6 electricity damage (+3 vs Reflex; a miss halves). Immediately following such a burst, the arbiter becomes [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 24 hours. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Locate Inevitable|Locate Inevitable]] (Su)**: An arbiter can always sense the direction of the nearest non-arbiter inevitable on the plane, the better to help it report back to its superiors. It cannot sense the range to this inevitable.

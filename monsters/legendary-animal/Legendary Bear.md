@@ -16,7 +16,7 @@ full-attack: "2 claws +27 (2d6+13) melee, bite +22 (4d6+6) melee"
 space-reach: "10 ft./5 ft."
 special-attacks: "Improved grab"
 special-qualities: "Scent"
-saves: "Fort +19, Ref +14, Will +11"
+defenses: "Fort 29, Ref 24, Will 21"
 abilities: "Str 36, Dex 14, Con 24, Int 2, Wis 16, Cha 12"
 skills: "Athletics +33 (+41 jumping), Perception +18"
 skill-ranks: "Athletics 11, Perception 9"
@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Scent|Scent]]
-- **Saves**: Fort +19, Ref +14, Will +11
+- **Defenses**: Fort 29, Ref 24, Will 21
 - **Abilities**: Str 36, Dex 14, Con 24, Int 2, Wis 16, Cha 12
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +33 (+41 jumping), [[rangoric-srd/skills/Perception|Perception]] +18
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Athletics), [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Track|Track]]

@@ -14,9 +14,9 @@ cmd: "19"
 attack: "Masterwork club +10 melee (1d6+4) or claw +8 melee (1d4+4) or bite +3 melee (1d4+2) or javelin +5 ranged (1d6+4)"
 full-attack: "Masterwork club +10 melee (1d6+4) and bite +3 melee (1d4+2); or 2 claws +8 melee (1d4+4) and bite +3 melee (1d4+2); or javelin +5 ranged (1d6+4)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Bardic performance 12 rounds/day (countersong, distraction, fascinate [DC 14], inspire competence +2, inspire courage +1)"
+special-attacks: "Bardic performance 12 rounds/day (countersong, distraction, fascinate [+4 vs Will], inspire competence +2, inspire courage +1)"
 special-qualities: "Bardic knowledge +2, hold breath, versatile performance (percussion)"
-saves: "Fort +7, Ref +6, Will +4 (+4 vs. bardic performance, language-dependent, and sonic)"
+defenses: "Fort 17, Ref 16, Will 14 (+4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 18, Dex 12, Con 15, Int 9, Wis 8, Cha 14"
 skills: "Acrobatics +14, Athletics +16, Intimidation +15, Perception +8, Perform (percussion) +11"
 skill-ranks: "Acrobatics 6, Athletics 9, Intimidation 10, Perception 6, Perform (percussion) 9"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Club|club]] +10 melee (1d6+4) or claw +8 melee (1d4+4) or bite +3 melee (1d4+2) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +5 ranged (1d6+4)
 - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Club|club]] +10 melee (1d6+4) and bite +3 melee (1d4+2); or 2 claws +8 melee (1d4+4) and bite +3 melee (1d4+2); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +5 ranged (1d6+4)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Bard#^bardic-music|Bardic performance]] 12 rounds/day ([[rangoric-srd/classes/Bard#^countersong|countersong]], [[rangoric-srd/classes/Bard#^bard-distraction|distraction]], [[rangoric-srd/classes/Bard#^bard-fascinate|fascinate]] \[DC 14\], [[rangoric-srd/classes/Bard#^inspire-competence|inspire competence]] +2, [[rangoric-srd/classes/Bard#^inspire-courage|inspire courage]] +1)
+- **Special Attacks**: [[rangoric-srd/classes/Bard#^bardic-music|Bardic performance]] 12 rounds/day ([[rangoric-srd/classes/Bard#^countersong|countersong]], [[rangoric-srd/classes/Bard#^bard-distraction|distraction]], [[rangoric-srd/classes/Bard#^bard-fascinate|fascinate]] \[+4 vs Will\], [[rangoric-srd/classes/Bard#^inspire-competence|inspire competence]] +2, [[rangoric-srd/classes/Bard#^inspire-courage|inspire courage]] +1)
 - **Special Qualities**: [[rangoric-srd/classes/Bard#^bardic-knowledge|Bardic knowledge]] +2, [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (percussion)
-- **Saves**: Fort +7, Ref +6, Will +4 (+4 vs. bardic performance, language-dependent, and sonic)
+- **Defenses**: Fort 17, Ref 16, Will 14 (+4 vs. bardic performance, language-dependent, and sonic)
 - **Abilities**: Str 18, Dex 12, Con 15, Int 9, Wis 8, Cha 14
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Perception|Perception]] +8, Perform (percussion) +11
 - **Feats**: [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (club)
@@ -75,4 +75,4 @@ A lizardfolk rattler speaks Draconic.
 
 ### Combat
 
-**Bard spells known** (CL 4th; concentration +6): 2nd (2/day)—_[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_ (DC 14), _[[rangoric-srd/spells/Rage|rage]]_; 1st (4/day)—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (DC 13), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]_ (DC 13), _[[rangoric-srd/spells/Sleep|sleep]]_ (DC 13); 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Daze|daze]]_ (DC 12), _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 12), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Message|message]]_, _[[rangoric-srd/spells/Resistance|resistance]]_.
+**Bard spells known** (CL 4th; concentration +6): 2nd (2/day)—_[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_ (+4 vs Fortitude), _[[rangoric-srd/spells/Rage|rage]]_; 1st (4/day)—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (+3 vs Will), _[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]_ (+3 vs Will), _[[rangoric-srd/spells/Sleep|sleep]]_ (+3 vs Will); 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Daze|daze]]_ (+2 vs Will), _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+2 vs Will), _[[rangoric-srd/spells/Light|light]]_, _[[rangoric-srd/spells/Message|message]]_, _[[rangoric-srd/spells/Resistance|resistance]]_.

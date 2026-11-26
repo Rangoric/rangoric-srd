@@ -14,7 +14,7 @@ full-attack: "Longsword +3 melee (1d8+1/19–20) or light crossbow +2 ranged (1d
 space-reach: "5 ft./5 ft."
 special-attacks: "— / Curse of lycanthropy, trip / Curse of lycanthropy"
 special-qualities: "Alternate form, wolf empathy, low-light vision, scent / Alternate form, wolf empathy, damage reduction 10/silver, low-light vision, scent"
-saves: "Fort +6, Ref +3, Will +2 / Fort +8, Ref +5, Will +2 / Fort +8 Ref +5, Will +2"
+defenses: "Fort 16, Ref 13, Will 12 / Fort 18, Ref 15, Will 12 / Fort 18 Ref 15, Will 12"
 abilities: "Str 13, Dex 11, Con 12, Int 10, Wis 11, Cha 8 / Str 15, Dex 15, Con 16, Int 10, Wis 11, Cha 8"
 skills: "Animal Handling +5, Fieldcraft +6, Perception +4, Stealth +3 / Animal Handling +5, Fieldcraft +6*, Perception +4, Stealth +7"
 skill-ranks: "Animal Handling 3, Fieldcraft 3, Perception 1, Stealth 0"
@@ -55,7 +55,7 @@ tags: [rangoric, rangoric/monster]
 | **Space/Reach:** | 5 ft./5 ft. | | 5 ft./5 ft. | | 5 ft./5 ft. |
 | **Special Attacks:** | — | | Curse of lycanthropy, trip | | Curse of lycanthropy |
 | **Special Qualities:** | [[rangoric-srd/monsters/abilities/Alternate Form\|Alternate form]], wolf empathy, low-light vision, [[rangoric-srd/monsters/abilities/Scent\|scent]] | | [[rangoric-srd/monsters/abilities/Alternate Form\|Alternate form]], wolf empathy, [[rangoric-srd/monsters/abilities/Damage Reduction\|damage reduction]] 10/silver, low-light vision, [[rangoric-srd/monsters/abilities/Scent\|scent]] | | [[rangoric-srd/monsters/abilities/Alternate Form\|Alternate form]], wolf empathy, [[rangoric-srd/monsters/abilities/Damage Reduction\|damage reduction]] 10/silver, low-light vision, [[rangoric-srd/monsters/abilities/Scent\|scent]] |
-| **Saves:** | Fort +6, Ref +3, Will +2 | | Fort +8, Ref +5, Will +2 | | Fort +8 Ref +5, Will +2 |
+| **Defenses:** | Fort 16, Ref 13, Will 12 | | Fort 18, Ref 15, Will 12 | | Fort 18 Ref 15, Will 12 |
 | **Abilities:** | Str 13, Dex 11, Con 12, Int 10, Wis 11, Cha 8 | | Str 15, Dex 15, Con 16, Int 10, Wis 11, Cha 8 | | Str 15, Dex 15, Con 16, Int 10, Wis 11, Cha 8 |
 | **Skills:** | [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +5, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +6, [[rangoric-srd/skills/Perception\|Perception]] +4, [[rangoric-srd/skills/Stealth\|Stealth]] +3 | | [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +5, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +6\*, [[rangoric-srd/skills/Perception\|Perception]] +4, [[rangoric-srd/skills/Stealth\|Stealth]] +7 | | [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +5, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +6\*, [[rangoric-srd/skills/Perception\|Perception]] +4, [[rangoric-srd/skills/Stealth\|Stealth]] +7 |
 | **Feats:** | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Iron Will\|Iron Will (B)]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Stealth), [[rangoric-srd/feats/Track\|Track (B)]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite) | | (same as human form) | | (same as human form) |
@@ -75,7 +75,7 @@ In wolf form, a werewolf can trip just as a normal wolf does. A werewolf in hybr
 
 **Alternate Form (Su)**: A werewolf can assume a bipedal hybrid form or the form of a [[rangoric-srd/monsters/Wolf|wolf]].
 
-**Curse of Lycanthropy (Su)**: Any humanoid or giant hit by a werewolf’s bite attack in animal or hybrid form must succeed on a DC 15 Fortitude save or contract lycanthropy.
+**Curse of Lycanthropy (Su)**: Any humanoid or giant hit by a werewolf’s bite attack in animal or hybrid form is attacked at +5 vs Fortitude, and on a hit contracts lycanthropy.
 
 **Trip (Ex)**: A werewolf in animal form that hits with a bite attack can attempt to [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] the opponent (+2 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the werewolf.
 

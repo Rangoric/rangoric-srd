@@ -13,9 +13,9 @@ cmd: "30 (32 vs. bull rush, 34 vs. trip)"
 attack: "Hoof +16 melee (2d8+9)"
 full-attack: "2 hooves +16 melee (2d8+9)"
 space-reach: "15 ft./10 ft."
-special-attacks: "Trample (2d8+13, DC 25)"
+special-attacks: "Trample (2d8+13, +15 vs Reflex)"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +15, Ref +8, Will +7"
+defenses: "Fort 25, Ref 18, Will 17"
 abilities: "Str 29, Dex 10, Con 21, Int 2, Wis 13, Cha 6"
 skills: "Athletics +15, Perception +16"
 skill-ranks: "Athletics 3, Perception 12"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Hoof +16 melee (2d8+9)
 - **Full Attack**: 2 hooves +16 melee (2d8+9)
 - **Space/Reach**: 15 ft./10 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (2d8+13, DC 25)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (2d8+13, +15 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +15, Ref +8, Will +7
+- **Defenses**: Fort 25, Ref 18, Will 17
 - **Abilities**: Str 29, Dex 10, Con 21, Int 2, Wis 13, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Perception|Perception]] +16
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
