@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Willing creature touched"
 duration: "1 hour/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Advanced Race Guide"
 based-on:
@@ -37,7 +37,7 @@ _Transmutation (Polymorph)_
 - **Range**: Touch
 - **Target**: Willing creature touched
 - **Duration**: 1 hour/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 You transform the target's fins, flippers, or tail into legs and feet, allowing it to walk on land. The target loses its swim speed but gains a base speed appropriate for a humanoid of its size (speed 30 if a Medium or larger creature, speed 20 if Small). If the creature is immersed in water for 1 round, the transformation reverts, allowing it to swim normally. One round after leaving the water, the transformation occurs again, allowing it to walk.

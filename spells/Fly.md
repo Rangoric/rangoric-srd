@@ -24,7 +24,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 min./level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Fly|Fly (3.5)]]"
@@ -44,7 +44,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 min./level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 The subject can fly at a speed of 60 feet (or 40 feet if it wears medium or heavy armor, or if it carries a medium or heavy load). It can ascend at half speed and descend at double speed, and its maneuverability is good. Using a fly spell requires only as much concentration as walking, so the subject can attack or cast spells normally. The subject of a fly spell can [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]] but not run, and it cannot carry aloft more weight than its maximum load, plus any armor it wears.

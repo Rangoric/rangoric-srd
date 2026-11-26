@@ -10,7 +10,7 @@ casting-time: "1 round"
 range: "Touch"
 target: "Your Familiar"
 duration: "1 hour/level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes"
 book: "Spells & Magic"
 based-on:
@@ -31,7 +31,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Your Familiar
 - **Duration**: 1 hour/level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes
 
 For this spell to work, the target familiar must be in physical contact with the caster. Once cast, the familiar can break contact without ending the spell. The caster immediately changes form into that of her familiar. The familiar immediately transforms into the caster’s likeness.

@@ -25,7 +25,7 @@ casting-time: "3 rounds"
 range: "Personal or touch"
 target: "You or creature touched"
 duration: "10 min./level"
-saving-throw: "None or Will negates (harmless)"
+defense: "None or Will (harmless)"
 spell-resistance: "No or Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Find the Path|Find the Path (3.5)]]"
@@ -45,7 +45,7 @@ _Divination_
 - **Range**: Personal or touch
 - **Target**: You or creature touched
 - **Duration**: 10 min./level
-- **Saving Throw**: None or Will negates (harmless)
+- **Defense**: None or Will (harmless)
 - **Spell Resistance**: No or Yes (harmless)
 
 The recipient of this spell can find the shortest, most direct physical route to a specified destination, be it the way into or out of a locale. The locale can be outdoors, underground, or even inside a maze spell. Find the path works with respect to locations, not objects or creatures at a locale. The location must be on the same plane as you are at the time of casting.

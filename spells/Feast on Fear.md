@@ -22,7 +22,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "One or more living creatures (see text)"
 duration: "1 round/level"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Advanced Class Guide"
 based-on:
@@ -43,9 +43,9 @@ _Necromancy \[Emotion, Fear, Mind-affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Targets**: One or more living creatures (see text)
 - **Duration**: 1 round/level
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
-Each round, you can target a single living creature of up to 9 HD and strike it with terrifying waves of power. If the target fails its saving throw, it becomes panicked for 1d4 rounds, and you gain 5 temporary hit points (which disappear after 1 hour). After the panic ends, the creature remains shaken for 10 minutes per caster level, and it automatically becomes panicked again if it comes within sight of you during that time.
+Each round, you can target a single living creature of up to 9 HD and strike it with terrifying waves of power. If the spell hits the target, it becomes panicked for 1d4 rounds, and you gain 5 temporary hit points (which disappear after 1 hour). After the panic ends, the creature remains shaken for 10 minutes per caster level, and it automatically becomes panicked again if it comes within sight of you during that time.
 
 These temporary hit points stack if they are from different creatures.

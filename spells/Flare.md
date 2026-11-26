@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "Burst of light"
 duration: "Instantaneous"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Flare|Flare (3.5)]]"
@@ -41,7 +41,7 @@ _Evocation \[Light\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: Burst of light
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
-This cantrip creates a burst of light. If you cause the light to burst directly in front of a single creature, that creature is [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] for 1 minute unless it makes a successful Fortitude save. Sightless creatures, as well as creatures already dazzled, are not affected by flare.
+This cantrip creates a burst of light. If you cause the light to burst directly in front of a single creature, that creature is [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] for 1 minute if the spell hits its Fortitude. Sightless creatures, as well as creatures already dazzled, are not affected by flare.

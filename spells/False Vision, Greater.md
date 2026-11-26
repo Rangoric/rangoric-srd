@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One creature"
 duration: "Caster level hour(s)"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "No"
 book: "Ultimate Intrigue"
 based-on:
@@ -38,12 +38,12 @@ _Illusion (Glamer)_
 - **Range**: Touch
 - **Target**: One creature
 - **Duration**: Caster level hour(s)
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: No
 
-This functions similarly to [[rangoric-srd/spells/False Vision|false vision]], but instead of placing the illusion on a nearby area, you can tie it to a specific individual, and can do so from great distances. The spell can be cast at any distance. The difficulty of the save depends on your knowledge of the subject and what sort of physical connection (if any) you have to that creature.
+This functions similarly to [[rangoric-srd/spells/False Vision|false vision]], but instead of placing the illusion on a nearby area, you can tie it to a specific individual, and can do so from great distances. The spell can be cast at any distance. The subject’s Will Defense modifier depends on your knowledge of the subject and what sort of physical connection (if any) you have to that creature.
 
-The target gains the same bonuses and penalties on its Will save to resist this spell as the bonuses and penalties that apply to the [[rangoric-srd/spells/Scrying|scrying]] spell (including a +5 bonus if the target is on another plane). The illusion created by the spell moves with the target, and is not stationary.
+The target gains the same bonuses and penalties to its Will Defense against this spell as the bonuses and penalties that apply to the [[rangoric-srd/spells/Scrying|scrying]] spell (including a +5 bonus if the target is on another plane). The illusion created by the spell moves with the target, and is not stationary.
 
 The image can affect the way the target is perceived, the way the target's surroundings are perceived, and the way that specific creatures or objects around the target are perceived.
 

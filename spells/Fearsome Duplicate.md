@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 effect: "Monstrously distorted duplicate of you"
 duration: "1 minute/level (D)"
-saving-throw: "Will disbelief (if interacted with)"
+defense: "Will disbelief (if interacted with)"
 spell-resistance: "Yes"
 book: "Advanced Race Guide"
 based-on:
@@ -39,10 +39,10 @@ _Illusion (Figment)_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Effect**: Monstrously distorted duplicate of you
 - **Duration**: 1 minute/level (D)
-- **Saving Throw**: Will disbelief (if interacted with)
+- **Defense**: Will disbelief (if interacted with)
 - **Spell Resistance**: Yes
 
-You create a larger and far more menacing version of yourself that you can send forth, manipulate like a puppet, and use to interact with others. You can make the duplicate up to two size categories larger than you are and determine a theme as to how it alters your original appearance. However, this duplicate always retains some vestiges of your actual appearance. Creatures who already know you gain a +2 bonus on saving throws made to disbelieve this spell. Your duplicate has no actual substance, and you cannot use it to alter its surroundings or to attack or otherwise harm creatures it encounters. You can use the duplicate to speak, and interact verbally with creatures using the Deception, Persuasion, and Intimidation skills, and you gain a +2 competence bonus on Intimidation checks when using that skill through the duplicate.
+You create a larger and far more menacing version of yourself that you can send forth, manipulate like a puppet, and use to interact with others. You can make the duplicate up to two size categories larger than you are and determine a theme as to how it alters your original appearance. However, this duplicate always retains some vestiges of your actual appearance. Creatures who already know you gain a +2 bonus on defenses made to disbelieve this spell. Your duplicate has no actual substance, and you cannot use it to alter its surroundings or to attack or otherwise harm creatures it encounters. You can use the duplicate to speak, and interact verbally with creatures using the Deception, Persuasion, and Intimidation skills, and you gain a +2 competence bonus on Intimidation checks when using that skill through the duplicate.
 
 You can see, hear, taste, and smell your duplicate's surroundings as if you are actually present using your Perception skill. While you also remain aware of your own immediate surroundings when controlling your duplicate, controlling it does take a toll on your senses. You take a –4 penalty on Perception checks while you control your duplicate.
 

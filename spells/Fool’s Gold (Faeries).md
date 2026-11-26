@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature"
 duration: "1 hr./level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Faeries"
 based-on:
@@ -37,10 +37,10 @@ _Illusion (Glamer)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: 1 hr./level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-Objects or coins made from copper, brass or bronze can be temporarily turned into solid gold for the duration of the spell. The area of effect (1 in. x 1 in. x 12 in.) is equivalent to about 150 coins. Any creature seeing the resulting transformed metal is entitled to a Will save. If successful, the creature sees the metal for what it really is.
+Objects or coins made from copper, brass or bronze can be temporarily turned into solid gold for the duration of the spell. The area of effect (1 in. x 1 in. x 12 in.) is equivalent to about 150 coins. The spell attacks the Will of any creature seeing the resulting transformed metal. If successful, the creature sees the metal for what it really is.
 
 If the transformed metal is ever struck hard by an item made from cold iron, there is a 50% chance it will revert to its original metal, thus ending the spell. If, while casting the spell, the caster sprinkles powdered gemstones of 50gp in value over the target metal, the chance is reduced to 45%. For every 10gp worth of powdered gemstones used, the chance decreases by an additional 5%. There is always the chance that cold iron will be able to dispel the illusion, so with 500gp worth of powdered gemstones used in the casting, there is a 1% chance the _fool’s gold_ will revert back to its original metal if struck by cold iron.
 

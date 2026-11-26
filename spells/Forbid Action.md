@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. +5 ft./2 levels)"
 target: "One creature"
 duration: "1 round"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -39,7 +39,7 @@ _Enchantment (Compulsion) \[Language-dependent, Mind-affecting\]_
 - **Range**: Close (25 ft. +5 ft./2 levels)
 - **Target**: One creature
 - **Duration**: 1 round
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 You forbid the target a single course of action, which it avoids to the best of its ability. You may demand the target not take actions that fall into one of the following options.

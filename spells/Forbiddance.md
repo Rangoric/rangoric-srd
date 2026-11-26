@@ -15,7 +15,7 @@ casting-time: "6 rounds"
 range: "Medium (100 ft. + 10 ft./level)"
 area: "60-ft. cube/level (S)"
 duration: "Permanent"
-saving-throw: "See text"
+defense: "See text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Forbiddance|Forbiddance (3.5)]]"
@@ -35,7 +35,7 @@ _Abjuration_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Area**: 60-ft. cube/level (S)
 - **Duration**: Permanent
-- **Saving Throw**: See text
+- **Defense**: See text
 - **Spell Resistance**: Yes
 
 Forbiddance seals an area against all planar travel into or within it. This includes all teleportation spells (such as dimension door and teleport), plane shifting, astral travel, ethereal travel, and all summoning spells. Such effects simply fail automatically.
@@ -44,9 +44,9 @@ In addition, it damages entering creatures whose alignments are different from y
 
 _Alignments identical_: No effect. The creature may enter the area freely (although not by planar travel).
 
-_Alignments different with respect to either law/chaos or good/evil_: The creature takes 6d6 points of damage. A successful Will save halves the damage, and spell resistance applies.
+_Alignments different with respect to either law/chaos or good/evil_: The creature takes 6d6 points of damage. It attacks Will, and a miss halves the damage, and spell resistance applies.
 
-_Alignments different with respect to both law/chaos and good/evil_: The creature takes 12d6 points of damage. A successful Will save halves the damage, and spell resistance applies.
+_Alignments different with respect to both law/chaos and good/evil_: The creature takes 12d6 points of damage. It attacks Will, and a miss halves the damage, and spell resistance applies.
 
 At your option, the abjuration can include a password, in which case creatures of alignments different from yours can avoid the damage by speaking the password as they enter the area. You must select this option (and the password) at the time of casting.
 

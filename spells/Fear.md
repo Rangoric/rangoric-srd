@@ -27,7 +27,7 @@ casting-time: "1 standard action"
 range: "30 ft."
 area: "Cone-shaped burst"
 duration: "1 round/level or 1 round; see text"
-saving-throw: "Will partial"
+defense: "Will partial"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Fear|Fear (3.5)]]"
@@ -47,9 +47,9 @@ _Necromancy \[Fear, Mind-Affecting\]_
 - **Range**: 30 ft.
 - **Area**: Cone-shaped burst
 - **Duration**: 1 round/level or 1 round; see text
-- **Saving Throw**: Will partial
+- **Defense**: Will partial
 - **Spell Resistance**: Yes
 
-An [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] cone of terror causes each living creature in the area to become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] unless it succeeds on a Will save. If cornered, a panicked creature begins [[rangoric-srd/rules/Special Abilities and Conditions#^cowering|cowering]]. If the Will save succeeds, the creature is [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round.
+An [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] cone of terror causes each living creature in the area to become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] if the spell hits its Will. If cornered, a panicked creature begins [[rangoric-srd/rules/Special Abilities and Conditions#^cowering|cowering]]. On a miss, the creature is [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1 round.
 
 _Material Component_: Either the heart of a hen or a white feather.

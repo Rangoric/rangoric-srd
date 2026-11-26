@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "Barred cage (20-ft. cube) or windowless cell (10-ft. cube)"
 duration: "2 hours/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Forcecage|Forcecage (3.5)]]"
@@ -35,7 +35,7 @@ _Evocation \[Force\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Area**: Barred cage (20-ft. cube) or windowless cell (10-ft. cube)
 - **Duration**: 2 hours/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This powerful spell brings into being an immobile, [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] cubical prison composed of either bars of force or solid walls of force (your choice).

@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One creature"
 duration: "1 round/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -39,7 +39,7 @@ _Transmutation \[Sonic\]_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One creature
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-With a gesture, you muffle sound around the target, making it unable to yell or otherwise make loud noises. This does not affect spellcasting by the target. The target can still use sonic effects, but the DC of these effects decreases by 2. The target gains a +2 bonus on saving throws against sonic effects. The target gains a +4 circumstance bonus on Stealth checks.
+With a gesture, you muffle sound around the target, making it unable to yell or otherwise make loud noises. This does not affect spellcasting by the target. The target can still use sonic effects, but the DC of these effects decreases by 2. The target gains a +2 bonus on defenses against sonic effects. The target gains a +4 circumstance bonus on Stealth checks.

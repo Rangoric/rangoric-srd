@@ -22,7 +22,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "One creature"
 duration: "Permanent"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Faeries"
 based-on:
@@ -43,10 +43,10 @@ _Illusion (Phantasm) \[Mind-Affecting\]_
 - **Range**: Touch
 - **Target**: One creature
 - **Duration**: Permanent
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
-_Fitful sleep_ is a variant of _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ that affects the target’s ability to obtain rest. This especially impacts—and specifically targets—an arcane spellcaster’s ability to prepare spells. If the target fails a Will saving throw, the above _curse_ comes into effect and lasts until dispelled.
+_Fitful sleep_ is a variant of _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ that affects the target’s ability to obtain rest. This especially impacts—and specifically targets—an arcane spellcaster’s ability to prepare spells. If the spell hits the target’s Will, the above _curse_ comes into effect and lasts until dispelled.
 
 See _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ for how _fitful sleep_ can be removed.
 

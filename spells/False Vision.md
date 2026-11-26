@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Touch"
 area: "40-ft.-radius emanation"
 duration: "1 hour/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/False Vision|False Vision (3.5)]]"
@@ -41,7 +41,7 @@ _Illusion (Glamer)_
 - **Range**: Touch
 - **Area**: 40-ft.-radius emanation
 - **Duration**: 1 hour/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 Any divination (scrying) spell used to view anything within the area of this spell instead receives a false image (as the major image spell), as defined by you at the time of casting. As long as the duration lasts, you can concentrate to change the image as desired. While you aren’t concentrating, the image remains static.

@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "Fifty projectiles, all of which must be in contact with each other at the time of casting"
 duration: "10 min./level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Flame Arrow|Flame Arrow (3.5)]]"
@@ -37,7 +37,7 @@ _Transmutation \[Fire\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: Fifty projectiles, all of which must be in contact with each other at the time of casting
 - **Duration**: 10 min./level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You turn ammunition (such as arrows, bolts, shuriken, and stones) into fiery projectiles. Each piece of ammunition deals an extra 1d6 points of fire damage to any target it hits. A flaming projectile can easily ignite a flammable object or structure, but it won’t ignite a creature it strikes.

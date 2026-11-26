@@ -12,7 +12,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Weapon touched"
 duration: "1 round/level"
-saving-throw: "Fortitude negates (object, harmless)"
+defense: "Fortitude (object, harmless)"
 spell-resistance: "Yes (object, harmless)"
 book: "Advanced Player's Guide"
 based-on:
@@ -33,7 +33,7 @@ _Transmutation \[Fire\]_
 - **Range**: Touch
 - **Target**: Weapon touched
 - **Duration**: 1 round/level
-- **Saving Throw**: Fortitude negates (object, harmless)
+- **Defense**: Fortitude (object, harmless)
 - **Spell Resistance**: Yes (object, harmless)
 
 With a touch, you cause a glowing rune to appear on a single weapon, granting that weapon the _[[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]_ property (and allowing it to cause an extra 1d6 points of fire damage on a successful hit). If you are using the [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-judgment|judgment]] class feature, your weapon gains the _[[rangoric-srd/magic-items/weapon-abilities/Flaming Burst|flaming burst]]_ property instead. The spell functions only for weapons that you wield. If the weapon leaves your hand for any reason, the spell effect ends. The effects of this spell do not stack with any existing _[[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]_ or _[[rangoric-srd/magic-items/weapon-abilities/Flaming Burst|flaming burst]]_ weapon property that the target weapon may already possess.
