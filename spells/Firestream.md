@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "20 ft."
 area: "20-ft. line"
 duration: "Concentration, up to 1 round/level; see text"
-saving-throw: "Reflex half"
+defense: "Reflex half"
 spell-resistance: "Yes"
 book: "Advanced Race Guide"
 based-on:
@@ -36,7 +36,7 @@ _Evocation \[Fire\]_
 - **Range**: 20 ft.
 - **Area**: 20-ft. line
 - **Duration**: Concentration, up to 1 round/level; see text
-- **Saving Throw**: Reflex half
+- **Defense**: Reflex half
 - **Spell Resistance**: Yes
 
 A rushing stream of fire sprays from your outstretched hand, dealing 2d6 points of fire damage to every creature in the area. Each round you continue to concentrate on the spell, you can select a new area for it to affect.

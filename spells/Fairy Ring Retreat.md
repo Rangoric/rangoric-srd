@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "Extradimensional meadow, up to three 10-ft. cubes/level (S)"
 duration: "2 hours/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Advanced Class Guide"
 based-on:
@@ -36,7 +36,7 @@ _Conjuration (Creation)_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: Extradimensional meadow, up to three 10-ft. cubes/level (S)
 - **Duration**: 2 hours/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You conjure up an extradimensional meadow that can be accessed from a single entrance on the plane from which the spell was cast. The entry point looks like a circle of toadstools enclosing a 10-foot square. Only those you designate can enter the meadow before you do, and the portal is shut and made invisible behind you when you enter. You can open it again from your own side at will. Once a visitor has passed through the entry point, they find themselves in an idyllic twilight meadow surrounded by an impassable grove of fruit and nut trees. The atmosphere is clean, fresh, and warm.

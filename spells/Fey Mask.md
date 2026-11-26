@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Personal or touch"
 target: "One touched creature/level"
 duration: "10 minutes/level"
-saving-throw: "None or Will negates (harmless, object)"
+defense: "None or Will (harmless, object)"
 spell-resistance: "No or Yes (harmless, object)"
 book: "Faeries"
 based-on:
@@ -41,7 +41,7 @@ _Illusion (Glamer)_
 - **Range**: Personal or touch
 - **Target**: One touched creature/level
 - **Duration**: 10 minutes/level
-- **Saving Throw**: None or Will negates (harmless, object)
+- **Defense**: None or Will (harmless, object)
 - **Spell Resistance**: No or Yes (harmless, object)
 
 As _[[rangoric-srd/spells/Invisibility|invisibility]]_, except this spell provides the caster with the ability to designate who can and cannot see the subjects of his spell. Unless specified, the caster (or another recipient of the spell) and target creatures cannot see each other. This spell also grants a +5 bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks to move silently.

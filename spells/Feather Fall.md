@@ -19,7 +19,7 @@ casting-time: "1 free action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "One Medium or smaller freefalling object or creature/level, no two of which may be more than 20 ft. apart"
 duration: "Until landing or 1 round/level"
-saving-throw: "Will negates (harmless) or Will negates (object)"
+defense: "Will (harmless) or Will (object)"
 spell-resistance: "Yes (object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Feather Fall|Feather Fall (3.5)]]"
@@ -39,7 +39,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Targets**: One Medium or smaller freefalling object or creature/level, no two of which may be more than 20 ft. apart
 - **Duration**: Until landing or 1 round/level
-- **Saving Throw**: Will negates (harmless) or Will negates (object)
+- **Defense**: Will (harmless) or Will (object)
 - **Spell Resistance**: Yes (object)
 
 The affected creatures or objects fall slowly. Feather fall instantly changes the rate at which the targets fall to a mere 60 feet per round (equivalent to the end of a fall from a few feet), and the subjects take no damage upon landing while the spell is in effect. However, when the spell duration expires, a normal rate of falling resumes.

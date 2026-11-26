@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One living creature"
 duration: "Instantaneous"
-saving-throw: "Fortitude partial"
+defense: "Fortitude partial"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Finger of Death|Finger of Death (3.5)]]"
@@ -35,9 +35,9 @@ _Necromancy \[Death\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One living creature
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude partial
+- **Defense**: Fortitude partial
 - **Spell Resistance**: Yes
 
-You can slay any one living creature within range. The target is entitled to a Fortitude saving throw to survive the attack. If the save is successful, the creature instead takes 3d6 points of damage +1 point per caster level (maximum +25).
+You can slay any one living creature within range. The spell attacks the target’s Fortitude, and on a miss the creature survives and instead takes 3d6 points of damage +1 point per caster level (maximum +25).
 
-The subject might die from damage even if it succeeds on its saving throw.
+The subject might die from damage even if the spell misses.

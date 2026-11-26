@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One creature"
 duration: "Instantaneous"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Flesh to Stone|Flesh to Stone (3.5)]]"
@@ -35,7 +35,7 @@ _Transmutation_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: One creature
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 The subject, along with all its carried gear, turns into a mindless, inert statue. If the statue resulting from this spell is broken or damaged, the subject (if ever returned to its original state) has similar damage or deformities. The creature is not [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]], but it does not seem to be alive either when viewed with spells such as deathwatch.

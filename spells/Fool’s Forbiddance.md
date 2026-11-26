@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "10 ft."
 area: "10-ft.-radius spherical emanation centered on you"
 duration: "Concentration"
-saving-throw: "Will partial"
+defense: "Will partial"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -37,7 +37,7 @@ _Abjuration \[Mind-affecting\]_
 - **Range**: 10 ft.
 - **Area**: 10-ft.-radius spherical emanation centered on you
 - **Duration**: Concentration
-- **Saving Throw**: Will partial
+- **Defense**: Will partial
 - **Spell Resistance**: Yes
 
-Through your antics and performance, you create an area of warding that adversely affects all enemies that dare enter it. When an enemy creature enters the area it must make an immediate Will saving throw. If it fails, the creature is confused as long as it is in the area and for 1 round after it leaves. If it succeeds on the saving throw, the creature is staggered as long as it is in the area and for 1 round after it leaves.
+Through your antics and performance, you create an area of warding that adversely affects all enemies that dare enter it. When an enemy creature enters the area the spell immediately attacks its Will. On a hit, the creature is confused as long as it is in the area and for 1 round after it leaves. On a miss, the creature is staggered as long as it is in the area and for 1 round after it leaves.

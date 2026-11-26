@@ -15,7 +15,7 @@ casting-time: "1 standard action"
 range: "30 ft."
 area: "Creatures in a 30 ft.-radius spread centered on you"
 duration: "Instantaneous"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Faeries"
 based-on:
@@ -37,7 +37,7 @@ _Evocation \[Sonic\]_
 - **Range**: 30 ft.
 - **Area**: Creatures in a 30 ft.-radius spread centered on you
 - **Duration**: Instantaneous
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 Uttering a _fey decree_ has two effects.
@@ -57,6 +57,6 @@ Fey creatures of an alignment other than yours can suffer ill effects from the f
 
 **Cowered**: The creature is [[rangoric-srd/rules/Special Abilities and Conditions#^cowering|frozen in fear]], losing his Dexterity bonus to AC (if any), and can take no actions. Foes gain a +2 bonus to hit cowering creatures.
 
-**Frightened**: The creature is [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] and flees as well as it can. If unable to flee, the creature may fight. It suffers a –2 morale penalty on attack rolls, weapon damage rolls, and saving throws. A frightened creature can use special abilities, including spells, to flee; indeed, the creature must use every such means to escape.
+**Frightened**: The creature is [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] and flees as well as it can. If unable to flee, the creature may fight. It suffers a –2 morale penalty on attack rolls, weapon damage rolls, and defenses. A frightened creature can use special abilities, including spells, to flee; indeed, the creature must use every such means to escape.
 
-**Wounded**: The power of the _fey decree_ can inflict 1d4 points of damage +1 point per caster level on living creatures of less than 4 HD. If the victims make a Fortitude save (DC 18), the damage stops just short of killing them and leaves them with at least 1 hp.
+**Wounded**: The power of the _fey decree_ can inflict 1d4 points of damage +1 point per caster level on living creatures of less than 4 HD. It attacks their Fortitude at +8, and on a miss the damage stops just short of killing them and leaves them with at least 1 hp.

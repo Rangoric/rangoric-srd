@@ -14,7 +14,7 @@ casting-time: "1 round"
 range: "Touch"
 target: "Your Familiar"
 duration: "1 day or 3 transformations"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes A rare and precious spell, *familiaform* grants a powerful ability to the familiar, the power of wild shape. Once cast, *familiaform* grants three transformations as per the druidical ability, all of which must be taken within 24 hours or they are lost. Transforming back into the familiar’s base form counts as one of these, but each form can be kept indefinitely until the duration ends. When the spell ends, the familiar reverts to base form. Each transformation heals the familiar an amount equal to the caster level in hit points."
 book: "Spells & Magic"
 based-on:
@@ -35,7 +35,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Your Familiar
 - **Duration**: 1 day or 3 transformations
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes A rare and precious spell, _[[rangoric-srd/spells/Familiaform|familiaform]]_ grants a powerful ability to the familiar, the power of wild shape. Once cast, _[[rangoric-srd/spells/Familiaform|familiaform]]_ grants three transformations as per the druidical ability, all of which must be taken within 24 hours or they are lost. Transforming back into the familiar’s base form counts as one of these, but each form can be kept indefinitely until the duration ends. When the spell ends, the familiar reverts to base form. Each transformation heals the familiar an amount equal to the caster level in hit points.
 
 The size of creature the familiar can turn into depends of the caster level of its bonded master. If the caster is 9th to 12th level, the familiar can become any size between Tiny and Large. At 13th through 16th, the familiar can become Dire. At 17th +, the animal can change to become anything between Diminutive and Huge.

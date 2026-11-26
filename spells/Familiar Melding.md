@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "Your familiar"
 duration: "1 hour/level or until you return to your body"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -34,7 +34,7 @@ _Necromancy_
 - **Range**: Medium (100 ft. + 10 ft./level)
 - **Target**: Your familiar
 - **Duration**: 1 hour/level or until you return to your body
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes
 
 You project your soul into your familiar, taking over its body while leaving its consciousness intact. When you transfer your soul upon casting, your body is, as near as anyone can tell, dead.

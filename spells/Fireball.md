@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 area: "20-ft.-radius spread"
 duration: "Instantaneous"
-saving-throw: "Reflex half"
+defense: "Reflex half"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Fireball|Fireball (3.5)]]"
@@ -37,7 +37,7 @@ _Evocation \[Fire\]_
 - **Range**: Long (400 ft. + 40 ft./level)
 - **Area**: 20-ft.-radius spread
 - **Duration**: Instantaneous
-- **Saving Throw**: Reflex half
+- **Defense**: Reflex half
 - **Spell Resistance**: Yes
 
 A fireball spell is an explosion of flame that detonates with a low roar and deals 1d6 points of fire damage per caster level (maximum 10d6) to every creature within the area. Unattended objects also take this damage. The explosion creates almost no pressure.

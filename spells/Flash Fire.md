@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "1 firearm"
 duration: "Instantaneous"
-saving-throw: "Will negates (object); see text"
+defense: "Will (object); see text"
 spell-resistance: "Yes (object); see text"
 book: "Ultimate Combat"
 based-on:
@@ -34,7 +34,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: 1 firearm
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates (object); see text
+- **Defense**: Will (object); see text
 - **Spell Resistance**: Yes (object); see text
 
-The [[rangoric-srd/equipment/Firearms|firearm]] fires with a blinding flash, even if the firearm is not currently loaded. Every creature within 15 feet of the creature carrying the weapon must succeed at a Fortitude save or be blinded for 1d4 rounds. The creature carrying the firearm takes a –4 penalty on this saving throw. If the firearm is loaded, the ammunition is wasted.
+The [[rangoric-srd/equipment/Firearms|firearm]] fires with a blinding flash, even if the firearm is not currently loaded. Every creature within 15 feet of the creature carrying the weapon is attacked against Fortitude, and blinded for 1d4 rounds on a hit. The creature carrying the firearm takes a –4 penalty to its Fortitude Defense against this attack. If the firearm is loaded, the ammunition is wasted.

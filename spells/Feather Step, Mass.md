@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "10 minutes/level"
-saving-throw: "Fortitude negates (harmless)"
+defense: "Fortitude (harmless)"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -37,7 +37,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature/level, no two of which can be more than 30 ft. apart
 - **Duration**: 10 minutes/level
-- **Saving Throw**: Fortitude negates (harmless)
+- **Defense**: Fortitude (harmless)
 - **Spell Resistance**: Yes
 
 As _[[rangoric-srd/spells/Feather Step|feather step]]_, except this spell affects multiple creatures.

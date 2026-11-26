@@ -17,7 +17,7 @@ casting-time: "10 minutes"
 range: "Touch"
 target: "Object touched"
 duration: "Permanent until discharged (D)"
-saving-throw: "Reflex half; see text"
+defense: "Reflex half; see text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Fire Trap|Fire Trap (3.5)]]"
@@ -37,7 +37,7 @@ _Abjuration \[Fire\]_
 - **Range**: Touch
 - **Target**: Object touched
 - **Duration**: Permanent until discharged (D)
-- **Saving Throw**: Reflex half; see text
+- **Defense**: Reflex half; see text
 - **Spell Resistance**: Yes
 
 Fire trap creates a fiery explosion when an intruder opens the item that the trap protects. A fire trap can ward any object that can be opened and closed.

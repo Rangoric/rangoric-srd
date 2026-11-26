@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. +5 ft./2 levels)"
 targets: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "1 round/level"
-saving-throw: "Will negates"
+defense: "Will"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -39,7 +39,7 @@ _Enchantment (Compulsion) \[Language-dependent, Mind-affecting\]_
 - **Range**: Close (25 ft. +5 ft./2 levels)
 - **Targets**: One creature/level, no two of which can be more than 30 ft. apart
 - **Duration**: 1 round/level
-- **Saving Throw**: Will negates
+- **Defense**: Will
 - **Spell Resistance**: Yes
 
 This spell functions as _[[rangoric-srd/spells/Forbid Action|forbid action]]_, except up to one creature per level may be affected. Each creature must receive the same forbidden action.

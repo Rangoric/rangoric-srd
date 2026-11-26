@@ -14,7 +14,7 @@ level:
 casting-time: "1 standard action"
 targets: "One or more Medium creatures/level, no two of which can be more than 30 ft. apart"
 duration: "1 minute/level (D)"
-saving-throw: "None (see text)"
+defense: "None (see text)"
 spell-resistance: "Yes"
 book: "Ultimate Magic"
 based-on:
@@ -34,7 +34,7 @@ _Transmutation \[Air\]_
 - **Casting Time**: 1 standard action
 - **Targets**: One or more Medium creatures/level, no two of which can be more than 30 ft. apart
 - **Duration**: 1 minute/level (D)
-- **Saving Throw**: None (see text)
+- **Defense**: None (see text)
 - **Spell Resistance**: Yes
 
 You create a mobile cylinder of wind encompassing every target of the spell and protecting them as _[[rangoric-srd/spells/Wind Wall|wind wall]]_, but not interfering with them in any way. For example, arrows and bolts fired at the targets are deflected upward and miss, but the targets' own arrows or bolts pass through the wall as if it were not there.

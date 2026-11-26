@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "10-ft.-radius burst of light"
 duration: "Instantaneous"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -41,7 +41,7 @@ _Evocation (Light) \[Light\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Effect**: 10-ft.-radius burst of light
 - **Duration**: Instantaneous
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 This spell functions as _[[rangoric-srd/spells/Flare|flare]]_, except it affects all creatures in a 10-foot-radius burst from the target point.

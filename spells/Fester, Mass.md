@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "1 round/level or 1 round; see text"
-saving-throw: "Fortitude partial"
+defense: "Fortitude partial"
 spell-resistance: "Yes"
 book: "Advanced Player's Guide"
 based-on:
@@ -34,7 +34,7 @@ _Necromancy_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature/level, no two of which can be more than 30 ft. apart
 - **Duration**: 1 round/level or 1 round; see text
-- **Saving Throw**: Fortitude partial
+- **Defense**: Fortitude partial
 - **Spell Resistance**: Yes
 
 This spell functions as _[[rangoric-srd/spells/Fester|fester]]_, except that it affects multiple foes.

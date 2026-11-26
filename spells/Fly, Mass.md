@@ -13,7 +13,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature/level, no two of which can be more than 30 ft. apart"
 duration: "10 minutes/level"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Player's Guide"
 based-on:
@@ -34,7 +34,7 @@ _Transmutation_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One creature/level, no two of which can be more than 30 ft. apart
 - **Duration**: 10 minutes/level
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 This spell functions as _[[rangoric-srd/spells/Fly|fly]]_, save that it can target numerous creatures and lasts longer.

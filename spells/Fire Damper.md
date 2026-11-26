@@ -10,7 +10,7 @@ components:
 casting-time: "1 standard action"
 area: "60 ft. radius emanation centered on the caster"
 duration: "1 minute/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Spells & Magic"
 based-on:
@@ -30,7 +30,7 @@ _Transmutation_
 - **Casting Time**: 1 standard action
 - **Area**: 60 ft. radius emanation centered on the caster
 - **Duration**: 1 minute/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 This spell extinguishes normal fires within the area if they are of size small or less. Larger fires are reduced by one size category per round. This spell also reduces any fire damage dealt within the area by half. Any fire spell or spell-like ability with the cast or activated within the area has a 50% chance of failing as if it had been countered.

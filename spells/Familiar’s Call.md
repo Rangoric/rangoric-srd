@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Your Familiar"
 duration: "Instantaneous"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes"
 book: "Spells & Magic"
 based-on:
@@ -32,7 +32,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: Your Familiar
 - **Duration**: Instantaneous
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes
 
 This spell places an invisible magical sensor on a familiar, allowing the caster to _[[rangoric-srd/spells/Teleport|teleport]]_ instantly to the nearest safe place adjacent to it. If there is not adjacent place safe for the caster to _[[rangoric-srd/spells/Teleport|teleport]]_ to, it fails. In either case, the sensor disappears afterwards. Teleportation of this kind is not entirely safe, having the same success rate as a “casually studied” teleport location. If the familiar is within line of sight, however, there is no chance of teleportation error.

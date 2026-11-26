@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Personal"
 effect: "Trail of flame that follows the caster's movements; see text"
 duration: "1 round/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Advanced Race Guide"
 based-on:
@@ -37,7 +37,7 @@ _Transmutation \[Fire\]_
 - **Range**: Personal
 - **Effect**: Trail of flame that follows the caster's movements; see text
 - **Duration**: 1 round/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 When you cast this spell, flammable liquid oozes from your pores, dripping onto the ground and spontaneously combusting. The flame does not harm you. During this spell's duration, each time you leave your space, you create a trail of fire that burns within the spaces you move through for 1 round before it burns out. You can leave up to 60 feet of flame trail each round, assuming you are Small or Medium. If you are larger than Medium, the maximum trail length is reduced based on your size. If you are Large, you can leave a trail up to 30 feet long (and 10 feet wide), and if you are Huge, you can leave a trail up to 15 feet long (and 15 feet wide); even larger casters can only leave a trail up to 10 feet long (and as wide as your space) each round. You choose where to leave a flame trail.
