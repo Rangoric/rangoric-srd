@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-26 | Saving throws as defenses, monsters (DF 79): ogre to orc attack a defense instead of allowing a save. | [[DF Batch 79 Changes]] | | [[Saving Throws as Defenses]] DF 79 |
 | 2026-11-26 | Saving throws as defenses, monsters (DF 78): mephit to ogre attack a defense instead of allowing a save. | [[DF Batch 78 Changes]] | | [[Saving Throws as Defenses]] DF 78 |
 | 2026-11-26 | Saving throws as defenses, monsters (DF 77): imperial dragons to megafauna attack a defense instead of allowing a save. | [[DF Batch 77 Changes]] | | [[Saving Throws as Defenses]] DF 77 |
 | 2026-11-26 | Saving throws as defenses, monsters (DF 76): human to imperial dragons attack a defense instead of allowing a save. | [[DF Batch 76 Changes]] | | [[Saving Throws as Defenses]] DF 76 |
