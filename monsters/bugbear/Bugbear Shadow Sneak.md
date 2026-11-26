@@ -16,7 +16,7 @@ full-attack: "+1 short sword +15/+10 melee (1d6+6/17–20); or masterwork dagger
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +3d6"
 special-qualities: "Darkvision 90 ft., scent, evasion, improved uncanny dodge, hide in plain sight, ki pool (5), ninja tricks (fast stealth, stand up), no trace +1, poison use, rogue talent (slow reactions), shadow jump (40 ft./day), stalker, summon shadow"
-saves: "Fort +6, Ref +14, Will +4"
+defenses: "Fort 16, Ref 24, Will 14"
 abilities: "Str 20, Dex 18, Con 14, Int 8, Wis 10, Cha 12"
 skills: "Acrobatics +19, Athletics +20, Fieldcraft +11, Intimidation +5, Perception +15, Perform (dance) +6, Stealth +23"
 skill-ranks: "Acrobatics 12, Athletics 12, Fieldcraft 8, Intimidation 1, Perception 12, Perform (dance) 4, Stealth 16"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ninja#^ninja-sneak-attack|Sneak attack]] +3d6
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 90 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/prestige-classes/Shadowdancer|evasion]], [[rangoric-srd/classes/Ninja#^ninja-improved-uncanny-dodge|improved uncanny dodge]], [[rangoric-srd/prestige-classes/Shadowdancer|hide in plain sight]], [[rangoric-srd/classes/Ninja#^ninja-ki-pool|ki pool]] (5), [[rangoric-srd/classes/Ninja#^ninja-tricks|ninja tricks]] ([[rangoric-srd/class-options/rogue-talents/Fast Stealth (Rogue Talent)|fast stealth]], [[rangoric-srd/class-options/rogue-talents/Stand Up (Rogue Talent)|stand up]]), [[rangoric-srd/classes/Ninja#^ninja-no-trace|no trace]] +1, [[rangoric-srd/classes/Ninja#^ninja-poison-use|poison use]], [[rangoric-srd/prestige-classes/Shadowdancer#^shadowdancer-rogue-talent|rogue talent]] ([[rangoric-srd/class-options/rogue-talents/Slow Reactions (Rogue Talent)|slow reactions]]), [[rangoric-srd/prestige-classes/Shadowdancer|shadow jump]] (40 ft./day), [[rangoric-srd/monsters/bugbear/Bugbear|stalker]], [[rangoric-srd/prestige-classes/Shadowdancer|summon shadow]]
-- **Saves**: Fort +6, Ref +14, Will +4
+- **Defenses**: Fort 16, Ref 24, Will 14
 - **Abilities**: Str 20, Dex 18, Con 14, Int 8, Wis 10, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +15, Perform (dance) +6, [[rangoric-srd/skills/Stealth|Stealth]] +23
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Extra Ki|Extra Ki]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (short sword), [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (short sword)
@@ -71,4 +71,4 @@ A bugbear shadow sneak speaks Common and Goblin.
 
 **Before Combat**: The shadow sneak uses hide in plain sight to ambush foes.
 
-**Shadowdancer Spell-Like Abilities** (CL 4th; concentration +5): 2/day—_[[rangoric-srd/prestige-classes/Shadowdancer|shadow illusion]]_ (DC 11); 1/day—_[[rangoric-srd/prestige-classes/Shadowdancer|shadow call]]_ (DC 15).
+**Shadowdancer Spell-Like Abilities** (CL 4th; concentration +5): 2/day—_[[rangoric-srd/prestige-classes/Shadowdancer|shadow illusion]]_ (+1 vs Will); 1/day—_[[rangoric-srd/prestige-classes/Shadowdancer|shadow call]]_ (+5 vs Will).

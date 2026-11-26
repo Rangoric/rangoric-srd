@@ -16,7 +16,7 @@ full-attack: "Slam +2 melee (1d2–3)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Starlight blast, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect evil, detect magic, low-light vision, traveler's friend, damage reduction 5/evil, immunity to electricity and petrification, resistance to cold 10 and fire 10"
-saves: "Fort +2, Ref +7, Will +6"
+defenses: "Fort 12, Ref 17, Will 16"
 abilities: "Str 5, Dex 19, Con 12, Int 14, Wis 17, Cha 20"
 skills: "Acrobatics +16, Deception +11, Knowledge +8, Mysticism +5, Perception +9, Performance (any one) +11, Persuasion +11, Stealth +18"
 skill-ranks: "Acrobatics 5, Deception 3, Knowledge 3, Mysticism 3, Perception 3, Performance (any one) 6, Persuasion 3, Stealth 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Starlight Blast|Starlight blast]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect evil, detect magic, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Traveler's Friend|traveler's friend]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10
-- **Saves**: Fort +2, Ref +7, Will +6
+- **Defenses**: Fort 12, Ref 17, Will 16
 - **Abilities**: Str 5, Dex 19, Con 12, Int 14, Wis 17, Cha 20
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Knowledge|Knowledge]] +8, [[rangoric-srd/skills/Mysticism|Mysticism]] +5, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Performance|Performance]] (any one) +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +18
 - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
@@ -70,8 +70,8 @@ Lyrakiens speak Celestial, Draconic and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +8): Constant—_[[rangoric-srd/spells/Detect Evil|detect evil]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_; At will—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Daze|daze]]_ (DC 15), _[[rangoric-srd/spells/Summon Instrument|summon instrument]]_, _[[rangoric-srd/spells/Ventriloquism|ventriloquism]]_ (DC 16); 1/day—_[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]_ (DC 16), silent _image_ (DC 16); 1/week—_[[rangoric-srd/spells/Commune|commune]]_ (6 questions, CL 12th).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +8): Constant—_[[rangoric-srd/spells/Detect Evil|detect evil]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_; At will—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Daze|daze]]_ (+5 vs Will), _[[rangoric-srd/spells/Summon Instrument|summon instrument]]_, _[[rangoric-srd/spells/Ventriloquism|ventriloquism]]_ (+6 vs Will); 1/day—_[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]_, _[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]_ (+6), silent _image_ (+6 vs Will); 1/week—_[[rangoric-srd/spells/Commune|commune]]_ (6 questions, CL 12th).
 
-**[[rangoric-srd/monsters/abilities/Starlight Blast|Starlight Blast]] (Su)**: As a standard action once every 1d4 rounds, a lyrakien can tap into the divine power of [[rangoric-srd/rules/planes/Elysium|Elysium]], unleashing a blast of holy starlight in a 5-foot burst. All creatures in this area take 1d4 points of holy damage, plus 1 point for each step their alignment deviates from chaotic good. For example, a chaotic neutral or neutral good creature would take 1d4+1 points of damage, a neutral creature would take 1d4+2 points of damage, and a lawful evil creature would take 1d4+4 points of damage. A DC 12 Reflex save negates this damage. Chaotic good creatures are unaffected by this ability. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Starlight Blast|Starlight Blast]] (Su)**: As a standard action once every 1d4 rounds, a lyrakien can tap into the divine power of [[rangoric-srd/rules/planes/Elysium|Elysium]], unleashing a blast of holy starlight in a 5-foot burst. All creatures in this area take 1d4 points of holy damage, plus 1 point for each step their alignment deviates from chaotic good. For example, a chaotic neutral or neutral good creature would take 1d4+1 points of damage, a neutral creature would take 1d4+2 points of damage, and a lawful evil creature would take 1d4+4 points of damage. It attacks at +2 vs Reflex, and a miss negates this damage. Chaotic good creatures are unaffected by this ability. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Traveler's Friend|Traveler's Friend]] (Su)**: The performances and company of a lyrakien ease the burden of travel. Once per day, a creature may spend a minute listening to a lyrakien's performance—doing so removes the effects of exhaustion and fatigue from the listener.

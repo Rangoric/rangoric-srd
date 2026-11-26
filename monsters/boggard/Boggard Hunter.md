@@ -14,9 +14,9 @@ cmd: "20"
 attack: "Morningstar +9 melee (1d8+4) or tongue +9 melee touch (sticky tongue) or masterwork composite longbow +8 ranged (1d8+4/×3)"
 full-attack: "Morningstar +9 melee (1d8+4) and tongue +4 melee touch (sticky tongue); or masterwork composite longbow +8 ranged (1d8+4/×3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Combat style (archery), favored enemy (reptilian humanoids +2), terrifying croak (DC 12)"
+special-attacks: "Combat style (archery), favored enemy (reptilian humanoids +2), terrifying croak (+2 vs Will)"
 special-qualities: "Darkvision 60 ft., low-light vision, favored terrain (swamp +2), hold breath, swamp stride, track +1, wild empathy +2"
-saves: "Fort +10, Ref +6, Will +4"
+defenses: "Fort 20, Ref 16, Will 14"
 abilities: "Str 19, Dex 13, Con 16, Int 8, Wis 13, Cha 8"
 skills: "Acrobatics +5, Athletics +12 (+28 jumping), Fieldcraft +8, Nature +5, Perception +14, Stealth +8 (+16 in swamps)"
 skill-ranks: "Acrobatics 1, Athletics 5, Fieldcraft 4, Nature 3, Perception 10, Stealth 4"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/weapons/Morningstar|Morningstar]] +9 melee (1d8+4) or tongue +9 melee touch (sticky tongue) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +8 ranged (1d8+4/×3)
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Morningstar|Morningstar]] +9 melee (1d8+4) and tongue +4 melee touch (sticky tongue); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +8 ranged (1d8+4/×3)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (archery), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (reptilian humanoids +2), [[rangoric-srd/monsters/boggard/Boggard#^terrifying-croak|terrifying croak]] (DC 12)
+- **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (archery), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (reptilian humanoids +2), [[rangoric-srd/monsters/boggard/Boggard#^terrifying-croak|terrifying croak]] (+2 vs Will)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (swamp +2), [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/boggard/Boggard#^swamp-stride|swamp stride]], [[rangoric-srd/classes/Ranger#^ranger-track|track]] +1, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +2
-- **Saves**: Fort +10, Ref +6, Will +4
+- **Defenses**: Fort 20, Ref 16, Will 14
 - **Abilities**: Str 19, Dex 13, Con 16, Int 8, Wis 13, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +12 (+28 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+16 in swamps)
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (composite longbow)

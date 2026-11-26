@@ -13,9 +13,9 @@ cmd: "41 (can't be tripped)"
 attack: "Bite +15 melee (4d6+24 plus poison)"
 full-attack: "Bite +15 melee (4d6+24 plus poison)"
 space-reach: "30 ft./30 ft."
-special-attacks: "Trample (6d6+24, DC 31), poison"
+special-attacks: "Trample (6d6+24, +21 vs Reflex), poison"
 special-qualities: "Darkvision 60 ft., compression, immunity to mind-affecting effects"
-saves: "Fort +16, Ref +3, Will +3"
+defenses: "Fort 26, Ref 13, Will 13"
 abilities: "Str 43, Dex 11, Con 29, Int —, Wis 10, Cha 2"
 skills: "Athletics +24, Perception +4, Stealth –8"
 skill-ranks: "Athletics 5, Perception 0, Stealth 0"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +15 melee (4d6+24 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Full Attack**: Bite +15 melee (4d6+24 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Space/Reach**: 30 ft./30 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (6d6+24, DC 31), [[rangoric-srd/monsters/abilities/Poison|poison]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]] (6d6+24, +21 vs Reflex), [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +16, Ref +3, Will +3
+- **Defenses**: Fort 26, Ref 13, Will 13
 - **Abilities**: Str 43, Dex 11, Con 29, Int —, Wis 10, Cha 2
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +24, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] –8
 - **Feats**: —
@@ -66,4 +66,4 @@ The largest of their kind, titan centipedes are thankfully also the rarest. They
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Titan Centipede Venom|Titan Centipede Venom]]: Bite—injury; _save_ Fort DC 24; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Dex; _cure_ 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Titan Centipede Venom|Titan Centipede Venom]]: Bite—injury; _attack_ +14 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d6 Dex; _cure_ 2 consecutive misses.

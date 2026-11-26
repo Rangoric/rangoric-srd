@@ -16,7 +16,7 @@ full-attack: "Colossal club +79 (6d6+18) melee or 2 slams +79 (4d6+12) melee or 
 space-reach: "30 ft./30 ft."
 special-attacks: "Frightful presence, horrific appearance, stomp, stench"
 special-qualities: "Construct traits, magic immunity, DR 15/Epic and adamantine, negative energy affinity"
-saves: "Fort +33, Ref +31, Will +33"
+defenses: "Fort 43, Ref 41, Will 43"
 abilities: "Str 35, Dex 6, Con -, Int 1 or as controlling spirit, Wis 11 or as controlling spirit, Cha 1 or as controlling spirit"
 skills: "Athletics +115 or as controlling spirit (+119 jumping)"
 skill-ranks: "Athletics 100"
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 30 ft./30 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|Frightful presence]], horrific appearance, stomp, stench
 - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], magic immunity, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/Epic and adamantine, negative energy affinity
-- **Saves**: Fort +33, Ref +31, Will +33
+- **Defenses**: Fort 43, Ref 41, Will 43
 - **Abilities**: Str 35, Dex 6, Con -, Int 1 or as controlling spirit, Wis 11 or as controlling spirit, Cha 1 or as controlling spirit
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +115 or as controlling spirit (+119 jumping)
 - **Climate/Terrain**: Any

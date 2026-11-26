@@ -16,7 +16,7 @@ full-attack: "4 slams +18 melee (1d4+3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Wand magic"
 special-qualities: "Darkvision 60 ft., low-light vision, difficult to create, swift reactions, winding, damage reduction 5/adamantine, construct traits, spell resistance 20, vulnerable to electricity"
-saves: "Fort +5, Ref +12, Will +7"
+defenses: "Fort 15, Ref 22, Will 17"
 abilities: "Str 16, Dex 21, Con —, Int —, Wis 14, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Wand Magic|Wand magic]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], difficult to create, swift reactions, winding, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/adamantine, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20, vulnerable to electricity
-- **Saves**: Fort +5, Ref +12, Will +7
+- **Defenses**: Fort 15, Ref 22, Will 17
 - **Abilities**: Str 16, Dex 21, Con —, Int —, Wis 14, Cha 1
 - **Skills**: —
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
@@ -73,17 +73,17 @@ A humanoid figure of mithral and steel, a clockwork mage has large crystal ball 
 
 - _Abjuration_: 1st—_[[rangoric-srd/spells/Hold Portal|hold portal]]_, _[[rangoric-srd/spells/Shield|shield]]_; 2nd—_[[rangoric-srd/spells/Protection from Arrows|protection from arrows]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_; 3rd—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_
 
-- _Conjuration_: 1st—_[[rangoric-srd/spells/Grease|grease]]_ (DC 11), _[[rangoric-srd/spells/Summon Monster I|summon monster I]]_; 2nd—_[[rangoric-srd/spells/Glitterdust|glitterdust]]_ (DC 13), _[[rangoric-srd/spells/Web|web]]_ (DC 13); 3rd—_[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_ (DC 14)
+- _Conjuration_: 1st—_[[rangoric-srd/spells/Grease|grease]]_ (+1), _[[rangoric-srd/spells/Summon Monster I|summon monster I]]_; 2nd—_[[rangoric-srd/spells/Glitterdust|glitterdust]]_ (+3 vs Will), _[[rangoric-srd/spells/Web|web]]_ (+3 vs Reflex); 3rd—_[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_ (+4 vs Fortitude)
 
-- _Enchantment_: 1st—_[[rangoric-srd/spells/Bungle|bungle]]_ (DC 11), _[[rangoric-srd/spells/Sleep|sleep]]_ (DC 11); 2nd—_[[rangoric-srd/spells/Daze Monster|daze monster]]_ (DC 13), _[[rangoric-srd/spells/Touch of Idiocy|touch of idiocy]]_; 3rd—_[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (DC 14)
+- _Enchantment_: 1st—_[[rangoric-srd/spells/Bungle|bungle]]_ (+1 vs Will), _[[rangoric-srd/spells/Sleep|sleep]]_ (+1 vs Will); 2nd—_[[rangoric-srd/spells/Daze Monster|daze monster]]_ (+3 vs Will), _[[rangoric-srd/spells/Touch of Idiocy|touch of idiocy]]_; 3rd—_[[rangoric-srd/spells/Deep Slumber|deep slumber]]_ (+4 vs Will)
 
-- _Evocation_: 1st—_[[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]_ (DC 11); 2nd—_[[rangoric-srd/spells/Gust of Wind|gust of wind]]_ (DC 13), _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_; 3rd—_[[rangoric-srd/spells/Fireball|fireball]]_ (DC 14)
+- _Evocation_: 1st—_[[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]_ (+1); 2nd—_[[rangoric-srd/spells/Gust of Wind|gust of wind]]_ (+3 vs Fortitude), _[[rangoric-srd/spells/Scorching Ray|scorching ray]]_; 3rd—_[[rangoric-srd/spells/Fireball|fireball]]_ (+4 vs Reflex)
 
-- _Illusion_: 1st—_[[rangoric-srd/spells/Color Spray|color spray]]_ (DC 11), _[[rangoric-srd/spells/Vanish|vanish]]_; 2nd—_[[rangoric-srd/spells/Blur|blur]]_, _[[rangoric-srd/spells/Hypnotic Pattern|hypnotic pattern]]_ (DC 13); 3rd—_[[rangoric-srd/spells/Displacement|displacement]]_
+- _Illusion_: 1st—_[[rangoric-srd/spells/Color Spray|color spray]]_ (+1 vs Will), _[[rangoric-srd/spells/Vanish|vanish]]_; 2nd—_[[rangoric-srd/spells/Blur|blur]]_, _[[rangoric-srd/spells/Hypnotic Pattern|hypnotic pattern]]_ (+3 vs Will); 3rd—_[[rangoric-srd/spells/Displacement|displacement]]_
 
-- _Necromancy_: 1st—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (DC 11), _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_ (DC 11); 2nd—_[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_ (DC 13), _[[rangoric-srd/spells/Scare|scare]]_ (DC 13); 3rd—_[[rangoric-srd/spells/Ray of Exhaustion|ray of exhaustion]]_ (DC 14)
+- _Necromancy_: 1st—_[[rangoric-srd/spells/Cause Fear|cause fear]]_ (+1 vs Will), _[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]_ (+1); 2nd—_[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]_ (+3 vs Fortitude), _[[rangoric-srd/spells/Scare|scare]]_ (+3 vs Will); 3rd—_[[rangoric-srd/spells/Ray of Exhaustion|ray of exhaustion]]_ (+4 vs Fortitude)
 
-- _Transmutation_: 1st—_[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]_, _[[rangoric-srd/spells/Reduce Person|reduce person]]_ (DC 11); 2nd—_[[rangoric-srd/spells/Alter Self|alter self]]_, _[[rangoric-srd/spells/Spider Climb|spider climb]]_; 3rd—_[[rangoric-srd/spells/Haste|haste]]_
+- _Transmutation_: 1st—_[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]_, _[[rangoric-srd/spells/Reduce Person|reduce person]]_ (+1 vs Fortitude); 2nd—_[[rangoric-srd/spells/Alter Self|alter self]]_, _[[rangoric-srd/spells/Spider Climb|spider climb]]_; 3rd—_[[rangoric-srd/spells/Haste|haste]]_
 
 ### Construction
 

@@ -16,7 +16,7 @@ full-attack: "+1 halberd +18/+13 melee (1d10+14/×3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Latch"
 special-qualities: "Darkvision 60 ft., low-light vision, efficient winding, proficient, standby, swift reactions, damage reduction 5/adamantine, construct traits, vulnerable to electricity"
-saves: "Fort +2, Ref +6, Will +2"
+defenses: "Fort 12, Ref 16, Will 12"
 abilities: "Str 28, Dex 15, Con —, Int —, Wis 11, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Latch|Latch]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Efficient Winding (Clockwork Soldier)|efficient winding]], [[rangoric-srd/monsters/abilities/Proficient|proficient]], [[rangoric-srd/monsters/abilities/Standby|standby]], swift reactions, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/adamantine, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], vulnerable to electricity
-- **Saves**: Fort +2, Ref +6, Will +2
+- **Defenses**: Fort 12, Ref 16, Will 12
 - **Abilities**: Str 28, Dex 15, Con —, Int —, Wis 11, Cha 1
 - **Skills**: —
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]

@@ -14,9 +14,9 @@ cmd: "20"
 attack: "+1 spear +15 melee (1d8+11/×3) or tongue +13 melee touch (sticky tongue) or javelin +5 ranged (1d6+7)"
 full-attack: "+1 spear +15/+10 melee (1d8+11/×3) and tongue +8 melee touch (sticky tongue); or javelin +5 ranged (1d6+7)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Rage (14 rounds/day), rage powers (knockback, superstition +3), terrifying croak (DC 14)"
+special-attacks: "Rage (14 rounds/day), rage powers (knockback, superstition +3), terrifying croak (+4 vs Will)"
 special-qualities: "Darkvision 60 ft., low-light vision, uncanny dodge, trap sense +1, fast movement, hold breath, swamp stride"
-saves: "Fort +13, Ref +3, Will +5 (+3 vs. magic)"
+defenses: "Fort 23, Ref 13, Will 15 (+3 vs. magic)"
 abilities: "Str 24, Dex 9, Con 22, Int 6, Wis 13, Cha 12"
 skills: "Acrobatics +5, Athletics +20 (+36 jumping), Intimidation +8, Perception +12, Stealth +0 (+8 in swamps)"
 skill-ranks: "Acrobatics 3, Athletics 10, Intimidation 4, Perception 8, Stealth 1"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: +1 [[rangoric-srd/equipment/weapons/Spear|spear]] +15 melee (1d8+11/×3) or tongue +13 melee touch (sticky tongue) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +5 ranged (1d6+7)
 - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Spear|spear]] +15/+10 melee (1d8+11/×3) and tongue +8 melee touch (sticky tongue); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +5 ranged (1d6+7)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (14 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Knockback (Rage Power)|knockback]], [[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] +3), [[rangoric-srd/monsters/boggard/Boggard#^terrifying-croak|terrifying croak]] (DC 14)
+- **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (14 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Knockback (Rage Power)|knockback]], [[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] +3), [[rangoric-srd/monsters/boggard/Boggard#^terrifying-croak|terrifying croak]] (+4 vs Will)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +1, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/boggard/Boggard#^swamp-stride|swamp stride]]
-- **Saves**: Fort +13, Ref +3, Will +5 (+3 vs. magic)
+- **Defenses**: Fort 23, Ref 13, Will 15 (+3 vs. magic)
 - **Abilities**: Str 24, Dex 9, Con 22, Int 6, Wis 13, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +20 (+36 jumping), [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +0 (+8 in swamps)
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spear)

@@ -14,9 +14,9 @@ cmd: "34"
 attack: "+2 quarterstaff +22 melee (1d6+9 plus energy drain) or claw +20 melee (1d4+5 plus energy drain)"
 full-attack: "+2 quarterstaff +22/+17/+12 melee (1d6+9 plus energy drain); or 2 claws +20 melee (1d4+5 plus energy drain)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Draining weapon, energy drain (1 level, DC 21), fear gaze, soul crush"
+special-attacks: "Draining weapon, energy drain (1 level, +11 vs Fortitude), fear gaze, soul crush"
 special-qualities: "Darkvision 60 ft., true seeing, telepathy 100 ft., damage reduction 10/good, immunity to acid, death effects, disease and poison, resistance to cold 10, electricity 10 and fire 10, spell resistance 24"
-saves: "Fort +11, Ref +12, Will +14"
+defenses: "Fort 21, Ref 22, Will 24"
 abilities: "Str 21, Dex 16, Con 23, Int 17, Wis 17, Cha 18"
 skills: "Acrobatics +21, Deception +22, Fieldcraft +10, Intimidation +22, Perception +27, Persuasion +22, Sense Motive +21, Stealth +14, Theology +21"
 skill-ranks: "Acrobatics 15, Deception 15, Fieldcraft 4, Intimidation 15, Perception 19, Persuasion 15, Sense Motive 19, Stealth 8, Theology 15"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: +2 [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] +22 melee (1d6+9 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]) or claw +20 melee (1d4+5 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
 - **Full Attack**: +2 [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]] +22/+17/+12 melee (1d6+9 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]); or 2 claws +20 melee (1d4+5 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Draining Weapon|Draining weapon]], [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (1 level, DC 21), [[rangoric-srd/monsters/abilities/Fear Gaze|fear gaze]], [[rangoric-srd/monsters/abilities/Soul Crush|soul crush]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Draining Weapon|Draining weapon]], [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (1 level, +11 vs Fortitude), [[rangoric-srd/monsters/abilities/Fear Gaze|fear gaze]], [[rangoric-srd/monsters/abilities/Soul Crush|soul crush]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., true seeing, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, death effects, disease and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 24
-- **Saves**: Fort +11, Ref +12, Will +14
+- **Defenses**: Fort 21, Ref 22, Will 24
 - **Abilities**: Str 21, Dex 16, Con 23, Int 17, Wis 17, Cha 18
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +21, [[rangoric-srd/skills/Deception|Deception]] +22, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +22, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Persuasion|Persuasion]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +14, [[rangoric-srd/skills/Theology|Theology]] +21
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lunge|Lunge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -71,6 +71,6 @@ Thanadaemons speak Abyssal, Draconic and Infernal.
 
 **[[rangoric-srd/monsters/abilities/Draining Weapon|Draining Weapon]] (Su)**: A thanadaemon's energy drain attack functions through any melee weapon it wields.
 
-**[[rangoric-srd/monsters/abilities/Fear Gaze|Fear Gaze]] (Su)**: Cower in fear for 1d6 rounds, 30 feet, Will DC 21 negates. This is a mind-affecting fear effect. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Fear Gaze|Fear Gaze]] (Su)**: Cower in fear for 1d6 rounds, 30 feet, +11 vs Will. This is a mind-affecting fear effect. The attack bonus is Charisma-based.
 
 **[[rangoric-srd/monsters/abilities/Soul Crush|Soul Crush]] (Su)**: A thanadaemon can crush a soul gem (see the [[rangoric-srd/monsters/daemons/Cacodaemon|cacodaemon]]) as a standard action to gain fast healing 15 for 15 rounds (this is a standard action). This action condemns the crushed soul to the daemons' home plane—resurrecting this victim requires a DC 28 caster level check.

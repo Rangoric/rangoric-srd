@@ -16,7 +16,7 @@ full-attack: "Morningstar +5 melee (1d8+3) and tongue –1 melee touch (sticky t
 space-reach: "5 ft./5 ft."
 special-attacks: "Terrifying croak"
 special-qualities: "Darkvision 60 ft., low-light vision, hold breath, swamp stride"
-saves: "Fort +5, Ref +0, Will +1"
+defenses: "Fort 15, Ref 10, Will 11"
 abilities: "Str 15, Dex 9, Con 14, Int 8, Wis 11, Cha 10"
 skills: "Acrobatics +2, Athletics +10 (+22 jumping), Stealth –1 (+7 in swamps)"
 skill-ranks: "Acrobatics 3, Athletics 5, Stealth 0"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Terrifying croak
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], swamp stride
-- **Saves**: Fort +5, Ref +0, Will +1
+- **Defenses**: Fort 15, Ref 10, Will 11
 - **Abilities**: Str 15, Dex 9, Con 14, Int 8, Wis 11, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +2, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+22 jumping), [[rangoric-srd/skills/Stealth|Stealth]] –1 (+7 in swamps)
 - **Feats**: [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (morningstar)
@@ -120,4 +120,4 @@ Boggards speak Boggard.
 
 **Swamp Stride (Ex)**: A boggard can move through any sort of natural difficult terrain at its normal speed while within a swamp. Magically altered terrain affects a boggard normally. ^swamp-stride
 
-**Terrifying Croak (Su)**: Once per hour, a boggard can, as a standard action, emit a loud and horrifying croak. Any non-boggard creature within 30 feet of the boggard must make a DC 13 Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1d4 rounds. Creatures that succeed at this save cannot be affected again by the same boggard's croak for 24 hours. Creatures that are already shaken become [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] for 1d4 rounds instead. The save DC is Charisma-based and includes a +2 racial bonus. ^terrifying-croak
+**Terrifying Croak (Su)**: Once per hour, a boggard can, as a standard action, emit a loud and horrifying croak. Any non-boggard creature within 30 feet of the boggard is attacked at +3 vs Will, and on a hit becomes [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1d4 rounds. Creatures the croak misses cannot be affected again by the same boggard's croak for 24 hours. Creatures that are already shaken become [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] for 1d4 rounds instead. The attack bonus is Charisma-based and includes a +2 racial bonus. ^terrifying-croak

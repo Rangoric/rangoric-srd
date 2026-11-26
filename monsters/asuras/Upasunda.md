@@ -16,7 +16,7 @@ full-attack: "Masterwork longsword +19/+14/+9 melee (1d8+6/19–20) and masterwo
 space-reach: "5 ft./5 ft."
 special-attacks: "Infused weapons, multiweapon mastery, spell-like abilities"
 special-qualities: "All-around vision, darkvision 60 ft., regeneration 5 (good weapons, good spells), elusive (50 ft.), telepathy 100 ft., improved evasion, damage reduction 10/good, immunity to curse effects, disease, flanking and poison, resistance to acid 10 and electricity 10, spell resistance 20"
-saves: "Fort +12, Ref +11, Will +15"
+defenses: "Fort 22, Ref 21, Will 25"
 abilities: "Str 22, Dex 24, Con 19, Int 15, Wis 24, Cha 19"
 skills: "Acrobatics +19, Arcana +8, Athletics +6 (+14 jumping), Deception +16, Escape Artist +25, Intimidation +16, Investigation +6, Perception +23, Performance (dance) +16, Persuasion +13, Sense Motive +19, Stealth +19, Theology +14"
 skill-ranks: "Acrobatics 9, Arcana 3, Athletics 0, Deception 9, Escape Artist 9, Intimidation 9, Perception 9, Performance (dance) 11, Persuasion 6, Sense Motive 9, Stealth 9, Theology 9"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Infused Weapons (Upasunda)|Infused weapons]], [[rangoric-srd/monsters/abilities/Multiweapon Mastery|multiweapon mastery]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (good weapons, good spells), elusive (50 ft.), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., improved evasion, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to curse effects, disease, flanking and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and electricity 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20
-- **Saves**: Fort +12, Ref +11, Will +15
+- **Defenses**: Fort 22, Ref 21, Will 25
 - **Abilities**: Str 22, Dex 24, Con 19, Int 15, Wis 24, Cha 19
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +6 (+14 jumping), [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +25, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Investigation|Investigation]] +6, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Performance|Performance]] (dance) +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +19, [[rangoric-srd/skills/Theology|Theology]] +14
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Deflect Arrows|Deflect Arrows]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Grapple|Improved Grapple]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Spring Attack|Spring Attack]]
@@ -72,7 +72,7 @@ Upasundas speak Common and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +13): At will—_[[rangoric-srd/spells/Disguise Self|disguise self]]_, _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Feather Fall|feather fall]]_, _[[rangoric-srd/spells/See Invisibility|see invisibility]]_, _[[rangoric-srd/spells/Spider Climb|spider climb]]_; 3/day—_[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_, _[[rangoric-srd/spells/Levitate|levitate]]_, _[[rangoric-srd/spells/Rainbow Pattern|rainbow pattern]]_ (DC 18); 1/day—_[[rangoric-srd/spells/Haste|haste]]_, _[[rangoric-srd/spells/Hold Monster|hold monster]]_ (DC 19), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 4, 2 adhukaits 45% or 1 upasunda 20%).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th; concentration +13): At will—_[[rangoric-srd/spells/Disguise Self|disguise self]]_, _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only), _[[rangoric-srd/spells/Feather Fall|feather fall]]_, _[[rangoric-srd/spells/See Invisibility|see invisibility]]_, _[[rangoric-srd/spells/Spider Climb|spider climb]]_; 3/day—_[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_, _[[rangoric-srd/spells/Levitate|levitate]]_, _[[rangoric-srd/spells/Rainbow Pattern|rainbow pattern]]_ (+8 vs Will); 1/day—_[[rangoric-srd/spells/Haste|haste]]_, _[[rangoric-srd/spells/Hold Monster|hold monster]]_ (+9 vs Will), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 4, 2 adhukaits 45% or 1 upasunda 20%).
 
 **[[rangoric-srd/monsters/abilities/Infused Weapons (Upasunda)|Infused Weapons]] (Su)**: In addition to being evil and lawful, weapons an upasunda wields are considered to be magic for the purposes of overcoming damage reduction.
 

@@ -16,7 +16,7 @@ full-attack: "2 claws +18 melee (2d6+7/18–20/×3 plus grab and 1d6 bleed) and 
 space-reach: "5 ft./5 ft."
 special-attacks: "Constrict (2d6+10), poison, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect good, detect magic, see invisibility, telepathy 100 ft., amphibious, augmented critical, damage reduction 10/good, immunity to acid, death effects, disease and poison, resistance to cold 10, electricity 10 and fire 10, spell resistance 21"
-saves: "Fort +14, Ref +7, Will +9"
+defenses: "Fort 24, Ref 17, Will 19"
 abilities: "Str 25, Dex 18, Con 24, Int 14, Wis 15, Cha 17"
 skills: "Athletics +29, Escape Artist +18, Fieldcraft +16, Intimidation +17, Perception +16, Sense Motive +16, Stealth +18, Theology +16"
 skill-ranks: "Athletics 19, Escape Artist 11, Fieldcraft 11, Intimidation 11, Perception 11, Sense Motive 11, Stealth 11, Theology 11"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (2d6+10), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect good, detect magic, see invisibility, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Augmented Critical|augmented critical]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, death effects, disease and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
-- **Saves**: Fort +14, Ref +7, Will +9
+- **Defenses**: Fort 24, Ref 17, Will 19
 - **Abilities**: Str 25, Dex 18, Con 24, Int 14, Wis 15, Cha 17
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +29, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +18, [[rangoric-srd/skills/Theology|Theology]] +16
 - **Feats**: [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Sickening Critical|Sickening Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -73,8 +73,8 @@ Piscodaemons speak Abyssal, Draconic and Infernal.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 11th; concentration +14): Constant—_[[rangoric-srd/spells/Detect Good|detect good]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/See Invisibility|see invisibility]]_; At will—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only); 3/day—_[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_ (DC 16); 1/day—[[rangoric-srd/monsters/abilities/Summon|summon]] (level 4, 1d3 hydrodaemons 35%).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 11th; concentration +14): Constant—_[[rangoric-srd/spells/Detect Good|detect good]]_, _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/See Invisibility|see invisibility]]_; At will—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Teleport, Greater|greater teleport]]_ (self plus 50 lbs. of objects only); 3/day—_[[rangoric-srd/spells/Fly|fly]]_, _[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]_ (+6 vs Fortitude); 1/day—[[rangoric-srd/monsters/abilities/Summon|summon]] (level 4, 1d3 hydrodaemons 35%).
 
 **[[rangoric-srd/monsters/abilities/Augmented Critical|Augmented Critical]] (Ex)**: A piscodaemon's claws threaten a critical hit on an 18–20 and inflict ×3 damage on a successful critical hit.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Piscodaemon Venom|Piscodaemon Venom]]: Tentacles—injury; _save_ Fort DC 22; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con plus staggered for 1 round; _cure_ 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Piscodaemon Venom|Piscodaemon Venom]]: Tentacles—injury; _attack_ +12 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d2 Con plus staggered for 1 round; _cure_ 2 consecutive misses.

@@ -16,7 +16,7 @@ full-attack: "+1 scimitar +13/+8 melee (1d6+8/18–20); or slam +12 melee (1d6+7
 space-reach: "5 ft./5 ft."
 special-attacks: "Whirlwind blast, spell-like abilities"
 special-qualities: "Darkvision 60 ft., low-light vision, wind form, damage reduction 10/cold iron or evil, immunity to electricity and petrification, resistance to cold 10 and fire 10, spell resistance 17"
-saves: "Fort +9, Ref +9, Will +6"
+defenses: "Fort 19, Ref 19, Will 16"
 abilities: "Str 20, Dex 18, Con 19, Int 13, Wis 14, Cha 15"
 skills: "Acrobatics +22, Animal Handling +14, Deception +12, Perception +15, Sense Motive +12, Stealth +14"
 skill-ranks: "Acrobatics 15, Animal Handling 7, Deception 7, Perception 10, Sense Motive 7, Stealth 7"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Whirlwind|Whirlwind]] blast, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], wind form, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron or evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and petrification, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
-- **Saves**: Fort +9, Ref +9, Will +6
+- **Defenses**: Fort 19, Ref 19, Will 16
 - **Abilities**: Str 20, Dex 18, Con 19, Int 13, Wis 14, Cha 15
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +22, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +14, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -74,8 +74,8 @@ Bralanis speak Celestial, Infernal, and Draconic, but can communicate with almos
 
 Bralanis prefer the scimitar and bow, the weapons of the desert nomads they most closely resemble.
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th): At Will—_[[rangoric-srd/spells/Blur|blur]]_, _[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 13), _[[rangoric-srd/spells/Gust of Wind|gust of wind]]_ (DC 14), _[[rangoric-srd/spells/Mirror Image|mirror image]]_, _[[rangoric-srd/spells/Wind Wall|wind wall]]_; 2/day—_[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_ (DC 15), _[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th): At Will—_[[rangoric-srd/spells/Blur|blur]]_, _[[rangoric-srd/spells/Charm Person|charm person]]_ (+3 vs Will), _[[rangoric-srd/spells/Gust of Wind|gust of wind]]_ (+4 vs Fortitude), _[[rangoric-srd/spells/Mirror Image|mirror image]]_, _[[rangoric-srd/spells/Wind Wall|wind wall]]_; 2/day—_[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_ (+5 vs Reflex), _[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]_.
 
-**Whirlwind Blast (Su)**: When in wind form, a bralani can attack with a scouring blast of wind, dealing 3d6 points of damage in a 20-foot line (Reflex DC 17 half). The save DC is Constitution-based.
+**Whirlwind Blast (Su)**: When in wind form, a bralani can attack with a scouring blast of wind, dealing 3d6 points of damage in a 20-foot line (+7 vs Reflex; a miss halves). The attack bonus is Constitution-based.
 
 **Wind Form (Su)**: A bralani can shift between its humanoid body and a body made of wind and mist as a standard action. In humanoid form, it cannot fly or use its whirlwind blast. In wind form, it functions as if under the effects of a _[[rangoric-srd/spells/Wind Walk|wind walk]]_ spell. It can make slam attacks and use spell-like abilities in either form. A bralani remains in one form until it chooses to assume its other form. A change in form cannot be dispelled, nor does the bralani revert to any particular form when killed (both shapes are its true form). A _[[rangoric-srd/spells/True Seeing|true seeing]]_ spell reveals both forms simultaneously.

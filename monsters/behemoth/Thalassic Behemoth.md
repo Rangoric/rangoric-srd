@@ -16,7 +16,7 @@ full-attack: "Bite +39 melee (6d6+18/19–20 plus grab) and 2 claws +39 melee (3
 space-reach: "30 ft./20 ft."
 special-attacks: "Capsize (DC 25), fast swallow, push (water jet, 20 ft.), rend (2 claws, 3d6+18), ruinous, swallow whole (4d6+27 bludgeoning, AC 28, 39 hp), spell-like abilities"
 special-qualities: "Blindsense 60 ft., darkvision 60 ft.., regeneration 20, unstoppable, amphibious, damage reduction 15/epic, immunity to ability damage, aging, bleed, cold, disease, energy drain, fire, mind-affecting effects, negative levels, paralysis, permanent wounds, petrification, poison and polymorph, spell resistance 31, vulnerable to miracles and wishes"
-saves: "Fort +24, Ref +17, Will +14"
+defenses: "Fort 34, Ref 27, Will 24"
 abilities: "Str 47, Dex 8, Con 27, Int 3, Wis 16, Cha 14"
 skills: "Athletics +30, Fieldcraft +18, Perception +34, Stealth –13"
 skill-ranks: "Athletics 9, Fieldcraft 12, Perception 18, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 30 ft./20 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Capsize|Capsize]] (DC 25), [[rangoric-srd/monsters/abilities/Fast Swallow|fast swallow]], [[rangoric-srd/monsters/abilities/Push|push]] (water jet, 20 ft.), [[rangoric-srd/monsters/abilities/Rend|rend]] (2 claws, 3d6+18), ruinous, [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (4d6+27 bludgeoning, AC 28, 39 hp), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft.., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 20, unstoppable, [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/epic, immunity to ability damage, aging, bleed, cold, disease, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]], fire, mind-affecting effects, negative levels, paralysis, permanent wounds, petrification, poison and polymorph, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 31, vulnerable to miracles and wishes
-- **Saves**: Fort +24, Ref +17, Will +14
+- **Defenses**: Fort 34, Ref 27, Will 24
 - **Abilities**: Str 47, Dex 8, Con 27, Int 3, Wis 16, Cha 14
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +30, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +18, [[rangoric-srd/skills/Perception|Perception]] +34, [[rangoric-srd/skills/Stealth|Stealth]] –13
 - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (water jet), [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Greater Sunder|Greater Sunder]], [[rangoric-srd/feats/Greater Vital Strike|Greater Vital Strike]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite, water jet), [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -73,6 +73,6 @@ Thalassic behemoths understand Aklo but can't speak.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +22): 3/day—_[[rangoric-srd/spells/Tsunami|tsunami]]_ (DC 21).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +22): 3/day—_[[rangoric-srd/spells/Tsunami|tsunami]]_ (+11).
 
-**Water Jet (Su)**: A thalassic behemoth can blast water from its blowhole with surprising force and accuracy. This water jet has a range of 240 feet with no range increments. A target hit by the water jet is subject to the behemoth's push ability and must succeed at a DC 34 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d4+1 rounds. The save DC is Constitution-based.
+**Water Jet (Su)**: A thalassic behemoth can blast water from its blowhole with surprising force and accuracy. This water jet has a range of 240 feet with no range increments. A target hit by the water jet is subject to the behemoth's push ability and is attacked at +24 vs Fortitude, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d4+1 rounds. The attack bonus is Constitution-based.

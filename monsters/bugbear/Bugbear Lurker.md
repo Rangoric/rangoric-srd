@@ -16,7 +16,7 @@ full-attack: "+1 short sword +13/+8 melee (1d6+5/19–20); or javelin +12 ranged
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +4d6, debilitating injury"
 special-qualities: "Darkvision 60 ft., scent, evasion, danger sense +2, uncanny dodge, rogue talents (bleeding attack +4, fast stealth, surprise attack), stalker, trapfinding +3, finesse training (short sword), rogue's edge (Stealth)"
-saves: "Fort +6, Ref +12, Will +3"
+defenses: "Fort 16, Ref 22, Will 13"
 abilities: "Str 14, Dex 18, Con 16, Int 13, Wis 10, Cha 10"
 skills: "Acrobatics +16, Athletics +14, Deception +13, Engineering +16, Intimidation +17, Perception +13, Stealth +31"
 skill-ranks: "Acrobatics 9, Athletics 9, Deception 10, Engineering 9, Intimidation 14, Perception 10, Stealth 24"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +4d6, [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +2, [[rangoric-srd/classes/Rogue#^rogue-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Bleeding Attack (Rogue Talent)|bleeding attack]] +4, [[rangoric-srd/class-options/rogue-talents/Fast Stealth (Rogue Talent)|fast stealth]], [[rangoric-srd/class-options/rogue-talents/Surprise Attack (Rogue Talent)|surprise attack]]), [[rangoric-srd/monsters/bugbear/Bugbear|stalker]], [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +3, [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (short sword), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Stealth|Stealth]])
-- **Saves**: Fort +6, Ref +12, Will +3
+- **Defenses**: Fort 16, Ref 22, Will 13
 - **Abilities**: Str 14, Dex 18, Con 16, Int 13, Wis 10, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Engineering|Engineering]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +31
 - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Improved Feint|Improved Feint]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (short sword)

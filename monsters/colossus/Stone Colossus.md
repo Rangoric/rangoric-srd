@@ -16,7 +16,7 @@ full-attack: "2 slams +70 (8d6+30) melee"
 space-reach: "30 ft./30 ft."
 special-attacks: "Shatter"
 special-qualities: "Construct traits, magic immunity, antimagic field, DR 10/Epic and adamantine"
-saves: "Fort +21, Ref +18, Will +21"
+defenses: "Fort 31, Ref 28, Will 31"
 abilities: "Str 70, Dex 5, Con -, Int 7, Wis 10, Cha 1"
 skills: "Athletics +97 (+101 jumping)"
 skill-ranks: "Athletics 64"
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 30 ft./30 ft.
 - **Special Attacks**: [[rangoric-srd/spells/Shatter|Shatter]]
 - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], magic immunity, [[rangoric-srd/spells/Antimagic Field|antimagic field]], [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/Epic and adamantine
-- **Saves**: Fort +21, Ref +18, Will +21
+- **Defenses**: Fort 31, Ref 28, Will 31
 - **Abilities**: Str 70, Dex 5, Con -, Int 7, Wis 10, Cha 1
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +97 (+101 jumping)
 - **Climate/Terrain**: Any
@@ -61,9 +61,9 @@ A stone colossus cannot speak or make any vocal noise.
 
 ### Combat
 
-Shatter (Su): A stone colossus can use [[rangoric-srd/spells/Shatter|shatter]](DC 7) as a free action once every 2 rounds against an opponent’s weapon or other item as a 24th-level caster. The DC is Charisma-based.
+Shatter (Su): A stone colossus can use [[rangoric-srd/spells/Shatter|shatter]](−3) as a free action once every 2 rounds against an opponent’s weapon or other item as a 24th-level caster. The attack bonus is Charisma-based.
 
-Magic Immunity (Ex): A stone colossus is immune to all spells, spell-like abilities, and supernatural effects, except as follows. A [[rangoric-srd/spells/Transmute Rock to Mud|transmute rock to mud]] spell slows it (as the [[rangoric-srd/spells/Slow|slow]] spell) for 1 round, with no saving throw, while [[rangoric-srd/spells/Transmute Mud to Rock|transmute mud to rock]] heals all its lost hit points. A [[rangoric-srd/spells/Stone to Flesh|stone to flesh]] spell has no effect on a stone colossus.
+Magic Immunity (Ex): A stone colossus is immune to all spells, spell-like abilities, and supernatural effects, except as follows. A [[rangoric-srd/spells/Transmute Rock to Mud|transmute rock to mud]] spell slows it (as the [[rangoric-srd/spells/Slow|slow]] spell) for 1 round, with no attack against a defense, while [[rangoric-srd/spells/Transmute Mud to Rock|transmute mud to rock]] heals all its lost hit points. A [[rangoric-srd/spells/Stone to Flesh|stone to flesh]] spell has no effect on a stone colossus.
 
 ### Construction
 
@@ -75,13 +75,13 @@ A flesh colossus knows all languages spoken in life by the ghost who acts as its
 
 ### Combat
 
-Frightful Presence (Ex): All who come within a mile of the flesh colossus must make Will saves (DC 55). Those who make their saves are [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]]. Those who fail by 20 points or less are [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]]. Those who fail by 21 to 40 points are [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]]. Those who fail by 41 points or more are [[rangoric-srd/rules/Special Abilities and Conditions#^cowering|cowering]]. The DC is Charisma-based.
+Frightful Presence (Ex): The presence attacks all who come within a mile of the flesh colossus at +45 vs Will. Those it misses are [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]]. Those it hits by 20 points or less are [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]]. Those it hits by 21 to 40 points are [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]]. Those it hits by 41 points or more are [[rangoric-srd/rules/Special Abilities and Conditions#^cowering|cowering]]. The attack bonus is Charisma-based.
 
-Horrific Appearance (Su): Once per day, the controlling spirit within a flesh colossus may draw upon the negative energy latent in the construct to transform its countenance into a horrible leering visage: All within 300 feet who see this must make a Fortitude save (DC 55) or take 2d4 points of temporary Strength, Dexterity, and Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]]. The DC is Charisma-based.
+Horrific Appearance (Su): Once per day, the controlling spirit within a flesh colossus may draw upon the negative energy latent in the construct to transform its countenance into a horrible leering visage: It attacks all within 300 feet who see this at +45 vs Fortitude, and those it hits take 2d4 points of temporary Strength, Dexterity, and Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]]. The attack bonus is Charisma-based.
 
 Stomp (Ex): As a full-round action, a flesh colossus may stomp upon any adjacent foe (that is, any within the area it threatens). Its attack roll modifier for this special attack is +65 (+75 base, -2 Dex, -8 size). If successful, the stomp deals double damage (8d6 +24) and pins the victim until the colossus chooses to release him or her.
 
-Stench (Ex): All creatures with a sense of smell who come within 300 feet of the construct must make a Fortitude save (DC 60) or be [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] (unable to attack, cast spells, concentrate on spells, or do anything else requiring attention, except for a single move or move-equivalent action per round). Those who succeed on their saves take a -4 circumstance penalty on all attack rolls, saving throws, and skill checks for the next 2d6+4 minutes. The DC is Constitution-based.
+Stench (Ex): All creatures with a sense of smell who come within 300 feet of the construct are attacked at +50 vs Fortitude, and on a hit are [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] (unable to attack, cast spells, concentrate on spells, or do anything else requiring attention, except for a single move or move-equivalent action per round). Those it misses take a -4 circumstance penalty on all attack rolls, defenses, and skill checks for the next 2d6+4 minutes. The attack bonus is Constitution-based.
 
 Magic Immunity (Ex): A flesh colossus is immune to all magical and supernatural effects except those that use negative energy (see below).
 

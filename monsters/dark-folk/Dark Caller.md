@@ -16,7 +16,7 @@ full-attack: "Masterwork dagger +10/+5 melee (1d4+2/19–20 plus black smear poi
 space-reach: "5 ft./5 ft."
 special-attacks: "Death throes, sneak attack +2d6, poison, spell-like abilities"
 special-qualities: "Detect magic, see in darkness, poison use, shadow ritual, light blindness"
-saves: "Fort +4, Ref +9, Will +3"
+defenses: "Fort 14, Ref 19, Will 13"
 abilities: "Str 14, Dex 17, Con 14, Int 13, Wis 13, Cha 18"
 skills: "Arcana +9, Athletics +6, Emulation +5, Intimidation +5, Perception +8, Stealth +10, Theology +9"
 skill-ranks: "Arcana 5, Athletics 0, Emulation 1, Intimidation 1, Perception 3, Stealth 3, Theology 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Death throes, sneak attack +2d6, [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: Detect magic, [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Poison|poison]] use, [[rangoric-srd/monsters/abilities/Shadow Ritual|shadow ritual]], [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
-- **Saves**: Fort +4, Ref +9, Will +3
+- **Defenses**: Fort 14, Ref 19, Will 13
 - **Abilities**: Str 14, Dex 17, Con 14, Int 13, Wis 13, Cha 18
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Emulation|Emulation]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +10, [[rangoric-srd/skills/Theology|Theology]] +9
 - **Feats**: [[rangoric-srd/feats/Augment Summoning|Augment Summoning]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -75,8 +75,8 @@ Dark callers speak Dark Folk and Undercommon.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +12): Constant—_[[rangoric-srd/spells/Detect Magic|detect magic]]_; At will—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 14); 3/day—_[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_, _[[rangoric-srd/spells/Shadow Step|shadow step]]_; 1/day—_[[rangoric-srd/spells/Shadow Conjuration|shadow conjuration]]_ (DC 18).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +12): Constant—_[[rangoric-srd/spells/Detect Magic|detect magic]]_; At will—_[[rangoric-srd/spells/Bleed|bleed]]_ (+4 vs Will); 3/day—_[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]_, _[[rangoric-srd/spells/Shadow Step|shadow step]]_; 1/day—_[[rangoric-srd/spells/Shadow Conjuration|shadow conjuration]]_ (+8 vs Will).
 
-**Death Throes (Su)**: When a dark caller is slain, its body bursts into shreds of blisteringly cold shadows, leaving its gear in a heap on the ground. All creatures within a 10-foot burst take 1d4 points of Strength damage and are [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1 round. A successful DC 16 Fortitude save halves the Strength damage and negates the staggered effect. This ability damage is temporary and an affected creature's Strength returns to normal after 3d10 minutes. The save DC is Constitution-based.
+**Death Throes (Su)**: When a dark caller is slain, its body bursts into shreds of blisteringly cold shadows, leaving its gear in a heap on the ground. All creatures within a 10-foot burst take 1d4 points of Strength damage and are [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1 round. It attacks at +6 vs Fortitude, and a miss halves the Strength damage and negates the staggered effect. This ability damage is temporary and an affected creature's Strength returns to normal after 3d10 minutes. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Shadow Ritual|Shadow Ritual]] (Su)**: Three dark callers can collaborate on a ritual that calls an owb to their service. The ritual takes 1 hour to complete. If the dark callers involved are distracted in any way, the attempt is ruined and the ritual must begin anew. Once called to their service, the owb serves them for 24 hours. Though the owb is free-willed, it follows orders to the best of its ability.

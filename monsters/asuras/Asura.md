@@ -15,7 +15,7 @@ Asuras are lawful evil outsiders that exist within reality but apart from it.
 
 ### Combat
 
-Asuras have the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^asura|asura subtype]]: immunity to curses, disease, and poison, resistance to acid and electricity, a bonus on saves against enchantment spells, telepathy, an elusive aura that frustrates divination, regeneration that good weapons and spells overcome, spell resistance, the power to summon others of their kind, and bonuses on Escape Artist and Perception checks.
+Asuras have the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^asura|asura subtype]]: immunity to curses, disease, and poison, resistance to acid and electricity, a bonus on defenses against enchantment spells, telepathy, an elusive aura that frustrates divination, regeneration that good weapons and spells overcome, spell resistance, the power to summon others of their kind, and bonuses on Escape Artist and Perception checks.
 
 - [[rangoric-srd/monsters/asuras/Adhukait|Adhukait]]
 - [[rangoric-srd/monsters/asuras/Aghasura|Aghasura]]

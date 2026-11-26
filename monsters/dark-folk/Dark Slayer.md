@@ -16,7 +16,7 @@ full-attack: "Kukri +8 melee (1d3–1/18–20 plus black smear poison)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Death throes, poison use, sneak attack +2d6, soul harvest, spell-like abilities"
 special-qualities: "Detect magic, see in darkness, magical knack, light blindness"
-saves: "Fort +2, Ref +8, Will +1"
+defenses: "Fort 12, Ref 18, Will 11"
 abilities: "Str 9, Dex 18, Con 12, Int 10, Wis 11, Cha 15"
 skills: "Athletics +3, Emulation +12, Mysticism +7, Perception +4, Stealth +12"
 skill-ranks: "Athletics 0, Emulation 7, Mysticism 4, Perception 0, Stealth 0"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Death throes, [[rangoric-srd/monsters/abilities/Poison|poison]] use, sneak attack +2d6, [[rangoric-srd/monsters/abilities/Soul Harvest|soul harvest]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: Detect magic, [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Magical Knack|magical knack]], [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]]
-- **Saves**: Fort +2, Ref +8, Will +1
+- **Defenses**: Fort 12, Ref 18, Will 11
 - **Abilities**: Str 9, Dex 18, Con 12, Int 10, Wis 11, Cha 15
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Emulation|Emulation]] +12, [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Emulation), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -73,9 +73,9 @@ Dark slayers speak Dark Folk.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +6): Constant—_[[rangoric-srd/spells/Detect Magic|detect magic]]_; At will—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 12), _[[rangoric-srd/spells/Chill Touch|chill touch]]_ (DC 13), _[[rangoric-srd/spells/Darkness|darkness]], [[rangoric-srd/spells/Spectral Hand|spectral hand]]_; 3/day—_[[rangoric-srd/spells/Daze Monster|daze monster]]_ (DC 14), _[[rangoric-srd/spells/Death Knell|death knell]]_ (DC 14), _[[rangoric-srd/spells/Inflict Moderate Wounds|inflict moderate wounds]]_ (DC 14).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 4th; concentration +6): Constant—_[[rangoric-srd/spells/Detect Magic|detect magic]]_; At will—_[[rangoric-srd/spells/Bleed|bleed]]_ (+2 vs Will), _[[rangoric-srd/spells/Chill Touch|chill touch]]_ (+3), _[[rangoric-srd/spells/Darkness|darkness]], [[rangoric-srd/spells/Spectral Hand|spectral hand]]_; 3/day—_[[rangoric-srd/spells/Daze Monster|daze monster]]_ (+4 vs Will), _[[rangoric-srd/spells/Death Knell|death knell]]_ (+4 vs Will), _[[rangoric-srd/spells/Inflict Moderate Wounds|inflict moderate wounds]]_ (+4 vs Will).
 
-**Death Throes (Su)**: When a dark slayer is slain, its body implodes violently into nothingness, leaving its gear in a heap on the ground. All creatures within a 10-foot burst take 1d8 points of sonic damage and must make a DC 13 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]] for 2d4 rounds. The save DC is Constitution-based.
+**Death Throes (Su)**: When a dark slayer is slain, its body implodes violently into nothingness, leaving its gear in a heap on the ground. All creatures within a 10-foot burst take 1d8 points of sonic damage and are attacked at +3 vs Fortitude, and on a hit are [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]] for 2d4 rounds. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Magical Knack|Magical Knack]] (Ex)**: Emulation and [[rangoric-srd/skills/Mysticism|Mysticism]] are always class skills for dark slayers.
 

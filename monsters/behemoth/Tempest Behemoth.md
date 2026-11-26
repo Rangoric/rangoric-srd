@@ -16,7 +16,7 @@ full-attack: "Bite +41 melee (4d6+16/19–20 plus bleed) and 2 talons +41 melee 
 space-reach: "30 ft./30 ft."
 special-attacks: "Bleed (2d6), gale, ruinous, thunderbolt, spell-like abilities"
 special-qualities: "Blindsense 60 ft., darkvision 60 ft., regeneration 20, unstoppable, damage reduction 15/epic, immunity to ability damage, aging, bleed, disease, electricity, energy drain, fire, mind-affecting effects, negative levels, paralysis, permanent wounds, petrification, poison and polymorph, spell resistance 33, vulnerable to miracles and wishes"
-saves: "Fort +26, Ref +23, Will +16"
+defenses: "Fort 36, Ref 33, Will 26"
 abilities: "Str 43, Dex 21, Con 26, Int 3, Wis 16, Cha 14"
 skills: "Acrobatics +29, Fieldcraft +15, Perception +31, Stealth –7"
 skill-ranks: "Acrobatics 9, Fieldcraft 9, Perception 15, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 30 ft./30 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (2d6), [[rangoric-srd/monsters/abilities/Gale|gale]], ruinous, [[rangoric-srd/monsters/abilities/Thunderbolt (Tempest Behemoth)|thunderbolt]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 20, unstoppable, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/epic, immunity to ability damage, aging, bleed, disease, electricity, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]], fire, mind-affecting effects, negative levels, paralysis, permanent wounds, petrification, poison and polymorph, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 33, vulnerable to miracles and wishes
-- **Saves**: Fort +26, Ref +23, Will +16
+- **Defenses**: Fort 36, Ref 33, Will 26
 - **Abilities**: Str 43, Dex 21, Con 26, Int 3, Wis 16, Cha 14
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +29, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +15, [[rangoric-srd/skills/Perception|Perception]] +31, [[rangoric-srd/skills/Stealth|Stealth]] –7
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Greater Vital Strike|Greater Vital Strike]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (feathers), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Stance|Lightning Stance]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Snatch|Snatch]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (feathers), [[rangoric-srd/feats/Wind Stance|Wind Stance]]
@@ -73,10 +73,10 @@ Tempest behemoths understand Aklo but can't speak.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +22): 3/day—_[[rangoric-srd/spells/Storm of Vengeance|storm of vengeance]]_ (DC 21).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +22): 3/day—_[[rangoric-srd/spells/Storm of Vengeance|storm of vengeance]]_ (+11).
 
 **[[rangoric-srd/monsters/abilities/Gale|Gale]] (Su)**: A tempest behemoth can generate winds of up to hurricane force as a free action, blowing in as many as three different directions at once. The winds blow either away from or directly toward the behemoth in a 30-foot-wide path that extends for 1,000 feet.
 
 **Scales (Ex)**: A tempest behemoth can hurl up to six scales from its wings (range increment 100 feet) as a standard action.
 
-**[[rangoric-srd/monsters/abilities/Thunderbolt (Tempest Behemoth)|Thunderbolt]] (Su)**: As a swift action once every 1d4 rounds, a behemoth can shoot a bolt of lightning that deals 15d6 points of electricity damage and 15d6 points of sonic damage, and that causes permanent deafness in a 200-foot line (DC 34 Reflex save halves damage and negates deafness). The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Thunderbolt (Tempest Behemoth)|Thunderbolt]] (Su)**: As a swift action once every 1d4 rounds, a behemoth can shoot a bolt of lightning that deals 15d6 points of electricity damage and 15d6 points of sonic damage, and that causes permanent deafness in a 200-foot line (+24 vs Reflex; a miss halves damage and negates deafness). The attack bonus is Constitution-based.

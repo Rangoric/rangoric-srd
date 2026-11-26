@@ -14,9 +14,9 @@ cmd: "27"
 attack: "+1 longsword +14 melee (1d8+6/19–20) or +1 short sword +14 melee (1d6+3/19–20) or masterwork dagger +11 ranged (1d4+5/19–20)"
 full-attack: "+1 longsword +14/+9 melee (1d8+6/19–20) and +1 short sword +14 melee (1d6+3/19–20); or masterwork dagger +11 ranged (1d4+5/19–20)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Favored enemy (elves +4, gnomes +2), traps (7/day; DC 17; pit trap, snare trap, tar trap)"
+special-attacks: "Favored enemy (elves +4, gnomes +2), traps (7/day; +7; pit trap, snare trap, tar trap)"
 special-qualities: "Darkvision 60 ft., scent, favored terrain (swamp +4, underground +2), hunter's bond (companions), stalker, swift tracker, track +4, wild empathy +6, woodland stride"
-saves: "Fort +11, Ref +12, Will +7"
+defenses: "Fort 21, Ref 22, Will 17"
 abilities: "Str 20, Dex 14, Con 16, Int 10, Wis 16, Cha 6"
 skills: "Athletics +11, Engineering +18, Fieldcraft +11, Intimidation +15, Perception +11, Stealth +18"
 skill-ranks: "Athletics 3, Engineering 13, Fieldcraft 5, Intimidation 14, Perception 5, Stealth 13"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +14 melee (1d8+6/19–20) or +1 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +14 melee (1d6+3/19–20) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +11 ranged (1d4+5/19–20)
 - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Longsword|longsword]] +14/+9 melee (1d8+6/19–20) and +1 [[rangoric-srd/equipment/weapons/Short Sword|short sword]] +14 melee (1d6+3/19–20); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +11 ranged (1d4+5/19–20)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (elves +4, gnomes +2), [[rangoric-srd/class-options/archetypes/ranger/Trapper (Archetype)|traps]] (7/day; DC 17; [[rangoric-srd/class-options/ranger-traps/Pit Trap (Ranger Trap)|pit trap]], [[rangoric-srd/class-options/ranger-traps/Snare Trap (Ranger Trap)|snare trap]], [[rangoric-srd/class-options/ranger-traps/Tar Trap (Ranger Trap)|tar trap]])
+- **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|Favored enemy]] (elves +4, gnomes +2), [[rangoric-srd/class-options/archetypes/ranger/Trapper (Archetype)|traps]] (7/day; +7; [[rangoric-srd/class-options/ranger-traps/Pit Trap (Ranger Trap)|pit trap]], [[rangoric-srd/class-options/ranger-traps/Snare Trap (Ranger Trap)|snare trap]], [[rangoric-srd/class-options/ranger-traps/Tar Trap (Ranger Trap)|tar trap]])
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (swamp +4, underground +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/monsters/bugbear/Bugbear|stalker]], [[rangoric-srd/classes/Ranger#^ranger-swift-tracker|swift tracker]], [[rangoric-srd/classes/Ranger|track]] +4, [[rangoric-srd/classes/Ranger|wild empathy]] +6, [[rangoric-srd/classes/Ranger#^ranger-woodland-stride|woodland stride]]
-- **Saves**: Fort +11, Ref +12, Will +7
+- **Defenses**: Fort 21, Ref 22, Will 17
 - **Abilities**: Str 20, Dex 14, Con 16, Int 10, Wis 16, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Engineering|Engineering]] +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +18
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Natural Armor|Improved Natural Armor]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Two-Weapon Defense|Two-Weapon Defense]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Two-Weapon Rend|Two-Weapon Rend]]

@@ -14,9 +14,9 @@ cmd: "55 (59 vs. trip)"
 attack: "Bite +35 melee (4d6+12) or claw +35 melee (2d8+12) or tail slap +35 melee (2d6+6) or wing +35 melee (2d6+6)"
 full-attack: "Bite +35 melee (4d6+12) and 2 claws +35 melee (2d8+12) and tail slap +30 melee (2d6+6) and 2 wings +30 melee (2d6+6)"
 space-reach: "15 ft./15 ft. (15 ft. with bite)"
-special-attacks: "Adamantine weapons, breath weapon (100-ft. line, 14d6 fire damage, Reflex DC 22 half, usable every 1d4 rounds), self-destruction"
+special-attacks: "Adamantine weapons, breath weapon (100-ft. line, 14d6 fire damage, +12 vs Reflex; a miss halves, usable every 1d4 rounds), self-destruction"
 special-qualities: "Darkvision 60 ft., low-light vision, see invisibility, difficult to create, efficient winding, swift reactions, damage reduction 15/adamantine, construct traits, resistance to fire 20, spell resistance 27, vulnerable to electricity"
-saves: "Fort +8, Ref +14, Will +8"
+defenses: "Fort 18, Ref 24, Will 18"
 abilities: "Str 34, Dex 19, Con —, Int —, Wis 11, Cha 1"
 skills: "Acrobatics +8, Athletics +20, Perception +8"
 skill-ranks: "Acrobatics 0, Athletics 5, Perception 0"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +35 melee (4d6+12) or claw +35 melee (2d8+12) or tail slap +35 melee (2d6+6) or wing +35 melee (2d6+6)
 - **Full Attack**: Bite +35 melee (4d6+12) and 2 claws +35 melee (2d8+12) and tail slap +30 melee (2d6+6) and 2 wings +30 melee (2d6+6)
 - **Space/Reach**: 15 ft./15 ft. (15 ft. with bite)
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Adamantine Weapons|Adamantine weapons]], [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]] (100-ft. line, 14d6 fire damage, Reflex DC 22 half, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Self-Destruction (Clockwork Dragon)|self-destruction]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Adamantine Weapons|Adamantine weapons]], [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]] (100-ft. line, 14d6 fire damage, +12 vs Reflex; a miss halves, usable every 1d4 rounds), [[rangoric-srd/monsters/abilities/Self-Destruction (Clockwork Dragon)|self-destruction]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], see invisibility, difficult to create, [[rangoric-srd/monsters/abilities/Efficient Winding (Clockwork Dragon)|efficient winding]], swift reactions, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/adamantine, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 20, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27, vulnerable to electricity
-- **Saves**: Fort +8, Ref +14, Will +8
+- **Defenses**: Fort 18, Ref 24, Will 18
 - **Abilities**: Str 34, Dex 19, Con —, Int —, Wis 11, Cha 1
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +20, [[rangoric-srd/skills/Perception|Perception]] +8
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
@@ -73,7 +73,7 @@ The basic chassis and internal workings of the clockwork dragons are highly adap
 
 **[[rangoric-srd/monsters/abilities/Efficient Winding (Clockwork Dragon)|Efficient Winding]] (Ex)**: Built for long and dangerous missions, a clockwork dragon can function for 3 days per Hit Die each time it's wound.
 
-**[[rangoric-srd/monsters/abilities/Self-Destruction (Clockwork Dragon)|Self-Destruction]] (Ex)**: When a clockwork dragon's hit points are reduced to 10% of its total (17 in the case of most clockwork dragons) or less but are still above 0, the creature self-destructs on its next turn, bursting into an explosion of metal scraps and steam that deals 10d6 points of slashing damage plus 10d6 points of fire damage to all creatures within a 20-foot-radius burst. A successful DC 22 Reflex save halves the damage. The save is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Self-Destruction (Clockwork Dragon)|Self-Destruction]] (Ex)**: When a clockwork dragon's hit points are reduced to 10% of its total (17 in the case of most clockwork dragons) or less but are still above 0, the creature self-destructs on its next turn, bursting into an explosion of metal scraps and steam that deals 10d6 points of slashing damage plus 10d6 points of fire damage to all creatures within a 20-foot-radius burst. The explosion attacks at +12 vs Reflex, and a miss halves the damage. The attack bonus is Charisma-based.
 
 ### Construction
 

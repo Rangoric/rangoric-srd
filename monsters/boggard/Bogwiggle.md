@@ -16,7 +16,7 @@ full-attack: "Bite +4 melee (1d4+1) and tongue –1 melee touch (sticky tongue)"
 space-reach: "5 ft./5 ft. (10 ft. with tongue)"
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., amphibious, swamp stride"
-saves: "Fort +2, Ref +2, Will +4"
+defenses: "Fort 12, Ref 12, Will 14"
 abilities: "Str 13, Dex 12, Con 13, Int 3, Wis 12, Cha 6"
 skills: "Acrobatics +5, Athletics +13, Perception +1 (+5 in swamps), Stealth +9 (+17 in swamps)"
 skill-ranks: "Acrobatics 1, Athletics 9, Perception 0, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with tongue)
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], swamp stride
-- **Saves**: Fort +2, Ref +2, Will +4
+- **Defenses**: Fort 12, Ref 12, Will 14
 - **Abilities**: Str 13, Dex 12, Con 13, Int 3, Wis 12, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +1 (+5 in swamps), [[rangoric-srd/skills/Stealth|Stealth]] +9 (+17 in swamps)
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]
