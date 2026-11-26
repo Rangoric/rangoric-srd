@@ -18,15 +18,15 @@ The spells every [[rangoric-srd/prestige-classes/Totem Mage#^totem-mage-spells-p
 
 ##### 0-Level Totem Mage Spells (Orisons)
 
-| Spell Name                                                            | Brief Description                                    |
-| --------------------------------------------------------------------- | ---------------------------------------------------- |
-| [[rangoric-srd/spells/Cure Minor Wounds\|Cure Minor Wounds]]:         | Cures 1 point of damage.                             |
-| [[rangoric-srd/spells/Detect Poison\|Detect Poison]]:                 | Detects poison in one creature or object.            |
-| [[rangoric-srd/spells/Guidance\|Guidance]]:                           | +1 on one attack roll, saving throw, or skill check. |
-| [[rangoric-srd/spells/Know Direction\|Know Direction]]:               | You discern north.                                   |
-| [[rangoric-srd/spells/Purify Food and Drink\|Purify Food and Drink]]: | Purifies 1 cu. ft./level of food or water.           |
-| [[rangoric-srd/spells/Resistance\|Resistance]]:                       | Subject gains +1 bonus on saving throws.             |
-| [[rangoric-srd/spells/Virtue\|Virtue]]:                               | Subject gains 1 temporary hp.                        |
+| Spell Name                                                            | Brief Description                                        |
+| --------------------------------------------------------------------- | -------------------------------------------------------- |
+| [[rangoric-srd/spells/Cure Minor Wounds\|Cure Minor Wounds]]:         | Cures 1 point of damage.                                 |
+| [[rangoric-srd/spells/Detect Poison\|Detect Poison]]:                 | Detects poison in one creature or object.                |
+| [[rangoric-srd/spells/Guidance\|Guidance]]:                           | +1 on one attack roll or skill check, or to one defense. |
+| [[rangoric-srd/spells/Know Direction\|Know Direction]]:               | You discern north.                                       |
+| [[rangoric-srd/spells/Purify Food and Drink\|Purify Food and Drink]]: | Purifies 1 cu. ft./level of food or water.               |
+| [[rangoric-srd/spells/Resistance\|Resistance]]:                       | Subject gains +1 bonus on defenses.                      |
+| [[rangoric-srd/spells/Virtue\|Virtue]]:                               | Subject gains 1 temporary hp.                            |
 
 ##### 1st-Level Totem Mage Spells
 

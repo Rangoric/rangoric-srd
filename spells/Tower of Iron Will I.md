@@ -10,7 +10,7 @@ casting-time: "1 immediate action"
 range: "10 ft."
 area: "10-ft.-radius emanation centered on you"
 duration: "1 round"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes (harmless)"
 book: "Occult Adventures"
 based-on:
@@ -31,7 +31,7 @@ _Abjuration_
 - **Range**: 10 ft.
 - **Area**: 10-ft.-radius emanation centered on you
 - **Duration**: 1 round
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes (harmless)
 
 You project a fortress of mental power that blocks out the psychic energy of others, granting mental strength and resiliency to all inside the area. All creatures inside the area gain spell resistance equal to 10 + double this spell's level against [[rangoric-srd/spells/Magic Overview#^psychic-magic|psychic magic]] and any mind-affecting effects. Creatures inside the area don't receive this protection against your spells or special abilities.

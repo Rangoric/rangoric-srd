@@ -39,7 +39,7 @@ _Transmutation_
 
 You become a virtual fighting machine— stronger, tougher, faster, and more skilled in combat. Your mind-set changes so that you relish combat and you can’t cast spells, even from magic items.
 
-You gain a +4 enhancement bonus to Strength, Dexterity, and Constitution, a +4 natural armor bonus to AC, a +5 competence bonus on Fortitude saves, and proficiency with all simple and martial weapons. Your base attack bonus equals your character level (which may give you multiple attacks).
+You gain a +4 enhancement bonus to Strength, Dexterity, and Constitution, a +4 natural armor bonus to AC, a +5 competence bonus on Fortitude Defense, and proficiency with all simple and martial weapons. Your base attack bonus equals your character level (which may give you multiple attacks).
 
 You lose your spellcasting ability, including your ability to use spell activation or spell completion magic items, just as if the spells were no longer on your class list.
 

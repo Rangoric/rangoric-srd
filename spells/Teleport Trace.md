@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "Personal"
 target: "You"
 duration: "1 minute/level"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Spells & Magic"
 based-on:
@@ -38,7 +38,7 @@ _Divination_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 minute/level
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 A _teleport trace_ allows creatures to track down the location of a creature that has used teleportation-based magic (_[[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Plane Shift|plane shift]], [[rangoric-srd/spells/Teleport|teleport]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]], [[rangoric-srd/spells/Word of Recall|word of recall]],_ and other similar spells) by following the trail of magic to its source. The distance teleported is not a factor in determining a creature’s location, and _teleport trace_ even reveals creatures that have left the plane. Time is a factor, though, and _teleport trace_ is only effective for 5 minutes after teleportation magic has been used.

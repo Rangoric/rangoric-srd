@@ -10,7 +10,7 @@ casting-time: "1 immediate action"
 range: "10 ft."
 area: "10-ft.-radius emanation centered on you"
 duration: "3 rounds"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes (harmless)"
 book: "Occult Adventures"
 based-on:
@@ -31,7 +31,7 @@ _Abjuration_
 - **Range**: 10 ft.
 - **Area**: 10-ft.-radius emanation centered on you
 - **Duration**: 3 rounds
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes (harmless)
 
 This functions as _[[rangoric-srd/spells/Tower of Iron Will I|tower of iron will I]]_, except as noted above. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].

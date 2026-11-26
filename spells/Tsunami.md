@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 effect: "10-ft.-deep wave 10 ft. wide/level and 2 ft. tall/level"
 duration: "5 rounds"
-saving-throw: "See text"
+defense: "See text"
 spell-resistance: "No"
 book: "Advanced Player's Guide"
 based-on:
@@ -37,12 +37,12 @@ _Conjuration (Creation) \[Water\]_
 - **Range**: Long (400 ft. + 40 ft./level)
 - **Effect**: 10-ft.-deep wave 10 ft. wide/level and 2 ft. tall/level
 - **Duration**: 5 rounds
-- **Saving Throw**: See text
+- **Defense**: See text
 - **Spell Resistance**: No
 
 You create a massive wave of water that then moves in a straight line across water or land—you select the direction the wave travels (which must be perpendicular to its width), but once set in motion, the wave cannot change course. Over the surface of open water, the wave travels at a speed of 60 feet per round—on land or underwater, the wave travels at a speed of 30 feet per round.
 
-Creatures struck by a tsunami take 8d6 points of bludgeoning damage (a Fortitude save halves this damage). In addition, the tsunami makes a special CMB check against any creature it strikes—the wave's CMB is equal to your caster level + your relevant spellcasting ability score modifier (whichever is highest) + 8 (for the wave's size). If this CMB check defeats a creature's CMD, the creature is knocked prone and carried along by the wave. A creature carried along by a tsunami can attempt to escape the wave on its turn as a standard action by making a CMB or Athletics check opposed by the wave's CMB check—if a creature fails to escape, it takes another 6d6 points of bludgeoning damage (Fortitude save for half) and continues being carried along by the wave.
+Creatures struck by a tsunami take 8d6 points of bludgeoning damage (vs Fortitude; a miss halves). In addition, the tsunami makes a special CMB check against any creature it strikes—the wave's CMB is equal to your caster level + your relevant spellcasting ability score modifier (whichever is highest) + 8 (for the wave's size). If this CMB check defeats a creature's CMD, the creature is knocked prone and carried along by the wave. A creature carried along by a tsunami can attempt to escape the wave on its turn as a standard action by making a CMB or Athletics check opposed by the wave's CMB check—if a creature fails to escape, it takes another 6d6 points of bludgeoning damage (vs Fortitude; a miss halves) and continues being carried along by the wave.
 
 Objects struck by a tsunami are swept up if they are Huge or smaller and are carried along by the wave, deposited in a pile at the end of the wave's journey. Gargantuan or larger objects, as well as structures or objects firmly attached to the ground, take 8d6 points of bludgeoning damage when a tsunami passes through its space—if this is enough to destroy the object or structure, the remains are carried along by the wave. Hardness does not reduce this damage, nor is it halved as damage dealt to objects normally is. _[[rangoric-srd/spells/Freedom of Movement|Freedom of movement]]_ prevents a creature from being carried along by a tsunami but does not prevent damage caused by it hitting a creature.
 

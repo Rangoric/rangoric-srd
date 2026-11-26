@@ -11,7 +11,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "You and Your Familiar"
 duration: "1 hour/level (d)"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes"
 book: "Spells & Magic"
 based-on:
@@ -32,7 +32,7 @@ _Evocation_
 - **Range**: Touch
 - **Target**: You and Your Familiar
 - **Duration**: 1 hour/level (d)
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes
 
 When this spell is cast, the bond between a caster and her familiar is greatly intensified. This increased bond allows the caster and the familiar to share each other’s feats, skills, and some special qualities as if they were truly the same being. For this _true sharing_ to work, the familiar must remain in contact with the caster throughout the duration. Any loss of contact ends the spell instantly.
@@ -41,4 +41,4 @@ Shared skills only share skill ranks, not ability bonuses, and these ranks do no
 
 An exception is the familiar ability of Improved Evasion. During the duration of this spell, the caster and the familiar both have Evasion instead.
 
-If the caster or familiar should die while under the effects of this spell, the other must immediately make a Fortitude Save (DC 20) or also perish from the shock of loss.
+If the caster or familiar should die while under the effects of this spell, the shock of loss immediately attacks the other’s Fortitude at +10, and on a hit it also perishes.

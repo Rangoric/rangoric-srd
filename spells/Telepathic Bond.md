@@ -18,7 +18,7 @@ casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "You plus one willing creature per three levels, no two of which can be more than 30 ft. apart"
 duration: "10 min./level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Telepathic Bond|Telepathic Bond (3.5)]]"
@@ -38,7 +38,7 @@ _Divination_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Targets**: You plus one willing creature per three levels, no two of which can be more than 30 ft. apart
 - **Duration**: 10 min./level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You forge a telepathic bond among yourself and a number of willing creatures, each of which must have an Intelligence score of 3 or higher. Each creature included in the link is linked to all the others. The creatures can communicate telepathically through the bond regardless of language. No special power or influence is established as a result of the bond. Once the bond is formed, it works over any distance (although not from one plane to another).

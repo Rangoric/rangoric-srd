@@ -17,7 +17,7 @@ casting-time: "1 standard action"
 range: "20 ft."
 effect: "20-ft.-radius sphere centered on your location"
 duration: "2 hours/level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Tiny Hut|Tiny Hut (3.5)]]"
@@ -37,7 +37,7 @@ _Evocation \[Force\]_
 - **Range**: 20 ft.
 - **Effect**: 20-ft.-radius sphere centered on your location
 - **Duration**: 2 hours/level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
 You create an unmoving, opaque sphere of force of any color you desire around yourself. Half the sphere projects above the ground, and the lower hemisphere passes through the ground. As many as nine other Medium creatures can fit into the field with you; they can freely pass into and out of the hut without harming it. However, if you remove yourself from the hut, the spell ends.

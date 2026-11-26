@@ -10,7 +10,7 @@ casting-time: "1 immediate action"
 range: "Personal"
 target: "You"
 duration: "1 round"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Occult Adventures"
 based-on:
@@ -31,7 +31,7 @@ _Abjuration_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 round
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
-This functions as _[[rangoric-srd/spells/Thought Shield III|thought shield III]]_, but any creature that tries to read your thoughts while this spell lasts must succeed at a Will save or be stunned for 1d4 rounds. Additionally, if you succeed at your save against a _[[rangoric-srd/spells/Psychic Crush I|psychic crush]]_ spell, you take no damage. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].
+This functions as _[[rangoric-srd/spells/Thought Shield III|thought shield III]]_, but any creature that tries to read your thoughts while this spell lasts is attacked against Will, and on a hit is stunned for 1d4 rounds. Additionally, if a _[[rangoric-srd/spells/Psychic Crush I|psychic crush]]_ spell’s attack misses you, you take no damage. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].

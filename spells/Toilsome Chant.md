@@ -15,7 +15,7 @@ casting-time: "See text"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One living creature"
 duration: "See text"
-saving-throw: "Will negates (harmless)"
+defense: "Will (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Race Guide"
 based-on:
@@ -36,7 +36,7 @@ _Enchantment (Compulsion) \[Mind-affecting\]_
 - **Range**: Close (25 ft. + 5 ft./2 levels)
 - **Target**: One living creature
 - **Duration**: See text
-- **Saving Throw**: Will negates (harmless)
+- **Defense**: Will (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 You can cast this spell as part of the action to begin an inspire competence bardic performance. The benefit of inspire competence persists for as long as is necessary to complete the target's next skill check using the chosen skill (up to a maximum of 1 hour per caster level), even if you cease your bardic performance.

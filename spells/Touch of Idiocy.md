@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Living creature touched"
 duration: "10 min./level"
-saving-throw: "No"
+defense: "No"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Touch of Idiocy|Touch of Idiocy (3.5)]]"
@@ -40,7 +40,7 @@ _Enchantment (Compulsion) \[Mind-Affecting\]_
 - **Range**: Touch
 - **Target**: Living creature touched
 - **Duration**: 10 min./level
-- **Saving Throw**: No
+- **Defense**: No
 - **Spell Resistance**: Yes
 
 With a touch, you reduce the target’s mental faculties. Your successful melee touch attack applies a 1d6 penalty to the target’s Intelligence, Wisdom, and Charisma scores. This penalty can’t reduce any of these scores below 1.

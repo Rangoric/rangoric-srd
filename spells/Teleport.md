@@ -20,7 +20,7 @@ casting-time: "1 standard action"
 range: "Personal and touch"
 target: "You and touched objects or other touched willing creatures"
 duration: "Instantaneous"
-saving-throw: "None and Will negates (object)"
+defense: "None and Will (object)"
 spell-resistance: "No and Yes (object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Teleport|Teleport (3.5)]]"
@@ -40,10 +40,10 @@ _Conjuration (Teleportation)_
 - **Range**: Personal and touch
 - **Target**: You and touched objects or other touched willing creatures
 - **Duration**: Instantaneous
-- **Saving Throw**: None and Will negates (object)
+- **Defense**: None and Will (object)
 - **Spell Resistance**: No and Yes (object)
 
-This spell instantly transports you to a designated destination, which may be as distant as 100 miles per caster level. Interplanar travel is not possible. You can bring along objects as long as their weight doesn’t exceed your maximum load. You may also bring one additional willing Medium or smaller creature (carrying gear or objects up to its maximum load) or its equivalent (see below) per three caster levels. A Large creature counts as two Medium creatures, a Huge creature counts as two Large creatures, and so forth. All creatures to be transported must be in contact with one another, and at least one of those creatures must be in contact with you. As with all spells where the range is personal and the target is you, you need not make a saving throw, nor is spell resistance applicable to you. Only objects held or in use (attended) by another person receive saving throws and spell resistance.
+This spell instantly transports you to a designated destination, which may be as distant as 100 miles per caster level. Interplanar travel is not possible. You can bring along objects as long as their weight doesn’t exceed your maximum load. You may also bring one additional willing Medium or smaller creature (carrying gear or objects up to its maximum load) or its equivalent (see below) per three caster levels. A Large creature counts as two Medium creatures, a Huge creature counts as two Large creatures, and so forth. All creatures to be transported must be in contact with one another, and at least one of those creatures must be in contact with you. As with all spells where the range is personal and the target is you, the spell makes no attack against your defenses, nor is spell resistance applicable to you. Only objects held or in use (attended) by another person get defenses and spell resistance against it.
 
 You must have some clear idea of the location and layout of the destination. The clearer your mental image, the more likely the teleportation works. Areas of strong physical or magical energy may make teleportation more hazardous or even impossible.
 

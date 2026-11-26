@@ -13,7 +13,7 @@ casting-time: "30 minutes"
 range: "Touch"
 target: "You plus one additional creature touched per two levels"
 duration: "See text"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 book: "Spells & Magic"
 based-on:
@@ -34,7 +34,7 @@ _Necromancy_
 - **Range**: Touch
 - **Target**: You plus one additional creature touched per two levels
 - **Duration**: See text
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 Through this spell, you and your companions can journey into the land of the dead and fight an avatar of Death for the soul of one of the departed. If you manage to defeat this avatar in single combat, he allows you to return to the Upper World with the soul you came to find. If you fail, he takes your soul as well.

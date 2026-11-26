@@ -10,7 +10,7 @@ casting-time: "1 immediate action"
 range: "Personal"
 target: "You"
 duration: "1 round"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "No"
 book: "Occult Adventures"
 based-on:
@@ -31,7 +31,7 @@ _Abjuration_
 - **Range**: Personal
 - **Target**: You
 - **Duration**: 1 round
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: No
 
-This functions as _[[rangoric-srd/spells/Thought Shield I|thought shield I]]_, but the circumstance bonus on Will saves to resist mind-affecting effects increases to +6. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].
+This functions as _[[rangoric-srd/spells/Thought Shield I|thought shield I]]_, but the circumstance bonus on Will Defense against mind-affecting effects increases to +6. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].

@@ -21,7 +21,7 @@ casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 target: "One creature"
 duration: "Permanent until triggered, then 1 minute/level"
-saving-throw: "Will disbelief"
+defense: "Will disbelief"
 spell-resistance: "Yes"
 book: "Ultimate Intrigue"
 based-on:
@@ -42,7 +42,7 @@ _Illusion (Phantasm) \[MindAffecting\]_
 - **Range**: Long (400 ft. + 40 ft./level)
 - **Target**: One creature
 - **Duration**: Permanent until triggered, then 1 minute/level
-- **Saving Throw**: Will disbelief
+- **Defense**: Will disbelief
 - **Spell Resistance**: Yes
 
-This spell functions as [[rangoric-srd/spells/Audiovisual Hallucination|audiovisual hallucination]], except that this spell's phantasm has no apparent effect until a specific condition occurs. You must overcome the target's spell resistance to plant the _triggered hallucination_, but the target doesn't attempt a Will save to disbelieve the illusion until the condition occurs (at which point it receives an automatic Will save, as with _[[rangoric-srd/spells/Audiovisual Hallucination|audiovisual hallucination]]_). The phantasm can include auditory, olfactory, visual, tactile, and thermal elements, including intelligible speech. You set the triggering condition (such as hearing a certain word or seeing a type of creature) when casting the spell. The event that triggers the illusion can be as general or detailed as desired but must be based on an audible, tactile, olfactory, or visual trigger. The trigger can't be based on any quality not normally obvious to the senses, such as alignment. _Triggered hallucination_ uses the target's senses to notice triggers.
+This spell functions as [[rangoric-srd/spells/Audiovisual Hallucination|audiovisual hallucination]], except that this spell's phantasm has no apparent effect until a specific condition occurs. You must overcome the target's spell resistance to plant the _triggered hallucination_, but the illusion doesn't attack the target’s Will until the condition occurs (at which point it attacks automatically, as with _[[rangoric-srd/spells/Audiovisual Hallucination|audiovisual hallucination]]_). The phantasm can include auditory, olfactory, visual, tactile, and thermal elements, including intelligible speech. You set the triggering condition (such as hearing a certain word or seeing a type of creature) when casting the spell. The event that triggers the illusion can be as general or detailed as desired but must be based on an audible, tactile, olfactory, or visual trigger. The trigger can't be based on any quality not normally obvious to the senses, such as alignment. _Triggered hallucination_ uses the target's senses to notice triggers.

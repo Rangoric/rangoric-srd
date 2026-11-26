@@ -15,7 +15,7 @@ casting-time: "10 minutes"
 range: "0 ft."
 effect: "5-ft.-radius circle that teleports those who activate it"
 duration: "10 min./level (D)"
-saving-throw: "None"
+defense: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Teleportation Circle|Teleportation Circle (3.5)]]"
@@ -35,7 +35,7 @@ _Conjuration (Teleportation)_
 - **Range**: 0 ft.
 - **Effect**: 5-ft.-radius circle that teleports those who activate it
 - **Duration**: 10 min./level (D)
-- **Saving Throw**: None
+- **Defense**: None
 - **Spell Resistance**: Yes
 
 You create a circle on the floor or other horizontal surface that teleports, as greater teleport, any creature who stands on it to a designated spot. Once you designate the destination for the circle, you can’t change it. The spell fails if you attempt to set the circle to teleport creatures into a solid object, to a place with which you are not familiar and have no clear description, or to another plane.

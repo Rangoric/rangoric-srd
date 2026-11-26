@@ -16,7 +16,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
 duration: "1 round/level"
-saving-throw: "Fortitude negates"
+defense: "Fortitude"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Touch of Fatigue|Touch of Fatigue (3.5)]]"
@@ -36,7 +36,7 @@ _Necromancy_
 - **Range**: Touch
 - **Target**: Creature touched
 - **Duration**: 1 round/level
-- **Saving Throw**: Fortitude negates
+- **Defense**: Fortitude
 - **Spell Resistance**: Yes
 
 You channel negative energy through your touch, fatiguing the target. You must succeed on a touch attack to strike a target.

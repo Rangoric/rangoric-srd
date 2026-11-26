@@ -14,7 +14,7 @@ casting-time: "1 standard action"
 range: "Touch"
 target: "You plus one touched creature/3 levels"
 duration: "1 hour/level (D)"
-saving-throw: "Fortitude negates (harmless)"
+defense: "Fortitude (harmless)"
 spell-resistance: "Yes (harmless)"
 book: "Advanced Player's Guide"
 based-on:
@@ -35,7 +35,7 @@ _Transmutation_
 - **Range**: Touch
 - **Target**: You plus one touched creature/3 levels
 - **Duration**: 1 hour/level (D)
-- **Saving Throw**: Fortitude negates (harmless)
+- **Defense**: Fortitude (harmless)
 - **Spell Resistance**: Yes (harmless)
 
 This spell functions as _[[rangoric-srd/spells/Tireless Pursuit|tireless pursuit]]_, except as noted above.
