@@ -15,7 +15,7 @@ full-attack: "2 claws +13 melee (1d6+5 plus grab) and bite +13 melee (1d6+5 plus
 space-reach: "5 ft./5 ft."
 special-attacks: "Blood drain (1d2 Constitution), poison"
 special-qualities: "Darkvision 60 ft., lifesense, ferocity, entangling slime, immunity to mind-affecting effects"
-saves: "Fort +11, Ref +6, Will +4"
+defenses: "Fort 21, Ref 16, Will 14"
 abilities: "Str 20, Dex 17, Con 19, Int —, Wis 12, Cha 7"
 skills: "Acrobatics –5, Athletics +13, Imitation +6 (+14 when disguised as a humanoid), Stealth +11"
 skill-ranks: "Acrobatics 0, Athletics 5, Imitation 0, Stealth 0"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]] (1d2 Constitution), [[rangoric-srd/monsters/abilities/Poison|poison]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Lifesense|lifesense]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], [[rangoric-srd/monsters/abilities/Entangling Slime|entangling slime]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
-- **Saves**: Fort +11, Ref +6, Will +4
+- **Defenses**: Fort 21, Ref 16, Will 14
 - **Abilities**: Str 20, Dex 17, Con 19, Int —, Wis 12, Cha 7
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] –5, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Imitation|Imitation]] +6 (+14 when disguised as a humanoid), [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw)
@@ -67,6 +67,6 @@ Xenopterids live in colonies in abandoned ruins, old castles, decrepit farmstead
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Entangling Slime|Entangling Slime]] (Ex)**: A xenopterid can produce a sticky, slimy secretion it uses to protect its territory and eggs. The xenopterid can slime up to a 10-foot-square area per day at a rate of 1 square foot per minute. For 1 week thereafter, any creature coming in direct contact with the slime must succeed at a DC 19 Strength check or be [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] and glued to it as if it had failed its save against a tanglefoot bag. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Entangling Slime|Entangling Slime]] (Ex)**: A xenopterid can produce a sticky, slimy secretion it uses to protect its territory and eggs. The xenopterid can slime up to a 10-foot-square area per day at a rate of 1 square foot per minute. For 1 week thereafter, any creature coming in direct contact with the slime must succeed at a DC 19 Strength check or be [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] and glued to it as if it had failed its save against a tanglefoot bag. The attack bonus is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _save_ Fort DC 19; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Dex; _cure_ 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; _attack_ +9 vs Fortitude; _frequency_ 1/round for 6 rounds; _effect_ 1d4 Dex; _cure_ 2 consecutive misses. The attack bonus is Constitution-based.

@@ -29,13 +29,13 @@ The stat blocks are Pathfinder’s, with skills renamed to Rangoric’s; their t
 
 **Create Shadows (Su)**: Any creature slain by an ancient or older umbral dragon rises as a shadow (if 8 HD or less) or greater shadow (if above 8 HD) under the umbral dragon's control 1d4 rounds later.
 
-**Energy Drain (Su)**: A great wyrm umbral dragon deals 1 negative level with each successful bite or claw attack (1 level, DC 32).
+**Energy Drain (Su)**: A great wyrm umbral dragon deals 1 negative level with each successful bite or claw attack (1 level, +22 vs Fortitude).
 
 **Ghost Bane (Su)**: A young or older umbral dragon's physical attacks deal damage to incorporeal creatures normally.
 
 **Umbral Scion (Ex)**: Umbral dragons have negative energy affinity and are immune to energy drain and death effects.
 
-**Shadow Breath (Su)**: Three times per day, an adult or older umbral dragon can breathe a cone of shadows. Creatures who fail a Fortitude save are blinded for 1d4 rounds and take 1 point of Str drain per age category possessed by the dragon. A successful save negates the blindness and reduces Str drain to 1d4 points.
+**Shadow Breath (Su)**: Three times per day, an adult or older umbral dragon can breathe a cone of shadows. The shadows attack Fortitude, and creatures they hit are blinded for 1d4 rounds and take 1 point of Str drain per age category possessed by the dragon. A miss negates the blindness and reduces Str drain to 1d4 points.
 
 **Spell-Like Abilities (Sp)**: An umbral dragon gains the following spell-like abilities, usable at will (unless indicated otherwise) on reaching the listed age category. Young—_[[rangoric-srd/spells/Darkness|darkness]]_; Juvenile—_[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_; Adult—_[[rangoric-srd/spells/Shadow Walk|shadow walk]]_; Old—_[[rangoric-srd/spells/Project Image|project image]]_; Ancient—_[[rangoric-srd/spells/Finger of Death|finger of death]]_ (3/day), Great wyrm—_[[rangoric-srd/spells/Shades|shades]]_. An umbral dragon can cast cleric spells as arcane spells.
 
@@ -86,7 +86,7 @@ Table: Umbral Special Abilities
 
 - **Reach**: 5 ft. (10 ft. with bite)
 
-- **Special attacks**: breath weapon (40-ft. cone, 6d8 neg. energy, DC 18)
+- **Special attacks**: breath weapon (40-ft. cone, 6d8 neg. energy, +8 vs Reflex)
 
 - **Spell-like abilities** (CL 11th; concentration +14)
 
@@ -94,9 +94,9 @@ Table: Umbral Special Abilities
 
 - **Spells known** (CL 1st; concentration +4)
 
-  1st (4/day)—_[[rangoric-srd/spells/Inflict Light Wounds|inflict light wounds]]_ (DC 14), _[[rangoric-srd/spells/Shield|shield]]_
+  1st (4/day)—_[[rangoric-srd/spells/Inflict Light Wounds|inflict light wounds]]_ (+4 vs Will), _[[rangoric-srd/spells/Shield|shield]]_
 
-  0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 13), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Detect Poison|detect poison]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_
+  0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (+3 vs Will), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Detect Poison|detect poison]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_
 
 ### Statistics
 
@@ -124,7 +124,7 @@ Table: Umbral Special Abilities
 - **Creature subtype**: extraplanar
 - **Init**: +4
 - **Senses**: dragon senses; Perception +25
-- **Aura**: frightful presence (180 ft., DC 23)
+- **Aura**: frightful presence (180 ft., +13 vs Will)
 
 ### Defense
 
@@ -147,7 +147,7 @@ Table: Umbral Special Abilities
 
 - **Reach**: 10 ft. (15 ft. with bite)
 
-- **Special attacks**: breath weapon (50-ft. cone, DC 23, 12d8 negative energy, DC 23), crush, shadow breath (6 Str)
+- **Special attacks**: breath weapon (50-ft. cone, +13 vs Reflex, 12d8 negative energy, +13 vs Reflex), crush, shadow breath (6 Str)
 
 - **Spell-like abilities** (CL 17th; concentration +22)
 
@@ -155,13 +155,13 @@ Table: Umbral Special Abilities
 
 - **Spells known** (CL 7th; concentration +12)
 
-  3rd (5/day)—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]_ (DC 18)
+  3rd (5/day)—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]_ (+8 vs Will)
 
-  2nd (7/day)—_[[rangoric-srd/spells/Command Undead|command undead]]_ (DC 17), _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Web|web]]_ (DC 17)
+  2nd (7/day)—_[[rangoric-srd/spells/Command Undead|command undead]]_ (+7 vs Will), _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Web|web]]_ (+7 vs Reflex)
 
-  1st (8/day)—_[[rangoric-srd/spells/Grease|grease]]_ (DC 16), _[[rangoric-srd/spells/Inflict Light Wounds|inflict light wounds]]_ (DC 16), _[[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Reduce Person|reduce person]]_ (DC 16), _[[rangoric-srd/spells/Shield|shield]]_
+  1st (8/day)—_[[rangoric-srd/spells/Grease|grease]]_ (+6), _[[rangoric-srd/spells/Inflict Light Wounds|inflict light wounds]]_ (+6 vs Will), _[[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Reduce Person|reduce person]]_ (+6 vs Fortitude), _[[rangoric-srd/spells/Shield|shield]]_
 
-  0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 15), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Detect Poison|detect poison]]_, _[[rangoric-srd/spells/Disrupt Undead|disrupt undead]]_ (DC 15), _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Ray of Frost|ray of frost]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_
+  0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (+5 vs Will), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Detect Poison|detect poison]]_, _[[rangoric-srd/spells/Disrupt Undead|disrupt undead]]_ (+5), _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Ray of Frost|ray of frost]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_
 
 ### Statistics
 
@@ -189,7 +189,7 @@ Table: Umbral Special Abilities
 - **Creature subtype**: extraplanar
 - **Init**: +3
 - **Senses**: dragon senses; Perception +35
-- **Aura**: frightful presence (300 ft., DC 29)
+- **Aura**: frightful presence (300 ft., +19 vs Will)
 
 ### Defense
 
@@ -212,31 +212,31 @@ Table: Umbral Special Abilities
 
 - **Reach**: 15 ft. (20 ft. with bite)
 
-- **Special attacks**: breath weapon (60-ft. cone, 20d8 neg. energy, DC 29), create shadows, crush, shadow breath (10 Str), tail sweep
+- **Special attacks**: breath weapon (60-ft. cone, 20d8 neg. energy, +19 vs Reflex), create shadows, crush, shadow breath (10 Str), tail sweep
 
 - **Spell-like abilities** (CL 25th; concentration +32)
 
   At will—_[[rangoric-srd/spells/Darkness|darkness]]_, _[[rangoric-srd/spells/Project Image|project image]]_, _[[rangoric-srd/spells/Shadow Walk|shadow walk]]_, _[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]_
 
-  3/day—_[[rangoric-srd/spells/Finger of Death|finger of death]]_ (DC 24)
+  3/day—_[[rangoric-srd/spells/Finger of Death|finger of death]]_ (+14 vs Fortitude)
 
 - **Spells known** (CL 15th; concentration +22)
 
-  7th (5/day)—_[[rangoric-srd/spells/Destruction|destruction]]_ (DC 24), _[[rangoric-srd/spells/Limited Wish|limited wish]]_
+  7th (5/day)—_[[rangoric-srd/spells/Destruction|destruction]]_ (+14 vs Fortitude), _[[rangoric-srd/spells/Limited Wish|limited wish]]_
 
-  6th (7/day)—_[[rangoric-srd/spells/Harm|harm]]_ (DC 23), _[[rangoric-srd/spells/Mislead|mislead]]_, _[[rangoric-srd/spells/Veil|veil]]_ (DC 23)
+  6th (7/day)—_[[rangoric-srd/spells/Harm|harm]]_ (+13 vs Will), _[[rangoric-srd/spells/Mislead|mislead]]_, _[[rangoric-srd/spells/Veil|veil]]_ (+13 vs Will)
 
-  5th (7/day)—_[[rangoric-srd/spells/Command, Greater|greater command]]_ (DC 22), _[[rangoric-srd/spells/Slay Living|slay living]]_ (DC 22), _[[rangoric-srd/spells/Teleport|teleport]]_, _[[rangoric-srd/spells/Unhallow|unhallow]]_
+  5th (7/day)—_[[rangoric-srd/spells/Command, Greater|greater command]]_ (+12 vs Will), _[[rangoric-srd/spells/Slay Living|slay living]]_ (+12 vs Fortitude), _[[rangoric-srd/spells/Teleport|teleport]]_, _[[rangoric-srd/spells/Unhallow|unhallow]]_
 
-  4th (7/day)—_[[rangoric-srd/spells/Enervation|enervation]]_, _[[rangoric-srd/spells/Inflict Critical Wounds|inflict crit. wounds]]_ (DC 21), _[[rangoric-srd/spells/Phantasmal Killer|phantasmal killer]]_ (DC 21), _[[rangoric-srd/spells/Unholy Blight|unholy blight]]_ (DC 21)
+  4th (7/day)—_[[rangoric-srd/spells/Enervation|enervation]]_, _[[rangoric-srd/spells/Inflict Critical Wounds|inflict crit. wounds]]_ (+11 vs Will), _[[rangoric-srd/spells/Phantasmal Killer|phantasmal killer]]_ (+11), _[[rangoric-srd/spells/Unholy Blight|unholy blight]]_ (+11 vs Will)
 
-  3rd (8/day)—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Haste|haste]]_, _[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]_ (DC 20), _[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_ (DC 20)
+  3rd (8/day)—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Haste|haste]]_, _[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]_ (+10 vs Will), _[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_ (+10 vs Reflex)
 
-  2nd (8/day)—_[[rangoric-srd/spells/Alter Self|alter self]]_, _[[rangoric-srd/spells/Blur|blur]]_, _[[rangoric-srd/spells/Command Undead|command undead]]_ (DC 19), _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Web|web]]_ (DC 17)
+  2nd (8/day)—_[[rangoric-srd/spells/Alter Self|alter self]]_, _[[rangoric-srd/spells/Blur|blur]]_, _[[rangoric-srd/spells/Command Undead|command undead]]_ (+9 vs Will), _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Web|web]]_ (+7 vs Reflex)
 
-  1st (8/day)—_[[rangoric-srd/spells/Inflict Light Wounds|inflict light wounds]]_ (DC 18), _[[rangoric-srd/spells/Grease|grease]]_ (DC 18), _[[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Reduce Person|reduce person]]_ (DC 18), _[[rangoric-srd/spells/Shield|shield]]_
+  1st (8/day)—_[[rangoric-srd/spells/Inflict Light Wounds|inflict light wounds]]_ (+8 vs Will), _[[rangoric-srd/spells/Grease|grease]]_ (+8), _[[rangoric-srd/spells/Magic Missile|magic missile]]_, _[[rangoric-srd/spells/Reduce Person|reduce person]]_ (+8 vs Fortitude), _[[rangoric-srd/spells/Shield|shield]]_
 
-  0 (at will)—_[[rangoric-srd/spells/Acid Splash|acid splash]]_, _[[rangoric-srd/spells/Bleed|bleed]]_ (DC 17), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Detect Poison|detect poison]]_, _[[rangoric-srd/spells/Disrupt Undead|disrupt undead]]_ (DC 17), _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Ray of Frost|ray of frost]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_
+  0 (at will)—_[[rangoric-srd/spells/Acid Splash|acid splash]]_, _[[rangoric-srd/spells/Bleed|bleed]]_ (+7 vs Will), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Detect Poison|detect poison]]_, _[[rangoric-srd/spells/Disrupt Undead|disrupt undead]]_ (+7), _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_, _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Ray of Frost|ray of frost]]_, _[[rangoric-srd/spells/Read Magic|read magic]]_
 
 ### Statistics
 

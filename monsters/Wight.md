@@ -13,9 +13,9 @@ cmd: "15"
 attack: "Slam +4 melee (1d4+1 plus energy drain)"
 full-attack: "Slam +4 melee (1d4+1 plus energy drain)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Create spawn, energy drain (1 level, DC 14)"
+special-attacks: "Create spawn, energy drain (1 level, +4 vs Fortitude)"
 special-qualities: "Darkvision 60 ft., undead traits, resurrection vulnerability"
-saves: "Fort +3, Ref +2, Will +5"
+defenses: "Fort 13, Ref 12, Will 15"
 abilities: "Str 12, Dex 12, Con —, Int 11, Wis 13, Cha 15"
 skills: "Intimidation +9, Perception +11, Stealth +16, Theology +7"
 skill-ranks: "Intimidation 4, Perception 7, Stealth 4, Theology 4"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +4 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
 - **Full Attack**: Slam +4 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: Create spawn, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (1 level, DC 14)
+- **Special Attacks**: Create spawn, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (1 level, +4 vs Fortitude)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], resurrection vulnerability
-- **Saves**: Fort +3, Ref +2, Will +5
+- **Defenses**: Fort 13, Ref 12, Will 15
 - **Abilities**: Str 12, Dex 12, Con —, Int 11, Wis 13, Cha 15
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +16, [[rangoric-srd/skills/Theology|Theology]] +7
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
@@ -82,4 +82,4 @@ Wights attack by hammering with their fists.
 
 **Create Spawn (Su)**: Any humanoid creature that is slain by a wight becomes a wight itself in only 1d4 rounds. Spawn so created are less powerful than typical wights, and suffer a –2 penalty on all d20 rolls and checks, as well as –2 hp per HD. Spawn are under the command of the wight that created them and remain enslaved until its death, at which point they lose their spawn penalties and become full-fledged and free-willed wights. They do not possess any of the abilities they had in life.
 
-**Resurrection Vulnerability (Su)**: A raise dead or similar spell cast on a wight destroys it (Will negates). Using the spell in this way does not require a material component.
+**Resurrection Vulnerability (Su)**: A raise dead or similar spell cast on a wight destroys it (vs Will). Using the spell in this way does not require a material component.

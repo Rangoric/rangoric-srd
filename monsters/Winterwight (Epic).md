@@ -21,7 +21,7 @@ skills: "Athletics +56 (+68 jumping), Intimidation +44, Theology +35, Perception
 skill-ranks: "Athletics 32, Intimidation 32, Perception 32, Theology 32"
 feats: "Cleave, Improved Critical (claw), Improved Initiative, Power Attack, Weapon Focus (claw)"
 epic-feats: "Overwhelming Critical (claw), Blinding Speed, Epic Fortitude, Epic Weapon Focus (claw)"
-saves: "Fort +14, Ref +18, Will +24"
+defenses: "Fort 24, Ref 28, Will 34"
 abilities: "Str 52, Dex 27, Con -, Int 10, Wis 22, Cha 28"
 environment: "Any"
 organization: "Solitary or pair"
@@ -54,7 +54,7 @@ Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special 
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +56 (+68 jumping), [[rangoric-srd/skills/Intimidation|Intimidation]] +44, [[rangoric-srd/skills/Perception|Perception]] +43, [[rangoric-srd/skills/Theology|Theology]] +35     
 Feats: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)      
 Epic Feats: [[rangoric-srd/feats/Overwhelming Critical|Overwhelming Critical]] (claw), [[rangoric-srd/feats/Blinding Speed|Blinding Speed]], [[rangoric-srd/feats/Epic Fortitude|Epic Fortitude]], [[rangoric-srd/feats/Epic Weapon Focus|Epic Weapon Focus]] (claw)      
-Saves: Fort +14, Ref +18, Will +24      
+Defenses: Fort 24, Ref 28, Will 34      
 Abilities: Str 52, Dex 27, Con -, Int 10, Wis 22, Cha 28      
 Climate/Terrain: Any      
 Organization: Solitary or pair      
@@ -71,14 +71,14 @@ A winterwight’s natural weapons are treated as epic for the purpose of overcom
 
 Rend (Ex): If the winterwight hits with both of its claws, it latches onto the opponent’s body and tears the flesh. This attack automatically deals an additional 6d8+31 points of Damage.
 
-Blightfire (Su): When a winterwight deals Damage to a living opponent, a night-black flame begins to burn on the opponent’s body. If the opponent fails a Fortitude save (DC 35), it takes 4 points of permanent Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]]. The opponent must continue to save every round for the next 4 rounds (5 rounds total) to avoid being permanently drained of an additional 4 points of Constitution per round. The creature regains 10 lost hit points whenever it drains 4 points of Constitution, gaining any excess hit points as temporary hit points. These temporary hit points last a maximum of 1 hour. If the opponent is slain by blightfire, only icy fragments of the victim remain. The save DC is Charisma-based.
+Blightfire (Su): When a winterwight deals Damage to a living opponent, a night-black flame begins to burn on the opponent’s body. The flame attacks the opponent at +25 vs Fortitude, and on a hit it takes 4 points of permanent Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]]. It attacks again every round for the next 4 rounds (5 rounds total), and each hit permanently drains an additional 4 points of Constitution. The creature regains 10 lost hit points whenever it drains 4 points of Constitution, gaining any excess hit points as temporary hit points. These temporary hit points last a maximum of 1 hour. If the opponent is slain by blightfire, only icy fragments of the victim remain. The attack bonus is Charisma-based.
 
-Spell-Like Abilities: Caster level 23rd; save DC 19 + spell level. The save DCs are Charisma-based.
+Spell-Like Abilities: Caster level 23rd; attack bonus +9 + spell level. The attack bonuses are Charisma-based.
 
 At will - [[rangoric-srd/spells/Cone of Cold|cone of cold]], [[rangoric-srd/spells/Control Weather|control weather]], [[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Spell Immunity|spell immunity]] ([[rangoric-srd/spells/Fireball|fireball]]), [[rangoric-srd/spells/Sleet Storm|sleet storm]] (a winterwight is immune to the effects of a sleet storm spell), [[rangoric-srd/spells/Wall of Ice|wall of ice]].
 
-Undead Traits: Immune to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death, effects, necromantic effects, mind-affecting effects, and any effect requiring a Fortitude save unless it also works on objects. Not subject to critical hits, subdual damage, ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]]. Negative energy heals. Not at risk of death from massive damage, but destroyed at 0 hit points or less. Darkvision 60 ft. Cannot be raised; resurrection works only if creature is willing.
+Undead Traits: Immune to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death, effects, necromantic effects, mind-affecting effects, and any effect that attacks Fortitude unless it also works on objects. Not subject to critical hits, subdual damage, ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]]. Negative energy heals. Not at risk of death from massive damage, but destroyed at 0 hit points or less. Darkvision 60 ft. Cannot be raised; resurrection works only if creature is willing.
 
-Cold Subtype: Immunity to cold. [[rangoric-srd/monsters/abilities/Vulnerabilities|Vulnerability to fire]] (takes half again as much (+50%) damage as normal from fire, regardless of whether a saving throw is allowed, or if the save is a success or failure).
+Cold Subtype: Immunity to cold. [[rangoric-srd/monsters/abilities/Vulnerabilities|Vulnerability to fire]] (takes half again as much (+50%) damage as normal from fire, regardless of whether the effect attacks a defense, or whether that attack hits or misses).
 
 Cold Aura (Su): A 10-foot-radius spread cold aura surrounds a winterwight. All creatures of the cold subtype in the field (including the winterwight) are treated as if having [[rangoric-srd/monsters/abilities/Channel Resistance|turn resistance]] +6 (if undead) and [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10. Creatures subject to cold Damage take 2d10 points of cold Damage each round they remain within the cold aura.

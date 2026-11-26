@@ -16,7 +16,7 @@ full-attack: "Shortspear +9/+4 melee (1d6+4) and bite +4 melee (1d8+1); or short
 space-reach: "5 ft./5 ft."
 special-attacks: "Suffocating water, spell-like abilities"
 special-qualities: "Darkvision 60 ft., amphibious"
-saves: "Fort +5, Ref +9, Will +10"
+defenses: "Fort 15, Ref 19, Will 20"
 abilities: "Str 16, Dex 19, Con 17, Int 13, Wis 20, Cha 12"
 skills: "Arcana +3, Athletics +18, Medicine +18, Nature +5, Perception +14, Persuasion +3, Sense Motive +11"
 skill-ranks: "Arcana 2, Athletics 12, Medicine 6, Nature 1, Perception 6, Persuasion 2, Sense Motive 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Suffocating Water|Suffocating water]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]
-- **Saves**: Fort +5, Ref +9, Will +10
+- **Defenses**: Fort 15, Ref 19, Will 20
 - **Abilities**: Str 16, Dex 19, Con 17, Int 13, Wis 20, Cha 12
 - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +3, [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Medicine|Medicine]] +18, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Persuasion|Persuasion]] +3, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Medicine)
@@ -70,6 +70,6 @@ Vodyanois speak Aquan, Common and Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +7): 3/day—_[[rangoric-srd/spells/Control Water|control water]], [[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Grease|grease]]_ (DC 12), _[[rangoric-srd/spells/Hydraulic Push|hydraulic push]]_ (DC 12), _[[rangoric-srd/spells/Water Breathing|water breathing]]_; 1/day—_[[rangoric-srd/spells/Aqueous Orb|aqueous orb]]_ (DC 14), _[[rangoric-srd/spells/Remove Disease|remove disease]]_, _[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th; concentration +7): 3/day—_[[rangoric-srd/spells/Control Water|control water]], [[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Grease|grease]]_ (+2), _[[rangoric-srd/spells/Hydraulic Push|hydraulic push]]_ (+2), _[[rangoric-srd/spells/Water Breathing|water breathing]]_; 1/day—_[[rangoric-srd/spells/Aqueous Orb|aqueous orb]]_ (+4 vs Reflex), _[[rangoric-srd/spells/Remove Disease|remove disease]]_, _[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]_.
 
 **[[rangoric-srd/monsters/abilities/Suffocating Water|Suffocating Water]] (Su)**: Once per day as a standard action, a vodyanoi can cause the water surrounding it up to a radius of 30 feet to grow thick and slimy, making it difficult for water-breathing creatures within the area other than vodyanois to breathe. A vodyanoi can control narrow currents of breathable water to provide oxygen to up to 3 other creatures in the area of effect—vodyanois themselves are immune to this effect. All other creatures in an area of suffocating water must hold their breath or risk suffocation. Once created, an area of suffocating water does not move—it persists for a number of minutes equal to the vodyanoi's Hit Dice. The slimy water does not impact swim speeds or visibility in any significant manner. A creature can make a DC 20 Perception check to notice the difference between suffocating water and any normal water that may surround it.

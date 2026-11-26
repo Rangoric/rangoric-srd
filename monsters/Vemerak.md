@@ -13,9 +13,9 @@ cmd: "38 (50 vs. trip)"
 attack: "Bite +22 melee (2d6+11) or claw +22 melee (1d8+11 plus grab) or tentacle +24 melee (1d6+5 plus grab)"
 full-attack: "Bite +22 melee (2d6+11) and 2 claws +22 melee (1d8+11 plus grab) and 3 tentacles +19 melee (1d6+5 plus grab)"
 space-reach: "15 ft./15 ft."
-special-attacks: "Breath weapon (90-foot line, 14d8 acid damage, DC 24 half, once every 1d4 rounds), constrict (tentacles 1d6+5 or claws 1d8+11), earthquake"
+special-attacks: "Breath weapon (90-foot line, 14d8 acid damage, +14 vs Fortitude, once every 1d4 rounds), constrict (tentacles 1d6+5 or claws 1d8+11), earthquake"
 special-qualities: "Darkvision 60 ft., tremorsense 30 ft., spore cloud (30 ft.), damage reduction 5/-, immunity to acid, electricity, disease, mind-affecting and poison, resistance to sonic 20, spell resistance 25"
-saves: "Fort +13, Ref +8, Will +13"
+defenses: "Fort 23, Ref 18, Will 23"
 abilities: "Str 32, Dex 17, Con 23, Int 5, Wis 16, Cha 22"
 skills: "Athletics +19, Perception +23"
 skill-ranks: "Athletics 5, Perception 17"
@@ -47,9 +47,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +22 melee (2d6+11) or claw +22 melee (1d8+11 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tentacle +24 melee (1d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Full Attack**: Bite +22 melee (2d6+11) and 2 claws +22 melee (1d8+11 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 3 tentacles +19 melee (1d6+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
 - **Space/Reach**: 15 ft./15 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (90-foot line, 14d8 acid damage, DC 24 half, once every 1d4 rounds), constrict ([[rangoric-srd/monsters/abilities/Tentacles (Decapus)|tentacles]] 1d6+5 or claws 1d8+11), [[rangoric-srd/monsters/abilities/Earthquake|earthquake]]
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (90-foot line, 14d8 acid damage, +14 vs Fortitude, once every 1d4 rounds), constrict ([[rangoric-srd/monsters/abilities/Tentacles (Decapus)|tentacles]] 1d6+5 or claws 1d8+11), [[rangoric-srd/monsters/abilities/Earthquake|earthquake]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Spore Cloud|spore cloud]] (30 ft.), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, electricity, disease, mind-affecting and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to sonic 20, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25
-- **Saves**: Fort +13, Ref +8, Will +13
+- **Defenses**: Fort 23, Ref 18, Will 23
 - **Abilities**: Str 32, Dex 17, Con 23, Int 5, Wis 16, Cha 22
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Perception|Perception]] +23
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claws)
@@ -69,7 +69,7 @@ Vemeraks speak Aklo.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Breath Weapon|Breath Weapon]] (Su)**: A vemerak's acidic breath weapon has no effect on inorganic or undead material. If the breath weapon deals damage to a living fleshy creature, the acid creates a transparent cloud of foul-smelling vapor that fills that creature's space and persists for 1 round. Any creature in or passing through the cloud must make a DC 24 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d4 rounds. This cloud is a poison effect. The save DCs are Constitution-based.
+**[[rangoric-srd/monsters/abilities/Breath Weapon|Breath Weapon]] (Su)**: A vemerak's acidic breath weapon has no effect on inorganic or undead material. If the breath weapon deals damage to a living fleshy creature, the acid creates a transparent cloud of foul-smelling vapor that fills that creature's space and persists for 1 round. Any creature in or passing through the cloud is attacked at +14 vs Fortitude, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d4 rounds. This cloud is a poison effect. The attack bonuses are Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Earthquake|Earthquake]] (Su)**: As a full-round action, a vemerak can burrow its tentacles, legs, and mouth into the ground—this action does not provoke attacks of opportunity. At the start of the next round, it creates an effect identical to an earthquake spell (CL 17th). A vemerak can maintain this zone of trembling earth indefinitely, as long as it continues to take full-round actions to maintain the effect.
 

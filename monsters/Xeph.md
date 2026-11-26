@@ -18,7 +18,7 @@ full-attack: "Rapier +2 melee (1d6/18-20) or longbow +2 ranged (1d8/x3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "-"
 special-qualities: "Burst, darkvision 60 ft."
-saves: "Fort +3, Ref +1, Will -1"
+defenses: "Fort 13, Ref 11, Will 9"
 abilities: "Str 11, Dex 13, Con 12, Int 10, Wis 9, Cha 8"
 skills: "Athletics +4"
 skill-ranks: "Athletics 1"
@@ -52,7 +52,7 @@ Full **Attack:** Rapier +2 melee (1d6/18-20) or longbow +2 ranged (1d8/x3)   �
 **Space/Reach:** 5 ft./5 ft.     
 **Special Attacks:** -     
 **Special Qualities:** Burst, darkvision 60 ft.     
-**Saves:** Fort +3, Ref +1, Will -1     
+**Defenses:** Fort 13, Ref 11, Will 9     
 **Abilities:** Str 11, Dex 13, Con 12, Int 10, Wis 9, Cha 8     
 **Skills:** [[rangoric-srd/skills/Athletics|Athletics]] +4     
 **Unspent Skill Points**: 1
@@ -87,7 +87,7 @@ Xeph characters possess the following racial traits.
 
 - Naturally Psionic: Xephs gain 1 bonus power point at 1st level.
 
-- \+1 racial bonus on saving throws against powers, spells, and spell-like effects.
+- \+1 racial bonus on defenses against powers, spells, and spell-like effects.
 
 - Special Qualities (see above): Burst.
 

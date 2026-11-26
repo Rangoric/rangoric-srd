@@ -15,7 +15,7 @@ full-attack: "2 stings +0 melee (1d3–1 plus 1d2 acid)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Devour, soporific pollen"
 special-qualities: "Low-light vision, tremorsense 30 ft., immunity to acid, plant traits"
-saves: "Fort +6, Ref +1, Will +1"
+defenses: "Fort 16, Ref 11, Will 11"
 abilities: "Str 8, Dex 13, Con 19, Int —, Wis 12, Cha 11"
 skills: "—"
 skill-ranks: ""
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Devour|Devour]], [[rangoric-srd/monsters/abilities/Soporific Pollen|soporific pollen]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]]
-- **Saves**: Fort +6, Ref +1, Will +1
+- **Defenses**: Fort 16, Ref 11, Will 11
 - **Abilities**: Str 8, Dex 13, Con 19, Int —, Wis 12, Cha 11
 - **Skills**: —
 - **Feats**: —
@@ -69,6 +69,6 @@ Nomadic plants, xtabays traverse large expanses of land until they sense nearby 
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Devour|Devour]] (Ex)**: While a creature is under the effects of a xtabay's soporific pollen, the plant may, as a full-round action, occupy the same square as the sleeping creature and slowly sap the life from it. Every round the xtabay uses this ability, the affected creature must make a DC 14 Fortitude save or take 1d2 Con damage. This feeding is curiously painless, and normally isn't enough to waken a foe put to sleep by the plant. Each round this feeding continues, the sleeping victim can attempt a new DC 14 Will save to awaken. This save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Devour|Devour]] (Ex)**: While a creature is under the effects of a xtabay's soporific pollen, the plant may, as a full-round action, occupy the same square as the sleeping creature and slowly sap the life from it. Every round the xtabay uses this ability, it attacks the affected creature at +4 vs Fortitude, and on a hit the creature takes 1d2 Con damage. This feeding is curiously painless, and normally isn't enough to waken a foe put to sleep by the plant. Each round this feeding continues, the sleep attacks the victim again at +4 vs Will, and the victim awakens on a miss. This attack bonus is Constitution-based.
 
-**[[rangoric-srd/monsters/abilities/Soporific Pollen|Soporific Pollen]] (Ex)**: As a standard action, a xtabay can release sleep-inducing pollen into the air around it. Each creature within a 10-ft.-radius burst centered on the xtabay must make a DC 14 Will save or fall asleep for 1d3 minutes. A creature that succeeds on the Fortitude save cannot be affected by the same xtabay's soporific pollen for 24 hours. A creature put to sleep by this pollen can be awakened by vigorously shaking the sleeper (a standard action) or by damaging it. This is a mind-affecting sleep effect. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Soporific Pollen|Soporific Pollen]] (Ex)**: As a standard action, a xtabay can release sleep-inducing pollen into the air around it. Each creature within a 10-ft.-radius burst centered on the xtabay is attacked at +4 vs Will, and on a hit falls asleep for 1d3 minutes. A creature the pollen misses cannot be affected by the same xtabay's soporific pollen for 24 hours. A creature put to sleep by this pollen can be awakened by vigorously shaking the sleeper (a standard action) or by damaging it. This is a mind-affecting sleep effect. The attack bonus is Constitution-based.

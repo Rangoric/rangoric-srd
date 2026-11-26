@@ -15,7 +15,7 @@ full-attack: "Sting +43 (1d6+12/19-20 plus poison) melee, 4 pincers +41 (2d8+6/1
 space-reach: "5 ft./5 ft."
 special-attacks: "Aura of doom, concealing aura, frightful presence, poison, spell-like abilities"
 special-qualities: "DR 10/epic, darkvision 60 ft., fast healing 10, immune to all mind-affecting effects, low-light vision, SR 34; scent"
-saves: "Fort +29, Ref +21, Will +38"
+defenses: "Fort 39, Ref 31, Will 48"
 abilities: "Str 34, Dex 25, Con 36, Int 14, Wis 40, Cha 44"
 skills: "Athletics +57 (+65 jumping), Fieldcraft +52, Nature +37, Perception +54, Stealth +36"
 skill-ranks: "Athletics 42, Fieldcraft 34, Nature 32, Perception 30, Stealth 30"
@@ -49,7 +49,7 @@ Full Attack: Sting +43 (1d6+12/19-20 plus poison) melee, 4 pincers +41 (2d8+6/19
 Space/Reach: 5 ft./5 ft.     
 Special Attacks: Aura of doom, concealing aura, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|frightful presence]], [[rangoric-srd/monsters/abilities/Poison|poison]], spell-like abilities      
 Special Qualities: [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, immune to all mind-affecting effects, low-light vision, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 34; [[rangoric-srd/monsters/abilities/Scent|scent]]      
-Saves: Fort +29, Ref +21, Will +38      
+Defenses: Fort 39, Ref 31, Will 48      
 Abilities: Str 34, Dex 25, Con 36, Int 14, Wis 40, Cha 44      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +57 (+65 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +52, [[rangoric-srd/skills/Nature|Nature]] +37, [[rangoric-srd/skills/Perception|Perception]] +54, [[rangoric-srd/skills/Stealth|Stealth]] +36     
 Feats: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]],  [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (pincers), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (sting), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]],  [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (pincers), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (sting)      
@@ -71,6 +71,6 @@ Aura of Doom (Su): A vermiurge is constantly affected as if by a [[rangoric-srd/
 
 Concealing Aura (Ex): Its aura of doom constantly provides a vermiurge with nine-tenths concealment, so all attacks made against it have a 40% miss chance.
 
-Frightful Presence (Su): This ability takes effect automatically when the vermiurge first engages its aura of doom. It affects only opponents with fewer Hit Dice or levels than the creature has. The affected creature must make a successful Will save (DC 48) or become [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]]. Success indicates that the target is immune to that creature’s frightful presence for one day. The save DC is Charisma-based.
+Frightful Presence (Su): This ability takes effect automatically when the vermiurge first engages its aura of doom. It affects only opponents with fewer Hit Dice or levels than the creature has. It attacks the affected creature at +38 vs Will, and on a hit it becomes [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]]. Success indicates that the target is immune to that creature’s frightful presence for one day. The attack bonus is Charisma-based.
 
-Poison (Ex): Sting or bite, Fort save (DC 44); initial Damage 1d6 temporary Con, secondary Damage 2d6 temporary Con. The save DC is Constitution-based.
+Poison (Ex): Sting or bite, +34 vs Fortitude; initial Damage 1d6 temporary Con, secondary Damage 2d6 temporary Con. The attack bonus is Constitution-based.

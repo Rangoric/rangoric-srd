@@ -15,7 +15,7 @@ full-attack: "Dagger +3 melee (1d3+2/19–20); or dagger +4 ranged (1d3+2/19–2
 space-reach: "5 ft./5 ft."
 special-attacks: "Sneak attack +1d6"
 special-qualities: "Darkvision 60 ft., low-light vision, trapfinding +1, construct traits"
-saves: "Fort +0, Ref +5, Will +1"
+defenses: "Fort 10, Ref 15, Will 11"
 abilities: "Str 14, Dex 17, Con —, Int 15, Wis 12, Cha 6"
 skills: "Acrobatics +7, Appraise +6, Athletics +6, Craft (alchemy) +6, Dungeoneering +6, Emulation +2, Engineering +10, Escape Artist +7, Perception +5, Sleight of Hand +7, Stealth +11"
 skill-ranks: "Acrobatics 1, Appraise 1, Athletics 1, Craft (alchemy) 1, Dungeoneering 1, Emulation 1, Engineering 3, Escape Artist 1, Perception 1, Sleight of Hand 3, Stealth 1"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Sneak attack +1d6
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], trapfinding +1, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]]
-- **Saves**: Fort +0, Ref +5, Will +1
+- **Defenses**: Fort 10, Ref 15, Will 11
 - **Abilities**: Str 14, Dex 17, Con —, Int 15, Wis 12, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +6, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +6, [[rangoric-srd/skills/Emulation|Emulation]] +2, [[rangoric-srd/skills/Engineering|Engineering]] +10, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Engineering)

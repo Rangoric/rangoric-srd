@@ -15,7 +15,7 @@ full-attack: "2 claws +4 melee (1d6+2) and bite +4 melee (1d4+2)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Rage"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +5, Ref +5, Will +2"
+defenses: "Fort 15, Ref 15, Will 12"
 abilities: "Str 15, Dex 15, Con 15, Int 2, Wis 12, Cha 10"
 skills: "Athletics +10, Perception +10"
 skill-ranks: "Athletics 5, Perception 6"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Rage
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +5, Ref +5, Will +2
+- **Defenses**: Fort 15, Ref 15, Will 12
 - **Abilities**: Str 15, Dex 15, Con 15, Int 2, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +10
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]]

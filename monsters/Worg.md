@@ -15,7 +15,7 @@ full-attack: "Bite +7 melee (1d6+4 plus trip)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision, scent"
-saves: "Fort +5, Ref +6, Will +3"
+defenses: "Fort 15, Ref 16, Will 13"
 abilities: "Str 17, Dex 15, Con 13, Int 6, Wis 14, Cha 10"
 skills: "Fieldcraft +5, Perception +11, Stealth +9"
 skill-ranks: "Fieldcraft 1, Perception 4, Stealth 2"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
-- **Saves**: Fort +5, Ref +6, Will +3
+- **Defenses**: Fort 15, Ref 16, Will 13
 - **Abilities**: Str 17, Dex 15, Con 13, Int 6, Wis 14, Cha 10
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

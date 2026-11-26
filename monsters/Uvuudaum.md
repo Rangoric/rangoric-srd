@@ -18,7 +18,7 @@ full-attack: "Head spike +51 (10d6+21/19-20 plus Wisdom drain) melee"
 space-reach: "10 ft./10 ft."
 special-attacks: "Confusion aura, spell-like abilities, Wisdom drain"
 special-qualities: "Blindsight 500 ft., DR 10/epic and good, electricity resistance 30, fast healing 20, regeneration 5, SR 39"
-saves: "Fort +40, Ref +37, Will +41"
+defenses: "Fort 50, Ref 47, Will 51"
 abilities: "Str 39, Dex 38, Con 44, Int 32, Wis 38, Cha 46"
 skills: "Acrobatics +57, Athletics +55 (+63 climbing, +75 jumping), Craft (alchemy) +52, Escape Artist +55, Intimidation +59, Arcana +52, Mysticism +56, Society +52, Theology +54, Perception +55, Persuasion +59, Investigation +52, Sense Motive +55, Stealth +51"
 skill-ranks: "Acrobatics 38, Arcana 38, Athletics 38, Craft (alchemy) 38, Escape Artist 38, Intimidation 38, Investigation 38, Mysticism 40, Perception 38, Persuasion 38, Sense Motive 38, Society 38, Stealth 38, Theology 38"
@@ -52,7 +52,7 @@ Full Attack: Head spike +51 (10d6+21/19-20 plus Wisdom drain) melee   
 Space/Reach: 10 ft./10 ft.      
 Special Attacks: Confusion aura, spell-like abilities, [[rangoric-srd/monsters/abilities/Ability Damage and Drain|Wisdom drain]]      
 Special Qualities: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 500 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic and good, [[rangoric-srd/monsters/abilities/Resistance|electricity resistance]] 30, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 20, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 39      
-Saves: Fort +40, Ref +37, Will +41      
+Defenses: Fort 50, Ref 47, Will 51      
 Abilities: Str 39, Dex 38, Con 44, Int 32, Wis 38, Cha 46      
 Skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +57, [[rangoric-srd/skills/Arcana|Arcana]] +52, [[rangoric-srd/skills/Athletics|Athletics]] +55 (+63 climbing, +75 jumping), [[rangoric-srd/skills/Craft|Craft]] (alchemy) +52, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +55, [[rangoric-srd/skills/Intimidation|Intimidation]] +59, [[rangoric-srd/skills/Investigation|Investigation]] +52, [[rangoric-srd/skills/Mysticism|Mysticism]] +56, [[rangoric-srd/skills/Perception|Perception]] +55, [[rangoric-srd/skills/Persuasion|Persuasion]] +59, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +55, [[rangoric-srd/skills/Society|Society]] +52, [[rangoric-srd/skills/Stealth|Stealth]] +51, [[rangoric-srd/skills/Theology|Theology]] +54     
 **Unspent Skill Points**: 228
@@ -71,11 +71,11 @@ A uvuudaum’s natural weapons are treated as epic and evil for the purpose of o
 
 #### Combat
 
-Confusion Aura (Su): This ability operates continuously, as the [[rangoric-srd/spells/Confusion|confusion]] spell but with a 30-foot radius. Potential victims can make a Will save (DC 47) to resist confusion. Those affected by the aura can make a new save every 4 rounds to throw off the effect. Once it has successfully resisted, a subject remains immune to that uvuudaum’s confusion aura for 24 hours. The save DC is Charisma-based.
+Confusion Aura (Su): This ability operates continuously, as the [[rangoric-srd/spells/Confusion|confusion]] spell but with a 30-foot radius. It attacks potential victims at +37 vs Will, and a miss resists confusion. The aura attacks those it affects again every 4 rounds, and a miss throws off the effect. Once it has successfully resisted, a subject remains immune to that uvuudaum’s confusion aura for 24 hours. The attack bonus is Charisma-based.
 
-Wisdom Drain (Su): This effect permanently reduces a living opponent’s Wisdom score by 2d4 points when the creature hits with its head spike, or twice that amount on a critical hit. The creature regains 5 lost hit points (or 10 on a critical hit ) whenever it [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drains]] Wisdom, gaining any excess hit points as temporary hit points. Thesse temporary hit points last a maximum of 1 hour. An opponent can avoid the Wisdom drain with a Fortitude save (DC 47). The save DC is Charisma-based.
+Wisdom Drain (Su): This effect permanently reduces a living opponent’s Wisdom score by 2d4 points when the creature hits with its head spike, or twice that amount on a critical hit. The creature regains 5 lost hit points (or 10 on a critical hit ) whenever it [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drains]] Wisdom, gaining any excess hit points as temporary hit points. Thesse temporary hit points last a maximum of 1 hour. It attacks an opponent at +37 vs Fortitude, and a miss avoids the Wisdom drain. The attack bonus is Charisma-based.
 
-Spell-Like Abilities: Caster level 27th; save DC 28 + spell level. The save DCs are Charisma-based.
+Spell-Like Abilities: Caster level 27th; attack bonus +18 + spell level. The attack bonuses are Charisma-based.
 
 At will - [[rangoric-srd/spells/Confusion|confusion]], [[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Displacement|displacement]], [[rangoric-srd/spells/Haste|haste]], [[rangoric-srd/spells/Invisibility|invisibility]], [[rangoric-srd/spells/Lightning Bolt|lightning bolt]], [[rangoric-srd/spells/Magic Missile|magic missile]], [[rangoric-srd/spells/Mage Armor|mage armor]], [[rangoric-srd/spells/Polymorph|polymorph]], [[rangoric-srd/spells/Shield|shield]], [[rangoric-srd/spells/Stoneskin|stoneskin]], [[rangoric-srd/spells/True Strike|true strike]], [[rangoric-srd/spells/Web|web]];
 

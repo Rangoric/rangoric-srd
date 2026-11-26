@@ -16,7 +16,7 @@ full-attack: "Shock +16 melee touch (2d8 electricity)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., natural invisibility, feed on fear, immunity to magic"
-saves: "Fort +3, Ref +12, Will +9"
+defenses: "Fort 13, Ref 22, Will 19"
 abilities: "Str 1, Dex 29, Con 10, Int 15, Wis 16, Cha 14"
 skills: "Acrobatics +31, Deception +11, Escape Artist +21, Perception +18, Stealth +25"
 skill-ranks: "Acrobatics 17, Deception 6, Escape Artist 9, Perception 11, Stealth 9"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Natural Invisibility|natural invisibility]], feed on fear, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to magic
-- **Saves**: Fort +3, Ref +12, Will +9
+- **Defenses**: Fort 13, Ref 22, Will 19
 - **Abilities**: Str 1, Dex 29, Con 10, Int 15, Wis 16, Cha 14
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +31, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +21, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +25
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

@@ -14,9 +14,9 @@ cmd: "23 (27 vs. trip)"
 attack: "Bite +10 melee (1d8+7 plus 1d6 cold and trip)"
 full-attack: "Bite +10 melee (1d8+7 plus 1d6 cold and trip)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Breath weapon (every 1d4 rounds, 15-ft. cone, 6d6 cold damage, Reflex half DC 17)"
+special-attacks: "Breath weapon (every 1d4 rounds, 15-ft. cone, 6d6 cold damage, +7 vs Reflex; a miss halves)"
 special-qualities: "Darkvision 60 ft., low-light vision, scent, immunity to cold, vulnerability to fire"
-saves: "Fort +9, Ref +6, Will +3"
+defenses: "Fort 19, Ref 16, Will 13"
 abilities: "Str 20, Dex 13, Con 18, Int 9, Wis 13, Cha 10"
 skills: "Fieldcraft +5, Perception +11, Stealth +4 (+10 in snow)"
 skill-ranks: "Fieldcraft 2, Perception 5, Stealth 2"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +10 melee (1d8+7 plus 1d6 cold and [[rangoric-srd/monsters/abilities/Trip|trip]])
 - **Full Attack**: Bite +10 melee (1d8+7 plus 1d6 cold and [[rangoric-srd/monsters/abilities/Trip|trip]])
 - **Space/Reach**: 10 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (every 1d4 rounds, 15-ft. cone, 6d6 cold damage, Reflex half DC 17)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (every 1d4 rounds, 15-ft. cone, 6d6 cold damage, +7 vs Reflex; a miss halves)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, vulnerability to fire
-- **Saves**: Fort +9, Ref +6, Will +3
+- **Defenses**: Fort 19, Ref 16, Will 13
 - **Abilities**: Str 20, Dex 13, Con 18, Int 9, Wis 13, Cha 10
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +4 (+10 in snow)
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

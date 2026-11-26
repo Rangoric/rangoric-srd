@@ -18,7 +18,7 @@ full-attack: "Incorporeal touch +5 melee (1d6)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Psionic powers, telekinetic force"
 special-qualities: "Assume likeness, incorporeal traits, telepathy 100 ft."
-saves: "Fort +2, Ref +5, Will +6"
+defenses: "Fort 12, Ref 15, Will 16"
 abilities: "Str -, Dex 13, Con 12, Int 15, Wis 14, Cha 15"
 skills: "Deception +13*, Imitation +13*, Intimidation +9, Perception +9, Persuasion +2, Sense Motive +2"
 skill-ranks: "Deception 4, Imitation 4, Intimidation 4, Perception 4, Persuasion 0, Sense Motive 0"
@@ -51,7 +51,7 @@ Full **Attack:** Incorporeal touch +5 melee (1d6)   
 **Space/Reach:** 5 ft./5 ft.     
 **Special Attacks:** Psionic powers, [[rangoric-srd/powers/Telekinetic Force|telekinetic force]]     
 **Special Qualities:** Assume likeness, [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|incorporeal traits]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft.     
-**Saves:** Fort +2, Ref +5, Will +6     
+**Defenses:** Fort 12, Ref 15, Will 16     
 **Abilities:** Str -, Dex 13, Con 12, Int 15, Wis 14, Cha 15     
 **Skills:** [[rangoric-srd/skills/Deception|Deception]] +13\*, [[rangoric-srd/skills/Imitation|Imitation]] +13\*, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +2, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +2     
 **Feats:** [[rangoric-srd/feats/Overchannel|Overchannel]], [[rangoric-srd/feats/Wild Talent|Wild Talent]]     
@@ -67,13 +67,13 @@ An unbodied uses telepathy to communicate with others.
 
 #### Combat
 
-Psionic Powers: An unbodied manifests powers as a 4th-level psion (telepath). The save DCs are Intelligence-based.
+Psionic Powers: An unbodied manifests powers as a 4th-level psion (telepath). The attack bonuses are Intelligence-based.
 
-Typical Psion Powers Known (power points 21, base save DC 12 + power level): 1st- [[rangoric-srd/powers/Detect Psionics|detect psionics]], [[rangoric-srd/powers/Empty Mind|empty mind]], [[rangoric-srd/powers/Mind Thrust|mind thrust]] (DC 13\*), [[rangoric-srd/powers/Charm, Psionic|psionic charm]] (DC 13\*); 2nd - [[rangoric-srd/powers/Brain Lock|brain lock]] (DC 14), [[rangoric-srd/powers/Cloud Mind|cloud mind]] (DC 14), [[rangoric-srd/powers/Energy Push|energy push]] (DC 14), [[rangoric-srd/powers/Read Thoughts|read thoughts]] (DC 14).
+Typical Psion Powers Known (power points 21, base attack bonus +2 + power level): 1st- [[rangoric-srd/powers/Detect Psionics|detect psionics]], [[rangoric-srd/powers/Empty Mind|empty mind]], [[rangoric-srd/powers/Mind Thrust|mind thrust]] (+3 vs Will\*), [[rangoric-srd/powers/Charm, Psionic|psionic charm]] (+3 vs Will\*); 2nd - [[rangoric-srd/powers/Brain Lock|brain lock]] (+4 vs Will), [[rangoric-srd/powers/Cloud Mind|cloud mind]] (+4 vs Will), [[rangoric-srd/powers/Energy Push|energy push]] (+4), [[rangoric-srd/powers/Read Thoughts|read thoughts]] (+4 vs Will).
 
 \*Power can be augmented.
 
-Telekinetic Force (Su): An unbodied can use [[rangoric-srd/powers/Telekinetic Force|telekinetic force]] (DC 15) as a standard action that does not provoke attacks of opportunity. Manifester level 4th. The save DC is Charisma-based.
+Telekinetic Force (Su): An unbodied can use [[rangoric-srd/powers/Telekinetic Force|telekinetic force]] (+5 vs Will) as a standard action that does not provoke attacks of opportunity. Manifester level 4th. The attack bonus is Charisma-based.
 
 Assume Likeness (Su): An unbodied can assume the likeness of any Small, Medium, or Large creature as a standard action that does not provoke attacks of opportunity. Its abilities do not change, but it appears to be that creature, relying on its [[rangoric-srd/skills/Deception|Deception]] and [[rangoric-srd/skills/Imitation|Imitation]] skills to deflect suspicion.
 

@@ -15,7 +15,7 @@ full-attack: "Ranseur +11/+6 melee (2d4+4/×3) and 2 slams +6 melee (1d4+1 plus 
 space-reach: "5 ft./5 ft. (10 ft. with ranseur)"
 special-attacks: "Force bolt, spell-like abilities"
 special-qualities: "Darkvision 60 ft., detect magic, absorb force, damage reduction 5/magic"
-saves: "Fort +7, Ref +8, Will +9"
+defenses: "Fort 17, Ref 18, Will 19"
 abilities: "Str 16, Dex 15, Con 17, Int 18, Wis 13, Cha 20"
 skills: "Appraise +12, Arcana +12, Deception +13, Emulation +9, Intimidation +16, Perception +8, Persuasion +12, Sense Motive +5, Society +12, Theology +12"
 skill-ranks: "Appraise 5, Arcana 5, Deception 5, Emulation 1, Intimidation 10, Perception 4, Persuasion 3, Sense Motive 1, Society 5, Theology 5"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with ranseur)
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Force Bolt|Force bolt]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., detect magic, [[rangoric-srd/monsters/abilities/Absorb Force|absorb force]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic
-- **Saves**: Fort +7, Ref +8, Will +9
+- **Defenses**: Fort 17, Ref 18, Will 19
 - **Abilities**: Str 16, Dex 15, Con 17, Int 18, Wis 13, Cha 20
 - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +12, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Emulation|Emulation]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Society|Society]] +12, [[rangoric-srd/skills/Theology|Theology]] +12
 - **Feats**: [[rangoric-srd/feats/Deflect Arrows|Deflect Arrows]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion)
@@ -67,7 +67,7 @@ Witchwyrds speak Common, Draconic and one or more planar languages.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +13): Constant—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Floating Disk|floating disk]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_ (one at a time), _[[rangoric-srd/spells/Unseen Servant|unseen servant]]_; 3/day—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Displacement|displacement]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 18); 1/day—_[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Resilient Sphere|resilient sphere]]_ (DC 19).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +13): Constant—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Floating Disk|floating disk]]_, _[[rangoric-srd/spells/Mage Armor|mage armor]]_, _[[rangoric-srd/spells/Resist Energy|resist energy]]_ (one at a time), _[[rangoric-srd/spells/Unseen Servant|unseen servant]]_; 3/day—_[[rangoric-srd/spells/Dispel Magic|dispel magic]]_, _[[rangoric-srd/spells/Displacement|displacement]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_ (+8 vs Will); 1/day—_[[rangoric-srd/spells/Dimension Door|dimension door]]_, _[[rangoric-srd/spells/Resilient Sphere|resilient sphere]]_ (+9 vs Reflex).
 
 **[[rangoric-srd/monsters/abilities/Absorb Force|Absorb Force]] (Su)**: Once per round, a witchwyrd can use a free hand to “catch” a magic missile fired at it. This absorbs the missile and manifests as a glowing nimbus around that hand (which is no longer considered free). The energy lasts 6 rounds or until it is used to create a force bolt. To use this ability, the witchwyrd must be aware of the incoming magic missile and cannot be flat-footed.
 

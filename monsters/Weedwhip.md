@@ -14,8 +14,8 @@ attack: "Tentacle +5 melee (1d4 plus poison)"
 full-attack: "3 tentacles +5 melee (1d4 plus poison)"
 space-reach: "5 ft./15 ft."
 special-attacks: "Poison"
-special-qualities: "Blindsight 30 ft., low-light vision, stench (DC 12, 1 minute), dig in, poisonous, camouflage, plant traits, languid whips"
-saves: "Fort +4, Ref +4, Will +2"
+special-qualities: "Blindsight 30 ft., low-light vision, stench (+2 vs Fortitude, 1 minute), dig in, poisonous, camouflage, plant traits, languid whips"
+defenses: "Fort 14, Ref 14, Will 12"
 abilities: "Str 10, Dex 17, Con 12, Int —, Wis 13, Cha 5"
 skills: "—"
 skill-ranks: ""
@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: 3 tentacles +5 melee (1d4 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
 - **Space/Reach**: 5 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
-- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Stench|stench]] (DC 12, 1 minute), [[rangoric-srd/monsters/abilities/Dig In|dig in]], [[rangoric-srd/monsters/abilities/Poisonous|poisonous]], [[rangoric-srd/monsters/abilities/Camouflage|camouflage]], [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Languid Whips|languid whips]]
-- **Saves**: Fort +4, Ref +4, Will +2
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Stench|stench]] (+2 vs Fortitude, 1 minute), [[rangoric-srd/monsters/abilities/Dig In|dig in]], [[rangoric-srd/monsters/abilities/Poisonous|poisonous]], [[rangoric-srd/monsters/abilities/Camouflage|camouflage]], [[rangoric-srd/monsters/abilities/Plant Traits|plant traits]], [[rangoric-srd/monsters/abilities/Languid Whips|languid whips]]
+- **Defenses**: Fort 14, Ref 14, Will 12
 - **Abilities**: Str 10, Dex 17, Con 12, Int —, Wis 13, Cha 5
 - **Skills**: —
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -75,6 +75,6 @@ In rocky areas lacking suitable soil, a weedwhip can root itself in a corpse, le
 
 **[[rangoric-srd/monsters/abilities/Languid Whips|Languid Whips]] (Ex)**: A weedwhip's tentacles don't threaten any squares, and doesn't make attacks of opportunity.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Tentacle—contact; save Fort DC 12; frequency 1/round for 6 rounds; effect [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] 1 round; cure 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Tentacle—contact; attack +2 vs Fortitude; frequency 1/round for 6 rounds; effect [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] 1 round; cure 2 consecutive misses. The attack bonus is Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Poisonous|Poisonous]] (Ex)**: Any creature that attacks a weedwhip with a natural piercing or slashing weapon is exposed to its poison.

@@ -16,7 +16,7 @@ full-attack: "Bite +5 melee (1d4 plus poison)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Kiss, poison, shriek"
 special-qualities: "Darkvision 60 ft."
-saves: "Fort +4, Ref +4, Will +2"
+defenses: "Fort 14, Ref 14, Will 12"
 abilities: "Str 10, Dex 13, Con 13, Int 5, Wis 12, Cha 8"
 skills: "Acrobatics +13, Intimidation +5, Perception +7, Stealth +8"
 skill-ranks: "Acrobatics 7, Intimidation 3, Perception 3, Stealth 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Kiss, [[rangoric-srd/monsters/abilities/Poison|poison]], shriek
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
-- **Saves**: Fort +4, Ref +4, Will +2
+- **Defenses**: Fort 14, Ref 14, Will 12
 - **Abilities**: Str 10, Dex 13, Con 13, Int 5, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +8
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -77,8 +77,8 @@ Vargouilles speak Infernal.
 
 Vargouilles attack by biting with their jagged teeth. Their special attacks make them even more dangerous.
 
-**Kiss (Su)**: A vargouille can kiss a [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] target by making a successful melee touch attack (this provokes attacks of opportunity). A kissed opponent must succeed on a DC 16 Fortitude save or begin a terrible transformation that changes the creature into a vargouille within 24 hours (and often much sooner; roll 1d6 separately for each phase of the transformation). First, over a period of 1d6 hours, all the victim's hair falls out. Within another 1d6 hours thereafter, the ears grow into leathery wings, tentacles sprout on the chin and scalp, and the teeth become long, pointed fangs. During the next 1d6 hours, the victim takes Intelligence drain and Charisma drain equal to 1 point per hour (to a minimum of 3). The transformation is complete 1d6 hours thereafter, when the victim's head breaks free of the body (which promptly dies) and becomes a vargouille. This transformation's progress is paused by sunlight or any light spell of 3rd level or higher, but stopping the transformation requires remove disease or a similar effect. The transformation is a disease effect. The save DC is Constitution-based and includes a +4 racial bonus.
+**Kiss (Su)**: A vargouille can kiss a [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] target by making a successful melee touch attack (this provokes attacks of opportunity). The kiss attacks the opponent at +6 vs Fortitude, and on a hit it begins a terrible transformation that changes the creature into a vargouille within 24 hours (and often much sooner; roll 1d6 separately for each phase of the transformation). First, over a period of 1d6 hours, all the victim's hair falls out. Within another 1d6 hours thereafter, the ears grow into leathery wings, tentacles sprout on the chin and scalp, and the teeth become long, pointed fangs. During the next 1d6 hours, the victim takes Intelligence drain and Charisma drain equal to 1 point per hour (to a minimum of 3). The transformation is complete 1d6 hours thereafter, when the victim's head breaks free of the body (which promptly dies) and becomes a vargouille. This transformation's progress is paused by sunlight or any light spell of 3rd level or higher, but stopping the transformation requires remove disease or a similar effect. The transformation is a disease effect. The attack bonus is Constitution-based and includes a +4 racial bonus.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Su)**: Bite—injury; _save_ Fort DC 12; _frequency_ once; _effect_ damage caused by bite can only be healed with magic if the spellcaster succeeds on a DC 20 caster level check; _cure_ 1 save. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Su)**: Bite—injury; _attack_ +2 vs Fortitude; _frequency_ once; _effect_ damage caused by bite can only be healed with magic if the spellcaster succeeds on a DC 20 caster level check; _cure_ 1 miss. The attack bonus is Constitution-based.
 
-**Shriek (Su)**: Instead of biting, a vargouille can open its distended mouth to shriek. Those within 60 feet (except other vargouilles) who hear the shriek and can clearly see the creature must succeed on a DC 12 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 2d4 rounds or until the monster attacks them, goes out of range, or leaves their sight. A creature that successfully saves cannot be affected again by the same vargouille's shriek for 24 hours. The save DC is Constitution-based.
+**Shriek (Su)**: Instead of biting, a vargouille can open its distended mouth to shriek. Those within 60 feet (except other vargouilles) who hear the shriek and can clearly see the creature are attacked at +2 vs Fortitude, and on a hit are [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 2d4 rounds or until the monster attacks them, goes out of range, or leaves their sight. A creature the shriek misses cannot be affected again by the same vargouille's shriek for 24 hours. The attack bonus is Constitution-based.

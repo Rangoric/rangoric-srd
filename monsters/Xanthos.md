@@ -15,7 +15,7 @@ full-attack: "Bite +23 melee (2d6+8) and 2 hooves +21 melee (1d8+4) and tail sla
 space-reach: "15 ft./10 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 120 ft., low-light vision, telepathy 5 ft., exploit stellar conjunction, hold breath, immunity to cold, resistance to electricity 30 and fire 30, spell resistance 25"
-saves: "Fort +15, Ref +12, Will +10"
+defenses: "Fort 25, Ref 22, Will 20"
 abilities: "Str 26, Dex 15, Con 21, Int 12, Wis 16, Cha 13"
 skills: "Athletics +19, Intimidation +10, Knowledge +10, Perception +23"
 skill-ranks: "Athletics 8, Intimidation 6, Knowledge 6, Perception 17"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 5 ft., [[rangoric-srd/monsters/abilities/Exploit Stellar Conjunction|exploit stellar conjunction]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 30 and fire 30, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25
-- **Saves**: Fort +15, Ref +12, Will +10
+- **Defenses**: Fort 25, Ref 22, Will 20
 - **Abilities**: Str 26, Dex 15, Con 21, Int 12, Wis 16, Cha 13
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Knowledge|Knowledge]] +10, [[rangoric-srd/skills/Perception|Perception]] +23
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Wind Stance|Wind Stance]]

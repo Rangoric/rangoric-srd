@@ -20,7 +20,7 @@ full-attack: "2 claws +95 (2d8+28/19-20) melee, bite +89 (4d6+14) melee, stamp +
 space-reach: "50 ft./50 ft."
 special-attacks: "Rend 4d8+42, cold, spell-like abilities, breath weapon, summon white dragon, Constitution drain"
 special-qualities: "Abomination traits, cold immunity, fire vulnerability, dire winter, fast healing 30, regeneration 30, SR 48, DR 20/good and epic and adamantine"
-saves: "Fort +55, Ref +47, Will +39"
+defenses: "Fort 65, Ref 57, Will 49"
 abilities: "Str 66, Dex 13, Con 40, Int 12, Wis 8, Cha 34"
 skills: "Athletics +103 (+147 jumping), Arcana +76, Mysticism +76, Theology +76, Perception +80, Investigation +76, Stealth +60"
 skill-ranks: "Arcana 72, Athletics 72, Investigation 72, Mysticism 72, Perception 72, Stealth 72, Theology 72"
@@ -54,7 +54,7 @@ Full Attack: 2 claws +95 (2d8+28/19-20) melee, bite +89 (4d6+14) melee, stamp +8
 Space/Reach: 50 ft./50 ft.      
 Special Attacks: Rend 4d8+42, cold, spell-like abilities, [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]], summon [[rangoric-srd/monsters/chromatic-dragons/White Dragon|white dragon]], Constitution [[rangoric-srd/monsters/abilities/Ability Damage and Drain|drain]]      
 Special Qualities: Abomination traits, cold immunity, [[rangoric-srd/monsters/abilities/Vulnerabilities|fire vulnerability]], [[rangoric-srd/epic/Epic Feats|dire winter]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 30, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 30, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 48, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 20/good and epic and adamantine      
-Saves: Fort +55, Ref +47, Will +39      
+Defenses: Fort 65, Ref 57, Will 49      
 Abilities: Str 66, Dex 13, Con 40, Int 12, Wis 8, Cha 34      
 Skills: [[rangoric-srd/skills/Arcana|Arcana]] +76, [[rangoric-srd/skills/Athletics|Athletics]] +103 (+147 jumping), [[rangoric-srd/skills/Investigation|Investigation]] +76, [[rangoric-srd/skills/Mysticism|Mysticism]] +76, [[rangoric-srd/skills/Perception|Perception]] +80, [[rangoric-srd/skills/Stealth|Stealth]] +60, [[rangoric-srd/skills/Theology|Theology]] +76     
 **Unspent Skill Points**: 216
@@ -73,19 +73,19 @@ A xixecal’s natural weapons are treated as epic, evil, and chaotic-aligned for
 
 Rend (Ex): If the xixecal hits with both claw attacks, it latches onto the opponent’s body and tears the flesh. This attack automatically deals an additional 4d8+42 points of damage.
 
-Cold (Su): A hit from a xixecal’s melee attack induces numbing cold. The opponent must succeed at a Fortitude save (DC 58) or be affected as though by a [[rangoric-srd/spells/Slow|slow]] spell for 10 rounds. The DC is Charisma-based.
+Cold (Su): A hit from a xixecal’s melee attack induces numbing cold. It attacks the opponent at +48 vs Fortitude, and on a hit it is affected as though by a [[rangoric-srd/spells/Slow|slow]] spell for 10 rounds. The attack bonus is Charisma-based.
 
-Spell-Like Abilities: Caster level 36th; save DC 22 + spell level. The DC is Charisma-based.
+Spell-Like Abilities: Caster level 36th; attack bonus +12 + spell level. The attack bonus is Charisma-based.
 
 At will - [[rangoric-srd/spells/Blasphemy|blasphemy]], [[rangoric-srd/spells/Cone of Cold|cone of cold]], [[rangoric-srd/spells/Desecrate|desecrate]], [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Dominate Monster|dominate monster]], [[rangoric-srd/spells/Hold Person|hold person]], [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]], [[rangoric-srd/spells/Unholy Aura|unholy aura]], [[rangoric-srd/spells/Wall of Ice|wall of ice]];
 
 5/day - [[rangoric-srd/spells/Haste|haste]], [[rangoric-srd/spells/Meteor Swarm|meteor swarm]].
 
-Breath Weapon (Su): Cone of cold, 300 feet, 3/day, damage 12d6, Fort half DC 61. The DC is Constitution-based.
+Breath Weapon (Su): Cone of cold, 300 feet, 3/day, damage 12d6, +51 vs Fortitude, a miss halves. The attack bonus is Constitution-based.
 
 Summon White Dragon (Sp): Five times per day a xixecal can summon an old [[rangoric-srd/monsters/chromatic-dragons/White Dragon|white dragon]].
 
-Constitution Drain (Su): This effect permanently reduces a living opponent’s Constitution score by 4 when the creature hits with a slam, bite, or rend, or twice that amount on a rend or critical hit. The creature heals 20 points of damage (or 40 on a rend or critical hit) whenever it drains Constitution, gaining any excess as temporary hit points. These temporary hit points last a maximum of 1 hour. The attack allows a Fortitude save (DC 58). The DC is Charisma-based.
+Constitution Drain (Su): This effect permanently reduces a living opponent’s Constitution score by 4 when the creature hits with a slam, bite, or rend, or twice that amount on a rend or critical hit. The creature heals 20 points of damage (or 40 on a rend or critical hit) whenever it drains Constitution, gaining any excess as temporary hit points. These temporary hit points last a maximum of 1 hour. The attack is at +48 vs Fortitude. The attack bonus is Charisma-based.
 
 Abomination Traits: Immune to polymorphing, [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], and other form-altering attacks; not subject to [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], or death from massive damage; immune to mind-affecting effects; [[rangoric-srd/spells/Nondetection|nondetection]]; [[rangoric-srd/spells/True Seeing|true seeing]] at will; [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 500 ft.; telepathy out to 1,000 ft.
 
