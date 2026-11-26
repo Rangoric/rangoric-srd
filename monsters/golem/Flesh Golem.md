@@ -15,7 +15,7 @@ full-attack: "2 slams +13 melee (2d8+5)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Berserk"
 special-qualities: "Darkvision 60 ft., low-light vision, damage reduction 5/adamantine, immunity to magic, construct traits"
-saves: "Fort +3, Ref +2, Will +3"
+defenses: "Fort 13, Ref 12, Will 13"
 abilities: "Str 20, Dex 9, Con —, Int —, Wis 11, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: Berserk
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]]
-- **Saves**: Fort +3, Ref +2, Will +3
+- **Defenses**: Fort 13, Ref 12, Will 13
 - **Abilities**: Str 20, Dex 9, Con —, Int —, Wis 11, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -81,5 +81,5 @@ CL 8th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/s
 
 **Immunity to Magic (Ex)**: A flesh golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
 
-- A magical attack that deals cold or fire damage slows a flesh golem (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 2d6 rounds (no save).
-- A magical attack that deals electricity damage breaks any _[[rangoric-srd/spells/Slow|slow]]_ effect on the golem and heals 1 point of damage for every 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A flesh golem gets no saving throw against attacks that deal electricity damage.
+- A magical attack that deals cold or fire damage slows a flesh golem (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 2d6 rounds (no attack against a defense).
+- A magical attack that deals electricity damage breaks any _[[rangoric-srd/spells/Slow|slow]]_ effect on the golem and heals 1 point of damage for every 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. Attacks that deal electricity damage hit a flesh golem's defenses automatically.

@@ -15,7 +15,7 @@ full-attack: "2 slams +19 melee (2d8+8 plus alchemy); or bomb +15 ranged (8d6 en
 space-reach: "10 ft./10 ft."
 special-attacks: "Alchemy, bombs, splash"
 special-qualities: "Darkvision 60 ft., low-light vision, damage reduction 10/adamantine or bludgeoning, immunity to magic, construct traits"
-saves: "Fort +4, Ref +8, Will +4"
+defenses: "Fort 14, Ref 18, Will 14"
 abilities: "Str 27, Dex 18, Con —, Int —, Wis 11, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Alchemy|Alchemy]], [[rangoric-srd/monsters/abilities/Bombs|bombs]], [[rangoric-srd/monsters/abilities/Splash|splash]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine or bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]]
-- **Saves**: Fort +4, Ref +8, Will +4
+- **Defenses**: Fort 14, Ref 18, Will 14
 - **Abilities**: Str 27, Dex 18, Con —, Int —, Wis 11, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -66,7 +66,7 @@ This golem is a walking alchemical nightmare, capable of inflicting all manner o
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Alchemy|Alchemy]] (Ex)**: When an alchemical golem strikes a foe, the attack has an additional random effect, chosen from the options below. The attack can either deal 1d6 points of acid, cold, electricity, or fire damage, or cause the target to become [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] (Fortitude DC 16 negates) or [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] (Reflex DC 16 negates) for 1d4 rounds. These save DCs are Constitution-based.
+**[[rangoric-srd/monsters/abilities/Alchemy|Alchemy]] (Ex)**: When an alchemical golem strikes a foe, the attack has an additional random effect, chosen from the options below. The attack can either deal 1d6 points of acid, cold, electricity, or fire damage, or cause the target to become [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] (+6 vs Fortitude) or [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] (+6 vs Reflex) for 1d4 rounds. These attack bonuses are Constitution-based.
 
 **[[rangoric-srd/monsters/abilities/Bombs|Bombs]] (Ex)**: As a standard action, an alchemical golem can throw a bomb as a ranged touch attack to a distance of 60 feet (no range increment). If the attack misses, treat it as a thrown splash weapon to determine where it lands. Anyone struck by an alchemical golem's bomb takes 8d6 points of acid, cold, electricity, or fire damage (determine type randomly). All creatures adjacent to the location where the bomb hits take 1d6 points of energy damage of the same type.
 

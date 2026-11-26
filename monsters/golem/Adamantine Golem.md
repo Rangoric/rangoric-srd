@@ -13,9 +13,9 @@ cmd: "54"
 attack: "Slam +41 melee (6d10+13/19–20)"
 full-attack: "2 slams +41 melee (6d10+13/19–20)"
 space-reach: "15 ft./15 ft."
-special-attacks: "Destructive strike, trample (6d10+19, DC 38)"
+special-attacks: "Destructive strike, trample (6d10+19, +28 vs Reflex)"
 special-qualities: "Darkvision 60 ft., low-light vision, fast healing 10, indestructible, damage reduction 15/epic, immunity to magic, construct traits"
-saves: "Fort +10, Ref +9, Will +10"
+defenses: "Fort 20, Ref 19, Will 20"
 abilities: "Str 36, Dex 9, Con —, Int —, Wis 11, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Slam +41 melee (6d10+13/19–20)
 - **Full Attack**: 2 slams +41 melee (6d10+13/19–20)
 - **Space/Reach**: 15 ft./15 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Destructive Strike|Destructive strike]], [[rangoric-srd/monsters/abilities/Trample|trample]] (6d10+19, DC 38)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Destructive Strike|Destructive strike]], [[rangoric-srd/monsters/abilities/Trample|trample]] (6d10+19, +28 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, [[rangoric-srd/monsters/abilities/Indestructible|indestructible]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/epic, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]]
-- **Saves**: Fort +10, Ref +9, Will +10
+- **Defenses**: Fort 20, Ref 19, Will 20
 - **Abilities**: Str 36, Dex 9, Con —, Int —, Wis 11, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -72,7 +72,7 @@ Made using one of the hardest and most precious substances, the adamantine golem
 
 **Immunity to Magic (Ex)**: An adamantine golem is immune to any spell or spell-like ability that allows spell resistance, except as noted below.
 
-- _[[rangoric-srd/spells/Transmute Metal to Wood|Transmute metal to wood]]_ slows an adamantine golem for 1d4 rounds, during which time its damage reduction is reduced to 15/adamantine (no save).
+- _[[rangoric-srd/spells/Transmute Metal to Wood|Transmute metal to wood]]_ slows an adamantine golem for 1d4 rounds, during which time its damage reduction is reduced to 15/adamantine (no attack against a defense).
 
 ### Construction
 

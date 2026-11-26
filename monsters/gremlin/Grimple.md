@@ -15,7 +15,7 @@ full-attack: "Bite +3 melee (1d3–4); or rock +3 ranged (1d2–4)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Putrid vomit, spell-like abilities"
 special-qualities: "Low-light vision, gremlin lice, damage reduction 2/cold iron"
-saves: "Fort +1, Ref +3, Will +2"
+defenses: "Fort 11, Ref 13, Will 12"
 abilities: "Str 3, Dex 13, Con 12, Int 10, Wis 11, Cha 6"
 skills: "Acrobatics +1, Athletics +13, Perception +4, Sleight of Hand +5, Stealth +16"
 skill-ranks: "Acrobatics 0, Athletics 14, Perception 1, Sleight of Hand 1, Stealth 4"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Putrid Vomit|Putrid vomit]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Gremlin Lice|gremlin lice]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/cold iron
-- **Saves**: Fort +1, Ref +3, Will +2
+- **Defenses**: Fort 11, Ref 13, Will 12
 - **Abilities**: Str 3, Dex 13, Con 12, Int 10, Wis 11, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +1, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -72,8 +72,8 @@ Grimples speak Undercommon.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st; concentration -1): At will—_[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_; 3/day—_[[rangoric-srd/spells/Grease|grease]]_ (DC 9), _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Open-Close|open/close]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st; concentration -1): At will—_[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_; 3/day—_[[rangoric-srd/spells/Grease|grease]]_ (−1), _[[rangoric-srd/spells/Mage Hand|mage hand]]_, _[[rangoric-srd/spells/Open-Close|open/close]]_.
 
 **[[rangoric-srd/monsters/abilities/Gremlin Lice|Gremlin Lice]] (Ex)**: All grimples are infested with gremlin lice. Whenever a warm-blooded creature comes in physical contact with a grimple, there is a 25% chance it contracts gremlin lice. 1d4 rounds later, the creature begins to itch. The itch proves so distracting that for the duration of the infestation, the individual takes a -1 penalty on all concentration and initiative checks. Fortunately, these annoying parasites cannot live long on non-gremlins, and only survive for 24 hours. Submersion in water or exposure to freezing temperatures also kills a gremlin lice infestation.
 
-**[[rangoric-srd/monsters/abilities/Putrid Vomit|Putrid Vomit]] (Ex)**: Every 1d4 rounds, a grimple can spew a 30-foot line of vomit as a standard action. Treat this as a ranged touch attack with no range increment. Anyone struck must succeed at a DC 11 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d4 rounds. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Putrid Vomit|Putrid Vomit]] (Ex)**: Every 1d4 rounds, a grimple can spew a 30-foot line of vomit as a standard action. Treat this as a ranged touch attack with no range increment. The vomit attacks anyone struck at +1 vs Fortitude, and on a hit they are [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d4 rounds. The attack bonus is Constitution-based.

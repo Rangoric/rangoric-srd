@@ -19,7 +19,7 @@ No matter the form, half-celestials are always comely and delightful to the sens
 
 A half-celestial uses all the base creature’s statistics and special abilities except as noted here.
 
-**Size and Type**: The creature’s type changes to [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|outsider]]. Do not recalculate the creature’s Hit Dice, base attack bonus, or saves. Size is unchanged. Half-celestials are normally native outsiders.
+**Size and Type**: The creature’s type changes to [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|outsider]]. Do not recalculate the creature’s Hit Dice, base attack bonus, or defenses. Size is unchanged. Half-celestials are normally native outsiders.
 
 **Speed**: A half-celestial has feathered wings and can fly at twice the base creature’s base land speed (good maneuverability). If the base creature has a fly speed, use that instead.
 
@@ -31,7 +31,7 @@ A half-celestial uses all the base creature’s statistics and special abilities
 
 **Smite Evil (Su)**: Once per day a half-celestial can make a normal melee attack to deal extra damage equal to its HD (maximum of +20) against an evil foe.
 
-**Spell-Like Abilities**: A half-celestial with an Intelligence or Wisdom score of 8 or higher has two or more spell-like abilities, depending on its Hit Dice, as indicated on the table below. The abilities are cumulative. Unless otherwise noted, an ability is usable once per day. Caster level equals the creature’s HD, and the save DC is Charisma-based.
+**Spell-Like Abilities**: A half-celestial with an Intelligence or Wisdom score of 8 or higher has two or more spell-like abilities, depending on its Hit Dice, as indicated on the table below. The abilities are cumulative. Unless otherwise noted, an ability is usable once per day. Caster level equals the creature’s HD, and the attack bonus is Charisma-based.
 
 | HD    | Abilities                                                                                                                      |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -60,7 +60,7 @@ A half-celestial uses all the base creature’s statistics and special abilities
 
 - [[rangoric-srd/monsters/abilities/Spell Resistance|Spell resistance]] equal to creature’s HD + 10 (maximum 35).
 
-- \+4 racial bonus on Fortitude saves against [[rangoric-srd/rules/Afflictions#Poison|poison]].
+- \+4 racial bonus on Fortitude Defense against [[rangoric-srd/rules/Afflictions#Poison|poison]].
 
 **Abilities: Increase from the base creature as follows**: Str +4, Dex +2, Con +4, Int +2, Wis +4, Cha +4.
 

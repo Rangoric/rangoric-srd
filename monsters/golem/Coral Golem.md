@@ -15,7 +15,7 @@ full-attack: "2 claws +18 melee (1d6+10/19–20 plus bleed)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Bleed (1d6)"
 special-qualities: "Darkvision 60 ft., low-light vision, aquatic reconstruction, powerful blows (slam), damage reduction 10/adamantine, immunity to magic, construct traits"
-saves: "Fort +4, Ref +4, Will +4"
+defenses: "Fort 14, Ref 14, Will 14"
 abilities: "Str 24, Dex 11, Con —, Int —, Wis 11, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Aquatic Reconstruction|aquatic reconstruction]], powerful blows (slam), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]]
-- **Saves**: Fort +4, Ref +4, Will +4
+- **Defenses**: Fort 14, Ref 14, Will 14
 - **Abilities**: Str 24, Dex 11, Con —, Int —, Wis 11, Cha 1
 - **Skills**: —
 - **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw)
@@ -71,7 +71,7 @@ Coral golems are constructs made entirely of colonies of living coral drawn from
 **Immunity to Magic (Ex)**: A coral golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
 
 - Any spell with the water descriptor heals a coral golem 1d6 points of damage per level of the caster (maximum 10d6).
-- _[[rangoric-srd/spells/Transmute Rock to Mud|Transmute rock to mud]]_ slows a coral golem (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 1d6 rounds (no save).
+- _[[rangoric-srd/spells/Transmute Rock to Mud|Transmute rock to mud]]_ slows a coral golem (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 1d6 rounds (no attack against a defense).
 - _[[rangoric-srd/spells/Transmute Mud to Rock|Transmute mud to rock]]_ increases the golem's bleed damage to 2d6 for 3 rounds.
 - _[[rangoric-srd/spells/Soften Earth and Stone|Soften earth and stone]]_ causes a coral golem to lose its damage reduction for 3 rounds.
 

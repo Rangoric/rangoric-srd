@@ -16,7 +16,7 @@ full-attack: "Fishing pole –3 melee (1d4–2); or sling +7 ranged (1d3–2)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "—"
-saves: "Fort +1, Ref +5, Will +3 (+2 vs. fear)"
+defenses: "Fort 11, Ref 15, Will 13 (+2 vs. fear)"
 abilities: "Str 6, Dex 16, Con 9, Int 10, Wis 12, Cha 13"
 skills: "Acrobatics +5, Athletics +2 (–2 jumping), Craft (cook) +6, Fieldcraft +2, Nature +2, Perception +10, Profession (fisherman) +6, Society +2"
 skill-ranks: "Acrobatics 2, Athletics 1, Craft (cook) 3, Fieldcraft 1, Nature 2, Perception 6, Profession (fisherman) 3, Society 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: —
-- **Saves**: Fort +1, Ref +5, Will +3 (+2 vs. fear)
+- **Defenses**: Fort 11, Ref 15, Will 13 (+2 vs. fear)
 - **Abilities**: Str 6, Dex 16, Con 9, Int 10, Wis 12, Cha 13
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Athletics|Athletics]] +2 (–2 jumping), [[rangoric-srd/skills/Craft|Craft]] (cook) +6, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +2, [[rangoric-srd/skills/Nature|Nature]] +2, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Profession|Profession]] (fisherman) +6, [[rangoric-srd/skills/Society|Society]] +2
 - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)

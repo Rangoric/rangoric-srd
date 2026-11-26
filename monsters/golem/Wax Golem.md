@@ -15,7 +15,7 @@ full-attack: "Slam +6 melee (1d6+3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision, conditional sentience, immunity to cold and magic, construct traits, vulnerable to fire"
-saves: "Fort +1, Ref +0, Will +1"
+defenses: "Fort 11, Ref 10, Will 11"
 abilities: "Str 14, Dex 9, Con —, Int —, Wis 11, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Conditional Sentience|conditional sentience]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold and magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], vulnerable to fire
-- **Saves**: Fort +1, Ref +0, Will +1
+- **Defenses**: Fort 11, Ref 10, Will 11
 - **Abilities**: Str 14, Dex 9, Con —, Int —, Wis 11, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -72,8 +72,8 @@ A wax golem can be constructed to resemble any person or creature.
 
 **Immunity to Magic (Ex)**: A wax golem is immune to any spell or spell-like ability that allows spell resistance, with the exception of spells and spell-like abilities that have the fire descriptor. In addition, certain spells and effects function differently against the creature, as noted below.
 
-- A magical attack that deals fire damage slows a wax golem (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 2d6 rounds (no save). In addition, for 3 rounds after taking fire damage, every time a wax golem uses its slam attack, it deals an additional 1d4 points of fire damage due to its molten wax.
-- A magical attack that deals cold damage breaks any _[[rangoric-srd/spells/Slow|slow]]_ effect on the golem and heals 1 point of damage for each 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A wax golem gains no saving throw against cold effects.
+- A magical attack that deals fire damage slows a wax golem (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 2d6 rounds (no attack against a defense). In addition, for 3 rounds after taking fire damage, every time a wax golem uses its slam attack, it deals an additional 1d4 points of fire damage due to its molten wax.
+- A magical attack that deals cold damage breaks any _[[rangoric-srd/spells/Slow|slow]]_ effect on the golem and heals 1 point of damage for each 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. Cold effects hit a wax golem's defenses automatically.
 
 ### Construction
 

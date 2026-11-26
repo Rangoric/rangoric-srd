@@ -16,7 +16,7 @@ full-attack: "Masterwork horsechopper +7 melee (1d8+1/×3); or masterwork compos
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., bravery +1, armor training 1"
-saves: "Fort +4, Ref +5, Will +0 (+1 vs. fear)"
+defenses: "Fort 14, Ref 15, Will 10 (+1 vs. fear)"
 abilities: "Str 13, Dex 18, Con 13, Int 10, Wis 8, Cha 10"
 skills: "Animal Handling +4, Intimidation +6, Perception +2, Stealth +11"
 skill-ranks: "Animal Handling 0, Intimidation 3, Perception 3, Stealth 0"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1
-- **Saves**: Fort +4, Ref +5, Will +0 (+1 vs. fear)
+- **Defenses**: Fort 14, Ref 15, Will 10 (+1 vs. fear)
 - **Abilities**: Str 13, Dex 18, Con 13, Int 10, Wis 8, Cha 10
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +11
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (horsechopper)

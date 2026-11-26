@@ -16,7 +16,7 @@ full-attack: "Bite +13 melee (1d6+5) and 2 claws +13 melee (1d6+5 plus grab); or
 space-reach: "5 ft./5 ft."
 special-attacks: "Curse of scales, spell-like abilities"
 special-qualities: "Darkvision 60 ft., cloying scent (15 ft.), amphibious, damage reduction 5/cold iron, resistance to cold 10 and fire 10"
-saves: "Fort +6, Ref +10, Will +8"
+defenses: "Fort 16, Ref 20, Will 18"
 abilities: "Str 20, Dex 14, Con 19, Int 13, Wis 15, Cha 14"
 skills: "Athletics +23, Fieldcraft +13, Nature +9, Perception +13, Stealth +13"
 skill-ranks: "Athletics 15, Fieldcraft 8, Nature 5, Perception 8, Stealth 8"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Curse of Scales|Curse of scales]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Cloying Scent|cloying scent]] (15 ft.), [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10
-- **Saves**: Fort +6, Ref +10, Will +8
+- **Defenses**: Fort 16, Ref 20, Will 18
 - **Abilities**: Str 20, Dex 14, Con 19, Int 13, Wis 15, Cha 14
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +23, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +13, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +13
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Stand Still|Stand Still]]
@@ -73,8 +73,8 @@ Qallupilluks speak Aklo, Aquan, Common and Giant.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +10): At will—_[[rangoric-srd/spells/Water Breathing|water breathing]]_; 3/day—_[[rangoric-srd/spells/Charm Animal|charm animal]]_ (DC 13), _[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 13), _[[rangoric-srd/spells/Chill Metal|chill metal]]_ (DC 14), _[[rangoric-srd/spells/Sleet Storm|sleet storm]]_; 1/day-commune with nature, _[[rangoric-srd/spells/Divination|divination]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th; concentration +10): At will—_[[rangoric-srd/spells/Water Breathing|water breathing]]_; 3/day—_[[rangoric-srd/spells/Charm Animal|charm animal]]_ (+3 vs Will), _[[rangoric-srd/spells/Charm Person|charm person]]_ (+3 vs Will), _[[rangoric-srd/spells/Chill Metal|chill metal]]_ (+4 vs Will), _[[rangoric-srd/spells/Sleet Storm|sleet storm]]_; 1/day-commune with nature, _[[rangoric-srd/spells/Divination|divination]]_.
 
-**[[rangoric-srd/monsters/abilities/Cloying Scent|Cloying Scent]] (Su)**: Qallupilluks exude a vaguely sweet and unexpectedly pleasant briny scent. This smell comforts and distracts humanoids and animals that come within 15 feet of the qallupilluk, causing such creatures to take a -2 penalty on saves against mind-affecting effects.
+**[[rangoric-srd/monsters/abilities/Cloying Scent|Cloying Scent]] (Su)**: Qallupilluks exude a vaguely sweet and unexpectedly pleasant briny scent. This smell comforts and distracts humanoids and animals that come within 15 feet of the qallupilluk, causing such creatures to take a -2 penalty on defenses against mind-affecting effects.
 
-**[[rangoric-srd/monsters/abilities/Curse of Scales|Curse of Scales]] (Su)**: If a qallupilluk grapples a Medium or Small humanoid opponent, her target begins transforming into an aquatic monster. Starting on the third consecutive round of grappling, the grappled target must succeed at a DC 18 Fortitude save every round or fully transform into a [[rangoric-srd/monsters/Grindylow|grindylow]], [[rangoric-srd/monsters/Reefclaw|reefclaw]], [[rangoric-srd/monsters/Bunyip|bunyip]], merrow, or scrag. Once fully transformed, the creature is slavishly devoted to the qallupilluk that created it. If the qallupilluk is slain, the creature loses this devotion but remains transformed. The transformation ends after 1 hour or if the creature is slain. A qallupilluk can make this transformation permanent by performing a ritual that takes 10 minutes and deals 30 points of damage to the qallupilluk. This is a curse and polymorph effect. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Curse of Scales|Curse of Scales]] (Su)**: If a qallupilluk grapples a Medium or Small humanoid opponent, her target begins transforming into an aquatic monster. Starting on the third consecutive round of grappling, the curse attacks the grappled target at +8 vs Fortitude every round, and on a hit it fully transforms into a [[rangoric-srd/monsters/Grindylow|grindylow]], [[rangoric-srd/monsters/Reefclaw|reefclaw]], [[rangoric-srd/monsters/Bunyip|bunyip]], merrow, or scrag. Once fully transformed, the creature is slavishly devoted to the qallupilluk that created it. If the qallupilluk is slain, the creature loses this devotion but remains transformed. The transformation ends after 1 hour or if the creature is slain. A qallupilluk can make this transformation permanent by performing a ritual that takes 10 minutes and deals 30 points of damage to the qallupilluk. This is a curse and polymorph effect. The attack bonus is Constitution-based.

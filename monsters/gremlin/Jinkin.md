@@ -15,7 +15,7 @@ full-attack: "Short sword +6 melee (1d3–4/19–20) and bite +1 melee (1d2–4)
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Sneak attack +1d6, tinker, spell-like abilities"
 special-qualities: "Darkvision 120 ft., low-light vision, damage reduction 5/cold iron, spell resistance 12"
-saves: "Fort +0, Ref +6, Will +4"
+defenses: "Fort 10, Ref 16, Will 14"
 abilities: "Str 3, Dex 19, Con 11, Int 14, Wis 14, Cha 15"
 skills: "Craft (traps) +10, Deception +6, Emulation +6, Engineering +9, Escape Artist +8, Perception +6, Sleight of Hand +8, Stealth +16"
 skill-ranks: "Craft (traps) 5, Deception 1, Emulation 1, Engineering 1, Escape Artist 1, Perception 1, Sleight of Hand 1, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: Sneak attack +1d6, [[rangoric-srd/monsters/abilities/Tinker|tinker]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 12
-- **Saves**: Fort +0, Ref +6, Will +4
+- **Defenses**: Fort 10, Ref 16, Will 14
 - **Abilities**: Str 3, Dex 19, Con 11, Int 14, Wis 14, Cha 15
 - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (traps) +10, [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Emulation|Emulation]] +6, [[rangoric-srd/skills/Engineering|Engineering]] +9, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -80,4 +80,4 @@ Jinkins speak Undercommon.
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st; concentration +3): At will—_[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_; 1/hour—_[[rangoric-srd/spells/Dimension Door|dimension door]]_ (self plus 5 lbs. only).
 
-**[[rangoric-srd/monsters/abilities/Tinker|Tinker]] (Sp)**: A group of six jinkins working together over the course of an hour can create an effect identical to bestow curse on any living creature. This effect functions at CL 6th and has a range of 60 feet, and the target creature must be either willing or [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] (but still gets a saving throw to resist). The save is DC 14 + the Charisma modifier of the jinkin with the highest Charisma score (DC 16 for most groups of jinkins). Alternatively, the group of jinkins can attempt to infuse a magic item with a curse. The nature of this curse is determined randomly; half of these curses make the magic item unreliable (each time the item is used, there is a 20% chance it does not function), while the other half give the item a random requirement. A jinkin can take part in a tinkering only once per day, and may only tinker with a creature or object that isn't already cursed. Once a tinkering curse is in place, it is permanent until removed via an effect like remove curse. All jinkin tinkerings function as a curse created by a 6th-level caster.
+**[[rangoric-srd/monsters/abilities/Tinker|Tinker]] (Sp)**: A group of six jinkins working together over the course of an hour can create an effect identical to bestow curse on any living creature. This effect functions at CL 6th and has a range of 60 feet, and the target creature must be either willing or [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] (but the curse still attacks its Will). The attack bonus is +4 + the Charisma modifier of the jinkin with the highest Charisma score (+6 for most groups of jinkins). Alternatively, the group of jinkins can attempt to infuse a magic item with a curse. The nature of this curse is determined randomly; half of these curses make the magic item unreliable (each time the item is used, there is a 20% chance it does not function), while the other half give the item a random requirement. A jinkin can take part in a tinkering only once per day, and may only tinker with a creature or object that isn't already cursed. Once a tinkering curse is in place, it is permanent until removed via an effect like remove curse. All jinkin tinkerings function as a curse created by a 6th-level caster.

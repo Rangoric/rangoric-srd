@@ -15,7 +15,7 @@ full-attack: "2 slams +12 melee (2d6+4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Splintering"
 special-qualities: "Darkvision 60 ft., low-light vision, damage reduction 5/adamantine, immunity to magic, construct traits, vulnerability to fire"
-saves: "Fort +2, Ref +5, Will +5"
+defenses: "Fort 12, Ref 15, Will 15"
 abilities: "Str 18, Dex 17, Con —, Int —, Wis 17, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: Splintering
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]]
-- **Saves**: Fort +2, Ref +5, Will +5
+- **Defenses**: Fort 12, Ref 15, Will 15
 - **Abilities**: Str 18, Dex 17, Con —, Int —, Wis 17, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -72,10 +72,10 @@ CL 7th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], _[[rangoric-srd/
 
 **Immunity to Magic (Ex)**: A wood golem is immune to any spell or spell-like ability that allows spell resistance, with the exception of spells and spell-like abilities that have the Fire descriptor, which affect it normally. In addition, certain spells and effects function differently against the creature, as noted below.
 
-_[[rangoric-srd/spells/Warp Wood|Warp wood]]_ or _[[rangoric-srd/spells/Wood Shape|wood shape]]_ slows a wood golem (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 2d6 rounds (no save).
+_[[rangoric-srd/spells/Warp Wood|Warp wood]]_ or _[[rangoric-srd/spells/Wood Shape|wood shape]]_ slows a wood golem (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 2d6 rounds (no attack against a defense).
 
-_[[rangoric-srd/spells/Repel Wood|Repel wood]]_ drives the golem back 60 feet and deals 2d12 points of damage to it (no save).
+_[[rangoric-srd/spells/Repel Wood|Repel wood]]_ drives the golem back 60 feet and deals 2d12 points of damage to it (no attack against a defense).
 
-A magical attack that deals cold damage breaks any _[[rangoric-srd/spells/Slow|slow]]_ effect on the golem and heals 1 point of damage for every 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A wood golem gets no saving throw against attacks that deal cold damage.
+A magical attack that deals cold damage breaks any _[[rangoric-srd/spells/Slow|slow]]_ effect on the golem and heals 1 point of damage for every 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. Attacks that deal cold damage hit a wood golem's defenses automatically.
 
-**Splintering (Su)**: As a free action once every 1d4+1 rounds, a wood golem can launch a barrage of razor-sharp wooden splinters from its body in a 20-foot-radius burst. All creatures caught within this area take 6d6 points of slashing damage (Reflex DC 14 halves). The save DC is Constitution-based.
+**Splintering (Su)**: As a free action once every 1d4+1 rounds, a wood golem can launch a barrage of razor-sharp wooden splinters from its body in a 20-foot-radius burst. All creatures caught within this area take 6d6 points of slashing damage (+4 vs Reflex; a miss halves). The attack bonus is Constitution-based.

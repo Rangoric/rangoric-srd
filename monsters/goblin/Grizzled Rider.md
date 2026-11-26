@@ -16,7 +16,7 @@ full-attack: "Masterwork horsechopper +5 melee (1d8+3/×3); or masterwork compos
 space-reach: "5 ft./5 ft."
 special-attacks: "Combat style (mounted combat), favored enemy (elves +2, humans +4)"
 special-qualities: "Darkvision 60 ft., favored terrain (forest +2), hunter's bond (companions), track +3, wild empathy +4"
-saves: "Fort +6, Ref +9, Will +3"
+defenses: "Fort 16, Ref 19, Will 13"
 abilities: "Str 14, Dex 18, Con 13, Int 10, Wis 12, Cha 6"
 skills: "Animal Handling +16, Athletics +7, Fieldcraft +10, Perception +10, Stealth +20"
 skill-ranks: "Animal Handling 9, Athletics 2, Fieldcraft 6, Perception 6, Stealth 9"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (mounted combat), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (elves +2, humans +4)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (forest +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/classes/Ranger|track]] +3, [[rangoric-srd/classes/Ranger|wild empathy]] +4
-- **Saves**: Fort +6, Ref +9, Will +3
+- **Defenses**: Fort 16, Ref 19, Will 13
 - **Abilities**: Str 14, Dex 18, Con 13, Int 10, Wis 12, Cha 6
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +16, [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +20
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Mounted Archery|Mounted Archery]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Track|Track]]

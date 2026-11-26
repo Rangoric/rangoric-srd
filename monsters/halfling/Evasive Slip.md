@@ -16,7 +16,7 @@ full-attack: "Masterwork sickle +6 melee (1d4); or masterwork sling +11 ranged (
 space-reach: "5 ft./5 ft."
 special-attacks: "Wild shape 2/day, rebuke air creatures, turn earth creatures (3/day)"
 special-qualities: "Nature bond (Air domain), nature sense, trackless step, wild empathy +6, woodland stride, resistance to electricity 10"
-saves: "Fort +7, Ref +7, Will +8 (+2 vs. fear, +4 vs. fey and plant-targeted effects)"
+defenses: "Fort 17, Ref 17, Will 18 (+2 vs. fear, +4 vs. fey and plant-targeted effects)"
 abilities: "Str 10, Dex 18, Con 13, Int 10, Wis 14, Cha 10"
 skills: "Acrobatics +4, Athletics +3 (–1 jumping), Deception +2, Fieldcraft +13, Medicine +6, Mysticism +7, Nature +6, Perception +9, Sense Motive +4, Stealth +14"
 skill-ranks: "Acrobatics 0, Athletics 3, Deception 2, Fieldcraft 8, Medicine 1, Mysticism 4, Nature 3, Perception 4, Sense Motive 2, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Druid#^druid-wild-shape|Wild shape]] 2/day, [[rangoric-srd/class-options/domains/Air Domain|rebuke air creatures, turn earth creatures]] (3/day)
 - **Special Qualities**: [[rangoric-srd/classes/Druid#^druid-nature-bond|Nature bond]] (Air domain), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +6, [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10
-- **Saves**: Fort +7, Ref +7, Will +8 (+2 vs. fear, +4 vs. fey and plant-targeted effects)
+- **Defenses**: Fort 17, Ref 17, Will 18 (+2 vs. fear, +4 vs. fey and plant-targeted effects)
 - **Abilities**: Str 10, Dex 18, Con 13, Int 10, Wis 14, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Athletics|Athletics]] +3 (–1 jumping), [[rangoric-srd/skills/Deception|Deception]] +2, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +13, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Nature|Nature]] +6, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Augment Summoning|Augment Summoning]], [[rangoric-srd/feats/Extend Spell|Extend Spell]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration)

@@ -15,7 +15,7 @@ full-attack: "2 slams +10 melee (2d6+2 plus bleed and grab)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Bleed (1d6), blood drain (1d2 Con), constrict (2d6+2 plus bleed)"
 special-qualities: "Blindsight 60 ft., darkvision 60 ft., low-light vision, amorphous, clotted skin, compression, damage reduction 5/bludgeoning, immunity to magic, construct traits, vulnerable to bleed"
-saves: "Fort +2, Ref +6, Will +4"
+defenses: "Fort 12, Ref 16, Will 14"
 abilities: "Str 14, Dex 19, Con —, Int —, Wis 14, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Bleed|Bleed]] (1d6), [[rangoric-srd/monsters/abilities/Blood Drain|blood drain]] (1d2 Con), [[rangoric-srd/monsters/abilities/Constrict|constrict]] (2d6+2 plus bleed)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Clotted Skin|clotted skin]], [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Vulnerable to Bleed|vulnerable to bleed]]
-- **Saves**: Fort +2, Ref +6, Will +4
+- **Defenses**: Fort 12, Ref 16, Will 14
 - **Abilities**: Str 14, Dex 19, Con —, Int —, Wis 14, Cha 1
 - **Skills**: —
 - **Feats**: —

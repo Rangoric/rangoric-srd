@@ -16,7 +16,7 @@ full-attack: "Masterwork dogslicer +5 melee (1d4+1/19–20); or shortbow +7 rang
 space-reach: "5 ft./5 ft."
 special-attacks: "Combat style (mounted combat), favored enemy (humans +2)"
 special-qualities: "Darkvision 60 ft., track +1, wild empathy +0"
-saves: "Fort +4, Ref +7, Will +1"
+defenses: "Fort 14, Ref 17, Will 11"
 abilities: "Str 13, Dex 18, Con 13, Int 10, Wis 12, Cha 6"
 skills: "Acrobatics +3, Animal Handling +10, Athletics +3, Perception +6, Stealth +14"
 skill-ranks: "Acrobatics 0, Animal Handling 2, Athletics 2, Perception 2, Stealth 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (mounted combat), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (humans +2)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Ranger|track]] +1, [[rangoric-srd/classes/Ranger|wild empathy]] +0
-- **Saves**: Fort +4, Ref +7, Will +1
+- **Defenses**: Fort 14, Ref 17, Will 11
 - **Abilities**: Str 13, Dex 18, Con 13, Int 10, Wis 12, Cha 6
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Track|Track]]

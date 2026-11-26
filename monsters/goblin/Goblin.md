@@ -16,7 +16,7 @@ full-attack: "Short sword +2 melee (1d4/19–20); or [[rangoric-srd/equipment/we
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft."
-saves: "Fort +3, Ref +2, Will –1"
+defenses: "Fort 13, Ref 12, Will 9"
 abilities: "Str 11, Dex 15, Con 12, Int 10, Wis 9, Cha 6"
 skills: "Animal Handling +10, Athletics +4, Stealth +10"
 skill-ranks: "Animal Handling 1, Athletics 1, Stealth 0"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
-- **Saves**: Fort +3, Ref +2, Will –1
+- **Defenses**: Fort 13, Ref 12, Will 9
 - **Abilities**: Str 11, Dex 15, Con 12, Int 10, Wis 9, Cha 6
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +10
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]

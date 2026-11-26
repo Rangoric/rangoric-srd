@@ -15,7 +15,7 @@ full-attack: "2 slams +28 melee (2d10+16/19–20)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Breath weapon, powerful blows"
 special-qualities: "Darkvision 60 ft., low-light vision, damage reduction 15/adamantine, immunity to magic, construct traits"
-saves: "Fort +6, Ref +5, Will +6"
+defenses: "Fort 16, Ref 15, Will 16"
 abilities: "Str 32, Dex 9, Con —, Int —, Wis 11, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], powerful blows
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]]
-- **Saves**: Fort +6, Ref +5, Will +6
+- **Defenses**: Fort 16, Ref 15, Will 16
 - **Abilities**: Str 32, Dex 9, Con —, Int —, Wis 11, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -75,15 +75,15 @@ An iron golem’s body is sculpted from 5,000 pounds of pure iron, smelted with 
 
 CL 16th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/spells/Cloudkill|cloudkill]], [[rangoric-srd/spells/Geas-Quest|geas/quest]], [[rangoric-srd/spells/Limited Wish|limited wish]], caster must be at least 16th level; Price 150,000 gp; Cost 80,000 gp + 5,600 XP.
 
-**Breath Weapon (Su)**: As a free action once every 1d4+1 rounds, an iron golem can exhale a 10-foot cube of poisonous gas. This gas cloud persists for 1 round; any creature within the area when the golem creates it (as well as any creature that passes through the cloud during the remainder of that round) is exposed to the cloud's poisonous effects. This poison is magically created each time the golem uses this power. The save DC is Constitution-based.
+**Breath Weapon (Su)**: As a free action once every 1d4+1 rounds, an iron golem can exhale a 10-foot cube of poisonous gas. This gas cloud persists for 1 round; any creature within the area when the golem creates it (as well as any creature that passes through the cloud during the remainder of that round) is exposed to the cloud's poisonous effects. This poison is magically created each time the golem uses this power. The attack bonus is Constitution-based.
 
-Breath—inhaled; _save_ Fort DC 19; _frequency_ 1/round for 4 rounds; _effect_ 1d4 Con damage; _cure_ 2 saves.
+Breath—inhaled; _attack_ +9 vs Fortitude; _frequency_ 1/round for 4 rounds; _effect_ 1d4 Con damage; _cure_ 2 misses.
 
 **Immunity to Magic (Ex)**: An iron golem is immune to spells or spell-like abilities that allow spell resistance. Certain spells and effects function differently against it, as noted below.
 
-- A magical attack that deals electricity damage slows an iron golem (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 3 rounds, with no saving throw.
+- A magical attack that deals electricity damage slows an iron golem (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 3 rounds, with no attack against a defense.
 
-- A magical attack that deals fire damage breaks any _[[rangoric-srd/spells/Slow|slow]]_ effect on the golem and heals 1 point of damage for each 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. An iron golem gets no saving throw against fire effects.
+- A magical attack that deals fire damage breaks any _[[rangoric-srd/spells/Slow|slow]]_ effect on the golem and heals 1 point of damage for each 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. Fire effects hit an iron golem's defenses automatically.
 
 - An iron golem is affected normally by rust attacks, such as those of a rust monster or a _[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]_ spell.
 

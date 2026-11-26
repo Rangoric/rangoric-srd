@@ -15,7 +15,7 @@ full-attack: "2 slams +33 melee (4d10+11)"
 space-reach: "15 ft./15 ft."
 special-attacks: "Fluid form, quickness"
 special-qualities: "Darkvision 60 ft., low-light vision, evasion, damage reduction 15/adamantine, immunity to magic, construct traits"
-saves: "Fort +8, Ref +15, Will +8"
+defenses: "Fort 18, Ref 25, Will 18"
 abilities: "Str 33, Dex 24, Con —, Int —, Wis 11, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Fluid Form|Fluid form]], [[rangoric-srd/monsters/abilities/Quickness|quickness]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], evasion, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]]
-- **Saves**: Fort +8, Ref +15, Will +8
+- **Defenses**: Fort 18, Ref 25, Will 18
 - **Abilities**: Str 33, Dex 24, Con —, Int —, Wis 11, Cha 1
 - **Skills**: —
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Spring Attack|Spring Attack]]
@@ -72,7 +72,7 @@ Created from a massive quantity of the purest mithral, this golem is a thing of 
 
 - A _[[rangoric-srd/spells/Slow|slow]]_ spell cast on the golem causes it to lose its quickness ability for 1d6 rounds.
 - A _[[rangoric-srd/spells/Haste|haste]]_ spell heals the golem of 1d6 points of damage per level of the caster (maximum 10d6).
-- Hitting a mithral golem in fluid form with any spell of 6th level or higher with the cold descriptor causes the golem to take 10d6 points of damage (no save) and lose the use of its fluid form ability for 24 hours.
+- Hitting a mithral golem in fluid form with any spell of 6th level or higher with the cold descriptor causes the golem to take 10d6 points of damage (no attack against a defense) and lose the use of its fluid form ability for 24 hours.
 
 **[[rangoric-srd/monsters/abilities/Quickness|Quickness]] (Ex)**: A mithral golem is incredibly quick. It can take an extra move action during its turn each round. This means it can move up to its speed and still make a full attack.
 

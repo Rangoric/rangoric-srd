@@ -15,7 +15,7 @@ full-attack: "2 slams +29 melee (2d10+10); or cannon +26/+21 ranged (6d6+7/19–
 space-reach: "10 ft./10 ft."
 special-attacks: "Cannon"
 special-qualities: "Darkvision 60 ft., low-light vision, alloyed, blasting critical, gun training, damage reduction 15/adamantine, immunity to magic, construct traits"
-saves: "Fort +6, Ref +13, Will +8"
+defenses: "Fort 16, Ref 23, Will 18"
 abilities: "Str 30, Dex 24, Con —, Int —, Wis 15, Cha 2"
 skills: "—"
 skill-ranks: ""
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Cannon|Cannon]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Alloyed|alloyed]], [[rangoric-srd/monsters/abilities/Blasting Critical|blasting critical]], [[rangoric-srd/monsters/abilities/Gun Training|gun training]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/adamantine, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]]
-- **Saves**: Fort +6, Ref +13, Will +8
+- **Defenses**: Fort 16, Ref 23, Will 18
 - **Abilities**: Str 30, Dex 24, Con —, Int —, Wis 15, Cha 2
 - **Skills**: —
 - **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (cannon)
@@ -76,8 +76,8 @@ A cannon golem's internal workings are a mechanical labyrinth; its extradimensio
 
 **Immunity to Magic (Ex)**: A cannon golem is immune to spells and spell-like abilities that allow spell resistance. Certain spells and effects function differently against it, as noted below.
 
-- Any spell with the water descriptor that affects a cannon golem renders its cannon unusable for 1 round (no save).
-- A _[[rangoric-srd/spells/Heat Metal|heat metal]]_ spell causes the golem's cannon to instantly backfire, dealing 6d6 points of damage to the golem and staggering it for 1 round (no save).
+- Any spell with the water descriptor that affects a cannon golem renders its cannon unusable for 1 round (no attack against a defense).
+- A _[[rangoric-srd/spells/Heat Metal|heat metal]]_ spell causes the golem's cannon to instantly backfire, dealing 6d6 points of damage to the golem and staggering it for 1 round (no attack against a defense).
 
 ### Construction
 

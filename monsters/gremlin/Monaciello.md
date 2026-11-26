@@ -14,8 +14,8 @@ attack: "Bite +9 melee (1d4–2) or dagger +4 melee (1d3–2/19–20)"
 full-attack: "Bite +4 melee (1d4–2) and dagger +4 melee (1d3–2/19–20)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
-special-qualities: "Low-light vision, stymie channeling (20 ft.; DC 12), compression, magic bag, damage reduction 5/cold iron, spell resistance 12"
-saves: "Fort +2, Ref +5, Will +4"
+special-qualities: "Low-light vision, stymie channeling (20 ft.; +2 vs Will), compression, magic bag, damage reduction 5/cold iron, spell resistance 12"
+defenses: "Fort 12, Ref 15, Will 14"
 abilities: "Str 6, Dex 15, Con 14, Int 11, Wis 12, Cha 13"
 skills: "Deception +6, Engineering +8, Escape Artist +7, Perception +6, Sense Motive +6, Stealth +18 (+14 when moving)"
 skill-ranks: "Deception 2, Engineering 2, Escape Artist 2, Perception 2, Sense Motive 2, Stealth 5"
@@ -49,8 +49,8 @@ tags: [rangoric, rangoric/monster]
 - **Full Attack**: Bite +4 melee (1d4–2) and [[rangoric-srd/equipment/weapons/Dagger|dagger]] +4 melee (1d3–2/19–20)
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Stymie Channeling|stymie channeling]] (20 ft.; DC 12), [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Magic Bag|magic bag]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 12
-- **Saves**: Fort +2, Ref +5, Will +4
+- **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Stymie Channeling|stymie channeling]] (20 ft.; +2 vs Will), [[rangoric-srd/monsters/abilities/Compression|compression]], [[rangoric-srd/monsters/abilities/Magic Bag|magic bag]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 12
+- **Defenses**: Fort 12, Ref 15, Will 14
 - **Abilities**: Str 6, Dex 15, Con 14, Int 11, Wis 12, Cha 13
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Engineering|Engineering]] +8, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +18 (+14 when moving)
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -72,8 +72,8 @@ Monaciellos speak Aklo.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +4): At will—_[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_, _[[rangoric-srd/spells/Putrefy Food and Drink|putrefy food and drink]]_ (DC 11), _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (DC 12), _[[rangoric-srd/spells/Silent Image|silent image]]_ (DC 12); 1/day—_[[rangoric-srd/spells/Glitterdust|glitterdust]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +4): At will—_[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_, _[[rangoric-srd/spells/Putrefy Food and Drink|putrefy food and drink]]_ (+1 vs Will), _[[rangoric-srd/spells/Ghost Sound|ghost sound]]_ (+2 vs Will), _[[rangoric-srd/spells/Silent Image|silent image]]_ (+2 vs Will); 1/day—_[[rangoric-srd/spells/Glitterdust|glitterdust]]_.
 
 **[[rangoric-srd/monsters/abilities/Magic Bag|Magic Bag]] (Su)**: A monaciello always carries its pouch with it. This pouch contains an extradimensional space and operates like a bag of holding (type I). If this pouch is separated from the monaciello, all of its former contents are lost, and it becomes a normal bag that contains a number of coins equal to double the treasure value of a creature of the gremlin's CR. A monaciello that loses its pouch must create a new one, a process that takes 1d4 days. Until the new pouch is finished, it remains a non-magical bag, only becoming a fully functional extradimensional space once completed.
 
-**[[rangoric-srd/monsters/abilities/Stymie Channeling|Stymie Channeling]] (Su)**: A monaciello gremlin is surrounded by an aura of blasphemy. Any creatures channeling energy within 20 feet of a monaciello must succeed at a DC 12 Will save or be unable to channel for that round. The use is not lost, but the action is wasted.
+**[[rangoric-srd/monsters/abilities/Stymie Channeling|Stymie Channeling]] (Su)**: A monaciello gremlin is surrounded by an aura of blasphemy. Any creatures channeling energy within 20 feet of a monaciello are attacked at +2 vs Will, and on a hit are unable to channel for that round. The use is not lost, but the action is wasted.

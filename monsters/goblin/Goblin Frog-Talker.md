@@ -16,7 +16,7 @@ full-attack: "Dagger +2 melee (1d3–2/19–20); or javelin +7 ranged (1d4–2)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Hexes (evil eye [-2, 6 rounds], misfortune [1 round], mud witch, poison steep, swamp hag)"
 special-qualities: "Darkvision 60 ft., witch's familiar (frog)"
-saves: "Fort +5, Ref +6, Will +7"
+defenses: "Fort 15, Ref 16, Will 17"
 abilities: "Str 6, Dex 17, Con 14, Int 16, Wis 12, Cha 8"
 skills: "Animal Handling +7, Athletics +1, Craft (alchemy) +9, Intimidation +8, Mysticism +12, Perception +7, Stealth +17"
 skill-ranks: "Animal Handling 0, Athletics 3, Craft (alchemy) 3, Intimidation 6, Mysticism 6, Perception 3, Stealth 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Witch#^witch-hex|Hexes]] ([[rangoric-srd/class-options/hexes/Evil Eye (Hex)|evil eye]] \[-2, 6 rounds\], [[rangoric-srd/class-options/hexes/Misfortune (Hex)|misfortune]] \[1 round\], [[rangoric-srd/class-options/hexes/Mud Witch (Hex)|mud witch]], [[rangoric-srd/class-options/hexes/Poison Steep (Hex)|poison steep]], [[rangoric-srd/class-options/hexes/Swamp Hag (Hex)|swamp hag]])
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Witch#^witch-familiar|witch's familiar]] (frog)
-- **Saves**: Fort +5, Ref +6, Will +7
+- **Defenses**: Fort 15, Ref 16, Will 17
 - **Abilities**: Str 6, Dex 17, Con 14, Int 16, Wis 12, Cha 8
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Athletics|Athletics]] +1, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +17
 - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Extra Hex|Extra Hex]], [[rangoric-srd/feats/Toughness|Toughness]]
@@ -81,4 +81,4 @@ A goblin frog-talker speaks Common, Giant, Goblin, and Orc.
 
 **Base Statistics**: Without mage armor, the frog-talker's statistics are **AC** 15, touch 15, flat-footed 12.
 
-**Witch spells prepared** (CL 6th; concentration +9): 3rd—_[[rangoric-srd/spells/Blink|blink]]_, _[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_ (DC 16), _[[rangoric-srd/spells/Spit Venom|spit venom]]_ (DC 16); 2nd—_[[rangoric-srd/spells/Feast of Ashes|feast of ashes]]_ (DC 15), _[[rangoric-srd/spells/Frost Fall|frost fall]]_ (DC 15), _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Vomit Swarm|vomit swarm]]_; 1st—_[[rangoric-srd/spells/Command|command]]_ (DC 14), _[[rangoric-srd/spells/Mage Armor|mage armor]], [[rangoric-srd/spells/Obscuring Mist|obscuring mist]], [[rangoric-srd/spells/Sleep|sleep]]_ (DC 14); 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Daze|daze]]_ (DC 13), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Touch of Fatigue|touch of fatigue]]_ (DC 13); **Patron**: [[rangoric-srd/class-options/patrons/Deception Patron|deception]].
+**Witch spells prepared** (CL 6th; concentration +9): 3rd—_[[rangoric-srd/spells/Blink|blink]]_, _[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]_ (+6 vs Reflex), _[[rangoric-srd/spells/Spit Venom|spit venom]]_ (+6 vs Fortitude); 2nd—_[[rangoric-srd/spells/Feast of Ashes|feast of ashes]]_ (+5 vs Fortitude), _[[rangoric-srd/spells/Frost Fall|frost fall]]_ (+5 vs Fortitude), _[[rangoric-srd/spells/Invisibility|invisibility]]_, _[[rangoric-srd/spells/Vomit Swarm|vomit swarm]]_; 1st—_[[rangoric-srd/spells/Command|command]]_ (+4 vs Will), _[[rangoric-srd/spells/Mage Armor|mage armor]], [[rangoric-srd/spells/Obscuring Mist|obscuring mist]], [[rangoric-srd/spells/Sleep|sleep]]_ (+4 vs Will); 0 (at will)—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, _[[rangoric-srd/spells/Daze|daze]]_ (+3 vs Will), _[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Touch of Fatigue|touch of fatigue]]_ (+3 vs Fortitude); **Patron**: [[rangoric-srd/class-options/patrons/Deception Patron|deception]].

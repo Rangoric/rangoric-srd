@@ -16,7 +16,7 @@ full-attack: "Masterwork dagger +9/+4 melee (1d3+1/19–20); or +1 light crossbo
 space-reach: "5 ft./5 ft."
 special-attacks: "+1 on attack rolls against goblinoid and reptilian humanoids, favored enemy (elves +2, goblinoids +4)"
 special-qualities: "Low-light vision, defensive training (+4 dodge bonus to AC vs. giants), favored terrain (underground +2), hunter's bond (companion), track +3, wild empathy +6, immunity to poison"
-saves: "Fort +6, Ref +8, Will +3 (+2 vs. illusions)"
+defenses: "Fort 16, Ref 18, Will 13 (+2 vs. illusions)"
 abilities: "Str 12, Dex 16, Con 12, Int 12, Wis 13, Cha 10"
 skills: "Acrobatics +8, Athletics +6 (+2 jumping), Dungeoneering +10, Engineering +4, Fieldcraft +10, Nature +10, Perception +12, Stealth +15"
 skill-ranks: "Acrobatics 2, Athletics 2, Dungeoneering 6, Engineering 3, Fieldcraft 6, Nature 6, Perception 8, Stealth 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/races/Gnome|+1 on attack rolls against goblinoid and reptilian humanoids]], [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (elves +2, goblinoids +4)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Gnome#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (underground +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companion), [[rangoric-srd/classes/Ranger#^ranger-track|track]] +3, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +6, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to poison
-- **Saves**: Fort +6, Ref +8, Will +3 (+2 vs. illusions)
+- **Defenses**: Fort 16, Ref 18, Will 13 (+2 vs. illusions)
 - **Abilities**: Str 12, Dex 16, Con 12, Int 12, Wis 13, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +6 (+2 jumping), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +10, [[rangoric-srd/skills/Engineering|Engineering]] +4, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10, [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +15
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Reload|Rapid Reload]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (light crossbow)

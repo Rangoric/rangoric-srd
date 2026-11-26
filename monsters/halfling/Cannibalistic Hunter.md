@@ -16,7 +16,7 @@ full-attack: "Masterwork scimitar +15/+10 melee (1d4+3/18–20); or +1 composite
 space-reach: "5 ft./5 ft."
 special-attacks: "Rage (24 rounds/day), rage powers (clear mind, internal fortitude, raging climber +10, rolling dodge +2, superstition +4)"
 special-qualities: "Improved uncanny dodge, trap sense +3, fast movement, damage reduction 2/-, immunity to nauseated and sickened"
-saves: "Fort +13, Ref +10, Will +8 (+4 vs. spells and spell-like or supernatural abilities, +2 vs. fear)"
+defenses: "Fort 23, Ref 20, Will 18 (+4 vs. spells and spell-like or supernatural abilities, +2 vs. fear)"
 abilities: "Str 16, Dex 20, Con 18, Int 10, Wis 12, Cha 10"
 skills: "Acrobatics +20, Athletics +30, Fieldcraft +5, Perception +14, Stealth +21"
 skill-ranks: "Acrobatics 12, Athletics 24, Fieldcraft 1, Perception 10, Stealth 7"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (24 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Clear Mind (Rage Power)|clear mind]], [[rangoric-srd/class-options/rage-powers/Internal Fortitude (Rage Power)|internal fortitude]], [[rangoric-srd/class-options/rage-powers/Raging Climber (Rage Power)|raging climber]] +10, [[rangoric-srd/class-options/rage-powers/Rolling Dodge (Rage Power)|rolling dodge]] +2, [[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] +4)
 - **Special Qualities**: [[rangoric-srd/classes/Barbarian#^barbarian-improved-uncanny-dodge|Improved uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] +3, [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]], [[rangoric-srd/classes/Barbarian#^barbarian-damage-reduction|damage reduction]] 2/-, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to nauseated and sickened
-- **Saves**: Fort +13, Ref +10, Will +8 (+4 vs. spells and spell-like or supernatural abilities, +2 vs. fear)
+- **Defenses**: Fort 23, Ref 20, Will 18 (+4 vs. spells and spell-like or supernatural abilities, +2 vs. fear)
 - **Abilities**: Str 16, Dex 20, Con 18, Int 10, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Athletics|Athletics]] +30, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +21
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (composite longbow), [[rangoric-srd/feats/Manyshot|Manyshot]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]]

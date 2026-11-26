@@ -15,7 +15,7 @@ full-attack: "2 slams +19 melee (2d10+7 plus cursed wound)"
 space-reach: "10 ft./10 ft."
 special-attacks: "Berserk, haste"
 special-qualities: "Darkvision 60 ft., low-light vision, damage reduction 10/adamantine and bludgeoning, immunity to magic, construct traits"
-saves: "Fort +4, Ref +3, Will +4"
+defenses: "Fort 14, Ref 13, Will 14"
 abilities: "Str 24, Dex 9, Con —, Int —, Wis 11, Cha 1"
 skills: "—"
 skill-ranks: ""
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: Berserk, haste
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine and bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]]
-- **Saves**: Fort +4, Ref +3, Will +4
+- **Defenses**: Fort 14, Ref 13, Will 14
 - **Abilities**: Str 24, Dex 9, Con —, Int —, Wis 11, Cha 1
 - **Skills**: —
 - **Feats**: —
@@ -81,7 +81,7 @@ CL 11th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/
 
 **Immunity to Magic (Ex)**: A clay golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
 
-- A _[[rangoric-srd/spells/Move Earth|move earth]]_ spell drives the golem back 120 feet and deals 3d12 points of damage to it (no save).
-- A _[[rangoric-srd/spells/Disintegrate|disintegrate]]_ spell slows the golem (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 1d6 rounds and deals 1d12 points of damage (no save).
-- An _[[rangoric-srd/spells/Earthquake|earthquake]]_ spell cast directly at a clay golem stops it from moving on its next turn and deals 5d10 points of damage (no save).
-- Any magical attack against a clay golem that deals acid damage heals 1 point of damage for every 3 points of damage it would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A clay golem gets no saving throw against magical attacks that deal acid damage.
+- A _[[rangoric-srd/spells/Move Earth|move earth]]_ spell drives the golem back 120 feet and deals 3d12 points of damage to it (no attack against a defense).
+- A _[[rangoric-srd/spells/Disintegrate|disintegrate]]_ spell slows the golem (as the _[[rangoric-srd/spells/Slow|slow]]_ spell) for 1d6 rounds and deals 1d12 points of damage (no attack against a defense).
+- An _[[rangoric-srd/spells/Earthquake|earthquake]]_ spell cast directly at a clay golem stops it from moving on its next turn and deals 5d10 points of damage (no attack against a defense).
+- Any magical attack against a clay golem that deals acid damage heals 1 point of damage for every 3 points of damage it would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. Magical attacks that deal acid damage hit a clay golem's defenses automatically.

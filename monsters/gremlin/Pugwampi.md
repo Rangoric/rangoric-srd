@@ -15,7 +15,7 @@ full-attack: "Dagger +3 melee (1d2–4/19–20); or shortbow +3 ranged (1d3–4/
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 120 ft., low-light vision, unluck (20 ft.), damage reduction 2/cold iron, spell resistance 7"
-saves: "Fort +0, Ref +3, Will +4"
+defenses: "Fort 10, Ref 13, Will 14"
 abilities: "Str 3, Dex 13, Con 11, Int 10, Wis 14, Cha 6"
 skills: "Animal Handling +2, Craft (traps) +4, Deception +2, Engineering +2, Perception +6 (+2 Listening), Stealth +17"
 skill-ranks: "Animal Handling 1, Craft (traps) 1, Deception 1, Engineering 1, Perception 1, Stealth 1"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 2-1/2 ft./0 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], unluck (20 ft.), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 7
-- **Saves**: Fort +0, Ref +3, Will +4
+- **Defenses**: Fort 10, Ref 13, Will 14
 - **Abilities**: Str 3, Dex 13, Con 11, Int 10, Wis 14, Cha 6
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +2, [[rangoric-srd/skills/Craft|Craft]] (traps) +4, [[rangoric-srd/skills/Deception|Deception]] +2, [[rangoric-srd/skills/Engineering|Engineering]] +2, [[rangoric-srd/skills/Perception|Perception]] +6 (+2 Listening), [[rangoric-srd/skills/Stealth|Stealth]] +17
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
@@ -72,6 +72,6 @@ Pugwampis speak Gnoll and Undercommon.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st; concentration -1): At will—_[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_, _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_; 1/day—_[[rangoric-srd/spells/Shatter|shatter]]_ (DC 10).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 1st; concentration -1): At will—_[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_, _[[rangoric-srd/spells/Speak with Animals|speak with animals]]_; 1/day—_[[rangoric-srd/spells/Shatter|shatter]]_ (+0).
 
-**Unluck Aura (Su)**: A pugwampi radiates an aura of unluck to a radius of 20 feet. Any creature in this area must roll two d20s whenever a situation calls for a d20 roll (such as an attack roll, a skill check, or a saving throw) and must use the lower of the two results generated. This is a mind-affecting effect that does not work on animals, other gremlins, or gnolls. Any character who gains any sort of luck bonus (such as that granted by a luckstone or divine favor) is immune to the pugwampi unluck aura.
+**Unluck Aura (Su)**: A pugwampi radiates an aura of unluck to a radius of 20 feet. Any creature in this area must roll two d20s whenever a situation calls for a d20 roll (such as an attack roll or a skill check) and must use the lower of the two results generated, and attacks against its defenses roll twice and use the higher. This is a mind-affecting effect that does not work on animals, other gremlins, or gnolls. Any character who gains any sort of luck bonus (such as that granted by a luckstone or divine favor) is immune to the pugwampi unluck aura.

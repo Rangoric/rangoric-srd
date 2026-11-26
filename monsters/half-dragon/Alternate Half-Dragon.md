@@ -23,7 +23,7 @@ This is the second version of the half-dragon template; the first is [[rangoric-
 
 **Challenge Rating**: Same as the base creature + 2 (minimum 3).
 
-**Type**: Creature type changes to [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|dragon]]. Do not recalculate HD, BAB, or saves.
+**Type**: Creature type changes to [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|dragon]]. Do not recalculate HD, BAB, or defenses.
 
 **Armor Class**: Natural armor improves by +4.
 
@@ -33,7 +33,7 @@ This is the second version of the half-dragon template; the first is [[rangoric-
 
 **Melee**: A half-dragon has two claw attacks and a bite attack. If the base creature can use manufactured weapons, the half-dragon can as well. A new claw or bite attack deals damage as appropriate for the half-dragon’s size (see [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^natural-weapons|natural attacks]]).
 
-**Special Abilities**: A half-dragon retains all the special attacks of the base creature and gains a [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]] usable once per day based on the dragon variety (see below). The breath weapon deals 1d6 hit points of damage per racial HD possessed by the half-dragon (Reflex half; DC 10 + 1/2 creature’s racial HD + creature’s Con modifier).
+**Special Abilities**: A half-dragon retains all the special attacks of the base creature and gains a [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]] usable once per day based on the dragon variety (see below). The breath weapon deals 1d6 hit points of damage per racial HD possessed by the half-dragon (vs Reflex, a miss halving it; attack bonus 1/2 the creature’s racial HD + the creature’s Con modifier).
 
 | Dragon Variety  | Breath Weapon               |
 | --------------- | --------------------------- |

@@ -15,7 +15,7 @@ full-attack: "Bite +3 melee (1d4+1 plus grab) and 2 claws +4 melee (1d3+1 plus t
 space-reach: "5 ft./5 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Darkvision 120 ft., low-light vision, kneecapper, damage reduction 5/cold iron, spell resistance 13"
-saves: "Fort +3, Ref +7, Will +2"
+defenses: "Fort 13, Ref 17, Will 12"
 abilities: "Str 13, Dex 18, Con 15, Int 8, Wis 9, Cha 12"
 skills: "Acrobatics +10, Athletics +9, Craft (traps) +9, Intimidation +8, Perception +9, Stealth +14"
 skill-ranks: "Acrobatics 3, Athletics 5, Craft (traps) 7, Intimidation 3, Perception 3, Stealth 3"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Kneecapper|kneecapper]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 13
-- **Saves**: Fort +3, Ref +7, Will +2
+- **Defenses**: Fort 13, Ref 17, Will 12
 - **Abilities**: Str 13, Dex 18, Con 15, Int 8, Wis 9, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Craft|Craft]] (traps) +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +14
 - **Feats**: [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
@@ -76,6 +76,6 @@ Nuglubs speak Undercommon.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +4): At will—_[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_; 1/hour—_[[rangoric-srd/spells/Heat Metal|heat metal]]_ (DC 13), _[[rangoric-srd/spells/Shocking Grasp|shocking grasp]], [[rangoric-srd/spells/Snare|snare]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +4): At will—_[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_; 1/hour—_[[rangoric-srd/spells/Heat Metal|heat metal]]_ (+3 vs Will), _[[rangoric-srd/spells/Shocking Grasp|shocking grasp]], [[rangoric-srd/spells/Snare|snare]]_.
 
 **[[rangoric-srd/monsters/abilities/Kneecapper|Kneecapper]] (Ex)**: A nuglub has a +4 racial bonus on combat maneuver checks to trip an opponent.

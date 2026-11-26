@@ -16,7 +16,7 @@ full-attack: "+1 horsechopper +17/+12 melee (1d10+9/19–20/×3); or composite l
 space-reach: "5 ft./5 ft."
 special-attacks: "Weapon training (polearms +2, bows +1)"
 special-qualities: "Darkvision 60 ft., bravery +3, armor training 2"
-saves: "Fort +10, Ref +7, Will +7 (+3 vs. fear)"
+defenses: "Fort 20, Ref 17, Will 17 (+3 vs. fear)"
 abilities: "Str 18, Dex 16, Con 14, Int 10, Wis 12, Cha 6"
 skills: "Animal Handling +4, Intimidation +6, Perception +11, Stealth +9"
 skill-ranks: "Animal Handling 0, Intimidation 5, Perception 7, Stealth 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (polearms +2, bows +1)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +3, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 2
-- **Saves**: Fort +10, Ref +7, Will +7 (+3 vs. fear)
+- **Defenses**: Fort 20, Ref 17, Will 17 (+3 vs. fear)
 - **Abilities**: Str 18, Dex 16, Con 14, Int 10, Wis 12, Cha 6
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +9
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Greater Trip|Greater Trip]], [[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]] (horsechopper), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (horsechopper), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Tripping Strike|Tripping Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (horsechopper), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (horsechopper)

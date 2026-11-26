@@ -14,9 +14,9 @@ cmd: "14"
 attack: "+1 heavy mace +6 melee (1d6+1) or light crossbow +7 ranged (1d6/19–20)"
 full-attack: "+1 heavy mace +6 melee (1d6+1); or light crossbow +7 ranged (1d6/19–20)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Channel positive energy 7/day (DC 15, 3d6), turn undead, charm domain +4 Cha (1/day)"
+special-attacks: "Channel positive energy 7/day (+5 vs Will, 3d6), turn undead, charm domain +4 Cha (1/day)"
 special-qualities: "Aura"
-saves: "Fort +8, Ref +4, Will +9 (+2 vs. fear)"
+defenses: "Fort 18, Ref 14, Will 19 (+2 vs. fear)"
 abilities: "Str 11, Dex 12, Con 14, Int 8, Wis 16, Cha 14"
 skills: "Acrobatics +0, Athletics –1, Medicine +9, Perception +5, Persuasion +8"
 skill-ranks: "Acrobatics 0, Athletics 0, Medicine 3, Perception 2, Persuasion 3"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: +1 [[rangoric-srd/equipment/weapons/Heavy Mace|heavy mace]] +6 melee (1d6+1) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +7 ranged (1d6/19–20)
 - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Heavy Mace|heavy mace]] +6 melee (1d6+1); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +7 ranged (1d6/19–20)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel positive energy]] 7/day (DC 15, 3d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|turn undead]], [[rangoric-srd/class-options/domains/Charm Domain|charm domain]] +4 Cha (1/day)
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel positive energy]] 7/day (+5 vs Will, 3d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|turn undead]], [[rangoric-srd/class-options/domains/Charm Domain|charm domain]] +4 Cha (1/day)
 - **Special Qualities**: [[rangoric-srd/classes/Cleric#^cleric-aura|Aura]]
-- **Saves**: Fort +8, Ref +4, Will +9 (+2 vs. fear)
+- **Defenses**: Fort 18, Ref 14, Will 19 (+2 vs. fear)
 - **Abilities**: Str 11, Dex 12, Con 14, Int 8, Wis 16, Cha 14
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +0, [[rangoric-srd/skills/Athletics|Athletics]] –1, [[rangoric-srd/skills/Medicine|Medicine]] +9, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +8
 - **Feats**: [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Turn Undead|Turn Undead]]
@@ -73,4 +73,4 @@ A carousing champion speaks Common and Halfling.
 
 **Domain Spell-Like Abilities** (CL 6th; concentration +9): 6/day—[[rangoric-srd/class-options/domains/Charm Domain|dazing touch]], [[rangoric-srd/class-options/domains/Chaos Domain|touch of chaos]].
 
-**Cleric spells prepared** (CL 6th; concentration +9): 3rd—_[[rangoric-srd/spells/Locate Object|locate object]]_, _[[rangoric-srd/spells/Searing Light|searing light]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_ <sup>D</sup>, _[[rangoric-srd/spells/Summon Monster III|summon monster III]]_; 2nd—_[[rangoric-srd/spells/Aid|aid]]_, _[[rangoric-srd/spells/Calm Emotions|calm emotions]]_ <sup>D</sup> (DC 15), _[[rangoric-srd/spells/Eagle’s Splendor|eagle's splendor]]_, _[[rangoric-srd/spells/Sound Burst|sound burst]]_ (DC 15), _[[rangoric-srd/spells/Zone of Truth|zone of truth]]_ (DC 15); 1st—_[[rangoric-srd/spells/Bless Water|bless water]]_, _[[rangoric-srd/spells/Charm Person|charm person]]_ <sup>D</sup> (DC 14), _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Detect Undead|detect undead]]_, _[[rangoric-srd/spells/Hide from Undead|hide from undead]]_; 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Detect Poison|detect poison]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Virtue|virtue]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]], [[rangoric-srd/class-options/domains/Charm Domain|Charm]].
+**Cleric spells prepared** (CL 6th; concentration +9): 3rd—_[[rangoric-srd/spells/Locate Object|locate object]]_, _[[rangoric-srd/spells/Searing Light|searing light]]_, _[[rangoric-srd/spells/Suggestion|suggestion]]_ <sup>D</sup>, _[[rangoric-srd/spells/Summon Monster III|summon monster III]]_; 2nd—_[[rangoric-srd/spells/Aid|aid]]_, _[[rangoric-srd/spells/Calm Emotions|calm emotions]]_ <sup>D</sup> (+5 vs Will), _[[rangoric-srd/spells/Eagle’s Splendor|eagle's splendor]]_, _[[rangoric-srd/spells/Sound Burst|sound burst]]_ (+5 vs Fortitude), _[[rangoric-srd/spells/Zone of Truth|zone of truth]]_ (+5 vs Will); 1st—_[[rangoric-srd/spells/Bless Water|bless water]]_, _[[rangoric-srd/spells/Charm Person|charm person]]_ <sup>D</sup> (+4 vs Will), _[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]_, _[[rangoric-srd/spells/Detect Undead|detect undead]]_, _[[rangoric-srd/spells/Hide from Undead|hide from undead]]_; 0 (at will)—_[[rangoric-srd/spells/Detect Magic|detect magic]]_, _[[rangoric-srd/spells/Detect Poison|detect poison]]_, _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Virtue|virtue]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]], [[rangoric-srd/class-options/domains/Charm Domain|Charm]].

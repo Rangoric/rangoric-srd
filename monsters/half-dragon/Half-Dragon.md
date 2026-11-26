@@ -19,7 +19,7 @@ Half-dragon creatures are always more formidable than others of their kind that 
 
 A half-dragon uses all the base creature’s statistics and special abilities except as noted here.
 
-**Size and Type**: The creature’s type changes to [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|dragon]]. Size is unchanged. Do not recalculate base attack bonus or saves.
+**Size and Type**: The creature’s type changes to [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|dragon]]. Size is unchanged. Do not recalculate base attack bonus or defenses.
 
 **Hit Dice**: Increase base creature’s racial HD by one die size, to a maximum of d12. Do not increase class HD.
 
@@ -45,7 +45,7 @@ A half-dragon uses all the base creature’s statistics and special abilities ex
 | Gargantuan | 3d6         | 2d6         |
 | Colossal   | 4d6         | 3d6         |
 
-**Special Attacks**: A half-dragon retains all the special attacks of the base creature and gains a [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]] based on the dragon variety (see the table below), usable once per day. A half-dragon’s breath weapon deals 6d8 points of damage. A successful Reflex save (DC 10 + 1/2 half-dragon’s racial HD + half-dragon’s Con modifier) reduces damage by half.
+**Special Attacks**: A half-dragon retains all the special attacks of the base creature and gains a [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]] based on the dragon variety (see the table below), usable once per day. A half-dragon’s breath weapon deals 6d8 points of damage. It attacks Reflex (attack bonus 1/2 the half-dragon’s racial HD + the half-dragon’s Con modifier), and a miss reduces damage by half.
 
 | Dragon Variety | Breath Weapon                        |
 | -------------- | ------------------------------------ |

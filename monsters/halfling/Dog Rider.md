@@ -16,7 +16,7 @@ full-attack: "Lance +9 melee (1d6+4/×3); or +1 halfling sling staff +11 ranged 
 space-reach: "5 ft./5 ft. (10 ft. with lance)"
 special-attacks: "Rage (11 rounds/day), rage powers (superstition +3, surprise accuracy +2)"
 special-qualities: "Trap sense +1, uncanny dodge, fast movement"
-saves: "Fort +8, Ref +5, Will +5 (+3 vs. spells and spell-like or supernatural abilities, +2 vs. fear)"
+defenses: "Fort 18, Ref 15, Will 15 (+3 vs. spells and spell-like or supernatural abilities, +2 vs. fear)"
 abilities: "Str 18, Dex 16, Con 17, Int 10, Wis 12, Cha 10"
 skills: "Acrobatics +11, Animal Handling +9, Fieldcraft +5, Perception +10, Stealth +12"
 skill-ranks: "Acrobatics 5, Animal Handling 3, Fieldcraft 1, Perception 6, Stealth 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with lance)
 - **Special Attacks**: [[rangoric-srd/classes/Barbarian#^barbarian-rage|Rage]] (11 rounds/day), [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|rage powers]] ([[rangoric-srd/class-options/rage-powers/Superstition (Rage Power)|superstition]] +3, [[rangoric-srd/class-options/rage-powers/Surprise Accuracy (Rage Power)|surprise accuracy]] +2)
 - **Special Qualities**: [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|Trap sense]] +1, [[rangoric-srd/classes/Barbarian#^barbarian-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Barbarian#^barbarian-fast-movement|fast movement]]
-- **Saves**: Fort +8, Ref +5, Will +5 (+3 vs. spells and spell-like or supernatural abilities, +2 vs. fear)
+- **Defenses**: Fort 18, Ref 15, Will 15 (+3 vs. spells and spell-like or supernatural abilities, +2 vs. fear)
 - **Abilities**: Str 18, Dex 16, Con 17, Int 10, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (halfling sling staff)

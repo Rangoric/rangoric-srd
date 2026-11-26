@@ -14,9 +14,9 @@ cmd: "18"
 attack: "Heavy mace +4 melee (1d6–2) or light crossbow +12 ranged (1d6/19–20)"
 full-attack: "Heavy mace +4 melee (1d6–2); or light crossbow +12 ranged (1d6/19–20)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Bomb 10/day (4d6+3 fire, DC 16)"
+special-attacks: "Bomb 10/day (4d6+3 fire, +6 vs Reflex)"
 special-qualities: "Darkvision 60 ft., alchemy (alchemy crafting +7, identify potions), discoveries (precise bombs [3 squares], tanglefoot bomb, wings), mutagen (+4/-2, +2 natural, 70 minutes), poison use, swift alchemy, swift poisoning, resistance to fire 7"
-saves: "Fort +7, Ref +12, Will +3 (+2 vs. fire, +4 vs. poison)"
+defenses: "Fort 17, Ref 22, Will 13 (+2 vs. fire, +4 vs. poison)"
 abilities: "Str 6, Dex 22, Con 13, Int 16, Wis 10, Cha 8"
 skills: "Animal Handling +10, Arcana +7, Craft (alchemy) +13, Emulation +5, Engineering +16, Fieldcraft +4, Intimidation +6 (+8 vs. goblins), Medicine +4, Mysticism +11, Nature +7, Perception +10, Sleight of Hand +11, Stealth +21"
 skill-ranks: "Animal Handling 1, Arcana 1, Craft (alchemy) 7, Emulation 3, Engineering 7, Fieldcraft 1, Intimidation 4, Medicine 1, Mysticism 5, Nature 1, Perception 7, Sleight of Hand 2, Stealth 8"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/weapons/Heavy Mace|Heavy mace]] +4 melee (1d6–2) or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +12 ranged (1d6/19–20)
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Heavy Mace|Heavy mace]] +4 melee (1d6–2); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +12 ranged (1d6/19–20)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Alchemist#^alchemist-bomb|Bomb]] 10/day (4d6+3 fire, DC 16)
+- **Special Attacks**: [[rangoric-srd/classes/Alchemist#^alchemist-bomb|Bomb]] 10/day (4d6+3 fire, +6 vs Reflex)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Alchemist#^alchemist-alchemy|alchemy]] (alchemy crafting +7, identify potions), [[rangoric-srd/classes/Alchemist#^alchemist-discovery|discoveries]] ([[rangoric-srd/class-options/discoveries/Precise Bombs (Discovery)|precise bombs]] \[3 squares\], [[rangoric-srd/class-options/discoveries/Tanglefoot Bomb (Discovery)|tanglefoot bomb]], [[rangoric-srd/class-options/discoveries/Wings (Discovery)|wings]]), [[rangoric-srd/classes/Alchemist#^alchemist-mutagen|mutagen]] (+4/-2, +2 natural, 70 minutes), [[rangoric-srd/classes/Alchemist#^alchemist-poison-use|poison use]], [[rangoric-srd/classes/Alchemist#^alchemist-swift-alchemy|swift alchemy]], [[rangoric-srd/classes/Alchemist#^alchemist-swift-poisoning|swift poisoning]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 7
-- **Saves**: Fort +7, Ref +12, Will +3 (+2 vs. fire, +4 vs. poison)
+- **Defenses**: Fort 17, Ref 22, Will 13 (+2 vs. fire, +4 vs. poison)
 - **Abilities**: Str 6, Dex 22, Con 13, Int 16, Wis 10, Cha 8
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +13, [[rangoric-srd/skills/Emulation|Emulation]] +5, [[rangoric-srd/skills/Engineering|Engineering]] +16, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +6 (+8 vs. goblins), [[rangoric-srd/skills/Medicine|Medicine]] +4, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Nature|Nature]] +7, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +21
 - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Fire Tamer|Fire Tamer]], [[rangoric-srd/feats/Flame Heart|Flame Heart]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Throw Anything|Throw Anything]]
@@ -79,4 +79,4 @@ A goblin stickylord speaks Aklo, Aquan, Goblin, and Undercommon.
 
 **During Combat**: The goblin patiently quaffs his mutagen, casts buff spells on himself, and then proceeds to bomb his enemies.
 
-**Alchemist extracts prepared** (CL 7th): 3rd—_[[rangoric-srd/spells/Heroism|heroism]], [[rangoric-srd/spells/Resinous Skin|resinous skin]]_ (DC 16); 2nd—_[[rangoric-srd/spells/Alchemical Allocation|alchemical allocation]]_ (2), _[[rangoric-srd/spells/Barkskin|barkskin]], [[rangoric-srd/spells/See Invisibility|see invisibility]]_; 1st—_[[rangoric-srd/spells/Disguise Self|disguise self]], [[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]], [[rangoric-srd/spells/Reduce Person|reduce person]]_ (DC 14), _[[rangoric-srd/spells/Shield|shield]], [[rangoric-srd/spells/Targeted Bomb Admixture|targeted bomb admixture]]_.
+**Alchemist extracts prepared** (CL 7th): 3rd—_[[rangoric-srd/spells/Heroism|heroism]], [[rangoric-srd/spells/Resinous Skin|resinous skin]]_ (+6); 2nd—_[[rangoric-srd/spells/Alchemical Allocation|alchemical allocation]]_ (2), _[[rangoric-srd/spells/Barkskin|barkskin]], [[rangoric-srd/spells/See Invisibility|see invisibility]]_; 1st—_[[rangoric-srd/spells/Disguise Self|disguise self]], [[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]], [[rangoric-srd/spells/Reduce Person|reduce person]]_ (+4 vs Fortitude), _[[rangoric-srd/spells/Shield|shield]], [[rangoric-srd/spells/Targeted Bomb Admixture|targeted bomb admixture]]_.
