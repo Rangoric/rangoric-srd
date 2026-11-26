@@ -18,7 +18,7 @@ full-attack: "Longsword +2 melee (1d6/19–20) or light crossbow +3 ranged (1d6/
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Gnome traits"
-saves: "Fort +4, Ref +0, Will –1"
+defenses: "Fort 14, Ref 10, Will 9"
 abilities: "Str 11, Dex 11, Con 14, Int 10, Wis 9, Cha 10"
 skills: "Perception +2, Stealth +4"
 skill-ranks: "Perception 1, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: Gnome traits
-- **Saves**: Fort +4, Ref +0, Will –1
+- **Defenses**: Fort 14, Ref 10, Will 9
 - **Abilities**: Str 11, Dex 11, Con 14, Int 10, Wis 9, Cha 10
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +4
 - **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (light crossbow)

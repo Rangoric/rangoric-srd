@@ -13,9 +13,9 @@ cmd: "17 (21 vs. trip)"
 attack: "Bite +5 melee (1d6+6 plus disease, paralysis, and trip)"
 full-attack: "Bite +5 melee (1d6+6 plus disease, paralysis, and trip)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Disease (DC 13), paralysis (1d4+1 rounds, DC 13, elves are immune to this effect)"
+special-attacks: "Disease (+3 vs Fortitude), paralysis (1d4+1 rounds, +3 vs Fortitude, elves are immune to this effect)"
 special-qualities: "Darkvision 60 ft., channel resistance +2, undead traits"
-saves: "Fort +2, Ref +2, Will +5"
+defenses: "Fort 12, Ref 12, Will 15"
 abilities: "Str 18, Dex 15, Con —, Int 2, Wis 14, Cha 14"
 skills: "Perception +6, Stealth +6"
 skill-ranks: "Perception 1, Stealth 1"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +5 melee (1d6+6 plus [[rangoric-srd/monsters/abilities/Disease|disease]], paralysis, and trip)
 - **Full Attack**: Bite +5 melee (1d6+6 plus [[rangoric-srd/monsters/abilities/Disease|disease]], paralysis, and trip)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]] (DC 13), [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] (1d4+1 rounds, DC 13, elves are immune to this effect)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]] (+3 vs Fortitude), [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] (1d4+1 rounds, +3 vs Fortitude, elves are immune to this effect)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +2, Ref +2, Will +5
+- **Defenses**: Fort 12, Ref 12, Will 15
 - **Abilities**: Str 18, Dex 15, Con —, Int 2, Wis 14, Cha 14
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +6
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]

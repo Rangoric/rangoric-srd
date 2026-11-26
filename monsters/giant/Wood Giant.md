@@ -16,7 +16,7 @@ full-attack: "Longsword +10/+5 melee (2d6+5/19–20) or2 slams +10 (1d6+5); or m
 space-reach: "10 ft./10 ft."
 special-attacks: "Spell-like abilities"
 special-qualities: "Low-light vision, rock catching"
-saves: "Fort +9, Ref +8, Will +7"
+defenses: "Fort 19, Ref 18, Will 17"
 abilities: "Str 20, Dex 21, Con 17, Int 14, Wis 15, Cha 12"
 skills: "Acrobatics +11, Athletics +14 (+18 jumping), Fieldcraft +8, Nature +8, Perception +11, Profession (farmer) +8, Stealth +7 (+11 in forests)"
 skill-ranks: "Acrobatics 3, Athletics 6, Fieldcraft 3, Nature 3, Perception 6, Profession (farmer) 3, Stealth 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]]
-- **Saves**: Fort +9, Ref +8, Will +7
+- **Defenses**: Fort 19, Ref 18, Will 17
 - **Abilities**: Str 20, Dex 21, Con 17, Int 14, Wis 15, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +14 (+18 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Nature|Nature]] +8, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Profession|Profession]] (farmer) +8, [[rangoric-srd/skills/Stealth|Stealth]] +7 (+11 in forests)
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]]
@@ -75,4 +75,4 @@ Wood giants speak Common, Giant and Sylvan.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +8): Constant—_[[rangoric-srd/spells/Pass without Trace|pass without trace]], [[rangoric-srd/spells/Speak with Animals|speak with animals]]_; 3/day—_[[rangoric-srd/spells/Charm Animal|charm animal]]_ (DC 12), _[[rangoric-srd/spells/Quench|quench]]_, _[[rangoric-srd/spells/Tree Shape|tree shape]]_; 1/day—_[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ (self only), _[[rangoric-srd/spells/Spike Growth|spike growth]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 7th; concentration +8): Constant—_[[rangoric-srd/spells/Pass without Trace|pass without trace]], [[rangoric-srd/spells/Speak with Animals|speak with animals]]_; 3/day—_[[rangoric-srd/spells/Charm Animal|charm animal]]_ (+2 vs Will), _[[rangoric-srd/spells/Quench|quench]]_, _[[rangoric-srd/spells/Tree Shape|tree shape]]_; 1/day—_[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ (self only), _[[rangoric-srd/spells/Spike Growth|spike growth]]_.

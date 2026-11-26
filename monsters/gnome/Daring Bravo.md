@@ -16,7 +16,7 @@ full-attack: "Masterwork rapier +6 melee (1d4+1/18–20); or dagger +5 melee (1d
 space-reach: "5 ft./5 ft."
 special-attacks: "+1 on attack rolls against goblinoid and reptilian humanoids"
 special-qualities: "Low-light vision, bravery +1, defensive training (+4 dodge bonus to AC vs. giants)"
-saves: "Fort +5, Ref +2, Will +0 (+2 vs. illusions, +1 vs. fear)"
+defenses: "Fort 15, Ref 12, Will 10 (+2 vs. illusions, +1 vs. fear)"
 abilities: "Str 12, Dex 15, Con 14, Int 13, Wis 10, Cha 10"
 skills: "Acrobatics +3 (–1 when jumping), Intimidation +4, Perception +2, Society +2, Stealth +7"
 skill-ranks: "Acrobatics 1, Intimidation 1, Perception 2, Society 1, Stealth 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/races/Gnome|+1 on attack rolls against goblinoid and reptilian humanoids]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/races/Gnome#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants)
-- **Saves**: Fort +5, Ref +2, Will +0 (+2 vs. illusions, +1 vs. fear)
+- **Defenses**: Fort 15, Ref 12, Will 10 (+2 vs. illusions, +1 vs. fear)
 - **Abilities**: Str 12, Dex 15, Con 14, Int 13, Wis 10, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +3 (–1 when jumping), [[rangoric-srd/skills/Intimidation|Intimidation]] +4, [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Society|Society]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +7
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

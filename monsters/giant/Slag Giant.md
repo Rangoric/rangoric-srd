@@ -16,7 +16,7 @@ full-attack: "Warhammer +15/+10 melee (2d6+12/×3); or 2 slams +14 melee (1d8+8)
 space-reach: "10 ft./10 ft."
 special-attacks: "Rock throwing (120 ft.)"
 special-qualities: "Low-light vision, rock catching, shattering blow, resistance to fire 30"
-saves: "Fort +11, Ref +6, Will +4"
+defenses: "Fort 21, Ref 16, Will 14"
 abilities: "Str 27, Dex 12, Con 19, Int 10, Wis 12, Cha 10"
 skills: "Craft (armor) +12, Craft (weapons) +12, Intimidation +8, Perception +9"
 skill-ranks: "Craft (armor) 9, Craft (weapons) 9, Intimidation 5, Perception 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (120 ft.)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Shattering Blow|shattering blow]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 30
-- **Saves**: Fort +11, Ref +6, Will +4
+- **Defenses**: Fort 21, Ref 16, Will 14
 - **Abilities**: Str 27, Dex 12, Con 19, Int 10, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (armor) +12, [[rangoric-srd/skills/Craft|Craft]] (weapons) +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +9
 - **Feats**: [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (warhammer), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (warhammer)

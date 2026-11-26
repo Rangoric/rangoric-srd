@@ -16,7 +16,7 @@ full-attack: "Masterwork scimitars +16/+16/+11/+11 melee (1d8+8/15–20); or 2 s
 space-reach: "10 ft./10 ft."
 special-attacks: "Rock throwing (100 ft.), scimitar training"
 special-qualities: "Low-light vision, rock catching, sandwalking, immunity to fire"
-saves: "Fort +9, Ref +11, Will +5"
+defenses: "Fort 19, Ref 21, Will 15"
 abilities: "Str 26, Dex 17, Con 21, Int 13, Wis 12, Cha 10"
 skills: "Acrobatics +16, Athletics +8 (+16 jumping), Fieldcraft +17, Intimidation +11, Perception +9"
 skill-ranks: "Acrobatics 10, Athletics 0, Fieldcraft 13, Intimidation 8, Perception 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (100 ft.), [[rangoric-srd/monsters/abilities/Scimitar Training|scimitar training]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Sandwalking|sandwalking]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire
-- **Saves**: Fort +9, Ref +11, Will +5
+- **Defenses**: Fort 19, Ref 21, Will 15
 - **Abilities**: Str 26, Dex 17, Con 21, Int 13, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Athletics|Athletics]] +8 (+16 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Perception|Perception]] +9
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (scimitar), [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (scimitar)

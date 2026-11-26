@@ -16,7 +16,7 @@ full-attack: "+1 spear +23/+18/+13 melee (2d6+17/×3); or rock +13 ranged (1d8+1
 space-reach: "10 ft./10 ft."
 special-attacks: "Combat style (archery), favored enemy (animals +2), rock throwing (120 ft.)"
 special-qualities: "Low-light vision, rock catching, track +1, wild empathy +1, immunity to cold, vulnerability to fire"
-saves: "Fort +18, Ref +9, Will +9"
+defenses: "Fort 28, Ref 19, Will 19"
 abilities: "Str 32, Dex 15, Con 23, Int 10, Wis 16, Cha 8"
 skills: "Fieldcraft +16, Perception +22, Stealth +22 (+26 in snow)"
 skill-ranks: "Fieldcraft 10, Perception 16, Stealth 21"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (archery), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (animals +2), [[rangoric-srd/monsters/abilities/Rock Throwing|rock throwing]] (120 ft.)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/classes/Ranger|track]] +1, [[rangoric-srd/classes/Ranger|wild empathy]] +1, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, vulnerability to fire
-- **Saves**: Fort +18, Ref +9, Will +9
+- **Defenses**: Fort 28, Ref 19, Will 19
 - **Abilities**: Str 32, Dex 15, Con 23, Int 10, Wis 16, Cha 8
 - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +22 (+26 in snow)
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Far Shot|Far Shot]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Track|Track]]

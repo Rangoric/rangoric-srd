@@ -16,7 +16,7 @@ full-attack: "Gaff +16/+11 melee (2d6+12); or 2 slams +16 melee (1d6+8); or rock
 space-reach: "10 ft./10 ft."
 special-attacks: "Rock throwing (120 ft.), spell-like abilities"
 special-qualities: "Low-light vision, rock catching"
-saves: "Fort +12, Ref +7, Will +8"
+defenses: "Fort 22, Ref 17, Will 18"
 abilities: "Str 27, Dex 17, Con 19, Int 8, Wis 15, Cha 12"
 skills: "Athletics +16, Perception +11, Stealth +5 (+13 in swamps)"
 skill-ranks: "Athletics 5, Perception 6, Stealth 3"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (120 ft.), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]]
-- **Saves**: Fort +12, Ref +7, Will +8
+- **Defenses**: Fort 22, Ref 17, Will 18
 - **Abilities**: Str 27, Dex 17, Con 19, Int 8, Wis 15, Cha 12
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +5 (+13 in swamps)
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -69,8 +69,8 @@ Marsh giants are hateful thugs bound together by a common zealotry. Powerful opp
 
 Some marsh giants mingle with abominations from the deepest seas, creatures they believe are sent by their god. This has further contributed to their racial degradation, but the immediate offspring of these unholy unions are powerful. Deformed with tentacles, scales, and other aquatic traits, these marsh giants are known as “brineborn.” They are advanced marsh giants with the aquatic subtype, a swim speed of 40 feet, the amphibious special quality, and the following additional spell-like abilities:
 
-Constant—_[[rangoric-srd/spells/Speak with Animals|speak with animals]]_; 3/day—_[[rangoric-srd/spells/Contagion|contagion]]_ (DC 15), _[[rangoric-srd/spells/Confusion|confusion]]_ (DC 14), _[[rangoric-srd/spells/Quench|quench]]_ (DC 14).
+Constant—_[[rangoric-srd/spells/Speak with Animals|speak with animals]]_; 3/day—_[[rangoric-srd/spells/Contagion|contagion]]_ (+5 vs Fortitude), _[[rangoric-srd/spells/Confusion|confusion]]_ (+4 vs Will), _[[rangoric-srd/spells/Quench|quench]]_ (+4 vs Will).
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +13): 3/day—_[[rangoric-srd/spells/Augury|augury]]_, _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (DC 15), _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +13): 3/day—_[[rangoric-srd/spells/Augury|augury]]_, _[[rangoric-srd/spells/Bestow Curse|bestow curse]]_ (+5 vs Will), _[[rangoric-srd/spells/Fog Cloud|fog cloud]]_.

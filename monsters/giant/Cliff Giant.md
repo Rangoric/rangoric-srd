@@ -16,7 +16,7 @@ full-attack: "Greatclub +17/+12 melee (2d8+12); or 2 slams +17 melee (1d8+8); or
 space-reach: "10 ft./10 ft."
 special-attacks: "Rock throwing (120 ft.), spell-like abilities"
 special-qualities: "Low-light vision, tremorsense 30 ft., rock catching, earth attunement, resistance to acid 10 and fire 10"
-saves: "Fort +9, Ref +7, Will +11"
+defenses: "Fort 19, Ref 17, Will 21"
 abilities: "Str 26, Dex 13, Con 21, Int 13, Wis 14, Cha 12"
 skills: "Animal Handling +11, Athletics +18, Fieldcraft +12, Nature +11, Perception +15, Persuasion +8, Society +5"
 skill-ranks: "Animal Handling 7, Athletics 7, Fieldcraft 7, Nature 7, Perception 10, Persuasion 4, Society 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (120 ft.), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Earth Attunement|earth attunement]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and fire 10
-- **Saves**: Fort +9, Ref +7, Will +11
+- **Defenses**: Fort 19, Ref 17, Will 21
 - **Abilities**: Str 26, Dex 13, Con 21, Int 13, Wis 14, Cha 12
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Society|Society]] +5
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (greatclub), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Athletics), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (rock)

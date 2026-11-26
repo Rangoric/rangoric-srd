@@ -13,9 +13,9 @@ cmd: "7"
 attack: "Bite +4 melee (1d3–3 plus disease and paralysis)"
 full-attack: "Bite +4 melee (1d3–3 plus disease and paralysis)"
 space-reach: "2 1/2 ft./0 ft."
-special-attacks: "Disease (DC 10), paralysis (1d4+1 rounds, DC 10, elves are immune to this effect)"
+special-attacks: "Disease (+0 vs Fortitude), paralysis (1d4+1 rounds, +0 vs Fortitude, elves are immune to this effect)"
 special-qualities: "Blindsense 20 ft., channel resistance +2, undead traits"
-saves: "Fort –1, Ref +1, Will +4"
+defenses: "Fort 9, Ref 11, Will 14"
 abilities: "Str 5, Dex 12, Con —, Int 2, Wis 13, Cha 8"
 skills: "Acrobatics +9, Perception +5 (+9 when using blindsense)"
 skill-ranks: "Acrobatics 1, Perception 1"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: Bite +4 melee (1d3–3 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
 - **Full Attack**: Bite +4 melee (1d3–3 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]])
 - **Space/Reach**: 2 1/2 ft./0 ft.
-- **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]] (DC 10), [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] (1d4+1 rounds, DC 10, elves are immune to this effect)
+- **Special Attacks**: [[rangoric-srd/monsters/abilities/Disease|Disease]] (+0 vs Fortitude), [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] (1d4+1 rounds, +0 vs Fortitude, elves are immune to this effect)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 20 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort –1, Ref +1, Will +4
+- **Defenses**: Fort 9, Ref 11, Will 14
 - **Abilities**: Str 5, Dex 12, Con —, Int 2, Wis 13, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Perception|Perception]] +5 (+9 when using blindsense)
 - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]

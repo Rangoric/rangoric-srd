@@ -16,7 +16,7 @@ full-attack: "Spear +19/+14/+9 melee (3d6+15/×3); or 2 slams +19 melee (1d8+10)
 space-reach: "15 ft./15 ft."
 special-attacks: "Rock throwing (140 ft.)"
 special-qualities: "Low-light vision, rock catching, spirit summoning, immunity to enchantment and illusion spells"
-saves: "Fort +15, Ref +9, Will +10"
+defenses: "Fort 25, Ref 19, Will 20"
 abilities: "Str 31, Dex 14, Con 22, Int 12, Wis 17, Cha 15"
 skills: "Athletics +15, Fieldcraft +22, Perception +14, Stealth +6 (+12 in undergrowth), Theology +11"
 skill-ranks: "Athletics 2, Fieldcraft 14, Perception 7, Stealth 9, Theology 7"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (140 ft.)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Spirit Summoning|spirit summoning]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to enchantment and illusion spells
-- **Saves**: Fort +15, Ref +9, Will +10
+- **Defenses**: Fort 25, Ref 19, Will 20
 - **Abilities**: Str 31, Dex 14, Con 22, Int 12, Wis 17, Cha 15
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +22, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +6 (+12 in undergrowth), [[rangoric-srd/skills/Theology|Theology]] +11
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Shot on the Run|Shot on the Run]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft, Perception)

@@ -16,7 +16,7 @@ full-attack: "+2 glaive +24/+19/+14 melee (2d8+15/×3); or rock +14 ranged (1d8+
 space-reach: "10 ft./20 ft. (10 ft. with pole fighting)"
 special-attacks: "Heated rock, pole fighting -4, rock throwing (120 ft.)"
 special-qualities: "Low-light vision, rock catching, immunity to fire, vulnerability to cold"
-saves: "Fort +19, Ref +6, Will +10"
+defenses: "Fort 29, Ref 16, Will 20"
 abilities: "Str 29, Dex 13, Con 25, Int 12, Wis 16, Cha 10"
 skills: "Athletics +22, Craft (armor) +9, Intimidation +20, Perception +23, Profession (soldier) +9"
 skill-ranks: "Athletics 10, Craft (armor) 5, Intimidation 17, Perception 17, Profession (soldier) 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./20 ft. (10 ft. with pole fighting)
 - **Special Attacks**: [[rangoric-srd/monsters/giant/Fire Giant|Heated rock]], [[rangoric-srd/class-options/archetypes/fighter/Polearm Master (Archetype)|pole fighting]] -4, [[rangoric-srd/monsters/abilities/Rock Throwing|rock throwing]] (120 ft.)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, vulnerability to cold
-- **Saves**: Fort +19, Ref +6, Will +10
+- **Defenses**: Fort 29, Ref 16, Will 20
 - **Abilities**: Str 29, Dex 13, Con 25, Int 12, Wis 16, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +22, [[rangoric-srd/skills/Craft|Craft]] (armor) +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Profession|Profession]] (soldier) +9
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Greater Overrun|Greater Overrun]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Smoking Boulder|Smoking Boulder]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (glaive)

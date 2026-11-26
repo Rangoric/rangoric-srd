@@ -16,7 +16,7 @@ full-attack: "+1 scorpion whip +14/+9 melee (1d4 +9); or masterwork javelin +8/+
 space-reach: "5 ft./5 ft."
 special-attacks: "Weapon training (flails +1)"
 special-qualities: "Darkvision 60 ft., bravery +1, armor training 1"
-saves: "Fort +10, Ref +3, Will +2 (+1 vs. fear)"
+defenses: "Fort 20, Ref 13, Will 12 (+1 vs. fear)"
 abilities: "Str 20, Dex 12, Con 15, Int 6, Wis 10, Cha 12"
 skills: "Intimidation +16"
 skill-ranks: "Intimidation 12"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Fighter#^fighter-weapon-training|Weapon training]] (flails +1)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1
-- **Saves**: Fort +10, Ref +3, Will +2 (+1 vs. fear)
+- **Defenses**: Fort 20, Ref 13, Will 12 (+1 vs. fear)
 - **Abilities**: Str 20, Dex 12, Con 15, Int 6, Wis 10, Cha 12
 - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +16
 - **Feats**: [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (whip), [[rangoric-srd/feats/Improved Whip Mastery|Improved Whip Mastery]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (whip), [[rangoric-srd/feats/Whip Mastery|Whip Mastery]]

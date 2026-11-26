@@ -14,9 +14,9 @@ cmd: "18"
 attack: "Masterwork falchion +8 melee (2d4+4/18–20) or javelin +5 ranged (1d6+3)"
 full-attack: "Masterwork falchion +8 melee (2d4+4/18–20); or javelin +5 ranged (1d6+3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Channel negative energy 6/day (DC 15, 2d6), rebuke undead, feat of strength (+4 Str, 1/day)"
+special-attacks: "Channel negative energy 6/day (+5 vs Will, 2d6), rebuke undead, feat of strength (+4 Str, 1/day)"
 special-qualities: "Darkvision 60 ft."
-saves: "Fort +7, Ref +2, Will +7"
+defenses: "Fort 17, Ref 12, Will 17"
 abilities: "Str 17, Dex 12, Con 10, Int 8, Wis 16, Cha 12"
 skills: "Mysticism +8"
 skill-ranks: "Mysticism 6"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Falchion|falchion]] +8 melee (2d4+4/18–20) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +5 ranged (1d6+3)
 - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Falchion|falchion]] +8 melee (2d4+4/18–20); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +5 ranged (1d6+3)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 6/day (DC 15, 2d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Strength Domain|feat of strength]] (+4 Str, 1/day)
+- **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 6/day (+5 vs Will, 2d6), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Strength Domain|feat of strength]] (+4 Str, 1/day)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
-- **Saves**: Fort +7, Ref +2, Will +7
+- **Defenses**: Fort 17, Ref 12, Will 17
 - **Abilities**: Str 17, Dex 12, Con 10, Int 8, Wis 16, Cha 12
 - **Skills**: [[rangoric-srd/skills/Mysticism|Mysticism]] +8
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Improved Channel|Improved Channel]]
@@ -71,4 +71,4 @@ A gnoll devotee speaks Gnoll.
 
 **Domain Spell-Like Abilities** (CL 4th; concentration +7): 6/day—[[rangoric-srd/class-options/domains/Trickery Domain|copycat]] (4 rounds), [[rangoric-srd/class-options/domains/Strength Domain|strength surge]] (+2).
 
-**Cleric spells prepared** (CL 4th; concentration +7): 2nd—_[[rangoric-srd/spells/Death Knell|death knell]]_ (DC 15), _[[rangoric-srd/spells/Dread Bolt|dread bolt]]_ (DC 15), _[[rangoric-srd/spells/Hold Person|hold person]]_ (DC 15), _[[rangoric-srd/spells/Invisibility|invisibility]]_ <sup>D</sup>; 1st—_[[rangoric-srd/spells/Bane|bane]]_ (DC 14), _[[rangoric-srd/spells/Doom|doom]]_ (DC 14), _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ <sup>D</sup> (DC 14), _[[rangoric-srd/spells/Entropic Shield|entropic shield]]_, _[[rangoric-srd/spells/Ray of Sickening|ray of sickening]]_ (DC 14); 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (DC 13), _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Resistance|resistance]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Strength Domain|Strength]], [[rangoric-srd/class-options/domains/Trickery Domain|Trickery]].
+**Cleric spells prepared** (CL 4th; concentration +7): 2nd—_[[rangoric-srd/spells/Death Knell|death knell]]_ (+5 vs Will), _[[rangoric-srd/spells/Dread Bolt|dread bolt]]_ (+5 vs Will), _[[rangoric-srd/spells/Hold Person|hold person]]_ (+5 vs Will), _[[rangoric-srd/spells/Invisibility|invisibility]]_ <sup>D</sup>; 1st—_[[rangoric-srd/spells/Bane|bane]]_ (+4 vs Will), _[[rangoric-srd/spells/Doom|doom]]_ (+4 vs Will), _[[rangoric-srd/spells/Enlarge Person|enlarge person]]_ <sup>D</sup> (+4 vs Fortitude), _[[rangoric-srd/spells/Entropic Shield|entropic shield]]_, _[[rangoric-srd/spells/Ray of Sickening|ray of sickening]]_ (+4 vs Fortitude); 0 (at will)—_[[rangoric-srd/spells/Bleed|bleed]]_ (+3 vs Will), _[[rangoric-srd/spells/Guidance|guidance]]_, _[[rangoric-srd/spells/Resistance|resistance]]_, _[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]_; <sup>D</sup> domain spell; **Domains**: [[rangoric-srd/class-options/domains/Strength Domain|Strength]], [[rangoric-srd/class-options/domains/Trickery Domain|Trickery]].

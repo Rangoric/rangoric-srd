@@ -16,7 +16,7 @@ full-attack: "Masterwork longsword +27/+22/+17 melee (4d6+22/17–20); or 2 slam
 space-reach: "20 ft./20 ft."
 special-attacks: "Command giants, runes, spark shower, spell-like abilities"
 special-qualities: "Low-light vision, immunity to cold, electricity and fire"
-saves: "Fort +15, Ref +6, Will +20"
+defenses: "Fort 25, Ref 16, Will 30"
 abilities: "Str 41, Dex 11, Con 28, Int 14, Wis 23, Cha 18"
 skills: "Acrobatics +15, Athletics +15 (+23 jumping), Craft (any one) +25, Perception +29, Society +12"
 skill-ranks: "Acrobatics 12, Athletics 0, Craft (any one) 20, Perception 20, Society 7"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 20 ft./20 ft.
 - **Special Attacks**: Command giants, [[rangoric-srd/monsters/abilities/Runes|runes]], [[rangoric-srd/monsters/abilities/Spark Shower|spark shower]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, electricity and fire
-- **Saves**: Fort +15, Ref +6, Will +20
+- **Defenses**: Fort 25, Ref 16, Will 30
 - **Abilities**: Str 41, Dex 11, Con 28, Int 14, Wis 23, Cha 18
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +15 (+23 jumping), [[rangoric-srd/skills/Craft|Craft]] (any one) +25, [[rangoric-srd/skills/Perception|Perception]] +29, [[rangoric-srd/skills/Society|Society]] +12
 - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (longsword), [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
@@ -71,10 +71,10 @@ Rune giants speak Common, Giant and Terran.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +24): Constant—_[[rangoric-srd/spells/Air Walk|air walk]]_; At will—_[[rangoric-srd/spells/Charm Person|charm person]]_ (DC 15), _[[rangoric-srd/spells/Suggestion|suggestion]]_ (DC 17); 3/day—_[[rangoric-srd/spells/Charm Monster, Mass|mass charm monster]]_ (DC 22), _[[rangoric-srd/spells/Dominate Person|dominate person]]_ (DC 19); 1/day—_[[rangoric-srd/spells/Demand|demand]]_ (DC 22), _[[rangoric-srd/spells/True Seeing|true seeing]]_.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th; concentration +24): Constant—_[[rangoric-srd/spells/Air Walk|air walk]]_; At will—_[[rangoric-srd/spells/Charm Person|charm person]]_ (+5 vs Will), _[[rangoric-srd/spells/Suggestion|suggestion]]_ (+7 vs Will); 3/day—_[[rangoric-srd/spells/Charm Monster, Mass|mass charm monster]]_ (+12 vs Will), _[[rangoric-srd/spells/Dominate Person|dominate person]]_ (+9 vs Will); 1/day—_[[rangoric-srd/spells/Demand|demand]]_ (+12 vs Will), _[[rangoric-srd/spells/True Seeing|true seeing]]_.
 
-**Command Giant (Su)**: A rune giant gains a +4 racial bonus on the save DC of charm or compulsion effects used against giants.
+**Command Giant (Su)**: A rune giant gains a +4 racial bonus on the attack bonus of charm or compulsion effects used against giants.
 
-**[[rangoric-srd/monsters/abilities/Runes|Runes]] (Ex)**: As a free action, whenever a rune giant uses its spark shower or spell-like abilities, it can cause the runes on its body to flash with light. All creatures within 10 feet of the giant must make a DC 24 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1 round. The saving throw is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Runes|Runes]] (Ex)**: As a free action, whenever a rune giant uses its spark shower or spell-like abilities, it can cause the runes on its body to flash with light. All creatures within 10 feet of the giant is attacked at +14 vs Fortitude, and on a hit is [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1 round. The attack bonus is Charisma-based.
 
-**[[rangoric-srd/monsters/abilities/Spark Shower|Spark Shower]] (Su)**: As a standard action, a rune giant can cause a shower of sparks to erupt out of one of the runes on its body. These sparks function as a breath weapon (30-ft. cone; 10d6 fire and 10d6 electricity damage; Reflex DC 29 half; usable once every 1d4 rounds). The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Spark Shower|Spark Shower]] (Su)**: As a standard action, a rune giant can cause a shower of sparks to erupt out of one of the runes on its body. These sparks function as a breath weapon (30-ft. cone; 10d6 fire and 10d6 electricity damage; +19 vs Reflex; a miss halves; usable once every 1d4 rounds). The attack bonus is Constitution-based.

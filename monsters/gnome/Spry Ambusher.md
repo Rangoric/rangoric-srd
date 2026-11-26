@@ -14,9 +14,9 @@ cmd: "19"
 attack: "Unarmed strike +6 melee (1d6+1) or +1 kama +6 melee (1d4+2) or unarmed strike flurry of blows +5 melee (1d6+1) or shuriken +5 ranged (1d1+1) or shuriken flurry of blows +4 ranged (1d1+1)"
 full-attack: "Unarmed strike +6 melee (1d6+1); or +1 kama +6 melee (1d4+2); or unarmed strike flurry of blows +5/+5 melee (1d6+1); or shuriken +5 ranged (1d1+1); or shuriken flurry of blows +4/+4 ranged (1d1+1)"
 space-reach: "5 ft./5 ft."
-special-attacks: "+1 on attack rolls against goblinoid and reptilian humanoids, flurry of blows, stunning fist (4/day, DC 15)"
+special-attacks: "+1 on attack rolls against goblinoid and reptilian humanoids, flurry of blows, stunning fist (4/day, +5 vs Fortitude)"
 special-qualities: "Low-light vision, defensive training (+4 dodge bonus to AC vs. giants), evasion, fast movement, ki pool (5 points, magic), maneuver training, slow fall 20 ft."
-saves: "Fort +5, Ref +6, Will +8 (+2 vs. enchantments and illusions)"
+defenses: "Fort 15, Ref 16, Will 18 (+2 vs. enchantments and illusions)"
 abilities: "Str 12, Dex 13, Con 10, Int 12, Wis 16, Cha 12"
 skills: "Acrobatics +8, Athletics +6, Deception +5, Perception +12, Stealth +12"
 skill-ranks: "Acrobatics 4, Athletics 2, Deception 1, Perception 6, Stealth 4"
@@ -49,9 +49,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +6 melee (1d6+1) or +1 [[rangoric-srd/equipment/weapons/Kama|kama]] +6 melee (1d4+2) or unarmed strike flurry of blows +5 melee (1d6+1) or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +5 ranged (1d1+1) or shuriken flurry of blows +4 ranged (1d1+1)
 - **Full Attack**: [[rangoric-srd/equipment/weapons/Unarmed Strike|Unarmed strike]] +6 melee (1d6+1); or +1 [[rangoric-srd/equipment/weapons/Kama|kama]] +6 melee (1d4+2); or unarmed strike flurry of blows +5/+5 melee (1d6+1); or [[rangoric-srd/equipment/weapons/Shuriken|shuriken]] +5 ranged (1d1+1); or shuriken flurry of blows +4/+4 ranged (1d1+1)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/races/Gnome|+1 on attack rolls against goblinoid and reptilian humanoids]], [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (4/day, DC 15)
+- **Special Attacks**: [[rangoric-srd/races/Gnome|+1 on attack rolls against goblinoid and reptilian humanoids]], [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|flurry of blows]], [[rangoric-srd/classes/Monk#^monk-stunning-fist|stunning fist]] (4/day, +5 vs Fortitude)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Gnome#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Monk#^monk-evasion|evasion]], [[rangoric-srd/classes/Monk#^monk-fast-movement|fast movement]], [[rangoric-srd/classes/Monk#^monk-ki-pool|ki pool]] (5 points, magic), [[rangoric-srd/classes/Monk#^monk-maneuver-training|maneuver training]], [[rangoric-srd/classes/Monk#^monk-slow-fall|slow fall]] 20 ft.
-- **Saves**: Fort +5, Ref +6, Will +8 (+2 vs. enchantments and illusions)
+- **Defenses**: Fort 15, Ref 16, Will 18 (+2 vs. enchantments and illusions)
 - **Abilities**: Str 12, Dex 13, Con 10, Int 12, Wis 16, Cha 12
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +12
 - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Scorpion Style|Scorpion Style]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (unarmed strike)

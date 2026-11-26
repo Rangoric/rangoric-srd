@@ -16,7 +16,7 @@ full-attack: "+1 bastard sword +27/+22/+17/+12 melee (2d8+10/19–20); or +1 val
 space-reach: "10 ft./10 ft."
 special-attacks: "Banner +2/+1, cavalier's charge, challenge (+8, 3/day), heated rock, rock throwing (120 ft.)"
 special-qualities: "Low-light vision, rock catching, expert trainer +3, mount (giant dire boar), order of the lion (lion's call), tactician (2/day, 6 rounds, standard action), immunity to fire, vulnerability to cold"
-saves: "Fort +21, Ref +7, Will +12"
+defenses: "Fort 31, Ref 17, Will 22"
 abilities: "Str 29, Dex 11, Con 25, Int 12, Wis 16, Cha 17"
 skills: "Animal Handling +17, Athletics +15, Craft (weapons) +9, Intimidation +14, Perception +19, Persuasion +14, Society +12"
 skill-ranks: "Animal Handling 11, Athletics 3, Craft (weapons) 5, Intimidation 8, Perception 13, Persuasion 8, Society 8"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Cavalier#^cavalier-banner|Banner]] +2/+1, [[rangoric-srd/classes/Cavalier#^cavalier-cavaliers-charge|cavalier's charge]], [[rangoric-srd/classes/Cavalier#^cavalier-challenge|challenge]] (+8, 3/day), [[rangoric-srd/monsters/giant/Fire Giant|heated rock]], [[rangoric-srd/monsters/abilities/Rock Throwing|rock throwing]] (120 ft.)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/classes/Cavalier#^cavalier-expert-trainer|expert trainer]] +3, [[rangoric-srd/classes/Cavalier#^cavalier-mount|mount]] (giant dire boar), [[rangoric-srd/class-options/orders/Order of the Lion|order of the lion]] (lion's call), [[rangoric-srd/classes/Cavalier#^cavalier-tactician|tactician]] (2/day, 6 rounds, standard action), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, vulnerability to cold
-- **Saves**: Fort +21, Ref +7, Will +12
+- **Defenses**: Fort 31, Ref 17, Will 22
 - **Abilities**: Str 29, Dex 11, Con 25, Int 12, Wis 16, Cha 17
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +17, [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Craft|Craft]] (weapons) +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Society|Society]] +12
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (bastard sword), [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Precise Strike (Feat)|Precise Strike]], [[rangoric-srd/feats/Pushing Assault|Pushing Assault]], [[rangoric-srd/feats/Trample|Trample]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bastard sword)

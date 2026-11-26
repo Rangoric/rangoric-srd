@@ -16,7 +16,7 @@ full-attack: "Greatclub +14/+9 melee (2d8+10); or 2 slams +13 melee (1d8+7); or 
 space-reach: "10 ft./10 ft."
 special-attacks: "Rock throwing (120 ft.)"
 special-qualities: "Low-light vision, rock catching"
-saves: "Fort +11, Ref +2, Will +3"
+defenses: "Fort 21, Ref 12, Will 13"
 abilities: "Str 25, Dex 8, Con 19, Int 6, Wis 10, Cha 7"
 skills: "Athletics +10, Intimidation +12, Perception +6"
 skill-ranks: "Athletics 3, Intimidation 11, Perception 3"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (120 ft.)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]]
-- **Saves**: Fort +11, Ref +2, Will +3
+- **Defenses**: Fort 21, Ref 12, Will 13
 - **Abilities**: Str 25, Dex 8, Con 19, Int 6, Wis 10, Cha 7
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +6
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (greatclub), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatclub)

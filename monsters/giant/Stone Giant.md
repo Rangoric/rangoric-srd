@@ -16,7 +16,7 @@ full-attack: "Greatclub +16/+11 melee (2d8+12); or 2 slams +16 melee (1d8+8); or
 space-reach: "10 ft./10 ft."
 special-attacks: "Rock throwing (180 ft.)"
 special-qualities: "Darkvision 60 ft., low-light vision, improved rock catching"
-saves: "Fort +12, Ref +6, Will +7"
+defenses: "Fort 22, Ref 16, Will 17"
 abilities: "Str 27, Dex 15, Con 19, Int 10, Wis 12, Cha 10"
 skills: "Athletics +12, Intimidation +12, Perception +12, Stealth +4 (+12 in rocky terrain)"
 skill-ranks: "Athletics 1, Intimidation 9, Perception 8, Stealth 3"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (180 ft.)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], improved [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]]
-- **Saves**: Fort +12, Ref +6, Will +7
+- **Defenses**: Fort 22, Ref 16, Will 17
 - **Abilities**: Str 27, Dex 15, Con 19, Int 10, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +4 (+12 in rocky terrain)
 - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (greatclub), [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Quick Draw|Quick Draw]]
@@ -70,11 +70,11 @@ Stone giants fight from a distance whenever possible, but if they can't avoid me
 
 Stone giants prefer living in enormous caves in high-altitude, rocky peaks. They rarely live more than a few days' travel from other bands of stone giants, and even raise shared herds of goats and other livestock between tribes. Older stone giants tend to wander away from the tribe for a significant period of time in their later years, either living in seclusion somewhere or attempting to merge into other humanoid civilizations. After decades of this self-imposed exile, those who return do so as stone giant elders.
 
-**Stone Giant Elders**: Some stone giants develop special abilities related to their environment. Called elders, these stone giants have Charisma scores of at least 15 and three spell-like abilities (CL 10th). Once per day they can use _[[rangoric-srd/spells/Stone Shape|stone shape]]_, _[[rangoric-srd/spells/Stone Tell|stone tell]]_, and either _[[rangoric-srd/spells/Transmute Rock to Mud|transmute rock to mud]]_ or _[[rangoric-srd/spells/Transmute Mud to Rock|transmute mud to rock]]_ (DC 17). The save DC is Charisma-based. One in 10 elders is a [[rangoric-srd/classes/Sorcerer|sorcerer]], usually of 3rd to 6th level. Stone giant elders add +1 to their CR.
+**Stone Giant Elders**: Some stone giants develop special abilities related to their environment. Called elders, these stone giants have Charisma scores of at least 15 and three spell-like abilities (CL 10th). Once per day they can use _[[rangoric-srd/spells/Stone Shape|stone shape]]_, _[[rangoric-srd/spells/Stone Tell|stone tell]]_, and either _[[rangoric-srd/spells/Transmute Rock to Mud|transmute rock to mud]]_ or _[[rangoric-srd/spells/Transmute Mud to Rock|transmute mud to rock]]_ (+7). The attack bonus is Charisma-based. One in 10 elders is a [[rangoric-srd/classes/Sorcerer|sorcerer]], usually of 3rd to 6th level. Stone giant elders add +1 to their CR.
 
 ### Combat
 
-**Improved Rock Catching (Ex)**: A stone giant gains a +4 racial bonus on its Reflex save when attempting to catch a thrown rock with rock catching. This ability otherwise works like the rock catching ability.
+**Improved Rock Catching (Ex)**: A stone giant gains a +4 racial bonus on its Reflex check when attempting to catch a thrown rock with rock catching. This ability otherwise works like the rock catching ability.
 
 ## Stone Giants as Characters
 

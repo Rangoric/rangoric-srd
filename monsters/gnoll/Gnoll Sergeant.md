@@ -16,7 +16,7 @@ full-attack: "Spear +8 melee (1d8+6/×3); or masterwork composite longbow +8 ran
 space-reach: "5 ft./5 ft."
 special-attacks: "Combat style (archery), favored enemy (humans +2)"
 special-qualities: "Darkvision 60 ft., favored terrain (desert +2), track +1, wild empathy +1"
-saves: "Fort +9, Ref +6, Will +3"
+defenses: "Fort 19, Ref 16, Will 13"
 abilities: "Str 18, Dex 15, Con 15, Int 8, Wis 12, Cha 6"
 skills: "Athletics +11, Fieldcraft +9, Nature +4, Perception +9"
 skill-ranks: "Athletics 4, Fieldcraft 5, Nature 2, Perception 5"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (archery), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (humans +2)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (desert +2), [[rangoric-srd/classes/Ranger|track]] +1, [[rangoric-srd/classes/Ranger|wild empathy]] +1
-- **Saves**: Fort +9, Ref +6, Will +3
+- **Defenses**: Fort 19, Ref 16, Will 13
 - **Abilities**: Str 18, Dex 15, Con 15, Int 8, Wis 12, Cha 6
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9, [[rangoric-srd/skills/Nature|Nature]] +4, [[rangoric-srd/skills/Perception|Perception]] +9
 - **Feats**: [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longbow)

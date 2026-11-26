@@ -16,7 +16,7 @@ full-attack: "Flindbar +6 melee (1d8+6/×2 plus disarm, trip); or composite long
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., weapon familiarity"
-saves: "Fort +7, Ref +3, Will +3"
+defenses: "Fort 17, Ref 13, Will 13"
 abilities: "Str 18, Dex 15, Con 16, Int 12, Wis 15, Cha 13"
 skills: "Animal Handling +8, Intimidation +5, Perception +6"
 skill-ranks: "Animal Handling 4, Intimidation 1, Perception 1"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., weapon familiarity
-- **Saves**: Fort +7, Ref +3, Will +3
+- **Defenses**: Fort 17, Ref 13, Will 13
 - **Abilities**: Str 18, Dex 15, Con 16, Int 12, Wis 15, Cha 13
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +6
 - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]]

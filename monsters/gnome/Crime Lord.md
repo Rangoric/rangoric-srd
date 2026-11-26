@@ -16,7 +16,7 @@ full-attack: "+2 dwarven urgrosh +30/+30/+25/+20/+15 melee (1d4+12/19–20/×3) 
 space-reach: "5 ft./5 ft."
 special-attacks: "+1 on attack rolls against goblinoid and reptilian humanoids, weapon training (double +4, thrown +3, close +2, hammers +1)"
 special-qualities: "Low-light vision, blink, bravery +5, defensive training (+4 dodge bonus to AC vs. giants), armor mastery, armor training 4, damage reduction 5/—"
-saves: "Fort +20, Ref +14, Will +11 (+2 vs. illusions, +5 vs. fear)"
+defenses: "Fort 30, Ref 24, Will 21 (+2 vs. illusions, +5 vs. fear)"
 abilities: "Str 18, Dex 16, Con 20, Int 12, Wis 8, Cha 12"
 skills: "Deception +19, Intimidation +26, Perception +1, Persuasion +20, Profession (gambler) +5, Sense Motive +18, Society +13"
 skill-ranks: "Deception 15, Intimidation 26, Perception 2, Persuasion 14, Profession (gambler) 1, Sense Motive 16, Society 9"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: [[rangoric-srd/races/Gnome|+1 on attack rolls against goblinoid and reptilian humanoids]], [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (double +4, thrown +3, close +2, hammers +1)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], _[[rangoric-srd/spells/Blink|blink]]_, [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +5, [[rangoric-srd/races/Gnome#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Fighter#^fighter-armor-mastery|armor mastery]], [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 4, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/—
-- **Saves**: Fort +20, Ref +14, Will +11 (+2 vs. illusions, +5 vs. fear)
+- **Defenses**: Fort 30, Ref 24, Will 21 (+2 vs. illusions, +5 vs. fear)
 - **Abilities**: Str 18, Dex 16, Con 20, Int 12, Wis 8, Cha 12
 - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Intimidation|Intimidation]] +26, [[rangoric-srd/skills/Perception|Perception]] +1, [[rangoric-srd/skills/Persuasion|Persuasion]] +20, [[rangoric-srd/skills/Profession|Profession]] (gambler) +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Society|Society]] +13
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Dazzling Display|Dazzling Display]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Disruptive|Disruptive]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Exotic Weapon Proficiency|Exotic Weapon Proficiency]] (dwarven urgrosh), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (dwarven urgrosh), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion), [[rangoric-srd/feats/Spellbreaker|Spellbreaker]], [[rangoric-srd/feats/Step Up|Step Up]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (dwarven urgrosh), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (dwarven urgrosh)
@@ -75,4 +75,4 @@ A crime lord speaks Common, Gnome, and Sylvan.
 
 **Base Statistics**: Without barkskin, bear's endurance, blink from his ring of blinking, and haste from his boots of speed, the fighter's statistics are **AC** 28, touch 17, flat-footed 24; **hp** 166; **Fort** +18; **Ref** +13; **Defensive Abilities** no blink; **Speed** 20 ft; **Melee** +2 dwarven urgrosh +29/+24/+19/+14 (1d4+12/19-20/×3), +2 dwarven urgrosh +29 (1d6+12/19-20/×3) or +2 dwarven urgrosh (two-handed) +31/+26/+21/+16 (1d4+14/19-20/×3) or +1 spiked armor +27/+22/+17/+12 (1d4+8); **Ranged** dart +26/+21/+16/+11 (1d4+7); **Con** 16; **CMB** +22; **CMD** 38.
 
-**Gnome Spell-Like Abilities** (CL 19th; concentration +20): 1/day—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, ghost sound* (DC 11), *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_, speak with animals_.
+**Gnome Spell-Like Abilities** (CL 19th; concentration +20): 1/day—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, ghost sound* (+1 vs Will), *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_, speak with animals_.

@@ -13,9 +13,9 @@ cmd: "24"
 attack: "+1 bite +13 melee (1d6+3 plus disease and paralysis) or +1 claw +14 melee (1d8+3 plus paralysis) or masterwork composite longbow +13 ranged (1d8+2/×3)"
 full-attack: "+1 bite +13 melee (1d6+3 plus disease and paralysis) and 2 +1 claws +14 melee (1d8+3 plus paralysis); or masterwork composite longbow +13/+8 ranged (1d8+2/×3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Combat style (archery), disease (DC 15), favored enemy (elves +2, humans +4), paralysis (1d4+1 rounds, DC 15, elves are immune to this effect)"
+special-attacks: "Combat style (archery), disease (+5 vs Fortitude), favored enemy (elves +2, humans +4), paralysis (1d4+1 rounds, +5 vs Fortitude, elves are immune to this effect)"
 special-qualities: "Darkvision 60 ft., channel resistance +2, favored terrain (underground +2), hunter's bond (animal), track +3, wild empathy +10, undead traits"
-saves: "Fort +9, Ref +10, Will +8"
+defenses: "Fort 19, Ref 20, Will 18"
 abilities: "Str 15, Dex 20, Con —, Int 13, Wis 16, Cha 18"
 skills: "Acrobatics +13, Athletics +13 (+17 jumping), Engineering +13, Fieldcraft +14, Perception +14, Stealth +16"
 skill-ranks: "Acrobatics 5, Athletics 8, Engineering 5, Fieldcraft 8, Perception 8, Stealth 8"
@@ -48,9 +48,9 @@ tags: [rangoric, rangoric/monster]
 - **Attack**: +1 bite +13 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]) or +1 claw +14 melee (1d8+3 plus [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +13 ranged (1d8+2/×3)
 - **Full Attack**: +1 bite +13 melee (1d6+3 plus [[rangoric-srd/monsters/abilities/Disease|disease]] and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]) and 2 +1 claws +14 melee (1d8+3 plus [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Composite Longbow|composite longbow]] +13/+8 ranged (1d8+2/×3)
 - **Space/Reach**: 5 ft./5 ft.
-- **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (archery), [[rangoric-srd/monsters/abilities/Disease|disease]] (DC 15), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (elves +2, humans +4), [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] (1d4+1 rounds, DC 15, elves are immune to this effect)
+- **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (archery), [[rangoric-srd/monsters/abilities/Disease|disease]] (+5 vs Fortitude), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (elves +2, humans +4), [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] (1d4+1 rounds, +5 vs Fortitude, elves are immune to this effect)
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (underground +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (animal), [[rangoric-srd/classes/Ranger#^ranger-track|track]] +3, [[rangoric-srd/classes/Ranger#^ranger-wild-empathy|wild empathy]] +10, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
-- **Saves**: Fort +9, Ref +10, Will +8
+- **Defenses**: Fort 19, Ref 20, Will 18
 - **Abilities**: Str 15, Dex 20, Con —, Int 13, Wis 16, Cha 18
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +13 (+17 jumping), [[rangoric-srd/skills/Engineering|Engineering]] +13, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +16
 - **Feats**: [[rangoric-srd/feats/Corpse Companion|Corpse Companion]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]] (claw), [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)

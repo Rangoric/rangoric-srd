@@ -16,7 +16,7 @@ full-attack: "Greataxe +18/+13 melee (3d6+13); or 2 slams +18 melee (1d8+9); or 
 space-reach: "10 ft./10 ft."
 special-attacks: "Rock throwing (120 ft.)"
 special-qualities: "Low-light vision, rock catching, immunity to cold, vulnerability to fire"
-saves: "Fort +14, Ref +3, Will +6"
+defenses: "Fort 24, Ref 13, Will 16"
 abilities: "Str 29, Dex 9, Con 20, Int 10, Wis 14, Cha 11"
 skills: "Athletics +13, Craft (any one) +7, Intimidation +7, Perception +10, Stealth +2 (+6 in snow)"
 skill-ranks: "Athletics 1, Craft (any one) 4, Intimidation 4, Perception 5, Stealth 4"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (120 ft.)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, vulnerability to fire
-- **Saves**: Fort +14, Ref +3, Will +6
+- **Defenses**: Fort 24, Ref 13, Will 16
 - **Abilities**: Str 29, Dex 9, Con 20, Int 10, Wis 14, Cha 11
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Craft|Craft]] (any one) +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +2 (+6 in snow)
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (greataxe), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)

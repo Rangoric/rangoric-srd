@@ -16,7 +16,7 @@ full-attack: "Masterwork glaive +10/+5 melee (1d8/×3); or short sword +9/+4 mel
 space-reach: "5 ft./5 ft. (10 ft. with glaive)"
 special-attacks: "+1 on attack rolls against goblinoid and reptilian humanoids, weapon training (crossbows +1)"
 special-qualities: "Low-light vision, bravery +2, defensive training (+4 dodge bonus to AC vs. giants), armor training 2"
-saves: "Fort +9, Ref +5, Will +4 (+2 vs. illusions, +2 vs. fear)"
+defenses: "Fort 19, Ref 15, Will 14 (+2 vs. illusions, +2 vs. fear)"
 abilities: "Str 10, Dex 16, Con 16, Int 8, Wis 14, Cha 12"
 skills: "Perception +10, Profession (soldier) +8, Sense Motive +7"
 skill-ranks: "Perception 5, Profession (soldier) 6, Sense Motive 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft. (10 ft. with glaive)
 - **Special Attacks**: [[rangoric-srd/races/Gnome|+1 on attack rolls against goblinoid and reptilian humanoids]], [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (crossbows +1)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +2, [[rangoric-srd/races/Gnome#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 2
-- **Saves**: Fort +9, Ref +5, Will +4 (+2 vs. illusions, +2 vs. fear)
+- **Defenses**: Fort 19, Ref 15, Will 14 (+2 vs. illusions, +2 vs. fear)
 - **Abilities**: Str 10, Dex 16, Con 16, Int 8, Wis 14, Cha 12
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Profession|Profession]] (soldier) +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7
 - **Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Fleet|Fleet]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (light crossbow), [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Reload|Rapid Reload]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (light crossbow), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (light crossbow)
@@ -75,4 +75,4 @@ A fastidious sharpshooter speaks Common, Gnome, and Sylvan.
 
 **Base Statistics**: Without shield of faith, the fighter's statistics are **AC** 20, touch 14, flat-footed 17; **CMD** 20.
 
-**Gnome Spell-Like Abilities** (CL 8th; concentration +9): 1/day—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, ghost sound* (DC 11), *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_, speak with animals_.
+**Gnome Spell-Like Abilities** (CL 8th; concentration +9): 1/day—_[[rangoric-srd/spells/Dancing Lights|dancing lights]]_, ghost sound* (+1 vs Will), *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]_, speak with animals_.

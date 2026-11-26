@@ -16,7 +16,7 @@ full-attack: "+1 warhammer +27/+22/+17/+12 melee (2d6+12/×3) and +1 warhammer +
 space-reach: "10 ft./10 ft."
 special-attacks: "Combat style (two-weapon), favored enemy (giants +2, humans +4), rock throwing (120 ft.)"
 special-qualities: "Low-light vision, evasion, rock catching, favored terrain (cold +4, forest +2), hunter's bond (companions), swift tracker, track +4, wild empathy +9, woodland stride, immunity to cold, vulnerability to fire"
-saves: "Fort +26, Ref +17, Will +13"
+defenses: "Fort 36, Ref 27, Will 23"
 abilities: "Str 32, Dex 19, Con 27, Int 12, Wis 12, Cha 10"
 skills: "Acrobatics +8, Athletics +23 (+27 jumping), Fieldcraft +14, Intimidation +23, Medicine +9, Perception +24, Perform (sing) +5, Persuasion +5, Sense Motive +11, Stealth +17 (+21 in snow)"
 skill-ranks: "Acrobatics 1, Athletics 9, Fieldcraft 10, Intimidation 20, Medicine 5, Perception 20, Perform (sing) 1, Persuasion 2, Sense Motive 7, Stealth 14"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (two-weapon), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (giants +2, humans +4), [[rangoric-srd/monsters/abilities/Rock Throwing|rock throwing]] (120 ft.)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Ranger#^ranger-evasion|evasion]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (cold +4, forest +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/classes/Ranger#^ranger-swift-tracker|swift tracker]], [[rangoric-srd/classes/Ranger|track]] +4, [[rangoric-srd/classes/Ranger|wild empathy]] +9, [[rangoric-srd/classes/Ranger#^ranger-woodland-stride|woodland stride]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, vulnerability to fire
-- **Saves**: Fort +26, Ref +17, Will +13
+- **Defenses**: Fort 36, Ref 27, Will 23
 - **Abilities**: Str 32, Dex 19, Con 27, Int 12, Wis 12, Cha 10
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +23 (+27 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +23, [[rangoric-srd/skills/Medicine|Medicine]] +9, [[rangoric-srd/skills/Perception|Perception]] +24, Perform (sing) +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +17 (+21 in snow)
 - **Feats**: [[rangoric-srd/feats/Double Slice|Double Slice]], [[rangoric-srd/feats/Dreadful Carnage|Dreadful Carnage]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Furious Focus|Furious Focus]], [[rangoric-srd/feats/Greater Two-Weapon Fighting|Greater Two-Weapon Fighting]], [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Track|Track]], [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Two-Weapon Rend|Two-Weapon Rend]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (warhammer)
@@ -75,4 +75,4 @@ A frost giant jarl speaks Common and Giant.
 
 **During Combat**: The jarl makes full attacks with his warhammers against targets at any range.
 
-**Ranger spells prepared** (CL 6th; concentration +7): 2nd—_[[rangoric-srd/spells/Returning Weapon, Communal|communal returning weapon]]_; 1st—_[[rangoric-srd/spells/Call Animal|call animal]]_, _[[rangoric-srd/spells/Charm Animal|charm animal]]_ (DC 12), _[[rangoric-srd/spells/Lead Blades|lead blades]]_.
+**Ranger spells prepared** (CL 6th; concentration +7): 2nd—_[[rangoric-srd/spells/Returning Weapon, Communal|communal returning weapon]]_; 1st—_[[rangoric-srd/spells/Call Animal|call animal]]_, _[[rangoric-srd/spells/Charm Animal|charm animal]]_ (+2 vs Will), _[[rangoric-srd/spells/Lead Blades|lead blades]]_.

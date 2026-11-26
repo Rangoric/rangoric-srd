@@ -16,7 +16,7 @@ full-attack: "Masterwork trident +29/+24/+19 melee (3d6+22); or 2 slams +27 mele
 space-reach: "15 ft./15 ft."
 special-attacks: "Conch focus, rock throwing (110 ft.), spell-like abilities"
 special-qualities: "Low-light vision, amphibious, resistance to cold 30 and electricity 30"
-saves: "Fort +18, Ref +8, Will +10"
+defenses: "Fort 28, Ref 18, Will 20"
 abilities: "Str 40, Dex 11, Con 25, Int 12, Wis 15, Cha 18"
 skills: "Athletics +24, Fieldcraft +14, Intimidation +17, Nature +11, Perception +24, Performance (wind) +13"
 skill-ranks: "Athletics 6, Fieldcraft 9, Intimidation 10, Nature 7, Perception 19, Performance (wind) 9"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 15 ft./15 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Conch Focus|Conch focus]], [[rangoric-srd/monsters/abilities/Rock Throwing|rock throwing]] (110 ft.), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 30 and electricity 30
-- **Saves**: Fort +18, Ref +8, Will +10
+- **Defenses**: Fort 28, Ref 18, Will 20
 - **Abilities**: Str 40, Dex 11, Con 25, Int 12, Wis 15, Cha 18
 - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +24, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Performance|Performance]] (wind) +13
 - **Feats**: [[rangoric-srd/feats/Augment Summoning|Augment Summoning]] (with conch), [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (trident), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (trident)
@@ -73,6 +73,6 @@ Ocean giants speak Aquan, Common and Giant.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 14th; concentration +18): Constant—_[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_; 3/day—*[[rangoric-srd/spells/Aqueous Orb|aqueous orb]]*A<sup>PG</sup> (DC 17), _[[rangoric-srd/spells/Control Winds|control winds]]_ (DC 19), _[[rangoric-srd/spells/Shout|shout]]_ (DC 18), _[[rangoric-srd/spells/Summon Nature’s Ally VII|summon nature's ally VII]]_ (swimming creatures only), _[[rangoric-srd/spells/Water Breathing|water breathing]]_; 1/day—_[[rangoric-srd/spells/Vortex|vortex]]_ (DC 20).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 14th; concentration +18): Constant—_[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]_; 3/day—*[[rangoric-srd/spells/Aqueous Orb|aqueous orb]]*A<sup>PG</sup> (+7 vs Reflex), _[[rangoric-srd/spells/Control Winds|control winds]]_ (+9 vs Fortitude), _[[rangoric-srd/spells/Shout|shout]]_ (+8), _[[rangoric-srd/spells/Summon Nature’s Ally VII|summon nature's ally VII]]_ (swimming creatures only), _[[rangoric-srd/spells/Water Breathing|water breathing]]_; 1/day—_[[rangoric-srd/spells/Vortex|vortex]]_ (+10 vs Reflex).
 
-**[[rangoric-srd/monsters/abilities/Conch Focus|Conch Focus]] (Su)**: When holding its conch, an ocean giant can cast great shout (DC 22) instead of shout, and gains Augment Summoning as a bonus feat. If the conch is destroyed (hardness 5, 20 hp), the giant can spend 1 week to craft a replacement.
+**[[rangoric-srd/monsters/abilities/Conch Focus|Conch Focus]] (Su)**: When holding its conch, an ocean giant can cast great shout (+12 vs Fortitude) instead of shout, and gains Augment Summoning as a bonus feat. If the conch is destroyed (hardness 5, 20 hp), the giant can spend 1 week to craft a replacement.

@@ -18,7 +18,7 @@ full-attack: "+2 frost greataxe +30/+25/+20/+15 melee (3d6+18/×3 plus 1d6 cold)
 space-reach: "10 ft./10 ft."
 special-attacks: "Rock throwing, smite good, sneak attack +2d6"
 special-qualities: "Aura of despair, aura of evil, command undead, dark blessing, detect good, immunity to cold, low-light vision, poison use, resistance to fire 10, rock catching, vulnerability to fire"
-saves: "Fort +25, Ref +13, Will +13"
+defenses: "Fort 35, Ref 23, Will 23"
 abilities: "Str 32, Dex 12, Con 22, Int 10, Wis 12, Cha 18"
 skills: "Animal Handling +29, Athletics +25, Theology +5, Perception +8, Stealth +5"
 skill-ranks: "Animal Handling 22, Athletics 11, Perception 4, Stealth 5, Theology 2"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: Rock throwing, smite good, sneak attack +2d6
 - **Special Qualities**: Aura of despair, aura of evil, command undead, dark blessing, [[rangoric-srd/spells/Detect Good|detect good]], immunity to cold, low-light vision, [[rangoric-srd/rules/Afflictions#^poison-use|poison use]], resistance to fire 10, rock catching, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|vulnerability to fire]]
-- **Saves**: Fort +25, Ref +13, Will +13
+- **Defenses**: Fort 35, Ref 23, Will 23
 - **Abilities**: Str 32, Dex 12, Con 22, Int 10, Wis 12, Cha 18
 - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +29, [[rangoric-srd/skills/Athletics|Athletics]] +25, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +5, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quick Draw|Quick Draw]]
@@ -67,13 +67,13 @@ A frost giant leader is often a barbarian, cleric, fighter, or sorcerer, but som
 
 The frost giant jarl described here has all the qualities and abilities of a typical frost giant, as well as other abilities (see the statistics block) from being a blackguard. Details on some of these abilities follow.
 
-Aura of Despair (Su): This jarl radiates a malign aura that causes enemies within 10 feet of him to take a -2 penalty on all saving throws.
+Aura of Despair (Su): This jarl radiates a malign aura that causes enemies within 10 feet of him to take a -2 penalty on all defenses.
 
 Aura of Evil (Ex): This jarl radiates a strong aura of evil (see the [[rangoric-srd/spells/Detect Evil|detect evil]] spell) as an 8th-level cleric of an evil deity.
 
 Command Undead (Su): This jarl can command and rebuke undead as a 6th-level cleric.
 
-Dark Blessing (Su): This jarl applies his Charisma modifier as a bonus on all saving throws.
+Dark Blessing (Su): This jarl applies his Charisma modifier as a bonus on all defenses.
 
 Detect Good (Sp): At will, this jarl can use detect good as a spell-like ability, duplicating the effect of the [[rangoric-srd/spells/Detect Good|detect good]] spell.
 
@@ -81,7 +81,7 @@ Poison Use: This jarl has [[rangoric-srd/rules/Afflictions#^poison-use|poison us
 
 Smite Good (Su): Twice per day, this jarl may attempt to smite good with one normal melee attack. He adds his +4 Charisma modifier to his attack roll and deals 8 points of extra damage (1 per blackguard level) if the attack hits. If he accidentally smites a creature that is not good, the smite has no effect but it is still used up for that day.
 
-Typical Blackguard Spells Prepared (3/1; save DC 11 + spell level):
+Typical Blackguard Spells Prepared (3/1; attack bonus +1 + spell level):
 
 1st - [[rangoric-srd/spells/Cause Fear|cause fear]], [[rangoric-srd/spells/Doom|doom]], [[rangoric-srd/spells/Magic Weapon|magic weapon]];
 

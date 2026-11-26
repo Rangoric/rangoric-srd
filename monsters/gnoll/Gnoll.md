@@ -16,7 +16,7 @@ full-attack: "Spear +3 melee (1d8+3/×3); or spear +1 ranged (1d8+2/×3)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft."
-saves: "Fort +4, Ref +0, Will +0"
+defenses: "Fort 14, Ref 10, Will 10"
 abilities: "Str 15, Dex 10, Con 13, Int 8, Wis 11, Cha 8"
 skills: "Perception +2"
 skill-ranks: "Perception 2"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 5 ft./5 ft.
 - **Special Attacks**: —
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
-- **Saves**: Fort +4, Ref +0, Will +0
+- **Defenses**: Fort 14, Ref 10, Will 10
 - **Abilities**: Str 15, Dex 10, Con 13, Int 8, Wis 11, Cha 8
 - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +2
 - **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]]

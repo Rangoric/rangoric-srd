@@ -16,7 +16,7 @@ full-attack: "Spear +11/+6 melee (2d6+7/×3); or 2 slams +10 melee (1d8+5); or r
 space-reach: "10 ft./10 ft."
 special-attacks: "Rock throwing (100 ft.)"
 special-qualities: "Low-light vision, rock catching, hold breath"
-saves: "Fort +10, Ref +2, Will +2"
+defenses: "Fort 20, Ref 12, Will 12"
 abilities: "Str 20, Dex 11, Con 19, Int 9, Wis 10, Cha 8"
 skills: "Acrobatics +0 (+4 when boating), Athletics +10, Fieldcraft +6 (+10 when boating), Perception +6, Profession (sailor) +9"
 skill-ranks: "Acrobatics 0, Athletics 1, Fieldcraft 3, Perception 3, Profession (sailor) 7"
@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
 - **Space/Reach**: 10 ft./10 ft.
 - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (100 ft.)
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]], [[rangoric-srd/monsters/abilities/Hold Breath|hold breath]]
-- **Saves**: Fort +10, Ref +2, Will +2
+- **Defenses**: Fort 20, Ref 12, Will 12
 - **Abilities**: Str 20, Dex 11, Con 19, Int 9, Wis 10, Cha 8
 - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +0 (+4 when boating), [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6 (+10 when boating), [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Profession|Profession]] (sailor) +9
 - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (spear), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spear)
