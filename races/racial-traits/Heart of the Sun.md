@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 **Race**: [[rangoric-srd/races/Human|Human]]. **Replaces**: skilled.
 
-Humans born in tropical climates treat [[rangoric-srd/rules/Wilderness, Weather, and Environment#Heat Dangers|hot climates]] as one category less severe. They also gain a +2 racial bonus on Fortitude saving throws against the effects of a hot climate, as well as against the poison and distraction ability of swarms and vermin.
+Humans born in tropical climates treat [[rangoric-srd/rules/Wilderness, Weather, and Environment#Heat Dangers|hot climates]] as one category less severe. They also gain a +2 racial bonus on Fortitude Defense against the effects of a hot climate, as well as against the poison and distraction ability of swarms and vermin.

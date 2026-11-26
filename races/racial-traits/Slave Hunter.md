@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 **Race**: [[rangoric-srd/races/Hobgoblin|Hobgoblin]]. **Replaces**: sneaky.
 
-Hobgoblin slavers excel at tracking down runaway slaves and surviving in filthy conditions. Hobgoblins with this racial trait gain a +2 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks and a +2 racial bonus on Fortitude saves against disease.
+Hobgoblin slavers excel at tracking down runaway slaves and surviving in filthy conditions. Hobgoblins with this racial trait gain a +2 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks and a +2 racial bonus on Fortitude Defense against disease.

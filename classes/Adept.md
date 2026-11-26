@@ -63,7 +63,7 @@ All of the following are class features of the adept NPC class.
 
 **Spells**: An adept casts divine spells which are drawn from the adept spell list (see below). Like a cleric, an adept must choose and prepare her spells in advance. Unlike a cleric, an adept cannot spontaneously cast cure or inflict spells.
 
-To prepare or cast a spell, an adept must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against an adept’s spell is 10 + the spell level + the adept’s Wisdom modifier.
+To prepare or cast a spell, an adept must have a Wisdom score equal to at least 10 + the spell level. The attack bonus of an adept’s spell is the spell level + the adept’s Wisdom modifier.
 
 Adepts, unlike wizards, do not acquire their spells from books or scrolls, nor do they prepare them through study. Instead, they meditate or pray for their spells, receiving them as divine inspiration or through their own strength of faith. Each adept must choose a time each day at which she must spend an hour in quiet contemplation or supplication to regain her daily allotment of spells. Time spent resting has no effect on whether an adept can prepare spells.
 

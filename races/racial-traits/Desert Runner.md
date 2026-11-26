@@ -17,4 +17,4 @@ tags: [rangoric, rangoric/racial-trait, racial-trait/defense, racial-trait/stand
 
 **Race**: [[rangoric-srd/races/Elf|Elf]]. **Replaces**: elven magic.
 
-Some elves thrive in the deepest deserts, forever roaming across burned and parched lands. Elves with this racial trait receive a +4 racial bonus on Constitution checks and Fortitude saves to avoid fatigue, exhaustion, or ill effects from running, forced marches, starvation, thirst, or hot or cold environments.
+Some elves thrive in the deepest deserts, forever roaming across burned and parched lands. Elves with this racial trait receive a +4 racial bonus on Constitution checks and Fortitude Defense against fatigue, exhaustion, or ill effects from running, forced marches, starvation, thirst, or hot or cold environments.

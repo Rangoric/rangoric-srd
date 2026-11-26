@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/racial-trait, racial-trait/defense, racial-trait/stand
 
 **Race**: [[rangoric-srd/races/Aasimar|Aasimar]]. **Replaces**: celestial resistance.
 
-Particularly strong-willed aasimars possess celestial spirits capable of resisting the powers of death. They gain resistance 5 against negative energy damage. They do not lose hit points when they gain a [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative level]], and they gain a +2 racial bonus on saving throws against death effects, energy drain, negative energy, and spells or spell-like abilities of the necromancy school.
+Particularly strong-willed aasimars possess celestial spirits capable of resisting the powers of death. They gain resistance 5 against negative energy damage. They do not lose hit points when they gain a [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative level]], and they gain a +2 racial bonus on defenses against death effects, energy drain, negative energy, and spells or spell-like abilities of the necromancy school.

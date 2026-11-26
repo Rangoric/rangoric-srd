@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/racial-trait, racial-trait/magical, racial-trait/stand
 
 **Race**: [[rangoric-srd/races/Drow|Drow]]. **Replaces**: drow immunities.
 
-Certain drow possess an innate understanding of the darkest desires that lurk in every heart. Drow with this racial trait add +1 to the saving throw DCs for spells and spell-like abilities of the enchantment school. In addition, drow with a Wisdom score of 15 or higher may use _[[rangoric-srd/spells/Charm Person|charm person]]_ once per day as a spell-like ability (caster level equal to the drow's character level).
+Certain drow possess an innate understanding of the darkest desires that lurk in every heart. Drow with this racial trait add +1 to the attack bonus of spells and spell-like abilities of the enchantment school. In addition, drow with a Wisdom score of 15 or higher may use _[[rangoric-srd/spells/Charm Person|charm person]]_ once per day as a spell-like ability (caster level equal to the drow's character level).

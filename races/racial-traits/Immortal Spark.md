@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/racial-trait, racial-trait/magical, racial-trait/stand
 
 **Race**: [[rangoric-srd/races/Aasimar|Aasimar]]. **Replaces**: skilled and spell-like ability.
 
-Aasimars with this racial trait defy the powers of death. They gain a +2 bonus on [[rangoric-srd/skills/Society|Society]] checks and saving throws against death effects and can use _[[rangoric-srd/spells/Age Resistance, Lesser|lesser age resistance]]_ once per day as a spell-like ability.
+Aasimars with this racial trait defy the powers of death. They gain a +2 bonus on [[rangoric-srd/skills/Society|Society]] checks and defenses against death effects and can use _[[rangoric-srd/spells/Age Resistance, Lesser|lesser age resistance]]_ once per day as a spell-like ability.

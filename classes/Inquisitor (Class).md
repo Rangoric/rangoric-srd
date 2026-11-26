@@ -100,7 +100,7 @@ All of the following are class features of the inquisitor.
 
 **Spells**: An inquisitor casts divine spells drawn from the [[rangoric-srd/spells/Inquisitor Spell List|inquisitor spell list]]. She can cast any spell she knows at any time without preparing it ahead of time, assuming she has not yet used up her allotment of spells per day for the spell's level. ^inquisitor-spells
 
-To learn or cast a spell, an inquisitor must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against an inquisitor’s spell is 10 + the spell level + the inquisitor’s Wisdom modifier.
+To learn or cast a spell, an inquisitor must have a Wisdom score equal to at least 10 + the spell level. The attack bonus of an inquisitor’s spell is the spell level + the inquisitor’s Wisdom modifier.
 
 An inquisitor can cast only a certain number of spells of each spell level each day. Her base daily spell allotment is given on [[rangoric-srd/classes/Inquisitor (Class)#^table-the-inquisitor|Table: The Inquisitor]]. In addition, she receives bonus spells per day if she has a high Wisdom score.
 
@@ -160,7 +160,7 @@ As a standard action, the inquisitor can choose to learn a new bonus teamwork fe
 
 **Second Judgment (Ex)**: At 8th level, whenever an inquisitor uses her judgment ability, she selects two different judgments, instead of one. This only consumes one use of her judgment ability. As a swift action, she can change one of these judgments to another type. ^inquisitor-second-judgment
 
-**Stalwart (Ex)**: At 11th level, an inquisitor can use mental and physical resiliency to avoid certain attacks. If she makes a Fortitude or Will saving throw against an attack that has a reduced effect on a successful save, she instead avoids the effect entirely. This ability can only be used if the inquisitor is wearing light armor, medium armor, or no armor. A [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] inquisitor does not gain the benefit of the stalwart ability. ^inquisitor-stalwart
+**Stalwart (Ex)**: At 11th level, an inquisitor can use mental and physical resiliency to avoid certain attacks. If an attack against her Fortitude or Will Defense that has a reduced effect on a miss misses her, she instead avoids the effect entirely. This ability can only be used if the inquisitor is wearing light armor, medium armor, or no armor. A [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] inquisitor does not gain the benefit of the stalwart ability. ^inquisitor-stalwart
 
 **Greater Bane (Su)**: At 12th level, whenever an inquisitor uses her bane ability, the amount of bonus damage dealt by the weapon against creatures of the selected type increases to 4d6. ^inquisitor-greater-bane
 
@@ -170,7 +170,7 @@ As a standard action, the inquisitor can choose to learn a new bonus teamwork fe
 
 **Slayer (Ex)**: At 17th level, an inquisitor learns to focus her judgment. Whenever an inquisitor uses her judgment ability, she must select one type of judgment. She is treated as if she were 5 levels higher for the purposes of determining the bonus granted by the judgment. Unlike other types of judgment, the one enhanced by this ability cannot be changed for the remainder of the judgment. ^inquisitor-slayer
 
-**True Judgment (Su)**: At 20th level, an inquisitor can call true judgment down upon a foe during combat. Whenever an inquisitor uses her judgment ability, the inquisitor can invoke true judgment on a foe as a swift action. Once declared, the inquisitor can make a single melee (or ranged attack, if the foe is within 30 feet) against the target. If the attack hits, it deals damage normally and the target must make a Fortitude save or die. The DC of this save is equal to 10 + 1/2 the inquisitor’s level + the inquisitor’s Wisdom modifier. Regardless of whether or not the save is made, the target creature is immune to the inquisitor’s true judgment ability for 24 hours. Once this ability has been used, it cannot be used again for 1d4 rounds. ^inquisitor-true-judgment
+**True Judgment (Su)**: At 20th level, an inquisitor can call true judgment down upon a foe during combat. Whenever an inquisitor uses her judgment ability, the inquisitor can invoke true judgment on a foe as a swift action. Once declared, the inquisitor can make a single melee (or ranged attack, if the foe is within 30 feet) against the target. If the attack hits, it deals damage normally, and the judgment attacks the target’s Fortitude, its attack bonus 1/2 the inquisitor’s level + the inquisitor’s Wisdom modifier; on a hit the target dies. Whether that attack hits or misses, the target creature is immune to the inquisitor’s true judgment ability for 24 hours. Once this ability has been used, it cannot be used again for 1d4 rounds. ^inquisitor-true-judgment
 
 **Chaotic, Evil, Good, and Lawful Spells**: An inquisitor can't cast spells of an alignment opposed to her own or her deity’s (if she has one). Spells associated with particular alignments are indicated by the chaotic, evil, good and lawful descriptors in their spell descriptions. ^inquisitor-chaotic-evil-good-and-lawful-spells
 

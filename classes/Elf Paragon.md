@@ -80,7 +80,7 @@ If an elf paragon has no levels in wizard, this class feature has no effect.
 
 **Elfsight (Ex):** An elf paragon has exceptional visual acuity. Her racial bonus on [[rangoric-srd/skills/Investigation|Investigation]] and [[rangoric-srd/skills/Perception|Perception]] checks increases to +4. In addition, an elf paragon's low-light vision increases in range, allowing her to see three times as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. ^elf-paragon-elfsight
 
-**Resist Enchantments (Ex):** An elf paragon's racial bonus on saves against enchantment spells or effects increases by 2. ^elf-paragon-resist-enchantments
+**Resist Enchantments (Ex):** An elf paragon's racial bonus on defenses against enchantment spells or effects increases by 2. ^elf-paragon-resist-enchantments
 
 **Weapon Focus (Ex):** At 2nd level, an elf paragon gains [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] as a bonus feat. This feat must apply to the rapier, longsword, shortsword, shortbow, longbow, composite shortbow, composite longbow, or a weapon with “elven” in its name. ^elf-paragon-weapon-focus
 

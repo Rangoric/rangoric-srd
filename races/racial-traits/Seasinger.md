@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 **Race**: [[rangoric-srd/races/Merfolk|Merfolk]]. **Replaces**: low-light vision.
 
-The beautiful voices of the merfolk are legendary. A seasinger gains a +2 racial bonus on [[rangoric-srd/skills/Performance|Performance]] checks when singing and a +1 racial bonus to the save DC of language-dependent spells.
+The beautiful voices of the merfolk are legendary. A seasinger gains a +2 racial bonus on [[rangoric-srd/skills/Performance|Performance]] checks when singing and a +1 racial bonus to the attack bonus of language-dependent spells.

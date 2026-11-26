@@ -48,11 +48,11 @@ Halfling paragons enjoy a mixed lot of traveling companions — too many members
 
 **Table: The Halfling Paragon**
 
-| Level | Special                                                                                                  |
-| ----- | -------------------------------------------------------------------------------------------------------- |
-| 1st   | [[#^halfling-paragon-athletic-prowess\|Athletic prowess]], [[#^halfling-paragon-save-bonus\|save bonus]] |
-| 2nd   | [[#^halfling-paragon-thrown-weapon-mastery\|Thrown weapon mastery]]                                      |
-| 3rd   | [[#^halfling-paragon-ability-boost\|Ability boost]] (Dex +2)                                             |
+| Level | Special                                                                                                     |
+| ----- | ----------------------------------------------------------------------------------------------------------- |
+| 1st   | [[#^halfling-paragon-athletic-prowess\|Athletic prowess]], [[#^halfling-paragon-save-bonus\|defense bonus]] |
+| 2nd   | [[#^halfling-paragon-thrown-weapon-mastery\|Thrown weapon mastery]]                                         |
+| 3rd   | [[#^halfling-paragon-ability-boost\|Ability boost]] (Dex +2)                                                |
 
 Halfling paragons have the following game statistics.
 
@@ -80,7 +80,7 @@ All of the following are class features of the halfling paragon class.
 
 **Athletic Prowess (Ex):** At 1st level, a halfling paragon's racial bonus on [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]], and [[rangoric-srd/skills/Stealth|Stealth]] checks improves to +3. ^halfling-paragon-athletic-prowess
 
-**Save Bonus (Ex):** A 1st-level halfling paragon's racial bonus on all saving throws increases by 1. ^halfling-paragon-save-bonus
+**Defense Bonus (Ex):** A 1st-level halfling paragon's racial bonus on all defenses increases by 1. ^halfling-paragon-save-bonus
 
 **Thrown Weapon Mastery (Ex):** At 2nd level, a halfling paragon gains a +2 bonus on damage rolls when using a thrown weapon or a sling. ^halfling-paragon-thrown-weapon-mastery
 

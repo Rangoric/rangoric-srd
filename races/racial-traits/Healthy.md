@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/racial-trait, racial-trait/defense, racial-trait/stand
 
 **Race**: [[rangoric-srd/races/Svirfneblin|Svirfneblin]]. **Replaces**: fortunate.
 
-Svirfneblin gain a +4 bonus on Fortitude saves against disease and poison, including magical diseases.
+Svirfneblin gain a +4 bonus on Fortitude Defense against disease and poison, including magical diseases.

@@ -80,13 +80,13 @@ In addition, while smite evil is in effect, the paladin gains a deflection bonus
 
 The smite evil effect remains until the target of the smite is dead or the next time the paladin rests and regains her uses of this ability. At 4th level, and at every three levels thereafter, the paladin may smite evil one additional time per day, as indicated on Table: Paladin, to a maximum of seven times per day at 19th level.
 
-**Divine Grace (Su)**: At 2nd level, a paladin gains a bonus equal to her Charisma bonus (if any) on all saving throws. ^paladin-divine-grace
+**Divine Grace (Su)**: At 2nd level, a paladin gains a bonus equal to her Charisma bonus (if any) on all defenses. ^paladin-divine-grace
 
 **Lay on Hands (Su)**: Beginning at 2nd level, a paladin can heal wounds (her own or those of others) by touch. Each day she can use this ability a number of times equal to 1/2 her paladin level plus her Charisma modifier. With one use of this ability, a paladin can heal 1d6 hit points of damage for every two paladin levels she possesses. Using this ability is a standard action, unless the paladin targets herself, in which case it is a swift action. Despite the name of this ability, a paladin only needs one free hand to use this ability. ^paladin-lay-on-hands
 
-Alternatively, a paladin can use this healing power to deal damage to undead creatures, dealing 1d6 points of damage for every two levels the paladin possesses. Using lay on hands in this way requires a successful melee touch attack and doesn't provoke an attack of opportunity. Undead do not receive a saving throw against this damage.
+Alternatively, a paladin can use this healing power to deal damage to undead creatures, dealing 1d6 points of damage for every two levels the paladin possesses. Using lay on hands in this way requires a successful melee touch attack and doesn't provoke an attack of opportunity. Undead have no defense against this damage.
 
-**Aura of Courage (Su)**: Beginning at 3rd level, a paladin is immune to fear (magical or otherwise). Each ally within 10 feet of her gains a +4 morale bonus on saving throws against fear effects. This ability functions while the paladin is conscious, but not if she is [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] or [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]]. ^paladin-aura-of-courage
+**Aura of Courage (Su)**: Beginning at 3rd level, a paladin is immune to fear (magical or otherwise). Each ally within 10 feet of her gains a +4 morale bonus on defenses against fear effects. This ability functions while the paladin is conscious, but not if she is [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] or [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]]. ^paladin-aura-of-courage
 
 **Divine Health (Ex)**: At 3rd level, a paladin gains immunity to all diseases, including supernatural and magical diseases, including mummy rot. ^paladin-divine-health
 
@@ -102,7 +102,7 @@ These abilities are cumulative. For example, a 12th-level paladin's lay on hands
 
 **Spells**: Beginning at 4th level, a paladin gains the ability to cast a small number of divine spells, which are drawn from the [[rangoric-srd/spells/Paladin Spell List|paladin spell list]]. A paladin must choose and prepare her spells in advance. ^paladin-spells
 
-To prepare or cast a spell, a paladin must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a paladin’s spell is 10 + the spell level + the paladin’s Charisma modifier.
+To prepare or cast a spell, a paladin must have a Charisma score equal to at least 10 + the spell level. The attack bonus of a paladin’s spell is the spell level + the paladin’s Charisma modifier.
 
 Like other spellcasters, a paladin can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is given on Table: The Paladin. In addition, she receives bonus spells per day if she has a high Charisma score. When Table: The Paladin indicates that the paladin gets 0 spells per day of a given spell level, she gains only the bonus spells she would be entitled to based on her Charisma score for that spell level. The paladin does not have access to any domain spells or granted powers, as a cleric does.
 
@@ -124,13 +124,13 @@ Should the paladin’s mount die, it immediately disappears, leaving behind any 
 
 **Remove Disease (Sp)**: At 6th level, a paladin can produce a remove disease effect, as the spell, once per week. She can use this ability one additional time per week for every three levels after 6th (twice per week at 9th, three times at 12th, and so forth). ^paladin-remove-disease
 
-**Aura of Resolve (Su)**: At 8th level, a paladin is immune to charm spells and spell-like abilities. Each ally within 10 feet of her gains a +4 morale bonus on saving throws against charm effects. This ability functions only while the paladin is conscious, not if she is unconscious or dead. ^paladin-aura-of-resolve
+**Aura of Resolve (Su)**: At 8th level, a paladin is immune to charm spells and spell-like abilities. Each ally within 10 feet of her gains a +4 morale bonus on defenses against charm effects. This ability functions only while the paladin is conscious, not if she is unconscious or dead. ^paladin-aura-of-resolve
 
 **Aura of Justice (Su)**: At 11th level, a paladin can expend two uses of her smite evil ability to grant the ability to smite evil to all allies within 10 feet, using her bonuses. Allies must use this smite evil ability by the start of the paladin's next turn and the bonuses last for 1 minute. Using this ability is a free action. Evil creatures gain no benefit from this ability. ^paladin-aura-of-justice
 
 **Aura of Faith (Su)**: At 14th level, a paladin's weapons are treated as good-aligned for the purposes of overcoming damage reduction. Any attack made against an enemy within 10 feet of her is treated as good-aligned for the purposes of overcoming damage reduction. This ability functions only while the paladin is conscious, not if she is unconscious or dead. ^paladin-aura-of-faith
 
-**Aura of Righteousness (Su)**: At 17th level, a paladin gains DR 5/evil and immunity to compulsion spells and spell-like abilities. Each ally within 10 feet of her gains a +4 morale bonus on saving throws against compulsion effects. This ability functions only while the paladin is conscious, not if she is unconscious or dead. ^paladin-aura-of-righteousness
+**Aura of Righteousness (Su)**: At 17th level, a paladin gains DR 5/evil and immunity to compulsion spells and spell-like abilities. Each ally within 10 feet of her gains a +4 morale bonus on defenses against compulsion effects. This ability functions only while the paladin is conscious, not if she is unconscious or dead. ^paladin-aura-of-righteousness
 
 **Holy Champion (Su)**: At 20th level, a paladin becomes a conduit for the power of her god. Her DR increases to 10/evil. Whenever she uses smite evil and successfully strikes an evil outsider, the outsider is also subject to a _[[rangoric-srd/spells/Banishment|banishment]]_, using her paladin level as the caster level (her weapon and holy symbol automatically count as objects that the subject hates). After the _[[rangoric-srd/spells/Banishment|banishment]]_ effect and the damage from the attack is resolved, the smite immediately ends. In addition, whenever she channels positive energy or uses lay on hands to heal a creature, she heals the maximum possible amount. ^paladin-holy-champion
 
@@ -154,12 +154,12 @@ A paladin who ceases to be lawful good, who willfully commits an evil act, or wh
 
 The paladin’s mount is superior to a normal mount of its kind and has special powers, as described below. The standard mount for a Medium paladin is a heavy warhorse, and the standard mount for a Small paladin is a warpony. Another kind of mount, such as a riding dog (for a halfling paladin) or a Large shark (for a paladin in an aquatic campaign) may be allowed as well. A paladin’s mount is treated as a magical beast, not an animal, for the purpose of all effects that depend on its type (though it retains an animal’s HD, base attack bonus, saves, skill points, and feats).
 
-| Paladin Level | Bonus HD | Natural Armor Adj. | Str Adj. | Int | Special                                                            |
-| ------------- | -------- | ------------------ | -------- | --- | ------------------------------------------------------------------ |
-| 5th–7th       | +2       | +4                 | +1       | 6   | Empathic link, improved evasion, share spells, share saving throws |
-| 8th–10th      | +4       | +6                 | +2       | 7   | Improved speed                                                     |
-| 11th–14th     | +6       | +8                 | +3       | 8   | Command creatures of its kind                                      |
-| 15th–20th     | +8       | +10                | +4       | 9   | Spell resistance                                                   |
+| Paladin Level | Bonus HD | Natural Armor Adj. | Str Adj. | Int | Special                                                       |
+| ------------- | -------- | ------------------ | -------- | --- | ------------------------------------------------------------- |
+| 5th–7th       | +2       | +4                 | +1       | 6   | Empathic link, improved evasion, share spells, share defenses |
+| 8th–10th      | +4       | +6                 | +2       | 7   | Improved speed                                                |
+| 11th–14th     | +6       | +8                 | +3       | 8   | Command creatures of its kind                                 |
+| 15th–20th     | +8       | +10                | +4       | 9   | Spell resistance                                              |
 
 **Paladin’s Mount Basics**: Use the base statistics for a creature of the mount’s kind, but make changes to take into account the attributes and characteristics summarized on the table and described below. ^paladins-mount-basics
 
@@ -175,14 +175,14 @@ _Empathic Link (Su)_: The paladin has an empathic link with her mount out to a d
 
 Because of this empathic link, the paladin has the same connection to an item or place that her mount does, just as with a master and his familiar (see Familiars).
 
-_Improved Evasion (Ex)_: When subjected to an attack that normally allows a Reflex saving throw for half damage, a mount takes no damage if it makes a successful saving throw and half damage if the saving throw fails. ^paladins-mount-imporved-evasion
+_Improved Evasion (Ex)_: When subjected to an attack against its Reflex Defense that normally deals half damage on a miss, a mount takes no damage on a miss and half damage on a hit. ^paladins-mount-imporved-evasion
 
 _Share Spells_: At the paladin’s option, she may have any spell (but not any spell-like ability) she casts on herself also affect her mount. The mount must be within 5 feet at the time of casting to receive the benefit. If the spell or effect has a duration other than instantaneous, it stops affecting the mount if it moves farther than 5 feet away and will not affect the mount again even if it returns to the paladin before the duration expires. Additionally, the paladin may cast a spell with a target of “You” on her mount (as a touch range spell) instead of on herself. A paladin and her mount can share spells even if the spells normally do not affect creatures of the mount’s type (magical beast). ^paladins-mount-share-spells
 
-_Share Saving Throws_: For each of its saving throws, the mount uses its own base save bonus or the paladin’s, whichever is higher. The mount applies its own ability modifiers to saves, and it doesn’t share any other bonuses on saves that the master might have. ^paladins-mount-share-saving-throws
+_Share Defenses_: For each of its Fortitude, Reflex and Will Defenses, the mount uses its own base save bonus or the paladin’s, whichever is higher. The mount applies its own ability modifiers to these defenses, and it doesn’t share any other bonuses on defenses that the master might have. ^paladins-mount-share-saving-throws
 
 _Improved Speed (Ex)_: The mount’s speed increases by 10 feet. ^paladins-mount-improved-speed
 
-_Command (Sp)_: Once per day per two paladin levels of its master, a mount can use this ability to command other any normal animal of approximately the same kind as itself (for warhorses and warponies, this category includes donkeys, mules, and ponies), as long as the target creature has fewer Hit Dice than the mount. This ability functions like the command spell, but the mount must make a DC 21 Concentration check to succeed if it’s being ridden at the time. If the check fails, the ability does not work that time, but it still counts against the mount’s daily uses. Each target may attempt a Will save (DC 10 + 1/2 paladin’s level + paladin’s Cha modifier) to negate the effect. ^paladins-mount-command
+_Command (Sp)_: Once per day per two paladin levels of its master, a mount can use this ability to command other any normal animal of approximately the same kind as itself (for warhorses and warponies, this category includes donkeys, mules, and ponies), as long as the target creature has fewer Hit Dice than the mount. This ability functions like the command spell, but the mount must make a DC 21 Concentration check to succeed if it’s being ridden at the time. If the check fails, the ability does not work that time, but it still counts against the mount’s daily uses. The command attacks each target's Will, its attack bonus 1/2 the paladin’s level + the paladin’s Cha modifier. ^paladins-mount-command
 
 _Spell Resistance (Ex)_: A mount’s spell resistance equals its master’s paladin level + 5. To affect the mount with a spell, a spellcaster must get a result on a caster level check (1d20 + caster level) that equals or exceeds the mount’s spell resistance.

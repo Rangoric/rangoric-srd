@@ -78,7 +78,7 @@ A druid who wears prohibited armor or carries a prohibited shield is unable to c
 
 **Spells**: A druid casts divine spells, which are drawn from the [[rangoric-srd/spells/Druid Spell List|druid spell list]]. Her alignment may restrict her from casting certain spells opposed to her moral or ethical beliefs; see Chaotic, Evil, Good, and Lawful Spells, below. A druid must choose and prepare her spells in advance (see below).
 
-To prepare or cast a spell, the druid must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a druid’s spell is 10 + the spell level + the druid’s Wisdom modifier.
+To prepare or cast a spell, the druid must have a Wisdom score equal to at least 10 + the spell level. The attack bonus of a druid’s spell is the spell level + the druid’s Wisdom modifier.
 
 Like other spellcasters, a druid can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is given on Table: The Druid. In addition, she receives bonus spells per day if she has a high Wisdom score. Unless she takes a domain as her nature bond (see below), she does not have access to any domain spells or granted powers, as a cleric does.
 
@@ -118,7 +118,7 @@ A druid can also use this ability to influence a magical beast with an Intellige
 
 **Trackless Step (Ex)**: Starting at 3rd level, a druid leaves no trail in natural surroundings and cannot be tracked. She may choose to leave a trail if so desired. ^druid-trackless-step
 
-**Resist Nature’s Lure (Ex)**: Starting at 4th level, a druid gains a +4 bonus on saving throws against the spell-like abilities of fey. ^druid-resist-natures-lure
+**Resist Nature’s Lure (Ex)**: Starting at 4th level, a druid gains a +4 bonus on defenses against the spell-like abilities of fey. ^druid-resist-natures-lure
 
 **Wild Shape (Su)**: At 4th level, a druid gains the ability to turn herself into any Small or Medium animal and back again once per day. Her options for new forms include all creatures with the animal type. This ability functions like the _[[rangoric-srd/spells/Beast Shape I|beast shape I]]_ spell, except as noted here. The effect lasts for 1 hour per druid level, or until she changes back. Changing form (to animal or back) is a standard action and doesn't provoke an attack of opportunity. The form chosen must be that of an animal with which the druid is familiar. Each time she uses wild shape, she regains hit points as if she had rested for a night. ^druid-wild-shape
 
@@ -182,15 +182,15 @@ _Link (Ex)_: A druid can handle her animal companion as a free action, or push i
 
 _Share Spells (Ex)_: At the druid’s option, she may have any spell (but not any spell-like ability) she casts upon herself also affect her animal companion. The animal companion must be within 5 feet of her at the time of casting to receive the benefit. If the spell or effect has a duration other than instantaneous, it stops affecting the animal companion if the companion moves farther than 5 feet away and will not affect the animal again, even if it returns to the druid before the duration expires. Additionally, the druid may cast a spell with a target of “You” on her animal companion (as a touch range spell) instead of on herself. A druid and her animal companion can share spells even if the spells normally do not affect creatures of the companion’s type (animal). Spells cast in this way must come from a class that grants an animal companion. This ability does not allow the animal to share abilities that are not spells, even if they function like spells. ^animal-companion-share-spell
 
-_Evasion (Ex)_: If an animal companion is subjected to an attack that normally allows a Reflex saving throw for half damage, it takes no damage if it makes a successful saving throw. ^animal-companion-evasion
+_Evasion (Ex)_: If an animal companion is subjected to an attack against its Reflex Defense that normally deals half damage on a miss, it takes no damage on a miss. ^animal-companion-evasion
 
 _Ability Score Increase (Ex)_: The animal companion adds +1 to one of its ability scores. ^animal-companion-ability-score-increase
 
-_Devotion (Ex)_: An animal companion gains a +4 morale bonus on Will saves against enchantment spells and effects. ^animal-companion-devotion
+_Devotion (Ex)_: An animal companion gains a +4 morale bonus on Will Defense against enchantment spells and effects. ^animal-companion-devotion
 
 _Multiattack_: An animal companion gains Multiattack as a bonus feat if it has three or more natural attacks and does not already have that feat. If it does not have the requisite three or more natural attacks, the animal companion instead gains a second attack with its primary natural weapon, albeit at a –5 penalty. ^animal-companion-multiattack
 
-_Improved Evasion (Ex)_: When subjected to an attack that normally allows a Reflex saving throw for half damage, an animal companion takes no damage if it makes a successful saving throw and only half damage if the saving throw fails. ^animal-companion-improved-evasion
+_Improved Evasion (Ex)_: When subjected to an attack against its Reflex Defense that normally deals half damage on a miss, an animal companion takes no damage on a miss and only half damage on a hit. ^animal-companion-improved-evasion
 
 _Animal Skills_: An animal companion can have ranks in any of the following skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]]\* (Dex), [[rangoric-srd/skills/Athletics|Athletics]]\* (Str), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Perception|Perception]]\* (Wis), [[rangoric-srd/skills/Stealth|Stealth]]\* (Dex), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis). All of the skills marked with an (\*) are class skills for animal companions. An animal companion with an Intelligence of 3 or higher can put ranks into any skill. ^animal-companion-skills
 

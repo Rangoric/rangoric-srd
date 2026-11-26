@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/racial-trait, racial-trait/defense, racial-trait/stand
 
 **Race**: [[rangoric-srd/races/Half-Orc|Half-Orc]]. **Replaces**: intimidating and orc ferocity.
 
-Half-orcs are sometimes forced to live on the rancid and unsanitary margins of society, becoming inured to all manner of sickness. Half-orcs with this racial trait gain a +2 racial bonus on saving throws against disease, ingested poisons, and becoming [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] or [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]].
+Half-orcs are sometimes forced to live on the rancid and unsanitary margins of society, becoming inured to all manner of sickness. Half-orcs with this racial trait gain a +2 racial bonus on defenses against disease, ingested poisons, and becoming [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] or [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]].

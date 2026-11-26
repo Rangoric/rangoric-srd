@@ -81,7 +81,7 @@ tags: [rangoric, rangoric/class]
 
 **Dimension Door (Sp):** At 11th level, a nymph can use _[[rangoric-srd/spells/Dimension Door|dimension door]]_ once per day. ^nymph-dimension-door
 
-**Unearthly Beauty (Su):** At 15th level, a nymph’s beauty can kill: a person who sees it and fails a DC 17 Will save dies, an effect that resembles _[[rangoric-srd/spells/Finger of Death|finger of death]]_. She can use it once per day, for up to 10 minutes. ^nymph-unearthly-beauty
+**Unearthly Beauty (Su):** At 15th level, a nymph’s beauty can kill: its beauty attacks the Will of a person who sees it at +7, and on a hit that person dies, an effect that resembles _[[rangoric-srd/spells/Finger of Death|finger of death]]_. She can use it once per day, for up to 10 minutes. ^nymph-unearthly-beauty
 
 ##### How the Nymph Was Broken Down
 
@@ -93,11 +93,11 @@ Based on the theory that what the monster entry describes is a “full-level” 
 
 - **Saving Throws:** These appear to be “weak” as well. We can use the druid as a comparison, and see that the best fit is a 12<sup>th</sup> level druid. Comparing the saving throw progression of a wizard, which has a “weaker” set of saving throws, we get a closer fit to the numbers we need. Since the best fit is also at 12<sup>th</sup> level, we’ll note the nymph’s in the 12<sup>th</sup> level slot. Fill in the progression with the numbers from the Reflex and Will save columns. Since the other numbers are evenly distributed across the levels, we’ll do the same for the Fortitude save.
 
-- **Blinding beauty:** The nymph has a permanent effect that eternally blinds a person if they fail a DC 15 Fortitude save. This is similar to the 3<sup>rd</sup> level cleric spell _blindness/deafness_. Since clerics and druids are able to cast 3<sup>rd</sup> level spells at 5<sup>th</sup> level and nymphs have druidic abilities, we’ll temporarily put this in the 5<sup>th</sup> level slot.
+- **Blinding beauty:** The nymph has a permanent effect that eternally blinds a person if it hits them at +5 vs Fortitude. This is similar to the 3<sup>rd</sup> level cleric spell _blindness/deafness_. Since clerics and druids are able to cast 3<sup>rd</sup> level spells at 5<sup>th</sup> level and nymphs have druidic abilities, we’ll temporarily put this in the 5<sup>th</sup> level slot.
 
-- **Unearthly beauty:** The nymph’s beauty kills a person if they fail a DC 17 Will save and can be used every 10 minutes. In its ultimate effect, this resembles _finger of death_. Since _finger of death_ is an 8<sup>th</sup> level spell that druids get at 15<sup>th</sup> level, we’ll put this temporarily in the 15<sup>th</sup> level slot.
+- **Unearthly beauty:** The nymph’s beauty kills a person if it hits them at +7 vs Will and can be used every 10 minutes. In its ultimate effect, this resembles _finger of death_. Since _finger of death_ is an 8<sup>th</sup> level spell that druids get at 15<sup>th</sup> level, we’ll put this temporarily in the 15<sup>th</sup> level slot.
 
-- **Spellcasting:** The nymph can cast spells like a 7<sup>th</sup> level druid, and the DC to resist them is normal. For now, let’s place this ability in the 7<sup>th</sup> level slot. Let’s fill out the spells per day while we’re there. We may need to shift it lower because we don’t get the base attack bonus or same saves as a druid of the same level.
+- **Spellcasting:** The nymph can cast spells like a 7<sup>th</sup> level druid, and their attack bonus is normal. For now, let’s place this ability in the 7<sup>th</sup> level slot. Let’s fill out the spells per day while we’re there. We may need to shift it lower because we don’t get the base attack bonus or same saves as a druid of the same level.
 
 - **_Dimension door:_** This ability is a 4<sup>th</sup> level spell. This would be a second 4<sup>th</sup> level spell. So, following the logic we used above, we’ll put this in the 8<sup>th</sup> level slot.
 

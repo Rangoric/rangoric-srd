@@ -73,7 +73,7 @@ All of the following are class features of the magus.
 
 **Spells**: A magus casts arcane spells drawn from the [[rangoric-srd/spells/Magus Spell List|magus spell list]]. A magus must choose and prepare his spells ahead of time. ^magus-spells
 
-To learn, prepare, or cast a spell, the magus must have an Intelligence score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a magus’s spell is 10 + the spell level + the magus’s Intelligence modifier.
+To learn, prepare, or cast a spell, the magus must have an Intelligence score equal to at least 10 + the spell level. The attack bonus of a magus’s spell is the spell level + the magus’s Intelligence modifier.
 
 A magus can cast only a certain number of spells of each spell level per day. His base daily spell allotment is given on [[rangoric-srd/classes/Magus#^table-the-magus|Table: The Magus]]. In addition, he receives bonus spells per day if he has a high Intelligence score.
 
@@ -213,7 +213,7 @@ A magus can only enhance one weapon in this way at one time. If he uses this abi
 
 **Greater Spell Access (Su)**: At 19th level, the magus gains access to an expanded spell list. He learns and places 14 spells from the [[rangoric-srd/spells/Sorcerer and Wizards Spell List|wizard’s spell list]] into his spellbook as magus spells of their wizard level. He gains two of each of the following wizard spells not on the magus spell list: 0-level, 1st-level, 2nd-level, 3rd-level, 4th-level, 5th-level, and 6th-level. He can ignore the somatic component of these spells, casting them without the normal chance of spell failure. ^magus-greater-spell-access
 
-**True Magus (Su)**: At 20th level, the magus becomes a master of spells and combat. Whenever he uses his spell combat ability, he does not need to make a concentration check to cast the spell defensively. Whenever the magus uses spell combat and his spell targets the same creature as his melee attacks, he can choose to either increase the DC to resist the spell by +2, grant himself a +2 circumstance bonus on any checks made to overcome spell resistance, or grant himself a +2 circumstance bonus on all attack rolls made against the target during his turn. ^magus-true-magus
+**True Magus (Su)**: At 20th level, the magus becomes a master of spells and combat. Whenever he uses his spell combat ability, he does not need to make a concentration check to cast the spell defensively. Whenever the magus uses spell combat and his spell targets the same creature as his melee attacks, he can choose to either increase the spell’s attack bonus against defenses by +2, grant himself a +2 circumstance bonus on any checks made to overcome spell resistance, or grant himself a +2 circumstance bonus on all attack rolls made against the target during his turn. ^magus-true-magus
 
 **Archetypes**: A magus can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The magus’s archetypes, with what each replaces: ^magus-archetypes
 
